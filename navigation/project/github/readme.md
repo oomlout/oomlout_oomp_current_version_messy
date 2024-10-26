@@ -178,6 +178,7 @@
   * [oomlout_opsc_v2](oomlout/oomlout_opsc_v2)
   * [oomlout_opsc_version_3](oomlout/oomlout_opsc_version_3)
   * [oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_cubby_hole](oomlout/oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_cubby_hole)
+  * [oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout](oomlout/oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout)
   * [oomlout_organizing_screw_pegs](oomlout/oomlout_organizing_screw_pegs)
   * [oomlout_organizing_wall_mount_tool_drill_hammer_18_volt](oomlout/oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)
   * [oomlout_oshcamp_badge_text](oomlout/oomlout_oshcamp_badge_text)
