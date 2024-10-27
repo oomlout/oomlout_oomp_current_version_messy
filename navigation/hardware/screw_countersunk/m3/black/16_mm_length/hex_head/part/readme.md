@@ -296,6 +296,7 @@ jeans |
 | description_or_color | B16 |  
 | description_or_color_upper | B16 |  
 | directory | parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -350,6 +351,7 @@ jeans |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs3b16h |  
 | oomlout_short_code_upper | CS3B16H |  
+| oomp_id | hardware_screw_countersunk_m3_black_16_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m3_black_16_mm_length_hex_head |  
 | oomp_word | bug droplet tractor |  
 | oomp_word_emoji | :bug: :droplet: :tractor: |  
@@ -357,10 +359,27 @@ jeans |
 | oomp_word_list | ['bug', 'droplet', 'tractor'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1901040 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1151M390016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0448 |  
+| price_100 | 0.0448 |  
+| price_1000 | 0.0224 |  
+| price_10000 | 0.0199 |  
+| price_10000_distributor_orbital_fasteners | 0.0199 |  
+| price_1000_distributor_orbital_fasteners | 0.0224 |  
+| price_100_distributor_orbital_fasteners | 0.0448 |  
+| price_1_distributor_orbital_fasteners | 0.0448 |  
+| price_200 | 0.0249 |  
+| price_200_distributor_orbital_fasteners | 0.0249 |  
+| price_current | 0.0249 |  
+| project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 35 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 70 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 48.16 |  
+| quantity_current | 200 |  
 | short_code | cs3b16h |  
 | short_code_upper | CS3B16H |  
 | size | m3 |  
@@ -425,3 +444,6 @@ jeans |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
+| weight | 0.688 |  
+| weight_10 | 6.88 |  

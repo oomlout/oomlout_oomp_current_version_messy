@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420918855 |  
 | bip_39_word_dash_1 | best |  
 | bip_39_word_dash_10 | best-where-pull-law-broken-comic-use-appear-suggest-hawk |  
 | bip_39_word_dash_11 | best-where-pull-law-broken-comic-use-appear-suggest-hawk-fantasy |  
@@ -171,6 +172,8 @@ suggest |
 | bip_39_word_underscore_7 | best_where_pull_law_broken_comic_use |  
 | bip_39_word_underscore_8 | best_where_pull_law_broken_comic_use_appear |  
 | bip_39_word_underscore_9 | best_where_pull_law_broken_comic_use_appear_suggest |  
+| box_of_box_size_manufacturer_metalmate | 3000 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ suggest |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,6 +300,7 @@ suggest |
 | description_or_color | B35 |  
 | description_or_color_upper | B35 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_35_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -326,6 +331,7 @@ suggest |
 | md5_6_alpha_upper | 1FH96 |  
 | md5_6_upper | 24A61A |  
 | name | Hardware Screw Socket Cap M3 Black 35 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 X 35 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
 | name_no_class | Screw Socket Cap M3 Black 35 mm Length Hex Head |  
 | name_no_color | 35 mm Length Hex Head |  
 | name_no_size | Black 35 mm Length Hex Head |  
@@ -350,6 +356,7 @@ suggest |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b35h |  
 | oomlout_short_code_upper | SC3B35H |  
+| oomp_id | hardware_screw_socket_cap_m3_black_35_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_35_mm_length_hex_head |  
 | oomp_word | droplet trumpet clap |  
 | oomp_word_emoji | :droplet: :trumpet: :clap: |  
@@ -357,10 +364,24 @@ suggest |
 | oomp_word_list | ['droplet', 'trumpet', 'clap'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891056 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M390035 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0756 |  
+| price_100 | 0.0756 |  
+| price_1000 | 0.0378 |  
+| price_10000 | 0.0336 |  
+| price_10000_distributor_orbital_fasteners | 0.0336 |  
+| price_1000_distributor_orbital_fasteners | 0.0378 |  
+| price_100_distributor_orbital_fasteners | 0.0756 |  
+| price_1_distributor_orbital_fasteners | 0.0756 |  
+| price_200 | 0.0420 |  
+| price_200_distributor_orbital_fasteners | 0.0420 |  
+| price_current | 0.0420 |  
+| quantity_current | 200 |  
 | short_code | sc3b35h |  
 | short_code_upper | SC3B35H |  
 | size | m3 |  
@@ -425,3 +446,5 @@ suggest |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-35-socket-cap-screw-gr12-9-self-colour-din-91-1150m390035 |  

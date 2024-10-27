@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420918800 |  
 | bip_39_word_dash_1 | humor |  
 | bip_39_word_dash_10 | humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial |  
 | bip_39_word_dash_11 | humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife |  
@@ -171,6 +172,8 @@ relax |
 | bip_39_word_underscore_7 | humor_kind_long_picnic_same_tiger_bargain |  
 | bip_39_word_underscore_8 | humor_kind_long_picnic_same_tiger_bargain_tortoise |  
 | bip_39_word_underscore_9 | humor_kind_long_picnic_same_tiger_bargain_tortoise_relax |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ relax |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,6 +300,7 @@ relax |
 | description_or_color | B16 |  
 | description_or_color_upper | B16 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_16_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -326,6 +331,7 @@ relax |
 | md5_6_alpha_upper | 4EOHG |  
 | md5_6_upper | 70F774 |  
 | name | Hardware Screw Socket Cap M3 Black 16 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 X 16 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
 | name_no_class | Screw Socket Cap M3 Black 16 mm Length Hex Head |  
 | name_no_color | 16 mm Length Hex Head |  
 | name_no_size | Black 16 mm Length Hex Head |  
@@ -350,6 +356,7 @@ relax |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b16h |  
 | oomlout_short_code_upper | SC3B16H |  
+| oomp_id | hardware_screw_socket_cap_m3_black_16_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_16_mm_length_hex_head |  
 | oomp_word | squirrel six fireworks |  
 | oomp_word_emoji | :squirrel: :six: :fireworks: |  
@@ -357,10 +364,24 @@ relax |
 | oomp_word_list | ['squirrel', 'six', 'fireworks'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891040 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M390016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0470 |  
+| price_100 | 0.0470 |  
+| price_1000 | 0.0235 |  
+| price_10000 | 0.0208 |  
+| price_10000_distributor_orbital_fasteners | 0.0208 |  
+| price_1000_distributor_orbital_fasteners | 0.0235 |  
+| price_100_distributor_orbital_fasteners | 0.0470 |  
+| price_1_distributor_orbital_fasteners | 0.0470 |  
+| price_200 | 0.0261 |  
+| price_200_distributor_orbital_fasteners | 0.0261 |  
+| price_current | 0.0261 |  
+| quantity_current | 200 |  
 | short_code | sc3b16h |  
 | short_code_upper | SC3B16H |  
 | size | m3 |  
@@ -425,3 +446,5 @@ relax |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-16-socket-cap-screw-gr12-9-self-colour-din-91-1150m390016 |  

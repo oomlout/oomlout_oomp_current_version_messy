@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420918824 |  
 | bip_39_word_dash_1 | february |  
 | bip_39_word_dash_10 | february-explain-remove-witness-chair-domain-air-still-cook-market |  
 | bip_39_word_dash_11 | february-explain-remove-witness-chair-domain-air-still-cook-market-drink |  
@@ -171,6 +172,8 @@ cook |
 | bip_39_word_underscore_7 | february_explain_remove_witness_chair_domain_air |  
 | bip_39_word_underscore_8 | february_explain_remove_witness_chair_domain_air_still |  
 | bip_39_word_underscore_9 | february_explain_remove_witness_chair_domain_air_still_cook |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ cook |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,6 +300,7 @@ cook |
 | description_or_color | B20 |  
 | description_or_color_upper | B20 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_20_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -326,6 +331,7 @@ cook |
 | md5_6_alpha_upper | 8G55U |  
 | md5_6_upper | D88622 |  
 | name | Hardware Screw Socket Cap M3 Black 20 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 X 20 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
 | name_no_class | Screw Socket Cap M3 Black 20 mm Length Hex Head |  
 | name_no_color | 20 mm Length Hex Head |  
 | name_no_size | Black 20 mm Length Hex Head |  
@@ -350,6 +356,7 @@ cook |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b20h |  
 | oomlout_short_code_upper | SC3B20H |  
+| oomp_id | hardware_screw_socket_cap_m3_black_20_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_20_mm_length_hex_head |  
 | oomp_word | hospital bath lips |  
 | oomp_word_emoji | :hospital: :bath: :lips: |  
@@ -357,10 +364,24 @@ cook |
 | oomp_word_list | ['hospital', 'bath', 'lips'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891050 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M390020 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0518 |  
+| price_100 | 0.0518 |  
+| price_1000 | 0.0259 |  
+| price_10000 | 0.0230 |  
+| price_10000_distributor_orbital_fasteners | 0.0230 |  
+| price_1000_distributor_orbital_fasteners | 0.0259 |  
+| price_100_distributor_orbital_fasteners | 0.0518 |  
+| price_1_distributor_orbital_fasteners | 0.0518 |  
+| price_200 | 0.0288 |  
+| price_200_distributor_orbital_fasteners | 0.0288 |  
+| price_current | 0.0288 |  
+| quantity_current | 200 |  
 | short_code | sc3b20h |  
 | short_code_upper | SC3B20H |  
 | size | m3 |  
@@ -425,3 +446,5 @@ cook |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-20-socket-cap-screw-gr12-9-self-colour-din-91-1150m390020 |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420056281 |  
 | bip_39_word_dash_1 | segment |  
 | bip_39_word_dash_10 | segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon |  
 | bip_39_word_dash_11 | segment-spare-cause-hungry-gorilla-nerve-gym-session-friend-ribbon-such |  
@@ -171,6 +172,8 @@ friend |
 | bip_39_word_underscore_7 | segment_spare_cause_hungry_gorilla_nerve_gym |  
 | bip_39_word_underscore_8 | segment_spare_cause_hungry_gorilla_nerve_gym_session |  
 | bip_39_word_underscore_9 | segment_spare_cause_hungry_gorilla_nerve_gym_session_friend |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ friend |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,6 +300,7 @@ friend |
 | description_or_color | B25 |  
 | description_or_color_upper | B25 |  
 | directory | parts/hardware_screw_countersunk_m3_black_25_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -326,6 +331,7 @@ friend |
 | md5_6_alpha_upper | 5ONAM |  
 | md5_6_upper | 91B0EE |  
 | name | Hardware Screw Countersunk M3 Black 25 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 X 25 SOCKET CSK SCREW GR10.9 SELF COLOUR DIN 7991 (165) |  
 | name_no_class | Screw Countersunk M3 Black 25 mm Length Hex Head |  
 | name_no_color | 25 mm Length Hex Head |  
 | name_no_size | Black 25 mm Length Hex Head |  
@@ -350,6 +356,7 @@ friend |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs3b25h |  
 | oomlout_short_code_upper | CS3B25H |  
+| oomp_id | hardware_screw_countersunk_m3_black_25_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m3_black_25_mm_length_hex_head |  
 | oomp_word | pushpin crown ambulance |  
 | oomp_word_emoji | :pushpin: :crown: :ambulance: |  
@@ -357,10 +364,27 @@ friend |
 | oomp_word_list | ['pushpin', 'crown', 'ambulance'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1901051 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1151M390025 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0529 |  
+| price_100 | 0.0529 |  
+| price_1000 | 0.0265 |  
+| price_10000 | 0.0235 |  
+| price_10000_distributor_orbital_fasteners | 0.0235 |  
+| price_1000_distributor_orbital_fasteners | 0.0265 |  
+| price_100_distributor_orbital_fasteners | 0.0529 |  
+| price_1_distributor_orbital_fasteners | 0.0529 |  
+| price_200 | 0.0294 |  
+| price_200_distributor_orbital_fasteners | 0.0294 |  
+| price_current | 0.0294 |  
+| project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 20 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 40 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 47.84 |  
+| quantity_current | 200 |  
 | short_code | cs3b25h |  
 | short_code_upper | CS3B25H |  
 | size | m3 |  
@@ -425,3 +449,7 @@ friend |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m390025 |  
+| weight | 1.196 |  
+| weight_10 | 11.96 |  

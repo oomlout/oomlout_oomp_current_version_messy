@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420918732 |  
 | bip_39_word_dash_1 | story |  
 | bip_39_word_dash_10 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet |  
 | bip_39_word_dash_11 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet-fee |  
@@ -171,6 +172,8 @@ obey |
 | bip_39_word_underscore_7 | story_possible_fix_lumber_antenna_advice_wonder |  
 | bip_39_word_underscore_8 | story_possible_fix_lumber_antenna_advice_wonder_index |  
 | bip_39_word_underscore_9 | story_possible_fix_lumber_antenna_advice_wonder_index_obey |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ obey |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,6 +300,7 @@ obey |
 | description_or_color | B5 |  
 | description_or_color_upper | B5 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_5_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -326,6 +331,7 @@ obey |
 | md5_6_alpha_upper | 87WOU |  
 | md5_6_upper | D2A93E |  
 | name | Hardware Screw Socket Cap M3 Black 5 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 X 5 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (165) |  
 | name_no_class | Screw Socket Cap M3 Black 5 mm Length Hex Head |  
 | name_no_color | 5 mm Length Hex Head |  
 | name_no_size | Black 5 mm Length Hex Head |  
@@ -350,6 +356,7 @@ obey |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b5h |  
 | oomlout_short_code_upper | SC3B5H |  
+| oomp_id | hardware_screw_socket_cap_m3_black_5_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_5_mm_length_hex_head |  
 | oomp_word | pineapple sandal monkey |  
 | oomp_word_emoji | :pineapple: :sandal: :monkey: |  
@@ -357,10 +364,24 @@ obey |
 | oomp_word_list | ['pineapple', 'sandal', 'monkey'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1890620 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M390005 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | 0.0421 |  
+| price_100 | 0.0421 |  
+| price_1000 | 0.0211 |  
+| price_10000 | 0.0187 |  
+| price_10000_distributor_orbital_fasteners | 0.0187 |  
+| price_1000_distributor_orbital_fasteners | 0.0211 |  
+| price_100_distributor_orbital_fasteners | 0.0421 |  
+| price_1_distributor_orbital_fasteners | 0.0421 |  
+| price_200 | 0.0234 |  
+| price_200_distributor_orbital_fasteners | 0.0234 |  
+| price_current | 0.0234 |  
+| quantity_current | 200 |  
 | short_code | sc3b5h |  
 | short_code_upper | SC3B5H |  
 | size | m3 |  
@@ -425,3 +446,5 @@ obey |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3x5---socket-cap-hd- |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-5-socket-cap-screw-gr12-9-self-colour-din-912-1150m390005 |  

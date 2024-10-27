@@ -280,6 +280,7 @@ pond |
 | name_no_size | 4 Cell |  
 | name_no_size_short | 4 Cell |  
 | name_no_type | Aa Battery 4 Cell |  
+| oomp_id | electronic_battery_box_aa_battery_4_cell |  
 | oomp_key | oomp_electronic_battery_box_aa_battery_4_cell |  
 | oomp_word | pray rocket droplet |  
 | oomp_word_emoji | :pray: :rocket: :droplet: |  
@@ -287,6 +288,7 @@ pond |
 | oomp_word_list | ['pray', 'rocket', 'droplet'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_lcsc | test_value |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
