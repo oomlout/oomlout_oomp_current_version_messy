@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale
+  * color: oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ pig |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
+| color_capital | Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | oo |  
+| color_length_3 | oom |  
+| color_length_4 | ooml |  
+| color_length_5 | oomlo |  
+| color_length_6 | oomlou |  
+| color_name | Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | oo |  
+| color_no_space_length_3 | oom |  
+| color_no_space_length_4 | ooml |  
+| color_no_space_length_5 | oomlo |  
+| color_no_space_length_6 | oomlou |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OO |  
+| color_no_space_upper_length_3 | OOM |  
+| color_no_space_upper_length_4 | OOML |  
+| color_no_space_upper_length_5 | OOMLO |  
+| color_no_space_upper_length_6 | OOMLOU |  
+| color_upper | OOMLOUT_OOBB_TOOL_SCALE_67_MM_WIDTH_120_MM_HEIGHT_18_MM_DEPTH_500_GRAM_CAPACITY_ALIEXPRESS_SCALE |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OO |  
+| color_upper_length_3 | OOM |  
+| color_upper_length_4 | OOML |  
+| color_upper_length_5 | OOMLO |  
+| color_upper_length_6 | OOMLOU |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
-| description_main_capital | Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | oo |  
-| description_main_length_3 | oom |  
-| description_main_length_4 | ooml |  
-| description_main_length_5 | oomlo |  
-| description_main_length_6 | oomlou |  
-| description_main_name | Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | oo |  
-| description_main_no_space_length_3 | oom |  
-| description_main_no_space_length_4 | ooml |  
-| description_main_no_space_length_5 | oomlo |  
-| description_main_no_space_length_6 | oomlou |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OO |  
-| description_main_no_space_upper_length_3 | OOM |  
-| description_main_no_space_upper_length_4 | OOML |  
-| description_main_no_space_upper_length_5 | OOMLO |  
-| description_main_no_space_upper_length_6 | OOMLOU |  
-| description_main_upper | OOMLOUT_OOBB_TOOL_SCALE_67_MM_WIDTH_120_MM_HEIGHT_18_MM_DEPTH_500_GRAM_CAPACITY_ALIEXPRESS_SCALE |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OO |  
-| description_main_upper_length_3 | OOM |  
-| description_main_upper_length_4 | OOML |  
-| description_main_upper_length_5 | OOMLO |  
-| description_main_upper_length_6 | OOMLOU |  
-| description_only_numbers | 6712018500 |  
-| description_only_numbers_short | 6M7 |  
-| description_or_color | 6M7 |  
-| description_or_color_upper | 6M7 |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ pig |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id | project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id_no_class | github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
-| id_no_color | oobbtoolscale67mmwidth120mmheight18mmdepth500gramcapacityaliexpressscale |  
+| id_no_color | oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id_no_size | oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id_no_type | oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
@@ -278,7 +278,7 @@ pig |
 | md5_6_upper | 63B3A0 |  
 | name | Project Github Oomlout Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_class | Github Oomlout Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
-| name_no_color | Oobbtoolscale67mmwidth120mmheight18mmdepth500Gramcapacityaliexpressscale |  
+| name_no_color | Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_size | Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_size_short | Oobb Tool Scale 67 Mm Width 120 Mm Height 18 Mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_type | Oomlout Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  

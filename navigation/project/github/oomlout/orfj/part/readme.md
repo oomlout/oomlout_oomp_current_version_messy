@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: orfj
+  * color: orfj
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ athlete |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | orfj |  
+| color_capital | Orfj |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | or |  
+| color_length_3 | orf |  
+| color_length_4 | orfj |  
+| color_length_5 | orfj |  
+| color_length_6 | orfj |  
+| color_name | Orfj |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | or |  
+| color_no_space_length_3 | orf |  
+| color_no_space_length_4 | orfj |  
+| color_no_space_length_5 | orfj |  
+| color_no_space_length_6 | orfj |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OR |  
+| color_no_space_upper_length_3 | ORF |  
+| color_no_space_upper_length_4 | ORFJ |  
+| color_no_space_upper_length_5 | ORFJ |  
+| color_no_space_upper_length_6 | ORFJ |  
+| color_upper | ORFJ |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OR |  
+| color_upper_length_3 | ORF |  
+| color_upper_length_4 | ORFJ |  
+| color_upper_length_5 | ORFJ |  
+| color_upper_length_6 | ORFJ |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | orfj |  
-| description_main_capital | Orfj |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | or |  
-| description_main_length_3 | orf |  
-| description_main_length_4 | orfj |  
-| description_main_length_5 | orfj |  
-| description_main_length_6 | orfj |  
-| description_main_name | Orfj |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | or |  
-| description_main_no_space_length_3 | orf |  
-| description_main_no_space_length_4 | orfj |  
-| description_main_no_space_length_5 | orfj |  
-| description_main_no_space_length_6 | orfj |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OR |  
-| description_main_no_space_upper_length_3 | ORF |  
-| description_main_no_space_upper_length_4 | ORFJ |  
-| description_main_no_space_upper_length_5 | ORFJ |  
-| description_main_no_space_upper_length_6 | ORFJ |  
-| description_main_upper | ORFJ |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OR |  
-| description_main_upper_length_3 | ORF |  
-| description_main_upper_length_4 | ORFJ |  
-| description_main_upper_length_5 | ORFJ |  
-| description_main_upper_length_6 | ORFJ |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_orfj |  
 | distributors | [] |  
 | filter |  |  

@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: personal_oomp_household
+  * color: personal_oomp_household
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ boost |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | personal_oomp_household |  
+| color_capital | Personal Oomp Household |  
+| color_first_letter | p |  
+| color_first_letter_upper | P |  
+| color_length_1 | p |  
+| color_length_2 | pe |  
+| color_length_3 | per |  
+| color_length_4 | pers |  
+| color_length_5 | perso |  
+| color_length_6 | person |  
+| color_name | Personal Oomp Household |  
+| color_no_space_length_1 | p |  
+| color_no_space_length_2 | pe |  
+| color_no_space_length_3 | per |  
+| color_no_space_length_4 | pers |  
+| color_no_space_length_5 | perso |  
+| color_no_space_length_6 | person |  
+| color_no_space_upper_length_1 | P |  
+| color_no_space_upper_length_2 | PE |  
+| color_no_space_upper_length_3 | PER |  
+| color_no_space_upper_length_4 | PERS |  
+| color_no_space_upper_length_5 | PERSO |  
+| color_no_space_upper_length_6 | PERSON |  
+| color_upper | PERSONAL_OOMP_HOUSEHOLD |  
+| color_upper_length_1 | P |  
+| color_upper_length_2 | PE |  
+| color_upper_length_3 | PER |  
+| color_upper_length_4 | PERS |  
+| color_upper_length_5 | PERSO |  
+| color_upper_length_6 | PERSON |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | personal_oomp_household |  
-| description_main_capital | Personal Oomp Household |  
-| description_main_first_letter | p |  
-| description_main_first_letter_upper | P |  
-| description_main_length_1 | p |  
-| description_main_length_2 | pe |  
-| description_main_length_3 | per |  
-| description_main_length_4 | pers |  
-| description_main_length_5 | perso |  
-| description_main_length_6 | person |  
-| description_main_name | Personal Oomp Household |  
-| description_main_no_space_length_1 | p |  
-| description_main_no_space_length_2 | pe |  
-| description_main_no_space_length_3 | per |  
-| description_main_no_space_length_4 | pers |  
-| description_main_no_space_length_5 | perso |  
-| description_main_no_space_length_6 | person |  
-| description_main_no_space_upper_length_1 | P |  
-| description_main_no_space_upper_length_2 | PE |  
-| description_main_no_space_upper_length_3 | PER |  
-| description_main_no_space_upper_length_4 | PERS |  
-| description_main_no_space_upper_length_5 | PERSO |  
-| description_main_no_space_upper_length_6 | PERSON |  
-| description_main_upper | PERSONAL_OOMP_HOUSEHOLD |  
-| description_main_upper_length_1 | P |  
-| description_main_upper_length_2 | PE |  
-| description_main_upper_length_3 | PER |  
-| description_main_upper_length_4 | PERS |  
-| description_main_upper_length_5 | PERSO |  
-| description_main_upper_length_6 | PERSON |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | P  |  
+| description_or_color_upper | P  |  
 | directory | parts/project_github_oomlout_personal_oomp_household |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ boost |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_personal_oomp_household |  
 | id | project_github_oomlout_personal_oomp_household |  
 | id_no_class | github_oomlout_personal_oomp_household |  
-| id_no_color | personaloomphousehold |  
+| id_no_color | personal_oomp_household |  
 | id_no_size | personal_oomp_household |  
 | id_no_type | oomlout_personal_oomp_household |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_personal_oomp_household |  
@@ -278,7 +278,7 @@ boost |
 | md5_6_upper | B3D642 |  
 | name | Project Github Oomlout Personal Oomp Household |  
 | name_no_class | Github Oomlout Personal Oomp Household |  
-| name_no_color | Personaloomphousehold |  
+| name_no_color | Personal Oomp Household |  
 | name_no_size | Personal Oomp Household |  
 | name_no_size_short | Personal Oomp Household |  
 | name_no_type | Oomlout Personal Oomp Household |  

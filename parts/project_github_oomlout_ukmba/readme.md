@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: ukmba
+  * color: ukmba
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ swing |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | ukmba |  
+| color_capital | Ukmba |  
+| color_first_letter | u |  
+| color_first_letter_upper | U |  
+| color_length_1 | u |  
+| color_length_2 | uk |  
+| color_length_3 | ukm |  
+| color_length_4 | ukmb |  
+| color_length_5 | ukmba |  
+| color_length_6 | ukmba |  
+| color_name | Ukmba |  
+| color_no_space_length_1 | u |  
+| color_no_space_length_2 | uk |  
+| color_no_space_length_3 | ukm |  
+| color_no_space_length_4 | ukmb |  
+| color_no_space_length_5 | ukmba |  
+| color_no_space_length_6 | ukmba |  
+| color_no_space_upper_length_1 | U |  
+| color_no_space_upper_length_2 | UK |  
+| color_no_space_upper_length_3 | UKM |  
+| color_no_space_upper_length_4 | UKMB |  
+| color_no_space_upper_length_5 | UKMBA |  
+| color_no_space_upper_length_6 | UKMBA |  
+| color_upper | UKMBA |  
+| color_upper_length_1 | U |  
+| color_upper_length_2 | UK |  
+| color_upper_length_3 | UKM |  
+| color_upper_length_4 | UKMB |  
+| color_upper_length_5 | UKMBA |  
+| color_upper_length_6 | UKMBA |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | ukmba |  
-| description_main_capital | Ukmba |  
-| description_main_first_letter | u |  
-| description_main_first_letter_upper | U |  
-| description_main_length_1 | u |  
-| description_main_length_2 | uk |  
-| description_main_length_3 | ukm |  
-| description_main_length_4 | ukmb |  
-| description_main_length_5 | ukmba |  
-| description_main_length_6 | ukmba |  
-| description_main_name | Ukmba |  
-| description_main_no_space_length_1 | u |  
-| description_main_no_space_length_2 | uk |  
-| description_main_no_space_length_3 | ukm |  
-| description_main_no_space_length_4 | ukmb |  
-| description_main_no_space_length_5 | ukmba |  
-| description_main_no_space_length_6 | ukmba |  
-| description_main_no_space_upper_length_1 | U |  
-| description_main_no_space_upper_length_2 | UK |  
-| description_main_no_space_upper_length_3 | UKM |  
-| description_main_no_space_upper_length_4 | UKMB |  
-| description_main_no_space_upper_length_5 | UKMBA |  
-| description_main_no_space_upper_length_6 | UKMBA |  
-| description_main_upper | UKMBA |  
-| description_main_upper_length_1 | U |  
-| description_main_upper_length_2 | UK |  
-| description_main_upper_length_3 | UKM |  
-| description_main_upper_length_4 | UKMB |  
-| description_main_upper_length_5 | UKMBA |  
-| description_main_upper_length_6 | UKMBA |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | U  |  
+| description_or_color_upper | U  |  
 | directory | parts/project_github_oomlout_ukmba |  
 | distributors | [] |  
 | filter |  |  

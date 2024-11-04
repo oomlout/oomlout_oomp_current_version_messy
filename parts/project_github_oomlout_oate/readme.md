@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oate
+  * color: oate
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ curve |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oate |  
+| color_capital | Oate |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | oa |  
+| color_length_3 | oat |  
+| color_length_4 | oate |  
+| color_length_5 | oate |  
+| color_length_6 | oate |  
+| color_name | Oate |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | oa |  
+| color_no_space_length_3 | oat |  
+| color_no_space_length_4 | oate |  
+| color_no_space_length_5 | oate |  
+| color_no_space_length_6 | oate |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OA |  
+| color_no_space_upper_length_3 | OAT |  
+| color_no_space_upper_length_4 | OATE |  
+| color_no_space_upper_length_5 | OATE |  
+| color_no_space_upper_length_6 | OATE |  
+| color_upper | OATE |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OA |  
+| color_upper_length_3 | OAT |  
+| color_upper_length_4 | OATE |  
+| color_upper_length_5 | OATE |  
+| color_upper_length_6 | OATE |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oate |  
-| description_main_capital | Oate |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | oa |  
-| description_main_length_3 | oat |  
-| description_main_length_4 | oate |  
-| description_main_length_5 | oate |  
-| description_main_length_6 | oate |  
-| description_main_name | Oate |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | oa |  
-| description_main_no_space_length_3 | oat |  
-| description_main_no_space_length_4 | oate |  
-| description_main_no_space_length_5 | oate |  
-| description_main_no_space_length_6 | oate |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OA |  
-| description_main_no_space_upper_length_3 | OAT |  
-| description_main_no_space_upper_length_4 | OATE |  
-| description_main_no_space_upper_length_5 | OATE |  
-| description_main_no_space_upper_length_6 | OATE |  
-| description_main_upper | OATE |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OA |  
-| description_main_upper_length_3 | OAT |  
-| description_main_upper_length_4 | OATE |  
-| description_main_upper_length_5 | OATE |  
-| description_main_upper_length_6 | OATE |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oate |  
 | distributors | [] |  
 | filter |  |  

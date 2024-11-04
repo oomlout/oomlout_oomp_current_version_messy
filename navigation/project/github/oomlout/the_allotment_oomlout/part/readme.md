@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: the_allotment_oomlout
+  * color: the_allotment_oomlout
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ fiber |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | the_allotment_oomlout |  
+| color_capital | The Allotment Oomlout |  
+| color_first_letter | t |  
+| color_first_letter_upper | T |  
+| color_length_1 | t |  
+| color_length_2 | th |  
+| color_length_3 | the |  
+| color_length_4 | the_ |  
+| color_length_5 | the_a |  
+| color_length_6 | the_al |  
+| color_name | The Allotment Oomlout |  
+| color_no_space_length_1 | t |  
+| color_no_space_length_2 | th |  
+| color_no_space_length_3 | the |  
+| color_no_space_length_4 | thea |  
+| color_no_space_length_5 | theal |  
+| color_no_space_length_6 | theall |  
+| color_no_space_upper_length_1 | T |  
+| color_no_space_upper_length_2 | TH |  
+| color_no_space_upper_length_3 | THE |  
+| color_no_space_upper_length_4 | THEA |  
+| color_no_space_upper_length_5 | THEAL |  
+| color_no_space_upper_length_6 | THEALL |  
+| color_upper | THE_ALLOTMENT_OOMLOUT |  
+| color_upper_length_1 | T |  
+| color_upper_length_2 | TH |  
+| color_upper_length_3 | THE |  
+| color_upper_length_4 | THE_ |  
+| color_upper_length_5 | THE_A |  
+| color_upper_length_6 | THE_AL |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | the_allotment_oomlout |  
-| description_main_capital | The Allotment Oomlout |  
-| description_main_first_letter | t |  
-| description_main_first_letter_upper | T |  
-| description_main_length_1 | t |  
-| description_main_length_2 | th |  
-| description_main_length_3 | the |  
-| description_main_length_4 | the_ |  
-| description_main_length_5 | the_a |  
-| description_main_length_6 | the_al |  
-| description_main_name | The Allotment Oomlout |  
-| description_main_no_space_length_1 | t |  
-| description_main_no_space_length_2 | th |  
-| description_main_no_space_length_3 | the |  
-| description_main_no_space_length_4 | thea |  
-| description_main_no_space_length_5 | theal |  
-| description_main_no_space_length_6 | theall |  
-| description_main_no_space_upper_length_1 | T |  
-| description_main_no_space_upper_length_2 | TH |  
-| description_main_no_space_upper_length_3 | THE |  
-| description_main_no_space_upper_length_4 | THEA |  
-| description_main_no_space_upper_length_5 | THEAL |  
-| description_main_no_space_upper_length_6 | THEALL |  
-| description_main_upper | THE_ALLOTMENT_OOMLOUT |  
-| description_main_upper_length_1 | T |  
-| description_main_upper_length_2 | TH |  
-| description_main_upper_length_3 | THE |  
-| description_main_upper_length_4 | THE_ |  
-| description_main_upper_length_5 | THE_A |  
-| description_main_upper_length_6 | THE_AL |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | T  |  
+| description_or_color_upper | T  |  
 | directory | parts/project_github_oomlout_the_allotment_oomlout |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ fiber |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_the_allotment_oomlout |  
 | id | project_github_oomlout_the_allotment_oomlout |  
 | id_no_class | github_oomlout_the_allotment_oomlout |  
-| id_no_color | theallotmentoomlout |  
+| id_no_color | the_allotment_oomlout |  
 | id_no_size | the_allotment_oomlout |  
 | id_no_type | oomlout_the_allotment_oomlout |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_oomlout |  
@@ -278,7 +278,7 @@ fiber |
 | md5_6_upper | 11E651 |  
 | name | Project Github Oomlout The Allotment Oomlout |  
 | name_no_class | Github Oomlout The Allotment Oomlout |  
-| name_no_color | Theallotmentoomlout |  
+| name_no_color | The Allotment Oomlout |  
 | name_no_size | The Allotment Oomlout |  
 | name_no_size_short | The Allotment Oomlout |  
 | name_no_type | Oomlout The Allotment Oomlout |  

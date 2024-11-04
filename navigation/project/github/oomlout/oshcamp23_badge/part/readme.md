@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oshcamp23_badge
+  * color: oshcamp23_badge
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ pear |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oshcamp23_badge |  
+| color_capital | Oshcamp23 Badge |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | os |  
+| color_length_3 | osh |  
+| color_length_4 | oshc |  
+| color_length_5 | oshca |  
+| color_length_6 | oshcam |  
+| color_name | Oshcamp23 Badge |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | os |  
+| color_no_space_length_3 | osh |  
+| color_no_space_length_4 | oshc |  
+| color_no_space_length_5 | oshca |  
+| color_no_space_length_6 | oshcam |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OS |  
+| color_no_space_upper_length_3 | OSH |  
+| color_no_space_upper_length_4 | OSHC |  
+| color_no_space_upper_length_5 | OSHCA |  
+| color_no_space_upper_length_6 | OSHCAM |  
+| color_upper | OSHCAMP23_BADGE |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OS |  
+| color_upper_length_3 | OSH |  
+| color_upper_length_4 | OSHC |  
+| color_upper_length_5 | OSHCA |  
+| color_upper_length_6 | OSHCAM |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oshcamp23_badge |  
-| description_main_capital | Oshcamp23 Badge |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | os |  
-| description_main_length_3 | osh |  
-| description_main_length_4 | oshc |  
-| description_main_length_5 | oshca |  
-| description_main_length_6 | oshcam |  
-| description_main_name | Oshcamp23 Badge |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | os |  
-| description_main_no_space_length_3 | osh |  
-| description_main_no_space_length_4 | oshc |  
-| description_main_no_space_length_5 | oshca |  
-| description_main_no_space_length_6 | oshcam |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OS |  
-| description_main_no_space_upper_length_3 | OSH |  
-| description_main_no_space_upper_length_4 | OSHC |  
-| description_main_no_space_upper_length_5 | OSHCA |  
-| description_main_no_space_upper_length_6 | OSHCAM |  
-| description_main_upper | OSHCAMP23_BADGE |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OS |  
-| description_main_upper_length_3 | OSH |  
-| description_main_upper_length_4 | OSHC |  
-| description_main_upper_length_5 | OSHCA |  
-| description_main_upper_length_6 | OSHCAM |  
-| description_only_numbers | 23 |  
-| description_only_numbers_short | 23 |  
-| description_or_color | 23 |  
-| description_or_color_upper | 23 |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oshcamp23_badge |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ pear |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oshcamp23_badge |  
 | id | project_github_oomlout_oshcamp23_badge |  
 | id_no_class | github_oomlout_oshcamp23_badge |  
-| id_no_color | oshcamp23badge |  
+| id_no_color | oshcamp23_badge |  
 | id_no_size | oshcamp23_badge |  
 | id_no_type | oomlout_oshcamp23_badge |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge |  
@@ -278,7 +278,7 @@ pear |
 | md5_6_upper | 1C879B |  
 | name | Project Github Oomlout Oshcamp23 Badge |  
 | name_no_class | Github Oomlout Oshcamp23 Badge |  
-| name_no_color | Oshcamp23Badge |  
+| name_no_color | Oshcamp23 Badge |  
 | name_no_size | Oshcamp23 Badge |  
 | name_no_size_short | Oshcamp23 Badge |  
 | name_no_type | Oomlout Oshcamp23 Badge |  

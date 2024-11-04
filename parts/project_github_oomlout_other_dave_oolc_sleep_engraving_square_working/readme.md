@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: other_dave_oolc_sleep_engraving_square_working
+  * color: other_dave_oolc_sleep_engraving_square_working
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ turtle |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | other_dave_oolc_sleep_engraving_square_working |  
+| color_capital | Other Dave Oolc Sleep Engraving Square Working |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | ot |  
+| color_length_3 | oth |  
+| color_length_4 | othe |  
+| color_length_5 | other |  
+| color_length_6 | other_ |  
+| color_name | Other Dave Oolc Sleep Engraving Square Working |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | ot |  
+| color_no_space_length_3 | oth |  
+| color_no_space_length_4 | othe |  
+| color_no_space_length_5 | other |  
+| color_no_space_length_6 | otherd |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OT |  
+| color_no_space_upper_length_3 | OTH |  
+| color_no_space_upper_length_4 | OTHE |  
+| color_no_space_upper_length_5 | OTHER |  
+| color_no_space_upper_length_6 | OTHERD |  
+| color_upper | OTHER_DAVE_OOLC_SLEEP_ENGRAVING_SQUARE_WORKING |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OT |  
+| color_upper_length_3 | OTH |  
+| color_upper_length_4 | OTHE |  
+| color_upper_length_5 | OTHER |  
+| color_upper_length_6 | OTHER_ |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | other_dave_oolc_sleep_engraving_square_working |  
-| description_main_capital | Other Dave Oolc Sleep Engraving Square Working |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | ot |  
-| description_main_length_3 | oth |  
-| description_main_length_4 | othe |  
-| description_main_length_5 | other |  
-| description_main_length_6 | other_ |  
-| description_main_name | Other Dave Oolc Sleep Engraving Square Working |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | ot |  
-| description_main_no_space_length_3 | oth |  
-| description_main_no_space_length_4 | othe |  
-| description_main_no_space_length_5 | other |  
-| description_main_no_space_length_6 | otherd |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OT |  
-| description_main_no_space_upper_length_3 | OTH |  
-| description_main_no_space_upper_length_4 | OTHE |  
-| description_main_no_space_upper_length_5 | OTHER |  
-| description_main_no_space_upper_length_6 | OTHERD |  
-| description_main_upper | OTHER_DAVE_OOLC_SLEEP_ENGRAVING_SQUARE_WORKING |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OT |  
-| description_main_upper_length_3 | OTH |  
-| description_main_upper_length_4 | OTHE |  
-| description_main_upper_length_5 | OTHER |  
-| description_main_upper_length_6 | OTHER_ |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_other_dave_oolc_sleep_engraving_square_working |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ turtle |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_other_dave_oolc_sleep_engraving_square_working |  
 | id | project_github_oomlout_other_dave_oolc_sleep_engraving_square_working |  
 | id_no_class | github_oomlout_other_dave_oolc_sleep_engraving_square_working |  
-| id_no_color | otherdaveoolcsleepengravingsquareworking |  
+| id_no_color | other_dave_oolc_sleep_engraving_square_working |  
 | id_no_size | other_dave_oolc_sleep_engraving_square_working |  
 | id_no_type | oomlout_other_dave_oolc_sleep_engraving_square_working |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_dave_oolc_sleep_engraving_square_working |  
@@ -278,7 +278,7 @@ turtle |
 | md5_6_upper | A9DCA6 |  
 | name | Project Github Oomlout Other Dave Oolc Sleep Engraving Square Working |  
 | name_no_class | Github Oomlout Other Dave Oolc Sleep Engraving Square Working |  
-| name_no_color | Otherdaveoolcsleepengravingsquareworking |  
+| name_no_color | Other Dave Oolc Sleep Engraving Square Working |  
 | name_no_size | Other Dave Oolc Sleep Engraving Square Working |  
 | name_no_size_short | Other Dave Oolc Sleep Engraving Square Working |  
 | name_no_type | Oomlout Other Dave Oolc Sleep Engraving Square Working |  

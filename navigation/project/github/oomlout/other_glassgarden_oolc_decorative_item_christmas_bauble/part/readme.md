@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: other_glassgarden_oolc_decorative_item_christmas_bauble
+  * color: other_glassgarden_oolc_decorative_item_christmas_bauble
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ assault |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | other_glassgarden_oolc_decorative_item_christmas_bauble |  
+| color_capital | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | ot |  
+| color_length_3 | oth |  
+| color_length_4 | othe |  
+| color_length_5 | other |  
+| color_length_6 | other_ |  
+| color_name | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | ot |  
+| color_no_space_length_3 | oth |  
+| color_no_space_length_4 | othe |  
+| color_no_space_length_5 | other |  
+| color_no_space_length_6 | otherg |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OT |  
+| color_no_space_upper_length_3 | OTH |  
+| color_no_space_upper_length_4 | OTHE |  
+| color_no_space_upper_length_5 | OTHER |  
+| color_no_space_upper_length_6 | OTHERG |  
+| color_upper | OTHER_GLASSGARDEN_OOLC_DECORATIVE_ITEM_CHRISTMAS_BAUBLE |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OT |  
+| color_upper_length_3 | OTH |  
+| color_upper_length_4 | OTHE |  
+| color_upper_length_5 | OTHER |  
+| color_upper_length_6 | OTHER_ |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | other_glassgarden_oolc_decorative_item_christmas_bauble |  
-| description_main_capital | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | ot |  
-| description_main_length_3 | oth |  
-| description_main_length_4 | othe |  
-| description_main_length_5 | other |  
-| description_main_length_6 | other_ |  
-| description_main_name | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | ot |  
-| description_main_no_space_length_3 | oth |  
-| description_main_no_space_length_4 | othe |  
-| description_main_no_space_length_5 | other |  
-| description_main_no_space_length_6 | otherg |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OT |  
-| description_main_no_space_upper_length_3 | OTH |  
-| description_main_no_space_upper_length_4 | OTHE |  
-| description_main_no_space_upper_length_5 | OTHER |  
-| description_main_no_space_upper_length_6 | OTHERG |  
-| description_main_upper | OTHER_GLASSGARDEN_OOLC_DECORATIVE_ITEM_CHRISTMAS_BAUBLE |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OT |  
-| description_main_upper_length_3 | OTH |  
-| description_main_upper_length_4 | OTHE |  
-| description_main_upper_length_5 | OTHER |  
-| description_main_upper_length_6 | OTHER_ |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ assault |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id | project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id_no_class | github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
-| id_no_color | otherglassgardenoolcdecorativeitemchristmasbauble |  
+| id_no_color | other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id_no_size | other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id_no_type | oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
@@ -278,7 +278,7 @@ assault |
 | md5_6_upper | BF9DFF |  
 | name | Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_class | Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble |  
-| name_no_color | Otherglassgardenoolcdecorativeitemchristmasbauble |  
+| name_no_color | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_size | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_size_short | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_type | Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble |  

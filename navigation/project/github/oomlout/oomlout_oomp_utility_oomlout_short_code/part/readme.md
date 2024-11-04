@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oomlout_oomp_utility_oomlout_short_code
+  * color: oomlout_oomp_utility_oomlout_short_code
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ ginger |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oomlout_oomp_utility_oomlout_short_code |  
+| color_capital | Oomlout Oomp Utility Oomlout Short Code |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | oo |  
+| color_length_3 | oom |  
+| color_length_4 | ooml |  
+| color_length_5 | oomlo |  
+| color_length_6 | oomlou |  
+| color_name | Oomlout Oomp Utility Oomlout Short Code |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | oo |  
+| color_no_space_length_3 | oom |  
+| color_no_space_length_4 | ooml |  
+| color_no_space_length_5 | oomlo |  
+| color_no_space_length_6 | oomlou |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OO |  
+| color_no_space_upper_length_3 | OOM |  
+| color_no_space_upper_length_4 | OOML |  
+| color_no_space_upper_length_5 | OOMLO |  
+| color_no_space_upper_length_6 | OOMLOU |  
+| color_upper | OOMLOUT_OOMP_UTILITY_OOMLOUT_SHORT_CODE |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OO |  
+| color_upper_length_3 | OOM |  
+| color_upper_length_4 | OOML |  
+| color_upper_length_5 | OOMLO |  
+| color_upper_length_6 | OOMLOU |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oomlout_oomp_utility_oomlout_short_code |  
-| description_main_capital | Oomlout Oomp Utility Oomlout Short Code |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | oo |  
-| description_main_length_3 | oom |  
-| description_main_length_4 | ooml |  
-| description_main_length_5 | oomlo |  
-| description_main_length_6 | oomlou |  
-| description_main_name | Oomlout Oomp Utility Oomlout Short Code |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | oo |  
-| description_main_no_space_length_3 | oom |  
-| description_main_no_space_length_4 | ooml |  
-| description_main_no_space_length_5 | oomlo |  
-| description_main_no_space_length_6 | oomlou |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OO |  
-| description_main_no_space_upper_length_3 | OOM |  
-| description_main_no_space_upper_length_4 | OOML |  
-| description_main_no_space_upper_length_5 | OOMLO |  
-| description_main_no_space_upper_length_6 | OOMLOU |  
-| description_main_upper | OOMLOUT_OOMP_UTILITY_OOMLOUT_SHORT_CODE |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OO |  
-| description_main_upper_length_3 | OOM |  
-| description_main_upper_length_4 | OOML |  
-| description_main_upper_length_5 | OOMLO |  
-| description_main_upper_length_6 | OOMLOU |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ ginger |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code |  
 | id | project_github_oomlout_oomlout_oomp_utility_oomlout_short_code |  
 | id_no_class | github_oomlout_oomlout_oomp_utility_oomlout_short_code |  
-| id_no_color | oomputilityshortcode |  
+| id_no_color | oomp_utility_short_code |  
 | id_no_size | oomp_utility_short_code |  
 | id_no_type | oomlout_oomlout_oomp_utility_oomlout_short_code |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_oomlout_short_code |  
@@ -278,7 +278,7 @@ ginger |
 | md5_6_upper | 3C0613 |  
 | name | Project Github Oomlout Oomlout Oomp Utility Oomlout Short Code |  
 | name_no_class | Github Oomlout Oomlout Oomp Utility Oomlout Short Code |  
-| name_no_color | Oomputilityshortcode |  
+| name_no_color | Oomp Utility Short Code |  
 | name_no_size | Oomp Utility Short Code |  
 | name_no_size_short | Oomp Utility Short Code |  
 | name_no_type | Oomlout Oomlout Oomp Utility Oomlout Short Code |  

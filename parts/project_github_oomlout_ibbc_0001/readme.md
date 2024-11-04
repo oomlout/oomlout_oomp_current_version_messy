@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: ibbc_0001
+  * color: ibbc_0001
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ diesel |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | ibbc_0001 |  
+| color_capital | Ibbc 0001 |  
+| color_first_letter | i |  
+| color_first_letter_upper | I |  
+| color_length_1 | i |  
+| color_length_2 | ib |  
+| color_length_3 | ibb |  
+| color_length_4 | ibbc |  
+| color_length_5 | ibbc_ |  
+| color_length_6 | ibbc_0 |  
+| color_name | Ibbc 0001 |  
+| color_no_space_length_1 | i |  
+| color_no_space_length_2 | ib |  
+| color_no_space_length_3 | ibb |  
+| color_no_space_length_4 | ibbc |  
+| color_no_space_length_5 | ibbc0 |  
+| color_no_space_length_6 | ibbc00 |  
+| color_no_space_upper_length_1 | I |  
+| color_no_space_upper_length_2 | IB |  
+| color_no_space_upper_length_3 | IBB |  
+| color_no_space_upper_length_4 | IBBC |  
+| color_no_space_upper_length_5 | IBBC0 |  
+| color_no_space_upper_length_6 | IBBC00 |  
+| color_upper | IBBC_0001 |  
+| color_upper_length_1 | I |  
+| color_upper_length_2 | IB |  
+| color_upper_length_3 | IBB |  
+| color_upper_length_4 | IBBC |  
+| color_upper_length_5 | IBBC_ |  
+| color_upper_length_6 | IBBC_0 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | ibbc_0001 |  
-| description_main_capital | Ibbc 0001 |  
-| description_main_first_letter | i |  
-| description_main_first_letter_upper | I |  
-| description_main_length_1 | i |  
-| description_main_length_2 | ib |  
-| description_main_length_3 | ibb |  
-| description_main_length_4 | ibbc |  
-| description_main_length_5 | ibbc_ |  
-| description_main_length_6 | ibbc_0 |  
-| description_main_name | Ibbc 0001 |  
-| description_main_no_space_length_1 | i |  
-| description_main_no_space_length_2 | ib |  
-| description_main_no_space_length_3 | ibb |  
-| description_main_no_space_length_4 | ibbc |  
-| description_main_no_space_length_5 | ibbc0 |  
-| description_main_no_space_length_6 | ibbc00 |  
-| description_main_no_space_upper_length_1 | I |  
-| description_main_no_space_upper_length_2 | IB |  
-| description_main_no_space_upper_length_3 | IBB |  
-| description_main_no_space_upper_length_4 | IBBC |  
-| description_main_no_space_upper_length_5 | IBBC0 |  
-| description_main_no_space_upper_length_6 | IBBC00 |  
-| description_main_upper | IBBC_0001 |  
-| description_main_upper_length_1 | I |  
-| description_main_upper_length_2 | IB |  
-| description_main_upper_length_3 | IBB |  
-| description_main_upper_length_4 | IBBC |  
-| description_main_upper_length_5 | IBBC_ |  
-| description_main_upper_length_6 | IBBC_0 |  
-| description_only_numbers | 0001 |  
-| description_only_numbers_short | 1 |  
-| description_or_color | 1 |  
-| description_or_color_upper | 1 |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | I  |  
+| description_or_color_upper | I  |  
 | directory | parts/project_github_oomlout_ibbc_0001 |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ diesel |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_ibbc_0001 |  
 | id | project_github_oomlout_ibbc_0001 |  
 | id_no_class | github_oomlout_ibbc_0001 |  
-| id_no_color | ibbc0001 |  
+| id_no_color | ibbc_0001 |  
 | id_no_size | ibbc_0001 |  
 | id_no_type | oomlout_ibbc_0001 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001 |  
@@ -278,9 +278,9 @@ diesel |
 | md5_6_upper | ABA9C8 |  
 | name | Project Github Oomlout Ibbc 0001 |  
 | name_no_class | Github Oomlout Ibbc 0001 |  
-| name_no_color | Ibbc0001 |  
+| name_no_color | Ibbc 0001 |  
 | name_no_size | Ibbc 0001 |  
-| name_no_size_short | Ibbc 1 |  
+| name_no_size_short | Ibbc 0001 |  
 | name_no_type | Oomlout Ibbc 0001 |  
 | oomp_key | oomp_project_github_oomlout_ibbc_0001 |  
 | oomp_word | boot sandal apple |  

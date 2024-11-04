@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+  * color: oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ soul |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
+| color_capital | Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | oo |  
+| color_length_3 | oom |  
+| color_length_4 | ooml |  
+| color_length_5 | oomlo |  
+| color_length_6 | oomlou |  
+| color_name | Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | oo |  
+| color_no_space_length_3 | oom |  
+| color_no_space_length_4 | ooml |  
+| color_no_space_length_5 | oomlo |  
+| color_no_space_length_6 | oomlou |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OO |  
+| color_no_space_upper_length_3 | OOM |  
+| color_no_space_upper_length_4 | OOML |  
+| color_no_space_upper_length_5 | OOMLO |  
+| color_no_space_upper_length_6 | OOMLOU |  
+| color_upper | OOMLOUT_OOBB_BUNDLE_OOBB_HOLDER_06_03_06_EX_MOTOR_TT_01_SERVO_CONTROL |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OO |  
+| color_upper_length_3 | OOM |  
+| color_upper_length_4 | OOML |  
+| color_upper_length_5 | OOMLO |  
+| color_upper_length_6 | OOMLOU |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
-| description_main_capital | Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | oo |  
-| description_main_length_3 | oom |  
-| description_main_length_4 | ooml |  
-| description_main_length_5 | oomlo |  
-| description_main_length_6 | oomlou |  
-| description_main_name | Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | oo |  
-| description_main_no_space_length_3 | oom |  
-| description_main_no_space_length_4 | ooml |  
-| description_main_no_space_length_5 | oomlo |  
-| description_main_no_space_length_6 | oomlou |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OO |  
-| description_main_no_space_upper_length_3 | OOM |  
-| description_main_no_space_upper_length_4 | OOML |  
-| description_main_no_space_upper_length_5 | OOMLO |  
-| description_main_no_space_upper_length_6 | OOMLOU |  
-| description_main_upper | OOMLOUT_OOBB_BUNDLE_OOBB_HOLDER_06_03_06_EX_MOTOR_TT_01_SERVO_CONTROL |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OO |  
-| description_main_upper_length_3 | OOM |  
-| description_main_upper_length_4 | OOML |  
-| description_main_upper_length_5 | OOMLO |  
-| description_main_upper_length_6 | OOMLOU |  
-| description_only_numbers | 06030601 |  
-| description_only_numbers_short | 6M |  
-| description_or_color | 6M |  
-| description_or_color_upper | 6M |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
+| description_only_numbers |  |  
+| description_only_numbers_short |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ soul |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | id | project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | id_no_class | github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
-| id_no_color | oobbbundleoobbholder060306exmotortt01servocontrol |  
+| id_no_color | oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | id_no_size | oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | id_no_type | oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
@@ -278,7 +278,7 @@ soul |
 | md5_6_upper | 8451A4 |  
 | name | Project Github Oomlout Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_class | Github Oomlout Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
-| name_no_color | Oobbbundleoobbholder060306Exmotortt01Servocontrol |  
+| name_no_color | Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_size | Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_size_short | Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_type | Oomlout Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  

@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: dave_oolc_peppers_ghost_box
+  * color: dave_oolc_peppers_ghost_box
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ dry |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | dave_oolc_peppers_ghost_box |  
+| color_capital | Dave Oolc Peppers Ghost Box |  
+| color_first_letter | d |  
+| color_first_letter_upper | D |  
+| color_length_1 | d |  
+| color_length_2 | da |  
+| color_length_3 | dav |  
+| color_length_4 | dave |  
+| color_length_5 | dave_ |  
+| color_length_6 | dave_o |  
+| color_name | Dave Oolc Peppers Ghost Box |  
+| color_no_space_length_1 | d |  
+| color_no_space_length_2 | da |  
+| color_no_space_length_3 | dav |  
+| color_no_space_length_4 | dave |  
+| color_no_space_length_5 | daveo |  
+| color_no_space_length_6 | daveoo |  
+| color_no_space_upper_length_1 | D |  
+| color_no_space_upper_length_2 | DA |  
+| color_no_space_upper_length_3 | DAV |  
+| color_no_space_upper_length_4 | DAVE |  
+| color_no_space_upper_length_5 | DAVEO |  
+| color_no_space_upper_length_6 | DAVEOO |  
+| color_upper | DAVE_OOLC_PEPPERS_GHOST_BOX |  
+| color_upper_length_1 | D |  
+| color_upper_length_2 | DA |  
+| color_upper_length_3 | DAV |  
+| color_upper_length_4 | DAVE |  
+| color_upper_length_5 | DAVE_ |  
+| color_upper_length_6 | DAVE_O |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | dave_oolc_peppers_ghost_box |  
-| description_main_capital | Dave Oolc Peppers Ghost Box |  
-| description_main_first_letter | d |  
-| description_main_first_letter_upper | D |  
-| description_main_length_1 | d |  
-| description_main_length_2 | da |  
-| description_main_length_3 | dav |  
-| description_main_length_4 | dave |  
-| description_main_length_5 | dave_ |  
-| description_main_length_6 | dave_o |  
-| description_main_name | Dave Oolc Peppers Ghost Box |  
-| description_main_no_space_length_1 | d |  
-| description_main_no_space_length_2 | da |  
-| description_main_no_space_length_3 | dav |  
-| description_main_no_space_length_4 | dave |  
-| description_main_no_space_length_5 | daveo |  
-| description_main_no_space_length_6 | daveoo |  
-| description_main_no_space_upper_length_1 | D |  
-| description_main_no_space_upper_length_2 | DA |  
-| description_main_no_space_upper_length_3 | DAV |  
-| description_main_no_space_upper_length_4 | DAVE |  
-| description_main_no_space_upper_length_5 | DAVEO |  
-| description_main_no_space_upper_length_6 | DAVEOO |  
-| description_main_upper | DAVE_OOLC_PEPPERS_GHOST_BOX |  
-| description_main_upper_length_1 | D |  
-| description_main_upper_length_2 | DA |  
-| description_main_upper_length_3 | DAV |  
-| description_main_upper_length_4 | DAVE |  
-| description_main_upper_length_5 | DAVE_ |  
-| description_main_upper_length_6 | DAVE_O |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | D  |  
+| description_or_color_upper | D  |  
 | directory | parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ dry |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
 | id | project_github_oomlout_dave_oolc_peppers_ghost_box |  
 | id_no_class | github_oomlout_dave_oolc_peppers_ghost_box |  
-| id_no_color | daveoolcpeppersghostbox |  
+| id_no_color | dave_oolc_peppers_ghost_box |  
 | id_no_size | dave_oolc_peppers_ghost_box |  
 | id_no_type | oomlout_dave_oolc_peppers_ghost_box |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
@@ -278,7 +278,7 @@ dry |
 | md5_6_upper | 7E1313 |  
 | name | Project Github Oomlout Dave Oolc Peppers Ghost Box |  
 | name_no_class | Github Oomlout Dave Oolc Peppers Ghost Box |  
-| name_no_color | Daveoolcpeppersghostbox |  
+| name_no_color | Dave Oolc Peppers Ghost Box |  
 | name_no_size | Dave Oolc Peppers Ghost Box |  
 | name_no_size_short | Dave Oolc Peppers Ghost Box |  
 | name_no_type | Oomlout Dave Oolc Peppers Ghost Box |  

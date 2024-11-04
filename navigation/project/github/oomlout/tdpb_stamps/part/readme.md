@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: tdpb_stamps
+  * color: tdpb_stamps
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ bronze |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | tdpb_stamps |  
+| color_capital | Tdpb Stamps |  
+| color_first_letter | t |  
+| color_first_letter_upper | T |  
+| color_length_1 | t |  
+| color_length_2 | td |  
+| color_length_3 | tdp |  
+| color_length_4 | tdpb |  
+| color_length_5 | tdpb_ |  
+| color_length_6 | tdpb_s |  
+| color_name | Tdpb Stamps |  
+| color_no_space_length_1 | t |  
+| color_no_space_length_2 | td |  
+| color_no_space_length_3 | tdp |  
+| color_no_space_length_4 | tdpb |  
+| color_no_space_length_5 | tdpbs |  
+| color_no_space_length_6 | tdpbst |  
+| color_no_space_upper_length_1 | T |  
+| color_no_space_upper_length_2 | TD |  
+| color_no_space_upper_length_3 | TDP |  
+| color_no_space_upper_length_4 | TDPB |  
+| color_no_space_upper_length_5 | TDPBS |  
+| color_no_space_upper_length_6 | TDPBST |  
+| color_upper | TDPB_STAMPS |  
+| color_upper_length_1 | T |  
+| color_upper_length_2 | TD |  
+| color_upper_length_3 | TDP |  
+| color_upper_length_4 | TDPB |  
+| color_upper_length_5 | TDPB_ |  
+| color_upper_length_6 | TDPB_S |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | tdpb_stamps |  
-| description_main_capital | Tdpb Stamps |  
-| description_main_first_letter | t |  
-| description_main_first_letter_upper | T |  
-| description_main_length_1 | t |  
-| description_main_length_2 | td |  
-| description_main_length_3 | tdp |  
-| description_main_length_4 | tdpb |  
-| description_main_length_5 | tdpb_ |  
-| description_main_length_6 | tdpb_s |  
-| description_main_name | Tdpb Stamps |  
-| description_main_no_space_length_1 | t |  
-| description_main_no_space_length_2 | td |  
-| description_main_no_space_length_3 | tdp |  
-| description_main_no_space_length_4 | tdpb |  
-| description_main_no_space_length_5 | tdpbs |  
-| description_main_no_space_length_6 | tdpbst |  
-| description_main_no_space_upper_length_1 | T |  
-| description_main_no_space_upper_length_2 | TD |  
-| description_main_no_space_upper_length_3 | TDP |  
-| description_main_no_space_upper_length_4 | TDPB |  
-| description_main_no_space_upper_length_5 | TDPBS |  
-| description_main_no_space_upper_length_6 | TDPBST |  
-| description_main_upper | TDPB_STAMPS |  
-| description_main_upper_length_1 | T |  
-| description_main_upper_length_2 | TD |  
-| description_main_upper_length_3 | TDP |  
-| description_main_upper_length_4 | TDPB |  
-| description_main_upper_length_5 | TDPB_ |  
-| description_main_upper_length_6 | TDPB_S |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | T  |  
+| description_or_color_upper | T  |  
 | directory | parts/project_github_oomlout_tdpb_stamps |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ bronze |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_tdpb_stamps |  
 | id | project_github_oomlout_tdpb_stamps |  
 | id_no_class | github_oomlout_tdpb_stamps |  
-| id_no_color | tdpbstamps |  
+| id_no_color | tdpb_stamps |  
 | id_no_size | tdpb_stamps |  
 | id_no_type | oomlout_tdpb_stamps |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps |  
@@ -278,7 +278,7 @@ bronze |
 | md5_6_upper | 6BD839 |  
 | name | Project Github Oomlout Tdpb Stamps |  
 | name_no_class | Github Oomlout Tdpb Stamps |  
-| name_no_color | Tdpbstamps |  
+| name_no_color | Tdpb Stamps |  
 | name_no_size | Tdpb Stamps |  
 | name_no_size_short | Tdpb Stamps |  
 | name_no_type | Oomlout Tdpb Stamps |  

@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: oomp_base_mechanical
+  * color: oomp_base_mechanical
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -201,52 +201,52 @@ chronic |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | oomp_base_mechanical |  
+| color_capital | Oomp Base Mechanical |  
+| color_first_letter | o |  
+| color_first_letter_upper | O |  
+| color_length_1 | o |  
+| color_length_2 | oo |  
+| color_length_3 | oom |  
+| color_length_4 | oomp |  
+| color_length_5 | oomp_ |  
+| color_length_6 | oomp_b |  
+| color_name | Oomp Base Mechanical |  
+| color_no_space_length_1 | o |  
+| color_no_space_length_2 | oo |  
+| color_no_space_length_3 | oom |  
+| color_no_space_length_4 | oomp |  
+| color_no_space_length_5 | oompb |  
+| color_no_space_length_6 | oompba |  
+| color_no_space_upper_length_1 | O |  
+| color_no_space_upper_length_2 | OO |  
+| color_no_space_upper_length_3 | OOM |  
+| color_no_space_upper_length_4 | OOMP |  
+| color_no_space_upper_length_5 | OOMPB |  
+| color_no_space_upper_length_6 | OOMPBA |  
+| color_upper | OOMP_BASE_MECHANICAL |  
+| color_upper_length_1 | O |  
+| color_upper_length_2 | OO |  
+| color_upper_length_3 | OOM |  
+| color_upper_length_4 | OOMP |  
+| color_upper_length_5 | OOMP_ |  
+| color_upper_length_6 | OOMP_B |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | oomp_base_mechanical |  
-| description_main_capital | Oomp Base Mechanical |  
-| description_main_first_letter | o |  
-| description_main_first_letter_upper | O |  
-| description_main_length_1 | o |  
-| description_main_length_2 | oo |  
-| description_main_length_3 | oom |  
-| description_main_length_4 | oomp |  
-| description_main_length_5 | oomp_ |  
-| description_main_length_6 | oomp_b |  
-| description_main_name | Oomp Base Mechanical |  
-| description_main_no_space_length_1 | o |  
-| description_main_no_space_length_2 | oo |  
-| description_main_no_space_length_3 | oom |  
-| description_main_no_space_length_4 | oomp |  
-| description_main_no_space_length_5 | oompb |  
-| description_main_no_space_length_6 | oompba |  
-| description_main_no_space_upper_length_1 | O |  
-| description_main_no_space_upper_length_2 | OO |  
-| description_main_no_space_upper_length_3 | OOM |  
-| description_main_no_space_upper_length_4 | OOMP |  
-| description_main_no_space_upper_length_5 | OOMPB |  
-| description_main_no_space_upper_length_6 | OOMPBA |  
-| description_main_upper | OOMP_BASE_MECHANICAL |  
-| description_main_upper_length_1 | O |  
-| description_main_upper_length_2 | OO |  
-| description_main_upper_length_3 | OOM |  
-| description_main_upper_length_4 | OOMP |  
-| description_main_upper_length_5 | OOMP_ |  
-| description_main_upper_length_6 | OOMP_B |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | O  |  
+| description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomp_base_mechanical |  
 | distributors | [] |  
 | filter |  |  
@@ -254,7 +254,7 @@ chronic |
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_mechanical |  
 | id | project_github_oomlout_oomp_base_mechanical |  
 | id_no_class | github_oomlout_oomp_base_mechanical |  
-| id_no_color | oompbasemechanical |  
+| id_no_color | oomp_base_mechanical |  
 | id_no_size | oomp_base_mechanical |  
 | id_no_type | oomlout_oomp_base_mechanical |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical |  
@@ -278,7 +278,7 @@ chronic |
 | md5_6_upper | 06352F |  
 | name | Project Github Oomlout Oomp Base Mechanical |  
 | name_no_class | Github Oomlout Oomp Base Mechanical |  
-| name_no_color | Oompbasemechanical |  
+| name_no_color | Oomp Base Mechanical |  
 | name_no_size | Oomp Base Mechanical |  
 | name_no_size_short | Oomp Base Mechanical |  
 | name_no_type | Oomlout Oomp Base Mechanical |  

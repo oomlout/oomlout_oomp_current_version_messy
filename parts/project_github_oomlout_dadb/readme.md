@@ -13,8 +13,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * classification: project
   * type: github
   * size: oomlout
-  * color: 
-  * description_main: dadb
+  * color: dadb
+  * description_main: 
   * description_extra: 
   * manufacturer: 
   * part_number: 
@@ -184,52 +184,52 @@ knife |
 | classification_upper_length_4 | PROJ |  
 | classification_upper_length_5 | PROJE |  
 | classification_upper_length_6 | PROJEC |  
-| color |  |  
-| color_capital |  |  
-| color_first_letter |  |  
-| color_first_letter_upper |  |  
-| color_name |  |  
-| color_upper |  |  
+| color | dadb |  
+| color_capital | Dadb |  
+| color_first_letter | d |  
+| color_first_letter_upper | D |  
+| color_length_1 | d |  
+| color_length_2 | da |  
+| color_length_3 | dad |  
+| color_length_4 | dadb |  
+| color_length_5 | dadb |  
+| color_length_6 | dadb |  
+| color_name | Dadb |  
+| color_no_space_length_1 | d |  
+| color_no_space_length_2 | da |  
+| color_no_space_length_3 | dad |  
+| color_no_space_length_4 | dadb |  
+| color_no_space_length_5 | dadb |  
+| color_no_space_length_6 | dadb |  
+| color_no_space_upper_length_1 | D |  
+| color_no_space_upper_length_2 | DA |  
+| color_no_space_upper_length_3 | DAD |  
+| color_no_space_upper_length_4 | DADB |  
+| color_no_space_upper_length_5 | DADB |  
+| color_no_space_upper_length_6 | DADB |  
+| color_upper | DADB |  
+| color_upper_length_1 | D |  
+| color_upper_length_2 | DA |  
+| color_upper_length_3 | DAD |  
+| color_upper_length_4 | DADB |  
+| color_upper_length_5 | DADB |  
+| color_upper_length_6 | DADB |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
 | description_extra_first_letter_upper |  |  
 | description_extra_name |  |  
 | description_extra_upper |  |  
-| description_main | dadb |  
-| description_main_capital | Dadb |  
-| description_main_first_letter | d |  
-| description_main_first_letter_upper | D |  
-| description_main_length_1 | d |  
-| description_main_length_2 | da |  
-| description_main_length_3 | dad |  
-| description_main_length_4 | dadb |  
-| description_main_length_5 | dadb |  
-| description_main_length_6 | dadb |  
-| description_main_name | Dadb |  
-| description_main_no_space_length_1 | d |  
-| description_main_no_space_length_2 | da |  
-| description_main_no_space_length_3 | dad |  
-| description_main_no_space_length_4 | dadb |  
-| description_main_no_space_length_5 | dadb |  
-| description_main_no_space_length_6 | dadb |  
-| description_main_no_space_upper_length_1 | D |  
-| description_main_no_space_upper_length_2 | DA |  
-| description_main_no_space_upper_length_3 | DAD |  
-| description_main_no_space_upper_length_4 | DADB |  
-| description_main_no_space_upper_length_5 | DADB |  
-| description_main_no_space_upper_length_6 | DADB |  
-| description_main_upper | DADB |  
-| description_main_upper_length_1 | D |  
-| description_main_upper_length_2 | DA |  
-| description_main_upper_length_3 | DAD |  
-| description_main_upper_length_4 | DADB |  
-| description_main_upper_length_5 | DADB |  
-| description_main_upper_length_6 | DADB |  
+| description_main |  |  
+| description_main_capital |  |  
+| description_main_first_letter |  |  
+| description_main_first_letter_upper |  |  
+| description_main_name |  |  
+| description_main_upper |  |  
 | description_only_numbers |  |  
 | description_only_numbers_short |   |  
-| description_or_color |   |  
-| description_or_color_upper |   |  
+| description_or_color | D  |  
+| description_or_color_upper | D  |  
 | directory | parts/project_github_oomlout_dadb |  
 | distributors | [] |  
 | filter |  |  
