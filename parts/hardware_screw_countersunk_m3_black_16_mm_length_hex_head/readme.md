@@ -378,7 +378,7 @@ jeans |
 | price_current | 0.0249 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 35 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 70 |  
-| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 48.16 |  
+| project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth_weight | 53.76 |  
 | quantity_current | 200 |  
 | short_code | cs3b16h |  
 | short_code_upper | CS3B16H |  
@@ -445,5 +445,5 @@ jeans |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| weight | 0.688 |  
-| weight_10 | 6.88 |  
+| weight | 0.768 |  
+| weight_10 | 7.68 |  
