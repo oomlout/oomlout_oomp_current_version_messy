@@ -228,6 +228,7 @@ year |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_460_mm_width_640_mm_height |  
+| height | 640 mm |  
 | id | paper_sheet_460_mm_width_640_mm_height |  
 | id_no_class | sheet_460_mm_width_640_mm_height |  
 | id_no_color | 460mmwidth640mmheight |  
@@ -333,3 +334,4 @@ year |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 460 mm |  

@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Piccolo Vine Tomatoes
 
 ### id
 * oomp_id: food_vegetable_tomato_cherry_piccolo
@@ -207,6 +207,7 @@ round |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Piccolo Vine Tomatoes |  
 | description_extra | piccolo |  
 | description_extra_capital | Piccolo |  
 | description_extra_first_letter | p |  
@@ -281,6 +282,7 @@ round |
 | id_no_color | tomatocherrypiccolo |  
 | id_no_size | tomatocherrypiccolo |  
 | id_no_type | tomato_cherry_piccolo |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=517984011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomato_cherry_piccolo |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ round |
 | oomp_word_list | ['shell', 'frog', 'trophy'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 517984011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

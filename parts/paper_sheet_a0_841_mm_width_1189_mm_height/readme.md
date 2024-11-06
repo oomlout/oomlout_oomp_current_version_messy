@@ -228,6 +228,7 @@ lift |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a0_841_mm_width_1189_mm_height |  
+| height | 1189 mm |  
 | id | paper_sheet_a0_841_mm_width_1189_mm_height |  
 | id_no_class | sheet_a0_841_mm_width_1189_mm_height |  
 | id_no_color | a0841mmwidth1189mmheight |  
@@ -333,3 +334,4 @@ lift |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 841 mm |  

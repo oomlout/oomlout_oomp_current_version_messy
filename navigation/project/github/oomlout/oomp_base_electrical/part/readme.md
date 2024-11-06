@@ -258,6 +258,7 @@ myself |
 | id_no_size | oomp_base_electrical |  
 | id_no_type | oomlout_oomp_base_electrical |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electrical |  
+| link_redirect | https://github.com/oomlout/oomp_base_electrical |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

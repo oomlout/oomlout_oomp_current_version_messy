@@ -361,6 +361,7 @@ sphere |
 | oomp_word_list | ['truck', 'smile', 'helicopter'] |  
 | part_number | 302_589_13 |  
 | part_number_capital | 302.589.13 |  
+| part_number_exact | 302.589.13 |  
 | part_number_first_letter | 3 |  
 | part_number_first_letter_upper | 3 |  
 | part_number_length_1 | 3 |  

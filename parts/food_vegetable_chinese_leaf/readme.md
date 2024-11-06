@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Chinese Leaf
 
 ### id
 * oomp_id: food_vegetable_chinese_leaf
@@ -207,6 +207,7 @@ assault |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Chinese Leaf |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -257,6 +258,7 @@ assault |
 | id_no_color | chineseleaf |  
 | id_no_size | chineseleaf |  
 | id_no_type | chinese_leaf |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=527614011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_chinese_leaf |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -289,6 +291,7 @@ assault |
 | oomp_word_list | ['strawberry', 'fish', 'pushpin'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 527614011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

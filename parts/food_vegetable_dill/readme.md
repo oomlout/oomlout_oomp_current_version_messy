@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+Cook With M&S Dill
 
 ### id
 * oomp_id: food_vegetable_dill
@@ -207,6 +207,7 @@ scatter |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | Cook With M&S Dill |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -257,6 +258,7 @@ scatter |
 | id_no_color | dill |  
 | id_no_size | dill |  
 | id_no_type | dill |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=517767011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -289,6 +291,7 @@ scatter |
 | oomp_word_list | ['one', 'foggy', 'handbag'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 517767011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

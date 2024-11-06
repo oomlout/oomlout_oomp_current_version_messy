@@ -258,6 +258,7 @@ nest |
 | id_no_size | oomp_builder |  
 | id_no_type | oomlout_oomlout_oomp_builder |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_builder |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_builder |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

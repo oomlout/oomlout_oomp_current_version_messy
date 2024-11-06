@@ -361,6 +361,7 @@ movie |
 | oomp_word_list | ['ok', 'fireworks', 'apple'] |  
 | part_number | 904_671_12 |  
 | part_number_capital | 904.671.12 |  
+| part_number_exact | 904.671.12 |  
 | part_number_first_letter | 9 |  
 | part_number_first_letter_upper | 9 |  
 | part_number_length_1 | 9 |  

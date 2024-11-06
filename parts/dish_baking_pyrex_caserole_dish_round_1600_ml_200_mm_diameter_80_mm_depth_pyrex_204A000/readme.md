@@ -281,6 +281,7 @@ rent |
 | id_no_color | caseroleround1600ml200mmdiameter80mmdepth204A000 |  
 | id_no_size | caserole_round_1600_ml_200_mm_diameter_80_mm_depth_204A000 |  
 | id_no_type | pyrex_caserole_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=14730280534051 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ rent |
 | oomp_word_list | ['wolf', 'leopard', 'kiss'] |  
 | part_number | 204A000 |  
 | part_number_capital | 204A000 |  
+| part_number_exact | 204A000 |  
 | part_number_first_letter | 2 |  
 | part_number_first_letter_upper | 2 |  
 | part_number_length_1 | 2 |  

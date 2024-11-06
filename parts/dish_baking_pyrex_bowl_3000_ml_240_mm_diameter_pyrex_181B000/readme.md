@@ -281,6 +281,7 @@ team |
 | id_no_color | bowl3000ml240mmdiameter181B000 |  
 | id_no_size | bowl_3000_ml_240_mm_diameter_181B000 |  
 | id_no_type | pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280730659 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ team |
 | oomp_word_list | ['cyclone', 'ok', 'squirrel'] |  
 | part_number | 181B000 |  
 | part_number_capital | 181B000 |  
+| part_number_exact | 181B000 |  
 | part_number_first_letter | 1 |  
 | part_number_first_letter_upper | 1 |  
 | part_number_length_1 | 1 |  

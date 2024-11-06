@@ -255,6 +255,7 @@ share |
 | id_no_color | 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10 |  
 | id_no_size | 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10 |  
 | id_no_type | 16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
+| link | https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
 | manufacturer | storm_interface |  
 | manufacturer_capital | Storm Interface |  
@@ -341,6 +342,7 @@ share |
 | part_number_upper_length_6 | 2K16T1 |  
 | short_code |  |  
 | short_code_upper |  |  
+| short_name |  |  
 | size |  |  
 | size_capital |  |  
 | size_first_letter |  |  

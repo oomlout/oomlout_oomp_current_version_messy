@@ -258,6 +258,7 @@ age |
 | id_no_size | oomp_electronic_breakout_board_mcu_atmega328_shennie |  
 | id_no_type | oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_electronic_breakout_board_mcu_atmega328_shennie |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

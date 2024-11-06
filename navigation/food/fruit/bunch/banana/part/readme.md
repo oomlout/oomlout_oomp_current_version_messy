@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+Ocado Bananas
 
 ### id
 * oomp_id: food_fruit_bunch_banana
@@ -207,6 +207,7 @@ setup |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | Ocado Bananas |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -257,6 +258,7 @@ setup |
 | id_no_color | banana |  
 | id_no_size | banana |  
 | id_no_type | bunch_banana |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=44855011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -289,6 +291,7 @@ setup |
 | oomp_word_list | ['kissing', 'bowtie', 'frog'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 44855011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

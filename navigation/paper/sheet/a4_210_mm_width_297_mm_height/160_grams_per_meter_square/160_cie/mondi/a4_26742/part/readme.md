@@ -272,10 +272,16 @@ impose |
 | description_or_color | 160 |  
 | description_or_color_upper | 160 |  
 | directory | parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742 |  
+| distributor_amazon | B000KJOBK6 |  
+| distributor_amazon_link | https://www.amazon.co.uk/dp/B000KJOBK6 |  
+| distributor_viking_direct | 73160 |  
+| distributor_viking_direct_link | https://www.viking-direct.co.uk/en/p/73160 |  
+| distributor_viking_note | free delivery over 59 pounds |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742 |  
+| height | 297 mm |  
 | id | paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742 |  
 | id_no_class | sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742 |  
 | id_no_color | 160gramspermetersquare160ciemondia426742 |  
@@ -337,6 +343,7 @@ impose |
 | oomp_word_list | ['sandal', 'gift', 'ghost'] |  
 | part_number | a4_26742 |  
 | part_number_capital | A4.26742 |  
+| part_number_exact | A4-26742 |  
 | part_number_first_letter | a |  
 | part_number_first_letter_upper | A |  
 | part_number_length_1 | a |  
@@ -365,6 +372,9 @@ impose |
 | part_number_upper_length_4 | A4_2 |  
 | part_number_upper_length_5 | A4_26 |  
 | part_number_upper_length_6 | A4_267 |  
+| price_1 | 0.029333333333333336 |  
+| price_1_distributor_amazon | 0.0483 |  
+| price_1_distributor_viking_direct | 0.029333333333333336 |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a4_210_mm_width_297_mm_height |  
@@ -429,3 +439,5 @@ impose |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| upc | 9003974416373 |  
+| width | 210 mm |  

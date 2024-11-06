@@ -258,6 +258,7 @@ dial |
 | id_no_size | bolt_photo_working |  
 | id_no_type | oomlout_oomlout_bolt_photo_working |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_photo_working |  
+| link_redirect | https://github.com/oomlout/oomlout_bolt_photo_working |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

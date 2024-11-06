@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Perfectly Ripe Medium Hass Avocados
 
 ### id
 * oomp_id: food_vegetable_avocado
@@ -207,6 +207,7 @@ hello |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Perfectly Ripe Medium Hass Avocados |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -257,6 +258,7 @@ hello |
 | id_no_color | avocado |  
 | id_no_size | avocado |  
 | id_no_type | avocado |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=517789011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -289,6 +291,7 @@ hello |
 | oomp_word_list | ['factory', 'thumbsdown', 'spaghetti'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 517789011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

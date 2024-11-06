@@ -361,6 +361,7 @@ upon |
 | oomp_word_list | ['briefcase', 'ticket', 'birthday'] |  
 | part_number | 603_189_39 |  
 | part_number_capital | 603.189.39 |  
+| part_number_exact | 603.189.39 |  
 | part_number_first_letter | 6 |  
 | part_number_first_letter_upper | 6 |  
 | part_number_length_1 | 6 |  

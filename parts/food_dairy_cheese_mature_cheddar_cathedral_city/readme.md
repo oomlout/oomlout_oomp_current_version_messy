@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+Cathedral City Mature Cheddar Cheese
 
 ### id
 * oomp_id: food_dairy_cheese_mature_cheddar_cathedral_city
@@ -207,6 +207,7 @@ argue |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | Cathedral City Mature Cheddar Cheese |  
 | description_extra | mature_cheddar |  
 | description_extra_capital | Mature Cheddar |  
 | description_extra_first_letter | m |  
@@ -281,6 +282,7 @@ argue |
 | id_no_color | cheesematurecheddarcathedralcity |  
 | id_no_size | cheesematurecheddarcathedralcity |  
 | id_no_type | cheese_mature_cheddar_cathedral_city |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=31833011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city |  
 | manufacturer | cathedral_city |  
 | manufacturer_capital | Cathedral City |  
@@ -337,6 +339,7 @@ argue |
 | oomp_word_list | ['chestnut', 'thumbsdown', 'wolf'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 31833011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

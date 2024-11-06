@@ -361,6 +361,7 @@ fix |
 | oomp_word_list | ['trumpet', 'cherries', 'handbag'] |  
 | part_number | 802_589_15 |  
 | part_number_capital | 802.589.15 |  
+| part_number_exact | 802.589.15 |  
 | part_number_first_letter | 8 |  
 | part_number_first_letter_upper | 8 |  
 | part_number_length_1 | 8 |  

@@ -228,6 +228,7 @@ ice |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a2_420_mm_width_594_mm_height |  
+| height | 594 mm |  
 | id | paper_sheet_a2_420_mm_width_594_mm_height |  
 | id_no_class | sheet_a2_420_mm_width_594_mm_height |  
 | id_no_color | a2420mmwidth594mmheight |  
@@ -333,3 +334,4 @@ ice |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 420 mm |  

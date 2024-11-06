@@ -257,6 +257,7 @@ invest |
 | id_no_color | cucumber |  
 | id_no_size | cucumber |  
 | id_no_type | cucumber |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=240875011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_cucumber |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -289,6 +290,7 @@ invest |
 | oomp_word_list | ['handbag', 'eyeglasses', 'banana'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 240875011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

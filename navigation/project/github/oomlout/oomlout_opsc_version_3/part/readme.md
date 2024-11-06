@@ -258,6 +258,7 @@ depart |
 | id_no_size | opsc_version_3 |  
 | id_no_type | oomlout_oomlout_opsc_version_3 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc_version_3 |  
+| link_redirect | https://github.com/oomlout/oomlout_opsc_version_3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

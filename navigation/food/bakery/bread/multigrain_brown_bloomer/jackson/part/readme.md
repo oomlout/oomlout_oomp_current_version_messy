@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+Jackson's Multigrain Brown Bloomer
 
 ### id
 * oomp_id: food_bakery_bread_multigrain_brown_bloomer_jackson
@@ -207,6 +207,7 @@ range |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | Jackson's Multigrain Brown Bloomer |  
 | description_extra | multigrain_brown_bloomer |  
 | description_extra_capital | Multigrain Brown Bloomer |  
 | description_extra_first_letter | m |  
@@ -281,6 +282,7 @@ range |
 | id_no_color | breadmultigrainbrownbloomerjackson |  
 | id_no_size | breadmultigrainbrownbloomerjackson |  
 | id_no_type | bread_multigrain_brown_bloomer_jackson |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=86084011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_bread_multigrain_brown_bloomer_jackson |  
 | manufacturer | jackson |  
 | manufacturer_capital | Jackson |  
@@ -337,6 +339,7 @@ range |
 | oomp_word_list | ['leaves', 'diamonds', 'door'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 86084011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

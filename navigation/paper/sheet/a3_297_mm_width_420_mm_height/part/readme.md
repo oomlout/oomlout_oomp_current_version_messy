@@ -228,6 +228,7 @@ canyon |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height |  
+| height | 420 mm |  
 | id | paper_sheet_a3_297_mm_width_420_mm_height |  
 | id_no_class | sheet_a3_297_mm_width_420_mm_height |  
 | id_no_color | a3297mmwidth420mmheight |  
@@ -333,3 +334,4 @@ canyon |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 297 mm |  

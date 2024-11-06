@@ -214,6 +214,7 @@
     * [oomlout_tdpbmct_tool_scale](github/oomlout/oomlout_tdpbmct_tool_scale)
     * [oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module](github/oomlout/oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module)
     * [oomlout_tdpb_base](github/oomlout/oomlout_tdpb_base)
+    * [oomlout_three_d_printing_utility_gcode_repeater](github/oomlout/oomlout_three_d_printing_utility_gcode_repeater)
     * [oomlout_toys_lego_sorting_odd_box_extra_small_sorter](github/oomlout/oomlout_toys_lego_sorting_odd_box_extra_small_sorter)
     * [oomlout_toys_lego_sorting_oobb_cube_sorter](github/oomlout/oomlout_toys_lego_sorting_oobb_cube_sorter)
     * [oomlout_tpge](github/oomlout/oomlout_tpge)

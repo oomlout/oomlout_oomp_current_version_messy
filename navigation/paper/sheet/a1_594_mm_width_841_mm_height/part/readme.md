@@ -228,6 +228,7 @@ way |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a1_594_mm_width_841_mm_height |  
+| height | 841 mm |  
 | id | paper_sheet_a1_594_mm_width_841_mm_height |  
 | id_no_class | sheet_a1_594_mm_width_841_mm_height |  
 | id_no_color | a1594mmwidth841mmheight |  
@@ -333,3 +334,4 @@ way |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 594 mm |  

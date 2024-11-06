@@ -258,6 +258,7 @@ half |
 | id_no_size | oobb_tool_header_pin_press |  
 | id_no_type | oomlout_oomlout_oobb_tool_header_pin_press |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_header_pin_press |  
+| link_redirect | https://github.com/oomlout/oomlout_oobb_tool_header_pin_press |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Select Farms British 12 Pork Chipolatas
 
 ### id
 * oomp_id: food_meat_sausages_pork_chipolatas
@@ -207,6 +207,7 @@ industry |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Select Farms British 12 Pork Chipolatas |  
 | description_extra | pork_chipolatas |  
 | description_extra_capital | Pork Chipolatas |  
 | description_extra_first_letter | p |  
@@ -281,6 +282,7 @@ industry |
 | id_no_color | sausagesporkchipolatas |  
 | id_no_size | sausagesporkchipolatas |  
 | id_no_type | sausages_pork_chipolatas |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=523896011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ industry |
 | oomp_word_list | ['watermelon', 'feet', 'factory'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 523896011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

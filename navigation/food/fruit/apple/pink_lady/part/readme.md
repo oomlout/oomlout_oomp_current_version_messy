@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Pink Lady Apples
 
 ### id
 * oomp_id: food_fruit_apple_pink_lady
@@ -207,6 +207,7 @@ legal |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Pink Lady Apples |  
 | description_extra | pink_lady |  
 | description_extra_capital | Pink Lady |  
 | description_extra_first_letter | p |  
@@ -281,6 +282,7 @@ legal |
 | id_no_color | applepinklady |  
 | id_no_size | applepinklady |  
 | id_no_type | apple_pink_lady |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=518257011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ legal |
 | oomp_word_list | ['spaghetti', 'cherries', 'herb'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 518257011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Soft Tortilla Wraps
 
 ### id
 * oomp_id: food_bakery_tortilla_wrap_soft
@@ -207,6 +207,7 @@ delay |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Soft Tortilla Wraps |  
 | description_extra | soft |  
 | description_extra_capital | Soft |  
 | description_extra_first_letter | s |  
@@ -281,6 +282,7 @@ delay |
 | id_no_color | tortillawrapsoft |  
 | id_no_size | tortillawrapsoft |  
 | id_no_type | tortilla_wrap_soft |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=511143011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bakery_tortilla_wrap_soft |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ delay |
 | oomp_word_list | ['shoe', 'hospital', 'watermelon'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 511143011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

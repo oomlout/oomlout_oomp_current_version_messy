@@ -281,6 +281,7 @@ myself |
 | id_no_color | bowl1000ml170mmdiameter179B000 |  
 | id_no_size | bowl_1000_ml_170_mm_diameter_179B000 |  
 | id_no_type | pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280665123 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ myself |
 | oomp_word_list | ['gift', 'cake', 'tram'] |  
 | part_number | 179B000 |  
 | part_number_capital | 179B000 |  
+| part_number_exact | 179B000 |  
 | part_number_first_letter | 1 |  
 | part_number_first_letter_upper | 1 |  
 | part_number_length_1 | 1 |  

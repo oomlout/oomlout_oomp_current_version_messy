@@ -281,6 +281,7 @@ tuition |
 | id_no_color | bowl500ml140mmdiameter178B000 |  
 | id_no_size | bowl_500_ml_140_mm_diameter_178B000 |  
 | id_no_type | pyrex_bowl_500_ml_140_mm_diameter_pyrex_178B000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280632355 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_500_ml_140_mm_diameter_pyrex_178B000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ tuition |
 | oomp_word_list | ['elephant', 'sunflower', 'lock'] |  
 | part_number | 178B000 |  
 | part_number_capital | 178B000 |  
+| part_number_exact | 178B000 |  
 | part_number_first_letter | 1 |  
 | part_number_first_letter_upper | 1 |  
 | part_number_length_1 | 1 |  

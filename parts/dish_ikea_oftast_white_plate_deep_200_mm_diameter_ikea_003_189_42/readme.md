@@ -361,6 +361,7 @@ drastic |
 | oomp_word_list | ['fries', 'fish', 'three'] |  
 | part_number | 003_189_42 |  
 | part_number_capital | 003.189.42 |  
+| part_number_exact | 003.189.42 |  
 | part_number_first_letter | 0 |  
 | part_number_first_letter_upper | 0 |  
 | part_number_length_1 | 0 |  

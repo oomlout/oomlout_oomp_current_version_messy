@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+Ocado Large Free Range Eggs
 
 ### id
 * oomp_id: food_dairy_eggs_large_free_range_six
@@ -207,6 +207,7 @@ improve |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | Ocado Large Free Range Eggs |  
 | description_extra | large_free_range_six |  
 | description_extra_capital | Large Free Range Six |  
 | description_extra_first_letter | l |  
@@ -281,6 +282,7 @@ improve |
 | id_no_color | eggslargefreerangesix |  
 | id_no_size | eggslargefreerangesix |  
 | id_no_type | eggs_large_free_range_six |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=57293011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_eggs_large_free_range_six |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ improve |
 | oomp_word_list | ['koala', 'water_buffalo', 'speaker'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 57293011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

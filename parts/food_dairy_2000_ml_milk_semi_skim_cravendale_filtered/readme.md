@@ -281,6 +281,7 @@ know |
 | id_no_color | milksemiskimcravendalefiltered |  
 | id_no_size | milk_semi_skim_cravendale_filtered |  
 | id_no_type | 2000_ml_milk_semi_skim_cravendale_filtered |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=24581011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_cravendale_filtered |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +314,7 @@ know |
 | oomp_word_list | ['nine', 'turtle', 'grin'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 24581011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

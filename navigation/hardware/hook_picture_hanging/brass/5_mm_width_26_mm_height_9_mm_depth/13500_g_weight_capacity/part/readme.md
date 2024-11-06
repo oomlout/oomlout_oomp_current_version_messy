@@ -296,6 +296,8 @@ ceiling |
 | description_or_color | B5k2 |  
 | description_or_color_upper | B5K2 |  
 | directory | parts/hardware_hook_picture_hanging_brass_5_mm_width_26_mm_height_9_mm_depth_13500_g_weight_capacity |  
+| distributor_amazon | B0CSBNN2R1 |  
+| distributor_amazon_link | https://www.amazon.co.uk/dp/B0CSBNN2R1 |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  

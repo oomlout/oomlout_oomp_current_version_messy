@@ -228,6 +228,7 @@ chief |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_510_mm_width_750_mm_height |  
+| height | 750 mm |  
 | id | paper_sheet_510_mm_width_750_mm_height |  
 | id_no_class | sheet_510_mm_width_750_mm_height |  
 | id_no_color | 510mmwidth750mmheight |  
@@ -333,3 +334,4 @@ chief |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 510 mm |  

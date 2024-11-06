@@ -258,6 +258,7 @@ swing |
 | id_no_size | ukmba |  
 | id_no_type | oomlout_ukmba |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ukmba |  
+| link_redirect | https://github.com/oomlout/UKMBA |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

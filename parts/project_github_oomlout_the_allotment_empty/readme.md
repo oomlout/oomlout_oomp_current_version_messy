@@ -258,6 +258,7 @@ kingdom |
 | id_no_size | the_allotment_empty |  
 | id_no_type | oomlout_the_allotment_empty |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_the_allotment_empty |  
+| link_redirect | https://github.com/oomlout/the_allotment_empty |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

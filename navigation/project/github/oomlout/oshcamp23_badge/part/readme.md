@@ -258,6 +258,7 @@ pear |
 | id_no_size | oshcamp23_badge |  
 | id_no_type | oomlout_oshcamp23_badge |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oshcamp23_badge |  
+| link_redirect | https://github.com/oomlout/oshcamp23-badge |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

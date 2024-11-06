@@ -258,6 +258,7 @@ stove |
 | id_no_size | tdpb_base |  
 | id_no_type | oomlout_oomlout_tdpb_base |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tdpb_base |  
+| link_redirect | https://github.com/oomlout/oomlout_tdpb_base |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

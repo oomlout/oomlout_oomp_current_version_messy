@@ -228,6 +228,7 @@ squirrel |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height |  
+| height | 74 mm |  
 | id | paper_sheet_a8_52_mm_width_74_mm_height |  
 | id_no_class | sheet_a8_52_mm_width_74_mm_height |  
 | id_no_color | a852mmwidth74mmheight |  
@@ -333,3 +334,4 @@ squirrel |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 52 mm |  

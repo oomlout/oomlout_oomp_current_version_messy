@@ -361,6 +361,7 @@ candy |
 | oomp_word_list | ['kiss', 'sunny', 'wink'] |  
 | part_number | 702_589_16 |  
 | part_number_capital | 702.589.16 |  
+| part_number_exact | 702.589.16 |  
 | part_number_first_letter | 7 |  
 | part_number_first_letter_upper | 7 |  
 | part_number_length_1 | 7 |  

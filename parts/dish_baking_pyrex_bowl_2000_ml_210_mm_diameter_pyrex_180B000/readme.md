@@ -281,6 +281,7 @@ seed |
 | id_no_color | bowl2000ml210mmdiameter180B000 |  
 | id_no_size | bowl_2000_ml_210_mm_diameter_180B000 |  
 | id_no_type | pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280697891 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ seed |
 | oomp_word_list | ['key', 'goat', 'balloon'] |  
 | part_number | 180B000 |  
 | part_number_capital | 180B000 |  
+| part_number_exact | 180B000 |  
 | part_number_first_letter | 1 |  
 | part_number_first_letter_upper | 1 |  
 | part_number_length_1 | 1 |  

@@ -228,6 +228,7 @@ plastic |
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a5_148_mm_width_210_mm_height |  
+| height | 210 mm |  
 | id | paper_sheet_a5_148_mm_width_210_mm_height |  
 | id_no_class | sheet_a5_148_mm_width_210_mm_height |  
 | id_no_color | a5148mmwidth210mmheight |  
@@ -333,3 +334,4 @@ plastic |
 | type_upper_length_4 | SHEE |  
 | type_upper_length_5 | SHEET |  
 | type_upper_length_6 | SHEET |  
+| width | 148 mm |  

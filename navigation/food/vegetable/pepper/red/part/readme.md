@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Red Peppers
 
 ### id
 * oomp_id: food_vegetable_pepper_red
@@ -207,6 +207,7 @@ embrace |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Red Peppers |  
 | description_extra | red |  
 | description_extra_capital | Red |  
 | description_extra_first_letter | r |  
@@ -281,6 +282,7 @@ embrace |
 | id_no_color | pepperred |  
 | id_no_size | pepperred |  
 | id_no_type | pepper_red |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=528414011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_pepper_red |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ embrace |
 | oomp_word_list | ['tent', 'herb', 'alien'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 528414011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  

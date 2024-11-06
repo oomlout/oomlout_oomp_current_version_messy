@@ -281,6 +281,7 @@ neutral |
 | id_no_color | caseroleround3700ml270mmdiameter100mmdepth118A000 |  
 | id_no_size | caserole_round_3700_ml_270_mm_diameter_100_mm_depth_118A000 |  
 | id_no_type | pyrex_caserole_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
+| link_distributor_pyrex | https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=39702806560803 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
@@ -337,6 +338,7 @@ neutral |
 | oomp_word_list | ['ambulance', 'bamboo', 'snowflake'] |  
 | part_number | 118A000 |  
 | part_number_capital | 118A000 |  
+| part_number_exact | 118A000 |  
 | part_number_first_letter | 1 |  
 | part_number_first_letter_upper | 1 |  
 | part_number_length_1 | 1 |  

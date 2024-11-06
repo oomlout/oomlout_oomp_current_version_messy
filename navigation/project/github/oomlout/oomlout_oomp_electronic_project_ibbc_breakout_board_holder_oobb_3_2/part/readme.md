@@ -258,6 +258,7 @@ wink |
 | id_no_size | oomp_electronic_ibbc_breakout_board_holder_oobb_3_2 |  
 | id_no_type | oomlout_oomlout_oomp_electronic_ibbc_breakout_board_holder_oobb_3_2 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2 |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  

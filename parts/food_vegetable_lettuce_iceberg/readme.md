@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-
+M&S Iceberg Lettuce
 
 ### id
 * oomp_id: food_vegetable_lettuce_iceberg
@@ -207,6 +207,7 @@ believe |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| description | M&S Iceberg Lettuce |  
 | description_extra | iceberg |  
 | description_extra_capital | Iceberg |  
 | description_extra_first_letter | i |  
@@ -281,6 +282,7 @@ believe |
 | id_no_color | lettuceiceberg |  
 | id_no_size | lettuceiceberg |  
 | id_no_type | lettuce_iceberg |  
+| link_distributor_ocado | https://www.ocado.com/search?entry=518090011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -313,6 +315,7 @@ believe |
 | oomp_word_list | ['factory', 'ambulance', 'bike'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_ocado | 518090011 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
