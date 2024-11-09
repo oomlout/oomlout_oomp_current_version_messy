@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: valid frozen hospital task horn sudden law mirror hello boost suggest admit
 
 ### other_codes
-* short_code: n2d7m
+* short_code: n2d7mco
 * oomp_word: bear briefcase lollipop
 * oomp_word_emoji :bear: :briefcase: :lollipop:
 * md5_6_alpha: 2bume
@@ -283,8 +283,8 @@ hello |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M2 7 Coupling |  
-| oomlout_short_code | n2d7m |  
-| oomlout_short_code_upper | N2D7M |  
+| oomlout_short_code | n2d7mco |  
+| oomlout_short_code_upper | N2D7MCO |  
 | oomp_key | oomp_hardware_nut_m2_7_coupling |  
 | oomp_word | bear briefcase lollipop |  
 | oomp_word_emoji | :bear: :briefcase: :lollipop: |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420654227 |  
 | bip_39_word_dash_1 | search |  
 | bip_39_word_dash_10 | search-number-room-milk-cage-sentence-daughter-around-father-neither |  
 | bip_39_word_dash_11 | search-number-room-milk-cage-sentence-daughter-around-father-neither-exit |  
@@ -171,6 +172,8 @@ father |
 | bip_39_word_underscore_7 | search_number_room_milk_cage_sentence_daughter |  
 | bip_39_word_underscore_8 | search_number_room_milk_cage_sentence_daughter_around |  
 | bip_39_word_underscore_9 | search_number_room_milk_cage_sentence_daughter_around_father |  
+| box_of_box_size_manufacturer_metalmate | 1200 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ father |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ father |
 | md5_6_alpha_upper | 11ECL |  
 | md5_6_upper | 1A9FE5 |  
 | name | Hardware Set Screw M6 70 mm Length |  
+| name_manufacturer_metalmate | M6 x 70 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 70 mm Length |  
 | name_no_color | 70mmlength |  
 | name_no_size | 70 mm Length |  
@@ -302,6 +307,7 @@ father |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m70 |  
 | oomlout_short_code_upper | SS6M70 |  
+| oomp_id | hardware_set_screw_m6_70_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_70_mm_length |  
 | oomp_word | clap diamonds rocket |  
 | oomp_word_emoji | :clap: :diamonds: :rocket: |  
@@ -309,10 +315,23 @@ father |
 | oomp_word_list | ['clap', 'diamonds', 'rocket'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851250 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490070 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0356 |  
+| price_1000_distributor_orbital_fasteners | 0.0401 |  
+| price_100_distributor_orbital_fasteners | 0.0802 |  
+| price_1_distributor_orbital_fasteners | 0.0802 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0445 |  
+| price_current | missing_value |  
 | short_code | ss670 |  
 | short_code_upper | SS670 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ father |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-70-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490070 |  

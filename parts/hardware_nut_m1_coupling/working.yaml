@@ -330,8 +330,8 @@ name_no_color: Coupling
 name_no_size: Coupling
 name_no_size_short: Coupling
 name_no_type: M1 Coupling
-oomlout_short_code: n1m
-oomlout_short_code_upper: N1M
+oomlout_short_code: n1mco
+oomlout_short_code_upper: N1MCO
 oomp_key: oomp_hardware_nut_m1_coupling
 oomp_word: question tractor boot
 oomp_word_emoji: ':question: :tractor: :boot:'

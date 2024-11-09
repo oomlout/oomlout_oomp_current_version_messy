@@ -302,6 +302,7 @@ daring |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss3m20 |  
 | oomlout_short_code_upper | SS3M20 |  
+| oomp_id | hardware_set_screw_m3_20_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m3_20_mm_length |  
 | oomp_word | peach wolf bank |  
 | oomp_word_emoji | :peach: :wolf: :bank: |  
@@ -309,10 +310,22 @@ daring |
 | oomp_word_list | ['peach', 'wolf', 'bank'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1850840 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0202 |  
+| price_1000_distributor_orbital_fasteners | 0.0252 |  
+| price_100_distributor_orbital_fasteners | 0.0454 |  
+| price_1_distributor_orbital_fasteners | 0.0454 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0454 |  
+| price_current | missing_value |  
 | short_code | ss320 |  
 | short_code_upper | SS320 |  
 | size | m3 |  
@@ -377,3 +390,4 @@ daring |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  

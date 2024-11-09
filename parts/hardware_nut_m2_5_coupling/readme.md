@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: kite step zoo trend protect dose size window unfold charge web author
 
 ### other_codes
-* short_code: n2d5m
+* short_code: n2d5mco
 * oomp_word: six ticket hammer
 * oomp_word_emoji :six: :ticket: :hammer:
 * md5_6_alpha: 9o9zd
@@ -283,8 +283,8 @@ unfold |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M2 5 Coupling |  
-| oomlout_short_code | n2d5m |  
-| oomlout_short_code_upper | N2D5M |  
+| oomlout_short_code | n2d5mco |  
+| oomlout_short_code_upper | N2D5MCO |  
 | oomp_key | oomp_hardware_nut_m2_5_coupling |  
 | oomp_word | six ticket hammer |  
 | oomp_word_emoji | :six: :ticket: :hammer: |  

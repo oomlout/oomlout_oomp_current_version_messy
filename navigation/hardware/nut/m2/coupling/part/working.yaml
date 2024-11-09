@@ -330,8 +330,8 @@ name_no_color: Coupling
 name_no_size: Coupling
 name_no_size_short: Coupling
 name_no_type: M2 Coupling
-oomlout_short_code: n2m
-oomlout_short_code_upper: N2M
+oomlout_short_code: n2mco
+oomlout_short_code_upper: N2MCO
 oomp_key: oomp_hardware_nut_m2_coupling
 oomp_word: zap tractor paperclip
 oomp_word_emoji: ':zap: :tractor: :paperclip:'

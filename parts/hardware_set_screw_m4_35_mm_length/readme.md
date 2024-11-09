@@ -302,6 +302,7 @@ relax |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss4m35 |  
 | oomlout_short_code_upper | SS4M35 |  
+| oomp_id | hardware_set_screw_m4_35_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m4_35_mm_length |  
 | oomp_word | flags trident three |  
 | oomp_word_emoji | :flags: :trident: :three: |  
@@ -309,10 +310,22 @@ relax |
 | oomp_word_list | ['flags', 'trident', 'three'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851051 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0214 |  
+| price_1000_distributor_orbital_fasteners | 0.0268 |  
+| price_100_distributor_orbital_fasteners | 0.0481 |  
+| price_1_distributor_orbital_fasteners | 0.0481 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0481 |  
+| price_current | missing_value |  
 | short_code | ss435 |  
 | short_code_upper | SS435 |  
 | size | m4 |  
@@ -377,3 +390,4 @@ relax |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-35-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  

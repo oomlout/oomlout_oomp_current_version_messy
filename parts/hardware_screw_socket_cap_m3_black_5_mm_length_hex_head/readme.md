@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918732 |  
+| barcode_manufacturer_metalmate | 5050420695909 |  
 | bip_39_word_dash_1 | story |  
 | bip_39_word_dash_10 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet |  
 | bip_39_word_dash_11 | story-possible-fix-lumber-antenna-advice-wonder-index-obey-wet-fee |  
@@ -331,7 +331,7 @@ obey |
 | md5_6_alpha_upper | 87WOU |  
 | md5_6_upper | D2A93E |  
 | name | Hardware Screw Socket Cap M3 Black 5 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 5 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (165) |  
+| name_manufacturer_metalmate | M3 x 5 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M3 Black 5 mm Length Hex Head |  
 | name_no_color | 5 mm Length Hex Head |  
 | name_no_size | Black 5 mm Length Hex Head |  
@@ -370,17 +370,17 @@ obey |
 | part_number_manufacturer_metalmate | 1150M390005 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0421 |  
-| price_100 | 0.0421 |  
-| price_1000 | 0.0211 |  
-| price_10000 | 0.0187 |  
-| price_10000_distributor_orbital_fasteners | 0.0187 |  
-| price_1000_distributor_orbital_fasteners | 0.0211 |  
-| price_100_distributor_orbital_fasteners | 0.0421 |  
-| price_1_distributor_orbital_fasteners | 0.0421 |  
-| price_200 | 0.0234 |  
-| price_200_distributor_orbital_fasteners | 0.0234 |  
-| price_current | 0.0234 |  
+| price_1 | 0.0337 |  
+| price_100 | 0.0337 |  
+| price_1000 | 0.015 |  
+| price_10000 | 0.015 |  
+| price_10000_distributor_orbital_fasteners | 0.015 |  
+| price_1000_distributor_orbital_fasteners | 0.015 |  
+| price_100_distributor_orbital_fasteners | 0.0337 |  
+| price_1_distributor_orbital_fasteners | 0.0337 |  
+| price_200 | 0.0187 |  
+| price_200_distributor_orbital_fasteners | 0.0187 |  
+| price_current | 0.0187 |  
 | quantity_current | 200 |  
 | short_code | sc3b5h |  
 | short_code_upper | SC3B5H |  

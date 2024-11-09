@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918909 |  
+| barcode_manufacturer_metalmate | 5050420696043 |  
 | bip_39_word_dash_1 | below |  
 | bip_39_word_dash_10 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel-uncle |  
 | bip_39_word_dash_11 | below-mango-damage-next-orchard-relief-cancel-nurse-weasel-uncle-proof |  
@@ -331,7 +331,7 @@ weasel |
 | md5_6_alpha_upper | D4MZ |  
 | md5_6_upper | 0958BB |  
 | name | Hardware Screw Socket Cap M3 Black 60 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 60 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (195) |  
+| name_manufacturer_metalmate | M3 x 60 Socket Cap Screw Gr12.9 Self Colour DIN 912 195 |  
 | name_no_class | Screw Socket Cap M3 Black 60 mm Length Hex Head |  
 | name_no_color | 60 mm Length Hex Head |  
 | name_no_size | Black 60 mm Length Hex Head |  

@@ -221,6 +221,7 @@
     * [oomlout_whsn](github/oomlout/oomlout_whsn)
     * [oomlout_wikb](github/oomlout/oomlout_wikb)
     * [oomlout_wlrh](github/oomlout/oomlout_wlrh)
+    * [oomlout_wool_sphere](github/oomlout/oomlout_wool_sphere)
     * [oomp_base](github/oomlout/oomp_base)
     * [oomp_base_company_oomlout](github/oomlout/oomp_base_company_oomlout)
     * [oomp_base_company_oomlout_datasheet](github/oomlout/oomp_base_company_oomlout_datasheet)

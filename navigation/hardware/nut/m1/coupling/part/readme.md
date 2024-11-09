@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: shuffle hood sea occur bullet pizza grab myself crowd pumpkin vocal abuse
 
 ### other_codes
-* short_code: n1m
+* short_code: n1mco
 * oomp_word: question tractor boot
 * oomp_word_emoji :question: :tractor: :boot:
 * md5_6_alpha: rz57
@@ -283,8 +283,8 @@ crowd |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M1 Coupling |  
-| oomlout_short_code | n1m |  
-| oomlout_short_code_upper | N1M |  
+| oomlout_short_code | n1mco |  
+| oomlout_short_code_upper | N1MCO |  
 | oomp_key | oomp_hardware_nut_m1_coupling |  
 | oomp_word | question tractor boot |  
 | oomp_word_emoji | :question: :tractor: :boot: |  

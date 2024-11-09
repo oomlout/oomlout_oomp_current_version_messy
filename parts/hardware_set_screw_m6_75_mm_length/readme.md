@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420675888 |  
 | bip_39_word_dash_1 | bullet |  
 | bip_39_word_dash_10 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake-endless |  
 | bip_39_word_dash_11 | bullet-leave-midnight-toddler-clean-depart-original-calm-mistake-endless-penalty |  
@@ -171,6 +172,8 @@ mistake |
 | bip_39_word_underscore_7 | bullet_leave_midnight_toddler_clean_depart_original |  
 | bip_39_word_underscore_8 | bullet_leave_midnight_toddler_clean_depart_original_calm |  
 | bip_39_word_underscore_9 | bullet_leave_midnight_toddler_clean_depart_original_calm_mistake |  
+| box_of_box_size_manufacturer_metalmate | 1200 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ mistake |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ mistake |
 | md5_6_alpha_upper | 4CAOI |  
 | md5_6_upper | 6F4512 |  
 | name | Hardware Set Screw M6 75 mm Length |  
+| name_manufacturer_metalmate | M6 x 75 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 75 mm Length |  
 | name_no_color | 75mmlength |  
 | name_no_size | 75 mm Length |  
@@ -302,6 +307,7 @@ mistake |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m75 |  
 | oomlout_short_code_upper | SS6M75 |  
+| oomp_id | hardware_set_screw_m6_75_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_75_mm_length |  
 | oomp_word | moon snake anger |  
 | oomp_word_emoji | :moon: :snake: :anger: |  
@@ -309,10 +315,23 @@ mistake |
 | oomp_word_list | ['moon', 'snake', 'anger'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851247 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490075 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0379 |  
+| price_1000_distributor_orbital_fasteners | 0.0427 |  
+| price_100_distributor_orbital_fasteners | 0.0853 |  
+| price_1_distributor_orbital_fasteners | 0.0853 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0474 |  
+| price_current | missing_value |  
 | short_code | ss675 |  
 | short_code_upper | SS675 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ mistake |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-75-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated- |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-75-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490075 |  

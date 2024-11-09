@@ -1,4 +1,4 @@
-barcode_manufacturer_metalmate: '5050420918824'
+barcode_manufacturer_metalmate: '5050420695978'
 bip_39_word_dash_1: february
 bip_39_word_dash_10: february-explain-remove-witness-chair-domain-air-still-cook-market
 bip_39_word_dash_11: february-explain-remove-witness-chair-domain-air-still-cook-market-drink
@@ -379,7 +379,7 @@ md5_6_alpha: 8g55u
 md5_6_alpha_upper: 8G55U
 md5_6_upper: D88622
 name: Hardware Screw Socket Cap M3 Black 20 mm Length Hex Head
-name_manufacturer_metalmate: M3 X 20 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150)
+name_manufacturer_metalmate: M3 x 20 Socket Cap Screw Gr12.9 Self Colour DIN 912 150
 name_no_class: Screw Socket Cap M3 Black 20 mm Length Hex Head
 name_no_color: 20 mm Length Hex Head
 name_no_size: Black 20 mm Length Hex Head
@@ -424,17 +424,17 @@ part_number_first_letter_upper: ''
 part_number_manufacturer_metalmate: 1150M390020
 part_number_name: ''
 part_number_upper: ''
-price_1: '0.0518'
-price_100: '0.0518'
-price_1000: '0.0259'
-price_10000: '0.0230'
-price_10000_distributor_orbital_fasteners: '0.0230'
-price_1000_distributor_orbital_fasteners: '0.0259'
-price_100_distributor_orbital_fasteners: '0.0518'
-price_1_distributor_orbital_fasteners: '0.0518'
-price_200: '0.0288'
-price_200_distributor_orbital_fasteners: '0.0288'
-price_current: '0.0288'
+price_1: '0.0415'
+price_100: '0.0415'
+price_1000: '0.0185'
+price_10000: '0.0185'
+price_10000_distributor_orbital_fasteners: '0.0185'
+price_1000_distributor_orbital_fasteners: '0.0185'
+price_100_distributor_orbital_fasteners: '0.0415'
+price_1_distributor_orbital_fasteners: '0.0415'
+price_200: '0.023'
+price_200_distributor_orbital_fasteners: '0.023'
+price_current: '0.023'
 quantity_current: '200'
 short_code: sc3b20h
 short_code_upper: SC3B20H

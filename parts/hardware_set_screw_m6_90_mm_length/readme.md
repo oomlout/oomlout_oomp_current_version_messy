@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420664806 |  
 | bip_39_word_dash_1 | kitchen |  
 | bip_39_word_dash_10 | kitchen-cruel-below-hello-gospel-powder-undo-fat-general-foot |  
 | bip_39_word_dash_11 | kitchen-cruel-below-hello-gospel-powder-undo-fat-general-foot-exact |  
@@ -171,6 +172,8 @@ general |
 | bip_39_word_underscore_7 | kitchen_cruel_below_hello_gospel_powder_undo |  
 | bip_39_word_underscore_8 | kitchen_cruel_below_hello_gospel_powder_undo_fat |  
 | bip_39_word_underscore_9 | kitchen_cruel_below_hello_gospel_powder_undo_fat_general |  
+| box_of_box_size_manufacturer_metalmate | 1000 |  
+| box_size_manufacturer_metalmate | 100 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ general |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ general |
 | md5_6_alpha_upper | 1FFDI |  
 | md5_6_upper | 249C96 |  
 | name | Hardware Set Screw M6 90 mm Length |  
+| name_manufacturer_metalmate | M6 x 90 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 90 mm Length |  
 | name_no_color | 90mmlength |  
 | name_no_size | 90 mm Length |  
@@ -302,6 +307,7 @@ general |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m90 |  
 | oomlout_short_code_upper | SS6M90 |  
+| oomp_id | hardware_set_screw_m6_90_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_90_mm_length |  
 | oomp_word | droplet spades basketball |  
 | oomp_word_emoji | :droplet: :spades: :basketball: |  
@@ -309,10 +315,23 @@ general |
 | oomp_word_list | ['droplet', 'spades', 'basketball'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851252 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490090 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0806 |  
+| price_1000_distributor_orbital_fasteners | 0.0806 |  
+| price_100_distributor_orbital_fasteners | 0.1008 |  
+| price_1_distributor_orbital_fasteners | 0.1813 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.1008 |  
+| price_current | missing_value |  
 | short_code | ss690 |  
 | short_code_upper | SS690 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ general |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-90-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-90-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490090 |  

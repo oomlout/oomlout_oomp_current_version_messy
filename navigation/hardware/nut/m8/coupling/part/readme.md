@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: way sight clever fever craft expose stem century weapon group slide ancient
 
 ### other_codes
-* short_code: n8m
+* short_code: n8mco
 * oomp_word: hammer baseball pray
 * oomp_word_emoji :hammer: :baseball: :pray:
 * md5_6_alpha: 5d9nd
@@ -283,8 +283,8 @@ weapon |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M8 Coupling |  
-| oomlout_short_code | n8m |  
-| oomlout_short_code_upper | N8M |  
+| oomlout_short_code | n8mco |  
+| oomlout_short_code_upper | N8MCO |  
 | oomp_key | oomp_hardware_nut_m8_coupling |  
 | oomp_word | hammer baseball pray |  
 | oomp_word_emoji | :hammer: :baseball: :pray: |  

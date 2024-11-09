@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: smart juice prison lunch illegal pony age bright action snap paper advance
 
 ### other_codes
-* short_code: n1d5m
+* short_code: n1d5mco
 * oomp_word: horse horse two
 * oomp_word_emoji :horse: :horse: :two:
 * md5_6_alpha: 2guer
@@ -283,8 +283,8 @@ action |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M1 5 Coupling |  
-| oomlout_short_code | n1d5m |  
-| oomlout_short_code_upper | N1D5M |  
+| oomlout_short_code | n1d5mco |  
+| oomlout_short_code_upper | N1D5MCO |  
 | oomp_key | oomp_hardware_nut_m1_5_coupling |  
 | oomp_word | horse horse two |  
 | oomp_word_emoji | :horse: :horse: :two: |  

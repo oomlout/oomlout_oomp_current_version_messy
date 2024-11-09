@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918879 |  
+| barcode_manufacturer_metalmate | 5050420696029 |  
 | bip_39_word_dash_1 | blur |  
 | bip_39_word_dash_10 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross |  
 | bip_39_word_dash_11 | blur-exclude-keen-betray-nasty-pumpkin-neither-mention-helmet-cross-action |  
@@ -331,7 +331,7 @@ helmet |
 | md5_6_alpha_upper | 4REA5 |  
 | md5_6_upper | 7A050D |  
 | name | Hardware Screw Socket Cap M3 Black 45 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 45 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
+| name_manufacturer_metalmate | M3 x 45 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 45 mm Length Hex Head |  
 | name_no_color | 45 mm Length Hex Head |  
 | name_no_size | Black 45 mm Length Hex Head |  

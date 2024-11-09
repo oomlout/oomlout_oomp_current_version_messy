@@ -302,6 +302,7 @@ sister |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m18 |  
 | oomlout_short_code_upper | SS6M18 |  
+| oomp_id | hardware_set_screw_m6_18_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_18_mm_length |  
 | oomp_word | koala feet palm_tree |  
 | oomp_word_emoji | :koala: :feet: :palm_tree: |  
@@ -309,10 +310,23 @@ sister |
 | oomp_word_list | ['koala', 'feet', 'palm_tree'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851178 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490018 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0245 |  
+| price_1000_distributor_orbital_fasteners | 0.0306 |  
+| price_100_distributor_orbital_fasteners | 0.0551 |  
+| price_1_distributor_orbital_fasteners | 0.0551 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0551 |  
+| price_current | missing_value |  
 | short_code | ss618 |  
 | short_code_upper | SS618 |  
 | size | m6 |  
@@ -377,3 +391,4 @@ sister |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-18-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  

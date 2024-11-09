@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918886 |  
+| barcode_manufacturer_metalmate | 5050420696036 |  
 | bip_39_word_dash_1 | worth |  
 | bip_39_word_dash_10 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding-indicate |  
 | bip_39_word_dash_11 | worth-oak-marble-buffalo-museum-recycle-provide-boat-pudding-indicate-hedgehog |  
@@ -331,7 +331,7 @@ pudding |
 | md5_6_alpha_upper | 4MX3W |  
 | md5_6_upper | 76D51C |  
 | name | Hardware Screw Socket Cap M3 Black 50 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 50 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
+| name_manufacturer_metalmate | M3 x 50 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 50 mm Length Hex Head |  
 | name_no_color | 50 mm Length Hex Head |  
 | name_no_size | Black 50 mm Length Hex Head |  
@@ -370,17 +370,17 @@ pudding |
 | part_number_manufacturer_metalmate | 1150M390050 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.1280 |  
-| price_100 | 0.1280 |  
-| price_1000 | 0.0639 |  
-| price_10000 | 0.0568 |  
-| price_10000_distributor_orbital_fasteners | 0.0568 |  
-| price_1000_distributor_orbital_fasteners | 0.0639 |  
-| price_100_distributor_orbital_fasteners | 0.1280 |  
-| price_1_distributor_orbital_fasteners | 0.1280 |  
-| price_200 | 0.0711 |  
-| price_200_distributor_orbital_fasteners | 0.0711 |  
-| price_current | 0.0711 |  
+| price_1 | 0.1024 |  
+| price_100 | 0.1024 |  
+| price_1000 | 0.0455 |  
+| price_10000 | 0.0455 |  
+| price_10000_distributor_orbital_fasteners | 0.0455 |  
+| price_1000_distributor_orbital_fasteners | 0.0455 |  
+| price_100_distributor_orbital_fasteners | 0.1024 |  
+| price_1_distributor_orbital_fasteners | 0.1024 |  
+| price_200 | 0.0569 |  
+| price_200_distributor_orbital_fasteners | 0.0569 |  
+| price_current | 0.0569 |  
 | quantity_current | 200 |  
 | short_code | sc3b50h |  
 | short_code_upper | SC3B50H |  

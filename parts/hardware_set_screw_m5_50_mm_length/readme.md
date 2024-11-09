@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420654111 |  
 | bip_39_word_dash_1 | perfect |  
 | bip_39_word_dash_10 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz-north |  
 | bip_39_word_dash_11 | perfect-slide-inch-rigid-broom-farm-regret-luxury-buzz-north-muscle |  
@@ -171,6 +172,8 @@ buzz |
 | bip_39_word_underscore_7 | perfect_slide_inch_rigid_broom_farm_regret |  
 | bip_39_word_underscore_8 | perfect_slide_inch_rigid_broom_farm_regret_luxury |  
 | bip_39_word_underscore_9 | perfect_slide_inch_rigid_broom_farm_regret_luxury_buzz |  
+| box_of_box_size_manufacturer_metalmate | 2000 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ buzz |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ buzz |
 | md5_6_alpha_upper | 3K0MD |  
 | md5_6_upper | 5B2325 |  
 | name | Hardware Set Screw M5 50 mm Length |  
+| name_manufacturer_metalmate | M5 x 50 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M5 50 mm Length |  
 | name_no_color | 50mmlength |  
 | name_no_size | 50 mm Length |  
@@ -302,6 +307,7 @@ buzz |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss5m50 |  
 | oomlout_short_code_upper | SS5M50 |  
+| oomp_id | hardware_set_screw_m5_50_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m5_50_mm_length |  
 | oomp_word | rooster kiss ear |  
 | oomp_word_emoji | :rooster: :kiss: :ear: |  
@@ -309,10 +315,23 @@ buzz |
 | oomp_word_list | ['rooster', 'kiss', 'ear'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851141 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M470050 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0276 |  
+| price_1000_distributor_orbital_fasteners | 0.0276 |  
+| price_100_distributor_orbital_fasteners | 0.062 |  
+| price_1_distributor_orbital_fasteners | 0.062 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0344 |  
+| price_current | missing_value |  
 | short_code | ss550 |  
 | short_code_upper | SS550 |  
 | size | m5 |  
@@ -377,3 +396,5 @@ buzz |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-50-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-50-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470050 |  

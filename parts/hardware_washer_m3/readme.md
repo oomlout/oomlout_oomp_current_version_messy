@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420105958 |  
+| barcode_manufacturer_metalmate | 5050420675253 |  
 | bip_39_word_dash_1 | strategy |  
 | bip_39_word_dash_10 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow |  
 | bip_39_word_dash_11 | strategy-payment-burst-blade-strike-couple-snap-antenna-shrug-swallow-bubble |  
@@ -259,7 +259,7 @@ shrug |
 | md5_6_alpha_upper | 4GGC6 |  
 | md5_6_upper | 723AB6 |  
 | name | Hardware Washer M3 |  
-| name_manufacturer_metalmate | 3MM BRIGHT PLAIN WASHER FORM A SELF COLOUR DIN 125A |  
+| name_manufacturer_metalmate | 3mm Bright Plain Washer Form A Self Colour DIN 125A |  
 | name_no_class | Washer M3 |  
 | name_no_color | M3 |  
 | name_no_size | M3 |  
@@ -279,17 +279,17 @@ shrug |
 | part_number_manufacturer_metalmate | 0412T39 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0022 |  
-| price_100 | 0.0022 |  
-| price_1000 | 0.0022 |  
+| price_1 | 0.0036 |  
+| price_100 | 0.0036 |  
+| price_1000 | 0.0023 |  
 | price_10000 | 0.0018 |  
 | price_10000_distributor_orbital_fasteners | 0.0018 |  
-| price_1000_distributor_orbital_fasteners | 0.0022 |  
-| price_100_distributor_orbital_fasteners | 0.0022 |  
-| price_1_distributor_orbital_fasteners | 0.0022 |  
-| price_200 | 0.0022 |  
-| price_200_distributor_orbital_fasteners | 0.0022 |  
-| price_current | 0.0022 |  
+| price_1000_distributor_orbital_fasteners | 0.0023 |  
+| price_100_distributor_orbital_fasteners | 0.0036 |  
+| price_1_distributor_orbital_fasteners | 0.0036 |  
+| price_200 | 0.0036 |  
+| price_200_distributor_orbital_fasteners | 0.0036 |  
+| price_current | 0.0023 |  
 | quantity_current | 1000 |  
 | short_code | w3 |  
 | short_code_upper | W3 |  

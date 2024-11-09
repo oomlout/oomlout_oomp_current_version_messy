@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: nature stairs enable educate rescue caution immense thrive vast stadium force actress
 
 ### other_codes
-* short_code: n6m
+* short_code: n6mco
 * oomp_word: snowflake beer mouse
 * oomp_word_emoji :snowflake: :beer: :mouse:
 * md5_6_alpha: 1qsz8
@@ -283,8 +283,8 @@ vast |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M6 Coupling |  
-| oomlout_short_code | n6m |  
-| oomlout_short_code_upper | N6M |  
+| oomlout_short_code | n6mco |  
+| oomlout_short_code_upper | N6MCO |  
 | oomp_key | oomp_hardware_nut_m6_coupling |  
 | oomp_word | snowflake beer mouse |  
 | oomp_word_emoji | :snowflake: :beer: :mouse: |  

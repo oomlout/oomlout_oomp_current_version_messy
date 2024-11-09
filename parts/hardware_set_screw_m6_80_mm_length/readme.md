@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420675895 |  
 | bip_39_word_dash_1 | sun |  
 | bip_39_word_dash_10 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust-verb |  
 | bip_39_word_dash_11 | sun-glue-walk-novel-mutual-urban-idle-gloom-dust-verb-random |  
@@ -171,6 +172,8 @@ dust |
 | bip_39_word_underscore_7 | sun_glue_walk_novel_mutual_urban_idle |  
 | bip_39_word_underscore_8 | sun_glue_walk_novel_mutual_urban_idle_gloom |  
 | bip_39_word_underscore_9 | sun_glue_walk_novel_mutual_urban_idle_gloom_dust |  
+| box_of_box_size_manufacturer_metalmate | 1000 |  
+| box_size_manufacturer_metalmate | 100 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ dust |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ dust |
 | md5_6_alpha_upper | 88XH8 |  
 | md5_6_upper | D3637C |  
 | name | Hardware Set Screw M6 80 mm Length |  
+| name_manufacturer_metalmate | M6 x 80 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 80 mm Length |  
 | name_no_color | 80mmlength |  
 | name_no_size | 80 mm Length |  
@@ -302,6 +307,7 @@ dust |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m80 |  
 | oomlout_short_code_upper | SS6M80 |  
+| oomp_id | hardware_set_screw_m6_80_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_80_mm_length |  
 | oomp_word | tomato rose tv |  
 | oomp_word_emoji | :tomato: :rose: :tv: |  
@@ -309,10 +315,23 @@ dust |
 | oomp_word_list | ['tomato', 'rose', 'tv'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851251 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490080 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0414 |  
+| price_1000_distributor_orbital_fasteners | 0.0414 |  
+| price_100_distributor_orbital_fasteners | 0.0518 |  
+| price_1_distributor_orbital_fasteners | 0.0932 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0518 |  
+| price_current | missing_value |  
 | short_code | ss680 |  
 | short_code_upper | SS680 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ dust |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-80-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490080 |  

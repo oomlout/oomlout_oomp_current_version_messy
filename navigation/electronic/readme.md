@@ -6,6 +6,7 @@
     * [espressif_esp32](breakout_board_mcu/devkitc/espressif_esp32)
   * [pico](breakout_board_mcu/pico)
     * [raspberry_pi_2040](breakout_board_mcu/pico/raspberry_pi_2040)
+    * [raspberry_pi_2350](breakout_board_mcu/pico/raspberry_pi_2350)
   * [pro_mini](breakout_board_mcu/pro_mini)
     * [atmega328p](breakout_board_mcu/pro_mini/atmega328p)
       * [arduino_compatible](breakout_board_mcu/pro_mini/atmega328p/arduino_compatible)

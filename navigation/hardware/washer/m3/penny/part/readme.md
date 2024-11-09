@@ -297,17 +297,17 @@ remind |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0105 |  
-| price_100 | 0.0105 |  
-| price_1000 | 0.0105 |  
+| price_1 | 0.0168 |  
+| price_100 | 0.0168 |  
+| price_1000 | 0.0106 |  
 | price_10000 | 0.0084 |  
 | price_10000_distributor_orbital_fasteners | 0.0084 |  
-| price_1000_distributor_orbital_fasteners | 0.0105 |  
-| price_100_distributor_orbital_fasteners | 0.0105 |  
-| price_1_distributor_orbital_fasteners | 0.0105 |  
-| price_200 | 0.0105 |  
-| price_200_distributor_orbital_fasteners | 0.0105 |  
-| price_current | 0.0105 |  
+| price_1000_distributor_orbital_fasteners | 0.0106 |  
+| price_100_distributor_orbital_fasteners | 0.0168 |  
+| price_1_distributor_orbital_fasteners | 0.0168 |  
+| price_200 | 0.0168 |  
+| price_200_distributor_orbital_fasteners | 0.0168 |  
+| price_current | 0.0168 |  
 | quantity_current | 100 |  
 | short_code | w3 |  
 | short_code_upper | W3 |  

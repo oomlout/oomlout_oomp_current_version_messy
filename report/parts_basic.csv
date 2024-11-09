@@ -39,6 +39,7 @@ electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w,,Electrical Light 
 electronic_battery_box_aa_battery_4_cell,,Electronic Battery Box Aa Battery 4 Cell,electronic,battery_box,aa_battery,,4_cell,,,
 electronic_breakout_board_mcu_devkitc_espressif_esp32,dce32,Electronic Breakout Board MCU Devkitc Espressif Esp32,electronic,breakout_board_mcu,devkitc,,espressif_esp32,,,
 electronic_breakout_board_mcu_pico_raspberry_pi_2040,pcrp2040,Electronic Breakout Board MCU Pico Raspberry Pi 2040,electronic,breakout_board_mcu,pico,,raspberry_pi_2040,,,
+electronic_breakout_board_mcu_pico_raspberry_pi_2350,pc,Electronic Breakout Board MCU Pico Raspberry Pi 2350,electronic,breakout_board_mcu,pico,,raspberry_pi_2350,,,
 electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible,pm328ac,Electronic Breakout Board MCU Pro Mini Atmega328P Arduino Compatible,electronic,breakout_board_mcu,pro_mini,,atmega328p,arduino_compatible,,
 electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible,sh328ac,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible,electronic,breakout_board_mcu,shennie,,atmega328p,arduino_compatible,,
 electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c,sm,Electronic Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C,electronic,breakout_board_motor_driver,nema_17_39_mm_width_39_mm_height,,stepper_motor,closed_loop,makerbase,mks_servo42c
@@ -98,4 +99,3 @@ electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length,w8,Electr
 electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_yellow_8_mm_length,y8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Yellow 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,yellow,8_mm_length,,,
 electronic_crimp_housing_2_54_mm_black_10_pin_dupont,chi1b10pd,Electronic Crimp Housing 2 54 mm Black 10 Pin Dupont,electronic,crimp_housing,2_54_mm,black,10_pin,dupont,,
 electronic_crimp_housing_2_54_mm_black_11_pin_dupont,chi1b11pd,Electronic Crimp Housing 2 54 mm Black 11 Pin Dupont,electronic,crimp_housing,2_54_mm,black,11_pin,dupont,,
-electronic_crimp_housing_2_54_mm_black_12_pin_dupont,chi1b12pd,Electronic Crimp Housing 2 54 mm Black 12 Pin Dupont,electronic,crimp_housing,2_54_mm,black,12_pin,dupont,,

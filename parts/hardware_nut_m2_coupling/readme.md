@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: turkey roof pole wife differ father arch letter quit enhance inspire actual
 
 ### other_codes
-* short_code: n2m
+* short_code: n2mco
 * oomp_word: zap tractor paperclip
 * oomp_word_emoji :zap: :tractor: :paperclip:
 * md5_6_alpha: 1twgi
@@ -283,8 +283,8 @@ quit |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M2 Coupling |  
-| oomlout_short_code | n2m |  
-| oomlout_short_code_upper | N2M |  
+| oomlout_short_code | n2mco |  
+| oomlout_short_code_upper | N2MCO |  
 | oomp_key | oomp_hardware_nut_m2_coupling |  
 | oomp_word | zap tractor paperclip |  
 | oomp_word_emoji | :zap: :tractor: :paperclip: |  

@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918831 |  
+| barcode_manufacturer_metalmate | 5050420695985 |  
 | bip_39_word_dash_1 | acid |  
 | bip_39_word_dash_10 | acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz |  
 | bip_39_word_dash_11 | acid-sense-moment-angry-basic-waste-embrace-sunset-orange-quiz-grass |  
@@ -331,7 +331,7 @@ orange |
 | md5_6_alpha_upper | 2LTRF |  
 | md5_6_upper | 42CBEB |  
 | name | Hardware Screw Socket Cap M3 Black 25 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 25 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
+| name_manufacturer_metalmate | M3 x 25 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 25 mm Length Hex Head |  
 | name_no_color | 25 mm Length Hex Head |  
 | name_no_size | Black 25 mm Length Hex Head |  
@@ -370,17 +370,17 @@ orange |
 | part_number_manufacturer_metalmate | 1150M390025 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0600 |  
-| price_100 | 0.0600 |  
-| price_1000 | 0.0300 |  
-| price_10000 | 0.0266 |  
-| price_10000_distributor_orbital_fasteners | 0.0266 |  
-| price_1000_distributor_orbital_fasteners | 0.0300 |  
-| price_100_distributor_orbital_fasteners | 0.0600 |  
-| price_1_distributor_orbital_fasteners | 0.0600 |  
-| price_200 | 0.0333 |  
-| price_200_distributor_orbital_fasteners | 0.0333 |  
-| price_current | 0.0333 |  
+| price_1 | 0.048 |  
+| price_100 | 0.048 |  
+| price_1000 | 0.0214 |  
+| price_10000 | 0.0214 |  
+| price_10000_distributor_orbital_fasteners | 0.0214 |  
+| price_1000_distributor_orbital_fasteners | 0.0214 |  
+| price_100_distributor_orbital_fasteners | 0.048 |  
+| price_1_distributor_orbital_fasteners | 0.048 |  
+| price_200 | 0.0266 |  
+| price_200_distributor_orbital_fasteners | 0.0266 |  
+| price_current | 0.0266 |  
 | quantity_current | 200 |  
 | short_code | sc3b25h |  
 | short_code_upper | SC3B25H |  

@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918800 |  
+| barcode_manufacturer_metalmate | 5050420695954 |  
 | bip_39_word_dash_1 | humor |  
 | bip_39_word_dash_10 | humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial |  
 | bip_39_word_dash_11 | humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife |  
@@ -331,7 +331,7 @@ relax |
 | md5_6_alpha_upper | 4EOHG |  
 | md5_6_upper | 70F774 |  
 | name | Hardware Screw Socket Cap M3 Black 16 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 16 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
+| name_manufacturer_metalmate | M3 x 16 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 16 mm Length Hex Head |  
 | name_no_color | 16 mm Length Hex Head |  
 | name_no_size | Black 16 mm Length Hex Head |  
@@ -370,17 +370,17 @@ relax |
 | part_number_manufacturer_metalmate | 1150M390016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0470 |  
-| price_100 | 0.0470 |  
-| price_1000 | 0.0235 |  
-| price_10000 | 0.0208 |  
-| price_10000_distributor_orbital_fasteners | 0.0208 |  
-| price_1000_distributor_orbital_fasteners | 0.0235 |  
-| price_100_distributor_orbital_fasteners | 0.0470 |  
-| price_1_distributor_orbital_fasteners | 0.0470 |  
-| price_200 | 0.0261 |  
-| price_200_distributor_orbital_fasteners | 0.0261 |  
-| price_current | 0.0261 |  
+| price_1 | 0.0376 |  
+| price_100 | 0.0376 |  
+| price_1000 | 0.0167 |  
+| price_10000 | 0.0167 |  
+| price_10000_distributor_orbital_fasteners | 0.0167 |  
+| price_1000_distributor_orbital_fasteners | 0.0167 |  
+| price_100_distributor_orbital_fasteners | 0.0376 |  
+| price_1_distributor_orbital_fasteners | 0.0376 |  
+| price_200 | 0.0209 |  
+| price_200_distributor_orbital_fasteners | 0.0209 |  
+| price_current | 0.0209 |  
 | quantity_current | 200 |  
 | short_code | sc3b16h |  
 | short_code_upper | SC3B16H |  

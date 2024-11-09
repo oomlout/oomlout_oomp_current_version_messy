@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: fee photo suspect worth stadium second avocado receive elephant network tackle actress
 
 ### other_codes
-* short_code: n4m
+* short_code: n4mco
 * oomp_word: snowman spaghetti ear
 * oomp_word_emoji :snowman: :spaghetti: :ear:
 * md5_6_alpha: 1s8bp
@@ -283,8 +283,8 @@ elephant |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M4 Coupling |  
-| oomlout_short_code | n4m |  
-| oomlout_short_code_upper | N4M |  
+| oomlout_short_code | n4mco |  
+| oomlout_short_code_upper | N4MCO |  
 | oomp_key | oomp_hardware_nut_m4_coupling |  
 | oomp_word | snowman spaghetti ear |  
 | oomp_word_emoji | :snowman: :spaghetti: :ear: |  

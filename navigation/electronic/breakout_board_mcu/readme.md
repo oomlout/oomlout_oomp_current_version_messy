@@ -2,6 +2,7 @@
   * [espressif_esp32](devkitc/espressif_esp32)
 * [pico](pico)
   * [raspberry_pi_2040](pico/raspberry_pi_2040)
+  * [raspberry_pi_2350](pico/raspberry_pi_2350)
 * [pro_mini](pro_mini)
   * [atmega328p](pro_mini/atmega328p)
     * [arduino_compatible](pro_mini/atmega328p/arduino_compatible)

@@ -32,7 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420918770 |  
+| barcode_manufacturer_metalmate | 5050420695947 |  
 | bip_39_word_dash_1 | inch |  
 | bip_39_word_dash_10 | inch-cereal-bunker-history-gap-cereal-width-police-hero-bounce |  
 | bip_39_word_dash_11 | inch-cereal-bunker-history-gap-cereal-width-police-hero-bounce-stable |  
@@ -331,7 +331,7 @@ hero |
 | md5_6_alpha_upper | 7MTTY |  
 | md5_6_upper | C3A786 |  
 | name | Hardware Screw Socket Cap M3 Black 12 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 X 12 SOCKET CAP SCREW GR12.9 SELF COLOUR DIN 912 (150) |  
+| name_manufacturer_metalmate | M3 x 12 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 12 mm Length Hex Head |  
 | name_no_color | 12 mm Length Hex Head |  
 | name_no_size | Black 12 mm Length Hex Head |  
@@ -370,17 +370,17 @@ hero |
 | part_number_manufacturer_metalmate | 1150M390012 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0442 |  
-| price_100 | 0.0442 |  
-| price_1000 | 0.0222 |  
-| price_10000 | 0.0196 |  
-| price_10000_distributor_orbital_fasteners | 0.0196 |  
-| price_1000_distributor_orbital_fasteners | 0.0222 |  
-| price_100_distributor_orbital_fasteners | 0.0442 |  
-| price_1_distributor_orbital_fasteners | 0.0442 |  
-| price_200 | 0.0246 |  
-| price_200_distributor_orbital_fasteners | 0.0246 |  
-| price_current | 0.0246 |  
+| price_1 | 0.0354 |  
+| price_100 | 0.0354 |  
+| price_1000 | 0.0157 |  
+| price_10000 | 0.0157 |  
+| price_10000_distributor_orbital_fasteners | 0.0157 |  
+| price_1000_distributor_orbital_fasteners | 0.0157 |  
+| price_100_distributor_orbital_fasteners | 0.0354 |  
+| price_1_distributor_orbital_fasteners | 0.0354 |  
+| price_200 | 0.0197 |  
+| price_200_distributor_orbital_fasteners | 0.0197 |  
+| price_current | 0.0197 |  
 | quantity_current | 200 |  
 | short_code | sc3b12h |  
 | short_code_upper | SC3B12H |  

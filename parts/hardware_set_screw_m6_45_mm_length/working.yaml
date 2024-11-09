@@ -1,3 +1,4 @@
+barcode_manufacturer_metalmate: '5050420675857'
 bip_39_word_dash_1: today
 bip_39_word_dash_10: today-latin-cheese-injury-match-floor-crisp-dog-stable-hold
 bip_39_word_dash_11: today-latin-cheese-injury-match-floor-crisp-dog-stable-hold-advance
@@ -217,6 +218,8 @@ bip_39_word_underscore_6: today_latin_cheese_injury_match_floor
 bip_39_word_underscore_7: today_latin_cheese_injury_match_floor_crisp
 bip_39_word_underscore_8: today_latin_cheese_injury_match_floor_crisp_dog
 bip_39_word_underscore_9: today_latin_cheese_injury_match_floor_crisp_dog_stable
+box_of_box_size_manufacturer_metalmate: '2000'
+box_size_manufacturer_metalmate: '200'
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -253,6 +256,7 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_name: ''
 color_upper: ''
+commonity_code: '7318158880'
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -325,6 +329,8 @@ md5_6_alpha: 5xjvf
 md5_6_alpha_upper: 5XJVF
 md5_6_upper: 9807DB
 name: Hardware Set Screw M6 45 mm Length
+name_manufacturer_metalmate: M6 x 45 High Tensile Set Gr 8.8 Zinc Plated Metalmate
+  DIN 933 (ISO 4017)
 name_no_class: Set Screw M6 45 mm Length
 name_no_color: 45mmlength
 name_no_size: 45 mm Length
@@ -349,6 +355,7 @@ oomlout_bolt_type: Set Screw
 oomlout_bolt_type_diagram_diagram: type_diagram.png
 oomlout_short_code: ss6m45
 oomlout_short_code_upper: SS6M45
+oomp_id: hardware_set_screw_m6_45_mm_length
 oomp_key: oomp_hardware_set_screw_m6_45_mm_length
 oomp_word: tennis cry tent
 oomp_word_emoji: ':tennis: :cry: :tent:'
@@ -362,10 +369,23 @@ oomp_word_list:
 - tent
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1851225'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_manufacturer_metalmate: Z0318M490045
 part_number_name: ''
 part_number_upper: ''
+price_1: missing_value
+price_100: missing_value
+price_1000: missing_value
+price_10000: missing_value
+price_10000_distributor_orbital_fasteners: '0.0254'
+price_1000_distributor_orbital_fasteners: '0.0286'
+price_100_distributor_orbital_fasteners: '0.0571'
+price_1_distributor_orbital_fasteners: '0.0571'
+price_200: missing_value
+price_200_distributor_orbital_fasteners: '0.0318'
+price_current: missing_value
 short_code: ss645
 short_code_upper: SS645
 size: m6
@@ -430,3 +450,5 @@ type_upper_length_3: SET
 type_upper_length_4: SET_
 type_upper_length_5: SET_S
 type_upper_length_6: SET_SC
+webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m6-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+webpage_manufacturer_metalmate: https://www.harclob2b.com/m6-x-45-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490045

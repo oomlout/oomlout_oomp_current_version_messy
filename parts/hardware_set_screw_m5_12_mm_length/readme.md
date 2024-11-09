@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420654074 |  
 | bip_39_word_dash_1 | wrestle |  
 | bip_39_word_dash_10 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss-much |  
 | bip_39_word_dash_11 | wrestle-valve-home-sustain-where-warfare-under-summer-kiss-much-velvet |  
@@ -171,6 +172,8 @@ kiss |
 | bip_39_word_underscore_7 | wrestle_valve_home_sustain_where_warfare_under |  
 | bip_39_word_underscore_8 | wrestle_valve_home_sustain_where_warfare_under_summer |  
 | bip_39_word_underscore_9 | wrestle_valve_home_sustain_where_warfare_under_summer_kiss |  
+| box_of_box_size_manufacturer_metalmate | 6000 |  
+| box_size_manufacturer_metalmate | 500 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ kiss |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ kiss |
 | md5_6_alpha_upper | 8W3Z8 |  
 | md5_6_upper | E3E424 |  
 | name | Hardware Set Screw M5 12 mm Length |  
+| name_manufacturer_metalmate | M5 x 12 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M5 12 mm Length |  
 | name_no_color | 12mmlength |  
 | name_no_size | 12 mm Length |  
@@ -302,6 +307,7 @@ kiss |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss5m12 |  
 | oomlout_short_code_upper | SS5M12 |  
+| oomp_id | hardware_set_screw_m5_12_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m5_12_mm_length |  
 | oomp_word | rowboat anchor droplet |  
 | oomp_word_emoji | :rowboat: :anchor: :droplet: |  
@@ -309,10 +315,23 @@ kiss |
 | oomp_word_list | ['rowboat', 'anchor', 'droplet'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851080 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M470012 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0113 |  
+| price_1000_distributor_orbital_fasteners | 0.0142 |  
+| price_100_distributor_orbital_fasteners | 0.0254 |  
+| price_1_distributor_orbital_fasteners | 0.0254 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0254 |  
+| price_current | missing_value |  
 | short_code | ss512 |  
 | short_code_upper | SS512 |  
 | size | m5 |  
@@ -377,3 +396,5 @@ kiss |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-12-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-12-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470012 |  

@@ -219,6 +219,7 @@
 * [oomlout_whsn](oomlout_whsn)
 * [oomlout_wikb](oomlout_wikb)
 * [oomlout_wlrh](oomlout_wlrh)
+* [oomlout_wool_sphere](oomlout_wool_sphere)
 * [oomp_base](oomp_base)
 * [oomp_base_company_oomlout](oomp_base_company_oomlout)
 * [oomp_base_company_oomlout_datasheet](oomp_base_company_oomlout_datasheet)

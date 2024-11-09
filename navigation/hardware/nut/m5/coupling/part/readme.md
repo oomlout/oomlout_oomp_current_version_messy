@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: laugh chief ahead floor often couple work chapter cash dress fatal ability
 
 ### other_codes
-* short_code: n5m
+* short_code: n5mco
 * oomp_word: blush guitar star
 * oomp_word_emoji :blush: :guitar: :star:
 * md5_6_alpha: 3q4w
@@ -283,8 +283,8 @@ cash |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M5 Coupling |  
-| oomlout_short_code | n5m |  
-| oomlout_short_code_upper | N5M |  
+| oomlout_short_code | n5mco |  
+| oomlout_short_code_upper | N5MCO |  
 | oomp_key | oomp_hardware_nut_m5_coupling |  
 | oomp_word | blush guitar star |  
 | oomp_word_emoji | :blush: :guitar: :star: |  

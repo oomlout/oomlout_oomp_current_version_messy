@@ -302,6 +302,7 @@ joy |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss5m80 |  
 | oomlout_short_code_upper | SS5M80 |  
+| oomp_id | hardware_set_screw_m5_80_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m5_80_mm_length |  
 | oomp_word | baseball sunflower umbrella |  
 | oomp_word_emoji | :baseball: :sunflower: :umbrella: |  
@@ -309,10 +310,23 @@ joy |
 | oomp_word_list | ['baseball', 'sunflower', 'umbrella'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851147 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M470080 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.096 |  
+| price_1000_distributor_orbital_fasteners | 0.096 |  
+| price_100_distributor_orbital_fasteners | 0.12 |  
+| price_1_distributor_orbital_fasteners | 0.216 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.12 |  
+| price_current | missing_value |  
 | short_code | ss580 |  
 | short_code_upper | SS580 |  
 | size | m5 |  
@@ -377,3 +391,4 @@ joy |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-80-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  

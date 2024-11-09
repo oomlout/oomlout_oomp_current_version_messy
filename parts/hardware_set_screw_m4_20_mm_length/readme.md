@@ -302,6 +302,7 @@ avocado |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss4m20 |  
 | oomlout_short_code_upper | SS4M20 |  
+| oomp_id | hardware_set_screw_m4_20_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m4_20_mm_length |  
 | oomp_word | snowman two egg |  
 | oomp_word_emoji | :snowman: :two: :egg: |  
@@ -309,10 +310,22 @@ avocado |
 | oomp_word_list | ['snowman', 'two', 'egg'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851030 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0145 |  
+| price_1000_distributor_orbital_fasteners | 0.0182 |  
+| price_100_distributor_orbital_fasteners | 0.0328 |  
+| price_1_distributor_orbital_fasteners | 0.0328 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0328 |  
+| price_current | missing_value |  
 | short_code | ss420 |  
 | short_code_upper | SS420 |  
 | size | m4 |  
@@ -377,3 +390,4 @@ avocado |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420654128 |  
 | bip_39_word_dash_1 | print |  
 | bip_39_word_dash_10 | print-scissors-enlist-artwork-move-trophy-roof-top-guard-gospel |  
 | bip_39_word_dash_11 | print-scissors-enlist-artwork-move-trophy-roof-top-guard-gospel-west |  
@@ -171,6 +172,8 @@ guard |
 | bip_39_word_underscore_7 | print_scissors_enlist_artwork_move_trophy_roof |  
 | bip_39_word_underscore_8 | print_scissors_enlist_artwork_move_trophy_roof_top |  
 | bip_39_word_underscore_9 | print_scissors_enlist_artwork_move_trophy_roof_top_guard |  
+| box_of_box_size_manufacturer_metalmate | 6000 |  
+| box_size_manufacturer_metalmate | 500 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ guard |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ guard |
 | md5_6_alpha_upper | 1K449 |  
 | md5_6_upper | 27F2D9 |  
 | name | Hardware Set Screw M6 8 mm Length |  
+| name_manufacturer_metalmate | M6 x 8 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 8 mm Length |  
 | name_no_color | 8mmlength |  
 | name_no_size | 8 mm Length |  
@@ -302,6 +307,7 @@ guard |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m8 |  
 | oomlout_short_code_upper | SS6M8 |  
+| oomp_id | hardware_set_screw_m6_8_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_8_mm_length |  
 | oomp_word | nose one bank |  
 | oomp_word_emoji | :nose: :one: :bank: |  
@@ -309,10 +315,23 @@ guard |
 | oomp_word_list | ['nose', 'one', 'bank'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851149 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490008 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0103 |  
+| price_1000_distributor_orbital_fasteners | 0.0128 |  
+| price_100_distributor_orbital_fasteners | 0.0232 |  
+| price_1_distributor_orbital_fasteners | 0.0232 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0232 |  
+| price_current | missing_value |  
 | short_code | ss68 |  
 | short_code_upper | SS68 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ guard |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-8-high-tensile-set-gr-8-8-zinc-plated-metalma-z0318m490008 |  

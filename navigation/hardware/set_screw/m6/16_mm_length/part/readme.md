@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420654159 |  
 | bip_39_word_dash_1 | grain |  
 | bip_39_word_dash_10 | grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli |  
 | bip_39_word_dash_11 | grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli-sea |  
@@ -171,6 +172,8 @@ gown |
 | bip_39_word_underscore_7 | grain_kiss_ridge_able_garbage_orient_identify |  
 | bip_39_word_underscore_8 | grain_kiss_ridge_able_garbage_orient_identify_step |  
 | bip_39_word_underscore_9 | grain_kiss_ridge_able_garbage_orient_identify_step_gown |  
+| box_of_box_size_manufacturer_metalmate | 4000 |  
+| box_size_manufacturer_metalmate | 500 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ gown |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318158880 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ gown |
 | md5_6_alpha_upper | 9NOAV |  
 | md5_6_upper | F783C7 |  
 | name | Hardware Set Screw M6 16 mm Length |  
+| name_manufacturer_metalmate | M6 x 16 High Tensile Set Gr 8.8 Zinc Plated Metalmate DIN 933 (ISO 4017) |  
 | name_no_class | Set Screw M6 16 mm Length |  
 | name_no_color | 16mmlength |  
 | name_no_size | 16 mm Length |  
@@ -302,6 +307,7 @@ gown |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss6m16 |  
 | oomlout_short_code_upper | SS6M16 |  
+| oomp_id | hardware_set_screw_m6_16_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m6_16_mm_length |  
 | oomp_word | six lock honey_pot |  
 | oomp_word_emoji | :six: :lock: :honey_pot: |  
@@ -309,10 +315,23 @@ gown |
 | oomp_word_list | ['six', 'lock', 'honey_pot'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851170 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.013 |  
+| price_1000_distributor_orbital_fasteners | 0.0162 |  
+| price_100_distributor_orbital_fasteners | 0.029 |  
+| price_1_distributor_orbital_fasteners | 0.029 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.029 |  
+| price_current | missing_value |  
 | short_code | ss616 |  
 | short_code_upper | SS616 |  
 | size | m6 |  
@@ -377,3 +396,5 @@ gown |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490016 |  

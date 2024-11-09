@@ -23,7 +23,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: monkey rib turkey profit together other mushroom captain atom harvest kidney absorb
 
 ### other_codes
-* short_code: n3m
+* short_code: n3mco
 * oomp_word: alien three hotel
 * oomp_word_emoji :alien: :three: :hotel:
 * md5_6_alpha: i76i
@@ -283,8 +283,8 @@ atom |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M3 Coupling |  
-| oomlout_short_code | n3m |  
-| oomlout_short_code_upper | N3M |  
+| oomlout_short_code | n3mco |  
+| oomlout_short_code_upper | N3MCO |  
 | oomp_key | oomp_hardware_nut_m3_coupling |  
 | oomp_word | alien three hotel |  
 | oomp_word_emoji | :alien: :three: :hotel: |  

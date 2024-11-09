@@ -302,6 +302,7 @@ prefer |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | ss4m16 |  
 | oomlout_short_code_upper | SS4M16 |  
+| oomp_id | hardware_set_screw_m4_16_mm_length |  
 | oomp_key | oomp_hardware_set_screw_m4_16_mm_length |  
 | oomp_word | calendar water_buffalo tv |  
 | oomp_word_emoji | :calendar: :water_buffalo: :tv: |  
@@ -309,10 +310,22 @@ prefer |
 | oomp_word_list | ['calendar', 'water_buffalo', 'tv'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1851020 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.013 |  
+| price_1000_distributor_orbital_fasteners | 0.0162 |  
+| price_100_distributor_orbital_fasteners | 0.029 |  
+| price_1_distributor_orbital_fasteners | 0.029 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.029 |  
+| price_current | missing_value |  
 | short_code | ss416 |  
 | short_code_upper | SS416 |  
 | size | m4 |  
@@ -377,3 +390,4 @@ prefer |
 | type_upper_length_4 | SET_ |  
 | type_upper_length_5 | SET_S |  
 | type_upper_length_6 | SET_SC |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
