@@ -350,6 +350,7 @@ fringe |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc4b8h |  
 | oomlout_short_code_upper | SC4B8H |  
+| oomp_id | hardware_screw_socket_cap_m4_black_8_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m4_black_8_mm_length_hex_head |  
 | oomp_word | ring scissors pig |  
 | oomp_word_emoji | :ring: :scissors: :pig: |  
@@ -357,10 +358,22 @@ fringe |
 | oomp_word_list | ['ring', 'scissors', 'pig'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891070 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0146 |  
+| price_1000_distributor_orbital_fasteners | 0.0146 |  
+| price_100_distributor_orbital_fasteners | 0.0329 |  
+| price_1_distributor_orbital_fasteners | 0.0329 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0182 |  
+| price_current | missing_value |  
 | short_code | sc4b8h |  
 | short_code_upper | SC4B8H |  
 | size | m4 |  
@@ -425,3 +438,4 @@ fringe |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  

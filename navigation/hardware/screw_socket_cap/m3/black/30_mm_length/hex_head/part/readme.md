@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420695992 |  
 | bip_39_word_dash_1 | want |  
 | bip_39_word_dash_10 | want-consider-size-exile-praise-room-time-coffee-black-frame |  
 | bip_39_word_dash_11 | want-consider-size-exile-praise-room-time-coffee-black-frame-cupboard |  
@@ -171,6 +172,8 @@ black |
 | bip_39_word_underscore_7 | want_consider_size_exile_praise_room_time |  
 | bip_39_word_underscore_8 | want_consider_size_exile_praise_room_time_coffee |  
 | bip_39_word_underscore_9 | want_consider_size_exile_praise_room_time_coffee_black |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ black |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -296,7 +300,6 @@ black |
 | description_or_color | B30 |  
 | description_or_color_upper | B30 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_30_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -327,6 +330,7 @@ black |
 | md5_6_alpha_upper | 1QE8N |  
 | md5_6_upper | 2C6B97 |  
 | name | Hardware Screw Socket Cap M3 Black 30 mm Length Hex Head |  
+| name_manufacturer_metalmate | M3 x 30 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M3 Black 30 mm Length Hex Head |  
 | name_no_color | 30 mm Length Hex Head |  
 | name_no_size | Black 30 mm Length Hex Head |  
@@ -365,18 +369,17 @@ black |
 | part_number_manufacturer_metalmate | 1150M390030 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0557 |  
-| price_100 | 0.0557 |  
-| price_1000 | 0.0247 |  
-| price_10000 | 0.0247 |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
 | price_10000_distributor_orbital_fasteners | 0.0247 |  
 | price_1000_distributor_orbital_fasteners | 0.0247 |  
 | price_100_distributor_orbital_fasteners | 0.0557 |  
 | price_1_distributor_orbital_fasteners | 0.0557 |  
-| price_200 | 0.031 |  
+| price_200 | missing_value |  
 | price_200_distributor_orbital_fasteners | 0.031 |  
-| price_current | 0.031 |  
-| quantity_current | 200 |  
+| price_current | missing_value |  
 | short_code | sc3b30h |  
 | short_code_upper | SC3B30H |  
 | size | m3 |  
@@ -442,3 +445,4 @@ black |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3-x-30-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-30-socket-cap-screw-gr12-9-self-colour-din-91-1150m390030 |  

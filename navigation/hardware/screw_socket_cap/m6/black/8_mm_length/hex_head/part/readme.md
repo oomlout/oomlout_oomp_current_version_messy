@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420667326 |  
 | bip_39_word_dash_1 | bind |  
 | bip_39_word_dash_10 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law |  
 | bip_39_word_dash_11 | bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program |  
@@ -171,6 +172,8 @@ wine |
 | bip_39_word_underscore_7 | bind_enemy_ramp_pumpkin_under_black_picnic |  
 | bip_39_word_underscore_8 | bind_enemy_ramp_pumpkin_under_black_picnic_oven |  
 | bip_39_word_underscore_9 | bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ wine |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ wine |
 | md5_6_alpha_upper | 5QYU7 |  
 | md5_6_upper | 9357DF |  
 | name | Hardware Screw Socket Cap M6 Black 8 mm Length Hex Head |  
+| name_manufacturer_metalmate | M6 x 8 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M6 Black 8 mm Length Hex Head |  
 | name_no_color | 8 mm Length Hex Head |  
 | name_no_size | Black 8 mm Length Hex Head |  
@@ -350,6 +355,7 @@ wine |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc6b8h |  
 | oomlout_short_code_upper | SC6B8H |  
+| oomp_id | hardware_screw_socket_cap_m6_black_8_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m6_black_8_mm_length_hex_head |  
 | oomp_word | books rat fountain |  
 | oomp_word_emoji | :books: :rat: :fountain: |  
@@ -357,10 +363,23 @@ wine |
 | oomp_word_list | ['books', 'rat', 'fountain'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891271 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M490008 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0265 |  
+| price_1000_distributor_orbital_fasteners | 0.0265 |  
+| price_100_distributor_orbital_fasteners | 0.0596 |  
+| price_1_distributor_orbital_fasteners | 0.0596 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0331 |  
+| price_current | missing_value |  
 | short_code | sc6b8h |  
 | short_code_upper | SC6B8H |  
 | size | m6 |  
@@ -425,3 +444,5 @@ wine |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008 |  

@@ -300,7 +300,6 @@ obey |
 | description_or_color | B5 |  
 | description_or_color_upper | B5 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_5_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -364,24 +363,17 @@ obey |
 | oomp_word_list | ['pineapple', 'sandal', 'monkey'] |  
 | part_number |  |  
 | part_number_capital |  |  
-| part_number_distributor_orbital_fasteners | 1890620 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_manufacturer_metalmate | 1150M390005 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | 0.0337 |  
-| price_100 | 0.0337 |  
-| price_1000 | 0.015 |  
-| price_10000 | 0.015 |  
-| price_10000_distributor_orbital_fasteners | 0.015 |  
-| price_1000_distributor_orbital_fasteners | 0.015 |  
-| price_100_distributor_orbital_fasteners | 0.0337 |  
-| price_1_distributor_orbital_fasteners | 0.0337 |  
-| price_200 | 0.0187 |  
-| price_200_distributor_orbital_fasteners | 0.0187 |  
-| price_current | 0.0187 |  
-| quantity_current | 200 |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_200 | missing_value |  
+| price_current | missing_value |  
 | short_code | sc3b5h |  
 | short_code_upper | SC3B5H |  
 | size | m3 |  
@@ -446,5 +438,4 @@ obey |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
-| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m3x5---socket-cap-hd- |  
 | webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-5-socket-cap-screw-gr12-9-self-colour-din-912-1150m390005 |  

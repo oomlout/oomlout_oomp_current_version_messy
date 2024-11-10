@@ -297,6 +297,8 @@ define |
 | description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
 | distributors | [] |  
+| file_name | tray_4_width_2.5_height_18_mm_depth_quantity_4.stl |  
+| file_name_full_oomlout | C:\gh\oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1/release	hree_d_printer_files\hinged_tin_version/tray_4_width_2.5_height_18_mm_depth_quantity_4.stl |  
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
@@ -305,6 +307,7 @@ define |
 | id_no_color | bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
 | id_no_size | bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
 | id_no_type | oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
+| link_github | https://github.com/oomlout/oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1/blob/main/release	hree_d_printer_files\hinged_tin_version/tray_4_width_2.5_height_18_mm_depth_quantity_4.stl |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -330,6 +333,7 @@ define |
 | name_no_size | Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Tdpb Tray42D518 |  
 | name_no_size_short | Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Tdpb Tray42D518 |  
 | name_no_type | Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Tdpb Tray42D518 |  
+| name_short | prototyping_tin_tray_4_width_2.5_height_18_mm_depth |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_tdpb_tray42d518 |  
 | oomp_word | taxi lollipop envelope |  
 | oomp_word_emoji | :taxi: :lollipop: :envelope: |  

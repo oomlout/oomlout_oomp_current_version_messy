@@ -350,6 +350,7 @@ dress |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc6b50h |  
 | oomlout_short_code_upper | SC6B50H |  
+| oomp_id | hardware_screw_socket_cap_m6_black_50_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m6_black_50_mm_length_hex_head |  
 | oomp_word | peach flags fire |  
 | oomp_word_emoji | :peach: :flags: :fire: |  
@@ -357,10 +358,23 @@ dress |
 | oomp_word_list | ['peach', 'flags', 'fire'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891360 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M4900050 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0492 |  
+| price_1000_distributor_orbital_fasteners | 0.0553 |  
+| price_100_distributor_orbital_fasteners | 0.1106 |  
+| price_1_distributor_orbital_fasteners | 0.1106 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0614 |  
+| price_current | missing_value |  
 | short_code | sc6b50h |  
 | short_code_upper | SC6B50H |  
 | size | m6 |  
@@ -425,3 +439,4 @@ dress |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-50-socket-cap-screw-high-tensile-grade-12-9-self-colour |  

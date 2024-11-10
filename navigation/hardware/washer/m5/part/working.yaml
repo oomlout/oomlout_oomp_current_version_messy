@@ -305,6 +305,7 @@ name_no_color: M5
 name_no_size: M5
 name_no_size_short: M5
 name_no_type: M5
+oomp_id: hardware_washer_m5
 oomp_key: oomp_hardware_washer_m5
 oomp_word: herb anger briefcase
 oomp_word_emoji: ':herb: :anger: :briefcase:'
@@ -318,10 +319,22 @@ oomp_word_list:
 - briefcase
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1711020'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1: missing_value
+price_100: missing_value
+price_1000: missing_value
+price_10000: missing_value
+price_10000_distributor_orbital_fasteners: '0.0023'
+price_1000_distributor_orbital_fasteners: '0.0029'
+price_100_distributor_orbital_fasteners: '0.0046'
+price_1_distributor_orbital_fasteners: '0.0046'
+price_200: missing_value
+price_200_distributor_orbital_fasteners: '0.0046'
+price_current: missing_value
 short_code: w5
 short_code_upper: W5
 size: m5
@@ -386,3 +399,4 @@ type_upper_length_3: WAS
 type_upper_length_4: WASH
 type_upper_length_5: WASHE
 type_upper_length_6: WASHER
+webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m5-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-5-3x10x1mm-

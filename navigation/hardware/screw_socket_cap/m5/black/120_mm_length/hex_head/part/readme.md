@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420696487 |  
 | bip_39_word_dash_1 | nature |  
 | bip_39_word_dash_10 | nature-museum-cherry-divorce-pudding-receive-topple-crouch-require-culture |  
 | bip_39_word_dash_11 | nature-museum-cherry-divorce-pudding-receive-topple-crouch-require-culture-fragile |  
@@ -171,6 +172,8 @@ require |
 | bip_39_word_underscore_7 | nature_museum_cherry_divorce_pudding_receive_topple |  
 | bip_39_word_underscore_8 | nature_museum_cherry_divorce_pudding_receive_topple_crouch |  
 | bip_39_word_underscore_9 | nature_museum_cherry_divorce_pudding_receive_topple_crouch_require |  
+| box_of_box_size_manufacturer_metalmate | 800 |  
+| box_size_manufacturer_metalmate | 100 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ require |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ require |
 | md5_6_alpha_upper | 92W99 |  
 | md5_6_upper | E8B8CD |  
 | name | Hardware Screw Socket Cap M5 Black 120 mm Length Hex Head |  
+| name_manufacturer_metalmate | M5 x 120 Socket Cap Screw Gr12.9 Self Colour DIN 912 195 |  
 | name_no_class | Screw Socket Cap M5 Black 120 mm Length Hex Head |  
 | name_no_color | 120 mm Length Hex Head |  
 | name_no_size | Black 120 mm Length Hex Head |  
@@ -350,6 +355,7 @@ require |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc5b120h |  
 | oomlout_short_code_upper | SC5B120H |  
+| oomp_id | hardware_screw_socket_cap_m5_black_120_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m5_black_120_mm_length_hex_head |  
 | oomp_word | tram hamburger strawberry |  
 | oomp_word_emoji | :tram: :hamburger: :strawberry: |  
@@ -357,10 +363,23 @@ require |
 | oomp_word_list | ['tram', 'hamburger', 'strawberry'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891274 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M470120 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.1536 |  
+| price_1000_distributor_orbital_fasteners | 0.1536 |  
+| price_100_distributor_orbital_fasteners | 0.192 |  
+| price_1_distributor_orbital_fasteners | 0.3456 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.192 |  
+| price_current | missing_value |  
 | short_code | sc5bh |  
 | short_code_upper | SC5BH |  
 | size | m5 |  
@@ -425,3 +444,5 @@ require |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-120-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-120-socket-cap-screw-gr12-9-self-colour-din-9-1150m470120 |  

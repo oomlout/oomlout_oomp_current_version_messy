@@ -350,6 +350,7 @@ cricket |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc6b12h |  
 | oomlout_short_code_upper | SC6B12H |  
+| oomp_id | hardware_screw_socket_cap_m6_black_12_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m6_black_12_mm_length_hex_head |  
 | oomp_word | parking cow lips |  
 | oomp_word_emoji | :parking: :cow: :lips: |  
@@ -357,10 +358,23 @@ cricket |
 | oomp_word_list | ['parking', 'cow', 'lips'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891280 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M4900012 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0167 |  
+| price_1000_distributor_orbital_fasteners | 0.0188 |  
+| price_100_distributor_orbital_fasteners | 0.0376 |  
+| price_1_distributor_orbital_fasteners | 0.0376 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0209 |  
+| price_current | missing_value |  
 | short_code | sc6b12h |  
 | short_code_upper | SC6B12H |  
 | size | m6 |  
@@ -425,3 +439,4 @@ cricket |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-12-socket-cap-screw-high-tensile-grade-12-9-self-colour |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420670593 |  
 | bip_39_word_dash_1 | enact |  
 | bip_39_word_dash_10 | enact-universe-often-salad-few-silent-hand-almost-system-dream |  
 | bip_39_word_dash_11 | enact-universe-often-salad-few-silent-hand-almost-system-dream-group |  
@@ -171,6 +172,8 @@ system |
 | bip_39_word_underscore_7 | enact_universe_often_salad_few_silent_hand |  
 | bip_39_word_underscore_8 | enact_universe_often_salad_few_silent_hand_almost |  
 | bip_39_word_underscore_9 | enact_universe_often_salad_few_silent_hand_almost_system |  
+| box_of_box_size_manufacturer_metalmate | 12000 |  
+| box_size_manufacturer_metalmate | 1000 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ system |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318166090 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ system |
 | md5_6_alpha_upper | 3XLG0 |  
 | md5_6_upper | 64CDD0 |  
 | name | Hardware Nut M5 Locking |  
+| name_manufacturer_metalmate | M5 DIN982 Type P Nylon Insert Nut Class 8 Zinc Plated Boxed |  
 | name_no_class | Nut M5 Locking |  
 | name_no_color | Locking |  
 | name_no_size | Locking |  
@@ -285,6 +290,7 @@ system |
 | name_no_type | M5 Locking |  
 | oomlout_short_code | n5mlo |  
 | oomlout_short_code_upper | N5MLO |  
+| oomp_id | hardware_nut_m5_locking |  
 | oomp_key | oomp_hardware_nut_m5_locking |  
 | oomp_word | sunflower strawberry banana |  
 | oomp_word_emoji | :sunflower: :strawberry: :banana: |  
@@ -292,10 +298,22 @@ system |
 | oomp_word_list | ['sunflower', 'strawberry', 'banana'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1781020 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1657M47 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_1000_distributor_orbital_fasteners | 0.0082 |  
+| price_100_distributor_orbital_fasteners | 0.0131 |  
+| price_1_distributor_orbital_fasteners | 0.0131 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0131 |  
+| price_current | missing_value |  
 | short_code | nu5 |  
 | short_code_upper | NU5 |  
 | size | m5 |  
@@ -360,3 +378,5 @@ system |
 | type_upper_length_4 | NUT |  
 | type_upper_length_5 | NUT |  
 | type_upper_length_6 | NUT |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m47 |  

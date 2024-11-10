@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420696333 |  
 | bip_39_word_dash_1 | farm |  
 | bip_39_word_dash_10 | farm-else-parade-output-lend-bus-material-already-egg-spike |  
 | bip_39_word_dash_11 | farm-else-parade-output-lend-bus-material-already-egg-spike-gesture |  
@@ -171,6 +172,8 @@ egg |
 | bip_39_word_underscore_7 | farm_else_parade_output_lend_bus_material |  
 | bip_39_word_underscore_8 | farm_else_parade_output_lend_bus_material_already |  
 | bip_39_word_underscore_9 | farm_else_parade_output_lend_bus_material_already_egg |  
+| box_of_box_size_manufacturer_metalmate | 3000 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ egg |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ egg |
 | md5_6_alpha_upper | 858MS |  
 | md5_6_upper | D0C2F4 |  
 | name | Hardware Screw Socket Cap M5 Black 25 mm Length Hex Head |  
+| name_manufacturer_metalmate | M5 x 25 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M5 Black 25 mm Length Hex Head |  
 | name_no_color | 25 mm Length Hex Head |  
 | name_no_size | Black 25 mm Length Hex Head |  
@@ -350,6 +355,7 @@ egg |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc5b25h |  
 | oomlout_short_code_upper | SC5B25H |  
+| oomp_id | hardware_screw_socket_cap_m5_black_25_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m5_black_25_mm_length_hex_head |  
 | oomp_word | banana birthday three |  
 | oomp_word_emoji | :banana: :birthday: :three: |  
@@ -357,10 +363,23 @@ egg |
 | oomp_word_list | ['banana', 'birthday', 'three'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891220 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M470025 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0247 |  
+| price_1000_distributor_orbital_fasteners | 0.0278 |  
+| price_100_distributor_orbital_fasteners | 0.0557 |  
+| price_1_distributor_orbital_fasteners | 0.0557 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.031 |  
+| price_current | missing_value |  
 | short_code | sc5b25h |  
 | short_code_upper | SC5B25H |  
 | size | m5 |  
@@ -425,3 +444,5 @@ egg |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-25-socket-cap-screw-gr12-9-self-colour-din-91-1150m470025 |  

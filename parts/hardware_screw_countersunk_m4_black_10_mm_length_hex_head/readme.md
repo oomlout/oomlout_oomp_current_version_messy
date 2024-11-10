@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420669092 |  
 | bip_39_word_dash_1 | slogan |  
 | bip_39_word_dash_10 | slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon-popular |  
 | bip_39_word_dash_11 | slogan-tower-consider-tuna-napkin-jelly-delay-umbrella-soon-popular-defy |  
@@ -171,6 +172,8 @@ soon |
 | bip_39_word_underscore_7 | slogan_tower_consider_tuna_napkin_jelly_delay |  
 | bip_39_word_underscore_8 | slogan_tower_consider_tuna_napkin_jelly_delay_umbrella |  
 | bip_39_word_underscore_9 | slogan_tower_consider_tuna_napkin_jelly_delay_umbrella_soon |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ soon |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ soon |
 | md5_6_alpha_upper | 1NMNE |  
 | md5_6_upper | 2A736A |  
 | name | Hardware Screw Countersunk M4 Black 10 mm Length Hex Head |  
+| name_manufacturer_metalmate | M4 x 10 Socket Csk Screw Gr10.9 Self Colour DIN 7991 165 |  
 | name_no_class | Screw Countersunk M4 Black 10 mm Length Hex Head |  
 | name_no_color | 10 mm Length Hex Head |  
 | name_no_size | Black 10 mm Length Hex Head |  
@@ -350,6 +355,7 @@ soon |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs4b10h |  
 | oomlout_short_code_upper | CS4B10H |  
+| oomp_id | hardware_screw_countersunk_m4_black_10_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m4_black_10_mm_length_hex_head |  
 | oomp_word | umbrella flags palm_tree |  
 | oomp_word_emoji | :umbrella: :flags: :palm_tree: |  
@@ -357,10 +363,23 @@ soon |
 | oomp_word_list | ['umbrella', 'flags', 'palm_tree'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1901070 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1151M450010 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0128 |  
+| price_1000_distributor_orbital_fasteners | 0.0128 |  
+| price_100_distributor_orbital_fasteners | 0.0289 |  
+| price_1_distributor_orbital_fasteners | 0.0289 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0161 |  
+| price_current | missing_value |  
 | short_code | cs4b10h |  
 | short_code_upper | CS4B10H |  
 | size | m4 |  
@@ -425,3 +444,5 @@ soon |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-10-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m4-x-10-socket-csk-screw-gr10-9-self-colour-din-79-1151m450010 |  

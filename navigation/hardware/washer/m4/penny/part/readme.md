@@ -283,6 +283,7 @@ ring |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M4 Penny |  
+| oomp_id | hardware_washer_m4_penny |  
 | oomp_key | oomp_hardware_washer_m4_penny |  
 | oomp_word | basketball nine shoe |  
 | oomp_word_emoji | :basketball: :nine: :shoe: |  
@@ -290,10 +291,21 @@ ring |
 | oomp_word_list | ['basketball', 'nine', 'shoe'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1731010 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_1000_distributor_orbital_fasteners | 0.0216 |  
+| price_100_distributor_orbital_fasteners | 0.0346 |  
+| price_1_distributor_orbital_fasteners | 0.0346 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0346 |  
+| price_current | missing_value |  
 | short_code | w4 |  
 | short_code_upper | W4 |  
 | size | m4 |  
@@ -358,3 +370,4 @@ ring |
 | type_upper_length_4 | WASH |  
 | type_upper_length_5 | WASHE |  
 | type_upper_length_6 | WASHER |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-14-x-0-80mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  

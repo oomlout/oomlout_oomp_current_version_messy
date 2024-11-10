@@ -306,6 +306,7 @@ name_no_color: M4
 name_no_size: M4
 name_no_size_short: M4
 name_no_type: M4
+oomp_id: hardware_washer_m4
 oomp_key: oomp_hardware_washer_m4
 oomp_word: skull kiss grapes
 oomp_word_emoji: ':skull: :kiss: :grapes:'
@@ -319,10 +320,22 @@ oomp_word_list:
 - grapes
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1711010'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1: missing_value
+price_100: missing_value
+price_1000: missing_value
+price_10000: missing_value
+price_10000_distributor_orbital_fasteners: '0.0017'
+price_1000_distributor_orbital_fasteners: '0.0022'
+price_100_distributor_orbital_fasteners: '0.0034'
+price_1_distributor_orbital_fasteners: '0.0034'
+price_200: missing_value
+price_200_distributor_orbital_fasteners: '0.0034'
+price_current: missing_value
 short_code: w4
 short_code_upper: W4
 size: m4
@@ -387,3 +400,4 @@ type_upper_length_3: WAS
 type_upper_length_4: WASH
 type_upper_length_5: WASHE
 type_upper_length_6: WASHER
+webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m4-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-4-3x9x0-8mm-

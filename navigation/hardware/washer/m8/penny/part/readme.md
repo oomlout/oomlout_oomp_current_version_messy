@@ -283,6 +283,7 @@ abandon |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M8 Penny |  
+| oomp_id | hardware_washer_m8_penny |  
 | oomp_key | oomp_hardware_washer_m8_penny |  
 | oomp_word | camel hamburger baby |  
 | oomp_word_emoji | :camel: :hamburger: :baby: |  
@@ -290,10 +291,21 @@ abandon |
 | oomp_word_list | ['camel', 'hamburger', 'baby'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1731116 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_1000_distributor_orbital_fasteners | 0.1045 |  
+| price_100_distributor_orbital_fasteners | 0.1254 |  
+| price_1_distributor_orbital_fasteners | 0.1254 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.1254 |  
+| price_current | missing_value |  
 | short_code | w8 |  
 | short_code_upper | W8 |  
 | size | m8 |  
@@ -358,3 +370,4 @@ abandon |
 | type_upper_length_4 | WASH |  
 | type_upper_length_5 | WASHE |  
 | type_upper_length_6 | WASHER |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m8x38x15-penny-washer-steel-galv |  

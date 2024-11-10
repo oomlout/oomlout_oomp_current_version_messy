@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420696432 |  
 | bip_39_word_dash_1 | faint |  
 | bip_39_word_dash_10 | faint-chapter-swift-gap-rally-enough-scout-drastic-green-power |  
 | bip_39_word_dash_11 | faint-chapter-swift-gap-rally-enough-scout-drastic-green-power-tell |  
@@ -171,6 +172,8 @@ green |
 | bip_39_word_underscore_7 | faint_chapter_swift_gap_rally_enough_scout |  
 | bip_39_word_underscore_8 | faint_chapter_swift_gap_rally_enough_scout_drastic |  
 | bip_39_word_underscore_9 | faint_chapter_swift_gap_rally_enough_scout_drastic_green |  
+| box_of_box_size_manufacturer_metalmate | 1200 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ green |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ green |
 | md5_6_alpha_upper | 9Z8A2 |  
 | md5_6_upper | FFBDAA |  
 | name | Hardware Screw Socket Cap M5 Black 75 mm Length Hex Head |  
+| name_manufacturer_metalmate | M5 x 75 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M5 Black 75 mm Length Hex Head |  
 | name_no_color | 75 mm Length Hex Head |  
 | name_no_size | Black 75 mm Length Hex Head |  
@@ -350,6 +355,7 @@ green |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc5b75h |  
 | oomlout_short_code_upper | SC5B75H |  
+| oomp_id | hardware_screw_socket_cap_m5_black_75_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m5_black_75_mm_length_hex_head |  
 | oomp_word | trident rice lipstick |  
 | oomp_word_emoji | :trident: :rice: :lipstick: |  
@@ -357,10 +363,23 @@ green |
 | oomp_word_list | ['trident', 'rice', 'lipstick'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891272 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M470075 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0576 |  
+| price_1000_distributor_orbital_fasteners | 0.0648 |  
+| price_100_distributor_orbital_fasteners | 0.1296 |  
+| price_1_distributor_orbital_fasteners | 0.1296 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.072 |  
+| price_current | missing_value |  
 | short_code | sc5b75h |  
 | short_code_upper | SC5B75H |  
 | size | m5 |  
@@ -425,3 +444,5 @@ green |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-75-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-75-socket-cap-screw-gr12-9-self-colour-din-91-1150m470075 |  

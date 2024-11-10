@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420655101 |  
 | bip_39_word_dash_1 | entry |  
 | bip_39_word_dash_10 | entry-bulb-beyond-expire-explain-fine-real-pyramid-coral-deal |  
 | bip_39_word_dash_11 | entry-bulb-beyond-expire-explain-fine-real-pyramid-coral-deal-play |  
@@ -171,6 +172,8 @@ coral |
 | bip_39_word_underscore_7 | entry_bulb_beyond_expire_explain_fine_real |  
 | bip_39_word_underscore_8 | entry_bulb_beyond_expire_explain_fine_real_pyramid |  
 | bip_39_word_underscore_9 | entry_bulb_beyond_expire_explain_fine_real_pyramid_coral |  
+| box_of_box_size_manufacturer_metalmate | 32000 |  
+| box_size_manufacturer_metalmate | 2000 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ coral |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318169290 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -254,6 +258,7 @@ coral |
 | md5_6_alpha_upper | 9Q6J2 |  
 | md5_6_upper | F94C8E |  
 | name | Hardware Nut M4 |  
+| name_manufacturer_metalmate | M4 DIN934 Gr.8 DIN267 Full Nut Zinc Plated Boxed |  
 | name_no_class | Nut M4 |  
 | name_no_color | M4 |  
 | name_no_size | M4 |  
@@ -261,6 +266,7 @@ coral |
 | name_no_type | M4 |  
 | oomlout_short_code | n4m |  
 | oomlout_short_code_upper | N4M |  
+| oomp_id | hardware_nut_m4 |  
 | oomp_key | oomp_hardware_nut_m4 |  
 | oomp_word | eight turtle clipboard |  
 | oomp_word_emoji | :eight: :turtle: :clipboard: |  
@@ -268,10 +274,23 @@ coral |
 | oomp_word_list | ['eight', 'turtle', 'clipboard'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1771010 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0322M45 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0035 |  
+| price_1000_distributor_orbital_fasteners | 0.0043 |  
+| price_100_distributor_orbital_fasteners | 0.0077 |  
+| price_1_distributor_orbital_fasteners | 0.0077 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0077 |  
+| price_current | missing_value |  
 | short_code | nu4 |  
 | short_code_upper | NU4 |  
 | size | m4 |  
@@ -336,3 +355,5 @@ coral |
 | type_upper_length_4 | NUT |  
 | type_upper_length_5 | NUT |  
 | type_upper_length_6 | NUT |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-hexagon-mild-steel-full-nuts-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m4-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m45 |  

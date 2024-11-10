@@ -1,3 +1,4 @@
+barcode_manufacturer_metalmate: '5050420655132'
 bip_39_word_dash_1: glass
 bip_39_word_dash_10: glass-essence-slender-chalk-virus-river-scorpion-you-west-sail
 bip_39_word_dash_11: glass-essence-slender-chalk-virus-river-scorpion-you-west-sail-upon
@@ -217,6 +218,8 @@ bip_39_word_underscore_6: glass_essence_slender_chalk_virus_river
 bip_39_word_underscore_7: glass_essence_slender_chalk_virus_river_scorpion
 bip_39_word_underscore_8: glass_essence_slender_chalk_virus_river_scorpion_you
 bip_39_word_underscore_9: glass_essence_slender_chalk_virus_river_scorpion_you_west
+box_of_box_size_manufacturer_metalmate: '3200'
+box_size_manufacturer_metalmate: '100'
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -253,6 +256,7 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_name: ''
 color_upper: ''
+commonity_code: '7318169290'
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -301,6 +305,7 @@ md5_6_alpha: 3qnsf
 md5_6_alpha_upper: 3QNSF
 md5_6_upper: 5FDDEF
 name: Hardware Nut M8
+name_manufacturer_metalmate: M8 DIN934 Gr.8 DIN267 Full Nut Zinc Plated Boxed
 name_no_class: Nut M8
 name_no_color: M8
 name_no_size: M8
@@ -308,6 +313,7 @@ name_no_size_short: M8
 name_no_type: M8
 oomlout_short_code: n8m
 oomlout_short_code_upper: N8M
+oomp_id: hardware_nut_m8
 oomp_key: oomp_hardware_nut_m8
 oomp_word: leopard stars truck
 oomp_word_emoji: ':leopard: :stars: :truck:'
@@ -321,10 +327,22 @@ oomp_word_list:
 - truck
 part_number: ''
 part_number_capital: ''
+part_number_distributor_orbital_fasteners: '1771040'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_manufacturer_metalmate: Z0322M54
 part_number_name: ''
 part_number_upper: ''
+price_1: missing_value
+price_100: missing_value
+price_1000: missing_value
+price_10000: missing_value
+price_1000_distributor_orbital_fasteners: '0.0119'
+price_100_distributor_orbital_fasteners: '0.0158'
+price_1_distributor_orbital_fasteners: '0.0158'
+price_200: missing_value
+price_200_distributor_orbital_fasteners: '0.0132'
+price_current: missing_value
 short_code: nu8
 short_code_upper: NU8
 size: m8
@@ -389,3 +407,5 @@ type_upper_length_3: NUT
 type_upper_length_4: NUT
 type_upper_length_5: NUT
 type_upper_length_6: NUT
+webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m8-hexagon-mild-steel-full-nuts-bright-zinc-plated
+webpage_manufacturer_metalmate: https://www.harclob2b.com/m8-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m54

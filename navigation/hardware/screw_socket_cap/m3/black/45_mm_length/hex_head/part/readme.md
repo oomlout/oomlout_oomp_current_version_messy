@@ -300,7 +300,6 @@ helmet |
 | description_or_color | B45 |  
 | description_or_color_upper | B45 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_45_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -375,7 +374,6 @@ helmet |
 | price_10000 | missing_value |  
 | price_200 | missing_value |  
 | price_current | missing_value |  
-| quantity_current | 200 |  
 | short_code | sc3b45h |  
 | short_code_upper | SC3B45H |  
 | size | m3 |  

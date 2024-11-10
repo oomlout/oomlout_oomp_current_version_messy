@@ -350,6 +350,7 @@ useful |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs4b30h |  
 | oomlout_short_code_upper | CS4B30H |  
+| oomp_id | hardware_screw_countersunk_m4_black_30_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m4_black_30_mm_length_hex_head |  
 | oomp_word | bear trophy curry |  
 | oomp_word_emoji | :bear: :trophy: :curry: |  
@@ -357,10 +358,23 @@ useful |
 | oomp_word_list | ['bear', 'trophy', 'curry'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1901120 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1151M450030 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.015 |  
+| price_1000_distributor_orbital_fasteners | 0.015 |  
+| price_100_distributor_orbital_fasteners | 0.0337 |  
+| price_1_distributor_orbital_fasteners | 0.0337 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0187 |  
+| price_current | missing_value |  
 | short_code | cs4b30h |  
 | short_code_upper | CS4B30H |  
 | size | m4 |  
@@ -425,3 +439,4 @@ useful |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-30-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  

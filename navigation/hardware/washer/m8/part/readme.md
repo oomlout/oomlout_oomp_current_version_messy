@@ -259,6 +259,7 @@ divorce |
 | name_no_size | M8 |  
 | name_no_size_short | M8 |  
 | name_no_type | M8 |  
+| oomp_id | hardware_washer_m8 |  
 | oomp_key | oomp_hardware_washer_m8 |  
 | oomp_word | tongue angry bus |  
 | oomp_word_emoji | :tongue: :angry: :bus: |  
@@ -266,10 +267,21 @@ divorce |
 | oomp_word_list | ['tongue', 'angry', 'bus'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1711040 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_1000_distributor_orbital_fasteners | 0.0062 |  
+| price_100_distributor_orbital_fasteners | 0.0074 |  
+| price_1_distributor_orbital_fasteners | 0.0074 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0074 |  
+| price_current | missing_value |  
 | short_code | w8 |  
 | short_code_upper | W8 |  
 | size | m8 |  
@@ -334,3 +346,4 @@ divorce |
 | type_upper_length_4 | WASH |  
 | type_upper_length_5 | WASHE |  
 | type_upper_length_6 | WASHER |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m8-mild-steel-form-a-flat-washer-bright-zinc-plated-din-125-1a-8-4x17x1-6mm- |  

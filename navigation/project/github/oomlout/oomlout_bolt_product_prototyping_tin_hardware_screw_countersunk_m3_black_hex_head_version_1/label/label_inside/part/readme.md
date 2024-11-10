@@ -297,6 +297,8 @@ devote |
 | description_or_color_upper | O  |  
 | directory | parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
 | distributors | [] |  
+| file_name | working_label_inside_print.pdf |  
+| file_name_full_oomlout | C:\gh\oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1/release/print/working_label_inside_print.pdf |  
 | filter |  |  
 | from_yaml | False |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
@@ -305,6 +307,7 @@ devote |
 | id_no_color | bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
 | id_no_size | bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
 | id_no_type | oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
+| link_github | https://github.com/oomlout/oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1/blob/main/release/print/working_label_inside_print.pdf |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -330,6 +333,7 @@ devote |
 | name_no_size | Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Label Label Inside |  
 | name_no_size_short | Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Label Label Inside |  
 | name_no_type | Oomlout Oomlout Bolt Product Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version 1 Label Label Inside |  
+| name_short | m3_countersunk_tin_label_inside |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_label_label_inside |  
 | oomp_word | droplet chicken coffee |  
 | oomp_word_emoji | :droplet: :chicken: :coffee: |  

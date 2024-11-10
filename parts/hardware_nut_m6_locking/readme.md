@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420670609 |  
 | bip_39_word_dash_1 | grief |  
 | bip_39_word_dash_10 | grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence |  
 | bip_39_word_dash_11 | grief-balance-city-drastic-eternal-avoid-chunk-december-main-sentence-swift |  
@@ -171,6 +172,8 @@ main |
 | bip_39_word_underscore_7 | grief_balance_city_drastic_eternal_avoid_chunk |  
 | bip_39_word_underscore_8 | grief_balance_city_drastic_eternal_avoid_chunk_december |  
 | bip_39_word_underscore_9 | grief_balance_city_drastic_eternal_avoid_chunk_december_main |  
+| box_of_box_size_manufacturer_metalmate | 6000 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ main |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318166090 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ main |
 | md5_6_alpha_upper | 3QG8G |  
 | md5_6_upper | 5FB7B0 |  
 | name | Hardware Nut M6 Locking |  
+| name_manufacturer_metalmate | M6 DIN982 Type P Nylon Insert Nut Class 8 Zinc Plated Boxed |  
 | name_no_class | Nut M6 Locking |  
 | name_no_color | Locking |  
 | name_no_size | Locking |  
@@ -285,6 +290,7 @@ main |
 | name_no_type | M6 Locking |  
 | oomlout_short_code | n6mlo |  
 | oomlout_short_code_upper | N6MLO |  
+| oomp_id | hardware_nut_m6_locking |  
 | oomp_key | oomp_hardware_nut_m6_locking |  
 | oomp_word | leopard pizza crown |  
 | oomp_word_emoji | :leopard: :pizza: :crown: |  
@@ -292,10 +298,23 @@ main |
 | oomp_word_list | ['leopard', 'pizza', 'crown'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1781030 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1657M49 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0095 |  
+| price_1000_distributor_orbital_fasteners | 0.0107 |  
+| price_100_distributor_orbital_fasteners | 0.019 |  
+| price_1_distributor_orbital_fasteners | 0.019 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0119 |  
+| price_current | missing_value |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  
 | size | m6 |  
@@ -360,3 +379,5 @@ main |
 | type_upper_length_4 | NUT |  
 | type_upper_length_5 | NUT |  
 | type_upper_length_6 | NUT |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49 |  

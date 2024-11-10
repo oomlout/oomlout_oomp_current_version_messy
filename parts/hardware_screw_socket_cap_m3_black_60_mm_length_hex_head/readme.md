@@ -300,7 +300,6 @@ weasel |
 | description_or_color | B60 |  
 | description_or_color_upper | B60 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_60_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -375,7 +374,6 @@ weasel |
 | price_10000 | missing_value |  
 | price_200 | missing_value |  
 | price_current | missing_value |  
-| quantity_current | 200 |  
 | short_code | sc3b60h |  
 | short_code_upper | SC3B60H |  
 | size | m3 |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420670586 |  
 | bip_39_word_dash_1 | employ |  
 | bip_39_word_dash_10 | employ-mistake-join-forward-lounge-student-elbow-sausage-human-pipe |  
 | bip_39_word_dash_11 | employ-mistake-join-forward-lounge-student-elbow-sausage-human-pipe-monster |  
@@ -171,6 +172,8 @@ human |
 | bip_39_word_underscore_7 | employ_mistake_join_forward_lounge_student_elbow |  
 | bip_39_word_underscore_8 | employ_mistake_join_forward_lounge_student_elbow_sausage |  
 | bip_39_word_underscore_9 | employ_mistake_join_forward_lounge_student_elbow_sausage_human |  
+| box_of_box_size_manufacturer_metalmate | 16000 |  
+| box_size_manufacturer_metalmate | 1000 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ human |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318166090 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -278,6 +282,7 @@ human |
 | md5_6_alpha_upper | 2GNU1 |  
 | md5_6_upper | 3F1EA9 |  
 | name | Hardware Nut M4 Locking |  
+| name_manufacturer_metalmate | M4 DIN 6924 Type P Nylon Insert Nut Class 8 Zinc Plated Boxed |  
 | name_no_class | Nut M4 Locking |  
 | name_no_color | Locking |  
 | name_no_size | Locking |  
@@ -285,6 +290,7 @@ human |
 | name_no_type | M4 Locking |  
 | oomlout_short_code | n4mlo |  
 | oomlout_short_code_upper | N4MLO |  
+| oomp_id | hardware_nut_m4_locking |  
 | oomp_key | oomp_hardware_nut_m4_locking |  
 | oomp_word | horse angel sandal |  
 | oomp_word_emoji | :horse: :angel: :sandal: |  
@@ -292,10 +298,23 @@ human |
 | oomp_word_list | ['horse', 'angel', 'sandal'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1781010 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1657M45 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0076 |  
+| price_1000_distributor_orbital_fasteners | 0.0094 |  
+| price_100_distributor_orbital_fasteners | 0.015 |  
+| price_1_distributor_orbital_fasteners | 0.015 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.015 |  
+| price_current | missing_value |  
 | short_code | nu4 |  
 | short_code_upper | NU4 |  
 | size | m4 |  
@@ -360,3 +379,5 @@ human |
 | type_upper_length_4 | NUT |  
 | type_upper_length_5 | NUT |  
 | type_upper_length_6 | NUT |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m4-din-6924-type-p-nylon-insert-nut-class-8-zinc-p-1657m45 |  

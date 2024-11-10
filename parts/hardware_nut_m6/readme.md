@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420655125 |  
 | bip_39_word_dash_1 | evoke |  
 | bip_39_word_dash_10 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought-limit |  
 | bip_39_word_dash_11 | evoke-hammer-soda-misery-attitude-embark-offer-flag-thought-limit-coil |  
@@ -171,6 +172,8 @@ thought |
 | bip_39_word_underscore_7 | evoke_hammer_soda_misery_attitude_embark_offer |  
 | bip_39_word_underscore_8 | evoke_hammer_soda_misery_attitude_embark_offer_flag |  
 | bip_39_word_underscore_9 | evoke_hammer_soda_misery_attitude_embark_offer_flag_thought |  
+| box_of_box_size_manufacturer_metalmate | 8000 |  
+| box_size_manufacturer_metalmate | 500 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -207,6 +210,7 @@ thought |
 | color_first_letter_upper |  |  
 | color_name |  |  
 | color_upper |  |  
+| commonity_code | 7318169290 |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -254,6 +258,7 @@ thought |
 | md5_6_alpha_upper | HCPS |  
 | md5_6_upper | 0C5AA0 |  
 | name | Hardware Nut M6 |  
+| name_manufacturer_metalmate | M6 DIN934 Gr.8 DIN267 Full Nut Zinc Plated Boxed |  
 | name_no_class | Nut M6 |  
 | name_no_color | M6 |  
 | name_no_size | M6 |  
@@ -261,6 +266,7 @@ thought |
 | name_no_type | M6 |  
 | oomlout_short_code | n6m |  
 | oomlout_short_code_upper | N6M |  
+| oomp_id | hardware_nut_m6 |  
 | oomp_key | oomp_hardware_nut_m6 |  
 | oomp_word | alien goat ring |  
 | oomp_word_emoji | :alien: :goat: :ring: |  
@@ -268,10 +274,23 @@ thought |
 | oomp_word_list | ['alien', 'goat', 'ring'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1771030 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0322M49 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.006 |  
+| price_1000_distributor_orbital_fasteners | 0.0076 |  
+| price_100_distributor_orbital_fasteners | 0.0136 |  
+| price_1_distributor_orbital_fasteners | 0.0136 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0136 |  
+| price_current | missing_value |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  
 | size | m6 |  
@@ -336,3 +355,5 @@ thought |
 | type_upper_length_4 | NUT |  
 | type_upper_length_5 | NUT |  
 | type_upper_length_6 | NUT |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-hexagon-mild-steel-full-nuts-bright-zinc-plated |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m49 |  

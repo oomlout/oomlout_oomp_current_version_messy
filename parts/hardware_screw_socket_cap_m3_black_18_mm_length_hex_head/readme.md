@@ -32,7 +32,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420695961 |  
 | bip_39_word_dash_1 | jaguar |  
 | bip_39_word_dash_10 | jaguar-unique-echo-sustain-sample-universe-glide-cream-cradle-snow |  
 | bip_39_word_dash_11 | jaguar-unique-echo-sustain-sample-universe-glide-cream-cradle-snow-thank |  
@@ -172,8 +171,6 @@ cradle |
 | bip_39_word_underscore_7 | jaguar_unique_echo_sustain_sample_universe_glide |  
 | bip_39_word_underscore_8 | jaguar_unique_echo_sustain_sample_universe_glide_cream |  
 | bip_39_word_underscore_9 | jaguar_unique_echo_sustain_sample_universe_glide_cream_cradle |  
-| box_of_box_size_manufacturer_metalmate | 4800 |  
-| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -234,7 +231,6 @@ cradle |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
-| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -300,7 +296,6 @@ cradle |
 | description_or_color | B18 |  
 | description_or_color_upper | B18 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_18_mm_length_hex_head |  
-| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -331,7 +326,6 @@ cradle |
 | md5_6_alpha_upper | 1H0VN |  
 | md5_6_upper | 25BFB3 |  
 | name | Hardware Screw Socket Cap M3 Black 18 mm Length Hex Head |  
-| name_manufacturer_metalmate | M3 x 18 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M3 Black 18 mm Length Hex Head |  
 | name_no_color | 18 mm Length Hex Head |  
 | name_no_size | Black 18 mm Length Hex Head |  
@@ -356,7 +350,6 @@ cradle |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc3b18h |  
 | oomlout_short_code_upper | SC3B18H |  
-| oomp_id | hardware_screw_socket_cap_m3_black_18_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m3_black_18_mm_length_hex_head |  
 | oomp_word | ear egg eyeglasses |  
 | oomp_word_emoji | :ear: :egg: :eyeglasses: |  
@@ -366,16 +359,8 @@ cradle |
 | part_number_capital |  |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M390018 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
-| price_200 | missing_value |  
-| price_current | missing_value |  
-| quantity_current | 200 |  
 | short_code | sc3b18h |  
 | short_code_upper | SC3B18H |  
 | size | m3 |  
@@ -440,4 +425,3 @@ cradle |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
-| webpage_manufacturer_metalmate | https://www.harclob2b.com/m3-x-18-socket-cap-screw-gr12-9-self-colour-din-91-1150m390018 |  

@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420696258 |  
 | bip_39_word_dash_1 | deer |  
 | bip_39_word_dash_10 | deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm |  
 | bip_39_word_dash_11 | deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm-tenant |  
@@ -171,6 +172,8 @@ beach |
 | bip_39_word_underscore_7 | deer_main_mixed_mansion_alien_dismiss_gallery |  
 | bip_39_word_underscore_8 | deer_main_mixed_mansion_alien_dismiss_gallery_solution |  
 | bip_39_word_underscore_9 | deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ beach |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ beach |
 | md5_6_alpha_upper | 8YPL4 |  
 | md5_6_upper | E5BE08 |  
 | name | Hardware Screw Socket Cap M5 Black 6 mm Length Hex Head |  
+| name_manufacturer_metalmate | M5 x 6 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M5 Black 6 mm Length Hex Head |  
 | name_no_color | 6 mm Length Hex Head |  
 | name_no_size | Black 6 mm Length Hex Head |  
@@ -350,6 +355,7 @@ beach |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | sc5b6h |  
 | oomlout_short_code_upper | SC5B6H |  
+| oomp_id | hardware_screw_socket_cap_m5_black_6_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_socket_cap_m5_black_6_mm_length_hex_head |  
 | oomp_word | rocket ramen scream |  
 | oomp_word_emoji | :rocket: :ramen: :scream: |  
@@ -357,10 +363,23 @@ beach |
 | oomp_word_list | ['rocket', 'ramen', 'scream'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1891165 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1150M470006 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.0175 |  
+| price_1000_distributor_orbital_fasteners | 0.0175 |  
+| price_100_distributor_orbital_fasteners | 0.0394 |  
+| price_1_distributor_orbital_fasteners | 0.0394 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0218 |  
+| price_current | missing_value |  
 | short_code | sc5b6h |  
 | short_code_upper | SC5B6H |  
 | size | m5 |  
@@ -425,3 +444,5 @@ beach |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m5-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m5-x-6-socket-cap-screw-gr12-9-self-colour-din-912-1150m470006 |  

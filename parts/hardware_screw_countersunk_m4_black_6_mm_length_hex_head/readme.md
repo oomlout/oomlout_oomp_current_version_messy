@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420696838 |  
 | bip_39_word_dash_1 | nothing |  
 | bip_39_word_dash_10 | nothing-purse-upper-bitter-tongue-friend-hobby-good-tomato-kangaroo |  
 | bip_39_word_dash_11 | nothing-purse-upper-bitter-tongue-friend-hobby-good-tomato-kangaroo-cactus |  
@@ -171,6 +172,8 @@ tomato |
 | bip_39_word_underscore_7 | nothing_purse_upper_bitter_tongue_friend_hobby |  
 | bip_39_word_underscore_8 | nothing_purse_upper_bitter_tongue_friend_hobby_good |  
 | bip_39_word_underscore_9 | nothing_purse_upper_bitter_tongue_friend_hobby_good_tomato |  
+| box_of_box_size_manufacturer_metalmate | 4800 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ tomato |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -326,6 +330,7 @@ tomato |
 | md5_6_alpha_upper | 63H9A |  
 | md5_6_upper | 9C401E |  
 | name | Hardware Screw Countersunk M4 Black 6 mm Length Hex Head |  
+| name_manufacturer_metalmate | M4 x 6 Socket Csk Screw Gr10.9 Self Colour DIN 7991 165 |  
 | name_no_class | Screw Countersunk M4 Black 6 mm Length Hex Head |  
 | name_no_color | 6 mm Length Hex Head |  
 | name_no_size | Black 6 mm Length Hex Head |  
@@ -350,6 +355,7 @@ tomato |
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
 | oomlout_short_code | cs4b6h |  
 | oomlout_short_code_upper | CS4B6H |  
+| oomp_id | hardware_screw_countersunk_m4_black_6_mm_length_hex_head |  
 | oomp_key | oomp_hardware_screw_countersunk_m4_black_6_mm_length_hex_head |  
 | oomp_word | spades racehorse angel |  
 | oomp_word_emoji | :spades: :racehorse: :angel: |  
@@ -357,10 +363,23 @@ tomato |
 | oomp_word_list | ['spades', 'racehorse', 'angel'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_orbital_fasteners | 1901055 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | 1151M450006 |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1 | missing_value |  
+| price_100 | missing_value |  
+| price_1000 | missing_value |  
+| price_10000 | missing_value |  
+| price_10000_distributor_orbital_fasteners | 0.01 |  
+| price_1000_distributor_orbital_fasteners | 0.01 |  
+| price_100_distributor_orbital_fasteners | 0.0224 |  
+| price_1_distributor_orbital_fasteners | 0.0224 |  
+| price_200 | missing_value |  
+| price_200_distributor_orbital_fasteners | 0.0125 |  
+| price_current | missing_value |  
 | short_code | cs4b6h |  
 | short_code_upper | CS4B6H |  
 | size | m4 |  
@@ -425,3 +444,5 @@ tomato |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-6-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m4-x-6-socket-csk-screw-gr10-9-self-colour-din-799-1151m450006 |  
