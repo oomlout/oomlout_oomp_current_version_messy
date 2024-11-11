@@ -248,6 +248,7 @@ ring |
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_washer_m4_penny |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -296,16 +297,16 @@ ring |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0346 |  
+| price_100 | 0.0346 |  
+| price_1000 | 0.0216 |  
 | price_1000_distributor_orbital_fasteners | 0.0216 |  
 | price_100_distributor_orbital_fasteners | 0.0346 |  
 | price_1_distributor_orbital_fasteners | 0.0346 |  
-| price_200 | missing_value |  
+| price_200 | 0.0346 |  
 | price_200_distributor_orbital_fasteners | 0.0346 |  
-| price_current | missing_value |  
+| price_current | 0.0346 |  
+| quantity_current | 200 |  
 | short_code | w4 |  
 | short_code_upper | W4 |  
 | size | m4 |  

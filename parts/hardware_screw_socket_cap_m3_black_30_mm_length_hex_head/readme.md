@@ -300,6 +300,7 @@ black |
 | description_or_color | B30 |  
 | description_or_color_upper | B30 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_30_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -369,17 +370,18 @@ black |
 | part_number_manufacturer_metalmate | 1150M390030 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0557 |  
+| price_100 | 0.0557 |  
+| price_1000 | 0.0247 |  
+| price_10000 | 0.0247 |  
 | price_10000_distributor_orbital_fasteners | 0.0247 |  
 | price_1000_distributor_orbital_fasteners | 0.0247 |  
 | price_100_distributor_orbital_fasteners | 0.0557 |  
 | price_1_distributor_orbital_fasteners | 0.0557 |  
-| price_200 | missing_value |  
+| price_200 | 0.031 |  
 | price_200_distributor_orbital_fasteners | 0.031 |  
-| price_current | missing_value |  
+| price_current | 0.031 |  
+| quantity_current | 200 |  
 | short_code | sc3b30h |  
 | short_code_upper | SC3B30H |  
 | size | m3 |  

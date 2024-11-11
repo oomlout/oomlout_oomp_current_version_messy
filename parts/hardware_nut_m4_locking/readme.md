@@ -252,6 +252,7 @@ human |
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_nut_m4_locking |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -304,17 +305,18 @@ human |
 | part_number_manufacturer_metalmate | 1657M45 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.015 |  
+| price_100 | 0.015 |  
+| price_1000 | 0.0094 |  
+| price_10000 | 0.0076 |  
 | price_10000_distributor_orbital_fasteners | 0.0076 |  
 | price_1000_distributor_orbital_fasteners | 0.0094 |  
 | price_100_distributor_orbital_fasteners | 0.015 |  
 | price_1_distributor_orbital_fasteners | 0.015 |  
-| price_200 | missing_value |  
+| price_200 | 0.015 |  
 | price_200_distributor_orbital_fasteners | 0.015 |  
-| price_current | missing_value |  
+| price_current | 0.015 |  
+| quantity_current | 200 |  
 | short_code | nu4 |  
 | short_code_upper | NU4 |  
 | size | m4 |  

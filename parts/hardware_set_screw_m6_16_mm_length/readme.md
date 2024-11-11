@@ -252,6 +252,7 @@ gown |
 | description_or_color | 16 |  
 | description_or_color_upper | 16 |  
 | directory | parts/hardware_set_screw_m6_16_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -321,17 +322,18 @@ gown |
 | part_number_manufacturer_metalmate | Z0318M490016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.029 |  
+| price_100 | 0.029 |  
+| price_1000 | 0.0162 |  
+| price_10000 | 0.013 |  
 | price_10000_distributor_orbital_fasteners | 0.013 |  
 | price_1000_distributor_orbital_fasteners | 0.0162 |  
 | price_100_distributor_orbital_fasteners | 0.029 |  
 | price_1_distributor_orbital_fasteners | 0.029 |  
-| price_200 | missing_value |  
+| price_200 | 0.029 |  
 | price_200_distributor_orbital_fasteners | 0.029 |  
-| price_current | missing_value |  
+| price_current | 0.029 |  
+| quantity_current | 200 |  
 | short_code | ss616 |  
 | short_code_upper | SS616 |  
 | size | m6 |  

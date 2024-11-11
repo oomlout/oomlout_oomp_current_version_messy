@@ -296,6 +296,7 @@ glove |
 | description_or_color | B60 |  
 | description_or_color_upper | B60 |  
 | directory | parts/hardware_screw_socket_cap_m6_black_60_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -364,17 +365,18 @@ glove |
 | part_number_manufacturer_metalmate | 1150M4900060 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.1283 |  
+| price_100 | 0.1283 |  
+| price_1000 | 0.0642 |  
+| price_10000 | 0.057 |  
 | price_10000_distributor_orbital_fasteners | 0.057 |  
 | price_1000_distributor_orbital_fasteners | 0.0642 |  
 | price_100_distributor_orbital_fasteners | 0.1283 |  
 | price_1_distributor_orbital_fasteners | 0.1283 |  
-| price_200 | missing_value |  
+| price_200 | 0.0713 |  
 | price_200_distributor_orbital_fasteners | 0.0713 |  
-| price_current | missing_value |  
+| price_current | 0.0713 |  
+| quantity_current | 200 |  
 | short_code | sc6b60h |  
 | short_code_upper | SC6B60H |  
 | size | m6 |  

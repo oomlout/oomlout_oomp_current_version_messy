@@ -228,6 +228,7 @@ west |
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_nut_m8 |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -280,16 +281,16 @@ west |
 | part_number_manufacturer_metalmate | Z0322M54 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0158 |  
+| price_100 | 0.0158 |  
+| price_1000 | 0.0119 |  
 | price_1000_distributor_orbital_fasteners | 0.0119 |  
 | price_100_distributor_orbital_fasteners | 0.0158 |  
 | price_1_distributor_orbital_fasteners | 0.0158 |  
-| price_200 | missing_value |  
+| price_200 | 0.0132 |  
 | price_200_distributor_orbital_fasteners | 0.0132 |  
-| price_current | missing_value |  
+| price_current | 0.0132 |  
+| quantity_current | 200 |  
 | short_code | nu8 |  
 | short_code_upper | NU8 |  
 | size | m8 |  

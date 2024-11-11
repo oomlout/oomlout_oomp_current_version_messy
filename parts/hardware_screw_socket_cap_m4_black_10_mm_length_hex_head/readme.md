@@ -296,6 +296,7 @@ dawn |
 | description_or_color | B10 |  
 | description_or_color_upper | B10 |  
 | directory | parts/hardware_screw_socket_cap_m4_black_10_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -363,17 +364,18 @@ dawn |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0332 |  
+| price_100 | 0.0332 |  
+| price_1000 | 0.0148 |  
+| price_10000 | 0.0148 |  
 | price_10000_distributor_orbital_fasteners | 0.0148 |  
 | price_1000_distributor_orbital_fasteners | 0.0148 |  
 | price_100_distributor_orbital_fasteners | 0.0332 |  
 | price_1_distributor_orbital_fasteners | 0.0332 |  
-| price_200 | missing_value |  
+| price_200 | 0.0185 |  
 | price_200_distributor_orbital_fasteners | 0.0185 |  
-| price_current | missing_value |  
+| price_current | 0.0185 |  
+| quantity_current | 200 |  
 | short_code | sc4b10h |  
 | short_code_upper | SC4B10H |  
 | size | m4 |  

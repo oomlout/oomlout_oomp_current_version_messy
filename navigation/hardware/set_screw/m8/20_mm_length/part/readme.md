@@ -252,6 +252,7 @@ drive |
 | description_or_color | 20 |  
 | description_or_color_upper | 20 |  
 | directory | parts/hardware_set_screw_m8_20_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -321,17 +322,18 @@ drive |
 | part_number_manufacturer_metalmate | Z0318M540020 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0557 |  
+| price_100 | 0.0557 |  
+| price_1000 | 0.0278 |  
+| price_10000 | 0.0278 |  
 | price_10000_distributor_orbital_fasteners | 0.0278 |  
 | price_1000_distributor_orbital_fasteners | 0.0278 |  
 | price_100_distributor_orbital_fasteners | 0.0557 |  
 | price_1_distributor_orbital_fasteners | 0.0557 |  
-| price_200 | missing_value |  
+| price_200 | 0.0348 |  
 | price_200_distributor_orbital_fasteners | 0.0348 |  
-| price_current | missing_value |  
+| price_current | 0.0348 |  
+| quantity_current | 200 |  
 | short_code | ss820 |  
 | short_code_upper | SS820 |  
 | size | m8 |  

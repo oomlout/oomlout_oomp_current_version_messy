@@ -248,6 +248,7 @@ grocery |
 | description_or_color | 12 |  
 | description_or_color_upper | 12 |  
 | directory | parts/hardware_set_screw_m4_12_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -315,17 +316,18 @@ grocery |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0254 |  
+| price_100 | 0.0254 |  
+| price_1000 | 0.0142 |  
+| price_10000 | 0.0113 |  
 | price_10000_distributor_orbital_fasteners | 0.0113 |  
 | price_1000_distributor_orbital_fasteners | 0.0142 |  
 | price_100_distributor_orbital_fasteners | 0.0254 |  
 | price_1_distributor_orbital_fasteners | 0.0254 |  
-| price_200 | missing_value |  
+| price_200 | 0.0254 |  
 | price_200_distributor_orbital_fasteners | 0.0254 |  
-| price_current | missing_value |  
+| price_current | 0.0254 |  
+| quantity_current | 200 |  
 | short_code | ss412 |  
 | short_code_upper | SS412 |  
 | size | m4 |  

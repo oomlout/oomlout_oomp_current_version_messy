@@ -191,6 +191,7 @@
     * [oomlout_oomp_utility_oomlout_project_bolt](github/oomlout/oomlout_oomp_utility_oomlout_project_bolt)
     * [oomlout_oomp_utility_oomlout_short_code](github/oomlout/oomlout_oomp_utility_oomlout_short_code)
     * [oomlout_oomp_utility_pdf_from_svg_generation](github/oomlout/oomlout_oomp_utility_pdf_from_svg_generation)
+    * [oomlout_oomp_utility_qr_code_generation](github/oomlout/oomlout_oomp_utility_qr_code_generation)
     * [oomlout_oomp_utility_readme_generation](github/oomlout/oomlout_oomp_utility_readme_generation)
     * [oomlout_oomp_utility_working_yaml_remove](github/oomlout/oomlout_oomp_utility_working_yaml_remove)
     * [oomlout_oomp_v2](github/oomlout/oomlout_oomp_v2)

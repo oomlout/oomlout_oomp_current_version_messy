@@ -300,6 +300,7 @@ require |
 | description_or_color | B120 |  
 | description_or_color_upper | B120 |  
 | directory | parts/hardware_screw_socket_cap_m5_black_120_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -369,17 +370,18 @@ require |
 | part_number_manufacturer_metalmate | 1150M470120 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.3456 |  
+| price_100 | 0.192 |  
+| price_1000 | 0.1536 |  
+| price_10000 | 0.1536 |  
 | price_10000_distributor_orbital_fasteners | 0.1536 |  
 | price_1000_distributor_orbital_fasteners | 0.1536 |  
 | price_100_distributor_orbital_fasteners | 0.192 |  
 | price_1_distributor_orbital_fasteners | 0.3456 |  
-| price_200 | missing_value |  
+| price_200 | 0.192 |  
 | price_200_distributor_orbital_fasteners | 0.192 |  
-| price_current | missing_value |  
+| price_current | 0.192 |  
+| quantity_current | 200 |  
 | short_code | sc5bh |  
 | short_code_upper | SC5BH |  
 | size | m5 |  

@@ -252,6 +252,7 @@ north |
 | description_or_color | 50 |  
 | description_or_color_upper | 50 |  
 | directory | parts/hardware_set_screw_m8_50_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -321,17 +322,18 @@ north |
 | part_number_manufacturer_metalmate | Z0318M540050 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0943 |  
+| price_100 | 0.0943 |  
+| price_1000 | 0.053 |  
+| price_10000 | 0.0472 |  
 | price_10000_distributor_orbital_fasteners | 0.0472 |  
 | price_1000_distributor_orbital_fasteners | 0.053 |  
 | price_100_distributor_orbital_fasteners | 0.0943 |  
 | price_1_distributor_orbital_fasteners | 0.0943 |  
-| price_200 | missing_value |  
+| price_200 | 0.0589 |  
 | price_200_distributor_orbital_fasteners | 0.0589 |  
-| price_current | missing_value |  
+| price_current | 0.0589 |  
+| quantity_current | 200 |  
 | short_code | ss850 |  
 | short_code_upper | SS850 |  
 | size | m8 |  

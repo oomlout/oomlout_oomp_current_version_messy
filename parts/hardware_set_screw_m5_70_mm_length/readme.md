@@ -248,6 +248,7 @@ grunt |
 | description_or_color | 70 |  
 | description_or_color_upper | 70 |  
 | directory | parts/hardware_set_screw_m5_70_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -316,17 +317,18 @@ grunt |
 | part_number_manufacturer_metalmate | Z0318M470070 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.1342 |  
+| price_100 | 0.0745 |  
+| price_1000 | 0.0596 |  
+| price_10000 | 0.0596 |  
 | price_10000_distributor_orbital_fasteners | 0.0596 |  
 | price_1000_distributor_orbital_fasteners | 0.0596 |  
 | price_100_distributor_orbital_fasteners | 0.0745 |  
 | price_1_distributor_orbital_fasteners | 0.1342 |  
-| price_200 | missing_value |  
+| price_200 | 0.0745 |  
 | price_200_distributor_orbital_fasteners | 0.0745 |  
-| price_current | missing_value |  
+| price_current | 0.0745 |  
+| quantity_current | 200 |  
 | short_code | ss570 |  
 | short_code_upper | SS570 |  
 | size | m5 |  

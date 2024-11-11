@@ -252,6 +252,7 @@ grain |
 | description_or_color | 75 |  
 | description_or_color_upper | 75 |  
 | directory | parts/hardware_set_screw_m8_75_mm_length |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -321,17 +322,18 @@ grain |
 | part_number_manufacturer_metalmate | Z0318M540075 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.176 |  
+| price_100 | 0.11 |  
+| price_1000 | 0.088 |  
+| price_10000 | 0.088 |  
 | price_10000_distributor_orbital_fasteners | 0.088 |  
 | price_1000_distributor_orbital_fasteners | 0.088 |  
 | price_100_distributor_orbital_fasteners | 0.11 |  
 | price_1_distributor_orbital_fasteners | 0.176 |  
-| price_200 | missing_value |  
+| price_200 | 0.11 |  
 | price_200_distributor_orbital_fasteners | 0.11 |  
-| price_current | missing_value |  
+| price_current | 0.11 |  
+| quantity_current | 200 |  
 | short_code | ss875 |  
 | short_code_upper | SS875 |  
 | size | m8 |  

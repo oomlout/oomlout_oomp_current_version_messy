@@ -252,6 +252,7 @@ occur |
 | description_or_color |   |  
 | description_or_color_upper |   |  
 | directory | parts/hardware_nut_m8_locking |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -304,16 +305,16 @@ occur |
 | part_number_manufacturer_metalmate | 1657M54 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.032 |  
+| price_100 | 0.032 |  
+| price_1000 | 0.0241 |  
 | price_1000_distributor_orbital_fasteners | 0.0241 |  
 | price_100_distributor_orbital_fasteners | 0.032 |  
 | price_1_distributor_orbital_fasteners | 0.032 |  
-| price_200 | missing_value |  
+| price_200 | 0.0268 |  
 | price_200_distributor_orbital_fasteners | 0.0268 |  
-| price_current | missing_value |  
+| price_current | 0.0268 |  
+| quantity_current | 200 |  
 | short_code | nu8 |  
 | short_code_upper | NU8 |  
 | size | m8 |  

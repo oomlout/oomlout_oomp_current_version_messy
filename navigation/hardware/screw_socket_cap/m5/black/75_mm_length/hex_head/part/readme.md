@@ -300,6 +300,7 @@ green |
 | description_or_color | B75 |  
 | description_or_color_upper | B75 |  
 | directory | parts/hardware_screw_socket_cap_m5_black_75_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -369,17 +370,18 @@ green |
 | part_number_manufacturer_metalmate | 1150M470075 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.1296 |  
+| price_100 | 0.1296 |  
+| price_1000 | 0.0648 |  
+| price_10000 | 0.0576 |  
 | price_10000_distributor_orbital_fasteners | 0.0576 |  
 | price_1000_distributor_orbital_fasteners | 0.0648 |  
 | price_100_distributor_orbital_fasteners | 0.1296 |  
 | price_1_distributor_orbital_fasteners | 0.1296 |  
-| price_200 | missing_value |  
+| price_200 | 0.072 |  
 | price_200_distributor_orbital_fasteners | 0.072 |  
-| price_current | missing_value |  
+| price_current | 0.072 |  
+| quantity_current | 200 |  
 | short_code | sc5b75h |  
 | short_code_upper | SC5B75H |  
 | size | m5 |  

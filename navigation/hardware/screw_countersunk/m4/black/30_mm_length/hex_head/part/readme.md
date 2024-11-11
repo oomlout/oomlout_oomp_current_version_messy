@@ -296,6 +296,7 @@ useful |
 | description_or_color | B30 |  
 | description_or_color_upper | B30 |  
 | directory | parts/hardware_screw_countersunk_m4_black_30_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -364,15 +365,15 @@ useful |
 | part_number_manufacturer_metalmate | 1151M450030 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0337 |  
+| price_100 | 0.0337 |  
+| price_1000 | 0.015 |  
+| price_10000 | 0.015 |  
 | price_10000_distributor_orbital_fasteners | 0.015 |  
 | price_1000_distributor_orbital_fasteners | 0.015 |  
 | price_100_distributor_orbital_fasteners | 0.0337 |  
 | price_1_distributor_orbital_fasteners | 0.0337 |  
-| price_200 | missing_value |  
+| price_200 | 0.0187 |  
 | price_200_distributor_orbital_fasteners | 0.0187 |  
 | price_current | missing_value |  
 | short_code | cs4b30h |  

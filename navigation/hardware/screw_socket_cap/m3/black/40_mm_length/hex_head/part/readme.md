@@ -300,6 +300,7 @@ tomato |
 | description_or_color | B40 |  
 | description_or_color_upper | B40 |  
 | directory | parts/hardware_screw_socket_cap_m3_black_40_mm_length_hex_head |  
+| distributor_current | orbital_fasteners |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -369,17 +370,18 @@ tomato |
 | part_number_manufacturer_metalmate | 1150M390040 |  
 | part_number_name |  |  
 | part_number_upper |  |  
-| price_1 | missing_value |  
-| price_100 | missing_value |  
-| price_1000 | missing_value |  
-| price_10000 | missing_value |  
+| price_1 | 0.0678 |  
+| price_100 | 0.0678 |  
+| price_1000 | 0.0301 |  
+| price_10000 | 0.0301 |  
 | price_10000_distributor_orbital_fasteners | 0.0301 |  
 | price_1000_distributor_orbital_fasteners | 0.0301 |  
 | price_100_distributor_orbital_fasteners | 0.0678 |  
 | price_1_distributor_orbital_fasteners | 0.0678 |  
-| price_200 | missing_value |  
+| price_200 | 0.0377 |  
 | price_200_distributor_orbital_fasteners | 0.0377 |  
-| price_current | missing_value |  
+| price_current | 0.0377 |  
+| quantity_current | 200 |  
 | short_code | sc3b40h |  
 | short_code_upper | SC3B40H |  
 | size | m3 |  
