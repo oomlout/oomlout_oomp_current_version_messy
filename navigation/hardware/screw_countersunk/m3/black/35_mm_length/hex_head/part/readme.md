@@ -362,7 +362,6 @@ slot |
 | part_number_distributor_orbital_fasteners | 1901054 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1151M390035 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.1162 |  

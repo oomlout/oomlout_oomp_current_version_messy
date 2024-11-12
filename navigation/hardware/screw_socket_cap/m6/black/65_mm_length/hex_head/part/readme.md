@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420667470 |  
 | bip_39_word_dash_1 | bid |  
 | bip_39_word_dash_10 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion-tattoo |  
 | bip_39_word_dash_11 | bid-buffalo-expand-rotate-ridge-remain-cactus-crater-cushion-tattoo-conduct |  
@@ -171,6 +172,8 @@ cushion |
 | bip_39_word_underscore_7 | bid_buffalo_expand_rotate_ridge_remain_cactus |  
 | bip_39_word_underscore_8 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater |  
 | bip_39_word_underscore_9 | bid_buffalo_expand_rotate_ridge_remain_cactus_crater_cushion |  
+| box_of_box_size_manufacturer_metalmate | 1200 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ cushion |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -327,6 +331,7 @@ cushion |
 | md5_6_alpha_upper | 63N3R |  
 | md5_6_upper | 9C5DB7 |  
 | name | Hardware Screw Socket Cap M6 Black 65 mm Length Hex Head |  
+| name_manufacturer_metalmate | M6 x 65 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M6 Black 65 mm Length Hex Head |  
 | name_no_color | 65 mm Length Hex Head |  
 | name_no_size | Black 65 mm Length Hex Head |  
@@ -362,7 +367,7 @@ cushion |
 | part_number_distributor_orbital_fasteners | 1891374 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M4900065 |  
+| part_number_manufacturer_metalmate | 1150M490065 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.1313 |  
@@ -442,3 +447,4 @@ cushion |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-65-socket-cap-screw-gr12-9-self-colour-din-91-1150m490065 |  

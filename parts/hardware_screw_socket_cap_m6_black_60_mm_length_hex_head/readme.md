@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420667463 |  
 | bip_39_word_dash_1 | enter |  
 | bip_39_word_dash_10 | enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn |  
 | bip_39_word_dash_11 | enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn-cinnamon |  
@@ -171,6 +172,8 @@ glove |
 | bip_39_word_underscore_7 | enter_case_half_kidney_blanket_liberty_fall |  
 | bip_39_word_underscore_8 | enter_case_half_kidney_blanket_liberty_fall_pill |  
 | bip_39_word_underscore_9 | enter_case_half_kidney_blanket_liberty_fall_pill_glove |  
+| box_of_box_size_manufacturer_metalmate | 1200 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ glove |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -327,6 +331,7 @@ glove |
 | md5_6_alpha_upper | 743LG |  
 | md5_6_upper | B65234 |  
 | name | Hardware Screw Socket Cap M6 Black 60 mm Length Hex Head |  
+| name_manufacturer_metalmate | M6 x 60 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M6 Black 60 mm Length Hex Head |  
 | name_no_color | 60 mm Length Hex Head |  
 | name_no_size | Black 60 mm Length Hex Head |  
@@ -362,7 +367,7 @@ glove |
 | part_number_distributor_orbital_fasteners | 1891370 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M4900060 |  
+| part_number_manufacturer_metalmate | 1150M490060 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.1283 |  
@@ -442,3 +447,4 @@ glove |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-60-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-60-socket-cap-screw-gr12-9-self-colour-din-91-1150m490060 |  

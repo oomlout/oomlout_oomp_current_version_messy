@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420667371 |  
 | bip_39_word_dash_1 | lecture |  
 | bip_39_word_dash_10 | lecture-boring-lamp-rabbit-mirror-phrase-various-tunnel-scene-elephant |  
 | bip_39_word_dash_11 | lecture-boring-lamp-rabbit-mirror-phrase-various-tunnel-scene-elephant-sell |  
@@ -171,6 +172,8 @@ scene |
 | bip_39_word_underscore_7 | lecture_boring_lamp_rabbit_mirror_phrase_various |  
 | bip_39_word_underscore_8 | lecture_boring_lamp_rabbit_mirror_phrase_various_tunnel |  
 | bip_39_word_underscore_9 | lecture_boring_lamp_rabbit_mirror_phrase_various_tunnel_scene |  
+| box_of_box_size_manufacturer_metalmate | 3000 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ scene |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -327,6 +331,7 @@ scene |
 | md5_6_alpha_upper | 2EF9T |  
 | md5_6_upper | 3D86D1 |  
 | name | Hardware Screw Socket Cap M6 Black 16 mm Length Hex Head |  
+| name_manufacturer_metalmate | M6 x 16 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M6 Black 16 mm Length Hex Head |  
 | name_no_color | 16 mm Length Hex Head |  
 | name_no_size | Black 16 mm Length Hex Head |  
@@ -362,7 +367,7 @@ scene |
 | part_number_distributor_orbital_fasteners | 1891290 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M4900016 |  
+| part_number_manufacturer_metalmate | 1150M490016 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.0527 |  
@@ -442,3 +447,4 @@ scene |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-16-socket-cap-screw-gr12-9-self-colour-din-91-1150m490016 |  

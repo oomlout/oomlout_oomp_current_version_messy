@@ -32,6 +32,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
+| barcode_manufacturer_metalmate | 5050420667418 |  
 | bip_39_word_dash_1 | burst |  
 | bip_39_word_dash_10 | burst-blanket-peace-column-badge-bar-refuse-guess-diagram-genius |  
 | bip_39_word_dash_11 | burst-blanket-peace-column-badge-bar-refuse-guess-diagram-genius-mirror |  
@@ -171,6 +172,8 @@ diagram |
 | bip_39_word_underscore_7 | burst_blanket_peace_column_badge_bar_refuse |  
 | bip_39_word_underscore_8 | burst_blanket_peace_column_badge_bar_refuse_guess |  
 | bip_39_word_underscore_9 | burst_blanket_peace_column_badge_bar_refuse_guess_diagram |  
+| box_of_box_size_manufacturer_metalmate | 2400 |  
+| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -231,6 +234,7 @@ diagram |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
+| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -327,6 +331,7 @@ diagram |
 | md5_6_alpha_upper | 9YC60 |  
 | md5_6_upper | FF1B18 |  
 | name | Hardware Screw Socket Cap M6 Black 30 mm Length Hex Head |  
+| name_manufacturer_metalmate | M6 x 30 Socket Cap Screw Gr12.9 Self Colour DIN 912 150 |  
 | name_no_class | Screw Socket Cap M6 Black 30 mm Length Hex Head |  
 | name_no_color | 30 mm Length Hex Head |  
 | name_no_size | Black 30 mm Length Hex Head |  
@@ -362,7 +367,7 @@ diagram |
 | part_number_distributor_orbital_fasteners | 1891320 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M4900030 |  
+| part_number_manufacturer_metalmate | 1150M490030 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.0773 |  
@@ -442,3 +447,4 @@ diagram |
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-30-socket-cap-screw-high-tensile-grade-12-9-self-colour- |  
+| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-30-socket-cap-screw-gr12-9-self-colour-din-91-1150m490030 |  

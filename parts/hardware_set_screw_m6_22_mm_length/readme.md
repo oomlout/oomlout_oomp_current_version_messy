@@ -314,7 +314,6 @@ concert |
 | part_number_distributor_orbital_fasteners | 1851182 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | Z0318M490022 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.0676 |  

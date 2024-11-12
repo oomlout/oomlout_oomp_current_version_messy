@@ -314,7 +314,6 @@ sister |
 | part_number_distributor_orbital_fasteners | 1851178 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | Z0318M490018 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.0551 |  
