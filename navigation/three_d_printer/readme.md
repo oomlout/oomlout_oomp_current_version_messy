@@ -13,6 +13,7 @@
       * [reel](filament/1_75_mm/pla_plus_black/reel)
         * [3dqf](filament/1_75_mm/pla_plus_black/reel/3dqf)
 * [part](part)
+  * [category](part/category)
   * [filament](part/filament)
     * [generic](part/filament/generic)
       * [ptfe_tube](part/filament/generic/ptfe_tube)
