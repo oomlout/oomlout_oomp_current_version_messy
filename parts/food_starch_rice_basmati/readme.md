@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-rice basmati
+rice_basmati
 
 ### id
 * oomp_id: food_starch_rice_basmati
@@ -231,7 +231,7 @@ drink |
 | color_upper_length_4 | BASM |  
 | color_upper_length_5 | BASMA |  
 | color_upper_length_6 | BASMAT |  
-| description | rice basmati |  
+| description | rice_basmati |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

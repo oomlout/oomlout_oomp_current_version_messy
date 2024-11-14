@@ -1,6 +1,7 @@
 * [2000_ml](2000_ml)
   * [milk_semi_skim](2000_ml/milk_semi_skim)
-    * [cravendale_filtered](2000_ml/milk_semi_skim/cravendale_filtered)
+    * [filtered](2000_ml/milk_semi_skim/filtered)
+      * [cravendale](2000_ml/milk_semi_skim/filtered/cravendale)
 * [cheese](cheese)
   * [mature_cheddar](cheese/mature_cheddar)
     * [cathedral_city](cheese/mature_cheddar/cathedral_city)

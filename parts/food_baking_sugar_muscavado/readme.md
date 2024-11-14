@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-sugar muscavado
+sugar_muscavado
 
 ### id
 * oomp_id: food_baking_sugar_muscavado
@@ -231,7 +231,7 @@ depart |
 | color_upper_length_4 | MUSC |  
 | color_upper_length_5 | MUSCA |  
 | color_upper_length_6 | MUSCAV |  
-| description | sugar muscavado |  
+| description | sugar_muscavado |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

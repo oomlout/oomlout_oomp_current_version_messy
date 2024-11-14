@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-flour self raising
+flour_self_raising
 
 ### id
 * oomp_id: food_baking_flour_white
@@ -214,7 +214,7 @@ endorse |
 | color_upper_length_4 | WHIT |  
 | color_upper_length_5 | WHITE |  
 | color_upper_length_6 | WHITE |  
-| description | flour self raising |  
+| description | flour_self_raising |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-pasta fusilli
+pasta_fusilli
 
 ### id
 * oomp_id: food_starch_pasta_fusilli
@@ -231,7 +231,7 @@ fan |
 | color_upper_length_4 | FUSI |  
 | color_upper_length_5 | FUSIL |  
 | color_upper_length_6 | FUSILL |  
-| description | pasta fusilli |  
+| description | pasta_fusilli |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

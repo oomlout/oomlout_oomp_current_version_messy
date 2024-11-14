@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-pasta penne
+pasta_penne
 
 ### id
 * oomp_id: food_starch_pasta_penne
@@ -231,7 +231,7 @@ sign |
 | color_upper_length_4 | PENN |  
 | color_upper_length_5 | PENNE |  
 | color_upper_length_6 | PENNE |  
-| description | pasta penne |  
+| description | pasta_penne |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

@@ -28,3 +28,6 @@
 * [printing](printing)
   * [low_quality](printing/low_quality)
     * [minute](printing/low_quality/minute)
+* [spare_part](spare_part)
+  * [anycubic_vyper](spare_part/anycubic_vyper)
+    * [hotend](spare_part/anycubic_vyper/hotend)

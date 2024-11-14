@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-sugar caster
+sugar_caster
 
 ### id
 * oomp_id: food_baking_sugar_caster
@@ -231,7 +231,7 @@ company |
 | color_upper_length_4 | CAST |  
 | color_upper_length_5 | CASTE |  
 | color_upper_length_6 | CASTER |  
-| description | sugar caster |  
+| description | sugar_caster |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

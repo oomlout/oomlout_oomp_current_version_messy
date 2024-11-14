@@ -278,7 +278,7 @@ color_upper_length_3: CAS
 color_upper_length_4: CAST
 color_upper_length_5: CASTE
 color_upper_length_6: CASTER
-description: sugar caster
+description: sugar_caster
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''

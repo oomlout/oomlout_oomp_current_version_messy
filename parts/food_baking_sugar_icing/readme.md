@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-sugar icing
+sugar_icing
 
 ### id
 * oomp_id: food_baking_sugar_icing
@@ -231,7 +231,7 @@ utility |
 | color_upper_length_4 | ICIN |  
 | color_upper_length_5 | ICING |  
 | color_upper_length_6 | ICING |  
-| description | sugar icing |  
+| description | sugar_icing |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

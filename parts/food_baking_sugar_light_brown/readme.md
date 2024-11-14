@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-sugar light brown
+sugar_light_brown
 
 ### id
 * oomp_id: food_baking_sugar_light_brown
@@ -231,7 +231,7 @@ cruel |
 | color_upper_length_4 | LIGH |  
 | color_upper_length_5 | LIGHT |  
 | color_upper_length_6 | LIGHT_ |  
-| description | sugar light brown |  
+| description | sugar_light_brown |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-pasta spaghetti
+pasta_spaghetti
 
 ### id
 * oomp_id: food_starch_pasta_spaghetti
@@ -231,7 +231,7 @@ choose |
 | color_upper_length_4 | SPAG |  
 | color_upper_length_5 | SPAGH |  
 | color_upper_length_6 | SPAGHE |  
-| description | pasta spaghetti |  
+| description | pasta_spaghetti |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

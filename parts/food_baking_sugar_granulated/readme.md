@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-sugar granulated
+sugar_granulated_golden
 
 ### id
 * oomp_id: food_baking_sugar_granulated
@@ -231,7 +231,7 @@ swing |
 | color_upper_length_4 | GRAN |  
 | color_upper_length_5 | GRANU |  
 | color_upper_length_6 | GRANUL |  
-| description | sugar granulated |  
+| description | sugar_granulated_golden |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
@@ -283,7 +283,7 @@ swing |
 | name_no_size | Granulated |  
 | name_no_size_short | Granulated |  
 | name_no_type | Sugar Granulated |  
-| name_short | Sugar Granulated |  
+| name_short | Sugar Golden Granulated Coffee |  
 | oomp_key | oomp_food_baking_sugar_granulated |  
 | oomp_word | ram poodle birthday |  
 | oomp_word_emoji | :ram: :poodle: :birthday: |  

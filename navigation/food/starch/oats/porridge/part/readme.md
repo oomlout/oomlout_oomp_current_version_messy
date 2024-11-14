@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-oats porridge
+oats_porridge
 
 ### id
 * oomp_id: food_starch_oats_porridge
@@ -231,7 +231,7 @@ tortoise |
 | color_upper_length_4 | PORR |  
 | color_upper_length_5 | PORRI |  
 | color_upper_length_6 | PORRID |  
-| description | oats porridge |  
+| description | oats_porridge |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  

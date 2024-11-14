@@ -1,2 +1,3 @@
 * [milk_semi_skim](milk_semi_skim)
-  * [cravendale_filtered](milk_semi_skim/cravendale_filtered)
+  * [filtered](milk_semi_skim/filtered)
+    * [cravendale](milk_semi_skim/filtered/cravendale)

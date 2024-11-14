@@ -6,7 +6,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
-rice dong bei
+rice_dong_bei
 
 ### id
 * oomp_id: food_starch_rice_dong_bei
@@ -231,7 +231,7 @@ uphold |
 | color_upper_length_4 | DONG |  
 | color_upper_length_5 | DONG_ |  
 | color_upper_length_6 | DONG_B |  
-| description | rice dong bei |  
+| description | rice_dong_bei |  
 | description_extra |  |  
 | description_extra_capital |  |  
 | description_extra_first_letter |  |  
