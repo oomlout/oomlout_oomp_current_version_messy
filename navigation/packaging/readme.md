@@ -23,6 +23,7 @@
   * [200_mm_width_344_mm_length_3_5_mm_depth](cardboard_roll/200_mm_width_344_mm_length_3_5_mm_depth)
     * [kraft](cardboard_roll/200_mm_width_344_mm_length_3_5_mm_depth/kraft)
       * [oomlout](cardboard_roll/200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout)
+        * [bolt_tin_outer_wrap_1](cardboard_roll/200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout/bolt_tin_outer_wrap_1)
         * [bolt_tin_pad_1](cardboard_roll/200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout/bolt_tin_pad_1)
   * [300_mm_width_75000_mm_length_3_5_mm_depth](cardboard_roll/300_mm_width_75000_mm_length_3_5_mm_depth)
     * [kraft](cardboard_roll/300_mm_width_75000_mm_length_3_5_mm_depth/kraft)

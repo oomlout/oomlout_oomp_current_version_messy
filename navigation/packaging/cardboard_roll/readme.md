@@ -1,6 +1,7 @@
 * [200_mm_width_344_mm_length_3_5_mm_depth](200_mm_width_344_mm_length_3_5_mm_depth)
   * [kraft](200_mm_width_344_mm_length_3_5_mm_depth/kraft)
     * [oomlout](200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout)
+      * [bolt_tin_outer_wrap_1](200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout/bolt_tin_outer_wrap_1)
       * [bolt_tin_pad_1](200_mm_width_344_mm_length_3_5_mm_depth/kraft/oomlout/bolt_tin_pad_1)
 * [300_mm_width_75000_mm_length_3_5_mm_depth](300_mm_width_75000_mm_length_3_5_mm_depth)
   * [kraft](300_mm_width_75000_mm_length_3_5_mm_depth/kraft)
