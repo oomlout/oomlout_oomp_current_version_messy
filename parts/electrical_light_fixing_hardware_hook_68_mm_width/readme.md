@@ -29,6 +29,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 69epm
 * md5_6: a078ba
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2069epm)
+[2x1](http://192.168.1.242:1112/?label=oomp%2069epm)
+[6x4](http://192.168.1.55:1112/?label=oomp%2069epm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)                             
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+|  | 1.1650000000000003 |  |  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -233,7 +272,14 @@ length |
 | id_no_color | 68mmwidth |  
 | id_no_size | 68_mm_width |  
 | id_no_type | 68_mm_width |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2069epm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2069epm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2069epm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -258,6 +304,7 @@ length |
 | name_no_size | 68 mm Width |  
 | name_no_size_short | 68 Mm Width |  
 | name_no_type | 68 mm Width |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electrical_light_fixing_hardware_hook_68_mm_width |  
 | oomp_word | ring bell spaghetti |  
 | oomp_word_emoji | :ring: :bell: :spaghetti: |  

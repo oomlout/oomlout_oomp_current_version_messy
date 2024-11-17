@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 8fw30
 * md5_6: d8582c
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208fw30)
+[2x1](http://192.168.1.242:1112/?label=oomp%208fw30)
+[6x4](http://192.168.1.55:1112/?label=oomp%208fw30)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -280,7 +303,14 @@ six |
 | id_no_size | 24_pin_through_hole |  
 | id_no_type | 2_54_mm_24_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_24_pin_through_hole |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208fw30 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208fw30 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208fw30 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +335,7 @@ six |
 | name_no_size | 24 Pin Through Hole |  
 | name_no_size_short | 24 Pin Through Hole |  
 | name_no_type | 2 54 mm 24 Pin Through Hole |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_socket_2_54_mm_24_pin_through_hole |  
 | oomp_word | hospital water_buffalo snowflake |  
 | oomp_word_emoji | :hospital: :water_buffalo: :snowflake: |  

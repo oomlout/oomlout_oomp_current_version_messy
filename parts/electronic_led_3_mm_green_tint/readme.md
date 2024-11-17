@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 2l4ou
 * md5_6: 424cfe
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202l4ou)
+[2x1](http://192.168.1.242:1112/?label=oomp%202l4ou)
+[6x4](http://192.168.1.55:1112/?label=oomp%202l4ou)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_tint) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green_tint)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,7 +305,14 @@ grocery |
 | id_no_size | green_tint |  
 | id_no_type | 3_mm_green_tint |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_tint |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_green_tint |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_green_tint |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202l4ou |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202l4ou |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202l4ou |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -307,6 +337,7 @@ grocery |
 | name_no_size | Green Tint |  
 | name_no_size_short | Green Tint |  
 | name_no_type | 3 mm Green Tint |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_3_mm_green_tint |  
 | oomp_word | sheep turtle recycle |  
 | oomp_word_emoji | :sheep: :turtle: :recycle: |  

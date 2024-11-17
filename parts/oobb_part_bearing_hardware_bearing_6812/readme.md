@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 320wq
 * md5_6: 4e541a
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20320wq)
+[2x1](http://192.168.1.242:1112/?label=oomp%20320wq)
+[6x4](http://192.168.1.55:1112/?label=oomp%20320wq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ leisure |
 | id_no_color | hardware6812 |  
 | id_no_size | hardware_6812 |  
 | id_no_type | bearing_hardware_bearing_6812 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6812 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6812 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20320wq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20320wq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20320wq |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ leisure |
 | name_no_size | Hardware 6812 |  
 | name_no_size_short | Hardware 6k8 |  
 | name_no_type | Bearing Hardware Bearing 6812 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_hardware_bearing_6812 |  
 | oomp_word | honeybee whale clap |  
 | oomp_word_emoji | :honeybee: :whale: :clap: |  

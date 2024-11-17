@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4cobg
 * md5_6: 6f8a1c
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204cobg)
+[2x1](http://192.168.1.242:1112/?label=oomp%204cobg)
+[6x4](http://192.168.1.55:1112/?label=oomp%204cobg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_150000_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_150000_ohm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ mesh |
 | id_no_size | 150000_ohm |  
 | id_no_type | 0805_150000_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_150000_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_150000_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_150000_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204cobg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204cobg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204cobg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ mesh |
 | name_no_size | 150000 Ohm |  
 | name_no_size_short | 150k Ohm |  
 | name_no_type | 0805 150000 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_150000_ohm |  
 | oomp_word | moon envelope dancer |  
 | oomp_word_emoji | :moon: :envelope: :dancer: |  

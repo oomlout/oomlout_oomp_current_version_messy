@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3pzxh
 * md5_6: 5f6525
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203pzxh)
+[2x1](http://192.168.1.242:1112/?label=oomp%203pzxh)
+[6x4](http://192.168.1.55:1112/?label=oomp%203pzxh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ nominee |
 | id_no_size | green |  
 | id_no_type | 10_mm_green |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_green |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_green |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203pzxh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203pzxh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203pzxh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ nominee |
 | name_no_size | Green |  
 | name_no_size_short | Green |  
 | name_no_type | 10 mm Green |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_10_mm_green |  
 | oomp_word | leopard maple_leaf ear |  
 | oomp_word_emoji | :leopard: :maple_leaf: :ear: |  

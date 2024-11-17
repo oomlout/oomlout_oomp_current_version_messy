@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9vj7f
 * md5_6: fd1bfb
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209vj7f)
+[2x1](http://192.168.1.242:1112/?label=oomp%209vj7f)
+[6x4](http://192.168.1.55:1112/?label=oomp%209vj7f)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ cloth |
 | id_no_size | package_marking_b2_mbr0520 |  
 | id_no_type | sod_123_package_marking_b2_mbr0520 |  
 | kicad_reference | D |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209vj7f |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209vj7f |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209vj7f |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ cloth |
 | name_no_size | Package Marking B2 Mbr0520 |  
 | name_no_size_short | Package Marking B2 Mbr0520 |  
 | name_no_type | Sod 123 Package Marking B2 Mbr0520 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520 |  
 | oomp_word | parking muscle ok |  
 | oomp_word_emoji | :parking: :muscle: :ok: |  

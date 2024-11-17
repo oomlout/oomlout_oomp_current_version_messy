@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4htph
 * md5_6: 7334a5
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204htph)
+[2x1](http://192.168.1.242:1112/?label=oomp%204htph)
+[6x4](http://192.168.1.55:1112/?label=oomp%204htph)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -233,7 +256,14 @@ empty |
 | id_no_color | microsofthd3000model1492 |  
 | id_no_size | microsoft_hd_3000_model_1492 |  
 | id_no_type | external_microsoft_hd_3000_model_1492 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204htph |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204htph |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204htph |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -282,6 +312,7 @@ empty |
 | name_no_size | Microsoft Hd 3000 Model 1492 |  
 | name_no_size_short | Microsoft Hd 3000 Model 1492 |  
 | name_no_type | External Microsoft Hd 3000 Model 1492 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | oomp_word | flags mouse headphones |  
 | oomp_word_emoji | :flags: :mouse: :headphones: |  

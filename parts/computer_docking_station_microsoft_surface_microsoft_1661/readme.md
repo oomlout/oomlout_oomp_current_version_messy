@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1ijrc
 * md5_6: 26d588
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201ijrc)
+[2x1](http://192.168.1.242:1112/?label=oomp%201ijrc)
+[6x4](http://192.168.1.55:1112/?label=oomp%201ijrc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -233,7 +256,14 @@ penalty |
 | id_no_color | microsoft1661 |  
 | id_no_size | microsoft_1661 |  
 | id_no_type | microsoft_surface_microsoft_1661 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201ijrc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201ijrc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201ijrc |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -282,6 +312,7 @@ penalty |
 | name_no_size | Microsoft 1661 |  
 | name_no_size_short | Microsoft 1661 |  
 | name_no_type | Microsoft Surface Microsoft 1661 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_docking_station_microsoft_surface_microsoft_1661 |  
 | oomp_word | eyes house wrench |  
 | oomp_word_emoji | :eyes: :house: :wrench: |  

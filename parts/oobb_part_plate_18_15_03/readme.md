@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 47v8u
 * md5_6: 6c1dee
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2047v8u)
+[2x1](http://192.168.1.242:1112/?label=oomp%2047v8u)
+[6x4](http://192.168.1.55:1112/?label=oomp%2047v8u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_18_15_03) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_15_03)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ degree |
 | id_no_color | 181503 |  
 | id_no_size | 18_15_03 |  
 | id_no_type | plate_18_15_03 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_18_15_03 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_15_03 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_18_15_03 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2047v8u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2047v8u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2047v8u |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ degree |
 | name_no_size | 18 15 03 |  
 | name_no_size_short | 18 15 03 |  
 | name_no_type | Plate 18 15 03 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_18_15_03 |  
 | oomp_word | blossom baby ambulance |  
 | oomp_word_emoji | :blossom: :baby: :ambulance: |  

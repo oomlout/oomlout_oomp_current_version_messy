@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 21czb
 * md5_6: 3439f7
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2021czb)
+[2x1](http://192.168.1.242:1112/?label=oomp%2021czb)
+[6x4](http://192.168.1.55:1112/?label=oomp%2021czb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__m) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__m)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ puppy |
 | id_no_color | 1301m |  
 | id_no_size | 13_01__m |  
 | id_no_type | bunting_alphabet_13_01__m |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__m |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__m |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__m |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2021czb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2021czb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2021czb |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ puppy |
 | name_no_size | 13 01  M |  
 | name_no_size_short | 13 01  M |  
 | name_no_type | Bunting Alphabet 13 01  M |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__m |  
 | oomp_word | mouse tiger six |  
 | oomp_word_emoji | :mouse: :tiger: :six: |  

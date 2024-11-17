@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9jmbo
 * md5_6: f4a0c4
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209jmbo)
+[2x1](http://192.168.1.242:1112/?label=oomp%209jmbo)
+[6x4](http://192.168.1.55:1112/?label=oomp%209jmbo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -257,7 +280,14 @@ sunset |
 | id_no_color | standalonemicrosoftmodel1625 |  
 | id_no_size | standalone_microsoft_model_1625 |  
 | id_no_type | microsoft_surface_standalone_microsoft_model_1625 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209jmbo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209jmbo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209jmbo |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -306,6 +336,7 @@ sunset |
 | name_no_size | Standalone Microsoft Model 1625 |  
 | name_no_size_short | Standalone Microsoft Model 1625 |  
 | name_no_type | Microsoft Surface Standalone Microsoft Model 1625 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
 | oomp_word | three ring cookie |  
 | oomp_word_emoji | :three: :ring: :cookie: |  

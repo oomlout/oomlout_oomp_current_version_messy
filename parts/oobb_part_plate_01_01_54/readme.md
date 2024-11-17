@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9om1n
 * md5_6: f82e9b
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209om1n)
+[2x1](http://192.168.1.242:1112/?label=oomp%209om1n)
+[6x4](http://192.168.1.55:1112/?label=oomp%209om1n)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_54) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_54)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ alley |
 | id_no_color | 010154 |  
 | id_no_size | 01_01_54 |  
 | id_no_type | plate_01_01_54 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_54 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_54 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_54 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209om1n |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209om1n |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209om1n |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ alley |
 | name_no_size | 01 01 54 |  
 | name_no_size_short | 01 01 54 |  
 | name_no_type | Plate 01 01 54 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_01_01_54 |  
 | oomp_word | seven zap ski |  
 | oomp_word_emoji | :seven: :zap: :ski: |  

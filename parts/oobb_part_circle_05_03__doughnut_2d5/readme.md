@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 502uq
 * md5_6: 803372
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20502uq)
+[2x1](http://192.168.1.242:1112/?label=oomp%20502uq)
+[6x4](http://192.168.1.55:1112/?label=oomp%20502uq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_05_03__doughnut_2d5) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_05_03__doughnut_2d5)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ uphold |
 | id_no_color | 0503doughnut2d5 |  
 | id_no_size | 05_03__doughnut_2d5 |  
 | id_no_type | circle_05_03__doughnut_2d5 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_05_03__doughnut_2d5 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_05_03__doughnut_2d5 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_05_03__doughnut_2d5 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20502uq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20502uq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20502uq |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ uphold |
 | name_no_size | 05 03  Doughnut 2D5 |  
 | name_no_size_short | 05 03  Doughnut 2D5 |  
 | name_no_type | Circle 05 03  Doughnut 2D5 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_circle_05_03__doughnut_2d5 |  
 | oomp_word | hourglass dog dolls |  
 | oomp_word_emoji | :hourglass: :dog: :dolls: |  

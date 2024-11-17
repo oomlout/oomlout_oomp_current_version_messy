@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3ufzo
 * md5_6: 628f74
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203ufzo)
+[2x1](http://192.168.1.242:1112/?label=oomp%203ufzo)
+[6x4](http://192.168.1.55:1112/?label=oomp%203ufzo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ decade |
 | id_no_size | 16_pin_through_hole |  
 | id_no_type | 2_54_mm_16_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_16_pin_through_hole |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203ufzo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203ufzo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203ufzo |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ decade |
 | name_no_size | 16 Pin Through Hole |  
 | name_no_size_short | 16 Pin Through Hole |  
 | name_no_type | 2 54 mm 16 Pin Through Hole |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_16_pin_through_hole |  
 | oomp_word | tulip calendar fireworks |  
 | oomp_word_emoji | :tulip: :calendar: :fireworks: |  

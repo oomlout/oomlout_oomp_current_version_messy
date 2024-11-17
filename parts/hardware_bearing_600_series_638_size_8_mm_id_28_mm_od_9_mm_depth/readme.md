@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5g4tm
 * md5_6: 8ba16a
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205g4tm)
+[2x1](http://192.168.1.242:1112/?label=oomp%205g4tm)
+[6x4](http://192.168.1.55:1112/?label=oomp%205g4tm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ awake |
 | id_no_color | 8_mm_id_28_mm_od_9_mm_depth |  
 | id_no_size | 638_size_8_mm_id_28_mm_od_9_mm_depth |  
 | id_no_type | 600_series_638_size_8_mm_id_28_mm_od_9_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205g4tm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205g4tm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205g4tm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ awake |
 | name_no_size | 638 Size 8 mm ID 28 mm OD 9 mm Depth |  
 | name_no_size_short | 638 Size 8 Mm Id 28 Mm Od 9 Mm Depth |  
 | name_no_type | 600 Series 638 Size 8 mm ID 28 mm OD 9 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br638 |  
 | oomlout_short_code_upper | BR638 |  
 | oomp_key | oomp_hardware_bearing_600_series_638_size_8_mm_id_28_mm_od_9_mm_depth |  

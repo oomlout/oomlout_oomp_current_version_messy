@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 66t02
 * md5_6: 9e9e52
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2066t02)
+[2x1](http://192.168.1.242:1112/?label=oomp%2066t02)
+[6x4](http://192.168.1.55:1112/?label=oomp%2066t02)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_19_01_06) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_06)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ pride |
 | id_no_color | 190106 |  
 | id_no_size | 19_01_06 |  
 | id_no_type | plate_19_01_06 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_19_01_06 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_06 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_19_01_06 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2066t02 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2066t02 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2066t02 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ pride |
 | name_no_size | 19 01 06 |  
 | name_no_size_short | 19 01 06 |  
 | name_no_type | Plate 19 01 06 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_19_01_06 |  
 | oomp_word | clubs clubs octopus |  
 | oomp_word_emoji | :clubs: :clubs: :octopus: |  

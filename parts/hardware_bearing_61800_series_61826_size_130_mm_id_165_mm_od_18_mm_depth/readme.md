@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 96hp7
 * md5_6: eb481b
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2096hp7)
+[2x1](http://192.168.1.242:1112/?label=oomp%2096hp7)
+[6x4](http://192.168.1.55:1112/?label=oomp%2096hp7)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ ignore |
 | id_no_color | 130_mm_id_165_mm_od_18_mm_depth |  
 | id_no_size | 61826_size_130_mm_id_165_mm_od_18_mm_depth |  
 | id_no_type | 61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2096hp7 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2096hp7 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2096hp7 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ ignore |
 | name_no_size | 61826 Size 130 mm ID 165 mm OD 18 mm Depth |  
 | name_no_size_short | 61826 Size 130 Mm Id 165 Mm Od 18 Mm Depth |  
 | name_no_type | 61800 Series 61826 Size 130 mm ID 165 mm OD 18 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61826 |  
 | oomlout_short_code_upper | BR61826 |  
 | oomp_key | oomp_hardware_bearing_61800_series_61826_size_130_mm_id_165_mm_od_18_mm_depth |  

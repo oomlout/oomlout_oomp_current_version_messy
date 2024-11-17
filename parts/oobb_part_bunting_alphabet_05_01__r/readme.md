@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4wx2d
 * md5_6: 7df365
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204wx2d)
+[2x1](http://192.168.1.242:1112/?label=oomp%204wx2d)
+[6x4](http://192.168.1.55:1112/?label=oomp%204wx2d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__r) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__r)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ common |
 | id_no_color | 0501r |  
 | id_no_size | 05_01__r |  
 | id_no_type | bunting_alphabet_05_01__r |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__r |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__r |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__r |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204wx2d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204wx2d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204wx2d |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ common |
 | name_no_size | 05 01  R |  
 | name_no_size_short | 05 01  R |  
 | name_no_type | Bunting Alphabet 05 01  R |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_05_01__r |  
 | oomp_word | phone two maple_leaf |  
 | oomp_word_emoji | :phone: :two: :maple_leaf: |  

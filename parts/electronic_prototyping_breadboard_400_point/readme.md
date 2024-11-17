@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 147ze
 * md5_6: 1ca26a
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20147ze)
+[2x1](http://192.168.1.242:1112/?label=oomp%20147ze)
+[6x4](http://192.168.1.55:1112/?label=oomp%20147ze)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_400_point)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -234,7 +257,14 @@ spring |
 | id_no_size | 400_point |  
 | id_no_type | 400_point |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_400_point |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_400_point |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20147ze |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20147ze |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20147ze |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -259,6 +289,7 @@ spring |
 | name_no_size | 400 Point |  
 | name_no_size_short | 400 Point |  
 | name_no_type | 400 Point |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_prototyping_breadboard_400_point |  
 | oomp_word | dancer violin palm_tree |  
 | oomp_word_emoji | :dancer: :violin: :palm_tree: |  

@@ -29,6 +29,29 @@ M&S Carrots
 * md5_6_alpha: 8d6rh
 * md5_6: d66b7d
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208d6rh)
+[2x1](http://192.168.1.242:1112/?label=oomp%208d6rh)
+[6x4](http://192.168.1.55:1112/?label=oomp%208d6rh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,8 +305,15 @@ army |
 | id_no_color | sweetcorntin198gram |  
 | id_no_size | sweetcorntin198gram |  
 | id_no_type | sweetcorn_tin_198_gram |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=518655011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_sweetcorn_tin_198_gram |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208d6rh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208d6rh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208d6rh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -309,6 +339,7 @@ army |
 | name_no_size_short | Sweetcorntin198Gram |  
 | name_no_type | Sweetcorn Tin 198 Gram |  
 | name_short | Sweetcorn |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_sweetcorn_tin_198_gram |  
 | oomp_word | school chestnut phone |  
 | oomp_word_emoji | :school: :chestnut: :phone: |  

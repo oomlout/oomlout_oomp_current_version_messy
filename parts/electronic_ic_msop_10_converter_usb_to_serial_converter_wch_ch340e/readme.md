@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4g7ll
 * md5_6: 720e79
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204g7ll)
+[2x1](http://192.168.1.242:1112/?label=oomp%204g7ll)
+[6x4](http://192.168.1.55:1112/?label=oomp%204g7ll)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ expect |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340e |  
 | id_no_type | msop_10_converter_usb_to_serial_converter_wch_ch340e |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204g7ll |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204g7ll |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204g7ll |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -331,6 +361,7 @@ expect |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340E |  
 | name_no_type | Msop 10 Converter USB To Serial Converter Wch Ch340E |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_msop_10_converter_usb_to_serial_converter_wch_ch340e |  
 | oomp_word | dolls cupid balloon |  
 | oomp_word_emoji | :dolls: :cupid: :balloon: |  

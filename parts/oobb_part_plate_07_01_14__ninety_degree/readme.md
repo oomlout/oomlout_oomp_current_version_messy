@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 73gby
 * md5_6: b5dc6e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2073gby)
+[2x1](http://192.168.1.242:1112/?label=oomp%2073gby)
+[6x4](http://192.168.1.55:1112/?label=oomp%2073gby)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_14__ninety_degree) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_14__ninety_degree)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ wood |
 | id_no_color | 070114ninetydegree |  
 | id_no_size | 07_01_14__ninety_degree |  
 | id_no_type | plate_07_01_14__ninety_degree |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_14__ninety_degree |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_14__ninety_degree |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_14__ninety_degree |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2073gby |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2073gby |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2073gby |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ wood |
 | name_no_size | 07 01 14  Ninety Degree |  
 | name_no_size_short | 07 01 14  Ninety Degree |  
 | name_no_type | Plate 07 01 14  Ninety Degree |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_07_01_14__ninety_degree |  
 | oomp_word | tea factory new_moon |  
 | oomp_word_emoji | :tea: :factory: :new_moon: |  

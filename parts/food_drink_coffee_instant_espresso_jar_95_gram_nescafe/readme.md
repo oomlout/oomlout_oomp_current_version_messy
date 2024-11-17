@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6l1ag
 * md5_6: a8bfc8
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206l1ag)
+[2x1](http://192.168.1.242:1112/?label=oomp%206l1ag)
+[6x4](http://192.168.1.55:1112/?label=oomp%206l1ag)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ staff |
 | id_no_color | espresso_jar_95_gram_nescafe |  
 | id_no_size | instant_espresso_jar_95_gram_nescafe |  
 | id_no_type | coffee_instant_espresso_jar_95_gram_nescafe |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206l1ag |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206l1ag |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206l1ag |  
 | manufacturer | nescafe |  
 | manufacturer_capital | Nescafe |  
 | manufacturer_first_letter | n |  
@@ -355,6 +385,7 @@ staff |
 | name_no_size_short | Instant Espresso Jar 95 Gram Nescafe |  
 | name_no_type | Coffee Instant Espresso Jar 95 Gram Nescafe |  
 | name_short | Instant Coffee Espresso |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_drink_coffee_instant_espresso_jar_95_gram_nescafe |  
 | oomp_word | shoe egg apple |  
 | oomp_word_emoji | :shoe: :egg: :apple: |  

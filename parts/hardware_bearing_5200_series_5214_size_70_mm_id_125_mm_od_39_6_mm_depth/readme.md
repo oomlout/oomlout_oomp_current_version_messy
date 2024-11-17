@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 87ikw
 * md5_6: d261d0
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2087ikw)
+[2x1](http://192.168.1.242:1112/?label=oomp%2087ikw)
+[6x4](http://192.168.1.55:1112/?label=oomp%2087ikw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ vendor |
 | id_no_color | 70_mm_id_125_mm_od_39_6_mm_depth |  
 | id_no_size | 5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  
 | id_no_type | 5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2087ikw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2087ikw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2087ikw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ vendor |
 | name_no_size | 5214 Size 70 mm ID 125 mm OD 39 6 mm Depth |  
 | name_no_size_short | 5214 Size 70 Mm Id 125 Mm Od 39 6 Mm Depth |  
 | name_no_type | 5200 Series 5214 Size 70 mm ID 125 mm OD 39 6 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5214 |  
 | oomlout_short_code_upper | BR5214 |  
 | oomp_key | oomp_hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth |  

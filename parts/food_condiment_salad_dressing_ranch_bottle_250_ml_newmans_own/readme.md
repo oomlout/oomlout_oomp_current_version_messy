@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 985di
 * md5_6: ec7636
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20985di)
+[2x1](http://192.168.1.242:1112/?label=oomp%20985di)
+[6x4](http://192.168.1.55:1112/?label=oomp%20985di)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ try |
 | id_no_color | saladdressingranchbottle250mlnewmansown |  
 | id_no_size | saladdressingranchbottle250mlnewmansown |  
 | id_no_type | salad_dressing_ranch_bottle_250_ml_newmans_own |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20985di |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20985di |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20985di |  
 | manufacturer | newmans_own |  
 | manufacturer_capital | Newmans Own |  
 | manufacturer_first_letter | n |  
@@ -355,6 +385,7 @@ try |
 | name_no_size_short | Saladdressingranchbottle250Mlnewmansown |  
 | name_no_type | Salad Dressing Ranch Bottle 250 Ml Newmans Own |  
 | name_short | Ranch Salad Dressing |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own |  
 | oomp_word | taxi santa rabbit |  
 | oomp_word_emoji | :taxi: :santa: :rabbit: |  

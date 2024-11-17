@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 78bn8
 * md5_6: b953f4
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2078bn8)
+[2x1](http://192.168.1.242:1112/?label=oomp%2078bn8)
+[6x4](http://192.168.1.55:1112/?label=oomp%2078bn8)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ drastic |
 | id_no_color | ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
 | id_no_size | ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
 | id_no_type | ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2078bn8 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2078bn8 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2078bn8 |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -354,6 +384,7 @@ drastic |
 | name_no_size | Ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
 | name_no_size_short | Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942 |  
 | name_no_type | Ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42 |  
 | oomp_word | fries fish three |  
 | oomp_word_emoji | :fries: :fish: :three: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9wgq0
 * md5_6: fdc5a8
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209wgq0)
+[2x1](http://192.168.1.242:1112/?label=oomp%209wgq0)
+[6x4](http://192.168.1.55:1112/?label=oomp%209wgq0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ glory |
 | id_no_size | 8200_ohm |  
 | id_no_type | quarter_watt_through_hole_8200_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_8200_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209wgq0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209wgq0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209wgq0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ glory |
 | name_no_size | 8200 Ohm |  
 | name_no_size_short | 8k2 Ohm |  
 | name_no_type | Quarter Watt Through Hole 8200 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_quarter_watt_through_hole_8200_ohm |  
 | oomp_word | parking candy shoe |  
 | oomp_word_emoji | :parking: :candy: :shoe: |  

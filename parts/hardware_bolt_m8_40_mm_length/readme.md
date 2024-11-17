@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 99b2p
 * md5_6: ed4951
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2099b2p)
+[2x1](http://192.168.1.242:1112/?label=oomp%2099b2p)
+[6x4](http://192.168.1.55:1112/?label=oomp%2099b2p)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_40_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_40_mm_length)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ fashion |
 | id_no_size | 40_mm_length |  
 | id_no_type | m8_40_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_40_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_40_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m8_40_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2099b2p |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2099b2p |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2099b2p |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -300,6 +330,7 @@ fashion |
 | oomlout_bolt_size | M8 |  
 | oomlout_bolt_type | Bolt |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | b8m40 |  
 | oomlout_short_code_upper | B8M40 |  
 | oomp_key | oomp_hardware_bolt_m8_40_mm_length |  

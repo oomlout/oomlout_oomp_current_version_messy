@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3n4d7
 * md5_6: 5d58db
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203n4d7)
+[2x1](http://192.168.1.242:1112/?label=oomp%203n4d7)
+[6x4](http://192.168.1.55:1112/?label=oomp%203n4d7)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ bleak |
 | id_no_size | 19_pin_surface_mount |  
 | id_no_type | 2_54_mm_19_pin_surface_mount |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_19_pin_surface_mount |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203n4d7 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203n4d7 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203n4d7 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ bleak |
 | name_no_size | 19 Pin Surface Mount |  
 | name_no_size_short | 19 Pin Surface Mount |  
 | name_no_type | 2 54 mm 19 Pin Surface Mount |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_19_pin_surface_mount |  
 | oomp_word | blowfish water_buffalo tent |  
 | oomp_word_emoji | :blowfish: :water_buffalo: :tent: |  

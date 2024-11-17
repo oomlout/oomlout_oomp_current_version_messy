@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: sar2
 * md5_6: 14256e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20sar2)
+[2x1](http://192.168.1.242:1112/?label=oomp%20sar2)
+[6x4](http://192.168.1.55:1112/?label=oomp%20sar2)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -283,7 +306,14 @@ attract |
 | id_no_color | 400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
 | id_no_size | white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
 | id_no_type | ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20sar2 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20sar2 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20sar2 |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -332,6 +362,7 @@ attract |
 | name_no_size | White 400 mm Width 2020 mm Height 280 mm Depth Ikea 502 638 38 |  
 | name_no_size_short | White 400 Mm Width 2020 Mm Height 280 Mm Depth Ikea 502 638 38 |  
 | name_no_type | Ikea Billy White 400 mm Width 2020 mm Height 280 mm Depth Ikea 502 638 38 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_billy_white_400_mm_width_2020_mm_height_280_mm_depth_ikea_502_638_38 |  
 | oomp_word | fire ear new_moon |  
 | oomp_word_emoji | :fire: :ear: :new_moon: |  

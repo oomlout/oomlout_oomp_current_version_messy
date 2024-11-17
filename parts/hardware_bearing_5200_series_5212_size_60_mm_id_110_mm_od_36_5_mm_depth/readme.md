@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: g1de
 * md5_6: 0b6af2
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20g1de)
+[2x1](http://192.168.1.242:1112/?label=oomp%20g1de)
+[6x4](http://192.168.1.55:1112/?label=oomp%20g1de)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ measure |
 | id_no_color | 60_mm_id_110_mm_od_36_5_mm_depth |  
 | id_no_size | 5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  
 | id_no_type | 5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20g1de |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20g1de |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20g1de |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ measure |
 | name_no_size | 5212 Size 60 mm ID 110 mm OD 36 5 mm Depth |  
 | name_no_size_short | 5212 Size 60 Mm Id 110 Mm Od 36 5 Mm Depth |  
 | name_no_type | 5200 Series 5212 Size 60 mm ID 110 mm OD 36 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5212 |  
 | oomlout_short_code_upper | BR5212 |  
 | oomp_key | oomp_hardware_bearing_5200_series_5212_size_60_mm_id_110_mm_od_36_5_mm_depth |  

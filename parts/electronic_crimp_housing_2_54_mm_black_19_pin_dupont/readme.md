@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1texs
 * md5_6: 2e91e0
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201texs)
+[2x1](http://192.168.1.242:1112/?label=oomp%201texs)
+[6x4](http://192.168.1.55:1112/?label=oomp%201texs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -304,7 +327,14 @@ grid |
 | id_no_size | black_19_pin_dupont |  
 | id_no_type | 2_54_mm_black_19_pin_dupont |  
 | kicad_reference | CRHO |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_19_pin_dupont |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201texs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201texs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201texs |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +359,7 @@ grid |
 | name_no_size | Black 19 Pin Dupont |  
 | name_no_size_short | Black 19 Pin Dupont |  
 | name_no_type | 2 54 mm Black 19 Pin Dupont |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_housing_2_54_mm_black_19_pin_dupont |  
 | oomp_word | zap pushpin ship |  
 | oomp_word_emoji | :zap: :pushpin: :ship: |  

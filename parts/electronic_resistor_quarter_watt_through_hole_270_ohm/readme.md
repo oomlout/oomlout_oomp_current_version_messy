@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: tikl
 * md5_6: 150345
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20tikl)
+[2x1](http://192.168.1.242:1112/?label=oomp%20tikl)
+[6x4](http://192.168.1.55:1112/?label=oomp%20tikl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ ski |
 | id_no_size | 270_ohm |  
 | id_no_type | quarter_watt_through_hole_270_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_270_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20tikl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20tikl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20tikl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ ski |
 | name_no_size | 270 Ohm |  
 | name_no_size_short | 270 Ohm |  
 | name_no_type | Quarter Watt Through Hole 270 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_quarter_watt_through_hole_270_ohm |  
 | oomp_word | poop grin snake |  
 | oomp_word_emoji | :poop: :grin: :snake: |  

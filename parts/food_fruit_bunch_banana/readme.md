@@ -29,6 +29,29 @@ Ocado Bananas
 * md5_6_alpha: 70vs
 * md5_6: 050038
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2070vs)
+[2x1](http://192.168.1.242:1112/?label=oomp%2070vs)
+[6x4](http://192.168.1.55:1112/?label=oomp%2070vs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_fruit_bunch_banana)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,8 +281,15 @@ setup |
 | id_no_color | banana |  
 | id_no_size | banana |  
 | id_no_type | bunch_banana |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_fruit_bunch_banana |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=44855011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_bunch_banana |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2070vs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2070vs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2070vs |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ setup |
 | name_no_size | Banana |  
 | name_no_size_short | Banana |  
 | name_no_type | Bunch Banana |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_fruit_bunch_banana |  
 | oomp_word | kissing bowtie frog |  
 | oomp_word_emoji | :kissing: :bowtie: :frog: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3rnny
 * md5_6: 60938e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203rnny)
+[2x1](http://192.168.1.242:1112/?label=oomp%203rnny)
+[6x4](http://192.168.1.55:1112/?label=oomp%203rnny)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,7 +305,14 @@ adapt |
 | id_no_size | nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | id_no_type | m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203rnny |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203rnny |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203rnny |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -307,6 +337,7 @@ adapt |
 | name_no_size | Nylon White 12 mm Outer Diameter 1 5 mm Depth |  
 | name_no_size_short | Nylon White 12 Mm Outer Diameter 1 5 Mm Depth |  
 | name_no_type | M6 Nylon White 12 mm Outer Diameter 1 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | oomp_word | poodle books clipboard |  
 | oomp_word_emoji | :poodle: :books: :clipboard: |  

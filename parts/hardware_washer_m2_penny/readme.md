@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4pdvq
 * md5_6: 789686
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204pdvq)
+[2x1](http://192.168.1.242:1112/?label=oomp%204pdvq)
+[6x4](http://192.168.1.55:1112/?label=oomp%204pdvq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_penny)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ north |
 | id_no_size | penny |  
 | id_no_type | m2_penny |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_penny |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_penny |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_penny |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204pdvq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204pdvq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204pdvq |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +313,7 @@ north |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M2 Penny |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_washer_m2_penny |  
 | oomp_word | bell basketball bath |  
 | oomp_word_emoji | :bell: :basketball: :bath: |  

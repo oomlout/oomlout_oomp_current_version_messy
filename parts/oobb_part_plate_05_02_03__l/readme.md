@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 83zfn
 * md5_6: cfde23
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2083zfn)
+[2x1](http://192.168.1.242:1112/?label=oomp%2083zfn)
+[6x4](http://192.168.1.55:1112/?label=oomp%2083zfn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__l) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__l)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ artist |
 | id_no_color | 050203l |  
 | id_no_size | 05_02_03__l |  
 | id_no_type | plate_05_02_03__l |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__l |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__l |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__l |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2083zfn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2083zfn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2083zfn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ artist |
 | name_no_size | 05 02 03  L |  
 | name_no_size_short | 05 02 03  L |  
 | name_no_type | Plate 05 02 03  L |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_05_02_03__l |  
 | oomp_word | melon rainbow kiss |  
 | oomp_word_emoji | :melon: :rainbow: :kiss: |  

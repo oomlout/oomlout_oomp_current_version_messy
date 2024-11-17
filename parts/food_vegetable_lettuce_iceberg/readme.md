@@ -29,6 +29,29 @@ M&S Iceberg Lettuce
 * md5_6_alpha: 8mc4p
 * md5_6: dceee9
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208mc4p)
+[2x1](http://192.168.1.242:1112/?label=oomp%208mc4p)
+[6x4](http://192.168.1.55:1112/?label=oomp%208mc4p)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_lettuce_iceberg)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,8 +305,15 @@ believe |
 | id_no_color | lettuceiceberg |  
 | id_no_size | lettuceiceberg |  
 | id_no_type | lettuce_iceberg |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_lettuce_iceberg |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=518090011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_lettuce_iceberg |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208mc4p |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208mc4p |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208mc4p |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ believe |
 | name_no_size | Lettuceiceberg |  
 | name_no_size_short | Lettuceiceberg |  
 | name_no_type | Lettuce ICeberg |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_lettuce_iceberg |  
 | oomp_word | factory ambulance bike |  
 | oomp_word_emoji | :factory: :ambulance: :bike: |  

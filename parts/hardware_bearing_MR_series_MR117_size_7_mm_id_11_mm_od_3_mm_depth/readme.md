@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 53xa1
 * md5_6: 82f039
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2053xa1)
+[2x1](http://192.168.1.242:1112/?label=oomp%2053xa1)
+[6x4](http://192.168.1.55:1112/?label=oomp%2053xa1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ left |
 | id_no_color | 7_mm_id_11_mm_od_3_mm_depth |  
 | id_no_size | MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
 | id_no_type | MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2053xa1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2053xa1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2053xa1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ left |
 | name_no_size | Mr117 Size 7 mm ID 11 mm OD 3 mm Depth |  
 | name_no_size_short | Mr117 Size 7 Mm Id 11 Mm Od 3 Mm Depth |  
 | name_no_type | Mr Series Mr117 Size 7 mm ID 11 mm OD 3 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brMR117 |  
 | oomlout_short_code_upper | BRMR117 |  
 | oomp_key | oomp_hardware_bearing_MR_series_MR117_size_7_mm_id_11_mm_od_3_mm_depth |  

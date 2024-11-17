@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 29k3m
 * md5_6: 3a1002
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2029k3m)
+[2x1](http://192.168.1.242:1112/?label=oomp%2029k3m)
+[6x4](http://192.168.1.55:1112/?label=oomp%2029k3m)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ steel |
 | id_no_size | multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn |  
 | id_no_type | msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2029k3m |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2029k3m |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2029k3m |  
 | manufacturer | jiangsu_runic_tech |  
 | manufacturer_capital | Jiangsu Runic Tech |  
 | manufacturer_first_letter | j |  
@@ -355,6 +385,7 @@ steel |
 | name_no_size_short | Multiplexer Usb Multiplexer Two To One Jiangsu Runtech Rs2227Xn |  
 | name_no_type | Msop 10 Multiplexer USB Multiplexer Two To One Jiangsu Runtech Rs2227Xn |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn |  
 | oomp_word | koala star blush |  
 | oomp_word_emoji | :koala: :star: :blush: |  

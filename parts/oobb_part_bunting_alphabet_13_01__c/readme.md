@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9yeft
 * md5_6: ff2699
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209yeft)
+[2x1](http://192.168.1.242:1112/?label=oomp%209yeft)
+[6x4](http://192.168.1.55:1112/?label=oomp%209yeft)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__c) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__c)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ sketch |
 | id_no_color | 1301c |  
 | id_no_size | 13_01__c |  
 | id_no_type | bunting_alphabet_13_01__c |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__c |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__c |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__c |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209yeft |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209yeft |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209yeft |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ sketch |
 | name_no_size | 13 01  C |  
 | name_no_size_short | 13 01  C |  
 | name_no_type | Bunting Alphabet 13 01  C |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__c |  
 | oomp_word | trident eyes bowling |  
 | oomp_word_emoji | :trident: :eyes: :bowling: |  

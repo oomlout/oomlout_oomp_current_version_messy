@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5d7rj
 * md5_6: 898d8f
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205d7rj)
+[2x1](http://192.168.1.242:1112/?label=oomp%205d7rj)
+[6x4](http://192.168.1.55:1112/?label=oomp%205d7rj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ sudden |
 | id_no_color | ingredientcoconutmilktin400ml |  
 | id_no_size | ingredientcoconutmilktin400ml |  
 | id_no_type | ingredient_coconut_milk_tin_400_ml |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205d7rj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205d7rj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205d7rj |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -330,6 +360,7 @@ sudden |
 | name_no_size | Ingredientcoconutmilktin400Ml |  
 | name_no_size_short | Ingredientcoconutmilktin400Ml |  
 | name_no_type | Ingredient Coconut Milk Tin 400 Ml |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_pantry_ingredient_coconut_milk_tin_400_ml |  
 | oomp_word | hammer scroll calendar |  
 | oomp_word_emoji | :hammer: :scroll: :calendar: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5c8hk
 * md5_6: 88daf8
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205c8hk)
+[2x1](http://192.168.1.242:1112/?label=oomp%205c8hk)
+[6x4](http://192.168.1.55:1112/?label=oomp%205c8hk)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_05_03__label) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_05_03__label)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ sun |
 | id_no_color | 090503label |  
 | id_no_size | 09_05_03__label |  
 | id_no_type | plate_09_05_03__label |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_05_03__label |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_05_03__label |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_05_03__label |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205c8hk |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205c8hk |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205c8hk |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ sun |
 | name_no_size | 09 05 03  Label |  
 | name_no_size_short | 09 05 03  Label |  
 | name_no_type | Plate 09 05 03  Label |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_09_05_03__label |  
 | oomp_word | wrench hotel seven |  
 | oomp_word_emoji | :wrench: :hotel: :seven: |  

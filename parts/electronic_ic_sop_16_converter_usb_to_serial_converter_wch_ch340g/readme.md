@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: le7s
 * md5_6: 0f3b38
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20le7s)
+[2x1](http://192.168.1.242:1112/?label=oomp%20le7s)
+[6x4](http://192.168.1.55:1112/?label=oomp%20le7s)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ siren |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340g |  
 | id_no_type | sop_16_converter_usb_to_serial_converter_wch_ch340g |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20le7s |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20le7s |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20le7s |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -331,6 +361,7 @@ siren |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340G |  
 | name_no_type | Sop 16 Converter USB To Serial Converter Wch Ch340G |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g |  
 | oomp_word | sparkles bear frog |  
 | oomp_word_emoji | :sparkles: :bear: :frog: |  

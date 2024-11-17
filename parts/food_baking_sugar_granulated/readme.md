@@ -29,6 +29,29 @@ sugar_granulated_golden
 * md5_6_alpha: 3dbya
 * md5_6: 5660c2
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203dbya)
+[2x1](http://192.168.1.242:1112/?label=oomp%203dbya)
+[6x4](http://192.168.1.55:1112/?label=oomp%203dbya)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_granulated)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ swing |
 | id_no_color | granulated |  
 | id_no_size | granulated |  
 | id_no_type | sugar_granulated |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_granulated |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_granulated |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203dbya |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203dbya |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203dbya |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ swing |
 | name_no_size_short | Granulated |  
 | name_no_type | Sugar Granulated |  
 | name_short | Sugar Golden Granulated Coffee |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_sugar_granulated |  
 | oomp_word | ram poodle birthday |  
 | oomp_word_emoji | :ram: :poodle: :birthday: |  

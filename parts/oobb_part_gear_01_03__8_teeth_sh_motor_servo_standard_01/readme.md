@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4qyuf
 * md5_6: 79b6e7
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204qyuf)
+[2x1](http://192.168.1.242:1112/?label=oomp%204qyuf)
+[6x4](http://192.168.1.55:1112/?label=oomp%204qyuf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ tower |
 | id_no_color | 01038teethshmotorservostandard01 |  
 | id_no_size | 01_03__8_teeth_sh_motor_servo_standard_01 |  
 | id_no_type | gear_01_03__8_teeth_sh_motor_servo_standard_01 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204qyuf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204qyuf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204qyuf |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ tower |
 | name_no_size | 01 03  8 Teeth Sh Motor Servo Standard 01 |  
 | name_no_size_short | 01 03  8 Teeth Sh Motor Servo Standard 01 |  
 | name_no_type | Gear 01 03  8 Teeth Sh Motor Servo Standard 01 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_01_03__8_teeth_sh_motor_servo_standard_01 |  
 | oomp_word | balloon beer helicopter |  
 | oomp_word_emoji | :balloon: :beer: :helicopter: |  

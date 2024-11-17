@@ -29,6 +29,29 @@ M&S Rosa Vine Tomatoes
 * md5_6_alpha: 622hn
 * md5_6: 9b3f1b
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20622hn)
+[2x1](http://192.168.1.242:1112/?label=oomp%20622hn)
+[6x4](http://192.168.1.55:1112/?label=oomp%20622hn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomato_rosa_vine) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_tomato_rosa_vine)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,8 +305,15 @@ stage |
 | id_no_color | tomatorosavine |  
 | id_no_size | tomatorosavine |  
 | id_no_type | tomato_rosa_vine |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomato_rosa_vine |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_tomato_rosa_vine |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=517944011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_tomato_rosa_vine |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20622hn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20622hn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20622hn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ stage |
 | name_no_size | Tomatorosavine |  
 | name_no_size_short | Tomatorosavine |  
 | name_no_type | Tomato Rosa Vine |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_tomato_rosa_vine |  
 | oomp_word | ski horse muscle |  
 | oomp_word_emoji | :ski: :horse: :muscle: |  

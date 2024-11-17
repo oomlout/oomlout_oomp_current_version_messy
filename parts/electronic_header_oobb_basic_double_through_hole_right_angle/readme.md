@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9wzg5
 * md5_6: fe2475
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209wzg5)
+[2x1](http://192.168.1.242:1112/?label=oomp%209wzg5)
+[6x4](http://192.168.1.55:1112/?label=oomp%209wzg5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -304,7 +327,14 @@ east |
 | id_no_color | double_through_hole_right_angle |  
 | id_no_size | basic_double_through_hole_right_angle |  
 | id_no_type | oobb_basic_double_through_hole_right_angle |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_basic_double_through_hole_right_angle |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209wzg5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209wzg5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209wzg5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +359,7 @@ east |
 | name_no_size | Basic Double Through Hole Right Angle |  
 | name_no_size_short | Basic Double Through Hole Right Angle |  
 | name_no_type | Oobb Basic Double Through Hole Right Angle |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_oobb_basic_double_through_hole_right_angle |  
 | oomp_word | recycle droplet ghost |  
 | oomp_word_emoji | :recycle: :droplet: :ghost: |  

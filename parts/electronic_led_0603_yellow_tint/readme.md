@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 2jq8f
 * md5_6: 414d8f
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202jq8f)
+[2x1](http://192.168.1.242:1112/?label=oomp%202jq8f)
+[6x4](http://192.168.1.55:1112/?label=oomp%202jq8f)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow_tint)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -283,7 +306,14 @@ cycle |
 | id_no_size | yellow_tint |  
 | id_no_type | 0603_yellow_tint |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_yellow_tint |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202jq8f |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202jq8f |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202jq8f |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ cycle |
 | name_no_size | Yellow Tint |  
 | name_no_size_short | Yellow Tint |  
 | name_no_type | 0603 Yellow Tint |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0603_yellow_tint |  
 | oomp_word | camel bug calendar |  
 | oomp_word_emoji | :camel: :bug: :calendar: |  

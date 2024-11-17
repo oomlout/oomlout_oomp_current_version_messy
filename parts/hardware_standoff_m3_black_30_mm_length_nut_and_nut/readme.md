@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3l83g
 * md5_6: 5bff3c
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203l83g)
+[2x1](http://192.168.1.242:1112/?label=oomp%203l83g)
+[6x4](http://192.168.1.55:1112/?label=oomp%203l83g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_30_mm_length_nut_and_nut) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_30_mm_length_nut_and_nut)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -306,7 +329,14 @@ spare |
 | id_no_size | black_30_mm_length_nut_and_nut |  
 | id_no_type | m3_black_30_mm_length_nut_and_nut |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_30_mm_length_nut_and_nut |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_30_mm_length_nut_and_nut |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_30_mm_length_nut_and_nut |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203l83g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203l83g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203l83g |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -347,6 +377,7 @@ spare |
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | so3b30nn |  
 | oomlout_short_code_upper | SO3B30NN |  
 | oomp_key | oomp_hardware_standoff_m3_black_30_mm_length_nut_and_nut |  

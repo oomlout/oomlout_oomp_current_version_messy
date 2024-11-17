@@ -29,6 +29,29 @@ pasta_penne
 * md5_6_alpha: 5dgmu
 * md5_6: 89ba76
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205dgmu)
+[2x1](http://192.168.1.242:1112/?label=oomp%205dgmu)
+[6x4](http://192.168.1.55:1112/?label=oomp%205dgmu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_penne)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ sign |
 | id_no_color | penne |  
 | id_no_size | penne |  
 | id_no_type | pasta_penne |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_penne |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_penne |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205dgmu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205dgmu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205dgmu |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ sign |
 | name_no_size_short | Penne |  
 | name_no_type | Pasta Penne |  
 | name_short | Pasta Penne |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_pasta_penne |  
 | oomp_word | hammer spaghetti santa |  
 | oomp_word_emoji | :hammer: :spaghetti: :santa: |  

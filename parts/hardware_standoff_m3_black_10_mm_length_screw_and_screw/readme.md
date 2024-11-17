@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6yml
 * md5_6: 04f4cd
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206yml)
+[2x1](http://192.168.1.242:1112/?label=oomp%206yml)
+[6x4](http://192.168.1.55:1112/?label=oomp%206yml)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -306,7 +329,14 @@ mean |
 | id_no_size | black_10_mm_length_screw_and_screw |  
 | id_no_type | m3_black_10_mm_length_screw_and_screw |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_10_mm_length_screw_and_screw |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206yml |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206yml |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206yml |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -347,6 +377,7 @@ mean |
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | so3b10ss |  
 | oomlout_short_code_upper | SO3B10SS |  
 | oomp_key | oomp_hardware_standoff_m3_black_10_mm_length_screw_and_screw |  

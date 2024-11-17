@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9k6ry
 * md5_6: f5084e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209k6ry)
+[2x1](http://192.168.1.242:1112/?label=oomp%209k6ry)
+[6x4](http://192.168.1.55:1112/?label=oomp%209k6ry)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -280,7 +303,14 @@ message |
 | id_no_size | 2x2_4_pin_surface_mount |  
 | id_no_type | 2_54_mm_dual_row_2x2_4_pin_surface_mount |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209k6ry |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209k6ry |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209k6ry |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +335,7 @@ message |
 | name_no_size | 2X2 4 Pin Surface Mount |  
 | name_no_size_short | 2X2 4 Pin Surface Mount |  
 | name_no_type | 2 54 mm Dual Row 2X2 4 Pin Surface Mount |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_dual_row_2x2_4_pin_surface_mount |  
 | oomp_word | four scream honeybee |  
 | oomp_word_emoji | :four: :scream: :honeybee: |  

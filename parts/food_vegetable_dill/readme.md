@@ -29,6 +29,29 @@ Cook With M&S Dill
 * md5_6_alpha: 9g71u
 * md5_6: f230b2
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209g71u)
+[2x1](http://192.168.1.242:1112/?label=oomp%209g71u)
+[6x4](http://192.168.1.55:1112/?label=oomp%209g71u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_dill)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,8 +281,15 @@ scatter |
 | id_no_color | dill |  
 | id_no_size | dill |  
 | id_no_type | dill |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_dill |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=517767011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_dill |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209g71u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209g71u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209g71u |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ scatter |
 | name_no_size | Dill |  
 | name_no_size_short | Dill |  
 | name_no_type | Dill |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_dill |  
 | oomp_word | one foggy handbag |  
 | oomp_word_emoji | :one: :foggy: :handbag: |  

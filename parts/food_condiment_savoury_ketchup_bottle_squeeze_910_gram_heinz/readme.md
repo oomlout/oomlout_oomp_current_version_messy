@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: tw0z
 * md5_6: 154763
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20tw0z)
+[2x1](http://192.168.1.242:1112/?label=oomp%20tw0z)
+[6x4](http://192.168.1.55:1112/?label=oomp%20tw0z)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ split |
 | id_no_color | savouryketchupbottlesqueeze910gramheinz |  
 | id_no_size | savouryketchupbottlesqueeze910gramheinz |  
 | id_no_type | savoury_ketchup_bottle_squeeze_910_gram_heinz |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20tw0z |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20tw0z |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20tw0z |  
 | manufacturer | heinz |  
 | manufacturer_capital | Heinz |  
 | manufacturer_first_letter | h |  
@@ -355,6 +385,7 @@ split |
 | name_no_size_short | Savouryketchupbottlesqueeze910Gramheinz |  
 | name_no_type | Savoury Ketchup Bottle Squeeze 910 Gram Heinz |  
 | name_short | Ketchup |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz |  
 | oomp_word | poop baby_chick rose |  
 | oomp_word_emoji | :poop: :baby_chick: :rose: |  

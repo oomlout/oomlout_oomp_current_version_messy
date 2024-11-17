@@ -29,6 +29,29 @@ flour_self_raising
 * md5_6_alpha: dou
 * md5_6: 00454e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20dou)
+[2x1](http://192.168.1.242:1112/?label=oomp%20dou)
+[6x4](http://192.168.1.55:1112/?label=oomp%20dou)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_white)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -241,7 +264,14 @@ endorse |
 | id_no_color | white |  
 | id_no_size | white |  
 | id_no_type | flour_white |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_white |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_flour_white |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20dou |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20dou |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20dou |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -267,6 +297,7 @@ endorse |
 | name_no_size_short | White |  
 | name_no_type | Flour White |  
 | name_short | Flour Self Raising |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_flour_white |  
 | oomp_word | bowtie snake honeybee |  
 | oomp_word_emoji | :bowtie: :snake: :honeybee: |  

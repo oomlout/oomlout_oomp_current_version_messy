@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6e6b4
 * md5_6: a3dd70
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206e6b4)
+[2x1](http://192.168.1.242:1112/?label=oomp%206e6b4)
+[6x4](http://192.168.1.55:1112/?label=oomp%206e6b4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -280,7 +303,14 @@ myth |
 | id_no_size | 40_pin_through_hole_long |  
 | id_no_type | 2_54_mm_40_pin_through_hole_long |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_40_pin_through_hole_long |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206e6b4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206e6b4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206e6b4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +335,7 @@ myth |
 | name_no_size | 40 Pin Through Hole Long |  
 | name_no_size_short | 40 Pin Through Hole Long |  
 | name_no_type | 2 54 mm 40 Pin Through Hole Long |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_40_pin_through_hole_long |  
 | oomp_word | pencil stars squirrel |  
 | oomp_word_emoji | :pencil: :stars: :squirrel: |  

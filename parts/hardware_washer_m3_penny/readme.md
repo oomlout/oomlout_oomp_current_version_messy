@@ -29,6 +29,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5mz1q
 * md5_6: 907fee
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205mz1q)
+[2x1](http://192.168.1.242:1112/?label=oomp%205mz1q)
+[6x4](http://192.168.1.55:1112/?label=oomp%205mz1q)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021)                            
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.0168 | 0.0168 | 0.0168 | 0.0106 | 0.0084 |
+| orbital_fasteners | 0.0168 | 0.0168 | 0.0168 | 0.0106 | 0.0084 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +298,20 @@ remind |
 | id_no_size | penny |  
 | id_no_type | m3_penny |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205mz1q |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205mz1q |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205mz1q |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +336,7 @@ remind |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M3 Penny |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_id | hardware_washer_m3_penny |  
 | oomp_key | oomp_hardware_washer_m3_penny |  
 | oomp_word | scissors speaker ambulance |  
@@ -301,12 +354,22 @@ remind |
 | price_100 | 0.0168 |  
 | price_1000 | 0.0106 |  
 | price_10000 | 0.0084 |  
+| price_10000_distributor_1 | 0.0084 |  
 | price_10000_distributor_orbital_fasteners | 0.0084 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0106 |  
 | price_1000_distributor_orbital_fasteners | 0.0106 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.0168 |  
 | price_100_distributor_orbital_fasteners | 0.0168 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.0168 |  
 | price_1_distributor_orbital_fasteners | 0.0168 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.0168 |  
+| price_200_distributor_1 | 0.0168 |  
 | price_200_distributor_orbital_fasteners | 0.0168 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.0168 |  
 | quantity_current | 200 |  
 | short_code | w3 |  

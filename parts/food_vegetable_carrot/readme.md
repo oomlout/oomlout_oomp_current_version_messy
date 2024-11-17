@@ -29,6 +29,29 @@ M&S Carrots
 * md5_6_alpha: 1lq9n
 * md5_6: 29193b
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201lq9n)
+[2x1](http://192.168.1.242:1112/?label=oomp%201lq9n)
+[6x4](http://192.168.1.55:1112/?label=oomp%201lq9n)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_carrot)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,8 +281,15 @@ mango |
 | id_no_color | carrot |  
 | id_no_size | carrot |  
 | id_no_type | carrot |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_carrot |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=518655011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_carrot |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201lq9n |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201lq9n |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201lq9n |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ mango |
 | name_no_size | Carrot |  
 | name_no_size_short | Carrot |  
 | name_no_type | Carrot |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_carrot |  
 | oomp_word | sunny pray bear |  
 | oomp_word_emoji | :sunny: :pray: :bear: |  

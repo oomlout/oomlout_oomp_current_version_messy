@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1hw2s
 * md5_6: 265da4
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201hw2s)
+[2x1](http://192.168.1.242:1112/?label=oomp%201hw2s)
+[6x4](http://192.168.1.55:1112/?label=oomp%201hw2s)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_bean_chickpea_tin_400_gram)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ limit |
 | id_no_color | chickpeatin400gram |  
 | id_no_size | chickpeatin400gram |  
 | id_no_type | chickpea_tin_400_gram |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_bean_chickpea_tin_400_gram |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_bean_chickpea_tin_400_gram |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201hw2s |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201hw2s |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201hw2s |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -307,6 +337,7 @@ limit |
 | name_no_size_short | Chickpeatin400Gram |  
 | name_no_type | Chickpea Tin 400 Gram |  
 | name_short | Chickenpeas |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_bean_chickpea_tin_400_gram |  
 | oomp_word | eyes blowfish book |  
 | oomp_word_emoji | :eyes: :blowfish: :book: |  

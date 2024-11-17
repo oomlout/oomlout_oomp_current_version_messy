@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: ht63
 * md5_6: 0cadeb
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20ht63)
+[2x1](http://192.168.1.242:1112/?label=oomp%20ht63)
+[6x4](http://192.168.1.55:1112/?label=oomp%20ht63)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_7)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -234,7 +257,14 @@ result |
 | id_no_size | m2_7 |  
 | id_no_type | m2_7 |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m2_7 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m2_7 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20ht63 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20ht63 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20ht63 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -259,6 +289,7 @@ result |
 | name_no_size | M2 7 |  
 | name_no_size_short | M2 7 |  
 | name_no_type | M2 7 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n2d7m |  
 | oomlout_short_code_upper | N2D7M |  
 | oomp_key | oomp_hardware_nut_m2_7 |  

@@ -29,6 +29,29 @@ sugar_light_brown
 * md5_6_alpha: 9r7k1
 * md5_6: fa0801
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209r7k1)
+[2x1](http://192.168.1.242:1112/?label=oomp%209r7k1)
+[6x4](http://192.168.1.55:1112/?label=oomp%209r7k1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_light_brown)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ cruel |
 | id_no_color | light_brown |  
 | id_no_size | light_brown |  
 | id_no_type | sugar_light_brown |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_light_brown |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_light_brown |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209r7k1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209r7k1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209r7k1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ cruel |
 | name_no_size_short | Light Brown |  
 | name_no_type | Sugar Light Brown |  
 | name_short | Sugar Light Brown |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_sugar_light_brown |  
 | oomp_word | nine scream smile |  
 | oomp_word_emoji | :nine: :scream: :smile: |  

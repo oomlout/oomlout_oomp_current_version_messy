@@ -29,6 +29,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3xlg0
 * md5_6: 64cdd0
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203xlg0)
+[2x1](http://192.168.1.242:1112/?label=oomp%203xlg0)
+[6x4](http://192.168.1.55:1112/?label=oomp%203xlg0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_locking) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m5_locking) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m5-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m5-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m47)                           
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.0131 | 0.0131 | 0.0131 | 0.0082 |  |
+| orbital_fasteners | 0.0131 | 0.0131 | 0.0131 | 0.0082 |  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -263,7 +302,22 @@ system |
 | id_no_size | locking |  
 | id_no_type | m5_locking |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_locking |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m5_locking |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m5-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_4 | https://www.harclob2b.com/m5-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m47 |  
+| link_4_name | webpage_manufacturer_metalmate |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m5-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m5-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_locking |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203xlg0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203xlg0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203xlg0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -289,6 +343,7 @@ system |
 | name_no_size | Locking |  
 | name_no_size_short | Locking |  
 | name_no_type | M5 Locking |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n5mlo |  
 | oomlout_short_code_upper | N5MLO |  
 | oomp_id | hardware_nut_m5_locking |  
@@ -308,11 +363,19 @@ system |
 | price_1 | 0.0131 |  
 | price_100 | 0.0131 |  
 | price_1000 | 0.0082 |  
+| price_1000_distributor_1 | 0.0082 |  
 | price_1000_distributor_orbital_fasteners | 0.0082 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.0131 |  
 | price_100_distributor_orbital_fasteners | 0.0131 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.0131 |  
 | price_1_distributor_orbital_fasteners | 0.0131 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.0131 |  
+| price_200_distributor_1 | 0.0131 |  
 | price_200_distributor_orbital_fasteners | 0.0131 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.0131 |  
 | quantity_current | 200 |  
 | short_code | nu5 |  

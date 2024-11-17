@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 2nzp3
 * md5_6: 445677
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202nzp3)
+[2x1](http://192.168.1.242:1112/?label=oomp%202nzp3)
+[6x4](http://192.168.1.55:1112/?label=oomp%202nzp3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -304,7 +327,14 @@ oil |
 | id_no_color | single_through_hole_right_angle |  
 | id_no_size | i2c_single_through_hole_right_angle |  
 | id_no_type | oobb_i2c_single_through_hole_right_angle |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202nzp3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202nzp3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202nzp3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +359,7 @@ oil |
 | name_no_size | I2C Single Through Hole Right Angle |  
 | name_no_size_short | I2C Single Through Hole Right Angle |  
 | name_no_type | Oobb I2C Single Through Hole Right Angle |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_oobb_i2c_single_through_hole_right_angle |  
 | oomp_word | panda_face ram gift |  
 | oomp_word_emoji | :panda_face: :ram: :gift: |  

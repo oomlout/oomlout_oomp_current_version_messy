@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6xy9u
 * md5_6: b1f1c2
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206xy9u)
+[2x1](http://192.168.1.242:1112/?label=oomp%206xy9u)
+[6x4](http://192.168.1.55:1112/?label=oomp%206xy9u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ upon |
 | id_no_color | ikeaoftastwhiteplate190mmdiameterikea60318939 |  
 | id_no_size | ikeaoftastwhiteplate190mmdiameterikea60318939 |  
 | id_no_type | ikeaoftastwhiteplate190mmdiameterikea60318939 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206xy9u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206xy9u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206xy9u |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -354,6 +384,7 @@ upon |
 | name_no_size | Ikeaoftastwhiteplate190mmdiameterikea60318939 |  
 | name_no_size_short | Ikeaoftastwhiteplate190Mmdiameterikea60318939 |  
 | name_no_type | Ikeaoftastwhiteplate190mmdiameterikea60318939 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39 |  
 | oomp_word | briefcase ticket birthday |  
 | oomp_word_emoji | :briefcase: :ticket: :birthday: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9hi20
 * md5_6: f31ea8
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209hi20)
+[2x1](http://192.168.1.242:1112/?label=oomp%209hi20)
+[6x4](http://192.168.1.55:1112/?label=oomp%209hi20)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -234,7 +257,14 @@ pottery |
 | id_no_size | m1 |  
 | id_no_type | m1 |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m1 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m1 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209hi20 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209hi20 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209hi20 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -259,6 +289,7 @@ pottery |
 | name_no_size | M1 |  
 | name_no_size_short | M1 |  
 | name_no_type | M1 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n1m |  
 | oomlout_short_code_upper | N1M |  
 | oomp_key | oomp_hardware_nut_m1 |  

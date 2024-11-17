@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 55wu1
 * md5_6: 845a79
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2055wu1)
+[2x1](http://192.168.1.242:1112/?label=oomp%2055wu1)
+[6x4](http://192.168.1.55:1112/?label=oomp%2055wu1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,8 +304,15 @@ seed |
 | id_no_color | bowl2000ml210mmdiameter180B000 |  
 | id_no_size | bowl_2000_ml_210_mm_diameter_180B000 |  
 | id_no_type | pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
+| link_2_name | github_link |  
 | link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280697891 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2055wu1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2055wu1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2055wu1 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
 | manufacturer_first_letter | p |  
@@ -331,6 +361,7 @@ seed |
 | name_no_size | Bowl 2000 Ml 210 mm Diameter 180B000 |  
 | name_no_size_short | Bowl 2000 Ml 210 Mm Diameter 180B000 |  
 | name_no_type | Pyrex Bowl 2000 Ml 210 mm Diameter Pyrex 180B000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
 | oomp_word | key goat balloon |  
 | oomp_word_emoji | :key: :goat: :balloon: |  

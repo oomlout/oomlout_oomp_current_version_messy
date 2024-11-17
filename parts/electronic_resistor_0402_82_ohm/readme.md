@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 613hl
 * md5_6: 9a8de9
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20613hl)
+[2x1](http://192.168.1.242:1112/?label=oomp%20613hl)
+[6x4](http://192.168.1.55:1112/?label=oomp%20613hl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_82_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ fresh |
 | id_no_size | 82_ohm |  
 | id_no_type | 0402_82_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_82_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_82_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_82_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20613hl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20613hl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20613hl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +313,7 @@ fresh |
 | name_no_size | 82 Ohm |  
 | name_no_size_short | 82 Ohm |  
 | name_no_type | 0402 82 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0402_82_ohm |  
 | oomp_word | golf scroll bike |  
 | oomp_word_emoji | :golf: :scroll: :bike: |  

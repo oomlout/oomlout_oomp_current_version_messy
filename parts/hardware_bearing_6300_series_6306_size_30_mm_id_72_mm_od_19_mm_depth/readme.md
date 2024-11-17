@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 98gja
 * md5_6: ecaeb6
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2098gja)
+[2x1](http://192.168.1.242:1112/?label=oomp%2098gja)
+[6x4](http://192.168.1.55:1112/?label=oomp%2098gja)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ awake |
 | id_no_color | 30_mm_id_72_mm_od_19_mm_depth |  
 | id_no_size | 6306_size_30_mm_id_72_mm_od_19_mm_depth |  
 | id_no_type | 6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2098gja |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2098gja |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2098gja |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ awake |
 | name_no_size | 6306 Size 30 mm ID 72 mm OD 19 mm Depth |  
 | name_no_size_short | 6306 Size 30 Mm Id 72 Mm Od 19 Mm Depth |  
 | name_no_type | 6300 Series 6306 Size 30 mm ID 72 mm OD 19 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6306 |  
 | oomlout_short_code_upper | BR6306 |  
 | oomp_key | oomp_hardware_bearing_6300_series_6306_size_30_mm_id_72_mm_od_19_mm_depth |  

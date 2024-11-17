@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6kttm
 * md5_6: a899fa
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206kttm)
+[2x1](http://192.168.1.242:1112/?label=oomp%206kttm)
+[6x4](http://192.168.1.55:1112/?label=oomp%206kttm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ brown |
 | id_no_color | light_everlight_elec_als_pt19 |  
 | id_no_size | sensor_light_everlight_elec_als_pt19 |  
 | id_no_type | 0603_sensor_light_everlight_elec_als_pt19 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206kttm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206kttm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206kttm |  
 | manufacturer | everlight_elec |  
 | manufacturer_capital | Everlight Elec |  
 | manufacturer_first_letter | e |  
@@ -328,6 +358,7 @@ brown |
 | name_no_size | Sensor Light Everlight Elec Als Pt19 |  
 | name_no_size_short | Sensor Light Everlight Elec Als Pt19 |  
 | name_no_type | 0603 Sensor Light Everlight Elec Als Pt19 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19 |  
 | oomp_word | shoe bowling nine |  
 | oomp_word_emoji | :shoe: :bowling: :nine: |  

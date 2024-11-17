@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6b1ud
 * md5_6: a1a415
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206b1ud)
+[2x1](http://192.168.1.242:1112/?label=oomp%206b1ud)
+[6x4](http://192.168.1.55:1112/?label=oomp%206b1ud)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_12) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_12)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ grape |
 | id_no_color | hardwarem512 |  
 | id_no_size | hardware_m5_12 |  
 | id_no_type | bolt_hardware_bolt_m5_12 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_12 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_12 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_12 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206b1ud |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206b1ud |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206b1ud |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ grape |
 | name_no_size | Hardware M5 12 |  
 | name_no_size_short | Hardware M5 12 |  
 | name_no_type | Bolt Hardware Bolt M5 12 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bolt_hardware_bolt_m5_12 |  
 | oomp_word | trophy book poop |  
 | oomp_word_emoji | :trophy: :book: :poop: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 84pdp
 * md5_6: d0617d
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2084pdp)
+[2x1](http://192.168.1.242:1112/?label=oomp%2084pdp)
+[6x4](http://192.168.1.55:1112/?label=oomp%2084pdp)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_blue) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ audit |
 | id_no_size | blue |  
 | id_no_type | 0201_blue |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_blue |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0201_blue |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2084pdp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2084pdp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2084pdp |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ audit |
 | name_no_size | Blue |  
 | name_no_size_short | Blue |  
 | name_no_type | 0201 Blue |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0201_blue |  
 | oomp_word | banana bouquet phone |  
 | oomp_word_emoji | :banana: :bouquet: :phone: |  

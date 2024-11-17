@@ -29,6 +29,29 @@ An interposer between an i2c chip and a soic_14_wide package. This is the landin
 * md5_6_alpha: 2dmqm
 * md5_6: 3cf65e
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202dmqm)
+[2x1](http://192.168.1.242:1112/?label=oomp%202dmqm)
+[6x4](http://192.168.1.55:1112/?label=oomp%202dmqm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,7 +305,14 @@ build |
 | id_no_size | i2c_landing |  
 | id_no_type | soic_14_wide_i2c_landing |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202dmqm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202dmqm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202dmqm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ build |
 | name_no_size_short | I2C Landing |  
 | name_no_type | Soic 14 Wide I2C Landing |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_interposer_soic_14_wide_i2c_landing |  
 | oomp_word | pig five crocodile |  
 | oomp_word_emoji | :pig: :five: :crocodile: |  

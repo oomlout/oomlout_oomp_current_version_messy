@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: dc3d
 * md5_6: 097e79
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20dc3d)
+[2x1](http://192.168.1.242:1112/?label=oomp%20dc3d)
+[6x4](http://192.168.1.55:1112/?label=oomp%20dc3d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ alley |
 | id_no_color | 55_mm_id_100_mm_od_33_3_mm_depth |  
 | id_no_size | 5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  
 | id_no_type | 5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20dc3d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20dc3d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20dc3d |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ alley |
 | name_no_size | 5211 Size 55 mm ID 100 mm OD 33 3 mm Depth |  
 | name_no_size_short | 5211 Size 55 Mm Id 100 Mm Od 33 3 Mm Depth |  
 | name_no_type | 5200 Series 5211 Size 55 mm ID 100 mm OD 33 3 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5211 |  
 | oomlout_short_code_upper | BR5211 |  
 | oomp_key | oomp_hardware_bearing_5200_series_5211_size_55_mm_id_100_mm_od_33_3_mm_depth |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 8kkq0
 * md5_6: dbade8
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208kkq0)
+[2x1](http://192.168.1.242:1112/?label=oomp%208kkq0)
+[6x4](http://192.168.1.55:1112/?label=oomp%208kkq0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -283,7 +306,14 @@ report |
 | id_no_color | 810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
 | id_no_size | white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
 | id_no_type | ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208kkq0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208kkq0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208kkq0 |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -332,6 +362,7 @@ report |
 | name_no_size | White 810 mm Width 890 mm Height 470 mm Depth Ikea 005 292 42 |  
 | name_no_size_short | White 810 Mm Width 890 Mm Height 470 Mm Depth Ikea 005 292 42 |  
 | name_no_type | Ikea Havsta White 810 mm Width 890 mm Height 470 mm Depth Ikea 005 292 42 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42 |  
 | oomp_word | tent dress tram |  
 | oomp_word_emoji | :tent: :dress: :tram: |  

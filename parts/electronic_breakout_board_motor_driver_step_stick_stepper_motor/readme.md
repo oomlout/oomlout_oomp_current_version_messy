@@ -29,6 +29,29 @@ A common breakout format for a stepper motor driver
 * md5_6_alpha: 8v9tc
 * md5_6: e34b70
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208v9tc)
+[2x1](http://192.168.1.242:1112/?label=oomp%208v9tc)
+[6x4](http://192.168.1.55:1112/?label=oomp%208v9tc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ cloth |
 | id_no_size | stepper_motor |  
 | id_no_type | step_stick_stepper_motor |  
 | kicad_reference | BB |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_stepper_motor |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208v9tc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208v9tc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208v9tc |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ cloth |
 | name_no_size_short | Stepper Motor |  
 | name_no_type | Step Stick Stepper Motor |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_motor_driver_step_stick_stepper_motor |  
 | oomp_word | rowboat penguin squirrel |  
 | oomp_word_emoji | :rowboat: :penguin: :squirrel: |  

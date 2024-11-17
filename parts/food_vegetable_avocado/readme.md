@@ -29,6 +29,29 @@ M&S Perfectly Ripe Medium Hass Avocados
 * md5_6_alpha: 8l5mi
 * md5_6: dc17ba
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208l5mi)
+[2x1](http://192.168.1.242:1112/?label=oomp%208l5mi)
+[6x4](http://192.168.1.55:1112/?label=oomp%208l5mi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_avocado)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,8 +281,15 @@ hello |
 | id_no_color | avocado |  
 | id_no_size | avocado |  
 | id_no_type | avocado |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_avocado |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=517789011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_avocado |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208l5mi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208l5mi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208l5mi |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ hello |
 | name_no_size | Avocado |  
 | name_no_size_short | Avocado |  
 | name_no_type | Avocado |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_avocado |  
 | oomp_word | factory thumbsdown spaghetti |  
 | oomp_word_emoji | :factory: :thumbsdown: :spaghetti: |  

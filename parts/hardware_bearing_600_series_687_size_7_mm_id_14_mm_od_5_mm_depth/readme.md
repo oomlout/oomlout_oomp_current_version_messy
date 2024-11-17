@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: k90a
 * md5_6: 0e6a9a
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20k90a)
+[2x1](http://192.168.1.242:1112/?label=oomp%20k90a)
+[6x4](http://192.168.1.55:1112/?label=oomp%20k90a)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ make |
 | id_no_color | 7_mm_id_14_mm_od_5_mm_depth |  
 | id_no_size | 687_size_7_mm_id_14_mm_od_5_mm_depth |  
 | id_no_type | 600_series_687_size_7_mm_id_14_mm_od_5_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20k90a |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20k90a |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20k90a |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ make |
 | name_no_size | 687 Size 7 mm ID 14 mm OD 5 mm Depth |  
 | name_no_size_short | 687 Size 7 Mm Id 14 Mm Od 5 Mm Depth |  
 | name_no_type | 600 Series 687 Size 7 mm ID 14 mm OD 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br687 |  
 | oomlout_short_code_upper | BR687 |  
 | oomp_key | oomp_hardware_bearing_600_series_687_size_7_mm_id_14_mm_od_5_mm_depth |  

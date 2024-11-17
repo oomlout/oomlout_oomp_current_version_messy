@@ -29,6 +29,29 @@ sugar_muscavado
 * md5_6_alpha: 28xcm
 * md5_6: 399cd6
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2028xcm)
+[2x1](http://192.168.1.242:1112/?label=oomp%2028xcm)
+[6x4](http://192.168.1.55:1112/?label=oomp%2028xcm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_muscavado) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_muscavado)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ depart |
 | id_no_color | muscavado |  
 | id_no_size | muscavado |  
 | id_no_type | sugar_muscavado |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_muscavado |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_muscavado |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_muscavado |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2028xcm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2028xcm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2028xcm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ depart |
 | name_no_size_short | Muscavado |  
 | name_no_type | Sugar Muscavado |  
 | name_short | Sugar Muscavado |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_sugar_muscavado |  
 | oomp_word | tiger spades school |  
 | oomp_word_emoji | :tiger: :spades: :school: |  

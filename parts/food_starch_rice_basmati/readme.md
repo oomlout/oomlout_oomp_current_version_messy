@@ -29,6 +29,29 @@ rice_basmati
 * md5_6_alpha: 22yk5
 * md5_6: 355d75
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2022yk5)
+[2x1](http://192.168.1.242:1112/?label=oomp%2022yk5)
+[6x4](http://192.168.1.55:1112/?label=oomp%2022yk5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_basmati)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -258,7 +281,14 @@ drink |
 | id_no_color | basmati |  
 | id_no_size | basmati |  
 | id_no_type | rice_basmati |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_basmati |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_rice_basmati |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2022yk5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2022yk5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2022yk5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ drink |
 | name_no_size_short | Basmati |  
 | name_no_type | Rice Basmati |  
 | name_short | Rice Basmati |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_rice_basmati |  
 | oomp_word | hamster blowfish ghost |  
 | oomp_word_emoji | :hamster: :blowfish: :ghost: |  

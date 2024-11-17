@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 85th4
 * md5_6: d12c78
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2085th4)
+[2x1](http://192.168.1.242:1112/?label=oomp%2085th4)
+[6x4](http://192.168.1.55:1112/?label=oomp%2085th4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_13_05_03) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_05_03)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ lobster |
 | id_no_color | 130503 |  
 | id_no_size | 13_05_03 |  
 | id_no_type | plate_13_05_03 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_13_05_03 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_05_03 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_13_05_03 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2085th4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2085th4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2085th4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ lobster |
 | name_no_size | 13 05 03 |  
 | name_no_size_short | 13 05 03 |  
 | name_no_type | Plate 13 05 03 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_13_05_03 |  
 | oomp_word | pear snowflake bell |  
 | oomp_word_emoji | :pear: :snowflake: :bell: |  

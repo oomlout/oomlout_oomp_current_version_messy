@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 61e1g
 * md5_6: 9ac354
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2061e1g)
+[2x1](http://192.168.1.242:1112/?label=oomp%2061e1g)
+[6x4](http://192.168.1.55:1112/?label=oomp%2061e1g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ all |
 | id_no_color | 0306670572teethshielddouble |  
 | id_no_size | 03_06_6705__72_teeth_shield_double |  
 | id_no_type | pulley_gt2_03_06_6705__72_teeth_shield_double |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2061e1g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2061e1g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2061e1g |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ all |
 | name_no_size | 03 06 6705  72 Teeth Shield Double |  
 | name_no_size_short | 03 06 6705  72 Teeth Shield Double |  
 | name_no_type | Pulley Gt2 03 06 6705  72 Teeth Shield Double |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_03_06_6705__72_teeth_shield_double |  
 | oomp_word | golf cake whale |  
 | oomp_word_emoji | :golf: :cake: :whale: |  

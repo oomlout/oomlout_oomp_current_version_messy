@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 677zz
 * md5_6: 9eea3f
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20677zz)
+[2x1](http://192.168.1.242:1112/?label=oomp%20677zz)
+[6x4](http://192.168.1.55:1112/?label=oomp%20677zz)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__n) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__n)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ health |
 | id_no_color | 0701n |  
 | id_no_size | 07_01__n |  
 | id_no_type | bunting_alphabet_07_01__n |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__n |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__n |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__n |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20677zz |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20677zz |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20677zz |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ health |
 | name_no_size | 07 01  N |  
 | name_no_size_short | 07 01  N |  
 | name_no_type | Bunting Alphabet 07 01  N |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_07_01__n |  
 | oomp_word | clubs tractor horse |  
 | oomp_word_emoji | :clubs: :tractor: :horse: |  

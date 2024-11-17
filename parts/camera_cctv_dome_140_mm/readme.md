@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 2om3z
 * md5_6: 44c7ef
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202om3z)
+[2x1](http://192.168.1.242:1112/?label=oomp%202om3z)
+[6x4](http://192.168.1.55:1112/?label=oomp%202om3z)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -233,7 +256,14 @@ load |
 | id_no_color | 140mm |  
 | id_no_size | 140_mm |  
 | id_no_type | 140_mm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camera_cctv_dome_140_mm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/camera_cctv_dome_140_mm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202om3z |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202om3z |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202om3z |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -258,6 +288,7 @@ load |
 | name_no_size | 140 mm |  
 | name_no_size_short | 140 Mm |  
 | name_no_type | 140 mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_camera_cctv_dome_140_mm |  
 | oomp_word | panda_face honey_pot truck |  
 | oomp_word_emoji | :panda_face: :honey_pot: :truck: |  

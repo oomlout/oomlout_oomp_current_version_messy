@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 99jtx
 * md5_6: ed75a5
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2099jtx)
+[2x1](http://192.168.1.242:1112/?label=oomp%2099jtx)
+[6x4](http://192.168.1.55:1112/?label=oomp%2099jtx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ memory |
 | id_no_color | 010916teethshmotorn20 |  
 | id_no_size | 01_09__16_teeth_sh_motor_n20 |  
 | id_no_type | pulley_gt2_01_09__16_teeth_sh_motor_n20 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2099jtx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2099jtx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2099jtx |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ memory |
 | name_no_size | 01 09  16 Teeth Sh Motor N20 |  
 | name_no_size_short | 01 09  16 Teeth Sh Motor N20 |  
 | name_no_type | Pulley Gt2 01 09  16 Teeth Sh Motor N20 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20 |  
 | oomp_word | bus ghost headphones |  
 | oomp_word_emoji | :bus: :ghost: :headphones: |  

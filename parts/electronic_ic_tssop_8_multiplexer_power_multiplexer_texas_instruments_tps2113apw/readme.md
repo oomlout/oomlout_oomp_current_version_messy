@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4we3c
 * md5_6: 7d9358
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204we3c)
+[2x1](http://192.168.1.242:1112/?label=oomp%204we3c)
+[6x4](http://192.168.1.55:1112/?label=oomp%204we3c)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ usage |
 | id_no_size | multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | id_no_type | tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | kicad_reference | IC |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204we3c |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204we3c |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204we3c |  
 | manufacturer | texas_instruments |  
 | manufacturer_capital | Texas Instruments |  
 | manufacturer_first_letter | t |  
@@ -331,6 +361,7 @@ usage |
 | name_no_size_short | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw |  
 | name_no_type | Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | oomp_word | phone books water_buffalo |  
 | oomp_word_emoji | :phone: :books: :water_buffalo: |  

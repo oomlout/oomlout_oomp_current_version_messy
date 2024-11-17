@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9ebb2
 * md5_6: f0d9be
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209ebb2)
+[2x1](http://192.168.1.242:1112/?label=oomp%209ebb2)
+[6x4](http://192.168.1.55:1112/?label=oomp%209ebb2)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -283,7 +306,14 @@ roof |
 | id_no_size | rgb_ws2812b_worldsemi_ws2812b_b_w |  
 | id_no_type | 5050_rgb_ws2812b_worldsemi_ws2812b_b_w |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209ebb2 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209ebb2 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209ebb2 |  
 | manufacturer | worldsemi |  
 | manufacturer_capital | Worldsemi |  
 | manufacturer_first_letter | w |  
@@ -332,6 +362,7 @@ roof |
 | name_no_size | RGB Ws2812B Worldsemi Ws2812B B W |  
 | name_no_size_short | Rgb Ws2k8B Worldsemi Ws2k8B B W |  
 | name_no_type | 5050 RGB Ws2812B Worldsemi Ws2812B B W |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w |  
 | oomp_word | train bank ramen |  
 | oomp_word_emoji | :train: :bank: :ramen: |  

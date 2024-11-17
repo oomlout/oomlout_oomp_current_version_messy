@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 8opbb
 * md5_6: de9e27
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208opbb)
+[2x1](http://192.168.1.242:1112/?label=oomp%208opbb)
+[6x4](http://192.168.1.55:1112/?label=oomp%208opbb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -307,7 +330,14 @@ virus |
 | id_no_color | 2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
 | id_no_size | white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
 | id_no_type | ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208opbb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208opbb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208opbb |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -356,6 +386,7 @@ virus |
 | name_no_size | White 2 Cell Width 4 Cell Height 770 mm Width 1470 mm Height 390 mm Depth Ikea 802 758 87 |  
 | name_no_size_short | White 2 Cell Width 4 Cell Height 770 Mm Width 1470 Mm Height 390 Mm Depth Ikea 802 758 87 |  
 | name_no_type | Ikea Kallax White 2 Cell Width 4 Cell Height 770 mm Width 1470 mm Height 390 mm Depth Ikea 802 758 87 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_kallax_white_2_cell_width_4_cell_height_770_mm_width_1470_mm_height_390_mm_depth_ikea_802_758_87 |  
 | oomp_word | rainbow clubs nose |  
 | oomp_word_emoji | :rainbow: :clubs: :nose: |  

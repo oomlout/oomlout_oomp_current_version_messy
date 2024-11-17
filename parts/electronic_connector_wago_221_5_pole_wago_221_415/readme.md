@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1ra83
 * md5_6: 2d0d83
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201ra83)
+[2x1](http://192.168.1.242:1112/?label=oomp%201ra83)
+[6x4](http://192.168.1.55:1112/?label=oomp%201ra83)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -260,7 +283,14 @@ much |
 | id_no_size | 5_pole_415 |  
 | id_no_type | wago_221_5_pole_wago_221_415 |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_5_pole_wago_221_415 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201ra83 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201ra83 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201ra83 |  
 | manufacturer | wago |  
 | manufacturer_capital | Wago |  
 | manufacturer_first_letter | w |  
@@ -309,6 +339,7 @@ much |
 | name_no_size | 5 Pole 415 |  
 | name_no_size_short | 5 Pole 415 |  
 | name_no_type | Wago 221 5 Pole Wago 221 415 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_connector_wago_221_5_pole_wago_221_415 |  
 | oomp_word | snowman heart lock |  
 | oomp_word_emoji | :snowman: :heart: :lock: |  

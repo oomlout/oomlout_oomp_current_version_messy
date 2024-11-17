@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: xzk
 * md5_6: 00ac10
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20xzk)
+[2x1](http://192.168.1.242:1112/?label=oomp%20xzk)
+[6x4](http://192.168.1.55:1112/?label=oomp%20xzk)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -287,7 +310,14 @@ obvious |
 | id_no_size | black_7_pin_dupont |  
 | id_no_type | 2_54_mm_black_7_pin_dupont |  
 | kicad_reference | CRHO |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_7_pin_dupont |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20xzk |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20xzk |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20xzk |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -312,6 +342,7 @@ obvious |
 | name_no_size | Black 7 Pin Dupont |  
 | name_no_size_short | Black 7 Pin Dupont |  
 | name_no_type | 2 54 mm Black 7 Pin Dupont |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_housing_2_54_mm_black_7_pin_dupont |  
 | oomp_word | bowtie shirt star |  
 | oomp_word_emoji | :bowtie: :shirt: :star: |  

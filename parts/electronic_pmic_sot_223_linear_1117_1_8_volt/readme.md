@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 11rl8
 * md5_6: 1ae2ec
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2011rl8)
+[2x1](http://192.168.1.242:1112/?label=oomp%2011rl8)
+[6x4](http://192.168.1.55:1112/?label=oomp%2011rl8)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -304,7 +327,14 @@ juice |
 | id_no_color | 1117_1_8_volt |  
 | id_no_size | linear_1117_1_8_volt |  
 | id_no_type | sot_223_linear_1117_1_8_volt |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_1_8_volt |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2011rl8 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2011rl8 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2011rl8 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +359,7 @@ juice |
 | name_no_size | Linear 1117 1 8 Volt |  
 | name_no_size_short | Linear 1k1 1 8 Volt |  
 | name_no_type | Sot 223 Linear 1117 1 8 Volt |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_pmic_sot_223_linear_1117_1_8_volt |  
 | oomp_word | clap sailboat taxi |  
 | oomp_word_emoji | :clap: :sailboat: :taxi: |  

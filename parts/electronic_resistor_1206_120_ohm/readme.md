@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 565eh
 * md5_6: 8485d9
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20565eh)
+[2x1](http://192.168.1.242:1112/?label=oomp%20565eh)
+[6x4](http://192.168.1.55:1112/?label=oomp%20565eh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_120_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -259,7 +282,14 @@ airport |
 | id_no_size | 120_ohm |  
 | id_no_type | 1206_120_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_120_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_120_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_120_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20565eh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20565eh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20565eh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +314,7 @@ airport |
 | name_no_size | 120 Ohm |  
 | name_no_size_short | 120 Ohm |  
 | name_no_type | 1206 120 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_1206_120_ohm |  
 | oomp_word | key bulb bank |  
 | oomp_word_emoji | :key: :bulb: :bank: |  

@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 7e0mb
 * md5_6: bd61a3
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207e0mb)
+[2x1](http://192.168.1.242:1112/?label=oomp%207e0mb)
+[6x4](http://192.168.1.55:1112/?label=oomp%207e0mb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_05_03__label) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_05_03__label)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ fever |
 | id_no_color | 070503label |  
 | id_no_size | 07_05_03__label |  
 | id_no_type | plate_07_05_03__label |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_05_03__label |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_05_03__label |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_05_03__label |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207e0mb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207e0mb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207e0mb |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ fever |
 | name_no_size | 07 05 03  Label |  
 | name_no_size_short | 07 05 03  Label |  
 | name_no_type | Plate 07 05 03  Label |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_07_05_03__label |  
 | oomp_word | rice bouquet pencil |  
 | oomp_word_emoji | :rice: :bouquet: :pencil: |  

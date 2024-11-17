@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 5lsuo
 * md5_6: 8faa50
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205lsuo)
+[2x1](http://192.168.1.242:1112/?label=oomp%205lsuo)
+[6x4](http://192.168.1.55:1112/?label=oomp%205lsuo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -257,7 +280,14 @@ mesh |
 | id_no_color | dockingstationmicrosoftmodel1749 |  
 | id_no_size | docking_station_microsoft_model_1749 |  
 | id_no_type | microsoft_surface_docking_station_microsoft_model_1749 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205lsuo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205lsuo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205lsuo |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -306,6 +336,7 @@ mesh |
 | name_no_size | Docking Station Microsoft Model 1749 |  
 | name_no_size_short | Docking Station Microsoft Model 1749 |  
 | name_no_type | Microsoft Surface Docking Station Microsoft Model 1749 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
 | oomp_word | calendar lipstick beetle |  
 | oomp_word_emoji | :calendar: :lipstick: :beetle: |  

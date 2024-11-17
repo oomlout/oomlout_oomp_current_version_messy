@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 662to
 * md5_6: 9e19cc
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20662to)
+[2x1](http://192.168.1.242:1112/?label=oomp%20662to)
+[6x4](http://192.168.1.55:1112/?label=oomp%20662to)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -255,7 +278,14 @@ insect |
 | id_no_color | 100703nmpla6 |  
 | id_no_size | 10_07_03_nm_pl_a6 |  
 | id_no_type | plate_10_07_03_nm_pl_a6 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_07_03_nm_oobb_pl_a6 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20662to |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20662to |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20662to |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +310,7 @@ insect |
 | name_no_size | 10 07 03 Nm Pl A6 |  
 | name_no_size_short | 10 07 03 Nm Pl A6 |  
 | name_no_type | Plate 10 07 03 Nm Pl A6 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_10_07_03_nm_oobb_pl_a6 |  
 | oomp_word | clubs pray watermelon |  
 | oomp_word_emoji | :clubs: :pray: :watermelon: |  

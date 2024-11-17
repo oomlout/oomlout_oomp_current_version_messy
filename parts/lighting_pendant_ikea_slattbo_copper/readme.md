@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1orw
 * md5_6: 0133ac
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201orw)
+[2x1](http://192.168.1.242:1112/?label=oomp%201orw)
+[6x4](http://192.168.1.55:1112/?label=oomp%201orw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/lighting_pendant_ikea_slattbo_copper)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -240,7 +263,14 @@ neck |
 | id_no_color | copper |  
 | id_no_size | copper |  
 | id_no_type | ikea_slattbo_copper |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201orw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201orw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201orw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -265,6 +295,7 @@ neck |
 | name_no_size | Copper |  
 | name_no_size_short | Copper |  
 | name_no_type | Ikea Slattbo Copper |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_lighting_pendant_ikea_slattbo_copper |  
 | oomp_word | smile dog shirt |  
 | oomp_word_emoji | :smile: :dog: :shirt: |  

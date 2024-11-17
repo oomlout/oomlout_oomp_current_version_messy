@@ -29,6 +29,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 9rf36
 * md5_6: fa2e22
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209rf36)
+[2x1](http://192.168.1.242:1112/?label=oomp%209rf36)
+[6x4](http://192.168.1.55:1112/?label=oomp%209rf36)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_100_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_100_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m5-x-100-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m5-x-100-socket-cap-screw-gr12-9-self-colour-din-9-1150m470100)                           
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.2074 | 0.2074 | 0.1152 | 0.0922 | 0.0922 |
+| orbital_fasteners | 0.2074 | 0.2074 | 0.1152 | 0.0922 | 0.0922 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -311,7 +350,22 @@ famous |
 | id_no_size | black_100_mm_length_hex_head |  
 | id_no_type | m5_black_100_mm_length_hex_head |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_100_mm_length_hex_head |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_100_mm_length_hex_head |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m5-x-100-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_4 | https://www.harclob2b.com/m5-x-100-socket-cap-screw-gr12-9-self-colour-din-9-1150m470100 |  
+| link_4_name | webpage_manufacturer_metalmate |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m5-x-100-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m5-x-100-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_100_mm_length_hex_head |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209rf36 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209rf36 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209rf36 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -354,6 +408,7 @@ famous |
 | oomlout_bolt_size | M5 |  
 | oomlout_bolt_type | Socket Cap |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | sc5b100h |  
 | oomlout_short_code_upper | SC5B100H |  
 | oomp_id | hardware_screw_socket_cap_m5_black_100_mm_length_hex_head |  
@@ -374,12 +429,22 @@ famous |
 | price_100 | 0.2074 |  
 | price_1000 | 0.0922 |  
 | price_10000 | 0.0922 |  
+| price_10000_distributor_1 | 0.0922 |  
 | price_10000_distributor_orbital_fasteners | 0.0922 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0922 |  
 | price_1000_distributor_orbital_fasteners | 0.0922 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.2074 |  
 | price_100_distributor_orbital_fasteners | 0.2074 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.2074 |  
 | price_1_distributor_orbital_fasteners | 0.2074 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.1152 |  
+| price_200_distributor_1 | 0.1152 |  
 | price_200_distributor_orbital_fasteners | 0.1152 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.1152 |  
 | quantity_current | 200 |  
 | short_code | sc5bh |  

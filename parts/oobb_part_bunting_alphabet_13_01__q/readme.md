@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 3drgt
 * md5_6: 56af4d
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203drgt)
+[2x1](http://192.168.1.242:1112/?label=oomp%203drgt)
+[6x4](http://192.168.1.55:1112/?label=oomp%203drgt)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__q) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__q)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -279,7 +302,14 @@ eyebrow |
 | id_no_color | 1301q |  
 | id_no_size | 13_01__q |  
 | id_no_type | bunting_alphabet_13_01__q |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__q |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__q |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__q |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203drgt |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203drgt |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203drgt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +334,7 @@ eyebrow |
 | name_no_size | 13 01  Q |  
 | name_no_size_short | 13 01  Q |  
 | name_no_type | Bunting Alphabet 13 01  Q |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__q |  
 | oomp_word | ram tophat bug |  
 | oomp_word_emoji | :ram: :tophat: :bug: |  

@@ -29,6 +29,29 @@ An interposer between an i2c chip and a soic_14_wide package, The pins are numbe
 * md5_6_alpha: 4127d
 * md5_6: 674569
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204127d)
+[2x1](http://192.168.1.242:1112/?label=oomp%204127d)
+[6x4](http://192.168.1.55:1112/?label=oomp%204127d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,7 +305,14 @@ debris |
 | id_no_size | i2c_helicopter |  
 | id_no_type | soic_14_wide_i2c_helicopter |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204127d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204127d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204127d |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ debris |
 | name_no_size_short | I2C Helicopter |  
 | name_no_type | Soic 14 Wide I2C Helicopter |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_interposer_soic_14_wide_i2c_helicopter |  
 | oomp_word | herb snake cactus |  
 | oomp_word_emoji | :herb: :snake: :cactus: |  

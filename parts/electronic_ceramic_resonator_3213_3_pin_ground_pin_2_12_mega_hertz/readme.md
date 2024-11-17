@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 4rxg5
 * md5_6: 7a6615
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204rxg5)
+[2x1](http://192.168.1.242:1112/?label=oomp%204rxg5)
+[6x4](http://192.168.1.55:1112/?label=oomp%204rxg5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -283,7 +306,14 @@ clown |
 | id_no_size | 3_pin_ground_pin_2_12_mega_hertz |  
 | id_no_type | 3213_3_pin_ground_pin_2_12_mega_hertz |  
 | kicad_reference | x |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204rxg5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204rxg5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204rxg5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +338,7 @@ clown |
 | name_no_size | 3 Pin Ground Pin 2 12 Mega Hertz |  
 | name_no_size_short | 3 Pin Ground Pin 2 12 Mega Hertz |  
 | name_no_type | 3213 3 Pin Ground Pin 2 12 Mega Hertz |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz |  
 | oomp_word | camera leaves poop |  
 | oomp_word_emoji | :camera: :leaves: :poop: |  

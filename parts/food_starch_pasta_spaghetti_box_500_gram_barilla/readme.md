@@ -29,6 +29,29 @@ pasta_spaghetti
 * md5_6_alpha: a9z4
 * md5_6: 075100
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20a9z4)
+[2x1](http://192.168.1.242:1112/?label=oomp%20a9z4)
+[6x4](http://192.168.1.55:1112/?label=oomp%20a9z4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -282,7 +305,14 @@ rhythm |
 | id_no_color | box_500_gram_barilla |  
 | id_no_size | spaghetti_box_500_gram_barilla |  
 | id_no_type | pasta_spaghetti_box_500_gram_barilla |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20a9z4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20a9z4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20a9z4 |  
 | manufacturer | barilla |  
 | manufacturer_capital | Barilla |  
 | manufacturer_first_letter | b |  
@@ -332,6 +362,7 @@ rhythm |
 | name_no_size_short | Spaghetti Box 500 Gram Barilla |  
 | name_no_type | Pasta Spaghetti Box 500 Gram Barilla |  
 | name_short | Pasta Spaghetti Box |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_pasta_spaghetti_box_500_gram_barilla |  
 | oomp_word | cry snail bowtie |  
 | oomp_word_emoji | :cry: :snail: :bowtie: |  

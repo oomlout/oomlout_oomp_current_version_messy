@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 6dw67
 * md5_6: a3aa1f
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206dw67)
+[2x1](http://192.168.1.242:1112/?label=oomp%206dw67)
+[6x4](http://192.168.1.55:1112/?label=oomp%206dw67)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -305,7 +328,14 @@ lock |
 | id_no_color | savourysalsagreenjar240gramherdez |  
 | id_no_size | savourysalsagreenjar240gramherdez |  
 | id_no_type | savoury_salsa_green_jar_240_gram_herdez |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206dw67 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206dw67 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206dw67 |  
 | manufacturer | herdez |  
 | manufacturer_capital | Herdez |  
 | manufacturer_first_letter | h |  
@@ -355,6 +385,7 @@ lock |
 | name_no_size_short | Savourysalsagreenjar240Gramherdez |  
 | name_no_type | Savoury Salsa Green Jar 240 Gram Herdez |  
 | name_short | Salsa Green |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_savoury_salsa_green_jar_240_gram_herdez |  
 | oomp_word | pencil lipstick princess |  
 | oomp_word_emoji | :pencil: :lipstick: :princess: |  

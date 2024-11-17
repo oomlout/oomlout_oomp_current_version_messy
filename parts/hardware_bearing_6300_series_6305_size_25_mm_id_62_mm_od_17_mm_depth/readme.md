@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 89kom
 * md5_6: d3d8f6
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2089kom)
+[2x1](http://192.168.1.242:1112/?label=oomp%2089kom)
+[6x4](http://192.168.1.55:1112/?label=oomp%2089kom)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ helmet |
 | id_no_color | 25_mm_id_62_mm_od_17_mm_depth |  
 | id_no_size | 6305_size_25_mm_id_62_mm_od_17_mm_depth |  
 | id_no_type | 6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2089kom |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2089kom |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2089kom |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ helmet |
 | name_no_size | 6305 Size 25 mm ID 62 mm OD 17 mm Depth |  
 | name_no_size_short | 6305 Size 25 Mm Id 62 Mm Od 17 Mm Depth |  
 | name_no_type | 6300 Series 6305 Size 25 mm ID 62 mm OD 17 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6305 |  
 | oomlout_short_code_upper | BR6305 |  
 | oomp_key | oomp_hardware_bearing_6300_series_6305_size_25_mm_id_62_mm_od_17_mm_depth |  

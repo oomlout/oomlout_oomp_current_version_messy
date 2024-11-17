@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 2wx5d
 * md5_6: 4ab1d1
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202wx5d)
+[2x1](http://192.168.1.242:1112/?label=oomp%202wx5d)
+[6x4](http://192.168.1.55:1112/?label=oomp%202wx5d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ bridge |
 | id_no_color | 70_mm_id_150_mm_od_63_5_mm_depth |  
 | id_no_size | 5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  
 | id_no_type | 5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202wx5d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202wx5d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202wx5d |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ bridge |
 | name_no_size | 5314 Size 70 mm ID 150 mm OD 63 5 mm Depth |  
 | name_no_size_short | 5314 Size 70 Mm Id 150 Mm Od 63 5 Mm Depth |  
 | name_no_type | 5300 Series 5314 Size 70 mm ID 150 mm OD 63 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5314 |  
 | oomlout_short_code_upper | BR5314 |  
 | oomp_key | oomp_hardware_bearing_5300_series_5314_size_70_mm_id_150_mm_od_63_5_mm_depth |  

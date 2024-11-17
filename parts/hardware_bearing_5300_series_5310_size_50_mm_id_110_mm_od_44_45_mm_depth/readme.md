@@ -29,6 +29,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * md5_6_alpha: 1hu9u
 * md5_6: 265482
 
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201hu9u)
+[2x1](http://192.168.1.242:1112/?label=oomp%201hu9u)
+[6x4](http://192.168.1.55:1112/?label=oomp%201hu9u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth)                             
+
+#### price
+
+
+
+
+
+
+
 ### all codes 
 | key | value |  
 | --- | --- |  
@@ -281,7 +304,14 @@ length |
 | id_no_color | 50_mm_id_110_mm_od_44_45_mm_depth |  
 | id_no_size | 5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
 | id_no_type | 5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201hu9u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201hu9u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201hu9u |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +336,7 @@ length |
 | name_no_size | 5310 Size 50 mm ID 110 mm OD 44 45 mm Depth |  
 | name_no_size_short | 5310 Size 50 Mm Id 110 Mm Od 44 45 Mm Depth |  
 | name_no_type | 5300 Series 5310 Size 50 mm ID 110 mm OD 44 45 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5310 |  
 | oomlout_short_code_upper | BR5310 |  
 | oomp_key | oomp_hardware_bearing_5300_series_5310_size_50_mm_id_110_mm_od_44_45_mm_depth |  
