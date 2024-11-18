@@ -1,3 +1,223 @@
+bip_39_word_dash_1: reason
+bip_39_word_dash_10: reason-ranch-real-coyote-universe-relax-common-apology-begin-permit
+bip_39_word_dash_11: reason-ranch-real-coyote-universe-relax-common-apology-begin-permit-page
+bip_39_word_dash_12: reason-ranch-real-coyote-universe-relax-common-apology-begin-permit-page-acquire
+bip_39_word_dash_2: reason-ranch
+bip_39_word_dash_3: reason-ranch-real
+bip_39_word_dash_4: reason-ranch-real-coyote
+bip_39_word_dash_5: reason-ranch-real-coyote-universe
+bip_39_word_dash_6: reason-ranch-real-coyote-universe-relax
+bip_39_word_dash_7: reason-ranch-real-coyote-universe-relax-common
+bip_39_word_dash_8: reason-ranch-real-coyote-universe-relax-common-apology
+bip_39_word_dash_9: reason-ranch-real-coyote-universe-relax-common-apology-begin
+bip_39_word_new_br_1: reason
+bip_39_word_new_br_10: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit
+bip_39_word_new_br_11: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit<br>page
+bip_39_word_new_br_12: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin<br>permit<br>page<br>acquire
+bip_39_word_new_br_2: reason<br>ranch
+bip_39_word_new_br_3: reason<br>ranch<br>real
+bip_39_word_new_br_4: reason<br>ranch<br>real<br>coyote
+bip_39_word_new_br_5: reason<br>ranch<br>real<br>coyote<br>universe
+bip_39_word_new_br_6: reason<br>ranch<br>real<br>coyote<br>universe<br>relax
+bip_39_word_new_br_7: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common
+bip_39_word_new_br_8: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology
+bip_39_word_new_br_9: reason<br>ranch<br>real<br>coyote<br>universe<br>relax<br>common<br>apology<br>begin
+bip_39_word_new_line_1: reason
+bip_39_word_new_line_10: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common
+
+  apology
+
+  begin
+
+  permit'
+bip_39_word_new_line_11: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common
+
+  apology
+
+  begin
+
+  permit
+
+  page'
+bip_39_word_new_line_12: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common
+
+  apology
+
+  begin
+
+  permit
+
+  page
+
+  acquire'
+bip_39_word_new_line_2: 'reason
+
+  ranch'
+bip_39_word_new_line_3: 'reason
+
+  ranch
+
+  real'
+bip_39_word_new_line_4: 'reason
+
+  ranch
+
+  real
+
+  coyote'
+bip_39_word_new_line_5: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe'
+bip_39_word_new_line_6: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax'
+bip_39_word_new_line_7: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common'
+bip_39_word_new_line_8: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common
+
+  apology'
+bip_39_word_new_line_9: 'reason
+
+  ranch
+
+  real
+
+  coyote
+
+  universe
+
+  relax
+
+  common
+
+  apology
+
+  begin'
+bip_39_word_no_space_1: reason
+bip_39_word_no_space_10: reasonranchrealcoyoteuniverserelaxcommonapologybeginpermit
+bip_39_word_no_space_11: reasonranchrealcoyoteuniverserelaxcommonapologybeginpermitpage
+bip_39_word_no_space_12: reasonranchrealcoyoteuniverserelaxcommonapologybeginpermitpageacquire
+bip_39_word_no_space_2: reasonranch
+bip_39_word_no_space_3: reasonranchreal
+bip_39_word_no_space_4: reasonranchrealcoyote
+bip_39_word_no_space_5: reasonranchrealcoyoteuniverse
+bip_39_word_no_space_6: reasonranchrealcoyoteuniverserelax
+bip_39_word_no_space_7: reasonranchrealcoyoteuniverserelaxcommon
+bip_39_word_no_space_8: reasonranchrealcoyoteuniverserelaxcommonapology
+bip_39_word_no_space_9: reasonranchrealcoyoteuniverserelaxcommonapologybegin
+bip_39_word_space_0:
+- reason
+- ranch
+- real
+- coyote
+- universe
+- relax
+- common
+- apology
+- begin
+- permit
+- page
+- acquire
+bip_39_word_space_1: reason
+bip_39_word_space_10: reason ranch real coyote universe relax common apology begin
+  permit
+bip_39_word_space_11: reason ranch real coyote universe relax common apology begin
+  permit page
+bip_39_word_space_12: reason ranch real coyote universe relax common apology begin
+  permit page acquire
+bip_39_word_space_2: reason ranch
+bip_39_word_space_3: reason ranch real
+bip_39_word_space_4: reason ranch real coyote
+bip_39_word_space_5: reason ranch real coyote universe
+bip_39_word_space_6: reason ranch real coyote universe relax
+bip_39_word_space_7: reason ranch real coyote universe relax common
+bip_39_word_space_8: reason ranch real coyote universe relax common apology
+bip_39_word_space_9: reason ranch real coyote universe relax common apology begin
+bip_39_word_underscore_1: reason
+bip_39_word_underscore_10: reason_ranch_real_coyote_universe_relax_common_apology_begin_permit
+bip_39_word_underscore_11: reason_ranch_real_coyote_universe_relax_common_apology_begin_permit_page
+bip_39_word_underscore_12: reason_ranch_real_coyote_universe_relax_common_apology_begin_permit_page_acquire
+bip_39_word_underscore_2: reason_ranch
+bip_39_word_underscore_3: reason_ranch_real
+bip_39_word_underscore_4: reason_ranch_real_coyote
+bip_39_word_underscore_5: reason_ranch_real_coyote_universe
+bip_39_word_underscore_6: reason_ranch_real_coyote_universe_relax
+bip_39_word_underscore_7: reason_ranch_real_coyote_universe_relax_common
+bip_39_word_underscore_8: reason_ranch_real_coyote_universe_relax_common_apology
+bip_39_word_underscore_9: reason_ranch_real_coyote_universe_relax_common_apology_begin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
 id_no_color: 010936teethshieldshmotorn20
 id_no_size: 01_09__36_teeth_shield_sh_motor_n20
 id_no_type: pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201di3s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201di3s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201di3s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010936Teethshieldshmotorn20
 name_no_size: 01 09  36 Teeth Shield Sh Motor N20
 name_no_size_short: 01 09  36 Teeth Shield Sh Motor N20
 name_no_type: Pulley Gt2 01 09  36 Teeth Shield Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_motor_n20
 oomp_word: kiss cow tram
 oomp_word_emoji: ':kiss: :cow: :tram:'

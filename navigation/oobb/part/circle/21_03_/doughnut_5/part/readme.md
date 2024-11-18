@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Circle 21 03  Doughnut 5
+* name_short: 
 ### id
 * oomp_id: oobb_part_circle_21_03__doughnut_5
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dancer: :cloud: :tv:
 * md5_6_alpha: 13kho
 * md5_6: 1c2b7c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2013kho)
+[2x1](http://192.168.1.242:1112/?label=oomp%2013kho)
+[6x4](http://192.168.1.55:1112/?label=oomp%2013kho)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_21_03__doughnut_5) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_21_03__doughnut_5)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ emotion |
 | id_no_color | 2103doughnut5 |  
 | id_no_size | 21_03__doughnut_5 |  
 | id_no_type | circle_21_03__doughnut_5 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_21_03__doughnut_5 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_21_03__doughnut_5 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_21_03__doughnut_5 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2013kho |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2013kho |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2013kho |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ emotion |
 | name_no_size | 21 03  Doughnut 5 |  
 | name_no_size_short | 21 03  Doughnut 5 |  
 | name_no_type | Circle 21 03  Doughnut 5 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_circle_21_03__doughnut_5 |  
 | oomp_word | dancer cloud tv |  
 | oomp_word_emoji | :dancer: :cloud: :tv: |  

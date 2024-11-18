@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Vegetable Cucumber
+* name_short: 
 ### id
 * oomp_id: food_vegetable_cucumber
   * classification: food

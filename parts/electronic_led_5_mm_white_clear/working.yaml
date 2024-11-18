@@ -1,3 +1,221 @@
+bip_39_word_dash_1: author
+bip_39_word_dash_10: author-then-lock-junior-true-sleep-chat-deer-easy-double
+bip_39_word_dash_11: author-then-lock-junior-true-sleep-chat-deer-easy-double-breeze
+bip_39_word_dash_12: author-then-lock-junior-true-sleep-chat-deer-easy-double-breeze-also
+bip_39_word_dash_2: author-then
+bip_39_word_dash_3: author-then-lock
+bip_39_word_dash_4: author-then-lock-junior
+bip_39_word_dash_5: author-then-lock-junior-true
+bip_39_word_dash_6: author-then-lock-junior-true-sleep
+bip_39_word_dash_7: author-then-lock-junior-true-sleep-chat
+bip_39_word_dash_8: author-then-lock-junior-true-sleep-chat-deer
+bip_39_word_dash_9: author-then-lock-junior-true-sleep-chat-deer-easy
+bip_39_word_new_br_1: author
+bip_39_word_new_br_10: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double
+bip_39_word_new_br_11: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double<br>breeze
+bip_39_word_new_br_12: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy<br>double<br>breeze<br>also
+bip_39_word_new_br_2: author<br>then
+bip_39_word_new_br_3: author<br>then<br>lock
+bip_39_word_new_br_4: author<br>then<br>lock<br>junior
+bip_39_word_new_br_5: author<br>then<br>lock<br>junior<br>true
+bip_39_word_new_br_6: author<br>then<br>lock<br>junior<br>true<br>sleep
+bip_39_word_new_br_7: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat
+bip_39_word_new_br_8: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer
+bip_39_word_new_br_9: author<br>then<br>lock<br>junior<br>true<br>sleep<br>chat<br>deer<br>easy
+bip_39_word_new_line_1: author
+bip_39_word_new_line_10: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat
+
+  deer
+
+  easy
+
+  double'
+bip_39_word_new_line_11: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat
+
+  deer
+
+  easy
+
+  double
+
+  breeze'
+bip_39_word_new_line_12: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat
+
+  deer
+
+  easy
+
+  double
+
+  breeze
+
+  also'
+bip_39_word_new_line_2: 'author
+
+  then'
+bip_39_word_new_line_3: 'author
+
+  then
+
+  lock'
+bip_39_word_new_line_4: 'author
+
+  then
+
+  lock
+
+  junior'
+bip_39_word_new_line_5: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true'
+bip_39_word_new_line_6: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep'
+bip_39_word_new_line_7: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat'
+bip_39_word_new_line_8: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat
+
+  deer'
+bip_39_word_new_line_9: 'author
+
+  then
+
+  lock
+
+  junior
+
+  true
+
+  sleep
+
+  chat
+
+  deer
+
+  easy'
+bip_39_word_no_space_1: author
+bip_39_word_no_space_10: authorthenlockjuniortruesleepchatdeereasydouble
+bip_39_word_no_space_11: authorthenlockjuniortruesleepchatdeereasydoublebreeze
+bip_39_word_no_space_12: authorthenlockjuniortruesleepchatdeereasydoublebreezealso
+bip_39_word_no_space_2: authorthen
+bip_39_word_no_space_3: authorthenlock
+bip_39_word_no_space_4: authorthenlockjunior
+bip_39_word_no_space_5: authorthenlockjuniortrue
+bip_39_word_no_space_6: authorthenlockjuniortruesleep
+bip_39_word_no_space_7: authorthenlockjuniortruesleepchat
+bip_39_word_no_space_8: authorthenlockjuniortruesleepchatdeer
+bip_39_word_no_space_9: authorthenlockjuniortruesleepchatdeereasy
+bip_39_word_space_0:
+- author
+- then
+- lock
+- junior
+- 'true'
+- sleep
+- chat
+- deer
+- easy
+- double
+- breeze
+- also
+bip_39_word_space_1: author
+bip_39_word_space_10: author then lock junior true sleep chat deer easy double
+bip_39_word_space_11: author then lock junior true sleep chat deer easy double breeze
+bip_39_word_space_12: author then lock junior true sleep chat deer easy double breeze
+  also
+bip_39_word_space_2: author then
+bip_39_word_space_3: author then lock
+bip_39_word_space_4: author then lock junior
+bip_39_word_space_5: author then lock junior true
+bip_39_word_space_6: author then lock junior true sleep
+bip_39_word_space_7: author then lock junior true sleep chat
+bip_39_word_space_8: author then lock junior true sleep chat deer
+bip_39_word_space_9: author then lock junior true sleep chat deer easy
+bip_39_word_underscore_1: author
+bip_39_word_underscore_10: author_then_lock_junior_true_sleep_chat_deer_easy_double
+bip_39_word_underscore_11: author_then_lock_junior_true_sleep_chat_deer_easy_double_breeze
+bip_39_word_underscore_12: author_then_lock_junior_true_sleep_chat_deer_easy_double_breeze_also
+bip_39_word_underscore_2: author_then
+bip_39_word_underscore_3: author_then_lock
+bip_39_word_underscore_4: author_then_lock_junior
+bip_39_word_underscore_5: author_then_lock_junior_true
+bip_39_word_underscore_6: author_then_lock_junior_true_sleep
+bip_39_word_underscore_7: author_then_lock_junior_true_sleep_chat
+bip_39_word_underscore_8: author_then_lock_junior_true_sleep_chat_deer
+bip_39_word_underscore_9: author_then_lock_junior_true_sleep_chat_deer_easy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -120,7 +338,14 @@ id_no_color: clear
 id_no_size: white_clear
 id_no_type: 5_mm_white_clear
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white_clear
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_white_clear
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_white_clear
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204j8r4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204j8r4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204j8r4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -146,6 +371,7 @@ name_no_color: Clear
 name_no_size: White Clear
 name_no_size_short: White Clear
 name_no_type: 5 mm White Clear
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_5_mm_white_clear
 oomp_word: fireworks wolf star
 oomp_word_emoji: ':fireworks: :wolf: :star:'

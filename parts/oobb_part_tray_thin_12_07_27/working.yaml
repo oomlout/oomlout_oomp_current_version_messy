@@ -1,3 +1,222 @@
+bip_39_word_dash_1: great
+bip_39_word_dash_10: great-kiss-between-pretty-change-glory-off-demise-emotion-eye
+bip_39_word_dash_11: great-kiss-between-pretty-change-glory-off-demise-emotion-eye-summer
+bip_39_word_dash_12: great-kiss-between-pretty-change-glory-off-demise-emotion-eye-summer-animal
+bip_39_word_dash_2: great-kiss
+bip_39_word_dash_3: great-kiss-between
+bip_39_word_dash_4: great-kiss-between-pretty
+bip_39_word_dash_5: great-kiss-between-pretty-change
+bip_39_word_dash_6: great-kiss-between-pretty-change-glory
+bip_39_word_dash_7: great-kiss-between-pretty-change-glory-off
+bip_39_word_dash_8: great-kiss-between-pretty-change-glory-off-demise
+bip_39_word_dash_9: great-kiss-between-pretty-change-glory-off-demise-emotion
+bip_39_word_new_br_1: great
+bip_39_word_new_br_10: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye
+bip_39_word_new_br_11: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer
+bip_39_word_new_br_12: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion<br>eye<br>summer<br>animal
+bip_39_word_new_br_2: great<br>kiss
+bip_39_word_new_br_3: great<br>kiss<br>between
+bip_39_word_new_br_4: great<br>kiss<br>between<br>pretty
+bip_39_word_new_br_5: great<br>kiss<br>between<br>pretty<br>change
+bip_39_word_new_br_6: great<br>kiss<br>between<br>pretty<br>change<br>glory
+bip_39_word_new_br_7: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off
+bip_39_word_new_br_8: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise
+bip_39_word_new_br_9: great<br>kiss<br>between<br>pretty<br>change<br>glory<br>off<br>demise<br>emotion
+bip_39_word_new_line_1: great
+bip_39_word_new_line_10: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off
+
+  demise
+
+  emotion
+
+  eye'
+bip_39_word_new_line_11: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off
+
+  demise
+
+  emotion
+
+  eye
+
+  summer'
+bip_39_word_new_line_12: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off
+
+  demise
+
+  emotion
+
+  eye
+
+  summer
+
+  animal'
+bip_39_word_new_line_2: 'great
+
+  kiss'
+bip_39_word_new_line_3: 'great
+
+  kiss
+
+  between'
+bip_39_word_new_line_4: 'great
+
+  kiss
+
+  between
+
+  pretty'
+bip_39_word_new_line_5: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change'
+bip_39_word_new_line_6: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory'
+bip_39_word_new_line_7: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off'
+bip_39_word_new_line_8: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off
+
+  demise'
+bip_39_word_new_line_9: 'great
+
+  kiss
+
+  between
+
+  pretty
+
+  change
+
+  glory
+
+  off
+
+  demise
+
+  emotion'
+bip_39_word_no_space_1: great
+bip_39_word_no_space_10: greatkissbetweenprettychangegloryoffdemiseemotioneye
+bip_39_word_no_space_11: greatkissbetweenprettychangegloryoffdemiseemotioneyesummer
+bip_39_word_no_space_12: greatkissbetweenprettychangegloryoffdemiseemotioneyesummeranimal
+bip_39_word_no_space_2: greatkiss
+bip_39_word_no_space_3: greatkissbetween
+bip_39_word_no_space_4: greatkissbetweenpretty
+bip_39_word_no_space_5: greatkissbetweenprettychange
+bip_39_word_no_space_6: greatkissbetweenprettychangeglory
+bip_39_word_no_space_7: greatkissbetweenprettychangegloryoff
+bip_39_word_no_space_8: greatkissbetweenprettychangegloryoffdemise
+bip_39_word_no_space_9: greatkissbetweenprettychangegloryoffdemiseemotion
+bip_39_word_space_0:
+- great
+- kiss
+- between
+- pretty
+- change
+- glory
+- 'off'
+- demise
+- emotion
+- eye
+- summer
+- animal
+bip_39_word_space_1: great
+bip_39_word_space_10: great kiss between pretty change glory off demise emotion eye
+bip_39_word_space_11: great kiss between pretty change glory off demise emotion eye
+  summer
+bip_39_word_space_12: great kiss between pretty change glory off demise emotion eye
+  summer animal
+bip_39_word_space_2: great kiss
+bip_39_word_space_3: great kiss between
+bip_39_word_space_4: great kiss between pretty
+bip_39_word_space_5: great kiss between pretty change
+bip_39_word_space_6: great kiss between pretty change glory
+bip_39_word_space_7: great kiss between pretty change glory off
+bip_39_word_space_8: great kiss between pretty change glory off demise
+bip_39_word_space_9: great kiss between pretty change glory off demise emotion
+bip_39_word_underscore_1: great
+bip_39_word_underscore_10: great_kiss_between_pretty_change_glory_off_demise_emotion_eye
+bip_39_word_underscore_11: great_kiss_between_pretty_change_glory_off_demise_emotion_eye_summer
+bip_39_word_underscore_12: great_kiss_between_pretty_change_glory_off_demise_emotion_eye_summer_animal
+bip_39_word_underscore_2: great_kiss
+bip_39_word_underscore_3: great_kiss_between
+bip_39_word_underscore_4: great_kiss_between_pretty
+bip_39_word_underscore_5: great_kiss_between_pretty_change
+bip_39_word_underscore_6: great_kiss_between_pretty_change_glory
+bip_39_word_underscore_7: great_kiss_between_pretty_change_glory_off
+bip_39_word_underscore_8: great_kiss_between_pretty_change_glory_off_demise
+bip_39_word_underscore_9: great_kiss_between_pretty_change_glory_off_demise_emotion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_07_27
 id_no_color: '120727'
 id_no_size: '12_07_27'
 id_no_type: tray_thin_12_07_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_07_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205onkk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205onkk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205onkk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120727'
 name_no_size: 12 07 27
 name_no_size_short: 12 07 27
 name_no_type: Tray Thin 12 07 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_07_27
 oomp_word: pushpin handbag whale
 oomp_word_emoji: ':pushpin: :handbag: :whale:'

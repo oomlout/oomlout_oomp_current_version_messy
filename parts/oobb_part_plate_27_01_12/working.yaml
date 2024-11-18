@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cloud
+bip_39_word_dash_10: cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude
+bip_39_word_dash_11: cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude-pond
+bip_39_word_dash_12: cloud-tube-pigeon-round-armor-control-attack-govern-harsh-rude-pond-actress
+bip_39_word_dash_2: cloud-tube
+bip_39_word_dash_3: cloud-tube-pigeon
+bip_39_word_dash_4: cloud-tube-pigeon-round
+bip_39_word_dash_5: cloud-tube-pigeon-round-armor
+bip_39_word_dash_6: cloud-tube-pigeon-round-armor-control
+bip_39_word_dash_7: cloud-tube-pigeon-round-armor-control-attack
+bip_39_word_dash_8: cloud-tube-pigeon-round-armor-control-attack-govern
+bip_39_word_dash_9: cloud-tube-pigeon-round-armor-control-attack-govern-harsh
+bip_39_word_new_br_1: cloud
+bip_39_word_new_br_10: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude
+bip_39_word_new_br_11: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude<br>pond
+bip_39_word_new_br_12: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh<br>rude<br>pond<br>actress
+bip_39_word_new_br_2: cloud<br>tube
+bip_39_word_new_br_3: cloud<br>tube<br>pigeon
+bip_39_word_new_br_4: cloud<br>tube<br>pigeon<br>round
+bip_39_word_new_br_5: cloud<br>tube<br>pigeon<br>round<br>armor
+bip_39_word_new_br_6: cloud<br>tube<br>pigeon<br>round<br>armor<br>control
+bip_39_word_new_br_7: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack
+bip_39_word_new_br_8: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern
+bip_39_word_new_br_9: cloud<br>tube<br>pigeon<br>round<br>armor<br>control<br>attack<br>govern<br>harsh
+bip_39_word_new_line_1: cloud
+bip_39_word_new_line_10: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack
+
+  govern
+
+  harsh
+
+  rude'
+bip_39_word_new_line_11: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack
+
+  govern
+
+  harsh
+
+  rude
+
+  pond'
+bip_39_word_new_line_12: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack
+
+  govern
+
+  harsh
+
+  rude
+
+  pond
+
+  actress'
+bip_39_word_new_line_2: 'cloud
+
+  tube'
+bip_39_word_new_line_3: 'cloud
+
+  tube
+
+  pigeon'
+bip_39_word_new_line_4: 'cloud
+
+  tube
+
+  pigeon
+
+  round'
+bip_39_word_new_line_5: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor'
+bip_39_word_new_line_6: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control'
+bip_39_word_new_line_7: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack'
+bip_39_word_new_line_8: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack
+
+  govern'
+bip_39_word_new_line_9: 'cloud
+
+  tube
+
+  pigeon
+
+  round
+
+  armor
+
+  control
+
+  attack
+
+  govern
+
+  harsh'
+bip_39_word_no_space_1: cloud
+bip_39_word_no_space_10: cloudtubepigeonroundarmorcontrolattackgovernharshrude
+bip_39_word_no_space_11: cloudtubepigeonroundarmorcontrolattackgovernharshrudepond
+bip_39_word_no_space_12: cloudtubepigeonroundarmorcontrolattackgovernharshrudepondactress
+bip_39_word_no_space_2: cloudtube
+bip_39_word_no_space_3: cloudtubepigeon
+bip_39_word_no_space_4: cloudtubepigeonround
+bip_39_word_no_space_5: cloudtubepigeonroundarmor
+bip_39_word_no_space_6: cloudtubepigeonroundarmorcontrol
+bip_39_word_no_space_7: cloudtubepigeonroundarmorcontrolattack
+bip_39_word_no_space_8: cloudtubepigeonroundarmorcontrolattackgovern
+bip_39_word_no_space_9: cloudtubepigeonroundarmorcontrolattackgovernharsh
+bip_39_word_space_0:
+- cloud
+- tube
+- pigeon
+- round
+- armor
+- control
+- attack
+- govern
+- harsh
+- rude
+- pond
+- actress
+bip_39_word_space_1: cloud
+bip_39_word_space_10: cloud tube pigeon round armor control attack govern harsh rude
+bip_39_word_space_11: cloud tube pigeon round armor control attack govern harsh rude
+  pond
+bip_39_word_space_12: cloud tube pigeon round armor control attack govern harsh rude
+  pond actress
+bip_39_word_space_2: cloud tube
+bip_39_word_space_3: cloud tube pigeon
+bip_39_word_space_4: cloud tube pigeon round
+bip_39_word_space_5: cloud tube pigeon round armor
+bip_39_word_space_6: cloud tube pigeon round armor control
+bip_39_word_space_7: cloud tube pigeon round armor control attack
+bip_39_word_space_8: cloud tube pigeon round armor control attack govern
+bip_39_word_space_9: cloud tube pigeon round armor control attack govern harsh
+bip_39_word_underscore_1: cloud
+bip_39_word_underscore_10: cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude
+bip_39_word_underscore_11: cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude_pond
+bip_39_word_underscore_12: cloud_tube_pigeon_round_armor_control_attack_govern_harsh_rude_pond_actress
+bip_39_word_underscore_2: cloud_tube
+bip_39_word_underscore_3: cloud_tube_pigeon
+bip_39_word_underscore_4: cloud_tube_pigeon_round
+bip_39_word_underscore_5: cloud_tube_pigeon_round_armor
+bip_39_word_underscore_6: cloud_tube_pigeon_round_armor_control
+bip_39_word_underscore_7: cloud_tube_pigeon_round_armor_control_attack
+bip_39_word_underscore_8: cloud_tube_pigeon_round_armor_control_attack_govern
+bip_39_word_underscore_9: cloud_tube_pigeon_round_armor_control_attack_govern_harsh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_27_01_12
 id_no_color: '270112'
 id_no_size: '27_01_12'
 id_no_type: plate_27_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_27_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_27_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201rnan
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201rnan
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201rnan
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '270112'
 name_no_size: 27 01 12
 name_no_size_short: 27 01 12
 name_no_type: Plate 27 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_27_01_12
 oomp_word: snowman ant tophat
 oomp_word_emoji: ':snowman: :ant: :tophat:'

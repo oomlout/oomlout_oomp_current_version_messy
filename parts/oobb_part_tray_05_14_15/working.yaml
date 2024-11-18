@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ritual
+bip_39_word_dash_10: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune
+bip_39_word_dash_11: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune-extend
+bip_39_word_dash_12: ritual-elevator-rent-duty-breeze-mammal-small-actress-west-immune-extend-accident
+bip_39_word_dash_2: ritual-elevator
+bip_39_word_dash_3: ritual-elevator-rent
+bip_39_word_dash_4: ritual-elevator-rent-duty
+bip_39_word_dash_5: ritual-elevator-rent-duty-breeze
+bip_39_word_dash_6: ritual-elevator-rent-duty-breeze-mammal
+bip_39_word_dash_7: ritual-elevator-rent-duty-breeze-mammal-small
+bip_39_word_dash_8: ritual-elevator-rent-duty-breeze-mammal-small-actress
+bip_39_word_dash_9: ritual-elevator-rent-duty-breeze-mammal-small-actress-west
+bip_39_word_new_br_1: ritual
+bip_39_word_new_br_10: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune
+bip_39_word_new_br_11: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune<br>extend
+bip_39_word_new_br_12: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west<br>immune<br>extend<br>accident
+bip_39_word_new_br_2: ritual<br>elevator
+bip_39_word_new_br_3: ritual<br>elevator<br>rent
+bip_39_word_new_br_4: ritual<br>elevator<br>rent<br>duty
+bip_39_word_new_br_5: ritual<br>elevator<br>rent<br>duty<br>breeze
+bip_39_word_new_br_6: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal
+bip_39_word_new_br_7: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small
+bip_39_word_new_br_8: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress
+bip_39_word_new_br_9: ritual<br>elevator<br>rent<br>duty<br>breeze<br>mammal<br>small<br>actress<br>west
+bip_39_word_new_line_1: ritual
+bip_39_word_new_line_10: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small
+
+  actress
+
+  west
+
+  immune'
+bip_39_word_new_line_11: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small
+
+  actress
+
+  west
+
+  immune
+
+  extend'
+bip_39_word_new_line_12: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small
+
+  actress
+
+  west
+
+  immune
+
+  extend
+
+  accident'
+bip_39_word_new_line_2: 'ritual
+
+  elevator'
+bip_39_word_new_line_3: 'ritual
+
+  elevator
+
+  rent'
+bip_39_word_new_line_4: 'ritual
+
+  elevator
+
+  rent
+
+  duty'
+bip_39_word_new_line_5: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze'
+bip_39_word_new_line_6: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal'
+bip_39_word_new_line_7: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small'
+bip_39_word_new_line_8: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small
+
+  actress'
+bip_39_word_new_line_9: 'ritual
+
+  elevator
+
+  rent
+
+  duty
+
+  breeze
+
+  mammal
+
+  small
+
+  actress
+
+  west'
+bip_39_word_no_space_1: ritual
+bip_39_word_no_space_10: ritualelevatorrentdutybreezemammalsmallactresswestimmune
+bip_39_word_no_space_11: ritualelevatorrentdutybreezemammalsmallactresswestimmuneextend
+bip_39_word_no_space_12: ritualelevatorrentdutybreezemammalsmallactresswestimmuneextendaccident
+bip_39_word_no_space_2: ritualelevator
+bip_39_word_no_space_3: ritualelevatorrent
+bip_39_word_no_space_4: ritualelevatorrentduty
+bip_39_word_no_space_5: ritualelevatorrentdutybreeze
+bip_39_word_no_space_6: ritualelevatorrentdutybreezemammal
+bip_39_word_no_space_7: ritualelevatorrentdutybreezemammalsmall
+bip_39_word_no_space_8: ritualelevatorrentdutybreezemammalsmallactress
+bip_39_word_no_space_9: ritualelevatorrentdutybreezemammalsmallactresswest
+bip_39_word_space_0:
+- ritual
+- elevator
+- rent
+- duty
+- breeze
+- mammal
+- small
+- actress
+- west
+- immune
+- extend
+- accident
+bip_39_word_space_1: ritual
+bip_39_word_space_10: ritual elevator rent duty breeze mammal small actress west immune
+bip_39_word_space_11: ritual elevator rent duty breeze mammal small actress west immune
+  extend
+bip_39_word_space_12: ritual elevator rent duty breeze mammal small actress west immune
+  extend accident
+bip_39_word_space_2: ritual elevator
+bip_39_word_space_3: ritual elevator rent
+bip_39_word_space_4: ritual elevator rent duty
+bip_39_word_space_5: ritual elevator rent duty breeze
+bip_39_word_space_6: ritual elevator rent duty breeze mammal
+bip_39_word_space_7: ritual elevator rent duty breeze mammal small
+bip_39_word_space_8: ritual elevator rent duty breeze mammal small actress
+bip_39_word_space_9: ritual elevator rent duty breeze mammal small actress west
+bip_39_word_underscore_1: ritual
+bip_39_word_underscore_10: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune
+bip_39_word_underscore_11: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune_extend
+bip_39_word_underscore_12: ritual_elevator_rent_duty_breeze_mammal_small_actress_west_immune_extend_accident
+bip_39_word_underscore_2: ritual_elevator
+bip_39_word_underscore_3: ritual_elevator_rent
+bip_39_word_underscore_4: ritual_elevator_rent_duty
+bip_39_word_underscore_5: ritual_elevator_rent_duty_breeze
+bip_39_word_underscore_6: ritual_elevator_rent_duty_breeze_mammal
+bip_39_word_underscore_7: ritual_elevator_rent_duty_breeze_mammal_small
+bip_39_word_underscore_8: ritual_elevator_rent_duty_breeze_mammal_small_actress
+bip_39_word_underscore_9: ritual_elevator_rent_duty_breeze_mammal_small_actress_west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_14_15
 id_no_color: '051415'
 id_no_size: '05_14_15'
 id_no_type: tray_05_14_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_14_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_14_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_14_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20vsgs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20vsgs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20vsgs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '051415'
 name_no_size: 05 14 15
 name_no_size_short: 05 14 15
 name_no_type: Tray 05 14 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_14_15
 oomp_word: thumbsup trophy factory
 oomp_word_emoji: ':thumbsup: :trophy: :factory:'

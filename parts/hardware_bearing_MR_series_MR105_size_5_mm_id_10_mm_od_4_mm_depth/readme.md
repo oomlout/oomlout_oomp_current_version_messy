@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr105 Size 5 mm ID 10 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR105_size_5_mm_id_10_mm_od_4_mm_depth
   * classification: hardware

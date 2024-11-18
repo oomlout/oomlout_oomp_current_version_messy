@@ -1,3 +1,223 @@
+bip_39_word_dash_1: aunt
+bip_39_word_dash_10: aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick
+bip_39_word_dash_11: aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick-yard
+bip_39_word_dash_12: aunt-toddler-artwork-limit-morning-normal-length-orange-loan-kick-yard-afford
+bip_39_word_dash_2: aunt-toddler
+bip_39_word_dash_3: aunt-toddler-artwork
+bip_39_word_dash_4: aunt-toddler-artwork-limit
+bip_39_word_dash_5: aunt-toddler-artwork-limit-morning
+bip_39_word_dash_6: aunt-toddler-artwork-limit-morning-normal
+bip_39_word_dash_7: aunt-toddler-artwork-limit-morning-normal-length
+bip_39_word_dash_8: aunt-toddler-artwork-limit-morning-normal-length-orange
+bip_39_word_dash_9: aunt-toddler-artwork-limit-morning-normal-length-orange-loan
+bip_39_word_new_br_1: aunt
+bip_39_word_new_br_10: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick
+bip_39_word_new_br_11: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick<br>yard
+bip_39_word_new_br_12: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan<br>kick<br>yard<br>afford
+bip_39_word_new_br_2: aunt<br>toddler
+bip_39_word_new_br_3: aunt<br>toddler<br>artwork
+bip_39_word_new_br_4: aunt<br>toddler<br>artwork<br>limit
+bip_39_word_new_br_5: aunt<br>toddler<br>artwork<br>limit<br>morning
+bip_39_word_new_br_6: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal
+bip_39_word_new_br_7: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length
+bip_39_word_new_br_8: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange
+bip_39_word_new_br_9: aunt<br>toddler<br>artwork<br>limit<br>morning<br>normal<br>length<br>orange<br>loan
+bip_39_word_new_line_1: aunt
+bip_39_word_new_line_10: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length
+
+  orange
+
+  loan
+
+  kick'
+bip_39_word_new_line_11: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length
+
+  orange
+
+  loan
+
+  kick
+
+  yard'
+bip_39_word_new_line_12: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length
+
+  orange
+
+  loan
+
+  kick
+
+  yard
+
+  afford'
+bip_39_word_new_line_2: 'aunt
+
+  toddler'
+bip_39_word_new_line_3: 'aunt
+
+  toddler
+
+  artwork'
+bip_39_word_new_line_4: 'aunt
+
+  toddler
+
+  artwork
+
+  limit'
+bip_39_word_new_line_5: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning'
+bip_39_word_new_line_6: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal'
+bip_39_word_new_line_7: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length'
+bip_39_word_new_line_8: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length
+
+  orange'
+bip_39_word_new_line_9: 'aunt
+
+  toddler
+
+  artwork
+
+  limit
+
+  morning
+
+  normal
+
+  length
+
+  orange
+
+  loan'
+bip_39_word_no_space_1: aunt
+bip_39_word_no_space_10: aunttoddlerartworklimitmorningnormallengthorangeloankick
+bip_39_word_no_space_11: aunttoddlerartworklimitmorningnormallengthorangeloankickyard
+bip_39_word_no_space_12: aunttoddlerartworklimitmorningnormallengthorangeloankickyardafford
+bip_39_word_no_space_2: aunttoddler
+bip_39_word_no_space_3: aunttoddlerartwork
+bip_39_word_no_space_4: aunttoddlerartworklimit
+bip_39_word_no_space_5: aunttoddlerartworklimitmorning
+bip_39_word_no_space_6: aunttoddlerartworklimitmorningnormal
+bip_39_word_no_space_7: aunttoddlerartworklimitmorningnormallength
+bip_39_word_no_space_8: aunttoddlerartworklimitmorningnormallengthorange
+bip_39_word_no_space_9: aunttoddlerartworklimitmorningnormallengthorangeloan
+bip_39_word_space_0:
+- aunt
+- toddler
+- artwork
+- limit
+- morning
+- normal
+- length
+- orange
+- loan
+- kick
+- yard
+- afford
+bip_39_word_space_1: aunt
+bip_39_word_space_10: aunt toddler artwork limit morning normal length orange loan
+  kick
+bip_39_word_space_11: aunt toddler artwork limit morning normal length orange loan
+  kick yard
+bip_39_word_space_12: aunt toddler artwork limit morning normal length orange loan
+  kick yard afford
+bip_39_word_space_2: aunt toddler
+bip_39_word_space_3: aunt toddler artwork
+bip_39_word_space_4: aunt toddler artwork limit
+bip_39_word_space_5: aunt toddler artwork limit morning
+bip_39_word_space_6: aunt toddler artwork limit morning normal
+bip_39_word_space_7: aunt toddler artwork limit morning normal length
+bip_39_word_space_8: aunt toddler artwork limit morning normal length orange
+bip_39_word_space_9: aunt toddler artwork limit morning normal length orange loan
+bip_39_word_underscore_1: aunt
+bip_39_word_underscore_10: aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick
+bip_39_word_underscore_11: aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick_yard
+bip_39_word_underscore_12: aunt_toddler_artwork_limit_morning_normal_length_orange_loan_kick_yard_afford
+bip_39_word_underscore_2: aunt_toddler
+bip_39_word_underscore_3: aunt_toddler_artwork
+bip_39_word_underscore_4: aunt_toddler_artwork_limit
+bip_39_word_underscore_5: aunt_toddler_artwork_limit_morning
+bip_39_word_underscore_6: aunt_toddler_artwork_limit_morning_normal
+bip_39_word_underscore_7: aunt_toddler_artwork_limit_morning_normal_length
+bip_39_word_underscore_8: aunt_toddler_artwork_limit_morning_normal_length_orange
+bip_39_word_underscore_9: aunt_toddler_artwork_limit_morning_normal_length_orange_loan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_bearing_hardware_bearing_6828
 id_no_color: hardware6828
 id_no_size: hardware_6828
 id_no_type: bearing_hardware_bearing_6828
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6828
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6828
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6828
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202t4f2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202t4f2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202t4f2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardware6828
 name_no_size: Hardware 6828
 name_no_size_short: Hardware 6k8
 name_no_type: Bearing Hardware Bearing 6828
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6828
 oomp_word: baby_chick parking clubs
 oomp_word_emoji: ':baby_chick: :parking: :clubs:'

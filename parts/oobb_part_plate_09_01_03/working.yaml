@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mirror
+bip_39_word_dash_10: mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth
+bip_39_word_dash_11: mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth-ethics
+bip_39_word_dash_12: mirror-window-bright-work-chest-friend-fold-stomach-palace-cloth-ethics-admit
+bip_39_word_dash_2: mirror-window
+bip_39_word_dash_3: mirror-window-bright
+bip_39_word_dash_4: mirror-window-bright-work
+bip_39_word_dash_5: mirror-window-bright-work-chest
+bip_39_word_dash_6: mirror-window-bright-work-chest-friend
+bip_39_word_dash_7: mirror-window-bright-work-chest-friend-fold
+bip_39_word_dash_8: mirror-window-bright-work-chest-friend-fold-stomach
+bip_39_word_dash_9: mirror-window-bright-work-chest-friend-fold-stomach-palace
+bip_39_word_new_br_1: mirror
+bip_39_word_new_br_10: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth
+bip_39_word_new_br_11: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics
+bip_39_word_new_br_12: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace<br>cloth<br>ethics<br>admit
+bip_39_word_new_br_2: mirror<br>window
+bip_39_word_new_br_3: mirror<br>window<br>bright
+bip_39_word_new_br_4: mirror<br>window<br>bright<br>work
+bip_39_word_new_br_5: mirror<br>window<br>bright<br>work<br>chest
+bip_39_word_new_br_6: mirror<br>window<br>bright<br>work<br>chest<br>friend
+bip_39_word_new_br_7: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold
+bip_39_word_new_br_8: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach
+bip_39_word_new_br_9: mirror<br>window<br>bright<br>work<br>chest<br>friend<br>fold<br>stomach<br>palace
+bip_39_word_new_line_1: mirror
+bip_39_word_new_line_10: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold
+
+  stomach
+
+  palace
+
+  cloth'
+bip_39_word_new_line_11: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold
+
+  stomach
+
+  palace
+
+  cloth
+
+  ethics'
+bip_39_word_new_line_12: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold
+
+  stomach
+
+  palace
+
+  cloth
+
+  ethics
+
+  admit'
+bip_39_word_new_line_2: 'mirror
+
+  window'
+bip_39_word_new_line_3: 'mirror
+
+  window
+
+  bright'
+bip_39_word_new_line_4: 'mirror
+
+  window
+
+  bright
+
+  work'
+bip_39_word_new_line_5: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest'
+bip_39_word_new_line_6: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend'
+bip_39_word_new_line_7: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold'
+bip_39_word_new_line_8: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold
+
+  stomach'
+bip_39_word_new_line_9: 'mirror
+
+  window
+
+  bright
+
+  work
+
+  chest
+
+  friend
+
+  fold
+
+  stomach
+
+  palace'
+bip_39_word_no_space_1: mirror
+bip_39_word_no_space_10: mirrorwindowbrightworkchestfriendfoldstomachpalacecloth
+bip_39_word_no_space_11: mirrorwindowbrightworkchestfriendfoldstomachpalaceclothethics
+bip_39_word_no_space_12: mirrorwindowbrightworkchestfriendfoldstomachpalaceclothethicsadmit
+bip_39_word_no_space_2: mirrorwindow
+bip_39_word_no_space_3: mirrorwindowbright
+bip_39_word_no_space_4: mirrorwindowbrightwork
+bip_39_word_no_space_5: mirrorwindowbrightworkchest
+bip_39_word_no_space_6: mirrorwindowbrightworkchestfriend
+bip_39_word_no_space_7: mirrorwindowbrightworkchestfriendfold
+bip_39_word_no_space_8: mirrorwindowbrightworkchestfriendfoldstomach
+bip_39_word_no_space_9: mirrorwindowbrightworkchestfriendfoldstomachpalace
+bip_39_word_space_0:
+- mirror
+- window
+- bright
+- work
+- chest
+- friend
+- fold
+- stomach
+- palace
+- cloth
+- ethics
+- admit
+bip_39_word_space_1: mirror
+bip_39_word_space_10: mirror window bright work chest friend fold stomach palace cloth
+bip_39_word_space_11: mirror window bright work chest friend fold stomach palace cloth
+  ethics
+bip_39_word_space_12: mirror window bright work chest friend fold stomach palace cloth
+  ethics admit
+bip_39_word_space_2: mirror window
+bip_39_word_space_3: mirror window bright
+bip_39_word_space_4: mirror window bright work
+bip_39_word_space_5: mirror window bright work chest
+bip_39_word_space_6: mirror window bright work chest friend
+bip_39_word_space_7: mirror window bright work chest friend fold
+bip_39_word_space_8: mirror window bright work chest friend fold stomach
+bip_39_word_space_9: mirror window bright work chest friend fold stomach palace
+bip_39_word_underscore_1: mirror
+bip_39_word_underscore_10: mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth
+bip_39_word_underscore_11: mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth_ethics
+bip_39_word_underscore_12: mirror_window_bright_work_chest_friend_fold_stomach_palace_cloth_ethics_admit
+bip_39_word_underscore_2: mirror_window
+bip_39_word_underscore_3: mirror_window_bright
+bip_39_word_underscore_4: mirror_window_bright_work
+bip_39_word_underscore_5: mirror_window_bright_work_chest
+bip_39_word_underscore_6: mirror_window_bright_work_chest_friend
+bip_39_word_underscore_7: mirror_window_bright_work_chest_friend_fold
+bip_39_word_underscore_8: mirror_window_bright_work_chest_friend_fold_stomach
+bip_39_word_underscore_9: mirror_window_bright_work_chest_friend_fold_stomach_palace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_09_01_03
 id_no_color: 090103
 id_no_size: 09_01_03
 id_no_type: plate_09_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202abm2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202abm2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202abm2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090103
 name_no_size: 09 01 03
 name_no_size_short: 09 01 03
 name_no_type: Plate 09 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_01_03
 oomp_word: koala ski chicken
 oomp_word_emoji: ':koala: :ski: :chicken:'

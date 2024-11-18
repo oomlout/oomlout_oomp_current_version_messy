@@ -1,3 +1,223 @@
+bip_39_word_dash_1: envelope
+bip_39_word_dash_10: envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover
+bip_39_word_dash_11: envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover-strong
+bip_39_word_dash_12: envelope-bone-bacon-project-resist-neither-stage-medal-tumble-hover-strong-anxiety
+bip_39_word_dash_2: envelope-bone
+bip_39_word_dash_3: envelope-bone-bacon
+bip_39_word_dash_4: envelope-bone-bacon-project
+bip_39_word_dash_5: envelope-bone-bacon-project-resist
+bip_39_word_dash_6: envelope-bone-bacon-project-resist-neither
+bip_39_word_dash_7: envelope-bone-bacon-project-resist-neither-stage
+bip_39_word_dash_8: envelope-bone-bacon-project-resist-neither-stage-medal
+bip_39_word_dash_9: envelope-bone-bacon-project-resist-neither-stage-medal-tumble
+bip_39_word_new_br_1: envelope
+bip_39_word_new_br_10: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble<br>hover
+bip_39_word_new_br_11: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble<br>hover<br>strong
+bip_39_word_new_br_12: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble<br>hover<br>strong<br>anxiety
+bip_39_word_new_br_2: envelope<br>bone
+bip_39_word_new_br_3: envelope<br>bone<br>bacon
+bip_39_word_new_br_4: envelope<br>bone<br>bacon<br>project
+bip_39_word_new_br_5: envelope<br>bone<br>bacon<br>project<br>resist
+bip_39_word_new_br_6: envelope<br>bone<br>bacon<br>project<br>resist<br>neither
+bip_39_word_new_br_7: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage
+bip_39_word_new_br_8: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal
+bip_39_word_new_br_9: envelope<br>bone<br>bacon<br>project<br>resist<br>neither<br>stage<br>medal<br>tumble
+bip_39_word_new_line_1: envelope
+bip_39_word_new_line_10: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage
+
+  medal
+
+  tumble
+
+  hover'
+bip_39_word_new_line_11: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage
+
+  medal
+
+  tumble
+
+  hover
+
+  strong'
+bip_39_word_new_line_12: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage
+
+  medal
+
+  tumble
+
+  hover
+
+  strong
+
+  anxiety'
+bip_39_word_new_line_2: 'envelope
+
+  bone'
+bip_39_word_new_line_3: 'envelope
+
+  bone
+
+  bacon'
+bip_39_word_new_line_4: 'envelope
+
+  bone
+
+  bacon
+
+  project'
+bip_39_word_new_line_5: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist'
+bip_39_word_new_line_6: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither'
+bip_39_word_new_line_7: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage'
+bip_39_word_new_line_8: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage
+
+  medal'
+bip_39_word_new_line_9: 'envelope
+
+  bone
+
+  bacon
+
+  project
+
+  resist
+
+  neither
+
+  stage
+
+  medal
+
+  tumble'
+bip_39_word_no_space_1: envelope
+bip_39_word_no_space_10: envelopebonebaconprojectresistneitherstagemedaltumblehover
+bip_39_word_no_space_11: envelopebonebaconprojectresistneitherstagemedaltumblehoverstrong
+bip_39_word_no_space_12: envelopebonebaconprojectresistneitherstagemedaltumblehoverstronganxiety
+bip_39_word_no_space_2: envelopebone
+bip_39_word_no_space_3: envelopebonebacon
+bip_39_word_no_space_4: envelopebonebaconproject
+bip_39_word_no_space_5: envelopebonebaconprojectresist
+bip_39_word_no_space_6: envelopebonebaconprojectresistneither
+bip_39_word_no_space_7: envelopebonebaconprojectresistneitherstage
+bip_39_word_no_space_8: envelopebonebaconprojectresistneitherstagemedal
+bip_39_word_no_space_9: envelopebonebaconprojectresistneitherstagemedaltumble
+bip_39_word_space_0:
+- envelope
+- bone
+- bacon
+- project
+- resist
+- neither
+- stage
+- medal
+- tumble
+- hover
+- strong
+- anxiety
+bip_39_word_space_1: envelope
+bip_39_word_space_10: envelope bone bacon project resist neither stage medal tumble
+  hover
+bip_39_word_space_11: envelope bone bacon project resist neither stage medal tumble
+  hover strong
+bip_39_word_space_12: envelope bone bacon project resist neither stage medal tumble
+  hover strong anxiety
+bip_39_word_space_2: envelope bone
+bip_39_word_space_3: envelope bone bacon
+bip_39_word_space_4: envelope bone bacon project
+bip_39_word_space_5: envelope bone bacon project resist
+bip_39_word_space_6: envelope bone bacon project resist neither
+bip_39_word_space_7: envelope bone bacon project resist neither stage
+bip_39_word_space_8: envelope bone bacon project resist neither stage medal
+bip_39_word_space_9: envelope bone bacon project resist neither stage medal tumble
+bip_39_word_underscore_1: envelope
+bip_39_word_underscore_10: envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover
+bip_39_word_underscore_11: envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover_strong
+bip_39_word_underscore_12: envelope_bone_bacon_project_resist_neither_stage_medal_tumble_hover_strong_anxiety
+bip_39_word_underscore_2: envelope_bone
+bip_39_word_underscore_3: envelope_bone_bacon
+bip_39_word_underscore_4: envelope_bone_bacon_project
+bip_39_word_underscore_5: envelope_bone_bacon_project_resist
+bip_39_word_underscore_6: envelope_bone_bacon_project_resist_neither
+bip_39_word_underscore_7: envelope_bone_bacon_project_resist_neither_stage
+bip_39_word_underscore_8: envelope_bone_bacon_project_resist_neither_stage_medal
+bip_39_word_underscore_9: envelope_bone_bacon_project_resist_neither_stage_medal_tumble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_vertical_01_01_12
 id_no_color: '010112'
 id_no_size: '01_01_12'
 id_no_type: tray_vertical_01_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_01_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_01_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_01_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206b3vf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206b3vf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206b3vf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010112'
 name_no_size: 01 01 12
 name_no_size_short: 01 01 12
 name_no_type: Tray Vertical 01 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_01_01_12
 oomp_word: trophy jeans rooster
 oomp_word_emoji: ':trophy: :jeans: :rooster:'

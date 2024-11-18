@@ -1,3 +1,221 @@
+bip_39_word_dash_1: harbor
+bip_39_word_dash_10: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth
+bip_39_word_dash_11: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth-finger
+bip_39_word_dash_12: harbor-pledge-trash-patrol-neutral-mad-song-park-fee-worth-finger-august
+bip_39_word_dash_2: harbor-pledge
+bip_39_word_dash_3: harbor-pledge-trash
+bip_39_word_dash_4: harbor-pledge-trash-patrol
+bip_39_word_dash_5: harbor-pledge-trash-patrol-neutral
+bip_39_word_dash_6: harbor-pledge-trash-patrol-neutral-mad
+bip_39_word_dash_7: harbor-pledge-trash-patrol-neutral-mad-song
+bip_39_word_dash_8: harbor-pledge-trash-patrol-neutral-mad-song-park
+bip_39_word_dash_9: harbor-pledge-trash-patrol-neutral-mad-song-park-fee
+bip_39_word_new_br_1: harbor
+bip_39_word_new_br_10: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth
+bip_39_word_new_br_11: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth<br>finger
+bip_39_word_new_br_12: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee<br>worth<br>finger<br>august
+bip_39_word_new_br_2: harbor<br>pledge
+bip_39_word_new_br_3: harbor<br>pledge<br>trash
+bip_39_word_new_br_4: harbor<br>pledge<br>trash<br>patrol
+bip_39_word_new_br_5: harbor<br>pledge<br>trash<br>patrol<br>neutral
+bip_39_word_new_br_6: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad
+bip_39_word_new_br_7: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song
+bip_39_word_new_br_8: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park
+bip_39_word_new_br_9: harbor<br>pledge<br>trash<br>patrol<br>neutral<br>mad<br>song<br>park<br>fee
+bip_39_word_new_line_1: harbor
+bip_39_word_new_line_10: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song
+
+  park
+
+  fee
+
+  worth'
+bip_39_word_new_line_11: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song
+
+  park
+
+  fee
+
+  worth
+
+  finger'
+bip_39_word_new_line_12: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song
+
+  park
+
+  fee
+
+  worth
+
+  finger
+
+  august'
+bip_39_word_new_line_2: 'harbor
+
+  pledge'
+bip_39_word_new_line_3: 'harbor
+
+  pledge
+
+  trash'
+bip_39_word_new_line_4: 'harbor
+
+  pledge
+
+  trash
+
+  patrol'
+bip_39_word_new_line_5: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral'
+bip_39_word_new_line_6: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad'
+bip_39_word_new_line_7: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song'
+bip_39_word_new_line_8: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song
+
+  park'
+bip_39_word_new_line_9: 'harbor
+
+  pledge
+
+  trash
+
+  patrol
+
+  neutral
+
+  mad
+
+  song
+
+  park
+
+  fee'
+bip_39_word_no_space_1: harbor
+bip_39_word_no_space_10: harborpledgetrashpatrolneutralmadsongparkfeeworth
+bip_39_word_no_space_11: harborpledgetrashpatrolneutralmadsongparkfeeworthfinger
+bip_39_word_no_space_12: harborpledgetrashpatrolneutralmadsongparkfeeworthfingeraugust
+bip_39_word_no_space_2: harborpledge
+bip_39_word_no_space_3: harborpledgetrash
+bip_39_word_no_space_4: harborpledgetrashpatrol
+bip_39_word_no_space_5: harborpledgetrashpatrolneutral
+bip_39_word_no_space_6: harborpledgetrashpatrolneutralmad
+bip_39_word_no_space_7: harborpledgetrashpatrolneutralmadsong
+bip_39_word_no_space_8: harborpledgetrashpatrolneutralmadsongpark
+bip_39_word_no_space_9: harborpledgetrashpatrolneutralmadsongparkfee
+bip_39_word_space_0:
+- harbor
+- pledge
+- trash
+- patrol
+- neutral
+- mad
+- song
+- park
+- fee
+- worth
+- finger
+- august
+bip_39_word_space_1: harbor
+bip_39_word_space_10: harbor pledge trash patrol neutral mad song park fee worth
+bip_39_word_space_11: harbor pledge trash patrol neutral mad song park fee worth finger
+bip_39_word_space_12: harbor pledge trash patrol neutral mad song park fee worth finger
+  august
+bip_39_word_space_2: harbor pledge
+bip_39_word_space_3: harbor pledge trash
+bip_39_word_space_4: harbor pledge trash patrol
+bip_39_word_space_5: harbor pledge trash patrol neutral
+bip_39_word_space_6: harbor pledge trash patrol neutral mad
+bip_39_word_space_7: harbor pledge trash patrol neutral mad song
+bip_39_word_space_8: harbor pledge trash patrol neutral mad song park
+bip_39_word_space_9: harbor pledge trash patrol neutral mad song park fee
+bip_39_word_underscore_1: harbor
+bip_39_word_underscore_10: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth
+bip_39_word_underscore_11: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth_finger
+bip_39_word_underscore_12: harbor_pledge_trash_patrol_neutral_mad_song_park_fee_worth_finger_august
+bip_39_word_underscore_2: harbor_pledge
+bip_39_word_underscore_3: harbor_pledge_trash
+bip_39_word_underscore_4: harbor_pledge_trash_patrol
+bip_39_word_underscore_5: harbor_pledge_trash_patrol_neutral
+bip_39_word_underscore_6: harbor_pledge_trash_patrol_neutral_mad
+bip_39_word_underscore_7: harbor_pledge_trash_patrol_neutral_mad_song
+bip_39_word_underscore_8: harbor_pledge_trash_patrol_neutral_mad_song_park
+bip_39_word_underscore_9: harbor_pledge_trash_patrol_neutral_mad_song_park_fee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_15_12_27
 id_no_color: '151227'
 id_no_size: '15_12_27'
 id_no_type: tray_thin_15_12_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_12_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_12_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_12_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209gvsv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209gvsv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209gvsv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '151227'
 name_no_size: 15 12 27
 name_no_size_short: 15 12 27
 name_no_type: Tray Thin 15 12 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_12_27
 oomp_word: one dress trident
 oomp_word_emoji: ':one: :dress: :trident:'

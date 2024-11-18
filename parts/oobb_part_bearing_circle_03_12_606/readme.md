@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Circle 03 12 606
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_circle_03_12_606
   * classification: oobb

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: grief
+bip_39_word_dash_10: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune
+bip_39_word_dash_11: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune-earn
+bip_39_word_dash_12: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly-immune-earn-argue
+bip_39_word_dash_2: grief-ordinary
+bip_39_word_dash_3: grief-ordinary-resist
+bip_39_word_dash_4: grief-ordinary-resist-corn
+bip_39_word_dash_5: grief-ordinary-resist-corn-eagle
+bip_39_word_dash_6: grief-ordinary-resist-corn-eagle-craft
+bip_39_word_dash_7: grief-ordinary-resist-corn-eagle-craft-injury
+bip_39_word_dash_8: grief-ordinary-resist-corn-eagle-craft-injury-mad
+bip_39_word_dash_9: grief-ordinary-resist-corn-eagle-craft-injury-mad-fly
+bip_39_word_new_br_1: grief
+bip_39_word_new_br_10: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune
+bip_39_word_new_br_11: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune<br>earn
+bip_39_word_new_br_12: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly<br>immune<br>earn<br>argue
+bip_39_word_new_br_2: grief<br>ordinary
+bip_39_word_new_br_3: grief<br>ordinary<br>resist
+bip_39_word_new_br_4: grief<br>ordinary<br>resist<br>corn
+bip_39_word_new_br_5: grief<br>ordinary<br>resist<br>corn<br>eagle
+bip_39_word_new_br_6: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft
+bip_39_word_new_br_7: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury
+bip_39_word_new_br_8: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad
+bip_39_word_new_br_9: grief<br>ordinary<br>resist<br>corn<br>eagle<br>craft<br>injury<br>mad<br>fly
+bip_39_word_new_line_1: grief
+bip_39_word_new_line_10: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury
+
+  mad
+
+  fly
+
+  immune'
+bip_39_word_new_line_11: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury
+
+  mad
+
+  fly
+
+  immune
+
+  earn'
+bip_39_word_new_line_12: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury
+
+  mad
+
+  fly
+
+  immune
+
+  earn
+
+  argue'
+bip_39_word_new_line_2: 'grief
+
+  ordinary'
+bip_39_word_new_line_3: 'grief
+
+  ordinary
+
+  resist'
+bip_39_word_new_line_4: 'grief
+
+  ordinary
+
+  resist
+
+  corn'
+bip_39_word_new_line_5: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle'
+bip_39_word_new_line_6: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft'
+bip_39_word_new_line_7: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury'
+bip_39_word_new_line_8: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury
+
+  mad'
+bip_39_word_new_line_9: 'grief
+
+  ordinary
+
+  resist
+
+  corn
+
+  eagle
+
+  craft
+
+  injury
+
+  mad
+
+  fly'
+bip_39_word_no_space_1: grief
+bip_39_word_no_space_10: griefordinaryresistcorneaglecraftinjurymadflyimmune
+bip_39_word_no_space_11: griefordinaryresistcorneaglecraftinjurymadflyimmuneearn
+bip_39_word_no_space_12: griefordinaryresistcorneaglecraftinjurymadflyimmuneearnargue
+bip_39_word_no_space_2: griefordinary
+bip_39_word_no_space_3: griefordinaryresist
+bip_39_word_no_space_4: griefordinaryresistcorn
+bip_39_word_no_space_5: griefordinaryresistcorneagle
+bip_39_word_no_space_6: griefordinaryresistcorneaglecraft
+bip_39_word_no_space_7: griefordinaryresistcorneaglecraftinjury
+bip_39_word_no_space_8: griefordinaryresistcorneaglecraftinjurymad
+bip_39_word_no_space_9: griefordinaryresistcorneaglecraftinjurymadfly
+bip_39_word_space_0:
+- grief
+- ordinary
+- resist
+- corn
+- eagle
+- craft
+- injury
+- mad
+- fly
+- immune
+- earn
+- argue
+bip_39_word_space_1: grief
+bip_39_word_space_10: grief ordinary resist corn eagle craft injury mad fly immune
+bip_39_word_space_11: grief ordinary resist corn eagle craft injury mad fly immune
+  earn
+bip_39_word_space_12: grief ordinary resist corn eagle craft injury mad fly immune
+  earn argue
+bip_39_word_space_2: grief ordinary
+bip_39_word_space_3: grief ordinary resist
+bip_39_word_space_4: grief ordinary resist corn
+bip_39_word_space_5: grief ordinary resist corn eagle
+bip_39_word_space_6: grief ordinary resist corn eagle craft
+bip_39_word_space_7: grief ordinary resist corn eagle craft injury
+bip_39_word_space_8: grief ordinary resist corn eagle craft injury mad
+bip_39_word_space_9: grief ordinary resist corn eagle craft injury mad fly
+bip_39_word_underscore_1: grief
+bip_39_word_underscore_10: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune
+bip_39_word_underscore_11: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune_earn
+bip_39_word_underscore_12: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly_immune_earn_argue
+bip_39_word_underscore_2: grief_ordinary
+bip_39_word_underscore_3: grief_ordinary_resist
+bip_39_word_underscore_4: grief_ordinary_resist_corn
+bip_39_word_underscore_5: grief_ordinary_resist_corn_eagle
+bip_39_word_underscore_6: grief_ordinary_resist_corn_eagle_craft
+bip_39_word_underscore_7: grief_ordinary_resist_corn_eagle_craft_injury
+bip_39_word_underscore_8: grief_ordinary_resist_corn_eagle_craft_injury_mad
+bip_39_word_underscore_9: grief_ordinary_resist_corn_eagle_craft_injury_mad_fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_01_01_90
 id_no_color: 010190
 id_no_size: 01_01_90
 id_no_type: tray_vertical_01_01_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_01_01_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_01_01_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_01_01_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20777vg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20777vg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20777vg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 010190
 name_no_size: 01 01 90
 name_no_size_short: 01 01 90
 name_no_type: Tray Vertical 01 01 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_01_01_90
 oomp_word: hamburger envelope spades
 oomp_word_emoji: ':hamburger: :envelope: :spades:'

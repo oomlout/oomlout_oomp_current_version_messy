@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bowling: :beetle: :herb:
 * md5_6_alpha: 5zcrr
 * md5_6: 995067
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205zcrr)
+[2x1](http://192.168.1.242:1112/?label=oomp%205zcrr)
+[6x4](http://192.168.1.55:1112/?label=oomp%205zcrr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ athlete |
 | id_no_color | 131314nm8mmtapewidthon10mmreel15mmtapethickness1d5 |  
 | id_no_size | 13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
 | id_no_type | smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205zcrr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205zcrr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205zcrr |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ athlete |
 | name_no_size | 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5 |  
 | name_no_size_short | 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness  1D5 |  
 | name_no_type | SMD Magazine 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
 | oomp_word | bowling beetle herb |  
 | oomp_word_emoji | :bowling: :beetle: :herb: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster
+bip_39_word_dash_11: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster-exact
+bip_39_word_dash_12: reward-uncover-report-fish-address-retire-try-rebel-duty-oyster-exact-angry
+bip_39_word_dash_2: reward-uncover
+bip_39_word_dash_3: reward-uncover-report
+bip_39_word_dash_4: reward-uncover-report-fish
+bip_39_word_dash_5: reward-uncover-report-fish-address
+bip_39_word_dash_6: reward-uncover-report-fish-address-retire
+bip_39_word_dash_7: reward-uncover-report-fish-address-retire-try
+bip_39_word_dash_8: reward-uncover-report-fish-address-retire-try-rebel
+bip_39_word_dash_9: reward-uncover-report-fish-address-retire-try-rebel-duty
+bip_39_word_new_br_1: reward
+bip_39_word_new_br_10: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster
+bip_39_word_new_br_11: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact
+bip_39_word_new_br_12: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty<br>oyster<br>exact<br>angry
+bip_39_word_new_br_2: reward<br>uncover
+bip_39_word_new_br_3: reward<br>uncover<br>report
+bip_39_word_new_br_4: reward<br>uncover<br>report<br>fish
+bip_39_word_new_br_5: reward<br>uncover<br>report<br>fish<br>address
+bip_39_word_new_br_6: reward<br>uncover<br>report<br>fish<br>address<br>retire
+bip_39_word_new_br_7: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try
+bip_39_word_new_br_8: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel
+bip_39_word_new_br_9: reward<br>uncover<br>report<br>fish<br>address<br>retire<br>try<br>rebel<br>duty
+bip_39_word_new_line_1: reward
+bip_39_word_new_line_10: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try
+
+  rebel
+
+  duty
+
+  oyster'
+bip_39_word_new_line_11: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try
+
+  rebel
+
+  duty
+
+  oyster
+
+  exact'
+bip_39_word_new_line_12: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try
+
+  rebel
+
+  duty
+
+  oyster
+
+  exact
+
+  angry'
+bip_39_word_new_line_2: 'reward
+
+  uncover'
+bip_39_word_new_line_3: 'reward
+
+  uncover
+
+  report'
+bip_39_word_new_line_4: 'reward
+
+  uncover
+
+  report
+
+  fish'
+bip_39_word_new_line_5: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address'
+bip_39_word_new_line_6: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire'
+bip_39_word_new_line_7: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try'
+bip_39_word_new_line_8: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try
+
+  rebel'
+bip_39_word_new_line_9: 'reward
+
+  uncover
+
+  report
+
+  fish
+
+  address
+
+  retire
+
+  try
+
+  rebel
+
+  duty'
+bip_39_word_no_space_1: reward
+bip_39_word_no_space_10: rewarduncoverreportfishaddressretiretryrebeldutyoyster
+bip_39_word_no_space_11: rewarduncoverreportfishaddressretiretryrebeldutyoysterexact
+bip_39_word_no_space_12: rewarduncoverreportfishaddressretiretryrebeldutyoysterexactangry
+bip_39_word_no_space_2: rewarduncover
+bip_39_word_no_space_3: rewarduncoverreport
+bip_39_word_no_space_4: rewarduncoverreportfish
+bip_39_word_no_space_5: rewarduncoverreportfishaddress
+bip_39_word_no_space_6: rewarduncoverreportfishaddressretire
+bip_39_word_no_space_7: rewarduncoverreportfishaddressretiretry
+bip_39_word_no_space_8: rewarduncoverreportfishaddressretiretryrebel
+bip_39_word_no_space_9: rewarduncoverreportfishaddressretiretryrebelduty
+bip_39_word_space_0:
+- reward
+- uncover
+- report
+- fish
+- address
+- retire
+- try
+- rebel
+- duty
+- oyster
+- exact
+- angry
+bip_39_word_space_1: reward
+bip_39_word_space_10: reward uncover report fish address retire try rebel duty oyster
+bip_39_word_space_11: reward uncover report fish address retire try rebel duty oyster
+  exact
+bip_39_word_space_12: reward uncover report fish address retire try rebel duty oyster
+  exact angry
+bip_39_word_space_2: reward uncover
+bip_39_word_space_3: reward uncover report
+bip_39_word_space_4: reward uncover report fish
+bip_39_word_space_5: reward uncover report fish address
+bip_39_word_space_6: reward uncover report fish address retire
+bip_39_word_space_7: reward uncover report fish address retire try
+bip_39_word_space_8: reward uncover report fish address retire try rebel
+bip_39_word_space_9: reward uncover report fish address retire try rebel duty
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster
+bip_39_word_underscore_11: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster_exact
+bip_39_word_underscore_12: reward_uncover_report_fish_address_retire_try_rebel_duty_oyster_exact_angry
+bip_39_word_underscore_2: reward_uncover
+bip_39_word_underscore_3: reward_uncover_report
+bip_39_word_underscore_4: reward_uncover_report_fish
+bip_39_word_underscore_5: reward_uncover_report_fish_address
+bip_39_word_underscore_6: reward_uncover_report_fish_address_retire
+bip_39_word_underscore_7: reward_uncover_report_fish_address_retire_try
+bip_39_word_underscore_8: reward_uncover_report_fish_address_retire_try_rebel
+bip_39_word_underscore_9: reward_uncover_report_fish_address_retire_try_rebel_duty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 15_mm_length
 id_no_size: red_15_mm_length
 id_no_type: 32_mm_internal_diameter_red_15_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_red_15_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_red_15_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_red_15_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205kbl3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205kbl3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205kbl3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,7 @@ name_no_color: 15 mm Length
 name_no_size: Red 15 mm Length
 name_no_size_short: Red 15 Mm Length
 name_no_type: 32 mm Internal Diameter Red 15 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_red_15_mm_length
 oomp_word: clipboard spades guitar
 oomp_word_emoji: ':clipboard: :spades: :guitar:'

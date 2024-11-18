@@ -1,3 +1,223 @@
+bip_39_word_dash_1: squeeze
+bip_39_word_dash_10: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve
+bip_39_word_dash_11: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve-response
+bip_39_word_dash_12: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass-approve-response-analyst
+bip_39_word_dash_2: squeeze-struggle
+bip_39_word_dash_3: squeeze-struggle-laugh
+bip_39_word_dash_4: squeeze-struggle-laugh-injury
+bip_39_word_dash_5: squeeze-struggle-laugh-injury-afford
+bip_39_word_dash_6: squeeze-struggle-laugh-injury-afford-matter
+bip_39_word_dash_7: squeeze-struggle-laugh-injury-afford-matter-float
+bip_39_word_dash_8: squeeze-struggle-laugh-injury-afford-matter-float-dentist
+bip_39_word_dash_9: squeeze-struggle-laugh-injury-afford-matter-float-dentist-mass
+bip_39_word_new_br_1: squeeze
+bip_39_word_new_br_10: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve
+bip_39_word_new_br_11: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response
+bip_39_word_new_br_12: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass<br>approve<br>response<br>analyst
+bip_39_word_new_br_2: squeeze<br>struggle
+bip_39_word_new_br_3: squeeze<br>struggle<br>laugh
+bip_39_word_new_br_4: squeeze<br>struggle<br>laugh<br>injury
+bip_39_word_new_br_5: squeeze<br>struggle<br>laugh<br>injury<br>afford
+bip_39_word_new_br_6: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter
+bip_39_word_new_br_7: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float
+bip_39_word_new_br_8: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist
+bip_39_word_new_br_9: squeeze<br>struggle<br>laugh<br>injury<br>afford<br>matter<br>float<br>dentist<br>mass
+bip_39_word_new_line_1: squeeze
+bip_39_word_new_line_10: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float
+
+  dentist
+
+  mass
+
+  approve'
+bip_39_word_new_line_11: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float
+
+  dentist
+
+  mass
+
+  approve
+
+  response'
+bip_39_word_new_line_12: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float
+
+  dentist
+
+  mass
+
+  approve
+
+  response
+
+  analyst'
+bip_39_word_new_line_2: 'squeeze
+
+  struggle'
+bip_39_word_new_line_3: 'squeeze
+
+  struggle
+
+  laugh'
+bip_39_word_new_line_4: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury'
+bip_39_word_new_line_5: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford'
+bip_39_word_new_line_6: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter'
+bip_39_word_new_line_7: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float'
+bip_39_word_new_line_8: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float
+
+  dentist'
+bip_39_word_new_line_9: 'squeeze
+
+  struggle
+
+  laugh
+
+  injury
+
+  afford
+
+  matter
+
+  float
+
+  dentist
+
+  mass'
+bip_39_word_no_space_1: squeeze
+bip_39_word_no_space_10: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapprove
+bip_39_word_no_space_11: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponse
+bip_39_word_no_space_12: squeezestrugglelaughinjuryaffordmatterfloatdentistmassapproveresponseanalyst
+bip_39_word_no_space_2: squeezestruggle
+bip_39_word_no_space_3: squeezestrugglelaugh
+bip_39_word_no_space_4: squeezestrugglelaughinjury
+bip_39_word_no_space_5: squeezestrugglelaughinjuryafford
+bip_39_word_no_space_6: squeezestrugglelaughinjuryaffordmatter
+bip_39_word_no_space_7: squeezestrugglelaughinjuryaffordmatterfloat
+bip_39_word_no_space_8: squeezestrugglelaughinjuryaffordmatterfloatdentist
+bip_39_word_no_space_9: squeezestrugglelaughinjuryaffordmatterfloatdentistmass
+bip_39_word_space_0:
+- squeeze
+- struggle
+- laugh
+- injury
+- afford
+- matter
+- float
+- dentist
+- mass
+- approve
+- response
+- analyst
+bip_39_word_space_1: squeeze
+bip_39_word_space_10: squeeze struggle laugh injury afford matter float dentist mass
+  approve
+bip_39_word_space_11: squeeze struggle laugh injury afford matter float dentist mass
+  approve response
+bip_39_word_space_12: squeeze struggle laugh injury afford matter float dentist mass
+  approve response analyst
+bip_39_word_space_2: squeeze struggle
+bip_39_word_space_3: squeeze struggle laugh
+bip_39_word_space_4: squeeze struggle laugh injury
+bip_39_word_space_5: squeeze struggle laugh injury afford
+bip_39_word_space_6: squeeze struggle laugh injury afford matter
+bip_39_word_space_7: squeeze struggle laugh injury afford matter float
+bip_39_word_space_8: squeeze struggle laugh injury afford matter float dentist
+bip_39_word_space_9: squeeze struggle laugh injury afford matter float dentist mass
+bip_39_word_underscore_1: squeeze
+bip_39_word_underscore_10: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve
+bip_39_word_underscore_11: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve_response
+bip_39_word_underscore_12: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass_approve_response_analyst
+bip_39_word_underscore_2: squeeze_struggle
+bip_39_word_underscore_3: squeeze_struggle_laugh
+bip_39_word_underscore_4: squeeze_struggle_laugh_injury
+bip_39_word_underscore_5: squeeze_struggle_laugh_injury_afford
+bip_39_word_underscore_6: squeeze_struggle_laugh_injury_afford_matter
+bip_39_word_underscore_7: squeeze_struggle_laugh_injury_afford_matter_float
+bip_39_word_underscore_8: squeeze_struggle_laugh_injury_afford_matter_float_dentist
+bip_39_word_underscore_9: squeeze_struggle_laugh_injury_afford_matter_float_dentist_mass
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +316,14 @@ id_no_color: 2700ohm
 id_no_size: 2700_ohm
 id_no_type: 1206_2700_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_2700_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_2700_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_2700_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2057fia
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2057fia
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2057fia
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +377,7 @@ name_no_color: 2700Ohm
 name_no_size: 2700 Ohm
 name_no_size_short: 2k7 Ohm
 name_no_type: 1206 2700 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_2700_ohm
 oomp_word: bulb moon sheep
 oomp_word_emoji: ':bulb: :moon: :sheep:'

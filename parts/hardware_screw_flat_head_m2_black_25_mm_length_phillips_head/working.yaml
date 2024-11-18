@@ -1,3 +1,221 @@
+bip_39_word_dash_1: clutch
+bip_39_word_dash_10: clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide
+bip_39_word_dash_11: clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide-canal
+bip_39_word_dash_12: clutch-fetch-lawn-select-mouse-hood-dash-sand-frown-guide-canal-ask
+bip_39_word_dash_2: clutch-fetch
+bip_39_word_dash_3: clutch-fetch-lawn
+bip_39_word_dash_4: clutch-fetch-lawn-select
+bip_39_word_dash_5: clutch-fetch-lawn-select-mouse
+bip_39_word_dash_6: clutch-fetch-lawn-select-mouse-hood
+bip_39_word_dash_7: clutch-fetch-lawn-select-mouse-hood-dash
+bip_39_word_dash_8: clutch-fetch-lawn-select-mouse-hood-dash-sand
+bip_39_word_dash_9: clutch-fetch-lawn-select-mouse-hood-dash-sand-frown
+bip_39_word_new_br_1: clutch
+bip_39_word_new_br_10: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide
+bip_39_word_new_br_11: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide<br>canal
+bip_39_word_new_br_12: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown<br>guide<br>canal<br>ask
+bip_39_word_new_br_2: clutch<br>fetch
+bip_39_word_new_br_3: clutch<br>fetch<br>lawn
+bip_39_word_new_br_4: clutch<br>fetch<br>lawn<br>select
+bip_39_word_new_br_5: clutch<br>fetch<br>lawn<br>select<br>mouse
+bip_39_word_new_br_6: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood
+bip_39_word_new_br_7: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash
+bip_39_word_new_br_8: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand
+bip_39_word_new_br_9: clutch<br>fetch<br>lawn<br>select<br>mouse<br>hood<br>dash<br>sand<br>frown
+bip_39_word_new_line_1: clutch
+bip_39_word_new_line_10: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash
+
+  sand
+
+  frown
+
+  guide'
+bip_39_word_new_line_11: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash
+
+  sand
+
+  frown
+
+  guide
+
+  canal'
+bip_39_word_new_line_12: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash
+
+  sand
+
+  frown
+
+  guide
+
+  canal
+
+  ask'
+bip_39_word_new_line_2: 'clutch
+
+  fetch'
+bip_39_word_new_line_3: 'clutch
+
+  fetch
+
+  lawn'
+bip_39_word_new_line_4: 'clutch
+
+  fetch
+
+  lawn
+
+  select'
+bip_39_word_new_line_5: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse'
+bip_39_word_new_line_6: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood'
+bip_39_word_new_line_7: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash'
+bip_39_word_new_line_8: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash
+
+  sand'
+bip_39_word_new_line_9: 'clutch
+
+  fetch
+
+  lawn
+
+  select
+
+  mouse
+
+  hood
+
+  dash
+
+  sand
+
+  frown'
+bip_39_word_no_space_1: clutch
+bip_39_word_no_space_10: clutchfetchlawnselectmousehooddashsandfrownguide
+bip_39_word_no_space_11: clutchfetchlawnselectmousehooddashsandfrownguidecanal
+bip_39_word_no_space_12: clutchfetchlawnselectmousehooddashsandfrownguidecanalask
+bip_39_word_no_space_2: clutchfetch
+bip_39_word_no_space_3: clutchfetchlawn
+bip_39_word_no_space_4: clutchfetchlawnselect
+bip_39_word_no_space_5: clutchfetchlawnselectmouse
+bip_39_word_no_space_6: clutchfetchlawnselectmousehood
+bip_39_word_no_space_7: clutchfetchlawnselectmousehooddash
+bip_39_word_no_space_8: clutchfetchlawnselectmousehooddashsand
+bip_39_word_no_space_9: clutchfetchlawnselectmousehooddashsandfrown
+bip_39_word_space_0:
+- clutch
+- fetch
+- lawn
+- select
+- mouse
+- hood
+- dash
+- sand
+- frown
+- guide
+- canal
+- ask
+bip_39_word_space_1: clutch
+bip_39_word_space_10: clutch fetch lawn select mouse hood dash sand frown guide
+bip_39_word_space_11: clutch fetch lawn select mouse hood dash sand frown guide canal
+bip_39_word_space_12: clutch fetch lawn select mouse hood dash sand frown guide canal
+  ask
+bip_39_word_space_2: clutch fetch
+bip_39_word_space_3: clutch fetch lawn
+bip_39_word_space_4: clutch fetch lawn select
+bip_39_word_space_5: clutch fetch lawn select mouse
+bip_39_word_space_6: clutch fetch lawn select mouse hood
+bip_39_word_space_7: clutch fetch lawn select mouse hood dash
+bip_39_word_space_8: clutch fetch lawn select mouse hood dash sand
+bip_39_word_space_9: clutch fetch lawn select mouse hood dash sand frown
+bip_39_word_underscore_1: clutch
+bip_39_word_underscore_10: clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide
+bip_39_word_underscore_11: clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide_canal
+bip_39_word_underscore_12: clutch_fetch_lawn_select_mouse_hood_dash_sand_frown_guide_canal_ask
+bip_39_word_underscore_2: clutch_fetch
+bip_39_word_underscore_3: clutch_fetch_lawn
+bip_39_word_underscore_4: clutch_fetch_lawn_select
+bip_39_word_underscore_5: clutch_fetch_lawn_select_mouse
+bip_39_word_underscore_6: clutch_fetch_lawn_select_mouse_hood
+bip_39_word_underscore_7: clutch_fetch_lawn_select_mouse_hood_dash
+bip_39_word_underscore_8: clutch_fetch_lawn_select_mouse_hood_dash_sand
+bip_39_word_underscore_9: clutch_fetch_lawn_select_mouse_hood_dash_sand_frown
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +351,14 @@ id_no_color: 25_mm_length_phillips_head
 id_no_size: black_25_mm_length_phillips_head
 id_no_type: m2_black_25_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_black_25_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_black_25_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_black_25_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208a5g9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208a5g9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208a5g9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +384,26 @@ name_no_color: 25 mm Length Phillips Head
 name_no_size: Black 25 mm Length Phillips Head
 name_no_size_short: Black 25 Mm Length Phillips Head
 name_no_type: M2 Black 25 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 8a5
+oomlout_bolt_md5_6_alpha_first_3_upper: 8A5
+oomlout_bolt_md5_6_alpha_last_3: g9
+oomlout_bolt_md5_6_alpha_last_3_upper: G9
+oomlout_bolt_md5_6_first_3: d44
+oomlout_bolt_md5_6_first_3_upper: D44
+oomlout_bolt_md5_6_last_3: '219'
+oomlout_bolt_md5_6_last_3_upper: '219'
+oomlout_bolt_name: Flat Head M2X25 mm Black (Phillips)
+oomlout_bolt_size: M2
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2b25p
+oomlout_short_code_upper: FH2B25P
 oomp_key: oomp_hardware_screw_flat_head_m2_black_25_mm_length_phillips_head
 oomp_word: corn sheep pray
 oomp_word_emoji: ':corn: :sheep: :pray:'

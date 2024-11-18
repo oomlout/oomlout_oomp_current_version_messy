@@ -325,8 +325,15 @@ id_no_class: filament_1_75_mm_pla_aqua_reel_3dqf
 id_no_color: reel_3dqf
 id_no_size: pla_aqua_reel_3dqf
 id_no_type: 1_75_mm_pla_aqua_reel_3dqf
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf
+link_2_name: github_link
 link_buy: https://www.3dqf.co.uk/product-page/aqua-1-75mm-uk-made-3d-printer-filament
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201zyu8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201zyu8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201zyu8
 link_purchase: https://www.3dqf.co.uk/product-page/aqua-1-75mm-uk-made-3d-printer-filament
 manufacturer: 3dqf
 manufacturer_capital: 3Dqf
@@ -377,6 +384,7 @@ name_no_color: Reel 3Dqf
 name_no_size: Pla Aqua Reel 3Dqf
 name_no_size_short: Pla Aqua Reel 3Dqf
 name_no_type: 1 75 mm Pla Aqua Reel 3Dqf
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_filament_1_75_mm_pla_aqua_reel_3dqf
 oomp_word: dog pig skull
 oomp_word_emoji: ':dog: :pig: :skull:'

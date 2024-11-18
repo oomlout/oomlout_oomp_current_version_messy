@@ -1,3 +1,222 @@
+bip_39_word_dash_1: quick
+bip_39_word_dash_10: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle
+bip_39_word_dash_11: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle-fork
+bip_39_word_dash_12: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop-muscle-fork-acoustic
+bip_39_word_dash_2: quick-fiction
+bip_39_word_dash_3: quick-fiction-unveil
+bip_39_word_dash_4: quick-fiction-unveil-clump
+bip_39_word_dash_5: quick-fiction-unveil-clump-repair
+bip_39_word_dash_6: quick-fiction-unveil-clump-repair-quit
+bip_39_word_dash_7: quick-fiction-unveil-clump-repair-quit-cube
+bip_39_word_dash_8: quick-fiction-unveil-clump-repair-quit-cube-leaf
+bip_39_word_dash_9: quick-fiction-unveil-clump-repair-quit-cube-leaf-develop
+bip_39_word_new_br_1: quick
+bip_39_word_new_br_10: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle
+bip_39_word_new_br_11: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle<br>fork
+bip_39_word_new_br_12: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop<br>muscle<br>fork<br>acoustic
+bip_39_word_new_br_2: quick<br>fiction
+bip_39_word_new_br_3: quick<br>fiction<br>unveil
+bip_39_word_new_br_4: quick<br>fiction<br>unveil<br>clump
+bip_39_word_new_br_5: quick<br>fiction<br>unveil<br>clump<br>repair
+bip_39_word_new_br_6: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit
+bip_39_word_new_br_7: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube
+bip_39_word_new_br_8: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf
+bip_39_word_new_br_9: quick<br>fiction<br>unveil<br>clump<br>repair<br>quit<br>cube<br>leaf<br>develop
+bip_39_word_new_line_1: quick
+bip_39_word_new_line_10: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube
+
+  leaf
+
+  develop
+
+  muscle'
+bip_39_word_new_line_11: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube
+
+  leaf
+
+  develop
+
+  muscle
+
+  fork'
+bip_39_word_new_line_12: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube
+
+  leaf
+
+  develop
+
+  muscle
+
+  fork
+
+  acoustic'
+bip_39_word_new_line_2: 'quick
+
+  fiction'
+bip_39_word_new_line_3: 'quick
+
+  fiction
+
+  unveil'
+bip_39_word_new_line_4: 'quick
+
+  fiction
+
+  unveil
+
+  clump'
+bip_39_word_new_line_5: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair'
+bip_39_word_new_line_6: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit'
+bip_39_word_new_line_7: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube'
+bip_39_word_new_line_8: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube
+
+  leaf'
+bip_39_word_new_line_9: 'quick
+
+  fiction
+
+  unveil
+
+  clump
+
+  repair
+
+  quit
+
+  cube
+
+  leaf
+
+  develop'
+bip_39_word_no_space_1: quick
+bip_39_word_no_space_10: quickfictionunveilclumprepairquitcubeleafdevelopmuscle
+bip_39_word_no_space_11: quickfictionunveilclumprepairquitcubeleafdevelopmusclefork
+bip_39_word_no_space_12: quickfictionunveilclumprepairquitcubeleafdevelopmuscleforkacoustic
+bip_39_word_no_space_2: quickfiction
+bip_39_word_no_space_3: quickfictionunveil
+bip_39_word_no_space_4: quickfictionunveilclump
+bip_39_word_no_space_5: quickfictionunveilclumprepair
+bip_39_word_no_space_6: quickfictionunveilclumprepairquit
+bip_39_word_no_space_7: quickfictionunveilclumprepairquitcube
+bip_39_word_no_space_8: quickfictionunveilclumprepairquitcubeleaf
+bip_39_word_no_space_9: quickfictionunveilclumprepairquitcubeleafdevelop
+bip_39_word_space_0:
+- quick
+- fiction
+- unveil
+- clump
+- repair
+- quit
+- cube
+- leaf
+- develop
+- muscle
+- fork
+- acoustic
+bip_39_word_space_1: quick
+bip_39_word_space_10: quick fiction unveil clump repair quit cube leaf develop muscle
+bip_39_word_space_11: quick fiction unveil clump repair quit cube leaf develop muscle
+  fork
+bip_39_word_space_12: quick fiction unveil clump repair quit cube leaf develop muscle
+  fork acoustic
+bip_39_word_space_2: quick fiction
+bip_39_word_space_3: quick fiction unveil
+bip_39_word_space_4: quick fiction unveil clump
+bip_39_word_space_5: quick fiction unveil clump repair
+bip_39_word_space_6: quick fiction unveil clump repair quit
+bip_39_word_space_7: quick fiction unveil clump repair quit cube
+bip_39_word_space_8: quick fiction unveil clump repair quit cube leaf
+bip_39_word_space_9: quick fiction unveil clump repair quit cube leaf develop
+bip_39_word_underscore_1: quick
+bip_39_word_underscore_10: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle
+bip_39_word_underscore_11: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle_fork
+bip_39_word_underscore_12: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop_muscle_fork_acoustic
+bip_39_word_underscore_2: quick_fiction
+bip_39_word_underscore_3: quick_fiction_unveil
+bip_39_word_underscore_4: quick_fiction_unveil_clump
+bip_39_word_underscore_5: quick_fiction_unveil_clump_repair
+bip_39_word_underscore_6: quick_fiction_unveil_clump_repair_quit
+bip_39_word_underscore_7: quick_fiction_unveil_clump_repair_quit_cube
+bip_39_word_underscore_8: quick_fiction_unveil_clump_repair_quit_cube_leaf
+bip_39_word_underscore_9: quick_fiction_unveil_clump_repair_quit_cube_leaf_develop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_07_03__56_teeth
 id_no_color: 070356teeth
 id_no_size: 07_03__56_teeth
 id_no_type: gear_07_03__56_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019yas
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019yas
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019yas
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 070356Teeth
 name_no_size: 07 03  56 Teeth
 name_no_size_short: 07 03  56 Teeth
 name_no_type: Gear 07 03  56 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_03__56_teeth
 oomp_word: skull beer anchor
 oomp_word_emoji: ':skull: :beer: :anchor:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Shaft 01  Washer
+* name_short: 
 ### id
 * oomp_id: oobb_part_shaft_01__washer
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :doughnut: :bird: :zap:
 * md5_6_alpha: 7jhgu
 * md5_6: c1462e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207jhgu)
+[2x1](http://192.168.1.242:1112/?label=oomp%207jhgu)
+[6x4](http://192.168.1.55:1112/?label=oomp%207jhgu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__washer) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01__washer)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ mass |
 | id_no_color | 01washer |  
 | id_no_size | 01__washer |  
 | id_no_type | shaft_01__washer |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__washer |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01__washer |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__washer |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207jhgu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207jhgu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207jhgu |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ mass |
 | name_no_size | 01  Washer |  
 | name_no_size_short | 1  Washer |  
 | name_no_type | Shaft 01  Washer |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_01__washer |  
 | oomp_word | doughnut bird zap |  
 | oomp_word_emoji | :doughnut: :bird: :zap: |  

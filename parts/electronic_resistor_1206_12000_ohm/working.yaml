@@ -1,3 +1,222 @@
+bip_39_word_dash_1: arm
+bip_39_word_dash_10: arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error
+bip_39_word_dash_11: arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error-order
+bip_39_word_dash_12: arm-valve-receive-gospel-faith-cash-audit-rifle-asthma-error-order-actress
+bip_39_word_dash_2: arm-valve
+bip_39_word_dash_3: arm-valve-receive
+bip_39_word_dash_4: arm-valve-receive-gospel
+bip_39_word_dash_5: arm-valve-receive-gospel-faith
+bip_39_word_dash_6: arm-valve-receive-gospel-faith-cash
+bip_39_word_dash_7: arm-valve-receive-gospel-faith-cash-audit
+bip_39_word_dash_8: arm-valve-receive-gospel-faith-cash-audit-rifle
+bip_39_word_dash_9: arm-valve-receive-gospel-faith-cash-audit-rifle-asthma
+bip_39_word_new_br_1: arm
+bip_39_word_new_br_10: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error
+bip_39_word_new_br_11: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order
+bip_39_word_new_br_12: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma<br>error<br>order<br>actress
+bip_39_word_new_br_2: arm<br>valve
+bip_39_word_new_br_3: arm<br>valve<br>receive
+bip_39_word_new_br_4: arm<br>valve<br>receive<br>gospel
+bip_39_word_new_br_5: arm<br>valve<br>receive<br>gospel<br>faith
+bip_39_word_new_br_6: arm<br>valve<br>receive<br>gospel<br>faith<br>cash
+bip_39_word_new_br_7: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit
+bip_39_word_new_br_8: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle
+bip_39_word_new_br_9: arm<br>valve<br>receive<br>gospel<br>faith<br>cash<br>audit<br>rifle<br>asthma
+bip_39_word_new_line_1: arm
+bip_39_word_new_line_10: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit
+
+  rifle
+
+  asthma
+
+  error'
+bip_39_word_new_line_11: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit
+
+  rifle
+
+  asthma
+
+  error
+
+  order'
+bip_39_word_new_line_12: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit
+
+  rifle
+
+  asthma
+
+  error
+
+  order
+
+  actress'
+bip_39_word_new_line_2: 'arm
+
+  valve'
+bip_39_word_new_line_3: 'arm
+
+  valve
+
+  receive'
+bip_39_word_new_line_4: 'arm
+
+  valve
+
+  receive
+
+  gospel'
+bip_39_word_new_line_5: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith'
+bip_39_word_new_line_6: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash'
+bip_39_word_new_line_7: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit'
+bip_39_word_new_line_8: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit
+
+  rifle'
+bip_39_word_new_line_9: 'arm
+
+  valve
+
+  receive
+
+  gospel
+
+  faith
+
+  cash
+
+  audit
+
+  rifle
+
+  asthma'
+bip_39_word_no_space_1: arm
+bip_39_word_no_space_10: armvalvereceivegospelfaithcashauditrifleasthmaerror
+bip_39_word_no_space_11: armvalvereceivegospelfaithcashauditrifleasthmaerrororder
+bip_39_word_no_space_12: armvalvereceivegospelfaithcashauditrifleasthmaerrororderactress
+bip_39_word_no_space_2: armvalve
+bip_39_word_no_space_3: armvalvereceive
+bip_39_word_no_space_4: armvalvereceivegospel
+bip_39_word_no_space_5: armvalvereceivegospelfaith
+bip_39_word_no_space_6: armvalvereceivegospelfaithcash
+bip_39_word_no_space_7: armvalvereceivegospelfaithcashaudit
+bip_39_word_no_space_8: armvalvereceivegospelfaithcashauditrifle
+bip_39_word_no_space_9: armvalvereceivegospelfaithcashauditrifleasthma
+bip_39_word_space_0:
+- arm
+- valve
+- receive
+- gospel
+- faith
+- cash
+- audit
+- rifle
+- asthma
+- error
+- order
+- actress
+bip_39_word_space_1: arm
+bip_39_word_space_10: arm valve receive gospel faith cash audit rifle asthma error
+bip_39_word_space_11: arm valve receive gospel faith cash audit rifle asthma error
+  order
+bip_39_word_space_12: arm valve receive gospel faith cash audit rifle asthma error
+  order actress
+bip_39_word_space_2: arm valve
+bip_39_word_space_3: arm valve receive
+bip_39_word_space_4: arm valve receive gospel
+bip_39_word_space_5: arm valve receive gospel faith
+bip_39_word_space_6: arm valve receive gospel faith cash
+bip_39_word_space_7: arm valve receive gospel faith cash audit
+bip_39_word_space_8: arm valve receive gospel faith cash audit rifle
+bip_39_word_space_9: arm valve receive gospel faith cash audit rifle asthma
+bip_39_word_underscore_1: arm
+bip_39_word_underscore_10: arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error
+bip_39_word_underscore_11: arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error_order
+bip_39_word_underscore_12: arm_valve_receive_gospel_faith_cash_audit_rifle_asthma_error_order_actress
+bip_39_word_underscore_2: arm_valve
+bip_39_word_underscore_3: arm_valve_receive
+bip_39_word_underscore_4: arm_valve_receive_gospel
+bip_39_word_underscore_5: arm_valve_receive_gospel_faith
+bip_39_word_underscore_6: arm_valve_receive_gospel_faith_cash
+bip_39_word_underscore_7: arm_valve_receive_gospel_faith_cash_audit
+bip_39_word_underscore_8: arm_valve_receive_gospel_faith_cash_audit_rifle
+bip_39_word_underscore_9: arm_valve_receive_gospel_faith_cash_audit_rifle_asthma
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 12000ohm
 id_no_size: 12000_ohm
 id_no_type: 1206_12000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_12000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_12000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201rioj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201rioj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201rioj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +376,7 @@ name_no_color: 12000Ohm
 name_no_size: 12000 Ohm
 name_no_size_short: 12k Ohm
 name_no_type: 1206 12000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_12000_ohm
 oomp_word: snowman frog fish
 oomp_word_emoji: ':snowman: :frog: :fish:'

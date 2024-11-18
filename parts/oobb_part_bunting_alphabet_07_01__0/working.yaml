@@ -1,3 +1,222 @@
+bip_39_word_dash_1: point
+bip_39_word_dash_10: point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over
+bip_39_word_dash_11: point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over-because
+bip_39_word_dash_12: point-siege-pretty-evil-damp-noble-extra-vintage-wedding-over-because-auction
+bip_39_word_dash_2: point-siege
+bip_39_word_dash_3: point-siege-pretty
+bip_39_word_dash_4: point-siege-pretty-evil
+bip_39_word_dash_5: point-siege-pretty-evil-damp
+bip_39_word_dash_6: point-siege-pretty-evil-damp-noble
+bip_39_word_dash_7: point-siege-pretty-evil-damp-noble-extra
+bip_39_word_dash_8: point-siege-pretty-evil-damp-noble-extra-vintage
+bip_39_word_dash_9: point-siege-pretty-evil-damp-noble-extra-vintage-wedding
+bip_39_word_new_br_1: point
+bip_39_word_new_br_10: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over
+bip_39_word_new_br_11: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over<br>because
+bip_39_word_new_br_12: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding<br>over<br>because<br>auction
+bip_39_word_new_br_2: point<br>siege
+bip_39_word_new_br_3: point<br>siege<br>pretty
+bip_39_word_new_br_4: point<br>siege<br>pretty<br>evil
+bip_39_word_new_br_5: point<br>siege<br>pretty<br>evil<br>damp
+bip_39_word_new_br_6: point<br>siege<br>pretty<br>evil<br>damp<br>noble
+bip_39_word_new_br_7: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra
+bip_39_word_new_br_8: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage
+bip_39_word_new_br_9: point<br>siege<br>pretty<br>evil<br>damp<br>noble<br>extra<br>vintage<br>wedding
+bip_39_word_new_line_1: point
+bip_39_word_new_line_10: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra
+
+  vintage
+
+  wedding
+
+  over'
+bip_39_word_new_line_11: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra
+
+  vintage
+
+  wedding
+
+  over
+
+  because'
+bip_39_word_new_line_12: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra
+
+  vintage
+
+  wedding
+
+  over
+
+  because
+
+  auction'
+bip_39_word_new_line_2: 'point
+
+  siege'
+bip_39_word_new_line_3: 'point
+
+  siege
+
+  pretty'
+bip_39_word_new_line_4: 'point
+
+  siege
+
+  pretty
+
+  evil'
+bip_39_word_new_line_5: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp'
+bip_39_word_new_line_6: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble'
+bip_39_word_new_line_7: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra'
+bip_39_word_new_line_8: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra
+
+  vintage'
+bip_39_word_new_line_9: 'point
+
+  siege
+
+  pretty
+
+  evil
+
+  damp
+
+  noble
+
+  extra
+
+  vintage
+
+  wedding'
+bip_39_word_no_space_1: point
+bip_39_word_no_space_10: pointsiegeprettyevildampnobleextravintageweddingover
+bip_39_word_no_space_11: pointsiegeprettyevildampnobleextravintageweddingoverbecause
+bip_39_word_no_space_12: pointsiegeprettyevildampnobleextravintageweddingoverbecauseauction
+bip_39_word_no_space_2: pointsiege
+bip_39_word_no_space_3: pointsiegepretty
+bip_39_word_no_space_4: pointsiegeprettyevil
+bip_39_word_no_space_5: pointsiegeprettyevildamp
+bip_39_word_no_space_6: pointsiegeprettyevildampnoble
+bip_39_word_no_space_7: pointsiegeprettyevildampnobleextra
+bip_39_word_no_space_8: pointsiegeprettyevildampnobleextravintage
+bip_39_word_no_space_9: pointsiegeprettyevildampnobleextravintagewedding
+bip_39_word_space_0:
+- point
+- siege
+- pretty
+- evil
+- damp
+- noble
+- extra
+- vintage
+- wedding
+- over
+- because
+- auction
+bip_39_word_space_1: point
+bip_39_word_space_10: point siege pretty evil damp noble extra vintage wedding over
+bip_39_word_space_11: point siege pretty evil damp noble extra vintage wedding over
+  because
+bip_39_word_space_12: point siege pretty evil damp noble extra vintage wedding over
+  because auction
+bip_39_word_space_2: point siege
+bip_39_word_space_3: point siege pretty
+bip_39_word_space_4: point siege pretty evil
+bip_39_word_space_5: point siege pretty evil damp
+bip_39_word_space_6: point siege pretty evil damp noble
+bip_39_word_space_7: point siege pretty evil damp noble extra
+bip_39_word_space_8: point siege pretty evil damp noble extra vintage
+bip_39_word_space_9: point siege pretty evil damp noble extra vintage wedding
+bip_39_word_underscore_1: point
+bip_39_word_underscore_10: point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over
+bip_39_word_underscore_11: point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over_because
+bip_39_word_underscore_12: point_siege_pretty_evil_damp_noble_extra_vintage_wedding_over_because_auction
+bip_39_word_underscore_2: point_siege
+bip_39_word_underscore_3: point_siege_pretty
+bip_39_word_underscore_4: point_siege_pretty_evil
+bip_39_word_underscore_5: point_siege_pretty_evil_damp
+bip_39_word_underscore_6: point_siege_pretty_evil_damp_noble
+bip_39_word_underscore_7: point_siege_pretty_evil_damp_noble_extra
+bip_39_word_underscore_8: point_siege_pretty_evil_damp_noble_extra_vintage
+bip_39_word_underscore_9: point_siege_pretty_evil_damp_noble_extra_vintage_wedding
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__0
 id_no_color: '07010'
 id_no_size: '07_01__0'
 id_no_type: bunting_alphabet_07_01__0
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__0
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__0
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__0
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209aizr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209aizr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209aizr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '07010'
 name_no_size: 07 01  0
 name_no_size_short: 07 01  0
 name_no_type: Bunting Alphabet 07 01  0
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__0
 oomp_word: ambulance nose guitar
 oomp_word_emoji: ':ambulance: :nose: :guitar:'

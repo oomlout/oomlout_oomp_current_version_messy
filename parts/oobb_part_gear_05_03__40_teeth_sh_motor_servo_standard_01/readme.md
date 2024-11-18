@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 05 03  40 Teeth Sh Motor Servo Standard 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_05_03__40_teeth_sh_motor_servo_standard_01
   * classification: oobb

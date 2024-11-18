@@ -1,3 +1,222 @@
+bip_39_word_dash_1: echo
+bip_39_word_dash_10: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network
+bip_39_word_dash_11: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network-stone
+bip_39_word_dash_12: echo-supreme-bird-ghost-someone-mean-region-bracket-drop-network-stone-alley
+bip_39_word_dash_2: echo-supreme
+bip_39_word_dash_3: echo-supreme-bird
+bip_39_word_dash_4: echo-supreme-bird-ghost
+bip_39_word_dash_5: echo-supreme-bird-ghost-someone
+bip_39_word_dash_6: echo-supreme-bird-ghost-someone-mean
+bip_39_word_dash_7: echo-supreme-bird-ghost-someone-mean-region
+bip_39_word_dash_8: echo-supreme-bird-ghost-someone-mean-region-bracket
+bip_39_word_dash_9: echo-supreme-bird-ghost-someone-mean-region-bracket-drop
+bip_39_word_new_br_1: echo
+bip_39_word_new_br_10: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network
+bip_39_word_new_br_11: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone
+bip_39_word_new_br_12: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop<br>network<br>stone<br>alley
+bip_39_word_new_br_2: echo<br>supreme
+bip_39_word_new_br_3: echo<br>supreme<br>bird
+bip_39_word_new_br_4: echo<br>supreme<br>bird<br>ghost
+bip_39_word_new_br_5: echo<br>supreme<br>bird<br>ghost<br>someone
+bip_39_word_new_br_6: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean
+bip_39_word_new_br_7: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region
+bip_39_word_new_br_8: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket
+bip_39_word_new_br_9: echo<br>supreme<br>bird<br>ghost<br>someone<br>mean<br>region<br>bracket<br>drop
+bip_39_word_new_line_1: echo
+bip_39_word_new_line_10: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region
+
+  bracket
+
+  drop
+
+  network'
+bip_39_word_new_line_11: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region
+
+  bracket
+
+  drop
+
+  network
+
+  stone'
+bip_39_word_new_line_12: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region
+
+  bracket
+
+  drop
+
+  network
+
+  stone
+
+  alley'
+bip_39_word_new_line_2: 'echo
+
+  supreme'
+bip_39_word_new_line_3: 'echo
+
+  supreme
+
+  bird'
+bip_39_word_new_line_4: 'echo
+
+  supreme
+
+  bird
+
+  ghost'
+bip_39_word_new_line_5: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone'
+bip_39_word_new_line_6: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean'
+bip_39_word_new_line_7: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region'
+bip_39_word_new_line_8: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region
+
+  bracket'
+bip_39_word_new_line_9: 'echo
+
+  supreme
+
+  bird
+
+  ghost
+
+  someone
+
+  mean
+
+  region
+
+  bracket
+
+  drop'
+bip_39_word_no_space_1: echo
+bip_39_word_no_space_10: echosupremebirdghostsomeonemeanregionbracketdropnetwork
+bip_39_word_no_space_11: echosupremebirdghostsomeonemeanregionbracketdropnetworkstone
+bip_39_word_no_space_12: echosupremebirdghostsomeonemeanregionbracketdropnetworkstonealley
+bip_39_word_no_space_2: echosupreme
+bip_39_word_no_space_3: echosupremebird
+bip_39_word_no_space_4: echosupremebirdghost
+bip_39_word_no_space_5: echosupremebirdghostsomeone
+bip_39_word_no_space_6: echosupremebirdghostsomeonemean
+bip_39_word_no_space_7: echosupremebirdghostsomeonemeanregion
+bip_39_word_no_space_8: echosupremebirdghostsomeonemeanregionbracket
+bip_39_word_no_space_9: echosupremebirdghostsomeonemeanregionbracketdrop
+bip_39_word_space_0:
+- echo
+- supreme
+- bird
+- ghost
+- someone
+- mean
+- region
+- bracket
+- drop
+- network
+- stone
+- alley
+bip_39_word_space_1: echo
+bip_39_word_space_10: echo supreme bird ghost someone mean region bracket drop network
+bip_39_word_space_11: echo supreme bird ghost someone mean region bracket drop network
+  stone
+bip_39_word_space_12: echo supreme bird ghost someone mean region bracket drop network
+  stone alley
+bip_39_word_space_2: echo supreme
+bip_39_word_space_3: echo supreme bird
+bip_39_word_space_4: echo supreme bird ghost
+bip_39_word_space_5: echo supreme bird ghost someone
+bip_39_word_space_6: echo supreme bird ghost someone mean
+bip_39_word_space_7: echo supreme bird ghost someone mean region
+bip_39_word_space_8: echo supreme bird ghost someone mean region bracket
+bip_39_word_space_9: echo supreme bird ghost someone mean region bracket drop
+bip_39_word_underscore_1: echo
+bip_39_word_underscore_10: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network
+bip_39_word_underscore_11: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network_stone
+bip_39_word_underscore_12: echo_supreme_bird_ghost_someone_mean_region_bracket_drop_network_stone_alley
+bip_39_word_underscore_2: echo_supreme
+bip_39_word_underscore_3: echo_supreme_bird
+bip_39_word_underscore_4: echo_supreme_bird_ghost
+bip_39_word_underscore_5: echo_supreme_bird_ghost_someone
+bip_39_word_underscore_6: echo_supreme_bird_ghost_someone_mean
+bip_39_word_underscore_7: echo_supreme_bird_ghost_someone_mean_region
+bip_39_word_underscore_8: echo_supreme_bird_ghost_someone_mean_region_bracket
+bip_39_word_underscore_9: echo_supreme_bird_ghost_someone_mean_region_bracket_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_1d5_60
 id_no_color: 141d560
 id_no_size: 14_1d5_60
 id_no_type: tray_thin_14_1d5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_1d5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2044fqd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2044fqd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2044fqd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 141D560
 name_no_size: 14 1D5 60
 name_no_size_short: 14 1D5 60
 name_no_type: Tray Thin 14 1D5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_1d5_60
 oomp_word: cactus shirt headphones
 oomp_word_emoji: ':cactus: :shirt: :headphones:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: must
+bip_39_word_dash_10: must-maze-rare-much-physical-ranch-real-clown-wait-session
+bip_39_word_dash_11: must-maze-rare-much-physical-ranch-real-clown-wait-session-noise
+bip_39_word_dash_12: must-maze-rare-much-physical-ranch-real-clown-wait-session-noise-alone
+bip_39_word_dash_2: must-maze
+bip_39_word_dash_3: must-maze-rare
+bip_39_word_dash_4: must-maze-rare-much
+bip_39_word_dash_5: must-maze-rare-much-physical
+bip_39_word_dash_6: must-maze-rare-much-physical-ranch
+bip_39_word_dash_7: must-maze-rare-much-physical-ranch-real
+bip_39_word_dash_8: must-maze-rare-much-physical-ranch-real-clown
+bip_39_word_dash_9: must-maze-rare-much-physical-ranch-real-clown-wait
+bip_39_word_new_br_1: must
+bip_39_word_new_br_10: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session
+bip_39_word_new_br_11: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise
+bip_39_word_new_br_12: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait<br>session<br>noise<br>alone
+bip_39_word_new_br_2: must<br>maze
+bip_39_word_new_br_3: must<br>maze<br>rare
+bip_39_word_new_br_4: must<br>maze<br>rare<br>much
+bip_39_word_new_br_5: must<br>maze<br>rare<br>much<br>physical
+bip_39_word_new_br_6: must<br>maze<br>rare<br>much<br>physical<br>ranch
+bip_39_word_new_br_7: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real
+bip_39_word_new_br_8: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown
+bip_39_word_new_br_9: must<br>maze<br>rare<br>much<br>physical<br>ranch<br>real<br>clown<br>wait
+bip_39_word_new_line_1: must
+bip_39_word_new_line_10: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real
+
+  clown
+
+  wait
+
+  session'
+bip_39_word_new_line_11: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real
+
+  clown
+
+  wait
+
+  session
+
+  noise'
+bip_39_word_new_line_12: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real
+
+  clown
+
+  wait
+
+  session
+
+  noise
+
+  alone'
+bip_39_word_new_line_2: 'must
+
+  maze'
+bip_39_word_new_line_3: 'must
+
+  maze
+
+  rare'
+bip_39_word_new_line_4: 'must
+
+  maze
+
+  rare
+
+  much'
+bip_39_word_new_line_5: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical'
+bip_39_word_new_line_6: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch'
+bip_39_word_new_line_7: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real'
+bip_39_word_new_line_8: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real
+
+  clown'
+bip_39_word_new_line_9: 'must
+
+  maze
+
+  rare
+
+  much
+
+  physical
+
+  ranch
+
+  real
+
+  clown
+
+  wait'
+bip_39_word_no_space_1: must
+bip_39_word_no_space_10: mustmazeraremuchphysicalranchrealclownwaitsession
+bip_39_word_no_space_11: mustmazeraremuchphysicalranchrealclownwaitsessionnoise
+bip_39_word_no_space_12: mustmazeraremuchphysicalranchrealclownwaitsessionnoisealone
+bip_39_word_no_space_2: mustmaze
+bip_39_word_no_space_3: mustmazerare
+bip_39_word_no_space_4: mustmazeraremuch
+bip_39_word_no_space_5: mustmazeraremuchphysical
+bip_39_word_no_space_6: mustmazeraremuchphysicalranch
+bip_39_word_no_space_7: mustmazeraremuchphysicalranchreal
+bip_39_word_no_space_8: mustmazeraremuchphysicalranchrealclown
+bip_39_word_no_space_9: mustmazeraremuchphysicalranchrealclownwait
+bip_39_word_space_0:
+- must
+- maze
+- rare
+- much
+- physical
+- ranch
+- real
+- clown
+- wait
+- session
+- noise
+- alone
+bip_39_word_space_1: must
+bip_39_word_space_10: must maze rare much physical ranch real clown wait session
+bip_39_word_space_11: must maze rare much physical ranch real clown wait session noise
+bip_39_word_space_12: must maze rare much physical ranch real clown wait session noise
+  alone
+bip_39_word_space_2: must maze
+bip_39_word_space_3: must maze rare
+bip_39_word_space_4: must maze rare much
+bip_39_word_space_5: must maze rare much physical
+bip_39_word_space_6: must maze rare much physical ranch
+bip_39_word_space_7: must maze rare much physical ranch real
+bip_39_word_space_8: must maze rare much physical ranch real clown
+bip_39_word_space_9: must maze rare much physical ranch real clown wait
+bip_39_word_underscore_1: must
+bip_39_word_underscore_10: must_maze_rare_much_physical_ranch_real_clown_wait_session
+bip_39_word_underscore_11: must_maze_rare_much_physical_ranch_real_clown_wait_session_noise
+bip_39_word_underscore_12: must_maze_rare_much_physical_ranch_real_clown_wait_session_noise_alone
+bip_39_word_underscore_2: must_maze
+bip_39_word_underscore_3: must_maze_rare
+bip_39_word_underscore_4: must_maze_rare_much
+bip_39_word_underscore_5: must_maze_rare_much_physical
+bip_39_word_underscore_6: must_maze_rare_much_physical_ranch
+bip_39_word_underscore_7: must_maze_rare_much_physical_ranch_real
+bip_39_word_underscore_8: must_maze_rare_much_physical_ranch_real_clown
+bip_39_word_underscore_9: must_maze_rare_much_physical_ranch_real_clown_wait
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_vertical_05_04_24
 id_no_color: '050424'
 id_no_size: '05_04_24'
 id_no_type: tray_vertical_05_04_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204c5o1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204c5o1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204c5o1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '050424'
 name_no_size: 05 04 24
 name_no_size_short: 05 04 24
 name_no_type: Tray Vertical 05 04 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_05_04_24
 oomp_word: moon cloud briefcase
 oomp_word_emoji: ':moon: :cloud: :briefcase:'

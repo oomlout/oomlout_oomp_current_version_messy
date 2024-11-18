@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mobile
+bip_39_word_dash_10: mobile-long-pepper-pave-lock-happy-page-length-follow-swing
+bip_39_word_dash_11: mobile-long-pepper-pave-lock-happy-page-length-follow-swing-infant
+bip_39_word_dash_12: mobile-long-pepper-pave-lock-happy-page-length-follow-swing-infant-above
+bip_39_word_dash_2: mobile-long
+bip_39_word_dash_3: mobile-long-pepper
+bip_39_word_dash_4: mobile-long-pepper-pave
+bip_39_word_dash_5: mobile-long-pepper-pave-lock
+bip_39_word_dash_6: mobile-long-pepper-pave-lock-happy
+bip_39_word_dash_7: mobile-long-pepper-pave-lock-happy-page
+bip_39_word_dash_8: mobile-long-pepper-pave-lock-happy-page-length
+bip_39_word_dash_9: mobile-long-pepper-pave-lock-happy-page-length-follow
+bip_39_word_new_br_1: mobile
+bip_39_word_new_br_10: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing
+bip_39_word_new_br_11: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant
+bip_39_word_new_br_12: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow<br>swing<br>infant<br>above
+bip_39_word_new_br_2: mobile<br>long
+bip_39_word_new_br_3: mobile<br>long<br>pepper
+bip_39_word_new_br_4: mobile<br>long<br>pepper<br>pave
+bip_39_word_new_br_5: mobile<br>long<br>pepper<br>pave<br>lock
+bip_39_word_new_br_6: mobile<br>long<br>pepper<br>pave<br>lock<br>happy
+bip_39_word_new_br_7: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page
+bip_39_word_new_br_8: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length
+bip_39_word_new_br_9: mobile<br>long<br>pepper<br>pave<br>lock<br>happy<br>page<br>length<br>follow
+bip_39_word_new_line_1: mobile
+bip_39_word_new_line_10: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page
+
+  length
+
+  follow
+
+  swing'
+bip_39_word_new_line_11: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page
+
+  length
+
+  follow
+
+  swing
+
+  infant'
+bip_39_word_new_line_12: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page
+
+  length
+
+  follow
+
+  swing
+
+  infant
+
+  above'
+bip_39_word_new_line_2: 'mobile
+
+  long'
+bip_39_word_new_line_3: 'mobile
+
+  long
+
+  pepper'
+bip_39_word_new_line_4: 'mobile
+
+  long
+
+  pepper
+
+  pave'
+bip_39_word_new_line_5: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock'
+bip_39_word_new_line_6: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy'
+bip_39_word_new_line_7: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page'
+bip_39_word_new_line_8: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page
+
+  length'
+bip_39_word_new_line_9: 'mobile
+
+  long
+
+  pepper
+
+  pave
+
+  lock
+
+  happy
+
+  page
+
+  length
+
+  follow'
+bip_39_word_no_space_1: mobile
+bip_39_word_no_space_10: mobilelongpepperpavelockhappypagelengthfollowswing
+bip_39_word_no_space_11: mobilelongpepperpavelockhappypagelengthfollowswinginfant
+bip_39_word_no_space_12: mobilelongpepperpavelockhappypagelengthfollowswinginfantabove
+bip_39_word_no_space_2: mobilelong
+bip_39_word_no_space_3: mobilelongpepper
+bip_39_word_no_space_4: mobilelongpepperpave
+bip_39_word_no_space_5: mobilelongpepperpavelock
+bip_39_word_no_space_6: mobilelongpepperpavelockhappy
+bip_39_word_no_space_7: mobilelongpepperpavelockhappypage
+bip_39_word_no_space_8: mobilelongpepperpavelockhappypagelength
+bip_39_word_no_space_9: mobilelongpepperpavelockhappypagelengthfollow
+bip_39_word_space_0:
+- mobile
+- long
+- pepper
+- pave
+- lock
+- happy
+- page
+- length
+- follow
+- swing
+- infant
+- above
+bip_39_word_space_1: mobile
+bip_39_word_space_10: mobile long pepper pave lock happy page length follow swing
+bip_39_word_space_11: mobile long pepper pave lock happy page length follow swing
+  infant
+bip_39_word_space_12: mobile long pepper pave lock happy page length follow swing
+  infant above
+bip_39_word_space_2: mobile long
+bip_39_word_space_3: mobile long pepper
+bip_39_word_space_4: mobile long pepper pave
+bip_39_word_space_5: mobile long pepper pave lock
+bip_39_word_space_6: mobile long pepper pave lock happy
+bip_39_word_space_7: mobile long pepper pave lock happy page
+bip_39_word_space_8: mobile long pepper pave lock happy page length
+bip_39_word_space_9: mobile long pepper pave lock happy page length follow
+bip_39_word_underscore_1: mobile
+bip_39_word_underscore_10: mobile_long_pepper_pave_lock_happy_page_length_follow_swing
+bip_39_word_underscore_11: mobile_long_pepper_pave_lock_happy_page_length_follow_swing_infant
+bip_39_word_underscore_12: mobile_long_pepper_pave_lock_happy_page_length_follow_swing_infant_above
+bip_39_word_underscore_2: mobile_long
+bip_39_word_underscore_3: mobile_long_pepper
+bip_39_word_underscore_4: mobile_long_pepper_pave
+bip_39_word_underscore_5: mobile_long_pepper_pave_lock
+bip_39_word_underscore_6: mobile_long_pepper_pave_lock_happy
+bip_39_word_underscore_7: mobile_long_pepper_pave_lock_happy_page
+bip_39_word_underscore_8: mobile_long_pepper_pave_lock_happy_page_length
+bip_39_word_underscore_9: mobile_long_pepper_pave_lock_happy_page_length_follow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_03_03_09__u
 id_no_color: 030309u
 id_no_size: 03_03_09__u
 id_no_type: plate_03_03_09__u
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_09__u
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_09__u
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_09__u
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ci47
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ci47
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ci47
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030309U
 name_no_size: 03 03 09  U
 name_no_size_short: 03 03 09  U
 name_no_type: Plate 03 03 09  U
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_03_09__u
 oomp_word: scream airplane pizza
 oomp_word_emoji: ':scream: :airplane: :pizza:'

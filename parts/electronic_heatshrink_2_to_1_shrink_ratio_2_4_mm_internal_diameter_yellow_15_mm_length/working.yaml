@@ -1,3 +1,221 @@
+bip_39_word_dash_1: family
+bip_39_word_dash_10: family-rich-bean-area-brick-essay-seat-want-vapor-parent
+bip_39_word_dash_11: family-rich-bean-area-brick-essay-seat-want-vapor-parent-lonely
+bip_39_word_dash_12: family-rich-bean-area-brick-essay-seat-want-vapor-parent-lonely-act
+bip_39_word_dash_2: family-rich
+bip_39_word_dash_3: family-rich-bean
+bip_39_word_dash_4: family-rich-bean-area
+bip_39_word_dash_5: family-rich-bean-area-brick
+bip_39_word_dash_6: family-rich-bean-area-brick-essay
+bip_39_word_dash_7: family-rich-bean-area-brick-essay-seat
+bip_39_word_dash_8: family-rich-bean-area-brick-essay-seat-want
+bip_39_word_dash_9: family-rich-bean-area-brick-essay-seat-want-vapor
+bip_39_word_new_br_1: family
+bip_39_word_new_br_10: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor<br>parent
+bip_39_word_new_br_11: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor<br>parent<br>lonely
+bip_39_word_new_br_12: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor<br>parent<br>lonely<br>act
+bip_39_word_new_br_2: family<br>rich
+bip_39_word_new_br_3: family<br>rich<br>bean
+bip_39_word_new_br_4: family<br>rich<br>bean<br>area
+bip_39_word_new_br_5: family<br>rich<br>bean<br>area<br>brick
+bip_39_word_new_br_6: family<br>rich<br>bean<br>area<br>brick<br>essay
+bip_39_word_new_br_7: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat
+bip_39_word_new_br_8: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want
+bip_39_word_new_br_9: family<br>rich<br>bean<br>area<br>brick<br>essay<br>seat<br>want<br>vapor
+bip_39_word_new_line_1: family
+bip_39_word_new_line_10: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat
+
+  want
+
+  vapor
+
+  parent'
+bip_39_word_new_line_11: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat
+
+  want
+
+  vapor
+
+  parent
+
+  lonely'
+bip_39_word_new_line_12: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat
+
+  want
+
+  vapor
+
+  parent
+
+  lonely
+
+  act'
+bip_39_word_new_line_2: 'family
+
+  rich'
+bip_39_word_new_line_3: 'family
+
+  rich
+
+  bean'
+bip_39_word_new_line_4: 'family
+
+  rich
+
+  bean
+
+  area'
+bip_39_word_new_line_5: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick'
+bip_39_word_new_line_6: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay'
+bip_39_word_new_line_7: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat'
+bip_39_word_new_line_8: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat
+
+  want'
+bip_39_word_new_line_9: 'family
+
+  rich
+
+  bean
+
+  area
+
+  brick
+
+  essay
+
+  seat
+
+  want
+
+  vapor'
+bip_39_word_no_space_1: family
+bip_39_word_no_space_10: familyrichbeanareabrickessayseatwantvaporparent
+bip_39_word_no_space_11: familyrichbeanareabrickessayseatwantvaporparentlonely
+bip_39_word_no_space_12: familyrichbeanareabrickessayseatwantvaporparentlonelyact
+bip_39_word_no_space_2: familyrich
+bip_39_word_no_space_3: familyrichbean
+bip_39_word_no_space_4: familyrichbeanarea
+bip_39_word_no_space_5: familyrichbeanareabrick
+bip_39_word_no_space_6: familyrichbeanareabrickessay
+bip_39_word_no_space_7: familyrichbeanareabrickessayseat
+bip_39_word_no_space_8: familyrichbeanareabrickessayseatwant
+bip_39_word_no_space_9: familyrichbeanareabrickessayseatwantvapor
+bip_39_word_space_0:
+- family
+- rich
+- bean
+- area
+- brick
+- essay
+- seat
+- want
+- vapor
+- parent
+- lonely
+- act
+bip_39_word_space_1: family
+bip_39_word_space_10: family rich bean area brick essay seat want vapor parent
+bip_39_word_space_11: family rich bean area brick essay seat want vapor parent lonely
+bip_39_word_space_12: family rich bean area brick essay seat want vapor parent lonely
+  act
+bip_39_word_space_2: family rich
+bip_39_word_space_3: family rich bean
+bip_39_word_space_4: family rich bean area
+bip_39_word_space_5: family rich bean area brick
+bip_39_word_space_6: family rich bean area brick essay
+bip_39_word_space_7: family rich bean area brick essay seat
+bip_39_word_space_8: family rich bean area brick essay seat want
+bip_39_word_space_9: family rich bean area brick essay seat want vapor
+bip_39_word_underscore_1: family
+bip_39_word_underscore_10: family_rich_bean_area_brick_essay_seat_want_vapor_parent
+bip_39_word_underscore_11: family_rich_bean_area_brick_essay_seat_want_vapor_parent_lonely
+bip_39_word_underscore_12: family_rich_bean_area_brick_essay_seat_want_vapor_parent_lonely_act
+bip_39_word_underscore_2: family_rich
+bip_39_word_underscore_3: family_rich_bean
+bip_39_word_underscore_4: family_rich_bean_area
+bip_39_word_underscore_5: family_rich_bean_area_brick
+bip_39_word_underscore_6: family_rich_bean_area_brick_essay
+bip_39_word_underscore_7: family_rich_bean_area_brick_essay_seat
+bip_39_word_underscore_8: family_rich_bean_area_brick_essay_seat_want
+bip_39_word_underscore_9: family_rich_bean_area_brick_essay_seat_want_vapor
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +325,14 @@ id_no_color: 15_mm_length
 id_no_size: yellow_15_mm_length
 id_no_type: 2_4_mm_internal_diameter_yellow_15_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_yellow_15_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_yellow_15_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_yellow_15_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201itm0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201itm0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201itm0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +360,7 @@ name_no_color: 15 mm Length
 name_no_size: Yellow 15 mm Length
 name_no_size_short: Yellow 15 Mm Length
 name_no_type: 2 4 mm Internal Diameter Yellow 15 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_yellow_15_mm_length
 oomp_word: nose cry mushroom
 oomp_word_emoji: ':nose: :cry: :mushroom:'

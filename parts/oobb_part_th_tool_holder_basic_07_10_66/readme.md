@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Th Tool Holder Basic 07 10 66
+* name_short: 
 ### id
 * oomp_id: oobb_part_th_tool_holder_basic_07_10_66
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :door: :mushroom: :rat:
 * md5_6_alpha: 5ftjr
 * md5_6: 8b6857
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205ftjr)
+[2x1](http://192.168.1.242:1112/?label=oomp%205ftjr)
+[6x4](http://192.168.1.55:1112/?label=oomp%205ftjr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ wagon |
 | id_no_color | 071066 |  
 | id_no_size | 07_10_66 |  
 | id_no_type | th_tool_holder_basic_07_10_66 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_th_tool_holder_basic_07_10_66 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205ftjr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205ftjr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205ftjr |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ wagon |
 | name_no_size | 07 10 66 |  
 | name_no_size_short | 07 10 66 |  
 | name_no_type | Th Tool Holder Basic 07 10 66 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_th_tool_holder_basic_07_10_66 |  
 | oomp_word | door mushroom rat |  
 | oomp_word_emoji | :door: :mushroom: :rat: |  

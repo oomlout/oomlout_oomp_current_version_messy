@@ -1,3 +1,223 @@
+bip_39_word_dash_1: collect
+bip_39_word_dash_10: collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor
+bip_39_word_dash_11: collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor-coin
+bip_39_word_dash_12: collect-general-asset-gauge-below-segment-asset-afraid-brand-indoor-coin-ankle
+bip_39_word_dash_2: collect-general
+bip_39_word_dash_3: collect-general-asset
+bip_39_word_dash_4: collect-general-asset-gauge
+bip_39_word_dash_5: collect-general-asset-gauge-below
+bip_39_word_dash_6: collect-general-asset-gauge-below-segment
+bip_39_word_dash_7: collect-general-asset-gauge-below-segment-asset
+bip_39_word_dash_8: collect-general-asset-gauge-below-segment-asset-afraid
+bip_39_word_dash_9: collect-general-asset-gauge-below-segment-asset-afraid-brand
+bip_39_word_new_br_1: collect
+bip_39_word_new_br_10: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor
+bip_39_word_new_br_11: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor<br>coin
+bip_39_word_new_br_12: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand<br>indoor<br>coin<br>ankle
+bip_39_word_new_br_2: collect<br>general
+bip_39_word_new_br_3: collect<br>general<br>asset
+bip_39_word_new_br_4: collect<br>general<br>asset<br>gauge
+bip_39_word_new_br_5: collect<br>general<br>asset<br>gauge<br>below
+bip_39_word_new_br_6: collect<br>general<br>asset<br>gauge<br>below<br>segment
+bip_39_word_new_br_7: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset
+bip_39_word_new_br_8: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid
+bip_39_word_new_br_9: collect<br>general<br>asset<br>gauge<br>below<br>segment<br>asset<br>afraid<br>brand
+bip_39_word_new_line_1: collect
+bip_39_word_new_line_10: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset
+
+  afraid
+
+  brand
+
+  indoor'
+bip_39_word_new_line_11: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset
+
+  afraid
+
+  brand
+
+  indoor
+
+  coin'
+bip_39_word_new_line_12: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset
+
+  afraid
+
+  brand
+
+  indoor
+
+  coin
+
+  ankle'
+bip_39_word_new_line_2: 'collect
+
+  general'
+bip_39_word_new_line_3: 'collect
+
+  general
+
+  asset'
+bip_39_word_new_line_4: 'collect
+
+  general
+
+  asset
+
+  gauge'
+bip_39_word_new_line_5: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below'
+bip_39_word_new_line_6: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment'
+bip_39_word_new_line_7: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset'
+bip_39_word_new_line_8: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset
+
+  afraid'
+bip_39_word_new_line_9: 'collect
+
+  general
+
+  asset
+
+  gauge
+
+  below
+
+  segment
+
+  asset
+
+  afraid
+
+  brand'
+bip_39_word_no_space_1: collect
+bip_39_word_no_space_10: collectgeneralassetgaugebelowsegmentassetafraidbrandindoor
+bip_39_word_no_space_11: collectgeneralassetgaugebelowsegmentassetafraidbrandindoorcoin
+bip_39_word_no_space_12: collectgeneralassetgaugebelowsegmentassetafraidbrandindoorcoinankle
+bip_39_word_no_space_2: collectgeneral
+bip_39_word_no_space_3: collectgeneralasset
+bip_39_word_no_space_4: collectgeneralassetgauge
+bip_39_word_no_space_5: collectgeneralassetgaugebelow
+bip_39_word_no_space_6: collectgeneralassetgaugebelowsegment
+bip_39_word_no_space_7: collectgeneralassetgaugebelowsegmentasset
+bip_39_word_no_space_8: collectgeneralassetgaugebelowsegmentassetafraid
+bip_39_word_no_space_9: collectgeneralassetgaugebelowsegmentassetafraidbrand
+bip_39_word_space_0:
+- collect
+- general
+- asset
+- gauge
+- below
+- segment
+- asset
+- afraid
+- brand
+- indoor
+- coin
+- ankle
+bip_39_word_space_1: collect
+bip_39_word_space_10: collect general asset gauge below segment asset afraid brand
+  indoor
+bip_39_word_space_11: collect general asset gauge below segment asset afraid brand
+  indoor coin
+bip_39_word_space_12: collect general asset gauge below segment asset afraid brand
+  indoor coin ankle
+bip_39_word_space_2: collect general
+bip_39_word_space_3: collect general asset
+bip_39_word_space_4: collect general asset gauge
+bip_39_word_space_5: collect general asset gauge below
+bip_39_word_space_6: collect general asset gauge below segment
+bip_39_word_space_7: collect general asset gauge below segment asset
+bip_39_word_space_8: collect general asset gauge below segment asset afraid
+bip_39_word_space_9: collect general asset gauge below segment asset afraid brand
+bip_39_word_underscore_1: collect
+bip_39_word_underscore_10: collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor
+bip_39_word_underscore_11: collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor_coin
+bip_39_word_underscore_12: collect_general_asset_gauge_below_segment_asset_afraid_brand_indoor_coin_ankle
+bip_39_word_underscore_2: collect_general
+bip_39_word_underscore_3: collect_general_asset
+bip_39_word_underscore_4: collect_general_asset_gauge
+bip_39_word_underscore_5: collect_general_asset_gauge_below
+bip_39_word_underscore_6: collect_general_asset_gauge_below_segment
+bip_39_word_underscore_7: collect_general_asset_gauge_below_segment_asset
+bip_39_word_underscore_8: collect_general_asset_gauge_below_segment_asset_afraid
+bip_39_word_underscore_9: collect_general_asset_gauge_below_segment_asset_afraid_brand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_06_12
 id_no_color: '120612'
 id_no_size: '12_06_12'
 id_no_type: tray_thin_12_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205pkv0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205pkv0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205pkv0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '120612'
 name_no_size: 12 06 12
 name_no_size_short: 12 06 12
 name_no_type: Tray Thin 12 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_06_12
 oomp_word: paperclip goat factory
 oomp_word_emoji: ':paperclip: :goat: :factory:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A popular arduino compatible atmega328 board from aliexpress
 
+### name
+* name: Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
   * classification: electronic

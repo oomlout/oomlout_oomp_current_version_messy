@@ -1,3 +1,223 @@
+bip_39_word_dash_1: guitar
+bip_39_word_dash_10: guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint
+bip_39_word_dash_11: guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint-label
+bip_39_word_dash_12: guitar-capable-snap-setup-priority-pretty-crime-unfold-present-hint-label-audit
+bip_39_word_dash_2: guitar-capable
+bip_39_word_dash_3: guitar-capable-snap
+bip_39_word_dash_4: guitar-capable-snap-setup
+bip_39_word_dash_5: guitar-capable-snap-setup-priority
+bip_39_word_dash_6: guitar-capable-snap-setup-priority-pretty
+bip_39_word_dash_7: guitar-capable-snap-setup-priority-pretty-crime
+bip_39_word_dash_8: guitar-capable-snap-setup-priority-pretty-crime-unfold
+bip_39_word_dash_9: guitar-capable-snap-setup-priority-pretty-crime-unfold-present
+bip_39_word_new_br_1: guitar
+bip_39_word_new_br_10: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint
+bip_39_word_new_br_11: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label
+bip_39_word_new_br_12: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present<br>hint<br>label<br>audit
+bip_39_word_new_br_2: guitar<br>capable
+bip_39_word_new_br_3: guitar<br>capable<br>snap
+bip_39_word_new_br_4: guitar<br>capable<br>snap<br>setup
+bip_39_word_new_br_5: guitar<br>capable<br>snap<br>setup<br>priority
+bip_39_word_new_br_6: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty
+bip_39_word_new_br_7: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime
+bip_39_word_new_br_8: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold
+bip_39_word_new_br_9: guitar<br>capable<br>snap<br>setup<br>priority<br>pretty<br>crime<br>unfold<br>present
+bip_39_word_new_line_1: guitar
+bip_39_word_new_line_10: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime
+
+  unfold
+
+  present
+
+  hint'
+bip_39_word_new_line_11: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime
+
+  unfold
+
+  present
+
+  hint
+
+  label'
+bip_39_word_new_line_12: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime
+
+  unfold
+
+  present
+
+  hint
+
+  label
+
+  audit'
+bip_39_word_new_line_2: 'guitar
+
+  capable'
+bip_39_word_new_line_3: 'guitar
+
+  capable
+
+  snap'
+bip_39_word_new_line_4: 'guitar
+
+  capable
+
+  snap
+
+  setup'
+bip_39_word_new_line_5: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority'
+bip_39_word_new_line_6: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty'
+bip_39_word_new_line_7: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime'
+bip_39_word_new_line_8: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime
+
+  unfold'
+bip_39_word_new_line_9: 'guitar
+
+  capable
+
+  snap
+
+  setup
+
+  priority
+
+  pretty
+
+  crime
+
+  unfold
+
+  present'
+bip_39_word_no_space_1: guitar
+bip_39_word_no_space_10: guitarcapablesnapsetuppriorityprettycrimeunfoldpresenthint
+bip_39_word_no_space_11: guitarcapablesnapsetuppriorityprettycrimeunfoldpresenthintlabel
+bip_39_word_no_space_12: guitarcapablesnapsetuppriorityprettycrimeunfoldpresenthintlabelaudit
+bip_39_word_no_space_2: guitarcapable
+bip_39_word_no_space_3: guitarcapablesnap
+bip_39_word_no_space_4: guitarcapablesnapsetup
+bip_39_word_no_space_5: guitarcapablesnapsetuppriority
+bip_39_word_no_space_6: guitarcapablesnapsetupprioritypretty
+bip_39_word_no_space_7: guitarcapablesnapsetuppriorityprettycrime
+bip_39_word_no_space_8: guitarcapablesnapsetuppriorityprettycrimeunfold
+bip_39_word_no_space_9: guitarcapablesnapsetuppriorityprettycrimeunfoldpresent
+bip_39_word_space_0:
+- guitar
+- capable
+- snap
+- setup
+- priority
+- pretty
+- crime
+- unfold
+- present
+- hint
+- label
+- audit
+bip_39_word_space_1: guitar
+bip_39_word_space_10: guitar capable snap setup priority pretty crime unfold present
+  hint
+bip_39_word_space_11: guitar capable snap setup priority pretty crime unfold present
+  hint label
+bip_39_word_space_12: guitar capable snap setup priority pretty crime unfold present
+  hint label audit
+bip_39_word_space_2: guitar capable
+bip_39_word_space_3: guitar capable snap
+bip_39_word_space_4: guitar capable snap setup
+bip_39_word_space_5: guitar capable snap setup priority
+bip_39_word_space_6: guitar capable snap setup priority pretty
+bip_39_word_space_7: guitar capable snap setup priority pretty crime
+bip_39_word_space_8: guitar capable snap setup priority pretty crime unfold
+bip_39_word_space_9: guitar capable snap setup priority pretty crime unfold present
+bip_39_word_underscore_1: guitar
+bip_39_word_underscore_10: guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint
+bip_39_word_underscore_11: guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint_label
+bip_39_word_underscore_12: guitar_capable_snap_setup_priority_pretty_crime_unfold_present_hint_label_audit
+bip_39_word_underscore_2: guitar_capable
+bip_39_word_underscore_3: guitar_capable_snap
+bip_39_word_underscore_4: guitar_capable_snap_setup
+bip_39_word_underscore_5: guitar_capable_snap_setup_priority
+bip_39_word_underscore_6: guitar_capable_snap_setup_priority_pretty
+bip_39_word_underscore_7: guitar_capable_snap_setup_priority_pretty_crime
+bip_39_word_underscore_8: guitar_capable_snap_setup_priority_pretty_crime_unfold
+bip_39_word_underscore_9: guitar_capable_snap_setup_priority_pretty_crime_unfold_present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_1d5_03__12d0_teeth_sh_motor_n20
 id_no_color: 1d50312d0teethshmotorn20
 id_no_size: 1d5_03__12d0_teeth_sh_motor_n20
 id_no_type: gear_1d5_03__12d0_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ehcq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ehcq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ehcq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 1D50312D0Teethshmotorn20
 name_no_size: 1D5 03  12D0 Teeth Sh Motor N20
 name_no_size_short: 1D5 03  12D0 Teeth Sh Motor N20
 name_no_type: Gear 1D5 03  12D0 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_1d5_03__12d0_teeth_sh_motor_n20
 oomp_word: train seven goat
 oomp_word_emoji: ':train: :seven: :goat:'

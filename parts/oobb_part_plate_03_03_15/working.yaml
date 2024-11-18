@@ -1,3 +1,224 @@
+bip_39_word_dash_1: error
+bip_39_word_dash_10: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar
+bip_39_word_dash_11: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar-wash
+bip_39_word_dash_12: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash-seminar-wash-art
+bip_39_word_dash_2: error-business
+bip_39_word_dash_3: error-business-gorilla
+bip_39_word_dash_4: error-business-gorilla-antenna
+bip_39_word_dash_5: error-business-gorilla-antenna-mushroom
+bip_39_word_dash_6: error-business-gorilla-antenna-mushroom-vault
+bip_39_word_dash_7: error-business-gorilla-antenna-mushroom-vault-seminar
+bip_39_word_dash_8: error-business-gorilla-antenna-mushroom-vault-seminar-infant
+bip_39_word_dash_9: error-business-gorilla-antenna-mushroom-vault-seminar-infant-wash
+bip_39_word_new_br_1: error
+bip_39_word_new_br_10: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar
+bip_39_word_new_br_11: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash
+bip_39_word_new_br_12: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash<br>seminar<br>wash<br>art
+bip_39_word_new_br_2: error<br>business
+bip_39_word_new_br_3: error<br>business<br>gorilla
+bip_39_word_new_br_4: error<br>business<br>gorilla<br>antenna
+bip_39_word_new_br_5: error<br>business<br>gorilla<br>antenna<br>mushroom
+bip_39_word_new_br_6: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault
+bip_39_word_new_br_7: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar
+bip_39_word_new_br_8: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant
+bip_39_word_new_br_9: error<br>business<br>gorilla<br>antenna<br>mushroom<br>vault<br>seminar<br>infant<br>wash
+bip_39_word_new_line_1: error
+bip_39_word_new_line_10: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar
+
+  infant
+
+  wash
+
+  seminar'
+bip_39_word_new_line_11: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar
+
+  infant
+
+  wash
+
+  seminar
+
+  wash'
+bip_39_word_new_line_12: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar
+
+  infant
+
+  wash
+
+  seminar
+
+  wash
+
+  art'
+bip_39_word_new_line_2: 'error
+
+  business'
+bip_39_word_new_line_3: 'error
+
+  business
+
+  gorilla'
+bip_39_word_new_line_4: 'error
+
+  business
+
+  gorilla
+
+  antenna'
+bip_39_word_new_line_5: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom'
+bip_39_word_new_line_6: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault'
+bip_39_word_new_line_7: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar'
+bip_39_word_new_line_8: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar
+
+  infant'
+bip_39_word_new_line_9: 'error
+
+  business
+
+  gorilla
+
+  antenna
+
+  mushroom
+
+  vault
+
+  seminar
+
+  infant
+
+  wash'
+bip_39_word_no_space_1: error
+bip_39_word_no_space_10: errorbusinessgorillaantennamushroomvaultseminarinfantwashseminar
+bip_39_word_no_space_11: errorbusinessgorillaantennamushroomvaultseminarinfantwashseminarwash
+bip_39_word_no_space_12: errorbusinessgorillaantennamushroomvaultseminarinfantwashseminarwashart
+bip_39_word_no_space_2: errorbusiness
+bip_39_word_no_space_3: errorbusinessgorilla
+bip_39_word_no_space_4: errorbusinessgorillaantenna
+bip_39_word_no_space_5: errorbusinessgorillaantennamushroom
+bip_39_word_no_space_6: errorbusinessgorillaantennamushroomvault
+bip_39_word_no_space_7: errorbusinessgorillaantennamushroomvaultseminar
+bip_39_word_no_space_8: errorbusinessgorillaantennamushroomvaultseminarinfant
+bip_39_word_no_space_9: errorbusinessgorillaantennamushroomvaultseminarinfantwash
+bip_39_word_space_0:
+- error
+- business
+- gorilla
+- antenna
+- mushroom
+- vault
+- seminar
+- infant
+- wash
+- seminar
+- wash
+- art
+bip_39_word_space_1: error
+bip_39_word_space_10: error business gorilla antenna mushroom vault seminar infant
+  wash seminar
+bip_39_word_space_11: error business gorilla antenna mushroom vault seminar infant
+  wash seminar wash
+bip_39_word_space_12: error business gorilla antenna mushroom vault seminar infant
+  wash seminar wash art
+bip_39_word_space_2: error business
+bip_39_word_space_3: error business gorilla
+bip_39_word_space_4: error business gorilla antenna
+bip_39_word_space_5: error business gorilla antenna mushroom
+bip_39_word_space_6: error business gorilla antenna mushroom vault
+bip_39_word_space_7: error business gorilla antenna mushroom vault seminar
+bip_39_word_space_8: error business gorilla antenna mushroom vault seminar infant
+bip_39_word_space_9: error business gorilla antenna mushroom vault seminar infant
+  wash
+bip_39_word_underscore_1: error
+bip_39_word_underscore_10: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar
+bip_39_word_underscore_11: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar_wash
+bip_39_word_underscore_12: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash_seminar_wash_art
+bip_39_word_underscore_2: error_business
+bip_39_word_underscore_3: error_business_gorilla
+bip_39_word_underscore_4: error_business_gorilla_antenna
+bip_39_word_underscore_5: error_business_gorilla_antenna_mushroom
+bip_39_word_underscore_6: error_business_gorilla_antenna_mushroom_vault
+bip_39_word_underscore_7: error_business_gorilla_antenna_mushroom_vault_seminar
+bip_39_word_underscore_8: error_business_gorilla_antenna_mushroom_vault_seminar_infant
+bip_39_word_underscore_9: error_business_gorilla_antenna_mushroom_vault_seminar_infant_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +303,14 @@ id_no_class: part_plate_03_03_15
 id_no_color: '030315'
 id_no_size: '03_03_15'
 id_no_type: plate_03_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20819m8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20819m8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20819m8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +336,7 @@ name_no_color: '030315'
 name_no_size: 03 03 15
 name_no_size_short: 03 03 15
 name_no_type: Plate 03 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_03_15
 oomp_word: strawberry ambulance train
 oomp_word_emoji: ':strawberry: :ambulance: :train:'

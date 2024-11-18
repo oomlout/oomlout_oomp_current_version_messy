@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 05 01  K
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_05_01__k
   * classification: oobb

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 27 01 12
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_27_01_12
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :snowman: :ant: :tophat:
 * md5_6_alpha: 1rnan
 * md5_6: 2d4faf
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201rnan)
+[2x1](http://192.168.1.242:1112/?label=oomp%201rnan)
+[6x4](http://192.168.1.55:1112/?label=oomp%201rnan)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_27_01_12) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_01_12)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ harsh |
 | id_no_color | 270112 |  
 | id_no_size | 27_01_12 |  
 | id_no_type | plate_27_01_12 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_27_01_12 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_01_12 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_27_01_12 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201rnan |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201rnan |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201rnan |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ harsh |
 | name_no_size | 27 01 12 |  
 | name_no_size_short | 27 01 12 |  
 | name_no_type | Plate 27 01 12 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_27_01_12 |  
 | oomp_word | snowman ant tophat |  
 | oomp_word_emoji | :snowman: :ant: :tophat: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Tablet Microsoft Surface Pro 5 Microsoft Model 1796
+* name_short: 
 ### id
 * oomp_id: computer_tablet_microsoft_surface_pro_5_microsoft_model_1796
   * classification: computer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bread: :ant: :corn:
 * md5_6_alpha: 7i4t0
 * md5_6: c04fd4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207i4t0)
+[2x1](http://192.168.1.242:1112/?label=oomp%207i4t0)
+[6x4](http://192.168.1.55:1112/?label=oomp%207i4t0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ jaguar |
 | id_no_color | pro5microsoftmodel1796 |  
 | id_no_size | pro_5_microsoft_model_1796 |  
 | id_no_type | microsoft_surface_pro_5_microsoft_model_1796 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_5_microsoft_model_1796 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207i4t0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207i4t0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207i4t0 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -306,6 +339,7 @@ jaguar |
 | name_no_size | Pro 5 Microsoft Model 1796 |  
 | name_no_size_short | Pro 5 Microsoft Model 1796 |  
 | name_no_type | Microsoft Surface Pro 5 Microsoft Model 1796 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_tablet_microsoft_surface_pro_5_microsoft_model_1796 |  
 | oomp_word | bread ant corn |  
 | oomp_word_emoji | :bread: :ant: :corn: |  

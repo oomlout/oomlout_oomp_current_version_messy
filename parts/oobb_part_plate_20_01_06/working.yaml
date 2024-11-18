@@ -1,3 +1,222 @@
+bip_39_word_dash_1: eagle
+bip_39_word_dash_10: eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff
+bip_39_word_dash_11: eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff-cotton
+bip_39_word_dash_12: eagle-around-kiss-reject-tank-topple-arctic-laundry-inch-sniff-cotton-amount
+bip_39_word_dash_2: eagle-around
+bip_39_word_dash_3: eagle-around-kiss
+bip_39_word_dash_4: eagle-around-kiss-reject
+bip_39_word_dash_5: eagle-around-kiss-reject-tank
+bip_39_word_dash_6: eagle-around-kiss-reject-tank-topple
+bip_39_word_dash_7: eagle-around-kiss-reject-tank-topple-arctic
+bip_39_word_dash_8: eagle-around-kiss-reject-tank-topple-arctic-laundry
+bip_39_word_dash_9: eagle-around-kiss-reject-tank-topple-arctic-laundry-inch
+bip_39_word_new_br_1: eagle
+bip_39_word_new_br_10: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff
+bip_39_word_new_br_11: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff<br>cotton
+bip_39_word_new_br_12: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch<br>sniff<br>cotton<br>amount
+bip_39_word_new_br_2: eagle<br>around
+bip_39_word_new_br_3: eagle<br>around<br>kiss
+bip_39_word_new_br_4: eagle<br>around<br>kiss<br>reject
+bip_39_word_new_br_5: eagle<br>around<br>kiss<br>reject<br>tank
+bip_39_word_new_br_6: eagle<br>around<br>kiss<br>reject<br>tank<br>topple
+bip_39_word_new_br_7: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic
+bip_39_word_new_br_8: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry
+bip_39_word_new_br_9: eagle<br>around<br>kiss<br>reject<br>tank<br>topple<br>arctic<br>laundry<br>inch
+bip_39_word_new_line_1: eagle
+bip_39_word_new_line_10: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff'
+bip_39_word_new_line_11: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff
+
+  cotton'
+bip_39_word_new_line_12: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch
+
+  sniff
+
+  cotton
+
+  amount'
+bip_39_word_new_line_2: 'eagle
+
+  around'
+bip_39_word_new_line_3: 'eagle
+
+  around
+
+  kiss'
+bip_39_word_new_line_4: 'eagle
+
+  around
+
+  kiss
+
+  reject'
+bip_39_word_new_line_5: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank'
+bip_39_word_new_line_6: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple'
+bip_39_word_new_line_7: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic'
+bip_39_word_new_line_8: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry'
+bip_39_word_new_line_9: 'eagle
+
+  around
+
+  kiss
+
+  reject
+
+  tank
+
+  topple
+
+  arctic
+
+  laundry
+
+  inch'
+bip_39_word_no_space_1: eagle
+bip_39_word_no_space_10: eaglearoundkissrejecttanktopplearcticlaundryinchsniff
+bip_39_word_no_space_11: eaglearoundkissrejecttanktopplearcticlaundryinchsniffcotton
+bip_39_word_no_space_12: eaglearoundkissrejecttanktopplearcticlaundryinchsniffcottonamount
+bip_39_word_no_space_2: eaglearound
+bip_39_word_no_space_3: eaglearoundkiss
+bip_39_word_no_space_4: eaglearoundkissreject
+bip_39_word_no_space_5: eaglearoundkissrejecttank
+bip_39_word_no_space_6: eaglearoundkissrejecttanktopple
+bip_39_word_no_space_7: eaglearoundkissrejecttanktopplearctic
+bip_39_word_no_space_8: eaglearoundkissrejecttanktopplearcticlaundry
+bip_39_word_no_space_9: eaglearoundkissrejecttanktopplearcticlaundryinch
+bip_39_word_space_0:
+- eagle
+- around
+- kiss
+- reject
+- tank
+- topple
+- arctic
+- laundry
+- inch
+- sniff
+- cotton
+- amount
+bip_39_word_space_1: eagle
+bip_39_word_space_10: eagle around kiss reject tank topple arctic laundry inch sniff
+bip_39_word_space_11: eagle around kiss reject tank topple arctic laundry inch sniff
+  cotton
+bip_39_word_space_12: eagle around kiss reject tank topple arctic laundry inch sniff
+  cotton amount
+bip_39_word_space_2: eagle around
+bip_39_word_space_3: eagle around kiss
+bip_39_word_space_4: eagle around kiss reject
+bip_39_word_space_5: eagle around kiss reject tank
+bip_39_word_space_6: eagle around kiss reject tank topple
+bip_39_word_space_7: eagle around kiss reject tank topple arctic
+bip_39_word_space_8: eagle around kiss reject tank topple arctic laundry
+bip_39_word_space_9: eagle around kiss reject tank topple arctic laundry inch
+bip_39_word_underscore_1: eagle
+bip_39_word_underscore_10: eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff
+bip_39_word_underscore_11: eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff_cotton
+bip_39_word_underscore_12: eagle_around_kiss_reject_tank_topple_arctic_laundry_inch_sniff_cotton_amount
+bip_39_word_underscore_2: eagle_around
+bip_39_word_underscore_3: eagle_around_kiss
+bip_39_word_underscore_4: eagle_around_kiss_reject
+bip_39_word_underscore_5: eagle_around_kiss_reject_tank
+bip_39_word_underscore_6: eagle_around_kiss_reject_tank_topple
+bip_39_word_underscore_7: eagle_around_kiss_reject_tank_topple_arctic
+bip_39_word_underscore_8: eagle_around_kiss_reject_tank_topple_arctic_laundry
+bip_39_word_underscore_9: eagle_around_kiss_reject_tank_topple_arctic_laundry_inch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_20_01_06
 id_no_color: '200106'
 id_no_size: '20_01_06'
 id_no_type: plate_20_01_06
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_20_01_06
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_06
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_20_01_06
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2050bzn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2050bzn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2050bzn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '200106'
 name_no_size: 20 01 06
 name_no_size_short: 20 01 06
 name_no_type: Plate 20 01 06
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_20_01_06
 oomp_word: hourglass bouquet eyeglasses
 oomp_word_emoji: ':hourglass: :bouquet: :eyeglasses:'

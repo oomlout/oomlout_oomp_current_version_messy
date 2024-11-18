@@ -1,3 +1,221 @@
+bip_39_word_dash_1: blame
+bip_39_word_dash_10: blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch
+bip_39_word_dash_11: blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch-song
+bip_39_word_dash_12: blame-river-buzz-slab-bounce-rifle-cherry-you-way-crouch-song-allow
+bip_39_word_dash_2: blame-river
+bip_39_word_dash_3: blame-river-buzz
+bip_39_word_dash_4: blame-river-buzz-slab
+bip_39_word_dash_5: blame-river-buzz-slab-bounce
+bip_39_word_dash_6: blame-river-buzz-slab-bounce-rifle
+bip_39_word_dash_7: blame-river-buzz-slab-bounce-rifle-cherry
+bip_39_word_dash_8: blame-river-buzz-slab-bounce-rifle-cherry-you
+bip_39_word_dash_9: blame-river-buzz-slab-bounce-rifle-cherry-you-way
+bip_39_word_new_br_1: blame
+bip_39_word_new_br_10: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch
+bip_39_word_new_br_11: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch<br>song
+bip_39_word_new_br_12: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way<br>crouch<br>song<br>allow
+bip_39_word_new_br_2: blame<br>river
+bip_39_word_new_br_3: blame<br>river<br>buzz
+bip_39_word_new_br_4: blame<br>river<br>buzz<br>slab
+bip_39_word_new_br_5: blame<br>river<br>buzz<br>slab<br>bounce
+bip_39_word_new_br_6: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle
+bip_39_word_new_br_7: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry
+bip_39_word_new_br_8: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you
+bip_39_word_new_br_9: blame<br>river<br>buzz<br>slab<br>bounce<br>rifle<br>cherry<br>you<br>way
+bip_39_word_new_line_1: blame
+bip_39_word_new_line_10: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry
+
+  you
+
+  way
+
+  crouch'
+bip_39_word_new_line_11: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry
+
+  you
+
+  way
+
+  crouch
+
+  song'
+bip_39_word_new_line_12: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry
+
+  you
+
+  way
+
+  crouch
+
+  song
+
+  allow'
+bip_39_word_new_line_2: 'blame
+
+  river'
+bip_39_word_new_line_3: 'blame
+
+  river
+
+  buzz'
+bip_39_word_new_line_4: 'blame
+
+  river
+
+  buzz
+
+  slab'
+bip_39_word_new_line_5: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce'
+bip_39_word_new_line_6: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle'
+bip_39_word_new_line_7: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry'
+bip_39_word_new_line_8: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry
+
+  you'
+bip_39_word_new_line_9: 'blame
+
+  river
+
+  buzz
+
+  slab
+
+  bounce
+
+  rifle
+
+  cherry
+
+  you
+
+  way'
+bip_39_word_no_space_1: blame
+bip_39_word_no_space_10: blameriverbuzzslabbounceriflecherryyouwaycrouch
+bip_39_word_no_space_11: blameriverbuzzslabbounceriflecherryyouwaycrouchsong
+bip_39_word_no_space_12: blameriverbuzzslabbounceriflecherryyouwaycrouchsongallow
+bip_39_word_no_space_2: blameriver
+bip_39_word_no_space_3: blameriverbuzz
+bip_39_word_no_space_4: blameriverbuzzslab
+bip_39_word_no_space_5: blameriverbuzzslabbounce
+bip_39_word_no_space_6: blameriverbuzzslabbouncerifle
+bip_39_word_no_space_7: blameriverbuzzslabbounceriflecherry
+bip_39_word_no_space_8: blameriverbuzzslabbounceriflecherryyou
+bip_39_word_no_space_9: blameriverbuzzslabbounceriflecherryyouway
+bip_39_word_space_0:
+- blame
+- river
+- buzz
+- slab
+- bounce
+- rifle
+- cherry
+- you
+- way
+- crouch
+- song
+- allow
+bip_39_word_space_1: blame
+bip_39_word_space_10: blame river buzz slab bounce rifle cherry you way crouch
+bip_39_word_space_11: blame river buzz slab bounce rifle cherry you way crouch song
+bip_39_word_space_12: blame river buzz slab bounce rifle cherry you way crouch song
+  allow
+bip_39_word_space_2: blame river
+bip_39_word_space_3: blame river buzz
+bip_39_word_space_4: blame river buzz slab
+bip_39_word_space_5: blame river buzz slab bounce
+bip_39_word_space_6: blame river buzz slab bounce rifle
+bip_39_word_space_7: blame river buzz slab bounce rifle cherry
+bip_39_word_space_8: blame river buzz slab bounce rifle cherry you
+bip_39_word_space_9: blame river buzz slab bounce rifle cherry you way
+bip_39_word_underscore_1: blame
+bip_39_word_underscore_10: blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch
+bip_39_word_underscore_11: blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch_song
+bip_39_word_underscore_12: blame_river_buzz_slab_bounce_rifle_cherry_you_way_crouch_song_allow
+bip_39_word_underscore_2: blame_river
+bip_39_word_underscore_3: blame_river_buzz
+bip_39_word_underscore_4: blame_river_buzz_slab
+bip_39_word_underscore_5: blame_river_buzz_slab_bounce
+bip_39_word_underscore_6: blame_river_buzz_slab_bounce_rifle
+bip_39_word_underscore_7: blame_river_buzz_slab_bounce_rifle_cherry
+bip_39_word_underscore_8: blame_river_buzz_slab_bounce_rifle_cherry_you
+bip_39_word_underscore_9: blame_river_buzz_slab_bounce_rifle_cherry_you_way
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_15_15_90
 id_no_color: '151590'
 id_no_size: '15_15_90'
 id_no_type: tray_15_15_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_15_15_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_15_15_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_15_15_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2047619
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2047619
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2047619
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '151590'
 name_no_size: 15 15 90
 name_no_size_short: 15 15 90
 name_no_type: Tray 15 15 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_15_15_90
 oomp_word: chestnut clubs bug
 oomp_word_emoji: ':chestnut: :clubs: :bug:'

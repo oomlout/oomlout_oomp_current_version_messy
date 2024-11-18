@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Tablet Microsoft Surface Pro 7 Microsoft Model 1866
+* name_short: 
 ### id
 * oomp_id: computer_tablet_microsoft_surface_pro_7_microsoft_model_1866
   * classification: computer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :octopus: :pushpin: :grapes:
 * md5_6_alpha: 37zd7
 * md5_6: 5291cb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2037zd7)
+[2x1](http://192.168.1.242:1112/?label=oomp%2037zd7)
+[6x4](http://192.168.1.55:1112/?label=oomp%2037zd7)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ insane |
 | id_no_color | pro7microsoftmodel1866 |  
 | id_no_size | pro_7_microsoft_model_1866 |  
 | id_no_type | microsoft_surface_pro_7_microsoft_model_1866 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_7_microsoft_model_1866 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2037zd7 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2037zd7 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2037zd7 |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -306,6 +339,7 @@ insane |
 | name_no_size | Pro 7 Microsoft Model 1866 |  
 | name_no_size_short | Pro 7 Microsoft Model 1866 |  
 | name_no_type | Microsoft Surface Pro 7 Microsoft Model 1866 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_tablet_microsoft_surface_pro_7_microsoft_model_1866 |  
 | oomp_word | octopus pushpin grapes |  
 | oomp_word_emoji | :octopus: :pushpin: :grapes: |  

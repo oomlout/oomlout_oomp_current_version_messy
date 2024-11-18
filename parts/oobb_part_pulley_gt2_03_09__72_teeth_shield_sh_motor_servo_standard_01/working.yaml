@@ -1,3 +1,222 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp
+bip_39_word_dash_11: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp-mosquito
+bip_39_word_dash_12: gaze-ignore-home-drink-toss-meadow-radio-together-elder-shrimp-mosquito-acoustic
+bip_39_word_dash_2: gaze-ignore
+bip_39_word_dash_3: gaze-ignore-home
+bip_39_word_dash_4: gaze-ignore-home-drink
+bip_39_word_dash_5: gaze-ignore-home-drink-toss
+bip_39_word_dash_6: gaze-ignore-home-drink-toss-meadow
+bip_39_word_dash_7: gaze-ignore-home-drink-toss-meadow-radio
+bip_39_word_dash_8: gaze-ignore-home-drink-toss-meadow-radio-together
+bip_39_word_dash_9: gaze-ignore-home-drink-toss-meadow-radio-together-elder
+bip_39_word_new_br_1: gaze
+bip_39_word_new_br_10: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp
+bip_39_word_new_br_11: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp<br>mosquito
+bip_39_word_new_br_12: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder<br>shrimp<br>mosquito<br>acoustic
+bip_39_word_new_br_2: gaze<br>ignore
+bip_39_word_new_br_3: gaze<br>ignore<br>home
+bip_39_word_new_br_4: gaze<br>ignore<br>home<br>drink
+bip_39_word_new_br_5: gaze<br>ignore<br>home<br>drink<br>toss
+bip_39_word_new_br_6: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow
+bip_39_word_new_br_7: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio
+bip_39_word_new_br_8: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together
+bip_39_word_new_br_9: gaze<br>ignore<br>home<br>drink<br>toss<br>meadow<br>radio<br>together<br>elder
+bip_39_word_new_line_1: gaze
+bip_39_word_new_line_10: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp'
+bip_39_word_new_line_11: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp
+
+  mosquito'
+bip_39_word_new_line_12: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder
+
+  shrimp
+
+  mosquito
+
+  acoustic'
+bip_39_word_new_line_2: 'gaze
+
+  ignore'
+bip_39_word_new_line_3: 'gaze
+
+  ignore
+
+  home'
+bip_39_word_new_line_4: 'gaze
+
+  ignore
+
+  home
+
+  drink'
+bip_39_word_new_line_5: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss'
+bip_39_word_new_line_6: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow'
+bip_39_word_new_line_7: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio'
+bip_39_word_new_line_8: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together'
+bip_39_word_new_line_9: 'gaze
+
+  ignore
+
+  home
+
+  drink
+
+  toss
+
+  meadow
+
+  radio
+
+  together
+
+  elder'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazeignorehomedrinktossmeadowradiotogethereldershrimp
+bip_39_word_no_space_11: gazeignorehomedrinktossmeadowradiotogethereldershrimpmosquito
+bip_39_word_no_space_12: gazeignorehomedrinktossmeadowradiotogethereldershrimpmosquitoacoustic
+bip_39_word_no_space_2: gazeignore
+bip_39_word_no_space_3: gazeignorehome
+bip_39_word_no_space_4: gazeignorehomedrink
+bip_39_word_no_space_5: gazeignorehomedrinktoss
+bip_39_word_no_space_6: gazeignorehomedrinktossmeadow
+bip_39_word_no_space_7: gazeignorehomedrinktossmeadowradio
+bip_39_word_no_space_8: gazeignorehomedrinktossmeadowradiotogether
+bip_39_word_no_space_9: gazeignorehomedrinktossmeadowradiotogetherelder
+bip_39_word_space_0:
+- gaze
+- ignore
+- home
+- drink
+- toss
+- meadow
+- radio
+- together
+- elder
+- shrimp
+- mosquito
+- acoustic
+bip_39_word_space_1: gaze
+bip_39_word_space_10: gaze ignore home drink toss meadow radio together elder shrimp
+bip_39_word_space_11: gaze ignore home drink toss meadow radio together elder shrimp
+  mosquito
+bip_39_word_space_12: gaze ignore home drink toss meadow radio together elder shrimp
+  mosquito acoustic
+bip_39_word_space_2: gaze ignore
+bip_39_word_space_3: gaze ignore home
+bip_39_word_space_4: gaze ignore home drink
+bip_39_word_space_5: gaze ignore home drink toss
+bip_39_word_space_6: gaze ignore home drink toss meadow
+bip_39_word_space_7: gaze ignore home drink toss meadow radio
+bip_39_word_space_8: gaze ignore home drink toss meadow radio together
+bip_39_word_space_9: gaze ignore home drink toss meadow radio together elder
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp
+bip_39_word_underscore_11: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp_mosquito
+bip_39_word_underscore_12: gaze_ignore_home_drink_toss_meadow_radio_together_elder_shrimp_mosquito_acoustic
+bip_39_word_underscore_2: gaze_ignore
+bip_39_word_underscore_3: gaze_ignore_home
+bip_39_word_underscore_4: gaze_ignore_home_drink
+bip_39_word_underscore_5: gaze_ignore_home_drink_toss
+bip_39_word_underscore_6: gaze_ignore_home_drink_toss_meadow
+bip_39_word_underscore_7: gaze_ignore_home_drink_toss_meadow_radio
+bip_39_word_underscore_8: gaze_ignore_home_drink_toss_meadow_radio_together
+bip_39_word_underscore_9: gaze_ignore_home_drink_toss_meadow_radio_together_elder
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
 id_no_color: 030972teethshieldshmotorservostandard01
 id_no_size: 03_09__72_teeth_shield_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201aj3l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201aj3l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201aj3l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030972Teethshieldshmotorservostandard01
 name_no_size: 03 09  72 Teeth Shield Sh Motor Servo Standard 01
 name_no_size_short: 03 09  72 Teeth Shield Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 03 09  72 Teeth Shield Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_03_09__72_teeth_shield_sh_motor_servo_standard_01
 oomp_word: feet skull ocean
 oomp_word_emoji: ':feet: :skull: :ocean:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: image
+bip_39_word_dash_10: image-crouch-mother-fortune-inspire-average-switch-blood-result-awake
+bip_39_word_dash_11: image-crouch-mother-fortune-inspire-average-switch-blood-result-awake-mushroom
+bip_39_word_dash_12: image-crouch-mother-fortune-inspire-average-switch-blood-result-awake-mushroom-annual
+bip_39_word_dash_2: image-crouch
+bip_39_word_dash_3: image-crouch-mother
+bip_39_word_dash_4: image-crouch-mother-fortune
+bip_39_word_dash_5: image-crouch-mother-fortune-inspire
+bip_39_word_dash_6: image-crouch-mother-fortune-inspire-average
+bip_39_word_dash_7: image-crouch-mother-fortune-inspire-average-switch
+bip_39_word_dash_8: image-crouch-mother-fortune-inspire-average-switch-blood
+bip_39_word_dash_9: image-crouch-mother-fortune-inspire-average-switch-blood-result
+bip_39_word_new_br_1: image
+bip_39_word_new_br_10: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake
+bip_39_word_new_br_11: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake<br>mushroom
+bip_39_word_new_br_12: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result<br>awake<br>mushroom<br>annual
+bip_39_word_new_br_2: image<br>crouch
+bip_39_word_new_br_3: image<br>crouch<br>mother
+bip_39_word_new_br_4: image<br>crouch<br>mother<br>fortune
+bip_39_word_new_br_5: image<br>crouch<br>mother<br>fortune<br>inspire
+bip_39_word_new_br_6: image<br>crouch<br>mother<br>fortune<br>inspire<br>average
+bip_39_word_new_br_7: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch
+bip_39_word_new_br_8: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood
+bip_39_word_new_br_9: image<br>crouch<br>mother<br>fortune<br>inspire<br>average<br>switch<br>blood<br>result
+bip_39_word_new_line_1: image
+bip_39_word_new_line_10: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch
+
+  blood
+
+  result
+
+  awake'
+bip_39_word_new_line_11: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch
+
+  blood
+
+  result
+
+  awake
+
+  mushroom'
+bip_39_word_new_line_12: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch
+
+  blood
+
+  result
+
+  awake
+
+  mushroom
+
+  annual'
+bip_39_word_new_line_2: 'image
+
+  crouch'
+bip_39_word_new_line_3: 'image
+
+  crouch
+
+  mother'
+bip_39_word_new_line_4: 'image
+
+  crouch
+
+  mother
+
+  fortune'
+bip_39_word_new_line_5: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire'
+bip_39_word_new_line_6: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average'
+bip_39_word_new_line_7: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch'
+bip_39_word_new_line_8: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch
+
+  blood'
+bip_39_word_new_line_9: 'image
+
+  crouch
+
+  mother
+
+  fortune
+
+  inspire
+
+  average
+
+  switch
+
+  blood
+
+  result'
+bip_39_word_no_space_1: image
+bip_39_word_no_space_10: imagecrouchmotherfortuneinspireaverageswitchbloodresultawake
+bip_39_word_no_space_11: imagecrouchmotherfortuneinspireaverageswitchbloodresultawakemushroom
+bip_39_word_no_space_12: imagecrouchmotherfortuneinspireaverageswitchbloodresultawakemushroomannual
+bip_39_word_no_space_2: imagecrouch
+bip_39_word_no_space_3: imagecrouchmother
+bip_39_word_no_space_4: imagecrouchmotherfortune
+bip_39_word_no_space_5: imagecrouchmotherfortuneinspire
+bip_39_word_no_space_6: imagecrouchmotherfortuneinspireaverage
+bip_39_word_no_space_7: imagecrouchmotherfortuneinspireaverageswitch
+bip_39_word_no_space_8: imagecrouchmotherfortuneinspireaverageswitchblood
+bip_39_word_no_space_9: imagecrouchmotherfortuneinspireaverageswitchbloodresult
+bip_39_word_space_0:
+- image
+- crouch
+- mother
+- fortune
+- inspire
+- average
+- switch
+- blood
+- result
+- awake
+- mushroom
+- annual
+bip_39_word_space_1: image
+bip_39_word_space_10: image crouch mother fortune inspire average switch blood result
+  awake
+bip_39_word_space_11: image crouch mother fortune inspire average switch blood result
+  awake mushroom
+bip_39_word_space_12: image crouch mother fortune inspire average switch blood result
+  awake mushroom annual
+bip_39_word_space_2: image crouch
+bip_39_word_space_3: image crouch mother
+bip_39_word_space_4: image crouch mother fortune
+bip_39_word_space_5: image crouch mother fortune inspire
+bip_39_word_space_6: image crouch mother fortune inspire average
+bip_39_word_space_7: image crouch mother fortune inspire average switch
+bip_39_word_space_8: image crouch mother fortune inspire average switch blood
+bip_39_word_space_9: image crouch mother fortune inspire average switch blood result
+bip_39_word_underscore_1: image
+bip_39_word_underscore_10: image_crouch_mother_fortune_inspire_average_switch_blood_result_awake
+bip_39_word_underscore_11: image_crouch_mother_fortune_inspire_average_switch_blood_result_awake_mushroom
+bip_39_word_underscore_12: image_crouch_mother_fortune_inspire_average_switch_blood_result_awake_mushroom_annual
+bip_39_word_underscore_2: image_crouch
+bip_39_word_underscore_3: image_crouch_mother
+bip_39_word_underscore_4: image_crouch_mother_fortune
+bip_39_word_underscore_5: image_crouch_mother_fortune_inspire
+bip_39_word_underscore_6: image_crouch_mother_fortune_inspire_average
+bip_39_word_underscore_7: image_crouch_mother_fortune_inspire_average_switch
+bip_39_word_underscore_8: image_crouch_mother_fortune_inspire_average_switch_blood
+bip_39_word_underscore_9: image_crouch_mother_fortune_inspire_average_switch_blood_result
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
 id_no_color: 35_mm_id_80_mm_od_21_mm_depth
 id_no_size: 6307_size_35_mm_id_80_mm_od_21_mm_depth
 id_no_type: 6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205waro
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205waro
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205waro
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 35 mm ID 80 mm OD 21 mm Depth
 name_no_size: 6307 Size 35 mm ID 80 mm OD 21 mm Depth
 name_no_size_short: 6307 Size 35 Mm Id 80 Mm Od 21 Mm Depth
 name_no_type: 6300 Series 6307 Size 35 mm ID 80 mm OD 21 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6307
+oomlout_short_code_upper: BR6307
 oomp_key: oomp_hardware_bearing_6300_series_6307_size_35_mm_id_80_mm_od_21_mm_depth
 oomp_word: baseball kiss key
 oomp_word_emoji: ':baseball: :kiss: :key:'

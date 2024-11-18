@@ -1,3 +1,223 @@
+bip_39_word_dash_1: monster
+bip_39_word_dash_10: monster-insane-decrease-enough-grape-vague-crazy-turtle-gospel-actor
+bip_39_word_dash_11: monster-insane-decrease-enough-grape-vague-crazy-turtle-gospel-actor-era
+bip_39_word_dash_12: monster-insane-decrease-enough-grape-vague-crazy-turtle-gospel-actor-era-april
+bip_39_word_dash_2: monster-insane
+bip_39_word_dash_3: monster-insane-decrease
+bip_39_word_dash_4: monster-insane-decrease-enough
+bip_39_word_dash_5: monster-insane-decrease-enough-grape
+bip_39_word_dash_6: monster-insane-decrease-enough-grape-vague
+bip_39_word_dash_7: monster-insane-decrease-enough-grape-vague-crazy
+bip_39_word_dash_8: monster-insane-decrease-enough-grape-vague-crazy-turtle
+bip_39_word_dash_9: monster-insane-decrease-enough-grape-vague-crazy-turtle-gospel
+bip_39_word_new_br_1: monster
+bip_39_word_new_br_10: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor
+bip_39_word_new_br_11: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor<br>era
+bip_39_word_new_br_12: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel<br>actor<br>era<br>april
+bip_39_word_new_br_2: monster<br>insane
+bip_39_word_new_br_3: monster<br>insane<br>decrease
+bip_39_word_new_br_4: monster<br>insane<br>decrease<br>enough
+bip_39_word_new_br_5: monster<br>insane<br>decrease<br>enough<br>grape
+bip_39_word_new_br_6: monster<br>insane<br>decrease<br>enough<br>grape<br>vague
+bip_39_word_new_br_7: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy
+bip_39_word_new_br_8: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle
+bip_39_word_new_br_9: monster<br>insane<br>decrease<br>enough<br>grape<br>vague<br>crazy<br>turtle<br>gospel
+bip_39_word_new_line_1: monster
+bip_39_word_new_line_10: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy
+
+  turtle
+
+  gospel
+
+  actor'
+bip_39_word_new_line_11: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy
+
+  turtle
+
+  gospel
+
+  actor
+
+  era'
+bip_39_word_new_line_12: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy
+
+  turtle
+
+  gospel
+
+  actor
+
+  era
+
+  april'
+bip_39_word_new_line_2: 'monster
+
+  insane'
+bip_39_word_new_line_3: 'monster
+
+  insane
+
+  decrease'
+bip_39_word_new_line_4: 'monster
+
+  insane
+
+  decrease
+
+  enough'
+bip_39_word_new_line_5: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape'
+bip_39_word_new_line_6: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague'
+bip_39_word_new_line_7: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy'
+bip_39_word_new_line_8: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy
+
+  turtle'
+bip_39_word_new_line_9: 'monster
+
+  insane
+
+  decrease
+
+  enough
+
+  grape
+
+  vague
+
+  crazy
+
+  turtle
+
+  gospel'
+bip_39_word_no_space_1: monster
+bip_39_word_no_space_10: monsterinsanedecreaseenoughgrapevaguecrazyturtlegospelactor
+bip_39_word_no_space_11: monsterinsanedecreaseenoughgrapevaguecrazyturtlegospelactorera
+bip_39_word_no_space_12: monsterinsanedecreaseenoughgrapevaguecrazyturtlegospelactoreraapril
+bip_39_word_no_space_2: monsterinsane
+bip_39_word_no_space_3: monsterinsanedecrease
+bip_39_word_no_space_4: monsterinsanedecreaseenough
+bip_39_word_no_space_5: monsterinsanedecreaseenoughgrape
+bip_39_word_no_space_6: monsterinsanedecreaseenoughgrapevague
+bip_39_word_no_space_7: monsterinsanedecreaseenoughgrapevaguecrazy
+bip_39_word_no_space_8: monsterinsanedecreaseenoughgrapevaguecrazyturtle
+bip_39_word_no_space_9: monsterinsanedecreaseenoughgrapevaguecrazyturtlegospel
+bip_39_word_space_0:
+- monster
+- insane
+- decrease
+- enough
+- grape
+- vague
+- crazy
+- turtle
+- gospel
+- actor
+- era
+- april
+bip_39_word_space_1: monster
+bip_39_word_space_10: monster insane decrease enough grape vague crazy turtle gospel
+  actor
+bip_39_word_space_11: monster insane decrease enough grape vague crazy turtle gospel
+  actor era
+bip_39_word_space_12: monster insane decrease enough grape vague crazy turtle gospel
+  actor era april
+bip_39_word_space_2: monster insane
+bip_39_word_space_3: monster insane decrease
+bip_39_word_space_4: monster insane decrease enough
+bip_39_word_space_5: monster insane decrease enough grape
+bip_39_word_space_6: monster insane decrease enough grape vague
+bip_39_word_space_7: monster insane decrease enough grape vague crazy
+bip_39_word_space_8: monster insane decrease enough grape vague crazy turtle
+bip_39_word_space_9: monster insane decrease enough grape vague crazy turtle gospel
+bip_39_word_underscore_1: monster
+bip_39_word_underscore_10: monster_insane_decrease_enough_grape_vague_crazy_turtle_gospel_actor
+bip_39_word_underscore_11: monster_insane_decrease_enough_grape_vague_crazy_turtle_gospel_actor_era
+bip_39_word_underscore_12: monster_insane_decrease_enough_grape_vague_crazy_turtle_gospel_actor_era_april
+bip_39_word_underscore_2: monster_insane
+bip_39_word_underscore_3: monster_insane_decrease
+bip_39_word_underscore_4: monster_insane_decrease_enough
+bip_39_word_underscore_5: monster_insane_decrease_enough_grape
+bip_39_word_underscore_6: monster_insane_decrease_enough_grape_vague
+bip_39_word_underscore_7: monster_insane_decrease_enough_grape_vague_crazy
+bip_39_word_underscore_8: monster_insane_decrease_enough_grape_vague_crazy_turtle
+bip_39_word_underscore_9: monster_insane_decrease_enough_grape_vague_crazy_turtle_gospel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_05_01__y
 id_no_color: 0501y
 id_no_size: 05_01__y
 id_no_type: bunting_alphabet_05_01__y
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__y
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__y
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__y
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206t8xs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206t8xs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206t8xs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0501Y
 name_no_size: 05 01  Y
 name_no_size_short: 05 01  Y
 name_no_type: Bunting Alphabet 05 01  Y
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__y
 oomp_word: jeans tennis hourglass
 oomp_word_emoji: ':jeans: :tennis: :hourglass:'

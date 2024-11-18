@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hidden
+bip_39_word_dash_10: hidden-element-blossom-year-evolve-wink-pave-news-flat-course
+bip_39_word_dash_11: hidden-element-blossom-year-evolve-wink-pave-news-flat-course-video
+bip_39_word_dash_12: hidden-element-blossom-year-evolve-wink-pave-news-flat-course-video-announce
+bip_39_word_dash_2: hidden-element
+bip_39_word_dash_3: hidden-element-blossom
+bip_39_word_dash_4: hidden-element-blossom-year
+bip_39_word_dash_5: hidden-element-blossom-year-evolve
+bip_39_word_dash_6: hidden-element-blossom-year-evolve-wink
+bip_39_word_dash_7: hidden-element-blossom-year-evolve-wink-pave
+bip_39_word_dash_8: hidden-element-blossom-year-evolve-wink-pave-news
+bip_39_word_dash_9: hidden-element-blossom-year-evolve-wink-pave-news-flat
+bip_39_word_new_br_1: hidden
+bip_39_word_new_br_10: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course
+bip_39_word_new_br_11: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video
+bip_39_word_new_br_12: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat<br>course<br>video<br>announce
+bip_39_word_new_br_2: hidden<br>element
+bip_39_word_new_br_3: hidden<br>element<br>blossom
+bip_39_word_new_br_4: hidden<br>element<br>blossom<br>year
+bip_39_word_new_br_5: hidden<br>element<br>blossom<br>year<br>evolve
+bip_39_word_new_br_6: hidden<br>element<br>blossom<br>year<br>evolve<br>wink
+bip_39_word_new_br_7: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave
+bip_39_word_new_br_8: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news
+bip_39_word_new_br_9: hidden<br>element<br>blossom<br>year<br>evolve<br>wink<br>pave<br>news<br>flat
+bip_39_word_new_line_1: hidden
+bip_39_word_new_line_10: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave
+
+  news
+
+  flat
+
+  course'
+bip_39_word_new_line_11: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave
+
+  news
+
+  flat
+
+  course
+
+  video'
+bip_39_word_new_line_12: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave
+
+  news
+
+  flat
+
+  course
+
+  video
+
+  announce'
+bip_39_word_new_line_2: 'hidden
+
+  element'
+bip_39_word_new_line_3: 'hidden
+
+  element
+
+  blossom'
+bip_39_word_new_line_4: 'hidden
+
+  element
+
+  blossom
+
+  year'
+bip_39_word_new_line_5: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve'
+bip_39_word_new_line_6: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink'
+bip_39_word_new_line_7: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave'
+bip_39_word_new_line_8: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave
+
+  news'
+bip_39_word_new_line_9: 'hidden
+
+  element
+
+  blossom
+
+  year
+
+  evolve
+
+  wink
+
+  pave
+
+  news
+
+  flat'
+bip_39_word_no_space_1: hidden
+bip_39_word_no_space_10: hiddenelementblossomyearevolvewinkpavenewsflatcourse
+bip_39_word_no_space_11: hiddenelementblossomyearevolvewinkpavenewsflatcoursevideo
+bip_39_word_no_space_12: hiddenelementblossomyearevolvewinkpavenewsflatcoursevideoannounce
+bip_39_word_no_space_2: hiddenelement
+bip_39_word_no_space_3: hiddenelementblossom
+bip_39_word_no_space_4: hiddenelementblossomyear
+bip_39_word_no_space_5: hiddenelementblossomyearevolve
+bip_39_word_no_space_6: hiddenelementblossomyearevolvewink
+bip_39_word_no_space_7: hiddenelementblossomyearevolvewinkpave
+bip_39_word_no_space_8: hiddenelementblossomyearevolvewinkpavenews
+bip_39_word_no_space_9: hiddenelementblossomyearevolvewinkpavenewsflat
+bip_39_word_space_0:
+- hidden
+- element
+- blossom
+- year
+- evolve
+- wink
+- pave
+- news
+- flat
+- course
+- video
+- announce
+bip_39_word_space_1: hidden
+bip_39_word_space_10: hidden element blossom year evolve wink pave news flat course
+bip_39_word_space_11: hidden element blossom year evolve wink pave news flat course
+  video
+bip_39_word_space_12: hidden element blossom year evolve wink pave news flat course
+  video announce
+bip_39_word_space_2: hidden element
+bip_39_word_space_3: hidden element blossom
+bip_39_word_space_4: hidden element blossom year
+bip_39_word_space_5: hidden element blossom year evolve
+bip_39_word_space_6: hidden element blossom year evolve wink
+bip_39_word_space_7: hidden element blossom year evolve wink pave
+bip_39_word_space_8: hidden element blossom year evolve wink pave news
+bip_39_word_space_9: hidden element blossom year evolve wink pave news flat
+bip_39_word_underscore_1: hidden
+bip_39_word_underscore_10: hidden_element_blossom_year_evolve_wink_pave_news_flat_course
+bip_39_word_underscore_11: hidden_element_blossom_year_evolve_wink_pave_news_flat_course_video
+bip_39_word_underscore_12: hidden_element_blossom_year_evolve_wink_pave_news_flat_course_video_announce
+bip_39_word_underscore_2: hidden_element
+bip_39_word_underscore_3: hidden_element_blossom
+bip_39_word_underscore_4: hidden_element_blossom_year
+bip_39_word_underscore_5: hidden_element_blossom_year_evolve
+bip_39_word_underscore_6: hidden_element_blossom_year_evolve_wink
+bip_39_word_underscore_7: hidden_element_blossom_year_evolve_wink_pave
+bip_39_word_underscore_8: hidden_element_blossom_year_evolve_wink_pave_news
+bip_39_word_underscore_9: hidden_element_blossom_year_evolve_wink_pave_news_flat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness
 id_no_color: 050510nm8mmtapewidth15mmtapethickness1d5
 id_no_size: 05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
 id_no_type: smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ukcs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ukcs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ukcs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050510Nm8mmtapewidth15mmtapethickness1D5
 name_no_size: 05 05 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
 name_no_size_short: 05 05 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 05 05 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
 oomp_word: telescope helicopter pill
 oomp_word_emoji: ':telescope: :helicopter: :pill:'

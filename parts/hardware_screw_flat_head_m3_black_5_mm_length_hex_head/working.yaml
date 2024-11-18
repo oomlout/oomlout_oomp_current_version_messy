@@ -1,3 +1,222 @@
+bip_39_word_dash_1: toward
+bip_39_word_dash_10: toward-ugly-flock-mention-device-clutch-south-birth-raw-summer
+bip_39_word_dash_11: toward-ugly-flock-mention-device-clutch-south-birth-raw-summer-real
+bip_39_word_dash_12: toward-ugly-flock-mention-device-clutch-south-birth-raw-summer-real-angry
+bip_39_word_dash_2: toward-ugly
+bip_39_word_dash_3: toward-ugly-flock
+bip_39_word_dash_4: toward-ugly-flock-mention
+bip_39_word_dash_5: toward-ugly-flock-mention-device
+bip_39_word_dash_6: toward-ugly-flock-mention-device-clutch
+bip_39_word_dash_7: toward-ugly-flock-mention-device-clutch-south
+bip_39_word_dash_8: toward-ugly-flock-mention-device-clutch-south-birth
+bip_39_word_dash_9: toward-ugly-flock-mention-device-clutch-south-birth-raw
+bip_39_word_new_br_1: toward
+bip_39_word_new_br_10: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south<br>birth<br>raw<br>summer
+bip_39_word_new_br_11: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south<br>birth<br>raw<br>summer<br>real
+bip_39_word_new_br_12: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south<br>birth<br>raw<br>summer<br>real<br>angry
+bip_39_word_new_br_2: toward<br>ugly
+bip_39_word_new_br_3: toward<br>ugly<br>flock
+bip_39_word_new_br_4: toward<br>ugly<br>flock<br>mention
+bip_39_word_new_br_5: toward<br>ugly<br>flock<br>mention<br>device
+bip_39_word_new_br_6: toward<br>ugly<br>flock<br>mention<br>device<br>clutch
+bip_39_word_new_br_7: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south
+bip_39_word_new_br_8: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south<br>birth
+bip_39_word_new_br_9: toward<br>ugly<br>flock<br>mention<br>device<br>clutch<br>south<br>birth<br>raw
+bip_39_word_new_line_1: toward
+bip_39_word_new_line_10: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south
+
+  birth
+
+  raw
+
+  summer'
+bip_39_word_new_line_11: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south
+
+  birth
+
+  raw
+
+  summer
+
+  real'
+bip_39_word_new_line_12: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south
+
+  birth
+
+  raw
+
+  summer
+
+  real
+
+  angry'
+bip_39_word_new_line_2: 'toward
+
+  ugly'
+bip_39_word_new_line_3: 'toward
+
+  ugly
+
+  flock'
+bip_39_word_new_line_4: 'toward
+
+  ugly
+
+  flock
+
+  mention'
+bip_39_word_new_line_5: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device'
+bip_39_word_new_line_6: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch'
+bip_39_word_new_line_7: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south'
+bip_39_word_new_line_8: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south
+
+  birth'
+bip_39_word_new_line_9: 'toward
+
+  ugly
+
+  flock
+
+  mention
+
+  device
+
+  clutch
+
+  south
+
+  birth
+
+  raw'
+bip_39_word_no_space_1: toward
+bip_39_word_no_space_10: towarduglyflockmentiondeviceclutchsouthbirthrawsummer
+bip_39_word_no_space_11: towarduglyflockmentiondeviceclutchsouthbirthrawsummerreal
+bip_39_word_no_space_12: towarduglyflockmentiondeviceclutchsouthbirthrawsummerrealangry
+bip_39_word_no_space_2: towardugly
+bip_39_word_no_space_3: towarduglyflock
+bip_39_word_no_space_4: towarduglyflockmention
+bip_39_word_no_space_5: towarduglyflockmentiondevice
+bip_39_word_no_space_6: towarduglyflockmentiondeviceclutch
+bip_39_word_no_space_7: towarduglyflockmentiondeviceclutchsouth
+bip_39_word_no_space_8: towarduglyflockmentiondeviceclutchsouthbirth
+bip_39_word_no_space_9: towarduglyflockmentiondeviceclutchsouthbirthraw
+bip_39_word_space_0:
+- toward
+- ugly
+- flock
+- mention
+- device
+- clutch
+- south
+- birth
+- raw
+- summer
+- real
+- angry
+bip_39_word_space_1: toward
+bip_39_word_space_10: toward ugly flock mention device clutch south birth raw summer
+bip_39_word_space_11: toward ugly flock mention device clutch south birth raw summer
+  real
+bip_39_word_space_12: toward ugly flock mention device clutch south birth raw summer
+  real angry
+bip_39_word_space_2: toward ugly
+bip_39_word_space_3: toward ugly flock
+bip_39_word_space_4: toward ugly flock mention
+bip_39_word_space_5: toward ugly flock mention device
+bip_39_word_space_6: toward ugly flock mention device clutch
+bip_39_word_space_7: toward ugly flock mention device clutch south
+bip_39_word_space_8: toward ugly flock mention device clutch south birth
+bip_39_word_space_9: toward ugly flock mention device clutch south birth raw
+bip_39_word_underscore_1: toward
+bip_39_word_underscore_10: toward_ugly_flock_mention_device_clutch_south_birth_raw_summer
+bip_39_word_underscore_11: toward_ugly_flock_mention_device_clutch_south_birth_raw_summer_real
+bip_39_word_underscore_12: toward_ugly_flock_mention_device_clutch_south_birth_raw_summer_real_angry
+bip_39_word_underscore_2: toward_ugly
+bip_39_word_underscore_3: toward_ugly_flock
+bip_39_word_underscore_4: toward_ugly_flock_mention
+bip_39_word_underscore_5: toward_ugly_flock_mention_device
+bip_39_word_underscore_6: toward_ugly_flock_mention_device_clutch
+bip_39_word_underscore_7: toward_ugly_flock_mention_device_clutch_south
+bip_39_word_underscore_8: toward_ugly_flock_mention_device_clutch_south_birth
+bip_39_word_underscore_9: toward_ugly_flock_mention_device_clutch_south_birth_raw
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 5_mm_length_hex_head
 id_no_size: black_5_mm_length_hex_head
 id_no_type: m3_black_5_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_5_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m3_black_5_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_5_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205lfcm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205lfcm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205lfcm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 5 mm Length Hex Head
 name_no_size: Black 5 mm Length Hex Head
 name_no_size_short: Black 5 Mm Length Hex Head
 name_no_type: M3 Black 5 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 5 mm
+oomlout_bolt_length_no_unit: '5'
+oomlout_bolt_md5_6_alpha_first_3: 5lf
+oomlout_bolt_md5_6_alpha_first_3_upper: 5LF
+oomlout_bolt_md5_6_alpha_last_3: cm
+oomlout_bolt_md5_6_alpha_last_3_upper: CM
+oomlout_bolt_md5_6_first_3: 8f6
+oomlout_bolt_md5_6_first_3_upper: 8F6
+oomlout_bolt_md5_6_last_3: 5f6
+oomlout_bolt_md5_6_last_3_upper: 5F6
+oomlout_bolt_name: Flat Head M3X5 mm Black (Hex Head)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh3b5h
+oomlout_short_code_upper: FH3B5H
 oomp_key: oomp_hardware_screw_flat_head_m3_black_5_mm_length_hex_head
 oomp_word: calendar maple_leaf five
 oomp_word_emoji: ':calendar: :maple_leaf: :five:'

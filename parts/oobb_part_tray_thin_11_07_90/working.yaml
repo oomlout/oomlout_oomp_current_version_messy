@@ -1,3 +1,222 @@
+bip_39_word_dash_1: will
+bip_39_word_dash_10: will-foot-begin-nasty-prison-despair-mandate-stamp-bless-region
+bip_39_word_dash_11: will-foot-begin-nasty-prison-despair-mandate-stamp-bless-region-crazy
+bip_39_word_dash_12: will-foot-begin-nasty-prison-despair-mandate-stamp-bless-region-crazy-ask
+bip_39_word_dash_2: will-foot
+bip_39_word_dash_3: will-foot-begin
+bip_39_word_dash_4: will-foot-begin-nasty
+bip_39_word_dash_5: will-foot-begin-nasty-prison
+bip_39_word_dash_6: will-foot-begin-nasty-prison-despair
+bip_39_word_dash_7: will-foot-begin-nasty-prison-despair-mandate
+bip_39_word_dash_8: will-foot-begin-nasty-prison-despair-mandate-stamp
+bip_39_word_dash_9: will-foot-begin-nasty-prison-despair-mandate-stamp-bless
+bip_39_word_new_br_1: will
+bip_39_word_new_br_10: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region
+bip_39_word_new_br_11: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy
+bip_39_word_new_br_12: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless<br>region<br>crazy<br>ask
+bip_39_word_new_br_2: will<br>foot
+bip_39_word_new_br_3: will<br>foot<br>begin
+bip_39_word_new_br_4: will<br>foot<br>begin<br>nasty
+bip_39_word_new_br_5: will<br>foot<br>begin<br>nasty<br>prison
+bip_39_word_new_br_6: will<br>foot<br>begin<br>nasty<br>prison<br>despair
+bip_39_word_new_br_7: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate
+bip_39_word_new_br_8: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp
+bip_39_word_new_br_9: will<br>foot<br>begin<br>nasty<br>prison<br>despair<br>mandate<br>stamp<br>bless
+bip_39_word_new_line_1: will
+bip_39_word_new_line_10: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate
+
+  stamp
+
+  bless
+
+  region'
+bip_39_word_new_line_11: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate
+
+  stamp
+
+  bless
+
+  region
+
+  crazy'
+bip_39_word_new_line_12: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate
+
+  stamp
+
+  bless
+
+  region
+
+  crazy
+
+  ask'
+bip_39_word_new_line_2: 'will
+
+  foot'
+bip_39_word_new_line_3: 'will
+
+  foot
+
+  begin'
+bip_39_word_new_line_4: 'will
+
+  foot
+
+  begin
+
+  nasty'
+bip_39_word_new_line_5: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison'
+bip_39_word_new_line_6: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair'
+bip_39_word_new_line_7: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate'
+bip_39_word_new_line_8: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate
+
+  stamp'
+bip_39_word_new_line_9: 'will
+
+  foot
+
+  begin
+
+  nasty
+
+  prison
+
+  despair
+
+  mandate
+
+  stamp
+
+  bless'
+bip_39_word_no_space_1: will
+bip_39_word_no_space_10: willfootbeginnastyprisondespairmandatestampblessregion
+bip_39_word_no_space_11: willfootbeginnastyprisondespairmandatestampblessregioncrazy
+bip_39_word_no_space_12: willfootbeginnastyprisondespairmandatestampblessregioncrazyask
+bip_39_word_no_space_2: willfoot
+bip_39_word_no_space_3: willfootbegin
+bip_39_word_no_space_4: willfootbeginnasty
+bip_39_word_no_space_5: willfootbeginnastyprison
+bip_39_word_no_space_6: willfootbeginnastyprisondespair
+bip_39_word_no_space_7: willfootbeginnastyprisondespairmandate
+bip_39_word_no_space_8: willfootbeginnastyprisondespairmandatestamp
+bip_39_word_no_space_9: willfootbeginnastyprisondespairmandatestampbless
+bip_39_word_space_0:
+- will
+- foot
+- begin
+- nasty
+- prison
+- despair
+- mandate
+- stamp
+- bless
+- region
+- crazy
+- ask
+bip_39_word_space_1: will
+bip_39_word_space_10: will foot begin nasty prison despair mandate stamp bless region
+bip_39_word_space_11: will foot begin nasty prison despair mandate stamp bless region
+  crazy
+bip_39_word_space_12: will foot begin nasty prison despair mandate stamp bless region
+  crazy ask
+bip_39_word_space_2: will foot
+bip_39_word_space_3: will foot begin
+bip_39_word_space_4: will foot begin nasty
+bip_39_word_space_5: will foot begin nasty prison
+bip_39_word_space_6: will foot begin nasty prison despair
+bip_39_word_space_7: will foot begin nasty prison despair mandate
+bip_39_word_space_8: will foot begin nasty prison despair mandate stamp
+bip_39_word_space_9: will foot begin nasty prison despair mandate stamp bless
+bip_39_word_underscore_1: will
+bip_39_word_underscore_10: will_foot_begin_nasty_prison_despair_mandate_stamp_bless_region
+bip_39_word_underscore_11: will_foot_begin_nasty_prison_despair_mandate_stamp_bless_region_crazy
+bip_39_word_underscore_12: will_foot_begin_nasty_prison_despair_mandate_stamp_bless_region_crazy_ask
+bip_39_word_underscore_2: will_foot
+bip_39_word_underscore_3: will_foot_begin
+bip_39_word_underscore_4: will_foot_begin_nasty
+bip_39_word_underscore_5: will_foot_begin_nasty_prison
+bip_39_word_underscore_6: will_foot_begin_nasty_prison_despair
+bip_39_word_underscore_7: will_foot_begin_nasty_prison_despair_mandate
+bip_39_word_underscore_8: will_foot_begin_nasty_prison_despair_mandate_stamp
+bip_39_word_underscore_9: will_foot_begin_nasty_prison_despair_mandate_stamp_bless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_07_90
 id_no_color: '110790'
 id_no_size: '11_07_90'
 id_no_type: tray_thin_11_07_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_07_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_07_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_07_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ach9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ach9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ach9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110790'
 name_no_size: 11 07 90
 name_no_size_short: 11 07 90
 name_no_type: Tray Thin 11 07 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_07_90
 oomp_word: corn maple_leaf dress
 oomp_word_emoji: ':corn: :maple_leaf: :dress:'

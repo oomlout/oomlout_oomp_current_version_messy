@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Mechanical
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_mechanical
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sleeping: :hamster: :cyclone:
 * md5_6_alpha: 8pwv
 * md5_6: 06352f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208pwv)
+[2x1](http://192.168.1.242:1112/?label=oomp%208pwv)
+[6x4](http://192.168.1.55:1112/?label=oomp%208pwv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_mechanical)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ chronic |
 | id_no_color | oomp_base_mechanical |  
 | id_no_size | oomp_base_mechanical |  
 | id_no_type | oomlout_oomp_base_mechanical |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_mechanical |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_mechanical |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208pwv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208pwv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208pwv |  
 | link_redirect | https://github.com/oomlout/oomp_base_mechanical |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ chronic |
 | name_no_size | Oomp Base Mechanical |  
 | name_no_size_short | Oomp Base Mechanical |  
 | name_no_type | Oomlout Oomp Base Mechanical |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_mechanical |  
 | oomp_word | sleeping hamster cyclone |  
 | oomp_word_emoji | :sleeping: :hamster: :cyclone: |  

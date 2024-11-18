@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bitter
+bip_39_word_dash_10: bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach
+bip_39_word_dash_11: bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach-fat
+bip_39_word_dash_12: bitter-token-robust-trend-embark-sound-paddle-music-arrest-stomach-fat-act
+bip_39_word_dash_2: bitter-token
+bip_39_word_dash_3: bitter-token-robust
+bip_39_word_dash_4: bitter-token-robust-trend
+bip_39_word_dash_5: bitter-token-robust-trend-embark
+bip_39_word_dash_6: bitter-token-robust-trend-embark-sound
+bip_39_word_dash_7: bitter-token-robust-trend-embark-sound-paddle
+bip_39_word_dash_8: bitter-token-robust-trend-embark-sound-paddle-music
+bip_39_word_dash_9: bitter-token-robust-trend-embark-sound-paddle-music-arrest
+bip_39_word_new_br_1: bitter
+bip_39_word_new_br_10: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach
+bip_39_word_new_br_11: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach<br>fat
+bip_39_word_new_br_12: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest<br>stomach<br>fat<br>act
+bip_39_word_new_br_2: bitter<br>token
+bip_39_word_new_br_3: bitter<br>token<br>robust
+bip_39_word_new_br_4: bitter<br>token<br>robust<br>trend
+bip_39_word_new_br_5: bitter<br>token<br>robust<br>trend<br>embark
+bip_39_word_new_br_6: bitter<br>token<br>robust<br>trend<br>embark<br>sound
+bip_39_word_new_br_7: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle
+bip_39_word_new_br_8: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music
+bip_39_word_new_br_9: bitter<br>token<br>robust<br>trend<br>embark<br>sound<br>paddle<br>music<br>arrest
+bip_39_word_new_line_1: bitter
+bip_39_word_new_line_10: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle
+
+  music
+
+  arrest
+
+  stomach'
+bip_39_word_new_line_11: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle
+
+  music
+
+  arrest
+
+  stomach
+
+  fat'
+bip_39_word_new_line_12: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle
+
+  music
+
+  arrest
+
+  stomach
+
+  fat
+
+  act'
+bip_39_word_new_line_2: 'bitter
+
+  token'
+bip_39_word_new_line_3: 'bitter
+
+  token
+
+  robust'
+bip_39_word_new_line_4: 'bitter
+
+  token
+
+  robust
+
+  trend'
+bip_39_word_new_line_5: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark'
+bip_39_word_new_line_6: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound'
+bip_39_word_new_line_7: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle'
+bip_39_word_new_line_8: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle
+
+  music'
+bip_39_word_new_line_9: 'bitter
+
+  token
+
+  robust
+
+  trend
+
+  embark
+
+  sound
+
+  paddle
+
+  music
+
+  arrest'
+bip_39_word_no_space_1: bitter
+bip_39_word_no_space_10: bittertokenrobusttrendembarksoundpaddlemusicarreststomach
+bip_39_word_no_space_11: bittertokenrobusttrendembarksoundpaddlemusicarreststomachfat
+bip_39_word_no_space_12: bittertokenrobusttrendembarksoundpaddlemusicarreststomachfatact
+bip_39_word_no_space_2: bittertoken
+bip_39_word_no_space_3: bittertokenrobust
+bip_39_word_no_space_4: bittertokenrobusttrend
+bip_39_word_no_space_5: bittertokenrobusttrendembark
+bip_39_word_no_space_6: bittertokenrobusttrendembarksound
+bip_39_word_no_space_7: bittertokenrobusttrendembarksoundpaddle
+bip_39_word_no_space_8: bittertokenrobusttrendembarksoundpaddlemusic
+bip_39_word_no_space_9: bittertokenrobusttrendembarksoundpaddlemusicarrest
+bip_39_word_space_0:
+- bitter
+- token
+- robust
+- trend
+- embark
+- sound
+- paddle
+- music
+- arrest
+- stomach
+- fat
+- act
+bip_39_word_space_1: bitter
+bip_39_word_space_10: bitter token robust trend embark sound paddle music arrest stomach
+bip_39_word_space_11: bitter token robust trend embark sound paddle music arrest stomach
+  fat
+bip_39_word_space_12: bitter token robust trend embark sound paddle music arrest stomach
+  fat act
+bip_39_word_space_2: bitter token
+bip_39_word_space_3: bitter token robust
+bip_39_word_space_4: bitter token robust trend
+bip_39_word_space_5: bitter token robust trend embark
+bip_39_word_space_6: bitter token robust trend embark sound
+bip_39_word_space_7: bitter token robust trend embark sound paddle
+bip_39_word_space_8: bitter token robust trend embark sound paddle music
+bip_39_word_space_9: bitter token robust trend embark sound paddle music arrest
+bip_39_word_underscore_1: bitter
+bip_39_word_underscore_10: bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach
+bip_39_word_underscore_11: bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach_fat
+bip_39_word_underscore_12: bitter_token_robust_trend_embark_sound_paddle_music_arrest_stomach_fat_act
+bip_39_word_underscore_2: bitter_token
+bip_39_word_underscore_3: bitter_token_robust
+bip_39_word_underscore_4: bitter_token_robust_trend
+bip_39_word_underscore_5: bitter_token_robust_trend_embark
+bip_39_word_underscore_6: bitter_token_robust_trend_embark_sound
+bip_39_word_underscore_7: bitter_token_robust_trend_embark_sound_paddle
+bip_39_word_underscore_8: bitter_token_robust_trend_embark_sound_paddle_music
+bip_39_word_underscore_9: bitter_token_robust_trend_embark_sound_paddle_music_arrest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_04_30
 id_no_color: '020430'
 id_no_size: '02_04_30'
 id_no_type: tray_02_04_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_04_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_04_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_04_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201iak5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201iak5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201iak5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020430'
 name_no_size: 02 04 30
 name_no_size_short: 02 04 30
 name_no_type: Tray 02 04 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_04_30
 oomp_word: eyes trumpet four
 oomp_word_emoji: ':eyes: :trumpet: :four:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: ensure
+bip_39_word_dash_10: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room
+bip_39_word_dash_11: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room-snap
+bip_39_word_dash_12: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember-room-snap-actor
+bip_39_word_dash_2: ensure-legend
+bip_39_word_dash_3: ensure-legend-jeans
+bip_39_word_dash_4: ensure-legend-jeans-clip
+bip_39_word_dash_5: ensure-legend-jeans-clip-slow
+bip_39_word_dash_6: ensure-legend-jeans-clip-slow-potato
+bip_39_word_dash_7: ensure-legend-jeans-clip-slow-potato-mechanic
+bip_39_word_dash_8: ensure-legend-jeans-clip-slow-potato-mechanic-slogan
+bip_39_word_dash_9: ensure-legend-jeans-clip-slow-potato-mechanic-slogan-remember
+bip_39_word_new_br_1: ensure
+bip_39_word_new_br_10: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room
+bip_39_word_new_br_11: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap
+bip_39_word_new_br_12: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember<br>room<br>snap<br>actor
+bip_39_word_new_br_2: ensure<br>legend
+bip_39_word_new_br_3: ensure<br>legend<br>jeans
+bip_39_word_new_br_4: ensure<br>legend<br>jeans<br>clip
+bip_39_word_new_br_5: ensure<br>legend<br>jeans<br>clip<br>slow
+bip_39_word_new_br_6: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato
+bip_39_word_new_br_7: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic
+bip_39_word_new_br_8: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan
+bip_39_word_new_br_9: ensure<br>legend<br>jeans<br>clip<br>slow<br>potato<br>mechanic<br>slogan<br>remember
+bip_39_word_new_line_1: ensure
+bip_39_word_new_line_10: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic
+
+  slogan
+
+  remember
+
+  room'
+bip_39_word_new_line_11: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic
+
+  slogan
+
+  remember
+
+  room
+
+  snap'
+bip_39_word_new_line_12: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic
+
+  slogan
+
+  remember
+
+  room
+
+  snap
+
+  actor'
+bip_39_word_new_line_2: 'ensure
+
+  legend'
+bip_39_word_new_line_3: 'ensure
+
+  legend
+
+  jeans'
+bip_39_word_new_line_4: 'ensure
+
+  legend
+
+  jeans
+
+  clip'
+bip_39_word_new_line_5: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow'
+bip_39_word_new_line_6: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato'
+bip_39_word_new_line_7: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic'
+bip_39_word_new_line_8: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic
+
+  slogan'
+bip_39_word_new_line_9: 'ensure
+
+  legend
+
+  jeans
+
+  clip
+
+  slow
+
+  potato
+
+  mechanic
+
+  slogan
+
+  remember'
+bip_39_word_no_space_1: ensure
+bip_39_word_no_space_10: ensurelegendjeansclipslowpotatomechanicsloganrememberroom
+bip_39_word_no_space_11: ensurelegendjeansclipslowpotatomechanicsloganrememberroomsnap
+bip_39_word_no_space_12: ensurelegendjeansclipslowpotatomechanicsloganrememberroomsnapactor
+bip_39_word_no_space_2: ensurelegend
+bip_39_word_no_space_3: ensurelegendjeans
+bip_39_word_no_space_4: ensurelegendjeansclip
+bip_39_word_no_space_5: ensurelegendjeansclipslow
+bip_39_word_no_space_6: ensurelegendjeansclipslowpotato
+bip_39_word_no_space_7: ensurelegendjeansclipslowpotatomechanic
+bip_39_word_no_space_8: ensurelegendjeansclipslowpotatomechanicslogan
+bip_39_word_no_space_9: ensurelegendjeansclipslowpotatomechanicsloganremember
+bip_39_word_space_0:
+- ensure
+- legend
+- jeans
+- clip
+- slow
+- potato
+- mechanic
+- slogan
+- remember
+- room
+- snap
+- actor
+bip_39_word_space_1: ensure
+bip_39_word_space_10: ensure legend jeans clip slow potato mechanic slogan remember
+  room
+bip_39_word_space_11: ensure legend jeans clip slow potato mechanic slogan remember
+  room snap
+bip_39_word_space_12: ensure legend jeans clip slow potato mechanic slogan remember
+  room snap actor
+bip_39_word_space_2: ensure legend
+bip_39_word_space_3: ensure legend jeans
+bip_39_word_space_4: ensure legend jeans clip
+bip_39_word_space_5: ensure legend jeans clip slow
+bip_39_word_space_6: ensure legend jeans clip slow potato
+bip_39_word_space_7: ensure legend jeans clip slow potato mechanic
+bip_39_word_space_8: ensure legend jeans clip slow potato mechanic slogan
+bip_39_word_space_9: ensure legend jeans clip slow potato mechanic slogan remember
+bip_39_word_underscore_1: ensure
+bip_39_word_underscore_10: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room
+bip_39_word_underscore_11: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room_snap
+bip_39_word_underscore_12: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember_room_snap_actor
+bip_39_word_underscore_2: ensure_legend
+bip_39_word_underscore_3: ensure_legend_jeans
+bip_39_word_underscore_4: ensure_legend_jeans_clip
+bip_39_word_underscore_5: ensure_legend_jeans_clip_slow
+bip_39_word_underscore_6: ensure_legend_jeans_clip_slow_potato
+bip_39_word_underscore_7: ensure_legend_jeans_clip_slow_potato_mechanic
+bip_39_word_underscore_8: ensure_legend_jeans_clip_slow_potato_mechanic_slogan
+bip_39_word_underscore_9: ensure_legend_jeans_clip_slow_potato_mechanic_slogan_remember
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_11_12
 id_no_color: '011112'
 id_no_size: '01_11_12'
 id_no_type: tray_01_11_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_11_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_11_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_11_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201p8z2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201p8z2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201p8z2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '011112'
 name_no_size: 01 11 12
 name_no_size_short: 01 11 12
 name_no_type: Tray 01 11 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_11_12
 oomp_word: cloud golf jeans
 oomp_word_emoji: ':cloud: :golf: :jeans:'

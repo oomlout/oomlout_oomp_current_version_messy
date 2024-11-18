@@ -1,3 +1,222 @@
+bip_39_word_dash_1: genius
+bip_39_word_dash_10: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing
+bip_39_word_dash_11: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing-force
+bip_39_word_dash_12: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird-wing-force-ability
+bip_39_word_dash_2: genius-bachelor
+bip_39_word_dash_3: genius-bachelor-hood
+bip_39_word_dash_4: genius-bachelor-hood-dirt
+bip_39_word_dash_5: genius-bachelor-hood-dirt-tomorrow
+bip_39_word_dash_6: genius-bachelor-hood-dirt-tomorrow-almost
+bip_39_word_dash_7: genius-bachelor-hood-dirt-tomorrow-almost-hip
+bip_39_word_dash_8: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend
+bip_39_word_dash_9: genius-bachelor-hood-dirt-tomorrow-almost-hip-depend-weird
+bip_39_word_new_br_1: genius
+bip_39_word_new_br_10: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing
+bip_39_word_new_br_11: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force
+bip_39_word_new_br_12: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird<br>wing<br>force<br>ability
+bip_39_word_new_br_2: genius<br>bachelor
+bip_39_word_new_br_3: genius<br>bachelor<br>hood
+bip_39_word_new_br_4: genius<br>bachelor<br>hood<br>dirt
+bip_39_word_new_br_5: genius<br>bachelor<br>hood<br>dirt<br>tomorrow
+bip_39_word_new_br_6: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost
+bip_39_word_new_br_7: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip
+bip_39_word_new_br_8: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend
+bip_39_word_new_br_9: genius<br>bachelor<br>hood<br>dirt<br>tomorrow<br>almost<br>hip<br>depend<br>weird
+bip_39_word_new_line_1: genius
+bip_39_word_new_line_10: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing'
+bip_39_word_new_line_11: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing
+
+  force'
+bip_39_word_new_line_12: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird
+
+  wing
+
+  force
+
+  ability'
+bip_39_word_new_line_2: 'genius
+
+  bachelor'
+bip_39_word_new_line_3: 'genius
+
+  bachelor
+
+  hood'
+bip_39_word_new_line_4: 'genius
+
+  bachelor
+
+  hood
+
+  dirt'
+bip_39_word_new_line_5: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow'
+bip_39_word_new_line_6: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost'
+bip_39_word_new_line_7: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip'
+bip_39_word_new_line_8: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend'
+bip_39_word_new_line_9: 'genius
+
+  bachelor
+
+  hood
+
+  dirt
+
+  tomorrow
+
+  almost
+
+  hip
+
+  depend
+
+  weird'
+bip_39_word_no_space_1: genius
+bip_39_word_no_space_10: geniusbachelorhooddirttomorrowalmosthipdependweirdwing
+bip_39_word_no_space_11: geniusbachelorhooddirttomorrowalmosthipdependweirdwingforce
+bip_39_word_no_space_12: geniusbachelorhooddirttomorrowalmosthipdependweirdwingforceability
+bip_39_word_no_space_2: geniusbachelor
+bip_39_word_no_space_3: geniusbachelorhood
+bip_39_word_no_space_4: geniusbachelorhooddirt
+bip_39_word_no_space_5: geniusbachelorhooddirttomorrow
+bip_39_word_no_space_6: geniusbachelorhooddirttomorrowalmost
+bip_39_word_no_space_7: geniusbachelorhooddirttomorrowalmosthip
+bip_39_word_no_space_8: geniusbachelorhooddirttomorrowalmosthipdepend
+bip_39_word_no_space_9: geniusbachelorhooddirttomorrowalmosthipdependweird
+bip_39_word_space_0:
+- genius
+- bachelor
+- hood
+- dirt
+- tomorrow
+- almost
+- hip
+- depend
+- weird
+- wing
+- force
+- ability
+bip_39_word_space_1: genius
+bip_39_word_space_10: genius bachelor hood dirt tomorrow almost hip depend weird wing
+bip_39_word_space_11: genius bachelor hood dirt tomorrow almost hip depend weird wing
+  force
+bip_39_word_space_12: genius bachelor hood dirt tomorrow almost hip depend weird wing
+  force ability
+bip_39_word_space_2: genius bachelor
+bip_39_word_space_3: genius bachelor hood
+bip_39_word_space_4: genius bachelor hood dirt
+bip_39_word_space_5: genius bachelor hood dirt tomorrow
+bip_39_word_space_6: genius bachelor hood dirt tomorrow almost
+bip_39_word_space_7: genius bachelor hood dirt tomorrow almost hip
+bip_39_word_space_8: genius bachelor hood dirt tomorrow almost hip depend
+bip_39_word_space_9: genius bachelor hood dirt tomorrow almost hip depend weird
+bip_39_word_underscore_1: genius
+bip_39_word_underscore_10: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing
+bip_39_word_underscore_11: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing_force
+bip_39_word_underscore_12: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird_wing_force_ability
+bip_39_word_underscore_2: genius_bachelor
+bip_39_word_underscore_3: genius_bachelor_hood
+bip_39_word_underscore_4: genius_bachelor_hood_dirt
+bip_39_word_underscore_5: genius_bachelor_hood_dirt_tomorrow
+bip_39_word_underscore_6: genius_bachelor_hood_dirt_tomorrow_almost
+bip_39_word_underscore_7: genius_bachelor_hood_dirt_tomorrow_almost_hip
+bip_39_word_underscore_8: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend
+bip_39_word_underscore_9: genius_bachelor_hood_dirt_tomorrow_almost_hip_depend_weird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_2d5_15
 id_no_color: 022d515
 id_no_size: 02_2d5_15
 id_no_type: tray_02_2d5_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_2d5_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_2d5_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_2d5_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203t4u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203t4u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203t4u
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 022D515
 name_no_size: 02 2D5 15
 name_no_size_short: 02 2D5 15
 name_no_type: Tray 02 2D5 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_2d5_15
 oomp_word: blush beer monkey
 oomp_word_emoji: ':blush: :beer: :monkey:'

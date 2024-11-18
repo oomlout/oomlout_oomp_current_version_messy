@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 03 03 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :apple: :ox: :apple:
 * md5_6_alpha: 7tfwo
 * md5_6: c85cc8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207tfwo)
+[2x1](http://192.168.1.242:1112/?label=oomp%207tfwo)
+[6x4](http://192.168.1.55:1112/?label=oomp%207tfwo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ antenna |
 | id_no_color | 030310nm8mmtapewidth2mmtapethickness2 |  
 | id_no_size | 03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
 | id_no_type | smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207tfwo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207tfwo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207tfwo |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ antenna |
 | name_no_size | 03 03 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2 |  
 | name_no_size_short | 03 03 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness  2 |  
 | name_no_type | SMD Magazine 03 03 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
 | oomp_word | apple ox apple |  
 | oomp_word_emoji | :apple: :ox: :apple: |  

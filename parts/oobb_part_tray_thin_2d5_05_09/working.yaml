@@ -1,3 +1,222 @@
+bip_39_word_dash_1: potato
+bip_39_word_dash_10: potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance
+bip_39_word_dash_11: potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance-elbow
+bip_39_word_dash_12: potato-jump-exercise-adult-joy-abandon-crystal-dog-clock-distance-elbow-amused
+bip_39_word_dash_2: potato-jump
+bip_39_word_dash_3: potato-jump-exercise
+bip_39_word_dash_4: potato-jump-exercise-adult
+bip_39_word_dash_5: potato-jump-exercise-adult-joy
+bip_39_word_dash_6: potato-jump-exercise-adult-joy-abandon
+bip_39_word_dash_7: potato-jump-exercise-adult-joy-abandon-crystal
+bip_39_word_dash_8: potato-jump-exercise-adult-joy-abandon-crystal-dog
+bip_39_word_dash_9: potato-jump-exercise-adult-joy-abandon-crystal-dog-clock
+bip_39_word_new_br_1: potato
+bip_39_word_new_br_10: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance
+bip_39_word_new_br_11: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance<br>elbow
+bip_39_word_new_br_12: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock<br>distance<br>elbow<br>amused
+bip_39_word_new_br_2: potato<br>jump
+bip_39_word_new_br_3: potato<br>jump<br>exercise
+bip_39_word_new_br_4: potato<br>jump<br>exercise<br>adult
+bip_39_word_new_br_5: potato<br>jump<br>exercise<br>adult<br>joy
+bip_39_word_new_br_6: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon
+bip_39_word_new_br_7: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal
+bip_39_word_new_br_8: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog
+bip_39_word_new_br_9: potato<br>jump<br>exercise<br>adult<br>joy<br>abandon<br>crystal<br>dog<br>clock
+bip_39_word_new_line_1: potato
+bip_39_word_new_line_10: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance'
+bip_39_word_new_line_11: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance
+
+  elbow'
+bip_39_word_new_line_12: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock
+
+  distance
+
+  elbow
+
+  amused'
+bip_39_word_new_line_2: 'potato
+
+  jump'
+bip_39_word_new_line_3: 'potato
+
+  jump
+
+  exercise'
+bip_39_word_new_line_4: 'potato
+
+  jump
+
+  exercise
+
+  adult'
+bip_39_word_new_line_5: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy'
+bip_39_word_new_line_6: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon'
+bip_39_word_new_line_7: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal'
+bip_39_word_new_line_8: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog'
+bip_39_word_new_line_9: 'potato
+
+  jump
+
+  exercise
+
+  adult
+
+  joy
+
+  abandon
+
+  crystal
+
+  dog
+
+  clock'
+bip_39_word_no_space_1: potato
+bip_39_word_no_space_10: potatojumpexerciseadultjoyabandoncrystaldogclockdistance
+bip_39_word_no_space_11: potatojumpexerciseadultjoyabandoncrystaldogclockdistanceelbow
+bip_39_word_no_space_12: potatojumpexerciseadultjoyabandoncrystaldogclockdistanceelbowamused
+bip_39_word_no_space_2: potatojump
+bip_39_word_no_space_3: potatojumpexercise
+bip_39_word_no_space_4: potatojumpexerciseadult
+bip_39_word_no_space_5: potatojumpexerciseadultjoy
+bip_39_word_no_space_6: potatojumpexerciseadultjoyabandon
+bip_39_word_no_space_7: potatojumpexerciseadultjoyabandoncrystal
+bip_39_word_no_space_8: potatojumpexerciseadultjoyabandoncrystaldog
+bip_39_word_no_space_9: potatojumpexerciseadultjoyabandoncrystaldogclock
+bip_39_word_space_0:
+- potato
+- jump
+- exercise
+- adult
+- joy
+- abandon
+- crystal
+- dog
+- clock
+- distance
+- elbow
+- amused
+bip_39_word_space_1: potato
+bip_39_word_space_10: potato jump exercise adult joy abandon crystal dog clock distance
+bip_39_word_space_11: potato jump exercise adult joy abandon crystal dog clock distance
+  elbow
+bip_39_word_space_12: potato jump exercise adult joy abandon crystal dog clock distance
+  elbow amused
+bip_39_word_space_2: potato jump
+bip_39_word_space_3: potato jump exercise
+bip_39_word_space_4: potato jump exercise adult
+bip_39_word_space_5: potato jump exercise adult joy
+bip_39_word_space_6: potato jump exercise adult joy abandon
+bip_39_word_space_7: potato jump exercise adult joy abandon crystal
+bip_39_word_space_8: potato jump exercise adult joy abandon crystal dog
+bip_39_word_space_9: potato jump exercise adult joy abandon crystal dog clock
+bip_39_word_underscore_1: potato
+bip_39_word_underscore_10: potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance
+bip_39_word_underscore_11: potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance_elbow
+bip_39_word_underscore_12: potato_jump_exercise_adult_joy_abandon_crystal_dog_clock_distance_elbow_amused
+bip_39_word_underscore_2: potato_jump
+bip_39_word_underscore_3: potato_jump_exercise
+bip_39_word_underscore_4: potato_jump_exercise_adult
+bip_39_word_underscore_5: potato_jump_exercise_adult_joy
+bip_39_word_underscore_6: potato_jump_exercise_adult_joy_abandon
+bip_39_word_underscore_7: potato_jump_exercise_adult_joy_abandon_crystal
+bip_39_word_underscore_8: potato_jump_exercise_adult_joy_abandon_crystal_dog
+bip_39_word_underscore_9: potato_jump_exercise_adult_joy_abandon_crystal_dog_clock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_05_09
 id_no_color: 2d50509
 id_no_size: 2d5_05_09
 id_no_type: tray_thin_2d5_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2053dxr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2053dxr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2053dxr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50509
 name_no_size: 2D5 05 09
 name_no_size_short: 2D5 05 09
 name_no_type: Tray Thin 2D5 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_05_09
 oomp_word: radio clipboard ant
 oomp_word_emoji: ':radio: :clipboard: :ant:'

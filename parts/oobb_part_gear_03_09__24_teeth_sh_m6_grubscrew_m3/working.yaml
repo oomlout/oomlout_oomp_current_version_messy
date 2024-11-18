@@ -1,3 +1,222 @@
+bip_39_word_dash_1: umbrella
+bip_39_word_dash_10: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web
+bip_39_word_dash_11: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web-tonight
+bip_39_word_dash_12: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt-web-tonight-august
+bip_39_word_dash_2: umbrella-high
+bip_39_word_dash_3: umbrella-high-alter
+bip_39_word_dash_4: umbrella-high-alter-pulse
+bip_39_word_dash_5: umbrella-high-alter-pulse-expire
+bip_39_word_dash_6: umbrella-high-alter-pulse-expire-surge
+bip_39_word_dash_7: umbrella-high-alter-pulse-expire-surge-neutral
+bip_39_word_dash_8: umbrella-high-alter-pulse-expire-surge-neutral-clever
+bip_39_word_dash_9: umbrella-high-alter-pulse-expire-surge-neutral-clever-hurt
+bip_39_word_new_br_1: umbrella
+bip_39_word_new_br_10: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web
+bip_39_word_new_br_11: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web<br>tonight
+bip_39_word_new_br_12: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt<br>web<br>tonight<br>august
+bip_39_word_new_br_2: umbrella<br>high
+bip_39_word_new_br_3: umbrella<br>high<br>alter
+bip_39_word_new_br_4: umbrella<br>high<br>alter<br>pulse
+bip_39_word_new_br_5: umbrella<br>high<br>alter<br>pulse<br>expire
+bip_39_word_new_br_6: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge
+bip_39_word_new_br_7: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral
+bip_39_word_new_br_8: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever
+bip_39_word_new_br_9: umbrella<br>high<br>alter<br>pulse<br>expire<br>surge<br>neutral<br>clever<br>hurt
+bip_39_word_new_line_1: umbrella
+bip_39_word_new_line_10: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web'
+bip_39_word_new_line_11: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web
+
+  tonight'
+bip_39_word_new_line_12: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt
+
+  web
+
+  tonight
+
+  august'
+bip_39_word_new_line_2: 'umbrella
+
+  high'
+bip_39_word_new_line_3: 'umbrella
+
+  high
+
+  alter'
+bip_39_word_new_line_4: 'umbrella
+
+  high
+
+  alter
+
+  pulse'
+bip_39_word_new_line_5: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire'
+bip_39_word_new_line_6: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge'
+bip_39_word_new_line_7: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral'
+bip_39_word_new_line_8: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever'
+bip_39_word_new_line_9: 'umbrella
+
+  high
+
+  alter
+
+  pulse
+
+  expire
+
+  surge
+
+  neutral
+
+  clever
+
+  hurt'
+bip_39_word_no_space_1: umbrella
+bip_39_word_no_space_10: umbrellahighalterpulseexpiresurgeneutralcleverhurtweb
+bip_39_word_no_space_11: umbrellahighalterpulseexpiresurgeneutralcleverhurtwebtonight
+bip_39_word_no_space_12: umbrellahighalterpulseexpiresurgeneutralcleverhurtwebtonightaugust
+bip_39_word_no_space_2: umbrellahigh
+bip_39_word_no_space_3: umbrellahighalter
+bip_39_word_no_space_4: umbrellahighalterpulse
+bip_39_word_no_space_5: umbrellahighalterpulseexpire
+bip_39_word_no_space_6: umbrellahighalterpulseexpiresurge
+bip_39_word_no_space_7: umbrellahighalterpulseexpiresurgeneutral
+bip_39_word_no_space_8: umbrellahighalterpulseexpiresurgeneutralclever
+bip_39_word_no_space_9: umbrellahighalterpulseexpiresurgeneutralcleverhurt
+bip_39_word_space_0:
+- umbrella
+- high
+- alter
+- pulse
+- expire
+- surge
+- neutral
+- clever
+- hurt
+- web
+- tonight
+- august
+bip_39_word_space_1: umbrella
+bip_39_word_space_10: umbrella high alter pulse expire surge neutral clever hurt web
+bip_39_word_space_11: umbrella high alter pulse expire surge neutral clever hurt web
+  tonight
+bip_39_word_space_12: umbrella high alter pulse expire surge neutral clever hurt web
+  tonight august
+bip_39_word_space_2: umbrella high
+bip_39_word_space_3: umbrella high alter
+bip_39_word_space_4: umbrella high alter pulse
+bip_39_word_space_5: umbrella high alter pulse expire
+bip_39_word_space_6: umbrella high alter pulse expire surge
+bip_39_word_space_7: umbrella high alter pulse expire surge neutral
+bip_39_word_space_8: umbrella high alter pulse expire surge neutral clever
+bip_39_word_space_9: umbrella high alter pulse expire surge neutral clever hurt
+bip_39_word_underscore_1: umbrella
+bip_39_word_underscore_10: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web
+bip_39_word_underscore_11: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web_tonight
+bip_39_word_underscore_12: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt_web_tonight_august
+bip_39_word_underscore_2: umbrella_high
+bip_39_word_underscore_3: umbrella_high_alter
+bip_39_word_underscore_4: umbrella_high_alter_pulse
+bip_39_word_underscore_5: umbrella_high_alter_pulse_expire
+bip_39_word_underscore_6: umbrella_high_alter_pulse_expire_surge
+bip_39_word_underscore_7: umbrella_high_alter_pulse_expire_surge_neutral
+bip_39_word_underscore_8: umbrella_high_alter_pulse_expire_surge_neutral_clever
+bip_39_word_underscore_9: umbrella_high_alter_pulse_expire_surge_neutral_clever_hurt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_03_09__24_teeth_sh_m6_grubscrew_m3
 id_no_color: 030924teethshm6grubscrewm3
 id_no_size: 03_09__24_teeth_sh_m6_grubscrew_m3
 id_no_type: gear_03_09__24_teeth_sh_m6_grubscrew_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ifr2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ifr2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ifr2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030924Teethshm6Grubscrewm3
 name_no_size: 03 09  24 Teeth Sh M6 Grubscrew M3
 name_no_size_short: 03 09  24 Teeth Sh M6 Grubscrew M3
 name_no_type: Gear 03 09  24 Teeth Sh M6 Grubscrew M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_03_09__24_teeth_sh_m6_grubscrew_m3
 oomp_word: two lemon monkey
 oomp_word_emoji: ':two: :lemon: :monkey:'

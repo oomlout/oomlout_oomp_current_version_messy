@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wedding
+bip_39_word_dash_10: wedding-scene-culture-actual-fall-peace-system-supply-talent-usual
+bip_39_word_dash_11: wedding-scene-culture-actual-fall-peace-system-supply-talent-usual-evoke
+bip_39_word_dash_12: wedding-scene-culture-actual-fall-peace-system-supply-talent-usual-evoke-amount
+bip_39_word_dash_2: wedding-scene
+bip_39_word_dash_3: wedding-scene-culture
+bip_39_word_dash_4: wedding-scene-culture-actual
+bip_39_word_dash_5: wedding-scene-culture-actual-fall
+bip_39_word_dash_6: wedding-scene-culture-actual-fall-peace
+bip_39_word_dash_7: wedding-scene-culture-actual-fall-peace-system
+bip_39_word_dash_8: wedding-scene-culture-actual-fall-peace-system-supply
+bip_39_word_dash_9: wedding-scene-culture-actual-fall-peace-system-supply-talent
+bip_39_word_new_br_1: wedding
+bip_39_word_new_br_10: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual
+bip_39_word_new_br_11: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual<br>evoke
+bip_39_word_new_br_12: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent<br>usual<br>evoke<br>amount
+bip_39_word_new_br_2: wedding<br>scene
+bip_39_word_new_br_3: wedding<br>scene<br>culture
+bip_39_word_new_br_4: wedding<br>scene<br>culture<br>actual
+bip_39_word_new_br_5: wedding<br>scene<br>culture<br>actual<br>fall
+bip_39_word_new_br_6: wedding<br>scene<br>culture<br>actual<br>fall<br>peace
+bip_39_word_new_br_7: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system
+bip_39_word_new_br_8: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply
+bip_39_word_new_br_9: wedding<br>scene<br>culture<br>actual<br>fall<br>peace<br>system<br>supply<br>talent
+bip_39_word_new_line_1: wedding
+bip_39_word_new_line_10: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system
+
+  supply
+
+  talent
+
+  usual'
+bip_39_word_new_line_11: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system
+
+  supply
+
+  talent
+
+  usual
+
+  evoke'
+bip_39_word_new_line_12: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system
+
+  supply
+
+  talent
+
+  usual
+
+  evoke
+
+  amount'
+bip_39_word_new_line_2: 'wedding
+
+  scene'
+bip_39_word_new_line_3: 'wedding
+
+  scene
+
+  culture'
+bip_39_word_new_line_4: 'wedding
+
+  scene
+
+  culture
+
+  actual'
+bip_39_word_new_line_5: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall'
+bip_39_word_new_line_6: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace'
+bip_39_word_new_line_7: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system'
+bip_39_word_new_line_8: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system
+
+  supply'
+bip_39_word_new_line_9: 'wedding
+
+  scene
+
+  culture
+
+  actual
+
+  fall
+
+  peace
+
+  system
+
+  supply
+
+  talent'
+bip_39_word_no_space_1: wedding
+bip_39_word_no_space_10: weddingscenecultureactualfallpeacesystemsupplytalentusual
+bip_39_word_no_space_11: weddingscenecultureactualfallpeacesystemsupplytalentusualevoke
+bip_39_word_no_space_12: weddingscenecultureactualfallpeacesystemsupplytalentusualevokeamount
+bip_39_word_no_space_2: weddingscene
+bip_39_word_no_space_3: weddingsceneculture
+bip_39_word_no_space_4: weddingscenecultureactual
+bip_39_word_no_space_5: weddingscenecultureactualfall
+bip_39_word_no_space_6: weddingscenecultureactualfallpeace
+bip_39_word_no_space_7: weddingscenecultureactualfallpeacesystem
+bip_39_word_no_space_8: weddingscenecultureactualfallpeacesystemsupply
+bip_39_word_no_space_9: weddingscenecultureactualfallpeacesystemsupplytalent
+bip_39_word_space_0:
+- wedding
+- scene
+- culture
+- actual
+- fall
+- peace
+- system
+- supply
+- talent
+- usual
+- evoke
+- amount
+bip_39_word_space_1: wedding
+bip_39_word_space_10: wedding scene culture actual fall peace system supply talent
+  usual
+bip_39_word_space_11: wedding scene culture actual fall peace system supply talent
+  usual evoke
+bip_39_word_space_12: wedding scene culture actual fall peace system supply talent
+  usual evoke amount
+bip_39_word_space_2: wedding scene
+bip_39_word_space_3: wedding scene culture
+bip_39_word_space_4: wedding scene culture actual
+bip_39_word_space_5: wedding scene culture actual fall
+bip_39_word_space_6: wedding scene culture actual fall peace
+bip_39_word_space_7: wedding scene culture actual fall peace system
+bip_39_word_space_8: wedding scene culture actual fall peace system supply
+bip_39_word_space_9: wedding scene culture actual fall peace system supply talent
+bip_39_word_underscore_1: wedding
+bip_39_word_underscore_10: wedding_scene_culture_actual_fall_peace_system_supply_talent_usual
+bip_39_word_underscore_11: wedding_scene_culture_actual_fall_peace_system_supply_talent_usual_evoke
+bip_39_word_underscore_12: wedding_scene_culture_actual_fall_peace_system_supply_talent_usual_evoke_amount
+bip_39_word_underscore_2: wedding_scene
+bip_39_word_underscore_3: wedding_scene_culture
+bip_39_word_underscore_4: wedding_scene_culture_actual
+bip_39_word_underscore_5: wedding_scene_culture_actual_fall
+bip_39_word_underscore_6: wedding_scene_culture_actual_fall_peace
+bip_39_word_underscore_7: wedding_scene_culture_actual_fall_peace_system
+bip_39_word_underscore_8: wedding_scene_culture_actual_fall_peace_system_supply
+bip_39_word_underscore_9: wedding_scene_culture_actual_fall_peace_system_supply_talent
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -85,7 +305,14 @@ id_no_color: 10000ohm
 id_no_size: 10000_ohm
 id_no_type: 0402_10000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_10000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_10000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_10000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2050njw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2050njw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2050njw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -139,6 +366,7 @@ name_no_color: 10000Ohm
 name_no_size: 10000 Ohm
 name_no_size_short: 10k Ohm
 name_no_type: 0402 10000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0402_10000_ohm
 oomp_word: hourglass spades pig
 oomp_word_emoji: ':hourglass: :spades: :pig:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Rectangle 1000 Ml Nisbet Fiesta Large Dm183
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hatching_chick: :bear: :ring:
 * md5_6_alpha: 2uv8g
 * md5_6: 493ba0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202uv8g)
+[2x1](http://192.168.1.242:1112/?label=oomp%202uv8g)
+[6x4](http://192.168.1.55:1112/?label=oomp%202uv8g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ cloth |
 | id_no_color | nisbetfiestalargedm183 |  
 | id_no_size | nisbet_fiesta_large_dm183 |  
 | id_no_type | 1000_ml_nisbet_fiesta_large_dm183 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202uv8g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202uv8g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202uv8g |  
 | manufacturer | nisbet_fiesta |  
 | manufacturer_capital | Nisbet Fiesta |  
 | manufacturer_first_letter | n |  
@@ -280,6 +313,7 @@ cloth |
 | name_no_size | Nisbet Fiesta Large Dm183 |  
 | name_no_size_short | Nisbet Fiesta Large Dm183 |  
 | name_no_type | 1000 Ml Nisbet Fiesta Large Dm183 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcr1000 |  
 | oomlout_short_code_upper | TCR1000 |  
 | oomp_key | oomp_packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183 |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Wire 03 03 2D54  Motor Stepper
+* name_short: 
 ### id
 * oomp_id: oobb_part_wire_03_03_2d54__motor_stepper
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :leopard: :bug: :ski:
 * md5_6_alpha: 3pva3
 * md5_6: 5f4d9b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203pva3)
+[2x1](http://192.168.1.242:1112/?label=oomp%203pva3)
+[6x4](http://192.168.1.55:1112/?label=oomp%203pva3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor_stepper) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor_stepper)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ chase |
 | id_no_color | 03032d54motorstepper |  
 | id_no_size | 03_03_2d54__motor_stepper |  
 | id_no_type | wire_03_03_2d54__motor_stepper |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor_stepper |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__motor_stepper |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__motor_stepper |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203pva3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203pva3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203pva3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ chase |
 | name_no_size | 03 03 2D54  Motor Stepper |  
 | name_no_size_short | 03 03 2D54  Motor Stepper |  
 | name_no_type | Wire 03 03 2D54  Motor Stepper |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_2d54__motor_stepper |  
 | oomp_word | leopard bug ski |  
 | oomp_word_emoji | :leopard: :bug: :ski: |  

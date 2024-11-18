@@ -1,3 +1,223 @@
+bip_39_word_dash_1: slam
+bip_39_word_dash_10: slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century
+bip_39_word_dash_11: slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century-fury
+bip_39_word_dash_12: slam-nothing-tube-expect-notable-rack-resemble-banana-crunch-century-fury-adapt
+bip_39_word_dash_2: slam-nothing
+bip_39_word_dash_3: slam-nothing-tube
+bip_39_word_dash_4: slam-nothing-tube-expect
+bip_39_word_dash_5: slam-nothing-tube-expect-notable
+bip_39_word_dash_6: slam-nothing-tube-expect-notable-rack
+bip_39_word_dash_7: slam-nothing-tube-expect-notable-rack-resemble
+bip_39_word_dash_8: slam-nothing-tube-expect-notable-rack-resemble-banana
+bip_39_word_dash_9: slam-nothing-tube-expect-notable-rack-resemble-banana-crunch
+bip_39_word_new_br_1: slam
+bip_39_word_new_br_10: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century
+bip_39_word_new_br_11: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century<br>fury
+bip_39_word_new_br_12: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch<br>century<br>fury<br>adapt
+bip_39_word_new_br_2: slam<br>nothing
+bip_39_word_new_br_3: slam<br>nothing<br>tube
+bip_39_word_new_br_4: slam<br>nothing<br>tube<br>expect
+bip_39_word_new_br_5: slam<br>nothing<br>tube<br>expect<br>notable
+bip_39_word_new_br_6: slam<br>nothing<br>tube<br>expect<br>notable<br>rack
+bip_39_word_new_br_7: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble
+bip_39_word_new_br_8: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana
+bip_39_word_new_br_9: slam<br>nothing<br>tube<br>expect<br>notable<br>rack<br>resemble<br>banana<br>crunch
+bip_39_word_new_line_1: slam
+bip_39_word_new_line_10: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble
+
+  banana
+
+  crunch
+
+  century'
+bip_39_word_new_line_11: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble
+
+  banana
+
+  crunch
+
+  century
+
+  fury'
+bip_39_word_new_line_12: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble
+
+  banana
+
+  crunch
+
+  century
+
+  fury
+
+  adapt'
+bip_39_word_new_line_2: 'slam
+
+  nothing'
+bip_39_word_new_line_3: 'slam
+
+  nothing
+
+  tube'
+bip_39_word_new_line_4: 'slam
+
+  nothing
+
+  tube
+
+  expect'
+bip_39_word_new_line_5: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable'
+bip_39_word_new_line_6: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack'
+bip_39_word_new_line_7: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble'
+bip_39_word_new_line_8: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble
+
+  banana'
+bip_39_word_new_line_9: 'slam
+
+  nothing
+
+  tube
+
+  expect
+
+  notable
+
+  rack
+
+  resemble
+
+  banana
+
+  crunch'
+bip_39_word_no_space_1: slam
+bip_39_word_no_space_10: slamnothingtubeexpectnotablerackresemblebananacrunchcentury
+bip_39_word_no_space_11: slamnothingtubeexpectnotablerackresemblebananacrunchcenturyfury
+bip_39_word_no_space_12: slamnothingtubeexpectnotablerackresemblebananacrunchcenturyfuryadapt
+bip_39_word_no_space_2: slamnothing
+bip_39_word_no_space_3: slamnothingtube
+bip_39_word_no_space_4: slamnothingtubeexpect
+bip_39_word_no_space_5: slamnothingtubeexpectnotable
+bip_39_word_no_space_6: slamnothingtubeexpectnotablerack
+bip_39_word_no_space_7: slamnothingtubeexpectnotablerackresemble
+bip_39_word_no_space_8: slamnothingtubeexpectnotablerackresemblebanana
+bip_39_word_no_space_9: slamnothingtubeexpectnotablerackresemblebananacrunch
+bip_39_word_space_0:
+- slam
+- nothing
+- tube
+- expect
+- notable
+- rack
+- resemble
+- banana
+- crunch
+- century
+- fury
+- adapt
+bip_39_word_space_1: slam
+bip_39_word_space_10: slam nothing tube expect notable rack resemble banana crunch
+  century
+bip_39_word_space_11: slam nothing tube expect notable rack resemble banana crunch
+  century fury
+bip_39_word_space_12: slam nothing tube expect notable rack resemble banana crunch
+  century fury adapt
+bip_39_word_space_2: slam nothing
+bip_39_word_space_3: slam nothing tube
+bip_39_word_space_4: slam nothing tube expect
+bip_39_word_space_5: slam nothing tube expect notable
+bip_39_word_space_6: slam nothing tube expect notable rack
+bip_39_word_space_7: slam nothing tube expect notable rack resemble
+bip_39_word_space_8: slam nothing tube expect notable rack resemble banana
+bip_39_word_space_9: slam nothing tube expect notable rack resemble banana crunch
+bip_39_word_underscore_1: slam
+bip_39_word_underscore_10: slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century
+bip_39_word_underscore_11: slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century_fury
+bip_39_word_underscore_12: slam_nothing_tube_expect_notable_rack_resemble_banana_crunch_century_fury_adapt
+bip_39_word_underscore_2: slam_nothing
+bip_39_word_underscore_3: slam_nothing_tube
+bip_39_word_underscore_4: slam_nothing_tube_expect
+bip_39_word_underscore_5: slam_nothing_tube_expect_notable
+bip_39_word_underscore_6: slam_nothing_tube_expect_notable_rack
+bip_39_word_underscore_7: slam_nothing_tube_expect_notable_rack_resemble
+bip_39_word_underscore_8: slam_nothing_tube_expect_notable_rack_resemble_banana
+bip_39_word_underscore_9: slam_nothing_tube_expect_notable_rack_resemble_banana_crunch
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
 id_no_color: 12_mm_id_32_mm_od_10_mm_depth
 id_no_size: 6201_size_12_mm_id_32_mm_od_10_mm_depth
 id_no_type: 6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201wgjt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201wgjt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201wgjt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 12 mm ID 32 mm OD 10 mm Depth
 name_no_size: 6201 Size 12 mm ID 32 mm OD 10 mm Depth
 name_no_size_short: 6201 Size 12 Mm Id 32 Mm Od 10 Mm Depth
 name_no_type: 6200 Series 6201 Size 12 mm ID 32 mm OD 10 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6201
+oomlout_short_code_upper: BR6201
 oomp_key: oomp_hardware_bearing_6200_series_6201_size_12_mm_id_32_mm_od_10_mm_depth
 oomp_word: foggy sushi lemon
 oomp_word_emoji: ':foggy: :sushi: :lemon:'

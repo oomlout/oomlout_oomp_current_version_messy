@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-affair-valid-slice-tone-coral-thunder-tackle-witness-give
+bip_39_word_dash_11: ring-affair-valid-slice-tone-coral-thunder-tackle-witness-give-maximum
+bip_39_word_dash_12: ring-affair-valid-slice-tone-coral-thunder-tackle-witness-give-maximum-absurd
+bip_39_word_dash_2: ring-affair
+bip_39_word_dash_3: ring-affair-valid
+bip_39_word_dash_4: ring-affair-valid-slice
+bip_39_word_dash_5: ring-affair-valid-slice-tone
+bip_39_word_dash_6: ring-affair-valid-slice-tone-coral
+bip_39_word_dash_7: ring-affair-valid-slice-tone-coral-thunder
+bip_39_word_dash_8: ring-affair-valid-slice-tone-coral-thunder-tackle
+bip_39_word_dash_9: ring-affair-valid-slice-tone-coral-thunder-tackle-witness
+bip_39_word_new_br_1: ring
+bip_39_word_new_br_10: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give
+bip_39_word_new_br_11: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give<br>maximum
+bip_39_word_new_br_12: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness<br>give<br>maximum<br>absurd
+bip_39_word_new_br_2: ring<br>affair
+bip_39_word_new_br_3: ring<br>affair<br>valid
+bip_39_word_new_br_4: ring<br>affair<br>valid<br>slice
+bip_39_word_new_br_5: ring<br>affair<br>valid<br>slice<br>tone
+bip_39_word_new_br_6: ring<br>affair<br>valid<br>slice<br>tone<br>coral
+bip_39_word_new_br_7: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder
+bip_39_word_new_br_8: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle
+bip_39_word_new_br_9: ring<br>affair<br>valid<br>slice<br>tone<br>coral<br>thunder<br>tackle<br>witness
+bip_39_word_new_line_1: ring
+bip_39_word_new_line_10: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder
+
+  tackle
+
+  witness
+
+  give'
+bip_39_word_new_line_11: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder
+
+  tackle
+
+  witness
+
+  give
+
+  maximum'
+bip_39_word_new_line_12: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder
+
+  tackle
+
+  witness
+
+  give
+
+  maximum
+
+  absurd'
+bip_39_word_new_line_2: 'ring
+
+  affair'
+bip_39_word_new_line_3: 'ring
+
+  affair
+
+  valid'
+bip_39_word_new_line_4: 'ring
+
+  affair
+
+  valid
+
+  slice'
+bip_39_word_new_line_5: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone'
+bip_39_word_new_line_6: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral'
+bip_39_word_new_line_7: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder'
+bip_39_word_new_line_8: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder
+
+  tackle'
+bip_39_word_new_line_9: 'ring
+
+  affair
+
+  valid
+
+  slice
+
+  tone
+
+  coral
+
+  thunder
+
+  tackle
+
+  witness'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringaffairvalidslicetonecoralthundertacklewitnessgive
+bip_39_word_no_space_11: ringaffairvalidslicetonecoralthundertacklewitnessgivemaximum
+bip_39_word_no_space_12: ringaffairvalidslicetonecoralthundertacklewitnessgivemaximumabsurd
+bip_39_word_no_space_2: ringaffair
+bip_39_word_no_space_3: ringaffairvalid
+bip_39_word_no_space_4: ringaffairvalidslice
+bip_39_word_no_space_5: ringaffairvalidslicetone
+bip_39_word_no_space_6: ringaffairvalidslicetonecoral
+bip_39_word_no_space_7: ringaffairvalidslicetonecoralthunder
+bip_39_word_no_space_8: ringaffairvalidslicetonecoralthundertackle
+bip_39_word_no_space_9: ringaffairvalidslicetonecoralthundertacklewitness
+bip_39_word_space_0:
+- ring
+- affair
+- valid
+- slice
+- tone
+- coral
+- thunder
+- tackle
+- witness
+- give
+- maximum
+- absurd
+bip_39_word_space_1: ring
+bip_39_word_space_10: ring affair valid slice tone coral thunder tackle witness give
+bip_39_word_space_11: ring affair valid slice tone coral thunder tackle witness give
+  maximum
+bip_39_word_space_12: ring affair valid slice tone coral thunder tackle witness give
+  maximum absurd
+bip_39_word_space_2: ring affair
+bip_39_word_space_3: ring affair valid
+bip_39_word_space_4: ring affair valid slice
+bip_39_word_space_5: ring affair valid slice tone
+bip_39_word_space_6: ring affair valid slice tone coral
+bip_39_word_space_7: ring affair valid slice tone coral thunder
+bip_39_word_space_8: ring affair valid slice tone coral thunder tackle
+bip_39_word_space_9: ring affair valid slice tone coral thunder tackle witness
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_affair_valid_slice_tone_coral_thunder_tackle_witness_give
+bip_39_word_underscore_11: ring_affair_valid_slice_tone_coral_thunder_tackle_witness_give_maximum
+bip_39_word_underscore_12: ring_affair_valid_slice_tone_coral_thunder_tackle_witness_give_maximum_absurd
+bip_39_word_underscore_2: ring_affair
+bip_39_word_underscore_3: ring_affair_valid
+bip_39_word_underscore_4: ring_affair_valid_slice
+bip_39_word_underscore_5: ring_affair_valid_slice_tone
+bip_39_word_underscore_6: ring_affair_valid_slice_tone_coral
+bip_39_word_underscore_7: ring_affair_valid_slice_tone_coral_thunder
+bip_39_word_underscore_8: ring_affair_valid_slice_tone_coral_thunder_tackle
+bip_39_word_underscore_9: ring_affair_valid_slice_tone_coral_thunder_tackle_witness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
 id_no_color: 010514ptfetubeholdershquarterinchpipethread
 id_no_size: 01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
 id_no_type: other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20nzdk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20nzdk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20nzdk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010514Ptfetubeholdershquarterinchpipethread
 name_no_size: 01 05 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread
 name_no_size_short: 01 05 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread
 name_no_type: Other 01 05 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_01_05_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
 oomp_word: dizzy anger hospital
 oomp_word_emoji: ':dizzy: :anger: :hospital:'

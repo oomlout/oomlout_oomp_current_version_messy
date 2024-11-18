@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Plate 03 03 09 6705  Minimal Missing Middle 3 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_plate_03_03_09_6705__minimal_missing_middle_3_mm
   * classification: oobb

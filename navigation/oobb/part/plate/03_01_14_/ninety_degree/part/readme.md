@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 03 01 14  Ninety Degree
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_03_01_14__ninety_degree
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sunglasses: :shirt: :leopard:
 * md5_6_alpha: gean
 * md5_6: 0bac5f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20gean)
+[2x1](http://192.168.1.242:1112/?label=oomp%20gean)
+[6x4](http://192.168.1.55:1112/?label=oomp%20gean)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ reform |
 | id_no_color | 030114ninetydegree |  
 | id_no_size | 03_01_14__ninety_degree |  
 | id_no_type | plate_03_01_14__ninety_degree |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_14__ninety_degree |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20gean |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20gean |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20gean |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ reform |
 | name_no_size | 03 01 14  Ninety Degree |  
 | name_no_size_short | 03 01 14  Ninety Degree |  
 | name_no_type | Plate 03 01 14  Ninety Degree |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_03_01_14__ninety_degree |  
 | oomp_word | sunglasses shirt leopard |  
 | oomp_word_emoji | :sunglasses: :shirt: :leopard: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: general
+bip_39_word_dash_10: general-census-office-isolate-cargo-company-armed-brave-erode-inmate
+bip_39_word_dash_11: general-census-office-isolate-cargo-company-armed-brave-erode-inmate-gorilla
+bip_39_word_dash_12: general-census-office-isolate-cargo-company-armed-brave-erode-inmate-gorilla-armed
+bip_39_word_dash_2: general-census
+bip_39_word_dash_3: general-census-office
+bip_39_word_dash_4: general-census-office-isolate
+bip_39_word_dash_5: general-census-office-isolate-cargo
+bip_39_word_dash_6: general-census-office-isolate-cargo-company
+bip_39_word_dash_7: general-census-office-isolate-cargo-company-armed
+bip_39_word_dash_8: general-census-office-isolate-cargo-company-armed-brave
+bip_39_word_dash_9: general-census-office-isolate-cargo-company-armed-brave-erode
+bip_39_word_new_br_1: general
+bip_39_word_new_br_10: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate
+bip_39_word_new_br_11: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla
+bip_39_word_new_br_12: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode<br>inmate<br>gorilla<br>armed
+bip_39_word_new_br_2: general<br>census
+bip_39_word_new_br_3: general<br>census<br>office
+bip_39_word_new_br_4: general<br>census<br>office<br>isolate
+bip_39_word_new_br_5: general<br>census<br>office<br>isolate<br>cargo
+bip_39_word_new_br_6: general<br>census<br>office<br>isolate<br>cargo<br>company
+bip_39_word_new_br_7: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed
+bip_39_word_new_br_8: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave
+bip_39_word_new_br_9: general<br>census<br>office<br>isolate<br>cargo<br>company<br>armed<br>brave<br>erode
+bip_39_word_new_line_1: general
+bip_39_word_new_line_10: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed
+
+  brave
+
+  erode
+
+  inmate'
+bip_39_word_new_line_11: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed
+
+  brave
+
+  erode
+
+  inmate
+
+  gorilla'
+bip_39_word_new_line_12: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed
+
+  brave
+
+  erode
+
+  inmate
+
+  gorilla
+
+  armed'
+bip_39_word_new_line_2: 'general
+
+  census'
+bip_39_word_new_line_3: 'general
+
+  census
+
+  office'
+bip_39_word_new_line_4: 'general
+
+  census
+
+  office
+
+  isolate'
+bip_39_word_new_line_5: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo'
+bip_39_word_new_line_6: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company'
+bip_39_word_new_line_7: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed'
+bip_39_word_new_line_8: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed
+
+  brave'
+bip_39_word_new_line_9: 'general
+
+  census
+
+  office
+
+  isolate
+
+  cargo
+
+  company
+
+  armed
+
+  brave
+
+  erode'
+bip_39_word_no_space_1: general
+bip_39_word_no_space_10: generalcensusofficeisolatecargocompanyarmedbraveerodeinmate
+bip_39_word_no_space_11: generalcensusofficeisolatecargocompanyarmedbraveerodeinmategorilla
+bip_39_word_no_space_12: generalcensusofficeisolatecargocompanyarmedbraveerodeinmategorillaarmed
+bip_39_word_no_space_2: generalcensus
+bip_39_word_no_space_3: generalcensusoffice
+bip_39_word_no_space_4: generalcensusofficeisolate
+bip_39_word_no_space_5: generalcensusofficeisolatecargo
+bip_39_word_no_space_6: generalcensusofficeisolatecargocompany
+bip_39_word_no_space_7: generalcensusofficeisolatecargocompanyarmed
+bip_39_word_no_space_8: generalcensusofficeisolatecargocompanyarmedbrave
+bip_39_word_no_space_9: generalcensusofficeisolatecargocompanyarmedbraveerode
+bip_39_word_space_0:
+- general
+- census
+- office
+- isolate
+- cargo
+- company
+- armed
+- brave
+- erode
+- inmate
+- gorilla
+- armed
+bip_39_word_space_1: general
+bip_39_word_space_10: general census office isolate cargo company armed brave erode
+  inmate
+bip_39_word_space_11: general census office isolate cargo company armed brave erode
+  inmate gorilla
+bip_39_word_space_12: general census office isolate cargo company armed brave erode
+  inmate gorilla armed
+bip_39_word_space_2: general census
+bip_39_word_space_3: general census office
+bip_39_word_space_4: general census office isolate
+bip_39_word_space_5: general census office isolate cargo
+bip_39_word_space_6: general census office isolate cargo company
+bip_39_word_space_7: general census office isolate cargo company armed
+bip_39_word_space_8: general census office isolate cargo company armed brave
+bip_39_word_space_9: general census office isolate cargo company armed brave erode
+bip_39_word_underscore_1: general
+bip_39_word_underscore_10: general_census_office_isolate_cargo_company_armed_brave_erode_inmate
+bip_39_word_underscore_11: general_census_office_isolate_cargo_company_armed_brave_erode_inmate_gorilla
+bip_39_word_underscore_12: general_census_office_isolate_cargo_company_armed_brave_erode_inmate_gorilla_armed
+bip_39_word_underscore_2: general_census
+bip_39_word_underscore_3: general_census_office
+bip_39_word_underscore_4: general_census_office_isolate
+bip_39_word_underscore_5: general_census_office_isolate_cargo
+bip_39_word_underscore_6: general_census_office_isolate_cargo_company
+bip_39_word_underscore_7: general_census_office_isolate_cargo_company_armed
+bip_39_word_underscore_8: general_census_office_isolate_cargo_company_armed_brave
+bip_39_word_underscore_9: general_census_office_isolate_cargo_company_armed_brave_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_bolt_hardware_bolt_m6_35
 id_no_color: hardwarem635
 id_no_size: hardware_m6_35
 id_no_type: bolt_hardware_bolt_m6_35
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_35
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207d6jh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207d6jh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207d6jh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem635
 name_no_size: Hardware M6 35
 name_no_size_short: Hardware M6 35
 name_no_type: Bolt Hardware Bolt M6 35
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_35
 oomp_word: sushi lemon blowfish
 oomp_word_emoji: ':sushi: :lemon: :blowfish:'

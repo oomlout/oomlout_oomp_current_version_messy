@@ -1,3 +1,222 @@
+bip_39_word_dash_1: select
+bip_39_word_dash_10: select-buddy-armed-timber-off-sunset-skin-success-erode-mansion
+bip_39_word_dash_11: select-buddy-armed-timber-off-sunset-skin-success-erode-mansion-clip
+bip_39_word_dash_12: select-buddy-armed-timber-off-sunset-skin-success-erode-mansion-clip-asset
+bip_39_word_dash_2: select-buddy
+bip_39_word_dash_3: select-buddy-armed
+bip_39_word_dash_4: select-buddy-armed-timber
+bip_39_word_dash_5: select-buddy-armed-timber-off
+bip_39_word_dash_6: select-buddy-armed-timber-off-sunset
+bip_39_word_dash_7: select-buddy-armed-timber-off-sunset-skin
+bip_39_word_dash_8: select-buddy-armed-timber-off-sunset-skin-success
+bip_39_word_dash_9: select-buddy-armed-timber-off-sunset-skin-success-erode
+bip_39_word_new_br_1: select
+bip_39_word_new_br_10: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion
+bip_39_word_new_br_11: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip
+bip_39_word_new_br_12: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode<br>mansion<br>clip<br>asset
+bip_39_word_new_br_2: select<br>buddy
+bip_39_word_new_br_3: select<br>buddy<br>armed
+bip_39_word_new_br_4: select<br>buddy<br>armed<br>timber
+bip_39_word_new_br_5: select<br>buddy<br>armed<br>timber<br>off
+bip_39_word_new_br_6: select<br>buddy<br>armed<br>timber<br>off<br>sunset
+bip_39_word_new_br_7: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin
+bip_39_word_new_br_8: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success
+bip_39_word_new_br_9: select<br>buddy<br>armed<br>timber<br>off<br>sunset<br>skin<br>success<br>erode
+bip_39_word_new_line_1: select
+bip_39_word_new_line_10: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin
+
+  success
+
+  erode
+
+  mansion'
+bip_39_word_new_line_11: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin
+
+  success
+
+  erode
+
+  mansion
+
+  clip'
+bip_39_word_new_line_12: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin
+
+  success
+
+  erode
+
+  mansion
+
+  clip
+
+  asset'
+bip_39_word_new_line_2: 'select
+
+  buddy'
+bip_39_word_new_line_3: 'select
+
+  buddy
+
+  armed'
+bip_39_word_new_line_4: 'select
+
+  buddy
+
+  armed
+
+  timber'
+bip_39_word_new_line_5: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off'
+bip_39_word_new_line_6: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset'
+bip_39_word_new_line_7: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin'
+bip_39_word_new_line_8: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin
+
+  success'
+bip_39_word_new_line_9: 'select
+
+  buddy
+
+  armed
+
+  timber
+
+  off
+
+  sunset
+
+  skin
+
+  success
+
+  erode'
+bip_39_word_no_space_1: select
+bip_39_word_no_space_10: selectbuddyarmedtimberoffsunsetskinsuccesserodemansion
+bip_39_word_no_space_11: selectbuddyarmedtimberoffsunsetskinsuccesserodemansionclip
+bip_39_word_no_space_12: selectbuddyarmedtimberoffsunsetskinsuccesserodemansionclipasset
+bip_39_word_no_space_2: selectbuddy
+bip_39_word_no_space_3: selectbuddyarmed
+bip_39_word_no_space_4: selectbuddyarmedtimber
+bip_39_word_no_space_5: selectbuddyarmedtimberoff
+bip_39_word_no_space_6: selectbuddyarmedtimberoffsunset
+bip_39_word_no_space_7: selectbuddyarmedtimberoffsunsetskin
+bip_39_word_no_space_8: selectbuddyarmedtimberoffsunsetskinsuccess
+bip_39_word_no_space_9: selectbuddyarmedtimberoffsunsetskinsuccesserode
+bip_39_word_space_0:
+- select
+- buddy
+- armed
+- timber
+- 'off'
+- sunset
+- skin
+- success
+- erode
+- mansion
+- clip
+- asset
+bip_39_word_space_1: select
+bip_39_word_space_10: select buddy armed timber off sunset skin success erode mansion
+bip_39_word_space_11: select buddy armed timber off sunset skin success erode mansion
+  clip
+bip_39_word_space_12: select buddy armed timber off sunset skin success erode mansion
+  clip asset
+bip_39_word_space_2: select buddy
+bip_39_word_space_3: select buddy armed
+bip_39_word_space_4: select buddy armed timber
+bip_39_word_space_5: select buddy armed timber off
+bip_39_word_space_6: select buddy armed timber off sunset
+bip_39_word_space_7: select buddy armed timber off sunset skin
+bip_39_word_space_8: select buddy armed timber off sunset skin success
+bip_39_word_space_9: select buddy armed timber off sunset skin success erode
+bip_39_word_underscore_1: select
+bip_39_word_underscore_10: select_buddy_armed_timber_off_sunset_skin_success_erode_mansion
+bip_39_word_underscore_11: select_buddy_armed_timber_off_sunset_skin_success_erode_mansion_clip
+bip_39_word_underscore_12: select_buddy_armed_timber_off_sunset_skin_success_erode_mansion_clip_asset
+bip_39_word_underscore_2: select_buddy
+bip_39_word_underscore_3: select_buddy_armed
+bip_39_word_underscore_4: select_buddy_armed_timber
+bip_39_word_underscore_5: select_buddy_armed_timber_off
+bip_39_word_underscore_6: select_buddy_armed_timber_off_sunset
+bip_39_word_underscore_7: select_buddy_armed_timber_off_sunset_skin
+bip_39_word_underscore_8: select_buddy_armed_timber_off_sunset_skin_success
+bip_39_word_underscore_9: select_buddy_armed_timber_off_sunset_skin_success_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_03_01_60
 id_no_color: '030160'
 id_no_size: '03_01_60'
 id_no_type: tray_vertical_03_01_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_01_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_01_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208iowx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208iowx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208iowx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030160'
 name_no_size: 03 01 60
 name_no_size_short: 03 01 60
 name_no_type: Tray Vertical 03 01 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_03_01_60
 oomp_word: hotel ram trophy
 oomp_word_emoji: ':hotel: :ram: :trophy:'

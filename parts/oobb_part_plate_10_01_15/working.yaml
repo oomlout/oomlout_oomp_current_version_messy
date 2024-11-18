@@ -1,3 +1,222 @@
+bip_39_word_dash_1: reject
+bip_39_word_dash_10: reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo
+bip_39_word_dash_11: reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo-stomach
+bip_39_word_dash_12: reject-spider-canyon-debris-crisp-huge-vacuum-grow-color-zoo-stomach-assume
+bip_39_word_dash_2: reject-spider
+bip_39_word_dash_3: reject-spider-canyon
+bip_39_word_dash_4: reject-spider-canyon-debris
+bip_39_word_dash_5: reject-spider-canyon-debris-crisp
+bip_39_word_dash_6: reject-spider-canyon-debris-crisp-huge
+bip_39_word_dash_7: reject-spider-canyon-debris-crisp-huge-vacuum
+bip_39_word_dash_8: reject-spider-canyon-debris-crisp-huge-vacuum-grow
+bip_39_word_dash_9: reject-spider-canyon-debris-crisp-huge-vacuum-grow-color
+bip_39_word_new_br_1: reject
+bip_39_word_new_br_10: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo
+bip_39_word_new_br_11: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach
+bip_39_word_new_br_12: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color<br>zoo<br>stomach<br>assume
+bip_39_word_new_br_2: reject<br>spider
+bip_39_word_new_br_3: reject<br>spider<br>canyon
+bip_39_word_new_br_4: reject<br>spider<br>canyon<br>debris
+bip_39_word_new_br_5: reject<br>spider<br>canyon<br>debris<br>crisp
+bip_39_word_new_br_6: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge
+bip_39_word_new_br_7: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum
+bip_39_word_new_br_8: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow
+bip_39_word_new_br_9: reject<br>spider<br>canyon<br>debris<br>crisp<br>huge<br>vacuum<br>grow<br>color
+bip_39_word_new_line_1: reject
+bip_39_word_new_line_10: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum
+
+  grow
+
+  color
+
+  zoo'
+bip_39_word_new_line_11: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum
+
+  grow
+
+  color
+
+  zoo
+
+  stomach'
+bip_39_word_new_line_12: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum
+
+  grow
+
+  color
+
+  zoo
+
+  stomach
+
+  assume'
+bip_39_word_new_line_2: 'reject
+
+  spider'
+bip_39_word_new_line_3: 'reject
+
+  spider
+
+  canyon'
+bip_39_word_new_line_4: 'reject
+
+  spider
+
+  canyon
+
+  debris'
+bip_39_word_new_line_5: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp'
+bip_39_word_new_line_6: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge'
+bip_39_word_new_line_7: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum'
+bip_39_word_new_line_8: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum
+
+  grow'
+bip_39_word_new_line_9: 'reject
+
+  spider
+
+  canyon
+
+  debris
+
+  crisp
+
+  huge
+
+  vacuum
+
+  grow
+
+  color'
+bip_39_word_no_space_1: reject
+bip_39_word_no_space_10: rejectspidercanyondebriscrisphugevacuumgrowcolorzoo
+bip_39_word_no_space_11: rejectspidercanyondebriscrisphugevacuumgrowcolorzoostomach
+bip_39_word_no_space_12: rejectspidercanyondebriscrisphugevacuumgrowcolorzoostomachassume
+bip_39_word_no_space_2: rejectspider
+bip_39_word_no_space_3: rejectspidercanyon
+bip_39_word_no_space_4: rejectspidercanyondebris
+bip_39_word_no_space_5: rejectspidercanyondebriscrisp
+bip_39_word_no_space_6: rejectspidercanyondebriscrisphuge
+bip_39_word_no_space_7: rejectspidercanyondebriscrisphugevacuum
+bip_39_word_no_space_8: rejectspidercanyondebriscrisphugevacuumgrow
+bip_39_word_no_space_9: rejectspidercanyondebriscrisphugevacuumgrowcolor
+bip_39_word_space_0:
+- reject
+- spider
+- canyon
+- debris
+- crisp
+- huge
+- vacuum
+- grow
+- color
+- zoo
+- stomach
+- assume
+bip_39_word_space_1: reject
+bip_39_word_space_10: reject spider canyon debris crisp huge vacuum grow color zoo
+bip_39_word_space_11: reject spider canyon debris crisp huge vacuum grow color zoo
+  stomach
+bip_39_word_space_12: reject spider canyon debris crisp huge vacuum grow color zoo
+  stomach assume
+bip_39_word_space_2: reject spider
+bip_39_word_space_3: reject spider canyon
+bip_39_word_space_4: reject spider canyon debris
+bip_39_word_space_5: reject spider canyon debris crisp
+bip_39_word_space_6: reject spider canyon debris crisp huge
+bip_39_word_space_7: reject spider canyon debris crisp huge vacuum
+bip_39_word_space_8: reject spider canyon debris crisp huge vacuum grow
+bip_39_word_space_9: reject spider canyon debris crisp huge vacuum grow color
+bip_39_word_underscore_1: reject
+bip_39_word_underscore_10: reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo
+bip_39_word_underscore_11: reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo_stomach
+bip_39_word_underscore_12: reject_spider_canyon_debris_crisp_huge_vacuum_grow_color_zoo_stomach_assume
+bip_39_word_underscore_2: reject_spider
+bip_39_word_underscore_3: reject_spider_canyon
+bip_39_word_underscore_4: reject_spider_canyon_debris
+bip_39_word_underscore_5: reject_spider_canyon_debris_crisp
+bip_39_word_underscore_6: reject_spider_canyon_debris_crisp_huge
+bip_39_word_underscore_7: reject_spider_canyon_debris_crisp_huge_vacuum
+bip_39_word_underscore_8: reject_spider_canyon_debris_crisp_huge_vacuum_grow
+bip_39_word_underscore_9: reject_spider_canyon_debris_crisp_huge_vacuum_grow_color
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_10_01_15
 id_no_color: '100115'
 id_no_size: '10_01_15'
 id_no_type: plate_10_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208q6pr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208q6pr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208q6pr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100115'
 name_no_size: 10 01 15
 name_no_size_short: 10 01 15
 name_no_type: Plate 10 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_10_01_15
 oomp_word: fountain shirt speaker
 oomp_word_emoji: ':fountain: :shirt: :speaker:'

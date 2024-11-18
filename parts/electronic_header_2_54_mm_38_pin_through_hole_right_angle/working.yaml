@@ -1,3 +1,222 @@
+bip_39_word_dash_1: oppose
+bip_39_word_dash_10: oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior
+bip_39_word_dash_11: oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior-maid
+bip_39_word_dash_12: oppose-sadness-napkin-just-reveal-fly-coin-write-term-junior-maid-almost
+bip_39_word_dash_2: oppose-sadness
+bip_39_word_dash_3: oppose-sadness-napkin
+bip_39_word_dash_4: oppose-sadness-napkin-just
+bip_39_word_dash_5: oppose-sadness-napkin-just-reveal
+bip_39_word_dash_6: oppose-sadness-napkin-just-reveal-fly
+bip_39_word_dash_7: oppose-sadness-napkin-just-reveal-fly-coin
+bip_39_word_dash_8: oppose-sadness-napkin-just-reveal-fly-coin-write
+bip_39_word_dash_9: oppose-sadness-napkin-just-reveal-fly-coin-write-term
+bip_39_word_new_br_1: oppose
+bip_39_word_new_br_10: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior
+bip_39_word_new_br_11: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid
+bip_39_word_new_br_12: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term<br>junior<br>maid<br>almost
+bip_39_word_new_br_2: oppose<br>sadness
+bip_39_word_new_br_3: oppose<br>sadness<br>napkin
+bip_39_word_new_br_4: oppose<br>sadness<br>napkin<br>just
+bip_39_word_new_br_5: oppose<br>sadness<br>napkin<br>just<br>reveal
+bip_39_word_new_br_6: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly
+bip_39_word_new_br_7: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin
+bip_39_word_new_br_8: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write
+bip_39_word_new_br_9: oppose<br>sadness<br>napkin<br>just<br>reveal<br>fly<br>coin<br>write<br>term
+bip_39_word_new_line_1: oppose
+bip_39_word_new_line_10: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin
+
+  write
+
+  term
+
+  junior'
+bip_39_word_new_line_11: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin
+
+  write
+
+  term
+
+  junior
+
+  maid'
+bip_39_word_new_line_12: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin
+
+  write
+
+  term
+
+  junior
+
+  maid
+
+  almost'
+bip_39_word_new_line_2: 'oppose
+
+  sadness'
+bip_39_word_new_line_3: 'oppose
+
+  sadness
+
+  napkin'
+bip_39_word_new_line_4: 'oppose
+
+  sadness
+
+  napkin
+
+  just'
+bip_39_word_new_line_5: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal'
+bip_39_word_new_line_6: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly'
+bip_39_word_new_line_7: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin'
+bip_39_word_new_line_8: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin
+
+  write'
+bip_39_word_new_line_9: 'oppose
+
+  sadness
+
+  napkin
+
+  just
+
+  reveal
+
+  fly
+
+  coin
+
+  write
+
+  term'
+bip_39_word_no_space_1: oppose
+bip_39_word_no_space_10: opposesadnessnapkinjustrevealflycoinwritetermjunior
+bip_39_word_no_space_11: opposesadnessnapkinjustrevealflycoinwritetermjuniormaid
+bip_39_word_no_space_12: opposesadnessnapkinjustrevealflycoinwritetermjuniormaidalmost
+bip_39_word_no_space_2: opposesadness
+bip_39_word_no_space_3: opposesadnessnapkin
+bip_39_word_no_space_4: opposesadnessnapkinjust
+bip_39_word_no_space_5: opposesadnessnapkinjustreveal
+bip_39_word_no_space_6: opposesadnessnapkinjustrevealfly
+bip_39_word_no_space_7: opposesadnessnapkinjustrevealflycoin
+bip_39_word_no_space_8: opposesadnessnapkinjustrevealflycoinwrite
+bip_39_word_no_space_9: opposesadnessnapkinjustrevealflycoinwriteterm
+bip_39_word_space_0:
+- oppose
+- sadness
+- napkin
+- just
+- reveal
+- fly
+- coin
+- write
+- term
+- junior
+- maid
+- almost
+bip_39_word_space_1: oppose
+bip_39_word_space_10: oppose sadness napkin just reveal fly coin write term junior
+bip_39_word_space_11: oppose sadness napkin just reveal fly coin write term junior
+  maid
+bip_39_word_space_12: oppose sadness napkin just reveal fly coin write term junior
+  maid almost
+bip_39_word_space_2: oppose sadness
+bip_39_word_space_3: oppose sadness napkin
+bip_39_word_space_4: oppose sadness napkin just
+bip_39_word_space_5: oppose sadness napkin just reveal
+bip_39_word_space_6: oppose sadness napkin just reveal fly
+bip_39_word_space_7: oppose sadness napkin just reveal fly coin
+bip_39_word_space_8: oppose sadness napkin just reveal fly coin write
+bip_39_word_space_9: oppose sadness napkin just reveal fly coin write term
+bip_39_word_underscore_1: oppose
+bip_39_word_underscore_10: oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior
+bip_39_word_underscore_11: oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior_maid
+bip_39_word_underscore_12: oppose_sadness_napkin_just_reveal_fly_coin_write_term_junior_maid_almost
+bip_39_word_underscore_2: oppose_sadness
+bip_39_word_underscore_3: oppose_sadness_napkin
+bip_39_word_underscore_4: oppose_sadness_napkin_just
+bip_39_word_underscore_5: oppose_sadness_napkin_just_reveal
+bip_39_word_underscore_6: oppose_sadness_napkin_just_reveal_fly
+bip_39_word_underscore_7: oppose_sadness_napkin_just_reveal_fly_coin
+bip_39_word_underscore_8: oppose_sadness_napkin_just_reveal_fly_coin_write
+bip_39_word_underscore_9: oppose_sadness_napkin_just_reveal_fly_coin_write_term
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -119,7 +338,14 @@ id_no_color: 38pinthroughholerightangle
 id_no_size: 38_pin_through_hole_right_angle
 id_no_type: 2_54_mm_38_pin_through_hole_right_angle
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole_right_angle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole_right_angle
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_38_pin_through_hole_right_angle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20496am
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20496am
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20496am
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -149,6 +375,7 @@ name_no_color: 38Pinthroughholerightangle
 name_no_size: 38 Pin Through Hole Right Angle
 name_no_size_short: 38 Pin Through Hole Right Angle
 name_no_type: 2 54 mm 38 Pin Through Hole Right Angle
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_38_pin_through_hole_right_angle
 oomp_word: shell alien angel
 oomp_word_emoji: ':shell: :alien: :angel:'

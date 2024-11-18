@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 14 12 24
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_14_12_24
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tea: :poop: :turtle:
 * md5_6_alpha: 72czw
 * md5_6: b5154c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2072czw)
+[2x1](http://192.168.1.242:1112/?label=oomp%2072czw)
+[6x4](http://192.168.1.55:1112/?label=oomp%2072czw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_12_24) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_14_12_24)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ pave |
 | id_no_color | 141224 |  
 | id_no_size | 14_12_24 |  
 | id_no_type | tray_vertical_14_12_24 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_12_24 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_14_12_24 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_12_24 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2072czw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2072czw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2072czw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ pave |
 | name_no_size | 14 12 24 |  
 | name_no_size_short | 14 12 24 |  
 | name_no_type | Tray Vertical 14 12 24 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_14_12_24 |  
 | oomp_word | tea poop turtle |  
 | oomp_word_emoji | :tea: :poop: :turtle: |  

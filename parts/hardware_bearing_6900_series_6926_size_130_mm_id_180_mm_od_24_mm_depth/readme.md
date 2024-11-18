@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6926 Size 130 mm ID 180 mm OD 24 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6926_size_130_mm_id_180_mm_od_24_mm_depth
   * classification: hardware

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Machine Screw M4 10 mm Length Pozidrive Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_machine_screw_m4_10_mm_length_pozidrive_head
   * classification: hardware

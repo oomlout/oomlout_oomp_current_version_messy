@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Caserole Dish Round 1600 Ml 200 mm Diameter 80 mm Depth Pyrex 204A000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :wolf: :leopard: :kiss:
 * md5_6_alpha: 25s0z
 * md5_6: 375f23
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2025s0z)
+[2x1](http://192.168.1.242:1112/?label=oomp%2025s0z)
+[6x4](http://192.168.1.55:1112/?label=oomp%2025s0z)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,8 +307,15 @@ rent |
 | id_no_color | caseroleround1600ml200mmdiameter80mmdepth204A000 |  
 | id_no_size | caserole_round_1600_ml_200_mm_diameter_80_mm_depth_204A000 |  
 | id_no_type | pyrex_caserole_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
+| link_2_name | github_link |  
 | link_distributor_pyrex | https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=14730280534051 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2025s0z |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2025s0z |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2025s0z |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
 | manufacturer_first_letter | p |  
@@ -331,6 +364,7 @@ rent |
 | name_no_size | Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth 204A000 |  
 | name_no_size_short | Caserole Round 1600 Ml 200 Mm Diameter 80 Mm Depth 204A000 |  
 | name_no_type | Pyrex Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth Pyrex 204A000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
 | oomp_word | wolf leopard kiss |  
 | oomp_word_emoji | :wolf: :leopard: :kiss: |  

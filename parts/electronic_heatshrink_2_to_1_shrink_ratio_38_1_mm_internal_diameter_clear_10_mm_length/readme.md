@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Heatshrink 2 To 1 Shrink Ratio 38 1 mm Internal Diameter Clear 10 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_clear_10_mm_length
   * classification: electronic

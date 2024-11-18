@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Test Oobb Nut
+* name_short: 
 ### id
 * oomp_id: oobb_part_test_oobb_nut
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :beer: :palm_tree: :racehorse:
 * md5_6_alpha: 748cg
 * md5_6: b66a40
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20748cg)
+[2x1](http://192.168.1.242:1112/?label=oomp%20748cg)
+[6x4](http://192.168.1.55:1112/?label=oomp%20748cg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_nut) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_nut)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ trade |
 | id_no_color | nut |  
 | id_no_size | nut |  
 | id_no_type | test_nut |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_nut |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_nut |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_nut |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20748cg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20748cg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20748cg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ trade |
 | name_no_size | Nut |  
 | name_no_size_short | Nut |  
 | name_no_type | Test Nut |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_test_oobb_nut |  
 | oomp_word | beer palm_tree racehorse |  
 | oomp_word_emoji | :beer: :palm_tree: :racehorse: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: silk
+bip_39_word_dash_10: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool
+bip_39_word_dash_11: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool-stage
+bip_39_word_dash_12: silk-smooth-decade-scale-quote-catch-fork-perfect-busy-cool-stage-any
+bip_39_word_dash_2: silk-smooth
+bip_39_word_dash_3: silk-smooth-decade
+bip_39_word_dash_4: silk-smooth-decade-scale
+bip_39_word_dash_5: silk-smooth-decade-scale-quote
+bip_39_word_dash_6: silk-smooth-decade-scale-quote-catch
+bip_39_word_dash_7: silk-smooth-decade-scale-quote-catch-fork
+bip_39_word_dash_8: silk-smooth-decade-scale-quote-catch-fork-perfect
+bip_39_word_dash_9: silk-smooth-decade-scale-quote-catch-fork-perfect-busy
+bip_39_word_new_br_1: silk
+bip_39_word_new_br_10: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool
+bip_39_word_new_br_11: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool<br>stage
+bip_39_word_new_br_12: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy<br>cool<br>stage<br>any
+bip_39_word_new_br_2: silk<br>smooth
+bip_39_word_new_br_3: silk<br>smooth<br>decade
+bip_39_word_new_br_4: silk<br>smooth<br>decade<br>scale
+bip_39_word_new_br_5: silk<br>smooth<br>decade<br>scale<br>quote
+bip_39_word_new_br_6: silk<br>smooth<br>decade<br>scale<br>quote<br>catch
+bip_39_word_new_br_7: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork
+bip_39_word_new_br_8: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect
+bip_39_word_new_br_9: silk<br>smooth<br>decade<br>scale<br>quote<br>catch<br>fork<br>perfect<br>busy
+bip_39_word_new_line_1: silk
+bip_39_word_new_line_10: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork
+
+  perfect
+
+  busy
+
+  cool'
+bip_39_word_new_line_11: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork
+
+  perfect
+
+  busy
+
+  cool
+
+  stage'
+bip_39_word_new_line_12: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork
+
+  perfect
+
+  busy
+
+  cool
+
+  stage
+
+  any'
+bip_39_word_new_line_2: 'silk
+
+  smooth'
+bip_39_word_new_line_3: 'silk
+
+  smooth
+
+  decade'
+bip_39_word_new_line_4: 'silk
+
+  smooth
+
+  decade
+
+  scale'
+bip_39_word_new_line_5: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote'
+bip_39_word_new_line_6: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch'
+bip_39_word_new_line_7: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork'
+bip_39_word_new_line_8: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork
+
+  perfect'
+bip_39_word_new_line_9: 'silk
+
+  smooth
+
+  decade
+
+  scale
+
+  quote
+
+  catch
+
+  fork
+
+  perfect
+
+  busy'
+bip_39_word_no_space_1: silk
+bip_39_word_no_space_10: silksmoothdecadescalequotecatchforkperfectbusycool
+bip_39_word_no_space_11: silksmoothdecadescalequotecatchforkperfectbusycoolstage
+bip_39_word_no_space_12: silksmoothdecadescalequotecatchforkperfectbusycoolstageany
+bip_39_word_no_space_2: silksmooth
+bip_39_word_no_space_3: silksmoothdecade
+bip_39_word_no_space_4: silksmoothdecadescale
+bip_39_word_no_space_5: silksmoothdecadescalequote
+bip_39_word_no_space_6: silksmoothdecadescalequotecatch
+bip_39_word_no_space_7: silksmoothdecadescalequotecatchfork
+bip_39_word_no_space_8: silksmoothdecadescalequotecatchforkperfect
+bip_39_word_no_space_9: silksmoothdecadescalequotecatchforkperfectbusy
+bip_39_word_space_0:
+- silk
+- smooth
+- decade
+- scale
+- quote
+- catch
+- fork
+- perfect
+- busy
+- cool
+- stage
+- any
+bip_39_word_space_1: silk
+bip_39_word_space_10: silk smooth decade scale quote catch fork perfect busy cool
+bip_39_word_space_11: silk smooth decade scale quote catch fork perfect busy cool
+  stage
+bip_39_word_space_12: silk smooth decade scale quote catch fork perfect busy cool
+  stage any
+bip_39_word_space_2: silk smooth
+bip_39_word_space_3: silk smooth decade
+bip_39_word_space_4: silk smooth decade scale
+bip_39_word_space_5: silk smooth decade scale quote
+bip_39_word_space_6: silk smooth decade scale quote catch
+bip_39_word_space_7: silk smooth decade scale quote catch fork
+bip_39_word_space_8: silk smooth decade scale quote catch fork perfect
+bip_39_word_space_9: silk smooth decade scale quote catch fork perfect busy
+bip_39_word_underscore_1: silk
+bip_39_word_underscore_10: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool
+bip_39_word_underscore_11: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool_stage
+bip_39_word_underscore_12: silk_smooth_decade_scale_quote_catch_fork_perfect_busy_cool_stage_any
+bip_39_word_underscore_2: silk_smooth
+bip_39_word_underscore_3: silk_smooth_decade
+bip_39_word_underscore_4: silk_smooth_decade_scale
+bip_39_word_underscore_5: silk_smooth_decade_scale_quote
+bip_39_word_underscore_6: silk_smooth_decade_scale_quote_catch
+bip_39_word_underscore_7: silk_smooth_decade_scale_quote_catch_fork
+bip_39_word_underscore_8: silk_smooth_decade_scale_quote_catch_fork_perfect
+bip_39_word_underscore_9: silk_smooth_decade_scale_quote_catch_fork_perfect_busy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_03_15
 id_no_color: 080315
 id_no_size: 08_03_15
 id_no_type: tray_thin_08_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dvt7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dvt7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dvt7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080315
 name_no_size: 08 03 15
 name_no_size_short: 08 03 15
 name_no_type: Tray Thin 08 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_03_15
 oomp_word: pencil shoe penguin
 oomp_word_emoji: ':pencil: :shoe: :penguin:'

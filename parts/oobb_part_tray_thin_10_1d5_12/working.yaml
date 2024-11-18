@@ -1,3 +1,221 @@
+bip_39_word_dash_1: lonely
+bip_39_word_dash_10: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen
+bip_39_word_dash_11: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen-sponsor
+bip_39_word_dash_12: lonely-rate-govern-life-pair-walk-gadget-country-omit-keen-sponsor-accident
+bip_39_word_dash_2: lonely-rate
+bip_39_word_dash_3: lonely-rate-govern
+bip_39_word_dash_4: lonely-rate-govern-life
+bip_39_word_dash_5: lonely-rate-govern-life-pair
+bip_39_word_dash_6: lonely-rate-govern-life-pair-walk
+bip_39_word_dash_7: lonely-rate-govern-life-pair-walk-gadget
+bip_39_word_dash_8: lonely-rate-govern-life-pair-walk-gadget-country
+bip_39_word_dash_9: lonely-rate-govern-life-pair-walk-gadget-country-omit
+bip_39_word_new_br_1: lonely
+bip_39_word_new_br_10: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen
+bip_39_word_new_br_11: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen<br>sponsor
+bip_39_word_new_br_12: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit<br>keen<br>sponsor<br>accident
+bip_39_word_new_br_2: lonely<br>rate
+bip_39_word_new_br_3: lonely<br>rate<br>govern
+bip_39_word_new_br_4: lonely<br>rate<br>govern<br>life
+bip_39_word_new_br_5: lonely<br>rate<br>govern<br>life<br>pair
+bip_39_word_new_br_6: lonely<br>rate<br>govern<br>life<br>pair<br>walk
+bip_39_word_new_br_7: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget
+bip_39_word_new_br_8: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country
+bip_39_word_new_br_9: lonely<br>rate<br>govern<br>life<br>pair<br>walk<br>gadget<br>country<br>omit
+bip_39_word_new_line_1: lonely
+bip_39_word_new_line_10: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget
+
+  country
+
+  omit
+
+  keen'
+bip_39_word_new_line_11: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget
+
+  country
+
+  omit
+
+  keen
+
+  sponsor'
+bip_39_word_new_line_12: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget
+
+  country
+
+  omit
+
+  keen
+
+  sponsor
+
+  accident'
+bip_39_word_new_line_2: 'lonely
+
+  rate'
+bip_39_word_new_line_3: 'lonely
+
+  rate
+
+  govern'
+bip_39_word_new_line_4: 'lonely
+
+  rate
+
+  govern
+
+  life'
+bip_39_word_new_line_5: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair'
+bip_39_word_new_line_6: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk'
+bip_39_word_new_line_7: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget'
+bip_39_word_new_line_8: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget
+
+  country'
+bip_39_word_new_line_9: 'lonely
+
+  rate
+
+  govern
+
+  life
+
+  pair
+
+  walk
+
+  gadget
+
+  country
+
+  omit'
+bip_39_word_no_space_1: lonely
+bip_39_word_no_space_10: lonelyrategovernlifepairwalkgadgetcountryomitkeen
+bip_39_word_no_space_11: lonelyrategovernlifepairwalkgadgetcountryomitkeensponsor
+bip_39_word_no_space_12: lonelyrategovernlifepairwalkgadgetcountryomitkeensponsoraccident
+bip_39_word_no_space_2: lonelyrate
+bip_39_word_no_space_3: lonelyrategovern
+bip_39_word_no_space_4: lonelyrategovernlife
+bip_39_word_no_space_5: lonelyrategovernlifepair
+bip_39_word_no_space_6: lonelyrategovernlifepairwalk
+bip_39_word_no_space_7: lonelyrategovernlifepairwalkgadget
+bip_39_word_no_space_8: lonelyrategovernlifepairwalkgadgetcountry
+bip_39_word_no_space_9: lonelyrategovernlifepairwalkgadgetcountryomit
+bip_39_word_space_0:
+- lonely
+- rate
+- govern
+- life
+- pair
+- walk
+- gadget
+- country
+- omit
+- keen
+- sponsor
+- accident
+bip_39_word_space_1: lonely
+bip_39_word_space_10: lonely rate govern life pair walk gadget country omit keen
+bip_39_word_space_11: lonely rate govern life pair walk gadget country omit keen sponsor
+bip_39_word_space_12: lonely rate govern life pair walk gadget country omit keen sponsor
+  accident
+bip_39_word_space_2: lonely rate
+bip_39_word_space_3: lonely rate govern
+bip_39_word_space_4: lonely rate govern life
+bip_39_word_space_5: lonely rate govern life pair
+bip_39_word_space_6: lonely rate govern life pair walk
+bip_39_word_space_7: lonely rate govern life pair walk gadget
+bip_39_word_space_8: lonely rate govern life pair walk gadget country
+bip_39_word_space_9: lonely rate govern life pair walk gadget country omit
+bip_39_word_underscore_1: lonely
+bip_39_word_underscore_10: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen
+bip_39_word_underscore_11: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen_sponsor
+bip_39_word_underscore_12: lonely_rate_govern_life_pair_walk_gadget_country_omit_keen_sponsor_accident
+bip_39_word_underscore_2: lonely_rate
+bip_39_word_underscore_3: lonely_rate_govern
+bip_39_word_underscore_4: lonely_rate_govern_life
+bip_39_word_underscore_5: lonely_rate_govern_life_pair
+bip_39_word_underscore_6: lonely_rate_govern_life_pair_walk
+bip_39_word_underscore_7: lonely_rate_govern_life_pair_walk_gadget
+bip_39_word_underscore_8: lonely_rate_govern_life_pair_walk_gadget_country
+bip_39_word_underscore_9: lonely_rate_govern_life_pair_walk_gadget_country_omit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_10_1d5_12
 id_no_color: 101d512
 id_no_size: 10_1d5_12
 id_no_type: tray_thin_10_1d5_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_1d5_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_1d5_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_1d5_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20x7mm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20x7mm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20x7mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 101D512
 name_no_size: 10 1D5 12
 name_no_size_short: 10 1D5 12
 name_no_type: Tray Thin 10 1D5 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_1d5_12
 oomp_word: thumbsdown book rainbow
 oomp_word_emoji: ':thumbsdown: :book: :rainbow:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: own
+bip_39_word_dash_10: own-lock-attitude-teach-input-gold-fresh-heart-alter-auto
+bip_39_word_dash_11: own-lock-attitude-teach-input-gold-fresh-heart-alter-auto-size
+bip_39_word_dash_12: own-lock-attitude-teach-input-gold-fresh-heart-alter-auto-size-account
+bip_39_word_dash_2: own-lock
+bip_39_word_dash_3: own-lock-attitude
+bip_39_word_dash_4: own-lock-attitude-teach
+bip_39_word_dash_5: own-lock-attitude-teach-input
+bip_39_word_dash_6: own-lock-attitude-teach-input-gold
+bip_39_word_dash_7: own-lock-attitude-teach-input-gold-fresh
+bip_39_word_dash_8: own-lock-attitude-teach-input-gold-fresh-heart
+bip_39_word_dash_9: own-lock-attitude-teach-input-gold-fresh-heart-alter
+bip_39_word_new_br_1: own
+bip_39_word_new_br_10: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto
+bip_39_word_new_br_11: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto<br>size
+bip_39_word_new_br_12: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter<br>auto<br>size<br>account
+bip_39_word_new_br_2: own<br>lock
+bip_39_word_new_br_3: own<br>lock<br>attitude
+bip_39_word_new_br_4: own<br>lock<br>attitude<br>teach
+bip_39_word_new_br_5: own<br>lock<br>attitude<br>teach<br>input
+bip_39_word_new_br_6: own<br>lock<br>attitude<br>teach<br>input<br>gold
+bip_39_word_new_br_7: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh
+bip_39_word_new_br_8: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart
+bip_39_word_new_br_9: own<br>lock<br>attitude<br>teach<br>input<br>gold<br>fresh<br>heart<br>alter
+bip_39_word_new_line_1: own
+bip_39_word_new_line_10: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto'
+bip_39_word_new_line_11: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto
+
+  size'
+bip_39_word_new_line_12: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter
+
+  auto
+
+  size
+
+  account'
+bip_39_word_new_line_2: 'own
+
+  lock'
+bip_39_word_new_line_3: 'own
+
+  lock
+
+  attitude'
+bip_39_word_new_line_4: 'own
+
+  lock
+
+  attitude
+
+  teach'
+bip_39_word_new_line_5: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input'
+bip_39_word_new_line_6: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold'
+bip_39_word_new_line_7: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh'
+bip_39_word_new_line_8: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart'
+bip_39_word_new_line_9: 'own
+
+  lock
+
+  attitude
+
+  teach
+
+  input
+
+  gold
+
+  fresh
+
+  heart
+
+  alter'
+bip_39_word_no_space_1: own
+bip_39_word_no_space_10: ownlockattitudeteachinputgoldfreshheartalterauto
+bip_39_word_no_space_11: ownlockattitudeteachinputgoldfreshheartalterautosize
+bip_39_word_no_space_12: ownlockattitudeteachinputgoldfreshheartalterautosizeaccount
+bip_39_word_no_space_2: ownlock
+bip_39_word_no_space_3: ownlockattitude
+bip_39_word_no_space_4: ownlockattitudeteach
+bip_39_word_no_space_5: ownlockattitudeteachinput
+bip_39_word_no_space_6: ownlockattitudeteachinputgold
+bip_39_word_no_space_7: ownlockattitudeteachinputgoldfresh
+bip_39_word_no_space_8: ownlockattitudeteachinputgoldfreshheart
+bip_39_word_no_space_9: ownlockattitudeteachinputgoldfreshheartalter
+bip_39_word_space_0:
+- own
+- lock
+- attitude
+- teach
+- input
+- gold
+- fresh
+- heart
+- alter
+- auto
+- size
+- account
+bip_39_word_space_1: own
+bip_39_word_space_10: own lock attitude teach input gold fresh heart alter auto
+bip_39_word_space_11: own lock attitude teach input gold fresh heart alter auto size
+bip_39_word_space_12: own lock attitude teach input gold fresh heart alter auto size
+  account
+bip_39_word_space_2: own lock
+bip_39_word_space_3: own lock attitude
+bip_39_word_space_4: own lock attitude teach
+bip_39_word_space_5: own lock attitude teach input
+bip_39_word_space_6: own lock attitude teach input gold
+bip_39_word_space_7: own lock attitude teach input gold fresh
+bip_39_word_space_8: own lock attitude teach input gold fresh heart
+bip_39_word_space_9: own lock attitude teach input gold fresh heart alter
+bip_39_word_underscore_1: own
+bip_39_word_underscore_10: own_lock_attitude_teach_input_gold_fresh_heart_alter_auto
+bip_39_word_underscore_11: own_lock_attitude_teach_input_gold_fresh_heart_alter_auto_size
+bip_39_word_underscore_12: own_lock_attitude_teach_input_gold_fresh_heart_alter_auto_size_account
+bip_39_word_underscore_2: own_lock
+bip_39_word_underscore_3: own_lock_attitude
+bip_39_word_underscore_4: own_lock_attitude_teach
+bip_39_word_underscore_5: own_lock_attitude_teach_input
+bip_39_word_underscore_6: own_lock_attitude_teach_input_gold
+bip_39_word_underscore_7: own_lock_attitude_teach_input_gold_fresh
+bip_39_word_underscore_8: own_lock_attitude_teach_input_gold_fresh_heart
+bip_39_word_underscore_9: own_lock_attitude_teach_input_gold_fresh_heart_alter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_14_12_09
 id_no_color: '141209'
 id_no_size: '14_12_09'
 id_no_type: tray_thin_14_12_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_12_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20zxdv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20zxdv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20zxdv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '141209'
 name_no_size: 14 12 09
 name_no_size_short: 14 12 09
 name_no_type: Tray Thin 14 12 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_12_09
 oomp_word: pray books cake
 oomp_word_emoji: ':pray: :books: :cake:'

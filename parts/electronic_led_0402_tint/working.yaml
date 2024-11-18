@@ -1,3 +1,221 @@
+bip_39_word_dash_1: call
+bip_39_word_dash_10: call-scan-coil-impulse-genuine-lava-hard-agree-else-afford
+bip_39_word_dash_11: call-scan-coil-impulse-genuine-lava-hard-agree-else-afford-sad
+bip_39_word_dash_12: call-scan-coil-impulse-genuine-lava-hard-agree-else-afford-sad-attack
+bip_39_word_dash_2: call-scan
+bip_39_word_dash_3: call-scan-coil
+bip_39_word_dash_4: call-scan-coil-impulse
+bip_39_word_dash_5: call-scan-coil-impulse-genuine
+bip_39_word_dash_6: call-scan-coil-impulse-genuine-lava
+bip_39_word_dash_7: call-scan-coil-impulse-genuine-lava-hard
+bip_39_word_dash_8: call-scan-coil-impulse-genuine-lava-hard-agree
+bip_39_word_dash_9: call-scan-coil-impulse-genuine-lava-hard-agree-else
+bip_39_word_new_br_1: call
+bip_39_word_new_br_10: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford
+bip_39_word_new_br_11: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad
+bip_39_word_new_br_12: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else<br>afford<br>sad<br>attack
+bip_39_word_new_br_2: call<br>scan
+bip_39_word_new_br_3: call<br>scan<br>coil
+bip_39_word_new_br_4: call<br>scan<br>coil<br>impulse
+bip_39_word_new_br_5: call<br>scan<br>coil<br>impulse<br>genuine
+bip_39_word_new_br_6: call<br>scan<br>coil<br>impulse<br>genuine<br>lava
+bip_39_word_new_br_7: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard
+bip_39_word_new_br_8: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree
+bip_39_word_new_br_9: call<br>scan<br>coil<br>impulse<br>genuine<br>lava<br>hard<br>agree<br>else
+bip_39_word_new_line_1: call
+bip_39_word_new_line_10: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard
+
+  agree
+
+  else
+
+  afford'
+bip_39_word_new_line_11: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard
+
+  agree
+
+  else
+
+  afford
+
+  sad'
+bip_39_word_new_line_12: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard
+
+  agree
+
+  else
+
+  afford
+
+  sad
+
+  attack'
+bip_39_word_new_line_2: 'call
+
+  scan'
+bip_39_word_new_line_3: 'call
+
+  scan
+
+  coil'
+bip_39_word_new_line_4: 'call
+
+  scan
+
+  coil
+
+  impulse'
+bip_39_word_new_line_5: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine'
+bip_39_word_new_line_6: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava'
+bip_39_word_new_line_7: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard'
+bip_39_word_new_line_8: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard
+
+  agree'
+bip_39_word_new_line_9: 'call
+
+  scan
+
+  coil
+
+  impulse
+
+  genuine
+
+  lava
+
+  hard
+
+  agree
+
+  else'
+bip_39_word_no_space_1: call
+bip_39_word_no_space_10: callscancoilimpulsegenuinelavahardagreeelseafford
+bip_39_word_no_space_11: callscancoilimpulsegenuinelavahardagreeelseaffordsad
+bip_39_word_no_space_12: callscancoilimpulsegenuinelavahardagreeelseaffordsadattack
+bip_39_word_no_space_2: callscan
+bip_39_word_no_space_3: callscancoil
+bip_39_word_no_space_4: callscancoilimpulse
+bip_39_word_no_space_5: callscancoilimpulsegenuine
+bip_39_word_no_space_6: callscancoilimpulsegenuinelava
+bip_39_word_no_space_7: callscancoilimpulsegenuinelavahard
+bip_39_word_no_space_8: callscancoilimpulsegenuinelavahardagree
+bip_39_word_no_space_9: callscancoilimpulsegenuinelavahardagreeelse
+bip_39_word_space_0:
+- call
+- scan
+- coil
+- impulse
+- genuine
+- lava
+- hard
+- agree
+- else
+- afford
+- sad
+- attack
+bip_39_word_space_1: call
+bip_39_word_space_10: call scan coil impulse genuine lava hard agree else afford
+bip_39_word_space_11: call scan coil impulse genuine lava hard agree else afford sad
+bip_39_word_space_12: call scan coil impulse genuine lava hard agree else afford sad
+  attack
+bip_39_word_space_2: call scan
+bip_39_word_space_3: call scan coil
+bip_39_word_space_4: call scan coil impulse
+bip_39_word_space_5: call scan coil impulse genuine
+bip_39_word_space_6: call scan coil impulse genuine lava
+bip_39_word_space_7: call scan coil impulse genuine lava hard
+bip_39_word_space_8: call scan coil impulse genuine lava hard agree
+bip_39_word_space_9: call scan coil impulse genuine lava hard agree else
+bip_39_word_underscore_1: call
+bip_39_word_underscore_10: call_scan_coil_impulse_genuine_lava_hard_agree_else_afford
+bip_39_word_underscore_11: call_scan_coil_impulse_genuine_lava_hard_agree_else_afford_sad
+bip_39_word_underscore_12: call_scan_coil_impulse_genuine_lava_hard_agree_else_afford_sad_attack
+bip_39_word_underscore_2: call_scan
+bip_39_word_underscore_3: call_scan_coil
+bip_39_word_underscore_4: call_scan_coil_impulse
+bip_39_word_underscore_5: call_scan_coil_impulse_genuine
+bip_39_word_underscore_6: call_scan_coil_impulse_genuine_lava
+bip_39_word_underscore_7: call_scan_coil_impulse_genuine_lava_hard
+bip_39_word_underscore_8: call_scan_coil_impulse_genuine_lava_hard_agree
+bip_39_word_underscore_9: call_scan_coil_impulse_genuine_lava_hard_agree_else
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +314,14 @@ id_no_color: tint
 id_no_size: tint
 id_no_type: 0402_tint
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_tint
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0402_tint
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0402_tint
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20915j5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20915j5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20915j5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +347,7 @@ name_no_color: Tint
 name_no_size: Tint
 name_no_size_short: Tint
 name_no_type: 0402 Tint
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_0402_tint
 oomp_word: helicopter computer camel
 oomp_word_emoji: ':helicopter: :computer: :camel:'

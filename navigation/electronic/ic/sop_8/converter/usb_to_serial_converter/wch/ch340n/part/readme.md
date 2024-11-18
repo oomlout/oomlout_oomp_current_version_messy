@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Sop 8 Converter USB To Serial Converter Wch Ch340N
+* name_short: 
 ### id
 * oomp_id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dress: :microscope: :foggy:
 * md5_6_alpha: 6rtio
 * md5_6: ad9430
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206rtio)
+[2x1](http://192.168.1.242:1112/?label=oomp%206rtio)
+[6x4](http://192.168.1.55:1112/?label=oomp%206rtio)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ flag |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340n |  
 | id_no_type | sop_8_converter_usb_to_serial_converter_wch_ch340n |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206rtio |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206rtio |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206rtio |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -330,6 +363,7 @@ flag |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340N |  
 | name_no_type | Sop 8 Converter USB To Serial Converter Wch Ch340N |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n |  
 | oomp_word | dress microscope foggy |  
 | oomp_word_emoji | :dress: :microscope: :foggy: |  

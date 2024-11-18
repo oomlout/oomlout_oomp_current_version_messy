@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fiscal
+bip_39_word_dash_10: fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win
+bip_39_word_dash_11: fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win-fortune
+bip_39_word_dash_12: fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow-win-fortune-auto
+bip_39_word_dash_2: fiscal-sad
+bip_39_word_dash_3: fiscal-sad-sweet
+bip_39_word_dash_4: fiscal-sad-sweet-west
+bip_39_word_dash_5: fiscal-sad-sweet-west-filter
+bip_39_word_dash_6: fiscal-sad-sweet-west-filter-galaxy
+bip_39_word_dash_7: fiscal-sad-sweet-west-filter-galaxy-abstract
+bip_39_word_dash_8: fiscal-sad-sweet-west-filter-galaxy-abstract-there
+bip_39_word_dash_9: fiscal-sad-sweet-west-filter-galaxy-abstract-there-shadow
+bip_39_word_new_br_1: fiscal
+bip_39_word_new_br_10: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win
+bip_39_word_new_br_11: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win<br>fortune
+bip_39_word_new_br_12: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow<br>win<br>fortune<br>auto
+bip_39_word_new_br_2: fiscal<br>sad
+bip_39_word_new_br_3: fiscal<br>sad<br>sweet
+bip_39_word_new_br_4: fiscal<br>sad<br>sweet<br>west
+bip_39_word_new_br_5: fiscal<br>sad<br>sweet<br>west<br>filter
+bip_39_word_new_br_6: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy
+bip_39_word_new_br_7: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract
+bip_39_word_new_br_8: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there
+bip_39_word_new_br_9: fiscal<br>sad<br>sweet<br>west<br>filter<br>galaxy<br>abstract<br>there<br>shadow
+bip_39_word_new_line_1: fiscal
+bip_39_word_new_line_10: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract
+
+  there
+
+  shadow
+
+  win'
+bip_39_word_new_line_11: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract
+
+  there
+
+  shadow
+
+  win
+
+  fortune'
+bip_39_word_new_line_12: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract
+
+  there
+
+  shadow
+
+  win
+
+  fortune
+
+  auto'
+bip_39_word_new_line_2: 'fiscal
+
+  sad'
+bip_39_word_new_line_3: 'fiscal
+
+  sad
+
+  sweet'
+bip_39_word_new_line_4: 'fiscal
+
+  sad
+
+  sweet
+
+  west'
+bip_39_word_new_line_5: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter'
+bip_39_word_new_line_6: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy'
+bip_39_word_new_line_7: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract'
+bip_39_word_new_line_8: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract
+
+  there'
+bip_39_word_new_line_9: 'fiscal
+
+  sad
+
+  sweet
+
+  west
+
+  filter
+
+  galaxy
+
+  abstract
+
+  there
+
+  shadow'
+bip_39_word_no_space_1: fiscal
+bip_39_word_no_space_10: fiscalsadsweetwestfiltergalaxyabstractthereshadowwin
+bip_39_word_no_space_11: fiscalsadsweetwestfiltergalaxyabstractthereshadowwinfortune
+bip_39_word_no_space_12: fiscalsadsweetwestfiltergalaxyabstractthereshadowwinfortuneauto
+bip_39_word_no_space_2: fiscalsad
+bip_39_word_no_space_3: fiscalsadsweet
+bip_39_word_no_space_4: fiscalsadsweetwest
+bip_39_word_no_space_5: fiscalsadsweetwestfilter
+bip_39_word_no_space_6: fiscalsadsweetwestfiltergalaxy
+bip_39_word_no_space_7: fiscalsadsweetwestfiltergalaxyabstract
+bip_39_word_no_space_8: fiscalsadsweetwestfiltergalaxyabstractthere
+bip_39_word_no_space_9: fiscalsadsweetwestfiltergalaxyabstractthereshadow
+bip_39_word_space_0:
+- fiscal
+- sad
+- sweet
+- west
+- filter
+- galaxy
+- abstract
+- there
+- shadow
+- win
+- fortune
+- auto
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal sad sweet west filter galaxy abstract there shadow win
+bip_39_word_space_11: fiscal sad sweet west filter galaxy abstract there shadow win
+  fortune
+bip_39_word_space_12: fiscal sad sweet west filter galaxy abstract there shadow win
+  fortune auto
+bip_39_word_space_2: fiscal sad
+bip_39_word_space_3: fiscal sad sweet
+bip_39_word_space_4: fiscal sad sweet west
+bip_39_word_space_5: fiscal sad sweet west filter
+bip_39_word_space_6: fiscal sad sweet west filter galaxy
+bip_39_word_space_7: fiscal sad sweet west filter galaxy abstract
+bip_39_word_space_8: fiscal sad sweet west filter galaxy abstract there
+bip_39_word_space_9: fiscal sad sweet west filter galaxy abstract there shadow
+bip_39_word_underscore_1: fiscal
+bip_39_word_underscore_10: fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win
+bip_39_word_underscore_11: fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win_fortune
+bip_39_word_underscore_12: fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow_win_fortune_auto
+bip_39_word_underscore_2: fiscal_sad
+bip_39_word_underscore_3: fiscal_sad_sweet
+bip_39_word_underscore_4: fiscal_sad_sweet_west
+bip_39_word_underscore_5: fiscal_sad_sweet_west_filter
+bip_39_word_underscore_6: fiscal_sad_sweet_west_filter_galaxy
+bip_39_word_underscore_7: fiscal_sad_sweet_west_filter_galaxy_abstract
+bip_39_word_underscore_8: fiscal_sad_sweet_west_filter_galaxy_abstract_there
+bip_39_word_underscore_9: fiscal_sad_sweet_west_filter_galaxy_abstract_there_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_08_60
 id_no_color: '150860'
 id_no_size: '15_08_60'
 id_no_type: tray_thin_15_08_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_08_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_08_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_08_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209pd1a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209pd1a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209pd1a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150860'
 name_no_size: 15 08 60
 name_no_size_short: 15 08 60
 name_no_type: Tray Thin 15 08 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_08_60
 oomp_word: seven pizza monkey
 oomp_word_emoji: ':seven: :pizza: :monkey:'

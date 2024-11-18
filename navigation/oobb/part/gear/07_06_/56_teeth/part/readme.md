@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 07 06  56 Teeth
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_07_06__56_teeth
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :paperclip: :koala: :three:
 * md5_6_alpha: 5pek4
 * md5_6: 923af4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205pek4)
+[2x1](http://192.168.1.242:1112/?label=oomp%205pek4)
+[6x4](http://192.168.1.55:1112/?label=oomp%205pek4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ city |
 | id_no_color | 070656teeth |  
 | id_no_size | 07_06__56_teeth |  
 | id_no_type | gear_07_06__56_teeth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205pek4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205pek4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205pek4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ city |
 | name_no_size | 07 06  56 Teeth |  
 | name_no_size_short | 07 06  56 Teeth |  
 | name_no_type | Gear 07 06  56 Teeth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_07_06__56_teeth |  
 | oomp_word | paperclip koala three |  
 | oomp_word_emoji | :paperclip: :koala: :three: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: beef
+bip_39_word_dash_10: beef-mountain-decrease-name-dog-rug-buzz-current-suffer-fashion
+bip_39_word_dash_11: beef-mountain-decrease-name-dog-rug-buzz-current-suffer-fashion-net
+bip_39_word_dash_12: beef-mountain-decrease-name-dog-rug-buzz-current-suffer-fashion-net-anchor
+bip_39_word_dash_2: beef-mountain
+bip_39_word_dash_3: beef-mountain-decrease
+bip_39_word_dash_4: beef-mountain-decrease-name
+bip_39_word_dash_5: beef-mountain-decrease-name-dog
+bip_39_word_dash_6: beef-mountain-decrease-name-dog-rug
+bip_39_word_dash_7: beef-mountain-decrease-name-dog-rug-buzz
+bip_39_word_dash_8: beef-mountain-decrease-name-dog-rug-buzz-current
+bip_39_word_dash_9: beef-mountain-decrease-name-dog-rug-buzz-current-suffer
+bip_39_word_new_br_1: beef
+bip_39_word_new_br_10: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz<br>current<br>suffer<br>fashion
+bip_39_word_new_br_11: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz<br>current<br>suffer<br>fashion<br>net
+bip_39_word_new_br_12: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz<br>current<br>suffer<br>fashion<br>net<br>anchor
+bip_39_word_new_br_2: beef<br>mountain
+bip_39_word_new_br_3: beef<br>mountain<br>decrease
+bip_39_word_new_br_4: beef<br>mountain<br>decrease<br>name
+bip_39_word_new_br_5: beef<br>mountain<br>decrease<br>name<br>dog
+bip_39_word_new_br_6: beef<br>mountain<br>decrease<br>name<br>dog<br>rug
+bip_39_word_new_br_7: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz
+bip_39_word_new_br_8: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz<br>current
+bip_39_word_new_br_9: beef<br>mountain<br>decrease<br>name<br>dog<br>rug<br>buzz<br>current<br>suffer
+bip_39_word_new_line_1: beef
+bip_39_word_new_line_10: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz
+
+  current
+
+  suffer
+
+  fashion'
+bip_39_word_new_line_11: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz
+
+  current
+
+  suffer
+
+  fashion
+
+  net'
+bip_39_word_new_line_12: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz
+
+  current
+
+  suffer
+
+  fashion
+
+  net
+
+  anchor'
+bip_39_word_new_line_2: 'beef
+
+  mountain'
+bip_39_word_new_line_3: 'beef
+
+  mountain
+
+  decrease'
+bip_39_word_new_line_4: 'beef
+
+  mountain
+
+  decrease
+
+  name'
+bip_39_word_new_line_5: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog'
+bip_39_word_new_line_6: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug'
+bip_39_word_new_line_7: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz'
+bip_39_word_new_line_8: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz
+
+  current'
+bip_39_word_new_line_9: 'beef
+
+  mountain
+
+  decrease
+
+  name
+
+  dog
+
+  rug
+
+  buzz
+
+  current
+
+  suffer'
+bip_39_word_no_space_1: beef
+bip_39_word_no_space_10: beefmountaindecreasenamedogrugbuzzcurrentsufferfashion
+bip_39_word_no_space_11: beefmountaindecreasenamedogrugbuzzcurrentsufferfashionnet
+bip_39_word_no_space_12: beefmountaindecreasenamedogrugbuzzcurrentsufferfashionnetanchor
+bip_39_word_no_space_2: beefmountain
+bip_39_word_no_space_3: beefmountaindecrease
+bip_39_word_no_space_4: beefmountaindecreasename
+bip_39_word_no_space_5: beefmountaindecreasenamedog
+bip_39_word_no_space_6: beefmountaindecreasenamedogrug
+bip_39_word_no_space_7: beefmountaindecreasenamedogrugbuzz
+bip_39_word_no_space_8: beefmountaindecreasenamedogrugbuzzcurrent
+bip_39_word_no_space_9: beefmountaindecreasenamedogrugbuzzcurrentsuffer
+bip_39_word_space_0:
+- beef
+- mountain
+- decrease
+- name
+- dog
+- rug
+- buzz
+- current
+- suffer
+- fashion
+- net
+- anchor
+bip_39_word_space_1: beef
+bip_39_word_space_10: beef mountain decrease name dog rug buzz current suffer fashion
+bip_39_word_space_11: beef mountain decrease name dog rug buzz current suffer fashion
+  net
+bip_39_word_space_12: beef mountain decrease name dog rug buzz current suffer fashion
+  net anchor
+bip_39_word_space_2: beef mountain
+bip_39_word_space_3: beef mountain decrease
+bip_39_word_space_4: beef mountain decrease name
+bip_39_word_space_5: beef mountain decrease name dog
+bip_39_word_space_6: beef mountain decrease name dog rug
+bip_39_word_space_7: beef mountain decrease name dog rug buzz
+bip_39_word_space_8: beef mountain decrease name dog rug buzz current
+bip_39_word_space_9: beef mountain decrease name dog rug buzz current suffer
+bip_39_word_underscore_1: beef
+bip_39_word_underscore_10: beef_mountain_decrease_name_dog_rug_buzz_current_suffer_fashion
+bip_39_word_underscore_11: beef_mountain_decrease_name_dog_rug_buzz_current_suffer_fashion_net
+bip_39_word_underscore_12: beef_mountain_decrease_name_dog_rug_buzz_current_suffer_fashion_net_anchor
+bip_39_word_underscore_2: beef_mountain
+bip_39_word_underscore_3: beef_mountain_decrease
+bip_39_word_underscore_4: beef_mountain_decrease_name
+bip_39_word_underscore_5: beef_mountain_decrease_name_dog
+bip_39_word_underscore_6: beef_mountain_decrease_name_dog_rug
+bip_39_word_underscore_7: beef_mountain_decrease_name_dog_rug_buzz
+bip_39_word_underscore_8: beef_mountain_decrease_name_dog_rug_buzz_current
+bip_39_word_underscore_9: beef_mountain_decrease_name_dog_rug_buzz_current_suffer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6810
 id_no_color: hardware6810
 id_no_size: hardware_6810
 id_no_type: bearing_hardware_bearing_6810
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6810
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6810
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6810
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2059utw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2059utw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2059utw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6810
 name_no_size: Hardware 6810
 name_no_size_short: Hardware 6k8
 name_no_type: Bearing Hardware Bearing 6810
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6810
 oomp_word: toilet sunny whale
 oomp_word_emoji: ':toilet: :sunny: :whale:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 16000 Series 16019 Size 95 mm ID 145 mm OD 16 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_16000_series_16019_size_95_mm_id_145_mm_od_16_mm_depth
   * classification: hardware

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 05 05 04  Electronic Battery Box Aa Battery 4 Cell
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_05_05_04__electronic_battery_box_aa_battery_4_cell
   * classification: oobb

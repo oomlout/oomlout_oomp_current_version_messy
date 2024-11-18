@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cabin
+bip_39_word_dash_10: cabin-pony-total-engine-absent-three-episode-suggest-flame-depth
+bip_39_word_dash_11: cabin-pony-total-engine-absent-three-episode-suggest-flame-depth-useless
+bip_39_word_dash_12: cabin-pony-total-engine-absent-three-episode-suggest-flame-depth-useless-about
+bip_39_word_dash_2: cabin-pony
+bip_39_word_dash_3: cabin-pony-total
+bip_39_word_dash_4: cabin-pony-total-engine
+bip_39_word_dash_5: cabin-pony-total-engine-absent
+bip_39_word_dash_6: cabin-pony-total-engine-absent-three
+bip_39_word_dash_7: cabin-pony-total-engine-absent-three-episode
+bip_39_word_dash_8: cabin-pony-total-engine-absent-three-episode-suggest
+bip_39_word_dash_9: cabin-pony-total-engine-absent-three-episode-suggest-flame
+bip_39_word_new_br_1: cabin
+bip_39_word_new_br_10: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame<br>depth
+bip_39_word_new_br_11: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame<br>depth<br>useless
+bip_39_word_new_br_12: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame<br>depth<br>useless<br>about
+bip_39_word_new_br_2: cabin<br>pony
+bip_39_word_new_br_3: cabin<br>pony<br>total
+bip_39_word_new_br_4: cabin<br>pony<br>total<br>engine
+bip_39_word_new_br_5: cabin<br>pony<br>total<br>engine<br>absent
+bip_39_word_new_br_6: cabin<br>pony<br>total<br>engine<br>absent<br>three
+bip_39_word_new_br_7: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode
+bip_39_word_new_br_8: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest
+bip_39_word_new_br_9: cabin<br>pony<br>total<br>engine<br>absent<br>three<br>episode<br>suggest<br>flame
+bip_39_word_new_line_1: cabin
+bip_39_word_new_line_10: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode
+
+  suggest
+
+  flame
+
+  depth'
+bip_39_word_new_line_11: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode
+
+  suggest
+
+  flame
+
+  depth
+
+  useless'
+bip_39_word_new_line_12: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode
+
+  suggest
+
+  flame
+
+  depth
+
+  useless
+
+  about'
+bip_39_word_new_line_2: 'cabin
+
+  pony'
+bip_39_word_new_line_3: 'cabin
+
+  pony
+
+  total'
+bip_39_word_new_line_4: 'cabin
+
+  pony
+
+  total
+
+  engine'
+bip_39_word_new_line_5: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent'
+bip_39_word_new_line_6: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three'
+bip_39_word_new_line_7: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode'
+bip_39_word_new_line_8: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode
+
+  suggest'
+bip_39_word_new_line_9: 'cabin
+
+  pony
+
+  total
+
+  engine
+
+  absent
+
+  three
+
+  episode
+
+  suggest
+
+  flame'
+bip_39_word_no_space_1: cabin
+bip_39_word_no_space_10: cabinponytotalengineabsentthreeepisodesuggestflamedepth
+bip_39_word_no_space_11: cabinponytotalengineabsentthreeepisodesuggestflamedepthuseless
+bip_39_word_no_space_12: cabinponytotalengineabsentthreeepisodesuggestflamedepthuselessabout
+bip_39_word_no_space_2: cabinpony
+bip_39_word_no_space_3: cabinponytotal
+bip_39_word_no_space_4: cabinponytotalengine
+bip_39_word_no_space_5: cabinponytotalengineabsent
+bip_39_word_no_space_6: cabinponytotalengineabsentthree
+bip_39_word_no_space_7: cabinponytotalengineabsentthreeepisode
+bip_39_word_no_space_8: cabinponytotalengineabsentthreeepisodesuggest
+bip_39_word_no_space_9: cabinponytotalengineabsentthreeepisodesuggestflame
+bip_39_word_space_0:
+- cabin
+- pony
+- total
+- engine
+- absent
+- three
+- episode
+- suggest
+- flame
+- depth
+- useless
+- about
+bip_39_word_space_1: cabin
+bip_39_word_space_10: cabin pony total engine absent three episode suggest flame depth
+bip_39_word_space_11: cabin pony total engine absent three episode suggest flame depth
+  useless
+bip_39_word_space_12: cabin pony total engine absent three episode suggest flame depth
+  useless about
+bip_39_word_space_2: cabin pony
+bip_39_word_space_3: cabin pony total
+bip_39_word_space_4: cabin pony total engine
+bip_39_word_space_5: cabin pony total engine absent
+bip_39_word_space_6: cabin pony total engine absent three
+bip_39_word_space_7: cabin pony total engine absent three episode
+bip_39_word_space_8: cabin pony total engine absent three episode suggest
+bip_39_word_space_9: cabin pony total engine absent three episode suggest flame
+bip_39_word_underscore_1: cabin
+bip_39_word_underscore_10: cabin_pony_total_engine_absent_three_episode_suggest_flame_depth
+bip_39_word_underscore_11: cabin_pony_total_engine_absent_three_episode_suggest_flame_depth_useless
+bip_39_word_underscore_12: cabin_pony_total_engine_absent_three_episode_suggest_flame_depth_useless_about
+bip_39_word_underscore_2: cabin_pony
+bip_39_word_underscore_3: cabin_pony_total
+bip_39_word_underscore_4: cabin_pony_total_engine
+bip_39_word_underscore_5: cabin_pony_total_engine_absent
+bip_39_word_underscore_6: cabin_pony_total_engine_absent_three
+bip_39_word_underscore_7: cabin_pony_total_engine_absent_three_episode
+bip_39_word_underscore_8: cabin_pony_total_engine_absent_three_episode_suggest
+bip_39_word_underscore_9: cabin_pony_total_engine_absent_three_episode_suggest_flame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
 id_no_color: 010920teethshieldshmotorservostandard01
 id_no_size: 01_09__20_teeth_shield_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20b28e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20b28e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20b28e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010920Teethshieldshmotorservostandard01
 name_no_size: 01 09  20 Teeth Shield Sh Motor Servo Standard 01
 name_no_size_short: 01 09  20 Teeth Shield Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 01 09  20 Teeth Shield Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_servo_standard_01
 oomp_word: cry ship cupid
 oomp_word_emoji: ':cry: :ship: :cupid:'

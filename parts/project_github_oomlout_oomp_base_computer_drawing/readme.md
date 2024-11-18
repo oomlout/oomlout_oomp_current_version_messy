@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Computer Drawing
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_computer_drawing
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :jeans: :beetle: :taxi:
 * md5_6_alpha: 6suss
 * md5_6: ae50ec
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206suss)
+[2x1](http://192.168.1.242:1112/?label=oomp%206suss)
+[6x4](http://192.168.1.55:1112/?label=oomp%206suss)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ gallery |
 | id_no_color | oomp_base_computer_drawing |  
 | id_no_size | oomp_base_computer_drawing |  
 | id_no_type | oomlout_oomp_base_computer_drawing |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_computer_drawing |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206suss |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206suss |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206suss |  
 | link_redirect | https://github.com/oomlout/oomp_base_computer_drawing |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ gallery |
 | name_no_size | Oomp Base Computer Drawing |  
 | name_no_size_short | Oomp Base Computer Drawing |  
 | name_no_type | Oomlout Oomp Base Computer Drawing |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_computer_drawing |  
 | oomp_word | jeans beetle taxi |  
 | oomp_word_emoji | :jeans: :beetle: :taxi: |  

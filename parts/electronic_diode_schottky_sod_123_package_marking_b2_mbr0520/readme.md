@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
+* name_short: 
 ### id
 * oomp_id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
   * classification: electronic

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: jump
+bip_39_word_dash_10: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest
+bip_39_word_dash_11: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest-excuse
+bip_39_word_dash_12: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight-nest-excuse-advice
+bip_39_word_dash_2: jump-antenna
+bip_39_word_dash_3: jump-antenna-hover
+bip_39_word_dash_4: jump-antenna-hover-alpha
+bip_39_word_dash_5: jump-antenna-hover-alpha-deal
+bip_39_word_dash_6: jump-antenna-hover-alpha-deal-furnace
+bip_39_word_dash_7: jump-antenna-hover-alpha-deal-furnace-ten
+bip_39_word_dash_8: jump-antenna-hover-alpha-deal-furnace-ten-emotion
+bip_39_word_dash_9: jump-antenna-hover-alpha-deal-furnace-ten-emotion-midnight
+bip_39_word_new_br_1: jump
+bip_39_word_new_br_10: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest
+bip_39_word_new_br_11: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse
+bip_39_word_new_br_12: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight<br>nest<br>excuse<br>advice
+bip_39_word_new_br_2: jump<br>antenna
+bip_39_word_new_br_3: jump<br>antenna<br>hover
+bip_39_word_new_br_4: jump<br>antenna<br>hover<br>alpha
+bip_39_word_new_br_5: jump<br>antenna<br>hover<br>alpha<br>deal
+bip_39_word_new_br_6: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace
+bip_39_word_new_br_7: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten
+bip_39_word_new_br_8: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion
+bip_39_word_new_br_9: jump<br>antenna<br>hover<br>alpha<br>deal<br>furnace<br>ten<br>emotion<br>midnight
+bip_39_word_new_line_1: jump
+bip_39_word_new_line_10: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten
+
+  emotion
+
+  midnight
+
+  nest'
+bip_39_word_new_line_11: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten
+
+  emotion
+
+  midnight
+
+  nest
+
+  excuse'
+bip_39_word_new_line_12: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten
+
+  emotion
+
+  midnight
+
+  nest
+
+  excuse
+
+  advice'
+bip_39_word_new_line_2: 'jump
+
+  antenna'
+bip_39_word_new_line_3: 'jump
+
+  antenna
+
+  hover'
+bip_39_word_new_line_4: 'jump
+
+  antenna
+
+  hover
+
+  alpha'
+bip_39_word_new_line_5: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal'
+bip_39_word_new_line_6: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace'
+bip_39_word_new_line_7: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten'
+bip_39_word_new_line_8: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten
+
+  emotion'
+bip_39_word_new_line_9: 'jump
+
+  antenna
+
+  hover
+
+  alpha
+
+  deal
+
+  furnace
+
+  ten
+
+  emotion
+
+  midnight'
+bip_39_word_no_space_1: jump
+bip_39_word_no_space_10: jumpantennahoveralphadealfurnacetenemotionmidnightnest
+bip_39_word_no_space_11: jumpantennahoveralphadealfurnacetenemotionmidnightnestexcuse
+bip_39_word_no_space_12: jumpantennahoveralphadealfurnacetenemotionmidnightnestexcuseadvice
+bip_39_word_no_space_2: jumpantenna
+bip_39_word_no_space_3: jumpantennahover
+bip_39_word_no_space_4: jumpantennahoveralpha
+bip_39_word_no_space_5: jumpantennahoveralphadeal
+bip_39_word_no_space_6: jumpantennahoveralphadealfurnace
+bip_39_word_no_space_7: jumpantennahoveralphadealfurnaceten
+bip_39_word_no_space_8: jumpantennahoveralphadealfurnacetenemotion
+bip_39_word_no_space_9: jumpantennahoveralphadealfurnacetenemotionmidnight
+bip_39_word_space_0:
+- jump
+- antenna
+- hover
+- alpha
+- deal
+- furnace
+- ten
+- emotion
+- midnight
+- nest
+- excuse
+- advice
+bip_39_word_space_1: jump
+bip_39_word_space_10: jump antenna hover alpha deal furnace ten emotion midnight nest
+bip_39_word_space_11: jump antenna hover alpha deal furnace ten emotion midnight nest
+  excuse
+bip_39_word_space_12: jump antenna hover alpha deal furnace ten emotion midnight nest
+  excuse advice
+bip_39_word_space_2: jump antenna
+bip_39_word_space_3: jump antenna hover
+bip_39_word_space_4: jump antenna hover alpha
+bip_39_word_space_5: jump antenna hover alpha deal
+bip_39_word_space_6: jump antenna hover alpha deal furnace
+bip_39_word_space_7: jump antenna hover alpha deal furnace ten
+bip_39_word_space_8: jump antenna hover alpha deal furnace ten emotion
+bip_39_word_space_9: jump antenna hover alpha deal furnace ten emotion midnight
+bip_39_word_underscore_1: jump
+bip_39_word_underscore_10: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest
+bip_39_word_underscore_11: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest_excuse
+bip_39_word_underscore_12: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight_nest_excuse_advice
+bip_39_word_underscore_2: jump_antenna
+bip_39_word_underscore_3: jump_antenna_hover
+bip_39_word_underscore_4: jump_antenna_hover_alpha
+bip_39_word_underscore_5: jump_antenna_hover_alpha_deal
+bip_39_word_underscore_6: jump_antenna_hover_alpha_deal_furnace
+bip_39_word_underscore_7: jump_antenna_hover_alpha_deal_furnace_ten
+bip_39_word_underscore_8: jump_antenna_hover_alpha_deal_furnace_ten_emotion
+bip_39_word_underscore_9: jump_antenna_hover_alpha_deal_furnace_ten_emotion_midnight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_10_12
 id_no_color: '101012'
 id_no_size: '10_10_12'
 id_no_type: tray_thin_10_10_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202irl1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202irl1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202irl1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '101012'
 name_no_size: 10 10 12
 name_no_size_short: 10 10 12
 name_no_type: Tray Thin 10 10 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_10_12
 oomp_word: racehorse clubs ear
 oomp_word_emoji: ':racehorse: :clubs: :ear:'

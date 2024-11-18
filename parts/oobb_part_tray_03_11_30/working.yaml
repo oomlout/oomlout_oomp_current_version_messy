@@ -1,3 +1,222 @@
+bip_39_word_dash_1: round
+bip_39_word_dash_10: round-unable-churn-wood-old-trumpet-journey-chaos-photo-help
+bip_39_word_dash_11: round-unable-churn-wood-old-trumpet-journey-chaos-photo-help-intact
+bip_39_word_dash_12: round-unable-churn-wood-old-trumpet-journey-chaos-photo-help-intact-artwork
+bip_39_word_dash_2: round-unable
+bip_39_word_dash_3: round-unable-churn
+bip_39_word_dash_4: round-unable-churn-wood
+bip_39_word_dash_5: round-unable-churn-wood-old
+bip_39_word_dash_6: round-unable-churn-wood-old-trumpet
+bip_39_word_dash_7: round-unable-churn-wood-old-trumpet-journey
+bip_39_word_dash_8: round-unable-churn-wood-old-trumpet-journey-chaos
+bip_39_word_dash_9: round-unable-churn-wood-old-trumpet-journey-chaos-photo
+bip_39_word_new_br_1: round
+bip_39_word_new_br_10: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo<br>help
+bip_39_word_new_br_11: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo<br>help<br>intact
+bip_39_word_new_br_12: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo<br>help<br>intact<br>artwork
+bip_39_word_new_br_2: round<br>unable
+bip_39_word_new_br_3: round<br>unable<br>churn
+bip_39_word_new_br_4: round<br>unable<br>churn<br>wood
+bip_39_word_new_br_5: round<br>unable<br>churn<br>wood<br>old
+bip_39_word_new_br_6: round<br>unable<br>churn<br>wood<br>old<br>trumpet
+bip_39_word_new_br_7: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey
+bip_39_word_new_br_8: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos
+bip_39_word_new_br_9: round<br>unable<br>churn<br>wood<br>old<br>trumpet<br>journey<br>chaos<br>photo
+bip_39_word_new_line_1: round
+bip_39_word_new_line_10: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey
+
+  chaos
+
+  photo
+
+  help'
+bip_39_word_new_line_11: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey
+
+  chaos
+
+  photo
+
+  help
+
+  intact'
+bip_39_word_new_line_12: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey
+
+  chaos
+
+  photo
+
+  help
+
+  intact
+
+  artwork'
+bip_39_word_new_line_2: 'round
+
+  unable'
+bip_39_word_new_line_3: 'round
+
+  unable
+
+  churn'
+bip_39_word_new_line_4: 'round
+
+  unable
+
+  churn
+
+  wood'
+bip_39_word_new_line_5: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old'
+bip_39_word_new_line_6: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet'
+bip_39_word_new_line_7: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey'
+bip_39_word_new_line_8: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey
+
+  chaos'
+bip_39_word_new_line_9: 'round
+
+  unable
+
+  churn
+
+  wood
+
+  old
+
+  trumpet
+
+  journey
+
+  chaos
+
+  photo'
+bip_39_word_no_space_1: round
+bip_39_word_no_space_10: roundunablechurnwoodoldtrumpetjourneychaosphotohelp
+bip_39_word_no_space_11: roundunablechurnwoodoldtrumpetjourneychaosphotohelpintact
+bip_39_word_no_space_12: roundunablechurnwoodoldtrumpetjourneychaosphotohelpintactartwork
+bip_39_word_no_space_2: roundunable
+bip_39_word_no_space_3: roundunablechurn
+bip_39_word_no_space_4: roundunablechurnwood
+bip_39_word_no_space_5: roundunablechurnwoodold
+bip_39_word_no_space_6: roundunablechurnwoodoldtrumpet
+bip_39_word_no_space_7: roundunablechurnwoodoldtrumpetjourney
+bip_39_word_no_space_8: roundunablechurnwoodoldtrumpetjourneychaos
+bip_39_word_no_space_9: roundunablechurnwoodoldtrumpetjourneychaosphoto
+bip_39_word_space_0:
+- round
+- unable
+- churn
+- wood
+- old
+- trumpet
+- journey
+- chaos
+- photo
+- help
+- intact
+- artwork
+bip_39_word_space_1: round
+bip_39_word_space_10: round unable churn wood old trumpet journey chaos photo help
+bip_39_word_space_11: round unable churn wood old trumpet journey chaos photo help
+  intact
+bip_39_word_space_12: round unable churn wood old trumpet journey chaos photo help
+  intact artwork
+bip_39_word_space_2: round unable
+bip_39_word_space_3: round unable churn
+bip_39_word_space_4: round unable churn wood
+bip_39_word_space_5: round unable churn wood old
+bip_39_word_space_6: round unable churn wood old trumpet
+bip_39_word_space_7: round unable churn wood old trumpet journey
+bip_39_word_space_8: round unable churn wood old trumpet journey chaos
+bip_39_word_space_9: round unable churn wood old trumpet journey chaos photo
+bip_39_word_underscore_1: round
+bip_39_word_underscore_10: round_unable_churn_wood_old_trumpet_journey_chaos_photo_help
+bip_39_word_underscore_11: round_unable_churn_wood_old_trumpet_journey_chaos_photo_help_intact
+bip_39_word_underscore_12: round_unable_churn_wood_old_trumpet_journey_chaos_photo_help_intact_artwork
+bip_39_word_underscore_2: round_unable
+bip_39_word_underscore_3: round_unable_churn
+bip_39_word_underscore_4: round_unable_churn_wood
+bip_39_word_underscore_5: round_unable_churn_wood_old
+bip_39_word_underscore_6: round_unable_churn_wood_old_trumpet
+bip_39_word_underscore_7: round_unable_churn_wood_old_trumpet_journey
+bip_39_word_underscore_8: round_unable_churn_wood_old_trumpet_journey_chaos
+bip_39_word_underscore_9: round_unable_churn_wood_old_trumpet_journey_chaos_photo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_11_30
 id_no_color: '031130'
 id_no_size: '03_11_30'
 id_no_type: tray_03_11_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_11_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_11_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_11_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20889p6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20889p6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20889p6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '031130'
 name_no_size: 03 11 30
 name_no_size_short: 03 11 30
 name_no_type: Tray 03 11 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_11_30
 oomp_word: pineapple car clap
 oomp_word_emoji: ':pineapple: :car: :clap:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6800 Series 6817 Size 85 mm ID 110 mm OD 13 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lock: :hospital: :foggy:
 * md5_6_alpha: 5573k
 * md5_6: 83d830
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205573k)
+[2x1](http://192.168.1.242:1112/?label=oomp%205573k)
+[6x4](http://192.168.1.55:1112/?label=oomp%205573k)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ glance |
 | id_no_color | 85_mm_id_110_mm_od_13_mm_depth |  
 | id_no_size | 6817_size_85_mm_id_110_mm_od_13_mm_depth |  
 | id_no_type | 6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205573k |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205573k |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205573k |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ glance |
 | name_no_size | 6817 Size 85 mm ID 110 mm OD 13 mm Depth |  
 | name_no_size_short | 6817 Size 85 Mm Id 110 Mm Od 13 Mm Depth |  
 | name_no_type | 6800 Series 6817 Size 85 mm ID 110 mm OD 13 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6817 |  
 | oomlout_short_code_upper | BR6817 |  
 | oomp_key | oomp_hardware_bearing_6800_series_6817_size_85_mm_id_110_mm_od_13_mm_depth |  

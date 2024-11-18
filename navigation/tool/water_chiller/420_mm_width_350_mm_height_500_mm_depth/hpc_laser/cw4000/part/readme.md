@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Water Chiller 420 mm Width 350 mm Height 500 mm Depth Hpc Laser Cw4000
+* name_short: 
 ### id
 * oomp_id: tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :wolf: :calendar: :melon:
 * md5_6_alpha: 261n3
 * md5_6: 378fcf
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20261n3)
+[2x1](http://192.168.1.242:1112/?label=oomp%20261n3)
+[6x4](http://192.168.1.55:1112/?label=oomp%20261n3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ gate |
 | id_no_color | hpclasercw4000 |  
 | id_no_size | hpc_laser_cw4000 |  
 | id_no_type | 420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20261n3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20261n3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20261n3 |  
 | manufacturer | hpc_laser |  
 | manufacturer_capital | Hpc Laser |  
 | manufacturer_first_letter | h |  
@@ -282,6 +315,7 @@ gate |
 | name_no_size | Hpc Laser Cw4000 |  
 | name_no_size_short | Hpc Laser Cw4000 |  
 | name_no_type | 420 mm Width 350 mm Height 500 mm Depth Hpc Laser Cw4000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
 | oomp_word | wolf calendar melon |  
 | oomp_word_emoji | :wolf: :calendar: :melon: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 11 06 03  Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
   * classification: oobb

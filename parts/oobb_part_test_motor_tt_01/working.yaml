@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cheese
+bip_39_word_dash_10: cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski
+bip_39_word_dash_11: cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski-use
+bip_39_word_dash_12: cheese-steak-obvious-process-bunker-canoe-wave-market-toss-ski-use-abuse
+bip_39_word_dash_2: cheese-steak
+bip_39_word_dash_3: cheese-steak-obvious
+bip_39_word_dash_4: cheese-steak-obvious-process
+bip_39_word_dash_5: cheese-steak-obvious-process-bunker
+bip_39_word_dash_6: cheese-steak-obvious-process-bunker-canoe
+bip_39_word_dash_7: cheese-steak-obvious-process-bunker-canoe-wave
+bip_39_word_dash_8: cheese-steak-obvious-process-bunker-canoe-wave-market
+bip_39_word_dash_9: cheese-steak-obvious-process-bunker-canoe-wave-market-toss
+bip_39_word_new_br_1: cheese
+bip_39_word_new_br_10: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss<br>ski
+bip_39_word_new_br_11: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss<br>ski<br>use
+bip_39_word_new_br_12: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss<br>ski<br>use<br>abuse
+bip_39_word_new_br_2: cheese<br>steak
+bip_39_word_new_br_3: cheese<br>steak<br>obvious
+bip_39_word_new_br_4: cheese<br>steak<br>obvious<br>process
+bip_39_word_new_br_5: cheese<br>steak<br>obvious<br>process<br>bunker
+bip_39_word_new_br_6: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe
+bip_39_word_new_br_7: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave
+bip_39_word_new_br_8: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market
+bip_39_word_new_br_9: cheese<br>steak<br>obvious<br>process<br>bunker<br>canoe<br>wave<br>market<br>toss
+bip_39_word_new_line_1: cheese
+bip_39_word_new_line_10: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave
+
+  market
+
+  toss
+
+  ski'
+bip_39_word_new_line_11: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave
+
+  market
+
+  toss
+
+  ski
+
+  use'
+bip_39_word_new_line_12: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave
+
+  market
+
+  toss
+
+  ski
+
+  use
+
+  abuse'
+bip_39_word_new_line_2: 'cheese
+
+  steak'
+bip_39_word_new_line_3: 'cheese
+
+  steak
+
+  obvious'
+bip_39_word_new_line_4: 'cheese
+
+  steak
+
+  obvious
+
+  process'
+bip_39_word_new_line_5: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker'
+bip_39_word_new_line_6: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe'
+bip_39_word_new_line_7: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave'
+bip_39_word_new_line_8: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave
+
+  market'
+bip_39_word_new_line_9: 'cheese
+
+  steak
+
+  obvious
+
+  process
+
+  bunker
+
+  canoe
+
+  wave
+
+  market
+
+  toss'
+bip_39_word_no_space_1: cheese
+bip_39_word_no_space_10: cheesesteakobviousprocessbunkercanoewavemarkettossski
+bip_39_word_no_space_11: cheesesteakobviousprocessbunkercanoewavemarkettossskiuse
+bip_39_word_no_space_12: cheesesteakobviousprocessbunkercanoewavemarkettossskiuseabuse
+bip_39_word_no_space_2: cheesesteak
+bip_39_word_no_space_3: cheesesteakobvious
+bip_39_word_no_space_4: cheesesteakobviousprocess
+bip_39_word_no_space_5: cheesesteakobviousprocessbunker
+bip_39_word_no_space_6: cheesesteakobviousprocessbunkercanoe
+bip_39_word_no_space_7: cheesesteakobviousprocessbunkercanoewave
+bip_39_word_no_space_8: cheesesteakobviousprocessbunkercanoewavemarket
+bip_39_word_no_space_9: cheesesteakobviousprocessbunkercanoewavemarkettoss
+bip_39_word_space_0:
+- cheese
+- steak
+- obvious
+- process
+- bunker
+- canoe
+- wave
+- market
+- toss
+- ski
+- use
+- abuse
+bip_39_word_space_1: cheese
+bip_39_word_space_10: cheese steak obvious process bunker canoe wave market toss ski
+bip_39_word_space_11: cheese steak obvious process bunker canoe wave market toss ski
+  use
+bip_39_word_space_12: cheese steak obvious process bunker canoe wave market toss ski
+  use abuse
+bip_39_word_space_2: cheese steak
+bip_39_word_space_3: cheese steak obvious
+bip_39_word_space_4: cheese steak obvious process
+bip_39_word_space_5: cheese steak obvious process bunker
+bip_39_word_space_6: cheese steak obvious process bunker canoe
+bip_39_word_space_7: cheese steak obvious process bunker canoe wave
+bip_39_word_space_8: cheese steak obvious process bunker canoe wave market
+bip_39_word_space_9: cheese steak obvious process bunker canoe wave market toss
+bip_39_word_underscore_1: cheese
+bip_39_word_underscore_10: cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski
+bip_39_word_underscore_11: cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski_use
+bip_39_word_underscore_12: cheese_steak_obvious_process_bunker_canoe_wave_market_toss_ski_use_abuse
+bip_39_word_underscore_2: cheese_steak
+bip_39_word_underscore_3: cheese_steak_obvious
+bip_39_word_underscore_4: cheese_steak_obvious_process
+bip_39_word_underscore_5: cheese_steak_obvious_process_bunker
+bip_39_word_underscore_6: cheese_steak_obvious_process_bunker_canoe
+bip_39_word_underscore_7: cheese_steak_obvious_process_bunker_canoe_wave
+bip_39_word_underscore_8: cheese_steak_obvious_process_bunker_canoe_wave_market
+bip_39_word_underscore_9: cheese_steak_obvious_process_bunker_canoe_wave_market_toss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_test_motor_tt_01
 id_no_color: motortt01
 id_no_size: motor_tt_01
 id_no_type: test_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20rwxe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20rwxe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20rwxe
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Motortt01
 name_no_size: Motor Tt 01
 name_no_size_short: Motor Tt 01
 name_no_type: Test Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_test_motor_tt_01
 oomp_word: question fountain dolls
 oomp_word_emoji: ':question: :fountain: :dolls:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: belt
+bip_39_word_dash_10: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent
+bip_39_word_dash_11: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent-vacuum
+bip_39_word_dash_12: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable-parent-vacuum-air
+bip_39_word_dash_2: belt-supreme
+bip_39_word_dash_3: belt-supreme-gentle
+bip_39_word_dash_4: belt-supreme-gentle-cheap
+bip_39_word_dash_5: belt-supreme-gentle-cheap-pumpkin
+bip_39_word_dash_6: belt-supreme-gentle-cheap-pumpkin-sick
+bip_39_word_dash_7: belt-supreme-gentle-cheap-pumpkin-sick-twelve
+bip_39_word_dash_8: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue
+bip_39_word_dash_9: belt-supreme-gentle-cheap-pumpkin-sick-twelve-fatigue-enable
+bip_39_word_new_br_1: belt
+bip_39_word_new_br_10: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent
+bip_39_word_new_br_11: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent<br>vacuum
+bip_39_word_new_br_12: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable<br>parent<br>vacuum<br>air
+bip_39_word_new_br_2: belt<br>supreme
+bip_39_word_new_br_3: belt<br>supreme<br>gentle
+bip_39_word_new_br_4: belt<br>supreme<br>gentle<br>cheap
+bip_39_word_new_br_5: belt<br>supreme<br>gentle<br>cheap<br>pumpkin
+bip_39_word_new_br_6: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick
+bip_39_word_new_br_7: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve
+bip_39_word_new_br_8: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue
+bip_39_word_new_br_9: belt<br>supreme<br>gentle<br>cheap<br>pumpkin<br>sick<br>twelve<br>fatigue<br>enable
+bip_39_word_new_line_1: belt
+bip_39_word_new_line_10: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve
+
+  fatigue
+
+  enable
+
+  parent'
+bip_39_word_new_line_11: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve
+
+  fatigue
+
+  enable
+
+  parent
+
+  vacuum'
+bip_39_word_new_line_12: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve
+
+  fatigue
+
+  enable
+
+  parent
+
+  vacuum
+
+  air'
+bip_39_word_new_line_2: 'belt
+
+  supreme'
+bip_39_word_new_line_3: 'belt
+
+  supreme
+
+  gentle'
+bip_39_word_new_line_4: 'belt
+
+  supreme
+
+  gentle
+
+  cheap'
+bip_39_word_new_line_5: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin'
+bip_39_word_new_line_6: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick'
+bip_39_word_new_line_7: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve'
+bip_39_word_new_line_8: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve
+
+  fatigue'
+bip_39_word_new_line_9: 'belt
+
+  supreme
+
+  gentle
+
+  cheap
+
+  pumpkin
+
+  sick
+
+  twelve
+
+  fatigue
+
+  enable'
+bip_39_word_no_space_1: belt
+bip_39_word_no_space_10: beltsupremegentlecheappumpkinsicktwelvefatigueenableparent
+bip_39_word_no_space_11: beltsupremegentlecheappumpkinsicktwelvefatigueenableparentvacuum
+bip_39_word_no_space_12: beltsupremegentlecheappumpkinsicktwelvefatigueenableparentvacuumair
+bip_39_word_no_space_2: beltsupreme
+bip_39_word_no_space_3: beltsupremegentle
+bip_39_word_no_space_4: beltsupremegentlecheap
+bip_39_word_no_space_5: beltsupremegentlecheappumpkin
+bip_39_word_no_space_6: beltsupremegentlecheappumpkinsick
+bip_39_word_no_space_7: beltsupremegentlecheappumpkinsicktwelve
+bip_39_word_no_space_8: beltsupremegentlecheappumpkinsicktwelvefatigue
+bip_39_word_no_space_9: beltsupremegentlecheappumpkinsicktwelvefatigueenable
+bip_39_word_space_0:
+- belt
+- supreme
+- gentle
+- cheap
+- pumpkin
+- sick
+- twelve
+- fatigue
+- enable
+- parent
+- vacuum
+- air
+bip_39_word_space_1: belt
+bip_39_word_space_10: belt supreme gentle cheap pumpkin sick twelve fatigue enable
+  parent
+bip_39_word_space_11: belt supreme gentle cheap pumpkin sick twelve fatigue enable
+  parent vacuum
+bip_39_word_space_12: belt supreme gentle cheap pumpkin sick twelve fatigue enable
+  parent vacuum air
+bip_39_word_space_2: belt supreme
+bip_39_word_space_3: belt supreme gentle
+bip_39_word_space_4: belt supreme gentle cheap
+bip_39_word_space_5: belt supreme gentle cheap pumpkin
+bip_39_word_space_6: belt supreme gentle cheap pumpkin sick
+bip_39_word_space_7: belt supreme gentle cheap pumpkin sick twelve
+bip_39_word_space_8: belt supreme gentle cheap pumpkin sick twelve fatigue
+bip_39_word_space_9: belt supreme gentle cheap pumpkin sick twelve fatigue enable
+bip_39_word_underscore_1: belt
+bip_39_word_underscore_10: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent
+bip_39_word_underscore_11: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent_vacuum
+bip_39_word_underscore_12: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable_parent_vacuum_air
+bip_39_word_underscore_2: belt_supreme
+bip_39_word_underscore_3: belt_supreme_gentle
+bip_39_word_underscore_4: belt_supreme_gentle_cheap
+bip_39_word_underscore_5: belt_supreme_gentle_cheap_pumpkin
+bip_39_word_underscore_6: belt_supreme_gentle_cheap_pumpkin_sick
+bip_39_word_underscore_7: belt_supreme_gentle_cheap_pumpkin_sick_twelve
+bip_39_word_underscore_8: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue
+bip_39_word_underscore_9: belt_supreme_gentle_cheap_pumpkin_sick_twelve_fatigue_enable
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +316,14 @@ id_no_color: 390ohm
 id_no_size: 390_ohm
 id_no_type: 0805_390_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_390_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_390_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_390_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ffvs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ffvs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ffvs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +377,7 @@ name_no_color: 390Ohm
 name_no_size: 390 Ohm
 name_no_size_short: 390 Ohm
 name_no_type: 0805 390 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0805_390_ohm
 oomp_word: rat boat tongue
 oomp_word_emoji: ':rat: :boat: :tongue:'

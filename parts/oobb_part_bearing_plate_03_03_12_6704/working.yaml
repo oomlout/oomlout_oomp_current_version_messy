@@ -1,3 +1,222 @@
+bip_39_word_dash_1: super
+bip_39_word_dash_10: super-mountain-denial-cross-street-car-actress-wealth-atom-inch
+bip_39_word_dash_11: super-mountain-denial-cross-street-car-actress-wealth-atom-inch-crowd
+bip_39_word_dash_12: super-mountain-denial-cross-street-car-actress-wealth-atom-inch-crowd-allow
+bip_39_word_dash_2: super-mountain
+bip_39_word_dash_3: super-mountain-denial
+bip_39_word_dash_4: super-mountain-denial-cross
+bip_39_word_dash_5: super-mountain-denial-cross-street
+bip_39_word_dash_6: super-mountain-denial-cross-street-car
+bip_39_word_dash_7: super-mountain-denial-cross-street-car-actress
+bip_39_word_dash_8: super-mountain-denial-cross-street-car-actress-wealth
+bip_39_word_dash_9: super-mountain-denial-cross-street-car-actress-wealth-atom
+bip_39_word_new_br_1: super
+bip_39_word_new_br_10: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom<br>inch
+bip_39_word_new_br_11: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom<br>inch<br>crowd
+bip_39_word_new_br_12: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom<br>inch<br>crowd<br>allow
+bip_39_word_new_br_2: super<br>mountain
+bip_39_word_new_br_3: super<br>mountain<br>denial
+bip_39_word_new_br_4: super<br>mountain<br>denial<br>cross
+bip_39_word_new_br_5: super<br>mountain<br>denial<br>cross<br>street
+bip_39_word_new_br_6: super<br>mountain<br>denial<br>cross<br>street<br>car
+bip_39_word_new_br_7: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress
+bip_39_word_new_br_8: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth
+bip_39_word_new_br_9: super<br>mountain<br>denial<br>cross<br>street<br>car<br>actress<br>wealth<br>atom
+bip_39_word_new_line_1: super
+bip_39_word_new_line_10: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress
+
+  wealth
+
+  atom
+
+  inch'
+bip_39_word_new_line_11: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress
+
+  wealth
+
+  atom
+
+  inch
+
+  crowd'
+bip_39_word_new_line_12: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress
+
+  wealth
+
+  atom
+
+  inch
+
+  crowd
+
+  allow'
+bip_39_word_new_line_2: 'super
+
+  mountain'
+bip_39_word_new_line_3: 'super
+
+  mountain
+
+  denial'
+bip_39_word_new_line_4: 'super
+
+  mountain
+
+  denial
+
+  cross'
+bip_39_word_new_line_5: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street'
+bip_39_word_new_line_6: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car'
+bip_39_word_new_line_7: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress'
+bip_39_word_new_line_8: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress
+
+  wealth'
+bip_39_word_new_line_9: 'super
+
+  mountain
+
+  denial
+
+  cross
+
+  street
+
+  car
+
+  actress
+
+  wealth
+
+  atom'
+bip_39_word_no_space_1: super
+bip_39_word_no_space_10: supermountaindenialcrossstreetcaractresswealthatominch
+bip_39_word_no_space_11: supermountaindenialcrossstreetcaractresswealthatominchcrowd
+bip_39_word_no_space_12: supermountaindenialcrossstreetcaractresswealthatominchcrowdallow
+bip_39_word_no_space_2: supermountain
+bip_39_word_no_space_3: supermountaindenial
+bip_39_word_no_space_4: supermountaindenialcross
+bip_39_word_no_space_5: supermountaindenialcrossstreet
+bip_39_word_no_space_6: supermountaindenialcrossstreetcar
+bip_39_word_no_space_7: supermountaindenialcrossstreetcaractress
+bip_39_word_no_space_8: supermountaindenialcrossstreetcaractresswealth
+bip_39_word_no_space_9: supermountaindenialcrossstreetcaractresswealthatom
+bip_39_word_space_0:
+- super
+- mountain
+- denial
+- cross
+- street
+- car
+- actress
+- wealth
+- atom
+- inch
+- crowd
+- allow
+bip_39_word_space_1: super
+bip_39_word_space_10: super mountain denial cross street car actress wealth atom inch
+bip_39_word_space_11: super mountain denial cross street car actress wealth atom inch
+  crowd
+bip_39_word_space_12: super mountain denial cross street car actress wealth atom inch
+  crowd allow
+bip_39_word_space_2: super mountain
+bip_39_word_space_3: super mountain denial
+bip_39_word_space_4: super mountain denial cross
+bip_39_word_space_5: super mountain denial cross street
+bip_39_word_space_6: super mountain denial cross street car
+bip_39_word_space_7: super mountain denial cross street car actress
+bip_39_word_space_8: super mountain denial cross street car actress wealth
+bip_39_word_space_9: super mountain denial cross street car actress wealth atom
+bip_39_word_underscore_1: super
+bip_39_word_underscore_10: super_mountain_denial_cross_street_car_actress_wealth_atom_inch
+bip_39_word_underscore_11: super_mountain_denial_cross_street_car_actress_wealth_atom_inch_crowd
+bip_39_word_underscore_12: super_mountain_denial_cross_street_car_actress_wealth_atom_inch_crowd_allow
+bip_39_word_underscore_2: super_mountain
+bip_39_word_underscore_3: super_mountain_denial
+bip_39_word_underscore_4: super_mountain_denial_cross
+bip_39_word_underscore_5: super_mountain_denial_cross_street
+bip_39_word_underscore_6: super_mountain_denial_cross_street_car
+bip_39_word_underscore_7: super_mountain_denial_cross_street_car_actress
+bip_39_word_underscore_8: super_mountain_denial_cross_street_car_actress_wealth
+bip_39_word_underscore_9: super_mountain_denial_cross_street_car_actress_wealth_atom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_plate_03_03_12_6704
 id_no_color: '0303126704'
 id_no_size: '03_03_12_6704'
 id_no_type: bearing_plate_03_03_12_6704
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_03_12_6704
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045gv0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045gv0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045gv0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '0303126704'
 name_no_size: 03 03 12 6704
 name_no_size_short: 03 03 12 6704
 name_no_type: Bearing Plate 03 03 12 6704
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_plate_03_03_12_6704
 oomp_word: palm_tree mushroom spades
 oomp_word_emoji: ':palm_tree: :mushroom: :spades:'

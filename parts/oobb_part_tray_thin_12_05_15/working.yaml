@@ -1,3 +1,222 @@
+bip_39_word_dash_1: often
+bip_39_word_dash_10: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret
+bip_39_word_dash_11: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret-either
+bip_39_word_dash_12: often-fix-fury-oak-coffee-diesel-diagram-panther-humble-secret-either-almost
+bip_39_word_dash_2: often-fix
+bip_39_word_dash_3: often-fix-fury
+bip_39_word_dash_4: often-fix-fury-oak
+bip_39_word_dash_5: often-fix-fury-oak-coffee
+bip_39_word_dash_6: often-fix-fury-oak-coffee-diesel
+bip_39_word_dash_7: often-fix-fury-oak-coffee-diesel-diagram
+bip_39_word_dash_8: often-fix-fury-oak-coffee-diesel-diagram-panther
+bip_39_word_dash_9: often-fix-fury-oak-coffee-diesel-diagram-panther-humble
+bip_39_word_new_br_1: often
+bip_39_word_new_br_10: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret
+bip_39_word_new_br_11: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either
+bip_39_word_new_br_12: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble<br>secret<br>either<br>almost
+bip_39_word_new_br_2: often<br>fix
+bip_39_word_new_br_3: often<br>fix<br>fury
+bip_39_word_new_br_4: often<br>fix<br>fury<br>oak
+bip_39_word_new_br_5: often<br>fix<br>fury<br>oak<br>coffee
+bip_39_word_new_br_6: often<br>fix<br>fury<br>oak<br>coffee<br>diesel
+bip_39_word_new_br_7: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram
+bip_39_word_new_br_8: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther
+bip_39_word_new_br_9: often<br>fix<br>fury<br>oak<br>coffee<br>diesel<br>diagram<br>panther<br>humble
+bip_39_word_new_line_1: often
+bip_39_word_new_line_10: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram
+
+  panther
+
+  humble
+
+  secret'
+bip_39_word_new_line_11: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram
+
+  panther
+
+  humble
+
+  secret
+
+  either'
+bip_39_word_new_line_12: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram
+
+  panther
+
+  humble
+
+  secret
+
+  either
+
+  almost'
+bip_39_word_new_line_2: 'often
+
+  fix'
+bip_39_word_new_line_3: 'often
+
+  fix
+
+  fury'
+bip_39_word_new_line_4: 'often
+
+  fix
+
+  fury
+
+  oak'
+bip_39_word_new_line_5: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee'
+bip_39_word_new_line_6: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel'
+bip_39_word_new_line_7: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram'
+bip_39_word_new_line_8: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram
+
+  panther'
+bip_39_word_new_line_9: 'often
+
+  fix
+
+  fury
+
+  oak
+
+  coffee
+
+  diesel
+
+  diagram
+
+  panther
+
+  humble'
+bip_39_word_no_space_1: often
+bip_39_word_no_space_10: oftenfixfuryoakcoffeedieseldiagrampantherhumblesecret
+bip_39_word_no_space_11: oftenfixfuryoakcoffeedieseldiagrampantherhumblesecreteither
+bip_39_word_no_space_12: oftenfixfuryoakcoffeedieseldiagrampantherhumblesecreteitheralmost
+bip_39_word_no_space_2: oftenfix
+bip_39_word_no_space_3: oftenfixfury
+bip_39_word_no_space_4: oftenfixfuryoak
+bip_39_word_no_space_5: oftenfixfuryoakcoffee
+bip_39_word_no_space_6: oftenfixfuryoakcoffeediesel
+bip_39_word_no_space_7: oftenfixfuryoakcoffeedieseldiagram
+bip_39_word_no_space_8: oftenfixfuryoakcoffeedieseldiagrampanther
+bip_39_word_no_space_9: oftenfixfuryoakcoffeedieseldiagrampantherhumble
+bip_39_word_space_0:
+- often
+- fix
+- fury
+- oak
+- coffee
+- diesel
+- diagram
+- panther
+- humble
+- secret
+- either
+- almost
+bip_39_word_space_1: often
+bip_39_word_space_10: often fix fury oak coffee diesel diagram panther humble secret
+bip_39_word_space_11: often fix fury oak coffee diesel diagram panther humble secret
+  either
+bip_39_word_space_12: often fix fury oak coffee diesel diagram panther humble secret
+  either almost
+bip_39_word_space_2: often fix
+bip_39_word_space_3: often fix fury
+bip_39_word_space_4: often fix fury oak
+bip_39_word_space_5: often fix fury oak coffee
+bip_39_word_space_6: often fix fury oak coffee diesel
+bip_39_word_space_7: often fix fury oak coffee diesel diagram
+bip_39_word_space_8: often fix fury oak coffee diesel diagram panther
+bip_39_word_space_9: often fix fury oak coffee diesel diagram panther humble
+bip_39_word_underscore_1: often
+bip_39_word_underscore_10: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret
+bip_39_word_underscore_11: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret_either
+bip_39_word_underscore_12: often_fix_fury_oak_coffee_diesel_diagram_panther_humble_secret_either_almost
+bip_39_word_underscore_2: often_fix
+bip_39_word_underscore_3: often_fix_fury
+bip_39_word_underscore_4: often_fix_fury_oak
+bip_39_word_underscore_5: often_fix_fury_oak_coffee
+bip_39_word_underscore_6: often_fix_fury_oak_coffee_diesel
+bip_39_word_underscore_7: often_fix_fury_oak_coffee_diesel_diagram
+bip_39_word_underscore_8: often_fix_fury_oak_coffee_diesel_diagram_panther
+bip_39_word_underscore_9: often_fix_fury_oak_coffee_diesel_diagram_panther_humble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_05_15
 id_no_color: '120515'
 id_no_size: '12_05_15'
 id_no_type: tray_thin_12_05_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_05_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_05_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_05_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2048hf4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2048hf4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2048hf4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120515'
 name_no_size: 12 05 15
 name_no_size_short: 12 05 15
 name_no_type: Tray Thin 12 05 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_05_15
 oomp_word: blossom clipboard foggy
 oomp_word_emoji: ':blossom: :clipboard: :foggy:'

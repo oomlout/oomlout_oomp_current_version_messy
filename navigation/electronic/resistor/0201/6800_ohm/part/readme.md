@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0201 6800 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0201_6800_ohm
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :new_moon: :bouquet: :sailboat:
 * md5_6_alpha: 4b1sy
 * md5_6: 6e61e2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204b1sy)
+[2x1](http://192.168.1.242:1112/?label=oomp%204b1sy)
+[6x4](http://192.168.1.55:1112/?label=oomp%204b1sy)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_6800_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ library |
 | id_no_size | 6800_ohm |  
 | id_no_type | 0201_6800_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_6800_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_6800_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_6800_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204b1sy |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204b1sy |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204b1sy |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ library |
 | name_no_size | 6800 Ohm |  
 | name_no_size_short | 6k8 Ohm |  
 | name_no_type | 0201 6800 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0201_6800_ohm |  
 | oomp_word | new_moon bouquet sailboat |  
 | oomp_word_emoji | :new_moon: :bouquet: :sailboat: |  

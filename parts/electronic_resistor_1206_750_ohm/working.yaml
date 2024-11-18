@@ -1,3 +1,223 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight
+bip_39_word_dash_11: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight-danger
+bip_39_word_dash_12: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist-midnight-danger-accident
+bip_39_word_dash_2: federal-fortune
+bip_39_word_dash_3: federal-fortune-steak
+bip_39_word_dash_4: federal-fortune-steak-tattoo
+bip_39_word_dash_5: federal-fortune-steak-tattoo-faith
+bip_39_word_dash_6: federal-fortune-steak-tattoo-faith-teach
+bip_39_word_dash_7: federal-fortune-steak-tattoo-faith-teach-relax
+bip_39_word_dash_8: federal-fortune-steak-tattoo-faith-teach-relax-replace
+bip_39_word_dash_9: federal-fortune-steak-tattoo-faith-teach-relax-replace-assist
+bip_39_word_new_br_1: federal
+bip_39_word_new_br_10: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist<br>midnight
+bip_39_word_new_br_11: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist<br>midnight<br>danger
+bip_39_word_new_br_12: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist<br>midnight<br>danger<br>accident
+bip_39_word_new_br_2: federal<br>fortune
+bip_39_word_new_br_3: federal<br>fortune<br>steak
+bip_39_word_new_br_4: federal<br>fortune<br>steak<br>tattoo
+bip_39_word_new_br_5: federal<br>fortune<br>steak<br>tattoo<br>faith
+bip_39_word_new_br_6: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach
+bip_39_word_new_br_7: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax
+bip_39_word_new_br_8: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace
+bip_39_word_new_br_9: federal<br>fortune<br>steak<br>tattoo<br>faith<br>teach<br>relax<br>replace<br>assist
+bip_39_word_new_line_1: federal
+bip_39_word_new_line_10: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax
+
+  replace
+
+  assist
+
+  midnight'
+bip_39_word_new_line_11: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax
+
+  replace
+
+  assist
+
+  midnight
+
+  danger'
+bip_39_word_new_line_12: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax
+
+  replace
+
+  assist
+
+  midnight
+
+  danger
+
+  accident'
+bip_39_word_new_line_2: 'federal
+
+  fortune'
+bip_39_word_new_line_3: 'federal
+
+  fortune
+
+  steak'
+bip_39_word_new_line_4: 'federal
+
+  fortune
+
+  steak
+
+  tattoo'
+bip_39_word_new_line_5: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith'
+bip_39_word_new_line_6: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach'
+bip_39_word_new_line_7: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax'
+bip_39_word_new_line_8: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax
+
+  replace'
+bip_39_word_new_line_9: 'federal
+
+  fortune
+
+  steak
+
+  tattoo
+
+  faith
+
+  teach
+
+  relax
+
+  replace
+
+  assist'
+bip_39_word_no_space_1: federal
+bip_39_word_no_space_10: federalfortunesteaktattoofaithteachrelaxreplaceassistmidnight
+bip_39_word_no_space_11: federalfortunesteaktattoofaithteachrelaxreplaceassistmidnightdanger
+bip_39_word_no_space_12: federalfortunesteaktattoofaithteachrelaxreplaceassistmidnightdangeraccident
+bip_39_word_no_space_2: federalfortune
+bip_39_word_no_space_3: federalfortunesteak
+bip_39_word_no_space_4: federalfortunesteaktattoo
+bip_39_word_no_space_5: federalfortunesteaktattoofaith
+bip_39_word_no_space_6: federalfortunesteaktattoofaithteach
+bip_39_word_no_space_7: federalfortunesteaktattoofaithteachrelax
+bip_39_word_no_space_8: federalfortunesteaktattoofaithteachrelaxreplace
+bip_39_word_no_space_9: federalfortunesteaktattoofaithteachrelaxreplaceassist
+bip_39_word_space_0:
+- federal
+- fortune
+- steak
+- tattoo
+- faith
+- teach
+- relax
+- replace
+- assist
+- midnight
+- danger
+- accident
+bip_39_word_space_1: federal
+bip_39_word_space_10: federal fortune steak tattoo faith teach relax replace assist
+  midnight
+bip_39_word_space_11: federal fortune steak tattoo faith teach relax replace assist
+  midnight danger
+bip_39_word_space_12: federal fortune steak tattoo faith teach relax replace assist
+  midnight danger accident
+bip_39_word_space_2: federal fortune
+bip_39_word_space_3: federal fortune steak
+bip_39_word_space_4: federal fortune steak tattoo
+bip_39_word_space_5: federal fortune steak tattoo faith
+bip_39_word_space_6: federal fortune steak tattoo faith teach
+bip_39_word_space_7: federal fortune steak tattoo faith teach relax
+bip_39_word_space_8: federal fortune steak tattoo faith teach relax replace
+bip_39_word_space_9: federal fortune steak tattoo faith teach relax replace assist
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight
+bip_39_word_underscore_11: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight_danger
+bip_39_word_underscore_12: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist_midnight_danger_accident
+bip_39_word_underscore_2: federal_fortune
+bip_39_word_underscore_3: federal_fortune_steak
+bip_39_word_underscore_4: federal_fortune_steak_tattoo
+bip_39_word_underscore_5: federal_fortune_steak_tattoo_faith
+bip_39_word_underscore_6: federal_fortune_steak_tattoo_faith_teach
+bip_39_word_underscore_7: federal_fortune_steak_tattoo_faith_teach_relax
+bip_39_word_underscore_8: federal_fortune_steak_tattoo_faith_teach_relax_replace
+bip_39_word_underscore_9: federal_fortune_steak_tattoo_faith_teach_relax_replace_assist
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +316,14 @@ id_no_color: 750ohm
 id_no_size: 750_ohm
 id_no_type: 1206_750_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_750_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_750_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20vieb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20vieb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20vieb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +349,7 @@ name_no_color: 750Ohm
 name_no_size: 750 Ohm
 name_no_size_short: 750 Ohm
 name_no_type: 1206 750 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_750_ohm
 oomp_word: thumbsup new_moon rowboat
 oomp_word_emoji: ':thumbsup: :new_moon: :rowboat:'

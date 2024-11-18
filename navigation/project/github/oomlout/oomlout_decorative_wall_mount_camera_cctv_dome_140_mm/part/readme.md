@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Decorative Wall Mount Camera Cctv Dome 140 mm
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bamboo: :five: :blush:
 * md5_6_alpha: 4g2rm
 * md5_6: 71f602
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204g2rm)
+[2x1](http://192.168.1.242:1112/?label=oomp%204g2rm)
+[6x4](http://192.168.1.55:1112/?label=oomp%204g2rm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ betray |
 | id_no_color | decorative_wall_mount_camera_cctv_dome_140_mm |  
 | id_no_size | decorative_wall_mount_camera_cctv_dome_140_mm |  
 | id_no_type | oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204g2rm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204g2rm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204g2rm |  
 | link_redirect | https://github.com/oomlout/oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ betray |
 | name_no_size | Decorative Wall Mount Camera Cctv Dome 140 mm |  
 | name_no_size_short | Decorative Wall Mount Camera Cctv Dome 140 Mm |  
 | name_no_type | Oomlout Oomlout Decorative Wall Mount Camera Cctv Dome 140 mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_decorative_wall_mount_camera_cctv_dome_140_mm |  
 | oomp_word | bamboo five blush |  
 | oomp_word_emoji | :bamboo: :five: :blush: |  

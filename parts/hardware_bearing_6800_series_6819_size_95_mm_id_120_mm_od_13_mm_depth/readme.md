@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6800 Series 6819 Size 95 mm ID 120 mm OD 13 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6800_series_6819_size_95_mm_id_120_mm_od_13_mm_depth
   * classification: hardware

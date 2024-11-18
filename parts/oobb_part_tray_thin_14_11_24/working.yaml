@@ -1,3 +1,222 @@
+bip_39_word_dash_1: swift
+bip_39_word_dash_10: swift-bus-car-grape-name-awesome-salmon-analyst-wise-afford
+bip_39_word_dash_11: swift-bus-car-grape-name-awesome-salmon-analyst-wise-afford-coil
+bip_39_word_dash_12: swift-bus-car-grape-name-awesome-salmon-analyst-wise-afford-coil-author
+bip_39_word_dash_2: swift-bus
+bip_39_word_dash_3: swift-bus-car
+bip_39_word_dash_4: swift-bus-car-grape
+bip_39_word_dash_5: swift-bus-car-grape-name
+bip_39_word_dash_6: swift-bus-car-grape-name-awesome
+bip_39_word_dash_7: swift-bus-car-grape-name-awesome-salmon
+bip_39_word_dash_8: swift-bus-car-grape-name-awesome-salmon-analyst
+bip_39_word_dash_9: swift-bus-car-grape-name-awesome-salmon-analyst-wise
+bip_39_word_new_br_1: swift
+bip_39_word_new_br_10: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford
+bip_39_word_new_br_11: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil
+bip_39_word_new_br_12: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise<br>afford<br>coil<br>author
+bip_39_word_new_br_2: swift<br>bus
+bip_39_word_new_br_3: swift<br>bus<br>car
+bip_39_word_new_br_4: swift<br>bus<br>car<br>grape
+bip_39_word_new_br_5: swift<br>bus<br>car<br>grape<br>name
+bip_39_word_new_br_6: swift<br>bus<br>car<br>grape<br>name<br>awesome
+bip_39_word_new_br_7: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon
+bip_39_word_new_br_8: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst
+bip_39_word_new_br_9: swift<br>bus<br>car<br>grape<br>name<br>awesome<br>salmon<br>analyst<br>wise
+bip_39_word_new_line_1: swift
+bip_39_word_new_line_10: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon
+
+  analyst
+
+  wise
+
+  afford'
+bip_39_word_new_line_11: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon
+
+  analyst
+
+  wise
+
+  afford
+
+  coil'
+bip_39_word_new_line_12: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon
+
+  analyst
+
+  wise
+
+  afford
+
+  coil
+
+  author'
+bip_39_word_new_line_2: 'swift
+
+  bus'
+bip_39_word_new_line_3: 'swift
+
+  bus
+
+  car'
+bip_39_word_new_line_4: 'swift
+
+  bus
+
+  car
+
+  grape'
+bip_39_word_new_line_5: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name'
+bip_39_word_new_line_6: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome'
+bip_39_word_new_line_7: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon'
+bip_39_word_new_line_8: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon
+
+  analyst'
+bip_39_word_new_line_9: 'swift
+
+  bus
+
+  car
+
+  grape
+
+  name
+
+  awesome
+
+  salmon
+
+  analyst
+
+  wise'
+bip_39_word_no_space_1: swift
+bip_39_word_no_space_10: swiftbuscargrapenameawesomesalmonanalystwiseafford
+bip_39_word_no_space_11: swiftbuscargrapenameawesomesalmonanalystwiseaffordcoil
+bip_39_word_no_space_12: swiftbuscargrapenameawesomesalmonanalystwiseaffordcoilauthor
+bip_39_word_no_space_2: swiftbus
+bip_39_word_no_space_3: swiftbuscar
+bip_39_word_no_space_4: swiftbuscargrape
+bip_39_word_no_space_5: swiftbuscargrapename
+bip_39_word_no_space_6: swiftbuscargrapenameawesome
+bip_39_word_no_space_7: swiftbuscargrapenameawesomesalmon
+bip_39_word_no_space_8: swiftbuscargrapenameawesomesalmonanalyst
+bip_39_word_no_space_9: swiftbuscargrapenameawesomesalmonanalystwise
+bip_39_word_space_0:
+- swift
+- bus
+- car
+- grape
+- name
+- awesome
+- salmon
+- analyst
+- wise
+- afford
+- coil
+- author
+bip_39_word_space_1: swift
+bip_39_word_space_10: swift bus car grape name awesome salmon analyst wise afford
+bip_39_word_space_11: swift bus car grape name awesome salmon analyst wise afford
+  coil
+bip_39_word_space_12: swift bus car grape name awesome salmon analyst wise afford
+  coil author
+bip_39_word_space_2: swift bus
+bip_39_word_space_3: swift bus car
+bip_39_word_space_4: swift bus car grape
+bip_39_word_space_5: swift bus car grape name
+bip_39_word_space_6: swift bus car grape name awesome
+bip_39_word_space_7: swift bus car grape name awesome salmon
+bip_39_word_space_8: swift bus car grape name awesome salmon analyst
+bip_39_word_space_9: swift bus car grape name awesome salmon analyst wise
+bip_39_word_underscore_1: swift
+bip_39_word_underscore_10: swift_bus_car_grape_name_awesome_salmon_analyst_wise_afford
+bip_39_word_underscore_11: swift_bus_car_grape_name_awesome_salmon_analyst_wise_afford_coil
+bip_39_word_underscore_12: swift_bus_car_grape_name_awesome_salmon_analyst_wise_afford_coil_author
+bip_39_word_underscore_2: swift_bus
+bip_39_word_underscore_3: swift_bus_car
+bip_39_word_underscore_4: swift_bus_car_grape
+bip_39_word_underscore_5: swift_bus_car_grape_name
+bip_39_word_underscore_6: swift_bus_car_grape_name_awesome
+bip_39_word_underscore_7: swift_bus_car_grape_name_awesome_salmon
+bip_39_word_underscore_8: swift_bus_car_grape_name_awesome_salmon_analyst
+bip_39_word_underscore_9: swift_bus_car_grape_name_awesome_salmon_analyst_wise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_11_24
 id_no_color: '141124'
 id_no_size: '14_11_24'
 id_no_type: tray_thin_14_11_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_11_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_11_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_11_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209m1kx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209m1kx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209m1kx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141124'
 name_no_size: 14 11 24
 name_no_size_short: 14 11 24
 name_no_type: Tray Thin 14 11 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_11_24
 oomp_word: five goat watch
 oomp_word_emoji: ':five: :goat: :watch:'

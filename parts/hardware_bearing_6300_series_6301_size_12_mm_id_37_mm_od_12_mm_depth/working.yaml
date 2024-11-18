@@ -1,3 +1,222 @@
+bip_39_word_dash_1: praise
+bip_39_word_dash_10: praise-remind-knock-bitter-icon-patch-merge-escape-gorilla-vanish
+bip_39_word_dash_11: praise-remind-knock-bitter-icon-patch-merge-escape-gorilla-vanish-bid
+bip_39_word_dash_12: praise-remind-knock-bitter-icon-patch-merge-escape-gorilla-vanish-bid-agent
+bip_39_word_dash_2: praise-remind
+bip_39_word_dash_3: praise-remind-knock
+bip_39_word_dash_4: praise-remind-knock-bitter
+bip_39_word_dash_5: praise-remind-knock-bitter-icon
+bip_39_word_dash_6: praise-remind-knock-bitter-icon-patch
+bip_39_word_dash_7: praise-remind-knock-bitter-icon-patch-merge
+bip_39_word_dash_8: praise-remind-knock-bitter-icon-patch-merge-escape
+bip_39_word_dash_9: praise-remind-knock-bitter-icon-patch-merge-escape-gorilla
+bip_39_word_new_br_1: praise
+bip_39_word_new_br_10: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish
+bip_39_word_new_br_11: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid
+bip_39_word_new_br_12: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla<br>vanish<br>bid<br>agent
+bip_39_word_new_br_2: praise<br>remind
+bip_39_word_new_br_3: praise<br>remind<br>knock
+bip_39_word_new_br_4: praise<br>remind<br>knock<br>bitter
+bip_39_word_new_br_5: praise<br>remind<br>knock<br>bitter<br>icon
+bip_39_word_new_br_6: praise<br>remind<br>knock<br>bitter<br>icon<br>patch
+bip_39_word_new_br_7: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge
+bip_39_word_new_br_8: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape
+bip_39_word_new_br_9: praise<br>remind<br>knock<br>bitter<br>icon<br>patch<br>merge<br>escape<br>gorilla
+bip_39_word_new_line_1: praise
+bip_39_word_new_line_10: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge
+
+  escape
+
+  gorilla
+
+  vanish'
+bip_39_word_new_line_11: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge
+
+  escape
+
+  gorilla
+
+  vanish
+
+  bid'
+bip_39_word_new_line_12: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge
+
+  escape
+
+  gorilla
+
+  vanish
+
+  bid
+
+  agent'
+bip_39_word_new_line_2: 'praise
+
+  remind'
+bip_39_word_new_line_3: 'praise
+
+  remind
+
+  knock'
+bip_39_word_new_line_4: 'praise
+
+  remind
+
+  knock
+
+  bitter'
+bip_39_word_new_line_5: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon'
+bip_39_word_new_line_6: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch'
+bip_39_word_new_line_7: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge'
+bip_39_word_new_line_8: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge
+
+  escape'
+bip_39_word_new_line_9: 'praise
+
+  remind
+
+  knock
+
+  bitter
+
+  icon
+
+  patch
+
+  merge
+
+  escape
+
+  gorilla'
+bip_39_word_no_space_1: praise
+bip_39_word_no_space_10: praiseremindknockbittericonpatchmergeescapegorillavanish
+bip_39_word_no_space_11: praiseremindknockbittericonpatchmergeescapegorillavanishbid
+bip_39_word_no_space_12: praiseremindknockbittericonpatchmergeescapegorillavanishbidagent
+bip_39_word_no_space_2: praiseremind
+bip_39_word_no_space_3: praiseremindknock
+bip_39_word_no_space_4: praiseremindknockbitter
+bip_39_word_no_space_5: praiseremindknockbittericon
+bip_39_word_no_space_6: praiseremindknockbittericonpatch
+bip_39_word_no_space_7: praiseremindknockbittericonpatchmerge
+bip_39_word_no_space_8: praiseremindknockbittericonpatchmergeescape
+bip_39_word_no_space_9: praiseremindknockbittericonpatchmergeescapegorilla
+bip_39_word_space_0:
+- praise
+- remind
+- knock
+- bitter
+- icon
+- patch
+- merge
+- escape
+- gorilla
+- vanish
+- bid
+- agent
+bip_39_word_space_1: praise
+bip_39_word_space_10: praise remind knock bitter icon patch merge escape gorilla vanish
+bip_39_word_space_11: praise remind knock bitter icon patch merge escape gorilla vanish
+  bid
+bip_39_word_space_12: praise remind knock bitter icon patch merge escape gorilla vanish
+  bid agent
+bip_39_word_space_2: praise remind
+bip_39_word_space_3: praise remind knock
+bip_39_word_space_4: praise remind knock bitter
+bip_39_word_space_5: praise remind knock bitter icon
+bip_39_word_space_6: praise remind knock bitter icon patch
+bip_39_word_space_7: praise remind knock bitter icon patch merge
+bip_39_word_space_8: praise remind knock bitter icon patch merge escape
+bip_39_word_space_9: praise remind knock bitter icon patch merge escape gorilla
+bip_39_word_underscore_1: praise
+bip_39_word_underscore_10: praise_remind_knock_bitter_icon_patch_merge_escape_gorilla_vanish
+bip_39_word_underscore_11: praise_remind_knock_bitter_icon_patch_merge_escape_gorilla_vanish_bid
+bip_39_word_underscore_12: praise_remind_knock_bitter_icon_patch_merge_escape_gorilla_vanish_bid_agent
+bip_39_word_underscore_2: praise_remind
+bip_39_word_underscore_3: praise_remind_knock
+bip_39_word_underscore_4: praise_remind_knock_bitter
+bip_39_word_underscore_5: praise_remind_knock_bitter_icon
+bip_39_word_underscore_6: praise_remind_knock_bitter_icon_patch
+bip_39_word_underscore_7: praise_remind_knock_bitter_icon_patch_merge
+bip_39_word_underscore_8: praise_remind_knock_bitter_icon_patch_merge_escape
+bip_39_word_underscore_9: praise_remind_knock_bitter_icon_patch_merge_escape_gorilla
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
 id_no_color: 12_mm_id_37_mm_od_12_mm_depth
 id_no_size: 6301_size_12_mm_id_37_mm_od_12_mm_depth
 id_no_type: 6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2031t18
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2031t18
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2031t18
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 12 mm ID 37 mm OD 12 mm Depth
 name_no_size: 6301 Size 12 mm ID 37 mm OD 12 mm Depth
 name_no_size_short: 6301 Size 12 Mm Id 37 Mm Od 12 Mm Depth
 name_no_type: 6300 Series 6301 Size 12 mm ID 37 mm OD 12 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6301
+oomlout_short_code_upper: BR6301
 oomp_key: oomp_hardware_bearing_6300_series_6301_size_12_mm_id_37_mm_od_12_mm_depth
 oomp_word: honeybee snowflake pig
 oomp_word_emoji: ':honeybee: :snowflake: :pig:'

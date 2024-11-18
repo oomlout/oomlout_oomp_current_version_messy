@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sun
+bip_39_word_dash_10: sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix
+bip_39_word_dash_11: sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix-program
+bip_39_word_dash_12: sun-add-indicate-stove-luggage-other-humor-prosper-sort-fix-program-asthma
+bip_39_word_dash_2: sun-add
+bip_39_word_dash_3: sun-add-indicate
+bip_39_word_dash_4: sun-add-indicate-stove
+bip_39_word_dash_5: sun-add-indicate-stove-luggage
+bip_39_word_dash_6: sun-add-indicate-stove-luggage-other
+bip_39_word_dash_7: sun-add-indicate-stove-luggage-other-humor
+bip_39_word_dash_8: sun-add-indicate-stove-luggage-other-humor-prosper
+bip_39_word_dash_9: sun-add-indicate-stove-luggage-other-humor-prosper-sort
+bip_39_word_new_br_1: sun
+bip_39_word_new_br_10: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix
+bip_39_word_new_br_11: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program
+bip_39_word_new_br_12: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort<br>fix<br>program<br>asthma
+bip_39_word_new_br_2: sun<br>add
+bip_39_word_new_br_3: sun<br>add<br>indicate
+bip_39_word_new_br_4: sun<br>add<br>indicate<br>stove
+bip_39_word_new_br_5: sun<br>add<br>indicate<br>stove<br>luggage
+bip_39_word_new_br_6: sun<br>add<br>indicate<br>stove<br>luggage<br>other
+bip_39_word_new_br_7: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor
+bip_39_word_new_br_8: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper
+bip_39_word_new_br_9: sun<br>add<br>indicate<br>stove<br>luggage<br>other<br>humor<br>prosper<br>sort
+bip_39_word_new_line_1: sun
+bip_39_word_new_line_10: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix'
+bip_39_word_new_line_11: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix
+
+  program'
+bip_39_word_new_line_12: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort
+
+  fix
+
+  program
+
+  asthma'
+bip_39_word_new_line_2: 'sun
+
+  add'
+bip_39_word_new_line_3: 'sun
+
+  add
+
+  indicate'
+bip_39_word_new_line_4: 'sun
+
+  add
+
+  indicate
+
+  stove'
+bip_39_word_new_line_5: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage'
+bip_39_word_new_line_6: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other'
+bip_39_word_new_line_7: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor'
+bip_39_word_new_line_8: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper'
+bip_39_word_new_line_9: 'sun
+
+  add
+
+  indicate
+
+  stove
+
+  luggage
+
+  other
+
+  humor
+
+  prosper
+
+  sort'
+bip_39_word_no_space_1: sun
+bip_39_word_no_space_10: sunaddindicatestoveluggageotherhumorprospersortfix
+bip_39_word_no_space_11: sunaddindicatestoveluggageotherhumorprospersortfixprogram
+bip_39_word_no_space_12: sunaddindicatestoveluggageotherhumorprospersortfixprogramasthma
+bip_39_word_no_space_2: sunadd
+bip_39_word_no_space_3: sunaddindicate
+bip_39_word_no_space_4: sunaddindicatestove
+bip_39_word_no_space_5: sunaddindicatestoveluggage
+bip_39_word_no_space_6: sunaddindicatestoveluggageother
+bip_39_word_no_space_7: sunaddindicatestoveluggageotherhumor
+bip_39_word_no_space_8: sunaddindicatestoveluggageotherhumorprosper
+bip_39_word_no_space_9: sunaddindicatestoveluggageotherhumorprospersort
+bip_39_word_space_0:
+- sun
+- add
+- indicate
+- stove
+- luggage
+- other
+- humor
+- prosper
+- sort
+- fix
+- program
+- asthma
+bip_39_word_space_1: sun
+bip_39_word_space_10: sun add indicate stove luggage other humor prosper sort fix
+bip_39_word_space_11: sun add indicate stove luggage other humor prosper sort fix
+  program
+bip_39_word_space_12: sun add indicate stove luggage other humor prosper sort fix
+  program asthma
+bip_39_word_space_2: sun add
+bip_39_word_space_3: sun add indicate
+bip_39_word_space_4: sun add indicate stove
+bip_39_word_space_5: sun add indicate stove luggage
+bip_39_word_space_6: sun add indicate stove luggage other
+bip_39_word_space_7: sun add indicate stove luggage other humor
+bip_39_word_space_8: sun add indicate stove luggage other humor prosper
+bip_39_word_space_9: sun add indicate stove luggage other humor prosper sort
+bip_39_word_underscore_1: sun
+bip_39_word_underscore_10: sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix
+bip_39_word_underscore_11: sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix_program
+bip_39_word_underscore_12: sun_add_indicate_stove_luggage_other_humor_prosper_sort_fix_program_asthma
+bip_39_word_underscore_2: sun_add
+bip_39_word_underscore_3: sun_add_indicate
+bip_39_word_underscore_4: sun_add_indicate_stove
+bip_39_word_underscore_5: sun_add_indicate_stove_luggage
+bip_39_word_underscore_6: sun_add_indicate_stove_luggage_other
+bip_39_word_underscore_7: sun_add_indicate_stove_luggage_other_humor
+bip_39_word_underscore_8: sun_add_indicate_stove_luggage_other_humor_prosper
+bip_39_word_underscore_9: sun_add_indicate_stove_luggage_other_humor_prosper_sort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_11_27
 id_no_color: 081127
 id_no_size: 08_11_27
 id_no_type: tray_08_11_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208sj4m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208sj4m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208sj4m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081127
 name_no_size: 08 11 27
 name_no_size_short: 08 11 27
 name_no_type: Tray 08 11 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_11_27
 oomp_word: boat rat school
 oomp_word_emoji: ':boat: :rat: :school:'

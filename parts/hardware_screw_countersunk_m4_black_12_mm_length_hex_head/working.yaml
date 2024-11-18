@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420669108'
+bip_39_word_dash_1: pledge
+bip_39_word_dash_10: pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only
+bip_39_word_dash_11: pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only-patient
+bip_39_word_dash_12: pledge-shaft-cement-dove-cement-original-naive-coast-traffic-only-patient-afford
+bip_39_word_dash_2: pledge-shaft
+bip_39_word_dash_3: pledge-shaft-cement
+bip_39_word_dash_4: pledge-shaft-cement-dove
+bip_39_word_dash_5: pledge-shaft-cement-dove-cement
+bip_39_word_dash_6: pledge-shaft-cement-dove-cement-original
+bip_39_word_dash_7: pledge-shaft-cement-dove-cement-original-naive
+bip_39_word_dash_8: pledge-shaft-cement-dove-cement-original-naive-coast
+bip_39_word_dash_9: pledge-shaft-cement-dove-cement-original-naive-coast-traffic
+bip_39_word_new_br_1: pledge
+bip_39_word_new_br_10: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only
+bip_39_word_new_br_11: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient
+bip_39_word_new_br_12: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic<br>only<br>patient<br>afford
+bip_39_word_new_br_2: pledge<br>shaft
+bip_39_word_new_br_3: pledge<br>shaft<br>cement
+bip_39_word_new_br_4: pledge<br>shaft<br>cement<br>dove
+bip_39_word_new_br_5: pledge<br>shaft<br>cement<br>dove<br>cement
+bip_39_word_new_br_6: pledge<br>shaft<br>cement<br>dove<br>cement<br>original
+bip_39_word_new_br_7: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive
+bip_39_word_new_br_8: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast
+bip_39_word_new_br_9: pledge<br>shaft<br>cement<br>dove<br>cement<br>original<br>naive<br>coast<br>traffic
+bip_39_word_new_line_1: pledge
+bip_39_word_new_line_10: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive
+
+  coast
+
+  traffic
+
+  only'
+bip_39_word_new_line_11: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive
+
+  coast
+
+  traffic
+
+  only
+
+  patient'
+bip_39_word_new_line_12: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive
+
+  coast
+
+  traffic
+
+  only
+
+  patient
+
+  afford'
+bip_39_word_new_line_2: 'pledge
+
+  shaft'
+bip_39_word_new_line_3: 'pledge
+
+  shaft
+
+  cement'
+bip_39_word_new_line_4: 'pledge
+
+  shaft
+
+  cement
+
+  dove'
+bip_39_word_new_line_5: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement'
+bip_39_word_new_line_6: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original'
+bip_39_word_new_line_7: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive'
+bip_39_word_new_line_8: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive
+
+  coast'
+bip_39_word_new_line_9: 'pledge
+
+  shaft
+
+  cement
+
+  dove
+
+  cement
+
+  original
+
+  naive
+
+  coast
+
+  traffic'
+bip_39_word_no_space_1: pledge
+bip_39_word_no_space_10: pledgeshaftcementdovecementoriginalnaivecoasttrafficonly
+bip_39_word_no_space_11: pledgeshaftcementdovecementoriginalnaivecoasttrafficonlypatient
+bip_39_word_no_space_12: pledgeshaftcementdovecementoriginalnaivecoasttrafficonlypatientafford
+bip_39_word_no_space_2: pledgeshaft
+bip_39_word_no_space_3: pledgeshaftcement
+bip_39_word_no_space_4: pledgeshaftcementdove
+bip_39_word_no_space_5: pledgeshaftcementdovecement
+bip_39_word_no_space_6: pledgeshaftcementdovecementoriginal
+bip_39_word_no_space_7: pledgeshaftcementdovecementoriginalnaive
+bip_39_word_no_space_8: pledgeshaftcementdovecementoriginalnaivecoast
+bip_39_word_no_space_9: pledgeshaftcementdovecementoriginalnaivecoasttraffic
+bip_39_word_space_0:
+- pledge
+- shaft
+- cement
+- dove
+- cement
+- original
+- naive
+- coast
+- traffic
+- only
+- patient
+- afford
+bip_39_word_space_1: pledge
+bip_39_word_space_10: pledge shaft cement dove cement original naive coast traffic
+  only
+bip_39_word_space_11: pledge shaft cement dove cement original naive coast traffic
+  only patient
+bip_39_word_space_12: pledge shaft cement dove cement original naive coast traffic
+  only patient afford
+bip_39_word_space_2: pledge shaft
+bip_39_word_space_3: pledge shaft cement
+bip_39_word_space_4: pledge shaft cement dove
+bip_39_word_space_5: pledge shaft cement dove cement
+bip_39_word_space_6: pledge shaft cement dove cement original
+bip_39_word_space_7: pledge shaft cement dove cement original naive
+bip_39_word_space_8: pledge shaft cement dove cement original naive coast
+bip_39_word_space_9: pledge shaft cement dove cement original naive coast traffic
+bip_39_word_underscore_1: pledge
+bip_39_word_underscore_10: pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only
+bip_39_word_underscore_11: pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only_patient
+bip_39_word_underscore_12: pledge_shaft_cement_dove_cement_original_naive_coast_traffic_only_patient_afford
+bip_39_word_underscore_2: pledge_shaft
+bip_39_word_underscore_3: pledge_shaft_cement
+bip_39_word_underscore_4: pledge_shaft_cement_dove
+bip_39_word_underscore_5: pledge_shaft_cement_dove_cement
+bip_39_word_underscore_6: pledge_shaft_cement_dove_cement_original
+bip_39_word_underscore_7: pledge_shaft_cement_dove_cement_original_naive
+bip_39_word_underscore_8: pledge_shaft_cement_dove_cement_original_naive_coast
+bip_39_word_underscore_9: pledge_shaft_cement_dove_cement_original_naive_coast_traffic
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +358,22 @@ id_no_color: 12_mm_length_hex_head
 id_no_size: black_12_mm_length_hex_head
 id_no_type: m4_black_12_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-12-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m4-x-12-socket-csk-screw-gr10-9-self-colour-din-79-1151m450012
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-12-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-12-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_12_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202s3dy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202s3dy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202s3dy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -166,6 +401,26 @@ name_no_color: 12 mm Length Hex Head
 name_no_size: Black 12 mm Length Hex Head
 name_no_size_short: Black 12 Mm Length Hex Head
 name_no_type: M4 Black 12 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 12 mm
+oomlout_bolt_length_no_unit: '12'
+oomlout_bolt_md5_6_alpha_first_3: 2s3
+oomlout_bolt_md5_6_alpha_first_3_upper: 2S3
+oomlout_bolt_md5_6_alpha_last_3: dy
+oomlout_bolt_md5_6_alpha_last_3_upper: DY
+oomlout_bolt_md5_6_first_3: '474'
+oomlout_bolt_md5_6_first_3_upper: '474'
+oomlout_bolt_md5_6_last_3: '226'
+oomlout_bolt_md5_6_last_3_upper: '226'
+oomlout_bolt_name: Countersunk M4X12 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs4b12h
+oomlout_short_code_upper: CS4B12H
 oomp_id: hardware_screw_countersunk_m4_black_12_mm_length_hex_head
 oomp_key: oomp_hardware_screw_countersunk_m4_black_12_mm_length_hex_head
 oomp_word: baby_chick sheep eyes
@@ -190,12 +445,22 @@ price_1: '0.0302'
 price_100: '0.0302'
 price_1000: '0.0134'
 price_10000: '0.0134'
+price_10000_distributor_1: '0.0134'
 price_10000_distributor_orbital_fasteners: '0.0134'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0134'
 price_1000_distributor_orbital_fasteners: '0.0134'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0302'
 price_100_distributor_orbital_fasteners: '0.0302'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0302'
 price_1_distributor_orbital_fasteners: '0.0302'
+price_1_name: orbital_fasteners
 price_200: '0.0168'
+price_200_distributor_1: '0.0168'
 price_200_distributor_orbital_fasteners: '0.0168'
+price_200_name: orbital_fasteners
 price_current: missing_value
 short_code: cs4b12h
 short_code_upper: CS4B12H

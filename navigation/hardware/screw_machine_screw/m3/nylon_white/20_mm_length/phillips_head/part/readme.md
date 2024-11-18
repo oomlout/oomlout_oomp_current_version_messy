@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Machine Screw M3 Nylon White 20 mm Length Phillips Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :office: :bowling: :tennis:
 * md5_6_alpha: 8eufs
 * md5_6: d79998
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208eufs)
+[2x1](http://192.168.1.242:1112/?label=oomp%208eufs)
+[6x4](http://192.168.1.55:1112/?label=oomp%208eufs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -306,7 +332,14 @@ elder |
 | id_no_size | nylon_white_20_mm_length_phillips_head |  
 | id_no_type | m3_nylon_white_20_mm_length_phillips_head |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208eufs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208eufs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208eufs |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -331,6 +364,7 @@ elder |
 | name_no_size | Nylon White 20 mm Length Phillips Head |  
 | name_no_size_short | Nylon White 20 Mm Length Phillips Head |  
 | name_no_type | M3 Nylon White 20 mm Length Phillips Head |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ms3nw20p |  
 | oomlout_short_code_upper | MS3NW20P |  
 | oomp_key | oomp_hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head |  

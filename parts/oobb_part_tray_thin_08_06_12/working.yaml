@@ -1,3 +1,222 @@
+bip_39_word_dash_1: duck
+bip_39_word_dash_10: duck-canoe-next-gorilla-hidden-move-nominee-piano-gaze-buffalo
+bip_39_word_dash_11: duck-canoe-next-gorilla-hidden-move-nominee-piano-gaze-buffalo-control
+bip_39_word_dash_12: duck-canoe-next-gorilla-hidden-move-nominee-piano-gaze-buffalo-control-army
+bip_39_word_dash_2: duck-canoe
+bip_39_word_dash_3: duck-canoe-next
+bip_39_word_dash_4: duck-canoe-next-gorilla
+bip_39_word_dash_5: duck-canoe-next-gorilla-hidden
+bip_39_word_dash_6: duck-canoe-next-gorilla-hidden-move
+bip_39_word_dash_7: duck-canoe-next-gorilla-hidden-move-nominee
+bip_39_word_dash_8: duck-canoe-next-gorilla-hidden-move-nominee-piano
+bip_39_word_dash_9: duck-canoe-next-gorilla-hidden-move-nominee-piano-gaze
+bip_39_word_new_br_1: duck
+bip_39_word_new_br_10: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo
+bip_39_word_new_br_11: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control
+bip_39_word_new_br_12: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze<br>buffalo<br>control<br>army
+bip_39_word_new_br_2: duck<br>canoe
+bip_39_word_new_br_3: duck<br>canoe<br>next
+bip_39_word_new_br_4: duck<br>canoe<br>next<br>gorilla
+bip_39_word_new_br_5: duck<br>canoe<br>next<br>gorilla<br>hidden
+bip_39_word_new_br_6: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move
+bip_39_word_new_br_7: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee
+bip_39_word_new_br_8: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano
+bip_39_word_new_br_9: duck<br>canoe<br>next<br>gorilla<br>hidden<br>move<br>nominee<br>piano<br>gaze
+bip_39_word_new_line_1: duck
+bip_39_word_new_line_10: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee
+
+  piano
+
+  gaze
+
+  buffalo'
+bip_39_word_new_line_11: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee
+
+  piano
+
+  gaze
+
+  buffalo
+
+  control'
+bip_39_word_new_line_12: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee
+
+  piano
+
+  gaze
+
+  buffalo
+
+  control
+
+  army'
+bip_39_word_new_line_2: 'duck
+
+  canoe'
+bip_39_word_new_line_3: 'duck
+
+  canoe
+
+  next'
+bip_39_word_new_line_4: 'duck
+
+  canoe
+
+  next
+
+  gorilla'
+bip_39_word_new_line_5: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden'
+bip_39_word_new_line_6: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move'
+bip_39_word_new_line_7: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee'
+bip_39_word_new_line_8: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee
+
+  piano'
+bip_39_word_new_line_9: 'duck
+
+  canoe
+
+  next
+
+  gorilla
+
+  hidden
+
+  move
+
+  nominee
+
+  piano
+
+  gaze'
+bip_39_word_no_space_1: duck
+bip_39_word_no_space_10: duckcanoenextgorillahiddenmovenomineepianogazebuffalo
+bip_39_word_no_space_11: duckcanoenextgorillahiddenmovenomineepianogazebuffalocontrol
+bip_39_word_no_space_12: duckcanoenextgorillahiddenmovenomineepianogazebuffalocontrolarmy
+bip_39_word_no_space_2: duckcanoe
+bip_39_word_no_space_3: duckcanoenext
+bip_39_word_no_space_4: duckcanoenextgorilla
+bip_39_word_no_space_5: duckcanoenextgorillahidden
+bip_39_word_no_space_6: duckcanoenextgorillahiddenmove
+bip_39_word_no_space_7: duckcanoenextgorillahiddenmovenominee
+bip_39_word_no_space_8: duckcanoenextgorillahiddenmovenomineepiano
+bip_39_word_no_space_9: duckcanoenextgorillahiddenmovenomineepianogaze
+bip_39_word_space_0:
+- duck
+- canoe
+- next
+- gorilla
+- hidden
+- move
+- nominee
+- piano
+- gaze
+- buffalo
+- control
+- army
+bip_39_word_space_1: duck
+bip_39_word_space_10: duck canoe next gorilla hidden move nominee piano gaze buffalo
+bip_39_word_space_11: duck canoe next gorilla hidden move nominee piano gaze buffalo
+  control
+bip_39_word_space_12: duck canoe next gorilla hidden move nominee piano gaze buffalo
+  control army
+bip_39_word_space_2: duck canoe
+bip_39_word_space_3: duck canoe next
+bip_39_word_space_4: duck canoe next gorilla
+bip_39_word_space_5: duck canoe next gorilla hidden
+bip_39_word_space_6: duck canoe next gorilla hidden move
+bip_39_word_space_7: duck canoe next gorilla hidden move nominee
+bip_39_word_space_8: duck canoe next gorilla hidden move nominee piano
+bip_39_word_space_9: duck canoe next gorilla hidden move nominee piano gaze
+bip_39_word_underscore_1: duck
+bip_39_word_underscore_10: duck_canoe_next_gorilla_hidden_move_nominee_piano_gaze_buffalo
+bip_39_word_underscore_11: duck_canoe_next_gorilla_hidden_move_nominee_piano_gaze_buffalo_control
+bip_39_word_underscore_12: duck_canoe_next_gorilla_hidden_move_nominee_piano_gaze_buffalo_control_army
+bip_39_word_underscore_2: duck_canoe
+bip_39_word_underscore_3: duck_canoe_next
+bip_39_word_underscore_4: duck_canoe_next_gorilla
+bip_39_word_underscore_5: duck_canoe_next_gorilla_hidden
+bip_39_word_underscore_6: duck_canoe_next_gorilla_hidden_move
+bip_39_word_underscore_7: duck_canoe_next_gorilla_hidden_move_nominee
+bip_39_word_underscore_8: duck_canoe_next_gorilla_hidden_move_nominee_piano
+bip_39_word_underscore_9: duck_canoe_next_gorilla_hidden_move_nominee_piano_gaze
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_06_12
 id_no_color: 080612
 id_no_size: 08_06_12
 id_no_type: tray_thin_08_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207i7rb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207i7rb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207i7rb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080612
 name_no_size: 08 06 12
 name_no_size_short: 08 06 12
 name_no_type: Tray Thin 08 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_06_12
 oomp_word: bread crocodile honey_pot
 oomp_word_emoji: ':bread: :crocodile: :honey_pot:'

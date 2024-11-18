@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420654098'
+bip_39_word_dash_1: witness
+bip_39_word_dash_10: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix
+bip_39_word_dash_11: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal
+bip_39_word_dash_12: witness-snap-two-source-punch-coconut-own-climb-sunset-matrix-reveal-any
+bip_39_word_dash_2: witness-snap
+bip_39_word_dash_3: witness-snap-two
+bip_39_word_dash_4: witness-snap-two-source
+bip_39_word_dash_5: witness-snap-two-source-punch
+bip_39_word_dash_6: witness-snap-two-source-punch-coconut
+bip_39_word_dash_7: witness-snap-two-source-punch-coconut-own
+bip_39_word_dash_8: witness-snap-two-source-punch-coconut-own-climb
+bip_39_word_dash_9: witness-snap-two-source-punch-coconut-own-climb-sunset
+bip_39_word_new_br_1: witness
+bip_39_word_new_br_10: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix
+bip_39_word_new_br_11: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal
+bip_39_word_new_br_12: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset<br>matrix<br>reveal<br>any
+bip_39_word_new_br_2: witness<br>snap
+bip_39_word_new_br_3: witness<br>snap<br>two
+bip_39_word_new_br_4: witness<br>snap<br>two<br>source
+bip_39_word_new_br_5: witness<br>snap<br>two<br>source<br>punch
+bip_39_word_new_br_6: witness<br>snap<br>two<br>source<br>punch<br>coconut
+bip_39_word_new_br_7: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own
+bip_39_word_new_br_8: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb
+bip_39_word_new_br_9: witness<br>snap<br>two<br>source<br>punch<br>coconut<br>own<br>climb<br>sunset
+bip_39_word_new_line_1: witness
+bip_39_word_new_line_10: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own
+
+  climb
+
+  sunset
+
+  matrix'
+bip_39_word_new_line_11: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own
+
+  climb
+
+  sunset
+
+  matrix
+
+  reveal'
+bip_39_word_new_line_12: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own
+
+  climb
+
+  sunset
+
+  matrix
+
+  reveal
+
+  any'
+bip_39_word_new_line_2: 'witness
+
+  snap'
+bip_39_word_new_line_3: 'witness
+
+  snap
+
+  two'
+bip_39_word_new_line_4: 'witness
+
+  snap
+
+  two
+
+  source'
+bip_39_word_new_line_5: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch'
+bip_39_word_new_line_6: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut'
+bip_39_word_new_line_7: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own'
+bip_39_word_new_line_8: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own
+
+  climb'
+bip_39_word_new_line_9: 'witness
+
+  snap
+
+  two
+
+  source
+
+  punch
+
+  coconut
+
+  own
+
+  climb
+
+  sunset'
+bip_39_word_no_space_1: witness
+bip_39_word_no_space_10: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrix
+bip_39_word_no_space_11: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixreveal
+bip_39_word_no_space_12: witnesssnaptwosourcepunchcoconutownclimbsunsetmatrixrevealany
+bip_39_word_no_space_2: witnesssnap
+bip_39_word_no_space_3: witnesssnaptwo
+bip_39_word_no_space_4: witnesssnaptwosource
+bip_39_word_no_space_5: witnesssnaptwosourcepunch
+bip_39_word_no_space_6: witnesssnaptwosourcepunchcoconut
+bip_39_word_no_space_7: witnesssnaptwosourcepunchcoconutown
+bip_39_word_no_space_8: witnesssnaptwosourcepunchcoconutownclimb
+bip_39_word_no_space_9: witnesssnaptwosourcepunchcoconutownclimbsunset
+bip_39_word_space_0:
+- witness
+- snap
+- two
+- source
+- punch
+- coconut
+- own
+- climb
+- sunset
+- matrix
+- reveal
+- any
+bip_39_word_space_1: witness
+bip_39_word_space_10: witness snap two source punch coconut own climb sunset matrix
+bip_39_word_space_11: witness snap two source punch coconut own climb sunset matrix
+  reveal
+bip_39_word_space_12: witness snap two source punch coconut own climb sunset matrix
+  reveal any
+bip_39_word_space_2: witness snap
+bip_39_word_space_3: witness snap two
+bip_39_word_space_4: witness snap two source
+bip_39_word_space_5: witness snap two source punch
+bip_39_word_space_6: witness snap two source punch coconut
+bip_39_word_space_7: witness snap two source punch coconut own
+bip_39_word_space_8: witness snap two source punch coconut own climb
+bip_39_word_space_9: witness snap two source punch coconut own climb sunset
+bip_39_word_underscore_1: witness
+bip_39_word_underscore_10: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix
+bip_39_word_underscore_11: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal
+bip_39_word_underscore_12: witness_snap_two_source_punch_coconut_own_climb_sunset_matrix_reveal_any
+bip_39_word_underscore_2: witness_snap
+bip_39_word_underscore_3: witness_snap_two
+bip_39_word_underscore_4: witness_snap_two_source
+bip_39_word_underscore_5: witness_snap_two_source_punch
+bip_39_word_underscore_6: witness_snap_two_source_punch_coconut
+bip_39_word_underscore_7: witness_snap_two_source_punch_coconut_own
+bip_39_word_underscore_8: witness_snap_two_source_punch_coconut_own_climb
+bip_39_word_underscore_9: witness_snap_two_source_punch_coconut_own_climb_sunset
 box_of_box_size_manufacturer_metalmate: '5000'
 box_size_manufacturer_metalmate: '500'
 classification: hardware
@@ -90,7 +309,22 @@ id_no_color: 20mmlength
 id_no_size: 20_mm_length
 id_no_type: m5_20_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_20_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_20_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m5-x-20-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m470020
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_20_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dkv6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dkv6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dkv6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -118,6 +352,26 @@ name_no_color: 20mmlength
 name_no_size: 20 mm Length
 name_no_size_short: 20 Mm Length
 name_no_type: M5 20 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 6dk
+oomlout_bolt_md5_6_alpha_first_3_upper: 6DK
+oomlout_bolt_md5_6_alpha_last_3: v6
+oomlout_bolt_md5_6_alpha_last_3_upper: V6
+oomlout_bolt_md5_6_first_3: a37
+oomlout_bolt_md5_6_first_3_upper: A37
+oomlout_bolt_md5_6_last_3: 0e2
+oomlout_bolt_md5_6_last_3_upper: 0E2
+oomlout_bolt_name: Set Screw M5X20 mm  (Bolt)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss5m20
+oomlout_short_code_upper: SS5M20
 oomp_id: hardware_set_screw_m5_20_mm_length
 oomp_key: oomp_hardware_set_screw_m5_20_mm_length
 oomp_word: pencil squirrel sailboat
@@ -142,12 +396,22 @@ price_1: '0.0328'
 price_100: '0.0328'
 price_1000: '0.0182'
 price_10000: '0.0145'
+price_10000_distributor_1: '0.0145'
 price_10000_distributor_orbital_fasteners: '0.0145'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0182'
 price_1000_distributor_orbital_fasteners: '0.0182'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0328'
 price_100_distributor_orbital_fasteners: '0.0328'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0328'
 price_1_distributor_orbital_fasteners: '0.0328'
+price_1_name: orbital_fasteners
 price_200: '0.0328'
+price_200_distributor_1: '0.0328'
 price_200_distributor_orbital_fasteners: '0.0328'
+price_200_name: orbital_fasteners
 price_current: '0.0328'
 quantity_current: '200'
 short_code: ss520

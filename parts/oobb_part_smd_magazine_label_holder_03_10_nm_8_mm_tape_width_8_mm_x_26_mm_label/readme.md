@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine Label Holder 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sleeping: :ambulance: :bath:
 * md5_6_alpha: 9qiu
 * md5_6: 06ee86
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209qiu)
+[2x1](http://192.168.1.242:1112/?label=oomp%209qiu)
+[6x4](http://192.168.1.55:1112/?label=oomp%209qiu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ amount |
 | id_no_color | 0310nm8mmtapewidth8mmx26mmlabel |  
 | id_no_size | 03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
 | id_no_type | smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209qiu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209qiu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209qiu |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ amount |
 | name_no_size | 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label |  
 | name_no_size_short | 03 10 Nm 8 Mm Tape Width 8 Mm X 26 Mm Label |  
 | name_no_type | SMD Magazine Label Holder 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
 | oomp_word | sleeping ambulance bath |  
 | oomp_word_emoji | :sleeping: :ambulance: :bath: |  

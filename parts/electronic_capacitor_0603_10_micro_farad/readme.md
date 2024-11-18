@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Capacitor 0603 10 Micro Farad
+* name_short: 
 ### id
 * oomp_id: electronic_capacitor_0603_10_micro_farad
   * classification: electronic

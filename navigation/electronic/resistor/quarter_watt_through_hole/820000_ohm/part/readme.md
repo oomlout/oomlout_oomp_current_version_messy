@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor Quarter Watt Through Hole 820000 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_quarter_watt_through_hole_820000_ohm
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :fish: :scroll: :heart:
 * md5_6_alpha: 39czx
 * md5_6: 538d0d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2039czx)
+[2x1](http://192.168.1.242:1112/?label=oomp%2039czx)
+[6x4](http://192.168.1.55:1112/?label=oomp%2039czx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ way |
 | id_no_size | 820000_ohm |  
 | id_no_type | quarter_watt_through_hole_820000_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_820000_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2039czx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2039czx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2039czx |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ way |
 | name_no_size | 820000 Ohm |  
 | name_no_size_short | 820k Ohm |  
 | name_no_type | Quarter Watt Through Hole 820000 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_quarter_watt_through_hole_820000_ohm |  
 | oomp_word | fish scroll heart |  
 | oomp_word_emoji | :fish: :scroll: :heart: |  

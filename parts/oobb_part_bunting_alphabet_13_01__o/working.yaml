@@ -1,3 +1,221 @@
+bip_39_word_dash_1: craft
+bip_39_word_dash_10: craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard
+bip_39_word_dash_11: craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard-lecture
+bip_39_word_dash_12: craft-leaf-stamp-lunar-rack-logic-like-artwork-toy-orchard-lecture-abuse
+bip_39_word_dash_2: craft-leaf
+bip_39_word_dash_3: craft-leaf-stamp
+bip_39_word_dash_4: craft-leaf-stamp-lunar
+bip_39_word_dash_5: craft-leaf-stamp-lunar-rack
+bip_39_word_dash_6: craft-leaf-stamp-lunar-rack-logic
+bip_39_word_dash_7: craft-leaf-stamp-lunar-rack-logic-like
+bip_39_word_dash_8: craft-leaf-stamp-lunar-rack-logic-like-artwork
+bip_39_word_dash_9: craft-leaf-stamp-lunar-rack-logic-like-artwork-toy
+bip_39_word_new_br_1: craft
+bip_39_word_new_br_10: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard
+bip_39_word_new_br_11: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard<br>lecture
+bip_39_word_new_br_12: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy<br>orchard<br>lecture<br>abuse
+bip_39_word_new_br_2: craft<br>leaf
+bip_39_word_new_br_3: craft<br>leaf<br>stamp
+bip_39_word_new_br_4: craft<br>leaf<br>stamp<br>lunar
+bip_39_word_new_br_5: craft<br>leaf<br>stamp<br>lunar<br>rack
+bip_39_word_new_br_6: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic
+bip_39_word_new_br_7: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like
+bip_39_word_new_br_8: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork
+bip_39_word_new_br_9: craft<br>leaf<br>stamp<br>lunar<br>rack<br>logic<br>like<br>artwork<br>toy
+bip_39_word_new_line_1: craft
+bip_39_word_new_line_10: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like
+
+  artwork
+
+  toy
+
+  orchard'
+bip_39_word_new_line_11: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like
+
+  artwork
+
+  toy
+
+  orchard
+
+  lecture'
+bip_39_word_new_line_12: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like
+
+  artwork
+
+  toy
+
+  orchard
+
+  lecture
+
+  abuse'
+bip_39_word_new_line_2: 'craft
+
+  leaf'
+bip_39_word_new_line_3: 'craft
+
+  leaf
+
+  stamp'
+bip_39_word_new_line_4: 'craft
+
+  leaf
+
+  stamp
+
+  lunar'
+bip_39_word_new_line_5: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack'
+bip_39_word_new_line_6: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic'
+bip_39_word_new_line_7: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like'
+bip_39_word_new_line_8: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like
+
+  artwork'
+bip_39_word_new_line_9: 'craft
+
+  leaf
+
+  stamp
+
+  lunar
+
+  rack
+
+  logic
+
+  like
+
+  artwork
+
+  toy'
+bip_39_word_no_space_1: craft
+bip_39_word_no_space_10: craftleafstamplunarracklogiclikeartworktoyorchard
+bip_39_word_no_space_11: craftleafstamplunarracklogiclikeartworktoyorchardlecture
+bip_39_word_no_space_12: craftleafstamplunarracklogiclikeartworktoyorchardlectureabuse
+bip_39_word_no_space_2: craftleaf
+bip_39_word_no_space_3: craftleafstamp
+bip_39_word_no_space_4: craftleafstamplunar
+bip_39_word_no_space_5: craftleafstamplunarrack
+bip_39_word_no_space_6: craftleafstamplunarracklogic
+bip_39_word_no_space_7: craftleafstamplunarracklogiclike
+bip_39_word_no_space_8: craftleafstamplunarracklogiclikeartwork
+bip_39_word_no_space_9: craftleafstamplunarracklogiclikeartworktoy
+bip_39_word_space_0:
+- craft
+- leaf
+- stamp
+- lunar
+- rack
+- logic
+- like
+- artwork
+- toy
+- orchard
+- lecture
+- abuse
+bip_39_word_space_1: craft
+bip_39_word_space_10: craft leaf stamp lunar rack logic like artwork toy orchard
+bip_39_word_space_11: craft leaf stamp lunar rack logic like artwork toy orchard lecture
+bip_39_word_space_12: craft leaf stamp lunar rack logic like artwork toy orchard lecture
+  abuse
+bip_39_word_space_2: craft leaf
+bip_39_word_space_3: craft leaf stamp
+bip_39_word_space_4: craft leaf stamp lunar
+bip_39_word_space_5: craft leaf stamp lunar rack
+bip_39_word_space_6: craft leaf stamp lunar rack logic
+bip_39_word_space_7: craft leaf stamp lunar rack logic like
+bip_39_word_space_8: craft leaf stamp lunar rack logic like artwork
+bip_39_word_space_9: craft leaf stamp lunar rack logic like artwork toy
+bip_39_word_underscore_1: craft
+bip_39_word_underscore_10: craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard
+bip_39_word_underscore_11: craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard_lecture
+bip_39_word_underscore_12: craft_leaf_stamp_lunar_rack_logic_like_artwork_toy_orchard_lecture_abuse
+bip_39_word_underscore_2: craft_leaf
+bip_39_word_underscore_3: craft_leaf_stamp
+bip_39_word_underscore_4: craft_leaf_stamp_lunar
+bip_39_word_underscore_5: craft_leaf_stamp_lunar_rack
+bip_39_word_underscore_6: craft_leaf_stamp_lunar_rack_logic
+bip_39_word_underscore_7: craft_leaf_stamp_lunar_rack_logic_like
+bip_39_word_underscore_8: craft_leaf_stamp_lunar_rack_logic_like_artwork
+bip_39_word_underscore_9: craft_leaf_stamp_lunar_rack_logic_like_artwork_toy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_bunting_alphabet_13_01__o
 id_no_color: 1301o
 id_no_size: 13_01__o
 id_no_type: bunting_alphabet_13_01__o
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__o
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__o
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__o
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qofb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qofb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qofb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 1301O
 name_no_size: 13 01  O
 name_no_size_short: 13 01  O
 name_no_type: Bunting Alphabet 13 01  O
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__o
 oomp_word: anger recycle nose
 oomp_word_emoji: ':anger: :recycle: :nose:'

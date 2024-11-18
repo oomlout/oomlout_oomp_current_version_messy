@@ -1,3 +1,223 @@
+bip_39_word_dash_1: pair
+bip_39_word_dash_10: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber
+bip_39_word_dash_11: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber-ripple
+bip_39_word_dash_12: pair-abandon-phone-quarter-reject-extend-marriage-help-risk-fiber-ripple-almost
+bip_39_word_dash_2: pair-abandon
+bip_39_word_dash_3: pair-abandon-phone
+bip_39_word_dash_4: pair-abandon-phone-quarter
+bip_39_word_dash_5: pair-abandon-phone-quarter-reject
+bip_39_word_dash_6: pair-abandon-phone-quarter-reject-extend
+bip_39_word_dash_7: pair-abandon-phone-quarter-reject-extend-marriage
+bip_39_word_dash_8: pair-abandon-phone-quarter-reject-extend-marriage-help
+bip_39_word_dash_9: pair-abandon-phone-quarter-reject-extend-marriage-help-risk
+bip_39_word_new_br_1: pair
+bip_39_word_new_br_10: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber
+bip_39_word_new_br_11: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple
+bip_39_word_new_br_12: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk<br>fiber<br>ripple<br>almost
+bip_39_word_new_br_2: pair<br>abandon
+bip_39_word_new_br_3: pair<br>abandon<br>phone
+bip_39_word_new_br_4: pair<br>abandon<br>phone<br>quarter
+bip_39_word_new_br_5: pair<br>abandon<br>phone<br>quarter<br>reject
+bip_39_word_new_br_6: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend
+bip_39_word_new_br_7: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage
+bip_39_word_new_br_8: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help
+bip_39_word_new_br_9: pair<br>abandon<br>phone<br>quarter<br>reject<br>extend<br>marriage<br>help<br>risk
+bip_39_word_new_line_1: pair
+bip_39_word_new_line_10: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage
+
+  help
+
+  risk
+
+  fiber'
+bip_39_word_new_line_11: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage
+
+  help
+
+  risk
+
+  fiber
+
+  ripple'
+bip_39_word_new_line_12: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage
+
+  help
+
+  risk
+
+  fiber
+
+  ripple
+
+  almost'
+bip_39_word_new_line_2: 'pair
+
+  abandon'
+bip_39_word_new_line_3: 'pair
+
+  abandon
+
+  phone'
+bip_39_word_new_line_4: 'pair
+
+  abandon
+
+  phone
+
+  quarter'
+bip_39_word_new_line_5: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject'
+bip_39_word_new_line_6: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend'
+bip_39_word_new_line_7: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage'
+bip_39_word_new_line_8: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage
+
+  help'
+bip_39_word_new_line_9: 'pair
+
+  abandon
+
+  phone
+
+  quarter
+
+  reject
+
+  extend
+
+  marriage
+
+  help
+
+  risk'
+bip_39_word_no_space_1: pair
+bip_39_word_no_space_10: pairabandonphonequarterrejectextendmarriagehelpriskfiber
+bip_39_word_no_space_11: pairabandonphonequarterrejectextendmarriagehelpriskfiberripple
+bip_39_word_no_space_12: pairabandonphonequarterrejectextendmarriagehelpriskfiberripplealmost
+bip_39_word_no_space_2: pairabandon
+bip_39_word_no_space_3: pairabandonphone
+bip_39_word_no_space_4: pairabandonphonequarter
+bip_39_word_no_space_5: pairabandonphonequarterreject
+bip_39_word_no_space_6: pairabandonphonequarterrejectextend
+bip_39_word_no_space_7: pairabandonphonequarterrejectextendmarriage
+bip_39_word_no_space_8: pairabandonphonequarterrejectextendmarriagehelp
+bip_39_word_no_space_9: pairabandonphonequarterrejectextendmarriagehelprisk
+bip_39_word_space_0:
+- pair
+- abandon
+- phone
+- quarter
+- reject
+- extend
+- marriage
+- help
+- risk
+- fiber
+- ripple
+- almost
+bip_39_word_space_1: pair
+bip_39_word_space_10: pair abandon phone quarter reject extend marriage help risk
+  fiber
+bip_39_word_space_11: pair abandon phone quarter reject extend marriage help risk
+  fiber ripple
+bip_39_word_space_12: pair abandon phone quarter reject extend marriage help risk
+  fiber ripple almost
+bip_39_word_space_2: pair abandon
+bip_39_word_space_3: pair abandon phone
+bip_39_word_space_4: pair abandon phone quarter
+bip_39_word_space_5: pair abandon phone quarter reject
+bip_39_word_space_6: pair abandon phone quarter reject extend
+bip_39_word_space_7: pair abandon phone quarter reject extend marriage
+bip_39_word_space_8: pair abandon phone quarter reject extend marriage help
+bip_39_word_space_9: pair abandon phone quarter reject extend marriage help risk
+bip_39_word_underscore_1: pair
+bip_39_word_underscore_10: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber
+bip_39_word_underscore_11: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber_ripple
+bip_39_word_underscore_12: pair_abandon_phone_quarter_reject_extend_marriage_help_risk_fiber_ripple_almost
+bip_39_word_underscore_2: pair_abandon
+bip_39_word_underscore_3: pair_abandon_phone
+bip_39_word_underscore_4: pair_abandon_phone_quarter
+bip_39_word_underscore_5: pair_abandon_phone_quarter_reject
+bip_39_word_underscore_6: pair_abandon_phone_quarter_reject_extend
+bip_39_word_underscore_7: pair_abandon_phone_quarter_reject_extend_marriage
+bip_39_word_underscore_8: pair_abandon_phone_quarter_reject_extend_marriage_help
+bip_39_word_underscore_9: pair_abandon_phone_quarter_reject_extend_marriage_help_risk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_05_09
 id_no_color: '140509'
 id_no_size: '14_05_09'
 id_no_type: tray_thin_14_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2049qxh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2049qxh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2049qxh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140509'
 name_no_size: 14 05 09
 name_no_size_short: 14 05 09
 name_no_type: Tray Thin 14 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_05_09
 oomp_word: shell fireworks telescope
 oomp_word_emoji: ':shell: :fireworks: :telescope:'

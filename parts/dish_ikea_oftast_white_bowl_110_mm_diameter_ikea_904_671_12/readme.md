@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Bowl 110 mm Diameter Ikea 904 671 12
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
   * classification: dish

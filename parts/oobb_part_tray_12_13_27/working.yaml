@@ -1,3 +1,221 @@
+bip_39_word_dash_1: flight
+bip_39_word_dash_10: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose
+bip_39_word_dash_11: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose-hockey
+bip_39_word_dash_12: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap-dose-hockey-apology
+bip_39_word_dash_2: flight-bulk
+bip_39_word_dash_3: flight-bulk-ritual
+bip_39_word_dash_4: flight-bulk-ritual-belt
+bip_39_word_dash_5: flight-bulk-ritual-belt-normal
+bip_39_word_dash_6: flight-bulk-ritual-belt-normal-hope
+bip_39_word_dash_7: flight-bulk-ritual-belt-normal-hope-trip
+bip_39_word_dash_8: flight-bulk-ritual-belt-normal-hope-trip-behave
+bip_39_word_dash_9: flight-bulk-ritual-belt-normal-hope-trip-behave-cheap
+bip_39_word_new_br_1: flight
+bip_39_word_new_br_10: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose
+bip_39_word_new_br_11: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose<br>hockey
+bip_39_word_new_br_12: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap<br>dose<br>hockey<br>apology
+bip_39_word_new_br_2: flight<br>bulk
+bip_39_word_new_br_3: flight<br>bulk<br>ritual
+bip_39_word_new_br_4: flight<br>bulk<br>ritual<br>belt
+bip_39_word_new_br_5: flight<br>bulk<br>ritual<br>belt<br>normal
+bip_39_word_new_br_6: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope
+bip_39_word_new_br_7: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip
+bip_39_word_new_br_8: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave
+bip_39_word_new_br_9: flight<br>bulk<br>ritual<br>belt<br>normal<br>hope<br>trip<br>behave<br>cheap
+bip_39_word_new_line_1: flight
+bip_39_word_new_line_10: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip
+
+  behave
+
+  cheap
+
+  dose'
+bip_39_word_new_line_11: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip
+
+  behave
+
+  cheap
+
+  dose
+
+  hockey'
+bip_39_word_new_line_12: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip
+
+  behave
+
+  cheap
+
+  dose
+
+  hockey
+
+  apology'
+bip_39_word_new_line_2: 'flight
+
+  bulk'
+bip_39_word_new_line_3: 'flight
+
+  bulk
+
+  ritual'
+bip_39_word_new_line_4: 'flight
+
+  bulk
+
+  ritual
+
+  belt'
+bip_39_word_new_line_5: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal'
+bip_39_word_new_line_6: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope'
+bip_39_word_new_line_7: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip'
+bip_39_word_new_line_8: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip
+
+  behave'
+bip_39_word_new_line_9: 'flight
+
+  bulk
+
+  ritual
+
+  belt
+
+  normal
+
+  hope
+
+  trip
+
+  behave
+
+  cheap'
+bip_39_word_no_space_1: flight
+bip_39_word_no_space_10: flightbulkritualbeltnormalhopetripbehavecheapdose
+bip_39_word_no_space_11: flightbulkritualbeltnormalhopetripbehavecheapdosehockey
+bip_39_word_no_space_12: flightbulkritualbeltnormalhopetripbehavecheapdosehockeyapology
+bip_39_word_no_space_2: flightbulk
+bip_39_word_no_space_3: flightbulkritual
+bip_39_word_no_space_4: flightbulkritualbelt
+bip_39_word_no_space_5: flightbulkritualbeltnormal
+bip_39_word_no_space_6: flightbulkritualbeltnormalhope
+bip_39_word_no_space_7: flightbulkritualbeltnormalhopetrip
+bip_39_word_no_space_8: flightbulkritualbeltnormalhopetripbehave
+bip_39_word_no_space_9: flightbulkritualbeltnormalhopetripbehavecheap
+bip_39_word_space_0:
+- flight
+- bulk
+- ritual
+- belt
+- normal
+- hope
+- trip
+- behave
+- cheap
+- dose
+- hockey
+- apology
+bip_39_word_space_1: flight
+bip_39_word_space_10: flight bulk ritual belt normal hope trip behave cheap dose
+bip_39_word_space_11: flight bulk ritual belt normal hope trip behave cheap dose hockey
+bip_39_word_space_12: flight bulk ritual belt normal hope trip behave cheap dose hockey
+  apology
+bip_39_word_space_2: flight bulk
+bip_39_word_space_3: flight bulk ritual
+bip_39_word_space_4: flight bulk ritual belt
+bip_39_word_space_5: flight bulk ritual belt normal
+bip_39_word_space_6: flight bulk ritual belt normal hope
+bip_39_word_space_7: flight bulk ritual belt normal hope trip
+bip_39_word_space_8: flight bulk ritual belt normal hope trip behave
+bip_39_word_space_9: flight bulk ritual belt normal hope trip behave cheap
+bip_39_word_underscore_1: flight
+bip_39_word_underscore_10: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose
+bip_39_word_underscore_11: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose_hockey
+bip_39_word_underscore_12: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap_dose_hockey_apology
+bip_39_word_underscore_2: flight_bulk
+bip_39_word_underscore_3: flight_bulk_ritual
+bip_39_word_underscore_4: flight_bulk_ritual_belt
+bip_39_word_underscore_5: flight_bulk_ritual_belt_normal
+bip_39_word_underscore_6: flight_bulk_ritual_belt_normal_hope
+bip_39_word_underscore_7: flight_bulk_ritual_belt_normal_hope_trip
+bip_39_word_underscore_8: flight_bulk_ritual_belt_normal_hope_trip_behave
+bip_39_word_underscore_9: flight_bulk_ritual_belt_normal_hope_trip_behave_cheap
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_12_13_27
 id_no_color: '121327'
 id_no_size: '12_13_27'
 id_no_type: tray_12_13_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_12_13_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_13_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_12_13_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206id3k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206id3k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206id3k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '121327'
 name_no_size: 12 13 27
 name_no_size_short: 12 13 27
 name_no_type: Tray 12 13 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_12_13_27
 oomp_word: trumpet hospital banana
 oomp_word_emoji: ':trumpet: :hospital: :banana:'

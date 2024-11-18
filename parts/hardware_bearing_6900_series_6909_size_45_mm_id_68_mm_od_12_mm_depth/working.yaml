@@ -1,3 +1,221 @@
+bip_39_word_dash_1: glow
+bip_39_word_dash_10: glow-fix-proud-jealous-hybrid-youth-bottom-job-other-bird
+bip_39_word_dash_11: glow-fix-proud-jealous-hybrid-youth-bottom-job-other-bird-excuse
+bip_39_word_dash_12: glow-fix-proud-jealous-hybrid-youth-bottom-job-other-bird-excuse-aunt
+bip_39_word_dash_2: glow-fix
+bip_39_word_dash_3: glow-fix-proud
+bip_39_word_dash_4: glow-fix-proud-jealous
+bip_39_word_dash_5: glow-fix-proud-jealous-hybrid
+bip_39_word_dash_6: glow-fix-proud-jealous-hybrid-youth
+bip_39_word_dash_7: glow-fix-proud-jealous-hybrid-youth-bottom
+bip_39_word_dash_8: glow-fix-proud-jealous-hybrid-youth-bottom-job
+bip_39_word_dash_9: glow-fix-proud-jealous-hybrid-youth-bottom-job-other
+bip_39_word_new_br_1: glow
+bip_39_word_new_br_10: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird
+bip_39_word_new_br_11: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse
+bip_39_word_new_br_12: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other<br>bird<br>excuse<br>aunt
+bip_39_word_new_br_2: glow<br>fix
+bip_39_word_new_br_3: glow<br>fix<br>proud
+bip_39_word_new_br_4: glow<br>fix<br>proud<br>jealous
+bip_39_word_new_br_5: glow<br>fix<br>proud<br>jealous<br>hybrid
+bip_39_word_new_br_6: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth
+bip_39_word_new_br_7: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom
+bip_39_word_new_br_8: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job
+bip_39_word_new_br_9: glow<br>fix<br>proud<br>jealous<br>hybrid<br>youth<br>bottom<br>job<br>other
+bip_39_word_new_line_1: glow
+bip_39_word_new_line_10: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom
+
+  job
+
+  other
+
+  bird'
+bip_39_word_new_line_11: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom
+
+  job
+
+  other
+
+  bird
+
+  excuse'
+bip_39_word_new_line_12: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom
+
+  job
+
+  other
+
+  bird
+
+  excuse
+
+  aunt'
+bip_39_word_new_line_2: 'glow
+
+  fix'
+bip_39_word_new_line_3: 'glow
+
+  fix
+
+  proud'
+bip_39_word_new_line_4: 'glow
+
+  fix
+
+  proud
+
+  jealous'
+bip_39_word_new_line_5: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid'
+bip_39_word_new_line_6: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth'
+bip_39_word_new_line_7: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom'
+bip_39_word_new_line_8: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom
+
+  job'
+bip_39_word_new_line_9: 'glow
+
+  fix
+
+  proud
+
+  jealous
+
+  hybrid
+
+  youth
+
+  bottom
+
+  job
+
+  other'
+bip_39_word_no_space_1: glow
+bip_39_word_no_space_10: glowfixproudjealoushybridyouthbottomjobotherbird
+bip_39_word_no_space_11: glowfixproudjealoushybridyouthbottomjobotherbirdexcuse
+bip_39_word_no_space_12: glowfixproudjealoushybridyouthbottomjobotherbirdexcuseaunt
+bip_39_word_no_space_2: glowfix
+bip_39_word_no_space_3: glowfixproud
+bip_39_word_no_space_4: glowfixproudjealous
+bip_39_word_no_space_5: glowfixproudjealoushybrid
+bip_39_word_no_space_6: glowfixproudjealoushybridyouth
+bip_39_word_no_space_7: glowfixproudjealoushybridyouthbottom
+bip_39_word_no_space_8: glowfixproudjealoushybridyouthbottomjob
+bip_39_word_no_space_9: glowfixproudjealoushybridyouthbottomjobother
+bip_39_word_space_0:
+- glow
+- fix
+- proud
+- jealous
+- hybrid
+- youth
+- bottom
+- job
+- other
+- bird
+- excuse
+- aunt
+bip_39_word_space_1: glow
+bip_39_word_space_10: glow fix proud jealous hybrid youth bottom job other bird
+bip_39_word_space_11: glow fix proud jealous hybrid youth bottom job other bird excuse
+bip_39_word_space_12: glow fix proud jealous hybrid youth bottom job other bird excuse
+  aunt
+bip_39_word_space_2: glow fix
+bip_39_word_space_3: glow fix proud
+bip_39_word_space_4: glow fix proud jealous
+bip_39_word_space_5: glow fix proud jealous hybrid
+bip_39_word_space_6: glow fix proud jealous hybrid youth
+bip_39_word_space_7: glow fix proud jealous hybrid youth bottom
+bip_39_word_space_8: glow fix proud jealous hybrid youth bottom job
+bip_39_word_space_9: glow fix proud jealous hybrid youth bottom job other
+bip_39_word_underscore_1: glow
+bip_39_word_underscore_10: glow_fix_proud_jealous_hybrid_youth_bottom_job_other_bird
+bip_39_word_underscore_11: glow_fix_proud_jealous_hybrid_youth_bottom_job_other_bird_excuse
+bip_39_word_underscore_12: glow_fix_proud_jealous_hybrid_youth_bottom_job_other_bird_excuse_aunt
+bip_39_word_underscore_2: glow_fix
+bip_39_word_underscore_3: glow_fix_proud
+bip_39_word_underscore_4: glow_fix_proud_jealous
+bip_39_word_underscore_5: glow_fix_proud_jealous_hybrid
+bip_39_word_underscore_6: glow_fix_proud_jealous_hybrid_youth
+bip_39_word_underscore_7: glow_fix_proud_jealous_hybrid_youth_bottom
+bip_39_word_underscore_8: glow_fix_proud_jealous_hybrid_youth_bottom_job
+bip_39_word_underscore_9: glow_fix_proud_jealous_hybrid_youth_bottom_job_other
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +326,14 @@ id_no_class: bearing_6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
 id_no_color: 45_mm_id_68_mm_od_12_mm_depth
 id_no_size: 6909_size_45_mm_id_68_mm_od_12_mm_depth
 id_no_type: 6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209jls5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209jls5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209jls5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,9 @@ name_no_color: 45 mm ID 68 mm OD 12 mm Depth
 name_no_size: 6909 Size 45 mm ID 68 mm OD 12 mm Depth
 name_no_size_short: 6909 Size 45 Mm Id 68 Mm Od 12 Mm Depth
 name_no_type: 6900 Series 6909 Size 45 mm ID 68 mm OD 12 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6909
+oomlout_short_code_upper: BR6909
 oomp_key: oomp_hardware_bearing_6900_series_6909_size_45_mm_id_68_mm_od_12_mm_depth
 oomp_word: three clubs kissing
 oomp_word_emoji: ':three: :clubs: :kissing:'

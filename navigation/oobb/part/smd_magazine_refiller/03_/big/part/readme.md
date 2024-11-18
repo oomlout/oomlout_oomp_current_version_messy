@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine Refiller 03  Big
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_refiller_03__big
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :watermelon: :koala: :bear:
 * md5_6_alpha: 7yvcr
 * md5_6: cc3a3b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207yvcr)
+[2x1](http://192.168.1.242:1112/?label=oomp%207yvcr)
+[6x4](http://192.168.1.55:1112/?label=oomp%207yvcr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ stomach |
 | id_no_color | 03big |  
 | id_no_size | 03__big |  
 | id_no_type | smd_magazine_refiller_03__big |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_refiller_03__big |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_refiller_03__big |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207yvcr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207yvcr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207yvcr |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ stomach |
 | name_no_size | 03  Big |  
 | name_no_size_short | 3  Big |  
 | name_no_type | SMD Magazine Refiller 03  Big |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_refiller_03__big |  
 | oomp_word | watermelon koala bear |  
 | oomp_word_emoji | :watermelon: :koala: :bear: |  

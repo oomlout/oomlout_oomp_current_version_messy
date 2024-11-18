@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 62000 Series 62202 Size 15 mm ID 35 mm OD 14 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_62000_series_62202_size_15_mm_id_35_mm_od_14_mm_depth
   * classification: hardware

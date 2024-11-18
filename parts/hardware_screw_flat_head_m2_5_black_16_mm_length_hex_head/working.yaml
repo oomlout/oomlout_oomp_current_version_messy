@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mind
+bip_39_word_dash_10: mind-useful-still-sunny-cheap-kitten-dress-guilt-prize-naive
+bip_39_word_dash_11: mind-useful-still-sunny-cheap-kitten-dress-guilt-prize-naive-fault
+bip_39_word_dash_12: mind-useful-still-sunny-cheap-kitten-dress-guilt-prize-naive-fault-air
+bip_39_word_dash_2: mind-useful
+bip_39_word_dash_3: mind-useful-still
+bip_39_word_dash_4: mind-useful-still-sunny
+bip_39_word_dash_5: mind-useful-still-sunny-cheap
+bip_39_word_dash_6: mind-useful-still-sunny-cheap-kitten
+bip_39_word_dash_7: mind-useful-still-sunny-cheap-kitten-dress
+bip_39_word_dash_8: mind-useful-still-sunny-cheap-kitten-dress-guilt
+bip_39_word_dash_9: mind-useful-still-sunny-cheap-kitten-dress-guilt-prize
+bip_39_word_new_br_1: mind
+bip_39_word_new_br_10: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress<br>guilt<br>prize<br>naive
+bip_39_word_new_br_11: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress<br>guilt<br>prize<br>naive<br>fault
+bip_39_word_new_br_12: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress<br>guilt<br>prize<br>naive<br>fault<br>air
+bip_39_word_new_br_2: mind<br>useful
+bip_39_word_new_br_3: mind<br>useful<br>still
+bip_39_word_new_br_4: mind<br>useful<br>still<br>sunny
+bip_39_word_new_br_5: mind<br>useful<br>still<br>sunny<br>cheap
+bip_39_word_new_br_6: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten
+bip_39_word_new_br_7: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress
+bip_39_word_new_br_8: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress<br>guilt
+bip_39_word_new_br_9: mind<br>useful<br>still<br>sunny<br>cheap<br>kitten<br>dress<br>guilt<br>prize
+bip_39_word_new_line_1: mind
+bip_39_word_new_line_10: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress
+
+  guilt
+
+  prize
+
+  naive'
+bip_39_word_new_line_11: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress
+
+  guilt
+
+  prize
+
+  naive
+
+  fault'
+bip_39_word_new_line_12: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress
+
+  guilt
+
+  prize
+
+  naive
+
+  fault
+
+  air'
+bip_39_word_new_line_2: 'mind
+
+  useful'
+bip_39_word_new_line_3: 'mind
+
+  useful
+
+  still'
+bip_39_word_new_line_4: 'mind
+
+  useful
+
+  still
+
+  sunny'
+bip_39_word_new_line_5: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap'
+bip_39_word_new_line_6: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten'
+bip_39_word_new_line_7: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress'
+bip_39_word_new_line_8: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress
+
+  guilt'
+bip_39_word_new_line_9: 'mind
+
+  useful
+
+  still
+
+  sunny
+
+  cheap
+
+  kitten
+
+  dress
+
+  guilt
+
+  prize'
+bip_39_word_no_space_1: mind
+bip_39_word_no_space_10: mindusefulstillsunnycheapkittendressguiltprizenaive
+bip_39_word_no_space_11: mindusefulstillsunnycheapkittendressguiltprizenaivefault
+bip_39_word_no_space_12: mindusefulstillsunnycheapkittendressguiltprizenaivefaultair
+bip_39_word_no_space_2: minduseful
+bip_39_word_no_space_3: mindusefulstill
+bip_39_word_no_space_4: mindusefulstillsunny
+bip_39_word_no_space_5: mindusefulstillsunnycheap
+bip_39_word_no_space_6: mindusefulstillsunnycheapkitten
+bip_39_word_no_space_7: mindusefulstillsunnycheapkittendress
+bip_39_word_no_space_8: mindusefulstillsunnycheapkittendressguilt
+bip_39_word_no_space_9: mindusefulstillsunnycheapkittendressguiltprize
+bip_39_word_space_0:
+- mind
+- useful
+- still
+- sunny
+- cheap
+- kitten
+- dress
+- guilt
+- prize
+- naive
+- fault
+- air
+bip_39_word_space_1: mind
+bip_39_word_space_10: mind useful still sunny cheap kitten dress guilt prize naive
+bip_39_word_space_11: mind useful still sunny cheap kitten dress guilt prize naive
+  fault
+bip_39_word_space_12: mind useful still sunny cheap kitten dress guilt prize naive
+  fault air
+bip_39_word_space_2: mind useful
+bip_39_word_space_3: mind useful still
+bip_39_word_space_4: mind useful still sunny
+bip_39_word_space_5: mind useful still sunny cheap
+bip_39_word_space_6: mind useful still sunny cheap kitten
+bip_39_word_space_7: mind useful still sunny cheap kitten dress
+bip_39_word_space_8: mind useful still sunny cheap kitten dress guilt
+bip_39_word_space_9: mind useful still sunny cheap kitten dress guilt prize
+bip_39_word_underscore_1: mind
+bip_39_word_underscore_10: mind_useful_still_sunny_cheap_kitten_dress_guilt_prize_naive
+bip_39_word_underscore_11: mind_useful_still_sunny_cheap_kitten_dress_guilt_prize_naive_fault
+bip_39_word_underscore_12: mind_useful_still_sunny_cheap_kitten_dress_guilt_prize_naive_fault_air
+bip_39_word_underscore_2: mind_useful
+bip_39_word_underscore_3: mind_useful_still
+bip_39_word_underscore_4: mind_useful_still_sunny
+bip_39_word_underscore_5: mind_useful_still_sunny_cheap
+bip_39_word_underscore_6: mind_useful_still_sunny_cheap_kitten
+bip_39_word_underscore_7: mind_useful_still_sunny_cheap_kitten_dress
+bip_39_word_underscore_8: mind_useful_still_sunny_cheap_kitten_dress_guilt
+bip_39_word_underscore_9: mind_useful_still_sunny_cheap_kitten_dress_guilt_prize
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 16_mm_length_hex_head
 id_no_size: black_16_mm_length_hex_head
 id_no_type: m2_5_black_16_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_16_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_16_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_16_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203dq04
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203dq04
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203dq04
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,27 @@ name_no_color: 16 mm Length Hex Head
 name_no_size: Black 16 mm Length Hex Head
 name_no_size_short: Black 16 Mm Length Hex Head
 name_no_type: M2 5 Black 16 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 3dq
+oomlout_bolt_md5_6_alpha_first_3_upper: 3DQ
+oomlout_bolt_md5_6_alpha_last_3: '04'
+oomlout_bolt_md5_6_alpha_last_3_upper: '04'
+oomlout_bolt_md5_6_first_3: 56a
+oomlout_bolt_md5_6_first_3_upper: 56A
+oomlout_bolt_md5_6_last_3: 7e4
+oomlout_bolt_md5_6_last_3_upper: 7E4
+oomlout_bolt_name: Flat Head M2_5X16 mm Black (Hex Head)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2d5b16h
+oomlout_short_code_upper: FH2D5B16H
 oomp_key: oomp_hardware_screw_flat_head_m2_5_black_16_mm_length_hex_head
 oomp_word: ram guitar anchor
 oomp_word_emoji: ':ram: :guitar: :anchor:'

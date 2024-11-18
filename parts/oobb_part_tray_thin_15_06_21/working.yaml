@@ -1,3 +1,221 @@
+bip_39_word_dash_1: join
+bip_39_word_dash_10: join-dose-choose-carry-stay-seek-buzz-century-good-mimic
+bip_39_word_dash_11: join-dose-choose-carry-stay-seek-buzz-century-good-mimic-night
+bip_39_word_dash_12: join-dose-choose-carry-stay-seek-buzz-century-good-mimic-night-aisle
+bip_39_word_dash_2: join-dose
+bip_39_word_dash_3: join-dose-choose
+bip_39_word_dash_4: join-dose-choose-carry
+bip_39_word_dash_5: join-dose-choose-carry-stay
+bip_39_word_dash_6: join-dose-choose-carry-stay-seek
+bip_39_word_dash_7: join-dose-choose-carry-stay-seek-buzz
+bip_39_word_dash_8: join-dose-choose-carry-stay-seek-buzz-century
+bip_39_word_dash_9: join-dose-choose-carry-stay-seek-buzz-century-good
+bip_39_word_new_br_1: join
+bip_39_word_new_br_10: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic
+bip_39_word_new_br_11: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic<br>night
+bip_39_word_new_br_12: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good<br>mimic<br>night<br>aisle
+bip_39_word_new_br_2: join<br>dose
+bip_39_word_new_br_3: join<br>dose<br>choose
+bip_39_word_new_br_4: join<br>dose<br>choose<br>carry
+bip_39_word_new_br_5: join<br>dose<br>choose<br>carry<br>stay
+bip_39_word_new_br_6: join<br>dose<br>choose<br>carry<br>stay<br>seek
+bip_39_word_new_br_7: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz
+bip_39_word_new_br_8: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century
+bip_39_word_new_br_9: join<br>dose<br>choose<br>carry<br>stay<br>seek<br>buzz<br>century<br>good
+bip_39_word_new_line_1: join
+bip_39_word_new_line_10: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz
+
+  century
+
+  good
+
+  mimic'
+bip_39_word_new_line_11: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz
+
+  century
+
+  good
+
+  mimic
+
+  night'
+bip_39_word_new_line_12: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz
+
+  century
+
+  good
+
+  mimic
+
+  night
+
+  aisle'
+bip_39_word_new_line_2: 'join
+
+  dose'
+bip_39_word_new_line_3: 'join
+
+  dose
+
+  choose'
+bip_39_word_new_line_4: 'join
+
+  dose
+
+  choose
+
+  carry'
+bip_39_word_new_line_5: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay'
+bip_39_word_new_line_6: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek'
+bip_39_word_new_line_7: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz'
+bip_39_word_new_line_8: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz
+
+  century'
+bip_39_word_new_line_9: 'join
+
+  dose
+
+  choose
+
+  carry
+
+  stay
+
+  seek
+
+  buzz
+
+  century
+
+  good'
+bip_39_word_no_space_1: join
+bip_39_word_no_space_10: joindosechoosecarrystayseekbuzzcenturygoodmimic
+bip_39_word_no_space_11: joindosechoosecarrystayseekbuzzcenturygoodmimicnight
+bip_39_word_no_space_12: joindosechoosecarrystayseekbuzzcenturygoodmimicnightaisle
+bip_39_word_no_space_2: joindose
+bip_39_word_no_space_3: joindosechoose
+bip_39_word_no_space_4: joindosechoosecarry
+bip_39_word_no_space_5: joindosechoosecarrystay
+bip_39_word_no_space_6: joindosechoosecarrystayseek
+bip_39_word_no_space_7: joindosechoosecarrystayseekbuzz
+bip_39_word_no_space_8: joindosechoosecarrystayseekbuzzcentury
+bip_39_word_no_space_9: joindosechoosecarrystayseekbuzzcenturygood
+bip_39_word_space_0:
+- join
+- dose
+- choose
+- carry
+- stay
+- seek
+- buzz
+- century
+- good
+- mimic
+- night
+- aisle
+bip_39_word_space_1: join
+bip_39_word_space_10: join dose choose carry stay seek buzz century good mimic
+bip_39_word_space_11: join dose choose carry stay seek buzz century good mimic night
+bip_39_word_space_12: join dose choose carry stay seek buzz century good mimic night
+  aisle
+bip_39_word_space_2: join dose
+bip_39_word_space_3: join dose choose
+bip_39_word_space_4: join dose choose carry
+bip_39_word_space_5: join dose choose carry stay
+bip_39_word_space_6: join dose choose carry stay seek
+bip_39_word_space_7: join dose choose carry stay seek buzz
+bip_39_word_space_8: join dose choose carry stay seek buzz century
+bip_39_word_space_9: join dose choose carry stay seek buzz century good
+bip_39_word_underscore_1: join
+bip_39_word_underscore_10: join_dose_choose_carry_stay_seek_buzz_century_good_mimic
+bip_39_word_underscore_11: join_dose_choose_carry_stay_seek_buzz_century_good_mimic_night
+bip_39_word_underscore_12: join_dose_choose_carry_stay_seek_buzz_century_good_mimic_night_aisle
+bip_39_word_underscore_2: join_dose
+bip_39_word_underscore_3: join_dose_choose
+bip_39_word_underscore_4: join_dose_choose_carry
+bip_39_word_underscore_5: join_dose_choose_carry_stay
+bip_39_word_underscore_6: join_dose_choose_carry_stay_seek
+bip_39_word_underscore_7: join_dose_choose_carry_stay_seek_buzz
+bip_39_word_underscore_8: join_dose_choose_carry_stay_seek_buzz_century
+bip_39_word_underscore_9: join_dose_choose_carry_stay_seek_buzz_century_good
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_15_06_21
 id_no_color: '150621'
 id_no_size: '15_06_21'
 id_no_type: tray_thin_15_06_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_06_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_06_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_06_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203k277
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203k277
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203k277
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '150621'
 name_no_size: 15 06 21
 name_no_size_short: 15 06 21
 name_no_type: Tray Thin 15 06 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_06_21
 oomp_word: rooster cloud kiss
 oomp_word_emoji: ':rooster: :cloud: :kiss:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: rabbit
+bip_39_word_dash_10: rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo
+bip_39_word_dash_11: rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo-hair
+bip_39_word_dash_12: rabbit-uncle-verb-other-crazy-people-run-lobster-travel-buffalo-hair-air
+bip_39_word_dash_2: rabbit-uncle
+bip_39_word_dash_3: rabbit-uncle-verb
+bip_39_word_dash_4: rabbit-uncle-verb-other
+bip_39_word_dash_5: rabbit-uncle-verb-other-crazy
+bip_39_word_dash_6: rabbit-uncle-verb-other-crazy-people
+bip_39_word_dash_7: rabbit-uncle-verb-other-crazy-people-run
+bip_39_word_dash_8: rabbit-uncle-verb-other-crazy-people-run-lobster
+bip_39_word_dash_9: rabbit-uncle-verb-other-crazy-people-run-lobster-travel
+bip_39_word_new_br_1: rabbit
+bip_39_word_new_br_10: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel<br>buffalo
+bip_39_word_new_br_11: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel<br>buffalo<br>hair
+bip_39_word_new_br_12: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel<br>buffalo<br>hair<br>air
+bip_39_word_new_br_2: rabbit<br>uncle
+bip_39_word_new_br_3: rabbit<br>uncle<br>verb
+bip_39_word_new_br_4: rabbit<br>uncle<br>verb<br>other
+bip_39_word_new_br_5: rabbit<br>uncle<br>verb<br>other<br>crazy
+bip_39_word_new_br_6: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people
+bip_39_word_new_br_7: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run
+bip_39_word_new_br_8: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster
+bip_39_word_new_br_9: rabbit<br>uncle<br>verb<br>other<br>crazy<br>people<br>run<br>lobster<br>travel
+bip_39_word_new_line_1: rabbit
+bip_39_word_new_line_10: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run
+
+  lobster
+
+  travel
+
+  buffalo'
+bip_39_word_new_line_11: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run
+
+  lobster
+
+  travel
+
+  buffalo
+
+  hair'
+bip_39_word_new_line_12: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run
+
+  lobster
+
+  travel
+
+  buffalo
+
+  hair
+
+  air'
+bip_39_word_new_line_2: 'rabbit
+
+  uncle'
+bip_39_word_new_line_3: 'rabbit
+
+  uncle
+
+  verb'
+bip_39_word_new_line_4: 'rabbit
+
+  uncle
+
+  verb
+
+  other'
+bip_39_word_new_line_5: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy'
+bip_39_word_new_line_6: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people'
+bip_39_word_new_line_7: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run'
+bip_39_word_new_line_8: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run
+
+  lobster'
+bip_39_word_new_line_9: 'rabbit
+
+  uncle
+
+  verb
+
+  other
+
+  crazy
+
+  people
+
+  run
+
+  lobster
+
+  travel'
+bip_39_word_no_space_1: rabbit
+bip_39_word_no_space_10: rabbituncleverbothercrazypeoplerunlobstertravelbuffalo
+bip_39_word_no_space_11: rabbituncleverbothercrazypeoplerunlobstertravelbuffalohair
+bip_39_word_no_space_12: rabbituncleverbothercrazypeoplerunlobstertravelbuffalohairair
+bip_39_word_no_space_2: rabbituncle
+bip_39_word_no_space_3: rabbituncleverb
+bip_39_word_no_space_4: rabbituncleverbother
+bip_39_word_no_space_5: rabbituncleverbothercrazy
+bip_39_word_no_space_6: rabbituncleverbothercrazypeople
+bip_39_word_no_space_7: rabbituncleverbothercrazypeoplerun
+bip_39_word_no_space_8: rabbituncleverbothercrazypeoplerunlobster
+bip_39_word_no_space_9: rabbituncleverbothercrazypeoplerunlobstertravel
+bip_39_word_space_0:
+- rabbit
+- uncle
+- verb
+- other
+- crazy
+- people
+- run
+- lobster
+- travel
+- buffalo
+- hair
+- air
+bip_39_word_space_1: rabbit
+bip_39_word_space_10: rabbit uncle verb other crazy people run lobster travel buffalo
+bip_39_word_space_11: rabbit uncle verb other crazy people run lobster travel buffalo
+  hair
+bip_39_word_space_12: rabbit uncle verb other crazy people run lobster travel buffalo
+  hair air
+bip_39_word_space_2: rabbit uncle
+bip_39_word_space_3: rabbit uncle verb
+bip_39_word_space_4: rabbit uncle verb other
+bip_39_word_space_5: rabbit uncle verb other crazy
+bip_39_word_space_6: rabbit uncle verb other crazy people
+bip_39_word_space_7: rabbit uncle verb other crazy people run
+bip_39_word_space_8: rabbit uncle verb other crazy people run lobster
+bip_39_word_space_9: rabbit uncle verb other crazy people run lobster travel
+bip_39_word_underscore_1: rabbit
+bip_39_word_underscore_10: rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo
+bip_39_word_underscore_11: rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo_hair
+bip_39_word_underscore_12: rabbit_uncle_verb_other_crazy_people_run_lobster_travel_buffalo_hair_air
+bip_39_word_underscore_2: rabbit_uncle
+bip_39_word_underscore_3: rabbit_uncle_verb
+bip_39_word_underscore_4: rabbit_uncle_verb_other
+bip_39_word_underscore_5: rabbit_uncle_verb_other_crazy
+bip_39_word_underscore_6: rabbit_uncle_verb_other_crazy_people
+bip_39_word_underscore_7: rabbit_uncle_verb_other_crazy_people_run
+bip_39_word_underscore_8: rabbit_uncle_verb_other_crazy_people_run_lobster
+bip_39_word_underscore_9: rabbit_uncle_verb_other_crazy_people_run_lobster_travel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_06_18
 id_no_color: 040618
 id_no_size: 04_06_18
 id_no_type: tray_04_06_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203dy13
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203dy13
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203dy13
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040618
 name_no_size: 04 06 18
 name_no_size_short: 04 06 18
 name_no_type: Tray 04 06 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_06_18
 oomp_word: ram banana toilet
 oomp_word_emoji: ':ram: :banana: :toilet:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: disorder
+bip_39_word_dash_10: disorder-bind-smooth-waste-private-aerobic-tragic-carry-beyond-fatal
+bip_39_word_dash_11: disorder-bind-smooth-waste-private-aerobic-tragic-carry-beyond-fatal-ice
+bip_39_word_dash_12: disorder-bind-smooth-waste-private-aerobic-tragic-carry-beyond-fatal-ice-armor
+bip_39_word_dash_2: disorder-bind
+bip_39_word_dash_3: disorder-bind-smooth
+bip_39_word_dash_4: disorder-bind-smooth-waste
+bip_39_word_dash_5: disorder-bind-smooth-waste-private
+bip_39_word_dash_6: disorder-bind-smooth-waste-private-aerobic
+bip_39_word_dash_7: disorder-bind-smooth-waste-private-aerobic-tragic
+bip_39_word_dash_8: disorder-bind-smooth-waste-private-aerobic-tragic-carry
+bip_39_word_dash_9: disorder-bind-smooth-waste-private-aerobic-tragic-carry-beyond
+bip_39_word_new_br_1: disorder
+bip_39_word_new_br_10: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal
+bip_39_word_new_br_11: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal<br>ice
+bip_39_word_new_br_12: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond<br>fatal<br>ice<br>armor
+bip_39_word_new_br_2: disorder<br>bind
+bip_39_word_new_br_3: disorder<br>bind<br>smooth
+bip_39_word_new_br_4: disorder<br>bind<br>smooth<br>waste
+bip_39_word_new_br_5: disorder<br>bind<br>smooth<br>waste<br>private
+bip_39_word_new_br_6: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic
+bip_39_word_new_br_7: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic
+bip_39_word_new_br_8: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry
+bip_39_word_new_br_9: disorder<br>bind<br>smooth<br>waste<br>private<br>aerobic<br>tragic<br>carry<br>beyond
+bip_39_word_new_line_1: disorder
+bip_39_word_new_line_10: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic
+
+  carry
+
+  beyond
+
+  fatal'
+bip_39_word_new_line_11: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic
+
+  carry
+
+  beyond
+
+  fatal
+
+  ice'
+bip_39_word_new_line_12: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic
+
+  carry
+
+  beyond
+
+  fatal
+
+  ice
+
+  armor'
+bip_39_word_new_line_2: 'disorder
+
+  bind'
+bip_39_word_new_line_3: 'disorder
+
+  bind
+
+  smooth'
+bip_39_word_new_line_4: 'disorder
+
+  bind
+
+  smooth
+
+  waste'
+bip_39_word_new_line_5: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private'
+bip_39_word_new_line_6: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic'
+bip_39_word_new_line_7: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic'
+bip_39_word_new_line_8: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic
+
+  carry'
+bip_39_word_new_line_9: 'disorder
+
+  bind
+
+  smooth
+
+  waste
+
+  private
+
+  aerobic
+
+  tragic
+
+  carry
+
+  beyond'
+bip_39_word_no_space_1: disorder
+bip_39_word_no_space_10: disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatal
+bip_39_word_no_space_11: disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatalice
+bip_39_word_no_space_12: disorderbindsmoothwasteprivateaerobictragiccarrybeyondfatalicearmor
+bip_39_word_no_space_2: disorderbind
+bip_39_word_no_space_3: disorderbindsmooth
+bip_39_word_no_space_4: disorderbindsmoothwaste
+bip_39_word_no_space_5: disorderbindsmoothwasteprivate
+bip_39_word_no_space_6: disorderbindsmoothwasteprivateaerobic
+bip_39_word_no_space_7: disorderbindsmoothwasteprivateaerobictragic
+bip_39_word_no_space_8: disorderbindsmoothwasteprivateaerobictragiccarry
+bip_39_word_no_space_9: disorderbindsmoothwasteprivateaerobictragiccarrybeyond
+bip_39_word_space_0:
+- disorder
+- bind
+- smooth
+- waste
+- private
+- aerobic
+- tragic
+- carry
+- beyond
+- fatal
+- ice
+- armor
+bip_39_word_space_1: disorder
+bip_39_word_space_10: disorder bind smooth waste private aerobic tragic carry beyond
+  fatal
+bip_39_word_space_11: disorder bind smooth waste private aerobic tragic carry beyond
+  fatal ice
+bip_39_word_space_12: disorder bind smooth waste private aerobic tragic carry beyond
+  fatal ice armor
+bip_39_word_space_2: disorder bind
+bip_39_word_space_3: disorder bind smooth
+bip_39_word_space_4: disorder bind smooth waste
+bip_39_word_space_5: disorder bind smooth waste private
+bip_39_word_space_6: disorder bind smooth waste private aerobic
+bip_39_word_space_7: disorder bind smooth waste private aerobic tragic
+bip_39_word_space_8: disorder bind smooth waste private aerobic tragic carry
+bip_39_word_space_9: disorder bind smooth waste private aerobic tragic carry beyond
+bip_39_word_underscore_1: disorder
+bip_39_word_underscore_10: disorder_bind_smooth_waste_private_aerobic_tragic_carry_beyond_fatal
+bip_39_word_underscore_11: disorder_bind_smooth_waste_private_aerobic_tragic_carry_beyond_fatal_ice
+bip_39_word_underscore_12: disorder_bind_smooth_waste_private_aerobic_tragic_carry_beyond_fatal_ice_armor
+bip_39_word_underscore_2: disorder_bind
+bip_39_word_underscore_3: disorder_bind_smooth
+bip_39_word_underscore_4: disorder_bind_smooth_waste
+bip_39_word_underscore_5: disorder_bind_smooth_waste_private
+bip_39_word_underscore_6: disorder_bind_smooth_waste_private_aerobic
+bip_39_word_underscore_7: disorder_bind_smooth_waste_private_aerobic_tragic
+bip_39_word_underscore_8: disorder_bind_smooth_waste_private_aerobic_tragic_carry
+bip_39_word_underscore_9: disorder_bind_smooth_waste_private_aerobic_tragic_carry_beyond
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: black_10_mm_length
 id_no_type: 32_mm_internal_diameter_black_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_black_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_black_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_black_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207g47o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207g47o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207g47o
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: Black 10 mm Length
 name_no_size_short: Black 10 Mm Length
 name_no_type: 32 mm Internal Diameter Black 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_black_10_mm_length
 oomp_word: ramen ship whale
 oomp_word_emoji: ':ramen: :ship: :whale:'

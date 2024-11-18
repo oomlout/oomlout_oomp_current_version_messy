@@ -1,3 +1,222 @@
+bip_39_word_dash_1: face
+bip_39_word_dash_10: face-choice-pistol-shove-account-coach-method-giant-caught-shallow
+bip_39_word_dash_11: face-choice-pistol-shove-account-coach-method-giant-caught-shallow-ability
+bip_39_word_dash_12: face-choice-pistol-shove-account-coach-method-giant-caught-shallow-ability-age
+bip_39_word_dash_2: face-choice
+bip_39_word_dash_3: face-choice-pistol
+bip_39_word_dash_4: face-choice-pistol-shove
+bip_39_word_dash_5: face-choice-pistol-shove-account
+bip_39_word_dash_6: face-choice-pistol-shove-account-coach
+bip_39_word_dash_7: face-choice-pistol-shove-account-coach-method
+bip_39_word_dash_8: face-choice-pistol-shove-account-coach-method-giant
+bip_39_word_dash_9: face-choice-pistol-shove-account-coach-method-giant-caught
+bip_39_word_new_br_1: face
+bip_39_word_new_br_10: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow
+bip_39_word_new_br_11: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow<br>ability
+bip_39_word_new_br_12: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught<br>shallow<br>ability<br>age
+bip_39_word_new_br_2: face<br>choice
+bip_39_word_new_br_3: face<br>choice<br>pistol
+bip_39_word_new_br_4: face<br>choice<br>pistol<br>shove
+bip_39_word_new_br_5: face<br>choice<br>pistol<br>shove<br>account
+bip_39_word_new_br_6: face<br>choice<br>pistol<br>shove<br>account<br>coach
+bip_39_word_new_br_7: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method
+bip_39_word_new_br_8: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant
+bip_39_word_new_br_9: face<br>choice<br>pistol<br>shove<br>account<br>coach<br>method<br>giant<br>caught
+bip_39_word_new_line_1: face
+bip_39_word_new_line_10: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method
+
+  giant
+
+  caught
+
+  shallow'
+bip_39_word_new_line_11: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method
+
+  giant
+
+  caught
+
+  shallow
+
+  ability'
+bip_39_word_new_line_12: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method
+
+  giant
+
+  caught
+
+  shallow
+
+  ability
+
+  age'
+bip_39_word_new_line_2: 'face
+
+  choice'
+bip_39_word_new_line_3: 'face
+
+  choice
+
+  pistol'
+bip_39_word_new_line_4: 'face
+
+  choice
+
+  pistol
+
+  shove'
+bip_39_word_new_line_5: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account'
+bip_39_word_new_line_6: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach'
+bip_39_word_new_line_7: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method'
+bip_39_word_new_line_8: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method
+
+  giant'
+bip_39_word_new_line_9: 'face
+
+  choice
+
+  pistol
+
+  shove
+
+  account
+
+  coach
+
+  method
+
+  giant
+
+  caught'
+bip_39_word_no_space_1: face
+bip_39_word_no_space_10: facechoicepistolshoveaccountcoachmethodgiantcaughtshallow
+bip_39_word_no_space_11: facechoicepistolshoveaccountcoachmethodgiantcaughtshallowability
+bip_39_word_no_space_12: facechoicepistolshoveaccountcoachmethodgiantcaughtshallowabilityage
+bip_39_word_no_space_2: facechoice
+bip_39_word_no_space_3: facechoicepistol
+bip_39_word_no_space_4: facechoicepistolshove
+bip_39_word_no_space_5: facechoicepistolshoveaccount
+bip_39_word_no_space_6: facechoicepistolshoveaccountcoach
+bip_39_word_no_space_7: facechoicepistolshoveaccountcoachmethod
+bip_39_word_no_space_8: facechoicepistolshoveaccountcoachmethodgiant
+bip_39_word_no_space_9: facechoicepistolshoveaccountcoachmethodgiantcaught
+bip_39_word_space_0:
+- face
+- choice
+- pistol
+- shove
+- account
+- coach
+- method
+- giant
+- caught
+- shallow
+- ability
+- age
+bip_39_word_space_1: face
+bip_39_word_space_10: face choice pistol shove account coach method giant caught shallow
+bip_39_word_space_11: face choice pistol shove account coach method giant caught shallow
+  ability
+bip_39_word_space_12: face choice pistol shove account coach method giant caught shallow
+  ability age
+bip_39_word_space_2: face choice
+bip_39_word_space_3: face choice pistol
+bip_39_word_space_4: face choice pistol shove
+bip_39_word_space_5: face choice pistol shove account
+bip_39_word_space_6: face choice pistol shove account coach
+bip_39_word_space_7: face choice pistol shove account coach method
+bip_39_word_space_8: face choice pistol shove account coach method giant
+bip_39_word_space_9: face choice pistol shove account coach method giant caught
+bip_39_word_underscore_1: face
+bip_39_word_underscore_10: face_choice_pistol_shove_account_coach_method_giant_caught_shallow
+bip_39_word_underscore_11: face_choice_pistol_shove_account_coach_method_giant_caught_shallow_ability
+bip_39_word_underscore_12: face_choice_pistol_shove_account_coach_method_giant_caught_shallow_ability_age
+bip_39_word_underscore_2: face_choice
+bip_39_word_underscore_3: face_choice_pistol
+bip_39_word_underscore_4: face_choice_pistol_shove
+bip_39_word_underscore_5: face_choice_pistol_shove_account
+bip_39_word_underscore_6: face_choice_pistol_shove_account_coach
+bip_39_word_underscore_7: face_choice_pistol_shove_account_coach_method
+bip_39_word_underscore_8: face_choice_pistol_shove_account_coach_method_giant
+bip_39_word_underscore_9: face_choice_pistol_shove_account_coach_method_giant_caught
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_05_30
 id_no_color: '110530'
 id_no_size: '11_05_30'
 id_no_type: tray_thin_11_05_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_05_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_05_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_05_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202yr8x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202yr8x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202yr8x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110530'
 name_no_size: 11 05 30
 name_no_size_short: 11 05 30
 name_no_type: Tray Thin 11 05 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_05_30
 oomp_word: turtle bowtie bamboo
 oomp_word_emoji: ':turtle: :bowtie: :bamboo:'

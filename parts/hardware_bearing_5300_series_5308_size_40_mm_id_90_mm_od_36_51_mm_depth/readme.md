@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5308 Size 40 mm ID 90 mm OD 36 51 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5308_size_40_mm_id_90_mm_od_36_51_mm_depth
   * classification: hardware

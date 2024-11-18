@@ -1,3 +1,223 @@
+bip_39_word_dash_1: estate
+bip_39_word_dash_10: estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown
+bip_39_word_dash_11: estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown-shy
+bip_39_word_dash_12: estate-typical-taxi-move-quantum-hidden-divide-arrive-random-gown-shy-across
+bip_39_word_dash_2: estate-typical
+bip_39_word_dash_3: estate-typical-taxi
+bip_39_word_dash_4: estate-typical-taxi-move
+bip_39_word_dash_5: estate-typical-taxi-move-quantum
+bip_39_word_dash_6: estate-typical-taxi-move-quantum-hidden
+bip_39_word_dash_7: estate-typical-taxi-move-quantum-hidden-divide
+bip_39_word_dash_8: estate-typical-taxi-move-quantum-hidden-divide-arrive
+bip_39_word_dash_9: estate-typical-taxi-move-quantum-hidden-divide-arrive-random
+bip_39_word_new_br_1: estate
+bip_39_word_new_br_10: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random<br>gown
+bip_39_word_new_br_11: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random<br>gown<br>shy
+bip_39_word_new_br_12: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random<br>gown<br>shy<br>across
+bip_39_word_new_br_2: estate<br>typical
+bip_39_word_new_br_3: estate<br>typical<br>taxi
+bip_39_word_new_br_4: estate<br>typical<br>taxi<br>move
+bip_39_word_new_br_5: estate<br>typical<br>taxi<br>move<br>quantum
+bip_39_word_new_br_6: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden
+bip_39_word_new_br_7: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide
+bip_39_word_new_br_8: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive
+bip_39_word_new_br_9: estate<br>typical<br>taxi<br>move<br>quantum<br>hidden<br>divide<br>arrive<br>random
+bip_39_word_new_line_1: estate
+bip_39_word_new_line_10: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide
+
+  arrive
+
+  random
+
+  gown'
+bip_39_word_new_line_11: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide
+
+  arrive
+
+  random
+
+  gown
+
+  shy'
+bip_39_word_new_line_12: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide
+
+  arrive
+
+  random
+
+  gown
+
+  shy
+
+  across'
+bip_39_word_new_line_2: 'estate
+
+  typical'
+bip_39_word_new_line_3: 'estate
+
+  typical
+
+  taxi'
+bip_39_word_new_line_4: 'estate
+
+  typical
+
+  taxi
+
+  move'
+bip_39_word_new_line_5: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum'
+bip_39_word_new_line_6: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden'
+bip_39_word_new_line_7: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide'
+bip_39_word_new_line_8: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide
+
+  arrive'
+bip_39_word_new_line_9: 'estate
+
+  typical
+
+  taxi
+
+  move
+
+  quantum
+
+  hidden
+
+  divide
+
+  arrive
+
+  random'
+bip_39_word_no_space_1: estate
+bip_39_word_no_space_10: estatetypicaltaximovequantumhiddendividearriverandomgown
+bip_39_word_no_space_11: estatetypicaltaximovequantumhiddendividearriverandomgownshy
+bip_39_word_no_space_12: estatetypicaltaximovequantumhiddendividearriverandomgownshyacross
+bip_39_word_no_space_2: estatetypical
+bip_39_word_no_space_3: estatetypicaltaxi
+bip_39_word_no_space_4: estatetypicaltaximove
+bip_39_word_no_space_5: estatetypicaltaximovequantum
+bip_39_word_no_space_6: estatetypicaltaximovequantumhidden
+bip_39_word_no_space_7: estatetypicaltaximovequantumhiddendivide
+bip_39_word_no_space_8: estatetypicaltaximovequantumhiddendividearrive
+bip_39_word_no_space_9: estatetypicaltaximovequantumhiddendividearriverandom
+bip_39_word_space_0:
+- estate
+- typical
+- taxi
+- move
+- quantum
+- hidden
+- divide
+- arrive
+- random
+- gown
+- shy
+- across
+bip_39_word_space_1: estate
+bip_39_word_space_10: estate typical taxi move quantum hidden divide arrive random
+  gown
+bip_39_word_space_11: estate typical taxi move quantum hidden divide arrive random
+  gown shy
+bip_39_word_space_12: estate typical taxi move quantum hidden divide arrive random
+  gown shy across
+bip_39_word_space_2: estate typical
+bip_39_word_space_3: estate typical taxi
+bip_39_word_space_4: estate typical taxi move
+bip_39_word_space_5: estate typical taxi move quantum
+bip_39_word_space_6: estate typical taxi move quantum hidden
+bip_39_word_space_7: estate typical taxi move quantum hidden divide
+bip_39_word_space_8: estate typical taxi move quantum hidden divide arrive
+bip_39_word_space_9: estate typical taxi move quantum hidden divide arrive random
+bip_39_word_underscore_1: estate
+bip_39_word_underscore_10: estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown
+bip_39_word_underscore_11: estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown_shy
+bip_39_word_underscore_12: estate_typical_taxi_move_quantum_hidden_divide_arrive_random_gown_shy_across
+bip_39_word_underscore_2: estate_typical
+bip_39_word_underscore_3: estate_typical_taxi
+bip_39_word_underscore_4: estate_typical_taxi_move
+bip_39_word_underscore_5: estate_typical_taxi_move_quantum
+bip_39_word_underscore_6: estate_typical_taxi_move_quantum_hidden
+bip_39_word_underscore_7: estate_typical_taxi_move_quantum_hidden_divide
+bip_39_word_underscore_8: estate_typical_taxi_move_quantum_hidden_divide_arrive
+bip_39_word_underscore_9: estate_typical_taxi_move_quantum_hidden_divide_arrive_random
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_06_90
 id_no_color: '140690'
 id_no_size: '14_06_90'
 id_no_type: tray_thin_14_06_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_06_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_06_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201gra1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201gra1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201gra1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140690'
 name_no_size: 14 06 90
 name_no_size_short: 14 06 90
 name_no_type: Tray Thin 14 06 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_06_90
 oomp_word: ear calendar pray
 oomp_word_emoji: ':ear: :calendar: :pray:'

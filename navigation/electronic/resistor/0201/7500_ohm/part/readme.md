@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0201 7500 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0201_7500_ohm
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :penguin: :pineapple: :taxi:
 * md5_6_alpha: 2yi98
 * md5_6: 4bd2ec
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202yi98)
+[2x1](http://192.168.1.242:1112/?label=oomp%202yi98)
+[6x4](http://192.168.1.55:1112/?label=oomp%202yi98)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_7500_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_7500_ohm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ vital |
 | id_no_size | 7500_ohm |  
 | id_no_type | 0201_7500_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_7500_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_7500_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_7500_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202yi98 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202yi98 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202yi98 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ vital |
 | name_no_size | 7500 Ohm |  
 | name_no_size_short | 7k5 Ohm |  
 | name_no_type | 0201 7500 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0201_7500_ohm |  
 | oomp_word | penguin pineapple taxi |  
 | oomp_word_emoji | :penguin: :pineapple: :taxi: |  

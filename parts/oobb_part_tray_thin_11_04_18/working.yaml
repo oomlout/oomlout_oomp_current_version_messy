@@ -1,3 +1,222 @@
+bip_39_word_dash_1: rack
+bip_39_word_dash_10: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain
+bip_39_word_dash_11: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain-remember
+bip_39_word_dash_12: rack-team-stool-mansion-transfer-blue-visual-pulp-engine-brain-remember-admit
+bip_39_word_dash_2: rack-team
+bip_39_word_dash_3: rack-team-stool
+bip_39_word_dash_4: rack-team-stool-mansion
+bip_39_word_dash_5: rack-team-stool-mansion-transfer
+bip_39_word_dash_6: rack-team-stool-mansion-transfer-blue
+bip_39_word_dash_7: rack-team-stool-mansion-transfer-blue-visual
+bip_39_word_dash_8: rack-team-stool-mansion-transfer-blue-visual-pulp
+bip_39_word_dash_9: rack-team-stool-mansion-transfer-blue-visual-pulp-engine
+bip_39_word_new_br_1: rack
+bip_39_word_new_br_10: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine<br>brain
+bip_39_word_new_br_11: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine<br>brain<br>remember
+bip_39_word_new_br_12: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine<br>brain<br>remember<br>admit
+bip_39_word_new_br_2: rack<br>team
+bip_39_word_new_br_3: rack<br>team<br>stool
+bip_39_word_new_br_4: rack<br>team<br>stool<br>mansion
+bip_39_word_new_br_5: rack<br>team<br>stool<br>mansion<br>transfer
+bip_39_word_new_br_6: rack<br>team<br>stool<br>mansion<br>transfer<br>blue
+bip_39_word_new_br_7: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual
+bip_39_word_new_br_8: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp
+bip_39_word_new_br_9: rack<br>team<br>stool<br>mansion<br>transfer<br>blue<br>visual<br>pulp<br>engine
+bip_39_word_new_line_1: rack
+bip_39_word_new_line_10: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual
+
+  pulp
+
+  engine
+
+  brain'
+bip_39_word_new_line_11: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual
+
+  pulp
+
+  engine
+
+  brain
+
+  remember'
+bip_39_word_new_line_12: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual
+
+  pulp
+
+  engine
+
+  brain
+
+  remember
+
+  admit'
+bip_39_word_new_line_2: 'rack
+
+  team'
+bip_39_word_new_line_3: 'rack
+
+  team
+
+  stool'
+bip_39_word_new_line_4: 'rack
+
+  team
+
+  stool
+
+  mansion'
+bip_39_word_new_line_5: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer'
+bip_39_word_new_line_6: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue'
+bip_39_word_new_line_7: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual'
+bip_39_word_new_line_8: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual
+
+  pulp'
+bip_39_word_new_line_9: 'rack
+
+  team
+
+  stool
+
+  mansion
+
+  transfer
+
+  blue
+
+  visual
+
+  pulp
+
+  engine'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackteamstoolmansiontransferbluevisualpulpenginebrain
+bip_39_word_no_space_11: rackteamstoolmansiontransferbluevisualpulpenginebrainremember
+bip_39_word_no_space_12: rackteamstoolmansiontransferbluevisualpulpenginebrainrememberadmit
+bip_39_word_no_space_2: rackteam
+bip_39_word_no_space_3: rackteamstool
+bip_39_word_no_space_4: rackteamstoolmansion
+bip_39_word_no_space_5: rackteamstoolmansiontransfer
+bip_39_word_no_space_6: rackteamstoolmansiontransferblue
+bip_39_word_no_space_7: rackteamstoolmansiontransferbluevisual
+bip_39_word_no_space_8: rackteamstoolmansiontransferbluevisualpulp
+bip_39_word_no_space_9: rackteamstoolmansiontransferbluevisualpulpengine
+bip_39_word_space_0:
+- rack
+- team
+- stool
+- mansion
+- transfer
+- blue
+- visual
+- pulp
+- engine
+- brain
+- remember
+- admit
+bip_39_word_space_1: rack
+bip_39_word_space_10: rack team stool mansion transfer blue visual pulp engine brain
+bip_39_word_space_11: rack team stool mansion transfer blue visual pulp engine brain
+  remember
+bip_39_word_space_12: rack team stool mansion transfer blue visual pulp engine brain
+  remember admit
+bip_39_word_space_2: rack team
+bip_39_word_space_3: rack team stool
+bip_39_word_space_4: rack team stool mansion
+bip_39_word_space_5: rack team stool mansion transfer
+bip_39_word_space_6: rack team stool mansion transfer blue
+bip_39_word_space_7: rack team stool mansion transfer blue visual
+bip_39_word_space_8: rack team stool mansion transfer blue visual pulp
+bip_39_word_space_9: rack team stool mansion transfer blue visual pulp engine
+bip_39_word_underscore_1: rack
+bip_39_word_underscore_10: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain
+bip_39_word_underscore_11: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain_remember
+bip_39_word_underscore_12: rack_team_stool_mansion_transfer_blue_visual_pulp_engine_brain_remember_admit
+bip_39_word_underscore_2: rack_team
+bip_39_word_underscore_3: rack_team_stool
+bip_39_word_underscore_4: rack_team_stool_mansion
+bip_39_word_underscore_5: rack_team_stool_mansion_transfer
+bip_39_word_underscore_6: rack_team_stool_mansion_transfer_blue
+bip_39_word_underscore_7: rack_team_stool_mansion_transfer_blue_visual
+bip_39_word_underscore_8: rack_team_stool_mansion_transfer_blue_visual_pulp
+bip_39_word_underscore_9: rack_team_stool_mansion_transfer_blue_visual_pulp_engine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_04_18
 id_no_color: '110418'
 id_no_size: '11_04_18'
 id_no_type: tray_thin_11_04_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_04_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_04_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_04_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202bgp2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202bgp2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202bgp2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110418'
 name_no_size: 11 04 18
 name_no_size_short: 11 04 18
 name_no_type: Tray Thin 11 04 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_04_18
 oomp_word: bear chestnut bird
 oomp_word_emoji: ':bear: :chestnut: :bird:'

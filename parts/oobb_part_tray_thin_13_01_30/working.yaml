@@ -1,3 +1,221 @@
+bip_39_word_dash_1: cry
+bip_39_word_dash_10: cry-cover-assume-soda-random-alert-song-ocean-vanish-name
+bip_39_word_dash_11: cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various
+bip_39_word_dash_12: cry-cover-assume-soda-random-alert-song-ocean-vanish-name-various-arena
+bip_39_word_dash_2: cry-cover
+bip_39_word_dash_3: cry-cover-assume
+bip_39_word_dash_4: cry-cover-assume-soda
+bip_39_word_dash_5: cry-cover-assume-soda-random
+bip_39_word_dash_6: cry-cover-assume-soda-random-alert
+bip_39_word_dash_7: cry-cover-assume-soda-random-alert-song
+bip_39_word_dash_8: cry-cover-assume-soda-random-alert-song-ocean
+bip_39_word_dash_9: cry-cover-assume-soda-random-alert-song-ocean-vanish
+bip_39_word_new_br_1: cry
+bip_39_word_new_br_10: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name
+bip_39_word_new_br_11: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various
+bip_39_word_new_br_12: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish<br>name<br>various<br>arena
+bip_39_word_new_br_2: cry<br>cover
+bip_39_word_new_br_3: cry<br>cover<br>assume
+bip_39_word_new_br_4: cry<br>cover<br>assume<br>soda
+bip_39_word_new_br_5: cry<br>cover<br>assume<br>soda<br>random
+bip_39_word_new_br_6: cry<br>cover<br>assume<br>soda<br>random<br>alert
+bip_39_word_new_br_7: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song
+bip_39_word_new_br_8: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean
+bip_39_word_new_br_9: cry<br>cover<br>assume<br>soda<br>random<br>alert<br>song<br>ocean<br>vanish
+bip_39_word_new_line_1: cry
+bip_39_word_new_line_10: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song
+
+  ocean
+
+  vanish
+
+  name'
+bip_39_word_new_line_11: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song
+
+  ocean
+
+  vanish
+
+  name
+
+  various'
+bip_39_word_new_line_12: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song
+
+  ocean
+
+  vanish
+
+  name
+
+  various
+
+  arena'
+bip_39_word_new_line_2: 'cry
+
+  cover'
+bip_39_word_new_line_3: 'cry
+
+  cover
+
+  assume'
+bip_39_word_new_line_4: 'cry
+
+  cover
+
+  assume
+
+  soda'
+bip_39_word_new_line_5: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random'
+bip_39_word_new_line_6: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert'
+bip_39_word_new_line_7: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song'
+bip_39_word_new_line_8: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song
+
+  ocean'
+bip_39_word_new_line_9: 'cry
+
+  cover
+
+  assume
+
+  soda
+
+  random
+
+  alert
+
+  song
+
+  ocean
+
+  vanish'
+bip_39_word_no_space_1: cry
+bip_39_word_no_space_10: crycoverassumesodarandomalertsongoceanvanishname
+bip_39_word_no_space_11: crycoverassumesodarandomalertsongoceanvanishnamevarious
+bip_39_word_no_space_12: crycoverassumesodarandomalertsongoceanvanishnamevariousarena
+bip_39_word_no_space_2: crycover
+bip_39_word_no_space_3: crycoverassume
+bip_39_word_no_space_4: crycoverassumesoda
+bip_39_word_no_space_5: crycoverassumesodarandom
+bip_39_word_no_space_6: crycoverassumesodarandomalert
+bip_39_word_no_space_7: crycoverassumesodarandomalertsong
+bip_39_word_no_space_8: crycoverassumesodarandomalertsongocean
+bip_39_word_no_space_9: crycoverassumesodarandomalertsongoceanvanish
+bip_39_word_space_0:
+- cry
+- cover
+- assume
+- soda
+- random
+- alert
+- song
+- ocean
+- vanish
+- name
+- various
+- arena
+bip_39_word_space_1: cry
+bip_39_word_space_10: cry cover assume soda random alert song ocean vanish name
+bip_39_word_space_11: cry cover assume soda random alert song ocean vanish name various
+bip_39_word_space_12: cry cover assume soda random alert song ocean vanish name various
+  arena
+bip_39_word_space_2: cry cover
+bip_39_word_space_3: cry cover assume
+bip_39_word_space_4: cry cover assume soda
+bip_39_word_space_5: cry cover assume soda random
+bip_39_word_space_6: cry cover assume soda random alert
+bip_39_word_space_7: cry cover assume soda random alert song
+bip_39_word_space_8: cry cover assume soda random alert song ocean
+bip_39_word_space_9: cry cover assume soda random alert song ocean vanish
+bip_39_word_underscore_1: cry
+bip_39_word_underscore_10: cry_cover_assume_soda_random_alert_song_ocean_vanish_name
+bip_39_word_underscore_11: cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various
+bip_39_word_underscore_12: cry_cover_assume_soda_random_alert_song_ocean_vanish_name_various_arena
+bip_39_word_underscore_2: cry_cover
+bip_39_word_underscore_3: cry_cover_assume
+bip_39_word_underscore_4: cry_cover_assume_soda
+bip_39_word_underscore_5: cry_cover_assume_soda_random
+bip_39_word_underscore_6: cry_cover_assume_soda_random_alert
+bip_39_word_underscore_7: cry_cover_assume_soda_random_alert_song
+bip_39_word_underscore_8: cry_cover_assume_soda_random_alert_song_ocean
+bip_39_word_underscore_9: cry_cover_assume_soda_random_alert_song_ocean_vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_13_01_30
 id_no_color: '130130'
 id_no_size: '13_01_30'
 id_no_type: tray_thin_13_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2076ask
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2076ask
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2076ask
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '130130'
 name_no_size: 13 01 30
 name_no_size_short: 13 01 30
 name_no_type: Tray Thin 13 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_01_30
 oomp_word: pizza rowboat droplet
 oomp_word_emoji: ':pizza: :rowboat: :droplet:'

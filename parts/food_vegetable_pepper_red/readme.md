@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Red Peppers
 
+### name
+* name: Food Vegetable Pepper Red
+* name_short: 
 ### id
 * oomp_id: food_vegetable_pepper_red
   * classification: food

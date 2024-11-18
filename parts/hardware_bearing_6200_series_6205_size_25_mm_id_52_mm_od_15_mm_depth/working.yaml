@@ -1,3 +1,223 @@
+bip_39_word_dash_1: mushroom
+bip_39_word_dash_10: mushroom-tube-budget-deliver-material-bone-ball-carry-kidney-alley
+bip_39_word_dash_11: mushroom-tube-budget-deliver-material-bone-ball-carry-kidney-alley-denial
+bip_39_word_dash_12: mushroom-tube-budget-deliver-material-bone-ball-carry-kidney-alley-denial-assault
+bip_39_word_dash_2: mushroom-tube
+bip_39_word_dash_3: mushroom-tube-budget
+bip_39_word_dash_4: mushroom-tube-budget-deliver
+bip_39_word_dash_5: mushroom-tube-budget-deliver-material
+bip_39_word_dash_6: mushroom-tube-budget-deliver-material-bone
+bip_39_word_dash_7: mushroom-tube-budget-deliver-material-bone-ball
+bip_39_word_dash_8: mushroom-tube-budget-deliver-material-bone-ball-carry
+bip_39_word_dash_9: mushroom-tube-budget-deliver-material-bone-ball-carry-kidney
+bip_39_word_new_br_1: mushroom
+bip_39_word_new_br_10: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball<br>carry<br>kidney<br>alley
+bip_39_word_new_br_11: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball<br>carry<br>kidney<br>alley<br>denial
+bip_39_word_new_br_12: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball<br>carry<br>kidney<br>alley<br>denial<br>assault
+bip_39_word_new_br_2: mushroom<br>tube
+bip_39_word_new_br_3: mushroom<br>tube<br>budget
+bip_39_word_new_br_4: mushroom<br>tube<br>budget<br>deliver
+bip_39_word_new_br_5: mushroom<br>tube<br>budget<br>deliver<br>material
+bip_39_word_new_br_6: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone
+bip_39_word_new_br_7: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball
+bip_39_word_new_br_8: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball<br>carry
+bip_39_word_new_br_9: mushroom<br>tube<br>budget<br>deliver<br>material<br>bone<br>ball<br>carry<br>kidney
+bip_39_word_new_line_1: mushroom
+bip_39_word_new_line_10: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball
+
+  carry
+
+  kidney
+
+  alley'
+bip_39_word_new_line_11: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball
+
+  carry
+
+  kidney
+
+  alley
+
+  denial'
+bip_39_word_new_line_12: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball
+
+  carry
+
+  kidney
+
+  alley
+
+  denial
+
+  assault'
+bip_39_word_new_line_2: 'mushroom
+
+  tube'
+bip_39_word_new_line_3: 'mushroom
+
+  tube
+
+  budget'
+bip_39_word_new_line_4: 'mushroom
+
+  tube
+
+  budget
+
+  deliver'
+bip_39_word_new_line_5: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material'
+bip_39_word_new_line_6: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone'
+bip_39_word_new_line_7: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball'
+bip_39_word_new_line_8: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball
+
+  carry'
+bip_39_word_new_line_9: 'mushroom
+
+  tube
+
+  budget
+
+  deliver
+
+  material
+
+  bone
+
+  ball
+
+  carry
+
+  kidney'
+bip_39_word_no_space_1: mushroom
+bip_39_word_no_space_10: mushroomtubebudgetdelivermaterialboneballcarrykidneyalley
+bip_39_word_no_space_11: mushroomtubebudgetdelivermaterialboneballcarrykidneyalleydenial
+bip_39_word_no_space_12: mushroomtubebudgetdelivermaterialboneballcarrykidneyalleydenialassault
+bip_39_word_no_space_2: mushroomtube
+bip_39_word_no_space_3: mushroomtubebudget
+bip_39_word_no_space_4: mushroomtubebudgetdeliver
+bip_39_word_no_space_5: mushroomtubebudgetdelivermaterial
+bip_39_word_no_space_6: mushroomtubebudgetdelivermaterialbone
+bip_39_word_no_space_7: mushroomtubebudgetdelivermaterialboneball
+bip_39_word_no_space_8: mushroomtubebudgetdelivermaterialboneballcarry
+bip_39_word_no_space_9: mushroomtubebudgetdelivermaterialboneballcarrykidney
+bip_39_word_space_0:
+- mushroom
+- tube
+- budget
+- deliver
+- material
+- bone
+- ball
+- carry
+- kidney
+- alley
+- denial
+- assault
+bip_39_word_space_1: mushroom
+bip_39_word_space_10: mushroom tube budget deliver material bone ball carry kidney
+  alley
+bip_39_word_space_11: mushroom tube budget deliver material bone ball carry kidney
+  alley denial
+bip_39_word_space_12: mushroom tube budget deliver material bone ball carry kidney
+  alley denial assault
+bip_39_word_space_2: mushroom tube
+bip_39_word_space_3: mushroom tube budget
+bip_39_word_space_4: mushroom tube budget deliver
+bip_39_word_space_5: mushroom tube budget deliver material
+bip_39_word_space_6: mushroom tube budget deliver material bone
+bip_39_word_space_7: mushroom tube budget deliver material bone ball
+bip_39_word_space_8: mushroom tube budget deliver material bone ball carry
+bip_39_word_space_9: mushroom tube budget deliver material bone ball carry kidney
+bip_39_word_underscore_1: mushroom
+bip_39_word_underscore_10: mushroom_tube_budget_deliver_material_bone_ball_carry_kidney_alley
+bip_39_word_underscore_11: mushroom_tube_budget_deliver_material_bone_ball_carry_kidney_alley_denial
+bip_39_word_underscore_12: mushroom_tube_budget_deliver_material_bone_ball_carry_kidney_alley_denial_assault
+bip_39_word_underscore_2: mushroom_tube
+bip_39_word_underscore_3: mushroom_tube_budget
+bip_39_word_underscore_4: mushroom_tube_budget_deliver
+bip_39_word_underscore_5: mushroom_tube_budget_deliver_material
+bip_39_word_underscore_6: mushroom_tube_budget_deliver_material_bone
+bip_39_word_underscore_7: mushroom_tube_budget_deliver_material_bone_ball
+bip_39_word_underscore_8: mushroom_tube_budget_deliver_material_bone_ball_carry
+bip_39_word_underscore_9: mushroom_tube_budget_deliver_material_bone_ball_carry_kidney
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
 id_no_color: 25_mm_id_52_mm_od_15_mm_depth
 id_no_size: 6205_size_25_mm_id_52_mm_od_15_mm_depth
 id_no_type: 6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208g1q9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208g1q9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208g1q9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 25 mm ID 52 mm OD 15 mm Depth
 name_no_size: 6205 Size 25 mm ID 52 mm OD 15 mm Depth
 name_no_size_short: 6205 Size 25 Mm Id 52 Mm Od 15 Mm Depth
 name_no_type: 6200 Series 6205 Size 25 mm ID 52 mm OD 15 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6205
+oomlout_short_code_upper: BR6205
 oomp_key: oomp_hardware_bearing_6200_series_6205_size_25_mm_id_52_mm_od_15_mm_depth
 oomp_word: hospital fireworks doughnut
 oomp_word_emoji: ':hospital: :fireworks: :doughnut:'

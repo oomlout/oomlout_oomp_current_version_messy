@@ -1,3 +1,222 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango
+bip_39_word_dash_11: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango-lens
+bip_39_word_dash_12: print-come-unfair-adapt-present-bulb-inquiry-trip-school-mango-lens-ask
+bip_39_word_dash_2: print-come
+bip_39_word_dash_3: print-come-unfair
+bip_39_word_dash_4: print-come-unfair-adapt
+bip_39_word_dash_5: print-come-unfair-adapt-present
+bip_39_word_dash_6: print-come-unfair-adapt-present-bulb
+bip_39_word_dash_7: print-come-unfair-adapt-present-bulb-inquiry
+bip_39_word_dash_8: print-come-unfair-adapt-present-bulb-inquiry-trip
+bip_39_word_dash_9: print-come-unfair-adapt-present-bulb-inquiry-trip-school
+bip_39_word_new_br_1: print
+bip_39_word_new_br_10: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school<br>mango
+bip_39_word_new_br_11: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school<br>mango<br>lens
+bip_39_word_new_br_12: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school<br>mango<br>lens<br>ask
+bip_39_word_new_br_2: print<br>come
+bip_39_word_new_br_3: print<br>come<br>unfair
+bip_39_word_new_br_4: print<br>come<br>unfair<br>adapt
+bip_39_word_new_br_5: print<br>come<br>unfair<br>adapt<br>present
+bip_39_word_new_br_6: print<br>come<br>unfair<br>adapt<br>present<br>bulb
+bip_39_word_new_br_7: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry
+bip_39_word_new_br_8: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip
+bip_39_word_new_br_9: print<br>come<br>unfair<br>adapt<br>present<br>bulb<br>inquiry<br>trip<br>school
+bip_39_word_new_line_1: print
+bip_39_word_new_line_10: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry
+
+  trip
+
+  school
+
+  mango'
+bip_39_word_new_line_11: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry
+
+  trip
+
+  school
+
+  mango
+
+  lens'
+bip_39_word_new_line_12: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry
+
+  trip
+
+  school
+
+  mango
+
+  lens
+
+  ask'
+bip_39_word_new_line_2: 'print
+
+  come'
+bip_39_word_new_line_3: 'print
+
+  come
+
+  unfair'
+bip_39_word_new_line_4: 'print
+
+  come
+
+  unfair
+
+  adapt'
+bip_39_word_new_line_5: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present'
+bip_39_word_new_line_6: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb'
+bip_39_word_new_line_7: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry'
+bip_39_word_new_line_8: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry
+
+  trip'
+bip_39_word_new_line_9: 'print
+
+  come
+
+  unfair
+
+  adapt
+
+  present
+
+  bulb
+
+  inquiry
+
+  trip
+
+  school'
+bip_39_word_no_space_1: print
+bip_39_word_no_space_10: printcomeunfairadaptpresentbulbinquirytripschoolmango
+bip_39_word_no_space_11: printcomeunfairadaptpresentbulbinquirytripschoolmangolens
+bip_39_word_no_space_12: printcomeunfairadaptpresentbulbinquirytripschoolmangolensask
+bip_39_word_no_space_2: printcome
+bip_39_word_no_space_3: printcomeunfair
+bip_39_word_no_space_4: printcomeunfairadapt
+bip_39_word_no_space_5: printcomeunfairadaptpresent
+bip_39_word_no_space_6: printcomeunfairadaptpresentbulb
+bip_39_word_no_space_7: printcomeunfairadaptpresentbulbinquiry
+bip_39_word_no_space_8: printcomeunfairadaptpresentbulbinquirytrip
+bip_39_word_no_space_9: printcomeunfairadaptpresentbulbinquirytripschool
+bip_39_word_space_0:
+- print
+- come
+- unfair
+- adapt
+- present
+- bulb
+- inquiry
+- trip
+- school
+- mango
+- lens
+- ask
+bip_39_word_space_1: print
+bip_39_word_space_10: print come unfair adapt present bulb inquiry trip school mango
+bip_39_word_space_11: print come unfair adapt present bulb inquiry trip school mango
+  lens
+bip_39_word_space_12: print come unfair adapt present bulb inquiry trip school mango
+  lens ask
+bip_39_word_space_2: print come
+bip_39_word_space_3: print come unfair
+bip_39_word_space_4: print come unfair adapt
+bip_39_word_space_5: print come unfair adapt present
+bip_39_word_space_6: print come unfair adapt present bulb
+bip_39_word_space_7: print come unfair adapt present bulb inquiry
+bip_39_word_space_8: print come unfair adapt present bulb inquiry trip
+bip_39_word_space_9: print come unfair adapt present bulb inquiry trip school
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango
+bip_39_word_underscore_11: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango_lens
+bip_39_word_underscore_12: print_come_unfair_adapt_present_bulb_inquiry_trip_school_mango_lens_ask
+bip_39_word_underscore_2: print_come
+bip_39_word_underscore_3: print_come_unfair
+bip_39_word_underscore_4: print_come_unfair_adapt
+bip_39_word_underscore_5: print_come_unfair_adapt_present
+bip_39_word_underscore_6: print_come_unfair_adapt_present_bulb
+bip_39_word_underscore_7: print_come_unfair_adapt_present_bulb_inquiry
+bip_39_word_underscore_8: print_come_unfair_adapt_present_bulb_inquiry_trip
+bip_39_word_underscore_9: print_come_unfair_adapt_present_bulb_inquiry_trip_school
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_03_21
 id_no_color: '140321'
 id_no_size: '14_03_21'
 id_no_type: tray_thin_14_03_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_03_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_03_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_03_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208b71d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208b71d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208b71d
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140321'
 name_no_size: 14 03 21
 name_no_size_short: 14 03 21
 name_no_type: Tray Thin 14 03 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_03_21
 oomp_word: house bowtie bouquet
 oomp_word_emoji: ':house: :bowtie: :bouquet:'

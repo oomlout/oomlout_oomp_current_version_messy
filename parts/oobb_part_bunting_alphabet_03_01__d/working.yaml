@@ -1,3 +1,223 @@
+bip_39_word_dash_1: improve
+bip_39_word_dash_10: improve-soap-lounge-harvest-vicious-orbit-derive-shine-mind-rather
+bip_39_word_dash_11: improve-soap-lounge-harvest-vicious-orbit-derive-shine-mind-rather-possible
+bip_39_word_dash_12: improve-soap-lounge-harvest-vicious-orbit-derive-shine-mind-rather-possible-auto
+bip_39_word_dash_2: improve-soap
+bip_39_word_dash_3: improve-soap-lounge
+bip_39_word_dash_4: improve-soap-lounge-harvest
+bip_39_word_dash_5: improve-soap-lounge-harvest-vicious
+bip_39_word_dash_6: improve-soap-lounge-harvest-vicious-orbit
+bip_39_word_dash_7: improve-soap-lounge-harvest-vicious-orbit-derive
+bip_39_word_dash_8: improve-soap-lounge-harvest-vicious-orbit-derive-shine
+bip_39_word_dash_9: improve-soap-lounge-harvest-vicious-orbit-derive-shine-mind
+bip_39_word_new_br_1: improve
+bip_39_word_new_br_10: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive<br>shine<br>mind<br>rather
+bip_39_word_new_br_11: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive<br>shine<br>mind<br>rather<br>possible
+bip_39_word_new_br_12: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive<br>shine<br>mind<br>rather<br>possible<br>auto
+bip_39_word_new_br_2: improve<br>soap
+bip_39_word_new_br_3: improve<br>soap<br>lounge
+bip_39_word_new_br_4: improve<br>soap<br>lounge<br>harvest
+bip_39_word_new_br_5: improve<br>soap<br>lounge<br>harvest<br>vicious
+bip_39_word_new_br_6: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit
+bip_39_word_new_br_7: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive
+bip_39_word_new_br_8: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive<br>shine
+bip_39_word_new_br_9: improve<br>soap<br>lounge<br>harvest<br>vicious<br>orbit<br>derive<br>shine<br>mind
+bip_39_word_new_line_1: improve
+bip_39_word_new_line_10: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive
+
+  shine
+
+  mind
+
+  rather'
+bip_39_word_new_line_11: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive
+
+  shine
+
+  mind
+
+  rather
+
+  possible'
+bip_39_word_new_line_12: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive
+
+  shine
+
+  mind
+
+  rather
+
+  possible
+
+  auto'
+bip_39_word_new_line_2: 'improve
+
+  soap'
+bip_39_word_new_line_3: 'improve
+
+  soap
+
+  lounge'
+bip_39_word_new_line_4: 'improve
+
+  soap
+
+  lounge
+
+  harvest'
+bip_39_word_new_line_5: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious'
+bip_39_word_new_line_6: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit'
+bip_39_word_new_line_7: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive'
+bip_39_word_new_line_8: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive
+
+  shine'
+bip_39_word_new_line_9: 'improve
+
+  soap
+
+  lounge
+
+  harvest
+
+  vicious
+
+  orbit
+
+  derive
+
+  shine
+
+  mind'
+bip_39_word_no_space_1: improve
+bip_39_word_no_space_10: improvesoaploungeharvestviciousorbitderiveshinemindrather
+bip_39_word_no_space_11: improvesoaploungeharvestviciousorbitderiveshinemindratherpossible
+bip_39_word_no_space_12: improvesoaploungeharvestviciousorbitderiveshinemindratherpossibleauto
+bip_39_word_no_space_2: improvesoap
+bip_39_word_no_space_3: improvesoaplounge
+bip_39_word_no_space_4: improvesoaploungeharvest
+bip_39_word_no_space_5: improvesoaploungeharvestvicious
+bip_39_word_no_space_6: improvesoaploungeharvestviciousorbit
+bip_39_word_no_space_7: improvesoaploungeharvestviciousorbitderive
+bip_39_word_no_space_8: improvesoaploungeharvestviciousorbitderiveshine
+bip_39_word_no_space_9: improvesoaploungeharvestviciousorbitderiveshinemind
+bip_39_word_space_0:
+- improve
+- soap
+- lounge
+- harvest
+- vicious
+- orbit
+- derive
+- shine
+- mind
+- rather
+- possible
+- auto
+bip_39_word_space_1: improve
+bip_39_word_space_10: improve soap lounge harvest vicious orbit derive shine mind
+  rather
+bip_39_word_space_11: improve soap lounge harvest vicious orbit derive shine mind
+  rather possible
+bip_39_word_space_12: improve soap lounge harvest vicious orbit derive shine mind
+  rather possible auto
+bip_39_word_space_2: improve soap
+bip_39_word_space_3: improve soap lounge
+bip_39_word_space_4: improve soap lounge harvest
+bip_39_word_space_5: improve soap lounge harvest vicious
+bip_39_word_space_6: improve soap lounge harvest vicious orbit
+bip_39_word_space_7: improve soap lounge harvest vicious orbit derive
+bip_39_word_space_8: improve soap lounge harvest vicious orbit derive shine
+bip_39_word_space_9: improve soap lounge harvest vicious orbit derive shine mind
+bip_39_word_underscore_1: improve
+bip_39_word_underscore_10: improve_soap_lounge_harvest_vicious_orbit_derive_shine_mind_rather
+bip_39_word_underscore_11: improve_soap_lounge_harvest_vicious_orbit_derive_shine_mind_rather_possible
+bip_39_word_underscore_12: improve_soap_lounge_harvest_vicious_orbit_derive_shine_mind_rather_possible_auto
+bip_39_word_underscore_2: improve_soap
+bip_39_word_underscore_3: improve_soap_lounge
+bip_39_word_underscore_4: improve_soap_lounge_harvest
+bip_39_word_underscore_5: improve_soap_lounge_harvest_vicious
+bip_39_word_underscore_6: improve_soap_lounge_harvest_vicious_orbit
+bip_39_word_underscore_7: improve_soap_lounge_harvest_vicious_orbit_derive
+bip_39_word_underscore_8: improve_soap_lounge_harvest_vicious_orbit_derive_shine
+bip_39_word_underscore_9: improve_soap_lounge_harvest_vicious_orbit_derive_shine_mind
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_03_01__d
 id_no_color: 0301d
 id_no_size: 03_01__d
 id_no_type: bunting_alphabet_03_01__d
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__d
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__d
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__d
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209q7fw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209q7fw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209q7fw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0301D
 name_no_size: 03 01  D
 name_no_size_short: 03 01  D
 name_no_type: Bunting Alphabet 03 01  D
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__d
 oomp_word: eight snail snowflake
 oomp_word_emoji: ':eight: :snail: :snowflake:'

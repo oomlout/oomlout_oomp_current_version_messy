@@ -1,3 +1,222 @@
+bip_39_word_dash_1: detect
+bip_39_word_dash_10: detect-buyer-humble-diary-void-trigger-risk-among-civil-latin
+bip_39_word_dash_11: detect-buyer-humble-diary-void-trigger-risk-among-civil-latin-chimney
+bip_39_word_dash_12: detect-buyer-humble-diary-void-trigger-risk-among-civil-latin-chimney-area
+bip_39_word_dash_2: detect-buyer
+bip_39_word_dash_3: detect-buyer-humble
+bip_39_word_dash_4: detect-buyer-humble-diary
+bip_39_word_dash_5: detect-buyer-humble-diary-void
+bip_39_word_dash_6: detect-buyer-humble-diary-void-trigger
+bip_39_word_dash_7: detect-buyer-humble-diary-void-trigger-risk
+bip_39_word_dash_8: detect-buyer-humble-diary-void-trigger-risk-among
+bip_39_word_dash_9: detect-buyer-humble-diary-void-trigger-risk-among-civil
+bip_39_word_new_br_1: detect
+bip_39_word_new_br_10: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin
+bip_39_word_new_br_11: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin<br>chimney
+bip_39_word_new_br_12: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil<br>latin<br>chimney<br>area
+bip_39_word_new_br_2: detect<br>buyer
+bip_39_word_new_br_3: detect<br>buyer<br>humble
+bip_39_word_new_br_4: detect<br>buyer<br>humble<br>diary
+bip_39_word_new_br_5: detect<br>buyer<br>humble<br>diary<br>void
+bip_39_word_new_br_6: detect<br>buyer<br>humble<br>diary<br>void<br>trigger
+bip_39_word_new_br_7: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk
+bip_39_word_new_br_8: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among
+bip_39_word_new_br_9: detect<br>buyer<br>humble<br>diary<br>void<br>trigger<br>risk<br>among<br>civil
+bip_39_word_new_line_1: detect
+bip_39_word_new_line_10: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk
+
+  among
+
+  civil
+
+  latin'
+bip_39_word_new_line_11: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk
+
+  among
+
+  civil
+
+  latin
+
+  chimney'
+bip_39_word_new_line_12: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk
+
+  among
+
+  civil
+
+  latin
+
+  chimney
+
+  area'
+bip_39_word_new_line_2: 'detect
+
+  buyer'
+bip_39_word_new_line_3: 'detect
+
+  buyer
+
+  humble'
+bip_39_word_new_line_4: 'detect
+
+  buyer
+
+  humble
+
+  diary'
+bip_39_word_new_line_5: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void'
+bip_39_word_new_line_6: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger'
+bip_39_word_new_line_7: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk'
+bip_39_word_new_line_8: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk
+
+  among'
+bip_39_word_new_line_9: 'detect
+
+  buyer
+
+  humble
+
+  diary
+
+  void
+
+  trigger
+
+  risk
+
+  among
+
+  civil'
+bip_39_word_no_space_1: detect
+bip_39_word_no_space_10: detectbuyerhumblediaryvoidtriggerriskamongcivillatin
+bip_39_word_no_space_11: detectbuyerhumblediaryvoidtriggerriskamongcivillatinchimney
+bip_39_word_no_space_12: detectbuyerhumblediaryvoidtriggerriskamongcivillatinchimneyarea
+bip_39_word_no_space_2: detectbuyer
+bip_39_word_no_space_3: detectbuyerhumble
+bip_39_word_no_space_4: detectbuyerhumblediary
+bip_39_word_no_space_5: detectbuyerhumblediaryvoid
+bip_39_word_no_space_6: detectbuyerhumblediaryvoidtrigger
+bip_39_word_no_space_7: detectbuyerhumblediaryvoidtriggerrisk
+bip_39_word_no_space_8: detectbuyerhumblediaryvoidtriggerriskamong
+bip_39_word_no_space_9: detectbuyerhumblediaryvoidtriggerriskamongcivil
+bip_39_word_space_0:
+- detect
+- buyer
+- humble
+- diary
+- void
+- trigger
+- risk
+- among
+- civil
+- latin
+- chimney
+- area
+bip_39_word_space_1: detect
+bip_39_word_space_10: detect buyer humble diary void trigger risk among civil latin
+bip_39_word_space_11: detect buyer humble diary void trigger risk among civil latin
+  chimney
+bip_39_word_space_12: detect buyer humble diary void trigger risk among civil latin
+  chimney area
+bip_39_word_space_2: detect buyer
+bip_39_word_space_3: detect buyer humble
+bip_39_word_space_4: detect buyer humble diary
+bip_39_word_space_5: detect buyer humble diary void
+bip_39_word_space_6: detect buyer humble diary void trigger
+bip_39_word_space_7: detect buyer humble diary void trigger risk
+bip_39_word_space_8: detect buyer humble diary void trigger risk among
+bip_39_word_space_9: detect buyer humble diary void trigger risk among civil
+bip_39_word_underscore_1: detect
+bip_39_word_underscore_10: detect_buyer_humble_diary_void_trigger_risk_among_civil_latin
+bip_39_word_underscore_11: detect_buyer_humble_diary_void_trigger_risk_among_civil_latin_chimney
+bip_39_word_underscore_12: detect_buyer_humble_diary_void_trigger_risk_among_civil_latin_chimney_area
+bip_39_word_underscore_2: detect_buyer
+bip_39_word_underscore_3: detect_buyer_humble
+bip_39_word_underscore_4: detect_buyer_humble_diary
+bip_39_word_underscore_5: detect_buyer_humble_diary_void
+bip_39_word_underscore_6: detect_buyer_humble_diary_void_trigger
+bip_39_word_underscore_7: detect_buyer_humble_diary_void_trigger_risk
+bip_39_word_underscore_8: detect_buyer_humble_diary_void_trigger_risk_among
+bip_39_word_underscore_9: detect_buyer_humble_diary_void_trigger_risk_among_civil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_12_21
 id_no_color: 091221
 id_no_size: 09_12_21
 id_no_type: tray_09_12_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_12_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2071a1r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2071a1r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2071a1r
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091221
 name_no_size: 09 12 21
 name_no_size_short: 09 12 21
 name_no_type: Tray 09 12 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_12_21
 oomp_word: coffee beetle princess
 oomp_word_emoji: ':coffee: :beetle: :princess:'

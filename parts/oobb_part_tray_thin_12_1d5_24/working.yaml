@@ -1,3 +1,222 @@
+bip_39_word_dash_1: own
+bip_39_word_dash_10: own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical
+bip_39_word_dash_11: own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical-squirrel
+bip_39_word_dash_12: own-theme-trigger-cute-kit-brown-humble-truly-vehicle-physical-squirrel-autumn
+bip_39_word_dash_2: own-theme
+bip_39_word_dash_3: own-theme-trigger
+bip_39_word_dash_4: own-theme-trigger-cute
+bip_39_word_dash_5: own-theme-trigger-cute-kit
+bip_39_word_dash_6: own-theme-trigger-cute-kit-brown
+bip_39_word_dash_7: own-theme-trigger-cute-kit-brown-humble
+bip_39_word_dash_8: own-theme-trigger-cute-kit-brown-humble-truly
+bip_39_word_dash_9: own-theme-trigger-cute-kit-brown-humble-truly-vehicle
+bip_39_word_new_br_1: own
+bip_39_word_new_br_10: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical
+bip_39_word_new_br_11: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical<br>squirrel
+bip_39_word_new_br_12: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle<br>physical<br>squirrel<br>autumn
+bip_39_word_new_br_2: own<br>theme
+bip_39_word_new_br_3: own<br>theme<br>trigger
+bip_39_word_new_br_4: own<br>theme<br>trigger<br>cute
+bip_39_word_new_br_5: own<br>theme<br>trigger<br>cute<br>kit
+bip_39_word_new_br_6: own<br>theme<br>trigger<br>cute<br>kit<br>brown
+bip_39_word_new_br_7: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble
+bip_39_word_new_br_8: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly
+bip_39_word_new_br_9: own<br>theme<br>trigger<br>cute<br>kit<br>brown<br>humble<br>truly<br>vehicle
+bip_39_word_new_line_1: own
+bip_39_word_new_line_10: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical'
+bip_39_word_new_line_11: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical
+
+  squirrel'
+bip_39_word_new_line_12: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle
+
+  physical
+
+  squirrel
+
+  autumn'
+bip_39_word_new_line_2: 'own
+
+  theme'
+bip_39_word_new_line_3: 'own
+
+  theme
+
+  trigger'
+bip_39_word_new_line_4: 'own
+
+  theme
+
+  trigger
+
+  cute'
+bip_39_word_new_line_5: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit'
+bip_39_word_new_line_6: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown'
+bip_39_word_new_line_7: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble'
+bip_39_word_new_line_8: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly'
+bip_39_word_new_line_9: 'own
+
+  theme
+
+  trigger
+
+  cute
+
+  kit
+
+  brown
+
+  humble
+
+  truly
+
+  vehicle'
+bip_39_word_no_space_1: own
+bip_39_word_no_space_10: ownthemetriggercutekitbrownhumbletrulyvehiclephysical
+bip_39_word_no_space_11: ownthemetriggercutekitbrownhumbletrulyvehiclephysicalsquirrel
+bip_39_word_no_space_12: ownthemetriggercutekitbrownhumbletrulyvehiclephysicalsquirrelautumn
+bip_39_word_no_space_2: owntheme
+bip_39_word_no_space_3: ownthemetrigger
+bip_39_word_no_space_4: ownthemetriggercute
+bip_39_word_no_space_5: ownthemetriggercutekit
+bip_39_word_no_space_6: ownthemetriggercutekitbrown
+bip_39_word_no_space_7: ownthemetriggercutekitbrownhumble
+bip_39_word_no_space_8: ownthemetriggercutekitbrownhumbletruly
+bip_39_word_no_space_9: ownthemetriggercutekitbrownhumbletrulyvehicle
+bip_39_word_space_0:
+- own
+- theme
+- trigger
+- cute
+- kit
+- brown
+- humble
+- truly
+- vehicle
+- physical
+- squirrel
+- autumn
+bip_39_word_space_1: own
+bip_39_word_space_10: own theme trigger cute kit brown humble truly vehicle physical
+bip_39_word_space_11: own theme trigger cute kit brown humble truly vehicle physical
+  squirrel
+bip_39_word_space_12: own theme trigger cute kit brown humble truly vehicle physical
+  squirrel autumn
+bip_39_word_space_2: own theme
+bip_39_word_space_3: own theme trigger
+bip_39_word_space_4: own theme trigger cute
+bip_39_word_space_5: own theme trigger cute kit
+bip_39_word_space_6: own theme trigger cute kit brown
+bip_39_word_space_7: own theme trigger cute kit brown humble
+bip_39_word_space_8: own theme trigger cute kit brown humble truly
+bip_39_word_space_9: own theme trigger cute kit brown humble truly vehicle
+bip_39_word_underscore_1: own
+bip_39_word_underscore_10: own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical
+bip_39_word_underscore_11: own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical_squirrel
+bip_39_word_underscore_12: own_theme_trigger_cute_kit_brown_humble_truly_vehicle_physical_squirrel_autumn
+bip_39_word_underscore_2: own_theme
+bip_39_word_underscore_3: own_theme_trigger
+bip_39_word_underscore_4: own_theme_trigger_cute
+bip_39_word_underscore_5: own_theme_trigger_cute_kit
+bip_39_word_underscore_6: own_theme_trigger_cute_kit_brown
+bip_39_word_underscore_7: own_theme_trigger_cute_kit_brown_humble
+bip_39_word_underscore_8: own_theme_trigger_cute_kit_brown_humble_truly
+bip_39_word_underscore_9: own_theme_trigger_cute_kit_brown_humble_truly_vehicle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_1d5_24
 id_no_color: 121d524
 id_no_size: 12_1d5_24
 id_no_type: tray_thin_12_1d5_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_1d5_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_1d5_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_1d5_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209thm0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209thm0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209thm0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 121D524
 name_no_size: 12 1D5 24
 name_no_size_short: 12 1D5 24
 name_no_type: Tray Thin 12 1D5 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_1d5_24
 oomp_word: ok guitar mushroom
 oomp_word_emoji: ':ok: :guitar: :mushroom:'

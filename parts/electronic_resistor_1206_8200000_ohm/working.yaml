@@ -1,3 +1,222 @@
+bip_39_word_dash_1: goat
+bip_39_word_dash_10: goat-robot-ripple-diagram-cliff-pave-price-train-river-voice
+bip_39_word_dash_11: goat-robot-ripple-diagram-cliff-pave-price-train-river-voice-below
+bip_39_word_dash_12: goat-robot-ripple-diagram-cliff-pave-price-train-river-voice-below-arch
+bip_39_word_dash_2: goat-robot
+bip_39_word_dash_3: goat-robot-ripple
+bip_39_word_dash_4: goat-robot-ripple-diagram
+bip_39_word_dash_5: goat-robot-ripple-diagram-cliff
+bip_39_word_dash_6: goat-robot-ripple-diagram-cliff-pave
+bip_39_word_dash_7: goat-robot-ripple-diagram-cliff-pave-price
+bip_39_word_dash_8: goat-robot-ripple-diagram-cliff-pave-price-train
+bip_39_word_dash_9: goat-robot-ripple-diagram-cliff-pave-price-train-river
+bip_39_word_new_br_1: goat
+bip_39_word_new_br_10: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice
+bip_39_word_new_br_11: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below
+bip_39_word_new_br_12: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river<br>voice<br>below<br>arch
+bip_39_word_new_br_2: goat<br>robot
+bip_39_word_new_br_3: goat<br>robot<br>ripple
+bip_39_word_new_br_4: goat<br>robot<br>ripple<br>diagram
+bip_39_word_new_br_5: goat<br>robot<br>ripple<br>diagram<br>cliff
+bip_39_word_new_br_6: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave
+bip_39_word_new_br_7: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price
+bip_39_word_new_br_8: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train
+bip_39_word_new_br_9: goat<br>robot<br>ripple<br>diagram<br>cliff<br>pave<br>price<br>train<br>river
+bip_39_word_new_line_1: goat
+bip_39_word_new_line_10: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price
+
+  train
+
+  river
+
+  voice'
+bip_39_word_new_line_11: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price
+
+  train
+
+  river
+
+  voice
+
+  below'
+bip_39_word_new_line_12: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price
+
+  train
+
+  river
+
+  voice
+
+  below
+
+  arch'
+bip_39_word_new_line_2: 'goat
+
+  robot'
+bip_39_word_new_line_3: 'goat
+
+  robot
+
+  ripple'
+bip_39_word_new_line_4: 'goat
+
+  robot
+
+  ripple
+
+  diagram'
+bip_39_word_new_line_5: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff'
+bip_39_word_new_line_6: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave'
+bip_39_word_new_line_7: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price'
+bip_39_word_new_line_8: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price
+
+  train'
+bip_39_word_new_line_9: 'goat
+
+  robot
+
+  ripple
+
+  diagram
+
+  cliff
+
+  pave
+
+  price
+
+  train
+
+  river'
+bip_39_word_no_space_1: goat
+bip_39_word_no_space_10: goatrobotripplediagramcliffpavepricetrainrivervoice
+bip_39_word_no_space_11: goatrobotripplediagramcliffpavepricetrainrivervoicebelow
+bip_39_word_no_space_12: goatrobotripplediagramcliffpavepricetrainrivervoicebelowarch
+bip_39_word_no_space_2: goatrobot
+bip_39_word_no_space_3: goatrobotripple
+bip_39_word_no_space_4: goatrobotripplediagram
+bip_39_word_no_space_5: goatrobotripplediagramcliff
+bip_39_word_no_space_6: goatrobotripplediagramcliffpave
+bip_39_word_no_space_7: goatrobotripplediagramcliffpaveprice
+bip_39_word_no_space_8: goatrobotripplediagramcliffpavepricetrain
+bip_39_word_no_space_9: goatrobotripplediagramcliffpavepricetrainriver
+bip_39_word_space_0:
+- goat
+- robot
+- ripple
+- diagram
+- cliff
+- pave
+- price
+- train
+- river
+- voice
+- below
+- arch
+bip_39_word_space_1: goat
+bip_39_word_space_10: goat robot ripple diagram cliff pave price train river voice
+bip_39_word_space_11: goat robot ripple diagram cliff pave price train river voice
+  below
+bip_39_word_space_12: goat robot ripple diagram cliff pave price train river voice
+  below arch
+bip_39_word_space_2: goat robot
+bip_39_word_space_3: goat robot ripple
+bip_39_word_space_4: goat robot ripple diagram
+bip_39_word_space_5: goat robot ripple diagram cliff
+bip_39_word_space_6: goat robot ripple diagram cliff pave
+bip_39_word_space_7: goat robot ripple diagram cliff pave price
+bip_39_word_space_8: goat robot ripple diagram cliff pave price train
+bip_39_word_space_9: goat robot ripple diagram cliff pave price train river
+bip_39_word_underscore_1: goat
+bip_39_word_underscore_10: goat_robot_ripple_diagram_cliff_pave_price_train_river_voice
+bip_39_word_underscore_11: goat_robot_ripple_diagram_cliff_pave_price_train_river_voice_below
+bip_39_word_underscore_12: goat_robot_ripple_diagram_cliff_pave_price_train_river_voice_below_arch
+bip_39_word_underscore_2: goat_robot
+bip_39_word_underscore_3: goat_robot_ripple
+bip_39_word_underscore_4: goat_robot_ripple_diagram
+bip_39_word_underscore_5: goat_robot_ripple_diagram_cliff
+bip_39_word_underscore_6: goat_robot_ripple_diagram_cliff_pave
+bip_39_word_underscore_7: goat_robot_ripple_diagram_cliff_pave_price
+bip_39_word_underscore_8: goat_robot_ripple_diagram_cliff_pave_price_train
+bip_39_word_underscore_9: goat_robot_ripple_diagram_cliff_pave_price_train_river
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 8200000ohm
 id_no_size: 8200000_ohm
 id_no_type: 1206_8200000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_8200000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_8200000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_8200000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206vg71
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206vg71
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206vg71
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 8200000Ohm
 name_no_size: 8200000 Ohm
 name_no_size_short: 8M2 Ohm
 name_no_type: 1206 8200000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_8200000_ohm
 oomp_word: crown sunny rice
 oomp_word_emoji: ':crown: :sunny: :rice:'

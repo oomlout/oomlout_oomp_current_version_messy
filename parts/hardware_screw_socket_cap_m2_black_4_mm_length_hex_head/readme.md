@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Socket Cap M2 Black 4 mm Length Hex Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_socket_cap_m2_black_4_mm_length_hex_head
   * classification: hardware

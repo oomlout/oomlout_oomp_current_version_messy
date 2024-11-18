@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lunch
+bip_39_word_dash_10: lunch-grain-aware-witness-fox-achieve-wagon-debate-liberty-history
+bip_39_word_dash_11: lunch-grain-aware-witness-fox-achieve-wagon-debate-liberty-history-airport
+bip_39_word_dash_12: lunch-grain-aware-witness-fox-achieve-wagon-debate-liberty-history-airport-across
+bip_39_word_dash_2: lunch-grain
+bip_39_word_dash_3: lunch-grain-aware
+bip_39_word_dash_4: lunch-grain-aware-witness
+bip_39_word_dash_5: lunch-grain-aware-witness-fox
+bip_39_word_dash_6: lunch-grain-aware-witness-fox-achieve
+bip_39_word_dash_7: lunch-grain-aware-witness-fox-achieve-wagon
+bip_39_word_dash_8: lunch-grain-aware-witness-fox-achieve-wagon-debate
+bip_39_word_dash_9: lunch-grain-aware-witness-fox-achieve-wagon-debate-liberty
+bip_39_word_new_br_1: lunch
+bip_39_word_new_br_10: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history
+bip_39_word_new_br_11: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history<br>airport
+bip_39_word_new_br_12: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty<br>history<br>airport<br>across
+bip_39_word_new_br_2: lunch<br>grain
+bip_39_word_new_br_3: lunch<br>grain<br>aware
+bip_39_word_new_br_4: lunch<br>grain<br>aware<br>witness
+bip_39_word_new_br_5: lunch<br>grain<br>aware<br>witness<br>fox
+bip_39_word_new_br_6: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve
+bip_39_word_new_br_7: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon
+bip_39_word_new_br_8: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate
+bip_39_word_new_br_9: lunch<br>grain<br>aware<br>witness<br>fox<br>achieve<br>wagon<br>debate<br>liberty
+bip_39_word_new_line_1: lunch
+bip_39_word_new_line_10: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history'
+bip_39_word_new_line_11: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history
+
+  airport'
+bip_39_word_new_line_12: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty
+
+  history
+
+  airport
+
+  across'
+bip_39_word_new_line_2: 'lunch
+
+  grain'
+bip_39_word_new_line_3: 'lunch
+
+  grain
+
+  aware'
+bip_39_word_new_line_4: 'lunch
+
+  grain
+
+  aware
+
+  witness'
+bip_39_word_new_line_5: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox'
+bip_39_word_new_line_6: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve'
+bip_39_word_new_line_7: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon'
+bip_39_word_new_line_8: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate'
+bip_39_word_new_line_9: 'lunch
+
+  grain
+
+  aware
+
+  witness
+
+  fox
+
+  achieve
+
+  wagon
+
+  debate
+
+  liberty'
+bip_39_word_no_space_1: lunch
+bip_39_word_no_space_10: lunchgrainawarewitnessfoxachievewagondebatelibertyhistory
+bip_39_word_no_space_11: lunchgrainawarewitnessfoxachievewagondebatelibertyhistoryairport
+bip_39_word_no_space_12: lunchgrainawarewitnessfoxachievewagondebatelibertyhistoryairportacross
+bip_39_word_no_space_2: lunchgrain
+bip_39_word_no_space_3: lunchgrainaware
+bip_39_word_no_space_4: lunchgrainawarewitness
+bip_39_word_no_space_5: lunchgrainawarewitnessfox
+bip_39_word_no_space_6: lunchgrainawarewitnessfoxachieve
+bip_39_word_no_space_7: lunchgrainawarewitnessfoxachievewagon
+bip_39_word_no_space_8: lunchgrainawarewitnessfoxachievewagondebate
+bip_39_word_no_space_9: lunchgrainawarewitnessfoxachievewagondebateliberty
+bip_39_word_space_0:
+- lunch
+- grain
+- aware
+- witness
+- fox
+- achieve
+- wagon
+- debate
+- liberty
+- history
+- airport
+- across
+bip_39_word_space_1: lunch
+bip_39_word_space_10: lunch grain aware witness fox achieve wagon debate liberty history
+bip_39_word_space_11: lunch grain aware witness fox achieve wagon debate liberty history
+  airport
+bip_39_word_space_12: lunch grain aware witness fox achieve wagon debate liberty history
+  airport across
+bip_39_word_space_2: lunch grain
+bip_39_word_space_3: lunch grain aware
+bip_39_word_space_4: lunch grain aware witness
+bip_39_word_space_5: lunch grain aware witness fox
+bip_39_word_space_6: lunch grain aware witness fox achieve
+bip_39_word_space_7: lunch grain aware witness fox achieve wagon
+bip_39_word_space_8: lunch grain aware witness fox achieve wagon debate
+bip_39_word_space_9: lunch grain aware witness fox achieve wagon debate liberty
+bip_39_word_underscore_1: lunch
+bip_39_word_underscore_10: lunch_grain_aware_witness_fox_achieve_wagon_debate_liberty_history
+bip_39_word_underscore_11: lunch_grain_aware_witness_fox_achieve_wagon_debate_liberty_history_airport
+bip_39_word_underscore_12: lunch_grain_aware_witness_fox_achieve_wagon_debate_liberty_history_airport_across
+bip_39_word_underscore_2: lunch_grain
+bip_39_word_underscore_3: lunch_grain_aware
+bip_39_word_underscore_4: lunch_grain_aware_witness
+bip_39_word_underscore_5: lunch_grain_aware_witness_fox
+bip_39_word_underscore_6: lunch_grain_aware_witness_fox_achieve
+bip_39_word_underscore_7: lunch_grain_aware_witness_fox_achieve_wagon
+bip_39_word_underscore_8: lunch_grain_aware_witness_fox_achieve_wagon_debate
+bip_39_word_underscore_9: lunch_grain_aware_witness_fox_achieve_wagon_debate_liberty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -108,7 +327,14 @@ id_no_class: part_holder_11_06_03__computer_power_supply_microsoft_surface_docki
 id_no_color: 110603computerpowersupplymicrosoftsurfacedockingstationmicrosoftmodel1749
 id_no_size: 11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 id_no_type: holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201emmz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201emmz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201emmz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -140,6 +366,7 @@ name_no_size_short: 11 06 03  Computer Power Supply Microsoft Surface Docking St
   Microsoft Model 1749
 name_no_type: Holder 11 06 03  Computer Power Supply Microsoft Surface Docking Station
   Microsoft Model 1749
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_11_06_03__computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 oomp_word: droplet sunglasses muscle
 oomp_word_emoji: ':droplet: :sunglasses: :muscle:'

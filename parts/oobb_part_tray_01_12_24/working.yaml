@@ -1,3 +1,223 @@
+bip_39_word_dash_1: example
+bip_39_word_dash_10: example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct
+bip_39_word_dash_11: example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct-panda
+bip_39_word_dash_12: example-mobile-seed-pull-affair-debate-cinnamon-morning-believe-correct-panda-aspect
+bip_39_word_dash_2: example-mobile
+bip_39_word_dash_3: example-mobile-seed
+bip_39_word_dash_4: example-mobile-seed-pull
+bip_39_word_dash_5: example-mobile-seed-pull-affair
+bip_39_word_dash_6: example-mobile-seed-pull-affair-debate
+bip_39_word_dash_7: example-mobile-seed-pull-affair-debate-cinnamon
+bip_39_word_dash_8: example-mobile-seed-pull-affair-debate-cinnamon-morning
+bip_39_word_dash_9: example-mobile-seed-pull-affair-debate-cinnamon-morning-believe
+bip_39_word_new_br_1: example
+bip_39_word_new_br_10: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct
+bip_39_word_new_br_11: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct<br>panda
+bip_39_word_new_br_12: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe<br>correct<br>panda<br>aspect
+bip_39_word_new_br_2: example<br>mobile
+bip_39_word_new_br_3: example<br>mobile<br>seed
+bip_39_word_new_br_4: example<br>mobile<br>seed<br>pull
+bip_39_word_new_br_5: example<br>mobile<br>seed<br>pull<br>affair
+bip_39_word_new_br_6: example<br>mobile<br>seed<br>pull<br>affair<br>debate
+bip_39_word_new_br_7: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon
+bip_39_word_new_br_8: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning
+bip_39_word_new_br_9: example<br>mobile<br>seed<br>pull<br>affair<br>debate<br>cinnamon<br>morning<br>believe
+bip_39_word_new_line_1: example
+bip_39_word_new_line_10: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct'
+bip_39_word_new_line_11: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct
+
+  panda'
+bip_39_word_new_line_12: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe
+
+  correct
+
+  panda
+
+  aspect'
+bip_39_word_new_line_2: 'example
+
+  mobile'
+bip_39_word_new_line_3: 'example
+
+  mobile
+
+  seed'
+bip_39_word_new_line_4: 'example
+
+  mobile
+
+  seed
+
+  pull'
+bip_39_word_new_line_5: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair'
+bip_39_word_new_line_6: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate'
+bip_39_word_new_line_7: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon'
+bip_39_word_new_line_8: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning'
+bip_39_word_new_line_9: 'example
+
+  mobile
+
+  seed
+
+  pull
+
+  affair
+
+  debate
+
+  cinnamon
+
+  morning
+
+  believe'
+bip_39_word_no_space_1: example
+bip_39_word_no_space_10: examplemobileseedpullaffairdebatecinnamonmorningbelievecorrect
+bip_39_word_no_space_11: examplemobileseedpullaffairdebatecinnamonmorningbelievecorrectpanda
+bip_39_word_no_space_12: examplemobileseedpullaffairdebatecinnamonmorningbelievecorrectpandaaspect
+bip_39_word_no_space_2: examplemobile
+bip_39_word_no_space_3: examplemobileseed
+bip_39_word_no_space_4: examplemobileseedpull
+bip_39_word_no_space_5: examplemobileseedpullaffair
+bip_39_word_no_space_6: examplemobileseedpullaffairdebate
+bip_39_word_no_space_7: examplemobileseedpullaffairdebatecinnamon
+bip_39_word_no_space_8: examplemobileseedpullaffairdebatecinnamonmorning
+bip_39_word_no_space_9: examplemobileseedpullaffairdebatecinnamonmorningbelieve
+bip_39_word_space_0:
+- example
+- mobile
+- seed
+- pull
+- affair
+- debate
+- cinnamon
+- morning
+- believe
+- correct
+- panda
+- aspect
+bip_39_word_space_1: example
+bip_39_word_space_10: example mobile seed pull affair debate cinnamon morning believe
+  correct
+bip_39_word_space_11: example mobile seed pull affair debate cinnamon morning believe
+  correct panda
+bip_39_word_space_12: example mobile seed pull affair debate cinnamon morning believe
+  correct panda aspect
+bip_39_word_space_2: example mobile
+bip_39_word_space_3: example mobile seed
+bip_39_word_space_4: example mobile seed pull
+bip_39_word_space_5: example mobile seed pull affair
+bip_39_word_space_6: example mobile seed pull affair debate
+bip_39_word_space_7: example mobile seed pull affair debate cinnamon
+bip_39_word_space_8: example mobile seed pull affair debate cinnamon morning
+bip_39_word_space_9: example mobile seed pull affair debate cinnamon morning believe
+bip_39_word_underscore_1: example
+bip_39_word_underscore_10: example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct
+bip_39_word_underscore_11: example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct_panda
+bip_39_word_underscore_12: example_mobile_seed_pull_affair_debate_cinnamon_morning_believe_correct_panda_aspect
+bip_39_word_underscore_2: example_mobile
+bip_39_word_underscore_3: example_mobile_seed
+bip_39_word_underscore_4: example_mobile_seed_pull
+bip_39_word_underscore_5: example_mobile_seed_pull_affair
+bip_39_word_underscore_6: example_mobile_seed_pull_affair_debate
+bip_39_word_underscore_7: example_mobile_seed_pull_affair_debate_cinnamon
+bip_39_word_underscore_8: example_mobile_seed_pull_affair_debate_cinnamon_morning
+bip_39_word_underscore_9: example_mobile_seed_pull_affair_debate_cinnamon_morning_believe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_12_24
 id_no_color: '011224'
 id_no_size: '01_12_24'
 id_no_type: tray_01_12_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_12_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_12_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_12_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208eci4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208eci4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208eci4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '011224'
 name_no_size: 01 12 24
 name_no_size_short: 01 12 24
 name_no_type: Tray 01 12 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_12_24
 oomp_word: office monkey watermelon
 oomp_word_emoji: ':office: :monkey: :watermelon:'

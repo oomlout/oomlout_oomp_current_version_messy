@@ -1,3 +1,221 @@
+bip_39_word_dash_1: rate
+bip_39_word_dash_10: rate-fun-text-rose-unable-only-nurse-spoil-coral-alert
+bip_39_word_dash_11: rate-fun-text-rose-unable-only-nurse-spoil-coral-alert-simple
+bip_39_word_dash_12: rate-fun-text-rose-unable-only-nurse-spoil-coral-alert-simple-ankle
+bip_39_word_dash_2: rate-fun
+bip_39_word_dash_3: rate-fun-text
+bip_39_word_dash_4: rate-fun-text-rose
+bip_39_word_dash_5: rate-fun-text-rose-unable
+bip_39_word_dash_6: rate-fun-text-rose-unable-only
+bip_39_word_dash_7: rate-fun-text-rose-unable-only-nurse
+bip_39_word_dash_8: rate-fun-text-rose-unable-only-nurse-spoil
+bip_39_word_dash_9: rate-fun-text-rose-unable-only-nurse-spoil-coral
+bip_39_word_new_br_1: rate
+bip_39_word_new_br_10: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert
+bip_39_word_new_br_11: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple
+bip_39_word_new_br_12: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral<br>alert<br>simple<br>ankle
+bip_39_word_new_br_2: rate<br>fun
+bip_39_word_new_br_3: rate<br>fun<br>text
+bip_39_word_new_br_4: rate<br>fun<br>text<br>rose
+bip_39_word_new_br_5: rate<br>fun<br>text<br>rose<br>unable
+bip_39_word_new_br_6: rate<br>fun<br>text<br>rose<br>unable<br>only
+bip_39_word_new_br_7: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse
+bip_39_word_new_br_8: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil
+bip_39_word_new_br_9: rate<br>fun<br>text<br>rose<br>unable<br>only<br>nurse<br>spoil<br>coral
+bip_39_word_new_line_1: rate
+bip_39_word_new_line_10: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert'
+bip_39_word_new_line_11: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert
+
+  simple'
+bip_39_word_new_line_12: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral
+
+  alert
+
+  simple
+
+  ankle'
+bip_39_word_new_line_2: 'rate
+
+  fun'
+bip_39_word_new_line_3: 'rate
+
+  fun
+
+  text'
+bip_39_word_new_line_4: 'rate
+
+  fun
+
+  text
+
+  rose'
+bip_39_word_new_line_5: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable'
+bip_39_word_new_line_6: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only'
+bip_39_word_new_line_7: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse'
+bip_39_word_new_line_8: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil'
+bip_39_word_new_line_9: 'rate
+
+  fun
+
+  text
+
+  rose
+
+  unable
+
+  only
+
+  nurse
+
+  spoil
+
+  coral'
+bip_39_word_no_space_1: rate
+bip_39_word_no_space_10: ratefuntextroseunableonlynursespoilcoralalert
+bip_39_word_no_space_11: ratefuntextroseunableonlynursespoilcoralalertsimple
+bip_39_word_no_space_12: ratefuntextroseunableonlynursespoilcoralalertsimpleankle
+bip_39_word_no_space_2: ratefun
+bip_39_word_no_space_3: ratefuntext
+bip_39_word_no_space_4: ratefuntextrose
+bip_39_word_no_space_5: ratefuntextroseunable
+bip_39_word_no_space_6: ratefuntextroseunableonly
+bip_39_word_no_space_7: ratefuntextroseunableonlynurse
+bip_39_word_no_space_8: ratefuntextroseunableonlynursespoil
+bip_39_word_no_space_9: ratefuntextroseunableonlynursespoilcoral
+bip_39_word_space_0:
+- rate
+- fun
+- text
+- rose
+- unable
+- only
+- nurse
+- spoil
+- coral
+- alert
+- simple
+- ankle
+bip_39_word_space_1: rate
+bip_39_word_space_10: rate fun text rose unable only nurse spoil coral alert
+bip_39_word_space_11: rate fun text rose unable only nurse spoil coral alert simple
+bip_39_word_space_12: rate fun text rose unable only nurse spoil coral alert simple
+  ankle
+bip_39_word_space_2: rate fun
+bip_39_word_space_3: rate fun text
+bip_39_word_space_4: rate fun text rose
+bip_39_word_space_5: rate fun text rose unable
+bip_39_word_space_6: rate fun text rose unable only
+bip_39_word_space_7: rate fun text rose unable only nurse
+bip_39_word_space_8: rate fun text rose unable only nurse spoil
+bip_39_word_space_9: rate fun text rose unable only nurse spoil coral
+bip_39_word_underscore_1: rate
+bip_39_word_underscore_10: rate_fun_text_rose_unable_only_nurse_spoil_coral_alert
+bip_39_word_underscore_11: rate_fun_text_rose_unable_only_nurse_spoil_coral_alert_simple
+bip_39_word_underscore_12: rate_fun_text_rose_unable_only_nurse_spoil_coral_alert_simple_ankle
+bip_39_word_underscore_2: rate_fun
+bip_39_word_underscore_3: rate_fun_text
+bip_39_word_underscore_4: rate_fun_text_rose
+bip_39_word_underscore_5: rate_fun_text_rose_unable
+bip_39_word_underscore_6: rate_fun_text_rose_unable_only
+bip_39_word_underscore_7: rate_fun_text_rose_unable_only_nurse
+bip_39_word_underscore_8: rate_fun_text_rose_unable_only_nurse_spoil
+bip_39_word_underscore_9: rate_fun_text_rose_unable_only_nurse_spoil_coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 040418nm16mmtapewidth2mmtapethickness2
 id_no_size: 04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205rabl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205rabl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205rabl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 040418Nm16mmtapewidth2mmtapethickness2
 name_no_size: 04 04 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 04 04 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 04 04 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: books paperclip smile
 oomp_word_emoji: ':books: :paperclip: :smile:'

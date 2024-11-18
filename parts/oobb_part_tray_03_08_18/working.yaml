@@ -1,3 +1,221 @@
+bip_39_word_dash_1: bone
+bip_39_word_dash_10: bone-grape-bless-fatal-tip-suit-slab-injury-one-caught
+bip_39_word_dash_11: bone-grape-bless-fatal-tip-suit-slab-injury-one-caught-name
+bip_39_word_dash_12: bone-grape-bless-fatal-tip-suit-slab-injury-one-caught-name-apple
+bip_39_word_dash_2: bone-grape
+bip_39_word_dash_3: bone-grape-bless
+bip_39_word_dash_4: bone-grape-bless-fatal
+bip_39_word_dash_5: bone-grape-bless-fatal-tip
+bip_39_word_dash_6: bone-grape-bless-fatal-tip-suit
+bip_39_word_dash_7: bone-grape-bless-fatal-tip-suit-slab
+bip_39_word_dash_8: bone-grape-bless-fatal-tip-suit-slab-injury
+bip_39_word_dash_9: bone-grape-bless-fatal-tip-suit-slab-injury-one
+bip_39_word_new_br_1: bone
+bip_39_word_new_br_10: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught
+bip_39_word_new_br_11: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name
+bip_39_word_new_br_12: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one<br>caught<br>name<br>apple
+bip_39_word_new_br_2: bone<br>grape
+bip_39_word_new_br_3: bone<br>grape<br>bless
+bip_39_word_new_br_4: bone<br>grape<br>bless<br>fatal
+bip_39_word_new_br_5: bone<br>grape<br>bless<br>fatal<br>tip
+bip_39_word_new_br_6: bone<br>grape<br>bless<br>fatal<br>tip<br>suit
+bip_39_word_new_br_7: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab
+bip_39_word_new_br_8: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury
+bip_39_word_new_br_9: bone<br>grape<br>bless<br>fatal<br>tip<br>suit<br>slab<br>injury<br>one
+bip_39_word_new_line_1: bone
+bip_39_word_new_line_10: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab
+
+  injury
+
+  one
+
+  caught'
+bip_39_word_new_line_11: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab
+
+  injury
+
+  one
+
+  caught
+
+  name'
+bip_39_word_new_line_12: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab
+
+  injury
+
+  one
+
+  caught
+
+  name
+
+  apple'
+bip_39_word_new_line_2: 'bone
+
+  grape'
+bip_39_word_new_line_3: 'bone
+
+  grape
+
+  bless'
+bip_39_word_new_line_4: 'bone
+
+  grape
+
+  bless
+
+  fatal'
+bip_39_word_new_line_5: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip'
+bip_39_word_new_line_6: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit'
+bip_39_word_new_line_7: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab'
+bip_39_word_new_line_8: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab
+
+  injury'
+bip_39_word_new_line_9: 'bone
+
+  grape
+
+  bless
+
+  fatal
+
+  tip
+
+  suit
+
+  slab
+
+  injury
+
+  one'
+bip_39_word_no_space_1: bone
+bip_39_word_no_space_10: bonegrapeblessfataltipsuitslabinjuryonecaught
+bip_39_word_no_space_11: bonegrapeblessfataltipsuitslabinjuryonecaughtname
+bip_39_word_no_space_12: bonegrapeblessfataltipsuitslabinjuryonecaughtnameapple
+bip_39_word_no_space_2: bonegrape
+bip_39_word_no_space_3: bonegrapebless
+bip_39_word_no_space_4: bonegrapeblessfatal
+bip_39_word_no_space_5: bonegrapeblessfataltip
+bip_39_word_no_space_6: bonegrapeblessfataltipsuit
+bip_39_word_no_space_7: bonegrapeblessfataltipsuitslab
+bip_39_word_no_space_8: bonegrapeblessfataltipsuitslabinjury
+bip_39_word_no_space_9: bonegrapeblessfataltipsuitslabinjuryone
+bip_39_word_space_0:
+- bone
+- grape
+- bless
+- fatal
+- tip
+- suit
+- slab
+- injury
+- one
+- caught
+- name
+- apple
+bip_39_word_space_1: bone
+bip_39_word_space_10: bone grape bless fatal tip suit slab injury one caught
+bip_39_word_space_11: bone grape bless fatal tip suit slab injury one caught name
+bip_39_word_space_12: bone grape bless fatal tip suit slab injury one caught name
+  apple
+bip_39_word_space_2: bone grape
+bip_39_word_space_3: bone grape bless
+bip_39_word_space_4: bone grape bless fatal
+bip_39_word_space_5: bone grape bless fatal tip
+bip_39_word_space_6: bone grape bless fatal tip suit
+bip_39_word_space_7: bone grape bless fatal tip suit slab
+bip_39_word_space_8: bone grape bless fatal tip suit slab injury
+bip_39_word_space_9: bone grape bless fatal tip suit slab injury one
+bip_39_word_underscore_1: bone
+bip_39_word_underscore_10: bone_grape_bless_fatal_tip_suit_slab_injury_one_caught
+bip_39_word_underscore_11: bone_grape_bless_fatal_tip_suit_slab_injury_one_caught_name
+bip_39_word_underscore_12: bone_grape_bless_fatal_tip_suit_slab_injury_one_caught_name_apple
+bip_39_word_underscore_2: bone_grape
+bip_39_word_underscore_3: bone_grape_bless
+bip_39_word_underscore_4: bone_grape_bless_fatal
+bip_39_word_underscore_5: bone_grape_bless_fatal_tip
+bip_39_word_underscore_6: bone_grape_bless_fatal_tip_suit
+bip_39_word_underscore_7: bone_grape_bless_fatal_tip_suit_slab
+bip_39_word_underscore_8: bone_grape_bless_fatal_tip_suit_slab_injury
+bip_39_word_underscore_9: bone_grape_bless_fatal_tip_suit_slab_injury_one
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_03_08_18
 id_no_color: 030818
 id_no_size: 03_08_18
 id_no_type: tray_03_08_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206oeix
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206oeix
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206oeix
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 030818
 name_no_size: 03 08 18
 name_no_size_short: 03 08 18
 name_no_type: Tray 03 08 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_08_18
 oomp_word: boot ear hammer
 oomp_word_emoji: ':boot: :ear: :hammer:'

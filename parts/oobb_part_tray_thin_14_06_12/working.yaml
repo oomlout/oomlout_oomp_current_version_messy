@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tortoise
+bip_39_word_dash_10: tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort
+bip_39_word_dash_11: tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort-enact
+bip_39_word_dash_12: tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling-comfort-enact-anger
+bip_39_word_dash_2: tortoise-breeze
+bip_39_word_dash_3: tortoise-breeze-thrive
+bip_39_word_dash_4: tortoise-breeze-thrive-iron
+bip_39_word_dash_5: tortoise-breeze-thrive-iron-loud
+bip_39_word_dash_6: tortoise-breeze-thrive-iron-loud-chaos
+bip_39_word_dash_7: tortoise-breeze-thrive-iron-loud-chaos-start
+bip_39_word_dash_8: tortoise-breeze-thrive-iron-loud-chaos-start-note
+bip_39_word_dash_9: tortoise-breeze-thrive-iron-loud-chaos-start-note-ceiling
+bip_39_word_new_br_1: tortoise
+bip_39_word_new_br_10: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling<br>comfort
+bip_39_word_new_br_11: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling<br>comfort<br>enact
+bip_39_word_new_br_12: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling<br>comfort<br>enact<br>anger
+bip_39_word_new_br_2: tortoise<br>breeze
+bip_39_word_new_br_3: tortoise<br>breeze<br>thrive
+bip_39_word_new_br_4: tortoise<br>breeze<br>thrive<br>iron
+bip_39_word_new_br_5: tortoise<br>breeze<br>thrive<br>iron<br>loud
+bip_39_word_new_br_6: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos
+bip_39_word_new_br_7: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start
+bip_39_word_new_br_8: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note
+bip_39_word_new_br_9: tortoise<br>breeze<br>thrive<br>iron<br>loud<br>chaos<br>start<br>note<br>ceiling
+bip_39_word_new_line_1: tortoise
+bip_39_word_new_line_10: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start
+
+  note
+
+  ceiling
+
+  comfort'
+bip_39_word_new_line_11: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start
+
+  note
+
+  ceiling
+
+  comfort
+
+  enact'
+bip_39_word_new_line_12: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start
+
+  note
+
+  ceiling
+
+  comfort
+
+  enact
+
+  anger'
+bip_39_word_new_line_2: 'tortoise
+
+  breeze'
+bip_39_word_new_line_3: 'tortoise
+
+  breeze
+
+  thrive'
+bip_39_word_new_line_4: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron'
+bip_39_word_new_line_5: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud'
+bip_39_word_new_line_6: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos'
+bip_39_word_new_line_7: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start'
+bip_39_word_new_line_8: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start
+
+  note'
+bip_39_word_new_line_9: 'tortoise
+
+  breeze
+
+  thrive
+
+  iron
+
+  loud
+
+  chaos
+
+  start
+
+  note
+
+  ceiling'
+bip_39_word_no_space_1: tortoise
+bip_39_word_no_space_10: tortoisebreezethriveironloudchaosstartnoteceilingcomfort
+bip_39_word_no_space_11: tortoisebreezethriveironloudchaosstartnoteceilingcomfortenact
+bip_39_word_no_space_12: tortoisebreezethriveironloudchaosstartnoteceilingcomfortenactanger
+bip_39_word_no_space_2: tortoisebreeze
+bip_39_word_no_space_3: tortoisebreezethrive
+bip_39_word_no_space_4: tortoisebreezethriveiron
+bip_39_word_no_space_5: tortoisebreezethriveironloud
+bip_39_word_no_space_6: tortoisebreezethriveironloudchaos
+bip_39_word_no_space_7: tortoisebreezethriveironloudchaosstart
+bip_39_word_no_space_8: tortoisebreezethriveironloudchaosstartnote
+bip_39_word_no_space_9: tortoisebreezethriveironloudchaosstartnoteceiling
+bip_39_word_space_0:
+- tortoise
+- breeze
+- thrive
+- iron
+- loud
+- chaos
+- start
+- note
+- ceiling
+- comfort
+- enact
+- anger
+bip_39_word_space_1: tortoise
+bip_39_word_space_10: tortoise breeze thrive iron loud chaos start note ceiling comfort
+bip_39_word_space_11: tortoise breeze thrive iron loud chaos start note ceiling comfort
+  enact
+bip_39_word_space_12: tortoise breeze thrive iron loud chaos start note ceiling comfort
+  enact anger
+bip_39_word_space_2: tortoise breeze
+bip_39_word_space_3: tortoise breeze thrive
+bip_39_word_space_4: tortoise breeze thrive iron
+bip_39_word_space_5: tortoise breeze thrive iron loud
+bip_39_word_space_6: tortoise breeze thrive iron loud chaos
+bip_39_word_space_7: tortoise breeze thrive iron loud chaos start
+bip_39_word_space_8: tortoise breeze thrive iron loud chaos start note
+bip_39_word_space_9: tortoise breeze thrive iron loud chaos start note ceiling
+bip_39_word_underscore_1: tortoise
+bip_39_word_underscore_10: tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort
+bip_39_word_underscore_11: tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort_enact
+bip_39_word_underscore_12: tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling_comfort_enact_anger
+bip_39_word_underscore_2: tortoise_breeze
+bip_39_word_underscore_3: tortoise_breeze_thrive
+bip_39_word_underscore_4: tortoise_breeze_thrive_iron
+bip_39_word_underscore_5: tortoise_breeze_thrive_iron_loud
+bip_39_word_underscore_6: tortoise_breeze_thrive_iron_loud_chaos
+bip_39_word_underscore_7: tortoise_breeze_thrive_iron_loud_chaos_start
+bip_39_word_underscore_8: tortoise_breeze_thrive_iron_loud_chaos_start_note
+bip_39_word_underscore_9: tortoise_breeze_thrive_iron_loud_chaos_start_note_ceiling
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_06_12
 id_no_color: '140612'
 id_no_size: '14_06_12'
 id_no_type: tray_thin_14_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205end7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205end7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205end7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140612'
 name_no_size: 14 06 12
 name_no_size_short: 14 06 12
 name_no_type: Tray Thin 14 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_06_12
 oomp_word: envelope paperclip grapes
 oomp_word_emoji: ':envelope: :paperclip: :grapes:'

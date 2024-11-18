@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bread: :racehorse: :baby:
 * md5_6_alpha: 7i1p9
 * md5_6: c0401d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207i1p9)
+[2x1](http://192.168.1.242:1112/?label=oomp%207i1p9)
+[6x4](http://192.168.1.55:1112/?label=oomp%207i1p9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ gauge |
 | id_no_color | organizing_wall_mount_tool_drill_hammer_18_volt |  
 | id_no_size | organizing_wall_mount_tool_drill_hammer_18_volt |  
 | id_no_type | oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207i1p9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207i1p9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207i1p9 |  
 | link_redirect | https://github.com/oomlout/oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ gauge |
 | name_no_size | Organizing Wall Mount Tool Drill Hammer 18 Volt |  
 | name_no_size_short | Organizing Wall Mount Tool Drill Hammer 18 Volt |  
 | name_no_type | Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
 | oomp_word | bread racehorse baby |  
 | oomp_word_emoji | :bread: :racehorse: :baby: |  

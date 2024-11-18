@@ -1,3 +1,222 @@
+bip_39_word_dash_1: salt
+bip_39_word_dash_10: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current
+bip_39_word_dash_11: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current-fish
+bip_39_word_dash_12: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow-current-fish-air
+bip_39_word_dash_2: salt-walnut
+bip_39_word_dash_3: salt-walnut-oppose
+bip_39_word_dash_4: salt-walnut-oppose-evil
+bip_39_word_dash_5: salt-walnut-oppose-evil-deer
+bip_39_word_dash_6: salt-walnut-oppose-evil-deer-list
+bip_39_word_dash_7: salt-walnut-oppose-evil-deer-list-giraffe
+bip_39_word_dash_8: salt-walnut-oppose-evil-deer-list-giraffe-select
+bip_39_word_dash_9: salt-walnut-oppose-evil-deer-list-giraffe-select-eyebrow
+bip_39_word_new_br_1: salt
+bip_39_word_new_br_10: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current
+bip_39_word_new_br_11: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish
+bip_39_word_new_br_12: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow<br>current<br>fish<br>air
+bip_39_word_new_br_2: salt<br>walnut
+bip_39_word_new_br_3: salt<br>walnut<br>oppose
+bip_39_word_new_br_4: salt<br>walnut<br>oppose<br>evil
+bip_39_word_new_br_5: salt<br>walnut<br>oppose<br>evil<br>deer
+bip_39_word_new_br_6: salt<br>walnut<br>oppose<br>evil<br>deer<br>list
+bip_39_word_new_br_7: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe
+bip_39_word_new_br_8: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select
+bip_39_word_new_br_9: salt<br>walnut<br>oppose<br>evil<br>deer<br>list<br>giraffe<br>select<br>eyebrow
+bip_39_word_new_line_1: salt
+bip_39_word_new_line_10: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current'
+bip_39_word_new_line_11: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current
+
+  fish'
+bip_39_word_new_line_12: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow
+
+  current
+
+  fish
+
+  air'
+bip_39_word_new_line_2: 'salt
+
+  walnut'
+bip_39_word_new_line_3: 'salt
+
+  walnut
+
+  oppose'
+bip_39_word_new_line_4: 'salt
+
+  walnut
+
+  oppose
+
+  evil'
+bip_39_word_new_line_5: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer'
+bip_39_word_new_line_6: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list'
+bip_39_word_new_line_7: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe'
+bip_39_word_new_line_8: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select'
+bip_39_word_new_line_9: 'salt
+
+  walnut
+
+  oppose
+
+  evil
+
+  deer
+
+  list
+
+  giraffe
+
+  select
+
+  eyebrow'
+bip_39_word_no_space_1: salt
+bip_39_word_no_space_10: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrent
+bip_39_word_no_space_11: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrentfish
+bip_39_word_no_space_12: saltwalnutopposeevildeerlistgiraffeselecteyebrowcurrentfishair
+bip_39_word_no_space_2: saltwalnut
+bip_39_word_no_space_3: saltwalnutoppose
+bip_39_word_no_space_4: saltwalnutopposeevil
+bip_39_word_no_space_5: saltwalnutopposeevildeer
+bip_39_word_no_space_6: saltwalnutopposeevildeerlist
+bip_39_word_no_space_7: saltwalnutopposeevildeerlistgiraffe
+bip_39_word_no_space_8: saltwalnutopposeevildeerlistgiraffeselect
+bip_39_word_no_space_9: saltwalnutopposeevildeerlistgiraffeselecteyebrow
+bip_39_word_space_0:
+- salt
+- walnut
+- oppose
+- evil
+- deer
+- list
+- giraffe
+- select
+- eyebrow
+- current
+- fish
+- air
+bip_39_word_space_1: salt
+bip_39_word_space_10: salt walnut oppose evil deer list giraffe select eyebrow current
+bip_39_word_space_11: salt walnut oppose evil deer list giraffe select eyebrow current
+  fish
+bip_39_word_space_12: salt walnut oppose evil deer list giraffe select eyebrow current
+  fish air
+bip_39_word_space_2: salt walnut
+bip_39_word_space_3: salt walnut oppose
+bip_39_word_space_4: salt walnut oppose evil
+bip_39_word_space_5: salt walnut oppose evil deer
+bip_39_word_space_6: salt walnut oppose evil deer list
+bip_39_word_space_7: salt walnut oppose evil deer list giraffe
+bip_39_word_space_8: salt walnut oppose evil deer list giraffe select
+bip_39_word_space_9: salt walnut oppose evil deer list giraffe select eyebrow
+bip_39_word_underscore_1: salt
+bip_39_word_underscore_10: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current
+bip_39_word_underscore_11: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current_fish
+bip_39_word_underscore_12: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow_current_fish_air
+bip_39_word_underscore_2: salt_walnut
+bip_39_word_underscore_3: salt_walnut_oppose
+bip_39_word_underscore_4: salt_walnut_oppose_evil
+bip_39_word_underscore_5: salt_walnut_oppose_evil_deer
+bip_39_word_underscore_6: salt_walnut_oppose_evil_deer_list
+bip_39_word_underscore_7: salt_walnut_oppose_evil_deer_list_giraffe
+bip_39_word_underscore_8: salt_walnut_oppose_evil_deer_list_giraffe_select
+bip_39_word_underscore_9: salt_walnut_oppose_evil_deer_list_giraffe_select_eyebrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_13_01__q
 id_no_color: 1301q
 id_no_size: 13_01__q
 id_no_type: bunting_alphabet_13_01__q
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__q
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__q
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__q
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203drgt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203drgt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203drgt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 1301Q
 name_no_size: 13 01  Q
 name_no_size_short: 13 01  Q
 name_no_type: Bunting Alphabet 13 01  Q
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__q
 oomp_word: ram tophat bug
 oomp_word_emoji: ':ram: :tophat: :bug:'

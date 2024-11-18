@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tool Holder Vertical 07 03 44  Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696
+* name_short: 
 ### id
 * oomp_id: oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tomato: :computer: :poodle:
 * md5_6_alpha: 89274
 * md5_6: d37b60
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2089274)
+[2x1](http://192.168.1.242:1112/?label=oomp%2089274)
+[6x4](http://192.168.1.55:1112/?label=oomp%2089274)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ gallery |
 | id_no_color | 070344toolmeasuretapemeasure5000mmlengthstanley130696 |  
 | id_no_size | 07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | id_no_type | tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2089274 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2089274 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2089274 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ gallery |
 | name_no_size | 07 03 44  Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696 |  
 | name_no_size_short | 07 03 44  Tool Measure Tape Measure 5000 Mm Length Stanley 1 30 696 |  
 | name_no_type | Tool Holder Vertical 07 03 44  Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | oomp_word | tomato computer poodle |  
 | oomp_word_emoji | :tomato: :computer: :poodle: |  

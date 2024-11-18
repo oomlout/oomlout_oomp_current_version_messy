@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Pmic Sot 223 Linear 1117 Adj
+* name_short: 
 ### id
 * oomp_id: electronic_pmic_sot_223_linear_1117_adj
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :strawberry: :candy: :sunflower:
 * md5_6_alpha: 811es
 * md5_6: cdc564
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20811es)
+[2x1](http://192.168.1.242:1112/?label=oomp%20811es)
+[6x4](http://192.168.1.55:1112/?label=oomp%20811es)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -304,7 +330,14 @@ tragic |
 | id_no_color | 1117_adj |  
 | id_no_size | linear_1117_adj |  
 | id_no_type | sot_223_linear_1117_adj |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20811es |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20811es |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20811es |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +362,7 @@ tragic |
 | name_no_size | Linear 1117 Adj |  
 | name_no_size_short | Linear 1k1 Adj |  
 | name_no_type | Sot 223 Linear 1117 Adj |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_pmic_sot_223_linear_1117_adj |  
 | oomp_word | strawberry candy sunflower |  
 | oomp_word_emoji | :strawberry: :candy: :sunflower: |  

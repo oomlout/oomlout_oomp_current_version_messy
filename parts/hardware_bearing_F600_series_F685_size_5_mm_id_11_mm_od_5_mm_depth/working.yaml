@@ -1,3 +1,223 @@
+bip_39_word_dash_1: soul
+bip_39_word_dash_10: soul-impulse-useless-one-organ-cluster-interest-harsh-divert-spray
+bip_39_word_dash_11: soul-impulse-useless-one-organ-cluster-interest-harsh-divert-spray-diagram
+bip_39_word_dash_12: soul-impulse-useless-one-organ-cluster-interest-harsh-divert-spray-diagram-adapt
+bip_39_word_dash_2: soul-impulse
+bip_39_word_dash_3: soul-impulse-useless
+bip_39_word_dash_4: soul-impulse-useless-one
+bip_39_word_dash_5: soul-impulse-useless-one-organ
+bip_39_word_dash_6: soul-impulse-useless-one-organ-cluster
+bip_39_word_dash_7: soul-impulse-useless-one-organ-cluster-interest
+bip_39_word_dash_8: soul-impulse-useless-one-organ-cluster-interest-harsh
+bip_39_word_dash_9: soul-impulse-useless-one-organ-cluster-interest-harsh-divert
+bip_39_word_new_br_1: soul
+bip_39_word_new_br_10: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray
+bip_39_word_new_br_11: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram
+bip_39_word_new_br_12: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert<br>spray<br>diagram<br>adapt
+bip_39_word_new_br_2: soul<br>impulse
+bip_39_word_new_br_3: soul<br>impulse<br>useless
+bip_39_word_new_br_4: soul<br>impulse<br>useless<br>one
+bip_39_word_new_br_5: soul<br>impulse<br>useless<br>one<br>organ
+bip_39_word_new_br_6: soul<br>impulse<br>useless<br>one<br>organ<br>cluster
+bip_39_word_new_br_7: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest
+bip_39_word_new_br_8: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh
+bip_39_word_new_br_9: soul<br>impulse<br>useless<br>one<br>organ<br>cluster<br>interest<br>harsh<br>divert
+bip_39_word_new_line_1: soul
+bip_39_word_new_line_10: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray'
+bip_39_word_new_line_11: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray
+
+  diagram'
+bip_39_word_new_line_12: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert
+
+  spray
+
+  diagram
+
+  adapt'
+bip_39_word_new_line_2: 'soul
+
+  impulse'
+bip_39_word_new_line_3: 'soul
+
+  impulse
+
+  useless'
+bip_39_word_new_line_4: 'soul
+
+  impulse
+
+  useless
+
+  one'
+bip_39_word_new_line_5: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ'
+bip_39_word_new_line_6: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster'
+bip_39_word_new_line_7: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest'
+bip_39_word_new_line_8: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh'
+bip_39_word_new_line_9: 'soul
+
+  impulse
+
+  useless
+
+  one
+
+  organ
+
+  cluster
+
+  interest
+
+  harsh
+
+  divert'
+bip_39_word_no_space_1: soul
+bip_39_word_no_space_10: soulimpulseuselessoneorganclusterinterestharshdivertspray
+bip_39_word_no_space_11: soulimpulseuselessoneorganclusterinterestharshdivertspraydiagram
+bip_39_word_no_space_12: soulimpulseuselessoneorganclusterinterestharshdivertspraydiagramadapt
+bip_39_word_no_space_2: soulimpulse
+bip_39_word_no_space_3: soulimpulseuseless
+bip_39_word_no_space_4: soulimpulseuselessone
+bip_39_word_no_space_5: soulimpulseuselessoneorgan
+bip_39_word_no_space_6: soulimpulseuselessoneorgancluster
+bip_39_word_no_space_7: soulimpulseuselessoneorganclusterinterest
+bip_39_word_no_space_8: soulimpulseuselessoneorganclusterinterestharsh
+bip_39_word_no_space_9: soulimpulseuselessoneorganclusterinterestharshdivert
+bip_39_word_space_0:
+- soul
+- impulse
+- useless
+- one
+- organ
+- cluster
+- interest
+- harsh
+- divert
+- spray
+- diagram
+- adapt
+bip_39_word_space_1: soul
+bip_39_word_space_10: soul impulse useless one organ cluster interest harsh divert
+  spray
+bip_39_word_space_11: soul impulse useless one organ cluster interest harsh divert
+  spray diagram
+bip_39_word_space_12: soul impulse useless one organ cluster interest harsh divert
+  spray diagram adapt
+bip_39_word_space_2: soul impulse
+bip_39_word_space_3: soul impulse useless
+bip_39_word_space_4: soul impulse useless one
+bip_39_word_space_5: soul impulse useless one organ
+bip_39_word_space_6: soul impulse useless one organ cluster
+bip_39_word_space_7: soul impulse useless one organ cluster interest
+bip_39_word_space_8: soul impulse useless one organ cluster interest harsh
+bip_39_word_space_9: soul impulse useless one organ cluster interest harsh divert
+bip_39_word_underscore_1: soul
+bip_39_word_underscore_10: soul_impulse_useless_one_organ_cluster_interest_harsh_divert_spray
+bip_39_word_underscore_11: soul_impulse_useless_one_organ_cluster_interest_harsh_divert_spray_diagram
+bip_39_word_underscore_12: soul_impulse_useless_one_organ_cluster_interest_harsh_divert_spray_diagram_adapt
+bip_39_word_underscore_2: soul_impulse
+bip_39_word_underscore_3: soul_impulse_useless
+bip_39_word_underscore_4: soul_impulse_useless_one
+bip_39_word_underscore_5: soul_impulse_useless_one_organ
+bip_39_word_underscore_6: soul_impulse_useless_one_organ_cluster
+bip_39_word_underscore_7: soul_impulse_useless_one_organ_cluster_interest
+bip_39_word_underscore_8: soul_impulse_useless_one_organ_cluster_interest_harsh
+bip_39_word_underscore_9: soul_impulse_useless_one_organ_cluster_interest_harsh_divert
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
 id_no_color: 5_mm_id_11_mm_od_5_mm_depth
 id_no_size: F685_size_5_mm_id_11_mm_od_5_mm_depth
 id_no_type: F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201w3ck
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201w3ck
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201w3ck
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 5 mm ID 11 mm OD 5 mm Depth
 name_no_size: F685 Size 5 mm ID 11 mm OD 5 mm Depth
 name_no_size_short: F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth
 name_no_type: F600 Series F685 Size 5 mm ID 11 mm OD 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brF685
+oomlout_short_code_upper: BRF685
 oomp_key: oomp_hardware_bearing_F600_series_F685_size_5_mm_id_11_mm_od_5_mm_depth
 oomp_word: foggy balloon three
 oomp_word_emoji: ':foggy: :balloon: :three:'

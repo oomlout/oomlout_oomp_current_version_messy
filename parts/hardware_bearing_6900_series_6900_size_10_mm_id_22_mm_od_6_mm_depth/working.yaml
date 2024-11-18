@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stool
+bip_39_word_dash_10: stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist
+bip_39_word_dash_11: stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist-cheap
+bip_39_word_dash_12: stool-increase-smart-insane-great-ready-pulse-drink-skirt-resist-cheap-above
+bip_39_word_dash_2: stool-increase
+bip_39_word_dash_3: stool-increase-smart
+bip_39_word_dash_4: stool-increase-smart-insane
+bip_39_word_dash_5: stool-increase-smart-insane-great
+bip_39_word_dash_6: stool-increase-smart-insane-great-ready
+bip_39_word_dash_7: stool-increase-smart-insane-great-ready-pulse
+bip_39_word_dash_8: stool-increase-smart-insane-great-ready-pulse-drink
+bip_39_word_dash_9: stool-increase-smart-insane-great-ready-pulse-drink-skirt
+bip_39_word_new_br_1: stool
+bip_39_word_new_br_10: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist
+bip_39_word_new_br_11: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist<br>cheap
+bip_39_word_new_br_12: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt<br>resist<br>cheap<br>above
+bip_39_word_new_br_2: stool<br>increase
+bip_39_word_new_br_3: stool<br>increase<br>smart
+bip_39_word_new_br_4: stool<br>increase<br>smart<br>insane
+bip_39_word_new_br_5: stool<br>increase<br>smart<br>insane<br>great
+bip_39_word_new_br_6: stool<br>increase<br>smart<br>insane<br>great<br>ready
+bip_39_word_new_br_7: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse
+bip_39_word_new_br_8: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink
+bip_39_word_new_br_9: stool<br>increase<br>smart<br>insane<br>great<br>ready<br>pulse<br>drink<br>skirt
+bip_39_word_new_line_1: stool
+bip_39_word_new_line_10: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist'
+bip_39_word_new_line_11: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist
+
+  cheap'
+bip_39_word_new_line_12: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt
+
+  resist
+
+  cheap
+
+  above'
+bip_39_word_new_line_2: 'stool
+
+  increase'
+bip_39_word_new_line_3: 'stool
+
+  increase
+
+  smart'
+bip_39_word_new_line_4: 'stool
+
+  increase
+
+  smart
+
+  insane'
+bip_39_word_new_line_5: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great'
+bip_39_word_new_line_6: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready'
+bip_39_word_new_line_7: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse'
+bip_39_word_new_line_8: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink'
+bip_39_word_new_line_9: 'stool
+
+  increase
+
+  smart
+
+  insane
+
+  great
+
+  ready
+
+  pulse
+
+  drink
+
+  skirt'
+bip_39_word_no_space_1: stool
+bip_39_word_no_space_10: stoolincreasesmartinsanegreatreadypulsedrinkskirtresist
+bip_39_word_no_space_11: stoolincreasesmartinsanegreatreadypulsedrinkskirtresistcheap
+bip_39_word_no_space_12: stoolincreasesmartinsanegreatreadypulsedrinkskirtresistcheapabove
+bip_39_word_no_space_2: stoolincrease
+bip_39_word_no_space_3: stoolincreasesmart
+bip_39_word_no_space_4: stoolincreasesmartinsane
+bip_39_word_no_space_5: stoolincreasesmartinsanegreat
+bip_39_word_no_space_6: stoolincreasesmartinsanegreatready
+bip_39_word_no_space_7: stoolincreasesmartinsanegreatreadypulse
+bip_39_word_no_space_8: stoolincreasesmartinsanegreatreadypulsedrink
+bip_39_word_no_space_9: stoolincreasesmartinsanegreatreadypulsedrinkskirt
+bip_39_word_space_0:
+- stool
+- increase
+- smart
+- insane
+- great
+- ready
+- pulse
+- drink
+- skirt
+- resist
+- cheap
+- above
+bip_39_word_space_1: stool
+bip_39_word_space_10: stool increase smart insane great ready pulse drink skirt resist
+bip_39_word_space_11: stool increase smart insane great ready pulse drink skirt resist
+  cheap
+bip_39_word_space_12: stool increase smart insane great ready pulse drink skirt resist
+  cheap above
+bip_39_word_space_2: stool increase
+bip_39_word_space_3: stool increase smart
+bip_39_word_space_4: stool increase smart insane
+bip_39_word_space_5: stool increase smart insane great
+bip_39_word_space_6: stool increase smart insane great ready
+bip_39_word_space_7: stool increase smart insane great ready pulse
+bip_39_word_space_8: stool increase smart insane great ready pulse drink
+bip_39_word_space_9: stool increase smart insane great ready pulse drink skirt
+bip_39_word_underscore_1: stool
+bip_39_word_underscore_10: stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist
+bip_39_word_underscore_11: stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist_cheap
+bip_39_word_underscore_12: stool_increase_smart_insane_great_ready_pulse_drink_skirt_resist_cheap_above
+bip_39_word_underscore_2: stool_increase
+bip_39_word_underscore_3: stool_increase_smart
+bip_39_word_underscore_4: stool_increase_smart_insane
+bip_39_word_underscore_5: stool_increase_smart_insane_great
+bip_39_word_underscore_6: stool_increase_smart_insane_great_ready
+bip_39_word_underscore_7: stool_increase_smart_insane_great_ready_pulse
+bip_39_word_underscore_8: stool_increase_smart_insane_great_ready_pulse_drink
+bip_39_word_underscore_9: stool_increase_smart_insane_great_ready_pulse_drink_skirt
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
 id_no_color: 10_mm_id_22_mm_od_6_mm_depth
 id_no_size: 6900_size_10_mm_id_22_mm_od_6_mm_depth
 id_no_type: 6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bnxp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bnxp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bnxp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 10 mm ID 22 mm OD 6 mm Depth
 name_no_size: 6900 Size 10 mm ID 22 mm OD 6 mm Depth
 name_no_size_short: 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth
 name_no_type: 6900 Series 6900 Size 10 mm ID 22 mm OD 6 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6900
+oomlout_short_code_upper: BR6900
 oomp_key: oomp_hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
 oomp_word: scream bug bus
 oomp_word_emoji: ':scream: :bug: :bus:'

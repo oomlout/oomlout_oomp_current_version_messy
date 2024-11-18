@@ -1,3 +1,223 @@
+bip_39_word_dash_1: clinic
+bip_39_word_dash_10: clinic-copper-vital-volume-code-utility-write-vicious-social-purchase
+bip_39_word_dash_11: clinic-copper-vital-volume-code-utility-write-vicious-social-purchase-push
+bip_39_word_dash_12: clinic-copper-vital-volume-code-utility-write-vicious-social-purchase-push-already
+bip_39_word_dash_2: clinic-copper
+bip_39_word_dash_3: clinic-copper-vital
+bip_39_word_dash_4: clinic-copper-vital-volume
+bip_39_word_dash_5: clinic-copper-vital-volume-code
+bip_39_word_dash_6: clinic-copper-vital-volume-code-utility
+bip_39_word_dash_7: clinic-copper-vital-volume-code-utility-write
+bip_39_word_dash_8: clinic-copper-vital-volume-code-utility-write-vicious
+bip_39_word_dash_9: clinic-copper-vital-volume-code-utility-write-vicious-social
+bip_39_word_new_br_1: clinic
+bip_39_word_new_br_10: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase
+bip_39_word_new_br_11: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push
+bip_39_word_new_br_12: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social<br>purchase<br>push<br>already
+bip_39_word_new_br_2: clinic<br>copper
+bip_39_word_new_br_3: clinic<br>copper<br>vital
+bip_39_word_new_br_4: clinic<br>copper<br>vital<br>volume
+bip_39_word_new_br_5: clinic<br>copper<br>vital<br>volume<br>code
+bip_39_word_new_br_6: clinic<br>copper<br>vital<br>volume<br>code<br>utility
+bip_39_word_new_br_7: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write
+bip_39_word_new_br_8: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious
+bip_39_word_new_br_9: clinic<br>copper<br>vital<br>volume<br>code<br>utility<br>write<br>vicious<br>social
+bip_39_word_new_line_1: clinic
+bip_39_word_new_line_10: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write
+
+  vicious
+
+  social
+
+  purchase'
+bip_39_word_new_line_11: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write
+
+  vicious
+
+  social
+
+  purchase
+
+  push'
+bip_39_word_new_line_12: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write
+
+  vicious
+
+  social
+
+  purchase
+
+  push
+
+  already'
+bip_39_word_new_line_2: 'clinic
+
+  copper'
+bip_39_word_new_line_3: 'clinic
+
+  copper
+
+  vital'
+bip_39_word_new_line_4: 'clinic
+
+  copper
+
+  vital
+
+  volume'
+bip_39_word_new_line_5: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code'
+bip_39_word_new_line_6: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility'
+bip_39_word_new_line_7: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write'
+bip_39_word_new_line_8: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write
+
+  vicious'
+bip_39_word_new_line_9: 'clinic
+
+  copper
+
+  vital
+
+  volume
+
+  code
+
+  utility
+
+  write
+
+  vicious
+
+  social'
+bip_39_word_no_space_1: clinic
+bip_39_word_no_space_10: cliniccoppervitalvolumecodeutilitywritevicioussocialpurchase
+bip_39_word_no_space_11: cliniccoppervitalvolumecodeutilitywritevicioussocialpurchasepush
+bip_39_word_no_space_12: cliniccoppervitalvolumecodeutilitywritevicioussocialpurchasepushalready
+bip_39_word_no_space_2: cliniccopper
+bip_39_word_no_space_3: cliniccoppervital
+bip_39_word_no_space_4: cliniccoppervitalvolume
+bip_39_word_no_space_5: cliniccoppervitalvolumecode
+bip_39_word_no_space_6: cliniccoppervitalvolumecodeutility
+bip_39_word_no_space_7: cliniccoppervitalvolumecodeutilitywrite
+bip_39_word_no_space_8: cliniccoppervitalvolumecodeutilitywritevicious
+bip_39_word_no_space_9: cliniccoppervitalvolumecodeutilitywritevicioussocial
+bip_39_word_space_0:
+- clinic
+- copper
+- vital
+- volume
+- code
+- utility
+- write
+- vicious
+- social
+- purchase
+- push
+- already
+bip_39_word_space_1: clinic
+bip_39_word_space_10: clinic copper vital volume code utility write vicious social
+  purchase
+bip_39_word_space_11: clinic copper vital volume code utility write vicious social
+  purchase push
+bip_39_word_space_12: clinic copper vital volume code utility write vicious social
+  purchase push already
+bip_39_word_space_2: clinic copper
+bip_39_word_space_3: clinic copper vital
+bip_39_word_space_4: clinic copper vital volume
+bip_39_word_space_5: clinic copper vital volume code
+bip_39_word_space_6: clinic copper vital volume code utility
+bip_39_word_space_7: clinic copper vital volume code utility write
+bip_39_word_space_8: clinic copper vital volume code utility write vicious
+bip_39_word_space_9: clinic copper vital volume code utility write vicious social
+bip_39_word_underscore_1: clinic
+bip_39_word_underscore_10: clinic_copper_vital_volume_code_utility_write_vicious_social_purchase
+bip_39_word_underscore_11: clinic_copper_vital_volume_code_utility_write_vicious_social_purchase_push
+bip_39_word_underscore_12: clinic_copper_vital_volume_code_utility_write_vicious_social_purchase_push_already
+bip_39_word_underscore_2: clinic_copper
+bip_39_word_underscore_3: clinic_copper_vital
+bip_39_word_underscore_4: clinic_copper_vital_volume
+bip_39_word_underscore_5: clinic_copper_vital_volume_code
+bip_39_word_underscore_6: clinic_copper_vital_volume_code_utility
+bip_39_word_underscore_7: clinic_copper_vital_volume_code_utility_write
+bip_39_word_underscore_8: clinic_copper_vital_volume_code_utility_write_vicious
+bip_39_word_underscore_9: clinic_copper_vital_volume_code_utility_write_vicious_social
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_08_02_60
 id_no_color: 080260
 id_no_size: 08_02_60
 id_no_type: tray_thin_08_02_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_02_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_02_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_02_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204i1rf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204i1rf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204i1rf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 080260
 name_no_size: 08 02 60
 name_no_size_short: 08 02 60
 name_no_type: Tray Thin 08 02 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_02_60
 oomp_word: flags blowfish chestnut
 oomp_word_emoji: ':flags: :blowfish: :chestnut:'

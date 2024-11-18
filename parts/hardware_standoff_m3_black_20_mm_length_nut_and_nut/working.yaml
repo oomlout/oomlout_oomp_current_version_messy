@@ -1,3 +1,223 @@
+bip_39_word_dash_1: tail
+bip_39_word_dash_10: tail-promote-desert-turtle-select-curve-lecture-noble-tomato-vocal
+bip_39_word_dash_11: tail-promote-desert-turtle-select-curve-lecture-noble-tomato-vocal-motion
+bip_39_word_dash_12: tail-promote-desert-turtle-select-curve-lecture-noble-tomato-vocal-motion-admit
+bip_39_word_dash_2: tail-promote
+bip_39_word_dash_3: tail-promote-desert
+bip_39_word_dash_4: tail-promote-desert-turtle
+bip_39_word_dash_5: tail-promote-desert-turtle-select
+bip_39_word_dash_6: tail-promote-desert-turtle-select-curve
+bip_39_word_dash_7: tail-promote-desert-turtle-select-curve-lecture
+bip_39_word_dash_8: tail-promote-desert-turtle-select-curve-lecture-noble
+bip_39_word_dash_9: tail-promote-desert-turtle-select-curve-lecture-noble-tomato
+bip_39_word_new_br_1: tail
+bip_39_word_new_br_10: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal
+bip_39_word_new_br_11: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion
+bip_39_word_new_br_12: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato<br>vocal<br>motion<br>admit
+bip_39_word_new_br_2: tail<br>promote
+bip_39_word_new_br_3: tail<br>promote<br>desert
+bip_39_word_new_br_4: tail<br>promote<br>desert<br>turtle
+bip_39_word_new_br_5: tail<br>promote<br>desert<br>turtle<br>select
+bip_39_word_new_br_6: tail<br>promote<br>desert<br>turtle<br>select<br>curve
+bip_39_word_new_br_7: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture
+bip_39_word_new_br_8: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble
+bip_39_word_new_br_9: tail<br>promote<br>desert<br>turtle<br>select<br>curve<br>lecture<br>noble<br>tomato
+bip_39_word_new_line_1: tail
+bip_39_word_new_line_10: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture
+
+  noble
+
+  tomato
+
+  vocal'
+bip_39_word_new_line_11: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture
+
+  noble
+
+  tomato
+
+  vocal
+
+  motion'
+bip_39_word_new_line_12: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture
+
+  noble
+
+  tomato
+
+  vocal
+
+  motion
+
+  admit'
+bip_39_word_new_line_2: 'tail
+
+  promote'
+bip_39_word_new_line_3: 'tail
+
+  promote
+
+  desert'
+bip_39_word_new_line_4: 'tail
+
+  promote
+
+  desert
+
+  turtle'
+bip_39_word_new_line_5: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select'
+bip_39_word_new_line_6: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve'
+bip_39_word_new_line_7: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture'
+bip_39_word_new_line_8: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture
+
+  noble'
+bip_39_word_new_line_9: 'tail
+
+  promote
+
+  desert
+
+  turtle
+
+  select
+
+  curve
+
+  lecture
+
+  noble
+
+  tomato'
+bip_39_word_no_space_1: tail
+bip_39_word_no_space_10: tailpromotedesertturtleselectcurvelecturenobletomatovocal
+bip_39_word_no_space_11: tailpromotedesertturtleselectcurvelecturenobletomatovocalmotion
+bip_39_word_no_space_12: tailpromotedesertturtleselectcurvelecturenobletomatovocalmotionadmit
+bip_39_word_no_space_2: tailpromote
+bip_39_word_no_space_3: tailpromotedesert
+bip_39_word_no_space_4: tailpromotedesertturtle
+bip_39_word_no_space_5: tailpromotedesertturtleselect
+bip_39_word_no_space_6: tailpromotedesertturtleselectcurve
+bip_39_word_no_space_7: tailpromotedesertturtleselectcurvelecture
+bip_39_word_no_space_8: tailpromotedesertturtleselectcurvelecturenoble
+bip_39_word_no_space_9: tailpromotedesertturtleselectcurvelecturenobletomato
+bip_39_word_space_0:
+- tail
+- promote
+- desert
+- turtle
+- select
+- curve
+- lecture
+- noble
+- tomato
+- vocal
+- motion
+- admit
+bip_39_word_space_1: tail
+bip_39_word_space_10: tail promote desert turtle select curve lecture noble tomato
+  vocal
+bip_39_word_space_11: tail promote desert turtle select curve lecture noble tomato
+  vocal motion
+bip_39_word_space_12: tail promote desert turtle select curve lecture noble tomato
+  vocal motion admit
+bip_39_word_space_2: tail promote
+bip_39_word_space_3: tail promote desert
+bip_39_word_space_4: tail promote desert turtle
+bip_39_word_space_5: tail promote desert turtle select
+bip_39_word_space_6: tail promote desert turtle select curve
+bip_39_word_space_7: tail promote desert turtle select curve lecture
+bip_39_word_space_8: tail promote desert turtle select curve lecture noble
+bip_39_word_space_9: tail promote desert turtle select curve lecture noble tomato
+bip_39_word_underscore_1: tail
+bip_39_word_underscore_10: tail_promote_desert_turtle_select_curve_lecture_noble_tomato_vocal
+bip_39_word_underscore_11: tail_promote_desert_turtle_select_curve_lecture_noble_tomato_vocal_motion
+bip_39_word_underscore_12: tail_promote_desert_turtle_select_curve_lecture_noble_tomato_vocal_motion_admit
+bip_39_word_underscore_2: tail_promote
+bip_39_word_underscore_3: tail_promote_desert
+bip_39_word_underscore_4: tail_promote_desert_turtle
+bip_39_word_underscore_5: tail_promote_desert_turtle_select
+bip_39_word_underscore_6: tail_promote_desert_turtle_select_curve
+bip_39_word_underscore_7: tail_promote_desert_turtle_select_curve_lecture
+bip_39_word_underscore_8: tail_promote_desert_turtle_select_curve_lecture_noble
+bip_39_word_underscore_9: tail_promote_desert_turtle_select_curve_lecture_noble_tomato
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 20_mm_length_nut_and_nut
 id_no_size: black_20_mm_length_nut_and_nut
 id_no_type: m3_black_20_mm_length_nut_and_nut
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_20_mm_length_nut_and_nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202b1z1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202b1z1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202b1z1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,25 @@ name_no_color: 20 mm Length Nut And Nut
 name_no_size: Black 20 mm Length Nut And Nut
 name_no_size_short: Black 20 Mm Length Nut And Nut
 name_no_type: M3 Black 20 mm Length Nut And Nut
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 2b1
+oomlout_bolt_md5_6_alpha_first_3_upper: 2B1
+oomlout_bolt_md5_6_alpha_last_3: z1
+oomlout_bolt_md5_6_alpha_last_3_upper: Z1
+oomlout_bolt_md5_6_first_3: 3b2
+oomlout_bolt_md5_6_first_3_upper: 3B2
+oomlout_bolt_md5_6_last_3: 0bd
+oomlout_bolt_md5_6_last_3_upper: 0BD
+oomlout_bolt_name: ' M3X20 mm Black (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3b20nn
+oomlout_short_code_upper: SO3B20NN
 oomp_key: oomp_hardware_standoff_m3_black_20_mm_length_nut_and_nut
 oomp_word: bear skull rice
 oomp_word_emoji: ':bear: :skull: :rice:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Heatshrink 2 To 1 Shrink Ratio 1 6 mm Internal Diameter Orange 15 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :eyes: :bird: :envelope:
 * md5_6_alpha: 1hrii
 * md5_6: 26468a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201hrii)
+[2x1](http://192.168.1.242:1112/?label=oomp%201hrii)
+[6x4](http://192.168.1.55:1112/?label=oomp%201hrii)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ bacon |
 | id_no_size | orange_15_mm_length |  
 | id_no_type | 1_6_mm_internal_diameter_orange_15_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201hrii |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201hrii |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201hrii |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ bacon |
 | name_no_size | Orange 15 mm Length |  
 | name_no_size_short | Orange 15 Mm Length |  
 | name_no_type | 1 6 mm Internal Diameter Orange 15 mm Length |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_orange_15_mm_length |  
 | oomp_word | eyes bird envelope |  
 | oomp_word_emoji | :eyes: :bird: :envelope: |  

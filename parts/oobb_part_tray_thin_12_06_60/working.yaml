@@ -1,3 +1,223 @@
+bip_39_word_dash_1: merit
+bip_39_word_dash_10: merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick
+bip_39_word_dash_11: merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick-differ
+bip_39_word_dash_12: merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core-trick-differ-above
+bip_39_word_dash_2: merit-sentence
+bip_39_word_dash_3: merit-sentence-frog
+bip_39_word_dash_4: merit-sentence-frog-pretty
+bip_39_word_dash_5: merit-sentence-frog-pretty-sorry
+bip_39_word_dash_6: merit-sentence-frog-pretty-sorry-opinion
+bip_39_word_dash_7: merit-sentence-frog-pretty-sorry-opinion-pumpkin
+bip_39_word_dash_8: merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar
+bip_39_word_dash_9: merit-sentence-frog-pretty-sorry-opinion-pumpkin-polar-core
+bip_39_word_new_br_1: merit
+bip_39_word_new_br_10: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick
+bip_39_word_new_br_11: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick<br>differ
+bip_39_word_new_br_12: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core<br>trick<br>differ<br>above
+bip_39_word_new_br_2: merit<br>sentence
+bip_39_word_new_br_3: merit<br>sentence<br>frog
+bip_39_word_new_br_4: merit<br>sentence<br>frog<br>pretty
+bip_39_word_new_br_5: merit<br>sentence<br>frog<br>pretty<br>sorry
+bip_39_word_new_br_6: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion
+bip_39_word_new_br_7: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin
+bip_39_word_new_br_8: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar
+bip_39_word_new_br_9: merit<br>sentence<br>frog<br>pretty<br>sorry<br>opinion<br>pumpkin<br>polar<br>core
+bip_39_word_new_line_1: merit
+bip_39_word_new_line_10: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin
+
+  polar
+
+  core
+
+  trick'
+bip_39_word_new_line_11: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin
+
+  polar
+
+  core
+
+  trick
+
+  differ'
+bip_39_word_new_line_12: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin
+
+  polar
+
+  core
+
+  trick
+
+  differ
+
+  above'
+bip_39_word_new_line_2: 'merit
+
+  sentence'
+bip_39_word_new_line_3: 'merit
+
+  sentence
+
+  frog'
+bip_39_word_new_line_4: 'merit
+
+  sentence
+
+  frog
+
+  pretty'
+bip_39_word_new_line_5: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry'
+bip_39_word_new_line_6: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion'
+bip_39_word_new_line_7: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin'
+bip_39_word_new_line_8: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin
+
+  polar'
+bip_39_word_new_line_9: 'merit
+
+  sentence
+
+  frog
+
+  pretty
+
+  sorry
+
+  opinion
+
+  pumpkin
+
+  polar
+
+  core'
+bip_39_word_no_space_1: merit
+bip_39_word_no_space_10: meritsentencefrogprettysorryopinionpumpkinpolarcoretrick
+bip_39_word_no_space_11: meritsentencefrogprettysorryopinionpumpkinpolarcoretrickdiffer
+bip_39_word_no_space_12: meritsentencefrogprettysorryopinionpumpkinpolarcoretrickdifferabove
+bip_39_word_no_space_2: meritsentence
+bip_39_word_no_space_3: meritsentencefrog
+bip_39_word_no_space_4: meritsentencefrogpretty
+bip_39_word_no_space_5: meritsentencefrogprettysorry
+bip_39_word_no_space_6: meritsentencefrogprettysorryopinion
+bip_39_word_no_space_7: meritsentencefrogprettysorryopinionpumpkin
+bip_39_word_no_space_8: meritsentencefrogprettysorryopinionpumpkinpolar
+bip_39_word_no_space_9: meritsentencefrogprettysorryopinionpumpkinpolarcore
+bip_39_word_space_0:
+- merit
+- sentence
+- frog
+- pretty
+- sorry
+- opinion
+- pumpkin
+- polar
+- core
+- trick
+- differ
+- above
+bip_39_word_space_1: merit
+bip_39_word_space_10: merit sentence frog pretty sorry opinion pumpkin polar core
+  trick
+bip_39_word_space_11: merit sentence frog pretty sorry opinion pumpkin polar core
+  trick differ
+bip_39_word_space_12: merit sentence frog pretty sorry opinion pumpkin polar core
+  trick differ above
+bip_39_word_space_2: merit sentence
+bip_39_word_space_3: merit sentence frog
+bip_39_word_space_4: merit sentence frog pretty
+bip_39_word_space_5: merit sentence frog pretty sorry
+bip_39_word_space_6: merit sentence frog pretty sorry opinion
+bip_39_word_space_7: merit sentence frog pretty sorry opinion pumpkin
+bip_39_word_space_8: merit sentence frog pretty sorry opinion pumpkin polar
+bip_39_word_space_9: merit sentence frog pretty sorry opinion pumpkin polar core
+bip_39_word_underscore_1: merit
+bip_39_word_underscore_10: merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick
+bip_39_word_underscore_11: merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick_differ
+bip_39_word_underscore_12: merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core_trick_differ_above
+bip_39_word_underscore_2: merit_sentence
+bip_39_word_underscore_3: merit_sentence_frog
+bip_39_word_underscore_4: merit_sentence_frog_pretty
+bip_39_word_underscore_5: merit_sentence_frog_pretty_sorry
+bip_39_word_underscore_6: merit_sentence_frog_pretty_sorry_opinion
+bip_39_word_underscore_7: merit_sentence_frog_pretty_sorry_opinion_pumpkin
+bip_39_word_underscore_8: merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar
+bip_39_word_underscore_9: merit_sentence_frog_pretty_sorry_opinion_pumpkin_polar_core
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_06_60
 id_no_color: '120660'
 id_no_size: '12_06_60'
 id_no_type: tray_thin_12_06_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_06_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bwze
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bwze
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bwze
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '120660'
 name_no_size: 12 06 60
 name_no_size_short: 12 06 60
 name_no_type: Tray Thin 12 06 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_06_60
 oomp_word: scream computer spaghetti
 oomp_word_emoji: ':scream: :computer: :spaghetti:'

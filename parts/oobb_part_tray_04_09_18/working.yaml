@@ -1,3 +1,222 @@
+bip_39_word_dash_1: antique
+bip_39_word_dash_10: antique-office-main-laundry-dose-save-super-young-dune-rookie
+bip_39_word_dash_11: antique-office-main-laundry-dose-save-super-young-dune-rookie-leopard
+bip_39_word_dash_12: antique-office-main-laundry-dose-save-super-young-dune-rookie-leopard-airport
+bip_39_word_dash_2: antique-office
+bip_39_word_dash_3: antique-office-main
+bip_39_word_dash_4: antique-office-main-laundry
+bip_39_word_dash_5: antique-office-main-laundry-dose
+bip_39_word_dash_6: antique-office-main-laundry-dose-save
+bip_39_word_dash_7: antique-office-main-laundry-dose-save-super
+bip_39_word_dash_8: antique-office-main-laundry-dose-save-super-young
+bip_39_word_dash_9: antique-office-main-laundry-dose-save-super-young-dune
+bip_39_word_new_br_1: antique
+bip_39_word_new_br_10: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie
+bip_39_word_new_br_11: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie<br>leopard
+bip_39_word_new_br_12: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune<br>rookie<br>leopard<br>airport
+bip_39_word_new_br_2: antique<br>office
+bip_39_word_new_br_3: antique<br>office<br>main
+bip_39_word_new_br_4: antique<br>office<br>main<br>laundry
+bip_39_word_new_br_5: antique<br>office<br>main<br>laundry<br>dose
+bip_39_word_new_br_6: antique<br>office<br>main<br>laundry<br>dose<br>save
+bip_39_word_new_br_7: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super
+bip_39_word_new_br_8: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young
+bip_39_word_new_br_9: antique<br>office<br>main<br>laundry<br>dose<br>save<br>super<br>young<br>dune
+bip_39_word_new_line_1: antique
+bip_39_word_new_line_10: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super
+
+  young
+
+  dune
+
+  rookie'
+bip_39_word_new_line_11: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super
+
+  young
+
+  dune
+
+  rookie
+
+  leopard'
+bip_39_word_new_line_12: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super
+
+  young
+
+  dune
+
+  rookie
+
+  leopard
+
+  airport'
+bip_39_word_new_line_2: 'antique
+
+  office'
+bip_39_word_new_line_3: 'antique
+
+  office
+
+  main'
+bip_39_word_new_line_4: 'antique
+
+  office
+
+  main
+
+  laundry'
+bip_39_word_new_line_5: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose'
+bip_39_word_new_line_6: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save'
+bip_39_word_new_line_7: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super'
+bip_39_word_new_line_8: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super
+
+  young'
+bip_39_word_new_line_9: 'antique
+
+  office
+
+  main
+
+  laundry
+
+  dose
+
+  save
+
+  super
+
+  young
+
+  dune'
+bip_39_word_no_space_1: antique
+bip_39_word_no_space_10: antiqueofficemainlaundrydosesavesuperyoungdunerookie
+bip_39_word_no_space_11: antiqueofficemainlaundrydosesavesuperyoungdunerookieleopard
+bip_39_word_no_space_12: antiqueofficemainlaundrydosesavesuperyoungdunerookieleopardairport
+bip_39_word_no_space_2: antiqueoffice
+bip_39_word_no_space_3: antiqueofficemain
+bip_39_word_no_space_4: antiqueofficemainlaundry
+bip_39_word_no_space_5: antiqueofficemainlaundrydose
+bip_39_word_no_space_6: antiqueofficemainlaundrydosesave
+bip_39_word_no_space_7: antiqueofficemainlaundrydosesavesuper
+bip_39_word_no_space_8: antiqueofficemainlaundrydosesavesuperyoung
+bip_39_word_no_space_9: antiqueofficemainlaundrydosesavesuperyoungdune
+bip_39_word_space_0:
+- antique
+- office
+- main
+- laundry
+- dose
+- save
+- super
+- young
+- dune
+- rookie
+- leopard
+- airport
+bip_39_word_space_1: antique
+bip_39_word_space_10: antique office main laundry dose save super young dune rookie
+bip_39_word_space_11: antique office main laundry dose save super young dune rookie
+  leopard
+bip_39_word_space_12: antique office main laundry dose save super young dune rookie
+  leopard airport
+bip_39_word_space_2: antique office
+bip_39_word_space_3: antique office main
+bip_39_word_space_4: antique office main laundry
+bip_39_word_space_5: antique office main laundry dose
+bip_39_word_space_6: antique office main laundry dose save
+bip_39_word_space_7: antique office main laundry dose save super
+bip_39_word_space_8: antique office main laundry dose save super young
+bip_39_word_space_9: antique office main laundry dose save super young dune
+bip_39_word_underscore_1: antique
+bip_39_word_underscore_10: antique_office_main_laundry_dose_save_super_young_dune_rookie
+bip_39_word_underscore_11: antique_office_main_laundry_dose_save_super_young_dune_rookie_leopard
+bip_39_word_underscore_12: antique_office_main_laundry_dose_save_super_young_dune_rookie_leopard_airport
+bip_39_word_underscore_2: antique_office
+bip_39_word_underscore_3: antique_office_main
+bip_39_word_underscore_4: antique_office_main_laundry
+bip_39_word_underscore_5: antique_office_main_laundry_dose
+bip_39_word_underscore_6: antique_office_main_laundry_dose_save
+bip_39_word_underscore_7: antique_office_main_laundry_dose_save_super
+bip_39_word_underscore_8: antique_office_main_laundry_dose_save_super_young
+bip_39_word_underscore_9: antique_office_main_laundry_dose_save_super_young_dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_09_18
 id_no_color: 040918
 id_no_size: 04_09_18
 id_no_type: tray_04_09_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_09_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_09_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_09_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203h0oe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203h0oe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203h0oe
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040918
 name_no_size: 04 09 18
 name_no_size_short: 04 09 18
 name_no_type: Tray 04 09 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_09_18
 oomp_word: dragon bowtie jeans
 oomp_word_emoji: ':dragon: :bowtie: :jeans:'

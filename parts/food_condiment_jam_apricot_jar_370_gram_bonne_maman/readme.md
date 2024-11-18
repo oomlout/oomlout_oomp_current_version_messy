@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Condiment Jam Apricot Jar 370 Gram Bonne Maman
+* name_short: Apricot Jam
 ### id
 * oomp_id: food_condiment_jam_apricot_jar_370_gram_bonne_maman
   * classification: food

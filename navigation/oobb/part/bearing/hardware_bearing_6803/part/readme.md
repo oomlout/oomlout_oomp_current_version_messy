@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Hardware Bearing 6803
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_hardware_bearing_6803
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :mouse: :cherries: :fire:
 * md5_6_alpha: 225g4
 * md5_6: 34ca14
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20225g4)
+[2x1](http://192.168.1.242:1112/?label=oomp%20225g4)
+[6x4](http://192.168.1.55:1112/?label=oomp%20225g4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6803) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6803)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ recall |
 | id_no_color | hardware6803 |  
 | id_no_size | hardware_6803 |  
 | id_no_type | bearing_hardware_bearing_6803 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6803 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6803 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6803 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20225g4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20225g4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20225g4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ recall |
 | name_no_size | Hardware 6803 |  
 | name_no_size_short | Hardware 6k8 |  
 | name_no_type | Bearing Hardware Bearing 6803 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_hardware_bearing_6803 |  
 | oomp_word | mouse cherries fire |  
 | oomp_word_emoji | :mouse: :cherries: :fire: |  

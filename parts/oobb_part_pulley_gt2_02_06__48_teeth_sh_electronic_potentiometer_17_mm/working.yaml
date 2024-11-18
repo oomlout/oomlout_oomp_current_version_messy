@@ -1,3 +1,223 @@
+bip_39_word_dash_1: gas
+bip_39_word_dash_10: gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example
+bip_39_word_dash_11: gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example-receive
+bip_39_word_dash_12: gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two-example-receive-antenna
+bip_39_word_dash_2: gas-wink
+bip_39_word_dash_3: gas-wink-oppose
+bip_39_word_dash_4: gas-wink-oppose-penalty
+bip_39_word_dash_5: gas-wink-oppose-penalty-crucial
+bip_39_word_dash_6: gas-wink-oppose-penalty-crucial-quantum
+bip_39_word_dash_7: gas-wink-oppose-penalty-crucial-quantum-buffalo
+bip_39_word_dash_8: gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican
+bip_39_word_dash_9: gas-wink-oppose-penalty-crucial-quantum-buffalo-pelican-two
+bip_39_word_new_br_1: gas
+bip_39_word_new_br_10: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example
+bip_39_word_new_br_11: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example<br>receive
+bip_39_word_new_br_12: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two<br>example<br>receive<br>antenna
+bip_39_word_new_br_2: gas<br>wink
+bip_39_word_new_br_3: gas<br>wink<br>oppose
+bip_39_word_new_br_4: gas<br>wink<br>oppose<br>penalty
+bip_39_word_new_br_5: gas<br>wink<br>oppose<br>penalty<br>crucial
+bip_39_word_new_br_6: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum
+bip_39_word_new_br_7: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo
+bip_39_word_new_br_8: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican
+bip_39_word_new_br_9: gas<br>wink<br>oppose<br>penalty<br>crucial<br>quantum<br>buffalo<br>pelican<br>two
+bip_39_word_new_line_1: gas
+bip_39_word_new_line_10: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example'
+bip_39_word_new_line_11: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example
+
+  receive'
+bip_39_word_new_line_12: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two
+
+  example
+
+  receive
+
+  antenna'
+bip_39_word_new_line_2: 'gas
+
+  wink'
+bip_39_word_new_line_3: 'gas
+
+  wink
+
+  oppose'
+bip_39_word_new_line_4: 'gas
+
+  wink
+
+  oppose
+
+  penalty'
+bip_39_word_new_line_5: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial'
+bip_39_word_new_line_6: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum'
+bip_39_word_new_line_7: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo'
+bip_39_word_new_line_8: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican'
+bip_39_word_new_line_9: 'gas
+
+  wink
+
+  oppose
+
+  penalty
+
+  crucial
+
+  quantum
+
+  buffalo
+
+  pelican
+
+  two'
+bip_39_word_no_space_1: gas
+bip_39_word_no_space_10: gaswinkopposepenaltycrucialquantumbuffalopelicantwoexample
+bip_39_word_no_space_11: gaswinkopposepenaltycrucialquantumbuffalopelicantwoexamplereceive
+bip_39_word_no_space_12: gaswinkopposepenaltycrucialquantumbuffalopelicantwoexamplereceiveantenna
+bip_39_word_no_space_2: gaswink
+bip_39_word_no_space_3: gaswinkoppose
+bip_39_word_no_space_4: gaswinkopposepenalty
+bip_39_word_no_space_5: gaswinkopposepenaltycrucial
+bip_39_word_no_space_6: gaswinkopposepenaltycrucialquantum
+bip_39_word_no_space_7: gaswinkopposepenaltycrucialquantumbuffalo
+bip_39_word_no_space_8: gaswinkopposepenaltycrucialquantumbuffalopelican
+bip_39_word_no_space_9: gaswinkopposepenaltycrucialquantumbuffalopelicantwo
+bip_39_word_space_0:
+- gas
+- wink
+- oppose
+- penalty
+- crucial
+- quantum
+- buffalo
+- pelican
+- two
+- example
+- receive
+- antenna
+bip_39_word_space_1: gas
+bip_39_word_space_10: gas wink oppose penalty crucial quantum buffalo pelican two
+  example
+bip_39_word_space_11: gas wink oppose penalty crucial quantum buffalo pelican two
+  example receive
+bip_39_word_space_12: gas wink oppose penalty crucial quantum buffalo pelican two
+  example receive antenna
+bip_39_word_space_2: gas wink
+bip_39_word_space_3: gas wink oppose
+bip_39_word_space_4: gas wink oppose penalty
+bip_39_word_space_5: gas wink oppose penalty crucial
+bip_39_word_space_6: gas wink oppose penalty crucial quantum
+bip_39_word_space_7: gas wink oppose penalty crucial quantum buffalo
+bip_39_word_space_8: gas wink oppose penalty crucial quantum buffalo pelican
+bip_39_word_space_9: gas wink oppose penalty crucial quantum buffalo pelican two
+bip_39_word_underscore_1: gas
+bip_39_word_underscore_10: gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example
+bip_39_word_underscore_11: gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example_receive
+bip_39_word_underscore_12: gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two_example_receive_antenna
+bip_39_word_underscore_2: gas_wink
+bip_39_word_underscore_3: gas_wink_oppose
+bip_39_word_underscore_4: gas_wink_oppose_penalty
+bip_39_word_underscore_5: gas_wink_oppose_penalty_crucial
+bip_39_word_underscore_6: gas_wink_oppose_penalty_crucial_quantum
+bip_39_word_underscore_7: gas_wink_oppose_penalty_crucial_quantum_buffalo
+bip_39_word_underscore_8: gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican
+bip_39_word_underscore_9: gas_wink_oppose_penalty_crucial_quantum_buffalo_pelican_two
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
 id_no_color: 020648teethshelectronicpotentiometer17mm
 id_no_size: 02_06__48_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20653ir
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20653ir
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20653ir
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020648Teethshelectronicpotentiometer17mm
 name_no_size: 02 06  48 Teeth Sh Electronic Potentiometer 17 mm
 name_no_size_short: 02 06  48 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Pulley Gt2 02 06  48 Teeth Sh Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__48_teeth_sh_electronic_potentiometer_17_mm
 oomp_word: hearts herb question
 oomp_word_emoji: ':hearts: :herb: :question:'

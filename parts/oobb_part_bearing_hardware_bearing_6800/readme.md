@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Hardware Bearing 6800
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_hardware_bearing_6800
   * classification: oobb

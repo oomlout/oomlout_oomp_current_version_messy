@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stick
+bip_39_word_dash_10: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token
+bip_39_word_dash_11: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token-corn
+bip_39_word_dash_12: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave-token-corn-athlete
+bip_39_word_dash_2: stick-canvas
+bip_39_word_dash_3: stick-canvas-lyrics
+bip_39_word_dash_4: stick-canvas-lyrics-dumb
+bip_39_word_dash_5: stick-canvas-lyrics-dumb-unveil
+bip_39_word_dash_6: stick-canvas-lyrics-dumb-unveil-lemon
+bip_39_word_dash_7: stick-canvas-lyrics-dumb-unveil-lemon-salad
+bip_39_word_dash_8: stick-canvas-lyrics-dumb-unveil-lemon-salad-open
+bip_39_word_dash_9: stick-canvas-lyrics-dumb-unveil-lemon-salad-open-brave
+bip_39_word_new_br_1: stick
+bip_39_word_new_br_10: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token
+bip_39_word_new_br_11: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token<br>corn
+bip_39_word_new_br_12: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave<br>token<br>corn<br>athlete
+bip_39_word_new_br_2: stick<br>canvas
+bip_39_word_new_br_3: stick<br>canvas<br>lyrics
+bip_39_word_new_br_4: stick<br>canvas<br>lyrics<br>dumb
+bip_39_word_new_br_5: stick<br>canvas<br>lyrics<br>dumb<br>unveil
+bip_39_word_new_br_6: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon
+bip_39_word_new_br_7: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad
+bip_39_word_new_br_8: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open
+bip_39_word_new_br_9: stick<br>canvas<br>lyrics<br>dumb<br>unveil<br>lemon<br>salad<br>open<br>brave
+bip_39_word_new_line_1: stick
+bip_39_word_new_line_10: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token'
+bip_39_word_new_line_11: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token
+
+  corn'
+bip_39_word_new_line_12: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave
+
+  token
+
+  corn
+
+  athlete'
+bip_39_word_new_line_2: 'stick
+
+  canvas'
+bip_39_word_new_line_3: 'stick
+
+  canvas
+
+  lyrics'
+bip_39_word_new_line_4: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb'
+bip_39_word_new_line_5: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil'
+bip_39_word_new_line_6: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon'
+bip_39_word_new_line_7: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad'
+bip_39_word_new_line_8: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open'
+bip_39_word_new_line_9: 'stick
+
+  canvas
+
+  lyrics
+
+  dumb
+
+  unveil
+
+  lemon
+
+  salad
+
+  open
+
+  brave'
+bip_39_word_no_space_1: stick
+bip_39_word_no_space_10: stickcanvaslyricsdumbunveillemonsaladopenbravetoken
+bip_39_word_no_space_11: stickcanvaslyricsdumbunveillemonsaladopenbravetokencorn
+bip_39_word_no_space_12: stickcanvaslyricsdumbunveillemonsaladopenbravetokencornathlete
+bip_39_word_no_space_2: stickcanvas
+bip_39_word_no_space_3: stickcanvaslyrics
+bip_39_word_no_space_4: stickcanvaslyricsdumb
+bip_39_word_no_space_5: stickcanvaslyricsdumbunveil
+bip_39_word_no_space_6: stickcanvaslyricsdumbunveillemon
+bip_39_word_no_space_7: stickcanvaslyricsdumbunveillemonsalad
+bip_39_word_no_space_8: stickcanvaslyricsdumbunveillemonsaladopen
+bip_39_word_no_space_9: stickcanvaslyricsdumbunveillemonsaladopenbrave
+bip_39_word_space_0:
+- stick
+- canvas
+- lyrics
+- dumb
+- unveil
+- lemon
+- salad
+- open
+- brave
+- token
+- corn
+- athlete
+bip_39_word_space_1: stick
+bip_39_word_space_10: stick canvas lyrics dumb unveil lemon salad open brave token
+bip_39_word_space_11: stick canvas lyrics dumb unveil lemon salad open brave token
+  corn
+bip_39_word_space_12: stick canvas lyrics dumb unveil lemon salad open brave token
+  corn athlete
+bip_39_word_space_2: stick canvas
+bip_39_word_space_3: stick canvas lyrics
+bip_39_word_space_4: stick canvas lyrics dumb
+bip_39_word_space_5: stick canvas lyrics dumb unveil
+bip_39_word_space_6: stick canvas lyrics dumb unveil lemon
+bip_39_word_space_7: stick canvas lyrics dumb unveil lemon salad
+bip_39_word_space_8: stick canvas lyrics dumb unveil lemon salad open
+bip_39_word_space_9: stick canvas lyrics dumb unveil lemon salad open brave
+bip_39_word_underscore_1: stick
+bip_39_word_underscore_10: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token
+bip_39_word_underscore_11: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token_corn
+bip_39_word_underscore_12: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave_token_corn_athlete
+bip_39_word_underscore_2: stick_canvas
+bip_39_word_underscore_3: stick_canvas_lyrics
+bip_39_word_underscore_4: stick_canvas_lyrics_dumb
+bip_39_word_underscore_5: stick_canvas_lyrics_dumb_unveil
+bip_39_word_underscore_6: stick_canvas_lyrics_dumb_unveil_lemon
+bip_39_word_underscore_7: stick_canvas_lyrics_dumb_unveil_lemon_salad
+bip_39_word_underscore_8: stick_canvas_lyrics_dumb_unveil_lemon_salad_open
+bip_39_word_underscore_9: stick_canvas_lyrics_dumb_unveil_lemon_salad_open_brave
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 10_mm_length
 id_no_size: red_10_mm_length
 id_no_type: 19_mm_internal_diameter_red_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208tzi0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208tzi0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208tzi0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,7 @@ name_no_color: 10 mm Length
 name_no_size: Red 10 mm Length
 name_no_size_short: Red 10 Mm Length
 name_no_type: 19 mm Internal Diameter Red 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_10_mm_length
 oomp_word: sailboat poodle seven
 oomp_word_emoji: ':sailboat: :poodle: :seven:'

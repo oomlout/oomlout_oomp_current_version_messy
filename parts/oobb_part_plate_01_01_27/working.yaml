@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hospital
+bip_39_word_dash_10: hospital-ketchup-cave-distance-toast-engine-claw-strong-own-avoid
+bip_39_word_dash_11: hospital-ketchup-cave-distance-toast-engine-claw-strong-own-avoid-weekend
+bip_39_word_dash_12: hospital-ketchup-cave-distance-toast-engine-claw-strong-own-avoid-weekend-among
+bip_39_word_dash_2: hospital-ketchup
+bip_39_word_dash_3: hospital-ketchup-cave
+bip_39_word_dash_4: hospital-ketchup-cave-distance
+bip_39_word_dash_5: hospital-ketchup-cave-distance-toast
+bip_39_word_dash_6: hospital-ketchup-cave-distance-toast-engine
+bip_39_word_dash_7: hospital-ketchup-cave-distance-toast-engine-claw
+bip_39_word_dash_8: hospital-ketchup-cave-distance-toast-engine-claw-strong
+bip_39_word_dash_9: hospital-ketchup-cave-distance-toast-engine-claw-strong-own
+bip_39_word_new_br_1: hospital
+bip_39_word_new_br_10: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid
+bip_39_word_new_br_11: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid<br>weekend
+bip_39_word_new_br_12: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own<br>avoid<br>weekend<br>among
+bip_39_word_new_br_2: hospital<br>ketchup
+bip_39_word_new_br_3: hospital<br>ketchup<br>cave
+bip_39_word_new_br_4: hospital<br>ketchup<br>cave<br>distance
+bip_39_word_new_br_5: hospital<br>ketchup<br>cave<br>distance<br>toast
+bip_39_word_new_br_6: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine
+bip_39_word_new_br_7: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw
+bip_39_word_new_br_8: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong
+bip_39_word_new_br_9: hospital<br>ketchup<br>cave<br>distance<br>toast<br>engine<br>claw<br>strong<br>own
+bip_39_word_new_line_1: hospital
+bip_39_word_new_line_10: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw
+
+  strong
+
+  own
+
+  avoid'
+bip_39_word_new_line_11: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw
+
+  strong
+
+  own
+
+  avoid
+
+  weekend'
+bip_39_word_new_line_12: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw
+
+  strong
+
+  own
+
+  avoid
+
+  weekend
+
+  among'
+bip_39_word_new_line_2: 'hospital
+
+  ketchup'
+bip_39_word_new_line_3: 'hospital
+
+  ketchup
+
+  cave'
+bip_39_word_new_line_4: 'hospital
+
+  ketchup
+
+  cave
+
+  distance'
+bip_39_word_new_line_5: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast'
+bip_39_word_new_line_6: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine'
+bip_39_word_new_line_7: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw'
+bip_39_word_new_line_8: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw
+
+  strong'
+bip_39_word_new_line_9: 'hospital
+
+  ketchup
+
+  cave
+
+  distance
+
+  toast
+
+  engine
+
+  claw
+
+  strong
+
+  own'
+bip_39_word_no_space_1: hospital
+bip_39_word_no_space_10: hospitalketchupcavedistancetoastengineclawstrongownavoid
+bip_39_word_no_space_11: hospitalketchupcavedistancetoastengineclawstrongownavoidweekend
+bip_39_word_no_space_12: hospitalketchupcavedistancetoastengineclawstrongownavoidweekendamong
+bip_39_word_no_space_2: hospitalketchup
+bip_39_word_no_space_3: hospitalketchupcave
+bip_39_word_no_space_4: hospitalketchupcavedistance
+bip_39_word_no_space_5: hospitalketchupcavedistancetoast
+bip_39_word_no_space_6: hospitalketchupcavedistancetoastengine
+bip_39_word_no_space_7: hospitalketchupcavedistancetoastengineclaw
+bip_39_word_no_space_8: hospitalketchupcavedistancetoastengineclawstrong
+bip_39_word_no_space_9: hospitalketchupcavedistancetoastengineclawstrongown
+bip_39_word_space_0:
+- hospital
+- ketchup
+- cave
+- distance
+- toast
+- engine
+- claw
+- strong
+- own
+- avoid
+- weekend
+- among
+bip_39_word_space_1: hospital
+bip_39_word_space_10: hospital ketchup cave distance toast engine claw strong own
+  avoid
+bip_39_word_space_11: hospital ketchup cave distance toast engine claw strong own
+  avoid weekend
+bip_39_word_space_12: hospital ketchup cave distance toast engine claw strong own
+  avoid weekend among
+bip_39_word_space_2: hospital ketchup
+bip_39_word_space_3: hospital ketchup cave
+bip_39_word_space_4: hospital ketchup cave distance
+bip_39_word_space_5: hospital ketchup cave distance toast
+bip_39_word_space_6: hospital ketchup cave distance toast engine
+bip_39_word_space_7: hospital ketchup cave distance toast engine claw
+bip_39_word_space_8: hospital ketchup cave distance toast engine claw strong
+bip_39_word_space_9: hospital ketchup cave distance toast engine claw strong own
+bip_39_word_underscore_1: hospital
+bip_39_word_underscore_10: hospital_ketchup_cave_distance_toast_engine_claw_strong_own_avoid
+bip_39_word_underscore_11: hospital_ketchup_cave_distance_toast_engine_claw_strong_own_avoid_weekend
+bip_39_word_underscore_12: hospital_ketchup_cave_distance_toast_engine_claw_strong_own_avoid_weekend_among
+bip_39_word_underscore_2: hospital_ketchup
+bip_39_word_underscore_3: hospital_ketchup_cave
+bip_39_word_underscore_4: hospital_ketchup_cave_distance
+bip_39_word_underscore_5: hospital_ketchup_cave_distance_toast
+bip_39_word_underscore_6: hospital_ketchup_cave_distance_toast_engine
+bip_39_word_underscore_7: hospital_ketchup_cave_distance_toast_engine_claw
+bip_39_word_underscore_8: hospital_ketchup_cave_distance_toast_engine_claw_strong
+bip_39_word_underscore_9: hospital_ketchup_cave_distance_toast_engine_claw_strong_own
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_01_01_27
 id_no_color: '010127'
 id_no_size: '01_01_27'
 id_no_type: plate_01_01_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204zpxg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204zpxg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204zpxg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010127'
 name_no_size: 01 01 27
 name_no_size_short: 01 01 27
 name_no_type: Plate 01 01 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_27
 oomp_word: speaker one wink
 oomp_word_emoji: ':speaker: :one: :wink:'

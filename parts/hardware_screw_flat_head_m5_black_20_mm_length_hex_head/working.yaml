@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ignore
+bip_39_word_dash_10: ignore-sunset-athlete-task-rebel-melt-palace-expect-barely-mercy
+bip_39_word_dash_11: ignore-sunset-athlete-task-rebel-melt-palace-expect-barely-mercy-screen
+bip_39_word_dash_12: ignore-sunset-athlete-task-rebel-melt-palace-expect-barely-mercy-screen-also
+bip_39_word_dash_2: ignore-sunset
+bip_39_word_dash_3: ignore-sunset-athlete
+bip_39_word_dash_4: ignore-sunset-athlete-task
+bip_39_word_dash_5: ignore-sunset-athlete-task-rebel
+bip_39_word_dash_6: ignore-sunset-athlete-task-rebel-melt
+bip_39_word_dash_7: ignore-sunset-athlete-task-rebel-melt-palace
+bip_39_word_dash_8: ignore-sunset-athlete-task-rebel-melt-palace-expect
+bip_39_word_dash_9: ignore-sunset-athlete-task-rebel-melt-palace-expect-barely
+bip_39_word_new_br_1: ignore
+bip_39_word_new_br_10: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace<br>expect<br>barely<br>mercy
+bip_39_word_new_br_11: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace<br>expect<br>barely<br>mercy<br>screen
+bip_39_word_new_br_12: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace<br>expect<br>barely<br>mercy<br>screen<br>also
+bip_39_word_new_br_2: ignore<br>sunset
+bip_39_word_new_br_3: ignore<br>sunset<br>athlete
+bip_39_word_new_br_4: ignore<br>sunset<br>athlete<br>task
+bip_39_word_new_br_5: ignore<br>sunset<br>athlete<br>task<br>rebel
+bip_39_word_new_br_6: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt
+bip_39_word_new_br_7: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace
+bip_39_word_new_br_8: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace<br>expect
+bip_39_word_new_br_9: ignore<br>sunset<br>athlete<br>task<br>rebel<br>melt<br>palace<br>expect<br>barely
+bip_39_word_new_line_1: ignore
+bip_39_word_new_line_10: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace
+
+  expect
+
+  barely
+
+  mercy'
+bip_39_word_new_line_11: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace
+
+  expect
+
+  barely
+
+  mercy
+
+  screen'
+bip_39_word_new_line_12: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace
+
+  expect
+
+  barely
+
+  mercy
+
+  screen
+
+  also'
+bip_39_word_new_line_2: 'ignore
+
+  sunset'
+bip_39_word_new_line_3: 'ignore
+
+  sunset
+
+  athlete'
+bip_39_word_new_line_4: 'ignore
+
+  sunset
+
+  athlete
+
+  task'
+bip_39_word_new_line_5: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel'
+bip_39_word_new_line_6: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt'
+bip_39_word_new_line_7: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace'
+bip_39_word_new_line_8: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace
+
+  expect'
+bip_39_word_new_line_9: 'ignore
+
+  sunset
+
+  athlete
+
+  task
+
+  rebel
+
+  melt
+
+  palace
+
+  expect
+
+  barely'
+bip_39_word_no_space_1: ignore
+bip_39_word_no_space_10: ignoresunsetathletetaskrebelmeltpalaceexpectbarelymercy
+bip_39_word_no_space_11: ignoresunsetathletetaskrebelmeltpalaceexpectbarelymercyscreen
+bip_39_word_no_space_12: ignoresunsetathletetaskrebelmeltpalaceexpectbarelymercyscreenalso
+bip_39_word_no_space_2: ignoresunset
+bip_39_word_no_space_3: ignoresunsetathlete
+bip_39_word_no_space_4: ignoresunsetathletetask
+bip_39_word_no_space_5: ignoresunsetathletetaskrebel
+bip_39_word_no_space_6: ignoresunsetathletetaskrebelmelt
+bip_39_word_no_space_7: ignoresunsetathletetaskrebelmeltpalace
+bip_39_word_no_space_8: ignoresunsetathletetaskrebelmeltpalaceexpect
+bip_39_word_no_space_9: ignoresunsetathletetaskrebelmeltpalaceexpectbarely
+bip_39_word_space_0:
+- ignore
+- sunset
+- athlete
+- task
+- rebel
+- melt
+- palace
+- expect
+- barely
+- mercy
+- screen
+- also
+bip_39_word_space_1: ignore
+bip_39_word_space_10: ignore sunset athlete task rebel melt palace expect barely mercy
+bip_39_word_space_11: ignore sunset athlete task rebel melt palace expect barely mercy
+  screen
+bip_39_word_space_12: ignore sunset athlete task rebel melt palace expect barely mercy
+  screen also
+bip_39_word_space_2: ignore sunset
+bip_39_word_space_3: ignore sunset athlete
+bip_39_word_space_4: ignore sunset athlete task
+bip_39_word_space_5: ignore sunset athlete task rebel
+bip_39_word_space_6: ignore sunset athlete task rebel melt
+bip_39_word_space_7: ignore sunset athlete task rebel melt palace
+bip_39_word_space_8: ignore sunset athlete task rebel melt palace expect
+bip_39_word_space_9: ignore sunset athlete task rebel melt palace expect barely
+bip_39_word_underscore_1: ignore
+bip_39_word_underscore_10: ignore_sunset_athlete_task_rebel_melt_palace_expect_barely_mercy
+bip_39_word_underscore_11: ignore_sunset_athlete_task_rebel_melt_palace_expect_barely_mercy_screen
+bip_39_word_underscore_12: ignore_sunset_athlete_task_rebel_melt_palace_expect_barely_mercy_screen_also
+bip_39_word_underscore_2: ignore_sunset
+bip_39_word_underscore_3: ignore_sunset_athlete
+bip_39_word_underscore_4: ignore_sunset_athlete_task
+bip_39_word_underscore_5: ignore_sunset_athlete_task_rebel
+bip_39_word_underscore_6: ignore_sunset_athlete_task_rebel_melt
+bip_39_word_underscore_7: ignore_sunset_athlete_task_rebel_melt_palace
+bip_39_word_underscore_8: ignore_sunset_athlete_task_rebel_melt_palace_expect
+bip_39_word_underscore_9: ignore_sunset_athlete_task_rebel_melt_palace_expect_barely
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 20_mm_length_hex_head
 id_no_size: black_20_mm_length_hex_head
 id_no_type: m5_black_20_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204l2ci
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204l2ci
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204l2ci
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 20 mm Length Hex Head
 name_no_size: Black 20 mm Length Hex Head
 name_no_size_short: Black 20 Mm Length Hex Head
 name_no_type: M5 Black 20 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 4l2
+oomlout_bolt_md5_6_alpha_first_3_upper: 4L2
+oomlout_bolt_md5_6_alpha_last_3: ci
+oomlout_bolt_md5_6_alpha_last_3_upper: CI
+oomlout_bolt_md5_6_first_3: '758'
+oomlout_bolt_md5_6_first_3_upper: '758'
+oomlout_bolt_md5_6_last_3: '322'
+oomlout_bolt_md5_6_last_3_upper: '322'
+oomlout_bolt_name: Flat Head M5X20 mm Black (Hex Head)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh5b20h
+oomlout_short_code_upper: FH5B20H
 oomp_key: oomp_hardware_screw_flat_head_m5_black_20_mm_length_hex_head
 oomp_word: ghost lock lips
 oomp_word_emoji: ':ghost: :lock: :lips:'

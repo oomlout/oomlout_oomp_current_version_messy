@@ -1,3 +1,223 @@
+bip_39_word_dash_1: orphan
+bip_39_word_dash_10: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra
+bip_39_word_dash_11: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra-act
+bip_39_word_dash_12: orphan-wear-fire-isolate-present-harvest-brush-income-hammer-extra-act-aerobic
+bip_39_word_dash_2: orphan-wear
+bip_39_word_dash_3: orphan-wear-fire
+bip_39_word_dash_4: orphan-wear-fire-isolate
+bip_39_word_dash_5: orphan-wear-fire-isolate-present
+bip_39_word_dash_6: orphan-wear-fire-isolate-present-harvest
+bip_39_word_dash_7: orphan-wear-fire-isolate-present-harvest-brush
+bip_39_word_dash_8: orphan-wear-fire-isolate-present-harvest-brush-income
+bip_39_word_dash_9: orphan-wear-fire-isolate-present-harvest-brush-income-hammer
+bip_39_word_new_br_1: orphan
+bip_39_word_new_br_10: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra
+bip_39_word_new_br_11: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra<br>act
+bip_39_word_new_br_12: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer<br>extra<br>act<br>aerobic
+bip_39_word_new_br_2: orphan<br>wear
+bip_39_word_new_br_3: orphan<br>wear<br>fire
+bip_39_word_new_br_4: orphan<br>wear<br>fire<br>isolate
+bip_39_word_new_br_5: orphan<br>wear<br>fire<br>isolate<br>present
+bip_39_word_new_br_6: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest
+bip_39_word_new_br_7: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush
+bip_39_word_new_br_8: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income
+bip_39_word_new_br_9: orphan<br>wear<br>fire<br>isolate<br>present<br>harvest<br>brush<br>income<br>hammer
+bip_39_word_new_line_1: orphan
+bip_39_word_new_line_10: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush
+
+  income
+
+  hammer
+
+  extra'
+bip_39_word_new_line_11: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush
+
+  income
+
+  hammer
+
+  extra
+
+  act'
+bip_39_word_new_line_12: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush
+
+  income
+
+  hammer
+
+  extra
+
+  act
+
+  aerobic'
+bip_39_word_new_line_2: 'orphan
+
+  wear'
+bip_39_word_new_line_3: 'orphan
+
+  wear
+
+  fire'
+bip_39_word_new_line_4: 'orphan
+
+  wear
+
+  fire
+
+  isolate'
+bip_39_word_new_line_5: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present'
+bip_39_word_new_line_6: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest'
+bip_39_word_new_line_7: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush'
+bip_39_word_new_line_8: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush
+
+  income'
+bip_39_word_new_line_9: 'orphan
+
+  wear
+
+  fire
+
+  isolate
+
+  present
+
+  harvest
+
+  brush
+
+  income
+
+  hammer'
+bip_39_word_no_space_1: orphan
+bip_39_word_no_space_10: orphanwearfireisolatepresentharvestbrushincomehammerextra
+bip_39_word_no_space_11: orphanwearfireisolatepresentharvestbrushincomehammerextraact
+bip_39_word_no_space_12: orphanwearfireisolatepresentharvestbrushincomehammerextraactaerobic
+bip_39_word_no_space_2: orphanwear
+bip_39_word_no_space_3: orphanwearfire
+bip_39_word_no_space_4: orphanwearfireisolate
+bip_39_word_no_space_5: orphanwearfireisolatepresent
+bip_39_word_no_space_6: orphanwearfireisolatepresentharvest
+bip_39_word_no_space_7: orphanwearfireisolatepresentharvestbrush
+bip_39_word_no_space_8: orphanwearfireisolatepresentharvestbrushincome
+bip_39_word_no_space_9: orphanwearfireisolatepresentharvestbrushincomehammer
+bip_39_word_space_0:
+- orphan
+- wear
+- fire
+- isolate
+- present
+- harvest
+- brush
+- income
+- hammer
+- extra
+- act
+- aerobic
+bip_39_word_space_1: orphan
+bip_39_word_space_10: orphan wear fire isolate present harvest brush income hammer
+  extra
+bip_39_word_space_11: orphan wear fire isolate present harvest brush income hammer
+  extra act
+bip_39_word_space_12: orphan wear fire isolate present harvest brush income hammer
+  extra act aerobic
+bip_39_word_space_2: orphan wear
+bip_39_word_space_3: orphan wear fire
+bip_39_word_space_4: orphan wear fire isolate
+bip_39_word_space_5: orphan wear fire isolate present
+bip_39_word_space_6: orphan wear fire isolate present harvest
+bip_39_word_space_7: orphan wear fire isolate present harvest brush
+bip_39_word_space_8: orphan wear fire isolate present harvest brush income
+bip_39_word_space_9: orphan wear fire isolate present harvest brush income hammer
+bip_39_word_underscore_1: orphan
+bip_39_word_underscore_10: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra
+bip_39_word_underscore_11: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra_act
+bip_39_word_underscore_12: orphan_wear_fire_isolate_present_harvest_brush_income_hammer_extra_act_aerobic
+bip_39_word_underscore_2: orphan_wear
+bip_39_word_underscore_3: orphan_wear_fire
+bip_39_word_underscore_4: orphan_wear_fire_isolate
+bip_39_word_underscore_5: orphan_wear_fire_isolate_present
+bip_39_word_underscore_6: orphan_wear_fire_isolate_present_harvest
+bip_39_word_underscore_7: orphan_wear_fire_isolate_present_harvest_brush
+bip_39_word_underscore_8: orphan_wear_fire_isolate_present_harvest_brush_income
+bip_39_word_underscore_9: orphan_wear_fire_isolate_present_harvest_brush_income_hammer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_05_01_15
 id_no_color: '050115'
 id_no_size: '05_01_15'
 id_no_type: tray_thin_05_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202kqfo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202kqfo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202kqfo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '050115'
 name_no_size: 05 01 15
 name_no_size_short: 05 01 15
 name_no_type: Tray Thin 05 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_05_01_15
 oomp_word: sheep wink corn
 oomp_word_emoji: ':sheep: :wink: :corn:'

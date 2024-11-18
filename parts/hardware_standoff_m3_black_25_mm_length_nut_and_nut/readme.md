@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Standoff M3 Black 25 mm Length Nut And Nut
+* name_short: 
 ### id
 * oomp_id: hardware_standoff_m3_black_25_mm_length_nut_and_nut
   * classification: hardware

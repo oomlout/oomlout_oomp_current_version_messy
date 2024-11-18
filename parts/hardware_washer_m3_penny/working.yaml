@@ -1,3 +1,222 @@
+bip_39_word_dash_1: carry
+bip_39_word_dash_10: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge
+bip_39_word_dash_11: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge-divide
+bip_39_word_dash_12: carry-wasp-execute-message-oval-vault-treat-digital-remind-ridge-divide-animal
+bip_39_word_dash_2: carry-wasp
+bip_39_word_dash_3: carry-wasp-execute
+bip_39_word_dash_4: carry-wasp-execute-message
+bip_39_word_dash_5: carry-wasp-execute-message-oval
+bip_39_word_dash_6: carry-wasp-execute-message-oval-vault
+bip_39_word_dash_7: carry-wasp-execute-message-oval-vault-treat
+bip_39_word_dash_8: carry-wasp-execute-message-oval-vault-treat-digital
+bip_39_word_dash_9: carry-wasp-execute-message-oval-vault-treat-digital-remind
+bip_39_word_new_br_1: carry
+bip_39_word_new_br_10: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge
+bip_39_word_new_br_11: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge<br>divide
+bip_39_word_new_br_12: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind<br>ridge<br>divide<br>animal
+bip_39_word_new_br_2: carry<br>wasp
+bip_39_word_new_br_3: carry<br>wasp<br>execute
+bip_39_word_new_br_4: carry<br>wasp<br>execute<br>message
+bip_39_word_new_br_5: carry<br>wasp<br>execute<br>message<br>oval
+bip_39_word_new_br_6: carry<br>wasp<br>execute<br>message<br>oval<br>vault
+bip_39_word_new_br_7: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat
+bip_39_word_new_br_8: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital
+bip_39_word_new_br_9: carry<br>wasp<br>execute<br>message<br>oval<br>vault<br>treat<br>digital<br>remind
+bip_39_word_new_line_1: carry
+bip_39_word_new_line_10: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat
+
+  digital
+
+  remind
+
+  ridge'
+bip_39_word_new_line_11: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat
+
+  digital
+
+  remind
+
+  ridge
+
+  divide'
+bip_39_word_new_line_12: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat
+
+  digital
+
+  remind
+
+  ridge
+
+  divide
+
+  animal'
+bip_39_word_new_line_2: 'carry
+
+  wasp'
+bip_39_word_new_line_3: 'carry
+
+  wasp
+
+  execute'
+bip_39_word_new_line_4: 'carry
+
+  wasp
+
+  execute
+
+  message'
+bip_39_word_new_line_5: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval'
+bip_39_word_new_line_6: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault'
+bip_39_word_new_line_7: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat'
+bip_39_word_new_line_8: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat
+
+  digital'
+bip_39_word_new_line_9: 'carry
+
+  wasp
+
+  execute
+
+  message
+
+  oval
+
+  vault
+
+  treat
+
+  digital
+
+  remind'
+bip_39_word_no_space_1: carry
+bip_39_word_no_space_10: carrywaspexecutemessageovalvaulttreatdigitalremindridge
+bip_39_word_no_space_11: carrywaspexecutemessageovalvaulttreatdigitalremindridgedivide
+bip_39_word_no_space_12: carrywaspexecutemessageovalvaulttreatdigitalremindridgedivideanimal
+bip_39_word_no_space_2: carrywasp
+bip_39_word_no_space_3: carrywaspexecute
+bip_39_word_no_space_4: carrywaspexecutemessage
+bip_39_word_no_space_5: carrywaspexecutemessageoval
+bip_39_word_no_space_6: carrywaspexecutemessageovalvault
+bip_39_word_no_space_7: carrywaspexecutemessageovalvaulttreat
+bip_39_word_no_space_8: carrywaspexecutemessageovalvaulttreatdigital
+bip_39_word_no_space_9: carrywaspexecutemessageovalvaulttreatdigitalremind
+bip_39_word_space_0:
+- carry
+- wasp
+- execute
+- message
+- oval
+- vault
+- treat
+- digital
+- remind
+- ridge
+- divide
+- animal
+bip_39_word_space_1: carry
+bip_39_word_space_10: carry wasp execute message oval vault treat digital remind ridge
+bip_39_word_space_11: carry wasp execute message oval vault treat digital remind ridge
+  divide
+bip_39_word_space_12: carry wasp execute message oval vault treat digital remind ridge
+  divide animal
+bip_39_word_space_2: carry wasp
+bip_39_word_space_3: carry wasp execute
+bip_39_word_space_4: carry wasp execute message
+bip_39_word_space_5: carry wasp execute message oval
+bip_39_word_space_6: carry wasp execute message oval vault
+bip_39_word_space_7: carry wasp execute message oval vault treat
+bip_39_word_space_8: carry wasp execute message oval vault treat digital
+bip_39_word_space_9: carry wasp execute message oval vault treat digital remind
+bip_39_word_underscore_1: carry
+bip_39_word_underscore_10: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge
+bip_39_word_underscore_11: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge_divide
+bip_39_word_underscore_12: carry_wasp_execute_message_oval_vault_treat_digital_remind_ridge_divide_animal
+bip_39_word_underscore_2: carry_wasp
+bip_39_word_underscore_3: carry_wasp_execute
+bip_39_word_underscore_4: carry_wasp_execute_message
+bip_39_word_underscore_5: carry_wasp_execute_message_oval
+bip_39_word_underscore_6: carry_wasp_execute_message_oval_vault
+bip_39_word_underscore_7: carry_wasp_execute_message_oval_vault_treat
+bip_39_word_underscore_8: carry_wasp_execute_message_oval_vault_treat_digital
+bip_39_word_underscore_9: carry_wasp_execute_message_oval_vault_treat_digital_remind
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -86,7 +305,20 @@ id_no_color: penny
 id_no_size: penny
 id_no_type: m3_penny
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m3_penny
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-12-x-0-8mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m3_penny
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205mz1q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205mz1q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205mz1q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -112,6 +344,7 @@ name_no_color: Penny
 name_no_size: Penny
 name_no_size_short: Penny
 name_no_type: M3 Penny
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_id: hardware_washer_m3_penny
 oomp_key: oomp_hardware_washer_m3_penny
 oomp_word: scissors speaker ambulance
@@ -135,12 +368,22 @@ price_1: '0.0168'
 price_100: '0.0168'
 price_1000: '0.0106'
 price_10000: '0.0084'
+price_10000_distributor_1: '0.0084'
 price_10000_distributor_orbital_fasteners: '0.0084'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0106'
 price_1000_distributor_orbital_fasteners: '0.0106'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0168'
 price_100_distributor_orbital_fasteners: '0.0168'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0168'
 price_1_distributor_orbital_fasteners: '0.0168'
+price_1_name: orbital_fasteners
 price_200: '0.0168'
+price_200_distributor_1: '0.0168'
 price_200_distributor_orbital_fasteners: '0.0168'
+price_200_name: orbital_fasteners
 price_current: '0.0168'
 quantity_current: '200'
 short_code: w3

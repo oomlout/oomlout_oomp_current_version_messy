@@ -1,3 +1,223 @@
+bip_39_word_dash_1: metal
+bip_39_word_dash_10: metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble
+bip_39_word_dash_11: metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble-garbage
+bip_39_word_dash_12: metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap-marble-garbage-also
+bip_39_word_dash_2: metal-reopen
+bip_39_word_dash_3: metal-reopen-peanut
+bip_39_word_dash_4: metal-reopen-peanut-sail
+bip_39_word_dash_5: metal-reopen-peanut-sail-tragic
+bip_39_word_dash_6: metal-reopen-peanut-sail-tragic-chimney
+bip_39_word_dash_7: metal-reopen-peanut-sail-tragic-chimney-garden
+bip_39_word_dash_8: metal-reopen-peanut-sail-tragic-chimney-garden-payment
+bip_39_word_dash_9: metal-reopen-peanut-sail-tragic-chimney-garden-payment-swap
+bip_39_word_new_br_1: metal
+bip_39_word_new_br_10: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble
+bip_39_word_new_br_11: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble<br>garbage
+bip_39_word_new_br_12: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap<br>marble<br>garbage<br>also
+bip_39_word_new_br_2: metal<br>reopen
+bip_39_word_new_br_3: metal<br>reopen<br>peanut
+bip_39_word_new_br_4: metal<br>reopen<br>peanut<br>sail
+bip_39_word_new_br_5: metal<br>reopen<br>peanut<br>sail<br>tragic
+bip_39_word_new_br_6: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney
+bip_39_word_new_br_7: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden
+bip_39_word_new_br_8: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment
+bip_39_word_new_br_9: metal<br>reopen<br>peanut<br>sail<br>tragic<br>chimney<br>garden<br>payment<br>swap
+bip_39_word_new_line_1: metal
+bip_39_word_new_line_10: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden
+
+  payment
+
+  swap
+
+  marble'
+bip_39_word_new_line_11: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden
+
+  payment
+
+  swap
+
+  marble
+
+  garbage'
+bip_39_word_new_line_12: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden
+
+  payment
+
+  swap
+
+  marble
+
+  garbage
+
+  also'
+bip_39_word_new_line_2: 'metal
+
+  reopen'
+bip_39_word_new_line_3: 'metal
+
+  reopen
+
+  peanut'
+bip_39_word_new_line_4: 'metal
+
+  reopen
+
+  peanut
+
+  sail'
+bip_39_word_new_line_5: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic'
+bip_39_word_new_line_6: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney'
+bip_39_word_new_line_7: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden'
+bip_39_word_new_line_8: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden
+
+  payment'
+bip_39_word_new_line_9: 'metal
+
+  reopen
+
+  peanut
+
+  sail
+
+  tragic
+
+  chimney
+
+  garden
+
+  payment
+
+  swap'
+bip_39_word_no_space_1: metal
+bip_39_word_no_space_10: metalreopenpeanutsailtragicchimneygardenpaymentswapmarble
+bip_39_word_no_space_11: metalreopenpeanutsailtragicchimneygardenpaymentswapmarblegarbage
+bip_39_word_no_space_12: metalreopenpeanutsailtragicchimneygardenpaymentswapmarblegarbagealso
+bip_39_word_no_space_2: metalreopen
+bip_39_word_no_space_3: metalreopenpeanut
+bip_39_word_no_space_4: metalreopenpeanutsail
+bip_39_word_no_space_5: metalreopenpeanutsailtragic
+bip_39_word_no_space_6: metalreopenpeanutsailtragicchimney
+bip_39_word_no_space_7: metalreopenpeanutsailtragicchimneygarden
+bip_39_word_no_space_8: metalreopenpeanutsailtragicchimneygardenpayment
+bip_39_word_no_space_9: metalreopenpeanutsailtragicchimneygardenpaymentswap
+bip_39_word_space_0:
+- metal
+- reopen
+- peanut
+- sail
+- tragic
+- chimney
+- garden
+- payment
+- swap
+- marble
+- garbage
+- also
+bip_39_word_space_1: metal
+bip_39_word_space_10: metal reopen peanut sail tragic chimney garden payment swap
+  marble
+bip_39_word_space_11: metal reopen peanut sail tragic chimney garden payment swap
+  marble garbage
+bip_39_word_space_12: metal reopen peanut sail tragic chimney garden payment swap
+  marble garbage also
+bip_39_word_space_2: metal reopen
+bip_39_word_space_3: metal reopen peanut
+bip_39_word_space_4: metal reopen peanut sail
+bip_39_word_space_5: metal reopen peanut sail tragic
+bip_39_word_space_6: metal reopen peanut sail tragic chimney
+bip_39_word_space_7: metal reopen peanut sail tragic chimney garden
+bip_39_word_space_8: metal reopen peanut sail tragic chimney garden payment
+bip_39_word_space_9: metal reopen peanut sail tragic chimney garden payment swap
+bip_39_word_underscore_1: metal
+bip_39_word_underscore_10: metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble
+bip_39_word_underscore_11: metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble_garbage
+bip_39_word_underscore_12: metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap_marble_garbage_also
+bip_39_word_underscore_2: metal_reopen
+bip_39_word_underscore_3: metal_reopen_peanut
+bip_39_word_underscore_4: metal_reopen_peanut_sail
+bip_39_word_underscore_5: metal_reopen_peanut_sail_tragic
+bip_39_word_underscore_6: metal_reopen_peanut_sail_tragic_chimney
+bip_39_word_underscore_7: metal_reopen_peanut_sail_tragic_chimney_garden
+bip_39_word_underscore_8: metal_reopen_peanut_sail_tragic_chimney_garden_payment
+bip_39_word_underscore_9: metal_reopen_peanut_sail_tragic_chimney_garden_payment_swap
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
 id_no_color: 20_mm_id_47_mm_od_14_mm_depth
 id_no_size: 6204_size_20_mm_id_47_mm_od_14_mm_depth
 id_no_type: 6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204jzmp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204jzmp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204jzmp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 20 mm ID 47 mm OD 14 mm Depth
 name_no_size: 6204 Size 20 mm ID 47 mm OD 14 mm Depth
 name_no_size_short: 6204 Size 20 Mm Id 47 Mm Od 14 Mm Depth
 name_no_type: 6200 Series 6204 Size 20 mm ID 47 mm OD 14 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6204
+oomlout_short_code_upper: BR6204
 oomp_key: oomp_hardware_bearing_6200_series_6204_size_20_mm_id_47_mm_od_14_mm_depth
 oomp_word: fireworks egg feet
 oomp_word_emoji: ':fireworks: :egg: :feet:'

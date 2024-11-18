@@ -1,3 +1,222 @@
+bip_39_word_dash_1: approve
+bip_39_word_dash_10: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress
+bip_39_word_dash_11: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress-problem
+bip_39_word_dash_12: approve-pony-gap-alone-satoshi-drop-open-cycle-success-dress-problem-another
+bip_39_word_dash_2: approve-pony
+bip_39_word_dash_3: approve-pony-gap
+bip_39_word_dash_4: approve-pony-gap-alone
+bip_39_word_dash_5: approve-pony-gap-alone-satoshi
+bip_39_word_dash_6: approve-pony-gap-alone-satoshi-drop
+bip_39_word_dash_7: approve-pony-gap-alone-satoshi-drop-open
+bip_39_word_dash_8: approve-pony-gap-alone-satoshi-drop-open-cycle
+bip_39_word_dash_9: approve-pony-gap-alone-satoshi-drop-open-cycle-success
+bip_39_word_new_br_1: approve
+bip_39_word_new_br_10: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success<br>dress
+bip_39_word_new_br_11: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success<br>dress<br>problem
+bip_39_word_new_br_12: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success<br>dress<br>problem<br>another
+bip_39_word_new_br_2: approve<br>pony
+bip_39_word_new_br_3: approve<br>pony<br>gap
+bip_39_word_new_br_4: approve<br>pony<br>gap<br>alone
+bip_39_word_new_br_5: approve<br>pony<br>gap<br>alone<br>satoshi
+bip_39_word_new_br_6: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop
+bip_39_word_new_br_7: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open
+bip_39_word_new_br_8: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle
+bip_39_word_new_br_9: approve<br>pony<br>gap<br>alone<br>satoshi<br>drop<br>open<br>cycle<br>success
+bip_39_word_new_line_1: approve
+bip_39_word_new_line_10: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open
+
+  cycle
+
+  success
+
+  dress'
+bip_39_word_new_line_11: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open
+
+  cycle
+
+  success
+
+  dress
+
+  problem'
+bip_39_word_new_line_12: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open
+
+  cycle
+
+  success
+
+  dress
+
+  problem
+
+  another'
+bip_39_word_new_line_2: 'approve
+
+  pony'
+bip_39_word_new_line_3: 'approve
+
+  pony
+
+  gap'
+bip_39_word_new_line_4: 'approve
+
+  pony
+
+  gap
+
+  alone'
+bip_39_word_new_line_5: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi'
+bip_39_word_new_line_6: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop'
+bip_39_word_new_line_7: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open'
+bip_39_word_new_line_8: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open
+
+  cycle'
+bip_39_word_new_line_9: 'approve
+
+  pony
+
+  gap
+
+  alone
+
+  satoshi
+
+  drop
+
+  open
+
+  cycle
+
+  success'
+bip_39_word_no_space_1: approve
+bip_39_word_no_space_10: approveponygapalonesatoshidropopencyclesuccessdress
+bip_39_word_no_space_11: approveponygapalonesatoshidropopencyclesuccessdressproblem
+bip_39_word_no_space_12: approveponygapalonesatoshidropopencyclesuccessdressproblemanother
+bip_39_word_no_space_2: approvepony
+bip_39_word_no_space_3: approveponygap
+bip_39_word_no_space_4: approveponygapalone
+bip_39_word_no_space_5: approveponygapalonesatoshi
+bip_39_word_no_space_6: approveponygapalonesatoshidrop
+bip_39_word_no_space_7: approveponygapalonesatoshidropopen
+bip_39_word_no_space_8: approveponygapalonesatoshidropopencycle
+bip_39_word_no_space_9: approveponygapalonesatoshidropopencyclesuccess
+bip_39_word_space_0:
+- approve
+- pony
+- gap
+- alone
+- satoshi
+- drop
+- open
+- cycle
+- success
+- dress
+- problem
+- another
+bip_39_word_space_1: approve
+bip_39_word_space_10: approve pony gap alone satoshi drop open cycle success dress
+bip_39_word_space_11: approve pony gap alone satoshi drop open cycle success dress
+  problem
+bip_39_word_space_12: approve pony gap alone satoshi drop open cycle success dress
+  problem another
+bip_39_word_space_2: approve pony
+bip_39_word_space_3: approve pony gap
+bip_39_word_space_4: approve pony gap alone
+bip_39_word_space_5: approve pony gap alone satoshi
+bip_39_word_space_6: approve pony gap alone satoshi drop
+bip_39_word_space_7: approve pony gap alone satoshi drop open
+bip_39_word_space_8: approve pony gap alone satoshi drop open cycle
+bip_39_word_space_9: approve pony gap alone satoshi drop open cycle success
+bip_39_word_underscore_1: approve
+bip_39_word_underscore_10: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress
+bip_39_word_underscore_11: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress_problem
+bip_39_word_underscore_12: approve_pony_gap_alone_satoshi_drop_open_cycle_success_dress_problem_another
+bip_39_word_underscore_2: approve_pony
+bip_39_word_underscore_3: approve_pony_gap
+bip_39_word_underscore_4: approve_pony_gap_alone
+bip_39_word_underscore_5: approve_pony_gap_alone_satoshi
+bip_39_word_underscore_6: approve_pony_gap_alone_satoshi_drop
+bip_39_word_underscore_7: approve_pony_gap_alone_satoshi_drop_open
+bip_39_word_underscore_8: approve_pony_gap_alone_satoshi_drop_open_cycle
+bip_39_word_underscore_9: approve_pony_gap_alone_satoshi_drop_open_cycle_success
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_06_90
 id_no_color: 090690
 id_no_size: 09_06_90
 id_no_type: tray_thin_09_06_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_06_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_06_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_06_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ze1c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ze1c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ze1c
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090690
 name_no_size: 09 06 90
 name_no_size_short: 09 06 90
 name_no_type: Tray Thin 09 06 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_06_90
 oomp_word: bowling ram banana
 oomp_word_emoji: ':bowling: :ram: :banana:'

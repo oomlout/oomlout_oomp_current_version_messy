@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6800 Series 6800 Size 10 mm ID 19 mm OD 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6800_series_6800_size_10_mm_id_19_mm_od_5_mm_depth
   * classification: hardware

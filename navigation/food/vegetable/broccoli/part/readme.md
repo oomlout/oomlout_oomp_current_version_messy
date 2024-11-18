@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Ocado Broccoli
 
+### name
+* name: Food Vegetable Broccoli
+* name_short: 
 ### id
 * oomp_id: food_vegetable_broccoli
   * classification: food
@@ -28,6 +31,29 @@ Ocado Broccoli
 * oomp_word_emoji :birthday: :bank: :star:
 * md5_6_alpha: 7lp1s
 * md5_6: c2d910
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207lp1s)
+[2x1](http://192.168.1.242:1112/?label=oomp%207lp1s)
+[6x4](http://192.168.1.55:1112/?label=oomp%207lp1s)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_broccoli)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,8 +284,15 @@ faculty |
 | id_no_color | broccoli |  
 | id_no_size | broccoli |  
 | id_no_type | broccoli |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_broccoli |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=59106011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_vegetable_broccoli |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207lp1s |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207lp1s |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207lp1s |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ faculty |
 | name_no_size | Broccoli |  
 | name_no_size_short | Broccoli |  
 | name_no_type | Broccoli |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_broccoli |  
 | oomp_word | birthday bank star |  
 | oomp_word_emoji | :birthday: :bank: :star: |  

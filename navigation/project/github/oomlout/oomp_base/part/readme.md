@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rose: :moon: :baby:
 * md5_6_alpha: 3vo65
 * md5_6: 636f1d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203vo65)
+[2x1](http://192.168.1.242:1112/?label=oomp%203vo65)
+[6x4](http://192.168.1.55:1112/?label=oomp%203vo65)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ blast |
 | id_no_color | oomp_base |  
 | id_no_size | oomp_base |  
 | id_no_type | oomlout_oomp_base |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203vo65 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203vo65 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203vo65 |  
 | link_redirect | https://github.com/oomlout/oomp_base |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ blast |
 | name_no_size | Oomp Base |  
 | name_no_size_short | Oomp Base |  
 | name_no_type | Oomlout Oomp Base |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base |  
 | oomp_word | rose moon baby |  
 | oomp_word_emoji | :rose: :moon: :baby: |  

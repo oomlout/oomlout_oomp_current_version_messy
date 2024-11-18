@@ -1,3 +1,222 @@
+bip_39_word_dash_1: office
+bip_39_word_dash_10: office-recall-drift-banana-zone-phone-toilet-cement-game-never
+bip_39_word_dash_11: office-recall-drift-banana-zone-phone-toilet-cement-game-never-citizen
+bip_39_word_dash_12: office-recall-drift-banana-zone-phone-toilet-cement-game-never-citizen-ankle
+bip_39_word_dash_2: office-recall
+bip_39_word_dash_3: office-recall-drift
+bip_39_word_dash_4: office-recall-drift-banana
+bip_39_word_dash_5: office-recall-drift-banana-zone
+bip_39_word_dash_6: office-recall-drift-banana-zone-phone
+bip_39_word_dash_7: office-recall-drift-banana-zone-phone-toilet
+bip_39_word_dash_8: office-recall-drift-banana-zone-phone-toilet-cement
+bip_39_word_dash_9: office-recall-drift-banana-zone-phone-toilet-cement-game
+bip_39_word_new_br_1: office
+bip_39_word_new_br_10: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never
+bip_39_word_new_br_11: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never<br>citizen
+bip_39_word_new_br_12: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game<br>never<br>citizen<br>ankle
+bip_39_word_new_br_2: office<br>recall
+bip_39_word_new_br_3: office<br>recall<br>drift
+bip_39_word_new_br_4: office<br>recall<br>drift<br>banana
+bip_39_word_new_br_5: office<br>recall<br>drift<br>banana<br>zone
+bip_39_word_new_br_6: office<br>recall<br>drift<br>banana<br>zone<br>phone
+bip_39_word_new_br_7: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet
+bip_39_word_new_br_8: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement
+bip_39_word_new_br_9: office<br>recall<br>drift<br>banana<br>zone<br>phone<br>toilet<br>cement<br>game
+bip_39_word_new_line_1: office
+bip_39_word_new_line_10: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet
+
+  cement
+
+  game
+
+  never'
+bip_39_word_new_line_11: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet
+
+  cement
+
+  game
+
+  never
+
+  citizen'
+bip_39_word_new_line_12: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet
+
+  cement
+
+  game
+
+  never
+
+  citizen
+
+  ankle'
+bip_39_word_new_line_2: 'office
+
+  recall'
+bip_39_word_new_line_3: 'office
+
+  recall
+
+  drift'
+bip_39_word_new_line_4: 'office
+
+  recall
+
+  drift
+
+  banana'
+bip_39_word_new_line_5: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone'
+bip_39_word_new_line_6: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone'
+bip_39_word_new_line_7: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet'
+bip_39_word_new_line_8: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet
+
+  cement'
+bip_39_word_new_line_9: 'office
+
+  recall
+
+  drift
+
+  banana
+
+  zone
+
+  phone
+
+  toilet
+
+  cement
+
+  game'
+bip_39_word_no_space_1: office
+bip_39_word_no_space_10: officerecalldriftbananazonephonetoiletcementgamenever
+bip_39_word_no_space_11: officerecalldriftbananazonephonetoiletcementgamenevercitizen
+bip_39_word_no_space_12: officerecalldriftbananazonephonetoiletcementgamenevercitizenankle
+bip_39_word_no_space_2: officerecall
+bip_39_word_no_space_3: officerecalldrift
+bip_39_word_no_space_4: officerecalldriftbanana
+bip_39_word_no_space_5: officerecalldriftbananazone
+bip_39_word_no_space_6: officerecalldriftbananazonephone
+bip_39_word_no_space_7: officerecalldriftbananazonephonetoilet
+bip_39_word_no_space_8: officerecalldriftbananazonephonetoiletcement
+bip_39_word_no_space_9: officerecalldriftbananazonephonetoiletcementgame
+bip_39_word_space_0:
+- office
+- recall
+- drift
+- banana
+- zone
+- phone
+- toilet
+- cement
+- game
+- never
+- citizen
+- ankle
+bip_39_word_space_1: office
+bip_39_word_space_10: office recall drift banana zone phone toilet cement game never
+bip_39_word_space_11: office recall drift banana zone phone toilet cement game never
+  citizen
+bip_39_word_space_12: office recall drift banana zone phone toilet cement game never
+  citizen ankle
+bip_39_word_space_2: office recall
+bip_39_word_space_3: office recall drift
+bip_39_word_space_4: office recall drift banana
+bip_39_word_space_5: office recall drift banana zone
+bip_39_word_space_6: office recall drift banana zone phone
+bip_39_word_space_7: office recall drift banana zone phone toilet
+bip_39_word_space_8: office recall drift banana zone phone toilet cement
+bip_39_word_space_9: office recall drift banana zone phone toilet cement game
+bip_39_word_underscore_1: office
+bip_39_word_underscore_10: office_recall_drift_banana_zone_phone_toilet_cement_game_never
+bip_39_word_underscore_11: office_recall_drift_banana_zone_phone_toilet_cement_game_never_citizen
+bip_39_word_underscore_12: office_recall_drift_banana_zone_phone_toilet_cement_game_never_citizen_ankle
+bip_39_word_underscore_2: office_recall
+bip_39_word_underscore_3: office_recall_drift
+bip_39_word_underscore_4: office_recall_drift_banana
+bip_39_word_underscore_5: office_recall_drift_banana_zone
+bip_39_word_underscore_6: office_recall_drift_banana_zone_phone
+bip_39_word_underscore_7: office_recall_drift_banana_zone_phone_toilet
+bip_39_word_underscore_8: office_recall_drift_banana_zone_phone_toilet_cement
+bip_39_word_underscore_9: office_recall_drift_banana_zone_phone_toilet_cement_game
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__30_teeth_shield
 id_no_color: 010930teethshield
 id_no_size: 01_09__30_teeth_shield
 id_no_type: pulley_gt2_01_09__30_teeth_shield
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205pj8l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205pj8l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205pj8l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010930Teethshield
 name_no_size: 01 09  30 Teeth Shield
 name_no_size_short: 01 09  30 Teeth Shield
 name_no_type: Pulley Gt2 01 09  30 Teeth Shield
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__30_teeth_shield
 oomp_word: paperclip octopus headphones
 oomp_word_emoji: ':paperclip: :octopus: :headphones:'

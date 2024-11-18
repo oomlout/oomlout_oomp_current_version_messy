@@ -1,3 +1,222 @@
+bip_39_word_dash_1: scrub
+bip_39_word_dash_10: scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle
+bip_39_word_dash_11: scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle-senior
+bip_39_word_dash_12: scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate-eagle-senior-act
+bip_39_word_dash_2: scrub-cube
+bip_39_word_dash_3: scrub-cube-height
+bip_39_word_dash_4: scrub-cube-height-grace
+bip_39_word_dash_5: scrub-cube-height-grace-picnic
+bip_39_word_dash_6: scrub-cube-height-grace-picnic-nothing
+bip_39_word_dash_7: scrub-cube-height-grace-picnic-nothing-mystery
+bip_39_word_dash_8: scrub-cube-height-grace-picnic-nothing-mystery-tiger
+bip_39_word_dash_9: scrub-cube-height-grace-picnic-nothing-mystery-tiger-plate
+bip_39_word_new_br_1: scrub
+bip_39_word_new_br_10: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate<br>eagle
+bip_39_word_new_br_11: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate<br>eagle<br>senior
+bip_39_word_new_br_12: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate<br>eagle<br>senior<br>act
+bip_39_word_new_br_2: scrub<br>cube
+bip_39_word_new_br_3: scrub<br>cube<br>height
+bip_39_word_new_br_4: scrub<br>cube<br>height<br>grace
+bip_39_word_new_br_5: scrub<br>cube<br>height<br>grace<br>picnic
+bip_39_word_new_br_6: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing
+bip_39_word_new_br_7: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery
+bip_39_word_new_br_8: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger
+bip_39_word_new_br_9: scrub<br>cube<br>height<br>grace<br>picnic<br>nothing<br>mystery<br>tiger<br>plate
+bip_39_word_new_line_1: scrub
+bip_39_word_new_line_10: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery
+
+  tiger
+
+  plate
+
+  eagle'
+bip_39_word_new_line_11: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery
+
+  tiger
+
+  plate
+
+  eagle
+
+  senior'
+bip_39_word_new_line_12: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery
+
+  tiger
+
+  plate
+
+  eagle
+
+  senior
+
+  act'
+bip_39_word_new_line_2: 'scrub
+
+  cube'
+bip_39_word_new_line_3: 'scrub
+
+  cube
+
+  height'
+bip_39_word_new_line_4: 'scrub
+
+  cube
+
+  height
+
+  grace'
+bip_39_word_new_line_5: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic'
+bip_39_word_new_line_6: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing'
+bip_39_word_new_line_7: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery'
+bip_39_word_new_line_8: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery
+
+  tiger'
+bip_39_word_new_line_9: 'scrub
+
+  cube
+
+  height
+
+  grace
+
+  picnic
+
+  nothing
+
+  mystery
+
+  tiger
+
+  plate'
+bip_39_word_no_space_1: scrub
+bip_39_word_no_space_10: scrubcubeheightgracepicnicnothingmysterytigerplateeagle
+bip_39_word_no_space_11: scrubcubeheightgracepicnicnothingmysterytigerplateeaglesenior
+bip_39_word_no_space_12: scrubcubeheightgracepicnicnothingmysterytigerplateeaglesenioract
+bip_39_word_no_space_2: scrubcube
+bip_39_word_no_space_3: scrubcubeheight
+bip_39_word_no_space_4: scrubcubeheightgrace
+bip_39_word_no_space_5: scrubcubeheightgracepicnic
+bip_39_word_no_space_6: scrubcubeheightgracepicnicnothing
+bip_39_word_no_space_7: scrubcubeheightgracepicnicnothingmystery
+bip_39_word_no_space_8: scrubcubeheightgracepicnicnothingmysterytiger
+bip_39_word_no_space_9: scrubcubeheightgracepicnicnothingmysterytigerplate
+bip_39_word_space_0:
+- scrub
+- cube
+- height
+- grace
+- picnic
+- nothing
+- mystery
+- tiger
+- plate
+- eagle
+- senior
+- act
+bip_39_word_space_1: scrub
+bip_39_word_space_10: scrub cube height grace picnic nothing mystery tiger plate eagle
+bip_39_word_space_11: scrub cube height grace picnic nothing mystery tiger plate eagle
+  senior
+bip_39_word_space_12: scrub cube height grace picnic nothing mystery tiger plate eagle
+  senior act
+bip_39_word_space_2: scrub cube
+bip_39_word_space_3: scrub cube height
+bip_39_word_space_4: scrub cube height grace
+bip_39_word_space_5: scrub cube height grace picnic
+bip_39_word_space_6: scrub cube height grace picnic nothing
+bip_39_word_space_7: scrub cube height grace picnic nothing mystery
+bip_39_word_space_8: scrub cube height grace picnic nothing mystery tiger
+bip_39_word_space_9: scrub cube height grace picnic nothing mystery tiger plate
+bip_39_word_underscore_1: scrub
+bip_39_word_underscore_10: scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle
+bip_39_word_underscore_11: scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle_senior
+bip_39_word_underscore_12: scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate_eagle_senior_act
+bip_39_word_underscore_2: scrub_cube
+bip_39_word_underscore_3: scrub_cube_height
+bip_39_word_underscore_4: scrub_cube_height_grace
+bip_39_word_underscore_5: scrub_cube_height_grace_picnic
+bip_39_word_underscore_6: scrub_cube_height_grace_picnic_nothing
+bip_39_word_underscore_7: scrub_cube_height_grace_picnic_nothing_mystery
+bip_39_word_underscore_8: scrub_cube_height_grace_picnic_nothing_mystery_tiger
+bip_39_word_underscore_9: scrub_cube_height_grace_picnic_nothing_mystery_tiger_plate
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_other_1d5_24__bolt_stacker
 id_no_color: 1d524boltstacker
 id_no_size: 1d5_24__bolt_stacker
 id_no_type: other_1d5_24__bolt_stacker
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_1d5_24__bolt_stacker
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_1d5_24__bolt_stacker
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_1d5_24__bolt_stacker
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201jivl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201jivl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201jivl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 1D524Boltstacker
 name_no_size: 1D5 24  Bolt Stacker
 name_no_size_short: 1D5 24  Bolt Stacker
 name_no_type: Other 1D5 24  Bolt Stacker
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_1d5_24__bolt_stacker
 oomp_word: nose toilet snail
 oomp_word_emoji: ':nose: :toilet: :snail:'

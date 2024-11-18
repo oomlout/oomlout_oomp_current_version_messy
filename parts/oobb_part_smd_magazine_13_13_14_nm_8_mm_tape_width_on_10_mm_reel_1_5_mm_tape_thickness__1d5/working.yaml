@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fox
+bip_39_word_dash_10: fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda
+bip_39_word_dash_11: fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda-popular
+bip_39_word_dash_12: fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete-panda-popular-another
+bip_39_word_dash_2: fox-degree
+bip_39_word_dash_3: fox-degree-oxygen
+bip_39_word_dash_4: fox-degree-oxygen-culture
+bip_39_word_dash_5: fox-degree-oxygen-culture-vital
+bip_39_word_dash_6: fox-degree-oxygen-culture-vital-fresh
+bip_39_word_dash_7: fox-degree-oxygen-culture-vital-fresh-basket
+bip_39_word_dash_8: fox-degree-oxygen-culture-vital-fresh-basket-vault
+bip_39_word_dash_9: fox-degree-oxygen-culture-vital-fresh-basket-vault-athlete
+bip_39_word_new_br_1: fox
+bip_39_word_new_br_10: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda
+bip_39_word_new_br_11: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda<br>popular
+bip_39_word_new_br_12: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete<br>panda<br>popular<br>another
+bip_39_word_new_br_2: fox<br>degree
+bip_39_word_new_br_3: fox<br>degree<br>oxygen
+bip_39_word_new_br_4: fox<br>degree<br>oxygen<br>culture
+bip_39_word_new_br_5: fox<br>degree<br>oxygen<br>culture<br>vital
+bip_39_word_new_br_6: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh
+bip_39_word_new_br_7: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket
+bip_39_word_new_br_8: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault
+bip_39_word_new_br_9: fox<br>degree<br>oxygen<br>culture<br>vital<br>fresh<br>basket<br>vault<br>athlete
+bip_39_word_new_line_1: fox
+bip_39_word_new_line_10: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda'
+bip_39_word_new_line_11: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda
+
+  popular'
+bip_39_word_new_line_12: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete
+
+  panda
+
+  popular
+
+  another'
+bip_39_word_new_line_2: 'fox
+
+  degree'
+bip_39_word_new_line_3: 'fox
+
+  degree
+
+  oxygen'
+bip_39_word_new_line_4: 'fox
+
+  degree
+
+  oxygen
+
+  culture'
+bip_39_word_new_line_5: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital'
+bip_39_word_new_line_6: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh'
+bip_39_word_new_line_7: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket'
+bip_39_word_new_line_8: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault'
+bip_39_word_new_line_9: 'fox
+
+  degree
+
+  oxygen
+
+  culture
+
+  vital
+
+  fresh
+
+  basket
+
+  vault
+
+  athlete'
+bip_39_word_no_space_1: fox
+bip_39_word_no_space_10: foxdegreeoxygenculturevitalfreshbasketvaultathletepanda
+bip_39_word_no_space_11: foxdegreeoxygenculturevitalfreshbasketvaultathletepandapopular
+bip_39_word_no_space_12: foxdegreeoxygenculturevitalfreshbasketvaultathletepandapopularanother
+bip_39_word_no_space_2: foxdegree
+bip_39_word_no_space_3: foxdegreeoxygen
+bip_39_word_no_space_4: foxdegreeoxygenculture
+bip_39_word_no_space_5: foxdegreeoxygenculturevital
+bip_39_word_no_space_6: foxdegreeoxygenculturevitalfresh
+bip_39_word_no_space_7: foxdegreeoxygenculturevitalfreshbasket
+bip_39_word_no_space_8: foxdegreeoxygenculturevitalfreshbasketvault
+bip_39_word_no_space_9: foxdegreeoxygenculturevitalfreshbasketvaultathlete
+bip_39_word_space_0:
+- fox
+- degree
+- oxygen
+- culture
+- vital
+- fresh
+- basket
+- vault
+- athlete
+- panda
+- popular
+- another
+bip_39_word_space_1: fox
+bip_39_word_space_10: fox degree oxygen culture vital fresh basket vault athlete panda
+bip_39_word_space_11: fox degree oxygen culture vital fresh basket vault athlete panda
+  popular
+bip_39_word_space_12: fox degree oxygen culture vital fresh basket vault athlete panda
+  popular another
+bip_39_word_space_2: fox degree
+bip_39_word_space_3: fox degree oxygen
+bip_39_word_space_4: fox degree oxygen culture
+bip_39_word_space_5: fox degree oxygen culture vital
+bip_39_word_space_6: fox degree oxygen culture vital fresh
+bip_39_word_space_7: fox degree oxygen culture vital fresh basket
+bip_39_word_space_8: fox degree oxygen culture vital fresh basket vault
+bip_39_word_space_9: fox degree oxygen culture vital fresh basket vault athlete
+bip_39_word_underscore_1: fox
+bip_39_word_underscore_10: fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda
+bip_39_word_underscore_11: fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda_popular
+bip_39_word_underscore_12: fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete_panda_popular_another
+bip_39_word_underscore_2: fox_degree
+bip_39_word_underscore_3: fox_degree_oxygen
+bip_39_word_underscore_4: fox_degree_oxygen_culture
+bip_39_word_underscore_5: fox_degree_oxygen_culture_vital
+bip_39_word_underscore_6: fox_degree_oxygen_culture_vital_fresh
+bip_39_word_underscore_7: fox_degree_oxygen_culture_vital_fresh_basket
+bip_39_word_underscore_8: fox_degree_oxygen_culture_vital_fresh_basket_vault
+bip_39_word_underscore_9: fox_degree_oxygen_culture_vital_fresh_basket_vault_athlete
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_
 id_no_color: 131314nm8mmtapewidthon10mmreel15mmtapethickness1d5
 id_no_size: 13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
 id_no_type: smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205zcrr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205zcrr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205zcrr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,7 @@ name_no_color: 131314Nm8mmtapewidthon10mmreel15mmtapethickness1D5
 name_no_size: 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5
 name_no_size_short: 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5
 oomp_word: bowling beetle herb
 oomp_word_emoji: ':bowling: :beetle: :herb:'

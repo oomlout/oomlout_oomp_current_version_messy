@@ -1,3 +1,221 @@
+bip_39_word_dash_1: icon
+bip_39_word_dash_10: icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly
+bip_39_word_dash_11: icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly-over
+bip_39_word_dash_12: icon-repair-liberty-size-dune-foot-issue-warfare-loan-ugly-over-attitude
+bip_39_word_dash_2: icon-repair
+bip_39_word_dash_3: icon-repair-liberty
+bip_39_word_dash_4: icon-repair-liberty-size
+bip_39_word_dash_5: icon-repair-liberty-size-dune
+bip_39_word_dash_6: icon-repair-liberty-size-dune-foot
+bip_39_word_dash_7: icon-repair-liberty-size-dune-foot-issue
+bip_39_word_dash_8: icon-repair-liberty-size-dune-foot-issue-warfare
+bip_39_word_dash_9: icon-repair-liberty-size-dune-foot-issue-warfare-loan
+bip_39_word_new_br_1: icon
+bip_39_word_new_br_10: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly
+bip_39_word_new_br_11: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over
+bip_39_word_new_br_12: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan<br>ugly<br>over<br>attitude
+bip_39_word_new_br_2: icon<br>repair
+bip_39_word_new_br_3: icon<br>repair<br>liberty
+bip_39_word_new_br_4: icon<br>repair<br>liberty<br>size
+bip_39_word_new_br_5: icon<br>repair<br>liberty<br>size<br>dune
+bip_39_word_new_br_6: icon<br>repair<br>liberty<br>size<br>dune<br>foot
+bip_39_word_new_br_7: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue
+bip_39_word_new_br_8: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare
+bip_39_word_new_br_9: icon<br>repair<br>liberty<br>size<br>dune<br>foot<br>issue<br>warfare<br>loan
+bip_39_word_new_line_1: icon
+bip_39_word_new_line_10: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue
+
+  warfare
+
+  loan
+
+  ugly'
+bip_39_word_new_line_11: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue
+
+  warfare
+
+  loan
+
+  ugly
+
+  over'
+bip_39_word_new_line_12: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue
+
+  warfare
+
+  loan
+
+  ugly
+
+  over
+
+  attitude'
+bip_39_word_new_line_2: 'icon
+
+  repair'
+bip_39_word_new_line_3: 'icon
+
+  repair
+
+  liberty'
+bip_39_word_new_line_4: 'icon
+
+  repair
+
+  liberty
+
+  size'
+bip_39_word_new_line_5: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune'
+bip_39_word_new_line_6: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot'
+bip_39_word_new_line_7: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue'
+bip_39_word_new_line_8: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue
+
+  warfare'
+bip_39_word_new_line_9: 'icon
+
+  repair
+
+  liberty
+
+  size
+
+  dune
+
+  foot
+
+  issue
+
+  warfare
+
+  loan'
+bip_39_word_no_space_1: icon
+bip_39_word_no_space_10: iconrepairlibertysizedunefootissuewarfareloanugly
+bip_39_word_no_space_11: iconrepairlibertysizedunefootissuewarfareloanuglyover
+bip_39_word_no_space_12: iconrepairlibertysizedunefootissuewarfareloanuglyoverattitude
+bip_39_word_no_space_2: iconrepair
+bip_39_word_no_space_3: iconrepairliberty
+bip_39_word_no_space_4: iconrepairlibertysize
+bip_39_word_no_space_5: iconrepairlibertysizedune
+bip_39_word_no_space_6: iconrepairlibertysizedunefoot
+bip_39_word_no_space_7: iconrepairlibertysizedunefootissue
+bip_39_word_no_space_8: iconrepairlibertysizedunefootissuewarfare
+bip_39_word_no_space_9: iconrepairlibertysizedunefootissuewarfareloan
+bip_39_word_space_0:
+- icon
+- repair
+- liberty
+- size
+- dune
+- foot
+- issue
+- warfare
+- loan
+- ugly
+- over
+- attitude
+bip_39_word_space_1: icon
+bip_39_word_space_10: icon repair liberty size dune foot issue warfare loan ugly
+bip_39_word_space_11: icon repair liberty size dune foot issue warfare loan ugly over
+bip_39_word_space_12: icon repair liberty size dune foot issue warfare loan ugly over
+  attitude
+bip_39_word_space_2: icon repair
+bip_39_word_space_3: icon repair liberty
+bip_39_word_space_4: icon repair liberty size
+bip_39_word_space_5: icon repair liberty size dune
+bip_39_word_space_6: icon repair liberty size dune foot
+bip_39_word_space_7: icon repair liberty size dune foot issue
+bip_39_word_space_8: icon repair liberty size dune foot issue warfare
+bip_39_word_space_9: icon repair liberty size dune foot issue warfare loan
+bip_39_word_underscore_1: icon
+bip_39_word_underscore_10: icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly
+bip_39_word_underscore_11: icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly_over
+bip_39_word_underscore_12: icon_repair_liberty_size_dune_foot_issue_warfare_loan_ugly_over_attitude
+bip_39_word_underscore_2: icon_repair
+bip_39_word_underscore_3: icon_repair_liberty
+bip_39_word_underscore_4: icon_repair_liberty_size
+bip_39_word_underscore_5: icon_repair_liberty_size_dune
+bip_39_word_underscore_6: icon_repair_liberty_size_dune_foot
+bip_39_word_underscore_7: icon_repair_liberty_size_dune_foot_issue
+bip_39_word_underscore_8: icon_repair_liberty_size_dune_foot_issue_warfare
+bip_39_word_underscore_9: icon_repair_liberty_size_dune_foot_issue_warfare_loan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_04_10_90
 id_no_color: 041090
 id_no_size: 04_10_90
 id_no_type: tray_04_10_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2096faz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2096faz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2096faz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 041090
 name_no_size: 04 10 90
 name_no_size_short: 04 10 90
 name_no_type: Tray 04 10 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_10_90
 oomp_word: car bear ok
 oomp_word_emoji: ':car: :bear: :ok:'

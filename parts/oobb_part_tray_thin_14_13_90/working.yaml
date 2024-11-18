@@ -1,3 +1,222 @@
+bip_39_word_dash_1: soccer
+bip_39_word_dash_10: soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor
+bip_39_word_dash_11: soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor-hedgehog
+bip_39_word_dash_12: soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel-outdoor-hedgehog-arrow
+bip_39_word_dash_2: soccer-fame
+bip_39_word_dash_3: soccer-fame-silk
+bip_39_word_dash_4: soccer-fame-silk-ski
+bip_39_word_dash_5: soccer-fame-silk-ski-drastic
+bip_39_word_dash_6: soccer-fame-silk-ski-drastic-fatigue
+bip_39_word_dash_7: soccer-fame-silk-ski-drastic-fatigue-ginger
+bip_39_word_dash_8: soccer-fame-silk-ski-drastic-fatigue-ginger-walnut
+bip_39_word_dash_9: soccer-fame-silk-ski-drastic-fatigue-ginger-walnut-hotel
+bip_39_word_new_br_1: soccer
+bip_39_word_new_br_10: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor
+bip_39_word_new_br_11: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor<br>hedgehog
+bip_39_word_new_br_12: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel<br>outdoor<br>hedgehog<br>arrow
+bip_39_word_new_br_2: soccer<br>fame
+bip_39_word_new_br_3: soccer<br>fame<br>silk
+bip_39_word_new_br_4: soccer<br>fame<br>silk<br>ski
+bip_39_word_new_br_5: soccer<br>fame<br>silk<br>ski<br>drastic
+bip_39_word_new_br_6: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue
+bip_39_word_new_br_7: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger
+bip_39_word_new_br_8: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut
+bip_39_word_new_br_9: soccer<br>fame<br>silk<br>ski<br>drastic<br>fatigue<br>ginger<br>walnut<br>hotel
+bip_39_word_new_line_1: soccer
+bip_39_word_new_line_10: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor'
+bip_39_word_new_line_11: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor
+
+  hedgehog'
+bip_39_word_new_line_12: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel
+
+  outdoor
+
+  hedgehog
+
+  arrow'
+bip_39_word_new_line_2: 'soccer
+
+  fame'
+bip_39_word_new_line_3: 'soccer
+
+  fame
+
+  silk'
+bip_39_word_new_line_4: 'soccer
+
+  fame
+
+  silk
+
+  ski'
+bip_39_word_new_line_5: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic'
+bip_39_word_new_line_6: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue'
+bip_39_word_new_line_7: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger'
+bip_39_word_new_line_8: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut'
+bip_39_word_new_line_9: 'soccer
+
+  fame
+
+  silk
+
+  ski
+
+  drastic
+
+  fatigue
+
+  ginger
+
+  walnut
+
+  hotel'
+bip_39_word_no_space_1: soccer
+bip_39_word_no_space_10: soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoor
+bip_39_word_no_space_11: soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoorhedgehog
+bip_39_word_no_space_12: soccerfamesilkskidrasticfatiguegingerwalnuthoteloutdoorhedgehogarrow
+bip_39_word_no_space_2: soccerfame
+bip_39_word_no_space_3: soccerfamesilk
+bip_39_word_no_space_4: soccerfamesilkski
+bip_39_word_no_space_5: soccerfamesilkskidrastic
+bip_39_word_no_space_6: soccerfamesilkskidrasticfatigue
+bip_39_word_no_space_7: soccerfamesilkskidrasticfatigueginger
+bip_39_word_no_space_8: soccerfamesilkskidrasticfatiguegingerwalnut
+bip_39_word_no_space_9: soccerfamesilkskidrasticfatiguegingerwalnuthotel
+bip_39_word_space_0:
+- soccer
+- fame
+- silk
+- ski
+- drastic
+- fatigue
+- ginger
+- walnut
+- hotel
+- outdoor
+- hedgehog
+- arrow
+bip_39_word_space_1: soccer
+bip_39_word_space_10: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+bip_39_word_space_11: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+  hedgehog
+bip_39_word_space_12: soccer fame silk ski drastic fatigue ginger walnut hotel outdoor
+  hedgehog arrow
+bip_39_word_space_2: soccer fame
+bip_39_word_space_3: soccer fame silk
+bip_39_word_space_4: soccer fame silk ski
+bip_39_word_space_5: soccer fame silk ski drastic
+bip_39_word_space_6: soccer fame silk ski drastic fatigue
+bip_39_word_space_7: soccer fame silk ski drastic fatigue ginger
+bip_39_word_space_8: soccer fame silk ski drastic fatigue ginger walnut
+bip_39_word_space_9: soccer fame silk ski drastic fatigue ginger walnut hotel
+bip_39_word_underscore_1: soccer
+bip_39_word_underscore_10: soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor
+bip_39_word_underscore_11: soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor_hedgehog
+bip_39_word_underscore_12: soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel_outdoor_hedgehog_arrow
+bip_39_word_underscore_2: soccer_fame
+bip_39_word_underscore_3: soccer_fame_silk
+bip_39_word_underscore_4: soccer_fame_silk_ski
+bip_39_word_underscore_5: soccer_fame_silk_ski_drastic
+bip_39_word_underscore_6: soccer_fame_silk_ski_drastic_fatigue
+bip_39_word_underscore_7: soccer_fame_silk_ski_drastic_fatigue_ginger
+bip_39_word_underscore_8: soccer_fame_silk_ski_drastic_fatigue_ginger_walnut
+bip_39_word_underscore_9: soccer_fame_silk_ski_drastic_fatigue_ginger_walnut_hotel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_13_90
 id_no_color: '141390'
 id_no_size: '14_13_90'
 id_no_type: tray_thin_14_13_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_13_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_13_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_13_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207wwtj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207wwtj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207wwtj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141390'
 name_no_size: 14 13 90
 name_no_size_short: 14 13 90
 name_no_type: Tray Thin 14 13 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_13_90
 oomp_word: cherries house nose
 oomp_word_emoji: ':cherries: :house: :nose:'

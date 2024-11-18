@@ -1,3 +1,223 @@
+bip_39_word_dash_1: stone
+bip_39_word_dash_10: stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print
+bip_39_word_dash_11: stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print-dance
+bip_39_word_dash_12: stone-elephant-kind-resist-project-planet-bid-nasty-warfare-print-dance-answer
+bip_39_word_dash_2: stone-elephant
+bip_39_word_dash_3: stone-elephant-kind
+bip_39_word_dash_4: stone-elephant-kind-resist
+bip_39_word_dash_5: stone-elephant-kind-resist-project
+bip_39_word_dash_6: stone-elephant-kind-resist-project-planet
+bip_39_word_dash_7: stone-elephant-kind-resist-project-planet-bid
+bip_39_word_dash_8: stone-elephant-kind-resist-project-planet-bid-nasty
+bip_39_word_dash_9: stone-elephant-kind-resist-project-planet-bid-nasty-warfare
+bip_39_word_new_br_1: stone
+bip_39_word_new_br_10: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print
+bip_39_word_new_br_11: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance
+bip_39_word_new_br_12: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare<br>print<br>dance<br>answer
+bip_39_word_new_br_2: stone<br>elephant
+bip_39_word_new_br_3: stone<br>elephant<br>kind
+bip_39_word_new_br_4: stone<br>elephant<br>kind<br>resist
+bip_39_word_new_br_5: stone<br>elephant<br>kind<br>resist<br>project
+bip_39_word_new_br_6: stone<br>elephant<br>kind<br>resist<br>project<br>planet
+bip_39_word_new_br_7: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid
+bip_39_word_new_br_8: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty
+bip_39_word_new_br_9: stone<br>elephant<br>kind<br>resist<br>project<br>planet<br>bid<br>nasty<br>warfare
+bip_39_word_new_line_1: stone
+bip_39_word_new_line_10: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid
+
+  nasty
+
+  warfare
+
+  print'
+bip_39_word_new_line_11: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid
+
+  nasty
+
+  warfare
+
+  print
+
+  dance'
+bip_39_word_new_line_12: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid
+
+  nasty
+
+  warfare
+
+  print
+
+  dance
+
+  answer'
+bip_39_word_new_line_2: 'stone
+
+  elephant'
+bip_39_word_new_line_3: 'stone
+
+  elephant
+
+  kind'
+bip_39_word_new_line_4: 'stone
+
+  elephant
+
+  kind
+
+  resist'
+bip_39_word_new_line_5: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project'
+bip_39_word_new_line_6: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet'
+bip_39_word_new_line_7: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid'
+bip_39_word_new_line_8: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid
+
+  nasty'
+bip_39_word_new_line_9: 'stone
+
+  elephant
+
+  kind
+
+  resist
+
+  project
+
+  planet
+
+  bid
+
+  nasty
+
+  warfare'
+bip_39_word_no_space_1: stone
+bip_39_word_no_space_10: stoneelephantkindresistprojectplanetbidnastywarfareprint
+bip_39_word_no_space_11: stoneelephantkindresistprojectplanetbidnastywarfareprintdance
+bip_39_word_no_space_12: stoneelephantkindresistprojectplanetbidnastywarfareprintdanceanswer
+bip_39_word_no_space_2: stoneelephant
+bip_39_word_no_space_3: stoneelephantkind
+bip_39_word_no_space_4: stoneelephantkindresist
+bip_39_word_no_space_5: stoneelephantkindresistproject
+bip_39_word_no_space_6: stoneelephantkindresistprojectplanet
+bip_39_word_no_space_7: stoneelephantkindresistprojectplanetbid
+bip_39_word_no_space_8: stoneelephantkindresistprojectplanetbidnasty
+bip_39_word_no_space_9: stoneelephantkindresistprojectplanetbidnastywarfare
+bip_39_word_space_0:
+- stone
+- elephant
+- kind
+- resist
+- project
+- planet
+- bid
+- nasty
+- warfare
+- print
+- dance
+- answer
+bip_39_word_space_1: stone
+bip_39_word_space_10: stone elephant kind resist project planet bid nasty warfare
+  print
+bip_39_word_space_11: stone elephant kind resist project planet bid nasty warfare
+  print dance
+bip_39_word_space_12: stone elephant kind resist project planet bid nasty warfare
+  print dance answer
+bip_39_word_space_2: stone elephant
+bip_39_word_space_3: stone elephant kind
+bip_39_word_space_4: stone elephant kind resist
+bip_39_word_space_5: stone elephant kind resist project
+bip_39_word_space_6: stone elephant kind resist project planet
+bip_39_word_space_7: stone elephant kind resist project planet bid
+bip_39_word_space_8: stone elephant kind resist project planet bid nasty
+bip_39_word_space_9: stone elephant kind resist project planet bid nasty warfare
+bip_39_word_underscore_1: stone
+bip_39_word_underscore_10: stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print
+bip_39_word_underscore_11: stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print_dance
+bip_39_word_underscore_12: stone_elephant_kind_resist_project_planet_bid_nasty_warfare_print_dance_answer
+bip_39_word_underscore_2: stone_elephant
+bip_39_word_underscore_3: stone_elephant_kind
+bip_39_word_underscore_4: stone_elephant_kind_resist
+bip_39_word_underscore_5: stone_elephant_kind_resist_project
+bip_39_word_underscore_6: stone_elephant_kind_resist_project_planet
+bip_39_word_underscore_7: stone_elephant_kind_resist_project_planet_bid
+bip_39_word_underscore_8: stone_elephant_kind_resist_project_planet_bid_nasty
+bip_39_word_underscore_9: stone_elephant_kind_resist_project_planet_bid_nasty_warfare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_11_60
 id_no_color: 1d51160
 id_no_size: 1d5_11_60
 id_no_type: tray_1d5_11_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_11_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2060xbe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2060xbe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2060xbe
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D51160
 name_no_size: 1D5 11 60
 name_no_size_short: 1D5 11 60
 name_no_type: Tray 1D5 11 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_11_60
 oomp_word: golf new_moon lipstick
 oomp_word_emoji: ':golf: :new_moon: :lipstick:'

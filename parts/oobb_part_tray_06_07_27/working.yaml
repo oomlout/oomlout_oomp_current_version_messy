@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hurry
+bip_39_word_dash_10: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home
+bip_39_word_dash_11: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home-fence
+bip_39_word_dash_12: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired-home-fence-asset
+bip_39_word_dash_2: hurry-shuffle
+bip_39_word_dash_3: hurry-shuffle-eight
+bip_39_word_dash_4: hurry-shuffle-eight-interest
+bip_39_word_dash_5: hurry-shuffle-eight-interest-decade
+bip_39_word_dash_6: hurry-shuffle-eight-interest-decade-trade
+bip_39_word_dash_7: hurry-shuffle-eight-interest-decade-trade-bulb
+bip_39_word_dash_8: hurry-shuffle-eight-interest-decade-trade-bulb-bring
+bip_39_word_dash_9: hurry-shuffle-eight-interest-decade-trade-bulb-bring-tired
+bip_39_word_new_br_1: hurry
+bip_39_word_new_br_10: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home
+bip_39_word_new_br_11: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home<br>fence
+bip_39_word_new_br_12: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired<br>home<br>fence<br>asset
+bip_39_word_new_br_2: hurry<br>shuffle
+bip_39_word_new_br_3: hurry<br>shuffle<br>eight
+bip_39_word_new_br_4: hurry<br>shuffle<br>eight<br>interest
+bip_39_word_new_br_5: hurry<br>shuffle<br>eight<br>interest<br>decade
+bip_39_word_new_br_6: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade
+bip_39_word_new_br_7: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb
+bip_39_word_new_br_8: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring
+bip_39_word_new_br_9: hurry<br>shuffle<br>eight<br>interest<br>decade<br>trade<br>bulb<br>bring<br>tired
+bip_39_word_new_line_1: hurry
+bip_39_word_new_line_10: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb
+
+  bring
+
+  tired
+
+  home'
+bip_39_word_new_line_11: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb
+
+  bring
+
+  tired
+
+  home
+
+  fence'
+bip_39_word_new_line_12: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb
+
+  bring
+
+  tired
+
+  home
+
+  fence
+
+  asset'
+bip_39_word_new_line_2: 'hurry
+
+  shuffle'
+bip_39_word_new_line_3: 'hurry
+
+  shuffle
+
+  eight'
+bip_39_word_new_line_4: 'hurry
+
+  shuffle
+
+  eight
+
+  interest'
+bip_39_word_new_line_5: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade'
+bip_39_word_new_line_6: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade'
+bip_39_word_new_line_7: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb'
+bip_39_word_new_line_8: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb
+
+  bring'
+bip_39_word_new_line_9: 'hurry
+
+  shuffle
+
+  eight
+
+  interest
+
+  decade
+
+  trade
+
+  bulb
+
+  bring
+
+  tired'
+bip_39_word_no_space_1: hurry
+bip_39_word_no_space_10: hurryshuffleeightinterestdecadetradebulbbringtiredhome
+bip_39_word_no_space_11: hurryshuffleeightinterestdecadetradebulbbringtiredhomefence
+bip_39_word_no_space_12: hurryshuffleeightinterestdecadetradebulbbringtiredhomefenceasset
+bip_39_word_no_space_2: hurryshuffle
+bip_39_word_no_space_3: hurryshuffleeight
+bip_39_word_no_space_4: hurryshuffleeightinterest
+bip_39_word_no_space_5: hurryshuffleeightinterestdecade
+bip_39_word_no_space_6: hurryshuffleeightinterestdecadetrade
+bip_39_word_no_space_7: hurryshuffleeightinterestdecadetradebulb
+bip_39_word_no_space_8: hurryshuffleeightinterestdecadetradebulbbring
+bip_39_word_no_space_9: hurryshuffleeightinterestdecadetradebulbbringtired
+bip_39_word_space_0:
+- hurry
+- shuffle
+- eight
+- interest
+- decade
+- trade
+- bulb
+- bring
+- tired
+- home
+- fence
+- asset
+bip_39_word_space_1: hurry
+bip_39_word_space_10: hurry shuffle eight interest decade trade bulb bring tired home
+bip_39_word_space_11: hurry shuffle eight interest decade trade bulb bring tired home
+  fence
+bip_39_word_space_12: hurry shuffle eight interest decade trade bulb bring tired home
+  fence asset
+bip_39_word_space_2: hurry shuffle
+bip_39_word_space_3: hurry shuffle eight
+bip_39_word_space_4: hurry shuffle eight interest
+bip_39_word_space_5: hurry shuffle eight interest decade
+bip_39_word_space_6: hurry shuffle eight interest decade trade
+bip_39_word_space_7: hurry shuffle eight interest decade trade bulb
+bip_39_word_space_8: hurry shuffle eight interest decade trade bulb bring
+bip_39_word_space_9: hurry shuffle eight interest decade trade bulb bring tired
+bip_39_word_underscore_1: hurry
+bip_39_word_underscore_10: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home
+bip_39_word_underscore_11: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home_fence
+bip_39_word_underscore_12: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired_home_fence_asset
+bip_39_word_underscore_2: hurry_shuffle
+bip_39_word_underscore_3: hurry_shuffle_eight
+bip_39_word_underscore_4: hurry_shuffle_eight_interest
+bip_39_word_underscore_5: hurry_shuffle_eight_interest_decade
+bip_39_word_underscore_6: hurry_shuffle_eight_interest_decade_trade
+bip_39_word_underscore_7: hurry_shuffle_eight_interest_decade_trade_bulb
+bip_39_word_underscore_8: hurry_shuffle_eight_interest_decade_trade_bulb_bring
+bip_39_word_underscore_9: hurry_shuffle_eight_interest_decade_trade_bulb_bring_tired
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_06_07_27
 id_no_color: '060727'
 id_no_size: '06_07_27'
 id_no_type: tray_06_07_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_07_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_07_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_07_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208j5ej
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208j5ej
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208j5ej
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060727'
 name_no_size: 06 07 27
 name_no_size_short: 06 07 27
 name_no_type: Tray 06 07 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_07_27
 oomp_word: hotel lipstick muscle
 oomp_word_emoji: ':hotel: :lipstick: :muscle:'

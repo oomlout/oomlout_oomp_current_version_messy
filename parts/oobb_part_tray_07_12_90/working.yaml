@@ -1,3 +1,221 @@
+bip_39_word_dash_1: echo
+bip_39_word_dash_10: echo-where-shy-unable-ring-desk-okay-title-sudden-paper
+bip_39_word_dash_11: echo-where-shy-unable-ring-desk-okay-title-sudden-paper-parade
+bip_39_word_dash_12: echo-where-shy-unable-ring-desk-okay-title-sudden-paper-parade-asthma
+bip_39_word_dash_2: echo-where
+bip_39_word_dash_3: echo-where-shy
+bip_39_word_dash_4: echo-where-shy-unable
+bip_39_word_dash_5: echo-where-shy-unable-ring
+bip_39_word_dash_6: echo-where-shy-unable-ring-desk
+bip_39_word_dash_7: echo-where-shy-unable-ring-desk-okay
+bip_39_word_dash_8: echo-where-shy-unable-ring-desk-okay-title
+bip_39_word_dash_9: echo-where-shy-unable-ring-desk-okay-title-sudden
+bip_39_word_new_br_1: echo
+bip_39_word_new_br_10: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden<br>paper
+bip_39_word_new_br_11: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden<br>paper<br>parade
+bip_39_word_new_br_12: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden<br>paper<br>parade<br>asthma
+bip_39_word_new_br_2: echo<br>where
+bip_39_word_new_br_3: echo<br>where<br>shy
+bip_39_word_new_br_4: echo<br>where<br>shy<br>unable
+bip_39_word_new_br_5: echo<br>where<br>shy<br>unable<br>ring
+bip_39_word_new_br_6: echo<br>where<br>shy<br>unable<br>ring<br>desk
+bip_39_word_new_br_7: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay
+bip_39_word_new_br_8: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title
+bip_39_word_new_br_9: echo<br>where<br>shy<br>unable<br>ring<br>desk<br>okay<br>title<br>sudden
+bip_39_word_new_line_1: echo
+bip_39_word_new_line_10: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay
+
+  title
+
+  sudden
+
+  paper'
+bip_39_word_new_line_11: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay
+
+  title
+
+  sudden
+
+  paper
+
+  parade'
+bip_39_word_new_line_12: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay
+
+  title
+
+  sudden
+
+  paper
+
+  parade
+
+  asthma'
+bip_39_word_new_line_2: 'echo
+
+  where'
+bip_39_word_new_line_3: 'echo
+
+  where
+
+  shy'
+bip_39_word_new_line_4: 'echo
+
+  where
+
+  shy
+
+  unable'
+bip_39_word_new_line_5: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring'
+bip_39_word_new_line_6: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk'
+bip_39_word_new_line_7: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay'
+bip_39_word_new_line_8: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay
+
+  title'
+bip_39_word_new_line_9: 'echo
+
+  where
+
+  shy
+
+  unable
+
+  ring
+
+  desk
+
+  okay
+
+  title
+
+  sudden'
+bip_39_word_no_space_1: echo
+bip_39_word_no_space_10: echowhereshyunableringdeskokaytitlesuddenpaper
+bip_39_word_no_space_11: echowhereshyunableringdeskokaytitlesuddenpaperparade
+bip_39_word_no_space_12: echowhereshyunableringdeskokaytitlesuddenpaperparadeasthma
+bip_39_word_no_space_2: echowhere
+bip_39_word_no_space_3: echowhereshy
+bip_39_word_no_space_4: echowhereshyunable
+bip_39_word_no_space_5: echowhereshyunablering
+bip_39_word_no_space_6: echowhereshyunableringdesk
+bip_39_word_no_space_7: echowhereshyunableringdeskokay
+bip_39_word_no_space_8: echowhereshyunableringdeskokaytitle
+bip_39_word_no_space_9: echowhereshyunableringdeskokaytitlesudden
+bip_39_word_space_0:
+- echo
+- where
+- shy
+- unable
+- ring
+- desk
+- okay
+- title
+- sudden
+- paper
+- parade
+- asthma
+bip_39_word_space_1: echo
+bip_39_word_space_10: echo where shy unable ring desk okay title sudden paper
+bip_39_word_space_11: echo where shy unable ring desk okay title sudden paper parade
+bip_39_word_space_12: echo where shy unable ring desk okay title sudden paper parade
+  asthma
+bip_39_word_space_2: echo where
+bip_39_word_space_3: echo where shy
+bip_39_word_space_4: echo where shy unable
+bip_39_word_space_5: echo where shy unable ring
+bip_39_word_space_6: echo where shy unable ring desk
+bip_39_word_space_7: echo where shy unable ring desk okay
+bip_39_word_space_8: echo where shy unable ring desk okay title
+bip_39_word_space_9: echo where shy unable ring desk okay title sudden
+bip_39_word_underscore_1: echo
+bip_39_word_underscore_10: echo_where_shy_unable_ring_desk_okay_title_sudden_paper
+bip_39_word_underscore_11: echo_where_shy_unable_ring_desk_okay_title_sudden_paper_parade
+bip_39_word_underscore_12: echo_where_shy_unable_ring_desk_okay_title_sudden_paper_parade_asthma
+bip_39_word_underscore_2: echo_where
+bip_39_word_underscore_3: echo_where_shy
+bip_39_word_underscore_4: echo_where_shy_unable
+bip_39_word_underscore_5: echo_where_shy_unable_ring
+bip_39_word_underscore_6: echo_where_shy_unable_ring_desk
+bip_39_word_underscore_7: echo_where_shy_unable_ring_desk_okay
+bip_39_word_underscore_8: echo_where_shy_unable_ring_desk_okay_title
+bip_39_word_underscore_9: echo_where_shy_unable_ring_desk_okay_title_sudden
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_07_12_90
 id_no_color: 071290
 id_no_size: 07_12_90
 id_no_type: tray_07_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208seg7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208seg7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208seg7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 071290
 name_no_size: 07 12 90
 name_no_size_short: 07 12 90
 name_no_type: Tray 07 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_12_90
 oomp_word: boat racehorse nose
 oomp_word_emoji: ':boat: :racehorse: :nose:'

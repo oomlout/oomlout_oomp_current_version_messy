@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Electrical Meter Clamp Aneng St180
+* name_short: 
 ### id
 * oomp_id: tool_electrical_meter_clamp_aneng_st180
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dolls: :droplet: :cupid:
 * md5_6_alpha: 4gbv2
 * md5_6: 72240e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204gbv2)
+[2x1](http://192.168.1.242:1112/?label=oomp%204gbv2)
+[6x4](http://192.168.1.55:1112/?label=oomp%204gbv2)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ jar |
 | id_no_color | anengst180 |  
 | id_no_size | anengst180 |  
 | id_no_type | aneng_st180 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_electrical_meter_clamp_aneng_st180 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_electrical_meter_clamp_aneng_st180 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204gbv2 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204gbv2 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204gbv2 |  
 | manufacturer | aneng |  
 | manufacturer_capital | Aneng |  
 | manufacturer_first_letter | a |  
@@ -282,6 +315,7 @@ jar |
 | name_no_size | Anengst180 |  
 | name_no_size_short | Anengst180 |  
 | name_no_type | Aneng St180 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_electrical_meter_clamp_aneng_st180 |  
 | oomp_word | dolls droplet cupid |  
 | oomp_word_emoji | :dolls: :droplet: :cupid: |  

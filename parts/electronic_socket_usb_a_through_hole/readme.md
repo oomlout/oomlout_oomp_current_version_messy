@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket USB A Through Hole
+* name_short: 
 ### id
 * oomp_id: electronic_socket_usb_a_through_hole
   * classification: electronic

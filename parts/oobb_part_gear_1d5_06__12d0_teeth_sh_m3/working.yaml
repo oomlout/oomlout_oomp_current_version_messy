@@ -1,3 +1,223 @@
+bip_39_word_dash_1: oxygen
+bip_39_word_dash_10: oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until
+bip_39_word_dash_11: oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until-snow
+bip_39_word_dash_12: oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart-until-snow-artefact
+bip_39_word_dash_2: oxygen-rate
+bip_39_word_dash_3: oxygen-rate-impulse
+bip_39_word_dash_4: oxygen-rate-impulse-success
+bip_39_word_dash_5: oxygen-rate-impulse-success-genuine
+bip_39_word_dash_6: oxygen-rate-impulse-success-genuine-wheel
+bip_39_word_dash_7: oxygen-rate-impulse-success-genuine-wheel-timber
+bip_39_word_dash_8: oxygen-rate-impulse-success-genuine-wheel-timber-tenant
+bip_39_word_dash_9: oxygen-rate-impulse-success-genuine-wheel-timber-tenant-smart
+bip_39_word_new_br_1: oxygen
+bip_39_word_new_br_10: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart<br>until
+bip_39_word_new_br_11: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart<br>until<br>snow
+bip_39_word_new_br_12: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart<br>until<br>snow<br>artefact
+bip_39_word_new_br_2: oxygen<br>rate
+bip_39_word_new_br_3: oxygen<br>rate<br>impulse
+bip_39_word_new_br_4: oxygen<br>rate<br>impulse<br>success
+bip_39_word_new_br_5: oxygen<br>rate<br>impulse<br>success<br>genuine
+bip_39_word_new_br_6: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel
+bip_39_word_new_br_7: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber
+bip_39_word_new_br_8: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant
+bip_39_word_new_br_9: oxygen<br>rate<br>impulse<br>success<br>genuine<br>wheel<br>timber<br>tenant<br>smart
+bip_39_word_new_line_1: oxygen
+bip_39_word_new_line_10: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber
+
+  tenant
+
+  smart
+
+  until'
+bip_39_word_new_line_11: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber
+
+  tenant
+
+  smart
+
+  until
+
+  snow'
+bip_39_word_new_line_12: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber
+
+  tenant
+
+  smart
+
+  until
+
+  snow
+
+  artefact'
+bip_39_word_new_line_2: 'oxygen
+
+  rate'
+bip_39_word_new_line_3: 'oxygen
+
+  rate
+
+  impulse'
+bip_39_word_new_line_4: 'oxygen
+
+  rate
+
+  impulse
+
+  success'
+bip_39_word_new_line_5: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine'
+bip_39_word_new_line_6: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel'
+bip_39_word_new_line_7: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber'
+bip_39_word_new_line_8: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber
+
+  tenant'
+bip_39_word_new_line_9: 'oxygen
+
+  rate
+
+  impulse
+
+  success
+
+  genuine
+
+  wheel
+
+  timber
+
+  tenant
+
+  smart'
+bip_39_word_no_space_1: oxygen
+bip_39_word_no_space_10: oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntil
+bip_39_word_no_space_11: oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntilsnow
+bip_39_word_no_space_12: oxygenrateimpulsesuccessgenuinewheeltimbertenantsmartuntilsnowartefact
+bip_39_word_no_space_2: oxygenrate
+bip_39_word_no_space_3: oxygenrateimpulse
+bip_39_word_no_space_4: oxygenrateimpulsesuccess
+bip_39_word_no_space_5: oxygenrateimpulsesuccessgenuine
+bip_39_word_no_space_6: oxygenrateimpulsesuccessgenuinewheel
+bip_39_word_no_space_7: oxygenrateimpulsesuccessgenuinewheeltimber
+bip_39_word_no_space_8: oxygenrateimpulsesuccessgenuinewheeltimbertenant
+bip_39_word_no_space_9: oxygenrateimpulsesuccessgenuinewheeltimbertenantsmart
+bip_39_word_space_0:
+- oxygen
+- rate
+- impulse
+- success
+- genuine
+- wheel
+- timber
+- tenant
+- smart
+- until
+- snow
+- artefact
+bip_39_word_space_1: oxygen
+bip_39_word_space_10: oxygen rate impulse success genuine wheel timber tenant smart
+  until
+bip_39_word_space_11: oxygen rate impulse success genuine wheel timber tenant smart
+  until snow
+bip_39_word_space_12: oxygen rate impulse success genuine wheel timber tenant smart
+  until snow artefact
+bip_39_word_space_2: oxygen rate
+bip_39_word_space_3: oxygen rate impulse
+bip_39_word_space_4: oxygen rate impulse success
+bip_39_word_space_5: oxygen rate impulse success genuine
+bip_39_word_space_6: oxygen rate impulse success genuine wheel
+bip_39_word_space_7: oxygen rate impulse success genuine wheel timber
+bip_39_word_space_8: oxygen rate impulse success genuine wheel timber tenant
+bip_39_word_space_9: oxygen rate impulse success genuine wheel timber tenant smart
+bip_39_word_underscore_1: oxygen
+bip_39_word_underscore_10: oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until
+bip_39_word_underscore_11: oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until_snow
+bip_39_word_underscore_12: oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart_until_snow_artefact
+bip_39_word_underscore_2: oxygen_rate
+bip_39_word_underscore_3: oxygen_rate_impulse
+bip_39_word_underscore_4: oxygen_rate_impulse_success
+bip_39_word_underscore_5: oxygen_rate_impulse_success_genuine
+bip_39_word_underscore_6: oxygen_rate_impulse_success_genuine_wheel
+bip_39_word_underscore_7: oxygen_rate_impulse_success_genuine_wheel_timber
+bip_39_word_underscore_8: oxygen_rate_impulse_success_genuine_wheel_timber_tenant
+bip_39_word_underscore_9: oxygen_rate_impulse_success_genuine_wheel_timber_tenant_smart
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_1d5_06__12d0_teeth_sh_m3
 id_no_color: 1d50612d0teethshm3
 id_no_size: 1d5_06__12d0_teeth_sh_m3
 id_no_type: gear_1d5_06__12d0_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2083m7v
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2083m7v
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2083m7v
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 1D50612D0Teethshm3
 name_no_size: 1D5 06  12D0 Teeth Sh M3
 name_no_size_short: 1D5 06  12D0 Teeth Sh M3
 name_no_type: Gear 1D5 06  12D0 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_1d5_06__12d0_teeth_sh_m3
 oomp_word: melon ski bear
 oomp_word_emoji: ':melon: :ski: :bear:'

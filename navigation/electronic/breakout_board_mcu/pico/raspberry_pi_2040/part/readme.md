@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 The official Raspberry Pi breakout for the 2040
 
+### name
+* name: Electronic Breakout Board MCU Pico Raspberry Pi 2040
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_pico_raspberry_pi_2040
   * classification: electronic
@@ -28,6 +31,29 @@ The official Raspberry Pi breakout for the 2040
 * oomp_word_emoji :bank: :rice: :fax:
 * md5_6_alpha: 8huny
 * md5_6: d9bd7e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208huny)
+[2x1](http://192.168.1.242:1112/?label=oomp%208huny)
+[6x4](http://192.168.1.55:1112/?label=oomp%208huny)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ salmon |
 | id_no_size | raspberry_pi_2040 |  
 | id_no_type | pico_raspberry_pi_2040 |  
 | kicad_reference | BB |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208huny |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208huny |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208huny |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ salmon |
 | name_no_size_short | Raspberry Pi 2k |  
 | name_no_type | Pico Raspberry Pi 2040 |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_mcu_pico_raspberry_pi_2040 |  
 | oomp_word | bank rice fax |  
 | oomp_word_emoji | :bank: :rice: :fax: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dust
+bip_39_word_dash_10: dust-rude-honey-utility-brave-club-make-silver-general-duty
+bip_39_word_dash_11: dust-rude-honey-utility-brave-club-make-silver-general-duty-setup
+bip_39_word_dash_12: dust-rude-honey-utility-brave-club-make-silver-general-duty-setup-acid
+bip_39_word_dash_2: dust-rude
+bip_39_word_dash_3: dust-rude-honey
+bip_39_word_dash_4: dust-rude-honey-utility
+bip_39_word_dash_5: dust-rude-honey-utility-brave
+bip_39_word_dash_6: dust-rude-honey-utility-brave-club
+bip_39_word_dash_7: dust-rude-honey-utility-brave-club-make
+bip_39_word_dash_8: dust-rude-honey-utility-brave-club-make-silver
+bip_39_word_dash_9: dust-rude-honey-utility-brave-club-make-silver-general
+bip_39_word_new_br_1: dust
+bip_39_word_new_br_10: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty
+bip_39_word_new_br_11: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty<br>setup
+bip_39_word_new_br_12: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general<br>duty<br>setup<br>acid
+bip_39_word_new_br_2: dust<br>rude
+bip_39_word_new_br_3: dust<br>rude<br>honey
+bip_39_word_new_br_4: dust<br>rude<br>honey<br>utility
+bip_39_word_new_br_5: dust<br>rude<br>honey<br>utility<br>brave
+bip_39_word_new_br_6: dust<br>rude<br>honey<br>utility<br>brave<br>club
+bip_39_word_new_br_7: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make
+bip_39_word_new_br_8: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver
+bip_39_word_new_br_9: dust<br>rude<br>honey<br>utility<br>brave<br>club<br>make<br>silver<br>general
+bip_39_word_new_line_1: dust
+bip_39_word_new_line_10: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make
+
+  silver
+
+  general
+
+  duty'
+bip_39_word_new_line_11: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make
+
+  silver
+
+  general
+
+  duty
+
+  setup'
+bip_39_word_new_line_12: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make
+
+  silver
+
+  general
+
+  duty
+
+  setup
+
+  acid'
+bip_39_word_new_line_2: 'dust
+
+  rude'
+bip_39_word_new_line_3: 'dust
+
+  rude
+
+  honey'
+bip_39_word_new_line_4: 'dust
+
+  rude
+
+  honey
+
+  utility'
+bip_39_word_new_line_5: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave'
+bip_39_word_new_line_6: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club'
+bip_39_word_new_line_7: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make'
+bip_39_word_new_line_8: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make
+
+  silver'
+bip_39_word_new_line_9: 'dust
+
+  rude
+
+  honey
+
+  utility
+
+  brave
+
+  club
+
+  make
+
+  silver
+
+  general'
+bip_39_word_no_space_1: dust
+bip_39_word_no_space_10: dustrudehoneyutilitybraveclubmakesilvergeneralduty
+bip_39_word_no_space_11: dustrudehoneyutilitybraveclubmakesilvergeneraldutysetup
+bip_39_word_no_space_12: dustrudehoneyutilitybraveclubmakesilvergeneraldutysetupacid
+bip_39_word_no_space_2: dustrude
+bip_39_word_no_space_3: dustrudehoney
+bip_39_word_no_space_4: dustrudehoneyutility
+bip_39_word_no_space_5: dustrudehoneyutilitybrave
+bip_39_word_no_space_6: dustrudehoneyutilitybraveclub
+bip_39_word_no_space_7: dustrudehoneyutilitybraveclubmake
+bip_39_word_no_space_8: dustrudehoneyutilitybraveclubmakesilver
+bip_39_word_no_space_9: dustrudehoneyutilitybraveclubmakesilvergeneral
+bip_39_word_space_0:
+- dust
+- rude
+- honey
+- utility
+- brave
+- club
+- make
+- silver
+- general
+- duty
+- setup
+- acid
+bip_39_word_space_1: dust
+bip_39_word_space_10: dust rude honey utility brave club make silver general duty
+bip_39_word_space_11: dust rude honey utility brave club make silver general duty
+  setup
+bip_39_word_space_12: dust rude honey utility brave club make silver general duty
+  setup acid
+bip_39_word_space_2: dust rude
+bip_39_word_space_3: dust rude honey
+bip_39_word_space_4: dust rude honey utility
+bip_39_word_space_5: dust rude honey utility brave
+bip_39_word_space_6: dust rude honey utility brave club
+bip_39_word_space_7: dust rude honey utility brave club make
+bip_39_word_space_8: dust rude honey utility brave club make silver
+bip_39_word_space_9: dust rude honey utility brave club make silver general
+bip_39_word_underscore_1: dust
+bip_39_word_underscore_10: dust_rude_honey_utility_brave_club_make_silver_general_duty
+bip_39_word_underscore_11: dust_rude_honey_utility_brave_club_make_silver_general_duty_setup
+bip_39_word_underscore_12: dust_rude_honey_utility_brave_club_make_silver_general_duty_setup_acid
+bip_39_word_underscore_2: dust_rude
+bip_39_word_underscore_3: dust_rude_honey
+bip_39_word_underscore_4: dust_rude_honey_utility
+bip_39_word_underscore_5: dust_rude_honey_utility_brave
+bip_39_word_underscore_6: dust_rude_honey_utility_brave_club
+bip_39_word_underscore_7: dust_rude_honey_utility_brave_club_make
+bip_39_word_underscore_8: dust_rude_honey_utility_brave_club_make_silver
+bip_39_word_underscore_9: dust_rude_honey_utility_brave_club_make_silver_general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bolt_hardware_bolt_m5_45
 id_no_color: hardwarem545
 id_no_size: hardware_m5_45
 id_no_type: bolt_hardware_bolt_m5_45
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_45
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_45
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_45
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2018aoh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2018aoh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2018aoh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem545
 name_no_size: Hardware M5 45
 name_no_size_short: Hardware M5 45
 name_no_type: Bolt Hardware Bolt M5 45
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_45
 oomp_word: princess hammer dizzy
 oomp_word_emoji: ':princess: :hammer: :dizzy:'

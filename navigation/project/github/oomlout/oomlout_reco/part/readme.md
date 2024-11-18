@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Reco
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_reco
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :shell: :headphones: :skull:
 * md5_6_alpha: 4a0io
 * md5_6: 6da520
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204a0io)
+[2x1](http://192.168.1.242:1112/?label=oomp%204a0io)
+[6x4](http://192.168.1.55:1112/?label=oomp%204a0io)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_reco)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ sunset |
 | id_no_color | reco |  
 | id_no_size | reco |  
 | id_no_type | oomlout_oomlout_reco |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_reco |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_reco |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204a0io |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204a0io |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204a0io |  
 | link_redirect | https://github.com/oomlout/oomlout-RECO |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ sunset |
 | name_no_size | Reco |  
 | name_no_size_short | Reco |  
 | name_no_type | Oomlout Oomlout Reco |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_reco |  
 | oomp_word | shell headphones skull |  
 | oomp_word_emoji | :shell: :headphones: :skull: |  

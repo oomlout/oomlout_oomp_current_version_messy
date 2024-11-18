@@ -1,3 +1,221 @@
+bip_39_word_dash_1: song
+bip_39_word_dash_10: song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach
+bip_39_word_dash_11: song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach-dizzy
+bip_39_word_dash_12: song-pizza-gentle-blur-title-awake-quarter-mad-cook-beach-dizzy-another
+bip_39_word_dash_2: song-pizza
+bip_39_word_dash_3: song-pizza-gentle
+bip_39_word_dash_4: song-pizza-gentle-blur
+bip_39_word_dash_5: song-pizza-gentle-blur-title
+bip_39_word_dash_6: song-pizza-gentle-blur-title-awake
+bip_39_word_dash_7: song-pizza-gentle-blur-title-awake-quarter
+bip_39_word_dash_8: song-pizza-gentle-blur-title-awake-quarter-mad
+bip_39_word_dash_9: song-pizza-gentle-blur-title-awake-quarter-mad-cook
+bip_39_word_new_br_1: song
+bip_39_word_new_br_10: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach
+bip_39_word_new_br_11: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach<br>dizzy
+bip_39_word_new_br_12: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook<br>beach<br>dizzy<br>another
+bip_39_word_new_br_2: song<br>pizza
+bip_39_word_new_br_3: song<br>pizza<br>gentle
+bip_39_word_new_br_4: song<br>pizza<br>gentle<br>blur
+bip_39_word_new_br_5: song<br>pizza<br>gentle<br>blur<br>title
+bip_39_word_new_br_6: song<br>pizza<br>gentle<br>blur<br>title<br>awake
+bip_39_word_new_br_7: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter
+bip_39_word_new_br_8: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad
+bip_39_word_new_br_9: song<br>pizza<br>gentle<br>blur<br>title<br>awake<br>quarter<br>mad<br>cook
+bip_39_word_new_line_1: song
+bip_39_word_new_line_10: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach'
+bip_39_word_new_line_11: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach
+
+  dizzy'
+bip_39_word_new_line_12: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook
+
+  beach
+
+  dizzy
+
+  another'
+bip_39_word_new_line_2: 'song
+
+  pizza'
+bip_39_word_new_line_3: 'song
+
+  pizza
+
+  gentle'
+bip_39_word_new_line_4: 'song
+
+  pizza
+
+  gentle
+
+  blur'
+bip_39_word_new_line_5: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title'
+bip_39_word_new_line_6: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake'
+bip_39_word_new_line_7: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter'
+bip_39_word_new_line_8: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad'
+bip_39_word_new_line_9: 'song
+
+  pizza
+
+  gentle
+
+  blur
+
+  title
+
+  awake
+
+  quarter
+
+  mad
+
+  cook'
+bip_39_word_no_space_1: song
+bip_39_word_no_space_10: songpizzagentleblurtitleawakequartermadcookbeach
+bip_39_word_no_space_11: songpizzagentleblurtitleawakequartermadcookbeachdizzy
+bip_39_word_no_space_12: songpizzagentleblurtitleawakequartermadcookbeachdizzyanother
+bip_39_word_no_space_2: songpizza
+bip_39_word_no_space_3: songpizzagentle
+bip_39_word_no_space_4: songpizzagentleblur
+bip_39_word_no_space_5: songpizzagentleblurtitle
+bip_39_word_no_space_6: songpizzagentleblurtitleawake
+bip_39_word_no_space_7: songpizzagentleblurtitleawakequarter
+bip_39_word_no_space_8: songpizzagentleblurtitleawakequartermad
+bip_39_word_no_space_9: songpizzagentleblurtitleawakequartermadcook
+bip_39_word_space_0:
+- song
+- pizza
+- gentle
+- blur
+- title
+- awake
+- quarter
+- mad
+- cook
+- beach
+- dizzy
+- another
+bip_39_word_space_1: song
+bip_39_word_space_10: song pizza gentle blur title awake quarter mad cook beach
+bip_39_word_space_11: song pizza gentle blur title awake quarter mad cook beach dizzy
+bip_39_word_space_12: song pizza gentle blur title awake quarter mad cook beach dizzy
+  another
+bip_39_word_space_2: song pizza
+bip_39_word_space_3: song pizza gentle
+bip_39_word_space_4: song pizza gentle blur
+bip_39_word_space_5: song pizza gentle blur title
+bip_39_word_space_6: song pizza gentle blur title awake
+bip_39_word_space_7: song pizza gentle blur title awake quarter
+bip_39_word_space_8: song pizza gentle blur title awake quarter mad
+bip_39_word_space_9: song pizza gentle blur title awake quarter mad cook
+bip_39_word_underscore_1: song
+bip_39_word_underscore_10: song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach
+bip_39_word_underscore_11: song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach_dizzy
+bip_39_word_underscore_12: song_pizza_gentle_blur_title_awake_quarter_mad_cook_beach_dizzy_another
+bip_39_word_underscore_2: song_pizza
+bip_39_word_underscore_3: song_pizza_gentle
+bip_39_word_underscore_4: song_pizza_gentle_blur
+bip_39_word_underscore_5: song_pizza_gentle_blur_title
+bip_39_word_underscore_6: song_pizza_gentle_blur_title_awake
+bip_39_word_underscore_7: song_pizza_gentle_blur_title_awake_quarter
+bip_39_word_underscore_8: song_pizza_gentle_blur_title_awake_quarter_mad
+bip_39_word_underscore_9: song_pizza_gentle_blur_title_awake_quarter_mad_cook
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_05_10_09
 id_no_color: 051009
 id_no_size: 05_10_09
 id_no_type: tray_05_10_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_10_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_10_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_10_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205y7no
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205y7no
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205y7no
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 051009
 name_no_size: 05 10 09
 name_no_size_short: 05 10 09
 name_no_type: Tray 05 10 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_10_09
 oomp_word: tennis hourglass panda_face
 oomp_word_emoji: ':tennis: :hourglass: :panda_face:'

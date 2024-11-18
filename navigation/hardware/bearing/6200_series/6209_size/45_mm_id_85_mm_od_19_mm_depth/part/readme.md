@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6209 Size 45 mm ID 85 mm OD 19 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sunny: :hatching_chick: :peach:
 * md5_6_alpha: 1lzv2
 * md5_6: 2949ce
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201lzv2)
+[2x1](http://192.168.1.242:1112/?label=oomp%201lzv2)
+[6x4](http://192.168.1.55:1112/?label=oomp%201lzv2)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ hollow |
 | id_no_color | 45_mm_id_85_mm_od_19_mm_depth |  
 | id_no_size | 6209_size_45_mm_id_85_mm_od_19_mm_depth |  
 | id_no_type | 6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201lzv2 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201lzv2 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201lzv2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ hollow |
 | name_no_size | 6209 Size 45 mm ID 85 mm OD 19 mm Depth |  
 | name_no_size_short | 6209 Size 45 Mm Id 85 Mm Od 19 Mm Depth |  
 | name_no_type | 6200 Series 6209 Size 45 mm ID 85 mm OD 19 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6209 |  
 | oomlout_short_code_upper | BR6209 |  
 | oomp_key | oomp_hardware_bearing_6200_series_6209_size_45_mm_id_85_mm_od_19_mm_depth |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: impulse
+bip_39_word_dash_10: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn
+bip_39_word_dash_11: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn-match
+bip_39_word_dash_12: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk-learn-match-apology
+bip_39_word_dash_2: impulse-eye
+bip_39_word_dash_3: impulse-eye-dream
+bip_39_word_dash_4: impulse-eye-dream-shuffle
+bip_39_word_dash_5: impulse-eye-dream-shuffle-hurry
+bip_39_word_dash_6: impulse-eye-dream-shuffle-hurry-illness
+bip_39_word_dash_7: impulse-eye-dream-shuffle-hurry-illness-comic
+bip_39_word_dash_8: impulse-eye-dream-shuffle-hurry-illness-comic-school
+bip_39_word_dash_9: impulse-eye-dream-shuffle-hurry-illness-comic-school-walk
+bip_39_word_new_br_1: impulse
+bip_39_word_new_br_10: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn
+bip_39_word_new_br_11: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn<br>match
+bip_39_word_new_br_12: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk<br>learn<br>match<br>apology
+bip_39_word_new_br_2: impulse<br>eye
+bip_39_word_new_br_3: impulse<br>eye<br>dream
+bip_39_word_new_br_4: impulse<br>eye<br>dream<br>shuffle
+bip_39_word_new_br_5: impulse<br>eye<br>dream<br>shuffle<br>hurry
+bip_39_word_new_br_6: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness
+bip_39_word_new_br_7: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic
+bip_39_word_new_br_8: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school
+bip_39_word_new_br_9: impulse<br>eye<br>dream<br>shuffle<br>hurry<br>illness<br>comic<br>school<br>walk
+bip_39_word_new_line_1: impulse
+bip_39_word_new_line_10: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn'
+bip_39_word_new_line_11: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn
+
+  match'
+bip_39_word_new_line_12: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk
+
+  learn
+
+  match
+
+  apology'
+bip_39_word_new_line_2: 'impulse
+
+  eye'
+bip_39_word_new_line_3: 'impulse
+
+  eye
+
+  dream'
+bip_39_word_new_line_4: 'impulse
+
+  eye
+
+  dream
+
+  shuffle'
+bip_39_word_new_line_5: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry'
+bip_39_word_new_line_6: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness'
+bip_39_word_new_line_7: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic'
+bip_39_word_new_line_8: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school'
+bip_39_word_new_line_9: 'impulse
+
+  eye
+
+  dream
+
+  shuffle
+
+  hurry
+
+  illness
+
+  comic
+
+  school
+
+  walk'
+bip_39_word_no_space_1: impulse
+bip_39_word_no_space_10: impulseeyedreamshufflehurryillnesscomicschoolwalklearn
+bip_39_word_no_space_11: impulseeyedreamshufflehurryillnesscomicschoolwalklearnmatch
+bip_39_word_no_space_12: impulseeyedreamshufflehurryillnesscomicschoolwalklearnmatchapology
+bip_39_word_no_space_2: impulseeye
+bip_39_word_no_space_3: impulseeyedream
+bip_39_word_no_space_4: impulseeyedreamshuffle
+bip_39_word_no_space_5: impulseeyedreamshufflehurry
+bip_39_word_no_space_6: impulseeyedreamshufflehurryillness
+bip_39_word_no_space_7: impulseeyedreamshufflehurryillnesscomic
+bip_39_word_no_space_8: impulseeyedreamshufflehurryillnesscomicschool
+bip_39_word_no_space_9: impulseeyedreamshufflehurryillnesscomicschoolwalk
+bip_39_word_space_0:
+- impulse
+- eye
+- dream
+- shuffle
+- hurry
+- illness
+- comic
+- school
+- walk
+- learn
+- match
+- apology
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse eye dream shuffle hurry illness comic school walk learn
+bip_39_word_space_11: impulse eye dream shuffle hurry illness comic school walk learn
+  match
+bip_39_word_space_12: impulse eye dream shuffle hurry illness comic school walk learn
+  match apology
+bip_39_word_space_2: impulse eye
+bip_39_word_space_3: impulse eye dream
+bip_39_word_space_4: impulse eye dream shuffle
+bip_39_word_space_5: impulse eye dream shuffle hurry
+bip_39_word_space_6: impulse eye dream shuffle hurry illness
+bip_39_word_space_7: impulse eye dream shuffle hurry illness comic
+bip_39_word_space_8: impulse eye dream shuffle hurry illness comic school
+bip_39_word_space_9: impulse eye dream shuffle hurry illness comic school walk
+bip_39_word_underscore_1: impulse
+bip_39_word_underscore_10: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn
+bip_39_word_underscore_11: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn_match
+bip_39_word_underscore_12: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk_learn_match_apology
+bip_39_word_underscore_2: impulse_eye
+bip_39_word_underscore_3: impulse_eye_dream
+bip_39_word_underscore_4: impulse_eye_dream_shuffle
+bip_39_word_underscore_5: impulse_eye_dream_shuffle_hurry
+bip_39_word_underscore_6: impulse_eye_dream_shuffle_hurry_illness
+bip_39_word_underscore_7: impulse_eye_dream_shuffle_hurry_illness_comic
+bip_39_word_underscore_8: impulse_eye_dream_shuffle_hurry_illness_comic_school
+bip_39_word_underscore_9: impulse_eye_dream_shuffle_hurry_illness_comic_school_walk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_04_15
 id_no_color: 090415
 id_no_size: 09_04_15
 id_no_type: tray_thin_09_04_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_04_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_04_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_04_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206iobj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206iobj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206iobj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090415
 name_no_size: 09 04 15
 name_no_size_short: 09 04 15
 name_no_type: Tray Thin 09 04 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_04_15
 oomp_word: guitar dizzy diamonds
 oomp_word_emoji: ':guitar: :dizzy: :diamonds:'

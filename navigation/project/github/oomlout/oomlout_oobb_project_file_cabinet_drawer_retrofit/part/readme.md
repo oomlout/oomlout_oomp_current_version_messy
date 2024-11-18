@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Project File Cabinet Drawer Retrofit
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :cherries: :tea: :pencil:
 * md5_6_alpha: 7wqlf
 * md5_6: cab5a3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207wqlf)
+[2x1](http://192.168.1.242:1112/?label=oomp%207wqlf)
+[6x4](http://192.168.1.55:1112/?label=oomp%207wqlf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ unveil |
 | id_no_color | oobb_file_cabinet_drawer_retrofit |  
 | id_no_size | oobb_file_cabinet_drawer_retrofit |  
 | id_no_type | oomlout_oomlout_oobb_file_cabinet_drawer_retrofit |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207wqlf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207wqlf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207wqlf |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_project_file_cabinet_drawer_retrofit |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ unveil |
 | name_no_size | Oobb File Cabinet Drawer Retrofit |  
 | name_no_size_short | Oobb File Cabinet Drawer Retrofit |  
 | name_no_type | Oomlout Oomlout Oobb File Cabinet Drawer Retrofit |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_project_file_cabinet_drawer_retrofit |  
 | oomp_word | cherries tea pencil |  
 | oomp_word_emoji | :cherries: :tea: :pencil: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: you
+bip_39_word_dash_10: you-target-style-waste-camera-surprise-swim-earth-ripple-curve
+bip_39_word_dash_11: you-target-style-waste-camera-surprise-swim-earth-ripple-curve-crouch
+bip_39_word_dash_12: you-target-style-waste-camera-surprise-swim-earth-ripple-curve-crouch-accuse
+bip_39_word_dash_2: you-target
+bip_39_word_dash_3: you-target-style
+bip_39_word_dash_4: you-target-style-waste
+bip_39_word_dash_5: you-target-style-waste-camera
+bip_39_word_dash_6: you-target-style-waste-camera-surprise
+bip_39_word_dash_7: you-target-style-waste-camera-surprise-swim
+bip_39_word_dash_8: you-target-style-waste-camera-surprise-swim-earth
+bip_39_word_dash_9: you-target-style-waste-camera-surprise-swim-earth-ripple
+bip_39_word_new_br_1: you
+bip_39_word_new_br_10: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve
+bip_39_word_new_br_11: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve<br>crouch
+bip_39_word_new_br_12: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple<br>curve<br>crouch<br>accuse
+bip_39_word_new_br_2: you<br>target
+bip_39_word_new_br_3: you<br>target<br>style
+bip_39_word_new_br_4: you<br>target<br>style<br>waste
+bip_39_word_new_br_5: you<br>target<br>style<br>waste<br>camera
+bip_39_word_new_br_6: you<br>target<br>style<br>waste<br>camera<br>surprise
+bip_39_word_new_br_7: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim
+bip_39_word_new_br_8: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth
+bip_39_word_new_br_9: you<br>target<br>style<br>waste<br>camera<br>surprise<br>swim<br>earth<br>ripple
+bip_39_word_new_line_1: you
+bip_39_word_new_line_10: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim
+
+  earth
+
+  ripple
+
+  curve'
+bip_39_word_new_line_11: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim
+
+  earth
+
+  ripple
+
+  curve
+
+  crouch'
+bip_39_word_new_line_12: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim
+
+  earth
+
+  ripple
+
+  curve
+
+  crouch
+
+  accuse'
+bip_39_word_new_line_2: 'you
+
+  target'
+bip_39_word_new_line_3: 'you
+
+  target
+
+  style'
+bip_39_word_new_line_4: 'you
+
+  target
+
+  style
+
+  waste'
+bip_39_word_new_line_5: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera'
+bip_39_word_new_line_6: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise'
+bip_39_word_new_line_7: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim'
+bip_39_word_new_line_8: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim
+
+  earth'
+bip_39_word_new_line_9: 'you
+
+  target
+
+  style
+
+  waste
+
+  camera
+
+  surprise
+
+  swim
+
+  earth
+
+  ripple'
+bip_39_word_no_space_1: you
+bip_39_word_no_space_10: youtargetstylewastecamerasurpriseswimearthripplecurve
+bip_39_word_no_space_11: youtargetstylewastecamerasurpriseswimearthripplecurvecrouch
+bip_39_word_no_space_12: youtargetstylewastecamerasurpriseswimearthripplecurvecrouchaccuse
+bip_39_word_no_space_2: youtarget
+bip_39_word_no_space_3: youtargetstyle
+bip_39_word_no_space_4: youtargetstylewaste
+bip_39_word_no_space_5: youtargetstylewastecamera
+bip_39_word_no_space_6: youtargetstylewastecamerasurprise
+bip_39_word_no_space_7: youtargetstylewastecamerasurpriseswim
+bip_39_word_no_space_8: youtargetstylewastecamerasurpriseswimearth
+bip_39_word_no_space_9: youtargetstylewastecamerasurpriseswimearthripple
+bip_39_word_space_0:
+- you
+- target
+- style
+- waste
+- camera
+- surprise
+- swim
+- earth
+- ripple
+- curve
+- crouch
+- accuse
+bip_39_word_space_1: you
+bip_39_word_space_10: you target style waste camera surprise swim earth ripple curve
+bip_39_word_space_11: you target style waste camera surprise swim earth ripple curve
+  crouch
+bip_39_word_space_12: you target style waste camera surprise swim earth ripple curve
+  crouch accuse
+bip_39_word_space_2: you target
+bip_39_word_space_3: you target style
+bip_39_word_space_4: you target style waste
+bip_39_word_space_5: you target style waste camera
+bip_39_word_space_6: you target style waste camera surprise
+bip_39_word_space_7: you target style waste camera surprise swim
+bip_39_word_space_8: you target style waste camera surprise swim earth
+bip_39_word_space_9: you target style waste camera surprise swim earth ripple
+bip_39_word_underscore_1: you
+bip_39_word_underscore_10: you_target_style_waste_camera_surprise_swim_earth_ripple_curve
+bip_39_word_underscore_11: you_target_style_waste_camera_surprise_swim_earth_ripple_curve_crouch
+bip_39_word_underscore_12: you_target_style_waste_camera_surprise_swim_earth_ripple_curve_crouch_accuse
+bip_39_word_underscore_2: you_target
+bip_39_word_underscore_3: you_target_style
+bip_39_word_underscore_4: you_target_style_waste
+bip_39_word_underscore_5: you_target_style_waste_camera
+bip_39_word_underscore_6: you_target_style_waste_camera_surprise
+bip_39_word_underscore_7: you_target_style_waste_camera_surprise_swim
+bip_39_word_underscore_8: you_target_style_waste_camera_surprise_swim_earth
+bip_39_word_underscore_9: you_target_style_waste_camera_surprise_swim_earth_ripple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_06_06__144_teeth_sh_m3
 id_no_color: 0606144teethshm3
 id_no_size: 06_06__144_teeth_sh_m3
 id_no_type: pulley_gt2_06_06__144_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20113d9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20113d9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20113d9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0606144Teethshm3
 name_no_size: 06 06  144 Teeth Sh M3
 name_no_size_short: 06 06  144 Teeth Sh M3
 name_no_type: Pulley Gt2 06 06  144 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_06__144_teeth_sh_m3
 oomp_word: clap mushroom bug
 oomp_word_emoji: ':clap: :mushroom: :bug:'

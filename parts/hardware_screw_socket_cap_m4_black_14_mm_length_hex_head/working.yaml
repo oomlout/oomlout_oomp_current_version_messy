@@ -1,3 +1,223 @@
+bip_39_word_dash_1: divert
+bip_39_word_dash_10: divert-addict-choose-country-orchard-butter-force-shoe-list-owner
+bip_39_word_dash_11: divert-addict-choose-country-orchard-butter-force-shoe-list-owner-differ
+bip_39_word_dash_12: divert-addict-choose-country-orchard-butter-force-shoe-list-owner-differ-above
+bip_39_word_dash_2: divert-addict
+bip_39_word_dash_3: divert-addict-choose
+bip_39_word_dash_4: divert-addict-choose-country
+bip_39_word_dash_5: divert-addict-choose-country-orchard
+bip_39_word_dash_6: divert-addict-choose-country-orchard-butter
+bip_39_word_dash_7: divert-addict-choose-country-orchard-butter-force
+bip_39_word_dash_8: divert-addict-choose-country-orchard-butter-force-shoe
+bip_39_word_dash_9: divert-addict-choose-country-orchard-butter-force-shoe-list
+bip_39_word_new_br_1: divert
+bip_39_word_new_br_10: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list<br>owner
+bip_39_word_new_br_11: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list<br>owner<br>differ
+bip_39_word_new_br_12: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list<br>owner<br>differ<br>above
+bip_39_word_new_br_2: divert<br>addict
+bip_39_word_new_br_3: divert<br>addict<br>choose
+bip_39_word_new_br_4: divert<br>addict<br>choose<br>country
+bip_39_word_new_br_5: divert<br>addict<br>choose<br>country<br>orchard
+bip_39_word_new_br_6: divert<br>addict<br>choose<br>country<br>orchard<br>butter
+bip_39_word_new_br_7: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force
+bip_39_word_new_br_8: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe
+bip_39_word_new_br_9: divert<br>addict<br>choose<br>country<br>orchard<br>butter<br>force<br>shoe<br>list
+bip_39_word_new_line_1: divert
+bip_39_word_new_line_10: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force
+
+  shoe
+
+  list
+
+  owner'
+bip_39_word_new_line_11: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force
+
+  shoe
+
+  list
+
+  owner
+
+  differ'
+bip_39_word_new_line_12: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force
+
+  shoe
+
+  list
+
+  owner
+
+  differ
+
+  above'
+bip_39_word_new_line_2: 'divert
+
+  addict'
+bip_39_word_new_line_3: 'divert
+
+  addict
+
+  choose'
+bip_39_word_new_line_4: 'divert
+
+  addict
+
+  choose
+
+  country'
+bip_39_word_new_line_5: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard'
+bip_39_word_new_line_6: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter'
+bip_39_word_new_line_7: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force'
+bip_39_word_new_line_8: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force
+
+  shoe'
+bip_39_word_new_line_9: 'divert
+
+  addict
+
+  choose
+
+  country
+
+  orchard
+
+  butter
+
+  force
+
+  shoe
+
+  list'
+bip_39_word_no_space_1: divert
+bip_39_word_no_space_10: divertaddictchoosecountryorchardbutterforceshoelistowner
+bip_39_word_no_space_11: divertaddictchoosecountryorchardbutterforceshoelistownerdiffer
+bip_39_word_no_space_12: divertaddictchoosecountryorchardbutterforceshoelistownerdifferabove
+bip_39_word_no_space_2: divertaddict
+bip_39_word_no_space_3: divertaddictchoose
+bip_39_word_no_space_4: divertaddictchoosecountry
+bip_39_word_no_space_5: divertaddictchoosecountryorchard
+bip_39_word_no_space_6: divertaddictchoosecountryorchardbutter
+bip_39_word_no_space_7: divertaddictchoosecountryorchardbutterforce
+bip_39_word_no_space_8: divertaddictchoosecountryorchardbutterforceshoe
+bip_39_word_no_space_9: divertaddictchoosecountryorchardbutterforceshoelist
+bip_39_word_space_0:
+- divert
+- addict
+- choose
+- country
+- orchard
+- butter
+- force
+- shoe
+- list
+- owner
+- differ
+- above
+bip_39_word_space_1: divert
+bip_39_word_space_10: divert addict choose country orchard butter force shoe list
+  owner
+bip_39_word_space_11: divert addict choose country orchard butter force shoe list
+  owner differ
+bip_39_word_space_12: divert addict choose country orchard butter force shoe list
+  owner differ above
+bip_39_word_space_2: divert addict
+bip_39_word_space_3: divert addict choose
+bip_39_word_space_4: divert addict choose country
+bip_39_word_space_5: divert addict choose country orchard
+bip_39_word_space_6: divert addict choose country orchard butter
+bip_39_word_space_7: divert addict choose country orchard butter force
+bip_39_word_space_8: divert addict choose country orchard butter force shoe
+bip_39_word_space_9: divert addict choose country orchard butter force shoe list
+bip_39_word_underscore_1: divert
+bip_39_word_underscore_10: divert_addict_choose_country_orchard_butter_force_shoe_list_owner
+bip_39_word_underscore_11: divert_addict_choose_country_orchard_butter_force_shoe_list_owner_differ
+bip_39_word_underscore_12: divert_addict_choose_country_orchard_butter_force_shoe_list_owner_differ_above
+bip_39_word_underscore_2: divert_addict
+bip_39_word_underscore_3: divert_addict_choose
+bip_39_word_underscore_4: divert_addict_choose_country
+bip_39_word_underscore_5: divert_addict_choose_country_orchard
+bip_39_word_underscore_6: divert_addict_choose_country_orchard_butter
+bip_39_word_underscore_7: divert_addict_choose_country_orchard_butter_force
+bip_39_word_underscore_8: divert_addict_choose_country_orchard_butter_force_shoe
+bip_39_word_underscore_9: divert_addict_choose_country_orchard_butter_force_shoe_list
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -134,7 +354,20 @@ id_no_color: 14_mm_length_hex_head
 id_no_size: black_14_mm_length_hex_head
 id_no_type: m4_black_14_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bwyv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bwyv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bwyv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -160,6 +393,26 @@ name_no_color: 14 mm Length Hex Head
 name_no_size: Black 14 mm Length Hex Head
 name_no_size_short: Black 14 Mm Length Hex Head
 name_no_type: M4 Black 14 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 14 mm
+oomlout_bolt_length_no_unit: '14'
+oomlout_bolt_md5_6_alpha_first_3: bwy
+oomlout_bolt_md5_6_alpha_first_3_upper: BWY
+oomlout_bolt_md5_6_alpha_last_3: v
+oomlout_bolt_md5_6_alpha_last_3_upper: V
+oomlout_bolt_md5_6_first_3: 087
+oomlout_bolt_md5_6_first_3_upper: 087
+oomlout_bolt_md5_6_last_3: ba7
+oomlout_bolt_md5_6_last_3_upper: BA7
+oomlout_bolt_name: Socket Cap M4X14 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc4b14h
+oomlout_short_code_upper: SC4B14H
 oomp_id: hardware_screw_socket_cap_m4_black_14_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m4_black_14_mm_length_hex_head
 oomp_word: scream computer guitar
@@ -183,12 +436,22 @@ price_1: '0.0341'
 price_100: '0.0341'
 price_1000: '0.0151'
 price_10000: '0.0151'
+price_10000_distributor_1: '0.0151'
 price_10000_distributor_orbital_fasteners: '0.0151'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0151'
 price_1000_distributor_orbital_fasteners: '0.0151'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0341'
 price_100_distributor_orbital_fasteners: '0.0341'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0341'
 price_1_distributor_orbital_fasteners: '0.0341'
+price_1_name: orbital_fasteners
 price_200: '0.019'
+price_200_distributor_1: '0.019'
 price_200_distributor_orbital_fasteners: '0.019'
+price_200_name: orbital_fasteners
 price_current: '0.019'
 quantity_current: '200'
 short_code: sc4b14h

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: actor
+bip_39_word_dash_10: actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner
+bip_39_word_dash_11: actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner-multiply
+bip_39_word_dash_12: actor-best-dolphin-wear-melt-render-come-swift-pumpkin-banner-multiply-any
+bip_39_word_dash_2: actor-best
+bip_39_word_dash_3: actor-best-dolphin
+bip_39_word_dash_4: actor-best-dolphin-wear
+bip_39_word_dash_5: actor-best-dolphin-wear-melt
+bip_39_word_dash_6: actor-best-dolphin-wear-melt-render
+bip_39_word_dash_7: actor-best-dolphin-wear-melt-render-come
+bip_39_word_dash_8: actor-best-dolphin-wear-melt-render-come-swift
+bip_39_word_dash_9: actor-best-dolphin-wear-melt-render-come-swift-pumpkin
+bip_39_word_new_br_1: actor
+bip_39_word_new_br_10: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner
+bip_39_word_new_br_11: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply
+bip_39_word_new_br_12: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin<br>banner<br>multiply<br>any
+bip_39_word_new_br_2: actor<br>best
+bip_39_word_new_br_3: actor<br>best<br>dolphin
+bip_39_word_new_br_4: actor<br>best<br>dolphin<br>wear
+bip_39_word_new_br_5: actor<br>best<br>dolphin<br>wear<br>melt
+bip_39_word_new_br_6: actor<br>best<br>dolphin<br>wear<br>melt<br>render
+bip_39_word_new_br_7: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come
+bip_39_word_new_br_8: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift
+bip_39_word_new_br_9: actor<br>best<br>dolphin<br>wear<br>melt<br>render<br>come<br>swift<br>pumpkin
+bip_39_word_new_line_1: actor
+bip_39_word_new_line_10: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come
+
+  swift
+
+  pumpkin
+
+  banner'
+bip_39_word_new_line_11: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come
+
+  swift
+
+  pumpkin
+
+  banner
+
+  multiply'
+bip_39_word_new_line_12: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come
+
+  swift
+
+  pumpkin
+
+  banner
+
+  multiply
+
+  any'
+bip_39_word_new_line_2: 'actor
+
+  best'
+bip_39_word_new_line_3: 'actor
+
+  best
+
+  dolphin'
+bip_39_word_new_line_4: 'actor
+
+  best
+
+  dolphin
+
+  wear'
+bip_39_word_new_line_5: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt'
+bip_39_word_new_line_6: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render'
+bip_39_word_new_line_7: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come'
+bip_39_word_new_line_8: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come
+
+  swift'
+bip_39_word_new_line_9: 'actor
+
+  best
+
+  dolphin
+
+  wear
+
+  melt
+
+  render
+
+  come
+
+  swift
+
+  pumpkin'
+bip_39_word_no_space_1: actor
+bip_39_word_no_space_10: actorbestdolphinwearmeltrendercomeswiftpumpkinbanner
+bip_39_word_no_space_11: actorbestdolphinwearmeltrendercomeswiftpumpkinbannermultiply
+bip_39_word_no_space_12: actorbestdolphinwearmeltrendercomeswiftpumpkinbannermultiplyany
+bip_39_word_no_space_2: actorbest
+bip_39_word_no_space_3: actorbestdolphin
+bip_39_word_no_space_4: actorbestdolphinwear
+bip_39_word_no_space_5: actorbestdolphinwearmelt
+bip_39_word_no_space_6: actorbestdolphinwearmeltrender
+bip_39_word_no_space_7: actorbestdolphinwearmeltrendercome
+bip_39_word_no_space_8: actorbestdolphinwearmeltrendercomeswift
+bip_39_word_no_space_9: actorbestdolphinwearmeltrendercomeswiftpumpkin
+bip_39_word_space_0:
+- actor
+- best
+- dolphin
+- wear
+- melt
+- render
+- come
+- swift
+- pumpkin
+- banner
+- multiply
+- any
+bip_39_word_space_1: actor
+bip_39_word_space_10: actor best dolphin wear melt render come swift pumpkin banner
+bip_39_word_space_11: actor best dolphin wear melt render come swift pumpkin banner
+  multiply
+bip_39_word_space_12: actor best dolphin wear melt render come swift pumpkin banner
+  multiply any
+bip_39_word_space_2: actor best
+bip_39_word_space_3: actor best dolphin
+bip_39_word_space_4: actor best dolphin wear
+bip_39_word_space_5: actor best dolphin wear melt
+bip_39_word_space_6: actor best dolphin wear melt render
+bip_39_word_space_7: actor best dolphin wear melt render come
+bip_39_word_space_8: actor best dolphin wear melt render come swift
+bip_39_word_space_9: actor best dolphin wear melt render come swift pumpkin
+bip_39_word_underscore_1: actor
+bip_39_word_underscore_10: actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner
+bip_39_word_underscore_11: actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner_multiply
+bip_39_word_underscore_12: actor_best_dolphin_wear_melt_render_come_swift_pumpkin_banner_multiply_any
+bip_39_word_underscore_2: actor_best
+bip_39_word_underscore_3: actor_best_dolphin
+bip_39_word_underscore_4: actor_best_dolphin_wear
+bip_39_word_underscore_5: actor_best_dolphin_wear_melt
+bip_39_word_underscore_6: actor_best_dolphin_wear_melt_render
+bip_39_word_underscore_7: actor_best_dolphin_wear_melt_render_come
+bip_39_word_underscore_8: actor_best_dolphin_wear_melt_render_come_swift
+bip_39_word_underscore_9: actor_best_dolphin_wear_melt_render_come_swift_pumpkin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 10_mm_length
 id_no_size: yellow_10_mm_length
 id_no_type: 101_6_mm_internal_diameter_yellow_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_yellow_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_yellow_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_yellow_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206d5fo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206d5fo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206d5fo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 10 mm Length
 name_no_size: Yellow 10 mm Length
 name_no_size_short: Yellow 10 Mm Length
 name_no_type: 101 6 mm Internal Diameter Yellow 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_yellow_10_mm_length
 oomp_word: pencil lips cookie
 oomp_word_emoji: ':pencil: :lips: :cookie:'

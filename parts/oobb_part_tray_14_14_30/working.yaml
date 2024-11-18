@@ -1,3 +1,222 @@
+bip_39_word_dash_1: raise
+bip_39_word_dash_10: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history
+bip_39_word_dash_11: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history-ball
+bip_39_word_dash_12: raise-swift-milk-fetch-spatial-minor-demise-grab-dune-history-ball-army
+bip_39_word_dash_2: raise-swift
+bip_39_word_dash_3: raise-swift-milk
+bip_39_word_dash_4: raise-swift-milk-fetch
+bip_39_word_dash_5: raise-swift-milk-fetch-spatial
+bip_39_word_dash_6: raise-swift-milk-fetch-spatial-minor
+bip_39_word_dash_7: raise-swift-milk-fetch-spatial-minor-demise
+bip_39_word_dash_8: raise-swift-milk-fetch-spatial-minor-demise-grab
+bip_39_word_dash_9: raise-swift-milk-fetch-spatial-minor-demise-grab-dune
+bip_39_word_new_br_1: raise
+bip_39_word_new_br_10: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history
+bip_39_word_new_br_11: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball
+bip_39_word_new_br_12: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune<br>history<br>ball<br>army
+bip_39_word_new_br_2: raise<br>swift
+bip_39_word_new_br_3: raise<br>swift<br>milk
+bip_39_word_new_br_4: raise<br>swift<br>milk<br>fetch
+bip_39_word_new_br_5: raise<br>swift<br>milk<br>fetch<br>spatial
+bip_39_word_new_br_6: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor
+bip_39_word_new_br_7: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise
+bip_39_word_new_br_8: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab
+bip_39_word_new_br_9: raise<br>swift<br>milk<br>fetch<br>spatial<br>minor<br>demise<br>grab<br>dune
+bip_39_word_new_line_1: raise
+bip_39_word_new_line_10: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise
+
+  grab
+
+  dune
+
+  history'
+bip_39_word_new_line_11: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise
+
+  grab
+
+  dune
+
+  history
+
+  ball'
+bip_39_word_new_line_12: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise
+
+  grab
+
+  dune
+
+  history
+
+  ball
+
+  army'
+bip_39_word_new_line_2: 'raise
+
+  swift'
+bip_39_word_new_line_3: 'raise
+
+  swift
+
+  milk'
+bip_39_word_new_line_4: 'raise
+
+  swift
+
+  milk
+
+  fetch'
+bip_39_word_new_line_5: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial'
+bip_39_word_new_line_6: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor'
+bip_39_word_new_line_7: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise'
+bip_39_word_new_line_8: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise
+
+  grab'
+bip_39_word_new_line_9: 'raise
+
+  swift
+
+  milk
+
+  fetch
+
+  spatial
+
+  minor
+
+  demise
+
+  grab
+
+  dune'
+bip_39_word_no_space_1: raise
+bip_39_word_no_space_10: raiseswiftmilkfetchspatialminordemisegrabdunehistory
+bip_39_word_no_space_11: raiseswiftmilkfetchspatialminordemisegrabdunehistoryball
+bip_39_word_no_space_12: raiseswiftmilkfetchspatialminordemisegrabdunehistoryballarmy
+bip_39_word_no_space_2: raiseswift
+bip_39_word_no_space_3: raiseswiftmilk
+bip_39_word_no_space_4: raiseswiftmilkfetch
+bip_39_word_no_space_5: raiseswiftmilkfetchspatial
+bip_39_word_no_space_6: raiseswiftmilkfetchspatialminor
+bip_39_word_no_space_7: raiseswiftmilkfetchspatialminordemise
+bip_39_word_no_space_8: raiseswiftmilkfetchspatialminordemisegrab
+bip_39_word_no_space_9: raiseswiftmilkfetchspatialminordemisegrabdune
+bip_39_word_space_0:
+- raise
+- swift
+- milk
+- fetch
+- spatial
+- minor
+- demise
+- grab
+- dune
+- history
+- ball
+- army
+bip_39_word_space_1: raise
+bip_39_word_space_10: raise swift milk fetch spatial minor demise grab dune history
+bip_39_word_space_11: raise swift milk fetch spatial minor demise grab dune history
+  ball
+bip_39_word_space_12: raise swift milk fetch spatial minor demise grab dune history
+  ball army
+bip_39_word_space_2: raise swift
+bip_39_word_space_3: raise swift milk
+bip_39_word_space_4: raise swift milk fetch
+bip_39_word_space_5: raise swift milk fetch spatial
+bip_39_word_space_6: raise swift milk fetch spatial minor
+bip_39_word_space_7: raise swift milk fetch spatial minor demise
+bip_39_word_space_8: raise swift milk fetch spatial minor demise grab
+bip_39_word_space_9: raise swift milk fetch spatial minor demise grab dune
+bip_39_word_underscore_1: raise
+bip_39_word_underscore_10: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history
+bip_39_word_underscore_11: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history_ball
+bip_39_word_underscore_12: raise_swift_milk_fetch_spatial_minor_demise_grab_dune_history_ball_army
+bip_39_word_underscore_2: raise_swift
+bip_39_word_underscore_3: raise_swift_milk
+bip_39_word_underscore_4: raise_swift_milk_fetch
+bip_39_word_underscore_5: raise_swift_milk_fetch_spatial
+bip_39_word_underscore_6: raise_swift_milk_fetch_spatial_minor
+bip_39_word_underscore_7: raise_swift_milk_fetch_spatial_minor_demise
+bip_39_word_underscore_8: raise_swift_milk_fetch_spatial_minor_demise_grab
+bip_39_word_underscore_9: raise_swift_milk_fetch_spatial_minor_demise_grab_dune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_14_14_30
 id_no_color: '141430'
 id_no_size: '14_14_30'
 id_no_type: tray_14_14_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_14_14_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_14_14_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_14_14_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207hw4b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207hw4b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207hw4b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141430'
 name_no_size: 14 14 30
 name_no_size_short: 14 14 30
 name_no_type: Tray 14 14 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_14_14_30
 oomp_word: bread kiss tent
 oomp_word_emoji: ':bread: :kiss: :tent:'

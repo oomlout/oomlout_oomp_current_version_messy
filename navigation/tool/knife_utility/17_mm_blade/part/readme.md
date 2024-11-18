@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Knife Utility 17 mm Blade
+* name_short: 
 ### id
 * oomp_id: tool_knife_utility_17_mm_blade
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :anger: :nine: :chestnut:
 * md5_6_alpha: qnor
 * md5_6: 12fa6b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20qnor)
+[2x1](http://192.168.1.242:1112/?label=oomp%20qnor)
+[6x4](http://192.168.1.55:1112/?label=oomp%20qnor)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_knife_utility_17_mm_blade)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ eye |
 | id_no_color | 17mmblade |  
 | id_no_size | 17mmblade |  
 | id_no_type | 17_mm_blade |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_knife_utility_17_mm_blade |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_knife_utility_17_mm_blade |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20qnor |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20qnor |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20qnor |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -282,6 +315,7 @@ eye |
 | name_no_size | 17mmblade |  
 | name_no_size_short | 17Mmblade |  
 | name_no_type | 17 mm Blade |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_knife_utility_17_mm_blade |  
 | oomp_word | anger nine chestnut |  
 | oomp_word_emoji | :anger: :nine: :chestnut: |  

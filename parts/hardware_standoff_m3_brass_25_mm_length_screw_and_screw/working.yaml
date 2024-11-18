@@ -1,3 +1,222 @@
+bip_39_word_dash_1: duck
+bip_39_word_dash_10: duck-city-sea-round-know-balcony-essence-blouse-divert-multiply
+bip_39_word_dash_11: duck-city-sea-round-know-balcony-essence-blouse-divert-multiply-estate
+bip_39_word_dash_12: duck-city-sea-round-know-balcony-essence-blouse-divert-multiply-estate-april
+bip_39_word_dash_2: duck-city
+bip_39_word_dash_3: duck-city-sea
+bip_39_word_dash_4: duck-city-sea-round
+bip_39_word_dash_5: duck-city-sea-round-know
+bip_39_word_dash_6: duck-city-sea-round-know-balcony
+bip_39_word_dash_7: duck-city-sea-round-know-balcony-essence
+bip_39_word_dash_8: duck-city-sea-round-know-balcony-essence-blouse
+bip_39_word_dash_9: duck-city-sea-round-know-balcony-essence-blouse-divert
+bip_39_word_new_br_1: duck
+bip_39_word_new_br_10: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply
+bip_39_word_new_br_11: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply<br>estate
+bip_39_word_new_br_12: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert<br>multiply<br>estate<br>april
+bip_39_word_new_br_2: duck<br>city
+bip_39_word_new_br_3: duck<br>city<br>sea
+bip_39_word_new_br_4: duck<br>city<br>sea<br>round
+bip_39_word_new_br_5: duck<br>city<br>sea<br>round<br>know
+bip_39_word_new_br_6: duck<br>city<br>sea<br>round<br>know<br>balcony
+bip_39_word_new_br_7: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence
+bip_39_word_new_br_8: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse
+bip_39_word_new_br_9: duck<br>city<br>sea<br>round<br>know<br>balcony<br>essence<br>blouse<br>divert
+bip_39_word_new_line_1: duck
+bip_39_word_new_line_10: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence
+
+  blouse
+
+  divert
+
+  multiply'
+bip_39_word_new_line_11: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence
+
+  blouse
+
+  divert
+
+  multiply
+
+  estate'
+bip_39_word_new_line_12: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence
+
+  blouse
+
+  divert
+
+  multiply
+
+  estate
+
+  april'
+bip_39_word_new_line_2: 'duck
+
+  city'
+bip_39_word_new_line_3: 'duck
+
+  city
+
+  sea'
+bip_39_word_new_line_4: 'duck
+
+  city
+
+  sea
+
+  round'
+bip_39_word_new_line_5: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know'
+bip_39_word_new_line_6: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony'
+bip_39_word_new_line_7: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence'
+bip_39_word_new_line_8: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence
+
+  blouse'
+bip_39_word_new_line_9: 'duck
+
+  city
+
+  sea
+
+  round
+
+  know
+
+  balcony
+
+  essence
+
+  blouse
+
+  divert'
+bip_39_word_no_space_1: duck
+bip_39_word_no_space_10: duckcitysearoundknowbalconyessenceblousedivertmultiply
+bip_39_word_no_space_11: duckcitysearoundknowbalconyessenceblousedivertmultiplyestate
+bip_39_word_no_space_12: duckcitysearoundknowbalconyessenceblousedivertmultiplyestateapril
+bip_39_word_no_space_2: duckcity
+bip_39_word_no_space_3: duckcitysea
+bip_39_word_no_space_4: duckcitysearound
+bip_39_word_no_space_5: duckcitysearoundknow
+bip_39_word_no_space_6: duckcitysearoundknowbalcony
+bip_39_word_no_space_7: duckcitysearoundknowbalconyessence
+bip_39_word_no_space_8: duckcitysearoundknowbalconyessenceblouse
+bip_39_word_no_space_9: duckcitysearoundknowbalconyessenceblousedivert
+bip_39_word_space_0:
+- duck
+- city
+- sea
+- round
+- know
+- balcony
+- essence
+- blouse
+- divert
+- multiply
+- estate
+- april
+bip_39_word_space_1: duck
+bip_39_word_space_10: duck city sea round know balcony essence blouse divert multiply
+bip_39_word_space_11: duck city sea round know balcony essence blouse divert multiply
+  estate
+bip_39_word_space_12: duck city sea round know balcony essence blouse divert multiply
+  estate april
+bip_39_word_space_2: duck city
+bip_39_word_space_3: duck city sea
+bip_39_word_space_4: duck city sea round
+bip_39_word_space_5: duck city sea round know
+bip_39_word_space_6: duck city sea round know balcony
+bip_39_word_space_7: duck city sea round know balcony essence
+bip_39_word_space_8: duck city sea round know balcony essence blouse
+bip_39_word_space_9: duck city sea round know balcony essence blouse divert
+bip_39_word_underscore_1: duck
+bip_39_word_underscore_10: duck_city_sea_round_know_balcony_essence_blouse_divert_multiply
+bip_39_word_underscore_11: duck_city_sea_round_know_balcony_essence_blouse_divert_multiply_estate
+bip_39_word_underscore_12: duck_city_sea_round_know_balcony_essence_blouse_divert_multiply_estate_april
+bip_39_word_underscore_2: duck_city
+bip_39_word_underscore_3: duck_city_sea
+bip_39_word_underscore_4: duck_city_sea_round
+bip_39_word_underscore_5: duck_city_sea_round_know
+bip_39_word_underscore_6: duck_city_sea_round_know_balcony
+bip_39_word_underscore_7: duck_city_sea_round_know_balcony_essence
+bip_39_word_underscore_8: duck_city_sea_round_know_balcony_essence_blouse
+bip_39_word_underscore_9: duck_city_sea_round_know_balcony_essence_blouse_divert
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 25_mm_length_screw_and_screw
 id_no_size: brass_25_mm_length_screw_and_screw
 id_no_type: m3_brass_25_mm_length_screw_and_screw
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_25_mm_length_screw_and_screw
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_brass_25_mm_length_screw_and_screw
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_brass_25_mm_length_screw_and_screw
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206t9es
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206t9es
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206t9es
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,25 @@ name_no_color: 25 mm Length Screw And Screw
 name_no_size: Brass 25 mm Length Screw And Screw
 name_no_size_short: Brass 25 Mm Length Screw And Screw
 name_no_type: M3 Brass 25 mm Length Screw And Screw
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 6t9
+oomlout_bolt_md5_6_alpha_first_3_upper: 6T9
+oomlout_bolt_md5_6_alpha_last_3: es
+oomlout_bolt_md5_6_alpha_last_3_upper: ES
+oomlout_bolt_md5_6_first_3: ae9
+oomlout_bolt_md5_6_first_3_upper: AE9
+oomlout_bolt_md5_6_last_3: ae4
+oomlout_bolt_md5_6_last_3_upper: AE4
+oomlout_bolt_name: ' M3X25 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3br25ss
+oomlout_short_code_upper: SO3BR25SS
 oomp_key: oomp_hardware_standoff_m3_brass_25_mm_length_screw_and_screw
 oomp_word: jeans golf anchor
 oomp_word_emoji: ':jeans: :golf: :anchor:'

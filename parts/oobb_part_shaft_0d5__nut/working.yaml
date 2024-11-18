@@ -1,3 +1,222 @@
+bip_39_word_dash_1: arrange
+bip_39_word_dash_10: arrange-follow-before-wool-loyal-include-like-boss-stay-music
+bip_39_word_dash_11: arrange-follow-before-wool-loyal-include-like-boss-stay-music-dove
+bip_39_word_dash_12: arrange-follow-before-wool-loyal-include-like-boss-stay-music-dove-ancient
+bip_39_word_dash_2: arrange-follow
+bip_39_word_dash_3: arrange-follow-before
+bip_39_word_dash_4: arrange-follow-before-wool
+bip_39_word_dash_5: arrange-follow-before-wool-loyal
+bip_39_word_dash_6: arrange-follow-before-wool-loyal-include
+bip_39_word_dash_7: arrange-follow-before-wool-loyal-include-like
+bip_39_word_dash_8: arrange-follow-before-wool-loyal-include-like-boss
+bip_39_word_dash_9: arrange-follow-before-wool-loyal-include-like-boss-stay
+bip_39_word_new_br_1: arrange
+bip_39_word_new_br_10: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music
+bip_39_word_new_br_11: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music<br>dove
+bip_39_word_new_br_12: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay<br>music<br>dove<br>ancient
+bip_39_word_new_br_2: arrange<br>follow
+bip_39_word_new_br_3: arrange<br>follow<br>before
+bip_39_word_new_br_4: arrange<br>follow<br>before<br>wool
+bip_39_word_new_br_5: arrange<br>follow<br>before<br>wool<br>loyal
+bip_39_word_new_br_6: arrange<br>follow<br>before<br>wool<br>loyal<br>include
+bip_39_word_new_br_7: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like
+bip_39_word_new_br_8: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss
+bip_39_word_new_br_9: arrange<br>follow<br>before<br>wool<br>loyal<br>include<br>like<br>boss<br>stay
+bip_39_word_new_line_1: arrange
+bip_39_word_new_line_10: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like
+
+  boss
+
+  stay
+
+  music'
+bip_39_word_new_line_11: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like
+
+  boss
+
+  stay
+
+  music
+
+  dove'
+bip_39_word_new_line_12: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like
+
+  boss
+
+  stay
+
+  music
+
+  dove
+
+  ancient'
+bip_39_word_new_line_2: 'arrange
+
+  follow'
+bip_39_word_new_line_3: 'arrange
+
+  follow
+
+  before'
+bip_39_word_new_line_4: 'arrange
+
+  follow
+
+  before
+
+  wool'
+bip_39_word_new_line_5: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal'
+bip_39_word_new_line_6: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include'
+bip_39_word_new_line_7: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like'
+bip_39_word_new_line_8: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like
+
+  boss'
+bip_39_word_new_line_9: 'arrange
+
+  follow
+
+  before
+
+  wool
+
+  loyal
+
+  include
+
+  like
+
+  boss
+
+  stay'
+bip_39_word_no_space_1: arrange
+bip_39_word_no_space_10: arrangefollowbeforewoolloyalincludelikebossstaymusic
+bip_39_word_no_space_11: arrangefollowbeforewoolloyalincludelikebossstaymusicdove
+bip_39_word_no_space_12: arrangefollowbeforewoolloyalincludelikebossstaymusicdoveancient
+bip_39_word_no_space_2: arrangefollow
+bip_39_word_no_space_3: arrangefollowbefore
+bip_39_word_no_space_4: arrangefollowbeforewool
+bip_39_word_no_space_5: arrangefollowbeforewoolloyal
+bip_39_word_no_space_6: arrangefollowbeforewoolloyalinclude
+bip_39_word_no_space_7: arrangefollowbeforewoolloyalincludelike
+bip_39_word_no_space_8: arrangefollowbeforewoolloyalincludelikeboss
+bip_39_word_no_space_9: arrangefollowbeforewoolloyalincludelikebossstay
+bip_39_word_space_0:
+- arrange
+- follow
+- before
+- wool
+- loyal
+- include
+- like
+- boss
+- stay
+- music
+- dove
+- ancient
+bip_39_word_space_1: arrange
+bip_39_word_space_10: arrange follow before wool loyal include like boss stay music
+bip_39_word_space_11: arrange follow before wool loyal include like boss stay music
+  dove
+bip_39_word_space_12: arrange follow before wool loyal include like boss stay music
+  dove ancient
+bip_39_word_space_2: arrange follow
+bip_39_word_space_3: arrange follow before
+bip_39_word_space_4: arrange follow before wool
+bip_39_word_space_5: arrange follow before wool loyal
+bip_39_word_space_6: arrange follow before wool loyal include
+bip_39_word_space_7: arrange follow before wool loyal include like
+bip_39_word_space_8: arrange follow before wool loyal include like boss
+bip_39_word_space_9: arrange follow before wool loyal include like boss stay
+bip_39_word_underscore_1: arrange
+bip_39_word_underscore_10: arrange_follow_before_wool_loyal_include_like_boss_stay_music
+bip_39_word_underscore_11: arrange_follow_before_wool_loyal_include_like_boss_stay_music_dove
+bip_39_word_underscore_12: arrange_follow_before_wool_loyal_include_like_boss_stay_music_dove_ancient
+bip_39_word_underscore_2: arrange_follow
+bip_39_word_underscore_3: arrange_follow_before
+bip_39_word_underscore_4: arrange_follow_before_wool
+bip_39_word_underscore_5: arrange_follow_before_wool_loyal
+bip_39_word_underscore_6: arrange_follow_before_wool_loyal_include
+bip_39_word_underscore_7: arrange_follow_before_wool_loyal_include_like
+bip_39_word_underscore_8: arrange_follow_before_wool_loyal_include_like_boss
+bip_39_word_underscore_9: arrange_follow_before_wool_loyal_include_like_boss_stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_0d5__nut
 id_no_color: 0d5nut
 id_no_size: 0d5__nut
 id_no_type: shaft_0d5__nut
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_0d5__nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5__nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_0d5__nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205br8k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205br8k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205br8k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0D5Nut
 name_no_size: 0D5  Nut
 name_no_size_short: 0D5  Nut
 name_no_type: Shaft 0D5  Nut
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_0d5__nut
 oomp_word: wrench lock book
 oomp_word_emoji: ':wrench: :lock: :book:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Essop 10 Converter USB To Serial Converter Wch Ch340K
+* name_short: 
 ### id
 * oomp_id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
   * classification: electronic

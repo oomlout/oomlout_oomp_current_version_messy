@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Circle 60 Ml Heavy Duty Satco
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_circle_60_ml_heavy_duty_satco
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :blossom: :heart: :computer:
 * md5_6_alpha: 47rzv
 * md5_6: 6c0d7b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2047rzv)
+[2x1](http://192.168.1.242:1112/?label=oomp%2047rzv)
+[6x4](http://192.168.1.55:1112/?label=oomp%2047rzv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ cube |
 | id_no_color | heavydutysatco |  
 | id_no_size | heavy_duty_satco |  
 | id_no_type | 60_ml_heavy_duty_satco |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2047rzv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2047rzv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2047rzv |  
 | manufacturer | satco |  
 | manufacturer_capital | Satco |  
 | manufacturer_first_letter | s |  
@@ -304,6 +337,7 @@ cube |
 | name_no_size | Heavy Duty Satco |  
 | name_no_size_short | Heavy Duty Satco |  
 | name_no_type | 60 Ml Heavy Duty Satco |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc60 |  
 | oomlout_short_code_upper | TCC60 |  
 | oomp_key | oomp_packaging_takeaway_container_circle_60_ml_heavy_duty_satco |  

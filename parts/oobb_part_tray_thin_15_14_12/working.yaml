@@ -1,3 +1,222 @@
+bip_39_word_dash_1: minor
+bip_39_word_dash_10: minor-limit-total-humble-legend-random-choose-must-notice-useful
+bip_39_word_dash_11: minor-limit-total-humble-legend-random-choose-must-notice-useful-erosion
+bip_39_word_dash_12: minor-limit-total-humble-legend-random-choose-must-notice-useful-erosion-annual
+bip_39_word_dash_2: minor-limit
+bip_39_word_dash_3: minor-limit-total
+bip_39_word_dash_4: minor-limit-total-humble
+bip_39_word_dash_5: minor-limit-total-humble-legend
+bip_39_word_dash_6: minor-limit-total-humble-legend-random
+bip_39_word_dash_7: minor-limit-total-humble-legend-random-choose
+bip_39_word_dash_8: minor-limit-total-humble-legend-random-choose-must
+bip_39_word_dash_9: minor-limit-total-humble-legend-random-choose-must-notice
+bip_39_word_new_br_1: minor
+bip_39_word_new_br_10: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful
+bip_39_word_new_br_11: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion
+bip_39_word_new_br_12: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice<br>useful<br>erosion<br>annual
+bip_39_word_new_br_2: minor<br>limit
+bip_39_word_new_br_3: minor<br>limit<br>total
+bip_39_word_new_br_4: minor<br>limit<br>total<br>humble
+bip_39_word_new_br_5: minor<br>limit<br>total<br>humble<br>legend
+bip_39_word_new_br_6: minor<br>limit<br>total<br>humble<br>legend<br>random
+bip_39_word_new_br_7: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose
+bip_39_word_new_br_8: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must
+bip_39_word_new_br_9: minor<br>limit<br>total<br>humble<br>legend<br>random<br>choose<br>must<br>notice
+bip_39_word_new_line_1: minor
+bip_39_word_new_line_10: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose
+
+  must
+
+  notice
+
+  useful'
+bip_39_word_new_line_11: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose
+
+  must
+
+  notice
+
+  useful
+
+  erosion'
+bip_39_word_new_line_12: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose
+
+  must
+
+  notice
+
+  useful
+
+  erosion
+
+  annual'
+bip_39_word_new_line_2: 'minor
+
+  limit'
+bip_39_word_new_line_3: 'minor
+
+  limit
+
+  total'
+bip_39_word_new_line_4: 'minor
+
+  limit
+
+  total
+
+  humble'
+bip_39_word_new_line_5: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend'
+bip_39_word_new_line_6: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random'
+bip_39_word_new_line_7: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose'
+bip_39_word_new_line_8: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose
+
+  must'
+bip_39_word_new_line_9: 'minor
+
+  limit
+
+  total
+
+  humble
+
+  legend
+
+  random
+
+  choose
+
+  must
+
+  notice'
+bip_39_word_no_space_1: minor
+bip_39_word_no_space_10: minorlimittotalhumblelegendrandomchoosemustnoticeuseful
+bip_39_word_no_space_11: minorlimittotalhumblelegendrandomchoosemustnoticeusefulerosion
+bip_39_word_no_space_12: minorlimittotalhumblelegendrandomchoosemustnoticeusefulerosionannual
+bip_39_word_no_space_2: minorlimit
+bip_39_word_no_space_3: minorlimittotal
+bip_39_word_no_space_4: minorlimittotalhumble
+bip_39_word_no_space_5: minorlimittotalhumblelegend
+bip_39_word_no_space_6: minorlimittotalhumblelegendrandom
+bip_39_word_no_space_7: minorlimittotalhumblelegendrandomchoose
+bip_39_word_no_space_8: minorlimittotalhumblelegendrandomchoosemust
+bip_39_word_no_space_9: minorlimittotalhumblelegendrandomchoosemustnotice
+bip_39_word_space_0:
+- minor
+- limit
+- total
+- humble
+- legend
+- random
+- choose
+- must
+- notice
+- useful
+- erosion
+- annual
+bip_39_word_space_1: minor
+bip_39_word_space_10: minor limit total humble legend random choose must notice useful
+bip_39_word_space_11: minor limit total humble legend random choose must notice useful
+  erosion
+bip_39_word_space_12: minor limit total humble legend random choose must notice useful
+  erosion annual
+bip_39_word_space_2: minor limit
+bip_39_word_space_3: minor limit total
+bip_39_word_space_4: minor limit total humble
+bip_39_word_space_5: minor limit total humble legend
+bip_39_word_space_6: minor limit total humble legend random
+bip_39_word_space_7: minor limit total humble legend random choose
+bip_39_word_space_8: minor limit total humble legend random choose must
+bip_39_word_space_9: minor limit total humble legend random choose must notice
+bip_39_word_underscore_1: minor
+bip_39_word_underscore_10: minor_limit_total_humble_legend_random_choose_must_notice_useful
+bip_39_word_underscore_11: minor_limit_total_humble_legend_random_choose_must_notice_useful_erosion
+bip_39_word_underscore_12: minor_limit_total_humble_legend_random_choose_must_notice_useful_erosion_annual
+bip_39_word_underscore_2: minor_limit
+bip_39_word_underscore_3: minor_limit_total
+bip_39_word_underscore_4: minor_limit_total_humble
+bip_39_word_underscore_5: minor_limit_total_humble_legend
+bip_39_word_underscore_6: minor_limit_total_humble_legend_random
+bip_39_word_underscore_7: minor_limit_total_humble_legend_random_choose
+bip_39_word_underscore_8: minor_limit_total_humble_legend_random_choose_must
+bip_39_word_underscore_9: minor_limit_total_humble_legend_random_choose_must_notice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_14_12
 id_no_color: '151412'
 id_no_size: '15_14_12'
 id_no_type: tray_thin_15_14_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_14_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_14_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_14_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vji3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vji3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vji3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '151412'
 name_no_size: 15 14 12
 name_no_size_short: 15 14 12
 name_no_type: Tray Thin 15 14 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_14_12
 oomp_word: basketball bowling computer
 oomp_word_emoji: ':basketball: :bowling: :computer:'

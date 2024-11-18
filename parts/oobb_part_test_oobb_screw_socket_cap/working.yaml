@@ -1,3 +1,222 @@
+bip_39_word_dash_1: select
+bip_39_word_dash_10: select-example-east-salon-dry-letter-hint-gesture-dragon-peasant
+bip_39_word_dash_11: select-example-east-salon-dry-letter-hint-gesture-dragon-peasant-intact
+bip_39_word_dash_12: select-example-east-salon-dry-letter-hint-gesture-dragon-peasant-intact-arrest
+bip_39_word_dash_2: select-example
+bip_39_word_dash_3: select-example-east
+bip_39_word_dash_4: select-example-east-salon
+bip_39_word_dash_5: select-example-east-salon-dry
+bip_39_word_dash_6: select-example-east-salon-dry-letter
+bip_39_word_dash_7: select-example-east-salon-dry-letter-hint
+bip_39_word_dash_8: select-example-east-salon-dry-letter-hint-gesture
+bip_39_word_dash_9: select-example-east-salon-dry-letter-hint-gesture-dragon
+bip_39_word_new_br_1: select
+bip_39_word_new_br_10: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant
+bip_39_word_new_br_11: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact
+bip_39_word_new_br_12: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon<br>peasant<br>intact<br>arrest
+bip_39_word_new_br_2: select<br>example
+bip_39_word_new_br_3: select<br>example<br>east
+bip_39_word_new_br_4: select<br>example<br>east<br>salon
+bip_39_word_new_br_5: select<br>example<br>east<br>salon<br>dry
+bip_39_word_new_br_6: select<br>example<br>east<br>salon<br>dry<br>letter
+bip_39_word_new_br_7: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint
+bip_39_word_new_br_8: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture
+bip_39_word_new_br_9: select<br>example<br>east<br>salon<br>dry<br>letter<br>hint<br>gesture<br>dragon
+bip_39_word_new_line_1: select
+bip_39_word_new_line_10: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint
+
+  gesture
+
+  dragon
+
+  peasant'
+bip_39_word_new_line_11: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint
+
+  gesture
+
+  dragon
+
+  peasant
+
+  intact'
+bip_39_word_new_line_12: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint
+
+  gesture
+
+  dragon
+
+  peasant
+
+  intact
+
+  arrest'
+bip_39_word_new_line_2: 'select
+
+  example'
+bip_39_word_new_line_3: 'select
+
+  example
+
+  east'
+bip_39_word_new_line_4: 'select
+
+  example
+
+  east
+
+  salon'
+bip_39_word_new_line_5: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry'
+bip_39_word_new_line_6: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter'
+bip_39_word_new_line_7: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint'
+bip_39_word_new_line_8: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint
+
+  gesture'
+bip_39_word_new_line_9: 'select
+
+  example
+
+  east
+
+  salon
+
+  dry
+
+  letter
+
+  hint
+
+  gesture
+
+  dragon'
+bip_39_word_no_space_1: select
+bip_39_word_no_space_10: selectexampleeastsalondryletterhintgesturedragonpeasant
+bip_39_word_no_space_11: selectexampleeastsalondryletterhintgesturedragonpeasantintact
+bip_39_word_no_space_12: selectexampleeastsalondryletterhintgesturedragonpeasantintactarrest
+bip_39_word_no_space_2: selectexample
+bip_39_word_no_space_3: selectexampleeast
+bip_39_word_no_space_4: selectexampleeastsalon
+bip_39_word_no_space_5: selectexampleeastsalondry
+bip_39_word_no_space_6: selectexampleeastsalondryletter
+bip_39_word_no_space_7: selectexampleeastsalondryletterhint
+bip_39_word_no_space_8: selectexampleeastsalondryletterhintgesture
+bip_39_word_no_space_9: selectexampleeastsalondryletterhintgesturedragon
+bip_39_word_space_0:
+- select
+- example
+- east
+- salon
+- dry
+- letter
+- hint
+- gesture
+- dragon
+- peasant
+- intact
+- arrest
+bip_39_word_space_1: select
+bip_39_word_space_10: select example east salon dry letter hint gesture dragon peasant
+bip_39_word_space_11: select example east salon dry letter hint gesture dragon peasant
+  intact
+bip_39_word_space_12: select example east salon dry letter hint gesture dragon peasant
+  intact arrest
+bip_39_word_space_2: select example
+bip_39_word_space_3: select example east
+bip_39_word_space_4: select example east salon
+bip_39_word_space_5: select example east salon dry
+bip_39_word_space_6: select example east salon dry letter
+bip_39_word_space_7: select example east salon dry letter hint
+bip_39_word_space_8: select example east salon dry letter hint gesture
+bip_39_word_space_9: select example east salon dry letter hint gesture dragon
+bip_39_word_underscore_1: select
+bip_39_word_underscore_10: select_example_east_salon_dry_letter_hint_gesture_dragon_peasant
+bip_39_word_underscore_11: select_example_east_salon_dry_letter_hint_gesture_dragon_peasant_intact
+bip_39_word_underscore_12: select_example_east_salon_dry_letter_hint_gesture_dragon_peasant_intact_arrest
+bip_39_word_underscore_2: select_example
+bip_39_word_underscore_3: select_example_east
+bip_39_word_underscore_4: select_example_east_salon
+bip_39_word_underscore_5: select_example_east_salon_dry
+bip_39_word_underscore_6: select_example_east_salon_dry_letter
+bip_39_word_underscore_7: select_example_east_salon_dry_letter_hint
+bip_39_word_underscore_8: select_example_east_salon_dry_letter_hint_gesture
+bip_39_word_underscore_9: select_example_east_salon_dry_letter_hint_gesture_dragon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_test_screw_socket_cap
 id_no_color: screwsocketcap
 id_no_size: screw_socket_cap
 id_no_type: test_screw_socket_cap
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_socket_cap
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207rew8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207rew8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207rew8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Screwsocketcap
 name_no_size: Screw Socket Cap
 name_no_size_short: Screw Socket Cap
 name_no_type: Test Screw Socket Cap
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_test_oobb_screw_socket_cap
 oomp_word: lollipop car tongue
 oomp_word_emoji: ':lollipop: :car: :tongue:'

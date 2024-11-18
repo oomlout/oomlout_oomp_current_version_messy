@@ -1,3 +1,221 @@
+bip_39_word_dash_1: cactus
+bip_39_word_dash_10: cactus-media-federal-mind-weasel-swim-firm-spring-fly-want
+bip_39_word_dash_11: cactus-media-federal-mind-weasel-swim-firm-spring-fly-want-silk
+bip_39_word_dash_12: cactus-media-federal-mind-weasel-swim-firm-spring-fly-want-silk-addict
+bip_39_word_dash_2: cactus-media
+bip_39_word_dash_3: cactus-media-federal
+bip_39_word_dash_4: cactus-media-federal-mind
+bip_39_word_dash_5: cactus-media-federal-mind-weasel
+bip_39_word_dash_6: cactus-media-federal-mind-weasel-swim
+bip_39_word_dash_7: cactus-media-federal-mind-weasel-swim-firm
+bip_39_word_dash_8: cactus-media-federal-mind-weasel-swim-firm-spring
+bip_39_word_dash_9: cactus-media-federal-mind-weasel-swim-firm-spring-fly
+bip_39_word_new_br_1: cactus
+bip_39_word_new_br_10: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want
+bip_39_word_new_br_11: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want<br>silk
+bip_39_word_new_br_12: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly<br>want<br>silk<br>addict
+bip_39_word_new_br_2: cactus<br>media
+bip_39_word_new_br_3: cactus<br>media<br>federal
+bip_39_word_new_br_4: cactus<br>media<br>federal<br>mind
+bip_39_word_new_br_5: cactus<br>media<br>federal<br>mind<br>weasel
+bip_39_word_new_br_6: cactus<br>media<br>federal<br>mind<br>weasel<br>swim
+bip_39_word_new_br_7: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm
+bip_39_word_new_br_8: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring
+bip_39_word_new_br_9: cactus<br>media<br>federal<br>mind<br>weasel<br>swim<br>firm<br>spring<br>fly
+bip_39_word_new_line_1: cactus
+bip_39_word_new_line_10: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm
+
+  spring
+
+  fly
+
+  want'
+bip_39_word_new_line_11: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm
+
+  spring
+
+  fly
+
+  want
+
+  silk'
+bip_39_word_new_line_12: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm
+
+  spring
+
+  fly
+
+  want
+
+  silk
+
+  addict'
+bip_39_word_new_line_2: 'cactus
+
+  media'
+bip_39_word_new_line_3: 'cactus
+
+  media
+
+  federal'
+bip_39_word_new_line_4: 'cactus
+
+  media
+
+  federal
+
+  mind'
+bip_39_word_new_line_5: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel'
+bip_39_word_new_line_6: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim'
+bip_39_word_new_line_7: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm'
+bip_39_word_new_line_8: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm
+
+  spring'
+bip_39_word_new_line_9: 'cactus
+
+  media
+
+  federal
+
+  mind
+
+  weasel
+
+  swim
+
+  firm
+
+  spring
+
+  fly'
+bip_39_word_no_space_1: cactus
+bip_39_word_no_space_10: cactusmediafederalmindweaselswimfirmspringflywant
+bip_39_word_no_space_11: cactusmediafederalmindweaselswimfirmspringflywantsilk
+bip_39_word_no_space_12: cactusmediafederalmindweaselswimfirmspringflywantsilkaddict
+bip_39_word_no_space_2: cactusmedia
+bip_39_word_no_space_3: cactusmediafederal
+bip_39_word_no_space_4: cactusmediafederalmind
+bip_39_word_no_space_5: cactusmediafederalmindweasel
+bip_39_word_no_space_6: cactusmediafederalmindweaselswim
+bip_39_word_no_space_7: cactusmediafederalmindweaselswimfirm
+bip_39_word_no_space_8: cactusmediafederalmindweaselswimfirmspring
+bip_39_word_no_space_9: cactusmediafederalmindweaselswimfirmspringfly
+bip_39_word_space_0:
+- cactus
+- media
+- federal
+- mind
+- weasel
+- swim
+- firm
+- spring
+- fly
+- want
+- silk
+- addict
+bip_39_word_space_1: cactus
+bip_39_word_space_10: cactus media federal mind weasel swim firm spring fly want
+bip_39_word_space_11: cactus media federal mind weasel swim firm spring fly want silk
+bip_39_word_space_12: cactus media federal mind weasel swim firm spring fly want silk
+  addict
+bip_39_word_space_2: cactus media
+bip_39_word_space_3: cactus media federal
+bip_39_word_space_4: cactus media federal mind
+bip_39_word_space_5: cactus media federal mind weasel
+bip_39_word_space_6: cactus media federal mind weasel swim
+bip_39_word_space_7: cactus media federal mind weasel swim firm
+bip_39_word_space_8: cactus media federal mind weasel swim firm spring
+bip_39_word_space_9: cactus media federal mind weasel swim firm spring fly
+bip_39_word_underscore_1: cactus
+bip_39_word_underscore_10: cactus_media_federal_mind_weasel_swim_firm_spring_fly_want
+bip_39_word_underscore_11: cactus_media_federal_mind_weasel_swim_firm_spring_fly_want_silk
+bip_39_word_underscore_12: cactus_media_federal_mind_weasel_swim_firm_spring_fly_want_silk_addict
+bip_39_word_underscore_2: cactus_media
+bip_39_word_underscore_3: cactus_media_federal
+bip_39_word_underscore_4: cactus_media_federal_mind
+bip_39_word_underscore_5: cactus_media_federal_mind_weasel
+bip_39_word_underscore_6: cactus_media_federal_mind_weasel_swim
+bip_39_word_underscore_7: cactus_media_federal_mind_weasel_swim_firm
+bip_39_word_underscore_8: cactus_media_federal_mind_weasel_swim_firm_spring
+bip_39_word_underscore_9: cactus_media_federal_mind_weasel_swim_firm_spring_fly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_11_09_27
 id_no_color: '110927'
 id_no_size: '11_09_27'
 id_no_type: tray_thin_11_09_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_09_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20238sd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20238sd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20238sd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '110927'
 name_no_size: 11 09 27
 name_no_size_short: 11 09 27
 name_no_type: Tray Thin 11 09 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_09_27
 oomp_word: hamster pushpin cow
 oomp_word_emoji: ':hamster: :pushpin: :cow:'

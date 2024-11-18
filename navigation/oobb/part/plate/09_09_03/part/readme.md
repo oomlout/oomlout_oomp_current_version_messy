@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 09 09 03
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_09_09_03
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :blossom: :shell: :two:
 * md5_6_alpha: 48b1v
 * md5_6: 6c6df3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2048b1v)
+[2x1](http://192.168.1.242:1112/?label=oomp%2048b1v)
+[6x4](http://192.168.1.55:1112/?label=oomp%2048b1v)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_09_03) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_09_03)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ gentle |
 | id_no_color | 090903 |  
 | id_no_size | 09_09_03 |  
 | id_no_type | plate_09_09_03 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_09_03 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_09_03 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_09_03 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2048b1v |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2048b1v |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2048b1v |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ gentle |
 | name_no_size | 09 09 03 |  
 | name_no_size_short | 09 09 03 |  
 | name_no_type | Plate 09 09 03 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_09_09_03 |  
 | oomp_word | blossom shell two |  
 | oomp_word_emoji | :blossom: :shell: :two: |  

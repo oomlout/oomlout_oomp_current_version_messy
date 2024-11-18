@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bolt Hardware Bolt M5 25
+* name_short: 
 ### id
 * oomp_id: oobb_part_bolt_hardware_bolt_m5_25
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :scroll: :boat: :baseball:
 * md5_6_alpha: 5jamv
 * md5_6: 8de197
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205jamv)
+[2x1](http://192.168.1.242:1112/?label=oomp%205jamv)
+[6x4](http://192.168.1.55:1112/?label=oomp%205jamv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ alter |
 | id_no_color | hardwarem525 |  
 | id_no_size | hardware_m5_25 |  
 | id_no_type | bolt_hardware_bolt_m5_25 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_25 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205jamv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205jamv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205jamv |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ alter |
 | name_no_size | Hardware M5 25 |  
 | name_no_size_short | Hardware M5 25 |  
 | name_no_type | Bolt Hardware Bolt M5 25 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bolt_hardware_bolt_m5_25 |  
 | oomp_word | scroll boat baseball |  
 | oomp_word_emoji | :scroll: :boat: :baseball: |  

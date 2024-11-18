@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lemon
+bip_39_word_dash_10: lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear
+bip_39_word_dash_11: lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear-drum
+bip_39_word_dash_12: lemon-mystery-grid-brush-attend-make-pipe-turkey-proof-appear-drum-amateur
+bip_39_word_dash_2: lemon-mystery
+bip_39_word_dash_3: lemon-mystery-grid
+bip_39_word_dash_4: lemon-mystery-grid-brush
+bip_39_word_dash_5: lemon-mystery-grid-brush-attend
+bip_39_word_dash_6: lemon-mystery-grid-brush-attend-make
+bip_39_word_dash_7: lemon-mystery-grid-brush-attend-make-pipe
+bip_39_word_dash_8: lemon-mystery-grid-brush-attend-make-pipe-turkey
+bip_39_word_dash_9: lemon-mystery-grid-brush-attend-make-pipe-turkey-proof
+bip_39_word_new_br_1: lemon
+bip_39_word_new_br_10: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear
+bip_39_word_new_br_11: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear<br>drum
+bip_39_word_new_br_12: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof<br>appear<br>drum<br>amateur
+bip_39_word_new_br_2: lemon<br>mystery
+bip_39_word_new_br_3: lemon<br>mystery<br>grid
+bip_39_word_new_br_4: lemon<br>mystery<br>grid<br>brush
+bip_39_word_new_br_5: lemon<br>mystery<br>grid<br>brush<br>attend
+bip_39_word_new_br_6: lemon<br>mystery<br>grid<br>brush<br>attend<br>make
+bip_39_word_new_br_7: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe
+bip_39_word_new_br_8: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey
+bip_39_word_new_br_9: lemon<br>mystery<br>grid<br>brush<br>attend<br>make<br>pipe<br>turkey<br>proof
+bip_39_word_new_line_1: lemon
+bip_39_word_new_line_10: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe
+
+  turkey
+
+  proof
+
+  appear'
+bip_39_word_new_line_11: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe
+
+  turkey
+
+  proof
+
+  appear
+
+  drum'
+bip_39_word_new_line_12: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe
+
+  turkey
+
+  proof
+
+  appear
+
+  drum
+
+  amateur'
+bip_39_word_new_line_2: 'lemon
+
+  mystery'
+bip_39_word_new_line_3: 'lemon
+
+  mystery
+
+  grid'
+bip_39_word_new_line_4: 'lemon
+
+  mystery
+
+  grid
+
+  brush'
+bip_39_word_new_line_5: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend'
+bip_39_word_new_line_6: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make'
+bip_39_word_new_line_7: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe'
+bip_39_word_new_line_8: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe
+
+  turkey'
+bip_39_word_new_line_9: 'lemon
+
+  mystery
+
+  grid
+
+  brush
+
+  attend
+
+  make
+
+  pipe
+
+  turkey
+
+  proof'
+bip_39_word_no_space_1: lemon
+bip_39_word_no_space_10: lemonmysterygridbrushattendmakepipeturkeyproofappear
+bip_39_word_no_space_11: lemonmysterygridbrushattendmakepipeturkeyproofappeardrum
+bip_39_word_no_space_12: lemonmysterygridbrushattendmakepipeturkeyproofappeardrumamateur
+bip_39_word_no_space_2: lemonmystery
+bip_39_word_no_space_3: lemonmysterygrid
+bip_39_word_no_space_4: lemonmysterygridbrush
+bip_39_word_no_space_5: lemonmysterygridbrushattend
+bip_39_word_no_space_6: lemonmysterygridbrushattendmake
+bip_39_word_no_space_7: lemonmysterygridbrushattendmakepipe
+bip_39_word_no_space_8: lemonmysterygridbrushattendmakepipeturkey
+bip_39_word_no_space_9: lemonmysterygridbrushattendmakepipeturkeyproof
+bip_39_word_space_0:
+- lemon
+- mystery
+- grid
+- brush
+- attend
+- make
+- pipe
+- turkey
+- proof
+- appear
+- drum
+- amateur
+bip_39_word_space_1: lemon
+bip_39_word_space_10: lemon mystery grid brush attend make pipe turkey proof appear
+bip_39_word_space_11: lemon mystery grid brush attend make pipe turkey proof appear
+  drum
+bip_39_word_space_12: lemon mystery grid brush attend make pipe turkey proof appear
+  drum amateur
+bip_39_word_space_2: lemon mystery
+bip_39_word_space_3: lemon mystery grid
+bip_39_word_space_4: lemon mystery grid brush
+bip_39_word_space_5: lemon mystery grid brush attend
+bip_39_word_space_6: lemon mystery grid brush attend make
+bip_39_word_space_7: lemon mystery grid brush attend make pipe
+bip_39_word_space_8: lemon mystery grid brush attend make pipe turkey
+bip_39_word_space_9: lemon mystery grid brush attend make pipe turkey proof
+bip_39_word_underscore_1: lemon
+bip_39_word_underscore_10: lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear
+bip_39_word_underscore_11: lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear_drum
+bip_39_word_underscore_12: lemon_mystery_grid_brush_attend_make_pipe_turkey_proof_appear_drum_amateur
+bip_39_word_underscore_2: lemon_mystery
+bip_39_word_underscore_3: lemon_mystery_grid
+bip_39_word_underscore_4: lemon_mystery_grid_brush
+bip_39_word_underscore_5: lemon_mystery_grid_brush_attend
+bip_39_word_underscore_6: lemon_mystery_grid_brush_attend_make
+bip_39_word_underscore_7: lemon_mystery_grid_brush_attend_make_pipe
+bip_39_word_underscore_8: lemon_mystery_grid_brush_attend_make_pipe_turkey
+bip_39_word_underscore_9: lemon_mystery_grid_brush_attend_make_pipe_turkey_proof
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -115,7 +334,14 @@ id_no_color: 15pinthroughholeshort
 id_no_size: 15_pin_through_hole_short
 id_no_type: 2_54_mm_15_pin_through_hole_short
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_short
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_short
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_15_pin_through_hole_short
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204s3ya
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204s3ya
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204s3ya
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -143,6 +369,7 @@ name_no_color: 15Pinthroughholeshort
 name_no_size: 15 Pin Through Hole Short
 name_no_size_short: 15 Pin Through Hole Short
 name_no_type: 2 54 mm 15 Pin Through Hole Short
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_15_pin_through_hole_short
 oomp_word: camera toilet blush
 oomp_word_emoji: ':camera: :toilet: :blush:'

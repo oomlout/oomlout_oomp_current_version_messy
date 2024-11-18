@@ -1,3 +1,222 @@
+bip_39_word_dash_1: either
+bip_39_word_dash_10: either-ramp-daring-divide-unable-voice-million-warm-auto-mystery
+bip_39_word_dash_11: either-ramp-daring-divide-unable-voice-million-warm-auto-mystery-verb
+bip_39_word_dash_12: either-ramp-daring-divide-unable-voice-million-warm-auto-mystery-verb-ability
+bip_39_word_dash_2: either-ramp
+bip_39_word_dash_3: either-ramp-daring
+bip_39_word_dash_4: either-ramp-daring-divide
+bip_39_word_dash_5: either-ramp-daring-divide-unable
+bip_39_word_dash_6: either-ramp-daring-divide-unable-voice
+bip_39_word_dash_7: either-ramp-daring-divide-unable-voice-million
+bip_39_word_dash_8: either-ramp-daring-divide-unable-voice-million-warm
+bip_39_word_dash_9: either-ramp-daring-divide-unable-voice-million-warm-auto
+bip_39_word_new_br_1: either
+bip_39_word_new_br_10: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery
+bip_39_word_new_br_11: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb
+bip_39_word_new_br_12: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto<br>mystery<br>verb<br>ability
+bip_39_word_new_br_2: either<br>ramp
+bip_39_word_new_br_3: either<br>ramp<br>daring
+bip_39_word_new_br_4: either<br>ramp<br>daring<br>divide
+bip_39_word_new_br_5: either<br>ramp<br>daring<br>divide<br>unable
+bip_39_word_new_br_6: either<br>ramp<br>daring<br>divide<br>unable<br>voice
+bip_39_word_new_br_7: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million
+bip_39_word_new_br_8: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm
+bip_39_word_new_br_9: either<br>ramp<br>daring<br>divide<br>unable<br>voice<br>million<br>warm<br>auto
+bip_39_word_new_line_1: either
+bip_39_word_new_line_10: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million
+
+  warm
+
+  auto
+
+  mystery'
+bip_39_word_new_line_11: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million
+
+  warm
+
+  auto
+
+  mystery
+
+  verb'
+bip_39_word_new_line_12: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million
+
+  warm
+
+  auto
+
+  mystery
+
+  verb
+
+  ability'
+bip_39_word_new_line_2: 'either
+
+  ramp'
+bip_39_word_new_line_3: 'either
+
+  ramp
+
+  daring'
+bip_39_word_new_line_4: 'either
+
+  ramp
+
+  daring
+
+  divide'
+bip_39_word_new_line_5: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable'
+bip_39_word_new_line_6: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice'
+bip_39_word_new_line_7: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million'
+bip_39_word_new_line_8: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million
+
+  warm'
+bip_39_word_new_line_9: 'either
+
+  ramp
+
+  daring
+
+  divide
+
+  unable
+
+  voice
+
+  million
+
+  warm
+
+  auto'
+bip_39_word_no_space_1: either
+bip_39_word_no_space_10: eitherrampdaringdivideunablevoicemillionwarmautomystery
+bip_39_word_no_space_11: eitherrampdaringdivideunablevoicemillionwarmautomysteryverb
+bip_39_word_no_space_12: eitherrampdaringdivideunablevoicemillionwarmautomysteryverbability
+bip_39_word_no_space_2: eitherramp
+bip_39_word_no_space_3: eitherrampdaring
+bip_39_word_no_space_4: eitherrampdaringdivide
+bip_39_word_no_space_5: eitherrampdaringdivideunable
+bip_39_word_no_space_6: eitherrampdaringdivideunablevoice
+bip_39_word_no_space_7: eitherrampdaringdivideunablevoicemillion
+bip_39_word_no_space_8: eitherrampdaringdivideunablevoicemillionwarm
+bip_39_word_no_space_9: eitherrampdaringdivideunablevoicemillionwarmauto
+bip_39_word_space_0:
+- either
+- ramp
+- daring
+- divide
+- unable
+- voice
+- million
+- warm
+- auto
+- mystery
+- verb
+- ability
+bip_39_word_space_1: either
+bip_39_word_space_10: either ramp daring divide unable voice million warm auto mystery
+bip_39_word_space_11: either ramp daring divide unable voice million warm auto mystery
+  verb
+bip_39_word_space_12: either ramp daring divide unable voice million warm auto mystery
+  verb ability
+bip_39_word_space_2: either ramp
+bip_39_word_space_3: either ramp daring
+bip_39_word_space_4: either ramp daring divide
+bip_39_word_space_5: either ramp daring divide unable
+bip_39_word_space_6: either ramp daring divide unable voice
+bip_39_word_space_7: either ramp daring divide unable voice million
+bip_39_word_space_8: either ramp daring divide unable voice million warm
+bip_39_word_space_9: either ramp daring divide unable voice million warm auto
+bip_39_word_underscore_1: either
+bip_39_word_underscore_10: either_ramp_daring_divide_unable_voice_million_warm_auto_mystery
+bip_39_word_underscore_11: either_ramp_daring_divide_unable_voice_million_warm_auto_mystery_verb
+bip_39_word_underscore_12: either_ramp_daring_divide_unable_voice_million_warm_auto_mystery_verb_ability
+bip_39_word_underscore_2: either_ramp
+bip_39_word_underscore_3: either_ramp_daring
+bip_39_word_underscore_4: either_ramp_daring_divide
+bip_39_word_underscore_5: either_ramp_daring_divide_unable
+bip_39_word_underscore_6: either_ramp_daring_divide_unable_voice
+bip_39_word_underscore_7: either_ramp_daring_divide_unable_voice_million
+bip_39_word_underscore_8: either_ramp_daring_divide_unable_voice_million_warm
+bip_39_word_underscore_9: either_ramp_daring_divide_unable_voice_million_warm_auto
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -111,7 +330,14 @@ id_no_color: 2x48pinthroughholerightangle
 id_no_size: 2x4_8_pin_through_hole_right_angle
 id_no_type: 2_54_mm_dual_row_2x4_8_pin_through_hole_right_angle
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole_right_angle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole_right_angle
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole_right_angle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205gys
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205gys
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205gys
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -139,6 +365,7 @@ name_no_color: 2X48Pinthroughholerightangle
 name_no_size: 2X4 8 Pin Through Hole Right Angle
 name_no_size_short: 2X4 8 Pin Through Hole Right Angle
 name_no_type: 2 54 mm Dual Row 2X4 8 Pin Through Hole Right Angle
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x4_8_pin_through_hole_right_angle
 oomp_word: grin rocket droplet
 oomp_word_emoji: ':grin: :rocket: :droplet:'

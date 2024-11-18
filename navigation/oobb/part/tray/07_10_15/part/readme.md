@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 07 10 15
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_07_10_15
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :train: :racehorse: :hatched_chick:
 * md5_6_alpha: 9dgzs
 * md5_6: f04048
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209dgzs)
+[2x1](http://192.168.1.242:1112/?label=oomp%209dgzs)
+[6x4](http://192.168.1.55:1112/?label=oomp%209dgzs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_15) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_15)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ scrap |
 | id_no_color | 071015 |  
 | id_no_size | 07_10_15 |  
 | id_no_type | tray_07_10_15 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_15 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_15 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_15 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209dgzs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209dgzs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209dgzs |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ scrap |
 | name_no_size | 07 10 15 |  
 | name_no_size_short | 07 10 15 |  
 | name_no_type | Tray 07 10 15 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_07_10_15 |  
 | oomp_word | train racehorse hatched_chick |  
 | oomp_word_emoji | :train: :racehorse: :hatched_chick: |  

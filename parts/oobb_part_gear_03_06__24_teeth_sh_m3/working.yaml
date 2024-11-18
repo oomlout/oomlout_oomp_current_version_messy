@@ -1,3 +1,221 @@
+bip_39_word_dash_1: output
+bip_39_word_dash_10: output-valid-host-glow-strike-pulp-actor-click-damp-sing
+bip_39_word_dash_11: output-valid-host-glow-strike-pulp-actor-click-damp-sing-impulse
+bip_39_word_dash_12: output-valid-host-glow-strike-pulp-actor-click-damp-sing-impulse-appear
+bip_39_word_dash_2: output-valid
+bip_39_word_dash_3: output-valid-host
+bip_39_word_dash_4: output-valid-host-glow
+bip_39_word_dash_5: output-valid-host-glow-strike
+bip_39_word_dash_6: output-valid-host-glow-strike-pulp
+bip_39_word_dash_7: output-valid-host-glow-strike-pulp-actor
+bip_39_word_dash_8: output-valid-host-glow-strike-pulp-actor-click
+bip_39_word_dash_9: output-valid-host-glow-strike-pulp-actor-click-damp
+bip_39_word_new_br_1: output
+bip_39_word_new_br_10: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing
+bip_39_word_new_br_11: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse
+bip_39_word_new_br_12: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp<br>sing<br>impulse<br>appear
+bip_39_word_new_br_2: output<br>valid
+bip_39_word_new_br_3: output<br>valid<br>host
+bip_39_word_new_br_4: output<br>valid<br>host<br>glow
+bip_39_word_new_br_5: output<br>valid<br>host<br>glow<br>strike
+bip_39_word_new_br_6: output<br>valid<br>host<br>glow<br>strike<br>pulp
+bip_39_word_new_br_7: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor
+bip_39_word_new_br_8: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click
+bip_39_word_new_br_9: output<br>valid<br>host<br>glow<br>strike<br>pulp<br>actor<br>click<br>damp
+bip_39_word_new_line_1: output
+bip_39_word_new_line_10: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor
+
+  click
+
+  damp
+
+  sing'
+bip_39_word_new_line_11: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor
+
+  click
+
+  damp
+
+  sing
+
+  impulse'
+bip_39_word_new_line_12: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor
+
+  click
+
+  damp
+
+  sing
+
+  impulse
+
+  appear'
+bip_39_word_new_line_2: 'output
+
+  valid'
+bip_39_word_new_line_3: 'output
+
+  valid
+
+  host'
+bip_39_word_new_line_4: 'output
+
+  valid
+
+  host
+
+  glow'
+bip_39_word_new_line_5: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike'
+bip_39_word_new_line_6: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp'
+bip_39_word_new_line_7: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor'
+bip_39_word_new_line_8: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor
+
+  click'
+bip_39_word_new_line_9: 'output
+
+  valid
+
+  host
+
+  glow
+
+  strike
+
+  pulp
+
+  actor
+
+  click
+
+  damp'
+bip_39_word_no_space_1: output
+bip_39_word_no_space_10: outputvalidhostglowstrikepulpactorclickdampsing
+bip_39_word_no_space_11: outputvalidhostglowstrikepulpactorclickdampsingimpulse
+bip_39_word_no_space_12: outputvalidhostglowstrikepulpactorclickdampsingimpulseappear
+bip_39_word_no_space_2: outputvalid
+bip_39_word_no_space_3: outputvalidhost
+bip_39_word_no_space_4: outputvalidhostglow
+bip_39_word_no_space_5: outputvalidhostglowstrike
+bip_39_word_no_space_6: outputvalidhostglowstrikepulp
+bip_39_word_no_space_7: outputvalidhostglowstrikepulpactor
+bip_39_word_no_space_8: outputvalidhostglowstrikepulpactorclick
+bip_39_word_no_space_9: outputvalidhostglowstrikepulpactorclickdamp
+bip_39_word_space_0:
+- output
+- valid
+- host
+- glow
+- strike
+- pulp
+- actor
+- click
+- damp
+- sing
+- impulse
+- appear
+bip_39_word_space_1: output
+bip_39_word_space_10: output valid host glow strike pulp actor click damp sing
+bip_39_word_space_11: output valid host glow strike pulp actor click damp sing impulse
+bip_39_word_space_12: output valid host glow strike pulp actor click damp sing impulse
+  appear
+bip_39_word_space_2: output valid
+bip_39_word_space_3: output valid host
+bip_39_word_space_4: output valid host glow
+bip_39_word_space_5: output valid host glow strike
+bip_39_word_space_6: output valid host glow strike pulp
+bip_39_word_space_7: output valid host glow strike pulp actor
+bip_39_word_space_8: output valid host glow strike pulp actor click
+bip_39_word_space_9: output valid host glow strike pulp actor click damp
+bip_39_word_underscore_1: output
+bip_39_word_underscore_10: output_valid_host_glow_strike_pulp_actor_click_damp_sing
+bip_39_word_underscore_11: output_valid_host_glow_strike_pulp_actor_click_damp_sing_impulse
+bip_39_word_underscore_12: output_valid_host_glow_strike_pulp_actor_click_damp_sing_impulse_appear
+bip_39_word_underscore_2: output_valid
+bip_39_word_underscore_3: output_valid_host
+bip_39_word_underscore_4: output_valid_host_glow
+bip_39_word_underscore_5: output_valid_host_glow_strike
+bip_39_word_underscore_6: output_valid_host_glow_strike_pulp
+bip_39_word_underscore_7: output_valid_host_glow_strike_pulp_actor
+bip_39_word_underscore_8: output_valid_host_glow_strike_pulp_actor_click
+bip_39_word_underscore_9: output_valid_host_glow_strike_pulp_actor_click_damp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_gear_03_06__24_teeth_sh_m3
 id_no_color: 030624teethshm3
 id_no_size: 03_06__24_teeth_sh_m3
 id_no_type: gear_03_06__24_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206l8j6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206l8j6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206l8j6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 030624Teethshm3
 name_no_size: 03 06  24 Teeth Sh M3
 name_no_size_short: 03 06  24 Teeth Sh M3
 name_no_type: Gear 03 06  24 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_03_06__24_teeth_sh_m3
 oomp_word: shoe anchor dolls
 oomp_word_emoji: ':shoe: :anchor: :dolls:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6900 Size 10 mm ID 22 mm OD 6 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :scream: :bug: :bus:
 * md5_6_alpha: bnxp
 * md5_6: 084ded
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20bnxp)
+[2x1](http://192.168.1.242:1112/?label=oomp%20bnxp)
+[6x4](http://192.168.1.55:1112/?label=oomp%20bnxp)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ skirt |
 | id_no_color | 10_mm_id_22_mm_od_6_mm_depth |  
 | id_no_size | 6900_size_10_mm_id_22_mm_od_6_mm_depth |  
 | id_no_type | 6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20bnxp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20bnxp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20bnxp |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ skirt |
 | name_no_size | 6900 Size 10 mm ID 22 mm OD 6 mm Depth |  
 | name_no_size_short | 6900 Size 10 Mm Id 22 Mm Od 6 Mm Depth |  
 | name_no_type | 6900 Series 6900 Size 10 mm ID 22 mm OD 6 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6900 |  
 | oomlout_short_code_upper | BR6900 |  
 | oomp_key | oomp_hardware_bearing_6900_series_6900_size_10_mm_id_22_mm_od_6_mm_depth |  

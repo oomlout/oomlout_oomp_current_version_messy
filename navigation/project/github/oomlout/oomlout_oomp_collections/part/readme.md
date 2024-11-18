@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Collections
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_collections
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :horse: :bell: :kiss:
 * md5_6_alpha: 2h5ib
 * md5_6: 3f7823
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202h5ib)
+[2x1](http://192.168.1.242:1112/?label=oomp%202h5ib)
+[6x4](http://192.168.1.55:1112/?label=oomp%202h5ib)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_collections) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_collections)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ style |
 | id_no_color | oomp_collections |  
 | id_no_size | oomp_collections |  
 | id_no_type | oomlout_oomlout_oomp_collections |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_collections |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_collections |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_collections |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202h5ib |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202h5ib |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202h5ib |  
 | link_redirect | https://github.com/oomlout/oomlout_OOMP_collections |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ style |
 | name_no_size | Oomp Collections |  
 | name_no_size_short | Oomp Collections |  
 | name_no_type | Oomlout Oomlout Oomp Collections |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_collections |  
 | oomp_word | horse bell kiss |  
 | oomp_word_emoji | :horse: :bell: :kiss: |  

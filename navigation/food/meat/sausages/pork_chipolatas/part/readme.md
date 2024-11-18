@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Select Farms British 12 Pork Chipolatas
 
+### name
+* name: Food Meat Sausages Pork Chipolatas
+* name_short: 
 ### id
 * oomp_id: food_meat_sausages_pork_chipolatas
   * classification: food
@@ -28,6 +31,29 @@ M&S Select Farms British 12 Pork Chipolatas
 * oomp_word_emoji :watermelon: :feet: :factory:
 * md5_6_alpha: 7yqjg
 * md5_6: cc21dc
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207yqjg)
+[2x1](http://192.168.1.242:1112/?label=oomp%207yqjg)
+[6x4](http://192.168.1.55:1112/?label=oomp%207yqjg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_sausages_pork_chipolatas)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,8 +308,15 @@ industry |
 | id_no_color | sausagesporkchipolatas |  
 | id_no_size | sausagesporkchipolatas |  
 | id_no_type | sausages_pork_chipolatas |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=523896011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_meat_sausages_pork_chipolatas |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207yqjg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207yqjg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207yqjg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ industry |
 | name_no_size | Sausagesporkchipolatas |  
 | name_no_size_short | Sausagesporkchipolatas |  
 | name_no_type | Sausages Pork Chipolatas |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_meat_sausages_pork_chipolatas |  
 | oomp_word | watermelon feet factory |  
 | oomp_word_emoji | :watermelon: :feet: :factory: |  

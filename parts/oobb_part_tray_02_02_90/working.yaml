@@ -1,3 +1,222 @@
+bip_39_word_dash_1: nation
+bip_39_word_dash_10: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park
+bip_39_word_dash_11: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park-disease
+bip_39_word_dash_12: nation-ski-buyer-skirt-party-fabric-remain-relief-letter-park-disease-amateur
+bip_39_word_dash_2: nation-ski
+bip_39_word_dash_3: nation-ski-buyer
+bip_39_word_dash_4: nation-ski-buyer-skirt
+bip_39_word_dash_5: nation-ski-buyer-skirt-party
+bip_39_word_dash_6: nation-ski-buyer-skirt-party-fabric
+bip_39_word_dash_7: nation-ski-buyer-skirt-party-fabric-remain
+bip_39_word_dash_8: nation-ski-buyer-skirt-party-fabric-remain-relief
+bip_39_word_dash_9: nation-ski-buyer-skirt-party-fabric-remain-relief-letter
+bip_39_word_new_br_1: nation
+bip_39_word_new_br_10: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park
+bip_39_word_new_br_11: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park<br>disease
+bip_39_word_new_br_12: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter<br>park<br>disease<br>amateur
+bip_39_word_new_br_2: nation<br>ski
+bip_39_word_new_br_3: nation<br>ski<br>buyer
+bip_39_word_new_br_4: nation<br>ski<br>buyer<br>skirt
+bip_39_word_new_br_5: nation<br>ski<br>buyer<br>skirt<br>party
+bip_39_word_new_br_6: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric
+bip_39_word_new_br_7: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain
+bip_39_word_new_br_8: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief
+bip_39_word_new_br_9: nation<br>ski<br>buyer<br>skirt<br>party<br>fabric<br>remain<br>relief<br>letter
+bip_39_word_new_line_1: nation
+bip_39_word_new_line_10: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain
+
+  relief
+
+  letter
+
+  park'
+bip_39_word_new_line_11: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain
+
+  relief
+
+  letter
+
+  park
+
+  disease'
+bip_39_word_new_line_12: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain
+
+  relief
+
+  letter
+
+  park
+
+  disease
+
+  amateur'
+bip_39_word_new_line_2: 'nation
+
+  ski'
+bip_39_word_new_line_3: 'nation
+
+  ski
+
+  buyer'
+bip_39_word_new_line_4: 'nation
+
+  ski
+
+  buyer
+
+  skirt'
+bip_39_word_new_line_5: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party'
+bip_39_word_new_line_6: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric'
+bip_39_word_new_line_7: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain'
+bip_39_word_new_line_8: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain
+
+  relief'
+bip_39_word_new_line_9: 'nation
+
+  ski
+
+  buyer
+
+  skirt
+
+  party
+
+  fabric
+
+  remain
+
+  relief
+
+  letter'
+bip_39_word_no_space_1: nation
+bip_39_word_no_space_10: nationskibuyerskirtpartyfabricremainreliefletterpark
+bip_39_word_no_space_11: nationskibuyerskirtpartyfabricremainreliefletterparkdisease
+bip_39_word_no_space_12: nationskibuyerskirtpartyfabricremainreliefletterparkdiseaseamateur
+bip_39_word_no_space_2: nationski
+bip_39_word_no_space_3: nationskibuyer
+bip_39_word_no_space_4: nationskibuyerskirt
+bip_39_word_no_space_5: nationskibuyerskirtparty
+bip_39_word_no_space_6: nationskibuyerskirtpartyfabric
+bip_39_word_no_space_7: nationskibuyerskirtpartyfabricremain
+bip_39_word_no_space_8: nationskibuyerskirtpartyfabricremainrelief
+bip_39_word_no_space_9: nationskibuyerskirtpartyfabricremainreliefletter
+bip_39_word_space_0:
+- nation
+- ski
+- buyer
+- skirt
+- party
+- fabric
+- remain
+- relief
+- letter
+- park
+- disease
+- amateur
+bip_39_word_space_1: nation
+bip_39_word_space_10: nation ski buyer skirt party fabric remain relief letter park
+bip_39_word_space_11: nation ski buyer skirt party fabric remain relief letter park
+  disease
+bip_39_word_space_12: nation ski buyer skirt party fabric remain relief letter park
+  disease amateur
+bip_39_word_space_2: nation ski
+bip_39_word_space_3: nation ski buyer
+bip_39_word_space_4: nation ski buyer skirt
+bip_39_word_space_5: nation ski buyer skirt party
+bip_39_word_space_6: nation ski buyer skirt party fabric
+bip_39_word_space_7: nation ski buyer skirt party fabric remain
+bip_39_word_space_8: nation ski buyer skirt party fabric remain relief
+bip_39_word_space_9: nation ski buyer skirt party fabric remain relief letter
+bip_39_word_underscore_1: nation
+bip_39_word_underscore_10: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park
+bip_39_word_underscore_11: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park_disease
+bip_39_word_underscore_12: nation_ski_buyer_skirt_party_fabric_remain_relief_letter_park_disease_amateur
+bip_39_word_underscore_2: nation_ski
+bip_39_word_underscore_3: nation_ski_buyer
+bip_39_word_underscore_4: nation_ski_buyer_skirt
+bip_39_word_underscore_5: nation_ski_buyer_skirt_party
+bip_39_word_underscore_6: nation_ski_buyer_skirt_party_fabric
+bip_39_word_underscore_7: nation_ski_buyer_skirt_party_fabric_remain
+bip_39_word_underscore_8: nation_ski_buyer_skirt_party_fabric_remain_relief
+bip_39_word_underscore_9: nation_ski_buyer_skirt_party_fabric_remain_relief_letter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_02_90
 id_no_color: 020290
 id_no_size: 02_02_90
 id_no_type: tray_02_02_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_02_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_02_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_02_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204s27c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204s27c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204s27c
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 020290
 name_no_size: 02 02 90
 name_no_size_short: 02 02 90
 name_no_type: Tray 02 02 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_02_90
 oomp_word: camera fax tongue
 oomp_word_emoji: ':camera: :fax: :tongue:'

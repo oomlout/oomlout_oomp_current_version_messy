@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Soft Tortilla Wraps
 
+### name
+* name: Food Bakery Tortilla Wrap Soft
+* name_short: 
 ### id
 * oomp_id: food_bakery_tortilla_wrap_soft
   * classification: food

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 5050 RGB Ws2812B Worldsemi Ws2812B B W
+* name_short: 
 ### id
 * oomp_id: electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
   * classification: electronic

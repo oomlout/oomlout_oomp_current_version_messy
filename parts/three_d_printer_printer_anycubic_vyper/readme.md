@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Three D Printer Printer Anycubic Vyper
+* name_short: 
 ### id
 * oomp_id: three_d_printer_printer_anycubic_vyper
   * classification: three_d_printer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clipboard: :ambulance: :ship:
 * md5_6_alpha: 5krts
 * md5_6: 8eeee0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205krts)
+[2x1](http://192.168.1.242:1112/?label=oomp%205krts)
+[6x4](http://192.168.1.55:1112/?label=oomp%205krts)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_anycubic_vyper)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ pride |
 | id_no_color | anycubicvyper |  
 | id_no_size | anycubicvyper |  
 | id_no_type | anycubic_vyper |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_anycubic_vyper |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205krts |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205krts |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205krts |  
 | manufacturer | anycubic |  
 | manufacturer_capital | Anycubic |  
 | manufacturer_first_letter | a |  
@@ -280,6 +313,7 @@ pride |
 | name_no_size | Anycubicvyper |  
 | name_no_size_short | Anycubicvyper |  
 | name_no_type | Anycubic Vyper |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_printer_anycubic_vyper |  
 | oomp_word | clipboard ambulance ship |  
 | oomp_word_emoji | :clipboard: :ambulance: :ship: |  

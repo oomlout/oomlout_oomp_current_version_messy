@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm Dual Row 2X40 80 Pin Through Hole Right Angle
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_dual_row_2x40_80_pin_through_hole_right_angle
   * classification: electronic

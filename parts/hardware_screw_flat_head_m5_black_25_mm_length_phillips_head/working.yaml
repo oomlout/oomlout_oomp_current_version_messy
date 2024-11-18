@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sugar
+bip_39_word_dash_10: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide
+bip_39_word_dash_11: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide-jazz
+bip_39_word_dash_12: sugar-attack-coffee-must-blanket-whale-poet-right-master-tide-jazz-actual
+bip_39_word_dash_2: sugar-attack
+bip_39_word_dash_3: sugar-attack-coffee
+bip_39_word_dash_4: sugar-attack-coffee-must
+bip_39_word_dash_5: sugar-attack-coffee-must-blanket
+bip_39_word_dash_6: sugar-attack-coffee-must-blanket-whale
+bip_39_word_dash_7: sugar-attack-coffee-must-blanket-whale-poet
+bip_39_word_dash_8: sugar-attack-coffee-must-blanket-whale-poet-right
+bip_39_word_dash_9: sugar-attack-coffee-must-blanket-whale-poet-right-master
+bip_39_word_new_br_1: sugar
+bip_39_word_new_br_10: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide
+bip_39_word_new_br_11: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide<br>jazz
+bip_39_word_new_br_12: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master<br>tide<br>jazz<br>actual
+bip_39_word_new_br_2: sugar<br>attack
+bip_39_word_new_br_3: sugar<br>attack<br>coffee
+bip_39_word_new_br_4: sugar<br>attack<br>coffee<br>must
+bip_39_word_new_br_5: sugar<br>attack<br>coffee<br>must<br>blanket
+bip_39_word_new_br_6: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale
+bip_39_word_new_br_7: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet
+bip_39_word_new_br_8: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right
+bip_39_word_new_br_9: sugar<br>attack<br>coffee<br>must<br>blanket<br>whale<br>poet<br>right<br>master
+bip_39_word_new_line_1: sugar
+bip_39_word_new_line_10: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet
+
+  right
+
+  master
+
+  tide'
+bip_39_word_new_line_11: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet
+
+  right
+
+  master
+
+  tide
+
+  jazz'
+bip_39_word_new_line_12: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet
+
+  right
+
+  master
+
+  tide
+
+  jazz
+
+  actual'
+bip_39_word_new_line_2: 'sugar
+
+  attack'
+bip_39_word_new_line_3: 'sugar
+
+  attack
+
+  coffee'
+bip_39_word_new_line_4: 'sugar
+
+  attack
+
+  coffee
+
+  must'
+bip_39_word_new_line_5: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket'
+bip_39_word_new_line_6: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale'
+bip_39_word_new_line_7: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet'
+bip_39_word_new_line_8: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet
+
+  right'
+bip_39_word_new_line_9: 'sugar
+
+  attack
+
+  coffee
+
+  must
+
+  blanket
+
+  whale
+
+  poet
+
+  right
+
+  master'
+bip_39_word_no_space_1: sugar
+bip_39_word_no_space_10: sugarattackcoffeemustblanketwhalepoetrightmastertide
+bip_39_word_no_space_11: sugarattackcoffeemustblanketwhalepoetrightmastertidejazz
+bip_39_word_no_space_12: sugarattackcoffeemustblanketwhalepoetrightmastertidejazzactual
+bip_39_word_no_space_2: sugarattack
+bip_39_word_no_space_3: sugarattackcoffee
+bip_39_word_no_space_4: sugarattackcoffeemust
+bip_39_word_no_space_5: sugarattackcoffeemustblanket
+bip_39_word_no_space_6: sugarattackcoffeemustblanketwhale
+bip_39_word_no_space_7: sugarattackcoffeemustblanketwhalepoet
+bip_39_word_no_space_8: sugarattackcoffeemustblanketwhalepoetright
+bip_39_word_no_space_9: sugarattackcoffeemustblanketwhalepoetrightmaster
+bip_39_word_space_0:
+- sugar
+- attack
+- coffee
+- must
+- blanket
+- whale
+- poet
+- right
+- master
+- tide
+- jazz
+- actual
+bip_39_word_space_1: sugar
+bip_39_word_space_10: sugar attack coffee must blanket whale poet right master tide
+bip_39_word_space_11: sugar attack coffee must blanket whale poet right master tide
+  jazz
+bip_39_word_space_12: sugar attack coffee must blanket whale poet right master tide
+  jazz actual
+bip_39_word_space_2: sugar attack
+bip_39_word_space_3: sugar attack coffee
+bip_39_word_space_4: sugar attack coffee must
+bip_39_word_space_5: sugar attack coffee must blanket
+bip_39_word_space_6: sugar attack coffee must blanket whale
+bip_39_word_space_7: sugar attack coffee must blanket whale poet
+bip_39_word_space_8: sugar attack coffee must blanket whale poet right
+bip_39_word_space_9: sugar attack coffee must blanket whale poet right master
+bip_39_word_underscore_1: sugar
+bip_39_word_underscore_10: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide
+bip_39_word_underscore_11: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide_jazz
+bip_39_word_underscore_12: sugar_attack_coffee_must_blanket_whale_poet_right_master_tide_jazz_actual
+bip_39_word_underscore_2: sugar_attack
+bip_39_word_underscore_3: sugar_attack_coffee
+bip_39_word_underscore_4: sugar_attack_coffee_must
+bip_39_word_underscore_5: sugar_attack_coffee_must_blanket
+bip_39_word_underscore_6: sugar_attack_coffee_must_blanket_whale
+bip_39_word_underscore_7: sugar_attack_coffee_must_blanket_whale_poet
+bip_39_word_underscore_8: sugar_attack_coffee_must_blanket_whale_poet_right
+bip_39_word_underscore_9: sugar_attack_coffee_must_blanket_whale_poet_right_master
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 25_mm_length_phillips_head
 id_no_size: black_25_mm_length_phillips_head
 id_no_type: m5_black_25_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_25_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m5_black_25_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_25_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201txbs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201txbs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201txbs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 25 mm Length Phillips Head
 name_no_size: Black 25 mm Length Phillips Head
 name_no_size_short: Black 25 Mm Length Phillips Head
 name_no_type: M5 Black 25 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 1tx
+oomlout_bolt_md5_6_alpha_first_3_upper: 1TX
+oomlout_bolt_md5_6_alpha_last_3: bs
+oomlout_bolt_md5_6_alpha_last_3_upper: BS
+oomlout_bolt_md5_6_first_3: 2ee
+oomlout_bolt_md5_6_first_3_upper: 2EE
+oomlout_bolt_md5_6_last_3: ef8
+oomlout_bolt_md5_6_last_3_upper: EF8
+oomlout_bolt_name: Flat Head M5X25 mm Black (Phillips)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh5b25p
+oomlout_short_code_upper: FH5B25P
 oomp_key: oomp_hardware_screw_flat_head_m5_black_25_mm_length_phillips_head
 oomp_word: zap ambulance seven
 oomp_word_emoji: ':zap: :ambulance: :seven:'

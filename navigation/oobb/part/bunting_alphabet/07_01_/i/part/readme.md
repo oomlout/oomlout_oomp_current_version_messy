@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 07 01  I
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_07_01__i
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :wolf: :clipboard: :airplane:
 * md5_6_alpha: 261gm
 * md5_6: 378ee6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20261gm)
+[2x1](http://192.168.1.242:1112/?label=oomp%20261gm)
+[6x4](http://192.168.1.55:1112/?label=oomp%20261gm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__i) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__i)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ response |
 | id_no_color | 0701i |  
 | id_no_size | 07_01__i |  
 | id_no_type | bunting_alphabet_07_01__i |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__i |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__i |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__i |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20261gm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20261gm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20261gm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ response |
 | name_no_size | 07 01  I |  
 | name_no_size_short | 07 01  I |  
 | name_no_type | Bunting Alphabet 07 01  I |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_07_01__i |  
 | oomp_word | wolf clipboard airplane |  
 | oomp_word_emoji | :wolf: :clipboard: :airplane: |  

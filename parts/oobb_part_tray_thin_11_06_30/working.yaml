@@ -1,3 +1,221 @@
+bip_39_word_dash_1: identify
+bip_39_word_dash_10: identify-option-text-adapt-step-six-spare-vanish-one-bind
+bip_39_word_dash_11: identify-option-text-adapt-step-six-spare-vanish-one-bind-virus
+bip_39_word_dash_12: identify-option-text-adapt-step-six-spare-vanish-one-bind-virus-antenna
+bip_39_word_dash_2: identify-option
+bip_39_word_dash_3: identify-option-text
+bip_39_word_dash_4: identify-option-text-adapt
+bip_39_word_dash_5: identify-option-text-adapt-step
+bip_39_word_dash_6: identify-option-text-adapt-step-six
+bip_39_word_dash_7: identify-option-text-adapt-step-six-spare
+bip_39_word_dash_8: identify-option-text-adapt-step-six-spare-vanish
+bip_39_word_dash_9: identify-option-text-adapt-step-six-spare-vanish-one
+bip_39_word_new_br_1: identify
+bip_39_word_new_br_10: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind
+bip_39_word_new_br_11: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind<br>virus
+bip_39_word_new_br_12: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one<br>bind<br>virus<br>antenna
+bip_39_word_new_br_2: identify<br>option
+bip_39_word_new_br_3: identify<br>option<br>text
+bip_39_word_new_br_4: identify<br>option<br>text<br>adapt
+bip_39_word_new_br_5: identify<br>option<br>text<br>adapt<br>step
+bip_39_word_new_br_6: identify<br>option<br>text<br>adapt<br>step<br>six
+bip_39_word_new_br_7: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare
+bip_39_word_new_br_8: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish
+bip_39_word_new_br_9: identify<br>option<br>text<br>adapt<br>step<br>six<br>spare<br>vanish<br>one
+bip_39_word_new_line_1: identify
+bip_39_word_new_line_10: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare
+
+  vanish
+
+  one
+
+  bind'
+bip_39_word_new_line_11: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare
+
+  vanish
+
+  one
+
+  bind
+
+  virus'
+bip_39_word_new_line_12: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare
+
+  vanish
+
+  one
+
+  bind
+
+  virus
+
+  antenna'
+bip_39_word_new_line_2: 'identify
+
+  option'
+bip_39_word_new_line_3: 'identify
+
+  option
+
+  text'
+bip_39_word_new_line_4: 'identify
+
+  option
+
+  text
+
+  adapt'
+bip_39_word_new_line_5: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step'
+bip_39_word_new_line_6: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six'
+bip_39_word_new_line_7: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare'
+bip_39_word_new_line_8: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare
+
+  vanish'
+bip_39_word_new_line_9: 'identify
+
+  option
+
+  text
+
+  adapt
+
+  step
+
+  six
+
+  spare
+
+  vanish
+
+  one'
+bip_39_word_no_space_1: identify
+bip_39_word_no_space_10: identifyoptiontextadaptstepsixsparevanishonebind
+bip_39_word_no_space_11: identifyoptiontextadaptstepsixsparevanishonebindvirus
+bip_39_word_no_space_12: identifyoptiontextadaptstepsixsparevanishonebindvirusantenna
+bip_39_word_no_space_2: identifyoption
+bip_39_word_no_space_3: identifyoptiontext
+bip_39_word_no_space_4: identifyoptiontextadapt
+bip_39_word_no_space_5: identifyoptiontextadaptstep
+bip_39_word_no_space_6: identifyoptiontextadaptstepsix
+bip_39_word_no_space_7: identifyoptiontextadaptstepsixspare
+bip_39_word_no_space_8: identifyoptiontextadaptstepsixsparevanish
+bip_39_word_no_space_9: identifyoptiontextadaptstepsixsparevanishone
+bip_39_word_space_0:
+- identify
+- option
+- text
+- adapt
+- step
+- six
+- spare
+- vanish
+- one
+- bind
+- virus
+- antenna
+bip_39_word_space_1: identify
+bip_39_word_space_10: identify option text adapt step six spare vanish one bind
+bip_39_word_space_11: identify option text adapt step six spare vanish one bind virus
+bip_39_word_space_12: identify option text adapt step six spare vanish one bind virus
+  antenna
+bip_39_word_space_2: identify option
+bip_39_word_space_3: identify option text
+bip_39_word_space_4: identify option text adapt
+bip_39_word_space_5: identify option text adapt step
+bip_39_word_space_6: identify option text adapt step six
+bip_39_word_space_7: identify option text adapt step six spare
+bip_39_word_space_8: identify option text adapt step six spare vanish
+bip_39_word_space_9: identify option text adapt step six spare vanish one
+bip_39_word_underscore_1: identify
+bip_39_word_underscore_10: identify_option_text_adapt_step_six_spare_vanish_one_bind
+bip_39_word_underscore_11: identify_option_text_adapt_step_six_spare_vanish_one_bind_virus
+bip_39_word_underscore_12: identify_option_text_adapt_step_six_spare_vanish_one_bind_virus_antenna
+bip_39_word_underscore_2: identify_option
+bip_39_word_underscore_3: identify_option_text
+bip_39_word_underscore_4: identify_option_text_adapt
+bip_39_word_underscore_5: identify_option_text_adapt_step
+bip_39_word_underscore_6: identify_option_text_adapt_step_six
+bip_39_word_underscore_7: identify_option_text_adapt_step_six_spare
+bip_39_word_underscore_8: identify_option_text_adapt_step_six_spare_vanish
+bip_39_word_underscore_9: identify_option_text_adapt_step_six_spare_vanish_one
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_11_06_30
 id_no_color: '110630'
 id_no_size: '11_06_30'
 id_no_type: tray_thin_11_06_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_06_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2065t6t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2065t6t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2065t6t
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '110630'
 name_no_size: 11 06 30
 name_no_size_short: 11 06 30
 name_no_type: Tray Thin 11 06 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_06_30
 oomp_word: hearts bike kissing
 oomp_word_emoji: ':hearts: :bike: :kissing:'

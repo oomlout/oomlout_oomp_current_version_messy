@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 28 20 03 Nm Oobb Pl A3
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_28_20_03_nm_oobb_pl_a3
   * classification: oobb

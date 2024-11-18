@@ -1,3 +1,223 @@
+bip_39_word_dash_1: emotion
+bip_39_word_dash_10: emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point
+bip_39_word_dash_11: emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point-ripple
+bip_39_word_dash_12: emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open-point-ripple-also
+bip_39_word_dash_2: emotion-ostrich
+bip_39_word_dash_3: emotion-ostrich-hockey
+bip_39_word_dash_4: emotion-ostrich-hockey-elephant
+bip_39_word_dash_5: emotion-ostrich-hockey-elephant-gentle
+bip_39_word_dash_6: emotion-ostrich-hockey-elephant-gentle-join
+bip_39_word_dash_7: emotion-ostrich-hockey-elephant-gentle-join-kitchen
+bip_39_word_dash_8: emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey
+bip_39_word_dash_9: emotion-ostrich-hockey-elephant-gentle-join-kitchen-survey-open
+bip_39_word_new_br_1: emotion
+bip_39_word_new_br_10: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open<br>point
+bip_39_word_new_br_11: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open<br>point<br>ripple
+bip_39_word_new_br_12: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open<br>point<br>ripple<br>also
+bip_39_word_new_br_2: emotion<br>ostrich
+bip_39_word_new_br_3: emotion<br>ostrich<br>hockey
+bip_39_word_new_br_4: emotion<br>ostrich<br>hockey<br>elephant
+bip_39_word_new_br_5: emotion<br>ostrich<br>hockey<br>elephant<br>gentle
+bip_39_word_new_br_6: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join
+bip_39_word_new_br_7: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen
+bip_39_word_new_br_8: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey
+bip_39_word_new_br_9: emotion<br>ostrich<br>hockey<br>elephant<br>gentle<br>join<br>kitchen<br>survey<br>open
+bip_39_word_new_line_1: emotion
+bip_39_word_new_line_10: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen
+
+  survey
+
+  open
+
+  point'
+bip_39_word_new_line_11: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen
+
+  survey
+
+  open
+
+  point
+
+  ripple'
+bip_39_word_new_line_12: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen
+
+  survey
+
+  open
+
+  point
+
+  ripple
+
+  also'
+bip_39_word_new_line_2: 'emotion
+
+  ostrich'
+bip_39_word_new_line_3: 'emotion
+
+  ostrich
+
+  hockey'
+bip_39_word_new_line_4: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant'
+bip_39_word_new_line_5: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle'
+bip_39_word_new_line_6: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join'
+bip_39_word_new_line_7: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen'
+bip_39_word_new_line_8: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen
+
+  survey'
+bip_39_word_new_line_9: 'emotion
+
+  ostrich
+
+  hockey
+
+  elephant
+
+  gentle
+
+  join
+
+  kitchen
+
+  survey
+
+  open'
+bip_39_word_no_space_1: emotion
+bip_39_word_no_space_10: emotionostrichhockeyelephantgentlejoinkitchensurveyopenpoint
+bip_39_word_no_space_11: emotionostrichhockeyelephantgentlejoinkitchensurveyopenpointripple
+bip_39_word_no_space_12: emotionostrichhockeyelephantgentlejoinkitchensurveyopenpointripplealso
+bip_39_word_no_space_2: emotionostrich
+bip_39_word_no_space_3: emotionostrichhockey
+bip_39_word_no_space_4: emotionostrichhockeyelephant
+bip_39_word_no_space_5: emotionostrichhockeyelephantgentle
+bip_39_word_no_space_6: emotionostrichhockeyelephantgentlejoin
+bip_39_word_no_space_7: emotionostrichhockeyelephantgentlejoinkitchen
+bip_39_word_no_space_8: emotionostrichhockeyelephantgentlejoinkitchensurvey
+bip_39_word_no_space_9: emotionostrichhockeyelephantgentlejoinkitchensurveyopen
+bip_39_word_space_0:
+- emotion
+- ostrich
+- hockey
+- elephant
+- gentle
+- join
+- kitchen
+- survey
+- open
+- point
+- ripple
+- also
+bip_39_word_space_1: emotion
+bip_39_word_space_10: emotion ostrich hockey elephant gentle join kitchen survey open
+  point
+bip_39_word_space_11: emotion ostrich hockey elephant gentle join kitchen survey open
+  point ripple
+bip_39_word_space_12: emotion ostrich hockey elephant gentle join kitchen survey open
+  point ripple also
+bip_39_word_space_2: emotion ostrich
+bip_39_word_space_3: emotion ostrich hockey
+bip_39_word_space_4: emotion ostrich hockey elephant
+bip_39_word_space_5: emotion ostrich hockey elephant gentle
+bip_39_word_space_6: emotion ostrich hockey elephant gentle join
+bip_39_word_space_7: emotion ostrich hockey elephant gentle join kitchen
+bip_39_word_space_8: emotion ostrich hockey elephant gentle join kitchen survey
+bip_39_word_space_9: emotion ostrich hockey elephant gentle join kitchen survey open
+bip_39_word_underscore_1: emotion
+bip_39_word_underscore_10: emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point
+bip_39_word_underscore_11: emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point_ripple
+bip_39_word_underscore_12: emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open_point_ripple_also
+bip_39_word_underscore_2: emotion_ostrich
+bip_39_word_underscore_3: emotion_ostrich_hockey
+bip_39_word_underscore_4: emotion_ostrich_hockey_elephant
+bip_39_word_underscore_5: emotion_ostrich_hockey_elephant_gentle
+bip_39_word_underscore_6: emotion_ostrich_hockey_elephant_gentle_join
+bip_39_word_underscore_7: emotion_ostrich_hockey_elephant_gentle_join_kitchen
+bip_39_word_underscore_8: emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey
+bip_39_word_underscore_9: emotion_ostrich_hockey_elephant_gentle_join_kitchen_survey_open
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_03_30
 id_no_color: '120330'
 id_no_size: '12_03_30'
 id_no_type: tray_thin_12_03_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_03_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_03_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_03_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204kzhl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204kzhl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204kzhl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '120330'
 name_no_size: 12 03 30
 name_no_size_short: 12 03 30
 name_no_type: Tray Thin 12 03 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_03_30
 oomp_word: ghost fireworks sandal
 oomp_word_emoji: ':ghost: :fireworks: :sandal:'

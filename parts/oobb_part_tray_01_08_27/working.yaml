@@ -1,3 +1,223 @@
+bip_39_word_dash_1: help
+bip_39_word_dash_10: help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince
+bip_39_word_dash_11: help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince-modify
+bip_39_word_dash_12: help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar-convince-modify-antique
+bip_39_word_dash_2: help-confirm
+bip_39_word_dash_3: help-confirm-awesome
+bip_39_word_dash_4: help-confirm-awesome-turtle
+bip_39_word_dash_5: help-confirm-awesome-turtle-anxiety
+bip_39_word_dash_6: help-confirm-awesome-turtle-anxiety-identify
+bip_39_word_dash_7: help-confirm-awesome-turtle-anxiety-identify-disagree
+bip_39_word_dash_8: help-confirm-awesome-turtle-anxiety-identify-disagree-rent
+bip_39_word_dash_9: help-confirm-awesome-turtle-anxiety-identify-disagree-rent-guitar
+bip_39_word_new_br_1: help
+bip_39_word_new_br_10: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince
+bip_39_word_new_br_11: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify
+bip_39_word_new_br_12: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar<br>convince<br>modify<br>antique
+bip_39_word_new_br_2: help<br>confirm
+bip_39_word_new_br_3: help<br>confirm<br>awesome
+bip_39_word_new_br_4: help<br>confirm<br>awesome<br>turtle
+bip_39_word_new_br_5: help<br>confirm<br>awesome<br>turtle<br>anxiety
+bip_39_word_new_br_6: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify
+bip_39_word_new_br_7: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree
+bip_39_word_new_br_8: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent
+bip_39_word_new_br_9: help<br>confirm<br>awesome<br>turtle<br>anxiety<br>identify<br>disagree<br>rent<br>guitar
+bip_39_word_new_line_1: help
+bip_39_word_new_line_10: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree
+
+  rent
+
+  guitar
+
+  convince'
+bip_39_word_new_line_11: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree
+
+  rent
+
+  guitar
+
+  convince
+
+  modify'
+bip_39_word_new_line_12: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree
+
+  rent
+
+  guitar
+
+  convince
+
+  modify
+
+  antique'
+bip_39_word_new_line_2: 'help
+
+  confirm'
+bip_39_word_new_line_3: 'help
+
+  confirm
+
+  awesome'
+bip_39_word_new_line_4: 'help
+
+  confirm
+
+  awesome
+
+  turtle'
+bip_39_word_new_line_5: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety'
+bip_39_word_new_line_6: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify'
+bip_39_word_new_line_7: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree'
+bip_39_word_new_line_8: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree
+
+  rent'
+bip_39_word_new_line_9: 'help
+
+  confirm
+
+  awesome
+
+  turtle
+
+  anxiety
+
+  identify
+
+  disagree
+
+  rent
+
+  guitar'
+bip_39_word_no_space_1: help
+bip_39_word_no_space_10: helpconfirmawesometurtleanxietyidentifydisagreerentguitarconvince
+bip_39_word_no_space_11: helpconfirmawesometurtleanxietyidentifydisagreerentguitarconvincemodify
+bip_39_word_no_space_12: helpconfirmawesometurtleanxietyidentifydisagreerentguitarconvincemodifyantique
+bip_39_word_no_space_2: helpconfirm
+bip_39_word_no_space_3: helpconfirmawesome
+bip_39_word_no_space_4: helpconfirmawesometurtle
+bip_39_word_no_space_5: helpconfirmawesometurtleanxiety
+bip_39_word_no_space_6: helpconfirmawesometurtleanxietyidentify
+bip_39_word_no_space_7: helpconfirmawesometurtleanxietyidentifydisagree
+bip_39_word_no_space_8: helpconfirmawesometurtleanxietyidentifydisagreerent
+bip_39_word_no_space_9: helpconfirmawesometurtleanxietyidentifydisagreerentguitar
+bip_39_word_space_0:
+- help
+- confirm
+- awesome
+- turtle
+- anxiety
+- identify
+- disagree
+- rent
+- guitar
+- convince
+- modify
+- antique
+bip_39_word_space_1: help
+bip_39_word_space_10: help confirm awesome turtle anxiety identify disagree rent guitar
+  convince
+bip_39_word_space_11: help confirm awesome turtle anxiety identify disagree rent guitar
+  convince modify
+bip_39_word_space_12: help confirm awesome turtle anxiety identify disagree rent guitar
+  convince modify antique
+bip_39_word_space_2: help confirm
+bip_39_word_space_3: help confirm awesome
+bip_39_word_space_4: help confirm awesome turtle
+bip_39_word_space_5: help confirm awesome turtle anxiety
+bip_39_word_space_6: help confirm awesome turtle anxiety identify
+bip_39_word_space_7: help confirm awesome turtle anxiety identify disagree
+bip_39_word_space_8: help confirm awesome turtle anxiety identify disagree rent
+bip_39_word_space_9: help confirm awesome turtle anxiety identify disagree rent guitar
+bip_39_word_underscore_1: help
+bip_39_word_underscore_10: help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince
+bip_39_word_underscore_11: help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince_modify
+bip_39_word_underscore_12: help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar_convince_modify_antique
+bip_39_word_underscore_2: help_confirm
+bip_39_word_underscore_3: help_confirm_awesome
+bip_39_word_underscore_4: help_confirm_awesome_turtle
+bip_39_word_underscore_5: help_confirm_awesome_turtle_anxiety
+bip_39_word_underscore_6: help_confirm_awesome_turtle_anxiety_identify
+bip_39_word_underscore_7: help_confirm_awesome_turtle_anxiety_identify_disagree
+bip_39_word_underscore_8: help_confirm_awesome_turtle_anxiety_identify_disagree_rent
+bip_39_word_underscore_9: help_confirm_awesome_turtle_anxiety_identify_disagree_rent_guitar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_08_27
 id_no_color: 010827
 id_no_size: 01_08_27
 id_no_type: tray_01_08_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_08_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_08_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_08_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2067i2z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2067i2z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2067i2z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 010827
 name_no_size: 01 08 27
 name_no_size_short: 01 08 27
 name_no_type: Tray 01 08 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_08_27
 oomp_word: diamonds baby penguin
 oomp_word_emoji: ':diamonds: :baby: :penguin:'

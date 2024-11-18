@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0201 1200 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0201_1200_ohm
   * classification: electronic

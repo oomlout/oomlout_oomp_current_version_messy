@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Kicad Footprints
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_kicad_footprints
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :nine: :bath: :ring:
 * md5_6_alpha: 9rwkg
 * md5_6: fa86a0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209rwkg)
+[2x1](http://192.168.1.242:1112/?label=oomp%209rwkg)
+[6x4](http://192.168.1.55:1112/?label=oomp%209rwkg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_kicad_footprints)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ various |
 | id_no_color | kicad_footprints |  
 | id_no_size | kicad_footprints |  
 | id_no_type | oomlout_kicad_footprints |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_kicad_footprints |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_kicad_footprints |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209rwkg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209rwkg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209rwkg |  
 | link_redirect | https://github.com/oomlout/kicad_footprints |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ various |
 | name_no_size | Kicad Footprints |  
 | name_no_size_short | Kicad Footprints |  
 | name_no_type | Oomlout Kicad Footprints |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_kicad_footprints |  
 | oomp_word | nine bath ring |  
 | oomp_word_emoji | :nine: :bath: :ring: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: affair
+bip_39_word_dash_10: affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable
+bip_39_word_dash_11: affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable-include
+bip_39_word_dash_12: affair-arrive-never-advice-detect-unknown-plate-battle-crime-capable-include-announce
+bip_39_word_dash_2: affair-arrive
+bip_39_word_dash_3: affair-arrive-never
+bip_39_word_dash_4: affair-arrive-never-advice
+bip_39_word_dash_5: affair-arrive-never-advice-detect
+bip_39_word_dash_6: affair-arrive-never-advice-detect-unknown
+bip_39_word_dash_7: affair-arrive-never-advice-detect-unknown-plate
+bip_39_word_dash_8: affair-arrive-never-advice-detect-unknown-plate-battle
+bip_39_word_dash_9: affair-arrive-never-advice-detect-unknown-plate-battle-crime
+bip_39_word_new_br_1: affair
+bip_39_word_new_br_10: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable
+bip_39_word_new_br_11: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include
+bip_39_word_new_br_12: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime<br>capable<br>include<br>announce
+bip_39_word_new_br_2: affair<br>arrive
+bip_39_word_new_br_3: affair<br>arrive<br>never
+bip_39_word_new_br_4: affair<br>arrive<br>never<br>advice
+bip_39_word_new_br_5: affair<br>arrive<br>never<br>advice<br>detect
+bip_39_word_new_br_6: affair<br>arrive<br>never<br>advice<br>detect<br>unknown
+bip_39_word_new_br_7: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate
+bip_39_word_new_br_8: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle
+bip_39_word_new_br_9: affair<br>arrive<br>never<br>advice<br>detect<br>unknown<br>plate<br>battle<br>crime
+bip_39_word_new_line_1: affair
+bip_39_word_new_line_10: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable'
+bip_39_word_new_line_11: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable
+
+  include'
+bip_39_word_new_line_12: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime
+
+  capable
+
+  include
+
+  announce'
+bip_39_word_new_line_2: 'affair
+
+  arrive'
+bip_39_word_new_line_3: 'affair
+
+  arrive
+
+  never'
+bip_39_word_new_line_4: 'affair
+
+  arrive
+
+  never
+
+  advice'
+bip_39_word_new_line_5: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect'
+bip_39_word_new_line_6: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown'
+bip_39_word_new_line_7: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate'
+bip_39_word_new_line_8: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle'
+bip_39_word_new_line_9: 'affair
+
+  arrive
+
+  never
+
+  advice
+
+  detect
+
+  unknown
+
+  plate
+
+  battle
+
+  crime'
+bip_39_word_no_space_1: affair
+bip_39_word_no_space_10: affairarriveneveradvicedetectunknownplatebattlecrimecapable
+bip_39_word_no_space_11: affairarriveneveradvicedetectunknownplatebattlecrimecapableinclude
+bip_39_word_no_space_12: affairarriveneveradvicedetectunknownplatebattlecrimecapableincludeannounce
+bip_39_word_no_space_2: affairarrive
+bip_39_word_no_space_3: affairarrivenever
+bip_39_word_no_space_4: affairarriveneveradvice
+bip_39_word_no_space_5: affairarriveneveradvicedetect
+bip_39_word_no_space_6: affairarriveneveradvicedetectunknown
+bip_39_word_no_space_7: affairarriveneveradvicedetectunknownplate
+bip_39_word_no_space_8: affairarriveneveradvicedetectunknownplatebattle
+bip_39_word_no_space_9: affairarriveneveradvicedetectunknownplatebattlecrime
+bip_39_word_space_0:
+- affair
+- arrive
+- never
+- advice
+- detect
+- unknown
+- plate
+- battle
+- crime
+- capable
+- include
+- announce
+bip_39_word_space_1: affair
+bip_39_word_space_10: affair arrive never advice detect unknown plate battle crime
+  capable
+bip_39_word_space_11: affair arrive never advice detect unknown plate battle crime
+  capable include
+bip_39_word_space_12: affair arrive never advice detect unknown plate battle crime
+  capable include announce
+bip_39_word_space_2: affair arrive
+bip_39_word_space_3: affair arrive never
+bip_39_word_space_4: affair arrive never advice
+bip_39_word_space_5: affair arrive never advice detect
+bip_39_word_space_6: affair arrive never advice detect unknown
+bip_39_word_space_7: affair arrive never advice detect unknown plate
+bip_39_word_space_8: affair arrive never advice detect unknown plate battle
+bip_39_word_space_9: affair arrive never advice detect unknown plate battle crime
+bip_39_word_underscore_1: affair
+bip_39_word_underscore_10: affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable
+bip_39_word_underscore_11: affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable_include
+bip_39_word_underscore_12: affair_arrive_never_advice_detect_unknown_plate_battle_crime_capable_include_announce
+bip_39_word_underscore_2: affair_arrive
+bip_39_word_underscore_3: affair_arrive_never
+bip_39_word_underscore_4: affair_arrive_never_advice
+bip_39_word_underscore_5: affair_arrive_never_advice_detect
+bip_39_word_underscore_6: affair_arrive_never_advice_detect_unknown
+bip_39_word_underscore_7: affair_arrive_never_advice_detect_unknown_plate
+bip_39_word_underscore_8: affair_arrive_never_advice_detect_unknown_plate_battle
+bip_39_word_underscore_9: affair_arrive_never_advice_detect_unknown_plate_battle_crime
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 100_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_100_mm_length_pozidrive_head
 id_no_type: m5_bright_zinc_plated_100_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_100_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_100_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_100_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205t58o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205t58o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205t58o
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 100 mm Length Pozidrive Head
 name_no_size: Bright Zinc Plated 100 mm Length Pozidrive Head
 name_no_size_short: Bright Zinc Plated 100 Mm Length Pozidrive Head
 name_no_type: M5 Bright Zinc Plated 100 mm Length Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 100 mm
+oomlout_bolt_length_no_unit: '100'
+oomlout_bolt_md5_6_alpha_first_3: 5t5
+oomlout_bolt_md5_6_alpha_first_3_upper: 5T5
+oomlout_bolt_md5_6_alpha_last_3: 8o
+oomlout_bolt_md5_6_alpha_last_3_upper: 8O
+oomlout_bolt_md5_6_first_3: 94e
+oomlout_bolt_md5_6_first_3_upper: 94E
+oomlout_bolt_md5_6_last_3: 4c8
+oomlout_bolt_md5_6_last_3_upper: 4C8
+oomlout_bolt_name: Countersunk M5X100 mm  (Pozidrive)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs5bz100pz
+oomlout_short_code_upper: CS5BZ100PZ
 oomp_key: oomp_hardware_screw_countersunk_m5_bright_zinc_plated_100_mm_length_pozidrive_head
 oomp_word: microscope anchor apple
 oomp_word_emoji: ':microscope: :anchor: :apple:'

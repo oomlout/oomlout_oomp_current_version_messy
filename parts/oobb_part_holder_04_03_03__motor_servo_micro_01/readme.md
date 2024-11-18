@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 04 03 03  Motor Servo Micro 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_04_03_03__motor_servo_micro_01
   * classification: oobb

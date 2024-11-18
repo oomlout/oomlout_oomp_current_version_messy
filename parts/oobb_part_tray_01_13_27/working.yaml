@@ -1,3 +1,222 @@
+bip_39_word_dash_1: scout
+bip_39_word_dash_10: scout-noise-retreat-distance-sorry-setup-stage-hope-salute-noble
+bip_39_word_dash_11: scout-noise-retreat-distance-sorry-setup-stage-hope-salute-noble-erode
+bip_39_word_dash_12: scout-noise-retreat-distance-sorry-setup-stage-hope-salute-noble-erode-artwork
+bip_39_word_dash_2: scout-noise
+bip_39_word_dash_3: scout-noise-retreat
+bip_39_word_dash_4: scout-noise-retreat-distance
+bip_39_word_dash_5: scout-noise-retreat-distance-sorry
+bip_39_word_dash_6: scout-noise-retreat-distance-sorry-setup
+bip_39_word_dash_7: scout-noise-retreat-distance-sorry-setup-stage
+bip_39_word_dash_8: scout-noise-retreat-distance-sorry-setup-stage-hope
+bip_39_word_dash_9: scout-noise-retreat-distance-sorry-setup-stage-hope-salute
+bip_39_word_new_br_1: scout
+bip_39_word_new_br_10: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage<br>hope<br>salute<br>noble
+bip_39_word_new_br_11: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage<br>hope<br>salute<br>noble<br>erode
+bip_39_word_new_br_12: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage<br>hope<br>salute<br>noble<br>erode<br>artwork
+bip_39_word_new_br_2: scout<br>noise
+bip_39_word_new_br_3: scout<br>noise<br>retreat
+bip_39_word_new_br_4: scout<br>noise<br>retreat<br>distance
+bip_39_word_new_br_5: scout<br>noise<br>retreat<br>distance<br>sorry
+bip_39_word_new_br_6: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup
+bip_39_word_new_br_7: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage
+bip_39_word_new_br_8: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage<br>hope
+bip_39_word_new_br_9: scout<br>noise<br>retreat<br>distance<br>sorry<br>setup<br>stage<br>hope<br>salute
+bip_39_word_new_line_1: scout
+bip_39_word_new_line_10: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage
+
+  hope
+
+  salute
+
+  noble'
+bip_39_word_new_line_11: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage
+
+  hope
+
+  salute
+
+  noble
+
+  erode'
+bip_39_word_new_line_12: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage
+
+  hope
+
+  salute
+
+  noble
+
+  erode
+
+  artwork'
+bip_39_word_new_line_2: 'scout
+
+  noise'
+bip_39_word_new_line_3: 'scout
+
+  noise
+
+  retreat'
+bip_39_word_new_line_4: 'scout
+
+  noise
+
+  retreat
+
+  distance'
+bip_39_word_new_line_5: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry'
+bip_39_word_new_line_6: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup'
+bip_39_word_new_line_7: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage'
+bip_39_word_new_line_8: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage
+
+  hope'
+bip_39_word_new_line_9: 'scout
+
+  noise
+
+  retreat
+
+  distance
+
+  sorry
+
+  setup
+
+  stage
+
+  hope
+
+  salute'
+bip_39_word_no_space_1: scout
+bip_39_word_no_space_10: scoutnoiseretreatdistancesorrysetupstagehopesalutenoble
+bip_39_word_no_space_11: scoutnoiseretreatdistancesorrysetupstagehopesalutenobleerode
+bip_39_word_no_space_12: scoutnoiseretreatdistancesorrysetupstagehopesalutenobleerodeartwork
+bip_39_word_no_space_2: scoutnoise
+bip_39_word_no_space_3: scoutnoiseretreat
+bip_39_word_no_space_4: scoutnoiseretreatdistance
+bip_39_word_no_space_5: scoutnoiseretreatdistancesorry
+bip_39_word_no_space_6: scoutnoiseretreatdistancesorrysetup
+bip_39_word_no_space_7: scoutnoiseretreatdistancesorrysetupstage
+bip_39_word_no_space_8: scoutnoiseretreatdistancesorrysetupstagehope
+bip_39_word_no_space_9: scoutnoiseretreatdistancesorrysetupstagehopesalute
+bip_39_word_space_0:
+- scout
+- noise
+- retreat
+- distance
+- sorry
+- setup
+- stage
+- hope
+- salute
+- noble
+- erode
+- artwork
+bip_39_word_space_1: scout
+bip_39_word_space_10: scout noise retreat distance sorry setup stage hope salute noble
+bip_39_word_space_11: scout noise retreat distance sorry setup stage hope salute noble
+  erode
+bip_39_word_space_12: scout noise retreat distance sorry setup stage hope salute noble
+  erode artwork
+bip_39_word_space_2: scout noise
+bip_39_word_space_3: scout noise retreat
+bip_39_word_space_4: scout noise retreat distance
+bip_39_word_space_5: scout noise retreat distance sorry
+bip_39_word_space_6: scout noise retreat distance sorry setup
+bip_39_word_space_7: scout noise retreat distance sorry setup stage
+bip_39_word_space_8: scout noise retreat distance sorry setup stage hope
+bip_39_word_space_9: scout noise retreat distance sorry setup stage hope salute
+bip_39_word_underscore_1: scout
+bip_39_word_underscore_10: scout_noise_retreat_distance_sorry_setup_stage_hope_salute_noble
+bip_39_word_underscore_11: scout_noise_retreat_distance_sorry_setup_stage_hope_salute_noble_erode
+bip_39_word_underscore_12: scout_noise_retreat_distance_sorry_setup_stage_hope_salute_noble_erode_artwork
+bip_39_word_underscore_2: scout_noise
+bip_39_word_underscore_3: scout_noise_retreat
+bip_39_word_underscore_4: scout_noise_retreat_distance
+bip_39_word_underscore_5: scout_noise_retreat_distance_sorry
+bip_39_word_underscore_6: scout_noise_retreat_distance_sorry_setup
+bip_39_word_underscore_7: scout_noise_retreat_distance_sorry_setup_stage
+bip_39_word_underscore_8: scout_noise_retreat_distance_sorry_setup_stage_hope
+bip_39_word_underscore_9: scout_noise_retreat_distance_sorry_setup_stage_hope_salute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_13_27
 id_no_color: '011327'
 id_no_size: '01_13_27'
 id_no_type: tray_01_13_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_13_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_13_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_13_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087tid
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087tid
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087tid
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '011327'
 name_no_size: 01 13 27
 name_no_size_short: 01 13 27
 name_no_type: Tray 01 13 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_13_27
 oomp_word: pineapple bowling ear
 oomp_word_emoji: ':pineapple: :bowling: :ear:'

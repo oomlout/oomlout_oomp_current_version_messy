@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 13 01  6
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_13_01__6
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rainbow: :moon: :panda_face:
 * md5_6_alpha: 8og1w
 * md5_6: de6f44
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208og1w)
+[2x1](http://192.168.1.242:1112/?label=oomp%208og1w)
+[6x4](http://192.168.1.55:1112/?label=oomp%208og1w)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__6) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__6)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ roast |
 | id_no_color | 13016 |  
 | id_no_size | 13_01__6 |  
 | id_no_type | bunting_alphabet_13_01__6 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__6 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__6 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__6 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208og1w |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208og1w |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208og1w |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ roast |
 | name_no_size | 13 01  6 |  
 | name_no_size_short | 13 01  6 |  
 | name_no_type | Bunting Alphabet 13 01  6 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__6 |  
 | oomp_word | rainbow moon panda_face |  
 | oomp_word_emoji | :rainbow: :moon: :panda_face: |  

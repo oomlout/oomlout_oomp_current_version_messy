@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 An interposer between an i2c chip and a soic_14_wide package, The pins are numbered in the reverse order of being expected because the footprint is used as a mirror image, ie. it is the chip rather than a chuip being placed on it. This is the helicopter side (the side with the chips on it)
 
+### name
+* name: Electronic Interposer Soic 14 Wide I2C Helicopter
+* name_short: 
 ### id
 * oomp_id: electronic_interposer_soic_14_wide_i2c_helicopter
   * classification: electronic

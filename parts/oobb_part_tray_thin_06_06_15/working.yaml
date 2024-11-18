@@ -1,3 +1,222 @@
+bip_39_word_dash_1: climb
+bip_39_word_dash_10: climb-man-example-rail-web-remain-swear-deposit-basket-rain
+bip_39_word_dash_11: climb-man-example-rail-web-remain-swear-deposit-basket-rain-ranch
+bip_39_word_dash_12: climb-man-example-rail-web-remain-swear-deposit-basket-rain-ranch-alone
+bip_39_word_dash_2: climb-man
+bip_39_word_dash_3: climb-man-example
+bip_39_word_dash_4: climb-man-example-rail
+bip_39_word_dash_5: climb-man-example-rail-web
+bip_39_word_dash_6: climb-man-example-rail-web-remain
+bip_39_word_dash_7: climb-man-example-rail-web-remain-swear
+bip_39_word_dash_8: climb-man-example-rail-web-remain-swear-deposit
+bip_39_word_dash_9: climb-man-example-rail-web-remain-swear-deposit-basket
+bip_39_word_new_br_1: climb
+bip_39_word_new_br_10: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain
+bip_39_word_new_br_11: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain<br>ranch
+bip_39_word_new_br_12: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket<br>rain<br>ranch<br>alone
+bip_39_word_new_br_2: climb<br>man
+bip_39_word_new_br_3: climb<br>man<br>example
+bip_39_word_new_br_4: climb<br>man<br>example<br>rail
+bip_39_word_new_br_5: climb<br>man<br>example<br>rail<br>web
+bip_39_word_new_br_6: climb<br>man<br>example<br>rail<br>web<br>remain
+bip_39_word_new_br_7: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear
+bip_39_word_new_br_8: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit
+bip_39_word_new_br_9: climb<br>man<br>example<br>rail<br>web<br>remain<br>swear<br>deposit<br>basket
+bip_39_word_new_line_1: climb
+bip_39_word_new_line_10: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain'
+bip_39_word_new_line_11: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain
+
+  ranch'
+bip_39_word_new_line_12: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket
+
+  rain
+
+  ranch
+
+  alone'
+bip_39_word_new_line_2: 'climb
+
+  man'
+bip_39_word_new_line_3: 'climb
+
+  man
+
+  example'
+bip_39_word_new_line_4: 'climb
+
+  man
+
+  example
+
+  rail'
+bip_39_word_new_line_5: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web'
+bip_39_word_new_line_6: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain'
+bip_39_word_new_line_7: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear'
+bip_39_word_new_line_8: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit'
+bip_39_word_new_line_9: 'climb
+
+  man
+
+  example
+
+  rail
+
+  web
+
+  remain
+
+  swear
+
+  deposit
+
+  basket'
+bip_39_word_no_space_1: climb
+bip_39_word_no_space_10: climbmanexamplerailwebremainsweardepositbasketrain
+bip_39_word_no_space_11: climbmanexamplerailwebremainsweardepositbasketrainranch
+bip_39_word_no_space_12: climbmanexamplerailwebremainsweardepositbasketrainranchalone
+bip_39_word_no_space_2: climbman
+bip_39_word_no_space_3: climbmanexample
+bip_39_word_no_space_4: climbmanexamplerail
+bip_39_word_no_space_5: climbmanexamplerailweb
+bip_39_word_no_space_6: climbmanexamplerailwebremain
+bip_39_word_no_space_7: climbmanexamplerailwebremainswear
+bip_39_word_no_space_8: climbmanexamplerailwebremainsweardeposit
+bip_39_word_no_space_9: climbmanexamplerailwebremainsweardepositbasket
+bip_39_word_space_0:
+- climb
+- man
+- example
+- rail
+- web
+- remain
+- swear
+- deposit
+- basket
+- rain
+- ranch
+- alone
+bip_39_word_space_1: climb
+bip_39_word_space_10: climb man example rail web remain swear deposit basket rain
+bip_39_word_space_11: climb man example rail web remain swear deposit basket rain
+  ranch
+bip_39_word_space_12: climb man example rail web remain swear deposit basket rain
+  ranch alone
+bip_39_word_space_2: climb man
+bip_39_word_space_3: climb man example
+bip_39_word_space_4: climb man example rail
+bip_39_word_space_5: climb man example rail web
+bip_39_word_space_6: climb man example rail web remain
+bip_39_word_space_7: climb man example rail web remain swear
+bip_39_word_space_8: climb man example rail web remain swear deposit
+bip_39_word_space_9: climb man example rail web remain swear deposit basket
+bip_39_word_underscore_1: climb
+bip_39_word_underscore_10: climb_man_example_rail_web_remain_swear_deposit_basket_rain
+bip_39_word_underscore_11: climb_man_example_rail_web_remain_swear_deposit_basket_rain_ranch
+bip_39_word_underscore_12: climb_man_example_rail_web_remain_swear_deposit_basket_rain_ranch_alone
+bip_39_word_underscore_2: climb_man
+bip_39_word_underscore_3: climb_man_example
+bip_39_word_underscore_4: climb_man_example_rail
+bip_39_word_underscore_5: climb_man_example_rail_web
+bip_39_word_underscore_6: climb_man_example_rail_web_remain
+bip_39_word_underscore_7: climb_man_example_rail_web_remain_swear
+bip_39_word_underscore_8: climb_man_example_rail_web_remain_swear_deposit
+bip_39_word_underscore_9: climb_man_example_rail_web_remain_swear_deposit_basket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_06_06_15
 id_no_color: '060615'
 id_no_size: '06_06_15'
 id_no_type: tray_thin_06_06_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_06_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_06_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_06_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204cgmk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204cgmk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204cgmk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060615'
 name_no_size: 06 06 15
 name_no_size_short: 06 06 15
 name_no_type: Tray Thin 06 06 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_06_15
 oomp_word: moon rose snowflake
 oomp_word_emoji: ':moon: :rose: :snowflake:'

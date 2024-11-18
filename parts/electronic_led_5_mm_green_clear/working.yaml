@@ -1,3 +1,222 @@
+bip_39_word_dash_1: liberty
+bip_39_word_dash_10: liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi
+bip_39_word_dash_11: liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi-pepper
+bip_39_word_dash_12: liberty-sea-inhale-stone-buyer-deny-junior-village-army-taxi-pepper-access
+bip_39_word_dash_2: liberty-sea
+bip_39_word_dash_3: liberty-sea-inhale
+bip_39_word_dash_4: liberty-sea-inhale-stone
+bip_39_word_dash_5: liberty-sea-inhale-stone-buyer
+bip_39_word_dash_6: liberty-sea-inhale-stone-buyer-deny
+bip_39_word_dash_7: liberty-sea-inhale-stone-buyer-deny-junior
+bip_39_word_dash_8: liberty-sea-inhale-stone-buyer-deny-junior-village
+bip_39_word_dash_9: liberty-sea-inhale-stone-buyer-deny-junior-village-army
+bip_39_word_new_br_1: liberty
+bip_39_word_new_br_10: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army<br>taxi
+bip_39_word_new_br_11: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army<br>taxi<br>pepper
+bip_39_word_new_br_12: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army<br>taxi<br>pepper<br>access
+bip_39_word_new_br_2: liberty<br>sea
+bip_39_word_new_br_3: liberty<br>sea<br>inhale
+bip_39_word_new_br_4: liberty<br>sea<br>inhale<br>stone
+bip_39_word_new_br_5: liberty<br>sea<br>inhale<br>stone<br>buyer
+bip_39_word_new_br_6: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny
+bip_39_word_new_br_7: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior
+bip_39_word_new_br_8: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village
+bip_39_word_new_br_9: liberty<br>sea<br>inhale<br>stone<br>buyer<br>deny<br>junior<br>village<br>army
+bip_39_word_new_line_1: liberty
+bip_39_word_new_line_10: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior
+
+  village
+
+  army
+
+  taxi'
+bip_39_word_new_line_11: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior
+
+  village
+
+  army
+
+  taxi
+
+  pepper'
+bip_39_word_new_line_12: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior
+
+  village
+
+  army
+
+  taxi
+
+  pepper
+
+  access'
+bip_39_word_new_line_2: 'liberty
+
+  sea'
+bip_39_word_new_line_3: 'liberty
+
+  sea
+
+  inhale'
+bip_39_word_new_line_4: 'liberty
+
+  sea
+
+  inhale
+
+  stone'
+bip_39_word_new_line_5: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer'
+bip_39_word_new_line_6: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny'
+bip_39_word_new_line_7: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior'
+bip_39_word_new_line_8: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior
+
+  village'
+bip_39_word_new_line_9: 'liberty
+
+  sea
+
+  inhale
+
+  stone
+
+  buyer
+
+  deny
+
+  junior
+
+  village
+
+  army'
+bip_39_word_no_space_1: liberty
+bip_39_word_no_space_10: libertyseainhalestonebuyerdenyjuniorvillagearmytaxi
+bip_39_word_no_space_11: libertyseainhalestonebuyerdenyjuniorvillagearmytaxipepper
+bip_39_word_no_space_12: libertyseainhalestonebuyerdenyjuniorvillagearmytaxipepperaccess
+bip_39_word_no_space_2: libertysea
+bip_39_word_no_space_3: libertyseainhale
+bip_39_word_no_space_4: libertyseainhalestone
+bip_39_word_no_space_5: libertyseainhalestonebuyer
+bip_39_word_no_space_6: libertyseainhalestonebuyerdeny
+bip_39_word_no_space_7: libertyseainhalestonebuyerdenyjunior
+bip_39_word_no_space_8: libertyseainhalestonebuyerdenyjuniorvillage
+bip_39_word_no_space_9: libertyseainhalestonebuyerdenyjuniorvillagearmy
+bip_39_word_space_0:
+- liberty
+- sea
+- inhale
+- stone
+- buyer
+- deny
+- junior
+- village
+- army
+- taxi
+- pepper
+- access
+bip_39_word_space_1: liberty
+bip_39_word_space_10: liberty sea inhale stone buyer deny junior village army taxi
+bip_39_word_space_11: liberty sea inhale stone buyer deny junior village army taxi
+  pepper
+bip_39_word_space_12: liberty sea inhale stone buyer deny junior village army taxi
+  pepper access
+bip_39_word_space_2: liberty sea
+bip_39_word_space_3: liberty sea inhale
+bip_39_word_space_4: liberty sea inhale stone
+bip_39_word_space_5: liberty sea inhale stone buyer
+bip_39_word_space_6: liberty sea inhale stone buyer deny
+bip_39_word_space_7: liberty sea inhale stone buyer deny junior
+bip_39_word_space_8: liberty sea inhale stone buyer deny junior village
+bip_39_word_space_9: liberty sea inhale stone buyer deny junior village army
+bip_39_word_underscore_1: liberty
+bip_39_word_underscore_10: liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi
+bip_39_word_underscore_11: liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi_pepper
+bip_39_word_underscore_12: liberty_sea_inhale_stone_buyer_deny_junior_village_army_taxi_pepper_access
+bip_39_word_underscore_2: liberty_sea
+bip_39_word_underscore_3: liberty_sea_inhale
+bip_39_word_underscore_4: liberty_sea_inhale_stone
+bip_39_word_underscore_5: liberty_sea_inhale_stone_buyer
+bip_39_word_underscore_6: liberty_sea_inhale_stone_buyer_deny
+bip_39_word_underscore_7: liberty_sea_inhale_stone_buyer_deny_junior
+bip_39_word_underscore_8: liberty_sea_inhale_stone_buyer_deny_junior_village
+bip_39_word_underscore_9: liberty_sea_inhale_stone_buyer_deny_junior_village_army
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -120,7 +339,14 @@ id_no_color: clear
 id_no_size: green_clear
 id_no_type: 5_mm_green_clear
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_clear
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_green_clear
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_green_clear
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20tvqv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20tvqv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20tvqv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -146,6 +372,7 @@ name_no_color: Clear
 name_no_size: Green Clear
 name_no_size_short: Green Clear
 name_no_type: 5 mm Green Clear
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_5_mm_green_clear
 oomp_word: poop snake six
 oomp_word_emoji: ':poop: :snake: :six:'

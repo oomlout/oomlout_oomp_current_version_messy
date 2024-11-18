@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Set Screw M3 10 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_set_screw_m3_10_mm_length
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :phone: :calendar: :camel:
 * md5_6_alpha: 4wda9
 * md5_6: 7d8f41
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204wda9)
+[2x1](http://192.168.1.242:1112/?label=oomp%204wda9)
+[6x4](http://192.168.1.55:1112/?label=oomp%204wda9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_10_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m3-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933)                            
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.034 | 0.034 | 0.034 | 0.0188 | 0.0151 |
+| orbital_fasteners | 0.034 | 0.034 | 0.034 | 0.0188 | 0.0151 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +301,20 @@ bonus |
 | id_no_size | 10_mm_length |  
 | id_no_type | m3_10_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_10_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_10_mm_length |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m3-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m3-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m3-x-10-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933 |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_10_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204wda9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204wda9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204wda9 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -301,6 +356,7 @@ bonus |
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ss3m10 |  
 | oomlout_short_code_upper | SS3M10 |  
 | oomp_id | hardware_set_screw_m3_10_mm_length |  
@@ -320,12 +376,22 @@ bonus |
 | price_100 | 0.034 |  
 | price_1000 | 0.0188 |  
 | price_10000 | 0.0151 |  
+| price_10000_distributor_1 | 0.0151 |  
 | price_10000_distributor_orbital_fasteners | 0.0151 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0188 |  
 | price_1000_distributor_orbital_fasteners | 0.0188 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.034 |  
 | price_100_distributor_orbital_fasteners | 0.034 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.034 |  
 | price_1_distributor_orbital_fasteners | 0.034 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.034 |  
+| price_200_distributor_1 | 0.034 |  
 | price_200_distributor_orbital_fasteners | 0.034 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.034 |  
 | quantity_current | 200 |  
 | short_code | ss310 |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Ooeb
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_ooeb
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :angel: :kiss: :tea:
 * md5_6_alpha: 16c39
 * md5_6: 1e23b5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2016c39)
+[2x1](http://192.168.1.242:1112/?label=oomp%2016c39)
+[6x4](http://192.168.1.55:1112/?label=oomp%2016c39)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ooeb) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_ooeb)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ guide |
 | id_no_color | ooeb |  
 | id_no_size | ooeb |  
 | id_no_type | oomlout_oomlout_ooeb |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ooeb |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_ooeb |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ooeb |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2016c39 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2016c39 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2016c39 |  
 | link_redirect | https://github.com/oomlout/oomlout-OOEB |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ guide |
 | name_no_size | Ooeb |  
 | name_no_size_short | Ooeb |  
 | name_no_type | Oomlout Oomlout Ooeb |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_ooeb |  
 | oomp_word | angel kiss tea |  
 | oomp_word_emoji | :angel: :kiss: :tea: |  

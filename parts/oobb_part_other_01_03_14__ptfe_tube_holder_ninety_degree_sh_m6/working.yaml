@@ -1,3 +1,222 @@
+bip_39_word_dash_1: abstract
+bip_39_word_dash_10: abstract-end-book-alert-better-sting-resemble-imitate-lens-grape
+bip_39_word_dash_11: abstract-end-book-alert-better-sting-resemble-imitate-lens-grape-enroll
+bip_39_word_dash_12: abstract-end-book-alert-better-sting-resemble-imitate-lens-grape-enroll-argue
+bip_39_word_dash_2: abstract-end
+bip_39_word_dash_3: abstract-end-book
+bip_39_word_dash_4: abstract-end-book-alert
+bip_39_word_dash_5: abstract-end-book-alert-better
+bip_39_word_dash_6: abstract-end-book-alert-better-sting
+bip_39_word_dash_7: abstract-end-book-alert-better-sting-resemble
+bip_39_word_dash_8: abstract-end-book-alert-better-sting-resemble-imitate
+bip_39_word_dash_9: abstract-end-book-alert-better-sting-resemble-imitate-lens
+bip_39_word_new_br_1: abstract
+bip_39_word_new_br_10: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape
+bip_39_word_new_br_11: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape<br>enroll
+bip_39_word_new_br_12: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens<br>grape<br>enroll<br>argue
+bip_39_word_new_br_2: abstract<br>end
+bip_39_word_new_br_3: abstract<br>end<br>book
+bip_39_word_new_br_4: abstract<br>end<br>book<br>alert
+bip_39_word_new_br_5: abstract<br>end<br>book<br>alert<br>better
+bip_39_word_new_br_6: abstract<br>end<br>book<br>alert<br>better<br>sting
+bip_39_word_new_br_7: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble
+bip_39_word_new_br_8: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate
+bip_39_word_new_br_9: abstract<br>end<br>book<br>alert<br>better<br>sting<br>resemble<br>imitate<br>lens
+bip_39_word_new_line_1: abstract
+bip_39_word_new_line_10: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble
+
+  imitate
+
+  lens
+
+  grape'
+bip_39_word_new_line_11: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble
+
+  imitate
+
+  lens
+
+  grape
+
+  enroll'
+bip_39_word_new_line_12: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble
+
+  imitate
+
+  lens
+
+  grape
+
+  enroll
+
+  argue'
+bip_39_word_new_line_2: 'abstract
+
+  end'
+bip_39_word_new_line_3: 'abstract
+
+  end
+
+  book'
+bip_39_word_new_line_4: 'abstract
+
+  end
+
+  book
+
+  alert'
+bip_39_word_new_line_5: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better'
+bip_39_word_new_line_6: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting'
+bip_39_word_new_line_7: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble'
+bip_39_word_new_line_8: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble
+
+  imitate'
+bip_39_word_new_line_9: 'abstract
+
+  end
+
+  book
+
+  alert
+
+  better
+
+  sting
+
+  resemble
+
+  imitate
+
+  lens'
+bip_39_word_no_space_1: abstract
+bip_39_word_no_space_10: abstractendbookalertbetterstingresembleimitatelensgrape
+bip_39_word_no_space_11: abstractendbookalertbetterstingresembleimitatelensgrapeenroll
+bip_39_word_no_space_12: abstractendbookalertbetterstingresembleimitatelensgrapeenrollargue
+bip_39_word_no_space_2: abstractend
+bip_39_word_no_space_3: abstractendbook
+bip_39_word_no_space_4: abstractendbookalert
+bip_39_word_no_space_5: abstractendbookalertbetter
+bip_39_word_no_space_6: abstractendbookalertbettersting
+bip_39_word_no_space_7: abstractendbookalertbetterstingresemble
+bip_39_word_no_space_8: abstractendbookalertbetterstingresembleimitate
+bip_39_word_no_space_9: abstractendbookalertbetterstingresembleimitatelens
+bip_39_word_space_0:
+- abstract
+- end
+- book
+- alert
+- better
+- sting
+- resemble
+- imitate
+- lens
+- grape
+- enroll
+- argue
+bip_39_word_space_1: abstract
+bip_39_word_space_10: abstract end book alert better sting resemble imitate lens grape
+bip_39_word_space_11: abstract end book alert better sting resemble imitate lens grape
+  enroll
+bip_39_word_space_12: abstract end book alert better sting resemble imitate lens grape
+  enroll argue
+bip_39_word_space_2: abstract end
+bip_39_word_space_3: abstract end book
+bip_39_word_space_4: abstract end book alert
+bip_39_word_space_5: abstract end book alert better
+bip_39_word_space_6: abstract end book alert better sting
+bip_39_word_space_7: abstract end book alert better sting resemble
+bip_39_word_space_8: abstract end book alert better sting resemble imitate
+bip_39_word_space_9: abstract end book alert better sting resemble imitate lens
+bip_39_word_underscore_1: abstract
+bip_39_word_underscore_10: abstract_end_book_alert_better_sting_resemble_imitate_lens_grape
+bip_39_word_underscore_11: abstract_end_book_alert_better_sting_resemble_imitate_lens_grape_enroll
+bip_39_word_underscore_12: abstract_end_book_alert_better_sting_resemble_imitate_lens_grape_enroll_argue
+bip_39_word_underscore_2: abstract_end
+bip_39_word_underscore_3: abstract_end_book
+bip_39_word_underscore_4: abstract_end_book_alert
+bip_39_word_underscore_5: abstract_end_book_alert_better
+bip_39_word_underscore_6: abstract_end_book_alert_better_sting
+bip_39_word_underscore_7: abstract_end_book_alert_better_sting_resemble
+bip_39_word_underscore_8: abstract_end_book_alert_better_sting_resemble_imitate
+bip_39_word_underscore_9: abstract_end_book_alert_better_sting_resemble_imitate_lens
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
 id_no_color: 010314ptfetubeholderninetydegreeshm6
 id_no_size: 01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
 id_no_type: other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2077a6x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2077a6x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2077a6x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010314Ptfetubeholderninetydegreeshm6
 name_no_size: 01 03 14  Ptfe Tube Holder Ninety Degree Sh M6
 name_no_size_short: 01 03 14  Ptfe Tube Holder Ninety Degree Sh M6
 name_no_type: Other 01 03 14  Ptfe Tube Holder Ninety Degree Sh M6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_m6
 oomp_word: hamburger basketball dragon
 oomp_word_emoji: ':hamburger: :basketball: :dragon:'

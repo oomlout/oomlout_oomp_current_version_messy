@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wage
+bip_39_word_dash_10: wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift
+bip_39_word_dash_11: wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift-message
+bip_39_word_dash_12: wage-miss-awkward-primary-captain-stereo-right-uncle-person-drift-message-always
+bip_39_word_dash_2: wage-miss
+bip_39_word_dash_3: wage-miss-awkward
+bip_39_word_dash_4: wage-miss-awkward-primary
+bip_39_word_dash_5: wage-miss-awkward-primary-captain
+bip_39_word_dash_6: wage-miss-awkward-primary-captain-stereo
+bip_39_word_dash_7: wage-miss-awkward-primary-captain-stereo-right
+bip_39_word_dash_8: wage-miss-awkward-primary-captain-stereo-right-uncle
+bip_39_word_dash_9: wage-miss-awkward-primary-captain-stereo-right-uncle-person
+bip_39_word_new_br_1: wage
+bip_39_word_new_br_10: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift
+bip_39_word_new_br_11: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift<br>message
+bip_39_word_new_br_12: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person<br>drift<br>message<br>always
+bip_39_word_new_br_2: wage<br>miss
+bip_39_word_new_br_3: wage<br>miss<br>awkward
+bip_39_word_new_br_4: wage<br>miss<br>awkward<br>primary
+bip_39_word_new_br_5: wage<br>miss<br>awkward<br>primary<br>captain
+bip_39_word_new_br_6: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo
+bip_39_word_new_br_7: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right
+bip_39_word_new_br_8: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle
+bip_39_word_new_br_9: wage<br>miss<br>awkward<br>primary<br>captain<br>stereo<br>right<br>uncle<br>person
+bip_39_word_new_line_1: wage
+bip_39_word_new_line_10: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right
+
+  uncle
+
+  person
+
+  drift'
+bip_39_word_new_line_11: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right
+
+  uncle
+
+  person
+
+  drift
+
+  message'
+bip_39_word_new_line_12: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right
+
+  uncle
+
+  person
+
+  drift
+
+  message
+
+  always'
+bip_39_word_new_line_2: 'wage
+
+  miss'
+bip_39_word_new_line_3: 'wage
+
+  miss
+
+  awkward'
+bip_39_word_new_line_4: 'wage
+
+  miss
+
+  awkward
+
+  primary'
+bip_39_word_new_line_5: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain'
+bip_39_word_new_line_6: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo'
+bip_39_word_new_line_7: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right'
+bip_39_word_new_line_8: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right
+
+  uncle'
+bip_39_word_new_line_9: 'wage
+
+  miss
+
+  awkward
+
+  primary
+
+  captain
+
+  stereo
+
+  right
+
+  uncle
+
+  person'
+bip_39_word_no_space_1: wage
+bip_39_word_no_space_10: wagemissawkwardprimarycaptainstereorightunclepersondrift
+bip_39_word_no_space_11: wagemissawkwardprimarycaptainstereorightunclepersondriftmessage
+bip_39_word_no_space_12: wagemissawkwardprimarycaptainstereorightunclepersondriftmessagealways
+bip_39_word_no_space_2: wagemiss
+bip_39_word_no_space_3: wagemissawkward
+bip_39_word_no_space_4: wagemissawkwardprimary
+bip_39_word_no_space_5: wagemissawkwardprimarycaptain
+bip_39_word_no_space_6: wagemissawkwardprimarycaptainstereo
+bip_39_word_no_space_7: wagemissawkwardprimarycaptainstereoright
+bip_39_word_no_space_8: wagemissawkwardprimarycaptainstereorightuncle
+bip_39_word_no_space_9: wagemissawkwardprimarycaptainstereorightuncleperson
+bip_39_word_space_0:
+- wage
+- miss
+- awkward
+- primary
+- captain
+- stereo
+- right
+- uncle
+- person
+- drift
+- message
+- always
+bip_39_word_space_1: wage
+bip_39_word_space_10: wage miss awkward primary captain stereo right uncle person
+  drift
+bip_39_word_space_11: wage miss awkward primary captain stereo right uncle person
+  drift message
+bip_39_word_space_12: wage miss awkward primary captain stereo right uncle person
+  drift message always
+bip_39_word_space_2: wage miss
+bip_39_word_space_3: wage miss awkward
+bip_39_word_space_4: wage miss awkward primary
+bip_39_word_space_5: wage miss awkward primary captain
+bip_39_word_space_6: wage miss awkward primary captain stereo
+bip_39_word_space_7: wage miss awkward primary captain stereo right
+bip_39_word_space_8: wage miss awkward primary captain stereo right uncle
+bip_39_word_space_9: wage miss awkward primary captain stereo right uncle person
+bip_39_word_underscore_1: wage
+bip_39_word_underscore_10: wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift
+bip_39_word_underscore_11: wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift_message
+bip_39_word_underscore_12: wage_miss_awkward_primary_captain_stereo_right_uncle_person_drift_message_always
+bip_39_word_underscore_2: wage_miss
+bip_39_word_underscore_3: wage_miss_awkward
+bip_39_word_underscore_4: wage_miss_awkward_primary
+bip_39_word_underscore_5: wage_miss_awkward_primary_captain
+bip_39_word_underscore_6: wage_miss_awkward_primary_captain_stereo
+bip_39_word_underscore_7: wage_miss_awkward_primary_captain_stereo_right
+bip_39_word_underscore_8: wage_miss_awkward_primary_captain_stereo_right_uncle
+bip_39_word_underscore_9: wage_miss_awkward_primary_captain_stereo_right_uncle_person
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_09_10_27
 id_no_color: 091027
 id_no_size: 09_10_27
 id_no_type: tray_09_10_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_10_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_10_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204q3f4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204q3f4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204q3f4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 091027
 name_no_size: 09 10 27
 name_no_size_short: 09 10 27
 name_no_type: Tray 09 10 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_10_27
 oomp_word: balloon thumbsdown banana
 oomp_word_emoji: ':balloon: :thumbsdown: :banana:'

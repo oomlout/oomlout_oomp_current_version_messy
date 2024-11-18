@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fossil
+bip_39_word_dash_10: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute
+bip_39_word_dash_11: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute-exhibit
+bip_39_word_dash_12: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan-salute-exhibit-ability
+bip_39_word_dash_2: fossil-approve
+bip_39_word_dash_3: fossil-approve-exhaust
+bip_39_word_dash_4: fossil-approve-exhaust-economy
+bip_39_word_dash_5: fossil-approve-exhaust-economy-acid
+bip_39_word_dash_6: fossil-approve-exhaust-economy-acid-assist
+bip_39_word_dash_7: fossil-approve-exhaust-economy-acid-assist-phrase
+bip_39_word_dash_8: fossil-approve-exhaust-economy-acid-assist-phrase-burden
+bip_39_word_dash_9: fossil-approve-exhaust-economy-acid-assist-phrase-burden-scan
+bip_39_word_new_br_1: fossil
+bip_39_word_new_br_10: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute
+bip_39_word_new_br_11: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit
+bip_39_word_new_br_12: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan<br>salute<br>exhibit<br>ability
+bip_39_word_new_br_2: fossil<br>approve
+bip_39_word_new_br_3: fossil<br>approve<br>exhaust
+bip_39_word_new_br_4: fossil<br>approve<br>exhaust<br>economy
+bip_39_word_new_br_5: fossil<br>approve<br>exhaust<br>economy<br>acid
+bip_39_word_new_br_6: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist
+bip_39_word_new_br_7: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase
+bip_39_word_new_br_8: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden
+bip_39_word_new_br_9: fossil<br>approve<br>exhaust<br>economy<br>acid<br>assist<br>phrase<br>burden<br>scan
+bip_39_word_new_line_1: fossil
+bip_39_word_new_line_10: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute'
+bip_39_word_new_line_11: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute
+
+  exhibit'
+bip_39_word_new_line_12: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan
+
+  salute
+
+  exhibit
+
+  ability'
+bip_39_word_new_line_2: 'fossil
+
+  approve'
+bip_39_word_new_line_3: 'fossil
+
+  approve
+
+  exhaust'
+bip_39_word_new_line_4: 'fossil
+
+  approve
+
+  exhaust
+
+  economy'
+bip_39_word_new_line_5: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid'
+bip_39_word_new_line_6: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist'
+bip_39_word_new_line_7: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase'
+bip_39_word_new_line_8: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden'
+bip_39_word_new_line_9: 'fossil
+
+  approve
+
+  exhaust
+
+  economy
+
+  acid
+
+  assist
+
+  phrase
+
+  burden
+
+  scan'
+bip_39_word_no_space_1: fossil
+bip_39_word_no_space_10: fossilapproveexhausteconomyacidassistphraseburdenscansalute
+bip_39_word_no_space_11: fossilapproveexhausteconomyacidassistphraseburdenscansaluteexhibit
+bip_39_word_no_space_12: fossilapproveexhausteconomyacidassistphraseburdenscansaluteexhibitability
+bip_39_word_no_space_2: fossilapprove
+bip_39_word_no_space_3: fossilapproveexhaust
+bip_39_word_no_space_4: fossilapproveexhausteconomy
+bip_39_word_no_space_5: fossilapproveexhausteconomyacid
+bip_39_word_no_space_6: fossilapproveexhausteconomyacidassist
+bip_39_word_no_space_7: fossilapproveexhausteconomyacidassistphrase
+bip_39_word_no_space_8: fossilapproveexhausteconomyacidassistphraseburden
+bip_39_word_no_space_9: fossilapproveexhausteconomyacidassistphraseburdenscan
+bip_39_word_space_0:
+- fossil
+- approve
+- exhaust
+- economy
+- acid
+- assist
+- phrase
+- burden
+- scan
+- salute
+- exhibit
+- ability
+bip_39_word_space_1: fossil
+bip_39_word_space_10: fossil approve exhaust economy acid assist phrase burden scan
+  salute
+bip_39_word_space_11: fossil approve exhaust economy acid assist phrase burden scan
+  salute exhibit
+bip_39_word_space_12: fossil approve exhaust economy acid assist phrase burden scan
+  salute exhibit ability
+bip_39_word_space_2: fossil approve
+bip_39_word_space_3: fossil approve exhaust
+bip_39_word_space_4: fossil approve exhaust economy
+bip_39_word_space_5: fossil approve exhaust economy acid
+bip_39_word_space_6: fossil approve exhaust economy acid assist
+bip_39_word_space_7: fossil approve exhaust economy acid assist phrase
+bip_39_word_space_8: fossil approve exhaust economy acid assist phrase burden
+bip_39_word_space_9: fossil approve exhaust economy acid assist phrase burden scan
+bip_39_word_underscore_1: fossil
+bip_39_word_underscore_10: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute
+bip_39_word_underscore_11: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute_exhibit
+bip_39_word_underscore_12: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan_salute_exhibit_ability
+bip_39_word_underscore_2: fossil_approve
+bip_39_word_underscore_3: fossil_approve_exhaust
+bip_39_word_underscore_4: fossil_approve_exhaust_economy
+bip_39_word_underscore_5: fossil_approve_exhaust_economy_acid
+bip_39_word_underscore_6: fossil_approve_exhaust_economy_acid_assist
+bip_39_word_underscore_7: fossil_approve_exhaust_economy_acid_assist_phrase
+bip_39_word_underscore_8: fossil_approve_exhaust_economy_acid_assist_phrase_burden
+bip_39_word_underscore_9: fossil_approve_exhaust_economy_acid_assist_phrase_burden_scan
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_09_01_21
 id_no_color: 090121
 id_no_size: 09_01_21
 id_no_type: tray_thin_09_01_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_01_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203okv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203okv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203okv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 090121
 name_no_size: 09 01 21
 name_no_size_short: 09 01 21
 name_no_type: Tray Thin 09 01 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_01_21
 oomp_word: blush diamonds cyclone
 oomp_word_emoji: ':blush: :diamonds: :cyclone:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boost
+bip_39_word_dash_10: boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march
+bip_39_word_dash_11: boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march-umbrella
+bip_39_word_dash_12: boost-uncover-mutual-view-flame-destroy-rigid-oval-paper-march-umbrella-appear
+bip_39_word_dash_2: boost-uncover
+bip_39_word_dash_3: boost-uncover-mutual
+bip_39_word_dash_4: boost-uncover-mutual-view
+bip_39_word_dash_5: boost-uncover-mutual-view-flame
+bip_39_word_dash_6: boost-uncover-mutual-view-flame-destroy
+bip_39_word_dash_7: boost-uncover-mutual-view-flame-destroy-rigid
+bip_39_word_dash_8: boost-uncover-mutual-view-flame-destroy-rigid-oval
+bip_39_word_dash_9: boost-uncover-mutual-view-flame-destroy-rigid-oval-paper
+bip_39_word_new_br_1: boost
+bip_39_word_new_br_10: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march
+bip_39_word_new_br_11: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march<br>umbrella
+bip_39_word_new_br_12: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper<br>march<br>umbrella<br>appear
+bip_39_word_new_br_2: boost<br>uncover
+bip_39_word_new_br_3: boost<br>uncover<br>mutual
+bip_39_word_new_br_4: boost<br>uncover<br>mutual<br>view
+bip_39_word_new_br_5: boost<br>uncover<br>mutual<br>view<br>flame
+bip_39_word_new_br_6: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy
+bip_39_word_new_br_7: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid
+bip_39_word_new_br_8: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval
+bip_39_word_new_br_9: boost<br>uncover<br>mutual<br>view<br>flame<br>destroy<br>rigid<br>oval<br>paper
+bip_39_word_new_line_1: boost
+bip_39_word_new_line_10: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid
+
+  oval
+
+  paper
+
+  march'
+bip_39_word_new_line_11: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid
+
+  oval
+
+  paper
+
+  march
+
+  umbrella'
+bip_39_word_new_line_12: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid
+
+  oval
+
+  paper
+
+  march
+
+  umbrella
+
+  appear'
+bip_39_word_new_line_2: 'boost
+
+  uncover'
+bip_39_word_new_line_3: 'boost
+
+  uncover
+
+  mutual'
+bip_39_word_new_line_4: 'boost
+
+  uncover
+
+  mutual
+
+  view'
+bip_39_word_new_line_5: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame'
+bip_39_word_new_line_6: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy'
+bip_39_word_new_line_7: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid'
+bip_39_word_new_line_8: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid
+
+  oval'
+bip_39_word_new_line_9: 'boost
+
+  uncover
+
+  mutual
+
+  view
+
+  flame
+
+  destroy
+
+  rigid
+
+  oval
+
+  paper'
+bip_39_word_no_space_1: boost
+bip_39_word_no_space_10: boostuncovermutualviewflamedestroyrigidovalpapermarch
+bip_39_word_no_space_11: boostuncovermutualviewflamedestroyrigidovalpapermarchumbrella
+bip_39_word_no_space_12: boostuncovermutualviewflamedestroyrigidovalpapermarchumbrellaappear
+bip_39_word_no_space_2: boostuncover
+bip_39_word_no_space_3: boostuncovermutual
+bip_39_word_no_space_4: boostuncovermutualview
+bip_39_word_no_space_5: boostuncovermutualviewflame
+bip_39_word_no_space_6: boostuncovermutualviewflamedestroy
+bip_39_word_no_space_7: boostuncovermutualviewflamedestroyrigid
+bip_39_word_no_space_8: boostuncovermutualviewflamedestroyrigidoval
+bip_39_word_no_space_9: boostuncovermutualviewflamedestroyrigidovalpaper
+bip_39_word_space_0:
+- boost
+- uncover
+- mutual
+- view
+- flame
+- destroy
+- rigid
+- oval
+- paper
+- march
+- umbrella
+- appear
+bip_39_word_space_1: boost
+bip_39_word_space_10: boost uncover mutual view flame destroy rigid oval paper march
+bip_39_word_space_11: boost uncover mutual view flame destroy rigid oval paper march
+  umbrella
+bip_39_word_space_12: boost uncover mutual view flame destroy rigid oval paper march
+  umbrella appear
+bip_39_word_space_2: boost uncover
+bip_39_word_space_3: boost uncover mutual
+bip_39_word_space_4: boost uncover mutual view
+bip_39_word_space_5: boost uncover mutual view flame
+bip_39_word_space_6: boost uncover mutual view flame destroy
+bip_39_word_space_7: boost uncover mutual view flame destroy rigid
+bip_39_word_space_8: boost uncover mutual view flame destroy rigid oval
+bip_39_word_space_9: boost uncover mutual view flame destroy rigid oval paper
+bip_39_word_underscore_1: boost
+bip_39_word_underscore_10: boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march
+bip_39_word_underscore_11: boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march_umbrella
+bip_39_word_underscore_12: boost_uncover_mutual_view_flame_destroy_rigid_oval_paper_march_umbrella_appear
+bip_39_word_underscore_2: boost_uncover
+bip_39_word_underscore_3: boost_uncover_mutual
+bip_39_word_underscore_4: boost_uncover_mutual_view
+bip_39_word_underscore_5: boost_uncover_mutual_view_flame
+bip_39_word_underscore_6: boost_uncover_mutual_view_flame_destroy
+bip_39_word_underscore_7: boost_uncover_mutual_view_flame_destroy_rigid
+bip_39_word_underscore_8: boost_uncover_mutual_view_flame_destroy_rigid_oval
+bip_39_word_underscore_9: boost_uncover_mutual_view_flame_destroy_rigid_oval_paper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__s
 id_no_color: 0701s
 id_no_size: 07_01__s
 id_no_type: bunting_alphabet_07_01__s
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__s
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__s
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__s
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206mkpt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206mkpt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206mkpt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0701S
 name_no_size: 07 01  S
 name_no_size_short: 07 01  S
 name_no_type: Bunting Alphabet 07 01  S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__s
 oomp_word: sandal hospital bouquet
 oomp_word_emoji: ':sandal: :hospital: :bouquet:'

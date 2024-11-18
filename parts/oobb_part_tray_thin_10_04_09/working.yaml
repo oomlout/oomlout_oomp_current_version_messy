@@ -1,3 +1,223 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal
+bip_39_word_dash_11: album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal-castle
+bip_39_word_dash_12: album-erosion-fluid-cattle-expire-maximum-pepper-road-slight-fiscal-castle-ask
+bip_39_word_dash_2: album-erosion
+bip_39_word_dash_3: album-erosion-fluid
+bip_39_word_dash_4: album-erosion-fluid-cattle
+bip_39_word_dash_5: album-erosion-fluid-cattle-expire
+bip_39_word_dash_6: album-erosion-fluid-cattle-expire-maximum
+bip_39_word_dash_7: album-erosion-fluid-cattle-expire-maximum-pepper
+bip_39_word_dash_8: album-erosion-fluid-cattle-expire-maximum-pepper-road
+bip_39_word_dash_9: album-erosion-fluid-cattle-expire-maximum-pepper-road-slight
+bip_39_word_new_br_1: album
+bip_39_word_new_br_10: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal
+bip_39_word_new_br_11: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal<br>castle
+bip_39_word_new_br_12: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight<br>fiscal<br>castle<br>ask
+bip_39_word_new_br_2: album<br>erosion
+bip_39_word_new_br_3: album<br>erosion<br>fluid
+bip_39_word_new_br_4: album<br>erosion<br>fluid<br>cattle
+bip_39_word_new_br_5: album<br>erosion<br>fluid<br>cattle<br>expire
+bip_39_word_new_br_6: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum
+bip_39_word_new_br_7: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper
+bip_39_word_new_br_8: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road
+bip_39_word_new_br_9: album<br>erosion<br>fluid<br>cattle<br>expire<br>maximum<br>pepper<br>road<br>slight
+bip_39_word_new_line_1: album
+bip_39_word_new_line_10: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal'
+bip_39_word_new_line_11: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal
+
+  castle'
+bip_39_word_new_line_12: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight
+
+  fiscal
+
+  castle
+
+  ask'
+bip_39_word_new_line_2: 'album
+
+  erosion'
+bip_39_word_new_line_3: 'album
+
+  erosion
+
+  fluid'
+bip_39_word_new_line_4: 'album
+
+  erosion
+
+  fluid
+
+  cattle'
+bip_39_word_new_line_5: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire'
+bip_39_word_new_line_6: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum'
+bip_39_word_new_line_7: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper'
+bip_39_word_new_line_8: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road'
+bip_39_word_new_line_9: 'album
+
+  erosion
+
+  fluid
+
+  cattle
+
+  expire
+
+  maximum
+
+  pepper
+
+  road
+
+  slight'
+bip_39_word_no_space_1: album
+bip_39_word_no_space_10: albumerosionfluidcattleexpiremaximumpepperroadslightfiscal
+bip_39_word_no_space_11: albumerosionfluidcattleexpiremaximumpepperroadslightfiscalcastle
+bip_39_word_no_space_12: albumerosionfluidcattleexpiremaximumpepperroadslightfiscalcastleask
+bip_39_word_no_space_2: albumerosion
+bip_39_word_no_space_3: albumerosionfluid
+bip_39_word_no_space_4: albumerosionfluidcattle
+bip_39_word_no_space_5: albumerosionfluidcattleexpire
+bip_39_word_no_space_6: albumerosionfluidcattleexpiremaximum
+bip_39_word_no_space_7: albumerosionfluidcattleexpiremaximumpepper
+bip_39_word_no_space_8: albumerosionfluidcattleexpiremaximumpepperroad
+bip_39_word_no_space_9: albumerosionfluidcattleexpiremaximumpepperroadslight
+bip_39_word_space_0:
+- album
+- erosion
+- fluid
+- cattle
+- expire
+- maximum
+- pepper
+- road
+- slight
+- fiscal
+- castle
+- ask
+bip_39_word_space_1: album
+bip_39_word_space_10: album erosion fluid cattle expire maximum pepper road slight
+  fiscal
+bip_39_word_space_11: album erosion fluid cattle expire maximum pepper road slight
+  fiscal castle
+bip_39_word_space_12: album erosion fluid cattle expire maximum pepper road slight
+  fiscal castle ask
+bip_39_word_space_2: album erosion
+bip_39_word_space_3: album erosion fluid
+bip_39_word_space_4: album erosion fluid cattle
+bip_39_word_space_5: album erosion fluid cattle expire
+bip_39_word_space_6: album erosion fluid cattle expire maximum
+bip_39_word_space_7: album erosion fluid cattle expire maximum pepper
+bip_39_word_space_8: album erosion fluid cattle expire maximum pepper road
+bip_39_word_space_9: album erosion fluid cattle expire maximum pepper road slight
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal
+bip_39_word_underscore_11: album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal_castle
+bip_39_word_underscore_12: album_erosion_fluid_cattle_expire_maximum_pepper_road_slight_fiscal_castle_ask
+bip_39_word_underscore_2: album_erosion
+bip_39_word_underscore_3: album_erosion_fluid
+bip_39_word_underscore_4: album_erosion_fluid_cattle
+bip_39_word_underscore_5: album_erosion_fluid_cattle_expire
+bip_39_word_underscore_6: album_erosion_fluid_cattle_expire_maximum
+bip_39_word_underscore_7: album_erosion_fluid_cattle_expire_maximum_pepper
+bip_39_word_underscore_8: album_erosion_fluid_cattle_expire_maximum_pepper_road
+bip_39_word_underscore_9: album_erosion_fluid_cattle_expire_maximum_pepper_road_slight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_04_09
 id_no_color: '100409'
 id_no_size: '10_04_09'
 id_no_type: tray_thin_10_04_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208a6fp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208a6fp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208a6fp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100409'
 name_no_size: 10 04 09
 name_no_size_short: 10 04 09
 name_no_type: Tray Thin 10 04 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_04_09
 oomp_word: corn baby_chick poop
 oomp_word_emoji: ':corn: :baby_chick: :poop:'

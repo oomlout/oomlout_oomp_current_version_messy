@@ -304,7 +304,14 @@ id_no_class: github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt
 id_no_color: oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
 id_no_size: oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
 id_no_type: oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2055v38
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2055v38
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2055v38
 link_redirect: https://github.com/oomlout/oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
 manufacturer: ''
 manufacturer_capital: ''
@@ -334,6 +341,7 @@ name_no_size: Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control
 name_no_size_short: Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control
 name_no_type: Oomlout Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo
   Control
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control
 oomp_word: key snail book
 oomp_word_emoji: ':key: :snail: :book:'

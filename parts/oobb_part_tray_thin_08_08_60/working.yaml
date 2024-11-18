@@ -1,3 +1,221 @@
+bip_39_word_dash_1: senior
+bip_39_word_dash_10: senior-trip-stock-agree-year-rack-myself-trip-use-cruel
+bip_39_word_dash_11: senior-trip-stock-agree-year-rack-myself-trip-use-cruel-hood
+bip_39_word_dash_12: senior-trip-stock-agree-year-rack-myself-trip-use-cruel-hood-around
+bip_39_word_dash_2: senior-trip
+bip_39_word_dash_3: senior-trip-stock
+bip_39_word_dash_4: senior-trip-stock-agree
+bip_39_word_dash_5: senior-trip-stock-agree-year
+bip_39_word_dash_6: senior-trip-stock-agree-year-rack
+bip_39_word_dash_7: senior-trip-stock-agree-year-rack-myself
+bip_39_word_dash_8: senior-trip-stock-agree-year-rack-myself-trip
+bip_39_word_dash_9: senior-trip-stock-agree-year-rack-myself-trip-use
+bip_39_word_new_br_1: senior
+bip_39_word_new_br_10: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel
+bip_39_word_new_br_11: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel<br>hood
+bip_39_word_new_br_12: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use<br>cruel<br>hood<br>around
+bip_39_word_new_br_2: senior<br>trip
+bip_39_word_new_br_3: senior<br>trip<br>stock
+bip_39_word_new_br_4: senior<br>trip<br>stock<br>agree
+bip_39_word_new_br_5: senior<br>trip<br>stock<br>agree<br>year
+bip_39_word_new_br_6: senior<br>trip<br>stock<br>agree<br>year<br>rack
+bip_39_word_new_br_7: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself
+bip_39_word_new_br_8: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip
+bip_39_word_new_br_9: senior<br>trip<br>stock<br>agree<br>year<br>rack<br>myself<br>trip<br>use
+bip_39_word_new_line_1: senior
+bip_39_word_new_line_10: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself
+
+  trip
+
+  use
+
+  cruel'
+bip_39_word_new_line_11: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself
+
+  trip
+
+  use
+
+  cruel
+
+  hood'
+bip_39_word_new_line_12: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself
+
+  trip
+
+  use
+
+  cruel
+
+  hood
+
+  around'
+bip_39_word_new_line_2: 'senior
+
+  trip'
+bip_39_word_new_line_3: 'senior
+
+  trip
+
+  stock'
+bip_39_word_new_line_4: 'senior
+
+  trip
+
+  stock
+
+  agree'
+bip_39_word_new_line_5: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year'
+bip_39_word_new_line_6: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack'
+bip_39_word_new_line_7: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself'
+bip_39_word_new_line_8: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself
+
+  trip'
+bip_39_word_new_line_9: 'senior
+
+  trip
+
+  stock
+
+  agree
+
+  year
+
+  rack
+
+  myself
+
+  trip
+
+  use'
+bip_39_word_no_space_1: senior
+bip_39_word_no_space_10: seniortripstockagreeyearrackmyselftripusecruel
+bip_39_word_no_space_11: seniortripstockagreeyearrackmyselftripusecruelhood
+bip_39_word_no_space_12: seniortripstockagreeyearrackmyselftripusecruelhoodaround
+bip_39_word_no_space_2: seniortrip
+bip_39_word_no_space_3: seniortripstock
+bip_39_word_no_space_4: seniortripstockagree
+bip_39_word_no_space_5: seniortripstockagreeyear
+bip_39_word_no_space_6: seniortripstockagreeyearrack
+bip_39_word_no_space_7: seniortripstockagreeyearrackmyself
+bip_39_word_no_space_8: seniortripstockagreeyearrackmyselftrip
+bip_39_word_no_space_9: seniortripstockagreeyearrackmyselftripuse
+bip_39_word_space_0:
+- senior
+- trip
+- stock
+- agree
+- year
+- rack
+- myself
+- trip
+- use
+- cruel
+- hood
+- around
+bip_39_word_space_1: senior
+bip_39_word_space_10: senior trip stock agree year rack myself trip use cruel
+bip_39_word_space_11: senior trip stock agree year rack myself trip use cruel hood
+bip_39_word_space_12: senior trip stock agree year rack myself trip use cruel hood
+  around
+bip_39_word_space_2: senior trip
+bip_39_word_space_3: senior trip stock
+bip_39_word_space_4: senior trip stock agree
+bip_39_word_space_5: senior trip stock agree year
+bip_39_word_space_6: senior trip stock agree year rack
+bip_39_word_space_7: senior trip stock agree year rack myself
+bip_39_word_space_8: senior trip stock agree year rack myself trip
+bip_39_word_space_9: senior trip stock agree year rack myself trip use
+bip_39_word_underscore_1: senior
+bip_39_word_underscore_10: senior_trip_stock_agree_year_rack_myself_trip_use_cruel
+bip_39_word_underscore_11: senior_trip_stock_agree_year_rack_myself_trip_use_cruel_hood
+bip_39_word_underscore_12: senior_trip_stock_agree_year_rack_myself_trip_use_cruel_hood_around
+bip_39_word_underscore_2: senior_trip
+bip_39_word_underscore_3: senior_trip_stock
+bip_39_word_underscore_4: senior_trip_stock_agree
+bip_39_word_underscore_5: senior_trip_stock_agree_year
+bip_39_word_underscore_6: senior_trip_stock_agree_year_rack
+bip_39_word_underscore_7: senior_trip_stock_agree_year_rack_myself
+bip_39_word_underscore_8: senior_trip_stock_agree_year_rack_myself_trip
+bip_39_word_underscore_9: senior_trip_stock_agree_year_rack_myself_trip_use
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_08_08_60
 id_no_color: 080860
 id_no_size: 08_08_60
 id_no_type: tray_thin_08_08_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_08_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_08_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_08_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207lpcd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207lpcd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207lpcd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 080860
 name_no_size: 08 08 60
 name_no_size_short: 08 08 60
 name_no_type: Tray Thin 08 08 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_08_60
 oomp_word: birthday hotel scroll
 oomp_word_emoji: ':birthday: :hotel: :scroll:'

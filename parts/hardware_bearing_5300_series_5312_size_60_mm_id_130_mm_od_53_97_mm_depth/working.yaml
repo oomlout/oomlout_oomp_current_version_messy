@@ -1,3 +1,222 @@
+bip_39_word_dash_1: nuclear
+bip_39_word_dash_10: nuclear-peasant-alcohol-dial-extend-photo-gloom-fine-siege-okay
+bip_39_word_dash_11: nuclear-peasant-alcohol-dial-extend-photo-gloom-fine-siege-okay-truly
+bip_39_word_dash_12: nuclear-peasant-alcohol-dial-extend-photo-gloom-fine-siege-okay-truly-affair
+bip_39_word_dash_2: nuclear-peasant
+bip_39_word_dash_3: nuclear-peasant-alcohol
+bip_39_word_dash_4: nuclear-peasant-alcohol-dial
+bip_39_word_dash_5: nuclear-peasant-alcohol-dial-extend
+bip_39_word_dash_6: nuclear-peasant-alcohol-dial-extend-photo
+bip_39_word_dash_7: nuclear-peasant-alcohol-dial-extend-photo-gloom
+bip_39_word_dash_8: nuclear-peasant-alcohol-dial-extend-photo-gloom-fine
+bip_39_word_dash_9: nuclear-peasant-alcohol-dial-extend-photo-gloom-fine-siege
+bip_39_word_new_br_1: nuclear
+bip_39_word_new_br_10: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom<br>fine<br>siege<br>okay
+bip_39_word_new_br_11: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom<br>fine<br>siege<br>okay<br>truly
+bip_39_word_new_br_12: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom<br>fine<br>siege<br>okay<br>truly<br>affair
+bip_39_word_new_br_2: nuclear<br>peasant
+bip_39_word_new_br_3: nuclear<br>peasant<br>alcohol
+bip_39_word_new_br_4: nuclear<br>peasant<br>alcohol<br>dial
+bip_39_word_new_br_5: nuclear<br>peasant<br>alcohol<br>dial<br>extend
+bip_39_word_new_br_6: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo
+bip_39_word_new_br_7: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom
+bip_39_word_new_br_8: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom<br>fine
+bip_39_word_new_br_9: nuclear<br>peasant<br>alcohol<br>dial<br>extend<br>photo<br>gloom<br>fine<br>siege
+bip_39_word_new_line_1: nuclear
+bip_39_word_new_line_10: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom
+
+  fine
+
+  siege
+
+  okay'
+bip_39_word_new_line_11: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom
+
+  fine
+
+  siege
+
+  okay
+
+  truly'
+bip_39_word_new_line_12: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom
+
+  fine
+
+  siege
+
+  okay
+
+  truly
+
+  affair'
+bip_39_word_new_line_2: 'nuclear
+
+  peasant'
+bip_39_word_new_line_3: 'nuclear
+
+  peasant
+
+  alcohol'
+bip_39_word_new_line_4: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial'
+bip_39_word_new_line_5: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend'
+bip_39_word_new_line_6: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo'
+bip_39_word_new_line_7: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom'
+bip_39_word_new_line_8: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom
+
+  fine'
+bip_39_word_new_line_9: 'nuclear
+
+  peasant
+
+  alcohol
+
+  dial
+
+  extend
+
+  photo
+
+  gloom
+
+  fine
+
+  siege'
+bip_39_word_no_space_1: nuclear
+bip_39_word_no_space_10: nuclearpeasantalcoholdialextendphotogloomfinesiegeokay
+bip_39_word_no_space_11: nuclearpeasantalcoholdialextendphotogloomfinesiegeokaytruly
+bip_39_word_no_space_12: nuclearpeasantalcoholdialextendphotogloomfinesiegeokaytrulyaffair
+bip_39_word_no_space_2: nuclearpeasant
+bip_39_word_no_space_3: nuclearpeasantalcohol
+bip_39_word_no_space_4: nuclearpeasantalcoholdial
+bip_39_word_no_space_5: nuclearpeasantalcoholdialextend
+bip_39_word_no_space_6: nuclearpeasantalcoholdialextendphoto
+bip_39_word_no_space_7: nuclearpeasantalcoholdialextendphotogloom
+bip_39_word_no_space_8: nuclearpeasantalcoholdialextendphotogloomfine
+bip_39_word_no_space_9: nuclearpeasantalcoholdialextendphotogloomfinesiege
+bip_39_word_space_0:
+- nuclear
+- peasant
+- alcohol
+- dial
+- extend
+- photo
+- gloom
+- fine
+- siege
+- okay
+- truly
+- affair
+bip_39_word_space_1: nuclear
+bip_39_word_space_10: nuclear peasant alcohol dial extend photo gloom fine siege okay
+bip_39_word_space_11: nuclear peasant alcohol dial extend photo gloom fine siege okay
+  truly
+bip_39_word_space_12: nuclear peasant alcohol dial extend photo gloom fine siege okay
+  truly affair
+bip_39_word_space_2: nuclear peasant
+bip_39_word_space_3: nuclear peasant alcohol
+bip_39_word_space_4: nuclear peasant alcohol dial
+bip_39_word_space_5: nuclear peasant alcohol dial extend
+bip_39_word_space_6: nuclear peasant alcohol dial extend photo
+bip_39_word_space_7: nuclear peasant alcohol dial extend photo gloom
+bip_39_word_space_8: nuclear peasant alcohol dial extend photo gloom fine
+bip_39_word_space_9: nuclear peasant alcohol dial extend photo gloom fine siege
+bip_39_word_underscore_1: nuclear
+bip_39_word_underscore_10: nuclear_peasant_alcohol_dial_extend_photo_gloom_fine_siege_okay
+bip_39_word_underscore_11: nuclear_peasant_alcohol_dial_extend_photo_gloom_fine_siege_okay_truly
+bip_39_word_underscore_12: nuclear_peasant_alcohol_dial_extend_photo_gloom_fine_siege_okay_truly_affair
+bip_39_word_underscore_2: nuclear_peasant
+bip_39_word_underscore_3: nuclear_peasant_alcohol
+bip_39_word_underscore_4: nuclear_peasant_alcohol_dial
+bip_39_word_underscore_5: nuclear_peasant_alcohol_dial_extend
+bip_39_word_underscore_6: nuclear_peasant_alcohol_dial_extend_photo
+bip_39_word_underscore_7: nuclear_peasant_alcohol_dial_extend_photo_gloom
+bip_39_word_underscore_8: nuclear_peasant_alcohol_dial_extend_photo_gloom_fine
+bip_39_word_underscore_9: nuclear_peasant_alcohol_dial_extend_photo_gloom_fine_siege
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
 id_no_color: 60_mm_id_130_mm_od_53_97_mm_depth
 id_no_size: 5312_size_60_mm_id_130_mm_od_53_97_mm_depth
 id_no_type: 5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202q2ue
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202q2ue
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202q2ue
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 60 mm ID 130 mm OD 53 97 mm Depth
 name_no_size: 5312 Size 60 mm ID 130 mm OD 53 97 mm Depth
 name_no_size_short: 5312 Size 60 Mm Id 130 Mm Od 53 97 Mm Depth
 name_no_type: 5300 Series 5312 Size 60 mm ID 130 mm OD 53 97 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br5312
+oomlout_short_code_upper: BR5312
 oomp_key: oomp_hardware_bearing_5300_series_5312_size_60_mm_id_130_mm_od_53_97_mm_depth
 oomp_word: snake pineapple airplane
 oomp_word_emoji: ':snake: :pineapple: :airplane:'

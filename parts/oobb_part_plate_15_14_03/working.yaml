@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hen
+bip_39_word_dash_10: hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame
+bip_39_word_dash_11: hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame-enforce
+bip_39_word_dash_12: hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable-frame-enforce-aerobic
+bip_39_word_dash_2: hen-dinosaur
+bip_39_word_dash_3: hen-dinosaur-corn
+bip_39_word_dash_4: hen-dinosaur-corn-enjoy
+bip_39_word_dash_5: hen-dinosaur-corn-enjoy-stage
+bip_39_word_dash_6: hen-dinosaur-corn-enjoy-stage-fine
+bip_39_word_dash_7: hen-dinosaur-corn-enjoy-stage-fine-canoe
+bip_39_word_dash_8: hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer
+bip_39_word_dash_9: hen-dinosaur-corn-enjoy-stage-fine-canoe-soccer-enable
+bip_39_word_new_br_1: hen
+bip_39_word_new_br_10: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame
+bip_39_word_new_br_11: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame<br>enforce
+bip_39_word_new_br_12: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable<br>frame<br>enforce<br>aerobic
+bip_39_word_new_br_2: hen<br>dinosaur
+bip_39_word_new_br_3: hen<br>dinosaur<br>corn
+bip_39_word_new_br_4: hen<br>dinosaur<br>corn<br>enjoy
+bip_39_word_new_br_5: hen<br>dinosaur<br>corn<br>enjoy<br>stage
+bip_39_word_new_br_6: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine
+bip_39_word_new_br_7: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe
+bip_39_word_new_br_8: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer
+bip_39_word_new_br_9: hen<br>dinosaur<br>corn<br>enjoy<br>stage<br>fine<br>canoe<br>soccer<br>enable
+bip_39_word_new_line_1: hen
+bip_39_word_new_line_10: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame'
+bip_39_word_new_line_11: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame
+
+  enforce'
+bip_39_word_new_line_12: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable
+
+  frame
+
+  enforce
+
+  aerobic'
+bip_39_word_new_line_2: 'hen
+
+  dinosaur'
+bip_39_word_new_line_3: 'hen
+
+  dinosaur
+
+  corn'
+bip_39_word_new_line_4: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy'
+bip_39_word_new_line_5: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage'
+bip_39_word_new_line_6: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine'
+bip_39_word_new_line_7: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe'
+bip_39_word_new_line_8: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer'
+bip_39_word_new_line_9: 'hen
+
+  dinosaur
+
+  corn
+
+  enjoy
+
+  stage
+
+  fine
+
+  canoe
+
+  soccer
+
+  enable'
+bip_39_word_no_space_1: hen
+bip_39_word_no_space_10: hendinosaurcornenjoystagefinecanoesoccerenableframe
+bip_39_word_no_space_11: hendinosaurcornenjoystagefinecanoesoccerenableframeenforce
+bip_39_word_no_space_12: hendinosaurcornenjoystagefinecanoesoccerenableframeenforceaerobic
+bip_39_word_no_space_2: hendinosaur
+bip_39_word_no_space_3: hendinosaurcorn
+bip_39_word_no_space_4: hendinosaurcornenjoy
+bip_39_word_no_space_5: hendinosaurcornenjoystage
+bip_39_word_no_space_6: hendinosaurcornenjoystagefine
+bip_39_word_no_space_7: hendinosaurcornenjoystagefinecanoe
+bip_39_word_no_space_8: hendinosaurcornenjoystagefinecanoesoccer
+bip_39_word_no_space_9: hendinosaurcornenjoystagefinecanoesoccerenable
+bip_39_word_space_0:
+- hen
+- dinosaur
+- corn
+- enjoy
+- stage
+- fine
+- canoe
+- soccer
+- enable
+- frame
+- enforce
+- aerobic
+bip_39_word_space_1: hen
+bip_39_word_space_10: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+bip_39_word_space_11: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+  enforce
+bip_39_word_space_12: hen dinosaur corn enjoy stage fine canoe soccer enable frame
+  enforce aerobic
+bip_39_word_space_2: hen dinosaur
+bip_39_word_space_3: hen dinosaur corn
+bip_39_word_space_4: hen dinosaur corn enjoy
+bip_39_word_space_5: hen dinosaur corn enjoy stage
+bip_39_word_space_6: hen dinosaur corn enjoy stage fine
+bip_39_word_space_7: hen dinosaur corn enjoy stage fine canoe
+bip_39_word_space_8: hen dinosaur corn enjoy stage fine canoe soccer
+bip_39_word_space_9: hen dinosaur corn enjoy stage fine canoe soccer enable
+bip_39_word_underscore_1: hen
+bip_39_word_underscore_10: hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame
+bip_39_word_underscore_11: hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame_enforce
+bip_39_word_underscore_12: hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable_frame_enforce_aerobic
+bip_39_word_underscore_2: hen_dinosaur
+bip_39_word_underscore_3: hen_dinosaur_corn
+bip_39_word_underscore_4: hen_dinosaur_corn_enjoy
+bip_39_word_underscore_5: hen_dinosaur_corn_enjoy_stage
+bip_39_word_underscore_6: hen_dinosaur_corn_enjoy_stage_fine
+bip_39_word_underscore_7: hen_dinosaur_corn_enjoy_stage_fine_canoe
+bip_39_word_underscore_8: hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer
+bip_39_word_underscore_9: hen_dinosaur_corn_enjoy_stage_fine_canoe_soccer_enable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_15_14_03
 id_no_color: '151403'
 id_no_size: '15_14_03'
 id_no_type: plate_15_14_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_14_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_14_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_14_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202lis7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202lis7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202lis7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '151403'
 name_no_size: 15 14 03
 name_no_size_short: 15 14 03
 name_no_type: Plate 15 14 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_15_14_03
 oomp_word: sheep microscope rat
 oomp_word_emoji: ':sheep: :microscope: :rat:'

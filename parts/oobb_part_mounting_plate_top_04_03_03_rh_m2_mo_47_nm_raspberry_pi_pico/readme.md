@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 04 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_04_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
   * classification: oobb

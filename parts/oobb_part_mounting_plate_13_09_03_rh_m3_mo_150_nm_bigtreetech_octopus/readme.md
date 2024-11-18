@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 13 09 03 Rh M3 Mo 150 Nm Bigtreetech Octopus
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_13_09_03_rh_m3_mo_150_nm_bigtreetech_octopus
   * classification: oobb

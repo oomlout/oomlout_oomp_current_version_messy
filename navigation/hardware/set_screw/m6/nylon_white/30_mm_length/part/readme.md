@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Set Screw M6 Nylon White 30 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_set_screw_m6_nylon_white_30_mm_length
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ocean: :kissing: :car:
 * md5_6_alpha: 1wuzv
 * md5_6: 3105eb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201wuzv)
+[2x1](http://192.168.1.242:1112/?label=oomp%201wuzv)
+[6x4](http://192.168.1.55:1112/?label=oomp%201wuzv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,7 +308,14 @@ own |
 | id_no_size | nylon_white_30_mm_length |  
 | id_no_type | m6_nylon_white_30_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_30_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201wuzv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201wuzv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201wuzv |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -324,6 +357,7 @@ own |
 | oomlout_bolt_size | M6 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ss6nw30 |  
 | oomlout_short_code_upper | SS6NW30 |  
 | oomp_key | oomp_hardware_set_screw_m6_nylon_white_30_mm_length |  

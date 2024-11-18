@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Billy White 400 mm Width 1060 mm Height 280 mm Depth Ikea 802 638 32
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32
   * classification: furniture
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :computer: :grin: :camel:
 * md5_6_alpha: 4ssht
 * md5_6: 7b0341
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204ssht)
+[2x1](http://192.168.1.242:1112/?label=oomp%204ssht)
+[6x4](http://192.168.1.55:1112/?label=oomp%204ssht)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ memory |
 | id_no_color | 400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
 | id_no_size | white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
 | id_no_type | ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204ssht |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204ssht |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204ssht |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -332,6 +365,7 @@ memory |
 | name_no_size | White 400 mm Width 1060 mm Height 280 mm Depth Ikea 802 638 32 |  
 | name_no_size_short | White 400 Mm Width 1060 Mm Height 280 Mm Depth Ikea 802 638 32 |  
 | name_no_type | Ikea Billy White 400 mm Width 1060 mm Height 280 mm Depth Ikea 802 638 32 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_billy_white_400_mm_width_1060_mm_height_280_mm_depth_ikea_802_638_32 |  
 | oomp_word | computer grin camel |  
 | oomp_word_emoji | :computer: :grin: :camel: |  

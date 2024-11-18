@@ -1,3 +1,222 @@
+bip_39_word_dash_1: basic
+bip_39_word_dash_10: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw
+bip_39_word_dash_11: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw-gentle
+bip_39_word_dash_12: basic-view-sand-seven-guitar-velvet-bone-essence-pole-throw-gentle-alert
+bip_39_word_dash_2: basic-view
+bip_39_word_dash_3: basic-view-sand
+bip_39_word_dash_4: basic-view-sand-seven
+bip_39_word_dash_5: basic-view-sand-seven-guitar
+bip_39_word_dash_6: basic-view-sand-seven-guitar-velvet
+bip_39_word_dash_7: basic-view-sand-seven-guitar-velvet-bone
+bip_39_word_dash_8: basic-view-sand-seven-guitar-velvet-bone-essence
+bip_39_word_dash_9: basic-view-sand-seven-guitar-velvet-bone-essence-pole
+bip_39_word_new_br_1: basic
+bip_39_word_new_br_10: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw
+bip_39_word_new_br_11: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle
+bip_39_word_new_br_12: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole<br>throw<br>gentle<br>alert
+bip_39_word_new_br_2: basic<br>view
+bip_39_word_new_br_3: basic<br>view<br>sand
+bip_39_word_new_br_4: basic<br>view<br>sand<br>seven
+bip_39_word_new_br_5: basic<br>view<br>sand<br>seven<br>guitar
+bip_39_word_new_br_6: basic<br>view<br>sand<br>seven<br>guitar<br>velvet
+bip_39_word_new_br_7: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone
+bip_39_word_new_br_8: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence
+bip_39_word_new_br_9: basic<br>view<br>sand<br>seven<br>guitar<br>velvet<br>bone<br>essence<br>pole
+bip_39_word_new_line_1: basic
+bip_39_word_new_line_10: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone
+
+  essence
+
+  pole
+
+  throw'
+bip_39_word_new_line_11: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone
+
+  essence
+
+  pole
+
+  throw
+
+  gentle'
+bip_39_word_new_line_12: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone
+
+  essence
+
+  pole
+
+  throw
+
+  gentle
+
+  alert'
+bip_39_word_new_line_2: 'basic
+
+  view'
+bip_39_word_new_line_3: 'basic
+
+  view
+
+  sand'
+bip_39_word_new_line_4: 'basic
+
+  view
+
+  sand
+
+  seven'
+bip_39_word_new_line_5: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar'
+bip_39_word_new_line_6: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet'
+bip_39_word_new_line_7: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone'
+bip_39_word_new_line_8: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone
+
+  essence'
+bip_39_word_new_line_9: 'basic
+
+  view
+
+  sand
+
+  seven
+
+  guitar
+
+  velvet
+
+  bone
+
+  essence
+
+  pole'
+bip_39_word_no_space_1: basic
+bip_39_word_no_space_10: basicviewsandsevenguitarvelvetboneessencepolethrow
+bip_39_word_no_space_11: basicviewsandsevenguitarvelvetboneessencepolethrowgentle
+bip_39_word_no_space_12: basicviewsandsevenguitarvelvetboneessencepolethrowgentlealert
+bip_39_word_no_space_2: basicview
+bip_39_word_no_space_3: basicviewsand
+bip_39_word_no_space_4: basicviewsandseven
+bip_39_word_no_space_5: basicviewsandsevenguitar
+bip_39_word_no_space_6: basicviewsandsevenguitarvelvet
+bip_39_word_no_space_7: basicviewsandsevenguitarvelvetbone
+bip_39_word_no_space_8: basicviewsandsevenguitarvelvetboneessence
+bip_39_word_no_space_9: basicviewsandsevenguitarvelvetboneessencepole
+bip_39_word_space_0:
+- basic
+- view
+- sand
+- seven
+- guitar
+- velvet
+- bone
+- essence
+- pole
+- throw
+- gentle
+- alert
+bip_39_word_space_1: basic
+bip_39_word_space_10: basic view sand seven guitar velvet bone essence pole throw
+bip_39_word_space_11: basic view sand seven guitar velvet bone essence pole throw
+  gentle
+bip_39_word_space_12: basic view sand seven guitar velvet bone essence pole throw
+  gentle alert
+bip_39_word_space_2: basic view
+bip_39_word_space_3: basic view sand
+bip_39_word_space_4: basic view sand seven
+bip_39_word_space_5: basic view sand seven guitar
+bip_39_word_space_6: basic view sand seven guitar velvet
+bip_39_word_space_7: basic view sand seven guitar velvet bone
+bip_39_word_space_8: basic view sand seven guitar velvet bone essence
+bip_39_word_space_9: basic view sand seven guitar velvet bone essence pole
+bip_39_word_underscore_1: basic
+bip_39_word_underscore_10: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw
+bip_39_word_underscore_11: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw_gentle
+bip_39_word_underscore_12: basic_view_sand_seven_guitar_velvet_bone_essence_pole_throw_gentle_alert
+bip_39_word_underscore_2: basic_view
+bip_39_word_underscore_3: basic_view_sand
+bip_39_word_underscore_4: basic_view_sand_seven
+bip_39_word_underscore_5: basic_view_sand_seven_guitar
+bip_39_word_underscore_6: basic_view_sand_seven_guitar_velvet
+bip_39_word_underscore_7: basic_view_sand_seven_guitar_velvet_bone
+bip_39_word_underscore_8: basic_view_sand_seven_guitar_velvet_bone_essence
+bip_39_word_underscore_9: basic_view_sand_seven_guitar_velvet_bone_essence_pole
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_07_27
 id_no_color: '010727'
 id_no_size: '01_07_27'
 id_no_type: tray_01_07_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_07_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203uq2g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203uq2g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203uq2g
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '010727'
 name_no_size: 01 07 27
 name_no_size_short: 01 07 27
 name_no_type: Tray 01 07 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_07_27
 oomp_word: tulip birthday bell
 oomp_word_emoji: ':tulip: :birthday: :bell:'

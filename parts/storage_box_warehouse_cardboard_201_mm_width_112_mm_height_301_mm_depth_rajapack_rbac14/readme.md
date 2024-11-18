@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Box Warehouse Cardboard 201 mm Width 112 mm Height 301 mm Depth Rajapack Rbac14
+* name_short: 
 ### id
 * oomp_id: storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hatched_chick: :rose: :blowfish:
 * md5_6_alpha: 2toil
 * md5_6: 48635d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202toil)
+[2x1](http://192.168.1.242:1112/?label=oomp%202toil)
+[6x4](http://192.168.1.55:1112/?label=oomp%202toil)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ bunker |
 | id_no_color | cardboard201mmwidth112mmheight301mmdepthrajapackrbac14 |  
 | id_no_size | cardboard201mmwidth112mmheight301mmdepthrajapackrbac14 |  
 | id_no_type | cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202toil |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202toil |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202toil |  
 | manufacturer | rajapack |  
 | manufacturer_capital | Rajapack |  
 | manufacturer_first_letter | r |  
@@ -328,6 +361,7 @@ bunker |
 | name_no_size | Cardboard201mmwidth112mmheight301mmdepthrajapackrbac14 |  
 | name_no_size_short | Cardboard201Mmwidth112Mmheight301Mmdepthrajapackrbac14 |  
 | name_no_type | Cardboard 201 mm Width 112 mm Height 301 mm Depth Rajapack Rbac14 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_cardboard_201_mm_width_112_mm_height_301_mm_depth_rajapack_rbac14 |  
 | oomp_word | hatched_chick rose blowfish |  
 | oomp_word_emoji | :hatched_chick: :rose: :blowfish: |  

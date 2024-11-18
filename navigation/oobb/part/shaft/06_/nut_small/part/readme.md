@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Shaft 06  Nut Small
+* name_short: 
 ### id
 * oomp_id: oobb_part_shaft_06__nut_small
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :office: :cow: :tennis:
 * md5_6_alpha: 8ec9k
 * md5_6: d73d98
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208ec9k)
+[2x1](http://192.168.1.242:1112/?label=oomp%208ec9k)
+[6x4](http://192.168.1.55:1112/?label=oomp%208ec9k)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut_small) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06__nut_small)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ error |
 | id_no_color | 06nutsmall |  
 | id_no_size | 06__nut_small |  
 | id_no_type | shaft_06__nut_small |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut_small |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06__nut_small |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut_small |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208ec9k |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208ec9k |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208ec9k |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ error |
 | name_no_size | 06  Nut Small |  
 | name_no_size_short | 6  Nut Small |  
 | name_no_type | Shaft 06  Nut Small |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_06__nut_small |  
 | oomp_word | office cow tennis |  
 | oomp_word_emoji | :office: :cow: :tennis: |  

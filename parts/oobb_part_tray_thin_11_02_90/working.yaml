@@ -1,3 +1,223 @@
+bip_39_word_dash_1: aunt
+bip_39_word_dash_10: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven
+bip_39_word_dash_11: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven-museum
+bip_39_word_dash_12: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile-seven-museum-advance
+bip_39_word_dash_2: aunt-rubber
+bip_39_word_dash_3: aunt-rubber-pelican
+bip_39_word_dash_4: aunt-rubber-pelican-peasant
+bip_39_word_dash_5: aunt-rubber-pelican-peasant-unfold
+bip_39_word_dash_6: aunt-rubber-pelican-peasant-unfold-shove
+bip_39_word_dash_7: aunt-rubber-pelican-peasant-unfold-shove-purchase
+bip_39_word_dash_8: aunt-rubber-pelican-peasant-unfold-shove-purchase-size
+bip_39_word_dash_9: aunt-rubber-pelican-peasant-unfold-shove-purchase-size-smile
+bip_39_word_new_br_1: aunt
+bip_39_word_new_br_10: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven
+bip_39_word_new_br_11: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven<br>museum
+bip_39_word_new_br_12: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile<br>seven<br>museum<br>advance
+bip_39_word_new_br_2: aunt<br>rubber
+bip_39_word_new_br_3: aunt<br>rubber<br>pelican
+bip_39_word_new_br_4: aunt<br>rubber<br>pelican<br>peasant
+bip_39_word_new_br_5: aunt<br>rubber<br>pelican<br>peasant<br>unfold
+bip_39_word_new_br_6: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove
+bip_39_word_new_br_7: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase
+bip_39_word_new_br_8: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size
+bip_39_word_new_br_9: aunt<br>rubber<br>pelican<br>peasant<br>unfold<br>shove<br>purchase<br>size<br>smile
+bip_39_word_new_line_1: aunt
+bip_39_word_new_line_10: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase
+
+  size
+
+  smile
+
+  seven'
+bip_39_word_new_line_11: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase
+
+  size
+
+  smile
+
+  seven
+
+  museum'
+bip_39_word_new_line_12: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase
+
+  size
+
+  smile
+
+  seven
+
+  museum
+
+  advance'
+bip_39_word_new_line_2: 'aunt
+
+  rubber'
+bip_39_word_new_line_3: 'aunt
+
+  rubber
+
+  pelican'
+bip_39_word_new_line_4: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant'
+bip_39_word_new_line_5: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold'
+bip_39_word_new_line_6: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove'
+bip_39_word_new_line_7: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase'
+bip_39_word_new_line_8: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase
+
+  size'
+bip_39_word_new_line_9: 'aunt
+
+  rubber
+
+  pelican
+
+  peasant
+
+  unfold
+
+  shove
+
+  purchase
+
+  size
+
+  smile'
+bip_39_word_no_space_1: aunt
+bip_39_word_no_space_10: auntrubberpelicanpeasantunfoldshovepurchasesizesmileseven
+bip_39_word_no_space_11: auntrubberpelicanpeasantunfoldshovepurchasesizesmilesevenmuseum
+bip_39_word_no_space_12: auntrubberpelicanpeasantunfoldshovepurchasesizesmilesevenmuseumadvance
+bip_39_word_no_space_2: auntrubber
+bip_39_word_no_space_3: auntrubberpelican
+bip_39_word_no_space_4: auntrubberpelicanpeasant
+bip_39_word_no_space_5: auntrubberpelicanpeasantunfold
+bip_39_word_no_space_6: auntrubberpelicanpeasantunfoldshove
+bip_39_word_no_space_7: auntrubberpelicanpeasantunfoldshovepurchase
+bip_39_word_no_space_8: auntrubberpelicanpeasantunfoldshovepurchasesize
+bip_39_word_no_space_9: auntrubberpelicanpeasantunfoldshovepurchasesizesmile
+bip_39_word_space_0:
+- aunt
+- rubber
+- pelican
+- peasant
+- unfold
+- shove
+- purchase
+- size
+- smile
+- seven
+- museum
+- advance
+bip_39_word_space_1: aunt
+bip_39_word_space_10: aunt rubber pelican peasant unfold shove purchase size smile
+  seven
+bip_39_word_space_11: aunt rubber pelican peasant unfold shove purchase size smile
+  seven museum
+bip_39_word_space_12: aunt rubber pelican peasant unfold shove purchase size smile
+  seven museum advance
+bip_39_word_space_2: aunt rubber
+bip_39_word_space_3: aunt rubber pelican
+bip_39_word_space_4: aunt rubber pelican peasant
+bip_39_word_space_5: aunt rubber pelican peasant unfold
+bip_39_word_space_6: aunt rubber pelican peasant unfold shove
+bip_39_word_space_7: aunt rubber pelican peasant unfold shove purchase
+bip_39_word_space_8: aunt rubber pelican peasant unfold shove purchase size
+bip_39_word_space_9: aunt rubber pelican peasant unfold shove purchase size smile
+bip_39_word_underscore_1: aunt
+bip_39_word_underscore_10: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven
+bip_39_word_underscore_11: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven_museum
+bip_39_word_underscore_12: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile_seven_museum_advance
+bip_39_word_underscore_2: aunt_rubber
+bip_39_word_underscore_3: aunt_rubber_pelican
+bip_39_word_underscore_4: aunt_rubber_pelican_peasant
+bip_39_word_underscore_5: aunt_rubber_pelican_peasant_unfold
+bip_39_word_underscore_6: aunt_rubber_pelican_peasant_unfold_shove
+bip_39_word_underscore_7: aunt_rubber_pelican_peasant_unfold_shove_purchase
+bip_39_word_underscore_8: aunt_rubber_pelican_peasant_unfold_shove_purchase_size
+bip_39_word_underscore_9: aunt_rubber_pelican_peasant_unfold_shove_purchase_size_smile
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_11_02_90
 id_no_color: '110290'
 id_no_size: '11_02_90'
 id_no_type: tray_thin_11_02_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_02_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202gos1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202gos1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202gos1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '110290'
 name_no_size: 11 02 90
 name_no_size_short: 11 02 90
 name_no_type: Tray Thin 11 02 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_02_90
 oomp_word: horse kiss bamboo
 oomp_word_emoji: ':horse: :kiss: :bamboo:'

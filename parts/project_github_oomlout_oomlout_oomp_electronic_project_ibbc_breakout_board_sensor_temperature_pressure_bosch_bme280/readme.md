@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Electronic Project Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :penguin: :snake: :heart:
 * md5_6_alpha: 2xq8d
 * md5_6: 4b450d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202xq8d)
+[2x1](http://192.168.1.242:1112/?label=oomp%202xq8d)
+[6x4](http://192.168.1.55:1112/?label=oomp%202xq8d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ recall |
 | id_no_color | oomp_electronic_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
 | id_no_size | oomp_electronic_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
 | id_no_type | oomlout_oomlout_oomp_electronic_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202xq8d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202xq8d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202xq8d |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ recall |
 | name_no_size | Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
 | name_no_size_short | Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
 | name_no_type | Oomlout Oomlout Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
 | oomp_word | penguin snake heart |  
 | oomp_word_emoji | :penguin: :snake: :heart: |  

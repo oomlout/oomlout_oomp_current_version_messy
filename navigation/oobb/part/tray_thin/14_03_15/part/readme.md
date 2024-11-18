@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Thin 14 03 15
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_thin_14_03_15
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :fries: :three: :honey_pot:
 * md5_6_alpha: 797ev
 * md5_6: b9f4c7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20797ev)
+[2x1](http://192.168.1.242:1112/?label=oomp%20797ev)
+[6x4](http://192.168.1.55:1112/?label=oomp%20797ev)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_03_15) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_03_15)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ mercy |
 | id_no_color | 140315 |  
 | id_no_size | 14_03_15 |  
 | id_no_type | tray_thin_14_03_15 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_03_15 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_03_15 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_03_15 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20797ev |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20797ev |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20797ev |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ mercy |
 | name_no_size | 14 03 15 |  
 | name_no_size_short | 14 03 15 |  
 | name_no_type | Tray Thin 14 03 15 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_14_03_15 |  
 | oomp_word | fries three honey_pot |  
 | oomp_word_emoji | :fries: :three: :honey_pot: |  

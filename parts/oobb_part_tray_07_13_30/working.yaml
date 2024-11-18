@@ -1,3 +1,222 @@
+bip_39_word_dash_1: shine
+bip_39_word_dash_10: shine-effort-equip-brave-width-alley-mystery-camera-guess-task
+bip_39_word_dash_11: shine-effort-equip-brave-width-alley-mystery-camera-guess-task-voyage
+bip_39_word_dash_12: shine-effort-equip-brave-width-alley-mystery-camera-guess-task-voyage-actual
+bip_39_word_dash_2: shine-effort
+bip_39_word_dash_3: shine-effort-equip
+bip_39_word_dash_4: shine-effort-equip-brave
+bip_39_word_dash_5: shine-effort-equip-brave-width
+bip_39_word_dash_6: shine-effort-equip-brave-width-alley
+bip_39_word_dash_7: shine-effort-equip-brave-width-alley-mystery
+bip_39_word_dash_8: shine-effort-equip-brave-width-alley-mystery-camera
+bip_39_word_dash_9: shine-effort-equip-brave-width-alley-mystery-camera-guess
+bip_39_word_new_br_1: shine
+bip_39_word_new_br_10: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task
+bip_39_word_new_br_11: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task<br>voyage
+bip_39_word_new_br_12: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess<br>task<br>voyage<br>actual
+bip_39_word_new_br_2: shine<br>effort
+bip_39_word_new_br_3: shine<br>effort<br>equip
+bip_39_word_new_br_4: shine<br>effort<br>equip<br>brave
+bip_39_word_new_br_5: shine<br>effort<br>equip<br>brave<br>width
+bip_39_word_new_br_6: shine<br>effort<br>equip<br>brave<br>width<br>alley
+bip_39_word_new_br_7: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery
+bip_39_word_new_br_8: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera
+bip_39_word_new_br_9: shine<br>effort<br>equip<br>brave<br>width<br>alley<br>mystery<br>camera<br>guess
+bip_39_word_new_line_1: shine
+bip_39_word_new_line_10: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery
+
+  camera
+
+  guess
+
+  task'
+bip_39_word_new_line_11: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery
+
+  camera
+
+  guess
+
+  task
+
+  voyage'
+bip_39_word_new_line_12: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery
+
+  camera
+
+  guess
+
+  task
+
+  voyage
+
+  actual'
+bip_39_word_new_line_2: 'shine
+
+  effort'
+bip_39_word_new_line_3: 'shine
+
+  effort
+
+  equip'
+bip_39_word_new_line_4: 'shine
+
+  effort
+
+  equip
+
+  brave'
+bip_39_word_new_line_5: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width'
+bip_39_word_new_line_6: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley'
+bip_39_word_new_line_7: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery'
+bip_39_word_new_line_8: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery
+
+  camera'
+bip_39_word_new_line_9: 'shine
+
+  effort
+
+  equip
+
+  brave
+
+  width
+
+  alley
+
+  mystery
+
+  camera
+
+  guess'
+bip_39_word_no_space_1: shine
+bip_39_word_no_space_10: shineeffortequipbravewidthalleymysterycameraguesstask
+bip_39_word_no_space_11: shineeffortequipbravewidthalleymysterycameraguesstaskvoyage
+bip_39_word_no_space_12: shineeffortequipbravewidthalleymysterycameraguesstaskvoyageactual
+bip_39_word_no_space_2: shineeffort
+bip_39_word_no_space_3: shineeffortequip
+bip_39_word_no_space_4: shineeffortequipbrave
+bip_39_word_no_space_5: shineeffortequipbravewidth
+bip_39_word_no_space_6: shineeffortequipbravewidthalley
+bip_39_word_no_space_7: shineeffortequipbravewidthalleymystery
+bip_39_word_no_space_8: shineeffortequipbravewidthalleymysterycamera
+bip_39_word_no_space_9: shineeffortequipbravewidthalleymysterycameraguess
+bip_39_word_space_0:
+- shine
+- effort
+- equip
+- brave
+- width
+- alley
+- mystery
+- camera
+- guess
+- task
+- voyage
+- actual
+bip_39_word_space_1: shine
+bip_39_word_space_10: shine effort equip brave width alley mystery camera guess task
+bip_39_word_space_11: shine effort equip brave width alley mystery camera guess task
+  voyage
+bip_39_word_space_12: shine effort equip brave width alley mystery camera guess task
+  voyage actual
+bip_39_word_space_2: shine effort
+bip_39_word_space_3: shine effort equip
+bip_39_word_space_4: shine effort equip brave
+bip_39_word_space_5: shine effort equip brave width
+bip_39_word_space_6: shine effort equip brave width alley
+bip_39_word_space_7: shine effort equip brave width alley mystery
+bip_39_word_space_8: shine effort equip brave width alley mystery camera
+bip_39_word_space_9: shine effort equip brave width alley mystery camera guess
+bip_39_word_underscore_1: shine
+bip_39_word_underscore_10: shine_effort_equip_brave_width_alley_mystery_camera_guess_task
+bip_39_word_underscore_11: shine_effort_equip_brave_width_alley_mystery_camera_guess_task_voyage
+bip_39_word_underscore_12: shine_effort_equip_brave_width_alley_mystery_camera_guess_task_voyage_actual
+bip_39_word_underscore_2: shine_effort
+bip_39_word_underscore_3: shine_effort_equip
+bip_39_word_underscore_4: shine_effort_equip_brave
+bip_39_word_underscore_5: shine_effort_equip_brave_width
+bip_39_word_underscore_6: shine_effort_equip_brave_width_alley
+bip_39_word_underscore_7: shine_effort_equip_brave_width_alley_mystery
+bip_39_word_underscore_8: shine_effort_equip_brave_width_alley_mystery_camera
+bip_39_word_underscore_9: shine_effort_equip_brave_width_alley_mystery_camera_guess
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_13_30
 id_no_color: '071330'
 id_no_size: '07_13_30'
 id_no_type: tray_07_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201vbcn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201vbcn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201vbcn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '071330'
 name_no_size: 07 13 30
 name_no_size_short: 07 13 30
 name_no_type: Tray 07 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_13_30
 oomp_word: cyclone taxi wolf
 oomp_word_emoji: ':cyclone: :taxi: :wolf:'

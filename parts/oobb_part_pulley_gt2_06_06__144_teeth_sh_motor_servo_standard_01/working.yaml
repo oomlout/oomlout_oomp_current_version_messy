@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bread
+bip_39_word_dash_10: bread-tilt-twin-width-civil-organ-pluck-license-alley-future
+bip_39_word_dash_11: bread-tilt-twin-width-civil-organ-pluck-license-alley-future-second
+bip_39_word_dash_12: bread-tilt-twin-width-civil-organ-pluck-license-alley-future-second-alert
+bip_39_word_dash_2: bread-tilt
+bip_39_word_dash_3: bread-tilt-twin
+bip_39_word_dash_4: bread-tilt-twin-width
+bip_39_word_dash_5: bread-tilt-twin-width-civil
+bip_39_word_dash_6: bread-tilt-twin-width-civil-organ
+bip_39_word_dash_7: bread-tilt-twin-width-civil-organ-pluck
+bip_39_word_dash_8: bread-tilt-twin-width-civil-organ-pluck-license
+bip_39_word_dash_9: bread-tilt-twin-width-civil-organ-pluck-license-alley
+bip_39_word_new_br_1: bread
+bip_39_word_new_br_10: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck<br>license<br>alley<br>future
+bip_39_word_new_br_11: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck<br>license<br>alley<br>future<br>second
+bip_39_word_new_br_12: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck<br>license<br>alley<br>future<br>second<br>alert
+bip_39_word_new_br_2: bread<br>tilt
+bip_39_word_new_br_3: bread<br>tilt<br>twin
+bip_39_word_new_br_4: bread<br>tilt<br>twin<br>width
+bip_39_word_new_br_5: bread<br>tilt<br>twin<br>width<br>civil
+bip_39_word_new_br_6: bread<br>tilt<br>twin<br>width<br>civil<br>organ
+bip_39_word_new_br_7: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck
+bip_39_word_new_br_8: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck<br>license
+bip_39_word_new_br_9: bread<br>tilt<br>twin<br>width<br>civil<br>organ<br>pluck<br>license<br>alley
+bip_39_word_new_line_1: bread
+bip_39_word_new_line_10: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck
+
+  license
+
+  alley
+
+  future'
+bip_39_word_new_line_11: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck
+
+  license
+
+  alley
+
+  future
+
+  second'
+bip_39_word_new_line_12: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck
+
+  license
+
+  alley
+
+  future
+
+  second
+
+  alert'
+bip_39_word_new_line_2: 'bread
+
+  tilt'
+bip_39_word_new_line_3: 'bread
+
+  tilt
+
+  twin'
+bip_39_word_new_line_4: 'bread
+
+  tilt
+
+  twin
+
+  width'
+bip_39_word_new_line_5: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil'
+bip_39_word_new_line_6: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ'
+bip_39_word_new_line_7: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck'
+bip_39_word_new_line_8: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck
+
+  license'
+bip_39_word_new_line_9: 'bread
+
+  tilt
+
+  twin
+
+  width
+
+  civil
+
+  organ
+
+  pluck
+
+  license
+
+  alley'
+bip_39_word_no_space_1: bread
+bip_39_word_no_space_10: breadtilttwinwidthcivilorganplucklicensealleyfuture
+bip_39_word_no_space_11: breadtilttwinwidthcivilorganplucklicensealleyfuturesecond
+bip_39_word_no_space_12: breadtilttwinwidthcivilorganplucklicensealleyfuturesecondalert
+bip_39_word_no_space_2: breadtilt
+bip_39_word_no_space_3: breadtilttwin
+bip_39_word_no_space_4: breadtilttwinwidth
+bip_39_word_no_space_5: breadtilttwinwidthcivil
+bip_39_word_no_space_6: breadtilttwinwidthcivilorgan
+bip_39_word_no_space_7: breadtilttwinwidthcivilorganpluck
+bip_39_word_no_space_8: breadtilttwinwidthcivilorganplucklicense
+bip_39_word_no_space_9: breadtilttwinwidthcivilorganplucklicensealley
+bip_39_word_space_0:
+- bread
+- tilt
+- twin
+- width
+- civil
+- organ
+- pluck
+- license
+- alley
+- future
+- second
+- alert
+bip_39_word_space_1: bread
+bip_39_word_space_10: bread tilt twin width civil organ pluck license alley future
+bip_39_word_space_11: bread tilt twin width civil organ pluck license alley future
+  second
+bip_39_word_space_12: bread tilt twin width civil organ pluck license alley future
+  second alert
+bip_39_word_space_2: bread tilt
+bip_39_word_space_3: bread tilt twin
+bip_39_word_space_4: bread tilt twin width
+bip_39_word_space_5: bread tilt twin width civil
+bip_39_word_space_6: bread tilt twin width civil organ
+bip_39_word_space_7: bread tilt twin width civil organ pluck
+bip_39_word_space_8: bread tilt twin width civil organ pluck license
+bip_39_word_space_9: bread tilt twin width civil organ pluck license alley
+bip_39_word_underscore_1: bread
+bip_39_word_underscore_10: bread_tilt_twin_width_civil_organ_pluck_license_alley_future
+bip_39_word_underscore_11: bread_tilt_twin_width_civil_organ_pluck_license_alley_future_second
+bip_39_word_underscore_12: bread_tilt_twin_width_civil_organ_pluck_license_alley_future_second_alert
+bip_39_word_underscore_2: bread_tilt
+bip_39_word_underscore_3: bread_tilt_twin
+bip_39_word_underscore_4: bread_tilt_twin_width
+bip_39_word_underscore_5: bread_tilt_twin_width_civil
+bip_39_word_underscore_6: bread_tilt_twin_width_civil_organ
+bip_39_word_underscore_7: bread_tilt_twin_width_civil_organ_pluck
+bip_39_word_underscore_8: bread_tilt_twin_width_civil_organ_pluck_license
+bip_39_word_underscore_9: bread_tilt_twin_width_civil_organ_pluck_license_alley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
 id_no_color: 0606144teethshmotorservostandard01
 id_no_size: 06_06__144_teeth_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203vsgn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203vsgn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203vsgn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0606144Teethshmotorservostandard01
 name_no_size: 06 06  144 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 06 06  144 Teeth Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 06 06  144 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_06__144_teeth_sh_motor_servo_standard_01
 oomp_word: rose key office
 oomp_word_emoji: ':rose: :key: :office:'

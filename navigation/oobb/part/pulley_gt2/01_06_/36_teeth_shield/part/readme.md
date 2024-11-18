@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 01 06  36 Teeth Shield
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_01_06__36_teeth_shield
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :heart: :herb: :clubs:
 * md5_6_alpha: itum
 * md5_6: 0d679e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20itum)
+[2x1](http://192.168.1.242:1112/?label=oomp%20itum)
+[6x4](http://192.168.1.55:1112/?label=oomp%20itum)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ alter |
 | id_no_color | 010636teethshield |  
 | id_no_size | 01_06__36_teeth_shield |  
 | id_no_type | pulley_gt2_01_06__36_teeth_shield |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20itum |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20itum |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20itum |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ alter |
 | name_no_size | 01 06  36 Teeth Shield |  
 | name_no_size_short | 01 06  36 Teeth Shield |  
 | name_no_type | Pulley Gt2 01 06  36 Teeth Shield |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_01_06__36_teeth_shield |  
 | oomp_word | heart herb clubs |  
 | oomp_word_emoji | :heart: :herb: :clubs: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: pottery
+bip_39_word_dash_10: pottery-process-document-hamster-police-vault-shaft-must-train-ugly
+bip_39_word_dash_11: pottery-process-document-hamster-police-vault-shaft-must-train-ugly-cradle
+bip_39_word_dash_12: pottery-process-document-hamster-police-vault-shaft-must-train-ugly-cradle-announce
+bip_39_word_dash_2: pottery-process
+bip_39_word_dash_3: pottery-process-document
+bip_39_word_dash_4: pottery-process-document-hamster
+bip_39_word_dash_5: pottery-process-document-hamster-police
+bip_39_word_dash_6: pottery-process-document-hamster-police-vault
+bip_39_word_dash_7: pottery-process-document-hamster-police-vault-shaft
+bip_39_word_dash_8: pottery-process-document-hamster-police-vault-shaft-must
+bip_39_word_dash_9: pottery-process-document-hamster-police-vault-shaft-must-train
+bip_39_word_new_br_1: pottery
+bip_39_word_new_br_10: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly
+bip_39_word_new_br_11: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly<br>cradle
+bip_39_word_new_br_12: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train<br>ugly<br>cradle<br>announce
+bip_39_word_new_br_2: pottery<br>process
+bip_39_word_new_br_3: pottery<br>process<br>document
+bip_39_word_new_br_4: pottery<br>process<br>document<br>hamster
+bip_39_word_new_br_5: pottery<br>process<br>document<br>hamster<br>police
+bip_39_word_new_br_6: pottery<br>process<br>document<br>hamster<br>police<br>vault
+bip_39_word_new_br_7: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft
+bip_39_word_new_br_8: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must
+bip_39_word_new_br_9: pottery<br>process<br>document<br>hamster<br>police<br>vault<br>shaft<br>must<br>train
+bip_39_word_new_line_1: pottery
+bip_39_word_new_line_10: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly'
+bip_39_word_new_line_11: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly
+
+  cradle'
+bip_39_word_new_line_12: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train
+
+  ugly
+
+  cradle
+
+  announce'
+bip_39_word_new_line_2: 'pottery
+
+  process'
+bip_39_word_new_line_3: 'pottery
+
+  process
+
+  document'
+bip_39_word_new_line_4: 'pottery
+
+  process
+
+  document
+
+  hamster'
+bip_39_word_new_line_5: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police'
+bip_39_word_new_line_6: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault'
+bip_39_word_new_line_7: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft'
+bip_39_word_new_line_8: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must'
+bip_39_word_new_line_9: 'pottery
+
+  process
+
+  document
+
+  hamster
+
+  police
+
+  vault
+
+  shaft
+
+  must
+
+  train'
+bip_39_word_no_space_1: pottery
+bip_39_word_no_space_10: potteryprocessdocumenthamsterpolicevaultshaftmusttrainugly
+bip_39_word_no_space_11: potteryprocessdocumenthamsterpolicevaultshaftmusttrainuglycradle
+bip_39_word_no_space_12: potteryprocessdocumenthamsterpolicevaultshaftmusttrainuglycradleannounce
+bip_39_word_no_space_2: potteryprocess
+bip_39_word_no_space_3: potteryprocessdocument
+bip_39_word_no_space_4: potteryprocessdocumenthamster
+bip_39_word_no_space_5: potteryprocessdocumenthamsterpolice
+bip_39_word_no_space_6: potteryprocessdocumenthamsterpolicevault
+bip_39_word_no_space_7: potteryprocessdocumenthamsterpolicevaultshaft
+bip_39_word_no_space_8: potteryprocessdocumenthamsterpolicevaultshaftmust
+bip_39_word_no_space_9: potteryprocessdocumenthamsterpolicevaultshaftmusttrain
+bip_39_word_space_0:
+- pottery
+- process
+- document
+- hamster
+- police
+- vault
+- shaft
+- must
+- train
+- ugly
+- cradle
+- announce
+bip_39_word_space_1: pottery
+bip_39_word_space_10: pottery process document hamster police vault shaft must train
+  ugly
+bip_39_word_space_11: pottery process document hamster police vault shaft must train
+  ugly cradle
+bip_39_word_space_12: pottery process document hamster police vault shaft must train
+  ugly cradle announce
+bip_39_word_space_2: pottery process
+bip_39_word_space_3: pottery process document
+bip_39_word_space_4: pottery process document hamster
+bip_39_word_space_5: pottery process document hamster police
+bip_39_word_space_6: pottery process document hamster police vault
+bip_39_word_space_7: pottery process document hamster police vault shaft
+bip_39_word_space_8: pottery process document hamster police vault shaft must
+bip_39_word_space_9: pottery process document hamster police vault shaft must train
+bip_39_word_underscore_1: pottery
+bip_39_word_underscore_10: pottery_process_document_hamster_police_vault_shaft_must_train_ugly
+bip_39_word_underscore_11: pottery_process_document_hamster_police_vault_shaft_must_train_ugly_cradle
+bip_39_word_underscore_12: pottery_process_document_hamster_police_vault_shaft_must_train_ugly_cradle_announce
+bip_39_word_underscore_2: pottery_process
+bip_39_word_underscore_3: pottery_process_document
+bip_39_word_underscore_4: pottery_process_document_hamster
+bip_39_word_underscore_5: pottery_process_document_hamster_police
+bip_39_word_underscore_6: pottery_process_document_hamster_police_vault
+bip_39_word_underscore_7: pottery_process_document_hamster_police_vault_shaft
+bip_39_word_underscore_8: pottery_process_document_hamster_police_vault_shaft_must
+bip_39_word_underscore_9: pottery_process_document_hamster_police_vault_shaft_must_train
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_01_01_63
 id_no_color: '010163'
 id_no_size: '01_01_63'
 id_no_type: plate_01_01_63
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_63
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_63
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_63
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205sfsr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205sfsr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205sfsr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010163'
 name_no_size: 01 01 63
 name_no_size_short: 01 01 63
 name_no_type: Plate 01 01 63
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_63
 oomp_word: microscope rose ok
 oomp_word_emoji: ':microscope: :rose: :ok:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: unique
+bip_39_word_dash_10: unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand
+bip_39_word_dash_11: unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand-ginger
+bip_39_word_dash_12: unique-trip-pencil-meadow-core-toast-honey-taste-lab-demand-ginger-alter
+bip_39_word_dash_2: unique-trip
+bip_39_word_dash_3: unique-trip-pencil
+bip_39_word_dash_4: unique-trip-pencil-meadow
+bip_39_word_dash_5: unique-trip-pencil-meadow-core
+bip_39_word_dash_6: unique-trip-pencil-meadow-core-toast
+bip_39_word_dash_7: unique-trip-pencil-meadow-core-toast-honey
+bip_39_word_dash_8: unique-trip-pencil-meadow-core-toast-honey-taste
+bip_39_word_dash_9: unique-trip-pencil-meadow-core-toast-honey-taste-lab
+bip_39_word_new_br_1: unique
+bip_39_word_new_br_10: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab<br>demand
+bip_39_word_new_br_11: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab<br>demand<br>ginger
+bip_39_word_new_br_12: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab<br>demand<br>ginger<br>alter
+bip_39_word_new_br_2: unique<br>trip
+bip_39_word_new_br_3: unique<br>trip<br>pencil
+bip_39_word_new_br_4: unique<br>trip<br>pencil<br>meadow
+bip_39_word_new_br_5: unique<br>trip<br>pencil<br>meadow<br>core
+bip_39_word_new_br_6: unique<br>trip<br>pencil<br>meadow<br>core<br>toast
+bip_39_word_new_br_7: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey
+bip_39_word_new_br_8: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste
+bip_39_word_new_br_9: unique<br>trip<br>pencil<br>meadow<br>core<br>toast<br>honey<br>taste<br>lab
+bip_39_word_new_line_1: unique
+bip_39_word_new_line_10: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey
+
+  taste
+
+  lab
+
+  demand'
+bip_39_word_new_line_11: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey
+
+  taste
+
+  lab
+
+  demand
+
+  ginger'
+bip_39_word_new_line_12: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey
+
+  taste
+
+  lab
+
+  demand
+
+  ginger
+
+  alter'
+bip_39_word_new_line_2: 'unique
+
+  trip'
+bip_39_word_new_line_3: 'unique
+
+  trip
+
+  pencil'
+bip_39_word_new_line_4: 'unique
+
+  trip
+
+  pencil
+
+  meadow'
+bip_39_word_new_line_5: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core'
+bip_39_word_new_line_6: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast'
+bip_39_word_new_line_7: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey'
+bip_39_word_new_line_8: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey
+
+  taste'
+bip_39_word_new_line_9: 'unique
+
+  trip
+
+  pencil
+
+  meadow
+
+  core
+
+  toast
+
+  honey
+
+  taste
+
+  lab'
+bip_39_word_no_space_1: unique
+bip_39_word_no_space_10: uniquetrippencilmeadowcoretoasthoneytastelabdemand
+bip_39_word_no_space_11: uniquetrippencilmeadowcoretoasthoneytastelabdemandginger
+bip_39_word_no_space_12: uniquetrippencilmeadowcoretoasthoneytastelabdemandgingeralter
+bip_39_word_no_space_2: uniquetrip
+bip_39_word_no_space_3: uniquetrippencil
+bip_39_word_no_space_4: uniquetrippencilmeadow
+bip_39_word_no_space_5: uniquetrippencilmeadowcore
+bip_39_word_no_space_6: uniquetrippencilmeadowcoretoast
+bip_39_word_no_space_7: uniquetrippencilmeadowcoretoasthoney
+bip_39_word_no_space_8: uniquetrippencilmeadowcoretoasthoneytaste
+bip_39_word_no_space_9: uniquetrippencilmeadowcoretoasthoneytastelab
+bip_39_word_space_0:
+- unique
+- trip
+- pencil
+- meadow
+- core
+- toast
+- honey
+- taste
+- lab
+- demand
+- ginger
+- alter
+bip_39_word_space_1: unique
+bip_39_word_space_10: unique trip pencil meadow core toast honey taste lab demand
+bip_39_word_space_11: unique trip pencil meadow core toast honey taste lab demand
+  ginger
+bip_39_word_space_12: unique trip pencil meadow core toast honey taste lab demand
+  ginger alter
+bip_39_word_space_2: unique trip
+bip_39_word_space_3: unique trip pencil
+bip_39_word_space_4: unique trip pencil meadow
+bip_39_word_space_5: unique trip pencil meadow core
+bip_39_word_space_6: unique trip pencil meadow core toast
+bip_39_word_space_7: unique trip pencil meadow core toast honey
+bip_39_word_space_8: unique trip pencil meadow core toast honey taste
+bip_39_word_space_9: unique trip pencil meadow core toast honey taste lab
+bip_39_word_underscore_1: unique
+bip_39_word_underscore_10: unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand
+bip_39_word_underscore_11: unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand_ginger
+bip_39_word_underscore_12: unique_trip_pencil_meadow_core_toast_honey_taste_lab_demand_ginger_alter
+bip_39_word_underscore_2: unique_trip
+bip_39_word_underscore_3: unique_trip_pencil
+bip_39_word_underscore_4: unique_trip_pencil_meadow
+bip_39_word_underscore_5: unique_trip_pencil_meadow_core
+bip_39_word_underscore_6: unique_trip_pencil_meadow_core_toast
+bip_39_word_underscore_7: unique_trip_pencil_meadow_core_toast_honey
+bip_39_word_underscore_8: unique_trip_pencil_meadow_core_toast_honey_taste
+bip_39_word_underscore_9: unique_trip_pencil_meadow_core_toast_honey_taste_lab
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 15_mm_length
 id_no_size: gray_15_mm_length
 id_no_type: 32_mm_internal_diameter_gray_15_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_gray_15_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_gray_15_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_gray_15_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204mtqm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204mtqm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204mtqm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,7 @@ name_no_color: 15 mm Length
 name_no_size: Gray 15 mm Length
 name_no_size_short: Gray 15 Mm Length
 name_no_type: 32 mm Internal Diameter Gray 15 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_32_mm_internal_diameter_gray_15_mm_length
 oomp_word: santa cookie cupid
 oomp_word_emoji: ':santa: :cookie: :cupid:'

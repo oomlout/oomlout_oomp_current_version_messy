@@ -1,3 +1,222 @@
+bip_39_word_dash_1: crumble
+bip_39_word_dash_10: crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle
+bip_39_word_dash_11: crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle-liberty
+bip_39_word_dash_12: crumble-volcano-tube-camera-olympic-soon-soul-view-sphere-paddle-liberty-auction
+bip_39_word_dash_2: crumble-volcano
+bip_39_word_dash_3: crumble-volcano-tube
+bip_39_word_dash_4: crumble-volcano-tube-camera
+bip_39_word_dash_5: crumble-volcano-tube-camera-olympic
+bip_39_word_dash_6: crumble-volcano-tube-camera-olympic-soon
+bip_39_word_dash_7: crumble-volcano-tube-camera-olympic-soon-soul
+bip_39_word_dash_8: crumble-volcano-tube-camera-olympic-soon-soul-view
+bip_39_word_dash_9: crumble-volcano-tube-camera-olympic-soon-soul-view-sphere
+bip_39_word_new_br_1: crumble
+bip_39_word_new_br_10: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere<br>paddle
+bip_39_word_new_br_11: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere<br>paddle<br>liberty
+bip_39_word_new_br_12: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere<br>paddle<br>liberty<br>auction
+bip_39_word_new_br_2: crumble<br>volcano
+bip_39_word_new_br_3: crumble<br>volcano<br>tube
+bip_39_word_new_br_4: crumble<br>volcano<br>tube<br>camera
+bip_39_word_new_br_5: crumble<br>volcano<br>tube<br>camera<br>olympic
+bip_39_word_new_br_6: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon
+bip_39_word_new_br_7: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul
+bip_39_word_new_br_8: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view
+bip_39_word_new_br_9: crumble<br>volcano<br>tube<br>camera<br>olympic<br>soon<br>soul<br>view<br>sphere
+bip_39_word_new_line_1: crumble
+bip_39_word_new_line_10: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul
+
+  view
+
+  sphere
+
+  paddle'
+bip_39_word_new_line_11: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul
+
+  view
+
+  sphere
+
+  paddle
+
+  liberty'
+bip_39_word_new_line_12: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul
+
+  view
+
+  sphere
+
+  paddle
+
+  liberty
+
+  auction'
+bip_39_word_new_line_2: 'crumble
+
+  volcano'
+bip_39_word_new_line_3: 'crumble
+
+  volcano
+
+  tube'
+bip_39_word_new_line_4: 'crumble
+
+  volcano
+
+  tube
+
+  camera'
+bip_39_word_new_line_5: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic'
+bip_39_word_new_line_6: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon'
+bip_39_word_new_line_7: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul'
+bip_39_word_new_line_8: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul
+
+  view'
+bip_39_word_new_line_9: 'crumble
+
+  volcano
+
+  tube
+
+  camera
+
+  olympic
+
+  soon
+
+  soul
+
+  view
+
+  sphere'
+bip_39_word_no_space_1: crumble
+bip_39_word_no_space_10: crumblevolcanotubecameraolympicsoonsoulviewspherepaddle
+bip_39_word_no_space_11: crumblevolcanotubecameraolympicsoonsoulviewspherepaddleliberty
+bip_39_word_no_space_12: crumblevolcanotubecameraolympicsoonsoulviewspherepaddlelibertyauction
+bip_39_word_no_space_2: crumblevolcano
+bip_39_word_no_space_3: crumblevolcanotube
+bip_39_word_no_space_4: crumblevolcanotubecamera
+bip_39_word_no_space_5: crumblevolcanotubecameraolympic
+bip_39_word_no_space_6: crumblevolcanotubecameraolympicsoon
+bip_39_word_no_space_7: crumblevolcanotubecameraolympicsoonsoul
+bip_39_word_no_space_8: crumblevolcanotubecameraolympicsoonsoulview
+bip_39_word_no_space_9: crumblevolcanotubecameraolympicsoonsoulviewsphere
+bip_39_word_space_0:
+- crumble
+- volcano
+- tube
+- camera
+- olympic
+- soon
+- soul
+- view
+- sphere
+- paddle
+- liberty
+- auction
+bip_39_word_space_1: crumble
+bip_39_word_space_10: crumble volcano tube camera olympic soon soul view sphere paddle
+bip_39_word_space_11: crumble volcano tube camera olympic soon soul view sphere paddle
+  liberty
+bip_39_word_space_12: crumble volcano tube camera olympic soon soul view sphere paddle
+  liberty auction
+bip_39_word_space_2: crumble volcano
+bip_39_word_space_3: crumble volcano tube
+bip_39_word_space_4: crumble volcano tube camera
+bip_39_word_space_5: crumble volcano tube camera olympic
+bip_39_word_space_6: crumble volcano tube camera olympic soon
+bip_39_word_space_7: crumble volcano tube camera olympic soon soul
+bip_39_word_space_8: crumble volcano tube camera olympic soon soul view
+bip_39_word_space_9: crumble volcano tube camera olympic soon soul view sphere
+bip_39_word_underscore_1: crumble
+bip_39_word_underscore_10: crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle
+bip_39_word_underscore_11: crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle_liberty
+bip_39_word_underscore_12: crumble_volcano_tube_camera_olympic_soon_soul_view_sphere_paddle_liberty_auction
+bip_39_word_underscore_2: crumble_volcano
+bip_39_word_underscore_3: crumble_volcano_tube
+bip_39_word_underscore_4: crumble_volcano_tube_camera
+bip_39_word_underscore_5: crumble_volcano_tube_camera_olympic
+bip_39_word_underscore_6: crumble_volcano_tube_camera_olympic_soon
+bip_39_word_underscore_7: crumble_volcano_tube_camera_olympic_soon_soul
+bip_39_word_underscore_8: crumble_volcano_tube_camera_olympic_soon_soul_view
+bip_39_word_underscore_9: crumble_volcano_tube_camera_olympic_soon_soul_view_sphere
 classification: dish
 classification_capital: Dish
 classification_first_letter: d
@@ -132,7 +351,14 @@ id_no_class: ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 id_no_color: ikeaoftastwhiteplate250mmdiameterikea30258913
 id_no_size: ikeaoftastwhiteplate250mmdiameterikea30258913
 id_no_type: ikeaoftastwhiteplate250mmdiameterikea30258913
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209bq3r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209bq3r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209bq3r
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
@@ -182,6 +408,7 @@ name_no_color: Ikeaoftastwhiteplate250mmdiameterikea30258913
 name_no_size: Ikeaoftastwhiteplate250mmdiameterikea30258913
 name_no_size_short: Ikeaoftastwhiteplate250Mmdiameterikea30258913
 name_no_type: Ikeaoftastwhiteplate250mmdiameterikea30258913
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
 oomp_word: truck smile helicopter
 oomp_word_emoji: ':truck: :smile: :helicopter:'

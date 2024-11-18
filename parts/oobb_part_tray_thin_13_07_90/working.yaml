@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slogan
+bip_39_word_dash_10: slogan-pencil-shine-fit-early-chuckle-shell-gift-quiz-medal
+bip_39_word_dash_11: slogan-pencil-shine-fit-early-chuckle-shell-gift-quiz-medal-satisfy
+bip_39_word_dash_12: slogan-pencil-shine-fit-early-chuckle-shell-gift-quiz-medal-satisfy-area
+bip_39_word_dash_2: slogan-pencil
+bip_39_word_dash_3: slogan-pencil-shine
+bip_39_word_dash_4: slogan-pencil-shine-fit
+bip_39_word_dash_5: slogan-pencil-shine-fit-early
+bip_39_word_dash_6: slogan-pencil-shine-fit-early-chuckle
+bip_39_word_dash_7: slogan-pencil-shine-fit-early-chuckle-shell
+bip_39_word_dash_8: slogan-pencil-shine-fit-early-chuckle-shell-gift
+bip_39_word_dash_9: slogan-pencil-shine-fit-early-chuckle-shell-gift-quiz
+bip_39_word_new_br_1: slogan
+bip_39_word_new_br_10: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal
+bip_39_word_new_br_11: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal<br>satisfy
+bip_39_word_new_br_12: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz<br>medal<br>satisfy<br>area
+bip_39_word_new_br_2: slogan<br>pencil
+bip_39_word_new_br_3: slogan<br>pencil<br>shine
+bip_39_word_new_br_4: slogan<br>pencil<br>shine<br>fit
+bip_39_word_new_br_5: slogan<br>pencil<br>shine<br>fit<br>early
+bip_39_word_new_br_6: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle
+bip_39_word_new_br_7: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell
+bip_39_word_new_br_8: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift
+bip_39_word_new_br_9: slogan<br>pencil<br>shine<br>fit<br>early<br>chuckle<br>shell<br>gift<br>quiz
+bip_39_word_new_line_1: slogan
+bip_39_word_new_line_10: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell
+
+  gift
+
+  quiz
+
+  medal'
+bip_39_word_new_line_11: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell
+
+  gift
+
+  quiz
+
+  medal
+
+  satisfy'
+bip_39_word_new_line_12: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell
+
+  gift
+
+  quiz
+
+  medal
+
+  satisfy
+
+  area'
+bip_39_word_new_line_2: 'slogan
+
+  pencil'
+bip_39_word_new_line_3: 'slogan
+
+  pencil
+
+  shine'
+bip_39_word_new_line_4: 'slogan
+
+  pencil
+
+  shine
+
+  fit'
+bip_39_word_new_line_5: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early'
+bip_39_word_new_line_6: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle'
+bip_39_word_new_line_7: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell'
+bip_39_word_new_line_8: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell
+
+  gift'
+bip_39_word_new_line_9: 'slogan
+
+  pencil
+
+  shine
+
+  fit
+
+  early
+
+  chuckle
+
+  shell
+
+  gift
+
+  quiz'
+bip_39_word_no_space_1: slogan
+bip_39_word_no_space_10: sloganpencilshinefitearlychuckleshellgiftquizmedal
+bip_39_word_no_space_11: sloganpencilshinefitearlychuckleshellgiftquizmedalsatisfy
+bip_39_word_no_space_12: sloganpencilshinefitearlychuckleshellgiftquizmedalsatisfyarea
+bip_39_word_no_space_2: sloganpencil
+bip_39_word_no_space_3: sloganpencilshine
+bip_39_word_no_space_4: sloganpencilshinefit
+bip_39_word_no_space_5: sloganpencilshinefitearly
+bip_39_word_no_space_6: sloganpencilshinefitearlychuckle
+bip_39_word_no_space_7: sloganpencilshinefitearlychuckleshell
+bip_39_word_no_space_8: sloganpencilshinefitearlychuckleshellgift
+bip_39_word_no_space_9: sloganpencilshinefitearlychuckleshellgiftquiz
+bip_39_word_space_0:
+- slogan
+- pencil
+- shine
+- fit
+- early
+- chuckle
+- shell
+- gift
+- quiz
+- medal
+- satisfy
+- area
+bip_39_word_space_1: slogan
+bip_39_word_space_10: slogan pencil shine fit early chuckle shell gift quiz medal
+bip_39_word_space_11: slogan pencil shine fit early chuckle shell gift quiz medal
+  satisfy
+bip_39_word_space_12: slogan pencil shine fit early chuckle shell gift quiz medal
+  satisfy area
+bip_39_word_space_2: slogan pencil
+bip_39_word_space_3: slogan pencil shine
+bip_39_word_space_4: slogan pencil shine fit
+bip_39_word_space_5: slogan pencil shine fit early
+bip_39_word_space_6: slogan pencil shine fit early chuckle
+bip_39_word_space_7: slogan pencil shine fit early chuckle shell
+bip_39_word_space_8: slogan pencil shine fit early chuckle shell gift
+bip_39_word_space_9: slogan pencil shine fit early chuckle shell gift quiz
+bip_39_word_underscore_1: slogan
+bip_39_word_underscore_10: slogan_pencil_shine_fit_early_chuckle_shell_gift_quiz_medal
+bip_39_word_underscore_11: slogan_pencil_shine_fit_early_chuckle_shell_gift_quiz_medal_satisfy
+bip_39_word_underscore_12: slogan_pencil_shine_fit_early_chuckle_shell_gift_quiz_medal_satisfy_area
+bip_39_word_underscore_2: slogan_pencil
+bip_39_word_underscore_3: slogan_pencil_shine
+bip_39_word_underscore_4: slogan_pencil_shine_fit
+bip_39_word_underscore_5: slogan_pencil_shine_fit_early
+bip_39_word_underscore_6: slogan_pencil_shine_fit_early_chuckle
+bip_39_word_underscore_7: slogan_pencil_shine_fit_early_chuckle_shell
+bip_39_word_underscore_8: slogan_pencil_shine_fit_early_chuckle_shell_gift
+bip_39_word_underscore_9: slogan_pencil_shine_fit_early_chuckle_shell_gift_quiz
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_07_90
 id_no_color: '130790'
 id_no_size: '13_07_90'
 id_no_type: tray_thin_13_07_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_07_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_07_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_07_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2072xsy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2072xsy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2072xsy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '130790'
 name_no_size: 13 07 90
 name_no_size_short: 13 07 90
 name_no_type: Tray Thin 13 07 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_07_90
 oomp_word: tea fax violin
 oomp_word_emoji: ':tea: :fax: :violin:'

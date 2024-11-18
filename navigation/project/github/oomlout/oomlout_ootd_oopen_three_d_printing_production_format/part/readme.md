@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Ootd Oopen Three D Printing Production Format
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :anger: :question: :chicken:
 * md5_6_alpha: pe16
 * md5_6: 12134a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20pe16)
+[2x1](http://192.168.1.242:1112/?label=oomp%20pe16)
+[6x4](http://192.168.1.55:1112/?label=oomp%20pe16)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ asthma |
 | id_no_color | ootd_oopen_three_d_printing_production_format |  
 | id_no_size | ootd_oopen_three_d_printing_production_format |  
 | id_no_type | oomlout_oomlout_ootd_oopen_three_d_printing_production_format |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20pe16 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20pe16 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20pe16 |  
 | link_redirect | https://github.com/oomlout/oomlout_ootd_oopen_three_d_printing_production_format |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ asthma |
 | name_no_size | Ootd Oopen Three D Printing Production Format |  
 | name_no_size_short | Ootd Oopen Three D Printing Production Format |  
 | name_no_type | Oomlout Oomlout Ootd Oopen Three D Printing Production Format |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format |  
 | oomp_word | anger question chicken |  
 | oomp_word_emoji | :anger: :question: :chicken: |  

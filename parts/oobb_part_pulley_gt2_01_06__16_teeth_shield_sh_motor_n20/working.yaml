@@ -1,3 +1,222 @@
+bip_39_word_dash_1: exhibit
+bip_39_word_dash_10: exhibit-market-dial-music-shoot-fine-base-rack-elephant-second
+bip_39_word_dash_11: exhibit-market-dial-music-shoot-fine-base-rack-elephant-second-protect
+bip_39_word_dash_12: exhibit-market-dial-music-shoot-fine-base-rack-elephant-second-protect-almost
+bip_39_word_dash_2: exhibit-market
+bip_39_word_dash_3: exhibit-market-dial
+bip_39_word_dash_4: exhibit-market-dial-music
+bip_39_word_dash_5: exhibit-market-dial-music-shoot
+bip_39_word_dash_6: exhibit-market-dial-music-shoot-fine
+bip_39_word_dash_7: exhibit-market-dial-music-shoot-fine-base
+bip_39_word_dash_8: exhibit-market-dial-music-shoot-fine-base-rack
+bip_39_word_dash_9: exhibit-market-dial-music-shoot-fine-base-rack-elephant
+bip_39_word_new_br_1: exhibit
+bip_39_word_new_br_10: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second
+bip_39_word_new_br_11: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second<br>protect
+bip_39_word_new_br_12: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant<br>second<br>protect<br>almost
+bip_39_word_new_br_2: exhibit<br>market
+bip_39_word_new_br_3: exhibit<br>market<br>dial
+bip_39_word_new_br_4: exhibit<br>market<br>dial<br>music
+bip_39_word_new_br_5: exhibit<br>market<br>dial<br>music<br>shoot
+bip_39_word_new_br_6: exhibit<br>market<br>dial<br>music<br>shoot<br>fine
+bip_39_word_new_br_7: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base
+bip_39_word_new_br_8: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack
+bip_39_word_new_br_9: exhibit<br>market<br>dial<br>music<br>shoot<br>fine<br>base<br>rack<br>elephant
+bip_39_word_new_line_1: exhibit
+bip_39_word_new_line_10: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base
+
+  rack
+
+  elephant
+
+  second'
+bip_39_word_new_line_11: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base
+
+  rack
+
+  elephant
+
+  second
+
+  protect'
+bip_39_word_new_line_12: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base
+
+  rack
+
+  elephant
+
+  second
+
+  protect
+
+  almost'
+bip_39_word_new_line_2: 'exhibit
+
+  market'
+bip_39_word_new_line_3: 'exhibit
+
+  market
+
+  dial'
+bip_39_word_new_line_4: 'exhibit
+
+  market
+
+  dial
+
+  music'
+bip_39_word_new_line_5: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot'
+bip_39_word_new_line_6: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine'
+bip_39_word_new_line_7: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base'
+bip_39_word_new_line_8: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base
+
+  rack'
+bip_39_word_new_line_9: 'exhibit
+
+  market
+
+  dial
+
+  music
+
+  shoot
+
+  fine
+
+  base
+
+  rack
+
+  elephant'
+bip_39_word_no_space_1: exhibit
+bip_39_word_no_space_10: exhibitmarketdialmusicshootfinebaserackelephantsecond
+bip_39_word_no_space_11: exhibitmarketdialmusicshootfinebaserackelephantsecondprotect
+bip_39_word_no_space_12: exhibitmarketdialmusicshootfinebaserackelephantsecondprotectalmost
+bip_39_word_no_space_2: exhibitmarket
+bip_39_word_no_space_3: exhibitmarketdial
+bip_39_word_no_space_4: exhibitmarketdialmusic
+bip_39_word_no_space_5: exhibitmarketdialmusicshoot
+bip_39_word_no_space_6: exhibitmarketdialmusicshootfine
+bip_39_word_no_space_7: exhibitmarketdialmusicshootfinebase
+bip_39_word_no_space_8: exhibitmarketdialmusicshootfinebaserack
+bip_39_word_no_space_9: exhibitmarketdialmusicshootfinebaserackelephant
+bip_39_word_space_0:
+- exhibit
+- market
+- dial
+- music
+- shoot
+- fine
+- base
+- rack
+- elephant
+- second
+- protect
+- almost
+bip_39_word_space_1: exhibit
+bip_39_word_space_10: exhibit market dial music shoot fine base rack elephant second
+bip_39_word_space_11: exhibit market dial music shoot fine base rack elephant second
+  protect
+bip_39_word_space_12: exhibit market dial music shoot fine base rack elephant second
+  protect almost
+bip_39_word_space_2: exhibit market
+bip_39_word_space_3: exhibit market dial
+bip_39_word_space_4: exhibit market dial music
+bip_39_word_space_5: exhibit market dial music shoot
+bip_39_word_space_6: exhibit market dial music shoot fine
+bip_39_word_space_7: exhibit market dial music shoot fine base
+bip_39_word_space_8: exhibit market dial music shoot fine base rack
+bip_39_word_space_9: exhibit market dial music shoot fine base rack elephant
+bip_39_word_underscore_1: exhibit
+bip_39_word_underscore_10: exhibit_market_dial_music_shoot_fine_base_rack_elephant_second
+bip_39_word_underscore_11: exhibit_market_dial_music_shoot_fine_base_rack_elephant_second_protect
+bip_39_word_underscore_12: exhibit_market_dial_music_shoot_fine_base_rack_elephant_second_protect_almost
+bip_39_word_underscore_2: exhibit_market
+bip_39_word_underscore_3: exhibit_market_dial
+bip_39_word_underscore_4: exhibit_market_dial_music
+bip_39_word_underscore_5: exhibit_market_dial_music_shoot
+bip_39_word_underscore_6: exhibit_market_dial_music_shoot_fine
+bip_39_word_underscore_7: exhibit_market_dial_music_shoot_fine_base
+bip_39_word_underscore_8: exhibit_market_dial_music_shoot_fine_base_rack
+bip_39_word_underscore_9: exhibit_market_dial_music_shoot_fine_base_rack_elephant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
 id_no_color: 010616teethshieldshmotorn20
 id_no_size: 01_06__16_teeth_shield_sh_motor_n20
 id_no_type: pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2049lkg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2049lkg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2049lkg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010616Teethshieldshmotorn20
 name_no_size: 01 06  16 Teeth Shield Sh Motor N20
 name_no_size_short: 01 06  16 Teeth Shield Sh Motor N20
 name_no_type: Pulley Gt2 01 06  16 Teeth Shield Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__16_teeth_shield_sh_motor_n20
 oomp_word: shell dragon squirrel
 oomp_word_emoji: ':shell: :dragon: :squirrel:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: mushroom
+bip_39_word_dash_10: mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer
+bip_39_word_dash_11: mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer-ceiling
+bip_39_word_dash_12: mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card-pioneer-ceiling-antique
+bip_39_word_dash_2: mushroom-sound
+bip_39_word_dash_3: mushroom-sound-aisle
+bip_39_word_dash_4: mushroom-sound-aisle-easily
+bip_39_word_dash_5: mushroom-sound-aisle-easily-wrestle
+bip_39_word_dash_6: mushroom-sound-aisle-easily-wrestle-choice
+bip_39_word_dash_7: mushroom-sound-aisle-easily-wrestle-choice-sword
+bip_39_word_dash_8: mushroom-sound-aisle-easily-wrestle-choice-sword-laugh
+bip_39_word_dash_9: mushroom-sound-aisle-easily-wrestle-choice-sword-laugh-card
+bip_39_word_new_br_1: mushroom
+bip_39_word_new_br_10: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card<br>pioneer
+bip_39_word_new_br_11: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card<br>pioneer<br>ceiling
+bip_39_word_new_br_12: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card<br>pioneer<br>ceiling<br>antique
+bip_39_word_new_br_2: mushroom<br>sound
+bip_39_word_new_br_3: mushroom<br>sound<br>aisle
+bip_39_word_new_br_4: mushroom<br>sound<br>aisle<br>easily
+bip_39_word_new_br_5: mushroom<br>sound<br>aisle<br>easily<br>wrestle
+bip_39_word_new_br_6: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice
+bip_39_word_new_br_7: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword
+bip_39_word_new_br_8: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh
+bip_39_word_new_br_9: mushroom<br>sound<br>aisle<br>easily<br>wrestle<br>choice<br>sword<br>laugh<br>card
+bip_39_word_new_line_1: mushroom
+bip_39_word_new_line_10: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword
+
+  laugh
+
+  card
+
+  pioneer'
+bip_39_word_new_line_11: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword
+
+  laugh
+
+  card
+
+  pioneer
+
+  ceiling'
+bip_39_word_new_line_12: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword
+
+  laugh
+
+  card
+
+  pioneer
+
+  ceiling
+
+  antique'
+bip_39_word_new_line_2: 'mushroom
+
+  sound'
+bip_39_word_new_line_3: 'mushroom
+
+  sound
+
+  aisle'
+bip_39_word_new_line_4: 'mushroom
+
+  sound
+
+  aisle
+
+  easily'
+bip_39_word_new_line_5: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle'
+bip_39_word_new_line_6: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice'
+bip_39_word_new_line_7: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword'
+bip_39_word_new_line_8: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword
+
+  laugh'
+bip_39_word_new_line_9: 'mushroom
+
+  sound
+
+  aisle
+
+  easily
+
+  wrestle
+
+  choice
+
+  sword
+
+  laugh
+
+  card'
+bip_39_word_no_space_1: mushroom
+bip_39_word_no_space_10: mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneer
+bip_39_word_no_space_11: mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneerceiling
+bip_39_word_no_space_12: mushroomsoundaisleeasilywrestlechoiceswordlaughcardpioneerceilingantique
+bip_39_word_no_space_2: mushroomsound
+bip_39_word_no_space_3: mushroomsoundaisle
+bip_39_word_no_space_4: mushroomsoundaisleeasily
+bip_39_word_no_space_5: mushroomsoundaisleeasilywrestle
+bip_39_word_no_space_6: mushroomsoundaisleeasilywrestlechoice
+bip_39_word_no_space_7: mushroomsoundaisleeasilywrestlechoicesword
+bip_39_word_no_space_8: mushroomsoundaisleeasilywrestlechoiceswordlaugh
+bip_39_word_no_space_9: mushroomsoundaisleeasilywrestlechoiceswordlaughcard
+bip_39_word_space_0:
+- mushroom
+- sound
+- aisle
+- easily
+- wrestle
+- choice
+- sword
+- laugh
+- card
+- pioneer
+- ceiling
+- antique
+bip_39_word_space_1: mushroom
+bip_39_word_space_10: mushroom sound aisle easily wrestle choice sword laugh card
+  pioneer
+bip_39_word_space_11: mushroom sound aisle easily wrestle choice sword laugh card
+  pioneer ceiling
+bip_39_word_space_12: mushroom sound aisle easily wrestle choice sword laugh card
+  pioneer ceiling antique
+bip_39_word_space_2: mushroom sound
+bip_39_word_space_3: mushroom sound aisle
+bip_39_word_space_4: mushroom sound aisle easily
+bip_39_word_space_5: mushroom sound aisle easily wrestle
+bip_39_word_space_6: mushroom sound aisle easily wrestle choice
+bip_39_word_space_7: mushroom sound aisle easily wrestle choice sword
+bip_39_word_space_8: mushroom sound aisle easily wrestle choice sword laugh
+bip_39_word_space_9: mushroom sound aisle easily wrestle choice sword laugh card
+bip_39_word_underscore_1: mushroom
+bip_39_word_underscore_10: mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer
+bip_39_word_underscore_11: mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer_ceiling
+bip_39_word_underscore_12: mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card_pioneer_ceiling_antique
+bip_39_word_underscore_2: mushroom_sound
+bip_39_word_underscore_3: mushroom_sound_aisle
+bip_39_word_underscore_4: mushroom_sound_aisle_easily
+bip_39_word_underscore_5: mushroom_sound_aisle_easily_wrestle
+bip_39_word_underscore_6: mushroom_sound_aisle_easily_wrestle_choice
+bip_39_word_underscore_7: mushroom_sound_aisle_easily_wrestle_choice_sword
+bip_39_word_underscore_8: mushroom_sound_aisle_easily_wrestle_choice_sword_laugh
+bip_39_word_underscore_9: mushroom_sound_aisle_easily_wrestle_choice_sword_laugh_card
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_08_15_12
 id_no_color: 081512
 id_no_size: 08_15_12
 id_no_type: tray_08_15_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_15_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2066cbt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2066cbt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2066cbt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 081512
 name_no_size: 08 15 12
 name_no_size_short: 08 15 12
 name_no_type: Tray 08 15 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_15_12
 oomp_word: clubs hatching_chick bike
 oomp_word_emoji: ':clubs: :hatching_chick: :bike:'

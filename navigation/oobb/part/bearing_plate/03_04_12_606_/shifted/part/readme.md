@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Plate 03 04 12 606  Shifted
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_plate_03_04_12_606__shifted
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :book: :umbrella: :baby:
 * md5_6_alpha: 6elgd
 * md5_6: a42a1d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206elgd)
+[2x1](http://192.168.1.242:1112/?label=oomp%206elgd)
+[6x4](http://192.168.1.55:1112/?label=oomp%206elgd)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ need |
 | id_no_color | 030412606shifted |  
 | id_no_size | 03_04_12_606__shifted |  
 | id_no_type | bearing_plate_03_04_12_606__shifted |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206elgd |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206elgd |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206elgd |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ need |
 | name_no_size | 03 04 12 606  Shifted |  
 | name_no_size_short | 03 04 12 606  Shifted |  
 | name_no_type | Bearing Plate 03 04 12 606  Shifted |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_plate_03_04_12_606__shifted |  
 | oomp_word | book umbrella baby |  
 | oomp_word_emoji | :book: :umbrella: :baby: |  

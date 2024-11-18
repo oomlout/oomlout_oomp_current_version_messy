@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6924 Size 120 mm ID 165 mm OD 22 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6924_size_120_mm_id_165_mm_od_22_mm_depth
   * classification: hardware

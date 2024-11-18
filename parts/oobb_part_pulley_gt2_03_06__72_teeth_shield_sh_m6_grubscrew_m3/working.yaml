@@ -1,3 +1,222 @@
+bip_39_word_dash_1: maid
+bip_39_word_dash_10: maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve
+bip_39_word_dash_11: maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve-wise
+bip_39_word_dash_12: maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary-improve-wise-assist
+bip_39_word_dash_2: maid-ability
+bip_39_word_dash_3: maid-ability-oyster
+bip_39_word_dash_4: maid-ability-oyster-glue
+bip_39_word_dash_5: maid-ability-oyster-glue-lemon
+bip_39_word_dash_6: maid-ability-oyster-glue-lemon-short
+bip_39_word_dash_7: maid-ability-oyster-glue-lemon-short-submit
+bip_39_word_dash_8: maid-ability-oyster-glue-lemon-short-submit-buddy
+bip_39_word_dash_9: maid-ability-oyster-glue-lemon-short-submit-buddy-ordinary
+bip_39_word_new_br_1: maid
+bip_39_word_new_br_10: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary<br>improve
+bip_39_word_new_br_11: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary<br>improve<br>wise
+bip_39_word_new_br_12: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary<br>improve<br>wise<br>assist
+bip_39_word_new_br_2: maid<br>ability
+bip_39_word_new_br_3: maid<br>ability<br>oyster
+bip_39_word_new_br_4: maid<br>ability<br>oyster<br>glue
+bip_39_word_new_br_5: maid<br>ability<br>oyster<br>glue<br>lemon
+bip_39_word_new_br_6: maid<br>ability<br>oyster<br>glue<br>lemon<br>short
+bip_39_word_new_br_7: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit
+bip_39_word_new_br_8: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy
+bip_39_word_new_br_9: maid<br>ability<br>oyster<br>glue<br>lemon<br>short<br>submit<br>buddy<br>ordinary
+bip_39_word_new_line_1: maid
+bip_39_word_new_line_10: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit
+
+  buddy
+
+  ordinary
+
+  improve'
+bip_39_word_new_line_11: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit
+
+  buddy
+
+  ordinary
+
+  improve
+
+  wise'
+bip_39_word_new_line_12: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit
+
+  buddy
+
+  ordinary
+
+  improve
+
+  wise
+
+  assist'
+bip_39_word_new_line_2: 'maid
+
+  ability'
+bip_39_word_new_line_3: 'maid
+
+  ability
+
+  oyster'
+bip_39_word_new_line_4: 'maid
+
+  ability
+
+  oyster
+
+  glue'
+bip_39_word_new_line_5: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon'
+bip_39_word_new_line_6: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short'
+bip_39_word_new_line_7: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit'
+bip_39_word_new_line_8: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit
+
+  buddy'
+bip_39_word_new_line_9: 'maid
+
+  ability
+
+  oyster
+
+  glue
+
+  lemon
+
+  short
+
+  submit
+
+  buddy
+
+  ordinary'
+bip_39_word_no_space_1: maid
+bip_39_word_no_space_10: maidabilityoystergluelemonshortsubmitbuddyordinaryimprove
+bip_39_word_no_space_11: maidabilityoystergluelemonshortsubmitbuddyordinaryimprovewise
+bip_39_word_no_space_12: maidabilityoystergluelemonshortsubmitbuddyordinaryimprovewiseassist
+bip_39_word_no_space_2: maidability
+bip_39_word_no_space_3: maidabilityoyster
+bip_39_word_no_space_4: maidabilityoysterglue
+bip_39_word_no_space_5: maidabilityoystergluelemon
+bip_39_word_no_space_6: maidabilityoystergluelemonshort
+bip_39_word_no_space_7: maidabilityoystergluelemonshortsubmit
+bip_39_word_no_space_8: maidabilityoystergluelemonshortsubmitbuddy
+bip_39_word_no_space_9: maidabilityoystergluelemonshortsubmitbuddyordinary
+bip_39_word_space_0:
+- maid
+- ability
+- oyster
+- glue
+- lemon
+- short
+- submit
+- buddy
+- ordinary
+- improve
+- wise
+- assist
+bip_39_word_space_1: maid
+bip_39_word_space_10: maid ability oyster glue lemon short submit buddy ordinary improve
+bip_39_word_space_11: maid ability oyster glue lemon short submit buddy ordinary improve
+  wise
+bip_39_word_space_12: maid ability oyster glue lemon short submit buddy ordinary improve
+  wise assist
+bip_39_word_space_2: maid ability
+bip_39_word_space_3: maid ability oyster
+bip_39_word_space_4: maid ability oyster glue
+bip_39_word_space_5: maid ability oyster glue lemon
+bip_39_word_space_6: maid ability oyster glue lemon short
+bip_39_word_space_7: maid ability oyster glue lemon short submit
+bip_39_word_space_8: maid ability oyster glue lemon short submit buddy
+bip_39_word_space_9: maid ability oyster glue lemon short submit buddy ordinary
+bip_39_word_underscore_1: maid
+bip_39_word_underscore_10: maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve
+bip_39_word_underscore_11: maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve_wise
+bip_39_word_underscore_12: maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary_improve_wise_assist
+bip_39_word_underscore_2: maid_ability
+bip_39_word_underscore_3: maid_ability_oyster
+bip_39_word_underscore_4: maid_ability_oyster_glue
+bip_39_word_underscore_5: maid_ability_oyster_glue_lemon
+bip_39_word_underscore_6: maid_ability_oyster_glue_lemon_short
+bip_39_word_underscore_7: maid_ability_oyster_glue_lemon_short_submit
+bip_39_word_underscore_8: maid_ability_oyster_glue_lemon_short_submit_buddy
+bip_39_word_underscore_9: maid_ability_oyster_glue_lemon_short_submit_buddy_ordinary
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
 id_no_color: 030672teethshieldshm6grubscrewm3
 id_no_size: 03_06__72_teeth_shield_sh_m6_grubscrew_m3
 id_no_type: pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208nsnw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208nsnw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208nsnw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030672Teethshieldshm6Grubscrewm3
 name_no_size: 03 06  72 Teeth Shield Sh M6 Grubscrew M3
 name_no_size_short: 03 06  72 Teeth Shield Sh M6 Grubscrew M3
 name_no_type: Pulley Gt2 03 06  72 Teeth Shield Sh M6 Grubscrew M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_m6_grubscrew_m3
 oomp_word: stars seven factory
 oomp_word_emoji: ':stars: :seven: :factory:'

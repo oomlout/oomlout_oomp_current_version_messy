@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Essop 10 Converter USB To Serial Converter Wch Ch340K
+* name_short: 
 ### id
 * oomp_id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :birthday: :book: :dolphin:
 * md5_6_alpha: 7lemt
 * md5_6: c2a455
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207lemt)
+[2x1](http://192.168.1.242:1112/?label=oomp%207lemt)
+[6x4](http://192.168.1.55:1112/?label=oomp%207lemt)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ write |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340k |  
 | id_no_type | essop_10_converter_usb_to_serial_converter_wch_ch340k |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207lemt |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207lemt |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207lemt |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -330,6 +363,7 @@ write |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340K |  
 | name_no_type | Essop 10 Converter USB To Serial Converter Wch Ch340K |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k |  
 | oomp_word | birthday book dolphin |  
 | oomp_word_emoji | :birthday: :book: :dolphin: |  

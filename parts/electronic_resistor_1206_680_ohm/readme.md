@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 1206 680 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_1206_680_ohm
   * classification: electronic

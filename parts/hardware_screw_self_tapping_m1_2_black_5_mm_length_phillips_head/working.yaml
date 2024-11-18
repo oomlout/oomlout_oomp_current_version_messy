@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ginger
+bip_39_word_dash_10: ginger-clarify-shield-warm-lazy-march-clean-hurdle-apology-donor
+bip_39_word_dash_11: ginger-clarify-shield-warm-lazy-march-clean-hurdle-apology-donor-stomach
+bip_39_word_dash_12: ginger-clarify-shield-warm-lazy-march-clean-hurdle-apology-donor-stomach-affair
+bip_39_word_dash_2: ginger-clarify
+bip_39_word_dash_3: ginger-clarify-shield
+bip_39_word_dash_4: ginger-clarify-shield-warm
+bip_39_word_dash_5: ginger-clarify-shield-warm-lazy
+bip_39_word_dash_6: ginger-clarify-shield-warm-lazy-march
+bip_39_word_dash_7: ginger-clarify-shield-warm-lazy-march-clean
+bip_39_word_dash_8: ginger-clarify-shield-warm-lazy-march-clean-hurdle
+bip_39_word_dash_9: ginger-clarify-shield-warm-lazy-march-clean-hurdle-apology
+bip_39_word_new_br_1: ginger
+bip_39_word_new_br_10: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean<br>hurdle<br>apology<br>donor
+bip_39_word_new_br_11: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean<br>hurdle<br>apology<br>donor<br>stomach
+bip_39_word_new_br_12: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean<br>hurdle<br>apology<br>donor<br>stomach<br>affair
+bip_39_word_new_br_2: ginger<br>clarify
+bip_39_word_new_br_3: ginger<br>clarify<br>shield
+bip_39_word_new_br_4: ginger<br>clarify<br>shield<br>warm
+bip_39_word_new_br_5: ginger<br>clarify<br>shield<br>warm<br>lazy
+bip_39_word_new_br_6: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march
+bip_39_word_new_br_7: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean
+bip_39_word_new_br_8: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean<br>hurdle
+bip_39_word_new_br_9: ginger<br>clarify<br>shield<br>warm<br>lazy<br>march<br>clean<br>hurdle<br>apology
+bip_39_word_new_line_1: ginger
+bip_39_word_new_line_10: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean
+
+  hurdle
+
+  apology
+
+  donor'
+bip_39_word_new_line_11: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean
+
+  hurdle
+
+  apology
+
+  donor
+
+  stomach'
+bip_39_word_new_line_12: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean
+
+  hurdle
+
+  apology
+
+  donor
+
+  stomach
+
+  affair'
+bip_39_word_new_line_2: 'ginger
+
+  clarify'
+bip_39_word_new_line_3: 'ginger
+
+  clarify
+
+  shield'
+bip_39_word_new_line_4: 'ginger
+
+  clarify
+
+  shield
+
+  warm'
+bip_39_word_new_line_5: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy'
+bip_39_word_new_line_6: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march'
+bip_39_word_new_line_7: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean'
+bip_39_word_new_line_8: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean
+
+  hurdle'
+bip_39_word_new_line_9: 'ginger
+
+  clarify
+
+  shield
+
+  warm
+
+  lazy
+
+  march
+
+  clean
+
+  hurdle
+
+  apology'
+bip_39_word_no_space_1: ginger
+bip_39_word_no_space_10: gingerclarifyshieldwarmlazymarchcleanhurdleapologydonor
+bip_39_word_no_space_11: gingerclarifyshieldwarmlazymarchcleanhurdleapologydonorstomach
+bip_39_word_no_space_12: gingerclarifyshieldwarmlazymarchcleanhurdleapologydonorstomachaffair
+bip_39_word_no_space_2: gingerclarify
+bip_39_word_no_space_3: gingerclarifyshield
+bip_39_word_no_space_4: gingerclarifyshieldwarm
+bip_39_word_no_space_5: gingerclarifyshieldwarmlazy
+bip_39_word_no_space_6: gingerclarifyshieldwarmlazymarch
+bip_39_word_no_space_7: gingerclarifyshieldwarmlazymarchclean
+bip_39_word_no_space_8: gingerclarifyshieldwarmlazymarchcleanhurdle
+bip_39_word_no_space_9: gingerclarifyshieldwarmlazymarchcleanhurdleapology
+bip_39_word_space_0:
+- ginger
+- clarify
+- shield
+- warm
+- lazy
+- march
+- clean
+- hurdle
+- apology
+- donor
+- stomach
+- affair
+bip_39_word_space_1: ginger
+bip_39_word_space_10: ginger clarify shield warm lazy march clean hurdle apology donor
+bip_39_word_space_11: ginger clarify shield warm lazy march clean hurdle apology donor
+  stomach
+bip_39_word_space_12: ginger clarify shield warm lazy march clean hurdle apology donor
+  stomach affair
+bip_39_word_space_2: ginger clarify
+bip_39_word_space_3: ginger clarify shield
+bip_39_word_space_4: ginger clarify shield warm
+bip_39_word_space_5: ginger clarify shield warm lazy
+bip_39_word_space_6: ginger clarify shield warm lazy march
+bip_39_word_space_7: ginger clarify shield warm lazy march clean
+bip_39_word_space_8: ginger clarify shield warm lazy march clean hurdle
+bip_39_word_space_9: ginger clarify shield warm lazy march clean hurdle apology
+bip_39_word_underscore_1: ginger
+bip_39_word_underscore_10: ginger_clarify_shield_warm_lazy_march_clean_hurdle_apology_donor
+bip_39_word_underscore_11: ginger_clarify_shield_warm_lazy_march_clean_hurdle_apology_donor_stomach
+bip_39_word_underscore_12: ginger_clarify_shield_warm_lazy_march_clean_hurdle_apology_donor_stomach_affair
+bip_39_word_underscore_2: ginger_clarify
+bip_39_word_underscore_3: ginger_clarify_shield
+bip_39_word_underscore_4: ginger_clarify_shield_warm
+bip_39_word_underscore_5: ginger_clarify_shield_warm_lazy
+bip_39_word_underscore_6: ginger_clarify_shield_warm_lazy_march
+bip_39_word_underscore_7: ginger_clarify_shield_warm_lazy_march_clean
+bip_39_word_underscore_8: ginger_clarify_shield_warm_lazy_march_clean_hurdle
+bip_39_word_underscore_9: ginger_clarify_shield_warm_lazy_march_clean_hurdle_apology
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 5_mm_length_phillips_head
 id_no_size: black_5_mm_length_phillips_head
 id_no_type: m1_2_black_5_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_2_black_5_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_2_black_5_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_2_black_5_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202pv80
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202pv80
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202pv80
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,27 @@ name_no_color: 5 mm Length Phillips Head
 name_no_size: Black 5 mm Length Phillips Head
 name_no_size_short: Black 5 Mm Length Phillips Head
 name_no_type: M1 2 Black 5 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 5 mm
+oomlout_bolt_length_no_unit: '5'
+oomlout_bolt_md5_6_alpha_first_3: 2pv
+oomlout_bolt_md5_6_alpha_first_3_upper: 2PV
+oomlout_bolt_md5_6_alpha_last_3: '80'
+oomlout_bolt_md5_6_alpha_last_3_upper: '80'
+oomlout_bolt_md5_6_first_3: 45a
+oomlout_bolt_md5_6_first_3_upper: 45A
+oomlout_bolt_md5_6_last_3: c50
+oomlout_bolt_md5_6_last_3_upper: C50
+oomlout_bolt_name: Self Tapping M1_2X5 mm Black (Phillips)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M1.2
+oomlout_bolt_type: Self Tapping
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: st1d2b5p
+oomlout_short_code_upper: ST1D2B5P
 oomp_key: oomp_hardware_screw_self_tapping_m1_2_black_5_mm_length_phillips_head
 oomp_word: snake shirt beetle
 oomp_word_emoji: ':snake: :shirt: :beetle:'

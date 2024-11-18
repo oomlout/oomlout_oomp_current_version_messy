@@ -1,3 +1,223 @@
+bip_39_word_dash_1: visa
+bip_39_word_dash_10: visa-flight-bracket-universe-outdoor-cinnamon-general-route-warm-chapter
+bip_39_word_dash_11: visa-flight-bracket-universe-outdoor-cinnamon-general-route-warm-chapter-master
+bip_39_word_dash_12: visa-flight-bracket-universe-outdoor-cinnamon-general-route-warm-chapter-master-actor
+bip_39_word_dash_2: visa-flight
+bip_39_word_dash_3: visa-flight-bracket
+bip_39_word_dash_4: visa-flight-bracket-universe
+bip_39_word_dash_5: visa-flight-bracket-universe-outdoor
+bip_39_word_dash_6: visa-flight-bracket-universe-outdoor-cinnamon
+bip_39_word_dash_7: visa-flight-bracket-universe-outdoor-cinnamon-general
+bip_39_word_dash_8: visa-flight-bracket-universe-outdoor-cinnamon-general-route
+bip_39_word_dash_9: visa-flight-bracket-universe-outdoor-cinnamon-general-route-warm
+bip_39_word_new_br_1: visa
+bip_39_word_new_br_10: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter
+bip_39_word_new_br_11: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter<br>master
+bip_39_word_new_br_12: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm<br>chapter<br>master<br>actor
+bip_39_word_new_br_2: visa<br>flight
+bip_39_word_new_br_3: visa<br>flight<br>bracket
+bip_39_word_new_br_4: visa<br>flight<br>bracket<br>universe
+bip_39_word_new_br_5: visa<br>flight<br>bracket<br>universe<br>outdoor
+bip_39_word_new_br_6: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon
+bip_39_word_new_br_7: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general
+bip_39_word_new_br_8: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route
+bip_39_word_new_br_9: visa<br>flight<br>bracket<br>universe<br>outdoor<br>cinnamon<br>general<br>route<br>warm
+bip_39_word_new_line_1: visa
+bip_39_word_new_line_10: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general
+
+  route
+
+  warm
+
+  chapter'
+bip_39_word_new_line_11: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general
+
+  route
+
+  warm
+
+  chapter
+
+  master'
+bip_39_word_new_line_12: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general
+
+  route
+
+  warm
+
+  chapter
+
+  master
+
+  actor'
+bip_39_word_new_line_2: 'visa
+
+  flight'
+bip_39_word_new_line_3: 'visa
+
+  flight
+
+  bracket'
+bip_39_word_new_line_4: 'visa
+
+  flight
+
+  bracket
+
+  universe'
+bip_39_word_new_line_5: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor'
+bip_39_word_new_line_6: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon'
+bip_39_word_new_line_7: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general'
+bip_39_word_new_line_8: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general
+
+  route'
+bip_39_word_new_line_9: 'visa
+
+  flight
+
+  bracket
+
+  universe
+
+  outdoor
+
+  cinnamon
+
+  general
+
+  route
+
+  warm'
+bip_39_word_no_space_1: visa
+bip_39_word_no_space_10: visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchapter
+bip_39_word_no_space_11: visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchaptermaster
+bip_39_word_no_space_12: visaflightbracketuniverseoutdoorcinnamongeneralroutewarmchaptermasteractor
+bip_39_word_no_space_2: visaflight
+bip_39_word_no_space_3: visaflightbracket
+bip_39_word_no_space_4: visaflightbracketuniverse
+bip_39_word_no_space_5: visaflightbracketuniverseoutdoor
+bip_39_word_no_space_6: visaflightbracketuniverseoutdoorcinnamon
+bip_39_word_no_space_7: visaflightbracketuniverseoutdoorcinnamongeneral
+bip_39_word_no_space_8: visaflightbracketuniverseoutdoorcinnamongeneralroute
+bip_39_word_no_space_9: visaflightbracketuniverseoutdoorcinnamongeneralroutewarm
+bip_39_word_space_0:
+- visa
+- flight
+- bracket
+- universe
+- outdoor
+- cinnamon
+- general
+- route
+- warm
+- chapter
+- master
+- actor
+bip_39_word_space_1: visa
+bip_39_word_space_10: visa flight bracket universe outdoor cinnamon general route
+  warm chapter
+bip_39_word_space_11: visa flight bracket universe outdoor cinnamon general route
+  warm chapter master
+bip_39_word_space_12: visa flight bracket universe outdoor cinnamon general route
+  warm chapter master actor
+bip_39_word_space_2: visa flight
+bip_39_word_space_3: visa flight bracket
+bip_39_word_space_4: visa flight bracket universe
+bip_39_word_space_5: visa flight bracket universe outdoor
+bip_39_word_space_6: visa flight bracket universe outdoor cinnamon
+bip_39_word_space_7: visa flight bracket universe outdoor cinnamon general
+bip_39_word_space_8: visa flight bracket universe outdoor cinnamon general route
+bip_39_word_space_9: visa flight bracket universe outdoor cinnamon general route warm
+bip_39_word_underscore_1: visa
+bip_39_word_underscore_10: visa_flight_bracket_universe_outdoor_cinnamon_general_route_warm_chapter
+bip_39_word_underscore_11: visa_flight_bracket_universe_outdoor_cinnamon_general_route_warm_chapter_master
+bip_39_word_underscore_12: visa_flight_bracket_universe_outdoor_cinnamon_general_route_warm_chapter_master_actor
+bip_39_word_underscore_2: visa_flight
+bip_39_word_underscore_3: visa_flight_bracket
+bip_39_word_underscore_4: visa_flight_bracket_universe
+bip_39_word_underscore_5: visa_flight_bracket_universe_outdoor
+bip_39_word_underscore_6: visa_flight_bracket_universe_outdoor_cinnamon
+bip_39_word_underscore_7: visa_flight_bracket_universe_outdoor_cinnamon_general
+bip_39_word_underscore_8: visa_flight_bracket_universe_outdoor_cinnamon_general_route
+bip_39_word_underscore_9: visa_flight_bracket_universe_outdoor_cinnamon_general_route_warm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_01_12
 id_no_color: '150112'
 id_no_size: '15_01_12'
 id_no_type: tray_thin_15_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201ohu1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201ohu1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201ohu1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150112'
 name_no_size: 15 01 12
 name_no_size_short: 15 01 12
 name_no_type: Tray Thin 15 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_01_12
 oomp_word: cloud dizzy hatching_chick
 oomp_word_emoji: ':cloud: :dizzy: :hatching_chick:'

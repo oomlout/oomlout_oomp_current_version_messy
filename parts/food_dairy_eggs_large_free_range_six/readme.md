@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Ocado Large Free Range Eggs
 
+### name
+* name: Food Dairy Eggs Large Free Range Six
+* name_short: 
 ### id
 * oomp_id: food_dairy_eggs_large_free_range_six
   * classification: food

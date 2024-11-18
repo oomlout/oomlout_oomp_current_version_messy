@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Hardware Bearing 6805
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_hardware_bearing_6805
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :seven: :penguin: :new_moon:
 * md5_6_alpha: 9orqm
 * md5_6: f84b6e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209orqm)
+[2x1](http://192.168.1.242:1112/?label=oomp%209orqm)
+[6x4](http://192.168.1.55:1112/?label=oomp%209orqm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6805) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6805)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ find |
 | id_no_color | hardware6805 |  
 | id_no_size | hardware_6805 |  
 | id_no_type | bearing_hardware_bearing_6805 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6805 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6805 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6805 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209orqm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209orqm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209orqm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ find |
 | name_no_size | Hardware 6805 |  
 | name_no_size_short | Hardware 6k8 |  
 | name_no_type | Bearing Hardware Bearing 6805 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_hardware_bearing_6805 |  
 | oomp_word | seven penguin new_moon |  
 | oomp_word_emoji | :seven: :penguin: :new_moon: |  

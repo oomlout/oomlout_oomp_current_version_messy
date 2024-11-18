@@ -1,3 +1,222 @@
+bip_39_word_dash_1: artefact
+bip_39_word_dash_10: artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble
+bip_39_word_dash_11: artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble-youth
+bip_39_word_dash_12: artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal-stumble-youth-acoustic
+bip_39_word_dash_2: artefact-sunset
+bip_39_word_dash_3: artefact-sunset-pipe
+bip_39_word_dash_4: artefact-sunset-pipe-dawn
+bip_39_word_dash_5: artefact-sunset-pipe-dawn-hover
+bip_39_word_dash_6: artefact-sunset-pipe-dawn-hover-arch
+bip_39_word_dash_7: artefact-sunset-pipe-dawn-hover-arch-inflict
+bip_39_word_dash_8: artefact-sunset-pipe-dawn-hover-arch-inflict-index
+bip_39_word_dash_9: artefact-sunset-pipe-dawn-hover-arch-inflict-index-vocal
+bip_39_word_new_br_1: artefact
+bip_39_word_new_br_10: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble
+bip_39_word_new_br_11: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble<br>youth
+bip_39_word_new_br_12: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal<br>stumble<br>youth<br>acoustic
+bip_39_word_new_br_2: artefact<br>sunset
+bip_39_word_new_br_3: artefact<br>sunset<br>pipe
+bip_39_word_new_br_4: artefact<br>sunset<br>pipe<br>dawn
+bip_39_word_new_br_5: artefact<br>sunset<br>pipe<br>dawn<br>hover
+bip_39_word_new_br_6: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch
+bip_39_word_new_br_7: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict
+bip_39_word_new_br_8: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index
+bip_39_word_new_br_9: artefact<br>sunset<br>pipe<br>dawn<br>hover<br>arch<br>inflict<br>index<br>vocal
+bip_39_word_new_line_1: artefact
+bip_39_word_new_line_10: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict
+
+  index
+
+  vocal
+
+  stumble'
+bip_39_word_new_line_11: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict
+
+  index
+
+  vocal
+
+  stumble
+
+  youth'
+bip_39_word_new_line_12: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict
+
+  index
+
+  vocal
+
+  stumble
+
+  youth
+
+  acoustic'
+bip_39_word_new_line_2: 'artefact
+
+  sunset'
+bip_39_word_new_line_3: 'artefact
+
+  sunset
+
+  pipe'
+bip_39_word_new_line_4: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn'
+bip_39_word_new_line_5: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover'
+bip_39_word_new_line_6: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch'
+bip_39_word_new_line_7: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict'
+bip_39_word_new_line_8: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict
+
+  index'
+bip_39_word_new_line_9: 'artefact
+
+  sunset
+
+  pipe
+
+  dawn
+
+  hover
+
+  arch
+
+  inflict
+
+  index
+
+  vocal'
+bip_39_word_no_space_1: artefact
+bip_39_word_no_space_10: artefactsunsetpipedawnhoverarchinflictindexvocalstumble
+bip_39_word_no_space_11: artefactsunsetpipedawnhoverarchinflictindexvocalstumbleyouth
+bip_39_word_no_space_12: artefactsunsetpipedawnhoverarchinflictindexvocalstumbleyouthacoustic
+bip_39_word_no_space_2: artefactsunset
+bip_39_word_no_space_3: artefactsunsetpipe
+bip_39_word_no_space_4: artefactsunsetpipedawn
+bip_39_word_no_space_5: artefactsunsetpipedawnhover
+bip_39_word_no_space_6: artefactsunsetpipedawnhoverarch
+bip_39_word_no_space_7: artefactsunsetpipedawnhoverarchinflict
+bip_39_word_no_space_8: artefactsunsetpipedawnhoverarchinflictindex
+bip_39_word_no_space_9: artefactsunsetpipedawnhoverarchinflictindexvocal
+bip_39_word_space_0:
+- artefact
+- sunset
+- pipe
+- dawn
+- hover
+- arch
+- inflict
+- index
+- vocal
+- stumble
+- youth
+- acoustic
+bip_39_word_space_1: artefact
+bip_39_word_space_10: artefact sunset pipe dawn hover arch inflict index vocal stumble
+bip_39_word_space_11: artefact sunset pipe dawn hover arch inflict index vocal stumble
+  youth
+bip_39_word_space_12: artefact sunset pipe dawn hover arch inflict index vocal stumble
+  youth acoustic
+bip_39_word_space_2: artefact sunset
+bip_39_word_space_3: artefact sunset pipe
+bip_39_word_space_4: artefact sunset pipe dawn
+bip_39_word_space_5: artefact sunset pipe dawn hover
+bip_39_word_space_6: artefact sunset pipe dawn hover arch
+bip_39_word_space_7: artefact sunset pipe dawn hover arch inflict
+bip_39_word_space_8: artefact sunset pipe dawn hover arch inflict index
+bip_39_word_space_9: artefact sunset pipe dawn hover arch inflict index vocal
+bip_39_word_underscore_1: artefact
+bip_39_word_underscore_10: artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble
+bip_39_word_underscore_11: artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble_youth
+bip_39_word_underscore_12: artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal_stumble_youth_acoustic
+bip_39_word_underscore_2: artefact_sunset
+bip_39_word_underscore_3: artefact_sunset_pipe
+bip_39_word_underscore_4: artefact_sunset_pipe_dawn
+bip_39_word_underscore_5: artefact_sunset_pipe_dawn_hover
+bip_39_word_underscore_6: artefact_sunset_pipe_dawn_hover_arch
+bip_39_word_underscore_7: artefact_sunset_pipe_dawn_hover_arch_inflict
+bip_39_word_underscore_8: artefact_sunset_pipe_dawn_hover_arch_inflict_index
+bip_39_word_underscore_9: artefact_sunset_pipe_dawn_hover_arch_inflict_index_vocal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_12_18
 id_no_color: 071218
 id_no_size: 07_12_18
 id_no_type: tray_07_12_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_12_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_12_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_12_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201br3p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201br3p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201br3p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 071218
 name_no_size: 07 12 18
 name_no_size_short: 07 12 18
 name_no_type: Tray 07 12 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_12_18
 oomp_word: feet recycle four
 oomp_word_emoji: ':feet: :recycle: :four:'

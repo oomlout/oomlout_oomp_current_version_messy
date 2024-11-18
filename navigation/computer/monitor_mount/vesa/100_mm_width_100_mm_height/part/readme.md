@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Monitor Mount Vesa 100 mm Width 100 mm Height
+* name_short: 
 ### id
 * oomp_id: computer_monitor_mount_vesa_100_mm_width_100_mm_height
   * classification: computer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :eyeglasses: :smile: :hamburger:
 * md5_6_alpha: 6zfzs
 * md5_6: b301b8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206zfzs)
+[2x1](http://192.168.1.242:1112/?label=oomp%206zfzs)
+[6x4](http://192.168.1.55:1112/?label=oomp%206zfzs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_mount_vesa_100_mm_width_100_mm_height) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_mount_vesa_100_mm_width_100_mm_height)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ drastic |
 | id_no_color | 100mmwidth100mmheight |  
 | id_no_size | 100_mm_width_100_mm_height |  
 | id_no_type | vesa_100_mm_width_100_mm_height |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_mount_vesa_100_mm_width_100_mm_height |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_mount_vesa_100_mm_width_100_mm_height |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_mount_vesa_100_mm_width_100_mm_height |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206zfzs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206zfzs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206zfzs |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -282,6 +315,7 @@ drastic |
 | name_no_size | 100 mm Width 100 mm Height |  
 | name_no_size_short | 100 Mm Width 100 Mm Height |  
 | name_no_type | Vesa 100 mm Width 100 mm Height |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_monitor_mount_vesa_100_mm_width_100_mm_height |  
 | oomp_word | eyeglasses smile hamburger |  
 | oomp_word_emoji | :eyeglasses: :smile: :hamburger: |  

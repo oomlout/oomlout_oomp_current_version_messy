@@ -1,3 +1,222 @@
+bip_39_word_dash_1: raven
+bip_39_word_dash_10: raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year
+bip_39_word_dash_11: raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year-open
+bip_39_word_dash_12: raven-fly-teach-enroll-army-wheat-jealous-diagram-cage-year-open-april
+bip_39_word_dash_2: raven-fly
+bip_39_word_dash_3: raven-fly-teach
+bip_39_word_dash_4: raven-fly-teach-enroll
+bip_39_word_dash_5: raven-fly-teach-enroll-army
+bip_39_word_dash_6: raven-fly-teach-enroll-army-wheat
+bip_39_word_dash_7: raven-fly-teach-enroll-army-wheat-jealous
+bip_39_word_dash_8: raven-fly-teach-enroll-army-wheat-jealous-diagram
+bip_39_word_dash_9: raven-fly-teach-enroll-army-wheat-jealous-diagram-cage
+bip_39_word_new_br_1: raven
+bip_39_word_new_br_10: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage<br>year
+bip_39_word_new_br_11: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage<br>year<br>open
+bip_39_word_new_br_12: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage<br>year<br>open<br>april
+bip_39_word_new_br_2: raven<br>fly
+bip_39_word_new_br_3: raven<br>fly<br>teach
+bip_39_word_new_br_4: raven<br>fly<br>teach<br>enroll
+bip_39_word_new_br_5: raven<br>fly<br>teach<br>enroll<br>army
+bip_39_word_new_br_6: raven<br>fly<br>teach<br>enroll<br>army<br>wheat
+bip_39_word_new_br_7: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous
+bip_39_word_new_br_8: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram
+bip_39_word_new_br_9: raven<br>fly<br>teach<br>enroll<br>army<br>wheat<br>jealous<br>diagram<br>cage
+bip_39_word_new_line_1: raven
+bip_39_word_new_line_10: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous
+
+  diagram
+
+  cage
+
+  year'
+bip_39_word_new_line_11: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous
+
+  diagram
+
+  cage
+
+  year
+
+  open'
+bip_39_word_new_line_12: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous
+
+  diagram
+
+  cage
+
+  year
+
+  open
+
+  april'
+bip_39_word_new_line_2: 'raven
+
+  fly'
+bip_39_word_new_line_3: 'raven
+
+  fly
+
+  teach'
+bip_39_word_new_line_4: 'raven
+
+  fly
+
+  teach
+
+  enroll'
+bip_39_word_new_line_5: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army'
+bip_39_word_new_line_6: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat'
+bip_39_word_new_line_7: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous'
+bip_39_word_new_line_8: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous
+
+  diagram'
+bip_39_word_new_line_9: 'raven
+
+  fly
+
+  teach
+
+  enroll
+
+  army
+
+  wheat
+
+  jealous
+
+  diagram
+
+  cage'
+bip_39_word_no_space_1: raven
+bip_39_word_no_space_10: ravenflyteachenrollarmywheatjealousdiagramcageyear
+bip_39_word_no_space_11: ravenflyteachenrollarmywheatjealousdiagramcageyearopen
+bip_39_word_no_space_12: ravenflyteachenrollarmywheatjealousdiagramcageyearopenapril
+bip_39_word_no_space_2: ravenfly
+bip_39_word_no_space_3: ravenflyteach
+bip_39_word_no_space_4: ravenflyteachenroll
+bip_39_word_no_space_5: ravenflyteachenrollarmy
+bip_39_word_no_space_6: ravenflyteachenrollarmywheat
+bip_39_word_no_space_7: ravenflyteachenrollarmywheatjealous
+bip_39_word_no_space_8: ravenflyteachenrollarmywheatjealousdiagram
+bip_39_word_no_space_9: ravenflyteachenrollarmywheatjealousdiagramcage
+bip_39_word_space_0:
+- raven
+- fly
+- teach
+- enroll
+- army
+- wheat
+- jealous
+- diagram
+- cage
+- year
+- open
+- april
+bip_39_word_space_1: raven
+bip_39_word_space_10: raven fly teach enroll army wheat jealous diagram cage year
+bip_39_word_space_11: raven fly teach enroll army wheat jealous diagram cage year
+  open
+bip_39_word_space_12: raven fly teach enroll army wheat jealous diagram cage year
+  open april
+bip_39_word_space_2: raven fly
+bip_39_word_space_3: raven fly teach
+bip_39_word_space_4: raven fly teach enroll
+bip_39_word_space_5: raven fly teach enroll army
+bip_39_word_space_6: raven fly teach enroll army wheat
+bip_39_word_space_7: raven fly teach enroll army wheat jealous
+bip_39_word_space_8: raven fly teach enroll army wheat jealous diagram
+bip_39_word_space_9: raven fly teach enroll army wheat jealous diagram cage
+bip_39_word_underscore_1: raven
+bip_39_word_underscore_10: raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year
+bip_39_word_underscore_11: raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year_open
+bip_39_word_underscore_12: raven_fly_teach_enroll_army_wheat_jealous_diagram_cage_year_open_april
+bip_39_word_underscore_2: raven_fly
+bip_39_word_underscore_3: raven_fly_teach
+bip_39_word_underscore_4: raven_fly_teach_enroll
+bip_39_word_underscore_5: raven_fly_teach_enroll_army
+bip_39_word_underscore_6: raven_fly_teach_enroll_army_wheat
+bip_39_word_underscore_7: raven_fly_teach_enroll_army_wheat_jealous
+bip_39_word_underscore_8: raven_fly_teach_enroll_army_wheat_jealous_diagram
+bip_39_word_underscore_9: raven_fly_teach_enroll_army_wheat_jealous_diagram_cage
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 10_mm_length
 id_no_size: orange_10_mm_length
 id_no_type: 101_6_mm_internal_diameter_orange_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_orange_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_orange_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_orange_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206u45b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206u45b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206u45b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 10 mm Length
 name_no_size: Orange 10 mm Length
 name_no_size_short: Orange 10 Mm Length
 name_no_type: 101 6 mm Internal Diameter Orange 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_orange_10_mm_length
 oomp_word: tophat rabbit speaker
 oomp_word_emoji: ':tophat: :rabbit: :speaker:'

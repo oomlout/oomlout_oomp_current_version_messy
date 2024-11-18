@@ -1,3 +1,221 @@
+bip_39_word_dash_1: ethics
+bip_39_word_dash_10: ethics-report-museum-egg-run-famous-pole-push-knee-inmate
+bip_39_word_dash_11: ethics-report-museum-egg-run-famous-pole-push-knee-inmate-gentle
+bip_39_word_dash_12: ethics-report-museum-egg-run-famous-pole-push-knee-inmate-gentle-ancient
+bip_39_word_dash_2: ethics-report
+bip_39_word_dash_3: ethics-report-museum
+bip_39_word_dash_4: ethics-report-museum-egg
+bip_39_word_dash_5: ethics-report-museum-egg-run
+bip_39_word_dash_6: ethics-report-museum-egg-run-famous
+bip_39_word_dash_7: ethics-report-museum-egg-run-famous-pole
+bip_39_word_dash_8: ethics-report-museum-egg-run-famous-pole-push
+bip_39_word_dash_9: ethics-report-museum-egg-run-famous-pole-push-knee
+bip_39_word_new_br_1: ethics
+bip_39_word_new_br_10: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate
+bip_39_word_new_br_11: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle
+bip_39_word_new_br_12: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee<br>inmate<br>gentle<br>ancient
+bip_39_word_new_br_2: ethics<br>report
+bip_39_word_new_br_3: ethics<br>report<br>museum
+bip_39_word_new_br_4: ethics<br>report<br>museum<br>egg
+bip_39_word_new_br_5: ethics<br>report<br>museum<br>egg<br>run
+bip_39_word_new_br_6: ethics<br>report<br>museum<br>egg<br>run<br>famous
+bip_39_word_new_br_7: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole
+bip_39_word_new_br_8: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push
+bip_39_word_new_br_9: ethics<br>report<br>museum<br>egg<br>run<br>famous<br>pole<br>push<br>knee
+bip_39_word_new_line_1: ethics
+bip_39_word_new_line_10: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole
+
+  push
+
+  knee
+
+  inmate'
+bip_39_word_new_line_11: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole
+
+  push
+
+  knee
+
+  inmate
+
+  gentle'
+bip_39_word_new_line_12: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole
+
+  push
+
+  knee
+
+  inmate
+
+  gentle
+
+  ancient'
+bip_39_word_new_line_2: 'ethics
+
+  report'
+bip_39_word_new_line_3: 'ethics
+
+  report
+
+  museum'
+bip_39_word_new_line_4: 'ethics
+
+  report
+
+  museum
+
+  egg'
+bip_39_word_new_line_5: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run'
+bip_39_word_new_line_6: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous'
+bip_39_word_new_line_7: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole'
+bip_39_word_new_line_8: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole
+
+  push'
+bip_39_word_new_line_9: 'ethics
+
+  report
+
+  museum
+
+  egg
+
+  run
+
+  famous
+
+  pole
+
+  push
+
+  knee'
+bip_39_word_no_space_1: ethics
+bip_39_word_no_space_10: ethicsreportmuseumeggrunfamouspolepushkneeinmate
+bip_39_word_no_space_11: ethicsreportmuseumeggrunfamouspolepushkneeinmategentle
+bip_39_word_no_space_12: ethicsreportmuseumeggrunfamouspolepushkneeinmategentleancient
+bip_39_word_no_space_2: ethicsreport
+bip_39_word_no_space_3: ethicsreportmuseum
+bip_39_word_no_space_4: ethicsreportmuseumegg
+bip_39_word_no_space_5: ethicsreportmuseumeggrun
+bip_39_word_no_space_6: ethicsreportmuseumeggrunfamous
+bip_39_word_no_space_7: ethicsreportmuseumeggrunfamouspole
+bip_39_word_no_space_8: ethicsreportmuseumeggrunfamouspolepush
+bip_39_word_no_space_9: ethicsreportmuseumeggrunfamouspolepushknee
+bip_39_word_space_0:
+- ethics
+- report
+- museum
+- egg
+- run
+- famous
+- pole
+- push
+- knee
+- inmate
+- gentle
+- ancient
+bip_39_word_space_1: ethics
+bip_39_word_space_10: ethics report museum egg run famous pole push knee inmate
+bip_39_word_space_11: ethics report museum egg run famous pole push knee inmate gentle
+bip_39_word_space_12: ethics report museum egg run famous pole push knee inmate gentle
+  ancient
+bip_39_word_space_2: ethics report
+bip_39_word_space_3: ethics report museum
+bip_39_word_space_4: ethics report museum egg
+bip_39_word_space_5: ethics report museum egg run
+bip_39_word_space_6: ethics report museum egg run famous
+bip_39_word_space_7: ethics report museum egg run famous pole
+bip_39_word_space_8: ethics report museum egg run famous pole push
+bip_39_word_space_9: ethics report museum egg run famous pole push knee
+bip_39_word_underscore_1: ethics
+bip_39_word_underscore_10: ethics_report_museum_egg_run_famous_pole_push_knee_inmate
+bip_39_word_underscore_11: ethics_report_museum_egg_run_famous_pole_push_knee_inmate_gentle
+bip_39_word_underscore_12: ethics_report_museum_egg_run_famous_pole_push_knee_inmate_gentle_ancient
+bip_39_word_underscore_2: ethics_report
+bip_39_word_underscore_3: ethics_report_museum
+bip_39_word_underscore_4: ethics_report_museum_egg
+bip_39_word_underscore_5: ethics_report_museum_egg_run
+bip_39_word_underscore_6: ethics_report_museum_egg_run_famous
+bip_39_word_underscore_7: ethics_report_museum_egg_run_famous_pole
+bip_39_word_underscore_8: ethics_report_museum_egg_run_famous_pole_push
+bip_39_word_underscore_9: ethics_report_museum_egg_run_famous_pole_push_knee
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_07_11_24
 id_no_color: '071124'
 id_no_size: '07_11_24'
 id_no_type: tray_07_11_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205c3ml
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205c3ml
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205c3ml
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '071124'
 name_no_size: 07 11 24
 name_no_size_short: 07 11 24
 name_no_type: Tray 07 11 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_11_24
 oomp_word: wrench birthday blowfish
 oomp_word_emoji: ':wrench: :birthday: :blowfish:'

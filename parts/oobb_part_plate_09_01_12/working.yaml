@@ -1,3 +1,221 @@
+bip_39_word_dash_1: wife
+bip_39_word_dash_10: wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage
+bip_39_word_dash_11: wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage-dry
+bip_39_word_dash_12: wife-bundle-silk-luxury-bean-radio-behind-into-lens-voyage-dry-also
+bip_39_word_dash_2: wife-bundle
+bip_39_word_dash_3: wife-bundle-silk
+bip_39_word_dash_4: wife-bundle-silk-luxury
+bip_39_word_dash_5: wife-bundle-silk-luxury-bean
+bip_39_word_dash_6: wife-bundle-silk-luxury-bean-radio
+bip_39_word_dash_7: wife-bundle-silk-luxury-bean-radio-behind
+bip_39_word_dash_8: wife-bundle-silk-luxury-bean-radio-behind-into
+bip_39_word_dash_9: wife-bundle-silk-luxury-bean-radio-behind-into-lens
+bip_39_word_new_br_1: wife
+bip_39_word_new_br_10: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage
+bip_39_word_new_br_11: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage<br>dry
+bip_39_word_new_br_12: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens<br>voyage<br>dry<br>also
+bip_39_word_new_br_2: wife<br>bundle
+bip_39_word_new_br_3: wife<br>bundle<br>silk
+bip_39_word_new_br_4: wife<br>bundle<br>silk<br>luxury
+bip_39_word_new_br_5: wife<br>bundle<br>silk<br>luxury<br>bean
+bip_39_word_new_br_6: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio
+bip_39_word_new_br_7: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind
+bip_39_word_new_br_8: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into
+bip_39_word_new_br_9: wife<br>bundle<br>silk<br>luxury<br>bean<br>radio<br>behind<br>into<br>lens
+bip_39_word_new_line_1: wife
+bip_39_word_new_line_10: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind
+
+  into
+
+  lens
+
+  voyage'
+bip_39_word_new_line_11: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind
+
+  into
+
+  lens
+
+  voyage
+
+  dry'
+bip_39_word_new_line_12: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind
+
+  into
+
+  lens
+
+  voyage
+
+  dry
+
+  also'
+bip_39_word_new_line_2: 'wife
+
+  bundle'
+bip_39_word_new_line_3: 'wife
+
+  bundle
+
+  silk'
+bip_39_word_new_line_4: 'wife
+
+  bundle
+
+  silk
+
+  luxury'
+bip_39_word_new_line_5: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean'
+bip_39_word_new_line_6: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio'
+bip_39_word_new_line_7: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind'
+bip_39_word_new_line_8: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind
+
+  into'
+bip_39_word_new_line_9: 'wife
+
+  bundle
+
+  silk
+
+  luxury
+
+  bean
+
+  radio
+
+  behind
+
+  into
+
+  lens'
+bip_39_word_no_space_1: wife
+bip_39_word_no_space_10: wifebundlesilkluxurybeanradiobehindintolensvoyage
+bip_39_word_no_space_11: wifebundlesilkluxurybeanradiobehindintolensvoyagedry
+bip_39_word_no_space_12: wifebundlesilkluxurybeanradiobehindintolensvoyagedryalso
+bip_39_word_no_space_2: wifebundle
+bip_39_word_no_space_3: wifebundlesilk
+bip_39_word_no_space_4: wifebundlesilkluxury
+bip_39_word_no_space_5: wifebundlesilkluxurybean
+bip_39_word_no_space_6: wifebundlesilkluxurybeanradio
+bip_39_word_no_space_7: wifebundlesilkluxurybeanradiobehind
+bip_39_word_no_space_8: wifebundlesilkluxurybeanradiobehindinto
+bip_39_word_no_space_9: wifebundlesilkluxurybeanradiobehindintolens
+bip_39_word_space_0:
+- wife
+- bundle
+- silk
+- luxury
+- bean
+- radio
+- behind
+- into
+- lens
+- voyage
+- dry
+- also
+bip_39_word_space_1: wife
+bip_39_word_space_10: wife bundle silk luxury bean radio behind into lens voyage
+bip_39_word_space_11: wife bundle silk luxury bean radio behind into lens voyage dry
+bip_39_word_space_12: wife bundle silk luxury bean radio behind into lens voyage dry
+  also
+bip_39_word_space_2: wife bundle
+bip_39_word_space_3: wife bundle silk
+bip_39_word_space_4: wife bundle silk luxury
+bip_39_word_space_5: wife bundle silk luxury bean
+bip_39_word_space_6: wife bundle silk luxury bean radio
+bip_39_word_space_7: wife bundle silk luxury bean radio behind
+bip_39_word_space_8: wife bundle silk luxury bean radio behind into
+bip_39_word_space_9: wife bundle silk luxury bean radio behind into lens
+bip_39_word_underscore_1: wife
+bip_39_word_underscore_10: wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage
+bip_39_word_underscore_11: wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage_dry
+bip_39_word_underscore_12: wife_bundle_silk_luxury_bean_radio_behind_into_lens_voyage_dry_also
+bip_39_word_underscore_2: wife_bundle
+bip_39_word_underscore_3: wife_bundle_silk
+bip_39_word_underscore_4: wife_bundle_silk_luxury
+bip_39_word_underscore_5: wife_bundle_silk_luxury_bean
+bip_39_word_underscore_6: wife_bundle_silk_luxury_bean_radio
+bip_39_word_underscore_7: wife_bundle_silk_luxury_bean_radio_behind
+bip_39_word_underscore_8: wife_bundle_silk_luxury_bean_radio_behind_into
+bip_39_word_underscore_9: wife_bundle_silk_luxury_bean_radio_behind_into_lens
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_plate_09_01_12
 id_no_color: 090112
 id_no_size: 09_01_12
 id_no_type: plate_09_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204jon1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204jon1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204jon1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 090112
 name_no_size: 09 01 12
 name_no_size_short: 09 01 12
 name_no_type: Plate 09 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_01_12
 oomp_word: fireworks toilet phone
 oomp_word_emoji: ':fireworks: :toilet: :phone:'

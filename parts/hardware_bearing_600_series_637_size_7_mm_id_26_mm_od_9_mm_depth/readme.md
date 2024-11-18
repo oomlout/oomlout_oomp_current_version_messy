@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 600 Series 637 Size 7 mm ID 26 mm OD 9 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_600_series_637_size_7_mm_id_26_mm_od_9_mm_depth
   * classification: hardware

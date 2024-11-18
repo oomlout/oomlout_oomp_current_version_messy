@@ -1,3 +1,222 @@
+bip_39_word_dash_1: square
+bip_39_word_dash_10: square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry
+bip_39_word_dash_11: square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry-toast
+bip_39_word_dash_12: square-mention-claim-magic-cruel-crop-grief-lift-kangaroo-hungry-toast-always
+bip_39_word_dash_2: square-mention
+bip_39_word_dash_3: square-mention-claim
+bip_39_word_dash_4: square-mention-claim-magic
+bip_39_word_dash_5: square-mention-claim-magic-cruel
+bip_39_word_dash_6: square-mention-claim-magic-cruel-crop
+bip_39_word_dash_7: square-mention-claim-magic-cruel-crop-grief
+bip_39_word_dash_8: square-mention-claim-magic-cruel-crop-grief-lift
+bip_39_word_dash_9: square-mention-claim-magic-cruel-crop-grief-lift-kangaroo
+bip_39_word_new_br_1: square
+bip_39_word_new_br_10: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry
+bip_39_word_new_br_11: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry<br>toast
+bip_39_word_new_br_12: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo<br>hungry<br>toast<br>always
+bip_39_word_new_br_2: square<br>mention
+bip_39_word_new_br_3: square<br>mention<br>claim
+bip_39_word_new_br_4: square<br>mention<br>claim<br>magic
+bip_39_word_new_br_5: square<br>mention<br>claim<br>magic<br>cruel
+bip_39_word_new_br_6: square<br>mention<br>claim<br>magic<br>cruel<br>crop
+bip_39_word_new_br_7: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief
+bip_39_word_new_br_8: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift
+bip_39_word_new_br_9: square<br>mention<br>claim<br>magic<br>cruel<br>crop<br>grief<br>lift<br>kangaroo
+bip_39_word_new_line_1: square
+bip_39_word_new_line_10: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry'
+bip_39_word_new_line_11: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry
+
+  toast'
+bip_39_word_new_line_12: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo
+
+  hungry
+
+  toast
+
+  always'
+bip_39_word_new_line_2: 'square
+
+  mention'
+bip_39_word_new_line_3: 'square
+
+  mention
+
+  claim'
+bip_39_word_new_line_4: 'square
+
+  mention
+
+  claim
+
+  magic'
+bip_39_word_new_line_5: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel'
+bip_39_word_new_line_6: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop'
+bip_39_word_new_line_7: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief'
+bip_39_word_new_line_8: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift'
+bip_39_word_new_line_9: 'square
+
+  mention
+
+  claim
+
+  magic
+
+  cruel
+
+  crop
+
+  grief
+
+  lift
+
+  kangaroo'
+bip_39_word_no_space_1: square
+bip_39_word_no_space_10: squarementionclaimmagiccruelcropgriefliftkangaroohungry
+bip_39_word_no_space_11: squarementionclaimmagiccruelcropgriefliftkangaroohungrytoast
+bip_39_word_no_space_12: squarementionclaimmagiccruelcropgriefliftkangaroohungrytoastalways
+bip_39_word_no_space_2: squaremention
+bip_39_word_no_space_3: squarementionclaim
+bip_39_word_no_space_4: squarementionclaimmagic
+bip_39_word_no_space_5: squarementionclaimmagiccruel
+bip_39_word_no_space_6: squarementionclaimmagiccruelcrop
+bip_39_word_no_space_7: squarementionclaimmagiccruelcropgrief
+bip_39_word_no_space_8: squarementionclaimmagiccruelcropgrieflift
+bip_39_word_no_space_9: squarementionclaimmagiccruelcropgriefliftkangaroo
+bip_39_word_space_0:
+- square
+- mention
+- claim
+- magic
+- cruel
+- crop
+- grief
+- lift
+- kangaroo
+- hungry
+- toast
+- always
+bip_39_word_space_1: square
+bip_39_word_space_10: square mention claim magic cruel crop grief lift kangaroo hungry
+bip_39_word_space_11: square mention claim magic cruel crop grief lift kangaroo hungry
+  toast
+bip_39_word_space_12: square mention claim magic cruel crop grief lift kangaroo hungry
+  toast always
+bip_39_word_space_2: square mention
+bip_39_word_space_3: square mention claim
+bip_39_word_space_4: square mention claim magic
+bip_39_word_space_5: square mention claim magic cruel
+bip_39_word_space_6: square mention claim magic cruel crop
+bip_39_word_space_7: square mention claim magic cruel crop grief
+bip_39_word_space_8: square mention claim magic cruel crop grief lift
+bip_39_word_space_9: square mention claim magic cruel crop grief lift kangaroo
+bip_39_word_underscore_1: square
+bip_39_word_underscore_10: square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry
+bip_39_word_underscore_11: square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry_toast
+bip_39_word_underscore_12: square_mention_claim_magic_cruel_crop_grief_lift_kangaroo_hungry_toast_always
+bip_39_word_underscore_2: square_mention
+bip_39_word_underscore_3: square_mention_claim
+bip_39_word_underscore_4: square_mention_claim_magic
+bip_39_word_underscore_5: square_mention_claim_magic_cruel
+bip_39_word_underscore_6: square_mention_claim_magic_cruel_crop
+bip_39_word_underscore_7: square_mention_claim_magic_cruel_crop_grief
+bip_39_word_underscore_8: square_mention_claim_magic_cruel_crop_grief_lift
+bip_39_word_underscore_9: square_mention_claim_magic_cruel_crop_grief_lift_kangaroo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_1d5_90
 id_no_color: 141d590
 id_no_size: 14_1d5_90
 id_no_type: tray_thin_14_1d5_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_1d5_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204r1uj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204r1uj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204r1uj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 141D590
 name_no_size: 14 1D5 90
 name_no_size_short: 14 1D5 90
 name_no_type: Tray Thin 14 1D5 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_1d5_90
 oomp_word: balloon lollipop muscle
 oomp_word_emoji: ':balloon: :lollipop: :muscle:'

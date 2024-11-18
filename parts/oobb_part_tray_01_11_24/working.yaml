@@ -1,3 +1,222 @@
+bip_39_word_dash_1: answer
+bip_39_word_dash_10: answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple
+bip_39_word_dash_11: answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple-cliff
+bip_39_word_dash_12: answer-talent-cave-season-stand-gas-frozen-obtain-hurdle-apple-cliff-armor
+bip_39_word_dash_2: answer-talent
+bip_39_word_dash_3: answer-talent-cave
+bip_39_word_dash_4: answer-talent-cave-season
+bip_39_word_dash_5: answer-talent-cave-season-stand
+bip_39_word_dash_6: answer-talent-cave-season-stand-gas
+bip_39_word_dash_7: answer-talent-cave-season-stand-gas-frozen
+bip_39_word_dash_8: answer-talent-cave-season-stand-gas-frozen-obtain
+bip_39_word_dash_9: answer-talent-cave-season-stand-gas-frozen-obtain-hurdle
+bip_39_word_new_br_1: answer
+bip_39_word_new_br_10: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple
+bip_39_word_new_br_11: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff
+bip_39_word_new_br_12: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle<br>apple<br>cliff<br>armor
+bip_39_word_new_br_2: answer<br>talent
+bip_39_word_new_br_3: answer<br>talent<br>cave
+bip_39_word_new_br_4: answer<br>talent<br>cave<br>season
+bip_39_word_new_br_5: answer<br>talent<br>cave<br>season<br>stand
+bip_39_word_new_br_6: answer<br>talent<br>cave<br>season<br>stand<br>gas
+bip_39_word_new_br_7: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen
+bip_39_word_new_br_8: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain
+bip_39_word_new_br_9: answer<br>talent<br>cave<br>season<br>stand<br>gas<br>frozen<br>obtain<br>hurdle
+bip_39_word_new_line_1: answer
+bip_39_word_new_line_10: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen
+
+  obtain
+
+  hurdle
+
+  apple'
+bip_39_word_new_line_11: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen
+
+  obtain
+
+  hurdle
+
+  apple
+
+  cliff'
+bip_39_word_new_line_12: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen
+
+  obtain
+
+  hurdle
+
+  apple
+
+  cliff
+
+  armor'
+bip_39_word_new_line_2: 'answer
+
+  talent'
+bip_39_word_new_line_3: 'answer
+
+  talent
+
+  cave'
+bip_39_word_new_line_4: 'answer
+
+  talent
+
+  cave
+
+  season'
+bip_39_word_new_line_5: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand'
+bip_39_word_new_line_6: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas'
+bip_39_word_new_line_7: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen'
+bip_39_word_new_line_8: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen
+
+  obtain'
+bip_39_word_new_line_9: 'answer
+
+  talent
+
+  cave
+
+  season
+
+  stand
+
+  gas
+
+  frozen
+
+  obtain
+
+  hurdle'
+bip_39_word_no_space_1: answer
+bip_39_word_no_space_10: answertalentcaveseasonstandgasfrozenobtainhurdleapple
+bip_39_word_no_space_11: answertalentcaveseasonstandgasfrozenobtainhurdleapplecliff
+bip_39_word_no_space_12: answertalentcaveseasonstandgasfrozenobtainhurdleapplecliffarmor
+bip_39_word_no_space_2: answertalent
+bip_39_word_no_space_3: answertalentcave
+bip_39_word_no_space_4: answertalentcaveseason
+bip_39_word_no_space_5: answertalentcaveseasonstand
+bip_39_word_no_space_6: answertalentcaveseasonstandgas
+bip_39_word_no_space_7: answertalentcaveseasonstandgasfrozen
+bip_39_word_no_space_8: answertalentcaveseasonstandgasfrozenobtain
+bip_39_word_no_space_9: answertalentcaveseasonstandgasfrozenobtainhurdle
+bip_39_word_space_0:
+- answer
+- talent
+- cave
+- season
+- stand
+- gas
+- frozen
+- obtain
+- hurdle
+- apple
+- cliff
+- armor
+bip_39_word_space_1: answer
+bip_39_word_space_10: answer talent cave season stand gas frozen obtain hurdle apple
+bip_39_word_space_11: answer talent cave season stand gas frozen obtain hurdle apple
+  cliff
+bip_39_word_space_12: answer talent cave season stand gas frozen obtain hurdle apple
+  cliff armor
+bip_39_word_space_2: answer talent
+bip_39_word_space_3: answer talent cave
+bip_39_word_space_4: answer talent cave season
+bip_39_word_space_5: answer talent cave season stand
+bip_39_word_space_6: answer talent cave season stand gas
+bip_39_word_space_7: answer talent cave season stand gas frozen
+bip_39_word_space_8: answer talent cave season stand gas frozen obtain
+bip_39_word_space_9: answer talent cave season stand gas frozen obtain hurdle
+bip_39_word_underscore_1: answer
+bip_39_word_underscore_10: answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple
+bip_39_word_underscore_11: answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple_cliff
+bip_39_word_underscore_12: answer_talent_cave_season_stand_gas_frozen_obtain_hurdle_apple_cliff_armor
+bip_39_word_underscore_2: answer_talent
+bip_39_word_underscore_3: answer_talent_cave
+bip_39_word_underscore_4: answer_talent_cave_season
+bip_39_word_underscore_5: answer_talent_cave_season_stand
+bip_39_word_underscore_6: answer_talent_cave_season_stand_gas
+bip_39_word_underscore_7: answer_talent_cave_season_stand_gas_frozen
+bip_39_word_underscore_8: answer_talent_cave_season_stand_gas_frozen_obtain
+bip_39_word_underscore_9: answer_talent_cave_season_stand_gas_frozen_obtain_hurdle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_11_24
 id_no_color: '011124'
 id_no_size: '01_11_24'
 id_no_type: tray_01_11_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_11_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_11_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_11_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207fcua
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207fcua
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207fcua
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '011124'
 name_no_size: 01 11 24
 name_no_size_short: 01 11 24
 name_no_type: Tray 01 11 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_11_24
 oomp_word: ramen dolphin birthday
 oomp_word_emoji: ':ramen: :dolphin: :birthday:'

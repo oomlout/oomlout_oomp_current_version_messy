@@ -1,3 +1,222 @@
+bip_39_word_dash_1: card
+bip_39_word_dash_10: card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon
+bip_39_word_dash_11: card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon-dial
+bip_39_word_dash_12: card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon-dial-around
+bip_39_word_dash_2: card-main
+bip_39_word_dash_3: card-main-rent
+bip_39_word_dash_4: card-main-rent-outdoor
+bip_39_word_dash_5: card-main-rent-outdoor-gadget
+bip_39_word_dash_6: card-main-rent-outdoor-gadget-fault
+bip_39_word_dash_7: card-main-rent-outdoor-gadget-fault-various
+bip_39_word_dash_8: card-main-rent-outdoor-gadget-fault-various-poem
+bip_39_word_dash_9: card-main-rent-outdoor-gadget-fault-various-poem-industry
+bip_39_word_new_br_1: card
+bip_39_word_new_br_10: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon
+bip_39_word_new_br_11: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial
+bip_39_word_new_br_12: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial<br>around
+bip_39_word_new_br_2: card<br>main
+bip_39_word_new_br_3: card<br>main<br>rent
+bip_39_word_new_br_4: card<br>main<br>rent<br>outdoor
+bip_39_word_new_br_5: card<br>main<br>rent<br>outdoor<br>gadget
+bip_39_word_new_br_6: card<br>main<br>rent<br>outdoor<br>gadget<br>fault
+bip_39_word_new_br_7: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various
+bip_39_word_new_br_8: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem
+bip_39_word_new_br_9: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry
+bip_39_word_new_line_1: card
+bip_39_word_new_line_10: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various
+
+  poem
+
+  industry
+
+  salmon'
+bip_39_word_new_line_11: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various
+
+  poem
+
+  industry
+
+  salmon
+
+  dial'
+bip_39_word_new_line_12: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various
+
+  poem
+
+  industry
+
+  salmon
+
+  dial
+
+  around'
+bip_39_word_new_line_2: 'card
+
+  main'
+bip_39_word_new_line_3: 'card
+
+  main
+
+  rent'
+bip_39_word_new_line_4: 'card
+
+  main
+
+  rent
+
+  outdoor'
+bip_39_word_new_line_5: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget'
+bip_39_word_new_line_6: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault'
+bip_39_word_new_line_7: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various'
+bip_39_word_new_line_8: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various
+
+  poem'
+bip_39_word_new_line_9: 'card
+
+  main
+
+  rent
+
+  outdoor
+
+  gadget
+
+  fault
+
+  various
+
+  poem
+
+  industry'
+bip_39_word_no_space_1: card
+bip_39_word_no_space_10: cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmon
+bip_39_word_no_space_11: cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmondial
+bip_39_word_no_space_12: cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmondialaround
+bip_39_word_no_space_2: cardmain
+bip_39_word_no_space_3: cardmainrent
+bip_39_word_no_space_4: cardmainrentoutdoor
+bip_39_word_no_space_5: cardmainrentoutdoorgadget
+bip_39_word_no_space_6: cardmainrentoutdoorgadgetfault
+bip_39_word_no_space_7: cardmainrentoutdoorgadgetfaultvarious
+bip_39_word_no_space_8: cardmainrentoutdoorgadgetfaultvariouspoem
+bip_39_word_no_space_9: cardmainrentoutdoorgadgetfaultvariouspoemindustry
+bip_39_word_space_0:
+- card
+- main
+- rent
+- outdoor
+- gadget
+- fault
+- various
+- poem
+- industry
+- salmon
+- dial
+- around
+bip_39_word_space_1: card
+bip_39_word_space_10: card main rent outdoor gadget fault various poem industry salmon
+bip_39_word_space_11: card main rent outdoor gadget fault various poem industry salmon
+  dial
+bip_39_word_space_12: card main rent outdoor gadget fault various poem industry salmon
+  dial around
+bip_39_word_space_2: card main
+bip_39_word_space_3: card main rent
+bip_39_word_space_4: card main rent outdoor
+bip_39_word_space_5: card main rent outdoor gadget
+bip_39_word_space_6: card main rent outdoor gadget fault
+bip_39_word_space_7: card main rent outdoor gadget fault various
+bip_39_word_space_8: card main rent outdoor gadget fault various poem
+bip_39_word_space_9: card main rent outdoor gadget fault various poem industry
+bip_39_word_underscore_1: card
+bip_39_word_underscore_10: card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon
+bip_39_word_underscore_11: card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon_dial
+bip_39_word_underscore_12: card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon_dial_around
+bip_39_word_underscore_2: card_main
+bip_39_word_underscore_3: card_main_rent
+bip_39_word_underscore_4: card_main_rent_outdoor
+bip_39_word_underscore_5: card_main_rent_outdoor_gadget
+bip_39_word_underscore_6: card_main_rent_outdoor_gadget_fault
+bip_39_word_underscore_7: card_main_rent_outdoor_gadget_fault_various
+bip_39_word_underscore_8: card_main_rent_outdoor_gadget_fault_various_poem
+bip_39_word_underscore_9: card_main_rent_outdoor_gadget_fault_various_poem_industry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 1000000ohm
 id_no_size: 1000000_ohm
 id_no_type: 0805_1000000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_1000000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1000000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_1000000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207l6b3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207l6b3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207l6b3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 1000000Ohm
 name_no_size: 1000000 Ohm
 name_no_size_short: 1M Ohm
 name_no_type: 0805 1000000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0805_1000000_ohm
 oomp_word: birthday camera cyclone
 oomp_word_emoji: ':birthday: :camera: :cyclone:'

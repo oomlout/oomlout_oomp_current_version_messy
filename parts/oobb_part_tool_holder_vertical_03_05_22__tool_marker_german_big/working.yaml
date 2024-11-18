@@ -1,3 +1,221 @@
+bip_39_word_dash_1: sketch
+bip_39_word_dash_10: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon
+bip_39_word_dash_11: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon-draft
+bip_39_word_dash_12: sketch-bag-fox-husband-depend-force-call-comic-spare-wagon-draft-amount
+bip_39_word_dash_2: sketch-bag
+bip_39_word_dash_3: sketch-bag-fox
+bip_39_word_dash_4: sketch-bag-fox-husband
+bip_39_word_dash_5: sketch-bag-fox-husband-depend
+bip_39_word_dash_6: sketch-bag-fox-husband-depend-force
+bip_39_word_dash_7: sketch-bag-fox-husband-depend-force-call
+bip_39_word_dash_8: sketch-bag-fox-husband-depend-force-call-comic
+bip_39_word_dash_9: sketch-bag-fox-husband-depend-force-call-comic-spare
+bip_39_word_new_br_1: sketch
+bip_39_word_new_br_10: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon
+bip_39_word_new_br_11: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft
+bip_39_word_new_br_12: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare<br>wagon<br>draft<br>amount
+bip_39_word_new_br_2: sketch<br>bag
+bip_39_word_new_br_3: sketch<br>bag<br>fox
+bip_39_word_new_br_4: sketch<br>bag<br>fox<br>husband
+bip_39_word_new_br_5: sketch<br>bag<br>fox<br>husband<br>depend
+bip_39_word_new_br_6: sketch<br>bag<br>fox<br>husband<br>depend<br>force
+bip_39_word_new_br_7: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call
+bip_39_word_new_br_8: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic
+bip_39_word_new_br_9: sketch<br>bag<br>fox<br>husband<br>depend<br>force<br>call<br>comic<br>spare
+bip_39_word_new_line_1: sketch
+bip_39_word_new_line_10: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call
+
+  comic
+
+  spare
+
+  wagon'
+bip_39_word_new_line_11: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call
+
+  comic
+
+  spare
+
+  wagon
+
+  draft'
+bip_39_word_new_line_12: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call
+
+  comic
+
+  spare
+
+  wagon
+
+  draft
+
+  amount'
+bip_39_word_new_line_2: 'sketch
+
+  bag'
+bip_39_word_new_line_3: 'sketch
+
+  bag
+
+  fox'
+bip_39_word_new_line_4: 'sketch
+
+  bag
+
+  fox
+
+  husband'
+bip_39_word_new_line_5: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend'
+bip_39_word_new_line_6: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force'
+bip_39_word_new_line_7: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call'
+bip_39_word_new_line_8: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call
+
+  comic'
+bip_39_word_new_line_9: 'sketch
+
+  bag
+
+  fox
+
+  husband
+
+  depend
+
+  force
+
+  call
+
+  comic
+
+  spare'
+bip_39_word_no_space_1: sketch
+bip_39_word_no_space_10: sketchbagfoxhusbanddependforcecallcomicsparewagon
+bip_39_word_no_space_11: sketchbagfoxhusbanddependforcecallcomicsparewagondraft
+bip_39_word_no_space_12: sketchbagfoxhusbanddependforcecallcomicsparewagondraftamount
+bip_39_word_no_space_2: sketchbag
+bip_39_word_no_space_3: sketchbagfox
+bip_39_word_no_space_4: sketchbagfoxhusband
+bip_39_word_no_space_5: sketchbagfoxhusbanddepend
+bip_39_word_no_space_6: sketchbagfoxhusbanddependforce
+bip_39_word_no_space_7: sketchbagfoxhusbanddependforcecall
+bip_39_word_no_space_8: sketchbagfoxhusbanddependforcecallcomic
+bip_39_word_no_space_9: sketchbagfoxhusbanddependforcecallcomicspare
+bip_39_word_space_0:
+- sketch
+- bag
+- fox
+- husband
+- depend
+- force
+- call
+- comic
+- spare
+- wagon
+- draft
+- amount
+bip_39_word_space_1: sketch
+bip_39_word_space_10: sketch bag fox husband depend force call comic spare wagon
+bip_39_word_space_11: sketch bag fox husband depend force call comic spare wagon draft
+bip_39_word_space_12: sketch bag fox husband depend force call comic spare wagon draft
+  amount
+bip_39_word_space_2: sketch bag
+bip_39_word_space_3: sketch bag fox
+bip_39_word_space_4: sketch bag fox husband
+bip_39_word_space_5: sketch bag fox husband depend
+bip_39_word_space_6: sketch bag fox husband depend force
+bip_39_word_space_7: sketch bag fox husband depend force call
+bip_39_word_space_8: sketch bag fox husband depend force call comic
+bip_39_word_space_9: sketch bag fox husband depend force call comic spare
+bip_39_word_underscore_1: sketch
+bip_39_word_underscore_10: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon
+bip_39_word_underscore_11: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon_draft
+bip_39_word_underscore_12: sketch_bag_fox_husband_depend_force_call_comic_spare_wagon_draft_amount
+bip_39_word_underscore_2: sketch_bag
+bip_39_word_underscore_3: sketch_bag_fox
+bip_39_word_underscore_4: sketch_bag_fox_husband
+bip_39_word_underscore_5: sketch_bag_fox_husband_depend
+bip_39_word_underscore_6: sketch_bag_fox_husband_depend_force
+bip_39_word_underscore_7: sketch_bag_fox_husband_depend_force_call
+bip_39_word_underscore_8: sketch_bag_fox_husband_depend_force_call_comic
+bip_39_word_underscore_9: sketch_bag_fox_husband_depend_force_call_comic_spare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_tool_holder_vertical_03_05_22__tool_marker_german_big
 id_no_color: 030522toolmarkergermanbig
 id_no_size: 03_05_22__tool_marker_german_big
 id_no_type: tool_holder_vertical_03_05_22__tool_marker_german_big
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_22__tool_marker_german_big
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_22__tool_marker_german_big
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_22__tool_marker_german_big
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2050irh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2050irh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2050irh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 030522Toolmarkergermanbig
 name_no_size: 03 05 22  Tool Marker German Big
 name_no_size_short: 03 05 22  Tool Marker German Big
 name_no_type: Tool Holder Vertical 03 05 22  Tool Marker German Big
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_22__tool_marker_german_big
 oomp_word: hourglass lock parking
 oomp_word_emoji: ':hourglass: :lock: :parking:'

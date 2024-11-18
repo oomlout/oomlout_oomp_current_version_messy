@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr82 Size 2 5 mm ID 8 mm OD 3 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR82_size_2_5_mm_id_8_mm_od_3_mm_depth
   * classification: hardware

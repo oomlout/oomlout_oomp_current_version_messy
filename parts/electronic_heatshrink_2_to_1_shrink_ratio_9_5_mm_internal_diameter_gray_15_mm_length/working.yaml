@@ -1,3 +1,222 @@
+bip_39_word_dash_1: renew
+bip_39_word_dash_10: renew-party-anger-either-rebel-march-bleak-brief-walk-slice
+bip_39_word_dash_11: renew-party-anger-either-rebel-march-bleak-brief-walk-slice-detail
+bip_39_word_dash_12: renew-party-anger-either-rebel-march-bleak-brief-walk-slice-detail-another
+bip_39_word_dash_2: renew-party
+bip_39_word_dash_3: renew-party-anger
+bip_39_word_dash_4: renew-party-anger-either
+bip_39_word_dash_5: renew-party-anger-either-rebel
+bip_39_word_dash_6: renew-party-anger-either-rebel-march
+bip_39_word_dash_7: renew-party-anger-either-rebel-march-bleak
+bip_39_word_dash_8: renew-party-anger-either-rebel-march-bleak-brief
+bip_39_word_dash_9: renew-party-anger-either-rebel-march-bleak-brief-walk
+bip_39_word_new_br_1: renew
+bip_39_word_new_br_10: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice
+bip_39_word_new_br_11: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail
+bip_39_word_new_br_12: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk<br>slice<br>detail<br>another
+bip_39_word_new_br_2: renew<br>party
+bip_39_word_new_br_3: renew<br>party<br>anger
+bip_39_word_new_br_4: renew<br>party<br>anger<br>either
+bip_39_word_new_br_5: renew<br>party<br>anger<br>either<br>rebel
+bip_39_word_new_br_6: renew<br>party<br>anger<br>either<br>rebel<br>march
+bip_39_word_new_br_7: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak
+bip_39_word_new_br_8: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief
+bip_39_word_new_br_9: renew<br>party<br>anger<br>either<br>rebel<br>march<br>bleak<br>brief<br>walk
+bip_39_word_new_line_1: renew
+bip_39_word_new_line_10: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak
+
+  brief
+
+  walk
+
+  slice'
+bip_39_word_new_line_11: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak
+
+  brief
+
+  walk
+
+  slice
+
+  detail'
+bip_39_word_new_line_12: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak
+
+  brief
+
+  walk
+
+  slice
+
+  detail
+
+  another'
+bip_39_word_new_line_2: 'renew
+
+  party'
+bip_39_word_new_line_3: 'renew
+
+  party
+
+  anger'
+bip_39_word_new_line_4: 'renew
+
+  party
+
+  anger
+
+  either'
+bip_39_word_new_line_5: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel'
+bip_39_word_new_line_6: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march'
+bip_39_word_new_line_7: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak'
+bip_39_word_new_line_8: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak
+
+  brief'
+bip_39_word_new_line_9: 'renew
+
+  party
+
+  anger
+
+  either
+
+  rebel
+
+  march
+
+  bleak
+
+  brief
+
+  walk'
+bip_39_word_no_space_1: renew
+bip_39_word_no_space_10: renewpartyangereitherrebelmarchbleakbriefwalkslice
+bip_39_word_no_space_11: renewpartyangereitherrebelmarchbleakbriefwalkslicedetail
+bip_39_word_no_space_12: renewpartyangereitherrebelmarchbleakbriefwalkslicedetailanother
+bip_39_word_no_space_2: renewparty
+bip_39_word_no_space_3: renewpartyanger
+bip_39_word_no_space_4: renewpartyangereither
+bip_39_word_no_space_5: renewpartyangereitherrebel
+bip_39_word_no_space_6: renewpartyangereitherrebelmarch
+bip_39_word_no_space_7: renewpartyangereitherrebelmarchbleak
+bip_39_word_no_space_8: renewpartyangereitherrebelmarchbleakbrief
+bip_39_word_no_space_9: renewpartyangereitherrebelmarchbleakbriefwalk
+bip_39_word_space_0:
+- renew
+- party
+- anger
+- either
+- rebel
+- march
+- bleak
+- brief
+- walk
+- slice
+- detail
+- another
+bip_39_word_space_1: renew
+bip_39_word_space_10: renew party anger either rebel march bleak brief walk slice
+bip_39_word_space_11: renew party anger either rebel march bleak brief walk slice
+  detail
+bip_39_word_space_12: renew party anger either rebel march bleak brief walk slice
+  detail another
+bip_39_word_space_2: renew party
+bip_39_word_space_3: renew party anger
+bip_39_word_space_4: renew party anger either
+bip_39_word_space_5: renew party anger either rebel
+bip_39_word_space_6: renew party anger either rebel march
+bip_39_word_space_7: renew party anger either rebel march bleak
+bip_39_word_space_8: renew party anger either rebel march bleak brief
+bip_39_word_space_9: renew party anger either rebel march bleak brief walk
+bip_39_word_underscore_1: renew
+bip_39_word_underscore_10: renew_party_anger_either_rebel_march_bleak_brief_walk_slice
+bip_39_word_underscore_11: renew_party_anger_either_rebel_march_bleak_brief_walk_slice_detail
+bip_39_word_underscore_12: renew_party_anger_either_rebel_march_bleak_brief_walk_slice_detail_another
+bip_39_word_underscore_2: renew_party
+bip_39_word_underscore_3: renew_party_anger
+bip_39_word_underscore_4: renew_party_anger_either
+bip_39_word_underscore_5: renew_party_anger_either_rebel
+bip_39_word_underscore_6: renew_party_anger_either_rebel_march
+bip_39_word_underscore_7: renew_party_anger_either_rebel_march_bleak
+bip_39_word_underscore_8: renew_party_anger_either_rebel_march_bleak_brief
+bip_39_word_underscore_9: renew_party_anger_either_rebel_march_bleak_brief_walk
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 15_mm_length
 id_no_size: gray_15_mm_length
 id_no_type: 9_5_mm_internal_diameter_gray_15_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_gray_15_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_gray_15_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_gray_15_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205y65u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205y65u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205y65u
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 15 mm Length
 name_no_size: Gray 15 mm Length
 name_no_size_short: Gray 15 Mm Length
 name_no_type: 9 5 mm Internal Diameter Gray 15 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_gray_15_mm_length
 oomp_word: tennis bell handbag
 oomp_word_emoji: ':tennis: :bell: :handbag:'

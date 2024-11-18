@@ -1,3 +1,222 @@
+bip_39_word_dash_1: discover
+bip_39_word_dash_10: discover-kite-fan-oval-vibrant-correct-bottom-mom-biology-earn
+bip_39_word_dash_11: discover-kite-fan-oval-vibrant-correct-bottom-mom-biology-earn-pelican
+bip_39_word_dash_12: discover-kite-fan-oval-vibrant-correct-bottom-mom-biology-earn-pelican-another
+bip_39_word_dash_2: discover-kite
+bip_39_word_dash_3: discover-kite-fan
+bip_39_word_dash_4: discover-kite-fan-oval
+bip_39_word_dash_5: discover-kite-fan-oval-vibrant
+bip_39_word_dash_6: discover-kite-fan-oval-vibrant-correct
+bip_39_word_dash_7: discover-kite-fan-oval-vibrant-correct-bottom
+bip_39_word_dash_8: discover-kite-fan-oval-vibrant-correct-bottom-mom
+bip_39_word_dash_9: discover-kite-fan-oval-vibrant-correct-bottom-mom-biology
+bip_39_word_new_br_1: discover
+bip_39_word_new_br_10: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn
+bip_39_word_new_br_11: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican
+bip_39_word_new_br_12: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology<br>earn<br>pelican<br>another
+bip_39_word_new_br_2: discover<br>kite
+bip_39_word_new_br_3: discover<br>kite<br>fan
+bip_39_word_new_br_4: discover<br>kite<br>fan<br>oval
+bip_39_word_new_br_5: discover<br>kite<br>fan<br>oval<br>vibrant
+bip_39_word_new_br_6: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct
+bip_39_word_new_br_7: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom
+bip_39_word_new_br_8: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom
+bip_39_word_new_br_9: discover<br>kite<br>fan<br>oval<br>vibrant<br>correct<br>bottom<br>mom<br>biology
+bip_39_word_new_line_1: discover
+bip_39_word_new_line_10: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom
+
+  mom
+
+  biology
+
+  earn'
+bip_39_word_new_line_11: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom
+
+  mom
+
+  biology
+
+  earn
+
+  pelican'
+bip_39_word_new_line_12: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom
+
+  mom
+
+  biology
+
+  earn
+
+  pelican
+
+  another'
+bip_39_word_new_line_2: 'discover
+
+  kite'
+bip_39_word_new_line_3: 'discover
+
+  kite
+
+  fan'
+bip_39_word_new_line_4: 'discover
+
+  kite
+
+  fan
+
+  oval'
+bip_39_word_new_line_5: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant'
+bip_39_word_new_line_6: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct'
+bip_39_word_new_line_7: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom'
+bip_39_word_new_line_8: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom
+
+  mom'
+bip_39_word_new_line_9: 'discover
+
+  kite
+
+  fan
+
+  oval
+
+  vibrant
+
+  correct
+
+  bottom
+
+  mom
+
+  biology'
+bip_39_word_no_space_1: discover
+bip_39_word_no_space_10: discoverkitefanovalvibrantcorrectbottommombiologyearn
+bip_39_word_no_space_11: discoverkitefanovalvibrantcorrectbottommombiologyearnpelican
+bip_39_word_no_space_12: discoverkitefanovalvibrantcorrectbottommombiologyearnpelicananother
+bip_39_word_no_space_2: discoverkite
+bip_39_word_no_space_3: discoverkitefan
+bip_39_word_no_space_4: discoverkitefanoval
+bip_39_word_no_space_5: discoverkitefanovalvibrant
+bip_39_word_no_space_6: discoverkitefanovalvibrantcorrect
+bip_39_word_no_space_7: discoverkitefanovalvibrantcorrectbottom
+bip_39_word_no_space_8: discoverkitefanovalvibrantcorrectbottommom
+bip_39_word_no_space_9: discoverkitefanovalvibrantcorrectbottommombiology
+bip_39_word_space_0:
+- discover
+- kite
+- fan
+- oval
+- vibrant
+- correct
+- bottom
+- mom
+- biology
+- earn
+- pelican
+- another
+bip_39_word_space_1: discover
+bip_39_word_space_10: discover kite fan oval vibrant correct bottom mom biology earn
+bip_39_word_space_11: discover kite fan oval vibrant correct bottom mom biology earn
+  pelican
+bip_39_word_space_12: discover kite fan oval vibrant correct bottom mom biology earn
+  pelican another
+bip_39_word_space_2: discover kite
+bip_39_word_space_3: discover kite fan
+bip_39_word_space_4: discover kite fan oval
+bip_39_word_space_5: discover kite fan oval vibrant
+bip_39_word_space_6: discover kite fan oval vibrant correct
+bip_39_word_space_7: discover kite fan oval vibrant correct bottom
+bip_39_word_space_8: discover kite fan oval vibrant correct bottom mom
+bip_39_word_space_9: discover kite fan oval vibrant correct bottom mom biology
+bip_39_word_underscore_1: discover
+bip_39_word_underscore_10: discover_kite_fan_oval_vibrant_correct_bottom_mom_biology_earn
+bip_39_word_underscore_11: discover_kite_fan_oval_vibrant_correct_bottom_mom_biology_earn_pelican
+bip_39_word_underscore_12: discover_kite_fan_oval_vibrant_correct_bottom_mom_biology_earn_pelican_another
+bip_39_word_underscore_2: discover_kite
+bip_39_word_underscore_3: discover_kite_fan
+bip_39_word_underscore_4: discover_kite_fan_oval
+bip_39_word_underscore_5: discover_kite_fan_oval_vibrant
+bip_39_word_underscore_6: discover_kite_fan_oval_vibrant_correct
+bip_39_word_underscore_7: discover_kite_fan_oval_vibrant_correct_bottom
+bip_39_word_underscore_8: discover_kite_fan_oval_vibrant_correct_bottom_mom
+bip_39_word_underscore_9: discover_kite_fan_oval_vibrant_correct_bottom_mom_biology
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 25_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_25_mm_length_pozidrive_head
 id_no_type: m6_bright_zinc_plated_25_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_25_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_25_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m6_bright_zinc_plated_25_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205zafl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205zafl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205zafl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 25 mm Length Pozidrive Head
 name_no_size: Bright Zinc Plated 25 mm Length Pozidrive Head
 name_no_size_short: Bright Zinc Plated 25 Mm Length Pozidrive Head
 name_no_type: M6 Bright Zinc Plated 25 mm Length Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 5za
+oomlout_bolt_md5_6_alpha_first_3_upper: 5ZA
+oomlout_bolt_md5_6_alpha_last_3: fl
+oomlout_bolt_md5_6_alpha_last_3_upper: FL
+oomlout_bolt_md5_6_first_3: '994'
+oomlout_bolt_md5_6_first_3_upper: '994'
+oomlout_bolt_md5_6_last_3: '491'
+oomlout_bolt_md5_6_last_3_upper: '491'
+oomlout_bolt_name: Countersunk M6X25 mm  (Pozidrive)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs6bz25pz
+oomlout_short_code_upper: CS6BZ25PZ
 oomp_key: oomp_hardware_screw_countersunk_m6_bright_zinc_plated_25_mm_length_pozidrive_head
 oomp_word: bowling panda_face pushpin
 oomp_word_emoji: ':bowling: :panda_face: :pushpin:'

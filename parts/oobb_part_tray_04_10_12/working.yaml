@@ -1,3 +1,223 @@
+bip_39_word_dash_1: canvas
+bip_39_word_dash_10: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden
+bip_39_word_dash_11: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden-castle
+bip_39_word_dash_12: canvas-input-require-govern-erupt-debate-ketchup-garment-include-burden-castle-absorb
+bip_39_word_dash_2: canvas-input
+bip_39_word_dash_3: canvas-input-require
+bip_39_word_dash_4: canvas-input-require-govern
+bip_39_word_dash_5: canvas-input-require-govern-erupt
+bip_39_word_dash_6: canvas-input-require-govern-erupt-debate
+bip_39_word_dash_7: canvas-input-require-govern-erupt-debate-ketchup
+bip_39_word_dash_8: canvas-input-require-govern-erupt-debate-ketchup-garment
+bip_39_word_dash_9: canvas-input-require-govern-erupt-debate-ketchup-garment-include
+bip_39_word_new_br_1: canvas
+bip_39_word_new_br_10: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden
+bip_39_word_new_br_11: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden<br>castle
+bip_39_word_new_br_12: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include<br>burden<br>castle<br>absorb
+bip_39_word_new_br_2: canvas<br>input
+bip_39_word_new_br_3: canvas<br>input<br>require
+bip_39_word_new_br_4: canvas<br>input<br>require<br>govern
+bip_39_word_new_br_5: canvas<br>input<br>require<br>govern<br>erupt
+bip_39_word_new_br_6: canvas<br>input<br>require<br>govern<br>erupt<br>debate
+bip_39_word_new_br_7: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup
+bip_39_word_new_br_8: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment
+bip_39_word_new_br_9: canvas<br>input<br>require<br>govern<br>erupt<br>debate<br>ketchup<br>garment<br>include
+bip_39_word_new_line_1: canvas
+bip_39_word_new_line_10: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup
+
+  garment
+
+  include
+
+  burden'
+bip_39_word_new_line_11: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup
+
+  garment
+
+  include
+
+  burden
+
+  castle'
+bip_39_word_new_line_12: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup
+
+  garment
+
+  include
+
+  burden
+
+  castle
+
+  absorb'
+bip_39_word_new_line_2: 'canvas
+
+  input'
+bip_39_word_new_line_3: 'canvas
+
+  input
+
+  require'
+bip_39_word_new_line_4: 'canvas
+
+  input
+
+  require
+
+  govern'
+bip_39_word_new_line_5: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt'
+bip_39_word_new_line_6: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate'
+bip_39_word_new_line_7: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup'
+bip_39_word_new_line_8: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup
+
+  garment'
+bip_39_word_new_line_9: 'canvas
+
+  input
+
+  require
+
+  govern
+
+  erupt
+
+  debate
+
+  ketchup
+
+  garment
+
+  include'
+bip_39_word_no_space_1: canvas
+bip_39_word_no_space_10: canvasinputrequiregoverneruptdebateketchupgarmentincludeburden
+bip_39_word_no_space_11: canvasinputrequiregoverneruptdebateketchupgarmentincludeburdencastle
+bip_39_word_no_space_12: canvasinputrequiregoverneruptdebateketchupgarmentincludeburdencastleabsorb
+bip_39_word_no_space_2: canvasinput
+bip_39_word_no_space_3: canvasinputrequire
+bip_39_word_no_space_4: canvasinputrequiregovern
+bip_39_word_no_space_5: canvasinputrequiregovernerupt
+bip_39_word_no_space_6: canvasinputrequiregoverneruptdebate
+bip_39_word_no_space_7: canvasinputrequiregoverneruptdebateketchup
+bip_39_word_no_space_8: canvasinputrequiregoverneruptdebateketchupgarment
+bip_39_word_no_space_9: canvasinputrequiregoverneruptdebateketchupgarmentinclude
+bip_39_word_space_0:
+- canvas
+- input
+- require
+- govern
+- erupt
+- debate
+- ketchup
+- garment
+- include
+- burden
+- castle
+- absorb
+bip_39_word_space_1: canvas
+bip_39_word_space_10: canvas input require govern erupt debate ketchup garment include
+  burden
+bip_39_word_space_11: canvas input require govern erupt debate ketchup garment include
+  burden castle
+bip_39_word_space_12: canvas input require govern erupt debate ketchup garment include
+  burden castle absorb
+bip_39_word_space_2: canvas input
+bip_39_word_space_3: canvas input require
+bip_39_word_space_4: canvas input require govern
+bip_39_word_space_5: canvas input require govern erupt
+bip_39_word_space_6: canvas input require govern erupt debate
+bip_39_word_space_7: canvas input require govern erupt debate ketchup
+bip_39_word_space_8: canvas input require govern erupt debate ketchup garment
+bip_39_word_space_9: canvas input require govern erupt debate ketchup garment include
+bip_39_word_underscore_1: canvas
+bip_39_word_underscore_10: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden
+bip_39_word_underscore_11: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden_castle
+bip_39_word_underscore_12: canvas_input_require_govern_erupt_debate_ketchup_garment_include_burden_castle_absorb
+bip_39_word_underscore_2: canvas_input
+bip_39_word_underscore_3: canvas_input_require
+bip_39_word_underscore_4: canvas_input_require_govern
+bip_39_word_underscore_5: canvas_input_require_govern_erupt
+bip_39_word_underscore_6: canvas_input_require_govern_erupt_debate
+bip_39_word_underscore_7: canvas_input_require_govern_erupt_debate_ketchup
+bip_39_word_underscore_8: canvas_input_require_govern_erupt_debate_ketchup_garment
+bip_39_word_underscore_9: canvas_input_require_govern_erupt_debate_ketchup_garment_include
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_10_12
 id_no_color: '041012'
 id_no_size: '04_10_12'
 id_no_type: tray_04_10_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20h8uf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20h8uf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20h8uf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '041012'
 name_no_size: 04 10 12
 name_no_size_short: 04 10 12
 name_no_type: Tray 04 10 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_10_12
 oomp_word: alien baby_chick cry
 oomp_word_emoji: ':alien: :baby_chick: :cry:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: future
+bip_39_word_dash_10: future-letter-heart-super-witness-junk-dry-rich-silly-inhale
+bip_39_word_dash_11: future-letter-heart-super-witness-junk-dry-rich-silly-inhale-mixture
+bip_39_word_dash_12: future-letter-heart-super-witness-junk-dry-rich-silly-inhale-mixture-attitude
+bip_39_word_dash_2: future-letter
+bip_39_word_dash_3: future-letter-heart
+bip_39_word_dash_4: future-letter-heart-super
+bip_39_word_dash_5: future-letter-heart-super-witness
+bip_39_word_dash_6: future-letter-heart-super-witness-junk
+bip_39_word_dash_7: future-letter-heart-super-witness-junk-dry
+bip_39_word_dash_8: future-letter-heart-super-witness-junk-dry-rich
+bip_39_word_dash_9: future-letter-heart-super-witness-junk-dry-rich-silly
+bip_39_word_new_br_1: future
+bip_39_word_new_br_10: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly<br>inhale
+bip_39_word_new_br_11: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly<br>inhale<br>mixture
+bip_39_word_new_br_12: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly<br>inhale<br>mixture<br>attitude
+bip_39_word_new_br_2: future<br>letter
+bip_39_word_new_br_3: future<br>letter<br>heart
+bip_39_word_new_br_4: future<br>letter<br>heart<br>super
+bip_39_word_new_br_5: future<br>letter<br>heart<br>super<br>witness
+bip_39_word_new_br_6: future<br>letter<br>heart<br>super<br>witness<br>junk
+bip_39_word_new_br_7: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry
+bip_39_word_new_br_8: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich
+bip_39_word_new_br_9: future<br>letter<br>heart<br>super<br>witness<br>junk<br>dry<br>rich<br>silly
+bip_39_word_new_line_1: future
+bip_39_word_new_line_10: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry
+
+  rich
+
+  silly
+
+  inhale'
+bip_39_word_new_line_11: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry
+
+  rich
+
+  silly
+
+  inhale
+
+  mixture'
+bip_39_word_new_line_12: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry
+
+  rich
+
+  silly
+
+  inhale
+
+  mixture
+
+  attitude'
+bip_39_word_new_line_2: 'future
+
+  letter'
+bip_39_word_new_line_3: 'future
+
+  letter
+
+  heart'
+bip_39_word_new_line_4: 'future
+
+  letter
+
+  heart
+
+  super'
+bip_39_word_new_line_5: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness'
+bip_39_word_new_line_6: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk'
+bip_39_word_new_line_7: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry'
+bip_39_word_new_line_8: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry
+
+  rich'
+bip_39_word_new_line_9: 'future
+
+  letter
+
+  heart
+
+  super
+
+  witness
+
+  junk
+
+  dry
+
+  rich
+
+  silly'
+bip_39_word_no_space_1: future
+bip_39_word_no_space_10: futureletterheartsuperwitnessjunkdryrichsillyinhale
+bip_39_word_no_space_11: futureletterheartsuperwitnessjunkdryrichsillyinhalemixture
+bip_39_word_no_space_12: futureletterheartsuperwitnessjunkdryrichsillyinhalemixtureattitude
+bip_39_word_no_space_2: futureletter
+bip_39_word_no_space_3: futureletterheart
+bip_39_word_no_space_4: futureletterheartsuper
+bip_39_word_no_space_5: futureletterheartsuperwitness
+bip_39_word_no_space_6: futureletterheartsuperwitnessjunk
+bip_39_word_no_space_7: futureletterheartsuperwitnessjunkdry
+bip_39_word_no_space_8: futureletterheartsuperwitnessjunkdryrich
+bip_39_word_no_space_9: futureletterheartsuperwitnessjunkdryrichsilly
+bip_39_word_space_0:
+- future
+- letter
+- heart
+- super
+- witness
+- junk
+- dry
+- rich
+- silly
+- inhale
+- mixture
+- attitude
+bip_39_word_space_1: future
+bip_39_word_space_10: future letter heart super witness junk dry rich silly inhale
+bip_39_word_space_11: future letter heart super witness junk dry rich silly inhale
+  mixture
+bip_39_word_space_12: future letter heart super witness junk dry rich silly inhale
+  mixture attitude
+bip_39_word_space_2: future letter
+bip_39_word_space_3: future letter heart
+bip_39_word_space_4: future letter heart super
+bip_39_word_space_5: future letter heart super witness
+bip_39_word_space_6: future letter heart super witness junk
+bip_39_word_space_7: future letter heart super witness junk dry
+bip_39_word_space_8: future letter heart super witness junk dry rich
+bip_39_word_space_9: future letter heart super witness junk dry rich silly
+bip_39_word_underscore_1: future
+bip_39_word_underscore_10: future_letter_heart_super_witness_junk_dry_rich_silly_inhale
+bip_39_word_underscore_11: future_letter_heart_super_witness_junk_dry_rich_silly_inhale_mixture
+bip_39_word_underscore_12: future_letter_heart_super_witness_junk_dry_rich_silly_inhale_mixture_attitude
+bip_39_word_underscore_2: future_letter
+bip_39_word_underscore_3: future_letter_heart
+bip_39_word_underscore_4: future_letter_heart_super
+bip_39_word_underscore_5: future_letter_heart_super_witness
+bip_39_word_underscore_6: future_letter_heart_super_witness_junk
+bip_39_word_underscore_7: future_letter_heart_super_witness_junk_dry
+bip_39_word_underscore_8: future_letter_heart_super_witness_junk_dry_rich
+bip_39_word_underscore_9: future_letter_heart_super_witness_junk_dry_rich_silly
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_13_01__l
 id_no_color: 1301l
 id_no_size: 13_01__l
 id_no_type: bunting_alphabet_13_01__l
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__l
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__l
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__l
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209693w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209693w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209693w
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 1301L
 name_no_size: 13 01  L
 name_no_size_short: 13 01  L
 name_no_type: Bunting Alphabet 13 01  L
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__l
 oomp_word: car dancer spades
 oomp_word_emoji: ':car: :dancer: :spades:'

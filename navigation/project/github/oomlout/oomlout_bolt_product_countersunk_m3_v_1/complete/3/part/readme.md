@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 3
+* name_short: m3_countersunk_tin_complete_3
 ### id
 * oomp_id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tiger: :violin: :ski:
 * md5_6_alpha: 28yhn
 * md5_6: 39a29b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2028yhn)
+[2x1](http://192.168.1.242:1112/?label=oomp%2028yhn)
+[6x4](http://192.168.1.55:1112/?label=oomp%2028yhn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -305,7 +331,14 @@ police |
 | id_no_color | bolt_product_countersunk_m3_v_1_complete_3 |  
 | id_no_size | bolt_product_countersunk_m3_v_1_complete_3 |  
 | id_no_type | oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2028yhn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2028yhn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2028yhn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -331,6 +364,7 @@ police |
 | name_no_size_short | Bolt Product Countersunk M3 V 1 Complete 3 |  
 | name_no_type | Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete 3 |  
 | name_short | m3_countersunk_tin_complete_3 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_3 |  
 | oomp_word | tiger violin ski |  
 | oomp_word_emoji | :tiger: :violin: :ski: |  

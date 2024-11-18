@@ -1,3 +1,223 @@
+bip_39_word_dash_1: innocent
+bip_39_word_dash_10: innocent-gospel-truly-client-daring-embark-citizen-silly-venture-echo
+bip_39_word_dash_11: innocent-gospel-truly-client-daring-embark-citizen-silly-venture-echo-shoe
+bip_39_word_dash_12: innocent-gospel-truly-client-daring-embark-citizen-silly-venture-echo-shoe-amused
+bip_39_word_dash_2: innocent-gospel
+bip_39_word_dash_3: innocent-gospel-truly
+bip_39_word_dash_4: innocent-gospel-truly-client
+bip_39_word_dash_5: innocent-gospel-truly-client-daring
+bip_39_word_dash_6: innocent-gospel-truly-client-daring-embark
+bip_39_word_dash_7: innocent-gospel-truly-client-daring-embark-citizen
+bip_39_word_dash_8: innocent-gospel-truly-client-daring-embark-citizen-silly
+bip_39_word_dash_9: innocent-gospel-truly-client-daring-embark-citizen-silly-venture
+bip_39_word_new_br_1: innocent
+bip_39_word_new_br_10: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo
+bip_39_word_new_br_11: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe
+bip_39_word_new_br_12: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture<br>echo<br>shoe<br>amused
+bip_39_word_new_br_2: innocent<br>gospel
+bip_39_word_new_br_3: innocent<br>gospel<br>truly
+bip_39_word_new_br_4: innocent<br>gospel<br>truly<br>client
+bip_39_word_new_br_5: innocent<br>gospel<br>truly<br>client<br>daring
+bip_39_word_new_br_6: innocent<br>gospel<br>truly<br>client<br>daring<br>embark
+bip_39_word_new_br_7: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen
+bip_39_word_new_br_8: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly
+bip_39_word_new_br_9: innocent<br>gospel<br>truly<br>client<br>daring<br>embark<br>citizen<br>silly<br>venture
+bip_39_word_new_line_1: innocent
+bip_39_word_new_line_10: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen
+
+  silly
+
+  venture
+
+  echo'
+bip_39_word_new_line_11: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen
+
+  silly
+
+  venture
+
+  echo
+
+  shoe'
+bip_39_word_new_line_12: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen
+
+  silly
+
+  venture
+
+  echo
+
+  shoe
+
+  amused'
+bip_39_word_new_line_2: 'innocent
+
+  gospel'
+bip_39_word_new_line_3: 'innocent
+
+  gospel
+
+  truly'
+bip_39_word_new_line_4: 'innocent
+
+  gospel
+
+  truly
+
+  client'
+bip_39_word_new_line_5: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring'
+bip_39_word_new_line_6: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark'
+bip_39_word_new_line_7: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen'
+bip_39_word_new_line_8: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen
+
+  silly'
+bip_39_word_new_line_9: 'innocent
+
+  gospel
+
+  truly
+
+  client
+
+  daring
+
+  embark
+
+  citizen
+
+  silly
+
+  venture'
+bip_39_word_no_space_1: innocent
+bip_39_word_no_space_10: innocentgospeltrulyclientdaringembarkcitizensillyventureecho
+bip_39_word_no_space_11: innocentgospeltrulyclientdaringembarkcitizensillyventureechoshoe
+bip_39_word_no_space_12: innocentgospeltrulyclientdaringembarkcitizensillyventureechoshoeamused
+bip_39_word_no_space_2: innocentgospel
+bip_39_word_no_space_3: innocentgospeltruly
+bip_39_word_no_space_4: innocentgospeltrulyclient
+bip_39_word_no_space_5: innocentgospeltrulyclientdaring
+bip_39_word_no_space_6: innocentgospeltrulyclientdaringembark
+bip_39_word_no_space_7: innocentgospeltrulyclientdaringembarkcitizen
+bip_39_word_no_space_8: innocentgospeltrulyclientdaringembarkcitizensilly
+bip_39_word_no_space_9: innocentgospeltrulyclientdaringembarkcitizensillyventure
+bip_39_word_space_0:
+- innocent
+- gospel
+- truly
+- client
+- daring
+- embark
+- citizen
+- silly
+- venture
+- echo
+- shoe
+- amused
+bip_39_word_space_1: innocent
+bip_39_word_space_10: innocent gospel truly client daring embark citizen silly venture
+  echo
+bip_39_word_space_11: innocent gospel truly client daring embark citizen silly venture
+  echo shoe
+bip_39_word_space_12: innocent gospel truly client daring embark citizen silly venture
+  echo shoe amused
+bip_39_word_space_2: innocent gospel
+bip_39_word_space_3: innocent gospel truly
+bip_39_word_space_4: innocent gospel truly client
+bip_39_word_space_5: innocent gospel truly client daring
+bip_39_word_space_6: innocent gospel truly client daring embark
+bip_39_word_space_7: innocent gospel truly client daring embark citizen
+bip_39_word_space_8: innocent gospel truly client daring embark citizen silly
+bip_39_word_space_9: innocent gospel truly client daring embark citizen silly venture
+bip_39_word_underscore_1: innocent
+bip_39_word_underscore_10: innocent_gospel_truly_client_daring_embark_citizen_silly_venture_echo
+bip_39_word_underscore_11: innocent_gospel_truly_client_daring_embark_citizen_silly_venture_echo_shoe
+bip_39_word_underscore_12: innocent_gospel_truly_client_daring_embark_citizen_silly_venture_echo_shoe_amused
+bip_39_word_underscore_2: innocent_gospel
+bip_39_word_underscore_3: innocent_gospel_truly
+bip_39_word_underscore_4: innocent_gospel_truly_client
+bip_39_word_underscore_5: innocent_gospel_truly_client_daring
+bip_39_word_underscore_6: innocent_gospel_truly_client_daring_embark
+bip_39_word_underscore_7: innocent_gospel_truly_client_daring_embark_citizen
+bip_39_word_underscore_8: innocent_gospel_truly_client_daring_embark_citizen_silly
+bip_39_word_underscore_9: innocent_gospel_truly_client_daring_embark_citizen_silly_venture
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_06_27
 id_no_color: '100627'
 id_no_size: '10_06_27'
 id_no_type: tray_thin_10_06_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_06_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2054s7l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2054s7l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2054s7l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100627'
 name_no_size: 10 06 27
 name_no_size_short: 10 06 27
 name_no_type: Tray Thin 10 06 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_06_27
 oomp_word: lock pill pear
 oomp_word_emoji: ':lock: :pill: :pear:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: vivid
+bip_39_word_dash_10: vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle
+bip_39_word_dash_11: vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle-stamp
+bip_39_word_dash_12: vivid-unaware-good-put-rather-evolve-puzzle-pole-tube-gentle-stamp-autumn
+bip_39_word_dash_2: vivid-unaware
+bip_39_word_dash_3: vivid-unaware-good
+bip_39_word_dash_4: vivid-unaware-good-put
+bip_39_word_dash_5: vivid-unaware-good-put-rather
+bip_39_word_dash_6: vivid-unaware-good-put-rather-evolve
+bip_39_word_dash_7: vivid-unaware-good-put-rather-evolve-puzzle
+bip_39_word_dash_8: vivid-unaware-good-put-rather-evolve-puzzle-pole
+bip_39_word_dash_9: vivid-unaware-good-put-rather-evolve-puzzle-pole-tube
+bip_39_word_new_br_1: vivid
+bip_39_word_new_br_10: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle
+bip_39_word_new_br_11: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle<br>stamp
+bip_39_word_new_br_12: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube<br>gentle<br>stamp<br>autumn
+bip_39_word_new_br_2: vivid<br>unaware
+bip_39_word_new_br_3: vivid<br>unaware<br>good
+bip_39_word_new_br_4: vivid<br>unaware<br>good<br>put
+bip_39_word_new_br_5: vivid<br>unaware<br>good<br>put<br>rather
+bip_39_word_new_br_6: vivid<br>unaware<br>good<br>put<br>rather<br>evolve
+bip_39_word_new_br_7: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle
+bip_39_word_new_br_8: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole
+bip_39_word_new_br_9: vivid<br>unaware<br>good<br>put<br>rather<br>evolve<br>puzzle<br>pole<br>tube
+bip_39_word_new_line_1: vivid
+bip_39_word_new_line_10: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle
+
+  pole
+
+  tube
+
+  gentle'
+bip_39_word_new_line_11: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle
+
+  pole
+
+  tube
+
+  gentle
+
+  stamp'
+bip_39_word_new_line_12: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle
+
+  pole
+
+  tube
+
+  gentle
+
+  stamp
+
+  autumn'
+bip_39_word_new_line_2: 'vivid
+
+  unaware'
+bip_39_word_new_line_3: 'vivid
+
+  unaware
+
+  good'
+bip_39_word_new_line_4: 'vivid
+
+  unaware
+
+  good
+
+  put'
+bip_39_word_new_line_5: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather'
+bip_39_word_new_line_6: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve'
+bip_39_word_new_line_7: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle'
+bip_39_word_new_line_8: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle
+
+  pole'
+bip_39_word_new_line_9: 'vivid
+
+  unaware
+
+  good
+
+  put
+
+  rather
+
+  evolve
+
+  puzzle
+
+  pole
+
+  tube'
+bip_39_word_no_space_1: vivid
+bip_39_word_no_space_10: vividunawaregoodputratherevolvepuzzlepoletubegentle
+bip_39_word_no_space_11: vividunawaregoodputratherevolvepuzzlepoletubegentlestamp
+bip_39_word_no_space_12: vividunawaregoodputratherevolvepuzzlepoletubegentlestampautumn
+bip_39_word_no_space_2: vividunaware
+bip_39_word_no_space_3: vividunawaregood
+bip_39_word_no_space_4: vividunawaregoodput
+bip_39_word_no_space_5: vividunawaregoodputrather
+bip_39_word_no_space_6: vividunawaregoodputratherevolve
+bip_39_word_no_space_7: vividunawaregoodputratherevolvepuzzle
+bip_39_word_no_space_8: vividunawaregoodputratherevolvepuzzlepole
+bip_39_word_no_space_9: vividunawaregoodputratherevolvepuzzlepoletube
+bip_39_word_space_0:
+- vivid
+- unaware
+- good
+- put
+- rather
+- evolve
+- puzzle
+- pole
+- tube
+- gentle
+- stamp
+- autumn
+bip_39_word_space_1: vivid
+bip_39_word_space_10: vivid unaware good put rather evolve puzzle pole tube gentle
+bip_39_word_space_11: vivid unaware good put rather evolve puzzle pole tube gentle
+  stamp
+bip_39_word_space_12: vivid unaware good put rather evolve puzzle pole tube gentle
+  stamp autumn
+bip_39_word_space_2: vivid unaware
+bip_39_word_space_3: vivid unaware good
+bip_39_word_space_4: vivid unaware good put
+bip_39_word_space_5: vivid unaware good put rather
+bip_39_word_space_6: vivid unaware good put rather evolve
+bip_39_word_space_7: vivid unaware good put rather evolve puzzle
+bip_39_word_space_8: vivid unaware good put rather evolve puzzle pole
+bip_39_word_space_9: vivid unaware good put rather evolve puzzle pole tube
+bip_39_word_underscore_1: vivid
+bip_39_word_underscore_10: vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle
+bip_39_word_underscore_11: vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle_stamp
+bip_39_word_underscore_12: vivid_unaware_good_put_rather_evolve_puzzle_pole_tube_gentle_stamp_autumn
+bip_39_word_underscore_2: vivid_unaware
+bip_39_word_underscore_3: vivid_unaware_good
+bip_39_word_underscore_4: vivid_unaware_good_put
+bip_39_word_underscore_5: vivid_unaware_good_put_rather
+bip_39_word_underscore_6: vivid_unaware_good_put_rather_evolve
+bip_39_word_underscore_7: vivid_unaware_good_put_rather_evolve_puzzle
+bip_39_word_underscore_8: vivid_unaware_good_put_rather_evolve_puzzle_pole
+bip_39_word_underscore_9: vivid_unaware_good_put_rather_evolve_puzzle_pole_tube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch
 id_no_color: 010314ptfetubeholderninetydegreeshquarterinchpipethread
 id_no_size: 01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
 id_no_type: other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209thw8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209thw8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209thw8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -136,6 +362,7 @@ name_no_size_short: 01 03 14  Ptfe Tube Holder Ninety Degree Sh Quarter Inch Pip
   Thread
 name_no_type: Other 01 03 14  Ptfe Tube Holder Ninety Degree Sh Quarter Inch Pipe
   Thread
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread
 oomp_word: ok shoe hospital
 oomp_word_emoji: ':ok: :shoe: :hospital:'

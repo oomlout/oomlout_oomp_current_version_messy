@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Heatshrink 2 To 1 Shrink Ratio 2 4 mm Internal Diameter Orange 15 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_orange_15_mm_length
   * classification: electronic

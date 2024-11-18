@@ -1,3 +1,223 @@
+bip_39_word_dash_1: amused
+bip_39_word_dash_10: amused-churn-wing-bird-erosion-judge-display-suspect-student-broken
+bip_39_word_dash_11: amused-churn-wing-bird-erosion-judge-display-suspect-student-broken-wasp
+bip_39_word_dash_12: amused-churn-wing-bird-erosion-judge-display-suspect-student-broken-wasp-adult
+bip_39_word_dash_2: amused-churn
+bip_39_word_dash_3: amused-churn-wing
+bip_39_word_dash_4: amused-churn-wing-bird
+bip_39_word_dash_5: amused-churn-wing-bird-erosion
+bip_39_word_dash_6: amused-churn-wing-bird-erosion-judge
+bip_39_word_dash_7: amused-churn-wing-bird-erosion-judge-display
+bip_39_word_dash_8: amused-churn-wing-bird-erosion-judge-display-suspect
+bip_39_word_dash_9: amused-churn-wing-bird-erosion-judge-display-suspect-student
+bip_39_word_new_br_1: amused
+bip_39_word_new_br_10: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken
+bip_39_word_new_br_11: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken<br>wasp
+bip_39_word_new_br_12: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student<br>broken<br>wasp<br>adult
+bip_39_word_new_br_2: amused<br>churn
+bip_39_word_new_br_3: amused<br>churn<br>wing
+bip_39_word_new_br_4: amused<br>churn<br>wing<br>bird
+bip_39_word_new_br_5: amused<br>churn<br>wing<br>bird<br>erosion
+bip_39_word_new_br_6: amused<br>churn<br>wing<br>bird<br>erosion<br>judge
+bip_39_word_new_br_7: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display
+bip_39_word_new_br_8: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect
+bip_39_word_new_br_9: amused<br>churn<br>wing<br>bird<br>erosion<br>judge<br>display<br>suspect<br>student
+bip_39_word_new_line_1: amused
+bip_39_word_new_line_10: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken'
+bip_39_word_new_line_11: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken
+
+  wasp'
+bip_39_word_new_line_12: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student
+
+  broken
+
+  wasp
+
+  adult'
+bip_39_word_new_line_2: 'amused
+
+  churn'
+bip_39_word_new_line_3: 'amused
+
+  churn
+
+  wing'
+bip_39_word_new_line_4: 'amused
+
+  churn
+
+  wing
+
+  bird'
+bip_39_word_new_line_5: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion'
+bip_39_word_new_line_6: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge'
+bip_39_word_new_line_7: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display'
+bip_39_word_new_line_8: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect'
+bip_39_word_new_line_9: 'amused
+
+  churn
+
+  wing
+
+  bird
+
+  erosion
+
+  judge
+
+  display
+
+  suspect
+
+  student'
+bip_39_word_no_space_1: amused
+bip_39_word_no_space_10: amusedchurnwingbirderosionjudgedisplaysuspectstudentbroken
+bip_39_word_no_space_11: amusedchurnwingbirderosionjudgedisplaysuspectstudentbrokenwasp
+bip_39_word_no_space_12: amusedchurnwingbirderosionjudgedisplaysuspectstudentbrokenwaspadult
+bip_39_word_no_space_2: amusedchurn
+bip_39_word_no_space_3: amusedchurnwing
+bip_39_word_no_space_4: amusedchurnwingbird
+bip_39_word_no_space_5: amusedchurnwingbirderosion
+bip_39_word_no_space_6: amusedchurnwingbirderosionjudge
+bip_39_word_no_space_7: amusedchurnwingbirderosionjudgedisplay
+bip_39_word_no_space_8: amusedchurnwingbirderosionjudgedisplaysuspect
+bip_39_word_no_space_9: amusedchurnwingbirderosionjudgedisplaysuspectstudent
+bip_39_word_space_0:
+- amused
+- churn
+- wing
+- bird
+- erosion
+- judge
+- display
+- suspect
+- student
+- broken
+- wasp
+- adult
+bip_39_word_space_1: amused
+bip_39_word_space_10: amused churn wing bird erosion judge display suspect student
+  broken
+bip_39_word_space_11: amused churn wing bird erosion judge display suspect student
+  broken wasp
+bip_39_word_space_12: amused churn wing bird erosion judge display suspect student
+  broken wasp adult
+bip_39_word_space_2: amused churn
+bip_39_word_space_3: amused churn wing
+bip_39_word_space_4: amused churn wing bird
+bip_39_word_space_5: amused churn wing bird erosion
+bip_39_word_space_6: amused churn wing bird erosion judge
+bip_39_word_space_7: amused churn wing bird erosion judge display
+bip_39_word_space_8: amused churn wing bird erosion judge display suspect
+bip_39_word_space_9: amused churn wing bird erosion judge display suspect student
+bip_39_word_underscore_1: amused
+bip_39_word_underscore_10: amused_churn_wing_bird_erosion_judge_display_suspect_student_broken
+bip_39_word_underscore_11: amused_churn_wing_bird_erosion_judge_display_suspect_student_broken_wasp
+bip_39_word_underscore_12: amused_churn_wing_bird_erosion_judge_display_suspect_student_broken_wasp_adult
+bip_39_word_underscore_2: amused_churn
+bip_39_word_underscore_3: amused_churn_wing
+bip_39_word_underscore_4: amused_churn_wing_bird
+bip_39_word_underscore_5: amused_churn_wing_bird_erosion
+bip_39_word_underscore_6: amused_churn_wing_bird_erosion_judge
+bip_39_word_underscore_7: amused_churn_wing_bird_erosion_judge_display
+bip_39_word_underscore_8: amused_churn_wing_bird_erosion_judge_display_suspect
+bip_39_word_underscore_9: amused_churn_wing_bird_erosion_judge_display_suspect_student
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_03_18
 id_no_color: '100318'
 id_no_size: '10_03_18'
 id_no_type: tray_thin_10_03_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_03_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_03_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_03_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ezuv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ezuv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ezuv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100318'
 name_no_size: 10 03 18
 name_no_size_short: 10 03 18
 name_no_type: Tray Thin 10 03 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_03_18
 oomp_word: cow truck cry
 oomp_word_emoji: ':cow: :truck: :cry:'

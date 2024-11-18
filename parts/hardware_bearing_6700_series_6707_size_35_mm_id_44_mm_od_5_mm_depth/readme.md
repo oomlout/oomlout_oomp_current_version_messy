@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6700 Series 6707 Size 35 mm ID 44 mm OD 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6700_series_6707_size_35_mm_id_44_mm_od_5_mm_depth
   * classification: hardware

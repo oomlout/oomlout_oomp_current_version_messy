@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Wood 10 mm Diameter 100 mm Length Pozidrive Head Corefix
+* name_short: 
 ### id
 * oomp_id: hardware_screw_wood_10_mm_diameter_100_mm_length_pozidrive_head_corefix
   * classification: hardware

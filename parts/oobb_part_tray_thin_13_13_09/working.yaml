@@ -1,3 +1,223 @@
+bip_39_word_dash_1: brother
+bip_39_word_dash_10: brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze
+bip_39_word_dash_11: brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze-citizen
+bip_39_word_dash_12: brother-physical-despair-vanish-doctor-fancy-certain-draft-one-bronze-citizen-act
+bip_39_word_dash_2: brother-physical
+bip_39_word_dash_3: brother-physical-despair
+bip_39_word_dash_4: brother-physical-despair-vanish
+bip_39_word_dash_5: brother-physical-despair-vanish-doctor
+bip_39_word_dash_6: brother-physical-despair-vanish-doctor-fancy
+bip_39_word_dash_7: brother-physical-despair-vanish-doctor-fancy-certain
+bip_39_word_dash_8: brother-physical-despair-vanish-doctor-fancy-certain-draft
+bip_39_word_dash_9: brother-physical-despair-vanish-doctor-fancy-certain-draft-one
+bip_39_word_new_br_1: brother
+bip_39_word_new_br_10: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one<br>bronze
+bip_39_word_new_br_11: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one<br>bronze<br>citizen
+bip_39_word_new_br_12: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one<br>bronze<br>citizen<br>act
+bip_39_word_new_br_2: brother<br>physical
+bip_39_word_new_br_3: brother<br>physical<br>despair
+bip_39_word_new_br_4: brother<br>physical<br>despair<br>vanish
+bip_39_word_new_br_5: brother<br>physical<br>despair<br>vanish<br>doctor
+bip_39_word_new_br_6: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy
+bip_39_word_new_br_7: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain
+bip_39_word_new_br_8: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft
+bip_39_word_new_br_9: brother<br>physical<br>despair<br>vanish<br>doctor<br>fancy<br>certain<br>draft<br>one
+bip_39_word_new_line_1: brother
+bip_39_word_new_line_10: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain
+
+  draft
+
+  one
+
+  bronze'
+bip_39_word_new_line_11: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain
+
+  draft
+
+  one
+
+  bronze
+
+  citizen'
+bip_39_word_new_line_12: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain
+
+  draft
+
+  one
+
+  bronze
+
+  citizen
+
+  act'
+bip_39_word_new_line_2: 'brother
+
+  physical'
+bip_39_word_new_line_3: 'brother
+
+  physical
+
+  despair'
+bip_39_word_new_line_4: 'brother
+
+  physical
+
+  despair
+
+  vanish'
+bip_39_word_new_line_5: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor'
+bip_39_word_new_line_6: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy'
+bip_39_word_new_line_7: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain'
+bip_39_word_new_line_8: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain
+
+  draft'
+bip_39_word_new_line_9: 'brother
+
+  physical
+
+  despair
+
+  vanish
+
+  doctor
+
+  fancy
+
+  certain
+
+  draft
+
+  one'
+bip_39_word_no_space_1: brother
+bip_39_word_no_space_10: brotherphysicaldespairvanishdoctorfancycertaindraftonebronze
+bip_39_word_no_space_11: brotherphysicaldespairvanishdoctorfancycertaindraftonebronzecitizen
+bip_39_word_no_space_12: brotherphysicaldespairvanishdoctorfancycertaindraftonebronzecitizenact
+bip_39_word_no_space_2: brotherphysical
+bip_39_word_no_space_3: brotherphysicaldespair
+bip_39_word_no_space_4: brotherphysicaldespairvanish
+bip_39_word_no_space_5: brotherphysicaldespairvanishdoctor
+bip_39_word_no_space_6: brotherphysicaldespairvanishdoctorfancy
+bip_39_word_no_space_7: brotherphysicaldespairvanishdoctorfancycertain
+bip_39_word_no_space_8: brotherphysicaldespairvanishdoctorfancycertaindraft
+bip_39_word_no_space_9: brotherphysicaldespairvanishdoctorfancycertaindraftone
+bip_39_word_space_0:
+- brother
+- physical
+- despair
+- vanish
+- doctor
+- fancy
+- certain
+- draft
+- one
+- bronze
+- citizen
+- act
+bip_39_word_space_1: brother
+bip_39_word_space_10: brother physical despair vanish doctor fancy certain draft one
+  bronze
+bip_39_word_space_11: brother physical despair vanish doctor fancy certain draft one
+  bronze citizen
+bip_39_word_space_12: brother physical despair vanish doctor fancy certain draft one
+  bronze citizen act
+bip_39_word_space_2: brother physical
+bip_39_word_space_3: brother physical despair
+bip_39_word_space_4: brother physical despair vanish
+bip_39_word_space_5: brother physical despair vanish doctor
+bip_39_word_space_6: brother physical despair vanish doctor fancy
+bip_39_word_space_7: brother physical despair vanish doctor fancy certain
+bip_39_word_space_8: brother physical despair vanish doctor fancy certain draft
+bip_39_word_space_9: brother physical despair vanish doctor fancy certain draft one
+bip_39_word_underscore_1: brother
+bip_39_word_underscore_10: brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze
+bip_39_word_underscore_11: brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze_citizen
+bip_39_word_underscore_12: brother_physical_despair_vanish_doctor_fancy_certain_draft_one_bronze_citizen_act
+bip_39_word_underscore_2: brother_physical
+bip_39_word_underscore_3: brother_physical_despair
+bip_39_word_underscore_4: brother_physical_despair_vanish
+bip_39_word_underscore_5: brother_physical_despair_vanish_doctor
+bip_39_word_underscore_6: brother_physical_despair_vanish_doctor_fancy
+bip_39_word_underscore_7: brother_physical_despair_vanish_doctor_fancy_certain
+bip_39_word_underscore_8: brother_physical_despair_vanish_doctor_fancy_certain_draft
+bip_39_word_underscore_9: brother_physical_despair_vanish_doctor_fancy_certain_draft_one
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_13_13_09
 id_no_color: '131309'
 id_no_size: '13_13_09'
 id_no_type: tray_thin_13_13_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_13_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_13_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_13_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201htvr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201htvr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201htvr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '131309'
 name_no_size: 13 13 09
 name_no_size_short: 13 13 09
 name_no_type: Tray Thin 13 13 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_13_09
 oomp_word: eyes octopus toilet
 oomp_word_emoji: ':eyes: :octopus: :toilet:'

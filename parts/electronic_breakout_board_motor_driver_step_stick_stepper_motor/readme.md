@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A common breakout format for a stepper motor driver
 
+### name
+* name: Electronic Breakout Board Motor Driver Step Stick Stepper Motor
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_motor_driver_step_stick_stepper_motor
   * classification: electronic

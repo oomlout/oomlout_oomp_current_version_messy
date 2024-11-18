@@ -1,3 +1,222 @@
+bip_39_word_dash_1: moon
+bip_39_word_dash_10: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable
+bip_39_word_dash_11: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable-uncle
+bip_39_word_dash_12: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix-stable-uncle-animal
+bip_39_word_dash_2: moon-mammal
+bip_39_word_dash_3: moon-mammal-problem
+bip_39_word_dash_4: moon-mammal-problem-next
+bip_39_word_dash_5: moon-mammal-problem-next-equip
+bip_39_word_dash_6: moon-mammal-problem-next-equip-shoulder
+bip_39_word_dash_7: moon-mammal-problem-next-equip-shoulder-exhibit
+bip_39_word_dash_8: moon-mammal-problem-next-equip-shoulder-exhibit-refuse
+bip_39_word_dash_9: moon-mammal-problem-next-equip-shoulder-exhibit-refuse-mix
+bip_39_word_new_br_1: moon
+bip_39_word_new_br_10: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix<br>stable
+bip_39_word_new_br_11: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix<br>stable<br>uncle
+bip_39_word_new_br_12: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix<br>stable<br>uncle<br>animal
+bip_39_word_new_br_2: moon<br>mammal
+bip_39_word_new_br_3: moon<br>mammal<br>problem
+bip_39_word_new_br_4: moon<br>mammal<br>problem<br>next
+bip_39_word_new_br_5: moon<br>mammal<br>problem<br>next<br>equip
+bip_39_word_new_br_6: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder
+bip_39_word_new_br_7: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit
+bip_39_word_new_br_8: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse
+bip_39_word_new_br_9: moon<br>mammal<br>problem<br>next<br>equip<br>shoulder<br>exhibit<br>refuse<br>mix
+bip_39_word_new_line_1: moon
+bip_39_word_new_line_10: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit
+
+  refuse
+
+  mix
+
+  stable'
+bip_39_word_new_line_11: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit
+
+  refuse
+
+  mix
+
+  stable
+
+  uncle'
+bip_39_word_new_line_12: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit
+
+  refuse
+
+  mix
+
+  stable
+
+  uncle
+
+  animal'
+bip_39_word_new_line_2: 'moon
+
+  mammal'
+bip_39_word_new_line_3: 'moon
+
+  mammal
+
+  problem'
+bip_39_word_new_line_4: 'moon
+
+  mammal
+
+  problem
+
+  next'
+bip_39_word_new_line_5: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip'
+bip_39_word_new_line_6: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder'
+bip_39_word_new_line_7: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit'
+bip_39_word_new_line_8: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit
+
+  refuse'
+bip_39_word_new_line_9: 'moon
+
+  mammal
+
+  problem
+
+  next
+
+  equip
+
+  shoulder
+
+  exhibit
+
+  refuse
+
+  mix'
+bip_39_word_no_space_1: moon
+bip_39_word_no_space_10: moonmammalproblemnextequipshoulderexhibitrefusemixstable
+bip_39_word_no_space_11: moonmammalproblemnextequipshoulderexhibitrefusemixstableuncle
+bip_39_word_no_space_12: moonmammalproblemnextequipshoulderexhibitrefusemixstableuncleanimal
+bip_39_word_no_space_2: moonmammal
+bip_39_word_no_space_3: moonmammalproblem
+bip_39_word_no_space_4: moonmammalproblemnext
+bip_39_word_no_space_5: moonmammalproblemnextequip
+bip_39_word_no_space_6: moonmammalproblemnextequipshoulder
+bip_39_word_no_space_7: moonmammalproblemnextequipshoulderexhibit
+bip_39_word_no_space_8: moonmammalproblemnextequipshoulderexhibitrefuse
+bip_39_word_no_space_9: moonmammalproblemnextequipshoulderexhibitrefusemix
+bip_39_word_space_0:
+- moon
+- mammal
+- problem
+- next
+- equip
+- shoulder
+- exhibit
+- refuse
+- mix
+- stable
+- uncle
+- animal
+bip_39_word_space_1: moon
+bip_39_word_space_10: moon mammal problem next equip shoulder exhibit refuse mix stable
+bip_39_word_space_11: moon mammal problem next equip shoulder exhibit refuse mix stable
+  uncle
+bip_39_word_space_12: moon mammal problem next equip shoulder exhibit refuse mix stable
+  uncle animal
+bip_39_word_space_2: moon mammal
+bip_39_word_space_3: moon mammal problem
+bip_39_word_space_4: moon mammal problem next
+bip_39_word_space_5: moon mammal problem next equip
+bip_39_word_space_6: moon mammal problem next equip shoulder
+bip_39_word_space_7: moon mammal problem next equip shoulder exhibit
+bip_39_word_space_8: moon mammal problem next equip shoulder exhibit refuse
+bip_39_word_space_9: moon mammal problem next equip shoulder exhibit refuse mix
+bip_39_word_underscore_1: moon
+bip_39_word_underscore_10: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable
+bip_39_word_underscore_11: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable_uncle
+bip_39_word_underscore_12: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix_stable_uncle_animal
+bip_39_word_underscore_2: moon_mammal
+bip_39_word_underscore_3: moon_mammal_problem
+bip_39_word_underscore_4: moon_mammal_problem_next
+bip_39_word_underscore_5: moon_mammal_problem_next_equip
+bip_39_word_underscore_6: moon_mammal_problem_next_equip_shoulder
+bip_39_word_underscore_7: moon_mammal_problem_next_equip_shoulder_exhibit
+bip_39_word_underscore_8: moon_mammal_problem_next_equip_shoulder_exhibit_refuse
+bip_39_word_underscore_9: moon_mammal_problem_next_equip_shoulder_exhibit_refuse_mix
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_03_12
 id_no_color: '150312'
 id_no_size: '15_03_12'
 id_no_type: tray_thin_15_03_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_03_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_03_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_03_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ov90
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ov90
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ov90
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150312'
 name_no_size: 15 03 12
 name_no_size_short: 15 03 12
 name_no_type: Tray Thin 15 03 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_03_12
 oomp_word: pushpin bank mouse
 oomp_word_emoji: ':pushpin: :bank: :mouse:'

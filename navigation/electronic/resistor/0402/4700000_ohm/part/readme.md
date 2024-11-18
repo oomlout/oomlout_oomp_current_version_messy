@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0402 4700000 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0402_4700000_ohm
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :coffee: :tea: :paperclip:
 * md5_6_alpha: 71u36
 * md5_6: b4b592
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2071u36)
+[2x1](http://192.168.1.242:1112/?label=oomp%2071u36)
+[6x4](http://192.168.1.55:1112/?label=oomp%2071u36)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700000_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700000_ohm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ flight |
 | id_no_size | 4700000_ohm |  
 | id_no_type | 0402_4700000_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700000_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_4700000_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0402_4700000_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2071u36 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2071u36 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2071u36 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ flight |
 | name_no_size | 4700000 Ohm |  
 | name_no_size_short | 4M7 Ohm |  
 | name_no_type | 0402 4700000 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0402_4700000_ohm |  
 | oomp_word | coffee tea paperclip |  
 | oomp_word_emoji | :coffee: :tea: :paperclip: |  

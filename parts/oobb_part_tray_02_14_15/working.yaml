@@ -1,3 +1,223 @@
+bip_39_word_dash_1: disease
+bip_39_word_dash_10: disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos
+bip_39_word_dash_11: disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos-patient
+bip_39_word_dash_12: disease-rice-catch-payment-first-inner-unlock-burden-unhappy-chaos-patient-auto
+bip_39_word_dash_2: disease-rice
+bip_39_word_dash_3: disease-rice-catch
+bip_39_word_dash_4: disease-rice-catch-payment
+bip_39_word_dash_5: disease-rice-catch-payment-first
+bip_39_word_dash_6: disease-rice-catch-payment-first-inner
+bip_39_word_dash_7: disease-rice-catch-payment-first-inner-unlock
+bip_39_word_dash_8: disease-rice-catch-payment-first-inner-unlock-burden
+bip_39_word_dash_9: disease-rice-catch-payment-first-inner-unlock-burden-unhappy
+bip_39_word_new_br_1: disease
+bip_39_word_new_br_10: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy<br>chaos
+bip_39_word_new_br_11: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy<br>chaos<br>patient
+bip_39_word_new_br_12: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy<br>chaos<br>patient<br>auto
+bip_39_word_new_br_2: disease<br>rice
+bip_39_word_new_br_3: disease<br>rice<br>catch
+bip_39_word_new_br_4: disease<br>rice<br>catch<br>payment
+bip_39_word_new_br_5: disease<br>rice<br>catch<br>payment<br>first
+bip_39_word_new_br_6: disease<br>rice<br>catch<br>payment<br>first<br>inner
+bip_39_word_new_br_7: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock
+bip_39_word_new_br_8: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden
+bip_39_word_new_br_9: disease<br>rice<br>catch<br>payment<br>first<br>inner<br>unlock<br>burden<br>unhappy
+bip_39_word_new_line_1: disease
+bip_39_word_new_line_10: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock
+
+  burden
+
+  unhappy
+
+  chaos'
+bip_39_word_new_line_11: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock
+
+  burden
+
+  unhappy
+
+  chaos
+
+  patient'
+bip_39_word_new_line_12: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock
+
+  burden
+
+  unhappy
+
+  chaos
+
+  patient
+
+  auto'
+bip_39_word_new_line_2: 'disease
+
+  rice'
+bip_39_word_new_line_3: 'disease
+
+  rice
+
+  catch'
+bip_39_word_new_line_4: 'disease
+
+  rice
+
+  catch
+
+  payment'
+bip_39_word_new_line_5: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first'
+bip_39_word_new_line_6: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner'
+bip_39_word_new_line_7: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock'
+bip_39_word_new_line_8: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock
+
+  burden'
+bip_39_word_new_line_9: 'disease
+
+  rice
+
+  catch
+
+  payment
+
+  first
+
+  inner
+
+  unlock
+
+  burden
+
+  unhappy'
+bip_39_word_no_space_1: disease
+bip_39_word_no_space_10: diseasericecatchpaymentfirstinnerunlockburdenunhappychaos
+bip_39_word_no_space_11: diseasericecatchpaymentfirstinnerunlockburdenunhappychaospatient
+bip_39_word_no_space_12: diseasericecatchpaymentfirstinnerunlockburdenunhappychaospatientauto
+bip_39_word_no_space_2: diseaserice
+bip_39_word_no_space_3: diseasericecatch
+bip_39_word_no_space_4: diseasericecatchpayment
+bip_39_word_no_space_5: diseasericecatchpaymentfirst
+bip_39_word_no_space_6: diseasericecatchpaymentfirstinner
+bip_39_word_no_space_7: diseasericecatchpaymentfirstinnerunlock
+bip_39_word_no_space_8: diseasericecatchpaymentfirstinnerunlockburden
+bip_39_word_no_space_9: diseasericecatchpaymentfirstinnerunlockburdenunhappy
+bip_39_word_space_0:
+- disease
+- rice
+- catch
+- payment
+- first
+- inner
+- unlock
+- burden
+- unhappy
+- chaos
+- patient
+- auto
+bip_39_word_space_1: disease
+bip_39_word_space_10: disease rice catch payment first inner unlock burden unhappy
+  chaos
+bip_39_word_space_11: disease rice catch payment first inner unlock burden unhappy
+  chaos patient
+bip_39_word_space_12: disease rice catch payment first inner unlock burden unhappy
+  chaos patient auto
+bip_39_word_space_2: disease rice
+bip_39_word_space_3: disease rice catch
+bip_39_word_space_4: disease rice catch payment
+bip_39_word_space_5: disease rice catch payment first
+bip_39_word_space_6: disease rice catch payment first inner
+bip_39_word_space_7: disease rice catch payment first inner unlock
+bip_39_word_space_8: disease rice catch payment first inner unlock burden
+bip_39_word_space_9: disease rice catch payment first inner unlock burden unhappy
+bip_39_word_underscore_1: disease
+bip_39_word_underscore_10: disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos
+bip_39_word_underscore_11: disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos_patient
+bip_39_word_underscore_12: disease_rice_catch_payment_first_inner_unlock_burden_unhappy_chaos_patient_auto
+bip_39_word_underscore_2: disease_rice
+bip_39_word_underscore_3: disease_rice_catch
+bip_39_word_underscore_4: disease_rice_catch_payment
+bip_39_word_underscore_5: disease_rice_catch_payment_first
+bip_39_word_underscore_6: disease_rice_catch_payment_first_inner
+bip_39_word_underscore_7: disease_rice_catch_payment_first_inner_unlock
+bip_39_word_underscore_8: disease_rice_catch_payment_first_inner_unlock_burden
+bip_39_word_underscore_9: disease_rice_catch_payment_first_inner_unlock_burden_unhappy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_02_14_15
 id_no_color: '021415'
 id_no_size: '02_14_15'
 id_no_type: tray_02_14_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_14_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_14_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_14_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209q4g9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209q4g9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209q4g9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '021415'
 name_no_size: 02 14 15
 name_no_size_short: 02 14 15
 name_no_type: Tray 02 14 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_14_15
 oomp_word: eight sheep angry
 oomp_word_emoji: ':eight: :sheep: :angry:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5202 Size 15 mm ID 35 mm OD 15 8 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5202_size_15_mm_id_35_mm_od_15_8_mm_depth
   * classification: hardware

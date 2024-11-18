@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Circle 1000 Ml 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :wink: :rooster: :crown:
 * md5_6_alpha: 64ds
 * md5_6: 045bb0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2064ds)
+[2x1](http://192.168.1.242:1112/?label=oomp%2064ds)
+[6x4](http://192.168.1.55:1112/?label=oomp%2064ds)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ clean |
 | id_no_color | 131mmdiameter120mmheighttamperevidentsystempak2026 |  
 | id_no_size | 131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  
 | id_no_type | 1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2064ds |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2064ds |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2064ds |  
 | link_purchase | ['https://systempak.net/product/1000ml-round-131mm-diameter-tamper-evident-containers-with-handles-and-lids/'] |  
 | manufacturer | systempak |  
 | manufacturer_capital | Systempak |  
@@ -307,6 +340,7 @@ clean |
 | name_no_size | 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026 |  
 | name_no_size_short | 131 Mm Diameter 120 Mm Height Tamper Evident Systempak 2026 |  
 | name_no_type | 1000 Ml 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc1000 |  
 | oomlout_short_code_upper | TCC1000 |  
 | oomp_key | oomp_packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026 |  

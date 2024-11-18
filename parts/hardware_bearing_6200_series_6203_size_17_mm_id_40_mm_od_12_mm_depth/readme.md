@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6203 Size 17 mm ID 40 mm OD 12 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6203_size_17_mm_id_40_mm_od_12_mm_depth
   * classification: hardware

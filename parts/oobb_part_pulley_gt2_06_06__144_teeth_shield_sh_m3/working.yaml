@@ -1,3 +1,223 @@
+bip_39_word_dash_1: sadness
+bip_39_word_dash_10: sadness-shock-powder-park-chicken-desert-solar-high-seminar-giant
+bip_39_word_dash_11: sadness-shock-powder-park-chicken-desert-solar-high-seminar-giant-garbage
+bip_39_word_dash_12: sadness-shock-powder-park-chicken-desert-solar-high-seminar-giant-garbage-author
+bip_39_word_dash_2: sadness-shock
+bip_39_word_dash_3: sadness-shock-powder
+bip_39_word_dash_4: sadness-shock-powder-park
+bip_39_word_dash_5: sadness-shock-powder-park-chicken
+bip_39_word_dash_6: sadness-shock-powder-park-chicken-desert
+bip_39_word_dash_7: sadness-shock-powder-park-chicken-desert-solar
+bip_39_word_dash_8: sadness-shock-powder-park-chicken-desert-solar-high
+bip_39_word_dash_9: sadness-shock-powder-park-chicken-desert-solar-high-seminar
+bip_39_word_new_br_1: sadness
+bip_39_word_new_br_10: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant
+bip_39_word_new_br_11: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant<br>garbage
+bip_39_word_new_br_12: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar<br>giant<br>garbage<br>author
+bip_39_word_new_br_2: sadness<br>shock
+bip_39_word_new_br_3: sadness<br>shock<br>powder
+bip_39_word_new_br_4: sadness<br>shock<br>powder<br>park
+bip_39_word_new_br_5: sadness<br>shock<br>powder<br>park<br>chicken
+bip_39_word_new_br_6: sadness<br>shock<br>powder<br>park<br>chicken<br>desert
+bip_39_word_new_br_7: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar
+bip_39_word_new_br_8: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high
+bip_39_word_new_br_9: sadness<br>shock<br>powder<br>park<br>chicken<br>desert<br>solar<br>high<br>seminar
+bip_39_word_new_line_1: sadness
+bip_39_word_new_line_10: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar
+
+  high
+
+  seminar
+
+  giant'
+bip_39_word_new_line_11: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar
+
+  high
+
+  seminar
+
+  giant
+
+  garbage'
+bip_39_word_new_line_12: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar
+
+  high
+
+  seminar
+
+  giant
+
+  garbage
+
+  author'
+bip_39_word_new_line_2: 'sadness
+
+  shock'
+bip_39_word_new_line_3: 'sadness
+
+  shock
+
+  powder'
+bip_39_word_new_line_4: 'sadness
+
+  shock
+
+  powder
+
+  park'
+bip_39_word_new_line_5: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken'
+bip_39_word_new_line_6: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert'
+bip_39_word_new_line_7: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar'
+bip_39_word_new_line_8: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar
+
+  high'
+bip_39_word_new_line_9: 'sadness
+
+  shock
+
+  powder
+
+  park
+
+  chicken
+
+  desert
+
+  solar
+
+  high
+
+  seminar'
+bip_39_word_no_space_1: sadness
+bip_39_word_no_space_10: sadnessshockpowderparkchickendesertsolarhighseminargiant
+bip_39_word_no_space_11: sadnessshockpowderparkchickendesertsolarhighseminargiantgarbage
+bip_39_word_no_space_12: sadnessshockpowderparkchickendesertsolarhighseminargiantgarbageauthor
+bip_39_word_no_space_2: sadnessshock
+bip_39_word_no_space_3: sadnessshockpowder
+bip_39_word_no_space_4: sadnessshockpowderpark
+bip_39_word_no_space_5: sadnessshockpowderparkchicken
+bip_39_word_no_space_6: sadnessshockpowderparkchickendesert
+bip_39_word_no_space_7: sadnessshockpowderparkchickendesertsolar
+bip_39_word_no_space_8: sadnessshockpowderparkchickendesertsolarhigh
+bip_39_word_no_space_9: sadnessshockpowderparkchickendesertsolarhighseminar
+bip_39_word_space_0:
+- sadness
+- shock
+- powder
+- park
+- chicken
+- desert
+- solar
+- high
+- seminar
+- giant
+- garbage
+- author
+bip_39_word_space_1: sadness
+bip_39_word_space_10: sadness shock powder park chicken desert solar high seminar
+  giant
+bip_39_word_space_11: sadness shock powder park chicken desert solar high seminar
+  giant garbage
+bip_39_word_space_12: sadness shock powder park chicken desert solar high seminar
+  giant garbage author
+bip_39_word_space_2: sadness shock
+bip_39_word_space_3: sadness shock powder
+bip_39_word_space_4: sadness shock powder park
+bip_39_word_space_5: sadness shock powder park chicken
+bip_39_word_space_6: sadness shock powder park chicken desert
+bip_39_word_space_7: sadness shock powder park chicken desert solar
+bip_39_word_space_8: sadness shock powder park chicken desert solar high
+bip_39_word_space_9: sadness shock powder park chicken desert solar high seminar
+bip_39_word_underscore_1: sadness
+bip_39_word_underscore_10: sadness_shock_powder_park_chicken_desert_solar_high_seminar_giant
+bip_39_word_underscore_11: sadness_shock_powder_park_chicken_desert_solar_high_seminar_giant_garbage
+bip_39_word_underscore_12: sadness_shock_powder_park_chicken_desert_solar_high_seminar_giant_garbage_author
+bip_39_word_underscore_2: sadness_shock
+bip_39_word_underscore_3: sadness_shock_powder
+bip_39_word_underscore_4: sadness_shock_powder_park
+bip_39_word_underscore_5: sadness_shock_powder_park_chicken
+bip_39_word_underscore_6: sadness_shock_powder_park_chicken_desert
+bip_39_word_underscore_7: sadness_shock_powder_park_chicken_desert_solar
+bip_39_word_underscore_8: sadness_shock_powder_park_chicken_desert_solar_high
+bip_39_word_underscore_9: sadness_shock_powder_park_chicken_desert_solar_high_seminar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_06_06__144_teeth_shield_sh_m3
 id_no_color: 0606144teethshieldshm3
 id_no_size: 06_06__144_teeth_shield_sh_m3
 id_no_type: pulley_gt2_06_06__144_teeth_shield_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_shield_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209mlg8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209mlg8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209mlg8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0606144Teethshieldshm3
 name_no_size: 06 06  144 Teeth Shield Sh M3
 name_no_size_short: 06 06  144 Teeth Shield Sh M3
 name_no_type: Pulley Gt2 06 06  144 Teeth Shield Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_06__144_teeth_shield_sh_m3
 oomp_word: five egg hand
 oomp_word_emoji: ':five: :egg: :hand:'

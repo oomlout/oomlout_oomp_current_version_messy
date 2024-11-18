@@ -1,3 +1,223 @@
+bip_39_word_dash_1: empty
+bip_39_word_dash_10: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver
+bip_39_word_dash_11: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver-topic
+bip_39_word_dash_12: empty-donate-gather-remove-industry-morning-become-romance-kiss-deliver-topic-afraid
+bip_39_word_dash_2: empty-donate
+bip_39_word_dash_3: empty-donate-gather
+bip_39_word_dash_4: empty-donate-gather-remove
+bip_39_word_dash_5: empty-donate-gather-remove-industry
+bip_39_word_dash_6: empty-donate-gather-remove-industry-morning
+bip_39_word_dash_7: empty-donate-gather-remove-industry-morning-become
+bip_39_word_dash_8: empty-donate-gather-remove-industry-morning-become-romance
+bip_39_word_dash_9: empty-donate-gather-remove-industry-morning-become-romance-kiss
+bip_39_word_new_br_1: empty
+bip_39_word_new_br_10: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver
+bip_39_word_new_br_11: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver<br>topic
+bip_39_word_new_br_12: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss<br>deliver<br>topic<br>afraid
+bip_39_word_new_br_2: empty<br>donate
+bip_39_word_new_br_3: empty<br>donate<br>gather
+bip_39_word_new_br_4: empty<br>donate<br>gather<br>remove
+bip_39_word_new_br_5: empty<br>donate<br>gather<br>remove<br>industry
+bip_39_word_new_br_6: empty<br>donate<br>gather<br>remove<br>industry<br>morning
+bip_39_word_new_br_7: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become
+bip_39_word_new_br_8: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance
+bip_39_word_new_br_9: empty<br>donate<br>gather<br>remove<br>industry<br>morning<br>become<br>romance<br>kiss
+bip_39_word_new_line_1: empty
+bip_39_word_new_line_10: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver'
+bip_39_word_new_line_11: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver
+
+  topic'
+bip_39_word_new_line_12: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss
+
+  deliver
+
+  topic
+
+  afraid'
+bip_39_word_new_line_2: 'empty
+
+  donate'
+bip_39_word_new_line_3: 'empty
+
+  donate
+
+  gather'
+bip_39_word_new_line_4: 'empty
+
+  donate
+
+  gather
+
+  remove'
+bip_39_word_new_line_5: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry'
+bip_39_word_new_line_6: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning'
+bip_39_word_new_line_7: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become'
+bip_39_word_new_line_8: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance'
+bip_39_word_new_line_9: 'empty
+
+  donate
+
+  gather
+
+  remove
+
+  industry
+
+  morning
+
+  become
+
+  romance
+
+  kiss'
+bip_39_word_no_space_1: empty
+bip_39_word_no_space_10: emptydonategatherremoveindustrymorningbecomeromancekissdeliver
+bip_39_word_no_space_11: emptydonategatherremoveindustrymorningbecomeromancekissdelivertopic
+bip_39_word_no_space_12: emptydonategatherremoveindustrymorningbecomeromancekissdelivertopicafraid
+bip_39_word_no_space_2: emptydonate
+bip_39_word_no_space_3: emptydonategather
+bip_39_word_no_space_4: emptydonategatherremove
+bip_39_word_no_space_5: emptydonategatherremoveindustry
+bip_39_word_no_space_6: emptydonategatherremoveindustrymorning
+bip_39_word_no_space_7: emptydonategatherremoveindustrymorningbecome
+bip_39_word_no_space_8: emptydonategatherremoveindustrymorningbecomeromance
+bip_39_word_no_space_9: emptydonategatherremoveindustrymorningbecomeromancekiss
+bip_39_word_space_0:
+- empty
+- donate
+- gather
+- remove
+- industry
+- morning
+- become
+- romance
+- kiss
+- deliver
+- topic
+- afraid
+bip_39_word_space_1: empty
+bip_39_word_space_10: empty donate gather remove industry morning become romance kiss
+  deliver
+bip_39_word_space_11: empty donate gather remove industry morning become romance kiss
+  deliver topic
+bip_39_word_space_12: empty donate gather remove industry morning become romance kiss
+  deliver topic afraid
+bip_39_word_space_2: empty donate
+bip_39_word_space_3: empty donate gather
+bip_39_word_space_4: empty donate gather remove
+bip_39_word_space_5: empty donate gather remove industry
+bip_39_word_space_6: empty donate gather remove industry morning
+bip_39_word_space_7: empty donate gather remove industry morning become
+bip_39_word_space_8: empty donate gather remove industry morning become romance
+bip_39_word_space_9: empty donate gather remove industry morning become romance kiss
+bip_39_word_underscore_1: empty
+bip_39_word_underscore_10: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver
+bip_39_word_underscore_11: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver_topic
+bip_39_word_underscore_12: empty_donate_gather_remove_industry_morning_become_romance_kiss_deliver_topic_afraid
+bip_39_word_underscore_2: empty_donate
+bip_39_word_underscore_3: empty_donate_gather
+bip_39_word_underscore_4: empty_donate_gather_remove
+bip_39_word_underscore_5: empty_donate_gather_remove_industry
+bip_39_word_underscore_6: empty_donate_gather_remove_industry_morning
+bip_39_word_underscore_7: empty_donate_gather_remove_industry_morning_become
+bip_39_word_underscore_8: empty_donate_gather_remove_industry_morning_become_romance
+bip_39_word_underscore_9: empty_donate_gather_remove_industry_morning_become_romance_kiss
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_11_13_60
 id_no_color: '111360'
 id_no_size: '11_13_60'
 id_no_type: tray_11_13_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_13_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_13_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_13_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202vnda
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202vnda
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202vnda
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111360'
 name_no_size: 11 13 60
 name_no_size_short: 11 13 60
 name_no_type: Tray 11 13 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_13_60
 oomp_word: hatching_chick cherries cupid
 oomp_word_emoji: ':hatching_chick: :cherries: :cupid:'

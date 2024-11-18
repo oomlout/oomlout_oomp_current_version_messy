@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Ibbc 0001
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_ibbc_0001
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :boot: :sandal: :apple:
 * md5_6_alpha: 6p4nc
 * md5_6: aba9c8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206p4nc)
+[2x1](http://192.168.1.242:1112/?label=oomp%206p4nc)
+[6x4](http://192.168.1.55:1112/?label=oomp%206p4nc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_ibbc_0001)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ diesel |
 | id_no_color | ibbc_0001 |  
 | id_no_size | ibbc_0001 |  
 | id_no_type | oomlout_ibbc_0001 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_ibbc_0001 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_ibbc_0001 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206p4nc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206p4nc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206p4nc |  
 | link_redirect | https://github.com/oomlout/IBBC_0001 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ diesel |
 | name_no_size | Ibbc 0001 |  
 | name_no_size_short | Ibbc 0001 |  
 | name_no_type | Oomlout Ibbc 0001 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_ibbc_0001 |  
 | oomp_word | boot sandal apple |  
 | oomp_word_emoji | :boot: :sandal: :apple: |  

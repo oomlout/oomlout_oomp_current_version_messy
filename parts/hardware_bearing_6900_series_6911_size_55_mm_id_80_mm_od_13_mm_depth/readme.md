@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6911 Size 55 mm ID 80 mm OD 13 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6911_size_55_mm_id_80_mm_od_13_mm_depth
   * classification: hardware

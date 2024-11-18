@@ -1,3 +1,222 @@
+bip_39_word_dash_1: setup
+bip_39_word_dash_10: setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed
+bip_39_word_dash_11: setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed-north
+bip_39_word_dash_12: setup-symbol-reflect-impose-gap-rookie-goddess-logic-head-shed-north-aspect
+bip_39_word_dash_2: setup-symbol
+bip_39_word_dash_3: setup-symbol-reflect
+bip_39_word_dash_4: setup-symbol-reflect-impose
+bip_39_word_dash_5: setup-symbol-reflect-impose-gap
+bip_39_word_dash_6: setup-symbol-reflect-impose-gap-rookie
+bip_39_word_dash_7: setup-symbol-reflect-impose-gap-rookie-goddess
+bip_39_word_dash_8: setup-symbol-reflect-impose-gap-rookie-goddess-logic
+bip_39_word_dash_9: setup-symbol-reflect-impose-gap-rookie-goddess-logic-head
+bip_39_word_new_br_1: setup
+bip_39_word_new_br_10: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed
+bip_39_word_new_br_11: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed<br>north
+bip_39_word_new_br_12: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head<br>shed<br>north<br>aspect
+bip_39_word_new_br_2: setup<br>symbol
+bip_39_word_new_br_3: setup<br>symbol<br>reflect
+bip_39_word_new_br_4: setup<br>symbol<br>reflect<br>impose
+bip_39_word_new_br_5: setup<br>symbol<br>reflect<br>impose<br>gap
+bip_39_word_new_br_6: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie
+bip_39_word_new_br_7: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess
+bip_39_word_new_br_8: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic
+bip_39_word_new_br_9: setup<br>symbol<br>reflect<br>impose<br>gap<br>rookie<br>goddess<br>logic<br>head
+bip_39_word_new_line_1: setup
+bip_39_word_new_line_10: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess
+
+  logic
+
+  head
+
+  shed'
+bip_39_word_new_line_11: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess
+
+  logic
+
+  head
+
+  shed
+
+  north'
+bip_39_word_new_line_12: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess
+
+  logic
+
+  head
+
+  shed
+
+  north
+
+  aspect'
+bip_39_word_new_line_2: 'setup
+
+  symbol'
+bip_39_word_new_line_3: 'setup
+
+  symbol
+
+  reflect'
+bip_39_word_new_line_4: 'setup
+
+  symbol
+
+  reflect
+
+  impose'
+bip_39_word_new_line_5: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap'
+bip_39_word_new_line_6: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie'
+bip_39_word_new_line_7: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess'
+bip_39_word_new_line_8: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess
+
+  logic'
+bip_39_word_new_line_9: 'setup
+
+  symbol
+
+  reflect
+
+  impose
+
+  gap
+
+  rookie
+
+  goddess
+
+  logic
+
+  head'
+bip_39_word_no_space_1: setup
+bip_39_word_no_space_10: setupsymbolreflectimposegaprookiegoddesslogicheadshed
+bip_39_word_no_space_11: setupsymbolreflectimposegaprookiegoddesslogicheadshednorth
+bip_39_word_no_space_12: setupsymbolreflectimposegaprookiegoddesslogicheadshednorthaspect
+bip_39_word_no_space_2: setupsymbol
+bip_39_word_no_space_3: setupsymbolreflect
+bip_39_word_no_space_4: setupsymbolreflectimpose
+bip_39_word_no_space_5: setupsymbolreflectimposegap
+bip_39_word_no_space_6: setupsymbolreflectimposegaprookie
+bip_39_word_no_space_7: setupsymbolreflectimposegaprookiegoddess
+bip_39_word_no_space_8: setupsymbolreflectimposegaprookiegoddesslogic
+bip_39_word_no_space_9: setupsymbolreflectimposegaprookiegoddesslogichead
+bip_39_word_space_0:
+- setup
+- symbol
+- reflect
+- impose
+- gap
+- rookie
+- goddess
+- logic
+- head
+- shed
+- north
+- aspect
+bip_39_word_space_1: setup
+bip_39_word_space_10: setup symbol reflect impose gap rookie goddess logic head shed
+bip_39_word_space_11: setup symbol reflect impose gap rookie goddess logic head shed
+  north
+bip_39_word_space_12: setup symbol reflect impose gap rookie goddess logic head shed
+  north aspect
+bip_39_word_space_2: setup symbol
+bip_39_word_space_3: setup symbol reflect
+bip_39_word_space_4: setup symbol reflect impose
+bip_39_word_space_5: setup symbol reflect impose gap
+bip_39_word_space_6: setup symbol reflect impose gap rookie
+bip_39_word_space_7: setup symbol reflect impose gap rookie goddess
+bip_39_word_space_8: setup symbol reflect impose gap rookie goddess logic
+bip_39_word_space_9: setup symbol reflect impose gap rookie goddess logic head
+bip_39_word_underscore_1: setup
+bip_39_word_underscore_10: setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed
+bip_39_word_underscore_11: setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed_north
+bip_39_word_underscore_12: setup_symbol_reflect_impose_gap_rookie_goddess_logic_head_shed_north_aspect
+bip_39_word_underscore_2: setup_symbol
+bip_39_word_underscore_3: setup_symbol_reflect
+bip_39_word_underscore_4: setup_symbol_reflect_impose
+bip_39_word_underscore_5: setup_symbol_reflect_impose_gap
+bip_39_word_underscore_6: setup_symbol_reflect_impose_gap_rookie
+bip_39_word_underscore_7: setup_symbol_reflect_impose_gap_rookie_goddess
+bip_39_word_underscore_8: setup_symbol_reflect_impose_gap_rookie_goddess_logic
+bip_39_word_underscore_9: setup_symbol_reflect_impose_gap_rookie_goddess_logic_head
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_04_12
 id_no_color: '030412'
 id_no_size: '03_04_12'
 id_no_type: tray_03_04_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_04_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_04_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_04_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208e8xd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208e8xd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208e8xd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030412'
 name_no_size: 03 04 12
 name_no_size_short: 03 04 12
 name_no_type: Tray 03 04 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_04_12
 oomp_word: office snowflake briefcase
 oomp_word_emoji: ':office: :snowflake: :briefcase:'

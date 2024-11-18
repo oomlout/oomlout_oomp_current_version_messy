@@ -16,5 +16,6 @@
   * [label_serial](label/label_serial)
 * [tdpb](tdpb)
   * [spacer](tdpb/spacer)
+    * [box_of_6](tdpb/spacer/box_of_6)
   * [tray42d518](tdpb/tray42d518)
     * [box_of_35](tdpb/tray42d518/box_of_35)

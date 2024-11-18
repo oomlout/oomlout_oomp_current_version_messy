@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Electronic Image
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_electronic_image
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :strawberry: :radio: :chestnut:
 * md5_6_alpha: 80o6j
 * md5_6: cd826b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2080o6j)
+[2x1](http://192.168.1.242:1112/?label=oomp%2080o6j)
+[6x4](http://192.168.1.55:1112/?label=oomp%2080o6j)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_image) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_electronic_image)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ art |
 | id_no_color | oomp_base_electronic_image |  
 | id_no_size | oomp_base_electronic_image |  
 | id_no_type | oomlout_oomp_base_electronic_image |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_image |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_electronic_image |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_electronic_image |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2080o6j |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2080o6j |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2080o6j |  
 | link_redirect | https://github.com/oomlout/oomp_base_electronic_image |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ art |
 | name_no_size | Oomp Base Electronic Image |  
 | name_no_size_short | Oomp Base Electronic Image |  
 | name_no_type | Oomlout Oomp Base Electronic Image |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_electronic_image |  
 | oomp_word | strawberry radio chestnut |  
 | oomp_word_emoji | :strawberry: :radio: :chestnut: |  

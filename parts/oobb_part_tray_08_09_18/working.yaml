@@ -1,3 +1,222 @@
+bip_39_word_dash_1: honey
+bip_39_word_dash_10: honey-sauce-hazard-junior-own-critic-original-quote-unable-firm
+bip_39_word_dash_11: honey-sauce-hazard-junior-own-critic-original-quote-unable-firm-wood
+bip_39_word_dash_12: honey-sauce-hazard-junior-own-critic-original-quote-unable-firm-wood-accident
+bip_39_word_dash_2: honey-sauce
+bip_39_word_dash_3: honey-sauce-hazard
+bip_39_word_dash_4: honey-sauce-hazard-junior
+bip_39_word_dash_5: honey-sauce-hazard-junior-own
+bip_39_word_dash_6: honey-sauce-hazard-junior-own-critic
+bip_39_word_dash_7: honey-sauce-hazard-junior-own-critic-original
+bip_39_word_dash_8: honey-sauce-hazard-junior-own-critic-original-quote
+bip_39_word_dash_9: honey-sauce-hazard-junior-own-critic-original-quote-unable
+bip_39_word_new_br_1: honey
+bip_39_word_new_br_10: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm
+bip_39_word_new_br_11: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm<br>wood
+bip_39_word_new_br_12: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable<br>firm<br>wood<br>accident
+bip_39_word_new_br_2: honey<br>sauce
+bip_39_word_new_br_3: honey<br>sauce<br>hazard
+bip_39_word_new_br_4: honey<br>sauce<br>hazard<br>junior
+bip_39_word_new_br_5: honey<br>sauce<br>hazard<br>junior<br>own
+bip_39_word_new_br_6: honey<br>sauce<br>hazard<br>junior<br>own<br>critic
+bip_39_word_new_br_7: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original
+bip_39_word_new_br_8: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote
+bip_39_word_new_br_9: honey<br>sauce<br>hazard<br>junior<br>own<br>critic<br>original<br>quote<br>unable
+bip_39_word_new_line_1: honey
+bip_39_word_new_line_10: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm'
+bip_39_word_new_line_11: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm
+
+  wood'
+bip_39_word_new_line_12: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable
+
+  firm
+
+  wood
+
+  accident'
+bip_39_word_new_line_2: 'honey
+
+  sauce'
+bip_39_word_new_line_3: 'honey
+
+  sauce
+
+  hazard'
+bip_39_word_new_line_4: 'honey
+
+  sauce
+
+  hazard
+
+  junior'
+bip_39_word_new_line_5: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own'
+bip_39_word_new_line_6: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic'
+bip_39_word_new_line_7: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original'
+bip_39_word_new_line_8: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote'
+bip_39_word_new_line_9: 'honey
+
+  sauce
+
+  hazard
+
+  junior
+
+  own
+
+  critic
+
+  original
+
+  quote
+
+  unable'
+bip_39_word_no_space_1: honey
+bip_39_word_no_space_10: honeysaucehazardjuniorowncriticoriginalquoteunablefirm
+bip_39_word_no_space_11: honeysaucehazardjuniorowncriticoriginalquoteunablefirmwood
+bip_39_word_no_space_12: honeysaucehazardjuniorowncriticoriginalquoteunablefirmwoodaccident
+bip_39_word_no_space_2: honeysauce
+bip_39_word_no_space_3: honeysaucehazard
+bip_39_word_no_space_4: honeysaucehazardjunior
+bip_39_word_no_space_5: honeysaucehazardjuniorown
+bip_39_word_no_space_6: honeysaucehazardjuniorowncritic
+bip_39_word_no_space_7: honeysaucehazardjuniorowncriticoriginal
+bip_39_word_no_space_8: honeysaucehazardjuniorowncriticoriginalquote
+bip_39_word_no_space_9: honeysaucehazardjuniorowncriticoriginalquoteunable
+bip_39_word_space_0:
+- honey
+- sauce
+- hazard
+- junior
+- own
+- critic
+- original
+- quote
+- unable
+- firm
+- wood
+- accident
+bip_39_word_space_1: honey
+bip_39_word_space_10: honey sauce hazard junior own critic original quote unable firm
+bip_39_word_space_11: honey sauce hazard junior own critic original quote unable firm
+  wood
+bip_39_word_space_12: honey sauce hazard junior own critic original quote unable firm
+  wood accident
+bip_39_word_space_2: honey sauce
+bip_39_word_space_3: honey sauce hazard
+bip_39_word_space_4: honey sauce hazard junior
+bip_39_word_space_5: honey sauce hazard junior own
+bip_39_word_space_6: honey sauce hazard junior own critic
+bip_39_word_space_7: honey sauce hazard junior own critic original
+bip_39_word_space_8: honey sauce hazard junior own critic original quote
+bip_39_word_space_9: honey sauce hazard junior own critic original quote unable
+bip_39_word_underscore_1: honey
+bip_39_word_underscore_10: honey_sauce_hazard_junior_own_critic_original_quote_unable_firm
+bip_39_word_underscore_11: honey_sauce_hazard_junior_own_critic_original_quote_unable_firm_wood
+bip_39_word_underscore_12: honey_sauce_hazard_junior_own_critic_original_quote_unable_firm_wood_accident
+bip_39_word_underscore_2: honey_sauce
+bip_39_word_underscore_3: honey_sauce_hazard
+bip_39_word_underscore_4: honey_sauce_hazard_junior
+bip_39_word_underscore_5: honey_sauce_hazard_junior_own
+bip_39_word_underscore_6: honey_sauce_hazard_junior_own_critic
+bip_39_word_underscore_7: honey_sauce_hazard_junior_own_critic_original
+bip_39_word_underscore_8: honey_sauce_hazard_junior_own_critic_original_quote
+bip_39_word_underscore_9: honey_sauce_hazard_junior_own_critic_original_quote_unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_09_18
 id_no_color: 080918
 id_no_size: 08_09_18
 id_no_type: tray_08_09_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_09_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20xoid
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20xoid
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20xoid
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080918
 name_no_size: 08 09 18
 name_no_size_short: 08 09 18
 name_no_type: Tray 08 09 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_09_18
 oomp_word: thumbsdown nine dolphin
 oomp_word_emoji: ':thumbsdown: :nine: :dolphin:'

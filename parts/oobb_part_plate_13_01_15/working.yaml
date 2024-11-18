@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hungry
+bip_39_word_dash_10: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near
+bip_39_word_dash_11: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near-refuse
+bip_39_word_dash_12: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue-near-refuse-action
+bip_39_word_dash_2: hungry-can
+bip_39_word_dash_3: hungry-can-fault
+bip_39_word_dash_4: hungry-can-fault-kingdom
+bip_39_word_dash_5: hungry-can-fault-kingdom-aspect
+bip_39_word_dash_6: hungry-can-fault-kingdom-aspect-voyage
+bip_39_word_dash_7: hungry-can-fault-kingdom-aspect-voyage-mosquito
+bip_39_word_dash_8: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement
+bip_39_word_dash_9: hungry-can-fault-kingdom-aspect-voyage-mosquito-cement-tissue
+bip_39_word_new_br_1: hungry
+bip_39_word_new_br_10: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue<br>near
+bip_39_word_new_br_11: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue<br>near<br>refuse
+bip_39_word_new_br_12: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue<br>near<br>refuse<br>action
+bip_39_word_new_br_2: hungry<br>can
+bip_39_word_new_br_3: hungry<br>can<br>fault
+bip_39_word_new_br_4: hungry<br>can<br>fault<br>kingdom
+bip_39_word_new_br_5: hungry<br>can<br>fault<br>kingdom<br>aspect
+bip_39_word_new_br_6: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage
+bip_39_word_new_br_7: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito
+bip_39_word_new_br_8: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement
+bip_39_word_new_br_9: hungry<br>can<br>fault<br>kingdom<br>aspect<br>voyage<br>mosquito<br>cement<br>tissue
+bip_39_word_new_line_1: hungry
+bip_39_word_new_line_10: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito
+
+  cement
+
+  tissue
+
+  near'
+bip_39_word_new_line_11: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito
+
+  cement
+
+  tissue
+
+  near
+
+  refuse'
+bip_39_word_new_line_12: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito
+
+  cement
+
+  tissue
+
+  near
+
+  refuse
+
+  action'
+bip_39_word_new_line_2: 'hungry
+
+  can'
+bip_39_word_new_line_3: 'hungry
+
+  can
+
+  fault'
+bip_39_word_new_line_4: 'hungry
+
+  can
+
+  fault
+
+  kingdom'
+bip_39_word_new_line_5: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect'
+bip_39_word_new_line_6: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage'
+bip_39_word_new_line_7: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito'
+bip_39_word_new_line_8: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito
+
+  cement'
+bip_39_word_new_line_9: 'hungry
+
+  can
+
+  fault
+
+  kingdom
+
+  aspect
+
+  voyage
+
+  mosquito
+
+  cement
+
+  tissue'
+bip_39_word_no_space_1: hungry
+bip_39_word_no_space_10: hungrycanfaultkingdomaspectvoyagemosquitocementtissuenear
+bip_39_word_no_space_11: hungrycanfaultkingdomaspectvoyagemosquitocementtissuenearrefuse
+bip_39_word_no_space_12: hungrycanfaultkingdomaspectvoyagemosquitocementtissuenearrefuseaction
+bip_39_word_no_space_2: hungrycan
+bip_39_word_no_space_3: hungrycanfault
+bip_39_word_no_space_4: hungrycanfaultkingdom
+bip_39_word_no_space_5: hungrycanfaultkingdomaspect
+bip_39_word_no_space_6: hungrycanfaultkingdomaspectvoyage
+bip_39_word_no_space_7: hungrycanfaultkingdomaspectvoyagemosquito
+bip_39_word_no_space_8: hungrycanfaultkingdomaspectvoyagemosquitocement
+bip_39_word_no_space_9: hungrycanfaultkingdomaspectvoyagemosquitocementtissue
+bip_39_word_space_0:
+- hungry
+- can
+- fault
+- kingdom
+- aspect
+- voyage
+- mosquito
+- cement
+- tissue
+- near
+- refuse
+- action
+bip_39_word_space_1: hungry
+bip_39_word_space_10: hungry can fault kingdom aspect voyage mosquito cement tissue
+  near
+bip_39_word_space_11: hungry can fault kingdom aspect voyage mosquito cement tissue
+  near refuse
+bip_39_word_space_12: hungry can fault kingdom aspect voyage mosquito cement tissue
+  near refuse action
+bip_39_word_space_2: hungry can
+bip_39_word_space_3: hungry can fault
+bip_39_word_space_4: hungry can fault kingdom
+bip_39_word_space_5: hungry can fault kingdom aspect
+bip_39_word_space_6: hungry can fault kingdom aspect voyage
+bip_39_word_space_7: hungry can fault kingdom aspect voyage mosquito
+bip_39_word_space_8: hungry can fault kingdom aspect voyage mosquito cement
+bip_39_word_space_9: hungry can fault kingdom aspect voyage mosquito cement tissue
+bip_39_word_underscore_1: hungry
+bip_39_word_underscore_10: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near
+bip_39_word_underscore_11: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near_refuse
+bip_39_word_underscore_12: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue_near_refuse_action
+bip_39_word_underscore_2: hungry_can
+bip_39_word_underscore_3: hungry_can_fault
+bip_39_word_underscore_4: hungry_can_fault_kingdom
+bip_39_word_underscore_5: hungry_can_fault_kingdom_aspect
+bip_39_word_underscore_6: hungry_can_fault_kingdom_aspect_voyage
+bip_39_word_underscore_7: hungry_can_fault_kingdom_aspect_voyage_mosquito
+bip_39_word_underscore_8: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement
+bip_39_word_underscore_9: hungry_can_fault_kingdom_aspect_voyage_mosquito_cement_tissue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_13_01_15
 id_no_color: '130115'
 id_no_size: '13_01_15'
 id_no_type: plate_13_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_13_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_13_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_13_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201m604
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201m604
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201m604
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '130115'
 name_no_size: 13 01 15
 name_no_size_short: 13 01 15
 name_no_type: Plate 13 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_13_01_15
 oomp_word: sunny mushroom anchor
 oomp_word_emoji: ':sunny: :mushroom: :anchor:'

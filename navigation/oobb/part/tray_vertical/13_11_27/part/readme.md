@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 13 11 27
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_13_11_27
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sparkles: :shell: :tent:
 * md5_6_alpha: lo7v
 * md5_6: 0f6ddb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20lo7v)
+[2x1](http://192.168.1.242:1112/?label=oomp%20lo7v)
+[6x4](http://192.168.1.55:1112/?label=oomp%20lo7v)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_13_11_27) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_11_27)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ young |
 | id_no_color | 131127 |  
 | id_no_size | 13_11_27 |  
 | id_no_type | tray_vertical_13_11_27 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_13_11_27 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_13_11_27 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_13_11_27 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20lo7v |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20lo7v |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20lo7v |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ young |
 | name_no_size | 13 11 27 |  
 | name_no_size_short | 13 11 27 |  
 | name_no_type | Tray Vertical 13 11 27 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_13_11_27 |  
 | oomp_word | sparkles shell tent |  
 | oomp_word_emoji | :sparkles: :shell: :tent: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electrical Light Fixing Hardware Hook 68 mm Width
+* name_short: 
 ### id
 * oomp_id: electrical_light_fixing_hardware_hook_68_mm_width
   * classification: electrical

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 oats_porridge
 
+### name
+* name: Food Starch Oats Porridge
+* name_short: Oats Porridge
 ### id
 * oomp_id: food_starch_oats_porridge
   * classification: food

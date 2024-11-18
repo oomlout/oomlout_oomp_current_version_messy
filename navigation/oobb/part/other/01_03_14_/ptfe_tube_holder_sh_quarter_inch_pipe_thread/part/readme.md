@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 01 03 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :herb: :baby_chick: :wink:
 * md5_6_alpha: 412is
 * md5_6: 674704
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20412is)
+[2x1](http://192.168.1.242:1112/?label=oomp%20412is)
+[6x4](http://192.168.1.55:1112/?label=oomp%20412is)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ pipe |
 | id_no_color | 010314ptfetubeholdershquarterinchpipethread |  
 | id_no_size | 01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
 | id_no_type | other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20412is |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20412is |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20412is |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ pipe |
 | name_no_size | 01 03 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread |  
 | name_no_size_short | 01 03 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread |  
 | name_no_type | Other 01 03 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread |  
 | oomp_word | herb baby_chick wink |  
 | oomp_word_emoji | :herb: :baby_chick: :wink: |  

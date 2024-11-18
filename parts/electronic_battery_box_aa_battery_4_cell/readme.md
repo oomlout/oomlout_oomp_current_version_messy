@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Battery Box Aa Battery 4 Cell
+* name_short: 
 ### id
 * oomp_id: electronic_battery_box_aa_battery_4_cell
   * classification: electronic

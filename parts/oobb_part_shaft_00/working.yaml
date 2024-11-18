@@ -1,3 +1,222 @@
+bip_39_word_dash_1: word
+bip_39_word_dash_10: word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial
+bip_39_word_dash_11: word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial-flame
+bip_39_word_dash_12: word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy-initial-flame-add
+bip_39_word_dash_2: word-fortune
+bip_39_word_dash_3: word-fortune-eyebrow
+bip_39_word_dash_4: word-fortune-eyebrow-dentist
+bip_39_word_dash_5: word-fortune-eyebrow-dentist-check
+bip_39_word_dash_6: word-fortune-eyebrow-dentist-check-where
+bip_39_word_dash_7: word-fortune-eyebrow-dentist-check-where-edit
+bip_39_word_dash_8: word-fortune-eyebrow-dentist-check-where-edit-dish
+bip_39_word_dash_9: word-fortune-eyebrow-dentist-check-where-edit-dish-satisfy
+bip_39_word_new_br_1: word
+bip_39_word_new_br_10: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial
+bip_39_word_new_br_11: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial<br>flame
+bip_39_word_new_br_12: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy<br>initial<br>flame<br>add
+bip_39_word_new_br_2: word<br>fortune
+bip_39_word_new_br_3: word<br>fortune<br>eyebrow
+bip_39_word_new_br_4: word<br>fortune<br>eyebrow<br>dentist
+bip_39_word_new_br_5: word<br>fortune<br>eyebrow<br>dentist<br>check
+bip_39_word_new_br_6: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where
+bip_39_word_new_br_7: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit
+bip_39_word_new_br_8: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish
+bip_39_word_new_br_9: word<br>fortune<br>eyebrow<br>dentist<br>check<br>where<br>edit<br>dish<br>satisfy
+bip_39_word_new_line_1: word
+bip_39_word_new_line_10: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit
+
+  dish
+
+  satisfy
+
+  initial'
+bip_39_word_new_line_11: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit
+
+  dish
+
+  satisfy
+
+  initial
+
+  flame'
+bip_39_word_new_line_12: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit
+
+  dish
+
+  satisfy
+
+  initial
+
+  flame
+
+  add'
+bip_39_word_new_line_2: 'word
+
+  fortune'
+bip_39_word_new_line_3: 'word
+
+  fortune
+
+  eyebrow'
+bip_39_word_new_line_4: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist'
+bip_39_word_new_line_5: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check'
+bip_39_word_new_line_6: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where'
+bip_39_word_new_line_7: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit'
+bip_39_word_new_line_8: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit
+
+  dish'
+bip_39_word_new_line_9: 'word
+
+  fortune
+
+  eyebrow
+
+  dentist
+
+  check
+
+  where
+
+  edit
+
+  dish
+
+  satisfy'
+bip_39_word_no_space_1: word
+bip_39_word_no_space_10: wordfortuneeyebrowdentistcheckwhereeditdishsatisfyinitial
+bip_39_word_no_space_11: wordfortuneeyebrowdentistcheckwhereeditdishsatisfyinitialflame
+bip_39_word_no_space_12: wordfortuneeyebrowdentistcheckwhereeditdishsatisfyinitialflameadd
+bip_39_word_no_space_2: wordfortune
+bip_39_word_no_space_3: wordfortuneeyebrow
+bip_39_word_no_space_4: wordfortuneeyebrowdentist
+bip_39_word_no_space_5: wordfortuneeyebrowdentistcheck
+bip_39_word_no_space_6: wordfortuneeyebrowdentistcheckwhere
+bip_39_word_no_space_7: wordfortuneeyebrowdentistcheckwhereedit
+bip_39_word_no_space_8: wordfortuneeyebrowdentistcheckwhereeditdish
+bip_39_word_no_space_9: wordfortuneeyebrowdentistcheckwhereeditdishsatisfy
+bip_39_word_space_0:
+- word
+- fortune
+- eyebrow
+- dentist
+- check
+- where
+- edit
+- dish
+- satisfy
+- initial
+- flame
+- add
+bip_39_word_space_1: word
+bip_39_word_space_10: word fortune eyebrow dentist check where edit dish satisfy initial
+bip_39_word_space_11: word fortune eyebrow dentist check where edit dish satisfy initial
+  flame
+bip_39_word_space_12: word fortune eyebrow dentist check where edit dish satisfy initial
+  flame add
+bip_39_word_space_2: word fortune
+bip_39_word_space_3: word fortune eyebrow
+bip_39_word_space_4: word fortune eyebrow dentist
+bip_39_word_space_5: word fortune eyebrow dentist check
+bip_39_word_space_6: word fortune eyebrow dentist check where
+bip_39_word_space_7: word fortune eyebrow dentist check where edit
+bip_39_word_space_8: word fortune eyebrow dentist check where edit dish
+bip_39_word_space_9: word fortune eyebrow dentist check where edit dish satisfy
+bip_39_word_underscore_1: word
+bip_39_word_underscore_10: word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial
+bip_39_word_underscore_11: word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial_flame
+bip_39_word_underscore_12: word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy_initial_flame_add
+bip_39_word_underscore_2: word_fortune
+bip_39_word_underscore_3: word_fortune_eyebrow
+bip_39_word_underscore_4: word_fortune_eyebrow_dentist
+bip_39_word_underscore_5: word_fortune_eyebrow_dentist_check
+bip_39_word_underscore_6: word_fortune_eyebrow_dentist_check_where
+bip_39_word_underscore_7: word_fortune_eyebrow_dentist_check_where_edit
+bip_39_word_underscore_8: word_fortune_eyebrow_dentist_check_where_edit_dish
+bip_39_word_underscore_9: word_fortune_eyebrow_dentist_check_where_edit_dish_satisfy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_shaft_00
 id_no_color: '00'
 id_no_size: '00'
 id_no_type: shaft_00
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201z7a4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201z7a4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201z7a4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '00'
 name_no_size: '00'
 name_no_size_short: '00'
 name_no_type: Shaft 00
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_00
 oomp_word: cat crown spades
 oomp_word_emoji: ':cat: :crown: :spades:'

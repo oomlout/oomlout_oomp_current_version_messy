@@ -1,3 +1,221 @@
+bip_39_word_dash_1: clump
+bip_39_word_dash_10: clump-add-risk-level-innocent-sort-dune-allow-organ-pony
+bip_39_word_dash_11: clump-add-risk-level-innocent-sort-dune-allow-organ-pony-sing
+bip_39_word_dash_12: clump-add-risk-level-innocent-sort-dune-allow-organ-pony-sing-anchor
+bip_39_word_dash_2: clump-add
+bip_39_word_dash_3: clump-add-risk
+bip_39_word_dash_4: clump-add-risk-level
+bip_39_word_dash_5: clump-add-risk-level-innocent
+bip_39_word_dash_6: clump-add-risk-level-innocent-sort
+bip_39_word_dash_7: clump-add-risk-level-innocent-sort-dune
+bip_39_word_dash_8: clump-add-risk-level-innocent-sort-dune-allow
+bip_39_word_dash_9: clump-add-risk-level-innocent-sort-dune-allow-organ
+bip_39_word_new_br_1: clump
+bip_39_word_new_br_10: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony
+bip_39_word_new_br_11: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony<br>sing
+bip_39_word_new_br_12: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ<br>pony<br>sing<br>anchor
+bip_39_word_new_br_2: clump<br>add
+bip_39_word_new_br_3: clump<br>add<br>risk
+bip_39_word_new_br_4: clump<br>add<br>risk<br>level
+bip_39_word_new_br_5: clump<br>add<br>risk<br>level<br>innocent
+bip_39_word_new_br_6: clump<br>add<br>risk<br>level<br>innocent<br>sort
+bip_39_word_new_br_7: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune
+bip_39_word_new_br_8: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow
+bip_39_word_new_br_9: clump<br>add<br>risk<br>level<br>innocent<br>sort<br>dune<br>allow<br>organ
+bip_39_word_new_line_1: clump
+bip_39_word_new_line_10: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune
+
+  allow
+
+  organ
+
+  pony'
+bip_39_word_new_line_11: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune
+
+  allow
+
+  organ
+
+  pony
+
+  sing'
+bip_39_word_new_line_12: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune
+
+  allow
+
+  organ
+
+  pony
+
+  sing
+
+  anchor'
+bip_39_word_new_line_2: 'clump
+
+  add'
+bip_39_word_new_line_3: 'clump
+
+  add
+
+  risk'
+bip_39_word_new_line_4: 'clump
+
+  add
+
+  risk
+
+  level'
+bip_39_word_new_line_5: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent'
+bip_39_word_new_line_6: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort'
+bip_39_word_new_line_7: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune'
+bip_39_word_new_line_8: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune
+
+  allow'
+bip_39_word_new_line_9: 'clump
+
+  add
+
+  risk
+
+  level
+
+  innocent
+
+  sort
+
+  dune
+
+  allow
+
+  organ'
+bip_39_word_no_space_1: clump
+bip_39_word_no_space_10: clumpaddrisklevelinnocentsortdunealloworganpony
+bip_39_word_no_space_11: clumpaddrisklevelinnocentsortdunealloworganponysing
+bip_39_word_no_space_12: clumpaddrisklevelinnocentsortdunealloworganponysinganchor
+bip_39_word_no_space_2: clumpadd
+bip_39_word_no_space_3: clumpaddrisk
+bip_39_word_no_space_4: clumpaddrisklevel
+bip_39_word_no_space_5: clumpaddrisklevelinnocent
+bip_39_word_no_space_6: clumpaddrisklevelinnocentsort
+bip_39_word_no_space_7: clumpaddrisklevelinnocentsortdune
+bip_39_word_no_space_8: clumpaddrisklevelinnocentsortduneallow
+bip_39_word_no_space_9: clumpaddrisklevelinnocentsortdunealloworgan
+bip_39_word_space_0:
+- clump
+- add
+- risk
+- level
+- innocent
+- sort
+- dune
+- allow
+- organ
+- pony
+- sing
+- anchor
+bip_39_word_space_1: clump
+bip_39_word_space_10: clump add risk level innocent sort dune allow organ pony
+bip_39_word_space_11: clump add risk level innocent sort dune allow organ pony sing
+bip_39_word_space_12: clump add risk level innocent sort dune allow organ pony sing
+  anchor
+bip_39_word_space_2: clump add
+bip_39_word_space_3: clump add risk
+bip_39_word_space_4: clump add risk level
+bip_39_word_space_5: clump add risk level innocent
+bip_39_word_space_6: clump add risk level innocent sort
+bip_39_word_space_7: clump add risk level innocent sort dune
+bip_39_word_space_8: clump add risk level innocent sort dune allow
+bip_39_word_space_9: clump add risk level innocent sort dune allow organ
+bip_39_word_underscore_1: clump
+bip_39_word_underscore_10: clump_add_risk_level_innocent_sort_dune_allow_organ_pony
+bip_39_word_underscore_11: clump_add_risk_level_innocent_sort_dune_allow_organ_pony_sing
+bip_39_word_underscore_12: clump_add_risk_level_innocent_sort_dune_allow_organ_pony_sing_anchor
+bip_39_word_underscore_2: clump_add
+bip_39_word_underscore_3: clump_add_risk
+bip_39_word_underscore_4: clump_add_risk_level
+bip_39_word_underscore_5: clump_add_risk_level_innocent
+bip_39_word_underscore_6: clump_add_risk_level_innocent_sort
+bip_39_word_underscore_7: clump_add_risk_level_innocent_sort_dune
+bip_39_word_underscore_8: clump_add_risk_level_innocent_sort_dune_allow
+bip_39_word_underscore_9: clump_add_risk_level_innocent_sort_dune_allow_organ
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_13_14_90
 id_no_color: '131490'
 id_no_size: '13_14_90'
 id_no_type: tray_13_14_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_14_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_13_14_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_14_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205afmx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205afmx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205afmx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '131490'
 name_no_size: 13 14 90
 name_no_size_short: 13 14 90
 name_no_type: Tray 13 14 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_13_14_90
 oomp_word: toilet paperclip sandal
 oomp_word_emoji: ':toilet: :paperclip: :sandal:'

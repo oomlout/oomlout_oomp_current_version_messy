@@ -1,3 +1,221 @@
+bip_39_word_dash_1: crisp
+bip_39_word_dash_10: crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid
+bip_39_word_dash_11: crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid-title
+bip_39_word_dash_12: crisp-say-motor-one-cluster-grid-glimpse-huge-hour-bid-title-achieve
+bip_39_word_dash_2: crisp-say
+bip_39_word_dash_3: crisp-say-motor
+bip_39_word_dash_4: crisp-say-motor-one
+bip_39_word_dash_5: crisp-say-motor-one-cluster
+bip_39_word_dash_6: crisp-say-motor-one-cluster-grid
+bip_39_word_dash_7: crisp-say-motor-one-cluster-grid-glimpse
+bip_39_word_dash_8: crisp-say-motor-one-cluster-grid-glimpse-huge
+bip_39_word_dash_9: crisp-say-motor-one-cluster-grid-glimpse-huge-hour
+bip_39_word_new_br_1: crisp
+bip_39_word_new_br_10: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid
+bip_39_word_new_br_11: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title
+bip_39_word_new_br_12: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour<br>bid<br>title<br>achieve
+bip_39_word_new_br_2: crisp<br>say
+bip_39_word_new_br_3: crisp<br>say<br>motor
+bip_39_word_new_br_4: crisp<br>say<br>motor<br>one
+bip_39_word_new_br_5: crisp<br>say<br>motor<br>one<br>cluster
+bip_39_word_new_br_6: crisp<br>say<br>motor<br>one<br>cluster<br>grid
+bip_39_word_new_br_7: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse
+bip_39_word_new_br_8: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge
+bip_39_word_new_br_9: crisp<br>say<br>motor<br>one<br>cluster<br>grid<br>glimpse<br>huge<br>hour
+bip_39_word_new_line_1: crisp
+bip_39_word_new_line_10: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid'
+bip_39_word_new_line_11: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid
+
+  title'
+bip_39_word_new_line_12: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour
+
+  bid
+
+  title
+
+  achieve'
+bip_39_word_new_line_2: 'crisp
+
+  say'
+bip_39_word_new_line_3: 'crisp
+
+  say
+
+  motor'
+bip_39_word_new_line_4: 'crisp
+
+  say
+
+  motor
+
+  one'
+bip_39_word_new_line_5: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster'
+bip_39_word_new_line_6: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid'
+bip_39_word_new_line_7: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse'
+bip_39_word_new_line_8: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge'
+bip_39_word_new_line_9: 'crisp
+
+  say
+
+  motor
+
+  one
+
+  cluster
+
+  grid
+
+  glimpse
+
+  huge
+
+  hour'
+bip_39_word_no_space_1: crisp
+bip_39_word_no_space_10: crispsaymotoroneclustergridglimpsehugehourbid
+bip_39_word_no_space_11: crispsaymotoroneclustergridglimpsehugehourbidtitle
+bip_39_word_no_space_12: crispsaymotoroneclustergridglimpsehugehourbidtitleachieve
+bip_39_word_no_space_2: crispsay
+bip_39_word_no_space_3: crispsaymotor
+bip_39_word_no_space_4: crispsaymotorone
+bip_39_word_no_space_5: crispsaymotoronecluster
+bip_39_word_no_space_6: crispsaymotoroneclustergrid
+bip_39_word_no_space_7: crispsaymotoroneclustergridglimpse
+bip_39_word_no_space_8: crispsaymotoroneclustergridglimpsehuge
+bip_39_word_no_space_9: crispsaymotoroneclustergridglimpsehugehour
+bip_39_word_space_0:
+- crisp
+- say
+- motor
+- one
+- cluster
+- grid
+- glimpse
+- huge
+- hour
+- bid
+- title
+- achieve
+bip_39_word_space_1: crisp
+bip_39_word_space_10: crisp say motor one cluster grid glimpse huge hour bid
+bip_39_word_space_11: crisp say motor one cluster grid glimpse huge hour bid title
+bip_39_word_space_12: crisp say motor one cluster grid glimpse huge hour bid title
+  achieve
+bip_39_word_space_2: crisp say
+bip_39_word_space_3: crisp say motor
+bip_39_word_space_4: crisp say motor one
+bip_39_word_space_5: crisp say motor one cluster
+bip_39_word_space_6: crisp say motor one cluster grid
+bip_39_word_space_7: crisp say motor one cluster grid glimpse
+bip_39_word_space_8: crisp say motor one cluster grid glimpse huge
+bip_39_word_space_9: crisp say motor one cluster grid glimpse huge hour
+bip_39_word_underscore_1: crisp
+bip_39_word_underscore_10: crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid
+bip_39_word_underscore_11: crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid_title
+bip_39_word_underscore_12: crisp_say_motor_one_cluster_grid_glimpse_huge_hour_bid_title_achieve
+bip_39_word_underscore_2: crisp_say
+bip_39_word_underscore_3: crisp_say_motor
+bip_39_word_underscore_4: crisp_say_motor_one
+bip_39_word_underscore_5: crisp_say_motor_one_cluster
+bip_39_word_underscore_6: crisp_say_motor_one_cluster_grid
+bip_39_word_underscore_7: crisp_say_motor_one_cluster_grid_glimpse
+bip_39_word_underscore_8: crisp_say_motor_one_cluster_grid_glimpse_huge
+bip_39_word_underscore_9: crisp_say_motor_one_cluster_grid_glimpse_huge_hour
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_1d5_01_15
 id_no_color: 1d50115
 id_no_size: 1d5_01_15
 id_no_type: tray_1d5_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015tj9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015tj9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015tj9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 1D50115
 name_no_size: 1D5 01 15
 name_no_size_short: 1D5 01 15
 name_no_type: Tray 1D5 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_01_15
 oomp_word: baby candy candy
 oomp_word_emoji: ':baby: :candy: :candy:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: resource
+bip_39_word_dash_10: resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct
+bip_39_word_dash_11: resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct-movie
+bip_39_word_dash_12: resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus-direct-movie-afraid
+bip_39_word_dash_2: resource-lucky
+bip_39_word_dash_3: resource-lucky-vapor
+bip_39_word_dash_4: resource-lucky-vapor-extend
+bip_39_word_dash_5: resource-lucky-vapor-extend-hill
+bip_39_word_dash_6: resource-lucky-vapor-extend-hill-toddler
+bip_39_word_dash_7: resource-lucky-vapor-extend-hill-toddler-dry
+bip_39_word_dash_8: resource-lucky-vapor-extend-hill-toddler-dry-lobster
+bip_39_word_dash_9: resource-lucky-vapor-extend-hill-toddler-dry-lobster-cactus
+bip_39_word_new_br_1: resource
+bip_39_word_new_br_10: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct
+bip_39_word_new_br_11: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct<br>movie
+bip_39_word_new_br_12: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus<br>direct<br>movie<br>afraid
+bip_39_word_new_br_2: resource<br>lucky
+bip_39_word_new_br_3: resource<br>lucky<br>vapor
+bip_39_word_new_br_4: resource<br>lucky<br>vapor<br>extend
+bip_39_word_new_br_5: resource<br>lucky<br>vapor<br>extend<br>hill
+bip_39_word_new_br_6: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler
+bip_39_word_new_br_7: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry
+bip_39_word_new_br_8: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster
+bip_39_word_new_br_9: resource<br>lucky<br>vapor<br>extend<br>hill<br>toddler<br>dry<br>lobster<br>cactus
+bip_39_word_new_line_1: resource
+bip_39_word_new_line_10: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry
+
+  lobster
+
+  cactus
+
+  direct'
+bip_39_word_new_line_11: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry
+
+  lobster
+
+  cactus
+
+  direct
+
+  movie'
+bip_39_word_new_line_12: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry
+
+  lobster
+
+  cactus
+
+  direct
+
+  movie
+
+  afraid'
+bip_39_word_new_line_2: 'resource
+
+  lucky'
+bip_39_word_new_line_3: 'resource
+
+  lucky
+
+  vapor'
+bip_39_word_new_line_4: 'resource
+
+  lucky
+
+  vapor
+
+  extend'
+bip_39_word_new_line_5: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill'
+bip_39_word_new_line_6: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler'
+bip_39_word_new_line_7: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry'
+bip_39_word_new_line_8: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry
+
+  lobster'
+bip_39_word_new_line_9: 'resource
+
+  lucky
+
+  vapor
+
+  extend
+
+  hill
+
+  toddler
+
+  dry
+
+  lobster
+
+  cactus'
+bip_39_word_no_space_1: resource
+bip_39_word_no_space_10: resourceluckyvaporextendhilltoddlerdrylobstercactusdirect
+bip_39_word_no_space_11: resourceluckyvaporextendhilltoddlerdrylobstercactusdirectmovie
+bip_39_word_no_space_12: resourceluckyvaporextendhilltoddlerdrylobstercactusdirectmovieafraid
+bip_39_word_no_space_2: resourcelucky
+bip_39_word_no_space_3: resourceluckyvapor
+bip_39_word_no_space_4: resourceluckyvaporextend
+bip_39_word_no_space_5: resourceluckyvaporextendhill
+bip_39_word_no_space_6: resourceluckyvaporextendhilltoddler
+bip_39_word_no_space_7: resourceluckyvaporextendhilltoddlerdry
+bip_39_word_no_space_8: resourceluckyvaporextendhilltoddlerdrylobster
+bip_39_word_no_space_9: resourceluckyvaporextendhilltoddlerdrylobstercactus
+bip_39_word_space_0:
+- resource
+- lucky
+- vapor
+- extend
+- hill
+- toddler
+- dry
+- lobster
+- cactus
+- direct
+- movie
+- afraid
+bip_39_word_space_1: resource
+bip_39_word_space_10: resource lucky vapor extend hill toddler dry lobster cactus
+  direct
+bip_39_word_space_11: resource lucky vapor extend hill toddler dry lobster cactus
+  direct movie
+bip_39_word_space_12: resource lucky vapor extend hill toddler dry lobster cactus
+  direct movie afraid
+bip_39_word_space_2: resource lucky
+bip_39_word_space_3: resource lucky vapor
+bip_39_word_space_4: resource lucky vapor extend
+bip_39_word_space_5: resource lucky vapor extend hill
+bip_39_word_space_6: resource lucky vapor extend hill toddler
+bip_39_word_space_7: resource lucky vapor extend hill toddler dry
+bip_39_word_space_8: resource lucky vapor extend hill toddler dry lobster
+bip_39_word_space_9: resource lucky vapor extend hill toddler dry lobster cactus
+bip_39_word_underscore_1: resource
+bip_39_word_underscore_10: resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct
+bip_39_word_underscore_11: resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct_movie
+bip_39_word_underscore_12: resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus_direct_movie_afraid
+bip_39_word_underscore_2: resource_lucky
+bip_39_word_underscore_3: resource_lucky_vapor
+bip_39_word_underscore_4: resource_lucky_vapor_extend
+bip_39_word_underscore_5: resource_lucky_vapor_extend_hill
+bip_39_word_underscore_6: resource_lucky_vapor_extend_hill_toddler
+bip_39_word_underscore_7: resource_lucky_vapor_extend_hill_toddler_dry
+bip_39_word_underscore_8: resource_lucky_vapor_extend_hill_toddler_dry_lobster
+bip_39_word_underscore_9: resource_lucky_vapor_extend_hill_toddler_dry_lobster_cactus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_02_03__16_teeth
 id_no_color: 020316teeth
 id_no_size: 02_03__16_teeth
 id_no_type: gear_02_03__16_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_03__16_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_03__16_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_03__16_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202uq4v
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202uq4v
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202uq4v
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020316Teeth
 name_no_size: 02 03  16 Teeth
 name_no_size_short: 02 03  16 Teeth
 name_no_type: Gear 02 03  16 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_02_03__16_teeth
 oomp_word: hatching_chick feet melon
 oomp_word_emoji: ':hatching_chick: :feet: :melon:'

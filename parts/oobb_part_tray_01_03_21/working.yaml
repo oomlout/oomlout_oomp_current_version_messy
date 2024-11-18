@@ -1,3 +1,222 @@
+bip_39_word_dash_1: valid
+bip_39_word_dash_10: valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion
+bip_39_word_dash_11: valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion-venue
+bip_39_word_dash_12: valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail-opinion-venue-atom
+bip_39_word_dash_2: valid-shove
+bip_39_word_dash_3: valid-shove-laundry
+bip_39_word_dash_4: valid-shove-laundry-provide
+bip_39_word_dash_5: valid-shove-laundry-provide-stick
+bip_39_word_dash_6: valid-shove-laundry-provide-stick-essay
+bip_39_word_dash_7: valid-shove-laundry-provide-stick-essay-cheap
+bip_39_word_dash_8: valid-shove-laundry-provide-stick-essay-cheap-dilemma
+bip_39_word_dash_9: valid-shove-laundry-provide-stick-essay-cheap-dilemma-mail
+bip_39_word_new_br_1: valid
+bip_39_word_new_br_10: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion
+bip_39_word_new_br_11: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion<br>venue
+bip_39_word_new_br_12: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail<br>opinion<br>venue<br>atom
+bip_39_word_new_br_2: valid<br>shove
+bip_39_word_new_br_3: valid<br>shove<br>laundry
+bip_39_word_new_br_4: valid<br>shove<br>laundry<br>provide
+bip_39_word_new_br_5: valid<br>shove<br>laundry<br>provide<br>stick
+bip_39_word_new_br_6: valid<br>shove<br>laundry<br>provide<br>stick<br>essay
+bip_39_word_new_br_7: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap
+bip_39_word_new_br_8: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma
+bip_39_word_new_br_9: valid<br>shove<br>laundry<br>provide<br>stick<br>essay<br>cheap<br>dilemma<br>mail
+bip_39_word_new_line_1: valid
+bip_39_word_new_line_10: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion'
+bip_39_word_new_line_11: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion
+
+  venue'
+bip_39_word_new_line_12: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail
+
+  opinion
+
+  venue
+
+  atom'
+bip_39_word_new_line_2: 'valid
+
+  shove'
+bip_39_word_new_line_3: 'valid
+
+  shove
+
+  laundry'
+bip_39_word_new_line_4: 'valid
+
+  shove
+
+  laundry
+
+  provide'
+bip_39_word_new_line_5: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick'
+bip_39_word_new_line_6: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay'
+bip_39_word_new_line_7: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap'
+bip_39_word_new_line_8: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma'
+bip_39_word_new_line_9: 'valid
+
+  shove
+
+  laundry
+
+  provide
+
+  stick
+
+  essay
+
+  cheap
+
+  dilemma
+
+  mail'
+bip_39_word_no_space_1: valid
+bip_39_word_no_space_10: validshovelaundryprovidestickessaycheapdilemmamailopinion
+bip_39_word_no_space_11: validshovelaundryprovidestickessaycheapdilemmamailopinionvenue
+bip_39_word_no_space_12: validshovelaundryprovidestickessaycheapdilemmamailopinionvenueatom
+bip_39_word_no_space_2: validshove
+bip_39_word_no_space_3: validshovelaundry
+bip_39_word_no_space_4: validshovelaundryprovide
+bip_39_word_no_space_5: validshovelaundryprovidestick
+bip_39_word_no_space_6: validshovelaundryprovidestickessay
+bip_39_word_no_space_7: validshovelaundryprovidestickessaycheap
+bip_39_word_no_space_8: validshovelaundryprovidestickessaycheapdilemma
+bip_39_word_no_space_9: validshovelaundryprovidestickessaycheapdilemmamail
+bip_39_word_space_0:
+- valid
+- shove
+- laundry
+- provide
+- stick
+- essay
+- cheap
+- dilemma
+- mail
+- opinion
+- venue
+- atom
+bip_39_word_space_1: valid
+bip_39_word_space_10: valid shove laundry provide stick essay cheap dilemma mail opinion
+bip_39_word_space_11: valid shove laundry provide stick essay cheap dilemma mail opinion
+  venue
+bip_39_word_space_12: valid shove laundry provide stick essay cheap dilemma mail opinion
+  venue atom
+bip_39_word_space_2: valid shove
+bip_39_word_space_3: valid shove laundry
+bip_39_word_space_4: valid shove laundry provide
+bip_39_word_space_5: valid shove laundry provide stick
+bip_39_word_space_6: valid shove laundry provide stick essay
+bip_39_word_space_7: valid shove laundry provide stick essay cheap
+bip_39_word_space_8: valid shove laundry provide stick essay cheap dilemma
+bip_39_word_space_9: valid shove laundry provide stick essay cheap dilemma mail
+bip_39_word_underscore_1: valid
+bip_39_word_underscore_10: valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion
+bip_39_word_underscore_11: valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion_venue
+bip_39_word_underscore_12: valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail_opinion_venue_atom
+bip_39_word_underscore_2: valid_shove
+bip_39_word_underscore_3: valid_shove_laundry
+bip_39_word_underscore_4: valid_shove_laundry_provide
+bip_39_word_underscore_5: valid_shove_laundry_provide_stick
+bip_39_word_underscore_6: valid_shove_laundry_provide_stick_essay
+bip_39_word_underscore_7: valid_shove_laundry_provide_stick_essay_cheap
+bip_39_word_underscore_8: valid_shove_laundry_provide_stick_essay_cheap_dilemma
+bip_39_word_underscore_9: valid_shove_laundry_provide_stick_essay_cheap_dilemma_mail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_03_21
 id_no_color: '010321'
 id_no_size: '01_03_21'
 id_no_type: tray_01_03_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_03_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_03_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_03_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208yx9i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208yx9i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208yx9i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '010321'
 name_no_size: 01 03 21
 name_no_size_short: 01 03 21
 name_no_type: Tray 01 03 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_03_21
 oomp_word: rocket anchor airplane
 oomp_word_emoji: ':rocket: :anchor: :airplane:'

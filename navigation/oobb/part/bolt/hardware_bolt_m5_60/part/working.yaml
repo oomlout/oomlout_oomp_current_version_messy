@@ -300,7 +300,14 @@ id_no_class: part_bolt_hardware_bolt_m5_60
 id_no_color: hardwarem560
 id_no_size: hardware_m5_60
 id_no_type: bolt_hardware_bolt_m5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206q7tr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206q7tr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206q7tr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -326,6 +333,7 @@ name_no_color: Hardwarem560
 name_no_size: Hardware M5 60
 name_no_size_short: Hardware M5 60
 name_no_type: Bolt Hardware Bolt M5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_60
 oomp_word: shirt squirrel princess
 oomp_word_emoji: ':shirt: :squirrel: :princess:'

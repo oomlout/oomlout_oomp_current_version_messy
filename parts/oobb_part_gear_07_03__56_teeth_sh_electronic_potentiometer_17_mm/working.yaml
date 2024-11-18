@@ -1,3 +1,222 @@
+bip_39_word_dash_1: embark
+bip_39_word_dash_10: embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense
+bip_39_word_dash_11: embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense-task
+bip_39_word_dash_12: embark-great-caught-imitate-manual-model-wrist-lock-lesson-defense-task-action
+bip_39_word_dash_2: embark-great
+bip_39_word_dash_3: embark-great-caught
+bip_39_word_dash_4: embark-great-caught-imitate
+bip_39_word_dash_5: embark-great-caught-imitate-manual
+bip_39_word_dash_6: embark-great-caught-imitate-manual-model
+bip_39_word_dash_7: embark-great-caught-imitate-manual-model-wrist
+bip_39_word_dash_8: embark-great-caught-imitate-manual-model-wrist-lock
+bip_39_word_dash_9: embark-great-caught-imitate-manual-model-wrist-lock-lesson
+bip_39_word_new_br_1: embark
+bip_39_word_new_br_10: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense
+bip_39_word_new_br_11: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense<br>task
+bip_39_word_new_br_12: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson<br>defense<br>task<br>action
+bip_39_word_new_br_2: embark<br>great
+bip_39_word_new_br_3: embark<br>great<br>caught
+bip_39_word_new_br_4: embark<br>great<br>caught<br>imitate
+bip_39_word_new_br_5: embark<br>great<br>caught<br>imitate<br>manual
+bip_39_word_new_br_6: embark<br>great<br>caught<br>imitate<br>manual<br>model
+bip_39_word_new_br_7: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist
+bip_39_word_new_br_8: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock
+bip_39_word_new_br_9: embark<br>great<br>caught<br>imitate<br>manual<br>model<br>wrist<br>lock<br>lesson
+bip_39_word_new_line_1: embark
+bip_39_word_new_line_10: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist
+
+  lock
+
+  lesson
+
+  defense'
+bip_39_word_new_line_11: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist
+
+  lock
+
+  lesson
+
+  defense
+
+  task'
+bip_39_word_new_line_12: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist
+
+  lock
+
+  lesson
+
+  defense
+
+  task
+
+  action'
+bip_39_word_new_line_2: 'embark
+
+  great'
+bip_39_word_new_line_3: 'embark
+
+  great
+
+  caught'
+bip_39_word_new_line_4: 'embark
+
+  great
+
+  caught
+
+  imitate'
+bip_39_word_new_line_5: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual'
+bip_39_word_new_line_6: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model'
+bip_39_word_new_line_7: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist'
+bip_39_word_new_line_8: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist
+
+  lock'
+bip_39_word_new_line_9: 'embark
+
+  great
+
+  caught
+
+  imitate
+
+  manual
+
+  model
+
+  wrist
+
+  lock
+
+  lesson'
+bip_39_word_no_space_1: embark
+bip_39_word_no_space_10: embarkgreatcaughtimitatemanualmodelwristlocklessondefense
+bip_39_word_no_space_11: embarkgreatcaughtimitatemanualmodelwristlocklessondefensetask
+bip_39_word_no_space_12: embarkgreatcaughtimitatemanualmodelwristlocklessondefensetaskaction
+bip_39_word_no_space_2: embarkgreat
+bip_39_word_no_space_3: embarkgreatcaught
+bip_39_word_no_space_4: embarkgreatcaughtimitate
+bip_39_word_no_space_5: embarkgreatcaughtimitatemanual
+bip_39_word_no_space_6: embarkgreatcaughtimitatemanualmodel
+bip_39_word_no_space_7: embarkgreatcaughtimitatemanualmodelwrist
+bip_39_word_no_space_8: embarkgreatcaughtimitatemanualmodelwristlock
+bip_39_word_no_space_9: embarkgreatcaughtimitatemanualmodelwristlocklesson
+bip_39_word_space_0:
+- embark
+- great
+- caught
+- imitate
+- manual
+- model
+- wrist
+- lock
+- lesson
+- defense
+- task
+- action
+bip_39_word_space_1: embark
+bip_39_word_space_10: embark great caught imitate manual model wrist lock lesson defense
+bip_39_word_space_11: embark great caught imitate manual model wrist lock lesson defense
+  task
+bip_39_word_space_12: embark great caught imitate manual model wrist lock lesson defense
+  task action
+bip_39_word_space_2: embark great
+bip_39_word_space_3: embark great caught
+bip_39_word_space_4: embark great caught imitate
+bip_39_word_space_5: embark great caught imitate manual
+bip_39_word_space_6: embark great caught imitate manual model
+bip_39_word_space_7: embark great caught imitate manual model wrist
+bip_39_word_space_8: embark great caught imitate manual model wrist lock
+bip_39_word_space_9: embark great caught imitate manual model wrist lock lesson
+bip_39_word_underscore_1: embark
+bip_39_word_underscore_10: embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense
+bip_39_word_underscore_11: embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense_task
+bip_39_word_underscore_12: embark_great_caught_imitate_manual_model_wrist_lock_lesson_defense_task_action
+bip_39_word_underscore_2: embark_great
+bip_39_word_underscore_3: embark_great_caught
+bip_39_word_underscore_4: embark_great_caught_imitate
+bip_39_word_underscore_5: embark_great_caught_imitate_manual
+bip_39_word_underscore_6: embark_great_caught_imitate_manual_model
+bip_39_word_underscore_7: embark_great_caught_imitate_manual_model_wrist
+bip_39_word_underscore_8: embark_great_caught_imitate_manual_model_wrist_lock
+bip_39_word_underscore_9: embark_great_caught_imitate_manual_model_wrist_lock_lesson
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
 id_no_color: 070356teethshelectronicpotentiometer17mm
 id_no_size: 07_03__56_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201mmfi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201mmfi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201mmfi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 070356Teethshelectronicpotentiometer17mm
 name_no_size: 07 03  56 Teeth Sh Electronic Potentiometer 17 mm
 name_no_size_short: 07 03  56 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Gear 07 03  56 Teeth Sh Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_03__56_teeth_sh_electronic_potentiometer_17_mm
 oomp_word: sunny sushi cupid
 oomp_word_emoji: ':sunny: :sushi: :cupid:'

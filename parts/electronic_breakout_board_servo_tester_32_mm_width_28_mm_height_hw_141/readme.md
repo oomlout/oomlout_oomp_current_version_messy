@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A servo tester
 
+### name
+* name: Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
   * classification: electronic

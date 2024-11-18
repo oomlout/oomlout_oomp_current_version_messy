@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Box Warehouse Cardboard 151 mm Width 112 mm Height 301 mm Depth Rajapack Rbac13
+* name_short: 
 ### id
 * oomp_id: storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :mouse: :books: :angel:
 * md5_6_alpha: 21ula
 * md5_6: 34931e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2021ula)
+[2x1](http://192.168.1.242:1112/?label=oomp%2021ula)
+[6x4](http://192.168.1.55:1112/?label=oomp%2021ula)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ canal |
 | id_no_color | cardboard151mmwidth112mmheight301mmdepthrajapackrbac13 |  
 | id_no_size | cardboard151mmwidth112mmheight301mmdepthrajapackrbac13 |  
 | id_no_type | cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2021ula |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2021ula |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2021ula |  
 | manufacturer | rajapack |  
 | manufacturer_capital | Rajapack |  
 | manufacturer_first_letter | r |  
@@ -328,6 +361,7 @@ canal |
 | name_no_size | Cardboard151mmwidth112mmheight301mmdepthrajapackrbac13 |  
 | name_no_size_short | Cardboard151Mmwidth112Mmheight301Mmdepthrajapackrbac13 |  
 | name_no_type | Cardboard 151 mm Width 112 mm Height 301 mm Depth Rajapack Rbac13 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13 |  
 | oomp_word | mouse books angel |  
 | oomp_word_emoji | :mouse: :books: :angel: |  

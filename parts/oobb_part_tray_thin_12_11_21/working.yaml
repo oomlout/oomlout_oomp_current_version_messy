@@ -1,3 +1,222 @@
+bip_39_word_dash_1: resemble
+bip_39_word_dash_10: resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred
+bip_39_word_dash_11: resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred-analyst
+bip_39_word_dash_12: resemble-fog-rather-cry-clarify-van-orphan-rail-old-hundred-analyst-animal
+bip_39_word_dash_2: resemble-fog
+bip_39_word_dash_3: resemble-fog-rather
+bip_39_word_dash_4: resemble-fog-rather-cry
+bip_39_word_dash_5: resemble-fog-rather-cry-clarify
+bip_39_word_dash_6: resemble-fog-rather-cry-clarify-van
+bip_39_word_dash_7: resemble-fog-rather-cry-clarify-van-orphan
+bip_39_word_dash_8: resemble-fog-rather-cry-clarify-van-orphan-rail
+bip_39_word_dash_9: resemble-fog-rather-cry-clarify-van-orphan-rail-old
+bip_39_word_new_br_1: resemble
+bip_39_word_new_br_10: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred
+bip_39_word_new_br_11: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst
+bip_39_word_new_br_12: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old<br>hundred<br>analyst<br>animal
+bip_39_word_new_br_2: resemble<br>fog
+bip_39_word_new_br_3: resemble<br>fog<br>rather
+bip_39_word_new_br_4: resemble<br>fog<br>rather<br>cry
+bip_39_word_new_br_5: resemble<br>fog<br>rather<br>cry<br>clarify
+bip_39_word_new_br_6: resemble<br>fog<br>rather<br>cry<br>clarify<br>van
+bip_39_word_new_br_7: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan
+bip_39_word_new_br_8: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail
+bip_39_word_new_br_9: resemble<br>fog<br>rather<br>cry<br>clarify<br>van<br>orphan<br>rail<br>old
+bip_39_word_new_line_1: resemble
+bip_39_word_new_line_10: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred'
+bip_39_word_new_line_11: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred
+
+  analyst'
+bip_39_word_new_line_12: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old
+
+  hundred
+
+  analyst
+
+  animal'
+bip_39_word_new_line_2: 'resemble
+
+  fog'
+bip_39_word_new_line_3: 'resemble
+
+  fog
+
+  rather'
+bip_39_word_new_line_4: 'resemble
+
+  fog
+
+  rather
+
+  cry'
+bip_39_word_new_line_5: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify'
+bip_39_word_new_line_6: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van'
+bip_39_word_new_line_7: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan'
+bip_39_word_new_line_8: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail'
+bip_39_word_new_line_9: 'resemble
+
+  fog
+
+  rather
+
+  cry
+
+  clarify
+
+  van
+
+  orphan
+
+  rail
+
+  old'
+bip_39_word_no_space_1: resemble
+bip_39_word_no_space_10: resemblefograthercryclarifyvanorphanrailoldhundred
+bip_39_word_no_space_11: resemblefograthercryclarifyvanorphanrailoldhundredanalyst
+bip_39_word_no_space_12: resemblefograthercryclarifyvanorphanrailoldhundredanalystanimal
+bip_39_word_no_space_2: resemblefog
+bip_39_word_no_space_3: resemblefograther
+bip_39_word_no_space_4: resemblefograthercry
+bip_39_word_no_space_5: resemblefograthercryclarify
+bip_39_word_no_space_6: resemblefograthercryclarifyvan
+bip_39_word_no_space_7: resemblefograthercryclarifyvanorphan
+bip_39_word_no_space_8: resemblefograthercryclarifyvanorphanrail
+bip_39_word_no_space_9: resemblefograthercryclarifyvanorphanrailold
+bip_39_word_space_0:
+- resemble
+- fog
+- rather
+- cry
+- clarify
+- van
+- orphan
+- rail
+- old
+- hundred
+- analyst
+- animal
+bip_39_word_space_1: resemble
+bip_39_word_space_10: resemble fog rather cry clarify van orphan rail old hundred
+bip_39_word_space_11: resemble fog rather cry clarify van orphan rail old hundred
+  analyst
+bip_39_word_space_12: resemble fog rather cry clarify van orphan rail old hundred
+  analyst animal
+bip_39_word_space_2: resemble fog
+bip_39_word_space_3: resemble fog rather
+bip_39_word_space_4: resemble fog rather cry
+bip_39_word_space_5: resemble fog rather cry clarify
+bip_39_word_space_6: resemble fog rather cry clarify van
+bip_39_word_space_7: resemble fog rather cry clarify van orphan
+bip_39_word_space_8: resemble fog rather cry clarify van orphan rail
+bip_39_word_space_9: resemble fog rather cry clarify van orphan rail old
+bip_39_word_underscore_1: resemble
+bip_39_word_underscore_10: resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred
+bip_39_word_underscore_11: resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred_analyst
+bip_39_word_underscore_12: resemble_fog_rather_cry_clarify_van_orphan_rail_old_hundred_analyst_animal
+bip_39_word_underscore_2: resemble_fog
+bip_39_word_underscore_3: resemble_fog_rather
+bip_39_word_underscore_4: resemble_fog_rather_cry
+bip_39_word_underscore_5: resemble_fog_rather_cry_clarify
+bip_39_word_underscore_6: resemble_fog_rather_cry_clarify_van
+bip_39_word_underscore_7: resemble_fog_rather_cry_clarify_van_orphan
+bip_39_word_underscore_8: resemble_fog_rather_cry_clarify_van_orphan_rail
+bip_39_word_underscore_9: resemble_fog_rather_cry_clarify_van_orphan_rail_old
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_11_21
 id_no_color: '121121'
 id_no_size: '12_11_21'
 id_no_type: tray_thin_12_11_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_11_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_11_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_11_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205md23
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205md23
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205md23
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '121121'
 name_no_size: 12 11 21
 name_no_size_short: 12 11 21
 name_no_type: Tray Thin 12 11 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_11_21
 oomp_word: scissors star ski
 oomp_word_emoji: ':scissors: :star: :ski:'

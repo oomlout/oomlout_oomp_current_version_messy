@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Scale 76 mm Width 114 mm Height 20 mm Depth 200 Gram Capacity Aliexpress Jewelry Scale
+* name_short: 
 ### id
 * oomp_id: tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :watch: :watermelon: :sailboat:
 * md5_6_alpha: 52bqa
 * md5_6: 81cce2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2052bqa)
+[2x1](http://192.168.1.242:1112/?label=oomp%2052bqa)
+[6x4](http://192.168.1.55:1112/?label=oomp%2052bqa)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ topic |
 | id_no_color | 200gramcapacityaliexpressjewelryscale |  
 | id_no_size | 200_gram_capacity_aliexpress_jewelry_scale |  
 | id_no_type | 76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2052bqa |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2052bqa |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2052bqa |  
 | manufacturer | aliexpress |  
 | manufacturer_capital | Aliexpress |  
 | manufacturer_first_letter | a |  
@@ -306,6 +339,7 @@ topic |
 | name_no_size | 200 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_size_short | 200 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_type | 76 mm Width 114 mm Height 20 mm Depth 200 Gram Capacity Aliexpress Jewelry Scale |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
 | oomp_word | watch watermelon sailboat |  
 | oomp_word_emoji | :watch: :watermelon: :sailboat: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 05 03 06  Motor Building Block Large 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_05_03_06__motor_building_block_large_01
   * classification: oobb

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Cardboard Roll 200 mm Width 344 mm Length 3 5 mm Depth Kraft Oomlout Bolt Tin Outer Wrap 1
+* name_short: 
 ### id
 * oomp_id: packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tomato: :speaker: :recycle:
 * md5_6_alpha: 8933y
 * md5_6: d37ffe
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208933y)
+[2x1](http://192.168.1.242:1112/?label=oomp%208933y)
+[6x4](http://192.168.1.55:1112/?label=oomp%208933y)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ stomach |
 | id_no_color | oomlout_bolt_tin_outer_wrap_1 |  
 | id_no_size | kraft_oomlout_bolt_tin_outer_wrap_1 |  
 | id_no_type | 200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208933y |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208933y |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208933y |  
 | manufacturer | oomlout |  
 | manufacturer_capital | Oomlout |  
 | manufacturer_first_letter | o |  
@@ -304,6 +337,7 @@ stomach |
 | name_no_size | Kraft Oomlout Bolt Tin Outer Wrap 1 |  
 | name_no_size_short | Kraft Oomlout Bolt Tin Outer Wrap 1 |  
 | name_no_type | 200 mm Width 344 mm Length 3 5 mm Depth Kraft Oomlout Bolt Tin Outer Wrap 1 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_roll_200_mm_width_344_mm_length_3_5_mm_depth_kraft_oomlout_bolt_tin_outer_wrap_1 |  
 | oomp_word | tomato speaker recycle |  
 | oomp_word_emoji | :tomato: :speaker: :recycle: |  

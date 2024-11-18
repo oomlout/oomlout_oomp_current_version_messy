@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Kallax White 2 Cell Width 1 Cell Height 770 mm Width 390 mm Height 390 mm Depth Ikea 903 015 55
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55
   * classification: furniture
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :squirrel: :sunglasses: :tulip:
 * md5_6_alpha: 4dduq
 * md5_6: 700b62
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204dduq)
+[2x1](http://192.168.1.242:1112/?label=oomp%204dduq)
+[6x4](http://192.168.1.55:1112/?label=oomp%204dduq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -307,7 +333,14 @@ narrow |
 | id_no_color | 2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
 | id_no_size | white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
 | id_no_type | ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204dduq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204dduq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204dduq |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -356,6 +389,7 @@ narrow |
 | name_no_size | White 2 Cell Width 1 Cell Height 770 mm Width 390 mm Height 390 mm Depth Ikea 903 015 55 |  
 | name_no_size_short | White 2 Cell Width 1 Cell Height 770 Mm Width 390 Mm Height 390 Mm Depth Ikea 903 015 55 |  
 | name_no_type | Ikea Kallax White 2 Cell Width 1 Cell Height 770 mm Width 390 mm Height 390 mm Depth Ikea 903 015 55 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_kallax_white_2_cell_width_1_cell_height_770_mm_width_390_mm_height_390_mm_depth_ikea_903_015_55 |  
 | oomp_word | squirrel sunglasses tulip |  
 | oomp_word_emoji | :squirrel: :sunglasses: :tulip: |  

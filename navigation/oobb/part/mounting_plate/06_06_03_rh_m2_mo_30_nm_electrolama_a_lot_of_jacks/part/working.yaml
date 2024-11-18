@@ -300,7 +300,14 @@ id_no_class: part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_ja
 id_no_color: 060603rhm2mo30nmelectrolamaalotofjacks
 id_no_size: 06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
 id_no_type: mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042mcl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042mcl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042mcl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -326,6 +333,7 @@ name_no_color: 060603Rhm2Mo30Nmelectrolamaalotofjacks
 name_no_size: 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks
 name_no_size_short: 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks
 name_no_type: Mounting Plate 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
 oomp_word: mushroom bouquet headphones
 oomp_word_emoji: ':mushroom: :bouquet: :headphones:'

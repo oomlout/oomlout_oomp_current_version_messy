@@ -1,3 +1,222 @@
+bip_39_word_dash_1: head
+bip_39_word_dash_10: head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle
+bip_39_word_dash_11: head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle-kiss
+bip_39_word_dash_12: head-rich-luxury-vicious-panel-route-lens-retire-upper-turtle-kiss-aspect
+bip_39_word_dash_2: head-rich
+bip_39_word_dash_3: head-rich-luxury
+bip_39_word_dash_4: head-rich-luxury-vicious
+bip_39_word_dash_5: head-rich-luxury-vicious-panel
+bip_39_word_dash_6: head-rich-luxury-vicious-panel-route
+bip_39_word_dash_7: head-rich-luxury-vicious-panel-route-lens
+bip_39_word_dash_8: head-rich-luxury-vicious-panel-route-lens-retire
+bip_39_word_dash_9: head-rich-luxury-vicious-panel-route-lens-retire-upper
+bip_39_word_new_br_1: head
+bip_39_word_new_br_10: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle
+bip_39_word_new_br_11: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle<br>kiss
+bip_39_word_new_br_12: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper<br>turtle<br>kiss<br>aspect
+bip_39_word_new_br_2: head<br>rich
+bip_39_word_new_br_3: head<br>rich<br>luxury
+bip_39_word_new_br_4: head<br>rich<br>luxury<br>vicious
+bip_39_word_new_br_5: head<br>rich<br>luxury<br>vicious<br>panel
+bip_39_word_new_br_6: head<br>rich<br>luxury<br>vicious<br>panel<br>route
+bip_39_word_new_br_7: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens
+bip_39_word_new_br_8: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire
+bip_39_word_new_br_9: head<br>rich<br>luxury<br>vicious<br>panel<br>route<br>lens<br>retire<br>upper
+bip_39_word_new_line_1: head
+bip_39_word_new_line_10: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle'
+bip_39_word_new_line_11: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle
+
+  kiss'
+bip_39_word_new_line_12: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper
+
+  turtle
+
+  kiss
+
+  aspect'
+bip_39_word_new_line_2: 'head
+
+  rich'
+bip_39_word_new_line_3: 'head
+
+  rich
+
+  luxury'
+bip_39_word_new_line_4: 'head
+
+  rich
+
+  luxury
+
+  vicious'
+bip_39_word_new_line_5: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel'
+bip_39_word_new_line_6: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route'
+bip_39_word_new_line_7: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens'
+bip_39_word_new_line_8: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire'
+bip_39_word_new_line_9: 'head
+
+  rich
+
+  luxury
+
+  vicious
+
+  panel
+
+  route
+
+  lens
+
+  retire
+
+  upper'
+bip_39_word_no_space_1: head
+bip_39_word_no_space_10: headrichluxuryviciouspanelroutelensretireupperturtle
+bip_39_word_no_space_11: headrichluxuryviciouspanelroutelensretireupperturtlekiss
+bip_39_word_no_space_12: headrichluxuryviciouspanelroutelensretireupperturtlekissaspect
+bip_39_word_no_space_2: headrich
+bip_39_word_no_space_3: headrichluxury
+bip_39_word_no_space_4: headrichluxuryvicious
+bip_39_word_no_space_5: headrichluxuryviciouspanel
+bip_39_word_no_space_6: headrichluxuryviciouspanelroute
+bip_39_word_no_space_7: headrichluxuryviciouspanelroutelens
+bip_39_word_no_space_8: headrichluxuryviciouspanelroutelensretire
+bip_39_word_no_space_9: headrichluxuryviciouspanelroutelensretireupper
+bip_39_word_space_0:
+- head
+- rich
+- luxury
+- vicious
+- panel
+- route
+- lens
+- retire
+- upper
+- turtle
+- kiss
+- aspect
+bip_39_word_space_1: head
+bip_39_word_space_10: head rich luxury vicious panel route lens retire upper turtle
+bip_39_word_space_11: head rich luxury vicious panel route lens retire upper turtle
+  kiss
+bip_39_word_space_12: head rich luxury vicious panel route lens retire upper turtle
+  kiss aspect
+bip_39_word_space_2: head rich
+bip_39_word_space_3: head rich luxury
+bip_39_word_space_4: head rich luxury vicious
+bip_39_word_space_5: head rich luxury vicious panel
+bip_39_word_space_6: head rich luxury vicious panel route
+bip_39_word_space_7: head rich luxury vicious panel route lens
+bip_39_word_space_8: head rich luxury vicious panel route lens retire
+bip_39_word_space_9: head rich luxury vicious panel route lens retire upper
+bip_39_word_underscore_1: head
+bip_39_word_underscore_10: head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle
+bip_39_word_underscore_11: head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle_kiss
+bip_39_word_underscore_12: head_rich_luxury_vicious_panel_route_lens_retire_upper_turtle_kiss_aspect
+bip_39_word_underscore_2: head_rich
+bip_39_word_underscore_3: head_rich_luxury
+bip_39_word_underscore_4: head_rich_luxury_vicious
+bip_39_word_underscore_5: head_rich_luxury_vicious_panel
+bip_39_word_underscore_6: head_rich_luxury_vicious_panel_route
+bip_39_word_underscore_7: head_rich_luxury_vicious_panel_route_lens
+bip_39_word_underscore_8: head_rich_luxury_vicious_panel_route_lens_retire
+bip_39_word_underscore_9: head_rich_luxury_vicious_panel_route_lens_retire_upper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_14_30
 id_no_color: 081430
 id_no_size: 08_14_30
 id_no_type: tray_08_14_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_14_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_14_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_14_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208dy2i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208dy2i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208dy2i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081430
 name_no_size: 08 14 30
 name_no_size_short: 08 14 30
 name_no_type: Tray 08 14 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_14_30
 oomp_word: school four spaghetti
 oomp_word_emoji: ':school: :four: :spaghetti:'

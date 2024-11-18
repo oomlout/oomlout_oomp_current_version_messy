@@ -1,3 +1,223 @@
+bip_39_word_dash_1: palace
+bip_39_word_dash_10: palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous
+bip_39_word_dash_11: palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous-supply
+bip_39_word_dash_12: palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake-famous-supply-alpha
+bip_39_word_dash_2: palace-avoid
+bip_39_word_dash_3: palace-avoid-notable
+bip_39_word_dash_4: palace-avoid-notable-twist
+bip_39_word_dash_5: palace-avoid-notable-twist-excite
+bip_39_word_dash_6: palace-avoid-notable-twist-excite-sniff
+bip_39_word_dash_7: palace-avoid-notable-twist-excite-sniff-prosper
+bip_39_word_dash_8: palace-avoid-notable-twist-excite-sniff-prosper-daughter
+bip_39_word_dash_9: palace-avoid-notable-twist-excite-sniff-prosper-daughter-snake
+bip_39_word_new_br_1: palace
+bip_39_word_new_br_10: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous
+bip_39_word_new_br_11: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply
+bip_39_word_new_br_12: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake<br>famous<br>supply<br>alpha
+bip_39_word_new_br_2: palace<br>avoid
+bip_39_word_new_br_3: palace<br>avoid<br>notable
+bip_39_word_new_br_4: palace<br>avoid<br>notable<br>twist
+bip_39_word_new_br_5: palace<br>avoid<br>notable<br>twist<br>excite
+bip_39_word_new_br_6: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff
+bip_39_word_new_br_7: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper
+bip_39_word_new_br_8: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter
+bip_39_word_new_br_9: palace<br>avoid<br>notable<br>twist<br>excite<br>sniff<br>prosper<br>daughter<br>snake
+bip_39_word_new_line_1: palace
+bip_39_word_new_line_10: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper
+
+  daughter
+
+  snake
+
+  famous'
+bip_39_word_new_line_11: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper
+
+  daughter
+
+  snake
+
+  famous
+
+  supply'
+bip_39_word_new_line_12: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper
+
+  daughter
+
+  snake
+
+  famous
+
+  supply
+
+  alpha'
+bip_39_word_new_line_2: 'palace
+
+  avoid'
+bip_39_word_new_line_3: 'palace
+
+  avoid
+
+  notable'
+bip_39_word_new_line_4: 'palace
+
+  avoid
+
+  notable
+
+  twist'
+bip_39_word_new_line_5: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite'
+bip_39_word_new_line_6: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff'
+bip_39_word_new_line_7: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper'
+bip_39_word_new_line_8: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper
+
+  daughter'
+bip_39_word_new_line_9: 'palace
+
+  avoid
+
+  notable
+
+  twist
+
+  excite
+
+  sniff
+
+  prosper
+
+  daughter
+
+  snake'
+bip_39_word_no_space_1: palace
+bip_39_word_no_space_10: palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamous
+bip_39_word_no_space_11: palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamoussupply
+bip_39_word_no_space_12: palaceavoidnotabletwistexcitesniffprosperdaughtersnakefamoussupplyalpha
+bip_39_word_no_space_2: palaceavoid
+bip_39_word_no_space_3: palaceavoidnotable
+bip_39_word_no_space_4: palaceavoidnotabletwist
+bip_39_word_no_space_5: palaceavoidnotabletwistexcite
+bip_39_word_no_space_6: palaceavoidnotabletwistexcitesniff
+bip_39_word_no_space_7: palaceavoidnotabletwistexcitesniffprosper
+bip_39_word_no_space_8: palaceavoidnotabletwistexcitesniffprosperdaughter
+bip_39_word_no_space_9: palaceavoidnotabletwistexcitesniffprosperdaughtersnake
+bip_39_word_space_0:
+- palace
+- avoid
+- notable
+- twist
+- excite
+- sniff
+- prosper
+- daughter
+- snake
+- famous
+- supply
+- alpha
+bip_39_word_space_1: palace
+bip_39_word_space_10: palace avoid notable twist excite sniff prosper daughter snake
+  famous
+bip_39_word_space_11: palace avoid notable twist excite sniff prosper daughter snake
+  famous supply
+bip_39_word_space_12: palace avoid notable twist excite sniff prosper daughter snake
+  famous supply alpha
+bip_39_word_space_2: palace avoid
+bip_39_word_space_3: palace avoid notable
+bip_39_word_space_4: palace avoid notable twist
+bip_39_word_space_5: palace avoid notable twist excite
+bip_39_word_space_6: palace avoid notable twist excite sniff
+bip_39_word_space_7: palace avoid notable twist excite sniff prosper
+bip_39_word_space_8: palace avoid notable twist excite sniff prosper daughter
+bip_39_word_space_9: palace avoid notable twist excite sniff prosper daughter snake
+bip_39_word_underscore_1: palace
+bip_39_word_underscore_10: palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous
+bip_39_word_underscore_11: palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous_supply
+bip_39_word_underscore_12: palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake_famous_supply_alpha
+bip_39_word_underscore_2: palace_avoid
+bip_39_word_underscore_3: palace_avoid_notable
+bip_39_word_underscore_4: palace_avoid_notable_twist
+bip_39_word_underscore_5: palace_avoid_notable_twist_excite
+bip_39_word_underscore_6: palace_avoid_notable_twist_excite_sniff
+bip_39_word_underscore_7: palace_avoid_notable_twist_excite_sniff_prosper
+bip_39_word_underscore_8: palace_avoid_notable_twist_excite_sniff_prosper_daughter
+bip_39_word_underscore_9: palace_avoid_notable_twist_excite_sniff_prosper_daughter_snake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_04_06__32_teeth_sh_motor_tt_01
 id_no_color: 040632teethshmotortt01
 id_no_size: 04_06__32_teeth_sh_motor_tt_01
 id_no_type: gear_04_06__32_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204fpn8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204fpn8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204fpn8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 040632Teethshmotortt01
 name_no_size: 04 06  32 Teeth Sh Motor Tt 01
 name_no_size_short: 04 06  32 Teeth Sh Motor Tt 01
 name_no_type: Gear 04 06  32 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_04_06__32_teeth_sh_motor_tt_01
 oomp_word: bamboo eyeglasses microscope
 oomp_word_emoji: ':bamboo: :eyeglasses: :microscope:'

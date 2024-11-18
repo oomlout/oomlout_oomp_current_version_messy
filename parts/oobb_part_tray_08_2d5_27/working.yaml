@@ -1,3 +1,222 @@
+bip_39_word_dash_1: eye
+bip_39_word_dash_10: eye-spend-surface-wire-journey-shove-border-unique-public-already
+bip_39_word_dash_11: eye-spend-surface-wire-journey-shove-border-unique-public-already-defy
+bip_39_word_dash_12: eye-spend-surface-wire-journey-shove-border-unique-public-already-defy-aunt
+bip_39_word_dash_2: eye-spend
+bip_39_word_dash_3: eye-spend-surface
+bip_39_word_dash_4: eye-spend-surface-wire
+bip_39_word_dash_5: eye-spend-surface-wire-journey
+bip_39_word_dash_6: eye-spend-surface-wire-journey-shove
+bip_39_word_dash_7: eye-spend-surface-wire-journey-shove-border
+bip_39_word_dash_8: eye-spend-surface-wire-journey-shove-border-unique
+bip_39_word_dash_9: eye-spend-surface-wire-journey-shove-border-unique-public
+bip_39_word_new_br_1: eye
+bip_39_word_new_br_10: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public<br>already
+bip_39_word_new_br_11: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public<br>already<br>defy
+bip_39_word_new_br_12: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public<br>already<br>defy<br>aunt
+bip_39_word_new_br_2: eye<br>spend
+bip_39_word_new_br_3: eye<br>spend<br>surface
+bip_39_word_new_br_4: eye<br>spend<br>surface<br>wire
+bip_39_word_new_br_5: eye<br>spend<br>surface<br>wire<br>journey
+bip_39_word_new_br_6: eye<br>spend<br>surface<br>wire<br>journey<br>shove
+bip_39_word_new_br_7: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border
+bip_39_word_new_br_8: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique
+bip_39_word_new_br_9: eye<br>spend<br>surface<br>wire<br>journey<br>shove<br>border<br>unique<br>public
+bip_39_word_new_line_1: eye
+bip_39_word_new_line_10: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border
+
+  unique
+
+  public
+
+  already'
+bip_39_word_new_line_11: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border
+
+  unique
+
+  public
+
+  already
+
+  defy'
+bip_39_word_new_line_12: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border
+
+  unique
+
+  public
+
+  already
+
+  defy
+
+  aunt'
+bip_39_word_new_line_2: 'eye
+
+  spend'
+bip_39_word_new_line_3: 'eye
+
+  spend
+
+  surface'
+bip_39_word_new_line_4: 'eye
+
+  spend
+
+  surface
+
+  wire'
+bip_39_word_new_line_5: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey'
+bip_39_word_new_line_6: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove'
+bip_39_word_new_line_7: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border'
+bip_39_word_new_line_8: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border
+
+  unique'
+bip_39_word_new_line_9: 'eye
+
+  spend
+
+  surface
+
+  wire
+
+  journey
+
+  shove
+
+  border
+
+  unique
+
+  public'
+bip_39_word_no_space_1: eye
+bip_39_word_no_space_10: eyespendsurfacewirejourneyshoveborderuniquepublicalready
+bip_39_word_no_space_11: eyespendsurfacewirejourneyshoveborderuniquepublicalreadydefy
+bip_39_word_no_space_12: eyespendsurfacewirejourneyshoveborderuniquepublicalreadydefyaunt
+bip_39_word_no_space_2: eyespend
+bip_39_word_no_space_3: eyespendsurface
+bip_39_word_no_space_4: eyespendsurfacewire
+bip_39_word_no_space_5: eyespendsurfacewirejourney
+bip_39_word_no_space_6: eyespendsurfacewirejourneyshove
+bip_39_word_no_space_7: eyespendsurfacewirejourneyshoveborder
+bip_39_word_no_space_8: eyespendsurfacewirejourneyshoveborderunique
+bip_39_word_no_space_9: eyespendsurfacewirejourneyshoveborderuniquepublic
+bip_39_word_space_0:
+- eye
+- spend
+- surface
+- wire
+- journey
+- shove
+- border
+- unique
+- public
+- already
+- defy
+- aunt
+bip_39_word_space_1: eye
+bip_39_word_space_10: eye spend surface wire journey shove border unique public already
+bip_39_word_space_11: eye spend surface wire journey shove border unique public already
+  defy
+bip_39_word_space_12: eye spend surface wire journey shove border unique public already
+  defy aunt
+bip_39_word_space_2: eye spend
+bip_39_word_space_3: eye spend surface
+bip_39_word_space_4: eye spend surface wire
+bip_39_word_space_5: eye spend surface wire journey
+bip_39_word_space_6: eye spend surface wire journey shove
+bip_39_word_space_7: eye spend surface wire journey shove border
+bip_39_word_space_8: eye spend surface wire journey shove border unique
+bip_39_word_space_9: eye spend surface wire journey shove border unique public
+bip_39_word_underscore_1: eye
+bip_39_word_underscore_10: eye_spend_surface_wire_journey_shove_border_unique_public_already
+bip_39_word_underscore_11: eye_spend_surface_wire_journey_shove_border_unique_public_already_defy
+bip_39_word_underscore_12: eye_spend_surface_wire_journey_shove_border_unique_public_already_defy_aunt
+bip_39_word_underscore_2: eye_spend
+bip_39_word_underscore_3: eye_spend_surface
+bip_39_word_underscore_4: eye_spend_surface_wire
+bip_39_word_underscore_5: eye_spend_surface_wire_journey
+bip_39_word_underscore_6: eye_spend_surface_wire_journey_shove
+bip_39_word_underscore_7: eye_spend_surface_wire_journey_shove_border
+bip_39_word_underscore_8: eye_spend_surface_wire_journey_shove_border_unique
+bip_39_word_underscore_9: eye_spend_surface_wire_journey_shove_border_unique_public
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_2d5_27
 id_no_color: 082d527
 id_no_size: 08_2d5_27
 id_no_type: tray_08_2d5_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_2d5_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_2d5_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_2d5_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209jdc1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209jdc1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209jdc1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 082D527
 name_no_size: 08 2D5 27
 name_no_size_short: 08 2D5 27
 name_no_type: Tray 08 2D5 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_2d5_27
 oomp_word: three flags camel
 oomp_word_emoji: ':three: :flags: :camel:'

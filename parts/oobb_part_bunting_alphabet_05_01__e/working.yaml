@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mouse
+bip_39_word_dash_10: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder
+bip_39_word_dash_11: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder-nation
+bip_39_word_dash_12: mouse-multiply-fun-news-spice-matrix-employ-spray-badge-shoulder-nation-artist
+bip_39_word_dash_2: mouse-multiply
+bip_39_word_dash_3: mouse-multiply-fun
+bip_39_word_dash_4: mouse-multiply-fun-news
+bip_39_word_dash_5: mouse-multiply-fun-news-spice
+bip_39_word_dash_6: mouse-multiply-fun-news-spice-matrix
+bip_39_word_dash_7: mouse-multiply-fun-news-spice-matrix-employ
+bip_39_word_dash_8: mouse-multiply-fun-news-spice-matrix-employ-spray
+bip_39_word_dash_9: mouse-multiply-fun-news-spice-matrix-employ-spray-badge
+bip_39_word_new_br_1: mouse
+bip_39_word_new_br_10: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge<br>shoulder
+bip_39_word_new_br_11: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge<br>shoulder<br>nation
+bip_39_word_new_br_12: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge<br>shoulder<br>nation<br>artist
+bip_39_word_new_br_2: mouse<br>multiply
+bip_39_word_new_br_3: mouse<br>multiply<br>fun
+bip_39_word_new_br_4: mouse<br>multiply<br>fun<br>news
+bip_39_word_new_br_5: mouse<br>multiply<br>fun<br>news<br>spice
+bip_39_word_new_br_6: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix
+bip_39_word_new_br_7: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ
+bip_39_word_new_br_8: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray
+bip_39_word_new_br_9: mouse<br>multiply<br>fun<br>news<br>spice<br>matrix<br>employ<br>spray<br>badge
+bip_39_word_new_line_1: mouse
+bip_39_word_new_line_10: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ
+
+  spray
+
+  badge
+
+  shoulder'
+bip_39_word_new_line_11: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ
+
+  spray
+
+  badge
+
+  shoulder
+
+  nation'
+bip_39_word_new_line_12: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ
+
+  spray
+
+  badge
+
+  shoulder
+
+  nation
+
+  artist'
+bip_39_word_new_line_2: 'mouse
+
+  multiply'
+bip_39_word_new_line_3: 'mouse
+
+  multiply
+
+  fun'
+bip_39_word_new_line_4: 'mouse
+
+  multiply
+
+  fun
+
+  news'
+bip_39_word_new_line_5: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice'
+bip_39_word_new_line_6: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix'
+bip_39_word_new_line_7: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ'
+bip_39_word_new_line_8: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ
+
+  spray'
+bip_39_word_new_line_9: 'mouse
+
+  multiply
+
+  fun
+
+  news
+
+  spice
+
+  matrix
+
+  employ
+
+  spray
+
+  badge'
+bip_39_word_no_space_1: mouse
+bip_39_word_no_space_10: mousemultiplyfunnewsspicematrixemployspraybadgeshoulder
+bip_39_word_no_space_11: mousemultiplyfunnewsspicematrixemployspraybadgeshouldernation
+bip_39_word_no_space_12: mousemultiplyfunnewsspicematrixemployspraybadgeshouldernationartist
+bip_39_word_no_space_2: mousemultiply
+bip_39_word_no_space_3: mousemultiplyfun
+bip_39_word_no_space_4: mousemultiplyfunnews
+bip_39_word_no_space_5: mousemultiplyfunnewsspice
+bip_39_word_no_space_6: mousemultiplyfunnewsspicematrix
+bip_39_word_no_space_7: mousemultiplyfunnewsspicematrixemploy
+bip_39_word_no_space_8: mousemultiplyfunnewsspicematrixemployspray
+bip_39_word_no_space_9: mousemultiplyfunnewsspicematrixemployspraybadge
+bip_39_word_space_0:
+- mouse
+- multiply
+- fun
+- news
+- spice
+- matrix
+- employ
+- spray
+- badge
+- shoulder
+- nation
+- artist
+bip_39_word_space_1: mouse
+bip_39_word_space_10: mouse multiply fun news spice matrix employ spray badge shoulder
+bip_39_word_space_11: mouse multiply fun news spice matrix employ spray badge shoulder
+  nation
+bip_39_word_space_12: mouse multiply fun news spice matrix employ spray badge shoulder
+  nation artist
+bip_39_word_space_2: mouse multiply
+bip_39_word_space_3: mouse multiply fun
+bip_39_word_space_4: mouse multiply fun news
+bip_39_word_space_5: mouse multiply fun news spice
+bip_39_word_space_6: mouse multiply fun news spice matrix
+bip_39_word_space_7: mouse multiply fun news spice matrix employ
+bip_39_word_space_8: mouse multiply fun news spice matrix employ spray
+bip_39_word_space_9: mouse multiply fun news spice matrix employ spray badge
+bip_39_word_underscore_1: mouse
+bip_39_word_underscore_10: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder
+bip_39_word_underscore_11: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder_nation
+bip_39_word_underscore_12: mouse_multiply_fun_news_spice_matrix_employ_spray_badge_shoulder_nation_artist
+bip_39_word_underscore_2: mouse_multiply
+bip_39_word_underscore_3: mouse_multiply_fun
+bip_39_word_underscore_4: mouse_multiply_fun_news
+bip_39_word_underscore_5: mouse_multiply_fun_news_spice
+bip_39_word_underscore_6: mouse_multiply_fun_news_spice_matrix
+bip_39_word_underscore_7: mouse_multiply_fun_news_spice_matrix_employ
+bip_39_word_underscore_8: mouse_multiply_fun_news_spice_matrix_employ_spray
+bip_39_word_underscore_9: mouse_multiply_fun_news_spice_matrix_employ_spray_badge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_05_01__e
 id_no_color: 0501e
 id_no_size: 05_01__e
 id_no_type: bunting_alphabet_05_01__e
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__e
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__e
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__e
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2085sc1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2085sc1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2085sc1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0501E
 name_no_size: 05 01  E
 name_no_size_short: 05 01  E
 name_no_type: Bunting Alphabet 05 01  E
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__e
 oomp_word: pear eyes briefcase
 oomp_word_emoji: ':pear: :eyes: :briefcase:'

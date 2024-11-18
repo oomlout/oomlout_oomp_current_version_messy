@@ -1,3 +1,191 @@
+bip_39_word_dash_1: price
+bip_39_word_dash_10: price-photo-craft-walk-young-future-kind-rent-nice-ship
+bip_39_word_dash_11: price-photo-craft-walk-young-future-kind-rent-nice-ship-drop
+bip_39_word_dash_2: price-photo
+bip_39_word_dash_3: price-photo-craft
+bip_39_word_dash_4: price-photo-craft-walk
+bip_39_word_dash_5: price-photo-craft-walk-young
+bip_39_word_dash_6: price-photo-craft-walk-young-future
+bip_39_word_dash_7: price-photo-craft-walk-young-future-kind
+bip_39_word_dash_8: price-photo-craft-walk-young-future-kind-rent
+bip_39_word_dash_9: price-photo-craft-walk-young-future-kind-rent-nice
+bip_39_word_new_br_1: price
+bip_39_word_new_br_10: price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship
+bip_39_word_new_br_11: price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice<br>ship<br>drop
+bip_39_word_new_br_2: price<br>photo
+bip_39_word_new_br_3: price<br>photo<br>craft
+bip_39_word_new_br_4: price<br>photo<br>craft<br>walk
+bip_39_word_new_br_5: price<br>photo<br>craft<br>walk<br>young
+bip_39_word_new_br_6: price<br>photo<br>craft<br>walk<br>young<br>future
+bip_39_word_new_br_7: price<br>photo<br>craft<br>walk<br>young<br>future<br>kind
+bip_39_word_new_br_8: price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent
+bip_39_word_new_br_9: price<br>photo<br>craft<br>walk<br>young<br>future<br>kind<br>rent<br>nice
+bip_39_word_new_line_1: price
+bip_39_word_new_line_10: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future
+
+  kind
+
+  rent
+
+  nice
+
+  ship'
+bip_39_word_new_line_11: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future
+
+  kind
+
+  rent
+
+  nice
+
+  ship
+
+  drop'
+bip_39_word_new_line_2: 'price
+
+  photo'
+bip_39_word_new_line_3: 'price
+
+  photo
+
+  craft'
+bip_39_word_new_line_4: 'price
+
+  photo
+
+  craft
+
+  walk'
+bip_39_word_new_line_5: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young'
+bip_39_word_new_line_6: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future'
+bip_39_word_new_line_7: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future
+
+  kind'
+bip_39_word_new_line_8: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future
+
+  kind
+
+  rent'
+bip_39_word_new_line_9: 'price
+
+  photo
+
+  craft
+
+  walk
+
+  young
+
+  future
+
+  kind
+
+  rent
+
+  nice'
+bip_39_word_no_space_1: price
+bip_39_word_no_space_10: pricephotocraftwalkyoungfuturekindrentniceship
+bip_39_word_no_space_11: pricephotocraftwalkyoungfuturekindrentniceshipdrop
+bip_39_word_no_space_2: pricephoto
+bip_39_word_no_space_3: pricephotocraft
+bip_39_word_no_space_4: pricephotocraftwalk
+bip_39_word_no_space_5: pricephotocraftwalkyoung
+bip_39_word_no_space_6: pricephotocraftwalkyoungfuture
+bip_39_word_no_space_7: pricephotocraftwalkyoungfuturekind
+bip_39_word_no_space_8: pricephotocraftwalkyoungfuturekindrent
+bip_39_word_no_space_9: pricephotocraftwalkyoungfuturekindrentnice
+bip_39_word_space_0:
+- price
+- photo
+- craft
+- walk
+- young
+- future
+- kind
+- rent
+- nice
+- ship
+- drop
+bip_39_word_space_1: price
+bip_39_word_space_10: price photo craft walk young future kind rent nice ship
+bip_39_word_space_11: price photo craft walk young future kind rent nice ship drop
+bip_39_word_space_2: price photo
+bip_39_word_space_3: price photo craft
+bip_39_word_space_4: price photo craft walk
+bip_39_word_space_5: price photo craft walk young
+bip_39_word_space_6: price photo craft walk young future
+bip_39_word_space_7: price photo craft walk young future kind
+bip_39_word_space_8: price photo craft walk young future kind rent
+bip_39_word_space_9: price photo craft walk young future kind rent nice
+bip_39_word_underscore_1: price
+bip_39_word_underscore_10: price_photo_craft_walk_young_future_kind_rent_nice_ship
+bip_39_word_underscore_11: price_photo_craft_walk_young_future_kind_rent_nice_ship_drop
+bip_39_word_underscore_2: price_photo
+bip_39_word_underscore_3: price_photo_craft
+bip_39_word_underscore_4: price_photo_craft_walk
+bip_39_word_underscore_5: price_photo_craft_walk_young
+bip_39_word_underscore_6: price_photo_craft_walk_young_future
+bip_39_word_underscore_7: price_photo_craft_walk_young_future_kind
+bip_39_word_underscore_8: price_photo_craft_walk_young_future_kind_rent
+bip_39_word_underscore_9: price_photo_craft_walk_young_future_kind_rent_nice
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +294,14 @@ id_no_class: part_pulley_gt2_02_09__60_teeth_shield_sh_m3
 id_no_color: 020960teethshieldshm3
 id_no_size: 02_09__60_teeth_shield_sh_m3
 id_no_type: pulley_gt2_02_09__60_teeth_shield_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qnl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qnl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qnl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +327,7 @@ name_no_color: 020960Teethshieldshm3
 name_no_size: 02 09  60 Teeth Shield Sh M3
 name_no_size_short: 02 09  60 Teeth Shield Sh M3
 name_no_type: Pulley Gt2 02 09  60 Teeth Shield Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_m3
 oomp_word: bowtie bath ticket
 oomp_word_emoji: ':bowtie: :bath: :ticket:'

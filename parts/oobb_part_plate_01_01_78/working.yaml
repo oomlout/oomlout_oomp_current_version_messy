@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dress
+bip_39_word_dash_10: dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop
+bip_39_word_dash_11: dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop-six
+bip_39_word_dash_12: dress-all-crowd-dash-sponsor-rival-angle-deposit-entire-loop-six-alpha
+bip_39_word_dash_2: dress-all
+bip_39_word_dash_3: dress-all-crowd
+bip_39_word_dash_4: dress-all-crowd-dash
+bip_39_word_dash_5: dress-all-crowd-dash-sponsor
+bip_39_word_dash_6: dress-all-crowd-dash-sponsor-rival
+bip_39_word_dash_7: dress-all-crowd-dash-sponsor-rival-angle
+bip_39_word_dash_8: dress-all-crowd-dash-sponsor-rival-angle-deposit
+bip_39_word_dash_9: dress-all-crowd-dash-sponsor-rival-angle-deposit-entire
+bip_39_word_new_br_1: dress
+bip_39_word_new_br_10: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire<br>loop
+bip_39_word_new_br_11: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire<br>loop<br>six
+bip_39_word_new_br_12: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire<br>loop<br>six<br>alpha
+bip_39_word_new_br_2: dress<br>all
+bip_39_word_new_br_3: dress<br>all<br>crowd
+bip_39_word_new_br_4: dress<br>all<br>crowd<br>dash
+bip_39_word_new_br_5: dress<br>all<br>crowd<br>dash<br>sponsor
+bip_39_word_new_br_6: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival
+bip_39_word_new_br_7: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle
+bip_39_word_new_br_8: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit
+bip_39_word_new_br_9: dress<br>all<br>crowd<br>dash<br>sponsor<br>rival<br>angle<br>deposit<br>entire
+bip_39_word_new_line_1: dress
+bip_39_word_new_line_10: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle
+
+  deposit
+
+  entire
+
+  loop'
+bip_39_word_new_line_11: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle
+
+  deposit
+
+  entire
+
+  loop
+
+  six'
+bip_39_word_new_line_12: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle
+
+  deposit
+
+  entire
+
+  loop
+
+  six
+
+  alpha'
+bip_39_word_new_line_2: 'dress
+
+  all'
+bip_39_word_new_line_3: 'dress
+
+  all
+
+  crowd'
+bip_39_word_new_line_4: 'dress
+
+  all
+
+  crowd
+
+  dash'
+bip_39_word_new_line_5: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor'
+bip_39_word_new_line_6: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival'
+bip_39_word_new_line_7: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle'
+bip_39_word_new_line_8: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle
+
+  deposit'
+bip_39_word_new_line_9: 'dress
+
+  all
+
+  crowd
+
+  dash
+
+  sponsor
+
+  rival
+
+  angle
+
+  deposit
+
+  entire'
+bip_39_word_no_space_1: dress
+bip_39_word_no_space_10: dressallcrowddashsponsorrivalangledepositentireloop
+bip_39_word_no_space_11: dressallcrowddashsponsorrivalangledepositentireloopsix
+bip_39_word_no_space_12: dressallcrowddashsponsorrivalangledepositentireloopsixalpha
+bip_39_word_no_space_2: dressall
+bip_39_word_no_space_3: dressallcrowd
+bip_39_word_no_space_4: dressallcrowddash
+bip_39_word_no_space_5: dressallcrowddashsponsor
+bip_39_word_no_space_6: dressallcrowddashsponsorrival
+bip_39_word_no_space_7: dressallcrowddashsponsorrivalangle
+bip_39_word_no_space_8: dressallcrowddashsponsorrivalangledeposit
+bip_39_word_no_space_9: dressallcrowddashsponsorrivalangledepositentire
+bip_39_word_space_0:
+- dress
+- all
+- crowd
+- dash
+- sponsor
+- rival
+- angle
+- deposit
+- entire
+- loop
+- six
+- alpha
+bip_39_word_space_1: dress
+bip_39_word_space_10: dress all crowd dash sponsor rival angle deposit entire loop
+bip_39_word_space_11: dress all crowd dash sponsor rival angle deposit entire loop
+  six
+bip_39_word_space_12: dress all crowd dash sponsor rival angle deposit entire loop
+  six alpha
+bip_39_word_space_2: dress all
+bip_39_word_space_3: dress all crowd
+bip_39_word_space_4: dress all crowd dash
+bip_39_word_space_5: dress all crowd dash sponsor
+bip_39_word_space_6: dress all crowd dash sponsor rival
+bip_39_word_space_7: dress all crowd dash sponsor rival angle
+bip_39_word_space_8: dress all crowd dash sponsor rival angle deposit
+bip_39_word_space_9: dress all crowd dash sponsor rival angle deposit entire
+bip_39_word_underscore_1: dress
+bip_39_word_underscore_10: dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop
+bip_39_word_underscore_11: dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop_six
+bip_39_word_underscore_12: dress_all_crowd_dash_sponsor_rival_angle_deposit_entire_loop_six_alpha
+bip_39_word_underscore_2: dress_all
+bip_39_word_underscore_3: dress_all_crowd
+bip_39_word_underscore_4: dress_all_crowd_dash
+bip_39_word_underscore_5: dress_all_crowd_dash_sponsor
+bip_39_word_underscore_6: dress_all_crowd_dash_sponsor_rival
+bip_39_word_underscore_7: dress_all_crowd_dash_sponsor_rival_angle
+bip_39_word_underscore_8: dress_all_crowd_dash_sponsor_rival_angle_deposit
+bip_39_word_underscore_9: dress_all_crowd_dash_sponsor_rival_angle_deposit_entire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_01_01_78
 id_no_color: 010178
 id_no_size: 01_01_78
 id_no_type: plate_01_01_78
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_78
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_78
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_78
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204fjc0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204fjc0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204fjc0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 010178
 name_no_size: 01 01 78
 name_no_size_short: 01 01 78
 name_no_type: Plate 01 01 78
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_78
 oomp_word: bamboo books ring
 oomp_word_emoji: ':bamboo: :books: :ring:'

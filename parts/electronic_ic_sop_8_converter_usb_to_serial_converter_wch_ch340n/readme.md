@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Sop 8 Converter USB To Serial Converter Wch Ch340N
+* name_short: 
 ### id
 * oomp_id: electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
   * classification: electronic

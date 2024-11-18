@@ -1,3 +1,223 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click
+bip_39_word_dash_11: exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click-trigger
+bip_39_word_dash_12: exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect-click-trigger-angle
+bip_39_word_dash_2: exhaust-oven
+bip_39_word_dash_3: exhaust-oven-strategy
+bip_39_word_dash_4: exhaust-oven-strategy-slot
+bip_39_word_dash_5: exhaust-oven-strategy-slot-fringe
+bip_39_word_dash_6: exhaust-oven-strategy-slot-fringe-sausage
+bip_39_word_dash_7: exhaust-oven-strategy-slot-fringe-sausage-stairs
+bip_39_word_dash_8: exhaust-oven-strategy-slot-fringe-sausage-stairs-evil
+bip_39_word_dash_9: exhaust-oven-strategy-slot-fringe-sausage-stairs-evil-expect
+bip_39_word_new_br_1: exhaust
+bip_39_word_new_br_10: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect<br>click
+bip_39_word_new_br_11: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect<br>click<br>trigger
+bip_39_word_new_br_12: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect<br>click<br>trigger<br>angle
+bip_39_word_new_br_2: exhaust<br>oven
+bip_39_word_new_br_3: exhaust<br>oven<br>strategy
+bip_39_word_new_br_4: exhaust<br>oven<br>strategy<br>slot
+bip_39_word_new_br_5: exhaust<br>oven<br>strategy<br>slot<br>fringe
+bip_39_word_new_br_6: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage
+bip_39_word_new_br_7: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs
+bip_39_word_new_br_8: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil
+bip_39_word_new_br_9: exhaust<br>oven<br>strategy<br>slot<br>fringe<br>sausage<br>stairs<br>evil<br>expect
+bip_39_word_new_line_1: exhaust
+bip_39_word_new_line_10: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs
+
+  evil
+
+  expect
+
+  click'
+bip_39_word_new_line_11: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs
+
+  evil
+
+  expect
+
+  click
+
+  trigger'
+bip_39_word_new_line_12: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs
+
+  evil
+
+  expect
+
+  click
+
+  trigger
+
+  angle'
+bip_39_word_new_line_2: 'exhaust
+
+  oven'
+bip_39_word_new_line_3: 'exhaust
+
+  oven
+
+  strategy'
+bip_39_word_new_line_4: 'exhaust
+
+  oven
+
+  strategy
+
+  slot'
+bip_39_word_new_line_5: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe'
+bip_39_word_new_line_6: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage'
+bip_39_word_new_line_7: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs'
+bip_39_word_new_line_8: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs
+
+  evil'
+bip_39_word_new_line_9: 'exhaust
+
+  oven
+
+  strategy
+
+  slot
+
+  fringe
+
+  sausage
+
+  stairs
+
+  evil
+
+  expect'
+bip_39_word_no_space_1: exhaust
+bip_39_word_no_space_10: exhaustovenstrategyslotfringesausagestairsevilexpectclick
+bip_39_word_no_space_11: exhaustovenstrategyslotfringesausagestairsevilexpectclicktrigger
+bip_39_word_no_space_12: exhaustovenstrategyslotfringesausagestairsevilexpectclicktriggerangle
+bip_39_word_no_space_2: exhaustoven
+bip_39_word_no_space_3: exhaustovenstrategy
+bip_39_word_no_space_4: exhaustovenstrategyslot
+bip_39_word_no_space_5: exhaustovenstrategyslotfringe
+bip_39_word_no_space_6: exhaustovenstrategyslotfringesausage
+bip_39_word_no_space_7: exhaustovenstrategyslotfringesausagestairs
+bip_39_word_no_space_8: exhaustovenstrategyslotfringesausagestairsevil
+bip_39_word_no_space_9: exhaustovenstrategyslotfringesausagestairsevilexpect
+bip_39_word_space_0:
+- exhaust
+- oven
+- strategy
+- slot
+- fringe
+- sausage
+- stairs
+- evil
+- expect
+- click
+- trigger
+- angle
+bip_39_word_space_1: exhaust
+bip_39_word_space_10: exhaust oven strategy slot fringe sausage stairs evil expect
+  click
+bip_39_word_space_11: exhaust oven strategy slot fringe sausage stairs evil expect
+  click trigger
+bip_39_word_space_12: exhaust oven strategy slot fringe sausage stairs evil expect
+  click trigger angle
+bip_39_word_space_2: exhaust oven
+bip_39_word_space_3: exhaust oven strategy
+bip_39_word_space_4: exhaust oven strategy slot
+bip_39_word_space_5: exhaust oven strategy slot fringe
+bip_39_word_space_6: exhaust oven strategy slot fringe sausage
+bip_39_word_space_7: exhaust oven strategy slot fringe sausage stairs
+bip_39_word_space_8: exhaust oven strategy slot fringe sausage stairs evil
+bip_39_word_space_9: exhaust oven strategy slot fringe sausage stairs evil expect
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click
+bip_39_word_underscore_11: exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click_trigger
+bip_39_word_underscore_12: exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect_click_trigger_angle
+bip_39_word_underscore_2: exhaust_oven
+bip_39_word_underscore_3: exhaust_oven_strategy
+bip_39_word_underscore_4: exhaust_oven_strategy_slot
+bip_39_word_underscore_5: exhaust_oven_strategy_slot_fringe
+bip_39_word_underscore_6: exhaust_oven_strategy_slot_fringe_sausage
+bip_39_word_underscore_7: exhaust_oven_strategy_slot_fringe_sausage_stairs
+bip_39_word_underscore_8: exhaust_oven_strategy_slot_fringe_sausage_stairs_evil
+bip_39_word_underscore_9: exhaust_oven_strategy_slot_fringe_sausage_stairs_evil_expect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_bearing_hardware_bearing_6701
 id_no_color: hardware6701
 id_no_size: hardware_6701
 id_no_type: bearing_hardware_bearing_6701
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6701
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6701
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6701
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205j7d6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205j7d6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205j7d6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardware6701
 name_no_size: Hardware 6701
 name_no_size_short: Hardware 6k7
 name_no_type: Bearing Hardware Bearing 6701
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6701
 oomp_word: scroll pear sleepy
 oomp_word_emoji: ':scroll: :pear: :sleepy:'

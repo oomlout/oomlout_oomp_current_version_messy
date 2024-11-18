@@ -1,3 +1,222 @@
+bip_39_word_dash_1: angry
+bip_39_word_dash_10: angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic
+bip_39_word_dash_11: angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic-farm
+bip_39_word_dash_12: angry-tribe-version-intact-insane-avoid-short-bomb-wage-dynamic-farm-almost
+bip_39_word_dash_2: angry-tribe
+bip_39_word_dash_3: angry-tribe-version
+bip_39_word_dash_4: angry-tribe-version-intact
+bip_39_word_dash_5: angry-tribe-version-intact-insane
+bip_39_word_dash_6: angry-tribe-version-intact-insane-avoid
+bip_39_word_dash_7: angry-tribe-version-intact-insane-avoid-short
+bip_39_word_dash_8: angry-tribe-version-intact-insane-avoid-short-bomb
+bip_39_word_dash_9: angry-tribe-version-intact-insane-avoid-short-bomb-wage
+bip_39_word_new_br_1: angry
+bip_39_word_new_br_10: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic
+bip_39_word_new_br_11: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm
+bip_39_word_new_br_12: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage<br>dynamic<br>farm<br>almost
+bip_39_word_new_br_2: angry<br>tribe
+bip_39_word_new_br_3: angry<br>tribe<br>version
+bip_39_word_new_br_4: angry<br>tribe<br>version<br>intact
+bip_39_word_new_br_5: angry<br>tribe<br>version<br>intact<br>insane
+bip_39_word_new_br_6: angry<br>tribe<br>version<br>intact<br>insane<br>avoid
+bip_39_word_new_br_7: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short
+bip_39_word_new_br_8: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb
+bip_39_word_new_br_9: angry<br>tribe<br>version<br>intact<br>insane<br>avoid<br>short<br>bomb<br>wage
+bip_39_word_new_line_1: angry
+bip_39_word_new_line_10: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short
+
+  bomb
+
+  wage
+
+  dynamic'
+bip_39_word_new_line_11: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short
+
+  bomb
+
+  wage
+
+  dynamic
+
+  farm'
+bip_39_word_new_line_12: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short
+
+  bomb
+
+  wage
+
+  dynamic
+
+  farm
+
+  almost'
+bip_39_word_new_line_2: 'angry
+
+  tribe'
+bip_39_word_new_line_3: 'angry
+
+  tribe
+
+  version'
+bip_39_word_new_line_4: 'angry
+
+  tribe
+
+  version
+
+  intact'
+bip_39_word_new_line_5: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane'
+bip_39_word_new_line_6: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid'
+bip_39_word_new_line_7: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short'
+bip_39_word_new_line_8: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short
+
+  bomb'
+bip_39_word_new_line_9: 'angry
+
+  tribe
+
+  version
+
+  intact
+
+  insane
+
+  avoid
+
+  short
+
+  bomb
+
+  wage'
+bip_39_word_no_space_1: angry
+bip_39_word_no_space_10: angrytribeversionintactinsaneavoidshortbombwagedynamic
+bip_39_word_no_space_11: angrytribeversionintactinsaneavoidshortbombwagedynamicfarm
+bip_39_word_no_space_12: angrytribeversionintactinsaneavoidshortbombwagedynamicfarmalmost
+bip_39_word_no_space_2: angrytribe
+bip_39_word_no_space_3: angrytribeversion
+bip_39_word_no_space_4: angrytribeversionintact
+bip_39_word_no_space_5: angrytribeversionintactinsane
+bip_39_word_no_space_6: angrytribeversionintactinsaneavoid
+bip_39_word_no_space_7: angrytribeversionintactinsaneavoidshort
+bip_39_word_no_space_8: angrytribeversionintactinsaneavoidshortbomb
+bip_39_word_no_space_9: angrytribeversionintactinsaneavoidshortbombwage
+bip_39_word_space_0:
+- angry
+- tribe
+- version
+- intact
+- insane
+- avoid
+- short
+- bomb
+- wage
+- dynamic
+- farm
+- almost
+bip_39_word_space_1: angry
+bip_39_word_space_10: angry tribe version intact insane avoid short bomb wage dynamic
+bip_39_word_space_11: angry tribe version intact insane avoid short bomb wage dynamic
+  farm
+bip_39_word_space_12: angry tribe version intact insane avoid short bomb wage dynamic
+  farm almost
+bip_39_word_space_2: angry tribe
+bip_39_word_space_3: angry tribe version
+bip_39_word_space_4: angry tribe version intact
+bip_39_word_space_5: angry tribe version intact insane
+bip_39_word_space_6: angry tribe version intact insane avoid
+bip_39_word_space_7: angry tribe version intact insane avoid short
+bip_39_word_space_8: angry tribe version intact insane avoid short bomb
+bip_39_word_space_9: angry tribe version intact insane avoid short bomb wage
+bip_39_word_underscore_1: angry
+bip_39_word_underscore_10: angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic
+bip_39_word_underscore_11: angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic_farm
+bip_39_word_underscore_12: angry_tribe_version_intact_insane_avoid_short_bomb_wage_dynamic_farm_almost
+bip_39_word_underscore_2: angry_tribe
+bip_39_word_underscore_3: angry_tribe_version
+bip_39_word_underscore_4: angry_tribe_version_intact
+bip_39_word_underscore_5: angry_tribe_version_intact_insane
+bip_39_word_underscore_6: angry_tribe_version_intact_insane_avoid
+bip_39_word_underscore_7: angry_tribe_version_intact_insane_avoid_short
+bip_39_word_underscore_8: angry_tribe_version_intact_insane_avoid_short_bomb
+bip_39_word_underscore_9: angry_tribe_version_intact_insane_avoid_short_bomb_wage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_
 id_no_color: 050309motorsteppernema17flatshiftedspacer10mm
 id_no_size: 05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
 id_no_type: holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2048m6p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2048m6p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2048m6p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -133,6 +359,7 @@ name_no_color: 050309Motorsteppernema17Flatshiftedspacer10mm
 name_no_size: 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 mm
 name_no_size_short: 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm
 name_no_type: Holder 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm
 oomp_word: blossom trumpet snail
 oomp_word_emoji: ':blossom: :trumpet: :snail:'

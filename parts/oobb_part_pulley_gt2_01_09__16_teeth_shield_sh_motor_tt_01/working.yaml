@@ -1,3 +1,222 @@
+bip_39_word_dash_1: position
+bip_39_word_dash_10: position-join-leg-record-benefit-reunion-keen-firm-warfare-much
+bip_39_word_dash_11: position-join-leg-record-benefit-reunion-keen-firm-warfare-much-world
+bip_39_word_dash_12: position-join-leg-record-benefit-reunion-keen-firm-warfare-much-world-amateur
+bip_39_word_dash_2: position-join
+bip_39_word_dash_3: position-join-leg
+bip_39_word_dash_4: position-join-leg-record
+bip_39_word_dash_5: position-join-leg-record-benefit
+bip_39_word_dash_6: position-join-leg-record-benefit-reunion
+bip_39_word_dash_7: position-join-leg-record-benefit-reunion-keen
+bip_39_word_dash_8: position-join-leg-record-benefit-reunion-keen-firm
+bip_39_word_dash_9: position-join-leg-record-benefit-reunion-keen-firm-warfare
+bip_39_word_new_br_1: position
+bip_39_word_new_br_10: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much
+bip_39_word_new_br_11: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world
+bip_39_word_new_br_12: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare<br>much<br>world<br>amateur
+bip_39_word_new_br_2: position<br>join
+bip_39_word_new_br_3: position<br>join<br>leg
+bip_39_word_new_br_4: position<br>join<br>leg<br>record
+bip_39_word_new_br_5: position<br>join<br>leg<br>record<br>benefit
+bip_39_word_new_br_6: position<br>join<br>leg<br>record<br>benefit<br>reunion
+bip_39_word_new_br_7: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen
+bip_39_word_new_br_8: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm
+bip_39_word_new_br_9: position<br>join<br>leg<br>record<br>benefit<br>reunion<br>keen<br>firm<br>warfare
+bip_39_word_new_line_1: position
+bip_39_word_new_line_10: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen
+
+  firm
+
+  warfare
+
+  much'
+bip_39_word_new_line_11: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen
+
+  firm
+
+  warfare
+
+  much
+
+  world'
+bip_39_word_new_line_12: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen
+
+  firm
+
+  warfare
+
+  much
+
+  world
+
+  amateur'
+bip_39_word_new_line_2: 'position
+
+  join'
+bip_39_word_new_line_3: 'position
+
+  join
+
+  leg'
+bip_39_word_new_line_4: 'position
+
+  join
+
+  leg
+
+  record'
+bip_39_word_new_line_5: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit'
+bip_39_word_new_line_6: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion'
+bip_39_word_new_line_7: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen'
+bip_39_word_new_line_8: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen
+
+  firm'
+bip_39_word_new_line_9: 'position
+
+  join
+
+  leg
+
+  record
+
+  benefit
+
+  reunion
+
+  keen
+
+  firm
+
+  warfare'
+bip_39_word_no_space_1: position
+bip_39_word_no_space_10: positionjoinlegrecordbenefitreunionkeenfirmwarfaremuch
+bip_39_word_no_space_11: positionjoinlegrecordbenefitreunionkeenfirmwarfaremuchworld
+bip_39_word_no_space_12: positionjoinlegrecordbenefitreunionkeenfirmwarfaremuchworldamateur
+bip_39_word_no_space_2: positionjoin
+bip_39_word_no_space_3: positionjoinleg
+bip_39_word_no_space_4: positionjoinlegrecord
+bip_39_word_no_space_5: positionjoinlegrecordbenefit
+bip_39_word_no_space_6: positionjoinlegrecordbenefitreunion
+bip_39_word_no_space_7: positionjoinlegrecordbenefitreunionkeen
+bip_39_word_no_space_8: positionjoinlegrecordbenefitreunionkeenfirm
+bip_39_word_no_space_9: positionjoinlegrecordbenefitreunionkeenfirmwarfare
+bip_39_word_space_0:
+- position
+- join
+- leg
+- record
+- benefit
+- reunion
+- keen
+- firm
+- warfare
+- much
+- world
+- amateur
+bip_39_word_space_1: position
+bip_39_word_space_10: position join leg record benefit reunion keen firm warfare much
+bip_39_word_space_11: position join leg record benefit reunion keen firm warfare much
+  world
+bip_39_word_space_12: position join leg record benefit reunion keen firm warfare much
+  world amateur
+bip_39_word_space_2: position join
+bip_39_word_space_3: position join leg
+bip_39_word_space_4: position join leg record
+bip_39_word_space_5: position join leg record benefit
+bip_39_word_space_6: position join leg record benefit reunion
+bip_39_word_space_7: position join leg record benefit reunion keen
+bip_39_word_space_8: position join leg record benefit reunion keen firm
+bip_39_word_space_9: position join leg record benefit reunion keen firm warfare
+bip_39_word_underscore_1: position
+bip_39_word_underscore_10: position_join_leg_record_benefit_reunion_keen_firm_warfare_much
+bip_39_word_underscore_11: position_join_leg_record_benefit_reunion_keen_firm_warfare_much_world
+bip_39_word_underscore_12: position_join_leg_record_benefit_reunion_keen_firm_warfare_much_world_amateur
+bip_39_word_underscore_2: position_join
+bip_39_word_underscore_3: position_join_leg
+bip_39_word_underscore_4: position_join_leg_record
+bip_39_word_underscore_5: position_join_leg_record_benefit
+bip_39_word_underscore_6: position_join_leg_record_benefit_reunion
+bip_39_word_underscore_7: position_join_leg_record_benefit_reunion_keen
+bip_39_word_underscore_8: position_join_leg_record_benefit_reunion_keen_firm
+bip_39_word_underscore_9: position_join_leg_record_benefit_reunion_keen_firm_warfare
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
 id_no_color: 010916teethshieldshmotortt01
 id_no_size: 01_09__16_teeth_shield_sh_motor_tt_01
 id_no_type: pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204u5ic
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204u5ic
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204u5ic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010916Teethshieldshmotortt01
 name_no_size: 01 09  16 Teeth Shield Sh Motor Tt 01
 name_no_size_short: 01 09  16 Teeth Shield Sh Motor Tt 01
 name_no_type: Pulley Gt2 01 09  16 Teeth Shield Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__16_teeth_shield_sh_motor_tt_01
 oomp_word: computer ok sunflower
 oomp_word_emoji: ':computer: :ok: :sunflower:'

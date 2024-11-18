@@ -1,3 +1,222 @@
+bip_39_word_dash_1: smart
+bip_39_word_dash_10: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth
+bip_39_word_dash_11: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth-dawn
+bip_39_word_dash_12: smart-humble-become-promote-shrug-feel-pony-brain-media-cloth-dawn-among
+bip_39_word_dash_2: smart-humble
+bip_39_word_dash_3: smart-humble-become
+bip_39_word_dash_4: smart-humble-become-promote
+bip_39_word_dash_5: smart-humble-become-promote-shrug
+bip_39_word_dash_6: smart-humble-become-promote-shrug-feel
+bip_39_word_dash_7: smart-humble-become-promote-shrug-feel-pony
+bip_39_word_dash_8: smart-humble-become-promote-shrug-feel-pony-brain
+bip_39_word_dash_9: smart-humble-become-promote-shrug-feel-pony-brain-media
+bip_39_word_new_br_1: smart
+bip_39_word_new_br_10: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth
+bip_39_word_new_br_11: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn
+bip_39_word_new_br_12: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media<br>cloth<br>dawn<br>among
+bip_39_word_new_br_2: smart<br>humble
+bip_39_word_new_br_3: smart<br>humble<br>become
+bip_39_word_new_br_4: smart<br>humble<br>become<br>promote
+bip_39_word_new_br_5: smart<br>humble<br>become<br>promote<br>shrug
+bip_39_word_new_br_6: smart<br>humble<br>become<br>promote<br>shrug<br>feel
+bip_39_word_new_br_7: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony
+bip_39_word_new_br_8: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain
+bip_39_word_new_br_9: smart<br>humble<br>become<br>promote<br>shrug<br>feel<br>pony<br>brain<br>media
+bip_39_word_new_line_1: smart
+bip_39_word_new_line_10: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony
+
+  brain
+
+  media
+
+  cloth'
+bip_39_word_new_line_11: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony
+
+  brain
+
+  media
+
+  cloth
+
+  dawn'
+bip_39_word_new_line_12: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony
+
+  brain
+
+  media
+
+  cloth
+
+  dawn
+
+  among'
+bip_39_word_new_line_2: 'smart
+
+  humble'
+bip_39_word_new_line_3: 'smart
+
+  humble
+
+  become'
+bip_39_word_new_line_4: 'smart
+
+  humble
+
+  become
+
+  promote'
+bip_39_word_new_line_5: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug'
+bip_39_word_new_line_6: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel'
+bip_39_word_new_line_7: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony'
+bip_39_word_new_line_8: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony
+
+  brain'
+bip_39_word_new_line_9: 'smart
+
+  humble
+
+  become
+
+  promote
+
+  shrug
+
+  feel
+
+  pony
+
+  brain
+
+  media'
+bip_39_word_no_space_1: smart
+bip_39_word_no_space_10: smarthumblebecomepromoteshrugfeelponybrainmediacloth
+bip_39_word_no_space_11: smarthumblebecomepromoteshrugfeelponybrainmediaclothdawn
+bip_39_word_no_space_12: smarthumblebecomepromoteshrugfeelponybrainmediaclothdawnamong
+bip_39_word_no_space_2: smarthumble
+bip_39_word_no_space_3: smarthumblebecome
+bip_39_word_no_space_4: smarthumblebecomepromote
+bip_39_word_no_space_5: smarthumblebecomepromoteshrug
+bip_39_word_no_space_6: smarthumblebecomepromoteshrugfeel
+bip_39_word_no_space_7: smarthumblebecomepromoteshrugfeelpony
+bip_39_word_no_space_8: smarthumblebecomepromoteshrugfeelponybrain
+bip_39_word_no_space_9: smarthumblebecomepromoteshrugfeelponybrainmedia
+bip_39_word_space_0:
+- smart
+- humble
+- become
+- promote
+- shrug
+- feel
+- pony
+- brain
+- media
+- cloth
+- dawn
+- among
+bip_39_word_space_1: smart
+bip_39_word_space_10: smart humble become promote shrug feel pony brain media cloth
+bip_39_word_space_11: smart humble become promote shrug feel pony brain media cloth
+  dawn
+bip_39_word_space_12: smart humble become promote shrug feel pony brain media cloth
+  dawn among
+bip_39_word_space_2: smart humble
+bip_39_word_space_3: smart humble become
+bip_39_word_space_4: smart humble become promote
+bip_39_word_space_5: smart humble become promote shrug
+bip_39_word_space_6: smart humble become promote shrug feel
+bip_39_word_space_7: smart humble become promote shrug feel pony
+bip_39_word_space_8: smart humble become promote shrug feel pony brain
+bip_39_word_space_9: smart humble become promote shrug feel pony brain media
+bip_39_word_underscore_1: smart
+bip_39_word_underscore_10: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth
+bip_39_word_underscore_11: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth_dawn
+bip_39_word_underscore_12: smart_humble_become_promote_shrug_feel_pony_brain_media_cloth_dawn_among
+bip_39_word_underscore_2: smart_humble
+bip_39_word_underscore_3: smart_humble_become
+bip_39_word_underscore_4: smart_humble_become_promote
+bip_39_word_underscore_5: smart_humble_become_promote_shrug
+bip_39_word_underscore_6: smart_humble_become_promote_shrug_feel
+bip_39_word_underscore_7: smart_humble_become_promote_shrug_feel_pony
+bip_39_word_underscore_8: smart_humble_become_promote_shrug_feel_pony_brain
+bip_39_word_underscore_9: smart_humble_become_promote_shrug_feel_pony_brain_media
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_11_09
 id_no_color: '131109'
 id_no_size: '13_11_09'
 id_no_type: tray_thin_13_11_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_11_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_11_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_11_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204xlmy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204xlmy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204xlmy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '131109'
 name_no_size: 13 11 09
 name_no_size_short: 13 11 09
 name_no_type: Tray Thin 13 11 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_11_09
 oomp_word: fax moon cherries
 oomp_word_emoji: ':fax: :moon: :cherries:'

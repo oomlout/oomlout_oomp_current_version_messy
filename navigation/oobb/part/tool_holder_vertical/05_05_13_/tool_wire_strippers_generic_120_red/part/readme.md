@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tool Holder Vertical 05 05 13  Tool Wire Strippers Generic 120 Red
+* name_short: 
 ### id
 * oomp_id: oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :frog: :tiger: :goat:
 * md5_6_alpha: 26z4q
 * md5_6: 38395a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2026z4q)
+[2x1](http://192.168.1.242:1112/?label=oomp%2026z4q)
+[6x4](http://192.168.1.55:1112/?label=oomp%2026z4q)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ clever |
 | id_no_color | 050513toolwirestrippersgeneric120red |  
 | id_no_size | 05_05_13__tool_wire_strippers_generic_120_red |  
 | id_no_type | tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2026z4q |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2026z4q |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2026z4q |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ clever |
 | name_no_size | 05 05 13  Tool Wire Strippers Generic 120 Red |  
 | name_no_size_short | 05 05 13  Tool Wire Strippers Generic 120 Red |  
 | name_no_type | Tool Holder Vertical 05 05 13  Tool Wire Strippers Generic 120 Red |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red |  
 | oomp_word | frog tiger goat |  
 | oomp_word_emoji | :frog: :tiger: :goat: |  

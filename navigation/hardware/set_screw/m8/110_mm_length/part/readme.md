@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Set Screw M8 110 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_set_screw_m8_110_mm_length
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bowling: :anger: :airplane:
 * md5_6_alpha: 5z0me
 * md5_6: 9912e6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205z0me)
+[2x1](http://192.168.1.242:1112/?label=oomp%205z0me)
+[6x4](http://192.168.1.55:1112/?label=oomp%205z0me)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_110_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_110_mm_length) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m8-x-110-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m8-x-110-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540110)                           
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.3178 | 0.1986 | 0.1986 | 0.1589 | 0.1589 |
+| orbital_fasteners | 0.3178 | 0.1986 | 0.1986 | 0.1589 | 0.1589 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -263,7 +305,22 @@ tiger |
 | id_no_size | 110_mm_length |  
 | id_no_type | m8_110_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_110_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_110_mm_length |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m8-x-110-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated- |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_4 | https://www.harclob2b.com/m8-x-110-high-tensile-set-gr-8-8-zinc-plated-metal-z0318m540110 |  
+| link_4_name | webpage_manufacturer_metalmate |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m8-x-110-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated- |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m8-x-110-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated- |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_110_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205z0me |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205z0me |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205z0me |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +363,7 @@ tiger |
 | oomlout_bolt_size | M8 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ss8m110 |  
 | oomlout_short_code_upper | SS8M110 |  
 | oomp_id | hardware_set_screw_m8_110_mm_length |  
@@ -326,12 +384,22 @@ tiger |
 | price_100 | 0.1986 |  
 | price_1000 | 0.1589 |  
 | price_10000 | 0.1589 |  
+| price_10000_distributor_1 | 0.1589 |  
 | price_10000_distributor_orbital_fasteners | 0.1589 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.1589 |  
 | price_1000_distributor_orbital_fasteners | 0.1589 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.1986 |  
 | price_100_distributor_orbital_fasteners | 0.1986 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.3178 |  
 | price_1_distributor_orbital_fasteners | 0.3178 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.1986 |  
+| price_200_distributor_1 | 0.1986 |  
 | price_200_distributor_orbital_fasteners | 0.1986 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.1986 |  
 | quantity_current | 200 |  
 | short_code | ss8 |  

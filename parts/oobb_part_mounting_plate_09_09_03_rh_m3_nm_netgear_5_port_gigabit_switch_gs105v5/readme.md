@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5
   * classification: oobb

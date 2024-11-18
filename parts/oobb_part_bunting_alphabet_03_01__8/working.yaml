@@ -1,3 +1,223 @@
+bip_39_word_dash_1: surface
+bip_39_word_dash_10: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object
+bip_39_word_dash_11: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object-solid
+bip_39_word_dash_12: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range-object-solid-accident
+bip_39_word_dash_2: surface-tongue
+bip_39_word_dash_3: surface-tongue-essay
+bip_39_word_dash_4: surface-tongue-essay-pottery
+bip_39_word_dash_5: surface-tongue-essay-pottery-apart
+bip_39_word_dash_6: surface-tongue-essay-pottery-apart-shine
+bip_39_word_dash_7: surface-tongue-essay-pottery-apart-shine-pistol
+bip_39_word_dash_8: surface-tongue-essay-pottery-apart-shine-pistol-cushion
+bip_39_word_dash_9: surface-tongue-essay-pottery-apart-shine-pistol-cushion-range
+bip_39_word_new_br_1: surface
+bip_39_word_new_br_10: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object
+bip_39_word_new_br_11: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object<br>solid
+bip_39_word_new_br_12: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range<br>object<br>solid<br>accident
+bip_39_word_new_br_2: surface<br>tongue
+bip_39_word_new_br_3: surface<br>tongue<br>essay
+bip_39_word_new_br_4: surface<br>tongue<br>essay<br>pottery
+bip_39_word_new_br_5: surface<br>tongue<br>essay<br>pottery<br>apart
+bip_39_word_new_br_6: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine
+bip_39_word_new_br_7: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol
+bip_39_word_new_br_8: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion
+bip_39_word_new_br_9: surface<br>tongue<br>essay<br>pottery<br>apart<br>shine<br>pistol<br>cushion<br>range
+bip_39_word_new_line_1: surface
+bip_39_word_new_line_10: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol
+
+  cushion
+
+  range
+
+  object'
+bip_39_word_new_line_11: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol
+
+  cushion
+
+  range
+
+  object
+
+  solid'
+bip_39_word_new_line_12: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol
+
+  cushion
+
+  range
+
+  object
+
+  solid
+
+  accident'
+bip_39_word_new_line_2: 'surface
+
+  tongue'
+bip_39_word_new_line_3: 'surface
+
+  tongue
+
+  essay'
+bip_39_word_new_line_4: 'surface
+
+  tongue
+
+  essay
+
+  pottery'
+bip_39_word_new_line_5: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart'
+bip_39_word_new_line_6: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine'
+bip_39_word_new_line_7: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol'
+bip_39_word_new_line_8: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol
+
+  cushion'
+bip_39_word_new_line_9: 'surface
+
+  tongue
+
+  essay
+
+  pottery
+
+  apart
+
+  shine
+
+  pistol
+
+  cushion
+
+  range'
+bip_39_word_no_space_1: surface
+bip_39_word_no_space_10: surfacetongueessaypotteryapartshinepistolcushionrangeobject
+bip_39_word_no_space_11: surfacetongueessaypotteryapartshinepistolcushionrangeobjectsolid
+bip_39_word_no_space_12: surfacetongueessaypotteryapartshinepistolcushionrangeobjectsolidaccident
+bip_39_word_no_space_2: surfacetongue
+bip_39_word_no_space_3: surfacetongueessay
+bip_39_word_no_space_4: surfacetongueessaypottery
+bip_39_word_no_space_5: surfacetongueessaypotteryapart
+bip_39_word_no_space_6: surfacetongueessaypotteryapartshine
+bip_39_word_no_space_7: surfacetongueessaypotteryapartshinepistol
+bip_39_word_no_space_8: surfacetongueessaypotteryapartshinepistolcushion
+bip_39_word_no_space_9: surfacetongueessaypotteryapartshinepistolcushionrange
+bip_39_word_space_0:
+- surface
+- tongue
+- essay
+- pottery
+- apart
+- shine
+- pistol
+- cushion
+- range
+- object
+- solid
+- accident
+bip_39_word_space_1: surface
+bip_39_word_space_10: surface tongue essay pottery apart shine pistol cushion range
+  object
+bip_39_word_space_11: surface tongue essay pottery apart shine pistol cushion range
+  object solid
+bip_39_word_space_12: surface tongue essay pottery apart shine pistol cushion range
+  object solid accident
+bip_39_word_space_2: surface tongue
+bip_39_word_space_3: surface tongue essay
+bip_39_word_space_4: surface tongue essay pottery
+bip_39_word_space_5: surface tongue essay pottery apart
+bip_39_word_space_6: surface tongue essay pottery apart shine
+bip_39_word_space_7: surface tongue essay pottery apart shine pistol
+bip_39_word_space_8: surface tongue essay pottery apart shine pistol cushion
+bip_39_word_space_9: surface tongue essay pottery apart shine pistol cushion range
+bip_39_word_underscore_1: surface
+bip_39_word_underscore_10: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object
+bip_39_word_underscore_11: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object_solid
+bip_39_word_underscore_12: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range_object_solid_accident
+bip_39_word_underscore_2: surface_tongue
+bip_39_word_underscore_3: surface_tongue_essay
+bip_39_word_underscore_4: surface_tongue_essay_pottery
+bip_39_word_underscore_5: surface_tongue_essay_pottery_apart
+bip_39_word_underscore_6: surface_tongue_essay_pottery_apart_shine
+bip_39_word_underscore_7: surface_tongue_essay_pottery_apart_shine_pistol
+bip_39_word_underscore_8: surface_tongue_essay_pottery_apart_shine_pistol_cushion
+bip_39_word_underscore_9: surface_tongue_essay_pottery_apart_shine_pistol_cushion_range
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_03_01__8
 id_no_color: 03018
 id_no_size: 03_01__8
 id_no_type: bunting_alphabet_03_01__8
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__8
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__8
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__8
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20x65i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20x65i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20x65i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 03018
 name_no_size: 03 01  8
 name_no_size_short: 03 01  8
 name_no_type: Bunting Alphabet 03 01  8
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__8
 oomp_word: thumbsdown hearts leaves
 oomp_word_emoji: ':thumbsdown: :hearts: :leaves:'

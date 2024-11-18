@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Lga 8 Pin 2 5 mm X 2 5 mm Sensor Pressure Temperature Bosch Bme280
+* name_short: 
 ### id
 * oomp_id: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pig: :new_moon: :school:
 * md5_6_alpha: 2cvyu
 * md5_6: 3c6ed6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202cvyu)
+[2x1](http://192.168.1.242:1112/?label=oomp%202cvyu)
+[6x4](http://192.168.1.55:1112/?label=oomp%202cvyu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ else |
 | id_no_color | pressure_temperature_bosch_bme280 |  
 | id_no_size | sensor_pressure_temperature_bosch_bme280 |  
 | id_no_type | lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202cvyu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202cvyu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202cvyu |  
 | manufacturer | bosch |  
 | manufacturer_capital | Bosch |  
 | manufacturer_first_letter | b |  
@@ -329,6 +362,7 @@ else |
 | name_no_size | Sensor Pressure Temperature Bosch Bme280 |  
 | name_no_size_short | Sensor Pressure Temperature Bosch Bme280 |  
 | name_no_type | Lga 8 Pin 2 5 mm X 2 5 mm Sensor Pressure Temperature Bosch Bme280 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280 |  
 | oomp_word | pig new_moon school |  
 | oomp_word_emoji | :pig: :new_moon: :school: |  

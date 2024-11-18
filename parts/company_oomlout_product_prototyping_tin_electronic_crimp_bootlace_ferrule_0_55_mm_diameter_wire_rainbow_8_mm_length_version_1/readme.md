@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Company Oomlout Product Prototyping Tin Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Rainbow 8 mm Length Version 1
+* name_short: 
 ### id
 * oomp_id: company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_rainbow_8_mm_length_version_1
   * classification: company_oomlout

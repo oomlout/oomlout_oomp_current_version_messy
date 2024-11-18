@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Bowl 3000 Ml 240 mm Diameter Pyrex 181B000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :cyclone: :ok: :squirrel:
 * md5_6_alpha: 1vecw
 * md5_6: 2ffb70
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201vecw)
+[2x1](http://192.168.1.242:1112/?label=oomp%201vecw)
+[6x4](http://192.168.1.55:1112/?label=oomp%201vecw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,8 +307,15 @@ team |
 | id_no_color | bowl3000ml240mmdiameter181B000 |  
 | id_no_size | bowl_3000_ml_240_mm_diameter_181B000 |  
 | id_no_type | pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
+| link_2_name | github_link |  
 | link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280730659 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201vecw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201vecw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201vecw |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
 | manufacturer_first_letter | p |  
@@ -331,6 +364,7 @@ team |
 | name_no_size | Bowl 3000 Ml 240 mm Diameter 181B000 |  
 | name_no_size_short | Bowl 3000 Ml 240 Mm Diameter 181B000 |  
 | name_no_type | Pyrex Bowl 3000 Ml 240 mm Diameter Pyrex 181B000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000 |  
 | oomp_word | cyclone ok squirrel |  
 | oomp_word_emoji | :cyclone: :ok: :squirrel: |  

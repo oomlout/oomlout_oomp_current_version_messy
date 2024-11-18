@@ -1,3 +1,222 @@
+bip_39_word_dash_1: together
+bip_39_word_dash_10: together-camp-crop-only-liar-vessel-immune-tonight-render-hover
+bip_39_word_dash_11: together-camp-crop-only-liar-vessel-immune-tonight-render-hover-thrive
+bip_39_word_dash_12: together-camp-crop-only-liar-vessel-immune-tonight-render-hover-thrive-adult
+bip_39_word_dash_2: together-camp
+bip_39_word_dash_3: together-camp-crop
+bip_39_word_dash_4: together-camp-crop-only
+bip_39_word_dash_5: together-camp-crop-only-liar
+bip_39_word_dash_6: together-camp-crop-only-liar-vessel
+bip_39_word_dash_7: together-camp-crop-only-liar-vessel-immune
+bip_39_word_dash_8: together-camp-crop-only-liar-vessel-immune-tonight
+bip_39_word_dash_9: together-camp-crop-only-liar-vessel-immune-tonight-render
+bip_39_word_new_br_1: together
+bip_39_word_new_br_10: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover
+bip_39_word_new_br_11: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover<br>thrive
+bip_39_word_new_br_12: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render<br>hover<br>thrive<br>adult
+bip_39_word_new_br_2: together<br>camp
+bip_39_word_new_br_3: together<br>camp<br>crop
+bip_39_word_new_br_4: together<br>camp<br>crop<br>only
+bip_39_word_new_br_5: together<br>camp<br>crop<br>only<br>liar
+bip_39_word_new_br_6: together<br>camp<br>crop<br>only<br>liar<br>vessel
+bip_39_word_new_br_7: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune
+bip_39_word_new_br_8: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight
+bip_39_word_new_br_9: together<br>camp<br>crop<br>only<br>liar<br>vessel<br>immune<br>tonight<br>render
+bip_39_word_new_line_1: together
+bip_39_word_new_line_10: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover'
+bip_39_word_new_line_11: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover
+
+  thrive'
+bip_39_word_new_line_12: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render
+
+  hover
+
+  thrive
+
+  adult'
+bip_39_word_new_line_2: 'together
+
+  camp'
+bip_39_word_new_line_3: 'together
+
+  camp
+
+  crop'
+bip_39_word_new_line_4: 'together
+
+  camp
+
+  crop
+
+  only'
+bip_39_word_new_line_5: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar'
+bip_39_word_new_line_6: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel'
+bip_39_word_new_line_7: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune'
+bip_39_word_new_line_8: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight'
+bip_39_word_new_line_9: 'together
+
+  camp
+
+  crop
+
+  only
+
+  liar
+
+  vessel
+
+  immune
+
+  tonight
+
+  render'
+bip_39_word_no_space_1: together
+bip_39_word_no_space_10: togethercampcroponlyliarvesselimmunetonightrenderhover
+bip_39_word_no_space_11: togethercampcroponlyliarvesselimmunetonightrenderhoverthrive
+bip_39_word_no_space_12: togethercampcroponlyliarvesselimmunetonightrenderhoverthriveadult
+bip_39_word_no_space_2: togethercamp
+bip_39_word_no_space_3: togethercampcrop
+bip_39_word_no_space_4: togethercampcroponly
+bip_39_word_no_space_5: togethercampcroponlyliar
+bip_39_word_no_space_6: togethercampcroponlyliarvessel
+bip_39_word_no_space_7: togethercampcroponlyliarvesselimmune
+bip_39_word_no_space_8: togethercampcroponlyliarvesselimmunetonight
+bip_39_word_no_space_9: togethercampcroponlyliarvesselimmunetonightrender
+bip_39_word_space_0:
+- together
+- camp
+- crop
+- only
+- liar
+- vessel
+- immune
+- tonight
+- render
+- hover
+- thrive
+- adult
+bip_39_word_space_1: together
+bip_39_word_space_10: together camp crop only liar vessel immune tonight render hover
+bip_39_word_space_11: together camp crop only liar vessel immune tonight render hover
+  thrive
+bip_39_word_space_12: together camp crop only liar vessel immune tonight render hover
+  thrive adult
+bip_39_word_space_2: together camp
+bip_39_word_space_3: together camp crop
+bip_39_word_space_4: together camp crop only
+bip_39_word_space_5: together camp crop only liar
+bip_39_word_space_6: together camp crop only liar vessel
+bip_39_word_space_7: together camp crop only liar vessel immune
+bip_39_word_space_8: together camp crop only liar vessel immune tonight
+bip_39_word_space_9: together camp crop only liar vessel immune tonight render
+bip_39_word_underscore_1: together
+bip_39_word_underscore_10: together_camp_crop_only_liar_vessel_immune_tonight_render_hover
+bip_39_word_underscore_11: together_camp_crop_only_liar_vessel_immune_tonight_render_hover_thrive
+bip_39_word_underscore_12: together_camp_crop_only_liar_vessel_immune_tonight_render_hover_thrive_adult
+bip_39_word_underscore_2: together_camp
+bip_39_word_underscore_3: together_camp_crop
+bip_39_word_underscore_4: together_camp_crop_only
+bip_39_word_underscore_5: together_camp_crop_only_liar
+bip_39_word_underscore_6: together_camp_crop_only_liar_vessel
+bip_39_word_underscore_7: together_camp_crop_only_liar_vessel_immune
+bip_39_word_underscore_8: together_camp_crop_only_liar_vessel_immune_tonight
+bip_39_word_underscore_9: together_camp_crop_only_liar_vessel_immune_tonight_render
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_11_12
 id_no_color: '071112'
 id_no_size: '07_11_12'
 id_no_type: tray_07_11_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202er17
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202er17
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202er17
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '071112'
 name_no_size: 07 11 12
 name_no_size_short: 07 11 12
 name_no_type: Tray 07 11 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_11_12
 oomp_word: cow birthday rooster
 oomp_word_emoji: ':cow: :birthday: :rooster:'

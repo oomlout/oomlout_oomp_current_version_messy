@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pottery
+bip_39_word_dash_10: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune
+bip_39_word_dash_11: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune-glad
+bip_39_word_dash_12: pottery-ability-someone-sure-cancel-will-media-grab-agent-fortune-glad-aerobic
+bip_39_word_dash_2: pottery-ability
+bip_39_word_dash_3: pottery-ability-someone
+bip_39_word_dash_4: pottery-ability-someone-sure
+bip_39_word_dash_5: pottery-ability-someone-sure-cancel
+bip_39_word_dash_6: pottery-ability-someone-sure-cancel-will
+bip_39_word_dash_7: pottery-ability-someone-sure-cancel-will-media
+bip_39_word_dash_8: pottery-ability-someone-sure-cancel-will-media-grab
+bip_39_word_dash_9: pottery-ability-someone-sure-cancel-will-media-grab-agent
+bip_39_word_new_br_1: pottery
+bip_39_word_new_br_10: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune
+bip_39_word_new_br_11: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad
+bip_39_word_new_br_12: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent<br>fortune<br>glad<br>aerobic
+bip_39_word_new_br_2: pottery<br>ability
+bip_39_word_new_br_3: pottery<br>ability<br>someone
+bip_39_word_new_br_4: pottery<br>ability<br>someone<br>sure
+bip_39_word_new_br_5: pottery<br>ability<br>someone<br>sure<br>cancel
+bip_39_word_new_br_6: pottery<br>ability<br>someone<br>sure<br>cancel<br>will
+bip_39_word_new_br_7: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media
+bip_39_word_new_br_8: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab
+bip_39_word_new_br_9: pottery<br>ability<br>someone<br>sure<br>cancel<br>will<br>media<br>grab<br>agent
+bip_39_word_new_line_1: pottery
+bip_39_word_new_line_10: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media
+
+  grab
+
+  agent
+
+  fortune'
+bip_39_word_new_line_11: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media
+
+  grab
+
+  agent
+
+  fortune
+
+  glad'
+bip_39_word_new_line_12: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media
+
+  grab
+
+  agent
+
+  fortune
+
+  glad
+
+  aerobic'
+bip_39_word_new_line_2: 'pottery
+
+  ability'
+bip_39_word_new_line_3: 'pottery
+
+  ability
+
+  someone'
+bip_39_word_new_line_4: 'pottery
+
+  ability
+
+  someone
+
+  sure'
+bip_39_word_new_line_5: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel'
+bip_39_word_new_line_6: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will'
+bip_39_word_new_line_7: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media'
+bip_39_word_new_line_8: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media
+
+  grab'
+bip_39_word_new_line_9: 'pottery
+
+  ability
+
+  someone
+
+  sure
+
+  cancel
+
+  will
+
+  media
+
+  grab
+
+  agent'
+bip_39_word_no_space_1: pottery
+bip_39_word_no_space_10: potteryabilitysomeonesurecancelwillmediagrabagentfortune
+bip_39_word_no_space_11: potteryabilitysomeonesurecancelwillmediagrabagentfortuneglad
+bip_39_word_no_space_12: potteryabilitysomeonesurecancelwillmediagrabagentfortunegladaerobic
+bip_39_word_no_space_2: potteryability
+bip_39_word_no_space_3: potteryabilitysomeone
+bip_39_word_no_space_4: potteryabilitysomeonesure
+bip_39_word_no_space_5: potteryabilitysomeonesurecancel
+bip_39_word_no_space_6: potteryabilitysomeonesurecancelwill
+bip_39_word_no_space_7: potteryabilitysomeonesurecancelwillmedia
+bip_39_word_no_space_8: potteryabilitysomeonesurecancelwillmediagrab
+bip_39_word_no_space_9: potteryabilitysomeonesurecancelwillmediagrabagent
+bip_39_word_space_0:
+- pottery
+- ability
+- someone
+- sure
+- cancel
+- will
+- media
+- grab
+- agent
+- fortune
+- glad
+- aerobic
+bip_39_word_space_1: pottery
+bip_39_word_space_10: pottery ability someone sure cancel will media grab agent fortune
+bip_39_word_space_11: pottery ability someone sure cancel will media grab agent fortune
+  glad
+bip_39_word_space_12: pottery ability someone sure cancel will media grab agent fortune
+  glad aerobic
+bip_39_word_space_2: pottery ability
+bip_39_word_space_3: pottery ability someone
+bip_39_word_space_4: pottery ability someone sure
+bip_39_word_space_5: pottery ability someone sure cancel
+bip_39_word_space_6: pottery ability someone sure cancel will
+bip_39_word_space_7: pottery ability someone sure cancel will media
+bip_39_word_space_8: pottery ability someone sure cancel will media grab
+bip_39_word_space_9: pottery ability someone sure cancel will media grab agent
+bip_39_word_underscore_1: pottery
+bip_39_word_underscore_10: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune
+bip_39_word_underscore_11: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune_glad
+bip_39_word_underscore_12: pottery_ability_someone_sure_cancel_will_media_grab_agent_fortune_glad_aerobic
+bip_39_word_underscore_2: pottery_ability
+bip_39_word_underscore_3: pottery_ability_someone
+bip_39_word_underscore_4: pottery_ability_someone_sure
+bip_39_word_underscore_5: pottery_ability_someone_sure_cancel
+bip_39_word_underscore_6: pottery_ability_someone_sure_cancel_will
+bip_39_word_underscore_7: pottery_ability_someone_sure_cancel_will_media
+bip_39_word_underscore_8: pottery_ability_someone_sure_cancel_will_media_grab
+bip_39_word_underscore_9: pottery_ability_someone_sure_cancel_will_media_grab_agent
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -134,7 +353,20 @@ id_no_color: 25_mm_length_hex_head
 id_no_size: black_25_mm_length_hex_head
 id_no_type: m4_black_25_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202lseu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202lseu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202lseu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -160,6 +392,26 @@ name_no_color: 25 mm Length Hex Head
 name_no_size: Black 25 mm Length Hex Head
 name_no_size_short: Black 25 Mm Length Hex Head
 name_no_type: M4 Black 25 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 2ls
+oomlout_bolt_md5_6_alpha_first_3_upper: 2LS
+oomlout_bolt_md5_6_alpha_last_3: eu
+oomlout_bolt_md5_6_alpha_last_3_upper: EU
+oomlout_bolt_md5_6_first_3: 42c
+oomlout_bolt_md5_6_first_3_upper: 42C
+oomlout_bolt_md5_6_last_3: '516'
+oomlout_bolt_md5_6_last_3_upper: '516'
+oomlout_bolt_name: Socket Cap M4X25 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc4b25h
+oomlout_short_code_upper: SC4B25H
 oomp_id: hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m4_black_25_mm_length_hex_head
 oomp_word: sheep candy thumbsup
@@ -183,12 +435,22 @@ price_1: '0.0424'
 price_100: '0.0424'
 price_1000: '0.0188'
 price_10000: '0.0188'
+price_10000_distributor_1: '0.0188'
 price_10000_distributor_orbital_fasteners: '0.0188'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0188'
 price_1000_distributor_orbital_fasteners: '0.0188'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0424'
 price_100_distributor_orbital_fasteners: '0.0424'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0424'
 price_1_distributor_orbital_fasteners: '0.0424'
+price_1_name: orbital_fasteners
 price_200: '0.0235'
+price_200_distributor_1: '0.0235'
 price_200_distributor_orbital_fasteners: '0.0235'
+price_200_name: orbital_fasteners
 price_current: '0.0235'
 quantity_current: '200'
 short_code: sc4b25h

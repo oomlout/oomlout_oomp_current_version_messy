@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6316 Size 80 mm ID 170 mm OD 39 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6316_size_80_mm_id_170_mm_od_39_mm_depth
   * classification: hardware

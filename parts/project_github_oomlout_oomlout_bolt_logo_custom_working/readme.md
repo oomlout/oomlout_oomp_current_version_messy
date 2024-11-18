@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Bolt Logo Custom Working
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_bolt_logo_custom_working
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :shirt: :chestnut: :ram:
 * md5_6_alpha: 6q6vq
 * md5_6: ac6b56
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206q6vq)
+[2x1](http://192.168.1.242:1112/?label=oomp%206q6vq)
+[6x4](http://192.168.1.55:1112/?label=oomp%206q6vq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_logo_custom_working) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_logo_custom_working)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ meadow |
 | id_no_color | bolt_logo_custom_working |  
 | id_no_size | bolt_logo_custom_working |  
 | id_no_type | oomlout_oomlout_bolt_logo_custom_working |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_logo_custom_working |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_logo_custom_working |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_logo_custom_working |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206q6vq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206q6vq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206q6vq |  
 | link_redirect | https://github.com/oomlout/oomlout_bolt_logo_custom_working |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ meadow |
 | name_no_size | Bolt Logo Custom Working |  
 | name_no_size_short | Bolt Logo Custom Working |  
 | name_no_type | Oomlout Oomlout Bolt Logo Custom Working |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_logo_custom_working |  
 | oomp_word | shirt chestnut ram |  
 | oomp_word_emoji | :shirt: :chestnut: :ram: |  

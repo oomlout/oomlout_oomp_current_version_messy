@@ -1,3 +1,223 @@
+bip_39_word_dash_1: poet
+bip_39_word_dash_10: poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil
+bip_39_word_dash_11: poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil-scout
+bip_39_word_dash_12: poet-advance-steel-toddler-addict-twice-mountain-catalog-legend-civil-scout-achieve
+bip_39_word_dash_2: poet-advance
+bip_39_word_dash_3: poet-advance-steel
+bip_39_word_dash_4: poet-advance-steel-toddler
+bip_39_word_dash_5: poet-advance-steel-toddler-addict
+bip_39_word_dash_6: poet-advance-steel-toddler-addict-twice
+bip_39_word_dash_7: poet-advance-steel-toddler-addict-twice-mountain
+bip_39_word_dash_8: poet-advance-steel-toddler-addict-twice-mountain-catalog
+bip_39_word_dash_9: poet-advance-steel-toddler-addict-twice-mountain-catalog-legend
+bip_39_word_new_br_1: poet
+bip_39_word_new_br_10: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil
+bip_39_word_new_br_11: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil<br>scout
+bip_39_word_new_br_12: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend<br>civil<br>scout<br>achieve
+bip_39_word_new_br_2: poet<br>advance
+bip_39_word_new_br_3: poet<br>advance<br>steel
+bip_39_word_new_br_4: poet<br>advance<br>steel<br>toddler
+bip_39_word_new_br_5: poet<br>advance<br>steel<br>toddler<br>addict
+bip_39_word_new_br_6: poet<br>advance<br>steel<br>toddler<br>addict<br>twice
+bip_39_word_new_br_7: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain
+bip_39_word_new_br_8: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog
+bip_39_word_new_br_9: poet<br>advance<br>steel<br>toddler<br>addict<br>twice<br>mountain<br>catalog<br>legend
+bip_39_word_new_line_1: poet
+bip_39_word_new_line_10: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain
+
+  catalog
+
+  legend
+
+  civil'
+bip_39_word_new_line_11: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain
+
+  catalog
+
+  legend
+
+  civil
+
+  scout'
+bip_39_word_new_line_12: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain
+
+  catalog
+
+  legend
+
+  civil
+
+  scout
+
+  achieve'
+bip_39_word_new_line_2: 'poet
+
+  advance'
+bip_39_word_new_line_3: 'poet
+
+  advance
+
+  steel'
+bip_39_word_new_line_4: 'poet
+
+  advance
+
+  steel
+
+  toddler'
+bip_39_word_new_line_5: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict'
+bip_39_word_new_line_6: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice'
+bip_39_word_new_line_7: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain'
+bip_39_word_new_line_8: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain
+
+  catalog'
+bip_39_word_new_line_9: 'poet
+
+  advance
+
+  steel
+
+  toddler
+
+  addict
+
+  twice
+
+  mountain
+
+  catalog
+
+  legend'
+bip_39_word_no_space_1: poet
+bip_39_word_no_space_10: poetadvancesteeltoddleraddicttwicemountaincataloglegendcivil
+bip_39_word_no_space_11: poetadvancesteeltoddleraddicttwicemountaincataloglegendcivilscout
+bip_39_word_no_space_12: poetadvancesteeltoddleraddicttwicemountaincataloglegendcivilscoutachieve
+bip_39_word_no_space_2: poetadvance
+bip_39_word_no_space_3: poetadvancesteel
+bip_39_word_no_space_4: poetadvancesteeltoddler
+bip_39_word_no_space_5: poetadvancesteeltoddleraddict
+bip_39_word_no_space_6: poetadvancesteeltoddleraddicttwice
+bip_39_word_no_space_7: poetadvancesteeltoddleraddicttwicemountain
+bip_39_word_no_space_8: poetadvancesteeltoddleraddicttwicemountaincatalog
+bip_39_word_no_space_9: poetadvancesteeltoddleraddicttwicemountaincataloglegend
+bip_39_word_space_0:
+- poet
+- advance
+- steel
+- toddler
+- addict
+- twice
+- mountain
+- catalog
+- legend
+- civil
+- scout
+- achieve
+bip_39_word_space_1: poet
+bip_39_word_space_10: poet advance steel toddler addict twice mountain catalog legend
+  civil
+bip_39_word_space_11: poet advance steel toddler addict twice mountain catalog legend
+  civil scout
+bip_39_word_space_12: poet advance steel toddler addict twice mountain catalog legend
+  civil scout achieve
+bip_39_word_space_2: poet advance
+bip_39_word_space_3: poet advance steel
+bip_39_word_space_4: poet advance steel toddler
+bip_39_word_space_5: poet advance steel toddler addict
+bip_39_word_space_6: poet advance steel toddler addict twice
+bip_39_word_space_7: poet advance steel toddler addict twice mountain
+bip_39_word_space_8: poet advance steel toddler addict twice mountain catalog
+bip_39_word_space_9: poet advance steel toddler addict twice mountain catalog legend
+bip_39_word_underscore_1: poet
+bip_39_word_underscore_10: poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil
+bip_39_word_underscore_11: poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil_scout
+bip_39_word_underscore_12: poet_advance_steel_toddler_addict_twice_mountain_catalog_legend_civil_scout_achieve
+bip_39_word_underscore_2: poet_advance
+bip_39_word_underscore_3: poet_advance_steel
+bip_39_word_underscore_4: poet_advance_steel_toddler
+bip_39_word_underscore_5: poet_advance_steel_toddler_addict
+bip_39_word_underscore_6: poet_advance_steel_toddler_addict_twice
+bip_39_word_underscore_7: poet_advance_steel_toddler_addict_twice_mountain
+bip_39_word_underscore_8: poet_advance_steel_toddler_addict_twice_mountain_catalog
+bip_39_word_underscore_9: poet_advance_steel_toddler_addict_twice_mountain_catalog_legend
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
 id_no_color: 30_mm_id_62_mm_od_20_mm_depth
 id_no_size: 62206_size_30_mm_id_62_mm_od_20_mm_depth
 id_no_type: 62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015g96
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015g96
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015g96
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 30 mm ID 62 mm OD 20 mm Depth
 name_no_size: 62206 Size 30 mm ID 62 mm OD 20 mm Depth
 name_no_size_short: 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth
 name_no_type: 62000 Series 62206 Size 30 mm ID 62 mm OD 20 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br62206
+oomlout_short_code_upper: BR62206
 oomp_key: oomp_hardware_bearing_62000_series_62206_size_30_mm_id_62_mm_od_20_mm_depth
 oomp_word: baby radio envelope
 oomp_word_emoji: ':baby: :radio: :envelope:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 600 Series 683 Size 3 mm ID 7 mm OD 3 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :flags: :whale: :grapes:
 * md5_6_alpha: 4i023
 * md5_6: 7354cb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204i023)
+[2x1](http://192.168.1.242:1112/?label=oomp%204i023)
+[6x4](http://192.168.1.55:1112/?label=oomp%204i023)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ moon |
 | id_no_color | 3_mm_id_7_mm_od_3_mm_depth |  
 | id_no_size | 683_size_3_mm_id_7_mm_od_3_mm_depth |  
 | id_no_type | 600_series_683_size_3_mm_id_7_mm_od_3_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204i023 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204i023 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204i023 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ moon |
 | name_no_size | 683 Size 3 mm ID 7 mm OD 3 mm Depth |  
 | name_no_size_short | 683 Size 3 Mm Id 7 Mm Od 3 Mm Depth |  
 | name_no_type | 600 Series 683 Size 3 mm ID 7 mm OD 3 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br683 |  
 | oomlout_short_code_upper | BR683 |  
 | oomp_key | oomp_hardware_bearing_600_series_683_size_3_mm_id_7_mm_od_3_mm_depth |  

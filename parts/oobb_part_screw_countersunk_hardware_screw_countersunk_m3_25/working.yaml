@@ -1,3 +1,222 @@
+bip_39_word_dash_1: praise
+bip_39_word_dash_10: praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid
+bip_39_word_dash_11: praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid-spice
+bip_39_word_dash_12: praise-insect-lady-invest-vacuum-armed-truly-story-balance-hybrid-spice-accident
+bip_39_word_dash_2: praise-insect
+bip_39_word_dash_3: praise-insect-lady
+bip_39_word_dash_4: praise-insect-lady-invest
+bip_39_word_dash_5: praise-insect-lady-invest-vacuum
+bip_39_word_dash_6: praise-insect-lady-invest-vacuum-armed
+bip_39_word_dash_7: praise-insect-lady-invest-vacuum-armed-truly
+bip_39_word_dash_8: praise-insect-lady-invest-vacuum-armed-truly-story
+bip_39_word_dash_9: praise-insect-lady-invest-vacuum-armed-truly-story-balance
+bip_39_word_new_br_1: praise
+bip_39_word_new_br_10: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid
+bip_39_word_new_br_11: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice
+bip_39_word_new_br_12: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance<br>hybrid<br>spice<br>accident
+bip_39_word_new_br_2: praise<br>insect
+bip_39_word_new_br_3: praise<br>insect<br>lady
+bip_39_word_new_br_4: praise<br>insect<br>lady<br>invest
+bip_39_word_new_br_5: praise<br>insect<br>lady<br>invest<br>vacuum
+bip_39_word_new_br_6: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed
+bip_39_word_new_br_7: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly
+bip_39_word_new_br_8: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story
+bip_39_word_new_br_9: praise<br>insect<br>lady<br>invest<br>vacuum<br>armed<br>truly<br>story<br>balance
+bip_39_word_new_line_1: praise
+bip_39_word_new_line_10: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid'
+bip_39_word_new_line_11: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid
+
+  spice'
+bip_39_word_new_line_12: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance
+
+  hybrid
+
+  spice
+
+  accident'
+bip_39_word_new_line_2: 'praise
+
+  insect'
+bip_39_word_new_line_3: 'praise
+
+  insect
+
+  lady'
+bip_39_word_new_line_4: 'praise
+
+  insect
+
+  lady
+
+  invest'
+bip_39_word_new_line_5: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum'
+bip_39_word_new_line_6: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed'
+bip_39_word_new_line_7: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly'
+bip_39_word_new_line_8: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story'
+bip_39_word_new_line_9: 'praise
+
+  insect
+
+  lady
+
+  invest
+
+  vacuum
+
+  armed
+
+  truly
+
+  story
+
+  balance'
+bip_39_word_no_space_1: praise
+bip_39_word_no_space_10: praiseinsectladyinvestvacuumarmedtrulystorybalancehybrid
+bip_39_word_no_space_11: praiseinsectladyinvestvacuumarmedtrulystorybalancehybridspice
+bip_39_word_no_space_12: praiseinsectladyinvestvacuumarmedtrulystorybalancehybridspiceaccident
+bip_39_word_no_space_2: praiseinsect
+bip_39_word_no_space_3: praiseinsectlady
+bip_39_word_no_space_4: praiseinsectladyinvest
+bip_39_word_no_space_5: praiseinsectladyinvestvacuum
+bip_39_word_no_space_6: praiseinsectladyinvestvacuumarmed
+bip_39_word_no_space_7: praiseinsectladyinvestvacuumarmedtruly
+bip_39_word_no_space_8: praiseinsectladyinvestvacuumarmedtrulystory
+bip_39_word_no_space_9: praiseinsectladyinvestvacuumarmedtrulystorybalance
+bip_39_word_space_0:
+- praise
+- insect
+- lady
+- invest
+- vacuum
+- armed
+- truly
+- story
+- balance
+- hybrid
+- spice
+- accident
+bip_39_word_space_1: praise
+bip_39_word_space_10: praise insect lady invest vacuum armed truly story balance hybrid
+bip_39_word_space_11: praise insect lady invest vacuum armed truly story balance hybrid
+  spice
+bip_39_word_space_12: praise insect lady invest vacuum armed truly story balance hybrid
+  spice accident
+bip_39_word_space_2: praise insect
+bip_39_word_space_3: praise insect lady
+bip_39_word_space_4: praise insect lady invest
+bip_39_word_space_5: praise insect lady invest vacuum
+bip_39_word_space_6: praise insect lady invest vacuum armed
+bip_39_word_space_7: praise insect lady invest vacuum armed truly
+bip_39_word_space_8: praise insect lady invest vacuum armed truly story
+bip_39_word_space_9: praise insect lady invest vacuum armed truly story balance
+bip_39_word_underscore_1: praise
+bip_39_word_underscore_10: praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid
+bip_39_word_underscore_11: praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid_spice
+bip_39_word_underscore_12: praise_insect_lady_invest_vacuum_armed_truly_story_balance_hybrid_spice_accident
+bip_39_word_underscore_2: praise_insect
+bip_39_word_underscore_3: praise_insect_lady
+bip_39_word_underscore_4: praise_insect_lady_invest
+bip_39_word_underscore_5: praise_insect_lady_invest_vacuum
+bip_39_word_underscore_6: praise_insect_lady_invest_vacuum_armed
+bip_39_word_underscore_7: praise_insect_lady_invest_vacuum_armed_truly
+bip_39_word_underscore_8: praise_insect_lady_invest_vacuum_armed_truly_story
+bip_39_word_underscore_9: praise_insect_lady_invest_vacuum_armed_truly_story_balance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_25
 id_no_color: hardwarem325
 id_no_size: hardware_m3_25
 id_no_type: screw_countersunk_hardware_screw_countersunk_m3_25
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20x7a4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20x7a4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20x7a4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem325
 name_no_size: Hardware M3 25
 name_no_size_short: Hardware M3 25
 name_no_type: Screw Countersunk Hardware Screw Countersunk M3 25
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_25
 oomp_word: thumbsdown pencil dancer
 oomp_word_emoji: ':thumbsdown: :pencil: :dancer:'

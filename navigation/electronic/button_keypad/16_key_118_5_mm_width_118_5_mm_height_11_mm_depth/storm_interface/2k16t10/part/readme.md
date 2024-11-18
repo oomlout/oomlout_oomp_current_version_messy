@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Button Keypad 16 Key 118 5 mm Width 118 5 mm Height 11 mm Depth Storm Interface 2K16T10
+* name_short: 
 ### id
 * oomp_id: electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :princess: :sheep: :rainbow:
 * md5_6_alpha: 17wta
 * md5_6: 1f42de
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2017wta)
+[2x1](http://192.168.1.242:1112/?label=oomp%2017wta)
+[6x4](http://192.168.1.55:1112/?label=oomp%2017wta)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -256,7 +282,14 @@ share |
 | id_no_size | 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10 |  
 | id_no_type | 16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
 | link | https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2017wta |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2017wta |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2017wta |  
 | manufacturer | storm_interface |  
 | manufacturer_capital | Storm Interface |  
 | manufacturer_first_letter | s |  
@@ -305,6 +338,7 @@ share |
 | name_no_size | 16Key1185mmwidth1185mmheight11mmdepthstorminterface2K16T10 |  
 | name_no_size_short | 16Key1185Mmwidth1185Mmheight11Mmdepthstorminterface2K16T10 |  
 | name_no_type | 16 Key 118 5 mm Width 118 5 mm Height 11 mm Depth Storm Interface 2K16T10 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10 |  
 | oomp_word | princess sheep rainbow |  
 | oomp_word_emoji | :princess: :sheep: :rainbow: |  

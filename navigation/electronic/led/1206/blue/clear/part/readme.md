@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 1206 Blue Clear
+* name_short: 
 ### id
 * oomp_id: electronic_led_1206_blue_clear
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :parking: :seven: :trident:
 * md5_6_alpha: 9wqv3
 * md5_6: fdf8ff
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209wqv3)
+[2x1](http://192.168.1.242:1112/?label=oomp%209wqv3)
+[6x4](http://192.168.1.55:1112/?label=oomp%209wqv3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue_clear) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue_clear)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ cake |
 | id_no_size | blue_clear |  
 | id_no_type | 1206_blue_clear |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue_clear |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_blue_clear |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_blue_clear |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209wqv3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209wqv3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209wqv3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ cake |
 | name_no_size | Blue Clear |  
 | name_no_size_short | Blue Clear |  
 | name_no_type | 1206 Blue Clear |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_1206_blue_clear |  
 | oomp_word | parking seven trident |  
 | oomp_word_emoji | :parking: :seven: :trident: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: clean
+bip_39_word_dash_10: clean-emotion-love-asset-helmet-royal-suspect-steak-town-call
+bip_39_word_dash_11: clean-emotion-love-asset-helmet-royal-suspect-steak-town-call-suggest
+bip_39_word_dash_12: clean-emotion-love-asset-helmet-royal-suspect-steak-town-call-suggest-ankle
+bip_39_word_dash_2: clean-emotion
+bip_39_word_dash_3: clean-emotion-love
+bip_39_word_dash_4: clean-emotion-love-asset
+bip_39_word_dash_5: clean-emotion-love-asset-helmet
+bip_39_word_dash_6: clean-emotion-love-asset-helmet-royal
+bip_39_word_dash_7: clean-emotion-love-asset-helmet-royal-suspect
+bip_39_word_dash_8: clean-emotion-love-asset-helmet-royal-suspect-steak
+bip_39_word_dash_9: clean-emotion-love-asset-helmet-royal-suspect-steak-town
+bip_39_word_new_br_1: clean
+bip_39_word_new_br_10: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call
+bip_39_word_new_br_11: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest
+bip_39_word_new_br_12: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town<br>call<br>suggest<br>ankle
+bip_39_word_new_br_2: clean<br>emotion
+bip_39_word_new_br_3: clean<br>emotion<br>love
+bip_39_word_new_br_4: clean<br>emotion<br>love<br>asset
+bip_39_word_new_br_5: clean<br>emotion<br>love<br>asset<br>helmet
+bip_39_word_new_br_6: clean<br>emotion<br>love<br>asset<br>helmet<br>royal
+bip_39_word_new_br_7: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect
+bip_39_word_new_br_8: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak
+bip_39_word_new_br_9: clean<br>emotion<br>love<br>asset<br>helmet<br>royal<br>suspect<br>steak<br>town
+bip_39_word_new_line_1: clean
+bip_39_word_new_line_10: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call'
+bip_39_word_new_line_11: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call
+
+  suggest'
+bip_39_word_new_line_12: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town
+
+  call
+
+  suggest
+
+  ankle'
+bip_39_word_new_line_2: 'clean
+
+  emotion'
+bip_39_word_new_line_3: 'clean
+
+  emotion
+
+  love'
+bip_39_word_new_line_4: 'clean
+
+  emotion
+
+  love
+
+  asset'
+bip_39_word_new_line_5: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet'
+bip_39_word_new_line_6: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal'
+bip_39_word_new_line_7: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect'
+bip_39_word_new_line_8: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak'
+bip_39_word_new_line_9: 'clean
+
+  emotion
+
+  love
+
+  asset
+
+  helmet
+
+  royal
+
+  suspect
+
+  steak
+
+  town'
+bip_39_word_no_space_1: clean
+bip_39_word_no_space_10: cleanemotionloveassethelmetroyalsuspectsteaktowncall
+bip_39_word_no_space_11: cleanemotionloveassethelmetroyalsuspectsteaktowncallsuggest
+bip_39_word_no_space_12: cleanemotionloveassethelmetroyalsuspectsteaktowncallsuggestankle
+bip_39_word_no_space_2: cleanemotion
+bip_39_word_no_space_3: cleanemotionlove
+bip_39_word_no_space_4: cleanemotionloveasset
+bip_39_word_no_space_5: cleanemotionloveassethelmet
+bip_39_word_no_space_6: cleanemotionloveassethelmetroyal
+bip_39_word_no_space_7: cleanemotionloveassethelmetroyalsuspect
+bip_39_word_no_space_8: cleanemotionloveassethelmetroyalsuspectsteak
+bip_39_word_no_space_9: cleanemotionloveassethelmetroyalsuspectsteaktown
+bip_39_word_space_0:
+- clean
+- emotion
+- love
+- asset
+- helmet
+- royal
+- suspect
+- steak
+- town
+- call
+- suggest
+- ankle
+bip_39_word_space_1: clean
+bip_39_word_space_10: clean emotion love asset helmet royal suspect steak town call
+bip_39_word_space_11: clean emotion love asset helmet royal suspect steak town call
+  suggest
+bip_39_word_space_12: clean emotion love asset helmet royal suspect steak town call
+  suggest ankle
+bip_39_word_space_2: clean emotion
+bip_39_word_space_3: clean emotion love
+bip_39_word_space_4: clean emotion love asset
+bip_39_word_space_5: clean emotion love asset helmet
+bip_39_word_space_6: clean emotion love asset helmet royal
+bip_39_word_space_7: clean emotion love asset helmet royal suspect
+bip_39_word_space_8: clean emotion love asset helmet royal suspect steak
+bip_39_word_space_9: clean emotion love asset helmet royal suspect steak town
+bip_39_word_underscore_1: clean
+bip_39_word_underscore_10: clean_emotion_love_asset_helmet_royal_suspect_steak_town_call
+bip_39_word_underscore_11: clean_emotion_love_asset_helmet_royal_suspect_steak_town_call_suggest
+bip_39_word_underscore_12: clean_emotion_love_asset_helmet_royal_suspect_steak_town_call_suggest_ankle
+bip_39_word_underscore_2: clean_emotion
+bip_39_word_underscore_3: clean_emotion_love
+bip_39_word_underscore_4: clean_emotion_love_asset
+bip_39_word_underscore_5: clean_emotion_love_asset_helmet
+bip_39_word_underscore_6: clean_emotion_love_asset_helmet_royal
+bip_39_word_underscore_7: clean_emotion_love_asset_helmet_royal_suspect
+bip_39_word_underscore_8: clean_emotion_love_asset_helmet_royal_suspect_steak
+bip_39_word_underscore_9: clean_emotion_love_asset_helmet_royal_suspect_steak_town
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_06__nut
 id_no_color: 06nut
 id_no_size: 06__nut
 id_no_type: shaft_06__nut
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06__nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205rglk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205rglk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205rglk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 06Nut
 name_no_size: 06  Nut
 name_no_size_short: 6  Nut
 name_no_type: Shaft 06  Nut
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_06__nut
 oomp_word: books briefcase apple
 oomp_word_emoji: ':books: :briefcase: :apple:'

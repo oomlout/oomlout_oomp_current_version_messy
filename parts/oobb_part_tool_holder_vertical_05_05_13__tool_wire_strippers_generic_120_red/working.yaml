@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lamp
+bip_39_word_dash_10: lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog
+bip_39_word_dash_11: lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog-bronze
+bip_39_word_dash_12: lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever-hedgehog-bronze-adjust
+bip_39_word_dash_2: lamp-shield
+bip_39_word_dash_3: lamp-shield-reduce
+bip_39_word_dash_4: lamp-shield-reduce-option
+bip_39_word_dash_5: lamp-shield-reduce-option-tenant
+bip_39_word_dash_6: lamp-shield-reduce-option-tenant-artefact
+bip_39_word_dash_7: lamp-shield-reduce-option-tenant-artefact-mercy
+bip_39_word_dash_8: lamp-shield-reduce-option-tenant-artefact-mercy-demise
+bip_39_word_dash_9: lamp-shield-reduce-option-tenant-artefact-mercy-demise-clever
+bip_39_word_new_br_1: lamp
+bip_39_word_new_br_10: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog
+bip_39_word_new_br_11: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze
+bip_39_word_new_br_12: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever<br>hedgehog<br>bronze<br>adjust
+bip_39_word_new_br_2: lamp<br>shield
+bip_39_word_new_br_3: lamp<br>shield<br>reduce
+bip_39_word_new_br_4: lamp<br>shield<br>reduce<br>option
+bip_39_word_new_br_5: lamp<br>shield<br>reduce<br>option<br>tenant
+bip_39_word_new_br_6: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact
+bip_39_word_new_br_7: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy
+bip_39_word_new_br_8: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise
+bip_39_word_new_br_9: lamp<br>shield<br>reduce<br>option<br>tenant<br>artefact<br>mercy<br>demise<br>clever
+bip_39_word_new_line_1: lamp
+bip_39_word_new_line_10: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog'
+bip_39_word_new_line_11: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog
+
+  bronze'
+bip_39_word_new_line_12: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever
+
+  hedgehog
+
+  bronze
+
+  adjust'
+bip_39_word_new_line_2: 'lamp
+
+  shield'
+bip_39_word_new_line_3: 'lamp
+
+  shield
+
+  reduce'
+bip_39_word_new_line_4: 'lamp
+
+  shield
+
+  reduce
+
+  option'
+bip_39_word_new_line_5: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant'
+bip_39_word_new_line_6: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact'
+bip_39_word_new_line_7: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy'
+bip_39_word_new_line_8: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise'
+bip_39_word_new_line_9: 'lamp
+
+  shield
+
+  reduce
+
+  option
+
+  tenant
+
+  artefact
+
+  mercy
+
+  demise
+
+  clever'
+bip_39_word_no_space_1: lamp
+bip_39_word_no_space_10: lampshieldreduceoptiontenantartefactmercydemisecleverhedgehog
+bip_39_word_no_space_11: lampshieldreduceoptiontenantartefactmercydemisecleverhedgehogbronze
+bip_39_word_no_space_12: lampshieldreduceoptiontenantartefactmercydemisecleverhedgehogbronzeadjust
+bip_39_word_no_space_2: lampshield
+bip_39_word_no_space_3: lampshieldreduce
+bip_39_word_no_space_4: lampshieldreduceoption
+bip_39_word_no_space_5: lampshieldreduceoptiontenant
+bip_39_word_no_space_6: lampshieldreduceoptiontenantartefact
+bip_39_word_no_space_7: lampshieldreduceoptiontenantartefactmercy
+bip_39_word_no_space_8: lampshieldreduceoptiontenantartefactmercydemise
+bip_39_word_no_space_9: lampshieldreduceoptiontenantartefactmercydemiseclever
+bip_39_word_space_0:
+- lamp
+- shield
+- reduce
+- option
+- tenant
+- artefact
+- mercy
+- demise
+- clever
+- hedgehog
+- bronze
+- adjust
+bip_39_word_space_1: lamp
+bip_39_word_space_10: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog
+bip_39_word_space_11: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog bronze
+bip_39_word_space_12: lamp shield reduce option tenant artefact mercy demise clever
+  hedgehog bronze adjust
+bip_39_word_space_2: lamp shield
+bip_39_word_space_3: lamp shield reduce
+bip_39_word_space_4: lamp shield reduce option
+bip_39_word_space_5: lamp shield reduce option tenant
+bip_39_word_space_6: lamp shield reduce option tenant artefact
+bip_39_word_space_7: lamp shield reduce option tenant artefact mercy
+bip_39_word_space_8: lamp shield reduce option tenant artefact mercy demise
+bip_39_word_space_9: lamp shield reduce option tenant artefact mercy demise clever
+bip_39_word_underscore_1: lamp
+bip_39_word_underscore_10: lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog
+bip_39_word_underscore_11: lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog_bronze
+bip_39_word_underscore_12: lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever_hedgehog_bronze_adjust
+bip_39_word_underscore_2: lamp_shield
+bip_39_word_underscore_3: lamp_shield_reduce
+bip_39_word_underscore_4: lamp_shield_reduce_option
+bip_39_word_underscore_5: lamp_shield_reduce_option_tenant
+bip_39_word_underscore_6: lamp_shield_reduce_option_tenant_artefact
+bip_39_word_underscore_7: lamp_shield_reduce_option_tenant_artefact_mercy
+bip_39_word_underscore_8: lamp_shield_reduce_option_tenant_artefact_mercy_demise
+bip_39_word_underscore_9: lamp_shield_reduce_option_tenant_artefact_mercy_demise_clever
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120
 id_no_color: 050513toolwirestrippersgeneric120red
 id_no_size: 05_05_13__tool_wire_strippers_generic_120_red
 id_no_type: tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2026z4q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2026z4q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2026z4q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -133,6 +360,7 @@ name_no_color: 050513Toolwirestrippersgeneric120Red
 name_no_size: 05 05 13  Tool Wire Strippers Generic 120 Red
 name_no_size_short: 05 05 13  Tool Wire Strippers Generic 120 Red
 name_no_type: Tool Holder Vertical 05 05 13  Tool Wire Strippers Generic 120 Red
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_13__tool_wire_strippers_generic_120_red
 oomp_word: frog tiger goat
 oomp_word_emoji: ':frog: :tiger: :goat:'

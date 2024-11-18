@@ -1,3 +1,223 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray
+bip_39_word_dash_11: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray-machine
+bip_39_word_dash_12: special-pudding-casino-second-sunset-ten-physical-core-inhale-spray-machine-artist
+bip_39_word_dash_2: special-pudding
+bip_39_word_dash_3: special-pudding-casino
+bip_39_word_dash_4: special-pudding-casino-second
+bip_39_word_dash_5: special-pudding-casino-second-sunset
+bip_39_word_dash_6: special-pudding-casino-second-sunset-ten
+bip_39_word_dash_7: special-pudding-casino-second-sunset-ten-physical
+bip_39_word_dash_8: special-pudding-casino-second-sunset-ten-physical-core
+bip_39_word_dash_9: special-pudding-casino-second-sunset-ten-physical-core-inhale
+bip_39_word_new_br_1: special
+bip_39_word_new_br_10: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray
+bip_39_word_new_br_11: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine
+bip_39_word_new_br_12: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale<br>spray<br>machine<br>artist
+bip_39_word_new_br_2: special<br>pudding
+bip_39_word_new_br_3: special<br>pudding<br>casino
+bip_39_word_new_br_4: special<br>pudding<br>casino<br>second
+bip_39_word_new_br_5: special<br>pudding<br>casino<br>second<br>sunset
+bip_39_word_new_br_6: special<br>pudding<br>casino<br>second<br>sunset<br>ten
+bip_39_word_new_br_7: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical
+bip_39_word_new_br_8: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core
+bip_39_word_new_br_9: special<br>pudding<br>casino<br>second<br>sunset<br>ten<br>physical<br>core<br>inhale
+bip_39_word_new_line_1: special
+bip_39_word_new_line_10: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical
+
+  core
+
+  inhale
+
+  spray'
+bip_39_word_new_line_11: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical
+
+  core
+
+  inhale
+
+  spray
+
+  machine'
+bip_39_word_new_line_12: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical
+
+  core
+
+  inhale
+
+  spray
+
+  machine
+
+  artist'
+bip_39_word_new_line_2: 'special
+
+  pudding'
+bip_39_word_new_line_3: 'special
+
+  pudding
+
+  casino'
+bip_39_word_new_line_4: 'special
+
+  pudding
+
+  casino
+
+  second'
+bip_39_word_new_line_5: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset'
+bip_39_word_new_line_6: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten'
+bip_39_word_new_line_7: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical'
+bip_39_word_new_line_8: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical
+
+  core'
+bip_39_word_new_line_9: 'special
+
+  pudding
+
+  casino
+
+  second
+
+  sunset
+
+  ten
+
+  physical
+
+  core
+
+  inhale'
+bip_39_word_no_space_1: special
+bip_39_word_no_space_10: specialpuddingcasinosecondsunsettenphysicalcoreinhalespray
+bip_39_word_no_space_11: specialpuddingcasinosecondsunsettenphysicalcoreinhalespraymachine
+bip_39_word_no_space_12: specialpuddingcasinosecondsunsettenphysicalcoreinhalespraymachineartist
+bip_39_word_no_space_2: specialpudding
+bip_39_word_no_space_3: specialpuddingcasino
+bip_39_word_no_space_4: specialpuddingcasinosecond
+bip_39_word_no_space_5: specialpuddingcasinosecondsunset
+bip_39_word_no_space_6: specialpuddingcasinosecondsunsetten
+bip_39_word_no_space_7: specialpuddingcasinosecondsunsettenphysical
+bip_39_word_no_space_8: specialpuddingcasinosecondsunsettenphysicalcore
+bip_39_word_no_space_9: specialpuddingcasinosecondsunsettenphysicalcoreinhale
+bip_39_word_space_0:
+- special
+- pudding
+- casino
+- second
+- sunset
+- ten
+- physical
+- core
+- inhale
+- spray
+- machine
+- artist
+bip_39_word_space_1: special
+bip_39_word_space_10: special pudding casino second sunset ten physical core inhale
+  spray
+bip_39_word_space_11: special pudding casino second sunset ten physical core inhale
+  spray machine
+bip_39_word_space_12: special pudding casino second sunset ten physical core inhale
+  spray machine artist
+bip_39_word_space_2: special pudding
+bip_39_word_space_3: special pudding casino
+bip_39_word_space_4: special pudding casino second
+bip_39_word_space_5: special pudding casino second sunset
+bip_39_word_space_6: special pudding casino second sunset ten
+bip_39_word_space_7: special pudding casino second sunset ten physical
+bip_39_word_space_8: special pudding casino second sunset ten physical core
+bip_39_word_space_9: special pudding casino second sunset ten physical core inhale
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray
+bip_39_word_underscore_11: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray_machine
+bip_39_word_underscore_12: special_pudding_casino_second_sunset_ten_physical_core_inhale_spray_machine_artist
+bip_39_word_underscore_2: special_pudding
+bip_39_word_underscore_3: special_pudding_casino
+bip_39_word_underscore_4: special_pudding_casino_second
+bip_39_word_underscore_5: special_pudding_casino_second_sunset
+bip_39_word_underscore_6: special_pudding_casino_second_sunset_ten
+bip_39_word_underscore_7: special_pudding_casino_second_sunset_ten_physical
+bip_39_word_underscore_8: special_pudding_casino_second_sunset_ten_physical_core
+bip_39_word_underscore_9: special_pudding_casino_second_sunset_ten_physical_core_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_2d5_06_15
 id_no_color: 2d50615
 id_no_size: 2d5_06_15
 id_no_type: tray_thin_2d5_06_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2085mwk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2085mwk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2085mwk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 2D50615
 name_no_size: 2D5 06 15
 name_no_size_short: 2D5 06 15
 name_no_type: Tray Thin 2D5 06 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_06_15
 oomp_word: pear sunglasses mouse
 oomp_word_emoji: ':pear: :sunglasses: :mouse:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet
+bip_39_word_dash_11: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet-skull
+bip_39_word_dash_12: cushion-grid-hobby-biology-stage-main-rule-gossip-off-sweet-skull-all
+bip_39_word_dash_2: cushion-grid
+bip_39_word_dash_3: cushion-grid-hobby
+bip_39_word_dash_4: cushion-grid-hobby-biology
+bip_39_word_dash_5: cushion-grid-hobby-biology-stage
+bip_39_word_dash_6: cushion-grid-hobby-biology-stage-main
+bip_39_word_dash_7: cushion-grid-hobby-biology-stage-main-rule
+bip_39_word_dash_8: cushion-grid-hobby-biology-stage-main-rule-gossip
+bip_39_word_dash_9: cushion-grid-hobby-biology-stage-main-rule-gossip-off
+bip_39_word_new_br_1: cushion
+bip_39_word_new_br_10: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off<br>sweet
+bip_39_word_new_br_11: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off<br>sweet<br>skull
+bip_39_word_new_br_12: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off<br>sweet<br>skull<br>all
+bip_39_word_new_br_2: cushion<br>grid
+bip_39_word_new_br_3: cushion<br>grid<br>hobby
+bip_39_word_new_br_4: cushion<br>grid<br>hobby<br>biology
+bip_39_word_new_br_5: cushion<br>grid<br>hobby<br>biology<br>stage
+bip_39_word_new_br_6: cushion<br>grid<br>hobby<br>biology<br>stage<br>main
+bip_39_word_new_br_7: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule
+bip_39_word_new_br_8: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip
+bip_39_word_new_br_9: cushion<br>grid<br>hobby<br>biology<br>stage<br>main<br>rule<br>gossip<br>off
+bip_39_word_new_line_1: cushion
+bip_39_word_new_line_10: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule
+
+  gossip
+
+  off
+
+  sweet'
+bip_39_word_new_line_11: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule
+
+  gossip
+
+  off
+
+  sweet
+
+  skull'
+bip_39_word_new_line_12: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule
+
+  gossip
+
+  off
+
+  sweet
+
+  skull
+
+  all'
+bip_39_word_new_line_2: 'cushion
+
+  grid'
+bip_39_word_new_line_3: 'cushion
+
+  grid
+
+  hobby'
+bip_39_word_new_line_4: 'cushion
+
+  grid
+
+  hobby
+
+  biology'
+bip_39_word_new_line_5: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage'
+bip_39_word_new_line_6: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main'
+bip_39_word_new_line_7: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule'
+bip_39_word_new_line_8: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule
+
+  gossip'
+bip_39_word_new_line_9: 'cushion
+
+  grid
+
+  hobby
+
+  biology
+
+  stage
+
+  main
+
+  rule
+
+  gossip
+
+  off'
+bip_39_word_no_space_1: cushion
+bip_39_word_no_space_10: cushiongridhobbybiologystagemainrulegossipoffsweet
+bip_39_word_no_space_11: cushiongridhobbybiologystagemainrulegossipoffsweetskull
+bip_39_word_no_space_12: cushiongridhobbybiologystagemainrulegossipoffsweetskullall
+bip_39_word_no_space_2: cushiongrid
+bip_39_word_no_space_3: cushiongridhobby
+bip_39_word_no_space_4: cushiongridhobbybiology
+bip_39_word_no_space_5: cushiongridhobbybiologystage
+bip_39_word_no_space_6: cushiongridhobbybiologystagemain
+bip_39_word_no_space_7: cushiongridhobbybiologystagemainrule
+bip_39_word_no_space_8: cushiongridhobbybiologystagemainrulegossip
+bip_39_word_no_space_9: cushiongridhobbybiologystagemainrulegossipoff
+bip_39_word_space_0:
+- cushion
+- grid
+- hobby
+- biology
+- stage
+- main
+- rule
+- gossip
+- 'off'
+- sweet
+- skull
+- all
+bip_39_word_space_1: cushion
+bip_39_word_space_10: cushion grid hobby biology stage main rule gossip off sweet
+bip_39_word_space_11: cushion grid hobby biology stage main rule gossip off sweet
+  skull
+bip_39_word_space_12: cushion grid hobby biology stage main rule gossip off sweet
+  skull all
+bip_39_word_space_2: cushion grid
+bip_39_word_space_3: cushion grid hobby
+bip_39_word_space_4: cushion grid hobby biology
+bip_39_word_space_5: cushion grid hobby biology stage
+bip_39_word_space_6: cushion grid hobby biology stage main
+bip_39_word_space_7: cushion grid hobby biology stage main rule
+bip_39_word_space_8: cushion grid hobby biology stage main rule gossip
+bip_39_word_space_9: cushion grid hobby biology stage main rule gossip off
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet
+bip_39_word_underscore_11: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet_skull
+bip_39_word_underscore_12: cushion_grid_hobby_biology_stage_main_rule_gossip_off_sweet_skull_all
+bip_39_word_underscore_2: cushion_grid
+bip_39_word_underscore_3: cushion_grid_hobby
+bip_39_word_underscore_4: cushion_grid_hobby_biology
+bip_39_word_underscore_5: cushion_grid_hobby_biology_stage
+bip_39_word_underscore_6: cushion_grid_hobby_biology_stage_main
+bip_39_word_underscore_7: cushion_grid_hobby_biology_stage_main_rule
+bip_39_word_underscore_8: cushion_grid_hobby_biology_stage_main_rule_gossip
+bip_39_word_underscore_9: cushion_grid_hobby_biology_stage_main_rule_gossip_off
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_14_27
 id_no_color: 091427
 id_no_size: 09_14_27
 id_no_type: tray_09_14_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_14_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_14_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_14_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2041i2e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2041i2e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2041i2e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091427
 name_no_size: 09 14 27
 name_no_size_short: 09 14 27
 name_no_type: Tray 09 14 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_14_27
 oomp_word: herb telescope beer
 oomp_word_emoji: ':herb: :telescope: :beer:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: silent
+bip_39_word_dash_10: silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two
+bip_39_word_dash_11: silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two-close
+bip_39_word_dash_12: silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano-two-close-auto
+bip_39_word_dash_2: silent-input
+bip_39_word_dash_3: silent-input-dinner
+bip_39_word_dash_4: silent-input-dinner-unknown
+bip_39_word_dash_5: silent-input-dinner-unknown-buyer
+bip_39_word_dash_6: silent-input-dinner-unknown-buyer-emotion
+bip_39_word_dash_7: silent-input-dinner-unknown-buyer-emotion-bacon
+bip_39_word_dash_8: silent-input-dinner-unknown-buyer-emotion-bacon-action
+bip_39_word_dash_9: silent-input-dinner-unknown-buyer-emotion-bacon-action-volcano
+bip_39_word_new_br_1: silent
+bip_39_word_new_br_10: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two
+bip_39_word_new_br_11: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two<br>close
+bip_39_word_new_br_12: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano<br>two<br>close<br>auto
+bip_39_word_new_br_2: silent<br>input
+bip_39_word_new_br_3: silent<br>input<br>dinner
+bip_39_word_new_br_4: silent<br>input<br>dinner<br>unknown
+bip_39_word_new_br_5: silent<br>input<br>dinner<br>unknown<br>buyer
+bip_39_word_new_br_6: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion
+bip_39_word_new_br_7: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon
+bip_39_word_new_br_8: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action
+bip_39_word_new_br_9: silent<br>input<br>dinner<br>unknown<br>buyer<br>emotion<br>bacon<br>action<br>volcano
+bip_39_word_new_line_1: silent
+bip_39_word_new_line_10: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon
+
+  action
+
+  volcano
+
+  two'
+bip_39_word_new_line_11: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon
+
+  action
+
+  volcano
+
+  two
+
+  close'
+bip_39_word_new_line_12: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon
+
+  action
+
+  volcano
+
+  two
+
+  close
+
+  auto'
+bip_39_word_new_line_2: 'silent
+
+  input'
+bip_39_word_new_line_3: 'silent
+
+  input
+
+  dinner'
+bip_39_word_new_line_4: 'silent
+
+  input
+
+  dinner
+
+  unknown'
+bip_39_word_new_line_5: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer'
+bip_39_word_new_line_6: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion'
+bip_39_word_new_line_7: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon'
+bip_39_word_new_line_8: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon
+
+  action'
+bip_39_word_new_line_9: 'silent
+
+  input
+
+  dinner
+
+  unknown
+
+  buyer
+
+  emotion
+
+  bacon
+
+  action
+
+  volcano'
+bip_39_word_no_space_1: silent
+bip_39_word_no_space_10: silentinputdinnerunknownbuyeremotionbaconactionvolcanotwo
+bip_39_word_no_space_11: silentinputdinnerunknownbuyeremotionbaconactionvolcanotwoclose
+bip_39_word_no_space_12: silentinputdinnerunknownbuyeremotionbaconactionvolcanotwocloseauto
+bip_39_word_no_space_2: silentinput
+bip_39_word_no_space_3: silentinputdinner
+bip_39_word_no_space_4: silentinputdinnerunknown
+bip_39_word_no_space_5: silentinputdinnerunknownbuyer
+bip_39_word_no_space_6: silentinputdinnerunknownbuyeremotion
+bip_39_word_no_space_7: silentinputdinnerunknownbuyeremotionbacon
+bip_39_word_no_space_8: silentinputdinnerunknownbuyeremotionbaconaction
+bip_39_word_no_space_9: silentinputdinnerunknownbuyeremotionbaconactionvolcano
+bip_39_word_space_0:
+- silent
+- input
+- dinner
+- unknown
+- buyer
+- emotion
+- bacon
+- action
+- volcano
+- two
+- close
+- auto
+bip_39_word_space_1: silent
+bip_39_word_space_10: silent input dinner unknown buyer emotion bacon action volcano
+  two
+bip_39_word_space_11: silent input dinner unknown buyer emotion bacon action volcano
+  two close
+bip_39_word_space_12: silent input dinner unknown buyer emotion bacon action volcano
+  two close auto
+bip_39_word_space_2: silent input
+bip_39_word_space_3: silent input dinner
+bip_39_word_space_4: silent input dinner unknown
+bip_39_word_space_5: silent input dinner unknown buyer
+bip_39_word_space_6: silent input dinner unknown buyer emotion
+bip_39_word_space_7: silent input dinner unknown buyer emotion bacon
+bip_39_word_space_8: silent input dinner unknown buyer emotion bacon action
+bip_39_word_space_9: silent input dinner unknown buyer emotion bacon action volcano
+bip_39_word_underscore_1: silent
+bip_39_word_underscore_10: silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two
+bip_39_word_underscore_11: silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two_close
+bip_39_word_underscore_12: silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano_two_close_auto
+bip_39_word_underscore_2: silent_input
+bip_39_word_underscore_3: silent_input_dinner
+bip_39_word_underscore_4: silent_input_dinner_unknown
+bip_39_word_underscore_5: silent_input_dinner_unknown_buyer
+bip_39_word_underscore_6: silent_input_dinner_unknown_buyer_emotion
+bip_39_word_underscore_7: silent_input_dinner_unknown_buyer_emotion_bacon
+bip_39_word_underscore_8: silent_input_dinner_unknown_buyer_emotion_bacon_action
+bip_39_word_underscore_9: silent_input_dinner_unknown_buyer_emotion_bacon_action_volcano
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness
 id_no_color: 030310nm8mmtapewidth15mmtapethickness1d5
 id_no_size: 03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
 id_no_type: smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ou4a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ou4a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ou4a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030310Nm8mmtapewidth15mmtapethickness1D5
 name_no_size: 03 03 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
 name_no_size_short: 03 03 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 03 03 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
 oomp_word: seven rat camera
 oomp_word_emoji: ':seven: :rat: :camera:'

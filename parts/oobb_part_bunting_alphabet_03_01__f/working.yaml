@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood
+bip_39_word_dash_11: ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood-angle
+bip_39_word_dash_12: ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant-wood-angle-agent
+bip_39_word_dash_2: ring-outdoor
+bip_39_word_dash_3: ring-outdoor-swallow
+bip_39_word_dash_4: ring-outdoor-swallow-wide
+bip_39_word_dash_5: ring-outdoor-swallow-wide-client
+bip_39_word_dash_6: ring-outdoor-swallow-wide-client-slice
+bip_39_word_dash_7: ring-outdoor-swallow-wide-client-slice-spread
+bip_39_word_dash_8: ring-outdoor-swallow-wide-client-slice-spread-wave
+bip_39_word_dash_9: ring-outdoor-swallow-wide-client-slice-spread-wave-vibrant
+bip_39_word_new_br_1: ring
+bip_39_word_new_br_10: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant<br>wood
+bip_39_word_new_br_11: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant<br>wood<br>angle
+bip_39_word_new_br_12: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant<br>wood<br>angle<br>agent
+bip_39_word_new_br_2: ring<br>outdoor
+bip_39_word_new_br_3: ring<br>outdoor<br>swallow
+bip_39_word_new_br_4: ring<br>outdoor<br>swallow<br>wide
+bip_39_word_new_br_5: ring<br>outdoor<br>swallow<br>wide<br>client
+bip_39_word_new_br_6: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice
+bip_39_word_new_br_7: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread
+bip_39_word_new_br_8: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave
+bip_39_word_new_br_9: ring<br>outdoor<br>swallow<br>wide<br>client<br>slice<br>spread<br>wave<br>vibrant
+bip_39_word_new_line_1: ring
+bip_39_word_new_line_10: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread
+
+  wave
+
+  vibrant
+
+  wood'
+bip_39_word_new_line_11: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread
+
+  wave
+
+  vibrant
+
+  wood
+
+  angle'
+bip_39_word_new_line_12: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread
+
+  wave
+
+  vibrant
+
+  wood
+
+  angle
+
+  agent'
+bip_39_word_new_line_2: 'ring
+
+  outdoor'
+bip_39_word_new_line_3: 'ring
+
+  outdoor
+
+  swallow'
+bip_39_word_new_line_4: 'ring
+
+  outdoor
+
+  swallow
+
+  wide'
+bip_39_word_new_line_5: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client'
+bip_39_word_new_line_6: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice'
+bip_39_word_new_line_7: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread'
+bip_39_word_new_line_8: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread
+
+  wave'
+bip_39_word_new_line_9: 'ring
+
+  outdoor
+
+  swallow
+
+  wide
+
+  client
+
+  slice
+
+  spread
+
+  wave
+
+  vibrant'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringoutdoorswallowwideclientslicespreadwavevibrantwood
+bip_39_word_no_space_11: ringoutdoorswallowwideclientslicespreadwavevibrantwoodangle
+bip_39_word_no_space_12: ringoutdoorswallowwideclientslicespreadwavevibrantwoodangleagent
+bip_39_word_no_space_2: ringoutdoor
+bip_39_word_no_space_3: ringoutdoorswallow
+bip_39_word_no_space_4: ringoutdoorswallowwide
+bip_39_word_no_space_5: ringoutdoorswallowwideclient
+bip_39_word_no_space_6: ringoutdoorswallowwideclientslice
+bip_39_word_no_space_7: ringoutdoorswallowwideclientslicespread
+bip_39_word_no_space_8: ringoutdoorswallowwideclientslicespreadwave
+bip_39_word_no_space_9: ringoutdoorswallowwideclientslicespreadwavevibrant
+bip_39_word_space_0:
+- ring
+- outdoor
+- swallow
+- wide
+- client
+- slice
+- spread
+- wave
+- vibrant
+- wood
+- angle
+- agent
+bip_39_word_space_1: ring
+bip_39_word_space_10: ring outdoor swallow wide client slice spread wave vibrant wood
+bip_39_word_space_11: ring outdoor swallow wide client slice spread wave vibrant wood
+  angle
+bip_39_word_space_12: ring outdoor swallow wide client slice spread wave vibrant wood
+  angle agent
+bip_39_word_space_2: ring outdoor
+bip_39_word_space_3: ring outdoor swallow
+bip_39_word_space_4: ring outdoor swallow wide
+bip_39_word_space_5: ring outdoor swallow wide client
+bip_39_word_space_6: ring outdoor swallow wide client slice
+bip_39_word_space_7: ring outdoor swallow wide client slice spread
+bip_39_word_space_8: ring outdoor swallow wide client slice spread wave
+bip_39_word_space_9: ring outdoor swallow wide client slice spread wave vibrant
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood
+bip_39_word_underscore_11: ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood_angle
+bip_39_word_underscore_12: ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant_wood_angle_agent
+bip_39_word_underscore_2: ring_outdoor
+bip_39_word_underscore_3: ring_outdoor_swallow
+bip_39_word_underscore_4: ring_outdoor_swallow_wide
+bip_39_word_underscore_5: ring_outdoor_swallow_wide_client
+bip_39_word_underscore_6: ring_outdoor_swallow_wide_client_slice
+bip_39_word_underscore_7: ring_outdoor_swallow_wide_client_slice_spread
+bip_39_word_underscore_8: ring_outdoor_swallow_wide_client_slice_spread_wave
+bip_39_word_underscore_9: ring_outdoor_swallow_wide_client_slice_spread_wave_vibrant
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_03_01__f
 id_no_color: 0301f
 id_no_size: 03_01__f
 id_no_type: bunting_alphabet_03_01__f
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__f
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__f
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__f
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2031nsv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2031nsv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2031nsv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0301F
 name_no_size: 03 01  F
 name_no_size_short: 03 01  F
 name_no_type: Bunting Alphabet 03 01  F
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__f
 oomp_word: honeybee dizzy egg
 oomp_word_emoji: ':honeybee: :dizzy: :egg:'

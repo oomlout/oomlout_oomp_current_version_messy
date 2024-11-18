@@ -1,3 +1,222 @@
+bip_39_word_dash_1: script
+bip_39_word_dash_10: script-catch-lake-merge-finish-armed-pipe-merit-what-sketch
+bip_39_word_dash_11: script-catch-lake-merge-finish-armed-pipe-merit-what-sketch-powder
+bip_39_word_dash_12: script-catch-lake-merge-finish-armed-pipe-merit-what-sketch-powder-announce
+bip_39_word_dash_2: script-catch
+bip_39_word_dash_3: script-catch-lake
+bip_39_word_dash_4: script-catch-lake-merge
+bip_39_word_dash_5: script-catch-lake-merge-finish
+bip_39_word_dash_6: script-catch-lake-merge-finish-armed
+bip_39_word_dash_7: script-catch-lake-merge-finish-armed-pipe
+bip_39_word_dash_8: script-catch-lake-merge-finish-armed-pipe-merit
+bip_39_word_dash_9: script-catch-lake-merge-finish-armed-pipe-merit-what
+bip_39_word_new_br_1: script
+bip_39_word_new_br_10: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch
+bip_39_word_new_br_11: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder
+bip_39_word_new_br_12: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what<br>sketch<br>powder<br>announce
+bip_39_word_new_br_2: script<br>catch
+bip_39_word_new_br_3: script<br>catch<br>lake
+bip_39_word_new_br_4: script<br>catch<br>lake<br>merge
+bip_39_word_new_br_5: script<br>catch<br>lake<br>merge<br>finish
+bip_39_word_new_br_6: script<br>catch<br>lake<br>merge<br>finish<br>armed
+bip_39_word_new_br_7: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe
+bip_39_word_new_br_8: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit
+bip_39_word_new_br_9: script<br>catch<br>lake<br>merge<br>finish<br>armed<br>pipe<br>merit<br>what
+bip_39_word_new_line_1: script
+bip_39_word_new_line_10: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch'
+bip_39_word_new_line_11: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch
+
+  powder'
+bip_39_word_new_line_12: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what
+
+  sketch
+
+  powder
+
+  announce'
+bip_39_word_new_line_2: 'script
+
+  catch'
+bip_39_word_new_line_3: 'script
+
+  catch
+
+  lake'
+bip_39_word_new_line_4: 'script
+
+  catch
+
+  lake
+
+  merge'
+bip_39_word_new_line_5: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish'
+bip_39_word_new_line_6: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed'
+bip_39_word_new_line_7: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe'
+bip_39_word_new_line_8: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit'
+bip_39_word_new_line_9: 'script
+
+  catch
+
+  lake
+
+  merge
+
+  finish
+
+  armed
+
+  pipe
+
+  merit
+
+  what'
+bip_39_word_no_space_1: script
+bip_39_word_no_space_10: scriptcatchlakemergefinisharmedpipemeritwhatsketch
+bip_39_word_no_space_11: scriptcatchlakemergefinisharmedpipemeritwhatsketchpowder
+bip_39_word_no_space_12: scriptcatchlakemergefinisharmedpipemeritwhatsketchpowderannounce
+bip_39_word_no_space_2: scriptcatch
+bip_39_word_no_space_3: scriptcatchlake
+bip_39_word_no_space_4: scriptcatchlakemerge
+bip_39_word_no_space_5: scriptcatchlakemergefinish
+bip_39_word_no_space_6: scriptcatchlakemergefinisharmed
+bip_39_word_no_space_7: scriptcatchlakemergefinisharmedpipe
+bip_39_word_no_space_8: scriptcatchlakemergefinisharmedpipemerit
+bip_39_word_no_space_9: scriptcatchlakemergefinisharmedpipemeritwhat
+bip_39_word_space_0:
+- script
+- catch
+- lake
+- merge
+- finish
+- armed
+- pipe
+- merit
+- what
+- sketch
+- powder
+- announce
+bip_39_word_space_1: script
+bip_39_word_space_10: script catch lake merge finish armed pipe merit what sketch
+bip_39_word_space_11: script catch lake merge finish armed pipe merit what sketch
+  powder
+bip_39_word_space_12: script catch lake merge finish armed pipe merit what sketch
+  powder announce
+bip_39_word_space_2: script catch
+bip_39_word_space_3: script catch lake
+bip_39_word_space_4: script catch lake merge
+bip_39_word_space_5: script catch lake merge finish
+bip_39_word_space_6: script catch lake merge finish armed
+bip_39_word_space_7: script catch lake merge finish armed pipe
+bip_39_word_space_8: script catch lake merge finish armed pipe merit
+bip_39_word_space_9: script catch lake merge finish armed pipe merit what
+bip_39_word_underscore_1: script
+bip_39_word_underscore_10: script_catch_lake_merge_finish_armed_pipe_merit_what_sketch
+bip_39_word_underscore_11: script_catch_lake_merge_finish_armed_pipe_merit_what_sketch_powder
+bip_39_word_underscore_12: script_catch_lake_merge_finish_armed_pipe_merit_what_sketch_powder_announce
+bip_39_word_underscore_2: script_catch
+bip_39_word_underscore_3: script_catch_lake
+bip_39_word_underscore_4: script_catch_lake_merge
+bip_39_word_underscore_5: script_catch_lake_merge_finish
+bip_39_word_underscore_6: script_catch_lake_merge_finish_armed
+bip_39_word_underscore_7: script_catch_lake_merge_finish_armed_pipe
+bip_39_word_underscore_8: script_catch_lake_merge_finish_armed_pipe_merit
+bip_39_word_underscore_9: script_catch_lake_merge_finish_armed_pipe_merit_what
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__36_teeth
 id_no_color: 010936teeth
 id_no_size: 01_09__36_teeth
 id_no_type: pulley_gt2_01_09__36_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__36_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tqwi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tqwi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tqwi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010936Teeth
 name_no_size: 01 09  36 Teeth
 name_no_size_short: 01 09  36 Teeth
 name_no_type: Pulley Gt2 01 09  36 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__36_teeth
 oomp_word: telescope octopus dolls
 oomp_word_emoji: ':telescope: :octopus: :dolls:'

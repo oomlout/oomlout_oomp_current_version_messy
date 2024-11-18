@@ -1,3 +1,223 @@
+bip_39_word_dash_1: laundry
+bip_39_word_dash_10: laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term
+bip_39_word_dash_11: laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term-powder
+bip_39_word_dash_12: laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit-term-powder-artist
+bip_39_word_dash_2: laundry-prevent
+bip_39_word_dash_3: laundry-prevent-flower
+bip_39_word_dash_4: laundry-prevent-flower-daring
+bip_39_word_dash_5: laundry-prevent-flower-daring-release
+bip_39_word_dash_6: laundry-prevent-flower-daring-release-ridge
+bip_39_word_dash_7: laundry-prevent-flower-daring-release-ridge-turn
+bip_39_word_dash_8: laundry-prevent-flower-daring-release-ridge-turn-wheel
+bip_39_word_dash_9: laundry-prevent-flower-daring-release-ridge-turn-wheel-inherit
+bip_39_word_new_br_1: laundry
+bip_39_word_new_br_10: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit<br>term
+bip_39_word_new_br_11: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit<br>term<br>powder
+bip_39_word_new_br_12: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit<br>term<br>powder<br>artist
+bip_39_word_new_br_2: laundry<br>prevent
+bip_39_word_new_br_3: laundry<br>prevent<br>flower
+bip_39_word_new_br_4: laundry<br>prevent<br>flower<br>daring
+bip_39_word_new_br_5: laundry<br>prevent<br>flower<br>daring<br>release
+bip_39_word_new_br_6: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge
+bip_39_word_new_br_7: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn
+bip_39_word_new_br_8: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel
+bip_39_word_new_br_9: laundry<br>prevent<br>flower<br>daring<br>release<br>ridge<br>turn<br>wheel<br>inherit
+bip_39_word_new_line_1: laundry
+bip_39_word_new_line_10: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn
+
+  wheel
+
+  inherit
+
+  term'
+bip_39_word_new_line_11: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn
+
+  wheel
+
+  inherit
+
+  term
+
+  powder'
+bip_39_word_new_line_12: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn
+
+  wheel
+
+  inherit
+
+  term
+
+  powder
+
+  artist'
+bip_39_word_new_line_2: 'laundry
+
+  prevent'
+bip_39_word_new_line_3: 'laundry
+
+  prevent
+
+  flower'
+bip_39_word_new_line_4: 'laundry
+
+  prevent
+
+  flower
+
+  daring'
+bip_39_word_new_line_5: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release'
+bip_39_word_new_line_6: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge'
+bip_39_word_new_line_7: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn'
+bip_39_word_new_line_8: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn
+
+  wheel'
+bip_39_word_new_line_9: 'laundry
+
+  prevent
+
+  flower
+
+  daring
+
+  release
+
+  ridge
+
+  turn
+
+  wheel
+
+  inherit'
+bip_39_word_no_space_1: laundry
+bip_39_word_no_space_10: laundrypreventflowerdaringreleaseridgeturnwheelinheritterm
+bip_39_word_no_space_11: laundrypreventflowerdaringreleaseridgeturnwheelinherittermpowder
+bip_39_word_no_space_12: laundrypreventflowerdaringreleaseridgeturnwheelinherittermpowderartist
+bip_39_word_no_space_2: laundryprevent
+bip_39_word_no_space_3: laundrypreventflower
+bip_39_word_no_space_4: laundrypreventflowerdaring
+bip_39_word_no_space_5: laundrypreventflowerdaringrelease
+bip_39_word_no_space_6: laundrypreventflowerdaringreleaseridge
+bip_39_word_no_space_7: laundrypreventflowerdaringreleaseridgeturn
+bip_39_word_no_space_8: laundrypreventflowerdaringreleaseridgeturnwheel
+bip_39_word_no_space_9: laundrypreventflowerdaringreleaseridgeturnwheelinherit
+bip_39_word_space_0:
+- laundry
+- prevent
+- flower
+- daring
+- release
+- ridge
+- turn
+- wheel
+- inherit
+- term
+- powder
+- artist
+bip_39_word_space_1: laundry
+bip_39_word_space_10: laundry prevent flower daring release ridge turn wheel inherit
+  term
+bip_39_word_space_11: laundry prevent flower daring release ridge turn wheel inherit
+  term powder
+bip_39_word_space_12: laundry prevent flower daring release ridge turn wheel inherit
+  term powder artist
+bip_39_word_space_2: laundry prevent
+bip_39_word_space_3: laundry prevent flower
+bip_39_word_space_4: laundry prevent flower daring
+bip_39_word_space_5: laundry prevent flower daring release
+bip_39_word_space_6: laundry prevent flower daring release ridge
+bip_39_word_space_7: laundry prevent flower daring release ridge turn
+bip_39_word_space_8: laundry prevent flower daring release ridge turn wheel
+bip_39_word_space_9: laundry prevent flower daring release ridge turn wheel inherit
+bip_39_word_underscore_1: laundry
+bip_39_word_underscore_10: laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term
+bip_39_word_underscore_11: laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term_powder
+bip_39_word_underscore_12: laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit_term_powder_artist
+bip_39_word_underscore_2: laundry_prevent
+bip_39_word_underscore_3: laundry_prevent_flower
+bip_39_word_underscore_4: laundry_prevent_flower_daring
+bip_39_word_underscore_5: laundry_prevent_flower_daring_release
+bip_39_word_underscore_6: laundry_prevent_flower_daring_release_ridge
+bip_39_word_underscore_7: laundry_prevent_flower_daring_release_ridge_turn
+bip_39_word_underscore_8: laundry_prevent_flower_daring_release_ridge_turn_wheel
+bip_39_word_underscore_9: laundry_prevent_flower_daring_release_ridge_turn_wheel_inherit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_07_06_12
 id_no_color: '070612'
 id_no_size: '07_06_12'
 id_no_type: tray_thin_07_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20860zb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20860zb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20860zb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '070612'
 name_no_size: 07 06 12
 name_no_size_short: 07 06 12
 name_no_type: Tray Thin 07 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_06_12
 oomp_word: pear octopus gift
 oomp_word_emoji: ':pear: :octopus: :gift:'

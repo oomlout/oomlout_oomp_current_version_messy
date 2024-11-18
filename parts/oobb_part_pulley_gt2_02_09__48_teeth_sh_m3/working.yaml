@@ -1,3 +1,221 @@
+bip_39_word_dash_1: pen
+bip_39_word_dash_10: pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow
+bip_39_word_dash_11: pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow-puppy
+bip_39_word_dash_12: pen-flee-rally-trash-scrap-begin-myself-armed-actor-meadow-puppy-aerobic
+bip_39_word_dash_2: pen-flee
+bip_39_word_dash_3: pen-flee-rally
+bip_39_word_dash_4: pen-flee-rally-trash
+bip_39_word_dash_5: pen-flee-rally-trash-scrap
+bip_39_word_dash_6: pen-flee-rally-trash-scrap-begin
+bip_39_word_dash_7: pen-flee-rally-trash-scrap-begin-myself
+bip_39_word_dash_8: pen-flee-rally-trash-scrap-begin-myself-armed
+bip_39_word_dash_9: pen-flee-rally-trash-scrap-begin-myself-armed-actor
+bip_39_word_new_br_1: pen
+bip_39_word_new_br_10: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow
+bip_39_word_new_br_11: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy
+bip_39_word_new_br_12: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor<br>meadow<br>puppy<br>aerobic
+bip_39_word_new_br_2: pen<br>flee
+bip_39_word_new_br_3: pen<br>flee<br>rally
+bip_39_word_new_br_4: pen<br>flee<br>rally<br>trash
+bip_39_word_new_br_5: pen<br>flee<br>rally<br>trash<br>scrap
+bip_39_word_new_br_6: pen<br>flee<br>rally<br>trash<br>scrap<br>begin
+bip_39_word_new_br_7: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself
+bip_39_word_new_br_8: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed
+bip_39_word_new_br_9: pen<br>flee<br>rally<br>trash<br>scrap<br>begin<br>myself<br>armed<br>actor
+bip_39_word_new_line_1: pen
+bip_39_word_new_line_10: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself
+
+  armed
+
+  actor
+
+  meadow'
+bip_39_word_new_line_11: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself
+
+  armed
+
+  actor
+
+  meadow
+
+  puppy'
+bip_39_word_new_line_12: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself
+
+  armed
+
+  actor
+
+  meadow
+
+  puppy
+
+  aerobic'
+bip_39_word_new_line_2: 'pen
+
+  flee'
+bip_39_word_new_line_3: 'pen
+
+  flee
+
+  rally'
+bip_39_word_new_line_4: 'pen
+
+  flee
+
+  rally
+
+  trash'
+bip_39_word_new_line_5: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap'
+bip_39_word_new_line_6: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin'
+bip_39_word_new_line_7: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself'
+bip_39_word_new_line_8: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself
+
+  armed'
+bip_39_word_new_line_9: 'pen
+
+  flee
+
+  rally
+
+  trash
+
+  scrap
+
+  begin
+
+  myself
+
+  armed
+
+  actor'
+bip_39_word_no_space_1: pen
+bip_39_word_no_space_10: penfleerallytrashscrapbeginmyselfarmedactormeadow
+bip_39_word_no_space_11: penfleerallytrashscrapbeginmyselfarmedactormeadowpuppy
+bip_39_word_no_space_12: penfleerallytrashscrapbeginmyselfarmedactormeadowpuppyaerobic
+bip_39_word_no_space_2: penflee
+bip_39_word_no_space_3: penfleerally
+bip_39_word_no_space_4: penfleerallytrash
+bip_39_word_no_space_5: penfleerallytrashscrap
+bip_39_word_no_space_6: penfleerallytrashscrapbegin
+bip_39_word_no_space_7: penfleerallytrashscrapbeginmyself
+bip_39_word_no_space_8: penfleerallytrashscrapbeginmyselfarmed
+bip_39_word_no_space_9: penfleerallytrashscrapbeginmyselfarmedactor
+bip_39_word_space_0:
+- pen
+- flee
+- rally
+- trash
+- scrap
+- begin
+- myself
+- armed
+- actor
+- meadow
+- puppy
+- aerobic
+bip_39_word_space_1: pen
+bip_39_word_space_10: pen flee rally trash scrap begin myself armed actor meadow
+bip_39_word_space_11: pen flee rally trash scrap begin myself armed actor meadow puppy
+bip_39_word_space_12: pen flee rally trash scrap begin myself armed actor meadow puppy
+  aerobic
+bip_39_word_space_2: pen flee
+bip_39_word_space_3: pen flee rally
+bip_39_word_space_4: pen flee rally trash
+bip_39_word_space_5: pen flee rally trash scrap
+bip_39_word_space_6: pen flee rally trash scrap begin
+bip_39_word_space_7: pen flee rally trash scrap begin myself
+bip_39_word_space_8: pen flee rally trash scrap begin myself armed
+bip_39_word_space_9: pen flee rally trash scrap begin myself armed actor
+bip_39_word_underscore_1: pen
+bip_39_word_underscore_10: pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow
+bip_39_word_underscore_11: pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow_puppy
+bip_39_word_underscore_12: pen_flee_rally_trash_scrap_begin_myself_armed_actor_meadow_puppy_aerobic
+bip_39_word_underscore_2: pen_flee
+bip_39_word_underscore_3: pen_flee_rally
+bip_39_word_underscore_4: pen_flee_rally_trash
+bip_39_word_underscore_5: pen_flee_rally_trash_scrap
+bip_39_word_underscore_6: pen_flee_rally_trash_scrap_begin
+bip_39_word_underscore_7: pen_flee_rally_trash_scrap_begin_myself
+bip_39_word_underscore_8: pen_flee_rally_trash_scrap_begin_myself_armed
+bip_39_word_underscore_9: pen_flee_rally_trash_scrap_begin_myself_armed_actor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_pulley_gt2_02_09__48_teeth_sh_m3
 id_no_color: 020948teethshm3
 id_no_size: 02_09__48_teeth_sh_m3
 id_no_type: pulley_gt2_02_09__48_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202mm8y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202mm8y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202mm8y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 020948Teethshm3
 name_no_size: 02 09  48 Teeth Sh M3
 name_no_size_short: 02 09  48 Teeth Sh M3
 name_no_type: Pulley Gt2 02 09  48 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__48_teeth_sh_m3
 oomp_word: elephant ox lips
 oomp_word_emoji: ':elephant: :ox: :lips:'

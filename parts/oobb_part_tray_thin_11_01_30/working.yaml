@@ -1,3 +1,221 @@
+bip_39_word_dash_1: bread
+bip_39_word_dash_10: bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only
+bip_39_word_dash_11: bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only-mercy
+bip_39_word_dash_12: bread-news-wage-repeat-skirt-episode-ice-lawn-treat-only-mercy-alien
+bip_39_word_dash_2: bread-news
+bip_39_word_dash_3: bread-news-wage
+bip_39_word_dash_4: bread-news-wage-repeat
+bip_39_word_dash_5: bread-news-wage-repeat-skirt
+bip_39_word_dash_6: bread-news-wage-repeat-skirt-episode
+bip_39_word_dash_7: bread-news-wage-repeat-skirt-episode-ice
+bip_39_word_dash_8: bread-news-wage-repeat-skirt-episode-ice-lawn
+bip_39_word_dash_9: bread-news-wage-repeat-skirt-episode-ice-lawn-treat
+bip_39_word_new_br_1: bread
+bip_39_word_new_br_10: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only
+bip_39_word_new_br_11: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy
+bip_39_word_new_br_12: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat<br>only<br>mercy<br>alien
+bip_39_word_new_br_2: bread<br>news
+bip_39_word_new_br_3: bread<br>news<br>wage
+bip_39_word_new_br_4: bread<br>news<br>wage<br>repeat
+bip_39_word_new_br_5: bread<br>news<br>wage<br>repeat<br>skirt
+bip_39_word_new_br_6: bread<br>news<br>wage<br>repeat<br>skirt<br>episode
+bip_39_word_new_br_7: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice
+bip_39_word_new_br_8: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn
+bip_39_word_new_br_9: bread<br>news<br>wage<br>repeat<br>skirt<br>episode<br>ice<br>lawn<br>treat
+bip_39_word_new_line_1: bread
+bip_39_word_new_line_10: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice
+
+  lawn
+
+  treat
+
+  only'
+bip_39_word_new_line_11: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice
+
+  lawn
+
+  treat
+
+  only
+
+  mercy'
+bip_39_word_new_line_12: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice
+
+  lawn
+
+  treat
+
+  only
+
+  mercy
+
+  alien'
+bip_39_word_new_line_2: 'bread
+
+  news'
+bip_39_word_new_line_3: 'bread
+
+  news
+
+  wage'
+bip_39_word_new_line_4: 'bread
+
+  news
+
+  wage
+
+  repeat'
+bip_39_word_new_line_5: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt'
+bip_39_word_new_line_6: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode'
+bip_39_word_new_line_7: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice'
+bip_39_word_new_line_8: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice
+
+  lawn'
+bip_39_word_new_line_9: 'bread
+
+  news
+
+  wage
+
+  repeat
+
+  skirt
+
+  episode
+
+  ice
+
+  lawn
+
+  treat'
+bip_39_word_no_space_1: bread
+bip_39_word_no_space_10: breadnewswagerepeatskirtepisodeicelawntreatonly
+bip_39_word_no_space_11: breadnewswagerepeatskirtepisodeicelawntreatonlymercy
+bip_39_word_no_space_12: breadnewswagerepeatskirtepisodeicelawntreatonlymercyalien
+bip_39_word_no_space_2: breadnews
+bip_39_word_no_space_3: breadnewswage
+bip_39_word_no_space_4: breadnewswagerepeat
+bip_39_word_no_space_5: breadnewswagerepeatskirt
+bip_39_word_no_space_6: breadnewswagerepeatskirtepisode
+bip_39_word_no_space_7: breadnewswagerepeatskirtepisodeice
+bip_39_word_no_space_8: breadnewswagerepeatskirtepisodeicelawn
+bip_39_word_no_space_9: breadnewswagerepeatskirtepisodeicelawntreat
+bip_39_word_space_0:
+- bread
+- news
+- wage
+- repeat
+- skirt
+- episode
+- ice
+- lawn
+- treat
+- only
+- mercy
+- alien
+bip_39_word_space_1: bread
+bip_39_word_space_10: bread news wage repeat skirt episode ice lawn treat only
+bip_39_word_space_11: bread news wage repeat skirt episode ice lawn treat only mercy
+bip_39_word_space_12: bread news wage repeat skirt episode ice lawn treat only mercy
+  alien
+bip_39_word_space_2: bread news
+bip_39_word_space_3: bread news wage
+bip_39_word_space_4: bread news wage repeat
+bip_39_word_space_5: bread news wage repeat skirt
+bip_39_word_space_6: bread news wage repeat skirt episode
+bip_39_word_space_7: bread news wage repeat skirt episode ice
+bip_39_word_space_8: bread news wage repeat skirt episode ice lawn
+bip_39_word_space_9: bread news wage repeat skirt episode ice lawn treat
+bip_39_word_underscore_1: bread
+bip_39_word_underscore_10: bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only
+bip_39_word_underscore_11: bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only_mercy
+bip_39_word_underscore_12: bread_news_wage_repeat_skirt_episode_ice_lawn_treat_only_mercy_alien
+bip_39_word_underscore_2: bread_news
+bip_39_word_underscore_3: bread_news_wage
+bip_39_word_underscore_4: bread_news_wage_repeat
+bip_39_word_underscore_5: bread_news_wage_repeat_skirt
+bip_39_word_underscore_6: bread_news_wage_repeat_skirt_episode
+bip_39_word_underscore_7: bread_news_wage_repeat_skirt_episode_ice
+bip_39_word_underscore_8: bread_news_wage_repeat_skirt_episode_ice_lawn
+bip_39_word_underscore_9: bread_news_wage_repeat_skirt_episode_ice_lawn_treat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_11_01_30
 id_no_color: '110130'
 id_no_size: '11_01_30'
 id_no_type: tray_thin_11_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203xzty
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203xzty
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203xzty
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '110130'
 name_no_size: 11 01 30
 name_no_size_short: 11 01 30
 name_no_type: Tray Thin 11 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_01_30
 oomp_word: maple_leaf thumbsup trumpet
 oomp_word_emoji: ':maple_leaf: :thumbsup: :trumpet:'

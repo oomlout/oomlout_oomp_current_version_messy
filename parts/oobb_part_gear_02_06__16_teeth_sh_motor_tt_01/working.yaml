@@ -1,3 +1,222 @@
+bip_39_word_dash_1: useful
+bip_39_word_dash_10: useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly
+bip_39_word_dash_11: useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly-uncover
+bip_39_word_dash_12: useful-cheap-oyster-behind-memory-virtual-rely-since-main-jelly-uncover-adapt
+bip_39_word_dash_2: useful-cheap
+bip_39_word_dash_3: useful-cheap-oyster
+bip_39_word_dash_4: useful-cheap-oyster-behind
+bip_39_word_dash_5: useful-cheap-oyster-behind-memory
+bip_39_word_dash_6: useful-cheap-oyster-behind-memory-virtual
+bip_39_word_dash_7: useful-cheap-oyster-behind-memory-virtual-rely
+bip_39_word_dash_8: useful-cheap-oyster-behind-memory-virtual-rely-since
+bip_39_word_dash_9: useful-cheap-oyster-behind-memory-virtual-rely-since-main
+bip_39_word_new_br_1: useful
+bip_39_word_new_br_10: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly
+bip_39_word_new_br_11: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly<br>uncover
+bip_39_word_new_br_12: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main<br>jelly<br>uncover<br>adapt
+bip_39_word_new_br_2: useful<br>cheap
+bip_39_word_new_br_3: useful<br>cheap<br>oyster
+bip_39_word_new_br_4: useful<br>cheap<br>oyster<br>behind
+bip_39_word_new_br_5: useful<br>cheap<br>oyster<br>behind<br>memory
+bip_39_word_new_br_6: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual
+bip_39_word_new_br_7: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely
+bip_39_word_new_br_8: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since
+bip_39_word_new_br_9: useful<br>cheap<br>oyster<br>behind<br>memory<br>virtual<br>rely<br>since<br>main
+bip_39_word_new_line_1: useful
+bip_39_word_new_line_10: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly'
+bip_39_word_new_line_11: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly
+
+  uncover'
+bip_39_word_new_line_12: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main
+
+  jelly
+
+  uncover
+
+  adapt'
+bip_39_word_new_line_2: 'useful
+
+  cheap'
+bip_39_word_new_line_3: 'useful
+
+  cheap
+
+  oyster'
+bip_39_word_new_line_4: 'useful
+
+  cheap
+
+  oyster
+
+  behind'
+bip_39_word_new_line_5: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory'
+bip_39_word_new_line_6: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual'
+bip_39_word_new_line_7: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely'
+bip_39_word_new_line_8: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since'
+bip_39_word_new_line_9: 'useful
+
+  cheap
+
+  oyster
+
+  behind
+
+  memory
+
+  virtual
+
+  rely
+
+  since
+
+  main'
+bip_39_word_no_space_1: useful
+bip_39_word_no_space_10: usefulcheapoysterbehindmemoryvirtualrelysincemainjelly
+bip_39_word_no_space_11: usefulcheapoysterbehindmemoryvirtualrelysincemainjellyuncover
+bip_39_word_no_space_12: usefulcheapoysterbehindmemoryvirtualrelysincemainjellyuncoveradapt
+bip_39_word_no_space_2: usefulcheap
+bip_39_word_no_space_3: usefulcheapoyster
+bip_39_word_no_space_4: usefulcheapoysterbehind
+bip_39_word_no_space_5: usefulcheapoysterbehindmemory
+bip_39_word_no_space_6: usefulcheapoysterbehindmemoryvirtual
+bip_39_word_no_space_7: usefulcheapoysterbehindmemoryvirtualrely
+bip_39_word_no_space_8: usefulcheapoysterbehindmemoryvirtualrelysince
+bip_39_word_no_space_9: usefulcheapoysterbehindmemoryvirtualrelysincemain
+bip_39_word_space_0:
+- useful
+- cheap
+- oyster
+- behind
+- memory
+- virtual
+- rely
+- since
+- main
+- jelly
+- uncover
+- adapt
+bip_39_word_space_1: useful
+bip_39_word_space_10: useful cheap oyster behind memory virtual rely since main jelly
+bip_39_word_space_11: useful cheap oyster behind memory virtual rely since main jelly
+  uncover
+bip_39_word_space_12: useful cheap oyster behind memory virtual rely since main jelly
+  uncover adapt
+bip_39_word_space_2: useful cheap
+bip_39_word_space_3: useful cheap oyster
+bip_39_word_space_4: useful cheap oyster behind
+bip_39_word_space_5: useful cheap oyster behind memory
+bip_39_word_space_6: useful cheap oyster behind memory virtual
+bip_39_word_space_7: useful cheap oyster behind memory virtual rely
+bip_39_word_space_8: useful cheap oyster behind memory virtual rely since
+bip_39_word_space_9: useful cheap oyster behind memory virtual rely since main
+bip_39_word_underscore_1: useful
+bip_39_word_underscore_10: useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly
+bip_39_word_underscore_11: useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly_uncover
+bip_39_word_underscore_12: useful_cheap_oyster_behind_memory_virtual_rely_since_main_jelly_uncover_adapt
+bip_39_word_underscore_2: useful_cheap
+bip_39_word_underscore_3: useful_cheap_oyster
+bip_39_word_underscore_4: useful_cheap_oyster_behind
+bip_39_word_underscore_5: useful_cheap_oyster_behind_memory
+bip_39_word_underscore_6: useful_cheap_oyster_behind_memory_virtual
+bip_39_word_underscore_7: useful_cheap_oyster_behind_memory_virtual_rely
+bip_39_word_underscore_8: useful_cheap_oyster_behind_memory_virtual_rely_since
+bip_39_word_underscore_9: useful_cheap_oyster_behind_memory_virtual_rely_since_main
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_02_06__16_teeth_sh_motor_tt_01
 id_no_color: 020616teethshmotortt01
 id_no_size: 02_06__16_teeth_sh_motor_tt_01
 id_no_type: gear_02_06__16_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201y0rh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201y0rh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201y0rh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020616Teethshmotortt01
 name_no_size: 02 06  16 Teeth Sh Motor Tt 01
 name_no_size_short: 02 06  16 Teeth Sh Motor Tt 01
 name_no_type: Gear 02 06  16 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_02_06__16_teeth_sh_motor_tt_01
 oomp_word: ocean bank blowfish
 oomp_word_emoji: ':ocean: :bank: :blowfish:'

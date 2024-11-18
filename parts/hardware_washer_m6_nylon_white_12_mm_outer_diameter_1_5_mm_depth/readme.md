@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Washer M6 Nylon White 12 mm Outer Diameter 1 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth
   * classification: hardware

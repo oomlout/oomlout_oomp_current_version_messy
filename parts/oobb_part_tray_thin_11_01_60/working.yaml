@@ -1,3 +1,222 @@
+bip_39_word_dash_1: govern
+bip_39_word_dash_10: govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush
+bip_39_word_dash_11: govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush-blouse
+bip_39_word_dash_12: govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used-flush-blouse-arrow
+bip_39_word_dash_2: govern-stem
+bip_39_word_dash_3: govern-stem-upgrade
+bip_39_word_dash_4: govern-stem-upgrade-tank
+bip_39_word_dash_5: govern-stem-upgrade-tank-shiver
+bip_39_word_dash_6: govern-stem-upgrade-tank-shiver-gentle
+bip_39_word_dash_7: govern-stem-upgrade-tank-shiver-gentle-aerobic
+bip_39_word_dash_8: govern-stem-upgrade-tank-shiver-gentle-aerobic-agree
+bip_39_word_dash_9: govern-stem-upgrade-tank-shiver-gentle-aerobic-agree-used
+bip_39_word_new_br_1: govern
+bip_39_word_new_br_10: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush
+bip_39_word_new_br_11: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse
+bip_39_word_new_br_12: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used<br>flush<br>blouse<br>arrow
+bip_39_word_new_br_2: govern<br>stem
+bip_39_word_new_br_3: govern<br>stem<br>upgrade
+bip_39_word_new_br_4: govern<br>stem<br>upgrade<br>tank
+bip_39_word_new_br_5: govern<br>stem<br>upgrade<br>tank<br>shiver
+bip_39_word_new_br_6: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle
+bip_39_word_new_br_7: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic
+bip_39_word_new_br_8: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree
+bip_39_word_new_br_9: govern<br>stem<br>upgrade<br>tank<br>shiver<br>gentle<br>aerobic<br>agree<br>used
+bip_39_word_new_line_1: govern
+bip_39_word_new_line_10: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic
+
+  agree
+
+  used
+
+  flush'
+bip_39_word_new_line_11: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic
+
+  agree
+
+  used
+
+  flush
+
+  blouse'
+bip_39_word_new_line_12: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic
+
+  agree
+
+  used
+
+  flush
+
+  blouse
+
+  arrow'
+bip_39_word_new_line_2: 'govern
+
+  stem'
+bip_39_word_new_line_3: 'govern
+
+  stem
+
+  upgrade'
+bip_39_word_new_line_4: 'govern
+
+  stem
+
+  upgrade
+
+  tank'
+bip_39_word_new_line_5: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver'
+bip_39_word_new_line_6: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle'
+bip_39_word_new_line_7: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic'
+bip_39_word_new_line_8: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic
+
+  agree'
+bip_39_word_new_line_9: 'govern
+
+  stem
+
+  upgrade
+
+  tank
+
+  shiver
+
+  gentle
+
+  aerobic
+
+  agree
+
+  used'
+bip_39_word_no_space_1: govern
+bip_39_word_no_space_10: governstemupgradetankshivergentleaerobicagreeusedflush
+bip_39_word_no_space_11: governstemupgradetankshivergentleaerobicagreeusedflushblouse
+bip_39_word_no_space_12: governstemupgradetankshivergentleaerobicagreeusedflushblousearrow
+bip_39_word_no_space_2: governstem
+bip_39_word_no_space_3: governstemupgrade
+bip_39_word_no_space_4: governstemupgradetank
+bip_39_word_no_space_5: governstemupgradetankshiver
+bip_39_word_no_space_6: governstemupgradetankshivergentle
+bip_39_word_no_space_7: governstemupgradetankshivergentleaerobic
+bip_39_word_no_space_8: governstemupgradetankshivergentleaerobicagree
+bip_39_word_no_space_9: governstemupgradetankshivergentleaerobicagreeused
+bip_39_word_space_0:
+- govern
+- stem
+- upgrade
+- tank
+- shiver
+- gentle
+- aerobic
+- agree
+- used
+- flush
+- blouse
+- arrow
+bip_39_word_space_1: govern
+bip_39_word_space_10: govern stem upgrade tank shiver gentle aerobic agree used flush
+bip_39_word_space_11: govern stem upgrade tank shiver gentle aerobic agree used flush
+  blouse
+bip_39_word_space_12: govern stem upgrade tank shiver gentle aerobic agree used flush
+  blouse arrow
+bip_39_word_space_2: govern stem
+bip_39_word_space_3: govern stem upgrade
+bip_39_word_space_4: govern stem upgrade tank
+bip_39_word_space_5: govern stem upgrade tank shiver
+bip_39_word_space_6: govern stem upgrade tank shiver gentle
+bip_39_word_space_7: govern stem upgrade tank shiver gentle aerobic
+bip_39_word_space_8: govern stem upgrade tank shiver gentle aerobic agree
+bip_39_word_space_9: govern stem upgrade tank shiver gentle aerobic agree used
+bip_39_word_underscore_1: govern
+bip_39_word_underscore_10: govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush
+bip_39_word_underscore_11: govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush_blouse
+bip_39_word_underscore_12: govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used_flush_blouse_arrow
+bip_39_word_underscore_2: govern_stem
+bip_39_word_underscore_3: govern_stem_upgrade
+bip_39_word_underscore_4: govern_stem_upgrade_tank
+bip_39_word_underscore_5: govern_stem_upgrade_tank_shiver
+bip_39_word_underscore_6: govern_stem_upgrade_tank_shiver_gentle
+bip_39_word_underscore_7: govern_stem_upgrade_tank_shiver_gentle_aerobic
+bip_39_word_underscore_8: govern_stem_upgrade_tank_shiver_gentle_aerobic_agree
+bip_39_word_underscore_9: govern_stem_upgrade_tank_shiver_gentle_aerobic_agree_used
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_01_60
 id_no_color: '110160'
 id_no_size: '11_01_60'
 id_no_type: tray_thin_11_01_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_01_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_01_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_01_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207w09i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207w09i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207w09i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110160'
 name_no_size: 11 01 60
 name_no_size_short: 11 01 60
 name_no_type: Tray Thin 11 01 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_01_60
 oomp_word: cherries foggy ram
 oomp_word_emoji: ':cherries: :foggy: :ram:'

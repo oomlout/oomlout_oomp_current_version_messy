@@ -1,3 +1,223 @@
+bip_39_word_dash_1: eye
+bip_39_word_dash_10: eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost
+bip_39_word_dash_11: eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost-special
+bip_39_word_dash_12: eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb-almost-special-animal
+bip_39_word_dash_2: eye-trade
+bip_39_word_dash_3: eye-trade-electric
+bip_39_word_dash_4: eye-trade-electric-razor
+bip_39_word_dash_5: eye-trade-electric-razor-rescue
+bip_39_word_dash_6: eye-trade-electric-razor-rescue-smart
+bip_39_word_dash_7: eye-trade-electric-razor-rescue-smart-trouble
+bip_39_word_dash_8: eye-trade-electric-razor-rescue-smart-trouble-comfort
+bip_39_word_dash_9: eye-trade-electric-razor-rescue-smart-trouble-comfort-absorb
+bip_39_word_new_br_1: eye
+bip_39_word_new_br_10: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost
+bip_39_word_new_br_11: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special
+bip_39_word_new_br_12: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb<br>almost<br>special<br>animal
+bip_39_word_new_br_2: eye<br>trade
+bip_39_word_new_br_3: eye<br>trade<br>electric
+bip_39_word_new_br_4: eye<br>trade<br>electric<br>razor
+bip_39_word_new_br_5: eye<br>trade<br>electric<br>razor<br>rescue
+bip_39_word_new_br_6: eye<br>trade<br>electric<br>razor<br>rescue<br>smart
+bip_39_word_new_br_7: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble
+bip_39_word_new_br_8: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort
+bip_39_word_new_br_9: eye<br>trade<br>electric<br>razor<br>rescue<br>smart<br>trouble<br>comfort<br>absorb
+bip_39_word_new_line_1: eye
+bip_39_word_new_line_10: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble
+
+  comfort
+
+  absorb
+
+  almost'
+bip_39_word_new_line_11: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble
+
+  comfort
+
+  absorb
+
+  almost
+
+  special'
+bip_39_word_new_line_12: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble
+
+  comfort
+
+  absorb
+
+  almost
+
+  special
+
+  animal'
+bip_39_word_new_line_2: 'eye
+
+  trade'
+bip_39_word_new_line_3: 'eye
+
+  trade
+
+  electric'
+bip_39_word_new_line_4: 'eye
+
+  trade
+
+  electric
+
+  razor'
+bip_39_word_new_line_5: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue'
+bip_39_word_new_line_6: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart'
+bip_39_word_new_line_7: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble'
+bip_39_word_new_line_8: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble
+
+  comfort'
+bip_39_word_new_line_9: 'eye
+
+  trade
+
+  electric
+
+  razor
+
+  rescue
+
+  smart
+
+  trouble
+
+  comfort
+
+  absorb'
+bip_39_word_no_space_1: eye
+bip_39_word_no_space_10: eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmost
+bip_39_word_no_space_11: eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmostspecial
+bip_39_word_no_space_12: eyetradeelectricrazorrescuesmarttroublecomfortabsorbalmostspecialanimal
+bip_39_word_no_space_2: eyetrade
+bip_39_word_no_space_3: eyetradeelectric
+bip_39_word_no_space_4: eyetradeelectricrazor
+bip_39_word_no_space_5: eyetradeelectricrazorrescue
+bip_39_word_no_space_6: eyetradeelectricrazorrescuesmart
+bip_39_word_no_space_7: eyetradeelectricrazorrescuesmarttrouble
+bip_39_word_no_space_8: eyetradeelectricrazorrescuesmarttroublecomfort
+bip_39_word_no_space_9: eyetradeelectricrazorrescuesmarttroublecomfortabsorb
+bip_39_word_space_0:
+- eye
+- trade
+- electric
+- razor
+- rescue
+- smart
+- trouble
+- comfort
+- absorb
+- almost
+- special
+- animal
+bip_39_word_space_1: eye
+bip_39_word_space_10: eye trade electric razor rescue smart trouble comfort absorb
+  almost
+bip_39_word_space_11: eye trade electric razor rescue smart trouble comfort absorb
+  almost special
+bip_39_word_space_12: eye trade electric razor rescue smart trouble comfort absorb
+  almost special animal
+bip_39_word_space_2: eye trade
+bip_39_word_space_3: eye trade electric
+bip_39_word_space_4: eye trade electric razor
+bip_39_word_space_5: eye trade electric razor rescue
+bip_39_word_space_6: eye trade electric razor rescue smart
+bip_39_word_space_7: eye trade electric razor rescue smart trouble
+bip_39_word_space_8: eye trade electric razor rescue smart trouble comfort
+bip_39_word_space_9: eye trade electric razor rescue smart trouble comfort absorb
+bip_39_word_underscore_1: eye
+bip_39_word_underscore_10: eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost
+bip_39_word_underscore_11: eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost_special
+bip_39_word_underscore_12: eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb_almost_special_animal
+bip_39_word_underscore_2: eye_trade
+bip_39_word_underscore_3: eye_trade_electric
+bip_39_word_underscore_4: eye_trade_electric_razor
+bip_39_word_underscore_5: eye_trade_electric_razor_rescue
+bip_39_word_underscore_6: eye_trade_electric_razor_rescue_smart
+bip_39_word_underscore_7: eye_trade_electric_razor_rescue_smart_trouble
+bip_39_word_underscore_8: eye_trade_electric_razor_rescue_smart_trouble_comfort
+bip_39_word_underscore_9: eye_trade_electric_razor_rescue_smart_trouble_comfort_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness_
 id_no_color: 050518nm16mmtapewidth8mmtapethickness8
 id_no_size: 05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
 id_no_type: smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205okap
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205okap
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205okap
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050518Nm16mmtapewidth8mmtapethickness8
 name_no_size: 05 05 18 Nm 16 mm Tape Width 8 mm Tape Thickness  8
 name_no_size_short: 05 05 18 Nm 16 Mm Tape Width 8 Mm Tape Thickness  8
 name_no_type: SMD Magazine 05 05 18 Nm 16 mm Tape Width 8 mm Tape Thickness  8
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
 oomp_word: pushpin trophy doughnut
 oomp_word_emoji: ':pushpin: :trophy: :doughnut:'

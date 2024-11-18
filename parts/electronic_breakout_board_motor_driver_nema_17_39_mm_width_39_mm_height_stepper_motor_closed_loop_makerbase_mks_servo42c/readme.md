@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A closed loop stepper motor controller
 
+### name
+* name: Electronic Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
   * classification: electronic

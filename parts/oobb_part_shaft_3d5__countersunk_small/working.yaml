@@ -1,3 +1,223 @@
+bip_39_word_dash_1: saddle
+bip_39_word_dash_10: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk
+bip_39_word_dash_11: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk-endorse
+bip_39_word_dash_12: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment-chunk-endorse-able
+bip_39_word_dash_2: saddle-kid
+bip_39_word_dash_3: saddle-kid-birth
+bip_39_word_dash_4: saddle-kid-birth-tumble
+bip_39_word_dash_5: saddle-kid-birth-tumble-poverty
+bip_39_word_dash_6: saddle-kid-birth-tumble-poverty-wall
+bip_39_word_dash_7: saddle-kid-birth-tumble-poverty-wall-almost
+bip_39_word_dash_8: saddle-kid-birth-tumble-poverty-wall-almost-concert
+bip_39_word_dash_9: saddle-kid-birth-tumble-poverty-wall-almost-concert-segment
+bip_39_word_new_br_1: saddle
+bip_39_word_new_br_10: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk
+bip_39_word_new_br_11: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk<br>endorse
+bip_39_word_new_br_12: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment<br>chunk<br>endorse<br>able
+bip_39_word_new_br_2: saddle<br>kid
+bip_39_word_new_br_3: saddle<br>kid<br>birth
+bip_39_word_new_br_4: saddle<br>kid<br>birth<br>tumble
+bip_39_word_new_br_5: saddle<br>kid<br>birth<br>tumble<br>poverty
+bip_39_word_new_br_6: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall
+bip_39_word_new_br_7: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost
+bip_39_word_new_br_8: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert
+bip_39_word_new_br_9: saddle<br>kid<br>birth<br>tumble<br>poverty<br>wall<br>almost<br>concert<br>segment
+bip_39_word_new_line_1: saddle
+bip_39_word_new_line_10: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk'
+bip_39_word_new_line_11: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk
+
+  endorse'
+bip_39_word_new_line_12: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment
+
+  chunk
+
+  endorse
+
+  able'
+bip_39_word_new_line_2: 'saddle
+
+  kid'
+bip_39_word_new_line_3: 'saddle
+
+  kid
+
+  birth'
+bip_39_word_new_line_4: 'saddle
+
+  kid
+
+  birth
+
+  tumble'
+bip_39_word_new_line_5: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty'
+bip_39_word_new_line_6: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall'
+bip_39_word_new_line_7: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost'
+bip_39_word_new_line_8: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert'
+bip_39_word_new_line_9: 'saddle
+
+  kid
+
+  birth
+
+  tumble
+
+  poverty
+
+  wall
+
+  almost
+
+  concert
+
+  segment'
+bip_39_word_no_space_1: saddle
+bip_39_word_no_space_10: saddlekidbirthtumblepovertywallalmostconcertsegmentchunk
+bip_39_word_no_space_11: saddlekidbirthtumblepovertywallalmostconcertsegmentchunkendorse
+bip_39_word_no_space_12: saddlekidbirthtumblepovertywallalmostconcertsegmentchunkendorseable
+bip_39_word_no_space_2: saddlekid
+bip_39_word_no_space_3: saddlekidbirth
+bip_39_word_no_space_4: saddlekidbirthtumble
+bip_39_word_no_space_5: saddlekidbirthtumblepoverty
+bip_39_word_no_space_6: saddlekidbirthtumblepovertywall
+bip_39_word_no_space_7: saddlekidbirthtumblepovertywallalmost
+bip_39_word_no_space_8: saddlekidbirthtumblepovertywallalmostconcert
+bip_39_word_no_space_9: saddlekidbirthtumblepovertywallalmostconcertsegment
+bip_39_word_space_0:
+- saddle
+- kid
+- birth
+- tumble
+- poverty
+- wall
+- almost
+- concert
+- segment
+- chunk
+- endorse
+- able
+bip_39_word_space_1: saddle
+bip_39_word_space_10: saddle kid birth tumble poverty wall almost concert segment
+  chunk
+bip_39_word_space_11: saddle kid birth tumble poverty wall almost concert segment
+  chunk endorse
+bip_39_word_space_12: saddle kid birth tumble poverty wall almost concert segment
+  chunk endorse able
+bip_39_word_space_2: saddle kid
+bip_39_word_space_3: saddle kid birth
+bip_39_word_space_4: saddle kid birth tumble
+bip_39_word_space_5: saddle kid birth tumble poverty
+bip_39_word_space_6: saddle kid birth tumble poverty wall
+bip_39_word_space_7: saddle kid birth tumble poverty wall almost
+bip_39_word_space_8: saddle kid birth tumble poverty wall almost concert
+bip_39_word_space_9: saddle kid birth tumble poverty wall almost concert segment
+bip_39_word_underscore_1: saddle
+bip_39_word_underscore_10: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk
+bip_39_word_underscore_11: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk_endorse
+bip_39_word_underscore_12: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment_chunk_endorse_able
+bip_39_word_underscore_2: saddle_kid
+bip_39_word_underscore_3: saddle_kid_birth
+bip_39_word_underscore_4: saddle_kid_birth_tumble
+bip_39_word_underscore_5: saddle_kid_birth_tumble_poverty
+bip_39_word_underscore_6: saddle_kid_birth_tumble_poverty_wall
+bip_39_word_underscore_7: saddle_kid_birth_tumble_poverty_wall_almost
+bip_39_word_underscore_8: saddle_kid_birth_tumble_poverty_wall_almost_concert
+bip_39_word_underscore_9: saddle_kid_birth_tumble_poverty_wall_almost_concert_segment
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_shaft_3d5__countersunk_small
 id_no_color: 3d5countersunksmall
 id_no_size: 3d5__countersunk_small
 id_no_type: shaft_3d5__countersunk_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__countersunk_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__countersunk_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__countersunk_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206fey
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206fey
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206fey
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 3D5Countersunksmall
 name_no_size: 3D5  Countersunk Small
 name_no_size_short: 3D5  Countersunk Small
 name_no_type: Shaft 3D5  Countersunk Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_3d5__countersunk_small
 oomp_word: wink books envelope
 oomp_word_emoji: ':wink: :books: :envelope:'

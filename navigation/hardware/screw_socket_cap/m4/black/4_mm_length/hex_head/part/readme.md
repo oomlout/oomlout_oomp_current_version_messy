@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Socket Cap M4 Black 4 mm Length Hex Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_socket_cap_m4_black_4_mm_length_hex_head
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :envelope: :zap: :rooster:
 * md5_6_alpha: 5e3iz
 * md5_6: 8a2e5b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205e3iz)
+[2x1](http://192.168.1.242:1112/?label=oomp%205e3iz)
+[6x4](http://192.168.1.55:1112/?label=oomp%205e3iz)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_4_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_4_mm_length_hex_head)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -306,7 +332,14 @@ canal |
 | id_no_size | black_4_mm_length_hex_head |  
 | id_no_type | m4_black_4_mm_length_hex_head |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_4_mm_length_hex_head |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_4_mm_length_hex_head |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_4_mm_length_hex_head |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205e3iz |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205e3iz |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205e3iz |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -348,6 +381,7 @@ canal |
 | oomlout_bolt_size | M4 |  
 | oomlout_bolt_type | Socket Cap |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | sc4b4h |  
 | oomlout_short_code_upper | SC4B4H |  
 | oomp_key | oomp_hardware_screw_socket_cap_m4_black_4_mm_length_hex_head |  

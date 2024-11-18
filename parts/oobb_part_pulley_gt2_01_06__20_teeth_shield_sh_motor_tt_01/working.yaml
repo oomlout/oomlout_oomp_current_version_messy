@@ -1,3 +1,223 @@
+bip_39_word_dash_1: supply
+bip_39_word_dash_10: supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit
+bip_39_word_dash_11: supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit-noise
+bip_39_word_dash_12: supply-art-census-domain-pudding-toast-umbrella-word-cheese-inherit-noise-arctic
+bip_39_word_dash_2: supply-art
+bip_39_word_dash_3: supply-art-census
+bip_39_word_dash_4: supply-art-census-domain
+bip_39_word_dash_5: supply-art-census-domain-pudding
+bip_39_word_dash_6: supply-art-census-domain-pudding-toast
+bip_39_word_dash_7: supply-art-census-domain-pudding-toast-umbrella
+bip_39_word_dash_8: supply-art-census-domain-pudding-toast-umbrella-word
+bip_39_word_dash_9: supply-art-census-domain-pudding-toast-umbrella-word-cheese
+bip_39_word_new_br_1: supply
+bip_39_word_new_br_10: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit
+bip_39_word_new_br_11: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise
+bip_39_word_new_br_12: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese<br>inherit<br>noise<br>arctic
+bip_39_word_new_br_2: supply<br>art
+bip_39_word_new_br_3: supply<br>art<br>census
+bip_39_word_new_br_4: supply<br>art<br>census<br>domain
+bip_39_word_new_br_5: supply<br>art<br>census<br>domain<br>pudding
+bip_39_word_new_br_6: supply<br>art<br>census<br>domain<br>pudding<br>toast
+bip_39_word_new_br_7: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella
+bip_39_word_new_br_8: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word
+bip_39_word_new_br_9: supply<br>art<br>census<br>domain<br>pudding<br>toast<br>umbrella<br>word<br>cheese
+bip_39_word_new_line_1: supply
+bip_39_word_new_line_10: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella
+
+  word
+
+  cheese
+
+  inherit'
+bip_39_word_new_line_11: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella
+
+  word
+
+  cheese
+
+  inherit
+
+  noise'
+bip_39_word_new_line_12: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella
+
+  word
+
+  cheese
+
+  inherit
+
+  noise
+
+  arctic'
+bip_39_word_new_line_2: 'supply
+
+  art'
+bip_39_word_new_line_3: 'supply
+
+  art
+
+  census'
+bip_39_word_new_line_4: 'supply
+
+  art
+
+  census
+
+  domain'
+bip_39_word_new_line_5: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding'
+bip_39_word_new_line_6: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast'
+bip_39_word_new_line_7: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella'
+bip_39_word_new_line_8: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella
+
+  word'
+bip_39_word_new_line_9: 'supply
+
+  art
+
+  census
+
+  domain
+
+  pudding
+
+  toast
+
+  umbrella
+
+  word
+
+  cheese'
+bip_39_word_no_space_1: supply
+bip_39_word_no_space_10: supplyartcensusdomainpuddingtoastumbrellawordcheeseinherit
+bip_39_word_no_space_11: supplyartcensusdomainpuddingtoastumbrellawordcheeseinheritnoise
+bip_39_word_no_space_12: supplyartcensusdomainpuddingtoastumbrellawordcheeseinheritnoisearctic
+bip_39_word_no_space_2: supplyart
+bip_39_word_no_space_3: supplyartcensus
+bip_39_word_no_space_4: supplyartcensusdomain
+bip_39_word_no_space_5: supplyartcensusdomainpudding
+bip_39_word_no_space_6: supplyartcensusdomainpuddingtoast
+bip_39_word_no_space_7: supplyartcensusdomainpuddingtoastumbrella
+bip_39_word_no_space_8: supplyartcensusdomainpuddingtoastumbrellaword
+bip_39_word_no_space_9: supplyartcensusdomainpuddingtoastumbrellawordcheese
+bip_39_word_space_0:
+- supply
+- art
+- census
+- domain
+- pudding
+- toast
+- umbrella
+- word
+- cheese
+- inherit
+- noise
+- arctic
+bip_39_word_space_1: supply
+bip_39_word_space_10: supply art census domain pudding toast umbrella word cheese
+  inherit
+bip_39_word_space_11: supply art census domain pudding toast umbrella word cheese
+  inherit noise
+bip_39_word_space_12: supply art census domain pudding toast umbrella word cheese
+  inherit noise arctic
+bip_39_word_space_2: supply art
+bip_39_word_space_3: supply art census
+bip_39_word_space_4: supply art census domain
+bip_39_word_space_5: supply art census domain pudding
+bip_39_word_space_6: supply art census domain pudding toast
+bip_39_word_space_7: supply art census domain pudding toast umbrella
+bip_39_word_space_8: supply art census domain pudding toast umbrella word
+bip_39_word_space_9: supply art census domain pudding toast umbrella word cheese
+bip_39_word_underscore_1: supply
+bip_39_word_underscore_10: supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit
+bip_39_word_underscore_11: supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit_noise
+bip_39_word_underscore_12: supply_art_census_domain_pudding_toast_umbrella_word_cheese_inherit_noise_arctic
+bip_39_word_underscore_2: supply_art
+bip_39_word_underscore_3: supply_art_census
+bip_39_word_underscore_4: supply_art_census_domain
+bip_39_word_underscore_5: supply_art_census_domain_pudding
+bip_39_word_underscore_6: supply_art_census_domain_pudding_toast
+bip_39_word_underscore_7: supply_art_census_domain_pudding_toast_umbrella
+bip_39_word_underscore_8: supply_art_census_domain_pudding_toast_umbrella_word
+bip_39_word_underscore_9: supply_art_census_domain_pudding_toast_umbrella_word_cheese
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
 id_no_color: 010620teethshieldshmotortt01
 id_no_size: 01_06__20_teeth_shield_sh_motor_tt_01
 id_no_type: pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206zo9o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206zo9o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206zo9o
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010620Teethshieldshmotortt01
 name_no_size: 01 06  20 Teeth Shield Sh Motor Tt 01
 name_no_size_short: 01 06  20 Teeth Shield Sh Motor Tt 01
 name_no_type: Pulley Gt2 01 06  20 Teeth Shield Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__20_teeth_shield_sh_motor_tt_01
 oomp_word: eyeglasses cloud spades
 oomp_word_emoji: ':eyeglasses: :cloud: :spades:'

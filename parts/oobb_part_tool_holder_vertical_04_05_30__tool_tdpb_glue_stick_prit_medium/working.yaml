@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boss
+bip_39_word_dash_10: boss-cat-chimney-large-spell-practice-jealous-output-upon-indicate
+bip_39_word_dash_11: boss-cat-chimney-large-spell-practice-jealous-output-upon-indicate-dawn
+bip_39_word_dash_12: boss-cat-chimney-large-spell-practice-jealous-output-upon-indicate-dawn-absorb
+bip_39_word_dash_2: boss-cat
+bip_39_word_dash_3: boss-cat-chimney
+bip_39_word_dash_4: boss-cat-chimney-large
+bip_39_word_dash_5: boss-cat-chimney-large-spell
+bip_39_word_dash_6: boss-cat-chimney-large-spell-practice
+bip_39_word_dash_7: boss-cat-chimney-large-spell-practice-jealous
+bip_39_word_dash_8: boss-cat-chimney-large-spell-practice-jealous-output
+bip_39_word_dash_9: boss-cat-chimney-large-spell-practice-jealous-output-upon
+bip_39_word_new_br_1: boss
+bip_39_word_new_br_10: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate
+bip_39_word_new_br_11: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate<br>dawn
+bip_39_word_new_br_12: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon<br>indicate<br>dawn<br>absorb
+bip_39_word_new_br_2: boss<br>cat
+bip_39_word_new_br_3: boss<br>cat<br>chimney
+bip_39_word_new_br_4: boss<br>cat<br>chimney<br>large
+bip_39_word_new_br_5: boss<br>cat<br>chimney<br>large<br>spell
+bip_39_word_new_br_6: boss<br>cat<br>chimney<br>large<br>spell<br>practice
+bip_39_word_new_br_7: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous
+bip_39_word_new_br_8: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output
+bip_39_word_new_br_9: boss<br>cat<br>chimney<br>large<br>spell<br>practice<br>jealous<br>output<br>upon
+bip_39_word_new_line_1: boss
+bip_39_word_new_line_10: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate'
+bip_39_word_new_line_11: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate
+
+  dawn'
+bip_39_word_new_line_12: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon
+
+  indicate
+
+  dawn
+
+  absorb'
+bip_39_word_new_line_2: 'boss
+
+  cat'
+bip_39_word_new_line_3: 'boss
+
+  cat
+
+  chimney'
+bip_39_word_new_line_4: 'boss
+
+  cat
+
+  chimney
+
+  large'
+bip_39_word_new_line_5: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell'
+bip_39_word_new_line_6: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice'
+bip_39_word_new_line_7: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous'
+bip_39_word_new_line_8: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output'
+bip_39_word_new_line_9: 'boss
+
+  cat
+
+  chimney
+
+  large
+
+  spell
+
+  practice
+
+  jealous
+
+  output
+
+  upon'
+bip_39_word_no_space_1: boss
+bip_39_word_no_space_10: bosscatchimneylargespellpracticejealousoutputuponindicate
+bip_39_word_no_space_11: bosscatchimneylargespellpracticejealousoutputuponindicatedawn
+bip_39_word_no_space_12: bosscatchimneylargespellpracticejealousoutputuponindicatedawnabsorb
+bip_39_word_no_space_2: bosscat
+bip_39_word_no_space_3: bosscatchimney
+bip_39_word_no_space_4: bosscatchimneylarge
+bip_39_word_no_space_5: bosscatchimneylargespell
+bip_39_word_no_space_6: bosscatchimneylargespellpractice
+bip_39_word_no_space_7: bosscatchimneylargespellpracticejealous
+bip_39_word_no_space_8: bosscatchimneylargespellpracticejealousoutput
+bip_39_word_no_space_9: bosscatchimneylargespellpracticejealousoutputupon
+bip_39_word_space_0:
+- boss
+- cat
+- chimney
+- large
+- spell
+- practice
+- jealous
+- output
+- upon
+- indicate
+- dawn
+- absorb
+bip_39_word_space_1: boss
+bip_39_word_space_10: boss cat chimney large spell practice jealous output upon indicate
+bip_39_word_space_11: boss cat chimney large spell practice jealous output upon indicate
+  dawn
+bip_39_word_space_12: boss cat chimney large spell practice jealous output upon indicate
+  dawn absorb
+bip_39_word_space_2: boss cat
+bip_39_word_space_3: boss cat chimney
+bip_39_word_space_4: boss cat chimney large
+bip_39_word_space_5: boss cat chimney large spell
+bip_39_word_space_6: boss cat chimney large spell practice
+bip_39_word_space_7: boss cat chimney large spell practice jealous
+bip_39_word_space_8: boss cat chimney large spell practice jealous output
+bip_39_word_space_9: boss cat chimney large spell practice jealous output upon
+bip_39_word_underscore_1: boss
+bip_39_word_underscore_10: boss_cat_chimney_large_spell_practice_jealous_output_upon_indicate
+bip_39_word_underscore_11: boss_cat_chimney_large_spell_practice_jealous_output_upon_indicate_dawn
+bip_39_word_underscore_12: boss_cat_chimney_large_spell_practice_jealous_output_upon_indicate_dawn_absorb
+bip_39_word_underscore_2: boss_cat
+bip_39_word_underscore_3: boss_cat_chimney
+bip_39_word_underscore_4: boss_cat_chimney_large
+bip_39_word_underscore_5: boss_cat_chimney_large_spell
+bip_39_word_underscore_6: boss_cat_chimney_large_spell_practice
+bip_39_word_underscore_7: boss_cat_chimney_large_spell_practice_jealous
+bip_39_word_underscore_8: boss_cat_chimney_large_spell_practice_jealous_output
+bip_39_word_underscore_9: boss_cat_chimney_large_spell_practice_jealous_output_upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_mediu
 id_no_color: 040530tooltdpbgluestickpritmedium
 id_no_size: 04_05_30__tool_tdpb_glue_stick_prit_medium
 id_no_type: tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_medium
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_medium
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_medium
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_medium
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20hgws
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20hgws
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20hgws
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 040530Tooltdpbgluestickpritmedium
 name_no_size: 04 05 30  Tool Tdpb Glue Stick Prit Medium
 name_no_size_short: 04 05 30  Tool Tdpb Glue Stick Prit Medium
 name_no_type: Tool Holder Vertical 04 05 30  Tool Tdpb Glue Stick Prit Medium
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_04_05_30__tool_tdpb_glue_stick_prit_medium
 oomp_word: alien moon factory
 oomp_word_emoji: ':alien: :moon: :factory:'

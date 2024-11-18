@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tortoise
+bip_39_word_dash_10: tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment
+bip_39_word_dash_11: tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment-print
+bip_39_word_dash_12: tortoise-very-happy-cake-deputy-disease-left-spring-solar-garment-print-asthma
+bip_39_word_dash_2: tortoise-very
+bip_39_word_dash_3: tortoise-very-happy
+bip_39_word_dash_4: tortoise-very-happy-cake
+bip_39_word_dash_5: tortoise-very-happy-cake-deputy
+bip_39_word_dash_6: tortoise-very-happy-cake-deputy-disease
+bip_39_word_dash_7: tortoise-very-happy-cake-deputy-disease-left
+bip_39_word_dash_8: tortoise-very-happy-cake-deputy-disease-left-spring
+bip_39_word_dash_9: tortoise-very-happy-cake-deputy-disease-left-spring-solar
+bip_39_word_new_br_1: tortoise
+bip_39_word_new_br_10: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar<br>garment
+bip_39_word_new_br_11: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar<br>garment<br>print
+bip_39_word_new_br_12: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar<br>garment<br>print<br>asthma
+bip_39_word_new_br_2: tortoise<br>very
+bip_39_word_new_br_3: tortoise<br>very<br>happy
+bip_39_word_new_br_4: tortoise<br>very<br>happy<br>cake
+bip_39_word_new_br_5: tortoise<br>very<br>happy<br>cake<br>deputy
+bip_39_word_new_br_6: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease
+bip_39_word_new_br_7: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left
+bip_39_word_new_br_8: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring
+bip_39_word_new_br_9: tortoise<br>very<br>happy<br>cake<br>deputy<br>disease<br>left<br>spring<br>solar
+bip_39_word_new_line_1: tortoise
+bip_39_word_new_line_10: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left
+
+  spring
+
+  solar
+
+  garment'
+bip_39_word_new_line_11: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left
+
+  spring
+
+  solar
+
+  garment
+
+  print'
+bip_39_word_new_line_12: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left
+
+  spring
+
+  solar
+
+  garment
+
+  print
+
+  asthma'
+bip_39_word_new_line_2: 'tortoise
+
+  very'
+bip_39_word_new_line_3: 'tortoise
+
+  very
+
+  happy'
+bip_39_word_new_line_4: 'tortoise
+
+  very
+
+  happy
+
+  cake'
+bip_39_word_new_line_5: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy'
+bip_39_word_new_line_6: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease'
+bip_39_word_new_line_7: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left'
+bip_39_word_new_line_8: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left
+
+  spring'
+bip_39_word_new_line_9: 'tortoise
+
+  very
+
+  happy
+
+  cake
+
+  deputy
+
+  disease
+
+  left
+
+  spring
+
+  solar'
+bip_39_word_no_space_1: tortoise
+bip_39_word_no_space_10: tortoiseveryhappycakedeputydiseaseleftspringsolargarment
+bip_39_word_no_space_11: tortoiseveryhappycakedeputydiseaseleftspringsolargarmentprint
+bip_39_word_no_space_12: tortoiseveryhappycakedeputydiseaseleftspringsolargarmentprintasthma
+bip_39_word_no_space_2: tortoisevery
+bip_39_word_no_space_3: tortoiseveryhappy
+bip_39_word_no_space_4: tortoiseveryhappycake
+bip_39_word_no_space_5: tortoiseveryhappycakedeputy
+bip_39_word_no_space_6: tortoiseveryhappycakedeputydisease
+bip_39_word_no_space_7: tortoiseveryhappycakedeputydiseaseleft
+bip_39_word_no_space_8: tortoiseveryhappycakedeputydiseaseleftspring
+bip_39_word_no_space_9: tortoiseveryhappycakedeputydiseaseleftspringsolar
+bip_39_word_space_0:
+- tortoise
+- very
+- happy
+- cake
+- deputy
+- disease
+- left
+- spring
+- solar
+- garment
+- print
+- asthma
+bip_39_word_space_1: tortoise
+bip_39_word_space_10: tortoise very happy cake deputy disease left spring solar garment
+bip_39_word_space_11: tortoise very happy cake deputy disease left spring solar garment
+  print
+bip_39_word_space_12: tortoise very happy cake deputy disease left spring solar garment
+  print asthma
+bip_39_word_space_2: tortoise very
+bip_39_word_space_3: tortoise very happy
+bip_39_word_space_4: tortoise very happy cake
+bip_39_word_space_5: tortoise very happy cake deputy
+bip_39_word_space_6: tortoise very happy cake deputy disease
+bip_39_word_space_7: tortoise very happy cake deputy disease left
+bip_39_word_space_8: tortoise very happy cake deputy disease left spring
+bip_39_word_space_9: tortoise very happy cake deputy disease left spring solar
+bip_39_word_underscore_1: tortoise
+bip_39_word_underscore_10: tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment
+bip_39_word_underscore_11: tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment_print
+bip_39_word_underscore_12: tortoise_very_happy_cake_deputy_disease_left_spring_solar_garment_print_asthma
+bip_39_word_underscore_2: tortoise_very
+bip_39_word_underscore_3: tortoise_very_happy
+bip_39_word_underscore_4: tortoise_very_happy_cake
+bip_39_word_underscore_5: tortoise_very_happy_cake_deputy
+bip_39_word_underscore_6: tortoise_very_happy_cake_deputy_disease
+bip_39_word_underscore_7: tortoise_very_happy_cake_deputy_disease_left
+bip_39_word_underscore_8: tortoise_very_happy_cake_deputy_disease_left_spring
+bip_39_word_underscore_9: tortoise_very_happy_cake_deputy_disease_left_spring_solar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_holder_03_03_03__electronic_potentiometer_17_mm
 id_no_color: 030303electronicpotentiometer17mm
 id_no_size: 03_03_03__electronic_potentiometer_17_mm
 id_no_type: holder_03_03_03__electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_03_03__electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208sion
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208sion
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208sion
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030303Electronicpotentiometer17mm
 name_no_size: 03 03 03  Electronic Potentiometer 17 mm
 name_no_size_short: 03 03 03  Electronic Potentiometer 17 Mm
 name_no_type: Holder 03 03 03  Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_03_03_03__electronic_potentiometer_17_mm
 oomp_word: boat dolphin baseball
 oomp_word_emoji: ':boat: :dolphin: :baseball:'

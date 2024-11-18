@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fatal
+bip_39_word_dash_10: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic
+bip_39_word_dash_11: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic-explain
+bip_39_word_dash_12: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount-chronic-explain-any
+bip_39_word_dash_2: fatal-envelope
+bip_39_word_dash_3: fatal-envelope-satisfy
+bip_39_word_dash_4: fatal-envelope-satisfy-they
+bip_39_word_dash_5: fatal-envelope-satisfy-they-purpose
+bip_39_word_dash_6: fatal-envelope-satisfy-they-purpose-monitor
+bip_39_word_dash_7: fatal-envelope-satisfy-they-purpose-monitor-credit
+bip_39_word_dash_8: fatal-envelope-satisfy-they-purpose-monitor-credit-news
+bip_39_word_dash_9: fatal-envelope-satisfy-they-purpose-monitor-credit-news-amount
+bip_39_word_new_br_1: fatal
+bip_39_word_new_br_10: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic
+bip_39_word_new_br_11: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain
+bip_39_word_new_br_12: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount<br>chronic<br>explain<br>any
+bip_39_word_new_br_2: fatal<br>envelope
+bip_39_word_new_br_3: fatal<br>envelope<br>satisfy
+bip_39_word_new_br_4: fatal<br>envelope<br>satisfy<br>they
+bip_39_word_new_br_5: fatal<br>envelope<br>satisfy<br>they<br>purpose
+bip_39_word_new_br_6: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor
+bip_39_word_new_br_7: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit
+bip_39_word_new_br_8: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news
+bip_39_word_new_br_9: fatal<br>envelope<br>satisfy<br>they<br>purpose<br>monitor<br>credit<br>news<br>amount
+bip_39_word_new_line_1: fatal
+bip_39_word_new_line_10: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit
+
+  news
+
+  amount
+
+  chronic'
+bip_39_word_new_line_11: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit
+
+  news
+
+  amount
+
+  chronic
+
+  explain'
+bip_39_word_new_line_12: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit
+
+  news
+
+  amount
+
+  chronic
+
+  explain
+
+  any'
+bip_39_word_new_line_2: 'fatal
+
+  envelope'
+bip_39_word_new_line_3: 'fatal
+
+  envelope
+
+  satisfy'
+bip_39_word_new_line_4: 'fatal
+
+  envelope
+
+  satisfy
+
+  they'
+bip_39_word_new_line_5: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose'
+bip_39_word_new_line_6: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor'
+bip_39_word_new_line_7: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit'
+bip_39_word_new_line_8: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit
+
+  news'
+bip_39_word_new_line_9: 'fatal
+
+  envelope
+
+  satisfy
+
+  they
+
+  purpose
+
+  monitor
+
+  credit
+
+  news
+
+  amount'
+bip_39_word_no_space_1: fatal
+bip_39_word_no_space_10: fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronic
+bip_39_word_no_space_11: fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronicexplain
+bip_39_word_no_space_12: fatalenvelopesatisfytheypurposemonitorcreditnewsamountchronicexplainany
+bip_39_word_no_space_2: fatalenvelope
+bip_39_word_no_space_3: fatalenvelopesatisfy
+bip_39_word_no_space_4: fatalenvelopesatisfythey
+bip_39_word_no_space_5: fatalenvelopesatisfytheypurpose
+bip_39_word_no_space_6: fatalenvelopesatisfytheypurposemonitor
+bip_39_word_no_space_7: fatalenvelopesatisfytheypurposemonitorcredit
+bip_39_word_no_space_8: fatalenvelopesatisfytheypurposemonitorcreditnews
+bip_39_word_no_space_9: fatalenvelopesatisfytheypurposemonitorcreditnewsamount
+bip_39_word_space_0:
+- fatal
+- envelope
+- satisfy
+- they
+- purpose
+- monitor
+- credit
+- news
+- amount
+- chronic
+- explain
+- any
+bip_39_word_space_1: fatal
+bip_39_word_space_10: fatal envelope satisfy they purpose monitor credit news amount
+  chronic
+bip_39_word_space_11: fatal envelope satisfy they purpose monitor credit news amount
+  chronic explain
+bip_39_word_space_12: fatal envelope satisfy they purpose monitor credit news amount
+  chronic explain any
+bip_39_word_space_2: fatal envelope
+bip_39_word_space_3: fatal envelope satisfy
+bip_39_word_space_4: fatal envelope satisfy they
+bip_39_word_space_5: fatal envelope satisfy they purpose
+bip_39_word_space_6: fatal envelope satisfy they purpose monitor
+bip_39_word_space_7: fatal envelope satisfy they purpose monitor credit
+bip_39_word_space_8: fatal envelope satisfy they purpose monitor credit news
+bip_39_word_space_9: fatal envelope satisfy they purpose monitor credit news amount
+bip_39_word_underscore_1: fatal
+bip_39_word_underscore_10: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic
+bip_39_word_underscore_11: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic_explain
+bip_39_word_underscore_12: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount_chronic_explain_any
+bip_39_word_underscore_2: fatal_envelope
+bip_39_word_underscore_3: fatal_envelope_satisfy
+bip_39_word_underscore_4: fatal_envelope_satisfy_they
+bip_39_word_underscore_5: fatal_envelope_satisfy_they_purpose
+bip_39_word_underscore_6: fatal_envelope_satisfy_they_purpose_monitor
+bip_39_word_underscore_7: fatal_envelope_satisfy_they_purpose_monitor_credit
+bip_39_word_underscore_8: fatal_envelope_satisfy_they_purpose_monitor_credit_news
+bip_39_word_underscore_9: fatal_envelope_satisfy_they_purpose_monitor_credit_news_amount
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_13_01__k
 id_no_color: 1301k
 id_no_size: 13_01__k
 id_no_type: bunting_alphabet_13_01__k
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__k
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__k
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__k
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206cft6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206cft6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206cft6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 1301K
 name_no_size: 13 01  K
 name_no_size_short: 13 01  K
 name_no_type: Bunting Alphabet 13 01  K
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__k
 oomp_word: violin trophy sleepy
 oomp_word_emoji: ':violin: :trophy: :sleepy:'

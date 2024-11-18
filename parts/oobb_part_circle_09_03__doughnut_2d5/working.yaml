@@ -1,3 +1,222 @@
+bip_39_word_dash_1: odor
+bip_39_word_dash_10: odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery
+bip_39_word_dash_11: odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery-estate
+bip_39_word_dash_12: odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock-pottery-estate-alcohol
+bip_39_word_dash_2: odor-once
+bip_39_word_dash_3: odor-once-used
+bip_39_word_dash_4: odor-once-used-chuckle
+bip_39_word_dash_5: odor-once-used-chuckle-tribe
+bip_39_word_dash_6: odor-once-used-chuckle-tribe-pyramid
+bip_39_word_dash_7: odor-once-used-chuckle-tribe-pyramid-spoil
+bip_39_word_dash_8: odor-once-used-chuckle-tribe-pyramid-spoil-sick
+bip_39_word_dash_9: odor-once-used-chuckle-tribe-pyramid-spoil-sick-lock
+bip_39_word_new_br_1: odor
+bip_39_word_new_br_10: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery
+bip_39_word_new_br_11: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery<br>estate
+bip_39_word_new_br_12: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock<br>pottery<br>estate<br>alcohol
+bip_39_word_new_br_2: odor<br>once
+bip_39_word_new_br_3: odor<br>once<br>used
+bip_39_word_new_br_4: odor<br>once<br>used<br>chuckle
+bip_39_word_new_br_5: odor<br>once<br>used<br>chuckle<br>tribe
+bip_39_word_new_br_6: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid
+bip_39_word_new_br_7: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil
+bip_39_word_new_br_8: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick
+bip_39_word_new_br_9: odor<br>once<br>used<br>chuckle<br>tribe<br>pyramid<br>spoil<br>sick<br>lock
+bip_39_word_new_line_1: odor
+bip_39_word_new_line_10: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil
+
+  sick
+
+  lock
+
+  pottery'
+bip_39_word_new_line_11: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil
+
+  sick
+
+  lock
+
+  pottery
+
+  estate'
+bip_39_word_new_line_12: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil
+
+  sick
+
+  lock
+
+  pottery
+
+  estate
+
+  alcohol'
+bip_39_word_new_line_2: 'odor
+
+  once'
+bip_39_word_new_line_3: 'odor
+
+  once
+
+  used'
+bip_39_word_new_line_4: 'odor
+
+  once
+
+  used
+
+  chuckle'
+bip_39_word_new_line_5: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe'
+bip_39_word_new_line_6: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid'
+bip_39_word_new_line_7: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil'
+bip_39_word_new_line_8: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil
+
+  sick'
+bip_39_word_new_line_9: 'odor
+
+  once
+
+  used
+
+  chuckle
+
+  tribe
+
+  pyramid
+
+  spoil
+
+  sick
+
+  lock'
+bip_39_word_no_space_1: odor
+bip_39_word_no_space_10: odoronceusedchuckletribepyramidspoilsicklockpottery
+bip_39_word_no_space_11: odoronceusedchuckletribepyramidspoilsicklockpotteryestate
+bip_39_word_no_space_12: odoronceusedchuckletribepyramidspoilsicklockpotteryestatealcohol
+bip_39_word_no_space_2: odoronce
+bip_39_word_no_space_3: odoronceused
+bip_39_word_no_space_4: odoronceusedchuckle
+bip_39_word_no_space_5: odoronceusedchuckletribe
+bip_39_word_no_space_6: odoronceusedchuckletribepyramid
+bip_39_word_no_space_7: odoronceusedchuckletribepyramidspoil
+bip_39_word_no_space_8: odoronceusedchuckletribepyramidspoilsick
+bip_39_word_no_space_9: odoronceusedchuckletribepyramidspoilsicklock
+bip_39_word_space_0:
+- odor
+- once
+- used
+- chuckle
+- tribe
+- pyramid
+- spoil
+- sick
+- lock
+- pottery
+- estate
+- alcohol
+bip_39_word_space_1: odor
+bip_39_word_space_10: odor once used chuckle tribe pyramid spoil sick lock pottery
+bip_39_word_space_11: odor once used chuckle tribe pyramid spoil sick lock pottery
+  estate
+bip_39_word_space_12: odor once used chuckle tribe pyramid spoil sick lock pottery
+  estate alcohol
+bip_39_word_space_2: odor once
+bip_39_word_space_3: odor once used
+bip_39_word_space_4: odor once used chuckle
+bip_39_word_space_5: odor once used chuckle tribe
+bip_39_word_space_6: odor once used chuckle tribe pyramid
+bip_39_word_space_7: odor once used chuckle tribe pyramid spoil
+bip_39_word_space_8: odor once used chuckle tribe pyramid spoil sick
+bip_39_word_space_9: odor once used chuckle tribe pyramid spoil sick lock
+bip_39_word_underscore_1: odor
+bip_39_word_underscore_10: odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery
+bip_39_word_underscore_11: odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery_estate
+bip_39_word_underscore_12: odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock_pottery_estate_alcohol
+bip_39_word_underscore_2: odor_once
+bip_39_word_underscore_3: odor_once_used
+bip_39_word_underscore_4: odor_once_used_chuckle
+bip_39_word_underscore_5: odor_once_used_chuckle_tribe
+bip_39_word_underscore_6: odor_once_used_chuckle_tribe_pyramid
+bip_39_word_underscore_7: odor_once_used_chuckle_tribe_pyramid_spoil
+bip_39_word_underscore_8: odor_once_used_chuckle_tribe_pyramid_spoil_sick
+bip_39_word_underscore_9: odor_once_used_chuckle_tribe_pyramid_spoil_sick_lock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_circle_09_03__doughnut_2d5
 id_no_color: 0903doughnut2d5
 id_no_size: 09_03__doughnut_2d5
 id_no_type: circle_09_03__doughnut_2d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_09_03__doughnut_2d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_09_03__doughnut_2d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_09_03__doughnut_2d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203rp4a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203rp4a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203rp4a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0903Doughnut2D5
 name_no_size: 09 03  Doughnut 2D5
 name_no_size_short: 09 03  Doughnut 2D5
 name_no_type: Circle 09 03  Doughnut 2D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_circle_09_03__doughnut_2d5
 oomp_word: poodle golf tractor
 oomp_word_emoji: ':poodle: :golf: :tractor:'

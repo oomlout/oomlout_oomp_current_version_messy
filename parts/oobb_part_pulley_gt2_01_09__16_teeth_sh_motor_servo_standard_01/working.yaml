@@ -1,3 +1,222 @@
+bip_39_word_dash_1: people
+bip_39_word_dash_10: people-come-knock-skin-quote-vibrant-north-method-smooth-unlock
+bip_39_word_dash_11: people-come-knock-skin-quote-vibrant-north-method-smooth-unlock-bulk
+bip_39_word_dash_12: people-come-knock-skin-quote-vibrant-north-method-smooth-unlock-bulk-almost
+bip_39_word_dash_2: people-come
+bip_39_word_dash_3: people-come-knock
+bip_39_word_dash_4: people-come-knock-skin
+bip_39_word_dash_5: people-come-knock-skin-quote
+bip_39_word_dash_6: people-come-knock-skin-quote-vibrant
+bip_39_word_dash_7: people-come-knock-skin-quote-vibrant-north
+bip_39_word_dash_8: people-come-knock-skin-quote-vibrant-north-method
+bip_39_word_dash_9: people-come-knock-skin-quote-vibrant-north-method-smooth
+bip_39_word_new_br_1: people
+bip_39_word_new_br_10: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth<br>unlock
+bip_39_word_new_br_11: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth<br>unlock<br>bulk
+bip_39_word_new_br_12: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth<br>unlock<br>bulk<br>almost
+bip_39_word_new_br_2: people<br>come
+bip_39_word_new_br_3: people<br>come<br>knock
+bip_39_word_new_br_4: people<br>come<br>knock<br>skin
+bip_39_word_new_br_5: people<br>come<br>knock<br>skin<br>quote
+bip_39_word_new_br_6: people<br>come<br>knock<br>skin<br>quote<br>vibrant
+bip_39_word_new_br_7: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north
+bip_39_word_new_br_8: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method
+bip_39_word_new_br_9: people<br>come<br>knock<br>skin<br>quote<br>vibrant<br>north<br>method<br>smooth
+bip_39_word_new_line_1: people
+bip_39_word_new_line_10: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north
+
+  method
+
+  smooth
+
+  unlock'
+bip_39_word_new_line_11: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north
+
+  method
+
+  smooth
+
+  unlock
+
+  bulk'
+bip_39_word_new_line_12: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north
+
+  method
+
+  smooth
+
+  unlock
+
+  bulk
+
+  almost'
+bip_39_word_new_line_2: 'people
+
+  come'
+bip_39_word_new_line_3: 'people
+
+  come
+
+  knock'
+bip_39_word_new_line_4: 'people
+
+  come
+
+  knock
+
+  skin'
+bip_39_word_new_line_5: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote'
+bip_39_word_new_line_6: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant'
+bip_39_word_new_line_7: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north'
+bip_39_word_new_line_8: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north
+
+  method'
+bip_39_word_new_line_9: 'people
+
+  come
+
+  knock
+
+  skin
+
+  quote
+
+  vibrant
+
+  north
+
+  method
+
+  smooth'
+bip_39_word_no_space_1: people
+bip_39_word_no_space_10: peoplecomeknockskinquotevibrantnorthmethodsmoothunlock
+bip_39_word_no_space_11: peoplecomeknockskinquotevibrantnorthmethodsmoothunlockbulk
+bip_39_word_no_space_12: peoplecomeknockskinquotevibrantnorthmethodsmoothunlockbulkalmost
+bip_39_word_no_space_2: peoplecome
+bip_39_word_no_space_3: peoplecomeknock
+bip_39_word_no_space_4: peoplecomeknockskin
+bip_39_word_no_space_5: peoplecomeknockskinquote
+bip_39_word_no_space_6: peoplecomeknockskinquotevibrant
+bip_39_word_no_space_7: peoplecomeknockskinquotevibrantnorth
+bip_39_word_no_space_8: peoplecomeknockskinquotevibrantnorthmethod
+bip_39_word_no_space_9: peoplecomeknockskinquotevibrantnorthmethodsmooth
+bip_39_word_space_0:
+- people
+- come
+- knock
+- skin
+- quote
+- vibrant
+- north
+- method
+- smooth
+- unlock
+- bulk
+- almost
+bip_39_word_space_1: people
+bip_39_word_space_10: people come knock skin quote vibrant north method smooth unlock
+bip_39_word_space_11: people come knock skin quote vibrant north method smooth unlock
+  bulk
+bip_39_word_space_12: people come knock skin quote vibrant north method smooth unlock
+  bulk almost
+bip_39_word_space_2: people come
+bip_39_word_space_3: people come knock
+bip_39_word_space_4: people come knock skin
+bip_39_word_space_5: people come knock skin quote
+bip_39_word_space_6: people come knock skin quote vibrant
+bip_39_word_space_7: people come knock skin quote vibrant north
+bip_39_word_space_8: people come knock skin quote vibrant north method
+bip_39_word_space_9: people come knock skin quote vibrant north method smooth
+bip_39_word_underscore_1: people
+bip_39_word_underscore_10: people_come_knock_skin_quote_vibrant_north_method_smooth_unlock
+bip_39_word_underscore_11: people_come_knock_skin_quote_vibrant_north_method_smooth_unlock_bulk
+bip_39_word_underscore_12: people_come_knock_skin_quote_vibrant_north_method_smooth_unlock_bulk_almost
+bip_39_word_underscore_2: people_come
+bip_39_word_underscore_3: people_come_knock
+bip_39_word_underscore_4: people_come_knock_skin
+bip_39_word_underscore_5: people_come_knock_skin_quote
+bip_39_word_underscore_6: people_come_knock_skin_quote_vibrant
+bip_39_word_underscore_7: people_come_knock_skin_quote_vibrant_north
+bip_39_word_underscore_8: people_come_knock_skin_quote_vibrant_north_method
+bip_39_word_underscore_9: people_come_knock_skin_quote_vibrant_north_method_smooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
 id_no_color: 010916teethshmotorservostandard01
 id_no_size: 01_09__16_teeth_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204818b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204818b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204818b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010916Teethshmotorservostandard01
 name_no_size: 01 09  16 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 01 09  16 Teeth Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 01 09  16 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_servo_standard_01
 oomp_word: blossom pig bear
 oomp_word_emoji: ':blossom: :pig: :bear:'

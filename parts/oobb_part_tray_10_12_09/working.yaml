@@ -1,3 +1,223 @@
+bip_39_word_dash_1: impulse
+bip_39_word_dash_10: impulse-gossip-replace-prison-broccoli-merge-rule-thumb-wash-setup
+bip_39_word_dash_11: impulse-gossip-replace-prison-broccoli-merge-rule-thumb-wash-setup-casino
+bip_39_word_dash_12: impulse-gossip-replace-prison-broccoli-merge-rule-thumb-wash-setup-casino-arena
+bip_39_word_dash_2: impulse-gossip
+bip_39_word_dash_3: impulse-gossip-replace
+bip_39_word_dash_4: impulse-gossip-replace-prison
+bip_39_word_dash_5: impulse-gossip-replace-prison-broccoli
+bip_39_word_dash_6: impulse-gossip-replace-prison-broccoli-merge
+bip_39_word_dash_7: impulse-gossip-replace-prison-broccoli-merge-rule
+bip_39_word_dash_8: impulse-gossip-replace-prison-broccoli-merge-rule-thumb
+bip_39_word_dash_9: impulse-gossip-replace-prison-broccoli-merge-rule-thumb-wash
+bip_39_word_new_br_1: impulse
+bip_39_word_new_br_10: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup
+bip_39_word_new_br_11: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino
+bip_39_word_new_br_12: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash<br>setup<br>casino<br>arena
+bip_39_word_new_br_2: impulse<br>gossip
+bip_39_word_new_br_3: impulse<br>gossip<br>replace
+bip_39_word_new_br_4: impulse<br>gossip<br>replace<br>prison
+bip_39_word_new_br_5: impulse<br>gossip<br>replace<br>prison<br>broccoli
+bip_39_word_new_br_6: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge
+bip_39_word_new_br_7: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule
+bip_39_word_new_br_8: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb
+bip_39_word_new_br_9: impulse<br>gossip<br>replace<br>prison<br>broccoli<br>merge<br>rule<br>thumb<br>wash
+bip_39_word_new_line_1: impulse
+bip_39_word_new_line_10: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup'
+bip_39_word_new_line_11: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup
+
+  casino'
+bip_39_word_new_line_12: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash
+
+  setup
+
+  casino
+
+  arena'
+bip_39_word_new_line_2: 'impulse
+
+  gossip'
+bip_39_word_new_line_3: 'impulse
+
+  gossip
+
+  replace'
+bip_39_word_new_line_4: 'impulse
+
+  gossip
+
+  replace
+
+  prison'
+bip_39_word_new_line_5: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli'
+bip_39_word_new_line_6: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge'
+bip_39_word_new_line_7: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule'
+bip_39_word_new_line_8: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb'
+bip_39_word_new_line_9: 'impulse
+
+  gossip
+
+  replace
+
+  prison
+
+  broccoli
+
+  merge
+
+  rule
+
+  thumb
+
+  wash'
+bip_39_word_no_space_1: impulse
+bip_39_word_no_space_10: impulsegossipreplaceprisonbroccolimergerulethumbwashsetup
+bip_39_word_no_space_11: impulsegossipreplaceprisonbroccolimergerulethumbwashsetupcasino
+bip_39_word_no_space_12: impulsegossipreplaceprisonbroccolimergerulethumbwashsetupcasinoarena
+bip_39_word_no_space_2: impulsegossip
+bip_39_word_no_space_3: impulsegossipreplace
+bip_39_word_no_space_4: impulsegossipreplaceprison
+bip_39_word_no_space_5: impulsegossipreplaceprisonbroccoli
+bip_39_word_no_space_6: impulsegossipreplaceprisonbroccolimerge
+bip_39_word_no_space_7: impulsegossipreplaceprisonbroccolimergerule
+bip_39_word_no_space_8: impulsegossipreplaceprisonbroccolimergerulethumb
+bip_39_word_no_space_9: impulsegossipreplaceprisonbroccolimergerulethumbwash
+bip_39_word_space_0:
+- impulse
+- gossip
+- replace
+- prison
+- broccoli
+- merge
+- rule
+- thumb
+- wash
+- setup
+- casino
+- arena
+bip_39_word_space_1: impulse
+bip_39_word_space_10: impulse gossip replace prison broccoli merge rule thumb wash
+  setup
+bip_39_word_space_11: impulse gossip replace prison broccoli merge rule thumb wash
+  setup casino
+bip_39_word_space_12: impulse gossip replace prison broccoli merge rule thumb wash
+  setup casino arena
+bip_39_word_space_2: impulse gossip
+bip_39_word_space_3: impulse gossip replace
+bip_39_word_space_4: impulse gossip replace prison
+bip_39_word_space_5: impulse gossip replace prison broccoli
+bip_39_word_space_6: impulse gossip replace prison broccoli merge
+bip_39_word_space_7: impulse gossip replace prison broccoli merge rule
+bip_39_word_space_8: impulse gossip replace prison broccoli merge rule thumb
+bip_39_word_space_9: impulse gossip replace prison broccoli merge rule thumb wash
+bip_39_word_underscore_1: impulse
+bip_39_word_underscore_10: impulse_gossip_replace_prison_broccoli_merge_rule_thumb_wash_setup
+bip_39_word_underscore_11: impulse_gossip_replace_prison_broccoli_merge_rule_thumb_wash_setup_casino
+bip_39_word_underscore_12: impulse_gossip_replace_prison_broccoli_merge_rule_thumb_wash_setup_casino_arena
+bip_39_word_underscore_2: impulse_gossip
+bip_39_word_underscore_3: impulse_gossip_replace
+bip_39_word_underscore_4: impulse_gossip_replace_prison
+bip_39_word_underscore_5: impulse_gossip_replace_prison_broccoli
+bip_39_word_underscore_6: impulse_gossip_replace_prison_broccoli_merge
+bip_39_word_underscore_7: impulse_gossip_replace_prison_broccoli_merge_rule
+bip_39_word_underscore_8: impulse_gossip_replace_prison_broccoli_merge_rule_thumb
+bip_39_word_underscore_9: impulse_gossip_replace_prison_broccoli_merge_rule_thumb_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_10_12_09
 id_no_color: '101209'
 id_no_size: '10_12_09'
 id_no_type: tray_10_12_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_12_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_12_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_12_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20741dd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20741dd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20741dd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '101209'
 name_no_size: 10 12 09
 name_no_size_short: 10 12 09
 name_no_type: Tray 10 12 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_12_09
 oomp_word: beer bird ticket
 oomp_word_emoji: ':beer: :bird: :ticket:'

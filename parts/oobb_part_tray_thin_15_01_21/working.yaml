@@ -1,3 +1,221 @@
+bip_39_word_dash_1: click
+bip_39_word_dash_10: click-cruise-bring-fox-leader-hole-survey-genius-city-pair
+bip_39_word_dash_11: click-cruise-bring-fox-leader-hole-survey-genius-city-pair-human
+bip_39_word_dash_12: click-cruise-bring-fox-leader-hole-survey-genius-city-pair-human-already
+bip_39_word_dash_2: click-cruise
+bip_39_word_dash_3: click-cruise-bring
+bip_39_word_dash_4: click-cruise-bring-fox
+bip_39_word_dash_5: click-cruise-bring-fox-leader
+bip_39_word_dash_6: click-cruise-bring-fox-leader-hole
+bip_39_word_dash_7: click-cruise-bring-fox-leader-hole-survey
+bip_39_word_dash_8: click-cruise-bring-fox-leader-hole-survey-genius
+bip_39_word_dash_9: click-cruise-bring-fox-leader-hole-survey-genius-city
+bip_39_word_new_br_1: click
+bip_39_word_new_br_10: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair
+bip_39_word_new_br_11: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human
+bip_39_word_new_br_12: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city<br>pair<br>human<br>already
+bip_39_word_new_br_2: click<br>cruise
+bip_39_word_new_br_3: click<br>cruise<br>bring
+bip_39_word_new_br_4: click<br>cruise<br>bring<br>fox
+bip_39_word_new_br_5: click<br>cruise<br>bring<br>fox<br>leader
+bip_39_word_new_br_6: click<br>cruise<br>bring<br>fox<br>leader<br>hole
+bip_39_word_new_br_7: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey
+bip_39_word_new_br_8: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius
+bip_39_word_new_br_9: click<br>cruise<br>bring<br>fox<br>leader<br>hole<br>survey<br>genius<br>city
+bip_39_word_new_line_1: click
+bip_39_word_new_line_10: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey
+
+  genius
+
+  city
+
+  pair'
+bip_39_word_new_line_11: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey
+
+  genius
+
+  city
+
+  pair
+
+  human'
+bip_39_word_new_line_12: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey
+
+  genius
+
+  city
+
+  pair
+
+  human
+
+  already'
+bip_39_word_new_line_2: 'click
+
+  cruise'
+bip_39_word_new_line_3: 'click
+
+  cruise
+
+  bring'
+bip_39_word_new_line_4: 'click
+
+  cruise
+
+  bring
+
+  fox'
+bip_39_word_new_line_5: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader'
+bip_39_word_new_line_6: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole'
+bip_39_word_new_line_7: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey'
+bip_39_word_new_line_8: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey
+
+  genius'
+bip_39_word_new_line_9: 'click
+
+  cruise
+
+  bring
+
+  fox
+
+  leader
+
+  hole
+
+  survey
+
+  genius
+
+  city'
+bip_39_word_no_space_1: click
+bip_39_word_no_space_10: clickcruisebringfoxleaderholesurveygeniuscitypair
+bip_39_word_no_space_11: clickcruisebringfoxleaderholesurveygeniuscitypairhuman
+bip_39_word_no_space_12: clickcruisebringfoxleaderholesurveygeniuscitypairhumanalready
+bip_39_word_no_space_2: clickcruise
+bip_39_word_no_space_3: clickcruisebring
+bip_39_word_no_space_4: clickcruisebringfox
+bip_39_word_no_space_5: clickcruisebringfoxleader
+bip_39_word_no_space_6: clickcruisebringfoxleaderhole
+bip_39_word_no_space_7: clickcruisebringfoxleaderholesurvey
+bip_39_word_no_space_8: clickcruisebringfoxleaderholesurveygenius
+bip_39_word_no_space_9: clickcruisebringfoxleaderholesurveygeniuscity
+bip_39_word_space_0:
+- click
+- cruise
+- bring
+- fox
+- leader
+- hole
+- survey
+- genius
+- city
+- pair
+- human
+- already
+bip_39_word_space_1: click
+bip_39_word_space_10: click cruise bring fox leader hole survey genius city pair
+bip_39_word_space_11: click cruise bring fox leader hole survey genius city pair human
+bip_39_word_space_12: click cruise bring fox leader hole survey genius city pair human
+  already
+bip_39_word_space_2: click cruise
+bip_39_word_space_3: click cruise bring
+bip_39_word_space_4: click cruise bring fox
+bip_39_word_space_5: click cruise bring fox leader
+bip_39_word_space_6: click cruise bring fox leader hole
+bip_39_word_space_7: click cruise bring fox leader hole survey
+bip_39_word_space_8: click cruise bring fox leader hole survey genius
+bip_39_word_space_9: click cruise bring fox leader hole survey genius city
+bip_39_word_underscore_1: click
+bip_39_word_underscore_10: click_cruise_bring_fox_leader_hole_survey_genius_city_pair
+bip_39_word_underscore_11: click_cruise_bring_fox_leader_hole_survey_genius_city_pair_human
+bip_39_word_underscore_12: click_cruise_bring_fox_leader_hole_survey_genius_city_pair_human_already
+bip_39_word_underscore_2: click_cruise
+bip_39_word_underscore_3: click_cruise_bring
+bip_39_word_underscore_4: click_cruise_bring_fox
+bip_39_word_underscore_5: click_cruise_bring_fox_leader
+bip_39_word_underscore_6: click_cruise_bring_fox_leader_hole
+bip_39_word_underscore_7: click_cruise_bring_fox_leader_hole_survey
+bip_39_word_underscore_8: click_cruise_bring_fox_leader_hole_survey_genius
+bip_39_word_underscore_9: click_cruise_bring_fox_leader_hole_survey_genius_city
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_15_01_21
 id_no_color: '150121'
 id_no_size: '15_01_21'
 id_no_type: tray_thin_15_01_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_01_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204hciv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204hciv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204hciv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '150121'
 name_no_size: 15 01 21
 name_no_size_short: 15 01 21
 name_no_type: Tray Thin 15 01 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_01_21
 oomp_word: dolls stars guitar
 oomp_word_emoji: ':dolls: :stars: :guitar:'

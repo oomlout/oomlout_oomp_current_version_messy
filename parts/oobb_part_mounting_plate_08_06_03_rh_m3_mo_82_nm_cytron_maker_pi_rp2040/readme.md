@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 08 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_08_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040
   * classification: oobb

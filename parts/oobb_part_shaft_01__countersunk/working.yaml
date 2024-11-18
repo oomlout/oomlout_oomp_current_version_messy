@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stock
+bip_39_word_dash_10: stock-violin-eye-letter-click-initial-oxygen-rose-width-general
+bip_39_word_dash_11: stock-violin-eye-letter-click-initial-oxygen-rose-width-general-easy
+bip_39_word_dash_12: stock-violin-eye-letter-click-initial-oxygen-rose-width-general-easy-again
+bip_39_word_dash_2: stock-violin
+bip_39_word_dash_3: stock-violin-eye
+bip_39_word_dash_4: stock-violin-eye-letter
+bip_39_word_dash_5: stock-violin-eye-letter-click
+bip_39_word_dash_6: stock-violin-eye-letter-click-initial
+bip_39_word_dash_7: stock-violin-eye-letter-click-initial-oxygen
+bip_39_word_dash_8: stock-violin-eye-letter-click-initial-oxygen-rose
+bip_39_word_dash_9: stock-violin-eye-letter-click-initial-oxygen-rose-width
+bip_39_word_new_br_1: stock
+bip_39_word_new_br_10: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general
+bip_39_word_new_br_11: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general<br>easy
+bip_39_word_new_br_12: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width<br>general<br>easy<br>again
+bip_39_word_new_br_2: stock<br>violin
+bip_39_word_new_br_3: stock<br>violin<br>eye
+bip_39_word_new_br_4: stock<br>violin<br>eye<br>letter
+bip_39_word_new_br_5: stock<br>violin<br>eye<br>letter<br>click
+bip_39_word_new_br_6: stock<br>violin<br>eye<br>letter<br>click<br>initial
+bip_39_word_new_br_7: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen
+bip_39_word_new_br_8: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose
+bip_39_word_new_br_9: stock<br>violin<br>eye<br>letter<br>click<br>initial<br>oxygen<br>rose<br>width
+bip_39_word_new_line_1: stock
+bip_39_word_new_line_10: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general'
+bip_39_word_new_line_11: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general
+
+  easy'
+bip_39_word_new_line_12: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width
+
+  general
+
+  easy
+
+  again'
+bip_39_word_new_line_2: 'stock
+
+  violin'
+bip_39_word_new_line_3: 'stock
+
+  violin
+
+  eye'
+bip_39_word_new_line_4: 'stock
+
+  violin
+
+  eye
+
+  letter'
+bip_39_word_new_line_5: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click'
+bip_39_word_new_line_6: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial'
+bip_39_word_new_line_7: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen'
+bip_39_word_new_line_8: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose'
+bip_39_word_new_line_9: 'stock
+
+  violin
+
+  eye
+
+  letter
+
+  click
+
+  initial
+
+  oxygen
+
+  rose
+
+  width'
+bip_39_word_no_space_1: stock
+bip_39_word_no_space_10: stockviolineyeletterclickinitialoxygenrosewidthgeneral
+bip_39_word_no_space_11: stockviolineyeletterclickinitialoxygenrosewidthgeneraleasy
+bip_39_word_no_space_12: stockviolineyeletterclickinitialoxygenrosewidthgeneraleasyagain
+bip_39_word_no_space_2: stockviolin
+bip_39_word_no_space_3: stockviolineye
+bip_39_word_no_space_4: stockviolineyeletter
+bip_39_word_no_space_5: stockviolineyeletterclick
+bip_39_word_no_space_6: stockviolineyeletterclickinitial
+bip_39_word_no_space_7: stockviolineyeletterclickinitialoxygen
+bip_39_word_no_space_8: stockviolineyeletterclickinitialoxygenrose
+bip_39_word_no_space_9: stockviolineyeletterclickinitialoxygenrosewidth
+bip_39_word_space_0:
+- stock
+- violin
+- eye
+- letter
+- click
+- initial
+- oxygen
+- rose
+- width
+- general
+- easy
+- again
+bip_39_word_space_1: stock
+bip_39_word_space_10: stock violin eye letter click initial oxygen rose width general
+bip_39_word_space_11: stock violin eye letter click initial oxygen rose width general
+  easy
+bip_39_word_space_12: stock violin eye letter click initial oxygen rose width general
+  easy again
+bip_39_word_space_2: stock violin
+bip_39_word_space_3: stock violin eye
+bip_39_word_space_4: stock violin eye letter
+bip_39_word_space_5: stock violin eye letter click
+bip_39_word_space_6: stock violin eye letter click initial
+bip_39_word_space_7: stock violin eye letter click initial oxygen
+bip_39_word_space_8: stock violin eye letter click initial oxygen rose
+bip_39_word_space_9: stock violin eye letter click initial oxygen rose width
+bip_39_word_underscore_1: stock
+bip_39_word_underscore_10: stock_violin_eye_letter_click_initial_oxygen_rose_width_general
+bip_39_word_underscore_11: stock_violin_eye_letter_click_initial_oxygen_rose_width_general_easy
+bip_39_word_underscore_12: stock_violin_eye_letter_click_initial_oxygen_rose_width_general_easy_again
+bip_39_word_underscore_2: stock_violin
+bip_39_word_underscore_3: stock_violin_eye
+bip_39_word_underscore_4: stock_violin_eye_letter
+bip_39_word_underscore_5: stock_violin_eye_letter_click
+bip_39_word_underscore_6: stock_violin_eye_letter_click_initial
+bip_39_word_underscore_7: stock_violin_eye_letter_click_initial_oxygen
+bip_39_word_underscore_8: stock_violin_eye_letter_click_initial_oxygen_rose
+bip_39_word_underscore_9: stock_violin_eye_letter_click_initial_oxygen_rose_width
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_01__countersunk
 id_no_color: 01countersunk
 id_no_size: 01__countersunk
 id_no_type: shaft_01__countersunk
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__countersunk
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01__countersunk
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__countersunk
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202wplk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202wplk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202wplk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 01Countersunk
 name_no_size: 01  Countersunk
 name_no_size_short: 1  Countersunk
 name_no_type: Shaft 01  Countersunk
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_01__countersunk
 oomp_word: chicken door tennis
 oomp_word_emoji: ':chicken: :door: :tennis:'

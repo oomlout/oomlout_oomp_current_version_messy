@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bolt Hardware Bolt M5 40
+* name_short: 
 ### id
 * oomp_id: oobb_part_bolt_hardware_bolt_m5_40
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :briefcase: :beetle: :thumbsup:
 * md5_6_alpha: 6x2c6
 * md5_6: b15016
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206x2c6)
+[2x1](http://192.168.1.242:1112/?label=oomp%206x2c6)
+[6x4](http://192.168.1.55:1112/?label=oomp%206x2c6)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ live |
 | id_no_color | hardwarem540 |  
 | id_no_size | hardware_m5_40 |  
 | id_no_type | bolt_hardware_bolt_m5_40 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206x2c6 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206x2c6 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206x2c6 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ live |
 | name_no_size | Hardware M5 40 |  
 | name_no_size_short | Hardware M5 40 |  
 | name_no_type | Bolt Hardware Bolt M5 40 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bolt_hardware_bolt_m5_40 |  
 | oomp_word | briefcase beetle thumbsup |  
 | oomp_word_emoji | :briefcase: :beetle: :thumbsup: |  

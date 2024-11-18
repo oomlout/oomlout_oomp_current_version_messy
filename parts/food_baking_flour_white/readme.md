@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 flour_self_raising
 
+### name
+* name: Food Baking Flour White
+* name_short: Flour Self Raising
 ### id
 * oomp_id: food_baking_flour_white
   * classification: food

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: frost
+bip_39_word_dash_10: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random
+bip_39_word_dash_11: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random-feed
+bip_39_word_dash_12: frost-jazz-glove-west-boil-rival-maze-fancy-jar-random-feed-artwork
+bip_39_word_dash_2: frost-jazz
+bip_39_word_dash_3: frost-jazz-glove
+bip_39_word_dash_4: frost-jazz-glove-west
+bip_39_word_dash_5: frost-jazz-glove-west-boil
+bip_39_word_dash_6: frost-jazz-glove-west-boil-rival
+bip_39_word_dash_7: frost-jazz-glove-west-boil-rival-maze
+bip_39_word_dash_8: frost-jazz-glove-west-boil-rival-maze-fancy
+bip_39_word_dash_9: frost-jazz-glove-west-boil-rival-maze-fancy-jar
+bip_39_word_new_br_1: frost
+bip_39_word_new_br_10: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random
+bip_39_word_new_br_11: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random<br>feed
+bip_39_word_new_br_12: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar<br>random<br>feed<br>artwork
+bip_39_word_new_br_2: frost<br>jazz
+bip_39_word_new_br_3: frost<br>jazz<br>glove
+bip_39_word_new_br_4: frost<br>jazz<br>glove<br>west
+bip_39_word_new_br_5: frost<br>jazz<br>glove<br>west<br>boil
+bip_39_word_new_br_6: frost<br>jazz<br>glove<br>west<br>boil<br>rival
+bip_39_word_new_br_7: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze
+bip_39_word_new_br_8: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy
+bip_39_word_new_br_9: frost<br>jazz<br>glove<br>west<br>boil<br>rival<br>maze<br>fancy<br>jar
+bip_39_word_new_line_1: frost
+bip_39_word_new_line_10: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze
+
+  fancy
+
+  jar
+
+  random'
+bip_39_word_new_line_11: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze
+
+  fancy
+
+  jar
+
+  random
+
+  feed'
+bip_39_word_new_line_12: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze
+
+  fancy
+
+  jar
+
+  random
+
+  feed
+
+  artwork'
+bip_39_word_new_line_2: 'frost
+
+  jazz'
+bip_39_word_new_line_3: 'frost
+
+  jazz
+
+  glove'
+bip_39_word_new_line_4: 'frost
+
+  jazz
+
+  glove
+
+  west'
+bip_39_word_new_line_5: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil'
+bip_39_word_new_line_6: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival'
+bip_39_word_new_line_7: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze'
+bip_39_word_new_line_8: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze
+
+  fancy'
+bip_39_word_new_line_9: 'frost
+
+  jazz
+
+  glove
+
+  west
+
+  boil
+
+  rival
+
+  maze
+
+  fancy
+
+  jar'
+bip_39_word_no_space_1: frost
+bip_39_word_no_space_10: frostjazzglovewestboilrivalmazefancyjarrandom
+bip_39_word_no_space_11: frostjazzglovewestboilrivalmazefancyjarrandomfeed
+bip_39_word_no_space_12: frostjazzglovewestboilrivalmazefancyjarrandomfeedartwork
+bip_39_word_no_space_2: frostjazz
+bip_39_word_no_space_3: frostjazzglove
+bip_39_word_no_space_4: frostjazzglovewest
+bip_39_word_no_space_5: frostjazzglovewestboil
+bip_39_word_no_space_6: frostjazzglovewestboilrival
+bip_39_word_no_space_7: frostjazzglovewestboilrivalmaze
+bip_39_word_no_space_8: frostjazzglovewestboilrivalmazefancy
+bip_39_word_no_space_9: frostjazzglovewestboilrivalmazefancyjar
+bip_39_word_space_0:
+- frost
+- jazz
+- glove
+- west
+- boil
+- rival
+- maze
+- fancy
+- jar
+- random
+- feed
+- artwork
+bip_39_word_space_1: frost
+bip_39_word_space_10: frost jazz glove west boil rival maze fancy jar random
+bip_39_word_space_11: frost jazz glove west boil rival maze fancy jar random feed
+bip_39_word_space_12: frost jazz glove west boil rival maze fancy jar random feed
+  artwork
+bip_39_word_space_2: frost jazz
+bip_39_word_space_3: frost jazz glove
+bip_39_word_space_4: frost jazz glove west
+bip_39_word_space_5: frost jazz glove west boil
+bip_39_word_space_6: frost jazz glove west boil rival
+bip_39_word_space_7: frost jazz glove west boil rival maze
+bip_39_word_space_8: frost jazz glove west boil rival maze fancy
+bip_39_word_space_9: frost jazz glove west boil rival maze fancy jar
+bip_39_word_underscore_1: frost
+bip_39_word_underscore_10: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random
+bip_39_word_underscore_11: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random_feed
+bip_39_word_underscore_12: frost_jazz_glove_west_boil_rival_maze_fancy_jar_random_feed_artwork
+bip_39_word_underscore_2: frost_jazz
+bip_39_word_underscore_3: frost_jazz_glove
+bip_39_word_underscore_4: frost_jazz_glove_west
+bip_39_word_underscore_5: frost_jazz_glove_west_boil
+bip_39_word_underscore_6: frost_jazz_glove_west_boil_rival
+bip_39_word_underscore_7: frost_jazz_glove_west_boil_rival_maze
+bip_39_word_underscore_8: frost_jazz_glove_west_boil_rival_maze_fancy
+bip_39_word_underscore_9: frost_jazz_glove_west_boil_rival_maze_fancy_jar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_05_21
 id_no_color: '120521'
 id_no_size: '12_05_21'
 id_no_type: tray_thin_12_05_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_05_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_05_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_05_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087wq4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087wq4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087wq4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120521'
 name_no_size: 12 05 21
 name_no_size_short: 12 05 21
 name_no_type: Tray Thin 12 05 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_05_21
 oomp_word: pineapple sandal blossom
 oomp_word_emoji: ':pineapple: :sandal: :blossom:'

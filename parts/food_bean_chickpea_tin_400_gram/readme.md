@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Bean Chickpea Tin 400 Gram
+* name_short: Chickenpeas
 ### id
 * oomp_id: food_bean_chickpea_tin_400_gram
   * classification: food

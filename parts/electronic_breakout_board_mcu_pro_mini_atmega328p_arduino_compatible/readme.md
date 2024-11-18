@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A mini usb port free arduino compatible breakout
 
+### name
+* name: Electronic Breakout Board MCU Pro Mini Atmega328P Arduino Compatible
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible
   * classification: electronic

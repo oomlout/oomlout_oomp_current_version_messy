@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61822 Size 110 mm ID 140 mm OD 16 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61822_size_110_mm_id_140_mm_od_16_mm_depth
   * classification: hardware

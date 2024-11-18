@@ -1,3 +1,223 @@
+bip_39_word_dash_1: diary
+bip_39_word_dash_10: diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge
+bip_39_word_dash_11: diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge-scare
+bip_39_word_dash_12: diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen-huge-scare-ancient
+bip_39_word_dash_2: diary-runway
+bip_39_word_dash_3: diary-runway-heavy
+bip_39_word_dash_4: diary-runway-heavy-pudding
+bip_39_word_dash_5: diary-runway-heavy-pudding-north
+bip_39_word_dash_6: diary-runway-heavy-pudding-north-cheese
+bip_39_word_dash_7: diary-runway-heavy-pudding-north-cheese-hero
+bip_39_word_dash_8: diary-runway-heavy-pudding-north-cheese-hero-endorse
+bip_39_word_dash_9: diary-runway-heavy-pudding-north-cheese-hero-endorse-reopen
+bip_39_word_new_br_1: diary
+bip_39_word_new_br_10: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge
+bip_39_word_new_br_11: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge<br>scare
+bip_39_word_new_br_12: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen<br>huge<br>scare<br>ancient
+bip_39_word_new_br_2: diary<br>runway
+bip_39_word_new_br_3: diary<br>runway<br>heavy
+bip_39_word_new_br_4: diary<br>runway<br>heavy<br>pudding
+bip_39_word_new_br_5: diary<br>runway<br>heavy<br>pudding<br>north
+bip_39_word_new_br_6: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese
+bip_39_word_new_br_7: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero
+bip_39_word_new_br_8: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse
+bip_39_word_new_br_9: diary<br>runway<br>heavy<br>pudding<br>north<br>cheese<br>hero<br>endorse<br>reopen
+bip_39_word_new_line_1: diary
+bip_39_word_new_line_10: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge'
+bip_39_word_new_line_11: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge
+
+  scare'
+bip_39_word_new_line_12: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen
+
+  huge
+
+  scare
+
+  ancient'
+bip_39_word_new_line_2: 'diary
+
+  runway'
+bip_39_word_new_line_3: 'diary
+
+  runway
+
+  heavy'
+bip_39_word_new_line_4: 'diary
+
+  runway
+
+  heavy
+
+  pudding'
+bip_39_word_new_line_5: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north'
+bip_39_word_new_line_6: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese'
+bip_39_word_new_line_7: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero'
+bip_39_word_new_line_8: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse'
+bip_39_word_new_line_9: 'diary
+
+  runway
+
+  heavy
+
+  pudding
+
+  north
+
+  cheese
+
+  hero
+
+  endorse
+
+  reopen'
+bip_39_word_no_space_1: diary
+bip_39_word_no_space_10: diaryrunwayheavypuddingnorthcheeseheroendorsereopenhuge
+bip_39_word_no_space_11: diaryrunwayheavypuddingnorthcheeseheroendorsereopenhugescare
+bip_39_word_no_space_12: diaryrunwayheavypuddingnorthcheeseheroendorsereopenhugescareancient
+bip_39_word_no_space_2: diaryrunway
+bip_39_word_no_space_3: diaryrunwayheavy
+bip_39_word_no_space_4: diaryrunwayheavypudding
+bip_39_word_no_space_5: diaryrunwayheavypuddingnorth
+bip_39_word_no_space_6: diaryrunwayheavypuddingnorthcheese
+bip_39_word_no_space_7: diaryrunwayheavypuddingnorthcheesehero
+bip_39_word_no_space_8: diaryrunwayheavypuddingnorthcheeseheroendorse
+bip_39_word_no_space_9: diaryrunwayheavypuddingnorthcheeseheroendorsereopen
+bip_39_word_space_0:
+- diary
+- runway
+- heavy
+- pudding
+- north
+- cheese
+- hero
+- endorse
+- reopen
+- huge
+- scare
+- ancient
+bip_39_word_space_1: diary
+bip_39_word_space_10: diary runway heavy pudding north cheese hero endorse reopen
+  huge
+bip_39_word_space_11: diary runway heavy pudding north cheese hero endorse reopen
+  huge scare
+bip_39_word_space_12: diary runway heavy pudding north cheese hero endorse reopen
+  huge scare ancient
+bip_39_word_space_2: diary runway
+bip_39_word_space_3: diary runway heavy
+bip_39_word_space_4: diary runway heavy pudding
+bip_39_word_space_5: diary runway heavy pudding north
+bip_39_word_space_6: diary runway heavy pudding north cheese
+bip_39_word_space_7: diary runway heavy pudding north cheese hero
+bip_39_word_space_8: diary runway heavy pudding north cheese hero endorse
+bip_39_word_space_9: diary runway heavy pudding north cheese hero endorse reopen
+bip_39_word_underscore_1: diary
+bip_39_word_underscore_10: diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge
+bip_39_word_underscore_11: diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge_scare
+bip_39_word_underscore_12: diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen_huge_scare_ancient
+bip_39_word_underscore_2: diary_runway
+bip_39_word_underscore_3: diary_runway_heavy
+bip_39_word_underscore_4: diary_runway_heavy_pudding
+bip_39_word_underscore_5: diary_runway_heavy_pudding_north
+bip_39_word_underscore_6: diary_runway_heavy_pudding_north_cheese
+bip_39_word_underscore_7: diary_runway_heavy_pudding_north_cheese_hero
+bip_39_word_underscore_8: diary_runway_heavy_pudding_north_cheese_hero_endorse
+bip_39_word_underscore_9: diary_runway_heavy_pudding_north_cheese_hero_endorse_reopen
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: red_10_mm_length
 id_no_type: 6_4_mm_internal_diameter_red_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter_red_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter_red_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter_red_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205d57f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205d57f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205d57f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,7 @@ name_no_color: 10 mm Length
 name_no_size: Red 10 mm Length
 name_no_size_short: Red 10 Mm Length
 name_no_type: 6 4 mm Internal Diameter Red 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_6_4_mm_internal_diameter_red_10_mm_length
 oomp_word: hammer hourglass ski
 oomp_word_emoji: ':hammer: :hourglass: :ski:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 pasta_fusilli
 
+### name
+* name: Food Starch Pasta Fusilli
+* name_short: Pasta Fusilli
 ### id
 * oomp_id: food_starch_pasta_fusilli
   * classification: food
@@ -28,6 +31,29 @@ pasta_fusilli
 * oomp_word_emoji :shoe: :ear: :sheep:
 * md5_6_alpha: 6k6rm
 * md5_6: a82542
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206k6rm)
+[2x1](http://192.168.1.242:1112/?label=oomp%206k6rm)
+[6x4](http://192.168.1.55:1112/?label=oomp%206k6rm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_fusilli)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ fan |
 | id_no_color | fusilli |  
 | id_no_size | fusilli |  
 | id_no_type | pasta_fusilli |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_fusilli |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_fusilli |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206k6rm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206k6rm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206k6rm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ fan |
 | name_no_size_short | Fusilli |  
 | name_no_type | Pasta Fusilli |  
 | name_short | Pasta Fusilli |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_pasta_fusilli |  
 | oomp_word | shoe ear sheep |  
 | oomp_word_emoji | :shoe: :ear: :sheep: |  

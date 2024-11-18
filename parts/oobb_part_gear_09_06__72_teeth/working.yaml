@@ -1,3 +1,223 @@
+bip_39_word_dash_1: margin
+bip_39_word_dash_10: margin-exhibit-city-material-economy-used-female-turn-shadow-income
+bip_39_word_dash_11: margin-exhibit-city-material-economy-used-female-turn-shadow-income-switch
+bip_39_word_dash_12: margin-exhibit-city-material-economy-used-female-turn-shadow-income-switch-advance
+bip_39_word_dash_2: margin-exhibit
+bip_39_word_dash_3: margin-exhibit-city
+bip_39_word_dash_4: margin-exhibit-city-material
+bip_39_word_dash_5: margin-exhibit-city-material-economy
+bip_39_word_dash_6: margin-exhibit-city-material-economy-used
+bip_39_word_dash_7: margin-exhibit-city-material-economy-used-female
+bip_39_word_dash_8: margin-exhibit-city-material-economy-used-female-turn
+bip_39_word_dash_9: margin-exhibit-city-material-economy-used-female-turn-shadow
+bip_39_word_new_br_1: margin
+bip_39_word_new_br_10: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income
+bip_39_word_new_br_11: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch
+bip_39_word_new_br_12: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow<br>income<br>switch<br>advance
+bip_39_word_new_br_2: margin<br>exhibit
+bip_39_word_new_br_3: margin<br>exhibit<br>city
+bip_39_word_new_br_4: margin<br>exhibit<br>city<br>material
+bip_39_word_new_br_5: margin<br>exhibit<br>city<br>material<br>economy
+bip_39_word_new_br_6: margin<br>exhibit<br>city<br>material<br>economy<br>used
+bip_39_word_new_br_7: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female
+bip_39_word_new_br_8: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn
+bip_39_word_new_br_9: margin<br>exhibit<br>city<br>material<br>economy<br>used<br>female<br>turn<br>shadow
+bip_39_word_new_line_1: margin
+bip_39_word_new_line_10: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female
+
+  turn
+
+  shadow
+
+  income'
+bip_39_word_new_line_11: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female
+
+  turn
+
+  shadow
+
+  income
+
+  switch'
+bip_39_word_new_line_12: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female
+
+  turn
+
+  shadow
+
+  income
+
+  switch
+
+  advance'
+bip_39_word_new_line_2: 'margin
+
+  exhibit'
+bip_39_word_new_line_3: 'margin
+
+  exhibit
+
+  city'
+bip_39_word_new_line_4: 'margin
+
+  exhibit
+
+  city
+
+  material'
+bip_39_word_new_line_5: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy'
+bip_39_word_new_line_6: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used'
+bip_39_word_new_line_7: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female'
+bip_39_word_new_line_8: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female
+
+  turn'
+bip_39_word_new_line_9: 'margin
+
+  exhibit
+
+  city
+
+  material
+
+  economy
+
+  used
+
+  female
+
+  turn
+
+  shadow'
+bip_39_word_no_space_1: margin
+bip_39_word_no_space_10: marginexhibitcitymaterialeconomyusedfemaleturnshadowincome
+bip_39_word_no_space_11: marginexhibitcitymaterialeconomyusedfemaleturnshadowincomeswitch
+bip_39_word_no_space_12: marginexhibitcitymaterialeconomyusedfemaleturnshadowincomeswitchadvance
+bip_39_word_no_space_2: marginexhibit
+bip_39_word_no_space_3: marginexhibitcity
+bip_39_word_no_space_4: marginexhibitcitymaterial
+bip_39_word_no_space_5: marginexhibitcitymaterialeconomy
+bip_39_word_no_space_6: marginexhibitcitymaterialeconomyused
+bip_39_word_no_space_7: marginexhibitcitymaterialeconomyusedfemale
+bip_39_word_no_space_8: marginexhibitcitymaterialeconomyusedfemaleturn
+bip_39_word_no_space_9: marginexhibitcitymaterialeconomyusedfemaleturnshadow
+bip_39_word_space_0:
+- margin
+- exhibit
+- city
+- material
+- economy
+- used
+- female
+- turn
+- shadow
+- income
+- switch
+- advance
+bip_39_word_space_1: margin
+bip_39_word_space_10: margin exhibit city material economy used female turn shadow
+  income
+bip_39_word_space_11: margin exhibit city material economy used female turn shadow
+  income switch
+bip_39_word_space_12: margin exhibit city material economy used female turn shadow
+  income switch advance
+bip_39_word_space_2: margin exhibit
+bip_39_word_space_3: margin exhibit city
+bip_39_word_space_4: margin exhibit city material
+bip_39_word_space_5: margin exhibit city material economy
+bip_39_word_space_6: margin exhibit city material economy used
+bip_39_word_space_7: margin exhibit city material economy used female
+bip_39_word_space_8: margin exhibit city material economy used female turn
+bip_39_word_space_9: margin exhibit city material economy used female turn shadow
+bip_39_word_underscore_1: margin
+bip_39_word_underscore_10: margin_exhibit_city_material_economy_used_female_turn_shadow_income
+bip_39_word_underscore_11: margin_exhibit_city_material_economy_used_female_turn_shadow_income_switch
+bip_39_word_underscore_12: margin_exhibit_city_material_economy_used_female_turn_shadow_income_switch_advance
+bip_39_word_underscore_2: margin_exhibit
+bip_39_word_underscore_3: margin_exhibit_city
+bip_39_word_underscore_4: margin_exhibit_city_material
+bip_39_word_underscore_5: margin_exhibit_city_material_economy
+bip_39_word_underscore_6: margin_exhibit_city_material_economy_used
+bip_39_word_underscore_7: margin_exhibit_city_material_economy_used_female
+bip_39_word_underscore_8: margin_exhibit_city_material_economy_used_female_turn
+bip_39_word_underscore_9: margin_exhibit_city_material_economy_used_female_turn_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_09_06__72_teeth
 id_no_color: 090672teeth
 id_no_size: 09_06__72_teeth
 id_no_type: gear_09_06__72_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_06__72_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_06__72_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_06__72_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202hi70
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202hi70
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202hi70
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 090672Teeth
 name_no_size: 09 06  72 Teeth
 name_no_size_short: 09 06  72 Teeth
 name_no_type: Gear 09 06  72 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_09_06__72_teeth
 oomp_word: horse hamburger ox
 oomp_word_emoji: ':horse: :hamburger: :ox:'

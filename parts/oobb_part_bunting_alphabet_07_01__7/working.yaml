@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sponsor
+bip_39_word_dash_10: sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear
+bip_39_word_dash_11: sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear-all
+bip_39_word_dash_12: sponsor-copy-life-goose-tenant-panic-thing-chase-boost-wear-all-above
+bip_39_word_dash_2: sponsor-copy
+bip_39_word_dash_3: sponsor-copy-life
+bip_39_word_dash_4: sponsor-copy-life-goose
+bip_39_word_dash_5: sponsor-copy-life-goose-tenant
+bip_39_word_dash_6: sponsor-copy-life-goose-tenant-panic
+bip_39_word_dash_7: sponsor-copy-life-goose-tenant-panic-thing
+bip_39_word_dash_8: sponsor-copy-life-goose-tenant-panic-thing-chase
+bip_39_word_dash_9: sponsor-copy-life-goose-tenant-panic-thing-chase-boost
+bip_39_word_new_br_1: sponsor
+bip_39_word_new_br_10: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear
+bip_39_word_new_br_11: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all
+bip_39_word_new_br_12: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost<br>wear<br>all<br>above
+bip_39_word_new_br_2: sponsor<br>copy
+bip_39_word_new_br_3: sponsor<br>copy<br>life
+bip_39_word_new_br_4: sponsor<br>copy<br>life<br>goose
+bip_39_word_new_br_5: sponsor<br>copy<br>life<br>goose<br>tenant
+bip_39_word_new_br_6: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic
+bip_39_word_new_br_7: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing
+bip_39_word_new_br_8: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase
+bip_39_word_new_br_9: sponsor<br>copy<br>life<br>goose<br>tenant<br>panic<br>thing<br>chase<br>boost
+bip_39_word_new_line_1: sponsor
+bip_39_word_new_line_10: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing
+
+  chase
+
+  boost
+
+  wear'
+bip_39_word_new_line_11: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing
+
+  chase
+
+  boost
+
+  wear
+
+  all'
+bip_39_word_new_line_12: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing
+
+  chase
+
+  boost
+
+  wear
+
+  all
+
+  above'
+bip_39_word_new_line_2: 'sponsor
+
+  copy'
+bip_39_word_new_line_3: 'sponsor
+
+  copy
+
+  life'
+bip_39_word_new_line_4: 'sponsor
+
+  copy
+
+  life
+
+  goose'
+bip_39_word_new_line_5: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant'
+bip_39_word_new_line_6: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic'
+bip_39_word_new_line_7: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing'
+bip_39_word_new_line_8: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing
+
+  chase'
+bip_39_word_new_line_9: 'sponsor
+
+  copy
+
+  life
+
+  goose
+
+  tenant
+
+  panic
+
+  thing
+
+  chase
+
+  boost'
+bip_39_word_no_space_1: sponsor
+bip_39_word_no_space_10: sponsorcopylifegoosetenantpanicthingchaseboostwear
+bip_39_word_no_space_11: sponsorcopylifegoosetenantpanicthingchaseboostwearall
+bip_39_word_no_space_12: sponsorcopylifegoosetenantpanicthingchaseboostwearallabove
+bip_39_word_no_space_2: sponsorcopy
+bip_39_word_no_space_3: sponsorcopylife
+bip_39_word_no_space_4: sponsorcopylifegoose
+bip_39_word_no_space_5: sponsorcopylifegoosetenant
+bip_39_word_no_space_6: sponsorcopylifegoosetenantpanic
+bip_39_word_no_space_7: sponsorcopylifegoosetenantpanicthing
+bip_39_word_no_space_8: sponsorcopylifegoosetenantpanicthingchase
+bip_39_word_no_space_9: sponsorcopylifegoosetenantpanicthingchaseboost
+bip_39_word_space_0:
+- sponsor
+- copy
+- life
+- goose
+- tenant
+- panic
+- thing
+- chase
+- boost
+- wear
+- all
+- above
+bip_39_word_space_1: sponsor
+bip_39_word_space_10: sponsor copy life goose tenant panic thing chase boost wear
+bip_39_word_space_11: sponsor copy life goose tenant panic thing chase boost wear
+  all
+bip_39_word_space_12: sponsor copy life goose tenant panic thing chase boost wear
+  all above
+bip_39_word_space_2: sponsor copy
+bip_39_word_space_3: sponsor copy life
+bip_39_word_space_4: sponsor copy life goose
+bip_39_word_space_5: sponsor copy life goose tenant
+bip_39_word_space_6: sponsor copy life goose tenant panic
+bip_39_word_space_7: sponsor copy life goose tenant panic thing
+bip_39_word_space_8: sponsor copy life goose tenant panic thing chase
+bip_39_word_space_9: sponsor copy life goose tenant panic thing chase boost
+bip_39_word_underscore_1: sponsor
+bip_39_word_underscore_10: sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear
+bip_39_word_underscore_11: sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear_all
+bip_39_word_underscore_12: sponsor_copy_life_goose_tenant_panic_thing_chase_boost_wear_all_above
+bip_39_word_underscore_2: sponsor_copy
+bip_39_word_underscore_3: sponsor_copy_life
+bip_39_word_underscore_4: sponsor_copy_life_goose
+bip_39_word_underscore_5: sponsor_copy_life_goose_tenant
+bip_39_word_underscore_6: sponsor_copy_life_goose_tenant_panic
+bip_39_word_underscore_7: sponsor_copy_life_goose_tenant_panic_thing
+bip_39_word_underscore_8: sponsor_copy_life_goose_tenant_panic_thing_chase
+bip_39_word_underscore_9: sponsor_copy_life_goose_tenant_panic_thing_chase_boost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__7
 id_no_color: '07017'
 id_no_size: '07_01__7'
 id_no_type: bunting_alphabet_07_01__7
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__7
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__7
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__7
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bb3y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bb3y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bb3y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '07017'
 name_no_size: 07 01  7
 name_no_size_short: 07 01  7
 name_no_type: Bunting Alphabet 07 01  7
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__7
 oomp_word: scream alien recycle
 oomp_word_emoji: ':scream: :alien: :recycle:'

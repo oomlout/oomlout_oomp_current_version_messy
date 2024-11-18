@@ -1,3 +1,222 @@
+bip_39_word_dash_1: element
+bip_39_word_dash_10: element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud
+bip_39_word_dash_11: element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud-escape
+bip_39_word_dash_12: element-chaos-harsh-attack-rich-yellow-cabbage-huge-next-cloud-escape-average
+bip_39_word_dash_2: element-chaos
+bip_39_word_dash_3: element-chaos-harsh
+bip_39_word_dash_4: element-chaos-harsh-attack
+bip_39_word_dash_5: element-chaos-harsh-attack-rich
+bip_39_word_dash_6: element-chaos-harsh-attack-rich-yellow
+bip_39_word_dash_7: element-chaos-harsh-attack-rich-yellow-cabbage
+bip_39_word_dash_8: element-chaos-harsh-attack-rich-yellow-cabbage-huge
+bip_39_word_dash_9: element-chaos-harsh-attack-rich-yellow-cabbage-huge-next
+bip_39_word_new_br_1: element
+bip_39_word_new_br_10: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud
+bip_39_word_new_br_11: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape
+bip_39_word_new_br_12: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next<br>cloud<br>escape<br>average
+bip_39_word_new_br_2: element<br>chaos
+bip_39_word_new_br_3: element<br>chaos<br>harsh
+bip_39_word_new_br_4: element<br>chaos<br>harsh<br>attack
+bip_39_word_new_br_5: element<br>chaos<br>harsh<br>attack<br>rich
+bip_39_word_new_br_6: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow
+bip_39_word_new_br_7: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage
+bip_39_word_new_br_8: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge
+bip_39_word_new_br_9: element<br>chaos<br>harsh<br>attack<br>rich<br>yellow<br>cabbage<br>huge<br>next
+bip_39_word_new_line_1: element
+bip_39_word_new_line_10: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage
+
+  huge
+
+  next
+
+  cloud'
+bip_39_word_new_line_11: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage
+
+  huge
+
+  next
+
+  cloud
+
+  escape'
+bip_39_word_new_line_12: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage
+
+  huge
+
+  next
+
+  cloud
+
+  escape
+
+  average'
+bip_39_word_new_line_2: 'element
+
+  chaos'
+bip_39_word_new_line_3: 'element
+
+  chaos
+
+  harsh'
+bip_39_word_new_line_4: 'element
+
+  chaos
+
+  harsh
+
+  attack'
+bip_39_word_new_line_5: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich'
+bip_39_word_new_line_6: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow'
+bip_39_word_new_line_7: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage'
+bip_39_word_new_line_8: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage
+
+  huge'
+bip_39_word_new_line_9: 'element
+
+  chaos
+
+  harsh
+
+  attack
+
+  rich
+
+  yellow
+
+  cabbage
+
+  huge
+
+  next'
+bip_39_word_no_space_1: element
+bip_39_word_no_space_10: elementchaosharshattackrichyellowcabbagehugenextcloud
+bip_39_word_no_space_11: elementchaosharshattackrichyellowcabbagehugenextcloudescape
+bip_39_word_no_space_12: elementchaosharshattackrichyellowcabbagehugenextcloudescapeaverage
+bip_39_word_no_space_2: elementchaos
+bip_39_word_no_space_3: elementchaosharsh
+bip_39_word_no_space_4: elementchaosharshattack
+bip_39_word_no_space_5: elementchaosharshattackrich
+bip_39_word_no_space_6: elementchaosharshattackrichyellow
+bip_39_word_no_space_7: elementchaosharshattackrichyellowcabbage
+bip_39_word_no_space_8: elementchaosharshattackrichyellowcabbagehuge
+bip_39_word_no_space_9: elementchaosharshattackrichyellowcabbagehugenext
+bip_39_word_space_0:
+- element
+- chaos
+- harsh
+- attack
+- rich
+- yellow
+- cabbage
+- huge
+- next
+- cloud
+- escape
+- average
+bip_39_word_space_1: element
+bip_39_word_space_10: element chaos harsh attack rich yellow cabbage huge next cloud
+bip_39_word_space_11: element chaos harsh attack rich yellow cabbage huge next cloud
+  escape
+bip_39_word_space_12: element chaos harsh attack rich yellow cabbage huge next cloud
+  escape average
+bip_39_word_space_2: element chaos
+bip_39_word_space_3: element chaos harsh
+bip_39_word_space_4: element chaos harsh attack
+bip_39_word_space_5: element chaos harsh attack rich
+bip_39_word_space_6: element chaos harsh attack rich yellow
+bip_39_word_space_7: element chaos harsh attack rich yellow cabbage
+bip_39_word_space_8: element chaos harsh attack rich yellow cabbage huge
+bip_39_word_space_9: element chaos harsh attack rich yellow cabbage huge next
+bip_39_word_underscore_1: element
+bip_39_word_underscore_10: element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud
+bip_39_word_underscore_11: element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud_escape
+bip_39_word_underscore_12: element_chaos_harsh_attack_rich_yellow_cabbage_huge_next_cloud_escape_average
+bip_39_word_underscore_2: element_chaos
+bip_39_word_underscore_3: element_chaos_harsh
+bip_39_word_underscore_4: element_chaos_harsh_attack
+bip_39_word_underscore_5: element_chaos_harsh_attack_rich
+bip_39_word_underscore_6: element_chaos_harsh_attack_rich_yellow
+bip_39_word_underscore_7: element_chaos_harsh_attack_rich_yellow_cabbage
+bip_39_word_underscore_8: element_chaos_harsh_attack_rich_yellow_cabbage_huge
+bip_39_word_underscore_9: element_chaos_harsh_attack_rich_yellow_cabbage_huge_next
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_11_60
 id_no_color: '071160'
 id_no_size: '07_11_60'
 id_no_type: tray_07_11_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209utje
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209utje
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209utje
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '071160'
 name_no_size: 07 11 60
 name_no_size_short: 07 11 60
 name_no_type: Tray 07 11 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_11_60
 oomp_word: up golf sleepy
 oomp_word_emoji: ':up: :golf: :sleepy:'

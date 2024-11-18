@@ -1,3 +1,223 @@
+bip_39_word_dash_1: common
+bip_39_word_dash_10: common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse
+bip_39_word_dash_11: common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse-elder
+bip_39_word_dash_12: common-prevent-nominee-verb-primary-torch-math-mushroom-author-refuse-elder-alone
+bip_39_word_dash_2: common-prevent
+bip_39_word_dash_3: common-prevent-nominee
+bip_39_word_dash_4: common-prevent-nominee-verb
+bip_39_word_dash_5: common-prevent-nominee-verb-primary
+bip_39_word_dash_6: common-prevent-nominee-verb-primary-torch
+bip_39_word_dash_7: common-prevent-nominee-verb-primary-torch-math
+bip_39_word_dash_8: common-prevent-nominee-verb-primary-torch-math-mushroom
+bip_39_word_dash_9: common-prevent-nominee-verb-primary-torch-math-mushroom-author
+bip_39_word_new_br_1: common
+bip_39_word_new_br_10: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse
+bip_39_word_new_br_11: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse<br>elder
+bip_39_word_new_br_12: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author<br>refuse<br>elder<br>alone
+bip_39_word_new_br_2: common<br>prevent
+bip_39_word_new_br_3: common<br>prevent<br>nominee
+bip_39_word_new_br_4: common<br>prevent<br>nominee<br>verb
+bip_39_word_new_br_5: common<br>prevent<br>nominee<br>verb<br>primary
+bip_39_word_new_br_6: common<br>prevent<br>nominee<br>verb<br>primary<br>torch
+bip_39_word_new_br_7: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math
+bip_39_word_new_br_8: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom
+bip_39_word_new_br_9: common<br>prevent<br>nominee<br>verb<br>primary<br>torch<br>math<br>mushroom<br>author
+bip_39_word_new_line_1: common
+bip_39_word_new_line_10: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math
+
+  mushroom
+
+  author
+
+  refuse'
+bip_39_word_new_line_11: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math
+
+  mushroom
+
+  author
+
+  refuse
+
+  elder'
+bip_39_word_new_line_12: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math
+
+  mushroom
+
+  author
+
+  refuse
+
+  elder
+
+  alone'
+bip_39_word_new_line_2: 'common
+
+  prevent'
+bip_39_word_new_line_3: 'common
+
+  prevent
+
+  nominee'
+bip_39_word_new_line_4: 'common
+
+  prevent
+
+  nominee
+
+  verb'
+bip_39_word_new_line_5: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary'
+bip_39_word_new_line_6: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch'
+bip_39_word_new_line_7: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math'
+bip_39_word_new_line_8: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math
+
+  mushroom'
+bip_39_word_new_line_9: 'common
+
+  prevent
+
+  nominee
+
+  verb
+
+  primary
+
+  torch
+
+  math
+
+  mushroom
+
+  author'
+bip_39_word_no_space_1: common
+bip_39_word_no_space_10: commonpreventnomineeverbprimarytorchmathmushroomauthorrefuse
+bip_39_word_no_space_11: commonpreventnomineeverbprimarytorchmathmushroomauthorrefuseelder
+bip_39_word_no_space_12: commonpreventnomineeverbprimarytorchmathmushroomauthorrefuseelderalone
+bip_39_word_no_space_2: commonprevent
+bip_39_word_no_space_3: commonpreventnominee
+bip_39_word_no_space_4: commonpreventnomineeverb
+bip_39_word_no_space_5: commonpreventnomineeverbprimary
+bip_39_word_no_space_6: commonpreventnomineeverbprimarytorch
+bip_39_word_no_space_7: commonpreventnomineeverbprimarytorchmath
+bip_39_word_no_space_8: commonpreventnomineeverbprimarytorchmathmushroom
+bip_39_word_no_space_9: commonpreventnomineeverbprimarytorchmathmushroomauthor
+bip_39_word_space_0:
+- common
+- prevent
+- nominee
+- verb
+- primary
+- torch
+- math
+- mushroom
+- author
+- refuse
+- elder
+- alone
+bip_39_word_space_1: common
+bip_39_word_space_10: common prevent nominee verb primary torch math mushroom author
+  refuse
+bip_39_word_space_11: common prevent nominee verb primary torch math mushroom author
+  refuse elder
+bip_39_word_space_12: common prevent nominee verb primary torch math mushroom author
+  refuse elder alone
+bip_39_word_space_2: common prevent
+bip_39_word_space_3: common prevent nominee
+bip_39_word_space_4: common prevent nominee verb
+bip_39_word_space_5: common prevent nominee verb primary
+bip_39_word_space_6: common prevent nominee verb primary torch
+bip_39_word_space_7: common prevent nominee verb primary torch math
+bip_39_word_space_8: common prevent nominee verb primary torch math mushroom
+bip_39_word_space_9: common prevent nominee verb primary torch math mushroom author
+bip_39_word_underscore_1: common
+bip_39_word_underscore_10: common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse
+bip_39_word_underscore_11: common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse_elder
+bip_39_word_underscore_12: common_prevent_nominee_verb_primary_torch_math_mushroom_author_refuse_elder_alone
+bip_39_word_underscore_2: common_prevent
+bip_39_word_underscore_3: common_prevent_nominee
+bip_39_word_underscore_4: common_prevent_nominee_verb
+bip_39_word_underscore_5: common_prevent_nominee_verb_primary
+bip_39_word_underscore_6: common_prevent_nominee_verb_primary_torch
+bip_39_word_underscore_7: common_prevent_nominee_verb_primary_torch_math
+bip_39_word_underscore_8: common_prevent_nominee_verb_primary_torch_math_mushroom
+bip_39_word_underscore_9: common_prevent_nominee_verb_primary_torch_math_mushroom_author
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_04_1d5_90
 id_no_color: 041d590
 id_no_size: 04_1d5_90
 id_no_type: tray_thin_04_1d5_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_1d5_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_1d5_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_1d5_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204banh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204banh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204banh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 041D590
 name_no_size: 04 1D5 90
 name_no_size_short: 04 1D5 90
 name_no_type: Tray Thin 04 1D5 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_1d5_90
 oomp_word: new_moon clipboard dress
 oomp_word_emoji: ':new_moon: :clipboard: :dress:'

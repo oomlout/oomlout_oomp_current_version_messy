@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ritual
+bip_39_word_dash_10: ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket
+bip_39_word_dash_11: ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket-inquiry
+bip_39_word_dash_12: ritual-drink-burger-today-sustain-dune-knock-inside-snake-bracket-inquiry-appear
+bip_39_word_dash_2: ritual-drink
+bip_39_word_dash_3: ritual-drink-burger
+bip_39_word_dash_4: ritual-drink-burger-today
+bip_39_word_dash_5: ritual-drink-burger-today-sustain
+bip_39_word_dash_6: ritual-drink-burger-today-sustain-dune
+bip_39_word_dash_7: ritual-drink-burger-today-sustain-dune-knock
+bip_39_word_dash_8: ritual-drink-burger-today-sustain-dune-knock-inside
+bip_39_word_dash_9: ritual-drink-burger-today-sustain-dune-knock-inside-snake
+bip_39_word_new_br_1: ritual
+bip_39_word_new_br_10: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket
+bip_39_word_new_br_11: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry
+bip_39_word_new_br_12: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake<br>bracket<br>inquiry<br>appear
+bip_39_word_new_br_2: ritual<br>drink
+bip_39_word_new_br_3: ritual<br>drink<br>burger
+bip_39_word_new_br_4: ritual<br>drink<br>burger<br>today
+bip_39_word_new_br_5: ritual<br>drink<br>burger<br>today<br>sustain
+bip_39_word_new_br_6: ritual<br>drink<br>burger<br>today<br>sustain<br>dune
+bip_39_word_new_br_7: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock
+bip_39_word_new_br_8: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside
+bip_39_word_new_br_9: ritual<br>drink<br>burger<br>today<br>sustain<br>dune<br>knock<br>inside<br>snake
+bip_39_word_new_line_1: ritual
+bip_39_word_new_line_10: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket'
+bip_39_word_new_line_11: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket
+
+  inquiry'
+bip_39_word_new_line_12: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake
+
+  bracket
+
+  inquiry
+
+  appear'
+bip_39_word_new_line_2: 'ritual
+
+  drink'
+bip_39_word_new_line_3: 'ritual
+
+  drink
+
+  burger'
+bip_39_word_new_line_4: 'ritual
+
+  drink
+
+  burger
+
+  today'
+bip_39_word_new_line_5: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain'
+bip_39_word_new_line_6: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune'
+bip_39_word_new_line_7: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock'
+bip_39_word_new_line_8: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside'
+bip_39_word_new_line_9: 'ritual
+
+  drink
+
+  burger
+
+  today
+
+  sustain
+
+  dune
+
+  knock
+
+  inside
+
+  snake'
+bip_39_word_no_space_1: ritual
+bip_39_word_no_space_10: ritualdrinkburgertodaysustainduneknockinsidesnakebracket
+bip_39_word_no_space_11: ritualdrinkburgertodaysustainduneknockinsidesnakebracketinquiry
+bip_39_word_no_space_12: ritualdrinkburgertodaysustainduneknockinsidesnakebracketinquiryappear
+bip_39_word_no_space_2: ritualdrink
+bip_39_word_no_space_3: ritualdrinkburger
+bip_39_word_no_space_4: ritualdrinkburgertoday
+bip_39_word_no_space_5: ritualdrinkburgertodaysustain
+bip_39_word_no_space_6: ritualdrinkburgertodaysustaindune
+bip_39_word_no_space_7: ritualdrinkburgertodaysustainduneknock
+bip_39_word_no_space_8: ritualdrinkburgertodaysustainduneknockinside
+bip_39_word_no_space_9: ritualdrinkburgertodaysustainduneknockinsidesnake
+bip_39_word_space_0:
+- ritual
+- drink
+- burger
+- today
+- sustain
+- dune
+- knock
+- inside
+- snake
+- bracket
+- inquiry
+- appear
+bip_39_word_space_1: ritual
+bip_39_word_space_10: ritual drink burger today sustain dune knock inside snake bracket
+bip_39_word_space_11: ritual drink burger today sustain dune knock inside snake bracket
+  inquiry
+bip_39_word_space_12: ritual drink burger today sustain dune knock inside snake bracket
+  inquiry appear
+bip_39_word_space_2: ritual drink
+bip_39_word_space_3: ritual drink burger
+bip_39_word_space_4: ritual drink burger today
+bip_39_word_space_5: ritual drink burger today sustain
+bip_39_word_space_6: ritual drink burger today sustain dune
+bip_39_word_space_7: ritual drink burger today sustain dune knock
+bip_39_word_space_8: ritual drink burger today sustain dune knock inside
+bip_39_word_space_9: ritual drink burger today sustain dune knock inside snake
+bip_39_word_underscore_1: ritual
+bip_39_word_underscore_10: ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket
+bip_39_word_underscore_11: ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket_inquiry
+bip_39_word_underscore_12: ritual_drink_burger_today_sustain_dune_knock_inside_snake_bracket_inquiry_appear
+bip_39_word_underscore_2: ritual_drink
+bip_39_word_underscore_3: ritual_drink_burger
+bip_39_word_underscore_4: ritual_drink_burger_today
+bip_39_word_underscore_5: ritual_drink_burger_today_sustain
+bip_39_word_underscore_6: ritual_drink_burger_today_sustain_dune
+bip_39_word_underscore_7: ritual_drink_burger_today_sustain_dune_knock
+bip_39_word_underscore_8: ritual_drink_burger_today_sustain_dune_knock_inside
+bip_39_word_underscore_9: ritual_drink_burger_today_sustain_dune_knock_inside_snake
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_14_18
 id_no_color: '141418'
 id_no_size: '14_14_18'
 id_no_type: tray_thin_14_14_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_14_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_14_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_14_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206l9ja
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206l9ja
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206l9ja
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141418'
 name_no_size: 14 14 18
 name_no_size_short: 14 14 18
 name_no_type: Tray Thin 14 14 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_14_18
 oomp_word: shoe bike bath
 oomp_word_emoji: ':shoe: :bike: :bath:'

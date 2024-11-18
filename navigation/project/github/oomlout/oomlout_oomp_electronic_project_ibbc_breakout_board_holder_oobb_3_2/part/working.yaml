@@ -303,7 +303,14 @@ id_no_class: github_oomlout_oomlout_oomp_electronic_ibbc_breakout_board_holder_o
 id_no_color: oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
 id_no_size: oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
 id_no_type: oomlout_oomlout_oomp_electronic_ibbc_breakout_board_holder_oobb_3_2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ux5v
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ux5v
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ux5v
 link_redirect: https://github.com/oomlout/oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 manufacturer: ''
 manufacturer_capital: ''
@@ -333,6 +340,7 @@ name_no_color: Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
 name_no_size: Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
 name_no_size_short: Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
 name_no_type: Oomlout Oomlout Oomp Electronic Ibbc Breakout Board Holder Oobb 3 2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_holder_oobb_3_2
 oomp_word: up shirt rose
 oomp_word_emoji: ':up: :shirt: :rose:'

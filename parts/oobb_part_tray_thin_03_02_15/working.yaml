@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slight
+bip_39_word_dash_10: slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield
+bip_39_word_dash_11: slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield-pupil
+bip_39_word_dash_12: slight-reopen-purse-half-fossil-humble-mechanic-sock-trial-shield-pupil-arm
+bip_39_word_dash_2: slight-reopen
+bip_39_word_dash_3: slight-reopen-purse
+bip_39_word_dash_4: slight-reopen-purse-half
+bip_39_word_dash_5: slight-reopen-purse-half-fossil
+bip_39_word_dash_6: slight-reopen-purse-half-fossil-humble
+bip_39_word_dash_7: slight-reopen-purse-half-fossil-humble-mechanic
+bip_39_word_dash_8: slight-reopen-purse-half-fossil-humble-mechanic-sock
+bip_39_word_dash_9: slight-reopen-purse-half-fossil-humble-mechanic-sock-trial
+bip_39_word_new_br_1: slight
+bip_39_word_new_br_10: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield
+bip_39_word_new_br_11: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield<br>pupil
+bip_39_word_new_br_12: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial<br>shield<br>pupil<br>arm
+bip_39_word_new_br_2: slight<br>reopen
+bip_39_word_new_br_3: slight<br>reopen<br>purse
+bip_39_word_new_br_4: slight<br>reopen<br>purse<br>half
+bip_39_word_new_br_5: slight<br>reopen<br>purse<br>half<br>fossil
+bip_39_word_new_br_6: slight<br>reopen<br>purse<br>half<br>fossil<br>humble
+bip_39_word_new_br_7: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic
+bip_39_word_new_br_8: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock
+bip_39_word_new_br_9: slight<br>reopen<br>purse<br>half<br>fossil<br>humble<br>mechanic<br>sock<br>trial
+bip_39_word_new_line_1: slight
+bip_39_word_new_line_10: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield'
+bip_39_word_new_line_11: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield
+
+  pupil'
+bip_39_word_new_line_12: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial
+
+  shield
+
+  pupil
+
+  arm'
+bip_39_word_new_line_2: 'slight
+
+  reopen'
+bip_39_word_new_line_3: 'slight
+
+  reopen
+
+  purse'
+bip_39_word_new_line_4: 'slight
+
+  reopen
+
+  purse
+
+  half'
+bip_39_word_new_line_5: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil'
+bip_39_word_new_line_6: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble'
+bip_39_word_new_line_7: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic'
+bip_39_word_new_line_8: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock'
+bip_39_word_new_line_9: 'slight
+
+  reopen
+
+  purse
+
+  half
+
+  fossil
+
+  humble
+
+  mechanic
+
+  sock
+
+  trial'
+bip_39_word_no_space_1: slight
+bip_39_word_no_space_10: slightreopenpursehalffossilhumblemechanicsocktrialshield
+bip_39_word_no_space_11: slightreopenpursehalffossilhumblemechanicsocktrialshieldpupil
+bip_39_word_no_space_12: slightreopenpursehalffossilhumblemechanicsocktrialshieldpupilarm
+bip_39_word_no_space_2: slightreopen
+bip_39_word_no_space_3: slightreopenpurse
+bip_39_word_no_space_4: slightreopenpursehalf
+bip_39_word_no_space_5: slightreopenpursehalffossil
+bip_39_word_no_space_6: slightreopenpursehalffossilhumble
+bip_39_word_no_space_7: slightreopenpursehalffossilhumblemechanic
+bip_39_word_no_space_8: slightreopenpursehalffossilhumblemechanicsock
+bip_39_word_no_space_9: slightreopenpursehalffossilhumblemechanicsocktrial
+bip_39_word_space_0:
+- slight
+- reopen
+- purse
+- half
+- fossil
+- humble
+- mechanic
+- sock
+- trial
+- shield
+- pupil
+- arm
+bip_39_word_space_1: slight
+bip_39_word_space_10: slight reopen purse half fossil humble mechanic sock trial shield
+bip_39_word_space_11: slight reopen purse half fossil humble mechanic sock trial shield
+  pupil
+bip_39_word_space_12: slight reopen purse half fossil humble mechanic sock trial shield
+  pupil arm
+bip_39_word_space_2: slight reopen
+bip_39_word_space_3: slight reopen purse
+bip_39_word_space_4: slight reopen purse half
+bip_39_word_space_5: slight reopen purse half fossil
+bip_39_word_space_6: slight reopen purse half fossil humble
+bip_39_word_space_7: slight reopen purse half fossil humble mechanic
+bip_39_word_space_8: slight reopen purse half fossil humble mechanic sock
+bip_39_word_space_9: slight reopen purse half fossil humble mechanic sock trial
+bip_39_word_underscore_1: slight
+bip_39_word_underscore_10: slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield
+bip_39_word_underscore_11: slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield_pupil
+bip_39_word_underscore_12: slight_reopen_purse_half_fossil_humble_mechanic_sock_trial_shield_pupil_arm
+bip_39_word_underscore_2: slight_reopen
+bip_39_word_underscore_3: slight_reopen_purse
+bip_39_word_underscore_4: slight_reopen_purse_half
+bip_39_word_underscore_5: slight_reopen_purse_half_fossil
+bip_39_word_underscore_6: slight_reopen_purse_half_fossil_humble
+bip_39_word_underscore_7: slight_reopen_purse_half_fossil_humble_mechanic
+bip_39_word_underscore_8: slight_reopen_purse_half_fossil_humble_mechanic_sock
+bip_39_word_underscore_9: slight_reopen_purse_half_fossil_humble_mechanic_sock_trial
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_03_02_15
 id_no_color: '030215'
 id_no_size: '03_02_15'
 id_no_type: tray_thin_03_02_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_03_02_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_02_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_03_02_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207b6cx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207b6cx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207b6cx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030215'
 name_no_size: 03 02 15
 name_no_size_short: 03 02 15
 name_no_type: Tray Thin 03 02 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_03_02_15
 oomp_word: curry rooster ticket
 oomp_word_emoji: ':curry: :rooster: :ticket:'

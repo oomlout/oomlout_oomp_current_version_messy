@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pony
+bip_39_word_dash_10: pony-emerge-lab-parent-word-galaxy-scissors-cram-echo-choose
+bip_39_word_dash_11: pony-emerge-lab-parent-word-galaxy-scissors-cram-echo-choose-stay
+bip_39_word_dash_12: pony-emerge-lab-parent-word-galaxy-scissors-cram-echo-choose-stay-acid
+bip_39_word_dash_2: pony-emerge
+bip_39_word_dash_3: pony-emerge-lab
+bip_39_word_dash_4: pony-emerge-lab-parent
+bip_39_word_dash_5: pony-emerge-lab-parent-word
+bip_39_word_dash_6: pony-emerge-lab-parent-word-galaxy
+bip_39_word_dash_7: pony-emerge-lab-parent-word-galaxy-scissors
+bip_39_word_dash_8: pony-emerge-lab-parent-word-galaxy-scissors-cram
+bip_39_word_dash_9: pony-emerge-lab-parent-word-galaxy-scissors-cram-echo
+bip_39_word_new_br_1: pony
+bip_39_word_new_br_10: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors<br>cram<br>echo<br>choose
+bip_39_word_new_br_11: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors<br>cram<br>echo<br>choose<br>stay
+bip_39_word_new_br_12: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors<br>cram<br>echo<br>choose<br>stay<br>acid
+bip_39_word_new_br_2: pony<br>emerge
+bip_39_word_new_br_3: pony<br>emerge<br>lab
+bip_39_word_new_br_4: pony<br>emerge<br>lab<br>parent
+bip_39_word_new_br_5: pony<br>emerge<br>lab<br>parent<br>word
+bip_39_word_new_br_6: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy
+bip_39_word_new_br_7: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors
+bip_39_word_new_br_8: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors<br>cram
+bip_39_word_new_br_9: pony<br>emerge<br>lab<br>parent<br>word<br>galaxy<br>scissors<br>cram<br>echo
+bip_39_word_new_line_1: pony
+bip_39_word_new_line_10: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors
+
+  cram
+
+  echo
+
+  choose'
+bip_39_word_new_line_11: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors
+
+  cram
+
+  echo
+
+  choose
+
+  stay'
+bip_39_word_new_line_12: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors
+
+  cram
+
+  echo
+
+  choose
+
+  stay
+
+  acid'
+bip_39_word_new_line_2: 'pony
+
+  emerge'
+bip_39_word_new_line_3: 'pony
+
+  emerge
+
+  lab'
+bip_39_word_new_line_4: 'pony
+
+  emerge
+
+  lab
+
+  parent'
+bip_39_word_new_line_5: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word'
+bip_39_word_new_line_6: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy'
+bip_39_word_new_line_7: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors'
+bip_39_word_new_line_8: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors
+
+  cram'
+bip_39_word_new_line_9: 'pony
+
+  emerge
+
+  lab
+
+  parent
+
+  word
+
+  galaxy
+
+  scissors
+
+  cram
+
+  echo'
+bip_39_word_no_space_1: pony
+bip_39_word_no_space_10: ponyemergelabparentwordgalaxyscissorscramechochoose
+bip_39_word_no_space_11: ponyemergelabparentwordgalaxyscissorscramechochoosestay
+bip_39_word_no_space_12: ponyemergelabparentwordgalaxyscissorscramechochoosestayacid
+bip_39_word_no_space_2: ponyemerge
+bip_39_word_no_space_3: ponyemergelab
+bip_39_word_no_space_4: ponyemergelabparent
+bip_39_word_no_space_5: ponyemergelabparentword
+bip_39_word_no_space_6: ponyemergelabparentwordgalaxy
+bip_39_word_no_space_7: ponyemergelabparentwordgalaxyscissors
+bip_39_word_no_space_8: ponyemergelabparentwordgalaxyscissorscram
+bip_39_word_no_space_9: ponyemergelabparentwordgalaxyscissorscramecho
+bip_39_word_space_0:
+- pony
+- emerge
+- lab
+- parent
+- word
+- galaxy
+- scissors
+- cram
+- echo
+- choose
+- stay
+- acid
+bip_39_word_space_1: pony
+bip_39_word_space_10: pony emerge lab parent word galaxy scissors cram echo choose
+bip_39_word_space_11: pony emerge lab parent word galaxy scissors cram echo choose
+  stay
+bip_39_word_space_12: pony emerge lab parent word galaxy scissors cram echo choose
+  stay acid
+bip_39_word_space_2: pony emerge
+bip_39_word_space_3: pony emerge lab
+bip_39_word_space_4: pony emerge lab parent
+bip_39_word_space_5: pony emerge lab parent word
+bip_39_word_space_6: pony emerge lab parent word galaxy
+bip_39_word_space_7: pony emerge lab parent word galaxy scissors
+bip_39_word_space_8: pony emerge lab parent word galaxy scissors cram
+bip_39_word_space_9: pony emerge lab parent word galaxy scissors cram echo
+bip_39_word_underscore_1: pony
+bip_39_word_underscore_10: pony_emerge_lab_parent_word_galaxy_scissors_cram_echo_choose
+bip_39_word_underscore_11: pony_emerge_lab_parent_word_galaxy_scissors_cram_echo_choose_stay
+bip_39_word_underscore_12: pony_emerge_lab_parent_word_galaxy_scissors_cram_echo_choose_stay_acid
+bip_39_word_underscore_2: pony_emerge
+bip_39_word_underscore_3: pony_emerge_lab
+bip_39_word_underscore_4: pony_emerge_lab_parent
+bip_39_word_underscore_5: pony_emerge_lab_parent_word
+bip_39_word_underscore_6: pony_emerge_lab_parent_word_galaxy
+bip_39_word_underscore_7: pony_emerge_lab_parent_word_galaxy_scissors
+bip_39_word_underscore_8: pony_emerge_lab_parent_word_galaxy_scissors_cram
+bip_39_word_underscore_9: pony_emerge_lab_parent_word_galaxy_scissors_cram_echo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_05_03_03__u_double
 id_no_color: 050303udouble
 id_no_size: 05_03_03__u_double
 id_no_type: plate_05_03_03__u_double
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_03__u_double
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_03__u_double
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_03__u_double
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2018h56
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2018h56
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2018h56
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050303Udouble
 name_no_size: 05 03 03  U Double
 name_no_size_short: 05 03 03  U Double
 name_no_type: Plate 05 03 03  U Double
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_03_03__u_double
 oomp_word: princess sandal cherries
 oomp_word_emoji: ':princess: :sandal: :cherries:'

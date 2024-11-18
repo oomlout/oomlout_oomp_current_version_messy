@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 1206 White Clear
+* name_short: 
 ### id
 * oomp_id: electronic_led_1206_white_clear
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :radio: :question: :tea:
 * md5_6_alpha: 52ppx
 * md5_6: 8213b5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2052ppx)
+[2x1](http://192.168.1.242:1112/?label=oomp%2052ppx)
+[6x4](http://192.168.1.55:1112/?label=oomp%2052ppx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white_clear)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ uncover |
 | id_no_size | white_clear |  
 | id_no_type | 1206_white_clear |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1206_white_clear |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_1206_white_clear |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2052ppx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2052ppx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2052ppx |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ uncover |
 | name_no_size | White Clear |  
 | name_no_size_short | White Clear |  
 | name_no_type | 1206 White Clear |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_1206_white_clear |  
 | oomp_word | radio question tea |  
 | oomp_word_emoji | :radio: :question: :tea: |  

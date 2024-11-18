@@ -1,3 +1,222 @@
+bip_39_word_dash_1: float
+bip_39_word_dash_10: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror
+bip_39_word_dash_11: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror-number
+bip_39_word_dash_12: float-razor-term-green-ivory-limb-observe-sell-scorpion-horror-number-aim
+bip_39_word_dash_2: float-razor
+bip_39_word_dash_3: float-razor-term
+bip_39_word_dash_4: float-razor-term-green
+bip_39_word_dash_5: float-razor-term-green-ivory
+bip_39_word_dash_6: float-razor-term-green-ivory-limb
+bip_39_word_dash_7: float-razor-term-green-ivory-limb-observe
+bip_39_word_dash_8: float-razor-term-green-ivory-limb-observe-sell
+bip_39_word_dash_9: float-razor-term-green-ivory-limb-observe-sell-scorpion
+bip_39_word_new_br_1: float
+bip_39_word_new_br_10: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion<br>horror
+bip_39_word_new_br_11: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion<br>horror<br>number
+bip_39_word_new_br_12: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion<br>horror<br>number<br>aim
+bip_39_word_new_br_2: float<br>razor
+bip_39_word_new_br_3: float<br>razor<br>term
+bip_39_word_new_br_4: float<br>razor<br>term<br>green
+bip_39_word_new_br_5: float<br>razor<br>term<br>green<br>ivory
+bip_39_word_new_br_6: float<br>razor<br>term<br>green<br>ivory<br>limb
+bip_39_word_new_br_7: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe
+bip_39_word_new_br_8: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell
+bip_39_word_new_br_9: float<br>razor<br>term<br>green<br>ivory<br>limb<br>observe<br>sell<br>scorpion
+bip_39_word_new_line_1: float
+bip_39_word_new_line_10: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe
+
+  sell
+
+  scorpion
+
+  horror'
+bip_39_word_new_line_11: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe
+
+  sell
+
+  scorpion
+
+  horror
+
+  number'
+bip_39_word_new_line_12: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe
+
+  sell
+
+  scorpion
+
+  horror
+
+  number
+
+  aim'
+bip_39_word_new_line_2: 'float
+
+  razor'
+bip_39_word_new_line_3: 'float
+
+  razor
+
+  term'
+bip_39_word_new_line_4: 'float
+
+  razor
+
+  term
+
+  green'
+bip_39_word_new_line_5: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory'
+bip_39_word_new_line_6: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb'
+bip_39_word_new_line_7: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe'
+bip_39_word_new_line_8: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe
+
+  sell'
+bip_39_word_new_line_9: 'float
+
+  razor
+
+  term
+
+  green
+
+  ivory
+
+  limb
+
+  observe
+
+  sell
+
+  scorpion'
+bip_39_word_no_space_1: float
+bip_39_word_no_space_10: floatrazortermgreenivorylimbobservesellscorpionhorror
+bip_39_word_no_space_11: floatrazortermgreenivorylimbobservesellscorpionhorrornumber
+bip_39_word_no_space_12: floatrazortermgreenivorylimbobservesellscorpionhorrornumberaim
+bip_39_word_no_space_2: floatrazor
+bip_39_word_no_space_3: floatrazorterm
+bip_39_word_no_space_4: floatrazortermgreen
+bip_39_word_no_space_5: floatrazortermgreenivory
+bip_39_word_no_space_6: floatrazortermgreenivorylimb
+bip_39_word_no_space_7: floatrazortermgreenivorylimbobserve
+bip_39_word_no_space_8: floatrazortermgreenivorylimbobservesell
+bip_39_word_no_space_9: floatrazortermgreenivorylimbobservesellscorpion
+bip_39_word_space_0:
+- float
+- razor
+- term
+- green
+- ivory
+- limb
+- observe
+- sell
+- scorpion
+- horror
+- number
+- aim
+bip_39_word_space_1: float
+bip_39_word_space_10: float razor term green ivory limb observe sell scorpion horror
+bip_39_word_space_11: float razor term green ivory limb observe sell scorpion horror
+  number
+bip_39_word_space_12: float razor term green ivory limb observe sell scorpion horror
+  number aim
+bip_39_word_space_2: float razor
+bip_39_word_space_3: float razor term
+bip_39_word_space_4: float razor term green
+bip_39_word_space_5: float razor term green ivory
+bip_39_word_space_6: float razor term green ivory limb
+bip_39_word_space_7: float razor term green ivory limb observe
+bip_39_word_space_8: float razor term green ivory limb observe sell
+bip_39_word_space_9: float razor term green ivory limb observe sell scorpion
+bip_39_word_underscore_1: float
+bip_39_word_underscore_10: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror
+bip_39_word_underscore_11: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror_number
+bip_39_word_underscore_12: float_razor_term_green_ivory_limb_observe_sell_scorpion_horror_number_aim
+bip_39_word_underscore_2: float_razor
+bip_39_word_underscore_3: float_razor_term
+bip_39_word_underscore_4: float_razor_term_green
+bip_39_word_underscore_5: float_razor_term_green_ivory
+bip_39_word_underscore_6: float_razor_term_green_ivory_limb
+bip_39_word_underscore_7: float_razor_term_green_ivory_limb_observe
+bip_39_word_underscore_8: float_razor_term_green_ivory_limb_observe_sell
+bip_39_word_underscore_9: float_razor_term_green_ivory_limb_observe_sell_scorpion
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6817
 id_no_color: hardware6817
 id_no_size: hardware_6817
 id_no_type: bearing_hardware_bearing_6817
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6817
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6817
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6817
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bniz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bniz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bniz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6817
 name_no_size: Hardware 6817
 name_no_size_short: Hardware 6k8
 name_no_type: Bearing Hardware Bearing 6817
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6817
 oomp_word: dolphin zap tent
 oomp_word_emoji: ':dolphin: :zap: :tent:'

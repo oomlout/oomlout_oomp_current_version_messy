@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 01 06  30 Teeth Sh Motor Tt 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
   * classification: oobb

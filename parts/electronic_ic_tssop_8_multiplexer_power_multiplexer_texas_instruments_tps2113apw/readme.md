@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+* name_short: 
 ### id
 * oomp_id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
   * classification: electronic

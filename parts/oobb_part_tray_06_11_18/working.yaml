@@ -1,3 +1,223 @@
+bip_39_word_dash_1: parade
+bip_39_word_dash_10: parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture
+bip_39_word_dash_11: parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture-squeeze
+bip_39_word_dash_12: parade-pool-alley-fossil-disease-assume-relax-absurd-review-venture-squeeze-amateur
+bip_39_word_dash_2: parade-pool
+bip_39_word_dash_3: parade-pool-alley
+bip_39_word_dash_4: parade-pool-alley-fossil
+bip_39_word_dash_5: parade-pool-alley-fossil-disease
+bip_39_word_dash_6: parade-pool-alley-fossil-disease-assume
+bip_39_word_dash_7: parade-pool-alley-fossil-disease-assume-relax
+bip_39_word_dash_8: parade-pool-alley-fossil-disease-assume-relax-absurd
+bip_39_word_dash_9: parade-pool-alley-fossil-disease-assume-relax-absurd-review
+bip_39_word_new_br_1: parade
+bip_39_word_new_br_10: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture
+bip_39_word_new_br_11: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture<br>squeeze
+bip_39_word_new_br_12: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review<br>venture<br>squeeze<br>amateur
+bip_39_word_new_br_2: parade<br>pool
+bip_39_word_new_br_3: parade<br>pool<br>alley
+bip_39_word_new_br_4: parade<br>pool<br>alley<br>fossil
+bip_39_word_new_br_5: parade<br>pool<br>alley<br>fossil<br>disease
+bip_39_word_new_br_6: parade<br>pool<br>alley<br>fossil<br>disease<br>assume
+bip_39_word_new_br_7: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax
+bip_39_word_new_br_8: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd
+bip_39_word_new_br_9: parade<br>pool<br>alley<br>fossil<br>disease<br>assume<br>relax<br>absurd<br>review
+bip_39_word_new_line_1: parade
+bip_39_word_new_line_10: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax
+
+  absurd
+
+  review
+
+  venture'
+bip_39_word_new_line_11: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax
+
+  absurd
+
+  review
+
+  venture
+
+  squeeze'
+bip_39_word_new_line_12: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax
+
+  absurd
+
+  review
+
+  venture
+
+  squeeze
+
+  amateur'
+bip_39_word_new_line_2: 'parade
+
+  pool'
+bip_39_word_new_line_3: 'parade
+
+  pool
+
+  alley'
+bip_39_word_new_line_4: 'parade
+
+  pool
+
+  alley
+
+  fossil'
+bip_39_word_new_line_5: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease'
+bip_39_word_new_line_6: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume'
+bip_39_word_new_line_7: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax'
+bip_39_word_new_line_8: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax
+
+  absurd'
+bip_39_word_new_line_9: 'parade
+
+  pool
+
+  alley
+
+  fossil
+
+  disease
+
+  assume
+
+  relax
+
+  absurd
+
+  review'
+bip_39_word_no_space_1: parade
+bip_39_word_no_space_10: paradepoolalleyfossildiseaseassumerelaxabsurdreviewventure
+bip_39_word_no_space_11: paradepoolalleyfossildiseaseassumerelaxabsurdreviewventuresqueeze
+bip_39_word_no_space_12: paradepoolalleyfossildiseaseassumerelaxabsurdreviewventuresqueezeamateur
+bip_39_word_no_space_2: paradepool
+bip_39_word_no_space_3: paradepoolalley
+bip_39_word_no_space_4: paradepoolalleyfossil
+bip_39_word_no_space_5: paradepoolalleyfossildisease
+bip_39_word_no_space_6: paradepoolalleyfossildiseaseassume
+bip_39_word_no_space_7: paradepoolalleyfossildiseaseassumerelax
+bip_39_word_no_space_8: paradepoolalleyfossildiseaseassumerelaxabsurd
+bip_39_word_no_space_9: paradepoolalleyfossildiseaseassumerelaxabsurdreview
+bip_39_word_space_0:
+- parade
+- pool
+- alley
+- fossil
+- disease
+- assume
+- relax
+- absurd
+- review
+- venture
+- squeeze
+- amateur
+bip_39_word_space_1: parade
+bip_39_word_space_10: parade pool alley fossil disease assume relax absurd review
+  venture
+bip_39_word_space_11: parade pool alley fossil disease assume relax absurd review
+  venture squeeze
+bip_39_word_space_12: parade pool alley fossil disease assume relax absurd review
+  venture squeeze amateur
+bip_39_word_space_2: parade pool
+bip_39_word_space_3: parade pool alley
+bip_39_word_space_4: parade pool alley fossil
+bip_39_word_space_5: parade pool alley fossil disease
+bip_39_word_space_6: parade pool alley fossil disease assume
+bip_39_word_space_7: parade pool alley fossil disease assume relax
+bip_39_word_space_8: parade pool alley fossil disease assume relax absurd
+bip_39_word_space_9: parade pool alley fossil disease assume relax absurd review
+bip_39_word_underscore_1: parade
+bip_39_word_underscore_10: parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture
+bip_39_word_underscore_11: parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture_squeeze
+bip_39_word_underscore_12: parade_pool_alley_fossil_disease_assume_relax_absurd_review_venture_squeeze_amateur
+bip_39_word_underscore_2: parade_pool
+bip_39_word_underscore_3: parade_pool_alley
+bip_39_word_underscore_4: parade_pool_alley_fossil
+bip_39_word_underscore_5: parade_pool_alley_fossil_disease
+bip_39_word_underscore_6: parade_pool_alley_fossil_disease_assume
+bip_39_word_underscore_7: parade_pool_alley_fossil_disease_assume_relax
+bip_39_word_underscore_8: parade_pool_alley_fossil_disease_assume_relax_absurd
+bip_39_word_underscore_9: parade_pool_alley_fossil_disease_assume_relax_absurd_review
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_06_11_18
 id_no_color: 061118
 id_no_size: 06_11_18
 id_no_type: tray_06_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204tovw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204tovw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204tovw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 061118
 name_no_size: 06 11 18
 name_no_size_short: 06 11 18
 name_no_type: Tray 06 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_11_18
 oomp_word: computer guitar pig
 oomp_word_emoji: ':computer: :guitar: :pig:'

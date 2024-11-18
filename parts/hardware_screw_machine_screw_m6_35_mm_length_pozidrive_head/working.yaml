@@ -1,3 +1,222 @@
+bip_39_word_dash_1: casino
+bip_39_word_dash_10: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow
+bip_39_word_dash_11: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow-library
+bip_39_word_dash_12: casino-spider-cable-side-raven-sting-mean-arrive-bargain-tomorrow-library-amazing
+bip_39_word_dash_2: casino-spider
+bip_39_word_dash_3: casino-spider-cable
+bip_39_word_dash_4: casino-spider-cable-side
+bip_39_word_dash_5: casino-spider-cable-side-raven
+bip_39_word_dash_6: casino-spider-cable-side-raven-sting
+bip_39_word_dash_7: casino-spider-cable-side-raven-sting-mean
+bip_39_word_dash_8: casino-spider-cable-side-raven-sting-mean-arrive
+bip_39_word_dash_9: casino-spider-cable-side-raven-sting-mean-arrive-bargain
+bip_39_word_new_br_1: casino
+bip_39_word_new_br_10: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow
+bip_39_word_new_br_11: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow<br>library
+bip_39_word_new_br_12: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain<br>tomorrow<br>library<br>amazing
+bip_39_word_new_br_2: casino<br>spider
+bip_39_word_new_br_3: casino<br>spider<br>cable
+bip_39_word_new_br_4: casino<br>spider<br>cable<br>side
+bip_39_word_new_br_5: casino<br>spider<br>cable<br>side<br>raven
+bip_39_word_new_br_6: casino<br>spider<br>cable<br>side<br>raven<br>sting
+bip_39_word_new_br_7: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean
+bip_39_word_new_br_8: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive
+bip_39_word_new_br_9: casino<br>spider<br>cable<br>side<br>raven<br>sting<br>mean<br>arrive<br>bargain
+bip_39_word_new_line_1: casino
+bip_39_word_new_line_10: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean
+
+  arrive
+
+  bargain
+
+  tomorrow'
+bip_39_word_new_line_11: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean
+
+  arrive
+
+  bargain
+
+  tomorrow
+
+  library'
+bip_39_word_new_line_12: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean
+
+  arrive
+
+  bargain
+
+  tomorrow
+
+  library
+
+  amazing'
+bip_39_word_new_line_2: 'casino
+
+  spider'
+bip_39_word_new_line_3: 'casino
+
+  spider
+
+  cable'
+bip_39_word_new_line_4: 'casino
+
+  spider
+
+  cable
+
+  side'
+bip_39_word_new_line_5: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven'
+bip_39_word_new_line_6: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting'
+bip_39_word_new_line_7: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean'
+bip_39_word_new_line_8: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean
+
+  arrive'
+bip_39_word_new_line_9: 'casino
+
+  spider
+
+  cable
+
+  side
+
+  raven
+
+  sting
+
+  mean
+
+  arrive
+
+  bargain'
+bip_39_word_no_space_1: casino
+bip_39_word_no_space_10: casinospidercablesideravenstingmeanarrivebargaintomorrow
+bip_39_word_no_space_11: casinospidercablesideravenstingmeanarrivebargaintomorrowlibrary
+bip_39_word_no_space_12: casinospidercablesideravenstingmeanarrivebargaintomorrowlibraryamazing
+bip_39_word_no_space_2: casinospider
+bip_39_word_no_space_3: casinospidercable
+bip_39_word_no_space_4: casinospidercableside
+bip_39_word_no_space_5: casinospidercablesideraven
+bip_39_word_no_space_6: casinospidercablesideravensting
+bip_39_word_no_space_7: casinospidercablesideravenstingmean
+bip_39_word_no_space_8: casinospidercablesideravenstingmeanarrive
+bip_39_word_no_space_9: casinospidercablesideravenstingmeanarrivebargain
+bip_39_word_space_0:
+- casino
+- spider
+- cable
+- side
+- raven
+- sting
+- mean
+- arrive
+- bargain
+- tomorrow
+- library
+- amazing
+bip_39_word_space_1: casino
+bip_39_word_space_10: casino spider cable side raven sting mean arrive bargain tomorrow
+bip_39_word_space_11: casino spider cable side raven sting mean arrive bargain tomorrow
+  library
+bip_39_word_space_12: casino spider cable side raven sting mean arrive bargain tomorrow
+  library amazing
+bip_39_word_space_2: casino spider
+bip_39_word_space_3: casino spider cable
+bip_39_word_space_4: casino spider cable side
+bip_39_word_space_5: casino spider cable side raven
+bip_39_word_space_6: casino spider cable side raven sting
+bip_39_word_space_7: casino spider cable side raven sting mean
+bip_39_word_space_8: casino spider cable side raven sting mean arrive
+bip_39_word_space_9: casino spider cable side raven sting mean arrive bargain
+bip_39_word_underscore_1: casino
+bip_39_word_underscore_10: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow
+bip_39_word_underscore_11: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow_library
+bip_39_word_underscore_12: casino_spider_cable_side_raven_sting_mean_arrive_bargain_tomorrow_library_amazing
+bip_39_word_underscore_2: casino_spider
+bip_39_word_underscore_3: casino_spider_cable
+bip_39_word_underscore_4: casino_spider_cable_side
+bip_39_word_underscore_5: casino_spider_cable_side_raven
+bip_39_word_underscore_6: casino_spider_cable_side_raven_sting
+bip_39_word_underscore_7: casino_spider_cable_side_raven_sting_mean
+bip_39_word_underscore_8: casino_spider_cable_side_raven_sting_mean_arrive
+bip_39_word_underscore_9: casino_spider_cable_side_raven_sting_mean_arrive_bargain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -109,7 +328,14 @@ id_no_color: 35mmlengthpozidrivehead
 id_no_size: 35_mm_length_pozidrive_head
 id_no_type: m6_35_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_35_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m6_35_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m6_35_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204vlfd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204vlfd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204vlfd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,9 @@ name_no_color: 35mmlengthpozidrivehead
 name_no_size: 35 mm Length Pozidrive Head
 name_no_size_short: 35 Mm Length Pozidrive Head
 name_no_type: M6 35 mm Length Pozidrive Head
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ms6m35pz
+oomlout_short_code_upper: MS6M35PZ
 oomp_key: oomp_hardware_screw_machine_screw_m6_35_mm_length_pozidrive_head
 oomp_word: phone blush tiger
 oomp_word_emoji: ':phone: :blush: :tiger:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm 2 Pin Through Hole Short
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_2_pin_through_hole_short
   * classification: electronic

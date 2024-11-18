@@ -1,3 +1,221 @@
+bip_39_word_dash_1: twice
+bip_39_word_dash_10: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote
+bip_39_word_dash_11: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote-crater
+bip_39_word_dash_12: twice-dish-chimney-dust-pact-must-noodle-place-coin-devote-crater-auto
+bip_39_word_dash_2: twice-dish
+bip_39_word_dash_3: twice-dish-chimney
+bip_39_word_dash_4: twice-dish-chimney-dust
+bip_39_word_dash_5: twice-dish-chimney-dust-pact
+bip_39_word_dash_6: twice-dish-chimney-dust-pact-must
+bip_39_word_dash_7: twice-dish-chimney-dust-pact-must-noodle
+bip_39_word_dash_8: twice-dish-chimney-dust-pact-must-noodle-place
+bip_39_word_dash_9: twice-dish-chimney-dust-pact-must-noodle-place-coin
+bip_39_word_new_br_1: twice
+bip_39_word_new_br_10: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote
+bip_39_word_new_br_11: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote<br>crater
+bip_39_word_new_br_12: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin<br>devote<br>crater<br>auto
+bip_39_word_new_br_2: twice<br>dish
+bip_39_word_new_br_3: twice<br>dish<br>chimney
+bip_39_word_new_br_4: twice<br>dish<br>chimney<br>dust
+bip_39_word_new_br_5: twice<br>dish<br>chimney<br>dust<br>pact
+bip_39_word_new_br_6: twice<br>dish<br>chimney<br>dust<br>pact<br>must
+bip_39_word_new_br_7: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle
+bip_39_word_new_br_8: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place
+bip_39_word_new_br_9: twice<br>dish<br>chimney<br>dust<br>pact<br>must<br>noodle<br>place<br>coin
+bip_39_word_new_line_1: twice
+bip_39_word_new_line_10: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle
+
+  place
+
+  coin
+
+  devote'
+bip_39_word_new_line_11: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle
+
+  place
+
+  coin
+
+  devote
+
+  crater'
+bip_39_word_new_line_12: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle
+
+  place
+
+  coin
+
+  devote
+
+  crater
+
+  auto'
+bip_39_word_new_line_2: 'twice
+
+  dish'
+bip_39_word_new_line_3: 'twice
+
+  dish
+
+  chimney'
+bip_39_word_new_line_4: 'twice
+
+  dish
+
+  chimney
+
+  dust'
+bip_39_word_new_line_5: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact'
+bip_39_word_new_line_6: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must'
+bip_39_word_new_line_7: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle'
+bip_39_word_new_line_8: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle
+
+  place'
+bip_39_word_new_line_9: 'twice
+
+  dish
+
+  chimney
+
+  dust
+
+  pact
+
+  must
+
+  noodle
+
+  place
+
+  coin'
+bip_39_word_no_space_1: twice
+bip_39_word_no_space_10: twicedishchimneydustpactmustnoodleplacecoindevote
+bip_39_word_no_space_11: twicedishchimneydustpactmustnoodleplacecoindevotecrater
+bip_39_word_no_space_12: twicedishchimneydustpactmustnoodleplacecoindevotecraterauto
+bip_39_word_no_space_2: twicedish
+bip_39_word_no_space_3: twicedishchimney
+bip_39_word_no_space_4: twicedishchimneydust
+bip_39_word_no_space_5: twicedishchimneydustpact
+bip_39_word_no_space_6: twicedishchimneydustpactmust
+bip_39_word_no_space_7: twicedishchimneydustpactmustnoodle
+bip_39_word_no_space_8: twicedishchimneydustpactmustnoodleplace
+bip_39_word_no_space_9: twicedishchimneydustpactmustnoodleplacecoin
+bip_39_word_space_0:
+- twice
+- dish
+- chimney
+- dust
+- pact
+- must
+- noodle
+- place
+- coin
+- devote
+- crater
+- auto
+bip_39_word_space_1: twice
+bip_39_word_space_10: twice dish chimney dust pact must noodle place coin devote
+bip_39_word_space_11: twice dish chimney dust pact must noodle place coin devote crater
+bip_39_word_space_12: twice dish chimney dust pact must noodle place coin devote crater
+  auto
+bip_39_word_space_2: twice dish
+bip_39_word_space_3: twice dish chimney
+bip_39_word_space_4: twice dish chimney dust
+bip_39_word_space_5: twice dish chimney dust pact
+bip_39_word_space_6: twice dish chimney dust pact must
+bip_39_word_space_7: twice dish chimney dust pact must noodle
+bip_39_word_space_8: twice dish chimney dust pact must noodle place
+bip_39_word_space_9: twice dish chimney dust pact must noodle place coin
+bip_39_word_underscore_1: twice
+bip_39_word_underscore_10: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote
+bip_39_word_underscore_11: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote_crater
+bip_39_word_underscore_12: twice_dish_chimney_dust_pact_must_noodle_place_coin_devote_crater_auto
+bip_39_word_underscore_2: twice_dish
+bip_39_word_underscore_3: twice_dish_chimney
+bip_39_word_underscore_4: twice_dish_chimney_dust
+bip_39_word_underscore_5: twice_dish_chimney_dust_pact
+bip_39_word_underscore_6: twice_dish_chimney_dust_pact_must
+bip_39_word_underscore_7: twice_dish_chimney_dust_pact_must_noodle
+bip_39_word_underscore_8: twice_dish_chimney_dust_pact_must_noodle_place
+bip_39_word_underscore_9: twice_dish_chimney_dust_pact_must_noodle_place_coin
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -118,7 +336,14 @@ id_no_color: 3pinsurfacemountrightangle
 id_no_size: 3_pin_surface_mount_right_angle
 id_no_type: 1_mm_jst_sh_3_pin_surface_mount_right_angle
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209owsv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209owsv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209owsv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +375,7 @@ name_no_color: 3Pinsurfacemountrightangle
 name_no_size: 3 Pin Surface Mount Right Angle
 name_no_size_short: 3 Pin Surface Mount Right Angle
 name_no_type: 1 mm Jst Sh 3 Pin Surface Mount Right Angle
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_1_mm_jst_sh_3_pin_surface_mount_right_angle
 oomp_word: seven maple_leaf sparkles
 oomp_word_emoji: ':seven: :maple_leaf: :sparkles:'

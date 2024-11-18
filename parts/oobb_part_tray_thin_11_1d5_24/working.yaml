@@ -1,3 +1,222 @@
+bip_39_word_dash_1: logic
+bip_39_word_dash_10: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus
+bip_39_word_dash_11: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus-duck
+bip_39_word_dash_12: logic-hover-swarm-wage-case-skirt-common-pepper-inflict-virus-duck-anchor
+bip_39_word_dash_2: logic-hover
+bip_39_word_dash_3: logic-hover-swarm
+bip_39_word_dash_4: logic-hover-swarm-wage
+bip_39_word_dash_5: logic-hover-swarm-wage-case
+bip_39_word_dash_6: logic-hover-swarm-wage-case-skirt
+bip_39_word_dash_7: logic-hover-swarm-wage-case-skirt-common
+bip_39_word_dash_8: logic-hover-swarm-wage-case-skirt-common-pepper
+bip_39_word_dash_9: logic-hover-swarm-wage-case-skirt-common-pepper-inflict
+bip_39_word_new_br_1: logic
+bip_39_word_new_br_10: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus
+bip_39_word_new_br_11: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck
+bip_39_word_new_br_12: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict<br>virus<br>duck<br>anchor
+bip_39_word_new_br_2: logic<br>hover
+bip_39_word_new_br_3: logic<br>hover<br>swarm
+bip_39_word_new_br_4: logic<br>hover<br>swarm<br>wage
+bip_39_word_new_br_5: logic<br>hover<br>swarm<br>wage<br>case
+bip_39_word_new_br_6: logic<br>hover<br>swarm<br>wage<br>case<br>skirt
+bip_39_word_new_br_7: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common
+bip_39_word_new_br_8: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper
+bip_39_word_new_br_9: logic<br>hover<br>swarm<br>wage<br>case<br>skirt<br>common<br>pepper<br>inflict
+bip_39_word_new_line_1: logic
+bip_39_word_new_line_10: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common
+
+  pepper
+
+  inflict
+
+  virus'
+bip_39_word_new_line_11: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common
+
+  pepper
+
+  inflict
+
+  virus
+
+  duck'
+bip_39_word_new_line_12: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common
+
+  pepper
+
+  inflict
+
+  virus
+
+  duck
+
+  anchor'
+bip_39_word_new_line_2: 'logic
+
+  hover'
+bip_39_word_new_line_3: 'logic
+
+  hover
+
+  swarm'
+bip_39_word_new_line_4: 'logic
+
+  hover
+
+  swarm
+
+  wage'
+bip_39_word_new_line_5: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case'
+bip_39_word_new_line_6: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt'
+bip_39_word_new_line_7: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common'
+bip_39_word_new_line_8: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common
+
+  pepper'
+bip_39_word_new_line_9: 'logic
+
+  hover
+
+  swarm
+
+  wage
+
+  case
+
+  skirt
+
+  common
+
+  pepper
+
+  inflict'
+bip_39_word_no_space_1: logic
+bip_39_word_no_space_10: logichoverswarmwagecaseskirtcommonpepperinflictvirus
+bip_39_word_no_space_11: logichoverswarmwagecaseskirtcommonpepperinflictvirusduck
+bip_39_word_no_space_12: logichoverswarmwagecaseskirtcommonpepperinflictvirusduckanchor
+bip_39_word_no_space_2: logichover
+bip_39_word_no_space_3: logichoverswarm
+bip_39_word_no_space_4: logichoverswarmwage
+bip_39_word_no_space_5: logichoverswarmwagecase
+bip_39_word_no_space_6: logichoverswarmwagecaseskirt
+bip_39_word_no_space_7: logichoverswarmwagecaseskirtcommon
+bip_39_word_no_space_8: logichoverswarmwagecaseskirtcommonpepper
+bip_39_word_no_space_9: logichoverswarmwagecaseskirtcommonpepperinflict
+bip_39_word_space_0:
+- logic
+- hover
+- swarm
+- wage
+- case
+- skirt
+- common
+- pepper
+- inflict
+- virus
+- duck
+- anchor
+bip_39_word_space_1: logic
+bip_39_word_space_10: logic hover swarm wage case skirt common pepper inflict virus
+bip_39_word_space_11: logic hover swarm wage case skirt common pepper inflict virus
+  duck
+bip_39_word_space_12: logic hover swarm wage case skirt common pepper inflict virus
+  duck anchor
+bip_39_word_space_2: logic hover
+bip_39_word_space_3: logic hover swarm
+bip_39_word_space_4: logic hover swarm wage
+bip_39_word_space_5: logic hover swarm wage case
+bip_39_word_space_6: logic hover swarm wage case skirt
+bip_39_word_space_7: logic hover swarm wage case skirt common
+bip_39_word_space_8: logic hover swarm wage case skirt common pepper
+bip_39_word_space_9: logic hover swarm wage case skirt common pepper inflict
+bip_39_word_underscore_1: logic
+bip_39_word_underscore_10: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus
+bip_39_word_underscore_11: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus_duck
+bip_39_word_underscore_12: logic_hover_swarm_wage_case_skirt_common_pepper_inflict_virus_duck_anchor
+bip_39_word_underscore_2: logic_hover
+bip_39_word_underscore_3: logic_hover_swarm
+bip_39_word_underscore_4: logic_hover_swarm_wage
+bip_39_word_underscore_5: logic_hover_swarm_wage_case
+bip_39_word_underscore_6: logic_hover_swarm_wage_case_skirt
+bip_39_word_underscore_7: logic_hover_swarm_wage_case_skirt_common
+bip_39_word_underscore_8: logic_hover_swarm_wage_case_skirt_common_pepper
+bip_39_word_underscore_9: logic_hover_swarm_wage_case_skirt_common_pepper_inflict
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_1d5_24
 id_no_color: 111d524
 id_no_size: 11_1d5_24
 id_no_type: tray_thin_11_1d5_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2058ywt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2058ywt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2058ywt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 111D524
 name_no_size: 11 1D5 24
 name_no_size_short: 11 1D5 24
 name_no_type: Tray Thin 11 1D5 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_1d5_24
 oomp_word: bath toilet rice
 oomp_word_emoji: ':bath: :toilet: :rice:'

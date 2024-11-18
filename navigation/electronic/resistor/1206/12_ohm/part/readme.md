@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 1206 12 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_1206_12_ohm
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :kissing: :truck: :taxi:
 * md5_6_alpha: 8c8c
 * md5_6: 05efec
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208c8c)
+[2x1](http://192.168.1.242:1112/?label=oomp%208c8c)
+[6x4](http://192.168.1.55:1112/?label=oomp%208c8c)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_12_ohm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12_ohm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ nephew |
 | id_no_size | 12_ohm |  
 | id_no_type | 1206_12_ohm |  
 | kicad_reference | R |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_12_ohm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_12_ohm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_12_ohm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208c8c |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208c8c |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208c8c |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ nephew |
 | name_no_size | 12 Ohm |  
 | name_no_size_short | 12 Ohm |  
 | name_no_type | 1206 12 Ohm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_1206_12_ohm |  
 | oomp_word | kissing truck taxi |  
 | oomp_word_emoji | :kissing: :truck: :taxi: |  

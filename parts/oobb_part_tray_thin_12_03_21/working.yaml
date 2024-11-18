@@ -1,3 +1,222 @@
+bip_39_word_dash_1: canoe
+bip_39_word_dash_10: canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel
+bip_39_word_dash_11: canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel-satoshi
+bip_39_word_dash_12: canoe-card-transfer-high-betray-lizard-glare-term-tooth-barrel-satoshi-album
+bip_39_word_dash_2: canoe-card
+bip_39_word_dash_3: canoe-card-transfer
+bip_39_word_dash_4: canoe-card-transfer-high
+bip_39_word_dash_5: canoe-card-transfer-high-betray
+bip_39_word_dash_6: canoe-card-transfer-high-betray-lizard
+bip_39_word_dash_7: canoe-card-transfer-high-betray-lizard-glare
+bip_39_word_dash_8: canoe-card-transfer-high-betray-lizard-glare-term
+bip_39_word_dash_9: canoe-card-transfer-high-betray-lizard-glare-term-tooth
+bip_39_word_new_br_1: canoe
+bip_39_word_new_br_10: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel
+bip_39_word_new_br_11: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel<br>satoshi
+bip_39_word_new_br_12: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth<br>barrel<br>satoshi<br>album
+bip_39_word_new_br_2: canoe<br>card
+bip_39_word_new_br_3: canoe<br>card<br>transfer
+bip_39_word_new_br_4: canoe<br>card<br>transfer<br>high
+bip_39_word_new_br_5: canoe<br>card<br>transfer<br>high<br>betray
+bip_39_word_new_br_6: canoe<br>card<br>transfer<br>high<br>betray<br>lizard
+bip_39_word_new_br_7: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare
+bip_39_word_new_br_8: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term
+bip_39_word_new_br_9: canoe<br>card<br>transfer<br>high<br>betray<br>lizard<br>glare<br>term<br>tooth
+bip_39_word_new_line_1: canoe
+bip_39_word_new_line_10: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare
+
+  term
+
+  tooth
+
+  barrel'
+bip_39_word_new_line_11: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare
+
+  term
+
+  tooth
+
+  barrel
+
+  satoshi'
+bip_39_word_new_line_12: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare
+
+  term
+
+  tooth
+
+  barrel
+
+  satoshi
+
+  album'
+bip_39_word_new_line_2: 'canoe
+
+  card'
+bip_39_word_new_line_3: 'canoe
+
+  card
+
+  transfer'
+bip_39_word_new_line_4: 'canoe
+
+  card
+
+  transfer
+
+  high'
+bip_39_word_new_line_5: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray'
+bip_39_word_new_line_6: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard'
+bip_39_word_new_line_7: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare'
+bip_39_word_new_line_8: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare
+
+  term'
+bip_39_word_new_line_9: 'canoe
+
+  card
+
+  transfer
+
+  high
+
+  betray
+
+  lizard
+
+  glare
+
+  term
+
+  tooth'
+bip_39_word_no_space_1: canoe
+bip_39_word_no_space_10: canoecardtransferhighbetraylizardglaretermtoothbarrel
+bip_39_word_no_space_11: canoecardtransferhighbetraylizardglaretermtoothbarrelsatoshi
+bip_39_word_no_space_12: canoecardtransferhighbetraylizardglaretermtoothbarrelsatoshialbum
+bip_39_word_no_space_2: canoecard
+bip_39_word_no_space_3: canoecardtransfer
+bip_39_word_no_space_4: canoecardtransferhigh
+bip_39_word_no_space_5: canoecardtransferhighbetray
+bip_39_word_no_space_6: canoecardtransferhighbetraylizard
+bip_39_word_no_space_7: canoecardtransferhighbetraylizardglare
+bip_39_word_no_space_8: canoecardtransferhighbetraylizardglareterm
+bip_39_word_no_space_9: canoecardtransferhighbetraylizardglaretermtooth
+bip_39_word_space_0:
+- canoe
+- card
+- transfer
+- high
+- betray
+- lizard
+- glare
+- term
+- tooth
+- barrel
+- satoshi
+- album
+bip_39_word_space_1: canoe
+bip_39_word_space_10: canoe card transfer high betray lizard glare term tooth barrel
+bip_39_word_space_11: canoe card transfer high betray lizard glare term tooth barrel
+  satoshi
+bip_39_word_space_12: canoe card transfer high betray lizard glare term tooth barrel
+  satoshi album
+bip_39_word_space_2: canoe card
+bip_39_word_space_3: canoe card transfer
+bip_39_word_space_4: canoe card transfer high
+bip_39_word_space_5: canoe card transfer high betray
+bip_39_word_space_6: canoe card transfer high betray lizard
+bip_39_word_space_7: canoe card transfer high betray lizard glare
+bip_39_word_space_8: canoe card transfer high betray lizard glare term
+bip_39_word_space_9: canoe card transfer high betray lizard glare term tooth
+bip_39_word_underscore_1: canoe
+bip_39_word_underscore_10: canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel
+bip_39_word_underscore_11: canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel_satoshi
+bip_39_word_underscore_12: canoe_card_transfer_high_betray_lizard_glare_term_tooth_barrel_satoshi_album
+bip_39_word_underscore_2: canoe_card
+bip_39_word_underscore_3: canoe_card_transfer
+bip_39_word_underscore_4: canoe_card_transfer_high
+bip_39_word_underscore_5: canoe_card_transfer_high_betray
+bip_39_word_underscore_6: canoe_card_transfer_high_betray_lizard
+bip_39_word_underscore_7: canoe_card_transfer_high_betray_lizard_glare
+bip_39_word_underscore_8: canoe_card_transfer_high_betray_lizard_glare_term
+bip_39_word_underscore_9: canoe_card_transfer_high_betray_lizard_glare_term_tooth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_03_21
 id_no_color: '120321'
 id_no_size: '12_03_21'
 id_no_type: tray_thin_12_03_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_03_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_03_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_03_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203q4zo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203q4zo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203q4zo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120321'
 name_no_size: 12 03 21
 name_no_size_short: 12 03 21
 name_no_type: Tray Thin 12 03 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_03_21
 oomp_word: leopard fax cookie
 oomp_word_emoji: ':leopard: :fax: :cookie:'

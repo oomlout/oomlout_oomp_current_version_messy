@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6910 Size 50 mm ID 72 mm OD 12 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6910_size_50_mm_id_72_mm_od_12_mm_depth
   * classification: hardware

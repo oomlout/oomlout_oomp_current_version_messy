@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 03 01 14  Ninety Degree
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_03_01_14__ninety_degree
   * classification: oobb

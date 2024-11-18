@@ -1,3 +1,223 @@
+bip_39_word_dash_1: kangaroo
+bip_39_word_dash_10: kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger
+bip_39_word_dash_11: kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger-actual
+bip_39_word_dash_12: kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session-anger-actual-air
+bip_39_word_dash_2: kangaroo-tourist
+bip_39_word_dash_3: kangaroo-tourist-custom
+bip_39_word_dash_4: kangaroo-tourist-custom-fog
+bip_39_word_dash_5: kangaroo-tourist-custom-fog-leaf
+bip_39_word_dash_6: kangaroo-tourist-custom-fog-leaf-coral
+bip_39_word_dash_7: kangaroo-tourist-custom-fog-leaf-coral-reflect
+bip_39_word_dash_8: kangaroo-tourist-custom-fog-leaf-coral-reflect-friend
+bip_39_word_dash_9: kangaroo-tourist-custom-fog-leaf-coral-reflect-friend-session
+bip_39_word_new_br_1: kangaroo
+bip_39_word_new_br_10: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger
+bip_39_word_new_br_11: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual
+bip_39_word_new_br_12: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session<br>anger<br>actual<br>air
+bip_39_word_new_br_2: kangaroo<br>tourist
+bip_39_word_new_br_3: kangaroo<br>tourist<br>custom
+bip_39_word_new_br_4: kangaroo<br>tourist<br>custom<br>fog
+bip_39_word_new_br_5: kangaroo<br>tourist<br>custom<br>fog<br>leaf
+bip_39_word_new_br_6: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral
+bip_39_word_new_br_7: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect
+bip_39_word_new_br_8: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend
+bip_39_word_new_br_9: kangaroo<br>tourist<br>custom<br>fog<br>leaf<br>coral<br>reflect<br>friend<br>session
+bip_39_word_new_line_1: kangaroo
+bip_39_word_new_line_10: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect
+
+  friend
+
+  session
+
+  anger'
+bip_39_word_new_line_11: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect
+
+  friend
+
+  session
+
+  anger
+
+  actual'
+bip_39_word_new_line_12: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect
+
+  friend
+
+  session
+
+  anger
+
+  actual
+
+  air'
+bip_39_word_new_line_2: 'kangaroo
+
+  tourist'
+bip_39_word_new_line_3: 'kangaroo
+
+  tourist
+
+  custom'
+bip_39_word_new_line_4: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog'
+bip_39_word_new_line_5: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf'
+bip_39_word_new_line_6: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral'
+bip_39_word_new_line_7: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect'
+bip_39_word_new_line_8: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect
+
+  friend'
+bip_39_word_new_line_9: 'kangaroo
+
+  tourist
+
+  custom
+
+  fog
+
+  leaf
+
+  coral
+
+  reflect
+
+  friend
+
+  session'
+bip_39_word_no_space_1: kangaroo
+bip_39_word_no_space_10: kangarootouristcustomfogleafcoralreflectfriendsessionanger
+bip_39_word_no_space_11: kangarootouristcustomfogleafcoralreflectfriendsessionangeractual
+bip_39_word_no_space_12: kangarootouristcustomfogleafcoralreflectfriendsessionangeractualair
+bip_39_word_no_space_2: kangarootourist
+bip_39_word_no_space_3: kangarootouristcustom
+bip_39_word_no_space_4: kangarootouristcustomfog
+bip_39_word_no_space_5: kangarootouristcustomfogleaf
+bip_39_word_no_space_6: kangarootouristcustomfogleafcoral
+bip_39_word_no_space_7: kangarootouristcustomfogleafcoralreflect
+bip_39_word_no_space_8: kangarootouristcustomfogleafcoralreflectfriend
+bip_39_word_no_space_9: kangarootouristcustomfogleafcoralreflectfriendsession
+bip_39_word_space_0:
+- kangaroo
+- tourist
+- custom
+- fog
+- leaf
+- coral
+- reflect
+- friend
+- session
+- anger
+- actual
+- air
+bip_39_word_space_1: kangaroo
+bip_39_word_space_10: kangaroo tourist custom fog leaf coral reflect friend session
+  anger
+bip_39_word_space_11: kangaroo tourist custom fog leaf coral reflect friend session
+  anger actual
+bip_39_word_space_12: kangaroo tourist custom fog leaf coral reflect friend session
+  anger actual air
+bip_39_word_space_2: kangaroo tourist
+bip_39_word_space_3: kangaroo tourist custom
+bip_39_word_space_4: kangaroo tourist custom fog
+bip_39_word_space_5: kangaroo tourist custom fog leaf
+bip_39_word_space_6: kangaroo tourist custom fog leaf coral
+bip_39_word_space_7: kangaroo tourist custom fog leaf coral reflect
+bip_39_word_space_8: kangaroo tourist custom fog leaf coral reflect friend
+bip_39_word_space_9: kangaroo tourist custom fog leaf coral reflect friend session
+bip_39_word_underscore_1: kangaroo
+bip_39_word_underscore_10: kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger
+bip_39_word_underscore_11: kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger_actual
+bip_39_word_underscore_12: kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session_anger_actual_air
+bip_39_word_underscore_2: kangaroo_tourist
+bip_39_word_underscore_3: kangaroo_tourist_custom
+bip_39_word_underscore_4: kangaroo_tourist_custom_fog
+bip_39_word_underscore_5: kangaroo_tourist_custom_fog_leaf
+bip_39_word_underscore_6: kangaroo_tourist_custom_fog_leaf_coral
+bip_39_word_underscore_7: kangaroo_tourist_custom_fog_leaf_coral_reflect
+bip_39_word_underscore_8: kangaroo_tourist_custom_fog_leaf_coral_reflect_friend
+bip_39_word_underscore_9: kangaroo_tourist_custom_fog_leaf_coral_reflect_friend_session
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
 id_no_color: 3_mm_id_6_mm_od_2_5_mm_depth
 id_no_size: MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
 id_no_type: MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ctz6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ctz6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ctz6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 3 mm ID 6 mm OD 2 5 mm Depth
 name_no_size: Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth
 name_no_size_short: Mr63 Size 3 Mm Id 6 Mm Od 2 5 Mm Depth
 name_no_type: Mr Series Mr63 Size 3 mm ID 6 mm OD 2 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brMR63
+oomlout_short_code_upper: BRMR63
 oomp_key: oomp_hardware_bearing_MR_series_MR63_size_3_mm_id_6_mm_od_2_5_mm_depth
 oomp_word: ram kissing birthday
 oomp_word_emoji: ':ram: :kissing: :birthday:'

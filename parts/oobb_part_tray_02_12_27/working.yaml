@@ -1,3 +1,223 @@
+bip_39_word_dash_1: grid
+bip_39_word_dash_10: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew
+bip_39_word_dash_11: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew-ordinary
+bip_39_word_dash_12: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar-renew-ordinary-alter
+bip_39_word_dash_2: grid-luxury
+bip_39_word_dash_3: grid-luxury-neglect
+bip_39_word_dash_4: grid-luxury-neglect-alcohol
+bip_39_word_dash_5: grid-luxury-neglect-alcohol-pumpkin
+bip_39_word_dash_6: grid-luxury-neglect-alcohol-pumpkin-anger
+bip_39_word_dash_7: grid-luxury-neglect-alcohol-pumpkin-anger-nature
+bip_39_word_dash_8: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact
+bip_39_word_dash_9: grid-luxury-neglect-alcohol-pumpkin-anger-nature-artefact-similar
+bip_39_word_new_br_1: grid
+bip_39_word_new_br_10: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar<br>renew
+bip_39_word_new_br_11: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar<br>renew<br>ordinary
+bip_39_word_new_br_12: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar<br>renew<br>ordinary<br>alter
+bip_39_word_new_br_2: grid<br>luxury
+bip_39_word_new_br_3: grid<br>luxury<br>neglect
+bip_39_word_new_br_4: grid<br>luxury<br>neglect<br>alcohol
+bip_39_word_new_br_5: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin
+bip_39_word_new_br_6: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger
+bip_39_word_new_br_7: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature
+bip_39_word_new_br_8: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact
+bip_39_word_new_br_9: grid<br>luxury<br>neglect<br>alcohol<br>pumpkin<br>anger<br>nature<br>artefact<br>similar
+bip_39_word_new_line_1: grid
+bip_39_word_new_line_10: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature
+
+  artefact
+
+  similar
+
+  renew'
+bip_39_word_new_line_11: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature
+
+  artefact
+
+  similar
+
+  renew
+
+  ordinary'
+bip_39_word_new_line_12: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature
+
+  artefact
+
+  similar
+
+  renew
+
+  ordinary
+
+  alter'
+bip_39_word_new_line_2: 'grid
+
+  luxury'
+bip_39_word_new_line_3: 'grid
+
+  luxury
+
+  neglect'
+bip_39_word_new_line_4: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol'
+bip_39_word_new_line_5: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin'
+bip_39_word_new_line_6: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger'
+bip_39_word_new_line_7: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature'
+bip_39_word_new_line_8: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature
+
+  artefact'
+bip_39_word_new_line_9: 'grid
+
+  luxury
+
+  neglect
+
+  alcohol
+
+  pumpkin
+
+  anger
+
+  nature
+
+  artefact
+
+  similar'
+bip_39_word_no_space_1: grid
+bip_39_word_no_space_10: gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenew
+bip_39_word_no_space_11: gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenewordinary
+bip_39_word_no_space_12: gridluxuryneglectalcoholpumpkinangernatureartefactsimilarrenewordinaryalter
+bip_39_word_no_space_2: gridluxury
+bip_39_word_no_space_3: gridluxuryneglect
+bip_39_word_no_space_4: gridluxuryneglectalcohol
+bip_39_word_no_space_5: gridluxuryneglectalcoholpumpkin
+bip_39_word_no_space_6: gridluxuryneglectalcoholpumpkinanger
+bip_39_word_no_space_7: gridluxuryneglectalcoholpumpkinangernature
+bip_39_word_no_space_8: gridluxuryneglectalcoholpumpkinangernatureartefact
+bip_39_word_no_space_9: gridluxuryneglectalcoholpumpkinangernatureartefactsimilar
+bip_39_word_space_0:
+- grid
+- luxury
+- neglect
+- alcohol
+- pumpkin
+- anger
+- nature
+- artefact
+- similar
+- renew
+- ordinary
+- alter
+bip_39_word_space_1: grid
+bip_39_word_space_10: grid luxury neglect alcohol pumpkin anger nature artefact similar
+  renew
+bip_39_word_space_11: grid luxury neglect alcohol pumpkin anger nature artefact similar
+  renew ordinary
+bip_39_word_space_12: grid luxury neglect alcohol pumpkin anger nature artefact similar
+  renew ordinary alter
+bip_39_word_space_2: grid luxury
+bip_39_word_space_3: grid luxury neglect
+bip_39_word_space_4: grid luxury neglect alcohol
+bip_39_word_space_5: grid luxury neglect alcohol pumpkin
+bip_39_word_space_6: grid luxury neglect alcohol pumpkin anger
+bip_39_word_space_7: grid luxury neglect alcohol pumpkin anger nature
+bip_39_word_space_8: grid luxury neglect alcohol pumpkin anger nature artefact
+bip_39_word_space_9: grid luxury neglect alcohol pumpkin anger nature artefact similar
+bip_39_word_underscore_1: grid
+bip_39_word_underscore_10: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew
+bip_39_word_underscore_11: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew_ordinary
+bip_39_word_underscore_12: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar_renew_ordinary_alter
+bip_39_word_underscore_2: grid_luxury
+bip_39_word_underscore_3: grid_luxury_neglect
+bip_39_word_underscore_4: grid_luxury_neglect_alcohol
+bip_39_word_underscore_5: grid_luxury_neglect_alcohol_pumpkin
+bip_39_word_underscore_6: grid_luxury_neglect_alcohol_pumpkin_anger
+bip_39_word_underscore_7: grid_luxury_neglect_alcohol_pumpkin_anger_nature
+bip_39_word_underscore_8: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact
+bip_39_word_underscore_9: grid_luxury_neglect_alcohol_pumpkin_anger_nature_artefact_similar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_02_12_27
 id_no_color: '021227'
 id_no_size: '02_12_27'
 id_no_type: tray_02_12_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_12_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_12_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_12_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ngrx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ngrx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ngrx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '021227'
 name_no_size: 02 12 27
 name_no_size_short: 02 12 27
 name_no_type: Tray 02 12 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_12_27
 oomp_word: gift frog dress
 oomp_word_emoji: ':gift: :frog: :dress:'

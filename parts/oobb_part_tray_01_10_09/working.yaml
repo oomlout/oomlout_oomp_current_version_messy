@@ -1,3 +1,223 @@
+bip_39_word_dash_1: sentence
+bip_39_word_dash_10: sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table
+bip_39_word_dash_11: sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table-result
+bip_39_word_dash_12: sentence-bamboo-staff-zero-length-economy-snake-neither-pause-table-result-analyst
+bip_39_word_dash_2: sentence-bamboo
+bip_39_word_dash_3: sentence-bamboo-staff
+bip_39_word_dash_4: sentence-bamboo-staff-zero
+bip_39_word_dash_5: sentence-bamboo-staff-zero-length
+bip_39_word_dash_6: sentence-bamboo-staff-zero-length-economy
+bip_39_word_dash_7: sentence-bamboo-staff-zero-length-economy-snake
+bip_39_word_dash_8: sentence-bamboo-staff-zero-length-economy-snake-neither
+bip_39_word_dash_9: sentence-bamboo-staff-zero-length-economy-snake-neither-pause
+bip_39_word_new_br_1: sentence
+bip_39_word_new_br_10: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table
+bip_39_word_new_br_11: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result
+bip_39_word_new_br_12: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause<br>table<br>result<br>analyst
+bip_39_word_new_br_2: sentence<br>bamboo
+bip_39_word_new_br_3: sentence<br>bamboo<br>staff
+bip_39_word_new_br_4: sentence<br>bamboo<br>staff<br>zero
+bip_39_word_new_br_5: sentence<br>bamboo<br>staff<br>zero<br>length
+bip_39_word_new_br_6: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy
+bip_39_word_new_br_7: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake
+bip_39_word_new_br_8: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither
+bip_39_word_new_br_9: sentence<br>bamboo<br>staff<br>zero<br>length<br>economy<br>snake<br>neither<br>pause
+bip_39_word_new_line_1: sentence
+bip_39_word_new_line_10: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake
+
+  neither
+
+  pause
+
+  table'
+bip_39_word_new_line_11: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake
+
+  neither
+
+  pause
+
+  table
+
+  result'
+bip_39_word_new_line_12: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake
+
+  neither
+
+  pause
+
+  table
+
+  result
+
+  analyst'
+bip_39_word_new_line_2: 'sentence
+
+  bamboo'
+bip_39_word_new_line_3: 'sentence
+
+  bamboo
+
+  staff'
+bip_39_word_new_line_4: 'sentence
+
+  bamboo
+
+  staff
+
+  zero'
+bip_39_word_new_line_5: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length'
+bip_39_word_new_line_6: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy'
+bip_39_word_new_line_7: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake'
+bip_39_word_new_line_8: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake
+
+  neither'
+bip_39_word_new_line_9: 'sentence
+
+  bamboo
+
+  staff
+
+  zero
+
+  length
+
+  economy
+
+  snake
+
+  neither
+
+  pause'
+bip_39_word_no_space_1: sentence
+bip_39_word_no_space_10: sentencebamboostaffzerolengtheconomysnakeneitherpausetable
+bip_39_word_no_space_11: sentencebamboostaffzerolengtheconomysnakeneitherpausetableresult
+bip_39_word_no_space_12: sentencebamboostaffzerolengtheconomysnakeneitherpausetableresultanalyst
+bip_39_word_no_space_2: sentencebamboo
+bip_39_word_no_space_3: sentencebamboostaff
+bip_39_word_no_space_4: sentencebamboostaffzero
+bip_39_word_no_space_5: sentencebamboostaffzerolength
+bip_39_word_no_space_6: sentencebamboostaffzerolengtheconomy
+bip_39_word_no_space_7: sentencebamboostaffzerolengtheconomysnake
+bip_39_word_no_space_8: sentencebamboostaffzerolengtheconomysnakeneither
+bip_39_word_no_space_9: sentencebamboostaffzerolengtheconomysnakeneitherpause
+bip_39_word_space_0:
+- sentence
+- bamboo
+- staff
+- zero
+- length
+- economy
+- snake
+- neither
+- pause
+- table
+- result
+- analyst
+bip_39_word_space_1: sentence
+bip_39_word_space_10: sentence bamboo staff zero length economy snake neither pause
+  table
+bip_39_word_space_11: sentence bamboo staff zero length economy snake neither pause
+  table result
+bip_39_word_space_12: sentence bamboo staff zero length economy snake neither pause
+  table result analyst
+bip_39_word_space_2: sentence bamboo
+bip_39_word_space_3: sentence bamboo staff
+bip_39_word_space_4: sentence bamboo staff zero
+bip_39_word_space_5: sentence bamboo staff zero length
+bip_39_word_space_6: sentence bamboo staff zero length economy
+bip_39_word_space_7: sentence bamboo staff zero length economy snake
+bip_39_word_space_8: sentence bamboo staff zero length economy snake neither
+bip_39_word_space_9: sentence bamboo staff zero length economy snake neither pause
+bip_39_word_underscore_1: sentence
+bip_39_word_underscore_10: sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table
+bip_39_word_underscore_11: sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table_result
+bip_39_word_underscore_12: sentence_bamboo_staff_zero_length_economy_snake_neither_pause_table_result_analyst
+bip_39_word_underscore_2: sentence_bamboo
+bip_39_word_underscore_3: sentence_bamboo_staff
+bip_39_word_underscore_4: sentence_bamboo_staff_zero
+bip_39_word_underscore_5: sentence_bamboo_staff_zero_length
+bip_39_word_underscore_6: sentence_bamboo_staff_zero_length_economy
+bip_39_word_underscore_7: sentence_bamboo_staff_zero_length_economy_snake
+bip_39_word_underscore_8: sentence_bamboo_staff_zero_length_economy_snake_neither
+bip_39_word_underscore_9: sentence_bamboo_staff_zero_length_economy_snake_neither_pause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_10_09
 id_no_color: 011009
 id_no_size: 01_10_09
 id_no_type: tray_01_10_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_10_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2057flj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2057flj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2057flj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 011009
 name_no_size: 01 10 09
 name_no_size_short: 01 10 09
 name_no_type: Tray 01 10 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_10_09
 oomp_word: bulb moon pizza
 oomp_word_emoji: ':bulb: :moon: :pizza:'

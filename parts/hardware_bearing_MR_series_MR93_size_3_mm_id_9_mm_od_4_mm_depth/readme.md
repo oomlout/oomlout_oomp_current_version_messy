@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr93 Size 3 mm ID 9 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR93_size_3_mm_id_9_mm_od_4_mm_depth
   * classification: hardware

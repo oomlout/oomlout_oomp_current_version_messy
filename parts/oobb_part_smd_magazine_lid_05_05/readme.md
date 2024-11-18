@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine Lid 05 05
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_lid_05_05
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :mouse: :diamonds: :camel:
 * md5_6_alpha: 21wzl
 * md5_6: 349f41
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2021wzl)
+[2x1](http://192.168.1.242:1112/?label=oomp%2021wzl)
+[6x4](http://192.168.1.55:1112/?label=oomp%2021wzl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_05_05) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_05_05)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ develop |
 | id_no_color | 0505 |  
 | id_no_size | 05_05 |  
 | id_no_type | smd_magazine_lid_05_05 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_05_05 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_05_05 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_05_05 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2021wzl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2021wzl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2021wzl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ develop |
 | name_no_size | 05 05 |  
 | name_no_size_short | 05 05 |  
 | name_no_type | SMD Magazine Lid 05 05 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_lid_05_05 |  
 | oomp_word | mouse diamonds camel |  
 | oomp_word_emoji | :mouse: :diamonds: :camel: |  

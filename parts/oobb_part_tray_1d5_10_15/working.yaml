@@ -1,3 +1,192 @@
+bip_39_word_dash_1: company
+bip_39_word_dash_10: company-dress-boy-nothing-cloth-sand-width-service-problem-stamp
+bip_39_word_dash_11: company-dress-boy-nothing-cloth-sand-width-service-problem-stamp-walk
+bip_39_word_dash_2: company-dress
+bip_39_word_dash_3: company-dress-boy
+bip_39_word_dash_4: company-dress-boy-nothing
+bip_39_word_dash_5: company-dress-boy-nothing-cloth
+bip_39_word_dash_6: company-dress-boy-nothing-cloth-sand
+bip_39_word_dash_7: company-dress-boy-nothing-cloth-sand-width
+bip_39_word_dash_8: company-dress-boy-nothing-cloth-sand-width-service
+bip_39_word_dash_9: company-dress-boy-nothing-cloth-sand-width-service-problem
+bip_39_word_new_br_1: company
+bip_39_word_new_br_10: company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service<br>problem<br>stamp
+bip_39_word_new_br_11: company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service<br>problem<br>stamp<br>walk
+bip_39_word_new_br_2: company<br>dress
+bip_39_word_new_br_3: company<br>dress<br>boy
+bip_39_word_new_br_4: company<br>dress<br>boy<br>nothing
+bip_39_word_new_br_5: company<br>dress<br>boy<br>nothing<br>cloth
+bip_39_word_new_br_6: company<br>dress<br>boy<br>nothing<br>cloth<br>sand
+bip_39_word_new_br_7: company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width
+bip_39_word_new_br_8: company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service
+bip_39_word_new_br_9: company<br>dress<br>boy<br>nothing<br>cloth<br>sand<br>width<br>service<br>problem
+bip_39_word_new_line_1: company
+bip_39_word_new_line_10: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand
+
+  width
+
+  service
+
+  problem
+
+  stamp'
+bip_39_word_new_line_11: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand
+
+  width
+
+  service
+
+  problem
+
+  stamp
+
+  walk'
+bip_39_word_new_line_2: 'company
+
+  dress'
+bip_39_word_new_line_3: 'company
+
+  dress
+
+  boy'
+bip_39_word_new_line_4: 'company
+
+  dress
+
+  boy
+
+  nothing'
+bip_39_word_new_line_5: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth'
+bip_39_word_new_line_6: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand'
+bip_39_word_new_line_7: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand
+
+  width'
+bip_39_word_new_line_8: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand
+
+  width
+
+  service'
+bip_39_word_new_line_9: 'company
+
+  dress
+
+  boy
+
+  nothing
+
+  cloth
+
+  sand
+
+  width
+
+  service
+
+  problem'
+bip_39_word_no_space_1: company
+bip_39_word_no_space_10: companydressboynothingclothsandwidthserviceproblemstamp
+bip_39_word_no_space_11: companydressboynothingclothsandwidthserviceproblemstampwalk
+bip_39_word_no_space_2: companydress
+bip_39_word_no_space_3: companydressboy
+bip_39_word_no_space_4: companydressboynothing
+bip_39_word_no_space_5: companydressboynothingcloth
+bip_39_word_no_space_6: companydressboynothingclothsand
+bip_39_word_no_space_7: companydressboynothingclothsandwidth
+bip_39_word_no_space_8: companydressboynothingclothsandwidthservice
+bip_39_word_no_space_9: companydressboynothingclothsandwidthserviceproblem
+bip_39_word_space_0:
+- company
+- dress
+- boy
+- nothing
+- cloth
+- sand
+- width
+- service
+- problem
+- stamp
+- walk
+bip_39_word_space_1: company
+bip_39_word_space_10: company dress boy nothing cloth sand width service problem stamp
+bip_39_word_space_11: company dress boy nothing cloth sand width service problem stamp
+  walk
+bip_39_word_space_2: company dress
+bip_39_word_space_3: company dress boy
+bip_39_word_space_4: company dress boy nothing
+bip_39_word_space_5: company dress boy nothing cloth
+bip_39_word_space_6: company dress boy nothing cloth sand
+bip_39_word_space_7: company dress boy nothing cloth sand width
+bip_39_word_space_8: company dress boy nothing cloth sand width service
+bip_39_word_space_9: company dress boy nothing cloth sand width service problem
+bip_39_word_underscore_1: company
+bip_39_word_underscore_10: company_dress_boy_nothing_cloth_sand_width_service_problem_stamp
+bip_39_word_underscore_11: company_dress_boy_nothing_cloth_sand_width_service_problem_stamp_walk
+bip_39_word_underscore_2: company_dress
+bip_39_word_underscore_3: company_dress_boy
+bip_39_word_underscore_4: company_dress_boy_nothing
+bip_39_word_underscore_5: company_dress_boy_nothing_cloth
+bip_39_word_underscore_6: company_dress_boy_nothing_cloth_sand
+bip_39_word_underscore_7: company_dress_boy_nothing_cloth_sand_width
+bip_39_word_underscore_8: company_dress_boy_nothing_cloth_sand_width_service
+bip_39_word_underscore_9: company_dress_boy_nothing_cloth_sand_width_service_problem
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +271,14 @@ id_no_class: part_tray_1d5_10_15
 id_no_color: 1d51015
 id_no_size: 1d5_10_15
 id_no_type: tray_1d5_10_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_10_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_10_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_10_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202pf9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202pf9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202pf9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +304,7 @@ name_no_color: 1D51015
 name_no_size: 1D5 10 15
 name_no_size_short: 1D5 10 15
 name_no_type: Tray 1D5 10 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_10_15
 oomp_word: smile bus hamster
 oomp_word_emoji: ':smile: :bus: :hamster:'

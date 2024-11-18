@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hint
+bip_39_word_dash_10: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select
+bip_39_word_dash_11: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select-truth
+bip_39_word_dash_12: hint-sniff-grant-lunar-screen-hazard-brain-just-depth-select-truth-ability
+bip_39_word_dash_2: hint-sniff
+bip_39_word_dash_3: hint-sniff-grant
+bip_39_word_dash_4: hint-sniff-grant-lunar
+bip_39_word_dash_5: hint-sniff-grant-lunar-screen
+bip_39_word_dash_6: hint-sniff-grant-lunar-screen-hazard
+bip_39_word_dash_7: hint-sniff-grant-lunar-screen-hazard-brain
+bip_39_word_dash_8: hint-sniff-grant-lunar-screen-hazard-brain-just
+bip_39_word_dash_9: hint-sniff-grant-lunar-screen-hazard-brain-just-depth
+bip_39_word_new_br_1: hint
+bip_39_word_new_br_10: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select
+bip_39_word_new_br_11: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth
+bip_39_word_new_br_12: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth<br>select<br>truth<br>ability
+bip_39_word_new_br_2: hint<br>sniff
+bip_39_word_new_br_3: hint<br>sniff<br>grant
+bip_39_word_new_br_4: hint<br>sniff<br>grant<br>lunar
+bip_39_word_new_br_5: hint<br>sniff<br>grant<br>lunar<br>screen
+bip_39_word_new_br_6: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard
+bip_39_word_new_br_7: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain
+bip_39_word_new_br_8: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just
+bip_39_word_new_br_9: hint<br>sniff<br>grant<br>lunar<br>screen<br>hazard<br>brain<br>just<br>depth
+bip_39_word_new_line_1: hint
+bip_39_word_new_line_10: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain
+
+  just
+
+  depth
+
+  select'
+bip_39_word_new_line_11: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain
+
+  just
+
+  depth
+
+  select
+
+  truth'
+bip_39_word_new_line_12: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain
+
+  just
+
+  depth
+
+  select
+
+  truth
+
+  ability'
+bip_39_word_new_line_2: 'hint
+
+  sniff'
+bip_39_word_new_line_3: 'hint
+
+  sniff
+
+  grant'
+bip_39_word_new_line_4: 'hint
+
+  sniff
+
+  grant
+
+  lunar'
+bip_39_word_new_line_5: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen'
+bip_39_word_new_line_6: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard'
+bip_39_word_new_line_7: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain'
+bip_39_word_new_line_8: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain
+
+  just'
+bip_39_word_new_line_9: 'hint
+
+  sniff
+
+  grant
+
+  lunar
+
+  screen
+
+  hazard
+
+  brain
+
+  just
+
+  depth'
+bip_39_word_no_space_1: hint
+bip_39_word_no_space_10: hintsniffgrantlunarscreenhazardbrainjustdepthselect
+bip_39_word_no_space_11: hintsniffgrantlunarscreenhazardbrainjustdepthselecttruth
+bip_39_word_no_space_12: hintsniffgrantlunarscreenhazardbrainjustdepthselecttruthability
+bip_39_word_no_space_2: hintsniff
+bip_39_word_no_space_3: hintsniffgrant
+bip_39_word_no_space_4: hintsniffgrantlunar
+bip_39_word_no_space_5: hintsniffgrantlunarscreen
+bip_39_word_no_space_6: hintsniffgrantlunarscreenhazard
+bip_39_word_no_space_7: hintsniffgrantlunarscreenhazardbrain
+bip_39_word_no_space_8: hintsniffgrantlunarscreenhazardbrainjust
+bip_39_word_no_space_9: hintsniffgrantlunarscreenhazardbrainjustdepth
+bip_39_word_space_0:
+- hint
+- sniff
+- grant
+- lunar
+- screen
+- hazard
+- brain
+- just
+- depth
+- select
+- truth
+- ability
+bip_39_word_space_1: hint
+bip_39_word_space_10: hint sniff grant lunar screen hazard brain just depth select
+bip_39_word_space_11: hint sniff grant lunar screen hazard brain just depth select
+  truth
+bip_39_word_space_12: hint sniff grant lunar screen hazard brain just depth select
+  truth ability
+bip_39_word_space_2: hint sniff
+bip_39_word_space_3: hint sniff grant
+bip_39_word_space_4: hint sniff grant lunar
+bip_39_word_space_5: hint sniff grant lunar screen
+bip_39_word_space_6: hint sniff grant lunar screen hazard
+bip_39_word_space_7: hint sniff grant lunar screen hazard brain
+bip_39_word_space_8: hint sniff grant lunar screen hazard brain just
+bip_39_word_space_9: hint sniff grant lunar screen hazard brain just depth
+bip_39_word_underscore_1: hint
+bip_39_word_underscore_10: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select
+bip_39_word_underscore_11: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select_truth
+bip_39_word_underscore_12: hint_sniff_grant_lunar_screen_hazard_brain_just_depth_select_truth_ability
+bip_39_word_underscore_2: hint_sniff
+bip_39_word_underscore_3: hint_sniff_grant
+bip_39_word_underscore_4: hint_sniff_grant_lunar
+bip_39_word_underscore_5: hint_sniff_grant_lunar_screen
+bip_39_word_underscore_6: hint_sniff_grant_lunar_screen_hazard
+bip_39_word_underscore_7: hint_sniff_grant_lunar_screen_hazard_brain
+bip_39_word_underscore_8: hint_sniff_grant_lunar_screen_hazard_brain_just
+bip_39_word_underscore_9: hint_sniff_grant_lunar_screen_hazard_brain_just_depth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_05_03_21
 id_no_color: '050321'
 id_no_size: '05_03_21'
 id_no_type: plate_05_03_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205dio
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205dio
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205dio
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050321'
 name_no_size: 05 03 21
 name_no_size_short: 05 03 21
 name_no_type: Plate 05 03 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_03_21
 oomp_word: grin tomato crown
 oomp_word_emoji: ':grin: :tomato: :crown:'

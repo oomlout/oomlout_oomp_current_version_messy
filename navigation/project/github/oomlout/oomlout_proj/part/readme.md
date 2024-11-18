@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Proj
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_proj
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :grin: :chicken: :heart:
 * md5_6_alpha: 4mbx
 * md5_6: 034a0d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204mbx)
+[2x1](http://192.168.1.242:1112/?label=oomp%204mbx)
+[6x4](http://192.168.1.55:1112/?label=oomp%204mbx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_proj)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ duck |
 | id_no_color | proj |  
 | id_no_size | proj |  
 | id_no_type | oomlout_oomlout_proj |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_proj |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_proj |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204mbx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204mbx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204mbx |  
 | link_redirect | https://github.com/oomlout/oomlout-PROJ |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ duck |
 | name_no_size | Proj |  
 | name_no_size_short | Proj |  
 | name_no_type | Oomlout Oomlout Proj |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_proj |  
 | oomp_word | grin chicken heart |  
 | oomp_word_emoji | :grin: :chicken: :heart: |  

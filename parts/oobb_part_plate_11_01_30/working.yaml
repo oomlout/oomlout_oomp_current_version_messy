@@ -1,3 +1,221 @@
+bip_39_word_dash_1: chalk
+bip_39_word_dash_10: chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire
+bip_39_word_dash_11: chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire-sure
+bip_39_word_dash_12: chalk-opera-used-sort-visit-hard-silk-hurry-photo-fire-sure-another
+bip_39_word_dash_2: chalk-opera
+bip_39_word_dash_3: chalk-opera-used
+bip_39_word_dash_4: chalk-opera-used-sort
+bip_39_word_dash_5: chalk-opera-used-sort-visit
+bip_39_word_dash_6: chalk-opera-used-sort-visit-hard
+bip_39_word_dash_7: chalk-opera-used-sort-visit-hard-silk
+bip_39_word_dash_8: chalk-opera-used-sort-visit-hard-silk-hurry
+bip_39_word_dash_9: chalk-opera-used-sort-visit-hard-silk-hurry-photo
+bip_39_word_new_br_1: chalk
+bip_39_word_new_br_10: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire
+bip_39_word_new_br_11: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire<br>sure
+bip_39_word_new_br_12: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo<br>fire<br>sure<br>another
+bip_39_word_new_br_2: chalk<br>opera
+bip_39_word_new_br_3: chalk<br>opera<br>used
+bip_39_word_new_br_4: chalk<br>opera<br>used<br>sort
+bip_39_word_new_br_5: chalk<br>opera<br>used<br>sort<br>visit
+bip_39_word_new_br_6: chalk<br>opera<br>used<br>sort<br>visit<br>hard
+bip_39_word_new_br_7: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk
+bip_39_word_new_br_8: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry
+bip_39_word_new_br_9: chalk<br>opera<br>used<br>sort<br>visit<br>hard<br>silk<br>hurry<br>photo
+bip_39_word_new_line_1: chalk
+bip_39_word_new_line_10: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk
+
+  hurry
+
+  photo
+
+  fire'
+bip_39_word_new_line_11: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk
+
+  hurry
+
+  photo
+
+  fire
+
+  sure'
+bip_39_word_new_line_12: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk
+
+  hurry
+
+  photo
+
+  fire
+
+  sure
+
+  another'
+bip_39_word_new_line_2: 'chalk
+
+  opera'
+bip_39_word_new_line_3: 'chalk
+
+  opera
+
+  used'
+bip_39_word_new_line_4: 'chalk
+
+  opera
+
+  used
+
+  sort'
+bip_39_word_new_line_5: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit'
+bip_39_word_new_line_6: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard'
+bip_39_word_new_line_7: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk'
+bip_39_word_new_line_8: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk
+
+  hurry'
+bip_39_word_new_line_9: 'chalk
+
+  opera
+
+  used
+
+  sort
+
+  visit
+
+  hard
+
+  silk
+
+  hurry
+
+  photo'
+bip_39_word_no_space_1: chalk
+bip_39_word_no_space_10: chalkoperausedsortvisithardsilkhurryphotofire
+bip_39_word_no_space_11: chalkoperausedsortvisithardsilkhurryphotofiresure
+bip_39_word_no_space_12: chalkoperausedsortvisithardsilkhurryphotofiresureanother
+bip_39_word_no_space_2: chalkopera
+bip_39_word_no_space_3: chalkoperaused
+bip_39_word_no_space_4: chalkoperausedsort
+bip_39_word_no_space_5: chalkoperausedsortvisit
+bip_39_word_no_space_6: chalkoperausedsortvisithard
+bip_39_word_no_space_7: chalkoperausedsortvisithardsilk
+bip_39_word_no_space_8: chalkoperausedsortvisithardsilkhurry
+bip_39_word_no_space_9: chalkoperausedsortvisithardsilkhurryphoto
+bip_39_word_space_0:
+- chalk
+- opera
+- used
+- sort
+- visit
+- hard
+- silk
+- hurry
+- photo
+- fire
+- sure
+- another
+bip_39_word_space_1: chalk
+bip_39_word_space_10: chalk opera used sort visit hard silk hurry photo fire
+bip_39_word_space_11: chalk opera used sort visit hard silk hurry photo fire sure
+bip_39_word_space_12: chalk opera used sort visit hard silk hurry photo fire sure
+  another
+bip_39_word_space_2: chalk opera
+bip_39_word_space_3: chalk opera used
+bip_39_word_space_4: chalk opera used sort
+bip_39_word_space_5: chalk opera used sort visit
+bip_39_word_space_6: chalk opera used sort visit hard
+bip_39_word_space_7: chalk opera used sort visit hard silk
+bip_39_word_space_8: chalk opera used sort visit hard silk hurry
+bip_39_word_space_9: chalk opera used sort visit hard silk hurry photo
+bip_39_word_underscore_1: chalk
+bip_39_word_underscore_10: chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire
+bip_39_word_underscore_11: chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire_sure
+bip_39_word_underscore_12: chalk_opera_used_sort_visit_hard_silk_hurry_photo_fire_sure_another
+bip_39_word_underscore_2: chalk_opera
+bip_39_word_underscore_3: chalk_opera_used
+bip_39_word_underscore_4: chalk_opera_used_sort
+bip_39_word_underscore_5: chalk_opera_used_sort_visit
+bip_39_word_underscore_6: chalk_opera_used_sort_visit_hard
+bip_39_word_underscore_7: chalk_opera_used_sort_visit_hard_silk
+bip_39_word_underscore_8: chalk_opera_used_sort_visit_hard_silk_hurry
+bip_39_word_underscore_9: chalk_opera_used_sort_visit_hard_silk_hurry_photo
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_plate_11_01_30
 id_no_color: '110130'
 id_no_size: '11_01_30'
 id_no_type: plate_11_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205zwgl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205zwgl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205zwgl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '110130'
 name_no_size: 11 01 30
 name_no_size_short: 11 01 30
 name_no_type: Plate 11 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_11_01_30
 oomp_word: bowling coffee poop
 oomp_word_emoji: ':bowling: :coffee: :poop:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dignity
+bip_39_word_dash_10: dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic
+bip_39_word_dash_11: dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic-nephew
+bip_39_word_dash_12: dignity-anxiety-spider-door-pull-burst-clerk-ice-bring-mimic-nephew-agree
+bip_39_word_dash_2: dignity-anxiety
+bip_39_word_dash_3: dignity-anxiety-spider
+bip_39_word_dash_4: dignity-anxiety-spider-door
+bip_39_word_dash_5: dignity-anxiety-spider-door-pull
+bip_39_word_dash_6: dignity-anxiety-spider-door-pull-burst
+bip_39_word_dash_7: dignity-anxiety-spider-door-pull-burst-clerk
+bip_39_word_dash_8: dignity-anxiety-spider-door-pull-burst-clerk-ice
+bip_39_word_dash_9: dignity-anxiety-spider-door-pull-burst-clerk-ice-bring
+bip_39_word_new_br_1: dignity
+bip_39_word_new_br_10: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic
+bip_39_word_new_br_11: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew
+bip_39_word_new_br_12: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring<br>mimic<br>nephew<br>agree
+bip_39_word_new_br_2: dignity<br>anxiety
+bip_39_word_new_br_3: dignity<br>anxiety<br>spider
+bip_39_word_new_br_4: dignity<br>anxiety<br>spider<br>door
+bip_39_word_new_br_5: dignity<br>anxiety<br>spider<br>door<br>pull
+bip_39_word_new_br_6: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst
+bip_39_word_new_br_7: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk
+bip_39_word_new_br_8: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice
+bip_39_word_new_br_9: dignity<br>anxiety<br>spider<br>door<br>pull<br>burst<br>clerk<br>ice<br>bring
+bip_39_word_new_line_1: dignity
+bip_39_word_new_line_10: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk
+
+  ice
+
+  bring
+
+  mimic'
+bip_39_word_new_line_11: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk
+
+  ice
+
+  bring
+
+  mimic
+
+  nephew'
+bip_39_word_new_line_12: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk
+
+  ice
+
+  bring
+
+  mimic
+
+  nephew
+
+  agree'
+bip_39_word_new_line_2: 'dignity
+
+  anxiety'
+bip_39_word_new_line_3: 'dignity
+
+  anxiety
+
+  spider'
+bip_39_word_new_line_4: 'dignity
+
+  anxiety
+
+  spider
+
+  door'
+bip_39_word_new_line_5: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull'
+bip_39_word_new_line_6: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst'
+bip_39_word_new_line_7: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk'
+bip_39_word_new_line_8: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk
+
+  ice'
+bip_39_word_new_line_9: 'dignity
+
+  anxiety
+
+  spider
+
+  door
+
+  pull
+
+  burst
+
+  clerk
+
+  ice
+
+  bring'
+bip_39_word_no_space_1: dignity
+bip_39_word_no_space_10: dignityanxietyspiderdoorpullburstclerkicebringmimic
+bip_39_word_no_space_11: dignityanxietyspiderdoorpullburstclerkicebringmimicnephew
+bip_39_word_no_space_12: dignityanxietyspiderdoorpullburstclerkicebringmimicnephewagree
+bip_39_word_no_space_2: dignityanxiety
+bip_39_word_no_space_3: dignityanxietyspider
+bip_39_word_no_space_4: dignityanxietyspiderdoor
+bip_39_word_no_space_5: dignityanxietyspiderdoorpull
+bip_39_word_no_space_6: dignityanxietyspiderdoorpullburst
+bip_39_word_no_space_7: dignityanxietyspiderdoorpullburstclerk
+bip_39_word_no_space_8: dignityanxietyspiderdoorpullburstclerkice
+bip_39_word_no_space_9: dignityanxietyspiderdoorpullburstclerkicebring
+bip_39_word_space_0:
+- dignity
+- anxiety
+- spider
+- door
+- pull
+- burst
+- clerk
+- ice
+- bring
+- mimic
+- nephew
+- agree
+bip_39_word_space_1: dignity
+bip_39_word_space_10: dignity anxiety spider door pull burst clerk ice bring mimic
+bip_39_word_space_11: dignity anxiety spider door pull burst clerk ice bring mimic
+  nephew
+bip_39_word_space_12: dignity anxiety spider door pull burst clerk ice bring mimic
+  nephew agree
+bip_39_word_space_2: dignity anxiety
+bip_39_word_space_3: dignity anxiety spider
+bip_39_word_space_4: dignity anxiety spider door
+bip_39_word_space_5: dignity anxiety spider door pull
+bip_39_word_space_6: dignity anxiety spider door pull burst
+bip_39_word_space_7: dignity anxiety spider door pull burst clerk
+bip_39_word_space_8: dignity anxiety spider door pull burst clerk ice
+bip_39_word_space_9: dignity anxiety spider door pull burst clerk ice bring
+bip_39_word_underscore_1: dignity
+bip_39_word_underscore_10: dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic
+bip_39_word_underscore_11: dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic_nephew
+bip_39_word_underscore_12: dignity_anxiety_spider_door_pull_burst_clerk_ice_bring_mimic_nephew_agree
+bip_39_word_underscore_2: dignity_anxiety
+bip_39_word_underscore_3: dignity_anxiety_spider
+bip_39_word_underscore_4: dignity_anxiety_spider_door
+bip_39_word_underscore_5: dignity_anxiety_spider_door_pull
+bip_39_word_underscore_6: dignity_anxiety_spider_door_pull_burst
+bip_39_word_underscore_7: dignity_anxiety_spider_door_pull_burst_clerk
+bip_39_word_underscore_8: dignity_anxiety_spider_door_pull_burst_clerk_ice
+bip_39_word_underscore_9: dignity_anxiety_spider_door_pull_burst_clerk_ice_bring
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_12_15
 id_no_color: '151215'
 id_no_size: '15_12_15'
 id_no_type: tray_thin_15_12_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_12_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_12_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_12_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203600z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203600z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203600z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '151215'
 name_no_size: 15 12 15
 name_no_size_short: 15 12 15
 name_no_type: Tray Thin 15 12 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_12_15
 oomp_word: snail tongue pencil
 oomp_word_emoji: ':snail: :tongue: :pencil:'

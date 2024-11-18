@@ -1,3 +1,223 @@
+bip_39_word_dash_1: unhappy
+bip_39_word_dash_10: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo
+bip_39_word_dash_11: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo-common
+bip_39_word_dash_12: unhappy-health-cruise-health-orange-turn-coconut-property-antenna-cargo-common-arrive
+bip_39_word_dash_2: unhappy-health
+bip_39_word_dash_3: unhappy-health-cruise
+bip_39_word_dash_4: unhappy-health-cruise-health
+bip_39_word_dash_5: unhappy-health-cruise-health-orange
+bip_39_word_dash_6: unhappy-health-cruise-health-orange-turn
+bip_39_word_dash_7: unhappy-health-cruise-health-orange-turn-coconut
+bip_39_word_dash_8: unhappy-health-cruise-health-orange-turn-coconut-property
+bip_39_word_dash_9: unhappy-health-cruise-health-orange-turn-coconut-property-antenna
+bip_39_word_new_br_1: unhappy
+bip_39_word_new_br_10: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo
+bip_39_word_new_br_11: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo<br>common
+bip_39_word_new_br_12: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna<br>cargo<br>common<br>arrive
+bip_39_word_new_br_2: unhappy<br>health
+bip_39_word_new_br_3: unhappy<br>health<br>cruise
+bip_39_word_new_br_4: unhappy<br>health<br>cruise<br>health
+bip_39_word_new_br_5: unhappy<br>health<br>cruise<br>health<br>orange
+bip_39_word_new_br_6: unhappy<br>health<br>cruise<br>health<br>orange<br>turn
+bip_39_word_new_br_7: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut
+bip_39_word_new_br_8: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property
+bip_39_word_new_br_9: unhappy<br>health<br>cruise<br>health<br>orange<br>turn<br>coconut<br>property<br>antenna
+bip_39_word_new_line_1: unhappy
+bip_39_word_new_line_10: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut
+
+  property
+
+  antenna
+
+  cargo'
+bip_39_word_new_line_11: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut
+
+  property
+
+  antenna
+
+  cargo
+
+  common'
+bip_39_word_new_line_12: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut
+
+  property
+
+  antenna
+
+  cargo
+
+  common
+
+  arrive'
+bip_39_word_new_line_2: 'unhappy
+
+  health'
+bip_39_word_new_line_3: 'unhappy
+
+  health
+
+  cruise'
+bip_39_word_new_line_4: 'unhappy
+
+  health
+
+  cruise
+
+  health'
+bip_39_word_new_line_5: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange'
+bip_39_word_new_line_6: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn'
+bip_39_word_new_line_7: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut'
+bip_39_word_new_line_8: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut
+
+  property'
+bip_39_word_new_line_9: 'unhappy
+
+  health
+
+  cruise
+
+  health
+
+  orange
+
+  turn
+
+  coconut
+
+  property
+
+  antenna'
+bip_39_word_no_space_1: unhappy
+bip_39_word_no_space_10: unhappyhealthcruisehealthorangeturncoconutpropertyantennacargo
+bip_39_word_no_space_11: unhappyhealthcruisehealthorangeturncoconutpropertyantennacargocommon
+bip_39_word_no_space_12: unhappyhealthcruisehealthorangeturncoconutpropertyantennacargocommonarrive
+bip_39_word_no_space_2: unhappyhealth
+bip_39_word_no_space_3: unhappyhealthcruise
+bip_39_word_no_space_4: unhappyhealthcruisehealth
+bip_39_word_no_space_5: unhappyhealthcruisehealthorange
+bip_39_word_no_space_6: unhappyhealthcruisehealthorangeturn
+bip_39_word_no_space_7: unhappyhealthcruisehealthorangeturncoconut
+bip_39_word_no_space_8: unhappyhealthcruisehealthorangeturncoconutproperty
+bip_39_word_no_space_9: unhappyhealthcruisehealthorangeturncoconutpropertyantenna
+bip_39_word_space_0:
+- unhappy
+- health
+- cruise
+- health
+- orange
+- turn
+- coconut
+- property
+- antenna
+- cargo
+- common
+- arrive
+bip_39_word_space_1: unhappy
+bip_39_word_space_10: unhappy health cruise health orange turn coconut property antenna
+  cargo
+bip_39_word_space_11: unhappy health cruise health orange turn coconut property antenna
+  cargo common
+bip_39_word_space_12: unhappy health cruise health orange turn coconut property antenna
+  cargo common arrive
+bip_39_word_space_2: unhappy health
+bip_39_word_space_3: unhappy health cruise
+bip_39_word_space_4: unhappy health cruise health
+bip_39_word_space_5: unhappy health cruise health orange
+bip_39_word_space_6: unhappy health cruise health orange turn
+bip_39_word_space_7: unhappy health cruise health orange turn coconut
+bip_39_word_space_8: unhappy health cruise health orange turn coconut property
+bip_39_word_space_9: unhappy health cruise health orange turn coconut property antenna
+bip_39_word_underscore_1: unhappy
+bip_39_word_underscore_10: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo
+bip_39_word_underscore_11: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo_common
+bip_39_word_underscore_12: unhappy_health_cruise_health_orange_turn_coconut_property_antenna_cargo_common_arrive
+bip_39_word_underscore_2: unhappy_health
+bip_39_word_underscore_3: unhappy_health_cruise
+bip_39_word_underscore_4: unhappy_health_cruise_health
+bip_39_word_underscore_5: unhappy_health_cruise_health_orange
+bip_39_word_underscore_6: unhappy_health_cruise_health_orange_turn
+bip_39_word_underscore_7: unhappy_health_cruise_health_orange_turn_coconut
+bip_39_word_underscore_8: unhappy_health_cruise_health_orange_turn_coconut_property
+bip_39_word_underscore_9: unhappy_health_cruise_health_orange_turn_coconut_property_antenna
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__
 id_no_color: 030310nm8mmtapewidth2mmtapethickness2
 id_no_size: 03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207tfwo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207tfwo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207tfwo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030310Nm8mmtapewidth2mmtapethickness2
 name_no_size: 03 03 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 03 03 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 03 03 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_03_03_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: apple ox apple
 oomp_word_emoji: ':apple: :ox: :apple:'

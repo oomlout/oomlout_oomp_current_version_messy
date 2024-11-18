@@ -1,3 +1,222 @@
+bip_39_word_dash_1: casual
+bip_39_word_dash_10: casual-junior-ill-letter-uncle-spirit-bridge-angle-metal-force
+bip_39_word_dash_11: casual-junior-ill-letter-uncle-spirit-bridge-angle-metal-force-neutral
+bip_39_word_dash_12: casual-junior-ill-letter-uncle-spirit-bridge-angle-metal-force-neutral-anger
+bip_39_word_dash_2: casual-junior
+bip_39_word_dash_3: casual-junior-ill
+bip_39_word_dash_4: casual-junior-ill-letter
+bip_39_word_dash_5: casual-junior-ill-letter-uncle
+bip_39_word_dash_6: casual-junior-ill-letter-uncle-spirit
+bip_39_word_dash_7: casual-junior-ill-letter-uncle-spirit-bridge
+bip_39_word_dash_8: casual-junior-ill-letter-uncle-spirit-bridge-angle
+bip_39_word_dash_9: casual-junior-ill-letter-uncle-spirit-bridge-angle-metal
+bip_39_word_new_br_1: casual
+bip_39_word_new_br_10: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force
+bip_39_word_new_br_11: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral
+bip_39_word_new_br_12: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal<br>force<br>neutral<br>anger
+bip_39_word_new_br_2: casual<br>junior
+bip_39_word_new_br_3: casual<br>junior<br>ill
+bip_39_word_new_br_4: casual<br>junior<br>ill<br>letter
+bip_39_word_new_br_5: casual<br>junior<br>ill<br>letter<br>uncle
+bip_39_word_new_br_6: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit
+bip_39_word_new_br_7: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge
+bip_39_word_new_br_8: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle
+bip_39_word_new_br_9: casual<br>junior<br>ill<br>letter<br>uncle<br>spirit<br>bridge<br>angle<br>metal
+bip_39_word_new_line_1: casual
+bip_39_word_new_line_10: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge
+
+  angle
+
+  metal
+
+  force'
+bip_39_word_new_line_11: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge
+
+  angle
+
+  metal
+
+  force
+
+  neutral'
+bip_39_word_new_line_12: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge
+
+  angle
+
+  metal
+
+  force
+
+  neutral
+
+  anger'
+bip_39_word_new_line_2: 'casual
+
+  junior'
+bip_39_word_new_line_3: 'casual
+
+  junior
+
+  ill'
+bip_39_word_new_line_4: 'casual
+
+  junior
+
+  ill
+
+  letter'
+bip_39_word_new_line_5: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle'
+bip_39_word_new_line_6: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit'
+bip_39_word_new_line_7: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge'
+bip_39_word_new_line_8: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge
+
+  angle'
+bip_39_word_new_line_9: 'casual
+
+  junior
+
+  ill
+
+  letter
+
+  uncle
+
+  spirit
+
+  bridge
+
+  angle
+
+  metal'
+bip_39_word_no_space_1: casual
+bip_39_word_no_space_10: casualjuniorillletterunclespiritbridgeanglemetalforce
+bip_39_word_no_space_11: casualjuniorillletterunclespiritbridgeanglemetalforceneutral
+bip_39_word_no_space_12: casualjuniorillletterunclespiritbridgeanglemetalforceneutralanger
+bip_39_word_no_space_2: casualjunior
+bip_39_word_no_space_3: casualjuniorill
+bip_39_word_no_space_4: casualjuniorillletter
+bip_39_word_no_space_5: casualjuniorillletteruncle
+bip_39_word_no_space_6: casualjuniorillletterunclespirit
+bip_39_word_no_space_7: casualjuniorillletterunclespiritbridge
+bip_39_word_no_space_8: casualjuniorillletterunclespiritbridgeangle
+bip_39_word_no_space_9: casualjuniorillletterunclespiritbridgeanglemetal
+bip_39_word_space_0:
+- casual
+- junior
+- ill
+- letter
+- uncle
+- spirit
+- bridge
+- angle
+- metal
+- force
+- neutral
+- anger
+bip_39_word_space_1: casual
+bip_39_word_space_10: casual junior ill letter uncle spirit bridge angle metal force
+bip_39_word_space_11: casual junior ill letter uncle spirit bridge angle metal force
+  neutral
+bip_39_word_space_12: casual junior ill letter uncle spirit bridge angle metal force
+  neutral anger
+bip_39_word_space_2: casual junior
+bip_39_word_space_3: casual junior ill
+bip_39_word_space_4: casual junior ill letter
+bip_39_word_space_5: casual junior ill letter uncle
+bip_39_word_space_6: casual junior ill letter uncle spirit
+bip_39_word_space_7: casual junior ill letter uncle spirit bridge
+bip_39_word_space_8: casual junior ill letter uncle spirit bridge angle
+bip_39_word_space_9: casual junior ill letter uncle spirit bridge angle metal
+bip_39_word_underscore_1: casual
+bip_39_word_underscore_10: casual_junior_ill_letter_uncle_spirit_bridge_angle_metal_force
+bip_39_word_underscore_11: casual_junior_ill_letter_uncle_spirit_bridge_angle_metal_force_neutral
+bip_39_word_underscore_12: casual_junior_ill_letter_uncle_spirit_bridge_angle_metal_force_neutral_anger
+bip_39_word_underscore_2: casual_junior
+bip_39_word_underscore_3: casual_junior_ill
+bip_39_word_underscore_4: casual_junior_ill_letter
+bip_39_word_underscore_5: casual_junior_ill_letter_uncle
+bip_39_word_underscore_6: casual_junior_ill_letter_uncle_spirit
+bip_39_word_underscore_7: casual_junior_ill_letter_uncle_spirit_bridge
+bip_39_word_underscore_8: casual_junior_ill_letter_uncle_spirit_bridge_angle
+bip_39_word_underscore_9: casual_junior_ill_letter_uncle_spirit_bridge_angle_metal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_02_01_21
 id_no_color: '020121'
 id_no_size: '02_01_21'
 id_no_type: plate_02_01_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_02_01_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_01_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_02_01_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205fh7a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205fh7a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205fh7a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020121'
 name_no_size: 02 01 21
 name_no_size_short: 02 01 21
 name_no_type: Plate 02 01 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_02_01_21
 oomp_word: door sunny school
 oomp_word_emoji: ':door: :sunny: :school:'

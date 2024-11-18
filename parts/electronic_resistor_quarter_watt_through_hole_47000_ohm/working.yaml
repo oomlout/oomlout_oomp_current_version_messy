@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bulk
+bip_39_word_dash_10: bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag
+bip_39_word_dash_11: bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag-prison
+bip_39_word_dash_12: bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge-tag-prison-auto
+bip_39_word_dash_2: bulk-bleak
+bip_39_word_dash_3: bulk-bleak-crumble
+bip_39_word_dash_4: bulk-bleak-crumble-quit
+bip_39_word_dash_5: bulk-bleak-crumble-quit-assault
+bip_39_word_dash_6: bulk-bleak-crumble-quit-assault-venue
+bip_39_word_dash_7: bulk-bleak-crumble-quit-assault-venue-gadget
+bip_39_word_dash_8: bulk-bleak-crumble-quit-assault-venue-gadget-carry
+bip_39_word_dash_9: bulk-bleak-crumble-quit-assault-venue-gadget-carry-charge
+bip_39_word_new_br_1: bulk
+bip_39_word_new_br_10: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag
+bip_39_word_new_br_11: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag<br>prison
+bip_39_word_new_br_12: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge<br>tag<br>prison<br>auto
+bip_39_word_new_br_2: bulk<br>bleak
+bip_39_word_new_br_3: bulk<br>bleak<br>crumble
+bip_39_word_new_br_4: bulk<br>bleak<br>crumble<br>quit
+bip_39_word_new_br_5: bulk<br>bleak<br>crumble<br>quit<br>assault
+bip_39_word_new_br_6: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue
+bip_39_word_new_br_7: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget
+bip_39_word_new_br_8: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry
+bip_39_word_new_br_9: bulk<br>bleak<br>crumble<br>quit<br>assault<br>venue<br>gadget<br>carry<br>charge
+bip_39_word_new_line_1: bulk
+bip_39_word_new_line_10: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget
+
+  carry
+
+  charge
+
+  tag'
+bip_39_word_new_line_11: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget
+
+  carry
+
+  charge
+
+  tag
+
+  prison'
+bip_39_word_new_line_12: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget
+
+  carry
+
+  charge
+
+  tag
+
+  prison
+
+  auto'
+bip_39_word_new_line_2: 'bulk
+
+  bleak'
+bip_39_word_new_line_3: 'bulk
+
+  bleak
+
+  crumble'
+bip_39_word_new_line_4: 'bulk
+
+  bleak
+
+  crumble
+
+  quit'
+bip_39_word_new_line_5: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault'
+bip_39_word_new_line_6: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue'
+bip_39_word_new_line_7: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget'
+bip_39_word_new_line_8: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget
+
+  carry'
+bip_39_word_new_line_9: 'bulk
+
+  bleak
+
+  crumble
+
+  quit
+
+  assault
+
+  venue
+
+  gadget
+
+  carry
+
+  charge'
+bip_39_word_no_space_1: bulk
+bip_39_word_no_space_10: bulkbleakcrumblequitassaultvenuegadgetcarrychargetag
+bip_39_word_no_space_11: bulkbleakcrumblequitassaultvenuegadgetcarrychargetagprison
+bip_39_word_no_space_12: bulkbleakcrumblequitassaultvenuegadgetcarrychargetagprisonauto
+bip_39_word_no_space_2: bulkbleak
+bip_39_word_no_space_3: bulkbleakcrumble
+bip_39_word_no_space_4: bulkbleakcrumblequit
+bip_39_word_no_space_5: bulkbleakcrumblequitassault
+bip_39_word_no_space_6: bulkbleakcrumblequitassaultvenue
+bip_39_word_no_space_7: bulkbleakcrumblequitassaultvenuegadget
+bip_39_word_no_space_8: bulkbleakcrumblequitassaultvenuegadgetcarry
+bip_39_word_no_space_9: bulkbleakcrumblequitassaultvenuegadgetcarrycharge
+bip_39_word_space_0:
+- bulk
+- bleak
+- crumble
+- quit
+- assault
+- venue
+- gadget
+- carry
+- charge
+- tag
+- prison
+- auto
+bip_39_word_space_1: bulk
+bip_39_word_space_10: bulk bleak crumble quit assault venue gadget carry charge tag
+bip_39_word_space_11: bulk bleak crumble quit assault venue gadget carry charge tag
+  prison
+bip_39_word_space_12: bulk bleak crumble quit assault venue gadget carry charge tag
+  prison auto
+bip_39_word_space_2: bulk bleak
+bip_39_word_space_3: bulk bleak crumble
+bip_39_word_space_4: bulk bleak crumble quit
+bip_39_word_space_5: bulk bleak crumble quit assault
+bip_39_word_space_6: bulk bleak crumble quit assault venue
+bip_39_word_space_7: bulk bleak crumble quit assault venue gadget
+bip_39_word_space_8: bulk bleak crumble quit assault venue gadget carry
+bip_39_word_space_9: bulk bleak crumble quit assault venue gadget carry charge
+bip_39_word_underscore_1: bulk
+bip_39_word_underscore_10: bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag
+bip_39_word_underscore_11: bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag_prison
+bip_39_word_underscore_12: bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge_tag_prison_auto
+bip_39_word_underscore_2: bulk_bleak
+bip_39_word_underscore_3: bulk_bleak_crumble
+bip_39_word_underscore_4: bulk_bleak_crumble_quit
+bip_39_word_underscore_5: bulk_bleak_crumble_quit_assault
+bip_39_word_underscore_6: bulk_bleak_crumble_quit_assault_venue
+bip_39_word_underscore_7: bulk_bleak_crumble_quit_assault_venue_gadget
+bip_39_word_underscore_8: bulk_bleak_crumble_quit_assault_venue_gadget_carry
+bip_39_word_underscore_9: bulk_bleak_crumble_quit_assault_venue_gadget_carry_charge
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 47000ohm
 id_no_size: 47000_ohm
 id_no_type: quarter_watt_through_hole_47000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_47000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209q8fr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209q8fr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209q8fr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 47000Ohm
 name_no_size: 47000 Ohm
 name_no_size_short: 47k Ohm
 name_no_type: Quarter Watt Through Hole 47000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_47000_ohm
 oomp_word: eight ram wolf
 oomp_word_emoji: ':eight: :ram: :wolf:'

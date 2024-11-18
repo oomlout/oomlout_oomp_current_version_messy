@@ -1,3 +1,221 @@
+bip_39_word_dash_1: rack
+bip_39_word_dash_10: rack-usage-human-one-network-unhappy-maple-want-sail-join
+bip_39_word_dash_11: rack-usage-human-one-network-unhappy-maple-want-sail-join-market
+bip_39_word_dash_12: rack-usage-human-one-network-unhappy-maple-want-sail-join-market-assault
+bip_39_word_dash_2: rack-usage
+bip_39_word_dash_3: rack-usage-human
+bip_39_word_dash_4: rack-usage-human-one
+bip_39_word_dash_5: rack-usage-human-one-network
+bip_39_word_dash_6: rack-usage-human-one-network-unhappy
+bip_39_word_dash_7: rack-usage-human-one-network-unhappy-maple
+bip_39_word_dash_8: rack-usage-human-one-network-unhappy-maple-want
+bip_39_word_dash_9: rack-usage-human-one-network-unhappy-maple-want-sail
+bip_39_word_new_br_1: rack
+bip_39_word_new_br_10: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join
+bip_39_word_new_br_11: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join<br>market
+bip_39_word_new_br_12: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail<br>join<br>market<br>assault
+bip_39_word_new_br_2: rack<br>usage
+bip_39_word_new_br_3: rack<br>usage<br>human
+bip_39_word_new_br_4: rack<br>usage<br>human<br>one
+bip_39_word_new_br_5: rack<br>usage<br>human<br>one<br>network
+bip_39_word_new_br_6: rack<br>usage<br>human<br>one<br>network<br>unhappy
+bip_39_word_new_br_7: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple
+bip_39_word_new_br_8: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want
+bip_39_word_new_br_9: rack<br>usage<br>human<br>one<br>network<br>unhappy<br>maple<br>want<br>sail
+bip_39_word_new_line_1: rack
+bip_39_word_new_line_10: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple
+
+  want
+
+  sail
+
+  join'
+bip_39_word_new_line_11: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple
+
+  want
+
+  sail
+
+  join
+
+  market'
+bip_39_word_new_line_12: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple
+
+  want
+
+  sail
+
+  join
+
+  market
+
+  assault'
+bip_39_word_new_line_2: 'rack
+
+  usage'
+bip_39_word_new_line_3: 'rack
+
+  usage
+
+  human'
+bip_39_word_new_line_4: 'rack
+
+  usage
+
+  human
+
+  one'
+bip_39_word_new_line_5: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network'
+bip_39_word_new_line_6: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy'
+bip_39_word_new_line_7: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple'
+bip_39_word_new_line_8: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple
+
+  want'
+bip_39_word_new_line_9: 'rack
+
+  usage
+
+  human
+
+  one
+
+  network
+
+  unhappy
+
+  maple
+
+  want
+
+  sail'
+bip_39_word_no_space_1: rack
+bip_39_word_no_space_10: rackusagehumanonenetworkunhappymaplewantsailjoin
+bip_39_word_no_space_11: rackusagehumanonenetworkunhappymaplewantsailjoinmarket
+bip_39_word_no_space_12: rackusagehumanonenetworkunhappymaplewantsailjoinmarketassault
+bip_39_word_no_space_2: rackusage
+bip_39_word_no_space_3: rackusagehuman
+bip_39_word_no_space_4: rackusagehumanone
+bip_39_word_no_space_5: rackusagehumanonenetwork
+bip_39_word_no_space_6: rackusagehumanonenetworkunhappy
+bip_39_word_no_space_7: rackusagehumanonenetworkunhappymaple
+bip_39_word_no_space_8: rackusagehumanonenetworkunhappymaplewant
+bip_39_word_no_space_9: rackusagehumanonenetworkunhappymaplewantsail
+bip_39_word_space_0:
+- rack
+- usage
+- human
+- one
+- network
+- unhappy
+- maple
+- want
+- sail
+- join
+- market
+- assault
+bip_39_word_space_1: rack
+bip_39_word_space_10: rack usage human one network unhappy maple want sail join
+bip_39_word_space_11: rack usage human one network unhappy maple want sail join market
+bip_39_word_space_12: rack usage human one network unhappy maple want sail join market
+  assault
+bip_39_word_space_2: rack usage
+bip_39_word_space_3: rack usage human
+bip_39_word_space_4: rack usage human one
+bip_39_word_space_5: rack usage human one network
+bip_39_word_space_6: rack usage human one network unhappy
+bip_39_word_space_7: rack usage human one network unhappy maple
+bip_39_word_space_8: rack usage human one network unhappy maple want
+bip_39_word_space_9: rack usage human one network unhappy maple want sail
+bip_39_word_underscore_1: rack
+bip_39_word_underscore_10: rack_usage_human_one_network_unhappy_maple_want_sail_join
+bip_39_word_underscore_11: rack_usage_human_one_network_unhappy_maple_want_sail_join_market
+bip_39_word_underscore_12: rack_usage_human_one_network_unhappy_maple_want_sail_join_market_assault
+bip_39_word_underscore_2: rack_usage
+bip_39_word_underscore_3: rack_usage_human
+bip_39_word_underscore_4: rack_usage_human_one
+bip_39_word_underscore_5: rack_usage_human_one_network
+bip_39_word_underscore_6: rack_usage_human_one_network_unhappy
+bip_39_word_underscore_7: rack_usage_human_one_network_unhappy_maple
+bip_39_word_underscore_8: rack_usage_human_one_network_unhappy_maple_want
+bip_39_word_underscore_9: rack_usage_human_one_network_unhappy_maple_want_sail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_bunting_alphabet_05_01__4
 id_no_color: '05014'
 id_no_size: '05_01__4'
 id_no_type: bunting_alphabet_05_01__4
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__4
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__4
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__4
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208gwgu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208gwgu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208gwgu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: '05014'
 name_no_size: 05 01  4
 name_no_size_short: 05 01  4
 name_no_type: Bunting Alphabet 05 01  4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__4
 oomp_word: bank star crocodile
 oomp_word_emoji: ':bank: :star: :crocodile:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: raw
+bip_39_word_dash_10: raw-comic-document-forward-inmate-bind-spell-fee-entire-feed
+bip_39_word_dash_11: raw-comic-document-forward-inmate-bind-spell-fee-entire-feed-family
+bip_39_word_dash_12: raw-comic-document-forward-inmate-bind-spell-fee-entire-feed-family-arm
+bip_39_word_dash_2: raw-comic
+bip_39_word_dash_3: raw-comic-document
+bip_39_word_dash_4: raw-comic-document-forward
+bip_39_word_dash_5: raw-comic-document-forward-inmate
+bip_39_word_dash_6: raw-comic-document-forward-inmate-bind
+bip_39_word_dash_7: raw-comic-document-forward-inmate-bind-spell
+bip_39_word_dash_8: raw-comic-document-forward-inmate-bind-spell-fee
+bip_39_word_dash_9: raw-comic-document-forward-inmate-bind-spell-fee-entire
+bip_39_word_new_br_1: raw
+bip_39_word_new_br_10: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed
+bip_39_word_new_br_11: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed<br>family
+bip_39_word_new_br_12: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire<br>feed<br>family<br>arm
+bip_39_word_new_br_2: raw<br>comic
+bip_39_word_new_br_3: raw<br>comic<br>document
+bip_39_word_new_br_4: raw<br>comic<br>document<br>forward
+bip_39_word_new_br_5: raw<br>comic<br>document<br>forward<br>inmate
+bip_39_word_new_br_6: raw<br>comic<br>document<br>forward<br>inmate<br>bind
+bip_39_word_new_br_7: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell
+bip_39_word_new_br_8: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee
+bip_39_word_new_br_9: raw<br>comic<br>document<br>forward<br>inmate<br>bind<br>spell<br>fee<br>entire
+bip_39_word_new_line_1: raw
+bip_39_word_new_line_10: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell
+
+  fee
+
+  entire
+
+  feed'
+bip_39_word_new_line_11: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell
+
+  fee
+
+  entire
+
+  feed
+
+  family'
+bip_39_word_new_line_12: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell
+
+  fee
+
+  entire
+
+  feed
+
+  family
+
+  arm'
+bip_39_word_new_line_2: 'raw
+
+  comic'
+bip_39_word_new_line_3: 'raw
+
+  comic
+
+  document'
+bip_39_word_new_line_4: 'raw
+
+  comic
+
+  document
+
+  forward'
+bip_39_word_new_line_5: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate'
+bip_39_word_new_line_6: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind'
+bip_39_word_new_line_7: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell'
+bip_39_word_new_line_8: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell
+
+  fee'
+bip_39_word_new_line_9: 'raw
+
+  comic
+
+  document
+
+  forward
+
+  inmate
+
+  bind
+
+  spell
+
+  fee
+
+  entire'
+bip_39_word_no_space_1: raw
+bip_39_word_no_space_10: rawcomicdocumentforwardinmatebindspellfeeentirefeed
+bip_39_word_no_space_11: rawcomicdocumentforwardinmatebindspellfeeentirefeedfamily
+bip_39_word_no_space_12: rawcomicdocumentforwardinmatebindspellfeeentirefeedfamilyarm
+bip_39_word_no_space_2: rawcomic
+bip_39_word_no_space_3: rawcomicdocument
+bip_39_word_no_space_4: rawcomicdocumentforward
+bip_39_word_no_space_5: rawcomicdocumentforwardinmate
+bip_39_word_no_space_6: rawcomicdocumentforwardinmatebind
+bip_39_word_no_space_7: rawcomicdocumentforwardinmatebindspell
+bip_39_word_no_space_8: rawcomicdocumentforwardinmatebindspellfee
+bip_39_word_no_space_9: rawcomicdocumentforwardinmatebindspellfeeentire
+bip_39_word_space_0:
+- raw
+- comic
+- document
+- forward
+- inmate
+- bind
+- spell
+- fee
+- entire
+- feed
+- family
+- arm
+bip_39_word_space_1: raw
+bip_39_word_space_10: raw comic document forward inmate bind spell fee entire feed
+bip_39_word_space_11: raw comic document forward inmate bind spell fee entire feed
+  family
+bip_39_word_space_12: raw comic document forward inmate bind spell fee entire feed
+  family arm
+bip_39_word_space_2: raw comic
+bip_39_word_space_3: raw comic document
+bip_39_word_space_4: raw comic document forward
+bip_39_word_space_5: raw comic document forward inmate
+bip_39_word_space_6: raw comic document forward inmate bind
+bip_39_word_space_7: raw comic document forward inmate bind spell
+bip_39_word_space_8: raw comic document forward inmate bind spell fee
+bip_39_word_space_9: raw comic document forward inmate bind spell fee entire
+bip_39_word_underscore_1: raw
+bip_39_word_underscore_10: raw_comic_document_forward_inmate_bind_spell_fee_entire_feed
+bip_39_word_underscore_11: raw_comic_document_forward_inmate_bind_spell_fee_entire_feed_family
+bip_39_word_underscore_12: raw_comic_document_forward_inmate_bind_spell_fee_entire_feed_family_arm
+bip_39_word_underscore_2: raw_comic
+bip_39_word_underscore_3: raw_comic_document
+bip_39_word_underscore_4: raw_comic_document_forward
+bip_39_word_underscore_5: raw_comic_document_forward_inmate
+bip_39_word_underscore_6: raw_comic_document_forward_inmate_bind
+bip_39_word_underscore_7: raw_comic_document_forward_inmate_bind_spell
+bip_39_word_underscore_8: raw_comic_document_forward_inmate_bind_spell_fee
+bip_39_word_underscore_9: raw_comic_document_forward_inmate_bind_spell_fee_entire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_12_12
 id_no_color: '031212'
 id_no_size: '03_12_12'
 id_no_type: tray_03_12_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_12_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_12_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_12_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207a68l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207a68l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207a68l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '031212'
 name_no_size: 03 12 12
 name_no_size_short: 03 12 12
 name_no_type: Tray 03 12 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_12_12
 oomp_word: spaghetti headphones poop
 oomp_word_emoji: ':spaghetti: :headphones: :poop:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: goose
+bip_39_word_dash_10: goose-orient-report-blind-claim-copper-similar-betray-color-pair
+bip_39_word_dash_11: goose-orient-report-blind-claim-copper-similar-betray-color-pair-copy
+bip_39_word_dash_12: goose-orient-report-blind-claim-copper-similar-betray-color-pair-copy-analyst
+bip_39_word_dash_2: goose-orient
+bip_39_word_dash_3: goose-orient-report
+bip_39_word_dash_4: goose-orient-report-blind
+bip_39_word_dash_5: goose-orient-report-blind-claim
+bip_39_word_dash_6: goose-orient-report-blind-claim-copper
+bip_39_word_dash_7: goose-orient-report-blind-claim-copper-similar
+bip_39_word_dash_8: goose-orient-report-blind-claim-copper-similar-betray
+bip_39_word_dash_9: goose-orient-report-blind-claim-copper-similar-betray-color
+bip_39_word_new_br_1: goose
+bip_39_word_new_br_10: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair
+bip_39_word_new_br_11: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair<br>copy
+bip_39_word_new_br_12: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color<br>pair<br>copy<br>analyst
+bip_39_word_new_br_2: goose<br>orient
+bip_39_word_new_br_3: goose<br>orient<br>report
+bip_39_word_new_br_4: goose<br>orient<br>report<br>blind
+bip_39_word_new_br_5: goose<br>orient<br>report<br>blind<br>claim
+bip_39_word_new_br_6: goose<br>orient<br>report<br>blind<br>claim<br>copper
+bip_39_word_new_br_7: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar
+bip_39_word_new_br_8: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray
+bip_39_word_new_br_9: goose<br>orient<br>report<br>blind<br>claim<br>copper<br>similar<br>betray<br>color
+bip_39_word_new_line_1: goose
+bip_39_word_new_line_10: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar
+
+  betray
+
+  color
+
+  pair'
+bip_39_word_new_line_11: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar
+
+  betray
+
+  color
+
+  pair
+
+  copy'
+bip_39_word_new_line_12: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar
+
+  betray
+
+  color
+
+  pair
+
+  copy
+
+  analyst'
+bip_39_word_new_line_2: 'goose
+
+  orient'
+bip_39_word_new_line_3: 'goose
+
+  orient
+
+  report'
+bip_39_word_new_line_4: 'goose
+
+  orient
+
+  report
+
+  blind'
+bip_39_word_new_line_5: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim'
+bip_39_word_new_line_6: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper'
+bip_39_word_new_line_7: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar'
+bip_39_word_new_line_8: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar
+
+  betray'
+bip_39_word_new_line_9: 'goose
+
+  orient
+
+  report
+
+  blind
+
+  claim
+
+  copper
+
+  similar
+
+  betray
+
+  color'
+bip_39_word_no_space_1: goose
+bip_39_word_no_space_10: gooseorientreportblindclaimcoppersimilarbetraycolorpair
+bip_39_word_no_space_11: gooseorientreportblindclaimcoppersimilarbetraycolorpaircopy
+bip_39_word_no_space_12: gooseorientreportblindclaimcoppersimilarbetraycolorpaircopyanalyst
+bip_39_word_no_space_2: gooseorient
+bip_39_word_no_space_3: gooseorientreport
+bip_39_word_no_space_4: gooseorientreportblind
+bip_39_word_no_space_5: gooseorientreportblindclaim
+bip_39_word_no_space_6: gooseorientreportblindclaimcopper
+bip_39_word_no_space_7: gooseorientreportblindclaimcoppersimilar
+bip_39_word_no_space_8: gooseorientreportblindclaimcoppersimilarbetray
+bip_39_word_no_space_9: gooseorientreportblindclaimcoppersimilarbetraycolor
+bip_39_word_space_0:
+- goose
+- orient
+- report
+- blind
+- claim
+- copper
+- similar
+- betray
+- color
+- pair
+- copy
+- analyst
+bip_39_word_space_1: goose
+bip_39_word_space_10: goose orient report blind claim copper similar betray color
+  pair
+bip_39_word_space_11: goose orient report blind claim copper similar betray color
+  pair copy
+bip_39_word_space_12: goose orient report blind claim copper similar betray color
+  pair copy analyst
+bip_39_word_space_2: goose orient
+bip_39_word_space_3: goose orient report
+bip_39_word_space_4: goose orient report blind
+bip_39_word_space_5: goose orient report blind claim
+bip_39_word_space_6: goose orient report blind claim copper
+bip_39_word_space_7: goose orient report blind claim copper similar
+bip_39_word_space_8: goose orient report blind claim copper similar betray
+bip_39_word_space_9: goose orient report blind claim copper similar betray color
+bip_39_word_underscore_1: goose
+bip_39_word_underscore_10: goose_orient_report_blind_claim_copper_similar_betray_color_pair
+bip_39_word_underscore_11: goose_orient_report_blind_claim_copper_similar_betray_color_pair_copy
+bip_39_word_underscore_12: goose_orient_report_blind_claim_copper_similar_betray_color_pair_copy_analyst
+bip_39_word_underscore_2: goose_orient
+bip_39_word_underscore_3: goose_orient_report
+bip_39_word_underscore_4: goose_orient_report_blind
+bip_39_word_underscore_5: goose_orient_report_blind_claim
+bip_39_word_underscore_6: goose_orient_report_blind_claim_copper
+bip_39_word_underscore_7: goose_orient_report_blind_claim_copper_similar
+bip_39_word_underscore_8: goose_orient_report_blind_claim_copper_similar_betray
+bip_39_word_underscore_9: goose_orient_report_blind_claim_copper_similar_betray_color
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_13_01__r
 id_no_color: 1301r
 id_no_size: 13_01__r
 id_no_type: bunting_alphabet_13_01__r
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__r
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__r
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__r
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2055xyf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2055xyf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2055xyf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 1301R
 name_no_size: 13 01  R
 name_no_size_short: 13 01  R
 name_no_type: Bunting Alphabet 13 01  R
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__r
 oomp_word: key poodle nose
 oomp_word_emoji: ':key: :poodle: :nose:'

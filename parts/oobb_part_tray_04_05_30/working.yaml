@@ -1,3 +1,223 @@
+bip_39_word_dash_1: abandon
+bip_39_word_dash_10: abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster
+bip_39_word_dash_11: abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster-lounge
+bip_39_word_dash_12: abandon-trip-caution-skill-fiber-chimney-board-cross-little-oyster-lounge-aim
+bip_39_word_dash_2: abandon-trip
+bip_39_word_dash_3: abandon-trip-caution
+bip_39_word_dash_4: abandon-trip-caution-skill
+bip_39_word_dash_5: abandon-trip-caution-skill-fiber
+bip_39_word_dash_6: abandon-trip-caution-skill-fiber-chimney
+bip_39_word_dash_7: abandon-trip-caution-skill-fiber-chimney-board
+bip_39_word_dash_8: abandon-trip-caution-skill-fiber-chimney-board-cross
+bip_39_word_dash_9: abandon-trip-caution-skill-fiber-chimney-board-cross-little
+bip_39_word_new_br_1: abandon
+bip_39_word_new_br_10: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster
+bip_39_word_new_br_11: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster<br>lounge
+bip_39_word_new_br_12: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little<br>oyster<br>lounge<br>aim
+bip_39_word_new_br_2: abandon<br>trip
+bip_39_word_new_br_3: abandon<br>trip<br>caution
+bip_39_word_new_br_4: abandon<br>trip<br>caution<br>skill
+bip_39_word_new_br_5: abandon<br>trip<br>caution<br>skill<br>fiber
+bip_39_word_new_br_6: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney
+bip_39_word_new_br_7: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board
+bip_39_word_new_br_8: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross
+bip_39_word_new_br_9: abandon<br>trip<br>caution<br>skill<br>fiber<br>chimney<br>board<br>cross<br>little
+bip_39_word_new_line_1: abandon
+bip_39_word_new_line_10: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board
+
+  cross
+
+  little
+
+  oyster'
+bip_39_word_new_line_11: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board
+
+  cross
+
+  little
+
+  oyster
+
+  lounge'
+bip_39_word_new_line_12: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board
+
+  cross
+
+  little
+
+  oyster
+
+  lounge
+
+  aim'
+bip_39_word_new_line_2: 'abandon
+
+  trip'
+bip_39_word_new_line_3: 'abandon
+
+  trip
+
+  caution'
+bip_39_word_new_line_4: 'abandon
+
+  trip
+
+  caution
+
+  skill'
+bip_39_word_new_line_5: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber'
+bip_39_word_new_line_6: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney'
+bip_39_word_new_line_7: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board'
+bip_39_word_new_line_8: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board
+
+  cross'
+bip_39_word_new_line_9: 'abandon
+
+  trip
+
+  caution
+
+  skill
+
+  fiber
+
+  chimney
+
+  board
+
+  cross
+
+  little'
+bip_39_word_no_space_1: abandon
+bip_39_word_no_space_10: abandontripcautionskillfiberchimneyboardcrosslittleoyster
+bip_39_word_no_space_11: abandontripcautionskillfiberchimneyboardcrosslittleoysterlounge
+bip_39_word_no_space_12: abandontripcautionskillfiberchimneyboardcrosslittleoysterloungeaim
+bip_39_word_no_space_2: abandontrip
+bip_39_word_no_space_3: abandontripcaution
+bip_39_word_no_space_4: abandontripcautionskill
+bip_39_word_no_space_5: abandontripcautionskillfiber
+bip_39_word_no_space_6: abandontripcautionskillfiberchimney
+bip_39_word_no_space_7: abandontripcautionskillfiberchimneyboard
+bip_39_word_no_space_8: abandontripcautionskillfiberchimneyboardcross
+bip_39_word_no_space_9: abandontripcautionskillfiberchimneyboardcrosslittle
+bip_39_word_space_0:
+- abandon
+- trip
+- caution
+- skill
+- fiber
+- chimney
+- board
+- cross
+- little
+- oyster
+- lounge
+- aim
+bip_39_word_space_1: abandon
+bip_39_word_space_10: abandon trip caution skill fiber chimney board cross little
+  oyster
+bip_39_word_space_11: abandon trip caution skill fiber chimney board cross little
+  oyster lounge
+bip_39_word_space_12: abandon trip caution skill fiber chimney board cross little
+  oyster lounge aim
+bip_39_word_space_2: abandon trip
+bip_39_word_space_3: abandon trip caution
+bip_39_word_space_4: abandon trip caution skill
+bip_39_word_space_5: abandon trip caution skill fiber
+bip_39_word_space_6: abandon trip caution skill fiber chimney
+bip_39_word_space_7: abandon trip caution skill fiber chimney board
+bip_39_word_space_8: abandon trip caution skill fiber chimney board cross
+bip_39_word_space_9: abandon trip caution skill fiber chimney board cross little
+bip_39_word_underscore_1: abandon
+bip_39_word_underscore_10: abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster
+bip_39_word_underscore_11: abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster_lounge
+bip_39_word_underscore_12: abandon_trip_caution_skill_fiber_chimney_board_cross_little_oyster_lounge_aim
+bip_39_word_underscore_2: abandon_trip
+bip_39_word_underscore_3: abandon_trip_caution
+bip_39_word_underscore_4: abandon_trip_caution_skill
+bip_39_word_underscore_5: abandon_trip_caution_skill_fiber
+bip_39_word_underscore_6: abandon_trip_caution_skill_fiber_chimney
+bip_39_word_underscore_7: abandon_trip_caution_skill_fiber_chimney_board
+bip_39_word_underscore_8: abandon_trip_caution_skill_fiber_chimney_board_cross
+bip_39_word_underscore_9: abandon_trip_caution_skill_fiber_chimney_board_cross_little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_05_30
 id_no_color: '040530'
 id_no_size: '04_05_30'
 id_no_type: tray_04_05_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_05_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_05_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_05_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bfzb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bfzb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bfzb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '040530'
 name_no_size: 04 05 30
 name_no_size_short: 04 05 30
 name_no_type: Tray 04 05 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_05_30
 oomp_word: dolphin scream guitar
 oomp_word_emoji: ':dolphin: :scream: :guitar:'

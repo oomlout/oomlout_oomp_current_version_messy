@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Mechanical Motor Geared Tt Standard
+* name_short: 
 ### id
 * oomp_id: mechanical_motor_geared_tt_standard
   * classification: mechanical

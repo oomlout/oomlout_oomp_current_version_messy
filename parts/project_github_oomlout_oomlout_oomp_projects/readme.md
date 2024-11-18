@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Projects
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_projects
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hourglass: :snake: :chestnut:
 * md5_6_alpha: 506ej
 * md5_6: 80456b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20506ej)
+[2x1](http://192.168.1.242:1112/?label=oomp%20506ej)
+[6x4](http://192.168.1.55:1112/?label=oomp%20506ej)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_projects)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ code |
 | id_no_color | oomp_projects |  
 | id_no_size | oomp_projects |  
 | id_no_type | oomlout_oomlout_oomp_projects |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_projects |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_projects |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20506ej |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20506ej |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20506ej |  
 | link_redirect | https://github.com/oomlout/oomlout_OOMP_projects |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ code |
 | name_no_size | Oomp Projects |  
 | name_no_size_short | Oomp Projects |  
 | name_no_type | Oomlout Oomlout Oomp Projects |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_projects |  
 | oomp_word | hourglass snake chestnut |  
 | oomp_word_emoji | :hourglass: :snake: :chestnut: |  

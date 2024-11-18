@@ -1,3 +1,221 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any
+bip_39_word_dash_11: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any-culture
+bip_39_word_dash_12: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron-any-culture-address
+bip_39_word_dash_2: pilot-trim
+bip_39_word_dash_3: pilot-trim-eight
+bip_39_word_dash_4: pilot-trim-eight-robust
+bip_39_word_dash_5: pilot-trim-eight-robust-pledge
+bip_39_word_dash_6: pilot-trim-eight-robust-pledge-armor
+bip_39_word_dash_7: pilot-trim-eight-robust-pledge-armor-bulk
+bip_39_word_dash_8: pilot-trim-eight-robust-pledge-armor-bulk-canoe
+bip_39_word_dash_9: pilot-trim-eight-robust-pledge-armor-bulk-canoe-iron
+bip_39_word_new_br_1: pilot
+bip_39_word_new_br_10: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any
+bip_39_word_new_br_11: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any<br>culture
+bip_39_word_new_br_12: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron<br>any<br>culture<br>address
+bip_39_word_new_br_2: pilot<br>trim
+bip_39_word_new_br_3: pilot<br>trim<br>eight
+bip_39_word_new_br_4: pilot<br>trim<br>eight<br>robust
+bip_39_word_new_br_5: pilot<br>trim<br>eight<br>robust<br>pledge
+bip_39_word_new_br_6: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor
+bip_39_word_new_br_7: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk
+bip_39_word_new_br_8: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe
+bip_39_word_new_br_9: pilot<br>trim<br>eight<br>robust<br>pledge<br>armor<br>bulk<br>canoe<br>iron
+bip_39_word_new_line_1: pilot
+bip_39_word_new_line_10: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk
+
+  canoe
+
+  iron
+
+  any'
+bip_39_word_new_line_11: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk
+
+  canoe
+
+  iron
+
+  any
+
+  culture'
+bip_39_word_new_line_12: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk
+
+  canoe
+
+  iron
+
+  any
+
+  culture
+
+  address'
+bip_39_word_new_line_2: 'pilot
+
+  trim'
+bip_39_word_new_line_3: 'pilot
+
+  trim
+
+  eight'
+bip_39_word_new_line_4: 'pilot
+
+  trim
+
+  eight
+
+  robust'
+bip_39_word_new_line_5: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge'
+bip_39_word_new_line_6: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor'
+bip_39_word_new_line_7: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk'
+bip_39_word_new_line_8: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk
+
+  canoe'
+bip_39_word_new_line_9: 'pilot
+
+  trim
+
+  eight
+
+  robust
+
+  pledge
+
+  armor
+
+  bulk
+
+  canoe
+
+  iron'
+bip_39_word_no_space_1: pilot
+bip_39_word_no_space_10: pilottrimeightrobustpledgearmorbulkcanoeironany
+bip_39_word_no_space_11: pilottrimeightrobustpledgearmorbulkcanoeironanyculture
+bip_39_word_no_space_12: pilottrimeightrobustpledgearmorbulkcanoeironanycultureaddress
+bip_39_word_no_space_2: pilottrim
+bip_39_word_no_space_3: pilottrimeight
+bip_39_word_no_space_4: pilottrimeightrobust
+bip_39_word_no_space_5: pilottrimeightrobustpledge
+bip_39_word_no_space_6: pilottrimeightrobustpledgearmor
+bip_39_word_no_space_7: pilottrimeightrobustpledgearmorbulk
+bip_39_word_no_space_8: pilottrimeightrobustpledgearmorbulkcanoe
+bip_39_word_no_space_9: pilottrimeightrobustpledgearmorbulkcanoeiron
+bip_39_word_space_0:
+- pilot
+- trim
+- eight
+- robust
+- pledge
+- armor
+- bulk
+- canoe
+- iron
+- any
+- culture
+- address
+bip_39_word_space_1: pilot
+bip_39_word_space_10: pilot trim eight robust pledge armor bulk canoe iron any
+bip_39_word_space_11: pilot trim eight robust pledge armor bulk canoe iron any culture
+bip_39_word_space_12: pilot trim eight robust pledge armor bulk canoe iron any culture
+  address
+bip_39_word_space_2: pilot trim
+bip_39_word_space_3: pilot trim eight
+bip_39_word_space_4: pilot trim eight robust
+bip_39_word_space_5: pilot trim eight robust pledge
+bip_39_word_space_6: pilot trim eight robust pledge armor
+bip_39_word_space_7: pilot trim eight robust pledge armor bulk
+bip_39_word_space_8: pilot trim eight robust pledge armor bulk canoe
+bip_39_word_space_9: pilot trim eight robust pledge armor bulk canoe iron
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any
+bip_39_word_underscore_11: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any_culture
+bip_39_word_underscore_12: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron_any_culture_address
+bip_39_word_underscore_2: pilot_trim
+bip_39_word_underscore_3: pilot_trim_eight
+bip_39_word_underscore_4: pilot_trim_eight_robust
+bip_39_word_underscore_5: pilot_trim_eight_robust_pledge
+bip_39_word_underscore_6: pilot_trim_eight_robust_pledge_armor
+bip_39_word_underscore_7: pilot_trim_eight_robust_pledge_armor_bulk
+bip_39_word_underscore_8: pilot_trim_eight_robust_pledge_armor_bulk_canoe
+bip_39_word_underscore_9: pilot_trim_eight_robust_pledge_armor_bulk_canoe_iron
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_04_2d5_21
 id_no_color: 042d521
 id_no_size: 04_2d5_21
 id_no_type: tray_04_2d5_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_2d5_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_2d5_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2024fsy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2024fsy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2024fsy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 042D521
 name_no_size: 04 2D5 21
 name_no_size_short: 04 2D5 21
 name_no_type: Tray 04 2D5 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_2d5_21
 oomp_word: rabbit chestnut blush
 oomp_word_emoji: ':rabbit: :chestnut: :blush:'

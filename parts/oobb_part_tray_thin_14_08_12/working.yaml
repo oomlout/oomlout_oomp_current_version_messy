@@ -1,3 +1,222 @@
+bip_39_word_dash_1: become
+bip_39_word_dash_10: become-thought-pull-spot-club-assist-lottery-ramp-loop-grief
+bip_39_word_dash_11: become-thought-pull-spot-club-assist-lottery-ramp-loop-grief-light
+bip_39_word_dash_12: become-thought-pull-spot-club-assist-lottery-ramp-loop-grief-light-accident
+bip_39_word_dash_2: become-thought
+bip_39_word_dash_3: become-thought-pull
+bip_39_word_dash_4: become-thought-pull-spot
+bip_39_word_dash_5: become-thought-pull-spot-club
+bip_39_word_dash_6: become-thought-pull-spot-club-assist
+bip_39_word_dash_7: become-thought-pull-spot-club-assist-lottery
+bip_39_word_dash_8: become-thought-pull-spot-club-assist-lottery-ramp
+bip_39_word_dash_9: become-thought-pull-spot-club-assist-lottery-ramp-loop
+bip_39_word_new_br_1: become
+bip_39_word_new_br_10: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief
+bip_39_word_new_br_11: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief<br>light
+bip_39_word_new_br_12: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop<br>grief<br>light<br>accident
+bip_39_word_new_br_2: become<br>thought
+bip_39_word_new_br_3: become<br>thought<br>pull
+bip_39_word_new_br_4: become<br>thought<br>pull<br>spot
+bip_39_word_new_br_5: become<br>thought<br>pull<br>spot<br>club
+bip_39_word_new_br_6: become<br>thought<br>pull<br>spot<br>club<br>assist
+bip_39_word_new_br_7: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery
+bip_39_word_new_br_8: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp
+bip_39_word_new_br_9: become<br>thought<br>pull<br>spot<br>club<br>assist<br>lottery<br>ramp<br>loop
+bip_39_word_new_line_1: become
+bip_39_word_new_line_10: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery
+
+  ramp
+
+  loop
+
+  grief'
+bip_39_word_new_line_11: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery
+
+  ramp
+
+  loop
+
+  grief
+
+  light'
+bip_39_word_new_line_12: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery
+
+  ramp
+
+  loop
+
+  grief
+
+  light
+
+  accident'
+bip_39_word_new_line_2: 'become
+
+  thought'
+bip_39_word_new_line_3: 'become
+
+  thought
+
+  pull'
+bip_39_word_new_line_4: 'become
+
+  thought
+
+  pull
+
+  spot'
+bip_39_word_new_line_5: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club'
+bip_39_word_new_line_6: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist'
+bip_39_word_new_line_7: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery'
+bip_39_word_new_line_8: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery
+
+  ramp'
+bip_39_word_new_line_9: 'become
+
+  thought
+
+  pull
+
+  spot
+
+  club
+
+  assist
+
+  lottery
+
+  ramp
+
+  loop'
+bip_39_word_no_space_1: become
+bip_39_word_no_space_10: becomethoughtpullspotclubassistlotteryramploopgrief
+bip_39_word_no_space_11: becomethoughtpullspotclubassistlotteryramploopgrieflight
+bip_39_word_no_space_12: becomethoughtpullspotclubassistlotteryramploopgrieflightaccident
+bip_39_word_no_space_2: becomethought
+bip_39_word_no_space_3: becomethoughtpull
+bip_39_word_no_space_4: becomethoughtpullspot
+bip_39_word_no_space_5: becomethoughtpullspotclub
+bip_39_word_no_space_6: becomethoughtpullspotclubassist
+bip_39_word_no_space_7: becomethoughtpullspotclubassistlottery
+bip_39_word_no_space_8: becomethoughtpullspotclubassistlotteryramp
+bip_39_word_no_space_9: becomethoughtpullspotclubassistlotteryramploop
+bip_39_word_space_0:
+- become
+- thought
+- pull
+- spot
+- club
+- assist
+- lottery
+- ramp
+- loop
+- grief
+- light
+- accident
+bip_39_word_space_1: become
+bip_39_word_space_10: become thought pull spot club assist lottery ramp loop grief
+bip_39_word_space_11: become thought pull spot club assist lottery ramp loop grief
+  light
+bip_39_word_space_12: become thought pull spot club assist lottery ramp loop grief
+  light accident
+bip_39_word_space_2: become thought
+bip_39_word_space_3: become thought pull
+bip_39_word_space_4: become thought pull spot
+bip_39_word_space_5: become thought pull spot club
+bip_39_word_space_6: become thought pull spot club assist
+bip_39_word_space_7: become thought pull spot club assist lottery
+bip_39_word_space_8: become thought pull spot club assist lottery ramp
+bip_39_word_space_9: become thought pull spot club assist lottery ramp loop
+bip_39_word_underscore_1: become
+bip_39_word_underscore_10: become_thought_pull_spot_club_assist_lottery_ramp_loop_grief
+bip_39_word_underscore_11: become_thought_pull_spot_club_assist_lottery_ramp_loop_grief_light
+bip_39_word_underscore_12: become_thought_pull_spot_club_assist_lottery_ramp_loop_grief_light_accident
+bip_39_word_underscore_2: become_thought
+bip_39_word_underscore_3: become_thought_pull
+bip_39_word_underscore_4: become_thought_pull_spot
+bip_39_word_underscore_5: become_thought_pull_spot_club
+bip_39_word_underscore_6: become_thought_pull_spot_club_assist
+bip_39_word_underscore_7: become_thought_pull_spot_club_assist_lottery
+bip_39_word_underscore_8: become_thought_pull_spot_club_assist_lottery_ramp
+bip_39_word_underscore_9: become_thought_pull_spot_club_assist_lottery_ramp_loop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_08_12
 id_no_color: '140812'
 id_no_size: '14_08_12'
 id_no_type: tray_thin_14_08_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_08_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_08_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_08_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20wbo9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20wbo9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20wbo9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140812'
 name_no_size: 14 08 12
 name_no_size_short: 14 08 12
 name_no_type: Tray Thin 14 08 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_08_12
 oomp_word: thumbsdown grin pray
 oomp_word_emoji: ':thumbsdown: :grin: :pray:'

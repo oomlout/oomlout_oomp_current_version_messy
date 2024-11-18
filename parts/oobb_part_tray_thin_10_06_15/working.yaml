@@ -1,3 +1,222 @@
+bip_39_word_dash_1: please
+bip_39_word_dash_10: please-rough-train-shine-dust-snake-horse-name-asthma-ivory
+bip_39_word_dash_11: please-rough-train-shine-dust-snake-horse-name-asthma-ivory-diet
+bip_39_word_dash_12: please-rough-train-shine-dust-snake-horse-name-asthma-ivory-diet-absorb
+bip_39_word_dash_2: please-rough
+bip_39_word_dash_3: please-rough-train
+bip_39_word_dash_4: please-rough-train-shine
+bip_39_word_dash_5: please-rough-train-shine-dust
+bip_39_word_dash_6: please-rough-train-shine-dust-snake
+bip_39_word_dash_7: please-rough-train-shine-dust-snake-horse
+bip_39_word_dash_8: please-rough-train-shine-dust-snake-horse-name
+bip_39_word_dash_9: please-rough-train-shine-dust-snake-horse-name-asthma
+bip_39_word_new_br_1: please
+bip_39_word_new_br_10: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse<br>name<br>asthma<br>ivory
+bip_39_word_new_br_11: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse<br>name<br>asthma<br>ivory<br>diet
+bip_39_word_new_br_12: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse<br>name<br>asthma<br>ivory<br>diet<br>absorb
+bip_39_word_new_br_2: please<br>rough
+bip_39_word_new_br_3: please<br>rough<br>train
+bip_39_word_new_br_4: please<br>rough<br>train<br>shine
+bip_39_word_new_br_5: please<br>rough<br>train<br>shine<br>dust
+bip_39_word_new_br_6: please<br>rough<br>train<br>shine<br>dust<br>snake
+bip_39_word_new_br_7: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse
+bip_39_word_new_br_8: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse<br>name
+bip_39_word_new_br_9: please<br>rough<br>train<br>shine<br>dust<br>snake<br>horse<br>name<br>asthma
+bip_39_word_new_line_1: please
+bip_39_word_new_line_10: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse
+
+  name
+
+  asthma
+
+  ivory'
+bip_39_word_new_line_11: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse
+
+  name
+
+  asthma
+
+  ivory
+
+  diet'
+bip_39_word_new_line_12: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse
+
+  name
+
+  asthma
+
+  ivory
+
+  diet
+
+  absorb'
+bip_39_word_new_line_2: 'please
+
+  rough'
+bip_39_word_new_line_3: 'please
+
+  rough
+
+  train'
+bip_39_word_new_line_4: 'please
+
+  rough
+
+  train
+
+  shine'
+bip_39_word_new_line_5: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust'
+bip_39_word_new_line_6: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake'
+bip_39_word_new_line_7: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse'
+bip_39_word_new_line_8: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse
+
+  name'
+bip_39_word_new_line_9: 'please
+
+  rough
+
+  train
+
+  shine
+
+  dust
+
+  snake
+
+  horse
+
+  name
+
+  asthma'
+bip_39_word_no_space_1: please
+bip_39_word_no_space_10: pleaseroughtrainshinedustsnakehorsenameasthmaivory
+bip_39_word_no_space_11: pleaseroughtrainshinedustsnakehorsenameasthmaivorydiet
+bip_39_word_no_space_12: pleaseroughtrainshinedustsnakehorsenameasthmaivorydietabsorb
+bip_39_word_no_space_2: pleaserough
+bip_39_word_no_space_3: pleaseroughtrain
+bip_39_word_no_space_4: pleaseroughtrainshine
+bip_39_word_no_space_5: pleaseroughtrainshinedust
+bip_39_word_no_space_6: pleaseroughtrainshinedustsnake
+bip_39_word_no_space_7: pleaseroughtrainshinedustsnakehorse
+bip_39_word_no_space_8: pleaseroughtrainshinedustsnakehorsename
+bip_39_word_no_space_9: pleaseroughtrainshinedustsnakehorsenameasthma
+bip_39_word_space_0:
+- please
+- rough
+- train
+- shine
+- dust
+- snake
+- horse
+- name
+- asthma
+- ivory
+- diet
+- absorb
+bip_39_word_space_1: please
+bip_39_word_space_10: please rough train shine dust snake horse name asthma ivory
+bip_39_word_space_11: please rough train shine dust snake horse name asthma ivory
+  diet
+bip_39_word_space_12: please rough train shine dust snake horse name asthma ivory
+  diet absorb
+bip_39_word_space_2: please rough
+bip_39_word_space_3: please rough train
+bip_39_word_space_4: please rough train shine
+bip_39_word_space_5: please rough train shine dust
+bip_39_word_space_6: please rough train shine dust snake
+bip_39_word_space_7: please rough train shine dust snake horse
+bip_39_word_space_8: please rough train shine dust snake horse name
+bip_39_word_space_9: please rough train shine dust snake horse name asthma
+bip_39_word_underscore_1: please
+bip_39_word_underscore_10: please_rough_train_shine_dust_snake_horse_name_asthma_ivory
+bip_39_word_underscore_11: please_rough_train_shine_dust_snake_horse_name_asthma_ivory_diet
+bip_39_word_underscore_12: please_rough_train_shine_dust_snake_horse_name_asthma_ivory_diet_absorb
+bip_39_word_underscore_2: please_rough
+bip_39_word_underscore_3: please_rough_train
+bip_39_word_underscore_4: please_rough_train_shine
+bip_39_word_underscore_5: please_rough_train_shine_dust
+bip_39_word_underscore_6: please_rough_train_shine_dust_snake
+bip_39_word_underscore_7: please_rough_train_shine_dust_snake_horse
+bip_39_word_underscore_8: please_rough_train_shine_dust_snake_horse_name
+bip_39_word_underscore_9: please_rough_train_shine_dust_snake_horse_name_asthma
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_06_15
 id_no_color: '100615'
 id_no_size: '10_06_15'
 id_no_type: tray_thin_10_06_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_06_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20hj6l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20hj6l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20hj6l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100615'
 name_no_size: 10 06 15
 name_no_size_short: 10 06 15
 name_no_type: Tray Thin 10 06 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_06_15
 oomp_word: alien computer blowfish
 oomp_word_emoji: ':alien: :computer: :blowfish:'

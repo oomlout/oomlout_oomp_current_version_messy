@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wise
+bip_39_word_dash_10: wise-devote-squirrel-roast-perfect-cloud-inform-price-unable-like
+bip_39_word_dash_11: wise-devote-squirrel-roast-perfect-cloud-inform-price-unable-like-age
+bip_39_word_dash_12: wise-devote-squirrel-roast-perfect-cloud-inform-price-unable-like-age-approve
+bip_39_word_dash_2: wise-devote
+bip_39_word_dash_3: wise-devote-squirrel
+bip_39_word_dash_4: wise-devote-squirrel-roast
+bip_39_word_dash_5: wise-devote-squirrel-roast-perfect
+bip_39_word_dash_6: wise-devote-squirrel-roast-perfect-cloud
+bip_39_word_dash_7: wise-devote-squirrel-roast-perfect-cloud-inform
+bip_39_word_dash_8: wise-devote-squirrel-roast-perfect-cloud-inform-price
+bip_39_word_dash_9: wise-devote-squirrel-roast-perfect-cloud-inform-price-unable
+bip_39_word_new_br_1: wise
+bip_39_word_new_br_10: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform<br>price<br>unable<br>like
+bip_39_word_new_br_11: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform<br>price<br>unable<br>like<br>age
+bip_39_word_new_br_12: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform<br>price<br>unable<br>like<br>age<br>approve
+bip_39_word_new_br_2: wise<br>devote
+bip_39_word_new_br_3: wise<br>devote<br>squirrel
+bip_39_word_new_br_4: wise<br>devote<br>squirrel<br>roast
+bip_39_word_new_br_5: wise<br>devote<br>squirrel<br>roast<br>perfect
+bip_39_word_new_br_6: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud
+bip_39_word_new_br_7: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform
+bip_39_word_new_br_8: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform<br>price
+bip_39_word_new_br_9: wise<br>devote<br>squirrel<br>roast<br>perfect<br>cloud<br>inform<br>price<br>unable
+bip_39_word_new_line_1: wise
+bip_39_word_new_line_10: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform
+
+  price
+
+  unable
+
+  like'
+bip_39_word_new_line_11: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform
+
+  price
+
+  unable
+
+  like
+
+  age'
+bip_39_word_new_line_12: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform
+
+  price
+
+  unable
+
+  like
+
+  age
+
+  approve'
+bip_39_word_new_line_2: 'wise
+
+  devote'
+bip_39_word_new_line_3: 'wise
+
+  devote
+
+  squirrel'
+bip_39_word_new_line_4: 'wise
+
+  devote
+
+  squirrel
+
+  roast'
+bip_39_word_new_line_5: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect'
+bip_39_word_new_line_6: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud'
+bip_39_word_new_line_7: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform'
+bip_39_word_new_line_8: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform
+
+  price'
+bip_39_word_new_line_9: 'wise
+
+  devote
+
+  squirrel
+
+  roast
+
+  perfect
+
+  cloud
+
+  inform
+
+  price
+
+  unable'
+bip_39_word_no_space_1: wise
+bip_39_word_no_space_10: wisedevotesquirrelroastperfectcloudinformpriceunablelike
+bip_39_word_no_space_11: wisedevotesquirrelroastperfectcloudinformpriceunablelikeage
+bip_39_word_no_space_12: wisedevotesquirrelroastperfectcloudinformpriceunablelikeageapprove
+bip_39_word_no_space_2: wisedevote
+bip_39_word_no_space_3: wisedevotesquirrel
+bip_39_word_no_space_4: wisedevotesquirrelroast
+bip_39_word_no_space_5: wisedevotesquirrelroastperfect
+bip_39_word_no_space_6: wisedevotesquirrelroastperfectcloud
+bip_39_word_no_space_7: wisedevotesquirrelroastperfectcloudinform
+bip_39_word_no_space_8: wisedevotesquirrelroastperfectcloudinformprice
+bip_39_word_no_space_9: wisedevotesquirrelroastperfectcloudinformpriceunable
+bip_39_word_space_0:
+- wise
+- devote
+- squirrel
+- roast
+- perfect
+- cloud
+- inform
+- price
+- unable
+- like
+- age
+- approve
+bip_39_word_space_1: wise
+bip_39_word_space_10: wise devote squirrel roast perfect cloud inform price unable
+  like
+bip_39_word_space_11: wise devote squirrel roast perfect cloud inform price unable
+  like age
+bip_39_word_space_12: wise devote squirrel roast perfect cloud inform price unable
+  like age approve
+bip_39_word_space_2: wise devote
+bip_39_word_space_3: wise devote squirrel
+bip_39_word_space_4: wise devote squirrel roast
+bip_39_word_space_5: wise devote squirrel roast perfect
+bip_39_word_space_6: wise devote squirrel roast perfect cloud
+bip_39_word_space_7: wise devote squirrel roast perfect cloud inform
+bip_39_word_space_8: wise devote squirrel roast perfect cloud inform price
+bip_39_word_space_9: wise devote squirrel roast perfect cloud inform price unable
+bip_39_word_underscore_1: wise
+bip_39_word_underscore_10: wise_devote_squirrel_roast_perfect_cloud_inform_price_unable_like
+bip_39_word_underscore_11: wise_devote_squirrel_roast_perfect_cloud_inform_price_unable_like_age
+bip_39_word_underscore_12: wise_devote_squirrel_roast_perfect_cloud_inform_price_unable_like_age_approve
+bip_39_word_underscore_2: wise_devote
+bip_39_word_underscore_3: wise_devote_squirrel
+bip_39_word_underscore_4: wise_devote_squirrel_roast
+bip_39_word_underscore_5: wise_devote_squirrel_roast_perfect
+bip_39_word_underscore_6: wise_devote_squirrel_roast_perfect_cloud
+bip_39_word_underscore_7: wise_devote_squirrel_roast_perfect_cloud_inform
+bip_39_word_underscore_8: wise_devote_squirrel_roast_perfect_cloud_inform_price
+bip_39_word_underscore_9: wise_devote_squirrel_roast_perfect_cloud_inform_price_unable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_plate_03_03_15__u_double
 id_no_color: 030315udouble
 id_no_size: 03_03_15__u_double
 id_no_type: plate_03_03_15__u_double
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_15__u_double
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_15__u_double
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_15__u_double
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206pnkw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206pnkw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206pnkw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030315Udouble
 name_no_size: 03 03 15  U Double
 name_no_size_short: 03 03 15  U Double
 name_no_type: Plate 03 03 15  U Double
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_03_15__u_double
 oomp_word: shirt angry ring
 oomp_word_emoji: ':shirt: :angry: :ring:'

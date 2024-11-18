@@ -1,3 +1,222 @@
+bip_39_word_dash_1: guess
+bip_39_word_dash_10: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer
+bip_39_word_dash_11: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer-sausage
+bip_39_word_dash_12: guess-aspect-tape-volcano-dream-rib-journey-knee-scout-buyer-sausage-apart
+bip_39_word_dash_2: guess-aspect
+bip_39_word_dash_3: guess-aspect-tape
+bip_39_word_dash_4: guess-aspect-tape-volcano
+bip_39_word_dash_5: guess-aspect-tape-volcano-dream
+bip_39_word_dash_6: guess-aspect-tape-volcano-dream-rib
+bip_39_word_dash_7: guess-aspect-tape-volcano-dream-rib-journey
+bip_39_word_dash_8: guess-aspect-tape-volcano-dream-rib-journey-knee
+bip_39_word_dash_9: guess-aspect-tape-volcano-dream-rib-journey-knee-scout
+bip_39_word_new_br_1: guess
+bip_39_word_new_br_10: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer
+bip_39_word_new_br_11: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer<br>sausage
+bip_39_word_new_br_12: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout<br>buyer<br>sausage<br>apart
+bip_39_word_new_br_2: guess<br>aspect
+bip_39_word_new_br_3: guess<br>aspect<br>tape
+bip_39_word_new_br_4: guess<br>aspect<br>tape<br>volcano
+bip_39_word_new_br_5: guess<br>aspect<br>tape<br>volcano<br>dream
+bip_39_word_new_br_6: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib
+bip_39_word_new_br_7: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey
+bip_39_word_new_br_8: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee
+bip_39_word_new_br_9: guess<br>aspect<br>tape<br>volcano<br>dream<br>rib<br>journey<br>knee<br>scout
+bip_39_word_new_line_1: guess
+bip_39_word_new_line_10: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey
+
+  knee
+
+  scout
+
+  buyer'
+bip_39_word_new_line_11: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey
+
+  knee
+
+  scout
+
+  buyer
+
+  sausage'
+bip_39_word_new_line_12: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey
+
+  knee
+
+  scout
+
+  buyer
+
+  sausage
+
+  apart'
+bip_39_word_new_line_2: 'guess
+
+  aspect'
+bip_39_word_new_line_3: 'guess
+
+  aspect
+
+  tape'
+bip_39_word_new_line_4: 'guess
+
+  aspect
+
+  tape
+
+  volcano'
+bip_39_word_new_line_5: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream'
+bip_39_word_new_line_6: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib'
+bip_39_word_new_line_7: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey'
+bip_39_word_new_line_8: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey
+
+  knee'
+bip_39_word_new_line_9: 'guess
+
+  aspect
+
+  tape
+
+  volcano
+
+  dream
+
+  rib
+
+  journey
+
+  knee
+
+  scout'
+bip_39_word_no_space_1: guess
+bip_39_word_no_space_10: guessaspecttapevolcanodreamribjourneykneescoutbuyer
+bip_39_word_no_space_11: guessaspecttapevolcanodreamribjourneykneescoutbuyersausage
+bip_39_word_no_space_12: guessaspecttapevolcanodreamribjourneykneescoutbuyersausageapart
+bip_39_word_no_space_2: guessaspect
+bip_39_word_no_space_3: guessaspecttape
+bip_39_word_no_space_4: guessaspecttapevolcano
+bip_39_word_no_space_5: guessaspecttapevolcanodream
+bip_39_word_no_space_6: guessaspecttapevolcanodreamrib
+bip_39_word_no_space_7: guessaspecttapevolcanodreamribjourney
+bip_39_word_no_space_8: guessaspecttapevolcanodreamribjourneyknee
+bip_39_word_no_space_9: guessaspecttapevolcanodreamribjourneykneescout
+bip_39_word_space_0:
+- guess
+- aspect
+- tape
+- volcano
+- dream
+- rib
+- journey
+- knee
+- scout
+- buyer
+- sausage
+- apart
+bip_39_word_space_1: guess
+bip_39_word_space_10: guess aspect tape volcano dream rib journey knee scout buyer
+bip_39_word_space_11: guess aspect tape volcano dream rib journey knee scout buyer
+  sausage
+bip_39_word_space_12: guess aspect tape volcano dream rib journey knee scout buyer
+  sausage apart
+bip_39_word_space_2: guess aspect
+bip_39_word_space_3: guess aspect tape
+bip_39_word_space_4: guess aspect tape volcano
+bip_39_word_space_5: guess aspect tape volcano dream
+bip_39_word_space_6: guess aspect tape volcano dream rib
+bip_39_word_space_7: guess aspect tape volcano dream rib journey
+bip_39_word_space_8: guess aspect tape volcano dream rib journey knee
+bip_39_word_space_9: guess aspect tape volcano dream rib journey knee scout
+bip_39_word_underscore_1: guess
+bip_39_word_underscore_10: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer
+bip_39_word_underscore_11: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer_sausage
+bip_39_word_underscore_12: guess_aspect_tape_volcano_dream_rib_journey_knee_scout_buyer_sausage_apart
+bip_39_word_underscore_2: guess_aspect
+bip_39_word_underscore_3: guess_aspect_tape
+bip_39_word_underscore_4: guess_aspect_tape_volcano
+bip_39_word_underscore_5: guess_aspect_tape_volcano_dream
+bip_39_word_underscore_6: guess_aspect_tape_volcano_dream_rib
+bip_39_word_underscore_7: guess_aspect_tape_volcano_dream_rib_journey
+bip_39_word_underscore_8: guess_aspect_tape_volcano_dream_rib_journey_knee
+bip_39_word_underscore_9: guess_aspect_tape_volcano_dream_rib_journey_knee_scout
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_08_21
 id_no_color: 050821
 id_no_size: 05_08_21
 id_no_type: tray_05_08_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_08_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206gguf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206gguf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206gguf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050821
 name_no_size: 05 08 21
 name_no_size_short: 05 08 21
 name_no_type: Tray 05 08 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_08_21
 oomp_word: headphones speaker baby_chick
 oomp_word_emoji: ':headphones: :speaker: :baby_chick:'

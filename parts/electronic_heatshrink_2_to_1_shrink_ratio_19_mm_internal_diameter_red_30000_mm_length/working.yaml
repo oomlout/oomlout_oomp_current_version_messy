@@ -1,3 +1,222 @@
+bip_39_word_dash_1: turkey
+bip_39_word_dash_10: turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum
+bip_39_word_dash_11: turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum-jaguar
+bip_39_word_dash_12: turkey-price-account-sell-grit-lady-observe-shallow-phone-maximum-jaguar-avocado
+bip_39_word_dash_2: turkey-price
+bip_39_word_dash_3: turkey-price-account
+bip_39_word_dash_4: turkey-price-account-sell
+bip_39_word_dash_5: turkey-price-account-sell-grit
+bip_39_word_dash_6: turkey-price-account-sell-grit-lady
+bip_39_word_dash_7: turkey-price-account-sell-grit-lady-observe
+bip_39_word_dash_8: turkey-price-account-sell-grit-lady-observe-shallow
+bip_39_word_dash_9: turkey-price-account-sell-grit-lady-observe-shallow-phone
+bip_39_word_new_br_1: turkey
+bip_39_word_new_br_10: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum
+bip_39_word_new_br_11: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar
+bip_39_word_new_br_12: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone<br>maximum<br>jaguar<br>avocado
+bip_39_word_new_br_2: turkey<br>price
+bip_39_word_new_br_3: turkey<br>price<br>account
+bip_39_word_new_br_4: turkey<br>price<br>account<br>sell
+bip_39_word_new_br_5: turkey<br>price<br>account<br>sell<br>grit
+bip_39_word_new_br_6: turkey<br>price<br>account<br>sell<br>grit<br>lady
+bip_39_word_new_br_7: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe
+bip_39_word_new_br_8: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow
+bip_39_word_new_br_9: turkey<br>price<br>account<br>sell<br>grit<br>lady<br>observe<br>shallow<br>phone
+bip_39_word_new_line_1: turkey
+bip_39_word_new_line_10: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe
+
+  shallow
+
+  phone
+
+  maximum'
+bip_39_word_new_line_11: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe
+
+  shallow
+
+  phone
+
+  maximum
+
+  jaguar'
+bip_39_word_new_line_12: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe
+
+  shallow
+
+  phone
+
+  maximum
+
+  jaguar
+
+  avocado'
+bip_39_word_new_line_2: 'turkey
+
+  price'
+bip_39_word_new_line_3: 'turkey
+
+  price
+
+  account'
+bip_39_word_new_line_4: 'turkey
+
+  price
+
+  account
+
+  sell'
+bip_39_word_new_line_5: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit'
+bip_39_word_new_line_6: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady'
+bip_39_word_new_line_7: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe'
+bip_39_word_new_line_8: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe
+
+  shallow'
+bip_39_word_new_line_9: 'turkey
+
+  price
+
+  account
+
+  sell
+
+  grit
+
+  lady
+
+  observe
+
+  shallow
+
+  phone'
+bip_39_word_no_space_1: turkey
+bip_39_word_no_space_10: turkeypriceaccountsellgritladyobserveshallowphonemaximum
+bip_39_word_no_space_11: turkeypriceaccountsellgritladyobserveshallowphonemaximumjaguar
+bip_39_word_no_space_12: turkeypriceaccountsellgritladyobserveshallowphonemaximumjaguaravocado
+bip_39_word_no_space_2: turkeyprice
+bip_39_word_no_space_3: turkeypriceaccount
+bip_39_word_no_space_4: turkeypriceaccountsell
+bip_39_word_no_space_5: turkeypriceaccountsellgrit
+bip_39_word_no_space_6: turkeypriceaccountsellgritlady
+bip_39_word_no_space_7: turkeypriceaccountsellgritladyobserve
+bip_39_word_no_space_8: turkeypriceaccountsellgritladyobserveshallow
+bip_39_word_no_space_9: turkeypriceaccountsellgritladyobserveshallowphone
+bip_39_word_space_0:
+- turkey
+- price
+- account
+- sell
+- grit
+- lady
+- observe
+- shallow
+- phone
+- maximum
+- jaguar
+- avocado
+bip_39_word_space_1: turkey
+bip_39_word_space_10: turkey price account sell grit lady observe shallow phone maximum
+bip_39_word_space_11: turkey price account sell grit lady observe shallow phone maximum
+  jaguar
+bip_39_word_space_12: turkey price account sell grit lady observe shallow phone maximum
+  jaguar avocado
+bip_39_word_space_2: turkey price
+bip_39_word_space_3: turkey price account
+bip_39_word_space_4: turkey price account sell
+bip_39_word_space_5: turkey price account sell grit
+bip_39_word_space_6: turkey price account sell grit lady
+bip_39_word_space_7: turkey price account sell grit lady observe
+bip_39_word_space_8: turkey price account sell grit lady observe shallow
+bip_39_word_space_9: turkey price account sell grit lady observe shallow phone
+bip_39_word_underscore_1: turkey
+bip_39_word_underscore_10: turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum
+bip_39_word_underscore_11: turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum_jaguar
+bip_39_word_underscore_12: turkey_price_account_sell_grit_lady_observe_shallow_phone_maximum_jaguar_avocado
+bip_39_word_underscore_2: turkey_price
+bip_39_word_underscore_3: turkey_price_account
+bip_39_word_underscore_4: turkey_price_account_sell
+bip_39_word_underscore_5: turkey_price_account_sell_grit
+bip_39_word_underscore_6: turkey_price_account_sell_grit_lady
+bip_39_word_underscore_7: turkey_price_account_sell_grit_lady_observe
+bip_39_word_underscore_8: turkey_price_account_sell_grit_lady_observe_shallow
+bip_39_word_underscore_9: turkey_price_account_sell_grit_lady_observe_shallow_phone
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 30000_mm_length
 id_no_size: red_30000_mm_length
 id_no_type: 19_mm_internal_diameter_red_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209y3c2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209y3c2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209y3c2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 30000 mm Length
 name_no_size: Red 30000 mm Length
 name_no_size_short: Red 30k Mm Length
 name_no_type: 19 mm Internal Diameter Red 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_red_30000_mm_length
 oomp_word: recycle ambulance tulip
 oomp_word_emoji: ':recycle: :ambulance: :tulip:'

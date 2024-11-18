@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cabin
+bip_39_word_dash_10: cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon
+bip_39_word_dash_11: cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon-vote
+bip_39_word_dash_12: cabin-long-vicious-reward-mixed-ship-forum-scheme-february-salmon-vote-apart
+bip_39_word_dash_2: cabin-long
+bip_39_word_dash_3: cabin-long-vicious
+bip_39_word_dash_4: cabin-long-vicious-reward
+bip_39_word_dash_5: cabin-long-vicious-reward-mixed
+bip_39_word_dash_6: cabin-long-vicious-reward-mixed-ship
+bip_39_word_dash_7: cabin-long-vicious-reward-mixed-ship-forum
+bip_39_word_dash_8: cabin-long-vicious-reward-mixed-ship-forum-scheme
+bip_39_word_dash_9: cabin-long-vicious-reward-mixed-ship-forum-scheme-february
+bip_39_word_new_br_1: cabin
+bip_39_word_new_br_10: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon
+bip_39_word_new_br_11: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon<br>vote
+bip_39_word_new_br_12: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february<br>salmon<br>vote<br>apart
+bip_39_word_new_br_2: cabin<br>long
+bip_39_word_new_br_3: cabin<br>long<br>vicious
+bip_39_word_new_br_4: cabin<br>long<br>vicious<br>reward
+bip_39_word_new_br_5: cabin<br>long<br>vicious<br>reward<br>mixed
+bip_39_word_new_br_6: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship
+bip_39_word_new_br_7: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum
+bip_39_word_new_br_8: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme
+bip_39_word_new_br_9: cabin<br>long<br>vicious<br>reward<br>mixed<br>ship<br>forum<br>scheme<br>february
+bip_39_word_new_line_1: cabin
+bip_39_word_new_line_10: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum
+
+  scheme
+
+  february
+
+  salmon'
+bip_39_word_new_line_11: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum
+
+  scheme
+
+  february
+
+  salmon
+
+  vote'
+bip_39_word_new_line_12: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum
+
+  scheme
+
+  february
+
+  salmon
+
+  vote
+
+  apart'
+bip_39_word_new_line_2: 'cabin
+
+  long'
+bip_39_word_new_line_3: 'cabin
+
+  long
+
+  vicious'
+bip_39_word_new_line_4: 'cabin
+
+  long
+
+  vicious
+
+  reward'
+bip_39_word_new_line_5: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed'
+bip_39_word_new_line_6: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship'
+bip_39_word_new_line_7: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum'
+bip_39_word_new_line_8: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum
+
+  scheme'
+bip_39_word_new_line_9: 'cabin
+
+  long
+
+  vicious
+
+  reward
+
+  mixed
+
+  ship
+
+  forum
+
+  scheme
+
+  february'
+bip_39_word_no_space_1: cabin
+bip_39_word_no_space_10: cabinlongviciousrewardmixedshipforumschemefebruarysalmon
+bip_39_word_no_space_11: cabinlongviciousrewardmixedshipforumschemefebruarysalmonvote
+bip_39_word_no_space_12: cabinlongviciousrewardmixedshipforumschemefebruarysalmonvoteapart
+bip_39_word_no_space_2: cabinlong
+bip_39_word_no_space_3: cabinlongvicious
+bip_39_word_no_space_4: cabinlongviciousreward
+bip_39_word_no_space_5: cabinlongviciousrewardmixed
+bip_39_word_no_space_6: cabinlongviciousrewardmixedship
+bip_39_word_no_space_7: cabinlongviciousrewardmixedshipforum
+bip_39_word_no_space_8: cabinlongviciousrewardmixedshipforumscheme
+bip_39_word_no_space_9: cabinlongviciousrewardmixedshipforumschemefebruary
+bip_39_word_space_0:
+- cabin
+- long
+- vicious
+- reward
+- mixed
+- ship
+- forum
+- scheme
+- february
+- salmon
+- vote
+- apart
+bip_39_word_space_1: cabin
+bip_39_word_space_10: cabin long vicious reward mixed ship forum scheme february salmon
+bip_39_word_space_11: cabin long vicious reward mixed ship forum scheme february salmon
+  vote
+bip_39_word_space_12: cabin long vicious reward mixed ship forum scheme february salmon
+  vote apart
+bip_39_word_space_2: cabin long
+bip_39_word_space_3: cabin long vicious
+bip_39_word_space_4: cabin long vicious reward
+bip_39_word_space_5: cabin long vicious reward mixed
+bip_39_word_space_6: cabin long vicious reward mixed ship
+bip_39_word_space_7: cabin long vicious reward mixed ship forum
+bip_39_word_space_8: cabin long vicious reward mixed ship forum scheme
+bip_39_word_space_9: cabin long vicious reward mixed ship forum scheme february
+bip_39_word_underscore_1: cabin
+bip_39_word_underscore_10: cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon
+bip_39_word_underscore_11: cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon_vote
+bip_39_word_underscore_12: cabin_long_vicious_reward_mixed_ship_forum_scheme_february_salmon_vote_apart
+bip_39_word_underscore_2: cabin_long
+bip_39_word_underscore_3: cabin_long_vicious
+bip_39_word_underscore_4: cabin_long_vicious_reward
+bip_39_word_underscore_5: cabin_long_vicious_reward_mixed
+bip_39_word_underscore_6: cabin_long_vicious_reward_mixed_ship
+bip_39_word_underscore_7: cabin_long_vicious_reward_mixed_ship_forum
+bip_39_word_underscore_8: cabin_long_vicious_reward_mixed_ship_forum_scheme
+bip_39_word_underscore_9: cabin_long_vicious_reward_mixed_ship_forum_scheme_february
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_03_06__24_teeth_sh_motor_n20
 id_no_color: 030624teethshmotorn20
 id_no_size: 03_06__24_teeth_sh_motor_n20
 id_no_type: gear_03_06__24_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206h2b3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206h2b3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206h2b3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030624Teethshmotorn20
 name_no_size: 03 06  24 Teeth Sh Motor N20
 name_no_size_short: 03 06  24 Teeth Sh Motor N20
 name_no_type: Gear 03 06  24 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_03_06__24_teeth_sh_motor_n20
 oomp_word: headphones car truck
 oomp_word_emoji: ':headphones: :car: :truck:'

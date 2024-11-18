@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Lga 8 Pin 2 5 mm X 2 5 mm Sensor Pressure Temperature Bosch Bme280
+* name_short: 
 ### id
 * oomp_id: electronic_ic_lga_8_pin_2_5_mm_x_2_5_mm_sensor_pressure_temperature_bosch_bme280
   * classification: electronic

@@ -330,7 +330,14 @@ id_no_color: usb_to_serial_wch_ch340n
 id_no_size: converter_usb_to_serial_converter_wch_ch340n
 id_no_type: sop_8_converter_usb_to_serial_converter_wch_ch340n
 kicad_reference: U
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206rtio
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206rtio
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206rtio
 manufacturer: wch
 manufacturer_capital: Wch
 manufacturer_first_letter: w
@@ -383,6 +390,7 @@ name_no_size: Converter USB To Serial Converter Wch Ch340N
 name_no_size_short: Converter Usb To Serial Converter Wch Ch340N
 name_no_type: Sop 8 Converter USB To Serial Converter Wch Ch340N
 notes: []
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_sop_8_converter_usb_to_serial_converter_wch_ch340n
 oomp_word: dress microscope foggy
 oomp_word_emoji: ':dress: :microscope: :foggy:'

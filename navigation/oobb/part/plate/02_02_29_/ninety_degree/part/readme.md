@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 02 02 29  Ninety Degree
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_02_02_29__ninety_degree
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :angel: :clap: :cupid:
 * md5_6_alpha: 16a6m
 * md5_6: 1e1a0e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2016a6m)
+[2x1](http://192.168.1.242:1112/?label=oomp%2016a6m)
+[6x4](http://192.168.1.55:1112/?label=oomp%2016a6m)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_02_02_29__ninety_degree) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_02_29__ninety_degree)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ wrong |
 | id_no_color | 020229ninetydegree |  
 | id_no_size | 02_02_29__ninety_degree |  
 | id_no_type | plate_02_02_29__ninety_degree |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_02_02_29__ninety_degree |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_02_02_29__ninety_degree |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_02_02_29__ninety_degree |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2016a6m |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2016a6m |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2016a6m |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ wrong |
 | name_no_size | 02 02 29  Ninety Degree |  
 | name_no_size_short | 02 02 29  Ninety Degree |  
 | name_no_type | Plate 02 02 29  Ninety Degree |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_02_02_29__ninety_degree |  
 | oomp_word | angel clap cupid |  
 | oomp_word_emoji | :angel: :clap: :cupid: |  

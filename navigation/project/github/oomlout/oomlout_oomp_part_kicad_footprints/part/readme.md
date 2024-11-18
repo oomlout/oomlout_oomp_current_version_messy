@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Part Kicad Footprints
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_part_kicad_footprints
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lemon: :scroll: :apple:
 * md5_6_alpha: 7v45k
 * md5_6: c98dc8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207v45k)
+[2x1](http://192.168.1.242:1112/?label=oomp%207v45k)
+[6x4](http://192.168.1.55:1112/?label=oomp%207v45k)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ consider |
 | id_no_color | oomp_part_kicad_footprints |  
 | id_no_size | oomp_part_kicad_footprints |  
 | id_no_type | oomlout_oomlout_oomp_part_kicad_footprints |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_part_kicad_footprints |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207v45k |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207v45k |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207v45k |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_part_kicad_footprints |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ consider |
 | name_no_size | Oomp Part Kicad Footprints |  
 | name_no_size_short | Oomp Part Kicad Footprints |  
 | name_no_type | Oomlout Oomlout Oomp Part Kicad Footprints |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_part_kicad_footprints |  
 | oomp_word | lemon scroll apple |  
 | oomp_word_emoji | :lemon: :scroll: :apple: |  

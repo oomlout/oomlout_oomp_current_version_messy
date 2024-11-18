@@ -1,3 +1,222 @@
+bip_39_word_dash_1: furnace
+bip_39_word_dash_10: furnace-before-call-iron-often-car-industry-fitness-swift-dog
+bip_39_word_dash_11: furnace-before-call-iron-often-car-industry-fitness-swift-dog-virtual
+bip_39_word_dash_12: furnace-before-call-iron-often-car-industry-fitness-swift-dog-virtual-april
+bip_39_word_dash_2: furnace-before
+bip_39_word_dash_3: furnace-before-call
+bip_39_word_dash_4: furnace-before-call-iron
+bip_39_word_dash_5: furnace-before-call-iron-often
+bip_39_word_dash_6: furnace-before-call-iron-often-car
+bip_39_word_dash_7: furnace-before-call-iron-often-car-industry
+bip_39_word_dash_8: furnace-before-call-iron-often-car-industry-fitness
+bip_39_word_dash_9: furnace-before-call-iron-often-car-industry-fitness-swift
+bip_39_word_new_br_1: furnace
+bip_39_word_new_br_10: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry<br>fitness<br>swift<br>dog
+bip_39_word_new_br_11: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry<br>fitness<br>swift<br>dog<br>virtual
+bip_39_word_new_br_12: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry<br>fitness<br>swift<br>dog<br>virtual<br>april
+bip_39_word_new_br_2: furnace<br>before
+bip_39_word_new_br_3: furnace<br>before<br>call
+bip_39_word_new_br_4: furnace<br>before<br>call<br>iron
+bip_39_word_new_br_5: furnace<br>before<br>call<br>iron<br>often
+bip_39_word_new_br_6: furnace<br>before<br>call<br>iron<br>often<br>car
+bip_39_word_new_br_7: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry
+bip_39_word_new_br_8: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry<br>fitness
+bip_39_word_new_br_9: furnace<br>before<br>call<br>iron<br>often<br>car<br>industry<br>fitness<br>swift
+bip_39_word_new_line_1: furnace
+bip_39_word_new_line_10: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry
+
+  fitness
+
+  swift
+
+  dog'
+bip_39_word_new_line_11: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry
+
+  fitness
+
+  swift
+
+  dog
+
+  virtual'
+bip_39_word_new_line_12: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry
+
+  fitness
+
+  swift
+
+  dog
+
+  virtual
+
+  april'
+bip_39_word_new_line_2: 'furnace
+
+  before'
+bip_39_word_new_line_3: 'furnace
+
+  before
+
+  call'
+bip_39_word_new_line_4: 'furnace
+
+  before
+
+  call
+
+  iron'
+bip_39_word_new_line_5: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often'
+bip_39_word_new_line_6: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car'
+bip_39_word_new_line_7: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry'
+bip_39_word_new_line_8: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry
+
+  fitness'
+bip_39_word_new_line_9: 'furnace
+
+  before
+
+  call
+
+  iron
+
+  often
+
+  car
+
+  industry
+
+  fitness
+
+  swift'
+bip_39_word_no_space_1: furnace
+bip_39_word_no_space_10: furnacebeforecallironoftencarindustryfitnessswiftdog
+bip_39_word_no_space_11: furnacebeforecallironoftencarindustryfitnessswiftdogvirtual
+bip_39_word_no_space_12: furnacebeforecallironoftencarindustryfitnessswiftdogvirtualapril
+bip_39_word_no_space_2: furnacebefore
+bip_39_word_no_space_3: furnacebeforecall
+bip_39_word_no_space_4: furnacebeforecalliron
+bip_39_word_no_space_5: furnacebeforecallironoften
+bip_39_word_no_space_6: furnacebeforecallironoftencar
+bip_39_word_no_space_7: furnacebeforecallironoftencarindustry
+bip_39_word_no_space_8: furnacebeforecallironoftencarindustryfitness
+bip_39_word_no_space_9: furnacebeforecallironoftencarindustryfitnessswift
+bip_39_word_space_0:
+- furnace
+- before
+- call
+- iron
+- often
+- car
+- industry
+- fitness
+- swift
+- dog
+- virtual
+- april
+bip_39_word_space_1: furnace
+bip_39_word_space_10: furnace before call iron often car industry fitness swift dog
+bip_39_word_space_11: furnace before call iron often car industry fitness swift dog
+  virtual
+bip_39_word_space_12: furnace before call iron often car industry fitness swift dog
+  virtual april
+bip_39_word_space_2: furnace before
+bip_39_word_space_3: furnace before call
+bip_39_word_space_4: furnace before call iron
+bip_39_word_space_5: furnace before call iron often
+bip_39_word_space_6: furnace before call iron often car
+bip_39_word_space_7: furnace before call iron often car industry
+bip_39_word_space_8: furnace before call iron often car industry fitness
+bip_39_word_space_9: furnace before call iron often car industry fitness swift
+bip_39_word_underscore_1: furnace
+bip_39_word_underscore_10: furnace_before_call_iron_often_car_industry_fitness_swift_dog
+bip_39_word_underscore_11: furnace_before_call_iron_often_car_industry_fitness_swift_dog_virtual
+bip_39_word_underscore_12: furnace_before_call_iron_often_car_industry_fitness_swift_dog_virtual_april
+bip_39_word_underscore_2: furnace_before
+bip_39_word_underscore_3: furnace_before_call
+bip_39_word_underscore_4: furnace_before_call_iron
+bip_39_word_underscore_5: furnace_before_call_iron_often
+bip_39_word_underscore_6: furnace_before_call_iron_often_car
+bip_39_word_underscore_7: furnace_before_call_iron_often_car_industry
+bip_39_word_underscore_8: furnace_before_call_iron_often_car_industry_fitness
+bip_39_word_underscore_9: furnace_before_call_iron_often_car_industry_fitness_swift
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -131,7 +350,14 @@ id_no_color: 8_pin_dupont
 id_no_size: black_8_pin_dupont
 id_no_type: 2_54_mm_black_8_pin_dupont
 kicad_reference: CRHO
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_8_pin_dupont
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_8_pin_dupont
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_8_pin_dupont
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206v3dc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206v3dc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206v3dc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -157,6 +383,7 @@ name_no_color: 8 Pin Dupont
 name_no_size: Black 8 Pin Dupont
 name_no_size_short: Black 8 Pin Dupont
 name_no_type: 2 54 mm Black 8 Pin Dupont
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_8_pin_dupont
 oomp_word: tophat tram banana
 oomp_word_emoji: ':tophat: :tram: :banana:'

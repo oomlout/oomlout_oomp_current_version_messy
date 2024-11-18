@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pelican
+bip_39_word_dash_10: pelican-foot-verify-glow-magic-shove-candy-farm-common-private
+bip_39_word_dash_11: pelican-foot-verify-glow-magic-shove-candy-farm-common-private-equal
+bip_39_word_dash_12: pelican-foot-verify-glow-magic-shove-candy-farm-common-private-equal-about
+bip_39_word_dash_2: pelican-foot
+bip_39_word_dash_3: pelican-foot-verify
+bip_39_word_dash_4: pelican-foot-verify-glow
+bip_39_word_dash_5: pelican-foot-verify-glow-magic
+bip_39_word_dash_6: pelican-foot-verify-glow-magic-shove
+bip_39_word_dash_7: pelican-foot-verify-glow-magic-shove-candy
+bip_39_word_dash_8: pelican-foot-verify-glow-magic-shove-candy-farm
+bip_39_word_dash_9: pelican-foot-verify-glow-magic-shove-candy-farm-common
+bip_39_word_new_br_1: pelican
+bip_39_word_new_br_10: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private
+bip_39_word_new_br_11: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal
+bip_39_word_new_br_12: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common<br>private<br>equal<br>about
+bip_39_word_new_br_2: pelican<br>foot
+bip_39_word_new_br_3: pelican<br>foot<br>verify
+bip_39_word_new_br_4: pelican<br>foot<br>verify<br>glow
+bip_39_word_new_br_5: pelican<br>foot<br>verify<br>glow<br>magic
+bip_39_word_new_br_6: pelican<br>foot<br>verify<br>glow<br>magic<br>shove
+bip_39_word_new_br_7: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy
+bip_39_word_new_br_8: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm
+bip_39_word_new_br_9: pelican<br>foot<br>verify<br>glow<br>magic<br>shove<br>candy<br>farm<br>common
+bip_39_word_new_line_1: pelican
+bip_39_word_new_line_10: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy
+
+  farm
+
+  common
+
+  private'
+bip_39_word_new_line_11: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy
+
+  farm
+
+  common
+
+  private
+
+  equal'
+bip_39_word_new_line_12: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy
+
+  farm
+
+  common
+
+  private
+
+  equal
+
+  about'
+bip_39_word_new_line_2: 'pelican
+
+  foot'
+bip_39_word_new_line_3: 'pelican
+
+  foot
+
+  verify'
+bip_39_word_new_line_4: 'pelican
+
+  foot
+
+  verify
+
+  glow'
+bip_39_word_new_line_5: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic'
+bip_39_word_new_line_6: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove'
+bip_39_word_new_line_7: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy'
+bip_39_word_new_line_8: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy
+
+  farm'
+bip_39_word_new_line_9: 'pelican
+
+  foot
+
+  verify
+
+  glow
+
+  magic
+
+  shove
+
+  candy
+
+  farm
+
+  common'
+bip_39_word_no_space_1: pelican
+bip_39_word_no_space_10: pelicanfootverifyglowmagicshovecandyfarmcommonprivate
+bip_39_word_no_space_11: pelicanfootverifyglowmagicshovecandyfarmcommonprivateequal
+bip_39_word_no_space_12: pelicanfootverifyglowmagicshovecandyfarmcommonprivateequalabout
+bip_39_word_no_space_2: pelicanfoot
+bip_39_word_no_space_3: pelicanfootverify
+bip_39_word_no_space_4: pelicanfootverifyglow
+bip_39_word_no_space_5: pelicanfootverifyglowmagic
+bip_39_word_no_space_6: pelicanfootverifyglowmagicshove
+bip_39_word_no_space_7: pelicanfootverifyglowmagicshovecandy
+bip_39_word_no_space_8: pelicanfootverifyglowmagicshovecandyfarm
+bip_39_word_no_space_9: pelicanfootverifyglowmagicshovecandyfarmcommon
+bip_39_word_space_0:
+- pelican
+- foot
+- verify
+- glow
+- magic
+- shove
+- candy
+- farm
+- common
+- private
+- equal
+- about
+bip_39_word_space_1: pelican
+bip_39_word_space_10: pelican foot verify glow magic shove candy farm common private
+bip_39_word_space_11: pelican foot verify glow magic shove candy farm common private
+  equal
+bip_39_word_space_12: pelican foot verify glow magic shove candy farm common private
+  equal about
+bip_39_word_space_2: pelican foot
+bip_39_word_space_3: pelican foot verify
+bip_39_word_space_4: pelican foot verify glow
+bip_39_word_space_5: pelican foot verify glow magic
+bip_39_word_space_6: pelican foot verify glow magic shove
+bip_39_word_space_7: pelican foot verify glow magic shove candy
+bip_39_word_space_8: pelican foot verify glow magic shove candy farm
+bip_39_word_space_9: pelican foot verify glow magic shove candy farm common
+bip_39_word_underscore_1: pelican
+bip_39_word_underscore_10: pelican_foot_verify_glow_magic_shove_candy_farm_common_private
+bip_39_word_underscore_11: pelican_foot_verify_glow_magic_shove_candy_farm_common_private_equal
+bip_39_word_underscore_12: pelican_foot_verify_glow_magic_shove_candy_farm_common_private_equal_about
+bip_39_word_underscore_2: pelican_foot
+bip_39_word_underscore_3: pelican_foot_verify
+bip_39_word_underscore_4: pelican_foot_verify_glow
+bip_39_word_underscore_5: pelican_foot_verify_glow_magic
+bip_39_word_underscore_6: pelican_foot_verify_glow_magic_shove
+bip_39_word_underscore_7: pelican_foot_verify_glow_magic_shove_candy
+bip_39_word_underscore_8: pelican_foot_verify_glow_magic_shove_candy_farm
+bip_39_word_underscore_9: pelican_foot_verify_glow_magic_shove_candy_farm_common
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 270000ohm
 id_no_size: 270000_ohm
 id_no_type: 1206_270000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_270000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_1206_270000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2099gq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2099gq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2099gq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 270000Ohm
 name_no_size: 270000 Ohm
 name_no_size_short: 270k Ohm
 name_no_type: 1206 270000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_270000_ohm
 oomp_word: sleeping tennis umbrella
 oomp_word_emoji: ':sleeping: :tennis: :umbrella:'

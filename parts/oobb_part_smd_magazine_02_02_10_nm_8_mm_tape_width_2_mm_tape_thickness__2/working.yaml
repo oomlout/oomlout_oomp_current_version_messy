@@ -1,3 +1,223 @@
+bip_39_word_dash_1: typical
+bip_39_word_dash_10: typical-muffin-head-stone-document-shallow-erase-scheme-edit-major
+bip_39_word_dash_11: typical-muffin-head-stone-document-shallow-erase-scheme-edit-major-siege
+bip_39_word_dash_12: typical-muffin-head-stone-document-shallow-erase-scheme-edit-major-siege-approve
+bip_39_word_dash_2: typical-muffin
+bip_39_word_dash_3: typical-muffin-head
+bip_39_word_dash_4: typical-muffin-head-stone
+bip_39_word_dash_5: typical-muffin-head-stone-document
+bip_39_word_dash_6: typical-muffin-head-stone-document-shallow
+bip_39_word_dash_7: typical-muffin-head-stone-document-shallow-erase
+bip_39_word_dash_8: typical-muffin-head-stone-document-shallow-erase-scheme
+bip_39_word_dash_9: typical-muffin-head-stone-document-shallow-erase-scheme-edit
+bip_39_word_new_br_1: typical
+bip_39_word_new_br_10: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major
+bip_39_word_new_br_11: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major<br>siege
+bip_39_word_new_br_12: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit<br>major<br>siege<br>approve
+bip_39_word_new_br_2: typical<br>muffin
+bip_39_word_new_br_3: typical<br>muffin<br>head
+bip_39_word_new_br_4: typical<br>muffin<br>head<br>stone
+bip_39_word_new_br_5: typical<br>muffin<br>head<br>stone<br>document
+bip_39_word_new_br_6: typical<br>muffin<br>head<br>stone<br>document<br>shallow
+bip_39_word_new_br_7: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase
+bip_39_word_new_br_8: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme
+bip_39_word_new_br_9: typical<br>muffin<br>head<br>stone<br>document<br>shallow<br>erase<br>scheme<br>edit
+bip_39_word_new_line_1: typical
+bip_39_word_new_line_10: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase
+
+  scheme
+
+  edit
+
+  major'
+bip_39_word_new_line_11: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase
+
+  scheme
+
+  edit
+
+  major
+
+  siege'
+bip_39_word_new_line_12: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase
+
+  scheme
+
+  edit
+
+  major
+
+  siege
+
+  approve'
+bip_39_word_new_line_2: 'typical
+
+  muffin'
+bip_39_word_new_line_3: 'typical
+
+  muffin
+
+  head'
+bip_39_word_new_line_4: 'typical
+
+  muffin
+
+  head
+
+  stone'
+bip_39_word_new_line_5: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document'
+bip_39_word_new_line_6: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow'
+bip_39_word_new_line_7: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase'
+bip_39_word_new_line_8: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase
+
+  scheme'
+bip_39_word_new_line_9: 'typical
+
+  muffin
+
+  head
+
+  stone
+
+  document
+
+  shallow
+
+  erase
+
+  scheme
+
+  edit'
+bip_39_word_no_space_1: typical
+bip_39_word_no_space_10: typicalmuffinheadstonedocumentshalloweraseschemeeditmajor
+bip_39_word_no_space_11: typicalmuffinheadstonedocumentshalloweraseschemeeditmajorsiege
+bip_39_word_no_space_12: typicalmuffinheadstonedocumentshalloweraseschemeeditmajorsiegeapprove
+bip_39_word_no_space_2: typicalmuffin
+bip_39_word_no_space_3: typicalmuffinhead
+bip_39_word_no_space_4: typicalmuffinheadstone
+bip_39_word_no_space_5: typicalmuffinheadstonedocument
+bip_39_word_no_space_6: typicalmuffinheadstonedocumentshallow
+bip_39_word_no_space_7: typicalmuffinheadstonedocumentshallowerase
+bip_39_word_no_space_8: typicalmuffinheadstonedocumentshallowerasescheme
+bip_39_word_no_space_9: typicalmuffinheadstonedocumentshalloweraseschemeedit
+bip_39_word_space_0:
+- typical
+- muffin
+- head
+- stone
+- document
+- shallow
+- erase
+- scheme
+- edit
+- major
+- siege
+- approve
+bip_39_word_space_1: typical
+bip_39_word_space_10: typical muffin head stone document shallow erase scheme edit
+  major
+bip_39_word_space_11: typical muffin head stone document shallow erase scheme edit
+  major siege
+bip_39_word_space_12: typical muffin head stone document shallow erase scheme edit
+  major siege approve
+bip_39_word_space_2: typical muffin
+bip_39_word_space_3: typical muffin head
+bip_39_word_space_4: typical muffin head stone
+bip_39_word_space_5: typical muffin head stone document
+bip_39_word_space_6: typical muffin head stone document shallow
+bip_39_word_space_7: typical muffin head stone document shallow erase
+bip_39_word_space_8: typical muffin head stone document shallow erase scheme
+bip_39_word_space_9: typical muffin head stone document shallow erase scheme edit
+bip_39_word_underscore_1: typical
+bip_39_word_underscore_10: typical_muffin_head_stone_document_shallow_erase_scheme_edit_major
+bip_39_word_underscore_11: typical_muffin_head_stone_document_shallow_erase_scheme_edit_major_siege
+bip_39_word_underscore_12: typical_muffin_head_stone_document_shallow_erase_scheme_edit_major_siege_approve
+bip_39_word_underscore_2: typical_muffin
+bip_39_word_underscore_3: typical_muffin_head
+bip_39_word_underscore_4: typical_muffin_head_stone
+bip_39_word_underscore_5: typical_muffin_head_stone_document
+bip_39_word_underscore_6: typical_muffin_head_stone_document_shallow
+bip_39_word_underscore_7: typical_muffin_head_stone_document_shallow_erase
+bip_39_word_underscore_8: typical_muffin_head_stone_document_shallow_erase_scheme
+bip_39_word_underscore_9: typical_muffin_head_stone_document_shallow_erase_scheme_edit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__
 id_no_color: 020210nm8mmtapewidth2mmtapethickness2
 id_no_size: 02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206rspt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206rspt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206rspt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020210Nm8mmtapewidth2mmtapethickness2
 name_no_size: 02 02 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 02 02 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 02 02 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: dress scissors feet
 oomp_word_emoji: ':dress: :scissors: :feet:'

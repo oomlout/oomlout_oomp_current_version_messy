@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document
+bip_39_word_dash_11: rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document-jacket
+bip_39_word_dash_12: rely-museum-broccoli-stable-various-doll-bargain-traffic-gown-document-jacket-arena
+bip_39_word_dash_2: rely-museum
+bip_39_word_dash_3: rely-museum-broccoli
+bip_39_word_dash_4: rely-museum-broccoli-stable
+bip_39_word_dash_5: rely-museum-broccoli-stable-various
+bip_39_word_dash_6: rely-museum-broccoli-stable-various-doll
+bip_39_word_dash_7: rely-museum-broccoli-stable-various-doll-bargain
+bip_39_word_dash_8: rely-museum-broccoli-stable-various-doll-bargain-traffic
+bip_39_word_dash_9: rely-museum-broccoli-stable-various-doll-bargain-traffic-gown
+bip_39_word_new_br_1: rely
+bip_39_word_new_br_10: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document
+bip_39_word_new_br_11: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket
+bip_39_word_new_br_12: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown<br>document<br>jacket<br>arena
+bip_39_word_new_br_2: rely<br>museum
+bip_39_word_new_br_3: rely<br>museum<br>broccoli
+bip_39_word_new_br_4: rely<br>museum<br>broccoli<br>stable
+bip_39_word_new_br_5: rely<br>museum<br>broccoli<br>stable<br>various
+bip_39_word_new_br_6: rely<br>museum<br>broccoli<br>stable<br>various<br>doll
+bip_39_word_new_br_7: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain
+bip_39_word_new_br_8: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic
+bip_39_word_new_br_9: rely<br>museum<br>broccoli<br>stable<br>various<br>doll<br>bargain<br>traffic<br>gown
+bip_39_word_new_line_1: rely
+bip_39_word_new_line_10: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain
+
+  traffic
+
+  gown
+
+  document'
+bip_39_word_new_line_11: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain
+
+  traffic
+
+  gown
+
+  document
+
+  jacket'
+bip_39_word_new_line_12: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain
+
+  traffic
+
+  gown
+
+  document
+
+  jacket
+
+  arena'
+bip_39_word_new_line_2: 'rely
+
+  museum'
+bip_39_word_new_line_3: 'rely
+
+  museum
+
+  broccoli'
+bip_39_word_new_line_4: 'rely
+
+  museum
+
+  broccoli
+
+  stable'
+bip_39_word_new_line_5: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various'
+bip_39_word_new_line_6: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll'
+bip_39_word_new_line_7: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain'
+bip_39_word_new_line_8: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain
+
+  traffic'
+bip_39_word_new_line_9: 'rely
+
+  museum
+
+  broccoli
+
+  stable
+
+  various
+
+  doll
+
+  bargain
+
+  traffic
+
+  gown'
+bip_39_word_no_space_1: rely
+bip_39_word_no_space_10: relymuseumbroccolistablevariousdollbargaintrafficgowndocument
+bip_39_word_no_space_11: relymuseumbroccolistablevariousdollbargaintrafficgowndocumentjacket
+bip_39_word_no_space_12: relymuseumbroccolistablevariousdollbargaintrafficgowndocumentjacketarena
+bip_39_word_no_space_2: relymuseum
+bip_39_word_no_space_3: relymuseumbroccoli
+bip_39_word_no_space_4: relymuseumbroccolistable
+bip_39_word_no_space_5: relymuseumbroccolistablevarious
+bip_39_word_no_space_6: relymuseumbroccolistablevariousdoll
+bip_39_word_no_space_7: relymuseumbroccolistablevariousdollbargain
+bip_39_word_no_space_8: relymuseumbroccolistablevariousdollbargaintraffic
+bip_39_word_no_space_9: relymuseumbroccolistablevariousdollbargaintrafficgown
+bip_39_word_space_0:
+- rely
+- museum
+- broccoli
+- stable
+- various
+- doll
+- bargain
+- traffic
+- gown
+- document
+- jacket
+- arena
+bip_39_word_space_1: rely
+bip_39_word_space_10: rely museum broccoli stable various doll bargain traffic gown
+  document
+bip_39_word_space_11: rely museum broccoli stable various doll bargain traffic gown
+  document jacket
+bip_39_word_space_12: rely museum broccoli stable various doll bargain traffic gown
+  document jacket arena
+bip_39_word_space_2: rely museum
+bip_39_word_space_3: rely museum broccoli
+bip_39_word_space_4: rely museum broccoli stable
+bip_39_word_space_5: rely museum broccoli stable various
+bip_39_word_space_6: rely museum broccoli stable various doll
+bip_39_word_space_7: rely museum broccoli stable various doll bargain
+bip_39_word_space_8: rely museum broccoli stable various doll bargain traffic
+bip_39_word_space_9: rely museum broccoli stable various doll bargain traffic gown
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document
+bip_39_word_underscore_11: rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document_jacket
+bip_39_word_underscore_12: rely_museum_broccoli_stable_various_doll_bargain_traffic_gown_document_jacket_arena
+bip_39_word_underscore_2: rely_museum
+bip_39_word_underscore_3: rely_museum_broccoli
+bip_39_word_underscore_4: rely_museum_broccoli_stable
+bip_39_word_underscore_5: rely_museum_broccoli_stable_various
+bip_39_word_underscore_6: rely_museum_broccoli_stable_various_doll
+bip_39_word_underscore_7: rely_museum_broccoli_stable_various_doll_bargain
+bip_39_word_underscore_8: rely_museum_broccoli_stable_various_doll_bargain_traffic
+bip_39_word_underscore_9: rely_museum_broccoli_stable_various_doll_bargain_traffic_gown
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_10_18
 id_no_color: 1d51018
 id_no_size: 1d5_10_18
 id_no_type: tray_1d5_10_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_10_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_10_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_10_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2074yds
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2074yds
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2074yds
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D51018
 name_no_size: 1D5 10 18
 name_no_size_short: 1D5 10 18
 name_no_type: Tray 1D5 10 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_10_18
 oomp_word: beer ambulance star
 oomp_word_emoji: ':beer: :ambulance: :star:'

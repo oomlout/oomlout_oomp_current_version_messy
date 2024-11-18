@@ -1,3 +1,222 @@
+bip_39_word_dash_1: exclude
+bip_39_word_dash_10: exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare
+bip_39_word_dash_11: exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare-frequent
+bip_39_word_dash_12: exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief-prepare-frequent-animal
+bip_39_word_dash_2: exclude-kick
+bip_39_word_dash_3: exclude-kick-artist
+bip_39_word_dash_4: exclude-kick-artist-hundred
+bip_39_word_dash_5: exclude-kick-artist-hundred-shrug
+bip_39_word_dash_6: exclude-kick-artist-hundred-shrug-beyond
+bip_39_word_dash_7: exclude-kick-artist-hundred-shrug-beyond-roof
+bip_39_word_dash_8: exclude-kick-artist-hundred-shrug-beyond-roof-wrap
+bip_39_word_dash_9: exclude-kick-artist-hundred-shrug-beyond-roof-wrap-relief
+bip_39_word_new_br_1: exclude
+bip_39_word_new_br_10: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare
+bip_39_word_new_br_11: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent
+bip_39_word_new_br_12: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief<br>prepare<br>frequent<br>animal
+bip_39_word_new_br_2: exclude<br>kick
+bip_39_word_new_br_3: exclude<br>kick<br>artist
+bip_39_word_new_br_4: exclude<br>kick<br>artist<br>hundred
+bip_39_word_new_br_5: exclude<br>kick<br>artist<br>hundred<br>shrug
+bip_39_word_new_br_6: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond
+bip_39_word_new_br_7: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof
+bip_39_word_new_br_8: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap
+bip_39_word_new_br_9: exclude<br>kick<br>artist<br>hundred<br>shrug<br>beyond<br>roof<br>wrap<br>relief
+bip_39_word_new_line_1: exclude
+bip_39_word_new_line_10: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof
+
+  wrap
+
+  relief
+
+  prepare'
+bip_39_word_new_line_11: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof
+
+  wrap
+
+  relief
+
+  prepare
+
+  frequent'
+bip_39_word_new_line_12: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof
+
+  wrap
+
+  relief
+
+  prepare
+
+  frequent
+
+  animal'
+bip_39_word_new_line_2: 'exclude
+
+  kick'
+bip_39_word_new_line_3: 'exclude
+
+  kick
+
+  artist'
+bip_39_word_new_line_4: 'exclude
+
+  kick
+
+  artist
+
+  hundred'
+bip_39_word_new_line_5: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug'
+bip_39_word_new_line_6: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond'
+bip_39_word_new_line_7: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof'
+bip_39_word_new_line_8: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof
+
+  wrap'
+bip_39_word_new_line_9: 'exclude
+
+  kick
+
+  artist
+
+  hundred
+
+  shrug
+
+  beyond
+
+  roof
+
+  wrap
+
+  relief'
+bip_39_word_no_space_1: exclude
+bip_39_word_no_space_10: excludekickartisthundredshrugbeyondroofwrapreliefprepare
+bip_39_word_no_space_11: excludekickartisthundredshrugbeyondroofwrapreliefpreparefrequent
+bip_39_word_no_space_12: excludekickartisthundredshrugbeyondroofwrapreliefpreparefrequentanimal
+bip_39_word_no_space_2: excludekick
+bip_39_word_no_space_3: excludekickartist
+bip_39_word_no_space_4: excludekickartisthundred
+bip_39_word_no_space_5: excludekickartisthundredshrug
+bip_39_word_no_space_6: excludekickartisthundredshrugbeyond
+bip_39_word_no_space_7: excludekickartisthundredshrugbeyondroof
+bip_39_word_no_space_8: excludekickartisthundredshrugbeyondroofwrap
+bip_39_word_no_space_9: excludekickartisthundredshrugbeyondroofwraprelief
+bip_39_word_space_0:
+- exclude
+- kick
+- artist
+- hundred
+- shrug
+- beyond
+- roof
+- wrap
+- relief
+- prepare
+- frequent
+- animal
+bip_39_word_space_1: exclude
+bip_39_word_space_10: exclude kick artist hundred shrug beyond roof wrap relief prepare
+bip_39_word_space_11: exclude kick artist hundred shrug beyond roof wrap relief prepare
+  frequent
+bip_39_word_space_12: exclude kick artist hundred shrug beyond roof wrap relief prepare
+  frequent animal
+bip_39_word_space_2: exclude kick
+bip_39_word_space_3: exclude kick artist
+bip_39_word_space_4: exclude kick artist hundred
+bip_39_word_space_5: exclude kick artist hundred shrug
+bip_39_word_space_6: exclude kick artist hundred shrug beyond
+bip_39_word_space_7: exclude kick artist hundred shrug beyond roof
+bip_39_word_space_8: exclude kick artist hundred shrug beyond roof wrap
+bip_39_word_space_9: exclude kick artist hundred shrug beyond roof wrap relief
+bip_39_word_underscore_1: exclude
+bip_39_word_underscore_10: exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare
+bip_39_word_underscore_11: exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare_frequent
+bip_39_word_underscore_12: exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief_prepare_frequent_animal
+bip_39_word_underscore_2: exclude_kick
+bip_39_word_underscore_3: exclude_kick_artist
+bip_39_word_underscore_4: exclude_kick_artist_hundred
+bip_39_word_underscore_5: exclude_kick_artist_hundred_shrug
+bip_39_word_underscore_6: exclude_kick_artist_hundred_shrug_beyond
+bip_39_word_underscore_7: exclude_kick_artist_hundred_shrug_beyond_roof
+bip_39_word_underscore_8: exclude_kick_artist_hundred_shrug_beyond_roof_wrap
+bip_39_word_underscore_9: exclude_kick_artist_hundred_shrug_beyond_roof_wrap_relief
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 4_mm_length_hex_head
 id_no_size: black_4_mm_length_hex_head
 id_no_type: m2_5_black_4_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_5_black_4_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_5_black_4_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_5_black_4_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205naei
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205naei
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205naei
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,27 @@ name_no_color: 4 mm Length Hex Head
 name_no_size: Black 4 mm Length Hex Head
 name_no_size_short: Black 4 Mm Length Hex Head
 name_no_type: M2 5 Black 4 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 4 mm
+oomlout_bolt_length_no_unit: '4'
+oomlout_bolt_md5_6_alpha_first_3: 5na
+oomlout_bolt_md5_6_alpha_first_3_upper: 5NA
+oomlout_bolt_md5_6_alpha_last_3: ei
+oomlout_bolt_md5_6_alpha_last_3_upper: EI
+oomlout_bolt_md5_6_first_3: 90b
+oomlout_bolt_md5_6_first_3_upper: 90B
+oomlout_bolt_md5_6_last_3: 96a
+oomlout_bolt_md5_6_last_3_upper: 96A
+oomlout_bolt_name: Socket Cap M2_5X4 mm Black (Hex Head)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc2d5b4h
+oomlout_short_code_upper: SC2D5B4H
 oomp_key: oomp_hardware_screw_socket_cap_m2_5_black_4_mm_length_hex_head
 oomp_word: scissors fries palm_tree
 oomp_word_emoji: ':scissors: :fries: :palm_tree:'

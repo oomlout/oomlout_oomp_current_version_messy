@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing F600 Series F604 Size 4 mm ID 12 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_F600_series_F604_size_4_mm_id_12_mm_od_4_mm_depth
   * classification: hardware

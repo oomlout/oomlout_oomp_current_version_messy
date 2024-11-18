@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ask
+bip_39_word_dash_10: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount
+bip_39_word_dash_11: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount-invest
+bip_39_word_dash_12: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size-amount-invest-antique
+bip_39_word_dash_2: ask-scout
+bip_39_word_dash_3: ask-scout-taxi
+bip_39_word_dash_4: ask-scout-taxi-include
+bip_39_word_dash_5: ask-scout-taxi-include-rhythm
+bip_39_word_dash_6: ask-scout-taxi-include-rhythm-flip
+bip_39_word_dash_7: ask-scout-taxi-include-rhythm-flip-pelican
+bip_39_word_dash_8: ask-scout-taxi-include-rhythm-flip-pelican-blouse
+bip_39_word_dash_9: ask-scout-taxi-include-rhythm-flip-pelican-blouse-size
+bip_39_word_new_br_1: ask
+bip_39_word_new_br_10: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount
+bip_39_word_new_br_11: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount<br>invest
+bip_39_word_new_br_12: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size<br>amount<br>invest<br>antique
+bip_39_word_new_br_2: ask<br>scout
+bip_39_word_new_br_3: ask<br>scout<br>taxi
+bip_39_word_new_br_4: ask<br>scout<br>taxi<br>include
+bip_39_word_new_br_5: ask<br>scout<br>taxi<br>include<br>rhythm
+bip_39_word_new_br_6: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip
+bip_39_word_new_br_7: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican
+bip_39_word_new_br_8: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse
+bip_39_word_new_br_9: ask<br>scout<br>taxi<br>include<br>rhythm<br>flip<br>pelican<br>blouse<br>size
+bip_39_word_new_line_1: ask
+bip_39_word_new_line_10: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount'
+bip_39_word_new_line_11: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount
+
+  invest'
+bip_39_word_new_line_12: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size
+
+  amount
+
+  invest
+
+  antique'
+bip_39_word_new_line_2: 'ask
+
+  scout'
+bip_39_word_new_line_3: 'ask
+
+  scout
+
+  taxi'
+bip_39_word_new_line_4: 'ask
+
+  scout
+
+  taxi
+
+  include'
+bip_39_word_new_line_5: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm'
+bip_39_word_new_line_6: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip'
+bip_39_word_new_line_7: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican'
+bip_39_word_new_line_8: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse'
+bip_39_word_new_line_9: 'ask
+
+  scout
+
+  taxi
+
+  include
+
+  rhythm
+
+  flip
+
+  pelican
+
+  blouse
+
+  size'
+bip_39_word_no_space_1: ask
+bip_39_word_no_space_10: askscouttaxiincluderhythmflippelicanblousesizeamount
+bip_39_word_no_space_11: askscouttaxiincluderhythmflippelicanblousesizeamountinvest
+bip_39_word_no_space_12: askscouttaxiincluderhythmflippelicanblousesizeamountinvestantique
+bip_39_word_no_space_2: askscout
+bip_39_word_no_space_3: askscouttaxi
+bip_39_word_no_space_4: askscouttaxiinclude
+bip_39_word_no_space_5: askscouttaxiincluderhythm
+bip_39_word_no_space_6: askscouttaxiincluderhythmflip
+bip_39_word_no_space_7: askscouttaxiincluderhythmflippelican
+bip_39_word_no_space_8: askscouttaxiincluderhythmflippelicanblouse
+bip_39_word_no_space_9: askscouttaxiincluderhythmflippelicanblousesize
+bip_39_word_space_0:
+- ask
+- scout
+- taxi
+- include
+- rhythm
+- flip
+- pelican
+- blouse
+- size
+- amount
+- invest
+- antique
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask scout taxi include rhythm flip pelican blouse size amount
+bip_39_word_space_11: ask scout taxi include rhythm flip pelican blouse size amount
+  invest
+bip_39_word_space_12: ask scout taxi include rhythm flip pelican blouse size amount
+  invest antique
+bip_39_word_space_2: ask scout
+bip_39_word_space_3: ask scout taxi
+bip_39_word_space_4: ask scout taxi include
+bip_39_word_space_5: ask scout taxi include rhythm
+bip_39_word_space_6: ask scout taxi include rhythm flip
+bip_39_word_space_7: ask scout taxi include rhythm flip pelican
+bip_39_word_space_8: ask scout taxi include rhythm flip pelican blouse
+bip_39_word_space_9: ask scout taxi include rhythm flip pelican blouse size
+bip_39_word_underscore_1: ask
+bip_39_word_underscore_10: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount
+bip_39_word_underscore_11: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount_invest
+bip_39_word_underscore_12: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size_amount_invest_antique
+bip_39_word_underscore_2: ask_scout
+bip_39_word_underscore_3: ask_scout_taxi
+bip_39_word_underscore_4: ask_scout_taxi_include
+bip_39_word_underscore_5: ask_scout_taxi_include_rhythm
+bip_39_word_underscore_6: ask_scout_taxi_include_rhythm_flip
+bip_39_word_underscore_7: ask_scout_taxi_include_rhythm_flip_pelican
+bip_39_word_underscore_8: ask_scout_taxi_include_rhythm_flip_pelican_blouse
+bip_39_word_underscore_9: ask_scout_taxi_include_rhythm_flip_pelican_blouse_size
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_08_09
 id_no_color: '120809'
 id_no_size: '12_08_09'
 id_no_type: tray_thin_12_08_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_08_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20678aq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20678aq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20678aq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120809'
 name_no_size: 12 08 09
 name_no_size_short: 12 08 09
 name_no_type: Tray Thin 12 08 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_08_09
 oomp_word: clubs car birthday
 oomp_word_emoji: ':clubs: :car: :birthday:'

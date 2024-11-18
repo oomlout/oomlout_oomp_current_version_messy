@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Cardboard Box Postal Tabs C4 324 mm Width 229 mm Height 50 mm Depth Brown
+* name_short: 
 ### id
 * oomp_id: packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :crocodile: :fire: :cow:
 * md5_6_alpha: 3o5dp
 * md5_6: 5e143d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203o5dp)
+[2x1](http://192.168.1.242:1112/?label=oomp%203o5dp)
+[6x4](http://192.168.1.55:1112/?label=oomp%203o5dp)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -262,7 +288,14 @@ spike |
 | id_no_color | brown |  
 | id_no_size | brown |  
 | id_no_type | c4_324_mm_width_229_mm_height_50_mm_depth_brown |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203o5dp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203o5dp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203o5dp |  
 | link_purchase | ['https://www.ebay.co.uk/itm/174043294174?var=474501502317', 'https://ecopostalpack.co.uk/product/c4-extra-deep-pip-style-ecofriendly-cardboard-postal-mail-small-parcelgift-box/'] |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -288,6 +321,7 @@ spike |
 | name_no_size | Brown |  
 | name_no_size_short | Brown |  
 | name_no_type | C4 324 mm Width 229 mm Height 50 mm Depth Brown |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_box_postal_tabs_c4_324_mm_width_229_mm_height_50_mm_depth_brown |  
 | oomp_word | crocodile fire cow |  
 | oomp_word_emoji | :crocodile: :fire: :cow: |  

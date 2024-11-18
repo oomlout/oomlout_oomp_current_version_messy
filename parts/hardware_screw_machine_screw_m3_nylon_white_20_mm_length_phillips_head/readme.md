@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Machine Screw M3 Nylon White 20 mm Length Phillips Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
   * classification: hardware

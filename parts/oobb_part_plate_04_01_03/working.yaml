@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sort
+bip_39_word_dash_10: sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface
+bip_39_word_dash_11: sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface-lift
+bip_39_word_dash_12: sort-grief-chaos-harbor-then-deposit-monkey-ride-can-surface-lift-about
+bip_39_word_dash_2: sort-grief
+bip_39_word_dash_3: sort-grief-chaos
+bip_39_word_dash_4: sort-grief-chaos-harbor
+bip_39_word_dash_5: sort-grief-chaos-harbor-then
+bip_39_word_dash_6: sort-grief-chaos-harbor-then-deposit
+bip_39_word_dash_7: sort-grief-chaos-harbor-then-deposit-monkey
+bip_39_word_dash_8: sort-grief-chaos-harbor-then-deposit-monkey-ride
+bip_39_word_dash_9: sort-grief-chaos-harbor-then-deposit-monkey-ride-can
+bip_39_word_new_br_1: sort
+bip_39_word_new_br_10: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface
+bip_39_word_new_br_11: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface<br>lift
+bip_39_word_new_br_12: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can<br>surface<br>lift<br>about
+bip_39_word_new_br_2: sort<br>grief
+bip_39_word_new_br_3: sort<br>grief<br>chaos
+bip_39_word_new_br_4: sort<br>grief<br>chaos<br>harbor
+bip_39_word_new_br_5: sort<br>grief<br>chaos<br>harbor<br>then
+bip_39_word_new_br_6: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit
+bip_39_word_new_br_7: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey
+bip_39_word_new_br_8: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride
+bip_39_word_new_br_9: sort<br>grief<br>chaos<br>harbor<br>then<br>deposit<br>monkey<br>ride<br>can
+bip_39_word_new_line_1: sort
+bip_39_word_new_line_10: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey
+
+  ride
+
+  can
+
+  surface'
+bip_39_word_new_line_11: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey
+
+  ride
+
+  can
+
+  surface
+
+  lift'
+bip_39_word_new_line_12: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey
+
+  ride
+
+  can
+
+  surface
+
+  lift
+
+  about'
+bip_39_word_new_line_2: 'sort
+
+  grief'
+bip_39_word_new_line_3: 'sort
+
+  grief
+
+  chaos'
+bip_39_word_new_line_4: 'sort
+
+  grief
+
+  chaos
+
+  harbor'
+bip_39_word_new_line_5: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then'
+bip_39_word_new_line_6: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit'
+bip_39_word_new_line_7: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey'
+bip_39_word_new_line_8: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey
+
+  ride'
+bip_39_word_new_line_9: 'sort
+
+  grief
+
+  chaos
+
+  harbor
+
+  then
+
+  deposit
+
+  monkey
+
+  ride
+
+  can'
+bip_39_word_no_space_1: sort
+bip_39_word_no_space_10: sortgriefchaosharborthendepositmonkeyridecansurface
+bip_39_word_no_space_11: sortgriefchaosharborthendepositmonkeyridecansurfacelift
+bip_39_word_no_space_12: sortgriefchaosharborthendepositmonkeyridecansurfaceliftabout
+bip_39_word_no_space_2: sortgrief
+bip_39_word_no_space_3: sortgriefchaos
+bip_39_word_no_space_4: sortgriefchaosharbor
+bip_39_word_no_space_5: sortgriefchaosharborthen
+bip_39_word_no_space_6: sortgriefchaosharborthendeposit
+bip_39_word_no_space_7: sortgriefchaosharborthendepositmonkey
+bip_39_word_no_space_8: sortgriefchaosharborthendepositmonkeyride
+bip_39_word_no_space_9: sortgriefchaosharborthendepositmonkeyridecan
+bip_39_word_space_0:
+- sort
+- grief
+- chaos
+- harbor
+- then
+- deposit
+- monkey
+- ride
+- can
+- surface
+- lift
+- about
+bip_39_word_space_1: sort
+bip_39_word_space_10: sort grief chaos harbor then deposit monkey ride can surface
+bip_39_word_space_11: sort grief chaos harbor then deposit monkey ride can surface
+  lift
+bip_39_word_space_12: sort grief chaos harbor then deposit monkey ride can surface
+  lift about
+bip_39_word_space_2: sort grief
+bip_39_word_space_3: sort grief chaos
+bip_39_word_space_4: sort grief chaos harbor
+bip_39_word_space_5: sort grief chaos harbor then
+bip_39_word_space_6: sort grief chaos harbor then deposit
+bip_39_word_space_7: sort grief chaos harbor then deposit monkey
+bip_39_word_space_8: sort grief chaos harbor then deposit monkey ride
+bip_39_word_space_9: sort grief chaos harbor then deposit monkey ride can
+bip_39_word_underscore_1: sort
+bip_39_word_underscore_10: sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface
+bip_39_word_underscore_11: sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface_lift
+bip_39_word_underscore_12: sort_grief_chaos_harbor_then_deposit_monkey_ride_can_surface_lift_about
+bip_39_word_underscore_2: sort_grief
+bip_39_word_underscore_3: sort_grief_chaos
+bip_39_word_underscore_4: sort_grief_chaos_harbor
+bip_39_word_underscore_5: sort_grief_chaos_harbor_then
+bip_39_word_underscore_6: sort_grief_chaos_harbor_then_deposit
+bip_39_word_underscore_7: sort_grief_chaos_harbor_then_deposit_monkey
+bip_39_word_underscore_8: sort_grief_chaos_harbor_then_deposit_monkey_ride
+bip_39_word_underscore_9: sort_grief_chaos_harbor_then_deposit_monkey_ride_can
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_04_01_03
 id_no_color: '040103'
 id_no_size: '04_01_03'
 id_no_type: plate_04_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209uk6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209uk6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209uk6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040103'
 name_no_size: 04 01 03
 name_no_size_short: 04 01 03
 name_no_type: Plate 04 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_04_01_03
 oomp_word: cry blush five
 oomp_word_emoji: ':cry: :blush: :five:'

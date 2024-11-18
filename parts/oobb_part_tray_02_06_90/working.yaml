@@ -1,3 +1,223 @@
+bip_39_word_dash_1: borrow
+bip_39_word_dash_10: borrow-enlist-illegal-swing-excite-umbrella-praise-spirit-math-north
+bip_39_word_dash_11: borrow-enlist-illegal-swing-excite-umbrella-praise-spirit-math-north-search
+bip_39_word_dash_12: borrow-enlist-illegal-swing-excite-umbrella-praise-spirit-math-north-search-art
+bip_39_word_dash_2: borrow-enlist
+bip_39_word_dash_3: borrow-enlist-illegal
+bip_39_word_dash_4: borrow-enlist-illegal-swing
+bip_39_word_dash_5: borrow-enlist-illegal-swing-excite
+bip_39_word_dash_6: borrow-enlist-illegal-swing-excite-umbrella
+bip_39_word_dash_7: borrow-enlist-illegal-swing-excite-umbrella-praise
+bip_39_word_dash_8: borrow-enlist-illegal-swing-excite-umbrella-praise-spirit
+bip_39_word_dash_9: borrow-enlist-illegal-swing-excite-umbrella-praise-spirit-math
+bip_39_word_new_br_1: borrow
+bip_39_word_new_br_10: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north
+bip_39_word_new_br_11: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north<br>search
+bip_39_word_new_br_12: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math<br>north<br>search<br>art
+bip_39_word_new_br_2: borrow<br>enlist
+bip_39_word_new_br_3: borrow<br>enlist<br>illegal
+bip_39_word_new_br_4: borrow<br>enlist<br>illegal<br>swing
+bip_39_word_new_br_5: borrow<br>enlist<br>illegal<br>swing<br>excite
+bip_39_word_new_br_6: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella
+bip_39_word_new_br_7: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise
+bip_39_word_new_br_8: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit
+bip_39_word_new_br_9: borrow<br>enlist<br>illegal<br>swing<br>excite<br>umbrella<br>praise<br>spirit<br>math
+bip_39_word_new_line_1: borrow
+bip_39_word_new_line_10: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north'
+bip_39_word_new_line_11: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north
+
+  search'
+bip_39_word_new_line_12: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math
+
+  north
+
+  search
+
+  art'
+bip_39_word_new_line_2: 'borrow
+
+  enlist'
+bip_39_word_new_line_3: 'borrow
+
+  enlist
+
+  illegal'
+bip_39_word_new_line_4: 'borrow
+
+  enlist
+
+  illegal
+
+  swing'
+bip_39_word_new_line_5: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite'
+bip_39_word_new_line_6: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella'
+bip_39_word_new_line_7: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise'
+bip_39_word_new_line_8: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit'
+bip_39_word_new_line_9: 'borrow
+
+  enlist
+
+  illegal
+
+  swing
+
+  excite
+
+  umbrella
+
+  praise
+
+  spirit
+
+  math'
+bip_39_word_no_space_1: borrow
+bip_39_word_no_space_10: borrowenlistillegalswingexciteumbrellapraisespiritmathnorth
+bip_39_word_no_space_11: borrowenlistillegalswingexciteumbrellapraisespiritmathnorthsearch
+bip_39_word_no_space_12: borrowenlistillegalswingexciteumbrellapraisespiritmathnorthsearchart
+bip_39_word_no_space_2: borrowenlist
+bip_39_word_no_space_3: borrowenlistillegal
+bip_39_word_no_space_4: borrowenlistillegalswing
+bip_39_word_no_space_5: borrowenlistillegalswingexcite
+bip_39_word_no_space_6: borrowenlistillegalswingexciteumbrella
+bip_39_word_no_space_7: borrowenlistillegalswingexciteumbrellapraise
+bip_39_word_no_space_8: borrowenlistillegalswingexciteumbrellapraisespirit
+bip_39_word_no_space_9: borrowenlistillegalswingexciteumbrellapraisespiritmath
+bip_39_word_space_0:
+- borrow
+- enlist
+- illegal
+- swing
+- excite
+- umbrella
+- praise
+- spirit
+- math
+- north
+- search
+- art
+bip_39_word_space_1: borrow
+bip_39_word_space_10: borrow enlist illegal swing excite umbrella praise spirit math
+  north
+bip_39_word_space_11: borrow enlist illegal swing excite umbrella praise spirit math
+  north search
+bip_39_word_space_12: borrow enlist illegal swing excite umbrella praise spirit math
+  north search art
+bip_39_word_space_2: borrow enlist
+bip_39_word_space_3: borrow enlist illegal
+bip_39_word_space_4: borrow enlist illegal swing
+bip_39_word_space_5: borrow enlist illegal swing excite
+bip_39_word_space_6: borrow enlist illegal swing excite umbrella
+bip_39_word_space_7: borrow enlist illegal swing excite umbrella praise
+bip_39_word_space_8: borrow enlist illegal swing excite umbrella praise spirit
+bip_39_word_space_9: borrow enlist illegal swing excite umbrella praise spirit math
+bip_39_word_underscore_1: borrow
+bip_39_word_underscore_10: borrow_enlist_illegal_swing_excite_umbrella_praise_spirit_math_north
+bip_39_word_underscore_11: borrow_enlist_illegal_swing_excite_umbrella_praise_spirit_math_north_search
+bip_39_word_underscore_12: borrow_enlist_illegal_swing_excite_umbrella_praise_spirit_math_north_search_art
+bip_39_word_underscore_2: borrow_enlist
+bip_39_word_underscore_3: borrow_enlist_illegal
+bip_39_word_underscore_4: borrow_enlist_illegal_swing
+bip_39_word_underscore_5: borrow_enlist_illegal_swing_excite
+bip_39_word_underscore_6: borrow_enlist_illegal_swing_excite_umbrella
+bip_39_word_underscore_7: borrow_enlist_illegal_swing_excite_umbrella_praise
+bip_39_word_underscore_8: borrow_enlist_illegal_swing_excite_umbrella_praise_spirit
+bip_39_word_underscore_9: borrow_enlist_illegal_swing_excite_umbrella_praise_spirit_math
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_02_06_90
 id_no_color: 020690
 id_no_size: 02_06_90
 id_no_type: tray_02_06_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_06_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2080oit
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2080oit
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2080oit
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 020690
 name_no_size: 02 06 90
 name_no_size_short: 02 06 90
 name_no_type: Tray 02 06 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_06_90
 oomp_word: strawberry key ear
 oomp_word_emoji: ':strawberry: :key: :ear:'

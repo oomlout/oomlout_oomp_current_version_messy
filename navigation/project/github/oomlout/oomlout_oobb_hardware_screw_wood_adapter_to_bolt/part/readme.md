@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :herb: :question: :paperclip:
 * md5_6_alpha: 40scy
 * md5_6: 671392
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2040scy)
+[2x1](http://192.168.1.242:1112/?label=oomp%2040scy)
+[6x4](http://192.168.1.55:1112/?label=oomp%2040scy)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ meat |
 | id_no_color | oobb_hardware_screw_wood_adapter_to_bolt |  
 | id_no_size | oobb_hardware_screw_wood_adapter_to_bolt |  
 | id_no_type | oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2040scy |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2040scy |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2040scy |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ meat |
 | name_no_size | Oobb Hardware Screw Wood Adapter To Bolt |  
 | name_no_size_short | Oobb Hardware Screw Wood Adapter To Bolt |  
 | name_no_type | Oomlout Oomlout Oobb Hardware Screw Wood Adapter To Bolt |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_hardware_screw_wood_adapter_to_bolt |  
 | oomp_word | herb question paperclip |  
 | oomp_word_emoji | :herb: :question: :paperclip: |  

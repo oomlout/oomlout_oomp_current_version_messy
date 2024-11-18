@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Utility Basic Code
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_utility_basic_code
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :camera: :cyclone: :tiger:
 * md5_6_alpha: 4rmm1
 * md5_6: 7a2f39
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204rmm1)
+[2x1](http://192.168.1.242:1112/?label=oomp%204rmm1)
+[6x4](http://192.168.1.55:1112/?label=oomp%204rmm1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_basic_code) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_basic_code)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ cave |
 | id_no_color | oomp_utility_basic_code |  
 | id_no_size | oomp_utility_basic_code |  
 | id_no_type | oomlout_oomlout_oomp_utility_basic_code |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_basic_code |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_basic_code |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_basic_code |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204rmm1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204rmm1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204rmm1 |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_utility_basic_code |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ cave |
 | name_no_size | Oomp Utility Basic Code |  
 | name_no_size_short | Oomp Utility Basic Code |  
 | name_no_type | Oomlout Oomlout Oomp Utility Basic Code |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_utility_basic_code |  
 | oomp_word | camera cyclone tiger |  
 | oomp_word_emoji | :camera: :cyclone: :tiger: |  

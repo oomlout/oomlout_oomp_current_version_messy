@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hobby
+bip_39_word_dash_10: hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare
+bip_39_word_dash_11: hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare-hunt
+bip_39_word_dash_12: hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister-spare-hunt-apple
+bip_39_word_dash_2: hobby-spider
+bip_39_word_dash_3: hobby-spider-addict
+bip_39_word_dash_4: hobby-spider-addict-dilemma
+bip_39_word_dash_5: hobby-spider-addict-dilemma-vessel
+bip_39_word_dash_6: hobby-spider-addict-dilemma-vessel-fold
+bip_39_word_dash_7: hobby-spider-addict-dilemma-vessel-fold-immune
+bip_39_word_dash_8: hobby-spider-addict-dilemma-vessel-fold-immune-educate
+bip_39_word_dash_9: hobby-spider-addict-dilemma-vessel-fold-immune-educate-sister
+bip_39_word_new_br_1: hobby
+bip_39_word_new_br_10: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare
+bip_39_word_new_br_11: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare<br>hunt
+bip_39_word_new_br_12: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister<br>spare<br>hunt<br>apple
+bip_39_word_new_br_2: hobby<br>spider
+bip_39_word_new_br_3: hobby<br>spider<br>addict
+bip_39_word_new_br_4: hobby<br>spider<br>addict<br>dilemma
+bip_39_word_new_br_5: hobby<br>spider<br>addict<br>dilemma<br>vessel
+bip_39_word_new_br_6: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold
+bip_39_word_new_br_7: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune
+bip_39_word_new_br_8: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate
+bip_39_word_new_br_9: hobby<br>spider<br>addict<br>dilemma<br>vessel<br>fold<br>immune<br>educate<br>sister
+bip_39_word_new_line_1: hobby
+bip_39_word_new_line_10: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune
+
+  educate
+
+  sister
+
+  spare'
+bip_39_word_new_line_11: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune
+
+  educate
+
+  sister
+
+  spare
+
+  hunt'
+bip_39_word_new_line_12: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune
+
+  educate
+
+  sister
+
+  spare
+
+  hunt
+
+  apple'
+bip_39_word_new_line_2: 'hobby
+
+  spider'
+bip_39_word_new_line_3: 'hobby
+
+  spider
+
+  addict'
+bip_39_word_new_line_4: 'hobby
+
+  spider
+
+  addict
+
+  dilemma'
+bip_39_word_new_line_5: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel'
+bip_39_word_new_line_6: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold'
+bip_39_word_new_line_7: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune'
+bip_39_word_new_line_8: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune
+
+  educate'
+bip_39_word_new_line_9: 'hobby
+
+  spider
+
+  addict
+
+  dilemma
+
+  vessel
+
+  fold
+
+  immune
+
+  educate
+
+  sister'
+bip_39_word_no_space_1: hobby
+bip_39_word_no_space_10: hobbyspideraddictdilemmavesselfoldimmuneeducatesisterspare
+bip_39_word_no_space_11: hobbyspideraddictdilemmavesselfoldimmuneeducatesistersparehunt
+bip_39_word_no_space_12: hobbyspideraddictdilemmavesselfoldimmuneeducatesistersparehuntapple
+bip_39_word_no_space_2: hobbyspider
+bip_39_word_no_space_3: hobbyspideraddict
+bip_39_word_no_space_4: hobbyspideraddictdilemma
+bip_39_word_no_space_5: hobbyspideraddictdilemmavessel
+bip_39_word_no_space_6: hobbyspideraddictdilemmavesselfold
+bip_39_word_no_space_7: hobbyspideraddictdilemmavesselfoldimmune
+bip_39_word_no_space_8: hobbyspideraddictdilemmavesselfoldimmuneeducate
+bip_39_word_no_space_9: hobbyspideraddictdilemmavesselfoldimmuneeducatesister
+bip_39_word_space_0:
+- hobby
+- spider
+- addict
+- dilemma
+- vessel
+- fold
+- immune
+- educate
+- sister
+- spare
+- hunt
+- apple
+bip_39_word_space_1: hobby
+bip_39_word_space_10: hobby spider addict dilemma vessel fold immune educate sister
+  spare
+bip_39_word_space_11: hobby spider addict dilemma vessel fold immune educate sister
+  spare hunt
+bip_39_word_space_12: hobby spider addict dilemma vessel fold immune educate sister
+  spare hunt apple
+bip_39_word_space_2: hobby spider
+bip_39_word_space_3: hobby spider addict
+bip_39_word_space_4: hobby spider addict dilemma
+bip_39_word_space_5: hobby spider addict dilemma vessel
+bip_39_word_space_6: hobby spider addict dilemma vessel fold
+bip_39_word_space_7: hobby spider addict dilemma vessel fold immune
+bip_39_word_space_8: hobby spider addict dilemma vessel fold immune educate
+bip_39_word_space_9: hobby spider addict dilemma vessel fold immune educate sister
+bip_39_word_underscore_1: hobby
+bip_39_word_underscore_10: hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare
+bip_39_word_underscore_11: hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare_hunt
+bip_39_word_underscore_12: hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister_spare_hunt_apple
+bip_39_word_underscore_2: hobby_spider
+bip_39_word_underscore_3: hobby_spider_addict
+bip_39_word_underscore_4: hobby_spider_addict_dilemma
+bip_39_word_underscore_5: hobby_spider_addict_dilemma_vessel
+bip_39_word_underscore_6: hobby_spider_addict_dilemma_vessel_fold
+bip_39_word_underscore_7: hobby_spider_addict_dilemma_vessel_fold_immune
+bip_39_word_underscore_8: hobby_spider_addict_dilemma_vessel_fold_immune_educate
+bip_39_word_underscore_9: hobby_spider_addict_dilemma_vessel_fold_immune_educate_sister
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -61,7 +281,14 @@ id_no_color: 800point
 id_no_size: 800_point
 id_no_type: 800_point
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206o0l0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206o0l0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206o0l0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -87,6 +314,7 @@ name_no_color: 800Point
 name_no_size: 800 Point
 name_no_size_short: 800 Point
 name_no_type: 800 Point
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_prototyping_breadboard_800_point
 oomp_word: lipstick rainbow three
 oomp_word_emoji: ':lipstick: :rainbow: :three:'

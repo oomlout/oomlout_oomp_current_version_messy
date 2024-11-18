@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-fox-loan-rigid-equal-street-lonely-hair-immune-document
+bip_39_word_dash_11: ring-fox-loan-rigid-equal-street-lonely-hair-immune-document-island
+bip_39_word_dash_12: ring-fox-loan-rigid-equal-street-lonely-hair-immune-document-island-artist
+bip_39_word_dash_2: ring-fox
+bip_39_word_dash_3: ring-fox-loan
+bip_39_word_dash_4: ring-fox-loan-rigid
+bip_39_word_dash_5: ring-fox-loan-rigid-equal
+bip_39_word_dash_6: ring-fox-loan-rigid-equal-street
+bip_39_word_dash_7: ring-fox-loan-rigid-equal-street-lonely
+bip_39_word_dash_8: ring-fox-loan-rigid-equal-street-lonely-hair
+bip_39_word_dash_9: ring-fox-loan-rigid-equal-street-lonely-hair-immune
+bip_39_word_new_br_1: ring
+bip_39_word_new_br_10: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document
+bip_39_word_new_br_11: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island
+bip_39_word_new_br_12: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune<br>document<br>island<br>artist
+bip_39_word_new_br_2: ring<br>fox
+bip_39_word_new_br_3: ring<br>fox<br>loan
+bip_39_word_new_br_4: ring<br>fox<br>loan<br>rigid
+bip_39_word_new_br_5: ring<br>fox<br>loan<br>rigid<br>equal
+bip_39_word_new_br_6: ring<br>fox<br>loan<br>rigid<br>equal<br>street
+bip_39_word_new_br_7: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely
+bip_39_word_new_br_8: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair
+bip_39_word_new_br_9: ring<br>fox<br>loan<br>rigid<br>equal<br>street<br>lonely<br>hair<br>immune
+bip_39_word_new_line_1: ring
+bip_39_word_new_line_10: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely
+
+  hair
+
+  immune
+
+  document'
+bip_39_word_new_line_11: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely
+
+  hair
+
+  immune
+
+  document
+
+  island'
+bip_39_word_new_line_12: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely
+
+  hair
+
+  immune
+
+  document
+
+  island
+
+  artist'
+bip_39_word_new_line_2: 'ring
+
+  fox'
+bip_39_word_new_line_3: 'ring
+
+  fox
+
+  loan'
+bip_39_word_new_line_4: 'ring
+
+  fox
+
+  loan
+
+  rigid'
+bip_39_word_new_line_5: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal'
+bip_39_word_new_line_6: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street'
+bip_39_word_new_line_7: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely'
+bip_39_word_new_line_8: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely
+
+  hair'
+bip_39_word_new_line_9: 'ring
+
+  fox
+
+  loan
+
+  rigid
+
+  equal
+
+  street
+
+  lonely
+
+  hair
+
+  immune'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringfoxloanrigidequalstreetlonelyhairimmunedocument
+bip_39_word_no_space_11: ringfoxloanrigidequalstreetlonelyhairimmunedocumentisland
+bip_39_word_no_space_12: ringfoxloanrigidequalstreetlonelyhairimmunedocumentislandartist
+bip_39_word_no_space_2: ringfox
+bip_39_word_no_space_3: ringfoxloan
+bip_39_word_no_space_4: ringfoxloanrigid
+bip_39_word_no_space_5: ringfoxloanrigidequal
+bip_39_word_no_space_6: ringfoxloanrigidequalstreet
+bip_39_word_no_space_7: ringfoxloanrigidequalstreetlonely
+bip_39_word_no_space_8: ringfoxloanrigidequalstreetlonelyhair
+bip_39_word_no_space_9: ringfoxloanrigidequalstreetlonelyhairimmune
+bip_39_word_space_0:
+- ring
+- fox
+- loan
+- rigid
+- equal
+- street
+- lonely
+- hair
+- immune
+- document
+- island
+- artist
+bip_39_word_space_1: ring
+bip_39_word_space_10: ring fox loan rigid equal street lonely hair immune document
+bip_39_word_space_11: ring fox loan rigid equal street lonely hair immune document
+  island
+bip_39_word_space_12: ring fox loan rigid equal street lonely hair immune document
+  island artist
+bip_39_word_space_2: ring fox
+bip_39_word_space_3: ring fox loan
+bip_39_word_space_4: ring fox loan rigid
+bip_39_word_space_5: ring fox loan rigid equal
+bip_39_word_space_6: ring fox loan rigid equal street
+bip_39_word_space_7: ring fox loan rigid equal street lonely
+bip_39_word_space_8: ring fox loan rigid equal street lonely hair
+bip_39_word_space_9: ring fox loan rigid equal street lonely hair immune
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_fox_loan_rigid_equal_street_lonely_hair_immune_document
+bip_39_word_underscore_11: ring_fox_loan_rigid_equal_street_lonely_hair_immune_document_island
+bip_39_word_underscore_12: ring_fox_loan_rigid_equal_street_lonely_hair_immune_document_island_artist
+bip_39_word_underscore_2: ring_fox
+bip_39_word_underscore_3: ring_fox_loan
+bip_39_word_underscore_4: ring_fox_loan_rigid
+bip_39_word_underscore_5: ring_fox_loan_rigid_equal
+bip_39_word_underscore_6: ring_fox_loan_rigid_equal_street
+bip_39_word_underscore_7: ring_fox_loan_rigid_equal_street_lonely
+bip_39_word_underscore_8: ring_fox_loan_rigid_equal_street_lonely_hair
+bip_39_word_underscore_9: ring_fox_loan_rigid_equal_street_lonely_hair_immune
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_07_21
 id_no_color: '030721'
 id_no_size: '03_07_21'
 id_no_type: tray_03_07_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_07_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_07_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_07_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2085gwg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2085gwg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2085gwg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030721'
 name_no_size: 03 07 21
 name_no_size_short: 03 07 21
 name_no_type: Tray 03 07 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_07_21
 oomp_word: banana taxi banana
 oomp_word_emoji: ':banana: :taxi: :banana:'

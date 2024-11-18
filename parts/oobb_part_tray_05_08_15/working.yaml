@@ -1,3 +1,222 @@
+bip_39_word_dash_1: wish
+bip_39_word_dash_10: wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend
+bip_39_word_dash_11: wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend-gaze
+bip_39_word_dash_12: wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth-trend-gaze-addict
+bip_39_word_dash_2: wish-furnace
+bip_39_word_dash_3: wish-furnace-tiny
+bip_39_word_dash_4: wish-furnace-tiny-deliver
+bip_39_word_dash_5: wish-furnace-tiny-deliver-slight
+bip_39_word_dash_6: wish-furnace-tiny-deliver-slight-leg
+bip_39_word_dash_7: wish-furnace-tiny-deliver-slight-leg-fatal
+bip_39_word_dash_8: wish-furnace-tiny-deliver-slight-leg-fatal-copper
+bip_39_word_dash_9: wish-furnace-tiny-deliver-slight-leg-fatal-copper-depth
+bip_39_word_new_br_1: wish
+bip_39_word_new_br_10: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend
+bip_39_word_new_br_11: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze
+bip_39_word_new_br_12: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth<br>trend<br>gaze<br>addict
+bip_39_word_new_br_2: wish<br>furnace
+bip_39_word_new_br_3: wish<br>furnace<br>tiny
+bip_39_word_new_br_4: wish<br>furnace<br>tiny<br>deliver
+bip_39_word_new_br_5: wish<br>furnace<br>tiny<br>deliver<br>slight
+bip_39_word_new_br_6: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg
+bip_39_word_new_br_7: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal
+bip_39_word_new_br_8: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper
+bip_39_word_new_br_9: wish<br>furnace<br>tiny<br>deliver<br>slight<br>leg<br>fatal<br>copper<br>depth
+bip_39_word_new_line_1: wish
+bip_39_word_new_line_10: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal
+
+  copper
+
+  depth
+
+  trend'
+bip_39_word_new_line_11: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal
+
+  copper
+
+  depth
+
+  trend
+
+  gaze'
+bip_39_word_new_line_12: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal
+
+  copper
+
+  depth
+
+  trend
+
+  gaze
+
+  addict'
+bip_39_word_new_line_2: 'wish
+
+  furnace'
+bip_39_word_new_line_3: 'wish
+
+  furnace
+
+  tiny'
+bip_39_word_new_line_4: 'wish
+
+  furnace
+
+  tiny
+
+  deliver'
+bip_39_word_new_line_5: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight'
+bip_39_word_new_line_6: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg'
+bip_39_word_new_line_7: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal'
+bip_39_word_new_line_8: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal
+
+  copper'
+bip_39_word_new_line_9: 'wish
+
+  furnace
+
+  tiny
+
+  deliver
+
+  slight
+
+  leg
+
+  fatal
+
+  copper
+
+  depth'
+bip_39_word_no_space_1: wish
+bip_39_word_no_space_10: wishfurnacetinydeliverslightlegfatalcopperdepthtrend
+bip_39_word_no_space_11: wishfurnacetinydeliverslightlegfatalcopperdepthtrendgaze
+bip_39_word_no_space_12: wishfurnacetinydeliverslightlegfatalcopperdepthtrendgazeaddict
+bip_39_word_no_space_2: wishfurnace
+bip_39_word_no_space_3: wishfurnacetiny
+bip_39_word_no_space_4: wishfurnacetinydeliver
+bip_39_word_no_space_5: wishfurnacetinydeliverslight
+bip_39_word_no_space_6: wishfurnacetinydeliverslightleg
+bip_39_word_no_space_7: wishfurnacetinydeliverslightlegfatal
+bip_39_word_no_space_8: wishfurnacetinydeliverslightlegfatalcopper
+bip_39_word_no_space_9: wishfurnacetinydeliverslightlegfatalcopperdepth
+bip_39_word_space_0:
+- wish
+- furnace
+- tiny
+- deliver
+- slight
+- leg
+- fatal
+- copper
+- depth
+- trend
+- gaze
+- addict
+bip_39_word_space_1: wish
+bip_39_word_space_10: wish furnace tiny deliver slight leg fatal copper depth trend
+bip_39_word_space_11: wish furnace tiny deliver slight leg fatal copper depth trend
+  gaze
+bip_39_word_space_12: wish furnace tiny deliver slight leg fatal copper depth trend
+  gaze addict
+bip_39_word_space_2: wish furnace
+bip_39_word_space_3: wish furnace tiny
+bip_39_word_space_4: wish furnace tiny deliver
+bip_39_word_space_5: wish furnace tiny deliver slight
+bip_39_word_space_6: wish furnace tiny deliver slight leg
+bip_39_word_space_7: wish furnace tiny deliver slight leg fatal
+bip_39_word_space_8: wish furnace tiny deliver slight leg fatal copper
+bip_39_word_space_9: wish furnace tiny deliver slight leg fatal copper depth
+bip_39_word_underscore_1: wish
+bip_39_word_underscore_10: wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend
+bip_39_word_underscore_11: wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend_gaze
+bip_39_word_underscore_12: wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth_trend_gaze_addict
+bip_39_word_underscore_2: wish_furnace
+bip_39_word_underscore_3: wish_furnace_tiny
+bip_39_word_underscore_4: wish_furnace_tiny_deliver
+bip_39_word_underscore_5: wish_furnace_tiny_deliver_slight
+bip_39_word_underscore_6: wish_furnace_tiny_deliver_slight_leg
+bip_39_word_underscore_7: wish_furnace_tiny_deliver_slight_leg_fatal
+bip_39_word_underscore_8: wish_furnace_tiny_deliver_slight_leg_fatal_copper
+bip_39_word_underscore_9: wish_furnace_tiny_deliver_slight_leg_fatal_copper_depth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_08_15
 id_no_color: 050815
 id_no_size: 05_08_15
 id_no_type: tray_05_08_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_08_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20223qy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20223qy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20223qy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050815
 name_no_size: 05 08 15
 name_no_size_short: 05 08 15
 name_no_type: Tray 05 08 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_08_15
 oomp_word: mouse doughnut camera
 oomp_word_emoji: ':mouse: :doughnut: :camera:'

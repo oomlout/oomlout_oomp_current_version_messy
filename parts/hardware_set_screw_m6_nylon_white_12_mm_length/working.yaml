@@ -1,3 +1,224 @@
+bip_39_word_dash_1: license
+bip_39_word_dash_10: license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre
+bip_39_word_dash_11: license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre-twin
+bip_39_word_dash_12: license-brother-fetch-able-eternal-decrease-struggle-suggest-flower-genre-twin-artwork
+bip_39_word_dash_2: license-brother
+bip_39_word_dash_3: license-brother-fetch
+bip_39_word_dash_4: license-brother-fetch-able
+bip_39_word_dash_5: license-brother-fetch-able-eternal
+bip_39_word_dash_6: license-brother-fetch-able-eternal-decrease
+bip_39_word_dash_7: license-brother-fetch-able-eternal-decrease-struggle
+bip_39_word_dash_8: license-brother-fetch-able-eternal-decrease-struggle-suggest
+bip_39_word_dash_9: license-brother-fetch-able-eternal-decrease-struggle-suggest-flower
+bip_39_word_new_br_1: license
+bip_39_word_new_br_10: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre
+bip_39_word_new_br_11: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre<br>twin
+bip_39_word_new_br_12: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower<br>genre<br>twin<br>artwork
+bip_39_word_new_br_2: license<br>brother
+bip_39_word_new_br_3: license<br>brother<br>fetch
+bip_39_word_new_br_4: license<br>brother<br>fetch<br>able
+bip_39_word_new_br_5: license<br>brother<br>fetch<br>able<br>eternal
+bip_39_word_new_br_6: license<br>brother<br>fetch<br>able<br>eternal<br>decrease
+bip_39_word_new_br_7: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle
+bip_39_word_new_br_8: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest
+bip_39_word_new_br_9: license<br>brother<br>fetch<br>able<br>eternal<br>decrease<br>struggle<br>suggest<br>flower
+bip_39_word_new_line_1: license
+bip_39_word_new_line_10: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle
+
+  suggest
+
+  flower
+
+  genre'
+bip_39_word_new_line_11: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle
+
+  suggest
+
+  flower
+
+  genre
+
+  twin'
+bip_39_word_new_line_12: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle
+
+  suggest
+
+  flower
+
+  genre
+
+  twin
+
+  artwork'
+bip_39_word_new_line_2: 'license
+
+  brother'
+bip_39_word_new_line_3: 'license
+
+  brother
+
+  fetch'
+bip_39_word_new_line_4: 'license
+
+  brother
+
+  fetch
+
+  able'
+bip_39_word_new_line_5: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal'
+bip_39_word_new_line_6: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease'
+bip_39_word_new_line_7: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle'
+bip_39_word_new_line_8: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle
+
+  suggest'
+bip_39_word_new_line_9: 'license
+
+  brother
+
+  fetch
+
+  able
+
+  eternal
+
+  decrease
+
+  struggle
+
+  suggest
+
+  flower'
+bip_39_word_no_space_1: license
+bip_39_word_no_space_10: licensebrotherfetchableeternaldecreasestrugglesuggestflowergenre
+bip_39_word_no_space_11: licensebrotherfetchableeternaldecreasestrugglesuggestflowergenretwin
+bip_39_word_no_space_12: licensebrotherfetchableeternaldecreasestrugglesuggestflowergenretwinartwork
+bip_39_word_no_space_2: licensebrother
+bip_39_word_no_space_3: licensebrotherfetch
+bip_39_word_no_space_4: licensebrotherfetchable
+bip_39_word_no_space_5: licensebrotherfetchableeternal
+bip_39_word_no_space_6: licensebrotherfetchableeternaldecrease
+bip_39_word_no_space_7: licensebrotherfetchableeternaldecreasestruggle
+bip_39_word_no_space_8: licensebrotherfetchableeternaldecreasestrugglesuggest
+bip_39_word_no_space_9: licensebrotherfetchableeternaldecreasestrugglesuggestflower
+bip_39_word_space_0:
+- license
+- brother
+- fetch
+- able
+- eternal
+- decrease
+- struggle
+- suggest
+- flower
+- genre
+- twin
+- artwork
+bip_39_word_space_1: license
+bip_39_word_space_10: license brother fetch able eternal decrease struggle suggest
+  flower genre
+bip_39_word_space_11: license brother fetch able eternal decrease struggle suggest
+  flower genre twin
+bip_39_word_space_12: license brother fetch able eternal decrease struggle suggest
+  flower genre twin artwork
+bip_39_word_space_2: license brother
+bip_39_word_space_3: license brother fetch
+bip_39_word_space_4: license brother fetch able
+bip_39_word_space_5: license brother fetch able eternal
+bip_39_word_space_6: license brother fetch able eternal decrease
+bip_39_word_space_7: license brother fetch able eternal decrease struggle
+bip_39_word_space_8: license brother fetch able eternal decrease struggle suggest
+bip_39_word_space_9: license brother fetch able eternal decrease struggle suggest
+  flower
+bip_39_word_underscore_1: license
+bip_39_word_underscore_10: license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre
+bip_39_word_underscore_11: license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre_twin
+bip_39_word_underscore_12: license_brother_fetch_able_eternal_decrease_struggle_suggest_flower_genre_twin_artwork
+bip_39_word_underscore_2: license_brother
+bip_39_word_underscore_3: license_brother_fetch
+bip_39_word_underscore_4: license_brother_fetch_able
+bip_39_word_underscore_5: license_brother_fetch_able_eternal
+bip_39_word_underscore_6: license_brother_fetch_able_eternal_decrease
+bip_39_word_underscore_7: license_brother_fetch_able_eternal_decrease_struggle
+bip_39_word_underscore_8: license_brother_fetch_able_eternal_decrease_struggle_suggest
+bip_39_word_underscore_9: license_brother_fetch_able_eternal_decrease_struggle_suggest_flower
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -109,7 +330,14 @@ id_no_color: 12_mm_length
 id_no_size: nylon_white_12_mm_length
 id_no_type: m6_nylon_white_12_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_12_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_nylon_white_12_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_nylon_white_12_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2089k9k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2089k9k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2089k9k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +363,26 @@ name_no_color: 12 mm Length
 name_no_size: Nylon White 12 mm Length
 name_no_size_short: Nylon White 12 Mm Length
 name_no_type: M6 Nylon White 12 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 12 mm
+oomlout_bolt_length_no_unit: '12'
+oomlout_bolt_md5_6_alpha_first_3: 89k
+oomlout_bolt_md5_6_alpha_first_3_upper: 89K
+oomlout_bolt_md5_6_alpha_last_3: 9k
+oomlout_bolt_md5_6_alpha_last_3_upper: 9K
+oomlout_bolt_md5_6_first_3: d3d
+oomlout_bolt_md5_6_first_3_upper: D3D
+oomlout_bolt_md5_6_last_3: 6d8
+oomlout_bolt_md5_6_last_3_upper: 6D8
+oomlout_bolt_name: Set Screw M6X12 mm  (Bolt)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss6nw12
+oomlout_short_code_upper: SS6NW12
 oomp_key: oomp_hardware_set_screw_m6_nylon_white_12_mm_length
 oomp_word: tomato school hospital
 oomp_word_emoji: ':tomato: :school: :hospital:'

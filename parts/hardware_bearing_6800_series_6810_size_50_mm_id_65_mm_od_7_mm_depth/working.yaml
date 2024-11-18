@@ -1,3 +1,223 @@
+bip_39_word_dash_1: throw
+bip_39_word_dash_10: throw-around-today-theory-unaware-travel-capital-erupt-either-toy
+bip_39_word_dash_11: throw-around-today-theory-unaware-travel-capital-erupt-either-toy-point
+bip_39_word_dash_12: throw-around-today-theory-unaware-travel-capital-erupt-either-toy-point-arrow
+bip_39_word_dash_2: throw-around
+bip_39_word_dash_3: throw-around-today
+bip_39_word_dash_4: throw-around-today-theory
+bip_39_word_dash_5: throw-around-today-theory-unaware
+bip_39_word_dash_6: throw-around-today-theory-unaware-travel
+bip_39_word_dash_7: throw-around-today-theory-unaware-travel-capital
+bip_39_word_dash_8: throw-around-today-theory-unaware-travel-capital-erupt
+bip_39_word_dash_9: throw-around-today-theory-unaware-travel-capital-erupt-either
+bip_39_word_new_br_1: throw
+bip_39_word_new_br_10: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy
+bip_39_word_new_br_11: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy<br>point
+bip_39_word_new_br_12: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either<br>toy<br>point<br>arrow
+bip_39_word_new_br_2: throw<br>around
+bip_39_word_new_br_3: throw<br>around<br>today
+bip_39_word_new_br_4: throw<br>around<br>today<br>theory
+bip_39_word_new_br_5: throw<br>around<br>today<br>theory<br>unaware
+bip_39_word_new_br_6: throw<br>around<br>today<br>theory<br>unaware<br>travel
+bip_39_word_new_br_7: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital
+bip_39_word_new_br_8: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt
+bip_39_word_new_br_9: throw<br>around<br>today<br>theory<br>unaware<br>travel<br>capital<br>erupt<br>either
+bip_39_word_new_line_1: throw
+bip_39_word_new_line_10: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy'
+bip_39_word_new_line_11: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy
+
+  point'
+bip_39_word_new_line_12: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either
+
+  toy
+
+  point
+
+  arrow'
+bip_39_word_new_line_2: 'throw
+
+  around'
+bip_39_word_new_line_3: 'throw
+
+  around
+
+  today'
+bip_39_word_new_line_4: 'throw
+
+  around
+
+  today
+
+  theory'
+bip_39_word_new_line_5: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware'
+bip_39_word_new_line_6: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel'
+bip_39_word_new_line_7: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital'
+bip_39_word_new_line_8: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt'
+bip_39_word_new_line_9: 'throw
+
+  around
+
+  today
+
+  theory
+
+  unaware
+
+  travel
+
+  capital
+
+  erupt
+
+  either'
+bip_39_word_no_space_1: throw
+bip_39_word_no_space_10: throwaroundtodaytheoryunawaretravelcapitalerupteithertoy
+bip_39_word_no_space_11: throwaroundtodaytheoryunawaretravelcapitalerupteithertoypoint
+bip_39_word_no_space_12: throwaroundtodaytheoryunawaretravelcapitalerupteithertoypointarrow
+bip_39_word_no_space_2: throwaround
+bip_39_word_no_space_3: throwaroundtoday
+bip_39_word_no_space_4: throwaroundtodaytheory
+bip_39_word_no_space_5: throwaroundtodaytheoryunaware
+bip_39_word_no_space_6: throwaroundtodaytheoryunawaretravel
+bip_39_word_no_space_7: throwaroundtodaytheoryunawaretravelcapital
+bip_39_word_no_space_8: throwaroundtodaytheoryunawaretravelcapitalerupt
+bip_39_word_no_space_9: throwaroundtodaytheoryunawaretravelcapitalerupteither
+bip_39_word_space_0:
+- throw
+- around
+- today
+- theory
+- unaware
+- travel
+- capital
+- erupt
+- either
+- toy
+- point
+- arrow
+bip_39_word_space_1: throw
+bip_39_word_space_10: throw around today theory unaware travel capital erupt either
+  toy
+bip_39_word_space_11: throw around today theory unaware travel capital erupt either
+  toy point
+bip_39_word_space_12: throw around today theory unaware travel capital erupt either
+  toy point arrow
+bip_39_word_space_2: throw around
+bip_39_word_space_3: throw around today
+bip_39_word_space_4: throw around today theory
+bip_39_word_space_5: throw around today theory unaware
+bip_39_word_space_6: throw around today theory unaware travel
+bip_39_word_space_7: throw around today theory unaware travel capital
+bip_39_word_space_8: throw around today theory unaware travel capital erupt
+bip_39_word_space_9: throw around today theory unaware travel capital erupt either
+bip_39_word_underscore_1: throw
+bip_39_word_underscore_10: throw_around_today_theory_unaware_travel_capital_erupt_either_toy
+bip_39_word_underscore_11: throw_around_today_theory_unaware_travel_capital_erupt_either_toy_point
+bip_39_word_underscore_12: throw_around_today_theory_unaware_travel_capital_erupt_either_toy_point_arrow
+bip_39_word_underscore_2: throw_around
+bip_39_word_underscore_3: throw_around_today
+bip_39_word_underscore_4: throw_around_today_theory
+bip_39_word_underscore_5: throw_around_today_theory_unaware
+bip_39_word_underscore_6: throw_around_today_theory_unaware_travel
+bip_39_word_underscore_7: throw_around_today_theory_unaware_travel_capital
+bip_39_word_underscore_8: throw_around_today_theory_unaware_travel_capital_erupt
+bip_39_word_underscore_9: throw_around_today_theory_unaware_travel_capital_erupt_either
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
 id_no_color: 50_mm_id_65_mm_od_7_mm_depth
 id_no_size: 6810_size_50_mm_id_65_mm_od_7_mm_depth
 id_no_type: 6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xku1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xku1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xku1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 50 mm ID 65 mm OD 7 mm Depth
 name_no_size: 6810 Size 50 mm ID 65 mm OD 7 mm Depth
 name_no_size_short: 6810 Size 50 Mm Id 65 Mm Od 7 Mm Depth
 name_no_type: 6800 Series 6810 Size 50 mm ID 65 mm OD 7 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6810
+oomlout_short_code_upper: BR6810
 oomp_key: oomp_hardware_bearing_6800_series_6810_size_50_mm_id_65_mm_od_7_mm_depth
 oomp_word: grapes honeybee fries
 oomp_word_emoji: ':grapes: :honeybee: :fries:'

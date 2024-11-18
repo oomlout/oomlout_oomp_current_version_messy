@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 3 mm Yellow Tint
+* name_short: 
 ### id
 * oomp_id: electronic_led_3_mm_yellow_tint
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rabbit: :squirrel: :alien:
 * md5_6_alpha: 24gss
 * md5_6: 36700c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2024gss)
+[2x1](http://192.168.1.242:1112/?label=oomp%2024gss)
+[6x4](http://192.168.1.55:1112/?label=oomp%2024gss)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow_tint)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,7 +308,14 @@ relax |
 | id_no_size | yellow_tint |  
 | id_no_type | 3_mm_yellow_tint |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow_tint |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_3_mm_yellow_tint |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2024gss |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2024gss |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2024gss |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -307,6 +340,7 @@ relax |
 | name_no_size | Yellow Tint |  
 | name_no_size_short | Yellow Tint |  
 | name_no_type | 3 mm Yellow Tint |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_3_mm_yellow_tint |  
 | oomp_word | rabbit squirrel alien |  
 | oomp_word_emoji | :rabbit: :squirrel: :alien: |  

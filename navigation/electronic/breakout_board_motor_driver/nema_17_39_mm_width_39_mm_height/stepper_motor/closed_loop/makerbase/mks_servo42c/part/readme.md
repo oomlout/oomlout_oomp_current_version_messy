@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A closed loop stepper motor controller
 
+### name
+* name: Electronic Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
   * classification: electronic
@@ -28,6 +31,29 @@ A closed loop stepper motor controller
 * oomp_word_emoji :pineapple: :radio: :wrench:
 * md5_6_alpha: 87p1k
 * md5_6: d28288
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2087p1k)
+[2x1](http://192.168.1.242:1112/?label=oomp%2087p1k)
+[6x4](http://192.168.1.55:1112/?label=oomp%2087p1k)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ judge |
 | id_no_color | steppermotorclosedloopmakerbasemksservo42c |  
 | id_no_size | stepper_motor_closed_loop_makerbase_mks_servo42c |  
 | id_no_type | nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2087p1k |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2087p1k |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2087p1k |  
 | manufacturer | makerbase |  
 | manufacturer_capital | Makerbase |  
 | manufacturer_first_letter | m |  
@@ -330,6 +363,7 @@ judge |
 | name_no_size_short | Stepper Motor Closed Loop Makerbase Mks Servo42C |  
 | name_no_type | Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase Mks Servo42C |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c |  
 | oomp_word | pineapple radio wrench |  
 | oomp_word_emoji | :pineapple: :radio: :wrench: |  

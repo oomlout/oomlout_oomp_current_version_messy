@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6304 Size 20 mm ID 52 mm OD 15 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6304_size_20_mm_id_52_mm_od_15_mm_depth
   * classification: hardware

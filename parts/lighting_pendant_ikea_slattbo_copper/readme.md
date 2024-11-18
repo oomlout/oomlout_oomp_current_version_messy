@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Lighting Pendant Ikea Slattbo Copper
+* name_short: 
 ### id
 * oomp_id: lighting_pendant_ikea_slattbo_copper
   * classification: lighting

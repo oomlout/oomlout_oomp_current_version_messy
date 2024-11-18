@@ -1,3 +1,222 @@
+bip_39_word_dash_1: gold
+bip_39_word_dash_10: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once
+bip_39_word_dash_11: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once-word
+bip_39_word_dash_12: gold-fringe-finger-rhythm-issue-side-habit-flavor-general-once-word-agree
+bip_39_word_dash_2: gold-fringe
+bip_39_word_dash_3: gold-fringe-finger
+bip_39_word_dash_4: gold-fringe-finger-rhythm
+bip_39_word_dash_5: gold-fringe-finger-rhythm-issue
+bip_39_word_dash_6: gold-fringe-finger-rhythm-issue-side
+bip_39_word_dash_7: gold-fringe-finger-rhythm-issue-side-habit
+bip_39_word_dash_8: gold-fringe-finger-rhythm-issue-side-habit-flavor
+bip_39_word_dash_9: gold-fringe-finger-rhythm-issue-side-habit-flavor-general
+bip_39_word_new_br_1: gold
+bip_39_word_new_br_10: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once
+bip_39_word_new_br_11: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once<br>word
+bip_39_word_new_br_12: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general<br>once<br>word<br>agree
+bip_39_word_new_br_2: gold<br>fringe
+bip_39_word_new_br_3: gold<br>fringe<br>finger
+bip_39_word_new_br_4: gold<br>fringe<br>finger<br>rhythm
+bip_39_word_new_br_5: gold<br>fringe<br>finger<br>rhythm<br>issue
+bip_39_word_new_br_6: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side
+bip_39_word_new_br_7: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit
+bip_39_word_new_br_8: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor
+bip_39_word_new_br_9: gold<br>fringe<br>finger<br>rhythm<br>issue<br>side<br>habit<br>flavor<br>general
+bip_39_word_new_line_1: gold
+bip_39_word_new_line_10: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once'
+bip_39_word_new_line_11: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once
+
+  word'
+bip_39_word_new_line_12: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general
+
+  once
+
+  word
+
+  agree'
+bip_39_word_new_line_2: 'gold
+
+  fringe'
+bip_39_word_new_line_3: 'gold
+
+  fringe
+
+  finger'
+bip_39_word_new_line_4: 'gold
+
+  fringe
+
+  finger
+
+  rhythm'
+bip_39_word_new_line_5: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue'
+bip_39_word_new_line_6: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side'
+bip_39_word_new_line_7: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit'
+bip_39_word_new_line_8: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor'
+bip_39_word_new_line_9: 'gold
+
+  fringe
+
+  finger
+
+  rhythm
+
+  issue
+
+  side
+
+  habit
+
+  flavor
+
+  general'
+bip_39_word_no_space_1: gold
+bip_39_word_no_space_10: goldfringefingerrhythmissuesidehabitflavorgeneralonce
+bip_39_word_no_space_11: goldfringefingerrhythmissuesidehabitflavorgeneralonceword
+bip_39_word_no_space_12: goldfringefingerrhythmissuesidehabitflavorgeneraloncewordagree
+bip_39_word_no_space_2: goldfringe
+bip_39_word_no_space_3: goldfringefinger
+bip_39_word_no_space_4: goldfringefingerrhythm
+bip_39_word_no_space_5: goldfringefingerrhythmissue
+bip_39_word_no_space_6: goldfringefingerrhythmissueside
+bip_39_word_no_space_7: goldfringefingerrhythmissuesidehabit
+bip_39_word_no_space_8: goldfringefingerrhythmissuesidehabitflavor
+bip_39_word_no_space_9: goldfringefingerrhythmissuesidehabitflavorgeneral
+bip_39_word_space_0:
+- gold
+- fringe
+- finger
+- rhythm
+- issue
+- side
+- habit
+- flavor
+- general
+- once
+- word
+- agree
+bip_39_word_space_1: gold
+bip_39_word_space_10: gold fringe finger rhythm issue side habit flavor general once
+bip_39_word_space_11: gold fringe finger rhythm issue side habit flavor general once
+  word
+bip_39_word_space_12: gold fringe finger rhythm issue side habit flavor general once
+  word agree
+bip_39_word_space_2: gold fringe
+bip_39_word_space_3: gold fringe finger
+bip_39_word_space_4: gold fringe finger rhythm
+bip_39_word_space_5: gold fringe finger rhythm issue
+bip_39_word_space_6: gold fringe finger rhythm issue side
+bip_39_word_space_7: gold fringe finger rhythm issue side habit
+bip_39_word_space_8: gold fringe finger rhythm issue side habit flavor
+bip_39_word_space_9: gold fringe finger rhythm issue side habit flavor general
+bip_39_word_underscore_1: gold
+bip_39_word_underscore_10: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once
+bip_39_word_underscore_11: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once_word
+bip_39_word_underscore_12: gold_fringe_finger_rhythm_issue_side_habit_flavor_general_once_word_agree
+bip_39_word_underscore_2: gold_fringe
+bip_39_word_underscore_3: gold_fringe_finger
+bip_39_word_underscore_4: gold_fringe_finger_rhythm
+bip_39_word_underscore_5: gold_fringe_finger_rhythm_issue
+bip_39_word_underscore_6: gold_fringe_finger_rhythm_issue_side
+bip_39_word_underscore_7: gold_fringe_finger_rhythm_issue_side_habit
+bip_39_word_underscore_8: gold_fringe_finger_rhythm_issue_side_habit_flavor
+bip_39_word_underscore_9: gold_fringe_finger_rhythm_issue_side_habit_flavor_general
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_04_04_90
 id_no_color: 040490
 id_no_size: 04_04_90
 id_no_type: tray_vertical_04_04_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20375k6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20375k6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20375k6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040490
 name_no_size: 04 04 90
 name_no_size_short: 04 04 90
 name_no_type: Tray Vertical 04 04 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_04_04_90
 oomp_word: snail nine airplane
 oomp_word_emoji: ':snail: :nine: :airplane:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6915 Size 75 mm ID 105 mm OD 16 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dress: :baseball: :droplet:
 * md5_6_alpha: 6ru3o
 * md5_6: ad9724
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206ru3o)
+[2x1](http://192.168.1.242:1112/?label=oomp%206ru3o)
+[6x4](http://192.168.1.55:1112/?label=oomp%206ru3o)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ obtain |
 | id_no_color | 75_mm_id_105_mm_od_16_mm_depth |  
 | id_no_size | 6915_size_75_mm_id_105_mm_od_16_mm_depth |  
 | id_no_type | 6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206ru3o |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206ru3o |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206ru3o |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ obtain |
 | name_no_size | 6915 Size 75 mm ID 105 mm OD 16 mm Depth |  
 | name_no_size_short | 6915 Size 75 Mm Id 105 Mm Od 16 Mm Depth |  
 | name_no_type | 6900 Series 6915 Size 75 mm ID 105 mm OD 16 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6915 |  
 | oomlout_short_code_upper | BR6915 |  
 | oomp_key | oomp_hardware_bearing_6900_series_6915_size_75_mm_id_105_mm_od_16_mm_depth |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm 26 Pin Through Hole Long
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_26_pin_through_hole_long
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :snail: :lips: :ear:
 * md5_6_alpha: 35yqt
 * md5_6: 512225
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2035yqt)
+[2x1](http://192.168.1.242:1112/?label=oomp%2035yqt)
+[6x4](http://192.168.1.55:1112/?label=oomp%2035yqt)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_long) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_long)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ vicious |
 | id_no_size | 26_pin_through_hole_long |  
 | id_no_type | 2_54_mm_26_pin_through_hole_long |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_long |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_long |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_26_pin_through_hole_long |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2035yqt |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2035yqt |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2035yqt |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ vicious |
 | name_no_size | 26 Pin Through Hole Long |  
 | name_no_size_short | 26 Pin Through Hole Long |  
 | name_no_type | 2 54 mm 26 Pin Through Hole Long |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_26_pin_through_hole_long |  
 | oomp_word | snail lips ear |  
 | oomp_word_emoji | :snail: :lips: :ear: |  

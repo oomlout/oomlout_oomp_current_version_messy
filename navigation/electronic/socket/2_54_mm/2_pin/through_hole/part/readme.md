@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket 2 54 mm 2 Pin Through Hole
+* name_short: 
 ### id
 * oomp_id: electronic_socket_2_54_mm_2_pin_through_hole
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pizza: :hatched_chick: :helicopter:
 * md5_6_alpha: 75gbr
 * md5_6: b748e7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2075gbr)
+[2x1](http://192.168.1.242:1112/?label=oomp%2075gbr)
+[6x4](http://192.168.1.55:1112/?label=oomp%2075gbr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ sense |
 | id_no_size | 2_pin_through_hole |  
 | id_no_type | 2_54_mm_2_pin_through_hole |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_socket_2_54_mm_2_pin_through_hole |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2075gbr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2075gbr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2075gbr |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ sense |
 | name_no_size | 2 Pin Through Hole |  
 | name_no_size_short | 2 Pin Through Hole |  
 | name_no_type | 2 54 mm 2 Pin Through Hole |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_socket_2_54_mm_2_pin_through_hole |  
 | oomp_word | pizza hatched_chick helicopter |  
 | oomp_word_emoji | :pizza: :hatched_chick: :helicopter: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Chinese Leaf
 
+### name
+* name: Food Vegetable Chinese Leaf
+* name_short: 
 ### id
 * oomp_id: food_vegetable_chinese_leaf
   * classification: food

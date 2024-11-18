@@ -1,3 +1,222 @@
+bip_39_word_dash_1: blood
+bip_39_word_dash_10: blood-pilot-main-skate-reveal-board-possible-trip-obscure-slim
+bip_39_word_dash_11: blood-pilot-main-skate-reveal-board-possible-trip-obscure-slim-surge
+bip_39_word_dash_12: blood-pilot-main-skate-reveal-board-possible-trip-obscure-slim-surge-armed
+bip_39_word_dash_2: blood-pilot
+bip_39_word_dash_3: blood-pilot-main
+bip_39_word_dash_4: blood-pilot-main-skate
+bip_39_word_dash_5: blood-pilot-main-skate-reveal
+bip_39_word_dash_6: blood-pilot-main-skate-reveal-board
+bip_39_word_dash_7: blood-pilot-main-skate-reveal-board-possible
+bip_39_word_dash_8: blood-pilot-main-skate-reveal-board-possible-trip
+bip_39_word_dash_9: blood-pilot-main-skate-reveal-board-possible-trip-obscure
+bip_39_word_new_br_1: blood
+bip_39_word_new_br_10: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim
+bip_39_word_new_br_11: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim<br>surge
+bip_39_word_new_br_12: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure<br>slim<br>surge<br>armed
+bip_39_word_new_br_2: blood<br>pilot
+bip_39_word_new_br_3: blood<br>pilot<br>main
+bip_39_word_new_br_4: blood<br>pilot<br>main<br>skate
+bip_39_word_new_br_5: blood<br>pilot<br>main<br>skate<br>reveal
+bip_39_word_new_br_6: blood<br>pilot<br>main<br>skate<br>reveal<br>board
+bip_39_word_new_br_7: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible
+bip_39_word_new_br_8: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip
+bip_39_word_new_br_9: blood<br>pilot<br>main<br>skate<br>reveal<br>board<br>possible<br>trip<br>obscure
+bip_39_word_new_line_1: blood
+bip_39_word_new_line_10: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim'
+bip_39_word_new_line_11: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim
+
+  surge'
+bip_39_word_new_line_12: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure
+
+  slim
+
+  surge
+
+  armed'
+bip_39_word_new_line_2: 'blood
+
+  pilot'
+bip_39_word_new_line_3: 'blood
+
+  pilot
+
+  main'
+bip_39_word_new_line_4: 'blood
+
+  pilot
+
+  main
+
+  skate'
+bip_39_word_new_line_5: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal'
+bip_39_word_new_line_6: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board'
+bip_39_word_new_line_7: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible'
+bip_39_word_new_line_8: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip'
+bip_39_word_new_line_9: 'blood
+
+  pilot
+
+  main
+
+  skate
+
+  reveal
+
+  board
+
+  possible
+
+  trip
+
+  obscure'
+bip_39_word_no_space_1: blood
+bip_39_word_no_space_10: bloodpilotmainskaterevealboardpossibletripobscureslim
+bip_39_word_no_space_11: bloodpilotmainskaterevealboardpossibletripobscureslimsurge
+bip_39_word_no_space_12: bloodpilotmainskaterevealboardpossibletripobscureslimsurgearmed
+bip_39_word_no_space_2: bloodpilot
+bip_39_word_no_space_3: bloodpilotmain
+bip_39_word_no_space_4: bloodpilotmainskate
+bip_39_word_no_space_5: bloodpilotmainskatereveal
+bip_39_word_no_space_6: bloodpilotmainskaterevealboard
+bip_39_word_no_space_7: bloodpilotmainskaterevealboardpossible
+bip_39_word_no_space_8: bloodpilotmainskaterevealboardpossibletrip
+bip_39_word_no_space_9: bloodpilotmainskaterevealboardpossibletripobscure
+bip_39_word_space_0:
+- blood
+- pilot
+- main
+- skate
+- reveal
+- board
+- possible
+- trip
+- obscure
+- slim
+- surge
+- armed
+bip_39_word_space_1: blood
+bip_39_word_space_10: blood pilot main skate reveal board possible trip obscure slim
+bip_39_word_space_11: blood pilot main skate reveal board possible trip obscure slim
+  surge
+bip_39_word_space_12: blood pilot main skate reveal board possible trip obscure slim
+  surge armed
+bip_39_word_space_2: blood pilot
+bip_39_word_space_3: blood pilot main
+bip_39_word_space_4: blood pilot main skate
+bip_39_word_space_5: blood pilot main skate reveal
+bip_39_word_space_6: blood pilot main skate reveal board
+bip_39_word_space_7: blood pilot main skate reveal board possible
+bip_39_word_space_8: blood pilot main skate reveal board possible trip
+bip_39_word_space_9: blood pilot main skate reveal board possible trip obscure
+bip_39_word_underscore_1: blood
+bip_39_word_underscore_10: blood_pilot_main_skate_reveal_board_possible_trip_obscure_slim
+bip_39_word_underscore_11: blood_pilot_main_skate_reveal_board_possible_trip_obscure_slim_surge
+bip_39_word_underscore_12: blood_pilot_main_skate_reveal_board_possible_trip_obscure_slim_surge_armed
+bip_39_word_underscore_2: blood_pilot
+bip_39_word_underscore_3: blood_pilot_main
+bip_39_word_underscore_4: blood_pilot_main_skate
+bip_39_word_underscore_5: blood_pilot_main_skate_reveal
+bip_39_word_underscore_6: blood_pilot_main_skate_reveal_board
+bip_39_word_underscore_7: blood_pilot_main_skate_reveal_board_possible
+bip_39_word_underscore_8: blood_pilot_main_skate_reveal_board_possible_trip
+bip_39_word_underscore_9: blood_pilot_main_skate_reveal_board_possible_trip_obscure
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
 id_no_color: 70_mm_id_110_mm_od_20_mm_depth
 id_no_size: 6014_size_70_mm_id_110_mm_od_20_mm_depth
 id_no_type: 6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207eh0y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207eh0y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207eh0y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 70 mm ID 110 mm OD 20 mm Depth
 name_no_size: 6014 Size 70 mm ID 110 mm OD 20 mm Depth
 name_no_size_short: 6014 Size 70 Mm Id 110 Mm Od 20 Mm Depth
 name_no_type: 6000 Series 6014 Size 70 mm ID 110 mm OD 20 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6014
+oomlout_short_code_upper: BR6014
 oomp_key: oomp_hardware_bearing_6000_series_6014_size_70_mm_id_110_mm_od_20_mm_depth
 oomp_word: rice coffee handbag
 oomp_word_emoji: ':rice: :coffee: :handbag:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 3 mm Red
+* name_short: 
 ### id
 * oomp_id: electronic_led_3_mm_red
   * classification: electronic

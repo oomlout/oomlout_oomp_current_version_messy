@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Heatshrink 2 To 1 Shrink Ratio 76 2 mm Internal Diameter Green 15 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bulb: :anger: :thumbsdown:
 * md5_6_alpha: 56x3r
 * md5_6: 851217
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2056x3r)
+[2x1](http://192.168.1.242:1112/?label=oomp%2056x3r)
+[6x4](http://192.168.1.55:1112/?label=oomp%2056x3r)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ illness |
 | id_no_size | green_15_mm_length |  
 | id_no_type | 76_2_mm_internal_diameter_green_15_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2056x3r |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2056x3r |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2056x3r |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ illness |
 | name_no_size | Green 15 mm Length |  
 | name_no_size_short | Green 15 Mm Length |  
 | name_no_type | 76 2 mm Internal Diameter Green 15 mm Length |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_green_15_mm_length |  
 | oomp_word | bulb anger thumbsdown |  
 | oomp_word_emoji | :bulb: :anger: :thumbsdown: |  

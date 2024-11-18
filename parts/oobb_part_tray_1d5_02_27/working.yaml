@@ -1,3 +1,223 @@
+bip_39_word_dash_1: frost
+bip_39_word_dash_10: frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat
+bip_39_word_dash_11: frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat-truth
+bip_39_word_dash_12: frost-attitude-purity-december-pencil-topple-copy-teach-excuse-treat-truth-acquire
+bip_39_word_dash_2: frost-attitude
+bip_39_word_dash_3: frost-attitude-purity
+bip_39_word_dash_4: frost-attitude-purity-december
+bip_39_word_dash_5: frost-attitude-purity-december-pencil
+bip_39_word_dash_6: frost-attitude-purity-december-pencil-topple
+bip_39_word_dash_7: frost-attitude-purity-december-pencil-topple-copy
+bip_39_word_dash_8: frost-attitude-purity-december-pencil-topple-copy-teach
+bip_39_word_dash_9: frost-attitude-purity-december-pencil-topple-copy-teach-excuse
+bip_39_word_new_br_1: frost
+bip_39_word_new_br_10: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat
+bip_39_word_new_br_11: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat<br>truth
+bip_39_word_new_br_12: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse<br>treat<br>truth<br>acquire
+bip_39_word_new_br_2: frost<br>attitude
+bip_39_word_new_br_3: frost<br>attitude<br>purity
+bip_39_word_new_br_4: frost<br>attitude<br>purity<br>december
+bip_39_word_new_br_5: frost<br>attitude<br>purity<br>december<br>pencil
+bip_39_word_new_br_6: frost<br>attitude<br>purity<br>december<br>pencil<br>topple
+bip_39_word_new_br_7: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy
+bip_39_word_new_br_8: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach
+bip_39_word_new_br_9: frost<br>attitude<br>purity<br>december<br>pencil<br>topple<br>copy<br>teach<br>excuse
+bip_39_word_new_line_1: frost
+bip_39_word_new_line_10: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy
+
+  teach
+
+  excuse
+
+  treat'
+bip_39_word_new_line_11: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy
+
+  teach
+
+  excuse
+
+  treat
+
+  truth'
+bip_39_word_new_line_12: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy
+
+  teach
+
+  excuse
+
+  treat
+
+  truth
+
+  acquire'
+bip_39_word_new_line_2: 'frost
+
+  attitude'
+bip_39_word_new_line_3: 'frost
+
+  attitude
+
+  purity'
+bip_39_word_new_line_4: 'frost
+
+  attitude
+
+  purity
+
+  december'
+bip_39_word_new_line_5: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil'
+bip_39_word_new_line_6: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple'
+bip_39_word_new_line_7: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy'
+bip_39_word_new_line_8: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy
+
+  teach'
+bip_39_word_new_line_9: 'frost
+
+  attitude
+
+  purity
+
+  december
+
+  pencil
+
+  topple
+
+  copy
+
+  teach
+
+  excuse'
+bip_39_word_no_space_1: frost
+bip_39_word_no_space_10: frostattitudepuritydecemberpenciltopplecopyteachexcusetreat
+bip_39_word_no_space_11: frostattitudepuritydecemberpenciltopplecopyteachexcusetreattruth
+bip_39_word_no_space_12: frostattitudepuritydecemberpenciltopplecopyteachexcusetreattruthacquire
+bip_39_word_no_space_2: frostattitude
+bip_39_word_no_space_3: frostattitudepurity
+bip_39_word_no_space_4: frostattitudepuritydecember
+bip_39_word_no_space_5: frostattitudepuritydecemberpencil
+bip_39_word_no_space_6: frostattitudepuritydecemberpenciltopple
+bip_39_word_no_space_7: frostattitudepuritydecemberpenciltopplecopy
+bip_39_word_no_space_8: frostattitudepuritydecemberpenciltopplecopyteach
+bip_39_word_no_space_9: frostattitudepuritydecemberpenciltopplecopyteachexcuse
+bip_39_word_space_0:
+- frost
+- attitude
+- purity
+- december
+- pencil
+- topple
+- copy
+- teach
+- excuse
+- treat
+- truth
+- acquire
+bip_39_word_space_1: frost
+bip_39_word_space_10: frost attitude purity december pencil topple copy teach excuse
+  treat
+bip_39_word_space_11: frost attitude purity december pencil topple copy teach excuse
+  treat truth
+bip_39_word_space_12: frost attitude purity december pencil topple copy teach excuse
+  treat truth acquire
+bip_39_word_space_2: frost attitude
+bip_39_word_space_3: frost attitude purity
+bip_39_word_space_4: frost attitude purity december
+bip_39_word_space_5: frost attitude purity december pencil
+bip_39_word_space_6: frost attitude purity december pencil topple
+bip_39_word_space_7: frost attitude purity december pencil topple copy
+bip_39_word_space_8: frost attitude purity december pencil topple copy teach
+bip_39_word_space_9: frost attitude purity december pencil topple copy teach excuse
+bip_39_word_underscore_1: frost
+bip_39_word_underscore_10: frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat
+bip_39_word_underscore_11: frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat_truth
+bip_39_word_underscore_12: frost_attitude_purity_december_pencil_topple_copy_teach_excuse_treat_truth_acquire
+bip_39_word_underscore_2: frost_attitude
+bip_39_word_underscore_3: frost_attitude_purity
+bip_39_word_underscore_4: frost_attitude_purity_december
+bip_39_word_underscore_5: frost_attitude_purity_december_pencil
+bip_39_word_underscore_6: frost_attitude_purity_december_pencil_topple
+bip_39_word_underscore_7: frost_attitude_purity_december_pencil_topple_copy
+bip_39_word_underscore_8: frost_attitude_purity_december_pencil_topple_copy_teach
+bip_39_word_underscore_9: frost_attitude_purity_december_pencil_topple_copy_teach_excuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_02_27
 id_no_color: 1d50227
 id_no_size: 1d5_02_27
 id_no_type: tray_1d5_02_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_02_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_02_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_02_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201ebp5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201ebp5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201ebp5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D50227
 name_no_size: 1D5 02 27
 name_no_size_short: 1D5 02 27
 name_no_type: Tray 1D5 02 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_02_27
 oomp_word: kiss tomato fries
 oomp_word_emoji: ':kiss: :tomato: :fries:'

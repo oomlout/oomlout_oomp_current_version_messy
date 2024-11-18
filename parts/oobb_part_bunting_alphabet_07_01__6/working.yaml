@@ -1,3 +1,222 @@
+bip_39_word_dash_1: skirt
+bip_39_word_dash_10: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must
+bip_39_word_dash_11: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must-sugar
+bip_39_word_dash_12: skirt-trick-change-blind-transfer-foster-topic-smoke-empty-must-sugar-august
+bip_39_word_dash_2: skirt-trick
+bip_39_word_dash_3: skirt-trick-change
+bip_39_word_dash_4: skirt-trick-change-blind
+bip_39_word_dash_5: skirt-trick-change-blind-transfer
+bip_39_word_dash_6: skirt-trick-change-blind-transfer-foster
+bip_39_word_dash_7: skirt-trick-change-blind-transfer-foster-topic
+bip_39_word_dash_8: skirt-trick-change-blind-transfer-foster-topic-smoke
+bip_39_word_dash_9: skirt-trick-change-blind-transfer-foster-topic-smoke-empty
+bip_39_word_new_br_1: skirt
+bip_39_word_new_br_10: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must
+bip_39_word_new_br_11: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must<br>sugar
+bip_39_word_new_br_12: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty<br>must<br>sugar<br>august
+bip_39_word_new_br_2: skirt<br>trick
+bip_39_word_new_br_3: skirt<br>trick<br>change
+bip_39_word_new_br_4: skirt<br>trick<br>change<br>blind
+bip_39_word_new_br_5: skirt<br>trick<br>change<br>blind<br>transfer
+bip_39_word_new_br_6: skirt<br>trick<br>change<br>blind<br>transfer<br>foster
+bip_39_word_new_br_7: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic
+bip_39_word_new_br_8: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke
+bip_39_word_new_br_9: skirt<br>trick<br>change<br>blind<br>transfer<br>foster<br>topic<br>smoke<br>empty
+bip_39_word_new_line_1: skirt
+bip_39_word_new_line_10: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic
+
+  smoke
+
+  empty
+
+  must'
+bip_39_word_new_line_11: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic
+
+  smoke
+
+  empty
+
+  must
+
+  sugar'
+bip_39_word_new_line_12: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic
+
+  smoke
+
+  empty
+
+  must
+
+  sugar
+
+  august'
+bip_39_word_new_line_2: 'skirt
+
+  trick'
+bip_39_word_new_line_3: 'skirt
+
+  trick
+
+  change'
+bip_39_word_new_line_4: 'skirt
+
+  trick
+
+  change
+
+  blind'
+bip_39_word_new_line_5: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer'
+bip_39_word_new_line_6: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster'
+bip_39_word_new_line_7: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic'
+bip_39_word_new_line_8: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic
+
+  smoke'
+bip_39_word_new_line_9: 'skirt
+
+  trick
+
+  change
+
+  blind
+
+  transfer
+
+  foster
+
+  topic
+
+  smoke
+
+  empty'
+bip_39_word_no_space_1: skirt
+bip_39_word_no_space_10: skirttrickchangeblindtransferfostertopicsmokeemptymust
+bip_39_word_no_space_11: skirttrickchangeblindtransferfostertopicsmokeemptymustsugar
+bip_39_word_no_space_12: skirttrickchangeblindtransferfostertopicsmokeemptymustsugaraugust
+bip_39_word_no_space_2: skirttrick
+bip_39_word_no_space_3: skirttrickchange
+bip_39_word_no_space_4: skirttrickchangeblind
+bip_39_word_no_space_5: skirttrickchangeblindtransfer
+bip_39_word_no_space_6: skirttrickchangeblindtransferfoster
+bip_39_word_no_space_7: skirttrickchangeblindtransferfostertopic
+bip_39_word_no_space_8: skirttrickchangeblindtransferfostertopicsmoke
+bip_39_word_no_space_9: skirttrickchangeblindtransferfostertopicsmokeempty
+bip_39_word_space_0:
+- skirt
+- trick
+- change
+- blind
+- transfer
+- foster
+- topic
+- smoke
+- empty
+- must
+- sugar
+- august
+bip_39_word_space_1: skirt
+bip_39_word_space_10: skirt trick change blind transfer foster topic smoke empty must
+bip_39_word_space_11: skirt trick change blind transfer foster topic smoke empty must
+  sugar
+bip_39_word_space_12: skirt trick change blind transfer foster topic smoke empty must
+  sugar august
+bip_39_word_space_2: skirt trick
+bip_39_word_space_3: skirt trick change
+bip_39_word_space_4: skirt trick change blind
+bip_39_word_space_5: skirt trick change blind transfer
+bip_39_word_space_6: skirt trick change blind transfer foster
+bip_39_word_space_7: skirt trick change blind transfer foster topic
+bip_39_word_space_8: skirt trick change blind transfer foster topic smoke
+bip_39_word_space_9: skirt trick change blind transfer foster topic smoke empty
+bip_39_word_underscore_1: skirt
+bip_39_word_underscore_10: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must
+bip_39_word_underscore_11: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must_sugar
+bip_39_word_underscore_12: skirt_trick_change_blind_transfer_foster_topic_smoke_empty_must_sugar_august
+bip_39_word_underscore_2: skirt_trick
+bip_39_word_underscore_3: skirt_trick_change
+bip_39_word_underscore_4: skirt_trick_change_blind
+bip_39_word_underscore_5: skirt_trick_change_blind_transfer
+bip_39_word_underscore_6: skirt_trick_change_blind_transfer_foster
+bip_39_word_underscore_7: skirt_trick_change_blind_transfer_foster_topic
+bip_39_word_underscore_8: skirt_trick_change_blind_transfer_foster_topic_smoke
+bip_39_word_underscore_9: skirt_trick_change_blind_transfer_foster_topic_smoke_empty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__6
 id_no_color: '07016'
 id_no_size: '07_01__6'
 id_no_type: bunting_alphabet_07_01__6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ib38
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ib38
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ib38
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '07016'
 name_no_size: 07 01  6
 name_no_size_short: 07 01  6
 name_no_type: Bunting Alphabet 07 01  6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__6
 oomp_word: two briefcase book
 oomp_word_emoji: ':two: :briefcase: :book:'

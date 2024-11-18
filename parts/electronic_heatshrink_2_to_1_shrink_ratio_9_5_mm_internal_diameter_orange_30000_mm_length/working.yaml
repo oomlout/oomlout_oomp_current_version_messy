@@ -1,3 +1,223 @@
+bip_39_word_dash_1: recall
+bip_39_word_dash_10: recall-dinosaur-wait-fetch-rich-sentence-repeat-tuition-mansion-innocent
+bip_39_word_dash_11: recall-dinosaur-wait-fetch-rich-sentence-repeat-tuition-mansion-innocent-convince
+bip_39_word_dash_12: recall-dinosaur-wait-fetch-rich-sentence-repeat-tuition-mansion-innocent-convince-adjust
+bip_39_word_dash_2: recall-dinosaur
+bip_39_word_dash_3: recall-dinosaur-wait
+bip_39_word_dash_4: recall-dinosaur-wait-fetch
+bip_39_word_dash_5: recall-dinosaur-wait-fetch-rich
+bip_39_word_dash_6: recall-dinosaur-wait-fetch-rich-sentence
+bip_39_word_dash_7: recall-dinosaur-wait-fetch-rich-sentence-repeat
+bip_39_word_dash_8: recall-dinosaur-wait-fetch-rich-sentence-repeat-tuition
+bip_39_word_dash_9: recall-dinosaur-wait-fetch-rich-sentence-repeat-tuition-mansion
+bip_39_word_new_br_1: recall
+bip_39_word_new_br_10: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent
+bip_39_word_new_br_11: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent<br>convince
+bip_39_word_new_br_12: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion<br>innocent<br>convince<br>adjust
+bip_39_word_new_br_2: recall<br>dinosaur
+bip_39_word_new_br_3: recall<br>dinosaur<br>wait
+bip_39_word_new_br_4: recall<br>dinosaur<br>wait<br>fetch
+bip_39_word_new_br_5: recall<br>dinosaur<br>wait<br>fetch<br>rich
+bip_39_word_new_br_6: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence
+bip_39_word_new_br_7: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat
+bip_39_word_new_br_8: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition
+bip_39_word_new_br_9: recall<br>dinosaur<br>wait<br>fetch<br>rich<br>sentence<br>repeat<br>tuition<br>mansion
+bip_39_word_new_line_1: recall
+bip_39_word_new_line_10: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat
+
+  tuition
+
+  mansion
+
+  innocent'
+bip_39_word_new_line_11: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat
+
+  tuition
+
+  mansion
+
+  innocent
+
+  convince'
+bip_39_word_new_line_12: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat
+
+  tuition
+
+  mansion
+
+  innocent
+
+  convince
+
+  adjust'
+bip_39_word_new_line_2: 'recall
+
+  dinosaur'
+bip_39_word_new_line_3: 'recall
+
+  dinosaur
+
+  wait'
+bip_39_word_new_line_4: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch'
+bip_39_word_new_line_5: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich'
+bip_39_word_new_line_6: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence'
+bip_39_word_new_line_7: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat'
+bip_39_word_new_line_8: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat
+
+  tuition'
+bip_39_word_new_line_9: 'recall
+
+  dinosaur
+
+  wait
+
+  fetch
+
+  rich
+
+  sentence
+
+  repeat
+
+  tuition
+
+  mansion'
+bip_39_word_no_space_1: recall
+bip_39_word_no_space_10: recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocent
+bip_39_word_no_space_11: recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocentconvince
+bip_39_word_no_space_12: recalldinosaurwaitfetchrichsentencerepeattuitionmansioninnocentconvinceadjust
+bip_39_word_no_space_2: recalldinosaur
+bip_39_word_no_space_3: recalldinosaurwait
+bip_39_word_no_space_4: recalldinosaurwaitfetch
+bip_39_word_no_space_5: recalldinosaurwaitfetchrich
+bip_39_word_no_space_6: recalldinosaurwaitfetchrichsentence
+bip_39_word_no_space_7: recalldinosaurwaitfetchrichsentencerepeat
+bip_39_word_no_space_8: recalldinosaurwaitfetchrichsentencerepeattuition
+bip_39_word_no_space_9: recalldinosaurwaitfetchrichsentencerepeattuitionmansion
+bip_39_word_space_0:
+- recall
+- dinosaur
+- wait
+- fetch
+- rich
+- sentence
+- repeat
+- tuition
+- mansion
+- innocent
+- convince
+- adjust
+bip_39_word_space_1: recall
+bip_39_word_space_10: recall dinosaur wait fetch rich sentence repeat tuition mansion
+  innocent
+bip_39_word_space_11: recall dinosaur wait fetch rich sentence repeat tuition mansion
+  innocent convince
+bip_39_word_space_12: recall dinosaur wait fetch rich sentence repeat tuition mansion
+  innocent convince adjust
+bip_39_word_space_2: recall dinosaur
+bip_39_word_space_3: recall dinosaur wait
+bip_39_word_space_4: recall dinosaur wait fetch
+bip_39_word_space_5: recall dinosaur wait fetch rich
+bip_39_word_space_6: recall dinosaur wait fetch rich sentence
+bip_39_word_space_7: recall dinosaur wait fetch rich sentence repeat
+bip_39_word_space_8: recall dinosaur wait fetch rich sentence repeat tuition
+bip_39_word_space_9: recall dinosaur wait fetch rich sentence repeat tuition mansion
+bip_39_word_underscore_1: recall
+bip_39_word_underscore_10: recall_dinosaur_wait_fetch_rich_sentence_repeat_tuition_mansion_innocent
+bip_39_word_underscore_11: recall_dinosaur_wait_fetch_rich_sentence_repeat_tuition_mansion_innocent_convince
+bip_39_word_underscore_12: recall_dinosaur_wait_fetch_rich_sentence_repeat_tuition_mansion_innocent_convince_adjust
+bip_39_word_underscore_2: recall_dinosaur
+bip_39_word_underscore_3: recall_dinosaur_wait
+bip_39_word_underscore_4: recall_dinosaur_wait_fetch
+bip_39_word_underscore_5: recall_dinosaur_wait_fetch_rich
+bip_39_word_underscore_6: recall_dinosaur_wait_fetch_rich_sentence
+bip_39_word_underscore_7: recall_dinosaur_wait_fetch_rich_sentence_repeat
+bip_39_word_underscore_8: recall_dinosaur_wait_fetch_rich_sentence_repeat_tuition
+bip_39_word_underscore_9: recall_dinosaur_wait_fetch_rich_sentence_repeat_tuition_mansion
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 30000_mm_length
 id_no_size: orange_30000_mm_length
 id_no_type: 9_5_mm_internal_diameter_orange_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20276l9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20276l9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20276l9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 30000 mm Length
 name_no_size: Orange 30000 mm Length
 name_no_size_short: Orange 30k Mm Length
 name_no_type: 9 5 mm Internal Diameter Orange 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_30000_mm_length
 oomp_word: frog leopard baby
 oomp_word_emoji: ':frog: :leopard: :baby:'

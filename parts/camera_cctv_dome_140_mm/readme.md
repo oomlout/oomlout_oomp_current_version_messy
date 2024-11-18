@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Camera Cctv Dome 140 mm
+* name_short: 
 ### id
 * oomp_id: camera_cctv_dome_140_mm
   * classification: camera

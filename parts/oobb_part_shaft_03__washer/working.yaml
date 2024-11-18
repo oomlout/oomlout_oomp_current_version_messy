@@ -1,3 +1,222 @@
+bip_39_word_dash_1: quote
+bip_39_word_dash_10: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase
+bip_39_word_dash_11: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase-improve
+bip_39_word_dash_12: quote-pig-infant-roof-museum-champion-dice-helmet-path-increase-improve-apart
+bip_39_word_dash_2: quote-pig
+bip_39_word_dash_3: quote-pig-infant
+bip_39_word_dash_4: quote-pig-infant-roof
+bip_39_word_dash_5: quote-pig-infant-roof-museum
+bip_39_word_dash_6: quote-pig-infant-roof-museum-champion
+bip_39_word_dash_7: quote-pig-infant-roof-museum-champion-dice
+bip_39_word_dash_8: quote-pig-infant-roof-museum-champion-dice-helmet
+bip_39_word_dash_9: quote-pig-infant-roof-museum-champion-dice-helmet-path
+bip_39_word_new_br_1: quote
+bip_39_word_new_br_10: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase
+bip_39_word_new_br_11: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase<br>improve
+bip_39_word_new_br_12: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path<br>increase<br>improve<br>apart
+bip_39_word_new_br_2: quote<br>pig
+bip_39_word_new_br_3: quote<br>pig<br>infant
+bip_39_word_new_br_4: quote<br>pig<br>infant<br>roof
+bip_39_word_new_br_5: quote<br>pig<br>infant<br>roof<br>museum
+bip_39_word_new_br_6: quote<br>pig<br>infant<br>roof<br>museum<br>champion
+bip_39_word_new_br_7: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice
+bip_39_word_new_br_8: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet
+bip_39_word_new_br_9: quote<br>pig<br>infant<br>roof<br>museum<br>champion<br>dice<br>helmet<br>path
+bip_39_word_new_line_1: quote
+bip_39_word_new_line_10: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice
+
+  helmet
+
+  path
+
+  increase'
+bip_39_word_new_line_11: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice
+
+  helmet
+
+  path
+
+  increase
+
+  improve'
+bip_39_word_new_line_12: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice
+
+  helmet
+
+  path
+
+  increase
+
+  improve
+
+  apart'
+bip_39_word_new_line_2: 'quote
+
+  pig'
+bip_39_word_new_line_3: 'quote
+
+  pig
+
+  infant'
+bip_39_word_new_line_4: 'quote
+
+  pig
+
+  infant
+
+  roof'
+bip_39_word_new_line_5: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum'
+bip_39_word_new_line_6: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion'
+bip_39_word_new_line_7: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice'
+bip_39_word_new_line_8: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice
+
+  helmet'
+bip_39_word_new_line_9: 'quote
+
+  pig
+
+  infant
+
+  roof
+
+  museum
+
+  champion
+
+  dice
+
+  helmet
+
+  path'
+bip_39_word_no_space_1: quote
+bip_39_word_no_space_10: quotepiginfantroofmuseumchampiondicehelmetpathincrease
+bip_39_word_no_space_11: quotepiginfantroofmuseumchampiondicehelmetpathincreaseimprove
+bip_39_word_no_space_12: quotepiginfantroofmuseumchampiondicehelmetpathincreaseimproveapart
+bip_39_word_no_space_2: quotepig
+bip_39_word_no_space_3: quotepiginfant
+bip_39_word_no_space_4: quotepiginfantroof
+bip_39_word_no_space_5: quotepiginfantroofmuseum
+bip_39_word_no_space_6: quotepiginfantroofmuseumchampion
+bip_39_word_no_space_7: quotepiginfantroofmuseumchampiondice
+bip_39_word_no_space_8: quotepiginfantroofmuseumchampiondicehelmet
+bip_39_word_no_space_9: quotepiginfantroofmuseumchampiondicehelmetpath
+bip_39_word_space_0:
+- quote
+- pig
+- infant
+- roof
+- museum
+- champion
+- dice
+- helmet
+- path
+- increase
+- improve
+- apart
+bip_39_word_space_1: quote
+bip_39_word_space_10: quote pig infant roof museum champion dice helmet path increase
+bip_39_word_space_11: quote pig infant roof museum champion dice helmet path increase
+  improve
+bip_39_word_space_12: quote pig infant roof museum champion dice helmet path increase
+  improve apart
+bip_39_word_space_2: quote pig
+bip_39_word_space_3: quote pig infant
+bip_39_word_space_4: quote pig infant roof
+bip_39_word_space_5: quote pig infant roof museum
+bip_39_word_space_6: quote pig infant roof museum champion
+bip_39_word_space_7: quote pig infant roof museum champion dice
+bip_39_word_space_8: quote pig infant roof museum champion dice helmet
+bip_39_word_space_9: quote pig infant roof museum champion dice helmet path
+bip_39_word_underscore_1: quote
+bip_39_word_underscore_10: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase
+bip_39_word_underscore_11: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase_improve
+bip_39_word_underscore_12: quote_pig_infant_roof_museum_champion_dice_helmet_path_increase_improve_apart
+bip_39_word_underscore_2: quote_pig
+bip_39_word_underscore_3: quote_pig_infant
+bip_39_word_underscore_4: quote_pig_infant_roof
+bip_39_word_underscore_5: quote_pig_infant_roof_museum
+bip_39_word_underscore_6: quote_pig_infant_roof_museum_champion
+bip_39_word_underscore_7: quote_pig_infant_roof_museum_champion_dice
+bip_39_word_underscore_8: quote_pig_infant_roof_museum_champion_dice_helmet
+bip_39_word_underscore_9: quote_pig_infant_roof_museum_champion_dice_helmet_path
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_03__washer
 id_no_color: 03washer
 id_no_size: 03__washer
 id_no_type: shaft_03__washer
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__washer
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_03__washer
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_03__washer
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206fm70
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206fm70
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206fm70
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 03Washer
 name_no_size: 03  Washer
 name_no_size_short: 3  Washer
 name_no_type: Shaft 03  Washer
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_03__washer
 oomp_word: book anchor dancer
 oomp_word_emoji: ':book: :anchor: :dancer:'

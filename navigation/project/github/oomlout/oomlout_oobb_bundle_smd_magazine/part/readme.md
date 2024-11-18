@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Bundle SMD Magazine
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_bundle_smd_magazine
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :umbrella: :phone: :cloud:
 * md5_6_alpha: 1nokr
 * md5_6: 2a7d2b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201nokr)
+[2x1](http://192.168.1.242:1112/?label=oomp%201nokr)
+[6x4](http://192.168.1.55:1112/?label=oomp%201nokr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_smd_magazine) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_smd_magazine)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ behind |
 | id_no_color | oobb_bundle_smd_magazine |  
 | id_no_size | oobb_bundle_smd_magazine |  
 | id_no_type | oomlout_oomlout_oobb_bundle_smd_magazine |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_smd_magazine |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_smd_magazine |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_smd_magazine |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201nokr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201nokr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201nokr |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_bundle_smd_magazine |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ behind |
 | name_no_size | Oobb Bundle SMD Magazine |  
 | name_no_size_short | Oobb Bundle Smd Magazine |  
 | name_no_type | Oomlout Oomlout Oobb Bundle SMD Magazine |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_bundle_smd_magazine |  
 | oomp_word | umbrella phone cloud |  
 | oomp_word_emoji | :umbrella: :phone: :cloud: |  

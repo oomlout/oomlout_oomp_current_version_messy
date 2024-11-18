@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 0201 Red Clear
+* name_short: 
 ### id
 * oomp_id: electronic_led_0201_red_clear
   * classification: electronic

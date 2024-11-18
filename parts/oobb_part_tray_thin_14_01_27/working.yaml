@@ -1,3 +1,223 @@
+bip_39_word_dash_1: horse
+bip_39_word_dash_10: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume
+bip_39_word_dash_11: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume-describe
+bip_39_word_dash_12: horse-major-clarify-lend-battle-prosper-sleep-rotate-present-volume-describe-artist
+bip_39_word_dash_2: horse-major
+bip_39_word_dash_3: horse-major-clarify
+bip_39_word_dash_4: horse-major-clarify-lend
+bip_39_word_dash_5: horse-major-clarify-lend-battle
+bip_39_word_dash_6: horse-major-clarify-lend-battle-prosper
+bip_39_word_dash_7: horse-major-clarify-lend-battle-prosper-sleep
+bip_39_word_dash_8: horse-major-clarify-lend-battle-prosper-sleep-rotate
+bip_39_word_dash_9: horse-major-clarify-lend-battle-prosper-sleep-rotate-present
+bip_39_word_new_br_1: horse
+bip_39_word_new_br_10: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume
+bip_39_word_new_br_11: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume<br>describe
+bip_39_word_new_br_12: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present<br>volume<br>describe<br>artist
+bip_39_word_new_br_2: horse<br>major
+bip_39_word_new_br_3: horse<br>major<br>clarify
+bip_39_word_new_br_4: horse<br>major<br>clarify<br>lend
+bip_39_word_new_br_5: horse<br>major<br>clarify<br>lend<br>battle
+bip_39_word_new_br_6: horse<br>major<br>clarify<br>lend<br>battle<br>prosper
+bip_39_word_new_br_7: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep
+bip_39_word_new_br_8: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate
+bip_39_word_new_br_9: horse<br>major<br>clarify<br>lend<br>battle<br>prosper<br>sleep<br>rotate<br>present
+bip_39_word_new_line_1: horse
+bip_39_word_new_line_10: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume'
+bip_39_word_new_line_11: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume
+
+  describe'
+bip_39_word_new_line_12: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present
+
+  volume
+
+  describe
+
+  artist'
+bip_39_word_new_line_2: 'horse
+
+  major'
+bip_39_word_new_line_3: 'horse
+
+  major
+
+  clarify'
+bip_39_word_new_line_4: 'horse
+
+  major
+
+  clarify
+
+  lend'
+bip_39_word_new_line_5: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle'
+bip_39_word_new_line_6: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper'
+bip_39_word_new_line_7: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep'
+bip_39_word_new_line_8: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate'
+bip_39_word_new_line_9: 'horse
+
+  major
+
+  clarify
+
+  lend
+
+  battle
+
+  prosper
+
+  sleep
+
+  rotate
+
+  present'
+bip_39_word_no_space_1: horse
+bip_39_word_no_space_10: horsemajorclarifylendbattleprospersleeprotatepresentvolume
+bip_39_word_no_space_11: horsemajorclarifylendbattleprospersleeprotatepresentvolumedescribe
+bip_39_word_no_space_12: horsemajorclarifylendbattleprospersleeprotatepresentvolumedescribeartist
+bip_39_word_no_space_2: horsemajor
+bip_39_word_no_space_3: horsemajorclarify
+bip_39_word_no_space_4: horsemajorclarifylend
+bip_39_word_no_space_5: horsemajorclarifylendbattle
+bip_39_word_no_space_6: horsemajorclarifylendbattleprosper
+bip_39_word_no_space_7: horsemajorclarifylendbattleprospersleep
+bip_39_word_no_space_8: horsemajorclarifylendbattleprospersleeprotate
+bip_39_word_no_space_9: horsemajorclarifylendbattleprospersleeprotatepresent
+bip_39_word_space_0:
+- horse
+- major
+- clarify
+- lend
+- battle
+- prosper
+- sleep
+- rotate
+- present
+- volume
+- describe
+- artist
+bip_39_word_space_1: horse
+bip_39_word_space_10: horse major clarify lend battle prosper sleep rotate present
+  volume
+bip_39_word_space_11: horse major clarify lend battle prosper sleep rotate present
+  volume describe
+bip_39_word_space_12: horse major clarify lend battle prosper sleep rotate present
+  volume describe artist
+bip_39_word_space_2: horse major
+bip_39_word_space_3: horse major clarify
+bip_39_word_space_4: horse major clarify lend
+bip_39_word_space_5: horse major clarify lend battle
+bip_39_word_space_6: horse major clarify lend battle prosper
+bip_39_word_space_7: horse major clarify lend battle prosper sleep
+bip_39_word_space_8: horse major clarify lend battle prosper sleep rotate
+bip_39_word_space_9: horse major clarify lend battle prosper sleep rotate present
+bip_39_word_underscore_1: horse
+bip_39_word_underscore_10: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume
+bip_39_word_underscore_11: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume_describe
+bip_39_word_underscore_12: horse_major_clarify_lend_battle_prosper_sleep_rotate_present_volume_describe_artist
+bip_39_word_underscore_2: horse_major
+bip_39_word_underscore_3: horse_major_clarify
+bip_39_word_underscore_4: horse_major_clarify_lend
+bip_39_word_underscore_5: horse_major_clarify_lend_battle
+bip_39_word_underscore_6: horse_major_clarify_lend_battle_prosper
+bip_39_word_underscore_7: horse_major_clarify_lend_battle_prosper_sleep
+bip_39_word_underscore_8: horse_major_clarify_lend_battle_prosper_sleep_rotate
+bip_39_word_underscore_9: horse_major_clarify_lend_battle_prosper_sleep_rotate_present
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_01_27
 id_no_color: '140127'
 id_no_size: '14_01_27'
 id_no_type: tray_thin_14_01_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_01_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_01_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_01_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2084tod
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2084tod
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2084tod
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140127'
 name_no_size: 14 01 27
 name_no_size_short: 14 01 27
 name_no_type: Tray Thin 14 01 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_01_27
 oomp_word: banana gift cow
 oomp_word_emoji: ':banana: :gift: :cow:'

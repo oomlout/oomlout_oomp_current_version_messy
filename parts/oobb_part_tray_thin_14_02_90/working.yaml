@@ -1,3 +1,223 @@
+bip_39_word_dash_1: album
+bip_39_word_dash_10: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner
+bip_39_word_dash_11: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner-mule
+bip_39_word_dash_12: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin-winner-mule-approve
+bip_39_word_dash_2: album-cabin
+bip_39_word_dash_3: album-cabin-giggle
+bip_39_word_dash_4: album-cabin-giggle-suggest
+bip_39_word_dash_5: album-cabin-giggle-suggest-need
+bip_39_word_dash_6: album-cabin-giggle-suggest-need-crumble
+bip_39_word_dash_7: album-cabin-giggle-suggest-need-crumble-struggle
+bip_39_word_dash_8: album-cabin-giggle-suggest-need-crumble-struggle-cup
+bip_39_word_dash_9: album-cabin-giggle-suggest-need-crumble-struggle-cup-margin
+bip_39_word_new_br_1: album
+bip_39_word_new_br_10: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin<br>winner
+bip_39_word_new_br_11: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin<br>winner<br>mule
+bip_39_word_new_br_12: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin<br>winner<br>mule<br>approve
+bip_39_word_new_br_2: album<br>cabin
+bip_39_word_new_br_3: album<br>cabin<br>giggle
+bip_39_word_new_br_4: album<br>cabin<br>giggle<br>suggest
+bip_39_word_new_br_5: album<br>cabin<br>giggle<br>suggest<br>need
+bip_39_word_new_br_6: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble
+bip_39_word_new_br_7: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle
+bip_39_word_new_br_8: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup
+bip_39_word_new_br_9: album<br>cabin<br>giggle<br>suggest<br>need<br>crumble<br>struggle<br>cup<br>margin
+bip_39_word_new_line_1: album
+bip_39_word_new_line_10: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle
+
+  cup
+
+  margin
+
+  winner'
+bip_39_word_new_line_11: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle
+
+  cup
+
+  margin
+
+  winner
+
+  mule'
+bip_39_word_new_line_12: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle
+
+  cup
+
+  margin
+
+  winner
+
+  mule
+
+  approve'
+bip_39_word_new_line_2: 'album
+
+  cabin'
+bip_39_word_new_line_3: 'album
+
+  cabin
+
+  giggle'
+bip_39_word_new_line_4: 'album
+
+  cabin
+
+  giggle
+
+  suggest'
+bip_39_word_new_line_5: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need'
+bip_39_word_new_line_6: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble'
+bip_39_word_new_line_7: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle'
+bip_39_word_new_line_8: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle
+
+  cup'
+bip_39_word_new_line_9: 'album
+
+  cabin
+
+  giggle
+
+  suggest
+
+  need
+
+  crumble
+
+  struggle
+
+  cup
+
+  margin'
+bip_39_word_no_space_1: album
+bip_39_word_no_space_10: albumcabingigglesuggestneedcrumblestrugglecupmarginwinner
+bip_39_word_no_space_11: albumcabingigglesuggestneedcrumblestrugglecupmarginwinnermule
+bip_39_word_no_space_12: albumcabingigglesuggestneedcrumblestrugglecupmarginwinnermuleapprove
+bip_39_word_no_space_2: albumcabin
+bip_39_word_no_space_3: albumcabingiggle
+bip_39_word_no_space_4: albumcabingigglesuggest
+bip_39_word_no_space_5: albumcabingigglesuggestneed
+bip_39_word_no_space_6: albumcabingigglesuggestneedcrumble
+bip_39_word_no_space_7: albumcabingigglesuggestneedcrumblestruggle
+bip_39_word_no_space_8: albumcabingigglesuggestneedcrumblestrugglecup
+bip_39_word_no_space_9: albumcabingigglesuggestneedcrumblestrugglecupmargin
+bip_39_word_space_0:
+- album
+- cabin
+- giggle
+- suggest
+- need
+- crumble
+- struggle
+- cup
+- margin
+- winner
+- mule
+- approve
+bip_39_word_space_1: album
+bip_39_word_space_10: album cabin giggle suggest need crumble struggle cup margin
+  winner
+bip_39_word_space_11: album cabin giggle suggest need crumble struggle cup margin
+  winner mule
+bip_39_word_space_12: album cabin giggle suggest need crumble struggle cup margin
+  winner mule approve
+bip_39_word_space_2: album cabin
+bip_39_word_space_3: album cabin giggle
+bip_39_word_space_4: album cabin giggle suggest
+bip_39_word_space_5: album cabin giggle suggest need
+bip_39_word_space_6: album cabin giggle suggest need crumble
+bip_39_word_space_7: album cabin giggle suggest need crumble struggle
+bip_39_word_space_8: album cabin giggle suggest need crumble struggle cup
+bip_39_word_space_9: album cabin giggle suggest need crumble struggle cup margin
+bip_39_word_underscore_1: album
+bip_39_word_underscore_10: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner
+bip_39_word_underscore_11: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner_mule
+bip_39_word_underscore_12: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin_winner_mule_approve
+bip_39_word_underscore_2: album_cabin
+bip_39_word_underscore_3: album_cabin_giggle
+bip_39_word_underscore_4: album_cabin_giggle_suggest
+bip_39_word_underscore_5: album_cabin_giggle_suggest_need
+bip_39_word_underscore_6: album_cabin_giggle_suggest_need_crumble
+bip_39_word_underscore_7: album_cabin_giggle_suggest_need_crumble_struggle
+bip_39_word_underscore_8: album_cabin_giggle_suggest_need_crumble_struggle_cup
+bip_39_word_underscore_9: album_cabin_giggle_suggest_need_crumble_struggle_cup_margin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_02_90
 id_no_color: '140290'
 id_no_size: '14_02_90'
 id_no_type: tray_thin_14_02_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_02_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_02_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_02_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206r73y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206r73y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206r73y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140290'
 name_no_size: 14 02 90
 name_no_size_short: 14 02 90
 name_no_type: Tray Thin 14 02 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_02_90
 oomp_word: dress lips ramen
 oomp_word_emoji: ':dress: :lips: :ramen:'

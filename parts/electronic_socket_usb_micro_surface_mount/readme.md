@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket USB Micro Surface Mount
+* name_short: 
 ### id
 * oomp_id: electronic_socket_usb_micro_surface_mount
   * classification: electronic

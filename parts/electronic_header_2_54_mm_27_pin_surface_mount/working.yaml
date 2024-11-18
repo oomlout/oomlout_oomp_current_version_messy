@@ -1,3 +1,221 @@
+bip_39_word_dash_1: noise
+bip_39_word_dash_10: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge
+bip_39_word_dash_11: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest
+bip_39_word_dash_12: noise-region-alpha-soul-sand-around-lonely-climb-fold-edge-nest-amateur
+bip_39_word_dash_2: noise-region
+bip_39_word_dash_3: noise-region-alpha
+bip_39_word_dash_4: noise-region-alpha-soul
+bip_39_word_dash_5: noise-region-alpha-soul-sand
+bip_39_word_dash_6: noise-region-alpha-soul-sand-around
+bip_39_word_dash_7: noise-region-alpha-soul-sand-around-lonely
+bip_39_word_dash_8: noise-region-alpha-soul-sand-around-lonely-climb
+bip_39_word_dash_9: noise-region-alpha-soul-sand-around-lonely-climb-fold
+bip_39_word_new_br_1: noise
+bip_39_word_new_br_10: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge
+bip_39_word_new_br_11: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest
+bip_39_word_new_br_12: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold<br>edge<br>nest<br>amateur
+bip_39_word_new_br_2: noise<br>region
+bip_39_word_new_br_3: noise<br>region<br>alpha
+bip_39_word_new_br_4: noise<br>region<br>alpha<br>soul
+bip_39_word_new_br_5: noise<br>region<br>alpha<br>soul<br>sand
+bip_39_word_new_br_6: noise<br>region<br>alpha<br>soul<br>sand<br>around
+bip_39_word_new_br_7: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely
+bip_39_word_new_br_8: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb
+bip_39_word_new_br_9: noise<br>region<br>alpha<br>soul<br>sand<br>around<br>lonely<br>climb<br>fold
+bip_39_word_new_line_1: noise
+bip_39_word_new_line_10: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge'
+bip_39_word_new_line_11: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge
+
+  nest'
+bip_39_word_new_line_12: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold
+
+  edge
+
+  nest
+
+  amateur'
+bip_39_word_new_line_2: 'noise
+
+  region'
+bip_39_word_new_line_3: 'noise
+
+  region
+
+  alpha'
+bip_39_word_new_line_4: 'noise
+
+  region
+
+  alpha
+
+  soul'
+bip_39_word_new_line_5: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand'
+bip_39_word_new_line_6: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around'
+bip_39_word_new_line_7: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely'
+bip_39_word_new_line_8: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb'
+bip_39_word_new_line_9: 'noise
+
+  region
+
+  alpha
+
+  soul
+
+  sand
+
+  around
+
+  lonely
+
+  climb
+
+  fold'
+bip_39_word_no_space_1: noise
+bip_39_word_no_space_10: noiseregionalphasoulsandaroundlonelyclimbfoldedge
+bip_39_word_no_space_11: noiseregionalphasoulsandaroundlonelyclimbfoldedgenest
+bip_39_word_no_space_12: noiseregionalphasoulsandaroundlonelyclimbfoldedgenestamateur
+bip_39_word_no_space_2: noiseregion
+bip_39_word_no_space_3: noiseregionalpha
+bip_39_word_no_space_4: noiseregionalphasoul
+bip_39_word_no_space_5: noiseregionalphasoulsand
+bip_39_word_no_space_6: noiseregionalphasoulsandaround
+bip_39_word_no_space_7: noiseregionalphasoulsandaroundlonely
+bip_39_word_no_space_8: noiseregionalphasoulsandaroundlonelyclimb
+bip_39_word_no_space_9: noiseregionalphasoulsandaroundlonelyclimbfold
+bip_39_word_space_0:
+- noise
+- region
+- alpha
+- soul
+- sand
+- around
+- lonely
+- climb
+- fold
+- edge
+- nest
+- amateur
+bip_39_word_space_1: noise
+bip_39_word_space_10: noise region alpha soul sand around lonely climb fold edge
+bip_39_word_space_11: noise region alpha soul sand around lonely climb fold edge nest
+bip_39_word_space_12: noise region alpha soul sand around lonely climb fold edge nest
+  amateur
+bip_39_word_space_2: noise region
+bip_39_word_space_3: noise region alpha
+bip_39_word_space_4: noise region alpha soul
+bip_39_word_space_5: noise region alpha soul sand
+bip_39_word_space_6: noise region alpha soul sand around
+bip_39_word_space_7: noise region alpha soul sand around lonely
+bip_39_word_space_8: noise region alpha soul sand around lonely climb
+bip_39_word_space_9: noise region alpha soul sand around lonely climb fold
+bip_39_word_underscore_1: noise
+bip_39_word_underscore_10: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge
+bip_39_word_underscore_11: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest
+bip_39_word_underscore_12: noise_region_alpha_soul_sand_around_lonely_climb_fold_edge_nest_amateur
+bip_39_word_underscore_2: noise_region
+bip_39_word_underscore_3: noise_region_alpha
+bip_39_word_underscore_4: noise_region_alpha_soul
+bip_39_word_underscore_5: noise_region_alpha_soul_sand
+bip_39_word_underscore_6: noise_region_alpha_soul_sand_around
+bip_39_word_underscore_7: noise_region_alpha_soul_sand_around_lonely
+bip_39_word_underscore_8: noise_region_alpha_soul_sand_around_lonely_climb
+bip_39_word_underscore_9: noise_region_alpha_soul_sand_around_lonely_climb_fold
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -122,7 +340,14 @@ id_no_color: 27pinsurfacemount
 id_no_size: 27_pin_surface_mount
 id_no_type: 2_54_mm_27_pin_surface_mount
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_27_pin_surface_mount
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_27_pin_surface_mount
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_27_pin_surface_mount
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204szyp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204szyp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204szyp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +375,7 @@ name_no_color: 27Pinsurfacemount
 name_no_size: 27 Pin Surface Mount
 name_no_size_short: 27 Pin Surface Mount
 name_no_type: 2 54 mm 27 Pin Surface Mount
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_27_pin_surface_mount
 oomp_word: computer sunny dizzy
 oomp_word_emoji: ':computer: :sunny: :dizzy:'

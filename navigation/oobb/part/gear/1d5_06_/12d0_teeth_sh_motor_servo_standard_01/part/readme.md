@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 1D5 06  12D0 Teeth Sh Motor Servo Standard 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :zap: :bike: :balloon:
 * md5_6_alpha: 1tw8p
 * md5_6: 2ee979
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201tw8p)
+[2x1](http://192.168.1.242:1112/?label=oomp%201tw8p)
+[6x4](http://192.168.1.55:1112/?label=oomp%201tw8p)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ material |
 | id_no_color | 1d50612d0teethshmotorservostandard01 |  
 | id_no_size | 1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
 | id_no_type | gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201tw8p |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201tw8p |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201tw8p |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ material |
 | name_no_size | 1D5 06  12D0 Teeth Sh Motor Servo Standard 01 |  
 | name_no_size_short | 1D5 06  12D0 Teeth Sh Motor Servo Standard 01 |  
 | name_no_type | Gear 1D5 06  12D0 Teeth Sh Motor Servo Standard 01 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_1d5_06__12d0_teeth_sh_motor_servo_standard_01 |  
 | oomp_word | zap bike balloon |  
 | oomp_word_emoji | :zap: :bike: :balloon: |  

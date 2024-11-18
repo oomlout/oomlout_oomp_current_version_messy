@@ -1,3 +1,223 @@
+bip_39_word_dash_1: symbol
+bip_39_word_dash_10: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary
+bip_39_word_dash_11: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary-dutch
+bip_39_word_dash_12: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike-primary-dutch-ancient
+bip_39_word_dash_2: symbol-basket
+bip_39_word_dash_3: symbol-basket-memory
+bip_39_word_dash_4: symbol-basket-memory-machine
+bip_39_word_dash_5: symbol-basket-memory-machine-oak
+bip_39_word_dash_6: symbol-basket-memory-machine-oak-inherit
+bip_39_word_dash_7: symbol-basket-memory-machine-oak-inherit-wreck
+bip_39_word_dash_8: symbol-basket-memory-machine-oak-inherit-wreck-connect
+bip_39_word_dash_9: symbol-basket-memory-machine-oak-inherit-wreck-connect-bike
+bip_39_word_new_br_1: symbol
+bip_39_word_new_br_10: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary
+bip_39_word_new_br_11: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary<br>dutch
+bip_39_word_new_br_12: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike<br>primary<br>dutch<br>ancient
+bip_39_word_new_br_2: symbol<br>basket
+bip_39_word_new_br_3: symbol<br>basket<br>memory
+bip_39_word_new_br_4: symbol<br>basket<br>memory<br>machine
+bip_39_word_new_br_5: symbol<br>basket<br>memory<br>machine<br>oak
+bip_39_word_new_br_6: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit
+bip_39_word_new_br_7: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck
+bip_39_word_new_br_8: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect
+bip_39_word_new_br_9: symbol<br>basket<br>memory<br>machine<br>oak<br>inherit<br>wreck<br>connect<br>bike
+bip_39_word_new_line_1: symbol
+bip_39_word_new_line_10: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck
+
+  connect
+
+  bike
+
+  primary'
+bip_39_word_new_line_11: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck
+
+  connect
+
+  bike
+
+  primary
+
+  dutch'
+bip_39_word_new_line_12: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck
+
+  connect
+
+  bike
+
+  primary
+
+  dutch
+
+  ancient'
+bip_39_word_new_line_2: 'symbol
+
+  basket'
+bip_39_word_new_line_3: 'symbol
+
+  basket
+
+  memory'
+bip_39_word_new_line_4: 'symbol
+
+  basket
+
+  memory
+
+  machine'
+bip_39_word_new_line_5: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak'
+bip_39_word_new_line_6: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit'
+bip_39_word_new_line_7: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck'
+bip_39_word_new_line_8: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck
+
+  connect'
+bip_39_word_new_line_9: 'symbol
+
+  basket
+
+  memory
+
+  machine
+
+  oak
+
+  inherit
+
+  wreck
+
+  connect
+
+  bike'
+bip_39_word_no_space_1: symbol
+bip_39_word_no_space_10: symbolbasketmemorymachineoakinheritwreckconnectbikeprimary
+bip_39_word_no_space_11: symbolbasketmemorymachineoakinheritwreckconnectbikeprimarydutch
+bip_39_word_no_space_12: symbolbasketmemorymachineoakinheritwreckconnectbikeprimarydutchancient
+bip_39_word_no_space_2: symbolbasket
+bip_39_word_no_space_3: symbolbasketmemory
+bip_39_word_no_space_4: symbolbasketmemorymachine
+bip_39_word_no_space_5: symbolbasketmemorymachineoak
+bip_39_word_no_space_6: symbolbasketmemorymachineoakinherit
+bip_39_word_no_space_7: symbolbasketmemorymachineoakinheritwreck
+bip_39_word_no_space_8: symbolbasketmemorymachineoakinheritwreckconnect
+bip_39_word_no_space_9: symbolbasketmemorymachineoakinheritwreckconnectbike
+bip_39_word_space_0:
+- symbol
+- basket
+- memory
+- machine
+- oak
+- inherit
+- wreck
+- connect
+- bike
+- primary
+- dutch
+- ancient
+bip_39_word_space_1: symbol
+bip_39_word_space_10: symbol basket memory machine oak inherit wreck connect bike
+  primary
+bip_39_word_space_11: symbol basket memory machine oak inherit wreck connect bike
+  primary dutch
+bip_39_word_space_12: symbol basket memory machine oak inherit wreck connect bike
+  primary dutch ancient
+bip_39_word_space_2: symbol basket
+bip_39_word_space_3: symbol basket memory
+bip_39_word_space_4: symbol basket memory machine
+bip_39_word_space_5: symbol basket memory machine oak
+bip_39_word_space_6: symbol basket memory machine oak inherit
+bip_39_word_space_7: symbol basket memory machine oak inherit wreck
+bip_39_word_space_8: symbol basket memory machine oak inherit wreck connect
+bip_39_word_space_9: symbol basket memory machine oak inherit wreck connect bike
+bip_39_word_underscore_1: symbol
+bip_39_word_underscore_10: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary
+bip_39_word_underscore_11: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary_dutch
+bip_39_word_underscore_12: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike_primary_dutch_ancient
+bip_39_word_underscore_2: symbol_basket
+bip_39_word_underscore_3: symbol_basket_memory
+bip_39_word_underscore_4: symbol_basket_memory_machine
+bip_39_word_underscore_5: symbol_basket_memory_machine_oak
+bip_39_word_underscore_6: symbol_basket_memory_machine_oak_inherit
+bip_39_word_underscore_7: symbol_basket_memory_machine_oak_inherit_wreck
+bip_39_word_underscore_8: symbol_basket_memory_machine_oak_inherit_wreck_connect
+bip_39_word_underscore_9: symbol_basket_memory_machine_oak_inherit_wreck_connect_bike
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_09_09
 id_no_color: '150909'
 id_no_size: '15_09_09'
 id_no_type: tray_thin_15_09_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_09_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_09_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_09_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205bsa2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205bsa2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205bsa2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150909'
 name_no_size: 15 09 09
 name_no_size_short: 15 09 09
 name_no_type: Tray Thin 15 09 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_09_09
 oomp_word: wrench wrench tractor
 oomp_word_emoji: ':wrench: :wrench: :tractor:'

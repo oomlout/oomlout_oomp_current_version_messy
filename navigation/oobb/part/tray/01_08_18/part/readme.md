@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 01 08 18
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_01_08_18
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :taxi: :sunglasses: :pencil:
 * md5_6_alpha: 97kbn
 * md5_6: ec0ba3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2097kbn)
+[2x1](http://192.168.1.242:1112/?label=oomp%2097kbn)
+[6x4](http://192.168.1.55:1112/?label=oomp%2097kbn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_08_18) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_08_18)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ entry |
 | id_no_color | 010818 |  
 | id_no_size | 01_08_18 |  
 | id_no_type | tray_01_08_18 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_08_18 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_08_18 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_08_18 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2097kbn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2097kbn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2097kbn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ entry |
 | name_no_size | 01 08 18 |  
 | name_no_size_short | 01 08 18 |  
 | name_no_type | Tray 01 08 18 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_01_08_18 |  
 | oomp_word | taxi sunglasses pencil |  
 | oomp_word_emoji | :taxi: :sunglasses: :pencil: |  

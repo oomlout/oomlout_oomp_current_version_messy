@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rare
+bip_39_word_dash_10: rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior
+bip_39_word_dash_11: rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior-hope
+bip_39_word_dash_12: rare-result-hour-man-subject-shrug-recycle-despair-mountain-warrior-hope-area
+bip_39_word_dash_2: rare-result
+bip_39_word_dash_3: rare-result-hour
+bip_39_word_dash_4: rare-result-hour-man
+bip_39_word_dash_5: rare-result-hour-man-subject
+bip_39_word_dash_6: rare-result-hour-man-subject-shrug
+bip_39_word_dash_7: rare-result-hour-man-subject-shrug-recycle
+bip_39_word_dash_8: rare-result-hour-man-subject-shrug-recycle-despair
+bip_39_word_dash_9: rare-result-hour-man-subject-shrug-recycle-despair-mountain
+bip_39_word_new_br_1: rare
+bip_39_word_new_br_10: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior
+bip_39_word_new_br_11: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior<br>hope
+bip_39_word_new_br_12: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain<br>warrior<br>hope<br>area
+bip_39_word_new_br_2: rare<br>result
+bip_39_word_new_br_3: rare<br>result<br>hour
+bip_39_word_new_br_4: rare<br>result<br>hour<br>man
+bip_39_word_new_br_5: rare<br>result<br>hour<br>man<br>subject
+bip_39_word_new_br_6: rare<br>result<br>hour<br>man<br>subject<br>shrug
+bip_39_word_new_br_7: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle
+bip_39_word_new_br_8: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair
+bip_39_word_new_br_9: rare<br>result<br>hour<br>man<br>subject<br>shrug<br>recycle<br>despair<br>mountain
+bip_39_word_new_line_1: rare
+bip_39_word_new_line_10: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle
+
+  despair
+
+  mountain
+
+  warrior'
+bip_39_word_new_line_11: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle
+
+  despair
+
+  mountain
+
+  warrior
+
+  hope'
+bip_39_word_new_line_12: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle
+
+  despair
+
+  mountain
+
+  warrior
+
+  hope
+
+  area'
+bip_39_word_new_line_2: 'rare
+
+  result'
+bip_39_word_new_line_3: 'rare
+
+  result
+
+  hour'
+bip_39_word_new_line_4: 'rare
+
+  result
+
+  hour
+
+  man'
+bip_39_word_new_line_5: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject'
+bip_39_word_new_line_6: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug'
+bip_39_word_new_line_7: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle'
+bip_39_word_new_line_8: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle
+
+  despair'
+bip_39_word_new_line_9: 'rare
+
+  result
+
+  hour
+
+  man
+
+  subject
+
+  shrug
+
+  recycle
+
+  despair
+
+  mountain'
+bip_39_word_no_space_1: rare
+bip_39_word_no_space_10: rareresulthourmansubjectshrugrecycledespairmountainwarrior
+bip_39_word_no_space_11: rareresulthourmansubjectshrugrecycledespairmountainwarriorhope
+bip_39_word_no_space_12: rareresulthourmansubjectshrugrecycledespairmountainwarriorhopearea
+bip_39_word_no_space_2: rareresult
+bip_39_word_no_space_3: rareresulthour
+bip_39_word_no_space_4: rareresulthourman
+bip_39_word_no_space_5: rareresulthourmansubject
+bip_39_word_no_space_6: rareresulthourmansubjectshrug
+bip_39_word_no_space_7: rareresulthourmansubjectshrugrecycle
+bip_39_word_no_space_8: rareresulthourmansubjectshrugrecycledespair
+bip_39_word_no_space_9: rareresulthourmansubjectshrugrecycledespairmountain
+bip_39_word_space_0:
+- rare
+- result
+- hour
+- man
+- subject
+- shrug
+- recycle
+- despair
+- mountain
+- warrior
+- hope
+- area
+bip_39_word_space_1: rare
+bip_39_word_space_10: rare result hour man subject shrug recycle despair mountain
+  warrior
+bip_39_word_space_11: rare result hour man subject shrug recycle despair mountain
+  warrior hope
+bip_39_word_space_12: rare result hour man subject shrug recycle despair mountain
+  warrior hope area
+bip_39_word_space_2: rare result
+bip_39_word_space_3: rare result hour
+bip_39_word_space_4: rare result hour man
+bip_39_word_space_5: rare result hour man subject
+bip_39_word_space_6: rare result hour man subject shrug
+bip_39_word_space_7: rare result hour man subject shrug recycle
+bip_39_word_space_8: rare result hour man subject shrug recycle despair
+bip_39_word_space_9: rare result hour man subject shrug recycle despair mountain
+bip_39_word_underscore_1: rare
+bip_39_word_underscore_10: rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior
+bip_39_word_underscore_11: rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior_hope
+bip_39_word_underscore_12: rare_result_hour_man_subject_shrug_recycle_despair_mountain_warrior_hope_area
+bip_39_word_underscore_2: rare_result
+bip_39_word_underscore_3: rare_result_hour
+bip_39_word_underscore_4: rare_result_hour_man
+bip_39_word_underscore_5: rare_result_hour_man_subject
+bip_39_word_underscore_6: rare_result_hour_man_subject_shrug
+bip_39_word_underscore_7: rare_result_hour_man_subject_shrug_recycle
+bip_39_word_underscore_8: rare_result_hour_man_subject_shrug_recycle_despair
+bip_39_word_underscore_9: rare_result_hour_man_subject_shrug_recycle_despair_mountain
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: blue_10_mm_length
 id_no_type: 1_2_mm_internal_diameter_blue_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_blue_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_blue_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_blue_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20721h9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20721h9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20721h9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: Blue 10 mm Length
 name_no_size_short: Blue 10 Mm Length
 name_no_type: 1 2 mm Internal Diameter Blue 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_blue_10_mm_length
 oomp_word: coffee hotel parking
 oomp_word_emoji: ':coffee: :hotel: :parking:'

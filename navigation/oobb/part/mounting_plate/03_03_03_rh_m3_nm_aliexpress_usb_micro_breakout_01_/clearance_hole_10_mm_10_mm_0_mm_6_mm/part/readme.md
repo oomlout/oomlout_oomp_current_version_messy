@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance Hole 10 mm 10 mm 0 mm 6 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :guitar: :headphones: :nine:
 * md5_6_alpha: 6jhmi
 * md5_6: a7a5fa
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206jhmi)
+[2x1](http://192.168.1.242:1112/?label=oomp%206jhmi)
+[6x4](http://192.168.1.55:1112/?label=oomp%206jhmi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ dove |
 | id_no_color | 030303rhm3nmaliexpressusbmicrobreakout01clearancehole10mm10mm0mm6mm |  
 | id_no_size | 03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
 | id_no_type | mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206jhmi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206jhmi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206jhmi |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ dove |
 | name_no_size | 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance Hole 10 mm 10 mm 0 mm 6 mm |  
 | name_no_size_short | 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01  Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm |  
 | name_no_type | Mounting Plate 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance Hole 10 mm 10 mm 0 mm 6 mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
 | oomp_word | guitar headphones nine |  
 | oomp_word_emoji | :guitar: :headphones: :nine: |  

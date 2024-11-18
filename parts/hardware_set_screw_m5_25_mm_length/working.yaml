@@ -1,3 +1,222 @@
+bip_39_word_dash_1: guilt
+bip_39_word_dash_10: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody
+bip_39_word_dash_11: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody-rare
+bip_39_word_dash_12: guilt-citizen-person-eye-angle-gesture-eye-bag-agent-embody-rare-adapt
+bip_39_word_dash_2: guilt-citizen
+bip_39_word_dash_3: guilt-citizen-person
+bip_39_word_dash_4: guilt-citizen-person-eye
+bip_39_word_dash_5: guilt-citizen-person-eye-angle
+bip_39_word_dash_6: guilt-citizen-person-eye-angle-gesture
+bip_39_word_dash_7: guilt-citizen-person-eye-angle-gesture-eye
+bip_39_word_dash_8: guilt-citizen-person-eye-angle-gesture-eye-bag
+bip_39_word_dash_9: guilt-citizen-person-eye-angle-gesture-eye-bag-agent
+bip_39_word_new_br_1: guilt
+bip_39_word_new_br_10: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody
+bip_39_word_new_br_11: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody<br>rare
+bip_39_word_new_br_12: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent<br>embody<br>rare<br>adapt
+bip_39_word_new_br_2: guilt<br>citizen
+bip_39_word_new_br_3: guilt<br>citizen<br>person
+bip_39_word_new_br_4: guilt<br>citizen<br>person<br>eye
+bip_39_word_new_br_5: guilt<br>citizen<br>person<br>eye<br>angle
+bip_39_word_new_br_6: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture
+bip_39_word_new_br_7: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye
+bip_39_word_new_br_8: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag
+bip_39_word_new_br_9: guilt<br>citizen<br>person<br>eye<br>angle<br>gesture<br>eye<br>bag<br>agent
+bip_39_word_new_line_1: guilt
+bip_39_word_new_line_10: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye
+
+  bag
+
+  agent
+
+  embody'
+bip_39_word_new_line_11: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye
+
+  bag
+
+  agent
+
+  embody
+
+  rare'
+bip_39_word_new_line_12: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye
+
+  bag
+
+  agent
+
+  embody
+
+  rare
+
+  adapt'
+bip_39_word_new_line_2: 'guilt
+
+  citizen'
+bip_39_word_new_line_3: 'guilt
+
+  citizen
+
+  person'
+bip_39_word_new_line_4: 'guilt
+
+  citizen
+
+  person
+
+  eye'
+bip_39_word_new_line_5: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle'
+bip_39_word_new_line_6: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture'
+bip_39_word_new_line_7: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye'
+bip_39_word_new_line_8: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye
+
+  bag'
+bip_39_word_new_line_9: 'guilt
+
+  citizen
+
+  person
+
+  eye
+
+  angle
+
+  gesture
+
+  eye
+
+  bag
+
+  agent'
+bip_39_word_no_space_1: guilt
+bip_39_word_no_space_10: guiltcitizenpersoneyeanglegestureeyebagagentembody
+bip_39_word_no_space_11: guiltcitizenpersoneyeanglegestureeyebagagentembodyrare
+bip_39_word_no_space_12: guiltcitizenpersoneyeanglegestureeyebagagentembodyrareadapt
+bip_39_word_no_space_2: guiltcitizen
+bip_39_word_no_space_3: guiltcitizenperson
+bip_39_word_no_space_4: guiltcitizenpersoneye
+bip_39_word_no_space_5: guiltcitizenpersoneyeangle
+bip_39_word_no_space_6: guiltcitizenpersoneyeanglegesture
+bip_39_word_no_space_7: guiltcitizenpersoneyeanglegestureeye
+bip_39_word_no_space_8: guiltcitizenpersoneyeanglegestureeyebag
+bip_39_word_no_space_9: guiltcitizenpersoneyeanglegestureeyebagagent
+bip_39_word_space_0:
+- guilt
+- citizen
+- person
+- eye
+- angle
+- gesture
+- eye
+- bag
+- agent
+- embody
+- rare
+- adapt
+bip_39_word_space_1: guilt
+bip_39_word_space_10: guilt citizen person eye angle gesture eye bag agent embody
+bip_39_word_space_11: guilt citizen person eye angle gesture eye bag agent embody
+  rare
+bip_39_word_space_12: guilt citizen person eye angle gesture eye bag agent embody
+  rare adapt
+bip_39_word_space_2: guilt citizen
+bip_39_word_space_3: guilt citizen person
+bip_39_word_space_4: guilt citizen person eye
+bip_39_word_space_5: guilt citizen person eye angle
+bip_39_word_space_6: guilt citizen person eye angle gesture
+bip_39_word_space_7: guilt citizen person eye angle gesture eye
+bip_39_word_space_8: guilt citizen person eye angle gesture eye bag
+bip_39_word_space_9: guilt citizen person eye angle gesture eye bag agent
+bip_39_word_underscore_1: guilt
+bip_39_word_underscore_10: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody
+bip_39_word_underscore_11: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody_rare
+bip_39_word_underscore_12: guilt_citizen_person_eye_angle_gesture_eye_bag_agent_embody_rare_adapt
+bip_39_word_underscore_2: guilt_citizen
+bip_39_word_underscore_3: guilt_citizen_person
+bip_39_word_underscore_4: guilt_citizen_person_eye
+bip_39_word_underscore_5: guilt_citizen_person_eye_angle
+bip_39_word_underscore_6: guilt_citizen_person_eye_angle_gesture
+bip_39_word_underscore_7: guilt_citizen_person_eye_angle_gesture_eye
+bip_39_word_underscore_8: guilt_citizen_person_eye_angle_gesture_eye_bag
+bip_39_word_underscore_9: guilt_citizen_person_eye_angle_gesture_eye_bag_agent
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -86,7 +305,20 @@ id_no_color: 25mmlength
 id_no_size: 25_mm_length
 id_no_type: m5_25_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_25_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_25_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_25_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201xdle
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201xdle
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201xdle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -112,6 +344,26 @@ name_no_color: 25mmlength
 name_no_size: 25 mm Length
 name_no_size_short: 25 Mm Length
 name_no_type: M5 25 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 1xd
+oomlout_bolt_md5_6_alpha_first_3_upper: 1XD
+oomlout_bolt_md5_6_alpha_last_3: le
+oomlout_bolt_md5_6_alpha_last_3_upper: LE
+oomlout_bolt_md5_6_first_3: '316'
+oomlout_bolt_md5_6_first_3_upper: '316'
+oomlout_bolt_md5_6_last_3: '412'
+oomlout_bolt_md5_6_last_3_upper: '412'
+oomlout_bolt_name: Set Screw M5X25 mm  (Bolt)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss5m25
+oomlout_short_code_upper: SS5M25
 oomp_id: hardware_set_screw_m5_25_mm_length
 oomp_key: oomp_hardware_set_screw_m5_25_mm_length
 oomp_word: ocean sunflower anger
@@ -135,12 +387,22 @@ price_1: '0.0379'
 price_100: '0.0379'
 price_1000: '0.0211'
 price_10000: '0.0168'
+price_10000_distributor_1: '0.0168'
 price_10000_distributor_orbital_fasteners: '0.0168'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0211'
 price_1000_distributor_orbital_fasteners: '0.0211'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0379'
 price_100_distributor_orbital_fasteners: '0.0379'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0379'
 price_1_distributor_orbital_fasteners: '0.0379'
+price_1_name: orbital_fasteners
 price_200: '0.0379'
+price_200_distributor_1: '0.0379'
 price_200_distributor_orbital_fasteners: '0.0379'
+price_200_name: orbital_fasteners
 price_current: '0.0379'
 quantity_current: '200'
 short_code: ss525

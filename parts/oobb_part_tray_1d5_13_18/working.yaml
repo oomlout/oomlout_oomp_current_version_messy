@@ -1,3 +1,222 @@
+bip_39_word_dash_1: spell
+bip_39_word_dash_10: spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil
+bip_39_word_dash_11: spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil-horse
+bip_39_word_dash_12: spell-manage-logic-ivory-snap-transfer-tissue-fluid-work-foil-horse-air
+bip_39_word_dash_2: spell-manage
+bip_39_word_dash_3: spell-manage-logic
+bip_39_word_dash_4: spell-manage-logic-ivory
+bip_39_word_dash_5: spell-manage-logic-ivory-snap
+bip_39_word_dash_6: spell-manage-logic-ivory-snap-transfer
+bip_39_word_dash_7: spell-manage-logic-ivory-snap-transfer-tissue
+bip_39_word_dash_8: spell-manage-logic-ivory-snap-transfer-tissue-fluid
+bip_39_word_dash_9: spell-manage-logic-ivory-snap-transfer-tissue-fluid-work
+bip_39_word_new_br_1: spell
+bip_39_word_new_br_10: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil
+bip_39_word_new_br_11: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil<br>horse
+bip_39_word_new_br_12: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work<br>foil<br>horse<br>air
+bip_39_word_new_br_2: spell<br>manage
+bip_39_word_new_br_3: spell<br>manage<br>logic
+bip_39_word_new_br_4: spell<br>manage<br>logic<br>ivory
+bip_39_word_new_br_5: spell<br>manage<br>logic<br>ivory<br>snap
+bip_39_word_new_br_6: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer
+bip_39_word_new_br_7: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue
+bip_39_word_new_br_8: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid
+bip_39_word_new_br_9: spell<br>manage<br>logic<br>ivory<br>snap<br>transfer<br>tissue<br>fluid<br>work
+bip_39_word_new_line_1: spell
+bip_39_word_new_line_10: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue
+
+  fluid
+
+  work
+
+  foil'
+bip_39_word_new_line_11: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue
+
+  fluid
+
+  work
+
+  foil
+
+  horse'
+bip_39_word_new_line_12: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue
+
+  fluid
+
+  work
+
+  foil
+
+  horse
+
+  air'
+bip_39_word_new_line_2: 'spell
+
+  manage'
+bip_39_word_new_line_3: 'spell
+
+  manage
+
+  logic'
+bip_39_word_new_line_4: 'spell
+
+  manage
+
+  logic
+
+  ivory'
+bip_39_word_new_line_5: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap'
+bip_39_word_new_line_6: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer'
+bip_39_word_new_line_7: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue'
+bip_39_word_new_line_8: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue
+
+  fluid'
+bip_39_word_new_line_9: 'spell
+
+  manage
+
+  logic
+
+  ivory
+
+  snap
+
+  transfer
+
+  tissue
+
+  fluid
+
+  work'
+bip_39_word_no_space_1: spell
+bip_39_word_no_space_10: spellmanagelogicivorysnaptransfertissuefluidworkfoil
+bip_39_word_no_space_11: spellmanagelogicivorysnaptransfertissuefluidworkfoilhorse
+bip_39_word_no_space_12: spellmanagelogicivorysnaptransfertissuefluidworkfoilhorseair
+bip_39_word_no_space_2: spellmanage
+bip_39_word_no_space_3: spellmanagelogic
+bip_39_word_no_space_4: spellmanagelogicivory
+bip_39_word_no_space_5: spellmanagelogicivorysnap
+bip_39_word_no_space_6: spellmanagelogicivorysnaptransfer
+bip_39_word_no_space_7: spellmanagelogicivorysnaptransfertissue
+bip_39_word_no_space_8: spellmanagelogicivorysnaptransfertissuefluid
+bip_39_word_no_space_9: spellmanagelogicivorysnaptransfertissuefluidwork
+bip_39_word_space_0:
+- spell
+- manage
+- logic
+- ivory
+- snap
+- transfer
+- tissue
+- fluid
+- work
+- foil
+- horse
+- air
+bip_39_word_space_1: spell
+bip_39_word_space_10: spell manage logic ivory snap transfer tissue fluid work foil
+bip_39_word_space_11: spell manage logic ivory snap transfer tissue fluid work foil
+  horse
+bip_39_word_space_12: spell manage logic ivory snap transfer tissue fluid work foil
+  horse air
+bip_39_word_space_2: spell manage
+bip_39_word_space_3: spell manage logic
+bip_39_word_space_4: spell manage logic ivory
+bip_39_word_space_5: spell manage logic ivory snap
+bip_39_word_space_6: spell manage logic ivory snap transfer
+bip_39_word_space_7: spell manage logic ivory snap transfer tissue
+bip_39_word_space_8: spell manage logic ivory snap transfer tissue fluid
+bip_39_word_space_9: spell manage logic ivory snap transfer tissue fluid work
+bip_39_word_underscore_1: spell
+bip_39_word_underscore_10: spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil
+bip_39_word_underscore_11: spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil_horse
+bip_39_word_underscore_12: spell_manage_logic_ivory_snap_transfer_tissue_fluid_work_foil_horse_air
+bip_39_word_underscore_2: spell_manage
+bip_39_word_underscore_3: spell_manage_logic
+bip_39_word_underscore_4: spell_manage_logic_ivory
+bip_39_word_underscore_5: spell_manage_logic_ivory_snap
+bip_39_word_underscore_6: spell_manage_logic_ivory_snap_transfer
+bip_39_word_underscore_7: spell_manage_logic_ivory_snap_transfer_tissue
+bip_39_word_underscore_8: spell_manage_logic_ivory_snap_transfer_tissue_fluid
+bip_39_word_underscore_9: spell_manage_logic_ivory_snap_transfer_tissue_fluid_work
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_13_18
 id_no_color: 1d51318
 id_no_size: 1d5_13_18
 id_no_type: tray_1d5_13_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_13_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203e07q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203e07q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203e07q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51318
 name_no_size: 1D5 13 18
 name_no_size_short: 1D5 13 18
 name_no_type: Tray 1D5 13 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_13_18
 oomp_word: ram tent basketball
 oomp_word_emoji: ':ram: :tent: :basketball:'

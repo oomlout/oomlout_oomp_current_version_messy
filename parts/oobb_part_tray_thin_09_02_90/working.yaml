@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dragon
+bip_39_word_dash_10: dragon-super-forum-draft-length-combine-baby-dune-country-imitate
+bip_39_word_dash_11: dragon-super-forum-draft-length-combine-baby-dune-country-imitate-symbol
+bip_39_word_dash_12: dragon-super-forum-draft-length-combine-baby-dune-country-imitate-symbol-arrange
+bip_39_word_dash_2: dragon-super
+bip_39_word_dash_3: dragon-super-forum
+bip_39_word_dash_4: dragon-super-forum-draft
+bip_39_word_dash_5: dragon-super-forum-draft-length
+bip_39_word_dash_6: dragon-super-forum-draft-length-combine
+bip_39_word_dash_7: dragon-super-forum-draft-length-combine-baby
+bip_39_word_dash_8: dragon-super-forum-draft-length-combine-baby-dune
+bip_39_word_dash_9: dragon-super-forum-draft-length-combine-baby-dune-country
+bip_39_word_new_br_1: dragon
+bip_39_word_new_br_10: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country<br>imitate
+bip_39_word_new_br_11: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country<br>imitate<br>symbol
+bip_39_word_new_br_12: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country<br>imitate<br>symbol<br>arrange
+bip_39_word_new_br_2: dragon<br>super
+bip_39_word_new_br_3: dragon<br>super<br>forum
+bip_39_word_new_br_4: dragon<br>super<br>forum<br>draft
+bip_39_word_new_br_5: dragon<br>super<br>forum<br>draft<br>length
+bip_39_word_new_br_6: dragon<br>super<br>forum<br>draft<br>length<br>combine
+bip_39_word_new_br_7: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby
+bip_39_word_new_br_8: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune
+bip_39_word_new_br_9: dragon<br>super<br>forum<br>draft<br>length<br>combine<br>baby<br>dune<br>country
+bip_39_word_new_line_1: dragon
+bip_39_word_new_line_10: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby
+
+  dune
+
+  country
+
+  imitate'
+bip_39_word_new_line_11: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby
+
+  dune
+
+  country
+
+  imitate
+
+  symbol'
+bip_39_word_new_line_12: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby
+
+  dune
+
+  country
+
+  imitate
+
+  symbol
+
+  arrange'
+bip_39_word_new_line_2: 'dragon
+
+  super'
+bip_39_word_new_line_3: 'dragon
+
+  super
+
+  forum'
+bip_39_word_new_line_4: 'dragon
+
+  super
+
+  forum
+
+  draft'
+bip_39_word_new_line_5: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length'
+bip_39_word_new_line_6: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine'
+bip_39_word_new_line_7: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby'
+bip_39_word_new_line_8: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby
+
+  dune'
+bip_39_word_new_line_9: 'dragon
+
+  super
+
+  forum
+
+  draft
+
+  length
+
+  combine
+
+  baby
+
+  dune
+
+  country'
+bip_39_word_no_space_1: dragon
+bip_39_word_no_space_10: dragonsuperforumdraftlengthcombinebabydunecountryimitate
+bip_39_word_no_space_11: dragonsuperforumdraftlengthcombinebabydunecountryimitatesymbol
+bip_39_word_no_space_12: dragonsuperforumdraftlengthcombinebabydunecountryimitatesymbolarrange
+bip_39_word_no_space_2: dragonsuper
+bip_39_word_no_space_3: dragonsuperforum
+bip_39_word_no_space_4: dragonsuperforumdraft
+bip_39_word_no_space_5: dragonsuperforumdraftlength
+bip_39_word_no_space_6: dragonsuperforumdraftlengthcombine
+bip_39_word_no_space_7: dragonsuperforumdraftlengthcombinebaby
+bip_39_word_no_space_8: dragonsuperforumdraftlengthcombinebabydune
+bip_39_word_no_space_9: dragonsuperforumdraftlengthcombinebabydunecountry
+bip_39_word_space_0:
+- dragon
+- super
+- forum
+- draft
+- length
+- combine
+- baby
+- dune
+- country
+- imitate
+- symbol
+- arrange
+bip_39_word_space_1: dragon
+bip_39_word_space_10: dragon super forum draft length combine baby dune country imitate
+bip_39_word_space_11: dragon super forum draft length combine baby dune country imitate
+  symbol
+bip_39_word_space_12: dragon super forum draft length combine baby dune country imitate
+  symbol arrange
+bip_39_word_space_2: dragon super
+bip_39_word_space_3: dragon super forum
+bip_39_word_space_4: dragon super forum draft
+bip_39_word_space_5: dragon super forum draft length
+bip_39_word_space_6: dragon super forum draft length combine
+bip_39_word_space_7: dragon super forum draft length combine baby
+bip_39_word_space_8: dragon super forum draft length combine baby dune
+bip_39_word_space_9: dragon super forum draft length combine baby dune country
+bip_39_word_underscore_1: dragon
+bip_39_word_underscore_10: dragon_super_forum_draft_length_combine_baby_dune_country_imitate
+bip_39_word_underscore_11: dragon_super_forum_draft_length_combine_baby_dune_country_imitate_symbol
+bip_39_word_underscore_12: dragon_super_forum_draft_length_combine_baby_dune_country_imitate_symbol_arrange
+bip_39_word_underscore_2: dragon_super
+bip_39_word_underscore_3: dragon_super_forum
+bip_39_word_underscore_4: dragon_super_forum_draft
+bip_39_word_underscore_5: dragon_super_forum_draft_length
+bip_39_word_underscore_6: dragon_super_forum_draft_length_combine
+bip_39_word_underscore_7: dragon_super_forum_draft_length_combine_baby
+bip_39_word_underscore_8: dragon_super_forum_draft_length_combine_baby_dune
+bip_39_word_underscore_9: dragon_super_forum_draft_length_combine_baby_dune_country
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_02_90
 id_no_color: 090290
 id_no_size: 09_02_90
 id_no_type: tray_thin_09_02_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_02_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207pqe4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207pqe4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207pqe4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090290
 name_no_size: 09 02 90
 name_no_size_short: 09 02 90
 name_no_type: Tray Thin 09 02 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_02_90
 oomp_word: candy hamburger factory
 oomp_word_emoji: ':candy: :hamburger: :factory:'

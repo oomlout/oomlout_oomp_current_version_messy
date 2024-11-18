@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bolt M4 40 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_bolt_m4_40_mm_length
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dancer: :ram: :school:
 * md5_6_alpha: 13t1y
 * md5_6: 1c56d6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2013t1y)
+[2x1](http://192.168.1.242:1112/?label=oomp%2013t1y)
+[6x4](http://192.168.1.55:1112/?label=oomp%2013t1y)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m4_40_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ salt |
 | id_no_size | 40_mm_length |  
 | id_no_type | m4_40_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m4_40_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m4_40_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bolt_m4_40_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2013t1y |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2013t1y |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2013t1y |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -300,6 +333,7 @@ salt |
 | oomlout_bolt_size | M4 |  
 | oomlout_bolt_type | Bolt |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | b4m40 |  
 | oomlout_short_code_upper | B4M40 |  
 | oomp_key | oomp_hardware_bolt_m4_40_mm_length |  

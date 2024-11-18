@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
   * classification: oobb

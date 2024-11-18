@@ -1,3 +1,223 @@
+bip_39_word_dash_1: reduce
+bip_39_word_dash_10: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread
+bip_39_word_dash_11: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread-pottery
+bip_39_word_dash_12: reduce-caught-garment-regret-area-improve-tattoo-target-avoid-bread-pottery-another
+bip_39_word_dash_2: reduce-caught
+bip_39_word_dash_3: reduce-caught-garment
+bip_39_word_dash_4: reduce-caught-garment-regret
+bip_39_word_dash_5: reduce-caught-garment-regret-area
+bip_39_word_dash_6: reduce-caught-garment-regret-area-improve
+bip_39_word_dash_7: reduce-caught-garment-regret-area-improve-tattoo
+bip_39_word_dash_8: reduce-caught-garment-regret-area-improve-tattoo-target
+bip_39_word_dash_9: reduce-caught-garment-regret-area-improve-tattoo-target-avoid
+bip_39_word_new_br_1: reduce
+bip_39_word_new_br_10: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread
+bip_39_word_new_br_11: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread<br>pottery
+bip_39_word_new_br_12: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid<br>bread<br>pottery<br>another
+bip_39_word_new_br_2: reduce<br>caught
+bip_39_word_new_br_3: reduce<br>caught<br>garment
+bip_39_word_new_br_4: reduce<br>caught<br>garment<br>regret
+bip_39_word_new_br_5: reduce<br>caught<br>garment<br>regret<br>area
+bip_39_word_new_br_6: reduce<br>caught<br>garment<br>regret<br>area<br>improve
+bip_39_word_new_br_7: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo
+bip_39_word_new_br_8: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target
+bip_39_word_new_br_9: reduce<br>caught<br>garment<br>regret<br>area<br>improve<br>tattoo<br>target<br>avoid
+bip_39_word_new_line_1: reduce
+bip_39_word_new_line_10: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo
+
+  target
+
+  avoid
+
+  bread'
+bip_39_word_new_line_11: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo
+
+  target
+
+  avoid
+
+  bread
+
+  pottery'
+bip_39_word_new_line_12: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo
+
+  target
+
+  avoid
+
+  bread
+
+  pottery
+
+  another'
+bip_39_word_new_line_2: 'reduce
+
+  caught'
+bip_39_word_new_line_3: 'reduce
+
+  caught
+
+  garment'
+bip_39_word_new_line_4: 'reduce
+
+  caught
+
+  garment
+
+  regret'
+bip_39_word_new_line_5: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area'
+bip_39_word_new_line_6: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve'
+bip_39_word_new_line_7: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo'
+bip_39_word_new_line_8: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo
+
+  target'
+bip_39_word_new_line_9: 'reduce
+
+  caught
+
+  garment
+
+  regret
+
+  area
+
+  improve
+
+  tattoo
+
+  target
+
+  avoid'
+bip_39_word_no_space_1: reduce
+bip_39_word_no_space_10: reducecaughtgarmentregretareaimprovetattootargetavoidbread
+bip_39_word_no_space_11: reducecaughtgarmentregretareaimprovetattootargetavoidbreadpottery
+bip_39_word_no_space_12: reducecaughtgarmentregretareaimprovetattootargetavoidbreadpotteryanother
+bip_39_word_no_space_2: reducecaught
+bip_39_word_no_space_3: reducecaughtgarment
+bip_39_word_no_space_4: reducecaughtgarmentregret
+bip_39_word_no_space_5: reducecaughtgarmentregretarea
+bip_39_word_no_space_6: reducecaughtgarmentregretareaimprove
+bip_39_word_no_space_7: reducecaughtgarmentregretareaimprovetattoo
+bip_39_word_no_space_8: reducecaughtgarmentregretareaimprovetattootarget
+bip_39_word_no_space_9: reducecaughtgarmentregretareaimprovetattootargetavoid
+bip_39_word_space_0:
+- reduce
+- caught
+- garment
+- regret
+- area
+- improve
+- tattoo
+- target
+- avoid
+- bread
+- pottery
+- another
+bip_39_word_space_1: reduce
+bip_39_word_space_10: reduce caught garment regret area improve tattoo target avoid
+  bread
+bip_39_word_space_11: reduce caught garment regret area improve tattoo target avoid
+  bread pottery
+bip_39_word_space_12: reduce caught garment regret area improve tattoo target avoid
+  bread pottery another
+bip_39_word_space_2: reduce caught
+bip_39_word_space_3: reduce caught garment
+bip_39_word_space_4: reduce caught garment regret
+bip_39_word_space_5: reduce caught garment regret area
+bip_39_word_space_6: reduce caught garment regret area improve
+bip_39_word_space_7: reduce caught garment regret area improve tattoo
+bip_39_word_space_8: reduce caught garment regret area improve tattoo target
+bip_39_word_space_9: reduce caught garment regret area improve tattoo target avoid
+bip_39_word_underscore_1: reduce
+bip_39_word_underscore_10: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread
+bip_39_word_underscore_11: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread_pottery
+bip_39_word_underscore_12: reduce_caught_garment_regret_area_improve_tattoo_target_avoid_bread_pottery_another
+bip_39_word_underscore_2: reduce_caught
+bip_39_word_underscore_3: reduce_caught_garment
+bip_39_word_underscore_4: reduce_caught_garment_regret
+bip_39_word_underscore_5: reduce_caught_garment_regret_area
+bip_39_word_underscore_6: reduce_caught_garment_regret_area_improve
+bip_39_word_underscore_7: reduce_caught_garment_regret_area_improve_tattoo
+bip_39_word_underscore_8: reduce_caught_garment_regret_area_improve_tattoo_target
+bip_39_word_underscore_9: reduce_caught_garment_regret_area_improve_tattoo_target_avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_holder_05_03_15__motor_servo_standard_01
 id_no_color: 050315motorservostandard01
 id_no_size: 05_03_15__motor_servo_standard_01
 id_no_type: holder_05_03_15__motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_15__motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_15__motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_15__motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205zd1i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205zd1i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205zd1i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050315Motorservostandard01
 name_no_size: 05 03 15  Motor Servo Standard 01
 name_no_size_short: 05 03 15  Motor Servo Standard 01
 name_no_type: Holder 05 03 15  Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_05_03_15__motor_servo_standard_01
 oomp_word: bowling snail lollipop
 oomp_word_emoji: ':bowling: :snail: :lollipop:'

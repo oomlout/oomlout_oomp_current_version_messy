@@ -1,3 +1,223 @@
+bip_39_word_dash_1: humble
+bip_39_word_dash_10: humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin
+bip_39_word_dash_11: humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit
+bip_39_word_dash_12: humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness-pumpkin-exhibit-assume
+bip_39_word_dash_2: humble-clerk
+bip_39_word_dash_3: humble-clerk-hockey
+bip_39_word_dash_4: humble-clerk-hockey-peace
+bip_39_word_dash_5: humble-clerk-hockey-peace-ahead
+bip_39_word_dash_6: humble-clerk-hockey-peace-ahead-public
+bip_39_word_dash_7: humble-clerk-hockey-peace-ahead-public-tattoo
+bip_39_word_dash_8: humble-clerk-hockey-peace-ahead-public-tattoo-blanket
+bip_39_word_dash_9: humble-clerk-hockey-peace-ahead-public-tattoo-blanket-sadness
+bip_39_word_new_br_1: humble
+bip_39_word_new_br_10: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin
+bip_39_word_new_br_11: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit
+bip_39_word_new_br_12: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness<br>pumpkin<br>exhibit<br>assume
+bip_39_word_new_br_2: humble<br>clerk
+bip_39_word_new_br_3: humble<br>clerk<br>hockey
+bip_39_word_new_br_4: humble<br>clerk<br>hockey<br>peace
+bip_39_word_new_br_5: humble<br>clerk<br>hockey<br>peace<br>ahead
+bip_39_word_new_br_6: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public
+bip_39_word_new_br_7: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo
+bip_39_word_new_br_8: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket
+bip_39_word_new_br_9: humble<br>clerk<br>hockey<br>peace<br>ahead<br>public<br>tattoo<br>blanket<br>sadness
+bip_39_word_new_line_1: humble
+bip_39_word_new_line_10: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo
+
+  blanket
+
+  sadness
+
+  pumpkin'
+bip_39_word_new_line_11: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo
+
+  blanket
+
+  sadness
+
+  pumpkin
+
+  exhibit'
+bip_39_word_new_line_12: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo
+
+  blanket
+
+  sadness
+
+  pumpkin
+
+  exhibit
+
+  assume'
+bip_39_word_new_line_2: 'humble
+
+  clerk'
+bip_39_word_new_line_3: 'humble
+
+  clerk
+
+  hockey'
+bip_39_word_new_line_4: 'humble
+
+  clerk
+
+  hockey
+
+  peace'
+bip_39_word_new_line_5: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead'
+bip_39_word_new_line_6: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public'
+bip_39_word_new_line_7: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo'
+bip_39_word_new_line_8: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo
+
+  blanket'
+bip_39_word_new_line_9: 'humble
+
+  clerk
+
+  hockey
+
+  peace
+
+  ahead
+
+  public
+
+  tattoo
+
+  blanket
+
+  sadness'
+bip_39_word_no_space_1: humble
+bip_39_word_no_space_10: humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkin
+bip_39_word_no_space_11: humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibit
+bip_39_word_no_space_12: humbleclerkhockeypeaceaheadpublictattooblanketsadnesspumpkinexhibitassume
+bip_39_word_no_space_2: humbleclerk
+bip_39_word_no_space_3: humbleclerkhockey
+bip_39_word_no_space_4: humbleclerkhockeypeace
+bip_39_word_no_space_5: humbleclerkhockeypeaceahead
+bip_39_word_no_space_6: humbleclerkhockeypeaceaheadpublic
+bip_39_word_no_space_7: humbleclerkhockeypeaceaheadpublictattoo
+bip_39_word_no_space_8: humbleclerkhockeypeaceaheadpublictattooblanket
+bip_39_word_no_space_9: humbleclerkhockeypeaceaheadpublictattooblanketsadness
+bip_39_word_space_0:
+- humble
+- clerk
+- hockey
+- peace
+- ahead
+- public
+- tattoo
+- blanket
+- sadness
+- pumpkin
+- exhibit
+- assume
+bip_39_word_space_1: humble
+bip_39_word_space_10: humble clerk hockey peace ahead public tattoo blanket sadness
+  pumpkin
+bip_39_word_space_11: humble clerk hockey peace ahead public tattoo blanket sadness
+  pumpkin exhibit
+bip_39_word_space_12: humble clerk hockey peace ahead public tattoo blanket sadness
+  pumpkin exhibit assume
+bip_39_word_space_2: humble clerk
+bip_39_word_space_3: humble clerk hockey
+bip_39_word_space_4: humble clerk hockey peace
+bip_39_word_space_5: humble clerk hockey peace ahead
+bip_39_word_space_6: humble clerk hockey peace ahead public
+bip_39_word_space_7: humble clerk hockey peace ahead public tattoo
+bip_39_word_space_8: humble clerk hockey peace ahead public tattoo blanket
+bip_39_word_space_9: humble clerk hockey peace ahead public tattoo blanket sadness
+bip_39_word_underscore_1: humble
+bip_39_word_underscore_10: humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin
+bip_39_word_underscore_11: humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit
+bip_39_word_underscore_12: humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness_pumpkin_exhibit_assume
+bip_39_word_underscore_2: humble_clerk
+bip_39_word_underscore_3: humble_clerk_hockey
+bip_39_word_underscore_4: humble_clerk_hockey_peace
+bip_39_word_underscore_5: humble_clerk_hockey_peace_ahead
+bip_39_word_underscore_6: humble_clerk_hockey_peace_ahead_public
+bip_39_word_underscore_7: humble_clerk_hockey_peace_ahead_public_tattoo
+bip_39_word_underscore_8: humble_clerk_hockey_peace_ahead_public_tattoo_blanket
+bip_39_word_underscore_9: humble_clerk_hockey_peace_ahead_public_tattoo_blanket_sadness
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_11_02_15
 id_no_color: '110215'
 id_no_size: '11_02_15'
 id_no_type: tray_thin_11_02_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_02_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_02_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208opij
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208opij
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208opij
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '110215'
 name_no_size: 11 02 15
 name_no_size_short: 11 02 15
 name_no_type: Tray Thin 11 02 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_02_15
 oomp_word: rainbow diamonds cloud
 oomp_word_emoji: ':rainbow: :diamonds: :cloud:'

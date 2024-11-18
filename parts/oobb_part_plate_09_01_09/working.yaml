@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slender
+bip_39_word_dash_10: slender-wheat-abuse-head-size-sleep-camp-erosion-sniff-crisp
+bip_39_word_dash_11: slender-wheat-abuse-head-size-sleep-camp-erosion-sniff-crisp-bunker
+bip_39_word_dash_12: slender-wheat-abuse-head-size-sleep-camp-erosion-sniff-crisp-bunker-atom
+bip_39_word_dash_2: slender-wheat
+bip_39_word_dash_3: slender-wheat-abuse
+bip_39_word_dash_4: slender-wheat-abuse-head
+bip_39_word_dash_5: slender-wheat-abuse-head-size
+bip_39_word_dash_6: slender-wheat-abuse-head-size-sleep
+bip_39_word_dash_7: slender-wheat-abuse-head-size-sleep-camp
+bip_39_word_dash_8: slender-wheat-abuse-head-size-sleep-camp-erosion
+bip_39_word_dash_9: slender-wheat-abuse-head-size-sleep-camp-erosion-sniff
+bip_39_word_new_br_1: slender
+bip_39_word_new_br_10: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp
+bip_39_word_new_br_11: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp<br>bunker
+bip_39_word_new_br_12: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff<br>crisp<br>bunker<br>atom
+bip_39_word_new_br_2: slender<br>wheat
+bip_39_word_new_br_3: slender<br>wheat<br>abuse
+bip_39_word_new_br_4: slender<br>wheat<br>abuse<br>head
+bip_39_word_new_br_5: slender<br>wheat<br>abuse<br>head<br>size
+bip_39_word_new_br_6: slender<br>wheat<br>abuse<br>head<br>size<br>sleep
+bip_39_word_new_br_7: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp
+bip_39_word_new_br_8: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion
+bip_39_word_new_br_9: slender<br>wheat<br>abuse<br>head<br>size<br>sleep<br>camp<br>erosion<br>sniff
+bip_39_word_new_line_1: slender
+bip_39_word_new_line_10: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp'
+bip_39_word_new_line_11: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp
+
+  bunker'
+bip_39_word_new_line_12: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff
+
+  crisp
+
+  bunker
+
+  atom'
+bip_39_word_new_line_2: 'slender
+
+  wheat'
+bip_39_word_new_line_3: 'slender
+
+  wheat
+
+  abuse'
+bip_39_word_new_line_4: 'slender
+
+  wheat
+
+  abuse
+
+  head'
+bip_39_word_new_line_5: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size'
+bip_39_word_new_line_6: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep'
+bip_39_word_new_line_7: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp'
+bip_39_word_new_line_8: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion'
+bip_39_word_new_line_9: 'slender
+
+  wheat
+
+  abuse
+
+  head
+
+  size
+
+  sleep
+
+  camp
+
+  erosion
+
+  sniff'
+bip_39_word_no_space_1: slender
+bip_39_word_no_space_10: slenderwheatabuseheadsizesleepcamperosionsniffcrisp
+bip_39_word_no_space_11: slenderwheatabuseheadsizesleepcamperosionsniffcrispbunker
+bip_39_word_no_space_12: slenderwheatabuseheadsizesleepcamperosionsniffcrispbunkeratom
+bip_39_word_no_space_2: slenderwheat
+bip_39_word_no_space_3: slenderwheatabuse
+bip_39_word_no_space_4: slenderwheatabusehead
+bip_39_word_no_space_5: slenderwheatabuseheadsize
+bip_39_word_no_space_6: slenderwheatabuseheadsizesleep
+bip_39_word_no_space_7: slenderwheatabuseheadsizesleepcamp
+bip_39_word_no_space_8: slenderwheatabuseheadsizesleepcamperosion
+bip_39_word_no_space_9: slenderwheatabuseheadsizesleepcamperosionsniff
+bip_39_word_space_0:
+- slender
+- wheat
+- abuse
+- head
+- size
+- sleep
+- camp
+- erosion
+- sniff
+- crisp
+- bunker
+- atom
+bip_39_word_space_1: slender
+bip_39_word_space_10: slender wheat abuse head size sleep camp erosion sniff crisp
+bip_39_word_space_11: slender wheat abuse head size sleep camp erosion sniff crisp
+  bunker
+bip_39_word_space_12: slender wheat abuse head size sleep camp erosion sniff crisp
+  bunker atom
+bip_39_word_space_2: slender wheat
+bip_39_word_space_3: slender wheat abuse
+bip_39_word_space_4: slender wheat abuse head
+bip_39_word_space_5: slender wheat abuse head size
+bip_39_word_space_6: slender wheat abuse head size sleep
+bip_39_word_space_7: slender wheat abuse head size sleep camp
+bip_39_word_space_8: slender wheat abuse head size sleep camp erosion
+bip_39_word_space_9: slender wheat abuse head size sleep camp erosion sniff
+bip_39_word_underscore_1: slender
+bip_39_word_underscore_10: slender_wheat_abuse_head_size_sleep_camp_erosion_sniff_crisp
+bip_39_word_underscore_11: slender_wheat_abuse_head_size_sleep_camp_erosion_sniff_crisp_bunker
+bip_39_word_underscore_12: slender_wheat_abuse_head_size_sleep_camp_erosion_sniff_crisp_bunker_atom
+bip_39_word_underscore_2: slender_wheat
+bip_39_word_underscore_3: slender_wheat_abuse
+bip_39_word_underscore_4: slender_wheat_abuse_head
+bip_39_word_underscore_5: slender_wheat_abuse_head_size
+bip_39_word_underscore_6: slender_wheat_abuse_head_size_sleep
+bip_39_word_underscore_7: slender_wheat_abuse_head_size_sleep_camp
+bip_39_word_underscore_8: slender_wheat_abuse_head_size_sleep_camp_erosion
+bip_39_word_underscore_9: slender_wheat_abuse_head_size_sleep_camp_erosion_sniff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_09_01_09
 id_no_color: 090109
 id_no_size: 09_01_09
 id_no_type: plate_09_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208wlho
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208wlho
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208wlho
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090109
 name_no_size: 09 01 09
 name_no_size_short: 09 01 09
 name_no_type: Plate 09 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_01_09
 oomp_word: anchor pig watermelon
 oomp_word_emoji: ':anchor: :pig: :watermelon:'

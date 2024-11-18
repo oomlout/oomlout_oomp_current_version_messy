@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 16000 Series 16022 Size 110 mm ID 170 mm OD 19 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_16000_series_16022_size_110_mm_id_170_mm_od_19_mm_depth
   * classification: hardware

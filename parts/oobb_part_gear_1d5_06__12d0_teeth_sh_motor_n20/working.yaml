@@ -1,3 +1,223 @@
+bip_39_word_dash_1: height
+bip_39_word_dash_10: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial
+bip_39_word_dash_11: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial-hungry
+bip_39_word_dash_12: height-disorder-multiply-stairs-raven-clog-episode-famous-coral-crucial-hungry-april
+bip_39_word_dash_2: height-disorder
+bip_39_word_dash_3: height-disorder-multiply
+bip_39_word_dash_4: height-disorder-multiply-stairs
+bip_39_word_dash_5: height-disorder-multiply-stairs-raven
+bip_39_word_dash_6: height-disorder-multiply-stairs-raven-clog
+bip_39_word_dash_7: height-disorder-multiply-stairs-raven-clog-episode
+bip_39_word_dash_8: height-disorder-multiply-stairs-raven-clog-episode-famous
+bip_39_word_dash_9: height-disorder-multiply-stairs-raven-clog-episode-famous-coral
+bip_39_word_new_br_1: height
+bip_39_word_new_br_10: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial
+bip_39_word_new_br_11: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial<br>hungry
+bip_39_word_new_br_12: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral<br>crucial<br>hungry<br>april
+bip_39_word_new_br_2: height<br>disorder
+bip_39_word_new_br_3: height<br>disorder<br>multiply
+bip_39_word_new_br_4: height<br>disorder<br>multiply<br>stairs
+bip_39_word_new_br_5: height<br>disorder<br>multiply<br>stairs<br>raven
+bip_39_word_new_br_6: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog
+bip_39_word_new_br_7: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode
+bip_39_word_new_br_8: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous
+bip_39_word_new_br_9: height<br>disorder<br>multiply<br>stairs<br>raven<br>clog<br>episode<br>famous<br>coral
+bip_39_word_new_line_1: height
+bip_39_word_new_line_10: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial'
+bip_39_word_new_line_11: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial
+
+  hungry'
+bip_39_word_new_line_12: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral
+
+  crucial
+
+  hungry
+
+  april'
+bip_39_word_new_line_2: 'height
+
+  disorder'
+bip_39_word_new_line_3: 'height
+
+  disorder
+
+  multiply'
+bip_39_word_new_line_4: 'height
+
+  disorder
+
+  multiply
+
+  stairs'
+bip_39_word_new_line_5: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven'
+bip_39_word_new_line_6: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog'
+bip_39_word_new_line_7: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode'
+bip_39_word_new_line_8: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous'
+bip_39_word_new_line_9: 'height
+
+  disorder
+
+  multiply
+
+  stairs
+
+  raven
+
+  clog
+
+  episode
+
+  famous
+
+  coral'
+bip_39_word_no_space_1: height
+bip_39_word_no_space_10: heightdisordermultiplystairsravenclogepisodefamouscoralcrucial
+bip_39_word_no_space_11: heightdisordermultiplystairsravenclogepisodefamouscoralcrucialhungry
+bip_39_word_no_space_12: heightdisordermultiplystairsravenclogepisodefamouscoralcrucialhungryapril
+bip_39_word_no_space_2: heightdisorder
+bip_39_word_no_space_3: heightdisordermultiply
+bip_39_word_no_space_4: heightdisordermultiplystairs
+bip_39_word_no_space_5: heightdisordermultiplystairsraven
+bip_39_word_no_space_6: heightdisordermultiplystairsravenclog
+bip_39_word_no_space_7: heightdisordermultiplystairsravenclogepisode
+bip_39_word_no_space_8: heightdisordermultiplystairsravenclogepisodefamous
+bip_39_word_no_space_9: heightdisordermultiplystairsravenclogepisodefamouscoral
+bip_39_word_space_0:
+- height
+- disorder
+- multiply
+- stairs
+- raven
+- clog
+- episode
+- famous
+- coral
+- crucial
+- hungry
+- april
+bip_39_word_space_1: height
+bip_39_word_space_10: height disorder multiply stairs raven clog episode famous coral
+  crucial
+bip_39_word_space_11: height disorder multiply stairs raven clog episode famous coral
+  crucial hungry
+bip_39_word_space_12: height disorder multiply stairs raven clog episode famous coral
+  crucial hungry april
+bip_39_word_space_2: height disorder
+bip_39_word_space_3: height disorder multiply
+bip_39_word_space_4: height disorder multiply stairs
+bip_39_word_space_5: height disorder multiply stairs raven
+bip_39_word_space_6: height disorder multiply stairs raven clog
+bip_39_word_space_7: height disorder multiply stairs raven clog episode
+bip_39_word_space_8: height disorder multiply stairs raven clog episode famous
+bip_39_word_space_9: height disorder multiply stairs raven clog episode famous coral
+bip_39_word_underscore_1: height
+bip_39_word_underscore_10: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial
+bip_39_word_underscore_11: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial_hungry
+bip_39_word_underscore_12: height_disorder_multiply_stairs_raven_clog_episode_famous_coral_crucial_hungry_april
+bip_39_word_underscore_2: height_disorder
+bip_39_word_underscore_3: height_disorder_multiply
+bip_39_word_underscore_4: height_disorder_multiply_stairs
+bip_39_word_underscore_5: height_disorder_multiply_stairs_raven
+bip_39_word_underscore_6: height_disorder_multiply_stairs_raven_clog
+bip_39_word_underscore_7: height_disorder_multiply_stairs_raven_clog_episode
+bip_39_word_underscore_8: height_disorder_multiply_stairs_raven_clog_episode_famous
+bip_39_word_underscore_9: height_disorder_multiply_stairs_raven_clog_episode_famous_coral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_1d5_06__12d0_teeth_sh_motor_n20
 id_no_color: 1d50612d0teethshmotorn20
 id_no_size: 1d5_06__12d0_teeth_sh_motor_n20
 id_no_type: gear_1d5_06__12d0_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_06__12d0_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206tmrx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206tmrx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206tmrx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 1D50612D0Teethshmotorn20
 name_no_size: 1D5 06  12D0 Teeth Sh Motor N20
 name_no_size_short: 1D5 06  12D0 Teeth Sh Motor N20
 name_no_type: Gear 1D5 06  12D0 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_1d5_06__12d0_teeth_sh_motor_n20
 oomp_word: jeans rainbow scroll
 oomp_word_emoji: ':jeans: :rainbow: :scroll:'

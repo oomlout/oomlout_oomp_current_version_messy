@@ -1,3 +1,223 @@
+bip_39_word_dash_1: patient
+bip_39_word_dash_10: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark
+bip_39_word_dash_11: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark-liquid
+bip_39_word_dash_12: patient-pencil-awful-rescue-this-ankle-parent-neither-state-embark-liquid-aisle
+bip_39_word_dash_2: patient-pencil
+bip_39_word_dash_3: patient-pencil-awful
+bip_39_word_dash_4: patient-pencil-awful-rescue
+bip_39_word_dash_5: patient-pencil-awful-rescue-this
+bip_39_word_dash_6: patient-pencil-awful-rescue-this-ankle
+bip_39_word_dash_7: patient-pencil-awful-rescue-this-ankle-parent
+bip_39_word_dash_8: patient-pencil-awful-rescue-this-ankle-parent-neither
+bip_39_word_dash_9: patient-pencil-awful-rescue-this-ankle-parent-neither-state
+bip_39_word_new_br_1: patient
+bip_39_word_new_br_10: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark
+bip_39_word_new_br_11: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid
+bip_39_word_new_br_12: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state<br>embark<br>liquid<br>aisle
+bip_39_word_new_br_2: patient<br>pencil
+bip_39_word_new_br_3: patient<br>pencil<br>awful
+bip_39_word_new_br_4: patient<br>pencil<br>awful<br>rescue
+bip_39_word_new_br_5: patient<br>pencil<br>awful<br>rescue<br>this
+bip_39_word_new_br_6: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle
+bip_39_word_new_br_7: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent
+bip_39_word_new_br_8: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither
+bip_39_word_new_br_9: patient<br>pencil<br>awful<br>rescue<br>this<br>ankle<br>parent<br>neither<br>state
+bip_39_word_new_line_1: patient
+bip_39_word_new_line_10: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent
+
+  neither
+
+  state
+
+  embark'
+bip_39_word_new_line_11: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent
+
+  neither
+
+  state
+
+  embark
+
+  liquid'
+bip_39_word_new_line_12: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent
+
+  neither
+
+  state
+
+  embark
+
+  liquid
+
+  aisle'
+bip_39_word_new_line_2: 'patient
+
+  pencil'
+bip_39_word_new_line_3: 'patient
+
+  pencil
+
+  awful'
+bip_39_word_new_line_4: 'patient
+
+  pencil
+
+  awful
+
+  rescue'
+bip_39_word_new_line_5: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this'
+bip_39_word_new_line_6: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle'
+bip_39_word_new_line_7: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent'
+bip_39_word_new_line_8: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent
+
+  neither'
+bip_39_word_new_line_9: 'patient
+
+  pencil
+
+  awful
+
+  rescue
+
+  this
+
+  ankle
+
+  parent
+
+  neither
+
+  state'
+bip_39_word_no_space_1: patient
+bip_39_word_no_space_10: patientpencilawfulrescuethisankleparentneitherstateembark
+bip_39_word_no_space_11: patientpencilawfulrescuethisankleparentneitherstateembarkliquid
+bip_39_word_no_space_12: patientpencilawfulrescuethisankleparentneitherstateembarkliquidaisle
+bip_39_word_no_space_2: patientpencil
+bip_39_word_no_space_3: patientpencilawful
+bip_39_word_no_space_4: patientpencilawfulrescue
+bip_39_word_no_space_5: patientpencilawfulrescuethis
+bip_39_word_no_space_6: patientpencilawfulrescuethisankle
+bip_39_word_no_space_7: patientpencilawfulrescuethisankleparent
+bip_39_word_no_space_8: patientpencilawfulrescuethisankleparentneither
+bip_39_word_no_space_9: patientpencilawfulrescuethisankleparentneitherstate
+bip_39_word_space_0:
+- patient
+- pencil
+- awful
+- rescue
+- this
+- ankle
+- parent
+- neither
+- state
+- embark
+- liquid
+- aisle
+bip_39_word_space_1: patient
+bip_39_word_space_10: patient pencil awful rescue this ankle parent neither state
+  embark
+bip_39_word_space_11: patient pencil awful rescue this ankle parent neither state
+  embark liquid
+bip_39_word_space_12: patient pencil awful rescue this ankle parent neither state
+  embark liquid aisle
+bip_39_word_space_2: patient pencil
+bip_39_word_space_3: patient pencil awful
+bip_39_word_space_4: patient pencil awful rescue
+bip_39_word_space_5: patient pencil awful rescue this
+bip_39_word_space_6: patient pencil awful rescue this ankle
+bip_39_word_space_7: patient pencil awful rescue this ankle parent
+bip_39_word_space_8: patient pencil awful rescue this ankle parent neither
+bip_39_word_space_9: patient pencil awful rescue this ankle parent neither state
+bip_39_word_underscore_1: patient
+bip_39_word_underscore_10: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark
+bip_39_word_underscore_11: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark_liquid
+bip_39_word_underscore_12: patient_pencil_awful_rescue_this_ankle_parent_neither_state_embark_liquid_aisle
+bip_39_word_underscore_2: patient_pencil
+bip_39_word_underscore_3: patient_pencil_awful
+bip_39_word_underscore_4: patient_pencil_awful_rescue
+bip_39_word_underscore_5: patient_pencil_awful_rescue_this
+bip_39_word_underscore_6: patient_pencil_awful_rescue_this_ankle
+bip_39_word_underscore_7: patient_pencil_awful_rescue_this_ankle_parent
+bip_39_word_underscore_8: patient_pencil_awful_rescue_this_ankle_parent_neither
+bip_39_word_underscore_9: patient_pencil_awful_rescue_this_ankle_parent_neither_state
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_09__16_teeth_sh_motor_tt_01
 id_no_color: 010916teethshmotortt01
 id_no_size: 01_09__16_teeth_sh_motor_tt_01
 id_no_type: pulley_gt2_01_09__16_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203juky
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203juky
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203juky
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010916Teethshmotortt01
 name_no_size: 01 09  16 Teeth Sh Motor Tt 01
 name_no_size_short: 01 09  16 Teeth Sh Motor Tt 01
 name_no_type: Pulley Gt2 01 09  16 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_tt_01
 oomp_word: rooster wink paperclip
 oomp_word_emoji: ':rooster: :wink: :paperclip:'

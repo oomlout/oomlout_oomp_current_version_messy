@@ -1,3 +1,222 @@
+bip_39_word_dash_1: glory
+bip_39_word_dash_10: glory-already-feel-satisfy-double-version-hint-flight-want-burden
+bip_39_word_dash_11: glory-already-feel-satisfy-double-version-hint-flight-want-burden-offer
+bip_39_word_dash_12: glory-already-feel-satisfy-double-version-hint-flight-want-burden-offer-arm
+bip_39_word_dash_2: glory-already
+bip_39_word_dash_3: glory-already-feel
+bip_39_word_dash_4: glory-already-feel-satisfy
+bip_39_word_dash_5: glory-already-feel-satisfy-double
+bip_39_word_dash_6: glory-already-feel-satisfy-double-version
+bip_39_word_dash_7: glory-already-feel-satisfy-double-version-hint
+bip_39_word_dash_8: glory-already-feel-satisfy-double-version-hint-flight
+bip_39_word_dash_9: glory-already-feel-satisfy-double-version-hint-flight-want
+bip_39_word_new_br_1: glory
+bip_39_word_new_br_10: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden
+bip_39_word_new_br_11: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer
+bip_39_word_new_br_12: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want<br>burden<br>offer<br>arm
+bip_39_word_new_br_2: glory<br>already
+bip_39_word_new_br_3: glory<br>already<br>feel
+bip_39_word_new_br_4: glory<br>already<br>feel<br>satisfy
+bip_39_word_new_br_5: glory<br>already<br>feel<br>satisfy<br>double
+bip_39_word_new_br_6: glory<br>already<br>feel<br>satisfy<br>double<br>version
+bip_39_word_new_br_7: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint
+bip_39_word_new_br_8: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight
+bip_39_word_new_br_9: glory<br>already<br>feel<br>satisfy<br>double<br>version<br>hint<br>flight<br>want
+bip_39_word_new_line_1: glory
+bip_39_word_new_line_10: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden'
+bip_39_word_new_line_11: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden
+
+  offer'
+bip_39_word_new_line_12: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want
+
+  burden
+
+  offer
+
+  arm'
+bip_39_word_new_line_2: 'glory
+
+  already'
+bip_39_word_new_line_3: 'glory
+
+  already
+
+  feel'
+bip_39_word_new_line_4: 'glory
+
+  already
+
+  feel
+
+  satisfy'
+bip_39_word_new_line_5: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double'
+bip_39_word_new_line_6: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version'
+bip_39_word_new_line_7: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint'
+bip_39_word_new_line_8: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight'
+bip_39_word_new_line_9: 'glory
+
+  already
+
+  feel
+
+  satisfy
+
+  double
+
+  version
+
+  hint
+
+  flight
+
+  want'
+bip_39_word_no_space_1: glory
+bip_39_word_no_space_10: gloryalreadyfeelsatisfydoubleversionhintflightwantburden
+bip_39_word_no_space_11: gloryalreadyfeelsatisfydoubleversionhintflightwantburdenoffer
+bip_39_word_no_space_12: gloryalreadyfeelsatisfydoubleversionhintflightwantburdenofferarm
+bip_39_word_no_space_2: gloryalready
+bip_39_word_no_space_3: gloryalreadyfeel
+bip_39_word_no_space_4: gloryalreadyfeelsatisfy
+bip_39_word_no_space_5: gloryalreadyfeelsatisfydouble
+bip_39_word_no_space_6: gloryalreadyfeelsatisfydoubleversion
+bip_39_word_no_space_7: gloryalreadyfeelsatisfydoubleversionhint
+bip_39_word_no_space_8: gloryalreadyfeelsatisfydoubleversionhintflight
+bip_39_word_no_space_9: gloryalreadyfeelsatisfydoubleversionhintflightwant
+bip_39_word_space_0:
+- glory
+- already
+- feel
+- satisfy
+- double
+- version
+- hint
+- flight
+- want
+- burden
+- offer
+- arm
+bip_39_word_space_1: glory
+bip_39_word_space_10: glory already feel satisfy double version hint flight want burden
+bip_39_word_space_11: glory already feel satisfy double version hint flight want burden
+  offer
+bip_39_word_space_12: glory already feel satisfy double version hint flight want burden
+  offer arm
+bip_39_word_space_2: glory already
+bip_39_word_space_3: glory already feel
+bip_39_word_space_4: glory already feel satisfy
+bip_39_word_space_5: glory already feel satisfy double
+bip_39_word_space_6: glory already feel satisfy double version
+bip_39_word_space_7: glory already feel satisfy double version hint
+bip_39_word_space_8: glory already feel satisfy double version hint flight
+bip_39_word_space_9: glory already feel satisfy double version hint flight want
+bip_39_word_underscore_1: glory
+bip_39_word_underscore_10: glory_already_feel_satisfy_double_version_hint_flight_want_burden
+bip_39_word_underscore_11: glory_already_feel_satisfy_double_version_hint_flight_want_burden_offer
+bip_39_word_underscore_12: glory_already_feel_satisfy_double_version_hint_flight_want_burden_offer_arm
+bip_39_word_underscore_2: glory_already
+bip_39_word_underscore_3: glory_already_feel
+bip_39_word_underscore_4: glory_already_feel_satisfy
+bip_39_word_underscore_5: glory_already_feel_satisfy_double
+bip_39_word_underscore_6: glory_already_feel_satisfy_double_version
+bip_39_word_underscore_7: glory_already_feel_satisfy_double_version_hint
+bip_39_word_underscore_8: glory_already_feel_satisfy_double_version_hint_flight
+bip_39_word_underscore_9: glory_already_feel_satisfy_double_version_hint_flight_want
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bolt_hardware_bolt_m5_30
 id_no_color: hardwarem530
 id_no_size: hardware_m5_30
 id_no_type: bolt_hardware_bolt_m5_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ay87
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ay87
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ay87
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem530
 name_no_size: Hardware M5 30
 name_no_size_short: Hardware M5 30
 name_no_type: Bolt Hardware Bolt M5 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_30
 oomp_word: curry cat honey_pot
 oomp_word_emoji: ':curry: :cat: :honey_pot:'

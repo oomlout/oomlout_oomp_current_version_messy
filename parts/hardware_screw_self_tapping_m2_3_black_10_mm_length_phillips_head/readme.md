@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Self Tapping M2 3 Black 10 mm Length Phillips Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_self_tapping_m2_3_black_10_mm_length_phillips_head
   * classification: hardware

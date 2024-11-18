@@ -1,3 +1,221 @@
+bip_39_word_dash_1: twice
+bip_39_word_dash_10: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour
+bip_39_word_dash_11: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour-cost
+bip_39_word_dash_12: twice-trash-oval-orbit-scissors-room-evolve-body-axis-hour-cost-alley
+bip_39_word_dash_2: twice-trash
+bip_39_word_dash_3: twice-trash-oval
+bip_39_word_dash_4: twice-trash-oval-orbit
+bip_39_word_dash_5: twice-trash-oval-orbit-scissors
+bip_39_word_dash_6: twice-trash-oval-orbit-scissors-room
+bip_39_word_dash_7: twice-trash-oval-orbit-scissors-room-evolve
+bip_39_word_dash_8: twice-trash-oval-orbit-scissors-room-evolve-body
+bip_39_word_dash_9: twice-trash-oval-orbit-scissors-room-evolve-body-axis
+bip_39_word_new_br_1: twice
+bip_39_word_new_br_10: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis<br>hour
+bip_39_word_new_br_11: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis<br>hour<br>cost
+bip_39_word_new_br_12: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis<br>hour<br>cost<br>alley
+bip_39_word_new_br_2: twice<br>trash
+bip_39_word_new_br_3: twice<br>trash<br>oval
+bip_39_word_new_br_4: twice<br>trash<br>oval<br>orbit
+bip_39_word_new_br_5: twice<br>trash<br>oval<br>orbit<br>scissors
+bip_39_word_new_br_6: twice<br>trash<br>oval<br>orbit<br>scissors<br>room
+bip_39_word_new_br_7: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve
+bip_39_word_new_br_8: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body
+bip_39_word_new_br_9: twice<br>trash<br>oval<br>orbit<br>scissors<br>room<br>evolve<br>body<br>axis
+bip_39_word_new_line_1: twice
+bip_39_word_new_line_10: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve
+
+  body
+
+  axis
+
+  hour'
+bip_39_word_new_line_11: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve
+
+  body
+
+  axis
+
+  hour
+
+  cost'
+bip_39_word_new_line_12: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve
+
+  body
+
+  axis
+
+  hour
+
+  cost
+
+  alley'
+bip_39_word_new_line_2: 'twice
+
+  trash'
+bip_39_word_new_line_3: 'twice
+
+  trash
+
+  oval'
+bip_39_word_new_line_4: 'twice
+
+  trash
+
+  oval
+
+  orbit'
+bip_39_word_new_line_5: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors'
+bip_39_word_new_line_6: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room'
+bip_39_word_new_line_7: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve'
+bip_39_word_new_line_8: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve
+
+  body'
+bip_39_word_new_line_9: 'twice
+
+  trash
+
+  oval
+
+  orbit
+
+  scissors
+
+  room
+
+  evolve
+
+  body
+
+  axis'
+bip_39_word_no_space_1: twice
+bip_39_word_no_space_10: twicetrashovalorbitscissorsroomevolvebodyaxishour
+bip_39_word_no_space_11: twicetrashovalorbitscissorsroomevolvebodyaxishourcost
+bip_39_word_no_space_12: twicetrashovalorbitscissorsroomevolvebodyaxishourcostalley
+bip_39_word_no_space_2: twicetrash
+bip_39_word_no_space_3: twicetrashoval
+bip_39_word_no_space_4: twicetrashovalorbit
+bip_39_word_no_space_5: twicetrashovalorbitscissors
+bip_39_word_no_space_6: twicetrashovalorbitscissorsroom
+bip_39_word_no_space_7: twicetrashovalorbitscissorsroomevolve
+bip_39_word_no_space_8: twicetrashovalorbitscissorsroomevolvebody
+bip_39_word_no_space_9: twicetrashovalorbitscissorsroomevolvebodyaxis
+bip_39_word_space_0:
+- twice
+- trash
+- oval
+- orbit
+- scissors
+- room
+- evolve
+- body
+- axis
+- hour
+- cost
+- alley
+bip_39_word_space_1: twice
+bip_39_word_space_10: twice trash oval orbit scissors room evolve body axis hour
+bip_39_word_space_11: twice trash oval orbit scissors room evolve body axis hour cost
+bip_39_word_space_12: twice trash oval orbit scissors room evolve body axis hour cost
+  alley
+bip_39_word_space_2: twice trash
+bip_39_word_space_3: twice trash oval
+bip_39_word_space_4: twice trash oval orbit
+bip_39_word_space_5: twice trash oval orbit scissors
+bip_39_word_space_6: twice trash oval orbit scissors room
+bip_39_word_space_7: twice trash oval orbit scissors room evolve
+bip_39_word_space_8: twice trash oval orbit scissors room evolve body
+bip_39_word_space_9: twice trash oval orbit scissors room evolve body axis
+bip_39_word_underscore_1: twice
+bip_39_word_underscore_10: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour
+bip_39_word_underscore_11: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour_cost
+bip_39_word_underscore_12: twice_trash_oval_orbit_scissors_room_evolve_body_axis_hour_cost_alley
+bip_39_word_underscore_2: twice_trash
+bip_39_word_underscore_3: twice_trash_oval
+bip_39_word_underscore_4: twice_trash_oval_orbit
+bip_39_word_underscore_5: twice_trash_oval_orbit_scissors
+bip_39_word_underscore_6: twice_trash_oval_orbit_scissors_room
+bip_39_word_underscore_7: twice_trash_oval_orbit_scissors_room_evolve
+bip_39_word_underscore_8: twice_trash_oval_orbit_scissors_room_evolve_body
+bip_39_word_underscore_9: twice_trash_oval_orbit_scissors_room_evolve_body_axis
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_13_08_30
 id_no_color: '130830'
 id_no_size: '13_08_30'
 id_no_type: tray_thin_13_08_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_08_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_08_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_08_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042maj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042maj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042maj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '130830'
 name_no_size: 13 08 30
 name_no_size_short: 13 08 30
 name_no_type: Tray Thin 13 08 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_08_30
 oomp_word: mushroom bouquet rooster
 oomp_word_emoji: ':mushroom: :bouquet: :rooster:'

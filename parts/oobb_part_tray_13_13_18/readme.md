@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 13 13 18
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_13_13_18
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :diamonds: :rice: :leopard:
 * md5_6_alpha: 68dpb
 * md5_6: 9fbd5f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2068dpb)
+[2x1](http://192.168.1.242:1112/?label=oomp%2068dpb)
+[6x4](http://192.168.1.55:1112/?label=oomp%2068dpb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_13_18) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_13_13_18)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ select |
 | id_no_color | 131318 |  
 | id_no_size | 13_13_18 |  
 | id_no_type | tray_13_13_18 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_13_18 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_13_13_18 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_13_18 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2068dpb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2068dpb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2068dpb |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ select |
 | name_no_size | 13 13 18 |  
 | name_no_size_short | 13 13 18 |  
 | name_no_type | Tray 13 13 18 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_13_13_18 |  
 | oomp_word | diamonds rice leopard |  
 | oomp_word_emoji | :diamonds: :rice: :leopard: |  

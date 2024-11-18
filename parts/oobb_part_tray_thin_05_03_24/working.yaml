@@ -1,3 +1,222 @@
+bip_39_word_dash_1: couple
+bip_39_word_dash_10: couple-frog-worry-combine-blade-pride-skull-close-ready-fit
+bip_39_word_dash_11: couple-frog-worry-combine-blade-pride-skull-close-ready-fit-much
+bip_39_word_dash_12: couple-frog-worry-combine-blade-pride-skull-close-ready-fit-much-annual
+bip_39_word_dash_2: couple-frog
+bip_39_word_dash_3: couple-frog-worry
+bip_39_word_dash_4: couple-frog-worry-combine
+bip_39_word_dash_5: couple-frog-worry-combine-blade
+bip_39_word_dash_6: couple-frog-worry-combine-blade-pride
+bip_39_word_dash_7: couple-frog-worry-combine-blade-pride-skull
+bip_39_word_dash_8: couple-frog-worry-combine-blade-pride-skull-close
+bip_39_word_dash_9: couple-frog-worry-combine-blade-pride-skull-close-ready
+bip_39_word_new_br_1: couple
+bip_39_word_new_br_10: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit
+bip_39_word_new_br_11: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit<br>much
+bip_39_word_new_br_12: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready<br>fit<br>much<br>annual
+bip_39_word_new_br_2: couple<br>frog
+bip_39_word_new_br_3: couple<br>frog<br>worry
+bip_39_word_new_br_4: couple<br>frog<br>worry<br>combine
+bip_39_word_new_br_5: couple<br>frog<br>worry<br>combine<br>blade
+bip_39_word_new_br_6: couple<br>frog<br>worry<br>combine<br>blade<br>pride
+bip_39_word_new_br_7: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull
+bip_39_word_new_br_8: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close
+bip_39_word_new_br_9: couple<br>frog<br>worry<br>combine<br>blade<br>pride<br>skull<br>close<br>ready
+bip_39_word_new_line_1: couple
+bip_39_word_new_line_10: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit'
+bip_39_word_new_line_11: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit
+
+  much'
+bip_39_word_new_line_12: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready
+
+  fit
+
+  much
+
+  annual'
+bip_39_word_new_line_2: 'couple
+
+  frog'
+bip_39_word_new_line_3: 'couple
+
+  frog
+
+  worry'
+bip_39_word_new_line_4: 'couple
+
+  frog
+
+  worry
+
+  combine'
+bip_39_word_new_line_5: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade'
+bip_39_word_new_line_6: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride'
+bip_39_word_new_line_7: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull'
+bip_39_word_new_line_8: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close'
+bip_39_word_new_line_9: 'couple
+
+  frog
+
+  worry
+
+  combine
+
+  blade
+
+  pride
+
+  skull
+
+  close
+
+  ready'
+bip_39_word_no_space_1: couple
+bip_39_word_no_space_10: couplefrogworrycombinebladeprideskullclosereadyfit
+bip_39_word_no_space_11: couplefrogworrycombinebladeprideskullclosereadyfitmuch
+bip_39_word_no_space_12: couplefrogworrycombinebladeprideskullclosereadyfitmuchannual
+bip_39_word_no_space_2: couplefrog
+bip_39_word_no_space_3: couplefrogworry
+bip_39_word_no_space_4: couplefrogworrycombine
+bip_39_word_no_space_5: couplefrogworrycombineblade
+bip_39_word_no_space_6: couplefrogworrycombinebladepride
+bip_39_word_no_space_7: couplefrogworrycombinebladeprideskull
+bip_39_word_no_space_8: couplefrogworrycombinebladeprideskullclose
+bip_39_word_no_space_9: couplefrogworrycombinebladeprideskullcloseready
+bip_39_word_space_0:
+- couple
+- frog
+- worry
+- combine
+- blade
+- pride
+- skull
+- close
+- ready
+- fit
+- much
+- annual
+bip_39_word_space_1: couple
+bip_39_word_space_10: couple frog worry combine blade pride skull close ready fit
+bip_39_word_space_11: couple frog worry combine blade pride skull close ready fit
+  much
+bip_39_word_space_12: couple frog worry combine blade pride skull close ready fit
+  much annual
+bip_39_word_space_2: couple frog
+bip_39_word_space_3: couple frog worry
+bip_39_word_space_4: couple frog worry combine
+bip_39_word_space_5: couple frog worry combine blade
+bip_39_word_space_6: couple frog worry combine blade pride
+bip_39_word_space_7: couple frog worry combine blade pride skull
+bip_39_word_space_8: couple frog worry combine blade pride skull close
+bip_39_word_space_9: couple frog worry combine blade pride skull close ready
+bip_39_word_underscore_1: couple
+bip_39_word_underscore_10: couple_frog_worry_combine_blade_pride_skull_close_ready_fit
+bip_39_word_underscore_11: couple_frog_worry_combine_blade_pride_skull_close_ready_fit_much
+bip_39_word_underscore_12: couple_frog_worry_combine_blade_pride_skull_close_ready_fit_much_annual
+bip_39_word_underscore_2: couple_frog
+bip_39_word_underscore_3: couple_frog_worry
+bip_39_word_underscore_4: couple_frog_worry_combine
+bip_39_word_underscore_5: couple_frog_worry_combine_blade
+bip_39_word_underscore_6: couple_frog_worry_combine_blade_pride
+bip_39_word_underscore_7: couple_frog_worry_combine_blade_pride_skull
+bip_39_word_underscore_8: couple_frog_worry_combine_blade_pride_skull_close
+bip_39_word_underscore_9: couple_frog_worry_combine_blade_pride_skull_close_ready
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_05_03_24
 id_no_color: '050324'
 id_no_size: '05_03_24'
 id_no_type: tray_thin_05_03_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_03_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205wahh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205wahh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205wahh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050324'
 name_no_size: 05 03 24
 name_no_size_short: 05 03 24
 name_no_type: Tray Thin 05 03 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_05_03_24
 oomp_word: baseball lips poop
 oomp_word_emoji: ':baseball: :lips: :poop:'

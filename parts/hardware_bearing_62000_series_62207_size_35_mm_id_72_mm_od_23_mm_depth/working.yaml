@@ -1,3 +1,222 @@
+bip_39_word_dash_1: artist
+bip_39_word_dash_10: artist-cross-lamp-borrow-few-dance-position-balance-onion-once
+bip_39_word_dash_11: artist-cross-lamp-borrow-few-dance-position-balance-onion-once-choose
+bip_39_word_dash_12: artist-cross-lamp-borrow-few-dance-position-balance-onion-once-choose-alien
+bip_39_word_dash_2: artist-cross
+bip_39_word_dash_3: artist-cross-lamp
+bip_39_word_dash_4: artist-cross-lamp-borrow
+bip_39_word_dash_5: artist-cross-lamp-borrow-few
+bip_39_word_dash_6: artist-cross-lamp-borrow-few-dance
+bip_39_word_dash_7: artist-cross-lamp-borrow-few-dance-position
+bip_39_word_dash_8: artist-cross-lamp-borrow-few-dance-position-balance
+bip_39_word_dash_9: artist-cross-lamp-borrow-few-dance-position-balance-onion
+bip_39_word_new_br_1: artist
+bip_39_word_new_br_10: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion<br>once
+bip_39_word_new_br_11: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion<br>once<br>choose
+bip_39_word_new_br_12: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion<br>once<br>choose<br>alien
+bip_39_word_new_br_2: artist<br>cross
+bip_39_word_new_br_3: artist<br>cross<br>lamp
+bip_39_word_new_br_4: artist<br>cross<br>lamp<br>borrow
+bip_39_word_new_br_5: artist<br>cross<br>lamp<br>borrow<br>few
+bip_39_word_new_br_6: artist<br>cross<br>lamp<br>borrow<br>few<br>dance
+bip_39_word_new_br_7: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position
+bip_39_word_new_br_8: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance
+bip_39_word_new_br_9: artist<br>cross<br>lamp<br>borrow<br>few<br>dance<br>position<br>balance<br>onion
+bip_39_word_new_line_1: artist
+bip_39_word_new_line_10: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position
+
+  balance
+
+  onion
+
+  once'
+bip_39_word_new_line_11: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position
+
+  balance
+
+  onion
+
+  once
+
+  choose'
+bip_39_word_new_line_12: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position
+
+  balance
+
+  onion
+
+  once
+
+  choose
+
+  alien'
+bip_39_word_new_line_2: 'artist
+
+  cross'
+bip_39_word_new_line_3: 'artist
+
+  cross
+
+  lamp'
+bip_39_word_new_line_4: 'artist
+
+  cross
+
+  lamp
+
+  borrow'
+bip_39_word_new_line_5: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few'
+bip_39_word_new_line_6: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance'
+bip_39_word_new_line_7: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position'
+bip_39_word_new_line_8: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position
+
+  balance'
+bip_39_word_new_line_9: 'artist
+
+  cross
+
+  lamp
+
+  borrow
+
+  few
+
+  dance
+
+  position
+
+  balance
+
+  onion'
+bip_39_word_no_space_1: artist
+bip_39_word_no_space_10: artistcrosslampborrowfewdancepositionbalanceoniononce
+bip_39_word_no_space_11: artistcrosslampborrowfewdancepositionbalanceoniononcechoose
+bip_39_word_no_space_12: artistcrosslampborrowfewdancepositionbalanceoniononcechoosealien
+bip_39_word_no_space_2: artistcross
+bip_39_word_no_space_3: artistcrosslamp
+bip_39_word_no_space_4: artistcrosslampborrow
+bip_39_word_no_space_5: artistcrosslampborrowfew
+bip_39_word_no_space_6: artistcrosslampborrowfewdance
+bip_39_word_no_space_7: artistcrosslampborrowfewdanceposition
+bip_39_word_no_space_8: artistcrosslampborrowfewdancepositionbalance
+bip_39_word_no_space_9: artistcrosslampborrowfewdancepositionbalanceonion
+bip_39_word_space_0:
+- artist
+- cross
+- lamp
+- borrow
+- few
+- dance
+- position
+- balance
+- onion
+- once
+- choose
+- alien
+bip_39_word_space_1: artist
+bip_39_word_space_10: artist cross lamp borrow few dance position balance onion once
+bip_39_word_space_11: artist cross lamp borrow few dance position balance onion once
+  choose
+bip_39_word_space_12: artist cross lamp borrow few dance position balance onion once
+  choose alien
+bip_39_word_space_2: artist cross
+bip_39_word_space_3: artist cross lamp
+bip_39_word_space_4: artist cross lamp borrow
+bip_39_word_space_5: artist cross lamp borrow few
+bip_39_word_space_6: artist cross lamp borrow few dance
+bip_39_word_space_7: artist cross lamp borrow few dance position
+bip_39_word_space_8: artist cross lamp borrow few dance position balance
+bip_39_word_space_9: artist cross lamp borrow few dance position balance onion
+bip_39_word_underscore_1: artist
+bip_39_word_underscore_10: artist_cross_lamp_borrow_few_dance_position_balance_onion_once
+bip_39_word_underscore_11: artist_cross_lamp_borrow_few_dance_position_balance_onion_once_choose
+bip_39_word_underscore_12: artist_cross_lamp_borrow_few_dance_position_balance_onion_once_choose_alien
+bip_39_word_underscore_2: artist_cross
+bip_39_word_underscore_3: artist_cross_lamp
+bip_39_word_underscore_4: artist_cross_lamp_borrow
+bip_39_word_underscore_5: artist_cross_lamp_borrow_few
+bip_39_word_underscore_6: artist_cross_lamp_borrow_few_dance
+bip_39_word_underscore_7: artist_cross_lamp_borrow_few_dance_position
+bip_39_word_underscore_8: artist_cross_lamp_borrow_few_dance_position_balance
+bip_39_word_underscore_9: artist_cross_lamp_borrow_few_dance_position_balance_onion
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
 id_no_color: 35_mm_id_72_mm_od_23_mm_depth
 id_no_size: 62207_size_35_mm_id_72_mm_od_23_mm_depth
 id_no_type: 62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203wwpy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203wwpy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203wwpy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 35 mm ID 72 mm OD 23 mm Depth
 name_no_size: 62207 Size 35 mm ID 72 mm OD 23 mm Depth
 name_no_size_short: 62207 Size 35 Mm Id 72 Mm Od 23 Mm Depth
 name_no_type: 62000 Series 62207 Size 35 mm ID 72 mm OD 23 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br62207
+oomlout_short_code_upper: BR62207
 oomp_key: oomp_hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
 oomp_word: sunflower beetle trumpet
 oomp_word_emoji: ':sunflower: :beetle: :trumpet:'

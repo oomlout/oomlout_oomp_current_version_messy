@@ -325,7 +325,14 @@ id_no_class: part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 070718nm16mmtapewidth2mmtapethickness2
 id_no_size: 07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206smx7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206smx7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206smx7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -351,6 +358,7 @@ name_no_color: 070718Nm16mmtapewidth2mmtapethickness2
 name_no_size: 07 07 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 07 07 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 07 07 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_07_07_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: jeans sunny sunglasses
 oomp_word_emoji: ':jeans: :sunny: :sunglasses:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61803 Size 17 mm ID 26 mm OD 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61803_size_17_mm_id_26_mm_od_5_mm_depth
   * classification: hardware

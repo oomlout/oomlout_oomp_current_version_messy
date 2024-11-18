@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 03 03 03  Electronic Button 11 mm Panel Mount
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_03_03_03__electronic_button_11_mm_panel_mount
   * classification: oobb

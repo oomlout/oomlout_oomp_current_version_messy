@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6930 Size 150 mm ID 210 mm OD 28 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6930_size_150_mm_id_210_mm_od_28_mm_depth
   * classification: hardware

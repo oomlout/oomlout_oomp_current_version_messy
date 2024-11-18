@@ -1,3 +1,222 @@
+bip_39_word_dash_1: obvious
+bip_39_word_dash_10: obvious-time-vast-rapid-tonight-payment-hover-dust-knife-snack
+bip_39_word_dash_11: obvious-time-vast-rapid-tonight-payment-hover-dust-knife-snack-clap
+bip_39_word_dash_12: obvious-time-vast-rapid-tonight-payment-hover-dust-knife-snack-clap-ahead
+bip_39_word_dash_2: obvious-time
+bip_39_word_dash_3: obvious-time-vast
+bip_39_word_dash_4: obvious-time-vast-rapid
+bip_39_word_dash_5: obvious-time-vast-rapid-tonight
+bip_39_word_dash_6: obvious-time-vast-rapid-tonight-payment
+bip_39_word_dash_7: obvious-time-vast-rapid-tonight-payment-hover
+bip_39_word_dash_8: obvious-time-vast-rapid-tonight-payment-hover-dust
+bip_39_word_dash_9: obvious-time-vast-rapid-tonight-payment-hover-dust-knife
+bip_39_word_new_br_1: obvious
+bip_39_word_new_br_10: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack
+bip_39_word_new_br_11: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack<br>clap
+bip_39_word_new_br_12: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife<br>snack<br>clap<br>ahead
+bip_39_word_new_br_2: obvious<br>time
+bip_39_word_new_br_3: obvious<br>time<br>vast
+bip_39_word_new_br_4: obvious<br>time<br>vast<br>rapid
+bip_39_word_new_br_5: obvious<br>time<br>vast<br>rapid<br>tonight
+bip_39_word_new_br_6: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment
+bip_39_word_new_br_7: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover
+bip_39_word_new_br_8: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust
+bip_39_word_new_br_9: obvious<br>time<br>vast<br>rapid<br>tonight<br>payment<br>hover<br>dust<br>knife
+bip_39_word_new_line_1: obvious
+bip_39_word_new_line_10: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover
+
+  dust
+
+  knife
+
+  snack'
+bip_39_word_new_line_11: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover
+
+  dust
+
+  knife
+
+  snack
+
+  clap'
+bip_39_word_new_line_12: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover
+
+  dust
+
+  knife
+
+  snack
+
+  clap
+
+  ahead'
+bip_39_word_new_line_2: 'obvious
+
+  time'
+bip_39_word_new_line_3: 'obvious
+
+  time
+
+  vast'
+bip_39_word_new_line_4: 'obvious
+
+  time
+
+  vast
+
+  rapid'
+bip_39_word_new_line_5: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight'
+bip_39_word_new_line_6: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment'
+bip_39_word_new_line_7: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover'
+bip_39_word_new_line_8: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover
+
+  dust'
+bip_39_word_new_line_9: 'obvious
+
+  time
+
+  vast
+
+  rapid
+
+  tonight
+
+  payment
+
+  hover
+
+  dust
+
+  knife'
+bip_39_word_no_space_1: obvious
+bip_39_word_no_space_10: obvioustimevastrapidtonightpaymenthoverdustknifesnack
+bip_39_word_no_space_11: obvioustimevastrapidtonightpaymenthoverdustknifesnackclap
+bip_39_word_no_space_12: obvioustimevastrapidtonightpaymenthoverdustknifesnackclapahead
+bip_39_word_no_space_2: obvioustime
+bip_39_word_no_space_3: obvioustimevast
+bip_39_word_no_space_4: obvioustimevastrapid
+bip_39_word_no_space_5: obvioustimevastrapidtonight
+bip_39_word_no_space_6: obvioustimevastrapidtonightpayment
+bip_39_word_no_space_7: obvioustimevastrapidtonightpaymenthover
+bip_39_word_no_space_8: obvioustimevastrapidtonightpaymenthoverdust
+bip_39_word_no_space_9: obvioustimevastrapidtonightpaymenthoverdustknife
+bip_39_word_space_0:
+- obvious
+- time
+- vast
+- rapid
+- tonight
+- payment
+- hover
+- dust
+- knife
+- snack
+- clap
+- ahead
+bip_39_word_space_1: obvious
+bip_39_word_space_10: obvious time vast rapid tonight payment hover dust knife snack
+bip_39_word_space_11: obvious time vast rapid tonight payment hover dust knife snack
+  clap
+bip_39_word_space_12: obvious time vast rapid tonight payment hover dust knife snack
+  clap ahead
+bip_39_word_space_2: obvious time
+bip_39_word_space_3: obvious time vast
+bip_39_word_space_4: obvious time vast rapid
+bip_39_word_space_5: obvious time vast rapid tonight
+bip_39_word_space_6: obvious time vast rapid tonight payment
+bip_39_word_space_7: obvious time vast rapid tonight payment hover
+bip_39_word_space_8: obvious time vast rapid tonight payment hover dust
+bip_39_word_space_9: obvious time vast rapid tonight payment hover dust knife
+bip_39_word_underscore_1: obvious
+bip_39_word_underscore_10: obvious_time_vast_rapid_tonight_payment_hover_dust_knife_snack
+bip_39_word_underscore_11: obvious_time_vast_rapid_tonight_payment_hover_dust_knife_snack_clap
+bip_39_word_underscore_12: obvious_time_vast_rapid_tonight_payment_hover_dust_knife_snack_clap_ahead
+bip_39_word_underscore_2: obvious_time
+bip_39_word_underscore_3: obvious_time_vast
+bip_39_word_underscore_4: obvious_time_vast_rapid
+bip_39_word_underscore_5: obvious_time_vast_rapid_tonight
+bip_39_word_underscore_6: obvious_time_vast_rapid_tonight_payment
+bip_39_word_underscore_7: obvious_time_vast_rapid_tonight_payment_hover
+bip_39_word_underscore_8: obvious_time_vast_rapid_tonight_payment_hover_dust
+bip_39_word_underscore_9: obvious_time_vast_rapid_tonight_payment_hover_dust_knife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__y
 id_no_color: 0701y
 id_no_size: 07_01__y
 id_no_type: bunting_alphabet_07_01__y
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__y
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__y
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__y
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2037n3n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2037n3n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2037n3n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0701Y
 name_no_size: 07 01  Y
 name_no_size_short: 07 01  Y
 name_no_type: Bunting Alphabet 07 01  Y
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__y
 oomp_word: octopus fish eyeglasses
 oomp_word_emoji: ':octopus: :fish: :eyeglasses:'

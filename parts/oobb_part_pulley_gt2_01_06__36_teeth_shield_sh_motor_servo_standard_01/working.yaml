@@ -1,3 +1,222 @@
+bip_39_word_dash_1: jazz
+bip_39_word_dash_10: jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite
+bip_39_word_dash_11: jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite-admit
+bip_39_word_dash_12: jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence-invite-admit-all
+bip_39_word_dash_2: jazz-summer
+bip_39_word_dash_3: jazz-summer-upgrade
+bip_39_word_dash_4: jazz-summer-upgrade-cruel
+bip_39_word_dash_5: jazz-summer-upgrade-cruel-top
+bip_39_word_dash_6: jazz-summer-upgrade-cruel-top-unhappy
+bip_39_word_dash_7: jazz-summer-upgrade-cruel-top-unhappy-pilot
+bip_39_word_dash_8: jazz-summer-upgrade-cruel-top-unhappy-pilot-private
+bip_39_word_dash_9: jazz-summer-upgrade-cruel-top-unhappy-pilot-private-fence
+bip_39_word_new_br_1: jazz
+bip_39_word_new_br_10: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite
+bip_39_word_new_br_11: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite<br>admit
+bip_39_word_new_br_12: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence<br>invite<br>admit<br>all
+bip_39_word_new_br_2: jazz<br>summer
+bip_39_word_new_br_3: jazz<br>summer<br>upgrade
+bip_39_word_new_br_4: jazz<br>summer<br>upgrade<br>cruel
+bip_39_word_new_br_5: jazz<br>summer<br>upgrade<br>cruel<br>top
+bip_39_word_new_br_6: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy
+bip_39_word_new_br_7: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot
+bip_39_word_new_br_8: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private
+bip_39_word_new_br_9: jazz<br>summer<br>upgrade<br>cruel<br>top<br>unhappy<br>pilot<br>private<br>fence
+bip_39_word_new_line_1: jazz
+bip_39_word_new_line_10: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite'
+bip_39_word_new_line_11: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite
+
+  admit'
+bip_39_word_new_line_12: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence
+
+  invite
+
+  admit
+
+  all'
+bip_39_word_new_line_2: 'jazz
+
+  summer'
+bip_39_word_new_line_3: 'jazz
+
+  summer
+
+  upgrade'
+bip_39_word_new_line_4: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel'
+bip_39_word_new_line_5: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top'
+bip_39_word_new_line_6: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy'
+bip_39_word_new_line_7: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot'
+bip_39_word_new_line_8: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private'
+bip_39_word_new_line_9: 'jazz
+
+  summer
+
+  upgrade
+
+  cruel
+
+  top
+
+  unhappy
+
+  pilot
+
+  private
+
+  fence'
+bip_39_word_no_space_1: jazz
+bip_39_word_no_space_10: jazzsummerupgradecrueltopunhappypilotprivatefenceinvite
+bip_39_word_no_space_11: jazzsummerupgradecrueltopunhappypilotprivatefenceinviteadmit
+bip_39_word_no_space_12: jazzsummerupgradecrueltopunhappypilotprivatefenceinviteadmitall
+bip_39_word_no_space_2: jazzsummer
+bip_39_word_no_space_3: jazzsummerupgrade
+bip_39_word_no_space_4: jazzsummerupgradecruel
+bip_39_word_no_space_5: jazzsummerupgradecrueltop
+bip_39_word_no_space_6: jazzsummerupgradecrueltopunhappy
+bip_39_word_no_space_7: jazzsummerupgradecrueltopunhappypilot
+bip_39_word_no_space_8: jazzsummerupgradecrueltopunhappypilotprivate
+bip_39_word_no_space_9: jazzsummerupgradecrueltopunhappypilotprivatefence
+bip_39_word_space_0:
+- jazz
+- summer
+- upgrade
+- cruel
+- top
+- unhappy
+- pilot
+- private
+- fence
+- invite
+- admit
+- all
+bip_39_word_space_1: jazz
+bip_39_word_space_10: jazz summer upgrade cruel top unhappy pilot private fence invite
+bip_39_word_space_11: jazz summer upgrade cruel top unhappy pilot private fence invite
+  admit
+bip_39_word_space_12: jazz summer upgrade cruel top unhappy pilot private fence invite
+  admit all
+bip_39_word_space_2: jazz summer
+bip_39_word_space_3: jazz summer upgrade
+bip_39_word_space_4: jazz summer upgrade cruel
+bip_39_word_space_5: jazz summer upgrade cruel top
+bip_39_word_space_6: jazz summer upgrade cruel top unhappy
+bip_39_word_space_7: jazz summer upgrade cruel top unhappy pilot
+bip_39_word_space_8: jazz summer upgrade cruel top unhappy pilot private
+bip_39_word_space_9: jazz summer upgrade cruel top unhappy pilot private fence
+bip_39_word_underscore_1: jazz
+bip_39_word_underscore_10: jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite
+bip_39_word_underscore_11: jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite_admit
+bip_39_word_underscore_12: jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence_invite_admit_all
+bip_39_word_underscore_2: jazz_summer
+bip_39_word_underscore_3: jazz_summer_upgrade
+bip_39_word_underscore_4: jazz_summer_upgrade_cruel
+bip_39_word_underscore_5: jazz_summer_upgrade_cruel_top
+bip_39_word_underscore_6: jazz_summer_upgrade_cruel_top_unhappy
+bip_39_word_underscore_7: jazz_summer_upgrade_cruel_top_unhappy_pilot
+bip_39_word_underscore_8: jazz_summer_upgrade_cruel_top_unhappy_pilot_private
+bip_39_word_underscore_9: jazz_summer_upgrade_cruel_top_unhappy_pilot_private_fence
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
 id_no_color: 010636teethshieldshmotorservostandard01
 id_no_size: 01_06__36_teeth_shield_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203zbdp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203zbdp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203zbdp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010636Teethshieldshmotorservostandard01
 name_no_size: 01 06  36 Teeth Shield Sh Motor Servo Standard 01
 name_no_size_short: 01 06  36 Teeth Shield Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 01 06  36 Teeth Shield Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_motor_servo_standard_01
 oomp_word: leaves cry blowfish
 oomp_word_emoji: ':leaves: :cry: :blowfish:'

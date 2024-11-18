@@ -1,3 +1,223 @@
+bip_39_word_dash_1: alert
+bip_39_word_dash_10: alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior
+bip_39_word_dash_11: alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior-filter
+bip_39_word_dash_12: alert-silver-turkey-unhappy-remind-load-intact-guess-review-warrior-filter-annual
+bip_39_word_dash_2: alert-silver
+bip_39_word_dash_3: alert-silver-turkey
+bip_39_word_dash_4: alert-silver-turkey-unhappy
+bip_39_word_dash_5: alert-silver-turkey-unhappy-remind
+bip_39_word_dash_6: alert-silver-turkey-unhappy-remind-load
+bip_39_word_dash_7: alert-silver-turkey-unhappy-remind-load-intact
+bip_39_word_dash_8: alert-silver-turkey-unhappy-remind-load-intact-guess
+bip_39_word_dash_9: alert-silver-turkey-unhappy-remind-load-intact-guess-review
+bip_39_word_new_br_1: alert
+bip_39_word_new_br_10: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review<br>warrior
+bip_39_word_new_br_11: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review<br>warrior<br>filter
+bip_39_word_new_br_12: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review<br>warrior<br>filter<br>annual
+bip_39_word_new_br_2: alert<br>silver
+bip_39_word_new_br_3: alert<br>silver<br>turkey
+bip_39_word_new_br_4: alert<br>silver<br>turkey<br>unhappy
+bip_39_word_new_br_5: alert<br>silver<br>turkey<br>unhappy<br>remind
+bip_39_word_new_br_6: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load
+bip_39_word_new_br_7: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact
+bip_39_word_new_br_8: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess
+bip_39_word_new_br_9: alert<br>silver<br>turkey<br>unhappy<br>remind<br>load<br>intact<br>guess<br>review
+bip_39_word_new_line_1: alert
+bip_39_word_new_line_10: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact
+
+  guess
+
+  review
+
+  warrior'
+bip_39_word_new_line_11: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact
+
+  guess
+
+  review
+
+  warrior
+
+  filter'
+bip_39_word_new_line_12: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact
+
+  guess
+
+  review
+
+  warrior
+
+  filter
+
+  annual'
+bip_39_word_new_line_2: 'alert
+
+  silver'
+bip_39_word_new_line_3: 'alert
+
+  silver
+
+  turkey'
+bip_39_word_new_line_4: 'alert
+
+  silver
+
+  turkey
+
+  unhappy'
+bip_39_word_new_line_5: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind'
+bip_39_word_new_line_6: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load'
+bip_39_word_new_line_7: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact'
+bip_39_word_new_line_8: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact
+
+  guess'
+bip_39_word_new_line_9: 'alert
+
+  silver
+
+  turkey
+
+  unhappy
+
+  remind
+
+  load
+
+  intact
+
+  guess
+
+  review'
+bip_39_word_no_space_1: alert
+bip_39_word_no_space_10: alertsilverturkeyunhappyremindloadintactguessreviewwarrior
+bip_39_word_no_space_11: alertsilverturkeyunhappyremindloadintactguessreviewwarriorfilter
+bip_39_word_no_space_12: alertsilverturkeyunhappyremindloadintactguessreviewwarriorfilterannual
+bip_39_word_no_space_2: alertsilver
+bip_39_word_no_space_3: alertsilverturkey
+bip_39_word_no_space_4: alertsilverturkeyunhappy
+bip_39_word_no_space_5: alertsilverturkeyunhappyremind
+bip_39_word_no_space_6: alertsilverturkeyunhappyremindload
+bip_39_word_no_space_7: alertsilverturkeyunhappyremindloadintact
+bip_39_word_no_space_8: alertsilverturkeyunhappyremindloadintactguess
+bip_39_word_no_space_9: alertsilverturkeyunhappyremindloadintactguessreview
+bip_39_word_space_0:
+- alert
+- silver
+- turkey
+- unhappy
+- remind
+- load
+- intact
+- guess
+- review
+- warrior
+- filter
+- annual
+bip_39_word_space_1: alert
+bip_39_word_space_10: alert silver turkey unhappy remind load intact guess review
+  warrior
+bip_39_word_space_11: alert silver turkey unhappy remind load intact guess review
+  warrior filter
+bip_39_word_space_12: alert silver turkey unhappy remind load intact guess review
+  warrior filter annual
+bip_39_word_space_2: alert silver
+bip_39_word_space_3: alert silver turkey
+bip_39_word_space_4: alert silver turkey unhappy
+bip_39_word_space_5: alert silver turkey unhappy remind
+bip_39_word_space_6: alert silver turkey unhappy remind load
+bip_39_word_space_7: alert silver turkey unhappy remind load intact
+bip_39_word_space_8: alert silver turkey unhappy remind load intact guess
+bip_39_word_space_9: alert silver turkey unhappy remind load intact guess review
+bip_39_word_underscore_1: alert
+bip_39_word_underscore_10: alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior
+bip_39_word_underscore_11: alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior_filter
+bip_39_word_underscore_12: alert_silver_turkey_unhappy_remind_load_intact_guess_review_warrior_filter_annual
+bip_39_word_underscore_2: alert_silver
+bip_39_word_underscore_3: alert_silver_turkey
+bip_39_word_underscore_4: alert_silver_turkey_unhappy
+bip_39_word_underscore_5: alert_silver_turkey_unhappy_remind
+bip_39_word_underscore_6: alert_silver_turkey_unhappy_remind_load
+bip_39_word_underscore_7: alert_silver_turkey_unhappy_remind_load_intact
+bip_39_word_underscore_8: alert_silver_turkey_unhappy_remind_load_intact_guess
+bip_39_word_underscore_9: alert_silver_turkey_unhappy_remind_load_intact_guess_review
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_02_06__40_teeth_sh_motor_tt_01
 id_no_color: 020640teethshmotortt01
 id_no_size: 02_06__40_teeth_sh_motor_tt_01
 id_no_type: pulley_gt2_02_06__40_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vnct
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vnct
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vnct
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020640Teethshmotortt01
 name_no_size: 02 06  40 Teeth Sh Motor Tt 01
 name_no_size_short: 02 06  40 Teeth Sh Motor Tt 01
 name_no_type: Pulley Gt2 02 06  40 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__40_teeth_sh_motor_tt_01
 oomp_word: basketball shirt parking
 oomp_word_emoji: ':basketball: :shirt: :parking:'

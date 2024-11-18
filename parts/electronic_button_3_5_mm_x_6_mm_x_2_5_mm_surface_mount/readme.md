@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Button 3 5 mm X 6 mm X 2 5 mm Surface Mount
+* name_short: 
 ### id
 * oomp_id: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
   * classification: electronic

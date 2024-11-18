@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tuna
+bip_39_word_dash_10: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used
+bip_39_word_dash_11: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used-fuel
+bip_39_word_dash_12: tuna-empty-deliver-original-mean-build-canvas-aunt-idea-used-fuel-accuse
+bip_39_word_dash_2: tuna-empty
+bip_39_word_dash_3: tuna-empty-deliver
+bip_39_word_dash_4: tuna-empty-deliver-original
+bip_39_word_dash_5: tuna-empty-deliver-original-mean
+bip_39_word_dash_6: tuna-empty-deliver-original-mean-build
+bip_39_word_dash_7: tuna-empty-deliver-original-mean-build-canvas
+bip_39_word_dash_8: tuna-empty-deliver-original-mean-build-canvas-aunt
+bip_39_word_dash_9: tuna-empty-deliver-original-mean-build-canvas-aunt-idea
+bip_39_word_new_br_1: tuna
+bip_39_word_new_br_10: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used
+bip_39_word_new_br_11: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used<br>fuel
+bip_39_word_new_br_12: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea<br>used<br>fuel<br>accuse
+bip_39_word_new_br_2: tuna<br>empty
+bip_39_word_new_br_3: tuna<br>empty<br>deliver
+bip_39_word_new_br_4: tuna<br>empty<br>deliver<br>original
+bip_39_word_new_br_5: tuna<br>empty<br>deliver<br>original<br>mean
+bip_39_word_new_br_6: tuna<br>empty<br>deliver<br>original<br>mean<br>build
+bip_39_word_new_br_7: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas
+bip_39_word_new_br_8: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt
+bip_39_word_new_br_9: tuna<br>empty<br>deliver<br>original<br>mean<br>build<br>canvas<br>aunt<br>idea
+bip_39_word_new_line_1: tuna
+bip_39_word_new_line_10: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas
+
+  aunt
+
+  idea
+
+  used'
+bip_39_word_new_line_11: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas
+
+  aunt
+
+  idea
+
+  used
+
+  fuel'
+bip_39_word_new_line_12: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas
+
+  aunt
+
+  idea
+
+  used
+
+  fuel
+
+  accuse'
+bip_39_word_new_line_2: 'tuna
+
+  empty'
+bip_39_word_new_line_3: 'tuna
+
+  empty
+
+  deliver'
+bip_39_word_new_line_4: 'tuna
+
+  empty
+
+  deliver
+
+  original'
+bip_39_word_new_line_5: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean'
+bip_39_word_new_line_6: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build'
+bip_39_word_new_line_7: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas'
+bip_39_word_new_line_8: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas
+
+  aunt'
+bip_39_word_new_line_9: 'tuna
+
+  empty
+
+  deliver
+
+  original
+
+  mean
+
+  build
+
+  canvas
+
+  aunt
+
+  idea'
+bip_39_word_no_space_1: tuna
+bip_39_word_no_space_10: tunaemptydeliveroriginalmeanbuildcanvasauntideaused
+bip_39_word_no_space_11: tunaemptydeliveroriginalmeanbuildcanvasauntideausedfuel
+bip_39_word_no_space_12: tunaemptydeliveroriginalmeanbuildcanvasauntideausedfuelaccuse
+bip_39_word_no_space_2: tunaempty
+bip_39_word_no_space_3: tunaemptydeliver
+bip_39_word_no_space_4: tunaemptydeliveroriginal
+bip_39_word_no_space_5: tunaemptydeliveroriginalmean
+bip_39_word_no_space_6: tunaemptydeliveroriginalmeanbuild
+bip_39_word_no_space_7: tunaemptydeliveroriginalmeanbuildcanvas
+bip_39_word_no_space_8: tunaemptydeliveroriginalmeanbuildcanvasaunt
+bip_39_word_no_space_9: tunaemptydeliveroriginalmeanbuildcanvasauntidea
+bip_39_word_space_0:
+- tuna
+- empty
+- deliver
+- original
+- mean
+- build
+- canvas
+- aunt
+- idea
+- used
+- fuel
+- accuse
+bip_39_word_space_1: tuna
+bip_39_word_space_10: tuna empty deliver original mean build canvas aunt idea used
+bip_39_word_space_11: tuna empty deliver original mean build canvas aunt idea used
+  fuel
+bip_39_word_space_12: tuna empty deliver original mean build canvas aunt idea used
+  fuel accuse
+bip_39_word_space_2: tuna empty
+bip_39_word_space_3: tuna empty deliver
+bip_39_word_space_4: tuna empty deliver original
+bip_39_word_space_5: tuna empty deliver original mean
+bip_39_word_space_6: tuna empty deliver original mean build
+bip_39_word_space_7: tuna empty deliver original mean build canvas
+bip_39_word_space_8: tuna empty deliver original mean build canvas aunt
+bip_39_word_space_9: tuna empty deliver original mean build canvas aunt idea
+bip_39_word_underscore_1: tuna
+bip_39_word_underscore_10: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used
+bip_39_word_underscore_11: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used_fuel
+bip_39_word_underscore_12: tuna_empty_deliver_original_mean_build_canvas_aunt_idea_used_fuel_accuse
+bip_39_word_underscore_2: tuna_empty
+bip_39_word_underscore_3: tuna_empty_deliver
+bip_39_word_underscore_4: tuna_empty_deliver_original
+bip_39_word_underscore_5: tuna_empty_deliver_original_mean
+bip_39_word_underscore_6: tuna_empty_deliver_original_mean_build
+bip_39_word_underscore_7: tuna_empty_deliver_original_mean_build_canvas
+bip_39_word_underscore_8: tuna_empty_deliver_original_mean_build_canvas_aunt
+bip_39_word_underscore_9: tuna_empty_deliver_original_mean_build_canvas_aunt_idea
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 050518nm16mmtapewidth2mmtapethickness2
 id_no_size: 05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2011jwb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2011jwb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2011jwb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050518Nm16mmtapewidth2mmtapethickness2
 name_no_size: 05 05 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 05 05 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 05 05 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: clap curry ok
 oomp_word_emoji: ':clap: :curry: :ok:'

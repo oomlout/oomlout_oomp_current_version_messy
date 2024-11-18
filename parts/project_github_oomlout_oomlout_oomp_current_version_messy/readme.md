@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Current Version Messy
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_current_version_messy
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :radio: :boat: :angry:
 * md5_6_alpha: 53ua1
 * md5_6: 82e109
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2053ua1)
+[2x1](http://192.168.1.242:1112/?label=oomp%2053ua1)
+[6x4](http://192.168.1.55:1112/?label=oomp%2053ua1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_messy) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_messy)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ father |
 | id_no_color | oomp_current_version_messy |  
 | id_no_size | oomp_current_version_messy |  
 | id_no_type | oomlout_oomlout_oomp_current_version_messy |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_messy |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_messy |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_current_version_messy |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2053ua1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2053ua1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2053ua1 |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_current_version_messy |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ father |
 | name_no_size | Oomp Current Version Messy |  
 | name_no_size_short | Oomp Current Version Messy |  
 | name_no_type | Oomlout Oomlout Oomp Current Version Messy |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_current_version_messy |  
 | oomp_word | radio boat angry |  
 | oomp_word_emoji | :radio: :boat: :angry: |  

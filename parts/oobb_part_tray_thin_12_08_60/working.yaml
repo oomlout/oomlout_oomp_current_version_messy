@@ -1,3 +1,223 @@
+bip_39_word_dash_1: little
+bip_39_word_dash_10: little-agent-alarm-antenna-mad-arrange-planet-tonight-shallow-next
+bip_39_word_dash_11: little-agent-alarm-antenna-mad-arrange-planet-tonight-shallow-next-inmate
+bip_39_word_dash_12: little-agent-alarm-antenna-mad-arrange-planet-tonight-shallow-next-inmate-age
+bip_39_word_dash_2: little-agent
+bip_39_word_dash_3: little-agent-alarm
+bip_39_word_dash_4: little-agent-alarm-antenna
+bip_39_word_dash_5: little-agent-alarm-antenna-mad
+bip_39_word_dash_6: little-agent-alarm-antenna-mad-arrange
+bip_39_word_dash_7: little-agent-alarm-antenna-mad-arrange-planet
+bip_39_word_dash_8: little-agent-alarm-antenna-mad-arrange-planet-tonight
+bip_39_word_dash_9: little-agent-alarm-antenna-mad-arrange-planet-tonight-shallow
+bip_39_word_new_br_1: little
+bip_39_word_new_br_10: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next
+bip_39_word_new_br_11: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next<br>inmate
+bip_39_word_new_br_12: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow<br>next<br>inmate<br>age
+bip_39_word_new_br_2: little<br>agent
+bip_39_word_new_br_3: little<br>agent<br>alarm
+bip_39_word_new_br_4: little<br>agent<br>alarm<br>antenna
+bip_39_word_new_br_5: little<br>agent<br>alarm<br>antenna<br>mad
+bip_39_word_new_br_6: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange
+bip_39_word_new_br_7: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet
+bip_39_word_new_br_8: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight
+bip_39_word_new_br_9: little<br>agent<br>alarm<br>antenna<br>mad<br>arrange<br>planet<br>tonight<br>shallow
+bip_39_word_new_line_1: little
+bip_39_word_new_line_10: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet
+
+  tonight
+
+  shallow
+
+  next'
+bip_39_word_new_line_11: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet
+
+  tonight
+
+  shallow
+
+  next
+
+  inmate'
+bip_39_word_new_line_12: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet
+
+  tonight
+
+  shallow
+
+  next
+
+  inmate
+
+  age'
+bip_39_word_new_line_2: 'little
+
+  agent'
+bip_39_word_new_line_3: 'little
+
+  agent
+
+  alarm'
+bip_39_word_new_line_4: 'little
+
+  agent
+
+  alarm
+
+  antenna'
+bip_39_word_new_line_5: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad'
+bip_39_word_new_line_6: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange'
+bip_39_word_new_line_7: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet'
+bip_39_word_new_line_8: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet
+
+  tonight'
+bip_39_word_new_line_9: 'little
+
+  agent
+
+  alarm
+
+  antenna
+
+  mad
+
+  arrange
+
+  planet
+
+  tonight
+
+  shallow'
+bip_39_word_no_space_1: little
+bip_39_word_no_space_10: littleagentalarmantennamadarrangeplanettonightshallownext
+bip_39_word_no_space_11: littleagentalarmantennamadarrangeplanettonightshallownextinmate
+bip_39_word_no_space_12: littleagentalarmantennamadarrangeplanettonightshallownextinmateage
+bip_39_word_no_space_2: littleagent
+bip_39_word_no_space_3: littleagentalarm
+bip_39_word_no_space_4: littleagentalarmantenna
+bip_39_word_no_space_5: littleagentalarmantennamad
+bip_39_word_no_space_6: littleagentalarmantennamadarrange
+bip_39_word_no_space_7: littleagentalarmantennamadarrangeplanet
+bip_39_word_no_space_8: littleagentalarmantennamadarrangeplanettonight
+bip_39_word_no_space_9: littleagentalarmantennamadarrangeplanettonightshallow
+bip_39_word_space_0:
+- little
+- agent
+- alarm
+- antenna
+- mad
+- arrange
+- planet
+- tonight
+- shallow
+- next
+- inmate
+- age
+bip_39_word_space_1: little
+bip_39_word_space_10: little agent alarm antenna mad arrange planet tonight shallow
+  next
+bip_39_word_space_11: little agent alarm antenna mad arrange planet tonight shallow
+  next inmate
+bip_39_word_space_12: little agent alarm antenna mad arrange planet tonight shallow
+  next inmate age
+bip_39_word_space_2: little agent
+bip_39_word_space_3: little agent alarm
+bip_39_word_space_4: little agent alarm antenna
+bip_39_word_space_5: little agent alarm antenna mad
+bip_39_word_space_6: little agent alarm antenna mad arrange
+bip_39_word_space_7: little agent alarm antenna mad arrange planet
+bip_39_word_space_8: little agent alarm antenna mad arrange planet tonight
+bip_39_word_space_9: little agent alarm antenna mad arrange planet tonight shallow
+bip_39_word_underscore_1: little
+bip_39_word_underscore_10: little_agent_alarm_antenna_mad_arrange_planet_tonight_shallow_next
+bip_39_word_underscore_11: little_agent_alarm_antenna_mad_arrange_planet_tonight_shallow_next_inmate
+bip_39_word_underscore_12: little_agent_alarm_antenna_mad_arrange_planet_tonight_shallow_next_inmate_age
+bip_39_word_underscore_2: little_agent
+bip_39_word_underscore_3: little_agent_alarm
+bip_39_word_underscore_4: little_agent_alarm_antenna
+bip_39_word_underscore_5: little_agent_alarm_antenna_mad
+bip_39_word_underscore_6: little_agent_alarm_antenna_mad_arrange
+bip_39_word_underscore_7: little_agent_alarm_antenna_mad_arrange_planet
+bip_39_word_underscore_8: little_agent_alarm_antenna_mad_arrange_planet_tonight
+bip_39_word_underscore_9: little_agent_alarm_antenna_mad_arrange_planet_tonight_shallow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_08_60
 id_no_color: '120860'
 id_no_size: '12_08_60'
 id_no_type: tray_thin_12_08_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_08_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030145
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030145
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030145
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '120860'
 name_no_size: 12 08 60
 name_no_size_short: 12 08 60
 name_no_type: Tray Thin 12 08 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_08_60
 oomp_word: turtle tram headphones
 oomp_word_emoji: ':turtle: :tram: :headphones:'

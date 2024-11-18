@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5203 Size 17 mm ID 40 mm OD 17 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5203_size_17_mm_id_40_mm_od_17_4_mm_depth
   * classification: hardware

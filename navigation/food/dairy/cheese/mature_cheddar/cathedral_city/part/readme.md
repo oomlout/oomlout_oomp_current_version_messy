@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Cathedral City Mature Cheddar Cheese
 
+### name
+* name: Food Dairy Cheese Mature Cheddar Cathedral City
+* name_short: 
 ### id
 * oomp_id: food_dairy_cheese_mature_cheddar_cathedral_city
   * classification: food
@@ -28,6 +31,29 @@ Cathedral City Mature Cheddar Cheese
 * oomp_word_emoji :chestnut: :thumbsdown: :wolf:
 * md5_6_alpha: 46fcn
 * md5_6: 6b1737
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2046fcn)
+[2x1](http://192.168.1.242:1112/?label=oomp%2046fcn)
+[6x4](http://192.168.1.55:1112/?label=oomp%2046fcn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,8 +308,15 @@ argue |
 | id_no_color | cheesematurecheddarcathedralcity |  
 | id_no_size | cheesematurecheddarcathedralcity |  
 | id_no_type | cheese_mature_cheddar_cathedral_city |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=31833011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2046fcn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2046fcn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2046fcn |  
 | manufacturer | cathedral_city |  
 | manufacturer_capital | Cathedral City |  
 | manufacturer_first_letter | c |  
@@ -332,6 +365,7 @@ argue |
 | name_no_size | Cheesematurecheddarcathedralcity |  
 | name_no_size_short | Cheesematurecheddarcathedralcity |  
 | name_no_type | Cheese Mature Cheddar Cathedral City |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_dairy_cheese_mature_cheddar_cathedral_city |  
 | oomp_word | chestnut thumbsdown wolf |  
 | oomp_word_emoji | :chestnut: :thumbsdown: :wolf: |  

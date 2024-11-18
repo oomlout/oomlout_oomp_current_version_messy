@@ -1,3 +1,222 @@
+bip_39_word_dash_1: twenty
+bip_39_word_dash_10: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren
+bip_39_word_dash_11: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren-please
+bip_39_word_dash_12: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity-siren-please-assume
+bip_39_word_dash_2: twenty-trim
+bip_39_word_dash_3: twenty-trim-turtle
+bip_39_word_dash_4: twenty-trim-turtle-spoon
+bip_39_word_dash_5: twenty-trim-turtle-spoon-stock
+bip_39_word_dash_6: twenty-trim-turtle-spoon-stock-evil
+bip_39_word_dash_7: twenty-trim-turtle-spoon-stock-evil-short
+bip_39_word_dash_8: twenty-trim-turtle-spoon-stock-evil-short-cry
+bip_39_word_dash_9: twenty-trim-turtle-spoon-stock-evil-short-cry-dignity
+bip_39_word_new_br_1: twenty
+bip_39_word_new_br_10: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren
+bip_39_word_new_br_11: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please
+bip_39_word_new_br_12: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity<br>siren<br>please<br>assume
+bip_39_word_new_br_2: twenty<br>trim
+bip_39_word_new_br_3: twenty<br>trim<br>turtle
+bip_39_word_new_br_4: twenty<br>trim<br>turtle<br>spoon
+bip_39_word_new_br_5: twenty<br>trim<br>turtle<br>spoon<br>stock
+bip_39_word_new_br_6: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil
+bip_39_word_new_br_7: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short
+bip_39_word_new_br_8: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry
+bip_39_word_new_br_9: twenty<br>trim<br>turtle<br>spoon<br>stock<br>evil<br>short<br>cry<br>dignity
+bip_39_word_new_line_1: twenty
+bip_39_word_new_line_10: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren'
+bip_39_word_new_line_11: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren
+
+  please'
+bip_39_word_new_line_12: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity
+
+  siren
+
+  please
+
+  assume'
+bip_39_word_new_line_2: 'twenty
+
+  trim'
+bip_39_word_new_line_3: 'twenty
+
+  trim
+
+  turtle'
+bip_39_word_new_line_4: 'twenty
+
+  trim
+
+  turtle
+
+  spoon'
+bip_39_word_new_line_5: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock'
+bip_39_word_new_line_6: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil'
+bip_39_word_new_line_7: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short'
+bip_39_word_new_line_8: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry'
+bip_39_word_new_line_9: 'twenty
+
+  trim
+
+  turtle
+
+  spoon
+
+  stock
+
+  evil
+
+  short
+
+  cry
+
+  dignity'
+bip_39_word_no_space_1: twenty
+bip_39_word_no_space_10: twentytrimturtlespoonstockevilshortcrydignitysiren
+bip_39_word_no_space_11: twentytrimturtlespoonstockevilshortcrydignitysirenplease
+bip_39_word_no_space_12: twentytrimturtlespoonstockevilshortcrydignitysirenpleaseassume
+bip_39_word_no_space_2: twentytrim
+bip_39_word_no_space_3: twentytrimturtle
+bip_39_word_no_space_4: twentytrimturtlespoon
+bip_39_word_no_space_5: twentytrimturtlespoonstock
+bip_39_word_no_space_6: twentytrimturtlespoonstockevil
+bip_39_word_no_space_7: twentytrimturtlespoonstockevilshort
+bip_39_word_no_space_8: twentytrimturtlespoonstockevilshortcry
+bip_39_word_no_space_9: twentytrimturtlespoonstockevilshortcrydignity
+bip_39_word_space_0:
+- twenty
+- trim
+- turtle
+- spoon
+- stock
+- evil
+- short
+- cry
+- dignity
+- siren
+- please
+- assume
+bip_39_word_space_1: twenty
+bip_39_word_space_10: twenty trim turtle spoon stock evil short cry dignity siren
+bip_39_word_space_11: twenty trim turtle spoon stock evil short cry dignity siren
+  please
+bip_39_word_space_12: twenty trim turtle spoon stock evil short cry dignity siren
+  please assume
+bip_39_word_space_2: twenty trim
+bip_39_word_space_3: twenty trim turtle
+bip_39_word_space_4: twenty trim turtle spoon
+bip_39_word_space_5: twenty trim turtle spoon stock
+bip_39_word_space_6: twenty trim turtle spoon stock evil
+bip_39_word_space_7: twenty trim turtle spoon stock evil short
+bip_39_word_space_8: twenty trim turtle spoon stock evil short cry
+bip_39_word_space_9: twenty trim turtle spoon stock evil short cry dignity
+bip_39_word_underscore_1: twenty
+bip_39_word_underscore_10: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren
+bip_39_word_underscore_11: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren_please
+bip_39_word_underscore_12: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity_siren_please_assume
+bip_39_word_underscore_2: twenty_trim
+bip_39_word_underscore_3: twenty_trim_turtle
+bip_39_word_underscore_4: twenty_trim_turtle_spoon
+bip_39_word_underscore_5: twenty_trim_turtle_spoon_stock
+bip_39_word_underscore_6: twenty_trim_turtle_spoon_stock_evil
+bip_39_word_underscore_7: twenty_trim_turtle_spoon_stock_evil_short
+bip_39_word_underscore_8: twenty_trim_turtle_spoon_stock_evil_short_cry
+bip_39_word_underscore_9: twenty_trim_turtle_spoon_stock_evil_short_cry_dignity
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -126,7 +345,14 @@ id_no_color: 12pinthroughhole
 id_no_size: 12_pin_through_hole
 id_no_type: 2_54_mm_12_pin_through_hole
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_12_pin_through_hole
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208pnua
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208pnua
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208pnua
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -154,6 +380,7 @@ name_no_color: 12Pinthroughhole
 name_no_size: 12 Pin Through Hole
 name_no_size_short: 12 Pin Through Hole
 name_no_type: 2 54 mm 12 Pin Through Hole
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_12_pin_through_hole
 oomp_word: fountain turtle one
 oomp_word_emoji: ':fountain: :turtle: :one:'

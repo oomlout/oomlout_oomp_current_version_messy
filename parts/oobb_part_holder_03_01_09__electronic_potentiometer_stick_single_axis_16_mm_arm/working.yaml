@@ -1,3 +1,221 @@
+bip_39_word_dash_1: area
+bip_39_word_dash_10: area-enlist-work-talk-move-wedding-birth-ship-such-approve
+bip_39_word_dash_11: area-enlist-work-talk-move-wedding-birth-ship-such-approve-session
+bip_39_word_dash_12: area-enlist-work-talk-move-wedding-birth-ship-such-approve-session-armed
+bip_39_word_dash_2: area-enlist
+bip_39_word_dash_3: area-enlist-work
+bip_39_word_dash_4: area-enlist-work-talk
+bip_39_word_dash_5: area-enlist-work-talk-move
+bip_39_word_dash_6: area-enlist-work-talk-move-wedding
+bip_39_word_dash_7: area-enlist-work-talk-move-wedding-birth
+bip_39_word_dash_8: area-enlist-work-talk-move-wedding-birth-ship
+bip_39_word_dash_9: area-enlist-work-talk-move-wedding-birth-ship-such
+bip_39_word_new_br_1: area
+bip_39_word_new_br_10: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth<br>ship<br>such<br>approve
+bip_39_word_new_br_11: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth<br>ship<br>such<br>approve<br>session
+bip_39_word_new_br_12: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth<br>ship<br>such<br>approve<br>session<br>armed
+bip_39_word_new_br_2: area<br>enlist
+bip_39_word_new_br_3: area<br>enlist<br>work
+bip_39_word_new_br_4: area<br>enlist<br>work<br>talk
+bip_39_word_new_br_5: area<br>enlist<br>work<br>talk<br>move
+bip_39_word_new_br_6: area<br>enlist<br>work<br>talk<br>move<br>wedding
+bip_39_word_new_br_7: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth
+bip_39_word_new_br_8: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth<br>ship
+bip_39_word_new_br_9: area<br>enlist<br>work<br>talk<br>move<br>wedding<br>birth<br>ship<br>such
+bip_39_word_new_line_1: area
+bip_39_word_new_line_10: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth
+
+  ship
+
+  such
+
+  approve'
+bip_39_word_new_line_11: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth
+
+  ship
+
+  such
+
+  approve
+
+  session'
+bip_39_word_new_line_12: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth
+
+  ship
+
+  such
+
+  approve
+
+  session
+
+  armed'
+bip_39_word_new_line_2: 'area
+
+  enlist'
+bip_39_word_new_line_3: 'area
+
+  enlist
+
+  work'
+bip_39_word_new_line_4: 'area
+
+  enlist
+
+  work
+
+  talk'
+bip_39_word_new_line_5: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move'
+bip_39_word_new_line_6: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding'
+bip_39_word_new_line_7: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth'
+bip_39_word_new_line_8: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth
+
+  ship'
+bip_39_word_new_line_9: 'area
+
+  enlist
+
+  work
+
+  talk
+
+  move
+
+  wedding
+
+  birth
+
+  ship
+
+  such'
+bip_39_word_no_space_1: area
+bip_39_word_no_space_10: areaenlistworktalkmoveweddingbirthshipsuchapprove
+bip_39_word_no_space_11: areaenlistworktalkmoveweddingbirthshipsuchapprovesession
+bip_39_word_no_space_12: areaenlistworktalkmoveweddingbirthshipsuchapprovesessionarmed
+bip_39_word_no_space_2: areaenlist
+bip_39_word_no_space_3: areaenlistwork
+bip_39_word_no_space_4: areaenlistworktalk
+bip_39_word_no_space_5: areaenlistworktalkmove
+bip_39_word_no_space_6: areaenlistworktalkmovewedding
+bip_39_word_no_space_7: areaenlistworktalkmoveweddingbirth
+bip_39_word_no_space_8: areaenlistworktalkmoveweddingbirthship
+bip_39_word_no_space_9: areaenlistworktalkmoveweddingbirthshipsuch
+bip_39_word_space_0:
+- area
+- enlist
+- work
+- talk
+- move
+- wedding
+- birth
+- ship
+- such
+- approve
+- session
+- armed
+bip_39_word_space_1: area
+bip_39_word_space_10: area enlist work talk move wedding birth ship such approve
+bip_39_word_space_11: area enlist work talk move wedding birth ship such approve session
+bip_39_word_space_12: area enlist work talk move wedding birth ship such approve session
+  armed
+bip_39_word_space_2: area enlist
+bip_39_word_space_3: area enlist work
+bip_39_word_space_4: area enlist work talk
+bip_39_word_space_5: area enlist work talk move
+bip_39_word_space_6: area enlist work talk move wedding
+bip_39_word_space_7: area enlist work talk move wedding birth
+bip_39_word_space_8: area enlist work talk move wedding birth ship
+bip_39_word_space_9: area enlist work talk move wedding birth ship such
+bip_39_word_underscore_1: area
+bip_39_word_underscore_10: area_enlist_work_talk_move_wedding_birth_ship_such_approve
+bip_39_word_underscore_11: area_enlist_work_talk_move_wedding_birth_ship_such_approve_session
+bip_39_word_underscore_12: area_enlist_work_talk_move_wedding_birth_ship_such_approve_session_armed
+bip_39_word_underscore_2: area_enlist
+bip_39_word_underscore_3: area_enlist_work
+bip_39_word_underscore_4: area_enlist_work_talk
+bip_39_word_underscore_5: area_enlist_work_talk_move
+bip_39_word_underscore_6: area_enlist_work_talk_move_wedding
+bip_39_word_underscore_7: area_enlist_work_talk_move_wedding_birth
+bip_39_word_underscore_8: area_enlist_work_talk_move_wedding_birth_ship
+bip_39_word_underscore_9: area_enlist_work_talk_move_wedding_birth_ship_such
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16
 id_no_color: 030109electronicpotentiometersticksingleaxis16mmarm
 id_no_size: 03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
 id_no_type: holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207e8aq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207e8aq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207e8aq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,7 @@ name_no_color: 030109Electronicpotentiometersticksingleaxis16mmarm
 name_no_size: 03 01 09  Electronic Potentiometer Stick Single Axis 16 mm Arm
 name_no_size_short: 03 01 09  Electronic Potentiometer Stick Single Axis 16 Mm Arm
 name_no_type: Holder 03 01 09  Electronic Potentiometer Stick Single Axis 16 mm Arm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm
 oomp_word: rice wrench radio
 oomp_word_emoji: ':rice: :wrench: :radio:'

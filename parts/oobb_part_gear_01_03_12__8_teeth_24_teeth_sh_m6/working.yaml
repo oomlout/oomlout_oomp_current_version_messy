@@ -1,3 +1,222 @@
+bip_39_word_dash_1: spread
+bip_39_word_dash_10: spread-rug-devote-orange-screen-else-orphan-sauce-rain-century
+bip_39_word_dash_11: spread-rug-devote-orange-screen-else-orphan-sauce-rain-century-fossil
+bip_39_word_dash_12: spread-rug-devote-orange-screen-else-orphan-sauce-rain-century-fossil-alien
+bip_39_word_dash_2: spread-rug
+bip_39_word_dash_3: spread-rug-devote
+bip_39_word_dash_4: spread-rug-devote-orange
+bip_39_word_dash_5: spread-rug-devote-orange-screen
+bip_39_word_dash_6: spread-rug-devote-orange-screen-else
+bip_39_word_dash_7: spread-rug-devote-orange-screen-else-orphan
+bip_39_word_dash_8: spread-rug-devote-orange-screen-else-orphan-sauce
+bip_39_word_dash_9: spread-rug-devote-orange-screen-else-orphan-sauce-rain
+bip_39_word_new_br_1: spread
+bip_39_word_new_br_10: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century
+bip_39_word_new_br_11: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil
+bip_39_word_new_br_12: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain<br>century<br>fossil<br>alien
+bip_39_word_new_br_2: spread<br>rug
+bip_39_word_new_br_3: spread<br>rug<br>devote
+bip_39_word_new_br_4: spread<br>rug<br>devote<br>orange
+bip_39_word_new_br_5: spread<br>rug<br>devote<br>orange<br>screen
+bip_39_word_new_br_6: spread<br>rug<br>devote<br>orange<br>screen<br>else
+bip_39_word_new_br_7: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan
+bip_39_word_new_br_8: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce
+bip_39_word_new_br_9: spread<br>rug<br>devote<br>orange<br>screen<br>else<br>orphan<br>sauce<br>rain
+bip_39_word_new_line_1: spread
+bip_39_word_new_line_10: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century'
+bip_39_word_new_line_11: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century
+
+  fossil'
+bip_39_word_new_line_12: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain
+
+  century
+
+  fossil
+
+  alien'
+bip_39_word_new_line_2: 'spread
+
+  rug'
+bip_39_word_new_line_3: 'spread
+
+  rug
+
+  devote'
+bip_39_word_new_line_4: 'spread
+
+  rug
+
+  devote
+
+  orange'
+bip_39_word_new_line_5: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen'
+bip_39_word_new_line_6: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else'
+bip_39_word_new_line_7: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan'
+bip_39_word_new_line_8: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce'
+bip_39_word_new_line_9: 'spread
+
+  rug
+
+  devote
+
+  orange
+
+  screen
+
+  else
+
+  orphan
+
+  sauce
+
+  rain'
+bip_39_word_no_space_1: spread
+bip_39_word_no_space_10: spreadrugdevoteorangescreenelseorphansauceraincentury
+bip_39_word_no_space_11: spreadrugdevoteorangescreenelseorphansauceraincenturyfossil
+bip_39_word_no_space_12: spreadrugdevoteorangescreenelseorphansauceraincenturyfossilalien
+bip_39_word_no_space_2: spreadrug
+bip_39_word_no_space_3: spreadrugdevote
+bip_39_word_no_space_4: spreadrugdevoteorange
+bip_39_word_no_space_5: spreadrugdevoteorangescreen
+bip_39_word_no_space_6: spreadrugdevoteorangescreenelse
+bip_39_word_no_space_7: spreadrugdevoteorangescreenelseorphan
+bip_39_word_no_space_8: spreadrugdevoteorangescreenelseorphansauce
+bip_39_word_no_space_9: spreadrugdevoteorangescreenelseorphansaucerain
+bip_39_word_space_0:
+- spread
+- rug
+- devote
+- orange
+- screen
+- else
+- orphan
+- sauce
+- rain
+- century
+- fossil
+- alien
+bip_39_word_space_1: spread
+bip_39_word_space_10: spread rug devote orange screen else orphan sauce rain century
+bip_39_word_space_11: spread rug devote orange screen else orphan sauce rain century
+  fossil
+bip_39_word_space_12: spread rug devote orange screen else orphan sauce rain century
+  fossil alien
+bip_39_word_space_2: spread rug
+bip_39_word_space_3: spread rug devote
+bip_39_word_space_4: spread rug devote orange
+bip_39_word_space_5: spread rug devote orange screen
+bip_39_word_space_6: spread rug devote orange screen else
+bip_39_word_space_7: spread rug devote orange screen else orphan
+bip_39_word_space_8: spread rug devote orange screen else orphan sauce
+bip_39_word_space_9: spread rug devote orange screen else orphan sauce rain
+bip_39_word_underscore_1: spread
+bip_39_word_underscore_10: spread_rug_devote_orange_screen_else_orphan_sauce_rain_century
+bip_39_word_underscore_11: spread_rug_devote_orange_screen_else_orphan_sauce_rain_century_fossil
+bip_39_word_underscore_12: spread_rug_devote_orange_screen_else_orphan_sauce_rain_century_fossil_alien
+bip_39_word_underscore_2: spread_rug
+bip_39_word_underscore_3: spread_rug_devote
+bip_39_word_underscore_4: spread_rug_devote_orange
+bip_39_word_underscore_5: spread_rug_devote_orange_screen
+bip_39_word_underscore_6: spread_rug_devote_orange_screen_else
+bip_39_word_underscore_7: spread_rug_devote_orange_screen_else_orphan
+bip_39_word_underscore_8: spread_rug_devote_orange_screen_else_orphan_sauce
+bip_39_word_underscore_9: spread_rug_devote_orange_screen_else_orphan_sauce_rain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_01_03_12__8_teeth_24_teeth_sh_m6
 id_no_color: 0103128teeth24teethshm6
 id_no_size: 01_03_12__8_teeth_24_teeth_sh_m6
 id_no_type: gear_01_03_12__8_teeth_24_teeth_sh_m6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203xh3d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203xh3d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203xh3d
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0103128Teeth24Teethshm6
 name_no_size: 01 03 12  8 Teeth 24 Teeth Sh M6
 name_no_size_short: 01 03 12  8 Teeth 24 Teeth Sh M6
 name_no_type: Gear 01 03 12  8 Teeth 24 Teeth Sh M6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_01_03_12__8_teeth_24_teeth_sh_m6
 oomp_word: sunflower pizza lemon
 oomp_word_emoji: ':sunflower: :pizza: :lemon:'

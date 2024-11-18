@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 05 05 18 Nm 16 mm Tape Width 8 mm Tape Thickness  8
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pushpin: :trophy: :doughnut:
 * md5_6_alpha: 5okap
 * md5_6: 91a1c1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205okap)
+[2x1](http://192.168.1.242:1112/?label=oomp%205okap)
+[6x4](http://192.168.1.55:1112/?label=oomp%205okap)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ absorb |
 | id_no_color | 050518nm16mmtapewidth8mmtapethickness8 |  
 | id_no_size | 05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
 | id_no_type | smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205okap |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205okap |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205okap |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ absorb |
 | name_no_size | 05 05 18 Nm 16 mm Tape Width 8 mm Tape Thickness  8 |  
 | name_no_size_short | 05 05 18 Nm 16 Mm Tape Width 8 Mm Tape Thickness  8 |  
 | name_no_type | SMD Magazine 05 05 18 Nm 16 mm Tape Width 8 mm Tape Thickness  8 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_8_mm_tape_thickness__8 |  
 | oomp_word | pushpin trophy doughnut |  
 | oomp_word_emoji | :pushpin: :trophy: :doughnut: |  

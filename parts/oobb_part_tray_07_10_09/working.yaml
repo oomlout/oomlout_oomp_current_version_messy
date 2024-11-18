@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stay
+bip_39_word_dash_10: stay-language-message-grape-fun-trophy-flush-rather-level-umbrella
+bip_39_word_dash_11: stay-language-message-grape-fun-trophy-flush-rather-level-umbrella-lobster
+bip_39_word_dash_12: stay-language-message-grape-fun-trophy-flush-rather-level-umbrella-lobster-autumn
+bip_39_word_dash_2: stay-language
+bip_39_word_dash_3: stay-language-message
+bip_39_word_dash_4: stay-language-message-grape
+bip_39_word_dash_5: stay-language-message-grape-fun
+bip_39_word_dash_6: stay-language-message-grape-fun-trophy
+bip_39_word_dash_7: stay-language-message-grape-fun-trophy-flush
+bip_39_word_dash_8: stay-language-message-grape-fun-trophy-flush-rather
+bip_39_word_dash_9: stay-language-message-grape-fun-trophy-flush-rather-level
+bip_39_word_new_br_1: stay
+bip_39_word_new_br_10: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella
+bip_39_word_new_br_11: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella<br>lobster
+bip_39_word_new_br_12: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level<br>umbrella<br>lobster<br>autumn
+bip_39_word_new_br_2: stay<br>language
+bip_39_word_new_br_3: stay<br>language<br>message
+bip_39_word_new_br_4: stay<br>language<br>message<br>grape
+bip_39_word_new_br_5: stay<br>language<br>message<br>grape<br>fun
+bip_39_word_new_br_6: stay<br>language<br>message<br>grape<br>fun<br>trophy
+bip_39_word_new_br_7: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush
+bip_39_word_new_br_8: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather
+bip_39_word_new_br_9: stay<br>language<br>message<br>grape<br>fun<br>trophy<br>flush<br>rather<br>level
+bip_39_word_new_line_1: stay
+bip_39_word_new_line_10: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush
+
+  rather
+
+  level
+
+  umbrella'
+bip_39_word_new_line_11: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush
+
+  rather
+
+  level
+
+  umbrella
+
+  lobster'
+bip_39_word_new_line_12: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush
+
+  rather
+
+  level
+
+  umbrella
+
+  lobster
+
+  autumn'
+bip_39_word_new_line_2: 'stay
+
+  language'
+bip_39_word_new_line_3: 'stay
+
+  language
+
+  message'
+bip_39_word_new_line_4: 'stay
+
+  language
+
+  message
+
+  grape'
+bip_39_word_new_line_5: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun'
+bip_39_word_new_line_6: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy'
+bip_39_word_new_line_7: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush'
+bip_39_word_new_line_8: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush
+
+  rather'
+bip_39_word_new_line_9: 'stay
+
+  language
+
+  message
+
+  grape
+
+  fun
+
+  trophy
+
+  flush
+
+  rather
+
+  level'
+bip_39_word_no_space_1: stay
+bip_39_word_no_space_10: staylanguagemessagegrapefuntrophyflushratherlevelumbrella
+bip_39_word_no_space_11: staylanguagemessagegrapefuntrophyflushratherlevelumbrellalobster
+bip_39_word_no_space_12: staylanguagemessagegrapefuntrophyflushratherlevelumbrellalobsterautumn
+bip_39_word_no_space_2: staylanguage
+bip_39_word_no_space_3: staylanguagemessage
+bip_39_word_no_space_4: staylanguagemessagegrape
+bip_39_word_no_space_5: staylanguagemessagegrapefun
+bip_39_word_no_space_6: staylanguagemessagegrapefuntrophy
+bip_39_word_no_space_7: staylanguagemessagegrapefuntrophyflush
+bip_39_word_no_space_8: staylanguagemessagegrapefuntrophyflushrather
+bip_39_word_no_space_9: staylanguagemessagegrapefuntrophyflushratherlevel
+bip_39_word_space_0:
+- stay
+- language
+- message
+- grape
+- fun
+- trophy
+- flush
+- rather
+- level
+- umbrella
+- lobster
+- autumn
+bip_39_word_space_1: stay
+bip_39_word_space_10: stay language message grape fun trophy flush rather level umbrella
+bip_39_word_space_11: stay language message grape fun trophy flush rather level umbrella
+  lobster
+bip_39_word_space_12: stay language message grape fun trophy flush rather level umbrella
+  lobster autumn
+bip_39_word_space_2: stay language
+bip_39_word_space_3: stay language message
+bip_39_word_space_4: stay language message grape
+bip_39_word_space_5: stay language message grape fun
+bip_39_word_space_6: stay language message grape fun trophy
+bip_39_word_space_7: stay language message grape fun trophy flush
+bip_39_word_space_8: stay language message grape fun trophy flush rather
+bip_39_word_space_9: stay language message grape fun trophy flush rather level
+bip_39_word_underscore_1: stay
+bip_39_word_underscore_10: stay_language_message_grape_fun_trophy_flush_rather_level_umbrella
+bip_39_word_underscore_11: stay_language_message_grape_fun_trophy_flush_rather_level_umbrella_lobster
+bip_39_word_underscore_12: stay_language_message_grape_fun_trophy_flush_rather_level_umbrella_lobster_autumn
+bip_39_word_underscore_2: stay_language
+bip_39_word_underscore_3: stay_language_message
+bip_39_word_underscore_4: stay_language_message_grape
+bip_39_word_underscore_5: stay_language_message_grape_fun
+bip_39_word_underscore_6: stay_language_message_grape_fun_trophy
+bip_39_word_underscore_7: stay_language_message_grape_fun_trophy_flush
+bip_39_word_underscore_8: stay_language_message_grape_fun_trophy_flush_rather
+bip_39_word_underscore_9: stay_language_message_grape_fun_trophy_flush_rather_level
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_10_09
 id_no_color: 071009
 id_no_size: 07_10_09
 id_no_type: tray_07_10_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_10_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_10_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209sltn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209sltn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209sltn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 071009
 name_no_size: 07 10 09
 name_no_size_short: 07 10 09
 name_no_type: Tray 07 10 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_10_09
 oomp_word: ok sleeping computer
 oomp_word_emoji: ':ok: :sleeping: :computer:'

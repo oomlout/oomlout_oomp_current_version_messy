@@ -1,3 +1,221 @@
+bip_39_word_dash_1: spirit
+bip_39_word_dash_10: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread
+bip_39_word_dash_11: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread-electric
+bip_39_word_dash_12: spirit-uncover-fury-pupil-law-absent-fall-real-kite-bread-electric-anchor
+bip_39_word_dash_2: spirit-uncover
+bip_39_word_dash_3: spirit-uncover-fury
+bip_39_word_dash_4: spirit-uncover-fury-pupil
+bip_39_word_dash_5: spirit-uncover-fury-pupil-law
+bip_39_word_dash_6: spirit-uncover-fury-pupil-law-absent
+bip_39_word_dash_7: spirit-uncover-fury-pupil-law-absent-fall
+bip_39_word_dash_8: spirit-uncover-fury-pupil-law-absent-fall-real
+bip_39_word_dash_9: spirit-uncover-fury-pupil-law-absent-fall-real-kite
+bip_39_word_new_br_1: spirit
+bip_39_word_new_br_10: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread
+bip_39_word_new_br_11: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric
+bip_39_word_new_br_12: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite<br>bread<br>electric<br>anchor
+bip_39_word_new_br_2: spirit<br>uncover
+bip_39_word_new_br_3: spirit<br>uncover<br>fury
+bip_39_word_new_br_4: spirit<br>uncover<br>fury<br>pupil
+bip_39_word_new_br_5: spirit<br>uncover<br>fury<br>pupil<br>law
+bip_39_word_new_br_6: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent
+bip_39_word_new_br_7: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall
+bip_39_word_new_br_8: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real
+bip_39_word_new_br_9: spirit<br>uncover<br>fury<br>pupil<br>law<br>absent<br>fall<br>real<br>kite
+bip_39_word_new_line_1: spirit
+bip_39_word_new_line_10: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread'
+bip_39_word_new_line_11: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread
+
+  electric'
+bip_39_word_new_line_12: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite
+
+  bread
+
+  electric
+
+  anchor'
+bip_39_word_new_line_2: 'spirit
+
+  uncover'
+bip_39_word_new_line_3: 'spirit
+
+  uncover
+
+  fury'
+bip_39_word_new_line_4: 'spirit
+
+  uncover
+
+  fury
+
+  pupil'
+bip_39_word_new_line_5: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law'
+bip_39_word_new_line_6: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent'
+bip_39_word_new_line_7: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall'
+bip_39_word_new_line_8: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real'
+bip_39_word_new_line_9: 'spirit
+
+  uncover
+
+  fury
+
+  pupil
+
+  law
+
+  absent
+
+  fall
+
+  real
+
+  kite'
+bip_39_word_no_space_1: spirit
+bip_39_word_no_space_10: spirituncoverfurypupillawabsentfallrealkitebread
+bip_39_word_no_space_11: spirituncoverfurypupillawabsentfallrealkitebreadelectric
+bip_39_word_no_space_12: spirituncoverfurypupillawabsentfallrealkitebreadelectricanchor
+bip_39_word_no_space_2: spirituncover
+bip_39_word_no_space_3: spirituncoverfury
+bip_39_word_no_space_4: spirituncoverfurypupil
+bip_39_word_no_space_5: spirituncoverfurypupillaw
+bip_39_word_no_space_6: spirituncoverfurypupillawabsent
+bip_39_word_no_space_7: spirituncoverfurypupillawabsentfall
+bip_39_word_no_space_8: spirituncoverfurypupillawabsentfallreal
+bip_39_word_no_space_9: spirituncoverfurypupillawabsentfallrealkite
+bip_39_word_space_0:
+- spirit
+- uncover
+- fury
+- pupil
+- law
+- absent
+- fall
+- real
+- kite
+- bread
+- electric
+- anchor
+bip_39_word_space_1: spirit
+bip_39_word_space_10: spirit uncover fury pupil law absent fall real kite bread
+bip_39_word_space_11: spirit uncover fury pupil law absent fall real kite bread electric
+bip_39_word_space_12: spirit uncover fury pupil law absent fall real kite bread electric
+  anchor
+bip_39_word_space_2: spirit uncover
+bip_39_word_space_3: spirit uncover fury
+bip_39_word_space_4: spirit uncover fury pupil
+bip_39_word_space_5: spirit uncover fury pupil law
+bip_39_word_space_6: spirit uncover fury pupil law absent
+bip_39_word_space_7: spirit uncover fury pupil law absent fall
+bip_39_word_space_8: spirit uncover fury pupil law absent fall real
+bip_39_word_space_9: spirit uncover fury pupil law absent fall real kite
+bip_39_word_underscore_1: spirit
+bip_39_word_underscore_10: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread
+bip_39_word_underscore_11: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread_electric
+bip_39_word_underscore_12: spirit_uncover_fury_pupil_law_absent_fall_real_kite_bread_electric_anchor
+bip_39_word_underscore_2: spirit_uncover
+bip_39_word_underscore_3: spirit_uncover_fury
+bip_39_word_underscore_4: spirit_uncover_fury_pupil
+bip_39_word_underscore_5: spirit_uncover_fury_pupil_law
+bip_39_word_underscore_6: spirit_uncover_fury_pupil_law_absent
+bip_39_word_underscore_7: spirit_uncover_fury_pupil_law_absent_fall
+bip_39_word_underscore_8: spirit_uncover_fury_pupil_law_absent_fall_real
+bip_39_word_underscore_9: spirit_uncover_fury_pupil_law_absent_fall_real_kite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_gear_07_03__56_teeth_sh_motor_tt_01
 id_no_color: 070356teethshmotortt01
 id_no_size: 07_03__56_teeth_sh_motor_tt_01
 id_no_type: gear_07_03__56_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20590au
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20590au
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20590au
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 070356Teethshmotortt01
 name_no_size: 07 03  56 Teeth Sh Motor Tt 01
 name_no_size_short: 07 03  56 Teeth Sh Motor Tt 01
 name_no_type: Gear 07 03  56 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_03__56_teeth_sh_motor_tt_01
 oomp_word: bath clipboard lollipop
 oomp_word_emoji: ':bath: :clipboard: :lollipop:'

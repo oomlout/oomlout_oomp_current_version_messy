@@ -1,3 +1,222 @@
+bip_39_word_dash_1: armor
+bip_39_word_dash_10: armor-release-wish-job-always-notable-round-source-vast-velvet
+bip_39_word_dash_11: armor-release-wish-job-always-notable-round-source-vast-velvet-random
+bip_39_word_dash_12: armor-release-wish-job-always-notable-round-source-vast-velvet-random-alter
+bip_39_word_dash_2: armor-release
+bip_39_word_dash_3: armor-release-wish
+bip_39_word_dash_4: armor-release-wish-job
+bip_39_word_dash_5: armor-release-wish-job-always
+bip_39_word_dash_6: armor-release-wish-job-always-notable
+bip_39_word_dash_7: armor-release-wish-job-always-notable-round
+bip_39_word_dash_8: armor-release-wish-job-always-notable-round-source
+bip_39_word_dash_9: armor-release-wish-job-always-notable-round-source-vast
+bip_39_word_new_br_1: armor
+bip_39_word_new_br_10: armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet
+bip_39_word_new_br_11: armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet<br>random
+bip_39_word_new_br_12: armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast<br>velvet<br>random<br>alter
+bip_39_word_new_br_2: armor<br>release
+bip_39_word_new_br_3: armor<br>release<br>wish
+bip_39_word_new_br_4: armor<br>release<br>wish<br>job
+bip_39_word_new_br_5: armor<br>release<br>wish<br>job<br>always
+bip_39_word_new_br_6: armor<br>release<br>wish<br>job<br>always<br>notable
+bip_39_word_new_br_7: armor<br>release<br>wish<br>job<br>always<br>notable<br>round
+bip_39_word_new_br_8: armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source
+bip_39_word_new_br_9: armor<br>release<br>wish<br>job<br>always<br>notable<br>round<br>source<br>vast
+bip_39_word_new_line_1: armor
+bip_39_word_new_line_10: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round
+
+  source
+
+  vast
+
+  velvet'
+bip_39_word_new_line_11: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round
+
+  source
+
+  vast
+
+  velvet
+
+  random'
+bip_39_word_new_line_12: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round
+
+  source
+
+  vast
+
+  velvet
+
+  random
+
+  alter'
+bip_39_word_new_line_2: 'armor
+
+  release'
+bip_39_word_new_line_3: 'armor
+
+  release
+
+  wish'
+bip_39_word_new_line_4: 'armor
+
+  release
+
+  wish
+
+  job'
+bip_39_word_new_line_5: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always'
+bip_39_word_new_line_6: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable'
+bip_39_word_new_line_7: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round'
+bip_39_word_new_line_8: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round
+
+  source'
+bip_39_word_new_line_9: 'armor
+
+  release
+
+  wish
+
+  job
+
+  always
+
+  notable
+
+  round
+
+  source
+
+  vast'
+bip_39_word_no_space_1: armor
+bip_39_word_no_space_10: armorreleasewishjobalwaysnotableroundsourcevastvelvet
+bip_39_word_no_space_11: armorreleasewishjobalwaysnotableroundsourcevastvelvetrandom
+bip_39_word_no_space_12: armorreleasewishjobalwaysnotableroundsourcevastvelvetrandomalter
+bip_39_word_no_space_2: armorrelease
+bip_39_word_no_space_3: armorreleasewish
+bip_39_word_no_space_4: armorreleasewishjob
+bip_39_word_no_space_5: armorreleasewishjobalways
+bip_39_word_no_space_6: armorreleasewishjobalwaysnotable
+bip_39_word_no_space_7: armorreleasewishjobalwaysnotableround
+bip_39_word_no_space_8: armorreleasewishjobalwaysnotableroundsource
+bip_39_word_no_space_9: armorreleasewishjobalwaysnotableroundsourcevast
+bip_39_word_space_0:
+- armor
+- release
+- wish
+- job
+- always
+- notable
+- round
+- source
+- vast
+- velvet
+- random
+- alter
+bip_39_word_space_1: armor
+bip_39_word_space_10: armor release wish job always notable round source vast velvet
+bip_39_word_space_11: armor release wish job always notable round source vast velvet
+  random
+bip_39_word_space_12: armor release wish job always notable round source vast velvet
+  random alter
+bip_39_word_space_2: armor release
+bip_39_word_space_3: armor release wish
+bip_39_word_space_4: armor release wish job
+bip_39_word_space_5: armor release wish job always
+bip_39_word_space_6: armor release wish job always notable
+bip_39_word_space_7: armor release wish job always notable round
+bip_39_word_space_8: armor release wish job always notable round source
+bip_39_word_space_9: armor release wish job always notable round source vast
+bip_39_word_underscore_1: armor
+bip_39_word_underscore_10: armor_release_wish_job_always_notable_round_source_vast_velvet
+bip_39_word_underscore_11: armor_release_wish_job_always_notable_round_source_vast_velvet_random
+bip_39_word_underscore_12: armor_release_wish_job_always_notable_round_source_vast_velvet_random_alter
+bip_39_word_underscore_2: armor_release
+bip_39_word_underscore_3: armor_release_wish
+bip_39_word_underscore_4: armor_release_wish_job
+bip_39_word_underscore_5: armor_release_wish_job_always
+bip_39_word_underscore_6: armor_release_wish_job_always_notable
+bip_39_word_underscore_7: armor_release_wish_job_always_notable_round
+bip_39_word_underscore_8: armor_release_wish_job_always_notable_round_source
+bip_39_word_underscore_9: armor_release_wish_job_always_notable_round_source_vast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_01_01_84
 id_no_color: 010184
 id_no_size: 01_01_84
 id_no_type: plate_01_01_84
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_84
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_84
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_84
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204np8c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204np8c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204np8c
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 010184
 name_no_size: 01 01 84
 name_no_size_short: 01 01 84
 name_no_type: Plate 01 01 84
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_84
 oomp_word: gift rose tv
 oomp_word_emoji: ':gift: :rose: :tv:'

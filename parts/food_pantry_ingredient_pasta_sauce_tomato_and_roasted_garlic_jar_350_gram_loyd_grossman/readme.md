@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Pantry Ingredient Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman
+* name_short: Pasta Sauce Tomato and Roasted Garlic
 ### id
 * oomp_id: food_pantry_ingredient_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
   * classification: food

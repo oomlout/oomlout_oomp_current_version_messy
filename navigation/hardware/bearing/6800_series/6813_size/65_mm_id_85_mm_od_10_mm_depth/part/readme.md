@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6800 Series 6813 Size 65 mm ID 85 mm OD 10 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :herb: :books: :curry:
 * md5_6_alpha: 41hob
 * md5_6: 6793bb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2041hob)
+[2x1](http://192.168.1.242:1112/?label=oomp%2041hob)
+[6x4](http://192.168.1.55:1112/?label=oomp%2041hob)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ drift |
 | id_no_color | 65_mm_id_85_mm_od_10_mm_depth |  
 | id_no_size | 6813_size_65_mm_id_85_mm_od_10_mm_depth |  
 | id_no_type | 6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2041hob |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2041hob |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2041hob |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ drift |
 | name_no_size | 6813 Size 65 mm ID 85 mm OD 10 mm Depth |  
 | name_no_size_short | 6813 Size 65 Mm Id 85 Mm Od 10 Mm Depth |  
 | name_no_type | 6800 Series 6813 Size 65 mm ID 85 mm OD 10 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6813 |  
 | oomlout_short_code_upper | BR6813 |  
 | oomp_key | oomp_hardware_bearing_6800_series_6813_size_65_mm_id_85_mm_od_10_mm_depth |  

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: system
+bip_39_word_dash_10: system-void-rent-coral-name-load-fatigue-spot-powder-flock
+bip_39_word_dash_11: system-void-rent-coral-name-load-fatigue-spot-powder-flock-unit
+bip_39_word_dash_12: system-void-rent-coral-name-load-fatigue-spot-powder-flock-unit-athlete
+bip_39_word_dash_2: system-void
+bip_39_word_dash_3: system-void-rent
+bip_39_word_dash_4: system-void-rent-coral
+bip_39_word_dash_5: system-void-rent-coral-name
+bip_39_word_dash_6: system-void-rent-coral-name-load
+bip_39_word_dash_7: system-void-rent-coral-name-load-fatigue
+bip_39_word_dash_8: system-void-rent-coral-name-load-fatigue-spot
+bip_39_word_dash_9: system-void-rent-coral-name-load-fatigue-spot-powder
+bip_39_word_new_br_1: system
+bip_39_word_new_br_10: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock
+bip_39_word_new_br_11: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit
+bip_39_word_new_br_12: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder<br>flock<br>unit<br>athlete
+bip_39_word_new_br_2: system<br>void
+bip_39_word_new_br_3: system<br>void<br>rent
+bip_39_word_new_br_4: system<br>void<br>rent<br>coral
+bip_39_word_new_br_5: system<br>void<br>rent<br>coral<br>name
+bip_39_word_new_br_6: system<br>void<br>rent<br>coral<br>name<br>load
+bip_39_word_new_br_7: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue
+bip_39_word_new_br_8: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot
+bip_39_word_new_br_9: system<br>void<br>rent<br>coral<br>name<br>load<br>fatigue<br>spot<br>powder
+bip_39_word_new_line_1: system
+bip_39_word_new_line_10: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue
+
+  spot
+
+  powder
+
+  flock'
+bip_39_word_new_line_11: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue
+
+  spot
+
+  powder
+
+  flock
+
+  unit'
+bip_39_word_new_line_12: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue
+
+  spot
+
+  powder
+
+  flock
+
+  unit
+
+  athlete'
+bip_39_word_new_line_2: 'system
+
+  void'
+bip_39_word_new_line_3: 'system
+
+  void
+
+  rent'
+bip_39_word_new_line_4: 'system
+
+  void
+
+  rent
+
+  coral'
+bip_39_word_new_line_5: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name'
+bip_39_word_new_line_6: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load'
+bip_39_word_new_line_7: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue'
+bip_39_word_new_line_8: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue
+
+  spot'
+bip_39_word_new_line_9: 'system
+
+  void
+
+  rent
+
+  coral
+
+  name
+
+  load
+
+  fatigue
+
+  spot
+
+  powder'
+bip_39_word_no_space_1: system
+bip_39_word_no_space_10: systemvoidrentcoralnameloadfatiguespotpowderflock
+bip_39_word_no_space_11: systemvoidrentcoralnameloadfatiguespotpowderflockunit
+bip_39_word_no_space_12: systemvoidrentcoralnameloadfatiguespotpowderflockunitathlete
+bip_39_word_no_space_2: systemvoid
+bip_39_word_no_space_3: systemvoidrent
+bip_39_word_no_space_4: systemvoidrentcoral
+bip_39_word_no_space_5: systemvoidrentcoralname
+bip_39_word_no_space_6: systemvoidrentcoralnameload
+bip_39_word_no_space_7: systemvoidrentcoralnameloadfatigue
+bip_39_word_no_space_8: systemvoidrentcoralnameloadfatiguespot
+bip_39_word_no_space_9: systemvoidrentcoralnameloadfatiguespotpowder
+bip_39_word_space_0:
+- system
+- void
+- rent
+- coral
+- name
+- load
+- fatigue
+- spot
+- powder
+- flock
+- unit
+- athlete
+bip_39_word_space_1: system
+bip_39_word_space_10: system void rent coral name load fatigue spot powder flock
+bip_39_word_space_11: system void rent coral name load fatigue spot powder flock unit
+bip_39_word_space_12: system void rent coral name load fatigue spot powder flock unit
+  athlete
+bip_39_word_space_2: system void
+bip_39_word_space_3: system void rent
+bip_39_word_space_4: system void rent coral
+bip_39_word_space_5: system void rent coral name
+bip_39_word_space_6: system void rent coral name load
+bip_39_word_space_7: system void rent coral name load fatigue
+bip_39_word_space_8: system void rent coral name load fatigue spot
+bip_39_word_space_9: system void rent coral name load fatigue spot powder
+bip_39_word_underscore_1: system
+bip_39_word_underscore_10: system_void_rent_coral_name_load_fatigue_spot_powder_flock
+bip_39_word_underscore_11: system_void_rent_coral_name_load_fatigue_spot_powder_flock_unit
+bip_39_word_underscore_12: system_void_rent_coral_name_load_fatigue_spot_powder_flock_unit_athlete
+bip_39_word_underscore_2: system_void
+bip_39_word_underscore_3: system_void_rent
+bip_39_word_underscore_4: system_void_rent_coral
+bip_39_word_underscore_5: system_void_rent_coral_name
+bip_39_word_underscore_6: system_void_rent_coral_name_load
+bip_39_word_underscore_7: system_void_rent_coral_name_load_fatigue
+bip_39_word_underscore_8: system_void_rent_coral_name_load_fatigue_spot
+bip_39_word_underscore_9: system_void_rent_coral_name_load_fatigue_spot_powder
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +326,14 @@ id_no_class: bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
 id_no_color: 17_mm_id_35_mm_od_8_mm_depth
 id_no_size: 16003_size_17_mm_id_35_mm_od_8_mm_depth
 id_no_type: 16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208w28m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208w28m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208w28m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,9 @@ name_no_color: 17 mm ID 35 mm OD 8 mm Depth
 name_no_size: 16003 Size 17 mm ID 35 mm OD 8 mm Depth
 name_no_size_short: 16003 Size 17 Mm Id 35 Mm Od 8 Mm Depth
 name_no_type: 16000 Series 16003 Size 17 mm ID 35 mm OD 8 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br16003
+oomlout_short_code_upper: BR16003
 oomp_key: oomp_hardware_bearing_16000_series_16003_size_17_mm_id_35_mm_od_8_mm_depth
 oomp_word: rowboat tent ram
 oomp_word_emoji: ':rowboat: :tent: :ram:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: average
+bip_39_word_dash_10: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon
+bip_39_word_dash_11: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon-mirror
+bip_39_word_dash_12: average-panic-cup-bullet-fossil-sock-dice-ability-muffin-pigeon-mirror-abuse
+bip_39_word_dash_2: average-panic
+bip_39_word_dash_3: average-panic-cup
+bip_39_word_dash_4: average-panic-cup-bullet
+bip_39_word_dash_5: average-panic-cup-bullet-fossil
+bip_39_word_dash_6: average-panic-cup-bullet-fossil-sock
+bip_39_word_dash_7: average-panic-cup-bullet-fossil-sock-dice
+bip_39_word_dash_8: average-panic-cup-bullet-fossil-sock-dice-ability
+bip_39_word_dash_9: average-panic-cup-bullet-fossil-sock-dice-ability-muffin
+bip_39_word_new_br_1: average
+bip_39_word_new_br_10: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon
+bip_39_word_new_br_11: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror
+bip_39_word_new_br_12: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin<br>pigeon<br>mirror<br>abuse
+bip_39_word_new_br_2: average<br>panic
+bip_39_word_new_br_3: average<br>panic<br>cup
+bip_39_word_new_br_4: average<br>panic<br>cup<br>bullet
+bip_39_word_new_br_5: average<br>panic<br>cup<br>bullet<br>fossil
+bip_39_word_new_br_6: average<br>panic<br>cup<br>bullet<br>fossil<br>sock
+bip_39_word_new_br_7: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice
+bip_39_word_new_br_8: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability
+bip_39_word_new_br_9: average<br>panic<br>cup<br>bullet<br>fossil<br>sock<br>dice<br>ability<br>muffin
+bip_39_word_new_line_1: average
+bip_39_word_new_line_10: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon'
+bip_39_word_new_line_11: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon
+
+  mirror'
+bip_39_word_new_line_12: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin
+
+  pigeon
+
+  mirror
+
+  abuse'
+bip_39_word_new_line_2: 'average
+
+  panic'
+bip_39_word_new_line_3: 'average
+
+  panic
+
+  cup'
+bip_39_word_new_line_4: 'average
+
+  panic
+
+  cup
+
+  bullet'
+bip_39_word_new_line_5: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil'
+bip_39_word_new_line_6: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock'
+bip_39_word_new_line_7: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice'
+bip_39_word_new_line_8: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability'
+bip_39_word_new_line_9: 'average
+
+  panic
+
+  cup
+
+  bullet
+
+  fossil
+
+  sock
+
+  dice
+
+  ability
+
+  muffin'
+bip_39_word_no_space_1: average
+bip_39_word_no_space_10: averagepaniccupbulletfossilsockdiceabilitymuffinpigeon
+bip_39_word_no_space_11: averagepaniccupbulletfossilsockdiceabilitymuffinpigeonmirror
+bip_39_word_no_space_12: averagepaniccupbulletfossilsockdiceabilitymuffinpigeonmirrorabuse
+bip_39_word_no_space_2: averagepanic
+bip_39_word_no_space_3: averagepaniccup
+bip_39_word_no_space_4: averagepaniccupbullet
+bip_39_word_no_space_5: averagepaniccupbulletfossil
+bip_39_word_no_space_6: averagepaniccupbulletfossilsock
+bip_39_word_no_space_7: averagepaniccupbulletfossilsockdice
+bip_39_word_no_space_8: averagepaniccupbulletfossilsockdiceability
+bip_39_word_no_space_9: averagepaniccupbulletfossilsockdiceabilitymuffin
+bip_39_word_space_0:
+- average
+- panic
+- cup
+- bullet
+- fossil
+- sock
+- dice
+- ability
+- muffin
+- pigeon
+- mirror
+- abuse
+bip_39_word_space_1: average
+bip_39_word_space_10: average panic cup bullet fossil sock dice ability muffin pigeon
+bip_39_word_space_11: average panic cup bullet fossil sock dice ability muffin pigeon
+  mirror
+bip_39_word_space_12: average panic cup bullet fossil sock dice ability muffin pigeon
+  mirror abuse
+bip_39_word_space_2: average panic
+bip_39_word_space_3: average panic cup
+bip_39_word_space_4: average panic cup bullet
+bip_39_word_space_5: average panic cup bullet fossil
+bip_39_word_space_6: average panic cup bullet fossil sock
+bip_39_word_space_7: average panic cup bullet fossil sock dice
+bip_39_word_space_8: average panic cup bullet fossil sock dice ability
+bip_39_word_space_9: average panic cup bullet fossil sock dice ability muffin
+bip_39_word_underscore_1: average
+bip_39_word_underscore_10: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon
+bip_39_word_underscore_11: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon_mirror
+bip_39_word_underscore_12: average_panic_cup_bullet_fossil_sock_dice_ability_muffin_pigeon_mirror_abuse
+bip_39_word_underscore_2: average_panic
+bip_39_word_underscore_3: average_panic_cup
+bip_39_word_underscore_4: average_panic_cup_bullet
+bip_39_word_underscore_5: average_panic_cup_bullet_fossil
+bip_39_word_underscore_6: average_panic_cup_bullet_fossil_sock
+bip_39_word_underscore_7: average_panic_cup_bullet_fossil_sock_dice
+bip_39_word_underscore_8: average_panic_cup_bullet_fossil_sock_dice_ability
+bip_39_word_underscore_9: average_panic_cup_bullet_fossil_sock_dice_ability_muffin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_06_01_24
 id_no_color: '060124'
 id_no_size: '06_01_24'
 id_no_type: tray_thin_06_01_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_01_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_01_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_01_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qu5l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qu5l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qu5l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060124'
 name_no_size: 06 01 24
 name_no_size_short: 06 01 24
 name_no_type: Tray Thin 06 01 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_01_24
 oomp_word: question muscle sunny
 oomp_word_emoji: ':question: :muscle: :sunny:'

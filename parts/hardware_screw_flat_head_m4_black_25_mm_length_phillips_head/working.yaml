@@ -1,3 +1,222 @@
+bip_39_word_dash_1: awesome
+bip_39_word_dash_10: awesome-recipe-firm-office-churn-aisle-boost-monkey-vanish-paddle
+bip_39_word_dash_11: awesome-recipe-firm-office-churn-aisle-boost-monkey-vanish-paddle-disorder
+bip_39_word_dash_12: awesome-recipe-firm-office-churn-aisle-boost-monkey-vanish-paddle-disorder-add
+bip_39_word_dash_2: awesome-recipe
+bip_39_word_dash_3: awesome-recipe-firm
+bip_39_word_dash_4: awesome-recipe-firm-office
+bip_39_word_dash_5: awesome-recipe-firm-office-churn
+bip_39_word_dash_6: awesome-recipe-firm-office-churn-aisle
+bip_39_word_dash_7: awesome-recipe-firm-office-churn-aisle-boost
+bip_39_word_dash_8: awesome-recipe-firm-office-churn-aisle-boost-monkey
+bip_39_word_dash_9: awesome-recipe-firm-office-churn-aisle-boost-monkey-vanish
+bip_39_word_new_br_1: awesome
+bip_39_word_new_br_10: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost<br>monkey<br>vanish<br>paddle
+bip_39_word_new_br_11: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost<br>monkey<br>vanish<br>paddle<br>disorder
+bip_39_word_new_br_12: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost<br>monkey<br>vanish<br>paddle<br>disorder<br>add
+bip_39_word_new_br_2: awesome<br>recipe
+bip_39_word_new_br_3: awesome<br>recipe<br>firm
+bip_39_word_new_br_4: awesome<br>recipe<br>firm<br>office
+bip_39_word_new_br_5: awesome<br>recipe<br>firm<br>office<br>churn
+bip_39_word_new_br_6: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle
+bip_39_word_new_br_7: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost
+bip_39_word_new_br_8: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost<br>monkey
+bip_39_word_new_br_9: awesome<br>recipe<br>firm<br>office<br>churn<br>aisle<br>boost<br>monkey<br>vanish
+bip_39_word_new_line_1: awesome
+bip_39_word_new_line_10: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost
+
+  monkey
+
+  vanish
+
+  paddle'
+bip_39_word_new_line_11: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost
+
+  monkey
+
+  vanish
+
+  paddle
+
+  disorder'
+bip_39_word_new_line_12: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost
+
+  monkey
+
+  vanish
+
+  paddle
+
+  disorder
+
+  add'
+bip_39_word_new_line_2: 'awesome
+
+  recipe'
+bip_39_word_new_line_3: 'awesome
+
+  recipe
+
+  firm'
+bip_39_word_new_line_4: 'awesome
+
+  recipe
+
+  firm
+
+  office'
+bip_39_word_new_line_5: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn'
+bip_39_word_new_line_6: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle'
+bip_39_word_new_line_7: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost'
+bip_39_word_new_line_8: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost
+
+  monkey'
+bip_39_word_new_line_9: 'awesome
+
+  recipe
+
+  firm
+
+  office
+
+  churn
+
+  aisle
+
+  boost
+
+  monkey
+
+  vanish'
+bip_39_word_no_space_1: awesome
+bip_39_word_no_space_10: awesomerecipefirmofficechurnaisleboostmonkeyvanishpaddle
+bip_39_word_no_space_11: awesomerecipefirmofficechurnaisleboostmonkeyvanishpaddledisorder
+bip_39_word_no_space_12: awesomerecipefirmofficechurnaisleboostmonkeyvanishpaddledisorderadd
+bip_39_word_no_space_2: awesomerecipe
+bip_39_word_no_space_3: awesomerecipefirm
+bip_39_word_no_space_4: awesomerecipefirmoffice
+bip_39_word_no_space_5: awesomerecipefirmofficechurn
+bip_39_word_no_space_6: awesomerecipefirmofficechurnaisle
+bip_39_word_no_space_7: awesomerecipefirmofficechurnaisleboost
+bip_39_word_no_space_8: awesomerecipefirmofficechurnaisleboostmonkey
+bip_39_word_no_space_9: awesomerecipefirmofficechurnaisleboostmonkeyvanish
+bip_39_word_space_0:
+- awesome
+- recipe
+- firm
+- office
+- churn
+- aisle
+- boost
+- monkey
+- vanish
+- paddle
+- disorder
+- add
+bip_39_word_space_1: awesome
+bip_39_word_space_10: awesome recipe firm office churn aisle boost monkey vanish paddle
+bip_39_word_space_11: awesome recipe firm office churn aisle boost monkey vanish paddle
+  disorder
+bip_39_word_space_12: awesome recipe firm office churn aisle boost monkey vanish paddle
+  disorder add
+bip_39_word_space_2: awesome recipe
+bip_39_word_space_3: awesome recipe firm
+bip_39_word_space_4: awesome recipe firm office
+bip_39_word_space_5: awesome recipe firm office churn
+bip_39_word_space_6: awesome recipe firm office churn aisle
+bip_39_word_space_7: awesome recipe firm office churn aisle boost
+bip_39_word_space_8: awesome recipe firm office churn aisle boost monkey
+bip_39_word_space_9: awesome recipe firm office churn aisle boost monkey vanish
+bip_39_word_underscore_1: awesome
+bip_39_word_underscore_10: awesome_recipe_firm_office_churn_aisle_boost_monkey_vanish_paddle
+bip_39_word_underscore_11: awesome_recipe_firm_office_churn_aisle_boost_monkey_vanish_paddle_disorder
+bip_39_word_underscore_12: awesome_recipe_firm_office_churn_aisle_boost_monkey_vanish_paddle_disorder_add
+bip_39_word_underscore_2: awesome_recipe
+bip_39_word_underscore_3: awesome_recipe_firm
+bip_39_word_underscore_4: awesome_recipe_firm_office
+bip_39_word_underscore_5: awesome_recipe_firm_office_churn
+bip_39_word_underscore_6: awesome_recipe_firm_office_churn_aisle
+bip_39_word_underscore_7: awesome_recipe_firm_office_churn_aisle_boost
+bip_39_word_underscore_8: awesome_recipe_firm_office_churn_aisle_boost_monkey
+bip_39_word_underscore_9: awesome_recipe_firm_office_churn_aisle_boost_monkey_vanish
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 25_mm_length_phillips_head
 id_no_size: black_25_mm_length_phillips_head
 id_no_type: m4_black_25_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_25_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m4_black_25_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_25_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201yxgn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201yxgn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201yxgn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 25 mm Length Phillips Head
 name_no_size: Black 25 mm Length Phillips Head
 name_no_size_short: Black 25 Mm Length Phillips Head
 name_no_type: M4 Black 25 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 1yx
+oomlout_bolt_md5_6_alpha_first_3_upper: 1YX
+oomlout_bolt_md5_6_alpha_last_3: gn
+oomlout_bolt_md5_6_alpha_last_3_upper: GN
+oomlout_bolt_md5_6_first_3: '327'
+oomlout_bolt_md5_6_first_3_upper: '327'
+oomlout_bolt_md5_6_last_3: ee7
+oomlout_bolt_md5_6_last_3_upper: EE7
+oomlout_bolt_name: Flat Head M4X25 mm Black (Phillips)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh4b25p
+oomlout_short_code_upper: FH4B25P
 oomp_key: oomp_hardware_screw_flat_head_m4_black_25_mm_length_phillips_head
 oomp_word: cat fax helicopter
 oomp_word_emoji: ':cat: :fax: :helicopter:'

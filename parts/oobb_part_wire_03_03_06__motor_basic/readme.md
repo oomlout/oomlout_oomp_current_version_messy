@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Wire 03 03 06  Motor Basic
+* name_short: 
 ### id
 * oomp_id: oobb_part_wire_03_03_06__motor_basic
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bank: :ox: :violin:
 * md5_6_alpha: 8hbj6
 * md5_6: d95ca2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208hbj6)
+[2x1](http://192.168.1.242:1112/?label=oomp%208hbj6)
+[6x4](http://192.168.1.55:1112/?label=oomp%208hbj6)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ disagree |
 | id_no_color | 030306motorbasic |  
 | id_no_size | 03_03_06__motor_basic |  
 | id_no_type | wire_03_03_06__motor_basic |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_06__motor_basic |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_06__motor_basic |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208hbj6 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208hbj6 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208hbj6 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ disagree |
 | name_no_size | 03 03 06  Motor Basic |  
 | name_no_size_short | 03 03 06  Motor Basic |  
 | name_no_type | Wire 03 03 06  Motor Basic |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_06__motor_basic |  
 | oomp_word | bank ox violin |  
 | oomp_word_emoji | :bank: :ox: :violin: |  

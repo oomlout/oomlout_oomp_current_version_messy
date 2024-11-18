@@ -1,3 +1,221 @@
+bip_39_word_dash_1: spirit
+bip_39_word_dash_10: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry
+bip_39_word_dash_11: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry-normal
+bip_39_word_dash_12: spirit-diet-nerve-fix-bird-lend-large-rent-build-hurry-normal-asthma
+bip_39_word_dash_2: spirit-diet
+bip_39_word_dash_3: spirit-diet-nerve
+bip_39_word_dash_4: spirit-diet-nerve-fix
+bip_39_word_dash_5: spirit-diet-nerve-fix-bird
+bip_39_word_dash_6: spirit-diet-nerve-fix-bird-lend
+bip_39_word_dash_7: spirit-diet-nerve-fix-bird-lend-large
+bip_39_word_dash_8: spirit-diet-nerve-fix-bird-lend-large-rent
+bip_39_word_dash_9: spirit-diet-nerve-fix-bird-lend-large-rent-build
+bip_39_word_new_br_1: spirit
+bip_39_word_new_br_10: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry
+bip_39_word_new_br_11: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal
+bip_39_word_new_br_12: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build<br>hurry<br>normal<br>asthma
+bip_39_word_new_br_2: spirit<br>diet
+bip_39_word_new_br_3: spirit<br>diet<br>nerve
+bip_39_word_new_br_4: spirit<br>diet<br>nerve<br>fix
+bip_39_word_new_br_5: spirit<br>diet<br>nerve<br>fix<br>bird
+bip_39_word_new_br_6: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend
+bip_39_word_new_br_7: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large
+bip_39_word_new_br_8: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent
+bip_39_word_new_br_9: spirit<br>diet<br>nerve<br>fix<br>bird<br>lend<br>large<br>rent<br>build
+bip_39_word_new_line_1: spirit
+bip_39_word_new_line_10: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large
+
+  rent
+
+  build
+
+  hurry'
+bip_39_word_new_line_11: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large
+
+  rent
+
+  build
+
+  hurry
+
+  normal'
+bip_39_word_new_line_12: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large
+
+  rent
+
+  build
+
+  hurry
+
+  normal
+
+  asthma'
+bip_39_word_new_line_2: 'spirit
+
+  diet'
+bip_39_word_new_line_3: 'spirit
+
+  diet
+
+  nerve'
+bip_39_word_new_line_4: 'spirit
+
+  diet
+
+  nerve
+
+  fix'
+bip_39_word_new_line_5: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird'
+bip_39_word_new_line_6: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend'
+bip_39_word_new_line_7: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large'
+bip_39_word_new_line_8: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large
+
+  rent'
+bip_39_word_new_line_9: 'spirit
+
+  diet
+
+  nerve
+
+  fix
+
+  bird
+
+  lend
+
+  large
+
+  rent
+
+  build'
+bip_39_word_no_space_1: spirit
+bip_39_word_no_space_10: spiritdietnervefixbirdlendlargerentbuildhurry
+bip_39_word_no_space_11: spiritdietnervefixbirdlendlargerentbuildhurrynormal
+bip_39_word_no_space_12: spiritdietnervefixbirdlendlargerentbuildhurrynormalasthma
+bip_39_word_no_space_2: spiritdiet
+bip_39_word_no_space_3: spiritdietnerve
+bip_39_word_no_space_4: spiritdietnervefix
+bip_39_word_no_space_5: spiritdietnervefixbird
+bip_39_word_no_space_6: spiritdietnervefixbirdlend
+bip_39_word_no_space_7: spiritdietnervefixbirdlendlarge
+bip_39_word_no_space_8: spiritdietnervefixbirdlendlargerent
+bip_39_word_no_space_9: spiritdietnervefixbirdlendlargerentbuild
+bip_39_word_space_0:
+- spirit
+- diet
+- nerve
+- fix
+- bird
+- lend
+- large
+- rent
+- build
+- hurry
+- normal
+- asthma
+bip_39_word_space_1: spirit
+bip_39_word_space_10: spirit diet nerve fix bird lend large rent build hurry
+bip_39_word_space_11: spirit diet nerve fix bird lend large rent build hurry normal
+bip_39_word_space_12: spirit diet nerve fix bird lend large rent build hurry normal
+  asthma
+bip_39_word_space_2: spirit diet
+bip_39_word_space_3: spirit diet nerve
+bip_39_word_space_4: spirit diet nerve fix
+bip_39_word_space_5: spirit diet nerve fix bird
+bip_39_word_space_6: spirit diet nerve fix bird lend
+bip_39_word_space_7: spirit diet nerve fix bird lend large
+bip_39_word_space_8: spirit diet nerve fix bird lend large rent
+bip_39_word_space_9: spirit diet nerve fix bird lend large rent build
+bip_39_word_underscore_1: spirit
+bip_39_word_underscore_10: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry
+bip_39_word_underscore_11: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry_normal
+bip_39_word_underscore_12: spirit_diet_nerve_fix_bird_lend_large_rent_build_hurry_normal_asthma
+bip_39_word_underscore_2: spirit_diet
+bip_39_word_underscore_3: spirit_diet_nerve
+bip_39_word_underscore_4: spirit_diet_nerve_fix
+bip_39_word_underscore_5: spirit_diet_nerve_fix_bird
+bip_39_word_underscore_6: spirit_diet_nerve_fix_bird_lend
+bip_39_word_underscore_7: spirit_diet_nerve_fix_bird_lend_large
+bip_39_word_underscore_8: spirit_diet_nerve_fix_bird_lend_large_rent
+bip_39_word_underscore_9: spirit_diet_nerve_fix_bird_lend_large_rent_build
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -108,7 +326,14 @@ id_no_color: atmega328parduinocompatible
 id_no_size: atmega328p_arduino_compatible
 id_no_type: pro_mini_atmega328p_arduino_compatible
 kicad_reference: BB
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208sajf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208sajf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208sajf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +360,7 @@ name_no_size: Atmega328P Arduino Compatible
 name_no_size_short: Atmega328P Arduino Compatible
 name_no_type: Pro Mini Atmega328P Arduino Compatible
 notes: []
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible
 oomp_word: boat snowflake rooster
 oomp_word_emoji: ':boat: :snowflake: :rooster:'

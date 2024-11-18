@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 02 09  48 Teeth Sh Motor Tt 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :squirrel: :clipboard: :tea:
 * md5_6_alpha: 4e3sl
 * md5_6: 708eb5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204e3sl)
+[2x1](http://192.168.1.242:1112/?label=oomp%204e3sl)
+[6x4](http://192.168.1.55:1112/?label=oomp%204e3sl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ walk |
 | id_no_color | 020948teethshmotortt01 |  
 | id_no_size | 02_09__48_teeth_sh_motor_tt_01 |  
 | id_no_type | pulley_gt2_02_09__48_teeth_sh_motor_tt_01 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204e3sl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204e3sl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204e3sl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ walk |
 | name_no_size | 02 09  48 Teeth Sh Motor Tt 01 |  
 | name_no_size_short | 02 09  48 Teeth Sh Motor Tt 01 |  
 | name_no_type | Pulley Gt2 02 09  48 Teeth Sh Motor Tt 01 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_tt_01 |  
 | oomp_word | squirrel clipboard tea |  
 | oomp_word_emoji | :squirrel: :clipboard: :tea: |  

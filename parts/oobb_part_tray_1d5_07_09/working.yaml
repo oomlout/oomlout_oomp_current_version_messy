@@ -1,3 +1,222 @@
+bip_39_word_dash_1: blade
+bip_39_word_dash_10: blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start
+bip_39_word_dash_11: blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start-gallery
+bip_39_word_dash_12: blade-please-drink-rabbit-prison-harsh-oppose-speak-shop-start-gallery-arrange
+bip_39_word_dash_2: blade-please
+bip_39_word_dash_3: blade-please-drink
+bip_39_word_dash_4: blade-please-drink-rabbit
+bip_39_word_dash_5: blade-please-drink-rabbit-prison
+bip_39_word_dash_6: blade-please-drink-rabbit-prison-harsh
+bip_39_word_dash_7: blade-please-drink-rabbit-prison-harsh-oppose
+bip_39_word_dash_8: blade-please-drink-rabbit-prison-harsh-oppose-speak
+bip_39_word_dash_9: blade-please-drink-rabbit-prison-harsh-oppose-speak-shop
+bip_39_word_new_br_1: blade
+bip_39_word_new_br_10: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start
+bip_39_word_new_br_11: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery
+bip_39_word_new_br_12: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop<br>start<br>gallery<br>arrange
+bip_39_word_new_br_2: blade<br>please
+bip_39_word_new_br_3: blade<br>please<br>drink
+bip_39_word_new_br_4: blade<br>please<br>drink<br>rabbit
+bip_39_word_new_br_5: blade<br>please<br>drink<br>rabbit<br>prison
+bip_39_word_new_br_6: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh
+bip_39_word_new_br_7: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose
+bip_39_word_new_br_8: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak
+bip_39_word_new_br_9: blade<br>please<br>drink<br>rabbit<br>prison<br>harsh<br>oppose<br>speak<br>shop
+bip_39_word_new_line_1: blade
+bip_39_word_new_line_10: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start'
+bip_39_word_new_line_11: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start
+
+  gallery'
+bip_39_word_new_line_12: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop
+
+  start
+
+  gallery
+
+  arrange'
+bip_39_word_new_line_2: 'blade
+
+  please'
+bip_39_word_new_line_3: 'blade
+
+  please
+
+  drink'
+bip_39_word_new_line_4: 'blade
+
+  please
+
+  drink
+
+  rabbit'
+bip_39_word_new_line_5: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison'
+bip_39_word_new_line_6: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh'
+bip_39_word_new_line_7: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose'
+bip_39_word_new_line_8: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak'
+bip_39_word_new_line_9: 'blade
+
+  please
+
+  drink
+
+  rabbit
+
+  prison
+
+  harsh
+
+  oppose
+
+  speak
+
+  shop'
+bip_39_word_no_space_1: blade
+bip_39_word_no_space_10: bladepleasedrinkrabbitprisonharshopposespeakshopstart
+bip_39_word_no_space_11: bladepleasedrinkrabbitprisonharshopposespeakshopstartgallery
+bip_39_word_no_space_12: bladepleasedrinkrabbitprisonharshopposespeakshopstartgalleryarrange
+bip_39_word_no_space_2: bladeplease
+bip_39_word_no_space_3: bladepleasedrink
+bip_39_word_no_space_4: bladepleasedrinkrabbit
+bip_39_word_no_space_5: bladepleasedrinkrabbitprison
+bip_39_word_no_space_6: bladepleasedrinkrabbitprisonharsh
+bip_39_word_no_space_7: bladepleasedrinkrabbitprisonharshoppose
+bip_39_word_no_space_8: bladepleasedrinkrabbitprisonharshopposespeak
+bip_39_word_no_space_9: bladepleasedrinkrabbitprisonharshopposespeakshop
+bip_39_word_space_0:
+- blade
+- please
+- drink
+- rabbit
+- prison
+- harsh
+- oppose
+- speak
+- shop
+- start
+- gallery
+- arrange
+bip_39_word_space_1: blade
+bip_39_word_space_10: blade please drink rabbit prison harsh oppose speak shop start
+bip_39_word_space_11: blade please drink rabbit prison harsh oppose speak shop start
+  gallery
+bip_39_word_space_12: blade please drink rabbit prison harsh oppose speak shop start
+  gallery arrange
+bip_39_word_space_2: blade please
+bip_39_word_space_3: blade please drink
+bip_39_word_space_4: blade please drink rabbit
+bip_39_word_space_5: blade please drink rabbit prison
+bip_39_word_space_6: blade please drink rabbit prison harsh
+bip_39_word_space_7: blade please drink rabbit prison harsh oppose
+bip_39_word_space_8: blade please drink rabbit prison harsh oppose speak
+bip_39_word_space_9: blade please drink rabbit prison harsh oppose speak shop
+bip_39_word_underscore_1: blade
+bip_39_word_underscore_10: blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start
+bip_39_word_underscore_11: blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start_gallery
+bip_39_word_underscore_12: blade_please_drink_rabbit_prison_harsh_oppose_speak_shop_start_gallery_arrange
+bip_39_word_underscore_2: blade_please
+bip_39_word_underscore_3: blade_please_drink
+bip_39_word_underscore_4: blade_please_drink_rabbit
+bip_39_word_underscore_5: blade_please_drink_rabbit_prison
+bip_39_word_underscore_6: blade_please_drink_rabbit_prison_harsh
+bip_39_word_underscore_7: blade_please_drink_rabbit_prison_harsh_oppose
+bip_39_word_underscore_8: blade_please_drink_rabbit_prison_harsh_oppose_speak
+bip_39_word_underscore_9: blade_please_drink_rabbit_prison_harsh_oppose_speak_shop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_07_09
 id_no_color: 1d50709
 id_no_size: 1d5_07_09
 id_no_type: tray_1d5_07_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_07_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_07_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_07_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ocvp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ocvp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ocvp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D50709
 name_no_size: 1D5 07 09
 name_no_size_short: 1D5 07 09
 name_no_type: Tray 1D5 07 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_07_09
 oomp_word: cookie ramen hamster
 oomp_word_emoji: ':cookie: :ramen: :hamster:'

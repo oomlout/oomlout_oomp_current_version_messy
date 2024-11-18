@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wait
+bip_39_word_dash_10: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action
+bip_39_word_dash_11: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action-jealous
+bip_39_word_dash_12: wait-chief-flower-clutch-library-digital-mother-outdoor-grain-action-jealous-arch
+bip_39_word_dash_2: wait-chief
+bip_39_word_dash_3: wait-chief-flower
+bip_39_word_dash_4: wait-chief-flower-clutch
+bip_39_word_dash_5: wait-chief-flower-clutch-library
+bip_39_word_dash_6: wait-chief-flower-clutch-library-digital
+bip_39_word_dash_7: wait-chief-flower-clutch-library-digital-mother
+bip_39_word_dash_8: wait-chief-flower-clutch-library-digital-mother-outdoor
+bip_39_word_dash_9: wait-chief-flower-clutch-library-digital-mother-outdoor-grain
+bip_39_word_new_br_1: wait
+bip_39_word_new_br_10: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action
+bip_39_word_new_br_11: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous
+bip_39_word_new_br_12: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain<br>action<br>jealous<br>arch
+bip_39_word_new_br_2: wait<br>chief
+bip_39_word_new_br_3: wait<br>chief<br>flower
+bip_39_word_new_br_4: wait<br>chief<br>flower<br>clutch
+bip_39_word_new_br_5: wait<br>chief<br>flower<br>clutch<br>library
+bip_39_word_new_br_6: wait<br>chief<br>flower<br>clutch<br>library<br>digital
+bip_39_word_new_br_7: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother
+bip_39_word_new_br_8: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor
+bip_39_word_new_br_9: wait<br>chief<br>flower<br>clutch<br>library<br>digital<br>mother<br>outdoor<br>grain
+bip_39_word_new_line_1: wait
+bip_39_word_new_line_10: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action'
+bip_39_word_new_line_11: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action
+
+  jealous'
+bip_39_word_new_line_12: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain
+
+  action
+
+  jealous
+
+  arch'
+bip_39_word_new_line_2: 'wait
+
+  chief'
+bip_39_word_new_line_3: 'wait
+
+  chief
+
+  flower'
+bip_39_word_new_line_4: 'wait
+
+  chief
+
+  flower
+
+  clutch'
+bip_39_word_new_line_5: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library'
+bip_39_word_new_line_6: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital'
+bip_39_word_new_line_7: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother'
+bip_39_word_new_line_8: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor'
+bip_39_word_new_line_9: 'wait
+
+  chief
+
+  flower
+
+  clutch
+
+  library
+
+  digital
+
+  mother
+
+  outdoor
+
+  grain'
+bip_39_word_no_space_1: wait
+bip_39_word_no_space_10: waitchiefflowerclutchlibrarydigitalmotheroutdoorgrainaction
+bip_39_word_no_space_11: waitchiefflowerclutchlibrarydigitalmotheroutdoorgrainactionjealous
+bip_39_word_no_space_12: waitchiefflowerclutchlibrarydigitalmotheroutdoorgrainactionjealousarch
+bip_39_word_no_space_2: waitchief
+bip_39_word_no_space_3: waitchiefflower
+bip_39_word_no_space_4: waitchiefflowerclutch
+bip_39_word_no_space_5: waitchiefflowerclutchlibrary
+bip_39_word_no_space_6: waitchiefflowerclutchlibrarydigital
+bip_39_word_no_space_7: waitchiefflowerclutchlibrarydigitalmother
+bip_39_word_no_space_8: waitchiefflowerclutchlibrarydigitalmotheroutdoor
+bip_39_word_no_space_9: waitchiefflowerclutchlibrarydigitalmotheroutdoorgrain
+bip_39_word_space_0:
+- wait
+- chief
+- flower
+- clutch
+- library
+- digital
+- mother
+- outdoor
+- grain
+- action
+- jealous
+- arch
+bip_39_word_space_1: wait
+bip_39_word_space_10: wait chief flower clutch library digital mother outdoor grain
+  action
+bip_39_word_space_11: wait chief flower clutch library digital mother outdoor grain
+  action jealous
+bip_39_word_space_12: wait chief flower clutch library digital mother outdoor grain
+  action jealous arch
+bip_39_word_space_2: wait chief
+bip_39_word_space_3: wait chief flower
+bip_39_word_space_4: wait chief flower clutch
+bip_39_word_space_5: wait chief flower clutch library
+bip_39_word_space_6: wait chief flower clutch library digital
+bip_39_word_space_7: wait chief flower clutch library digital mother
+bip_39_word_space_8: wait chief flower clutch library digital mother outdoor
+bip_39_word_space_9: wait chief flower clutch library digital mother outdoor grain
+bip_39_word_underscore_1: wait
+bip_39_word_underscore_10: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action
+bip_39_word_underscore_11: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action_jealous
+bip_39_word_underscore_12: wait_chief_flower_clutch_library_digital_mother_outdoor_grain_action_jealous_arch
+bip_39_word_underscore_2: wait_chief
+bip_39_word_underscore_3: wait_chief_flower
+bip_39_word_underscore_4: wait_chief_flower_clutch
+bip_39_word_underscore_5: wait_chief_flower_clutch_library
+bip_39_word_underscore_6: wait_chief_flower_clutch_library_digital
+bip_39_word_underscore_7: wait_chief_flower_clutch_library_digital_mother
+bip_39_word_underscore_8: wait_chief_flower_clutch_library_digital_mother_outdoor
+bip_39_word_underscore_9: wait_chief_flower_clutch_library_digital_mother_outdoor_grain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_02_06__40_teeth_shield_sh_m3
 id_no_color: 020640teethshieldshm3
 id_no_size: 02_06__40_teeth_shield_sh_m3
 id_no_type: pulley_gt2_02_06__40_teeth_shield_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206wj5s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206wj5s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206wj5s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020640Teethshieldshm3
 name_no_size: 02 06  40 Teeth Shield Sh M3
 name_no_size_short: 02 06  40 Teeth Shield Sh M3
 name_no_type: Pulley Gt2 02 06  40 Teeth Shield Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__40_teeth_shield_sh_m3
 oomp_word: crown truck bowtie
 oomp_word_emoji: ':crown: :truck: :bowtie:'

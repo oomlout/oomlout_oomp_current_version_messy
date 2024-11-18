@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420654166'
+bip_39_word_dash_1: fresh
+bip_39_word_dash_10: fresh-detect-enter-vicious-clerk-include-angry-shallow-bracket-shallow
+bip_39_word_dash_11: fresh-detect-enter-vicious-clerk-include-angry-shallow-bracket-shallow-vivid
+bip_39_word_dash_12: fresh-detect-enter-vicious-clerk-include-angry-shallow-bracket-shallow-vivid-arrive
+bip_39_word_dash_2: fresh-detect
+bip_39_word_dash_3: fresh-detect-enter
+bip_39_word_dash_4: fresh-detect-enter-vicious
+bip_39_word_dash_5: fresh-detect-enter-vicious-clerk
+bip_39_word_dash_6: fresh-detect-enter-vicious-clerk-include
+bip_39_word_dash_7: fresh-detect-enter-vicious-clerk-include-angry
+bip_39_word_dash_8: fresh-detect-enter-vicious-clerk-include-angry-shallow
+bip_39_word_dash_9: fresh-detect-enter-vicious-clerk-include-angry-shallow-bracket
+bip_39_word_new_br_1: fresh
+bip_39_word_new_br_10: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry<br>shallow<br>bracket<br>shallow
+bip_39_word_new_br_11: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry<br>shallow<br>bracket<br>shallow<br>vivid
+bip_39_word_new_br_12: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry<br>shallow<br>bracket<br>shallow<br>vivid<br>arrive
+bip_39_word_new_br_2: fresh<br>detect
+bip_39_word_new_br_3: fresh<br>detect<br>enter
+bip_39_word_new_br_4: fresh<br>detect<br>enter<br>vicious
+bip_39_word_new_br_5: fresh<br>detect<br>enter<br>vicious<br>clerk
+bip_39_word_new_br_6: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include
+bip_39_word_new_br_7: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry
+bip_39_word_new_br_8: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry<br>shallow
+bip_39_word_new_br_9: fresh<br>detect<br>enter<br>vicious<br>clerk<br>include<br>angry<br>shallow<br>bracket
+bip_39_word_new_line_1: fresh
+bip_39_word_new_line_10: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry
+
+  shallow
+
+  bracket
+
+  shallow'
+bip_39_word_new_line_11: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry
+
+  shallow
+
+  bracket
+
+  shallow
+
+  vivid'
+bip_39_word_new_line_12: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry
+
+  shallow
+
+  bracket
+
+  shallow
+
+  vivid
+
+  arrive'
+bip_39_word_new_line_2: 'fresh
+
+  detect'
+bip_39_word_new_line_3: 'fresh
+
+  detect
+
+  enter'
+bip_39_word_new_line_4: 'fresh
+
+  detect
+
+  enter
+
+  vicious'
+bip_39_word_new_line_5: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk'
+bip_39_word_new_line_6: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include'
+bip_39_word_new_line_7: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry'
+bip_39_word_new_line_8: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry
+
+  shallow'
+bip_39_word_new_line_9: 'fresh
+
+  detect
+
+  enter
+
+  vicious
+
+  clerk
+
+  include
+
+  angry
+
+  shallow
+
+  bracket'
+bip_39_word_no_space_1: fresh
+bip_39_word_no_space_10: freshdetectenterviciousclerkincludeangryshallowbracketshallow
+bip_39_word_no_space_11: freshdetectenterviciousclerkincludeangryshallowbracketshallowvivid
+bip_39_word_no_space_12: freshdetectenterviciousclerkincludeangryshallowbracketshallowvividarrive
+bip_39_word_no_space_2: freshdetect
+bip_39_word_no_space_3: freshdetectenter
+bip_39_word_no_space_4: freshdetectentervicious
+bip_39_word_no_space_5: freshdetectenterviciousclerk
+bip_39_word_no_space_6: freshdetectenterviciousclerkinclude
+bip_39_word_no_space_7: freshdetectenterviciousclerkincludeangry
+bip_39_word_no_space_8: freshdetectenterviciousclerkincludeangryshallow
+bip_39_word_no_space_9: freshdetectenterviciousclerkincludeangryshallowbracket
+bip_39_word_space_0:
+- fresh
+- detect
+- enter
+- vicious
+- clerk
+- include
+- angry
+- shallow
+- bracket
+- shallow
+- vivid
+- arrive
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh detect enter vicious clerk include angry shallow bracket
+  shallow
+bip_39_word_space_11: fresh detect enter vicious clerk include angry shallow bracket
+  shallow vivid
+bip_39_word_space_12: fresh detect enter vicious clerk include angry shallow bracket
+  shallow vivid arrive
+bip_39_word_space_2: fresh detect
+bip_39_word_space_3: fresh detect enter
+bip_39_word_space_4: fresh detect enter vicious
+bip_39_word_space_5: fresh detect enter vicious clerk
+bip_39_word_space_6: fresh detect enter vicious clerk include
+bip_39_word_space_7: fresh detect enter vicious clerk include angry
+bip_39_word_space_8: fresh detect enter vicious clerk include angry shallow
+bip_39_word_space_9: fresh detect enter vicious clerk include angry shallow bracket
+bip_39_word_underscore_1: fresh
+bip_39_word_underscore_10: fresh_detect_enter_vicious_clerk_include_angry_shallow_bracket_shallow
+bip_39_word_underscore_11: fresh_detect_enter_vicious_clerk_include_angry_shallow_bracket_shallow_vivid
+bip_39_word_underscore_12: fresh_detect_enter_vicious_clerk_include_angry_shallow_bracket_shallow_vivid_arrive
+bip_39_word_underscore_2: fresh_detect
+bip_39_word_underscore_3: fresh_detect_enter
+bip_39_word_underscore_4: fresh_detect_enter_vicious
+bip_39_word_underscore_5: fresh_detect_enter_vicious_clerk
+bip_39_word_underscore_6: fresh_detect_enter_vicious_clerk_include
+bip_39_word_underscore_7: fresh_detect_enter_vicious_clerk_include_angry
+bip_39_word_underscore_8: fresh_detect_enter_vicious_clerk_include_angry_shallow
+bip_39_word_underscore_9: fresh_detect_enter_vicious_clerk_include_angry_shallow_bracket
 box_of_box_size_manufacturer_metalmate: '4000'
 box_size_manufacturer_metalmate: '500'
 classification: hardware
@@ -90,7 +310,22 @@ id_no_color: 20mmlength
 id_no_size: 20_mm_length
 id_no_type: m6_20_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_20_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_20_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m6-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m6-x-20-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490020
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-20-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_20_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207vmgh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207vmgh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207vmgh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -118,6 +353,26 @@ name_no_color: 20mmlength
 name_no_size: 20 mm Length
 name_no_size_short: 20 Mm Length
 name_no_type: M6 20 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 7vm
+oomlout_bolt_md5_6_alpha_first_3_upper: 7VM
+oomlout_bolt_md5_6_alpha_last_3: gh
+oomlout_bolt_md5_6_alpha_last_3_upper: GH
+oomlout_bolt_md5_6_first_3: c9e
+oomlout_bolt_md5_6_first_3_upper: C9E
+oomlout_bolt_md5_6_last_3: a71
+oomlout_bolt_md5_6_last_3_upper: A71
+oomlout_bolt_name: Set Screw M6X20 mm  (Bolt)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss6m20
+oomlout_short_code_upper: SS6M20
 oomp_id: hardware_set_screw_m6_20_mm_length
 oomp_key: oomp_hardware_set_screw_m6_20_mm_length
 oomp_word: lemon tractor bamboo
@@ -142,12 +397,22 @@ price_1: '0.0328'
 price_100: '0.0328'
 price_1000: '0.0182'
 price_10000: '0.0145'
+price_10000_distributor_1: '0.0145'
 price_10000_distributor_orbital_fasteners: '0.0145'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0182'
 price_1000_distributor_orbital_fasteners: '0.0182'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0328'
 price_100_distributor_orbital_fasteners: '0.0328'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0328'
 price_1_distributor_orbital_fasteners: '0.0328'
+price_1_name: orbital_fasteners
 price_200: '0.0328'
+price_200_distributor_1: '0.0328'
 price_200_distributor_orbital_fasteners: '0.0328'
+price_200_name: orbital_fasteners
 price_current: '0.0328'
 quantity_current: '200'
 short_code: ss620

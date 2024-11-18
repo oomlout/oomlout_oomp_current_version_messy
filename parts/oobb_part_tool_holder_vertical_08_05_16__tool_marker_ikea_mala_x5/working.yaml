@@ -1,3 +1,223 @@
+bip_39_word_dash_1: behave
+bip_39_word_dash_10: behave-comic-client-matter-laptop-already-lawsuit-utility-life-item
+bip_39_word_dash_11: behave-comic-client-matter-laptop-already-lawsuit-utility-life-item-base
+bip_39_word_dash_12: behave-comic-client-matter-laptop-already-lawsuit-utility-life-item-base-artist
+bip_39_word_dash_2: behave-comic
+bip_39_word_dash_3: behave-comic-client
+bip_39_word_dash_4: behave-comic-client-matter
+bip_39_word_dash_5: behave-comic-client-matter-laptop
+bip_39_word_dash_6: behave-comic-client-matter-laptop-already
+bip_39_word_dash_7: behave-comic-client-matter-laptop-already-lawsuit
+bip_39_word_dash_8: behave-comic-client-matter-laptop-already-lawsuit-utility
+bip_39_word_dash_9: behave-comic-client-matter-laptop-already-lawsuit-utility-life
+bip_39_word_new_br_1: behave
+bip_39_word_new_br_10: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item
+bip_39_word_new_br_11: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item<br>base
+bip_39_word_new_br_12: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life<br>item<br>base<br>artist
+bip_39_word_new_br_2: behave<br>comic
+bip_39_word_new_br_3: behave<br>comic<br>client
+bip_39_word_new_br_4: behave<br>comic<br>client<br>matter
+bip_39_word_new_br_5: behave<br>comic<br>client<br>matter<br>laptop
+bip_39_word_new_br_6: behave<br>comic<br>client<br>matter<br>laptop<br>already
+bip_39_word_new_br_7: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit
+bip_39_word_new_br_8: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility
+bip_39_word_new_br_9: behave<br>comic<br>client<br>matter<br>laptop<br>already<br>lawsuit<br>utility<br>life
+bip_39_word_new_line_1: behave
+bip_39_word_new_line_10: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item'
+bip_39_word_new_line_11: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item
+
+  base'
+bip_39_word_new_line_12: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life
+
+  item
+
+  base
+
+  artist'
+bip_39_word_new_line_2: 'behave
+
+  comic'
+bip_39_word_new_line_3: 'behave
+
+  comic
+
+  client'
+bip_39_word_new_line_4: 'behave
+
+  comic
+
+  client
+
+  matter'
+bip_39_word_new_line_5: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop'
+bip_39_word_new_line_6: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already'
+bip_39_word_new_line_7: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit'
+bip_39_word_new_line_8: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility'
+bip_39_word_new_line_9: 'behave
+
+  comic
+
+  client
+
+  matter
+
+  laptop
+
+  already
+
+  lawsuit
+
+  utility
+
+  life'
+bip_39_word_no_space_1: behave
+bip_39_word_no_space_10: behavecomicclientmatterlaptopalreadylawsuitutilitylifeitem
+bip_39_word_no_space_11: behavecomicclientmatterlaptopalreadylawsuitutilitylifeitembase
+bip_39_word_no_space_12: behavecomicclientmatterlaptopalreadylawsuitutilitylifeitembaseartist
+bip_39_word_no_space_2: behavecomic
+bip_39_word_no_space_3: behavecomicclient
+bip_39_word_no_space_4: behavecomicclientmatter
+bip_39_word_no_space_5: behavecomicclientmatterlaptop
+bip_39_word_no_space_6: behavecomicclientmatterlaptopalready
+bip_39_word_no_space_7: behavecomicclientmatterlaptopalreadylawsuit
+bip_39_word_no_space_8: behavecomicclientmatterlaptopalreadylawsuitutility
+bip_39_word_no_space_9: behavecomicclientmatterlaptopalreadylawsuitutilitylife
+bip_39_word_space_0:
+- behave
+- comic
+- client
+- matter
+- laptop
+- already
+- lawsuit
+- utility
+- life
+- item
+- base
+- artist
+bip_39_word_space_1: behave
+bip_39_word_space_10: behave comic client matter laptop already lawsuit utility life
+  item
+bip_39_word_space_11: behave comic client matter laptop already lawsuit utility life
+  item base
+bip_39_word_space_12: behave comic client matter laptop already lawsuit utility life
+  item base artist
+bip_39_word_space_2: behave comic
+bip_39_word_space_3: behave comic client
+bip_39_word_space_4: behave comic client matter
+bip_39_word_space_5: behave comic client matter laptop
+bip_39_word_space_6: behave comic client matter laptop already
+bip_39_word_space_7: behave comic client matter laptop already lawsuit
+bip_39_word_space_8: behave comic client matter laptop already lawsuit utility
+bip_39_word_space_9: behave comic client matter laptop already lawsuit utility life
+bip_39_word_underscore_1: behave
+bip_39_word_underscore_10: behave_comic_client_matter_laptop_already_lawsuit_utility_life_item
+bip_39_word_underscore_11: behave_comic_client_matter_laptop_already_lawsuit_utility_life_item_base
+bip_39_word_underscore_12: behave_comic_client_matter_laptop_already_lawsuit_utility_life_item_base_artist
+bip_39_word_underscore_2: behave_comic
+bip_39_word_underscore_3: behave_comic_client
+bip_39_word_underscore_4: behave_comic_client_matter
+bip_39_word_underscore_5: behave_comic_client_matter_laptop
+bip_39_word_underscore_6: behave_comic_client_matter_laptop_already
+bip_39_word_underscore_7: behave_comic_client_matter_laptop_already_lawsuit
+bip_39_word_underscore_8: behave_comic_client_matter_laptop_already_lawsuit_utility
+bip_39_word_underscore_9: behave_comic_client_matter_laptop_already_lawsuit_utility_life
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
 id_no_color: 080516toolmarkerikeamalax5
 id_no_size: 08_05_16__tool_marker_ikea_mala_x5
 id_no_type: tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2084dlp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2084dlp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2084dlp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 080516Toolmarkerikeamalax5
 name_no_size: 08 05 16  Tool Marker Ikea Mala X5
 name_no_size_short: 08 05 16  Tool Marker Ikea Mala X5
 name_no_type: Tool Holder Vertical 08 05 16  Tool Marker Ikea Mala X5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_08_05_16__tool_marker_ikea_mala_x5
 oomp_word: banana ear stars
 oomp_word_emoji: ':banana: :ear: :stars:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: shrimp
+bip_39_word_dash_10: shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee
+bip_39_word_dash_11: shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee-bubble
+bip_39_word_dash_12: shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair-nominee-bubble-afraid
+bip_39_word_dash_2: shrimp-session
+bip_39_word_dash_3: shrimp-session-trap
+bip_39_word_dash_4: shrimp-session-trap-lift
+bip_39_word_dash_5: shrimp-session-trap-lift-quote
+bip_39_word_dash_6: shrimp-session-trap-lift-quote-glimpse
+bip_39_word_dash_7: shrimp-session-trap-lift-quote-glimpse-banana
+bip_39_word_dash_8: shrimp-session-trap-lift-quote-glimpse-banana-exhibit
+bip_39_word_dash_9: shrimp-session-trap-lift-quote-glimpse-banana-exhibit-hair
+bip_39_word_new_br_1: shrimp
+bip_39_word_new_br_10: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair<br>nominee
+bip_39_word_new_br_11: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair<br>nominee<br>bubble
+bip_39_word_new_br_12: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair<br>nominee<br>bubble<br>afraid
+bip_39_word_new_br_2: shrimp<br>session
+bip_39_word_new_br_3: shrimp<br>session<br>trap
+bip_39_word_new_br_4: shrimp<br>session<br>trap<br>lift
+bip_39_word_new_br_5: shrimp<br>session<br>trap<br>lift<br>quote
+bip_39_word_new_br_6: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse
+bip_39_word_new_br_7: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana
+bip_39_word_new_br_8: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit
+bip_39_word_new_br_9: shrimp<br>session<br>trap<br>lift<br>quote<br>glimpse<br>banana<br>exhibit<br>hair
+bip_39_word_new_line_1: shrimp
+bip_39_word_new_line_10: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana
+
+  exhibit
+
+  hair
+
+  nominee'
+bip_39_word_new_line_11: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana
+
+  exhibit
+
+  hair
+
+  nominee
+
+  bubble'
+bip_39_word_new_line_12: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana
+
+  exhibit
+
+  hair
+
+  nominee
+
+  bubble
+
+  afraid'
+bip_39_word_new_line_2: 'shrimp
+
+  session'
+bip_39_word_new_line_3: 'shrimp
+
+  session
+
+  trap'
+bip_39_word_new_line_4: 'shrimp
+
+  session
+
+  trap
+
+  lift'
+bip_39_word_new_line_5: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote'
+bip_39_word_new_line_6: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse'
+bip_39_word_new_line_7: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana'
+bip_39_word_new_line_8: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana
+
+  exhibit'
+bip_39_word_new_line_9: 'shrimp
+
+  session
+
+  trap
+
+  lift
+
+  quote
+
+  glimpse
+
+  banana
+
+  exhibit
+
+  hair'
+bip_39_word_no_space_1: shrimp
+bip_39_word_no_space_10: shrimpsessiontrapliftquoteglimpsebananaexhibithairnominee
+bip_39_word_no_space_11: shrimpsessiontrapliftquoteglimpsebananaexhibithairnomineebubble
+bip_39_word_no_space_12: shrimpsessiontrapliftquoteglimpsebananaexhibithairnomineebubbleafraid
+bip_39_word_no_space_2: shrimpsession
+bip_39_word_no_space_3: shrimpsessiontrap
+bip_39_word_no_space_4: shrimpsessiontraplift
+bip_39_word_no_space_5: shrimpsessiontrapliftquote
+bip_39_word_no_space_6: shrimpsessiontrapliftquoteglimpse
+bip_39_word_no_space_7: shrimpsessiontrapliftquoteglimpsebanana
+bip_39_word_no_space_8: shrimpsessiontrapliftquoteglimpsebananaexhibit
+bip_39_word_no_space_9: shrimpsessiontrapliftquoteglimpsebananaexhibithair
+bip_39_word_space_0:
+- shrimp
+- session
+- trap
+- lift
+- quote
+- glimpse
+- banana
+- exhibit
+- hair
+- nominee
+- bubble
+- afraid
+bip_39_word_space_1: shrimp
+bip_39_word_space_10: shrimp session trap lift quote glimpse banana exhibit hair nominee
+bip_39_word_space_11: shrimp session trap lift quote glimpse banana exhibit hair nominee
+  bubble
+bip_39_word_space_12: shrimp session trap lift quote glimpse banana exhibit hair nominee
+  bubble afraid
+bip_39_word_space_2: shrimp session
+bip_39_word_space_3: shrimp session trap
+bip_39_word_space_4: shrimp session trap lift
+bip_39_word_space_5: shrimp session trap lift quote
+bip_39_word_space_6: shrimp session trap lift quote glimpse
+bip_39_word_space_7: shrimp session trap lift quote glimpse banana
+bip_39_word_space_8: shrimp session trap lift quote glimpse banana exhibit
+bip_39_word_space_9: shrimp session trap lift quote glimpse banana exhibit hair
+bip_39_word_underscore_1: shrimp
+bip_39_word_underscore_10: shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee
+bip_39_word_underscore_11: shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee_bubble
+bip_39_word_underscore_12: shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair_nominee_bubble_afraid
+bip_39_word_underscore_2: shrimp_session
+bip_39_word_underscore_3: shrimp_session_trap
+bip_39_word_underscore_4: shrimp_session_trap_lift
+bip_39_word_underscore_5: shrimp_session_trap_lift_quote
+bip_39_word_underscore_6: shrimp_session_trap_lift_quote_glimpse
+bip_39_word_underscore_7: shrimp_session_trap_lift_quote_glimpse_banana
+bip_39_word_underscore_8: shrimp_session_trap_lift_quote_glimpse_banana_exhibit
+bip_39_word_underscore_9: shrimp_session_trap_lift_quote_glimpse_banana_exhibit_hair
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 5pinsurfacemount
 id_no_size: 5_pin_surface_mount
 id_no_type: 2_5_mm_jst_xh_5_pin_surface_mount
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_5_pin_surface_mount
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202tgh1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202tgh1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202tgh1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -133,6 +359,7 @@ name_no_color: 5Pinsurfacemount
 name_no_size: 5 Pin Surface Mount
 name_no_size_short: 5 Pin Surface Mount
 name_no_type: 2 5 mm Jst Xh 5 Pin Surface Mount
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_5_mm_jst_xh_5_pin_surface_mount
 oomp_word: hatched_chick koala headphones
 oomp_word_emoji: ':hatched_chick: :koala: :headphones:'

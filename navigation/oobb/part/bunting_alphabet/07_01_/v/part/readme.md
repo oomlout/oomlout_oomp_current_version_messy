@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 07 01  V
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_07_01__v
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :monkey: :paperclip: :pizza:
 * md5_6_alpha: 2fw6v
 * md5_6: 3e92b7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202fw6v)
+[2x1](http://192.168.1.242:1112/?label=oomp%202fw6v)
+[6x4](http://192.168.1.55:1112/?label=oomp%202fw6v)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__v) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__v)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ void |
 | id_no_color | 0701v |  
 | id_no_size | 07_01__v |  
 | id_no_type | bunting_alphabet_07_01__v |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__v |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__v |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__v |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202fw6v |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202fw6v |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202fw6v |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ void |
 | name_no_size | 07 01  V |  
 | name_no_size_short | 07 01  V |  
 | name_no_type | Bunting Alphabet 07 01  V |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_07_01__v |  
 | oomp_word | monkey paperclip pizza |  
 | oomp_word_emoji | :monkey: :paperclip: :pizza: |  

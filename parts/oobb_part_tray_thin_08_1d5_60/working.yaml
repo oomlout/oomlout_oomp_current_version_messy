@@ -1,3 +1,223 @@
+bip_39_word_dash_1: robust
+bip_39_word_dash_10: robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans
+bip_39_word_dash_11: robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans-detail
+bip_39_word_dash_12: robust-donor-person-sauce-recycle-water-visual-clever-inside-jeans-detail-acquire
+bip_39_word_dash_2: robust-donor
+bip_39_word_dash_3: robust-donor-person
+bip_39_word_dash_4: robust-donor-person-sauce
+bip_39_word_dash_5: robust-donor-person-sauce-recycle
+bip_39_word_dash_6: robust-donor-person-sauce-recycle-water
+bip_39_word_dash_7: robust-donor-person-sauce-recycle-water-visual
+bip_39_word_dash_8: robust-donor-person-sauce-recycle-water-visual-clever
+bip_39_word_dash_9: robust-donor-person-sauce-recycle-water-visual-clever-inside
+bip_39_word_new_br_1: robust
+bip_39_word_new_br_10: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans
+bip_39_word_new_br_11: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans<br>detail
+bip_39_word_new_br_12: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside<br>jeans<br>detail<br>acquire
+bip_39_word_new_br_2: robust<br>donor
+bip_39_word_new_br_3: robust<br>donor<br>person
+bip_39_word_new_br_4: robust<br>donor<br>person<br>sauce
+bip_39_word_new_br_5: robust<br>donor<br>person<br>sauce<br>recycle
+bip_39_word_new_br_6: robust<br>donor<br>person<br>sauce<br>recycle<br>water
+bip_39_word_new_br_7: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual
+bip_39_word_new_br_8: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever
+bip_39_word_new_br_9: robust<br>donor<br>person<br>sauce<br>recycle<br>water<br>visual<br>clever<br>inside
+bip_39_word_new_line_1: robust
+bip_39_word_new_line_10: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual
+
+  clever
+
+  inside
+
+  jeans'
+bip_39_word_new_line_11: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual
+
+  clever
+
+  inside
+
+  jeans
+
+  detail'
+bip_39_word_new_line_12: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual
+
+  clever
+
+  inside
+
+  jeans
+
+  detail
+
+  acquire'
+bip_39_word_new_line_2: 'robust
+
+  donor'
+bip_39_word_new_line_3: 'robust
+
+  donor
+
+  person'
+bip_39_word_new_line_4: 'robust
+
+  donor
+
+  person
+
+  sauce'
+bip_39_word_new_line_5: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle'
+bip_39_word_new_line_6: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water'
+bip_39_word_new_line_7: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual'
+bip_39_word_new_line_8: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual
+
+  clever'
+bip_39_word_new_line_9: 'robust
+
+  donor
+
+  person
+
+  sauce
+
+  recycle
+
+  water
+
+  visual
+
+  clever
+
+  inside'
+bip_39_word_no_space_1: robust
+bip_39_word_no_space_10: robustdonorpersonsaucerecyclewatervisualcleverinsidejeans
+bip_39_word_no_space_11: robustdonorpersonsaucerecyclewatervisualcleverinsidejeansdetail
+bip_39_word_no_space_12: robustdonorpersonsaucerecyclewatervisualcleverinsidejeansdetailacquire
+bip_39_word_no_space_2: robustdonor
+bip_39_word_no_space_3: robustdonorperson
+bip_39_word_no_space_4: robustdonorpersonsauce
+bip_39_word_no_space_5: robustdonorpersonsaucerecycle
+bip_39_word_no_space_6: robustdonorpersonsaucerecyclewater
+bip_39_word_no_space_7: robustdonorpersonsaucerecyclewatervisual
+bip_39_word_no_space_8: robustdonorpersonsaucerecyclewatervisualclever
+bip_39_word_no_space_9: robustdonorpersonsaucerecyclewatervisualcleverinside
+bip_39_word_space_0:
+- robust
+- donor
+- person
+- sauce
+- recycle
+- water
+- visual
+- clever
+- inside
+- jeans
+- detail
+- acquire
+bip_39_word_space_1: robust
+bip_39_word_space_10: robust donor person sauce recycle water visual clever inside
+  jeans
+bip_39_word_space_11: robust donor person sauce recycle water visual clever inside
+  jeans detail
+bip_39_word_space_12: robust donor person sauce recycle water visual clever inside
+  jeans detail acquire
+bip_39_word_space_2: robust donor
+bip_39_word_space_3: robust donor person
+bip_39_word_space_4: robust donor person sauce
+bip_39_word_space_5: robust donor person sauce recycle
+bip_39_word_space_6: robust donor person sauce recycle water
+bip_39_word_space_7: robust donor person sauce recycle water visual
+bip_39_word_space_8: robust donor person sauce recycle water visual clever
+bip_39_word_space_9: robust donor person sauce recycle water visual clever inside
+bip_39_word_underscore_1: robust
+bip_39_word_underscore_10: robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans
+bip_39_word_underscore_11: robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans_detail
+bip_39_word_underscore_12: robust_donor_person_sauce_recycle_water_visual_clever_inside_jeans_detail_acquire
+bip_39_word_underscore_2: robust_donor
+bip_39_word_underscore_3: robust_donor_person
+bip_39_word_underscore_4: robust_donor_person_sauce
+bip_39_word_underscore_5: robust_donor_person_sauce_recycle
+bip_39_word_underscore_6: robust_donor_person_sauce_recycle_water
+bip_39_word_underscore_7: robust_donor_person_sauce_recycle_water_visual
+bip_39_word_underscore_8: robust_donor_person_sauce_recycle_water_visual_clever
+bip_39_word_underscore_9: robust_donor_person_sauce_recycle_water_visual_clever_inside
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_08_1d5_60
 id_no_color: 081d560
 id_no_size: 08_1d5_60
 id_no_type: tray_thin_08_1d5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_1d5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_1d5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_1d5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201cf4t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201cf4t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201cf4t
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 081D560
 name_no_size: 08 1D5 60
 name_no_size_short: 08 1D5 60
 name_no_type: Tray Thin 08 1D5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_1d5_60
 oomp_word: lips bell hearts
 oomp_word_emoji: ':lips: :bell: :hearts:'

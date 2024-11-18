@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Paper Sheet A4 210 mm Width 297 mm Height 250 Grams Per Meter Square
+* name_short: 
 ### id
 * oomp_id: paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square
   * classification: paper
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bell: :koala: :tomato:
 * md5_6_alpha: 4ovrn
 * md5_6: 783ad3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204ovrn)
+[2x1](http://192.168.1.242:1112/?label=oomp%204ovrn)
+[6x4](http://192.168.1.55:1112/?label=oomp%204ovrn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)                             
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+|  | 0.10858333333333334 |  |  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -262,7 +304,14 @@ turtle |
 | id_no_color | 250gramspermetersquare |  
 | id_no_size | 250_grams_per_meter_square |  
 | id_no_type | a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204ovrn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204ovrn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204ovrn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -287,6 +336,7 @@ turtle |
 | name_no_size | 250 Grams Per Meter Square |  
 | name_no_size_short | 250 Grams Per Meter Square |  
 | name_no_type | A4 210 mm Width 297 mm Height 250 Grams Per Meter Square |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
 | oomp_word | bell koala tomato |  
 | oomp_word_emoji | :bell: :koala: :tomato: |  

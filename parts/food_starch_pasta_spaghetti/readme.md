@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 pasta_spaghetti
 
+### name
+* name: Food Starch Pasta Spaghetti
+* name_short: Pasta Spaghetti
 ### id
 * oomp_id: food_starch_pasta_spaghetti
   * classification: food

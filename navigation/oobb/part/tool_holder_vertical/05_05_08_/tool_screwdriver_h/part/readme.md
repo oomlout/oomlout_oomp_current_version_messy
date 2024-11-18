@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tool Holder Vertical 05 05 08  Tool Screwdriver H
+* name_short: 
 ### id
 * oomp_id: oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pizza: :blush: :six:
 * md5_6_alpha: 752if
 * md5_6: b702f7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20752if)
+[2x1](http://192.168.1.242:1112/?label=oomp%20752if)
+[6x4](http://192.168.1.55:1112/?label=oomp%20752if)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ flip |
 | id_no_color | 050508toolscrewdriverh |  
 | id_no_size | 05_05_08__tool_screwdriver_h |  
 | id_no_type | tool_holder_vertical_05_05_08__tool_screwdriver_h |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20752if |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20752if |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20752if |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ flip |
 | name_no_size | 05 05 08  Tool Screwdriver H |  
 | name_no_size_short | 05 05 08  Tool Screwdriver H |  
 | name_no_type | Tool Holder Vertical 05 05 08  Tool Screwdriver H |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_05_05_08__tool_screwdriver_h |  
 | oomp_word | pizza blush six |  
 | oomp_word_emoji | :pizza: :blush: :six: |  

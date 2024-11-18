@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Monitor 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb
+* name_short: 
 ### id
 * oomp_id: computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb
   * classification: computer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ram: :pizza: :envelope:
 * md5_6_alpha: 3dt3e
 * md5_6: 56b78a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203dt3e)
+[2x1](http://192.168.1.242:1112/?label=oomp%203dt3e)
+[6x4](http://192.168.1.55:1112/?label=oomp%203dt3e)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ achieve |
 | id_no_color | 1920pixelwidth1080pixelheightdelle2211hb |  
 | id_no_size | 1920_pixel_width_1080_pixel_height_dell_e2211hb |  
 | id_no_type | 558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203dt3e |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203dt3e |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203dt3e |  
 | manufacturer | dell |  
 | manufacturer_capital | Dell |  
 | manufacturer_first_letter | d |  
@@ -308,6 +341,7 @@ achieve |
 | name_no_size | 1920 Pixel Width 1080 Pixel Height Dell E2211Hb |  
 | name_no_size_short | 1920 Pixel Width 1080 Pixel Height Dell E2211Hb |  
 | name_no_type | 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb |  
 | oomp_word | ram pizza envelope |  
 | oomp_word_emoji | :ram: :pizza: :envelope: |  

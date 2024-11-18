@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Capacitor 8 mm Diameter 6 5 mm Tall Electrolytic 220 Micro Farad 10 Volt
+* name_short: 
 ### id
 * oomp_id: electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :elephant: :cloud: :eyes:
 * md5_6_alpha: 2mckm
 * md5_6: 432b26
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202mckm)
+[2x1](http://192.168.1.242:1112/?label=oomp%202mckm)
+[6x4](http://192.168.1.55:1112/?label=oomp%202mckm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -307,7 +333,14 @@ save |
 | id_no_size | electrolytic_220_micro_farad_10_volt |  
 | id_no_type | 8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt |  
 | kicad_reference | C |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202mckm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202mckm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202mckm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -332,6 +365,7 @@ save |
 | name_no_size | Electrolytic 220 Micro Farad 10 Volt |  
 | name_no_size_short | Electrolytic 220uf Micro Farad 10 Volt |  
 | name_no_type | 8 mm Diameter 6 5 mm Tall Electrolytic 220 Micro Farad 10 Volt |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_capacitor_8_mm_diameter_6_5_mm_tall_electrolytic_220_micro_farad_10_volt |  
 | oomp_word | elephant cloud eyes |  
 | oomp_word_emoji | :elephant: :cloud: :eyes: |  

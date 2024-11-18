@@ -1,3 +1,222 @@
+bip_39_word_dash_1: initial
+bip_39_word_dash_10: initial-receive-term-rail-civil-broken-prepare-pepper-lift-spy
+bip_39_word_dash_11: initial-receive-term-rail-civil-broken-prepare-pepper-lift-spy-debate
+bip_39_word_dash_12: initial-receive-term-rail-civil-broken-prepare-pepper-lift-spy-debate-arrow
+bip_39_word_dash_2: initial-receive
+bip_39_word_dash_3: initial-receive-term
+bip_39_word_dash_4: initial-receive-term-rail
+bip_39_word_dash_5: initial-receive-term-rail-civil
+bip_39_word_dash_6: initial-receive-term-rail-civil-broken
+bip_39_word_dash_7: initial-receive-term-rail-civil-broken-prepare
+bip_39_word_dash_8: initial-receive-term-rail-civil-broken-prepare-pepper
+bip_39_word_dash_9: initial-receive-term-rail-civil-broken-prepare-pepper-lift
+bip_39_word_new_br_1: initial
+bip_39_word_new_br_10: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy
+bip_39_word_new_br_11: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate
+bip_39_word_new_br_12: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift<br>spy<br>debate<br>arrow
+bip_39_word_new_br_2: initial<br>receive
+bip_39_word_new_br_3: initial<br>receive<br>term
+bip_39_word_new_br_4: initial<br>receive<br>term<br>rail
+bip_39_word_new_br_5: initial<br>receive<br>term<br>rail<br>civil
+bip_39_word_new_br_6: initial<br>receive<br>term<br>rail<br>civil<br>broken
+bip_39_word_new_br_7: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare
+bip_39_word_new_br_8: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper
+bip_39_word_new_br_9: initial<br>receive<br>term<br>rail<br>civil<br>broken<br>prepare<br>pepper<br>lift
+bip_39_word_new_line_1: initial
+bip_39_word_new_line_10: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy'
+bip_39_word_new_line_11: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy
+
+  debate'
+bip_39_word_new_line_12: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift
+
+  spy
+
+  debate
+
+  arrow'
+bip_39_word_new_line_2: 'initial
+
+  receive'
+bip_39_word_new_line_3: 'initial
+
+  receive
+
+  term'
+bip_39_word_new_line_4: 'initial
+
+  receive
+
+  term
+
+  rail'
+bip_39_word_new_line_5: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil'
+bip_39_word_new_line_6: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken'
+bip_39_word_new_line_7: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare'
+bip_39_word_new_line_8: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper'
+bip_39_word_new_line_9: 'initial
+
+  receive
+
+  term
+
+  rail
+
+  civil
+
+  broken
+
+  prepare
+
+  pepper
+
+  lift'
+bip_39_word_no_space_1: initial
+bip_39_word_no_space_10: initialreceivetermrailcivilbrokenpreparepepperliftspy
+bip_39_word_no_space_11: initialreceivetermrailcivilbrokenpreparepepperliftspydebate
+bip_39_word_no_space_12: initialreceivetermrailcivilbrokenpreparepepperliftspydebatearrow
+bip_39_word_no_space_2: initialreceive
+bip_39_word_no_space_3: initialreceiveterm
+bip_39_word_no_space_4: initialreceivetermrail
+bip_39_word_no_space_5: initialreceivetermrailcivil
+bip_39_word_no_space_6: initialreceivetermrailcivilbroken
+bip_39_word_no_space_7: initialreceivetermrailcivilbrokenprepare
+bip_39_word_no_space_8: initialreceivetermrailcivilbrokenpreparepepper
+bip_39_word_no_space_9: initialreceivetermrailcivilbrokenpreparepepperlift
+bip_39_word_space_0:
+- initial
+- receive
+- term
+- rail
+- civil
+- broken
+- prepare
+- pepper
+- lift
+- spy
+- debate
+- arrow
+bip_39_word_space_1: initial
+bip_39_word_space_10: initial receive term rail civil broken prepare pepper lift spy
+bip_39_word_space_11: initial receive term rail civil broken prepare pepper lift spy
+  debate
+bip_39_word_space_12: initial receive term rail civil broken prepare pepper lift spy
+  debate arrow
+bip_39_word_space_2: initial receive
+bip_39_word_space_3: initial receive term
+bip_39_word_space_4: initial receive term rail
+bip_39_word_space_5: initial receive term rail civil
+bip_39_word_space_6: initial receive term rail civil broken
+bip_39_word_space_7: initial receive term rail civil broken prepare
+bip_39_word_space_8: initial receive term rail civil broken prepare pepper
+bip_39_word_space_9: initial receive term rail civil broken prepare pepper lift
+bip_39_word_underscore_1: initial
+bip_39_word_underscore_10: initial_receive_term_rail_civil_broken_prepare_pepper_lift_spy
+bip_39_word_underscore_11: initial_receive_term_rail_civil_broken_prepare_pepper_lift_spy_debate
+bip_39_word_underscore_12: initial_receive_term_rail_civil_broken_prepare_pepper_lift_spy_debate_arrow
+bip_39_word_underscore_2: initial_receive
+bip_39_word_underscore_3: initial_receive_term
+bip_39_word_underscore_4: initial_receive_term_rail
+bip_39_word_underscore_5: initial_receive_term_rail_civil
+bip_39_word_underscore_6: initial_receive_term_rail_civil_broken
+bip_39_word_underscore_7: initial_receive_term_rail_civil_broken_prepare
+bip_39_word_underscore_8: initial_receive_term_rail_civil_broken_prepare_pepper
+bip_39_word_underscore_9: initial_receive_term_rail_civil_broken_prepare_pepper_lift
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 8_mm_length
 id_no_size: black_8_mm_length
 id_no_type: 1_mm_diameter_wire_black_8_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207wcz8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207wcz8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207wcz8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -133,6 +359,7 @@ name_no_color: 8 mm Length
 name_no_size: Black 8 mm Length
 name_no_size_short: Black 8 Mm Length
 name_no_type: 1 mm Diameter Wire Black 8 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length
 oomp_word: cherries squirrel coffee
 oomp_word_emoji: ':cherries: :squirrel: :coffee:'

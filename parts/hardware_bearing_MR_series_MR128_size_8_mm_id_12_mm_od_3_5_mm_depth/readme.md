@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr128 Size 8 mm ID 12 mm OD 3 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
   * classification: hardware

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: razor
+bip_39_word_dash_10: razor-state-eye-matter-comic-betray-gentle-nominee-party-elite
+bip_39_word_dash_11: razor-state-eye-matter-comic-betray-gentle-nominee-party-elite-bulb
+bip_39_word_dash_12: razor-state-eye-matter-comic-betray-gentle-nominee-party-elite-bulb-acquire
+bip_39_word_dash_2: razor-state
+bip_39_word_dash_3: razor-state-eye
+bip_39_word_dash_4: razor-state-eye-matter
+bip_39_word_dash_5: razor-state-eye-matter-comic
+bip_39_word_dash_6: razor-state-eye-matter-comic-betray
+bip_39_word_dash_7: razor-state-eye-matter-comic-betray-gentle
+bip_39_word_dash_8: razor-state-eye-matter-comic-betray-gentle-nominee
+bip_39_word_dash_9: razor-state-eye-matter-comic-betray-gentle-nominee-party
+bip_39_word_new_br_1: razor
+bip_39_word_new_br_10: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party<br>elite
+bip_39_word_new_br_11: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party<br>elite<br>bulb
+bip_39_word_new_br_12: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party<br>elite<br>bulb<br>acquire
+bip_39_word_new_br_2: razor<br>state
+bip_39_word_new_br_3: razor<br>state<br>eye
+bip_39_word_new_br_4: razor<br>state<br>eye<br>matter
+bip_39_word_new_br_5: razor<br>state<br>eye<br>matter<br>comic
+bip_39_word_new_br_6: razor<br>state<br>eye<br>matter<br>comic<br>betray
+bip_39_word_new_br_7: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle
+bip_39_word_new_br_8: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee
+bip_39_word_new_br_9: razor<br>state<br>eye<br>matter<br>comic<br>betray<br>gentle<br>nominee<br>party
+bip_39_word_new_line_1: razor
+bip_39_word_new_line_10: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle
+
+  nominee
+
+  party
+
+  elite'
+bip_39_word_new_line_11: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle
+
+  nominee
+
+  party
+
+  elite
+
+  bulb'
+bip_39_word_new_line_12: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle
+
+  nominee
+
+  party
+
+  elite
+
+  bulb
+
+  acquire'
+bip_39_word_new_line_2: 'razor
+
+  state'
+bip_39_word_new_line_3: 'razor
+
+  state
+
+  eye'
+bip_39_word_new_line_4: 'razor
+
+  state
+
+  eye
+
+  matter'
+bip_39_word_new_line_5: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic'
+bip_39_word_new_line_6: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray'
+bip_39_word_new_line_7: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle'
+bip_39_word_new_line_8: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle
+
+  nominee'
+bip_39_word_new_line_9: 'razor
+
+  state
+
+  eye
+
+  matter
+
+  comic
+
+  betray
+
+  gentle
+
+  nominee
+
+  party'
+bip_39_word_no_space_1: razor
+bip_39_word_no_space_10: razorstateeyemattercomicbetraygentlenomineepartyelite
+bip_39_word_no_space_11: razorstateeyemattercomicbetraygentlenomineepartyelitebulb
+bip_39_word_no_space_12: razorstateeyemattercomicbetraygentlenomineepartyelitebulbacquire
+bip_39_word_no_space_2: razorstate
+bip_39_word_no_space_3: razorstateeye
+bip_39_word_no_space_4: razorstateeyematter
+bip_39_word_no_space_5: razorstateeyemattercomic
+bip_39_word_no_space_6: razorstateeyemattercomicbetray
+bip_39_word_no_space_7: razorstateeyemattercomicbetraygentle
+bip_39_word_no_space_8: razorstateeyemattercomicbetraygentlenominee
+bip_39_word_no_space_9: razorstateeyemattercomicbetraygentlenomineeparty
+bip_39_word_space_0:
+- razor
+- state
+- eye
+- matter
+- comic
+- betray
+- gentle
+- nominee
+- party
+- elite
+- bulb
+- acquire
+bip_39_word_space_1: razor
+bip_39_word_space_10: razor state eye matter comic betray gentle nominee party elite
+bip_39_word_space_11: razor state eye matter comic betray gentle nominee party elite
+  bulb
+bip_39_word_space_12: razor state eye matter comic betray gentle nominee party elite
+  bulb acquire
+bip_39_word_space_2: razor state
+bip_39_word_space_3: razor state eye
+bip_39_word_space_4: razor state eye matter
+bip_39_word_space_5: razor state eye matter comic
+bip_39_word_space_6: razor state eye matter comic betray
+bip_39_word_space_7: razor state eye matter comic betray gentle
+bip_39_word_space_8: razor state eye matter comic betray gentle nominee
+bip_39_word_space_9: razor state eye matter comic betray gentle nominee party
+bip_39_word_underscore_1: razor
+bip_39_word_underscore_10: razor_state_eye_matter_comic_betray_gentle_nominee_party_elite
+bip_39_word_underscore_11: razor_state_eye_matter_comic_betray_gentle_nominee_party_elite_bulb
+bip_39_word_underscore_12: razor_state_eye_matter_comic_betray_gentle_nominee_party_elite_bulb_acquire
+bip_39_word_underscore_2: razor_state
+bip_39_word_underscore_3: razor_state_eye
+bip_39_word_underscore_4: razor_state_eye_matter
+bip_39_word_underscore_5: razor_state_eye_matter_comic
+bip_39_word_underscore_6: razor_state_eye_matter_comic_betray
+bip_39_word_underscore_7: razor_state_eye_matter_comic_betray_gentle
+bip_39_word_underscore_8: razor_state_eye_matter_comic_betray_gentle_nominee
+bip_39_word_underscore_9: razor_state_eye_matter_comic_betray_gentle_nominee_party
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_06_08_24
 id_no_color: 060824
 id_no_size: 06_08_24
 id_no_type: tray_06_08_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_08_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_08_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_08_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201c34i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201c34i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201c34i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 060824
 name_no_size: 06 08 24
 name_no_size_short: 06 08 24
 name_no_type: Tray 06 08 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_08_24
 oomp_word: lips bear pineapple
 oomp_word_emoji: ':lips: :bear: :pineapple:'

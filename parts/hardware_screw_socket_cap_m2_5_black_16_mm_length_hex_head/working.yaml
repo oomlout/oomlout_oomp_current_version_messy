@@ -1,3 +1,221 @@
+bip_39_word_dash_1: release
+bip_39_word_dash_10: release-evil-split-clog-lift-sight-earn-main-meat-uniform
+bip_39_word_dash_11: release-evil-split-clog-lift-sight-earn-main-meat-uniform-cricket
+bip_39_word_dash_12: release-evil-split-clog-lift-sight-earn-main-meat-uniform-cricket-adult
+bip_39_word_dash_2: release-evil
+bip_39_word_dash_3: release-evil-split
+bip_39_word_dash_4: release-evil-split-clog
+bip_39_word_dash_5: release-evil-split-clog-lift
+bip_39_word_dash_6: release-evil-split-clog-lift-sight
+bip_39_word_dash_7: release-evil-split-clog-lift-sight-earn
+bip_39_word_dash_8: release-evil-split-clog-lift-sight-earn-main
+bip_39_word_dash_9: release-evil-split-clog-lift-sight-earn-main-meat
+bip_39_word_new_br_1: release
+bip_39_word_new_br_10: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform
+bip_39_word_new_br_11: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket
+bip_39_word_new_br_12: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat<br>uniform<br>cricket<br>adult
+bip_39_word_new_br_2: release<br>evil
+bip_39_word_new_br_3: release<br>evil<br>split
+bip_39_word_new_br_4: release<br>evil<br>split<br>clog
+bip_39_word_new_br_5: release<br>evil<br>split<br>clog<br>lift
+bip_39_word_new_br_6: release<br>evil<br>split<br>clog<br>lift<br>sight
+bip_39_word_new_br_7: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn
+bip_39_word_new_br_8: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main
+bip_39_word_new_br_9: release<br>evil<br>split<br>clog<br>lift<br>sight<br>earn<br>main<br>meat
+bip_39_word_new_line_1: release
+bip_39_word_new_line_10: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform'
+bip_39_word_new_line_11: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform
+
+  cricket'
+bip_39_word_new_line_12: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat
+
+  uniform
+
+  cricket
+
+  adult'
+bip_39_word_new_line_2: 'release
+
+  evil'
+bip_39_word_new_line_3: 'release
+
+  evil
+
+  split'
+bip_39_word_new_line_4: 'release
+
+  evil
+
+  split
+
+  clog'
+bip_39_word_new_line_5: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift'
+bip_39_word_new_line_6: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight'
+bip_39_word_new_line_7: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn'
+bip_39_word_new_line_8: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main'
+bip_39_word_new_line_9: 'release
+
+  evil
+
+  split
+
+  clog
+
+  lift
+
+  sight
+
+  earn
+
+  main
+
+  meat'
+bip_39_word_no_space_1: release
+bip_39_word_no_space_10: releaseevilsplitclogliftsightearnmainmeatuniform
+bip_39_word_no_space_11: releaseevilsplitclogliftsightearnmainmeatuniformcricket
+bip_39_word_no_space_12: releaseevilsplitclogliftsightearnmainmeatuniformcricketadult
+bip_39_word_no_space_2: releaseevil
+bip_39_word_no_space_3: releaseevilsplit
+bip_39_word_no_space_4: releaseevilsplitclog
+bip_39_word_no_space_5: releaseevilsplitcloglift
+bip_39_word_no_space_6: releaseevilsplitclogliftsight
+bip_39_word_no_space_7: releaseevilsplitclogliftsightearn
+bip_39_word_no_space_8: releaseevilsplitclogliftsightearnmain
+bip_39_word_no_space_9: releaseevilsplitclogliftsightearnmainmeat
+bip_39_word_space_0:
+- release
+- evil
+- split
+- clog
+- lift
+- sight
+- earn
+- main
+- meat
+- uniform
+- cricket
+- adult
+bip_39_word_space_1: release
+bip_39_word_space_10: release evil split clog lift sight earn main meat uniform
+bip_39_word_space_11: release evil split clog lift sight earn main meat uniform cricket
+bip_39_word_space_12: release evil split clog lift sight earn main meat uniform cricket
+  adult
+bip_39_word_space_2: release evil
+bip_39_word_space_3: release evil split
+bip_39_word_space_4: release evil split clog
+bip_39_word_space_5: release evil split clog lift
+bip_39_word_space_6: release evil split clog lift sight
+bip_39_word_space_7: release evil split clog lift sight earn
+bip_39_word_space_8: release evil split clog lift sight earn main
+bip_39_word_space_9: release evil split clog lift sight earn main meat
+bip_39_word_underscore_1: release
+bip_39_word_underscore_10: release_evil_split_clog_lift_sight_earn_main_meat_uniform
+bip_39_word_underscore_11: release_evil_split_clog_lift_sight_earn_main_meat_uniform_cricket
+bip_39_word_underscore_12: release_evil_split_clog_lift_sight_earn_main_meat_uniform_cricket_adult
+bip_39_word_underscore_2: release_evil
+bip_39_word_underscore_3: release_evil_split
+bip_39_word_underscore_4: release_evil_split_clog
+bip_39_word_underscore_5: release_evil_split_clog_lift
+bip_39_word_underscore_6: release_evil_split_clog_lift_sight
+bip_39_word_underscore_7: release_evil_split_clog_lift_sight_earn
+bip_39_word_underscore_8: release_evil_split_clog_lift_sight_earn_main
+bip_39_word_underscore_9: release_evil_split_clog_lift_sight_earn_main_meat
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +351,14 @@ id_no_color: 16_mm_length_hex_head
 id_no_size: black_16_mm_length_hex_head
 id_no_type: m2_5_black_16_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_5_black_16_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_5_black_16_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_5_black_16_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202cuez
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202cuez
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202cuez
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +384,27 @@ name_no_color: 16 mm Length Hex Head
 name_no_size: Black 16 mm Length Hex Head
 name_no_size_short: Black 16 Mm Length Hex Head
 name_no_type: M2 5 Black 16 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 2cu
+oomlout_bolt_md5_6_alpha_first_3_upper: 2CU
+oomlout_bolt_md5_6_alpha_last_3: ez
+oomlout_bolt_md5_6_alpha_last_3_upper: EZ
+oomlout_bolt_md5_6_first_3: 3c6
+oomlout_bolt_md5_6_first_3_upper: 3C6
+oomlout_bolt_md5_6_last_3: 6fb
+oomlout_bolt_md5_6_last_3_upper: 6FB
+oomlout_bolt_name: Socket Cap M2_5X16 mm Black (Hex Head)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc2d5b16h
+oomlout_short_code_upper: SC2D5B16H
 oomp_key: oomp_hardware_screw_socket_cap_m2_5_black_16_mm_length_hex_head
 oomp_word: pig leaves ok
 oomp_word_emoji: ':pig: :leaves: :ok:'

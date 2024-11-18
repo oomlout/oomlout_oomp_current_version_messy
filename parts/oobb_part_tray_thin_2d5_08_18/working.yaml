@@ -1,3 +1,222 @@
+bip_39_word_dash_1: other
+bip_39_word_dash_10: other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn
+bip_39_word_dash_11: other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn-hat
+bip_39_word_dash_12: other-raccoon-lawn-spoon-trade-before-enforce-fame-auto-horn-hat-amount
+bip_39_word_dash_2: other-raccoon
+bip_39_word_dash_3: other-raccoon-lawn
+bip_39_word_dash_4: other-raccoon-lawn-spoon
+bip_39_word_dash_5: other-raccoon-lawn-spoon-trade
+bip_39_word_dash_6: other-raccoon-lawn-spoon-trade-before
+bip_39_word_dash_7: other-raccoon-lawn-spoon-trade-before-enforce
+bip_39_word_dash_8: other-raccoon-lawn-spoon-trade-before-enforce-fame
+bip_39_word_dash_9: other-raccoon-lawn-spoon-trade-before-enforce-fame-auto
+bip_39_word_new_br_1: other
+bip_39_word_new_br_10: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn
+bip_39_word_new_br_11: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat
+bip_39_word_new_br_12: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto<br>horn<br>hat<br>amount
+bip_39_word_new_br_2: other<br>raccoon
+bip_39_word_new_br_3: other<br>raccoon<br>lawn
+bip_39_word_new_br_4: other<br>raccoon<br>lawn<br>spoon
+bip_39_word_new_br_5: other<br>raccoon<br>lawn<br>spoon<br>trade
+bip_39_word_new_br_6: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before
+bip_39_word_new_br_7: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce
+bip_39_word_new_br_8: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame
+bip_39_word_new_br_9: other<br>raccoon<br>lawn<br>spoon<br>trade<br>before<br>enforce<br>fame<br>auto
+bip_39_word_new_line_1: other
+bip_39_word_new_line_10: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce
+
+  fame
+
+  auto
+
+  horn'
+bip_39_word_new_line_11: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce
+
+  fame
+
+  auto
+
+  horn
+
+  hat'
+bip_39_word_new_line_12: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce
+
+  fame
+
+  auto
+
+  horn
+
+  hat
+
+  amount'
+bip_39_word_new_line_2: 'other
+
+  raccoon'
+bip_39_word_new_line_3: 'other
+
+  raccoon
+
+  lawn'
+bip_39_word_new_line_4: 'other
+
+  raccoon
+
+  lawn
+
+  spoon'
+bip_39_word_new_line_5: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade'
+bip_39_word_new_line_6: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before'
+bip_39_word_new_line_7: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce'
+bip_39_word_new_line_8: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce
+
+  fame'
+bip_39_word_new_line_9: 'other
+
+  raccoon
+
+  lawn
+
+  spoon
+
+  trade
+
+  before
+
+  enforce
+
+  fame
+
+  auto'
+bip_39_word_no_space_1: other
+bip_39_word_no_space_10: otherraccoonlawnspoontradebeforeenforcefameautohorn
+bip_39_word_no_space_11: otherraccoonlawnspoontradebeforeenforcefameautohornhat
+bip_39_word_no_space_12: otherraccoonlawnspoontradebeforeenforcefameautohornhatamount
+bip_39_word_no_space_2: otherraccoon
+bip_39_word_no_space_3: otherraccoonlawn
+bip_39_word_no_space_4: otherraccoonlawnspoon
+bip_39_word_no_space_5: otherraccoonlawnspoontrade
+bip_39_word_no_space_6: otherraccoonlawnspoontradebefore
+bip_39_word_no_space_7: otherraccoonlawnspoontradebeforeenforce
+bip_39_word_no_space_8: otherraccoonlawnspoontradebeforeenforcefame
+bip_39_word_no_space_9: otherraccoonlawnspoontradebeforeenforcefameauto
+bip_39_word_space_0:
+- other
+- raccoon
+- lawn
+- spoon
+- trade
+- before
+- enforce
+- fame
+- auto
+- horn
+- hat
+- amount
+bip_39_word_space_1: other
+bip_39_word_space_10: other raccoon lawn spoon trade before enforce fame auto horn
+bip_39_word_space_11: other raccoon lawn spoon trade before enforce fame auto horn
+  hat
+bip_39_word_space_12: other raccoon lawn spoon trade before enforce fame auto horn
+  hat amount
+bip_39_word_space_2: other raccoon
+bip_39_word_space_3: other raccoon lawn
+bip_39_word_space_4: other raccoon lawn spoon
+bip_39_word_space_5: other raccoon lawn spoon trade
+bip_39_word_space_6: other raccoon lawn spoon trade before
+bip_39_word_space_7: other raccoon lawn spoon trade before enforce
+bip_39_word_space_8: other raccoon lawn spoon trade before enforce fame
+bip_39_word_space_9: other raccoon lawn spoon trade before enforce fame auto
+bip_39_word_underscore_1: other
+bip_39_word_underscore_10: other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn
+bip_39_word_underscore_11: other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn_hat
+bip_39_word_underscore_12: other_raccoon_lawn_spoon_trade_before_enforce_fame_auto_horn_hat_amount
+bip_39_word_underscore_2: other_raccoon
+bip_39_word_underscore_3: other_raccoon_lawn
+bip_39_word_underscore_4: other_raccoon_lawn_spoon
+bip_39_word_underscore_5: other_raccoon_lawn_spoon_trade
+bip_39_word_underscore_6: other_raccoon_lawn_spoon_trade_before
+bip_39_word_underscore_7: other_raccoon_lawn_spoon_trade_before_enforce
+bip_39_word_underscore_8: other_raccoon_lawn_spoon_trade_before_enforce_fame
+bip_39_word_underscore_9: other_raccoon_lawn_spoon_trade_before_enforce_fame_auto
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_08_18
 id_no_color: 2d50818
 id_no_size: 2d5_08_18
 id_no_type: tray_thin_2d5_08_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_08_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_08_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_08_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2050ye3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2050ye3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2050ye3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50818
 name_no_size: 2D5 08 18
 name_no_size_short: 2D5 08 18
 name_no_type: Tray Thin 2D5 08 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_08_18
 oomp_word: hourglass tomato muscle
 oomp_word_emoji: ':hourglass: :tomato: :muscle:'

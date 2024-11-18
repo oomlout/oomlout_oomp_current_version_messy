@@ -1,3 +1,222 @@
+bip_39_word_dash_1: enter
+bip_39_word_dash_10: enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper
+bip_39_word_dash_11: enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper-coin
+bip_39_word_dash_12: enter-panda-office-warm-embark-clutch-lyrics-mom-siege-upper-coin-admit
+bip_39_word_dash_2: enter-panda
+bip_39_word_dash_3: enter-panda-office
+bip_39_word_dash_4: enter-panda-office-warm
+bip_39_word_dash_5: enter-panda-office-warm-embark
+bip_39_word_dash_6: enter-panda-office-warm-embark-clutch
+bip_39_word_dash_7: enter-panda-office-warm-embark-clutch-lyrics
+bip_39_word_dash_8: enter-panda-office-warm-embark-clutch-lyrics-mom
+bip_39_word_dash_9: enter-panda-office-warm-embark-clutch-lyrics-mom-siege
+bip_39_word_new_br_1: enter
+bip_39_word_new_br_10: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper
+bip_39_word_new_br_11: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper<br>coin
+bip_39_word_new_br_12: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege<br>upper<br>coin<br>admit
+bip_39_word_new_br_2: enter<br>panda
+bip_39_word_new_br_3: enter<br>panda<br>office
+bip_39_word_new_br_4: enter<br>panda<br>office<br>warm
+bip_39_word_new_br_5: enter<br>panda<br>office<br>warm<br>embark
+bip_39_word_new_br_6: enter<br>panda<br>office<br>warm<br>embark<br>clutch
+bip_39_word_new_br_7: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics
+bip_39_word_new_br_8: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom
+bip_39_word_new_br_9: enter<br>panda<br>office<br>warm<br>embark<br>clutch<br>lyrics<br>mom<br>siege
+bip_39_word_new_line_1: enter
+bip_39_word_new_line_10: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics
+
+  mom
+
+  siege
+
+  upper'
+bip_39_word_new_line_11: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics
+
+  mom
+
+  siege
+
+  upper
+
+  coin'
+bip_39_word_new_line_12: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics
+
+  mom
+
+  siege
+
+  upper
+
+  coin
+
+  admit'
+bip_39_word_new_line_2: 'enter
+
+  panda'
+bip_39_word_new_line_3: 'enter
+
+  panda
+
+  office'
+bip_39_word_new_line_4: 'enter
+
+  panda
+
+  office
+
+  warm'
+bip_39_word_new_line_5: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark'
+bip_39_word_new_line_6: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch'
+bip_39_word_new_line_7: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics'
+bip_39_word_new_line_8: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics
+
+  mom'
+bip_39_word_new_line_9: 'enter
+
+  panda
+
+  office
+
+  warm
+
+  embark
+
+  clutch
+
+  lyrics
+
+  mom
+
+  siege'
+bip_39_word_no_space_1: enter
+bip_39_word_no_space_10: enterpandaofficewarmembarkclutchlyricsmomsiegeupper
+bip_39_word_no_space_11: enterpandaofficewarmembarkclutchlyricsmomsiegeuppercoin
+bip_39_word_no_space_12: enterpandaofficewarmembarkclutchlyricsmomsiegeuppercoinadmit
+bip_39_word_no_space_2: enterpanda
+bip_39_word_no_space_3: enterpandaoffice
+bip_39_word_no_space_4: enterpandaofficewarm
+bip_39_word_no_space_5: enterpandaofficewarmembark
+bip_39_word_no_space_6: enterpandaofficewarmembarkclutch
+bip_39_word_no_space_7: enterpandaofficewarmembarkclutchlyrics
+bip_39_word_no_space_8: enterpandaofficewarmembarkclutchlyricsmom
+bip_39_word_no_space_9: enterpandaofficewarmembarkclutchlyricsmomsiege
+bip_39_word_space_0:
+- enter
+- panda
+- office
+- warm
+- embark
+- clutch
+- lyrics
+- mom
+- siege
+- upper
+- coin
+- admit
+bip_39_word_space_1: enter
+bip_39_word_space_10: enter panda office warm embark clutch lyrics mom siege upper
+bip_39_word_space_11: enter panda office warm embark clutch lyrics mom siege upper
+  coin
+bip_39_word_space_12: enter panda office warm embark clutch lyrics mom siege upper
+  coin admit
+bip_39_word_space_2: enter panda
+bip_39_word_space_3: enter panda office
+bip_39_word_space_4: enter panda office warm
+bip_39_word_space_5: enter panda office warm embark
+bip_39_word_space_6: enter panda office warm embark clutch
+bip_39_word_space_7: enter panda office warm embark clutch lyrics
+bip_39_word_space_8: enter panda office warm embark clutch lyrics mom
+bip_39_word_space_9: enter panda office warm embark clutch lyrics mom siege
+bip_39_word_underscore_1: enter
+bip_39_word_underscore_10: enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper
+bip_39_word_underscore_11: enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper_coin
+bip_39_word_underscore_12: enter_panda_office_warm_embark_clutch_lyrics_mom_siege_upper_coin_admit
+bip_39_word_underscore_2: enter_panda
+bip_39_word_underscore_3: enter_panda_office
+bip_39_word_underscore_4: enter_panda_office_warm
+bip_39_word_underscore_5: enter_panda_office_warm_embark
+bip_39_word_underscore_6: enter_panda_office_warm_embark_clutch
+bip_39_word_underscore_7: enter_panda_office_warm_embark_clutch_lyrics
+bip_39_word_underscore_8: enter_panda_office_warm_embark_clutch_lyrics_mom
+bip_39_word_underscore_9: enter_panda_office_warm_embark_clutch_lyrics_mom_siege
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_03_27
 id_no_color: 090327
 id_no_size: 09_03_27
 id_no_type: tray_thin_09_03_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_03_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_03_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_03_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029ywr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029ywr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029ywr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090327
 name_no_size: 09 03 27
 name_no_size_short: 09 03 27
 name_no_type: Tray Thin 09 03 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_03_27
 oomp_word: koala goat ok
 oomp_word_emoji: ':koala: :goat: :ok:'

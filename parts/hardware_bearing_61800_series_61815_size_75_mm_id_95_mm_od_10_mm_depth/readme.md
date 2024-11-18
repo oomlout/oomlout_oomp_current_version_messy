@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61815 Size 75 mm ID 95 mm OD 10 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61815_size_75_mm_id_95_mm_od_10_mm_depth
   * classification: hardware

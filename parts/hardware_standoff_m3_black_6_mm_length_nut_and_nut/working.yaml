@@ -1,3 +1,221 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-about-aerobic-mad-air-fork-over-magic-code-escape
+bip_39_word_dash_11: special-about-aerobic-mad-air-fork-over-magic-code-escape-expire
+bip_39_word_dash_12: special-about-aerobic-mad-air-fork-over-magic-code-escape-expire-actress
+bip_39_word_dash_2: special-about
+bip_39_word_dash_3: special-about-aerobic
+bip_39_word_dash_4: special-about-aerobic-mad
+bip_39_word_dash_5: special-about-aerobic-mad-air
+bip_39_word_dash_6: special-about-aerobic-mad-air-fork
+bip_39_word_dash_7: special-about-aerobic-mad-air-fork-over
+bip_39_word_dash_8: special-about-aerobic-mad-air-fork-over-magic
+bip_39_word_dash_9: special-about-aerobic-mad-air-fork-over-magic-code
+bip_39_word_new_br_1: special
+bip_39_word_new_br_10: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape
+bip_39_word_new_br_11: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire
+bip_39_word_new_br_12: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code<br>escape<br>expire<br>actress
+bip_39_word_new_br_2: special<br>about
+bip_39_word_new_br_3: special<br>about<br>aerobic
+bip_39_word_new_br_4: special<br>about<br>aerobic<br>mad
+bip_39_word_new_br_5: special<br>about<br>aerobic<br>mad<br>air
+bip_39_word_new_br_6: special<br>about<br>aerobic<br>mad<br>air<br>fork
+bip_39_word_new_br_7: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over
+bip_39_word_new_br_8: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic
+bip_39_word_new_br_9: special<br>about<br>aerobic<br>mad<br>air<br>fork<br>over<br>magic<br>code
+bip_39_word_new_line_1: special
+bip_39_word_new_line_10: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over
+
+  magic
+
+  code
+
+  escape'
+bip_39_word_new_line_11: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over
+
+  magic
+
+  code
+
+  escape
+
+  expire'
+bip_39_word_new_line_12: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over
+
+  magic
+
+  code
+
+  escape
+
+  expire
+
+  actress'
+bip_39_word_new_line_2: 'special
+
+  about'
+bip_39_word_new_line_3: 'special
+
+  about
+
+  aerobic'
+bip_39_word_new_line_4: 'special
+
+  about
+
+  aerobic
+
+  mad'
+bip_39_word_new_line_5: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air'
+bip_39_word_new_line_6: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork'
+bip_39_word_new_line_7: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over'
+bip_39_word_new_line_8: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over
+
+  magic'
+bip_39_word_new_line_9: 'special
+
+  about
+
+  aerobic
+
+  mad
+
+  air
+
+  fork
+
+  over
+
+  magic
+
+  code'
+bip_39_word_no_space_1: special
+bip_39_word_no_space_10: specialaboutaerobicmadairforkovermagiccodeescape
+bip_39_word_no_space_11: specialaboutaerobicmadairforkovermagiccodeescapeexpire
+bip_39_word_no_space_12: specialaboutaerobicmadairforkovermagiccodeescapeexpireactress
+bip_39_word_no_space_2: specialabout
+bip_39_word_no_space_3: specialaboutaerobic
+bip_39_word_no_space_4: specialaboutaerobicmad
+bip_39_word_no_space_5: specialaboutaerobicmadair
+bip_39_word_no_space_6: specialaboutaerobicmadairfork
+bip_39_word_no_space_7: specialaboutaerobicmadairforkover
+bip_39_word_no_space_8: specialaboutaerobicmadairforkovermagic
+bip_39_word_no_space_9: specialaboutaerobicmadairforkovermagiccode
+bip_39_word_space_0:
+- special
+- about
+- aerobic
+- mad
+- air
+- fork
+- over
+- magic
+- code
+- escape
+- expire
+- actress
+bip_39_word_space_1: special
+bip_39_word_space_10: special about aerobic mad air fork over magic code escape
+bip_39_word_space_11: special about aerobic mad air fork over magic code escape expire
+bip_39_word_space_12: special about aerobic mad air fork over magic code escape expire
+  actress
+bip_39_word_space_2: special about
+bip_39_word_space_3: special about aerobic
+bip_39_word_space_4: special about aerobic mad
+bip_39_word_space_5: special about aerobic mad air
+bip_39_word_space_6: special about aerobic mad air fork
+bip_39_word_space_7: special about aerobic mad air fork over
+bip_39_word_space_8: special about aerobic mad air fork over magic
+bip_39_word_space_9: special about aerobic mad air fork over magic code
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_about_aerobic_mad_air_fork_over_magic_code_escape
+bip_39_word_underscore_11: special_about_aerobic_mad_air_fork_over_magic_code_escape_expire
+bip_39_word_underscore_12: special_about_aerobic_mad_air_fork_over_magic_code_escape_expire_actress
+bip_39_word_underscore_2: special_about
+bip_39_word_underscore_3: special_about_aerobic
+bip_39_word_underscore_4: special_about_aerobic_mad
+bip_39_word_underscore_5: special_about_aerobic_mad_air
+bip_39_word_underscore_6: special_about_aerobic_mad_air_fork
+bip_39_word_underscore_7: special_about_aerobic_mad_air_fork_over
+bip_39_word_underscore_8: special_about_aerobic_mad_air_fork_over_magic
+bip_39_word_underscore_9: special_about_aerobic_mad_air_fork_over_magic_code
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +351,14 @@ id_no_color: 6_mm_length_nut_and_nut
 id_no_size: black_6_mm_length_nut_and_nut
 id_no_type: m3_black_6_mm_length_nut_and_nut
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_6_mm_length_nut_and_nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_6_mm_length_nut_and_nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_6_mm_length_nut_and_nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201qor7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201qor7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201qor7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +384,25 @@ name_no_color: 6 mm Length Nut And Nut
 name_no_size: Black 6 mm Length Nut And Nut
 name_no_size_short: Black 6 Mm Length Nut And Nut
 name_no_type: M3 Black 6 mm Length Nut And Nut
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 6 mm
+oomlout_bolt_length_no_unit: '6'
+oomlout_bolt_md5_6_alpha_first_3: 1qo
+oomlout_bolt_md5_6_alpha_first_3_upper: 1QO
+oomlout_bolt_md5_6_alpha_last_3: r7
+oomlout_bolt_md5_6_alpha_last_3_upper: R7
+oomlout_bolt_md5_6_first_3: 2ca
+oomlout_bolt_md5_6_first_3_upper: 2CA
+oomlout_bolt_md5_6_last_3: 0d3
+oomlout_bolt_md5_6_last_3_upper: 0D3
+oomlout_bolt_name: ' M3X6 mm Black (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3b6nn
+oomlout_short_code_upper: SO3B6NN
 oomp_key: oomp_hardware_standoff_m3_black_6_mm_length_nut_and_nut
 oomp_word: snowflake ring tomato
 oomp_word_emoji: ':snowflake: :ring: :tomato:'

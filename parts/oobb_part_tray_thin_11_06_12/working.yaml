@@ -1,3 +1,222 @@
+bip_39_word_dash_1: rally
+bip_39_word_dash_10: rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem
+bip_39_word_dash_11: rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem-nephew
+bip_39_word_dash_12: rally-mix-border-safe-ignore-faint-conduct-puppy-alarm-poem-nephew-airport
+bip_39_word_dash_2: rally-mix
+bip_39_word_dash_3: rally-mix-border
+bip_39_word_dash_4: rally-mix-border-safe
+bip_39_word_dash_5: rally-mix-border-safe-ignore
+bip_39_word_dash_6: rally-mix-border-safe-ignore-faint
+bip_39_word_dash_7: rally-mix-border-safe-ignore-faint-conduct
+bip_39_word_dash_8: rally-mix-border-safe-ignore-faint-conduct-puppy
+bip_39_word_dash_9: rally-mix-border-safe-ignore-faint-conduct-puppy-alarm
+bip_39_word_new_br_1: rally
+bip_39_word_new_br_10: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem
+bip_39_word_new_br_11: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem<br>nephew
+bip_39_word_new_br_12: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm<br>poem<br>nephew<br>airport
+bip_39_word_new_br_2: rally<br>mix
+bip_39_word_new_br_3: rally<br>mix<br>border
+bip_39_word_new_br_4: rally<br>mix<br>border<br>safe
+bip_39_word_new_br_5: rally<br>mix<br>border<br>safe<br>ignore
+bip_39_word_new_br_6: rally<br>mix<br>border<br>safe<br>ignore<br>faint
+bip_39_word_new_br_7: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct
+bip_39_word_new_br_8: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy
+bip_39_word_new_br_9: rally<br>mix<br>border<br>safe<br>ignore<br>faint<br>conduct<br>puppy<br>alarm
+bip_39_word_new_line_1: rally
+bip_39_word_new_line_10: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct
+
+  puppy
+
+  alarm
+
+  poem'
+bip_39_word_new_line_11: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct
+
+  puppy
+
+  alarm
+
+  poem
+
+  nephew'
+bip_39_word_new_line_12: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct
+
+  puppy
+
+  alarm
+
+  poem
+
+  nephew
+
+  airport'
+bip_39_word_new_line_2: 'rally
+
+  mix'
+bip_39_word_new_line_3: 'rally
+
+  mix
+
+  border'
+bip_39_word_new_line_4: 'rally
+
+  mix
+
+  border
+
+  safe'
+bip_39_word_new_line_5: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore'
+bip_39_word_new_line_6: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint'
+bip_39_word_new_line_7: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct'
+bip_39_word_new_line_8: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct
+
+  puppy'
+bip_39_word_new_line_9: 'rally
+
+  mix
+
+  border
+
+  safe
+
+  ignore
+
+  faint
+
+  conduct
+
+  puppy
+
+  alarm'
+bip_39_word_no_space_1: rally
+bip_39_word_no_space_10: rallymixbordersafeignorefaintconductpuppyalarmpoem
+bip_39_word_no_space_11: rallymixbordersafeignorefaintconductpuppyalarmpoemnephew
+bip_39_word_no_space_12: rallymixbordersafeignorefaintconductpuppyalarmpoemnephewairport
+bip_39_word_no_space_2: rallymix
+bip_39_word_no_space_3: rallymixborder
+bip_39_word_no_space_4: rallymixbordersafe
+bip_39_word_no_space_5: rallymixbordersafeignore
+bip_39_word_no_space_6: rallymixbordersafeignorefaint
+bip_39_word_no_space_7: rallymixbordersafeignorefaintconduct
+bip_39_word_no_space_8: rallymixbordersafeignorefaintconductpuppy
+bip_39_word_no_space_9: rallymixbordersafeignorefaintconductpuppyalarm
+bip_39_word_space_0:
+- rally
+- mix
+- border
+- safe
+- ignore
+- faint
+- conduct
+- puppy
+- alarm
+- poem
+- nephew
+- airport
+bip_39_word_space_1: rally
+bip_39_word_space_10: rally mix border safe ignore faint conduct puppy alarm poem
+bip_39_word_space_11: rally mix border safe ignore faint conduct puppy alarm poem
+  nephew
+bip_39_word_space_12: rally mix border safe ignore faint conduct puppy alarm poem
+  nephew airport
+bip_39_word_space_2: rally mix
+bip_39_word_space_3: rally mix border
+bip_39_word_space_4: rally mix border safe
+bip_39_word_space_5: rally mix border safe ignore
+bip_39_word_space_6: rally mix border safe ignore faint
+bip_39_word_space_7: rally mix border safe ignore faint conduct
+bip_39_word_space_8: rally mix border safe ignore faint conduct puppy
+bip_39_word_space_9: rally mix border safe ignore faint conduct puppy alarm
+bip_39_word_underscore_1: rally
+bip_39_word_underscore_10: rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem
+bip_39_word_underscore_11: rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem_nephew
+bip_39_word_underscore_12: rally_mix_border_safe_ignore_faint_conduct_puppy_alarm_poem_nephew_airport
+bip_39_word_underscore_2: rally_mix
+bip_39_word_underscore_3: rally_mix_border
+bip_39_word_underscore_4: rally_mix_border_safe
+bip_39_word_underscore_5: rally_mix_border_safe_ignore
+bip_39_word_underscore_6: rally_mix_border_safe_ignore_faint
+bip_39_word_underscore_7: rally_mix_border_safe_ignore_faint_conduct
+bip_39_word_underscore_8: rally_mix_border_safe_ignore_faint_conduct_puppy
+bip_39_word_underscore_9: rally_mix_border_safe_ignore_faint_conduct_puppy_alarm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_06_12
 id_no_color: '110612'
 id_no_size: '11_06_12'
 id_no_type: tray_thin_11_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203h8kp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203h8kp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203h8kp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110612'
 name_no_size: 11 06 12
 name_no_size_short: 11 06 12
 name_no_type: Tray Thin 11 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_06_12
 oomp_word: dragon tongue sandal
 oomp_word_emoji: ':dragon: :tongue: :sandal:'

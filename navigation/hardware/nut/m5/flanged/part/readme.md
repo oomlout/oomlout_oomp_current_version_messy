@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Nut M5 Flanged
+* name_short: 
 ### id
 * oomp_id: hardware_nut_m5_flanged
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :coffee: :scream: :fireworks:
 * md5_6_alpha: 70vw4
 * md5_6: b40874
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2070vw4)
+[2x1](http://192.168.1.242:1112/?label=oomp%2070vw4)
+[6x4](http://192.168.1.55:1112/?label=oomp%2070vw4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_flanged) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m5_flanged)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ load |
 | id_no_size | flanged |  
 | id_no_type | m5_flanged |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_flanged |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m5_flanged |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m5_flanged |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2070vw4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2070vw4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2070vw4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ load |
 | name_no_size | Flanged |  
 | name_no_size_short | Flanged |  
 | name_no_type | M5 Flanged |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n5mfl |  
 | oomlout_short_code_upper | N5MFL |  
 | oomp_key | oomp_hardware_nut_m5_flanged |  

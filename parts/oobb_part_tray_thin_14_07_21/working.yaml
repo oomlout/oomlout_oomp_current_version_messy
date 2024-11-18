@@ -1,3 +1,223 @@
+bip_39_word_dash_1: settle
+bip_39_word_dash_10: settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august
+bip_39_word_dash_11: settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august-sauce
+bip_39_word_dash_12: settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify-august-sauce-appear
+bip_39_word_dash_2: settle-spawn
+bip_39_word_dash_3: settle-spawn-safe
+bip_39_word_dash_4: settle-spawn-safe-satoshi
+bip_39_word_dash_5: settle-spawn-safe-satoshi-wrong
+bip_39_word_dash_6: settle-spawn-safe-satoshi-wrong-angle
+bip_39_word_dash_7: settle-spawn-safe-satoshi-wrong-angle-venture
+bip_39_word_dash_8: settle-spawn-safe-satoshi-wrong-angle-venture-fiction
+bip_39_word_dash_9: settle-spawn-safe-satoshi-wrong-angle-venture-fiction-identify
+bip_39_word_new_br_1: settle
+bip_39_word_new_br_10: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august
+bip_39_word_new_br_11: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august<br>sauce
+bip_39_word_new_br_12: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify<br>august<br>sauce<br>appear
+bip_39_word_new_br_2: settle<br>spawn
+bip_39_word_new_br_3: settle<br>spawn<br>safe
+bip_39_word_new_br_4: settle<br>spawn<br>safe<br>satoshi
+bip_39_word_new_br_5: settle<br>spawn<br>safe<br>satoshi<br>wrong
+bip_39_word_new_br_6: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle
+bip_39_word_new_br_7: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture
+bip_39_word_new_br_8: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction
+bip_39_word_new_br_9: settle<br>spawn<br>safe<br>satoshi<br>wrong<br>angle<br>venture<br>fiction<br>identify
+bip_39_word_new_line_1: settle
+bip_39_word_new_line_10: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august'
+bip_39_word_new_line_11: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august
+
+  sauce'
+bip_39_word_new_line_12: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify
+
+  august
+
+  sauce
+
+  appear'
+bip_39_word_new_line_2: 'settle
+
+  spawn'
+bip_39_word_new_line_3: 'settle
+
+  spawn
+
+  safe'
+bip_39_word_new_line_4: 'settle
+
+  spawn
+
+  safe
+
+  satoshi'
+bip_39_word_new_line_5: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong'
+bip_39_word_new_line_6: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle'
+bip_39_word_new_line_7: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture'
+bip_39_word_new_line_8: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction'
+bip_39_word_new_line_9: 'settle
+
+  spawn
+
+  safe
+
+  satoshi
+
+  wrong
+
+  angle
+
+  venture
+
+  fiction
+
+  identify'
+bip_39_word_no_space_1: settle
+bip_39_word_no_space_10: settlespawnsafesatoshiwrongangleventurefictionidentifyaugust
+bip_39_word_no_space_11: settlespawnsafesatoshiwrongangleventurefictionidentifyaugustsauce
+bip_39_word_no_space_12: settlespawnsafesatoshiwrongangleventurefictionidentifyaugustsauceappear
+bip_39_word_no_space_2: settlespawn
+bip_39_word_no_space_3: settlespawnsafe
+bip_39_word_no_space_4: settlespawnsafesatoshi
+bip_39_word_no_space_5: settlespawnsafesatoshiwrong
+bip_39_word_no_space_6: settlespawnsafesatoshiwrongangle
+bip_39_word_no_space_7: settlespawnsafesatoshiwrongangleventure
+bip_39_word_no_space_8: settlespawnsafesatoshiwrongangleventurefiction
+bip_39_word_no_space_9: settlespawnsafesatoshiwrongangleventurefictionidentify
+bip_39_word_space_0:
+- settle
+- spawn
+- safe
+- satoshi
+- wrong
+- angle
+- venture
+- fiction
+- identify
+- august
+- sauce
+- appear
+bip_39_word_space_1: settle
+bip_39_word_space_10: settle spawn safe satoshi wrong angle venture fiction identify
+  august
+bip_39_word_space_11: settle spawn safe satoshi wrong angle venture fiction identify
+  august sauce
+bip_39_word_space_12: settle spawn safe satoshi wrong angle venture fiction identify
+  august sauce appear
+bip_39_word_space_2: settle spawn
+bip_39_word_space_3: settle spawn safe
+bip_39_word_space_4: settle spawn safe satoshi
+bip_39_word_space_5: settle spawn safe satoshi wrong
+bip_39_word_space_6: settle spawn safe satoshi wrong angle
+bip_39_word_space_7: settle spawn safe satoshi wrong angle venture
+bip_39_word_space_8: settle spawn safe satoshi wrong angle venture fiction
+bip_39_word_space_9: settle spawn safe satoshi wrong angle venture fiction identify
+bip_39_word_underscore_1: settle
+bip_39_word_underscore_10: settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august
+bip_39_word_underscore_11: settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august_sauce
+bip_39_word_underscore_12: settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify_august_sauce_appear
+bip_39_word_underscore_2: settle_spawn
+bip_39_word_underscore_3: settle_spawn_safe
+bip_39_word_underscore_4: settle_spawn_safe_satoshi
+bip_39_word_underscore_5: settle_spawn_safe_satoshi_wrong
+bip_39_word_underscore_6: settle_spawn_safe_satoshi_wrong_angle
+bip_39_word_underscore_7: settle_spawn_safe_satoshi_wrong_angle_venture
+bip_39_word_underscore_8: settle_spawn_safe_satoshi_wrong_angle_venture_fiction
+bip_39_word_underscore_9: settle_spawn_safe_satoshi_wrong_angle_venture_fiction_identify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_07_21
 id_no_color: '140721'
 id_no_size: '14_07_21'
 id_no_type: tray_thin_14_07_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_07_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_07_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_07_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206m32b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206m32b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206m32b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140721'
 name_no_size: 14 07 21
 name_no_size_short: 14 07 21
 name_no_type: Tray Thin 14 07 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_07_21
 oomp_word: sandal speaker grin
 oomp_word_emoji: ':sandal: :speaker: :grin:'

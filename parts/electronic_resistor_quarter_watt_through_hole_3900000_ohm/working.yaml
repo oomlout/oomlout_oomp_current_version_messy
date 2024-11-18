@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rhythm
+bip_39_word_dash_10: rhythm-arrange-control-anxiety-demise-treat-truck-action-comfort-measure
+bip_39_word_dash_11: rhythm-arrange-control-anxiety-demise-treat-truck-action-comfort-measure-stock
+bip_39_word_dash_12: rhythm-arrange-control-anxiety-demise-treat-truck-action-comfort-measure-stock-autumn
+bip_39_word_dash_2: rhythm-arrange
+bip_39_word_dash_3: rhythm-arrange-control
+bip_39_word_dash_4: rhythm-arrange-control-anxiety
+bip_39_word_dash_5: rhythm-arrange-control-anxiety-demise
+bip_39_word_dash_6: rhythm-arrange-control-anxiety-demise-treat
+bip_39_word_dash_7: rhythm-arrange-control-anxiety-demise-treat-truck
+bip_39_word_dash_8: rhythm-arrange-control-anxiety-demise-treat-truck-action
+bip_39_word_dash_9: rhythm-arrange-control-anxiety-demise-treat-truck-action-comfort
+bip_39_word_new_br_1: rhythm
+bip_39_word_new_br_10: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure
+bip_39_word_new_br_11: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure<br>stock
+bip_39_word_new_br_12: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort<br>measure<br>stock<br>autumn
+bip_39_word_new_br_2: rhythm<br>arrange
+bip_39_word_new_br_3: rhythm<br>arrange<br>control
+bip_39_word_new_br_4: rhythm<br>arrange<br>control<br>anxiety
+bip_39_word_new_br_5: rhythm<br>arrange<br>control<br>anxiety<br>demise
+bip_39_word_new_br_6: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat
+bip_39_word_new_br_7: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck
+bip_39_word_new_br_8: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action
+bip_39_word_new_br_9: rhythm<br>arrange<br>control<br>anxiety<br>demise<br>treat<br>truck<br>action<br>comfort
+bip_39_word_new_line_1: rhythm
+bip_39_word_new_line_10: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck
+
+  action
+
+  comfort
+
+  measure'
+bip_39_word_new_line_11: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck
+
+  action
+
+  comfort
+
+  measure
+
+  stock'
+bip_39_word_new_line_12: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck
+
+  action
+
+  comfort
+
+  measure
+
+  stock
+
+  autumn'
+bip_39_word_new_line_2: 'rhythm
+
+  arrange'
+bip_39_word_new_line_3: 'rhythm
+
+  arrange
+
+  control'
+bip_39_word_new_line_4: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety'
+bip_39_word_new_line_5: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise'
+bip_39_word_new_line_6: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat'
+bip_39_word_new_line_7: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck'
+bip_39_word_new_line_8: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck
+
+  action'
+bip_39_word_new_line_9: 'rhythm
+
+  arrange
+
+  control
+
+  anxiety
+
+  demise
+
+  treat
+
+  truck
+
+  action
+
+  comfort'
+bip_39_word_no_space_1: rhythm
+bip_39_word_no_space_10: rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasure
+bip_39_word_no_space_11: rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasurestock
+bip_39_word_no_space_12: rhythmarrangecontrolanxietydemisetreattruckactioncomfortmeasurestockautumn
+bip_39_word_no_space_2: rhythmarrange
+bip_39_word_no_space_3: rhythmarrangecontrol
+bip_39_word_no_space_4: rhythmarrangecontrolanxiety
+bip_39_word_no_space_5: rhythmarrangecontrolanxietydemise
+bip_39_word_no_space_6: rhythmarrangecontrolanxietydemisetreat
+bip_39_word_no_space_7: rhythmarrangecontrolanxietydemisetreattruck
+bip_39_word_no_space_8: rhythmarrangecontrolanxietydemisetreattruckaction
+bip_39_word_no_space_9: rhythmarrangecontrolanxietydemisetreattruckactioncomfort
+bip_39_word_space_0:
+- rhythm
+- arrange
+- control
+- anxiety
+- demise
+- treat
+- truck
+- action
+- comfort
+- measure
+- stock
+- autumn
+bip_39_word_space_1: rhythm
+bip_39_word_space_10: rhythm arrange control anxiety demise treat truck action comfort
+  measure
+bip_39_word_space_11: rhythm arrange control anxiety demise treat truck action comfort
+  measure stock
+bip_39_word_space_12: rhythm arrange control anxiety demise treat truck action comfort
+  measure stock autumn
+bip_39_word_space_2: rhythm arrange
+bip_39_word_space_3: rhythm arrange control
+bip_39_word_space_4: rhythm arrange control anxiety
+bip_39_word_space_5: rhythm arrange control anxiety demise
+bip_39_word_space_6: rhythm arrange control anxiety demise treat
+bip_39_word_space_7: rhythm arrange control anxiety demise treat truck
+bip_39_word_space_8: rhythm arrange control anxiety demise treat truck action
+bip_39_word_space_9: rhythm arrange control anxiety demise treat truck action comfort
+bip_39_word_underscore_1: rhythm
+bip_39_word_underscore_10: rhythm_arrange_control_anxiety_demise_treat_truck_action_comfort_measure
+bip_39_word_underscore_11: rhythm_arrange_control_anxiety_demise_treat_truck_action_comfort_measure_stock
+bip_39_word_underscore_12: rhythm_arrange_control_anxiety_demise_treat_truck_action_comfort_measure_stock_autumn
+bip_39_word_underscore_2: rhythm_arrange
+bip_39_word_underscore_3: rhythm_arrange_control
+bip_39_word_underscore_4: rhythm_arrange_control_anxiety
+bip_39_word_underscore_5: rhythm_arrange_control_anxiety_demise
+bip_39_word_underscore_6: rhythm_arrange_control_anxiety_demise_treat
+bip_39_word_underscore_7: rhythm_arrange_control_anxiety_demise_treat_truck
+bip_39_word_underscore_8: rhythm_arrange_control_anxiety_demise_treat_truck_action
+bip_39_word_underscore_9: rhythm_arrange_control_anxiety_demise_treat_truck_action_comfort
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +316,14 @@ id_no_color: 3900000ohm
 id_no_size: 3900000_ohm
 id_no_type: quarter_watt_through_hole_3900000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_3900000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209tijm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209tijm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209tijm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +349,7 @@ name_no_color: 3900000Ohm
 name_no_size: 3900000 Ohm
 name_no_size_short: 3M9 Ohm
 name_no_type: Quarter Watt Through Hole 3900000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_3900000_ohm
 oomp_word: ok shirt lips
 oomp_word_emoji: ':ok: :shirt: :lips:'

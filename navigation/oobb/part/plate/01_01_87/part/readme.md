@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 01 01 87
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_01_01_87
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ambulance: :key: :hourglass:
 * md5_6_alpha: 9b1c0
 * md5_6: ee8480
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209b1c0)
+[2x1](http://192.168.1.242:1112/?label=oomp%209b1c0)
+[6x4](http://192.168.1.55:1112/?label=oomp%209b1c0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_87) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_87)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ claw |
 | id_no_color | 010187 |  
 | id_no_size | 01_01_87 |  
 | id_no_type | plate_01_01_87 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_87 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_87 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_87 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209b1c0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209b1c0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209b1c0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ claw |
 | name_no_size | 01 01 87 |  
 | name_no_size_short | 01 01 87 |  
 | name_no_type | Plate 01 01 87 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_01_01_87 |  
 | oomp_word | ambulance key hourglass |  
 | oomp_word_emoji | :ambulance: :key: :hourglass: |  

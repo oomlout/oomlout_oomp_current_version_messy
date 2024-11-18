@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 04 06 09
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_04_06_09
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :two: :frog: :birthday:
 * md5_6_alpha: 9hn7m
 * md5_6: f338c2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209hn7m)
+[2x1](http://192.168.1.242:1112/?label=oomp%209hn7m)
+[6x4](http://192.168.1.55:1112/?label=oomp%209hn7m)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_09) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_09)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ jeans |
 | id_no_color | 040609 |  
 | id_no_size | 04_06_09 |  
 | id_no_type | tray_04_06_09 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_09 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_09 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_09 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209hn7m |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209hn7m |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209hn7m |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ jeans |
 | name_no_size | 04 06 09 |  
 | name_no_size_short | 04 06 09 |  
 | name_no_type | Tray 04 06 09 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_04_06_09 |  
 | oomp_word | two frog birthday |  
 | oomp_word_emoji | :two: :frog: :birthday: |  

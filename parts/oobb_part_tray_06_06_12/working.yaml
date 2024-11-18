@@ -1,3 +1,222 @@
+bip_39_word_dash_1: trust
+bip_39_word_dash_10: trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray
+bip_39_word_dash_11: trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray-round
+bip_39_word_dash_12: trust-motion-gadget-room-tumble-rent-wool-junk-furnace-spray-round-acquire
+bip_39_word_dash_2: trust-motion
+bip_39_word_dash_3: trust-motion-gadget
+bip_39_word_dash_4: trust-motion-gadget-room
+bip_39_word_dash_5: trust-motion-gadget-room-tumble
+bip_39_word_dash_6: trust-motion-gadget-room-tumble-rent
+bip_39_word_dash_7: trust-motion-gadget-room-tumble-rent-wool
+bip_39_word_dash_8: trust-motion-gadget-room-tumble-rent-wool-junk
+bip_39_word_dash_9: trust-motion-gadget-room-tumble-rent-wool-junk-furnace
+bip_39_word_new_br_1: trust
+bip_39_word_new_br_10: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray
+bip_39_word_new_br_11: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray<br>round
+bip_39_word_new_br_12: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace<br>spray<br>round<br>acquire
+bip_39_word_new_br_2: trust<br>motion
+bip_39_word_new_br_3: trust<br>motion<br>gadget
+bip_39_word_new_br_4: trust<br>motion<br>gadget<br>room
+bip_39_word_new_br_5: trust<br>motion<br>gadget<br>room<br>tumble
+bip_39_word_new_br_6: trust<br>motion<br>gadget<br>room<br>tumble<br>rent
+bip_39_word_new_br_7: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool
+bip_39_word_new_br_8: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk
+bip_39_word_new_br_9: trust<br>motion<br>gadget<br>room<br>tumble<br>rent<br>wool<br>junk<br>furnace
+bip_39_word_new_line_1: trust
+bip_39_word_new_line_10: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool
+
+  junk
+
+  furnace
+
+  spray'
+bip_39_word_new_line_11: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool
+
+  junk
+
+  furnace
+
+  spray
+
+  round'
+bip_39_word_new_line_12: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool
+
+  junk
+
+  furnace
+
+  spray
+
+  round
+
+  acquire'
+bip_39_word_new_line_2: 'trust
+
+  motion'
+bip_39_word_new_line_3: 'trust
+
+  motion
+
+  gadget'
+bip_39_word_new_line_4: 'trust
+
+  motion
+
+  gadget
+
+  room'
+bip_39_word_new_line_5: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble'
+bip_39_word_new_line_6: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent'
+bip_39_word_new_line_7: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool'
+bip_39_word_new_line_8: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool
+
+  junk'
+bip_39_word_new_line_9: 'trust
+
+  motion
+
+  gadget
+
+  room
+
+  tumble
+
+  rent
+
+  wool
+
+  junk
+
+  furnace'
+bip_39_word_no_space_1: trust
+bip_39_word_no_space_10: trustmotiongadgetroomtumblerentwooljunkfurnacespray
+bip_39_word_no_space_11: trustmotiongadgetroomtumblerentwooljunkfurnacesprayround
+bip_39_word_no_space_12: trustmotiongadgetroomtumblerentwooljunkfurnacesprayroundacquire
+bip_39_word_no_space_2: trustmotion
+bip_39_word_no_space_3: trustmotiongadget
+bip_39_word_no_space_4: trustmotiongadgetroom
+bip_39_word_no_space_5: trustmotiongadgetroomtumble
+bip_39_word_no_space_6: trustmotiongadgetroomtumblerent
+bip_39_word_no_space_7: trustmotiongadgetroomtumblerentwool
+bip_39_word_no_space_8: trustmotiongadgetroomtumblerentwooljunk
+bip_39_word_no_space_9: trustmotiongadgetroomtumblerentwooljunkfurnace
+bip_39_word_space_0:
+- trust
+- motion
+- gadget
+- room
+- tumble
+- rent
+- wool
+- junk
+- furnace
+- spray
+- round
+- acquire
+bip_39_word_space_1: trust
+bip_39_word_space_10: trust motion gadget room tumble rent wool junk furnace spray
+bip_39_word_space_11: trust motion gadget room tumble rent wool junk furnace spray
+  round
+bip_39_word_space_12: trust motion gadget room tumble rent wool junk furnace spray
+  round acquire
+bip_39_word_space_2: trust motion
+bip_39_word_space_3: trust motion gadget
+bip_39_word_space_4: trust motion gadget room
+bip_39_word_space_5: trust motion gadget room tumble
+bip_39_word_space_6: trust motion gadget room tumble rent
+bip_39_word_space_7: trust motion gadget room tumble rent wool
+bip_39_word_space_8: trust motion gadget room tumble rent wool junk
+bip_39_word_space_9: trust motion gadget room tumble rent wool junk furnace
+bip_39_word_underscore_1: trust
+bip_39_word_underscore_10: trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray
+bip_39_word_underscore_11: trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray_round
+bip_39_word_underscore_12: trust_motion_gadget_room_tumble_rent_wool_junk_furnace_spray_round_acquire
+bip_39_word_underscore_2: trust_motion
+bip_39_word_underscore_3: trust_motion_gadget
+bip_39_word_underscore_4: trust_motion_gadget_room
+bip_39_word_underscore_5: trust_motion_gadget_room_tumble
+bip_39_word_underscore_6: trust_motion_gadget_room_tumble_rent
+bip_39_word_underscore_7: trust_motion_gadget_room_tumble_rent_wool
+bip_39_word_underscore_8: trust_motion_gadget_room_tumble_rent_wool_junk
+bip_39_word_underscore_9: trust_motion_gadget_room_tumble_rent_wool_junk_furnace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_06_06_12
 id_no_color: '060612'
 id_no_size: '06_06_12'
 id_no_type: tray_06_06_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_06_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_06_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_06_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dtro
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dtro
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dtro
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060612'
 name_no_size: 06 06 12
 name_no_size_short: 06 06 12
 name_no_type: Tray 06 06 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_06_12
 oomp_word: kiss bell three
 oomp_word_emoji: ':kiss: :bell: :three:'

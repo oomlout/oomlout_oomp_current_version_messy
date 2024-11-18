@@ -352,7 +352,14 @@ id_no_color: 10_mm_length_nut_and_nut
 id_no_size: nylon_white_10_mm_length_nut_and_nut
 id_no_type: m3_nylon_white_10_mm_length_nut_and_nut
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_10_mm_length_nut_and_nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_10_mm_length_nut_and_nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_10_mm_length_nut_and_nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204lyu4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204lyu4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204lyu4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -394,6 +401,7 @@ oomlout_bolt_name: ' M3X10 mm  (Bolt)'
 oomlout_bolt_size: M3
 oomlout_bolt_type: ''
 oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: so3nw10nn
 oomlout_short_code_upper: SO3NW10NN
 oomp_key: oomp_hardware_standoff_m3_nylon_white_10_mm_length_nut_and_nut

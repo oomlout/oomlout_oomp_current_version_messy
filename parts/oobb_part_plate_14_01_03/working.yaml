@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sock
+bip_39_word_dash_10: sock-tattoo-cup-beyond-use-aerobic-timber-pottery-crater-dash
+bip_39_word_dash_11: sock-tattoo-cup-beyond-use-aerobic-timber-pottery-crater-dash-nature
+bip_39_word_dash_12: sock-tattoo-cup-beyond-use-aerobic-timber-pottery-crater-dash-nature-among
+bip_39_word_dash_2: sock-tattoo
+bip_39_word_dash_3: sock-tattoo-cup
+bip_39_word_dash_4: sock-tattoo-cup-beyond
+bip_39_word_dash_5: sock-tattoo-cup-beyond-use
+bip_39_word_dash_6: sock-tattoo-cup-beyond-use-aerobic
+bip_39_word_dash_7: sock-tattoo-cup-beyond-use-aerobic-timber
+bip_39_word_dash_8: sock-tattoo-cup-beyond-use-aerobic-timber-pottery
+bip_39_word_dash_9: sock-tattoo-cup-beyond-use-aerobic-timber-pottery-crater
+bip_39_word_new_br_1: sock
+bip_39_word_new_br_10: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash
+bip_39_word_new_br_11: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash<br>nature
+bip_39_word_new_br_12: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater<br>dash<br>nature<br>among
+bip_39_word_new_br_2: sock<br>tattoo
+bip_39_word_new_br_3: sock<br>tattoo<br>cup
+bip_39_word_new_br_4: sock<br>tattoo<br>cup<br>beyond
+bip_39_word_new_br_5: sock<br>tattoo<br>cup<br>beyond<br>use
+bip_39_word_new_br_6: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic
+bip_39_word_new_br_7: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber
+bip_39_word_new_br_8: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery
+bip_39_word_new_br_9: sock<br>tattoo<br>cup<br>beyond<br>use<br>aerobic<br>timber<br>pottery<br>crater
+bip_39_word_new_line_1: sock
+bip_39_word_new_line_10: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber
+
+  pottery
+
+  crater
+
+  dash'
+bip_39_word_new_line_11: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber
+
+  pottery
+
+  crater
+
+  dash
+
+  nature'
+bip_39_word_new_line_12: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber
+
+  pottery
+
+  crater
+
+  dash
+
+  nature
+
+  among'
+bip_39_word_new_line_2: 'sock
+
+  tattoo'
+bip_39_word_new_line_3: 'sock
+
+  tattoo
+
+  cup'
+bip_39_word_new_line_4: 'sock
+
+  tattoo
+
+  cup
+
+  beyond'
+bip_39_word_new_line_5: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use'
+bip_39_word_new_line_6: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic'
+bip_39_word_new_line_7: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber'
+bip_39_word_new_line_8: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber
+
+  pottery'
+bip_39_word_new_line_9: 'sock
+
+  tattoo
+
+  cup
+
+  beyond
+
+  use
+
+  aerobic
+
+  timber
+
+  pottery
+
+  crater'
+bip_39_word_no_space_1: sock
+bip_39_word_no_space_10: socktattoocupbeyonduseaerobictimberpotterycraterdash
+bip_39_word_no_space_11: socktattoocupbeyonduseaerobictimberpotterycraterdashnature
+bip_39_word_no_space_12: socktattoocupbeyonduseaerobictimberpotterycraterdashnatureamong
+bip_39_word_no_space_2: socktattoo
+bip_39_word_no_space_3: socktattoocup
+bip_39_word_no_space_4: socktattoocupbeyond
+bip_39_word_no_space_5: socktattoocupbeyonduse
+bip_39_word_no_space_6: socktattoocupbeyonduseaerobic
+bip_39_word_no_space_7: socktattoocupbeyonduseaerobictimber
+bip_39_word_no_space_8: socktattoocupbeyonduseaerobictimberpottery
+bip_39_word_no_space_9: socktattoocupbeyonduseaerobictimberpotterycrater
+bip_39_word_space_0:
+- sock
+- tattoo
+- cup
+- beyond
+- use
+- aerobic
+- timber
+- pottery
+- crater
+- dash
+- nature
+- among
+bip_39_word_space_1: sock
+bip_39_word_space_10: sock tattoo cup beyond use aerobic timber pottery crater dash
+bip_39_word_space_11: sock tattoo cup beyond use aerobic timber pottery crater dash
+  nature
+bip_39_word_space_12: sock tattoo cup beyond use aerobic timber pottery crater dash
+  nature among
+bip_39_word_space_2: sock tattoo
+bip_39_word_space_3: sock tattoo cup
+bip_39_word_space_4: sock tattoo cup beyond
+bip_39_word_space_5: sock tattoo cup beyond use
+bip_39_word_space_6: sock tattoo cup beyond use aerobic
+bip_39_word_space_7: sock tattoo cup beyond use aerobic timber
+bip_39_word_space_8: sock tattoo cup beyond use aerobic timber pottery
+bip_39_word_space_9: sock tattoo cup beyond use aerobic timber pottery crater
+bip_39_word_underscore_1: sock
+bip_39_word_underscore_10: sock_tattoo_cup_beyond_use_aerobic_timber_pottery_crater_dash
+bip_39_word_underscore_11: sock_tattoo_cup_beyond_use_aerobic_timber_pottery_crater_dash_nature
+bip_39_word_underscore_12: sock_tattoo_cup_beyond_use_aerobic_timber_pottery_crater_dash_nature_among
+bip_39_word_underscore_2: sock_tattoo
+bip_39_word_underscore_3: sock_tattoo_cup
+bip_39_word_underscore_4: sock_tattoo_cup_beyond
+bip_39_word_underscore_5: sock_tattoo_cup_beyond_use
+bip_39_word_underscore_6: sock_tattoo_cup_beyond_use_aerobic
+bip_39_word_underscore_7: sock_tattoo_cup_beyond_use_aerobic_timber
+bip_39_word_underscore_8: sock_tattoo_cup_beyond_use_aerobic_timber_pottery
+bip_39_word_underscore_9: sock_tattoo_cup_beyond_use_aerobic_timber_pottery_crater
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_14_01_03
 id_no_color: '140103'
 id_no_size: '14_01_03'
 id_no_type: plate_14_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ylsd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ylsd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ylsd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140103'
 name_no_size: 14 01 03
 name_no_size_short: 14 01 03
 name_no_type: Plate 14 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_14_01_03
 oomp_word: speaker eyes strawberry
 oomp_word_emoji: ':speaker: :eyes: :strawberry:'

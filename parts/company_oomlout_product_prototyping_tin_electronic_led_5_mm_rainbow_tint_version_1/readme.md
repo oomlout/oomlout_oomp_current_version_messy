@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Company Oomlout Product Prototyping Tin Electronic LED 5 mm Rainbow Tint Version 1
+* name_short: 
 ### id
 * oomp_id: company_oomlout_product_prototyping_tin_electronic_led_5_mm_rainbow_tint_version_1
   * classification: company_oomlout

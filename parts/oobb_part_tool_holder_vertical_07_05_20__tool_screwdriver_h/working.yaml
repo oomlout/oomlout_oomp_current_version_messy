@@ -1,3 +1,221 @@
+bip_39_word_dash_1: bike
+bip_39_word_dash_10: bike-dinosaur-put-blood-tank-view-will-boat-grab-reduce
+bip_39_word_dash_11: bike-dinosaur-put-blood-tank-view-will-boat-grab-reduce-forget
+bip_39_word_dash_12: bike-dinosaur-put-blood-tank-view-will-boat-grab-reduce-forget-already
+bip_39_word_dash_2: bike-dinosaur
+bip_39_word_dash_3: bike-dinosaur-put
+bip_39_word_dash_4: bike-dinosaur-put-blood
+bip_39_word_dash_5: bike-dinosaur-put-blood-tank
+bip_39_word_dash_6: bike-dinosaur-put-blood-tank-view
+bip_39_word_dash_7: bike-dinosaur-put-blood-tank-view-will
+bip_39_word_dash_8: bike-dinosaur-put-blood-tank-view-will-boat
+bip_39_word_dash_9: bike-dinosaur-put-blood-tank-view-will-boat-grab
+bip_39_word_new_br_1: bike
+bip_39_word_new_br_10: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce
+bip_39_word_new_br_11: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget
+bip_39_word_new_br_12: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab<br>reduce<br>forget<br>already
+bip_39_word_new_br_2: bike<br>dinosaur
+bip_39_word_new_br_3: bike<br>dinosaur<br>put
+bip_39_word_new_br_4: bike<br>dinosaur<br>put<br>blood
+bip_39_word_new_br_5: bike<br>dinosaur<br>put<br>blood<br>tank
+bip_39_word_new_br_6: bike<br>dinosaur<br>put<br>blood<br>tank<br>view
+bip_39_word_new_br_7: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will
+bip_39_word_new_br_8: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat
+bip_39_word_new_br_9: bike<br>dinosaur<br>put<br>blood<br>tank<br>view<br>will<br>boat<br>grab
+bip_39_word_new_line_1: bike
+bip_39_word_new_line_10: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will
+
+  boat
+
+  grab
+
+  reduce'
+bip_39_word_new_line_11: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will
+
+  boat
+
+  grab
+
+  reduce
+
+  forget'
+bip_39_word_new_line_12: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will
+
+  boat
+
+  grab
+
+  reduce
+
+  forget
+
+  already'
+bip_39_word_new_line_2: 'bike
+
+  dinosaur'
+bip_39_word_new_line_3: 'bike
+
+  dinosaur
+
+  put'
+bip_39_word_new_line_4: 'bike
+
+  dinosaur
+
+  put
+
+  blood'
+bip_39_word_new_line_5: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank'
+bip_39_word_new_line_6: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view'
+bip_39_word_new_line_7: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will'
+bip_39_word_new_line_8: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will
+
+  boat'
+bip_39_word_new_line_9: 'bike
+
+  dinosaur
+
+  put
+
+  blood
+
+  tank
+
+  view
+
+  will
+
+  boat
+
+  grab'
+bip_39_word_no_space_1: bike
+bip_39_word_no_space_10: bikedinosaurputbloodtankviewwillboatgrabreduce
+bip_39_word_no_space_11: bikedinosaurputbloodtankviewwillboatgrabreduceforget
+bip_39_word_no_space_12: bikedinosaurputbloodtankviewwillboatgrabreduceforgetalready
+bip_39_word_no_space_2: bikedinosaur
+bip_39_word_no_space_3: bikedinosaurput
+bip_39_word_no_space_4: bikedinosaurputblood
+bip_39_word_no_space_5: bikedinosaurputbloodtank
+bip_39_word_no_space_6: bikedinosaurputbloodtankview
+bip_39_word_no_space_7: bikedinosaurputbloodtankviewwill
+bip_39_word_no_space_8: bikedinosaurputbloodtankviewwillboat
+bip_39_word_no_space_9: bikedinosaurputbloodtankviewwillboatgrab
+bip_39_word_space_0:
+- bike
+- dinosaur
+- put
+- blood
+- tank
+- view
+- will
+- boat
+- grab
+- reduce
+- forget
+- already
+bip_39_word_space_1: bike
+bip_39_word_space_10: bike dinosaur put blood tank view will boat grab reduce
+bip_39_word_space_11: bike dinosaur put blood tank view will boat grab reduce forget
+bip_39_word_space_12: bike dinosaur put blood tank view will boat grab reduce forget
+  already
+bip_39_word_space_2: bike dinosaur
+bip_39_word_space_3: bike dinosaur put
+bip_39_word_space_4: bike dinosaur put blood
+bip_39_word_space_5: bike dinosaur put blood tank
+bip_39_word_space_6: bike dinosaur put blood tank view
+bip_39_word_space_7: bike dinosaur put blood tank view will
+bip_39_word_space_8: bike dinosaur put blood tank view will boat
+bip_39_word_space_9: bike dinosaur put blood tank view will boat grab
+bip_39_word_underscore_1: bike
+bip_39_word_underscore_10: bike_dinosaur_put_blood_tank_view_will_boat_grab_reduce
+bip_39_word_underscore_11: bike_dinosaur_put_blood_tank_view_will_boat_grab_reduce_forget
+bip_39_word_underscore_12: bike_dinosaur_put_blood_tank_view_will_boat_grab_reduce_forget_already
+bip_39_word_underscore_2: bike_dinosaur
+bip_39_word_underscore_3: bike_dinosaur_put
+bip_39_word_underscore_4: bike_dinosaur_put_blood
+bip_39_word_underscore_5: bike_dinosaur_put_blood_tank
+bip_39_word_underscore_6: bike_dinosaur_put_blood_tank_view
+bip_39_word_underscore_7: bike_dinosaur_put_blood_tank_view_will
+bip_39_word_underscore_8: bike_dinosaur_put_blood_tank_view_will_boat
+bip_39_word_underscore_9: bike_dinosaur_put_blood_tank_view_will_boat_grab
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_tool_holder_vertical_07_05_20__tool_screwdriver_h
 id_no_color: 070520toolscrewdriverh
 id_no_size: 07_05_20__tool_screwdriver_h
 id_no_type: tool_holder_vertical_07_05_20__tool_screwdriver_h
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204h4tp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204h4tp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204h4tp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 070520Toolscrewdriverh
 name_no_size: 07 05 20  Tool Screwdriver H
 name_no_size_short: 07 05 20  Tool Screwdriver H
 name_no_type: Tool Holder Vertical 07 05 20  Tool Screwdriver H
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_07_05_20__tool_screwdriver_h
 oomp_word: dolls beer dress
 oomp_word_emoji: ':dolls: :beer: :dress:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fresh
+bip_39_word_dash_10: fresh-crystal-jazz-toss-square-enjoy-drift-despair-control-beyond
+bip_39_word_dash_11: fresh-crystal-jazz-toss-square-enjoy-drift-despair-control-beyond-narrow
+bip_39_word_dash_12: fresh-crystal-jazz-toss-square-enjoy-drift-despair-control-beyond-narrow-absurd
+bip_39_word_dash_2: fresh-crystal
+bip_39_word_dash_3: fresh-crystal-jazz
+bip_39_word_dash_4: fresh-crystal-jazz-toss
+bip_39_word_dash_5: fresh-crystal-jazz-toss-square
+bip_39_word_dash_6: fresh-crystal-jazz-toss-square-enjoy
+bip_39_word_dash_7: fresh-crystal-jazz-toss-square-enjoy-drift
+bip_39_word_dash_8: fresh-crystal-jazz-toss-square-enjoy-drift-despair
+bip_39_word_dash_9: fresh-crystal-jazz-toss-square-enjoy-drift-despair-control
+bip_39_word_new_br_1: fresh
+bip_39_word_new_br_10: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond
+bip_39_word_new_br_11: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond<br>narrow
+bip_39_word_new_br_12: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control<br>beyond<br>narrow<br>absurd
+bip_39_word_new_br_2: fresh<br>crystal
+bip_39_word_new_br_3: fresh<br>crystal<br>jazz
+bip_39_word_new_br_4: fresh<br>crystal<br>jazz<br>toss
+bip_39_word_new_br_5: fresh<br>crystal<br>jazz<br>toss<br>square
+bip_39_word_new_br_6: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy
+bip_39_word_new_br_7: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift
+bip_39_word_new_br_8: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair
+bip_39_word_new_br_9: fresh<br>crystal<br>jazz<br>toss<br>square<br>enjoy<br>drift<br>despair<br>control
+bip_39_word_new_line_1: fresh
+bip_39_word_new_line_10: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond'
+bip_39_word_new_line_11: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond
+
+  narrow'
+bip_39_word_new_line_12: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control
+
+  beyond
+
+  narrow
+
+  absurd'
+bip_39_word_new_line_2: 'fresh
+
+  crystal'
+bip_39_word_new_line_3: 'fresh
+
+  crystal
+
+  jazz'
+bip_39_word_new_line_4: 'fresh
+
+  crystal
+
+  jazz
+
+  toss'
+bip_39_word_new_line_5: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square'
+bip_39_word_new_line_6: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy'
+bip_39_word_new_line_7: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift'
+bip_39_word_new_line_8: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair'
+bip_39_word_new_line_9: 'fresh
+
+  crystal
+
+  jazz
+
+  toss
+
+  square
+
+  enjoy
+
+  drift
+
+  despair
+
+  control'
+bip_39_word_no_space_1: fresh
+bip_39_word_no_space_10: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyond
+bip_39_word_no_space_11: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyondnarrow
+bip_39_word_no_space_12: freshcrystaljazztosssquareenjoydriftdespaircontrolbeyondnarrowabsurd
+bip_39_word_no_space_2: freshcrystal
+bip_39_word_no_space_3: freshcrystaljazz
+bip_39_word_no_space_4: freshcrystaljazztoss
+bip_39_word_no_space_5: freshcrystaljazztosssquare
+bip_39_word_no_space_6: freshcrystaljazztosssquareenjoy
+bip_39_word_no_space_7: freshcrystaljazztosssquareenjoydrift
+bip_39_word_no_space_8: freshcrystaljazztosssquareenjoydriftdespair
+bip_39_word_no_space_9: freshcrystaljazztosssquareenjoydriftdespaircontrol
+bip_39_word_space_0:
+- fresh
+- crystal
+- jazz
+- toss
+- square
+- enjoy
+- drift
+- despair
+- control
+- beyond
+- narrow
+- absurd
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh crystal jazz toss square enjoy drift despair control beyond
+bip_39_word_space_11: fresh crystal jazz toss square enjoy drift despair control beyond
+  narrow
+bip_39_word_space_12: fresh crystal jazz toss square enjoy drift despair control beyond
+  narrow absurd
+bip_39_word_space_2: fresh crystal
+bip_39_word_space_3: fresh crystal jazz
+bip_39_word_space_4: fresh crystal jazz toss
+bip_39_word_space_5: fresh crystal jazz toss square
+bip_39_word_space_6: fresh crystal jazz toss square enjoy
+bip_39_word_space_7: fresh crystal jazz toss square enjoy drift
+bip_39_word_space_8: fresh crystal jazz toss square enjoy drift despair
+bip_39_word_space_9: fresh crystal jazz toss square enjoy drift despair control
+bip_39_word_underscore_1: fresh
+bip_39_word_underscore_10: fresh_crystal_jazz_toss_square_enjoy_drift_despair_control_beyond
+bip_39_word_underscore_11: fresh_crystal_jazz_toss_square_enjoy_drift_despair_control_beyond_narrow
+bip_39_word_underscore_12: fresh_crystal_jazz_toss_square_enjoy_drift_despair_control_beyond_narrow_absurd
+bip_39_word_underscore_2: fresh_crystal
+bip_39_word_underscore_3: fresh_crystal_jazz
+bip_39_word_underscore_4: fresh_crystal_jazz_toss
+bip_39_word_underscore_5: fresh_crystal_jazz_toss_square
+bip_39_word_underscore_6: fresh_crystal_jazz_toss_square_enjoy
+bip_39_word_underscore_7: fresh_crystal_jazz_toss_square_enjoy_drift
+bip_39_word_underscore_8: fresh_crystal_jazz_toss_square_enjoy_drift_despair
+bip_39_word_underscore_9: fresh_crystal_jazz_toss_square_enjoy_drift_despair_control
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h
@@ -84,7 +303,14 @@ id_no_class: educational_to_sort
 id_no_color: tosort
 id_no_size: tosort
 id_no_type: to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_educational_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_educational_to_sort
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_educational_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20o35x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20o35x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20o35x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -110,6 +336,7 @@ name_no_color: Tosort
 name_no_size: Tosort
 name_no_size_short: Tosort
 name_no_type: To Sort
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_household_toy_educational_to_sort
 oomp_word: dizzy eyes kissing
 oomp_word_emoji: ':dizzy: :eyes: :kissing:'

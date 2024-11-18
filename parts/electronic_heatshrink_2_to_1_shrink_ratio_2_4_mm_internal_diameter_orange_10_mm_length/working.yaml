@@ -1,3 +1,223 @@
+bip_39_word_dash_1: logic
+bip_39_word_dash_10: logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple
+bip_39_word_dash_11: logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple-tumble
+bip_39_word_dash_12: logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow-apple-tumble-attract
+bip_39_word_dash_2: logic-innocent
+bip_39_word_dash_3: logic-innocent-dance
+bip_39_word_dash_4: logic-innocent-dance-diagram
+bip_39_word_dash_5: logic-innocent-dance-diagram-gentle
+bip_39_word_dash_6: logic-innocent-dance-diagram-gentle-depth
+bip_39_word_dash_7: logic-innocent-dance-diagram-gentle-depth-balcony
+bip_39_word_dash_8: logic-innocent-dance-diagram-gentle-depth-balcony-pretty
+bip_39_word_dash_9: logic-innocent-dance-diagram-gentle-depth-balcony-pretty-elbow
+bip_39_word_new_br_1: logic
+bip_39_word_new_br_10: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple
+bip_39_word_new_br_11: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble
+bip_39_word_new_br_12: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow<br>apple<br>tumble<br>attract
+bip_39_word_new_br_2: logic<br>innocent
+bip_39_word_new_br_3: logic<br>innocent<br>dance
+bip_39_word_new_br_4: logic<br>innocent<br>dance<br>diagram
+bip_39_word_new_br_5: logic<br>innocent<br>dance<br>diagram<br>gentle
+bip_39_word_new_br_6: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth
+bip_39_word_new_br_7: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony
+bip_39_word_new_br_8: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty
+bip_39_word_new_br_9: logic<br>innocent<br>dance<br>diagram<br>gentle<br>depth<br>balcony<br>pretty<br>elbow
+bip_39_word_new_line_1: logic
+bip_39_word_new_line_10: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony
+
+  pretty
+
+  elbow
+
+  apple'
+bip_39_word_new_line_11: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony
+
+  pretty
+
+  elbow
+
+  apple
+
+  tumble'
+bip_39_word_new_line_12: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony
+
+  pretty
+
+  elbow
+
+  apple
+
+  tumble
+
+  attract'
+bip_39_word_new_line_2: 'logic
+
+  innocent'
+bip_39_word_new_line_3: 'logic
+
+  innocent
+
+  dance'
+bip_39_word_new_line_4: 'logic
+
+  innocent
+
+  dance
+
+  diagram'
+bip_39_word_new_line_5: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle'
+bip_39_word_new_line_6: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth'
+bip_39_word_new_line_7: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony'
+bip_39_word_new_line_8: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony
+
+  pretty'
+bip_39_word_new_line_9: 'logic
+
+  innocent
+
+  dance
+
+  diagram
+
+  gentle
+
+  depth
+
+  balcony
+
+  pretty
+
+  elbow'
+bip_39_word_no_space_1: logic
+bip_39_word_no_space_10: logicinnocentdancediagramgentledepthbalconyprettyelbowapple
+bip_39_word_no_space_11: logicinnocentdancediagramgentledepthbalconyprettyelbowappletumble
+bip_39_word_no_space_12: logicinnocentdancediagramgentledepthbalconyprettyelbowappletumbleattract
+bip_39_word_no_space_2: logicinnocent
+bip_39_word_no_space_3: logicinnocentdance
+bip_39_word_no_space_4: logicinnocentdancediagram
+bip_39_word_no_space_5: logicinnocentdancediagramgentle
+bip_39_word_no_space_6: logicinnocentdancediagramgentledepth
+bip_39_word_no_space_7: logicinnocentdancediagramgentledepthbalcony
+bip_39_word_no_space_8: logicinnocentdancediagramgentledepthbalconypretty
+bip_39_word_no_space_9: logicinnocentdancediagramgentledepthbalconyprettyelbow
+bip_39_word_space_0:
+- logic
+- innocent
+- dance
+- diagram
+- gentle
+- depth
+- balcony
+- pretty
+- elbow
+- apple
+- tumble
+- attract
+bip_39_word_space_1: logic
+bip_39_word_space_10: logic innocent dance diagram gentle depth balcony pretty elbow
+  apple
+bip_39_word_space_11: logic innocent dance diagram gentle depth balcony pretty elbow
+  apple tumble
+bip_39_word_space_12: logic innocent dance diagram gentle depth balcony pretty elbow
+  apple tumble attract
+bip_39_word_space_2: logic innocent
+bip_39_word_space_3: logic innocent dance
+bip_39_word_space_4: logic innocent dance diagram
+bip_39_word_space_5: logic innocent dance diagram gentle
+bip_39_word_space_6: logic innocent dance diagram gentle depth
+bip_39_word_space_7: logic innocent dance diagram gentle depth balcony
+bip_39_word_space_8: logic innocent dance diagram gentle depth balcony pretty
+bip_39_word_space_9: logic innocent dance diagram gentle depth balcony pretty elbow
+bip_39_word_underscore_1: logic
+bip_39_word_underscore_10: logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple
+bip_39_word_underscore_11: logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple_tumble
+bip_39_word_underscore_12: logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow_apple_tumble_attract
+bip_39_word_underscore_2: logic_innocent
+bip_39_word_underscore_3: logic_innocent_dance
+bip_39_word_underscore_4: logic_innocent_dance_diagram
+bip_39_word_underscore_5: logic_innocent_dance_diagram_gentle
+bip_39_word_underscore_6: logic_innocent_dance_diagram_gentle_depth
+bip_39_word_underscore_7: logic_innocent_dance_diagram_gentle_depth_balcony
+bip_39_word_underscore_8: logic_innocent_dance_diagram_gentle_depth_balcony_pretty
+bip_39_word_underscore_9: logic_innocent_dance_diagram_gentle_depth_balcony_pretty_elbow
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: orange_10_mm_length
 id_no_type: 2_4_mm_internal_diameter_orange_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_orange_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_orange_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_orange_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209a2ki
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209a2ki
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209a2ki
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: Orange 10 mm Length
 name_no_size_short: Orange 10 Mm Length
 name_no_type: 2 4 mm Internal Diameter Orange 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_orange_10_mm_length
 oomp_word: bus corn radio
 oomp_word_emoji: ':bus: :corn: :radio:'

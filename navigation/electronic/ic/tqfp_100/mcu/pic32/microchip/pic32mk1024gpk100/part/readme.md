@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Tqfp 100 MCU Pic32 Microchip Pic32Mk1024Gpk100
+* name_short: 
 ### id
 * oomp_id: electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :star: :pill: :scroll:
 * md5_6_alpha: n8ul
 * md5_6: 108c8d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20n8ul)
+[2x1](http://192.168.1.242:1112/?label=oomp%20n8ul)
+[6x4](http://192.168.1.55:1112/?label=oomp%20n8ul)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ cliff |
 | id_no_color | pic32_microchip_pic32mk1024gpk100 |  
 | id_no_size | mcu_pic32_microchip_pic32mk1024gpk100 |  
 | id_no_type | tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20n8ul |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20n8ul |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20n8ul |  
 | manufacturer | microchip |  
 | manufacturer_capital | Microchip |  
 | manufacturer_first_letter | m |  
@@ -329,6 +362,7 @@ cliff |
 | name_no_size | MCU Pic32 Microchip Pic32Mk1024Gpk100 |  
 | name_no_size_short | Mcu Pic32 Microchip Pic32Mk1024Gpk100 |  
 | name_no_type | Tqfp 100 MCU Pic32 Microchip Pic32Mk1024Gpk100 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100 |  
 | oomp_word | star pill scroll |  
 | oomp_word_emoji | :star: :pill: :scroll: |  

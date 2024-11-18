@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mansion
+bip_39_word_dash_10: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void
+bip_39_word_dash_11: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void-slender
+bip_39_word_dash_12: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup-void-slender-armor
+bip_39_word_dash_2: mansion-borrow
+bip_39_word_dash_3: mansion-borrow-quality
+bip_39_word_dash_4: mansion-borrow-quality-wild
+bip_39_word_dash_5: mansion-borrow-quality-wild-armed
+bip_39_word_dash_6: mansion-borrow-quality-wild-armed-pepper
+bip_39_word_dash_7: mansion-borrow-quality-wild-armed-pepper-brave
+bip_39_word_dash_8: mansion-borrow-quality-wild-armed-pepper-brave-paper
+bip_39_word_dash_9: mansion-borrow-quality-wild-armed-pepper-brave-paper-syrup
+bip_39_word_new_br_1: mansion
+bip_39_word_new_br_10: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void
+bip_39_word_new_br_11: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void<br>slender
+bip_39_word_new_br_12: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup<br>void<br>slender<br>armor
+bip_39_word_new_br_2: mansion<br>borrow
+bip_39_word_new_br_3: mansion<br>borrow<br>quality
+bip_39_word_new_br_4: mansion<br>borrow<br>quality<br>wild
+bip_39_word_new_br_5: mansion<br>borrow<br>quality<br>wild<br>armed
+bip_39_word_new_br_6: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper
+bip_39_word_new_br_7: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave
+bip_39_word_new_br_8: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper
+bip_39_word_new_br_9: mansion<br>borrow<br>quality<br>wild<br>armed<br>pepper<br>brave<br>paper<br>syrup
+bip_39_word_new_line_1: mansion
+bip_39_word_new_line_10: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave
+
+  paper
+
+  syrup
+
+  void'
+bip_39_word_new_line_11: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave
+
+  paper
+
+  syrup
+
+  void
+
+  slender'
+bip_39_word_new_line_12: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave
+
+  paper
+
+  syrup
+
+  void
+
+  slender
+
+  armor'
+bip_39_word_new_line_2: 'mansion
+
+  borrow'
+bip_39_word_new_line_3: 'mansion
+
+  borrow
+
+  quality'
+bip_39_word_new_line_4: 'mansion
+
+  borrow
+
+  quality
+
+  wild'
+bip_39_word_new_line_5: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed'
+bip_39_word_new_line_6: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper'
+bip_39_word_new_line_7: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave'
+bip_39_word_new_line_8: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave
+
+  paper'
+bip_39_word_new_line_9: 'mansion
+
+  borrow
+
+  quality
+
+  wild
+
+  armed
+
+  pepper
+
+  brave
+
+  paper
+
+  syrup'
+bip_39_word_no_space_1: mansion
+bip_39_word_no_space_10: mansionborrowqualitywildarmedpepperbravepapersyrupvoid
+bip_39_word_no_space_11: mansionborrowqualitywildarmedpepperbravepapersyrupvoidslender
+bip_39_word_no_space_12: mansionborrowqualitywildarmedpepperbravepapersyrupvoidslenderarmor
+bip_39_word_no_space_2: mansionborrow
+bip_39_word_no_space_3: mansionborrowquality
+bip_39_word_no_space_4: mansionborrowqualitywild
+bip_39_word_no_space_5: mansionborrowqualitywildarmed
+bip_39_word_no_space_6: mansionborrowqualitywildarmedpepper
+bip_39_word_no_space_7: mansionborrowqualitywildarmedpepperbrave
+bip_39_word_no_space_8: mansionborrowqualitywildarmedpepperbravepaper
+bip_39_word_no_space_9: mansionborrowqualitywildarmedpepperbravepapersyrup
+bip_39_word_space_0:
+- mansion
+- borrow
+- quality
+- wild
+- armed
+- pepper
+- brave
+- paper
+- syrup
+- void
+- slender
+- armor
+bip_39_word_space_1: mansion
+bip_39_word_space_10: mansion borrow quality wild armed pepper brave paper syrup void
+bip_39_word_space_11: mansion borrow quality wild armed pepper brave paper syrup void
+  slender
+bip_39_word_space_12: mansion borrow quality wild armed pepper brave paper syrup void
+  slender armor
+bip_39_word_space_2: mansion borrow
+bip_39_word_space_3: mansion borrow quality
+bip_39_word_space_4: mansion borrow quality wild
+bip_39_word_space_5: mansion borrow quality wild armed
+bip_39_word_space_6: mansion borrow quality wild armed pepper
+bip_39_word_space_7: mansion borrow quality wild armed pepper brave
+bip_39_word_space_8: mansion borrow quality wild armed pepper brave paper
+bip_39_word_space_9: mansion borrow quality wild armed pepper brave paper syrup
+bip_39_word_underscore_1: mansion
+bip_39_word_underscore_10: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void
+bip_39_word_underscore_11: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void_slender
+bip_39_word_underscore_12: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup_void_slender_armor
+bip_39_word_underscore_2: mansion_borrow
+bip_39_word_underscore_3: mansion_borrow_quality
+bip_39_word_underscore_4: mansion_borrow_quality_wild
+bip_39_word_underscore_5: mansion_borrow_quality_wild_armed
+bip_39_word_underscore_6: mansion_borrow_quality_wild_armed_pepper
+bip_39_word_underscore_7: mansion_borrow_quality_wild_armed_pepper_brave
+bip_39_word_underscore_8: mansion_borrow_quality_wild_armed_pepper_brave_paper
+bip_39_word_underscore_9: mansion_borrow_quality_wild_armed_pepper_brave_paper_syrup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bearing_plate_05_05_12_6810__three_quarter
 id_no_color: 0505126810threequarter
 id_no_size: 05_05_12_6810__three_quarter
 id_no_type: bearing_plate_05_05_12_6810__three_quarter
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_05_05_12_6810__three_quarter
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_05_05_12_6810__three_quarter
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_05_05_12_6810__three_quarter
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207h48t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207h48t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207h48t
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0505126810Threequarter
 name_no_size: 05 05 12 6810  Three Quarter
 name_no_size_short: 05 05 12 6810  Three Quarter
 name_no_type: Bearing Plate 05 05 12 6810  Three Quarter
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_plate_05_05_12_6810__three_quarter
 oomp_word: egg basketball rice
 oomp_word_emoji: ':egg: :basketball: :rice:'

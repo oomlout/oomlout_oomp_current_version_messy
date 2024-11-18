@@ -1,3 +1,221 @@
+bip_39_word_dash_1: dog
+bip_39_word_dash_10: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase
+bip_39_word_dash_11: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase-enemy
+bip_39_word_dash_12: dog-vote-opera-pool-charge-cruel-upset-then-acid-purchase-enemy-ahead
+bip_39_word_dash_2: dog-vote
+bip_39_word_dash_3: dog-vote-opera
+bip_39_word_dash_4: dog-vote-opera-pool
+bip_39_word_dash_5: dog-vote-opera-pool-charge
+bip_39_word_dash_6: dog-vote-opera-pool-charge-cruel
+bip_39_word_dash_7: dog-vote-opera-pool-charge-cruel-upset
+bip_39_word_dash_8: dog-vote-opera-pool-charge-cruel-upset-then
+bip_39_word_dash_9: dog-vote-opera-pool-charge-cruel-upset-then-acid
+bip_39_word_new_br_1: dog
+bip_39_word_new_br_10: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase
+bip_39_word_new_br_11: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase<br>enemy
+bip_39_word_new_br_12: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid<br>purchase<br>enemy<br>ahead
+bip_39_word_new_br_2: dog<br>vote
+bip_39_word_new_br_3: dog<br>vote<br>opera
+bip_39_word_new_br_4: dog<br>vote<br>opera<br>pool
+bip_39_word_new_br_5: dog<br>vote<br>opera<br>pool<br>charge
+bip_39_word_new_br_6: dog<br>vote<br>opera<br>pool<br>charge<br>cruel
+bip_39_word_new_br_7: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset
+bip_39_word_new_br_8: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then
+bip_39_word_new_br_9: dog<br>vote<br>opera<br>pool<br>charge<br>cruel<br>upset<br>then<br>acid
+bip_39_word_new_line_1: dog
+bip_39_word_new_line_10: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset
+
+  then
+
+  acid
+
+  purchase'
+bip_39_word_new_line_11: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset
+
+  then
+
+  acid
+
+  purchase
+
+  enemy'
+bip_39_word_new_line_12: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset
+
+  then
+
+  acid
+
+  purchase
+
+  enemy
+
+  ahead'
+bip_39_word_new_line_2: 'dog
+
+  vote'
+bip_39_word_new_line_3: 'dog
+
+  vote
+
+  opera'
+bip_39_word_new_line_4: 'dog
+
+  vote
+
+  opera
+
+  pool'
+bip_39_word_new_line_5: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge'
+bip_39_word_new_line_6: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel'
+bip_39_word_new_line_7: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset'
+bip_39_word_new_line_8: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset
+
+  then'
+bip_39_word_new_line_9: 'dog
+
+  vote
+
+  opera
+
+  pool
+
+  charge
+
+  cruel
+
+  upset
+
+  then
+
+  acid'
+bip_39_word_no_space_1: dog
+bip_39_word_no_space_10: dogvoteoperapoolchargecruelupsetthenacidpurchase
+bip_39_word_no_space_11: dogvoteoperapoolchargecruelupsetthenacidpurchaseenemy
+bip_39_word_no_space_12: dogvoteoperapoolchargecruelupsetthenacidpurchaseenemyahead
+bip_39_word_no_space_2: dogvote
+bip_39_word_no_space_3: dogvoteopera
+bip_39_word_no_space_4: dogvoteoperapool
+bip_39_word_no_space_5: dogvoteoperapoolcharge
+bip_39_word_no_space_6: dogvoteoperapoolchargecruel
+bip_39_word_no_space_7: dogvoteoperapoolchargecruelupset
+bip_39_word_no_space_8: dogvoteoperapoolchargecruelupsetthen
+bip_39_word_no_space_9: dogvoteoperapoolchargecruelupsetthenacid
+bip_39_word_space_0:
+- dog
+- vote
+- opera
+- pool
+- charge
+- cruel
+- upset
+- then
+- acid
+- purchase
+- enemy
+- ahead
+bip_39_word_space_1: dog
+bip_39_word_space_10: dog vote opera pool charge cruel upset then acid purchase
+bip_39_word_space_11: dog vote opera pool charge cruel upset then acid purchase enemy
+bip_39_word_space_12: dog vote opera pool charge cruel upset then acid purchase enemy
+  ahead
+bip_39_word_space_2: dog vote
+bip_39_word_space_3: dog vote opera
+bip_39_word_space_4: dog vote opera pool
+bip_39_word_space_5: dog vote opera pool charge
+bip_39_word_space_6: dog vote opera pool charge cruel
+bip_39_word_space_7: dog vote opera pool charge cruel upset
+bip_39_word_space_8: dog vote opera pool charge cruel upset then
+bip_39_word_space_9: dog vote opera pool charge cruel upset then acid
+bip_39_word_underscore_1: dog
+bip_39_word_underscore_10: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase
+bip_39_word_underscore_11: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase_enemy
+bip_39_word_underscore_12: dog_vote_opera_pool_charge_cruel_upset_then_acid_purchase_enemy_ahead
+bip_39_word_underscore_2: dog_vote
+bip_39_word_underscore_3: dog_vote_opera
+bip_39_word_underscore_4: dog_vote_opera_pool
+bip_39_word_underscore_5: dog_vote_opera_pool_charge
+bip_39_word_underscore_6: dog_vote_opera_pool_charge_cruel
+bip_39_word_underscore_7: dog_vote_opera_pool_charge_cruel_upset
+bip_39_word_underscore_8: dog_vote_opera_pool_charge_cruel_upset_then
+bip_39_word_underscore_9: dog_vote_opera_pool_charge_cruel_upset_then_acid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_plate_09_01_14__ninety_degree
 id_no_color: 090114ninetydegree
 id_no_size: 09_01_14__ninety_degree
 id_no_type: plate_09_01_14__ninety_degree
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_14__ninety_degree
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_14__ninety_degree
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_14__ninety_degree
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2037zsb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2037zsb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2037zsb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 090114Ninetydegree
 name_no_size: 09 01 14  Ninety Degree
 name_no_size_short: 09 01 14  Ninety Degree
 name_no_type: Plate 09 01 14  Ninety Degree
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_01_14__ninety_degree
 oomp_word: octopus books car
 oomp_word_emoji: ':octopus: :books: :car:'

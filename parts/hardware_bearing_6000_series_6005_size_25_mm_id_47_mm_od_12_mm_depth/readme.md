@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6000 Series 6005 Size 25 mm ID 47 mm OD 12 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6000_series_6005_size_25_mm_id_47_mm_od_12_mm_depth
   * classification: hardware

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: exhaust
+bip_39_word_dash_10: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze
+bip_39_word_dash_11: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze-foot
+bip_39_word_dash_12: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october-maze-foot-attack
+bip_39_word_dash_2: exhaust-repeat
+bip_39_word_dash_3: exhaust-repeat-volume
+bip_39_word_dash_4: exhaust-repeat-volume-make
+bip_39_word_dash_5: exhaust-repeat-volume-make-device
+bip_39_word_dash_6: exhaust-repeat-volume-make-device-gadget
+bip_39_word_dash_7: exhaust-repeat-volume-make-device-gadget-cruel
+bip_39_word_dash_8: exhaust-repeat-volume-make-device-gadget-cruel-bronze
+bip_39_word_dash_9: exhaust-repeat-volume-make-device-gadget-cruel-bronze-october
+bip_39_word_new_br_1: exhaust
+bip_39_word_new_br_10: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze
+bip_39_word_new_br_11: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze<br>foot
+bip_39_word_new_br_12: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october<br>maze<br>foot<br>attack
+bip_39_word_new_br_2: exhaust<br>repeat
+bip_39_word_new_br_3: exhaust<br>repeat<br>volume
+bip_39_word_new_br_4: exhaust<br>repeat<br>volume<br>make
+bip_39_word_new_br_5: exhaust<br>repeat<br>volume<br>make<br>device
+bip_39_word_new_br_6: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget
+bip_39_word_new_br_7: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel
+bip_39_word_new_br_8: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze
+bip_39_word_new_br_9: exhaust<br>repeat<br>volume<br>make<br>device<br>gadget<br>cruel<br>bronze<br>october
+bip_39_word_new_line_1: exhaust
+bip_39_word_new_line_10: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel
+
+  bronze
+
+  october
+
+  maze'
+bip_39_word_new_line_11: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel
+
+  bronze
+
+  october
+
+  maze
+
+  foot'
+bip_39_word_new_line_12: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel
+
+  bronze
+
+  october
+
+  maze
+
+  foot
+
+  attack'
+bip_39_word_new_line_2: 'exhaust
+
+  repeat'
+bip_39_word_new_line_3: 'exhaust
+
+  repeat
+
+  volume'
+bip_39_word_new_line_4: 'exhaust
+
+  repeat
+
+  volume
+
+  make'
+bip_39_word_new_line_5: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device'
+bip_39_word_new_line_6: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget'
+bip_39_word_new_line_7: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel'
+bip_39_word_new_line_8: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel
+
+  bronze'
+bip_39_word_new_line_9: 'exhaust
+
+  repeat
+
+  volume
+
+  make
+
+  device
+
+  gadget
+
+  cruel
+
+  bronze
+
+  october'
+bip_39_word_no_space_1: exhaust
+bip_39_word_no_space_10: exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermaze
+bip_39_word_no_space_11: exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermazefoot
+bip_39_word_no_space_12: exhaustrepeatvolumemakedevicegadgetcruelbronzeoctobermazefootattack
+bip_39_word_no_space_2: exhaustrepeat
+bip_39_word_no_space_3: exhaustrepeatvolume
+bip_39_word_no_space_4: exhaustrepeatvolumemake
+bip_39_word_no_space_5: exhaustrepeatvolumemakedevice
+bip_39_word_no_space_6: exhaustrepeatvolumemakedevicegadget
+bip_39_word_no_space_7: exhaustrepeatvolumemakedevicegadgetcruel
+bip_39_word_no_space_8: exhaustrepeatvolumemakedevicegadgetcruelbronze
+bip_39_word_no_space_9: exhaustrepeatvolumemakedevicegadgetcruelbronzeoctober
+bip_39_word_space_0:
+- exhaust
+- repeat
+- volume
+- make
+- device
+- gadget
+- cruel
+- bronze
+- october
+- maze
+- foot
+- attack
+bip_39_word_space_1: exhaust
+bip_39_word_space_10: exhaust repeat volume make device gadget cruel bronze october
+  maze
+bip_39_word_space_11: exhaust repeat volume make device gadget cruel bronze october
+  maze foot
+bip_39_word_space_12: exhaust repeat volume make device gadget cruel bronze october
+  maze foot attack
+bip_39_word_space_2: exhaust repeat
+bip_39_word_space_3: exhaust repeat volume
+bip_39_word_space_4: exhaust repeat volume make
+bip_39_word_space_5: exhaust repeat volume make device
+bip_39_word_space_6: exhaust repeat volume make device gadget
+bip_39_word_space_7: exhaust repeat volume make device gadget cruel
+bip_39_word_space_8: exhaust repeat volume make device gadget cruel bronze
+bip_39_word_space_9: exhaust repeat volume make device gadget cruel bronze october
+bip_39_word_underscore_1: exhaust
+bip_39_word_underscore_10: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze
+bip_39_word_underscore_11: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze_foot
+bip_39_word_underscore_12: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october_maze_foot_attack
+bip_39_word_underscore_2: exhaust_repeat
+bip_39_word_underscore_3: exhaust_repeat_volume
+bip_39_word_underscore_4: exhaust_repeat_volume_make
+bip_39_word_underscore_5: exhaust_repeat_volume_make_device
+bip_39_word_underscore_6: exhaust_repeat_volume_make_device_gadget
+bip_39_word_underscore_7: exhaust_repeat_volume_make_device_gadget_cruel
+bip_39_word_underscore_8: exhaust_repeat_volume_make_device_gadget_cruel_bronze
+bip_39_word_underscore_9: exhaust_repeat_volume_make_device_gadget_cruel_bronze_october
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_13_04_27
 id_no_color: '130427'
 id_no_size: '13_04_27'
 id_no_type: tray_thin_13_04_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_04_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_04_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_04_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20902jm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20902jm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20902jm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '130427'
 name_no_size: 13 04 27
 name_no_size_short: 13 04 27
 name_no_type: Tray Thin 13 04 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_04_27
 oomp_word: airplane tea sailboat
 oomp_word_emoji: ':airplane: :tea: :sailboat:'

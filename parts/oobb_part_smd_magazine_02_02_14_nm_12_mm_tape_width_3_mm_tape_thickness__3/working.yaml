@@ -1,3 +1,222 @@
+bip_39_word_dash_1: apple
+bip_39_word_dash_10: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse
+bip_39_word_dash_11: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse-narrow
+bip_39_word_dash_12: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean-glimpse-narrow-asset
+bip_39_word_dash_2: apple-bonus
+bip_39_word_dash_3: apple-bonus-blame
+bip_39_word_dash_4: apple-bonus-blame-leopard
+bip_39_word_dash_5: apple-bonus-blame-leopard-winter
+bip_39_word_dash_6: apple-bonus-blame-leopard-winter-prevent
+bip_39_word_dash_7: apple-bonus-blame-leopard-winter-prevent-mercy
+bip_39_word_dash_8: apple-bonus-blame-leopard-winter-prevent-mercy-south
+bip_39_word_dash_9: apple-bonus-blame-leopard-winter-prevent-mercy-south-clean
+bip_39_word_new_br_1: apple
+bip_39_word_new_br_10: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse
+bip_39_word_new_br_11: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse<br>narrow
+bip_39_word_new_br_12: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean<br>glimpse<br>narrow<br>asset
+bip_39_word_new_br_2: apple<br>bonus
+bip_39_word_new_br_3: apple<br>bonus<br>blame
+bip_39_word_new_br_4: apple<br>bonus<br>blame<br>leopard
+bip_39_word_new_br_5: apple<br>bonus<br>blame<br>leopard<br>winter
+bip_39_word_new_br_6: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent
+bip_39_word_new_br_7: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy
+bip_39_word_new_br_8: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south
+bip_39_word_new_br_9: apple<br>bonus<br>blame<br>leopard<br>winter<br>prevent<br>mercy<br>south<br>clean
+bip_39_word_new_line_1: apple
+bip_39_word_new_line_10: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy
+
+  south
+
+  clean
+
+  glimpse'
+bip_39_word_new_line_11: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy
+
+  south
+
+  clean
+
+  glimpse
+
+  narrow'
+bip_39_word_new_line_12: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy
+
+  south
+
+  clean
+
+  glimpse
+
+  narrow
+
+  asset'
+bip_39_word_new_line_2: 'apple
+
+  bonus'
+bip_39_word_new_line_3: 'apple
+
+  bonus
+
+  blame'
+bip_39_word_new_line_4: 'apple
+
+  bonus
+
+  blame
+
+  leopard'
+bip_39_word_new_line_5: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter'
+bip_39_word_new_line_6: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent'
+bip_39_word_new_line_7: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy'
+bip_39_word_new_line_8: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy
+
+  south'
+bip_39_word_new_line_9: 'apple
+
+  bonus
+
+  blame
+
+  leopard
+
+  winter
+
+  prevent
+
+  mercy
+
+  south
+
+  clean'
+bip_39_word_no_space_1: apple
+bip_39_word_no_space_10: applebonusblameleopardwinterpreventmercysouthcleanglimpse
+bip_39_word_no_space_11: applebonusblameleopardwinterpreventmercysouthcleanglimpsenarrow
+bip_39_word_no_space_12: applebonusblameleopardwinterpreventmercysouthcleanglimpsenarrowasset
+bip_39_word_no_space_2: applebonus
+bip_39_word_no_space_3: applebonusblame
+bip_39_word_no_space_4: applebonusblameleopard
+bip_39_word_no_space_5: applebonusblameleopardwinter
+bip_39_word_no_space_6: applebonusblameleopardwinterprevent
+bip_39_word_no_space_7: applebonusblameleopardwinterpreventmercy
+bip_39_word_no_space_8: applebonusblameleopardwinterpreventmercysouth
+bip_39_word_no_space_9: applebonusblameleopardwinterpreventmercysouthclean
+bip_39_word_space_0:
+- apple
+- bonus
+- blame
+- leopard
+- winter
+- prevent
+- mercy
+- south
+- clean
+- glimpse
+- narrow
+- asset
+bip_39_word_space_1: apple
+bip_39_word_space_10: apple bonus blame leopard winter prevent mercy south clean glimpse
+bip_39_word_space_11: apple bonus blame leopard winter prevent mercy south clean glimpse
+  narrow
+bip_39_word_space_12: apple bonus blame leopard winter prevent mercy south clean glimpse
+  narrow asset
+bip_39_word_space_2: apple bonus
+bip_39_word_space_3: apple bonus blame
+bip_39_word_space_4: apple bonus blame leopard
+bip_39_word_space_5: apple bonus blame leopard winter
+bip_39_word_space_6: apple bonus blame leopard winter prevent
+bip_39_word_space_7: apple bonus blame leopard winter prevent mercy
+bip_39_word_space_8: apple bonus blame leopard winter prevent mercy south
+bip_39_word_space_9: apple bonus blame leopard winter prevent mercy south clean
+bip_39_word_underscore_1: apple
+bip_39_word_underscore_10: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse
+bip_39_word_underscore_11: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse_narrow
+bip_39_word_underscore_12: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean_glimpse_narrow_asset
+bip_39_word_underscore_2: apple_bonus
+bip_39_word_underscore_3: apple_bonus_blame
+bip_39_word_underscore_4: apple_bonus_blame_leopard
+bip_39_word_underscore_5: apple_bonus_blame_leopard_winter
+bip_39_word_underscore_6: apple_bonus_blame_leopard_winter_prevent
+bip_39_word_underscore_7: apple_bonus_blame_leopard_winter_prevent_mercy
+bip_39_word_underscore_8: apple_bonus_blame_leopard_winter_prevent_mercy_south
+bip_39_word_underscore_9: apple_bonus_blame_leopard_winter_prevent_mercy_south_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness_
 id_no_color: 020214nm12mmtapewidth3mmtapethickness3
 id_no_size: 02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
 id_no_type: smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208jtw8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208jtw8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208jtw8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020214Nm12mmtapewidth3mmtapethickness3
 name_no_size: 02 02 14 Nm 12 mm Tape Width 3 mm Tape Thickness  3
 name_no_size_short: 02 02 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness  3
 name_no_type: SMD Magazine 02 02 14 Nm 12 mm Tape Width 3 mm Tape Thickness  3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_02_02_14_nm_12_mm_tape_width_3_mm_tape_thickness__3
 oomp_word: tent eyes hand
 oomp_word_emoji: ':tent: :eyes: :hand:'

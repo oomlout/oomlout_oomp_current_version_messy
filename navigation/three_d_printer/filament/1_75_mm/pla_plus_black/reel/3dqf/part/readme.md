@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Three D Printer Filament 1 75 mm Pla Plus Black Reel 3Dqf
+* name_short: 
 ### id
 * oomp_id: three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf
   * classification: three_d_printer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hospital: :hotel: :clipboard:
 * md5_6_alpha: 8glu6
 * md5_6: d8da8e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208glu6)
+[2x1](http://192.168.1.242:1112/?label=oomp%208glu6)
+[6x4](http://192.168.1.55:1112/?label=oomp%208glu6)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,8 +305,15 @@ drink |
 | id_no_color | reel_3dqf |  
 | id_no_size | pla_plus_black_reel_3dqf |  
 | id_no_type | 1_75_mm_pla_plus_black_reel_3dqf |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf |  
+| link_2_name | github_link |  
 | link_buy | https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208glu6 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208glu6 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208glu6 |  
 | link_purchase | https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament |  
 | manufacturer | 3dqf |  
 | manufacturer_capital | 3Dqf |  
@@ -330,6 +363,7 @@ drink |
 | name_no_size | Pla Plus Black Reel 3Dqf |  
 | name_no_size_short | Pla Plus Black Reel 3Dqf |  
 | name_no_type | 1 75 mm Pla Plus Black Reel 3Dqf |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_filament_1_75_mm_pla_plus_black_reel_3dqf |  
 | oomp_word | hospital hotel clipboard |  
 | oomp_word_emoji | :hospital: :hotel: :clipboard: |  

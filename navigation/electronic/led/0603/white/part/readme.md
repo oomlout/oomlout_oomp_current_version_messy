@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 0603 White
+* name_short: 
 ### id
 * oomp_id: electronic_led_0603_white
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :frog: :hamster: :penguin:
 * md5_6_alpha: 26ybv
 * md5_6: 38354b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2026ybv)
+[2x1](http://192.168.1.242:1112/?label=oomp%2026ybv)
+[6x4](http://192.168.1.55:1112/?label=oomp%2026ybv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ same |
 | id_no_size | white |  
 | id_no_type | 0603_white |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2026ybv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2026ybv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2026ybv |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ same |
 | name_no_size | White |  
 | name_no_size_short | White |  
 | name_no_type | 0603 White |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0603_white |  
 | oomp_word | frog hamster penguin |  
 | oomp_word_emoji | :frog: :hamster: :penguin: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle
+bip_39_word_dash_11: rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle-dial
+bip_39_word_dash_12: rent-attitude-during-solution-unable-leisure-neglect-angry-figure-struggle-dial-assault
+bip_39_word_dash_2: rent-attitude
+bip_39_word_dash_3: rent-attitude-during
+bip_39_word_dash_4: rent-attitude-during-solution
+bip_39_word_dash_5: rent-attitude-during-solution-unable
+bip_39_word_dash_6: rent-attitude-during-solution-unable-leisure
+bip_39_word_dash_7: rent-attitude-during-solution-unable-leisure-neglect
+bip_39_word_dash_8: rent-attitude-during-solution-unable-leisure-neglect-angry
+bip_39_word_dash_9: rent-attitude-during-solution-unable-leisure-neglect-angry-figure
+bip_39_word_new_br_1: rent
+bip_39_word_new_br_10: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle
+bip_39_word_new_br_11: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle<br>dial
+bip_39_word_new_br_12: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure<br>struggle<br>dial<br>assault
+bip_39_word_new_br_2: rent<br>attitude
+bip_39_word_new_br_3: rent<br>attitude<br>during
+bip_39_word_new_br_4: rent<br>attitude<br>during<br>solution
+bip_39_word_new_br_5: rent<br>attitude<br>during<br>solution<br>unable
+bip_39_word_new_br_6: rent<br>attitude<br>during<br>solution<br>unable<br>leisure
+bip_39_word_new_br_7: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect
+bip_39_word_new_br_8: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry
+bip_39_word_new_br_9: rent<br>attitude<br>during<br>solution<br>unable<br>leisure<br>neglect<br>angry<br>figure
+bip_39_word_new_line_1: rent
+bip_39_word_new_line_10: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect
+
+  angry
+
+  figure
+
+  struggle'
+bip_39_word_new_line_11: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect
+
+  angry
+
+  figure
+
+  struggle
+
+  dial'
+bip_39_word_new_line_12: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect
+
+  angry
+
+  figure
+
+  struggle
+
+  dial
+
+  assault'
+bip_39_word_new_line_2: 'rent
+
+  attitude'
+bip_39_word_new_line_3: 'rent
+
+  attitude
+
+  during'
+bip_39_word_new_line_4: 'rent
+
+  attitude
+
+  during
+
+  solution'
+bip_39_word_new_line_5: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable'
+bip_39_word_new_line_6: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure'
+bip_39_word_new_line_7: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect'
+bip_39_word_new_line_8: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect
+
+  angry'
+bip_39_word_new_line_9: 'rent
+
+  attitude
+
+  during
+
+  solution
+
+  unable
+
+  leisure
+
+  neglect
+
+  angry
+
+  figure'
+bip_39_word_no_space_1: rent
+bip_39_word_no_space_10: rentattitudeduringsolutionunableleisureneglectangryfigurestruggle
+bip_39_word_no_space_11: rentattitudeduringsolutionunableleisureneglectangryfigurestruggledial
+bip_39_word_no_space_12: rentattitudeduringsolutionunableleisureneglectangryfigurestruggledialassault
+bip_39_word_no_space_2: rentattitude
+bip_39_word_no_space_3: rentattitudeduring
+bip_39_word_no_space_4: rentattitudeduringsolution
+bip_39_word_no_space_5: rentattitudeduringsolutionunable
+bip_39_word_no_space_6: rentattitudeduringsolutionunableleisure
+bip_39_word_no_space_7: rentattitudeduringsolutionunableleisureneglect
+bip_39_word_no_space_8: rentattitudeduringsolutionunableleisureneglectangry
+bip_39_word_no_space_9: rentattitudeduringsolutionunableleisureneglectangryfigure
+bip_39_word_space_0:
+- rent
+- attitude
+- during
+- solution
+- unable
+- leisure
+- neglect
+- angry
+- figure
+- struggle
+- dial
+- assault
+bip_39_word_space_1: rent
+bip_39_word_space_10: rent attitude during solution unable leisure neglect angry figure
+  struggle
+bip_39_word_space_11: rent attitude during solution unable leisure neglect angry figure
+  struggle dial
+bip_39_word_space_12: rent attitude during solution unable leisure neglect angry figure
+  struggle dial assault
+bip_39_word_space_2: rent attitude
+bip_39_word_space_3: rent attitude during
+bip_39_word_space_4: rent attitude during solution
+bip_39_word_space_5: rent attitude during solution unable
+bip_39_word_space_6: rent attitude during solution unable leisure
+bip_39_word_space_7: rent attitude during solution unable leisure neglect
+bip_39_word_space_8: rent attitude during solution unable leisure neglect angry
+bip_39_word_space_9: rent attitude during solution unable leisure neglect angry figure
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle
+bip_39_word_underscore_11: rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle_dial
+bip_39_word_underscore_12: rent_attitude_during_solution_unable_leisure_neglect_angry_figure_struggle_dial_assault
+bip_39_word_underscore_2: rent_attitude
+bip_39_word_underscore_3: rent_attitude_during
+bip_39_word_underscore_4: rent_attitude_during_solution
+bip_39_word_underscore_5: rent_attitude_during_solution_unable
+bip_39_word_underscore_6: rent_attitude_during_solution_unable_leisure
+bip_39_word_underscore_7: rent_attitude_during_solution_unable_leisure_neglect
+bip_39_word_underscore_8: rent_attitude_during_solution_unable_leisure_neglect_angry
+bip_39_word_underscore_9: rent_attitude_during_solution_unable_leisure_neglect_angry_figure
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 15_mm_length_screw_and_screw
 id_no_size: nylon_white_15_mm_length_screw_and_screw
 id_no_type: m3_nylon_white_15_mm_length_screw_and_screw
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_screw_and_screw
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_screw_and_screw
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_15_mm_length_screw_and_screw
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208g2t1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208g2t1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208g2t1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,25 @@ name_no_color: 15 mm Length Screw And Screw
 name_no_size: Nylon White 15 mm Length Screw And Screw
 name_no_size_short: Nylon White 15 Mm Length Screw And Screw
 name_no_type: M3 Nylon White 15 mm Length Screw And Screw
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 15 mm
+oomlout_bolt_length_no_unit: '15'
+oomlout_bolt_md5_6_alpha_first_3: 8g2
+oomlout_bolt_md5_6_alpha_first_3_upper: 8G2
+oomlout_bolt_md5_6_alpha_last_3: t1
+oomlout_bolt_md5_6_alpha_last_3_upper: T1
+oomlout_bolt_md5_6_first_3: d87
+oomlout_bolt_md5_6_first_3_upper: D87
+oomlout_bolt_md5_6_last_3: a35
+oomlout_bolt_md5_6_last_3_upper: A35
+oomlout_bolt_name: ' M3X15 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3nw15ss
+oomlout_short_code_upper: SO3NW15SS
 oomp_key: oomp_hardware_standoff_m3_nylon_white_15_mm_length_screw_and_screw
 oomp_word: hospital camera hamster
 oomp_word_emoji: ':hospital: :camera: :hamster:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: method
+bip_39_word_dash_10: method-alpha-asthma-onion-business-motor-area-calm-receive-occur
+bip_39_word_dash_11: method-alpha-asthma-onion-business-motor-area-calm-receive-occur-maximum
+bip_39_word_dash_12: method-alpha-asthma-onion-business-motor-area-calm-receive-occur-maximum-again
+bip_39_word_dash_2: method-alpha
+bip_39_word_dash_3: method-alpha-asthma
+bip_39_word_dash_4: method-alpha-asthma-onion
+bip_39_word_dash_5: method-alpha-asthma-onion-business
+bip_39_word_dash_6: method-alpha-asthma-onion-business-motor
+bip_39_word_dash_7: method-alpha-asthma-onion-business-motor-area
+bip_39_word_dash_8: method-alpha-asthma-onion-business-motor-area-calm
+bip_39_word_dash_9: method-alpha-asthma-onion-business-motor-area-calm-receive
+bip_39_word_new_br_1: method
+bip_39_word_new_br_10: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur
+bip_39_word_new_br_11: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum
+bip_39_word_new_br_12: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive<br>occur<br>maximum<br>again
+bip_39_word_new_br_2: method<br>alpha
+bip_39_word_new_br_3: method<br>alpha<br>asthma
+bip_39_word_new_br_4: method<br>alpha<br>asthma<br>onion
+bip_39_word_new_br_5: method<br>alpha<br>asthma<br>onion<br>business
+bip_39_word_new_br_6: method<br>alpha<br>asthma<br>onion<br>business<br>motor
+bip_39_word_new_br_7: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area
+bip_39_word_new_br_8: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm
+bip_39_word_new_br_9: method<br>alpha<br>asthma<br>onion<br>business<br>motor<br>area<br>calm<br>receive
+bip_39_word_new_line_1: method
+bip_39_word_new_line_10: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area
+
+  calm
+
+  receive
+
+  occur'
+bip_39_word_new_line_11: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area
+
+  calm
+
+  receive
+
+  occur
+
+  maximum'
+bip_39_word_new_line_12: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area
+
+  calm
+
+  receive
+
+  occur
+
+  maximum
+
+  again'
+bip_39_word_new_line_2: 'method
+
+  alpha'
+bip_39_word_new_line_3: 'method
+
+  alpha
+
+  asthma'
+bip_39_word_new_line_4: 'method
+
+  alpha
+
+  asthma
+
+  onion'
+bip_39_word_new_line_5: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business'
+bip_39_word_new_line_6: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor'
+bip_39_word_new_line_7: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area'
+bip_39_word_new_line_8: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area
+
+  calm'
+bip_39_word_new_line_9: 'method
+
+  alpha
+
+  asthma
+
+  onion
+
+  business
+
+  motor
+
+  area
+
+  calm
+
+  receive'
+bip_39_word_no_space_1: method
+bip_39_word_no_space_10: methodalphaasthmaonionbusinessmotorareacalmreceiveoccur
+bip_39_word_no_space_11: methodalphaasthmaonionbusinessmotorareacalmreceiveoccurmaximum
+bip_39_word_no_space_12: methodalphaasthmaonionbusinessmotorareacalmreceiveoccurmaximumagain
+bip_39_word_no_space_2: methodalpha
+bip_39_word_no_space_3: methodalphaasthma
+bip_39_word_no_space_4: methodalphaasthmaonion
+bip_39_word_no_space_5: methodalphaasthmaonionbusiness
+bip_39_word_no_space_6: methodalphaasthmaonionbusinessmotor
+bip_39_word_no_space_7: methodalphaasthmaonionbusinessmotorarea
+bip_39_word_no_space_8: methodalphaasthmaonionbusinessmotorareacalm
+bip_39_word_no_space_9: methodalphaasthmaonionbusinessmotorareacalmreceive
+bip_39_word_space_0:
+- method
+- alpha
+- asthma
+- onion
+- business
+- motor
+- area
+- calm
+- receive
+- occur
+- maximum
+- again
+bip_39_word_space_1: method
+bip_39_word_space_10: method alpha asthma onion business motor area calm receive occur
+bip_39_word_space_11: method alpha asthma onion business motor area calm receive occur
+  maximum
+bip_39_word_space_12: method alpha asthma onion business motor area calm receive occur
+  maximum again
+bip_39_word_space_2: method alpha
+bip_39_word_space_3: method alpha asthma
+bip_39_word_space_4: method alpha asthma onion
+bip_39_word_space_5: method alpha asthma onion business
+bip_39_word_space_6: method alpha asthma onion business motor
+bip_39_word_space_7: method alpha asthma onion business motor area
+bip_39_word_space_8: method alpha asthma onion business motor area calm
+bip_39_word_space_9: method alpha asthma onion business motor area calm receive
+bip_39_word_underscore_1: method
+bip_39_word_underscore_10: method_alpha_asthma_onion_business_motor_area_calm_receive_occur
+bip_39_word_underscore_11: method_alpha_asthma_onion_business_motor_area_calm_receive_occur_maximum
+bip_39_word_underscore_12: method_alpha_asthma_onion_business_motor_area_calm_receive_occur_maximum_again
+bip_39_word_underscore_2: method_alpha
+bip_39_word_underscore_3: method_alpha_asthma
+bip_39_word_underscore_4: method_alpha_asthma_onion
+bip_39_word_underscore_5: method_alpha_asthma_onion_business
+bip_39_word_underscore_6: method_alpha_asthma_onion_business_motor
+bip_39_word_underscore_7: method_alpha_asthma_onion_business_motor_area
+bip_39_word_underscore_8: method_alpha_asthma_onion_business_motor_area_calm
+bip_39_word_underscore_9: method_alpha_asthma_onion_business_motor_area_calm_receive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
 id_no_color: 010630teethshmotortt01
 id_no_size: 01_06__30_teeth_sh_motor_tt_01
 id_no_type: pulley_gt2_01_06__30_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xgbq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xgbq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xgbq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010630Teethshmotortt01
 name_no_size: 01 06  30 Teeth Sh Motor Tt 01
 name_no_size_short: 01 06  30 Teeth Sh Motor Tt 01
 name_no_type: Pulley Gt2 01 06  30 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_tt_01
 oomp_word: penguin anger airplane
 oomp_word_emoji: ':penguin: :anger: :airplane:'

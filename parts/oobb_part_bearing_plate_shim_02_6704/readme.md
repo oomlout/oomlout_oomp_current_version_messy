@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Plate Shim 02 6704
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_plate_shim_02_6704
   * classification: oobb

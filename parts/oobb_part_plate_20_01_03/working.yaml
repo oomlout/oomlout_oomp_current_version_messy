@@ -1,3 +1,222 @@
+bip_39_word_dash_1: extra
+bip_39_word_dash_10: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth
+bip_39_word_dash_11: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth-bulb
+bip_39_word_dash_12: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon-worth-bulb-assist
+bip_39_word_dash_2: extra-shrug
+bip_39_word_dash_3: extra-shrug-torch
+bip_39_word_dash_4: extra-shrug-torch-unable
+bip_39_word_dash_5: extra-shrug-torch-unable-clever
+bip_39_word_dash_6: extra-shrug-torch-unable-clever-peasant
+bip_39_word_dash_7: extra-shrug-torch-unable-clever-peasant-pill
+bip_39_word_dash_8: extra-shrug-torch-unable-clever-peasant-pill-shy
+bip_39_word_dash_9: extra-shrug-torch-unable-clever-peasant-pill-shy-weapon
+bip_39_word_new_br_1: extra
+bip_39_word_new_br_10: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth
+bip_39_word_new_br_11: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb
+bip_39_word_new_br_12: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon<br>worth<br>bulb<br>assist
+bip_39_word_new_br_2: extra<br>shrug
+bip_39_word_new_br_3: extra<br>shrug<br>torch
+bip_39_word_new_br_4: extra<br>shrug<br>torch<br>unable
+bip_39_word_new_br_5: extra<br>shrug<br>torch<br>unable<br>clever
+bip_39_word_new_br_6: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant
+bip_39_word_new_br_7: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill
+bip_39_word_new_br_8: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy
+bip_39_word_new_br_9: extra<br>shrug<br>torch<br>unable<br>clever<br>peasant<br>pill<br>shy<br>weapon
+bip_39_word_new_line_1: extra
+bip_39_word_new_line_10: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth'
+bip_39_word_new_line_11: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth
+
+  bulb'
+bip_39_word_new_line_12: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon
+
+  worth
+
+  bulb
+
+  assist'
+bip_39_word_new_line_2: 'extra
+
+  shrug'
+bip_39_word_new_line_3: 'extra
+
+  shrug
+
+  torch'
+bip_39_word_new_line_4: 'extra
+
+  shrug
+
+  torch
+
+  unable'
+bip_39_word_new_line_5: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever'
+bip_39_word_new_line_6: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant'
+bip_39_word_new_line_7: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill'
+bip_39_word_new_line_8: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy'
+bip_39_word_new_line_9: 'extra
+
+  shrug
+
+  torch
+
+  unable
+
+  clever
+
+  peasant
+
+  pill
+
+  shy
+
+  weapon'
+bip_39_word_no_space_1: extra
+bip_39_word_no_space_10: extrashrugtorchunablecleverpeasantpillshyweaponworth
+bip_39_word_no_space_11: extrashrugtorchunablecleverpeasantpillshyweaponworthbulb
+bip_39_word_no_space_12: extrashrugtorchunablecleverpeasantpillshyweaponworthbulbassist
+bip_39_word_no_space_2: extrashrug
+bip_39_word_no_space_3: extrashrugtorch
+bip_39_word_no_space_4: extrashrugtorchunable
+bip_39_word_no_space_5: extrashrugtorchunableclever
+bip_39_word_no_space_6: extrashrugtorchunablecleverpeasant
+bip_39_word_no_space_7: extrashrugtorchunablecleverpeasantpill
+bip_39_word_no_space_8: extrashrugtorchunablecleverpeasantpillshy
+bip_39_word_no_space_9: extrashrugtorchunablecleverpeasantpillshyweapon
+bip_39_word_space_0:
+- extra
+- shrug
+- torch
+- unable
+- clever
+- peasant
+- pill
+- shy
+- weapon
+- worth
+- bulb
+- assist
+bip_39_word_space_1: extra
+bip_39_word_space_10: extra shrug torch unable clever peasant pill shy weapon worth
+bip_39_word_space_11: extra shrug torch unable clever peasant pill shy weapon worth
+  bulb
+bip_39_word_space_12: extra shrug torch unable clever peasant pill shy weapon worth
+  bulb assist
+bip_39_word_space_2: extra shrug
+bip_39_word_space_3: extra shrug torch
+bip_39_word_space_4: extra shrug torch unable
+bip_39_word_space_5: extra shrug torch unable clever
+bip_39_word_space_6: extra shrug torch unable clever peasant
+bip_39_word_space_7: extra shrug torch unable clever peasant pill
+bip_39_word_space_8: extra shrug torch unable clever peasant pill shy
+bip_39_word_space_9: extra shrug torch unable clever peasant pill shy weapon
+bip_39_word_underscore_1: extra
+bip_39_word_underscore_10: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth
+bip_39_word_underscore_11: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth_bulb
+bip_39_word_underscore_12: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon_worth_bulb_assist
+bip_39_word_underscore_2: extra_shrug
+bip_39_word_underscore_3: extra_shrug_torch
+bip_39_word_underscore_4: extra_shrug_torch_unable
+bip_39_word_underscore_5: extra_shrug_torch_unable_clever
+bip_39_word_underscore_6: extra_shrug_torch_unable_clever_peasant
+bip_39_word_underscore_7: extra_shrug_torch_unable_clever_peasant_pill
+bip_39_word_underscore_8: extra_shrug_torch_unable_clever_peasant_pill_shy
+bip_39_word_underscore_9: extra_shrug_torch_unable_clever_peasant_pill_shy_weapon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_20_01_03
 id_no_color: '200103'
 id_no_size: '20_01_03'
 id_no_type: plate_20_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_20_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_20_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_20_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208lcsf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208lcsf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208lcsf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '200103'
 name_no_size: 20 01 03
 name_no_size_short: 20 01 03
 name_no_type: Plate 20 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_20_01_03
 oomp_word: factory bear trident
 oomp_word_emoji: ':factory: :bear: :trident:'

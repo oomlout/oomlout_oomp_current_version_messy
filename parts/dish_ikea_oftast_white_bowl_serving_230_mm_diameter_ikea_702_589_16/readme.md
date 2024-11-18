@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Bowl Serving 230 mm Diameter Ikea 702 589 16
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
   * classification: dish

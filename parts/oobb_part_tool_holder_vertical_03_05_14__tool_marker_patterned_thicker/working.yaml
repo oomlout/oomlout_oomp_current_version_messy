@@ -1,3 +1,222 @@
+bip_39_word_dash_1: toss
+bip_39_word_dash_10: toss-motion-bracket-traffic-music-own-heavy-shadow-door-actress
+bip_39_word_dash_11: toss-motion-bracket-traffic-music-own-heavy-shadow-door-actress-mimic
+bip_39_word_dash_12: toss-motion-bracket-traffic-music-own-heavy-shadow-door-actress-mimic-artist
+bip_39_word_dash_2: toss-motion
+bip_39_word_dash_3: toss-motion-bracket
+bip_39_word_dash_4: toss-motion-bracket-traffic
+bip_39_word_dash_5: toss-motion-bracket-traffic-music
+bip_39_word_dash_6: toss-motion-bracket-traffic-music-own
+bip_39_word_dash_7: toss-motion-bracket-traffic-music-own-heavy
+bip_39_word_dash_8: toss-motion-bracket-traffic-music-own-heavy-shadow
+bip_39_word_dash_9: toss-motion-bracket-traffic-music-own-heavy-shadow-door
+bip_39_word_new_br_1: toss
+bip_39_word_new_br_10: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress
+bip_39_word_new_br_11: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress<br>mimic
+bip_39_word_new_br_12: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door<br>actress<br>mimic<br>artist
+bip_39_word_new_br_2: toss<br>motion
+bip_39_word_new_br_3: toss<br>motion<br>bracket
+bip_39_word_new_br_4: toss<br>motion<br>bracket<br>traffic
+bip_39_word_new_br_5: toss<br>motion<br>bracket<br>traffic<br>music
+bip_39_word_new_br_6: toss<br>motion<br>bracket<br>traffic<br>music<br>own
+bip_39_word_new_br_7: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy
+bip_39_word_new_br_8: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow
+bip_39_word_new_br_9: toss<br>motion<br>bracket<br>traffic<br>music<br>own<br>heavy<br>shadow<br>door
+bip_39_word_new_line_1: toss
+bip_39_word_new_line_10: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress'
+bip_39_word_new_line_11: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress
+
+  mimic'
+bip_39_word_new_line_12: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door
+
+  actress
+
+  mimic
+
+  artist'
+bip_39_word_new_line_2: 'toss
+
+  motion'
+bip_39_word_new_line_3: 'toss
+
+  motion
+
+  bracket'
+bip_39_word_new_line_4: 'toss
+
+  motion
+
+  bracket
+
+  traffic'
+bip_39_word_new_line_5: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music'
+bip_39_word_new_line_6: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own'
+bip_39_word_new_line_7: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy'
+bip_39_word_new_line_8: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow'
+bip_39_word_new_line_9: 'toss
+
+  motion
+
+  bracket
+
+  traffic
+
+  music
+
+  own
+
+  heavy
+
+  shadow
+
+  door'
+bip_39_word_no_space_1: toss
+bip_39_word_no_space_10: tossmotionbrackettrafficmusicownheavyshadowdooractress
+bip_39_word_no_space_11: tossmotionbrackettrafficmusicownheavyshadowdooractressmimic
+bip_39_word_no_space_12: tossmotionbrackettrafficmusicownheavyshadowdooractressmimicartist
+bip_39_word_no_space_2: tossmotion
+bip_39_word_no_space_3: tossmotionbracket
+bip_39_word_no_space_4: tossmotionbrackettraffic
+bip_39_word_no_space_5: tossmotionbrackettrafficmusic
+bip_39_word_no_space_6: tossmotionbrackettrafficmusicown
+bip_39_word_no_space_7: tossmotionbrackettrafficmusicownheavy
+bip_39_word_no_space_8: tossmotionbrackettrafficmusicownheavyshadow
+bip_39_word_no_space_9: tossmotionbrackettrafficmusicownheavyshadowdoor
+bip_39_word_space_0:
+- toss
+- motion
+- bracket
+- traffic
+- music
+- own
+- heavy
+- shadow
+- door
+- actress
+- mimic
+- artist
+bip_39_word_space_1: toss
+bip_39_word_space_10: toss motion bracket traffic music own heavy shadow door actress
+bip_39_word_space_11: toss motion bracket traffic music own heavy shadow door actress
+  mimic
+bip_39_word_space_12: toss motion bracket traffic music own heavy shadow door actress
+  mimic artist
+bip_39_word_space_2: toss motion
+bip_39_word_space_3: toss motion bracket
+bip_39_word_space_4: toss motion bracket traffic
+bip_39_word_space_5: toss motion bracket traffic music
+bip_39_word_space_6: toss motion bracket traffic music own
+bip_39_word_space_7: toss motion bracket traffic music own heavy
+bip_39_word_space_8: toss motion bracket traffic music own heavy shadow
+bip_39_word_space_9: toss motion bracket traffic music own heavy shadow door
+bip_39_word_underscore_1: toss
+bip_39_word_underscore_10: toss_motion_bracket_traffic_music_own_heavy_shadow_door_actress
+bip_39_word_underscore_11: toss_motion_bracket_traffic_music_own_heavy_shadow_door_actress_mimic
+bip_39_word_underscore_12: toss_motion_bracket_traffic_music_own_heavy_shadow_door_actress_mimic_artist
+bip_39_word_underscore_2: toss_motion
+bip_39_word_underscore_3: toss_motion_bracket
+bip_39_word_underscore_4: toss_motion_bracket_traffic
+bip_39_word_underscore_5: toss_motion_bracket_traffic_music
+bip_39_word_underscore_6: toss_motion_bracket_traffic_music_own
+bip_39_word_underscore_7: toss_motion_bracket_traffic_music_own_heavy
+bip_39_word_underscore_8: toss_motion_bracket_traffic_music_own_heavy_shadow
+bip_39_word_underscore_9: toss_motion_bracket_traffic_music_own_heavy_shadow_door
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
 id_no_color: 030514toolmarkerpatternedthicker
 id_no_size: 03_05_14__tool_marker_patterned_thicker
 id_no_type: tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2085pq8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2085pq8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2085pq8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030514Toolmarkerpatternedthicker
 name_no_size: 03 05 14  Tool Marker Patterned Thicker
 name_no_size_short: 03 05 14  Tool Marker Patterned Thicker
 name_no_type: Tool Holder Vertical 03 05 14  Tool Marker Patterned Thicker
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_14__tool_marker_patterned_thicker
 oomp_word: pear pray hourglass
 oomp_word_emoji: ':pear: :pray: :hourglass:'

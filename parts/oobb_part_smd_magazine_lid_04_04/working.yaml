@@ -1,3 +1,221 @@
+bip_39_word_dash_1: easy
+bip_39_word_dash_10: easy-quarter-this-salute-course-plate-dune-rug-world-slot
+bip_39_word_dash_11: easy-quarter-this-salute-course-plate-dune-rug-world-slot-brown
+bip_39_word_dash_12: easy-quarter-this-salute-course-plate-dune-rug-world-slot-brown-adult
+bip_39_word_dash_2: easy-quarter
+bip_39_word_dash_3: easy-quarter-this
+bip_39_word_dash_4: easy-quarter-this-salute
+bip_39_word_dash_5: easy-quarter-this-salute-course
+bip_39_word_dash_6: easy-quarter-this-salute-course-plate
+bip_39_word_dash_7: easy-quarter-this-salute-course-plate-dune
+bip_39_word_dash_8: easy-quarter-this-salute-course-plate-dune-rug
+bip_39_word_dash_9: easy-quarter-this-salute-course-plate-dune-rug-world
+bip_39_word_new_br_1: easy
+bip_39_word_new_br_10: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot
+bip_39_word_new_br_11: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown
+bip_39_word_new_br_12: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world<br>slot<br>brown<br>adult
+bip_39_word_new_br_2: easy<br>quarter
+bip_39_word_new_br_3: easy<br>quarter<br>this
+bip_39_word_new_br_4: easy<br>quarter<br>this<br>salute
+bip_39_word_new_br_5: easy<br>quarter<br>this<br>salute<br>course
+bip_39_word_new_br_6: easy<br>quarter<br>this<br>salute<br>course<br>plate
+bip_39_word_new_br_7: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune
+bip_39_word_new_br_8: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug
+bip_39_word_new_br_9: easy<br>quarter<br>this<br>salute<br>course<br>plate<br>dune<br>rug<br>world
+bip_39_word_new_line_1: easy
+bip_39_word_new_line_10: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune
+
+  rug
+
+  world
+
+  slot'
+bip_39_word_new_line_11: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune
+
+  rug
+
+  world
+
+  slot
+
+  brown'
+bip_39_word_new_line_12: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune
+
+  rug
+
+  world
+
+  slot
+
+  brown
+
+  adult'
+bip_39_word_new_line_2: 'easy
+
+  quarter'
+bip_39_word_new_line_3: 'easy
+
+  quarter
+
+  this'
+bip_39_word_new_line_4: 'easy
+
+  quarter
+
+  this
+
+  salute'
+bip_39_word_new_line_5: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course'
+bip_39_word_new_line_6: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate'
+bip_39_word_new_line_7: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune'
+bip_39_word_new_line_8: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune
+
+  rug'
+bip_39_word_new_line_9: 'easy
+
+  quarter
+
+  this
+
+  salute
+
+  course
+
+  plate
+
+  dune
+
+  rug
+
+  world'
+bip_39_word_no_space_1: easy
+bip_39_word_no_space_10: easyquarterthissalutecourseplatedunerugworldslot
+bip_39_word_no_space_11: easyquarterthissalutecourseplatedunerugworldslotbrown
+bip_39_word_no_space_12: easyquarterthissalutecourseplatedunerugworldslotbrownadult
+bip_39_word_no_space_2: easyquarter
+bip_39_word_no_space_3: easyquarterthis
+bip_39_word_no_space_4: easyquarterthissalute
+bip_39_word_no_space_5: easyquarterthissalutecourse
+bip_39_word_no_space_6: easyquarterthissalutecourseplate
+bip_39_word_no_space_7: easyquarterthissalutecourseplatedune
+bip_39_word_no_space_8: easyquarterthissalutecourseplatedunerug
+bip_39_word_no_space_9: easyquarterthissalutecourseplatedunerugworld
+bip_39_word_space_0:
+- easy
+- quarter
+- this
+- salute
+- course
+- plate
+- dune
+- rug
+- world
+- slot
+- brown
+- adult
+bip_39_word_space_1: easy
+bip_39_word_space_10: easy quarter this salute course plate dune rug world slot
+bip_39_word_space_11: easy quarter this salute course plate dune rug world slot brown
+bip_39_word_space_12: easy quarter this salute course plate dune rug world slot brown
+  adult
+bip_39_word_space_2: easy quarter
+bip_39_word_space_3: easy quarter this
+bip_39_word_space_4: easy quarter this salute
+bip_39_word_space_5: easy quarter this salute course
+bip_39_word_space_6: easy quarter this salute course plate
+bip_39_word_space_7: easy quarter this salute course plate dune
+bip_39_word_space_8: easy quarter this salute course plate dune rug
+bip_39_word_space_9: easy quarter this salute course plate dune rug world
+bip_39_word_underscore_1: easy
+bip_39_word_underscore_10: easy_quarter_this_salute_course_plate_dune_rug_world_slot
+bip_39_word_underscore_11: easy_quarter_this_salute_course_plate_dune_rug_world_slot_brown
+bip_39_word_underscore_12: easy_quarter_this_salute_course_plate_dune_rug_world_slot_brown_adult
+bip_39_word_underscore_2: easy_quarter
+bip_39_word_underscore_3: easy_quarter_this
+bip_39_word_underscore_4: easy_quarter_this_salute
+bip_39_word_underscore_5: easy_quarter_this_salute_course
+bip_39_word_underscore_6: easy_quarter_this_salute_course_plate
+bip_39_word_underscore_7: easy_quarter_this_salute_course_plate_dune
+bip_39_word_underscore_8: easy_quarter_this_salute_course_plate_dune_rug
+bip_39_word_underscore_9: easy_quarter_this_salute_course_plate_dune_rug_world
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_smd_magazine_lid_04_04
 id_no_color: '0404'
 id_no_size: '04_04'
 id_no_type: smd_magazine_lid_04_04
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_04_04
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_04_04
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_04_04
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202clkj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202clkj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202clkj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '0404'
 name_no_size: 04 04
 name_no_size_short: 04 04
 name_no_type: SMD Magazine Lid 04 04
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_lid_04_04
 oomp_word: pig koala dog
 oomp_word_emoji: ':pig: :koala: :dog:'

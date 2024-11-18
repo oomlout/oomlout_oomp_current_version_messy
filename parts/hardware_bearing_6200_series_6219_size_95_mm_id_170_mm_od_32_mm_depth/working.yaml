@@ -1,3 +1,222 @@
+bip_39_word_dash_1: squirrel
+bip_39_word_dash_10: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute
+bip_39_word_dash_11: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute-guilt
+bip_39_word_dash_12: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur-cute-guilt-auto
+bip_39_word_dash_2: squirrel-luxury
+bip_39_word_dash_3: squirrel-luxury-book
+bip_39_word_dash_4: squirrel-luxury-book-chaos
+bip_39_word_dash_5: squirrel-luxury-book-chaos-fuel
+bip_39_word_dash_6: squirrel-luxury-book-chaos-fuel-half
+bip_39_word_dash_7: squirrel-luxury-book-chaos-fuel-half-wrestle
+bip_39_word_dash_8: squirrel-luxury-book-chaos-fuel-half-wrestle-own
+bip_39_word_dash_9: squirrel-luxury-book-chaos-fuel-half-wrestle-own-occur
+bip_39_word_new_br_1: squirrel
+bip_39_word_new_br_10: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute
+bip_39_word_new_br_11: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt
+bip_39_word_new_br_12: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur<br>cute<br>guilt<br>auto
+bip_39_word_new_br_2: squirrel<br>luxury
+bip_39_word_new_br_3: squirrel<br>luxury<br>book
+bip_39_word_new_br_4: squirrel<br>luxury<br>book<br>chaos
+bip_39_word_new_br_5: squirrel<br>luxury<br>book<br>chaos<br>fuel
+bip_39_word_new_br_6: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half
+bip_39_word_new_br_7: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle
+bip_39_word_new_br_8: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own
+bip_39_word_new_br_9: squirrel<br>luxury<br>book<br>chaos<br>fuel<br>half<br>wrestle<br>own<br>occur
+bip_39_word_new_line_1: squirrel
+bip_39_word_new_line_10: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute'
+bip_39_word_new_line_11: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute
+
+  guilt'
+bip_39_word_new_line_12: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur
+
+  cute
+
+  guilt
+
+  auto'
+bip_39_word_new_line_2: 'squirrel
+
+  luxury'
+bip_39_word_new_line_3: 'squirrel
+
+  luxury
+
+  book'
+bip_39_word_new_line_4: 'squirrel
+
+  luxury
+
+  book
+
+  chaos'
+bip_39_word_new_line_5: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel'
+bip_39_word_new_line_6: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half'
+bip_39_word_new_line_7: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle'
+bip_39_word_new_line_8: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own'
+bip_39_word_new_line_9: 'squirrel
+
+  luxury
+
+  book
+
+  chaos
+
+  fuel
+
+  half
+
+  wrestle
+
+  own
+
+  occur'
+bip_39_word_no_space_1: squirrel
+bip_39_word_no_space_10: squirrelluxurybookchaosfuelhalfwrestleownoccurcute
+bip_39_word_no_space_11: squirrelluxurybookchaosfuelhalfwrestleownoccurcuteguilt
+bip_39_word_no_space_12: squirrelluxurybookchaosfuelhalfwrestleownoccurcuteguiltauto
+bip_39_word_no_space_2: squirrelluxury
+bip_39_word_no_space_3: squirrelluxurybook
+bip_39_word_no_space_4: squirrelluxurybookchaos
+bip_39_word_no_space_5: squirrelluxurybookchaosfuel
+bip_39_word_no_space_6: squirrelluxurybookchaosfuelhalf
+bip_39_word_no_space_7: squirrelluxurybookchaosfuelhalfwrestle
+bip_39_word_no_space_8: squirrelluxurybookchaosfuelhalfwrestleown
+bip_39_word_no_space_9: squirrelluxurybookchaosfuelhalfwrestleownoccur
+bip_39_word_space_0:
+- squirrel
+- luxury
+- book
+- chaos
+- fuel
+- half
+- wrestle
+- own
+- occur
+- cute
+- guilt
+- auto
+bip_39_word_space_1: squirrel
+bip_39_word_space_10: squirrel luxury book chaos fuel half wrestle own occur cute
+bip_39_word_space_11: squirrel luxury book chaos fuel half wrestle own occur cute
+  guilt
+bip_39_word_space_12: squirrel luxury book chaos fuel half wrestle own occur cute
+  guilt auto
+bip_39_word_space_2: squirrel luxury
+bip_39_word_space_3: squirrel luxury book
+bip_39_word_space_4: squirrel luxury book chaos
+bip_39_word_space_5: squirrel luxury book chaos fuel
+bip_39_word_space_6: squirrel luxury book chaos fuel half
+bip_39_word_space_7: squirrel luxury book chaos fuel half wrestle
+bip_39_word_space_8: squirrel luxury book chaos fuel half wrestle own
+bip_39_word_space_9: squirrel luxury book chaos fuel half wrestle own occur
+bip_39_word_underscore_1: squirrel
+bip_39_word_underscore_10: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute
+bip_39_word_underscore_11: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute_guilt
+bip_39_word_underscore_12: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur_cute_guilt_auto
+bip_39_word_underscore_2: squirrel_luxury
+bip_39_word_underscore_3: squirrel_luxury_book
+bip_39_word_underscore_4: squirrel_luxury_book_chaos
+bip_39_word_underscore_5: squirrel_luxury_book_chaos_fuel
+bip_39_word_underscore_6: squirrel_luxury_book_chaos_fuel_half
+bip_39_word_underscore_7: squirrel_luxury_book_chaos_fuel_half_wrestle
+bip_39_word_underscore_8: squirrel_luxury_book_chaos_fuel_half_wrestle_own
+bip_39_word_underscore_9: squirrel_luxury_book_chaos_fuel_half_wrestle_own_occur
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
 id_no_color: 95_mm_id_170_mm_od_32_mm_depth
 id_no_size: 6219_size_95_mm_id_170_mm_od_32_mm_depth
 id_no_type: 6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209phsd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209phsd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209phsd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 95 mm ID 170 mm OD 32 mm Depth
 name_no_size: 6219 Size 95 mm ID 170 mm OD 32 mm Depth
 name_no_size_short: 6219 Size 95 Mm Id 170 Mm Od 32 Mm Depth
 name_no_type: 6200 Series 6219 Size 95 mm ID 170 mm OD 32 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6219
+oomlout_short_code_upper: BR6219
 oomp_key: oomp_hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
 oomp_word: seven melon bug
 oomp_word_emoji: ':seven: :melon: :bug:'

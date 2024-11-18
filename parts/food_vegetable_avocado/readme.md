@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Perfectly Ripe Medium Hass Avocados
 
+### name
+* name: Food Vegetable Avocado
+* name_short: 
 ### id
 * oomp_id: food_vegetable_avocado
   * classification: food

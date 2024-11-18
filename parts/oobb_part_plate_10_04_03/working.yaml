@@ -1,3 +1,222 @@
+bip_39_word_dash_1: claim
+bip_39_word_dash_10: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister
+bip_39_word_dash_11: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister-explain
+bip_39_word_dash_12: claim-asset-panel-kitchen-love-march-sick-trust-leader-sister-explain-assist
+bip_39_word_dash_2: claim-asset
+bip_39_word_dash_3: claim-asset-panel
+bip_39_word_dash_4: claim-asset-panel-kitchen
+bip_39_word_dash_5: claim-asset-panel-kitchen-love
+bip_39_word_dash_6: claim-asset-panel-kitchen-love-march
+bip_39_word_dash_7: claim-asset-panel-kitchen-love-march-sick
+bip_39_word_dash_8: claim-asset-panel-kitchen-love-march-sick-trust
+bip_39_word_dash_9: claim-asset-panel-kitchen-love-march-sick-trust-leader
+bip_39_word_new_br_1: claim
+bip_39_word_new_br_10: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister
+bip_39_word_new_br_11: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister<br>explain
+bip_39_word_new_br_12: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader<br>sister<br>explain<br>assist
+bip_39_word_new_br_2: claim<br>asset
+bip_39_word_new_br_3: claim<br>asset<br>panel
+bip_39_word_new_br_4: claim<br>asset<br>panel<br>kitchen
+bip_39_word_new_br_5: claim<br>asset<br>panel<br>kitchen<br>love
+bip_39_word_new_br_6: claim<br>asset<br>panel<br>kitchen<br>love<br>march
+bip_39_word_new_br_7: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick
+bip_39_word_new_br_8: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust
+bip_39_word_new_br_9: claim<br>asset<br>panel<br>kitchen<br>love<br>march<br>sick<br>trust<br>leader
+bip_39_word_new_line_1: claim
+bip_39_word_new_line_10: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick
+
+  trust
+
+  leader
+
+  sister'
+bip_39_word_new_line_11: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick
+
+  trust
+
+  leader
+
+  sister
+
+  explain'
+bip_39_word_new_line_12: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick
+
+  trust
+
+  leader
+
+  sister
+
+  explain
+
+  assist'
+bip_39_word_new_line_2: 'claim
+
+  asset'
+bip_39_word_new_line_3: 'claim
+
+  asset
+
+  panel'
+bip_39_word_new_line_4: 'claim
+
+  asset
+
+  panel
+
+  kitchen'
+bip_39_word_new_line_5: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love'
+bip_39_word_new_line_6: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march'
+bip_39_word_new_line_7: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick'
+bip_39_word_new_line_8: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick
+
+  trust'
+bip_39_word_new_line_9: 'claim
+
+  asset
+
+  panel
+
+  kitchen
+
+  love
+
+  march
+
+  sick
+
+  trust
+
+  leader'
+bip_39_word_no_space_1: claim
+bip_39_word_no_space_10: claimassetpanelkitchenlovemarchsicktrustleadersister
+bip_39_word_no_space_11: claimassetpanelkitchenlovemarchsicktrustleadersisterexplain
+bip_39_word_no_space_12: claimassetpanelkitchenlovemarchsicktrustleadersisterexplainassist
+bip_39_word_no_space_2: claimasset
+bip_39_word_no_space_3: claimassetpanel
+bip_39_word_no_space_4: claimassetpanelkitchen
+bip_39_word_no_space_5: claimassetpanelkitchenlove
+bip_39_word_no_space_6: claimassetpanelkitchenlovemarch
+bip_39_word_no_space_7: claimassetpanelkitchenlovemarchsick
+bip_39_word_no_space_8: claimassetpanelkitchenlovemarchsicktrust
+bip_39_word_no_space_9: claimassetpanelkitchenlovemarchsicktrustleader
+bip_39_word_space_0:
+- claim
+- asset
+- panel
+- kitchen
+- love
+- march
+- sick
+- trust
+- leader
+- sister
+- explain
+- assist
+bip_39_word_space_1: claim
+bip_39_word_space_10: claim asset panel kitchen love march sick trust leader sister
+bip_39_word_space_11: claim asset panel kitchen love march sick trust leader sister
+  explain
+bip_39_word_space_12: claim asset panel kitchen love march sick trust leader sister
+  explain assist
+bip_39_word_space_2: claim asset
+bip_39_word_space_3: claim asset panel
+bip_39_word_space_4: claim asset panel kitchen
+bip_39_word_space_5: claim asset panel kitchen love
+bip_39_word_space_6: claim asset panel kitchen love march
+bip_39_word_space_7: claim asset panel kitchen love march sick
+bip_39_word_space_8: claim asset panel kitchen love march sick trust
+bip_39_word_space_9: claim asset panel kitchen love march sick trust leader
+bip_39_word_underscore_1: claim
+bip_39_word_underscore_10: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister
+bip_39_word_underscore_11: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister_explain
+bip_39_word_underscore_12: claim_asset_panel_kitchen_love_march_sick_trust_leader_sister_explain_assist
+bip_39_word_underscore_2: claim_asset
+bip_39_word_underscore_3: claim_asset_panel
+bip_39_word_underscore_4: claim_asset_panel_kitchen
+bip_39_word_underscore_5: claim_asset_panel_kitchen_love
+bip_39_word_underscore_6: claim_asset_panel_kitchen_love_march
+bip_39_word_underscore_7: claim_asset_panel_kitchen_love_march_sick
+bip_39_word_underscore_8: claim_asset_panel_kitchen_love_march_sick_trust
+bip_39_word_underscore_9: claim_asset_panel_kitchen_love_march_sick_trust_leader
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_10_04_03
 id_no_color: '100403'
 id_no_size: '10_04_03'
 id_no_type: plate_10_04_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_04_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_04_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_04_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208lws2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208lws2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208lws2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100403'
 name_no_size: 10 04 03
 name_no_size_short: 10 04 03
 name_no_type: Plate 10 04 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_10_04_03
 oomp_word: factory trophy cat
 oomp_word_emoji: ':factory: :trophy: :cat:'

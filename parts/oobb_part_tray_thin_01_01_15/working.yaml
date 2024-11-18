@@ -1,3 +1,223 @@
+bip_39_word_dash_1: case
+bip_39_word_dash_10: case-spice-fragile-uniform-hurdle-wrestle-answer-city-design-mule
+bip_39_word_dash_11: case-spice-fragile-uniform-hurdle-wrestle-answer-city-design-mule-staff
+bip_39_word_dash_12: case-spice-fragile-uniform-hurdle-wrestle-answer-city-design-mule-staff-athlete
+bip_39_word_dash_2: case-spice
+bip_39_word_dash_3: case-spice-fragile
+bip_39_word_dash_4: case-spice-fragile-uniform
+bip_39_word_dash_5: case-spice-fragile-uniform-hurdle
+bip_39_word_dash_6: case-spice-fragile-uniform-hurdle-wrestle
+bip_39_word_dash_7: case-spice-fragile-uniform-hurdle-wrestle-answer
+bip_39_word_dash_8: case-spice-fragile-uniform-hurdle-wrestle-answer-city
+bip_39_word_dash_9: case-spice-fragile-uniform-hurdle-wrestle-answer-city-design
+bip_39_word_new_br_1: case
+bip_39_word_new_br_10: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer<br>city<br>design<br>mule
+bip_39_word_new_br_11: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer<br>city<br>design<br>mule<br>staff
+bip_39_word_new_br_12: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer<br>city<br>design<br>mule<br>staff<br>athlete
+bip_39_word_new_br_2: case<br>spice
+bip_39_word_new_br_3: case<br>spice<br>fragile
+bip_39_word_new_br_4: case<br>spice<br>fragile<br>uniform
+bip_39_word_new_br_5: case<br>spice<br>fragile<br>uniform<br>hurdle
+bip_39_word_new_br_6: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle
+bip_39_word_new_br_7: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer
+bip_39_word_new_br_8: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer<br>city
+bip_39_word_new_br_9: case<br>spice<br>fragile<br>uniform<br>hurdle<br>wrestle<br>answer<br>city<br>design
+bip_39_word_new_line_1: case
+bip_39_word_new_line_10: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer
+
+  city
+
+  design
+
+  mule'
+bip_39_word_new_line_11: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer
+
+  city
+
+  design
+
+  mule
+
+  staff'
+bip_39_word_new_line_12: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer
+
+  city
+
+  design
+
+  mule
+
+  staff
+
+  athlete'
+bip_39_word_new_line_2: 'case
+
+  spice'
+bip_39_word_new_line_3: 'case
+
+  spice
+
+  fragile'
+bip_39_word_new_line_4: 'case
+
+  spice
+
+  fragile
+
+  uniform'
+bip_39_word_new_line_5: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle'
+bip_39_word_new_line_6: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle'
+bip_39_word_new_line_7: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer'
+bip_39_word_new_line_8: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer
+
+  city'
+bip_39_word_new_line_9: 'case
+
+  spice
+
+  fragile
+
+  uniform
+
+  hurdle
+
+  wrestle
+
+  answer
+
+  city
+
+  design'
+bip_39_word_no_space_1: case
+bip_39_word_no_space_10: casespicefragileuniformhurdlewrestleanswercitydesignmule
+bip_39_word_no_space_11: casespicefragileuniformhurdlewrestleanswercitydesignmulestaff
+bip_39_word_no_space_12: casespicefragileuniformhurdlewrestleanswercitydesignmulestaffathlete
+bip_39_word_no_space_2: casespice
+bip_39_word_no_space_3: casespicefragile
+bip_39_word_no_space_4: casespicefragileuniform
+bip_39_word_no_space_5: casespicefragileuniformhurdle
+bip_39_word_no_space_6: casespicefragileuniformhurdlewrestle
+bip_39_word_no_space_7: casespicefragileuniformhurdlewrestleanswer
+bip_39_word_no_space_8: casespicefragileuniformhurdlewrestleanswercity
+bip_39_word_no_space_9: casespicefragileuniformhurdlewrestleanswercitydesign
+bip_39_word_space_0:
+- case
+- spice
+- fragile
+- uniform
+- hurdle
+- wrestle
+- answer
+- city
+- design
+- mule
+- staff
+- athlete
+bip_39_word_space_1: case
+bip_39_word_space_10: case spice fragile uniform hurdle wrestle answer city design
+  mule
+bip_39_word_space_11: case spice fragile uniform hurdle wrestle answer city design
+  mule staff
+bip_39_word_space_12: case spice fragile uniform hurdle wrestle answer city design
+  mule staff athlete
+bip_39_word_space_2: case spice
+bip_39_word_space_3: case spice fragile
+bip_39_word_space_4: case spice fragile uniform
+bip_39_word_space_5: case spice fragile uniform hurdle
+bip_39_word_space_6: case spice fragile uniform hurdle wrestle
+bip_39_word_space_7: case spice fragile uniform hurdle wrestle answer
+bip_39_word_space_8: case spice fragile uniform hurdle wrestle answer city
+bip_39_word_space_9: case spice fragile uniform hurdle wrestle answer city design
+bip_39_word_underscore_1: case
+bip_39_word_underscore_10: case_spice_fragile_uniform_hurdle_wrestle_answer_city_design_mule
+bip_39_word_underscore_11: case_spice_fragile_uniform_hurdle_wrestle_answer_city_design_mule_staff
+bip_39_word_underscore_12: case_spice_fragile_uniform_hurdle_wrestle_answer_city_design_mule_staff_athlete
+bip_39_word_underscore_2: case_spice
+bip_39_word_underscore_3: case_spice_fragile
+bip_39_word_underscore_4: case_spice_fragile_uniform
+bip_39_word_underscore_5: case_spice_fragile_uniform_hurdle
+bip_39_word_underscore_6: case_spice_fragile_uniform_hurdle_wrestle
+bip_39_word_underscore_7: case_spice_fragile_uniform_hurdle_wrestle_answer
+bip_39_word_underscore_8: case_spice_fragile_uniform_hurdle_wrestle_answer_city
+bip_39_word_underscore_9: case_spice_fragile_uniform_hurdle_wrestle_answer_city_design
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_01_01_15
 id_no_color: '010115'
 id_no_size: '01_01_15'
 id_no_type: tray_thin_01_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208vs4k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208vs4k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208vs4k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010115'
 name_no_size: 01 01 15
 name_no_size_short: 01 01 15
 name_no_type: Tray Thin 01 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_01_01_15
 oomp_word: rowboat shoe droplet
 oomp_word_emoji: ':rowboat: :shoe: :droplet:'

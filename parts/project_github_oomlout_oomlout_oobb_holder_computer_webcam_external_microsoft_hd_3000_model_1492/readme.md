@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Holder Computer Webcam External Microsoft Hd 3000 Model 1492
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :new_moon: :cow: :wink:
 * md5_6_alpha: 4auis
 * md5_6: 6e3d04
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204auis)
+[2x1](http://192.168.1.242:1112/?label=oomp%204auis)
+[6x4](http://192.168.1.55:1112/?label=oomp%204auis)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ quit |
 | id_no_color | oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | id_no_size | oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | id_no_type | oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204auis |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204auis |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204auis |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ quit |
 | name_no_size | Oobb Holder Computer Webcam External Microsoft Hd 3000 Model 1492 |  
 | name_no_size_short | Oobb Holder Computer Webcam External Microsoft Hd 3000 Model 1492 |  
 | name_no_type | Oomlout Oomlout Oobb Holder Computer Webcam External Microsoft Hd 3000 Model 1492 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_holder_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | oomp_word | new_moon cow wink |  
 | oomp_word_emoji | :new_moon: :cow: :wink: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Tin Hinged Lid A5 220 mm Width 160 mm Height 25 mm Depth 450 Ml Tinware Direct T4005
+* name_short: 
 ### id
 * oomp_id: packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
   * classification: packaging
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :paperclip: :truck: :snowflake:
 * md5_6_alpha: 5qe5o
 * md5_6: 92ef2c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205qe5o)
+[2x1](http://192.168.1.242:1112/?label=oomp%205qe5o)
+[6x4](http://192.168.1.55:1112/?label=oomp%205qe5o)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005)                             
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+|  | £1.25 |  |  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +275,14 @@ north |
 | id_no_color | tinwaredirectt4005 |  
 | id_no_size | tinware_direct_t4005 |  
 | id_no_type | a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205qe5o |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205qe5o |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205qe5o |  
 | link_purchase | ['https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726838210587'] |  
 | manufacturer | tinware_direct |  
 | manufacturer_capital | Tinware Direct |  
@@ -283,6 +332,7 @@ north |
 | name_no_size | Tinware Direct T4005 |  
 | name_no_size_short | Tinware Direct T4005 |  
 | name_no_type | A5 220 mm Width 160 mm Height 25 mm Depth 450 Ml Tinware Direct T4005 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
 | oomp_word | paperclip truck snowflake |  
 | oomp_word_emoji | :paperclip: :truck: :snowflake: |  

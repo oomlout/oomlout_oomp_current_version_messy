@@ -1,3 +1,222 @@
+bip_39_word_dash_1: shop
+bip_39_word_dash_10: shop-track-dream-opera-include-ensure-enough-nephew-detect-lottery
+bip_39_word_dash_11: shop-track-dream-opera-include-ensure-enough-nephew-detect-lottery-share
+bip_39_word_dash_12: shop-track-dream-opera-include-ensure-enough-nephew-detect-lottery-share-author
+bip_39_word_dash_2: shop-track
+bip_39_word_dash_3: shop-track-dream
+bip_39_word_dash_4: shop-track-dream-opera
+bip_39_word_dash_5: shop-track-dream-opera-include
+bip_39_word_dash_6: shop-track-dream-opera-include-ensure
+bip_39_word_dash_7: shop-track-dream-opera-include-ensure-enough
+bip_39_word_dash_8: shop-track-dream-opera-include-ensure-enough-nephew
+bip_39_word_dash_9: shop-track-dream-opera-include-ensure-enough-nephew-detect
+bip_39_word_new_br_1: shop
+bip_39_word_new_br_10: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough<br>nephew<br>detect<br>lottery
+bip_39_word_new_br_11: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough<br>nephew<br>detect<br>lottery<br>share
+bip_39_word_new_br_12: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough<br>nephew<br>detect<br>lottery<br>share<br>author
+bip_39_word_new_br_2: shop<br>track
+bip_39_word_new_br_3: shop<br>track<br>dream
+bip_39_word_new_br_4: shop<br>track<br>dream<br>opera
+bip_39_word_new_br_5: shop<br>track<br>dream<br>opera<br>include
+bip_39_word_new_br_6: shop<br>track<br>dream<br>opera<br>include<br>ensure
+bip_39_word_new_br_7: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough
+bip_39_word_new_br_8: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough<br>nephew
+bip_39_word_new_br_9: shop<br>track<br>dream<br>opera<br>include<br>ensure<br>enough<br>nephew<br>detect
+bip_39_word_new_line_1: shop
+bip_39_word_new_line_10: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough
+
+  nephew
+
+  detect
+
+  lottery'
+bip_39_word_new_line_11: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough
+
+  nephew
+
+  detect
+
+  lottery
+
+  share'
+bip_39_word_new_line_12: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough
+
+  nephew
+
+  detect
+
+  lottery
+
+  share
+
+  author'
+bip_39_word_new_line_2: 'shop
+
+  track'
+bip_39_word_new_line_3: 'shop
+
+  track
+
+  dream'
+bip_39_word_new_line_4: 'shop
+
+  track
+
+  dream
+
+  opera'
+bip_39_word_new_line_5: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include'
+bip_39_word_new_line_6: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure'
+bip_39_word_new_line_7: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough'
+bip_39_word_new_line_8: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough
+
+  nephew'
+bip_39_word_new_line_9: 'shop
+
+  track
+
+  dream
+
+  opera
+
+  include
+
+  ensure
+
+  enough
+
+  nephew
+
+  detect'
+bip_39_word_no_space_1: shop
+bip_39_word_no_space_10: shoptrackdreamoperaincludeensureenoughnephewdetectlottery
+bip_39_word_no_space_11: shoptrackdreamoperaincludeensureenoughnephewdetectlotteryshare
+bip_39_word_no_space_12: shoptrackdreamoperaincludeensureenoughnephewdetectlotteryshareauthor
+bip_39_word_no_space_2: shoptrack
+bip_39_word_no_space_3: shoptrackdream
+bip_39_word_no_space_4: shoptrackdreamopera
+bip_39_word_no_space_5: shoptrackdreamoperainclude
+bip_39_word_no_space_6: shoptrackdreamoperaincludeensure
+bip_39_word_no_space_7: shoptrackdreamoperaincludeensureenough
+bip_39_word_no_space_8: shoptrackdreamoperaincludeensureenoughnephew
+bip_39_word_no_space_9: shoptrackdreamoperaincludeensureenoughnephewdetect
+bip_39_word_space_0:
+- shop
+- track
+- dream
+- opera
+- include
+- ensure
+- enough
+- nephew
+- detect
+- lottery
+- share
+- author
+bip_39_word_space_1: shop
+bip_39_word_space_10: shop track dream opera include ensure enough nephew detect lottery
+bip_39_word_space_11: shop track dream opera include ensure enough nephew detect lottery
+  share
+bip_39_word_space_12: shop track dream opera include ensure enough nephew detect lottery
+  share author
+bip_39_word_space_2: shop track
+bip_39_word_space_3: shop track dream
+bip_39_word_space_4: shop track dream opera
+bip_39_word_space_5: shop track dream opera include
+bip_39_word_space_6: shop track dream opera include ensure
+bip_39_word_space_7: shop track dream opera include ensure enough
+bip_39_word_space_8: shop track dream opera include ensure enough nephew
+bip_39_word_space_9: shop track dream opera include ensure enough nephew detect
+bip_39_word_underscore_1: shop
+bip_39_word_underscore_10: shop_track_dream_opera_include_ensure_enough_nephew_detect_lottery
+bip_39_word_underscore_11: shop_track_dream_opera_include_ensure_enough_nephew_detect_lottery_share
+bip_39_word_underscore_12: shop_track_dream_opera_include_ensure_enough_nephew_detect_lottery_share_author
+bip_39_word_underscore_2: shop_track
+bip_39_word_underscore_3: shop_track_dream
+bip_39_word_underscore_4: shop_track_dream_opera
+bip_39_word_underscore_5: shop_track_dream_opera_include
+bip_39_word_underscore_6: shop_track_dream_opera_include_ensure
+bip_39_word_underscore_7: shop_track_dream_opera_include_ensure_enough
+bip_39_word_underscore_8: shop_track_dream_opera_include_ensure_enough_nephew
+bip_39_word_underscore_9: shop_track_dream_opera_include_ensure_enough_nephew_detect
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 15_mm_length
 id_no_size: brown_15_mm_length
 id_no_type: 25_4_mm_internal_diameter_brown_15_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_25_4_mm_internal_diameter_brown_15_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_25_4_mm_internal_diameter_brown_15_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_25_4_mm_internal_diameter_brown_15_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209nplt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209nplt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209nplt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 15 mm Length
 name_no_size: Brown 15 mm Length
 name_no_size_short: Brown 15 Mm Length
 name_no_type: 25 4 mm Internal Diameter Brown 15 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_25_4_mm_internal_diameter_brown_15_mm_length
 oomp_word: six envelope bouquet
 oomp_word_emoji: ':six: :envelope: :bouquet:'

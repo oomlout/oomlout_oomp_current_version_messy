@@ -1,3 +1,222 @@
+bip_39_word_dash_1: price
+bip_39_word_dash_10: price-fresh-digital-want-song-comfort-benefit-budget-fog-salute
+bip_39_word_dash_11: price-fresh-digital-want-song-comfort-benefit-budget-fog-salute-carry
+bip_39_word_dash_12: price-fresh-digital-want-song-comfort-benefit-budget-fog-salute-carry-allow
+bip_39_word_dash_2: price-fresh
+bip_39_word_dash_3: price-fresh-digital
+bip_39_word_dash_4: price-fresh-digital-want
+bip_39_word_dash_5: price-fresh-digital-want-song
+bip_39_word_dash_6: price-fresh-digital-want-song-comfort
+bip_39_word_dash_7: price-fresh-digital-want-song-comfort-benefit
+bip_39_word_dash_8: price-fresh-digital-want-song-comfort-benefit-budget
+bip_39_word_dash_9: price-fresh-digital-want-song-comfort-benefit-budget-fog
+bip_39_word_new_br_1: price
+bip_39_word_new_br_10: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog<br>salute
+bip_39_word_new_br_11: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog<br>salute<br>carry
+bip_39_word_new_br_12: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog<br>salute<br>carry<br>allow
+bip_39_word_new_br_2: price<br>fresh
+bip_39_word_new_br_3: price<br>fresh<br>digital
+bip_39_word_new_br_4: price<br>fresh<br>digital<br>want
+bip_39_word_new_br_5: price<br>fresh<br>digital<br>want<br>song
+bip_39_word_new_br_6: price<br>fresh<br>digital<br>want<br>song<br>comfort
+bip_39_word_new_br_7: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit
+bip_39_word_new_br_8: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget
+bip_39_word_new_br_9: price<br>fresh<br>digital<br>want<br>song<br>comfort<br>benefit<br>budget<br>fog
+bip_39_word_new_line_1: price
+bip_39_word_new_line_10: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit
+
+  budget
+
+  fog
+
+  salute'
+bip_39_word_new_line_11: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit
+
+  budget
+
+  fog
+
+  salute
+
+  carry'
+bip_39_word_new_line_12: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit
+
+  budget
+
+  fog
+
+  salute
+
+  carry
+
+  allow'
+bip_39_word_new_line_2: 'price
+
+  fresh'
+bip_39_word_new_line_3: 'price
+
+  fresh
+
+  digital'
+bip_39_word_new_line_4: 'price
+
+  fresh
+
+  digital
+
+  want'
+bip_39_word_new_line_5: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song'
+bip_39_word_new_line_6: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort'
+bip_39_word_new_line_7: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit'
+bip_39_word_new_line_8: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit
+
+  budget'
+bip_39_word_new_line_9: 'price
+
+  fresh
+
+  digital
+
+  want
+
+  song
+
+  comfort
+
+  benefit
+
+  budget
+
+  fog'
+bip_39_word_no_space_1: price
+bip_39_word_no_space_10: pricefreshdigitalwantsongcomfortbenefitbudgetfogsalute
+bip_39_word_no_space_11: pricefreshdigitalwantsongcomfortbenefitbudgetfogsalutecarry
+bip_39_word_no_space_12: pricefreshdigitalwantsongcomfortbenefitbudgetfogsalutecarryallow
+bip_39_word_no_space_2: pricefresh
+bip_39_word_no_space_3: pricefreshdigital
+bip_39_word_no_space_4: pricefreshdigitalwant
+bip_39_word_no_space_5: pricefreshdigitalwantsong
+bip_39_word_no_space_6: pricefreshdigitalwantsongcomfort
+bip_39_word_no_space_7: pricefreshdigitalwantsongcomfortbenefit
+bip_39_word_no_space_8: pricefreshdigitalwantsongcomfortbenefitbudget
+bip_39_word_no_space_9: pricefreshdigitalwantsongcomfortbenefitbudgetfog
+bip_39_word_space_0:
+- price
+- fresh
+- digital
+- want
+- song
+- comfort
+- benefit
+- budget
+- fog
+- salute
+- carry
+- allow
+bip_39_word_space_1: price
+bip_39_word_space_10: price fresh digital want song comfort benefit budget fog salute
+bip_39_word_space_11: price fresh digital want song comfort benefit budget fog salute
+  carry
+bip_39_word_space_12: price fresh digital want song comfort benefit budget fog salute
+  carry allow
+bip_39_word_space_2: price fresh
+bip_39_word_space_3: price fresh digital
+bip_39_word_space_4: price fresh digital want
+bip_39_word_space_5: price fresh digital want song
+bip_39_word_space_6: price fresh digital want song comfort
+bip_39_word_space_7: price fresh digital want song comfort benefit
+bip_39_word_space_8: price fresh digital want song comfort benefit budget
+bip_39_word_space_9: price fresh digital want song comfort benefit budget fog
+bip_39_word_underscore_1: price
+bip_39_word_underscore_10: price_fresh_digital_want_song_comfort_benefit_budget_fog_salute
+bip_39_word_underscore_11: price_fresh_digital_want_song_comfort_benefit_budget_fog_salute_carry
+bip_39_word_underscore_12: price_fresh_digital_want_song_comfort_benefit_budget_fog_salute_carry_allow
+bip_39_word_underscore_2: price_fresh
+bip_39_word_underscore_3: price_fresh_digital
+bip_39_word_underscore_4: price_fresh_digital_want
+bip_39_word_underscore_5: price_fresh_digital_want_song
+bip_39_word_underscore_6: price_fresh_digital_want_song_comfort
+bip_39_word_underscore_7: price_fresh_digital_want_song_comfort_benefit
+bip_39_word_underscore_8: price_fresh_digital_want_song_comfort_benefit_budget
+bip_39_word_underscore_9: price_fresh_digital_want_song_comfort_benefit_budget_fog
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_13_01__0
 id_no_color: '13010'
 id_no_size: '13_01__0'
 id_no_type: bunting_alphabet_13_01__0
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__0
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__0
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__0
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045a0f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045a0f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045a0f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '13010'
 name_no_size: 13 01  0
 name_no_size_short: 13 01  0
 name_no_type: Bunting Alphabet 13 01  0
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__0
 oomp_word: palm_tree snake truck
 oomp_word_emoji: ':palm_tree: :snake: :truck:'

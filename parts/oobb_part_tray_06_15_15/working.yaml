@@ -1,3 +1,222 @@
+bip_39_word_dash_1: accident
+bip_39_word_dash_10: accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit
+bip_39_word_dash_11: accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit-lounge
+bip_39_word_dash_12: accident-leg-bright-flush-soon-weapon-talk-jeans-close-deposit-lounge-author
+bip_39_word_dash_2: accident-leg
+bip_39_word_dash_3: accident-leg-bright
+bip_39_word_dash_4: accident-leg-bright-flush
+bip_39_word_dash_5: accident-leg-bright-flush-soon
+bip_39_word_dash_6: accident-leg-bright-flush-soon-weapon
+bip_39_word_dash_7: accident-leg-bright-flush-soon-weapon-talk
+bip_39_word_dash_8: accident-leg-bright-flush-soon-weapon-talk-jeans
+bip_39_word_dash_9: accident-leg-bright-flush-soon-weapon-talk-jeans-close
+bip_39_word_new_br_1: accident
+bip_39_word_new_br_10: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit
+bip_39_word_new_br_11: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge
+bip_39_word_new_br_12: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close<br>deposit<br>lounge<br>author
+bip_39_word_new_br_2: accident<br>leg
+bip_39_word_new_br_3: accident<br>leg<br>bright
+bip_39_word_new_br_4: accident<br>leg<br>bright<br>flush
+bip_39_word_new_br_5: accident<br>leg<br>bright<br>flush<br>soon
+bip_39_word_new_br_6: accident<br>leg<br>bright<br>flush<br>soon<br>weapon
+bip_39_word_new_br_7: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk
+bip_39_word_new_br_8: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans
+bip_39_word_new_br_9: accident<br>leg<br>bright<br>flush<br>soon<br>weapon<br>talk<br>jeans<br>close
+bip_39_word_new_line_1: accident
+bip_39_word_new_line_10: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit'
+bip_39_word_new_line_11: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit
+
+  lounge'
+bip_39_word_new_line_12: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close
+
+  deposit
+
+  lounge
+
+  author'
+bip_39_word_new_line_2: 'accident
+
+  leg'
+bip_39_word_new_line_3: 'accident
+
+  leg
+
+  bright'
+bip_39_word_new_line_4: 'accident
+
+  leg
+
+  bright
+
+  flush'
+bip_39_word_new_line_5: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon'
+bip_39_word_new_line_6: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon'
+bip_39_word_new_line_7: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk'
+bip_39_word_new_line_8: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans'
+bip_39_word_new_line_9: 'accident
+
+  leg
+
+  bright
+
+  flush
+
+  soon
+
+  weapon
+
+  talk
+
+  jeans
+
+  close'
+bip_39_word_no_space_1: accident
+bip_39_word_no_space_10: accidentlegbrightflushsoonweapontalkjeansclosedeposit
+bip_39_word_no_space_11: accidentlegbrightflushsoonweapontalkjeansclosedepositlounge
+bip_39_word_no_space_12: accidentlegbrightflushsoonweapontalkjeansclosedepositloungeauthor
+bip_39_word_no_space_2: accidentleg
+bip_39_word_no_space_3: accidentlegbright
+bip_39_word_no_space_4: accidentlegbrightflush
+bip_39_word_no_space_5: accidentlegbrightflushsoon
+bip_39_word_no_space_6: accidentlegbrightflushsoonweapon
+bip_39_word_no_space_7: accidentlegbrightflushsoonweapontalk
+bip_39_word_no_space_8: accidentlegbrightflushsoonweapontalkjeans
+bip_39_word_no_space_9: accidentlegbrightflushsoonweapontalkjeansclose
+bip_39_word_space_0:
+- accident
+- leg
+- bright
+- flush
+- soon
+- weapon
+- talk
+- jeans
+- close
+- deposit
+- lounge
+- author
+bip_39_word_space_1: accident
+bip_39_word_space_10: accident leg bright flush soon weapon talk jeans close deposit
+bip_39_word_space_11: accident leg bright flush soon weapon talk jeans close deposit
+  lounge
+bip_39_word_space_12: accident leg bright flush soon weapon talk jeans close deposit
+  lounge author
+bip_39_word_space_2: accident leg
+bip_39_word_space_3: accident leg bright
+bip_39_word_space_4: accident leg bright flush
+bip_39_word_space_5: accident leg bright flush soon
+bip_39_word_space_6: accident leg bright flush soon weapon
+bip_39_word_space_7: accident leg bright flush soon weapon talk
+bip_39_word_space_8: accident leg bright flush soon weapon talk jeans
+bip_39_word_space_9: accident leg bright flush soon weapon talk jeans close
+bip_39_word_underscore_1: accident
+bip_39_word_underscore_10: accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit
+bip_39_word_underscore_11: accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit_lounge
+bip_39_word_underscore_12: accident_leg_bright_flush_soon_weapon_talk_jeans_close_deposit_lounge_author
+bip_39_word_underscore_2: accident_leg
+bip_39_word_underscore_3: accident_leg_bright
+bip_39_word_underscore_4: accident_leg_bright_flush
+bip_39_word_underscore_5: accident_leg_bright_flush_soon
+bip_39_word_underscore_6: accident_leg_bright_flush_soon_weapon
+bip_39_word_underscore_7: accident_leg_bright_flush_soon_weapon_talk
+bip_39_word_underscore_8: accident_leg_bright_flush_soon_weapon_talk_jeans
+bip_39_word_underscore_9: accident_leg_bright_flush_soon_weapon_talk_jeans_close
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_06_15_15
 id_no_color: '061515'
 id_no_size: '06_15_15'
 id_no_type: tray_06_15_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_15_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_15_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_15_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209mzym
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209mzym
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209mzym
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '061515'
 name_no_size: 06 15 15
 name_no_size_short: 06 15 15
 name_no_type: Tray 06 15 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_15_15
 oomp_word: six scream clipboard
 oomp_word_emoji: ':six: :scream: :clipboard:'

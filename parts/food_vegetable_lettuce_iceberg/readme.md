@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Iceberg Lettuce
 
+### name
+* name: Food Vegetable Lettuce ICeberg
+* name_short: 
 ### id
 * oomp_id: food_vegetable_lettuce_iceberg
   * classification: food

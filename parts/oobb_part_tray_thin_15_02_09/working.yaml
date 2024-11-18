@@ -1,3 +1,222 @@
+bip_39_word_dash_1: powder
+bip_39_word_dash_10: powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic
+bip_39_word_dash_11: powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic-glance
+bip_39_word_dash_12: powder-fan-fine-badge-grant-coral-demise-busy-evoke-plastic-glance-artwork
+bip_39_word_dash_2: powder-fan
+bip_39_word_dash_3: powder-fan-fine
+bip_39_word_dash_4: powder-fan-fine-badge
+bip_39_word_dash_5: powder-fan-fine-badge-grant
+bip_39_word_dash_6: powder-fan-fine-badge-grant-coral
+bip_39_word_dash_7: powder-fan-fine-badge-grant-coral-demise
+bip_39_word_dash_8: powder-fan-fine-badge-grant-coral-demise-busy
+bip_39_word_dash_9: powder-fan-fine-badge-grant-coral-demise-busy-evoke
+bip_39_word_new_br_1: powder
+bip_39_word_new_br_10: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic
+bip_39_word_new_br_11: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic<br>glance
+bip_39_word_new_br_12: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke<br>plastic<br>glance<br>artwork
+bip_39_word_new_br_2: powder<br>fan
+bip_39_word_new_br_3: powder<br>fan<br>fine
+bip_39_word_new_br_4: powder<br>fan<br>fine<br>badge
+bip_39_word_new_br_5: powder<br>fan<br>fine<br>badge<br>grant
+bip_39_word_new_br_6: powder<br>fan<br>fine<br>badge<br>grant<br>coral
+bip_39_word_new_br_7: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise
+bip_39_word_new_br_8: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy
+bip_39_word_new_br_9: powder<br>fan<br>fine<br>badge<br>grant<br>coral<br>demise<br>busy<br>evoke
+bip_39_word_new_line_1: powder
+bip_39_word_new_line_10: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise
+
+  busy
+
+  evoke
+
+  plastic'
+bip_39_word_new_line_11: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise
+
+  busy
+
+  evoke
+
+  plastic
+
+  glance'
+bip_39_word_new_line_12: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise
+
+  busy
+
+  evoke
+
+  plastic
+
+  glance
+
+  artwork'
+bip_39_word_new_line_2: 'powder
+
+  fan'
+bip_39_word_new_line_3: 'powder
+
+  fan
+
+  fine'
+bip_39_word_new_line_4: 'powder
+
+  fan
+
+  fine
+
+  badge'
+bip_39_word_new_line_5: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant'
+bip_39_word_new_line_6: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral'
+bip_39_word_new_line_7: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise'
+bip_39_word_new_line_8: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise
+
+  busy'
+bip_39_word_new_line_9: 'powder
+
+  fan
+
+  fine
+
+  badge
+
+  grant
+
+  coral
+
+  demise
+
+  busy
+
+  evoke'
+bip_39_word_no_space_1: powder
+bip_39_word_no_space_10: powderfanfinebadgegrantcoraldemisebusyevokeplastic
+bip_39_word_no_space_11: powderfanfinebadgegrantcoraldemisebusyevokeplasticglance
+bip_39_word_no_space_12: powderfanfinebadgegrantcoraldemisebusyevokeplasticglanceartwork
+bip_39_word_no_space_2: powderfan
+bip_39_word_no_space_3: powderfanfine
+bip_39_word_no_space_4: powderfanfinebadge
+bip_39_word_no_space_5: powderfanfinebadgegrant
+bip_39_word_no_space_6: powderfanfinebadgegrantcoral
+bip_39_word_no_space_7: powderfanfinebadgegrantcoraldemise
+bip_39_word_no_space_8: powderfanfinebadgegrantcoraldemisebusy
+bip_39_word_no_space_9: powderfanfinebadgegrantcoraldemisebusyevoke
+bip_39_word_space_0:
+- powder
+- fan
+- fine
+- badge
+- grant
+- coral
+- demise
+- busy
+- evoke
+- plastic
+- glance
+- artwork
+bip_39_word_space_1: powder
+bip_39_word_space_10: powder fan fine badge grant coral demise busy evoke plastic
+bip_39_word_space_11: powder fan fine badge grant coral demise busy evoke plastic
+  glance
+bip_39_word_space_12: powder fan fine badge grant coral demise busy evoke plastic
+  glance artwork
+bip_39_word_space_2: powder fan
+bip_39_word_space_3: powder fan fine
+bip_39_word_space_4: powder fan fine badge
+bip_39_word_space_5: powder fan fine badge grant
+bip_39_word_space_6: powder fan fine badge grant coral
+bip_39_word_space_7: powder fan fine badge grant coral demise
+bip_39_word_space_8: powder fan fine badge grant coral demise busy
+bip_39_word_space_9: powder fan fine badge grant coral demise busy evoke
+bip_39_word_underscore_1: powder
+bip_39_word_underscore_10: powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic
+bip_39_word_underscore_11: powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic_glance
+bip_39_word_underscore_12: powder_fan_fine_badge_grant_coral_demise_busy_evoke_plastic_glance_artwork
+bip_39_word_underscore_2: powder_fan
+bip_39_word_underscore_3: powder_fan_fine
+bip_39_word_underscore_4: powder_fan_fine_badge
+bip_39_word_underscore_5: powder_fan_fine_badge_grant
+bip_39_word_underscore_6: powder_fan_fine_badge_grant_coral
+bip_39_word_underscore_7: powder_fan_fine_badge_grant_coral_demise
+bip_39_word_underscore_8: powder_fan_fine_badge_grant_coral_demise_busy
+bip_39_word_underscore_9: powder_fan_fine_badge_grant_coral_demise_busy_evoke
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_02_09
 id_no_color: '150209'
 id_no_size: '15_02_09'
 id_no_type: tray_thin_15_02_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_02_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_02_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_02_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2088295
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2088295
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2088295
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150209'
 name_no_size: 15 02 09
 name_no_size_short: 15 02 09
 name_no_type: Tray Thin 15 02 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_02_09
 oomp_word: pineapple candy cactus
 oomp_word_emoji: ':pineapple: :candy: :cactus:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Packaging Cardboard Roll
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_packaging_cardboard_roll
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rice: :rowboat: :ant:
 * md5_6_alpha: 7eq8f
 * md5_6: bde34f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207eq8f)
+[2x1](http://192.168.1.242:1112/?label=oomp%207eq8f)
+[6x4](http://192.168.1.55:1112/?label=oomp%207eq8f)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_cardboard_roll) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_cardboard_roll)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ amused |
 | id_no_color | oobb_packaging_cardboard_roll |  
 | id_no_size | oobb_packaging_cardboard_roll |  
 | id_no_type | oomlout_oomlout_oobb_packaging_cardboard_roll |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_cardboard_roll |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_cardboard_roll |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_cardboard_roll |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207eq8f |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207eq8f |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207eq8f |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_packaging_cardboard_roll |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ amused |
 | name_no_size | Oobb Packaging Cardboard Roll |  
 | name_no_size_short | Oobb Packaging Cardboard Roll |  
 | name_no_type | Oomlout Oomlout Oobb Packaging Cardboard Roll |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_packaging_cardboard_roll |  
 | oomp_word | rice rowboat ant |  
 | oomp_word_emoji | :rice: :rowboat: :ant: |  

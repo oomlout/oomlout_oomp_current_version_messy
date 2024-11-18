@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 06 08 03  Electronic Prototyping Breadboard 400 Point
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_06_08_03__electronic_prototyping_breadboard_400_point
   * classification: oobb

@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420654159'
+bip_39_word_dash_1: grain
+bip_39_word_dash_10: grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli
+bip_39_word_dash_11: grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli-sea
+bip_39_word_dash_12: grain-kiss-ridge-able-garbage-orient-identify-step-gown-broccoli-sea-author
+bip_39_word_dash_2: grain-kiss
+bip_39_word_dash_3: grain-kiss-ridge
+bip_39_word_dash_4: grain-kiss-ridge-able
+bip_39_word_dash_5: grain-kiss-ridge-able-garbage
+bip_39_word_dash_6: grain-kiss-ridge-able-garbage-orient
+bip_39_word_dash_7: grain-kiss-ridge-able-garbage-orient-identify
+bip_39_word_dash_8: grain-kiss-ridge-able-garbage-orient-identify-step
+bip_39_word_dash_9: grain-kiss-ridge-able-garbage-orient-identify-step-gown
+bip_39_word_new_br_1: grain
+bip_39_word_new_br_10: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli
+bip_39_word_new_br_11: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea
+bip_39_word_new_br_12: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown<br>broccoli<br>sea<br>author
+bip_39_word_new_br_2: grain<br>kiss
+bip_39_word_new_br_3: grain<br>kiss<br>ridge
+bip_39_word_new_br_4: grain<br>kiss<br>ridge<br>able
+bip_39_word_new_br_5: grain<br>kiss<br>ridge<br>able<br>garbage
+bip_39_word_new_br_6: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient
+bip_39_word_new_br_7: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify
+bip_39_word_new_br_8: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step
+bip_39_word_new_br_9: grain<br>kiss<br>ridge<br>able<br>garbage<br>orient<br>identify<br>step<br>gown
+bip_39_word_new_line_1: grain
+bip_39_word_new_line_10: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify
+
+  step
+
+  gown
+
+  broccoli'
+bip_39_word_new_line_11: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify
+
+  step
+
+  gown
+
+  broccoli
+
+  sea'
+bip_39_word_new_line_12: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify
+
+  step
+
+  gown
+
+  broccoli
+
+  sea
+
+  author'
+bip_39_word_new_line_2: 'grain
+
+  kiss'
+bip_39_word_new_line_3: 'grain
+
+  kiss
+
+  ridge'
+bip_39_word_new_line_4: 'grain
+
+  kiss
+
+  ridge
+
+  able'
+bip_39_word_new_line_5: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage'
+bip_39_word_new_line_6: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient'
+bip_39_word_new_line_7: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify'
+bip_39_word_new_line_8: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify
+
+  step'
+bip_39_word_new_line_9: 'grain
+
+  kiss
+
+  ridge
+
+  able
+
+  garbage
+
+  orient
+
+  identify
+
+  step
+
+  gown'
+bip_39_word_no_space_1: grain
+bip_39_word_no_space_10: grainkissridgeablegarbageorientidentifystepgownbroccoli
+bip_39_word_no_space_11: grainkissridgeablegarbageorientidentifystepgownbroccolisea
+bip_39_word_no_space_12: grainkissridgeablegarbageorientidentifystepgownbroccoliseaauthor
+bip_39_word_no_space_2: grainkiss
+bip_39_word_no_space_3: grainkissridge
+bip_39_word_no_space_4: grainkissridgeable
+bip_39_word_no_space_5: grainkissridgeablegarbage
+bip_39_word_no_space_6: grainkissridgeablegarbageorient
+bip_39_word_no_space_7: grainkissridgeablegarbageorientidentify
+bip_39_word_no_space_8: grainkissridgeablegarbageorientidentifystep
+bip_39_word_no_space_9: grainkissridgeablegarbageorientidentifystepgown
+bip_39_word_space_0:
+- grain
+- kiss
+- ridge
+- able
+- garbage
+- orient
+- identify
+- step
+- gown
+- broccoli
+- sea
+- author
+bip_39_word_space_1: grain
+bip_39_word_space_10: grain kiss ridge able garbage orient identify step gown broccoli
+bip_39_word_space_11: grain kiss ridge able garbage orient identify step gown broccoli
+  sea
+bip_39_word_space_12: grain kiss ridge able garbage orient identify step gown broccoli
+  sea author
+bip_39_word_space_2: grain kiss
+bip_39_word_space_3: grain kiss ridge
+bip_39_word_space_4: grain kiss ridge able
+bip_39_word_space_5: grain kiss ridge able garbage
+bip_39_word_space_6: grain kiss ridge able garbage orient
+bip_39_word_space_7: grain kiss ridge able garbage orient identify
+bip_39_word_space_8: grain kiss ridge able garbage orient identify step
+bip_39_word_space_9: grain kiss ridge able garbage orient identify step gown
+bip_39_word_underscore_1: grain
+bip_39_word_underscore_10: grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli
+bip_39_word_underscore_11: grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli_sea
+bip_39_word_underscore_12: grain_kiss_ridge_able_garbage_orient_identify_step_gown_broccoli_sea_author
+bip_39_word_underscore_2: grain_kiss
+bip_39_word_underscore_3: grain_kiss_ridge
+bip_39_word_underscore_4: grain_kiss_ridge_able
+bip_39_word_underscore_5: grain_kiss_ridge_able_garbage
+bip_39_word_underscore_6: grain_kiss_ridge_able_garbage_orient
+bip_39_word_underscore_7: grain_kiss_ridge_able_garbage_orient_identify
+bip_39_word_underscore_8: grain_kiss_ridge_able_garbage_orient_identify_step
+bip_39_word_underscore_9: grain_kiss_ridge_able_garbage_orient_identify_step_gown
 box_of_box_size_manufacturer_metalmate: '4000'
 box_size_manufacturer_metalmate: '500'
 classification: hardware
@@ -90,7 +309,22 @@ id_no_color: 16mmlength
 id_no_size: 16_mm_length
 id_no_type: m6_16_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_16_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_16_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m6-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m6-x-16-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490016
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-16-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_16_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209noav
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209noav
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209noav
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -118,6 +352,26 @@ name_no_color: 16mmlength
 name_no_size: 16 mm Length
 name_no_size_short: 16 Mm Length
 name_no_type: M6 16 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 9no
+oomlout_bolt_md5_6_alpha_first_3_upper: 9NO
+oomlout_bolt_md5_6_alpha_last_3: av
+oomlout_bolt_md5_6_alpha_last_3_upper: AV
+oomlout_bolt_md5_6_first_3: f78
+oomlout_bolt_md5_6_first_3_upper: F78
+oomlout_bolt_md5_6_last_3: 3c7
+oomlout_bolt_md5_6_last_3_upper: 3C7
+oomlout_bolt_name: Set Screw M6X16 mm  (Bolt)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss6m16
+oomlout_short_code_upper: SS6M16
 oomp_id: hardware_set_screw_m6_16_mm_length
 oomp_key: oomp_hardware_set_screw_m6_16_mm_length
 oomp_word: six lock honey_pot
@@ -142,12 +396,22 @@ price_1: '0.029'
 price_100: '0.029'
 price_1000: '0.0162'
 price_10000: '0.013'
+price_10000_distributor_1: '0.013'
 price_10000_distributor_orbital_fasteners: '0.013'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0162'
 price_1000_distributor_orbital_fasteners: '0.0162'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.029'
 price_100_distributor_orbital_fasteners: '0.029'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.029'
 price_1_distributor_orbital_fasteners: '0.029'
+price_1_name: orbital_fasteners
 price_200: '0.029'
+price_200_distributor_1: '0.029'
 price_200_distributor_orbital_fasteners: '0.029'
+price_200_name: orbital_fasteners
 price_current: '0.029'
 quantity_current: '200'
 short_code: ss616

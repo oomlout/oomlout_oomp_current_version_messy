@@ -1,3 +1,221 @@
+bip_39_word_dash_1: night
+bip_39_word_dash_10: night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill
+bip_39_word_dash_11: night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill-rare
+bip_39_word_dash_12: night-motor-fuel-parade-kid-ramp-elder-picnic-slide-hill-rare-accident
+bip_39_word_dash_2: night-motor
+bip_39_word_dash_3: night-motor-fuel
+bip_39_word_dash_4: night-motor-fuel-parade
+bip_39_word_dash_5: night-motor-fuel-parade-kid
+bip_39_word_dash_6: night-motor-fuel-parade-kid-ramp
+bip_39_word_dash_7: night-motor-fuel-parade-kid-ramp-elder
+bip_39_word_dash_8: night-motor-fuel-parade-kid-ramp-elder-picnic
+bip_39_word_dash_9: night-motor-fuel-parade-kid-ramp-elder-picnic-slide
+bip_39_word_new_br_1: night
+bip_39_word_new_br_10: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill
+bip_39_word_new_br_11: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill<br>rare
+bip_39_word_new_br_12: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide<br>hill<br>rare<br>accident
+bip_39_word_new_br_2: night<br>motor
+bip_39_word_new_br_3: night<br>motor<br>fuel
+bip_39_word_new_br_4: night<br>motor<br>fuel<br>parade
+bip_39_word_new_br_5: night<br>motor<br>fuel<br>parade<br>kid
+bip_39_word_new_br_6: night<br>motor<br>fuel<br>parade<br>kid<br>ramp
+bip_39_word_new_br_7: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder
+bip_39_word_new_br_8: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic
+bip_39_word_new_br_9: night<br>motor<br>fuel<br>parade<br>kid<br>ramp<br>elder<br>picnic<br>slide
+bip_39_word_new_line_1: night
+bip_39_word_new_line_10: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder
+
+  picnic
+
+  slide
+
+  hill'
+bip_39_word_new_line_11: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder
+
+  picnic
+
+  slide
+
+  hill
+
+  rare'
+bip_39_word_new_line_12: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder
+
+  picnic
+
+  slide
+
+  hill
+
+  rare
+
+  accident'
+bip_39_word_new_line_2: 'night
+
+  motor'
+bip_39_word_new_line_3: 'night
+
+  motor
+
+  fuel'
+bip_39_word_new_line_4: 'night
+
+  motor
+
+  fuel
+
+  parade'
+bip_39_word_new_line_5: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid'
+bip_39_word_new_line_6: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp'
+bip_39_word_new_line_7: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder'
+bip_39_word_new_line_8: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder
+
+  picnic'
+bip_39_word_new_line_9: 'night
+
+  motor
+
+  fuel
+
+  parade
+
+  kid
+
+  ramp
+
+  elder
+
+  picnic
+
+  slide'
+bip_39_word_no_space_1: night
+bip_39_word_no_space_10: nightmotorfuelparadekidrampelderpicnicslidehill
+bip_39_word_no_space_11: nightmotorfuelparadekidrampelderpicnicslidehillrare
+bip_39_word_no_space_12: nightmotorfuelparadekidrampelderpicnicslidehillrareaccident
+bip_39_word_no_space_2: nightmotor
+bip_39_word_no_space_3: nightmotorfuel
+bip_39_word_no_space_4: nightmotorfuelparade
+bip_39_word_no_space_5: nightmotorfuelparadekid
+bip_39_word_no_space_6: nightmotorfuelparadekidramp
+bip_39_word_no_space_7: nightmotorfuelparadekidrampelder
+bip_39_word_no_space_8: nightmotorfuelparadekidrampelderpicnic
+bip_39_word_no_space_9: nightmotorfuelparadekidrampelderpicnicslide
+bip_39_word_space_0:
+- night
+- motor
+- fuel
+- parade
+- kid
+- ramp
+- elder
+- picnic
+- slide
+- hill
+- rare
+- accident
+bip_39_word_space_1: night
+bip_39_word_space_10: night motor fuel parade kid ramp elder picnic slide hill
+bip_39_word_space_11: night motor fuel parade kid ramp elder picnic slide hill rare
+bip_39_word_space_12: night motor fuel parade kid ramp elder picnic slide hill rare
+  accident
+bip_39_word_space_2: night motor
+bip_39_word_space_3: night motor fuel
+bip_39_word_space_4: night motor fuel parade
+bip_39_word_space_5: night motor fuel parade kid
+bip_39_word_space_6: night motor fuel parade kid ramp
+bip_39_word_space_7: night motor fuel parade kid ramp elder
+bip_39_word_space_8: night motor fuel parade kid ramp elder picnic
+bip_39_word_space_9: night motor fuel parade kid ramp elder picnic slide
+bip_39_word_underscore_1: night
+bip_39_word_underscore_10: night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill
+bip_39_word_underscore_11: night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill_rare
+bip_39_word_underscore_12: night_motor_fuel_parade_kid_ramp_elder_picnic_slide_hill_rare_accident
+bip_39_word_underscore_2: night_motor
+bip_39_word_underscore_3: night_motor_fuel
+bip_39_word_underscore_4: night_motor_fuel_parade
+bip_39_word_underscore_5: night_motor_fuel_parade_kid
+bip_39_word_underscore_6: night_motor_fuel_parade_kid_ramp
+bip_39_word_underscore_7: night_motor_fuel_parade_kid_ramp_elder
+bip_39_word_underscore_8: night_motor_fuel_parade_kid_ramp_elder_picnic
+bip_39_word_underscore_9: night_motor_fuel_parade_kid_ramp_elder_picnic_slide
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_02_10_24
 id_no_color: '021024'
 id_no_size: '02_10_24'
 id_no_type: tray_02_10_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_10_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_10_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_10_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20wuu2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20wuu2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20wuu2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '021024'
 name_no_size: 02 10 24
 name_no_size_short: 02 10 24
 name_no_type: Tray 02 10 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_10_24
 oomp_word: thumbsdown sunflower clap
 oomp_word_emoji: ':thumbsdown: :sunflower: :clap:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stamp
+bip_39_word_dash_10: stamp-marble-energy-village-agent-tilt-same-grab-mutual-tag
+bip_39_word_dash_11: stamp-marble-energy-village-agent-tilt-same-grab-mutual-tag-daughter
+bip_39_word_dash_12: stamp-marble-energy-village-agent-tilt-same-grab-mutual-tag-daughter-armed
+bip_39_word_dash_2: stamp-marble
+bip_39_word_dash_3: stamp-marble-energy
+bip_39_word_dash_4: stamp-marble-energy-village
+bip_39_word_dash_5: stamp-marble-energy-village-agent
+bip_39_word_dash_6: stamp-marble-energy-village-agent-tilt
+bip_39_word_dash_7: stamp-marble-energy-village-agent-tilt-same
+bip_39_word_dash_8: stamp-marble-energy-village-agent-tilt-same-grab
+bip_39_word_dash_9: stamp-marble-energy-village-agent-tilt-same-grab-mutual
+bip_39_word_new_br_1: stamp
+bip_39_word_new_br_10: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag
+bip_39_word_new_br_11: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter
+bip_39_word_new_br_12: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual<br>tag<br>daughter<br>armed
+bip_39_word_new_br_2: stamp<br>marble
+bip_39_word_new_br_3: stamp<br>marble<br>energy
+bip_39_word_new_br_4: stamp<br>marble<br>energy<br>village
+bip_39_word_new_br_5: stamp<br>marble<br>energy<br>village<br>agent
+bip_39_word_new_br_6: stamp<br>marble<br>energy<br>village<br>agent<br>tilt
+bip_39_word_new_br_7: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same
+bip_39_word_new_br_8: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab
+bip_39_word_new_br_9: stamp<br>marble<br>energy<br>village<br>agent<br>tilt<br>same<br>grab<br>mutual
+bip_39_word_new_line_1: stamp
+bip_39_word_new_line_10: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same
+
+  grab
+
+  mutual
+
+  tag'
+bip_39_word_new_line_11: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same
+
+  grab
+
+  mutual
+
+  tag
+
+  daughter'
+bip_39_word_new_line_12: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same
+
+  grab
+
+  mutual
+
+  tag
+
+  daughter
+
+  armed'
+bip_39_word_new_line_2: 'stamp
+
+  marble'
+bip_39_word_new_line_3: 'stamp
+
+  marble
+
+  energy'
+bip_39_word_new_line_4: 'stamp
+
+  marble
+
+  energy
+
+  village'
+bip_39_word_new_line_5: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent'
+bip_39_word_new_line_6: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt'
+bip_39_word_new_line_7: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same'
+bip_39_word_new_line_8: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same
+
+  grab'
+bip_39_word_new_line_9: 'stamp
+
+  marble
+
+  energy
+
+  village
+
+  agent
+
+  tilt
+
+  same
+
+  grab
+
+  mutual'
+bip_39_word_no_space_1: stamp
+bip_39_word_no_space_10: stampmarbleenergyvillageagenttiltsamegrabmutualtag
+bip_39_word_no_space_11: stampmarbleenergyvillageagenttiltsamegrabmutualtagdaughter
+bip_39_word_no_space_12: stampmarbleenergyvillageagenttiltsamegrabmutualtagdaughterarmed
+bip_39_word_no_space_2: stampmarble
+bip_39_word_no_space_3: stampmarbleenergy
+bip_39_word_no_space_4: stampmarbleenergyvillage
+bip_39_word_no_space_5: stampmarbleenergyvillageagent
+bip_39_word_no_space_6: stampmarbleenergyvillageagenttilt
+bip_39_word_no_space_7: stampmarbleenergyvillageagenttiltsame
+bip_39_word_no_space_8: stampmarbleenergyvillageagenttiltsamegrab
+bip_39_word_no_space_9: stampmarbleenergyvillageagenttiltsamegrabmutual
+bip_39_word_space_0:
+- stamp
+- marble
+- energy
+- village
+- agent
+- tilt
+- same
+- grab
+- mutual
+- tag
+- daughter
+- armed
+bip_39_word_space_1: stamp
+bip_39_word_space_10: stamp marble energy village agent tilt same grab mutual tag
+bip_39_word_space_11: stamp marble energy village agent tilt same grab mutual tag
+  daughter
+bip_39_word_space_12: stamp marble energy village agent tilt same grab mutual tag
+  daughter armed
+bip_39_word_space_2: stamp marble
+bip_39_word_space_3: stamp marble energy
+bip_39_word_space_4: stamp marble energy village
+bip_39_word_space_5: stamp marble energy village agent
+bip_39_word_space_6: stamp marble energy village agent tilt
+bip_39_word_space_7: stamp marble energy village agent tilt same
+bip_39_word_space_8: stamp marble energy village agent tilt same grab
+bip_39_word_space_9: stamp marble energy village agent tilt same grab mutual
+bip_39_word_underscore_1: stamp
+bip_39_word_underscore_10: stamp_marble_energy_village_agent_tilt_same_grab_mutual_tag
+bip_39_word_underscore_11: stamp_marble_energy_village_agent_tilt_same_grab_mutual_tag_daughter
+bip_39_word_underscore_12: stamp_marble_energy_village_agent_tilt_same_grab_mutual_tag_daughter_armed
+bip_39_word_underscore_2: stamp_marble
+bip_39_word_underscore_3: stamp_marble_energy
+bip_39_word_underscore_4: stamp_marble_energy_village
+bip_39_word_underscore_5: stamp_marble_energy_village_agent
+bip_39_word_underscore_6: stamp_marble_energy_village_agent_tilt
+bip_39_word_underscore_7: stamp_marble_energy_village_agent_tilt_same
+bip_39_word_underscore_8: stamp_marble_energy_village_agent_tilt_same_grab
+bip_39_word_underscore_9: stamp_marble_energy_village_agent_tilt_same_grab_mutual
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_07_06__56_teeth_sh_motor_n20
 id_no_color: 070656teethshmotorn20
 id_no_size: 07_06__56_teeth_sh_motor_n20
 id_no_type: gear_07_06__56_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207cotz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207cotz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207cotz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 070656Teethshmotorn20
 name_no_size: 07 06  56 Teeth Sh Motor N20
 name_no_size_short: 07 06  56 Teeth Sh Motor N20
 name_no_type: Gear 07 06  56 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_06__56_teeth_sh_motor_n20
 oomp_word: sushi moon pizza
 oomp_word_emoji: ':sushi: :moon: :pizza:'

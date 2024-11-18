@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Builder
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_builder
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :eyes: :boat: :hamster:
 * md5_6_alpha: 1im2d
 * md5_6: 26e135
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201im2d)
+[2x1](http://192.168.1.242:1112/?label=oomp%201im2d)
+[6x4](http://192.168.1.55:1112/?label=oomp%201im2d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_builder) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_builder)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ nest |
 | id_no_color | oomp_builder |  
 | id_no_size | oomp_builder |  
 | id_no_type | oomlout_oomlout_oomp_builder |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_builder |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_builder |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_builder |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201im2d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201im2d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201im2d |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_builder |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ nest |
 | name_no_size | Oomp Builder |  
 | name_no_size_short | Oomp Builder |  
 | name_no_type | Oomlout Oomlout Oomp Builder |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_builder |  
 | oomp_word | eyes boat hamster |  
 | oomp_word_emoji | :eyes: :boat: :hamster: |  

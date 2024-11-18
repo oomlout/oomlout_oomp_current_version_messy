@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 02 02 29  Corner Cube
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_02_02_29__corner_cube
   * classification: oobb

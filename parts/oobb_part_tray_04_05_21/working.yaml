@@ -1,3 +1,223 @@
+bip_39_word_dash_1: swing
+bip_39_word_dash_10: swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home
+bip_39_word_dash_11: swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home-hope
+bip_39_word_dash_12: swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window-home-hope-above
+bip_39_word_dash_2: swing-field
+bip_39_word_dash_3: swing-field-naive
+bip_39_word_dash_4: swing-field-naive-wisdom
+bip_39_word_dash_5: swing-field-naive-wisdom-bacon
+bip_39_word_dash_6: swing-field-naive-wisdom-bacon-cattle
+bip_39_word_dash_7: swing-field-naive-wisdom-bacon-cattle-retire
+bip_39_word_dash_8: swing-field-naive-wisdom-bacon-cattle-retire-exhaust
+bip_39_word_dash_9: swing-field-naive-wisdom-bacon-cattle-retire-exhaust-window
+bip_39_word_new_br_1: swing
+bip_39_word_new_br_10: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window<br>home
+bip_39_word_new_br_11: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window<br>home<br>hope
+bip_39_word_new_br_12: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window<br>home<br>hope<br>above
+bip_39_word_new_br_2: swing<br>field
+bip_39_word_new_br_3: swing<br>field<br>naive
+bip_39_word_new_br_4: swing<br>field<br>naive<br>wisdom
+bip_39_word_new_br_5: swing<br>field<br>naive<br>wisdom<br>bacon
+bip_39_word_new_br_6: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle
+bip_39_word_new_br_7: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire
+bip_39_word_new_br_8: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust
+bip_39_word_new_br_9: swing<br>field<br>naive<br>wisdom<br>bacon<br>cattle<br>retire<br>exhaust<br>window
+bip_39_word_new_line_1: swing
+bip_39_word_new_line_10: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire
+
+  exhaust
+
+  window
+
+  home'
+bip_39_word_new_line_11: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire
+
+  exhaust
+
+  window
+
+  home
+
+  hope'
+bip_39_word_new_line_12: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire
+
+  exhaust
+
+  window
+
+  home
+
+  hope
+
+  above'
+bip_39_word_new_line_2: 'swing
+
+  field'
+bip_39_word_new_line_3: 'swing
+
+  field
+
+  naive'
+bip_39_word_new_line_4: 'swing
+
+  field
+
+  naive
+
+  wisdom'
+bip_39_word_new_line_5: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon'
+bip_39_word_new_line_6: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle'
+bip_39_word_new_line_7: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire'
+bip_39_word_new_line_8: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire
+
+  exhaust'
+bip_39_word_new_line_9: 'swing
+
+  field
+
+  naive
+
+  wisdom
+
+  bacon
+
+  cattle
+
+  retire
+
+  exhaust
+
+  window'
+bip_39_word_no_space_1: swing
+bip_39_word_no_space_10: swingfieldnaivewisdombaconcattleretireexhaustwindowhome
+bip_39_word_no_space_11: swingfieldnaivewisdombaconcattleretireexhaustwindowhomehope
+bip_39_word_no_space_12: swingfieldnaivewisdombaconcattleretireexhaustwindowhomehopeabove
+bip_39_word_no_space_2: swingfield
+bip_39_word_no_space_3: swingfieldnaive
+bip_39_word_no_space_4: swingfieldnaivewisdom
+bip_39_word_no_space_5: swingfieldnaivewisdombacon
+bip_39_word_no_space_6: swingfieldnaivewisdombaconcattle
+bip_39_word_no_space_7: swingfieldnaivewisdombaconcattleretire
+bip_39_word_no_space_8: swingfieldnaivewisdombaconcattleretireexhaust
+bip_39_word_no_space_9: swingfieldnaivewisdombaconcattleretireexhaustwindow
+bip_39_word_space_0:
+- swing
+- field
+- naive
+- wisdom
+- bacon
+- cattle
+- retire
+- exhaust
+- window
+- home
+- hope
+- above
+bip_39_word_space_1: swing
+bip_39_word_space_10: swing field naive wisdom bacon cattle retire exhaust window
+  home
+bip_39_word_space_11: swing field naive wisdom bacon cattle retire exhaust window
+  home hope
+bip_39_word_space_12: swing field naive wisdom bacon cattle retire exhaust window
+  home hope above
+bip_39_word_space_2: swing field
+bip_39_word_space_3: swing field naive
+bip_39_word_space_4: swing field naive wisdom
+bip_39_word_space_5: swing field naive wisdom bacon
+bip_39_word_space_6: swing field naive wisdom bacon cattle
+bip_39_word_space_7: swing field naive wisdom bacon cattle retire
+bip_39_word_space_8: swing field naive wisdom bacon cattle retire exhaust
+bip_39_word_space_9: swing field naive wisdom bacon cattle retire exhaust window
+bip_39_word_underscore_1: swing
+bip_39_word_underscore_10: swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home
+bip_39_word_underscore_11: swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home_hope
+bip_39_word_underscore_12: swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window_home_hope_above
+bip_39_word_underscore_2: swing_field
+bip_39_word_underscore_3: swing_field_naive
+bip_39_word_underscore_4: swing_field_naive_wisdom
+bip_39_word_underscore_5: swing_field_naive_wisdom_bacon
+bip_39_word_underscore_6: swing_field_naive_wisdom_bacon_cattle
+bip_39_word_underscore_7: swing_field_naive_wisdom_bacon_cattle_retire
+bip_39_word_underscore_8: swing_field_naive_wisdom_bacon_cattle_retire_exhaust
+bip_39_word_underscore_9: swing_field_naive_wisdom_bacon_cattle_retire_exhaust_window
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_05_21
 id_no_color: '040521'
 id_no_size: '04_05_21'
 id_no_type: tray_04_05_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_05_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_05_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_05_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20cfrv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20cfrv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20cfrv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '040521'
 name_no_size: 04 05 21
 name_no_size_short: 04 05 21
 name_no_type: Tray 04 05 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_05_21
 oomp_word: scream hotel tent
 oomp_word_emoji: ':scream: :hotel: :tent:'

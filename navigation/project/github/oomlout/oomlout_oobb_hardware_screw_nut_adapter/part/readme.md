@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Hardware Screw Nut Adapter
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bug: :computer: :bulb:
 * md5_6_alpha: 30u4l
 * md5_6: 4d7b85
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2030u4l)
+[2x1](http://192.168.1.242:1112/?label=oomp%2030u4l)
+[6x4](http://192.168.1.55:1112/?label=oomp%2030u4l)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ slab |
 | id_no_color | oobb_hardware_screw_nut_adapter |  
 | id_no_size | oobb_hardware_screw_nut_adapter |  
 | id_no_type | oomlout_oomlout_oobb_hardware_screw_nut_adapter |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2030u4l |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2030u4l |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2030u4l |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_hardware_screw_nut_adapter |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ slab |
 | name_no_size | Oobb Hardware Screw Nut Adapter |  
 | name_no_size_short | Oobb Hardware Screw Nut Adapter |  
 | name_no_type | Oomlout Oomlout Oobb Hardware Screw Nut Adapter |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_hardware_screw_nut_adapter |  
 | oomp_word | bug computer bulb |  
 | oomp_word_emoji | :bug: :computer: :bulb: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Mecd
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_mecd
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pig: :birthday: :herb:
 * md5_6_alpha: 2dch3
 * md5_6: 3cc267
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202dch3)
+[2x1](http://192.168.1.242:1112/?label=oomp%202dch3)
+[6x4](http://192.168.1.55:1112/?label=oomp%202dch3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_mecd)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ valley |
 | id_no_color | mecd |  
 | id_no_size | mecd |  
 | id_no_type | oomlout_mecd |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_mecd |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_mecd |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202dch3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202dch3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202dch3 |  
 | link_redirect | https://github.com/oomlout/MECD |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ valley |
 | name_no_size | Mecd |  
 | name_no_size_short | Mecd |  
 | name_no_type | Oomlout Mecd |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_mecd |  
 | oomp_word | pig birthday herb |  
 | oomp_word_emoji | :pig: :birthday: :herb: |  

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: vivid
+bip_39_word_dash_10: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill
+bip_39_word_dash_11: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill-mushroom
+bip_39_word_dash_12: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower-ill-mushroom-already
+bip_39_word_dash_2: vivid-wheel
+bip_39_word_dash_3: vivid-wheel-ice
+bip_39_word_dash_4: vivid-wheel-ice-fiscal
+bip_39_word_dash_5: vivid-wheel-ice-fiscal-same
+bip_39_word_dash_6: vivid-wheel-ice-fiscal-same-replace
+bip_39_word_dash_7: vivid-wheel-ice-fiscal-same-replace-exhaust
+bip_39_word_dash_8: vivid-wheel-ice-fiscal-same-replace-exhaust-true
+bip_39_word_dash_9: vivid-wheel-ice-fiscal-same-replace-exhaust-true-tower
+bip_39_word_new_br_1: vivid
+bip_39_word_new_br_10: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower<br>ill
+bip_39_word_new_br_11: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower<br>ill<br>mushroom
+bip_39_word_new_br_12: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower<br>ill<br>mushroom<br>already
+bip_39_word_new_br_2: vivid<br>wheel
+bip_39_word_new_br_3: vivid<br>wheel<br>ice
+bip_39_word_new_br_4: vivid<br>wheel<br>ice<br>fiscal
+bip_39_word_new_br_5: vivid<br>wheel<br>ice<br>fiscal<br>same
+bip_39_word_new_br_6: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace
+bip_39_word_new_br_7: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust
+bip_39_word_new_br_8: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true
+bip_39_word_new_br_9: vivid<br>wheel<br>ice<br>fiscal<br>same<br>replace<br>exhaust<br>true<br>tower
+bip_39_word_new_line_1: vivid
+bip_39_word_new_line_10: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust
+
+  true
+
+  tower
+
+  ill'
+bip_39_word_new_line_11: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust
+
+  true
+
+  tower
+
+  ill
+
+  mushroom'
+bip_39_word_new_line_12: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust
+
+  true
+
+  tower
+
+  ill
+
+  mushroom
+
+  already'
+bip_39_word_new_line_2: 'vivid
+
+  wheel'
+bip_39_word_new_line_3: 'vivid
+
+  wheel
+
+  ice'
+bip_39_word_new_line_4: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal'
+bip_39_word_new_line_5: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same'
+bip_39_word_new_line_6: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace'
+bip_39_word_new_line_7: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust'
+bip_39_word_new_line_8: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust
+
+  true'
+bip_39_word_new_line_9: 'vivid
+
+  wheel
+
+  ice
+
+  fiscal
+
+  same
+
+  replace
+
+  exhaust
+
+  true
+
+  tower'
+bip_39_word_no_space_1: vivid
+bip_39_word_no_space_10: vividwheelicefiscalsamereplaceexhausttruetowerill
+bip_39_word_no_space_11: vividwheelicefiscalsamereplaceexhausttruetowerillmushroom
+bip_39_word_no_space_12: vividwheelicefiscalsamereplaceexhausttruetowerillmushroomalready
+bip_39_word_no_space_2: vividwheel
+bip_39_word_no_space_3: vividwheelice
+bip_39_word_no_space_4: vividwheelicefiscal
+bip_39_word_no_space_5: vividwheelicefiscalsame
+bip_39_word_no_space_6: vividwheelicefiscalsamereplace
+bip_39_word_no_space_7: vividwheelicefiscalsamereplaceexhaust
+bip_39_word_no_space_8: vividwheelicefiscalsamereplaceexhausttrue
+bip_39_word_no_space_9: vividwheelicefiscalsamereplaceexhausttruetower
+bip_39_word_space_0:
+- vivid
+- wheel
+- ice
+- fiscal
+- same
+- replace
+- exhaust
+- 'true'
+- tower
+- ill
+- mushroom
+- already
+bip_39_word_space_1: vivid
+bip_39_word_space_10: vivid wheel ice fiscal same replace exhaust true tower ill
+bip_39_word_space_11: vivid wheel ice fiscal same replace exhaust true tower ill mushroom
+bip_39_word_space_12: vivid wheel ice fiscal same replace exhaust true tower ill mushroom
+  already
+bip_39_word_space_2: vivid wheel
+bip_39_word_space_3: vivid wheel ice
+bip_39_word_space_4: vivid wheel ice fiscal
+bip_39_word_space_5: vivid wheel ice fiscal same
+bip_39_word_space_6: vivid wheel ice fiscal same replace
+bip_39_word_space_7: vivid wheel ice fiscal same replace exhaust
+bip_39_word_space_8: vivid wheel ice fiscal same replace exhaust true
+bip_39_word_space_9: vivid wheel ice fiscal same replace exhaust true tower
+bip_39_word_underscore_1: vivid
+bip_39_word_underscore_10: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill
+bip_39_word_underscore_11: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill_mushroom
+bip_39_word_underscore_12: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower_ill_mushroom_already
+bip_39_word_underscore_2: vivid_wheel
+bip_39_word_underscore_3: vivid_wheel_ice
+bip_39_word_underscore_4: vivid_wheel_ice_fiscal
+bip_39_word_underscore_5: vivid_wheel_ice_fiscal_same
+bip_39_word_underscore_6: vivid_wheel_ice_fiscal_same_replace
+bip_39_word_underscore_7: vivid_wheel_ice_fiscal_same_replace_exhaust
+bip_39_word_underscore_8: vivid_wheel_ice_fiscal_same_replace_exhaust_true
+bip_39_word_underscore_9: vivid_wheel_ice_fiscal_same_replace_exhaust_true_tower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_jig_screw_sorter_m3_03_03_03_03_15
 id_no_color: '030315'
 id_no_size: '03_03_15'
 id_no_type: jig_screw_sorter_m3_03_03_03_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_03_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_03_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_jig_screw_sorter_m3_03_03_03_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204hqcc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204hqcc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204hqcc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '030315'
 name_no_size: 03 03 15
 name_no_size_short: 03 03 15
 name_no_type: Jig Screw Sorter M3 03 03 03 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_jig_screw_sorter_m3_03_03_03_03_15
 oomp_word: flags kiss spades
 oomp_word_emoji: ':flags: :kiss: :spades:'

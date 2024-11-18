@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Billy White 800 mm Width 2020 mm Height 400 mm Depth Ikea 904 019 32
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32
   * classification: furniture
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :birthday: :coffee: :sleepy:
 * md5_6_alpha: 7lhqi
 * md5_6: c2b40a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207lhqi)
+[2x1](http://192.168.1.242:1112/?label=oomp%207lhqi)
+[6x4](http://192.168.1.55:1112/?label=oomp%207lhqi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ setup |
 | id_no_color | 800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
 | id_no_size | white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
 | id_no_type | ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207lhqi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207lhqi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207lhqi |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -332,6 +365,7 @@ setup |
 | name_no_size | White 800 mm Width 2020 mm Height 400 mm Depth Ikea 904 019 32 |  
 | name_no_size_short | White 800 Mm Width 2020 Mm Height 400 Mm Depth Ikea 904 019 32 |  
 | name_no_type | Ikea Billy White 800 mm Width 2020 mm Height 400 mm Depth Ikea 904 019 32 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_400_mm_depth_ikea_904_019_32 |  
 | oomp_word | birthday coffee sleepy |  
 | oomp_word_emoji | :birthday: :coffee: :sleepy: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 1 mm Jst Sh 8 Pin Surface Mount
+* name_short: 
 ### id
 * oomp_id: electronic_header_1_mm_jst_sh_8_pin_surface_mount
   * classification: electronic

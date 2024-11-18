@@ -1,3 +1,221 @@
+bip_39_word_dash_1: wink
+bip_39_word_dash_10: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution
+bip_39_word_dash_11: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution-story
+bip_39_word_dash_12: wink-gospel-pulp-cross-road-burst-invest-buzz-man-solution-story-animal
+bip_39_word_dash_2: wink-gospel
+bip_39_word_dash_3: wink-gospel-pulp
+bip_39_word_dash_4: wink-gospel-pulp-cross
+bip_39_word_dash_5: wink-gospel-pulp-cross-road
+bip_39_word_dash_6: wink-gospel-pulp-cross-road-burst
+bip_39_word_dash_7: wink-gospel-pulp-cross-road-burst-invest
+bip_39_word_dash_8: wink-gospel-pulp-cross-road-burst-invest-buzz
+bip_39_word_dash_9: wink-gospel-pulp-cross-road-burst-invest-buzz-man
+bip_39_word_new_br_1: wink
+bip_39_word_new_br_10: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution
+bip_39_word_new_br_11: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution<br>story
+bip_39_word_new_br_12: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man<br>solution<br>story<br>animal
+bip_39_word_new_br_2: wink<br>gospel
+bip_39_word_new_br_3: wink<br>gospel<br>pulp
+bip_39_word_new_br_4: wink<br>gospel<br>pulp<br>cross
+bip_39_word_new_br_5: wink<br>gospel<br>pulp<br>cross<br>road
+bip_39_word_new_br_6: wink<br>gospel<br>pulp<br>cross<br>road<br>burst
+bip_39_word_new_br_7: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest
+bip_39_word_new_br_8: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz
+bip_39_word_new_br_9: wink<br>gospel<br>pulp<br>cross<br>road<br>burst<br>invest<br>buzz<br>man
+bip_39_word_new_line_1: wink
+bip_39_word_new_line_10: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest
+
+  buzz
+
+  man
+
+  solution'
+bip_39_word_new_line_11: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest
+
+  buzz
+
+  man
+
+  solution
+
+  story'
+bip_39_word_new_line_12: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest
+
+  buzz
+
+  man
+
+  solution
+
+  story
+
+  animal'
+bip_39_word_new_line_2: 'wink
+
+  gospel'
+bip_39_word_new_line_3: 'wink
+
+  gospel
+
+  pulp'
+bip_39_word_new_line_4: 'wink
+
+  gospel
+
+  pulp
+
+  cross'
+bip_39_word_new_line_5: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road'
+bip_39_word_new_line_6: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst'
+bip_39_word_new_line_7: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest'
+bip_39_word_new_line_8: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest
+
+  buzz'
+bip_39_word_new_line_9: 'wink
+
+  gospel
+
+  pulp
+
+  cross
+
+  road
+
+  burst
+
+  invest
+
+  buzz
+
+  man'
+bip_39_word_no_space_1: wink
+bip_39_word_no_space_10: winkgospelpulpcrossroadburstinvestbuzzmansolution
+bip_39_word_no_space_11: winkgospelpulpcrossroadburstinvestbuzzmansolutionstory
+bip_39_word_no_space_12: winkgospelpulpcrossroadburstinvestbuzzmansolutionstoryanimal
+bip_39_word_no_space_2: winkgospel
+bip_39_word_no_space_3: winkgospelpulp
+bip_39_word_no_space_4: winkgospelpulpcross
+bip_39_word_no_space_5: winkgospelpulpcrossroad
+bip_39_word_no_space_6: winkgospelpulpcrossroadburst
+bip_39_word_no_space_7: winkgospelpulpcrossroadburstinvest
+bip_39_word_no_space_8: winkgospelpulpcrossroadburstinvestbuzz
+bip_39_word_no_space_9: winkgospelpulpcrossroadburstinvestbuzzman
+bip_39_word_space_0:
+- wink
+- gospel
+- pulp
+- cross
+- road
+- burst
+- invest
+- buzz
+- man
+- solution
+- story
+- animal
+bip_39_word_space_1: wink
+bip_39_word_space_10: wink gospel pulp cross road burst invest buzz man solution
+bip_39_word_space_11: wink gospel pulp cross road burst invest buzz man solution story
+bip_39_word_space_12: wink gospel pulp cross road burst invest buzz man solution story
+  animal
+bip_39_word_space_2: wink gospel
+bip_39_word_space_3: wink gospel pulp
+bip_39_word_space_4: wink gospel pulp cross
+bip_39_word_space_5: wink gospel pulp cross road
+bip_39_word_space_6: wink gospel pulp cross road burst
+bip_39_word_space_7: wink gospel pulp cross road burst invest
+bip_39_word_space_8: wink gospel pulp cross road burst invest buzz
+bip_39_word_space_9: wink gospel pulp cross road burst invest buzz man
+bip_39_word_underscore_1: wink
+bip_39_word_underscore_10: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution
+bip_39_word_underscore_11: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution_story
+bip_39_word_underscore_12: wink_gospel_pulp_cross_road_burst_invest_buzz_man_solution_story_animal
+bip_39_word_underscore_2: wink_gospel
+bip_39_word_underscore_3: wink_gospel_pulp
+bip_39_word_underscore_4: wink_gospel_pulp_cross
+bip_39_word_underscore_5: wink_gospel_pulp_cross_road
+bip_39_word_underscore_6: wink_gospel_pulp_cross_road_burst
+bip_39_word_underscore_7: wink_gospel_pulp_cross_road_burst_invest
+bip_39_word_underscore_8: wink_gospel_pulp_cross_road_burst_invest_buzz
+bip_39_word_underscore_9: wink_gospel_pulp_cross_road_burst_invest_buzz_man
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +326,14 @@ id_no_class: bearing_61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
 id_no_color: 30_mm_id_42_mm_od_7_mm_depth
 id_no_size: 61806_size_30_mm_id_42_mm_od_7_mm_depth
 id_no_type: 61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205omk3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205omk3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205omk3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,9 @@ name_no_color: 30 mm ID 42 mm OD 7 mm Depth
 name_no_size: 61806 Size 30 mm ID 42 mm OD 7 mm Depth
 name_no_size_short: 61806 Size 30 Mm Id 42 Mm Od 7 Mm Depth
 name_no_type: 61800 Series 61806 Size 30 mm ID 42 mm OD 7 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br61806
+oomlout_short_code_upper: BR61806
 oomp_key: oomp_hardware_bearing_61800_series_61806_size_30_mm_id_42_mm_od_7_mm_depth
 oomp_word: pushpin dress dog
 oomp_word_emoji: ':pushpin: :dress: :dog:'

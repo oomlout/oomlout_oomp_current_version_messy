@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 04 03 30
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_04_03_30
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :spades: :sunglasses: :hamster:
 * md5_6_alpha: 636t1
 * md5_6: 9c0b35
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20636t1)
+[2x1](http://192.168.1.242:1112/?label=oomp%20636t1)
+[6x4](http://192.168.1.55:1112/?label=oomp%20636t1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_03_30) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_03_30)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ hover |
 | id_no_color | 040330 |  
 | id_no_size | 04_03_30 |  
 | id_no_type | tray_vertical_04_03_30 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_03_30 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_03_30 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_03_30 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20636t1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20636t1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20636t1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ hover |
 | name_no_size | 04 03 30 |  
 | name_no_size_short | 04 03 30 |  
 | name_no_type | Tray Vertical 04 03 30 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_04_03_30 |  
 | oomp_word | spades sunglasses hamster |  
 | oomp_word_emoji | :spades: :sunglasses: :hamster: |  

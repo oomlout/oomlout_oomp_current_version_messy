@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Crimp Housing 2 54 mm Black 3 Pin Dupont
+* name_short: 
 ### id
 * oomp_id: electronic_crimp_housing_2_54_mm_black_3_pin_dupont
   * classification: electronic

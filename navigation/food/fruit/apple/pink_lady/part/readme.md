@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Pink Lady Apples
 
+### name
+* name: Food Fruit Apple Pink Lady
+* name_short: 
 ### id
 * oomp_id: food_fruit_apple_pink_lady
   * classification: food
@@ -28,6 +31,29 @@ M&S Pink Lady Apples
 * oomp_word_emoji :spaghetti: :cherries: :herb:
 * md5_6_alpha: 7adlz
 * md5_6: baca67
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207adlz)
+[2x1](http://192.168.1.242:1112/?label=oomp%207adlz)
+[6x4](http://192.168.1.55:1112/?label=oomp%207adlz)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_fruit_apple_pink_lady)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,8 +308,15 @@ legal |
 | id_no_color | applepinklady |  
 | id_no_size | applepinklady |  
 | id_no_type | apple_pink_lady |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_fruit_apple_pink_lady |  
+| link_2_name | github_link |  
 | link_distributor_ocado | https://www.ocado.com/search?entry=518257011 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_fruit_apple_pink_lady |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207adlz |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207adlz |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207adlz |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ legal |
 | name_no_size | Applepinklady |  
 | name_no_size_short | Applepinklady |  
 | name_no_type | Apple Pink Lady |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_fruit_apple_pink_lady |  
 | oomp_word | spaghetti cherries herb |  
 | oomp_word_emoji | :spaghetti: :cherries: :herb: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: genius
+bip_39_word_dash_10: genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup
+bip_39_word_dash_11: genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup-minute
+bip_39_word_dash_12: genius-convince-craft-seminar-ocean-earn-actor-utility-multiply-ketchup-minute-animal
+bip_39_word_dash_2: genius-convince
+bip_39_word_dash_3: genius-convince-craft
+bip_39_word_dash_4: genius-convince-craft-seminar
+bip_39_word_dash_5: genius-convince-craft-seminar-ocean
+bip_39_word_dash_6: genius-convince-craft-seminar-ocean-earn
+bip_39_word_dash_7: genius-convince-craft-seminar-ocean-earn-actor
+bip_39_word_dash_8: genius-convince-craft-seminar-ocean-earn-actor-utility
+bip_39_word_dash_9: genius-convince-craft-seminar-ocean-earn-actor-utility-multiply
+bip_39_word_new_br_1: genius
+bip_39_word_new_br_10: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup
+bip_39_word_new_br_11: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup<br>minute
+bip_39_word_new_br_12: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply<br>ketchup<br>minute<br>animal
+bip_39_word_new_br_2: genius<br>convince
+bip_39_word_new_br_3: genius<br>convince<br>craft
+bip_39_word_new_br_4: genius<br>convince<br>craft<br>seminar
+bip_39_word_new_br_5: genius<br>convince<br>craft<br>seminar<br>ocean
+bip_39_word_new_br_6: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn
+bip_39_word_new_br_7: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor
+bip_39_word_new_br_8: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility
+bip_39_word_new_br_9: genius<br>convince<br>craft<br>seminar<br>ocean<br>earn<br>actor<br>utility<br>multiply
+bip_39_word_new_line_1: genius
+bip_39_word_new_line_10: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor
+
+  utility
+
+  multiply
+
+  ketchup'
+bip_39_word_new_line_11: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor
+
+  utility
+
+  multiply
+
+  ketchup
+
+  minute'
+bip_39_word_new_line_12: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor
+
+  utility
+
+  multiply
+
+  ketchup
+
+  minute
+
+  animal'
+bip_39_word_new_line_2: 'genius
+
+  convince'
+bip_39_word_new_line_3: 'genius
+
+  convince
+
+  craft'
+bip_39_word_new_line_4: 'genius
+
+  convince
+
+  craft
+
+  seminar'
+bip_39_word_new_line_5: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean'
+bip_39_word_new_line_6: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn'
+bip_39_word_new_line_7: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor'
+bip_39_word_new_line_8: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor
+
+  utility'
+bip_39_word_new_line_9: 'genius
+
+  convince
+
+  craft
+
+  seminar
+
+  ocean
+
+  earn
+
+  actor
+
+  utility
+
+  multiply'
+bip_39_word_no_space_1: genius
+bip_39_word_no_space_10: geniusconvincecraftseminaroceanearnactorutilitymultiplyketchup
+bip_39_word_no_space_11: geniusconvincecraftseminaroceanearnactorutilitymultiplyketchupminute
+bip_39_word_no_space_12: geniusconvincecraftseminaroceanearnactorutilitymultiplyketchupminuteanimal
+bip_39_word_no_space_2: geniusconvince
+bip_39_word_no_space_3: geniusconvincecraft
+bip_39_word_no_space_4: geniusconvincecraftseminar
+bip_39_word_no_space_5: geniusconvincecraftseminarocean
+bip_39_word_no_space_6: geniusconvincecraftseminaroceanearn
+bip_39_word_no_space_7: geniusconvincecraftseminaroceanearnactor
+bip_39_word_no_space_8: geniusconvincecraftseminaroceanearnactorutility
+bip_39_word_no_space_9: geniusconvincecraftseminaroceanearnactorutilitymultiply
+bip_39_word_space_0:
+- genius
+- convince
+- craft
+- seminar
+- ocean
+- earn
+- actor
+- utility
+- multiply
+- ketchup
+- minute
+- animal
+bip_39_word_space_1: genius
+bip_39_word_space_10: genius convince craft seminar ocean earn actor utility multiply
+  ketchup
+bip_39_word_space_11: genius convince craft seminar ocean earn actor utility multiply
+  ketchup minute
+bip_39_word_space_12: genius convince craft seminar ocean earn actor utility multiply
+  ketchup minute animal
+bip_39_word_space_2: genius convince
+bip_39_word_space_3: genius convince craft
+bip_39_word_space_4: genius convince craft seminar
+bip_39_word_space_5: genius convince craft seminar ocean
+bip_39_word_space_6: genius convince craft seminar ocean earn
+bip_39_word_space_7: genius convince craft seminar ocean earn actor
+bip_39_word_space_8: genius convince craft seminar ocean earn actor utility
+bip_39_word_space_9: genius convince craft seminar ocean earn actor utility multiply
+bip_39_word_underscore_1: genius
+bip_39_word_underscore_10: genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup
+bip_39_word_underscore_11: genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup_minute
+bip_39_word_underscore_12: genius_convince_craft_seminar_ocean_earn_actor_utility_multiply_ketchup_minute_animal
+bip_39_word_underscore_2: genius_convince
+bip_39_word_underscore_3: genius_convince_craft
+bip_39_word_underscore_4: genius_convince_craft_seminar
+bip_39_word_underscore_5: genius_convince_craft_seminar_ocean
+bip_39_word_underscore_6: genius_convince_craft_seminar_ocean_earn
+bip_39_word_underscore_7: genius_convince_craft_seminar_ocean_earn_actor
+bip_39_word_underscore_8: genius_convince_craft_seminar_ocean_earn_actor_utility
+bip_39_word_underscore_9: genius_convince_craft_seminar_ocean_earn_actor_utility_multiply
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_08_03_27
 id_no_color: 080327
 id_no_size: 08_03_27
 id_no_type: tray_thin_08_03_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_03_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ntlq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ntlq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ntlq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 080327
 name_no_size: 08 03 27
 name_no_size_short: 08 03 27
 name_no_type: Tray Thin 08 03 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_03_27
 oomp_word: pushpin clap clubs
 oomp_word_emoji: ':pushpin: :clap: :clubs:'

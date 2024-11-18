@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Switch Slide 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw
+* name_short: 
 ### id
 * oomp_id: electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
   * classification: electronic

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slim
+bip_39_word_dash_10: slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange
+bip_39_word_dash_11: slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange-priority
+bip_39_word_dash_12: slim-just-evil-sketch-title-junior-rabbit-text-candy-exchange-priority-attract
+bip_39_word_dash_2: slim-just
+bip_39_word_dash_3: slim-just-evil
+bip_39_word_dash_4: slim-just-evil-sketch
+bip_39_word_dash_5: slim-just-evil-sketch-title
+bip_39_word_dash_6: slim-just-evil-sketch-title-junior
+bip_39_word_dash_7: slim-just-evil-sketch-title-junior-rabbit
+bip_39_word_dash_8: slim-just-evil-sketch-title-junior-rabbit-text
+bip_39_word_dash_9: slim-just-evil-sketch-title-junior-rabbit-text-candy
+bip_39_word_new_br_1: slim
+bip_39_word_new_br_10: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange
+bip_39_word_new_br_11: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange<br>priority
+bip_39_word_new_br_12: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy<br>exchange<br>priority<br>attract
+bip_39_word_new_br_2: slim<br>just
+bip_39_word_new_br_3: slim<br>just<br>evil
+bip_39_word_new_br_4: slim<br>just<br>evil<br>sketch
+bip_39_word_new_br_5: slim<br>just<br>evil<br>sketch<br>title
+bip_39_word_new_br_6: slim<br>just<br>evil<br>sketch<br>title<br>junior
+bip_39_word_new_br_7: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit
+bip_39_word_new_br_8: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text
+bip_39_word_new_br_9: slim<br>just<br>evil<br>sketch<br>title<br>junior<br>rabbit<br>text<br>candy
+bip_39_word_new_line_1: slim
+bip_39_word_new_line_10: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange'
+bip_39_word_new_line_11: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange
+
+  priority'
+bip_39_word_new_line_12: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy
+
+  exchange
+
+  priority
+
+  attract'
+bip_39_word_new_line_2: 'slim
+
+  just'
+bip_39_word_new_line_3: 'slim
+
+  just
+
+  evil'
+bip_39_word_new_line_4: 'slim
+
+  just
+
+  evil
+
+  sketch'
+bip_39_word_new_line_5: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title'
+bip_39_word_new_line_6: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior'
+bip_39_word_new_line_7: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit'
+bip_39_word_new_line_8: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text'
+bip_39_word_new_line_9: 'slim
+
+  just
+
+  evil
+
+  sketch
+
+  title
+
+  junior
+
+  rabbit
+
+  text
+
+  candy'
+bip_39_word_no_space_1: slim
+bip_39_word_no_space_10: slimjustevilsketchtitlejuniorrabbittextcandyexchange
+bip_39_word_no_space_11: slimjustevilsketchtitlejuniorrabbittextcandyexchangepriority
+bip_39_word_no_space_12: slimjustevilsketchtitlejuniorrabbittextcandyexchangepriorityattract
+bip_39_word_no_space_2: slimjust
+bip_39_word_no_space_3: slimjustevil
+bip_39_word_no_space_4: slimjustevilsketch
+bip_39_word_no_space_5: slimjustevilsketchtitle
+bip_39_word_no_space_6: slimjustevilsketchtitlejunior
+bip_39_word_no_space_7: slimjustevilsketchtitlejuniorrabbit
+bip_39_word_no_space_8: slimjustevilsketchtitlejuniorrabbittext
+bip_39_word_no_space_9: slimjustevilsketchtitlejuniorrabbittextcandy
+bip_39_word_space_0:
+- slim
+- just
+- evil
+- sketch
+- title
+- junior
+- rabbit
+- text
+- candy
+- exchange
+- priority
+- attract
+bip_39_word_space_1: slim
+bip_39_word_space_10: slim just evil sketch title junior rabbit text candy exchange
+bip_39_word_space_11: slim just evil sketch title junior rabbit text candy exchange
+  priority
+bip_39_word_space_12: slim just evil sketch title junior rabbit text candy exchange
+  priority attract
+bip_39_word_space_2: slim just
+bip_39_word_space_3: slim just evil
+bip_39_word_space_4: slim just evil sketch
+bip_39_word_space_5: slim just evil sketch title
+bip_39_word_space_6: slim just evil sketch title junior
+bip_39_word_space_7: slim just evil sketch title junior rabbit
+bip_39_word_space_8: slim just evil sketch title junior rabbit text
+bip_39_word_space_9: slim just evil sketch title junior rabbit text candy
+bip_39_word_underscore_1: slim
+bip_39_word_underscore_10: slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange
+bip_39_word_underscore_11: slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange_priority
+bip_39_word_underscore_12: slim_just_evil_sketch_title_junior_rabbit_text_candy_exchange_priority_attract
+bip_39_word_underscore_2: slim_just
+bip_39_word_underscore_3: slim_just_evil
+bip_39_word_underscore_4: slim_just_evil_sketch
+bip_39_word_underscore_5: slim_just_evil_sketch_title
+bip_39_word_underscore_6: slim_just_evil_sketch_title_junior
+bip_39_word_underscore_7: slim_just_evil_sketch_title_junior_rabbit
+bip_39_word_underscore_8: slim_just_evil_sketch_title_junior_rabbit_text
+bip_39_word_underscore_9: slim_just_evil_sketch_title_junior_rabbit_text_candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_09_12
 id_no_color: '100912'
 id_no_size: '10_09_12'
 id_no_type: tray_thin_10_09_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_09_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_09_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_09_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2099djn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2099djn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2099djn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100912'
 name_no_size: 10 09 12
 name_no_size_short: 10 09 12
 name_no_type: Tray Thin 10 09 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_09_12
 oomp_word: bus dolphin tomato
 oomp_word_emoji: ':bus: :dolphin: :tomato:'

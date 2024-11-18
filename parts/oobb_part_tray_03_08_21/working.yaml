@@ -1,3 +1,222 @@
+bip_39_word_dash_1: near
+bip_39_word_dash_10: near-link-evolve-broom-blur-lumber-extend-tent-notable-almost
+bip_39_word_dash_11: near-link-evolve-broom-blur-lumber-extend-tent-notable-almost-stone
+bip_39_word_dash_12: near-link-evolve-broom-blur-lumber-extend-tent-notable-almost-stone-annual
+bip_39_word_dash_2: near-link
+bip_39_word_dash_3: near-link-evolve
+bip_39_word_dash_4: near-link-evolve-broom
+bip_39_word_dash_5: near-link-evolve-broom-blur
+bip_39_word_dash_6: near-link-evolve-broom-blur-lumber
+bip_39_word_dash_7: near-link-evolve-broom-blur-lumber-extend
+bip_39_word_dash_8: near-link-evolve-broom-blur-lumber-extend-tent
+bip_39_word_dash_9: near-link-evolve-broom-blur-lumber-extend-tent-notable
+bip_39_word_new_br_1: near
+bip_39_word_new_br_10: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost
+bip_39_word_new_br_11: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost<br>stone
+bip_39_word_new_br_12: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable<br>almost<br>stone<br>annual
+bip_39_word_new_br_2: near<br>link
+bip_39_word_new_br_3: near<br>link<br>evolve
+bip_39_word_new_br_4: near<br>link<br>evolve<br>broom
+bip_39_word_new_br_5: near<br>link<br>evolve<br>broom<br>blur
+bip_39_word_new_br_6: near<br>link<br>evolve<br>broom<br>blur<br>lumber
+bip_39_word_new_br_7: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend
+bip_39_word_new_br_8: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent
+bip_39_word_new_br_9: near<br>link<br>evolve<br>broom<br>blur<br>lumber<br>extend<br>tent<br>notable
+bip_39_word_new_line_1: near
+bip_39_word_new_line_10: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend
+
+  tent
+
+  notable
+
+  almost'
+bip_39_word_new_line_11: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend
+
+  tent
+
+  notable
+
+  almost
+
+  stone'
+bip_39_word_new_line_12: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend
+
+  tent
+
+  notable
+
+  almost
+
+  stone
+
+  annual'
+bip_39_word_new_line_2: 'near
+
+  link'
+bip_39_word_new_line_3: 'near
+
+  link
+
+  evolve'
+bip_39_word_new_line_4: 'near
+
+  link
+
+  evolve
+
+  broom'
+bip_39_word_new_line_5: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur'
+bip_39_word_new_line_6: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber'
+bip_39_word_new_line_7: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend'
+bip_39_word_new_line_8: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend
+
+  tent'
+bip_39_word_new_line_9: 'near
+
+  link
+
+  evolve
+
+  broom
+
+  blur
+
+  lumber
+
+  extend
+
+  tent
+
+  notable'
+bip_39_word_no_space_1: near
+bip_39_word_no_space_10: nearlinkevolvebroomblurlumberextendtentnotablealmost
+bip_39_word_no_space_11: nearlinkevolvebroomblurlumberextendtentnotablealmoststone
+bip_39_word_no_space_12: nearlinkevolvebroomblurlumberextendtentnotablealmoststoneannual
+bip_39_word_no_space_2: nearlink
+bip_39_word_no_space_3: nearlinkevolve
+bip_39_word_no_space_4: nearlinkevolvebroom
+bip_39_word_no_space_5: nearlinkevolvebroomblur
+bip_39_word_no_space_6: nearlinkevolvebroomblurlumber
+bip_39_word_no_space_7: nearlinkevolvebroomblurlumberextend
+bip_39_word_no_space_8: nearlinkevolvebroomblurlumberextendtent
+bip_39_word_no_space_9: nearlinkevolvebroomblurlumberextendtentnotable
+bip_39_word_space_0:
+- near
+- link
+- evolve
+- broom
+- blur
+- lumber
+- extend
+- tent
+- notable
+- almost
+- stone
+- annual
+bip_39_word_space_1: near
+bip_39_word_space_10: near link evolve broom blur lumber extend tent notable almost
+bip_39_word_space_11: near link evolve broom blur lumber extend tent notable almost
+  stone
+bip_39_word_space_12: near link evolve broom blur lumber extend tent notable almost
+  stone annual
+bip_39_word_space_2: near link
+bip_39_word_space_3: near link evolve
+bip_39_word_space_4: near link evolve broom
+bip_39_word_space_5: near link evolve broom blur
+bip_39_word_space_6: near link evolve broom blur lumber
+bip_39_word_space_7: near link evolve broom blur lumber extend
+bip_39_word_space_8: near link evolve broom blur lumber extend tent
+bip_39_word_space_9: near link evolve broom blur lumber extend tent notable
+bip_39_word_underscore_1: near
+bip_39_word_underscore_10: near_link_evolve_broom_blur_lumber_extend_tent_notable_almost
+bip_39_word_underscore_11: near_link_evolve_broom_blur_lumber_extend_tent_notable_almost_stone
+bip_39_word_underscore_12: near_link_evolve_broom_blur_lumber_extend_tent_notable_almost_stone_annual
+bip_39_word_underscore_2: near_link
+bip_39_word_underscore_3: near_link_evolve
+bip_39_word_underscore_4: near_link_evolve_broom
+bip_39_word_underscore_5: near_link_evolve_broom_blur
+bip_39_word_underscore_6: near_link_evolve_broom_blur_lumber
+bip_39_word_underscore_7: near_link_evolve_broom_blur_lumber_extend
+bip_39_word_underscore_8: near_link_evolve_broom_blur_lumber_extend_tent
+bip_39_word_underscore_9: near_link_evolve_broom_blur_lumber_extend_tent_notable
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_08_21
 id_no_color: 030821
 id_no_size: 03_08_21
 id_no_type: tray_03_08_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205x1tt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205x1tt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205x1tt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 030821
 name_no_size: 03 08 21
 name_no_size_short: 03 08 21
 name_no_type: Tray 03 08 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_08_21
 oomp_word: baseball shirt watch
 oomp_word_emoji: ':baseball: :shirt: :watch:'

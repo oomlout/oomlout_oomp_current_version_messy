@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Monitor 508 mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
+* name_short: 
 ### id
 * oomp_id: computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
   * classification: computer

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: talent
+bip_39_word_dash_10: talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest
+bip_39_word_dash_11: talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest-whale
+bip_39_word_dash_12: talent-congress-avocado-lift-dad-popular-furnace-monkey-common-nest-whale-amazing
+bip_39_word_dash_2: talent-congress
+bip_39_word_dash_3: talent-congress-avocado
+bip_39_word_dash_4: talent-congress-avocado-lift
+bip_39_word_dash_5: talent-congress-avocado-lift-dad
+bip_39_word_dash_6: talent-congress-avocado-lift-dad-popular
+bip_39_word_dash_7: talent-congress-avocado-lift-dad-popular-furnace
+bip_39_word_dash_8: talent-congress-avocado-lift-dad-popular-furnace-monkey
+bip_39_word_dash_9: talent-congress-avocado-lift-dad-popular-furnace-monkey-common
+bip_39_word_new_br_1: talent
+bip_39_word_new_br_10: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest
+bip_39_word_new_br_11: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale
+bip_39_word_new_br_12: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common<br>nest<br>whale<br>amazing
+bip_39_word_new_br_2: talent<br>congress
+bip_39_word_new_br_3: talent<br>congress<br>avocado
+bip_39_word_new_br_4: talent<br>congress<br>avocado<br>lift
+bip_39_word_new_br_5: talent<br>congress<br>avocado<br>lift<br>dad
+bip_39_word_new_br_6: talent<br>congress<br>avocado<br>lift<br>dad<br>popular
+bip_39_word_new_br_7: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace
+bip_39_word_new_br_8: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey
+bip_39_word_new_br_9: talent<br>congress<br>avocado<br>lift<br>dad<br>popular<br>furnace<br>monkey<br>common
+bip_39_word_new_line_1: talent
+bip_39_word_new_line_10: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace
+
+  monkey
+
+  common
+
+  nest'
+bip_39_word_new_line_11: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace
+
+  monkey
+
+  common
+
+  nest
+
+  whale'
+bip_39_word_new_line_12: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace
+
+  monkey
+
+  common
+
+  nest
+
+  whale
+
+  amazing'
+bip_39_word_new_line_2: 'talent
+
+  congress'
+bip_39_word_new_line_3: 'talent
+
+  congress
+
+  avocado'
+bip_39_word_new_line_4: 'talent
+
+  congress
+
+  avocado
+
+  lift'
+bip_39_word_new_line_5: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad'
+bip_39_word_new_line_6: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular'
+bip_39_word_new_line_7: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace'
+bip_39_word_new_line_8: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace
+
+  monkey'
+bip_39_word_new_line_9: 'talent
+
+  congress
+
+  avocado
+
+  lift
+
+  dad
+
+  popular
+
+  furnace
+
+  monkey
+
+  common'
+bip_39_word_no_space_1: talent
+bip_39_word_no_space_10: talentcongressavocadoliftdadpopularfurnacemonkeycommonnest
+bip_39_word_no_space_11: talentcongressavocadoliftdadpopularfurnacemonkeycommonnestwhale
+bip_39_word_no_space_12: talentcongressavocadoliftdadpopularfurnacemonkeycommonnestwhaleamazing
+bip_39_word_no_space_2: talentcongress
+bip_39_word_no_space_3: talentcongressavocado
+bip_39_word_no_space_4: talentcongressavocadolift
+bip_39_word_no_space_5: talentcongressavocadoliftdad
+bip_39_word_no_space_6: talentcongressavocadoliftdadpopular
+bip_39_word_no_space_7: talentcongressavocadoliftdadpopularfurnace
+bip_39_word_no_space_8: talentcongressavocadoliftdadpopularfurnacemonkey
+bip_39_word_no_space_9: talentcongressavocadoliftdadpopularfurnacemonkeycommon
+bip_39_word_space_0:
+- talent
+- congress
+- avocado
+- lift
+- dad
+- popular
+- furnace
+- monkey
+- common
+- nest
+- whale
+- amazing
+bip_39_word_space_1: talent
+bip_39_word_space_10: talent congress avocado lift dad popular furnace monkey common
+  nest
+bip_39_word_space_11: talent congress avocado lift dad popular furnace monkey common
+  nest whale
+bip_39_word_space_12: talent congress avocado lift dad popular furnace monkey common
+  nest whale amazing
+bip_39_word_space_2: talent congress
+bip_39_word_space_3: talent congress avocado
+bip_39_word_space_4: talent congress avocado lift
+bip_39_word_space_5: talent congress avocado lift dad
+bip_39_word_space_6: talent congress avocado lift dad popular
+bip_39_word_space_7: talent congress avocado lift dad popular furnace
+bip_39_word_space_8: talent congress avocado lift dad popular furnace monkey
+bip_39_word_space_9: talent congress avocado lift dad popular furnace monkey common
+bip_39_word_underscore_1: talent
+bip_39_word_underscore_10: talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest
+bip_39_word_underscore_11: talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest_whale
+bip_39_word_underscore_12: talent_congress_avocado_lift_dad_popular_furnace_monkey_common_nest_whale_amazing
+bip_39_word_underscore_2: talent_congress
+bip_39_word_underscore_3: talent_congress_avocado
+bip_39_word_underscore_4: talent_congress_avocado_lift
+bip_39_word_underscore_5: talent_congress_avocado_lift_dad
+bip_39_word_underscore_6: talent_congress_avocado_lift_dad_popular
+bip_39_word_underscore_7: talent_congress_avocado_lift_dad_popular_furnace
+bip_39_word_underscore_8: talent_congress_avocado_lift_dad_popular_furnace_monkey
+bip_39_word_underscore_9: talent_congress_avocado_lift_dad_popular_furnace_monkey_common
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_05_01__r
 id_no_color: 0501r
 id_no_size: 05_01__r
 id_no_type: bunting_alphabet_05_01__r
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__r
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__r
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__r
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204wx2d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204wx2d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204wx2d
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0501R
 name_no_size: 05 01  R
 name_no_size_short: 05 01  R
 name_no_type: Bunting Alphabet 05 01  R
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__r
 oomp_word: phone two maple_leaf
 oomp_word_emoji: ':phone: :two: :maple_leaf:'

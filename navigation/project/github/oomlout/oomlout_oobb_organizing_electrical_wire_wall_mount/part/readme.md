@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Organizing Electrical Wire Wall Mount
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lips: :blowfish: :mushroom:
 * md5_6_alpha: 1c9rc
 * md5_6: 225d68
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201c9rc)
+[2x1](http://192.168.1.242:1112/?label=oomp%201c9rc)
+[6x4](http://192.168.1.55:1112/?label=oomp%201c9rc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ input |
 | id_no_color | oobb_organizing_electrical_wire_wall_mount |  
 | id_no_size | oobb_organizing_electrical_wire_wall_mount |  
 | id_no_type | oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201c9rc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201c9rc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201c9rc |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_organizing_electrical_wire_wall_mount |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ input |
 | name_no_size | Oobb Organizing Electrical Wire Wall Mount |  
 | name_no_size_short | Oobb Organizing Electrical Wire Wall Mount |  
 | name_no_type | Oomlout Oomlout Oobb Organizing Electrical Wire Wall Mount |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_organizing_electrical_wire_wall_mount |  
 | oomp_word | lips blowfish mushroom |  
 | oomp_word_emoji | :lips: :blowfish: :mushroom: |  

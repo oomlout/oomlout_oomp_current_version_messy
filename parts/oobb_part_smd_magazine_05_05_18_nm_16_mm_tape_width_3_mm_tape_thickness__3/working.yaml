@@ -1,3 +1,223 @@
+bip_39_word_dash_1: oak
+bip_39_word_dash_10: oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december
+bip_39_word_dash_11: oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december-usage
+bip_39_word_dash_12: oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger-december-usage-assist
+bip_39_word_dash_2: oak-soft
+bip_39_word_dash_3: oak-soft-balance
+bip_39_word_dash_4: oak-soft-balance-raven
+bip_39_word_dash_5: oak-soft-balance-raven-laundry
+bip_39_word_dash_6: oak-soft-balance-raven-laundry-hamster
+bip_39_word_dash_7: oak-soft-balance-raven-laundry-hamster-symptom
+bip_39_word_dash_8: oak-soft-balance-raven-laundry-hamster-symptom-tonight
+bip_39_word_dash_9: oak-soft-balance-raven-laundry-hamster-symptom-tonight-danger
+bip_39_word_new_br_1: oak
+bip_39_word_new_br_10: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger<br>december
+bip_39_word_new_br_11: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger<br>december<br>usage
+bip_39_word_new_br_12: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger<br>december<br>usage<br>assist
+bip_39_word_new_br_2: oak<br>soft
+bip_39_word_new_br_3: oak<br>soft<br>balance
+bip_39_word_new_br_4: oak<br>soft<br>balance<br>raven
+bip_39_word_new_br_5: oak<br>soft<br>balance<br>raven<br>laundry
+bip_39_word_new_br_6: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster
+bip_39_word_new_br_7: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom
+bip_39_word_new_br_8: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight
+bip_39_word_new_br_9: oak<br>soft<br>balance<br>raven<br>laundry<br>hamster<br>symptom<br>tonight<br>danger
+bip_39_word_new_line_1: oak
+bip_39_word_new_line_10: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom
+
+  tonight
+
+  danger
+
+  december'
+bip_39_word_new_line_11: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom
+
+  tonight
+
+  danger
+
+  december
+
+  usage'
+bip_39_word_new_line_12: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom
+
+  tonight
+
+  danger
+
+  december
+
+  usage
+
+  assist'
+bip_39_word_new_line_2: 'oak
+
+  soft'
+bip_39_word_new_line_3: 'oak
+
+  soft
+
+  balance'
+bip_39_word_new_line_4: 'oak
+
+  soft
+
+  balance
+
+  raven'
+bip_39_word_new_line_5: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry'
+bip_39_word_new_line_6: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster'
+bip_39_word_new_line_7: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom'
+bip_39_word_new_line_8: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom
+
+  tonight'
+bip_39_word_new_line_9: 'oak
+
+  soft
+
+  balance
+
+  raven
+
+  laundry
+
+  hamster
+
+  symptom
+
+  tonight
+
+  danger'
+bip_39_word_no_space_1: oak
+bip_39_word_no_space_10: oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecember
+bip_39_word_no_space_11: oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecemberusage
+bip_39_word_no_space_12: oaksoftbalanceravenlaundryhamstersymptomtonightdangerdecemberusageassist
+bip_39_word_no_space_2: oaksoft
+bip_39_word_no_space_3: oaksoftbalance
+bip_39_word_no_space_4: oaksoftbalanceraven
+bip_39_word_no_space_5: oaksoftbalanceravenlaundry
+bip_39_word_no_space_6: oaksoftbalanceravenlaundryhamster
+bip_39_word_no_space_7: oaksoftbalanceravenlaundryhamstersymptom
+bip_39_word_no_space_8: oaksoftbalanceravenlaundryhamstersymptomtonight
+bip_39_word_no_space_9: oaksoftbalanceravenlaundryhamstersymptomtonightdanger
+bip_39_word_space_0:
+- oak
+- soft
+- balance
+- raven
+- laundry
+- hamster
+- symptom
+- tonight
+- danger
+- december
+- usage
+- assist
+bip_39_word_space_1: oak
+bip_39_word_space_10: oak soft balance raven laundry hamster symptom tonight danger
+  december
+bip_39_word_space_11: oak soft balance raven laundry hamster symptom tonight danger
+  december usage
+bip_39_word_space_12: oak soft balance raven laundry hamster symptom tonight danger
+  december usage assist
+bip_39_word_space_2: oak soft
+bip_39_word_space_3: oak soft balance
+bip_39_word_space_4: oak soft balance raven
+bip_39_word_space_5: oak soft balance raven laundry
+bip_39_word_space_6: oak soft balance raven laundry hamster
+bip_39_word_space_7: oak soft balance raven laundry hamster symptom
+bip_39_word_space_8: oak soft balance raven laundry hamster symptom tonight
+bip_39_word_space_9: oak soft balance raven laundry hamster symptom tonight danger
+bip_39_word_underscore_1: oak
+bip_39_word_underscore_10: oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december
+bip_39_word_underscore_11: oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december_usage
+bip_39_word_underscore_12: oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger_december_usage_assist
+bip_39_word_underscore_2: oak_soft
+bip_39_word_underscore_3: oak_soft_balance
+bip_39_word_underscore_4: oak_soft_balance_raven
+bip_39_word_underscore_5: oak_soft_balance_raven_laundry
+bip_39_word_underscore_6: oak_soft_balance_raven_laundry_hamster
+bip_39_word_underscore_7: oak_soft_balance_raven_laundry_hamster_symptom
+bip_39_word_underscore_8: oak_soft_balance_raven_laundry_hamster_symptom_tonight
+bip_39_word_underscore_9: oak_soft_balance_raven_laundry_hamster_symptom_tonight_danger
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness_
 id_no_color: 050518nm16mmtapewidth3mmtapethickness3
 id_no_size: 05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
 id_no_type: smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208nnke
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208nnke
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208nnke
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050518Nm16mmtapewidth3mmtapethickness3
 name_no_size: 05 05 18 Nm 16 mm Tape Width 3 mm Tape Thickness  3
 name_no_size_short: 05 05 18 Nm 16 Mm Tape Width 3 Mm Tape Thickness  3
 name_no_type: SMD Magazine 05 05 18 Nm 16 mm Tape Width 3 mm Tape Thickness  3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_3_mm_tape_thickness__3
 oomp_word: stars fountain cupid
 oomp_word_emoji: ':stars: :fountain: :cupid:'

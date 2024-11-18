@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 rice brown short grain
 
+### name
+* name: Food Starch Rice Brown Short Grain
+* name_short: Rice Brown Short Grain
 ### id
 * oomp_id: food_starch_rice_brown_short_grain
   * classification: food

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: rotate
+bip_39_word_dash_10: rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf
+bip_39_word_dash_11: rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf-priority
+bip_39_word_dash_12: rotate-cake-nurse-help-youth-frost-wrap-illness-hospital-leaf-priority-again
+bip_39_word_dash_2: rotate-cake
+bip_39_word_dash_3: rotate-cake-nurse
+bip_39_word_dash_4: rotate-cake-nurse-help
+bip_39_word_dash_5: rotate-cake-nurse-help-youth
+bip_39_word_dash_6: rotate-cake-nurse-help-youth-frost
+bip_39_word_dash_7: rotate-cake-nurse-help-youth-frost-wrap
+bip_39_word_dash_8: rotate-cake-nurse-help-youth-frost-wrap-illness
+bip_39_word_dash_9: rotate-cake-nurse-help-youth-frost-wrap-illness-hospital
+bip_39_word_new_br_1: rotate
+bip_39_word_new_br_10: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf
+bip_39_word_new_br_11: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority
+bip_39_word_new_br_12: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital<br>leaf<br>priority<br>again
+bip_39_word_new_br_2: rotate<br>cake
+bip_39_word_new_br_3: rotate<br>cake<br>nurse
+bip_39_word_new_br_4: rotate<br>cake<br>nurse<br>help
+bip_39_word_new_br_5: rotate<br>cake<br>nurse<br>help<br>youth
+bip_39_word_new_br_6: rotate<br>cake<br>nurse<br>help<br>youth<br>frost
+bip_39_word_new_br_7: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap
+bip_39_word_new_br_8: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness
+bip_39_word_new_br_9: rotate<br>cake<br>nurse<br>help<br>youth<br>frost<br>wrap<br>illness<br>hospital
+bip_39_word_new_line_1: rotate
+bip_39_word_new_line_10: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap
+
+  illness
+
+  hospital
+
+  leaf'
+bip_39_word_new_line_11: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap
+
+  illness
+
+  hospital
+
+  leaf
+
+  priority'
+bip_39_word_new_line_12: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap
+
+  illness
+
+  hospital
+
+  leaf
+
+  priority
+
+  again'
+bip_39_word_new_line_2: 'rotate
+
+  cake'
+bip_39_word_new_line_3: 'rotate
+
+  cake
+
+  nurse'
+bip_39_word_new_line_4: 'rotate
+
+  cake
+
+  nurse
+
+  help'
+bip_39_word_new_line_5: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth'
+bip_39_word_new_line_6: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost'
+bip_39_word_new_line_7: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap'
+bip_39_word_new_line_8: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap
+
+  illness'
+bip_39_word_new_line_9: 'rotate
+
+  cake
+
+  nurse
+
+  help
+
+  youth
+
+  frost
+
+  wrap
+
+  illness
+
+  hospital'
+bip_39_word_no_space_1: rotate
+bip_39_word_no_space_10: rotatecakenursehelpyouthfrostwrapillnesshospitalleaf
+bip_39_word_no_space_11: rotatecakenursehelpyouthfrostwrapillnesshospitalleafpriority
+bip_39_word_no_space_12: rotatecakenursehelpyouthfrostwrapillnesshospitalleafpriorityagain
+bip_39_word_no_space_2: rotatecake
+bip_39_word_no_space_3: rotatecakenurse
+bip_39_word_no_space_4: rotatecakenursehelp
+bip_39_word_no_space_5: rotatecakenursehelpyouth
+bip_39_word_no_space_6: rotatecakenursehelpyouthfrost
+bip_39_word_no_space_7: rotatecakenursehelpyouthfrostwrap
+bip_39_word_no_space_8: rotatecakenursehelpyouthfrostwrapillness
+bip_39_word_no_space_9: rotatecakenursehelpyouthfrostwrapillnesshospital
+bip_39_word_space_0:
+- rotate
+- cake
+- nurse
+- help
+- youth
+- frost
+- wrap
+- illness
+- hospital
+- leaf
+- priority
+- again
+bip_39_word_space_1: rotate
+bip_39_word_space_10: rotate cake nurse help youth frost wrap illness hospital leaf
+bip_39_word_space_11: rotate cake nurse help youth frost wrap illness hospital leaf
+  priority
+bip_39_word_space_12: rotate cake nurse help youth frost wrap illness hospital leaf
+  priority again
+bip_39_word_space_2: rotate cake
+bip_39_word_space_3: rotate cake nurse
+bip_39_word_space_4: rotate cake nurse help
+bip_39_word_space_5: rotate cake nurse help youth
+bip_39_word_space_6: rotate cake nurse help youth frost
+bip_39_word_space_7: rotate cake nurse help youth frost wrap
+bip_39_word_space_8: rotate cake nurse help youth frost wrap illness
+bip_39_word_space_9: rotate cake nurse help youth frost wrap illness hospital
+bip_39_word_underscore_1: rotate
+bip_39_word_underscore_10: rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf
+bip_39_word_underscore_11: rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf_priority
+bip_39_word_underscore_12: rotate_cake_nurse_help_youth_frost_wrap_illness_hospital_leaf_priority_again
+bip_39_word_underscore_2: rotate_cake
+bip_39_word_underscore_3: rotate_cake_nurse
+bip_39_word_underscore_4: rotate_cake_nurse_help
+bip_39_word_underscore_5: rotate_cake_nurse_help_youth
+bip_39_word_underscore_6: rotate_cake_nurse_help_youth_frost
+bip_39_word_underscore_7: rotate_cake_nurse_help_youth_frost_wrap
+bip_39_word_underscore_8: rotate_cake_nurse_help_youth_frost_wrap_illness
+bip_39_word_underscore_9: rotate_cake_nurse_help_youth_frost_wrap_illness_hospital
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_11_90
 id_no_color: 1d51190
 id_no_size: 1d5_11_90
 id_no_type: tray_1d5_11_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_11_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xtjz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xtjz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xtjz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51190
 name_no_size: 1D5 11 90
 name_no_size_short: 1D5 11 90
 name_no_type: Tray 1D5 11 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_11_90
 oomp_word: penguin dolphin fountain
 oomp_word_emoji: ':penguin: :dolphin: :fountain:'

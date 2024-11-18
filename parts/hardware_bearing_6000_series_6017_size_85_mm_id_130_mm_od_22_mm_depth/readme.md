@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6000 Series 6017 Size 85 mm ID 130 mm OD 22 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6000_series_6017_size_85_mm_id_130_mm_od_22_mm_depth
   * classification: hardware

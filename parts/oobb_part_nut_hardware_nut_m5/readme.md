@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Nut Hardware Nut M5
+* name_short: 
 ### id
 * oomp_id: oobb_part_nut_hardware_nut_m5
   * classification: oobb

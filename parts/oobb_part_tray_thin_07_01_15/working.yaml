@@ -1,3 +1,222 @@
+bip_39_word_dash_1: devote
+bip_39_word_dash_10: devote-market-mimic-strike-desk-year-number-devote-joy-wink
+bip_39_word_dash_11: devote-market-mimic-strike-desk-year-number-devote-joy-wink-faith
+bip_39_word_dash_12: devote-market-mimic-strike-desk-year-number-devote-joy-wink-faith-announce
+bip_39_word_dash_2: devote-market
+bip_39_word_dash_3: devote-market-mimic
+bip_39_word_dash_4: devote-market-mimic-strike
+bip_39_word_dash_5: devote-market-mimic-strike-desk
+bip_39_word_dash_6: devote-market-mimic-strike-desk-year
+bip_39_word_dash_7: devote-market-mimic-strike-desk-year-number
+bip_39_word_dash_8: devote-market-mimic-strike-desk-year-number-devote
+bip_39_word_dash_9: devote-market-mimic-strike-desk-year-number-devote-joy
+bip_39_word_new_br_1: devote
+bip_39_word_new_br_10: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink
+bip_39_word_new_br_11: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith
+bip_39_word_new_br_12: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy<br>wink<br>faith<br>announce
+bip_39_word_new_br_2: devote<br>market
+bip_39_word_new_br_3: devote<br>market<br>mimic
+bip_39_word_new_br_4: devote<br>market<br>mimic<br>strike
+bip_39_word_new_br_5: devote<br>market<br>mimic<br>strike<br>desk
+bip_39_word_new_br_6: devote<br>market<br>mimic<br>strike<br>desk<br>year
+bip_39_word_new_br_7: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number
+bip_39_word_new_br_8: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote
+bip_39_word_new_br_9: devote<br>market<br>mimic<br>strike<br>desk<br>year<br>number<br>devote<br>joy
+bip_39_word_new_line_1: devote
+bip_39_word_new_line_10: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number
+
+  devote
+
+  joy
+
+  wink'
+bip_39_word_new_line_11: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number
+
+  devote
+
+  joy
+
+  wink
+
+  faith'
+bip_39_word_new_line_12: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number
+
+  devote
+
+  joy
+
+  wink
+
+  faith
+
+  announce'
+bip_39_word_new_line_2: 'devote
+
+  market'
+bip_39_word_new_line_3: 'devote
+
+  market
+
+  mimic'
+bip_39_word_new_line_4: 'devote
+
+  market
+
+  mimic
+
+  strike'
+bip_39_word_new_line_5: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk'
+bip_39_word_new_line_6: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year'
+bip_39_word_new_line_7: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number'
+bip_39_word_new_line_8: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number
+
+  devote'
+bip_39_word_new_line_9: 'devote
+
+  market
+
+  mimic
+
+  strike
+
+  desk
+
+  year
+
+  number
+
+  devote
+
+  joy'
+bip_39_word_no_space_1: devote
+bip_39_word_no_space_10: devotemarketmimicstrikedeskyearnumberdevotejoywink
+bip_39_word_no_space_11: devotemarketmimicstrikedeskyearnumberdevotejoywinkfaith
+bip_39_word_no_space_12: devotemarketmimicstrikedeskyearnumberdevotejoywinkfaithannounce
+bip_39_word_no_space_2: devotemarket
+bip_39_word_no_space_3: devotemarketmimic
+bip_39_word_no_space_4: devotemarketmimicstrike
+bip_39_word_no_space_5: devotemarketmimicstrikedesk
+bip_39_word_no_space_6: devotemarketmimicstrikedeskyear
+bip_39_word_no_space_7: devotemarketmimicstrikedeskyearnumber
+bip_39_word_no_space_8: devotemarketmimicstrikedeskyearnumberdevote
+bip_39_word_no_space_9: devotemarketmimicstrikedeskyearnumberdevotejoy
+bip_39_word_space_0:
+- devote
+- market
+- mimic
+- strike
+- desk
+- year
+- number
+- devote
+- joy
+- wink
+- faith
+- announce
+bip_39_word_space_1: devote
+bip_39_word_space_10: devote market mimic strike desk year number devote joy wink
+bip_39_word_space_11: devote market mimic strike desk year number devote joy wink
+  faith
+bip_39_word_space_12: devote market mimic strike desk year number devote joy wink
+  faith announce
+bip_39_word_space_2: devote market
+bip_39_word_space_3: devote market mimic
+bip_39_word_space_4: devote market mimic strike
+bip_39_word_space_5: devote market mimic strike desk
+bip_39_word_space_6: devote market mimic strike desk year
+bip_39_word_space_7: devote market mimic strike desk year number
+bip_39_word_space_8: devote market mimic strike desk year number devote
+bip_39_word_space_9: devote market mimic strike desk year number devote joy
+bip_39_word_underscore_1: devote
+bip_39_word_underscore_10: devote_market_mimic_strike_desk_year_number_devote_joy_wink
+bip_39_word_underscore_11: devote_market_mimic_strike_desk_year_number_devote_joy_wink_faith
+bip_39_word_underscore_12: devote_market_mimic_strike_desk_year_number_devote_joy_wink_faith_announce
+bip_39_word_underscore_2: devote_market
+bip_39_word_underscore_3: devote_market_mimic
+bip_39_word_underscore_4: devote_market_mimic_strike
+bip_39_word_underscore_5: devote_market_mimic_strike_desk
+bip_39_word_underscore_6: devote_market_mimic_strike_desk_year
+bip_39_word_underscore_7: devote_market_mimic_strike_desk_year_number
+bip_39_word_underscore_8: devote_market_mimic_strike_desk_year_number_devote
+bip_39_word_underscore_9: devote_market_mimic_strike_desk_year_number_devote_joy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_07_01_15
 id_no_color: '070115'
 id_no_size: '07_01_15'
 id_no_type: tray_thin_07_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205sshq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205sshq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205sshq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070115'
 name_no_size: 07 01 15
 name_no_size_short: 07 01 15
 name_no_type: Tray Thin 07 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_01_15
 oomp_word: microscope book monkey
 oomp_word_emoji: ':microscope: :book: :monkey:'

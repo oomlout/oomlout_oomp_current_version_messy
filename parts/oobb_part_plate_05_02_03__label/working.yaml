@@ -1,3 +1,222 @@
+bip_39_word_dash_1: legal
+bip_39_word_dash_10: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media
+bip_39_word_dash_11: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media-glue
+bip_39_word_dash_12: legal-gather-antique-physical-antenna-verb-clog-seek-clean-media-glue-auto
+bip_39_word_dash_2: legal-gather
+bip_39_word_dash_3: legal-gather-antique
+bip_39_word_dash_4: legal-gather-antique-physical
+bip_39_word_dash_5: legal-gather-antique-physical-antenna
+bip_39_word_dash_6: legal-gather-antique-physical-antenna-verb
+bip_39_word_dash_7: legal-gather-antique-physical-antenna-verb-clog
+bip_39_word_dash_8: legal-gather-antique-physical-antenna-verb-clog-seek
+bip_39_word_dash_9: legal-gather-antique-physical-antenna-verb-clog-seek-clean
+bip_39_word_new_br_1: legal
+bip_39_word_new_br_10: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media
+bip_39_word_new_br_11: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media<br>glue
+bip_39_word_new_br_12: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean<br>media<br>glue<br>auto
+bip_39_word_new_br_2: legal<br>gather
+bip_39_word_new_br_3: legal<br>gather<br>antique
+bip_39_word_new_br_4: legal<br>gather<br>antique<br>physical
+bip_39_word_new_br_5: legal<br>gather<br>antique<br>physical<br>antenna
+bip_39_word_new_br_6: legal<br>gather<br>antique<br>physical<br>antenna<br>verb
+bip_39_word_new_br_7: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog
+bip_39_word_new_br_8: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek
+bip_39_word_new_br_9: legal<br>gather<br>antique<br>physical<br>antenna<br>verb<br>clog<br>seek<br>clean
+bip_39_word_new_line_1: legal
+bip_39_word_new_line_10: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog
+
+  seek
+
+  clean
+
+  media'
+bip_39_word_new_line_11: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog
+
+  seek
+
+  clean
+
+  media
+
+  glue'
+bip_39_word_new_line_12: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog
+
+  seek
+
+  clean
+
+  media
+
+  glue
+
+  auto'
+bip_39_word_new_line_2: 'legal
+
+  gather'
+bip_39_word_new_line_3: 'legal
+
+  gather
+
+  antique'
+bip_39_word_new_line_4: 'legal
+
+  gather
+
+  antique
+
+  physical'
+bip_39_word_new_line_5: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna'
+bip_39_word_new_line_6: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb'
+bip_39_word_new_line_7: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog'
+bip_39_word_new_line_8: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog
+
+  seek'
+bip_39_word_new_line_9: 'legal
+
+  gather
+
+  antique
+
+  physical
+
+  antenna
+
+  verb
+
+  clog
+
+  seek
+
+  clean'
+bip_39_word_no_space_1: legal
+bip_39_word_no_space_10: legalgatherantiquephysicalantennaverbclogseekcleanmedia
+bip_39_word_no_space_11: legalgatherantiquephysicalantennaverbclogseekcleanmediaglue
+bip_39_word_no_space_12: legalgatherantiquephysicalantennaverbclogseekcleanmediaglueauto
+bip_39_word_no_space_2: legalgather
+bip_39_word_no_space_3: legalgatherantique
+bip_39_word_no_space_4: legalgatherantiquephysical
+bip_39_word_no_space_5: legalgatherantiquephysicalantenna
+bip_39_word_no_space_6: legalgatherantiquephysicalantennaverb
+bip_39_word_no_space_7: legalgatherantiquephysicalantennaverbclog
+bip_39_word_no_space_8: legalgatherantiquephysicalantennaverbclogseek
+bip_39_word_no_space_9: legalgatherantiquephysicalantennaverbclogseekclean
+bip_39_word_space_0:
+- legal
+- gather
+- antique
+- physical
+- antenna
+- verb
+- clog
+- seek
+- clean
+- media
+- glue
+- auto
+bip_39_word_space_1: legal
+bip_39_word_space_10: legal gather antique physical antenna verb clog seek clean media
+bip_39_word_space_11: legal gather antique physical antenna verb clog seek clean media
+  glue
+bip_39_word_space_12: legal gather antique physical antenna verb clog seek clean media
+  glue auto
+bip_39_word_space_2: legal gather
+bip_39_word_space_3: legal gather antique
+bip_39_word_space_4: legal gather antique physical
+bip_39_word_space_5: legal gather antique physical antenna
+bip_39_word_space_6: legal gather antique physical antenna verb
+bip_39_word_space_7: legal gather antique physical antenna verb clog
+bip_39_word_space_8: legal gather antique physical antenna verb clog seek
+bip_39_word_space_9: legal gather antique physical antenna verb clog seek clean
+bip_39_word_underscore_1: legal
+bip_39_word_underscore_10: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media
+bip_39_word_underscore_11: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media_glue
+bip_39_word_underscore_12: legal_gather_antique_physical_antenna_verb_clog_seek_clean_media_glue_auto
+bip_39_word_underscore_2: legal_gather
+bip_39_word_underscore_3: legal_gather_antique
+bip_39_word_underscore_4: legal_gather_antique_physical
+bip_39_word_underscore_5: legal_gather_antique_physical_antenna
+bip_39_word_underscore_6: legal_gather_antique_physical_antenna_verb
+bip_39_word_underscore_7: legal_gather_antique_physical_antenna_verb_clog
+bip_39_word_underscore_8: legal_gather_antique_physical_antenna_verb_clog_seek
+bip_39_word_underscore_9: legal_gather_antique_physical_antenna_verb_clog_seek_clean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_05_02_03__label
 id_no_color: 050203label
 id_no_size: 05_02_03__label
 id_no_type: plate_05_02_03__label
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__label
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__label
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__label
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209pgbm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209pgbm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209pgbm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050203Label
 name_no_size: 05 02 03  Label
 name_no_size_short: 05 02 03  Label
 name_no_type: Plate 05 02 03  Label
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_02_03__label
 oomp_word: seven honey_pot sailboat
 oomp_word_emoji: ':seven: :honey_pot: :sailboat:'

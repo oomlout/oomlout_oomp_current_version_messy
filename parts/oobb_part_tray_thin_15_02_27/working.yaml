@@ -1,3 +1,222 @@
+bip_39_word_dash_1: purity
+bip_39_word_dash_10: purity-inject-parade-average-local-scare-account-box-year-ticket
+bip_39_word_dash_11: purity-inject-parade-average-local-scare-account-box-year-ticket-tenant
+bip_39_word_dash_12: purity-inject-parade-average-local-scare-account-box-year-ticket-tenant-author
+bip_39_word_dash_2: purity-inject
+bip_39_word_dash_3: purity-inject-parade
+bip_39_word_dash_4: purity-inject-parade-average
+bip_39_word_dash_5: purity-inject-parade-average-local
+bip_39_word_dash_6: purity-inject-parade-average-local-scare
+bip_39_word_dash_7: purity-inject-parade-average-local-scare-account
+bip_39_word_dash_8: purity-inject-parade-average-local-scare-account-box
+bip_39_word_dash_9: purity-inject-parade-average-local-scare-account-box-year
+bip_39_word_new_br_1: purity
+bip_39_word_new_br_10: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year<br>ticket
+bip_39_word_new_br_11: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year<br>ticket<br>tenant
+bip_39_word_new_br_12: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year<br>ticket<br>tenant<br>author
+bip_39_word_new_br_2: purity<br>inject
+bip_39_word_new_br_3: purity<br>inject<br>parade
+bip_39_word_new_br_4: purity<br>inject<br>parade<br>average
+bip_39_word_new_br_5: purity<br>inject<br>parade<br>average<br>local
+bip_39_word_new_br_6: purity<br>inject<br>parade<br>average<br>local<br>scare
+bip_39_word_new_br_7: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account
+bip_39_word_new_br_8: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box
+bip_39_word_new_br_9: purity<br>inject<br>parade<br>average<br>local<br>scare<br>account<br>box<br>year
+bip_39_word_new_line_1: purity
+bip_39_word_new_line_10: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account
+
+  box
+
+  year
+
+  ticket'
+bip_39_word_new_line_11: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account
+
+  box
+
+  year
+
+  ticket
+
+  tenant'
+bip_39_word_new_line_12: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account
+
+  box
+
+  year
+
+  ticket
+
+  tenant
+
+  author'
+bip_39_word_new_line_2: 'purity
+
+  inject'
+bip_39_word_new_line_3: 'purity
+
+  inject
+
+  parade'
+bip_39_word_new_line_4: 'purity
+
+  inject
+
+  parade
+
+  average'
+bip_39_word_new_line_5: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local'
+bip_39_word_new_line_6: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare'
+bip_39_word_new_line_7: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account'
+bip_39_word_new_line_8: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account
+
+  box'
+bip_39_word_new_line_9: 'purity
+
+  inject
+
+  parade
+
+  average
+
+  local
+
+  scare
+
+  account
+
+  box
+
+  year'
+bip_39_word_no_space_1: purity
+bip_39_word_no_space_10: purityinjectparadeaveragelocalscareaccountboxyearticket
+bip_39_word_no_space_11: purityinjectparadeaveragelocalscareaccountboxyeartickettenant
+bip_39_word_no_space_12: purityinjectparadeaveragelocalscareaccountboxyeartickettenantauthor
+bip_39_word_no_space_2: purityinject
+bip_39_word_no_space_3: purityinjectparade
+bip_39_word_no_space_4: purityinjectparadeaverage
+bip_39_word_no_space_5: purityinjectparadeaveragelocal
+bip_39_word_no_space_6: purityinjectparadeaveragelocalscare
+bip_39_word_no_space_7: purityinjectparadeaveragelocalscareaccount
+bip_39_word_no_space_8: purityinjectparadeaveragelocalscareaccountbox
+bip_39_word_no_space_9: purityinjectparadeaveragelocalscareaccountboxyear
+bip_39_word_space_0:
+- purity
+- inject
+- parade
+- average
+- local
+- scare
+- account
+- box
+- year
+- ticket
+- tenant
+- author
+bip_39_word_space_1: purity
+bip_39_word_space_10: purity inject parade average local scare account box year ticket
+bip_39_word_space_11: purity inject parade average local scare account box year ticket
+  tenant
+bip_39_word_space_12: purity inject parade average local scare account box year ticket
+  tenant author
+bip_39_word_space_2: purity inject
+bip_39_word_space_3: purity inject parade
+bip_39_word_space_4: purity inject parade average
+bip_39_word_space_5: purity inject parade average local
+bip_39_word_space_6: purity inject parade average local scare
+bip_39_word_space_7: purity inject parade average local scare account
+bip_39_word_space_8: purity inject parade average local scare account box
+bip_39_word_space_9: purity inject parade average local scare account box year
+bip_39_word_underscore_1: purity
+bip_39_word_underscore_10: purity_inject_parade_average_local_scare_account_box_year_ticket
+bip_39_word_underscore_11: purity_inject_parade_average_local_scare_account_box_year_ticket_tenant
+bip_39_word_underscore_12: purity_inject_parade_average_local_scare_account_box_year_ticket_tenant_author
+bip_39_word_underscore_2: purity_inject
+bip_39_word_underscore_3: purity_inject_parade
+bip_39_word_underscore_4: purity_inject_parade_average
+bip_39_word_underscore_5: purity_inject_parade_average_local
+bip_39_word_underscore_6: purity_inject_parade_average_local_scare
+bip_39_word_underscore_7: purity_inject_parade_average_local_scare_account
+bip_39_word_underscore_8: purity_inject_parade_average_local_scare_account_box
+bip_39_word_underscore_9: purity_inject_parade_average_local_scare_account_box_year
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_02_27
 id_no_color: '150227'
 id_no_size: '15_02_27'
 id_no_type: tray_thin_15_02_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_02_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_02_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_02_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209nzug
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209nzug
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209nzug
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150227'
 name_no_size: 15 02 27
 name_no_size_short: 15 02 27
 name_no_type: Tray Thin 15 02 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_02_27
 oomp_word: six ramen frog
 oomp_word_emoji: ':six: :ramen: :frog:'

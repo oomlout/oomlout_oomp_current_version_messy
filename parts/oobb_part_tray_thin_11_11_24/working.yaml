@@ -1,3 +1,221 @@
+bip_39_word_dash_1: era
+bip_39_word_dash_10: era-bird-neglect-kick-mask-news-metal-canoe-little-couch
+bip_39_word_dash_11: era-bird-neglect-kick-mask-news-metal-canoe-little-couch-decorate
+bip_39_word_dash_12: era-bird-neglect-kick-mask-news-metal-canoe-little-couch-decorate-above
+bip_39_word_dash_2: era-bird
+bip_39_word_dash_3: era-bird-neglect
+bip_39_word_dash_4: era-bird-neglect-kick
+bip_39_word_dash_5: era-bird-neglect-kick-mask
+bip_39_word_dash_6: era-bird-neglect-kick-mask-news
+bip_39_word_dash_7: era-bird-neglect-kick-mask-news-metal
+bip_39_word_dash_8: era-bird-neglect-kick-mask-news-metal-canoe
+bip_39_word_dash_9: era-bird-neglect-kick-mask-news-metal-canoe-little
+bip_39_word_new_br_1: era
+bip_39_word_new_br_10: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch
+bip_39_word_new_br_11: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate
+bip_39_word_new_br_12: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little<br>couch<br>decorate<br>above
+bip_39_word_new_br_2: era<br>bird
+bip_39_word_new_br_3: era<br>bird<br>neglect
+bip_39_word_new_br_4: era<br>bird<br>neglect<br>kick
+bip_39_word_new_br_5: era<br>bird<br>neglect<br>kick<br>mask
+bip_39_word_new_br_6: era<br>bird<br>neglect<br>kick<br>mask<br>news
+bip_39_word_new_br_7: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal
+bip_39_word_new_br_8: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe
+bip_39_word_new_br_9: era<br>bird<br>neglect<br>kick<br>mask<br>news<br>metal<br>canoe<br>little
+bip_39_word_new_line_1: era
+bip_39_word_new_line_10: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal
+
+  canoe
+
+  little
+
+  couch'
+bip_39_word_new_line_11: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal
+
+  canoe
+
+  little
+
+  couch
+
+  decorate'
+bip_39_word_new_line_12: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal
+
+  canoe
+
+  little
+
+  couch
+
+  decorate
+
+  above'
+bip_39_word_new_line_2: 'era
+
+  bird'
+bip_39_word_new_line_3: 'era
+
+  bird
+
+  neglect'
+bip_39_word_new_line_4: 'era
+
+  bird
+
+  neglect
+
+  kick'
+bip_39_word_new_line_5: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask'
+bip_39_word_new_line_6: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news'
+bip_39_word_new_line_7: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal'
+bip_39_word_new_line_8: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal
+
+  canoe'
+bip_39_word_new_line_9: 'era
+
+  bird
+
+  neglect
+
+  kick
+
+  mask
+
+  news
+
+  metal
+
+  canoe
+
+  little'
+bip_39_word_no_space_1: era
+bip_39_word_no_space_10: erabirdneglectkickmasknewsmetalcanoelittlecouch
+bip_39_word_no_space_11: erabirdneglectkickmasknewsmetalcanoelittlecouchdecorate
+bip_39_word_no_space_12: erabirdneglectkickmasknewsmetalcanoelittlecouchdecorateabove
+bip_39_word_no_space_2: erabird
+bip_39_word_no_space_3: erabirdneglect
+bip_39_word_no_space_4: erabirdneglectkick
+bip_39_word_no_space_5: erabirdneglectkickmask
+bip_39_word_no_space_6: erabirdneglectkickmasknews
+bip_39_word_no_space_7: erabirdneglectkickmasknewsmetal
+bip_39_word_no_space_8: erabirdneglectkickmasknewsmetalcanoe
+bip_39_word_no_space_9: erabirdneglectkickmasknewsmetalcanoelittle
+bip_39_word_space_0:
+- era
+- bird
+- neglect
+- kick
+- mask
+- news
+- metal
+- canoe
+- little
+- couch
+- decorate
+- above
+bip_39_word_space_1: era
+bip_39_word_space_10: era bird neglect kick mask news metal canoe little couch
+bip_39_word_space_11: era bird neglect kick mask news metal canoe little couch decorate
+bip_39_word_space_12: era bird neglect kick mask news metal canoe little couch decorate
+  above
+bip_39_word_space_2: era bird
+bip_39_word_space_3: era bird neglect
+bip_39_word_space_4: era bird neglect kick
+bip_39_word_space_5: era bird neglect kick mask
+bip_39_word_space_6: era bird neglect kick mask news
+bip_39_word_space_7: era bird neglect kick mask news metal
+bip_39_word_space_8: era bird neglect kick mask news metal canoe
+bip_39_word_space_9: era bird neglect kick mask news metal canoe little
+bip_39_word_underscore_1: era
+bip_39_word_underscore_10: era_bird_neglect_kick_mask_news_metal_canoe_little_couch
+bip_39_word_underscore_11: era_bird_neglect_kick_mask_news_metal_canoe_little_couch_decorate
+bip_39_word_underscore_12: era_bird_neglect_kick_mask_news_metal_canoe_little_couch_decorate_above
+bip_39_word_underscore_2: era_bird
+bip_39_word_underscore_3: era_bird_neglect
+bip_39_word_underscore_4: era_bird_neglect_kick
+bip_39_word_underscore_5: era_bird_neglect_kick_mask
+bip_39_word_underscore_6: era_bird_neglect_kick_mask_news
+bip_39_word_underscore_7: era_bird_neglect_kick_mask_news_metal
+bip_39_word_underscore_8: era_bird_neglect_kick_mask_news_metal_canoe
+bip_39_word_underscore_9: era_bird_neglect_kick_mask_news_metal_canoe_little
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_11_11_24
 id_no_color: '111124'
 id_no_size: '11_11_24'
 id_no_type: tray_thin_11_11_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_11_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bv2k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bv2k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bv2k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '111124'
 name_no_size: 11 11 24
 name_no_size_short: 11 11 24
 name_no_type: Tray Thin 11 11 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_11_24
 oomp_word: scream dolls alien
 oomp_word_emoji: ':scream: :dolls: :alien:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: grab
+bip_39_word_dash_10: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard
+bip_39_word_dash_11: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard-fitness
+bip_39_word_dash_12: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market-leopard-fitness-arrow
+bip_39_word_dash_2: grab-zebra
+bip_39_word_dash_3: grab-zebra-milk
+bip_39_word_dash_4: grab-zebra-milk-cruel
+bip_39_word_dash_5: grab-zebra-milk-cruel-fine
+bip_39_word_dash_6: grab-zebra-milk-cruel-fine-wasp
+bip_39_word_dash_7: grab-zebra-milk-cruel-fine-wasp-omit
+bip_39_word_dash_8: grab-zebra-milk-cruel-fine-wasp-omit-pencil
+bip_39_word_dash_9: grab-zebra-milk-cruel-fine-wasp-omit-pencil-market
+bip_39_word_new_br_1: grab
+bip_39_word_new_br_10: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard
+bip_39_word_new_br_11: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard<br>fitness
+bip_39_word_new_br_12: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market<br>leopard<br>fitness<br>arrow
+bip_39_word_new_br_2: grab<br>zebra
+bip_39_word_new_br_3: grab<br>zebra<br>milk
+bip_39_word_new_br_4: grab<br>zebra<br>milk<br>cruel
+bip_39_word_new_br_5: grab<br>zebra<br>milk<br>cruel<br>fine
+bip_39_word_new_br_6: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp
+bip_39_word_new_br_7: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit
+bip_39_word_new_br_8: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil
+bip_39_word_new_br_9: grab<br>zebra<br>milk<br>cruel<br>fine<br>wasp<br>omit<br>pencil<br>market
+bip_39_word_new_line_1: grab
+bip_39_word_new_line_10: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit
+
+  pencil
+
+  market
+
+  leopard'
+bip_39_word_new_line_11: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit
+
+  pencil
+
+  market
+
+  leopard
+
+  fitness'
+bip_39_word_new_line_12: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit
+
+  pencil
+
+  market
+
+  leopard
+
+  fitness
+
+  arrow'
+bip_39_word_new_line_2: 'grab
+
+  zebra'
+bip_39_word_new_line_3: 'grab
+
+  zebra
+
+  milk'
+bip_39_word_new_line_4: 'grab
+
+  zebra
+
+  milk
+
+  cruel'
+bip_39_word_new_line_5: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine'
+bip_39_word_new_line_6: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp'
+bip_39_word_new_line_7: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit'
+bip_39_word_new_line_8: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit
+
+  pencil'
+bip_39_word_new_line_9: 'grab
+
+  zebra
+
+  milk
+
+  cruel
+
+  fine
+
+  wasp
+
+  omit
+
+  pencil
+
+  market'
+bip_39_word_no_space_1: grab
+bip_39_word_no_space_10: grabzebramilkcruelfinewaspomitpencilmarketleopard
+bip_39_word_no_space_11: grabzebramilkcruelfinewaspomitpencilmarketleopardfitness
+bip_39_word_no_space_12: grabzebramilkcruelfinewaspomitpencilmarketleopardfitnessarrow
+bip_39_word_no_space_2: grabzebra
+bip_39_word_no_space_3: grabzebramilk
+bip_39_word_no_space_4: grabzebramilkcruel
+bip_39_word_no_space_5: grabzebramilkcruelfine
+bip_39_word_no_space_6: grabzebramilkcruelfinewasp
+bip_39_word_no_space_7: grabzebramilkcruelfinewaspomit
+bip_39_word_no_space_8: grabzebramilkcruelfinewaspomitpencil
+bip_39_word_no_space_9: grabzebramilkcruelfinewaspomitpencilmarket
+bip_39_word_space_0:
+- grab
+- zebra
+- milk
+- cruel
+- fine
+- wasp
+- omit
+- pencil
+- market
+- leopard
+- fitness
+- arrow
+bip_39_word_space_1: grab
+bip_39_word_space_10: grab zebra milk cruel fine wasp omit pencil market leopard
+bip_39_word_space_11: grab zebra milk cruel fine wasp omit pencil market leopard fitness
+bip_39_word_space_12: grab zebra milk cruel fine wasp omit pencil market leopard fitness
+  arrow
+bip_39_word_space_2: grab zebra
+bip_39_word_space_3: grab zebra milk
+bip_39_word_space_4: grab zebra milk cruel
+bip_39_word_space_5: grab zebra milk cruel fine
+bip_39_word_space_6: grab zebra milk cruel fine wasp
+bip_39_word_space_7: grab zebra milk cruel fine wasp omit
+bip_39_word_space_8: grab zebra milk cruel fine wasp omit pencil
+bip_39_word_space_9: grab zebra milk cruel fine wasp omit pencil market
+bip_39_word_underscore_1: grab
+bip_39_word_underscore_10: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard
+bip_39_word_underscore_11: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard_fitness
+bip_39_word_underscore_12: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market_leopard_fitness_arrow
+bip_39_word_underscore_2: grab_zebra
+bip_39_word_underscore_3: grab_zebra_milk
+bip_39_word_underscore_4: grab_zebra_milk_cruel
+bip_39_word_underscore_5: grab_zebra_milk_cruel_fine
+bip_39_word_underscore_6: grab_zebra_milk_cruel_fine_wasp
+bip_39_word_underscore_7: grab_zebra_milk_cruel_fine_wasp_omit
+bip_39_word_underscore_8: grab_zebra_milk_cruel_fine_wasp_omit_pencil
+bip_39_word_underscore_9: grab_zebra_milk_cruel_fine_wasp_omit_pencil_market
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_11_05_18
 id_no_color: '110518'
 id_no_size: '11_05_18'
 id_no_type: tray_thin_11_05_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_05_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_05_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_05_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207wpgg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207wpgg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207wpgg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '110518'
 name_no_size: 11 05 18
 name_no_size_short: 11 05 18
 name_no_type: Tray Thin 11 05 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_05_18
 oomp_word: cherries tophat ship
 oomp_word_emoji: ':cherries: :tophat: :ship:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: skill
+bip_39_word_dash_10: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare
+bip_39_word_dash_11: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare-scale
+bip_39_word_dash_12: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash-glare-scale-acid
+bip_39_word_dash_2: skill-veteran
+bip_39_word_dash_3: skill-veteran-oppose
+bip_39_word_dash_4: skill-veteran-oppose-frost
+bip_39_word_dash_5: skill-veteran-oppose-frost-cat
+bip_39_word_dash_6: skill-veteran-oppose-frost-cat-pretty
+bip_39_word_dash_7: skill-veteran-oppose-frost-cat-pretty-crazy
+bip_39_word_dash_8: skill-veteran-oppose-frost-cat-pretty-crazy-earn
+bip_39_word_dash_9: skill-veteran-oppose-frost-cat-pretty-crazy-earn-wash
+bip_39_word_new_br_1: skill
+bip_39_word_new_br_10: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare
+bip_39_word_new_br_11: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare<br>scale
+bip_39_word_new_br_12: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash<br>glare<br>scale<br>acid
+bip_39_word_new_br_2: skill<br>veteran
+bip_39_word_new_br_3: skill<br>veteran<br>oppose
+bip_39_word_new_br_4: skill<br>veteran<br>oppose<br>frost
+bip_39_word_new_br_5: skill<br>veteran<br>oppose<br>frost<br>cat
+bip_39_word_new_br_6: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty
+bip_39_word_new_br_7: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy
+bip_39_word_new_br_8: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn
+bip_39_word_new_br_9: skill<br>veteran<br>oppose<br>frost<br>cat<br>pretty<br>crazy<br>earn<br>wash
+bip_39_word_new_line_1: skill
+bip_39_word_new_line_10: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy
+
+  earn
+
+  wash
+
+  glare'
+bip_39_word_new_line_11: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy
+
+  earn
+
+  wash
+
+  glare
+
+  scale'
+bip_39_word_new_line_12: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy
+
+  earn
+
+  wash
+
+  glare
+
+  scale
+
+  acid'
+bip_39_word_new_line_2: 'skill
+
+  veteran'
+bip_39_word_new_line_3: 'skill
+
+  veteran
+
+  oppose'
+bip_39_word_new_line_4: 'skill
+
+  veteran
+
+  oppose
+
+  frost'
+bip_39_word_new_line_5: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat'
+bip_39_word_new_line_6: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty'
+bip_39_word_new_line_7: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy'
+bip_39_word_new_line_8: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy
+
+  earn'
+bip_39_word_new_line_9: 'skill
+
+  veteran
+
+  oppose
+
+  frost
+
+  cat
+
+  pretty
+
+  crazy
+
+  earn
+
+  wash'
+bip_39_word_no_space_1: skill
+bip_39_word_no_space_10: skillveteranopposefrostcatprettycrazyearnwashglare
+bip_39_word_no_space_11: skillveteranopposefrostcatprettycrazyearnwashglarescale
+bip_39_word_no_space_12: skillveteranopposefrostcatprettycrazyearnwashglarescaleacid
+bip_39_word_no_space_2: skillveteran
+bip_39_word_no_space_3: skillveteranoppose
+bip_39_word_no_space_4: skillveteranopposefrost
+bip_39_word_no_space_5: skillveteranopposefrostcat
+bip_39_word_no_space_6: skillveteranopposefrostcatpretty
+bip_39_word_no_space_7: skillveteranopposefrostcatprettycrazy
+bip_39_word_no_space_8: skillveteranopposefrostcatprettycrazyearn
+bip_39_word_no_space_9: skillveteranopposefrostcatprettycrazyearnwash
+bip_39_word_space_0:
+- skill
+- veteran
+- oppose
+- frost
+- cat
+- pretty
+- crazy
+- earn
+- wash
+- glare
+- scale
+- acid
+bip_39_word_space_1: skill
+bip_39_word_space_10: skill veteran oppose frost cat pretty crazy earn wash glare
+bip_39_word_space_11: skill veteran oppose frost cat pretty crazy earn wash glare
+  scale
+bip_39_word_space_12: skill veteran oppose frost cat pretty crazy earn wash glare
+  scale acid
+bip_39_word_space_2: skill veteran
+bip_39_word_space_3: skill veteran oppose
+bip_39_word_space_4: skill veteran oppose frost
+bip_39_word_space_5: skill veteran oppose frost cat
+bip_39_word_space_6: skill veteran oppose frost cat pretty
+bip_39_word_space_7: skill veteran oppose frost cat pretty crazy
+bip_39_word_space_8: skill veteran oppose frost cat pretty crazy earn
+bip_39_word_space_9: skill veteran oppose frost cat pretty crazy earn wash
+bip_39_word_underscore_1: skill
+bip_39_word_underscore_10: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare
+bip_39_word_underscore_11: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare_scale
+bip_39_word_underscore_12: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash_glare_scale_acid
+bip_39_word_underscore_2: skill_veteran
+bip_39_word_underscore_3: skill_veteran_oppose
+bip_39_word_underscore_4: skill_veteran_oppose_frost
+bip_39_word_underscore_5: skill_veteran_oppose_frost_cat
+bip_39_word_underscore_6: skill_veteran_oppose_frost_cat_pretty
+bip_39_word_underscore_7: skill_veteran_oppose_frost_cat_pretty_crazy
+bip_39_word_underscore_8: skill_veteran_oppose_frost_cat_pretty_crazy_earn
+bip_39_word_underscore_9: skill_veteran_oppose_frost_cat_pretty_crazy_earn_wash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_test_screw_self_tapping
 id_no_color: screwselftapping
 id_no_size: screw_self_tapping
 id_no_type: test_screw_self_tapping
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_self_tapping
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_self_tapping
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20188wo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20188wo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20188wo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Screwselftapping
 name_no_size: Screw Self Tapping
 name_no_size_short: Screw Self Tapping
 name_no_type: Test Screw Self Tapping
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_test_oobb_screw_self_tapping
 oomp_word: princess hourglass hand
 oomp_word_emoji: ':princess: :hourglass: :hand:'

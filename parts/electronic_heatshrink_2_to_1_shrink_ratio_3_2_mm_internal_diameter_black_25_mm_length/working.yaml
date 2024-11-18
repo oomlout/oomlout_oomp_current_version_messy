@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lesson
+bip_39_word_dash_10: lesson-credit-gun-voyage-vendor-client-subject-alter-apple-rival
+bip_39_word_dash_11: lesson-credit-gun-voyage-vendor-client-subject-alter-apple-rival-skill
+bip_39_word_dash_12: lesson-credit-gun-voyage-vendor-client-subject-alter-apple-rival-skill-aspect
+bip_39_word_dash_2: lesson-credit
+bip_39_word_dash_3: lesson-credit-gun
+bip_39_word_dash_4: lesson-credit-gun-voyage
+bip_39_word_dash_5: lesson-credit-gun-voyage-vendor
+bip_39_word_dash_6: lesson-credit-gun-voyage-vendor-client
+bip_39_word_dash_7: lesson-credit-gun-voyage-vendor-client-subject
+bip_39_word_dash_8: lesson-credit-gun-voyage-vendor-client-subject-alter
+bip_39_word_dash_9: lesson-credit-gun-voyage-vendor-client-subject-alter-apple
+bip_39_word_new_br_1: lesson
+bip_39_word_new_br_10: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival
+bip_39_word_new_br_11: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival<br>skill
+bip_39_word_new_br_12: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple<br>rival<br>skill<br>aspect
+bip_39_word_new_br_2: lesson<br>credit
+bip_39_word_new_br_3: lesson<br>credit<br>gun
+bip_39_word_new_br_4: lesson<br>credit<br>gun<br>voyage
+bip_39_word_new_br_5: lesson<br>credit<br>gun<br>voyage<br>vendor
+bip_39_word_new_br_6: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client
+bip_39_word_new_br_7: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject
+bip_39_word_new_br_8: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter
+bip_39_word_new_br_9: lesson<br>credit<br>gun<br>voyage<br>vendor<br>client<br>subject<br>alter<br>apple
+bip_39_word_new_line_1: lesson
+bip_39_word_new_line_10: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival'
+bip_39_word_new_line_11: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival
+
+  skill'
+bip_39_word_new_line_12: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple
+
+  rival
+
+  skill
+
+  aspect'
+bip_39_word_new_line_2: 'lesson
+
+  credit'
+bip_39_word_new_line_3: 'lesson
+
+  credit
+
+  gun'
+bip_39_word_new_line_4: 'lesson
+
+  credit
+
+  gun
+
+  voyage'
+bip_39_word_new_line_5: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor'
+bip_39_word_new_line_6: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client'
+bip_39_word_new_line_7: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject'
+bip_39_word_new_line_8: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter'
+bip_39_word_new_line_9: 'lesson
+
+  credit
+
+  gun
+
+  voyage
+
+  vendor
+
+  client
+
+  subject
+
+  alter
+
+  apple'
+bip_39_word_no_space_1: lesson
+bip_39_word_no_space_10: lessoncreditgunvoyagevendorclientsubjectalterapplerival
+bip_39_word_no_space_11: lessoncreditgunvoyagevendorclientsubjectalterapplerivalskill
+bip_39_word_no_space_12: lessoncreditgunvoyagevendorclientsubjectalterapplerivalskillaspect
+bip_39_word_no_space_2: lessoncredit
+bip_39_word_no_space_3: lessoncreditgun
+bip_39_word_no_space_4: lessoncreditgunvoyage
+bip_39_word_no_space_5: lessoncreditgunvoyagevendor
+bip_39_word_no_space_6: lessoncreditgunvoyagevendorclient
+bip_39_word_no_space_7: lessoncreditgunvoyagevendorclientsubject
+bip_39_word_no_space_8: lessoncreditgunvoyagevendorclientsubjectalter
+bip_39_word_no_space_9: lessoncreditgunvoyagevendorclientsubjectalterapple
+bip_39_word_space_0:
+- lesson
+- credit
+- gun
+- voyage
+- vendor
+- client
+- subject
+- alter
+- apple
+- rival
+- skill
+- aspect
+bip_39_word_space_1: lesson
+bip_39_word_space_10: lesson credit gun voyage vendor client subject alter apple rival
+bip_39_word_space_11: lesson credit gun voyage vendor client subject alter apple rival
+  skill
+bip_39_word_space_12: lesson credit gun voyage vendor client subject alter apple rival
+  skill aspect
+bip_39_word_space_2: lesson credit
+bip_39_word_space_3: lesson credit gun
+bip_39_word_space_4: lesson credit gun voyage
+bip_39_word_space_5: lesson credit gun voyage vendor
+bip_39_word_space_6: lesson credit gun voyage vendor client
+bip_39_word_space_7: lesson credit gun voyage vendor client subject
+bip_39_word_space_8: lesson credit gun voyage vendor client subject alter
+bip_39_word_space_9: lesson credit gun voyage vendor client subject alter apple
+bip_39_word_underscore_1: lesson
+bip_39_word_underscore_10: lesson_credit_gun_voyage_vendor_client_subject_alter_apple_rival
+bip_39_word_underscore_11: lesson_credit_gun_voyage_vendor_client_subject_alter_apple_rival_skill
+bip_39_word_underscore_12: lesson_credit_gun_voyage_vendor_client_subject_alter_apple_rival_skill_aspect
+bip_39_word_underscore_2: lesson_credit
+bip_39_word_underscore_3: lesson_credit_gun
+bip_39_word_underscore_4: lesson_credit_gun_voyage
+bip_39_word_underscore_5: lesson_credit_gun_voyage_vendor
+bip_39_word_underscore_6: lesson_credit_gun_voyage_vendor_client
+bip_39_word_underscore_7: lesson_credit_gun_voyage_vendor_client_subject
+bip_39_word_underscore_8: lesson_credit_gun_voyage_vendor_client_subject_alter
+bip_39_word_underscore_9: lesson_credit_gun_voyage_vendor_client_subject_alter_apple
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 25_mm_length
 id_no_size: black_25_mm_length
 id_no_type: 3_2_mm_internal_diameter_black_25_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_black_25_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_black_25_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_black_25_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208etim
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208etim
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208etim
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 25 mm Length
 name_no_size: Black 25 mm Length
 name_no_size_short: Black 25 Mm Length
 name_no_type: 3 2 mm Internal Diameter Black 25 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_black_25_mm_length
 oomp_word: office microscope ambulance
 oomp_word_emoji: ':office: :microscope: :ambulance:'

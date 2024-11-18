@@ -1,3 +1,223 @@
+bip_39_word_dash_1: daughter
+bip_39_word_dash_10: daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert
+bip_39_word_dash_11: daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert-gaze
+bip_39_word_dash_12: daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort-concert-gaze-already
+bip_39_word_dash_2: daughter-vibrant
+bip_39_word_dash_3: daughter-vibrant-oil
+bip_39_word_dash_4: daughter-vibrant-oil-marble
+bip_39_word_dash_5: daughter-vibrant-oil-marble-breeze
+bip_39_word_dash_6: daughter-vibrant-oil-marble-breeze-rely
+bip_39_word_dash_7: daughter-vibrant-oil-marble-breeze-rely-demand
+bip_39_word_dash_8: daughter-vibrant-oil-marble-breeze-rely-demand-august
+bip_39_word_dash_9: daughter-vibrant-oil-marble-breeze-rely-demand-august-comfort
+bip_39_word_new_br_1: daughter
+bip_39_word_new_br_10: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert
+bip_39_word_new_br_11: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze
+bip_39_word_new_br_12: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort<br>concert<br>gaze<br>already
+bip_39_word_new_br_2: daughter<br>vibrant
+bip_39_word_new_br_3: daughter<br>vibrant<br>oil
+bip_39_word_new_br_4: daughter<br>vibrant<br>oil<br>marble
+bip_39_word_new_br_5: daughter<br>vibrant<br>oil<br>marble<br>breeze
+bip_39_word_new_br_6: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely
+bip_39_word_new_br_7: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand
+bip_39_word_new_br_8: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august
+bip_39_word_new_br_9: daughter<br>vibrant<br>oil<br>marble<br>breeze<br>rely<br>demand<br>august<br>comfort
+bip_39_word_new_line_1: daughter
+bip_39_word_new_line_10: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert'
+bip_39_word_new_line_11: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert
+
+  gaze'
+bip_39_word_new_line_12: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort
+
+  concert
+
+  gaze
+
+  already'
+bip_39_word_new_line_2: 'daughter
+
+  vibrant'
+bip_39_word_new_line_3: 'daughter
+
+  vibrant
+
+  oil'
+bip_39_word_new_line_4: 'daughter
+
+  vibrant
+
+  oil
+
+  marble'
+bip_39_word_new_line_5: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze'
+bip_39_word_new_line_6: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely'
+bip_39_word_new_line_7: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand'
+bip_39_word_new_line_8: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august'
+bip_39_word_new_line_9: 'daughter
+
+  vibrant
+
+  oil
+
+  marble
+
+  breeze
+
+  rely
+
+  demand
+
+  august
+
+  comfort'
+bip_39_word_no_space_1: daughter
+bip_39_word_no_space_10: daughtervibrantoilmarblebreezerelydemandaugustcomfortconcert
+bip_39_word_no_space_11: daughtervibrantoilmarblebreezerelydemandaugustcomfortconcertgaze
+bip_39_word_no_space_12: daughtervibrantoilmarblebreezerelydemandaugustcomfortconcertgazealready
+bip_39_word_no_space_2: daughtervibrant
+bip_39_word_no_space_3: daughtervibrantoil
+bip_39_word_no_space_4: daughtervibrantoilmarble
+bip_39_word_no_space_5: daughtervibrantoilmarblebreeze
+bip_39_word_no_space_6: daughtervibrantoilmarblebreezerely
+bip_39_word_no_space_7: daughtervibrantoilmarblebreezerelydemand
+bip_39_word_no_space_8: daughtervibrantoilmarblebreezerelydemandaugust
+bip_39_word_no_space_9: daughtervibrantoilmarblebreezerelydemandaugustcomfort
+bip_39_word_space_0:
+- daughter
+- vibrant
+- oil
+- marble
+- breeze
+- rely
+- demand
+- august
+- comfort
+- concert
+- gaze
+- already
+bip_39_word_space_1: daughter
+bip_39_word_space_10: daughter vibrant oil marble breeze rely demand august comfort
+  concert
+bip_39_word_space_11: daughter vibrant oil marble breeze rely demand august comfort
+  concert gaze
+bip_39_word_space_12: daughter vibrant oil marble breeze rely demand august comfort
+  concert gaze already
+bip_39_word_space_2: daughter vibrant
+bip_39_word_space_3: daughter vibrant oil
+bip_39_word_space_4: daughter vibrant oil marble
+bip_39_word_space_5: daughter vibrant oil marble breeze
+bip_39_word_space_6: daughter vibrant oil marble breeze rely
+bip_39_word_space_7: daughter vibrant oil marble breeze rely demand
+bip_39_word_space_8: daughter vibrant oil marble breeze rely demand august
+bip_39_word_space_9: daughter vibrant oil marble breeze rely demand august comfort
+bip_39_word_underscore_1: daughter
+bip_39_word_underscore_10: daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert
+bip_39_word_underscore_11: daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert_gaze
+bip_39_word_underscore_12: daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort_concert_gaze_already
+bip_39_word_underscore_2: daughter_vibrant
+bip_39_word_underscore_3: daughter_vibrant_oil
+bip_39_word_underscore_4: daughter_vibrant_oil_marble
+bip_39_word_underscore_5: daughter_vibrant_oil_marble_breeze
+bip_39_word_underscore_6: daughter_vibrant_oil_marble_breeze_rely
+bip_39_word_underscore_7: daughter_vibrant_oil_marble_breeze_rely_demand
+bip_39_word_underscore_8: daughter_vibrant_oil_marble_breeze_rely_demand_august
+bip_39_word_underscore_9: daughter_vibrant_oil_marble_breeze_rely_demand_august_comfort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_10_60
 id_no_color: '101060'
 id_no_size: '10_10_60'
 id_no_type: tray_thin_10_10_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204h6x7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204h6x7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204h6x7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '101060'
 name_no_size: 10 10 60
 name_no_size_short: 10 10 60
 name_no_type: Tray Thin 10 10 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_10_60
 oomp_word: dolls doughnut penguin
 oomp_word_emoji: ':dolls: :doughnut: :penguin:'

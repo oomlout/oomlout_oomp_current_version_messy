@@ -1,3 +1,222 @@
+bip_39_word_dash_1: reopen
+bip_39_word_dash_10: reopen-clay-garbage-saddle-ozone-intact-permit-syrup-hill-word
+bip_39_word_dash_11: reopen-clay-garbage-saddle-ozone-intact-permit-syrup-hill-word-hard
+bip_39_word_dash_12: reopen-clay-garbage-saddle-ozone-intact-permit-syrup-hill-word-hard-apple
+bip_39_word_dash_2: reopen-clay
+bip_39_word_dash_3: reopen-clay-garbage
+bip_39_word_dash_4: reopen-clay-garbage-saddle
+bip_39_word_dash_5: reopen-clay-garbage-saddle-ozone
+bip_39_word_dash_6: reopen-clay-garbage-saddle-ozone-intact
+bip_39_word_dash_7: reopen-clay-garbage-saddle-ozone-intact-permit
+bip_39_word_dash_8: reopen-clay-garbage-saddle-ozone-intact-permit-syrup
+bip_39_word_dash_9: reopen-clay-garbage-saddle-ozone-intact-permit-syrup-hill
+bip_39_word_new_br_1: reopen
+bip_39_word_new_br_10: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word
+bip_39_word_new_br_11: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard
+bip_39_word_new_br_12: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill<br>word<br>hard<br>apple
+bip_39_word_new_br_2: reopen<br>clay
+bip_39_word_new_br_3: reopen<br>clay<br>garbage
+bip_39_word_new_br_4: reopen<br>clay<br>garbage<br>saddle
+bip_39_word_new_br_5: reopen<br>clay<br>garbage<br>saddle<br>ozone
+bip_39_word_new_br_6: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact
+bip_39_word_new_br_7: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit
+bip_39_word_new_br_8: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup
+bip_39_word_new_br_9: reopen<br>clay<br>garbage<br>saddle<br>ozone<br>intact<br>permit<br>syrup<br>hill
+bip_39_word_new_line_1: reopen
+bip_39_word_new_line_10: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit
+
+  syrup
+
+  hill
+
+  word'
+bip_39_word_new_line_11: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit
+
+  syrup
+
+  hill
+
+  word
+
+  hard'
+bip_39_word_new_line_12: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit
+
+  syrup
+
+  hill
+
+  word
+
+  hard
+
+  apple'
+bip_39_word_new_line_2: 'reopen
+
+  clay'
+bip_39_word_new_line_3: 'reopen
+
+  clay
+
+  garbage'
+bip_39_word_new_line_4: 'reopen
+
+  clay
+
+  garbage
+
+  saddle'
+bip_39_word_new_line_5: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone'
+bip_39_word_new_line_6: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact'
+bip_39_word_new_line_7: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit'
+bip_39_word_new_line_8: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit
+
+  syrup'
+bip_39_word_new_line_9: 'reopen
+
+  clay
+
+  garbage
+
+  saddle
+
+  ozone
+
+  intact
+
+  permit
+
+  syrup
+
+  hill'
+bip_39_word_no_space_1: reopen
+bip_39_word_no_space_10: reopenclaygarbagesaddleozoneintactpermitsyruphillword
+bip_39_word_no_space_11: reopenclaygarbagesaddleozoneintactpermitsyruphillwordhard
+bip_39_word_no_space_12: reopenclaygarbagesaddleozoneintactpermitsyruphillwordhardapple
+bip_39_word_no_space_2: reopenclay
+bip_39_word_no_space_3: reopenclaygarbage
+bip_39_word_no_space_4: reopenclaygarbagesaddle
+bip_39_word_no_space_5: reopenclaygarbagesaddleozone
+bip_39_word_no_space_6: reopenclaygarbagesaddleozoneintact
+bip_39_word_no_space_7: reopenclaygarbagesaddleozoneintactpermit
+bip_39_word_no_space_8: reopenclaygarbagesaddleozoneintactpermitsyrup
+bip_39_word_no_space_9: reopenclaygarbagesaddleozoneintactpermitsyruphill
+bip_39_word_space_0:
+- reopen
+- clay
+- garbage
+- saddle
+- ozone
+- intact
+- permit
+- syrup
+- hill
+- word
+- hard
+- apple
+bip_39_word_space_1: reopen
+bip_39_word_space_10: reopen clay garbage saddle ozone intact permit syrup hill word
+bip_39_word_space_11: reopen clay garbage saddle ozone intact permit syrup hill word
+  hard
+bip_39_word_space_12: reopen clay garbage saddle ozone intact permit syrup hill word
+  hard apple
+bip_39_word_space_2: reopen clay
+bip_39_word_space_3: reopen clay garbage
+bip_39_word_space_4: reopen clay garbage saddle
+bip_39_word_space_5: reopen clay garbage saddle ozone
+bip_39_word_space_6: reopen clay garbage saddle ozone intact
+bip_39_word_space_7: reopen clay garbage saddle ozone intact permit
+bip_39_word_space_8: reopen clay garbage saddle ozone intact permit syrup
+bip_39_word_space_9: reopen clay garbage saddle ozone intact permit syrup hill
+bip_39_word_underscore_1: reopen
+bip_39_word_underscore_10: reopen_clay_garbage_saddle_ozone_intact_permit_syrup_hill_word
+bip_39_word_underscore_11: reopen_clay_garbage_saddle_ozone_intact_permit_syrup_hill_word_hard
+bip_39_word_underscore_12: reopen_clay_garbage_saddle_ozone_intact_permit_syrup_hill_word_hard_apple
+bip_39_word_underscore_2: reopen_clay
+bip_39_word_underscore_3: reopen_clay_garbage
+bip_39_word_underscore_4: reopen_clay_garbage_saddle
+bip_39_word_underscore_5: reopen_clay_garbage_saddle_ozone
+bip_39_word_underscore_6: reopen_clay_garbage_saddle_ozone_intact
+bip_39_word_underscore_7: reopen_clay_garbage_saddle_ozone_intact_permit
+bip_39_word_underscore_8: reopen_clay_garbage_saddle_ozone_intact_permit_syrup
+bip_39_word_underscore_9: reopen_clay_garbage_saddle_ozone_intact_permit_syrup_hill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_06_60
 id_no_color: '010660'
 id_no_size: '01_06_60'
 id_no_type: tray_01_06_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ny4f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ny4f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ny4f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '010660'
 name_no_size: 01 06 60
 name_no_size_short: 01 06 60
 name_no_type: Tray 01 06 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_06_60
 oomp_word: lipstick pineapple speaker
 oomp_word_emoji: ':lipstick: :pineapple: :speaker:'

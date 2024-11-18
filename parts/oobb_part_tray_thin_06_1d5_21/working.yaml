@@ -1,3 +1,222 @@
+bip_39_word_dash_1: nominee
+bip_39_word_dash_10: nominee-thank-off-vital-decline-oak-already-napkin-bid-wild
+bip_39_word_dash_11: nominee-thank-off-vital-decline-oak-already-napkin-bid-wild-candy
+bip_39_word_dash_12: nominee-thank-off-vital-decline-oak-already-napkin-bid-wild-candy-art
+bip_39_word_dash_2: nominee-thank
+bip_39_word_dash_3: nominee-thank-off
+bip_39_word_dash_4: nominee-thank-off-vital
+bip_39_word_dash_5: nominee-thank-off-vital-decline
+bip_39_word_dash_6: nominee-thank-off-vital-decline-oak
+bip_39_word_dash_7: nominee-thank-off-vital-decline-oak-already
+bip_39_word_dash_8: nominee-thank-off-vital-decline-oak-already-napkin
+bip_39_word_dash_9: nominee-thank-off-vital-decline-oak-already-napkin-bid
+bip_39_word_new_br_1: nominee
+bip_39_word_new_br_10: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild
+bip_39_word_new_br_11: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild<br>candy
+bip_39_word_new_br_12: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid<br>wild<br>candy<br>art
+bip_39_word_new_br_2: nominee<br>thank
+bip_39_word_new_br_3: nominee<br>thank<br>off
+bip_39_word_new_br_4: nominee<br>thank<br>off<br>vital
+bip_39_word_new_br_5: nominee<br>thank<br>off<br>vital<br>decline
+bip_39_word_new_br_6: nominee<br>thank<br>off<br>vital<br>decline<br>oak
+bip_39_word_new_br_7: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already
+bip_39_word_new_br_8: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin
+bip_39_word_new_br_9: nominee<br>thank<br>off<br>vital<br>decline<br>oak<br>already<br>napkin<br>bid
+bip_39_word_new_line_1: nominee
+bip_39_word_new_line_10: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already
+
+  napkin
+
+  bid
+
+  wild'
+bip_39_word_new_line_11: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already
+
+  napkin
+
+  bid
+
+  wild
+
+  candy'
+bip_39_word_new_line_12: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already
+
+  napkin
+
+  bid
+
+  wild
+
+  candy
+
+  art'
+bip_39_word_new_line_2: 'nominee
+
+  thank'
+bip_39_word_new_line_3: 'nominee
+
+  thank
+
+  off'
+bip_39_word_new_line_4: 'nominee
+
+  thank
+
+  off
+
+  vital'
+bip_39_word_new_line_5: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline'
+bip_39_word_new_line_6: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak'
+bip_39_word_new_line_7: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already'
+bip_39_word_new_line_8: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already
+
+  napkin'
+bip_39_word_new_line_9: 'nominee
+
+  thank
+
+  off
+
+  vital
+
+  decline
+
+  oak
+
+  already
+
+  napkin
+
+  bid'
+bip_39_word_no_space_1: nominee
+bip_39_word_no_space_10: nomineethankoffvitaldeclineoakalreadynapkinbidwild
+bip_39_word_no_space_11: nomineethankoffvitaldeclineoakalreadynapkinbidwildcandy
+bip_39_word_no_space_12: nomineethankoffvitaldeclineoakalreadynapkinbidwildcandyart
+bip_39_word_no_space_2: nomineethank
+bip_39_word_no_space_3: nomineethankoff
+bip_39_word_no_space_4: nomineethankoffvital
+bip_39_word_no_space_5: nomineethankoffvitaldecline
+bip_39_word_no_space_6: nomineethankoffvitaldeclineoak
+bip_39_word_no_space_7: nomineethankoffvitaldeclineoakalready
+bip_39_word_no_space_8: nomineethankoffvitaldeclineoakalreadynapkin
+bip_39_word_no_space_9: nomineethankoffvitaldeclineoakalreadynapkinbid
+bip_39_word_space_0:
+- nominee
+- thank
+- 'off'
+- vital
+- decline
+- oak
+- already
+- napkin
+- bid
+- wild
+- candy
+- art
+bip_39_word_space_1: nominee
+bip_39_word_space_10: nominee thank off vital decline oak already napkin bid wild
+bip_39_word_space_11: nominee thank off vital decline oak already napkin bid wild
+  candy
+bip_39_word_space_12: nominee thank off vital decline oak already napkin bid wild
+  candy art
+bip_39_word_space_2: nominee thank
+bip_39_word_space_3: nominee thank off
+bip_39_word_space_4: nominee thank off vital
+bip_39_word_space_5: nominee thank off vital decline
+bip_39_word_space_6: nominee thank off vital decline oak
+bip_39_word_space_7: nominee thank off vital decline oak already
+bip_39_word_space_8: nominee thank off vital decline oak already napkin
+bip_39_word_space_9: nominee thank off vital decline oak already napkin bid
+bip_39_word_underscore_1: nominee
+bip_39_word_underscore_10: nominee_thank_off_vital_decline_oak_already_napkin_bid_wild
+bip_39_word_underscore_11: nominee_thank_off_vital_decline_oak_already_napkin_bid_wild_candy
+bip_39_word_underscore_12: nominee_thank_off_vital_decline_oak_already_napkin_bid_wild_candy_art
+bip_39_word_underscore_2: nominee_thank
+bip_39_word_underscore_3: nominee_thank_off
+bip_39_word_underscore_4: nominee_thank_off_vital
+bip_39_word_underscore_5: nominee_thank_off_vital_decline
+bip_39_word_underscore_6: nominee_thank_off_vital_decline_oak
+bip_39_word_underscore_7: nominee_thank_off_vital_decline_oak_already
+bip_39_word_underscore_8: nominee_thank_off_vital_decline_oak_already_napkin
+bip_39_word_underscore_9: nominee_thank_off_vital_decline_oak_already_napkin_bid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_06_1d5_21
 id_no_color: 061d521
 id_no_size: 06_1d5_21
 id_no_type: tray_thin_06_1d5_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_1d5_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_1d5_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_1d5_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207yx1a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207yx1a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207yx1a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 061D521
 name_no_size: 06 1D5 21
 name_no_size_short: 06 1D5 21
 name_no_type: Tray Thin 06 1D5 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_1d5_21
 oomp_word: watermelon sheep ramen
 oomp_word_emoji: ':watermelon: :sheep: :ramen:'

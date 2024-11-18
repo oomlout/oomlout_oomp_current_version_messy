@@ -1,3 +1,222 @@
+bip_39_word_dash_1: economy
+bip_39_word_dash_10: economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym
+bip_39_word_dash_11: economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym-melt
+bip_39_word_dash_12: economy-crush-glide-analyst-leopard-style-team-enemy-dash-gym-melt-aim
+bip_39_word_dash_2: economy-crush
+bip_39_word_dash_3: economy-crush-glide
+bip_39_word_dash_4: economy-crush-glide-analyst
+bip_39_word_dash_5: economy-crush-glide-analyst-leopard
+bip_39_word_dash_6: economy-crush-glide-analyst-leopard-style
+bip_39_word_dash_7: economy-crush-glide-analyst-leopard-style-team
+bip_39_word_dash_8: economy-crush-glide-analyst-leopard-style-team-enemy
+bip_39_word_dash_9: economy-crush-glide-analyst-leopard-style-team-enemy-dash
+bip_39_word_new_br_1: economy
+bip_39_word_new_br_10: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym
+bip_39_word_new_br_11: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt
+bip_39_word_new_br_12: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash<br>gym<br>melt<br>aim
+bip_39_word_new_br_2: economy<br>crush
+bip_39_word_new_br_3: economy<br>crush<br>glide
+bip_39_word_new_br_4: economy<br>crush<br>glide<br>analyst
+bip_39_word_new_br_5: economy<br>crush<br>glide<br>analyst<br>leopard
+bip_39_word_new_br_6: economy<br>crush<br>glide<br>analyst<br>leopard<br>style
+bip_39_word_new_br_7: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team
+bip_39_word_new_br_8: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy
+bip_39_word_new_br_9: economy<br>crush<br>glide<br>analyst<br>leopard<br>style<br>team<br>enemy<br>dash
+bip_39_word_new_line_1: economy
+bip_39_word_new_line_10: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team
+
+  enemy
+
+  dash
+
+  gym'
+bip_39_word_new_line_11: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team
+
+  enemy
+
+  dash
+
+  gym
+
+  melt'
+bip_39_word_new_line_12: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team
+
+  enemy
+
+  dash
+
+  gym
+
+  melt
+
+  aim'
+bip_39_word_new_line_2: 'economy
+
+  crush'
+bip_39_word_new_line_3: 'economy
+
+  crush
+
+  glide'
+bip_39_word_new_line_4: 'economy
+
+  crush
+
+  glide
+
+  analyst'
+bip_39_word_new_line_5: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard'
+bip_39_word_new_line_6: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style'
+bip_39_word_new_line_7: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team'
+bip_39_word_new_line_8: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team
+
+  enemy'
+bip_39_word_new_line_9: 'economy
+
+  crush
+
+  glide
+
+  analyst
+
+  leopard
+
+  style
+
+  team
+
+  enemy
+
+  dash'
+bip_39_word_no_space_1: economy
+bip_39_word_no_space_10: economycrushglideanalystleopardstyleteamenemydashgym
+bip_39_word_no_space_11: economycrushglideanalystleopardstyleteamenemydashgymmelt
+bip_39_word_no_space_12: economycrushglideanalystleopardstyleteamenemydashgymmeltaim
+bip_39_word_no_space_2: economycrush
+bip_39_word_no_space_3: economycrushglide
+bip_39_word_no_space_4: economycrushglideanalyst
+bip_39_word_no_space_5: economycrushglideanalystleopard
+bip_39_word_no_space_6: economycrushglideanalystleopardstyle
+bip_39_word_no_space_7: economycrushglideanalystleopardstyleteam
+bip_39_word_no_space_8: economycrushglideanalystleopardstyleteamenemy
+bip_39_word_no_space_9: economycrushglideanalystleopardstyleteamenemydash
+bip_39_word_space_0:
+- economy
+- crush
+- glide
+- analyst
+- leopard
+- style
+- team
+- enemy
+- dash
+- gym
+- melt
+- aim
+bip_39_word_space_1: economy
+bip_39_word_space_10: economy crush glide analyst leopard style team enemy dash gym
+bip_39_word_space_11: economy crush glide analyst leopard style team enemy dash gym
+  melt
+bip_39_word_space_12: economy crush glide analyst leopard style team enemy dash gym
+  melt aim
+bip_39_word_space_2: economy crush
+bip_39_word_space_3: economy crush glide
+bip_39_word_space_4: economy crush glide analyst
+bip_39_word_space_5: economy crush glide analyst leopard
+bip_39_word_space_6: economy crush glide analyst leopard style
+bip_39_word_space_7: economy crush glide analyst leopard style team
+bip_39_word_space_8: economy crush glide analyst leopard style team enemy
+bip_39_word_space_9: economy crush glide analyst leopard style team enemy dash
+bip_39_word_underscore_1: economy
+bip_39_word_underscore_10: economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym
+bip_39_word_underscore_11: economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym_melt
+bip_39_word_underscore_12: economy_crush_glide_analyst_leopard_style_team_enemy_dash_gym_melt_aim
+bip_39_word_underscore_2: economy_crush
+bip_39_word_underscore_3: economy_crush_glide
+bip_39_word_underscore_4: economy_crush_glide_analyst
+bip_39_word_underscore_5: economy_crush_glide_analyst_leopard
+bip_39_word_underscore_6: economy_crush_glide_analyst_leopard_style
+bip_39_word_underscore_7: economy_crush_glide_analyst_leopard_style_team
+bip_39_word_underscore_8: economy_crush_glide_analyst_leopard_style_team_enemy
+bip_39_word_underscore_9: economy_crush_glide_analyst_leopard_style_team_enemy_dash
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_09__washer
 id_no_color: 09washer
 id_no_size: 09__washer
 id_no_type: shaft_09__washer
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_09__washer
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09__washer
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_09__washer
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bihm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bihm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bihm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 09Washer
 name_no_size: 09  Washer
 name_no_size_short: 9  Washer
 name_no_type: Shaft 09  Washer
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_09__washer
 oomp_word: dolphin poop goat
 oomp_word_emoji: ':dolphin: :poop: :goat:'

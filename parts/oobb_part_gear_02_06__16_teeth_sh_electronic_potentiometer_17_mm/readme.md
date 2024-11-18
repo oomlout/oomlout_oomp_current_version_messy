@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 02 06  16 Teeth Sh Electronic Potentiometer 17 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_02_06__16_teeth_sh_electronic_potentiometer_17_mm
   * classification: oobb

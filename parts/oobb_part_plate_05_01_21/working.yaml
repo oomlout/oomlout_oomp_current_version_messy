@@ -1,3 +1,223 @@
+bip_39_word_dash_1: aisle
+bip_39_word_dash_10: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water
+bip_39_word_dash_11: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water-cement
+bip_39_word_dash_12: aisle-rug-typical-govern-replace-stadium-evidence-result-direct-water-cement-attend
+bip_39_word_dash_2: aisle-rug
+bip_39_word_dash_3: aisle-rug-typical
+bip_39_word_dash_4: aisle-rug-typical-govern
+bip_39_word_dash_5: aisle-rug-typical-govern-replace
+bip_39_word_dash_6: aisle-rug-typical-govern-replace-stadium
+bip_39_word_dash_7: aisle-rug-typical-govern-replace-stadium-evidence
+bip_39_word_dash_8: aisle-rug-typical-govern-replace-stadium-evidence-result
+bip_39_word_dash_9: aisle-rug-typical-govern-replace-stadium-evidence-result-direct
+bip_39_word_new_br_1: aisle
+bip_39_word_new_br_10: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water
+bip_39_word_new_br_11: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water<br>cement
+bip_39_word_new_br_12: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct<br>water<br>cement<br>attend
+bip_39_word_new_br_2: aisle<br>rug
+bip_39_word_new_br_3: aisle<br>rug<br>typical
+bip_39_word_new_br_4: aisle<br>rug<br>typical<br>govern
+bip_39_word_new_br_5: aisle<br>rug<br>typical<br>govern<br>replace
+bip_39_word_new_br_6: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium
+bip_39_word_new_br_7: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence
+bip_39_word_new_br_8: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result
+bip_39_word_new_br_9: aisle<br>rug<br>typical<br>govern<br>replace<br>stadium<br>evidence<br>result<br>direct
+bip_39_word_new_line_1: aisle
+bip_39_word_new_line_10: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence
+
+  result
+
+  direct
+
+  water'
+bip_39_word_new_line_11: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence
+
+  result
+
+  direct
+
+  water
+
+  cement'
+bip_39_word_new_line_12: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence
+
+  result
+
+  direct
+
+  water
+
+  cement
+
+  attend'
+bip_39_word_new_line_2: 'aisle
+
+  rug'
+bip_39_word_new_line_3: 'aisle
+
+  rug
+
+  typical'
+bip_39_word_new_line_4: 'aisle
+
+  rug
+
+  typical
+
+  govern'
+bip_39_word_new_line_5: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace'
+bip_39_word_new_line_6: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium'
+bip_39_word_new_line_7: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence'
+bip_39_word_new_line_8: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence
+
+  result'
+bip_39_word_new_line_9: 'aisle
+
+  rug
+
+  typical
+
+  govern
+
+  replace
+
+  stadium
+
+  evidence
+
+  result
+
+  direct'
+bip_39_word_no_space_1: aisle
+bip_39_word_no_space_10: aislerugtypicalgovernreplacestadiumevidenceresultdirectwater
+bip_39_word_no_space_11: aislerugtypicalgovernreplacestadiumevidenceresultdirectwatercement
+bip_39_word_no_space_12: aislerugtypicalgovernreplacestadiumevidenceresultdirectwatercementattend
+bip_39_word_no_space_2: aislerug
+bip_39_word_no_space_3: aislerugtypical
+bip_39_word_no_space_4: aislerugtypicalgovern
+bip_39_word_no_space_5: aislerugtypicalgovernreplace
+bip_39_word_no_space_6: aislerugtypicalgovernreplacestadium
+bip_39_word_no_space_7: aislerugtypicalgovernreplacestadiumevidence
+bip_39_word_no_space_8: aislerugtypicalgovernreplacestadiumevidenceresult
+bip_39_word_no_space_9: aislerugtypicalgovernreplacestadiumevidenceresultdirect
+bip_39_word_space_0:
+- aisle
+- rug
+- typical
+- govern
+- replace
+- stadium
+- evidence
+- result
+- direct
+- water
+- cement
+- attend
+bip_39_word_space_1: aisle
+bip_39_word_space_10: aisle rug typical govern replace stadium evidence result direct
+  water
+bip_39_word_space_11: aisle rug typical govern replace stadium evidence result direct
+  water cement
+bip_39_word_space_12: aisle rug typical govern replace stadium evidence result direct
+  water cement attend
+bip_39_word_space_2: aisle rug
+bip_39_word_space_3: aisle rug typical
+bip_39_word_space_4: aisle rug typical govern
+bip_39_word_space_5: aisle rug typical govern replace
+bip_39_word_space_6: aisle rug typical govern replace stadium
+bip_39_word_space_7: aisle rug typical govern replace stadium evidence
+bip_39_word_space_8: aisle rug typical govern replace stadium evidence result
+bip_39_word_space_9: aisle rug typical govern replace stadium evidence result direct
+bip_39_word_underscore_1: aisle
+bip_39_word_underscore_10: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water
+bip_39_word_underscore_11: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water_cement
+bip_39_word_underscore_12: aisle_rug_typical_govern_replace_stadium_evidence_result_direct_water_cement_attend
+bip_39_word_underscore_2: aisle_rug
+bip_39_word_underscore_3: aisle_rug_typical
+bip_39_word_underscore_4: aisle_rug_typical_govern
+bip_39_word_underscore_5: aisle_rug_typical_govern_replace
+bip_39_word_underscore_6: aisle_rug_typical_govern_replace_stadium
+bip_39_word_underscore_7: aisle_rug_typical_govern_replace_stadium_evidence
+bip_39_word_underscore_8: aisle_rug_typical_govern_replace_stadium_evidence_result
+bip_39_word_underscore_9: aisle_rug_typical_govern_replace_stadium_evidence_result_direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_05_01_21
 id_no_color: '050121'
 id_no_size: '05_01_21'
 id_no_type: plate_05_01_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_01_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_01_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2092agt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2092agt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2092agt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '050121'
 name_no_size: 05 01 21
 name_no_size_short: 05 01 21
 name_no_type: Plate 05 01 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_01_21
 oomp_word: tram chicken phone
 oomp_word_emoji: ':tram: :chicken: :phone:'

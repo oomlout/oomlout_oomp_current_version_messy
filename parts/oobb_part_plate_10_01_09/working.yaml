@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lobster
+bip_39_word_dash_10: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment
+bip_39_word_dash_11: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment-rocket
+bip_39_word_dash_12: lobster-settle-stool-frame-stay-script-surround-scale-describe-payment-rocket-antique
+bip_39_word_dash_2: lobster-settle
+bip_39_word_dash_3: lobster-settle-stool
+bip_39_word_dash_4: lobster-settle-stool-frame
+bip_39_word_dash_5: lobster-settle-stool-frame-stay
+bip_39_word_dash_6: lobster-settle-stool-frame-stay-script
+bip_39_word_dash_7: lobster-settle-stool-frame-stay-script-surround
+bip_39_word_dash_8: lobster-settle-stool-frame-stay-script-surround-scale
+bip_39_word_dash_9: lobster-settle-stool-frame-stay-script-surround-scale-describe
+bip_39_word_new_br_1: lobster
+bip_39_word_new_br_10: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment
+bip_39_word_new_br_11: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment<br>rocket
+bip_39_word_new_br_12: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe<br>payment<br>rocket<br>antique
+bip_39_word_new_br_2: lobster<br>settle
+bip_39_word_new_br_3: lobster<br>settle<br>stool
+bip_39_word_new_br_4: lobster<br>settle<br>stool<br>frame
+bip_39_word_new_br_5: lobster<br>settle<br>stool<br>frame<br>stay
+bip_39_word_new_br_6: lobster<br>settle<br>stool<br>frame<br>stay<br>script
+bip_39_word_new_br_7: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround
+bip_39_word_new_br_8: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale
+bip_39_word_new_br_9: lobster<br>settle<br>stool<br>frame<br>stay<br>script<br>surround<br>scale<br>describe
+bip_39_word_new_line_1: lobster
+bip_39_word_new_line_10: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment'
+bip_39_word_new_line_11: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment
+
+  rocket'
+bip_39_word_new_line_12: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe
+
+  payment
+
+  rocket
+
+  antique'
+bip_39_word_new_line_2: 'lobster
+
+  settle'
+bip_39_word_new_line_3: 'lobster
+
+  settle
+
+  stool'
+bip_39_word_new_line_4: 'lobster
+
+  settle
+
+  stool
+
+  frame'
+bip_39_word_new_line_5: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay'
+bip_39_word_new_line_6: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script'
+bip_39_word_new_line_7: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround'
+bip_39_word_new_line_8: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale'
+bip_39_word_new_line_9: 'lobster
+
+  settle
+
+  stool
+
+  frame
+
+  stay
+
+  script
+
+  surround
+
+  scale
+
+  describe'
+bip_39_word_no_space_1: lobster
+bip_39_word_no_space_10: lobstersettlestoolframestayscriptsurroundscaledescribepayment
+bip_39_word_no_space_11: lobstersettlestoolframestayscriptsurroundscaledescribepaymentrocket
+bip_39_word_no_space_12: lobstersettlestoolframestayscriptsurroundscaledescribepaymentrocketantique
+bip_39_word_no_space_2: lobstersettle
+bip_39_word_no_space_3: lobstersettlestool
+bip_39_word_no_space_4: lobstersettlestoolframe
+bip_39_word_no_space_5: lobstersettlestoolframestay
+bip_39_word_no_space_6: lobstersettlestoolframestayscript
+bip_39_word_no_space_7: lobstersettlestoolframestayscriptsurround
+bip_39_word_no_space_8: lobstersettlestoolframestayscriptsurroundscale
+bip_39_word_no_space_9: lobstersettlestoolframestayscriptsurroundscaledescribe
+bip_39_word_space_0:
+- lobster
+- settle
+- stool
+- frame
+- stay
+- script
+- surround
+- scale
+- describe
+- payment
+- rocket
+- antique
+bip_39_word_space_1: lobster
+bip_39_word_space_10: lobster settle stool frame stay script surround scale describe
+  payment
+bip_39_word_space_11: lobster settle stool frame stay script surround scale describe
+  payment rocket
+bip_39_word_space_12: lobster settle stool frame stay script surround scale describe
+  payment rocket antique
+bip_39_word_space_2: lobster settle
+bip_39_word_space_3: lobster settle stool
+bip_39_word_space_4: lobster settle stool frame
+bip_39_word_space_5: lobster settle stool frame stay
+bip_39_word_space_6: lobster settle stool frame stay script
+bip_39_word_space_7: lobster settle stool frame stay script surround
+bip_39_word_space_8: lobster settle stool frame stay script surround scale
+bip_39_word_space_9: lobster settle stool frame stay script surround scale describe
+bip_39_word_underscore_1: lobster
+bip_39_word_underscore_10: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment
+bip_39_word_underscore_11: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment_rocket
+bip_39_word_underscore_12: lobster_settle_stool_frame_stay_script_surround_scale_describe_payment_rocket_antique
+bip_39_word_underscore_2: lobster_settle
+bip_39_word_underscore_3: lobster_settle_stool
+bip_39_word_underscore_4: lobster_settle_stool_frame
+bip_39_word_underscore_5: lobster_settle_stool_frame_stay
+bip_39_word_underscore_6: lobster_settle_stool_frame_stay_script
+bip_39_word_underscore_7: lobster_settle_stool_frame_stay_script_surround
+bip_39_word_underscore_8: lobster_settle_stool_frame_stay_script_surround_scale
+bip_39_word_underscore_9: lobster_settle_stool_frame_stay_script_surround_scale_describe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_10_01_09
 id_no_color: '100109'
 id_no_size: '10_01_09'
 id_no_type: plate_10_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2067zs8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2067zs8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2067zs8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100109'
 name_no_size: 10 01 09
 name_no_size_short: 10 01 09
 name_no_type: Plate 10 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_10_01_09
 oomp_word: diamonds santa tram
 oomp_word_emoji: ':diamonds: :santa: :tram:'

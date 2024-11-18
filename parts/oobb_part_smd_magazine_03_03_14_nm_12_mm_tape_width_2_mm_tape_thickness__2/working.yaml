@@ -1,3 +1,222 @@
+bip_39_word_dash_1: used
+bip_39_word_dash_10: used-finger-flavor-angle-devote-waste-figure-anger-vocal-age
+bip_39_word_dash_11: used-finger-flavor-angle-devote-waste-figure-anger-vocal-age-quantum
+bip_39_word_dash_12: used-finger-flavor-angle-devote-waste-figure-anger-vocal-age-quantum-actress
+bip_39_word_dash_2: used-finger
+bip_39_word_dash_3: used-finger-flavor
+bip_39_word_dash_4: used-finger-flavor-angle
+bip_39_word_dash_5: used-finger-flavor-angle-devote
+bip_39_word_dash_6: used-finger-flavor-angle-devote-waste
+bip_39_word_dash_7: used-finger-flavor-angle-devote-waste-figure
+bip_39_word_dash_8: used-finger-flavor-angle-devote-waste-figure-anger
+bip_39_word_dash_9: used-finger-flavor-angle-devote-waste-figure-anger-vocal
+bip_39_word_new_br_1: used
+bip_39_word_new_br_10: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age
+bip_39_word_new_br_11: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum
+bip_39_word_new_br_12: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal<br>age<br>quantum<br>actress
+bip_39_word_new_br_2: used<br>finger
+bip_39_word_new_br_3: used<br>finger<br>flavor
+bip_39_word_new_br_4: used<br>finger<br>flavor<br>angle
+bip_39_word_new_br_5: used<br>finger<br>flavor<br>angle<br>devote
+bip_39_word_new_br_6: used<br>finger<br>flavor<br>angle<br>devote<br>waste
+bip_39_word_new_br_7: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure
+bip_39_word_new_br_8: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger
+bip_39_word_new_br_9: used<br>finger<br>flavor<br>angle<br>devote<br>waste<br>figure<br>anger<br>vocal
+bip_39_word_new_line_1: used
+bip_39_word_new_line_10: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure
+
+  anger
+
+  vocal
+
+  age'
+bip_39_word_new_line_11: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure
+
+  anger
+
+  vocal
+
+  age
+
+  quantum'
+bip_39_word_new_line_12: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure
+
+  anger
+
+  vocal
+
+  age
+
+  quantum
+
+  actress'
+bip_39_word_new_line_2: 'used
+
+  finger'
+bip_39_word_new_line_3: 'used
+
+  finger
+
+  flavor'
+bip_39_word_new_line_4: 'used
+
+  finger
+
+  flavor
+
+  angle'
+bip_39_word_new_line_5: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote'
+bip_39_word_new_line_6: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste'
+bip_39_word_new_line_7: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure'
+bip_39_word_new_line_8: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure
+
+  anger'
+bip_39_word_new_line_9: 'used
+
+  finger
+
+  flavor
+
+  angle
+
+  devote
+
+  waste
+
+  figure
+
+  anger
+
+  vocal'
+bip_39_word_no_space_1: used
+bip_39_word_no_space_10: usedfingerflavorangledevotewastefigureangervocalage
+bip_39_word_no_space_11: usedfingerflavorangledevotewastefigureangervocalagequantum
+bip_39_word_no_space_12: usedfingerflavorangledevotewastefigureangervocalagequantumactress
+bip_39_word_no_space_2: usedfinger
+bip_39_word_no_space_3: usedfingerflavor
+bip_39_word_no_space_4: usedfingerflavorangle
+bip_39_word_no_space_5: usedfingerflavorangledevote
+bip_39_word_no_space_6: usedfingerflavorangledevotewaste
+bip_39_word_no_space_7: usedfingerflavorangledevotewastefigure
+bip_39_word_no_space_8: usedfingerflavorangledevotewastefigureanger
+bip_39_word_no_space_9: usedfingerflavorangledevotewastefigureangervocal
+bip_39_word_space_0:
+- used
+- finger
+- flavor
+- angle
+- devote
+- waste
+- figure
+- anger
+- vocal
+- age
+- quantum
+- actress
+bip_39_word_space_1: used
+bip_39_word_space_10: used finger flavor angle devote waste figure anger vocal age
+bip_39_word_space_11: used finger flavor angle devote waste figure anger vocal age
+  quantum
+bip_39_word_space_12: used finger flavor angle devote waste figure anger vocal age
+  quantum actress
+bip_39_word_space_2: used finger
+bip_39_word_space_3: used finger flavor
+bip_39_word_space_4: used finger flavor angle
+bip_39_word_space_5: used finger flavor angle devote
+bip_39_word_space_6: used finger flavor angle devote waste
+bip_39_word_space_7: used finger flavor angle devote waste figure
+bip_39_word_space_8: used finger flavor angle devote waste figure anger
+bip_39_word_space_9: used finger flavor angle devote waste figure anger vocal
+bip_39_word_underscore_1: used
+bip_39_word_underscore_10: used_finger_flavor_angle_devote_waste_figure_anger_vocal_age
+bip_39_word_underscore_11: used_finger_flavor_angle_devote_waste_figure_anger_vocal_age_quantum
+bip_39_word_underscore_12: used_finger_flavor_angle_devote_waste_figure_anger_vocal_age_quantum_actress
+bip_39_word_underscore_2: used_finger
+bip_39_word_underscore_3: used_finger_flavor
+bip_39_word_underscore_4: used_finger_flavor_angle
+bip_39_word_underscore_5: used_finger_flavor_angle_devote
+bip_39_word_underscore_6: used_finger_flavor_angle_devote_waste
+bip_39_word_underscore_7: used_finger_flavor_angle_devote_waste_figure
+bip_39_word_underscore_8: used_finger_flavor_angle_devote_waste_figure_anger
+bip_39_word_underscore_9: used_finger_flavor_angle_devote_waste_figure_anger_vocal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 030314nm12mmtapewidth2mmtapethickness2
 id_no_size: 03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201rq81
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201rq81
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201rq81
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030314Nm12mmtapewidth2mmtapethickness2
 name_no_size: 03 03 14 Nm 12 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 03 03 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 03 03 14 Nm 12 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_03_03_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: snowman crocodile watch
 oomp_word_emoji: ':snowman: :crocodile: :watch:'

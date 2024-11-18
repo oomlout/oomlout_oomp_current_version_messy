@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Monitor 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb
+* name_short: 
 ### id
 * oomp_id: computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb
   * classification: computer

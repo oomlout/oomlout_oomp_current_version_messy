@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 07 04 03 Rh M3 Nm Electrolama Basic Hub
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub
   * classification: oobb

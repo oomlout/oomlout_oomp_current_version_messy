@@ -1,3 +1,223 @@
+bip_39_word_dash_1: cliff
+bip_39_word_dash_10: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet
+bip_39_word_dash_11: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet-muscle
+bip_39_word_dash_12: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor-wet-muscle-absurd
+bip_39_word_dash_2: cliff-uphold
+bip_39_word_dash_3: cliff-uphold-aim
+bip_39_word_dash_4: cliff-uphold-aim-relief
+bip_39_word_dash_5: cliff-uphold-aim-relief-drive
+bip_39_word_dash_6: cliff-uphold-aim-relief-drive-engine
+bip_39_word_dash_7: cliff-uphold-aim-relief-drive-engine-dilemma
+bip_39_word_dash_8: cliff-uphold-aim-relief-drive-engine-dilemma-pencil
+bip_39_word_dash_9: cliff-uphold-aim-relief-drive-engine-dilemma-pencil-bachelor
+bip_39_word_new_br_1: cliff
+bip_39_word_new_br_10: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet
+bip_39_word_new_br_11: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet<br>muscle
+bip_39_word_new_br_12: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor<br>wet<br>muscle<br>absurd
+bip_39_word_new_br_2: cliff<br>uphold
+bip_39_word_new_br_3: cliff<br>uphold<br>aim
+bip_39_word_new_br_4: cliff<br>uphold<br>aim<br>relief
+bip_39_word_new_br_5: cliff<br>uphold<br>aim<br>relief<br>drive
+bip_39_word_new_br_6: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine
+bip_39_word_new_br_7: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma
+bip_39_word_new_br_8: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil
+bip_39_word_new_br_9: cliff<br>uphold<br>aim<br>relief<br>drive<br>engine<br>dilemma<br>pencil<br>bachelor
+bip_39_word_new_line_1: cliff
+bip_39_word_new_line_10: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma
+
+  pencil
+
+  bachelor
+
+  wet'
+bip_39_word_new_line_11: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma
+
+  pencil
+
+  bachelor
+
+  wet
+
+  muscle'
+bip_39_word_new_line_12: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma
+
+  pencil
+
+  bachelor
+
+  wet
+
+  muscle
+
+  absurd'
+bip_39_word_new_line_2: 'cliff
+
+  uphold'
+bip_39_word_new_line_3: 'cliff
+
+  uphold
+
+  aim'
+bip_39_word_new_line_4: 'cliff
+
+  uphold
+
+  aim
+
+  relief'
+bip_39_word_new_line_5: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive'
+bip_39_word_new_line_6: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine'
+bip_39_word_new_line_7: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma'
+bip_39_word_new_line_8: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma
+
+  pencil'
+bip_39_word_new_line_9: 'cliff
+
+  uphold
+
+  aim
+
+  relief
+
+  drive
+
+  engine
+
+  dilemma
+
+  pencil
+
+  bachelor'
+bip_39_word_no_space_1: cliff
+bip_39_word_no_space_10: cliffupholdaimreliefdriveenginedilemmapencilbachelorwet
+bip_39_word_no_space_11: cliffupholdaimreliefdriveenginedilemmapencilbachelorwetmuscle
+bip_39_word_no_space_12: cliffupholdaimreliefdriveenginedilemmapencilbachelorwetmuscleabsurd
+bip_39_word_no_space_2: cliffuphold
+bip_39_word_no_space_3: cliffupholdaim
+bip_39_word_no_space_4: cliffupholdaimrelief
+bip_39_word_no_space_5: cliffupholdaimreliefdrive
+bip_39_word_no_space_6: cliffupholdaimreliefdriveengine
+bip_39_word_no_space_7: cliffupholdaimreliefdriveenginedilemma
+bip_39_word_no_space_8: cliffupholdaimreliefdriveenginedilemmapencil
+bip_39_word_no_space_9: cliffupholdaimreliefdriveenginedilemmapencilbachelor
+bip_39_word_space_0:
+- cliff
+- uphold
+- aim
+- relief
+- drive
+- engine
+- dilemma
+- pencil
+- bachelor
+- wet
+- muscle
+- absurd
+bip_39_word_space_1: cliff
+bip_39_word_space_10: cliff uphold aim relief drive engine dilemma pencil bachelor
+  wet
+bip_39_word_space_11: cliff uphold aim relief drive engine dilemma pencil bachelor
+  wet muscle
+bip_39_word_space_12: cliff uphold aim relief drive engine dilemma pencil bachelor
+  wet muscle absurd
+bip_39_word_space_2: cliff uphold
+bip_39_word_space_3: cliff uphold aim
+bip_39_word_space_4: cliff uphold aim relief
+bip_39_word_space_5: cliff uphold aim relief drive
+bip_39_word_space_6: cliff uphold aim relief drive engine
+bip_39_word_space_7: cliff uphold aim relief drive engine dilemma
+bip_39_word_space_8: cliff uphold aim relief drive engine dilemma pencil
+bip_39_word_space_9: cliff uphold aim relief drive engine dilemma pencil bachelor
+bip_39_word_underscore_1: cliff
+bip_39_word_underscore_10: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet
+bip_39_word_underscore_11: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet_muscle
+bip_39_word_underscore_12: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor_wet_muscle_absurd
+bip_39_word_underscore_2: cliff_uphold
+bip_39_word_underscore_3: cliff_uphold_aim
+bip_39_word_underscore_4: cliff_uphold_aim_relief
+bip_39_word_underscore_5: cliff_uphold_aim_relief_drive
+bip_39_word_underscore_6: cliff_uphold_aim_relief_drive_engine
+bip_39_word_underscore_7: cliff_uphold_aim_relief_drive_engine_dilemma
+bip_39_word_underscore_8: cliff_uphold_aim_relief_drive_engine_dilemma_pencil
+bip_39_word_underscore_9: cliff_uphold_aim_relief_drive_engine_dilemma_pencil_bachelor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_06_18
 id_no_color: 1d50618
 id_no_size: 1d5_06_18
 id_no_type: tray_1d5_06_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_06_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_06_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_06_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20o2m6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20o2m6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20o2m6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D50618
 name_no_size: 1D5 06 18
 name_no_size_short: 1D5 06 18
 name_no_type: Tray 1D5 06 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_06_18
 oomp_word: dizzy kiss monkey
 oomp_word_emoji: ':dizzy: :kiss: :monkey:'

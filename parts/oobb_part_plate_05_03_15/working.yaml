@@ -1,3 +1,222 @@
+bip_39_word_dash_1: survey
+bip_39_word_dash_10: survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb
+bip_39_word_dash_11: survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb-play
+bip_39_word_dash_12: survey-brush-copper-payment-oil-lion-receive-tooth-between-bulb-play-animal
+bip_39_word_dash_2: survey-brush
+bip_39_word_dash_3: survey-brush-copper
+bip_39_word_dash_4: survey-brush-copper-payment
+bip_39_word_dash_5: survey-brush-copper-payment-oil
+bip_39_word_dash_6: survey-brush-copper-payment-oil-lion
+bip_39_word_dash_7: survey-brush-copper-payment-oil-lion-receive
+bip_39_word_dash_8: survey-brush-copper-payment-oil-lion-receive-tooth
+bip_39_word_dash_9: survey-brush-copper-payment-oil-lion-receive-tooth-between
+bip_39_word_new_br_1: survey
+bip_39_word_new_br_10: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb
+bip_39_word_new_br_11: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb<br>play
+bip_39_word_new_br_12: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between<br>bulb<br>play<br>animal
+bip_39_word_new_br_2: survey<br>brush
+bip_39_word_new_br_3: survey<br>brush<br>copper
+bip_39_word_new_br_4: survey<br>brush<br>copper<br>payment
+bip_39_word_new_br_5: survey<br>brush<br>copper<br>payment<br>oil
+bip_39_word_new_br_6: survey<br>brush<br>copper<br>payment<br>oil<br>lion
+bip_39_word_new_br_7: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive
+bip_39_word_new_br_8: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth
+bip_39_word_new_br_9: survey<br>brush<br>copper<br>payment<br>oil<br>lion<br>receive<br>tooth<br>between
+bip_39_word_new_line_1: survey
+bip_39_word_new_line_10: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb'
+bip_39_word_new_line_11: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb
+
+  play'
+bip_39_word_new_line_12: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between
+
+  bulb
+
+  play
+
+  animal'
+bip_39_word_new_line_2: 'survey
+
+  brush'
+bip_39_word_new_line_3: 'survey
+
+  brush
+
+  copper'
+bip_39_word_new_line_4: 'survey
+
+  brush
+
+  copper
+
+  payment'
+bip_39_word_new_line_5: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil'
+bip_39_word_new_line_6: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion'
+bip_39_word_new_line_7: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive'
+bip_39_word_new_line_8: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth'
+bip_39_word_new_line_9: 'survey
+
+  brush
+
+  copper
+
+  payment
+
+  oil
+
+  lion
+
+  receive
+
+  tooth
+
+  between'
+bip_39_word_no_space_1: survey
+bip_39_word_no_space_10: surveybrushcopperpaymentoillionreceivetoothbetweenbulb
+bip_39_word_no_space_11: surveybrushcopperpaymentoillionreceivetoothbetweenbulbplay
+bip_39_word_no_space_12: surveybrushcopperpaymentoillionreceivetoothbetweenbulbplayanimal
+bip_39_word_no_space_2: surveybrush
+bip_39_word_no_space_3: surveybrushcopper
+bip_39_word_no_space_4: surveybrushcopperpayment
+bip_39_word_no_space_5: surveybrushcopperpaymentoil
+bip_39_word_no_space_6: surveybrushcopperpaymentoillion
+bip_39_word_no_space_7: surveybrushcopperpaymentoillionreceive
+bip_39_word_no_space_8: surveybrushcopperpaymentoillionreceivetooth
+bip_39_word_no_space_9: surveybrushcopperpaymentoillionreceivetoothbetween
+bip_39_word_space_0:
+- survey
+- brush
+- copper
+- payment
+- oil
+- lion
+- receive
+- tooth
+- between
+- bulb
+- play
+- animal
+bip_39_word_space_1: survey
+bip_39_word_space_10: survey brush copper payment oil lion receive tooth between bulb
+bip_39_word_space_11: survey brush copper payment oil lion receive tooth between bulb
+  play
+bip_39_word_space_12: survey brush copper payment oil lion receive tooth between bulb
+  play animal
+bip_39_word_space_2: survey brush
+bip_39_word_space_3: survey brush copper
+bip_39_word_space_4: survey brush copper payment
+bip_39_word_space_5: survey brush copper payment oil
+bip_39_word_space_6: survey brush copper payment oil lion
+bip_39_word_space_7: survey brush copper payment oil lion receive
+bip_39_word_space_8: survey brush copper payment oil lion receive tooth
+bip_39_word_space_9: survey brush copper payment oil lion receive tooth between
+bip_39_word_underscore_1: survey
+bip_39_word_underscore_10: survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb
+bip_39_word_underscore_11: survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb_play
+bip_39_word_underscore_12: survey_brush_copper_payment_oil_lion_receive_tooth_between_bulb_play_animal
+bip_39_word_underscore_2: survey_brush
+bip_39_word_underscore_3: survey_brush_copper
+bip_39_word_underscore_4: survey_brush_copper_payment
+bip_39_word_underscore_5: survey_brush_copper_payment_oil
+bip_39_word_underscore_6: survey_brush_copper_payment_oil_lion
+bip_39_word_underscore_7: survey_brush_copper_payment_oil_lion_receive
+bip_39_word_underscore_8: survey_brush_copper_payment_oil_lion_receive_tooth
+bip_39_word_underscore_9: survey_brush_copper_payment_oil_lion_receive_tooth_between
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_05_03_15
 id_no_color: '050315'
 id_no_size: '05_03_15'
 id_no_type: plate_05_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205o3gn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205o3gn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205o3gn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050315'
 name_no_size: 05 03 15
 name_no_size_short: 05 03 15
 name_no_type: Plate 05 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_03_15
 oomp_word: pushpin turtle toilet
 oomp_word_emoji: ':pushpin: :turtle: :toilet:'

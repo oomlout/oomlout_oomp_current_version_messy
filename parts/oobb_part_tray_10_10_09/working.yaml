@@ -1,3 +1,223 @@
+bip_39_word_dash_1: token
+bip_39_word_dash_10: token-describe-athlete-satoshi-there-surprise-vacuum-head-omit-trouble
+bip_39_word_dash_11: token-describe-athlete-satoshi-there-surprise-vacuum-head-omit-trouble-opinion
+bip_39_word_dash_12: token-describe-athlete-satoshi-there-surprise-vacuum-head-omit-trouble-opinion-announce
+bip_39_word_dash_2: token-describe
+bip_39_word_dash_3: token-describe-athlete
+bip_39_word_dash_4: token-describe-athlete-satoshi
+bip_39_word_dash_5: token-describe-athlete-satoshi-there
+bip_39_word_dash_6: token-describe-athlete-satoshi-there-surprise
+bip_39_word_dash_7: token-describe-athlete-satoshi-there-surprise-vacuum
+bip_39_word_dash_8: token-describe-athlete-satoshi-there-surprise-vacuum-head
+bip_39_word_dash_9: token-describe-athlete-satoshi-there-surprise-vacuum-head-omit
+bip_39_word_new_br_1: token
+bip_39_word_new_br_10: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble
+bip_39_word_new_br_11: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble<br>opinion
+bip_39_word_new_br_12: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit<br>trouble<br>opinion<br>announce
+bip_39_word_new_br_2: token<br>describe
+bip_39_word_new_br_3: token<br>describe<br>athlete
+bip_39_word_new_br_4: token<br>describe<br>athlete<br>satoshi
+bip_39_word_new_br_5: token<br>describe<br>athlete<br>satoshi<br>there
+bip_39_word_new_br_6: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise
+bip_39_word_new_br_7: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum
+bip_39_word_new_br_8: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head
+bip_39_word_new_br_9: token<br>describe<br>athlete<br>satoshi<br>there<br>surprise<br>vacuum<br>head<br>omit
+bip_39_word_new_line_1: token
+bip_39_word_new_line_10: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum
+
+  head
+
+  omit
+
+  trouble'
+bip_39_word_new_line_11: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum
+
+  head
+
+  omit
+
+  trouble
+
+  opinion'
+bip_39_word_new_line_12: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum
+
+  head
+
+  omit
+
+  trouble
+
+  opinion
+
+  announce'
+bip_39_word_new_line_2: 'token
+
+  describe'
+bip_39_word_new_line_3: 'token
+
+  describe
+
+  athlete'
+bip_39_word_new_line_4: 'token
+
+  describe
+
+  athlete
+
+  satoshi'
+bip_39_word_new_line_5: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there'
+bip_39_word_new_line_6: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise'
+bip_39_word_new_line_7: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum'
+bip_39_word_new_line_8: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum
+
+  head'
+bip_39_word_new_line_9: 'token
+
+  describe
+
+  athlete
+
+  satoshi
+
+  there
+
+  surprise
+
+  vacuum
+
+  head
+
+  omit'
+bip_39_word_no_space_1: token
+bip_39_word_no_space_10: tokendescribeathletesatoshitheresurprisevacuumheadomittrouble
+bip_39_word_no_space_11: tokendescribeathletesatoshitheresurprisevacuumheadomittroubleopinion
+bip_39_word_no_space_12: tokendescribeathletesatoshitheresurprisevacuumheadomittroubleopinionannounce
+bip_39_word_no_space_2: tokendescribe
+bip_39_word_no_space_3: tokendescribeathlete
+bip_39_word_no_space_4: tokendescribeathletesatoshi
+bip_39_word_no_space_5: tokendescribeathletesatoshithere
+bip_39_word_no_space_6: tokendescribeathletesatoshitheresurprise
+bip_39_word_no_space_7: tokendescribeathletesatoshitheresurprisevacuum
+bip_39_word_no_space_8: tokendescribeathletesatoshitheresurprisevacuumhead
+bip_39_word_no_space_9: tokendescribeathletesatoshitheresurprisevacuumheadomit
+bip_39_word_space_0:
+- token
+- describe
+- athlete
+- satoshi
+- there
+- surprise
+- vacuum
+- head
+- omit
+- trouble
+- opinion
+- announce
+bip_39_word_space_1: token
+bip_39_word_space_10: token describe athlete satoshi there surprise vacuum head omit
+  trouble
+bip_39_word_space_11: token describe athlete satoshi there surprise vacuum head omit
+  trouble opinion
+bip_39_word_space_12: token describe athlete satoshi there surprise vacuum head omit
+  trouble opinion announce
+bip_39_word_space_2: token describe
+bip_39_word_space_3: token describe athlete
+bip_39_word_space_4: token describe athlete satoshi
+bip_39_word_space_5: token describe athlete satoshi there
+bip_39_word_space_6: token describe athlete satoshi there surprise
+bip_39_word_space_7: token describe athlete satoshi there surprise vacuum
+bip_39_word_space_8: token describe athlete satoshi there surprise vacuum head
+bip_39_word_space_9: token describe athlete satoshi there surprise vacuum head omit
+bip_39_word_underscore_1: token
+bip_39_word_underscore_10: token_describe_athlete_satoshi_there_surprise_vacuum_head_omit_trouble
+bip_39_word_underscore_11: token_describe_athlete_satoshi_there_surprise_vacuum_head_omit_trouble_opinion
+bip_39_word_underscore_12: token_describe_athlete_satoshi_there_surprise_vacuum_head_omit_trouble_opinion_announce
+bip_39_word_underscore_2: token_describe
+bip_39_word_underscore_3: token_describe_athlete
+bip_39_word_underscore_4: token_describe_athlete_satoshi
+bip_39_word_underscore_5: token_describe_athlete_satoshi_there
+bip_39_word_underscore_6: token_describe_athlete_satoshi_there_surprise
+bip_39_word_underscore_7: token_describe_athlete_satoshi_there_surprise_vacuum
+bip_39_word_underscore_8: token_describe_athlete_satoshi_there_surprise_vacuum_head
+bip_39_word_underscore_9: token_describe_athlete_satoshi_there_surprise_vacuum_head_omit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_10_10_09
 id_no_color: '101009'
 id_no_size: '10_10_09'
 id_no_type: tray_10_10_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_10_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_10_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_10_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tlh6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tlh6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tlh6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '101009'
 name_no_size: 10 10 09
 name_no_size_short: 10 10 09
 name_no_type: Tray 10 10 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_10_09
 oomp_word: telescope rabbit nine
 oomp_word_emoji: ':telescope: :rabbit: :nine:'

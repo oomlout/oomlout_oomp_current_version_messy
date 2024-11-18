@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 09 06 03  Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_09_06_03__computer_power_supply_microsoft_surface_standalone_microsoft_model_1625
   * classification: oobb

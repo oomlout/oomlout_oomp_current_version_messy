@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Switch Slide 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw
+* name_short: 
 ### id
 * oomp_id: electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :turtle: :hand: :eyeglasses:
 * md5_6_alpha: 2yw1f
 * md5_6: 4c18b3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202yw1f)
+[2x1](http://192.168.1.242:1112/?label=oomp%202yw1f)
+[6x4](http://192.168.1.55:1112/?label=oomp%202yw1f)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ diagram |
 | id_no_color | single_pole_double_throw |  
 | id_no_size | surface_mount_single_pole_double_throw |  
 | id_no_type | 2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202yw1f |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202yw1f |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202yw1f |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ diagram |
 | name_no_size | Surface Mount Single Pole Double Throw |  
 | name_no_size_short | Surface Mount Single Pole Double Throw |  
 | name_no_type | 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | oomp_word | turtle hand eyeglasses |  
 | oomp_word_emoji | :turtle: :hand: :eyeglasses: |  

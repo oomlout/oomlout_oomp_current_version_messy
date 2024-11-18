@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Hook Picture Hanging Brass 5 mm Width 24 mm Height 8 mm Depth 9000 G Weight Capacity
+* name_short: 
 ### id
 * oomp_id: hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :cat: :cry: :ghost:
 * md5_6_alpha: 1y9v9
 * md5_6: 320775
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201y9v9)
+[2x1](http://192.168.1.242:1112/?label=oomp%201y9v9)
+[6x4](http://192.168.1.55:1112/?label=oomp%201y9v9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -307,7 +333,14 @@ usual |
 | id_no_color | brass5mmwidth24mmheight8mmdepth9000gweightcapacity |  
 | id_no_size | brass5mmwidth24mmheight8mmdepth9000gweightcapacity |  
 | id_no_type | brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201y9v9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201y9v9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201y9v9 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -332,6 +365,7 @@ usual |
 | name_no_size | Brass5mmwidth24mmheight8mmdepth9000Gweightcapacity |  
 | name_no_size_short | Brass5Mmwidth24Mmheight8Mmdepth9000Gweightcapacity |  
 | name_no_type | Brass 5 mm Width 24 mm Height 8 mm Depth 9000 G Weight Capacity |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
 | oomp_word | cat cry ghost |  
 | oomp_word_emoji | :cat: :cry: :ghost: |  

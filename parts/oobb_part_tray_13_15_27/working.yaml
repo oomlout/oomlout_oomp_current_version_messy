@@ -1,3 +1,222 @@
+bip_39_word_dash_1: toe
+bip_39_word_dash_10: toe-inside-strategy-club-egg-endorse-access-finish-bread-bullet
+bip_39_word_dash_11: toe-inside-strategy-club-egg-endorse-access-finish-bread-bullet-place
+bip_39_word_dash_12: toe-inside-strategy-club-egg-endorse-access-finish-bread-bullet-place-arrive
+bip_39_word_dash_2: toe-inside
+bip_39_word_dash_3: toe-inside-strategy
+bip_39_word_dash_4: toe-inside-strategy-club
+bip_39_word_dash_5: toe-inside-strategy-club-egg
+bip_39_word_dash_6: toe-inside-strategy-club-egg-endorse
+bip_39_word_dash_7: toe-inside-strategy-club-egg-endorse-access
+bip_39_word_dash_8: toe-inside-strategy-club-egg-endorse-access-finish
+bip_39_word_dash_9: toe-inside-strategy-club-egg-endorse-access-finish-bread
+bip_39_word_new_br_1: toe
+bip_39_word_new_br_10: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet
+bip_39_word_new_br_11: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet<br>place
+bip_39_word_new_br_12: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread<br>bullet<br>place<br>arrive
+bip_39_word_new_br_2: toe<br>inside
+bip_39_word_new_br_3: toe<br>inside<br>strategy
+bip_39_word_new_br_4: toe<br>inside<br>strategy<br>club
+bip_39_word_new_br_5: toe<br>inside<br>strategy<br>club<br>egg
+bip_39_word_new_br_6: toe<br>inside<br>strategy<br>club<br>egg<br>endorse
+bip_39_word_new_br_7: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access
+bip_39_word_new_br_8: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish
+bip_39_word_new_br_9: toe<br>inside<br>strategy<br>club<br>egg<br>endorse<br>access<br>finish<br>bread
+bip_39_word_new_line_1: toe
+bip_39_word_new_line_10: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access
+
+  finish
+
+  bread
+
+  bullet'
+bip_39_word_new_line_11: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access
+
+  finish
+
+  bread
+
+  bullet
+
+  place'
+bip_39_word_new_line_12: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access
+
+  finish
+
+  bread
+
+  bullet
+
+  place
+
+  arrive'
+bip_39_word_new_line_2: 'toe
+
+  inside'
+bip_39_word_new_line_3: 'toe
+
+  inside
+
+  strategy'
+bip_39_word_new_line_4: 'toe
+
+  inside
+
+  strategy
+
+  club'
+bip_39_word_new_line_5: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg'
+bip_39_word_new_line_6: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse'
+bip_39_word_new_line_7: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access'
+bip_39_word_new_line_8: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access
+
+  finish'
+bip_39_word_new_line_9: 'toe
+
+  inside
+
+  strategy
+
+  club
+
+  egg
+
+  endorse
+
+  access
+
+  finish
+
+  bread'
+bip_39_word_no_space_1: toe
+bip_39_word_no_space_10: toeinsidestrategyclubeggendorseaccessfinishbreadbullet
+bip_39_word_no_space_11: toeinsidestrategyclubeggendorseaccessfinishbreadbulletplace
+bip_39_word_no_space_12: toeinsidestrategyclubeggendorseaccessfinishbreadbulletplacearrive
+bip_39_word_no_space_2: toeinside
+bip_39_word_no_space_3: toeinsidestrategy
+bip_39_word_no_space_4: toeinsidestrategyclub
+bip_39_word_no_space_5: toeinsidestrategyclubegg
+bip_39_word_no_space_6: toeinsidestrategyclubeggendorse
+bip_39_word_no_space_7: toeinsidestrategyclubeggendorseaccess
+bip_39_word_no_space_8: toeinsidestrategyclubeggendorseaccessfinish
+bip_39_word_no_space_9: toeinsidestrategyclubeggendorseaccessfinishbread
+bip_39_word_space_0:
+- toe
+- inside
+- strategy
+- club
+- egg
+- endorse
+- access
+- finish
+- bread
+- bullet
+- place
+- arrive
+bip_39_word_space_1: toe
+bip_39_word_space_10: toe inside strategy club egg endorse access finish bread bullet
+bip_39_word_space_11: toe inside strategy club egg endorse access finish bread bullet
+  place
+bip_39_word_space_12: toe inside strategy club egg endorse access finish bread bullet
+  place arrive
+bip_39_word_space_2: toe inside
+bip_39_word_space_3: toe inside strategy
+bip_39_word_space_4: toe inside strategy club
+bip_39_word_space_5: toe inside strategy club egg
+bip_39_word_space_6: toe inside strategy club egg endorse
+bip_39_word_space_7: toe inside strategy club egg endorse access
+bip_39_word_space_8: toe inside strategy club egg endorse access finish
+bip_39_word_space_9: toe inside strategy club egg endorse access finish bread
+bip_39_word_underscore_1: toe
+bip_39_word_underscore_10: toe_inside_strategy_club_egg_endorse_access_finish_bread_bullet
+bip_39_word_underscore_11: toe_inside_strategy_club_egg_endorse_access_finish_bread_bullet_place
+bip_39_word_underscore_12: toe_inside_strategy_club_egg_endorse_access_finish_bread_bullet_place_arrive
+bip_39_word_underscore_2: toe_inside
+bip_39_word_underscore_3: toe_inside_strategy
+bip_39_word_underscore_4: toe_inside_strategy_club
+bip_39_word_underscore_5: toe_inside_strategy_club_egg
+bip_39_word_underscore_6: toe_inside_strategy_club_egg_endorse
+bip_39_word_underscore_7: toe_inside_strategy_club_egg_endorse_access
+bip_39_word_underscore_8: toe_inside_strategy_club_egg_endorse_access_finish
+bip_39_word_underscore_9: toe_inside_strategy_club_egg_endorse_access_finish_bread
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_13_15_27
 id_no_color: '131527'
 id_no_size: '13_15_27'
 id_no_type: tray_13_15_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_15_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_13_15_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_13_15_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ur2f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ur2f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ur2f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '131527'
 name_no_size: 13 15 27
 name_no_size_short: 13 15 27
 name_no_type: Tray 13 15 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_13_15_27
 oomp_word: lemon penguin toilet
 oomp_word_emoji: ':lemon: :penguin: :toilet:'

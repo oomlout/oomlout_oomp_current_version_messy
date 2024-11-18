@@ -1,3 +1,223 @@
+bip_39_word_dash_1: trumpet
+bip_39_word_dash_10: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen
+bip_39_word_dash_11: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen-junk
+bip_39_word_dash_12: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel-reopen-junk-address
+bip_39_word_dash_2: trumpet-north
+bip_39_word_dash_3: trumpet-north-negative
+bip_39_word_dash_4: trumpet-north-negative-they
+bip_39_word_dash_5: trumpet-north-negative-they-banner
+bip_39_word_dash_6: trumpet-north-negative-they-banner-cabbage
+bip_39_word_dash_7: trumpet-north-negative-they-banner-cabbage-dose
+bip_39_word_dash_8: trumpet-north-negative-they-banner-cabbage-dose-soup
+bip_39_word_dash_9: trumpet-north-negative-they-banner-cabbage-dose-soup-barrel
+bip_39_word_new_br_1: trumpet
+bip_39_word_new_br_10: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen
+bip_39_word_new_br_11: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen<br>junk
+bip_39_word_new_br_12: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel<br>reopen<br>junk<br>address
+bip_39_word_new_br_2: trumpet<br>north
+bip_39_word_new_br_3: trumpet<br>north<br>negative
+bip_39_word_new_br_4: trumpet<br>north<br>negative<br>they
+bip_39_word_new_br_5: trumpet<br>north<br>negative<br>they<br>banner
+bip_39_word_new_br_6: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage
+bip_39_word_new_br_7: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose
+bip_39_word_new_br_8: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup
+bip_39_word_new_br_9: trumpet<br>north<br>negative<br>they<br>banner<br>cabbage<br>dose<br>soup<br>barrel
+bip_39_word_new_line_1: trumpet
+bip_39_word_new_line_10: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose
+
+  soup
+
+  barrel
+
+  reopen'
+bip_39_word_new_line_11: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose
+
+  soup
+
+  barrel
+
+  reopen
+
+  junk'
+bip_39_word_new_line_12: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose
+
+  soup
+
+  barrel
+
+  reopen
+
+  junk
+
+  address'
+bip_39_word_new_line_2: 'trumpet
+
+  north'
+bip_39_word_new_line_3: 'trumpet
+
+  north
+
+  negative'
+bip_39_word_new_line_4: 'trumpet
+
+  north
+
+  negative
+
+  they'
+bip_39_word_new_line_5: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner'
+bip_39_word_new_line_6: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage'
+bip_39_word_new_line_7: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose'
+bip_39_word_new_line_8: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose
+
+  soup'
+bip_39_word_new_line_9: 'trumpet
+
+  north
+
+  negative
+
+  they
+
+  banner
+
+  cabbage
+
+  dose
+
+  soup
+
+  barrel'
+bip_39_word_no_space_1: trumpet
+bip_39_word_no_space_10: trumpetnorthnegativetheybannercabbagedosesoupbarrelreopen
+bip_39_word_no_space_11: trumpetnorthnegativetheybannercabbagedosesoupbarrelreopenjunk
+bip_39_word_no_space_12: trumpetnorthnegativetheybannercabbagedosesoupbarrelreopenjunkaddress
+bip_39_word_no_space_2: trumpetnorth
+bip_39_word_no_space_3: trumpetnorthnegative
+bip_39_word_no_space_4: trumpetnorthnegativethey
+bip_39_word_no_space_5: trumpetnorthnegativetheybanner
+bip_39_word_no_space_6: trumpetnorthnegativetheybannercabbage
+bip_39_word_no_space_7: trumpetnorthnegativetheybannercabbagedose
+bip_39_word_no_space_8: trumpetnorthnegativetheybannercabbagedosesoup
+bip_39_word_no_space_9: trumpetnorthnegativetheybannercabbagedosesoupbarrel
+bip_39_word_space_0:
+- trumpet
+- north
+- negative
+- they
+- banner
+- cabbage
+- dose
+- soup
+- barrel
+- reopen
+- junk
+- address
+bip_39_word_space_1: trumpet
+bip_39_word_space_10: trumpet north negative they banner cabbage dose soup barrel
+  reopen
+bip_39_word_space_11: trumpet north negative they banner cabbage dose soup barrel
+  reopen junk
+bip_39_word_space_12: trumpet north negative they banner cabbage dose soup barrel
+  reopen junk address
+bip_39_word_space_2: trumpet north
+bip_39_word_space_3: trumpet north negative
+bip_39_word_space_4: trumpet north negative they
+bip_39_word_space_5: trumpet north negative they banner
+bip_39_word_space_6: trumpet north negative they banner cabbage
+bip_39_word_space_7: trumpet north negative they banner cabbage dose
+bip_39_word_space_8: trumpet north negative they banner cabbage dose soup
+bip_39_word_space_9: trumpet north negative they banner cabbage dose soup barrel
+bip_39_word_underscore_1: trumpet
+bip_39_word_underscore_10: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen
+bip_39_word_underscore_11: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen_junk
+bip_39_word_underscore_12: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel_reopen_junk_address
+bip_39_word_underscore_2: trumpet_north
+bip_39_word_underscore_3: trumpet_north_negative
+bip_39_word_underscore_4: trumpet_north_negative_they
+bip_39_word_underscore_5: trumpet_north_negative_they_banner
+bip_39_word_underscore_6: trumpet_north_negative_they_banner_cabbage
+bip_39_word_underscore_7: trumpet_north_negative_they_banner_cabbage_dose
+bip_39_word_underscore_8: trumpet_north_negative_they_banner_cabbage_dose_soup
+bip_39_word_underscore_9: trumpet_north_negative_they_banner_cabbage_dose_soup_barrel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_1d5_60
 id_no_color: 121d560
 id_no_size: 12_1d5_60
 id_no_type: tray_thin_12_1d5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_1d5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_1d5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_1d5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20256lp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20256lp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20256lp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 121D560
 name_no_size: 12 1D5 60
 name_no_size_short: 12 1D5 60
 name_no_type: Tray Thin 12 1D5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_1d5_60
 oomp_word: rabbit one dress
 oomp_word_emoji: ':rabbit: :one: :dress:'

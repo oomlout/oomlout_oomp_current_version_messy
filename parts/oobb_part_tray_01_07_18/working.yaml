@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hole
+bip_39_word_dash_10: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax
+bip_39_word_dash_11: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax-tragic
+bip_39_word_dash_12: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow-relax-tragic-asthma
+bip_39_word_dash_2: hole-unusual
+bip_39_word_dash_3: hole-unusual-rabbit
+bip_39_word_dash_4: hole-unusual-rabbit-vivid
+bip_39_word_dash_5: hole-unusual-rabbit-vivid-hub
+bip_39_word_dash_6: hole-unusual-rabbit-vivid-hub-devote
+bip_39_word_dash_7: hole-unusual-rabbit-vivid-hub-devote-holiday
+bip_39_word_dash_8: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar
+bip_39_word_dash_9: hole-unusual-rabbit-vivid-hub-devote-holiday-seminar-eyebrow
+bip_39_word_new_br_1: hole
+bip_39_word_new_br_10: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow<br>relax
+bip_39_word_new_br_11: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow<br>relax<br>tragic
+bip_39_word_new_br_12: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow<br>relax<br>tragic<br>asthma
+bip_39_word_new_br_2: hole<br>unusual
+bip_39_word_new_br_3: hole<br>unusual<br>rabbit
+bip_39_word_new_br_4: hole<br>unusual<br>rabbit<br>vivid
+bip_39_word_new_br_5: hole<br>unusual<br>rabbit<br>vivid<br>hub
+bip_39_word_new_br_6: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote
+bip_39_word_new_br_7: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday
+bip_39_word_new_br_8: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar
+bip_39_word_new_br_9: hole<br>unusual<br>rabbit<br>vivid<br>hub<br>devote<br>holiday<br>seminar<br>eyebrow
+bip_39_word_new_line_1: hole
+bip_39_word_new_line_10: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday
+
+  seminar
+
+  eyebrow
+
+  relax'
+bip_39_word_new_line_11: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday
+
+  seminar
+
+  eyebrow
+
+  relax
+
+  tragic'
+bip_39_word_new_line_12: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday
+
+  seminar
+
+  eyebrow
+
+  relax
+
+  tragic
+
+  asthma'
+bip_39_word_new_line_2: 'hole
+
+  unusual'
+bip_39_word_new_line_3: 'hole
+
+  unusual
+
+  rabbit'
+bip_39_word_new_line_4: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid'
+bip_39_word_new_line_5: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub'
+bip_39_word_new_line_6: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote'
+bip_39_word_new_line_7: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday'
+bip_39_word_new_line_8: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday
+
+  seminar'
+bip_39_word_new_line_9: 'hole
+
+  unusual
+
+  rabbit
+
+  vivid
+
+  hub
+
+  devote
+
+  holiday
+
+  seminar
+
+  eyebrow'
+bip_39_word_no_space_1: hole
+bip_39_word_no_space_10: holeunusualrabbitvividhubdevoteholidayseminareyebrowrelax
+bip_39_word_no_space_11: holeunusualrabbitvividhubdevoteholidayseminareyebrowrelaxtragic
+bip_39_word_no_space_12: holeunusualrabbitvividhubdevoteholidayseminareyebrowrelaxtragicasthma
+bip_39_word_no_space_2: holeunusual
+bip_39_word_no_space_3: holeunusualrabbit
+bip_39_word_no_space_4: holeunusualrabbitvivid
+bip_39_word_no_space_5: holeunusualrabbitvividhub
+bip_39_word_no_space_6: holeunusualrabbitvividhubdevote
+bip_39_word_no_space_7: holeunusualrabbitvividhubdevoteholiday
+bip_39_word_no_space_8: holeunusualrabbitvividhubdevoteholidayseminar
+bip_39_word_no_space_9: holeunusualrabbitvividhubdevoteholidayseminareyebrow
+bip_39_word_space_0:
+- hole
+- unusual
+- rabbit
+- vivid
+- hub
+- devote
+- holiday
+- seminar
+- eyebrow
+- relax
+- tragic
+- asthma
+bip_39_word_space_1: hole
+bip_39_word_space_10: hole unusual rabbit vivid hub devote holiday seminar eyebrow
+  relax
+bip_39_word_space_11: hole unusual rabbit vivid hub devote holiday seminar eyebrow
+  relax tragic
+bip_39_word_space_12: hole unusual rabbit vivid hub devote holiday seminar eyebrow
+  relax tragic asthma
+bip_39_word_space_2: hole unusual
+bip_39_word_space_3: hole unusual rabbit
+bip_39_word_space_4: hole unusual rabbit vivid
+bip_39_word_space_5: hole unusual rabbit vivid hub
+bip_39_word_space_6: hole unusual rabbit vivid hub devote
+bip_39_word_space_7: hole unusual rabbit vivid hub devote holiday
+bip_39_word_space_8: hole unusual rabbit vivid hub devote holiday seminar
+bip_39_word_space_9: hole unusual rabbit vivid hub devote holiday seminar eyebrow
+bip_39_word_underscore_1: hole
+bip_39_word_underscore_10: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax
+bip_39_word_underscore_11: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax_tragic
+bip_39_word_underscore_12: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow_relax_tragic_asthma
+bip_39_word_underscore_2: hole_unusual
+bip_39_word_underscore_3: hole_unusual_rabbit
+bip_39_word_underscore_4: hole_unusual_rabbit_vivid
+bip_39_word_underscore_5: hole_unusual_rabbit_vivid_hub
+bip_39_word_underscore_6: hole_unusual_rabbit_vivid_hub_devote
+bip_39_word_underscore_7: hole_unusual_rabbit_vivid_hub_devote_holiday
+bip_39_word_underscore_8: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar
+bip_39_word_underscore_9: hole_unusual_rabbit_vivid_hub_devote_holiday_seminar_eyebrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_07_18
 id_no_color: 010718
 id_no_size: 01_07_18
 id_no_type: tray_01_07_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_07_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208t6gd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208t6gd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208t6gd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 010718
 name_no_size: 01 07 18
 name_no_size_short: 01 07 18
 name_no_type: Tray 01 07 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_07_18
 oomp_word: boat strawberry bus
 oomp_word_emoji: ':boat: :strawberry: :bus:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: broken
+bip_39_word_dash_10: broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom
+bip_39_word_dash_11: broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom-toilet
+bip_39_word_dash_12: broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode-gloom-toilet-antique
+bip_39_word_dash_2: broken-friend
+bip_39_word_dash_3: broken-friend-erosion
+bip_39_word_dash_4: broken-friend-erosion-sweet
+bip_39_word_dash_5: broken-friend-erosion-sweet-ship
+bip_39_word_dash_6: broken-friend-erosion-sweet-ship-tattoo
+bip_39_word_dash_7: broken-friend-erosion-sweet-ship-tattoo-oil
+bip_39_word_dash_8: broken-friend-erosion-sweet-ship-tattoo-oil-silk
+bip_39_word_dash_9: broken-friend-erosion-sweet-ship-tattoo-oil-silk-erode
+bip_39_word_new_br_1: broken
+bip_39_word_new_br_10: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom
+bip_39_word_new_br_11: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet
+bip_39_word_new_br_12: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode<br>gloom<br>toilet<br>antique
+bip_39_word_new_br_2: broken<br>friend
+bip_39_word_new_br_3: broken<br>friend<br>erosion
+bip_39_word_new_br_4: broken<br>friend<br>erosion<br>sweet
+bip_39_word_new_br_5: broken<br>friend<br>erosion<br>sweet<br>ship
+bip_39_word_new_br_6: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo
+bip_39_word_new_br_7: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil
+bip_39_word_new_br_8: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk
+bip_39_word_new_br_9: broken<br>friend<br>erosion<br>sweet<br>ship<br>tattoo<br>oil<br>silk<br>erode
+bip_39_word_new_line_1: broken
+bip_39_word_new_line_10: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil
+
+  silk
+
+  erode
+
+  gloom'
+bip_39_word_new_line_11: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil
+
+  silk
+
+  erode
+
+  gloom
+
+  toilet'
+bip_39_word_new_line_12: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil
+
+  silk
+
+  erode
+
+  gloom
+
+  toilet
+
+  antique'
+bip_39_word_new_line_2: 'broken
+
+  friend'
+bip_39_word_new_line_3: 'broken
+
+  friend
+
+  erosion'
+bip_39_word_new_line_4: 'broken
+
+  friend
+
+  erosion
+
+  sweet'
+bip_39_word_new_line_5: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship'
+bip_39_word_new_line_6: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo'
+bip_39_word_new_line_7: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil'
+bip_39_word_new_line_8: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil
+
+  silk'
+bip_39_word_new_line_9: 'broken
+
+  friend
+
+  erosion
+
+  sweet
+
+  ship
+
+  tattoo
+
+  oil
+
+  silk
+
+  erode'
+bip_39_word_no_space_1: broken
+bip_39_word_no_space_10: brokenfrienderosionsweetshiptattoooilsilkerodegloom
+bip_39_word_no_space_11: brokenfrienderosionsweetshiptattoooilsilkerodegloomtoilet
+bip_39_word_no_space_12: brokenfrienderosionsweetshiptattoooilsilkerodegloomtoiletantique
+bip_39_word_no_space_2: brokenfriend
+bip_39_word_no_space_3: brokenfrienderosion
+bip_39_word_no_space_4: brokenfrienderosionsweet
+bip_39_word_no_space_5: brokenfrienderosionsweetship
+bip_39_word_no_space_6: brokenfrienderosionsweetshiptattoo
+bip_39_word_no_space_7: brokenfrienderosionsweetshiptattoooil
+bip_39_word_no_space_8: brokenfrienderosionsweetshiptattoooilsilk
+bip_39_word_no_space_9: brokenfrienderosionsweetshiptattoooilsilkerode
+bip_39_word_space_0:
+- broken
+- friend
+- erosion
+- sweet
+- ship
+- tattoo
+- oil
+- silk
+- erode
+- gloom
+- toilet
+- antique
+bip_39_word_space_1: broken
+bip_39_word_space_10: broken friend erosion sweet ship tattoo oil silk erode gloom
+bip_39_word_space_11: broken friend erosion sweet ship tattoo oil silk erode gloom
+  toilet
+bip_39_word_space_12: broken friend erosion sweet ship tattoo oil silk erode gloom
+  toilet antique
+bip_39_word_space_2: broken friend
+bip_39_word_space_3: broken friend erosion
+bip_39_word_space_4: broken friend erosion sweet
+bip_39_word_space_5: broken friend erosion sweet ship
+bip_39_word_space_6: broken friend erosion sweet ship tattoo
+bip_39_word_space_7: broken friend erosion sweet ship tattoo oil
+bip_39_word_space_8: broken friend erosion sweet ship tattoo oil silk
+bip_39_word_space_9: broken friend erosion sweet ship tattoo oil silk erode
+bip_39_word_underscore_1: broken
+bip_39_word_underscore_10: broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom
+bip_39_word_underscore_11: broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom_toilet
+bip_39_word_underscore_12: broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode_gloom_toilet_antique
+bip_39_word_underscore_2: broken_friend
+bip_39_word_underscore_3: broken_friend_erosion
+bip_39_word_underscore_4: broken_friend_erosion_sweet
+bip_39_word_underscore_5: broken_friend_erosion_sweet_ship
+bip_39_word_underscore_6: broken_friend_erosion_sweet_ship_tattoo
+bip_39_word_underscore_7: broken_friend_erosion_sweet_ship_tattoo_oil
+bip_39_word_underscore_8: broken_friend_erosion_sweet_ship_tattoo_oil_silk
+bip_39_word_underscore_9: broken_friend_erosion_sweet_ship_tattoo_oil_silk_erode
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_07_12
 id_no_color: 080712
 id_no_size: 08_07_12
 id_no_type: tray_thin_08_07_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_07_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_07_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_07_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2068fq0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2068fq0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2068fq0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080712
 name_no_size: 08 07 12
 name_no_size_short: 08 07 12
 name_no_type: Tray Thin 08 07 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_07_12
 oomp_word: diamonds honey_pot tennis
 oomp_word_emoji: ':diamonds: :honey_pot: :tennis:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Teardown Src
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_teardown_src
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :beetle: :peach: :hatching_chick:
 * md5_6_alpha: 35i6h
 * md5_6: 50ce49
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2035i6h)
+[2x1](http://192.168.1.242:1112/?label=oomp%2035i6h)
+[6x4](http://192.168.1.55:1112/?label=oomp%2035i6h)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_src) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_src)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ toddler |
 | id_no_color | oomp_teardown_src |  
 | id_no_size | oomp_teardown_src |  
 | id_no_type | oomlout_oomlout_oomp_teardown_src |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_src |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_src |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_src |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2035i6h |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2035i6h |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2035i6h |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_teardown_src |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ toddler |
 | name_no_size | Oomp Teardown Src |  
 | name_no_size_short | Oomp Teardown Src |  
 | name_no_type | Oomlout Oomlout Oomp Teardown Src |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_teardown_src |  
 | oomp_word | beetle peach hatching_chick |  
 | oomp_word_emoji | :beetle: :peach: :hatching_chick: |  

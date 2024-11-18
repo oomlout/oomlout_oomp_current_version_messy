@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6210 Size 50 mm ID 90 mm OD 20 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6210_size_50_mm_id_90_mm_od_20_mm_depth
   * classification: hardware

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: easy
+bip_39_word_dash_10: easy-dry-bulk-avoid-airport-mother-nose-priority-inform-absorb
+bip_39_word_dash_11: easy-dry-bulk-avoid-airport-mother-nose-priority-inform-absorb-south
+bip_39_word_dash_12: easy-dry-bulk-avoid-airport-mother-nose-priority-inform-absorb-south-approve
+bip_39_word_dash_2: easy-dry
+bip_39_word_dash_3: easy-dry-bulk
+bip_39_word_dash_4: easy-dry-bulk-avoid
+bip_39_word_dash_5: easy-dry-bulk-avoid-airport
+bip_39_word_dash_6: easy-dry-bulk-avoid-airport-mother
+bip_39_word_dash_7: easy-dry-bulk-avoid-airport-mother-nose
+bip_39_word_dash_8: easy-dry-bulk-avoid-airport-mother-nose-priority
+bip_39_word_dash_9: easy-dry-bulk-avoid-airport-mother-nose-priority-inform
+bip_39_word_new_br_1: easy
+bip_39_word_new_br_10: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose<br>priority<br>inform<br>absorb
+bip_39_word_new_br_11: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose<br>priority<br>inform<br>absorb<br>south
+bip_39_word_new_br_12: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose<br>priority<br>inform<br>absorb<br>south<br>approve
+bip_39_word_new_br_2: easy<br>dry
+bip_39_word_new_br_3: easy<br>dry<br>bulk
+bip_39_word_new_br_4: easy<br>dry<br>bulk<br>avoid
+bip_39_word_new_br_5: easy<br>dry<br>bulk<br>avoid<br>airport
+bip_39_word_new_br_6: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother
+bip_39_word_new_br_7: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose
+bip_39_word_new_br_8: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose<br>priority
+bip_39_word_new_br_9: easy<br>dry<br>bulk<br>avoid<br>airport<br>mother<br>nose<br>priority<br>inform
+bip_39_word_new_line_1: easy
+bip_39_word_new_line_10: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose
+
+  priority
+
+  inform
+
+  absorb'
+bip_39_word_new_line_11: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose
+
+  priority
+
+  inform
+
+  absorb
+
+  south'
+bip_39_word_new_line_12: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose
+
+  priority
+
+  inform
+
+  absorb
+
+  south
+
+  approve'
+bip_39_word_new_line_2: 'easy
+
+  dry'
+bip_39_word_new_line_3: 'easy
+
+  dry
+
+  bulk'
+bip_39_word_new_line_4: 'easy
+
+  dry
+
+  bulk
+
+  avoid'
+bip_39_word_new_line_5: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport'
+bip_39_word_new_line_6: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother'
+bip_39_word_new_line_7: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose'
+bip_39_word_new_line_8: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose
+
+  priority'
+bip_39_word_new_line_9: 'easy
+
+  dry
+
+  bulk
+
+  avoid
+
+  airport
+
+  mother
+
+  nose
+
+  priority
+
+  inform'
+bip_39_word_no_space_1: easy
+bip_39_word_no_space_10: easydrybulkavoidairportmothernosepriorityinformabsorb
+bip_39_word_no_space_11: easydrybulkavoidairportmothernosepriorityinformabsorbsouth
+bip_39_word_no_space_12: easydrybulkavoidairportmothernosepriorityinformabsorbsouthapprove
+bip_39_word_no_space_2: easydry
+bip_39_word_no_space_3: easydrybulk
+bip_39_word_no_space_4: easydrybulkavoid
+bip_39_word_no_space_5: easydrybulkavoidairport
+bip_39_word_no_space_6: easydrybulkavoidairportmother
+bip_39_word_no_space_7: easydrybulkavoidairportmothernose
+bip_39_word_no_space_8: easydrybulkavoidairportmothernosepriority
+bip_39_word_no_space_9: easydrybulkavoidairportmothernosepriorityinform
+bip_39_word_space_0:
+- easy
+- dry
+- bulk
+- avoid
+- airport
+- mother
+- nose
+- priority
+- inform
+- absorb
+- south
+- approve
+bip_39_word_space_1: easy
+bip_39_word_space_10: easy dry bulk avoid airport mother nose priority inform absorb
+bip_39_word_space_11: easy dry bulk avoid airport mother nose priority inform absorb
+  south
+bip_39_word_space_12: easy dry bulk avoid airport mother nose priority inform absorb
+  south approve
+bip_39_word_space_2: easy dry
+bip_39_word_space_3: easy dry bulk
+bip_39_word_space_4: easy dry bulk avoid
+bip_39_word_space_5: easy dry bulk avoid airport
+bip_39_word_space_6: easy dry bulk avoid airport mother
+bip_39_word_space_7: easy dry bulk avoid airport mother nose
+bip_39_word_space_8: easy dry bulk avoid airport mother nose priority
+bip_39_word_space_9: easy dry bulk avoid airport mother nose priority inform
+bip_39_word_underscore_1: easy
+bip_39_word_underscore_10: easy_dry_bulk_avoid_airport_mother_nose_priority_inform_absorb
+bip_39_word_underscore_11: easy_dry_bulk_avoid_airport_mother_nose_priority_inform_absorb_south
+bip_39_word_underscore_12: easy_dry_bulk_avoid_airport_mother_nose_priority_inform_absorb_south_approve
+bip_39_word_underscore_2: easy_dry
+bip_39_word_underscore_3: easy_dry_bulk
+bip_39_word_underscore_4: easy_dry_bulk_avoid
+bip_39_word_underscore_5: easy_dry_bulk_avoid_airport
+bip_39_word_underscore_6: easy_dry_bulk_avoid_airport_mother
+bip_39_word_underscore_7: easy_dry_bulk_avoid_airport_mother_nose
+bip_39_word_underscore_8: easy_dry_bulk_avoid_airport_mother_nose_priority
+bip_39_word_underscore_9: easy_dry_bulk_avoid_airport_mother_nose_priority_inform
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_01_03__8_teeth_sh_motor_n20
 id_no_color: 01038teethshmotorn20
 id_no_size: 01_03__8_teeth_sh_motor_n20
 id_no_type: gear_01_03__8_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_03__8_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206rvwg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206rvwg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206rvwg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 01038Teethshmotorn20
 name_no_size: 01 03  8 Teeth Sh Motor N20
 name_no_size_short: 01 03  8 Teeth Sh Motor N20
 name_no_type: Gear 01 03  8 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_01_03__8_teeth_sh_motor_n20
 oomp_word: dress ring racehorse
 oomp_word_emoji: ':dress: :ring: :racehorse:'

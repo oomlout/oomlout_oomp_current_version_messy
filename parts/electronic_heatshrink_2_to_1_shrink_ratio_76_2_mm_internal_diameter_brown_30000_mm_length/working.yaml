@@ -1,3 +1,222 @@
+bip_39_word_dash_1: move
+bip_39_word_dash_10: move-example-vapor-head-sting-aerobic-arrow-impulse-fiscal-defy
+bip_39_word_dash_11: move-example-vapor-head-sting-aerobic-arrow-impulse-fiscal-defy-achieve
+bip_39_word_dash_12: move-example-vapor-head-sting-aerobic-arrow-impulse-fiscal-defy-achieve-answer
+bip_39_word_dash_2: move-example
+bip_39_word_dash_3: move-example-vapor
+bip_39_word_dash_4: move-example-vapor-head
+bip_39_word_dash_5: move-example-vapor-head-sting
+bip_39_word_dash_6: move-example-vapor-head-sting-aerobic
+bip_39_word_dash_7: move-example-vapor-head-sting-aerobic-arrow
+bip_39_word_dash_8: move-example-vapor-head-sting-aerobic-arrow-impulse
+bip_39_word_dash_9: move-example-vapor-head-sting-aerobic-arrow-impulse-fiscal
+bip_39_word_new_br_1: move
+bip_39_word_new_br_10: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy
+bip_39_word_new_br_11: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy<br>achieve
+bip_39_word_new_br_12: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal<br>defy<br>achieve<br>answer
+bip_39_word_new_br_2: move<br>example
+bip_39_word_new_br_3: move<br>example<br>vapor
+bip_39_word_new_br_4: move<br>example<br>vapor<br>head
+bip_39_word_new_br_5: move<br>example<br>vapor<br>head<br>sting
+bip_39_word_new_br_6: move<br>example<br>vapor<br>head<br>sting<br>aerobic
+bip_39_word_new_br_7: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow
+bip_39_word_new_br_8: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse
+bip_39_word_new_br_9: move<br>example<br>vapor<br>head<br>sting<br>aerobic<br>arrow<br>impulse<br>fiscal
+bip_39_word_new_line_1: move
+bip_39_word_new_line_10: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy'
+bip_39_word_new_line_11: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy
+
+  achieve'
+bip_39_word_new_line_12: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal
+
+  defy
+
+  achieve
+
+  answer'
+bip_39_word_new_line_2: 'move
+
+  example'
+bip_39_word_new_line_3: 'move
+
+  example
+
+  vapor'
+bip_39_word_new_line_4: 'move
+
+  example
+
+  vapor
+
+  head'
+bip_39_word_new_line_5: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting'
+bip_39_word_new_line_6: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic'
+bip_39_word_new_line_7: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow'
+bip_39_word_new_line_8: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse'
+bip_39_word_new_line_9: 'move
+
+  example
+
+  vapor
+
+  head
+
+  sting
+
+  aerobic
+
+  arrow
+
+  impulse
+
+  fiscal'
+bip_39_word_no_space_1: move
+bip_39_word_no_space_10: moveexamplevaporheadstingaerobicarrowimpulsefiscaldefy
+bip_39_word_no_space_11: moveexamplevaporheadstingaerobicarrowimpulsefiscaldefyachieve
+bip_39_word_no_space_12: moveexamplevaporheadstingaerobicarrowimpulsefiscaldefyachieveanswer
+bip_39_word_no_space_2: moveexample
+bip_39_word_no_space_3: moveexamplevapor
+bip_39_word_no_space_4: moveexamplevaporhead
+bip_39_word_no_space_5: moveexamplevaporheadsting
+bip_39_word_no_space_6: moveexamplevaporheadstingaerobic
+bip_39_word_no_space_7: moveexamplevaporheadstingaerobicarrow
+bip_39_word_no_space_8: moveexamplevaporheadstingaerobicarrowimpulse
+bip_39_word_no_space_9: moveexamplevaporheadstingaerobicarrowimpulsefiscal
+bip_39_word_space_0:
+- move
+- example
+- vapor
+- head
+- sting
+- aerobic
+- arrow
+- impulse
+- fiscal
+- defy
+- achieve
+- answer
+bip_39_word_space_1: move
+bip_39_word_space_10: move example vapor head sting aerobic arrow impulse fiscal defy
+bip_39_word_space_11: move example vapor head sting aerobic arrow impulse fiscal defy
+  achieve
+bip_39_word_space_12: move example vapor head sting aerobic arrow impulse fiscal defy
+  achieve answer
+bip_39_word_space_2: move example
+bip_39_word_space_3: move example vapor
+bip_39_word_space_4: move example vapor head
+bip_39_word_space_5: move example vapor head sting
+bip_39_word_space_6: move example vapor head sting aerobic
+bip_39_word_space_7: move example vapor head sting aerobic arrow
+bip_39_word_space_8: move example vapor head sting aerobic arrow impulse
+bip_39_word_space_9: move example vapor head sting aerobic arrow impulse fiscal
+bip_39_word_underscore_1: move
+bip_39_word_underscore_10: move_example_vapor_head_sting_aerobic_arrow_impulse_fiscal_defy
+bip_39_word_underscore_11: move_example_vapor_head_sting_aerobic_arrow_impulse_fiscal_defy_achieve
+bip_39_word_underscore_12: move_example_vapor_head_sting_aerobic_arrow_impulse_fiscal_defy_achieve_answer
+bip_39_word_underscore_2: move_example
+bip_39_word_underscore_3: move_example_vapor
+bip_39_word_underscore_4: move_example_vapor_head
+bip_39_word_underscore_5: move_example_vapor_head_sting
+bip_39_word_underscore_6: move_example_vapor_head_sting_aerobic
+bip_39_word_underscore_7: move_example_vapor_head_sting_aerobic_arrow
+bip_39_word_underscore_8: move_example_vapor_head_sting_aerobic_arrow_impulse
+bip_39_word_underscore_9: move_example_vapor_head_sting_aerobic_arrow_impulse_fiscal
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 30000_mm_length
 id_no_size: brown_30000_mm_length
 id_no_type: 76_2_mm_internal_diameter_brown_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_brown_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_brown_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_brown_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2060c5q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2060c5q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2060c5q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 30000 mm Length
 name_no_size: Brown 30000 mm Length
 name_no_size_short: Brown 30k Mm Length
 name_no_type: 76 2 mm Internal Diameter Brown 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_brown_30000_mm_length
 oomp_word: golf grin clipboard
 oomp_word_emoji: ':golf: :grin: :clipboard:'

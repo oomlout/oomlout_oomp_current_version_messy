@@ -1,3 +1,223 @@
+bip_39_word_dash_1: deputy
+bip_39_word_dash_10: deputy-impact-super-science-vibrant-mushroom-decorate-awful-pistol-banana
+bip_39_word_dash_11: deputy-impact-super-science-vibrant-mushroom-decorate-awful-pistol-banana-stage
+bip_39_word_dash_12: deputy-impact-super-science-vibrant-mushroom-decorate-awful-pistol-banana-stage-amount
+bip_39_word_dash_2: deputy-impact
+bip_39_word_dash_3: deputy-impact-super
+bip_39_word_dash_4: deputy-impact-super-science
+bip_39_word_dash_5: deputy-impact-super-science-vibrant
+bip_39_word_dash_6: deputy-impact-super-science-vibrant-mushroom
+bip_39_word_dash_7: deputy-impact-super-science-vibrant-mushroom-decorate
+bip_39_word_dash_8: deputy-impact-super-science-vibrant-mushroom-decorate-awful
+bip_39_word_dash_9: deputy-impact-super-science-vibrant-mushroom-decorate-awful-pistol
+bip_39_word_new_br_1: deputy
+bip_39_word_new_br_10: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana
+bip_39_word_new_br_11: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana<br>stage
+bip_39_word_new_br_12: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol<br>banana<br>stage<br>amount
+bip_39_word_new_br_2: deputy<br>impact
+bip_39_word_new_br_3: deputy<br>impact<br>super
+bip_39_word_new_br_4: deputy<br>impact<br>super<br>science
+bip_39_word_new_br_5: deputy<br>impact<br>super<br>science<br>vibrant
+bip_39_word_new_br_6: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom
+bip_39_word_new_br_7: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate
+bip_39_word_new_br_8: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful
+bip_39_word_new_br_9: deputy<br>impact<br>super<br>science<br>vibrant<br>mushroom<br>decorate<br>awful<br>pistol
+bip_39_word_new_line_1: deputy
+bip_39_word_new_line_10: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate
+
+  awful
+
+  pistol
+
+  banana'
+bip_39_word_new_line_11: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate
+
+  awful
+
+  pistol
+
+  banana
+
+  stage'
+bip_39_word_new_line_12: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate
+
+  awful
+
+  pistol
+
+  banana
+
+  stage
+
+  amount'
+bip_39_word_new_line_2: 'deputy
+
+  impact'
+bip_39_word_new_line_3: 'deputy
+
+  impact
+
+  super'
+bip_39_word_new_line_4: 'deputy
+
+  impact
+
+  super
+
+  science'
+bip_39_word_new_line_5: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant'
+bip_39_word_new_line_6: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom'
+bip_39_word_new_line_7: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate'
+bip_39_word_new_line_8: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate
+
+  awful'
+bip_39_word_new_line_9: 'deputy
+
+  impact
+
+  super
+
+  science
+
+  vibrant
+
+  mushroom
+
+  decorate
+
+  awful
+
+  pistol'
+bip_39_word_no_space_1: deputy
+bip_39_word_no_space_10: deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbanana
+bip_39_word_no_space_11: deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbananastage
+bip_39_word_no_space_12: deputyimpactsupersciencevibrantmushroomdecorateawfulpistolbananastageamount
+bip_39_word_no_space_2: deputyimpact
+bip_39_word_no_space_3: deputyimpactsuper
+bip_39_word_no_space_4: deputyimpactsuperscience
+bip_39_word_no_space_5: deputyimpactsupersciencevibrant
+bip_39_word_no_space_6: deputyimpactsupersciencevibrantmushroom
+bip_39_word_no_space_7: deputyimpactsupersciencevibrantmushroomdecorate
+bip_39_word_no_space_8: deputyimpactsupersciencevibrantmushroomdecorateawful
+bip_39_word_no_space_9: deputyimpactsupersciencevibrantmushroomdecorateawfulpistol
+bip_39_word_space_0:
+- deputy
+- impact
+- super
+- science
+- vibrant
+- mushroom
+- decorate
+- awful
+- pistol
+- banana
+- stage
+- amount
+bip_39_word_space_1: deputy
+bip_39_word_space_10: deputy impact super science vibrant mushroom decorate awful
+  pistol banana
+bip_39_word_space_11: deputy impact super science vibrant mushroom decorate awful
+  pistol banana stage
+bip_39_word_space_12: deputy impact super science vibrant mushroom decorate awful
+  pistol banana stage amount
+bip_39_word_space_2: deputy impact
+bip_39_word_space_3: deputy impact super
+bip_39_word_space_4: deputy impact super science
+bip_39_word_space_5: deputy impact super science vibrant
+bip_39_word_space_6: deputy impact super science vibrant mushroom
+bip_39_word_space_7: deputy impact super science vibrant mushroom decorate
+bip_39_word_space_8: deputy impact super science vibrant mushroom decorate awful
+bip_39_word_space_9: deputy impact super science vibrant mushroom decorate awful pistol
+bip_39_word_underscore_1: deputy
+bip_39_word_underscore_10: deputy_impact_super_science_vibrant_mushroom_decorate_awful_pistol_banana
+bip_39_word_underscore_11: deputy_impact_super_science_vibrant_mushroom_decorate_awful_pistol_banana_stage
+bip_39_word_underscore_12: deputy_impact_super_science_vibrant_mushroom_decorate_awful_pistol_banana_stage_amount
+bip_39_word_underscore_2: deputy_impact
+bip_39_word_underscore_3: deputy_impact_super
+bip_39_word_underscore_4: deputy_impact_super_science
+bip_39_word_underscore_5: deputy_impact_super_science_vibrant
+bip_39_word_underscore_6: deputy_impact_super_science_vibrant_mushroom
+bip_39_word_underscore_7: deputy_impact_super_science_vibrant_mushroom_decorate
+bip_39_word_underscore_8: deputy_impact_super_science_vibrant_mushroom_decorate_awful
+bip_39_word_underscore_9: deputy_impact_super_science_vibrant_mushroom_decorate_awful_pistol
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_vertical_04_01_09
 id_no_color: 040109
 id_no_size: 04_01_09
 id_no_type: tray_vertical_04_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20524hw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20524hw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20524hw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 040109
 name_no_size: 04 01 09
 name_no_size_short: 04 01 09
 name_no_type: Tray Vertical 04 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_04_01_09
 oomp_word: watch shoe panda_face
 oomp_word_emoji: ':watch: :shoe: :panda_face:'

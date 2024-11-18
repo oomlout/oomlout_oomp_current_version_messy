@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5216 Size 80 mm ID 140 mm OD 44 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5216_size_80_mm_id_140_mm_od_44_4_mm_depth
   * classification: hardware

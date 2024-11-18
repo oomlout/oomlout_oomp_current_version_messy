@@ -1,3 +1,223 @@
+bip_39_word_dash_1: addict
+bip_39_word_dash_10: addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid
+bip_39_word_dash_11: addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid-display
+bip_39_word_dash_12: addict-account-biology-enforce-produce-fall-analyst-napkin-garlic-bid-display-attack
+bip_39_word_dash_2: addict-account
+bip_39_word_dash_3: addict-account-biology
+bip_39_word_dash_4: addict-account-biology-enforce
+bip_39_word_dash_5: addict-account-biology-enforce-produce
+bip_39_word_dash_6: addict-account-biology-enforce-produce-fall
+bip_39_word_dash_7: addict-account-biology-enforce-produce-fall-analyst
+bip_39_word_dash_8: addict-account-biology-enforce-produce-fall-analyst-napkin
+bip_39_word_dash_9: addict-account-biology-enforce-produce-fall-analyst-napkin-garlic
+bip_39_word_new_br_1: addict
+bip_39_word_new_br_10: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic<br>bid
+bip_39_word_new_br_11: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic<br>bid<br>display
+bip_39_word_new_br_12: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic<br>bid<br>display<br>attack
+bip_39_word_new_br_2: addict<br>account
+bip_39_word_new_br_3: addict<br>account<br>biology
+bip_39_word_new_br_4: addict<br>account<br>biology<br>enforce
+bip_39_word_new_br_5: addict<br>account<br>biology<br>enforce<br>produce
+bip_39_word_new_br_6: addict<br>account<br>biology<br>enforce<br>produce<br>fall
+bip_39_word_new_br_7: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst
+bip_39_word_new_br_8: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin
+bip_39_word_new_br_9: addict<br>account<br>biology<br>enforce<br>produce<br>fall<br>analyst<br>napkin<br>garlic
+bip_39_word_new_line_1: addict
+bip_39_word_new_line_10: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst
+
+  napkin
+
+  garlic
+
+  bid'
+bip_39_word_new_line_11: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst
+
+  napkin
+
+  garlic
+
+  bid
+
+  display'
+bip_39_word_new_line_12: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst
+
+  napkin
+
+  garlic
+
+  bid
+
+  display
+
+  attack'
+bip_39_word_new_line_2: 'addict
+
+  account'
+bip_39_word_new_line_3: 'addict
+
+  account
+
+  biology'
+bip_39_word_new_line_4: 'addict
+
+  account
+
+  biology
+
+  enforce'
+bip_39_word_new_line_5: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce'
+bip_39_word_new_line_6: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall'
+bip_39_word_new_line_7: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst'
+bip_39_word_new_line_8: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst
+
+  napkin'
+bip_39_word_new_line_9: 'addict
+
+  account
+
+  biology
+
+  enforce
+
+  produce
+
+  fall
+
+  analyst
+
+  napkin
+
+  garlic'
+bip_39_word_no_space_1: addict
+bip_39_word_no_space_10: addictaccountbiologyenforceproducefallanalystnapkingarlicbid
+bip_39_word_no_space_11: addictaccountbiologyenforceproducefallanalystnapkingarlicbiddisplay
+bip_39_word_no_space_12: addictaccountbiologyenforceproducefallanalystnapkingarlicbiddisplayattack
+bip_39_word_no_space_2: addictaccount
+bip_39_word_no_space_3: addictaccountbiology
+bip_39_word_no_space_4: addictaccountbiologyenforce
+bip_39_word_no_space_5: addictaccountbiologyenforceproduce
+bip_39_word_no_space_6: addictaccountbiologyenforceproducefall
+bip_39_word_no_space_7: addictaccountbiologyenforceproducefallanalyst
+bip_39_word_no_space_8: addictaccountbiologyenforceproducefallanalystnapkin
+bip_39_word_no_space_9: addictaccountbiologyenforceproducefallanalystnapkingarlic
+bip_39_word_space_0:
+- addict
+- account
+- biology
+- enforce
+- produce
+- fall
+- analyst
+- napkin
+- garlic
+- bid
+- display
+- attack
+bip_39_word_space_1: addict
+bip_39_word_space_10: addict account biology enforce produce fall analyst napkin garlic
+  bid
+bip_39_word_space_11: addict account biology enforce produce fall analyst napkin garlic
+  bid display
+bip_39_word_space_12: addict account biology enforce produce fall analyst napkin garlic
+  bid display attack
+bip_39_word_space_2: addict account
+bip_39_word_space_3: addict account biology
+bip_39_word_space_4: addict account biology enforce
+bip_39_word_space_5: addict account biology enforce produce
+bip_39_word_space_6: addict account biology enforce produce fall
+bip_39_word_space_7: addict account biology enforce produce fall analyst
+bip_39_word_space_8: addict account biology enforce produce fall analyst napkin
+bip_39_word_space_9: addict account biology enforce produce fall analyst napkin garlic
+bip_39_word_underscore_1: addict
+bip_39_word_underscore_10: addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid
+bip_39_word_underscore_11: addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid_display
+bip_39_word_underscore_12: addict_account_biology_enforce_produce_fall_analyst_napkin_garlic_bid_display_attack
+bip_39_word_underscore_2: addict_account
+bip_39_word_underscore_3: addict_account_biology
+bip_39_word_underscore_4: addict_account_biology_enforce
+bip_39_word_underscore_5: addict_account_biology_enforce_produce
+bip_39_word_underscore_6: addict_account_biology_enforce_produce_fall
+bip_39_word_underscore_7: addict_account_biology_enforce_produce_fall_analyst
+bip_39_word_underscore_8: addict_account_biology_enforce_produce_fall_analyst_napkin
+bip_39_word_underscore_9: addict_account_biology_enforce_produce_fall_analyst_napkin_garlic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_15_15
 id_no_color: '041515'
 id_no_size: '04_15_15'
 id_no_type: tray_04_15_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_15_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_15_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_15_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208zrph
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208zrph
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208zrph
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '041515'
 name_no_size: 04 15 15
 name_no_size_short: 04 15 15
 name_no_type: Tray 04 15 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_15_15
 oomp_word: airplane speaker kissing
 oomp_word_emoji: ':airplane: :speaker: :kissing:'

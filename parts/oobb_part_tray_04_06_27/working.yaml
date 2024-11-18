@@ -1,3 +1,222 @@
+bip_39_word_dash_1: glass
+bip_39_word_dash_10: glass-head-extend-sing-cloud-capable-toddler-device-depend-question
+bip_39_word_dash_11: glass-head-extend-sing-cloud-capable-toddler-device-depend-question-acid
+bip_39_word_dash_12: glass-head-extend-sing-cloud-capable-toddler-device-depend-question-acid-alarm
+bip_39_word_dash_2: glass-head
+bip_39_word_dash_3: glass-head-extend
+bip_39_word_dash_4: glass-head-extend-sing
+bip_39_word_dash_5: glass-head-extend-sing-cloud
+bip_39_word_dash_6: glass-head-extend-sing-cloud-capable
+bip_39_word_dash_7: glass-head-extend-sing-cloud-capable-toddler
+bip_39_word_dash_8: glass-head-extend-sing-cloud-capable-toddler-device
+bip_39_word_dash_9: glass-head-extend-sing-cloud-capable-toddler-device-depend
+bip_39_word_new_br_1: glass
+bip_39_word_new_br_10: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question
+bip_39_word_new_br_11: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question<br>acid
+bip_39_word_new_br_12: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend<br>question<br>acid<br>alarm
+bip_39_word_new_br_2: glass<br>head
+bip_39_word_new_br_3: glass<br>head<br>extend
+bip_39_word_new_br_4: glass<br>head<br>extend<br>sing
+bip_39_word_new_br_5: glass<br>head<br>extend<br>sing<br>cloud
+bip_39_word_new_br_6: glass<br>head<br>extend<br>sing<br>cloud<br>capable
+bip_39_word_new_br_7: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler
+bip_39_word_new_br_8: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device
+bip_39_word_new_br_9: glass<br>head<br>extend<br>sing<br>cloud<br>capable<br>toddler<br>device<br>depend
+bip_39_word_new_line_1: glass
+bip_39_word_new_line_10: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler
+
+  device
+
+  depend
+
+  question'
+bip_39_word_new_line_11: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler
+
+  device
+
+  depend
+
+  question
+
+  acid'
+bip_39_word_new_line_12: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler
+
+  device
+
+  depend
+
+  question
+
+  acid
+
+  alarm'
+bip_39_word_new_line_2: 'glass
+
+  head'
+bip_39_word_new_line_3: 'glass
+
+  head
+
+  extend'
+bip_39_word_new_line_4: 'glass
+
+  head
+
+  extend
+
+  sing'
+bip_39_word_new_line_5: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud'
+bip_39_word_new_line_6: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable'
+bip_39_word_new_line_7: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler'
+bip_39_word_new_line_8: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler
+
+  device'
+bip_39_word_new_line_9: 'glass
+
+  head
+
+  extend
+
+  sing
+
+  cloud
+
+  capable
+
+  toddler
+
+  device
+
+  depend'
+bip_39_word_no_space_1: glass
+bip_39_word_no_space_10: glassheadextendsingcloudcapabletoddlerdevicedependquestion
+bip_39_word_no_space_11: glassheadextendsingcloudcapabletoddlerdevicedependquestionacid
+bip_39_word_no_space_12: glassheadextendsingcloudcapabletoddlerdevicedependquestionacidalarm
+bip_39_word_no_space_2: glasshead
+bip_39_word_no_space_3: glassheadextend
+bip_39_word_no_space_4: glassheadextendsing
+bip_39_word_no_space_5: glassheadextendsingcloud
+bip_39_word_no_space_6: glassheadextendsingcloudcapable
+bip_39_word_no_space_7: glassheadextendsingcloudcapabletoddler
+bip_39_word_no_space_8: glassheadextendsingcloudcapabletoddlerdevice
+bip_39_word_no_space_9: glassheadextendsingcloudcapabletoddlerdevicedepend
+bip_39_word_space_0:
+- glass
+- head
+- extend
+- sing
+- cloud
+- capable
+- toddler
+- device
+- depend
+- question
+- acid
+- alarm
+bip_39_word_space_1: glass
+bip_39_word_space_10: glass head extend sing cloud capable toddler device depend question
+bip_39_word_space_11: glass head extend sing cloud capable toddler device depend question
+  acid
+bip_39_word_space_12: glass head extend sing cloud capable toddler device depend question
+  acid alarm
+bip_39_word_space_2: glass head
+bip_39_word_space_3: glass head extend
+bip_39_word_space_4: glass head extend sing
+bip_39_word_space_5: glass head extend sing cloud
+bip_39_word_space_6: glass head extend sing cloud capable
+bip_39_word_space_7: glass head extend sing cloud capable toddler
+bip_39_word_space_8: glass head extend sing cloud capable toddler device
+bip_39_word_space_9: glass head extend sing cloud capable toddler device depend
+bip_39_word_underscore_1: glass
+bip_39_word_underscore_10: glass_head_extend_sing_cloud_capable_toddler_device_depend_question
+bip_39_word_underscore_11: glass_head_extend_sing_cloud_capable_toddler_device_depend_question_acid
+bip_39_word_underscore_12: glass_head_extend_sing_cloud_capable_toddler_device_depend_question_acid_alarm
+bip_39_word_underscore_2: glass_head
+bip_39_word_underscore_3: glass_head_extend
+bip_39_word_underscore_4: glass_head_extend_sing
+bip_39_word_underscore_5: glass_head_extend_sing_cloud
+bip_39_word_underscore_6: glass_head_extend_sing_cloud_capable
+bip_39_word_underscore_7: glass_head_extend_sing_cloud_capable_toddler
+bip_39_word_underscore_8: glass_head_extend_sing_cloud_capable_toddler_device
+bip_39_word_underscore_9: glass_head_extend_sing_cloud_capable_toddler_device_depend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_06_27
 id_no_color: '040627'
 id_no_size: '04_06_27'
 id_no_type: tray_04_06_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_06_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_06_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203l90r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203l90r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203l90r
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040627'
 name_no_size: 04 06 27
 name_no_size_short: 04 06 27
 name_no_type: Tray 04 06 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_06_27
 oomp_word: ox grin car
 oomp_word_emoji: ':ox: :grin: :car:'

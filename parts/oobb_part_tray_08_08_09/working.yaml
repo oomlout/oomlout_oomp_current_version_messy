@@ -1,3 +1,223 @@
+bip_39_word_dash_1: zero
+bip_39_word_dash_10: zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor
+bip_39_word_dash_11: zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor-amused
+bip_39_word_dash_12: zero-spot-cinnamon-round-captain-inspire-spot-reject-behave-razor-amused-acid
+bip_39_word_dash_2: zero-spot
+bip_39_word_dash_3: zero-spot-cinnamon
+bip_39_word_dash_4: zero-spot-cinnamon-round
+bip_39_word_dash_5: zero-spot-cinnamon-round-captain
+bip_39_word_dash_6: zero-spot-cinnamon-round-captain-inspire
+bip_39_word_dash_7: zero-spot-cinnamon-round-captain-inspire-spot
+bip_39_word_dash_8: zero-spot-cinnamon-round-captain-inspire-spot-reject
+bip_39_word_dash_9: zero-spot-cinnamon-round-captain-inspire-spot-reject-behave
+bip_39_word_new_br_1: zero
+bip_39_word_new_br_10: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor
+bip_39_word_new_br_11: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused
+bip_39_word_new_br_12: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave<br>razor<br>amused<br>acid
+bip_39_word_new_br_2: zero<br>spot
+bip_39_word_new_br_3: zero<br>spot<br>cinnamon
+bip_39_word_new_br_4: zero<br>spot<br>cinnamon<br>round
+bip_39_word_new_br_5: zero<br>spot<br>cinnamon<br>round<br>captain
+bip_39_word_new_br_6: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire
+bip_39_word_new_br_7: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot
+bip_39_word_new_br_8: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject
+bip_39_word_new_br_9: zero<br>spot<br>cinnamon<br>round<br>captain<br>inspire<br>spot<br>reject<br>behave
+bip_39_word_new_line_1: zero
+bip_39_word_new_line_10: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot
+
+  reject
+
+  behave
+
+  razor'
+bip_39_word_new_line_11: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot
+
+  reject
+
+  behave
+
+  razor
+
+  amused'
+bip_39_word_new_line_12: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot
+
+  reject
+
+  behave
+
+  razor
+
+  amused
+
+  acid'
+bip_39_word_new_line_2: 'zero
+
+  spot'
+bip_39_word_new_line_3: 'zero
+
+  spot
+
+  cinnamon'
+bip_39_word_new_line_4: 'zero
+
+  spot
+
+  cinnamon
+
+  round'
+bip_39_word_new_line_5: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain'
+bip_39_word_new_line_6: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire'
+bip_39_word_new_line_7: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot'
+bip_39_word_new_line_8: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot
+
+  reject'
+bip_39_word_new_line_9: 'zero
+
+  spot
+
+  cinnamon
+
+  round
+
+  captain
+
+  inspire
+
+  spot
+
+  reject
+
+  behave'
+bip_39_word_no_space_1: zero
+bip_39_word_no_space_10: zerospotcinnamonroundcaptaininspirespotrejectbehaverazor
+bip_39_word_no_space_11: zerospotcinnamonroundcaptaininspirespotrejectbehaverazoramused
+bip_39_word_no_space_12: zerospotcinnamonroundcaptaininspirespotrejectbehaverazoramusedacid
+bip_39_word_no_space_2: zerospot
+bip_39_word_no_space_3: zerospotcinnamon
+bip_39_word_no_space_4: zerospotcinnamonround
+bip_39_word_no_space_5: zerospotcinnamonroundcaptain
+bip_39_word_no_space_6: zerospotcinnamonroundcaptaininspire
+bip_39_word_no_space_7: zerospotcinnamonroundcaptaininspirespot
+bip_39_word_no_space_8: zerospotcinnamonroundcaptaininspirespotreject
+bip_39_word_no_space_9: zerospotcinnamonroundcaptaininspirespotrejectbehave
+bip_39_word_space_0:
+- zero
+- spot
+- cinnamon
+- round
+- captain
+- inspire
+- spot
+- reject
+- behave
+- razor
+- amused
+- acid
+bip_39_word_space_1: zero
+bip_39_word_space_10: zero spot cinnamon round captain inspire spot reject behave
+  razor
+bip_39_word_space_11: zero spot cinnamon round captain inspire spot reject behave
+  razor amused
+bip_39_word_space_12: zero spot cinnamon round captain inspire spot reject behave
+  razor amused acid
+bip_39_word_space_2: zero spot
+bip_39_word_space_3: zero spot cinnamon
+bip_39_word_space_4: zero spot cinnamon round
+bip_39_word_space_5: zero spot cinnamon round captain
+bip_39_word_space_6: zero spot cinnamon round captain inspire
+bip_39_word_space_7: zero spot cinnamon round captain inspire spot
+bip_39_word_space_8: zero spot cinnamon round captain inspire spot reject
+bip_39_word_space_9: zero spot cinnamon round captain inspire spot reject behave
+bip_39_word_underscore_1: zero
+bip_39_word_underscore_10: zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor
+bip_39_word_underscore_11: zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor_amused
+bip_39_word_underscore_12: zero_spot_cinnamon_round_captain_inspire_spot_reject_behave_razor_amused_acid
+bip_39_word_underscore_2: zero_spot
+bip_39_word_underscore_3: zero_spot_cinnamon
+bip_39_word_underscore_4: zero_spot_cinnamon_round
+bip_39_word_underscore_5: zero_spot_cinnamon_round_captain
+bip_39_word_underscore_6: zero_spot_cinnamon_round_captain_inspire
+bip_39_word_underscore_7: zero_spot_cinnamon_round_captain_inspire_spot
+bip_39_word_underscore_8: zero_spot_cinnamon_round_captain_inspire_spot_reject
+bip_39_word_underscore_9: zero_spot_cinnamon_round_captain_inspire_spot_reject_behave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_08_08_09
 id_no_color: 080809
 id_no_size: 08_08_09
 id_no_type: tray_08_08_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_08_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_08_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_08_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20168a4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20168a4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20168a4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 080809
 name_no_size: 08 08 09
 name_no_size_short: 08 08 09
 name_no_type: Tray 08 08 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_08_09
 oomp_word: angel star blossom
 oomp_word_emoji: ':angel: :star: :blossom:'

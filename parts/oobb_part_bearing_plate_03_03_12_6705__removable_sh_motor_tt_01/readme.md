@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Plate 03 03 12 6705  Removable Sh Motor Tt 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_plate_03_03_12_6705__removable_sh_motor_tt_01
   * classification: oobb

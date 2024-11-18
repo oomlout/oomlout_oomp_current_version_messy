@@ -1,3 +1,222 @@
+bip_39_word_dash_1: north
+bip_39_word_dash_10: north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host
+bip_39_word_dash_11: north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host-stick
+bip_39_word_dash_12: north-diet-coin-dignity-cross-oil-skull-hospital-tuition-host-stick-alpha
+bip_39_word_dash_2: north-diet
+bip_39_word_dash_3: north-diet-coin
+bip_39_word_dash_4: north-diet-coin-dignity
+bip_39_word_dash_5: north-diet-coin-dignity-cross
+bip_39_word_dash_6: north-diet-coin-dignity-cross-oil
+bip_39_word_dash_7: north-diet-coin-dignity-cross-oil-skull
+bip_39_word_dash_8: north-diet-coin-dignity-cross-oil-skull-hospital
+bip_39_word_dash_9: north-diet-coin-dignity-cross-oil-skull-hospital-tuition
+bip_39_word_new_br_1: north
+bip_39_word_new_br_10: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host
+bip_39_word_new_br_11: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host<br>stick
+bip_39_word_new_br_12: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition<br>host<br>stick<br>alpha
+bip_39_word_new_br_2: north<br>diet
+bip_39_word_new_br_3: north<br>diet<br>coin
+bip_39_word_new_br_4: north<br>diet<br>coin<br>dignity
+bip_39_word_new_br_5: north<br>diet<br>coin<br>dignity<br>cross
+bip_39_word_new_br_6: north<br>diet<br>coin<br>dignity<br>cross<br>oil
+bip_39_word_new_br_7: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull
+bip_39_word_new_br_8: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital
+bip_39_word_new_br_9: north<br>diet<br>coin<br>dignity<br>cross<br>oil<br>skull<br>hospital<br>tuition
+bip_39_word_new_line_1: north
+bip_39_word_new_line_10: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull
+
+  hospital
+
+  tuition
+
+  host'
+bip_39_word_new_line_11: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull
+
+  hospital
+
+  tuition
+
+  host
+
+  stick'
+bip_39_word_new_line_12: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull
+
+  hospital
+
+  tuition
+
+  host
+
+  stick
+
+  alpha'
+bip_39_word_new_line_2: 'north
+
+  diet'
+bip_39_word_new_line_3: 'north
+
+  diet
+
+  coin'
+bip_39_word_new_line_4: 'north
+
+  diet
+
+  coin
+
+  dignity'
+bip_39_word_new_line_5: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross'
+bip_39_word_new_line_6: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil'
+bip_39_word_new_line_7: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull'
+bip_39_word_new_line_8: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull
+
+  hospital'
+bip_39_word_new_line_9: 'north
+
+  diet
+
+  coin
+
+  dignity
+
+  cross
+
+  oil
+
+  skull
+
+  hospital
+
+  tuition'
+bip_39_word_no_space_1: north
+bip_39_word_no_space_10: northdietcoindignitycrossoilskullhospitaltuitionhost
+bip_39_word_no_space_11: northdietcoindignitycrossoilskullhospitaltuitionhoststick
+bip_39_word_no_space_12: northdietcoindignitycrossoilskullhospitaltuitionhoststickalpha
+bip_39_word_no_space_2: northdiet
+bip_39_word_no_space_3: northdietcoin
+bip_39_word_no_space_4: northdietcoindignity
+bip_39_word_no_space_5: northdietcoindignitycross
+bip_39_word_no_space_6: northdietcoindignitycrossoil
+bip_39_word_no_space_7: northdietcoindignitycrossoilskull
+bip_39_word_no_space_8: northdietcoindignitycrossoilskullhospital
+bip_39_word_no_space_9: northdietcoindignitycrossoilskullhospitaltuition
+bip_39_word_space_0:
+- north
+- diet
+- coin
+- dignity
+- cross
+- oil
+- skull
+- hospital
+- tuition
+- host
+- stick
+- alpha
+bip_39_word_space_1: north
+bip_39_word_space_10: north diet coin dignity cross oil skull hospital tuition host
+bip_39_word_space_11: north diet coin dignity cross oil skull hospital tuition host
+  stick
+bip_39_word_space_12: north diet coin dignity cross oil skull hospital tuition host
+  stick alpha
+bip_39_word_space_2: north diet
+bip_39_word_space_3: north diet coin
+bip_39_word_space_4: north diet coin dignity
+bip_39_word_space_5: north diet coin dignity cross
+bip_39_word_space_6: north diet coin dignity cross oil
+bip_39_word_space_7: north diet coin dignity cross oil skull
+bip_39_word_space_8: north diet coin dignity cross oil skull hospital
+bip_39_word_space_9: north diet coin dignity cross oil skull hospital tuition
+bip_39_word_underscore_1: north
+bip_39_word_underscore_10: north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host
+bip_39_word_underscore_11: north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host_stick
+bip_39_word_underscore_12: north_diet_coin_dignity_cross_oil_skull_hospital_tuition_host_stick_alpha
+bip_39_word_underscore_2: north_diet
+bip_39_word_underscore_3: north_diet_coin
+bip_39_word_underscore_4: north_diet_coin_dignity
+bip_39_word_underscore_5: north_diet_coin_dignity_cross
+bip_39_word_underscore_6: north_diet_coin_dignity_cross_oil
+bip_39_word_underscore_7: north_diet_coin_dignity_cross_oil_skull
+bip_39_word_underscore_8: north_diet_coin_dignity_cross_oil_skull_hospital
+bip_39_word_underscore_9: north_diet_coin_dignity_cross_oil_skull_hospital_tuition
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bolt_hardware_bolt_m5_06
 id_no_color: hardwarem506
 id_no_size: hardware_m5_06
 id_no_type: bolt_hardware_bolt_m5_06
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_06
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_06
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_06
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204fo0r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204fo0r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204fo0r
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem506
 name_no_size: Hardware M5 06
 name_no_size_short: Hardware M5 06
 name_no_type: Bolt Hardware Bolt M5 06
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_06
 oomp_word: bamboo boot rooster
 oomp_word_emoji: ':bamboo: :boot: :rooster:'

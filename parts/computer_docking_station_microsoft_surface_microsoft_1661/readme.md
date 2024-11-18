@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Docking Station Microsoft Surface Microsoft 1661
+* name_short: 
 ### id
 * oomp_id: computer_docking_station_microsoft_surface_microsoft_1661
   * classification: computer

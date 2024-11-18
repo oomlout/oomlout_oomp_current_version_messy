@@ -1,3 +1,222 @@
+bip_39_word_dash_1: together
+bip_39_word_dash_10: together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop
+bip_39_word_dash_11: together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop-illness
+bip_39_word_dash_12: together-elbow-card-sunset-once-ostrich-hip-ribbon-neck-loop-illness-author
+bip_39_word_dash_2: together-elbow
+bip_39_word_dash_3: together-elbow-card
+bip_39_word_dash_4: together-elbow-card-sunset
+bip_39_word_dash_5: together-elbow-card-sunset-once
+bip_39_word_dash_6: together-elbow-card-sunset-once-ostrich
+bip_39_word_dash_7: together-elbow-card-sunset-once-ostrich-hip
+bip_39_word_dash_8: together-elbow-card-sunset-once-ostrich-hip-ribbon
+bip_39_word_dash_9: together-elbow-card-sunset-once-ostrich-hip-ribbon-neck
+bip_39_word_new_br_1: together
+bip_39_word_new_br_10: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop
+bip_39_word_new_br_11: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop<br>illness
+bip_39_word_new_br_12: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck<br>loop<br>illness<br>author
+bip_39_word_new_br_2: together<br>elbow
+bip_39_word_new_br_3: together<br>elbow<br>card
+bip_39_word_new_br_4: together<br>elbow<br>card<br>sunset
+bip_39_word_new_br_5: together<br>elbow<br>card<br>sunset<br>once
+bip_39_word_new_br_6: together<br>elbow<br>card<br>sunset<br>once<br>ostrich
+bip_39_word_new_br_7: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip
+bip_39_word_new_br_8: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon
+bip_39_word_new_br_9: together<br>elbow<br>card<br>sunset<br>once<br>ostrich<br>hip<br>ribbon<br>neck
+bip_39_word_new_line_1: together
+bip_39_word_new_line_10: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop'
+bip_39_word_new_line_11: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop
+
+  illness'
+bip_39_word_new_line_12: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck
+
+  loop
+
+  illness
+
+  author'
+bip_39_word_new_line_2: 'together
+
+  elbow'
+bip_39_word_new_line_3: 'together
+
+  elbow
+
+  card'
+bip_39_word_new_line_4: 'together
+
+  elbow
+
+  card
+
+  sunset'
+bip_39_word_new_line_5: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once'
+bip_39_word_new_line_6: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich'
+bip_39_word_new_line_7: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip'
+bip_39_word_new_line_8: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon'
+bip_39_word_new_line_9: 'together
+
+  elbow
+
+  card
+
+  sunset
+
+  once
+
+  ostrich
+
+  hip
+
+  ribbon
+
+  neck'
+bip_39_word_no_space_1: together
+bip_39_word_no_space_10: togetherelbowcardsunsetonceostrichhipribbonneckloop
+bip_39_word_no_space_11: togetherelbowcardsunsetonceostrichhipribbonneckloopillness
+bip_39_word_no_space_12: togetherelbowcardsunsetonceostrichhipribbonneckloopillnessauthor
+bip_39_word_no_space_2: togetherelbow
+bip_39_word_no_space_3: togetherelbowcard
+bip_39_word_no_space_4: togetherelbowcardsunset
+bip_39_word_no_space_5: togetherelbowcardsunsetonce
+bip_39_word_no_space_6: togetherelbowcardsunsetonceostrich
+bip_39_word_no_space_7: togetherelbowcardsunsetonceostrichhip
+bip_39_word_no_space_8: togetherelbowcardsunsetonceostrichhipribbon
+bip_39_word_no_space_9: togetherelbowcardsunsetonceostrichhipribbonneck
+bip_39_word_space_0:
+- together
+- elbow
+- card
+- sunset
+- once
+- ostrich
+- hip
+- ribbon
+- neck
+- loop
+- illness
+- author
+bip_39_word_space_1: together
+bip_39_word_space_10: together elbow card sunset once ostrich hip ribbon neck loop
+bip_39_word_space_11: together elbow card sunset once ostrich hip ribbon neck loop
+  illness
+bip_39_word_space_12: together elbow card sunset once ostrich hip ribbon neck loop
+  illness author
+bip_39_word_space_2: together elbow
+bip_39_word_space_3: together elbow card
+bip_39_word_space_4: together elbow card sunset
+bip_39_word_space_5: together elbow card sunset once
+bip_39_word_space_6: together elbow card sunset once ostrich
+bip_39_word_space_7: together elbow card sunset once ostrich hip
+bip_39_word_space_8: together elbow card sunset once ostrich hip ribbon
+bip_39_word_space_9: together elbow card sunset once ostrich hip ribbon neck
+bip_39_word_underscore_1: together
+bip_39_word_underscore_10: together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop
+bip_39_word_underscore_11: together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop_illness
+bip_39_word_underscore_12: together_elbow_card_sunset_once_ostrich_hip_ribbon_neck_loop_illness_author
+bip_39_word_underscore_2: together_elbow
+bip_39_word_underscore_3: together_elbow_card
+bip_39_word_underscore_4: together_elbow_card_sunset
+bip_39_word_underscore_5: together_elbow_card_sunset_once
+bip_39_word_underscore_6: together_elbow_card_sunset_once_ostrich
+bip_39_word_underscore_7: together_elbow_card_sunset_once_ostrich_hip
+bip_39_word_underscore_8: together_elbow_card_sunset_once_ostrich_hip_ribbon
+bip_39_word_underscore_9: together_elbow_card_sunset_once_ostrich_hip_ribbon_neck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_07_01__k
 id_no_color: 0701k
 id_no_size: 07_01__k
 id_no_type: bunting_alphabet_07_01__k
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__k
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__k
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__k
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209msf4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209msf4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209msf4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0701K
 name_no_size: 07 01  K
 name_no_size_short: 07 01  K
 name_no_type: Bunting Alphabet 07 01  K
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__k
 oomp_word: five sailboat poodle
 oomp_word_emoji: ':five: :sailboat: :poodle:'

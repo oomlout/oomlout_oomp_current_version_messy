@@ -1,3 +1,223 @@
+bip_39_word_dash_1: neglect
+bip_39_word_dash_10: neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket
+bip_39_word_dash_11: neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket-remind
+bip_39_word_dash_12: neglect-library-burden-turkey-gold-subway-twelve-toward-runway-cricket-remind-among
+bip_39_word_dash_2: neglect-library
+bip_39_word_dash_3: neglect-library-burden
+bip_39_word_dash_4: neglect-library-burden-turkey
+bip_39_word_dash_5: neglect-library-burden-turkey-gold
+bip_39_word_dash_6: neglect-library-burden-turkey-gold-subway
+bip_39_word_dash_7: neglect-library-burden-turkey-gold-subway-twelve
+bip_39_word_dash_8: neglect-library-burden-turkey-gold-subway-twelve-toward
+bip_39_word_dash_9: neglect-library-burden-turkey-gold-subway-twelve-toward-runway
+bip_39_word_new_br_1: neglect
+bip_39_word_new_br_10: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket
+bip_39_word_new_br_11: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind
+bip_39_word_new_br_12: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway<br>cricket<br>remind<br>among
+bip_39_word_new_br_2: neglect<br>library
+bip_39_word_new_br_3: neglect<br>library<br>burden
+bip_39_word_new_br_4: neglect<br>library<br>burden<br>turkey
+bip_39_word_new_br_5: neglect<br>library<br>burden<br>turkey<br>gold
+bip_39_word_new_br_6: neglect<br>library<br>burden<br>turkey<br>gold<br>subway
+bip_39_word_new_br_7: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve
+bip_39_word_new_br_8: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward
+bip_39_word_new_br_9: neglect<br>library<br>burden<br>turkey<br>gold<br>subway<br>twelve<br>toward<br>runway
+bip_39_word_new_line_1: neglect
+bip_39_word_new_line_10: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve
+
+  toward
+
+  runway
+
+  cricket'
+bip_39_word_new_line_11: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve
+
+  toward
+
+  runway
+
+  cricket
+
+  remind'
+bip_39_word_new_line_12: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve
+
+  toward
+
+  runway
+
+  cricket
+
+  remind
+
+  among'
+bip_39_word_new_line_2: 'neglect
+
+  library'
+bip_39_word_new_line_3: 'neglect
+
+  library
+
+  burden'
+bip_39_word_new_line_4: 'neglect
+
+  library
+
+  burden
+
+  turkey'
+bip_39_word_new_line_5: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold'
+bip_39_word_new_line_6: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway'
+bip_39_word_new_line_7: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve'
+bip_39_word_new_line_8: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve
+
+  toward'
+bip_39_word_new_line_9: 'neglect
+
+  library
+
+  burden
+
+  turkey
+
+  gold
+
+  subway
+
+  twelve
+
+  toward
+
+  runway'
+bip_39_word_no_space_1: neglect
+bip_39_word_no_space_10: neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricket
+bip_39_word_no_space_11: neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricketremind
+bip_39_word_no_space_12: neglectlibraryburdenturkeygoldsubwaytwelvetowardrunwaycricketremindamong
+bip_39_word_no_space_2: neglectlibrary
+bip_39_word_no_space_3: neglectlibraryburden
+bip_39_word_no_space_4: neglectlibraryburdenturkey
+bip_39_word_no_space_5: neglectlibraryburdenturkeygold
+bip_39_word_no_space_6: neglectlibraryburdenturkeygoldsubway
+bip_39_word_no_space_7: neglectlibraryburdenturkeygoldsubwaytwelve
+bip_39_word_no_space_8: neglectlibraryburdenturkeygoldsubwaytwelvetoward
+bip_39_word_no_space_9: neglectlibraryburdenturkeygoldsubwaytwelvetowardrunway
+bip_39_word_space_0:
+- neglect
+- library
+- burden
+- turkey
+- gold
+- subway
+- twelve
+- toward
+- runway
+- cricket
+- remind
+- among
+bip_39_word_space_1: neglect
+bip_39_word_space_10: neglect library burden turkey gold subway twelve toward runway
+  cricket
+bip_39_word_space_11: neglect library burden turkey gold subway twelve toward runway
+  cricket remind
+bip_39_word_space_12: neglect library burden turkey gold subway twelve toward runway
+  cricket remind among
+bip_39_word_space_2: neglect library
+bip_39_word_space_3: neglect library burden
+bip_39_word_space_4: neglect library burden turkey
+bip_39_word_space_5: neglect library burden turkey gold
+bip_39_word_space_6: neglect library burden turkey gold subway
+bip_39_word_space_7: neglect library burden turkey gold subway twelve
+bip_39_word_space_8: neglect library burden turkey gold subway twelve toward
+bip_39_word_space_9: neglect library burden turkey gold subway twelve toward runway
+bip_39_word_underscore_1: neglect
+bip_39_word_underscore_10: neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket
+bip_39_word_underscore_11: neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket_remind
+bip_39_word_underscore_12: neglect_library_burden_turkey_gold_subway_twelve_toward_runway_cricket_remind_among
+bip_39_word_underscore_2: neglect_library
+bip_39_word_underscore_3: neglect_library_burden
+bip_39_word_underscore_4: neglect_library_burden_turkey
+bip_39_word_underscore_5: neglect_library_burden_turkey_gold
+bip_39_word_underscore_6: neglect_library_burden_turkey_gold_subway
+bip_39_word_underscore_7: neglect_library_burden_turkey_gold_subway_twelve
+bip_39_word_underscore_8: neglect_library_burden_turkey_gold_subway_twelve_toward
+bip_39_word_underscore_9: neglect_library_burden_turkey_gold_subway_twelve_toward_runway
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_screw_countersunk_hardware_screw_countersunk_m3_12
 id_no_color: hardwarem312
 id_no_size: hardware_m3_12
 id_no_type: screw_countersunk_hardware_screw_countersunk_m3_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_countersunk_hardware_screw_countersunk_m3_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204yzd8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204yzd8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204yzd8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem312
 name_no_size: Hardware M3 12
 name_no_size_short: Hardware M3 12
 name_no_type: Screw Countersunk Hardware Screw Countersunk M3 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_12
 oomp_word: speaker chestnut pill
 oomp_word_emoji: ':speaker: :chestnut: :pill:'

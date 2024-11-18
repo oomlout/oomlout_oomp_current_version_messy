@@ -1,3 +1,221 @@
+bip_39_word_dash_1: lawn
+bip_39_word_dash_10: lawn-drum-kid-dash-say-super-donor-maze-together-idle
+bip_39_word_dash_11: lawn-drum-kid-dash-say-super-donor-maze-together-idle-quarter
+bip_39_word_dash_12: lawn-drum-kid-dash-say-super-donor-maze-together-idle-quarter-action
+bip_39_word_dash_2: lawn-drum
+bip_39_word_dash_3: lawn-drum-kid
+bip_39_word_dash_4: lawn-drum-kid-dash
+bip_39_word_dash_5: lawn-drum-kid-dash-say
+bip_39_word_dash_6: lawn-drum-kid-dash-say-super
+bip_39_word_dash_7: lawn-drum-kid-dash-say-super-donor
+bip_39_word_dash_8: lawn-drum-kid-dash-say-super-donor-maze
+bip_39_word_dash_9: lawn-drum-kid-dash-say-super-donor-maze-together
+bip_39_word_new_br_1: lawn
+bip_39_word_new_br_10: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle
+bip_39_word_new_br_11: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle<br>quarter
+bip_39_word_new_br_12: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together<br>idle<br>quarter<br>action
+bip_39_word_new_br_2: lawn<br>drum
+bip_39_word_new_br_3: lawn<br>drum<br>kid
+bip_39_word_new_br_4: lawn<br>drum<br>kid<br>dash
+bip_39_word_new_br_5: lawn<br>drum<br>kid<br>dash<br>say
+bip_39_word_new_br_6: lawn<br>drum<br>kid<br>dash<br>say<br>super
+bip_39_word_new_br_7: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor
+bip_39_word_new_br_8: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze
+bip_39_word_new_br_9: lawn<br>drum<br>kid<br>dash<br>say<br>super<br>donor<br>maze<br>together
+bip_39_word_new_line_1: lawn
+bip_39_word_new_line_10: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle'
+bip_39_word_new_line_11: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle
+
+  quarter'
+bip_39_word_new_line_12: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together
+
+  idle
+
+  quarter
+
+  action'
+bip_39_word_new_line_2: 'lawn
+
+  drum'
+bip_39_word_new_line_3: 'lawn
+
+  drum
+
+  kid'
+bip_39_word_new_line_4: 'lawn
+
+  drum
+
+  kid
+
+  dash'
+bip_39_word_new_line_5: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say'
+bip_39_word_new_line_6: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super'
+bip_39_word_new_line_7: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor'
+bip_39_word_new_line_8: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze'
+bip_39_word_new_line_9: 'lawn
+
+  drum
+
+  kid
+
+  dash
+
+  say
+
+  super
+
+  donor
+
+  maze
+
+  together'
+bip_39_word_no_space_1: lawn
+bip_39_word_no_space_10: lawndrumkiddashsaysuperdonormazetogetheridle
+bip_39_word_no_space_11: lawndrumkiddashsaysuperdonormazetogetheridlequarter
+bip_39_word_no_space_12: lawndrumkiddashsaysuperdonormazetogetheridlequarteraction
+bip_39_word_no_space_2: lawndrum
+bip_39_word_no_space_3: lawndrumkid
+bip_39_word_no_space_4: lawndrumkiddash
+bip_39_word_no_space_5: lawndrumkiddashsay
+bip_39_word_no_space_6: lawndrumkiddashsaysuper
+bip_39_word_no_space_7: lawndrumkiddashsaysuperdonor
+bip_39_word_no_space_8: lawndrumkiddashsaysuperdonormaze
+bip_39_word_no_space_9: lawndrumkiddashsaysuperdonormazetogether
+bip_39_word_space_0:
+- lawn
+- drum
+- kid
+- dash
+- say
+- super
+- donor
+- maze
+- together
+- idle
+- quarter
+- action
+bip_39_word_space_1: lawn
+bip_39_word_space_10: lawn drum kid dash say super donor maze together idle
+bip_39_word_space_11: lawn drum kid dash say super donor maze together idle quarter
+bip_39_word_space_12: lawn drum kid dash say super donor maze together idle quarter
+  action
+bip_39_word_space_2: lawn drum
+bip_39_word_space_3: lawn drum kid
+bip_39_word_space_4: lawn drum kid dash
+bip_39_word_space_5: lawn drum kid dash say
+bip_39_word_space_6: lawn drum kid dash say super
+bip_39_word_space_7: lawn drum kid dash say super donor
+bip_39_word_space_8: lawn drum kid dash say super donor maze
+bip_39_word_space_9: lawn drum kid dash say super donor maze together
+bip_39_word_underscore_1: lawn
+bip_39_word_underscore_10: lawn_drum_kid_dash_say_super_donor_maze_together_idle
+bip_39_word_underscore_11: lawn_drum_kid_dash_say_super_donor_maze_together_idle_quarter
+bip_39_word_underscore_12: lawn_drum_kid_dash_say_super_donor_maze_together_idle_quarter_action
+bip_39_word_underscore_2: lawn_drum
+bip_39_word_underscore_3: lawn_drum_kid
+bip_39_word_underscore_4: lawn_drum_kid_dash
+bip_39_word_underscore_5: lawn_drum_kid_dash_say
+bip_39_word_underscore_6: lawn_drum_kid_dash_say_super
+bip_39_word_underscore_7: lawn_drum_kid_dash_say_super_donor
+bip_39_word_underscore_8: lawn_drum_kid_dash_say_super_donor_maze
+bip_39_word_underscore_9: lawn_drum_kid_dash_say_super_donor_maze_together
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_1d5_01_24
 id_no_color: 1d50124
 id_no_size: 1d5_01_24
 id_no_type: tray_1d5_01_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_01_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_01_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_01_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201m40s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201m40s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201m40s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 1D50124
 name_no_size: 1D5 01 24
 name_no_size_short: 1D5 01 24
 name_no_type: Tray 1D5 01 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_01_24
 oomp_word: sunny crocodile factory
 oomp_word_emoji: ':sunny: :crocodile: :factory:'

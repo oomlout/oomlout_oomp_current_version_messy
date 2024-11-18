@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_granulated_golden
 
+### name
+* name: Food Baking Sugar Granulated
+* name_short: Sugar Golden Granulated Coffee
 ### id
 * oomp_id: food_baking_sugar_granulated
   * classification: food

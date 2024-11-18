@@ -1,3 +1,223 @@
+bip_39_word_dash_1: blanket
+bip_39_word_dash_10: blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely
+bip_39_word_dash_11: blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely-orbit
+bip_39_word_dash_12: blanket-lady-pill-actress-retire-lobster-adult-cushion-quick-rely-orbit-armor
+bip_39_word_dash_2: blanket-lady
+bip_39_word_dash_3: blanket-lady-pill
+bip_39_word_dash_4: blanket-lady-pill-actress
+bip_39_word_dash_5: blanket-lady-pill-actress-retire
+bip_39_word_dash_6: blanket-lady-pill-actress-retire-lobster
+bip_39_word_dash_7: blanket-lady-pill-actress-retire-lobster-adult
+bip_39_word_dash_8: blanket-lady-pill-actress-retire-lobster-adult-cushion
+bip_39_word_dash_9: blanket-lady-pill-actress-retire-lobster-adult-cushion-quick
+bip_39_word_new_br_1: blanket
+bip_39_word_new_br_10: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely
+bip_39_word_new_br_11: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit
+bip_39_word_new_br_12: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick<br>rely<br>orbit<br>armor
+bip_39_word_new_br_2: blanket<br>lady
+bip_39_word_new_br_3: blanket<br>lady<br>pill
+bip_39_word_new_br_4: blanket<br>lady<br>pill<br>actress
+bip_39_word_new_br_5: blanket<br>lady<br>pill<br>actress<br>retire
+bip_39_word_new_br_6: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster
+bip_39_word_new_br_7: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult
+bip_39_word_new_br_8: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion
+bip_39_word_new_br_9: blanket<br>lady<br>pill<br>actress<br>retire<br>lobster<br>adult<br>cushion<br>quick
+bip_39_word_new_line_1: blanket
+bip_39_word_new_line_10: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult
+
+  cushion
+
+  quick
+
+  rely'
+bip_39_word_new_line_11: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult
+
+  cushion
+
+  quick
+
+  rely
+
+  orbit'
+bip_39_word_new_line_12: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult
+
+  cushion
+
+  quick
+
+  rely
+
+  orbit
+
+  armor'
+bip_39_word_new_line_2: 'blanket
+
+  lady'
+bip_39_word_new_line_3: 'blanket
+
+  lady
+
+  pill'
+bip_39_word_new_line_4: 'blanket
+
+  lady
+
+  pill
+
+  actress'
+bip_39_word_new_line_5: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire'
+bip_39_word_new_line_6: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster'
+bip_39_word_new_line_7: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult'
+bip_39_word_new_line_8: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult
+
+  cushion'
+bip_39_word_new_line_9: 'blanket
+
+  lady
+
+  pill
+
+  actress
+
+  retire
+
+  lobster
+
+  adult
+
+  cushion
+
+  quick'
+bip_39_word_no_space_1: blanket
+bip_39_word_no_space_10: blanketladypillactressretirelobsteradultcushionquickrely
+bip_39_word_no_space_11: blanketladypillactressretirelobsteradultcushionquickrelyorbit
+bip_39_word_no_space_12: blanketladypillactressretirelobsteradultcushionquickrelyorbitarmor
+bip_39_word_no_space_2: blanketlady
+bip_39_word_no_space_3: blanketladypill
+bip_39_word_no_space_4: blanketladypillactress
+bip_39_word_no_space_5: blanketladypillactressretire
+bip_39_word_no_space_6: blanketladypillactressretirelobster
+bip_39_word_no_space_7: blanketladypillactressretirelobsteradult
+bip_39_word_no_space_8: blanketladypillactressretirelobsteradultcushion
+bip_39_word_no_space_9: blanketladypillactressretirelobsteradultcushionquick
+bip_39_word_space_0:
+- blanket
+- lady
+- pill
+- actress
+- retire
+- lobster
+- adult
+- cushion
+- quick
+- rely
+- orbit
+- armor
+bip_39_word_space_1: blanket
+bip_39_word_space_10: blanket lady pill actress retire lobster adult cushion quick
+  rely
+bip_39_word_space_11: blanket lady pill actress retire lobster adult cushion quick
+  rely orbit
+bip_39_word_space_12: blanket lady pill actress retire lobster adult cushion quick
+  rely orbit armor
+bip_39_word_space_2: blanket lady
+bip_39_word_space_3: blanket lady pill
+bip_39_word_space_4: blanket lady pill actress
+bip_39_word_space_5: blanket lady pill actress retire
+bip_39_word_space_6: blanket lady pill actress retire lobster
+bip_39_word_space_7: blanket lady pill actress retire lobster adult
+bip_39_word_space_8: blanket lady pill actress retire lobster adult cushion
+bip_39_word_space_9: blanket lady pill actress retire lobster adult cushion quick
+bip_39_word_underscore_1: blanket
+bip_39_word_underscore_10: blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely
+bip_39_word_underscore_11: blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely_orbit
+bip_39_word_underscore_12: blanket_lady_pill_actress_retire_lobster_adult_cushion_quick_rely_orbit_armor
+bip_39_word_underscore_2: blanket_lady
+bip_39_word_underscore_3: blanket_lady_pill
+bip_39_word_underscore_4: blanket_lady_pill_actress
+bip_39_word_underscore_5: blanket_lady_pill_actress_retire
+bip_39_word_underscore_6: blanket_lady_pill_actress_retire_lobster
+bip_39_word_underscore_7: blanket_lady_pill_actress_retire_lobster_adult
+bip_39_word_underscore_8: blanket_lady_pill_actress_retire_lobster_adult_cushion
+bip_39_word_underscore_9: blanket_lady_pill_actress_retire_lobster_adult_cushion_quick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
 id_no_color: 010920teethshelectronicpotentiometer17mm
 id_no_size: 01_09__20_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207glil
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207glil
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207glil
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010920Teethshelectronicpotentiometer17mm
 name_no_size: 01 09  20 Teeth Sh Electronic Potentiometer 17 mm
 name_no_size_short: 01 09  20 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Pulley Gt2 01 09  20 Teeth Sh Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__20_teeth_sh_electronic_potentiometer_17_mm
 oomp_word: egg wolf bus
 oomp_word_emoji: ':egg: :wolf: :bus:'

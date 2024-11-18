@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6906 Size 30 mm ID 47 mm OD 9 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6906_size_30_mm_id_47_mm_od_9_mm_depth
   * classification: hardware

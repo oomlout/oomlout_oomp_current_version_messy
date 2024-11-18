@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 14 10 18
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_14_10_18
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :beetle: :watermelon: :lock:
 * md5_6_alpha: 35htv
 * md5_6: 50cc83
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2035htv)
+[2x1](http://192.168.1.242:1112/?label=oomp%2035htv)
+[6x4](http://192.168.1.55:1112/?label=oomp%2035htv)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_10_18) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_14_10_18)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ anxiety |
 | id_no_color | 141018 |  
 | id_no_size | 14_10_18 |  
 | id_no_type | tray_vertical_14_10_18 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_10_18 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_14_10_18 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_14_10_18 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2035htv |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2035htv |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2035htv |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ anxiety |
 | name_no_size | 14 10 18 |  
 | name_no_size_short | 14 10 18 |  
 | name_no_type | Tray Vertical 14 10 18 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_14_10_18 |  
 | oomp_word | beetle watermelon lock |  
 | oomp_word_emoji | :beetle: :watermelon: :lock: |  

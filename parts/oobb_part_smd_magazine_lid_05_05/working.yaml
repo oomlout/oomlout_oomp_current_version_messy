@@ -1,3 +1,222 @@
+bip_39_word_dash_1: leisure
+bip_39_word_dash_10: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle
+bip_39_word_dash_11: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle-exile
+bip_39_word_dash_12: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop-aisle-exile-addict
+bip_39_word_dash_2: leisure-evoke
+bip_39_word_dash_3: leisure-evoke-broken
+bip_39_word_dash_4: leisure-evoke-broken-faint
+bip_39_word_dash_5: leisure-evoke-broken-faint-flee
+bip_39_word_dash_6: leisure-evoke-broken-faint-flee-soft
+bip_39_word_dash_7: leisure-evoke-broken-faint-flee-soft-cradle
+bip_39_word_dash_8: leisure-evoke-broken-faint-flee-soft-cradle-credit
+bip_39_word_dash_9: leisure-evoke-broken-faint-flee-soft-cradle-credit-develop
+bip_39_word_new_br_1: leisure
+bip_39_word_new_br_10: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle
+bip_39_word_new_br_11: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle<br>exile
+bip_39_word_new_br_12: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop<br>aisle<br>exile<br>addict
+bip_39_word_new_br_2: leisure<br>evoke
+bip_39_word_new_br_3: leisure<br>evoke<br>broken
+bip_39_word_new_br_4: leisure<br>evoke<br>broken<br>faint
+bip_39_word_new_br_5: leisure<br>evoke<br>broken<br>faint<br>flee
+bip_39_word_new_br_6: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft
+bip_39_word_new_br_7: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle
+bip_39_word_new_br_8: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit
+bip_39_word_new_br_9: leisure<br>evoke<br>broken<br>faint<br>flee<br>soft<br>cradle<br>credit<br>develop
+bip_39_word_new_line_1: leisure
+bip_39_word_new_line_10: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle'
+bip_39_word_new_line_11: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle
+
+  exile'
+bip_39_word_new_line_12: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop
+
+  aisle
+
+  exile
+
+  addict'
+bip_39_word_new_line_2: 'leisure
+
+  evoke'
+bip_39_word_new_line_3: 'leisure
+
+  evoke
+
+  broken'
+bip_39_word_new_line_4: 'leisure
+
+  evoke
+
+  broken
+
+  faint'
+bip_39_word_new_line_5: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee'
+bip_39_word_new_line_6: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft'
+bip_39_word_new_line_7: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle'
+bip_39_word_new_line_8: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit'
+bip_39_word_new_line_9: 'leisure
+
+  evoke
+
+  broken
+
+  faint
+
+  flee
+
+  soft
+
+  cradle
+
+  credit
+
+  develop'
+bip_39_word_no_space_1: leisure
+bip_39_word_no_space_10: leisureevokebrokenfaintfleesoftcradlecreditdevelopaisle
+bip_39_word_no_space_11: leisureevokebrokenfaintfleesoftcradlecreditdevelopaisleexile
+bip_39_word_no_space_12: leisureevokebrokenfaintfleesoftcradlecreditdevelopaisleexileaddict
+bip_39_word_no_space_2: leisureevoke
+bip_39_word_no_space_3: leisureevokebroken
+bip_39_word_no_space_4: leisureevokebrokenfaint
+bip_39_word_no_space_5: leisureevokebrokenfaintflee
+bip_39_word_no_space_6: leisureevokebrokenfaintfleesoft
+bip_39_word_no_space_7: leisureevokebrokenfaintfleesoftcradle
+bip_39_word_no_space_8: leisureevokebrokenfaintfleesoftcradlecredit
+bip_39_word_no_space_9: leisureevokebrokenfaintfleesoftcradlecreditdevelop
+bip_39_word_space_0:
+- leisure
+- evoke
+- broken
+- faint
+- flee
+- soft
+- cradle
+- credit
+- develop
+- aisle
+- exile
+- addict
+bip_39_word_space_1: leisure
+bip_39_word_space_10: leisure evoke broken faint flee soft cradle credit develop aisle
+bip_39_word_space_11: leisure evoke broken faint flee soft cradle credit develop aisle
+  exile
+bip_39_word_space_12: leisure evoke broken faint flee soft cradle credit develop aisle
+  exile addict
+bip_39_word_space_2: leisure evoke
+bip_39_word_space_3: leisure evoke broken
+bip_39_word_space_4: leisure evoke broken faint
+bip_39_word_space_5: leisure evoke broken faint flee
+bip_39_word_space_6: leisure evoke broken faint flee soft
+bip_39_word_space_7: leisure evoke broken faint flee soft cradle
+bip_39_word_space_8: leisure evoke broken faint flee soft cradle credit
+bip_39_word_space_9: leisure evoke broken faint flee soft cradle credit develop
+bip_39_word_underscore_1: leisure
+bip_39_word_underscore_10: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle
+bip_39_word_underscore_11: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle_exile
+bip_39_word_underscore_12: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop_aisle_exile_addict
+bip_39_word_underscore_2: leisure_evoke
+bip_39_word_underscore_3: leisure_evoke_broken
+bip_39_word_underscore_4: leisure_evoke_broken_faint
+bip_39_word_underscore_5: leisure_evoke_broken_faint_flee
+bip_39_word_underscore_6: leisure_evoke_broken_faint_flee_soft
+bip_39_word_underscore_7: leisure_evoke_broken_faint_flee_soft_cradle
+bip_39_word_underscore_8: leisure_evoke_broken_faint_flee_soft_cradle_credit
+bip_39_word_underscore_9: leisure_evoke_broken_faint_flee_soft_cradle_credit_develop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_smd_magazine_lid_05_05
 id_no_color: '0505'
 id_no_size: '05_05'
 id_no_type: smd_magazine_lid_05_05
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_05_05
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_05_05
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_05_05
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2021wzl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2021wzl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2021wzl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '0505'
 name_no_size: 05 05
 name_no_size_short: 05 05
 name_no_type: SMD Magazine Lid 05 05
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_lid_05_05
 oomp_word: mouse diamonds camel
 oomp_word_emoji: ':mouse: :diamonds: :camel:'

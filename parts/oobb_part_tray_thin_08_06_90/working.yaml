@@ -1,3 +1,222 @@
+bip_39_word_dash_1: harsh
+bip_39_word_dash_10: harsh-when-segment-finger-wise-enter-just-speed-absorb-border
+bip_39_word_dash_11: harsh-when-segment-finger-wise-enter-just-speed-absorb-border-tilt
+bip_39_word_dash_12: harsh-when-segment-finger-wise-enter-just-speed-absorb-border-tilt-always
+bip_39_word_dash_2: harsh-when
+bip_39_word_dash_3: harsh-when-segment
+bip_39_word_dash_4: harsh-when-segment-finger
+bip_39_word_dash_5: harsh-when-segment-finger-wise
+bip_39_word_dash_6: harsh-when-segment-finger-wise-enter
+bip_39_word_dash_7: harsh-when-segment-finger-wise-enter-just
+bip_39_word_dash_8: harsh-when-segment-finger-wise-enter-just-speed
+bip_39_word_dash_9: harsh-when-segment-finger-wise-enter-just-speed-absorb
+bip_39_word_new_br_1: harsh
+bip_39_word_new_br_10: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border
+bip_39_word_new_br_11: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt
+bip_39_word_new_br_12: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb<br>border<br>tilt<br>always
+bip_39_word_new_br_2: harsh<br>when
+bip_39_word_new_br_3: harsh<br>when<br>segment
+bip_39_word_new_br_4: harsh<br>when<br>segment<br>finger
+bip_39_word_new_br_5: harsh<br>when<br>segment<br>finger<br>wise
+bip_39_word_new_br_6: harsh<br>when<br>segment<br>finger<br>wise<br>enter
+bip_39_word_new_br_7: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just
+bip_39_word_new_br_8: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed
+bip_39_word_new_br_9: harsh<br>when<br>segment<br>finger<br>wise<br>enter<br>just<br>speed<br>absorb
+bip_39_word_new_line_1: harsh
+bip_39_word_new_line_10: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just
+
+  speed
+
+  absorb
+
+  border'
+bip_39_word_new_line_11: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just
+
+  speed
+
+  absorb
+
+  border
+
+  tilt'
+bip_39_word_new_line_12: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just
+
+  speed
+
+  absorb
+
+  border
+
+  tilt
+
+  always'
+bip_39_word_new_line_2: 'harsh
+
+  when'
+bip_39_word_new_line_3: 'harsh
+
+  when
+
+  segment'
+bip_39_word_new_line_4: 'harsh
+
+  when
+
+  segment
+
+  finger'
+bip_39_word_new_line_5: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise'
+bip_39_word_new_line_6: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter'
+bip_39_word_new_line_7: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just'
+bip_39_word_new_line_8: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just
+
+  speed'
+bip_39_word_new_line_9: 'harsh
+
+  when
+
+  segment
+
+  finger
+
+  wise
+
+  enter
+
+  just
+
+  speed
+
+  absorb'
+bip_39_word_no_space_1: harsh
+bip_39_word_no_space_10: harshwhensegmentfingerwiseenterjustspeedabsorbborder
+bip_39_word_no_space_11: harshwhensegmentfingerwiseenterjustspeedabsorbbordertilt
+bip_39_word_no_space_12: harshwhensegmentfingerwiseenterjustspeedabsorbbordertiltalways
+bip_39_word_no_space_2: harshwhen
+bip_39_word_no_space_3: harshwhensegment
+bip_39_word_no_space_4: harshwhensegmentfinger
+bip_39_word_no_space_5: harshwhensegmentfingerwise
+bip_39_word_no_space_6: harshwhensegmentfingerwiseenter
+bip_39_word_no_space_7: harshwhensegmentfingerwiseenterjust
+bip_39_word_no_space_8: harshwhensegmentfingerwiseenterjustspeed
+bip_39_word_no_space_9: harshwhensegmentfingerwiseenterjustspeedabsorb
+bip_39_word_space_0:
+- harsh
+- when
+- segment
+- finger
+- wise
+- enter
+- just
+- speed
+- absorb
+- border
+- tilt
+- always
+bip_39_word_space_1: harsh
+bip_39_word_space_10: harsh when segment finger wise enter just speed absorb border
+bip_39_word_space_11: harsh when segment finger wise enter just speed absorb border
+  tilt
+bip_39_word_space_12: harsh when segment finger wise enter just speed absorb border
+  tilt always
+bip_39_word_space_2: harsh when
+bip_39_word_space_3: harsh when segment
+bip_39_word_space_4: harsh when segment finger
+bip_39_word_space_5: harsh when segment finger wise
+bip_39_word_space_6: harsh when segment finger wise enter
+bip_39_word_space_7: harsh when segment finger wise enter just
+bip_39_word_space_8: harsh when segment finger wise enter just speed
+bip_39_word_space_9: harsh when segment finger wise enter just speed absorb
+bip_39_word_underscore_1: harsh
+bip_39_word_underscore_10: harsh_when_segment_finger_wise_enter_just_speed_absorb_border
+bip_39_word_underscore_11: harsh_when_segment_finger_wise_enter_just_speed_absorb_border_tilt
+bip_39_word_underscore_12: harsh_when_segment_finger_wise_enter_just_speed_absorb_border_tilt_always
+bip_39_word_underscore_2: harsh_when
+bip_39_word_underscore_3: harsh_when_segment
+bip_39_word_underscore_4: harsh_when_segment_finger
+bip_39_word_underscore_5: harsh_when_segment_finger_wise
+bip_39_word_underscore_6: harsh_when_segment_finger_wise_enter
+bip_39_word_underscore_7: harsh_when_segment_finger_wise_enter_just
+bip_39_word_underscore_8: harsh_when_segment_finger_wise_enter_just_speed
+bip_39_word_underscore_9: harsh_when_segment_finger_wise_enter_just_speed_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_06_90
 id_no_color: 080690
 id_no_size: 08_06_90
 id_no_type: tray_thin_08_06_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_06_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_06_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204r1fq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204r1fq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204r1fq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080690
 name_no_size: 08 06 90
 name_no_size_short: 08 06 90
 name_no_type: Tray Thin 08 06 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_06_90
 oomp_word: balloon cookie sleeping
 oomp_word_emoji: ':balloon: :cookie: :sleeping:'

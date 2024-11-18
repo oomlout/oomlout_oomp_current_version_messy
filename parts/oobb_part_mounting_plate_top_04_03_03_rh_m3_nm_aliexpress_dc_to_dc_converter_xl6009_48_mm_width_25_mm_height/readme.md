@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
   * classification: oobb

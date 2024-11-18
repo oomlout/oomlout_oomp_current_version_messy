@@ -1,3 +1,222 @@
+bip_39_word_dash_1: accuse
+bip_39_word_dash_10: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate
+bip_39_word_dash_11: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate-glance
+bip_39_word_dash_12: accuse-open-suggest-nose-stable-melt-medal-fever-easy-indicate-glance-announce
+bip_39_word_dash_2: accuse-open
+bip_39_word_dash_3: accuse-open-suggest
+bip_39_word_dash_4: accuse-open-suggest-nose
+bip_39_word_dash_5: accuse-open-suggest-nose-stable
+bip_39_word_dash_6: accuse-open-suggest-nose-stable-melt
+bip_39_word_dash_7: accuse-open-suggest-nose-stable-melt-medal
+bip_39_word_dash_8: accuse-open-suggest-nose-stable-melt-medal-fever
+bip_39_word_dash_9: accuse-open-suggest-nose-stable-melt-medal-fever-easy
+bip_39_word_new_br_1: accuse
+bip_39_word_new_br_10: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate
+bip_39_word_new_br_11: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate<br>glance
+bip_39_word_new_br_12: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy<br>indicate<br>glance<br>announce
+bip_39_word_new_br_2: accuse<br>open
+bip_39_word_new_br_3: accuse<br>open<br>suggest
+bip_39_word_new_br_4: accuse<br>open<br>suggest<br>nose
+bip_39_word_new_br_5: accuse<br>open<br>suggest<br>nose<br>stable
+bip_39_word_new_br_6: accuse<br>open<br>suggest<br>nose<br>stable<br>melt
+bip_39_word_new_br_7: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal
+bip_39_word_new_br_8: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever
+bip_39_word_new_br_9: accuse<br>open<br>suggest<br>nose<br>stable<br>melt<br>medal<br>fever<br>easy
+bip_39_word_new_line_1: accuse
+bip_39_word_new_line_10: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal
+
+  fever
+
+  easy
+
+  indicate'
+bip_39_word_new_line_11: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal
+
+  fever
+
+  easy
+
+  indicate
+
+  glance'
+bip_39_word_new_line_12: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal
+
+  fever
+
+  easy
+
+  indicate
+
+  glance
+
+  announce'
+bip_39_word_new_line_2: 'accuse
+
+  open'
+bip_39_word_new_line_3: 'accuse
+
+  open
+
+  suggest'
+bip_39_word_new_line_4: 'accuse
+
+  open
+
+  suggest
+
+  nose'
+bip_39_word_new_line_5: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable'
+bip_39_word_new_line_6: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt'
+bip_39_word_new_line_7: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal'
+bip_39_word_new_line_8: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal
+
+  fever'
+bip_39_word_new_line_9: 'accuse
+
+  open
+
+  suggest
+
+  nose
+
+  stable
+
+  melt
+
+  medal
+
+  fever
+
+  easy'
+bip_39_word_no_space_1: accuse
+bip_39_word_no_space_10: accuseopensuggestnosestablemeltmedalfevereasyindicate
+bip_39_word_no_space_11: accuseopensuggestnosestablemeltmedalfevereasyindicateglance
+bip_39_word_no_space_12: accuseopensuggestnosestablemeltmedalfevereasyindicateglanceannounce
+bip_39_word_no_space_2: accuseopen
+bip_39_word_no_space_3: accuseopensuggest
+bip_39_word_no_space_4: accuseopensuggestnose
+bip_39_word_no_space_5: accuseopensuggestnosestable
+bip_39_word_no_space_6: accuseopensuggestnosestablemelt
+bip_39_word_no_space_7: accuseopensuggestnosestablemeltmedal
+bip_39_word_no_space_8: accuseopensuggestnosestablemeltmedalfever
+bip_39_word_no_space_9: accuseopensuggestnosestablemeltmedalfevereasy
+bip_39_word_space_0:
+- accuse
+- open
+- suggest
+- nose
+- stable
+- melt
+- medal
+- fever
+- easy
+- indicate
+- glance
+- announce
+bip_39_word_space_1: accuse
+bip_39_word_space_10: accuse open suggest nose stable melt medal fever easy indicate
+bip_39_word_space_11: accuse open suggest nose stable melt medal fever easy indicate
+  glance
+bip_39_word_space_12: accuse open suggest nose stable melt medal fever easy indicate
+  glance announce
+bip_39_word_space_2: accuse open
+bip_39_word_space_3: accuse open suggest
+bip_39_word_space_4: accuse open suggest nose
+bip_39_word_space_5: accuse open suggest nose stable
+bip_39_word_space_6: accuse open suggest nose stable melt
+bip_39_word_space_7: accuse open suggest nose stable melt medal
+bip_39_word_space_8: accuse open suggest nose stable melt medal fever
+bip_39_word_space_9: accuse open suggest nose stable melt medal fever easy
+bip_39_word_underscore_1: accuse
+bip_39_word_underscore_10: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate
+bip_39_word_underscore_11: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate_glance
+bip_39_word_underscore_12: accuse_open_suggest_nose_stable_melt_medal_fever_easy_indicate_glance_announce
+bip_39_word_underscore_2: accuse_open
+bip_39_word_underscore_3: accuse_open_suggest
+bip_39_word_underscore_4: accuse_open_suggest_nose
+bip_39_word_underscore_5: accuse_open_suggest_nose_stable
+bip_39_word_underscore_6: accuse_open_suggest_nose_stable_melt
+bip_39_word_underscore_7: accuse_open_suggest_nose_stable_melt_medal
+bip_39_word_underscore_8: accuse_open_suggest_nose_stable_melt_medal_fever
+bip_39_word_underscore_9: accuse_open_suggest_nose_stable_melt_medal_fever_easy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_05_01__l
 id_no_color: 0501l
 id_no_size: 05_01__l
 id_no_type: bunting_alphabet_05_01__l
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__l
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__l
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__l
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205sz18
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205sz18
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205sz18
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0501L
 name_no_size: 05 01  L
 name_no_size_short: 05 01  L
 name_no_type: Bunting Alphabet 05 01  L
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__l
 oomp_word: microscope candy ox
 oomp_word_emoji: ':microscope: :candy: :ox:'

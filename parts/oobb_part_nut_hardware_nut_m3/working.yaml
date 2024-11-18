@@ -1,3 +1,223 @@
+bip_39_word_dash_1: poverty
+bip_39_word_dash_10: poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame
+bip_39_word_dash_11: poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame-depart
+bip_39_word_dash_12: poverty-there-undo-picture-reflect-found-garment-elevator-mask-flame-depart-alpha
+bip_39_word_dash_2: poverty-there
+bip_39_word_dash_3: poverty-there-undo
+bip_39_word_dash_4: poverty-there-undo-picture
+bip_39_word_dash_5: poverty-there-undo-picture-reflect
+bip_39_word_dash_6: poverty-there-undo-picture-reflect-found
+bip_39_word_dash_7: poverty-there-undo-picture-reflect-found-garment
+bip_39_word_dash_8: poverty-there-undo-picture-reflect-found-garment-elevator
+bip_39_word_dash_9: poverty-there-undo-picture-reflect-found-garment-elevator-mask
+bip_39_word_new_br_1: poverty
+bip_39_word_new_br_10: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame
+bip_39_word_new_br_11: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame<br>depart
+bip_39_word_new_br_12: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask<br>flame<br>depart<br>alpha
+bip_39_word_new_br_2: poverty<br>there
+bip_39_word_new_br_3: poverty<br>there<br>undo
+bip_39_word_new_br_4: poverty<br>there<br>undo<br>picture
+bip_39_word_new_br_5: poverty<br>there<br>undo<br>picture<br>reflect
+bip_39_word_new_br_6: poverty<br>there<br>undo<br>picture<br>reflect<br>found
+bip_39_word_new_br_7: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment
+bip_39_word_new_br_8: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator
+bip_39_word_new_br_9: poverty<br>there<br>undo<br>picture<br>reflect<br>found<br>garment<br>elevator<br>mask
+bip_39_word_new_line_1: poverty
+bip_39_word_new_line_10: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment
+
+  elevator
+
+  mask
+
+  flame'
+bip_39_word_new_line_11: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment
+
+  elevator
+
+  mask
+
+  flame
+
+  depart'
+bip_39_word_new_line_12: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment
+
+  elevator
+
+  mask
+
+  flame
+
+  depart
+
+  alpha'
+bip_39_word_new_line_2: 'poverty
+
+  there'
+bip_39_word_new_line_3: 'poverty
+
+  there
+
+  undo'
+bip_39_word_new_line_4: 'poverty
+
+  there
+
+  undo
+
+  picture'
+bip_39_word_new_line_5: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect'
+bip_39_word_new_line_6: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found'
+bip_39_word_new_line_7: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment'
+bip_39_word_new_line_8: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment
+
+  elevator'
+bip_39_word_new_line_9: 'poverty
+
+  there
+
+  undo
+
+  picture
+
+  reflect
+
+  found
+
+  garment
+
+  elevator
+
+  mask'
+bip_39_word_no_space_1: poverty
+bip_39_word_no_space_10: povertythereundopicturereflectfoundgarmentelevatormaskflame
+bip_39_word_no_space_11: povertythereundopicturereflectfoundgarmentelevatormaskflamedepart
+bip_39_word_no_space_12: povertythereundopicturereflectfoundgarmentelevatormaskflamedepartalpha
+bip_39_word_no_space_2: povertythere
+bip_39_word_no_space_3: povertythereundo
+bip_39_word_no_space_4: povertythereundopicture
+bip_39_word_no_space_5: povertythereundopicturereflect
+bip_39_word_no_space_6: povertythereundopicturereflectfound
+bip_39_word_no_space_7: povertythereundopicturereflectfoundgarment
+bip_39_word_no_space_8: povertythereundopicturereflectfoundgarmentelevator
+bip_39_word_no_space_9: povertythereundopicturereflectfoundgarmentelevatormask
+bip_39_word_space_0:
+- poverty
+- there
+- undo
+- picture
+- reflect
+- found
+- garment
+- elevator
+- mask
+- flame
+- depart
+- alpha
+bip_39_word_space_1: poverty
+bip_39_word_space_10: poverty there undo picture reflect found garment elevator mask
+  flame
+bip_39_word_space_11: poverty there undo picture reflect found garment elevator mask
+  flame depart
+bip_39_word_space_12: poverty there undo picture reflect found garment elevator mask
+  flame depart alpha
+bip_39_word_space_2: poverty there
+bip_39_word_space_3: poverty there undo
+bip_39_word_space_4: poverty there undo picture
+bip_39_word_space_5: poverty there undo picture reflect
+bip_39_word_space_6: poverty there undo picture reflect found
+bip_39_word_space_7: poverty there undo picture reflect found garment
+bip_39_word_space_8: poverty there undo picture reflect found garment elevator
+bip_39_word_space_9: poverty there undo picture reflect found garment elevator mask
+bip_39_word_underscore_1: poverty
+bip_39_word_underscore_10: poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame
+bip_39_word_underscore_11: poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame_depart
+bip_39_word_underscore_12: poverty_there_undo_picture_reflect_found_garment_elevator_mask_flame_depart_alpha
+bip_39_word_underscore_2: poverty_there
+bip_39_word_underscore_3: poverty_there_undo
+bip_39_word_underscore_4: poverty_there_undo_picture
+bip_39_word_underscore_5: poverty_there_undo_picture_reflect
+bip_39_word_underscore_6: poverty_there_undo_picture_reflect_found
+bip_39_word_underscore_7: poverty_there_undo_picture_reflect_found_garment
+bip_39_word_underscore_8: poverty_there_undo_picture_reflect_found_garment_elevator
+bip_39_word_underscore_9: poverty_there_undo_picture_reflect_found_garment_elevator_mask
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_nut_hardware_nut_m3
 id_no_color: hardwarem3
 id_no_size: hardware_m3
 id_no_type: nut_hardware_nut_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dyty
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dyty
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dyty
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem3
 name_no_size: Hardware M3
 name_no_size_short: Hardware M3
 name_no_type: Nut Hardware Nut M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_nut_hardware_nut_m3
 oomp_word: squirrel ghost basketball
 oomp_word_emoji: ':squirrel: :ghost: :basketball:'

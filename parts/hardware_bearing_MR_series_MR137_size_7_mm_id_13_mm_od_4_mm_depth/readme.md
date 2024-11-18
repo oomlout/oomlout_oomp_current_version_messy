@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr137 Size 7 mm ID 13 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR137_size_7_mm_id_13_mm_od_4_mm_depth
   * classification: hardware

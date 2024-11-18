@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cash
+bip_39_word_dash_10: cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon
+bip_39_word_dash_11: cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon-pulse
+bip_39_word_dash_12: cash-click-army-couple-bind-accuse-unaware-cheap-celery-cannon-pulse-also
+bip_39_word_dash_2: cash-click
+bip_39_word_dash_3: cash-click-army
+bip_39_word_dash_4: cash-click-army-couple
+bip_39_word_dash_5: cash-click-army-couple-bind
+bip_39_word_dash_6: cash-click-army-couple-bind-accuse
+bip_39_word_dash_7: cash-click-army-couple-bind-accuse-unaware
+bip_39_word_dash_8: cash-click-army-couple-bind-accuse-unaware-cheap
+bip_39_word_dash_9: cash-click-army-couple-bind-accuse-unaware-cheap-celery
+bip_39_word_new_br_1: cash
+bip_39_word_new_br_10: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon
+bip_39_word_new_br_11: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse
+bip_39_word_new_br_12: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery<br>cannon<br>pulse<br>also
+bip_39_word_new_br_2: cash<br>click
+bip_39_word_new_br_3: cash<br>click<br>army
+bip_39_word_new_br_4: cash<br>click<br>army<br>couple
+bip_39_word_new_br_5: cash<br>click<br>army<br>couple<br>bind
+bip_39_word_new_br_6: cash<br>click<br>army<br>couple<br>bind<br>accuse
+bip_39_word_new_br_7: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware
+bip_39_word_new_br_8: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap
+bip_39_word_new_br_9: cash<br>click<br>army<br>couple<br>bind<br>accuse<br>unaware<br>cheap<br>celery
+bip_39_word_new_line_1: cash
+bip_39_word_new_line_10: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware
+
+  cheap
+
+  celery
+
+  cannon'
+bip_39_word_new_line_11: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware
+
+  cheap
+
+  celery
+
+  cannon
+
+  pulse'
+bip_39_word_new_line_12: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware
+
+  cheap
+
+  celery
+
+  cannon
+
+  pulse
+
+  also'
+bip_39_word_new_line_2: 'cash
+
+  click'
+bip_39_word_new_line_3: 'cash
+
+  click
+
+  army'
+bip_39_word_new_line_4: 'cash
+
+  click
+
+  army
+
+  couple'
+bip_39_word_new_line_5: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind'
+bip_39_word_new_line_6: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse'
+bip_39_word_new_line_7: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware'
+bip_39_word_new_line_8: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware
+
+  cheap'
+bip_39_word_new_line_9: 'cash
+
+  click
+
+  army
+
+  couple
+
+  bind
+
+  accuse
+
+  unaware
+
+  cheap
+
+  celery'
+bip_39_word_no_space_1: cash
+bip_39_word_no_space_10: cashclickarmycouplebindaccuseunawarecheapcelerycannon
+bip_39_word_no_space_11: cashclickarmycouplebindaccuseunawarecheapcelerycannonpulse
+bip_39_word_no_space_12: cashclickarmycouplebindaccuseunawarecheapcelerycannonpulsealso
+bip_39_word_no_space_2: cashclick
+bip_39_word_no_space_3: cashclickarmy
+bip_39_word_no_space_4: cashclickarmycouple
+bip_39_word_no_space_5: cashclickarmycouplebind
+bip_39_word_no_space_6: cashclickarmycouplebindaccuse
+bip_39_word_no_space_7: cashclickarmycouplebindaccuseunaware
+bip_39_word_no_space_8: cashclickarmycouplebindaccuseunawarecheap
+bip_39_word_no_space_9: cashclickarmycouplebindaccuseunawarecheapcelery
+bip_39_word_space_0:
+- cash
+- click
+- army
+- couple
+- bind
+- accuse
+- unaware
+- cheap
+- celery
+- cannon
+- pulse
+- also
+bip_39_word_space_1: cash
+bip_39_word_space_10: cash click army couple bind accuse unaware cheap celery cannon
+bip_39_word_space_11: cash click army couple bind accuse unaware cheap celery cannon
+  pulse
+bip_39_word_space_12: cash click army couple bind accuse unaware cheap celery cannon
+  pulse also
+bip_39_word_space_2: cash click
+bip_39_word_space_3: cash click army
+bip_39_word_space_4: cash click army couple
+bip_39_word_space_5: cash click army couple bind
+bip_39_word_space_6: cash click army couple bind accuse
+bip_39_word_space_7: cash click army couple bind accuse unaware
+bip_39_word_space_8: cash click army couple bind accuse unaware cheap
+bip_39_word_space_9: cash click army couple bind accuse unaware cheap celery
+bip_39_word_underscore_1: cash
+bip_39_word_underscore_10: cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon
+bip_39_word_underscore_11: cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon_pulse
+bip_39_word_underscore_12: cash_click_army_couple_bind_accuse_unaware_cheap_celery_cannon_pulse_also
+bip_39_word_underscore_2: cash_click
+bip_39_word_underscore_3: cash_click_army
+bip_39_word_underscore_4: cash_click_army_couple
+bip_39_word_underscore_5: cash_click_army_couple_bind
+bip_39_word_underscore_6: cash_click_army_couple_bind_accuse
+bip_39_word_underscore_7: cash_click_army_couple_bind_accuse_unaware
+bip_39_word_underscore_8: cash_click_army_couple_bind_accuse_unaware_cheap
+bip_39_word_underscore_9: cash_click_army_couple_bind_accuse_unaware_cheap_celery
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -85,7 +304,14 @@ id_no_color: 270000ohm
 id_no_size: 270000_ohm
 id_no_type: 0201_270000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_270000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0201_270000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0201_270000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204kufc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204kufc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204kufc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -111,6 +337,7 @@ name_no_color: 270000Ohm
 name_no_size: 270000 Ohm
 name_no_size_short: 270k Ohm
 name_no_type: 0201 270000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0201_270000_ohm
 oomp_word: ghost rooster scream
 oomp_word_emoji: ':ghost: :rooster: :scream:'

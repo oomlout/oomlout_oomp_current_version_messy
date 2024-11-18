@@ -1,3 +1,222 @@
+bip_39_word_dash_1: subway
+bip_39_word_dash_10: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick
+bip_39_word_dash_11: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick-account
+bip_39_word_dash_12: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace-stick-account-angry
+bip_39_word_dash_2: subway-spray
+bip_39_word_dash_3: subway-spray-narrow
+bip_39_word_dash_4: subway-spray-narrow-mansion
+bip_39_word_dash_5: subway-spray-narrow-mansion-feel
+bip_39_word_dash_6: subway-spray-narrow-mansion-feel-pitch
+bip_39_word_dash_7: subway-spray-narrow-mansion-feel-pitch-raven
+bip_39_word_dash_8: subway-spray-narrow-mansion-feel-pitch-raven-rude
+bip_39_word_dash_9: subway-spray-narrow-mansion-feel-pitch-raven-rude-palace
+bip_39_word_new_br_1: subway
+bip_39_word_new_br_10: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick
+bip_39_word_new_br_11: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account
+bip_39_word_new_br_12: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace<br>stick<br>account<br>angry
+bip_39_word_new_br_2: subway<br>spray
+bip_39_word_new_br_3: subway<br>spray<br>narrow
+bip_39_word_new_br_4: subway<br>spray<br>narrow<br>mansion
+bip_39_word_new_br_5: subway<br>spray<br>narrow<br>mansion<br>feel
+bip_39_word_new_br_6: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch
+bip_39_word_new_br_7: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven
+bip_39_word_new_br_8: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude
+bip_39_word_new_br_9: subway<br>spray<br>narrow<br>mansion<br>feel<br>pitch<br>raven<br>rude<br>palace
+bip_39_word_new_line_1: subway
+bip_39_word_new_line_10: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick'
+bip_39_word_new_line_11: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick
+
+  account'
+bip_39_word_new_line_12: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace
+
+  stick
+
+  account
+
+  angry'
+bip_39_word_new_line_2: 'subway
+
+  spray'
+bip_39_word_new_line_3: 'subway
+
+  spray
+
+  narrow'
+bip_39_word_new_line_4: 'subway
+
+  spray
+
+  narrow
+
+  mansion'
+bip_39_word_new_line_5: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel'
+bip_39_word_new_line_6: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch'
+bip_39_word_new_line_7: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven'
+bip_39_word_new_line_8: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude'
+bip_39_word_new_line_9: 'subway
+
+  spray
+
+  narrow
+
+  mansion
+
+  feel
+
+  pitch
+
+  raven
+
+  rude
+
+  palace'
+bip_39_word_no_space_1: subway
+bip_39_word_no_space_10: subwayspraynarrowmansionfeelpitchravenrudepalacestick
+bip_39_word_no_space_11: subwayspraynarrowmansionfeelpitchravenrudepalacestickaccount
+bip_39_word_no_space_12: subwayspraynarrowmansionfeelpitchravenrudepalacestickaccountangry
+bip_39_word_no_space_2: subwayspray
+bip_39_word_no_space_3: subwayspraynarrow
+bip_39_word_no_space_4: subwayspraynarrowmansion
+bip_39_word_no_space_5: subwayspraynarrowmansionfeel
+bip_39_word_no_space_6: subwayspraynarrowmansionfeelpitch
+bip_39_word_no_space_7: subwayspraynarrowmansionfeelpitchraven
+bip_39_word_no_space_8: subwayspraynarrowmansionfeelpitchravenrude
+bip_39_word_no_space_9: subwayspraynarrowmansionfeelpitchravenrudepalace
+bip_39_word_space_0:
+- subway
+- spray
+- narrow
+- mansion
+- feel
+- pitch
+- raven
+- rude
+- palace
+- stick
+- account
+- angry
+bip_39_word_space_1: subway
+bip_39_word_space_10: subway spray narrow mansion feel pitch raven rude palace stick
+bip_39_word_space_11: subway spray narrow mansion feel pitch raven rude palace stick
+  account
+bip_39_word_space_12: subway spray narrow mansion feel pitch raven rude palace stick
+  account angry
+bip_39_word_space_2: subway spray
+bip_39_word_space_3: subway spray narrow
+bip_39_word_space_4: subway spray narrow mansion
+bip_39_word_space_5: subway spray narrow mansion feel
+bip_39_word_space_6: subway spray narrow mansion feel pitch
+bip_39_word_space_7: subway spray narrow mansion feel pitch raven
+bip_39_word_space_8: subway spray narrow mansion feel pitch raven rude
+bip_39_word_space_9: subway spray narrow mansion feel pitch raven rude palace
+bip_39_word_underscore_1: subway
+bip_39_word_underscore_10: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick
+bip_39_word_underscore_11: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick_account
+bip_39_word_underscore_12: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace_stick_account_angry
+bip_39_word_underscore_2: subway_spray
+bip_39_word_underscore_3: subway_spray_narrow
+bip_39_word_underscore_4: subway_spray_narrow_mansion
+bip_39_word_underscore_5: subway_spray_narrow_mansion_feel
+bip_39_word_underscore_6: subway_spray_narrow_mansion_feel_pitch
+bip_39_word_underscore_7: subway_spray_narrow_mansion_feel_pitch_raven
+bip_39_word_underscore_8: subway_spray_narrow_mansion_feel_pitch_raven_rude
+bip_39_word_underscore_9: subway_spray_narrow_mansion_feel_pitch_raven_rude_palace
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_08_24
 id_no_color: 070824
 id_no_size: 07_08_24
 id_no_type: tray_07_08_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_08_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_08_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_08_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205jh9x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205jh9x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205jh9x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 070824
 name_no_size: 07 08 24
 name_no_size_short: 07 08 24
 name_no_type: Tray 07 08 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_08_24
 oomp_word: clipboard grin hamster
 oomp_word_emoji: ':clipboard: :grin: :hamster:'

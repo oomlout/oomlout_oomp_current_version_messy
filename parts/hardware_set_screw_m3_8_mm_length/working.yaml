@@ -1,3 +1,223 @@
+bip_39_word_dash_1: seed
+bip_39_word_dash_10: seed-mushroom-april-device-poverty-under-ostrich-inspire-agree-action
+bip_39_word_dash_11: seed-mushroom-april-device-poverty-under-ostrich-inspire-agree-action-just
+bip_39_word_dash_12: seed-mushroom-april-device-poverty-under-ostrich-inspire-agree-action-just-any
+bip_39_word_dash_2: seed-mushroom
+bip_39_word_dash_3: seed-mushroom-april
+bip_39_word_dash_4: seed-mushroom-april-device
+bip_39_word_dash_5: seed-mushroom-april-device-poverty
+bip_39_word_dash_6: seed-mushroom-april-device-poverty-under
+bip_39_word_dash_7: seed-mushroom-april-device-poverty-under-ostrich
+bip_39_word_dash_8: seed-mushroom-april-device-poverty-under-ostrich-inspire
+bip_39_word_dash_9: seed-mushroom-april-device-poverty-under-ostrich-inspire-agree
+bip_39_word_new_br_1: seed
+bip_39_word_new_br_10: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action
+bip_39_word_new_br_11: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action<br>just
+bip_39_word_new_br_12: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree<br>action<br>just<br>any
+bip_39_word_new_br_2: seed<br>mushroom
+bip_39_word_new_br_3: seed<br>mushroom<br>april
+bip_39_word_new_br_4: seed<br>mushroom<br>april<br>device
+bip_39_word_new_br_5: seed<br>mushroom<br>april<br>device<br>poverty
+bip_39_word_new_br_6: seed<br>mushroom<br>april<br>device<br>poverty<br>under
+bip_39_word_new_br_7: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich
+bip_39_word_new_br_8: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire
+bip_39_word_new_br_9: seed<br>mushroom<br>april<br>device<br>poverty<br>under<br>ostrich<br>inspire<br>agree
+bip_39_word_new_line_1: seed
+bip_39_word_new_line_10: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich
+
+  inspire
+
+  agree
+
+  action'
+bip_39_word_new_line_11: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich
+
+  inspire
+
+  agree
+
+  action
+
+  just'
+bip_39_word_new_line_12: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich
+
+  inspire
+
+  agree
+
+  action
+
+  just
+
+  any'
+bip_39_word_new_line_2: 'seed
+
+  mushroom'
+bip_39_word_new_line_3: 'seed
+
+  mushroom
+
+  april'
+bip_39_word_new_line_4: 'seed
+
+  mushroom
+
+  april
+
+  device'
+bip_39_word_new_line_5: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty'
+bip_39_word_new_line_6: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under'
+bip_39_word_new_line_7: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich'
+bip_39_word_new_line_8: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich
+
+  inspire'
+bip_39_word_new_line_9: 'seed
+
+  mushroom
+
+  april
+
+  device
+
+  poverty
+
+  under
+
+  ostrich
+
+  inspire
+
+  agree'
+bip_39_word_no_space_1: seed
+bip_39_word_no_space_10: seedmushroomaprildevicepovertyunderostrichinspireagreeaction
+bip_39_word_no_space_11: seedmushroomaprildevicepovertyunderostrichinspireagreeactionjust
+bip_39_word_no_space_12: seedmushroomaprildevicepovertyunderostrichinspireagreeactionjustany
+bip_39_word_no_space_2: seedmushroom
+bip_39_word_no_space_3: seedmushroomapril
+bip_39_word_no_space_4: seedmushroomaprildevice
+bip_39_word_no_space_5: seedmushroomaprildevicepoverty
+bip_39_word_no_space_6: seedmushroomaprildevicepovertyunder
+bip_39_word_no_space_7: seedmushroomaprildevicepovertyunderostrich
+bip_39_word_no_space_8: seedmushroomaprildevicepovertyunderostrichinspire
+bip_39_word_no_space_9: seedmushroomaprildevicepovertyunderostrichinspireagree
+bip_39_word_space_0:
+- seed
+- mushroom
+- april
+- device
+- poverty
+- under
+- ostrich
+- inspire
+- agree
+- action
+- just
+- any
+bip_39_word_space_1: seed
+bip_39_word_space_10: seed mushroom april device poverty under ostrich inspire agree
+  action
+bip_39_word_space_11: seed mushroom april device poverty under ostrich inspire agree
+  action just
+bip_39_word_space_12: seed mushroom april device poverty under ostrich inspire agree
+  action just any
+bip_39_word_space_2: seed mushroom
+bip_39_word_space_3: seed mushroom april
+bip_39_word_space_4: seed mushroom april device
+bip_39_word_space_5: seed mushroom april device poverty
+bip_39_word_space_6: seed mushroom april device poverty under
+bip_39_word_space_7: seed mushroom april device poverty under ostrich
+bip_39_word_space_8: seed mushroom april device poverty under ostrich inspire
+bip_39_word_space_9: seed mushroom april device poverty under ostrich inspire agree
+bip_39_word_underscore_1: seed
+bip_39_word_underscore_10: seed_mushroom_april_device_poverty_under_ostrich_inspire_agree_action
+bip_39_word_underscore_11: seed_mushroom_april_device_poverty_under_ostrich_inspire_agree_action_just
+bip_39_word_underscore_12: seed_mushroom_april_device_poverty_under_ostrich_inspire_agree_action_just_any
+bip_39_word_underscore_2: seed_mushroom
+bip_39_word_underscore_3: seed_mushroom_april
+bip_39_word_underscore_4: seed_mushroom_april_device
+bip_39_word_underscore_5: seed_mushroom_april_device_poverty
+bip_39_word_underscore_6: seed_mushroom_april_device_poverty_under
+bip_39_word_underscore_7: seed_mushroom_april_device_poverty_under_ostrich
+bip_39_word_underscore_8: seed_mushroom_april_device_poverty_under_ostrich_inspire
+bip_39_word_underscore_9: seed_mushroom_april_device_poverty_under_ostrich_inspire_agree
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -86,7 +306,20 @@ id_no_color: 8mmlength
 id_no_size: 8_mm_length
 id_no_type: m3_8_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_8_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m3_8_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m3-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-8-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-din-933
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m3_8_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206cvy8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206cvy8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206cvy8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -112,6 +345,26 @@ name_no_color: 8mmlength
 name_no_size: 8 mm Length
 name_no_size_short: 8 Mm Length
 name_no_type: M3 8 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 8 mm
+oomlout_bolt_length_no_unit: '8'
+oomlout_bolt_md5_6_alpha_first_3: 6cv
+oomlout_bolt_md5_6_alpha_first_3_upper: 6CV
+oomlout_bolt_md5_6_alpha_last_3: y8
+oomlout_bolt_md5_6_alpha_last_3_upper: Y8
+oomlout_bolt_md5_6_first_3: a2f
+oomlout_bolt_md5_6_first_3_upper: A2F
+oomlout_bolt_md5_6_last_3: 2c0
+oomlout_bolt_md5_6_last_3_upper: 2C0
+oomlout_bolt_name: Set Screw M3X8 mm  (Bolt)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss3m8
+oomlout_short_code_upper: SS3M8
 oomp_id: hardware_set_screw_m3_8_mm_length
 oomp_key: oomp_hardware_set_screw_m3_8_mm_length
 oomp_word: violin one bread
@@ -135,12 +388,22 @@ price_1: '0.034'
 price_100: '0.034'
 price_1000: '0.0188'
 price_10000: '0.0151'
+price_10000_distributor_1: '0.0151'
 price_10000_distributor_orbital_fasteners: '0.0151'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0188'
 price_1000_distributor_orbital_fasteners: '0.0188'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.034'
 price_100_distributor_orbital_fasteners: '0.034'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.034'
 price_1_distributor_orbital_fasteners: '0.034'
+price_1_name: orbital_fasteners
 price_200: '0.034'
+price_200_distributor_1: '0.034'
 price_200_distributor_orbital_fasteners: '0.034'
+price_200_name: orbital_fasteners
 price_current: '0.034'
 quantity_current: '200'
 short_code: ss38

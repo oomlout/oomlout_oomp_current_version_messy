@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :trophy: :rowboat: :maple_leaf:
 * md5_6_alpha: 6becl
 * md5_6: a1e365
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206becl)
+[2x1](http://192.168.1.242:1112/?label=oomp%206becl)
+[6x4](http://192.168.1.55:1112/?label=oomp%206becl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ bachelor |
 | id_no_color | 060503rhm2d5mo56d5nmpimoronipim613servo2040 |  
 | id_no_size | 06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
 | id_no_type | mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206becl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206becl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206becl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ bachelor |
 | name_no_size | 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040 |  
 | name_no_size_short | 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040 |  
 | name_no_type | Mounting Plate 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040 |  
 | oomp_word | trophy rowboat maple_leaf |  
 | oomp_word_emoji | :trophy: :rowboat: :maple_leaf: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: prepare
+bip_39_word_dash_10: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle
+bip_39_word_dash_11: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle-flame
+bip_39_word_dash_12: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast-ankle-flame-admit
+bip_39_word_dash_2: prepare-arctic
+bip_39_word_dash_3: prepare-arctic-frog
+bip_39_word_dash_4: prepare-arctic-frog-unique
+bip_39_word_dash_5: prepare-arctic-frog-unique-inherit
+bip_39_word_dash_6: prepare-arctic-frog-unique-inherit-simple
+bip_39_word_dash_7: prepare-arctic-frog-unique-inherit-simple-humor
+bip_39_word_dash_8: prepare-arctic-frog-unique-inherit-simple-humor-powder
+bip_39_word_dash_9: prepare-arctic-frog-unique-inherit-simple-humor-powder-blast
+bip_39_word_new_br_1: prepare
+bip_39_word_new_br_10: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle
+bip_39_word_new_br_11: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame
+bip_39_word_new_br_12: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast<br>ankle<br>flame<br>admit
+bip_39_word_new_br_2: prepare<br>arctic
+bip_39_word_new_br_3: prepare<br>arctic<br>frog
+bip_39_word_new_br_4: prepare<br>arctic<br>frog<br>unique
+bip_39_word_new_br_5: prepare<br>arctic<br>frog<br>unique<br>inherit
+bip_39_word_new_br_6: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple
+bip_39_word_new_br_7: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor
+bip_39_word_new_br_8: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder
+bip_39_word_new_br_9: prepare<br>arctic<br>frog<br>unique<br>inherit<br>simple<br>humor<br>powder<br>blast
+bip_39_word_new_line_1: prepare
+bip_39_word_new_line_10: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle'
+bip_39_word_new_line_11: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle
+
+  flame'
+bip_39_word_new_line_12: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast
+
+  ankle
+
+  flame
+
+  admit'
+bip_39_word_new_line_2: 'prepare
+
+  arctic'
+bip_39_word_new_line_3: 'prepare
+
+  arctic
+
+  frog'
+bip_39_word_new_line_4: 'prepare
+
+  arctic
+
+  frog
+
+  unique'
+bip_39_word_new_line_5: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit'
+bip_39_word_new_line_6: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple'
+bip_39_word_new_line_7: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor'
+bip_39_word_new_line_8: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder'
+bip_39_word_new_line_9: 'prepare
+
+  arctic
+
+  frog
+
+  unique
+
+  inherit
+
+  simple
+
+  humor
+
+  powder
+
+  blast'
+bip_39_word_no_space_1: prepare
+bip_39_word_no_space_10: preparearcticfroguniqueinheritsimplehumorpowderblastankle
+bip_39_word_no_space_11: preparearcticfroguniqueinheritsimplehumorpowderblastankleflame
+bip_39_word_no_space_12: preparearcticfroguniqueinheritsimplehumorpowderblastankleflameadmit
+bip_39_word_no_space_2: preparearctic
+bip_39_word_no_space_3: preparearcticfrog
+bip_39_word_no_space_4: preparearcticfrogunique
+bip_39_word_no_space_5: preparearcticfroguniqueinherit
+bip_39_word_no_space_6: preparearcticfroguniqueinheritsimple
+bip_39_word_no_space_7: preparearcticfroguniqueinheritsimplehumor
+bip_39_word_no_space_8: preparearcticfroguniqueinheritsimplehumorpowder
+bip_39_word_no_space_9: preparearcticfroguniqueinheritsimplehumorpowderblast
+bip_39_word_space_0:
+- prepare
+- arctic
+- frog
+- unique
+- inherit
+- simple
+- humor
+- powder
+- blast
+- ankle
+- flame
+- admit
+bip_39_word_space_1: prepare
+bip_39_word_space_10: prepare arctic frog unique inherit simple humor powder blast
+  ankle
+bip_39_word_space_11: prepare arctic frog unique inherit simple humor powder blast
+  ankle flame
+bip_39_word_space_12: prepare arctic frog unique inherit simple humor powder blast
+  ankle flame admit
+bip_39_word_space_2: prepare arctic
+bip_39_word_space_3: prepare arctic frog
+bip_39_word_space_4: prepare arctic frog unique
+bip_39_word_space_5: prepare arctic frog unique inherit
+bip_39_word_space_6: prepare arctic frog unique inherit simple
+bip_39_word_space_7: prepare arctic frog unique inherit simple humor
+bip_39_word_space_8: prepare arctic frog unique inherit simple humor powder
+bip_39_word_space_9: prepare arctic frog unique inherit simple humor powder blast
+bip_39_word_underscore_1: prepare
+bip_39_word_underscore_10: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle
+bip_39_word_underscore_11: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle_flame
+bip_39_word_underscore_12: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast_ankle_flame_admit
+bip_39_word_underscore_2: prepare_arctic
+bip_39_word_underscore_3: prepare_arctic_frog
+bip_39_word_underscore_4: prepare_arctic_frog_unique
+bip_39_word_underscore_5: prepare_arctic_frog_unique_inherit
+bip_39_word_underscore_6: prepare_arctic_frog_unique_inherit_simple
+bip_39_word_underscore_7: prepare_arctic_frog_unique_inherit_simple_humor
+bip_39_word_underscore_8: prepare_arctic_frog_unique_inherit_simple_humor_powder
+bip_39_word_underscore_9: prepare_arctic_frog_unique_inherit_simple_humor_powder_blast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_18_01_12
 id_no_color: '180112'
 id_no_size: '18_01_12'
 id_no_type: plate_18_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_18_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_18_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_18_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202afsy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202afsy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202afsy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '180112'
 name_no_size: 18 01 12
 name_no_size_short: 18 01 12
 name_no_type: Plate 18 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_18_01_12
 oomp_word: koala crown radio
 oomp_word_emoji: ':koala: :crown: :radio:'

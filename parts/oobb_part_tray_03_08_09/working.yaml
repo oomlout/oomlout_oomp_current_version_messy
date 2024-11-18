@@ -1,3 +1,221 @@
+bip_39_word_dash_1: visa
+bip_39_word_dash_10: visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group
+bip_39_word_dash_11: visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group-immense
+bip_39_word_dash_12: visa-lesson-trial-bid-milk-climb-donkey-fame-shed-group-immense-annual
+bip_39_word_dash_2: visa-lesson
+bip_39_word_dash_3: visa-lesson-trial
+bip_39_word_dash_4: visa-lesson-trial-bid
+bip_39_word_dash_5: visa-lesson-trial-bid-milk
+bip_39_word_dash_6: visa-lesson-trial-bid-milk-climb
+bip_39_word_dash_7: visa-lesson-trial-bid-milk-climb-donkey
+bip_39_word_dash_8: visa-lesson-trial-bid-milk-climb-donkey-fame
+bip_39_word_dash_9: visa-lesson-trial-bid-milk-climb-donkey-fame-shed
+bip_39_word_new_br_1: visa
+bip_39_word_new_br_10: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group
+bip_39_word_new_br_11: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense
+bip_39_word_new_br_12: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed<br>group<br>immense<br>annual
+bip_39_word_new_br_2: visa<br>lesson
+bip_39_word_new_br_3: visa<br>lesson<br>trial
+bip_39_word_new_br_4: visa<br>lesson<br>trial<br>bid
+bip_39_word_new_br_5: visa<br>lesson<br>trial<br>bid<br>milk
+bip_39_word_new_br_6: visa<br>lesson<br>trial<br>bid<br>milk<br>climb
+bip_39_word_new_br_7: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey
+bip_39_word_new_br_8: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame
+bip_39_word_new_br_9: visa<br>lesson<br>trial<br>bid<br>milk<br>climb<br>donkey<br>fame<br>shed
+bip_39_word_new_line_1: visa
+bip_39_word_new_line_10: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey
+
+  fame
+
+  shed
+
+  group'
+bip_39_word_new_line_11: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey
+
+  fame
+
+  shed
+
+  group
+
+  immense'
+bip_39_word_new_line_12: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey
+
+  fame
+
+  shed
+
+  group
+
+  immense
+
+  annual'
+bip_39_word_new_line_2: 'visa
+
+  lesson'
+bip_39_word_new_line_3: 'visa
+
+  lesson
+
+  trial'
+bip_39_word_new_line_4: 'visa
+
+  lesson
+
+  trial
+
+  bid'
+bip_39_word_new_line_5: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk'
+bip_39_word_new_line_6: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb'
+bip_39_word_new_line_7: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey'
+bip_39_word_new_line_8: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey
+
+  fame'
+bip_39_word_new_line_9: 'visa
+
+  lesson
+
+  trial
+
+  bid
+
+  milk
+
+  climb
+
+  donkey
+
+  fame
+
+  shed'
+bip_39_word_no_space_1: visa
+bip_39_word_no_space_10: visalessontrialbidmilkclimbdonkeyfameshedgroup
+bip_39_word_no_space_11: visalessontrialbidmilkclimbdonkeyfameshedgroupimmense
+bip_39_word_no_space_12: visalessontrialbidmilkclimbdonkeyfameshedgroupimmenseannual
+bip_39_word_no_space_2: visalesson
+bip_39_word_no_space_3: visalessontrial
+bip_39_word_no_space_4: visalessontrialbid
+bip_39_word_no_space_5: visalessontrialbidmilk
+bip_39_word_no_space_6: visalessontrialbidmilkclimb
+bip_39_word_no_space_7: visalessontrialbidmilkclimbdonkey
+bip_39_word_no_space_8: visalessontrialbidmilkclimbdonkeyfame
+bip_39_word_no_space_9: visalessontrialbidmilkclimbdonkeyfameshed
+bip_39_word_space_0:
+- visa
+- lesson
+- trial
+- bid
+- milk
+- climb
+- donkey
+- fame
+- shed
+- group
+- immense
+- annual
+bip_39_word_space_1: visa
+bip_39_word_space_10: visa lesson trial bid milk climb donkey fame shed group
+bip_39_word_space_11: visa lesson trial bid milk climb donkey fame shed group immense
+bip_39_word_space_12: visa lesson trial bid milk climb donkey fame shed group immense
+  annual
+bip_39_word_space_2: visa lesson
+bip_39_word_space_3: visa lesson trial
+bip_39_word_space_4: visa lesson trial bid
+bip_39_word_space_5: visa lesson trial bid milk
+bip_39_word_space_6: visa lesson trial bid milk climb
+bip_39_word_space_7: visa lesson trial bid milk climb donkey
+bip_39_word_space_8: visa lesson trial bid milk climb donkey fame
+bip_39_word_space_9: visa lesson trial bid milk climb donkey fame shed
+bip_39_word_underscore_1: visa
+bip_39_word_underscore_10: visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group
+bip_39_word_underscore_11: visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group_immense
+bip_39_word_underscore_12: visa_lesson_trial_bid_milk_climb_donkey_fame_shed_group_immense_annual
+bip_39_word_underscore_2: visa_lesson
+bip_39_word_underscore_3: visa_lesson_trial
+bip_39_word_underscore_4: visa_lesson_trial_bid
+bip_39_word_underscore_5: visa_lesson_trial_bid_milk
+bip_39_word_underscore_6: visa_lesson_trial_bid_milk_climb
+bip_39_word_underscore_7: visa_lesson_trial_bid_milk_climb_donkey
+bip_39_word_underscore_8: visa_lesson_trial_bid_milk_climb_donkey_fame
+bip_39_word_underscore_9: visa_lesson_trial_bid_milk_climb_donkey_fame_shed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_03_08_09
 id_no_color: 030809
 id_no_size: 03_08_09
 id_no_type: tray_03_08_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vy1l
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vy1l
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vy1l
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 030809
 name_no_size: 03 08 09
 name_no_size_short: 03 08 09
 name_no_type: Tray 03 08 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_08_09
 oomp_word: basketball rowboat pray
 oomp_word_emoji: ':basketball: :rowboat: :pray:'

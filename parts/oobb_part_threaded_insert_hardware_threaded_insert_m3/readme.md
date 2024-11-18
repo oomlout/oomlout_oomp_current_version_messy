@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Threaded Insert Hardware Threaded Insert M3
+* name_short: 
 ### id
 * oomp_id: oobb_part_threaded_insert_hardware_threaded_insert_m3
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :blowfish: :lemon: :whale:
 * md5_6_alpha: 3nql0
 * md5_6: 5dc954
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203nql0)
+[2x1](http://192.168.1.242:1112/?label=oomp%203nql0)
+[6x4](http://192.168.1.55:1112/?label=oomp%203nql0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ wrong |
 | id_no_color | hardwarem3 |  
 | id_no_size | hardware_m3 |  
 | id_no_type | threaded_insert_hardware_threaded_insert_m3 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203nql0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203nql0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203nql0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ wrong |
 | name_no_size | Hardware M3 |  
 | name_no_size_short | Hardware M3 |  
 | name_no_type | Threaded Insert Hardware Threaded Insert M3 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
 | oomp_word | blowfish lemon whale |  
 | oomp_word_emoji | :blowfish: :lemon: :whale: |  

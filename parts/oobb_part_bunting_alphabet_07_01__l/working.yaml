@@ -1,3 +1,223 @@
+bip_39_word_dash_1: country
+bip_39_word_dash_10: country-treat-carry-warrior-address-hire-illegal-wait-rather-method
+bip_39_word_dash_11: country-treat-carry-warrior-address-hire-illegal-wait-rather-method-mask
+bip_39_word_dash_12: country-treat-carry-warrior-address-hire-illegal-wait-rather-method-mask-artist
+bip_39_word_dash_2: country-treat
+bip_39_word_dash_3: country-treat-carry
+bip_39_word_dash_4: country-treat-carry-warrior
+bip_39_word_dash_5: country-treat-carry-warrior-address
+bip_39_word_dash_6: country-treat-carry-warrior-address-hire
+bip_39_word_dash_7: country-treat-carry-warrior-address-hire-illegal
+bip_39_word_dash_8: country-treat-carry-warrior-address-hire-illegal-wait
+bip_39_word_dash_9: country-treat-carry-warrior-address-hire-illegal-wait-rather
+bip_39_word_new_br_1: country
+bip_39_word_new_br_10: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method
+bip_39_word_new_br_11: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask
+bip_39_word_new_br_12: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather<br>method<br>mask<br>artist
+bip_39_word_new_br_2: country<br>treat
+bip_39_word_new_br_3: country<br>treat<br>carry
+bip_39_word_new_br_4: country<br>treat<br>carry<br>warrior
+bip_39_word_new_br_5: country<br>treat<br>carry<br>warrior<br>address
+bip_39_word_new_br_6: country<br>treat<br>carry<br>warrior<br>address<br>hire
+bip_39_word_new_br_7: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal
+bip_39_word_new_br_8: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait
+bip_39_word_new_br_9: country<br>treat<br>carry<br>warrior<br>address<br>hire<br>illegal<br>wait<br>rather
+bip_39_word_new_line_1: country
+bip_39_word_new_line_10: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal
+
+  wait
+
+  rather
+
+  method'
+bip_39_word_new_line_11: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal
+
+  wait
+
+  rather
+
+  method
+
+  mask'
+bip_39_word_new_line_12: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal
+
+  wait
+
+  rather
+
+  method
+
+  mask
+
+  artist'
+bip_39_word_new_line_2: 'country
+
+  treat'
+bip_39_word_new_line_3: 'country
+
+  treat
+
+  carry'
+bip_39_word_new_line_4: 'country
+
+  treat
+
+  carry
+
+  warrior'
+bip_39_word_new_line_5: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address'
+bip_39_word_new_line_6: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire'
+bip_39_word_new_line_7: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal'
+bip_39_word_new_line_8: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal
+
+  wait'
+bip_39_word_new_line_9: 'country
+
+  treat
+
+  carry
+
+  warrior
+
+  address
+
+  hire
+
+  illegal
+
+  wait
+
+  rather'
+bip_39_word_no_space_1: country
+bip_39_word_no_space_10: countrytreatcarrywarrioraddresshireillegalwaitrathermethod
+bip_39_word_no_space_11: countrytreatcarrywarrioraddresshireillegalwaitrathermethodmask
+bip_39_word_no_space_12: countrytreatcarrywarrioraddresshireillegalwaitrathermethodmaskartist
+bip_39_word_no_space_2: countrytreat
+bip_39_word_no_space_3: countrytreatcarry
+bip_39_word_no_space_4: countrytreatcarrywarrior
+bip_39_word_no_space_5: countrytreatcarrywarrioraddress
+bip_39_word_no_space_6: countrytreatcarrywarrioraddresshire
+bip_39_word_no_space_7: countrytreatcarrywarrioraddresshireillegal
+bip_39_word_no_space_8: countrytreatcarrywarrioraddresshireillegalwait
+bip_39_word_no_space_9: countrytreatcarrywarrioraddresshireillegalwaitrather
+bip_39_word_space_0:
+- country
+- treat
+- carry
+- warrior
+- address
+- hire
+- illegal
+- wait
+- rather
+- method
+- mask
+- artist
+bip_39_word_space_1: country
+bip_39_word_space_10: country treat carry warrior address hire illegal wait rather
+  method
+bip_39_word_space_11: country treat carry warrior address hire illegal wait rather
+  method mask
+bip_39_word_space_12: country treat carry warrior address hire illegal wait rather
+  method mask artist
+bip_39_word_space_2: country treat
+bip_39_word_space_3: country treat carry
+bip_39_word_space_4: country treat carry warrior
+bip_39_word_space_5: country treat carry warrior address
+bip_39_word_space_6: country treat carry warrior address hire
+bip_39_word_space_7: country treat carry warrior address hire illegal
+bip_39_word_space_8: country treat carry warrior address hire illegal wait
+bip_39_word_space_9: country treat carry warrior address hire illegal wait rather
+bip_39_word_underscore_1: country
+bip_39_word_underscore_10: country_treat_carry_warrior_address_hire_illegal_wait_rather_method
+bip_39_word_underscore_11: country_treat_carry_warrior_address_hire_illegal_wait_rather_method_mask
+bip_39_word_underscore_12: country_treat_carry_warrior_address_hire_illegal_wait_rather_method_mask_artist
+bip_39_word_underscore_2: country_treat
+bip_39_word_underscore_3: country_treat_carry
+bip_39_word_underscore_4: country_treat_carry_warrior
+bip_39_word_underscore_5: country_treat_carry_warrior_address
+bip_39_word_underscore_6: country_treat_carry_warrior_address_hire
+bip_39_word_underscore_7: country_treat_carry_warrior_address_hire_illegal
+bip_39_word_underscore_8: country_treat_carry_warrior_address_hire_illegal_wait
+bip_39_word_underscore_9: country_treat_carry_warrior_address_hire_illegal_wait_rather
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_07_01__l
 id_no_color: 0701l
 id_no_size: 07_01__l
 id_no_type: bunting_alphabet_07_01__l
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__l
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__l
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__l
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2085o0z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2085o0z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2085o0z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0701L
 name_no_size: 07 01  L
 name_no_size_short: 07 01  L
 name_no_type: Bunting Alphabet 07 01  L
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__l
 oomp_word: pear star rowboat
 oomp_word_emoji: ':pear: :star: :rowboat:'

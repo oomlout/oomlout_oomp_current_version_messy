@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slogan
+bip_39_word_dash_10: slogan-clog-south-pink-better-river-salad-reunion-observe-real
+bip_39_word_dash_11: slogan-clog-south-pink-better-river-salad-reunion-observe-real-wise
+bip_39_word_dash_12: slogan-clog-south-pink-better-river-salad-reunion-observe-real-wise-accuse
+bip_39_word_dash_2: slogan-clog
+bip_39_word_dash_3: slogan-clog-south
+bip_39_word_dash_4: slogan-clog-south-pink
+bip_39_word_dash_5: slogan-clog-south-pink-better
+bip_39_word_dash_6: slogan-clog-south-pink-better-river
+bip_39_word_dash_7: slogan-clog-south-pink-better-river-salad
+bip_39_word_dash_8: slogan-clog-south-pink-better-river-salad-reunion
+bip_39_word_dash_9: slogan-clog-south-pink-better-river-salad-reunion-observe
+bip_39_word_new_br_1: slogan
+bip_39_word_new_br_10: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real
+bip_39_word_new_br_11: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise
+bip_39_word_new_br_12: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe<br>real<br>wise<br>accuse
+bip_39_word_new_br_2: slogan<br>clog
+bip_39_word_new_br_3: slogan<br>clog<br>south
+bip_39_word_new_br_4: slogan<br>clog<br>south<br>pink
+bip_39_word_new_br_5: slogan<br>clog<br>south<br>pink<br>better
+bip_39_word_new_br_6: slogan<br>clog<br>south<br>pink<br>better<br>river
+bip_39_word_new_br_7: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad
+bip_39_word_new_br_8: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion
+bip_39_word_new_br_9: slogan<br>clog<br>south<br>pink<br>better<br>river<br>salad<br>reunion<br>observe
+bip_39_word_new_line_1: slogan
+bip_39_word_new_line_10: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad
+
+  reunion
+
+  observe
+
+  real'
+bip_39_word_new_line_11: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad
+
+  reunion
+
+  observe
+
+  real
+
+  wise'
+bip_39_word_new_line_12: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad
+
+  reunion
+
+  observe
+
+  real
+
+  wise
+
+  accuse'
+bip_39_word_new_line_2: 'slogan
+
+  clog'
+bip_39_word_new_line_3: 'slogan
+
+  clog
+
+  south'
+bip_39_word_new_line_4: 'slogan
+
+  clog
+
+  south
+
+  pink'
+bip_39_word_new_line_5: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better'
+bip_39_word_new_line_6: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river'
+bip_39_word_new_line_7: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad'
+bip_39_word_new_line_8: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad
+
+  reunion'
+bip_39_word_new_line_9: 'slogan
+
+  clog
+
+  south
+
+  pink
+
+  better
+
+  river
+
+  salad
+
+  reunion
+
+  observe'
+bip_39_word_no_space_1: slogan
+bip_39_word_no_space_10: sloganclogsouthpinkbetterriversaladreunionobservereal
+bip_39_word_no_space_11: sloganclogsouthpinkbetterriversaladreunionobserverealwise
+bip_39_word_no_space_12: sloganclogsouthpinkbetterriversaladreunionobserverealwiseaccuse
+bip_39_word_no_space_2: sloganclog
+bip_39_word_no_space_3: sloganclogsouth
+bip_39_word_no_space_4: sloganclogsouthpink
+bip_39_word_no_space_5: sloganclogsouthpinkbetter
+bip_39_word_no_space_6: sloganclogsouthpinkbetterriver
+bip_39_word_no_space_7: sloganclogsouthpinkbetterriversalad
+bip_39_word_no_space_8: sloganclogsouthpinkbetterriversaladreunion
+bip_39_word_no_space_9: sloganclogsouthpinkbetterriversaladreunionobserve
+bip_39_word_space_0:
+- slogan
+- clog
+- south
+- pink
+- better
+- river
+- salad
+- reunion
+- observe
+- real
+- wise
+- accuse
+bip_39_word_space_1: slogan
+bip_39_word_space_10: slogan clog south pink better river salad reunion observe real
+bip_39_word_space_11: slogan clog south pink better river salad reunion observe real
+  wise
+bip_39_word_space_12: slogan clog south pink better river salad reunion observe real
+  wise accuse
+bip_39_word_space_2: slogan clog
+bip_39_word_space_3: slogan clog south
+bip_39_word_space_4: slogan clog south pink
+bip_39_word_space_5: slogan clog south pink better
+bip_39_word_space_6: slogan clog south pink better river
+bip_39_word_space_7: slogan clog south pink better river salad
+bip_39_word_space_8: slogan clog south pink better river salad reunion
+bip_39_word_space_9: slogan clog south pink better river salad reunion observe
+bip_39_word_underscore_1: slogan
+bip_39_word_underscore_10: slogan_clog_south_pink_better_river_salad_reunion_observe_real
+bip_39_word_underscore_11: slogan_clog_south_pink_better_river_salad_reunion_observe_real_wise
+bip_39_word_underscore_12: slogan_clog_south_pink_better_river_salad_reunion_observe_real_wise_accuse
+bip_39_word_underscore_2: slogan_clog
+bip_39_word_underscore_3: slogan_clog_south
+bip_39_word_underscore_4: slogan_clog_south_pink
+bip_39_word_underscore_5: slogan_clog_south_pink_better
+bip_39_word_underscore_6: slogan_clog_south_pink_better_river
+bip_39_word_underscore_7: slogan_clog_south_pink_better_river_salad
+bip_39_word_underscore_8: slogan_clog_south_pink_better_river_salad_reunion
+bip_39_word_underscore_9: slogan_clog_south_pink_better_river_salad_reunion_observe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_04_01_12
 id_no_color: '040112'
 id_no_size: '04_01_12'
 id_no_type: tray_vertical_04_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2013ai4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2013ai4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2013ai4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040112'
 name_no_size: 04 01 12
 name_no_size_short: 04 01 12
 name_no_type: Tray Vertical 04 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_04_01_12
 oomp_word: muscle seven taxi
 oomp_word_emoji: ':muscle: :seven: :taxi:'

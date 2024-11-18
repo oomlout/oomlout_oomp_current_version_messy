@@ -1,3 +1,222 @@
+bip_39_word_dash_1: retire
+bip_39_word_dash_10: retire-faith-sure-story-allow-submit-increase-hub-sting-modify
+bip_39_word_dash_11: retire-faith-sure-story-allow-submit-increase-hub-sting-modify-mixture
+bip_39_word_dash_12: retire-faith-sure-story-allow-submit-increase-hub-sting-modify-mixture-approve
+bip_39_word_dash_2: retire-faith
+bip_39_word_dash_3: retire-faith-sure
+bip_39_word_dash_4: retire-faith-sure-story
+bip_39_word_dash_5: retire-faith-sure-story-allow
+bip_39_word_dash_6: retire-faith-sure-story-allow-submit
+bip_39_word_dash_7: retire-faith-sure-story-allow-submit-increase
+bip_39_word_dash_8: retire-faith-sure-story-allow-submit-increase-hub
+bip_39_word_dash_9: retire-faith-sure-story-allow-submit-increase-hub-sting
+bip_39_word_new_br_1: retire
+bip_39_word_new_br_10: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify
+bip_39_word_new_br_11: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture
+bip_39_word_new_br_12: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting<br>modify<br>mixture<br>approve
+bip_39_word_new_br_2: retire<br>faith
+bip_39_word_new_br_3: retire<br>faith<br>sure
+bip_39_word_new_br_4: retire<br>faith<br>sure<br>story
+bip_39_word_new_br_5: retire<br>faith<br>sure<br>story<br>allow
+bip_39_word_new_br_6: retire<br>faith<br>sure<br>story<br>allow<br>submit
+bip_39_word_new_br_7: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase
+bip_39_word_new_br_8: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub
+bip_39_word_new_br_9: retire<br>faith<br>sure<br>story<br>allow<br>submit<br>increase<br>hub<br>sting
+bip_39_word_new_line_1: retire
+bip_39_word_new_line_10: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase
+
+  hub
+
+  sting
+
+  modify'
+bip_39_word_new_line_11: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase
+
+  hub
+
+  sting
+
+  modify
+
+  mixture'
+bip_39_word_new_line_12: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase
+
+  hub
+
+  sting
+
+  modify
+
+  mixture
+
+  approve'
+bip_39_word_new_line_2: 'retire
+
+  faith'
+bip_39_word_new_line_3: 'retire
+
+  faith
+
+  sure'
+bip_39_word_new_line_4: 'retire
+
+  faith
+
+  sure
+
+  story'
+bip_39_word_new_line_5: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow'
+bip_39_word_new_line_6: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit'
+bip_39_word_new_line_7: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase'
+bip_39_word_new_line_8: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase
+
+  hub'
+bip_39_word_new_line_9: 'retire
+
+  faith
+
+  sure
+
+  story
+
+  allow
+
+  submit
+
+  increase
+
+  hub
+
+  sting'
+bip_39_word_no_space_1: retire
+bip_39_word_no_space_10: retirefaithsurestoryallowsubmitincreasehubstingmodify
+bip_39_word_no_space_11: retirefaithsurestoryallowsubmitincreasehubstingmodifymixture
+bip_39_word_no_space_12: retirefaithsurestoryallowsubmitincreasehubstingmodifymixtureapprove
+bip_39_word_no_space_2: retirefaith
+bip_39_word_no_space_3: retirefaithsure
+bip_39_word_no_space_4: retirefaithsurestory
+bip_39_word_no_space_5: retirefaithsurestoryallow
+bip_39_word_no_space_6: retirefaithsurestoryallowsubmit
+bip_39_word_no_space_7: retirefaithsurestoryallowsubmitincrease
+bip_39_word_no_space_8: retirefaithsurestoryallowsubmitincreasehub
+bip_39_word_no_space_9: retirefaithsurestoryallowsubmitincreasehubsting
+bip_39_word_space_0:
+- retire
+- faith
+- sure
+- story
+- allow
+- submit
+- increase
+- hub
+- sting
+- modify
+- mixture
+- approve
+bip_39_word_space_1: retire
+bip_39_word_space_10: retire faith sure story allow submit increase hub sting modify
+bip_39_word_space_11: retire faith sure story allow submit increase hub sting modify
+  mixture
+bip_39_word_space_12: retire faith sure story allow submit increase hub sting modify
+  mixture approve
+bip_39_word_space_2: retire faith
+bip_39_word_space_3: retire faith sure
+bip_39_word_space_4: retire faith sure story
+bip_39_word_space_5: retire faith sure story allow
+bip_39_word_space_6: retire faith sure story allow submit
+bip_39_word_space_7: retire faith sure story allow submit increase
+bip_39_word_space_8: retire faith sure story allow submit increase hub
+bip_39_word_space_9: retire faith sure story allow submit increase hub sting
+bip_39_word_underscore_1: retire
+bip_39_word_underscore_10: retire_faith_sure_story_allow_submit_increase_hub_sting_modify
+bip_39_word_underscore_11: retire_faith_sure_story_allow_submit_increase_hub_sting_modify_mixture
+bip_39_word_underscore_12: retire_faith_sure_story_allow_submit_increase_hub_sting_modify_mixture_approve
+bip_39_word_underscore_2: retire_faith
+bip_39_word_underscore_3: retire_faith_sure
+bip_39_word_underscore_4: retire_faith_sure_story
+bip_39_word_underscore_5: retire_faith_sure_story_allow
+bip_39_word_underscore_6: retire_faith_sure_story_allow_submit
+bip_39_word_underscore_7: retire_faith_sure_story_allow_submit_increase
+bip_39_word_underscore_8: retire_faith_sure_story_allow_submit_increase_hub
+bip_39_word_underscore_9: retire_faith_sure_story_allow_submit_increase_hub_sting
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_12_30
 id_no_color: '141230'
 id_no_size: '14_12_30'
 id_no_type: tray_thin_14_12_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_12_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206r5wj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206r5wj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206r5wj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141230'
 name_no_size: 14 12 30
 name_no_size_short: 14 12 30
 name_no_type: Tray Thin 14 12 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_12_30
 oomp_word: dress dancer pencil
 oomp_word_emoji: ':dress: :dancer: :pencil:'

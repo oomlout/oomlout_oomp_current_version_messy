@@ -1,3 +1,223 @@
+bip_39_word_dash_1: shiver
+bip_39_word_dash_10: shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant
+bip_39_word_dash_11: shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant-remove
+bip_39_word_dash_12: shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe-vacant-remove-artefact
+bip_39_word_dash_2: shiver-fatigue
+bip_39_word_dash_3: shiver-fatigue-idea
+bip_39_word_dash_4: shiver-fatigue-idea-garbage
+bip_39_word_dash_5: shiver-fatigue-idea-garbage-crystal
+bip_39_word_dash_6: shiver-fatigue-idea-garbage-crystal-buyer
+bip_39_word_dash_7: shiver-fatigue-idea-garbage-crystal-buyer-amount
+bip_39_word_dash_8: shiver-fatigue-idea-garbage-crystal-buyer-amount-rival
+bip_39_word_dash_9: shiver-fatigue-idea-garbage-crystal-buyer-amount-rival-pipe
+bip_39_word_new_br_1: shiver
+bip_39_word_new_br_10: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe<br>vacant
+bip_39_word_new_br_11: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe<br>vacant<br>remove
+bip_39_word_new_br_12: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe<br>vacant<br>remove<br>artefact
+bip_39_word_new_br_2: shiver<br>fatigue
+bip_39_word_new_br_3: shiver<br>fatigue<br>idea
+bip_39_word_new_br_4: shiver<br>fatigue<br>idea<br>garbage
+bip_39_word_new_br_5: shiver<br>fatigue<br>idea<br>garbage<br>crystal
+bip_39_word_new_br_6: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer
+bip_39_word_new_br_7: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount
+bip_39_word_new_br_8: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival
+bip_39_word_new_br_9: shiver<br>fatigue<br>idea<br>garbage<br>crystal<br>buyer<br>amount<br>rival<br>pipe
+bip_39_word_new_line_1: shiver
+bip_39_word_new_line_10: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount
+
+  rival
+
+  pipe
+
+  vacant'
+bip_39_word_new_line_11: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount
+
+  rival
+
+  pipe
+
+  vacant
+
+  remove'
+bip_39_word_new_line_12: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount
+
+  rival
+
+  pipe
+
+  vacant
+
+  remove
+
+  artefact'
+bip_39_word_new_line_2: 'shiver
+
+  fatigue'
+bip_39_word_new_line_3: 'shiver
+
+  fatigue
+
+  idea'
+bip_39_word_new_line_4: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage'
+bip_39_word_new_line_5: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal'
+bip_39_word_new_line_6: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer'
+bip_39_word_new_line_7: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount'
+bip_39_word_new_line_8: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount
+
+  rival'
+bip_39_word_new_line_9: 'shiver
+
+  fatigue
+
+  idea
+
+  garbage
+
+  crystal
+
+  buyer
+
+  amount
+
+  rival
+
+  pipe'
+bip_39_word_no_space_1: shiver
+bip_39_word_no_space_10: shiverfatigueideagarbagecrystalbuyeramountrivalpipevacant
+bip_39_word_no_space_11: shiverfatigueideagarbagecrystalbuyeramountrivalpipevacantremove
+bip_39_word_no_space_12: shiverfatigueideagarbagecrystalbuyeramountrivalpipevacantremoveartefact
+bip_39_word_no_space_2: shiverfatigue
+bip_39_word_no_space_3: shiverfatigueidea
+bip_39_word_no_space_4: shiverfatigueideagarbage
+bip_39_word_no_space_5: shiverfatigueideagarbagecrystal
+bip_39_word_no_space_6: shiverfatigueideagarbagecrystalbuyer
+bip_39_word_no_space_7: shiverfatigueideagarbagecrystalbuyeramount
+bip_39_word_no_space_8: shiverfatigueideagarbagecrystalbuyeramountrival
+bip_39_word_no_space_9: shiverfatigueideagarbagecrystalbuyeramountrivalpipe
+bip_39_word_space_0:
+- shiver
+- fatigue
+- idea
+- garbage
+- crystal
+- buyer
+- amount
+- rival
+- pipe
+- vacant
+- remove
+- artefact
+bip_39_word_space_1: shiver
+bip_39_word_space_10: shiver fatigue idea garbage crystal buyer amount rival pipe
+  vacant
+bip_39_word_space_11: shiver fatigue idea garbage crystal buyer amount rival pipe
+  vacant remove
+bip_39_word_space_12: shiver fatigue idea garbage crystal buyer amount rival pipe
+  vacant remove artefact
+bip_39_word_space_2: shiver fatigue
+bip_39_word_space_3: shiver fatigue idea
+bip_39_word_space_4: shiver fatigue idea garbage
+bip_39_word_space_5: shiver fatigue idea garbage crystal
+bip_39_word_space_6: shiver fatigue idea garbage crystal buyer
+bip_39_word_space_7: shiver fatigue idea garbage crystal buyer amount
+bip_39_word_space_8: shiver fatigue idea garbage crystal buyer amount rival
+bip_39_word_space_9: shiver fatigue idea garbage crystal buyer amount rival pipe
+bip_39_word_underscore_1: shiver
+bip_39_word_underscore_10: shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant
+bip_39_word_underscore_11: shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant_remove
+bip_39_word_underscore_12: shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe_vacant_remove_artefact
+bip_39_word_underscore_2: shiver_fatigue
+bip_39_word_underscore_3: shiver_fatigue_idea
+bip_39_word_underscore_4: shiver_fatigue_idea_garbage
+bip_39_word_underscore_5: shiver_fatigue_idea_garbage_crystal
+bip_39_word_underscore_6: shiver_fatigue_idea_garbage_crystal_buyer
+bip_39_word_underscore_7: shiver_fatigue_idea_garbage_crystal_buyer_amount
+bip_39_word_underscore_8: shiver_fatigue_idea_garbage_crystal_buyer_amount_rival
+bip_39_word_underscore_9: shiver_fatigue_idea_garbage_crystal_buyer_amount_rival_pipe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_03_07_24
 id_no_color: '030724'
 id_no_size: '03_07_24'
 id_no_type: tray_03_07_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_07_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_07_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_07_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2083cvw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2083cvw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2083cvw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '030724'
 name_no_size: 03 07 24
 name_no_size_short: 03 07 24
 name_no_type: Tray 03 07 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_07_24
 oomp_word: melon chestnut up
 oomp_word_emoji: ':melon: :chestnut: :up:'

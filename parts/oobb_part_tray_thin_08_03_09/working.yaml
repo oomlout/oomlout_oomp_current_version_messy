@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boat
+bip_39_word_dash_10: boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing
+bip_39_word_dash_11: boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing-dove
+bip_39_word_dash_12: boat-faculty-shine-flight-brick-hint-bind-grocery-cause-wing-dove-approve
+bip_39_word_dash_2: boat-faculty
+bip_39_word_dash_3: boat-faculty-shine
+bip_39_word_dash_4: boat-faculty-shine-flight
+bip_39_word_dash_5: boat-faculty-shine-flight-brick
+bip_39_word_dash_6: boat-faculty-shine-flight-brick-hint
+bip_39_word_dash_7: boat-faculty-shine-flight-brick-hint-bind
+bip_39_word_dash_8: boat-faculty-shine-flight-brick-hint-bind-grocery
+bip_39_word_dash_9: boat-faculty-shine-flight-brick-hint-bind-grocery-cause
+bip_39_word_new_br_1: boat
+bip_39_word_new_br_10: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing
+bip_39_word_new_br_11: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing<br>dove
+bip_39_word_new_br_12: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause<br>wing<br>dove<br>approve
+bip_39_word_new_br_2: boat<br>faculty
+bip_39_word_new_br_3: boat<br>faculty<br>shine
+bip_39_word_new_br_4: boat<br>faculty<br>shine<br>flight
+bip_39_word_new_br_5: boat<br>faculty<br>shine<br>flight<br>brick
+bip_39_word_new_br_6: boat<br>faculty<br>shine<br>flight<br>brick<br>hint
+bip_39_word_new_br_7: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind
+bip_39_word_new_br_8: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery
+bip_39_word_new_br_9: boat<br>faculty<br>shine<br>flight<br>brick<br>hint<br>bind<br>grocery<br>cause
+bip_39_word_new_line_1: boat
+bip_39_word_new_line_10: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind
+
+  grocery
+
+  cause
+
+  wing'
+bip_39_word_new_line_11: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind
+
+  grocery
+
+  cause
+
+  wing
+
+  dove'
+bip_39_word_new_line_12: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind
+
+  grocery
+
+  cause
+
+  wing
+
+  dove
+
+  approve'
+bip_39_word_new_line_2: 'boat
+
+  faculty'
+bip_39_word_new_line_3: 'boat
+
+  faculty
+
+  shine'
+bip_39_word_new_line_4: 'boat
+
+  faculty
+
+  shine
+
+  flight'
+bip_39_word_new_line_5: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick'
+bip_39_word_new_line_6: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint'
+bip_39_word_new_line_7: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind'
+bip_39_word_new_line_8: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind
+
+  grocery'
+bip_39_word_new_line_9: 'boat
+
+  faculty
+
+  shine
+
+  flight
+
+  brick
+
+  hint
+
+  bind
+
+  grocery
+
+  cause'
+bip_39_word_no_space_1: boat
+bip_39_word_no_space_10: boatfacultyshineflightbrickhintbindgrocerycausewing
+bip_39_word_no_space_11: boatfacultyshineflightbrickhintbindgrocerycausewingdove
+bip_39_word_no_space_12: boatfacultyshineflightbrickhintbindgrocerycausewingdoveapprove
+bip_39_word_no_space_2: boatfaculty
+bip_39_word_no_space_3: boatfacultyshine
+bip_39_word_no_space_4: boatfacultyshineflight
+bip_39_word_no_space_5: boatfacultyshineflightbrick
+bip_39_word_no_space_6: boatfacultyshineflightbrickhint
+bip_39_word_no_space_7: boatfacultyshineflightbrickhintbind
+bip_39_word_no_space_8: boatfacultyshineflightbrickhintbindgrocery
+bip_39_word_no_space_9: boatfacultyshineflightbrickhintbindgrocerycause
+bip_39_word_space_0:
+- boat
+- faculty
+- shine
+- flight
+- brick
+- hint
+- bind
+- grocery
+- cause
+- wing
+- dove
+- approve
+bip_39_word_space_1: boat
+bip_39_word_space_10: boat faculty shine flight brick hint bind grocery cause wing
+bip_39_word_space_11: boat faculty shine flight brick hint bind grocery cause wing
+  dove
+bip_39_word_space_12: boat faculty shine flight brick hint bind grocery cause wing
+  dove approve
+bip_39_word_space_2: boat faculty
+bip_39_word_space_3: boat faculty shine
+bip_39_word_space_4: boat faculty shine flight
+bip_39_word_space_5: boat faculty shine flight brick
+bip_39_word_space_6: boat faculty shine flight brick hint
+bip_39_word_space_7: boat faculty shine flight brick hint bind
+bip_39_word_space_8: boat faculty shine flight brick hint bind grocery
+bip_39_word_space_9: boat faculty shine flight brick hint bind grocery cause
+bip_39_word_underscore_1: boat
+bip_39_word_underscore_10: boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing
+bip_39_word_underscore_11: boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing_dove
+bip_39_word_underscore_12: boat_faculty_shine_flight_brick_hint_bind_grocery_cause_wing_dove_approve
+bip_39_word_underscore_2: boat_faculty
+bip_39_word_underscore_3: boat_faculty_shine
+bip_39_word_underscore_4: boat_faculty_shine_flight
+bip_39_word_underscore_5: boat_faculty_shine_flight_brick
+bip_39_word_underscore_6: boat_faculty_shine_flight_brick_hint
+bip_39_word_underscore_7: boat_faculty_shine_flight_brick_hint_bind
+bip_39_word_underscore_8: boat_faculty_shine_flight_brick_hint_bind_grocery
+bip_39_word_underscore_9: boat_faculty_shine_flight_brick_hint_bind_grocery_cause
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_03_09
 id_no_color: 080309
 id_no_size: 08_03_09
 id_no_type: tray_thin_08_03_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_03_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206qbpa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206qbpa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206qbpa
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080309
 name_no_size: 08 03 09
 name_no_size_short: 08 03 09
 name_no_type: Tray Thin 08 03 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_03_09
 oomp_word: shirt lock ramen
 oomp_word_emoji: ':shirt: :lock: :ramen:'

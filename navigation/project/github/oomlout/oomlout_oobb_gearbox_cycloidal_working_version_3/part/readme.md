@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Gearbox Cycloidal Working Version 3
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :truck: :tennis: :dragon:
 * md5_6_alpha: 9cjtl
 * md5_6: ef9859
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209cjtl)
+[2x1](http://192.168.1.242:1112/?label=oomp%209cjtl)
+[6x4](http://192.168.1.55:1112/?label=oomp%209cjtl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ antique |
 | id_no_color | oobb_gearbox_cycloidal_working_version_3 |  
 | id_no_size | oobb_gearbox_cycloidal_working_version_3 |  
 | id_no_type | oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209cjtl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209cjtl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209cjtl |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_gearbox_cycloidal_working_version_3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ antique |
 | name_no_size | Oobb Gearbox Cycloidal Working Version 3 |  
 | name_no_size_short | Oobb Gearbox Cycloidal Working Version 3 |  
 | name_no_type | Oomlout Oomlout Oobb Gearbox Cycloidal Working Version 3 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_gearbox_cycloidal_working_version_3 |  
 | oomp_word | truck tennis dragon |  
 | oomp_word_emoji | :truck: :tennis: :dragon: |  

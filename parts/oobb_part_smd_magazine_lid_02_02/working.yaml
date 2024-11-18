@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rule
+bip_39_word_dash_10: rule-uncover-phrase-smart-jacket-bachelor-evoke-vocal-clock-reopen
+bip_39_word_dash_11: rule-uncover-phrase-smart-jacket-bachelor-evoke-vocal-clock-reopen-reform
+bip_39_word_dash_12: rule-uncover-phrase-smart-jacket-bachelor-evoke-vocal-clock-reopen-reform-action
+bip_39_word_dash_2: rule-uncover
+bip_39_word_dash_3: rule-uncover-phrase
+bip_39_word_dash_4: rule-uncover-phrase-smart
+bip_39_word_dash_5: rule-uncover-phrase-smart-jacket
+bip_39_word_dash_6: rule-uncover-phrase-smart-jacket-bachelor
+bip_39_word_dash_7: rule-uncover-phrase-smart-jacket-bachelor-evoke
+bip_39_word_dash_8: rule-uncover-phrase-smart-jacket-bachelor-evoke-vocal
+bip_39_word_dash_9: rule-uncover-phrase-smart-jacket-bachelor-evoke-vocal-clock
+bip_39_word_new_br_1: rule
+bip_39_word_new_br_10: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen
+bip_39_word_new_br_11: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform
+bip_39_word_new_br_12: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock<br>reopen<br>reform<br>action
+bip_39_word_new_br_2: rule<br>uncover
+bip_39_word_new_br_3: rule<br>uncover<br>phrase
+bip_39_word_new_br_4: rule<br>uncover<br>phrase<br>smart
+bip_39_word_new_br_5: rule<br>uncover<br>phrase<br>smart<br>jacket
+bip_39_word_new_br_6: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor
+bip_39_word_new_br_7: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke
+bip_39_word_new_br_8: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal
+bip_39_word_new_br_9: rule<br>uncover<br>phrase<br>smart<br>jacket<br>bachelor<br>evoke<br>vocal<br>clock
+bip_39_word_new_line_1: rule
+bip_39_word_new_line_10: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke
+
+  vocal
+
+  clock
+
+  reopen'
+bip_39_word_new_line_11: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke
+
+  vocal
+
+  clock
+
+  reopen
+
+  reform'
+bip_39_word_new_line_12: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke
+
+  vocal
+
+  clock
+
+  reopen
+
+  reform
+
+  action'
+bip_39_word_new_line_2: 'rule
+
+  uncover'
+bip_39_word_new_line_3: 'rule
+
+  uncover
+
+  phrase'
+bip_39_word_new_line_4: 'rule
+
+  uncover
+
+  phrase
+
+  smart'
+bip_39_word_new_line_5: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket'
+bip_39_word_new_line_6: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor'
+bip_39_word_new_line_7: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke'
+bip_39_word_new_line_8: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke
+
+  vocal'
+bip_39_word_new_line_9: 'rule
+
+  uncover
+
+  phrase
+
+  smart
+
+  jacket
+
+  bachelor
+
+  evoke
+
+  vocal
+
+  clock'
+bip_39_word_no_space_1: rule
+bip_39_word_no_space_10: ruleuncoverphrasesmartjacketbachelorevokevocalclockreopen
+bip_39_word_no_space_11: ruleuncoverphrasesmartjacketbachelorevokevocalclockreopenreform
+bip_39_word_no_space_12: ruleuncoverphrasesmartjacketbachelorevokevocalclockreopenreformaction
+bip_39_word_no_space_2: ruleuncover
+bip_39_word_no_space_3: ruleuncoverphrase
+bip_39_word_no_space_4: ruleuncoverphrasesmart
+bip_39_word_no_space_5: ruleuncoverphrasesmartjacket
+bip_39_word_no_space_6: ruleuncoverphrasesmartjacketbachelor
+bip_39_word_no_space_7: ruleuncoverphrasesmartjacketbachelorevoke
+bip_39_word_no_space_8: ruleuncoverphrasesmartjacketbachelorevokevocal
+bip_39_word_no_space_9: ruleuncoverphrasesmartjacketbachelorevokevocalclock
+bip_39_word_space_0:
+- rule
+- uncover
+- phrase
+- smart
+- jacket
+- bachelor
+- evoke
+- vocal
+- clock
+- reopen
+- reform
+- action
+bip_39_word_space_1: rule
+bip_39_word_space_10: rule uncover phrase smart jacket bachelor evoke vocal clock
+  reopen
+bip_39_word_space_11: rule uncover phrase smart jacket bachelor evoke vocal clock
+  reopen reform
+bip_39_word_space_12: rule uncover phrase smart jacket bachelor evoke vocal clock
+  reopen reform action
+bip_39_word_space_2: rule uncover
+bip_39_word_space_3: rule uncover phrase
+bip_39_word_space_4: rule uncover phrase smart
+bip_39_word_space_5: rule uncover phrase smart jacket
+bip_39_word_space_6: rule uncover phrase smart jacket bachelor
+bip_39_word_space_7: rule uncover phrase smart jacket bachelor evoke
+bip_39_word_space_8: rule uncover phrase smart jacket bachelor evoke vocal
+bip_39_word_space_9: rule uncover phrase smart jacket bachelor evoke vocal clock
+bip_39_word_underscore_1: rule
+bip_39_word_underscore_10: rule_uncover_phrase_smart_jacket_bachelor_evoke_vocal_clock_reopen
+bip_39_word_underscore_11: rule_uncover_phrase_smart_jacket_bachelor_evoke_vocal_clock_reopen_reform
+bip_39_word_underscore_12: rule_uncover_phrase_smart_jacket_bachelor_evoke_vocal_clock_reopen_reform_action
+bip_39_word_underscore_2: rule_uncover
+bip_39_word_underscore_3: rule_uncover_phrase
+bip_39_word_underscore_4: rule_uncover_phrase_smart
+bip_39_word_underscore_5: rule_uncover_phrase_smart_jacket
+bip_39_word_underscore_6: rule_uncover_phrase_smart_jacket_bachelor
+bip_39_word_underscore_7: rule_uncover_phrase_smart_jacket_bachelor_evoke
+bip_39_word_underscore_8: rule_uncover_phrase_smart_jacket_bachelor_evoke_vocal
+bip_39_word_underscore_9: rule_uncover_phrase_smart_jacket_bachelor_evoke_vocal_clock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_smd_magazine_lid_02_02
 id_no_color: '0202'
 id_no_size: '02_02'
 id_no_type: smd_magazine_lid_02_02
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_02_02
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_02_02
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_02_02
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201m5yl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201m5yl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201m5yl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '0202'
 name_no_size: 02 02
 name_no_size_short: 02 02
 name_no_type: SMD Magazine Lid 02 02
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_lid_02_02
 oomp_word: sunny mushroom dress
 oomp_word_emoji: ':sunny: :mushroom: :dress:'

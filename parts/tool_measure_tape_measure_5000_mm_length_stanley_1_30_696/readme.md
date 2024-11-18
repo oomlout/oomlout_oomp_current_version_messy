@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696
+* name_short: 
 ### id
 * oomp_id: tool_measure_tape_measure_5000_mm_length_stanley_1_30_696
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :chicken: :recycle: :watermelon:
 * md5_6_alpha: 2xccs
 * md5_6: 4afecc
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202xccs)
+[2x1](http://192.168.1.242:1112/?label=oomp%202xccs)
+[6x4](http://192.168.1.55:1112/?label=oomp%202xccs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ faint |
 | id_no_color | stanley130696 |  
 | id_no_size | stanley_1_30_696 |  
 | id_no_type | 5000_mm_length_stanley_1_30_696 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202xccs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202xccs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202xccs |  
 | manufacturer | stanley |  
 | manufacturer_capital | Stanley |  
 | manufacturer_first_letter | s |  
@@ -282,6 +315,7 @@ faint |
 | name_no_size | Stanley 1 30 696 |  
 | name_no_size_short | Stanley 1 30 696 |  
 | name_no_type | 5000 mm Length Stanley 1 30 696 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | oomp_word | chicken recycle watermelon |  
 | oomp_word_emoji | :chicken: :recycle: :watermelon: |  

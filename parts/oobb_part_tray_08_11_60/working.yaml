@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slice
+bip_39_word_dash_10: slice-brown-awful-youth-science-clean-stove-junk-carry-toddler
+bip_39_word_dash_11: slice-brown-awful-youth-science-clean-stove-junk-carry-toddler-drink
+bip_39_word_dash_12: slice-brown-awful-youth-science-clean-stove-junk-carry-toddler-drink-assist
+bip_39_word_dash_2: slice-brown
+bip_39_word_dash_3: slice-brown-awful
+bip_39_word_dash_4: slice-brown-awful-youth
+bip_39_word_dash_5: slice-brown-awful-youth-science
+bip_39_word_dash_6: slice-brown-awful-youth-science-clean
+bip_39_word_dash_7: slice-brown-awful-youth-science-clean-stove
+bip_39_word_dash_8: slice-brown-awful-youth-science-clean-stove-junk
+bip_39_word_dash_9: slice-brown-awful-youth-science-clean-stove-junk-carry
+bip_39_word_new_br_1: slice
+bip_39_word_new_br_10: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler
+bip_39_word_new_br_11: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink
+bip_39_word_new_br_12: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry<br>toddler<br>drink<br>assist
+bip_39_word_new_br_2: slice<br>brown
+bip_39_word_new_br_3: slice<br>brown<br>awful
+bip_39_word_new_br_4: slice<br>brown<br>awful<br>youth
+bip_39_word_new_br_5: slice<br>brown<br>awful<br>youth<br>science
+bip_39_word_new_br_6: slice<br>brown<br>awful<br>youth<br>science<br>clean
+bip_39_word_new_br_7: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove
+bip_39_word_new_br_8: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk
+bip_39_word_new_br_9: slice<br>brown<br>awful<br>youth<br>science<br>clean<br>stove<br>junk<br>carry
+bip_39_word_new_line_1: slice
+bip_39_word_new_line_10: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler'
+bip_39_word_new_line_11: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler
+
+  drink'
+bip_39_word_new_line_12: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry
+
+  toddler
+
+  drink
+
+  assist'
+bip_39_word_new_line_2: 'slice
+
+  brown'
+bip_39_word_new_line_3: 'slice
+
+  brown
+
+  awful'
+bip_39_word_new_line_4: 'slice
+
+  brown
+
+  awful
+
+  youth'
+bip_39_word_new_line_5: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science'
+bip_39_word_new_line_6: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean'
+bip_39_word_new_line_7: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove'
+bip_39_word_new_line_8: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk'
+bip_39_word_new_line_9: 'slice
+
+  brown
+
+  awful
+
+  youth
+
+  science
+
+  clean
+
+  stove
+
+  junk
+
+  carry'
+bip_39_word_no_space_1: slice
+bip_39_word_no_space_10: slicebrownawfulyouthsciencecleanstovejunkcarrytoddler
+bip_39_word_no_space_11: slicebrownawfulyouthsciencecleanstovejunkcarrytoddlerdrink
+bip_39_word_no_space_12: slicebrownawfulyouthsciencecleanstovejunkcarrytoddlerdrinkassist
+bip_39_word_no_space_2: slicebrown
+bip_39_word_no_space_3: slicebrownawful
+bip_39_word_no_space_4: slicebrownawfulyouth
+bip_39_word_no_space_5: slicebrownawfulyouthscience
+bip_39_word_no_space_6: slicebrownawfulyouthscienceclean
+bip_39_word_no_space_7: slicebrownawfulyouthsciencecleanstove
+bip_39_word_no_space_8: slicebrownawfulyouthsciencecleanstovejunk
+bip_39_word_no_space_9: slicebrownawfulyouthsciencecleanstovejunkcarry
+bip_39_word_space_0:
+- slice
+- brown
+- awful
+- youth
+- science
+- clean
+- stove
+- junk
+- carry
+- toddler
+- drink
+- assist
+bip_39_word_space_1: slice
+bip_39_word_space_10: slice brown awful youth science clean stove junk carry toddler
+bip_39_word_space_11: slice brown awful youth science clean stove junk carry toddler
+  drink
+bip_39_word_space_12: slice brown awful youth science clean stove junk carry toddler
+  drink assist
+bip_39_word_space_2: slice brown
+bip_39_word_space_3: slice brown awful
+bip_39_word_space_4: slice brown awful youth
+bip_39_word_space_5: slice brown awful youth science
+bip_39_word_space_6: slice brown awful youth science clean
+bip_39_word_space_7: slice brown awful youth science clean stove
+bip_39_word_space_8: slice brown awful youth science clean stove junk
+bip_39_word_space_9: slice brown awful youth science clean stove junk carry
+bip_39_word_underscore_1: slice
+bip_39_word_underscore_10: slice_brown_awful_youth_science_clean_stove_junk_carry_toddler
+bip_39_word_underscore_11: slice_brown_awful_youth_science_clean_stove_junk_carry_toddler_drink
+bip_39_word_underscore_12: slice_brown_awful_youth_science_clean_stove_junk_carry_toddler_drink_assist
+bip_39_word_underscore_2: slice_brown
+bip_39_word_underscore_3: slice_brown_awful
+bip_39_word_underscore_4: slice_brown_awful_youth
+bip_39_word_underscore_5: slice_brown_awful_youth_science
+bip_39_word_underscore_6: slice_brown_awful_youth_science_clean
+bip_39_word_underscore_7: slice_brown_awful_youth_science_clean_stove
+bip_39_word_underscore_8: slice_brown_awful_youth_science_clean_stove_junk
+bip_39_word_underscore_9: slice_brown_awful_youth_science_clean_stove_junk_carry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_11_60
 id_no_color: 081160
 id_no_size: 08_11_60
 id_no_type: tray_08_11_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208lrg8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208lrg8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208lrg8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081160
 name_no_size: 08 11 60
 name_no_size_short: 08 11 60
 name_no_type: Tray 08 11 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_11_60
 oomp_word: factory bath frog
 oomp_word_emoji: ':factory: :bath: :frog:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm Dual Row 2X19 38 Pin Surface Mount Right Angle
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle
   * classification: electronic

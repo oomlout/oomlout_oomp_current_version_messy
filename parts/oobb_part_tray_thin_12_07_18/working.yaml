@@ -1,3 +1,222 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull
+bip_39_word_dash_11: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull-depart
+bip_39_word_dash_12: series-stick-razor-gas-easily-tobacco-depth-perfect-tone-skull-depart-add
+bip_39_word_dash_2: series-stick
+bip_39_word_dash_3: series-stick-razor
+bip_39_word_dash_4: series-stick-razor-gas
+bip_39_word_dash_5: series-stick-razor-gas-easily
+bip_39_word_dash_6: series-stick-razor-gas-easily-tobacco
+bip_39_word_dash_7: series-stick-razor-gas-easily-tobacco-depth
+bip_39_word_dash_8: series-stick-razor-gas-easily-tobacco-depth-perfect
+bip_39_word_dash_9: series-stick-razor-gas-easily-tobacco-depth-perfect-tone
+bip_39_word_new_br_1: series
+bip_39_word_new_br_10: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull
+bip_39_word_new_br_11: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart
+bip_39_word_new_br_12: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone<br>skull<br>depart<br>add
+bip_39_word_new_br_2: series<br>stick
+bip_39_word_new_br_3: series<br>stick<br>razor
+bip_39_word_new_br_4: series<br>stick<br>razor<br>gas
+bip_39_word_new_br_5: series<br>stick<br>razor<br>gas<br>easily
+bip_39_word_new_br_6: series<br>stick<br>razor<br>gas<br>easily<br>tobacco
+bip_39_word_new_br_7: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth
+bip_39_word_new_br_8: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect
+bip_39_word_new_br_9: series<br>stick<br>razor<br>gas<br>easily<br>tobacco<br>depth<br>perfect<br>tone
+bip_39_word_new_line_1: series
+bip_39_word_new_line_10: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull'
+bip_39_word_new_line_11: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull
+
+  depart'
+bip_39_word_new_line_12: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone
+
+  skull
+
+  depart
+
+  add'
+bip_39_word_new_line_2: 'series
+
+  stick'
+bip_39_word_new_line_3: 'series
+
+  stick
+
+  razor'
+bip_39_word_new_line_4: 'series
+
+  stick
+
+  razor
+
+  gas'
+bip_39_word_new_line_5: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily'
+bip_39_word_new_line_6: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco'
+bip_39_word_new_line_7: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth'
+bip_39_word_new_line_8: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect'
+bip_39_word_new_line_9: 'series
+
+  stick
+
+  razor
+
+  gas
+
+  easily
+
+  tobacco
+
+  depth
+
+  perfect
+
+  tone'
+bip_39_word_no_space_1: series
+bip_39_word_no_space_10: seriesstickrazorgaseasilytobaccodepthperfecttoneskull
+bip_39_word_no_space_11: seriesstickrazorgaseasilytobaccodepthperfecttoneskulldepart
+bip_39_word_no_space_12: seriesstickrazorgaseasilytobaccodepthperfecttoneskulldepartadd
+bip_39_word_no_space_2: seriesstick
+bip_39_word_no_space_3: seriesstickrazor
+bip_39_word_no_space_4: seriesstickrazorgas
+bip_39_word_no_space_5: seriesstickrazorgaseasily
+bip_39_word_no_space_6: seriesstickrazorgaseasilytobacco
+bip_39_word_no_space_7: seriesstickrazorgaseasilytobaccodepth
+bip_39_word_no_space_8: seriesstickrazorgaseasilytobaccodepthperfect
+bip_39_word_no_space_9: seriesstickrazorgaseasilytobaccodepthperfecttone
+bip_39_word_space_0:
+- series
+- stick
+- razor
+- gas
+- easily
+- tobacco
+- depth
+- perfect
+- tone
+- skull
+- depart
+- add
+bip_39_word_space_1: series
+bip_39_word_space_10: series stick razor gas easily tobacco depth perfect tone skull
+bip_39_word_space_11: series stick razor gas easily tobacco depth perfect tone skull
+  depart
+bip_39_word_space_12: series stick razor gas easily tobacco depth perfect tone skull
+  depart add
+bip_39_word_space_2: series stick
+bip_39_word_space_3: series stick razor
+bip_39_word_space_4: series stick razor gas
+bip_39_word_space_5: series stick razor gas easily
+bip_39_word_space_6: series stick razor gas easily tobacco
+bip_39_word_space_7: series stick razor gas easily tobacco depth
+bip_39_word_space_8: series stick razor gas easily tobacco depth perfect
+bip_39_word_space_9: series stick razor gas easily tobacco depth perfect tone
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull
+bip_39_word_underscore_11: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull_depart
+bip_39_word_underscore_12: series_stick_razor_gas_easily_tobacco_depth_perfect_tone_skull_depart_add
+bip_39_word_underscore_2: series_stick
+bip_39_word_underscore_3: series_stick_razor
+bip_39_word_underscore_4: series_stick_razor_gas
+bip_39_word_underscore_5: series_stick_razor_gas_easily
+bip_39_word_underscore_6: series_stick_razor_gas_easily_tobacco
+bip_39_word_underscore_7: series_stick_razor_gas_easily_tobacco_depth
+bip_39_word_underscore_8: series_stick_razor_gas_easily_tobacco_depth_perfect
+bip_39_word_underscore_9: series_stick_razor_gas_easily_tobacco_depth_perfect_tone
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_07_18
 id_no_color: '120718'
 id_no_size: '12_07_18'
 id_no_type: tray_thin_12_07_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_07_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201yvn6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201yvn6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201yvn6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120718'
 name_no_size: 12 07 18
 name_no_size_short: 12 07 18
 name_no_type: Tray Thin 12 07 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_07_18
 oomp_word: cat ghost handbag
 oomp_word_emoji: ':cat: :ghost: :handbag:'

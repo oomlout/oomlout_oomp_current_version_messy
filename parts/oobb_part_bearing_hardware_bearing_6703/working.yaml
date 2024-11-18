@@ -1,3 +1,222 @@
+bip_39_word_dash_1: produce
+bip_39_word_dash_10: produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample
+bip_39_word_dash_11: produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample-library
+bip_39_word_dash_12: produce-teach-unable-now-absurd-firm-spawn-harbor-parrot-sample-library-animal
+bip_39_word_dash_2: produce-teach
+bip_39_word_dash_3: produce-teach-unable
+bip_39_word_dash_4: produce-teach-unable-now
+bip_39_word_dash_5: produce-teach-unable-now-absurd
+bip_39_word_dash_6: produce-teach-unable-now-absurd-firm
+bip_39_word_dash_7: produce-teach-unable-now-absurd-firm-spawn
+bip_39_word_dash_8: produce-teach-unable-now-absurd-firm-spawn-harbor
+bip_39_word_dash_9: produce-teach-unable-now-absurd-firm-spawn-harbor-parrot
+bip_39_word_new_br_1: produce
+bip_39_word_new_br_10: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample
+bip_39_word_new_br_11: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample<br>library
+bip_39_word_new_br_12: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot<br>sample<br>library<br>animal
+bip_39_word_new_br_2: produce<br>teach
+bip_39_word_new_br_3: produce<br>teach<br>unable
+bip_39_word_new_br_4: produce<br>teach<br>unable<br>now
+bip_39_word_new_br_5: produce<br>teach<br>unable<br>now<br>absurd
+bip_39_word_new_br_6: produce<br>teach<br>unable<br>now<br>absurd<br>firm
+bip_39_word_new_br_7: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn
+bip_39_word_new_br_8: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor
+bip_39_word_new_br_9: produce<br>teach<br>unable<br>now<br>absurd<br>firm<br>spawn<br>harbor<br>parrot
+bip_39_word_new_line_1: produce
+bip_39_word_new_line_10: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample'
+bip_39_word_new_line_11: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample
+
+  library'
+bip_39_word_new_line_12: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot
+
+  sample
+
+  library
+
+  animal'
+bip_39_word_new_line_2: 'produce
+
+  teach'
+bip_39_word_new_line_3: 'produce
+
+  teach
+
+  unable'
+bip_39_word_new_line_4: 'produce
+
+  teach
+
+  unable
+
+  now'
+bip_39_word_new_line_5: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd'
+bip_39_word_new_line_6: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm'
+bip_39_word_new_line_7: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn'
+bip_39_word_new_line_8: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor'
+bip_39_word_new_line_9: 'produce
+
+  teach
+
+  unable
+
+  now
+
+  absurd
+
+  firm
+
+  spawn
+
+  harbor
+
+  parrot'
+bip_39_word_no_space_1: produce
+bip_39_word_no_space_10: produceteachunablenowabsurdfirmspawnharborparrotsample
+bip_39_word_no_space_11: produceteachunablenowabsurdfirmspawnharborparrotsamplelibrary
+bip_39_word_no_space_12: produceteachunablenowabsurdfirmspawnharborparrotsamplelibraryanimal
+bip_39_word_no_space_2: produceteach
+bip_39_word_no_space_3: produceteachunable
+bip_39_word_no_space_4: produceteachunablenow
+bip_39_word_no_space_5: produceteachunablenowabsurd
+bip_39_word_no_space_6: produceteachunablenowabsurdfirm
+bip_39_word_no_space_7: produceteachunablenowabsurdfirmspawn
+bip_39_word_no_space_8: produceteachunablenowabsurdfirmspawnharbor
+bip_39_word_no_space_9: produceteachunablenowabsurdfirmspawnharborparrot
+bip_39_word_space_0:
+- produce
+- teach
+- unable
+- now
+- absurd
+- firm
+- spawn
+- harbor
+- parrot
+- sample
+- library
+- animal
+bip_39_word_space_1: produce
+bip_39_word_space_10: produce teach unable now absurd firm spawn harbor parrot sample
+bip_39_word_space_11: produce teach unable now absurd firm spawn harbor parrot sample
+  library
+bip_39_word_space_12: produce teach unable now absurd firm spawn harbor parrot sample
+  library animal
+bip_39_word_space_2: produce teach
+bip_39_word_space_3: produce teach unable
+bip_39_word_space_4: produce teach unable now
+bip_39_word_space_5: produce teach unable now absurd
+bip_39_word_space_6: produce teach unable now absurd firm
+bip_39_word_space_7: produce teach unable now absurd firm spawn
+bip_39_word_space_8: produce teach unable now absurd firm spawn harbor
+bip_39_word_space_9: produce teach unable now absurd firm spawn harbor parrot
+bip_39_word_underscore_1: produce
+bip_39_word_underscore_10: produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample
+bip_39_word_underscore_11: produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample_library
+bip_39_word_underscore_12: produce_teach_unable_now_absurd_firm_spawn_harbor_parrot_sample_library_animal
+bip_39_word_underscore_2: produce_teach
+bip_39_word_underscore_3: produce_teach_unable
+bip_39_word_underscore_4: produce_teach_unable_now
+bip_39_word_underscore_5: produce_teach_unable_now_absurd
+bip_39_word_underscore_6: produce_teach_unable_now_absurd_firm
+bip_39_word_underscore_7: produce_teach_unable_now_absurd_firm_spawn
+bip_39_word_underscore_8: produce_teach_unable_now_absurd_firm_spawn_harbor
+bip_39_word_underscore_9: produce_teach_unable_now_absurd_firm_spawn_harbor_parrot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6703
 id_no_color: hardware6703
 id_no_size: hardware_6703
 id_no_type: bearing_hardware_bearing_6703
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6703
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6703
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6703
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205norz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205norz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205norz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6703
 name_no_size: Hardware 6703
 name_no_size_short: Hardware 6k7
 name_no_type: Bearing Hardware Bearing 6703
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6703
 oomp_word: pushpin blush cyclone
 oomp_word_emoji: ':pushpin: :blush: :cyclone:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: spy
+bip_39_word_dash_10: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east
+bip_39_word_dash_11: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east-private
+bip_39_word_dash_12: spy-fluid-resist-floor-enlist-join-dove-blush-chimney-east-private-arm
+bip_39_word_dash_2: spy-fluid
+bip_39_word_dash_3: spy-fluid-resist
+bip_39_word_dash_4: spy-fluid-resist-floor
+bip_39_word_dash_5: spy-fluid-resist-floor-enlist
+bip_39_word_dash_6: spy-fluid-resist-floor-enlist-join
+bip_39_word_dash_7: spy-fluid-resist-floor-enlist-join-dove
+bip_39_word_dash_8: spy-fluid-resist-floor-enlist-join-dove-blush
+bip_39_word_dash_9: spy-fluid-resist-floor-enlist-join-dove-blush-chimney
+bip_39_word_new_br_1: spy
+bip_39_word_new_br_10: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east
+bip_39_word_new_br_11: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east<br>private
+bip_39_word_new_br_12: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney<br>east<br>private<br>arm
+bip_39_word_new_br_2: spy<br>fluid
+bip_39_word_new_br_3: spy<br>fluid<br>resist
+bip_39_word_new_br_4: spy<br>fluid<br>resist<br>floor
+bip_39_word_new_br_5: spy<br>fluid<br>resist<br>floor<br>enlist
+bip_39_word_new_br_6: spy<br>fluid<br>resist<br>floor<br>enlist<br>join
+bip_39_word_new_br_7: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove
+bip_39_word_new_br_8: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush
+bip_39_word_new_br_9: spy<br>fluid<br>resist<br>floor<br>enlist<br>join<br>dove<br>blush<br>chimney
+bip_39_word_new_line_1: spy
+bip_39_word_new_line_10: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east'
+bip_39_word_new_line_11: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east
+
+  private'
+bip_39_word_new_line_12: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney
+
+  east
+
+  private
+
+  arm'
+bip_39_word_new_line_2: 'spy
+
+  fluid'
+bip_39_word_new_line_3: 'spy
+
+  fluid
+
+  resist'
+bip_39_word_new_line_4: 'spy
+
+  fluid
+
+  resist
+
+  floor'
+bip_39_word_new_line_5: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist'
+bip_39_word_new_line_6: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join'
+bip_39_word_new_line_7: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove'
+bip_39_word_new_line_8: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush'
+bip_39_word_new_line_9: 'spy
+
+  fluid
+
+  resist
+
+  floor
+
+  enlist
+
+  join
+
+  dove
+
+  blush
+
+  chimney'
+bip_39_word_no_space_1: spy
+bip_39_word_no_space_10: spyfluidresistfloorenlistjoindoveblushchimneyeast
+bip_39_word_no_space_11: spyfluidresistfloorenlistjoindoveblushchimneyeastprivate
+bip_39_word_no_space_12: spyfluidresistfloorenlistjoindoveblushchimneyeastprivatearm
+bip_39_word_no_space_2: spyfluid
+bip_39_word_no_space_3: spyfluidresist
+bip_39_word_no_space_4: spyfluidresistfloor
+bip_39_word_no_space_5: spyfluidresistfloorenlist
+bip_39_word_no_space_6: spyfluidresistfloorenlistjoin
+bip_39_word_no_space_7: spyfluidresistfloorenlistjoindove
+bip_39_word_no_space_8: spyfluidresistfloorenlistjoindoveblush
+bip_39_word_no_space_9: spyfluidresistfloorenlistjoindoveblushchimney
+bip_39_word_space_0:
+- spy
+- fluid
+- resist
+- floor
+- enlist
+- join
+- dove
+- blush
+- chimney
+- east
+- private
+- arm
+bip_39_word_space_1: spy
+bip_39_word_space_10: spy fluid resist floor enlist join dove blush chimney east
+bip_39_word_space_11: spy fluid resist floor enlist join dove blush chimney east private
+bip_39_word_space_12: spy fluid resist floor enlist join dove blush chimney east private
+  arm
+bip_39_word_space_2: spy fluid
+bip_39_word_space_3: spy fluid resist
+bip_39_word_space_4: spy fluid resist floor
+bip_39_word_space_5: spy fluid resist floor enlist
+bip_39_word_space_6: spy fluid resist floor enlist join
+bip_39_word_space_7: spy fluid resist floor enlist join dove
+bip_39_word_space_8: spy fluid resist floor enlist join dove blush
+bip_39_word_space_9: spy fluid resist floor enlist join dove blush chimney
+bip_39_word_underscore_1: spy
+bip_39_word_underscore_10: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east
+bip_39_word_underscore_11: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east_private
+bip_39_word_underscore_12: spy_fluid_resist_floor_enlist_join_dove_blush_chimney_east_private_arm
+bip_39_word_underscore_2: spy_fluid
+bip_39_word_underscore_3: spy_fluid_resist
+bip_39_word_underscore_4: spy_fluid_resist_floor
+bip_39_word_underscore_5: spy_fluid_resist_floor_enlist
+bip_39_word_underscore_6: spy_fluid_resist_floor_enlist_join
+bip_39_word_underscore_7: spy_fluid_resist_floor_enlist_join_dove
+bip_39_word_underscore_8: spy_fluid_resist_floor_enlist_join_dove_blush
+bip_39_word_underscore_9: spy_fluid_resist_floor_enlist_join_dove_blush_chimney
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_08_05_09
 id_no_color: 080509
 id_no_size: 08_05_09
 id_no_type: tray_thin_08_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207b58x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207b58x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207b58x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 080509
 name_no_size: 08 05 09
 name_no_size_short: 08 05 09
 name_no_type: Tray Thin 08 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_05_09
 oomp_word: curry ram snail
 oomp_word_emoji: ':curry: :ram: :snail:'

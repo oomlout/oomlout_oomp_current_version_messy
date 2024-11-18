@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Shaft 00  Countersunk Small
+* name_short: 
 ### id
 * oomp_id: oobb_part_shaft_00__countersunk_small
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :calendar: :cow: :sleeping:
 * md5_6_alpha: 5l79i
 * md5_6: 8f3d06
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205l79i)
+[2x1](http://192.168.1.242:1112/?label=oomp%205l79i)
+[6x4](http://192.168.1.55:1112/?label=oomp%205l79i)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ cushion |
 | id_no_color | 00countersunksmall |  
 | id_no_size | 00__countersunk_small |  
 | id_no_type | shaft_00__countersunk_small |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__countersunk_small |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__countersunk_small |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205l79i |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205l79i |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205l79i |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ cushion |
 | name_no_size | 00  Countersunk Small |  
 | name_no_size_short | 00  Countersunk Small |  
 | name_no_type | Shaft 00  Countersunk Small |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_00__countersunk_small |  
 | oomp_word | calendar cow sleeping |  
 | oomp_word_emoji | :calendar: :cow: :sleeping: |  

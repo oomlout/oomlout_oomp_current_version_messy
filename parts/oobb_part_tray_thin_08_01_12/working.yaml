@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sell
+bip_39_word_dash_10: sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe
+bip_39_word_dash_11: sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe-salt
+bip_39_word_dash_12: sell-raccoon-spice-fatal-island-critic-elder-orbit-boil-fringe-salt-air
+bip_39_word_dash_2: sell-raccoon
+bip_39_word_dash_3: sell-raccoon-spice
+bip_39_word_dash_4: sell-raccoon-spice-fatal
+bip_39_word_dash_5: sell-raccoon-spice-fatal-island
+bip_39_word_dash_6: sell-raccoon-spice-fatal-island-critic
+bip_39_word_dash_7: sell-raccoon-spice-fatal-island-critic-elder
+bip_39_word_dash_8: sell-raccoon-spice-fatal-island-critic-elder-orbit
+bip_39_word_dash_9: sell-raccoon-spice-fatal-island-critic-elder-orbit-boil
+bip_39_word_new_br_1: sell
+bip_39_word_new_br_10: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe
+bip_39_word_new_br_11: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe<br>salt
+bip_39_word_new_br_12: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil<br>fringe<br>salt<br>air
+bip_39_word_new_br_2: sell<br>raccoon
+bip_39_word_new_br_3: sell<br>raccoon<br>spice
+bip_39_word_new_br_4: sell<br>raccoon<br>spice<br>fatal
+bip_39_word_new_br_5: sell<br>raccoon<br>spice<br>fatal<br>island
+bip_39_word_new_br_6: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic
+bip_39_word_new_br_7: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder
+bip_39_word_new_br_8: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit
+bip_39_word_new_br_9: sell<br>raccoon<br>spice<br>fatal<br>island<br>critic<br>elder<br>orbit<br>boil
+bip_39_word_new_line_1: sell
+bip_39_word_new_line_10: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder
+
+  orbit
+
+  boil
+
+  fringe'
+bip_39_word_new_line_11: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder
+
+  orbit
+
+  boil
+
+  fringe
+
+  salt'
+bip_39_word_new_line_12: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder
+
+  orbit
+
+  boil
+
+  fringe
+
+  salt
+
+  air'
+bip_39_word_new_line_2: 'sell
+
+  raccoon'
+bip_39_word_new_line_3: 'sell
+
+  raccoon
+
+  spice'
+bip_39_word_new_line_4: 'sell
+
+  raccoon
+
+  spice
+
+  fatal'
+bip_39_word_new_line_5: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island'
+bip_39_word_new_line_6: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic'
+bip_39_word_new_line_7: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder'
+bip_39_word_new_line_8: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder
+
+  orbit'
+bip_39_word_new_line_9: 'sell
+
+  raccoon
+
+  spice
+
+  fatal
+
+  island
+
+  critic
+
+  elder
+
+  orbit
+
+  boil'
+bip_39_word_no_space_1: sell
+bip_39_word_no_space_10: sellraccoonspicefatalislandcriticelderorbitboilfringe
+bip_39_word_no_space_11: sellraccoonspicefatalislandcriticelderorbitboilfringesalt
+bip_39_word_no_space_12: sellraccoonspicefatalislandcriticelderorbitboilfringesaltair
+bip_39_word_no_space_2: sellraccoon
+bip_39_word_no_space_3: sellraccoonspice
+bip_39_word_no_space_4: sellraccoonspicefatal
+bip_39_word_no_space_5: sellraccoonspicefatalisland
+bip_39_word_no_space_6: sellraccoonspicefatalislandcritic
+bip_39_word_no_space_7: sellraccoonspicefatalislandcriticelder
+bip_39_word_no_space_8: sellraccoonspicefatalislandcriticelderorbit
+bip_39_word_no_space_9: sellraccoonspicefatalislandcriticelderorbitboil
+bip_39_word_space_0:
+- sell
+- raccoon
+- spice
+- fatal
+- island
+- critic
+- elder
+- orbit
+- boil
+- fringe
+- salt
+- air
+bip_39_word_space_1: sell
+bip_39_word_space_10: sell raccoon spice fatal island critic elder orbit boil fringe
+bip_39_word_space_11: sell raccoon spice fatal island critic elder orbit boil fringe
+  salt
+bip_39_word_space_12: sell raccoon spice fatal island critic elder orbit boil fringe
+  salt air
+bip_39_word_space_2: sell raccoon
+bip_39_word_space_3: sell raccoon spice
+bip_39_word_space_4: sell raccoon spice fatal
+bip_39_word_space_5: sell raccoon spice fatal island
+bip_39_word_space_6: sell raccoon spice fatal island critic
+bip_39_word_space_7: sell raccoon spice fatal island critic elder
+bip_39_word_space_8: sell raccoon spice fatal island critic elder orbit
+bip_39_word_space_9: sell raccoon spice fatal island critic elder orbit boil
+bip_39_word_underscore_1: sell
+bip_39_word_underscore_10: sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe
+bip_39_word_underscore_11: sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe_salt
+bip_39_word_underscore_12: sell_raccoon_spice_fatal_island_critic_elder_orbit_boil_fringe_salt_air
+bip_39_word_underscore_2: sell_raccoon
+bip_39_word_underscore_3: sell_raccoon_spice
+bip_39_word_underscore_4: sell_raccoon_spice_fatal
+bip_39_word_underscore_5: sell_raccoon_spice_fatal_island
+bip_39_word_underscore_6: sell_raccoon_spice_fatal_island_critic
+bip_39_word_underscore_7: sell_raccoon_spice_fatal_island_critic_elder
+bip_39_word_underscore_8: sell_raccoon_spice_fatal_island_critic_elder_orbit
+bip_39_word_underscore_9: sell_raccoon_spice_fatal_island_critic_elder_orbit_boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_01_12
 id_no_color: 080112
 id_no_size: 08_01_12
 id_no_type: tray_thin_08_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ew5z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ew5z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ew5z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080112
 name_no_size: 08 01 12
 name_no_size_short: 08 01 12
 name_no_type: Tray Thin 08 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_01_12
 oomp_word: rat phone rat
 oomp_word_emoji: ':rat: :phone: :rat:'

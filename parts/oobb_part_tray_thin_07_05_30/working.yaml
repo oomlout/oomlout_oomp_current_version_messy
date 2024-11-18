@@ -1,3 +1,222 @@
+bip_39_word_dash_1: coyote
+bip_39_word_dash_10: coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly
+bip_39_word_dash_11: coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly-elbow
+bip_39_word_dash_12: coyote-correct-almost-window-total-almost-tape-frog-crowd-jelly-elbow-antenna
+bip_39_word_dash_2: coyote-correct
+bip_39_word_dash_3: coyote-correct-almost
+bip_39_word_dash_4: coyote-correct-almost-window
+bip_39_word_dash_5: coyote-correct-almost-window-total
+bip_39_word_dash_6: coyote-correct-almost-window-total-almost
+bip_39_word_dash_7: coyote-correct-almost-window-total-almost-tape
+bip_39_word_dash_8: coyote-correct-almost-window-total-almost-tape-frog
+bip_39_word_dash_9: coyote-correct-almost-window-total-almost-tape-frog-crowd
+bip_39_word_new_br_1: coyote
+bip_39_word_new_br_10: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly
+bip_39_word_new_br_11: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly<br>elbow
+bip_39_word_new_br_12: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd<br>jelly<br>elbow<br>antenna
+bip_39_word_new_br_2: coyote<br>correct
+bip_39_word_new_br_3: coyote<br>correct<br>almost
+bip_39_word_new_br_4: coyote<br>correct<br>almost<br>window
+bip_39_word_new_br_5: coyote<br>correct<br>almost<br>window<br>total
+bip_39_word_new_br_6: coyote<br>correct<br>almost<br>window<br>total<br>almost
+bip_39_word_new_br_7: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape
+bip_39_word_new_br_8: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog
+bip_39_word_new_br_9: coyote<br>correct<br>almost<br>window<br>total<br>almost<br>tape<br>frog<br>crowd
+bip_39_word_new_line_1: coyote
+bip_39_word_new_line_10: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape
+
+  frog
+
+  crowd
+
+  jelly'
+bip_39_word_new_line_11: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape
+
+  frog
+
+  crowd
+
+  jelly
+
+  elbow'
+bip_39_word_new_line_12: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape
+
+  frog
+
+  crowd
+
+  jelly
+
+  elbow
+
+  antenna'
+bip_39_word_new_line_2: 'coyote
+
+  correct'
+bip_39_word_new_line_3: 'coyote
+
+  correct
+
+  almost'
+bip_39_word_new_line_4: 'coyote
+
+  correct
+
+  almost
+
+  window'
+bip_39_word_new_line_5: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total'
+bip_39_word_new_line_6: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost'
+bip_39_word_new_line_7: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape'
+bip_39_word_new_line_8: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape
+
+  frog'
+bip_39_word_new_line_9: 'coyote
+
+  correct
+
+  almost
+
+  window
+
+  total
+
+  almost
+
+  tape
+
+  frog
+
+  crowd'
+bip_39_word_no_space_1: coyote
+bip_39_word_no_space_10: coyotecorrectalmostwindowtotalalmosttapefrogcrowdjelly
+bip_39_word_no_space_11: coyotecorrectalmostwindowtotalalmosttapefrogcrowdjellyelbow
+bip_39_word_no_space_12: coyotecorrectalmostwindowtotalalmosttapefrogcrowdjellyelbowantenna
+bip_39_word_no_space_2: coyotecorrect
+bip_39_word_no_space_3: coyotecorrectalmost
+bip_39_word_no_space_4: coyotecorrectalmostwindow
+bip_39_word_no_space_5: coyotecorrectalmostwindowtotal
+bip_39_word_no_space_6: coyotecorrectalmostwindowtotalalmost
+bip_39_word_no_space_7: coyotecorrectalmostwindowtotalalmosttape
+bip_39_word_no_space_8: coyotecorrectalmostwindowtotalalmosttapefrog
+bip_39_word_no_space_9: coyotecorrectalmostwindowtotalalmosttapefrogcrowd
+bip_39_word_space_0:
+- coyote
+- correct
+- almost
+- window
+- total
+- almost
+- tape
+- frog
+- crowd
+- jelly
+- elbow
+- antenna
+bip_39_word_space_1: coyote
+bip_39_word_space_10: coyote correct almost window total almost tape frog crowd jelly
+bip_39_word_space_11: coyote correct almost window total almost tape frog crowd jelly
+  elbow
+bip_39_word_space_12: coyote correct almost window total almost tape frog crowd jelly
+  elbow antenna
+bip_39_word_space_2: coyote correct
+bip_39_word_space_3: coyote correct almost
+bip_39_word_space_4: coyote correct almost window
+bip_39_word_space_5: coyote correct almost window total
+bip_39_word_space_6: coyote correct almost window total almost
+bip_39_word_space_7: coyote correct almost window total almost tape
+bip_39_word_space_8: coyote correct almost window total almost tape frog
+bip_39_word_space_9: coyote correct almost window total almost tape frog crowd
+bip_39_word_underscore_1: coyote
+bip_39_word_underscore_10: coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly
+bip_39_word_underscore_11: coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly_elbow
+bip_39_word_underscore_12: coyote_correct_almost_window_total_almost_tape_frog_crowd_jelly_elbow_antenna
+bip_39_word_underscore_2: coyote_correct
+bip_39_word_underscore_3: coyote_correct_almost
+bip_39_word_underscore_4: coyote_correct_almost_window
+bip_39_word_underscore_5: coyote_correct_almost_window_total
+bip_39_word_underscore_6: coyote_correct_almost_window_total_almost
+bip_39_word_underscore_7: coyote_correct_almost_window_total_almost_tape
+bip_39_word_underscore_8: coyote_correct_almost_window_total_almost_tape_frog
+bip_39_word_underscore_9: coyote_correct_almost_window_total_almost_tape_frog_crowd
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_07_05_30
 id_no_color: '070530'
 id_no_size: '07_05_30'
 id_no_type: tray_thin_07_05_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_05_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_05_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_05_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2063wpp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2063wpp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2063wpp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070530'
 name_no_size: 07 05 30
 name_no_size_short: 07 05 30
 name_no_type: Tray Thin 07 05 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_05_30
 oomp_word: spades clipboard blowfish
 oomp_word_emoji: ':spades: :clipboard: :blowfish:'

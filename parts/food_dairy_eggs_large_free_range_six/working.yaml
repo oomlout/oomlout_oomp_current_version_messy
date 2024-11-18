@@ -1,3 +1,222 @@
+bip_39_word_dash_1: shuffle
+bip_39_word_dash_10: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world
+bip_39_word_dash_11: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world-club
+bip_39_word_dash_12: shuffle-jar-carry-note-toss-jealous-spend-easy-improve-world-club-admit
+bip_39_word_dash_2: shuffle-jar
+bip_39_word_dash_3: shuffle-jar-carry
+bip_39_word_dash_4: shuffle-jar-carry-note
+bip_39_word_dash_5: shuffle-jar-carry-note-toss
+bip_39_word_dash_6: shuffle-jar-carry-note-toss-jealous
+bip_39_word_dash_7: shuffle-jar-carry-note-toss-jealous-spend
+bip_39_word_dash_8: shuffle-jar-carry-note-toss-jealous-spend-easy
+bip_39_word_dash_9: shuffle-jar-carry-note-toss-jealous-spend-easy-improve
+bip_39_word_new_br_1: shuffle
+bip_39_word_new_br_10: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve<br>world
+bip_39_word_new_br_11: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve<br>world<br>club
+bip_39_word_new_br_12: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve<br>world<br>club<br>admit
+bip_39_word_new_br_2: shuffle<br>jar
+bip_39_word_new_br_3: shuffle<br>jar<br>carry
+bip_39_word_new_br_4: shuffle<br>jar<br>carry<br>note
+bip_39_word_new_br_5: shuffle<br>jar<br>carry<br>note<br>toss
+bip_39_word_new_br_6: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous
+bip_39_word_new_br_7: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend
+bip_39_word_new_br_8: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy
+bip_39_word_new_br_9: shuffle<br>jar<br>carry<br>note<br>toss<br>jealous<br>spend<br>easy<br>improve
+bip_39_word_new_line_1: shuffle
+bip_39_word_new_line_10: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend
+
+  easy
+
+  improve
+
+  world'
+bip_39_word_new_line_11: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend
+
+  easy
+
+  improve
+
+  world
+
+  club'
+bip_39_word_new_line_12: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend
+
+  easy
+
+  improve
+
+  world
+
+  club
+
+  admit'
+bip_39_word_new_line_2: 'shuffle
+
+  jar'
+bip_39_word_new_line_3: 'shuffle
+
+  jar
+
+  carry'
+bip_39_word_new_line_4: 'shuffle
+
+  jar
+
+  carry
+
+  note'
+bip_39_word_new_line_5: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss'
+bip_39_word_new_line_6: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous'
+bip_39_word_new_line_7: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend'
+bip_39_word_new_line_8: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend
+
+  easy'
+bip_39_word_new_line_9: 'shuffle
+
+  jar
+
+  carry
+
+  note
+
+  toss
+
+  jealous
+
+  spend
+
+  easy
+
+  improve'
+bip_39_word_no_space_1: shuffle
+bip_39_word_no_space_10: shufflejarcarrynotetossjealousspendeasyimproveworld
+bip_39_word_no_space_11: shufflejarcarrynotetossjealousspendeasyimproveworldclub
+bip_39_word_no_space_12: shufflejarcarrynotetossjealousspendeasyimproveworldclubadmit
+bip_39_word_no_space_2: shufflejar
+bip_39_word_no_space_3: shufflejarcarry
+bip_39_word_no_space_4: shufflejarcarrynote
+bip_39_word_no_space_5: shufflejarcarrynotetoss
+bip_39_word_no_space_6: shufflejarcarrynotetossjealous
+bip_39_word_no_space_7: shufflejarcarrynotetossjealousspend
+bip_39_word_no_space_8: shufflejarcarrynotetossjealousspendeasy
+bip_39_word_no_space_9: shufflejarcarrynotetossjealousspendeasyimprove
+bip_39_word_space_0:
+- shuffle
+- jar
+- carry
+- note
+- toss
+- jealous
+- spend
+- easy
+- improve
+- world
+- club
+- admit
+bip_39_word_space_1: shuffle
+bip_39_word_space_10: shuffle jar carry note toss jealous spend easy improve world
+bip_39_word_space_11: shuffle jar carry note toss jealous spend easy improve world
+  club
+bip_39_word_space_12: shuffle jar carry note toss jealous spend easy improve world
+  club admit
+bip_39_word_space_2: shuffle jar
+bip_39_word_space_3: shuffle jar carry
+bip_39_word_space_4: shuffle jar carry note
+bip_39_word_space_5: shuffle jar carry note toss
+bip_39_word_space_6: shuffle jar carry note toss jealous
+bip_39_word_space_7: shuffle jar carry note toss jealous spend
+bip_39_word_space_8: shuffle jar carry note toss jealous spend easy
+bip_39_word_space_9: shuffle jar carry note toss jealous spend easy improve
+bip_39_word_underscore_1: shuffle
+bip_39_word_underscore_10: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world
+bip_39_word_underscore_11: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world_club
+bip_39_word_underscore_12: shuffle_jar_carry_note_toss_jealous_spend_easy_improve_world_club_admit
+bip_39_word_underscore_2: shuffle_jar
+bip_39_word_underscore_3: shuffle_jar_carry
+bip_39_word_underscore_4: shuffle_jar_carry_note
+bip_39_word_underscore_5: shuffle_jar_carry_note_toss
+bip_39_word_underscore_6: shuffle_jar_carry_note_toss_jealous
+bip_39_word_underscore_7: shuffle_jar_carry_note_toss_jealous_spend
+bip_39_word_underscore_8: shuffle_jar_carry_note_toss_jealous_spend_easy
+bip_39_word_underscore_9: shuffle_jar_carry_note_toss_jealous_spend_easy_improve
 classification: food
 classification_capital: Food
 classification_first_letter: f
@@ -109,8 +328,15 @@ id_no_class: dairy_eggs_large_free_range_six
 id_no_color: eggslargefreerangesix
 id_no_size: eggslargefreerangesix
 id_no_type: eggs_large_free_range_six
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_dairy_eggs_large_free_range_six
+link_2_name: github_link
 link_distributor_ocado: https://www.ocado.com/search?entry=57293011
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029yf3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029yf3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029yf3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -136,6 +362,7 @@ name_no_color: Eggslargefreerangesix
 name_no_size: Eggslargefreerangesix
 name_no_size_short: Eggslargefreerangesix
 name_no_type: Eggs Large Free Range Six
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_dairy_eggs_large_free_range_six
 oomp_word: koala water_buffalo speaker
 oomp_word_emoji: ':koala: :water_buffalo: :speaker:'

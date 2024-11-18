@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 03 03 12  Electronic Potentiometer 17 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_03_03_12__electronic_potentiometer_17_mm
   * classification: oobb

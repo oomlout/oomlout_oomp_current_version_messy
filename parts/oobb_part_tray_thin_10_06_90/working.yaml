@@ -1,3 +1,221 @@
+bip_39_word_dash_1: leave
+bip_39_word_dash_10: leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact
+bip_39_word_dash_11: leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact-orient
+bip_39_word_dash_12: leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh-exact-orient-adapt
+bip_39_word_dash_2: leave-eternal
+bip_39_word_dash_3: leave-eternal-clutch
+bip_39_word_dash_4: leave-eternal-clutch-neck
+bip_39_word_dash_5: leave-eternal-clutch-neck-mercy
+bip_39_word_dash_6: leave-eternal-clutch-neck-mercy-hint
+bip_39_word_dash_7: leave-eternal-clutch-neck-mercy-hint-there
+bip_39_word_dash_8: leave-eternal-clutch-neck-mercy-hint-there-mesh
+bip_39_word_dash_9: leave-eternal-clutch-neck-mercy-hint-there-mesh-mesh
+bip_39_word_new_br_1: leave
+bip_39_word_new_br_10: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact
+bip_39_word_new_br_11: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient
+bip_39_word_new_br_12: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh<br>exact<br>orient<br>adapt
+bip_39_word_new_br_2: leave<br>eternal
+bip_39_word_new_br_3: leave<br>eternal<br>clutch
+bip_39_word_new_br_4: leave<br>eternal<br>clutch<br>neck
+bip_39_word_new_br_5: leave<br>eternal<br>clutch<br>neck<br>mercy
+bip_39_word_new_br_6: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint
+bip_39_word_new_br_7: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there
+bip_39_word_new_br_8: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh
+bip_39_word_new_br_9: leave<br>eternal<br>clutch<br>neck<br>mercy<br>hint<br>there<br>mesh<br>mesh
+bip_39_word_new_line_1: leave
+bip_39_word_new_line_10: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there
+
+  mesh
+
+  mesh
+
+  exact'
+bip_39_word_new_line_11: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there
+
+  mesh
+
+  mesh
+
+  exact
+
+  orient'
+bip_39_word_new_line_12: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there
+
+  mesh
+
+  mesh
+
+  exact
+
+  orient
+
+  adapt'
+bip_39_word_new_line_2: 'leave
+
+  eternal'
+bip_39_word_new_line_3: 'leave
+
+  eternal
+
+  clutch'
+bip_39_word_new_line_4: 'leave
+
+  eternal
+
+  clutch
+
+  neck'
+bip_39_word_new_line_5: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy'
+bip_39_word_new_line_6: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint'
+bip_39_word_new_line_7: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there'
+bip_39_word_new_line_8: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there
+
+  mesh'
+bip_39_word_new_line_9: 'leave
+
+  eternal
+
+  clutch
+
+  neck
+
+  mercy
+
+  hint
+
+  there
+
+  mesh
+
+  mesh'
+bip_39_word_no_space_1: leave
+bip_39_word_no_space_10: leaveeternalclutchneckmercyhinttheremeshmeshexact
+bip_39_word_no_space_11: leaveeternalclutchneckmercyhinttheremeshmeshexactorient
+bip_39_word_no_space_12: leaveeternalclutchneckmercyhinttheremeshmeshexactorientadapt
+bip_39_word_no_space_2: leaveeternal
+bip_39_word_no_space_3: leaveeternalclutch
+bip_39_word_no_space_4: leaveeternalclutchneck
+bip_39_word_no_space_5: leaveeternalclutchneckmercy
+bip_39_word_no_space_6: leaveeternalclutchneckmercyhint
+bip_39_word_no_space_7: leaveeternalclutchneckmercyhintthere
+bip_39_word_no_space_8: leaveeternalclutchneckmercyhinttheremesh
+bip_39_word_no_space_9: leaveeternalclutchneckmercyhinttheremeshmesh
+bip_39_word_space_0:
+- leave
+- eternal
+- clutch
+- neck
+- mercy
+- hint
+- there
+- mesh
+- mesh
+- exact
+- orient
+- adapt
+bip_39_word_space_1: leave
+bip_39_word_space_10: leave eternal clutch neck mercy hint there mesh mesh exact
+bip_39_word_space_11: leave eternal clutch neck mercy hint there mesh mesh exact orient
+bip_39_word_space_12: leave eternal clutch neck mercy hint there mesh mesh exact orient
+  adapt
+bip_39_word_space_2: leave eternal
+bip_39_word_space_3: leave eternal clutch
+bip_39_word_space_4: leave eternal clutch neck
+bip_39_word_space_5: leave eternal clutch neck mercy
+bip_39_word_space_6: leave eternal clutch neck mercy hint
+bip_39_word_space_7: leave eternal clutch neck mercy hint there
+bip_39_word_space_8: leave eternal clutch neck mercy hint there mesh
+bip_39_word_space_9: leave eternal clutch neck mercy hint there mesh mesh
+bip_39_word_underscore_1: leave
+bip_39_word_underscore_10: leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact
+bip_39_word_underscore_11: leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact_orient
+bip_39_word_underscore_12: leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh_exact_orient_adapt
+bip_39_word_underscore_2: leave_eternal
+bip_39_word_underscore_3: leave_eternal_clutch
+bip_39_word_underscore_4: leave_eternal_clutch_neck
+bip_39_word_underscore_5: leave_eternal_clutch_neck_mercy
+bip_39_word_underscore_6: leave_eternal_clutch_neck_mercy_hint
+bip_39_word_underscore_7: leave_eternal_clutch_neck_mercy_hint_there
+bip_39_word_underscore_8: leave_eternal_clutch_neck_mercy_hint_there_mesh
+bip_39_word_underscore_9: leave_eternal_clutch_neck_mercy_hint_there_mesh_mesh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_10_06_90
 id_no_color: '100690'
 id_no_size: '10_06_90'
 id_no_type: tray_thin_10_06_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_06_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201x53n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201x53n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201x53n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '100690'
 name_no_size: 10 06 90
 name_no_size_short: 10 06 90
 name_no_type: Tray Thin 10 06 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_06_90
 oomp_word: ocean tiger question
 oomp_word_emoji: ':ocean: :tiger: :question:'

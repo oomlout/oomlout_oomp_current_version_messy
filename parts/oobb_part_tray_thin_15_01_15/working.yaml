@@ -1,3 +1,223 @@
+bip_39_word_dash_1: giant
+bip_39_word_dash_10: giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid
+bip_39_word_dash_11: giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid-tenant
+bip_39_word_dash_12: giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon-hybrid-tenant-afford
+bip_39_word_dash_2: giant-network
+bip_39_word_dash_3: giant-network-wet
+bip_39_word_dash_4: giant-network-wet-enforce
+bip_39_word_dash_5: giant-network-wet-enforce-patrol
+bip_39_word_dash_6: giant-network-wet-enforce-patrol-umbrella
+bip_39_word_dash_7: giant-network-wet-enforce-patrol-umbrella-inspire
+bip_39_word_dash_8: giant-network-wet-enforce-patrol-umbrella-inspire-public
+bip_39_word_dash_9: giant-network-wet-enforce-patrol-umbrella-inspire-public-abandon
+bip_39_word_new_br_1: giant
+bip_39_word_new_br_10: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid
+bip_39_word_new_br_11: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid<br>tenant
+bip_39_word_new_br_12: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon<br>hybrid<br>tenant<br>afford
+bip_39_word_new_br_2: giant<br>network
+bip_39_word_new_br_3: giant<br>network<br>wet
+bip_39_word_new_br_4: giant<br>network<br>wet<br>enforce
+bip_39_word_new_br_5: giant<br>network<br>wet<br>enforce<br>patrol
+bip_39_word_new_br_6: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella
+bip_39_word_new_br_7: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire
+bip_39_word_new_br_8: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public
+bip_39_word_new_br_9: giant<br>network<br>wet<br>enforce<br>patrol<br>umbrella<br>inspire<br>public<br>abandon
+bip_39_word_new_line_1: giant
+bip_39_word_new_line_10: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire
+
+  public
+
+  abandon
+
+  hybrid'
+bip_39_word_new_line_11: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire
+
+  public
+
+  abandon
+
+  hybrid
+
+  tenant'
+bip_39_word_new_line_12: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire
+
+  public
+
+  abandon
+
+  hybrid
+
+  tenant
+
+  afford'
+bip_39_word_new_line_2: 'giant
+
+  network'
+bip_39_word_new_line_3: 'giant
+
+  network
+
+  wet'
+bip_39_word_new_line_4: 'giant
+
+  network
+
+  wet
+
+  enforce'
+bip_39_word_new_line_5: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol'
+bip_39_word_new_line_6: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella'
+bip_39_word_new_line_7: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire'
+bip_39_word_new_line_8: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire
+
+  public'
+bip_39_word_new_line_9: 'giant
+
+  network
+
+  wet
+
+  enforce
+
+  patrol
+
+  umbrella
+
+  inspire
+
+  public
+
+  abandon'
+bip_39_word_no_space_1: giant
+bip_39_word_no_space_10: giantnetworkwetenforcepatrolumbrellainspirepublicabandonhybrid
+bip_39_word_no_space_11: giantnetworkwetenforcepatrolumbrellainspirepublicabandonhybridtenant
+bip_39_word_no_space_12: giantnetworkwetenforcepatrolumbrellainspirepublicabandonhybridtenantafford
+bip_39_word_no_space_2: giantnetwork
+bip_39_word_no_space_3: giantnetworkwet
+bip_39_word_no_space_4: giantnetworkwetenforce
+bip_39_word_no_space_5: giantnetworkwetenforcepatrol
+bip_39_word_no_space_6: giantnetworkwetenforcepatrolumbrella
+bip_39_word_no_space_7: giantnetworkwetenforcepatrolumbrellainspire
+bip_39_word_no_space_8: giantnetworkwetenforcepatrolumbrellainspirepublic
+bip_39_word_no_space_9: giantnetworkwetenforcepatrolumbrellainspirepublicabandon
+bip_39_word_space_0:
+- giant
+- network
+- wet
+- enforce
+- patrol
+- umbrella
+- inspire
+- public
+- abandon
+- hybrid
+- tenant
+- afford
+bip_39_word_space_1: giant
+bip_39_word_space_10: giant network wet enforce patrol umbrella inspire public abandon
+  hybrid
+bip_39_word_space_11: giant network wet enforce patrol umbrella inspire public abandon
+  hybrid tenant
+bip_39_word_space_12: giant network wet enforce patrol umbrella inspire public abandon
+  hybrid tenant afford
+bip_39_word_space_2: giant network
+bip_39_word_space_3: giant network wet
+bip_39_word_space_4: giant network wet enforce
+bip_39_word_space_5: giant network wet enforce patrol
+bip_39_word_space_6: giant network wet enforce patrol umbrella
+bip_39_word_space_7: giant network wet enforce patrol umbrella inspire
+bip_39_word_space_8: giant network wet enforce patrol umbrella inspire public
+bip_39_word_space_9: giant network wet enforce patrol umbrella inspire public abandon
+bip_39_word_underscore_1: giant
+bip_39_word_underscore_10: giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid
+bip_39_word_underscore_11: giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid_tenant
+bip_39_word_underscore_12: giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon_hybrid_tenant_afford
+bip_39_word_underscore_2: giant_network
+bip_39_word_underscore_3: giant_network_wet
+bip_39_word_underscore_4: giant_network_wet_enforce
+bip_39_word_underscore_5: giant_network_wet_enforce_patrol
+bip_39_word_underscore_6: giant_network_wet_enforce_patrol_umbrella
+bip_39_word_underscore_7: giant_network_wet_enforce_patrol_umbrella_inspire
+bip_39_word_underscore_8: giant_network_wet_enforce_patrol_umbrella_inspire_public
+bip_39_word_underscore_9: giant_network_wet_enforce_patrol_umbrella_inspire_public_abandon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_01_15
 id_no_color: '150115'
 id_no_size: '15_01_15'
 id_no_type: tray_thin_15_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202srvg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202srvg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202srvg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150115'
 name_no_size: 15 01 15
 name_no_size_short: 15 01 15
 name_no_type: Tray Thin 15 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_01_15
 oomp_word: baby_chick ramen dancer
 oomp_word_emoji: ':baby_chick: :ramen: :dancer:'

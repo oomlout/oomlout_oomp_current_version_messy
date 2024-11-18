@@ -1,3 +1,223 @@
+bip_39_word_dash_1: approve
+bip_39_word_dash_10: approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride
+bip_39_word_dash_11: approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride-bomb
+bip_39_word_dash_12: approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket-ride-bomb-always
+bip_39_word_dash_2: approve-culture
+bip_39_word_dash_3: approve-culture-coral
+bip_39_word_dash_4: approve-culture-coral-tooth
+bip_39_word_dash_5: approve-culture-coral-tooth-pelican
+bip_39_word_dash_6: approve-culture-coral-tooth-pelican-unveil
+bip_39_word_dash_7: approve-culture-coral-tooth-pelican-unveil-pig
+bip_39_word_dash_8: approve-culture-coral-tooth-pelican-unveil-pig-knock
+bip_39_word_dash_9: approve-culture-coral-tooth-pelican-unveil-pig-knock-bracket
+bip_39_word_new_br_1: approve
+bip_39_word_new_br_10: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride
+bip_39_word_new_br_11: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride<br>bomb
+bip_39_word_new_br_12: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket<br>ride<br>bomb<br>always
+bip_39_word_new_br_2: approve<br>culture
+bip_39_word_new_br_3: approve<br>culture<br>coral
+bip_39_word_new_br_4: approve<br>culture<br>coral<br>tooth
+bip_39_word_new_br_5: approve<br>culture<br>coral<br>tooth<br>pelican
+bip_39_word_new_br_6: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil
+bip_39_word_new_br_7: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig
+bip_39_word_new_br_8: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock
+bip_39_word_new_br_9: approve<br>culture<br>coral<br>tooth<br>pelican<br>unveil<br>pig<br>knock<br>bracket
+bip_39_word_new_line_1: approve
+bip_39_word_new_line_10: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig
+
+  knock
+
+  bracket
+
+  ride'
+bip_39_word_new_line_11: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig
+
+  knock
+
+  bracket
+
+  ride
+
+  bomb'
+bip_39_word_new_line_12: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig
+
+  knock
+
+  bracket
+
+  ride
+
+  bomb
+
+  always'
+bip_39_word_new_line_2: 'approve
+
+  culture'
+bip_39_word_new_line_3: 'approve
+
+  culture
+
+  coral'
+bip_39_word_new_line_4: 'approve
+
+  culture
+
+  coral
+
+  tooth'
+bip_39_word_new_line_5: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican'
+bip_39_word_new_line_6: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil'
+bip_39_word_new_line_7: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig'
+bip_39_word_new_line_8: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig
+
+  knock'
+bip_39_word_new_line_9: 'approve
+
+  culture
+
+  coral
+
+  tooth
+
+  pelican
+
+  unveil
+
+  pig
+
+  knock
+
+  bracket'
+bip_39_word_no_space_1: approve
+bip_39_word_no_space_10: approveculturecoraltoothpelicanunveilpigknockbracketride
+bip_39_word_no_space_11: approveculturecoraltoothpelicanunveilpigknockbracketridebomb
+bip_39_word_no_space_12: approveculturecoraltoothpelicanunveilpigknockbracketridebombalways
+bip_39_word_no_space_2: approveculture
+bip_39_word_no_space_3: approveculturecoral
+bip_39_word_no_space_4: approveculturecoraltooth
+bip_39_word_no_space_5: approveculturecoraltoothpelican
+bip_39_word_no_space_6: approveculturecoraltoothpelicanunveil
+bip_39_word_no_space_7: approveculturecoraltoothpelicanunveilpig
+bip_39_word_no_space_8: approveculturecoraltoothpelicanunveilpigknock
+bip_39_word_no_space_9: approveculturecoraltoothpelicanunveilpigknockbracket
+bip_39_word_space_0:
+- approve
+- culture
+- coral
+- tooth
+- pelican
+- unveil
+- pig
+- knock
+- bracket
+- ride
+- bomb
+- always
+bip_39_word_space_1: approve
+bip_39_word_space_10: approve culture coral tooth pelican unveil pig knock bracket
+  ride
+bip_39_word_space_11: approve culture coral tooth pelican unveil pig knock bracket
+  ride bomb
+bip_39_word_space_12: approve culture coral tooth pelican unveil pig knock bracket
+  ride bomb always
+bip_39_word_space_2: approve culture
+bip_39_word_space_3: approve culture coral
+bip_39_word_space_4: approve culture coral tooth
+bip_39_word_space_5: approve culture coral tooth pelican
+bip_39_word_space_6: approve culture coral tooth pelican unveil
+bip_39_word_space_7: approve culture coral tooth pelican unveil pig
+bip_39_word_space_8: approve culture coral tooth pelican unveil pig knock
+bip_39_word_space_9: approve culture coral tooth pelican unveil pig knock bracket
+bip_39_word_underscore_1: approve
+bip_39_word_underscore_10: approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride
+bip_39_word_underscore_11: approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride_bomb
+bip_39_word_underscore_12: approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket_ride_bomb_always
+bip_39_word_underscore_2: approve_culture
+bip_39_word_underscore_3: approve_culture_coral
+bip_39_word_underscore_4: approve_culture_coral_tooth
+bip_39_word_underscore_5: approve_culture_coral_tooth_pelican
+bip_39_word_underscore_6: approve_culture_coral_tooth_pelican_unveil
+bip_39_word_underscore_7: approve_culture_coral_tooth_pelican_unveil_pig
+bip_39_word_underscore_8: approve_culture_coral_tooth_pelican_unveil_pig_knock
+bip_39_word_underscore_9: approve_culture_coral_tooth_pelican_unveil_pig_knock_bracket
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_08_01_24
 id_no_color: 080124
 id_no_size: 08_01_24
 id_no_type: tray_thin_08_01_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_01_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_01_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_01_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ou3y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ou3y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ou3y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 080124
 name_no_size: 08 01 24
 name_no_size_short: 08 01 24
 name_no_type: Tray Thin 08 01 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_01_24
 oomp_word: bell cat new_moon
 oomp_word_emoji: ':bell: :cat: :new_moon:'

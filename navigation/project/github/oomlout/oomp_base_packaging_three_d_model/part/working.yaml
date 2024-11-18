@@ -304,7 +304,14 @@ id_no_class: github_oomlout_oomp_base_packaging_three_d_model
 id_no_color: oomp_base_packaging_three_d_model
 id_no_size: oomp_base_packaging_three_d_model
 id_no_type: oomlout_oomp_base_packaging_three_d_model
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_three_d_model
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202s32y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202s32y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202s32y
 link_redirect: https://github.com/oomlout/oomp_base_packaging_three_d_model
 manufacturer: ''
 manufacturer_capital: ''
@@ -331,6 +338,7 @@ name_no_color: Oomp Base Packaging Three D Model
 name_no_size: Oomp Base Packaging Three D Model
 name_no_size_short: Oomp Base Packaging Three D Model
 name_no_type: Oomlout Oomp Base Packaging Three D Model
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomp_base_packaging_three_d_model
 oomp_word: baby_chick racehorse golf
 oomp_word_emoji: ':baby_chick: :racehorse: :golf:'

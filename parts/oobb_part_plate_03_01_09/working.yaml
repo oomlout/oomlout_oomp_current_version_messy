@@ -1,3 +1,221 @@
+bip_39_word_dash_1: van
+bip_39_word_dash_10: van-town-alley-shaft-help-depend-concert-wrap-math-attack
+bip_39_word_dash_11: van-town-alley-shaft-help-depend-concert-wrap-math-attack-minimum
+bip_39_word_dash_12: van-town-alley-shaft-help-depend-concert-wrap-math-attack-minimum-alter
+bip_39_word_dash_2: van-town
+bip_39_word_dash_3: van-town-alley
+bip_39_word_dash_4: van-town-alley-shaft
+bip_39_word_dash_5: van-town-alley-shaft-help
+bip_39_word_dash_6: van-town-alley-shaft-help-depend
+bip_39_word_dash_7: van-town-alley-shaft-help-depend-concert
+bip_39_word_dash_8: van-town-alley-shaft-help-depend-concert-wrap
+bip_39_word_dash_9: van-town-alley-shaft-help-depend-concert-wrap-math
+bip_39_word_new_br_1: van
+bip_39_word_new_br_10: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math<br>attack
+bip_39_word_new_br_11: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math<br>attack<br>minimum
+bip_39_word_new_br_12: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math<br>attack<br>minimum<br>alter
+bip_39_word_new_br_2: van<br>town
+bip_39_word_new_br_3: van<br>town<br>alley
+bip_39_word_new_br_4: van<br>town<br>alley<br>shaft
+bip_39_word_new_br_5: van<br>town<br>alley<br>shaft<br>help
+bip_39_word_new_br_6: van<br>town<br>alley<br>shaft<br>help<br>depend
+bip_39_word_new_br_7: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert
+bip_39_word_new_br_8: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap
+bip_39_word_new_br_9: van<br>town<br>alley<br>shaft<br>help<br>depend<br>concert<br>wrap<br>math
+bip_39_word_new_line_1: van
+bip_39_word_new_line_10: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert
+
+  wrap
+
+  math
+
+  attack'
+bip_39_word_new_line_11: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert
+
+  wrap
+
+  math
+
+  attack
+
+  minimum'
+bip_39_word_new_line_12: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert
+
+  wrap
+
+  math
+
+  attack
+
+  minimum
+
+  alter'
+bip_39_word_new_line_2: 'van
+
+  town'
+bip_39_word_new_line_3: 'van
+
+  town
+
+  alley'
+bip_39_word_new_line_4: 'van
+
+  town
+
+  alley
+
+  shaft'
+bip_39_word_new_line_5: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help'
+bip_39_word_new_line_6: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend'
+bip_39_word_new_line_7: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert'
+bip_39_word_new_line_8: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert
+
+  wrap'
+bip_39_word_new_line_9: 'van
+
+  town
+
+  alley
+
+  shaft
+
+  help
+
+  depend
+
+  concert
+
+  wrap
+
+  math'
+bip_39_word_no_space_1: van
+bip_39_word_no_space_10: vantownalleyshafthelpdependconcertwrapmathattack
+bip_39_word_no_space_11: vantownalleyshafthelpdependconcertwrapmathattackminimum
+bip_39_word_no_space_12: vantownalleyshafthelpdependconcertwrapmathattackminimumalter
+bip_39_word_no_space_2: vantown
+bip_39_word_no_space_3: vantownalley
+bip_39_word_no_space_4: vantownalleyshaft
+bip_39_word_no_space_5: vantownalleyshafthelp
+bip_39_word_no_space_6: vantownalleyshafthelpdepend
+bip_39_word_no_space_7: vantownalleyshafthelpdependconcert
+bip_39_word_no_space_8: vantownalleyshafthelpdependconcertwrap
+bip_39_word_no_space_9: vantownalleyshafthelpdependconcertwrapmath
+bip_39_word_space_0:
+- van
+- town
+- alley
+- shaft
+- help
+- depend
+- concert
+- wrap
+- math
+- attack
+- minimum
+- alter
+bip_39_word_space_1: van
+bip_39_word_space_10: van town alley shaft help depend concert wrap math attack
+bip_39_word_space_11: van town alley shaft help depend concert wrap math attack minimum
+bip_39_word_space_12: van town alley shaft help depend concert wrap math attack minimum
+  alter
+bip_39_word_space_2: van town
+bip_39_word_space_3: van town alley
+bip_39_word_space_4: van town alley shaft
+bip_39_word_space_5: van town alley shaft help
+bip_39_word_space_6: van town alley shaft help depend
+bip_39_word_space_7: van town alley shaft help depend concert
+bip_39_word_space_8: van town alley shaft help depend concert wrap
+bip_39_word_space_9: van town alley shaft help depend concert wrap math
+bip_39_word_underscore_1: van
+bip_39_word_underscore_10: van_town_alley_shaft_help_depend_concert_wrap_math_attack
+bip_39_word_underscore_11: van_town_alley_shaft_help_depend_concert_wrap_math_attack_minimum
+bip_39_word_underscore_12: van_town_alley_shaft_help_depend_concert_wrap_math_attack_minimum_alter
+bip_39_word_underscore_2: van_town
+bip_39_word_underscore_3: van_town_alley
+bip_39_word_underscore_4: van_town_alley_shaft
+bip_39_word_underscore_5: van_town_alley_shaft_help
+bip_39_word_underscore_6: van_town_alley_shaft_help_depend
+bip_39_word_underscore_7: van_town_alley_shaft_help_depend_concert
+bip_39_word_underscore_8: van_town_alley_shaft_help_depend_concert_wrap
+bip_39_word_underscore_9: van_town_alley_shaft_help_depend_concert_wrap_math
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_plate_03_01_09
 id_no_color: 030109
 id_no_size: 03_01_09
 id_no_type: plate_03_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204napv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204napv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204napv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 030109
 name_no_size: 03 01 09
 name_no_size_short: 03 01 09
 name_no_type: Plate 03 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_01_09
 oomp_word: gift clap grin
 oomp_word_emoji: ':gift: :clap: :grin:'

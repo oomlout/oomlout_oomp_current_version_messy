@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_caster
 
+### name
+* name: Food Baking Sugar Caster
+* name_short: Sugar Caster
 ### id
 * oomp_id: food_baking_sugar_caster
   * classification: food

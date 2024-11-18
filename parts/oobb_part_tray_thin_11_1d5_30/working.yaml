@@ -1,3 +1,222 @@
+bip_39_word_dash_1: flame
+bip_39_word_dash_10: flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge
+bip_39_word_dash_11: flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge-surround
+bip_39_word_dash_12: flame-foster-that-dress-inform-hello-abuse-roast-hawk-badge-surround-around
+bip_39_word_dash_2: flame-foster
+bip_39_word_dash_3: flame-foster-that
+bip_39_word_dash_4: flame-foster-that-dress
+bip_39_word_dash_5: flame-foster-that-dress-inform
+bip_39_word_dash_6: flame-foster-that-dress-inform-hello
+bip_39_word_dash_7: flame-foster-that-dress-inform-hello-abuse
+bip_39_word_dash_8: flame-foster-that-dress-inform-hello-abuse-roast
+bip_39_word_dash_9: flame-foster-that-dress-inform-hello-abuse-roast-hawk
+bip_39_word_new_br_1: flame
+bip_39_word_new_br_10: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge
+bip_39_word_new_br_11: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge<br>surround
+bip_39_word_new_br_12: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk<br>badge<br>surround<br>around
+bip_39_word_new_br_2: flame<br>foster
+bip_39_word_new_br_3: flame<br>foster<br>that
+bip_39_word_new_br_4: flame<br>foster<br>that<br>dress
+bip_39_word_new_br_5: flame<br>foster<br>that<br>dress<br>inform
+bip_39_word_new_br_6: flame<br>foster<br>that<br>dress<br>inform<br>hello
+bip_39_word_new_br_7: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse
+bip_39_word_new_br_8: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast
+bip_39_word_new_br_9: flame<br>foster<br>that<br>dress<br>inform<br>hello<br>abuse<br>roast<br>hawk
+bip_39_word_new_line_1: flame
+bip_39_word_new_line_10: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse
+
+  roast
+
+  hawk
+
+  badge'
+bip_39_word_new_line_11: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse
+
+  roast
+
+  hawk
+
+  badge
+
+  surround'
+bip_39_word_new_line_12: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse
+
+  roast
+
+  hawk
+
+  badge
+
+  surround
+
+  around'
+bip_39_word_new_line_2: 'flame
+
+  foster'
+bip_39_word_new_line_3: 'flame
+
+  foster
+
+  that'
+bip_39_word_new_line_4: 'flame
+
+  foster
+
+  that
+
+  dress'
+bip_39_word_new_line_5: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform'
+bip_39_word_new_line_6: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello'
+bip_39_word_new_line_7: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse'
+bip_39_word_new_line_8: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse
+
+  roast'
+bip_39_word_new_line_9: 'flame
+
+  foster
+
+  that
+
+  dress
+
+  inform
+
+  hello
+
+  abuse
+
+  roast
+
+  hawk'
+bip_39_word_no_space_1: flame
+bip_39_word_no_space_10: flamefosterthatdressinformhelloabuseroasthawkbadge
+bip_39_word_no_space_11: flamefosterthatdressinformhelloabuseroasthawkbadgesurround
+bip_39_word_no_space_12: flamefosterthatdressinformhelloabuseroasthawkbadgesurroundaround
+bip_39_word_no_space_2: flamefoster
+bip_39_word_no_space_3: flamefosterthat
+bip_39_word_no_space_4: flamefosterthatdress
+bip_39_word_no_space_5: flamefosterthatdressinform
+bip_39_word_no_space_6: flamefosterthatdressinformhello
+bip_39_word_no_space_7: flamefosterthatdressinformhelloabuse
+bip_39_word_no_space_8: flamefosterthatdressinformhelloabuseroast
+bip_39_word_no_space_9: flamefosterthatdressinformhelloabuseroasthawk
+bip_39_word_space_0:
+- flame
+- foster
+- that
+- dress
+- inform
+- hello
+- abuse
+- roast
+- hawk
+- badge
+- surround
+- around
+bip_39_word_space_1: flame
+bip_39_word_space_10: flame foster that dress inform hello abuse roast hawk badge
+bip_39_word_space_11: flame foster that dress inform hello abuse roast hawk badge
+  surround
+bip_39_word_space_12: flame foster that dress inform hello abuse roast hawk badge
+  surround around
+bip_39_word_space_2: flame foster
+bip_39_word_space_3: flame foster that
+bip_39_word_space_4: flame foster that dress
+bip_39_word_space_5: flame foster that dress inform
+bip_39_word_space_6: flame foster that dress inform hello
+bip_39_word_space_7: flame foster that dress inform hello abuse
+bip_39_word_space_8: flame foster that dress inform hello abuse roast
+bip_39_word_space_9: flame foster that dress inform hello abuse roast hawk
+bip_39_word_underscore_1: flame
+bip_39_word_underscore_10: flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge
+bip_39_word_underscore_11: flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge_surround
+bip_39_word_underscore_12: flame_foster_that_dress_inform_hello_abuse_roast_hawk_badge_surround_around
+bip_39_word_underscore_2: flame_foster
+bip_39_word_underscore_3: flame_foster_that
+bip_39_word_underscore_4: flame_foster_that_dress
+bip_39_word_underscore_5: flame_foster_that_dress_inform
+bip_39_word_underscore_6: flame_foster_that_dress_inform_hello
+bip_39_word_underscore_7: flame_foster_that_dress_inform_hello_abuse
+bip_39_word_underscore_8: flame_foster_that_dress_inform_hello_abuse_roast
+bip_39_word_underscore_9: flame_foster_that_dress_inform_hello_abuse_roast_hawk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_1d5_30
 id_no_color: 111d530
 id_no_size: 11_1d5_30
 id_no_type: tray_thin_11_1d5_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207mwhw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207mwhw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207mwhw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 111D530
 name_no_size: 11 1D5 30
 name_no_size_short: 11 1D5 30
 name_no_type: Tray Thin 11 1D5 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_1d5_30
 oomp_word: cake tea wink
 oomp_word_emoji: ':cake: :tea: :wink:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Hook Picture Hanging Brass 6 5 mm Width 36 mm Height 12 mm Depth 22500 G Weight Capacity
+* name_short: 
 ### id
 * oomp_id: hardware_hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
   * classification: hardware

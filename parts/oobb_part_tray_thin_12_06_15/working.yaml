@@ -1,3 +1,222 @@
+bip_39_word_dash_1: oyster
+bip_39_word_dash_10: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic
+bip_39_word_dash_11: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic-girl
+bip_39_word_dash_12: oyster-young-gasp-gravity-start-journey-drink-spring-core-critic-girl-apart
+bip_39_word_dash_2: oyster-young
+bip_39_word_dash_3: oyster-young-gasp
+bip_39_word_dash_4: oyster-young-gasp-gravity
+bip_39_word_dash_5: oyster-young-gasp-gravity-start
+bip_39_word_dash_6: oyster-young-gasp-gravity-start-journey
+bip_39_word_dash_7: oyster-young-gasp-gravity-start-journey-drink
+bip_39_word_dash_8: oyster-young-gasp-gravity-start-journey-drink-spring
+bip_39_word_dash_9: oyster-young-gasp-gravity-start-journey-drink-spring-core
+bip_39_word_new_br_1: oyster
+bip_39_word_new_br_10: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic
+bip_39_word_new_br_11: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl
+bip_39_word_new_br_12: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core<br>critic<br>girl<br>apart
+bip_39_word_new_br_2: oyster<br>young
+bip_39_word_new_br_3: oyster<br>young<br>gasp
+bip_39_word_new_br_4: oyster<br>young<br>gasp<br>gravity
+bip_39_word_new_br_5: oyster<br>young<br>gasp<br>gravity<br>start
+bip_39_word_new_br_6: oyster<br>young<br>gasp<br>gravity<br>start<br>journey
+bip_39_word_new_br_7: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink
+bip_39_word_new_br_8: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring
+bip_39_word_new_br_9: oyster<br>young<br>gasp<br>gravity<br>start<br>journey<br>drink<br>spring<br>core
+bip_39_word_new_line_1: oyster
+bip_39_word_new_line_10: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink
+
+  spring
+
+  core
+
+  critic'
+bip_39_word_new_line_11: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink
+
+  spring
+
+  core
+
+  critic
+
+  girl'
+bip_39_word_new_line_12: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink
+
+  spring
+
+  core
+
+  critic
+
+  girl
+
+  apart'
+bip_39_word_new_line_2: 'oyster
+
+  young'
+bip_39_word_new_line_3: 'oyster
+
+  young
+
+  gasp'
+bip_39_word_new_line_4: 'oyster
+
+  young
+
+  gasp
+
+  gravity'
+bip_39_word_new_line_5: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start'
+bip_39_word_new_line_6: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey'
+bip_39_word_new_line_7: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink'
+bip_39_word_new_line_8: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink
+
+  spring'
+bip_39_word_new_line_9: 'oyster
+
+  young
+
+  gasp
+
+  gravity
+
+  start
+
+  journey
+
+  drink
+
+  spring
+
+  core'
+bip_39_word_no_space_1: oyster
+bip_39_word_no_space_10: oysteryounggaspgravitystartjourneydrinkspringcorecritic
+bip_39_word_no_space_11: oysteryounggaspgravitystartjourneydrinkspringcorecriticgirl
+bip_39_word_no_space_12: oysteryounggaspgravitystartjourneydrinkspringcorecriticgirlapart
+bip_39_word_no_space_2: oysteryoung
+bip_39_word_no_space_3: oysteryounggasp
+bip_39_word_no_space_4: oysteryounggaspgravity
+bip_39_word_no_space_5: oysteryounggaspgravitystart
+bip_39_word_no_space_6: oysteryounggaspgravitystartjourney
+bip_39_word_no_space_7: oysteryounggaspgravitystartjourneydrink
+bip_39_word_no_space_8: oysteryounggaspgravitystartjourneydrinkspring
+bip_39_word_no_space_9: oysteryounggaspgravitystartjourneydrinkspringcore
+bip_39_word_space_0:
+- oyster
+- young
+- gasp
+- gravity
+- start
+- journey
+- drink
+- spring
+- core
+- critic
+- girl
+- apart
+bip_39_word_space_1: oyster
+bip_39_word_space_10: oyster young gasp gravity start journey drink spring core critic
+bip_39_word_space_11: oyster young gasp gravity start journey drink spring core critic
+  girl
+bip_39_word_space_12: oyster young gasp gravity start journey drink spring core critic
+  girl apart
+bip_39_word_space_2: oyster young
+bip_39_word_space_3: oyster young gasp
+bip_39_word_space_4: oyster young gasp gravity
+bip_39_word_space_5: oyster young gasp gravity start
+bip_39_word_space_6: oyster young gasp gravity start journey
+bip_39_word_space_7: oyster young gasp gravity start journey drink
+bip_39_word_space_8: oyster young gasp gravity start journey drink spring
+bip_39_word_space_9: oyster young gasp gravity start journey drink spring core
+bip_39_word_underscore_1: oyster
+bip_39_word_underscore_10: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic
+bip_39_word_underscore_11: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic_girl
+bip_39_word_underscore_12: oyster_young_gasp_gravity_start_journey_drink_spring_core_critic_girl_apart
+bip_39_word_underscore_2: oyster_young
+bip_39_word_underscore_3: oyster_young_gasp
+bip_39_word_underscore_4: oyster_young_gasp_gravity
+bip_39_word_underscore_5: oyster_young_gasp_gravity_start
+bip_39_word_underscore_6: oyster_young_gasp_gravity_start_journey
+bip_39_word_underscore_7: oyster_young_gasp_gravity_start_journey_drink
+bip_39_word_underscore_8: oyster_young_gasp_gravity_start_journey_drink_spring
+bip_39_word_underscore_9: oyster_young_gasp_gravity_start_journey_drink_spring_core
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_06_15
 id_no_color: '120615'
 id_no_size: '12_06_15'
 id_no_type: tray_thin_12_06_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_06_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_06_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ffyk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ffyk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ffyk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120615'
 name_no_size: 12 06 15
 name_no_size_short: 12 06 15
 name_no_type: Tray Thin 12 06 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_06_15
 oomp_word: book cookie pill
 oomp_word_emoji: ':book: :cookie: :pill:'

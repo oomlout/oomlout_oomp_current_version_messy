@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5301 Size 12 mm ID 37 mm OD 19 05 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :frog: :bell: :door:
 * md5_6_alpha: 27bm3
 * md5_6: 38788b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2027bm3)
+[2x1](http://192.168.1.242:1112/?label=oomp%2027bm3)
+[6x4](http://192.168.1.55:1112/?label=oomp%2027bm3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ spend |
 | id_no_color | 12_mm_id_37_mm_od_19_05_mm_depth |  
 | id_no_size | 5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  
 | id_no_type | 5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2027bm3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2027bm3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2027bm3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ spend |
 | name_no_size | 5301 Size 12 mm ID 37 mm OD 19 05 mm Depth |  
 | name_no_size_short | 5301 Size 12 Mm Id 37 Mm Od 19 05 Mm Depth |  
 | name_no_type | 5300 Series 5301 Size 12 mm ID 37 mm OD 19 05 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5301 |  
 | oomlout_short_code_upper | BR5301 |  
 | oomp_key | oomp_hardware_bearing_5300_series_5301_size_12_mm_id_37_mm_od_19_05_mm_depth |  

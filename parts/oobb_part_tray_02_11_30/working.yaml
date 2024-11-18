@@ -1,3 +1,222 @@
+bip_39_word_dash_1: resemble
+bip_39_word_dash_10: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild
+bip_39_word_dash_11: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild-inform
+bip_39_word_dash_12: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt-rebuild-inform-accuse
+bip_39_word_dash_2: resemble-giraffe
+bip_39_word_dash_3: resemble-giraffe-raise
+bip_39_word_dash_4: resemble-giraffe-raise-green
+bip_39_word_dash_5: resemble-giraffe-raise-green-foil
+bip_39_word_dash_6: resemble-giraffe-raise-green-foil-oven
+bip_39_word_dash_7: resemble-giraffe-raise-green-foil-oven-chef
+bip_39_word_dash_8: resemble-giraffe-raise-green-foil-oven-chef-witness
+bip_39_word_dash_9: resemble-giraffe-raise-green-foil-oven-chef-witness-hunt
+bip_39_word_new_br_1: resemble
+bip_39_word_new_br_10: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild
+bip_39_word_new_br_11: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform
+bip_39_word_new_br_12: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt<br>rebuild<br>inform<br>accuse
+bip_39_word_new_br_2: resemble<br>giraffe
+bip_39_word_new_br_3: resemble<br>giraffe<br>raise
+bip_39_word_new_br_4: resemble<br>giraffe<br>raise<br>green
+bip_39_word_new_br_5: resemble<br>giraffe<br>raise<br>green<br>foil
+bip_39_word_new_br_6: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven
+bip_39_word_new_br_7: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef
+bip_39_word_new_br_8: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness
+bip_39_word_new_br_9: resemble<br>giraffe<br>raise<br>green<br>foil<br>oven<br>chef<br>witness<br>hunt
+bip_39_word_new_line_1: resemble
+bip_39_word_new_line_10: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef
+
+  witness
+
+  hunt
+
+  rebuild'
+bip_39_word_new_line_11: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef
+
+  witness
+
+  hunt
+
+  rebuild
+
+  inform'
+bip_39_word_new_line_12: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef
+
+  witness
+
+  hunt
+
+  rebuild
+
+  inform
+
+  accuse'
+bip_39_word_new_line_2: 'resemble
+
+  giraffe'
+bip_39_word_new_line_3: 'resemble
+
+  giraffe
+
+  raise'
+bip_39_word_new_line_4: 'resemble
+
+  giraffe
+
+  raise
+
+  green'
+bip_39_word_new_line_5: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil'
+bip_39_word_new_line_6: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven'
+bip_39_word_new_line_7: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef'
+bip_39_word_new_line_8: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef
+
+  witness'
+bip_39_word_new_line_9: 'resemble
+
+  giraffe
+
+  raise
+
+  green
+
+  foil
+
+  oven
+
+  chef
+
+  witness
+
+  hunt'
+bip_39_word_no_space_1: resemble
+bip_39_word_no_space_10: resemblegirafferaisegreenfoilovenchefwitnesshuntrebuild
+bip_39_word_no_space_11: resemblegirafferaisegreenfoilovenchefwitnesshuntrebuildinform
+bip_39_word_no_space_12: resemblegirafferaisegreenfoilovenchefwitnesshuntrebuildinformaccuse
+bip_39_word_no_space_2: resemblegiraffe
+bip_39_word_no_space_3: resemblegirafferaise
+bip_39_word_no_space_4: resemblegirafferaisegreen
+bip_39_word_no_space_5: resemblegirafferaisegreenfoil
+bip_39_word_no_space_6: resemblegirafferaisegreenfoiloven
+bip_39_word_no_space_7: resemblegirafferaisegreenfoilovenchef
+bip_39_word_no_space_8: resemblegirafferaisegreenfoilovenchefwitness
+bip_39_word_no_space_9: resemblegirafferaisegreenfoilovenchefwitnesshunt
+bip_39_word_space_0:
+- resemble
+- giraffe
+- raise
+- green
+- foil
+- oven
+- chef
+- witness
+- hunt
+- rebuild
+- inform
+- accuse
+bip_39_word_space_1: resemble
+bip_39_word_space_10: resemble giraffe raise green foil oven chef witness hunt rebuild
+bip_39_word_space_11: resemble giraffe raise green foil oven chef witness hunt rebuild
+  inform
+bip_39_word_space_12: resemble giraffe raise green foil oven chef witness hunt rebuild
+  inform accuse
+bip_39_word_space_2: resemble giraffe
+bip_39_word_space_3: resemble giraffe raise
+bip_39_word_space_4: resemble giraffe raise green
+bip_39_word_space_5: resemble giraffe raise green foil
+bip_39_word_space_6: resemble giraffe raise green foil oven
+bip_39_word_space_7: resemble giraffe raise green foil oven chef
+bip_39_word_space_8: resemble giraffe raise green foil oven chef witness
+bip_39_word_space_9: resemble giraffe raise green foil oven chef witness hunt
+bip_39_word_underscore_1: resemble
+bip_39_word_underscore_10: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild
+bip_39_word_underscore_11: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild_inform
+bip_39_word_underscore_12: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt_rebuild_inform_accuse
+bip_39_word_underscore_2: resemble_giraffe
+bip_39_word_underscore_3: resemble_giraffe_raise
+bip_39_word_underscore_4: resemble_giraffe_raise_green
+bip_39_word_underscore_5: resemble_giraffe_raise_green_foil
+bip_39_word_underscore_6: resemble_giraffe_raise_green_foil_oven
+bip_39_word_underscore_7: resemble_giraffe_raise_green_foil_oven_chef
+bip_39_word_underscore_8: resemble_giraffe_raise_green_foil_oven_chef_witness
+bip_39_word_underscore_9: resemble_giraffe_raise_green_foil_oven_chef_witness_hunt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_11_30
 id_no_color: '021130'
 id_no_size: '02_11_30'
 id_no_type: tray_02_11_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_11_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2011sfg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2011sfg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2011sfg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '021130'
 name_no_size: 02 11 30
 name_no_size_short: 02 11 30
 name_no_type: Tray 02 11 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_11_30
 oomp_word: clap helicopter snowflake
 oomp_word_emoji: ':clap: :helicopter: :snowflake:'

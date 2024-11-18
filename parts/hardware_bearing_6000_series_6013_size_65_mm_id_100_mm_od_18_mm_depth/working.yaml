@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tiger
+bip_39_word_dash_10: tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart
+bip_39_word_dash_11: tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart-disease
+bip_39_word_dash_12: tiger-wash-depend-hollow-lock-appear-census-blanket-wagon-heart-disease-alert
+bip_39_word_dash_2: tiger-wash
+bip_39_word_dash_3: tiger-wash-depend
+bip_39_word_dash_4: tiger-wash-depend-hollow
+bip_39_word_dash_5: tiger-wash-depend-hollow-lock
+bip_39_word_dash_6: tiger-wash-depend-hollow-lock-appear
+bip_39_word_dash_7: tiger-wash-depend-hollow-lock-appear-census
+bip_39_word_dash_8: tiger-wash-depend-hollow-lock-appear-census-blanket
+bip_39_word_dash_9: tiger-wash-depend-hollow-lock-appear-census-blanket-wagon
+bip_39_word_new_br_1: tiger
+bip_39_word_new_br_10: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart
+bip_39_word_new_br_11: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart<br>disease
+bip_39_word_new_br_12: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon<br>heart<br>disease<br>alert
+bip_39_word_new_br_2: tiger<br>wash
+bip_39_word_new_br_3: tiger<br>wash<br>depend
+bip_39_word_new_br_4: tiger<br>wash<br>depend<br>hollow
+bip_39_word_new_br_5: tiger<br>wash<br>depend<br>hollow<br>lock
+bip_39_word_new_br_6: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear
+bip_39_word_new_br_7: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census
+bip_39_word_new_br_8: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket
+bip_39_word_new_br_9: tiger<br>wash<br>depend<br>hollow<br>lock<br>appear<br>census<br>blanket<br>wagon
+bip_39_word_new_line_1: tiger
+bip_39_word_new_line_10: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census
+
+  blanket
+
+  wagon
+
+  heart'
+bip_39_word_new_line_11: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census
+
+  blanket
+
+  wagon
+
+  heart
+
+  disease'
+bip_39_word_new_line_12: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census
+
+  blanket
+
+  wagon
+
+  heart
+
+  disease
+
+  alert'
+bip_39_word_new_line_2: 'tiger
+
+  wash'
+bip_39_word_new_line_3: 'tiger
+
+  wash
+
+  depend'
+bip_39_word_new_line_4: 'tiger
+
+  wash
+
+  depend
+
+  hollow'
+bip_39_word_new_line_5: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock'
+bip_39_word_new_line_6: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear'
+bip_39_word_new_line_7: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census'
+bip_39_word_new_line_8: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census
+
+  blanket'
+bip_39_word_new_line_9: 'tiger
+
+  wash
+
+  depend
+
+  hollow
+
+  lock
+
+  appear
+
+  census
+
+  blanket
+
+  wagon'
+bip_39_word_no_space_1: tiger
+bip_39_word_no_space_10: tigerwashdependhollowlockappearcensusblanketwagonheart
+bip_39_word_no_space_11: tigerwashdependhollowlockappearcensusblanketwagonheartdisease
+bip_39_word_no_space_12: tigerwashdependhollowlockappearcensusblanketwagonheartdiseasealert
+bip_39_word_no_space_2: tigerwash
+bip_39_word_no_space_3: tigerwashdepend
+bip_39_word_no_space_4: tigerwashdependhollow
+bip_39_word_no_space_5: tigerwashdependhollowlock
+bip_39_word_no_space_6: tigerwashdependhollowlockappear
+bip_39_word_no_space_7: tigerwashdependhollowlockappearcensus
+bip_39_word_no_space_8: tigerwashdependhollowlockappearcensusblanket
+bip_39_word_no_space_9: tigerwashdependhollowlockappearcensusblanketwagon
+bip_39_word_space_0:
+- tiger
+- wash
+- depend
+- hollow
+- lock
+- appear
+- census
+- blanket
+- wagon
+- heart
+- disease
+- alert
+bip_39_word_space_1: tiger
+bip_39_word_space_10: tiger wash depend hollow lock appear census blanket wagon heart
+bip_39_word_space_11: tiger wash depend hollow lock appear census blanket wagon heart
+  disease
+bip_39_word_space_12: tiger wash depend hollow lock appear census blanket wagon heart
+  disease alert
+bip_39_word_space_2: tiger wash
+bip_39_word_space_3: tiger wash depend
+bip_39_word_space_4: tiger wash depend hollow
+bip_39_word_space_5: tiger wash depend hollow lock
+bip_39_word_space_6: tiger wash depend hollow lock appear
+bip_39_word_space_7: tiger wash depend hollow lock appear census
+bip_39_word_space_8: tiger wash depend hollow lock appear census blanket
+bip_39_word_space_9: tiger wash depend hollow lock appear census blanket wagon
+bip_39_word_underscore_1: tiger
+bip_39_word_underscore_10: tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart
+bip_39_word_underscore_11: tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart_disease
+bip_39_word_underscore_12: tiger_wash_depend_hollow_lock_appear_census_blanket_wagon_heart_disease_alert
+bip_39_word_underscore_2: tiger_wash
+bip_39_word_underscore_3: tiger_wash_depend
+bip_39_word_underscore_4: tiger_wash_depend_hollow
+bip_39_word_underscore_5: tiger_wash_depend_hollow_lock
+bip_39_word_underscore_6: tiger_wash_depend_hollow_lock_appear
+bip_39_word_underscore_7: tiger_wash_depend_hollow_lock_appear_census
+bip_39_word_underscore_8: tiger_wash_depend_hollow_lock_appear_census_blanket
+bip_39_word_underscore_9: tiger_wash_depend_hollow_lock_appear_census_blanket_wagon
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
 id_no_color: 65_mm_id_100_mm_od_18_mm_depth
 id_no_size: 6013_size_65_mm_id_100_mm_od_18_mm_depth
 id_no_type: 6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ucka
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ucka
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ucka
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 65 mm ID 100 mm OD 18 mm Depth
 name_no_size: 6013 Size 65 mm ID 100 mm OD 18 mm Depth
 name_no_size_short: 6013 Size 65 Mm Id 100 Mm Od 18 Mm Depth
 name_no_type: 6000 Series 6013 Size 65 mm ID 100 mm OD 18 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6013
+oomlout_short_code_upper: BR6013
 oomp_key: oomp_hardware_bearing_6000_series_6013_size_65_mm_id_100_mm_od_18_mm_depth
 oomp_word: tulip fax clap
 oomp_word_emoji: ':tulip: :fax: :clap:'

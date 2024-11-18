@@ -1,3 +1,223 @@
+bip_39_word_dash_1: perfect
+bip_39_word_dash_10: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous
+bip_39_word_dash_11: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous-flavor
+bip_39_word_dash_12: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand-famous-flavor-actual
+bip_39_word_dash_2: perfect-outdoor
+bip_39_word_dash_3: perfect-outdoor-follow
+bip_39_word_dash_4: perfect-outdoor-follow-sausage
+bip_39_word_dash_5: perfect-outdoor-follow-sausage-crisp
+bip_39_word_dash_6: perfect-outdoor-follow-sausage-crisp-globe
+bip_39_word_dash_7: perfect-outdoor-follow-sausage-crisp-globe-still
+bip_39_word_dash_8: perfect-outdoor-follow-sausage-crisp-globe-still-early
+bip_39_word_dash_9: perfect-outdoor-follow-sausage-crisp-globe-still-early-hand
+bip_39_word_new_br_1: perfect
+bip_39_word_new_br_10: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous
+bip_39_word_new_br_11: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor
+bip_39_word_new_br_12: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand<br>famous<br>flavor<br>actual
+bip_39_word_new_br_2: perfect<br>outdoor
+bip_39_word_new_br_3: perfect<br>outdoor<br>follow
+bip_39_word_new_br_4: perfect<br>outdoor<br>follow<br>sausage
+bip_39_word_new_br_5: perfect<br>outdoor<br>follow<br>sausage<br>crisp
+bip_39_word_new_br_6: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe
+bip_39_word_new_br_7: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still
+bip_39_word_new_br_8: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early
+bip_39_word_new_br_9: perfect<br>outdoor<br>follow<br>sausage<br>crisp<br>globe<br>still<br>early<br>hand
+bip_39_word_new_line_1: perfect
+bip_39_word_new_line_10: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still
+
+  early
+
+  hand
+
+  famous'
+bip_39_word_new_line_11: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still
+
+  early
+
+  hand
+
+  famous
+
+  flavor'
+bip_39_word_new_line_12: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still
+
+  early
+
+  hand
+
+  famous
+
+  flavor
+
+  actual'
+bip_39_word_new_line_2: 'perfect
+
+  outdoor'
+bip_39_word_new_line_3: 'perfect
+
+  outdoor
+
+  follow'
+bip_39_word_new_line_4: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage'
+bip_39_word_new_line_5: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp'
+bip_39_word_new_line_6: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe'
+bip_39_word_new_line_7: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still'
+bip_39_word_new_line_8: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still
+
+  early'
+bip_39_word_new_line_9: 'perfect
+
+  outdoor
+
+  follow
+
+  sausage
+
+  crisp
+
+  globe
+
+  still
+
+  early
+
+  hand'
+bip_39_word_no_space_1: perfect
+bip_39_word_no_space_10: perfectoutdoorfollowsausagecrispglobestillearlyhandfamous
+bip_39_word_no_space_11: perfectoutdoorfollowsausagecrispglobestillearlyhandfamousflavor
+bip_39_word_no_space_12: perfectoutdoorfollowsausagecrispglobestillearlyhandfamousflavoractual
+bip_39_word_no_space_2: perfectoutdoor
+bip_39_word_no_space_3: perfectoutdoorfollow
+bip_39_word_no_space_4: perfectoutdoorfollowsausage
+bip_39_word_no_space_5: perfectoutdoorfollowsausagecrisp
+bip_39_word_no_space_6: perfectoutdoorfollowsausagecrispglobe
+bip_39_word_no_space_7: perfectoutdoorfollowsausagecrispglobestill
+bip_39_word_no_space_8: perfectoutdoorfollowsausagecrispglobestillearly
+bip_39_word_no_space_9: perfectoutdoorfollowsausagecrispglobestillearlyhand
+bip_39_word_space_0:
+- perfect
+- outdoor
+- follow
+- sausage
+- crisp
+- globe
+- still
+- early
+- hand
+- famous
+- flavor
+- actual
+bip_39_word_space_1: perfect
+bip_39_word_space_10: perfect outdoor follow sausage crisp globe still early hand
+  famous
+bip_39_word_space_11: perfect outdoor follow sausage crisp globe still early hand
+  famous flavor
+bip_39_word_space_12: perfect outdoor follow sausage crisp globe still early hand
+  famous flavor actual
+bip_39_word_space_2: perfect outdoor
+bip_39_word_space_3: perfect outdoor follow
+bip_39_word_space_4: perfect outdoor follow sausage
+bip_39_word_space_5: perfect outdoor follow sausage crisp
+bip_39_word_space_6: perfect outdoor follow sausage crisp globe
+bip_39_word_space_7: perfect outdoor follow sausage crisp globe still
+bip_39_word_space_8: perfect outdoor follow sausage crisp globe still early
+bip_39_word_space_9: perfect outdoor follow sausage crisp globe still early hand
+bip_39_word_underscore_1: perfect
+bip_39_word_underscore_10: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous
+bip_39_word_underscore_11: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous_flavor
+bip_39_word_underscore_12: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand_famous_flavor_actual
+bip_39_word_underscore_2: perfect_outdoor
+bip_39_word_underscore_3: perfect_outdoor_follow
+bip_39_word_underscore_4: perfect_outdoor_follow_sausage
+bip_39_word_underscore_5: perfect_outdoor_follow_sausage_crisp
+bip_39_word_underscore_6: perfect_outdoor_follow_sausage_crisp_globe
+bip_39_word_underscore_7: perfect_outdoor_follow_sausage_crisp_globe_still
+bip_39_word_underscore_8: perfect_outdoor_follow_sausage_crisp_globe_still_early
+bip_39_word_underscore_9: perfect_outdoor_follow_sausage_crisp_globe_still_early_hand
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_11_15_09
 id_no_color: '111509'
 id_no_size: '11_15_09'
 id_no_type: tray_11_15_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_15_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201tl5g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201tl5g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201tl5g
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111509'
 name_no_size: 11 15 09
 name_no_size_short: 11 15 09
 name_no_type: Tray 11 15 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_15_09
 oomp_word: zap briefcase whale
 oomp_word_emoji: ':zap: :briefcase: :whale:'

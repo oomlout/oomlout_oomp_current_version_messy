@@ -1,3 +1,222 @@
+bip_39_word_dash_1: million
+bip_39_word_dash_10: million-lucky-thing-load-elegant-enemy-energy-base-rough-circle
+bip_39_word_dash_11: million-lucky-thing-load-elegant-enemy-energy-base-rough-circle-display
+bip_39_word_dash_12: million-lucky-thing-load-elegant-enemy-energy-base-rough-circle-display-alpha
+bip_39_word_dash_2: million-lucky
+bip_39_word_dash_3: million-lucky-thing
+bip_39_word_dash_4: million-lucky-thing-load
+bip_39_word_dash_5: million-lucky-thing-load-elegant
+bip_39_word_dash_6: million-lucky-thing-load-elegant-enemy
+bip_39_word_dash_7: million-lucky-thing-load-elegant-enemy-energy
+bip_39_word_dash_8: million-lucky-thing-load-elegant-enemy-energy-base
+bip_39_word_dash_9: million-lucky-thing-load-elegant-enemy-energy-base-rough
+bip_39_word_new_br_1: million
+bip_39_word_new_br_10: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough<br>circle
+bip_39_word_new_br_11: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough<br>circle<br>display
+bip_39_word_new_br_12: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough<br>circle<br>display<br>alpha
+bip_39_word_new_br_2: million<br>lucky
+bip_39_word_new_br_3: million<br>lucky<br>thing
+bip_39_word_new_br_4: million<br>lucky<br>thing<br>load
+bip_39_word_new_br_5: million<br>lucky<br>thing<br>load<br>elegant
+bip_39_word_new_br_6: million<br>lucky<br>thing<br>load<br>elegant<br>enemy
+bip_39_word_new_br_7: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy
+bip_39_word_new_br_8: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base
+bip_39_word_new_br_9: million<br>lucky<br>thing<br>load<br>elegant<br>enemy<br>energy<br>base<br>rough
+bip_39_word_new_line_1: million
+bip_39_word_new_line_10: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy
+
+  base
+
+  rough
+
+  circle'
+bip_39_word_new_line_11: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy
+
+  base
+
+  rough
+
+  circle
+
+  display'
+bip_39_word_new_line_12: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy
+
+  base
+
+  rough
+
+  circle
+
+  display
+
+  alpha'
+bip_39_word_new_line_2: 'million
+
+  lucky'
+bip_39_word_new_line_3: 'million
+
+  lucky
+
+  thing'
+bip_39_word_new_line_4: 'million
+
+  lucky
+
+  thing
+
+  load'
+bip_39_word_new_line_5: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant'
+bip_39_word_new_line_6: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy'
+bip_39_word_new_line_7: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy'
+bip_39_word_new_line_8: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy
+
+  base'
+bip_39_word_new_line_9: 'million
+
+  lucky
+
+  thing
+
+  load
+
+  elegant
+
+  enemy
+
+  energy
+
+  base
+
+  rough'
+bip_39_word_no_space_1: million
+bip_39_word_no_space_10: millionluckythingloadelegantenemyenergybaseroughcircle
+bip_39_word_no_space_11: millionluckythingloadelegantenemyenergybaseroughcircledisplay
+bip_39_word_no_space_12: millionluckythingloadelegantenemyenergybaseroughcircledisplayalpha
+bip_39_word_no_space_2: millionlucky
+bip_39_word_no_space_3: millionluckything
+bip_39_word_no_space_4: millionluckythingload
+bip_39_word_no_space_5: millionluckythingloadelegant
+bip_39_word_no_space_6: millionluckythingloadelegantenemy
+bip_39_word_no_space_7: millionluckythingloadelegantenemyenergy
+bip_39_word_no_space_8: millionluckythingloadelegantenemyenergybase
+bip_39_word_no_space_9: millionluckythingloadelegantenemyenergybaserough
+bip_39_word_space_0:
+- million
+- lucky
+- thing
+- load
+- elegant
+- enemy
+- energy
+- base
+- rough
+- circle
+- display
+- alpha
+bip_39_word_space_1: million
+bip_39_word_space_10: million lucky thing load elegant enemy energy base rough circle
+bip_39_word_space_11: million lucky thing load elegant enemy energy base rough circle
+  display
+bip_39_word_space_12: million lucky thing load elegant enemy energy base rough circle
+  display alpha
+bip_39_word_space_2: million lucky
+bip_39_word_space_3: million lucky thing
+bip_39_word_space_4: million lucky thing load
+bip_39_word_space_5: million lucky thing load elegant
+bip_39_word_space_6: million lucky thing load elegant enemy
+bip_39_word_space_7: million lucky thing load elegant enemy energy
+bip_39_word_space_8: million lucky thing load elegant enemy energy base
+bip_39_word_space_9: million lucky thing load elegant enemy energy base rough
+bip_39_word_underscore_1: million
+bip_39_word_underscore_10: million_lucky_thing_load_elegant_enemy_energy_base_rough_circle
+bip_39_word_underscore_11: million_lucky_thing_load_elegant_enemy_energy_base_rough_circle_display
+bip_39_word_underscore_12: million_lucky_thing_load_elegant_enemy_energy_base_rough_circle_display_alpha
+bip_39_word_underscore_2: million_lucky
+bip_39_word_underscore_3: million_lucky_thing
+bip_39_word_underscore_4: million_lucky_thing_load
+bip_39_word_underscore_5: million_lucky_thing_load_elegant
+bip_39_word_underscore_6: million_lucky_thing_load_elegant_enemy
+bip_39_word_underscore_7: million_lucky_thing_load_elegant_enemy_energy
+bip_39_word_underscore_8: million_lucky_thing_load_elegant_enemy_energy_base
+bip_39_word_underscore_9: million_lucky_thing_load_elegant_enemy_energy_base_rough
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_02_1d5_12
 id_no_color: 021d512
 id_no_size: 02_1d5_12
 id_no_type: tray_thin_02_1d5_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_02_1d5_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_02_1d5_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_02_1d5_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204e0p6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204e0p6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204e0p6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 021D512
 name_no_size: 02 1D5 12
 name_no_size_short: 02 1D5 12
 name_no_type: Tray Thin 02 1D5 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_02_1d5_12
 oomp_word: squirrel speaker sleepy
 oomp_word_emoji: ':squirrel: :speaker: :sleepy:'

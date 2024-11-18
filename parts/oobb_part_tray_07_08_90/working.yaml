@@ -1,3 +1,222 @@
+bip_39_word_dash_1: play
+bip_39_word_dash_10: play-draw-muffin-dress-demise-motor-drip-print-detail-phone
+bip_39_word_dash_11: play-draw-muffin-dress-demise-motor-drip-print-detail-phone-lounge
+bip_39_word_dash_12: play-draw-muffin-dress-demise-motor-drip-print-detail-phone-lounge-alone
+bip_39_word_dash_2: play-draw
+bip_39_word_dash_3: play-draw-muffin
+bip_39_word_dash_4: play-draw-muffin-dress
+bip_39_word_dash_5: play-draw-muffin-dress-demise
+bip_39_word_dash_6: play-draw-muffin-dress-demise-motor
+bip_39_word_dash_7: play-draw-muffin-dress-demise-motor-drip
+bip_39_word_dash_8: play-draw-muffin-dress-demise-motor-drip-print
+bip_39_word_dash_9: play-draw-muffin-dress-demise-motor-drip-print-detail
+bip_39_word_new_br_1: play
+bip_39_word_new_br_10: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone
+bip_39_word_new_br_11: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge
+bip_39_word_new_br_12: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail<br>phone<br>lounge<br>alone
+bip_39_word_new_br_2: play<br>draw
+bip_39_word_new_br_3: play<br>draw<br>muffin
+bip_39_word_new_br_4: play<br>draw<br>muffin<br>dress
+bip_39_word_new_br_5: play<br>draw<br>muffin<br>dress<br>demise
+bip_39_word_new_br_6: play<br>draw<br>muffin<br>dress<br>demise<br>motor
+bip_39_word_new_br_7: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip
+bip_39_word_new_br_8: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print
+bip_39_word_new_br_9: play<br>draw<br>muffin<br>dress<br>demise<br>motor<br>drip<br>print<br>detail
+bip_39_word_new_line_1: play
+bip_39_word_new_line_10: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip
+
+  print
+
+  detail
+
+  phone'
+bip_39_word_new_line_11: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip
+
+  print
+
+  detail
+
+  phone
+
+  lounge'
+bip_39_word_new_line_12: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip
+
+  print
+
+  detail
+
+  phone
+
+  lounge
+
+  alone'
+bip_39_word_new_line_2: 'play
+
+  draw'
+bip_39_word_new_line_3: 'play
+
+  draw
+
+  muffin'
+bip_39_word_new_line_4: 'play
+
+  draw
+
+  muffin
+
+  dress'
+bip_39_word_new_line_5: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise'
+bip_39_word_new_line_6: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor'
+bip_39_word_new_line_7: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip'
+bip_39_word_new_line_8: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip
+
+  print'
+bip_39_word_new_line_9: 'play
+
+  draw
+
+  muffin
+
+  dress
+
+  demise
+
+  motor
+
+  drip
+
+  print
+
+  detail'
+bip_39_word_no_space_1: play
+bip_39_word_no_space_10: playdrawmuffindressdemisemotordripprintdetailphone
+bip_39_word_no_space_11: playdrawmuffindressdemisemotordripprintdetailphonelounge
+bip_39_word_no_space_12: playdrawmuffindressdemisemotordripprintdetailphoneloungealone
+bip_39_word_no_space_2: playdraw
+bip_39_word_no_space_3: playdrawmuffin
+bip_39_word_no_space_4: playdrawmuffindress
+bip_39_word_no_space_5: playdrawmuffindressdemise
+bip_39_word_no_space_6: playdrawmuffindressdemisemotor
+bip_39_word_no_space_7: playdrawmuffindressdemisemotordrip
+bip_39_word_no_space_8: playdrawmuffindressdemisemotordripprint
+bip_39_word_no_space_9: playdrawmuffindressdemisemotordripprintdetail
+bip_39_word_space_0:
+- play
+- draw
+- muffin
+- dress
+- demise
+- motor
+- drip
+- print
+- detail
+- phone
+- lounge
+- alone
+bip_39_word_space_1: play
+bip_39_word_space_10: play draw muffin dress demise motor drip print detail phone
+bip_39_word_space_11: play draw muffin dress demise motor drip print detail phone
+  lounge
+bip_39_word_space_12: play draw muffin dress demise motor drip print detail phone
+  lounge alone
+bip_39_word_space_2: play draw
+bip_39_word_space_3: play draw muffin
+bip_39_word_space_4: play draw muffin dress
+bip_39_word_space_5: play draw muffin dress demise
+bip_39_word_space_6: play draw muffin dress demise motor
+bip_39_word_space_7: play draw muffin dress demise motor drip
+bip_39_word_space_8: play draw muffin dress demise motor drip print
+bip_39_word_space_9: play draw muffin dress demise motor drip print detail
+bip_39_word_underscore_1: play
+bip_39_word_underscore_10: play_draw_muffin_dress_demise_motor_drip_print_detail_phone
+bip_39_word_underscore_11: play_draw_muffin_dress_demise_motor_drip_print_detail_phone_lounge
+bip_39_word_underscore_12: play_draw_muffin_dress_demise_motor_drip_print_detail_phone_lounge_alone
+bip_39_word_underscore_2: play_draw
+bip_39_word_underscore_3: play_draw_muffin
+bip_39_word_underscore_4: play_draw_muffin_dress
+bip_39_word_underscore_5: play_draw_muffin_dress_demise
+bip_39_word_underscore_6: play_draw_muffin_dress_demise_motor
+bip_39_word_underscore_7: play_draw_muffin_dress_demise_motor_drip
+bip_39_word_underscore_8: play_draw_muffin_dress_demise_motor_drip_print
+bip_39_word_underscore_9: play_draw_muffin_dress_demise_motor_drip_print_detail
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_08_90
 id_no_color: 070890
 id_no_size: 07_08_90
 id_no_type: tray_07_08_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_08_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_08_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_08_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204byqw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204byqw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204byqw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 070890
 name_no_size: 07 08 90
 name_no_size_short: 07 08 90
 name_no_type: Tray 07 08 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_08_90
 oomp_word: moon scream shoe
 oomp_word_emoji: ':moon: :scream: :shoe:'

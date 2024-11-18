@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Washer M2 Penny
+* name_short: 
 ### id
 * oomp_id: hardware_washer_m2_penny
   * classification: hardware

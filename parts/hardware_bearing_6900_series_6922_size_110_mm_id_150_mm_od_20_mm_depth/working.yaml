@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stem
+bip_39_word_dash_10: stem-exercise-jacket-taste-penalty-gain-tiger-state-unable-power
+bip_39_word_dash_11: stem-exercise-jacket-taste-penalty-gain-tiger-state-unable-power-still
+bip_39_word_dash_12: stem-exercise-jacket-taste-penalty-gain-tiger-state-unable-power-still-also
+bip_39_word_dash_2: stem-exercise
+bip_39_word_dash_3: stem-exercise-jacket
+bip_39_word_dash_4: stem-exercise-jacket-taste
+bip_39_word_dash_5: stem-exercise-jacket-taste-penalty
+bip_39_word_dash_6: stem-exercise-jacket-taste-penalty-gain
+bip_39_word_dash_7: stem-exercise-jacket-taste-penalty-gain-tiger
+bip_39_word_dash_8: stem-exercise-jacket-taste-penalty-gain-tiger-state
+bip_39_word_dash_9: stem-exercise-jacket-taste-penalty-gain-tiger-state-unable
+bip_39_word_new_br_1: stem
+bip_39_word_new_br_10: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger<br>state<br>unable<br>power
+bip_39_word_new_br_11: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger<br>state<br>unable<br>power<br>still
+bip_39_word_new_br_12: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger<br>state<br>unable<br>power<br>still<br>also
+bip_39_word_new_br_2: stem<br>exercise
+bip_39_word_new_br_3: stem<br>exercise<br>jacket
+bip_39_word_new_br_4: stem<br>exercise<br>jacket<br>taste
+bip_39_word_new_br_5: stem<br>exercise<br>jacket<br>taste<br>penalty
+bip_39_word_new_br_6: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain
+bip_39_word_new_br_7: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger
+bip_39_word_new_br_8: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger<br>state
+bip_39_word_new_br_9: stem<br>exercise<br>jacket<br>taste<br>penalty<br>gain<br>tiger<br>state<br>unable
+bip_39_word_new_line_1: stem
+bip_39_word_new_line_10: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger
+
+  state
+
+  unable
+
+  power'
+bip_39_word_new_line_11: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger
+
+  state
+
+  unable
+
+  power
+
+  still'
+bip_39_word_new_line_12: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger
+
+  state
+
+  unable
+
+  power
+
+  still
+
+  also'
+bip_39_word_new_line_2: 'stem
+
+  exercise'
+bip_39_word_new_line_3: 'stem
+
+  exercise
+
+  jacket'
+bip_39_word_new_line_4: 'stem
+
+  exercise
+
+  jacket
+
+  taste'
+bip_39_word_new_line_5: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty'
+bip_39_word_new_line_6: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain'
+bip_39_word_new_line_7: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger'
+bip_39_word_new_line_8: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger
+
+  state'
+bip_39_word_new_line_9: 'stem
+
+  exercise
+
+  jacket
+
+  taste
+
+  penalty
+
+  gain
+
+  tiger
+
+  state
+
+  unable'
+bip_39_word_no_space_1: stem
+bip_39_word_no_space_10: stemexercisejackettastepenaltygaintigerstateunablepower
+bip_39_word_no_space_11: stemexercisejackettastepenaltygaintigerstateunablepowerstill
+bip_39_word_no_space_12: stemexercisejackettastepenaltygaintigerstateunablepowerstillalso
+bip_39_word_no_space_2: stemexercise
+bip_39_word_no_space_3: stemexercisejacket
+bip_39_word_no_space_4: stemexercisejackettaste
+bip_39_word_no_space_5: stemexercisejackettastepenalty
+bip_39_word_no_space_6: stemexercisejackettastepenaltygain
+bip_39_word_no_space_7: stemexercisejackettastepenaltygaintiger
+bip_39_word_no_space_8: stemexercisejackettastepenaltygaintigerstate
+bip_39_word_no_space_9: stemexercisejackettastepenaltygaintigerstateunable
+bip_39_word_space_0:
+- stem
+- exercise
+- jacket
+- taste
+- penalty
+- gain
+- tiger
+- state
+- unable
+- power
+- still
+- also
+bip_39_word_space_1: stem
+bip_39_word_space_10: stem exercise jacket taste penalty gain tiger state unable power
+bip_39_word_space_11: stem exercise jacket taste penalty gain tiger state unable power
+  still
+bip_39_word_space_12: stem exercise jacket taste penalty gain tiger state unable power
+  still also
+bip_39_word_space_2: stem exercise
+bip_39_word_space_3: stem exercise jacket
+bip_39_word_space_4: stem exercise jacket taste
+bip_39_word_space_5: stem exercise jacket taste penalty
+bip_39_word_space_6: stem exercise jacket taste penalty gain
+bip_39_word_space_7: stem exercise jacket taste penalty gain tiger
+bip_39_word_space_8: stem exercise jacket taste penalty gain tiger state
+bip_39_word_space_9: stem exercise jacket taste penalty gain tiger state unable
+bip_39_word_underscore_1: stem
+bip_39_word_underscore_10: stem_exercise_jacket_taste_penalty_gain_tiger_state_unable_power
+bip_39_word_underscore_11: stem_exercise_jacket_taste_penalty_gain_tiger_state_unable_power_still
+bip_39_word_underscore_12: stem_exercise_jacket_taste_penalty_gain_tiger_state_unable_power_still_also
+bip_39_word_underscore_2: stem_exercise
+bip_39_word_underscore_3: stem_exercise_jacket
+bip_39_word_underscore_4: stem_exercise_jacket_taste
+bip_39_word_underscore_5: stem_exercise_jacket_taste_penalty
+bip_39_word_underscore_6: stem_exercise_jacket_taste_penalty_gain
+bip_39_word_underscore_7: stem_exercise_jacket_taste_penalty_gain_tiger
+bip_39_word_underscore_8: stem_exercise_jacket_taste_penalty_gain_tiger_state
+bip_39_word_underscore_9: stem_exercise_jacket_taste_penalty_gain_tiger_state_unable
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
 id_no_color: 110_mm_id_150_mm_od_20_mm_depth
 id_no_size: 6922_size_110_mm_id_150_mm_od_20_mm_depth
 id_no_type: 6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204lacq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204lacq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204lacq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 110 mm ID 150 mm OD 20 mm Depth
 name_no_size: 6922 Size 110 mm ID 150 mm OD 20 mm Depth
 name_no_size_short: 6922 Size 110 Mm Id 150 Mm Od 20 Mm Depth
 name_no_type: 6900 Series 6922 Size 110 mm ID 150 mm OD 20 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6922
+oomlout_short_code_upper: BR6922
 oomp_key: oomp_hardware_bearing_6900_series_6922_size_110_mm_id_150_mm_od_20_mm_depth
 oomp_word: ghost boot lipstick
 oomp_word_emoji: ':ghost: :boot: :lipstick:'

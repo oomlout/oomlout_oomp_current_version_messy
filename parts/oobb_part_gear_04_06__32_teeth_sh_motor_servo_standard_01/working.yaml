@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rare
+bip_39_word_dash_10: rare-castle-scout-advice-umbrella-run-deliver-outdoor-genre-chronic
+bip_39_word_dash_11: rare-castle-scout-advice-umbrella-run-deliver-outdoor-genre-chronic-parent
+bip_39_word_dash_12: rare-castle-scout-advice-umbrella-run-deliver-outdoor-genre-chronic-parent-afraid
+bip_39_word_dash_2: rare-castle
+bip_39_word_dash_3: rare-castle-scout
+bip_39_word_dash_4: rare-castle-scout-advice
+bip_39_word_dash_5: rare-castle-scout-advice-umbrella
+bip_39_word_dash_6: rare-castle-scout-advice-umbrella-run
+bip_39_word_dash_7: rare-castle-scout-advice-umbrella-run-deliver
+bip_39_word_dash_8: rare-castle-scout-advice-umbrella-run-deliver-outdoor
+bip_39_word_dash_9: rare-castle-scout-advice-umbrella-run-deliver-outdoor-genre
+bip_39_word_new_br_1: rare
+bip_39_word_new_br_10: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic
+bip_39_word_new_br_11: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic<br>parent
+bip_39_word_new_br_12: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre<br>chronic<br>parent<br>afraid
+bip_39_word_new_br_2: rare<br>castle
+bip_39_word_new_br_3: rare<br>castle<br>scout
+bip_39_word_new_br_4: rare<br>castle<br>scout<br>advice
+bip_39_word_new_br_5: rare<br>castle<br>scout<br>advice<br>umbrella
+bip_39_word_new_br_6: rare<br>castle<br>scout<br>advice<br>umbrella<br>run
+bip_39_word_new_br_7: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver
+bip_39_word_new_br_8: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor
+bip_39_word_new_br_9: rare<br>castle<br>scout<br>advice<br>umbrella<br>run<br>deliver<br>outdoor<br>genre
+bip_39_word_new_line_1: rare
+bip_39_word_new_line_10: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver
+
+  outdoor
+
+  genre
+
+  chronic'
+bip_39_word_new_line_11: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver
+
+  outdoor
+
+  genre
+
+  chronic
+
+  parent'
+bip_39_word_new_line_12: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver
+
+  outdoor
+
+  genre
+
+  chronic
+
+  parent
+
+  afraid'
+bip_39_word_new_line_2: 'rare
+
+  castle'
+bip_39_word_new_line_3: 'rare
+
+  castle
+
+  scout'
+bip_39_word_new_line_4: 'rare
+
+  castle
+
+  scout
+
+  advice'
+bip_39_word_new_line_5: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella'
+bip_39_word_new_line_6: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run'
+bip_39_word_new_line_7: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver'
+bip_39_word_new_line_8: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver
+
+  outdoor'
+bip_39_word_new_line_9: 'rare
+
+  castle
+
+  scout
+
+  advice
+
+  umbrella
+
+  run
+
+  deliver
+
+  outdoor
+
+  genre'
+bip_39_word_no_space_1: rare
+bip_39_word_no_space_10: rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronic
+bip_39_word_no_space_11: rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronicparent
+bip_39_word_no_space_12: rarecastlescoutadviceumbrellarundeliveroutdoorgenrechronicparentafraid
+bip_39_word_no_space_2: rarecastle
+bip_39_word_no_space_3: rarecastlescout
+bip_39_word_no_space_4: rarecastlescoutadvice
+bip_39_word_no_space_5: rarecastlescoutadviceumbrella
+bip_39_word_no_space_6: rarecastlescoutadviceumbrellarun
+bip_39_word_no_space_7: rarecastlescoutadviceumbrellarundeliver
+bip_39_word_no_space_8: rarecastlescoutadviceumbrellarundeliveroutdoor
+bip_39_word_no_space_9: rarecastlescoutadviceumbrellarundeliveroutdoorgenre
+bip_39_word_space_0:
+- rare
+- castle
+- scout
+- advice
+- umbrella
+- run
+- deliver
+- outdoor
+- genre
+- chronic
+- parent
+- afraid
+bip_39_word_space_1: rare
+bip_39_word_space_10: rare castle scout advice umbrella run deliver outdoor genre
+  chronic
+bip_39_word_space_11: rare castle scout advice umbrella run deliver outdoor genre
+  chronic parent
+bip_39_word_space_12: rare castle scout advice umbrella run deliver outdoor genre
+  chronic parent afraid
+bip_39_word_space_2: rare castle
+bip_39_word_space_3: rare castle scout
+bip_39_word_space_4: rare castle scout advice
+bip_39_word_space_5: rare castle scout advice umbrella
+bip_39_word_space_6: rare castle scout advice umbrella run
+bip_39_word_space_7: rare castle scout advice umbrella run deliver
+bip_39_word_space_8: rare castle scout advice umbrella run deliver outdoor
+bip_39_word_space_9: rare castle scout advice umbrella run deliver outdoor genre
+bip_39_word_underscore_1: rare
+bip_39_word_underscore_10: rare_castle_scout_advice_umbrella_run_deliver_outdoor_genre_chronic
+bip_39_word_underscore_11: rare_castle_scout_advice_umbrella_run_deliver_outdoor_genre_chronic_parent
+bip_39_word_underscore_12: rare_castle_scout_advice_umbrella_run_deliver_outdoor_genre_chronic_parent_afraid
+bip_39_word_underscore_2: rare_castle
+bip_39_word_underscore_3: rare_castle_scout
+bip_39_word_underscore_4: rare_castle_scout_advice
+bip_39_word_underscore_5: rare_castle_scout_advice_umbrella
+bip_39_word_underscore_6: rare_castle_scout_advice_umbrella_run
+bip_39_word_underscore_7: rare_castle_scout_advice_umbrella_run_deliver
+bip_39_word_underscore_8: rare_castle_scout_advice_umbrella_run_deliver_outdoor
+bip_39_word_underscore_9: rare_castle_scout_advice_umbrella_run_deliver_outdoor_genre
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_04_06__32_teeth_sh_motor_servo_standard_01
 id_no_color: 040632teethshmotorservostandard01
 id_no_size: 04_06__32_teeth_sh_motor_servo_standard_01
 id_no_type: gear_04_06__32_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_04_06__32_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202uw5m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202uw5m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202uw5m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 040632Teethshmotorservostandard01
 name_no_size: 04 06  32 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 04 06  32 Teeth Sh Motor Servo Standard 01
 name_no_type: Gear 04 06  32 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_04_06__32_teeth_sh_motor_servo_standard_01
 oomp_word: hatching_chick racehorse chicken
 oomp_word_emoji: ':hatching_chick: :racehorse: :chicken:'

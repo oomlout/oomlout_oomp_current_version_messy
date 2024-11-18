@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stereo
+bip_39_word_dash_10: stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty
+bip_39_word_dash_11: stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty-sudden
+bip_39_word_dash_12: stereo-sort-solar-link-gentle-symbol-memory-busy-deal-poverty-sudden-across
+bip_39_word_dash_2: stereo-sort
+bip_39_word_dash_3: stereo-sort-solar
+bip_39_word_dash_4: stereo-sort-solar-link
+bip_39_word_dash_5: stereo-sort-solar-link-gentle
+bip_39_word_dash_6: stereo-sort-solar-link-gentle-symbol
+bip_39_word_dash_7: stereo-sort-solar-link-gentle-symbol-memory
+bip_39_word_dash_8: stereo-sort-solar-link-gentle-symbol-memory-busy
+bip_39_word_dash_9: stereo-sort-solar-link-gentle-symbol-memory-busy-deal
+bip_39_word_new_br_1: stereo
+bip_39_word_new_br_10: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty
+bip_39_word_new_br_11: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty<br>sudden
+bip_39_word_new_br_12: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal<br>poverty<br>sudden<br>across
+bip_39_word_new_br_2: stereo<br>sort
+bip_39_word_new_br_3: stereo<br>sort<br>solar
+bip_39_word_new_br_4: stereo<br>sort<br>solar<br>link
+bip_39_word_new_br_5: stereo<br>sort<br>solar<br>link<br>gentle
+bip_39_word_new_br_6: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol
+bip_39_word_new_br_7: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory
+bip_39_word_new_br_8: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy
+bip_39_word_new_br_9: stereo<br>sort<br>solar<br>link<br>gentle<br>symbol<br>memory<br>busy<br>deal
+bip_39_word_new_line_1: stereo
+bip_39_word_new_line_10: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory
+
+  busy
+
+  deal
+
+  poverty'
+bip_39_word_new_line_11: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory
+
+  busy
+
+  deal
+
+  poverty
+
+  sudden'
+bip_39_word_new_line_12: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory
+
+  busy
+
+  deal
+
+  poverty
+
+  sudden
+
+  across'
+bip_39_word_new_line_2: 'stereo
+
+  sort'
+bip_39_word_new_line_3: 'stereo
+
+  sort
+
+  solar'
+bip_39_word_new_line_4: 'stereo
+
+  sort
+
+  solar
+
+  link'
+bip_39_word_new_line_5: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle'
+bip_39_word_new_line_6: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol'
+bip_39_word_new_line_7: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory'
+bip_39_word_new_line_8: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory
+
+  busy'
+bip_39_word_new_line_9: 'stereo
+
+  sort
+
+  solar
+
+  link
+
+  gentle
+
+  symbol
+
+  memory
+
+  busy
+
+  deal'
+bip_39_word_no_space_1: stereo
+bip_39_word_no_space_10: stereosortsolarlinkgentlesymbolmemorybusydealpoverty
+bip_39_word_no_space_11: stereosortsolarlinkgentlesymbolmemorybusydealpovertysudden
+bip_39_word_no_space_12: stereosortsolarlinkgentlesymbolmemorybusydealpovertysuddenacross
+bip_39_word_no_space_2: stereosort
+bip_39_word_no_space_3: stereosortsolar
+bip_39_word_no_space_4: stereosortsolarlink
+bip_39_word_no_space_5: stereosortsolarlinkgentle
+bip_39_word_no_space_6: stereosortsolarlinkgentlesymbol
+bip_39_word_no_space_7: stereosortsolarlinkgentlesymbolmemory
+bip_39_word_no_space_8: stereosortsolarlinkgentlesymbolmemorybusy
+bip_39_word_no_space_9: stereosortsolarlinkgentlesymbolmemorybusydeal
+bip_39_word_space_0:
+- stereo
+- sort
+- solar
+- link
+- gentle
+- symbol
+- memory
+- busy
+- deal
+- poverty
+- sudden
+- across
+bip_39_word_space_1: stereo
+bip_39_word_space_10: stereo sort solar link gentle symbol memory busy deal poverty
+bip_39_word_space_11: stereo sort solar link gentle symbol memory busy deal poverty
+  sudden
+bip_39_word_space_12: stereo sort solar link gentle symbol memory busy deal poverty
+  sudden across
+bip_39_word_space_2: stereo sort
+bip_39_word_space_3: stereo sort solar
+bip_39_word_space_4: stereo sort solar link
+bip_39_word_space_5: stereo sort solar link gentle
+bip_39_word_space_6: stereo sort solar link gentle symbol
+bip_39_word_space_7: stereo sort solar link gentle symbol memory
+bip_39_word_space_8: stereo sort solar link gentle symbol memory busy
+bip_39_word_space_9: stereo sort solar link gentle symbol memory busy deal
+bip_39_word_underscore_1: stereo
+bip_39_word_underscore_10: stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty
+bip_39_word_underscore_11: stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty_sudden
+bip_39_word_underscore_12: stereo_sort_solar_link_gentle_symbol_memory_busy_deal_poverty_sudden_across
+bip_39_word_underscore_2: stereo_sort
+bip_39_word_underscore_3: stereo_sort_solar
+bip_39_word_underscore_4: stereo_sort_solar_link
+bip_39_word_underscore_5: stereo_sort_solar_link_gentle
+bip_39_word_underscore_6: stereo_sort_solar_link_gentle_symbol
+bip_39_word_underscore_7: stereo_sort_solar_link_gentle_symbol_memory
+bip_39_word_underscore_8: stereo_sort_solar_link_gentle_symbol_memory_busy
+bip_39_word_underscore_9: stereo_sort_solar_link_gentle_symbol_memory_busy_deal
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 50_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_50_mm_length_pozidrive_head
 id_no_type: m5_bright_zinc_plated_50_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_50_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_50_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_50_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201gy0a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201gy0a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201gy0a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 50 mm Length Pozidrive Head
 name_no_size: Bright Zinc Plated 50 mm Length Pozidrive Head
 name_no_size_short: Bright Zinc Plated 50 Mm Length Pozidrive Head
 name_no_type: M5 Bright Zinc Plated 50 mm Length Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 50 mm
+oomlout_bolt_length_no_unit: '50'
+oomlout_bolt_md5_6_alpha_first_3: 1gy
+oomlout_bolt_md5_6_alpha_first_3_upper: 1GY
+oomlout_bolt_md5_6_alpha_last_3: 0a
+oomlout_bolt_md5_6_alpha_last_3_upper: 0A
+oomlout_bolt_md5_6_first_3: 25b
+oomlout_bolt_md5_6_first_3_upper: 25B
+oomlout_bolt_md5_6_last_3: 12a
+oomlout_bolt_md5_6_last_3_upper: 12A
+oomlout_bolt_name: Countersunk M5X50 mm  (Pozidrive)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs5bz50pz
+oomlout_short_code_upper: CS5BZ50PZ
 oomp_key: oomp_hardware_screw_countersunk_m5_bright_zinc_plated_50_mm_length_pozidrive_head
 oomp_word: ear briefcase umbrella
 oomp_word_emoji: ':ear: :briefcase: :umbrella:'

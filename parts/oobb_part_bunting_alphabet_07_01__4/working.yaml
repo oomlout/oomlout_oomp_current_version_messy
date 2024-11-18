@@ -1,3 +1,223 @@
+bip_39_word_dash_1: horse
+bip_39_word_dash_10: horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum
+bip_39_word_dash_11: horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum-student
+bip_39_word_dash_12: horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse-minimum-student-armor
+bip_39_word_dash_2: horse-nephew
+bip_39_word_dash_3: horse-nephew-will
+bip_39_word_dash_4: horse-nephew-will-dwarf
+bip_39_word_dash_5: horse-nephew-will-dwarf-capital
+bip_39_word_dash_6: horse-nephew-will-dwarf-capital-remain
+bip_39_word_dash_7: horse-nephew-will-dwarf-capital-remain-stage
+bip_39_word_dash_8: horse-nephew-will-dwarf-capital-remain-stage-neutral
+bip_39_word_dash_9: horse-nephew-will-dwarf-capital-remain-stage-neutral-glimpse
+bip_39_word_new_br_1: horse
+bip_39_word_new_br_10: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum
+bip_39_word_new_br_11: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student
+bip_39_word_new_br_12: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse<br>minimum<br>student<br>armor
+bip_39_word_new_br_2: horse<br>nephew
+bip_39_word_new_br_3: horse<br>nephew<br>will
+bip_39_word_new_br_4: horse<br>nephew<br>will<br>dwarf
+bip_39_word_new_br_5: horse<br>nephew<br>will<br>dwarf<br>capital
+bip_39_word_new_br_6: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain
+bip_39_word_new_br_7: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage
+bip_39_word_new_br_8: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral
+bip_39_word_new_br_9: horse<br>nephew<br>will<br>dwarf<br>capital<br>remain<br>stage<br>neutral<br>glimpse
+bip_39_word_new_line_1: horse
+bip_39_word_new_line_10: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage
+
+  neutral
+
+  glimpse
+
+  minimum'
+bip_39_word_new_line_11: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage
+
+  neutral
+
+  glimpse
+
+  minimum
+
+  student'
+bip_39_word_new_line_12: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage
+
+  neutral
+
+  glimpse
+
+  minimum
+
+  student
+
+  armor'
+bip_39_word_new_line_2: 'horse
+
+  nephew'
+bip_39_word_new_line_3: 'horse
+
+  nephew
+
+  will'
+bip_39_word_new_line_4: 'horse
+
+  nephew
+
+  will
+
+  dwarf'
+bip_39_word_new_line_5: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital'
+bip_39_word_new_line_6: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain'
+bip_39_word_new_line_7: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage'
+bip_39_word_new_line_8: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage
+
+  neutral'
+bip_39_word_new_line_9: 'horse
+
+  nephew
+
+  will
+
+  dwarf
+
+  capital
+
+  remain
+
+  stage
+
+  neutral
+
+  glimpse'
+bip_39_word_no_space_1: horse
+bip_39_word_no_space_10: horsenephewwilldwarfcapitalremainstageneutralglimpseminimum
+bip_39_word_no_space_11: horsenephewwilldwarfcapitalremainstageneutralglimpseminimumstudent
+bip_39_word_no_space_12: horsenephewwilldwarfcapitalremainstageneutralglimpseminimumstudentarmor
+bip_39_word_no_space_2: horsenephew
+bip_39_word_no_space_3: horsenephewwill
+bip_39_word_no_space_4: horsenephewwilldwarf
+bip_39_word_no_space_5: horsenephewwilldwarfcapital
+bip_39_word_no_space_6: horsenephewwilldwarfcapitalremain
+bip_39_word_no_space_7: horsenephewwilldwarfcapitalremainstage
+bip_39_word_no_space_8: horsenephewwilldwarfcapitalremainstageneutral
+bip_39_word_no_space_9: horsenephewwilldwarfcapitalremainstageneutralglimpse
+bip_39_word_space_0:
+- horse
+- nephew
+- will
+- dwarf
+- capital
+- remain
+- stage
+- neutral
+- glimpse
+- minimum
+- student
+- armor
+bip_39_word_space_1: horse
+bip_39_word_space_10: horse nephew will dwarf capital remain stage neutral glimpse
+  minimum
+bip_39_word_space_11: horse nephew will dwarf capital remain stage neutral glimpse
+  minimum student
+bip_39_word_space_12: horse nephew will dwarf capital remain stage neutral glimpse
+  minimum student armor
+bip_39_word_space_2: horse nephew
+bip_39_word_space_3: horse nephew will
+bip_39_word_space_4: horse nephew will dwarf
+bip_39_word_space_5: horse nephew will dwarf capital
+bip_39_word_space_6: horse nephew will dwarf capital remain
+bip_39_word_space_7: horse nephew will dwarf capital remain stage
+bip_39_word_space_8: horse nephew will dwarf capital remain stage neutral
+bip_39_word_space_9: horse nephew will dwarf capital remain stage neutral glimpse
+bip_39_word_underscore_1: horse
+bip_39_word_underscore_10: horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum
+bip_39_word_underscore_11: horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum_student
+bip_39_word_underscore_12: horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse_minimum_student_armor
+bip_39_word_underscore_2: horse_nephew
+bip_39_word_underscore_3: horse_nephew_will
+bip_39_word_underscore_4: horse_nephew_will_dwarf
+bip_39_word_underscore_5: horse_nephew_will_dwarf_capital
+bip_39_word_underscore_6: horse_nephew_will_dwarf_capital_remain
+bip_39_word_underscore_7: horse_nephew_will_dwarf_capital_remain_stage
+bip_39_word_underscore_8: horse_nephew_will_dwarf_capital_remain_stage_neutral
+bip_39_word_underscore_9: horse_nephew_will_dwarf_capital_remain_stage_neutral_glimpse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_07_01__4
 id_no_color: '07014'
 id_no_size: '07_01__4'
 id_no_type: bunting_alphabet_07_01__4
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__4
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__4
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__4
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207h90j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207h90j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207h90j
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: '07014'
 name_no_size: 07 01  4
 name_no_size_short: 07 01  4
 name_no_type: Bunting Alphabet 07 01  4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__4
 oomp_word: egg jeans rowboat
 oomp_word_emoji: ':egg: :jeans: :rowboat:'

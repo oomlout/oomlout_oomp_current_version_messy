@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Connector Wago 221 2 Pole Inline Wago 221 2411
+* name_short: 
 ### id
 * oomp_id: electronic_connector_wago_221_2_pole_inline_wago_221_2411
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sunglasses: :candy: :briefcase:
 * md5_6_alpha: gjap
 * md5_6: 0bc5b1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20gjap)
+[2x1](http://192.168.1.242:1112/?label=oomp%20gjap)
+[6x4](http://192.168.1.55:1112/?label=oomp%20gjap)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -260,7 +286,14 @@ sail |
 | id_no_size | 2_pole_inline_2411 |  
 | id_no_type | wago_221_2_pole_inline_wago_221_2411 |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20gjap |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20gjap |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20gjap |  
 | manufacturer | wago |  
 | manufacturer_capital | Wago |  
 | manufacturer_first_letter | w |  
@@ -309,6 +342,7 @@ sail |
 | name_no_size | 2 Pole Inline 2411 |  
 | name_no_size_short | 2 Pole Inline 2411 |  
 | name_no_type | Wago 221 2 Pole Inline Wago 221 2411 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_connector_wago_221_2_pole_inline_wago_221_2411 |  
 | oomp_word | sunglasses candy briefcase |  
 | oomp_word_emoji | :sunglasses: :candy: :briefcase: |  

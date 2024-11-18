@@ -1,3 +1,223 @@
+bip_39_word_dash_1: dove
+bip_39_word_dash_10: dove-village-clarify-toast-derive-seminar-window-rely-neutral-ranch
+bip_39_word_dash_11: dove-village-clarify-toast-derive-seminar-window-rely-neutral-ranch-decade
+bip_39_word_dash_12: dove-village-clarify-toast-derive-seminar-window-rely-neutral-ranch-decade-auction
+bip_39_word_dash_2: dove-village
+bip_39_word_dash_3: dove-village-clarify
+bip_39_word_dash_4: dove-village-clarify-toast
+bip_39_word_dash_5: dove-village-clarify-toast-derive
+bip_39_word_dash_6: dove-village-clarify-toast-derive-seminar
+bip_39_word_dash_7: dove-village-clarify-toast-derive-seminar-window
+bip_39_word_dash_8: dove-village-clarify-toast-derive-seminar-window-rely
+bip_39_word_dash_9: dove-village-clarify-toast-derive-seminar-window-rely-neutral
+bip_39_word_new_br_1: dove
+bip_39_word_new_br_10: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window<br>rely<br>neutral<br>ranch
+bip_39_word_new_br_11: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window<br>rely<br>neutral<br>ranch<br>decade
+bip_39_word_new_br_12: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window<br>rely<br>neutral<br>ranch<br>decade<br>auction
+bip_39_word_new_br_2: dove<br>village
+bip_39_word_new_br_3: dove<br>village<br>clarify
+bip_39_word_new_br_4: dove<br>village<br>clarify<br>toast
+bip_39_word_new_br_5: dove<br>village<br>clarify<br>toast<br>derive
+bip_39_word_new_br_6: dove<br>village<br>clarify<br>toast<br>derive<br>seminar
+bip_39_word_new_br_7: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window
+bip_39_word_new_br_8: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window<br>rely
+bip_39_word_new_br_9: dove<br>village<br>clarify<br>toast<br>derive<br>seminar<br>window<br>rely<br>neutral
+bip_39_word_new_line_1: dove
+bip_39_word_new_line_10: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window
+
+  rely
+
+  neutral
+
+  ranch'
+bip_39_word_new_line_11: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window
+
+  rely
+
+  neutral
+
+  ranch
+
+  decade'
+bip_39_word_new_line_12: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window
+
+  rely
+
+  neutral
+
+  ranch
+
+  decade
+
+  auction'
+bip_39_word_new_line_2: 'dove
+
+  village'
+bip_39_word_new_line_3: 'dove
+
+  village
+
+  clarify'
+bip_39_word_new_line_4: 'dove
+
+  village
+
+  clarify
+
+  toast'
+bip_39_word_new_line_5: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive'
+bip_39_word_new_line_6: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar'
+bip_39_word_new_line_7: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window'
+bip_39_word_new_line_8: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window
+
+  rely'
+bip_39_word_new_line_9: 'dove
+
+  village
+
+  clarify
+
+  toast
+
+  derive
+
+  seminar
+
+  window
+
+  rely
+
+  neutral'
+bip_39_word_no_space_1: dove
+bip_39_word_no_space_10: dovevillageclarifytoastderiveseminarwindowrelyneutralranch
+bip_39_word_no_space_11: dovevillageclarifytoastderiveseminarwindowrelyneutralranchdecade
+bip_39_word_no_space_12: dovevillageclarifytoastderiveseminarwindowrelyneutralranchdecadeauction
+bip_39_word_no_space_2: dovevillage
+bip_39_word_no_space_3: dovevillageclarify
+bip_39_word_no_space_4: dovevillageclarifytoast
+bip_39_word_no_space_5: dovevillageclarifytoastderive
+bip_39_word_no_space_6: dovevillageclarifytoastderiveseminar
+bip_39_word_no_space_7: dovevillageclarifytoastderiveseminarwindow
+bip_39_word_no_space_8: dovevillageclarifytoastderiveseminarwindowrely
+bip_39_word_no_space_9: dovevillageclarifytoastderiveseminarwindowrelyneutral
+bip_39_word_space_0:
+- dove
+- village
+- clarify
+- toast
+- derive
+- seminar
+- window
+- rely
+- neutral
+- ranch
+- decade
+- auction
+bip_39_word_space_1: dove
+bip_39_word_space_10: dove village clarify toast derive seminar window rely neutral
+  ranch
+bip_39_word_space_11: dove village clarify toast derive seminar window rely neutral
+  ranch decade
+bip_39_word_space_12: dove village clarify toast derive seminar window rely neutral
+  ranch decade auction
+bip_39_word_space_2: dove village
+bip_39_word_space_3: dove village clarify
+bip_39_word_space_4: dove village clarify toast
+bip_39_word_space_5: dove village clarify toast derive
+bip_39_word_space_6: dove village clarify toast derive seminar
+bip_39_word_space_7: dove village clarify toast derive seminar window
+bip_39_word_space_8: dove village clarify toast derive seminar window rely
+bip_39_word_space_9: dove village clarify toast derive seminar window rely neutral
+bip_39_word_underscore_1: dove
+bip_39_word_underscore_10: dove_village_clarify_toast_derive_seminar_window_rely_neutral_ranch
+bip_39_word_underscore_11: dove_village_clarify_toast_derive_seminar_window_rely_neutral_ranch_decade
+bip_39_word_underscore_12: dove_village_clarify_toast_derive_seminar_window_rely_neutral_ranch_decade_auction
+bip_39_word_underscore_2: dove_village
+bip_39_word_underscore_3: dove_village_clarify
+bip_39_word_underscore_4: dove_village_clarify_toast
+bip_39_word_underscore_5: dove_village_clarify_toast_derive
+bip_39_word_underscore_6: dove_village_clarify_toast_derive_seminar
+bip_39_word_underscore_7: dove_village_clarify_toast_derive_seminar_window
+bip_39_word_underscore_8: dove_village_clarify_toast_derive_seminar_window_rely
+bip_39_word_underscore_9: dove_village_clarify_toast_derive_seminar_window_rely_neutral
 classification: dish
 classification_capital: Dish
 classification_first_letter: d
@@ -108,8 +328,15 @@ id_no_class: baking_pyrex_caserole_round_3700_ml_270_mm_diameter_100_mm_depth_py
 id_no_color: caseroleround3700ml270mmdiameter100mmdepth118A000
 id_no_size: caserole_round_3700_ml_270_mm_diameter_100_mm_depth_118A000
 id_no_type: pyrex_caserole_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
+link_2_name: github_link
 link_distributor_pyrex: https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=39702806560803
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209axik
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209axik
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209axik
 manufacturer: pyrex
 manufacturer_capital: Pyrex
 manufacturer_first_letter: p
@@ -161,6 +388,7 @@ name_no_color: Caseroleround3700Ml270mmdiameter100mmdepth118A000
 name_no_size: Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth 118A000
 name_no_size_short: Caserole Round 3700 Ml 270 Mm Diameter 100 Mm Depth 118A000
 name_no_type: Pyrex Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth Pyrex 118A000
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
 oomp_word: ambulance bamboo snowflake
 oomp_word_emoji: ':ambulance: :bamboo: :snowflake:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Devkitc pinout version of espresif esp32 breakout.
 
+### name
+* name: Electronic Breakout Board MCU Devkitc Espressif Esp32
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_devkitc_espressif_esp32
   * classification: electronic

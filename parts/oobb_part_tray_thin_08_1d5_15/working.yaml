@@ -1,3 +1,222 @@
+bip_39_word_dash_1: donkey
+bip_39_word_dash_10: donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb
+bip_39_word_dash_11: donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb-page
+bip_39_word_dash_12: donkey-crucial-limit-demand-upon-citizen-deal-alien-van-thumb-page-also
+bip_39_word_dash_2: donkey-crucial
+bip_39_word_dash_3: donkey-crucial-limit
+bip_39_word_dash_4: donkey-crucial-limit-demand
+bip_39_word_dash_5: donkey-crucial-limit-demand-upon
+bip_39_word_dash_6: donkey-crucial-limit-demand-upon-citizen
+bip_39_word_dash_7: donkey-crucial-limit-demand-upon-citizen-deal
+bip_39_word_dash_8: donkey-crucial-limit-demand-upon-citizen-deal-alien
+bip_39_word_dash_9: donkey-crucial-limit-demand-upon-citizen-deal-alien-van
+bip_39_word_new_br_1: donkey
+bip_39_word_new_br_10: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb
+bip_39_word_new_br_11: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb<br>page
+bip_39_word_new_br_12: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van<br>thumb<br>page<br>also
+bip_39_word_new_br_2: donkey<br>crucial
+bip_39_word_new_br_3: donkey<br>crucial<br>limit
+bip_39_word_new_br_4: donkey<br>crucial<br>limit<br>demand
+bip_39_word_new_br_5: donkey<br>crucial<br>limit<br>demand<br>upon
+bip_39_word_new_br_6: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen
+bip_39_word_new_br_7: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal
+bip_39_word_new_br_8: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien
+bip_39_word_new_br_9: donkey<br>crucial<br>limit<br>demand<br>upon<br>citizen<br>deal<br>alien<br>van
+bip_39_word_new_line_1: donkey
+bip_39_word_new_line_10: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal
+
+  alien
+
+  van
+
+  thumb'
+bip_39_word_new_line_11: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal
+
+  alien
+
+  van
+
+  thumb
+
+  page'
+bip_39_word_new_line_12: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal
+
+  alien
+
+  van
+
+  thumb
+
+  page
+
+  also'
+bip_39_word_new_line_2: 'donkey
+
+  crucial'
+bip_39_word_new_line_3: 'donkey
+
+  crucial
+
+  limit'
+bip_39_word_new_line_4: 'donkey
+
+  crucial
+
+  limit
+
+  demand'
+bip_39_word_new_line_5: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon'
+bip_39_word_new_line_6: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen'
+bip_39_word_new_line_7: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal'
+bip_39_word_new_line_8: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal
+
+  alien'
+bip_39_word_new_line_9: 'donkey
+
+  crucial
+
+  limit
+
+  demand
+
+  upon
+
+  citizen
+
+  deal
+
+  alien
+
+  van'
+bip_39_word_no_space_1: donkey
+bip_39_word_no_space_10: donkeycruciallimitdemanduponcitizendealalienvanthumb
+bip_39_word_no_space_11: donkeycruciallimitdemanduponcitizendealalienvanthumbpage
+bip_39_word_no_space_12: donkeycruciallimitdemanduponcitizendealalienvanthumbpagealso
+bip_39_word_no_space_2: donkeycrucial
+bip_39_word_no_space_3: donkeycruciallimit
+bip_39_word_no_space_4: donkeycruciallimitdemand
+bip_39_word_no_space_5: donkeycruciallimitdemandupon
+bip_39_word_no_space_6: donkeycruciallimitdemanduponcitizen
+bip_39_word_no_space_7: donkeycruciallimitdemanduponcitizendeal
+bip_39_word_no_space_8: donkeycruciallimitdemanduponcitizendealalien
+bip_39_word_no_space_9: donkeycruciallimitdemanduponcitizendealalienvan
+bip_39_word_space_0:
+- donkey
+- crucial
+- limit
+- demand
+- upon
+- citizen
+- deal
+- alien
+- van
+- thumb
+- page
+- also
+bip_39_word_space_1: donkey
+bip_39_word_space_10: donkey crucial limit demand upon citizen deal alien van thumb
+bip_39_word_space_11: donkey crucial limit demand upon citizen deal alien van thumb
+  page
+bip_39_word_space_12: donkey crucial limit demand upon citizen deal alien van thumb
+  page also
+bip_39_word_space_2: donkey crucial
+bip_39_word_space_3: donkey crucial limit
+bip_39_word_space_4: donkey crucial limit demand
+bip_39_word_space_5: donkey crucial limit demand upon
+bip_39_word_space_6: donkey crucial limit demand upon citizen
+bip_39_word_space_7: donkey crucial limit demand upon citizen deal
+bip_39_word_space_8: donkey crucial limit demand upon citizen deal alien
+bip_39_word_space_9: donkey crucial limit demand upon citizen deal alien van
+bip_39_word_underscore_1: donkey
+bip_39_word_underscore_10: donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb
+bip_39_word_underscore_11: donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb_page
+bip_39_word_underscore_12: donkey_crucial_limit_demand_upon_citizen_deal_alien_van_thumb_page_also
+bip_39_word_underscore_2: donkey_crucial
+bip_39_word_underscore_3: donkey_crucial_limit
+bip_39_word_underscore_4: donkey_crucial_limit_demand
+bip_39_word_underscore_5: donkey_crucial_limit_demand_upon
+bip_39_word_underscore_6: donkey_crucial_limit_demand_upon_citizen
+bip_39_word_underscore_7: donkey_crucial_limit_demand_upon_citizen_deal
+bip_39_word_underscore_8: donkey_crucial_limit_demand_upon_citizen_deal_alien
+bip_39_word_underscore_9: donkey_crucial_limit_demand_upon_citizen_deal_alien_van
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_1d5_15
 id_no_color: 081d515
 id_no_size: 08_1d5_15
 id_no_type: tray_thin_08_1d5_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_1d5_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_1d5_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_1d5_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204kooo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204kooo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204kooo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081D515
 name_no_size: 08 1D5 15
 name_no_size_short: 08 1D5 15
 name_no_type: Tray Thin 08 1D5 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_1d5_15
 oomp_word: ghost cow seven
 oomp_word_emoji: ':ghost: :cow: :seven:'

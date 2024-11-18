@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 04 04 03 Rh M2 5 Nm Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_04_04_03_rh_m2_5_nm_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
   * classification: oobb

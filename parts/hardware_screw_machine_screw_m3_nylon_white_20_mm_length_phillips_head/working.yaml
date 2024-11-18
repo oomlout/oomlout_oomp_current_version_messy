@@ -1,3 +1,221 @@
+bip_39_word_dash_1: cheese
+bip_39_word_dash_10: cheese-shy-fury-find-swift-dream-game-fury-elder-genre
+bip_39_word_dash_11: cheese-shy-fury-find-swift-dream-game-fury-elder-genre-smoke
+bip_39_word_dash_12: cheese-shy-fury-find-swift-dream-game-fury-elder-genre-smoke-aspect
+bip_39_word_dash_2: cheese-shy
+bip_39_word_dash_3: cheese-shy-fury
+bip_39_word_dash_4: cheese-shy-fury-find
+bip_39_word_dash_5: cheese-shy-fury-find-swift
+bip_39_word_dash_6: cheese-shy-fury-find-swift-dream
+bip_39_word_dash_7: cheese-shy-fury-find-swift-dream-game
+bip_39_word_dash_8: cheese-shy-fury-find-swift-dream-game-fury
+bip_39_word_dash_9: cheese-shy-fury-find-swift-dream-game-fury-elder
+bip_39_word_new_br_1: cheese
+bip_39_word_new_br_10: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre
+bip_39_word_new_br_11: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke
+bip_39_word_new_br_12: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder<br>genre<br>smoke<br>aspect
+bip_39_word_new_br_2: cheese<br>shy
+bip_39_word_new_br_3: cheese<br>shy<br>fury
+bip_39_word_new_br_4: cheese<br>shy<br>fury<br>find
+bip_39_word_new_br_5: cheese<br>shy<br>fury<br>find<br>swift
+bip_39_word_new_br_6: cheese<br>shy<br>fury<br>find<br>swift<br>dream
+bip_39_word_new_br_7: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game
+bip_39_word_new_br_8: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury
+bip_39_word_new_br_9: cheese<br>shy<br>fury<br>find<br>swift<br>dream<br>game<br>fury<br>elder
+bip_39_word_new_line_1: cheese
+bip_39_word_new_line_10: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game
+
+  fury
+
+  elder
+
+  genre'
+bip_39_word_new_line_11: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game
+
+  fury
+
+  elder
+
+  genre
+
+  smoke'
+bip_39_word_new_line_12: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game
+
+  fury
+
+  elder
+
+  genre
+
+  smoke
+
+  aspect'
+bip_39_word_new_line_2: 'cheese
+
+  shy'
+bip_39_word_new_line_3: 'cheese
+
+  shy
+
+  fury'
+bip_39_word_new_line_4: 'cheese
+
+  shy
+
+  fury
+
+  find'
+bip_39_word_new_line_5: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift'
+bip_39_word_new_line_6: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream'
+bip_39_word_new_line_7: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game'
+bip_39_word_new_line_8: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game
+
+  fury'
+bip_39_word_new_line_9: 'cheese
+
+  shy
+
+  fury
+
+  find
+
+  swift
+
+  dream
+
+  game
+
+  fury
+
+  elder'
+bip_39_word_no_space_1: cheese
+bip_39_word_no_space_10: cheeseshyfuryfindswiftdreamgamefuryeldergenre
+bip_39_word_no_space_11: cheeseshyfuryfindswiftdreamgamefuryeldergenresmoke
+bip_39_word_no_space_12: cheeseshyfuryfindswiftdreamgamefuryeldergenresmokeaspect
+bip_39_word_no_space_2: cheeseshy
+bip_39_word_no_space_3: cheeseshyfury
+bip_39_word_no_space_4: cheeseshyfuryfind
+bip_39_word_no_space_5: cheeseshyfuryfindswift
+bip_39_word_no_space_6: cheeseshyfuryfindswiftdream
+bip_39_word_no_space_7: cheeseshyfuryfindswiftdreamgame
+bip_39_word_no_space_8: cheeseshyfuryfindswiftdreamgamefury
+bip_39_word_no_space_9: cheeseshyfuryfindswiftdreamgamefuryelder
+bip_39_word_space_0:
+- cheese
+- shy
+- fury
+- find
+- swift
+- dream
+- game
+- fury
+- elder
+- genre
+- smoke
+- aspect
+bip_39_word_space_1: cheese
+bip_39_word_space_10: cheese shy fury find swift dream game fury elder genre
+bip_39_word_space_11: cheese shy fury find swift dream game fury elder genre smoke
+bip_39_word_space_12: cheese shy fury find swift dream game fury elder genre smoke
+  aspect
+bip_39_word_space_2: cheese shy
+bip_39_word_space_3: cheese shy fury
+bip_39_word_space_4: cheese shy fury find
+bip_39_word_space_5: cheese shy fury find swift
+bip_39_word_space_6: cheese shy fury find swift dream
+bip_39_word_space_7: cheese shy fury find swift dream game
+bip_39_word_space_8: cheese shy fury find swift dream game fury
+bip_39_word_space_9: cheese shy fury find swift dream game fury elder
+bip_39_word_underscore_1: cheese
+bip_39_word_underscore_10: cheese_shy_fury_find_swift_dream_game_fury_elder_genre
+bip_39_word_underscore_11: cheese_shy_fury_find_swift_dream_game_fury_elder_genre_smoke
+bip_39_word_underscore_12: cheese_shy_fury_find_swift_dream_game_fury_elder_genre_smoke_aspect
+bip_39_word_underscore_2: cheese_shy
+bip_39_word_underscore_3: cheese_shy_fury
+bip_39_word_underscore_4: cheese_shy_fury_find
+bip_39_word_underscore_5: cheese_shy_fury_find_swift
+bip_39_word_underscore_6: cheese_shy_fury_find_swift_dream
+bip_39_word_underscore_7: cheese_shy_fury_find_swift_dream_game
+bip_39_word_underscore_8: cheese_shy_fury_find_swift_dream_game_fury
+bip_39_word_underscore_9: cheese_shy_fury_find_swift_dream_game_fury_elder
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +351,14 @@ id_no_color: 20_mm_length_phillips_head
 id_no_size: nylon_white_20_mm_length_phillips_head
 id_no_type: m3_nylon_white_20_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208eufs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208eufs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208eufs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +384,9 @@ name_no_color: 20 mm Length Phillips Head
 name_no_size: Nylon White 20 mm Length Phillips Head
 name_no_size_short: Nylon White 20 Mm Length Phillips Head
 name_no_type: M3 Nylon White 20 mm Length Phillips Head
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ms3nw20p
+oomlout_short_code_upper: MS3NW20P
 oomp_key: oomp_hardware_screw_machine_screw_m3_nylon_white_20_mm_length_phillips_head
 oomp_word: office bowling tennis
 oomp_word_emoji: ':office: :bowling: :tennis:'

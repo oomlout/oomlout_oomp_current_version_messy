@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fitness
+bip_39_word_dash_10: fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb
+bip_39_word_dash_11: fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb-wagon
+bip_39_word_dash_12: fitness-uniform-hire-truth-embark-vast-fatal-cart-modify-bomb-wagon-amused
+bip_39_word_dash_2: fitness-uniform
+bip_39_word_dash_3: fitness-uniform-hire
+bip_39_word_dash_4: fitness-uniform-hire-truth
+bip_39_word_dash_5: fitness-uniform-hire-truth-embark
+bip_39_word_dash_6: fitness-uniform-hire-truth-embark-vast
+bip_39_word_dash_7: fitness-uniform-hire-truth-embark-vast-fatal
+bip_39_word_dash_8: fitness-uniform-hire-truth-embark-vast-fatal-cart
+bip_39_word_dash_9: fitness-uniform-hire-truth-embark-vast-fatal-cart-modify
+bip_39_word_new_br_1: fitness
+bip_39_word_new_br_10: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb
+bip_39_word_new_br_11: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon
+bip_39_word_new_br_12: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify<br>bomb<br>wagon<br>amused
+bip_39_word_new_br_2: fitness<br>uniform
+bip_39_word_new_br_3: fitness<br>uniform<br>hire
+bip_39_word_new_br_4: fitness<br>uniform<br>hire<br>truth
+bip_39_word_new_br_5: fitness<br>uniform<br>hire<br>truth<br>embark
+bip_39_word_new_br_6: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast
+bip_39_word_new_br_7: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal
+bip_39_word_new_br_8: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart
+bip_39_word_new_br_9: fitness<br>uniform<br>hire<br>truth<br>embark<br>vast<br>fatal<br>cart<br>modify
+bip_39_word_new_line_1: fitness
+bip_39_word_new_line_10: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal
+
+  cart
+
+  modify
+
+  bomb'
+bip_39_word_new_line_11: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal
+
+  cart
+
+  modify
+
+  bomb
+
+  wagon'
+bip_39_word_new_line_12: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal
+
+  cart
+
+  modify
+
+  bomb
+
+  wagon
+
+  amused'
+bip_39_word_new_line_2: 'fitness
+
+  uniform'
+bip_39_word_new_line_3: 'fitness
+
+  uniform
+
+  hire'
+bip_39_word_new_line_4: 'fitness
+
+  uniform
+
+  hire
+
+  truth'
+bip_39_word_new_line_5: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark'
+bip_39_word_new_line_6: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast'
+bip_39_word_new_line_7: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal'
+bip_39_word_new_line_8: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal
+
+  cart'
+bip_39_word_new_line_9: 'fitness
+
+  uniform
+
+  hire
+
+  truth
+
+  embark
+
+  vast
+
+  fatal
+
+  cart
+
+  modify'
+bip_39_word_no_space_1: fitness
+bip_39_word_no_space_10: fitnessuniformhiretruthembarkvastfatalcartmodifybomb
+bip_39_word_no_space_11: fitnessuniformhiretruthembarkvastfatalcartmodifybombwagon
+bip_39_word_no_space_12: fitnessuniformhiretruthembarkvastfatalcartmodifybombwagonamused
+bip_39_word_no_space_2: fitnessuniform
+bip_39_word_no_space_3: fitnessuniformhire
+bip_39_word_no_space_4: fitnessuniformhiretruth
+bip_39_word_no_space_5: fitnessuniformhiretruthembark
+bip_39_word_no_space_6: fitnessuniformhiretruthembarkvast
+bip_39_word_no_space_7: fitnessuniformhiretruthembarkvastfatal
+bip_39_word_no_space_8: fitnessuniformhiretruthembarkvastfatalcart
+bip_39_word_no_space_9: fitnessuniformhiretruthembarkvastfatalcartmodify
+bip_39_word_space_0:
+- fitness
+- uniform
+- hire
+- truth
+- embark
+- vast
+- fatal
+- cart
+- modify
+- bomb
+- wagon
+- amused
+bip_39_word_space_1: fitness
+bip_39_word_space_10: fitness uniform hire truth embark vast fatal cart modify bomb
+bip_39_word_space_11: fitness uniform hire truth embark vast fatal cart modify bomb
+  wagon
+bip_39_word_space_12: fitness uniform hire truth embark vast fatal cart modify bomb
+  wagon amused
+bip_39_word_space_2: fitness uniform
+bip_39_word_space_3: fitness uniform hire
+bip_39_word_space_4: fitness uniform hire truth
+bip_39_word_space_5: fitness uniform hire truth embark
+bip_39_word_space_6: fitness uniform hire truth embark vast
+bip_39_word_space_7: fitness uniform hire truth embark vast fatal
+bip_39_word_space_8: fitness uniform hire truth embark vast fatal cart
+bip_39_word_space_9: fitness uniform hire truth embark vast fatal cart modify
+bip_39_word_underscore_1: fitness
+bip_39_word_underscore_10: fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb
+bip_39_word_underscore_11: fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb_wagon
+bip_39_word_underscore_12: fitness_uniform_hire_truth_embark_vast_fatal_cart_modify_bomb_wagon_amused
+bip_39_word_underscore_2: fitness_uniform
+bip_39_word_underscore_3: fitness_uniform_hire
+bip_39_word_underscore_4: fitness_uniform_hire_truth
+bip_39_word_underscore_5: fitness_uniform_hire_truth_embark
+bip_39_word_underscore_6: fitness_uniform_hire_truth_embark_vast
+bip_39_word_underscore_7: fitness_uniform_hire_truth_embark_vast_fatal
+bip_39_word_underscore_8: fitness_uniform_hire_truth_embark_vast_fatal_cart
+bip_39_word_underscore_9: fitness_uniform_hire_truth_embark_vast_fatal_cart_modify
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_15_05_03
 id_no_color: '150503'
 id_no_size: '15_05_03'
 id_no_type: plate_15_05_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_05_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_05_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_05_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2055b46
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2055b46
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2055b46
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150503'
 name_no_size: 15 05 03
 name_no_size_short: 15 05 03
 name_no_type: Plate 15 05 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_15_05_03
 oomp_word: lock taxi bath
 oomp_word_emoji: ':lock: :taxi: :bath:'

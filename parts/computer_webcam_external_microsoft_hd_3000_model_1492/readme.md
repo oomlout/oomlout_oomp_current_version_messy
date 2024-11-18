@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Webcam External Microsoft Hd 3000 Model 1492
+* name_short: 
 ### id
 * oomp_id: computer_webcam_external_microsoft_hd_3000_model_1492
   * classification: computer

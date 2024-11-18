@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5306 Size 30 mm ID 72 mm OD 30 16 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5306_size_30_mm_id_72_mm_od_30_16_mm_depth
   * classification: hardware

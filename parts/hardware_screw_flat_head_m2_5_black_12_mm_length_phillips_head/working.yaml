@@ -1,3 +1,222 @@
+bip_39_word_dash_1: powder
+bip_39_word_dash_10: powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule
+bip_39_word_dash_11: powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule-easily
+bip_39_word_dash_12: powder-story-taxi-biology-vendor-coffee-crush-hover-life-rule-easily-armor
+bip_39_word_dash_2: powder-story
+bip_39_word_dash_3: powder-story-taxi
+bip_39_word_dash_4: powder-story-taxi-biology
+bip_39_word_dash_5: powder-story-taxi-biology-vendor
+bip_39_word_dash_6: powder-story-taxi-biology-vendor-coffee
+bip_39_word_dash_7: powder-story-taxi-biology-vendor-coffee-crush
+bip_39_word_dash_8: powder-story-taxi-biology-vendor-coffee-crush-hover
+bip_39_word_dash_9: powder-story-taxi-biology-vendor-coffee-crush-hover-life
+bip_39_word_new_br_1: powder
+bip_39_word_new_br_10: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule
+bip_39_word_new_br_11: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule<br>easily
+bip_39_word_new_br_12: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life<br>rule<br>easily<br>armor
+bip_39_word_new_br_2: powder<br>story
+bip_39_word_new_br_3: powder<br>story<br>taxi
+bip_39_word_new_br_4: powder<br>story<br>taxi<br>biology
+bip_39_word_new_br_5: powder<br>story<br>taxi<br>biology<br>vendor
+bip_39_word_new_br_6: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee
+bip_39_word_new_br_7: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush
+bip_39_word_new_br_8: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover
+bip_39_word_new_br_9: powder<br>story<br>taxi<br>biology<br>vendor<br>coffee<br>crush<br>hover<br>life
+bip_39_word_new_line_1: powder
+bip_39_word_new_line_10: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush
+
+  hover
+
+  life
+
+  rule'
+bip_39_word_new_line_11: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush
+
+  hover
+
+  life
+
+  rule
+
+  easily'
+bip_39_word_new_line_12: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush
+
+  hover
+
+  life
+
+  rule
+
+  easily
+
+  armor'
+bip_39_word_new_line_2: 'powder
+
+  story'
+bip_39_word_new_line_3: 'powder
+
+  story
+
+  taxi'
+bip_39_word_new_line_4: 'powder
+
+  story
+
+  taxi
+
+  biology'
+bip_39_word_new_line_5: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor'
+bip_39_word_new_line_6: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee'
+bip_39_word_new_line_7: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush'
+bip_39_word_new_line_8: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush
+
+  hover'
+bip_39_word_new_line_9: 'powder
+
+  story
+
+  taxi
+
+  biology
+
+  vendor
+
+  coffee
+
+  crush
+
+  hover
+
+  life'
+bip_39_word_no_space_1: powder
+bip_39_word_no_space_10: powderstorytaxibiologyvendorcoffeecrushhoverliferule
+bip_39_word_no_space_11: powderstorytaxibiologyvendorcoffeecrushhoverliferuleeasily
+bip_39_word_no_space_12: powderstorytaxibiologyvendorcoffeecrushhoverliferuleeasilyarmor
+bip_39_word_no_space_2: powderstory
+bip_39_word_no_space_3: powderstorytaxi
+bip_39_word_no_space_4: powderstorytaxibiology
+bip_39_word_no_space_5: powderstorytaxibiologyvendor
+bip_39_word_no_space_6: powderstorytaxibiologyvendorcoffee
+bip_39_word_no_space_7: powderstorytaxibiologyvendorcoffeecrush
+bip_39_word_no_space_8: powderstorytaxibiologyvendorcoffeecrushhover
+bip_39_word_no_space_9: powderstorytaxibiologyvendorcoffeecrushhoverlife
+bip_39_word_space_0:
+- powder
+- story
+- taxi
+- biology
+- vendor
+- coffee
+- crush
+- hover
+- life
+- rule
+- easily
+- armor
+bip_39_word_space_1: powder
+bip_39_word_space_10: powder story taxi biology vendor coffee crush hover life rule
+bip_39_word_space_11: powder story taxi biology vendor coffee crush hover life rule
+  easily
+bip_39_word_space_12: powder story taxi biology vendor coffee crush hover life rule
+  easily armor
+bip_39_word_space_2: powder story
+bip_39_word_space_3: powder story taxi
+bip_39_word_space_4: powder story taxi biology
+bip_39_word_space_5: powder story taxi biology vendor
+bip_39_word_space_6: powder story taxi biology vendor coffee
+bip_39_word_space_7: powder story taxi biology vendor coffee crush
+bip_39_word_space_8: powder story taxi biology vendor coffee crush hover
+bip_39_word_space_9: powder story taxi biology vendor coffee crush hover life
+bip_39_word_underscore_1: powder
+bip_39_word_underscore_10: powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule
+bip_39_word_underscore_11: powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule_easily
+bip_39_word_underscore_12: powder_story_taxi_biology_vendor_coffee_crush_hover_life_rule_easily_armor
+bip_39_word_underscore_2: powder_story
+bip_39_word_underscore_3: powder_story_taxi
+bip_39_word_underscore_4: powder_story_taxi_biology
+bip_39_word_underscore_5: powder_story_taxi_biology_vendor
+bip_39_word_underscore_6: powder_story_taxi_biology_vendor_coffee
+bip_39_word_underscore_7: powder_story_taxi_biology_vendor_coffee_crush
+bip_39_word_underscore_8: powder_story_taxi_biology_vendor_coffee_crush_hover
+bip_39_word_underscore_9: powder_story_taxi_biology_vendor_coffee_crush_hover_life
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 12_mm_length_phillips_head
 id_no_size: black_12_mm_length_phillips_head
 id_no_type: m2_5_black_12_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_12_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_12_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_12_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207fne7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207fne7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207fne7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,27 @@ name_no_color: 12 mm Length Phillips Head
 name_no_size: Black 12 mm Length Phillips Head
 name_no_size_short: Black 12 Mm Length Phillips Head
 name_no_type: M2 5 Black 12 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 12 mm
+oomlout_bolt_length_no_unit: '12'
+oomlout_bolt_md5_6_alpha_first_3: 7fn
+oomlout_bolt_md5_6_alpha_first_3_upper: 7FN
+oomlout_bolt_md5_6_alpha_last_3: e7
+oomlout_bolt_md5_6_alpha_last_3_upper: E7
+oomlout_bolt_md5_6_first_3: be8
+oomlout_bolt_md5_6_first_3_upper: BE8
+oomlout_bolt_md5_6_last_3: b2f
+oomlout_bolt_md5_6_last_3_upper: B2F
+oomlout_bolt_name: Flat Head M2_5X12 mm Black (Phillips)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2d5b12p
+oomlout_short_code_upper: FH2D5B12P
 oomp_key: oomp_hardware_screw_flat_head_m2_5_black_12_mm_length_phillips_head
 oomp_word: ramen door cyclone
 oomp_word_emoji: ':ramen: :door: :cyclone:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Tablet Amazon Fire Max 11 Amazon Kfsnwi
+* name_short: 
 ### id
 * oomp_id: computer_tablet_amazon_fire_max_11_amazon_kfsnwi
   * classification: computer

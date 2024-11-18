@@ -1,3 +1,222 @@
+bip_39_word_dash_1: stove
+bip_39_word_dash_10: stove-issue-own-amazing-toddler-peace-coral-boss-float-submit
+bip_39_word_dash_11: stove-issue-own-amazing-toddler-peace-coral-boss-float-submit-crouch
+bip_39_word_dash_12: stove-issue-own-amazing-toddler-peace-coral-boss-float-submit-crouch-abuse
+bip_39_word_dash_2: stove-issue
+bip_39_word_dash_3: stove-issue-own
+bip_39_word_dash_4: stove-issue-own-amazing
+bip_39_word_dash_5: stove-issue-own-amazing-toddler
+bip_39_word_dash_6: stove-issue-own-amazing-toddler-peace
+bip_39_word_dash_7: stove-issue-own-amazing-toddler-peace-coral
+bip_39_word_dash_8: stove-issue-own-amazing-toddler-peace-coral-boss
+bip_39_word_dash_9: stove-issue-own-amazing-toddler-peace-coral-boss-float
+bip_39_word_new_br_1: stove
+bip_39_word_new_br_10: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit
+bip_39_word_new_br_11: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit<br>crouch
+bip_39_word_new_br_12: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float<br>submit<br>crouch<br>abuse
+bip_39_word_new_br_2: stove<br>issue
+bip_39_word_new_br_3: stove<br>issue<br>own
+bip_39_word_new_br_4: stove<br>issue<br>own<br>amazing
+bip_39_word_new_br_5: stove<br>issue<br>own<br>amazing<br>toddler
+bip_39_word_new_br_6: stove<br>issue<br>own<br>amazing<br>toddler<br>peace
+bip_39_word_new_br_7: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral
+bip_39_word_new_br_8: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss
+bip_39_word_new_br_9: stove<br>issue<br>own<br>amazing<br>toddler<br>peace<br>coral<br>boss<br>float
+bip_39_word_new_line_1: stove
+bip_39_word_new_line_10: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral
+
+  boss
+
+  float
+
+  submit'
+bip_39_word_new_line_11: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral
+
+  boss
+
+  float
+
+  submit
+
+  crouch'
+bip_39_word_new_line_12: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral
+
+  boss
+
+  float
+
+  submit
+
+  crouch
+
+  abuse'
+bip_39_word_new_line_2: 'stove
+
+  issue'
+bip_39_word_new_line_3: 'stove
+
+  issue
+
+  own'
+bip_39_word_new_line_4: 'stove
+
+  issue
+
+  own
+
+  amazing'
+bip_39_word_new_line_5: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler'
+bip_39_word_new_line_6: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace'
+bip_39_word_new_line_7: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral'
+bip_39_word_new_line_8: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral
+
+  boss'
+bip_39_word_new_line_9: 'stove
+
+  issue
+
+  own
+
+  amazing
+
+  toddler
+
+  peace
+
+  coral
+
+  boss
+
+  float'
+bip_39_word_no_space_1: stove
+bip_39_word_no_space_10: stoveissueownamazingtoddlerpeacecoralbossfloatsubmit
+bip_39_word_no_space_11: stoveissueownamazingtoddlerpeacecoralbossfloatsubmitcrouch
+bip_39_word_no_space_12: stoveissueownamazingtoddlerpeacecoralbossfloatsubmitcrouchabuse
+bip_39_word_no_space_2: stoveissue
+bip_39_word_no_space_3: stoveissueown
+bip_39_word_no_space_4: stoveissueownamazing
+bip_39_word_no_space_5: stoveissueownamazingtoddler
+bip_39_word_no_space_6: stoveissueownamazingtoddlerpeace
+bip_39_word_no_space_7: stoveissueownamazingtoddlerpeacecoral
+bip_39_word_no_space_8: stoveissueownamazingtoddlerpeacecoralboss
+bip_39_word_no_space_9: stoveissueownamazingtoddlerpeacecoralbossfloat
+bip_39_word_space_0:
+- stove
+- issue
+- own
+- amazing
+- toddler
+- peace
+- coral
+- boss
+- float
+- submit
+- crouch
+- abuse
+bip_39_word_space_1: stove
+bip_39_word_space_10: stove issue own amazing toddler peace coral boss float submit
+bip_39_word_space_11: stove issue own amazing toddler peace coral boss float submit
+  crouch
+bip_39_word_space_12: stove issue own amazing toddler peace coral boss float submit
+  crouch abuse
+bip_39_word_space_2: stove issue
+bip_39_word_space_3: stove issue own
+bip_39_word_space_4: stove issue own amazing
+bip_39_word_space_5: stove issue own amazing toddler
+bip_39_word_space_6: stove issue own amazing toddler peace
+bip_39_word_space_7: stove issue own amazing toddler peace coral
+bip_39_word_space_8: stove issue own amazing toddler peace coral boss
+bip_39_word_space_9: stove issue own amazing toddler peace coral boss float
+bip_39_word_underscore_1: stove
+bip_39_word_underscore_10: stove_issue_own_amazing_toddler_peace_coral_boss_float_submit
+bip_39_word_underscore_11: stove_issue_own_amazing_toddler_peace_coral_boss_float_submit_crouch
+bip_39_word_underscore_12: stove_issue_own_amazing_toddler_peace_coral_boss_float_submit_crouch_abuse
+bip_39_word_underscore_2: stove_issue
+bip_39_word_underscore_3: stove_issue_own
+bip_39_word_underscore_4: stove_issue_own_amazing
+bip_39_word_underscore_5: stove_issue_own_amazing_toddler
+bip_39_word_underscore_6: stove_issue_own_amazing_toddler_peace
+bip_39_word_underscore_7: stove_issue_own_amazing_toddler_peace_coral
+bip_39_word_underscore_8: stove_issue_own_amazing_toddler_peace_coral_boss
+bip_39_word_underscore_9: stove_issue_own_amazing_toddler_peace_coral_boss_float
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_15_24
 id_no_color: '041524'
 id_no_size: '04_15_24'
 id_no_type: tray_04_15_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_15_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_15_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_15_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20puuu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20puuu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20puuu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '041524'
 name_no_size: 04 15 24
 name_no_size_short: 04 15 24
 name_no_type: Tray 04 15 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_15_24
 oomp_word: anger mushroom santa
 oomp_word_emoji: ':anger: :mushroom: :santa:'

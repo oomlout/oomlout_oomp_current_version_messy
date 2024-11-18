@@ -1,3 +1,221 @@
+bip_39_word_dash_1: junk
+bip_39_word_dash_10: junk-hobby-crack-charge-master-island-hint-claw-term-very
+bip_39_word_dash_11: junk-hobby-crack-charge-master-island-hint-claw-term-very-swim
+bip_39_word_dash_12: junk-hobby-crack-charge-master-island-hint-claw-term-very-swim-analyst
+bip_39_word_dash_2: junk-hobby
+bip_39_word_dash_3: junk-hobby-crack
+bip_39_word_dash_4: junk-hobby-crack-charge
+bip_39_word_dash_5: junk-hobby-crack-charge-master
+bip_39_word_dash_6: junk-hobby-crack-charge-master-island
+bip_39_word_dash_7: junk-hobby-crack-charge-master-island-hint
+bip_39_word_dash_8: junk-hobby-crack-charge-master-island-hint-claw
+bip_39_word_dash_9: junk-hobby-crack-charge-master-island-hint-claw-term
+bip_39_word_new_br_1: junk
+bip_39_word_new_br_10: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very
+bip_39_word_new_br_11: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim
+bip_39_word_new_br_12: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term<br>very<br>swim<br>analyst
+bip_39_word_new_br_2: junk<br>hobby
+bip_39_word_new_br_3: junk<br>hobby<br>crack
+bip_39_word_new_br_4: junk<br>hobby<br>crack<br>charge
+bip_39_word_new_br_5: junk<br>hobby<br>crack<br>charge<br>master
+bip_39_word_new_br_6: junk<br>hobby<br>crack<br>charge<br>master<br>island
+bip_39_word_new_br_7: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint
+bip_39_word_new_br_8: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw
+bip_39_word_new_br_9: junk<br>hobby<br>crack<br>charge<br>master<br>island<br>hint<br>claw<br>term
+bip_39_word_new_line_1: junk
+bip_39_word_new_line_10: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very'
+bip_39_word_new_line_11: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very
+
+  swim'
+bip_39_word_new_line_12: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term
+
+  very
+
+  swim
+
+  analyst'
+bip_39_word_new_line_2: 'junk
+
+  hobby'
+bip_39_word_new_line_3: 'junk
+
+  hobby
+
+  crack'
+bip_39_word_new_line_4: 'junk
+
+  hobby
+
+  crack
+
+  charge'
+bip_39_word_new_line_5: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master'
+bip_39_word_new_line_6: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island'
+bip_39_word_new_line_7: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint'
+bip_39_word_new_line_8: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw'
+bip_39_word_new_line_9: 'junk
+
+  hobby
+
+  crack
+
+  charge
+
+  master
+
+  island
+
+  hint
+
+  claw
+
+  term'
+bip_39_word_no_space_1: junk
+bip_39_word_no_space_10: junkhobbycrackchargemasterislandhintclawtermvery
+bip_39_word_no_space_11: junkhobbycrackchargemasterislandhintclawtermveryswim
+bip_39_word_no_space_12: junkhobbycrackchargemasterislandhintclawtermveryswimanalyst
+bip_39_word_no_space_2: junkhobby
+bip_39_word_no_space_3: junkhobbycrack
+bip_39_word_no_space_4: junkhobbycrackcharge
+bip_39_word_no_space_5: junkhobbycrackchargemaster
+bip_39_word_no_space_6: junkhobbycrackchargemasterisland
+bip_39_word_no_space_7: junkhobbycrackchargemasterislandhint
+bip_39_word_no_space_8: junkhobbycrackchargemasterislandhintclaw
+bip_39_word_no_space_9: junkhobbycrackchargemasterislandhintclawterm
+bip_39_word_space_0:
+- junk
+- hobby
+- crack
+- charge
+- master
+- island
+- hint
+- claw
+- term
+- very
+- swim
+- analyst
+bip_39_word_space_1: junk
+bip_39_word_space_10: junk hobby crack charge master island hint claw term very
+bip_39_word_space_11: junk hobby crack charge master island hint claw term very swim
+bip_39_word_space_12: junk hobby crack charge master island hint claw term very swim
+  analyst
+bip_39_word_space_2: junk hobby
+bip_39_word_space_3: junk hobby crack
+bip_39_word_space_4: junk hobby crack charge
+bip_39_word_space_5: junk hobby crack charge master
+bip_39_word_space_6: junk hobby crack charge master island
+bip_39_word_space_7: junk hobby crack charge master island hint
+bip_39_word_space_8: junk hobby crack charge master island hint claw
+bip_39_word_space_9: junk hobby crack charge master island hint claw term
+bip_39_word_underscore_1: junk
+bip_39_word_underscore_10: junk_hobby_crack_charge_master_island_hint_claw_term_very
+bip_39_word_underscore_11: junk_hobby_crack_charge_master_island_hint_claw_term_very_swim
+bip_39_word_underscore_12: junk_hobby_crack_charge_master_island_hint_claw_term_very_swim_analyst
+bip_39_word_underscore_2: junk_hobby
+bip_39_word_underscore_3: junk_hobby_crack
+bip_39_word_underscore_4: junk_hobby_crack_charge
+bip_39_word_underscore_5: junk_hobby_crack_charge_master
+bip_39_word_underscore_6: junk_hobby_crack_charge_master_island
+bip_39_word_underscore_7: junk_hobby_crack_charge_master_island_hint
+bip_39_word_underscore_8: junk_hobby_crack_charge_master_island_hint_claw
+bip_39_word_underscore_9: junk_hobby_crack_charge_master_island_hint_claw_term
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_plate_04_01_14__ninety_degree
 id_no_color: 040114ninetydegree
 id_no_size: 04_01_14__ninety_degree
 id_no_type: plate_04_01_14__ninety_degree
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_01_14__ninety_degree
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_01_14__ninety_degree
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_01_14__ninety_degree
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2057tvg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2057tvg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2057tvg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 040114Ninetydegree
 name_no_size: 04 01 14  Ninety Degree
 name_no_size_short: 04 01 14  Ninety Degree
 name_no_type: Plate 04 01 14  Ninety Degree
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_04_01_14__ninety_degree
 oomp_word: bulb pizza up
 oomp_word_emoji: ':bulb: :pizza: :up:'

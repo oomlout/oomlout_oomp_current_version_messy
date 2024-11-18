@@ -1,3 +1,222 @@
+bip_39_word_dash_1: first
+bip_39_word_dash_10: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey
+bip_39_word_dash_11: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey-notice
+bip_39_word_dash_12: first-hello-asset-border-alley-stick-hollow-stool-chronic-turkey-notice-accident
+bip_39_word_dash_2: first-hello
+bip_39_word_dash_3: first-hello-asset
+bip_39_word_dash_4: first-hello-asset-border
+bip_39_word_dash_5: first-hello-asset-border-alley
+bip_39_word_dash_6: first-hello-asset-border-alley-stick
+bip_39_word_dash_7: first-hello-asset-border-alley-stick-hollow
+bip_39_word_dash_8: first-hello-asset-border-alley-stick-hollow-stool
+bip_39_word_dash_9: first-hello-asset-border-alley-stick-hollow-stool-chronic
+bip_39_word_new_br_1: first
+bip_39_word_new_br_10: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey
+bip_39_word_new_br_11: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey<br>notice
+bip_39_word_new_br_12: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic<br>turkey<br>notice<br>accident
+bip_39_word_new_br_2: first<br>hello
+bip_39_word_new_br_3: first<br>hello<br>asset
+bip_39_word_new_br_4: first<br>hello<br>asset<br>border
+bip_39_word_new_br_5: first<br>hello<br>asset<br>border<br>alley
+bip_39_word_new_br_6: first<br>hello<br>asset<br>border<br>alley<br>stick
+bip_39_word_new_br_7: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow
+bip_39_word_new_br_8: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool
+bip_39_word_new_br_9: first<br>hello<br>asset<br>border<br>alley<br>stick<br>hollow<br>stool<br>chronic
+bip_39_word_new_line_1: first
+bip_39_word_new_line_10: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow
+
+  stool
+
+  chronic
+
+  turkey'
+bip_39_word_new_line_11: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow
+
+  stool
+
+  chronic
+
+  turkey
+
+  notice'
+bip_39_word_new_line_12: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow
+
+  stool
+
+  chronic
+
+  turkey
+
+  notice
+
+  accident'
+bip_39_word_new_line_2: 'first
+
+  hello'
+bip_39_word_new_line_3: 'first
+
+  hello
+
+  asset'
+bip_39_word_new_line_4: 'first
+
+  hello
+
+  asset
+
+  border'
+bip_39_word_new_line_5: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley'
+bip_39_word_new_line_6: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick'
+bip_39_word_new_line_7: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow'
+bip_39_word_new_line_8: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow
+
+  stool'
+bip_39_word_new_line_9: 'first
+
+  hello
+
+  asset
+
+  border
+
+  alley
+
+  stick
+
+  hollow
+
+  stool
+
+  chronic'
+bip_39_word_no_space_1: first
+bip_39_word_no_space_10: firsthelloassetborderalleystickhollowstoolchronicturkey
+bip_39_word_no_space_11: firsthelloassetborderalleystickhollowstoolchronicturkeynotice
+bip_39_word_no_space_12: firsthelloassetborderalleystickhollowstoolchronicturkeynoticeaccident
+bip_39_word_no_space_2: firsthello
+bip_39_word_no_space_3: firsthelloasset
+bip_39_word_no_space_4: firsthelloassetborder
+bip_39_word_no_space_5: firsthelloassetborderalley
+bip_39_word_no_space_6: firsthelloassetborderalleystick
+bip_39_word_no_space_7: firsthelloassetborderalleystickhollow
+bip_39_word_no_space_8: firsthelloassetborderalleystickhollowstool
+bip_39_word_no_space_9: firsthelloassetborderalleystickhollowstoolchronic
+bip_39_word_space_0:
+- first
+- hello
+- asset
+- border
+- alley
+- stick
+- hollow
+- stool
+- chronic
+- turkey
+- notice
+- accident
+bip_39_word_space_1: first
+bip_39_word_space_10: first hello asset border alley stick hollow stool chronic turkey
+bip_39_word_space_11: first hello asset border alley stick hollow stool chronic turkey
+  notice
+bip_39_word_space_12: first hello asset border alley stick hollow stool chronic turkey
+  notice accident
+bip_39_word_space_2: first hello
+bip_39_word_space_3: first hello asset
+bip_39_word_space_4: first hello asset border
+bip_39_word_space_5: first hello asset border alley
+bip_39_word_space_6: first hello asset border alley stick
+bip_39_word_space_7: first hello asset border alley stick hollow
+bip_39_word_space_8: first hello asset border alley stick hollow stool
+bip_39_word_space_9: first hello asset border alley stick hollow stool chronic
+bip_39_word_underscore_1: first
+bip_39_word_underscore_10: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey
+bip_39_word_underscore_11: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey_notice
+bip_39_word_underscore_12: first_hello_asset_border_alley_stick_hollow_stool_chronic_turkey_notice_accident
+bip_39_word_underscore_2: first_hello
+bip_39_word_underscore_3: first_hello_asset
+bip_39_word_underscore_4: first_hello_asset_border
+bip_39_word_underscore_5: first_hello_asset_border_alley
+bip_39_word_underscore_6: first_hello_asset_border_alley_stick
+bip_39_word_underscore_7: first_hello_asset_border_alley_stick_hollow
+bip_39_word_underscore_8: first_hello_asset_border_alley_stick_hollow_stool
+bip_39_word_underscore_9: first_hello_asset_border_alley_stick_hollow_stool_chronic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_15_90
 id_no_color: 081590
 id_no_size: 08_15_90
 id_no_type: tray_08_15_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_15_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20wk56
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20wk56
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20wk56
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081590
 name_no_size: 08 15 90
 name_no_size_short: 08 15 90
 name_no_type: Tray 08 15 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_15_90
 oomp_word: thumbsdown snowman nine
 oomp_word_emoji: ':thumbsdown: :snowman: :nine:'

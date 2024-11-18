@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hand
+bip_39_word_dash_10: hand-water-casino-tired-almost-square-uncle-swamp-few-apart
+bip_39_word_dash_11: hand-water-casino-tired-almost-square-uncle-swamp-few-apart-embark
+bip_39_word_dash_12: hand-water-casino-tired-almost-square-uncle-swamp-few-apart-embark-absurd
+bip_39_word_dash_2: hand-water
+bip_39_word_dash_3: hand-water-casino
+bip_39_word_dash_4: hand-water-casino-tired
+bip_39_word_dash_5: hand-water-casino-tired-almost
+bip_39_word_dash_6: hand-water-casino-tired-almost-square
+bip_39_word_dash_7: hand-water-casino-tired-almost-square-uncle
+bip_39_word_dash_8: hand-water-casino-tired-almost-square-uncle-swamp
+bip_39_word_dash_9: hand-water-casino-tired-almost-square-uncle-swamp-few
+bip_39_word_new_br_1: hand
+bip_39_word_new_br_10: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart
+bip_39_word_new_br_11: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart<br>embark
+bip_39_word_new_br_12: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few<br>apart<br>embark<br>absurd
+bip_39_word_new_br_2: hand<br>water
+bip_39_word_new_br_3: hand<br>water<br>casino
+bip_39_word_new_br_4: hand<br>water<br>casino<br>tired
+bip_39_word_new_br_5: hand<br>water<br>casino<br>tired<br>almost
+bip_39_word_new_br_6: hand<br>water<br>casino<br>tired<br>almost<br>square
+bip_39_word_new_br_7: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle
+bip_39_word_new_br_8: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp
+bip_39_word_new_br_9: hand<br>water<br>casino<br>tired<br>almost<br>square<br>uncle<br>swamp<br>few
+bip_39_word_new_line_1: hand
+bip_39_word_new_line_10: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle
+
+  swamp
+
+  few
+
+  apart'
+bip_39_word_new_line_11: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle
+
+  swamp
+
+  few
+
+  apart
+
+  embark'
+bip_39_word_new_line_12: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle
+
+  swamp
+
+  few
+
+  apart
+
+  embark
+
+  absurd'
+bip_39_word_new_line_2: 'hand
+
+  water'
+bip_39_word_new_line_3: 'hand
+
+  water
+
+  casino'
+bip_39_word_new_line_4: 'hand
+
+  water
+
+  casino
+
+  tired'
+bip_39_word_new_line_5: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost'
+bip_39_word_new_line_6: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square'
+bip_39_word_new_line_7: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle'
+bip_39_word_new_line_8: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle
+
+  swamp'
+bip_39_word_new_line_9: 'hand
+
+  water
+
+  casino
+
+  tired
+
+  almost
+
+  square
+
+  uncle
+
+  swamp
+
+  few'
+bip_39_word_no_space_1: hand
+bip_39_word_no_space_10: handwatercasinotiredalmostsquareuncleswampfewapart
+bip_39_word_no_space_11: handwatercasinotiredalmostsquareuncleswampfewapartembark
+bip_39_word_no_space_12: handwatercasinotiredalmostsquareuncleswampfewapartembarkabsurd
+bip_39_word_no_space_2: handwater
+bip_39_word_no_space_3: handwatercasino
+bip_39_word_no_space_4: handwatercasinotired
+bip_39_word_no_space_5: handwatercasinotiredalmost
+bip_39_word_no_space_6: handwatercasinotiredalmostsquare
+bip_39_word_no_space_7: handwatercasinotiredalmostsquareuncle
+bip_39_word_no_space_8: handwatercasinotiredalmostsquareuncleswamp
+bip_39_word_no_space_9: handwatercasinotiredalmostsquareuncleswampfew
+bip_39_word_space_0:
+- hand
+- water
+- casino
+- tired
+- almost
+- square
+- uncle
+- swamp
+- few
+- apart
+- embark
+- absurd
+bip_39_word_space_1: hand
+bip_39_word_space_10: hand water casino tired almost square uncle swamp few apart
+bip_39_word_space_11: hand water casino tired almost square uncle swamp few apart
+  embark
+bip_39_word_space_12: hand water casino tired almost square uncle swamp few apart
+  embark absurd
+bip_39_word_space_2: hand water
+bip_39_word_space_3: hand water casino
+bip_39_word_space_4: hand water casino tired
+bip_39_word_space_5: hand water casino tired almost
+bip_39_word_space_6: hand water casino tired almost square
+bip_39_word_space_7: hand water casino tired almost square uncle
+bip_39_word_space_8: hand water casino tired almost square uncle swamp
+bip_39_word_space_9: hand water casino tired almost square uncle swamp few
+bip_39_word_underscore_1: hand
+bip_39_word_underscore_10: hand_water_casino_tired_almost_square_uncle_swamp_few_apart
+bip_39_word_underscore_11: hand_water_casino_tired_almost_square_uncle_swamp_few_apart_embark
+bip_39_word_underscore_12: hand_water_casino_tired_almost_square_uncle_swamp_few_apart_embark_absurd
+bip_39_word_underscore_2: hand_water
+bip_39_word_underscore_3: hand_water_casino
+bip_39_word_underscore_4: hand_water_casino_tired
+bip_39_word_underscore_5: hand_water_casino_tired_almost
+bip_39_word_underscore_6: hand_water_casino_tired_almost_square
+bip_39_word_underscore_7: hand_water_casino_tired_almost_square_uncle
+bip_39_word_underscore_8: hand_water_casino_tired_almost_square_uncle_swamp
+bip_39_word_underscore_9: hand_water_casino_tired_almost_square_uncle_swamp_few
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_04_21
 id_no_color: '110421'
 id_no_size: '11_04_21'
 id_no_type: tray_thin_11_04_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_04_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_04_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_04_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20n9mq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20n9mq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20n9mq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110421'
 name_no_size: 11 04 21
 name_no_size_short: 11 04 21
 name_no_type: Tray Thin 11 04 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_04_21
 oomp_word: star scissors radio
 oomp_word_emoji: ':star: :scissors: :radio:'

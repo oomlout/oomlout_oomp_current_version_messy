@@ -1,3 +1,222 @@
+bip_39_word_dash_1: photo
+bip_39_word_dash_10: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper
+bip_39_word_dash_11: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper-accident
+bip_39_word_dash_12: photo-witness-obey-icon-captain-glove-physical-erupt-alter-whisper-accident-already
+bip_39_word_dash_2: photo-witness
+bip_39_word_dash_3: photo-witness-obey
+bip_39_word_dash_4: photo-witness-obey-icon
+bip_39_word_dash_5: photo-witness-obey-icon-captain
+bip_39_word_dash_6: photo-witness-obey-icon-captain-glove
+bip_39_word_dash_7: photo-witness-obey-icon-captain-glove-physical
+bip_39_word_dash_8: photo-witness-obey-icon-captain-glove-physical-erupt
+bip_39_word_dash_9: photo-witness-obey-icon-captain-glove-physical-erupt-alter
+bip_39_word_new_br_1: photo
+bip_39_word_new_br_10: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper
+bip_39_word_new_br_11: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident
+bip_39_word_new_br_12: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter<br>whisper<br>accident<br>already
+bip_39_word_new_br_2: photo<br>witness
+bip_39_word_new_br_3: photo<br>witness<br>obey
+bip_39_word_new_br_4: photo<br>witness<br>obey<br>icon
+bip_39_word_new_br_5: photo<br>witness<br>obey<br>icon<br>captain
+bip_39_word_new_br_6: photo<br>witness<br>obey<br>icon<br>captain<br>glove
+bip_39_word_new_br_7: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical
+bip_39_word_new_br_8: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt
+bip_39_word_new_br_9: photo<br>witness<br>obey<br>icon<br>captain<br>glove<br>physical<br>erupt<br>alter
+bip_39_word_new_line_1: photo
+bip_39_word_new_line_10: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical
+
+  erupt
+
+  alter
+
+  whisper'
+bip_39_word_new_line_11: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical
+
+  erupt
+
+  alter
+
+  whisper
+
+  accident'
+bip_39_word_new_line_12: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical
+
+  erupt
+
+  alter
+
+  whisper
+
+  accident
+
+  already'
+bip_39_word_new_line_2: 'photo
+
+  witness'
+bip_39_word_new_line_3: 'photo
+
+  witness
+
+  obey'
+bip_39_word_new_line_4: 'photo
+
+  witness
+
+  obey
+
+  icon'
+bip_39_word_new_line_5: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain'
+bip_39_word_new_line_6: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove'
+bip_39_word_new_line_7: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical'
+bip_39_word_new_line_8: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical
+
+  erupt'
+bip_39_word_new_line_9: 'photo
+
+  witness
+
+  obey
+
+  icon
+
+  captain
+
+  glove
+
+  physical
+
+  erupt
+
+  alter'
+bip_39_word_no_space_1: photo
+bip_39_word_no_space_10: photowitnessobeyiconcaptainglovephysicaleruptalterwhisper
+bip_39_word_no_space_11: photowitnessobeyiconcaptainglovephysicaleruptalterwhisperaccident
+bip_39_word_no_space_12: photowitnessobeyiconcaptainglovephysicaleruptalterwhisperaccidentalready
+bip_39_word_no_space_2: photowitness
+bip_39_word_no_space_3: photowitnessobey
+bip_39_word_no_space_4: photowitnessobeyicon
+bip_39_word_no_space_5: photowitnessobeyiconcaptain
+bip_39_word_no_space_6: photowitnessobeyiconcaptainglove
+bip_39_word_no_space_7: photowitnessobeyiconcaptainglovephysical
+bip_39_word_no_space_8: photowitnessobeyiconcaptainglovephysicalerupt
+bip_39_word_no_space_9: photowitnessobeyiconcaptainglovephysicaleruptalter
+bip_39_word_space_0:
+- photo
+- witness
+- obey
+- icon
+- captain
+- glove
+- physical
+- erupt
+- alter
+- whisper
+- accident
+- already
+bip_39_word_space_1: photo
+bip_39_word_space_10: photo witness obey icon captain glove physical erupt alter whisper
+bip_39_word_space_11: photo witness obey icon captain glove physical erupt alter whisper
+  accident
+bip_39_word_space_12: photo witness obey icon captain glove physical erupt alter whisper
+  accident already
+bip_39_word_space_2: photo witness
+bip_39_word_space_3: photo witness obey
+bip_39_word_space_4: photo witness obey icon
+bip_39_word_space_5: photo witness obey icon captain
+bip_39_word_space_6: photo witness obey icon captain glove
+bip_39_word_space_7: photo witness obey icon captain glove physical
+bip_39_word_space_8: photo witness obey icon captain glove physical erupt
+bip_39_word_space_9: photo witness obey icon captain glove physical erupt alter
+bip_39_word_underscore_1: photo
+bip_39_word_underscore_10: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper
+bip_39_word_underscore_11: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper_accident
+bip_39_word_underscore_12: photo_witness_obey_icon_captain_glove_physical_erupt_alter_whisper_accident_already
+bip_39_word_underscore_2: photo_witness
+bip_39_word_underscore_3: photo_witness_obey
+bip_39_word_underscore_4: photo_witness_obey_icon
+bip_39_word_underscore_5: photo_witness_obey_icon_captain
+bip_39_word_underscore_6: photo_witness_obey_icon_captain_glove
+bip_39_word_underscore_7: photo_witness_obey_icon_captain_glove_physical
+bip_39_word_underscore_8: photo_witness_obey_icon_captain_glove_physical_erupt
+bip_39_word_underscore_9: photo_witness_obey_icon_captain_glove_physical_erupt_alter
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h
@@ -84,7 +303,14 @@ id_no_class: pretend_pet_to_sort
 id_no_color: tosort
 id_no_size: tosort
 id_no_type: to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_pretend_pet_to_sort
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/household_toy_pretend_pet_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204g5by
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204g5by
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204g5by
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -110,6 +336,7 @@ name_no_color: Tosort
 name_no_size: Tosort
 name_no_size_short: Tosort
 name_no_type: To Sort
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_household_toy_pretend_pet_to_sort
 oomp_word: dolls blush recycle
 oomp_word_emoji: ':dolls: :blush: :recycle:'

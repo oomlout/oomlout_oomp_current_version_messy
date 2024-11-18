@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Ocado Broccoli
 
+### name
+* name: Food Vegetable Broccoli
+* name_short: 
 ### id
 * oomp_id: food_vegetable_broccoli
   * classification: food

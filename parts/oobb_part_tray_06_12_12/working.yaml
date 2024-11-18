@@ -1,3 +1,222 @@
+bip_39_word_dash_1: vocal
+bip_39_word_dash_10: vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float
+bip_39_word_dash_11: vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float-cradle
+bip_39_word_dash_12: vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal-float-cradle-advice
+bip_39_word_dash_2: vocal-fantasy
+bip_39_word_dash_3: vocal-fantasy-slush
+bip_39_word_dash_4: vocal-fantasy-slush-asthma
+bip_39_word_dash_5: vocal-fantasy-slush-asthma-turn
+bip_39_word_dash_6: vocal-fantasy-slush-asthma-turn-layer
+bip_39_word_dash_7: vocal-fantasy-slush-asthma-turn-layer-essay
+bip_39_word_dash_8: vocal-fantasy-slush-asthma-turn-layer-essay-popular
+bip_39_word_dash_9: vocal-fantasy-slush-asthma-turn-layer-essay-popular-canal
+bip_39_word_new_br_1: vocal
+bip_39_word_new_br_10: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float
+bip_39_word_new_br_11: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float<br>cradle
+bip_39_word_new_br_12: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal<br>float<br>cradle<br>advice
+bip_39_word_new_br_2: vocal<br>fantasy
+bip_39_word_new_br_3: vocal<br>fantasy<br>slush
+bip_39_word_new_br_4: vocal<br>fantasy<br>slush<br>asthma
+bip_39_word_new_br_5: vocal<br>fantasy<br>slush<br>asthma<br>turn
+bip_39_word_new_br_6: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer
+bip_39_word_new_br_7: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay
+bip_39_word_new_br_8: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular
+bip_39_word_new_br_9: vocal<br>fantasy<br>slush<br>asthma<br>turn<br>layer<br>essay<br>popular<br>canal
+bip_39_word_new_line_1: vocal
+bip_39_word_new_line_10: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay
+
+  popular
+
+  canal
+
+  float'
+bip_39_word_new_line_11: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay
+
+  popular
+
+  canal
+
+  float
+
+  cradle'
+bip_39_word_new_line_12: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay
+
+  popular
+
+  canal
+
+  float
+
+  cradle
+
+  advice'
+bip_39_word_new_line_2: 'vocal
+
+  fantasy'
+bip_39_word_new_line_3: 'vocal
+
+  fantasy
+
+  slush'
+bip_39_word_new_line_4: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma'
+bip_39_word_new_line_5: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn'
+bip_39_word_new_line_6: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer'
+bip_39_word_new_line_7: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay'
+bip_39_word_new_line_8: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay
+
+  popular'
+bip_39_word_new_line_9: 'vocal
+
+  fantasy
+
+  slush
+
+  asthma
+
+  turn
+
+  layer
+
+  essay
+
+  popular
+
+  canal'
+bip_39_word_no_space_1: vocal
+bip_39_word_no_space_10: vocalfantasyslushasthmaturnlayeressaypopularcanalfloat
+bip_39_word_no_space_11: vocalfantasyslushasthmaturnlayeressaypopularcanalfloatcradle
+bip_39_word_no_space_12: vocalfantasyslushasthmaturnlayeressaypopularcanalfloatcradleadvice
+bip_39_word_no_space_2: vocalfantasy
+bip_39_word_no_space_3: vocalfantasyslush
+bip_39_word_no_space_4: vocalfantasyslushasthma
+bip_39_word_no_space_5: vocalfantasyslushasthmaturn
+bip_39_word_no_space_6: vocalfantasyslushasthmaturnlayer
+bip_39_word_no_space_7: vocalfantasyslushasthmaturnlayeressay
+bip_39_word_no_space_8: vocalfantasyslushasthmaturnlayeressaypopular
+bip_39_word_no_space_9: vocalfantasyslushasthmaturnlayeressaypopularcanal
+bip_39_word_space_0:
+- vocal
+- fantasy
+- slush
+- asthma
+- turn
+- layer
+- essay
+- popular
+- canal
+- float
+- cradle
+- advice
+bip_39_word_space_1: vocal
+bip_39_word_space_10: vocal fantasy slush asthma turn layer essay popular canal float
+bip_39_word_space_11: vocal fantasy slush asthma turn layer essay popular canal float
+  cradle
+bip_39_word_space_12: vocal fantasy slush asthma turn layer essay popular canal float
+  cradle advice
+bip_39_word_space_2: vocal fantasy
+bip_39_word_space_3: vocal fantasy slush
+bip_39_word_space_4: vocal fantasy slush asthma
+bip_39_word_space_5: vocal fantasy slush asthma turn
+bip_39_word_space_6: vocal fantasy slush asthma turn layer
+bip_39_word_space_7: vocal fantasy slush asthma turn layer essay
+bip_39_word_space_8: vocal fantasy slush asthma turn layer essay popular
+bip_39_word_space_9: vocal fantasy slush asthma turn layer essay popular canal
+bip_39_word_underscore_1: vocal
+bip_39_word_underscore_10: vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float
+bip_39_word_underscore_11: vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float_cradle
+bip_39_word_underscore_12: vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal_float_cradle_advice
+bip_39_word_underscore_2: vocal_fantasy
+bip_39_word_underscore_3: vocal_fantasy_slush
+bip_39_word_underscore_4: vocal_fantasy_slush_asthma
+bip_39_word_underscore_5: vocal_fantasy_slush_asthma_turn
+bip_39_word_underscore_6: vocal_fantasy_slush_asthma_turn_layer
+bip_39_word_underscore_7: vocal_fantasy_slush_asthma_turn_layer_essay
+bip_39_word_underscore_8: vocal_fantasy_slush_asthma_turn_layer_essay_popular
+bip_39_word_underscore_9: vocal_fantasy_slush_asthma_turn_layer_essay_popular_canal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_06_12_12
 id_no_color: '061212'
 id_no_size: '06_12_12'
 id_no_type: tray_06_12_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_12_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_12_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_12_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ig2e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ig2e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ig2e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '061212'
 name_no_size: 06 12 12
 name_no_size_short: 06 12 12
 name_no_type: Tray 06 12 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_12_12
 oomp_word: racehorse rose school
 oomp_word_emoji: ':racehorse: :rose: :school:'

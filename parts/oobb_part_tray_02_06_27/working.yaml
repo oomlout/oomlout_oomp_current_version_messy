@@ -1,3 +1,222 @@
+bip_39_word_dash_1: battle
+bip_39_word_dash_10: battle-door-afraid-success-film-aisle-patch-toe-couple-coyote
+bip_39_word_dash_11: battle-door-afraid-success-film-aisle-patch-toe-couple-coyote-canvas
+bip_39_word_dash_12: battle-door-afraid-success-film-aisle-patch-toe-couple-coyote-canvas-alpha
+bip_39_word_dash_2: battle-door
+bip_39_word_dash_3: battle-door-afraid
+bip_39_word_dash_4: battle-door-afraid-success
+bip_39_word_dash_5: battle-door-afraid-success-film
+bip_39_word_dash_6: battle-door-afraid-success-film-aisle
+bip_39_word_dash_7: battle-door-afraid-success-film-aisle-patch
+bip_39_word_dash_8: battle-door-afraid-success-film-aisle-patch-toe
+bip_39_word_dash_9: battle-door-afraid-success-film-aisle-patch-toe-couple
+bip_39_word_new_br_1: battle
+bip_39_word_new_br_10: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote
+bip_39_word_new_br_11: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas
+bip_39_word_new_br_12: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple<br>coyote<br>canvas<br>alpha
+bip_39_word_new_br_2: battle<br>door
+bip_39_word_new_br_3: battle<br>door<br>afraid
+bip_39_word_new_br_4: battle<br>door<br>afraid<br>success
+bip_39_word_new_br_5: battle<br>door<br>afraid<br>success<br>film
+bip_39_word_new_br_6: battle<br>door<br>afraid<br>success<br>film<br>aisle
+bip_39_word_new_br_7: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch
+bip_39_word_new_br_8: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe
+bip_39_word_new_br_9: battle<br>door<br>afraid<br>success<br>film<br>aisle<br>patch<br>toe<br>couple
+bip_39_word_new_line_1: battle
+bip_39_word_new_line_10: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch
+
+  toe
+
+  couple
+
+  coyote'
+bip_39_word_new_line_11: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch
+
+  toe
+
+  couple
+
+  coyote
+
+  canvas'
+bip_39_word_new_line_12: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch
+
+  toe
+
+  couple
+
+  coyote
+
+  canvas
+
+  alpha'
+bip_39_word_new_line_2: 'battle
+
+  door'
+bip_39_word_new_line_3: 'battle
+
+  door
+
+  afraid'
+bip_39_word_new_line_4: 'battle
+
+  door
+
+  afraid
+
+  success'
+bip_39_word_new_line_5: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film'
+bip_39_word_new_line_6: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle'
+bip_39_word_new_line_7: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch'
+bip_39_word_new_line_8: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch
+
+  toe'
+bip_39_word_new_line_9: 'battle
+
+  door
+
+  afraid
+
+  success
+
+  film
+
+  aisle
+
+  patch
+
+  toe
+
+  couple'
+bip_39_word_no_space_1: battle
+bip_39_word_no_space_10: battledoorafraidsuccessfilmaislepatchtoecouplecoyote
+bip_39_word_no_space_11: battledoorafraidsuccessfilmaislepatchtoecouplecoyotecanvas
+bip_39_word_no_space_12: battledoorafraidsuccessfilmaislepatchtoecouplecoyotecanvasalpha
+bip_39_word_no_space_2: battledoor
+bip_39_word_no_space_3: battledoorafraid
+bip_39_word_no_space_4: battledoorafraidsuccess
+bip_39_word_no_space_5: battledoorafraidsuccessfilm
+bip_39_word_no_space_6: battledoorafraidsuccessfilmaisle
+bip_39_word_no_space_7: battledoorafraidsuccessfilmaislepatch
+bip_39_word_no_space_8: battledoorafraidsuccessfilmaislepatchtoe
+bip_39_word_no_space_9: battledoorafraidsuccessfilmaislepatchtoecouple
+bip_39_word_space_0:
+- battle
+- door
+- afraid
+- success
+- film
+- aisle
+- patch
+- toe
+- couple
+- coyote
+- canvas
+- alpha
+bip_39_word_space_1: battle
+bip_39_word_space_10: battle door afraid success film aisle patch toe couple coyote
+bip_39_word_space_11: battle door afraid success film aisle patch toe couple coyote
+  canvas
+bip_39_word_space_12: battle door afraid success film aisle patch toe couple coyote
+  canvas alpha
+bip_39_word_space_2: battle door
+bip_39_word_space_3: battle door afraid
+bip_39_word_space_4: battle door afraid success
+bip_39_word_space_5: battle door afraid success film
+bip_39_word_space_6: battle door afraid success film aisle
+bip_39_word_space_7: battle door afraid success film aisle patch
+bip_39_word_space_8: battle door afraid success film aisle patch toe
+bip_39_word_space_9: battle door afraid success film aisle patch toe couple
+bip_39_word_underscore_1: battle
+bip_39_word_underscore_10: battle_door_afraid_success_film_aisle_patch_toe_couple_coyote
+bip_39_word_underscore_11: battle_door_afraid_success_film_aisle_patch_toe_couple_coyote_canvas
+bip_39_word_underscore_12: battle_door_afraid_success_film_aisle_patch_toe_couple_coyote_canvas_alpha
+bip_39_word_underscore_2: battle_door
+bip_39_word_underscore_3: battle_door_afraid
+bip_39_word_underscore_4: battle_door_afraid_success
+bip_39_word_underscore_5: battle_door_afraid_success_film
+bip_39_word_underscore_6: battle_door_afraid_success_film_aisle
+bip_39_word_underscore_7: battle_door_afraid_success_film_aisle_patch
+bip_39_word_underscore_8: battle_door_afraid_success_film_aisle_patch_toe
+bip_39_word_underscore_9: battle_door_afraid_success_film_aisle_patch_toe_couple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_06_27
 id_no_color: '020627'
 id_no_size: '02_06_27'
 id_no_type: tray_02_06_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_06_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dowc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dowc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dowc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020627'
 name_no_size: 02 06 27
 name_no_size_short: 02 06 27
 name_no_type: Tray 02 06 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_06_27
 oomp_word: squirrel elephant turtle
 oomp_word_emoji: ':squirrel: :elephant: :turtle:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boat
+bip_39_word_dash_10: boat-air-abstract-fold-protect-rescue-race-peanut-sort-deposit
+bip_39_word_dash_11: boat-air-abstract-fold-protect-rescue-race-peanut-sort-deposit-exchange
+bip_39_word_dash_12: boat-air-abstract-fold-protect-rescue-race-peanut-sort-deposit-exchange-ask
+bip_39_word_dash_2: boat-air
+bip_39_word_dash_3: boat-air-abstract
+bip_39_word_dash_4: boat-air-abstract-fold
+bip_39_word_dash_5: boat-air-abstract-fold-protect
+bip_39_word_dash_6: boat-air-abstract-fold-protect-rescue
+bip_39_word_dash_7: boat-air-abstract-fold-protect-rescue-race
+bip_39_word_dash_8: boat-air-abstract-fold-protect-rescue-race-peanut
+bip_39_word_dash_9: boat-air-abstract-fold-protect-rescue-race-peanut-sort
+bip_39_word_new_br_1: boat
+bip_39_word_new_br_10: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit
+bip_39_word_new_br_11: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange
+bip_39_word_new_br_12: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort<br>deposit<br>exchange<br>ask
+bip_39_word_new_br_2: boat<br>air
+bip_39_word_new_br_3: boat<br>air<br>abstract
+bip_39_word_new_br_4: boat<br>air<br>abstract<br>fold
+bip_39_word_new_br_5: boat<br>air<br>abstract<br>fold<br>protect
+bip_39_word_new_br_6: boat<br>air<br>abstract<br>fold<br>protect<br>rescue
+bip_39_word_new_br_7: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race
+bip_39_word_new_br_8: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut
+bip_39_word_new_br_9: boat<br>air<br>abstract<br>fold<br>protect<br>rescue<br>race<br>peanut<br>sort
+bip_39_word_new_line_1: boat
+bip_39_word_new_line_10: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race
+
+  peanut
+
+  sort
+
+  deposit'
+bip_39_word_new_line_11: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race
+
+  peanut
+
+  sort
+
+  deposit
+
+  exchange'
+bip_39_word_new_line_12: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race
+
+  peanut
+
+  sort
+
+  deposit
+
+  exchange
+
+  ask'
+bip_39_word_new_line_2: 'boat
+
+  air'
+bip_39_word_new_line_3: 'boat
+
+  air
+
+  abstract'
+bip_39_word_new_line_4: 'boat
+
+  air
+
+  abstract
+
+  fold'
+bip_39_word_new_line_5: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect'
+bip_39_word_new_line_6: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue'
+bip_39_word_new_line_7: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race'
+bip_39_word_new_line_8: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race
+
+  peanut'
+bip_39_word_new_line_9: 'boat
+
+  air
+
+  abstract
+
+  fold
+
+  protect
+
+  rescue
+
+  race
+
+  peanut
+
+  sort'
+bip_39_word_no_space_1: boat
+bip_39_word_no_space_10: boatairabstractfoldprotectrescueracepeanutsortdeposit
+bip_39_word_no_space_11: boatairabstractfoldprotectrescueracepeanutsortdepositexchange
+bip_39_word_no_space_12: boatairabstractfoldprotectrescueracepeanutsortdepositexchangeask
+bip_39_word_no_space_2: boatair
+bip_39_word_no_space_3: boatairabstract
+bip_39_word_no_space_4: boatairabstractfold
+bip_39_word_no_space_5: boatairabstractfoldprotect
+bip_39_word_no_space_6: boatairabstractfoldprotectrescue
+bip_39_word_no_space_7: boatairabstractfoldprotectrescuerace
+bip_39_word_no_space_8: boatairabstractfoldprotectrescueracepeanut
+bip_39_word_no_space_9: boatairabstractfoldprotectrescueracepeanutsort
+bip_39_word_space_0:
+- boat
+- air
+- abstract
+- fold
+- protect
+- rescue
+- race
+- peanut
+- sort
+- deposit
+- exchange
+- ask
+bip_39_word_space_1: boat
+bip_39_word_space_10: boat air abstract fold protect rescue race peanut sort deposit
+bip_39_word_space_11: boat air abstract fold protect rescue race peanut sort deposit
+  exchange
+bip_39_word_space_12: boat air abstract fold protect rescue race peanut sort deposit
+  exchange ask
+bip_39_word_space_2: boat air
+bip_39_word_space_3: boat air abstract
+bip_39_word_space_4: boat air abstract fold
+bip_39_word_space_5: boat air abstract fold protect
+bip_39_word_space_6: boat air abstract fold protect rescue
+bip_39_word_space_7: boat air abstract fold protect rescue race
+bip_39_word_space_8: boat air abstract fold protect rescue race peanut
+bip_39_word_space_9: boat air abstract fold protect rescue race peanut sort
+bip_39_word_underscore_1: boat
+bip_39_word_underscore_10: boat_air_abstract_fold_protect_rescue_race_peanut_sort_deposit
+bip_39_word_underscore_11: boat_air_abstract_fold_protect_rescue_race_peanut_sort_deposit_exchange
+bip_39_word_underscore_12: boat_air_abstract_fold_protect_rescue_race_peanut_sort_deposit_exchange_ask
+bip_39_word_underscore_2: boat_air
+bip_39_word_underscore_3: boat_air_abstract
+bip_39_word_underscore_4: boat_air_abstract_fold
+bip_39_word_underscore_5: boat_air_abstract_fold_protect
+bip_39_word_underscore_6: boat_air_abstract_fold_protect_rescue
+bip_39_word_underscore_7: boat_air_abstract_fold_protect_rescue_race
+bip_39_word_underscore_8: boat_air_abstract_fold_protect_rescue_race_peanut
+bip_39_word_underscore_9: boat_air_abstract_fold_protect_rescue_race_peanut_sort
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_03_15
 id_no_color: '130315'
 id_no_size: '13_03_15'
 id_no_type: tray_thin_13_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208angu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208angu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208angu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '130315'
 name_no_size: 13 03 15
 name_no_size_short: 13 03 15
 name_no_type: Tray Thin 13 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_03_15
 oomp_word: corn hearts honeybee
 oomp_word_emoji: ':corn: :hearts: :honeybee:'

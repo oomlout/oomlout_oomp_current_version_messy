@@ -1,3 +1,221 @@
+bip_39_word_dash_1: mail
+bip_39_word_dash_10: mail-away-select-shop-next-kid-absent-helmet-true-lend
+bip_39_word_dash_11: mail-away-select-shop-next-kid-absent-helmet-true-lend-sauce
+bip_39_word_dash_12: mail-away-select-shop-next-kid-absent-helmet-true-lend-sauce-aisle
+bip_39_word_dash_2: mail-away
+bip_39_word_dash_3: mail-away-select
+bip_39_word_dash_4: mail-away-select-shop
+bip_39_word_dash_5: mail-away-select-shop-next
+bip_39_word_dash_6: mail-away-select-shop-next-kid
+bip_39_word_dash_7: mail-away-select-shop-next-kid-absent
+bip_39_word_dash_8: mail-away-select-shop-next-kid-absent-helmet
+bip_39_word_dash_9: mail-away-select-shop-next-kid-absent-helmet-true
+bip_39_word_new_br_1: mail
+bip_39_word_new_br_10: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend
+bip_39_word_new_br_11: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce
+bip_39_word_new_br_12: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true<br>lend<br>sauce<br>aisle
+bip_39_word_new_br_2: mail<br>away
+bip_39_word_new_br_3: mail<br>away<br>select
+bip_39_word_new_br_4: mail<br>away<br>select<br>shop
+bip_39_word_new_br_5: mail<br>away<br>select<br>shop<br>next
+bip_39_word_new_br_6: mail<br>away<br>select<br>shop<br>next<br>kid
+bip_39_word_new_br_7: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent
+bip_39_word_new_br_8: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet
+bip_39_word_new_br_9: mail<br>away<br>select<br>shop<br>next<br>kid<br>absent<br>helmet<br>true
+bip_39_word_new_line_1: mail
+bip_39_word_new_line_10: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent
+
+  helmet
+
+  true
+
+  lend'
+bip_39_word_new_line_11: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent
+
+  helmet
+
+  true
+
+  lend
+
+  sauce'
+bip_39_word_new_line_12: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent
+
+  helmet
+
+  true
+
+  lend
+
+  sauce
+
+  aisle'
+bip_39_word_new_line_2: 'mail
+
+  away'
+bip_39_word_new_line_3: 'mail
+
+  away
+
+  select'
+bip_39_word_new_line_4: 'mail
+
+  away
+
+  select
+
+  shop'
+bip_39_word_new_line_5: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next'
+bip_39_word_new_line_6: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid'
+bip_39_word_new_line_7: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent'
+bip_39_word_new_line_8: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent
+
+  helmet'
+bip_39_word_new_line_9: 'mail
+
+  away
+
+  select
+
+  shop
+
+  next
+
+  kid
+
+  absent
+
+  helmet
+
+  true'
+bip_39_word_no_space_1: mail
+bip_39_word_no_space_10: mailawayselectshopnextkidabsenthelmettruelend
+bip_39_word_no_space_11: mailawayselectshopnextkidabsenthelmettruelendsauce
+bip_39_word_no_space_12: mailawayselectshopnextkidabsenthelmettruelendsauceaisle
+bip_39_word_no_space_2: mailaway
+bip_39_word_no_space_3: mailawayselect
+bip_39_word_no_space_4: mailawayselectshop
+bip_39_word_no_space_5: mailawayselectshopnext
+bip_39_word_no_space_6: mailawayselectshopnextkid
+bip_39_word_no_space_7: mailawayselectshopnextkidabsent
+bip_39_word_no_space_8: mailawayselectshopnextkidabsenthelmet
+bip_39_word_no_space_9: mailawayselectshopnextkidabsenthelmettrue
+bip_39_word_space_0:
+- mail
+- away
+- select
+- shop
+- next
+- kid
+- absent
+- helmet
+- 'true'
+- lend
+- sauce
+- aisle
+bip_39_word_space_1: mail
+bip_39_word_space_10: mail away select shop next kid absent helmet true lend
+bip_39_word_space_11: mail away select shop next kid absent helmet true lend sauce
+bip_39_word_space_12: mail away select shop next kid absent helmet true lend sauce
+  aisle
+bip_39_word_space_2: mail away
+bip_39_word_space_3: mail away select
+bip_39_word_space_4: mail away select shop
+bip_39_word_space_5: mail away select shop next
+bip_39_word_space_6: mail away select shop next kid
+bip_39_word_space_7: mail away select shop next kid absent
+bip_39_word_space_8: mail away select shop next kid absent helmet
+bip_39_word_space_9: mail away select shop next kid absent helmet true
+bip_39_word_underscore_1: mail
+bip_39_word_underscore_10: mail_away_select_shop_next_kid_absent_helmet_true_lend
+bip_39_word_underscore_11: mail_away_select_shop_next_kid_absent_helmet_true_lend_sauce
+bip_39_word_underscore_12: mail_away_select_shop_next_kid_absent_helmet_true_lend_sauce_aisle
+bip_39_word_underscore_2: mail_away
+bip_39_word_underscore_3: mail_away_select
+bip_39_word_underscore_4: mail_away_select_shop
+bip_39_word_underscore_5: mail_away_select_shop_next
+bip_39_word_underscore_6: mail_away_select_shop_next_kid
+bip_39_word_underscore_7: mail_away_select_shop_next_kid_absent
+bip_39_word_underscore_8: mail_away_select_shop_next_kid_absent_helmet
+bip_39_word_underscore_9: mail_away_select_shop_next_kid_absent_helmet_true
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_06_04_90
 id_no_color: 060490
 id_no_size: 06_04_90
 id_no_type: tray_thin_06_04_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_04_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203kisf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203kisf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203kisf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 060490
 name_no_size: 06 04 90
 name_no_size_short: 06 04 90
 name_no_type: Tray Thin 06 04 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_04_90
 oomp_word: rooster speaker princess
 oomp_word_emoji: ':rooster: :speaker: :princess:'

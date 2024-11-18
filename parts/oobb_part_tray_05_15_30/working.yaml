@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dolphin
+bip_39_word_dash_10: dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset
+bip_39_word_dash_11: dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset-soul
+bip_39_word_dash_12: dolphin-sea-eagle-orient-addict-timber-okay-reward-soft-sunset-soul-airport
+bip_39_word_dash_2: dolphin-sea
+bip_39_word_dash_3: dolphin-sea-eagle
+bip_39_word_dash_4: dolphin-sea-eagle-orient
+bip_39_word_dash_5: dolphin-sea-eagle-orient-addict
+bip_39_word_dash_6: dolphin-sea-eagle-orient-addict-timber
+bip_39_word_dash_7: dolphin-sea-eagle-orient-addict-timber-okay
+bip_39_word_dash_8: dolphin-sea-eagle-orient-addict-timber-okay-reward
+bip_39_word_dash_9: dolphin-sea-eagle-orient-addict-timber-okay-reward-soft
+bip_39_word_new_br_1: dolphin
+bip_39_word_new_br_10: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset
+bip_39_word_new_br_11: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset<br>soul
+bip_39_word_new_br_12: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft<br>sunset<br>soul<br>airport
+bip_39_word_new_br_2: dolphin<br>sea
+bip_39_word_new_br_3: dolphin<br>sea<br>eagle
+bip_39_word_new_br_4: dolphin<br>sea<br>eagle<br>orient
+bip_39_word_new_br_5: dolphin<br>sea<br>eagle<br>orient<br>addict
+bip_39_word_new_br_6: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber
+bip_39_word_new_br_7: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay
+bip_39_word_new_br_8: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward
+bip_39_word_new_br_9: dolphin<br>sea<br>eagle<br>orient<br>addict<br>timber<br>okay<br>reward<br>soft
+bip_39_word_new_line_1: dolphin
+bip_39_word_new_line_10: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay
+
+  reward
+
+  soft
+
+  sunset'
+bip_39_word_new_line_11: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay
+
+  reward
+
+  soft
+
+  sunset
+
+  soul'
+bip_39_word_new_line_12: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay
+
+  reward
+
+  soft
+
+  sunset
+
+  soul
+
+  airport'
+bip_39_word_new_line_2: 'dolphin
+
+  sea'
+bip_39_word_new_line_3: 'dolphin
+
+  sea
+
+  eagle'
+bip_39_word_new_line_4: 'dolphin
+
+  sea
+
+  eagle
+
+  orient'
+bip_39_word_new_line_5: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict'
+bip_39_word_new_line_6: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber'
+bip_39_word_new_line_7: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay'
+bip_39_word_new_line_8: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay
+
+  reward'
+bip_39_word_new_line_9: 'dolphin
+
+  sea
+
+  eagle
+
+  orient
+
+  addict
+
+  timber
+
+  okay
+
+  reward
+
+  soft'
+bip_39_word_no_space_1: dolphin
+bip_39_word_no_space_10: dolphinseaeagleorientaddicttimberokayrewardsoftsunset
+bip_39_word_no_space_11: dolphinseaeagleorientaddicttimberokayrewardsoftsunsetsoul
+bip_39_word_no_space_12: dolphinseaeagleorientaddicttimberokayrewardsoftsunsetsoulairport
+bip_39_word_no_space_2: dolphinsea
+bip_39_word_no_space_3: dolphinseaeagle
+bip_39_word_no_space_4: dolphinseaeagleorient
+bip_39_word_no_space_5: dolphinseaeagleorientaddict
+bip_39_word_no_space_6: dolphinseaeagleorientaddicttimber
+bip_39_word_no_space_7: dolphinseaeagleorientaddicttimberokay
+bip_39_word_no_space_8: dolphinseaeagleorientaddicttimberokayreward
+bip_39_word_no_space_9: dolphinseaeagleorientaddicttimberokayrewardsoft
+bip_39_word_space_0:
+- dolphin
+- sea
+- eagle
+- orient
+- addict
+- timber
+- okay
+- reward
+- soft
+- sunset
+- soul
+- airport
+bip_39_word_space_1: dolphin
+bip_39_word_space_10: dolphin sea eagle orient addict timber okay reward soft sunset
+bip_39_word_space_11: dolphin sea eagle orient addict timber okay reward soft sunset
+  soul
+bip_39_word_space_12: dolphin sea eagle orient addict timber okay reward soft sunset
+  soul airport
+bip_39_word_space_2: dolphin sea
+bip_39_word_space_3: dolphin sea eagle
+bip_39_word_space_4: dolphin sea eagle orient
+bip_39_word_space_5: dolphin sea eagle orient addict
+bip_39_word_space_6: dolphin sea eagle orient addict timber
+bip_39_word_space_7: dolphin sea eagle orient addict timber okay
+bip_39_word_space_8: dolphin sea eagle orient addict timber okay reward
+bip_39_word_space_9: dolphin sea eagle orient addict timber okay reward soft
+bip_39_word_underscore_1: dolphin
+bip_39_word_underscore_10: dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset
+bip_39_word_underscore_11: dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset_soul
+bip_39_word_underscore_12: dolphin_sea_eagle_orient_addict_timber_okay_reward_soft_sunset_soul_airport
+bip_39_word_underscore_2: dolphin_sea
+bip_39_word_underscore_3: dolphin_sea_eagle
+bip_39_word_underscore_4: dolphin_sea_eagle_orient
+bip_39_word_underscore_5: dolphin_sea_eagle_orient_addict
+bip_39_word_underscore_6: dolphin_sea_eagle_orient_addict_timber
+bip_39_word_underscore_7: dolphin_sea_eagle_orient_addict_timber_okay
+bip_39_word_underscore_8: dolphin_sea_eagle_orient_addict_timber_okay_reward
+bip_39_word_underscore_9: dolphin_sea_eagle_orient_addict_timber_okay_reward_soft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_15_30
 id_no_color: '051530'
 id_no_size: '05_15_30'
 id_no_type: tray_05_15_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_15_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_15_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_15_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203hw1i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203hw1i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203hw1i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '051530'
 name_no_size: 05 15 30
 name_no_size_short: 05 15 30
 name_no_type: Tray 05 15 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_15_30
 oomp_word: dragon diamonds santa
 oomp_word_emoji: ':dragon: :diamonds: :santa:'

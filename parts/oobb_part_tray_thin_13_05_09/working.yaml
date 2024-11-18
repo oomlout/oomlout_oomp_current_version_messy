@@ -1,3 +1,221 @@
+bip_39_word_dash_1: canoe
+bip_39_word_dash_10: canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike
+bip_39_word_dash_11: canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike-vanish
+bip_39_word_dash_12: canoe-gasp-host-steak-exit-fun-kite-warrior-salmon-strike-vanish-art
+bip_39_word_dash_2: canoe-gasp
+bip_39_word_dash_3: canoe-gasp-host
+bip_39_word_dash_4: canoe-gasp-host-steak
+bip_39_word_dash_5: canoe-gasp-host-steak-exit
+bip_39_word_dash_6: canoe-gasp-host-steak-exit-fun
+bip_39_word_dash_7: canoe-gasp-host-steak-exit-fun-kite
+bip_39_word_dash_8: canoe-gasp-host-steak-exit-fun-kite-warrior
+bip_39_word_dash_9: canoe-gasp-host-steak-exit-fun-kite-warrior-salmon
+bip_39_word_new_br_1: canoe
+bip_39_word_new_br_10: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike
+bip_39_word_new_br_11: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish
+bip_39_word_new_br_12: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon<br>strike<br>vanish<br>art
+bip_39_word_new_br_2: canoe<br>gasp
+bip_39_word_new_br_3: canoe<br>gasp<br>host
+bip_39_word_new_br_4: canoe<br>gasp<br>host<br>steak
+bip_39_word_new_br_5: canoe<br>gasp<br>host<br>steak<br>exit
+bip_39_word_new_br_6: canoe<br>gasp<br>host<br>steak<br>exit<br>fun
+bip_39_word_new_br_7: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite
+bip_39_word_new_br_8: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior
+bip_39_word_new_br_9: canoe<br>gasp<br>host<br>steak<br>exit<br>fun<br>kite<br>warrior<br>salmon
+bip_39_word_new_line_1: canoe
+bip_39_word_new_line_10: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite
+
+  warrior
+
+  salmon
+
+  strike'
+bip_39_word_new_line_11: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite
+
+  warrior
+
+  salmon
+
+  strike
+
+  vanish'
+bip_39_word_new_line_12: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite
+
+  warrior
+
+  salmon
+
+  strike
+
+  vanish
+
+  art'
+bip_39_word_new_line_2: 'canoe
+
+  gasp'
+bip_39_word_new_line_3: 'canoe
+
+  gasp
+
+  host'
+bip_39_word_new_line_4: 'canoe
+
+  gasp
+
+  host
+
+  steak'
+bip_39_word_new_line_5: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit'
+bip_39_word_new_line_6: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun'
+bip_39_word_new_line_7: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite'
+bip_39_word_new_line_8: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite
+
+  warrior'
+bip_39_word_new_line_9: 'canoe
+
+  gasp
+
+  host
+
+  steak
+
+  exit
+
+  fun
+
+  kite
+
+  warrior
+
+  salmon'
+bip_39_word_no_space_1: canoe
+bip_39_word_no_space_10: canoegasphoststeakexitfunkitewarriorsalmonstrike
+bip_39_word_no_space_11: canoegasphoststeakexitfunkitewarriorsalmonstrikevanish
+bip_39_word_no_space_12: canoegasphoststeakexitfunkitewarriorsalmonstrikevanishart
+bip_39_word_no_space_2: canoegasp
+bip_39_word_no_space_3: canoegasphost
+bip_39_word_no_space_4: canoegasphoststeak
+bip_39_word_no_space_5: canoegasphoststeakexit
+bip_39_word_no_space_6: canoegasphoststeakexitfun
+bip_39_word_no_space_7: canoegasphoststeakexitfunkite
+bip_39_word_no_space_8: canoegasphoststeakexitfunkitewarrior
+bip_39_word_no_space_9: canoegasphoststeakexitfunkitewarriorsalmon
+bip_39_word_space_0:
+- canoe
+- gasp
+- host
+- steak
+- exit
+- fun
+- kite
+- warrior
+- salmon
+- strike
+- vanish
+- art
+bip_39_word_space_1: canoe
+bip_39_word_space_10: canoe gasp host steak exit fun kite warrior salmon strike
+bip_39_word_space_11: canoe gasp host steak exit fun kite warrior salmon strike vanish
+bip_39_word_space_12: canoe gasp host steak exit fun kite warrior salmon strike vanish
+  art
+bip_39_word_space_2: canoe gasp
+bip_39_word_space_3: canoe gasp host
+bip_39_word_space_4: canoe gasp host steak
+bip_39_word_space_5: canoe gasp host steak exit
+bip_39_word_space_6: canoe gasp host steak exit fun
+bip_39_word_space_7: canoe gasp host steak exit fun kite
+bip_39_word_space_8: canoe gasp host steak exit fun kite warrior
+bip_39_word_space_9: canoe gasp host steak exit fun kite warrior salmon
+bip_39_word_underscore_1: canoe
+bip_39_word_underscore_10: canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike
+bip_39_word_underscore_11: canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike_vanish
+bip_39_word_underscore_12: canoe_gasp_host_steak_exit_fun_kite_warrior_salmon_strike_vanish_art
+bip_39_word_underscore_2: canoe_gasp
+bip_39_word_underscore_3: canoe_gasp_host
+bip_39_word_underscore_4: canoe_gasp_host_steak
+bip_39_word_underscore_5: canoe_gasp_host_steak_exit
+bip_39_word_underscore_6: canoe_gasp_host_steak_exit_fun
+bip_39_word_underscore_7: canoe_gasp_host_steak_exit_fun_kite
+bip_39_word_underscore_8: canoe_gasp_host_steak_exit_fun_kite_warrior
+bip_39_word_underscore_9: canoe_gasp_host_steak_exit_fun_kite_warrior_salmon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_13_05_09
 id_no_color: '130509'
 id_no_size: '13_05_09'
 id_no_type: tray_thin_13_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2081779
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2081779
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2081779
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '130509'
 name_no_size: 13 05 09
 name_no_size_short: 13 05 09
 name_no_type: Tray Thin 13 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_05_09
 oomp_word: strawberry sailboat tea
 oomp_word_emoji: ':strawberry: :sailboat: :tea:'

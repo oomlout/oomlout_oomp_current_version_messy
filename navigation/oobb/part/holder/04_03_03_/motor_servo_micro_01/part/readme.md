@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 04 03 03  Motor Servo Micro 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_04_03_03__motor_servo_micro_01
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sunglasses: :pear: :bowtie:
 * md5_6_alpha: glj4
 * md5_6: 0bd100
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20glj4)
+[2x1](http://192.168.1.242:1112/?label=oomp%20glj4)
+[6x4](http://192.168.1.55:1112/?label=oomp%20glj4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_04_03_03__motor_servo_micro_01) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_04_03_03__motor_servo_micro_01)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ rigid |
 | id_no_color | 040303motorservomicro01 |  
 | id_no_size | 04_03_03__motor_servo_micro_01 |  
 | id_no_type | holder_04_03_03__motor_servo_micro_01 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_04_03_03__motor_servo_micro_01 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_04_03_03__motor_servo_micro_01 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_04_03_03__motor_servo_micro_01 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20glj4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20glj4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20glj4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ rigid |
 | name_no_size | 04 03 03  Motor Servo Micro 01 |  
 | name_no_size_short | 04 03 03  Motor Servo Micro 01 |  
 | name_no_type | Holder 04 03 03  Motor Servo Micro 01 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_04_03_03__motor_servo_micro_01 |  
 | oomp_word | sunglasses pear bowtie |  
 | oomp_word_emoji | :sunglasses: :pear: :bowtie: |  

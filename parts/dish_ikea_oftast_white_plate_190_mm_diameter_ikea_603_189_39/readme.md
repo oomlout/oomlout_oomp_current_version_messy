@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Plate 190 mm Diameter Ikea 603 189 39
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_plate_190_mm_diameter_ikea_603_189_39
   * classification: dish

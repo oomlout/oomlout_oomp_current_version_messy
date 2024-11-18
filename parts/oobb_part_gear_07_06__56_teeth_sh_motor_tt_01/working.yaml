@@ -1,3 +1,222 @@
+bip_39_word_dash_1: patch
+bip_39_word_dash_10: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury
+bip_39_word_dash_11: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury-cup
+bip_39_word_dash_12: patch-echo-lens-choose-float-resource-snow-globe-unveil-luxury-cup-area
+bip_39_word_dash_2: patch-echo
+bip_39_word_dash_3: patch-echo-lens
+bip_39_word_dash_4: patch-echo-lens-choose
+bip_39_word_dash_5: patch-echo-lens-choose-float
+bip_39_word_dash_6: patch-echo-lens-choose-float-resource
+bip_39_word_dash_7: patch-echo-lens-choose-float-resource-snow
+bip_39_word_dash_8: patch-echo-lens-choose-float-resource-snow-globe
+bip_39_word_dash_9: patch-echo-lens-choose-float-resource-snow-globe-unveil
+bip_39_word_new_br_1: patch
+bip_39_word_new_br_10: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury
+bip_39_word_new_br_11: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury<br>cup
+bip_39_word_new_br_12: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil<br>luxury<br>cup<br>area
+bip_39_word_new_br_2: patch<br>echo
+bip_39_word_new_br_3: patch<br>echo<br>lens
+bip_39_word_new_br_4: patch<br>echo<br>lens<br>choose
+bip_39_word_new_br_5: patch<br>echo<br>lens<br>choose<br>float
+bip_39_word_new_br_6: patch<br>echo<br>lens<br>choose<br>float<br>resource
+bip_39_word_new_br_7: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow
+bip_39_word_new_br_8: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe
+bip_39_word_new_br_9: patch<br>echo<br>lens<br>choose<br>float<br>resource<br>snow<br>globe<br>unveil
+bip_39_word_new_line_1: patch
+bip_39_word_new_line_10: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow
+
+  globe
+
+  unveil
+
+  luxury'
+bip_39_word_new_line_11: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow
+
+  globe
+
+  unveil
+
+  luxury
+
+  cup'
+bip_39_word_new_line_12: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow
+
+  globe
+
+  unveil
+
+  luxury
+
+  cup
+
+  area'
+bip_39_word_new_line_2: 'patch
+
+  echo'
+bip_39_word_new_line_3: 'patch
+
+  echo
+
+  lens'
+bip_39_word_new_line_4: 'patch
+
+  echo
+
+  lens
+
+  choose'
+bip_39_word_new_line_5: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float'
+bip_39_word_new_line_6: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource'
+bip_39_word_new_line_7: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow'
+bip_39_word_new_line_8: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow
+
+  globe'
+bip_39_word_new_line_9: 'patch
+
+  echo
+
+  lens
+
+  choose
+
+  float
+
+  resource
+
+  snow
+
+  globe
+
+  unveil'
+bip_39_word_no_space_1: patch
+bip_39_word_no_space_10: patchecholenschoosefloatresourcesnowglobeunveilluxury
+bip_39_word_no_space_11: patchecholenschoosefloatresourcesnowglobeunveilluxurycup
+bip_39_word_no_space_12: patchecholenschoosefloatresourcesnowglobeunveilluxurycuparea
+bip_39_word_no_space_2: patchecho
+bip_39_word_no_space_3: patchecholens
+bip_39_word_no_space_4: patchecholenschoose
+bip_39_word_no_space_5: patchecholenschoosefloat
+bip_39_word_no_space_6: patchecholenschoosefloatresource
+bip_39_word_no_space_7: patchecholenschoosefloatresourcesnow
+bip_39_word_no_space_8: patchecholenschoosefloatresourcesnowglobe
+bip_39_word_no_space_9: patchecholenschoosefloatresourcesnowglobeunveil
+bip_39_word_space_0:
+- patch
+- echo
+- lens
+- choose
+- float
+- resource
+- snow
+- globe
+- unveil
+- luxury
+- cup
+- area
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch echo lens choose float resource snow globe unveil luxury
+bip_39_word_space_11: patch echo lens choose float resource snow globe unveil luxury
+  cup
+bip_39_word_space_12: patch echo lens choose float resource snow globe unveil luxury
+  cup area
+bip_39_word_space_2: patch echo
+bip_39_word_space_3: patch echo lens
+bip_39_word_space_4: patch echo lens choose
+bip_39_word_space_5: patch echo lens choose float
+bip_39_word_space_6: patch echo lens choose float resource
+bip_39_word_space_7: patch echo lens choose float resource snow
+bip_39_word_space_8: patch echo lens choose float resource snow globe
+bip_39_word_space_9: patch echo lens choose float resource snow globe unveil
+bip_39_word_underscore_1: patch
+bip_39_word_underscore_10: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury
+bip_39_word_underscore_11: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury_cup
+bip_39_word_underscore_12: patch_echo_lens_choose_float_resource_snow_globe_unveil_luxury_cup_area
+bip_39_word_underscore_2: patch_echo
+bip_39_word_underscore_3: patch_echo_lens
+bip_39_word_underscore_4: patch_echo_lens_choose
+bip_39_word_underscore_5: patch_echo_lens_choose_float
+bip_39_word_underscore_6: patch_echo_lens_choose_float_resource
+bip_39_word_underscore_7: patch_echo_lens_choose_float_resource_snow
+bip_39_word_underscore_8: patch_echo_lens_choose_float_resource_snow_globe
+bip_39_word_underscore_9: patch_echo_lens_choose_float_resource_snow_globe_unveil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_07_06__56_teeth_sh_motor_tt_01
 id_no_color: 070656teethshmotortt01
 id_no_size: 07_06__56_teeth_sh_motor_tt_01
 id_no_type: gear_07_06__56_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_06__56_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2071ffl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2071ffl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2071ffl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 070656Teethshmotortt01
 name_no_size: 07 06  56 Teeth Sh Motor Tt 01
 name_no_size_short: 07 06  56 Teeth Sh Motor Tt 01
 name_no_type: Gear 07 06  56 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_06__56_teeth_sh_motor_tt_01
 oomp_word: coffee chestnut bouquet
 oomp_word_emoji: ':coffee: :chestnut: :bouquet:'

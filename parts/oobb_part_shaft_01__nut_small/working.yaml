@@ -1,3 +1,223 @@
+bip_39_word_dash_1: damp
+bip_39_word_dash_10: damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution
+bip_39_word_dash_11: damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution-radio
+bip_39_word_dash_12: damp-history-proud-slight-dinner-damage-ship-gorilla-island-solution-radio-auction
+bip_39_word_dash_2: damp-history
+bip_39_word_dash_3: damp-history-proud
+bip_39_word_dash_4: damp-history-proud-slight
+bip_39_word_dash_5: damp-history-proud-slight-dinner
+bip_39_word_dash_6: damp-history-proud-slight-dinner-damage
+bip_39_word_dash_7: damp-history-proud-slight-dinner-damage-ship
+bip_39_word_dash_8: damp-history-proud-slight-dinner-damage-ship-gorilla
+bip_39_word_dash_9: damp-history-proud-slight-dinner-damage-ship-gorilla-island
+bip_39_word_new_br_1: damp
+bip_39_word_new_br_10: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution
+bip_39_word_new_br_11: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio
+bip_39_word_new_br_12: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island<br>solution<br>radio<br>auction
+bip_39_word_new_br_2: damp<br>history
+bip_39_word_new_br_3: damp<br>history<br>proud
+bip_39_word_new_br_4: damp<br>history<br>proud<br>slight
+bip_39_word_new_br_5: damp<br>history<br>proud<br>slight<br>dinner
+bip_39_word_new_br_6: damp<br>history<br>proud<br>slight<br>dinner<br>damage
+bip_39_word_new_br_7: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship
+bip_39_word_new_br_8: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla
+bip_39_word_new_br_9: damp<br>history<br>proud<br>slight<br>dinner<br>damage<br>ship<br>gorilla<br>island
+bip_39_word_new_line_1: damp
+bip_39_word_new_line_10: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship
+
+  gorilla
+
+  island
+
+  solution'
+bip_39_word_new_line_11: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship
+
+  gorilla
+
+  island
+
+  solution
+
+  radio'
+bip_39_word_new_line_12: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship
+
+  gorilla
+
+  island
+
+  solution
+
+  radio
+
+  auction'
+bip_39_word_new_line_2: 'damp
+
+  history'
+bip_39_word_new_line_3: 'damp
+
+  history
+
+  proud'
+bip_39_word_new_line_4: 'damp
+
+  history
+
+  proud
+
+  slight'
+bip_39_word_new_line_5: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner'
+bip_39_word_new_line_6: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage'
+bip_39_word_new_line_7: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship'
+bip_39_word_new_line_8: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship
+
+  gorilla'
+bip_39_word_new_line_9: 'damp
+
+  history
+
+  proud
+
+  slight
+
+  dinner
+
+  damage
+
+  ship
+
+  gorilla
+
+  island'
+bip_39_word_no_space_1: damp
+bip_39_word_no_space_10: damphistoryproudslightdinnerdamageshipgorillaislandsolution
+bip_39_word_no_space_11: damphistoryproudslightdinnerdamageshipgorillaislandsolutionradio
+bip_39_word_no_space_12: damphistoryproudslightdinnerdamageshipgorillaislandsolutionradioauction
+bip_39_word_no_space_2: damphistory
+bip_39_word_no_space_3: damphistoryproud
+bip_39_word_no_space_4: damphistoryproudslight
+bip_39_word_no_space_5: damphistoryproudslightdinner
+bip_39_word_no_space_6: damphistoryproudslightdinnerdamage
+bip_39_word_no_space_7: damphistoryproudslightdinnerdamageship
+bip_39_word_no_space_8: damphistoryproudslightdinnerdamageshipgorilla
+bip_39_word_no_space_9: damphistoryproudslightdinnerdamageshipgorillaisland
+bip_39_word_space_0:
+- damp
+- history
+- proud
+- slight
+- dinner
+- damage
+- ship
+- gorilla
+- island
+- solution
+- radio
+- auction
+bip_39_word_space_1: damp
+bip_39_word_space_10: damp history proud slight dinner damage ship gorilla island
+  solution
+bip_39_word_space_11: damp history proud slight dinner damage ship gorilla island
+  solution radio
+bip_39_word_space_12: damp history proud slight dinner damage ship gorilla island
+  solution radio auction
+bip_39_word_space_2: damp history
+bip_39_word_space_3: damp history proud
+bip_39_word_space_4: damp history proud slight
+bip_39_word_space_5: damp history proud slight dinner
+bip_39_word_space_6: damp history proud slight dinner damage
+bip_39_word_space_7: damp history proud slight dinner damage ship
+bip_39_word_space_8: damp history proud slight dinner damage ship gorilla
+bip_39_word_space_9: damp history proud slight dinner damage ship gorilla island
+bip_39_word_underscore_1: damp
+bip_39_word_underscore_10: damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution
+bip_39_word_underscore_11: damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution_radio
+bip_39_word_underscore_12: damp_history_proud_slight_dinner_damage_ship_gorilla_island_solution_radio_auction
+bip_39_word_underscore_2: damp_history
+bip_39_word_underscore_3: damp_history_proud
+bip_39_word_underscore_4: damp_history_proud_slight
+bip_39_word_underscore_5: damp_history_proud_slight_dinner
+bip_39_word_underscore_6: damp_history_proud_slight_dinner_damage
+bip_39_word_underscore_7: damp_history_proud_slight_dinner_damage_ship
+bip_39_word_underscore_8: damp_history_proud_slight_dinner_damage_ship_gorilla
+bip_39_word_underscore_9: damp_history_proud_slight_dinner_damage_ship_gorilla_island
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_shaft_01__nut_small
 id_no_color: 01nutsmall
 id_no_size: 01__nut_small
 id_no_type: shaft_01__nut_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__nut_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_01__nut_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_01__nut_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209c90z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209c90z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209c90z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 01Nutsmall
 name_no_size: 01  Nut Small
 name_no_size_short: 1  Nut Small
 name_no_type: Shaft 01  Nut Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_01__nut_small
 oomp_word: truck bouquet eyeglasses
 oomp_word_emoji: ':truck: :bouquet: :eyeglasses:'

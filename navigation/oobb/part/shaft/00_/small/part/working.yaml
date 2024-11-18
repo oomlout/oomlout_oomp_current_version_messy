@@ -326,7 +326,14 @@ id_no_class: part_shaft_00__small
 id_no_color: 00small
 id_no_size: 00__small
 id_no_type: shaft_00__small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_00__small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_00__small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209qb63
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209qb63
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209qb63
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -352,6 +359,7 @@ name_no_color: 00Small
 name_no_size: 00  Small
 name_no_size_short: 00  Small
 name_no_type: Shaft 00  Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_00__small
 oomp_word: eight sunflower sunglasses
 oomp_word_emoji: ':eight: :sunflower: :sunglasses:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Socket Cap M4 Black 65 mm Length Hex Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_socket_cap_m4_black_65_mm_length_hex_head
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rose: :bouquet: :bamboo:
 * md5_6_alpha: 3vlgx
 * md5_6: 636171
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203vlgx)
+[2x1](http://192.168.1.242:1112/?label=oomp%203vlgx)
+[6x4](http://192.168.1.55:1112/?label=oomp%203vlgx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour)                            
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.1944 | 0.1944 | 0.108 | 0.0864 | 0.0864 |
+| orbital_fasteners | 0.1944 | 0.1944 | 0.108 | 0.0864 | 0.0864 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -307,7 +349,20 @@ crowd |
 | id_no_size | black_65_mm_length_hex_head |  
 | id_no_type | m4_black_65_mm_length_hex_head |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m4-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m4-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-x-65-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_65_mm_length_hex_head |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203vlgx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203vlgx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203vlgx |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -349,6 +404,7 @@ crowd |
 | oomlout_bolt_size | M4 |  
 | oomlout_bolt_type | Socket Cap |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | sc4b65h |  
 | oomlout_short_code_upper | SC4B65H |  
 | oomp_id | hardware_screw_socket_cap_m4_black_65_mm_length_hex_head |  
@@ -368,12 +424,22 @@ crowd |
 | price_100 | 0.1944 |  
 | price_1000 | 0.0864 |  
 | price_10000 | 0.0864 |  
+| price_10000_distributor_1 | 0.0864 |  
 | price_10000_distributor_orbital_fasteners | 0.0864 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0864 |  
 | price_1000_distributor_orbital_fasteners | 0.0864 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.1944 |  
 | price_100_distributor_orbital_fasteners | 0.1944 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.1944 |  
 | price_1_distributor_orbital_fasteners | 0.1944 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.108 |  
+| price_200_distributor_1 | 0.108 |  
 | price_200_distributor_orbital_fasteners | 0.108 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.108 |  
 | quantity_current | 200 |  
 | short_code | sc4b65h |  

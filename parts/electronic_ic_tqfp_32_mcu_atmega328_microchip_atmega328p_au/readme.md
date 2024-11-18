@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Tqfp 32 MCU Atmega328 Microchip Atmega328P Au
+* name_short: 
 ### id
 * oomp_id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
   * classification: electronic

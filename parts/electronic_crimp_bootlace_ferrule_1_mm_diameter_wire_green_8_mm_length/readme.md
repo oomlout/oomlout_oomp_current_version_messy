@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Green 8 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_green_8_mm_length
   * classification: electronic

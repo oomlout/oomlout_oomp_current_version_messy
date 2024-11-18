@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Company Oomlout Product Prototyping Tin Hardware Screw Socket Cap M3 Black Hex Head Version 1
+* name_short: 
 ### id
 * oomp_id: company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
   * classification: company_oomlout

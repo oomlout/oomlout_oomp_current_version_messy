@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Wool Sphere
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_wool_sphere
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :leopard: :hearts: :squirrel:
 * md5_6_alpha: 3qb1s
 * md5_6: 5f9d70
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203qb1s)
+[2x1](http://192.168.1.242:1112/?label=oomp%203qb1s)
+[6x4](http://192.168.1.55:1112/?label=oomp%203qb1s)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wool_sphere) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_wool_sphere)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ moment |
 | id_no_color | wool_sphere |  
 | id_no_size | wool_sphere |  
 | id_no_type | oomlout_oomlout_wool_sphere |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wool_sphere |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_wool_sphere |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wool_sphere |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203qb1s |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203qb1s |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203qb1s |  
 | link_redirect | https://github.com/oomlout/oomlout_wool_sphere |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ moment |
 | name_no_size | Wool Sphere |  
 | name_no_size_short | Wool Sphere |  
 | name_no_type | Oomlout Oomlout Wool Sphere |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_wool_sphere |  
 | oomp_word | leopard hearts squirrel |  
 | oomp_word_emoji | :leopard: :hearts: :squirrel: |  

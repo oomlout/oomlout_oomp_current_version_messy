@@ -1,3 +1,222 @@
+bip_39_word_dash_1: poet
+bip_39_word_dash_10: poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain
+bip_39_word_dash_11: poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain-various
+bip_39_word_dash_12: poet-orange-jungle-nation-sword-unhappy-merry-style-raw-remain-various-attack
+bip_39_word_dash_2: poet-orange
+bip_39_word_dash_3: poet-orange-jungle
+bip_39_word_dash_4: poet-orange-jungle-nation
+bip_39_word_dash_5: poet-orange-jungle-nation-sword
+bip_39_word_dash_6: poet-orange-jungle-nation-sword-unhappy
+bip_39_word_dash_7: poet-orange-jungle-nation-sword-unhappy-merry
+bip_39_word_dash_8: poet-orange-jungle-nation-sword-unhappy-merry-style
+bip_39_word_dash_9: poet-orange-jungle-nation-sword-unhappy-merry-style-raw
+bip_39_word_new_br_1: poet
+bip_39_word_new_br_10: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw<br>remain
+bip_39_word_new_br_11: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw<br>remain<br>various
+bip_39_word_new_br_12: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw<br>remain<br>various<br>attack
+bip_39_word_new_br_2: poet<br>orange
+bip_39_word_new_br_3: poet<br>orange<br>jungle
+bip_39_word_new_br_4: poet<br>orange<br>jungle<br>nation
+bip_39_word_new_br_5: poet<br>orange<br>jungle<br>nation<br>sword
+bip_39_word_new_br_6: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy
+bip_39_word_new_br_7: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry
+bip_39_word_new_br_8: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style
+bip_39_word_new_br_9: poet<br>orange<br>jungle<br>nation<br>sword<br>unhappy<br>merry<br>style<br>raw
+bip_39_word_new_line_1: poet
+bip_39_word_new_line_10: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry
+
+  style
+
+  raw
+
+  remain'
+bip_39_word_new_line_11: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry
+
+  style
+
+  raw
+
+  remain
+
+  various'
+bip_39_word_new_line_12: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry
+
+  style
+
+  raw
+
+  remain
+
+  various
+
+  attack'
+bip_39_word_new_line_2: 'poet
+
+  orange'
+bip_39_word_new_line_3: 'poet
+
+  orange
+
+  jungle'
+bip_39_word_new_line_4: 'poet
+
+  orange
+
+  jungle
+
+  nation'
+bip_39_word_new_line_5: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword'
+bip_39_word_new_line_6: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy'
+bip_39_word_new_line_7: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry'
+bip_39_word_new_line_8: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry
+
+  style'
+bip_39_word_new_line_9: 'poet
+
+  orange
+
+  jungle
+
+  nation
+
+  sword
+
+  unhappy
+
+  merry
+
+  style
+
+  raw'
+bip_39_word_no_space_1: poet
+bip_39_word_no_space_10: poetorangejunglenationswordunhappymerrystylerawremain
+bip_39_word_no_space_11: poetorangejunglenationswordunhappymerrystylerawremainvarious
+bip_39_word_no_space_12: poetorangejunglenationswordunhappymerrystylerawremainvariousattack
+bip_39_word_no_space_2: poetorange
+bip_39_word_no_space_3: poetorangejungle
+bip_39_word_no_space_4: poetorangejunglenation
+bip_39_word_no_space_5: poetorangejunglenationsword
+bip_39_word_no_space_6: poetorangejunglenationswordunhappy
+bip_39_word_no_space_7: poetorangejunglenationswordunhappymerry
+bip_39_word_no_space_8: poetorangejunglenationswordunhappymerrystyle
+bip_39_word_no_space_9: poetorangejunglenationswordunhappymerrystyleraw
+bip_39_word_space_0:
+- poet
+- orange
+- jungle
+- nation
+- sword
+- unhappy
+- merry
+- style
+- raw
+- remain
+- various
+- attack
+bip_39_word_space_1: poet
+bip_39_word_space_10: poet orange jungle nation sword unhappy merry style raw remain
+bip_39_word_space_11: poet orange jungle nation sword unhappy merry style raw remain
+  various
+bip_39_word_space_12: poet orange jungle nation sword unhappy merry style raw remain
+  various attack
+bip_39_word_space_2: poet orange
+bip_39_word_space_3: poet orange jungle
+bip_39_word_space_4: poet orange jungle nation
+bip_39_word_space_5: poet orange jungle nation sword
+bip_39_word_space_6: poet orange jungle nation sword unhappy
+bip_39_word_space_7: poet orange jungle nation sword unhappy merry
+bip_39_word_space_8: poet orange jungle nation sword unhappy merry style
+bip_39_word_space_9: poet orange jungle nation sword unhappy merry style raw
+bip_39_word_underscore_1: poet
+bip_39_word_underscore_10: poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain
+bip_39_word_underscore_11: poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain_various
+bip_39_word_underscore_12: poet_orange_jungle_nation_sword_unhappy_merry_style_raw_remain_various_attack
+bip_39_word_underscore_2: poet_orange
+bip_39_word_underscore_3: poet_orange_jungle
+bip_39_word_underscore_4: poet_orange_jungle_nation
+bip_39_word_underscore_5: poet_orange_jungle_nation_sword
+bip_39_word_underscore_6: poet_orange_jungle_nation_sword_unhappy
+bip_39_word_underscore_7: poet_orange_jungle_nation_sword_unhappy_merry
+bip_39_word_underscore_8: poet_orange_jungle_nation_sword_unhappy_merry_style
+bip_39_word_underscore_9: poet_orange_jungle_nation_sword_unhappy_merry_style_raw
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 id_no_color: 12_mm_id_28_mm_od_8_mm_depth
 id_no_size: 6001_size_12_mm_id_28_mm_od_8_mm_depth
 id_no_type: 6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2091q25
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2091q25
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2091q25
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 12 mm ID 28 mm OD 8 mm Depth
 name_no_size: 6001 Size 12 mm ID 28 mm OD 8 mm Depth
 name_no_size_short: 6001 Size 12 Mm Id 28 Mm Od 8 Mm Depth
 name_no_type: 6000 Series 6001 Size 12 mm ID 28 mm OD 8 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6001
+oomlout_short_code_upper: BR6001
 oomp_key: oomp_hardware_bearing_6000_series_6001_size_12_mm_id_28_mm_od_8_mm_depth
 oomp_word: helicopter rowboat snowman
 oomp_word_emoji: ':helicopter: :rowboat: :snowman:'

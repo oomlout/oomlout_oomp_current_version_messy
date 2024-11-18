@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hub
+bip_39_word_dash_10: hub-useful-try-seminar-globe-potato-correct-anger-box-wreck
+bip_39_word_dash_11: hub-useful-try-seminar-globe-potato-correct-anger-box-wreck-urban
+bip_39_word_dash_12: hub-useful-try-seminar-globe-potato-correct-anger-box-wreck-urban-assault
+bip_39_word_dash_2: hub-useful
+bip_39_word_dash_3: hub-useful-try
+bip_39_word_dash_4: hub-useful-try-seminar
+bip_39_word_dash_5: hub-useful-try-seminar-globe
+bip_39_word_dash_6: hub-useful-try-seminar-globe-potato
+bip_39_word_dash_7: hub-useful-try-seminar-globe-potato-correct
+bip_39_word_dash_8: hub-useful-try-seminar-globe-potato-correct-anger
+bip_39_word_dash_9: hub-useful-try-seminar-globe-potato-correct-anger-box
+bip_39_word_new_br_1: hub
+bip_39_word_new_br_10: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck
+bip_39_word_new_br_11: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban
+bip_39_word_new_br_12: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box<br>wreck<br>urban<br>assault
+bip_39_word_new_br_2: hub<br>useful
+bip_39_word_new_br_3: hub<br>useful<br>try
+bip_39_word_new_br_4: hub<br>useful<br>try<br>seminar
+bip_39_word_new_br_5: hub<br>useful<br>try<br>seminar<br>globe
+bip_39_word_new_br_6: hub<br>useful<br>try<br>seminar<br>globe<br>potato
+bip_39_word_new_br_7: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct
+bip_39_word_new_br_8: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger
+bip_39_word_new_br_9: hub<br>useful<br>try<br>seminar<br>globe<br>potato<br>correct<br>anger<br>box
+bip_39_word_new_line_1: hub
+bip_39_word_new_line_10: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct
+
+  anger
+
+  box
+
+  wreck'
+bip_39_word_new_line_11: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct
+
+  anger
+
+  box
+
+  wreck
+
+  urban'
+bip_39_word_new_line_12: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct
+
+  anger
+
+  box
+
+  wreck
+
+  urban
+
+  assault'
+bip_39_word_new_line_2: 'hub
+
+  useful'
+bip_39_word_new_line_3: 'hub
+
+  useful
+
+  try'
+bip_39_word_new_line_4: 'hub
+
+  useful
+
+  try
+
+  seminar'
+bip_39_word_new_line_5: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe'
+bip_39_word_new_line_6: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato'
+bip_39_word_new_line_7: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct'
+bip_39_word_new_line_8: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct
+
+  anger'
+bip_39_word_new_line_9: 'hub
+
+  useful
+
+  try
+
+  seminar
+
+  globe
+
+  potato
+
+  correct
+
+  anger
+
+  box'
+bip_39_word_no_space_1: hub
+bip_39_word_no_space_10: hubusefultryseminarglobepotatocorrectangerboxwreck
+bip_39_word_no_space_11: hubusefultryseminarglobepotatocorrectangerboxwreckurban
+bip_39_word_no_space_12: hubusefultryseminarglobepotatocorrectangerboxwreckurbanassault
+bip_39_word_no_space_2: hubuseful
+bip_39_word_no_space_3: hubusefultry
+bip_39_word_no_space_4: hubusefultryseminar
+bip_39_word_no_space_5: hubusefultryseminarglobe
+bip_39_word_no_space_6: hubusefultryseminarglobepotato
+bip_39_word_no_space_7: hubusefultryseminarglobepotatocorrect
+bip_39_word_no_space_8: hubusefultryseminarglobepotatocorrectanger
+bip_39_word_no_space_9: hubusefultryseminarglobepotatocorrectangerbox
+bip_39_word_space_0:
+- hub
+- useful
+- try
+- seminar
+- globe
+- potato
+- correct
+- anger
+- box
+- wreck
+- urban
+- assault
+bip_39_word_space_1: hub
+bip_39_word_space_10: hub useful try seminar globe potato correct anger box wreck
+bip_39_word_space_11: hub useful try seminar globe potato correct anger box wreck
+  urban
+bip_39_word_space_12: hub useful try seminar globe potato correct anger box wreck
+  urban assault
+bip_39_word_space_2: hub useful
+bip_39_word_space_3: hub useful try
+bip_39_word_space_4: hub useful try seminar
+bip_39_word_space_5: hub useful try seminar globe
+bip_39_word_space_6: hub useful try seminar globe potato
+bip_39_word_space_7: hub useful try seminar globe potato correct
+bip_39_word_space_8: hub useful try seminar globe potato correct anger
+bip_39_word_space_9: hub useful try seminar globe potato correct anger box
+bip_39_word_underscore_1: hub
+bip_39_word_underscore_10: hub_useful_try_seminar_globe_potato_correct_anger_box_wreck
+bip_39_word_underscore_11: hub_useful_try_seminar_globe_potato_correct_anger_box_wreck_urban
+bip_39_word_underscore_12: hub_useful_try_seminar_globe_potato_correct_anger_box_wreck_urban_assault
+bip_39_word_underscore_2: hub_useful
+bip_39_word_underscore_3: hub_useful_try
+bip_39_word_underscore_4: hub_useful_try_seminar
+bip_39_word_underscore_5: hub_useful_try_seminar_globe
+bip_39_word_underscore_6: hub_useful_try_seminar_globe_potato
+bip_39_word_underscore_7: hub_useful_try_seminar_globe_potato_correct
+bip_39_word_underscore_8: hub_useful_try_seminar_globe_potato_correct_anger
+bip_39_word_underscore_9: hub_useful_try_seminar_globe_potato_correct_anger_box
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_12_12_90
 id_no_color: '121290'
 id_no_size: '12_12_90'
 id_no_type: tray_12_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_12_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_12_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_12_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208i18f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208i18f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208i18f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '121290'
 name_no_size: 12 12 90
 name_no_size_short: 12 12 90
 name_no_type: Tray 12 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_12_12_90
 oomp_word: bank rainbow egg
 oomp_word_emoji: ':bank: :rainbow: :egg:'

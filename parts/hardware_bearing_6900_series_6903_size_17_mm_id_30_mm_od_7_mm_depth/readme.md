@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6903 Size 17 mm ID 30 mm OD 7 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6903_size_17_mm_id_30_mm_od_7_mm_depth
   * classification: hardware

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: unique
+bip_39_word_dash_10: unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh
+bip_39_word_dash_11: unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh-setup
+bip_39_word_dash_12: unique-muffin-boss-involve-embody-giant-boss-discover-arrow-harsh-setup-author
+bip_39_word_dash_2: unique-muffin
+bip_39_word_dash_3: unique-muffin-boss
+bip_39_word_dash_4: unique-muffin-boss-involve
+bip_39_word_dash_5: unique-muffin-boss-involve-embody
+bip_39_word_dash_6: unique-muffin-boss-involve-embody-giant
+bip_39_word_dash_7: unique-muffin-boss-involve-embody-giant-boss
+bip_39_word_dash_8: unique-muffin-boss-involve-embody-giant-boss-discover
+bip_39_word_dash_9: unique-muffin-boss-involve-embody-giant-boss-discover-arrow
+bip_39_word_new_br_1: unique
+bip_39_word_new_br_10: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh
+bip_39_word_new_br_11: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup
+bip_39_word_new_br_12: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow<br>harsh<br>setup<br>author
+bip_39_word_new_br_2: unique<br>muffin
+bip_39_word_new_br_3: unique<br>muffin<br>boss
+bip_39_word_new_br_4: unique<br>muffin<br>boss<br>involve
+bip_39_word_new_br_5: unique<br>muffin<br>boss<br>involve<br>embody
+bip_39_word_new_br_6: unique<br>muffin<br>boss<br>involve<br>embody<br>giant
+bip_39_word_new_br_7: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss
+bip_39_word_new_br_8: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover
+bip_39_word_new_br_9: unique<br>muffin<br>boss<br>involve<br>embody<br>giant<br>boss<br>discover<br>arrow
+bip_39_word_new_line_1: unique
+bip_39_word_new_line_10: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss
+
+  discover
+
+  arrow
+
+  harsh'
+bip_39_word_new_line_11: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss
+
+  discover
+
+  arrow
+
+  harsh
+
+  setup'
+bip_39_word_new_line_12: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss
+
+  discover
+
+  arrow
+
+  harsh
+
+  setup
+
+  author'
+bip_39_word_new_line_2: 'unique
+
+  muffin'
+bip_39_word_new_line_3: 'unique
+
+  muffin
+
+  boss'
+bip_39_word_new_line_4: 'unique
+
+  muffin
+
+  boss
+
+  involve'
+bip_39_word_new_line_5: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody'
+bip_39_word_new_line_6: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant'
+bip_39_word_new_line_7: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss'
+bip_39_word_new_line_8: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss
+
+  discover'
+bip_39_word_new_line_9: 'unique
+
+  muffin
+
+  boss
+
+  involve
+
+  embody
+
+  giant
+
+  boss
+
+  discover
+
+  arrow'
+bip_39_word_no_space_1: unique
+bip_39_word_no_space_10: uniquemuffinbossinvolveembodygiantbossdiscoverarrowharsh
+bip_39_word_no_space_11: uniquemuffinbossinvolveembodygiantbossdiscoverarrowharshsetup
+bip_39_word_no_space_12: uniquemuffinbossinvolveembodygiantbossdiscoverarrowharshsetupauthor
+bip_39_word_no_space_2: uniquemuffin
+bip_39_word_no_space_3: uniquemuffinboss
+bip_39_word_no_space_4: uniquemuffinbossinvolve
+bip_39_word_no_space_5: uniquemuffinbossinvolveembody
+bip_39_word_no_space_6: uniquemuffinbossinvolveembodygiant
+bip_39_word_no_space_7: uniquemuffinbossinvolveembodygiantboss
+bip_39_word_no_space_8: uniquemuffinbossinvolveembodygiantbossdiscover
+bip_39_word_no_space_9: uniquemuffinbossinvolveembodygiantbossdiscoverarrow
+bip_39_word_space_0:
+- unique
+- muffin
+- boss
+- involve
+- embody
+- giant
+- boss
+- discover
+- arrow
+- harsh
+- setup
+- author
+bip_39_word_space_1: unique
+bip_39_word_space_10: unique muffin boss involve embody giant boss discover arrow
+  harsh
+bip_39_word_space_11: unique muffin boss involve embody giant boss discover arrow
+  harsh setup
+bip_39_word_space_12: unique muffin boss involve embody giant boss discover arrow
+  harsh setup author
+bip_39_word_space_2: unique muffin
+bip_39_word_space_3: unique muffin boss
+bip_39_word_space_4: unique muffin boss involve
+bip_39_word_space_5: unique muffin boss involve embody
+bip_39_word_space_6: unique muffin boss involve embody giant
+bip_39_word_space_7: unique muffin boss involve embody giant boss
+bip_39_word_space_8: unique muffin boss involve embody giant boss discover
+bip_39_word_space_9: unique muffin boss involve embody giant boss discover arrow
+bip_39_word_underscore_1: unique
+bip_39_word_underscore_10: unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh
+bip_39_word_underscore_11: unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh_setup
+bip_39_word_underscore_12: unique_muffin_boss_involve_embody_giant_boss_discover_arrow_harsh_setup_author
+bip_39_word_underscore_2: unique_muffin
+bip_39_word_underscore_3: unique_muffin_boss
+bip_39_word_underscore_4: unique_muffin_boss_involve
+bip_39_word_underscore_5: unique_muffin_boss_involve_embody
+bip_39_word_underscore_6: unique_muffin_boss_involve_embody_giant
+bip_39_word_underscore_7: unique_muffin_boss_involve_embody_giant_boss
+bip_39_word_underscore_8: unique_muffin_boss_involve_embody_giant_boss_discover
+bip_39_word_underscore_9: unique_muffin_boss_involve_embody_giant_boss_discover_arrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_11_15_60
 id_no_color: '111560'
 id_no_size: '11_15_60'
 id_no_type: tray_11_15_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_15_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209npcq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209npcq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209npcq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111560'
 name_no_size: 11 15 60
 name_no_size_short: 11 15 60
 name_no_type: Tray 11 15 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_15_60
 oomp_word: six hammer clap
 oomp_word_emoji: ':six: :hammer: :clap:'

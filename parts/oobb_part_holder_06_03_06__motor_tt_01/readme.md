@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 06 03 06  Motor Tt 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_06_03_06__motor_tt_01
   * classification: oobb

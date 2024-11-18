@@ -1,3 +1,222 @@
+bip_39_word_dash_1: toddler
+bip_39_word_dash_10: toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable
+bip_39_word_dash_11: toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable-muffin
+bip_39_word_dash_12: toddler-dust-pool-damp-couch-grab-cash-sudden-decrease-stable-muffin-athlete
+bip_39_word_dash_2: toddler-dust
+bip_39_word_dash_3: toddler-dust-pool
+bip_39_word_dash_4: toddler-dust-pool-damp
+bip_39_word_dash_5: toddler-dust-pool-damp-couch
+bip_39_word_dash_6: toddler-dust-pool-damp-couch-grab
+bip_39_word_dash_7: toddler-dust-pool-damp-couch-grab-cash
+bip_39_word_dash_8: toddler-dust-pool-damp-couch-grab-cash-sudden
+bip_39_word_dash_9: toddler-dust-pool-damp-couch-grab-cash-sudden-decrease
+bip_39_word_new_br_1: toddler
+bip_39_word_new_br_10: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease<br>stable
+bip_39_word_new_br_11: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease<br>stable<br>muffin
+bip_39_word_new_br_12: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease<br>stable<br>muffin<br>athlete
+bip_39_word_new_br_2: toddler<br>dust
+bip_39_word_new_br_3: toddler<br>dust<br>pool
+bip_39_word_new_br_4: toddler<br>dust<br>pool<br>damp
+bip_39_word_new_br_5: toddler<br>dust<br>pool<br>damp<br>couch
+bip_39_word_new_br_6: toddler<br>dust<br>pool<br>damp<br>couch<br>grab
+bip_39_word_new_br_7: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash
+bip_39_word_new_br_8: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden
+bip_39_word_new_br_9: toddler<br>dust<br>pool<br>damp<br>couch<br>grab<br>cash<br>sudden<br>decrease
+bip_39_word_new_line_1: toddler
+bip_39_word_new_line_10: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash
+
+  sudden
+
+  decrease
+
+  stable'
+bip_39_word_new_line_11: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash
+
+  sudden
+
+  decrease
+
+  stable
+
+  muffin'
+bip_39_word_new_line_12: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash
+
+  sudden
+
+  decrease
+
+  stable
+
+  muffin
+
+  athlete'
+bip_39_word_new_line_2: 'toddler
+
+  dust'
+bip_39_word_new_line_3: 'toddler
+
+  dust
+
+  pool'
+bip_39_word_new_line_4: 'toddler
+
+  dust
+
+  pool
+
+  damp'
+bip_39_word_new_line_5: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch'
+bip_39_word_new_line_6: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab'
+bip_39_word_new_line_7: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash'
+bip_39_word_new_line_8: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash
+
+  sudden'
+bip_39_word_new_line_9: 'toddler
+
+  dust
+
+  pool
+
+  damp
+
+  couch
+
+  grab
+
+  cash
+
+  sudden
+
+  decrease'
+bip_39_word_no_space_1: toddler
+bip_39_word_no_space_10: toddlerdustpooldampcouchgrabcashsuddendecreasestable
+bip_39_word_no_space_11: toddlerdustpooldampcouchgrabcashsuddendecreasestablemuffin
+bip_39_word_no_space_12: toddlerdustpooldampcouchgrabcashsuddendecreasestablemuffinathlete
+bip_39_word_no_space_2: toddlerdust
+bip_39_word_no_space_3: toddlerdustpool
+bip_39_word_no_space_4: toddlerdustpooldamp
+bip_39_word_no_space_5: toddlerdustpooldampcouch
+bip_39_word_no_space_6: toddlerdustpooldampcouchgrab
+bip_39_word_no_space_7: toddlerdustpooldampcouchgrabcash
+bip_39_word_no_space_8: toddlerdustpooldampcouchgrabcashsudden
+bip_39_word_no_space_9: toddlerdustpooldampcouchgrabcashsuddendecrease
+bip_39_word_space_0:
+- toddler
+- dust
+- pool
+- damp
+- couch
+- grab
+- cash
+- sudden
+- decrease
+- stable
+- muffin
+- athlete
+bip_39_word_space_1: toddler
+bip_39_word_space_10: toddler dust pool damp couch grab cash sudden decrease stable
+bip_39_word_space_11: toddler dust pool damp couch grab cash sudden decrease stable
+  muffin
+bip_39_word_space_12: toddler dust pool damp couch grab cash sudden decrease stable
+  muffin athlete
+bip_39_word_space_2: toddler dust
+bip_39_word_space_3: toddler dust pool
+bip_39_word_space_4: toddler dust pool damp
+bip_39_word_space_5: toddler dust pool damp couch
+bip_39_word_space_6: toddler dust pool damp couch grab
+bip_39_word_space_7: toddler dust pool damp couch grab cash
+bip_39_word_space_8: toddler dust pool damp couch grab cash sudden
+bip_39_word_space_9: toddler dust pool damp couch grab cash sudden decrease
+bip_39_word_underscore_1: toddler
+bip_39_word_underscore_10: toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable
+bip_39_word_underscore_11: toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable_muffin
+bip_39_word_underscore_12: toddler_dust_pool_damp_couch_grab_cash_sudden_decrease_stable_muffin_athlete
+bip_39_word_underscore_2: toddler_dust
+bip_39_word_underscore_3: toddler_dust_pool
+bip_39_word_underscore_4: toddler_dust_pool_damp
+bip_39_word_underscore_5: toddler_dust_pool_damp_couch
+bip_39_word_underscore_6: toddler_dust_pool_damp_couch_grab
+bip_39_word_underscore_7: toddler_dust_pool_damp_couch_grab_cash
+bip_39_word_underscore_8: toddler_dust_pool_damp_couch_grab_cash_sudden
+bip_39_word_underscore_9: toddler_dust_pool_damp_couch_grab_cash_sudden_decrease
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_01_30
 id_no_color: '150130'
 id_no_size: '15_01_30'
 id_no_type: tray_thin_15_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208v1pw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208v1pw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208v1pw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150130'
 name_no_size: 15 01 30
 name_no_size_short: 15 01 30
 name_no_type: Tray Thin 15 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_01_30
 oomp_word: rowboat lips fireworks
 oomp_word_emoji: ':rowboat: :lips: :fireworks:'

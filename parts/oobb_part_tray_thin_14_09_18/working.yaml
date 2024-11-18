@@ -1,3 +1,222 @@
+bip_39_word_dash_1: prize
+bip_39_word_dash_10: prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose
+bip_39_word_dash_11: prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose-vessel
+bip_39_word_dash_12: prize-same-escape-fresh-profit-dress-unknown-coyote-candy-purpose-vessel-another
+bip_39_word_dash_2: prize-same
+bip_39_word_dash_3: prize-same-escape
+bip_39_word_dash_4: prize-same-escape-fresh
+bip_39_word_dash_5: prize-same-escape-fresh-profit
+bip_39_word_dash_6: prize-same-escape-fresh-profit-dress
+bip_39_word_dash_7: prize-same-escape-fresh-profit-dress-unknown
+bip_39_word_dash_8: prize-same-escape-fresh-profit-dress-unknown-coyote
+bip_39_word_dash_9: prize-same-escape-fresh-profit-dress-unknown-coyote-candy
+bip_39_word_new_br_1: prize
+bip_39_word_new_br_10: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose
+bip_39_word_new_br_11: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel
+bip_39_word_new_br_12: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy<br>purpose<br>vessel<br>another
+bip_39_word_new_br_2: prize<br>same
+bip_39_word_new_br_3: prize<br>same<br>escape
+bip_39_word_new_br_4: prize<br>same<br>escape<br>fresh
+bip_39_word_new_br_5: prize<br>same<br>escape<br>fresh<br>profit
+bip_39_word_new_br_6: prize<br>same<br>escape<br>fresh<br>profit<br>dress
+bip_39_word_new_br_7: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown
+bip_39_word_new_br_8: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote
+bip_39_word_new_br_9: prize<br>same<br>escape<br>fresh<br>profit<br>dress<br>unknown<br>coyote<br>candy
+bip_39_word_new_line_1: prize
+bip_39_word_new_line_10: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown
+
+  coyote
+
+  candy
+
+  purpose'
+bip_39_word_new_line_11: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown
+
+  coyote
+
+  candy
+
+  purpose
+
+  vessel'
+bip_39_word_new_line_12: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown
+
+  coyote
+
+  candy
+
+  purpose
+
+  vessel
+
+  another'
+bip_39_word_new_line_2: 'prize
+
+  same'
+bip_39_word_new_line_3: 'prize
+
+  same
+
+  escape'
+bip_39_word_new_line_4: 'prize
+
+  same
+
+  escape
+
+  fresh'
+bip_39_word_new_line_5: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit'
+bip_39_word_new_line_6: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress'
+bip_39_word_new_line_7: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown'
+bip_39_word_new_line_8: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown
+
+  coyote'
+bip_39_word_new_line_9: 'prize
+
+  same
+
+  escape
+
+  fresh
+
+  profit
+
+  dress
+
+  unknown
+
+  coyote
+
+  candy'
+bip_39_word_no_space_1: prize
+bip_39_word_no_space_10: prizesameescapefreshprofitdressunknowncoyotecandypurpose
+bip_39_word_no_space_11: prizesameescapefreshprofitdressunknowncoyotecandypurposevessel
+bip_39_word_no_space_12: prizesameescapefreshprofitdressunknowncoyotecandypurposevesselanother
+bip_39_word_no_space_2: prizesame
+bip_39_word_no_space_3: prizesameescape
+bip_39_word_no_space_4: prizesameescapefresh
+bip_39_word_no_space_5: prizesameescapefreshprofit
+bip_39_word_no_space_6: prizesameescapefreshprofitdress
+bip_39_word_no_space_7: prizesameescapefreshprofitdressunknown
+bip_39_word_no_space_8: prizesameescapefreshprofitdressunknowncoyote
+bip_39_word_no_space_9: prizesameescapefreshprofitdressunknowncoyotecandy
+bip_39_word_space_0:
+- prize
+- same
+- escape
+- fresh
+- profit
+- dress
+- unknown
+- coyote
+- candy
+- purpose
+- vessel
+- another
+bip_39_word_space_1: prize
+bip_39_word_space_10: prize same escape fresh profit dress unknown coyote candy purpose
+bip_39_word_space_11: prize same escape fresh profit dress unknown coyote candy purpose
+  vessel
+bip_39_word_space_12: prize same escape fresh profit dress unknown coyote candy purpose
+  vessel another
+bip_39_word_space_2: prize same
+bip_39_word_space_3: prize same escape
+bip_39_word_space_4: prize same escape fresh
+bip_39_word_space_5: prize same escape fresh profit
+bip_39_word_space_6: prize same escape fresh profit dress
+bip_39_word_space_7: prize same escape fresh profit dress unknown
+bip_39_word_space_8: prize same escape fresh profit dress unknown coyote
+bip_39_word_space_9: prize same escape fresh profit dress unknown coyote candy
+bip_39_word_underscore_1: prize
+bip_39_word_underscore_10: prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose
+bip_39_word_underscore_11: prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose_vessel
+bip_39_word_underscore_12: prize_same_escape_fresh_profit_dress_unknown_coyote_candy_purpose_vessel_another
+bip_39_word_underscore_2: prize_same
+bip_39_word_underscore_3: prize_same_escape
+bip_39_word_underscore_4: prize_same_escape_fresh
+bip_39_word_underscore_5: prize_same_escape_fresh_profit
+bip_39_word_underscore_6: prize_same_escape_fresh_profit_dress
+bip_39_word_underscore_7: prize_same_escape_fresh_profit_dress_unknown
+bip_39_word_underscore_8: prize_same_escape_fresh_profit_dress_unknown_coyote
+bip_39_word_underscore_9: prize_same_escape_fresh_profit_dress_unknown_coyote_candy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_09_18
 id_no_color: '140918'
 id_no_size: '14_09_18'
 id_no_type: tray_thin_14_09_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_09_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_09_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_09_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20606cr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20606cr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20606cr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140918'
 name_no_size: 14 09 18
 name_no_size_short: 14 09 18
 name_no_type: Tray Thin 14 09 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_09_18
 oomp_word: bowling airplane cloud
 oomp_word_emoji: ':bowling: :airplane: :cloud:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: stool
+bip_39_word_dash_10: stool-shy-outside-goat-permit-glance-labor-elder-fade-bus
+bip_39_word_dash_11: stool-shy-outside-goat-permit-glance-labor-elder-fade-bus-evolve
+bip_39_word_dash_12: stool-shy-outside-goat-permit-glance-labor-elder-fade-bus-evolve-annual
+bip_39_word_dash_2: stool-shy
+bip_39_word_dash_3: stool-shy-outside
+bip_39_word_dash_4: stool-shy-outside-goat
+bip_39_word_dash_5: stool-shy-outside-goat-permit
+bip_39_word_dash_6: stool-shy-outside-goat-permit-glance
+bip_39_word_dash_7: stool-shy-outside-goat-permit-glance-labor
+bip_39_word_dash_8: stool-shy-outside-goat-permit-glance-labor-elder
+bip_39_word_dash_9: stool-shy-outside-goat-permit-glance-labor-elder-fade
+bip_39_word_new_br_1: stool
+bip_39_word_new_br_10: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus
+bip_39_word_new_br_11: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve
+bip_39_word_new_br_12: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade<br>bus<br>evolve<br>annual
+bip_39_word_new_br_2: stool<br>shy
+bip_39_word_new_br_3: stool<br>shy<br>outside
+bip_39_word_new_br_4: stool<br>shy<br>outside<br>goat
+bip_39_word_new_br_5: stool<br>shy<br>outside<br>goat<br>permit
+bip_39_word_new_br_6: stool<br>shy<br>outside<br>goat<br>permit<br>glance
+bip_39_word_new_br_7: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor
+bip_39_word_new_br_8: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder
+bip_39_word_new_br_9: stool<br>shy<br>outside<br>goat<br>permit<br>glance<br>labor<br>elder<br>fade
+bip_39_word_new_line_1: stool
+bip_39_word_new_line_10: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor
+
+  elder
+
+  fade
+
+  bus'
+bip_39_word_new_line_11: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor
+
+  elder
+
+  fade
+
+  bus
+
+  evolve'
+bip_39_word_new_line_12: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor
+
+  elder
+
+  fade
+
+  bus
+
+  evolve
+
+  annual'
+bip_39_word_new_line_2: 'stool
+
+  shy'
+bip_39_word_new_line_3: 'stool
+
+  shy
+
+  outside'
+bip_39_word_new_line_4: 'stool
+
+  shy
+
+  outside
+
+  goat'
+bip_39_word_new_line_5: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit'
+bip_39_word_new_line_6: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance'
+bip_39_word_new_line_7: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor'
+bip_39_word_new_line_8: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor
+
+  elder'
+bip_39_word_new_line_9: 'stool
+
+  shy
+
+  outside
+
+  goat
+
+  permit
+
+  glance
+
+  labor
+
+  elder
+
+  fade'
+bip_39_word_no_space_1: stool
+bip_39_word_no_space_10: stoolshyoutsidegoatpermitglancelaborelderfadebus
+bip_39_word_no_space_11: stoolshyoutsidegoatpermitglancelaborelderfadebusevolve
+bip_39_word_no_space_12: stoolshyoutsidegoatpermitglancelaborelderfadebusevolveannual
+bip_39_word_no_space_2: stoolshy
+bip_39_word_no_space_3: stoolshyoutside
+bip_39_word_no_space_4: stoolshyoutsidegoat
+bip_39_word_no_space_5: stoolshyoutsidegoatpermit
+bip_39_word_no_space_6: stoolshyoutsidegoatpermitglance
+bip_39_word_no_space_7: stoolshyoutsidegoatpermitglancelabor
+bip_39_word_no_space_8: stoolshyoutsidegoatpermitglancelaborelder
+bip_39_word_no_space_9: stoolshyoutsidegoatpermitglancelaborelderfade
+bip_39_word_space_0:
+- stool
+- shy
+- outside
+- goat
+- permit
+- glance
+- labor
+- elder
+- fade
+- bus
+- evolve
+- annual
+bip_39_word_space_1: stool
+bip_39_word_space_10: stool shy outside goat permit glance labor elder fade bus
+bip_39_word_space_11: stool shy outside goat permit glance labor elder fade bus evolve
+bip_39_word_space_12: stool shy outside goat permit glance labor elder fade bus evolve
+  annual
+bip_39_word_space_2: stool shy
+bip_39_word_space_3: stool shy outside
+bip_39_word_space_4: stool shy outside goat
+bip_39_word_space_5: stool shy outside goat permit
+bip_39_word_space_6: stool shy outside goat permit glance
+bip_39_word_space_7: stool shy outside goat permit glance labor
+bip_39_word_space_8: stool shy outside goat permit glance labor elder
+bip_39_word_space_9: stool shy outside goat permit glance labor elder fade
+bip_39_word_underscore_1: stool
+bip_39_word_underscore_10: stool_shy_outside_goat_permit_glance_labor_elder_fade_bus
+bip_39_word_underscore_11: stool_shy_outside_goat_permit_glance_labor_elder_fade_bus_evolve
+bip_39_word_underscore_12: stool_shy_outside_goat_permit_glance_labor_elder_fade_bus_evolve_annual
+bip_39_word_underscore_2: stool_shy
+bip_39_word_underscore_3: stool_shy_outside
+bip_39_word_underscore_4: stool_shy_outside_goat
+bip_39_word_underscore_5: stool_shy_outside_goat_permit
+bip_39_word_underscore_6: stool_shy_outside_goat_permit_glance
+bip_39_word_underscore_7: stool_shy_outside_goat_permit_glance_labor
+bip_39_word_underscore_8: stool_shy_outside_goat_permit_glance_labor_elder
+bip_39_word_underscore_9: stool_shy_outside_goat_permit_glance_labor_elder_fade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_09_09
 id_no_color: '120909'
 id_no_size: '12_09_09'
 id_no_type: tray_thin_12_09_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_09_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_09_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_09_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vk1z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vk1z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vk1z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120909'
 name_no_size: 12 09 09
 name_no_size_short: 12 09 09
 name_no_type: Tray Thin 12 09 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_09_09
 oomp_word: basketball spades baby_chick
 oomp_word_emoji: ':basketball: :spades: :baby_chick:'

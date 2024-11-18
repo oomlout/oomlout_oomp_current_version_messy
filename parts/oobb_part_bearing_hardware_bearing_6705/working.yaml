@@ -1,3 +1,222 @@
+bip_39_word_dash_1: green
+bip_39_word_dash_10: green-future-sound-kitten-that-sign-grape-huge-ankle-chicken
+bip_39_word_dash_11: green-future-sound-kitten-that-sign-grape-huge-ankle-chicken-unhappy
+bip_39_word_dash_12: green-future-sound-kitten-that-sign-grape-huge-ankle-chicken-unhappy-angry
+bip_39_word_dash_2: green-future
+bip_39_word_dash_3: green-future-sound
+bip_39_word_dash_4: green-future-sound-kitten
+bip_39_word_dash_5: green-future-sound-kitten-that
+bip_39_word_dash_6: green-future-sound-kitten-that-sign
+bip_39_word_dash_7: green-future-sound-kitten-that-sign-grape
+bip_39_word_dash_8: green-future-sound-kitten-that-sign-grape-huge
+bip_39_word_dash_9: green-future-sound-kitten-that-sign-grape-huge-ankle
+bip_39_word_new_br_1: green
+bip_39_word_new_br_10: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle<br>chicken
+bip_39_word_new_br_11: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle<br>chicken<br>unhappy
+bip_39_word_new_br_12: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle<br>chicken<br>unhappy<br>angry
+bip_39_word_new_br_2: green<br>future
+bip_39_word_new_br_3: green<br>future<br>sound
+bip_39_word_new_br_4: green<br>future<br>sound<br>kitten
+bip_39_word_new_br_5: green<br>future<br>sound<br>kitten<br>that
+bip_39_word_new_br_6: green<br>future<br>sound<br>kitten<br>that<br>sign
+bip_39_word_new_br_7: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape
+bip_39_word_new_br_8: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge
+bip_39_word_new_br_9: green<br>future<br>sound<br>kitten<br>that<br>sign<br>grape<br>huge<br>ankle
+bip_39_word_new_line_1: green
+bip_39_word_new_line_10: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape
+
+  huge
+
+  ankle
+
+  chicken'
+bip_39_word_new_line_11: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape
+
+  huge
+
+  ankle
+
+  chicken
+
+  unhappy'
+bip_39_word_new_line_12: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape
+
+  huge
+
+  ankle
+
+  chicken
+
+  unhappy
+
+  angry'
+bip_39_word_new_line_2: 'green
+
+  future'
+bip_39_word_new_line_3: 'green
+
+  future
+
+  sound'
+bip_39_word_new_line_4: 'green
+
+  future
+
+  sound
+
+  kitten'
+bip_39_word_new_line_5: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that'
+bip_39_word_new_line_6: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign'
+bip_39_word_new_line_7: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape'
+bip_39_word_new_line_8: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape
+
+  huge'
+bip_39_word_new_line_9: 'green
+
+  future
+
+  sound
+
+  kitten
+
+  that
+
+  sign
+
+  grape
+
+  huge
+
+  ankle'
+bip_39_word_no_space_1: green
+bip_39_word_no_space_10: greenfuturesoundkittenthatsigngrapehugeanklechicken
+bip_39_word_no_space_11: greenfuturesoundkittenthatsigngrapehugeanklechickenunhappy
+bip_39_word_no_space_12: greenfuturesoundkittenthatsigngrapehugeanklechickenunhappyangry
+bip_39_word_no_space_2: greenfuture
+bip_39_word_no_space_3: greenfuturesound
+bip_39_word_no_space_4: greenfuturesoundkitten
+bip_39_word_no_space_5: greenfuturesoundkittenthat
+bip_39_word_no_space_6: greenfuturesoundkittenthatsign
+bip_39_word_no_space_7: greenfuturesoundkittenthatsigngrape
+bip_39_word_no_space_8: greenfuturesoundkittenthatsigngrapehuge
+bip_39_word_no_space_9: greenfuturesoundkittenthatsigngrapehugeankle
+bip_39_word_space_0:
+- green
+- future
+- sound
+- kitten
+- that
+- sign
+- grape
+- huge
+- ankle
+- chicken
+- unhappy
+- angry
+bip_39_word_space_1: green
+bip_39_word_space_10: green future sound kitten that sign grape huge ankle chicken
+bip_39_word_space_11: green future sound kitten that sign grape huge ankle chicken
+  unhappy
+bip_39_word_space_12: green future sound kitten that sign grape huge ankle chicken
+  unhappy angry
+bip_39_word_space_2: green future
+bip_39_word_space_3: green future sound
+bip_39_word_space_4: green future sound kitten
+bip_39_word_space_5: green future sound kitten that
+bip_39_word_space_6: green future sound kitten that sign
+bip_39_word_space_7: green future sound kitten that sign grape
+bip_39_word_space_8: green future sound kitten that sign grape huge
+bip_39_word_space_9: green future sound kitten that sign grape huge ankle
+bip_39_word_underscore_1: green
+bip_39_word_underscore_10: green_future_sound_kitten_that_sign_grape_huge_ankle_chicken
+bip_39_word_underscore_11: green_future_sound_kitten_that_sign_grape_huge_ankle_chicken_unhappy
+bip_39_word_underscore_12: green_future_sound_kitten_that_sign_grape_huge_ankle_chicken_unhappy_angry
+bip_39_word_underscore_2: green_future
+bip_39_word_underscore_3: green_future_sound
+bip_39_word_underscore_4: green_future_sound_kitten
+bip_39_word_underscore_5: green_future_sound_kitten_that
+bip_39_word_underscore_6: green_future_sound_kitten_that_sign
+bip_39_word_underscore_7: green_future_sound_kitten_that_sign_grape
+bip_39_word_underscore_8: green_future_sound_kitten_that_sign_grape_huge
+bip_39_word_underscore_9: green_future_sound_kitten_that_sign_grape_huge_ankle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6705
 id_no_color: hardware6705
 id_no_size: hardware_6705
 id_no_type: bearing_hardware_bearing_6705
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205m2dl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205m2dl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205m2dl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6705
 name_no_size: Hardware 6705
 name_no_size_short: Hardware 6k7
 name_no_type: Bearing Hardware Bearing 6705
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6705
 oomp_word: calendar hotel hammer
 oomp_word_emoji: ':calendar: :hotel: :hammer:'

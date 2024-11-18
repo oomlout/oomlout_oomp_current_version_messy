@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 oats_porridge
 
+### name
+* name: Food Starch Oats Porridge
+* name_short: Oats Porridge
 ### id
 * oomp_id: food_starch_oats_porridge
   * classification: food
@@ -28,6 +31,29 @@ oats_porridge
 * oomp_word_emoji :ant: :rowboat: :taxi:
 * md5_6_alpha: 347vw
 * md5_6: 4fe3ec
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20347vw)
+[2x1](http://192.168.1.242:1112/?label=oomp%20347vw)
+[6x4](http://192.168.1.55:1112/?label=oomp%20347vw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_oats_porridge)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ tortoise |
 | id_no_color | porridge |  
 | id_no_size | porridge |  
 | id_no_type | oats_porridge |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_oats_porridge |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_oats_porridge |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20347vw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20347vw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20347vw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ tortoise |
 | name_no_size_short | Porridge |  
 | name_no_type | Oats Porridge |  
 | name_short | Oats Porridge |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_oats_porridge |  
 | oomp_word | ant rowboat taxi |  
 | oomp_word_emoji | :ant: :rowboat: :taxi: |  

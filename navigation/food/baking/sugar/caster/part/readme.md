@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_caster
 
+### name
+* name: Food Baking Sugar Caster
+* name_short: Sugar Caster
 ### id
 * oomp_id: food_baking_sugar_caster
   * classification: food
@@ -28,6 +31,29 @@ sugar_caster
 * oomp_word_emoji :five: :alien: :shirt:
 * md5_6_alpha: 9lm7g
 * md5_6: f60cac
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209lm7g)
+[2x1](http://192.168.1.242:1112/?label=oomp%209lm7g)
+[6x4](http://192.168.1.55:1112/?label=oomp%209lm7g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_caster)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ company |
 | id_no_color | caster |  
 | id_no_size | caster |  
 | id_no_type | sugar_caster |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_caster |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_baking_sugar_caster |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209lm7g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209lm7g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209lm7g |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ company |
 | name_no_size_short | Caster |  
 | name_no_type | Sugar Caster |  
 | name_short | Sugar Caster |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_sugar_caster |  
 | oomp_word | five alien shirt |  
 | oomp_word_emoji | :five: :alien: :shirt: |  

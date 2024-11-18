@@ -1,3 +1,223 @@
+bip_39_word_dash_1: anxiety
+bip_39_word_dash_10: anxiety-glare-coast-diary-surface-oyster-thing-fiction-magnet-disagree
+bip_39_word_dash_11: anxiety-glare-coast-diary-surface-oyster-thing-fiction-magnet-disagree-stamp
+bip_39_word_dash_12: anxiety-glare-coast-diary-surface-oyster-thing-fiction-magnet-disagree-stamp-auction
+bip_39_word_dash_2: anxiety-glare
+bip_39_word_dash_3: anxiety-glare-coast
+bip_39_word_dash_4: anxiety-glare-coast-diary
+bip_39_word_dash_5: anxiety-glare-coast-diary-surface
+bip_39_word_dash_6: anxiety-glare-coast-diary-surface-oyster
+bip_39_word_dash_7: anxiety-glare-coast-diary-surface-oyster-thing
+bip_39_word_dash_8: anxiety-glare-coast-diary-surface-oyster-thing-fiction
+bip_39_word_dash_9: anxiety-glare-coast-diary-surface-oyster-thing-fiction-magnet
+bip_39_word_new_br_1: anxiety
+bip_39_word_new_br_10: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree
+bip_39_word_new_br_11: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp
+bip_39_word_new_br_12: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet<br>disagree<br>stamp<br>auction
+bip_39_word_new_br_2: anxiety<br>glare
+bip_39_word_new_br_3: anxiety<br>glare<br>coast
+bip_39_word_new_br_4: anxiety<br>glare<br>coast<br>diary
+bip_39_word_new_br_5: anxiety<br>glare<br>coast<br>diary<br>surface
+bip_39_word_new_br_6: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster
+bip_39_word_new_br_7: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing
+bip_39_word_new_br_8: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction
+bip_39_word_new_br_9: anxiety<br>glare<br>coast<br>diary<br>surface<br>oyster<br>thing<br>fiction<br>magnet
+bip_39_word_new_line_1: anxiety
+bip_39_word_new_line_10: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree'
+bip_39_word_new_line_11: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree
+
+  stamp'
+bip_39_word_new_line_12: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet
+
+  disagree
+
+  stamp
+
+  auction'
+bip_39_word_new_line_2: 'anxiety
+
+  glare'
+bip_39_word_new_line_3: 'anxiety
+
+  glare
+
+  coast'
+bip_39_word_new_line_4: 'anxiety
+
+  glare
+
+  coast
+
+  diary'
+bip_39_word_new_line_5: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface'
+bip_39_word_new_line_6: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster'
+bip_39_word_new_line_7: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing'
+bip_39_word_new_line_8: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction'
+bip_39_word_new_line_9: 'anxiety
+
+  glare
+
+  coast
+
+  diary
+
+  surface
+
+  oyster
+
+  thing
+
+  fiction
+
+  magnet'
+bip_39_word_no_space_1: anxiety
+bip_39_word_no_space_10: anxietyglarecoastdiarysurfaceoysterthingfictionmagnetdisagree
+bip_39_word_no_space_11: anxietyglarecoastdiarysurfaceoysterthingfictionmagnetdisagreestamp
+bip_39_word_no_space_12: anxietyglarecoastdiarysurfaceoysterthingfictionmagnetdisagreestampauction
+bip_39_word_no_space_2: anxietyglare
+bip_39_word_no_space_3: anxietyglarecoast
+bip_39_word_no_space_4: anxietyglarecoastdiary
+bip_39_word_no_space_5: anxietyglarecoastdiarysurface
+bip_39_word_no_space_6: anxietyglarecoastdiarysurfaceoyster
+bip_39_word_no_space_7: anxietyglarecoastdiarysurfaceoysterthing
+bip_39_word_no_space_8: anxietyglarecoastdiarysurfaceoysterthingfiction
+bip_39_word_no_space_9: anxietyglarecoastdiarysurfaceoysterthingfictionmagnet
+bip_39_word_space_0:
+- anxiety
+- glare
+- coast
+- diary
+- surface
+- oyster
+- thing
+- fiction
+- magnet
+- disagree
+- stamp
+- auction
+bip_39_word_space_1: anxiety
+bip_39_word_space_10: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree
+bip_39_word_space_11: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree stamp
+bip_39_word_space_12: anxiety glare coast diary surface oyster thing fiction magnet
+  disagree stamp auction
+bip_39_word_space_2: anxiety glare
+bip_39_word_space_3: anxiety glare coast
+bip_39_word_space_4: anxiety glare coast diary
+bip_39_word_space_5: anxiety glare coast diary surface
+bip_39_word_space_6: anxiety glare coast diary surface oyster
+bip_39_word_space_7: anxiety glare coast diary surface oyster thing
+bip_39_word_space_8: anxiety glare coast diary surface oyster thing fiction
+bip_39_word_space_9: anxiety glare coast diary surface oyster thing fiction magnet
+bip_39_word_underscore_1: anxiety
+bip_39_word_underscore_10: anxiety_glare_coast_diary_surface_oyster_thing_fiction_magnet_disagree
+bip_39_word_underscore_11: anxiety_glare_coast_diary_surface_oyster_thing_fiction_magnet_disagree_stamp
+bip_39_word_underscore_12: anxiety_glare_coast_diary_surface_oyster_thing_fiction_magnet_disagree_stamp_auction
+bip_39_word_underscore_2: anxiety_glare
+bip_39_word_underscore_3: anxiety_glare_coast
+bip_39_word_underscore_4: anxiety_glare_coast_diary
+bip_39_word_underscore_5: anxiety_glare_coast_diary_surface
+bip_39_word_underscore_6: anxiety_glare_coast_diary_surface_oyster
+bip_39_word_underscore_7: anxiety_glare_coast_diary_surface_oyster_thing
+bip_39_word_underscore_8: anxiety_glare_coast_diary_surface_oyster_thing_fiction
+bip_39_word_underscore_9: anxiety_glare_coast_diary_surface_oyster_thing_fiction_magnet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_02_18
 id_no_color: '100218'
 id_no_size: '10_02_18'
 id_no_type: tray_thin_10_02_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_02_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_02_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_02_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209cn2n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209cn2n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209cn2n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100218'
 name_no_size: 10 02 18
 name_no_size_short: 10 02 18
 name_no_type: Tray Thin 10 02 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_02_18
 oomp_word: truck shoe melon
 oomp_word_emoji: ':truck: :shoe: :melon:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: language
+bip_39_word_dash_10: language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop
+bip_39_word_dash_11: language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop-ordinary
+bip_39_word_dash_12: language-gloom-educate-pupil-useless-grab-trip-ankle-permit-shop-ordinary-acid
+bip_39_word_dash_2: language-gloom
+bip_39_word_dash_3: language-gloom-educate
+bip_39_word_dash_4: language-gloom-educate-pupil
+bip_39_word_dash_5: language-gloom-educate-pupil-useless
+bip_39_word_dash_6: language-gloom-educate-pupil-useless-grab
+bip_39_word_dash_7: language-gloom-educate-pupil-useless-grab-trip
+bip_39_word_dash_8: language-gloom-educate-pupil-useless-grab-trip-ankle
+bip_39_word_dash_9: language-gloom-educate-pupil-useless-grab-trip-ankle-permit
+bip_39_word_new_br_1: language
+bip_39_word_new_br_10: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop
+bip_39_word_new_br_11: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary
+bip_39_word_new_br_12: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit<br>shop<br>ordinary<br>acid
+bip_39_word_new_br_2: language<br>gloom
+bip_39_word_new_br_3: language<br>gloom<br>educate
+bip_39_word_new_br_4: language<br>gloom<br>educate<br>pupil
+bip_39_word_new_br_5: language<br>gloom<br>educate<br>pupil<br>useless
+bip_39_word_new_br_6: language<br>gloom<br>educate<br>pupil<br>useless<br>grab
+bip_39_word_new_br_7: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip
+bip_39_word_new_br_8: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle
+bip_39_word_new_br_9: language<br>gloom<br>educate<br>pupil<br>useless<br>grab<br>trip<br>ankle<br>permit
+bip_39_word_new_line_1: language
+bip_39_word_new_line_10: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip
+
+  ankle
+
+  permit
+
+  shop'
+bip_39_word_new_line_11: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip
+
+  ankle
+
+  permit
+
+  shop
+
+  ordinary'
+bip_39_word_new_line_12: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip
+
+  ankle
+
+  permit
+
+  shop
+
+  ordinary
+
+  acid'
+bip_39_word_new_line_2: 'language
+
+  gloom'
+bip_39_word_new_line_3: 'language
+
+  gloom
+
+  educate'
+bip_39_word_new_line_4: 'language
+
+  gloom
+
+  educate
+
+  pupil'
+bip_39_word_new_line_5: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless'
+bip_39_word_new_line_6: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab'
+bip_39_word_new_line_7: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip'
+bip_39_word_new_line_8: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip
+
+  ankle'
+bip_39_word_new_line_9: 'language
+
+  gloom
+
+  educate
+
+  pupil
+
+  useless
+
+  grab
+
+  trip
+
+  ankle
+
+  permit'
+bip_39_word_no_space_1: language
+bip_39_word_no_space_10: languagegloomeducatepupiluselessgrabtripanklepermitshop
+bip_39_word_no_space_11: languagegloomeducatepupiluselessgrabtripanklepermitshopordinary
+bip_39_word_no_space_12: languagegloomeducatepupiluselessgrabtripanklepermitshopordinaryacid
+bip_39_word_no_space_2: languagegloom
+bip_39_word_no_space_3: languagegloomeducate
+bip_39_word_no_space_4: languagegloomeducatepupil
+bip_39_word_no_space_5: languagegloomeducatepupiluseless
+bip_39_word_no_space_6: languagegloomeducatepupiluselessgrab
+bip_39_word_no_space_7: languagegloomeducatepupiluselessgrabtrip
+bip_39_word_no_space_8: languagegloomeducatepupiluselessgrabtripankle
+bip_39_word_no_space_9: languagegloomeducatepupiluselessgrabtripanklepermit
+bip_39_word_space_0:
+- language
+- gloom
+- educate
+- pupil
+- useless
+- grab
+- trip
+- ankle
+- permit
+- shop
+- ordinary
+- acid
+bip_39_word_space_1: language
+bip_39_word_space_10: language gloom educate pupil useless grab trip ankle permit
+  shop
+bip_39_word_space_11: language gloom educate pupil useless grab trip ankle permit
+  shop ordinary
+bip_39_word_space_12: language gloom educate pupil useless grab trip ankle permit
+  shop ordinary acid
+bip_39_word_space_2: language gloom
+bip_39_word_space_3: language gloom educate
+bip_39_word_space_4: language gloom educate pupil
+bip_39_word_space_5: language gloom educate pupil useless
+bip_39_word_space_6: language gloom educate pupil useless grab
+bip_39_word_space_7: language gloom educate pupil useless grab trip
+bip_39_word_space_8: language gloom educate pupil useless grab trip ankle
+bip_39_word_space_9: language gloom educate pupil useless grab trip ankle permit
+bip_39_word_underscore_1: language
+bip_39_word_underscore_10: language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop
+bip_39_word_underscore_11: language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop_ordinary
+bip_39_word_underscore_12: language_gloom_educate_pupil_useless_grab_trip_ankle_permit_shop_ordinary_acid
+bip_39_word_underscore_2: language_gloom
+bip_39_word_underscore_3: language_gloom_educate
+bip_39_word_underscore_4: language_gloom_educate_pupil
+bip_39_word_underscore_5: language_gloom_educate_pupil_useless
+bip_39_word_underscore_6: language_gloom_educate_pupil_useless_grab
+bip_39_word_underscore_7: language_gloom_educate_pupil_useless_grab_trip
+bip_39_word_underscore_8: language_gloom_educate_pupil_useless_grab_trip_ankle
+bip_39_word_underscore_9: language_gloom_educate_pupil_useless_grab_trip_ankle_permit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_09_13_30
 id_no_color: 091330
 id_no_size: 09_13_30
 id_no_type: tray_09_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2017usx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2017usx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2017usx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 091330
 name_no_size: 09 13 30
 name_no_size_short: 09 13 30
 name_no_type: Tray 09 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_13_30
 oomp_word: princess frog briefcase
 oomp_word_emoji: ':princess: :frog: :briefcase:'

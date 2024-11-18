@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 10 07 03 Nm Oobb Pl A6
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_10_07_03_nm_oobb_pl_a6
   * classification: oobb

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: famous
+bip_39_word_dash_10: famous-jump-visit-song-give-increase-diary-boil-paper-staff
+bip_39_word_dash_11: famous-jump-visit-song-give-increase-diary-boil-paper-staff-floor
+bip_39_word_dash_12: famous-jump-visit-song-give-increase-diary-boil-paper-staff-floor-april
+bip_39_word_dash_2: famous-jump
+bip_39_word_dash_3: famous-jump-visit
+bip_39_word_dash_4: famous-jump-visit-song
+bip_39_word_dash_5: famous-jump-visit-song-give
+bip_39_word_dash_6: famous-jump-visit-song-give-increase
+bip_39_word_dash_7: famous-jump-visit-song-give-increase-diary
+bip_39_word_dash_8: famous-jump-visit-song-give-increase-diary-boil
+bip_39_word_dash_9: famous-jump-visit-song-give-increase-diary-boil-paper
+bip_39_word_new_br_1: famous
+bip_39_word_new_br_10: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff
+bip_39_word_new_br_11: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff<br>floor
+bip_39_word_new_br_12: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper<br>staff<br>floor<br>april
+bip_39_word_new_br_2: famous<br>jump
+bip_39_word_new_br_3: famous<br>jump<br>visit
+bip_39_word_new_br_4: famous<br>jump<br>visit<br>song
+bip_39_word_new_br_5: famous<br>jump<br>visit<br>song<br>give
+bip_39_word_new_br_6: famous<br>jump<br>visit<br>song<br>give<br>increase
+bip_39_word_new_br_7: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary
+bip_39_word_new_br_8: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil
+bip_39_word_new_br_9: famous<br>jump<br>visit<br>song<br>give<br>increase<br>diary<br>boil<br>paper
+bip_39_word_new_line_1: famous
+bip_39_word_new_line_10: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary
+
+  boil
+
+  paper
+
+  staff'
+bip_39_word_new_line_11: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary
+
+  boil
+
+  paper
+
+  staff
+
+  floor'
+bip_39_word_new_line_12: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary
+
+  boil
+
+  paper
+
+  staff
+
+  floor
+
+  april'
+bip_39_word_new_line_2: 'famous
+
+  jump'
+bip_39_word_new_line_3: 'famous
+
+  jump
+
+  visit'
+bip_39_word_new_line_4: 'famous
+
+  jump
+
+  visit
+
+  song'
+bip_39_word_new_line_5: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give'
+bip_39_word_new_line_6: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase'
+bip_39_word_new_line_7: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary'
+bip_39_word_new_line_8: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary
+
+  boil'
+bip_39_word_new_line_9: 'famous
+
+  jump
+
+  visit
+
+  song
+
+  give
+
+  increase
+
+  diary
+
+  boil
+
+  paper'
+bip_39_word_no_space_1: famous
+bip_39_word_no_space_10: famousjumpvisitsonggiveincreasediaryboilpaperstaff
+bip_39_word_no_space_11: famousjumpvisitsonggiveincreasediaryboilpaperstafffloor
+bip_39_word_no_space_12: famousjumpvisitsonggiveincreasediaryboilpaperstafffloorapril
+bip_39_word_no_space_2: famousjump
+bip_39_word_no_space_3: famousjumpvisit
+bip_39_word_no_space_4: famousjumpvisitsong
+bip_39_word_no_space_5: famousjumpvisitsonggive
+bip_39_word_no_space_6: famousjumpvisitsonggiveincrease
+bip_39_word_no_space_7: famousjumpvisitsonggiveincreasediary
+bip_39_word_no_space_8: famousjumpvisitsonggiveincreasediaryboil
+bip_39_word_no_space_9: famousjumpvisitsonggiveincreasediaryboilpaper
+bip_39_word_space_0:
+- famous
+- jump
+- visit
+- song
+- give
+- increase
+- diary
+- boil
+- paper
+- staff
+- floor
+- april
+bip_39_word_space_1: famous
+bip_39_word_space_10: famous jump visit song give increase diary boil paper staff
+bip_39_word_space_11: famous jump visit song give increase diary boil paper staff
+  floor
+bip_39_word_space_12: famous jump visit song give increase diary boil paper staff
+  floor april
+bip_39_word_space_2: famous jump
+bip_39_word_space_3: famous jump visit
+bip_39_word_space_4: famous jump visit song
+bip_39_word_space_5: famous jump visit song give
+bip_39_word_space_6: famous jump visit song give increase
+bip_39_word_space_7: famous jump visit song give increase diary
+bip_39_word_space_8: famous jump visit song give increase diary boil
+bip_39_word_space_9: famous jump visit song give increase diary boil paper
+bip_39_word_underscore_1: famous
+bip_39_word_underscore_10: famous_jump_visit_song_give_increase_diary_boil_paper_staff
+bip_39_word_underscore_11: famous_jump_visit_song_give_increase_diary_boil_paper_staff_floor
+bip_39_word_underscore_12: famous_jump_visit_song_give_increase_diary_boil_paper_staff_floor_april
+bip_39_word_underscore_2: famous_jump
+bip_39_word_underscore_3: famous_jump_visit
+bip_39_word_underscore_4: famous_jump_visit_song
+bip_39_word_underscore_5: famous_jump_visit_song_give
+bip_39_word_underscore_6: famous_jump_visit_song_give_increase
+bip_39_word_underscore_7: famous_jump_visit_song_give_increase_diary
+bip_39_word_underscore_8: famous_jump_visit_song_give_increase_diary_boil
+bip_39_word_underscore_9: famous_jump_visit_song_give_increase_diary_boil_paper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_09_90
 id_no_color: 050990
 id_no_size: 05_09_90
 id_no_type: tray_05_09_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_09_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_09_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_09_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206te5x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206te5x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206te5x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050990
 name_no_size: 05 09 90
 name_no_size_short: 05 09 90
 name_no_type: Tray 05 09 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_09_90
 oomp_word: jeans handbag four
 oomp_word_emoji: ':jeans: :handbag: :four:'

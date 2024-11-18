@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Project Doc V 2
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_project_doc_v_2
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :school: :lemon: :blush:
 * md5_6_alpha: 8dp8i
 * md5_6: d6c902
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208dp8i)
+[2x1](http://192.168.1.242:1112/?label=oomp%208dp8i)
+[6x4](http://192.168.1.55:1112/?label=oomp%208dp8i)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_doc_v_2) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_project_doc_v_2)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ dose |
 | id_no_color | oomp_doc_v_2 |  
 | id_no_size | oomp_doc_v_2 |  
 | id_no_type | oomlout_oomlout_oomp_doc_v_2 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_doc_v_2 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_project_doc_v_2 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_doc_v_2 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208dp8i |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208dp8i |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208dp8i |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_project_doc_v_2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ dose |
 | name_no_size | Oomp Doc V 2 |  
 | name_no_size_short | Oomp Doc V 2 |  
 | name_no_type | Oomlout Oomlout Oomp Doc V 2 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_project_doc_v_2 |  
 | oomp_word | school lemon blush |  
 | oomp_word_emoji | :school: :lemon: :blush: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: grain
+bip_39_word_dash_10: grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze
+bip_39_word_dash_11: grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze-paddle
+bip_39_word_dash_12: grain-credit-aim-struggle-result-keep-venture-pepper-error-gaze-paddle-aspect
+bip_39_word_dash_2: grain-credit
+bip_39_word_dash_3: grain-credit-aim
+bip_39_word_dash_4: grain-credit-aim-struggle
+bip_39_word_dash_5: grain-credit-aim-struggle-result
+bip_39_word_dash_6: grain-credit-aim-struggle-result-keep
+bip_39_word_dash_7: grain-credit-aim-struggle-result-keep-venture
+bip_39_word_dash_8: grain-credit-aim-struggle-result-keep-venture-pepper
+bip_39_word_dash_9: grain-credit-aim-struggle-result-keep-venture-pepper-error
+bip_39_word_new_br_1: grain
+bip_39_word_new_br_10: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze
+bip_39_word_new_br_11: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle
+bip_39_word_new_br_12: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error<br>gaze<br>paddle<br>aspect
+bip_39_word_new_br_2: grain<br>credit
+bip_39_word_new_br_3: grain<br>credit<br>aim
+bip_39_word_new_br_4: grain<br>credit<br>aim<br>struggle
+bip_39_word_new_br_5: grain<br>credit<br>aim<br>struggle<br>result
+bip_39_word_new_br_6: grain<br>credit<br>aim<br>struggle<br>result<br>keep
+bip_39_word_new_br_7: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture
+bip_39_word_new_br_8: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper
+bip_39_word_new_br_9: grain<br>credit<br>aim<br>struggle<br>result<br>keep<br>venture<br>pepper<br>error
+bip_39_word_new_line_1: grain
+bip_39_word_new_line_10: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture
+
+  pepper
+
+  error
+
+  gaze'
+bip_39_word_new_line_11: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture
+
+  pepper
+
+  error
+
+  gaze
+
+  paddle'
+bip_39_word_new_line_12: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture
+
+  pepper
+
+  error
+
+  gaze
+
+  paddle
+
+  aspect'
+bip_39_word_new_line_2: 'grain
+
+  credit'
+bip_39_word_new_line_3: 'grain
+
+  credit
+
+  aim'
+bip_39_word_new_line_4: 'grain
+
+  credit
+
+  aim
+
+  struggle'
+bip_39_word_new_line_5: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result'
+bip_39_word_new_line_6: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep'
+bip_39_word_new_line_7: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture'
+bip_39_word_new_line_8: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture
+
+  pepper'
+bip_39_word_new_line_9: 'grain
+
+  credit
+
+  aim
+
+  struggle
+
+  result
+
+  keep
+
+  venture
+
+  pepper
+
+  error'
+bip_39_word_no_space_1: grain
+bip_39_word_no_space_10: graincreditaimstruggleresultkeepventurepeppererrorgaze
+bip_39_word_no_space_11: graincreditaimstruggleresultkeepventurepeppererrorgazepaddle
+bip_39_word_no_space_12: graincreditaimstruggleresultkeepventurepeppererrorgazepaddleaspect
+bip_39_word_no_space_2: graincredit
+bip_39_word_no_space_3: graincreditaim
+bip_39_word_no_space_4: graincreditaimstruggle
+bip_39_word_no_space_5: graincreditaimstruggleresult
+bip_39_word_no_space_6: graincreditaimstruggleresultkeep
+bip_39_word_no_space_7: graincreditaimstruggleresultkeepventure
+bip_39_word_no_space_8: graincreditaimstruggleresultkeepventurepepper
+bip_39_word_no_space_9: graincreditaimstruggleresultkeepventurepeppererror
+bip_39_word_space_0:
+- grain
+- credit
+- aim
+- struggle
+- result
+- keep
+- venture
+- pepper
+- error
+- gaze
+- paddle
+- aspect
+bip_39_word_space_1: grain
+bip_39_word_space_10: grain credit aim struggle result keep venture pepper error gaze
+bip_39_word_space_11: grain credit aim struggle result keep venture pepper error gaze
+  paddle
+bip_39_word_space_12: grain credit aim struggle result keep venture pepper error gaze
+  paddle aspect
+bip_39_word_space_2: grain credit
+bip_39_word_space_3: grain credit aim
+bip_39_word_space_4: grain credit aim struggle
+bip_39_word_space_5: grain credit aim struggle result
+bip_39_word_space_6: grain credit aim struggle result keep
+bip_39_word_space_7: grain credit aim struggle result keep venture
+bip_39_word_space_8: grain credit aim struggle result keep venture pepper
+bip_39_word_space_9: grain credit aim struggle result keep venture pepper error
+bip_39_word_underscore_1: grain
+bip_39_word_underscore_10: grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze
+bip_39_word_underscore_11: grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze_paddle
+bip_39_word_underscore_12: grain_credit_aim_struggle_result_keep_venture_pepper_error_gaze_paddle_aspect
+bip_39_word_underscore_2: grain_credit
+bip_39_word_underscore_3: grain_credit_aim
+bip_39_word_underscore_4: grain_credit_aim_struggle
+bip_39_word_underscore_5: grain_credit_aim_struggle_result
+bip_39_word_underscore_6: grain_credit_aim_struggle_result_keep
+bip_39_word_underscore_7: grain_credit_aim_struggle_result_keep_venture
+bip_39_word_underscore_8: grain_credit_aim_struggle_result_keep_venture_pepper
+bip_39_word_underscore_9: grain_credit_aim_struggle_result_keep_venture_pepper_error
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_06__nut_small
 id_no_color: 06nutsmall
 id_no_size: 06__nut_small
 id_no_type: shaft_06__nut_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_06__nut_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_06__nut_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ec9k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ec9k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ec9k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 06Nutsmall
 name_no_size: 06  Nut Small
 name_no_size_short: 6  Nut Small
 name_no_type: Shaft 06  Nut Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_06__nut_small
 oomp_word: office cow tennis
 oomp_word_emoji: ':office: :cow: :tennis:'

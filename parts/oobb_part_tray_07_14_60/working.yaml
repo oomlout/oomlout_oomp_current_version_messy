@@ -1,3 +1,222 @@
+bip_39_word_dash_1: town
+bip_39_word_dash_10: town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword
+bip_39_word_dash_11: town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword-sound
+bip_39_word_dash_12: town-bounce-have-hammer-maple-stem-friend-hole-reduce-sword-sound-age
+bip_39_word_dash_2: town-bounce
+bip_39_word_dash_3: town-bounce-have
+bip_39_word_dash_4: town-bounce-have-hammer
+bip_39_word_dash_5: town-bounce-have-hammer-maple
+bip_39_word_dash_6: town-bounce-have-hammer-maple-stem
+bip_39_word_dash_7: town-bounce-have-hammer-maple-stem-friend
+bip_39_word_dash_8: town-bounce-have-hammer-maple-stem-friend-hole
+bip_39_word_dash_9: town-bounce-have-hammer-maple-stem-friend-hole-reduce
+bip_39_word_new_br_1: town
+bip_39_word_new_br_10: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword
+bip_39_word_new_br_11: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound
+bip_39_word_new_br_12: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce<br>sword<br>sound<br>age
+bip_39_word_new_br_2: town<br>bounce
+bip_39_word_new_br_3: town<br>bounce<br>have
+bip_39_word_new_br_4: town<br>bounce<br>have<br>hammer
+bip_39_word_new_br_5: town<br>bounce<br>have<br>hammer<br>maple
+bip_39_word_new_br_6: town<br>bounce<br>have<br>hammer<br>maple<br>stem
+bip_39_word_new_br_7: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend
+bip_39_word_new_br_8: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole
+bip_39_word_new_br_9: town<br>bounce<br>have<br>hammer<br>maple<br>stem<br>friend<br>hole<br>reduce
+bip_39_word_new_line_1: town
+bip_39_word_new_line_10: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend
+
+  hole
+
+  reduce
+
+  sword'
+bip_39_word_new_line_11: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend
+
+  hole
+
+  reduce
+
+  sword
+
+  sound'
+bip_39_word_new_line_12: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend
+
+  hole
+
+  reduce
+
+  sword
+
+  sound
+
+  age'
+bip_39_word_new_line_2: 'town
+
+  bounce'
+bip_39_word_new_line_3: 'town
+
+  bounce
+
+  have'
+bip_39_word_new_line_4: 'town
+
+  bounce
+
+  have
+
+  hammer'
+bip_39_word_new_line_5: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple'
+bip_39_word_new_line_6: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem'
+bip_39_word_new_line_7: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend'
+bip_39_word_new_line_8: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend
+
+  hole'
+bip_39_word_new_line_9: 'town
+
+  bounce
+
+  have
+
+  hammer
+
+  maple
+
+  stem
+
+  friend
+
+  hole
+
+  reduce'
+bip_39_word_no_space_1: town
+bip_39_word_no_space_10: townbouncehavehammermaplestemfriendholereducesword
+bip_39_word_no_space_11: townbouncehavehammermaplestemfriendholereduceswordsound
+bip_39_word_no_space_12: townbouncehavehammermaplestemfriendholereduceswordsoundage
+bip_39_word_no_space_2: townbounce
+bip_39_word_no_space_3: townbouncehave
+bip_39_word_no_space_4: townbouncehavehammer
+bip_39_word_no_space_5: townbouncehavehammermaple
+bip_39_word_no_space_6: townbouncehavehammermaplestem
+bip_39_word_no_space_7: townbouncehavehammermaplestemfriend
+bip_39_word_no_space_8: townbouncehavehammermaplestemfriendhole
+bip_39_word_no_space_9: townbouncehavehammermaplestemfriendholereduce
+bip_39_word_space_0:
+- town
+- bounce
+- have
+- hammer
+- maple
+- stem
+- friend
+- hole
+- reduce
+- sword
+- sound
+- age
+bip_39_word_space_1: town
+bip_39_word_space_10: town bounce have hammer maple stem friend hole reduce sword
+bip_39_word_space_11: town bounce have hammer maple stem friend hole reduce sword
+  sound
+bip_39_word_space_12: town bounce have hammer maple stem friend hole reduce sword
+  sound age
+bip_39_word_space_2: town bounce
+bip_39_word_space_3: town bounce have
+bip_39_word_space_4: town bounce have hammer
+bip_39_word_space_5: town bounce have hammer maple
+bip_39_word_space_6: town bounce have hammer maple stem
+bip_39_word_space_7: town bounce have hammer maple stem friend
+bip_39_word_space_8: town bounce have hammer maple stem friend hole
+bip_39_word_space_9: town bounce have hammer maple stem friend hole reduce
+bip_39_word_underscore_1: town
+bip_39_word_underscore_10: town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword
+bip_39_word_underscore_11: town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword_sound
+bip_39_word_underscore_12: town_bounce_have_hammer_maple_stem_friend_hole_reduce_sword_sound_age
+bip_39_word_underscore_2: town_bounce
+bip_39_word_underscore_3: town_bounce_have
+bip_39_word_underscore_4: town_bounce_have_hammer
+bip_39_word_underscore_5: town_bounce_have_hammer_maple
+bip_39_word_underscore_6: town_bounce_have_hammer_maple_stem
+bip_39_word_underscore_7: town_bounce_have_hammer_maple_stem_friend
+bip_39_word_underscore_8: town_bounce_have_hammer_maple_stem_friend_hole
+bip_39_word_underscore_9: town_bounce_have_hammer_maple_stem_friend_hole_reduce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_14_60
 id_no_color: '071460'
 id_no_size: '07_14_60'
 id_no_type: tray_07_14_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_14_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_14_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_14_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203119z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203119z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203119z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '071460'
 name_no_size: 07 14 60
 name_no_size_short: 07 14 60
 name_no_type: Tray 07 14 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_14_60
 oomp_word: bug diamonds pizza
 oomp_word_emoji: ':bug: :diamonds: :pizza:'

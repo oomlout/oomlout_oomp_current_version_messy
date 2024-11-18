@@ -1,3 +1,222 @@
+bip_39_word_dash_1: across
+bip_39_word_dash_10: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total
+bip_39_word_dash_11: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total-raise
+bip_39_word_dash_12: across-hope-network-bounce-gauge-index-blast-pyramid-beef-total-raise-also
+bip_39_word_dash_2: across-hope
+bip_39_word_dash_3: across-hope-network
+bip_39_word_dash_4: across-hope-network-bounce
+bip_39_word_dash_5: across-hope-network-bounce-gauge
+bip_39_word_dash_6: across-hope-network-bounce-gauge-index
+bip_39_word_dash_7: across-hope-network-bounce-gauge-index-blast
+bip_39_word_dash_8: across-hope-network-bounce-gauge-index-blast-pyramid
+bip_39_word_dash_9: across-hope-network-bounce-gauge-index-blast-pyramid-beef
+bip_39_word_new_br_1: across
+bip_39_word_new_br_10: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total
+bip_39_word_new_br_11: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total<br>raise
+bip_39_word_new_br_12: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef<br>total<br>raise<br>also
+bip_39_word_new_br_2: across<br>hope
+bip_39_word_new_br_3: across<br>hope<br>network
+bip_39_word_new_br_4: across<br>hope<br>network<br>bounce
+bip_39_word_new_br_5: across<br>hope<br>network<br>bounce<br>gauge
+bip_39_word_new_br_6: across<br>hope<br>network<br>bounce<br>gauge<br>index
+bip_39_word_new_br_7: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast
+bip_39_word_new_br_8: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid
+bip_39_word_new_br_9: across<br>hope<br>network<br>bounce<br>gauge<br>index<br>blast<br>pyramid<br>beef
+bip_39_word_new_line_1: across
+bip_39_word_new_line_10: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast
+
+  pyramid
+
+  beef
+
+  total'
+bip_39_word_new_line_11: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast
+
+  pyramid
+
+  beef
+
+  total
+
+  raise'
+bip_39_word_new_line_12: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast
+
+  pyramid
+
+  beef
+
+  total
+
+  raise
+
+  also'
+bip_39_word_new_line_2: 'across
+
+  hope'
+bip_39_word_new_line_3: 'across
+
+  hope
+
+  network'
+bip_39_word_new_line_4: 'across
+
+  hope
+
+  network
+
+  bounce'
+bip_39_word_new_line_5: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge'
+bip_39_word_new_line_6: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index'
+bip_39_word_new_line_7: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast'
+bip_39_word_new_line_8: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast
+
+  pyramid'
+bip_39_word_new_line_9: 'across
+
+  hope
+
+  network
+
+  bounce
+
+  gauge
+
+  index
+
+  blast
+
+  pyramid
+
+  beef'
+bip_39_word_no_space_1: across
+bip_39_word_no_space_10: acrosshopenetworkbouncegaugeindexblastpyramidbeeftotal
+bip_39_word_no_space_11: acrosshopenetworkbouncegaugeindexblastpyramidbeeftotalraise
+bip_39_word_no_space_12: acrosshopenetworkbouncegaugeindexblastpyramidbeeftotalraisealso
+bip_39_word_no_space_2: acrosshope
+bip_39_word_no_space_3: acrosshopenetwork
+bip_39_word_no_space_4: acrosshopenetworkbounce
+bip_39_word_no_space_5: acrosshopenetworkbouncegauge
+bip_39_word_no_space_6: acrosshopenetworkbouncegaugeindex
+bip_39_word_no_space_7: acrosshopenetworkbouncegaugeindexblast
+bip_39_word_no_space_8: acrosshopenetworkbouncegaugeindexblastpyramid
+bip_39_word_no_space_9: acrosshopenetworkbouncegaugeindexblastpyramidbeef
+bip_39_word_space_0:
+- across
+- hope
+- network
+- bounce
+- gauge
+- index
+- blast
+- pyramid
+- beef
+- total
+- raise
+- also
+bip_39_word_space_1: across
+bip_39_word_space_10: across hope network bounce gauge index blast pyramid beef total
+bip_39_word_space_11: across hope network bounce gauge index blast pyramid beef total
+  raise
+bip_39_word_space_12: across hope network bounce gauge index blast pyramid beef total
+  raise also
+bip_39_word_space_2: across hope
+bip_39_word_space_3: across hope network
+bip_39_word_space_4: across hope network bounce
+bip_39_word_space_5: across hope network bounce gauge
+bip_39_word_space_6: across hope network bounce gauge index
+bip_39_word_space_7: across hope network bounce gauge index blast
+bip_39_word_space_8: across hope network bounce gauge index blast pyramid
+bip_39_word_space_9: across hope network bounce gauge index blast pyramid beef
+bip_39_word_underscore_1: across
+bip_39_word_underscore_10: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total
+bip_39_word_underscore_11: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total_raise
+bip_39_word_underscore_12: across_hope_network_bounce_gauge_index_blast_pyramid_beef_total_raise_also
+bip_39_word_underscore_2: across_hope
+bip_39_word_underscore_3: across_hope_network
+bip_39_word_underscore_4: across_hope_network_bounce
+bip_39_word_underscore_5: across_hope_network_bounce_gauge
+bip_39_word_underscore_6: across_hope_network_bounce_gauge_index
+bip_39_word_underscore_7: across_hope_network_bounce_gauge_index_blast
+bip_39_word_underscore_8: across_hope_network_bounce_gauge_index_blast_pyramid
+bip_39_word_underscore_9: across_hope_network_bounce_gauge_index_blast_pyramid_beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_05_09
 id_no_color: 1d50509
 id_no_size: 1d5_05_09
 id_no_type: tray_1d5_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204kvw9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204kvw9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204kvw9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D50509
 name_no_size: 1D5 05 09
 name_no_size_short: 1D5 05 09
 name_no_type: Tray 1D5 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_05_09
 oomp_word: ghost tulip balloon
 oomp_word_emoji: ':ghost: :tulip: :balloon:'

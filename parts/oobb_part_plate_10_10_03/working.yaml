@@ -1,3 +1,221 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-federal-hen-wood-near-climb-follow-nice-foster-fire
+bip_39_word_dash_11: print-federal-hen-wood-near-climb-follow-nice-foster-fire-trap
+bip_39_word_dash_12: print-federal-hen-wood-near-climb-follow-nice-foster-fire-trap-achieve
+bip_39_word_dash_2: print-federal
+bip_39_word_dash_3: print-federal-hen
+bip_39_word_dash_4: print-federal-hen-wood
+bip_39_word_dash_5: print-federal-hen-wood-near
+bip_39_word_dash_6: print-federal-hen-wood-near-climb
+bip_39_word_dash_7: print-federal-hen-wood-near-climb-follow
+bip_39_word_dash_8: print-federal-hen-wood-near-climb-follow-nice
+bip_39_word_dash_9: print-federal-hen-wood-near-climb-follow-nice-foster
+bip_39_word_new_br_1: print
+bip_39_word_new_br_10: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire
+bip_39_word_new_br_11: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap
+bip_39_word_new_br_12: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster<br>fire<br>trap<br>achieve
+bip_39_word_new_br_2: print<br>federal
+bip_39_word_new_br_3: print<br>federal<br>hen
+bip_39_word_new_br_4: print<br>federal<br>hen<br>wood
+bip_39_word_new_br_5: print<br>federal<br>hen<br>wood<br>near
+bip_39_word_new_br_6: print<br>federal<br>hen<br>wood<br>near<br>climb
+bip_39_word_new_br_7: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow
+bip_39_word_new_br_8: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice
+bip_39_word_new_br_9: print<br>federal<br>hen<br>wood<br>near<br>climb<br>follow<br>nice<br>foster
+bip_39_word_new_line_1: print
+bip_39_word_new_line_10: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire'
+bip_39_word_new_line_11: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire
+
+  trap'
+bip_39_word_new_line_12: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster
+
+  fire
+
+  trap
+
+  achieve'
+bip_39_word_new_line_2: 'print
+
+  federal'
+bip_39_word_new_line_3: 'print
+
+  federal
+
+  hen'
+bip_39_word_new_line_4: 'print
+
+  federal
+
+  hen
+
+  wood'
+bip_39_word_new_line_5: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near'
+bip_39_word_new_line_6: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb'
+bip_39_word_new_line_7: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow'
+bip_39_word_new_line_8: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice'
+bip_39_word_new_line_9: 'print
+
+  federal
+
+  hen
+
+  wood
+
+  near
+
+  climb
+
+  follow
+
+  nice
+
+  foster'
+bip_39_word_no_space_1: print
+bip_39_word_no_space_10: printfederalhenwoodnearclimbfollownicefosterfire
+bip_39_word_no_space_11: printfederalhenwoodnearclimbfollownicefosterfiretrap
+bip_39_word_no_space_12: printfederalhenwoodnearclimbfollownicefosterfiretrapachieve
+bip_39_word_no_space_2: printfederal
+bip_39_word_no_space_3: printfederalhen
+bip_39_word_no_space_4: printfederalhenwood
+bip_39_word_no_space_5: printfederalhenwoodnear
+bip_39_word_no_space_6: printfederalhenwoodnearclimb
+bip_39_word_no_space_7: printfederalhenwoodnearclimbfollow
+bip_39_word_no_space_8: printfederalhenwoodnearclimbfollownice
+bip_39_word_no_space_9: printfederalhenwoodnearclimbfollownicefoster
+bip_39_word_space_0:
+- print
+- federal
+- hen
+- wood
+- near
+- climb
+- follow
+- nice
+- foster
+- fire
+- trap
+- achieve
+bip_39_word_space_1: print
+bip_39_word_space_10: print federal hen wood near climb follow nice foster fire
+bip_39_word_space_11: print federal hen wood near climb follow nice foster fire trap
+bip_39_word_space_12: print federal hen wood near climb follow nice foster fire trap
+  achieve
+bip_39_word_space_2: print federal
+bip_39_word_space_3: print federal hen
+bip_39_word_space_4: print federal hen wood
+bip_39_word_space_5: print federal hen wood near
+bip_39_word_space_6: print federal hen wood near climb
+bip_39_word_space_7: print federal hen wood near climb follow
+bip_39_word_space_8: print federal hen wood near climb follow nice
+bip_39_word_space_9: print federal hen wood near climb follow nice foster
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_federal_hen_wood_near_climb_follow_nice_foster_fire
+bip_39_word_underscore_11: print_federal_hen_wood_near_climb_follow_nice_foster_fire_trap
+bip_39_word_underscore_12: print_federal_hen_wood_near_climb_follow_nice_foster_fire_trap_achieve
+bip_39_word_underscore_2: print_federal
+bip_39_word_underscore_3: print_federal_hen
+bip_39_word_underscore_4: print_federal_hen_wood
+bip_39_word_underscore_5: print_federal_hen_wood_near
+bip_39_word_underscore_6: print_federal_hen_wood_near_climb
+bip_39_word_underscore_7: print_federal_hen_wood_near_climb_follow
+bip_39_word_underscore_8: print_federal_hen_wood_near_climb_follow_nice
+bip_39_word_underscore_9: print_federal_hen_wood_near_climb_follow_nice_foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_plate_10_10_03
 id_no_color: '101003'
 id_no_size: '10_10_03'
 id_no_type: plate_10_10_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_10_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_10_10_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_10_10_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015v9x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015v9x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015v9x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '101003'
 name_no_size: 10 10 03
 name_no_size_short: 10 10 03
 name_no_type: Plate 10 10 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_10_10_03
 oomp_word: baby peach telescope
 oomp_word_emoji: ':baby: :peach: :telescope:'

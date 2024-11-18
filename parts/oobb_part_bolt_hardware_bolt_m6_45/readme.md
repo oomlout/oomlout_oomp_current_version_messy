@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bolt Hardware Bolt M6 45
+* name_short: 
 ### id
 * oomp_id: oobb_part_bolt_hardware_bolt_m6_45
   * classification: oobb

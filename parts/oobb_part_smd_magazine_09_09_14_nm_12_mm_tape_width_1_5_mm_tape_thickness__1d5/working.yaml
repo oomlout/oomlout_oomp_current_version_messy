@@ -1,3 +1,223 @@
+bip_39_word_dash_1: evil
+bip_39_word_dash_10: evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect
+bip_39_word_dash_11: evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect-exile
+bip_39_word_dash_12: evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait-suspect-exile-accuse
+bip_39_word_dash_2: evil-cruise
+bip_39_word_dash_3: evil-cruise-chronic
+bip_39_word_dash_4: evil-cruise-chronic-donate
+bip_39_word_dash_5: evil-cruise-chronic-donate-canvas
+bip_39_word_dash_6: evil-cruise-chronic-donate-canvas-ridge
+bip_39_word_dash_7: evil-cruise-chronic-donate-canvas-ridge-charge
+bip_39_word_dash_8: evil-cruise-chronic-donate-canvas-ridge-charge-assault
+bip_39_word_dash_9: evil-cruise-chronic-donate-canvas-ridge-charge-assault-wait
+bip_39_word_new_br_1: evil
+bip_39_word_new_br_10: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect
+bip_39_word_new_br_11: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile
+bip_39_word_new_br_12: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait<br>suspect<br>exile<br>accuse
+bip_39_word_new_br_2: evil<br>cruise
+bip_39_word_new_br_3: evil<br>cruise<br>chronic
+bip_39_word_new_br_4: evil<br>cruise<br>chronic<br>donate
+bip_39_word_new_br_5: evil<br>cruise<br>chronic<br>donate<br>canvas
+bip_39_word_new_br_6: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge
+bip_39_word_new_br_7: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge
+bip_39_word_new_br_8: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault
+bip_39_word_new_br_9: evil<br>cruise<br>chronic<br>donate<br>canvas<br>ridge<br>charge<br>assault<br>wait
+bip_39_word_new_line_1: evil
+bip_39_word_new_line_10: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge
+
+  assault
+
+  wait
+
+  suspect'
+bip_39_word_new_line_11: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge
+
+  assault
+
+  wait
+
+  suspect
+
+  exile'
+bip_39_word_new_line_12: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge
+
+  assault
+
+  wait
+
+  suspect
+
+  exile
+
+  accuse'
+bip_39_word_new_line_2: 'evil
+
+  cruise'
+bip_39_word_new_line_3: 'evil
+
+  cruise
+
+  chronic'
+bip_39_word_new_line_4: 'evil
+
+  cruise
+
+  chronic
+
+  donate'
+bip_39_word_new_line_5: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas'
+bip_39_word_new_line_6: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge'
+bip_39_word_new_line_7: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge'
+bip_39_word_new_line_8: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge
+
+  assault'
+bip_39_word_new_line_9: 'evil
+
+  cruise
+
+  chronic
+
+  donate
+
+  canvas
+
+  ridge
+
+  charge
+
+  assault
+
+  wait'
+bip_39_word_no_space_1: evil
+bip_39_word_no_space_10: evilcruisechronicdonatecanvasridgechargeassaultwaitsuspect
+bip_39_word_no_space_11: evilcruisechronicdonatecanvasridgechargeassaultwaitsuspectexile
+bip_39_word_no_space_12: evilcruisechronicdonatecanvasridgechargeassaultwaitsuspectexileaccuse
+bip_39_word_no_space_2: evilcruise
+bip_39_word_no_space_3: evilcruisechronic
+bip_39_word_no_space_4: evilcruisechronicdonate
+bip_39_word_no_space_5: evilcruisechronicdonatecanvas
+bip_39_word_no_space_6: evilcruisechronicdonatecanvasridge
+bip_39_word_no_space_7: evilcruisechronicdonatecanvasridgecharge
+bip_39_word_no_space_8: evilcruisechronicdonatecanvasridgechargeassault
+bip_39_word_no_space_9: evilcruisechronicdonatecanvasridgechargeassaultwait
+bip_39_word_space_0:
+- evil
+- cruise
+- chronic
+- donate
+- canvas
+- ridge
+- charge
+- assault
+- wait
+- suspect
+- exile
+- accuse
+bip_39_word_space_1: evil
+bip_39_word_space_10: evil cruise chronic donate canvas ridge charge assault wait
+  suspect
+bip_39_word_space_11: evil cruise chronic donate canvas ridge charge assault wait
+  suspect exile
+bip_39_word_space_12: evil cruise chronic donate canvas ridge charge assault wait
+  suspect exile accuse
+bip_39_word_space_2: evil cruise
+bip_39_word_space_3: evil cruise chronic
+bip_39_word_space_4: evil cruise chronic donate
+bip_39_word_space_5: evil cruise chronic donate canvas
+bip_39_word_space_6: evil cruise chronic donate canvas ridge
+bip_39_word_space_7: evil cruise chronic donate canvas ridge charge
+bip_39_word_space_8: evil cruise chronic donate canvas ridge charge assault
+bip_39_word_space_9: evil cruise chronic donate canvas ridge charge assault wait
+bip_39_word_underscore_1: evil
+bip_39_word_underscore_10: evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect
+bip_39_word_underscore_11: evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect_exile
+bip_39_word_underscore_12: evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait_suspect_exile_accuse
+bip_39_word_underscore_2: evil_cruise
+bip_39_word_underscore_3: evil_cruise_chronic
+bip_39_word_underscore_4: evil_cruise_chronic_donate
+bip_39_word_underscore_5: evil_cruise_chronic_donate_canvas
+bip_39_word_underscore_6: evil_cruise_chronic_donate_canvas_ridge
+bip_39_word_underscore_7: evil_cruise_chronic_donate_canvas_ridge_charge
+bip_39_word_underscore_8: evil_cruise_chronic_donate_canvas_ridge_charge_assault
+bip_39_word_underscore_9: evil_cruise_chronic_donate_canvas_ridge_charge_assault_wait
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thicknes
 id_no_color: 090914nm12mmtapewidth15mmtapethickness1d5
 id_no_size: 09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
 id_no_type: smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2011e9i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2011e9i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2011e9i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 090914Nm12mmtapewidth15mmtapethickness1D5
 name_no_size: 09 09 14 Nm 12 mm Tape Width 1 5 mm Tape Thickness  1D5
 name_no_size_short: 09 09 14 Nm 12 Mm Tape Width 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 09 09 14 Nm 12 mm Tape Width 1 5 mm Tape Thickness  1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_09_09_14_nm_12_mm_tape_width_1_5_mm_tape_thickness__1d5
 oomp_word: clap diamonds santa
 oomp_word_emoji: ':clap: :diamonds: :santa:'

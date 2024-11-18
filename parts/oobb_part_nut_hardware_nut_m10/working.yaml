@@ -1,3 +1,222 @@
+bip_39_word_dash_1: beef
+bip_39_word_dash_10: beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile
+bip_39_word_dash_11: beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile-visa
+bip_39_word_dash_12: beef-screen-nurse-travel-diesel-office-oppose-tongue-weird-mobile-visa-asset
+bip_39_word_dash_2: beef-screen
+bip_39_word_dash_3: beef-screen-nurse
+bip_39_word_dash_4: beef-screen-nurse-travel
+bip_39_word_dash_5: beef-screen-nurse-travel-diesel
+bip_39_word_dash_6: beef-screen-nurse-travel-diesel-office
+bip_39_word_dash_7: beef-screen-nurse-travel-diesel-office-oppose
+bip_39_word_dash_8: beef-screen-nurse-travel-diesel-office-oppose-tongue
+bip_39_word_dash_9: beef-screen-nurse-travel-diesel-office-oppose-tongue-weird
+bip_39_word_new_br_1: beef
+bip_39_word_new_br_10: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile
+bip_39_word_new_br_11: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile<br>visa
+bip_39_word_new_br_12: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird<br>mobile<br>visa<br>asset
+bip_39_word_new_br_2: beef<br>screen
+bip_39_word_new_br_3: beef<br>screen<br>nurse
+bip_39_word_new_br_4: beef<br>screen<br>nurse<br>travel
+bip_39_word_new_br_5: beef<br>screen<br>nurse<br>travel<br>diesel
+bip_39_word_new_br_6: beef<br>screen<br>nurse<br>travel<br>diesel<br>office
+bip_39_word_new_br_7: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose
+bip_39_word_new_br_8: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue
+bip_39_word_new_br_9: beef<br>screen<br>nurse<br>travel<br>diesel<br>office<br>oppose<br>tongue<br>weird
+bip_39_word_new_line_1: beef
+bip_39_word_new_line_10: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose
+
+  tongue
+
+  weird
+
+  mobile'
+bip_39_word_new_line_11: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose
+
+  tongue
+
+  weird
+
+  mobile
+
+  visa'
+bip_39_word_new_line_12: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose
+
+  tongue
+
+  weird
+
+  mobile
+
+  visa
+
+  asset'
+bip_39_word_new_line_2: 'beef
+
+  screen'
+bip_39_word_new_line_3: 'beef
+
+  screen
+
+  nurse'
+bip_39_word_new_line_4: 'beef
+
+  screen
+
+  nurse
+
+  travel'
+bip_39_word_new_line_5: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel'
+bip_39_word_new_line_6: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office'
+bip_39_word_new_line_7: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose'
+bip_39_word_new_line_8: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose
+
+  tongue'
+bip_39_word_new_line_9: 'beef
+
+  screen
+
+  nurse
+
+  travel
+
+  diesel
+
+  office
+
+  oppose
+
+  tongue
+
+  weird'
+bip_39_word_no_space_1: beef
+bip_39_word_no_space_10: beefscreennursetraveldieselofficeopposetongueweirdmobile
+bip_39_word_no_space_11: beefscreennursetraveldieselofficeopposetongueweirdmobilevisa
+bip_39_word_no_space_12: beefscreennursetraveldieselofficeopposetongueweirdmobilevisaasset
+bip_39_word_no_space_2: beefscreen
+bip_39_word_no_space_3: beefscreennurse
+bip_39_word_no_space_4: beefscreennursetravel
+bip_39_word_no_space_5: beefscreennursetraveldiesel
+bip_39_word_no_space_6: beefscreennursetraveldieseloffice
+bip_39_word_no_space_7: beefscreennursetraveldieselofficeoppose
+bip_39_word_no_space_8: beefscreennursetraveldieselofficeopposetongue
+bip_39_word_no_space_9: beefscreennursetraveldieselofficeopposetongueweird
+bip_39_word_space_0:
+- beef
+- screen
+- nurse
+- travel
+- diesel
+- office
+- oppose
+- tongue
+- weird
+- mobile
+- visa
+- asset
+bip_39_word_space_1: beef
+bip_39_word_space_10: beef screen nurse travel diesel office oppose tongue weird mobile
+bip_39_word_space_11: beef screen nurse travel diesel office oppose tongue weird mobile
+  visa
+bip_39_word_space_12: beef screen nurse travel diesel office oppose tongue weird mobile
+  visa asset
+bip_39_word_space_2: beef screen
+bip_39_word_space_3: beef screen nurse
+bip_39_word_space_4: beef screen nurse travel
+bip_39_word_space_5: beef screen nurse travel diesel
+bip_39_word_space_6: beef screen nurse travel diesel office
+bip_39_word_space_7: beef screen nurse travel diesel office oppose
+bip_39_word_space_8: beef screen nurse travel diesel office oppose tongue
+bip_39_word_space_9: beef screen nurse travel diesel office oppose tongue weird
+bip_39_word_underscore_1: beef
+bip_39_word_underscore_10: beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile
+bip_39_word_underscore_11: beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile_visa
+bip_39_word_underscore_12: beef_screen_nurse_travel_diesel_office_oppose_tongue_weird_mobile_visa_asset
+bip_39_word_underscore_2: beef_screen
+bip_39_word_underscore_3: beef_screen_nurse
+bip_39_word_underscore_4: beef_screen_nurse_travel
+bip_39_word_underscore_5: beef_screen_nurse_travel_diesel
+bip_39_word_underscore_6: beef_screen_nurse_travel_diesel_office
+bip_39_word_underscore_7: beef_screen_nurse_travel_diesel_office_oppose
+bip_39_word_underscore_8: beef_screen_nurse_travel_diesel_office_oppose_tongue
+bip_39_word_underscore_9: beef_screen_nurse_travel_diesel_office_oppose_tongue_weird
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_nut_hardware_nut_m10
 id_no_color: hardwarem10
 id_no_size: hardware_m10
 id_no_type: nut_hardware_nut_m10
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m10
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m10
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m10
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208kwgz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208kwgz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208kwgz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem10
 name_no_size: Hardware M10
 name_no_size_short: Hardware M10
 name_no_type: Nut Hardware Nut M10
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_nut_hardware_nut_m10
 oomp_word: tent bike rose
 oomp_word_emoji: ':tent: :bike: :rose:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 01 03 14  Ptfe Tube Holder Sh Quarter Inch Pipe Thread
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_01_03_14__ptfe_tube_holder_sh_quarter_inch_pipe_thread
   * classification: oobb

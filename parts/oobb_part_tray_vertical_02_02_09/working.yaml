@@ -1,3 +1,222 @@
+bip_39_word_dash_1: shaft
+bip_39_word_dash_10: shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep
+bip_39_word_dash_11: shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep-jeans
+bip_39_word_dash_12: shaft-belt-suffer-blast-praise-family-jeans-later-price-sleep-jeans-airport
+bip_39_word_dash_2: shaft-belt
+bip_39_word_dash_3: shaft-belt-suffer
+bip_39_word_dash_4: shaft-belt-suffer-blast
+bip_39_word_dash_5: shaft-belt-suffer-blast-praise
+bip_39_word_dash_6: shaft-belt-suffer-blast-praise-family
+bip_39_word_dash_7: shaft-belt-suffer-blast-praise-family-jeans
+bip_39_word_dash_8: shaft-belt-suffer-blast-praise-family-jeans-later
+bip_39_word_dash_9: shaft-belt-suffer-blast-praise-family-jeans-later-price
+bip_39_word_new_br_1: shaft
+bip_39_word_new_br_10: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep
+bip_39_word_new_br_11: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans
+bip_39_word_new_br_12: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price<br>sleep<br>jeans<br>airport
+bip_39_word_new_br_2: shaft<br>belt
+bip_39_word_new_br_3: shaft<br>belt<br>suffer
+bip_39_word_new_br_4: shaft<br>belt<br>suffer<br>blast
+bip_39_word_new_br_5: shaft<br>belt<br>suffer<br>blast<br>praise
+bip_39_word_new_br_6: shaft<br>belt<br>suffer<br>blast<br>praise<br>family
+bip_39_word_new_br_7: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans
+bip_39_word_new_br_8: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later
+bip_39_word_new_br_9: shaft<br>belt<br>suffer<br>blast<br>praise<br>family<br>jeans<br>later<br>price
+bip_39_word_new_line_1: shaft
+bip_39_word_new_line_10: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans
+
+  later
+
+  price
+
+  sleep'
+bip_39_word_new_line_11: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans
+
+  later
+
+  price
+
+  sleep
+
+  jeans'
+bip_39_word_new_line_12: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans
+
+  later
+
+  price
+
+  sleep
+
+  jeans
+
+  airport'
+bip_39_word_new_line_2: 'shaft
+
+  belt'
+bip_39_word_new_line_3: 'shaft
+
+  belt
+
+  suffer'
+bip_39_word_new_line_4: 'shaft
+
+  belt
+
+  suffer
+
+  blast'
+bip_39_word_new_line_5: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise'
+bip_39_word_new_line_6: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family'
+bip_39_word_new_line_7: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans'
+bip_39_word_new_line_8: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans
+
+  later'
+bip_39_word_new_line_9: 'shaft
+
+  belt
+
+  suffer
+
+  blast
+
+  praise
+
+  family
+
+  jeans
+
+  later
+
+  price'
+bip_39_word_no_space_1: shaft
+bip_39_word_no_space_10: shaftbeltsufferblastpraisefamilyjeanslaterpricesleep
+bip_39_word_no_space_11: shaftbeltsufferblastpraisefamilyjeanslaterpricesleepjeans
+bip_39_word_no_space_12: shaftbeltsufferblastpraisefamilyjeanslaterpricesleepjeansairport
+bip_39_word_no_space_2: shaftbelt
+bip_39_word_no_space_3: shaftbeltsuffer
+bip_39_word_no_space_4: shaftbeltsufferblast
+bip_39_word_no_space_5: shaftbeltsufferblastpraise
+bip_39_word_no_space_6: shaftbeltsufferblastpraisefamily
+bip_39_word_no_space_7: shaftbeltsufferblastpraisefamilyjeans
+bip_39_word_no_space_8: shaftbeltsufferblastpraisefamilyjeanslater
+bip_39_word_no_space_9: shaftbeltsufferblastpraisefamilyjeanslaterprice
+bip_39_word_space_0:
+- shaft
+- belt
+- suffer
+- blast
+- praise
+- family
+- jeans
+- later
+- price
+- sleep
+- jeans
+- airport
+bip_39_word_space_1: shaft
+bip_39_word_space_10: shaft belt suffer blast praise family jeans later price sleep
+bip_39_word_space_11: shaft belt suffer blast praise family jeans later price sleep
+  jeans
+bip_39_word_space_12: shaft belt suffer blast praise family jeans later price sleep
+  jeans airport
+bip_39_word_space_2: shaft belt
+bip_39_word_space_3: shaft belt suffer
+bip_39_word_space_4: shaft belt suffer blast
+bip_39_word_space_5: shaft belt suffer blast praise
+bip_39_word_space_6: shaft belt suffer blast praise family
+bip_39_word_space_7: shaft belt suffer blast praise family jeans
+bip_39_word_space_8: shaft belt suffer blast praise family jeans later
+bip_39_word_space_9: shaft belt suffer blast praise family jeans later price
+bip_39_word_underscore_1: shaft
+bip_39_word_underscore_10: shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep
+bip_39_word_underscore_11: shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep_jeans
+bip_39_word_underscore_12: shaft_belt_suffer_blast_praise_family_jeans_later_price_sleep_jeans_airport
+bip_39_word_underscore_2: shaft_belt
+bip_39_word_underscore_3: shaft_belt_suffer
+bip_39_word_underscore_4: shaft_belt_suffer_blast
+bip_39_word_underscore_5: shaft_belt_suffer_blast_praise
+bip_39_word_underscore_6: shaft_belt_suffer_blast_praise_family
+bip_39_word_underscore_7: shaft_belt_suffer_blast_praise_family_jeans
+bip_39_word_underscore_8: shaft_belt_suffer_blast_praise_family_jeans_later
+bip_39_word_underscore_9: shaft_belt_suffer_blast_praise_family_jeans_later_price
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_02_02_09
 id_no_color: 020209
 id_no_size: 02_02_09
 id_no_type: tray_vertical_02_02_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_02_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_02_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_02_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203gx9u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203gx9u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203gx9u
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 020209
 name_no_size: 02 02 09
 name_no_size_short: 02 02 09
 name_no_type: Tray Vertical 02 02 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_02_02_09
 oomp_word: water_buffalo truck dolls
 oomp_word_emoji: ':water_buffalo: :truck: :dolls:'

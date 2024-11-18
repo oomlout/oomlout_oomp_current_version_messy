@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Cabinet Ikea Havsta White 810 mm Width 890 mm Height 470 mm Depth Ikea 005 292 42
+* name_short: 
 ### id
 * oomp_id: furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
   * classification: furniture

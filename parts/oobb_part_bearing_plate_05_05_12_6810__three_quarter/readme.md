@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Plate 05 05 12 6810  Three Quarter
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_plate_05_05_12_6810__three_quarter
   * classification: oobb

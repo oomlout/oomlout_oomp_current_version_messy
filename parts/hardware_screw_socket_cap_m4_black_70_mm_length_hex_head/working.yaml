@@ -1,3 +1,222 @@
+bip_39_word_dash_1: donate
+bip_39_word_dash_10: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because
+bip_39_word_dash_11: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route
+bip_39_word_dash_12: donate-repeat-palm-grit-noise-sing-keen-surprise-shed-because-route-abstract
+bip_39_word_dash_2: donate-repeat
+bip_39_word_dash_3: donate-repeat-palm
+bip_39_word_dash_4: donate-repeat-palm-grit
+bip_39_word_dash_5: donate-repeat-palm-grit-noise
+bip_39_word_dash_6: donate-repeat-palm-grit-noise-sing
+bip_39_word_dash_7: donate-repeat-palm-grit-noise-sing-keen
+bip_39_word_dash_8: donate-repeat-palm-grit-noise-sing-keen-surprise
+bip_39_word_dash_9: donate-repeat-palm-grit-noise-sing-keen-surprise-shed
+bip_39_word_new_br_1: donate
+bip_39_word_new_br_10: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because
+bip_39_word_new_br_11: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route
+bip_39_word_new_br_12: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed<br>because<br>route<br>abstract
+bip_39_word_new_br_2: donate<br>repeat
+bip_39_word_new_br_3: donate<br>repeat<br>palm
+bip_39_word_new_br_4: donate<br>repeat<br>palm<br>grit
+bip_39_word_new_br_5: donate<br>repeat<br>palm<br>grit<br>noise
+bip_39_word_new_br_6: donate<br>repeat<br>palm<br>grit<br>noise<br>sing
+bip_39_word_new_br_7: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen
+bip_39_word_new_br_8: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise
+bip_39_word_new_br_9: donate<br>repeat<br>palm<br>grit<br>noise<br>sing<br>keen<br>surprise<br>shed
+bip_39_word_new_line_1: donate
+bip_39_word_new_line_10: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because'
+bip_39_word_new_line_11: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because
+
+  route'
+bip_39_word_new_line_12: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed
+
+  because
+
+  route
+
+  abstract'
+bip_39_word_new_line_2: 'donate
+
+  repeat'
+bip_39_word_new_line_3: 'donate
+
+  repeat
+
+  palm'
+bip_39_word_new_line_4: 'donate
+
+  repeat
+
+  palm
+
+  grit'
+bip_39_word_new_line_5: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise'
+bip_39_word_new_line_6: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing'
+bip_39_word_new_line_7: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen'
+bip_39_word_new_line_8: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise'
+bip_39_word_new_line_9: 'donate
+
+  repeat
+
+  palm
+
+  grit
+
+  noise
+
+  sing
+
+  keen
+
+  surprise
+
+  shed'
+bip_39_word_no_space_1: donate
+bip_39_word_no_space_10: donaterepeatpalmgritnoisesingkeensurpriseshedbecause
+bip_39_word_no_space_11: donaterepeatpalmgritnoisesingkeensurpriseshedbecauseroute
+bip_39_word_no_space_12: donaterepeatpalmgritnoisesingkeensurpriseshedbecauserouteabstract
+bip_39_word_no_space_2: donaterepeat
+bip_39_word_no_space_3: donaterepeatpalm
+bip_39_word_no_space_4: donaterepeatpalmgrit
+bip_39_word_no_space_5: donaterepeatpalmgritnoise
+bip_39_word_no_space_6: donaterepeatpalmgritnoisesing
+bip_39_word_no_space_7: donaterepeatpalmgritnoisesingkeen
+bip_39_word_no_space_8: donaterepeatpalmgritnoisesingkeensurprise
+bip_39_word_no_space_9: donaterepeatpalmgritnoisesingkeensurpriseshed
+bip_39_word_space_0:
+- donate
+- repeat
+- palm
+- grit
+- noise
+- sing
+- keen
+- surprise
+- shed
+- because
+- route
+- abstract
+bip_39_word_space_1: donate
+bip_39_word_space_10: donate repeat palm grit noise sing keen surprise shed because
+bip_39_word_space_11: donate repeat palm grit noise sing keen surprise shed because
+  route
+bip_39_word_space_12: donate repeat palm grit noise sing keen surprise shed because
+  route abstract
+bip_39_word_space_2: donate repeat
+bip_39_word_space_3: donate repeat palm
+bip_39_word_space_4: donate repeat palm grit
+bip_39_word_space_5: donate repeat palm grit noise
+bip_39_word_space_6: donate repeat palm grit noise sing
+bip_39_word_space_7: donate repeat palm grit noise sing keen
+bip_39_word_space_8: donate repeat palm grit noise sing keen surprise
+bip_39_word_space_9: donate repeat palm grit noise sing keen surprise shed
+bip_39_word_underscore_1: donate
+bip_39_word_underscore_10: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because
+bip_39_word_underscore_11: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route
+bip_39_word_underscore_12: donate_repeat_palm_grit_noise_sing_keen_surprise_shed_because_route_abstract
+bip_39_word_underscore_2: donate_repeat
+bip_39_word_underscore_3: donate_repeat_palm
+bip_39_word_underscore_4: donate_repeat_palm_grit
+bip_39_word_underscore_5: donate_repeat_palm_grit_noise
+bip_39_word_underscore_6: donate_repeat_palm_grit_noise_sing
+bip_39_word_underscore_7: donate_repeat_palm_grit_noise_sing_keen
+bip_39_word_underscore_8: donate_repeat_palm_grit_noise_sing_keen_surprise
+bip_39_word_underscore_9: donate_repeat_palm_grit_noise_sing_keen_surprise_shed
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -134,7 +353,20 @@ id_no_color: 70_mm_length_hex_head
 id_no_size: black_70_mm_length_hex_head
 id_no_type: m4_black_70_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_70_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_70_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_70_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20lqf8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20lqf8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20lqf8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -160,6 +392,26 @@ name_no_color: 70 mm Length Hex Head
 name_no_size: Black 70 mm Length Hex Head
 name_no_size_short: Black 70 Mm Length Hex Head
 name_no_type: M4 Black 70 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 70 mm
+oomlout_bolt_length_no_unit: '70'
+oomlout_bolt_md5_6_alpha_first_3: lqf
+oomlout_bolt_md5_6_alpha_first_3_upper: LQF
+oomlout_bolt_md5_6_alpha_last_3: '8'
+oomlout_bolt_md5_6_alpha_last_3_upper: '8'
+oomlout_bolt_md5_6_first_3: 0f7
+oomlout_bolt_md5_6_first_3_upper: 0F7
+oomlout_bolt_md5_6_last_3: '904'
+oomlout_bolt_md5_6_last_3_upper: '904'
+oomlout_bolt_name: Socket Cap M4X70 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc4b70h
+oomlout_short_code_upper: SC4B70H
 oomp_id: hardware_screw_socket_cap_m4_black_70_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m4_black_70_mm_length_hex_head
 oomp_word: sparkles balloon wink
@@ -183,12 +435,22 @@ price_1: '0.1728'
 price_100: '0.1728'
 price_1000: '0.0768'
 price_10000: '0.0768'
+price_10000_distributor_1: '0.0768'
 price_10000_distributor_orbital_fasteners: '0.0768'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0768'
 price_1000_distributor_orbital_fasteners: '0.0768'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.1728'
 price_100_distributor_orbital_fasteners: '0.1728'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.1728'
 price_1_distributor_orbital_fasteners: '0.1728'
+price_1_name: orbital_fasteners
 price_200: '0.096'
+price_200_distributor_1: '0.096'
 price_200_distributor_orbital_fasteners: '0.096'
+price_200_name: orbital_fasteners
 price_current: '0.096'
 quantity_current: '200'
 short_code: sc4b70h

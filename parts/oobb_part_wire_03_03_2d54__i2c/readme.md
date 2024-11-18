@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Wire 03 03 2D54  I2C
+* name_short: 
 ### id
 * oomp_id: oobb_part_wire_03_03_2d54__i2c
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dog: :thumbsup: :koala:
 * md5_6_alpha: 1zrcq
 * md5_6: 33163a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201zrcq)
+[2x1](http://192.168.1.242:1112/?label=oomp%201zrcq)
+[6x4](http://192.168.1.55:1112/?label=oomp%201zrcq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__i2c)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ truth |
 | id_no_color | 03032d54i2c |  
 | id_no_size | 03_03_2d54__i2c |  
 | id_no_type | wire_03_03_2d54__i2c |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__i2c |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__i2c |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201zrcq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201zrcq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201zrcq |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ truth |
 | name_no_size | 03 03 2D54  I2C |  
 | name_no_size_short | 03 03 2D54  I2C |  
 | name_no_type | Wire 03 03 2D54  I2C |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_2d54__i2c |  
 | oomp_word | dog thumbsup koala |  
 | oomp_word_emoji | :dog: :thumbsup: :koala: |  

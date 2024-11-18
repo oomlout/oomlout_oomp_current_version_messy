@@ -1,3 +1,223 @@
+bip_39_word_dash_1: 'off'
+bip_39_word_dash_10: off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch
+bip_39_word_dash_11: off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch-ripple
+bip_39_word_dash_12: off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august-ranch-ripple-apology
+bip_39_word_dash_2: off-vehicle
+bip_39_word_dash_3: off-vehicle-depend
+bip_39_word_dash_4: off-vehicle-depend-marriage
+bip_39_word_dash_5: off-vehicle-depend-marriage-economy
+bip_39_word_dash_6: off-vehicle-depend-marriage-economy-utility
+bip_39_word_dash_7: off-vehicle-depend-marriage-economy-utility-syrup
+bip_39_word_dash_8: off-vehicle-depend-marriage-economy-utility-syrup-giraffe
+bip_39_word_dash_9: off-vehicle-depend-marriage-economy-utility-syrup-giraffe-august
+bip_39_word_new_br_1: 'off'
+bip_39_word_new_br_10: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch
+bip_39_word_new_br_11: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple
+bip_39_word_new_br_12: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august<br>ranch<br>ripple<br>apology
+bip_39_word_new_br_2: off<br>vehicle
+bip_39_word_new_br_3: off<br>vehicle<br>depend
+bip_39_word_new_br_4: off<br>vehicle<br>depend<br>marriage
+bip_39_word_new_br_5: off<br>vehicle<br>depend<br>marriage<br>economy
+bip_39_word_new_br_6: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility
+bip_39_word_new_br_7: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup
+bip_39_word_new_br_8: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe
+bip_39_word_new_br_9: off<br>vehicle<br>depend<br>marriage<br>economy<br>utility<br>syrup<br>giraffe<br>august
+bip_39_word_new_line_1: 'off'
+bip_39_word_new_line_10: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup
+
+  giraffe
+
+  august
+
+  ranch'
+bip_39_word_new_line_11: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup
+
+  giraffe
+
+  august
+
+  ranch
+
+  ripple'
+bip_39_word_new_line_12: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup
+
+  giraffe
+
+  august
+
+  ranch
+
+  ripple
+
+  apology'
+bip_39_word_new_line_2: 'off
+
+  vehicle'
+bip_39_word_new_line_3: 'off
+
+  vehicle
+
+  depend'
+bip_39_word_new_line_4: 'off
+
+  vehicle
+
+  depend
+
+  marriage'
+bip_39_word_new_line_5: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy'
+bip_39_word_new_line_6: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility'
+bip_39_word_new_line_7: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup'
+bip_39_word_new_line_8: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup
+
+  giraffe'
+bip_39_word_new_line_9: 'off
+
+  vehicle
+
+  depend
+
+  marriage
+
+  economy
+
+  utility
+
+  syrup
+
+  giraffe
+
+  august'
+bip_39_word_no_space_1: 'off'
+bip_39_word_no_space_10: offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranch
+bip_39_word_no_space_11: offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranchripple
+bip_39_word_no_space_12: offvehicledependmarriageeconomyutilitysyrupgiraffeaugustranchrippleapology
+bip_39_word_no_space_2: offvehicle
+bip_39_word_no_space_3: offvehicledepend
+bip_39_word_no_space_4: offvehicledependmarriage
+bip_39_word_no_space_5: offvehicledependmarriageeconomy
+bip_39_word_no_space_6: offvehicledependmarriageeconomyutility
+bip_39_word_no_space_7: offvehicledependmarriageeconomyutilitysyrup
+bip_39_word_no_space_8: offvehicledependmarriageeconomyutilitysyrupgiraffe
+bip_39_word_no_space_9: offvehicledependmarriageeconomyutilitysyrupgiraffeaugust
+bip_39_word_space_0:
+- 'off'
+- vehicle
+- depend
+- marriage
+- economy
+- utility
+- syrup
+- giraffe
+- august
+- ranch
+- ripple
+- apology
+bip_39_word_space_1: 'off'
+bip_39_word_space_10: off vehicle depend marriage economy utility syrup giraffe august
+  ranch
+bip_39_word_space_11: off vehicle depend marriage economy utility syrup giraffe august
+  ranch ripple
+bip_39_word_space_12: off vehicle depend marriage economy utility syrup giraffe august
+  ranch ripple apology
+bip_39_word_space_2: off vehicle
+bip_39_word_space_3: off vehicle depend
+bip_39_word_space_4: off vehicle depend marriage
+bip_39_word_space_5: off vehicle depend marriage economy
+bip_39_word_space_6: off vehicle depend marriage economy utility
+bip_39_word_space_7: off vehicle depend marriage economy utility syrup
+bip_39_word_space_8: off vehicle depend marriage economy utility syrup giraffe
+bip_39_word_space_9: off vehicle depend marriage economy utility syrup giraffe august
+bip_39_word_underscore_1: 'off'
+bip_39_word_underscore_10: off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch
+bip_39_word_underscore_11: off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch_ripple
+bip_39_word_underscore_12: off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august_ranch_ripple_apology
+bip_39_word_underscore_2: off_vehicle
+bip_39_word_underscore_3: off_vehicle_depend
+bip_39_word_underscore_4: off_vehicle_depend_marriage
+bip_39_word_underscore_5: off_vehicle_depend_marriage_economy
+bip_39_word_underscore_6: off_vehicle_depend_marriage_economy_utility
+bip_39_word_underscore_7: off_vehicle_depend_marriage_economy_utility_syrup
+bip_39_word_underscore_8: off_vehicle_depend_marriage_economy_utility_syrup_giraffe
+bip_39_word_underscore_9: off_vehicle_depend_marriage_economy_utility_syrup_giraffe_august
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_shaft_15__nut
 id_no_color: 15nut
 id_no_size: 15__nut
 id_no_type: shaft_15__nut
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_15__nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_15__nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206j7vw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206j7vw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206j7vw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 15Nut
 name_no_size: 15  Nut
 name_no_size_short: 15  Nut
 name_no_type: Shaft 15  Nut
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_15__nut
 oomp_word: guitar fireworks shirt
 oomp_word_emoji: ':guitar: :fireworks: :shirt:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: margin
+bip_39_word_dash_10: margin-bunker-syrup-rib-need-appear-wire-glide-sudden-divide
+bip_39_word_dash_11: margin-bunker-syrup-rib-need-appear-wire-glide-sudden-divide-short
+bip_39_word_dash_12: margin-bunker-syrup-rib-need-appear-wire-glide-sudden-divide-short-ancient
+bip_39_word_dash_2: margin-bunker
+bip_39_word_dash_3: margin-bunker-syrup
+bip_39_word_dash_4: margin-bunker-syrup-rib
+bip_39_word_dash_5: margin-bunker-syrup-rib-need
+bip_39_word_dash_6: margin-bunker-syrup-rib-need-appear
+bip_39_word_dash_7: margin-bunker-syrup-rib-need-appear-wire
+bip_39_word_dash_8: margin-bunker-syrup-rib-need-appear-wire-glide
+bip_39_word_dash_9: margin-bunker-syrup-rib-need-appear-wire-glide-sudden
+bip_39_word_new_br_1: margin
+bip_39_word_new_br_10: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire<br>glide<br>sudden<br>divide
+bip_39_word_new_br_11: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire<br>glide<br>sudden<br>divide<br>short
+bip_39_word_new_br_12: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire<br>glide<br>sudden<br>divide<br>short<br>ancient
+bip_39_word_new_br_2: margin<br>bunker
+bip_39_word_new_br_3: margin<br>bunker<br>syrup
+bip_39_word_new_br_4: margin<br>bunker<br>syrup<br>rib
+bip_39_word_new_br_5: margin<br>bunker<br>syrup<br>rib<br>need
+bip_39_word_new_br_6: margin<br>bunker<br>syrup<br>rib<br>need<br>appear
+bip_39_word_new_br_7: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire
+bip_39_word_new_br_8: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire<br>glide
+bip_39_word_new_br_9: margin<br>bunker<br>syrup<br>rib<br>need<br>appear<br>wire<br>glide<br>sudden
+bip_39_word_new_line_1: margin
+bip_39_word_new_line_10: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire
+
+  glide
+
+  sudden
+
+  divide'
+bip_39_word_new_line_11: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire
+
+  glide
+
+  sudden
+
+  divide
+
+  short'
+bip_39_word_new_line_12: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire
+
+  glide
+
+  sudden
+
+  divide
+
+  short
+
+  ancient'
+bip_39_word_new_line_2: 'margin
+
+  bunker'
+bip_39_word_new_line_3: 'margin
+
+  bunker
+
+  syrup'
+bip_39_word_new_line_4: 'margin
+
+  bunker
+
+  syrup
+
+  rib'
+bip_39_word_new_line_5: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need'
+bip_39_word_new_line_6: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear'
+bip_39_word_new_line_7: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire'
+bip_39_word_new_line_8: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire
+
+  glide'
+bip_39_word_new_line_9: 'margin
+
+  bunker
+
+  syrup
+
+  rib
+
+  need
+
+  appear
+
+  wire
+
+  glide
+
+  sudden'
+bip_39_word_no_space_1: margin
+bip_39_word_no_space_10: marginbunkersyrupribneedappearwireglidesuddendivide
+bip_39_word_no_space_11: marginbunkersyrupribneedappearwireglidesuddendivideshort
+bip_39_word_no_space_12: marginbunkersyrupribneedappearwireglidesuddendivideshortancient
+bip_39_word_no_space_2: marginbunker
+bip_39_word_no_space_3: marginbunkersyrup
+bip_39_word_no_space_4: marginbunkersyruprib
+bip_39_word_no_space_5: marginbunkersyrupribneed
+bip_39_word_no_space_6: marginbunkersyrupribneedappear
+bip_39_word_no_space_7: marginbunkersyrupribneedappearwire
+bip_39_word_no_space_8: marginbunkersyrupribneedappearwireglide
+bip_39_word_no_space_9: marginbunkersyrupribneedappearwireglidesudden
+bip_39_word_space_0:
+- margin
+- bunker
+- syrup
+- rib
+- need
+- appear
+- wire
+- glide
+- sudden
+- divide
+- short
+- ancient
+bip_39_word_space_1: margin
+bip_39_word_space_10: margin bunker syrup rib need appear wire glide sudden divide
+bip_39_word_space_11: margin bunker syrup rib need appear wire glide sudden divide
+  short
+bip_39_word_space_12: margin bunker syrup rib need appear wire glide sudden divide
+  short ancient
+bip_39_word_space_2: margin bunker
+bip_39_word_space_3: margin bunker syrup
+bip_39_word_space_4: margin bunker syrup rib
+bip_39_word_space_5: margin bunker syrup rib need
+bip_39_word_space_6: margin bunker syrup rib need appear
+bip_39_word_space_7: margin bunker syrup rib need appear wire
+bip_39_word_space_8: margin bunker syrup rib need appear wire glide
+bip_39_word_space_9: margin bunker syrup rib need appear wire glide sudden
+bip_39_word_underscore_1: margin
+bip_39_word_underscore_10: margin_bunker_syrup_rib_need_appear_wire_glide_sudden_divide
+bip_39_word_underscore_11: margin_bunker_syrup_rib_need_appear_wire_glide_sudden_divide_short
+bip_39_word_underscore_12: margin_bunker_syrup_rib_need_appear_wire_glide_sudden_divide_short_ancient
+bip_39_word_underscore_2: margin_bunker
+bip_39_word_underscore_3: margin_bunker_syrup
+bip_39_word_underscore_4: margin_bunker_syrup_rib
+bip_39_word_underscore_5: margin_bunker_syrup_rib_need
+bip_39_word_underscore_6: margin_bunker_syrup_rib_need_appear
+bip_39_word_underscore_7: margin_bunker_syrup_rib_need_appear_wire
+bip_39_word_underscore_8: margin_bunker_syrup_rib_need_appear_wire_glide
+bip_39_word_underscore_9: margin_bunker_syrup_rib_need_appear_wire_glide_sudden
 classification: food
 classification_capital: Food
 classification_first_letter: f
@@ -132,7 +351,14 @@ id_no_class: pantry_ingredient_coconut_milk_tin_400_ml
 id_no_color: ingredientcoconutmilktin400ml
 id_no_size: ingredientcoconutmilktin400ml
 id_no_type: ingredient_coconut_milk_tin_400_ml
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205d7rj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205d7rj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205d7rj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -158,6 +384,7 @@ name_no_color: Ingredientcoconutmilktin400Ml
 name_no_size: Ingredientcoconutmilktin400Ml
 name_no_size_short: Ingredientcoconutmilktin400Ml
 name_no_type: Ingredient Coconut Milk Tin 400 Ml
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_pantry_ingredient_coconut_milk_tin_400_ml
 oomp_word: hammer scroll calendar
 oomp_word_emoji: ':hammer: :scroll: :calendar:'

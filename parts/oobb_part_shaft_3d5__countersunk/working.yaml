@@ -1,3 +1,222 @@
+bip_39_word_dash_1: close
+bip_39_word_dash_10: close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress
+bip_39_word_dash_11: close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress-cement
+bip_39_word_dash_12: close-tone-rib-canoe-mother-boat-rather-hungry-celery-dress-cement-ankle
+bip_39_word_dash_2: close-tone
+bip_39_word_dash_3: close-tone-rib
+bip_39_word_dash_4: close-tone-rib-canoe
+bip_39_word_dash_5: close-tone-rib-canoe-mother
+bip_39_word_dash_6: close-tone-rib-canoe-mother-boat
+bip_39_word_dash_7: close-tone-rib-canoe-mother-boat-rather
+bip_39_word_dash_8: close-tone-rib-canoe-mother-boat-rather-hungry
+bip_39_word_dash_9: close-tone-rib-canoe-mother-boat-rather-hungry-celery
+bip_39_word_new_br_1: close
+bip_39_word_new_br_10: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress
+bip_39_word_new_br_11: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement
+bip_39_word_new_br_12: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery<br>dress<br>cement<br>ankle
+bip_39_word_new_br_2: close<br>tone
+bip_39_word_new_br_3: close<br>tone<br>rib
+bip_39_word_new_br_4: close<br>tone<br>rib<br>canoe
+bip_39_word_new_br_5: close<br>tone<br>rib<br>canoe<br>mother
+bip_39_word_new_br_6: close<br>tone<br>rib<br>canoe<br>mother<br>boat
+bip_39_word_new_br_7: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather
+bip_39_word_new_br_8: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry
+bip_39_word_new_br_9: close<br>tone<br>rib<br>canoe<br>mother<br>boat<br>rather<br>hungry<br>celery
+bip_39_word_new_line_1: close
+bip_39_word_new_line_10: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather
+
+  hungry
+
+  celery
+
+  dress'
+bip_39_word_new_line_11: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather
+
+  hungry
+
+  celery
+
+  dress
+
+  cement'
+bip_39_word_new_line_12: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather
+
+  hungry
+
+  celery
+
+  dress
+
+  cement
+
+  ankle'
+bip_39_word_new_line_2: 'close
+
+  tone'
+bip_39_word_new_line_3: 'close
+
+  tone
+
+  rib'
+bip_39_word_new_line_4: 'close
+
+  tone
+
+  rib
+
+  canoe'
+bip_39_word_new_line_5: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother'
+bip_39_word_new_line_6: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat'
+bip_39_word_new_line_7: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather'
+bip_39_word_new_line_8: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather
+
+  hungry'
+bip_39_word_new_line_9: 'close
+
+  tone
+
+  rib
+
+  canoe
+
+  mother
+
+  boat
+
+  rather
+
+  hungry
+
+  celery'
+bip_39_word_no_space_1: close
+bip_39_word_no_space_10: closetoneribcanoemotherboatratherhungrycelerydress
+bip_39_word_no_space_11: closetoneribcanoemotherboatratherhungrycelerydresscement
+bip_39_word_no_space_12: closetoneribcanoemotherboatratherhungrycelerydresscementankle
+bip_39_word_no_space_2: closetone
+bip_39_word_no_space_3: closetonerib
+bip_39_word_no_space_4: closetoneribcanoe
+bip_39_word_no_space_5: closetoneribcanoemother
+bip_39_word_no_space_6: closetoneribcanoemotherboat
+bip_39_word_no_space_7: closetoneribcanoemotherboatrather
+bip_39_word_no_space_8: closetoneribcanoemotherboatratherhungry
+bip_39_word_no_space_9: closetoneribcanoemotherboatratherhungrycelery
+bip_39_word_space_0:
+- close
+- tone
+- rib
+- canoe
+- mother
+- boat
+- rather
+- hungry
+- celery
+- dress
+- cement
+- ankle
+bip_39_word_space_1: close
+bip_39_word_space_10: close tone rib canoe mother boat rather hungry celery dress
+bip_39_word_space_11: close tone rib canoe mother boat rather hungry celery dress
+  cement
+bip_39_word_space_12: close tone rib canoe mother boat rather hungry celery dress
+  cement ankle
+bip_39_word_space_2: close tone
+bip_39_word_space_3: close tone rib
+bip_39_word_space_4: close tone rib canoe
+bip_39_word_space_5: close tone rib canoe mother
+bip_39_word_space_6: close tone rib canoe mother boat
+bip_39_word_space_7: close tone rib canoe mother boat rather
+bip_39_word_space_8: close tone rib canoe mother boat rather hungry
+bip_39_word_space_9: close tone rib canoe mother boat rather hungry celery
+bip_39_word_underscore_1: close
+bip_39_word_underscore_10: close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress
+bip_39_word_underscore_11: close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress_cement
+bip_39_word_underscore_12: close_tone_rib_canoe_mother_boat_rather_hungry_celery_dress_cement_ankle
+bip_39_word_underscore_2: close_tone
+bip_39_word_underscore_3: close_tone_rib
+bip_39_word_underscore_4: close_tone_rib_canoe
+bip_39_word_underscore_5: close_tone_rib_canoe_mother
+bip_39_word_underscore_6: close_tone_rib_canoe_mother_boat
+bip_39_word_underscore_7: close_tone_rib_canoe_mother_boat_rather
+bip_39_word_underscore_8: close_tone_rib_canoe_mother_boat_rather_hungry
+bip_39_word_underscore_9: close_tone_rib_canoe_mother_boat_rather_hungry_celery
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_3d5__countersunk
 id_no_color: 3d5countersunk
 id_no_size: 3d5__countersunk
 id_no_type: shaft_3d5__countersunk
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__countersunk
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__countersunk
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__countersunk
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205phlc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205phlc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205phlc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 3D5Countersunk
 name_no_size: 3D5  Countersunk
 name_no_size_short: 3D5  Countersunk
 name_no_type: Shaft 3D5  Countersunk
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_3d5__countersunk
 oomp_word: paperclip chicken beetle
 oomp_word_emoji: ':paperclip: :chicken: :beetle:'

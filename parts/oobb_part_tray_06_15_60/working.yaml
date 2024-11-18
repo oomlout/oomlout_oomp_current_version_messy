@@ -1,3 +1,223 @@
+bip_39_word_dash_1: gospel
+bip_39_word_dash_10: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social
+bip_39_word_dash_11: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social-emerge
+bip_39_word_dash_12: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal-social-emerge-armor
+bip_39_word_dash_2: gospel-develop
+bip_39_word_dash_3: gospel-develop-genre
+bip_39_word_dash_4: gospel-develop-genre-reflect
+bip_39_word_dash_5: gospel-develop-genre-reflect-awkward
+bip_39_word_dash_6: gospel-develop-genre-reflect-awkward-shiver
+bip_39_word_dash_7: gospel-develop-genre-reflect-awkward-shiver-same
+bip_39_word_dash_8: gospel-develop-genre-reflect-awkward-shiver-same-parade
+bip_39_word_dash_9: gospel-develop-genre-reflect-awkward-shiver-same-parade-vocal
+bip_39_word_new_br_1: gospel
+bip_39_word_new_br_10: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social
+bip_39_word_new_br_11: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge
+bip_39_word_new_br_12: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal<br>social<br>emerge<br>armor
+bip_39_word_new_br_2: gospel<br>develop
+bip_39_word_new_br_3: gospel<br>develop<br>genre
+bip_39_word_new_br_4: gospel<br>develop<br>genre<br>reflect
+bip_39_word_new_br_5: gospel<br>develop<br>genre<br>reflect<br>awkward
+bip_39_word_new_br_6: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver
+bip_39_word_new_br_7: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same
+bip_39_word_new_br_8: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade
+bip_39_word_new_br_9: gospel<br>develop<br>genre<br>reflect<br>awkward<br>shiver<br>same<br>parade<br>vocal
+bip_39_word_new_line_1: gospel
+bip_39_word_new_line_10: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same
+
+  parade
+
+  vocal
+
+  social'
+bip_39_word_new_line_11: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same
+
+  parade
+
+  vocal
+
+  social
+
+  emerge'
+bip_39_word_new_line_12: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same
+
+  parade
+
+  vocal
+
+  social
+
+  emerge
+
+  armor'
+bip_39_word_new_line_2: 'gospel
+
+  develop'
+bip_39_word_new_line_3: 'gospel
+
+  develop
+
+  genre'
+bip_39_word_new_line_4: 'gospel
+
+  develop
+
+  genre
+
+  reflect'
+bip_39_word_new_line_5: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward'
+bip_39_word_new_line_6: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver'
+bip_39_word_new_line_7: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same'
+bip_39_word_new_line_8: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same
+
+  parade'
+bip_39_word_new_line_9: 'gospel
+
+  develop
+
+  genre
+
+  reflect
+
+  awkward
+
+  shiver
+
+  same
+
+  parade
+
+  vocal'
+bip_39_word_no_space_1: gospel
+bip_39_word_no_space_10: gospeldevelopgenrereflectawkwardshiversameparadevocalsocial
+bip_39_word_no_space_11: gospeldevelopgenrereflectawkwardshiversameparadevocalsocialemerge
+bip_39_word_no_space_12: gospeldevelopgenrereflectawkwardshiversameparadevocalsocialemergearmor
+bip_39_word_no_space_2: gospeldevelop
+bip_39_word_no_space_3: gospeldevelopgenre
+bip_39_word_no_space_4: gospeldevelopgenrereflect
+bip_39_word_no_space_5: gospeldevelopgenrereflectawkward
+bip_39_word_no_space_6: gospeldevelopgenrereflectawkwardshiver
+bip_39_word_no_space_7: gospeldevelopgenrereflectawkwardshiversame
+bip_39_word_no_space_8: gospeldevelopgenrereflectawkwardshiversameparade
+bip_39_word_no_space_9: gospeldevelopgenrereflectawkwardshiversameparadevocal
+bip_39_word_space_0:
+- gospel
+- develop
+- genre
+- reflect
+- awkward
+- shiver
+- same
+- parade
+- vocal
+- social
+- emerge
+- armor
+bip_39_word_space_1: gospel
+bip_39_word_space_10: gospel develop genre reflect awkward shiver same parade vocal
+  social
+bip_39_word_space_11: gospel develop genre reflect awkward shiver same parade vocal
+  social emerge
+bip_39_word_space_12: gospel develop genre reflect awkward shiver same parade vocal
+  social emerge armor
+bip_39_word_space_2: gospel develop
+bip_39_word_space_3: gospel develop genre
+bip_39_word_space_4: gospel develop genre reflect
+bip_39_word_space_5: gospel develop genre reflect awkward
+bip_39_word_space_6: gospel develop genre reflect awkward shiver
+bip_39_word_space_7: gospel develop genre reflect awkward shiver same
+bip_39_word_space_8: gospel develop genre reflect awkward shiver same parade
+bip_39_word_space_9: gospel develop genre reflect awkward shiver same parade vocal
+bip_39_word_underscore_1: gospel
+bip_39_word_underscore_10: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social
+bip_39_word_underscore_11: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social_emerge
+bip_39_word_underscore_12: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal_social_emerge_armor
+bip_39_word_underscore_2: gospel_develop
+bip_39_word_underscore_3: gospel_develop_genre
+bip_39_word_underscore_4: gospel_develop_genre_reflect
+bip_39_word_underscore_5: gospel_develop_genre_reflect_awkward
+bip_39_word_underscore_6: gospel_develop_genre_reflect_awkward_shiver
+bip_39_word_underscore_7: gospel_develop_genre_reflect_awkward_shiver_same
+bip_39_word_underscore_8: gospel_develop_genre_reflect_awkward_shiver_same_parade
+bip_39_word_underscore_9: gospel_develop_genre_reflect_awkward_shiver_same_parade_vocal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_06_15_60
 id_no_color: '061560'
 id_no_size: '06_15_60'
 id_no_type: tray_06_15_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_15_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_15_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_15_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207fomr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207fomr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207fomr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '061560'
 name_no_size: 06 15 60
 name_no_size_short: 06 15 60
 name_no_type: Tray 06 15 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_15_60
 oomp_word: ramen pushpin flags
 oomp_word_emoji: ':ramen: :pushpin: :flags:'

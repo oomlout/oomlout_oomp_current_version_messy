@@ -1,3 +1,222 @@
+bip_39_word_dash_1: wasp
+bip_39_word_dash_10: wasp-produce-duck-ecology-business-float-able-travel-word-abuse
+bip_39_word_dash_11: wasp-produce-duck-ecology-business-float-able-travel-word-abuse-this
+bip_39_word_dash_12: wasp-produce-duck-ecology-business-float-able-travel-word-abuse-this-all
+bip_39_word_dash_2: wasp-produce
+bip_39_word_dash_3: wasp-produce-duck
+bip_39_word_dash_4: wasp-produce-duck-ecology
+bip_39_word_dash_5: wasp-produce-duck-ecology-business
+bip_39_word_dash_6: wasp-produce-duck-ecology-business-float
+bip_39_word_dash_7: wasp-produce-duck-ecology-business-float-able
+bip_39_word_dash_8: wasp-produce-duck-ecology-business-float-able-travel
+bip_39_word_dash_9: wasp-produce-duck-ecology-business-float-able-travel-word
+bip_39_word_new_br_1: wasp
+bip_39_word_new_br_10: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse
+bip_39_word_new_br_11: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this
+bip_39_word_new_br_12: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word<br>abuse<br>this<br>all
+bip_39_word_new_br_2: wasp<br>produce
+bip_39_word_new_br_3: wasp<br>produce<br>duck
+bip_39_word_new_br_4: wasp<br>produce<br>duck<br>ecology
+bip_39_word_new_br_5: wasp<br>produce<br>duck<br>ecology<br>business
+bip_39_word_new_br_6: wasp<br>produce<br>duck<br>ecology<br>business<br>float
+bip_39_word_new_br_7: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able
+bip_39_word_new_br_8: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel
+bip_39_word_new_br_9: wasp<br>produce<br>duck<br>ecology<br>business<br>float<br>able<br>travel<br>word
+bip_39_word_new_line_1: wasp
+bip_39_word_new_line_10: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able
+
+  travel
+
+  word
+
+  abuse'
+bip_39_word_new_line_11: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able
+
+  travel
+
+  word
+
+  abuse
+
+  this'
+bip_39_word_new_line_12: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able
+
+  travel
+
+  word
+
+  abuse
+
+  this
+
+  all'
+bip_39_word_new_line_2: 'wasp
+
+  produce'
+bip_39_word_new_line_3: 'wasp
+
+  produce
+
+  duck'
+bip_39_word_new_line_4: 'wasp
+
+  produce
+
+  duck
+
+  ecology'
+bip_39_word_new_line_5: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business'
+bip_39_word_new_line_6: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float'
+bip_39_word_new_line_7: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able'
+bip_39_word_new_line_8: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able
+
+  travel'
+bip_39_word_new_line_9: 'wasp
+
+  produce
+
+  duck
+
+  ecology
+
+  business
+
+  float
+
+  able
+
+  travel
+
+  word'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspproduceduckecologybusinessfloatabletravelwordabuse
+bip_39_word_no_space_11: waspproduceduckecologybusinessfloatabletravelwordabusethis
+bip_39_word_no_space_12: waspproduceduckecologybusinessfloatabletravelwordabusethisall
+bip_39_word_no_space_2: waspproduce
+bip_39_word_no_space_3: waspproduceduck
+bip_39_word_no_space_4: waspproduceduckecology
+bip_39_word_no_space_5: waspproduceduckecologybusiness
+bip_39_word_no_space_6: waspproduceduckecologybusinessfloat
+bip_39_word_no_space_7: waspproduceduckecologybusinessfloatable
+bip_39_word_no_space_8: waspproduceduckecologybusinessfloatabletravel
+bip_39_word_no_space_9: waspproduceduckecologybusinessfloatabletravelword
+bip_39_word_space_0:
+- wasp
+- produce
+- duck
+- ecology
+- business
+- float
+- able
+- travel
+- word
+- abuse
+- this
+- all
+bip_39_word_space_1: wasp
+bip_39_word_space_10: wasp produce duck ecology business float able travel word abuse
+bip_39_word_space_11: wasp produce duck ecology business float able travel word abuse
+  this
+bip_39_word_space_12: wasp produce duck ecology business float able travel word abuse
+  this all
+bip_39_word_space_2: wasp produce
+bip_39_word_space_3: wasp produce duck
+bip_39_word_space_4: wasp produce duck ecology
+bip_39_word_space_5: wasp produce duck ecology business
+bip_39_word_space_6: wasp produce duck ecology business float
+bip_39_word_space_7: wasp produce duck ecology business float able
+bip_39_word_space_8: wasp produce duck ecology business float able travel
+bip_39_word_space_9: wasp produce duck ecology business float able travel word
+bip_39_word_underscore_1: wasp
+bip_39_word_underscore_10: wasp_produce_duck_ecology_business_float_able_travel_word_abuse
+bip_39_word_underscore_11: wasp_produce_duck_ecology_business_float_able_travel_word_abuse_this
+bip_39_word_underscore_12: wasp_produce_duck_ecology_business_float_able_travel_word_abuse_this_all
+bip_39_word_underscore_2: wasp_produce
+bip_39_word_underscore_3: wasp_produce_duck
+bip_39_word_underscore_4: wasp_produce_duck_ecology
+bip_39_word_underscore_5: wasp_produce_duck_ecology_business
+bip_39_word_underscore_6: wasp_produce_duck_ecology_business_float
+bip_39_word_underscore_7: wasp_produce_duck_ecology_business_float_able
+bip_39_word_underscore_8: wasp_produce_duck_ecology_business_float_able_travel
+bip_39_word_underscore_9: wasp_produce_duck_ecology_business_float_able_travel_word
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_07_18
 id_no_color: 2d50718
 id_no_size: 2d5_07_18
 id_no_type: tray_thin_2d5_07_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_07_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_07_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_07_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2041qps
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2041qps
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2041qps
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50718
 name_no_size: 2D5 07 18
 name_no_size_short: 2D5 07 18
 name_no_type: Tray Thin 2D5 07 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_07_18
 oomp_word: herb doughnut hourglass
 oomp_word_emoji: ':herb: :doughnut: :hourglass:'

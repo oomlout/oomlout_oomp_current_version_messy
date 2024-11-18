@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lazy
+bip_39_word_dash_10: lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell
+bip_39_word_dash_11: lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell-anxiety
+bip_39_word_dash_12: lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon-tell-anxiety-adult
+bip_39_word_dash_2: lazy-head
+bip_39_word_dash_3: lazy-head-enforce
+bip_39_word_dash_4: lazy-head-enforce-unaware
+bip_39_word_dash_5: lazy-head-enforce-unaware-stamp
+bip_39_word_dash_6: lazy-head-enforce-unaware-stamp-dutch
+bip_39_word_dash_7: lazy-head-enforce-unaware-stamp-dutch-moon
+bip_39_word_dash_8: lazy-head-enforce-unaware-stamp-dutch-moon-tooth
+bip_39_word_dash_9: lazy-head-enforce-unaware-stamp-dutch-moon-tooth-carbon
+bip_39_word_new_br_1: lazy
+bip_39_word_new_br_10: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell
+bip_39_word_new_br_11: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety
+bip_39_word_new_br_12: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon<br>tell<br>anxiety<br>adult
+bip_39_word_new_br_2: lazy<br>head
+bip_39_word_new_br_3: lazy<br>head<br>enforce
+bip_39_word_new_br_4: lazy<br>head<br>enforce<br>unaware
+bip_39_word_new_br_5: lazy<br>head<br>enforce<br>unaware<br>stamp
+bip_39_word_new_br_6: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch
+bip_39_word_new_br_7: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon
+bip_39_word_new_br_8: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth
+bip_39_word_new_br_9: lazy<br>head<br>enforce<br>unaware<br>stamp<br>dutch<br>moon<br>tooth<br>carbon
+bip_39_word_new_line_1: lazy
+bip_39_word_new_line_10: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon
+
+  tooth
+
+  carbon
+
+  tell'
+bip_39_word_new_line_11: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon
+
+  tooth
+
+  carbon
+
+  tell
+
+  anxiety'
+bip_39_word_new_line_12: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon
+
+  tooth
+
+  carbon
+
+  tell
+
+  anxiety
+
+  adult'
+bip_39_word_new_line_2: 'lazy
+
+  head'
+bip_39_word_new_line_3: 'lazy
+
+  head
+
+  enforce'
+bip_39_word_new_line_4: 'lazy
+
+  head
+
+  enforce
+
+  unaware'
+bip_39_word_new_line_5: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp'
+bip_39_word_new_line_6: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch'
+bip_39_word_new_line_7: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon'
+bip_39_word_new_line_8: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon
+
+  tooth'
+bip_39_word_new_line_9: 'lazy
+
+  head
+
+  enforce
+
+  unaware
+
+  stamp
+
+  dutch
+
+  moon
+
+  tooth
+
+  carbon'
+bip_39_word_no_space_1: lazy
+bip_39_word_no_space_10: lazyheadenforceunawarestampdutchmoontoothcarbontell
+bip_39_word_no_space_11: lazyheadenforceunawarestampdutchmoontoothcarbontellanxiety
+bip_39_word_no_space_12: lazyheadenforceunawarestampdutchmoontoothcarbontellanxietyadult
+bip_39_word_no_space_2: lazyhead
+bip_39_word_no_space_3: lazyheadenforce
+bip_39_word_no_space_4: lazyheadenforceunaware
+bip_39_word_no_space_5: lazyheadenforceunawarestamp
+bip_39_word_no_space_6: lazyheadenforceunawarestampdutch
+bip_39_word_no_space_7: lazyheadenforceunawarestampdutchmoon
+bip_39_word_no_space_8: lazyheadenforceunawarestampdutchmoontooth
+bip_39_word_no_space_9: lazyheadenforceunawarestampdutchmoontoothcarbon
+bip_39_word_space_0:
+- lazy
+- head
+- enforce
+- unaware
+- stamp
+- dutch
+- moon
+- tooth
+- carbon
+- tell
+- anxiety
+- adult
+bip_39_word_space_1: lazy
+bip_39_word_space_10: lazy head enforce unaware stamp dutch moon tooth carbon tell
+bip_39_word_space_11: lazy head enforce unaware stamp dutch moon tooth carbon tell
+  anxiety
+bip_39_word_space_12: lazy head enforce unaware stamp dutch moon tooth carbon tell
+  anxiety adult
+bip_39_word_space_2: lazy head
+bip_39_word_space_3: lazy head enforce
+bip_39_word_space_4: lazy head enforce unaware
+bip_39_word_space_5: lazy head enforce unaware stamp
+bip_39_word_space_6: lazy head enforce unaware stamp dutch
+bip_39_word_space_7: lazy head enforce unaware stamp dutch moon
+bip_39_word_space_8: lazy head enforce unaware stamp dutch moon tooth
+bip_39_word_space_9: lazy head enforce unaware stamp dutch moon tooth carbon
+bip_39_word_underscore_1: lazy
+bip_39_word_underscore_10: lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell
+bip_39_word_underscore_11: lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell_anxiety
+bip_39_word_underscore_12: lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon_tell_anxiety_adult
+bip_39_word_underscore_2: lazy_head
+bip_39_word_underscore_3: lazy_head_enforce
+bip_39_word_underscore_4: lazy_head_enforce_unaware
+bip_39_word_underscore_5: lazy_head_enforce_unaware_stamp
+bip_39_word_underscore_6: lazy_head_enforce_unaware_stamp_dutch
+bip_39_word_underscore_7: lazy_head_enforce_unaware_stamp_dutch_moon
+bip_39_word_underscore_8: lazy_head_enforce_unaware_stamp_dutch_moon_tooth
+bip_39_word_underscore_9: lazy_head_enforce_unaware_stamp_dutch_moon_tooth_carbon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_05_90
 id_no_color: '100590'
 id_no_size: '10_05_90'
 id_no_type: tray_thin_10_05_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_05_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_05_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_05_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ce2f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ce2f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ce2f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100590'
 name_no_size: 10 05 90
 name_no_size_short: 10 05 90
 name_no_type: Tray Thin 10 05 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_05_90
 oomp_word: pig fire wolf
 oomp_word_emoji: ':pig: :fire: :wolf:'

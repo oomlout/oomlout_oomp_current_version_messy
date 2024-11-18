@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Bag Grip Seal 45 Micron Thickness Clear 88 mm Width 114 mm Height Kite Packaging Pbr3 5 X 4 5 Kite
+* name_short: 
 ### id
 * oomp_id: packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :scroll: :doughnut: :spaghetti:
 * md5_6_alpha: 5j4ca
 * md5_6: 8dc1ba
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205j4ca)
+[2x1](http://192.168.1.242:1112/?label=oomp%205j4ca)
+[6x4](http://192.168.1.55:1112/?label=oomp%205j4ca)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ post |
 | id_no_color | 88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite |  
 | id_no_size | clear_88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite |  
 | id_no_type | 45_micron_thickness_clear_88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205j4ca |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205j4ca |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205j4ca |  
 | link_purchase | ['kitepackaging.co.uk/scp/resealable-grip-seal-bags/plain-grip-seal-bags/'] |  
 | manufacturer | kite_packaging |  
 | manufacturer_capital | Kite Packaging |  
@@ -333,6 +366,7 @@ post |
 | name_no_size | Clear 88 mm Width 114 mm Height Kite Pbr3 5 X 4 5 Kite |  
 | name_no_size_short | Clear 88 Mm Width 114 Mm Height Kite Pbr3 5 X 4 5 Kite |  
 | name_no_type | 45 Micron Thickness Clear 88 mm Width 114 mm Height Kite Pbr3 5 X 4 5 Kite |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite |  
 | oomp_word | scroll doughnut spaghetti |  
 | oomp_word_emoji | :scroll: :doughnut: :spaghetti: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: dinosaur
+bip_39_word_dash_10: dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow
+bip_39_word_dash_11: dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow-sand
+bip_39_word_dash_12: dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world-arrow-sand-april
+bip_39_word_dash_2: dinosaur-engine
+bip_39_word_dash_3: dinosaur-engine-auction
+bip_39_word_dash_4: dinosaur-engine-auction-hazard
+bip_39_word_dash_5: dinosaur-engine-auction-hazard-wall
+bip_39_word_dash_6: dinosaur-engine-auction-hazard-wall-myth
+bip_39_word_dash_7: dinosaur-engine-auction-hazard-wall-myth-unknown
+bip_39_word_dash_8: dinosaur-engine-auction-hazard-wall-myth-unknown-approve
+bip_39_word_dash_9: dinosaur-engine-auction-hazard-wall-myth-unknown-approve-world
+bip_39_word_new_br_1: dinosaur
+bip_39_word_new_br_10: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world<br>arrow
+bip_39_word_new_br_11: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world<br>arrow<br>sand
+bip_39_word_new_br_12: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world<br>arrow<br>sand<br>april
+bip_39_word_new_br_2: dinosaur<br>engine
+bip_39_word_new_br_3: dinosaur<br>engine<br>auction
+bip_39_word_new_br_4: dinosaur<br>engine<br>auction<br>hazard
+bip_39_word_new_br_5: dinosaur<br>engine<br>auction<br>hazard<br>wall
+bip_39_word_new_br_6: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth
+bip_39_word_new_br_7: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown
+bip_39_word_new_br_8: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve
+bip_39_word_new_br_9: dinosaur<br>engine<br>auction<br>hazard<br>wall<br>myth<br>unknown<br>approve<br>world
+bip_39_word_new_line_1: dinosaur
+bip_39_word_new_line_10: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown
+
+  approve
+
+  world
+
+  arrow'
+bip_39_word_new_line_11: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown
+
+  approve
+
+  world
+
+  arrow
+
+  sand'
+bip_39_word_new_line_12: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown
+
+  approve
+
+  world
+
+  arrow
+
+  sand
+
+  april'
+bip_39_word_new_line_2: 'dinosaur
+
+  engine'
+bip_39_word_new_line_3: 'dinosaur
+
+  engine
+
+  auction'
+bip_39_word_new_line_4: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard'
+bip_39_word_new_line_5: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall'
+bip_39_word_new_line_6: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth'
+bip_39_word_new_line_7: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown'
+bip_39_word_new_line_8: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown
+
+  approve'
+bip_39_word_new_line_9: 'dinosaur
+
+  engine
+
+  auction
+
+  hazard
+
+  wall
+
+  myth
+
+  unknown
+
+  approve
+
+  world'
+bip_39_word_no_space_1: dinosaur
+bip_39_word_no_space_10: dinosaurengineauctionhazardwallmythunknownapproveworldarrow
+bip_39_word_no_space_11: dinosaurengineauctionhazardwallmythunknownapproveworldarrowsand
+bip_39_word_no_space_12: dinosaurengineauctionhazardwallmythunknownapproveworldarrowsandapril
+bip_39_word_no_space_2: dinosaurengine
+bip_39_word_no_space_3: dinosaurengineauction
+bip_39_word_no_space_4: dinosaurengineauctionhazard
+bip_39_word_no_space_5: dinosaurengineauctionhazardwall
+bip_39_word_no_space_6: dinosaurengineauctionhazardwallmyth
+bip_39_word_no_space_7: dinosaurengineauctionhazardwallmythunknown
+bip_39_word_no_space_8: dinosaurengineauctionhazardwallmythunknownapprove
+bip_39_word_no_space_9: dinosaurengineauctionhazardwallmythunknownapproveworld
+bip_39_word_space_0:
+- dinosaur
+- engine
+- auction
+- hazard
+- wall
+- myth
+- unknown
+- approve
+- world
+- arrow
+- sand
+- april
+bip_39_word_space_1: dinosaur
+bip_39_word_space_10: dinosaur engine auction hazard wall myth unknown approve world
+  arrow
+bip_39_word_space_11: dinosaur engine auction hazard wall myth unknown approve world
+  arrow sand
+bip_39_word_space_12: dinosaur engine auction hazard wall myth unknown approve world
+  arrow sand april
+bip_39_word_space_2: dinosaur engine
+bip_39_word_space_3: dinosaur engine auction
+bip_39_word_space_4: dinosaur engine auction hazard
+bip_39_word_space_5: dinosaur engine auction hazard wall
+bip_39_word_space_6: dinosaur engine auction hazard wall myth
+bip_39_word_space_7: dinosaur engine auction hazard wall myth unknown
+bip_39_word_space_8: dinosaur engine auction hazard wall myth unknown approve
+bip_39_word_space_9: dinosaur engine auction hazard wall myth unknown approve world
+bip_39_word_underscore_1: dinosaur
+bip_39_word_underscore_10: dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow
+bip_39_word_underscore_11: dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow_sand
+bip_39_word_underscore_12: dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world_arrow_sand_april
+bip_39_word_underscore_2: dinosaur_engine
+bip_39_word_underscore_3: dinosaur_engine_auction
+bip_39_word_underscore_4: dinosaur_engine_auction_hazard
+bip_39_word_underscore_5: dinosaur_engine_auction_hazard_wall
+bip_39_word_underscore_6: dinosaur_engine_auction_hazard_wall_myth
+bip_39_word_underscore_7: dinosaur_engine_auction_hazard_wall_myth_unknown
+bip_39_word_underscore_8: dinosaur_engine_auction_hazard_wall_myth_unknown_approve
+bip_39_word_underscore_9: dinosaur_engine_auction_hazard_wall_myth_unknown_approve_world
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_12_08_27
 id_no_color: '120827'
 id_no_size: '12_08_27'
 id_no_type: tray_thin_12_08_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_08_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_08_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206uibn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206uibn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206uibn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '120827'
 name_no_size: 12 08 27
 name_no_size_short: 12 08 27
 name_no_type: Tray Thin 12 08 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_08_27
 oomp_word: tophat fax elephant
 oomp_word_emoji: ':tophat: :fax: :elephant:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 01 05 14  Ptfe Tube Holder Ninety Degree Sh M6
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_01_05_14__ptfe_tube_holder_ninety_degree_sh_m6
   * classification: oobb

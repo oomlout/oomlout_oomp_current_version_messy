@@ -1,3 +1,222 @@
+bip_39_word_dash_1: crush
+bip_39_word_dash_10: crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy
+bip_39_word_dash_11: crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy-flash
+bip_39_word_dash_12: crush-marriage-library-truck-divorce-dune-wire-fury-slim-galaxy-flash-abstract
+bip_39_word_dash_2: crush-marriage
+bip_39_word_dash_3: crush-marriage-library
+bip_39_word_dash_4: crush-marriage-library-truck
+bip_39_word_dash_5: crush-marriage-library-truck-divorce
+bip_39_word_dash_6: crush-marriage-library-truck-divorce-dune
+bip_39_word_dash_7: crush-marriage-library-truck-divorce-dune-wire
+bip_39_word_dash_8: crush-marriage-library-truck-divorce-dune-wire-fury
+bip_39_word_dash_9: crush-marriage-library-truck-divorce-dune-wire-fury-slim
+bip_39_word_new_br_1: crush
+bip_39_word_new_br_10: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim<br>galaxy
+bip_39_word_new_br_11: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim<br>galaxy<br>flash
+bip_39_word_new_br_12: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim<br>galaxy<br>flash<br>abstract
+bip_39_word_new_br_2: crush<br>marriage
+bip_39_word_new_br_3: crush<br>marriage<br>library
+bip_39_word_new_br_4: crush<br>marriage<br>library<br>truck
+bip_39_word_new_br_5: crush<br>marriage<br>library<br>truck<br>divorce
+bip_39_word_new_br_6: crush<br>marriage<br>library<br>truck<br>divorce<br>dune
+bip_39_word_new_br_7: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire
+bip_39_word_new_br_8: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury
+bip_39_word_new_br_9: crush<br>marriage<br>library<br>truck<br>divorce<br>dune<br>wire<br>fury<br>slim
+bip_39_word_new_line_1: crush
+bip_39_word_new_line_10: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire
+
+  fury
+
+  slim
+
+  galaxy'
+bip_39_word_new_line_11: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire
+
+  fury
+
+  slim
+
+  galaxy
+
+  flash'
+bip_39_word_new_line_12: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire
+
+  fury
+
+  slim
+
+  galaxy
+
+  flash
+
+  abstract'
+bip_39_word_new_line_2: 'crush
+
+  marriage'
+bip_39_word_new_line_3: 'crush
+
+  marriage
+
+  library'
+bip_39_word_new_line_4: 'crush
+
+  marriage
+
+  library
+
+  truck'
+bip_39_word_new_line_5: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce'
+bip_39_word_new_line_6: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune'
+bip_39_word_new_line_7: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire'
+bip_39_word_new_line_8: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire
+
+  fury'
+bip_39_word_new_line_9: 'crush
+
+  marriage
+
+  library
+
+  truck
+
+  divorce
+
+  dune
+
+  wire
+
+  fury
+
+  slim'
+bip_39_word_no_space_1: crush
+bip_39_word_no_space_10: crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxy
+bip_39_word_no_space_11: crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxyflash
+bip_39_word_no_space_12: crushmarriagelibrarytruckdivorcedunewirefuryslimgalaxyflashabstract
+bip_39_word_no_space_2: crushmarriage
+bip_39_word_no_space_3: crushmarriagelibrary
+bip_39_word_no_space_4: crushmarriagelibrarytruck
+bip_39_word_no_space_5: crushmarriagelibrarytruckdivorce
+bip_39_word_no_space_6: crushmarriagelibrarytruckdivorcedune
+bip_39_word_no_space_7: crushmarriagelibrarytruckdivorcedunewire
+bip_39_word_no_space_8: crushmarriagelibrarytruckdivorcedunewirefury
+bip_39_word_no_space_9: crushmarriagelibrarytruckdivorcedunewirefuryslim
+bip_39_word_space_0:
+- crush
+- marriage
+- library
+- truck
+- divorce
+- dune
+- wire
+- fury
+- slim
+- galaxy
+- flash
+- abstract
+bip_39_word_space_1: crush
+bip_39_word_space_10: crush marriage library truck divorce dune wire fury slim galaxy
+bip_39_word_space_11: crush marriage library truck divorce dune wire fury slim galaxy
+  flash
+bip_39_word_space_12: crush marriage library truck divorce dune wire fury slim galaxy
+  flash abstract
+bip_39_word_space_2: crush marriage
+bip_39_word_space_3: crush marriage library
+bip_39_word_space_4: crush marriage library truck
+bip_39_word_space_5: crush marriage library truck divorce
+bip_39_word_space_6: crush marriage library truck divorce dune
+bip_39_word_space_7: crush marriage library truck divorce dune wire
+bip_39_word_space_8: crush marriage library truck divorce dune wire fury
+bip_39_word_space_9: crush marriage library truck divorce dune wire fury slim
+bip_39_word_underscore_1: crush
+bip_39_word_underscore_10: crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy
+bip_39_word_underscore_11: crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy_flash
+bip_39_word_underscore_12: crush_marriage_library_truck_divorce_dune_wire_fury_slim_galaxy_flash_abstract
+bip_39_word_underscore_2: crush_marriage
+bip_39_word_underscore_3: crush_marriage_library
+bip_39_word_underscore_4: crush_marriage_library_truck
+bip_39_word_underscore_5: crush_marriage_library_truck_divorce
+bip_39_word_underscore_6: crush_marriage_library_truck_divorce_dune
+bip_39_word_underscore_7: crush_marriage_library_truck_divorce_dune_wire
+bip_39_word_underscore_8: crush_marriage_library_truck_divorce_dune_wire_fury
+bip_39_word_underscore_9: crush_marriage_library_truck_divorce_dune_wire_fury_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_11_18
 id_no_color: 021118
 id_no_size: 02_11_18
 id_no_type: tray_02_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20kmvr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20kmvr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20kmvr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 021118
 name_no_size: 02 11 18
 name_no_size_short: 02 11 18
 name_no_type: Tray 02 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_11_18
 oomp_word: cupid crown office
 oomp_word_emoji: ':cupid: :crown: :office:'

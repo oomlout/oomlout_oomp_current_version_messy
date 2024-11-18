@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Bolt Packaging Laser Cut Holder Takeaway Pots Version 1
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :honeybee: :tomato: :school:
 * md5_6_alpha: 32q52
 * md5_6: 4ed3d6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2032q52)
+[2x1](http://192.168.1.242:1112/?label=oomp%2032q52)
+[6x4](http://192.168.1.55:1112/?label=oomp%2032q52)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ wash |
 | id_no_color | bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
 | id_no_size | bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
 | id_no_type | oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2032q52 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2032q52 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2032q52 |  
 | link_redirect | https://github.com/oomlout/oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ wash |
 | name_no_size | Bolt Packaging Laser Cut Holder Takeaway Pots Version 1 |  
 | name_no_size_short | Bolt Packaging Laser Cut Holder Takeaway Pots Version 1 |  
 | name_no_type | Oomlout Oomlout Bolt Packaging Laser Cut Holder Takeaway Pots Version 1 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_packaging_laser_cut_holder_takeaway_pots_version_1 |  
 | oomp_word | honeybee tomato school |  
 | oomp_word_emoji | :honeybee: :tomato: :school: |  

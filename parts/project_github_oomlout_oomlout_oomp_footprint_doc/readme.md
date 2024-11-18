@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Footprint Doc
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_footprint_doc
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :door: :toilet: :squirrel:
 * md5_6_alpha: 5fzow
 * md5_6: 8b8770
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205fzow)
+[2x1](http://192.168.1.242:1112/?label=oomp%205fzow)
+[6x4](http://192.168.1.55:1112/?label=oomp%205fzow)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_doc) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_doc)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ weekend |
 | id_no_color | oomp_footprint_doc |  
 | id_no_size | oomp_footprint_doc |  
 | id_no_type | oomlout_oomlout_oomp_footprint_doc |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_doc |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_doc |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_footprint_doc |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205fzow |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205fzow |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205fzow |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_footprint_doc |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ weekend |
 | name_no_size | Oomp Footprint Doc |  
 | name_no_size_short | Oomp Footprint Doc |  
 | name_no_type | Oomlout Oomlout Oomp Footprint Doc |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_footprint_doc |  
 | oomp_word | door toilet squirrel |  
 | oomp_word_emoji | :door: :toilet: :squirrel: |  

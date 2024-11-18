@@ -1,3 +1,222 @@
+bip_39_word_dash_1: wasp
+bip_39_word_dash_10: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include
+bip_39_word_dash_11: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include-pony
+bip_39_word_dash_12: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact-include-pony-alley
+bip_39_word_dash_2: wasp-buddy
+bip_39_word_dash_3: wasp-buddy-visa
+bip_39_word_dash_4: wasp-buddy-visa-senior
+bip_39_word_dash_5: wasp-buddy-visa-senior-glue
+bip_39_word_dash_6: wasp-buddy-visa-senior-glue-gift
+bip_39_word_dash_7: wasp-buddy-visa-senior-glue-gift-possible
+bip_39_word_dash_8: wasp-buddy-visa-senior-glue-gift-possible-seek
+bip_39_word_dash_9: wasp-buddy-visa-senior-glue-gift-possible-seek-artefact
+bip_39_word_new_br_1: wasp
+bip_39_word_new_br_10: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include
+bip_39_word_new_br_11: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony
+bip_39_word_new_br_12: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact<br>include<br>pony<br>alley
+bip_39_word_new_br_2: wasp<br>buddy
+bip_39_word_new_br_3: wasp<br>buddy<br>visa
+bip_39_word_new_br_4: wasp<br>buddy<br>visa<br>senior
+bip_39_word_new_br_5: wasp<br>buddy<br>visa<br>senior<br>glue
+bip_39_word_new_br_6: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift
+bip_39_word_new_br_7: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible
+bip_39_word_new_br_8: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek
+bip_39_word_new_br_9: wasp<br>buddy<br>visa<br>senior<br>glue<br>gift<br>possible<br>seek<br>artefact
+bip_39_word_new_line_1: wasp
+bip_39_word_new_line_10: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include'
+bip_39_word_new_line_11: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include
+
+  pony'
+bip_39_word_new_line_12: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact
+
+  include
+
+  pony
+
+  alley'
+bip_39_word_new_line_2: 'wasp
+
+  buddy'
+bip_39_word_new_line_3: 'wasp
+
+  buddy
+
+  visa'
+bip_39_word_new_line_4: 'wasp
+
+  buddy
+
+  visa
+
+  senior'
+bip_39_word_new_line_5: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue'
+bip_39_word_new_line_6: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift'
+bip_39_word_new_line_7: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible'
+bip_39_word_new_line_8: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek'
+bip_39_word_new_line_9: 'wasp
+
+  buddy
+
+  visa
+
+  senior
+
+  glue
+
+  gift
+
+  possible
+
+  seek
+
+  artefact'
+bip_39_word_no_space_1: wasp
+bip_39_word_no_space_10: waspbuddyvisaseniorgluegiftpossibleseekartefactinclude
+bip_39_word_no_space_11: waspbuddyvisaseniorgluegiftpossibleseekartefactincludepony
+bip_39_word_no_space_12: waspbuddyvisaseniorgluegiftpossibleseekartefactincludeponyalley
+bip_39_word_no_space_2: waspbuddy
+bip_39_word_no_space_3: waspbuddyvisa
+bip_39_word_no_space_4: waspbuddyvisasenior
+bip_39_word_no_space_5: waspbuddyvisaseniorglue
+bip_39_word_no_space_6: waspbuddyvisaseniorgluegift
+bip_39_word_no_space_7: waspbuddyvisaseniorgluegiftpossible
+bip_39_word_no_space_8: waspbuddyvisaseniorgluegiftpossibleseek
+bip_39_word_no_space_9: waspbuddyvisaseniorgluegiftpossibleseekartefact
+bip_39_word_space_0:
+- wasp
+- buddy
+- visa
+- senior
+- glue
+- gift
+- possible
+- seek
+- artefact
+- include
+- pony
+- alley
+bip_39_word_space_1: wasp
+bip_39_word_space_10: wasp buddy visa senior glue gift possible seek artefact include
+bip_39_word_space_11: wasp buddy visa senior glue gift possible seek artefact include
+  pony
+bip_39_word_space_12: wasp buddy visa senior glue gift possible seek artefact include
+  pony alley
+bip_39_word_space_2: wasp buddy
+bip_39_word_space_3: wasp buddy visa
+bip_39_word_space_4: wasp buddy visa senior
+bip_39_word_space_5: wasp buddy visa senior glue
+bip_39_word_space_6: wasp buddy visa senior glue gift
+bip_39_word_space_7: wasp buddy visa senior glue gift possible
+bip_39_word_space_8: wasp buddy visa senior glue gift possible seek
+bip_39_word_space_9: wasp buddy visa senior glue gift possible seek artefact
+bip_39_word_underscore_1: wasp
+bip_39_word_underscore_10: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include
+bip_39_word_underscore_11: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include_pony
+bip_39_word_underscore_12: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact_include_pony_alley
+bip_39_word_underscore_2: wasp_buddy
+bip_39_word_underscore_3: wasp_buddy_visa
+bip_39_word_underscore_4: wasp_buddy_visa_senior
+bip_39_word_underscore_5: wasp_buddy_visa_senior_glue
+bip_39_word_underscore_6: wasp_buddy_visa_senior_glue_gift
+bip_39_word_underscore_7: wasp_buddy_visa_senior_glue_gift_possible
+bip_39_word_underscore_8: wasp_buddy_visa_senior_glue_gift_possible_seek
+bip_39_word_underscore_9: wasp_buddy_visa_senior_glue_gift_possible_seek_artefact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_11_18
 id_no_color: '111118'
 id_no_size: '11_11_18'
 id_no_type: tray_thin_11_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2043xek
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2043xek
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2043xek
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '111118'
 name_no_size: 11 11 18
 name_no_size_short: 11 11 18
 name_no_type: Tray Thin 11 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_11_18
 oomp_word: cactus ant factory
 oomp_word_emoji: ':cactus: :ant: :factory:'

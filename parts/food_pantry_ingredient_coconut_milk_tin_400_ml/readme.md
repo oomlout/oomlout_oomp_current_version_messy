@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Pantry Ingredient Coconut Milk Tin 400 Ml
+* name_short: 
 ### id
 * oomp_id: food_pantry_ingredient_coconut_milk_tin_400_ml
   * classification: food

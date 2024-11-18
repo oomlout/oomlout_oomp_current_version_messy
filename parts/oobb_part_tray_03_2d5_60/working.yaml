@@ -1,3 +1,223 @@
+bip_39_word_dash_1: disagree
+bip_39_word_dash_10: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet
+bip_39_word_dash_11: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet-ugly
+bip_39_word_dash_12: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom-sweet-ugly-around
+bip_39_word_dash_2: disagree-ostrich
+bip_39_word_dash_3: disagree-ostrich-salt
+bip_39_word_dash_4: disagree-ostrich-salt-luxury
+bip_39_word_dash_5: disagree-ostrich-salt-luxury-become
+bip_39_word_dash_6: disagree-ostrich-salt-luxury-become-voyage
+bip_39_word_dash_7: disagree-ostrich-salt-luxury-become-voyage-pond
+bip_39_word_dash_8: disagree-ostrich-salt-luxury-become-voyage-pond-bonus
+bip_39_word_dash_9: disagree-ostrich-salt-luxury-become-voyage-pond-bonus-bottom
+bip_39_word_new_br_1: disagree
+bip_39_word_new_br_10: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet
+bip_39_word_new_br_11: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet<br>ugly
+bip_39_word_new_br_12: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom<br>sweet<br>ugly<br>around
+bip_39_word_new_br_2: disagree<br>ostrich
+bip_39_word_new_br_3: disagree<br>ostrich<br>salt
+bip_39_word_new_br_4: disagree<br>ostrich<br>salt<br>luxury
+bip_39_word_new_br_5: disagree<br>ostrich<br>salt<br>luxury<br>become
+bip_39_word_new_br_6: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage
+bip_39_word_new_br_7: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond
+bip_39_word_new_br_8: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus
+bip_39_word_new_br_9: disagree<br>ostrich<br>salt<br>luxury<br>become<br>voyage<br>pond<br>bonus<br>bottom
+bip_39_word_new_line_1: disagree
+bip_39_word_new_line_10: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond
+
+  bonus
+
+  bottom
+
+  sweet'
+bip_39_word_new_line_11: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond
+
+  bonus
+
+  bottom
+
+  sweet
+
+  ugly'
+bip_39_word_new_line_12: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond
+
+  bonus
+
+  bottom
+
+  sweet
+
+  ugly
+
+  around'
+bip_39_word_new_line_2: 'disagree
+
+  ostrich'
+bip_39_word_new_line_3: 'disagree
+
+  ostrich
+
+  salt'
+bip_39_word_new_line_4: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury'
+bip_39_word_new_line_5: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become'
+bip_39_word_new_line_6: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage'
+bip_39_word_new_line_7: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond'
+bip_39_word_new_line_8: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond
+
+  bonus'
+bip_39_word_new_line_9: 'disagree
+
+  ostrich
+
+  salt
+
+  luxury
+
+  become
+
+  voyage
+
+  pond
+
+  bonus
+
+  bottom'
+bip_39_word_no_space_1: disagree
+bip_39_word_no_space_10: disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweet
+bip_39_word_no_space_11: disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweetugly
+bip_39_word_no_space_12: disagreeostrichsaltluxurybecomevoyagepondbonusbottomsweetuglyaround
+bip_39_word_no_space_2: disagreeostrich
+bip_39_word_no_space_3: disagreeostrichsalt
+bip_39_word_no_space_4: disagreeostrichsaltluxury
+bip_39_word_no_space_5: disagreeostrichsaltluxurybecome
+bip_39_word_no_space_6: disagreeostrichsaltluxurybecomevoyage
+bip_39_word_no_space_7: disagreeostrichsaltluxurybecomevoyagepond
+bip_39_word_no_space_8: disagreeostrichsaltluxurybecomevoyagepondbonus
+bip_39_word_no_space_9: disagreeostrichsaltluxurybecomevoyagepondbonusbottom
+bip_39_word_space_0:
+- disagree
+- ostrich
+- salt
+- luxury
+- become
+- voyage
+- pond
+- bonus
+- bottom
+- sweet
+- ugly
+- around
+bip_39_word_space_1: disagree
+bip_39_word_space_10: disagree ostrich salt luxury become voyage pond bonus bottom
+  sweet
+bip_39_word_space_11: disagree ostrich salt luxury become voyage pond bonus bottom
+  sweet ugly
+bip_39_word_space_12: disagree ostrich salt luxury become voyage pond bonus bottom
+  sweet ugly around
+bip_39_word_space_2: disagree ostrich
+bip_39_word_space_3: disagree ostrich salt
+bip_39_word_space_4: disagree ostrich salt luxury
+bip_39_word_space_5: disagree ostrich salt luxury become
+bip_39_word_space_6: disagree ostrich salt luxury become voyage
+bip_39_word_space_7: disagree ostrich salt luxury become voyage pond
+bip_39_word_space_8: disagree ostrich salt luxury become voyage pond bonus
+bip_39_word_space_9: disagree ostrich salt luxury become voyage pond bonus bottom
+bip_39_word_underscore_1: disagree
+bip_39_word_underscore_10: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet
+bip_39_word_underscore_11: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet_ugly
+bip_39_word_underscore_12: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom_sweet_ugly_around
+bip_39_word_underscore_2: disagree_ostrich
+bip_39_word_underscore_3: disagree_ostrich_salt
+bip_39_word_underscore_4: disagree_ostrich_salt_luxury
+bip_39_word_underscore_5: disagree_ostrich_salt_luxury_become
+bip_39_word_underscore_6: disagree_ostrich_salt_luxury_become_voyage
+bip_39_word_underscore_7: disagree_ostrich_salt_luxury_become_voyage_pond
+bip_39_word_underscore_8: disagree_ostrich_salt_luxury_become_voyage_pond_bonus
+bip_39_word_underscore_9: disagree_ostrich_salt_luxury_become_voyage_pond_bonus_bottom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_03_2d5_60
 id_no_color: 032d560
 id_no_size: 03_2d5_60
 id_no_type: tray_03_2d5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_2d5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_2d5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_2d5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207n3g6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207n3g6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207n3g6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 032D560
 name_no_size: 03 2D5 60
 name_no_size_short: 03 2D5 60
 name_no_type: Tray 03 2D5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_2d5_60
 oomp_word: cake hospital rabbit
 oomp_word_emoji: ':cake: :hospital: :rabbit:'

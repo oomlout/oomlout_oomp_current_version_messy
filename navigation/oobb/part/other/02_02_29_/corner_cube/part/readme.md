@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 02 02 29  Corner Cube
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_02_02_29__corner_cube
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hammer: :penguin: :egg:
 * md5_6_alpha: 5curj
 * md5_6: 894bbf
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205curj)
+[2x1](http://192.168.1.242:1112/?label=oomp%205curj)
+[6x4](http://192.168.1.55:1112/?label=oomp%205curj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ quick |
 | id_no_color | 020229cornercube |  
 | id_no_size | 02_02_29__corner_cube |  
 | id_no_type | other_02_02_29__corner_cube |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_02_02_29__corner_cube |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_02_02_29__corner_cube |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205curj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205curj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205curj |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ quick |
 | name_no_size | 02 02 29  Corner Cube |  
 | name_no_size_short | 02 02 29  Corner Cube |  
 | name_no_type | Other 02 02 29  Corner Cube |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_02_02_29__corner_cube |  
 | oomp_word | hammer penguin egg |  
 | oomp_word_emoji | :hammer: :penguin: :egg: |  

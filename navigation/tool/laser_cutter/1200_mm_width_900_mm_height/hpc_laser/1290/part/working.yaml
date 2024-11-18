@@ -280,7 +280,14 @@ id_no_class: laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
 id_no_color: hpclaser1290
 id_no_size: hpc_laser_1290
 id_no_type: 1200_mm_width_900_mm_height_hpc_laser_1290
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201b5if
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201b5if
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201b5if
 manufacturer: hpc_laser
 manufacturer_capital: Hpc Laser
 manufacturer_first_letter: h
@@ -330,6 +337,7 @@ name_no_color: Hpclaser1290
 name_no_size: Hpc Laser 1290
 name_no_size_short: Hpc Laser 1290
 name_no_type: 1200 mm Width 900 mm Height Hpc Laser 1290
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
 oomp_word: feet pushpin guitar
 oomp_word_emoji: ':feet: :pushpin: :guitar:'

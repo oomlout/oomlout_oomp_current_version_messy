@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Box Warehouse Sockerbit 190 mm Width 150 mm Height 260 mm Depth Ikea 503 161 82
+* name_short: 
 ### id
 * oomp_id: storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bear: :leopard: :tea:
 * md5_6_alpha: 2beet
 * md5_6: 3b5fb5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202beet)
+[2x1](http://192.168.1.242:1112/?label=oomp%202beet)
+[6x4](http://192.168.1.55:1112/?label=oomp%202beet)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ wool |
 | id_no_color | 190mmwidth150mmheight260mmdepthikea50316182 |  
 | id_no_size | 190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
 | id_no_type | sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202beet |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202beet |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202beet |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -304,6 +337,7 @@ wool |
 | name_no_size | 190 mm Width 150 mm Height 260 mm Depth Ikea 503 161 82 |  
 | name_no_size_short | 190 Mm Width 150 Mm Height 260 Mm Depth Ikea 503 161 82 |  
 | name_no_type | Sockerbit 190 mm Width 150 mm Height 260 mm Depth Ikea 503 161 82 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82 |  
 | oomp_word | bear leopard tea |  
 | oomp_word_emoji | :bear: :leopard: :tea: |  

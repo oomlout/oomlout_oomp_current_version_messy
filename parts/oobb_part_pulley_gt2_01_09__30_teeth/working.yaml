@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon
+bip_39_word_dash_11: cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon-rotate
+bip_39_word_dash_12: cushion-flame-paper-before-toddler-squeeze-bird-strike-hip-ribbon-rotate-advance
+bip_39_word_dash_2: cushion-flame
+bip_39_word_dash_3: cushion-flame-paper
+bip_39_word_dash_4: cushion-flame-paper-before
+bip_39_word_dash_5: cushion-flame-paper-before-toddler
+bip_39_word_dash_6: cushion-flame-paper-before-toddler-squeeze
+bip_39_word_dash_7: cushion-flame-paper-before-toddler-squeeze-bird
+bip_39_word_dash_8: cushion-flame-paper-before-toddler-squeeze-bird-strike
+bip_39_word_dash_9: cushion-flame-paper-before-toddler-squeeze-bird-strike-hip
+bip_39_word_new_br_1: cushion
+bip_39_word_new_br_10: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon
+bip_39_word_new_br_11: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon<br>rotate
+bip_39_word_new_br_12: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip<br>ribbon<br>rotate<br>advance
+bip_39_word_new_br_2: cushion<br>flame
+bip_39_word_new_br_3: cushion<br>flame<br>paper
+bip_39_word_new_br_4: cushion<br>flame<br>paper<br>before
+bip_39_word_new_br_5: cushion<br>flame<br>paper<br>before<br>toddler
+bip_39_word_new_br_6: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze
+bip_39_word_new_br_7: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird
+bip_39_word_new_br_8: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike
+bip_39_word_new_br_9: cushion<br>flame<br>paper<br>before<br>toddler<br>squeeze<br>bird<br>strike<br>hip
+bip_39_word_new_line_1: cushion
+bip_39_word_new_line_10: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird
+
+  strike
+
+  hip
+
+  ribbon'
+bip_39_word_new_line_11: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird
+
+  strike
+
+  hip
+
+  ribbon
+
+  rotate'
+bip_39_word_new_line_12: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird
+
+  strike
+
+  hip
+
+  ribbon
+
+  rotate
+
+  advance'
+bip_39_word_new_line_2: 'cushion
+
+  flame'
+bip_39_word_new_line_3: 'cushion
+
+  flame
+
+  paper'
+bip_39_word_new_line_4: 'cushion
+
+  flame
+
+  paper
+
+  before'
+bip_39_word_new_line_5: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler'
+bip_39_word_new_line_6: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze'
+bip_39_word_new_line_7: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird'
+bip_39_word_new_line_8: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird
+
+  strike'
+bip_39_word_new_line_9: 'cushion
+
+  flame
+
+  paper
+
+  before
+
+  toddler
+
+  squeeze
+
+  bird
+
+  strike
+
+  hip'
+bip_39_word_no_space_1: cushion
+bip_39_word_no_space_10: cushionflamepaperbeforetoddlersqueezebirdstrikehipribbon
+bip_39_word_no_space_11: cushionflamepaperbeforetoddlersqueezebirdstrikehipribbonrotate
+bip_39_word_no_space_12: cushionflamepaperbeforetoddlersqueezebirdstrikehipribbonrotateadvance
+bip_39_word_no_space_2: cushionflame
+bip_39_word_no_space_3: cushionflamepaper
+bip_39_word_no_space_4: cushionflamepaperbefore
+bip_39_word_no_space_5: cushionflamepaperbeforetoddler
+bip_39_word_no_space_6: cushionflamepaperbeforetoddlersqueeze
+bip_39_word_no_space_7: cushionflamepaperbeforetoddlersqueezebird
+bip_39_word_no_space_8: cushionflamepaperbeforetoddlersqueezebirdstrike
+bip_39_word_no_space_9: cushionflamepaperbeforetoddlersqueezebirdstrikehip
+bip_39_word_space_0:
+- cushion
+- flame
+- paper
+- before
+- toddler
+- squeeze
+- bird
+- strike
+- hip
+- ribbon
+- rotate
+- advance
+bip_39_word_space_1: cushion
+bip_39_word_space_10: cushion flame paper before toddler squeeze bird strike hip ribbon
+bip_39_word_space_11: cushion flame paper before toddler squeeze bird strike hip ribbon
+  rotate
+bip_39_word_space_12: cushion flame paper before toddler squeeze bird strike hip ribbon
+  rotate advance
+bip_39_word_space_2: cushion flame
+bip_39_word_space_3: cushion flame paper
+bip_39_word_space_4: cushion flame paper before
+bip_39_word_space_5: cushion flame paper before toddler
+bip_39_word_space_6: cushion flame paper before toddler squeeze
+bip_39_word_space_7: cushion flame paper before toddler squeeze bird
+bip_39_word_space_8: cushion flame paper before toddler squeeze bird strike
+bip_39_word_space_9: cushion flame paper before toddler squeeze bird strike hip
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon
+bip_39_word_underscore_11: cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon_rotate
+bip_39_word_underscore_12: cushion_flame_paper_before_toddler_squeeze_bird_strike_hip_ribbon_rotate_advance
+bip_39_word_underscore_2: cushion_flame
+bip_39_word_underscore_3: cushion_flame_paper
+bip_39_word_underscore_4: cushion_flame_paper_before
+bip_39_word_underscore_5: cushion_flame_paper_before_toddler
+bip_39_word_underscore_6: cushion_flame_paper_before_toddler_squeeze
+bip_39_word_underscore_7: cushion_flame_paper_before_toddler_squeeze_bird
+bip_39_word_underscore_8: cushion_flame_paper_before_toddler_squeeze_bird_strike
+bip_39_word_underscore_9: cushion_flame_paper_before_toddler_squeeze_bird_strike_hip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__30_teeth
 id_no_color: 010930teeth
 id_no_size: 01_09__30_teeth
 id_no_type: pulley_gt2_01_09__30_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202h5ke
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202h5ke
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202h5ke
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010930Teeth
 name_no_size: 01 09  30 Teeth
 name_no_size_short: 01 09  30 Teeth
 name_no_type: Pulley Gt2 01 09  30 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__30_teeth
 oomp_word: horse bell new_moon
 oomp_word_emoji: ':horse: :bell: :new_moon:'

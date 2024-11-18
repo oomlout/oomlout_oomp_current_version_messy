@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lounge
+bip_39_word_dash_10: lounge-nation-immense-muffin-fringe-harsh-oxygen-chief-style-laptop
+bip_39_word_dash_11: lounge-nation-immense-muffin-fringe-harsh-oxygen-chief-style-laptop-coil
+bip_39_word_dash_12: lounge-nation-immense-muffin-fringe-harsh-oxygen-chief-style-laptop-coil-arrive
+bip_39_word_dash_2: lounge-nation
+bip_39_word_dash_3: lounge-nation-immense
+bip_39_word_dash_4: lounge-nation-immense-muffin
+bip_39_word_dash_5: lounge-nation-immense-muffin-fringe
+bip_39_word_dash_6: lounge-nation-immense-muffin-fringe-harsh
+bip_39_word_dash_7: lounge-nation-immense-muffin-fringe-harsh-oxygen
+bip_39_word_dash_8: lounge-nation-immense-muffin-fringe-harsh-oxygen-chief
+bip_39_word_dash_9: lounge-nation-immense-muffin-fringe-harsh-oxygen-chief-style
+bip_39_word_new_br_1: lounge
+bip_39_word_new_br_10: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop
+bip_39_word_new_br_11: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop<br>coil
+bip_39_word_new_br_12: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style<br>laptop<br>coil<br>arrive
+bip_39_word_new_br_2: lounge<br>nation
+bip_39_word_new_br_3: lounge<br>nation<br>immense
+bip_39_word_new_br_4: lounge<br>nation<br>immense<br>muffin
+bip_39_word_new_br_5: lounge<br>nation<br>immense<br>muffin<br>fringe
+bip_39_word_new_br_6: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh
+bip_39_word_new_br_7: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen
+bip_39_word_new_br_8: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief
+bip_39_word_new_br_9: lounge<br>nation<br>immense<br>muffin<br>fringe<br>harsh<br>oxygen<br>chief<br>style
+bip_39_word_new_line_1: lounge
+bip_39_word_new_line_10: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen
+
+  chief
+
+  style
+
+  laptop'
+bip_39_word_new_line_11: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen
+
+  chief
+
+  style
+
+  laptop
+
+  coil'
+bip_39_word_new_line_12: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen
+
+  chief
+
+  style
+
+  laptop
+
+  coil
+
+  arrive'
+bip_39_word_new_line_2: 'lounge
+
+  nation'
+bip_39_word_new_line_3: 'lounge
+
+  nation
+
+  immense'
+bip_39_word_new_line_4: 'lounge
+
+  nation
+
+  immense
+
+  muffin'
+bip_39_word_new_line_5: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe'
+bip_39_word_new_line_6: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh'
+bip_39_word_new_line_7: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen'
+bip_39_word_new_line_8: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen
+
+  chief'
+bip_39_word_new_line_9: 'lounge
+
+  nation
+
+  immense
+
+  muffin
+
+  fringe
+
+  harsh
+
+  oxygen
+
+  chief
+
+  style'
+bip_39_word_no_space_1: lounge
+bip_39_word_no_space_10: loungenationimmensemuffinfringeharshoxygenchiefstylelaptop
+bip_39_word_no_space_11: loungenationimmensemuffinfringeharshoxygenchiefstylelaptopcoil
+bip_39_word_no_space_12: loungenationimmensemuffinfringeharshoxygenchiefstylelaptopcoilarrive
+bip_39_word_no_space_2: loungenation
+bip_39_word_no_space_3: loungenationimmense
+bip_39_word_no_space_4: loungenationimmensemuffin
+bip_39_word_no_space_5: loungenationimmensemuffinfringe
+bip_39_word_no_space_6: loungenationimmensemuffinfringeharsh
+bip_39_word_no_space_7: loungenationimmensemuffinfringeharshoxygen
+bip_39_word_no_space_8: loungenationimmensemuffinfringeharshoxygenchief
+bip_39_word_no_space_9: loungenationimmensemuffinfringeharshoxygenchiefstyle
+bip_39_word_space_0:
+- lounge
+- nation
+- immense
+- muffin
+- fringe
+- harsh
+- oxygen
+- chief
+- style
+- laptop
+- coil
+- arrive
+bip_39_word_space_1: lounge
+bip_39_word_space_10: lounge nation immense muffin fringe harsh oxygen chief style
+  laptop
+bip_39_word_space_11: lounge nation immense muffin fringe harsh oxygen chief style
+  laptop coil
+bip_39_word_space_12: lounge nation immense muffin fringe harsh oxygen chief style
+  laptop coil arrive
+bip_39_word_space_2: lounge nation
+bip_39_word_space_3: lounge nation immense
+bip_39_word_space_4: lounge nation immense muffin
+bip_39_word_space_5: lounge nation immense muffin fringe
+bip_39_word_space_6: lounge nation immense muffin fringe harsh
+bip_39_word_space_7: lounge nation immense muffin fringe harsh oxygen
+bip_39_word_space_8: lounge nation immense muffin fringe harsh oxygen chief
+bip_39_word_space_9: lounge nation immense muffin fringe harsh oxygen chief style
+bip_39_word_underscore_1: lounge
+bip_39_word_underscore_10: lounge_nation_immense_muffin_fringe_harsh_oxygen_chief_style_laptop
+bip_39_word_underscore_11: lounge_nation_immense_muffin_fringe_harsh_oxygen_chief_style_laptop_coil
+bip_39_word_underscore_12: lounge_nation_immense_muffin_fringe_harsh_oxygen_chief_style_laptop_coil_arrive
+bip_39_word_underscore_2: lounge_nation
+bip_39_word_underscore_3: lounge_nation_immense
+bip_39_word_underscore_4: lounge_nation_immense_muffin
+bip_39_word_underscore_5: lounge_nation_immense_muffin_fringe
+bip_39_word_underscore_6: lounge_nation_immense_muffin_fringe_harsh
+bip_39_word_underscore_7: lounge_nation_immense_muffin_fringe_harsh_oxygen
+bip_39_word_underscore_8: lounge_nation_immense_muffin_fringe_harsh_oxygen_chief
+bip_39_word_underscore_9: lounge_nation_immense_muffin_fringe_harsh_oxygen_chief_style
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_12_21
 id_no_color: '041221'
 id_no_size: '04_12_21'
 id_no_type: tray_04_12_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207tfhb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207tfhb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207tfhb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '041221'
 name_no_size: 04 12 21
 name_no_size_short: 04 12 21
 name_no_type: Tray 04 12 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_12_21
 oomp_word: apple goat diamonds
 oomp_word_emoji: ':apple: :goat: :diamonds:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Washer M8 Penny
+* name_short: 
 ### id
 * oomp_id: hardware_washer_m8_penny
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :camel: :hamburger: :baby:
 * md5_6_alpha: 2kba5
 * md5_6: 41b81d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202kba5)
+[2x1](http://192.168.1.242:1112/?label=oomp%202kba5)
+[6x4](http://192.168.1.55:1112/?label=oomp%202kba5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m8_penny) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m8x38x15-penny-washer-steel-galv)                            
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.1254 | 0.1254 | 0.1254 | 0.1045 |  |
+| orbital_fasteners | 0.1254 | 0.1254 | 0.1254 | 0.1045 |  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +301,20 @@ abandon |
 | id_no_size | penny |  
 | id_no_type | m8_penny |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8_penny |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m8_penny |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m8x38x15-penny-washer-steel-galv |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m8x38x15-penny-washer-steel-galv |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m8x38x15-penny-washer-steel-galv |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m8_penny |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202kba5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202kba5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202kba5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +339,7 @@ abandon |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M8 Penny |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_id | hardware_washer_m8_penny |  
 | oomp_key | oomp_hardware_washer_m8_penny |  
 | oomp_word | camel hamburger baby |  
@@ -300,11 +356,19 @@ abandon |
 | price_1 | 0.1254 |  
 | price_100 | 0.1254 |  
 | price_1000 | 0.1045 |  
+| price_1000_distributor_1 | 0.1045 |  
 | price_1000_distributor_orbital_fasteners | 0.1045 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.1254 |  
 | price_100_distributor_orbital_fasteners | 0.1254 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.1254 |  
 | price_1_distributor_orbital_fasteners | 0.1254 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.1254 |  
+| price_200_distributor_1 | 0.1254 |  
 | price_200_distributor_orbital_fasteners | 0.1254 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.1254 |  
 | quantity_current | 200 |  
 | short_code | w8 |  

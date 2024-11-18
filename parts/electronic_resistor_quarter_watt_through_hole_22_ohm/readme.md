@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor Quarter Watt Through Hole 22 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_quarter_watt_through_hole_22_ohm
   * classification: electronic

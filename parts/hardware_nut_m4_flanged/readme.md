@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Nut M4 Flanged
+* name_short: 
 ### id
 * oomp_id: hardware_nut_m4_flanged
   * classification: hardware

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: exclude
+bip_39_word_dash_10: exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset
+bip_39_word_dash_11: exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset-language
+bip_39_word_dash_12: exclude-idle-volcano-icon-use-exist-energy-elevator-voyage-asset-language-aspect
+bip_39_word_dash_2: exclude-idle
+bip_39_word_dash_3: exclude-idle-volcano
+bip_39_word_dash_4: exclude-idle-volcano-icon
+bip_39_word_dash_5: exclude-idle-volcano-icon-use
+bip_39_word_dash_6: exclude-idle-volcano-icon-use-exist
+bip_39_word_dash_7: exclude-idle-volcano-icon-use-exist-energy
+bip_39_word_dash_8: exclude-idle-volcano-icon-use-exist-energy-elevator
+bip_39_word_dash_9: exclude-idle-volcano-icon-use-exist-energy-elevator-voyage
+bip_39_word_new_br_1: exclude
+bip_39_word_new_br_10: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset
+bip_39_word_new_br_11: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset<br>language
+bip_39_word_new_br_12: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage<br>asset<br>language<br>aspect
+bip_39_word_new_br_2: exclude<br>idle
+bip_39_word_new_br_3: exclude<br>idle<br>volcano
+bip_39_word_new_br_4: exclude<br>idle<br>volcano<br>icon
+bip_39_word_new_br_5: exclude<br>idle<br>volcano<br>icon<br>use
+bip_39_word_new_br_6: exclude<br>idle<br>volcano<br>icon<br>use<br>exist
+bip_39_word_new_br_7: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy
+bip_39_word_new_br_8: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator
+bip_39_word_new_br_9: exclude<br>idle<br>volcano<br>icon<br>use<br>exist<br>energy<br>elevator<br>voyage
+bip_39_word_new_line_1: exclude
+bip_39_word_new_line_10: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy
+
+  elevator
+
+  voyage
+
+  asset'
+bip_39_word_new_line_11: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy
+
+  elevator
+
+  voyage
+
+  asset
+
+  language'
+bip_39_word_new_line_12: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy
+
+  elevator
+
+  voyage
+
+  asset
+
+  language
+
+  aspect'
+bip_39_word_new_line_2: 'exclude
+
+  idle'
+bip_39_word_new_line_3: 'exclude
+
+  idle
+
+  volcano'
+bip_39_word_new_line_4: 'exclude
+
+  idle
+
+  volcano
+
+  icon'
+bip_39_word_new_line_5: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use'
+bip_39_word_new_line_6: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist'
+bip_39_word_new_line_7: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy'
+bip_39_word_new_line_8: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy
+
+  elevator'
+bip_39_word_new_line_9: 'exclude
+
+  idle
+
+  volcano
+
+  icon
+
+  use
+
+  exist
+
+  energy
+
+  elevator
+
+  voyage'
+bip_39_word_no_space_1: exclude
+bip_39_word_no_space_10: excludeidlevolcanoiconuseexistenergyelevatorvoyageasset
+bip_39_word_no_space_11: excludeidlevolcanoiconuseexistenergyelevatorvoyageassetlanguage
+bip_39_word_no_space_12: excludeidlevolcanoiconuseexistenergyelevatorvoyageassetlanguageaspect
+bip_39_word_no_space_2: excludeidle
+bip_39_word_no_space_3: excludeidlevolcano
+bip_39_word_no_space_4: excludeidlevolcanoicon
+bip_39_word_no_space_5: excludeidlevolcanoiconuse
+bip_39_word_no_space_6: excludeidlevolcanoiconuseexist
+bip_39_word_no_space_7: excludeidlevolcanoiconuseexistenergy
+bip_39_word_no_space_8: excludeidlevolcanoiconuseexistenergyelevator
+bip_39_word_no_space_9: excludeidlevolcanoiconuseexistenergyelevatorvoyage
+bip_39_word_space_0:
+- exclude
+- idle
+- volcano
+- icon
+- use
+- exist
+- energy
+- elevator
+- voyage
+- asset
+- language
+- aspect
+bip_39_word_space_1: exclude
+bip_39_word_space_10: exclude idle volcano icon use exist energy elevator voyage asset
+bip_39_word_space_11: exclude idle volcano icon use exist energy elevator voyage asset
+  language
+bip_39_word_space_12: exclude idle volcano icon use exist energy elevator voyage asset
+  language aspect
+bip_39_word_space_2: exclude idle
+bip_39_word_space_3: exclude idle volcano
+bip_39_word_space_4: exclude idle volcano icon
+bip_39_word_space_5: exclude idle volcano icon use
+bip_39_word_space_6: exclude idle volcano icon use exist
+bip_39_word_space_7: exclude idle volcano icon use exist energy
+bip_39_word_space_8: exclude idle volcano icon use exist energy elevator
+bip_39_word_space_9: exclude idle volcano icon use exist energy elevator voyage
+bip_39_word_underscore_1: exclude
+bip_39_word_underscore_10: exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset
+bip_39_word_underscore_11: exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset_language
+bip_39_word_underscore_12: exclude_idle_volcano_icon_use_exist_energy_elevator_voyage_asset_language_aspect
+bip_39_word_underscore_2: exclude_idle
+bip_39_word_underscore_3: exclude_idle_volcano
+bip_39_word_underscore_4: exclude_idle_volcano_icon
+bip_39_word_underscore_5: exclude_idle_volcano_icon_use
+bip_39_word_underscore_6: exclude_idle_volcano_icon_use_exist
+bip_39_word_underscore_7: exclude_idle_volcano_icon_use_exist_energy
+bip_39_word_underscore_8: exclude_idle_volcano_icon_use_exist_energy_elevator
+bip_39_word_underscore_9: exclude_idle_volcano_icon_use_exist_energy_elevator_voyage
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -85,7 +304,14 @@ id_no_color: flanged
 id_no_size: flanged
 id_no_type: m6_flanged
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_flanged
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_flanged
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208dyv7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208dyv7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208dyv7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -111,6 +337,9 @@ name_no_color: Flanged
 name_no_size: Flanged
 name_no_size_short: Flanged
 name_no_type: M6 Flanged
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: n6mfl
+oomlout_short_code_upper: N6MFL
 oomp_key: oomp_hardware_nut_m6_flanged
 oomp_word: school eight cake
 oomp_word_emoji: ':school: :eight: :cake:'

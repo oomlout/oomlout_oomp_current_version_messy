@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wire
+bip_39_word_dash_10: wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick
+bip_39_word_dash_11: wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick-bullet
+bip_39_word_dash_12: wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce-quick-bullet-amount
+bip_39_word_dash_2: wire-sniff
+bip_39_word_dash_3: wire-sniff-audit
+bip_39_word_dash_4: wire-sniff-audit-abstract
+bip_39_word_dash_5: wire-sniff-audit-abstract-jungle
+bip_39_word_dash_6: wire-sniff-audit-abstract-jungle-situate
+bip_39_word_dash_7: wire-sniff-audit-abstract-jungle-situate-cupboard
+bip_39_word_dash_8: wire-sniff-audit-abstract-jungle-situate-cupboard-strategy
+bip_39_word_dash_9: wire-sniff-audit-abstract-jungle-situate-cupboard-strategy-reduce
+bip_39_word_new_br_1: wire
+bip_39_word_new_br_10: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick
+bip_39_word_new_br_11: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet
+bip_39_word_new_br_12: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce<br>quick<br>bullet<br>amount
+bip_39_word_new_br_2: wire<br>sniff
+bip_39_word_new_br_3: wire<br>sniff<br>audit
+bip_39_word_new_br_4: wire<br>sniff<br>audit<br>abstract
+bip_39_word_new_br_5: wire<br>sniff<br>audit<br>abstract<br>jungle
+bip_39_word_new_br_6: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate
+bip_39_word_new_br_7: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard
+bip_39_word_new_br_8: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy
+bip_39_word_new_br_9: wire<br>sniff<br>audit<br>abstract<br>jungle<br>situate<br>cupboard<br>strategy<br>reduce
+bip_39_word_new_line_1: wire
+bip_39_word_new_line_10: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick'
+bip_39_word_new_line_11: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick
+
+  bullet'
+bip_39_word_new_line_12: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce
+
+  quick
+
+  bullet
+
+  amount'
+bip_39_word_new_line_2: 'wire
+
+  sniff'
+bip_39_word_new_line_3: 'wire
+
+  sniff
+
+  audit'
+bip_39_word_new_line_4: 'wire
+
+  sniff
+
+  audit
+
+  abstract'
+bip_39_word_new_line_5: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle'
+bip_39_word_new_line_6: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate'
+bip_39_word_new_line_7: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard'
+bip_39_word_new_line_8: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy'
+bip_39_word_new_line_9: 'wire
+
+  sniff
+
+  audit
+
+  abstract
+
+  jungle
+
+  situate
+
+  cupboard
+
+  strategy
+
+  reduce'
+bip_39_word_no_space_1: wire
+bip_39_word_no_space_10: wiresniffauditabstractjunglesituatecupboardstrategyreducequick
+bip_39_word_no_space_11: wiresniffauditabstractjunglesituatecupboardstrategyreducequickbullet
+bip_39_word_no_space_12: wiresniffauditabstractjunglesituatecupboardstrategyreducequickbulletamount
+bip_39_word_no_space_2: wiresniff
+bip_39_word_no_space_3: wiresniffaudit
+bip_39_word_no_space_4: wiresniffauditabstract
+bip_39_word_no_space_5: wiresniffauditabstractjungle
+bip_39_word_no_space_6: wiresniffauditabstractjunglesituate
+bip_39_word_no_space_7: wiresniffauditabstractjunglesituatecupboard
+bip_39_word_no_space_8: wiresniffauditabstractjunglesituatecupboardstrategy
+bip_39_word_no_space_9: wiresniffauditabstractjunglesituatecupboardstrategyreduce
+bip_39_word_space_0:
+- wire
+- sniff
+- audit
+- abstract
+- jungle
+- situate
+- cupboard
+- strategy
+- reduce
+- quick
+- bullet
+- amount
+bip_39_word_space_1: wire
+bip_39_word_space_10: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick
+bip_39_word_space_11: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick bullet
+bip_39_word_space_12: wire sniff audit abstract jungle situate cupboard strategy reduce
+  quick bullet amount
+bip_39_word_space_2: wire sniff
+bip_39_word_space_3: wire sniff audit
+bip_39_word_space_4: wire sniff audit abstract
+bip_39_word_space_5: wire sniff audit abstract jungle
+bip_39_word_space_6: wire sniff audit abstract jungle situate
+bip_39_word_space_7: wire sniff audit abstract jungle situate cupboard
+bip_39_word_space_8: wire sniff audit abstract jungle situate cupboard strategy
+bip_39_word_space_9: wire sniff audit abstract jungle situate cupboard strategy reduce
+bip_39_word_underscore_1: wire
+bip_39_word_underscore_10: wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick
+bip_39_word_underscore_11: wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick_bullet
+bip_39_word_underscore_12: wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce_quick_bullet_amount
+bip_39_word_underscore_2: wire_sniff
+bip_39_word_underscore_3: wire_sniff_audit
+bip_39_word_underscore_4: wire_sniff_audit_abstract
+bip_39_word_underscore_5: wire_sniff_audit_abstract_jungle
+bip_39_word_underscore_6: wire_sniff_audit_abstract_jungle_situate
+bip_39_word_underscore_7: wire_sniff_audit_abstract_jungle_situate_cupboard
+bip_39_word_underscore_8: wire_sniff_audit_abstract_jungle_situate_cupboard_strategy
+bip_39_word_underscore_9: wire_sniff_audit_abstract_jungle_situate_cupboard_strategy_reduce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_09_12_12
 id_no_color: 091212
 id_no_size: 09_12_12
 id_no_type: tray_09_12_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_12_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20504mj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20504mj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20504mj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 091212
 name_no_size: 09 12 12
 name_no_size_short: 09 12 12
 name_no_type: Tray 09 12 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_12_12
 oomp_word: hourglass pig chestnut
 oomp_word_emoji: ':hourglass: :pig: :chestnut:'

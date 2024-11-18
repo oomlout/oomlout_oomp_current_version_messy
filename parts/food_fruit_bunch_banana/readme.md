@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Ocado Bananas
 
+### name
+* name: Food Fruit Bunch Banana
+* name_short: 
 ### id
 * oomp_id: food_fruit_bunch_banana
   * classification: food

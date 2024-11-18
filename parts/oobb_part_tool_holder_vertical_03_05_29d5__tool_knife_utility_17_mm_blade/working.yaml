@@ -1,3 +1,223 @@
+bip_39_word_dash_1: essay
+bip_39_word_dash_10: essay-true-input-stove-disagree-online-tortoise-north-intact-avoid
+bip_39_word_dash_11: essay-true-input-stove-disagree-online-tortoise-north-intact-avoid-fog
+bip_39_word_dash_12: essay-true-input-stove-disagree-online-tortoise-north-intact-avoid-fog-asthma
+bip_39_word_dash_2: essay-true
+bip_39_word_dash_3: essay-true-input
+bip_39_word_dash_4: essay-true-input-stove
+bip_39_word_dash_5: essay-true-input-stove-disagree
+bip_39_word_dash_6: essay-true-input-stove-disagree-online
+bip_39_word_dash_7: essay-true-input-stove-disagree-online-tortoise
+bip_39_word_dash_8: essay-true-input-stove-disagree-online-tortoise-north
+bip_39_word_dash_9: essay-true-input-stove-disagree-online-tortoise-north-intact
+bip_39_word_new_br_1: essay
+bip_39_word_new_br_10: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise<br>north<br>intact<br>avoid
+bip_39_word_new_br_11: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise<br>north<br>intact<br>avoid<br>fog
+bip_39_word_new_br_12: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise<br>north<br>intact<br>avoid<br>fog<br>asthma
+bip_39_word_new_br_2: essay<br>true
+bip_39_word_new_br_3: essay<br>true<br>input
+bip_39_word_new_br_4: essay<br>true<br>input<br>stove
+bip_39_word_new_br_5: essay<br>true<br>input<br>stove<br>disagree
+bip_39_word_new_br_6: essay<br>true<br>input<br>stove<br>disagree<br>online
+bip_39_word_new_br_7: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise
+bip_39_word_new_br_8: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise<br>north
+bip_39_word_new_br_9: essay<br>true<br>input<br>stove<br>disagree<br>online<br>tortoise<br>north<br>intact
+bip_39_word_new_line_1: essay
+bip_39_word_new_line_10: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise
+
+  north
+
+  intact
+
+  avoid'
+bip_39_word_new_line_11: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise
+
+  north
+
+  intact
+
+  avoid
+
+  fog'
+bip_39_word_new_line_12: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise
+
+  north
+
+  intact
+
+  avoid
+
+  fog
+
+  asthma'
+bip_39_word_new_line_2: 'essay
+
+  true'
+bip_39_word_new_line_3: 'essay
+
+  true
+
+  input'
+bip_39_word_new_line_4: 'essay
+
+  true
+
+  input
+
+  stove'
+bip_39_word_new_line_5: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree'
+bip_39_word_new_line_6: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online'
+bip_39_word_new_line_7: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise'
+bip_39_word_new_line_8: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise
+
+  north'
+bip_39_word_new_line_9: 'essay
+
+  true
+
+  input
+
+  stove
+
+  disagree
+
+  online
+
+  tortoise
+
+  north
+
+  intact'
+bip_39_word_no_space_1: essay
+bip_39_word_no_space_10: essaytrueinputstovedisagreeonlinetortoisenorthintactavoid
+bip_39_word_no_space_11: essaytrueinputstovedisagreeonlinetortoisenorthintactavoidfog
+bip_39_word_no_space_12: essaytrueinputstovedisagreeonlinetortoisenorthintactavoidfogasthma
+bip_39_word_no_space_2: essaytrue
+bip_39_word_no_space_3: essaytrueinput
+bip_39_word_no_space_4: essaytrueinputstove
+bip_39_word_no_space_5: essaytrueinputstovedisagree
+bip_39_word_no_space_6: essaytrueinputstovedisagreeonline
+bip_39_word_no_space_7: essaytrueinputstovedisagreeonlinetortoise
+bip_39_word_no_space_8: essaytrueinputstovedisagreeonlinetortoisenorth
+bip_39_word_no_space_9: essaytrueinputstovedisagreeonlinetortoisenorthintact
+bip_39_word_space_0:
+- essay
+- 'true'
+- input
+- stove
+- disagree
+- online
+- tortoise
+- north
+- intact
+- avoid
+- fog
+- asthma
+bip_39_word_space_1: essay
+bip_39_word_space_10: essay true input stove disagree online tortoise north intact
+  avoid
+bip_39_word_space_11: essay true input stove disagree online tortoise north intact
+  avoid fog
+bip_39_word_space_12: essay true input stove disagree online tortoise north intact
+  avoid fog asthma
+bip_39_word_space_2: essay true
+bip_39_word_space_3: essay true input
+bip_39_word_space_4: essay true input stove
+bip_39_word_space_5: essay true input stove disagree
+bip_39_word_space_6: essay true input stove disagree online
+bip_39_word_space_7: essay true input stove disagree online tortoise
+bip_39_word_space_8: essay true input stove disagree online tortoise north
+bip_39_word_space_9: essay true input stove disagree online tortoise north intact
+bip_39_word_underscore_1: essay
+bip_39_word_underscore_10: essay_true_input_stove_disagree_online_tortoise_north_intact_avoid
+bip_39_word_underscore_11: essay_true_input_stove_disagree_online_tortoise_north_intact_avoid_fog
+bip_39_word_underscore_12: essay_true_input_stove_disagree_online_tortoise_north_intact_avoid_fog_asthma
+bip_39_word_underscore_2: essay_true
+bip_39_word_underscore_3: essay_true_input
+bip_39_word_underscore_4: essay_true_input_stove
+bip_39_word_underscore_5: essay_true_input_stove_disagree
+bip_39_word_underscore_6: essay_true_input_stove_disagree_online
+bip_39_word_underscore_7: essay_true_input_stove_disagree_online_tortoise
+bip_39_word_underscore_8: essay_true_input_stove_disagree_online_tortoise_north
+bip_39_word_underscore_9: essay_true_input_stove_disagree_online_tortoise_north_intact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blad
 id_no_color: 030529d5toolknifeutility17mmblade
 id_no_size: 03_05_29d5__tool_knife_utility_17_mm_blade
 id_no_type: tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208rmv8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208rmv8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208rmv8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030529D5Toolknifeutility17mmblade
 name_no_size: 03 05 29D5  Tool Knife Utility 17 mm Blade
 name_no_size_short: 03 05 29D5  Tool Knife Utility 17 Mm Blade
 name_no_type: Tool Holder Vertical 03 05 29D5  Tool Knife Utility 17 mm Blade
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade
 oomp_word: ship coffee key
 oomp_word_emoji: ':ship: :coffee: :key:'

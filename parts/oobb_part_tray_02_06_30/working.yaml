@@ -1,3 +1,222 @@
+bip_39_word_dash_1: gap
+bip_39_word_dash_10: gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool
+bip_39_word_dash_11: gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool-despair
+bip_39_word_dash_12: gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage-cool-despair-arctic
+bip_39_word_dash_2: gap-foot
+bip_39_word_dash_3: gap-foot-scatter
+bip_39_word_dash_4: gap-foot-scatter-bounce
+bip_39_word_dash_5: gap-foot-scatter-bounce-cash
+bip_39_word_dash_6: gap-foot-scatter-bounce-cash-decade
+bip_39_word_dash_7: gap-foot-scatter-bounce-cash-decade-jaguar
+bip_39_word_dash_8: gap-foot-scatter-bounce-cash-decade-jaguar-travel
+bip_39_word_dash_9: gap-foot-scatter-bounce-cash-decade-jaguar-travel-cage
+bip_39_word_new_br_1: gap
+bip_39_word_new_br_10: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool
+bip_39_word_new_br_11: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair
+bip_39_word_new_br_12: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage<br>cool<br>despair<br>arctic
+bip_39_word_new_br_2: gap<br>foot
+bip_39_word_new_br_3: gap<br>foot<br>scatter
+bip_39_word_new_br_4: gap<br>foot<br>scatter<br>bounce
+bip_39_word_new_br_5: gap<br>foot<br>scatter<br>bounce<br>cash
+bip_39_word_new_br_6: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade
+bip_39_word_new_br_7: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar
+bip_39_word_new_br_8: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel
+bip_39_word_new_br_9: gap<br>foot<br>scatter<br>bounce<br>cash<br>decade<br>jaguar<br>travel<br>cage
+bip_39_word_new_line_1: gap
+bip_39_word_new_line_10: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar
+
+  travel
+
+  cage
+
+  cool'
+bip_39_word_new_line_11: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar
+
+  travel
+
+  cage
+
+  cool
+
+  despair'
+bip_39_word_new_line_12: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar
+
+  travel
+
+  cage
+
+  cool
+
+  despair
+
+  arctic'
+bip_39_word_new_line_2: 'gap
+
+  foot'
+bip_39_word_new_line_3: 'gap
+
+  foot
+
+  scatter'
+bip_39_word_new_line_4: 'gap
+
+  foot
+
+  scatter
+
+  bounce'
+bip_39_word_new_line_5: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash'
+bip_39_word_new_line_6: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade'
+bip_39_word_new_line_7: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar'
+bip_39_word_new_line_8: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar
+
+  travel'
+bip_39_word_new_line_9: 'gap
+
+  foot
+
+  scatter
+
+  bounce
+
+  cash
+
+  decade
+
+  jaguar
+
+  travel
+
+  cage'
+bip_39_word_no_space_1: gap
+bip_39_word_no_space_10: gapfootscatterbouncecashdecadejaguartravelcagecool
+bip_39_word_no_space_11: gapfootscatterbouncecashdecadejaguartravelcagecooldespair
+bip_39_word_no_space_12: gapfootscatterbouncecashdecadejaguartravelcagecooldespairarctic
+bip_39_word_no_space_2: gapfoot
+bip_39_word_no_space_3: gapfootscatter
+bip_39_word_no_space_4: gapfootscatterbounce
+bip_39_word_no_space_5: gapfootscatterbouncecash
+bip_39_word_no_space_6: gapfootscatterbouncecashdecade
+bip_39_word_no_space_7: gapfootscatterbouncecashdecadejaguar
+bip_39_word_no_space_8: gapfootscatterbouncecashdecadejaguartravel
+bip_39_word_no_space_9: gapfootscatterbouncecashdecadejaguartravelcage
+bip_39_word_space_0:
+- gap
+- foot
+- scatter
+- bounce
+- cash
+- decade
+- jaguar
+- travel
+- cage
+- cool
+- despair
+- arctic
+bip_39_word_space_1: gap
+bip_39_word_space_10: gap foot scatter bounce cash decade jaguar travel cage cool
+bip_39_word_space_11: gap foot scatter bounce cash decade jaguar travel cage cool
+  despair
+bip_39_word_space_12: gap foot scatter bounce cash decade jaguar travel cage cool
+  despair arctic
+bip_39_word_space_2: gap foot
+bip_39_word_space_3: gap foot scatter
+bip_39_word_space_4: gap foot scatter bounce
+bip_39_word_space_5: gap foot scatter bounce cash
+bip_39_word_space_6: gap foot scatter bounce cash decade
+bip_39_word_space_7: gap foot scatter bounce cash decade jaguar
+bip_39_word_space_8: gap foot scatter bounce cash decade jaguar travel
+bip_39_word_space_9: gap foot scatter bounce cash decade jaguar travel cage
+bip_39_word_underscore_1: gap
+bip_39_word_underscore_10: gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool
+bip_39_word_underscore_11: gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool_despair
+bip_39_word_underscore_12: gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage_cool_despair_arctic
+bip_39_word_underscore_2: gap_foot
+bip_39_word_underscore_3: gap_foot_scatter
+bip_39_word_underscore_4: gap_foot_scatter_bounce
+bip_39_word_underscore_5: gap_foot_scatter_bounce_cash
+bip_39_word_underscore_6: gap_foot_scatter_bounce_cash_decade
+bip_39_word_underscore_7: gap_foot_scatter_bounce_cash_decade_jaguar
+bip_39_word_underscore_8: gap_foot_scatter_bounce_cash_decade_jaguar_travel
+bip_39_word_underscore_9: gap_foot_scatter_bounce_cash_decade_jaguar_travel_cage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_06_30
 id_no_color: '020630'
 id_no_size: '02_06_30'
 id_no_type: tray_02_06_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_06_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_06_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206yosr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206yosr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206yosr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020630'
 name_no_size: 02 06 30
 name_no_size_short: 02 06 30
 name_no_type: Tray 02 06 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_06_30
 oomp_word: handbag bell sunglasses
 oomp_word_emoji: ':handbag: :bell: :sunglasses:'

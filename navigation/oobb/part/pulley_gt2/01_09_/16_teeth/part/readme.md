@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 01 09  16 Teeth
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_01_09__16_teeth
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :envelope: :fountain: :rat:
 * md5_6_alpha: 5f2hj
 * md5_6: 8adf57
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205f2hj)
+[2x1](http://192.168.1.242:1112/?label=oomp%205f2hj)
+[6x4](http://192.168.1.55:1112/?label=oomp%205f2hj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ upset |
 | id_no_color | 010916teeth |  
 | id_no_size | 01_09__16_teeth |  
 | id_no_type | pulley_gt2_01_09__16_teeth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205f2hj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205f2hj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205f2hj |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ upset |
 | name_no_size | 01 09  16 Teeth |  
 | name_no_size_short | 01 09  16 Teeth |  
 | name_no_type | Pulley Gt2 01 09  16 Teeth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_01_09__16_teeth |  
 | oomp_word | envelope fountain rat |  
 | oomp_word_emoji | :envelope: :fountain: :rat: |  

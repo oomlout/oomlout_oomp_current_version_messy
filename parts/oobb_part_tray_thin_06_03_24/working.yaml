@@ -1,3 +1,223 @@
+bip_39_word_dash_1: soccer
+bip_39_word_dash_10: soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool
+bip_39_word_dash_11: soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool-burden
+bip_39_word_dash_12: soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster-cool-burden-angle
+bip_39_word_dash_2: soccer-laptop
+bip_39_word_dash_3: soccer-laptop-tennis
+bip_39_word_dash_4: soccer-laptop-tennis-cream
+bip_39_word_dash_5: soccer-laptop-tennis-cream-gaze
+bip_39_word_dash_6: soccer-laptop-tennis-cream-gaze-pattern
+bip_39_word_dash_7: soccer-laptop-tennis-cream-gaze-pattern-because
+bip_39_word_dash_8: soccer-laptop-tennis-cream-gaze-pattern-because-enact
+bip_39_word_dash_9: soccer-laptop-tennis-cream-gaze-pattern-because-enact-foster
+bip_39_word_new_br_1: soccer
+bip_39_word_new_br_10: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool
+bip_39_word_new_br_11: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden
+bip_39_word_new_br_12: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster<br>cool<br>burden<br>angle
+bip_39_word_new_br_2: soccer<br>laptop
+bip_39_word_new_br_3: soccer<br>laptop<br>tennis
+bip_39_word_new_br_4: soccer<br>laptop<br>tennis<br>cream
+bip_39_word_new_br_5: soccer<br>laptop<br>tennis<br>cream<br>gaze
+bip_39_word_new_br_6: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern
+bip_39_word_new_br_7: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because
+bip_39_word_new_br_8: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact
+bip_39_word_new_br_9: soccer<br>laptop<br>tennis<br>cream<br>gaze<br>pattern<br>because<br>enact<br>foster
+bip_39_word_new_line_1: soccer
+bip_39_word_new_line_10: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because
+
+  enact
+
+  foster
+
+  cool'
+bip_39_word_new_line_11: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because
+
+  enact
+
+  foster
+
+  cool
+
+  burden'
+bip_39_word_new_line_12: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because
+
+  enact
+
+  foster
+
+  cool
+
+  burden
+
+  angle'
+bip_39_word_new_line_2: 'soccer
+
+  laptop'
+bip_39_word_new_line_3: 'soccer
+
+  laptop
+
+  tennis'
+bip_39_word_new_line_4: 'soccer
+
+  laptop
+
+  tennis
+
+  cream'
+bip_39_word_new_line_5: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze'
+bip_39_word_new_line_6: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern'
+bip_39_word_new_line_7: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because'
+bip_39_word_new_line_8: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because
+
+  enact'
+bip_39_word_new_line_9: 'soccer
+
+  laptop
+
+  tennis
+
+  cream
+
+  gaze
+
+  pattern
+
+  because
+
+  enact
+
+  foster'
+bip_39_word_no_space_1: soccer
+bip_39_word_no_space_10: soccerlaptoptenniscreamgazepatternbecauseenactfostercool
+bip_39_word_no_space_11: soccerlaptoptenniscreamgazepatternbecauseenactfostercoolburden
+bip_39_word_no_space_12: soccerlaptoptenniscreamgazepatternbecauseenactfostercoolburdenangle
+bip_39_word_no_space_2: soccerlaptop
+bip_39_word_no_space_3: soccerlaptoptennis
+bip_39_word_no_space_4: soccerlaptoptenniscream
+bip_39_word_no_space_5: soccerlaptoptenniscreamgaze
+bip_39_word_no_space_6: soccerlaptoptenniscreamgazepattern
+bip_39_word_no_space_7: soccerlaptoptenniscreamgazepatternbecause
+bip_39_word_no_space_8: soccerlaptoptenniscreamgazepatternbecauseenact
+bip_39_word_no_space_9: soccerlaptoptenniscreamgazepatternbecauseenactfoster
+bip_39_word_space_0:
+- soccer
+- laptop
+- tennis
+- cream
+- gaze
+- pattern
+- because
+- enact
+- foster
+- cool
+- burden
+- angle
+bip_39_word_space_1: soccer
+bip_39_word_space_10: soccer laptop tennis cream gaze pattern because enact foster
+  cool
+bip_39_word_space_11: soccer laptop tennis cream gaze pattern because enact foster
+  cool burden
+bip_39_word_space_12: soccer laptop tennis cream gaze pattern because enact foster
+  cool burden angle
+bip_39_word_space_2: soccer laptop
+bip_39_word_space_3: soccer laptop tennis
+bip_39_word_space_4: soccer laptop tennis cream
+bip_39_word_space_5: soccer laptop tennis cream gaze
+bip_39_word_space_6: soccer laptop tennis cream gaze pattern
+bip_39_word_space_7: soccer laptop tennis cream gaze pattern because
+bip_39_word_space_8: soccer laptop tennis cream gaze pattern because enact
+bip_39_word_space_9: soccer laptop tennis cream gaze pattern because enact foster
+bip_39_word_underscore_1: soccer
+bip_39_word_underscore_10: soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool
+bip_39_word_underscore_11: soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool_burden
+bip_39_word_underscore_12: soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster_cool_burden_angle
+bip_39_word_underscore_2: soccer_laptop
+bip_39_word_underscore_3: soccer_laptop_tennis
+bip_39_word_underscore_4: soccer_laptop_tennis_cream
+bip_39_word_underscore_5: soccer_laptop_tennis_cream_gaze
+bip_39_word_underscore_6: soccer_laptop_tennis_cream_gaze_pattern
+bip_39_word_underscore_7: soccer_laptop_tennis_cream_gaze_pattern_because
+bip_39_word_underscore_8: soccer_laptop_tennis_cream_gaze_pattern_because_enact
+bip_39_word_underscore_9: soccer_laptop_tennis_cream_gaze_pattern_because_enact_foster
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_06_03_24
 id_no_color: '060324'
 id_no_size: '06_03_24'
 id_no_type: tray_thin_06_03_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_03_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_03_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_03_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205gzkb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205gzkb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205gzkb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '060324'
 name_no_size: 06 03 24
 name_no_size_short: 06 03 24
 name_no_type: Tray Thin 06 03 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_03_24
 oomp_word: pill cow sunglasses
 oomp_word_emoji: ':pill: :cow: :sunglasses:'

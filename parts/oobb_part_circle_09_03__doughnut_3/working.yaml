@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fringe
+bip_39_word_dash_10: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine
+bip_39_word_dash_11: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine-blast
+bip_39_word_dash_12: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold-wine-blast-asset
+bip_39_word_dash_2: fringe-cattle
+bip_39_word_dash_3: fringe-cattle-hobby
+bip_39_word_dash_4: fringe-cattle-hobby-slim
+bip_39_word_dash_5: fringe-cattle-hobby-slim-amazing
+bip_39_word_dash_6: fringe-cattle-hobby-slim-amazing-dawn
+bip_39_word_dash_7: fringe-cattle-hobby-slim-amazing-dawn-process
+bip_39_word_dash_8: fringe-cattle-hobby-slim-amazing-dawn-process-cheese
+bip_39_word_dash_9: fringe-cattle-hobby-slim-amazing-dawn-process-cheese-uphold
+bip_39_word_new_br_1: fringe
+bip_39_word_new_br_10: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine
+bip_39_word_new_br_11: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine<br>blast
+bip_39_word_new_br_12: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold<br>wine<br>blast<br>asset
+bip_39_word_new_br_2: fringe<br>cattle
+bip_39_word_new_br_3: fringe<br>cattle<br>hobby
+bip_39_word_new_br_4: fringe<br>cattle<br>hobby<br>slim
+bip_39_word_new_br_5: fringe<br>cattle<br>hobby<br>slim<br>amazing
+bip_39_word_new_br_6: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn
+bip_39_word_new_br_7: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process
+bip_39_word_new_br_8: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese
+bip_39_word_new_br_9: fringe<br>cattle<br>hobby<br>slim<br>amazing<br>dawn<br>process<br>cheese<br>uphold
+bip_39_word_new_line_1: fringe
+bip_39_word_new_line_10: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process
+
+  cheese
+
+  uphold
+
+  wine'
+bip_39_word_new_line_11: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process
+
+  cheese
+
+  uphold
+
+  wine
+
+  blast'
+bip_39_word_new_line_12: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process
+
+  cheese
+
+  uphold
+
+  wine
+
+  blast
+
+  asset'
+bip_39_word_new_line_2: 'fringe
+
+  cattle'
+bip_39_word_new_line_3: 'fringe
+
+  cattle
+
+  hobby'
+bip_39_word_new_line_4: 'fringe
+
+  cattle
+
+  hobby
+
+  slim'
+bip_39_word_new_line_5: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing'
+bip_39_word_new_line_6: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn'
+bip_39_word_new_line_7: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process'
+bip_39_word_new_line_8: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process
+
+  cheese'
+bip_39_word_new_line_9: 'fringe
+
+  cattle
+
+  hobby
+
+  slim
+
+  amazing
+
+  dawn
+
+  process
+
+  cheese
+
+  uphold'
+bip_39_word_no_space_1: fringe
+bip_39_word_no_space_10: fringecattlehobbyslimamazingdawnprocesscheeseupholdwine
+bip_39_word_no_space_11: fringecattlehobbyslimamazingdawnprocesscheeseupholdwineblast
+bip_39_word_no_space_12: fringecattlehobbyslimamazingdawnprocesscheeseupholdwineblastasset
+bip_39_word_no_space_2: fringecattle
+bip_39_word_no_space_3: fringecattlehobby
+bip_39_word_no_space_4: fringecattlehobbyslim
+bip_39_word_no_space_5: fringecattlehobbyslimamazing
+bip_39_word_no_space_6: fringecattlehobbyslimamazingdawn
+bip_39_word_no_space_7: fringecattlehobbyslimamazingdawnprocess
+bip_39_word_no_space_8: fringecattlehobbyslimamazingdawnprocesscheese
+bip_39_word_no_space_9: fringecattlehobbyslimamazingdawnprocesscheeseuphold
+bip_39_word_space_0:
+- fringe
+- cattle
+- hobby
+- slim
+- amazing
+- dawn
+- process
+- cheese
+- uphold
+- wine
+- blast
+- asset
+bip_39_word_space_1: fringe
+bip_39_word_space_10: fringe cattle hobby slim amazing dawn process cheese uphold
+  wine
+bip_39_word_space_11: fringe cattle hobby slim amazing dawn process cheese uphold
+  wine blast
+bip_39_word_space_12: fringe cattle hobby slim amazing dawn process cheese uphold
+  wine blast asset
+bip_39_word_space_2: fringe cattle
+bip_39_word_space_3: fringe cattle hobby
+bip_39_word_space_4: fringe cattle hobby slim
+bip_39_word_space_5: fringe cattle hobby slim amazing
+bip_39_word_space_6: fringe cattle hobby slim amazing dawn
+bip_39_word_space_7: fringe cattle hobby slim amazing dawn process
+bip_39_word_space_8: fringe cattle hobby slim amazing dawn process cheese
+bip_39_word_space_9: fringe cattle hobby slim amazing dawn process cheese uphold
+bip_39_word_underscore_1: fringe
+bip_39_word_underscore_10: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine
+bip_39_word_underscore_11: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine_blast
+bip_39_word_underscore_12: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold_wine_blast_asset
+bip_39_word_underscore_2: fringe_cattle
+bip_39_word_underscore_3: fringe_cattle_hobby
+bip_39_word_underscore_4: fringe_cattle_hobby_slim
+bip_39_word_underscore_5: fringe_cattle_hobby_slim_amazing
+bip_39_word_underscore_6: fringe_cattle_hobby_slim_amazing_dawn
+bip_39_word_underscore_7: fringe_cattle_hobby_slim_amazing_dawn_process
+bip_39_word_underscore_8: fringe_cattle_hobby_slim_amazing_dawn_process_cheese
+bip_39_word_underscore_9: fringe_cattle_hobby_slim_amazing_dawn_process_cheese_uphold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_circle_09_03__doughnut_3
 id_no_color: 0903doughnut3
 id_no_size: 09_03__doughnut_3
 id_no_type: circle_09_03__doughnut_3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_09_03__doughnut_3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_09_03__doughnut_3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_09_03__doughnut_3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ih32
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ih32
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ih32
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0903Doughnut3
 name_no_size: 09 03  Doughnut 3
 name_no_size_short: 09 03  Doughnut 3
 name_no_type: Circle 09 03  Doughnut 3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_circle_09_03__doughnut_3
 oomp_word: hotel zap recycle
 oomp_word_emoji: ':hotel: :zap: :recycle:'

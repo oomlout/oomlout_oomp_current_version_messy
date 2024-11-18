@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420675857'
+bip_39_word_dash_1: today
+bip_39_word_dash_10: today-latin-cheese-injury-match-floor-crisp-dog-stable-hold
+bip_39_word_dash_11: today-latin-cheese-injury-match-floor-crisp-dog-stable-hold-advance
+bip_39_word_dash_12: today-latin-cheese-injury-match-floor-crisp-dog-stable-hold-advance-another
+bip_39_word_dash_2: today-latin
+bip_39_word_dash_3: today-latin-cheese
+bip_39_word_dash_4: today-latin-cheese-injury
+bip_39_word_dash_5: today-latin-cheese-injury-match
+bip_39_word_dash_6: today-latin-cheese-injury-match-floor
+bip_39_word_dash_7: today-latin-cheese-injury-match-floor-crisp
+bip_39_word_dash_8: today-latin-cheese-injury-match-floor-crisp-dog
+bip_39_word_dash_9: today-latin-cheese-injury-match-floor-crisp-dog-stable
+bip_39_word_new_br_1: today
+bip_39_word_new_br_10: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold
+bip_39_word_new_br_11: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold<br>advance
+bip_39_word_new_br_12: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable<br>hold<br>advance<br>another
+bip_39_word_new_br_2: today<br>latin
+bip_39_word_new_br_3: today<br>latin<br>cheese
+bip_39_word_new_br_4: today<br>latin<br>cheese<br>injury
+bip_39_word_new_br_5: today<br>latin<br>cheese<br>injury<br>match
+bip_39_word_new_br_6: today<br>latin<br>cheese<br>injury<br>match<br>floor
+bip_39_word_new_br_7: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp
+bip_39_word_new_br_8: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog
+bip_39_word_new_br_9: today<br>latin<br>cheese<br>injury<br>match<br>floor<br>crisp<br>dog<br>stable
+bip_39_word_new_line_1: today
+bip_39_word_new_line_10: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp
+
+  dog
+
+  stable
+
+  hold'
+bip_39_word_new_line_11: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp
+
+  dog
+
+  stable
+
+  hold
+
+  advance'
+bip_39_word_new_line_12: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp
+
+  dog
+
+  stable
+
+  hold
+
+  advance
+
+  another'
+bip_39_word_new_line_2: 'today
+
+  latin'
+bip_39_word_new_line_3: 'today
+
+  latin
+
+  cheese'
+bip_39_word_new_line_4: 'today
+
+  latin
+
+  cheese
+
+  injury'
+bip_39_word_new_line_5: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match'
+bip_39_word_new_line_6: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor'
+bip_39_word_new_line_7: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp'
+bip_39_word_new_line_8: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp
+
+  dog'
+bip_39_word_new_line_9: 'today
+
+  latin
+
+  cheese
+
+  injury
+
+  match
+
+  floor
+
+  crisp
+
+  dog
+
+  stable'
+bip_39_word_no_space_1: today
+bip_39_word_no_space_10: todaylatincheeseinjurymatchfloorcrispdogstablehold
+bip_39_word_no_space_11: todaylatincheeseinjurymatchfloorcrispdogstableholdadvance
+bip_39_word_no_space_12: todaylatincheeseinjurymatchfloorcrispdogstableholdadvanceanother
+bip_39_word_no_space_2: todaylatin
+bip_39_word_no_space_3: todaylatincheese
+bip_39_word_no_space_4: todaylatincheeseinjury
+bip_39_word_no_space_5: todaylatincheeseinjurymatch
+bip_39_word_no_space_6: todaylatincheeseinjurymatchfloor
+bip_39_word_no_space_7: todaylatincheeseinjurymatchfloorcrisp
+bip_39_word_no_space_8: todaylatincheeseinjurymatchfloorcrispdog
+bip_39_word_no_space_9: todaylatincheeseinjurymatchfloorcrispdogstable
+bip_39_word_space_0:
+- today
+- latin
+- cheese
+- injury
+- match
+- floor
+- crisp
+- dog
+- stable
+- hold
+- advance
+- another
+bip_39_word_space_1: today
+bip_39_word_space_10: today latin cheese injury match floor crisp dog stable hold
+bip_39_word_space_11: today latin cheese injury match floor crisp dog stable hold
+  advance
+bip_39_word_space_12: today latin cheese injury match floor crisp dog stable hold
+  advance another
+bip_39_word_space_2: today latin
+bip_39_word_space_3: today latin cheese
+bip_39_word_space_4: today latin cheese injury
+bip_39_word_space_5: today latin cheese injury match
+bip_39_word_space_6: today latin cheese injury match floor
+bip_39_word_space_7: today latin cheese injury match floor crisp
+bip_39_word_space_8: today latin cheese injury match floor crisp dog
+bip_39_word_space_9: today latin cheese injury match floor crisp dog stable
+bip_39_word_underscore_1: today
+bip_39_word_underscore_10: today_latin_cheese_injury_match_floor_crisp_dog_stable_hold
+bip_39_word_underscore_11: today_latin_cheese_injury_match_floor_crisp_dog_stable_hold_advance
+bip_39_word_underscore_12: today_latin_cheese_injury_match_floor_crisp_dog_stable_hold_advance_another
+bip_39_word_underscore_2: today_latin
+bip_39_word_underscore_3: today_latin_cheese
+bip_39_word_underscore_4: today_latin_cheese_injury
+bip_39_word_underscore_5: today_latin_cheese_injury_match
+bip_39_word_underscore_6: today_latin_cheese_injury_match_floor
+bip_39_word_underscore_7: today_latin_cheese_injury_match_floor_crisp
+bip_39_word_underscore_8: today_latin_cheese_injury_match_floor_crisp_dog
+bip_39_word_underscore_9: today_latin_cheese_injury_match_floor_crisp_dog_stable
 box_of_box_size_manufacturer_metalmate: '2000'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -90,7 +309,22 @@ id_no_color: 45mmlength
 id_no_size: 45_mm_length
 id_no_type: m6_45_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_45_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m6_45_mm_length
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m6-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m6-x-45-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m490045
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-45-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated-
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m6_45_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205xjvf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205xjvf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205xjvf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -118,6 +352,26 @@ name_no_color: 45mmlength
 name_no_size: 45 mm Length
 name_no_size_short: 45 Mm Length
 name_no_type: M6 45 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 45 mm
+oomlout_bolt_length_no_unit: '45'
+oomlout_bolt_md5_6_alpha_first_3: 5xj
+oomlout_bolt_md5_6_alpha_first_3_upper: 5XJ
+oomlout_bolt_md5_6_alpha_last_3: vf
+oomlout_bolt_md5_6_alpha_last_3_upper: VF
+oomlout_bolt_md5_6_first_3: '980'
+oomlout_bolt_md5_6_first_3_upper: '980'
+oomlout_bolt_md5_6_last_3: 7db
+oomlout_bolt_md5_6_last_3_upper: 7DB
+oomlout_bolt_name: Set Screw M6X45 mm  (Bolt)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Set Screw
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ss6m45
+oomlout_short_code_upper: SS6M45
 oomp_id: hardware_set_screw_m6_45_mm_length
 oomp_key: oomp_hardware_set_screw_m6_45_mm_length
 oomp_word: tennis cry tent
@@ -142,12 +396,22 @@ price_1: '0.0571'
 price_100: '0.0571'
 price_1000: '0.0286'
 price_10000: '0.0254'
+price_10000_distributor_1: '0.0254'
 price_10000_distributor_orbital_fasteners: '0.0254'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0286'
 price_1000_distributor_orbital_fasteners: '0.0286'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0571'
 price_100_distributor_orbital_fasteners: '0.0571'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0571'
 price_1_distributor_orbital_fasteners: '0.0571'
+price_1_name: orbital_fasteners
 price_200: '0.0318'
+price_200_distributor_1: '0.0318'
 price_200_distributor_orbital_fasteners: '0.0318'
+price_200_name: orbital_fasteners
 price_current: '0.0318'
 quantity_current: '200'
 short_code: ss645

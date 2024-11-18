@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lamp
+bip_39_word_dash_10: lamp-diesel-rose-sibling-strong-robust-satisfy-oppose-spin-champion
+bip_39_word_dash_11: lamp-diesel-rose-sibling-strong-robust-satisfy-oppose-spin-champion-law
+bip_39_word_dash_12: lamp-diesel-rose-sibling-strong-robust-satisfy-oppose-spin-champion-law-antique
+bip_39_word_dash_2: lamp-diesel
+bip_39_word_dash_3: lamp-diesel-rose
+bip_39_word_dash_4: lamp-diesel-rose-sibling
+bip_39_word_dash_5: lamp-diesel-rose-sibling-strong
+bip_39_word_dash_6: lamp-diesel-rose-sibling-strong-robust
+bip_39_word_dash_7: lamp-diesel-rose-sibling-strong-robust-satisfy
+bip_39_word_dash_8: lamp-diesel-rose-sibling-strong-robust-satisfy-oppose
+bip_39_word_dash_9: lamp-diesel-rose-sibling-strong-robust-satisfy-oppose-spin
+bip_39_word_new_br_1: lamp
+bip_39_word_new_br_10: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion
+bip_39_word_new_br_11: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion<br>law
+bip_39_word_new_br_12: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin<br>champion<br>law<br>antique
+bip_39_word_new_br_2: lamp<br>diesel
+bip_39_word_new_br_3: lamp<br>diesel<br>rose
+bip_39_word_new_br_4: lamp<br>diesel<br>rose<br>sibling
+bip_39_word_new_br_5: lamp<br>diesel<br>rose<br>sibling<br>strong
+bip_39_word_new_br_6: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust
+bip_39_word_new_br_7: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy
+bip_39_word_new_br_8: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose
+bip_39_word_new_br_9: lamp<br>diesel<br>rose<br>sibling<br>strong<br>robust<br>satisfy<br>oppose<br>spin
+bip_39_word_new_line_1: lamp
+bip_39_word_new_line_10: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy
+
+  oppose
+
+  spin
+
+  champion'
+bip_39_word_new_line_11: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy
+
+  oppose
+
+  spin
+
+  champion
+
+  law'
+bip_39_word_new_line_12: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy
+
+  oppose
+
+  spin
+
+  champion
+
+  law
+
+  antique'
+bip_39_word_new_line_2: 'lamp
+
+  diesel'
+bip_39_word_new_line_3: 'lamp
+
+  diesel
+
+  rose'
+bip_39_word_new_line_4: 'lamp
+
+  diesel
+
+  rose
+
+  sibling'
+bip_39_word_new_line_5: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong'
+bip_39_word_new_line_6: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust'
+bip_39_word_new_line_7: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy'
+bip_39_word_new_line_8: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy
+
+  oppose'
+bip_39_word_new_line_9: 'lamp
+
+  diesel
+
+  rose
+
+  sibling
+
+  strong
+
+  robust
+
+  satisfy
+
+  oppose
+
+  spin'
+bip_39_word_no_space_1: lamp
+bip_39_word_no_space_10: lampdieselrosesiblingstrongrobustsatisfyopposespinchampion
+bip_39_word_no_space_11: lampdieselrosesiblingstrongrobustsatisfyopposespinchampionlaw
+bip_39_word_no_space_12: lampdieselrosesiblingstrongrobustsatisfyopposespinchampionlawantique
+bip_39_word_no_space_2: lampdiesel
+bip_39_word_no_space_3: lampdieselrose
+bip_39_word_no_space_4: lampdieselrosesibling
+bip_39_word_no_space_5: lampdieselrosesiblingstrong
+bip_39_word_no_space_6: lampdieselrosesiblingstrongrobust
+bip_39_word_no_space_7: lampdieselrosesiblingstrongrobustsatisfy
+bip_39_word_no_space_8: lampdieselrosesiblingstrongrobustsatisfyoppose
+bip_39_word_no_space_9: lampdieselrosesiblingstrongrobustsatisfyopposespin
+bip_39_word_space_0:
+- lamp
+- diesel
+- rose
+- sibling
+- strong
+- robust
+- satisfy
+- oppose
+- spin
+- champion
+- law
+- antique
+bip_39_word_space_1: lamp
+bip_39_word_space_10: lamp diesel rose sibling strong robust satisfy oppose spin champion
+bip_39_word_space_11: lamp diesel rose sibling strong robust satisfy oppose spin champion
+  law
+bip_39_word_space_12: lamp diesel rose sibling strong robust satisfy oppose spin champion
+  law antique
+bip_39_word_space_2: lamp diesel
+bip_39_word_space_3: lamp diesel rose
+bip_39_word_space_4: lamp diesel rose sibling
+bip_39_word_space_5: lamp diesel rose sibling strong
+bip_39_word_space_6: lamp diesel rose sibling strong robust
+bip_39_word_space_7: lamp diesel rose sibling strong robust satisfy
+bip_39_word_space_8: lamp diesel rose sibling strong robust satisfy oppose
+bip_39_word_space_9: lamp diesel rose sibling strong robust satisfy oppose spin
+bip_39_word_underscore_1: lamp
+bip_39_word_underscore_10: lamp_diesel_rose_sibling_strong_robust_satisfy_oppose_spin_champion
+bip_39_word_underscore_11: lamp_diesel_rose_sibling_strong_robust_satisfy_oppose_spin_champion_law
+bip_39_word_underscore_12: lamp_diesel_rose_sibling_strong_robust_satisfy_oppose_spin_champion_law_antique
+bip_39_word_underscore_2: lamp_diesel
+bip_39_word_underscore_3: lamp_diesel_rose
+bip_39_word_underscore_4: lamp_diesel_rose_sibling
+bip_39_word_underscore_5: lamp_diesel_rose_sibling_strong
+bip_39_word_underscore_6: lamp_diesel_rose_sibling_strong_robust
+bip_39_word_underscore_7: lamp_diesel_rose_sibling_strong_robust_satisfy
+bip_39_word_underscore_8: lamp_diesel_rose_sibling_strong_robust_satisfy_oppose
+bip_39_word_underscore_9: lamp_diesel_rose_sibling_strong_robust_satisfy_oppose_spin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_02_60
 id_no_color: 090260
 id_no_size: 09_02_60
 id_no_type: tray_thin_09_02_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_02_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2067bgp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2067bgp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2067bgp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090260
 name_no_size: 09 02 60
 name_no_size_short: 09 02 60
 name_no_type: Tray Thin 09 02 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_02_60
 oomp_word: clubs ok lemon
 oomp_word_emoji: ':clubs: :ok: :lemon:'

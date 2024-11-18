@@ -1,3 +1,222 @@
+bip_39_word_dash_1: battle
+bip_39_word_dash_10: battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon
+bip_39_word_dash_11: battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon-license
+bip_39_word_dash_12: battle-craft-duck-theory-bicycle-joy-horn-decline-soda-cinnamon-license-alter
+bip_39_word_dash_2: battle-craft
+bip_39_word_dash_3: battle-craft-duck
+bip_39_word_dash_4: battle-craft-duck-theory
+bip_39_word_dash_5: battle-craft-duck-theory-bicycle
+bip_39_word_dash_6: battle-craft-duck-theory-bicycle-joy
+bip_39_word_dash_7: battle-craft-duck-theory-bicycle-joy-horn
+bip_39_word_dash_8: battle-craft-duck-theory-bicycle-joy-horn-decline
+bip_39_word_dash_9: battle-craft-duck-theory-bicycle-joy-horn-decline-soda
+bip_39_word_new_br_1: battle
+bip_39_word_new_br_10: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon
+bip_39_word_new_br_11: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon<br>license
+bip_39_word_new_br_12: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda<br>cinnamon<br>license<br>alter
+bip_39_word_new_br_2: battle<br>craft
+bip_39_word_new_br_3: battle<br>craft<br>duck
+bip_39_word_new_br_4: battle<br>craft<br>duck<br>theory
+bip_39_word_new_br_5: battle<br>craft<br>duck<br>theory<br>bicycle
+bip_39_word_new_br_6: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy
+bip_39_word_new_br_7: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn
+bip_39_word_new_br_8: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline
+bip_39_word_new_br_9: battle<br>craft<br>duck<br>theory<br>bicycle<br>joy<br>horn<br>decline<br>soda
+bip_39_word_new_line_1: battle
+bip_39_word_new_line_10: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn
+
+  decline
+
+  soda
+
+  cinnamon'
+bip_39_word_new_line_11: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn
+
+  decline
+
+  soda
+
+  cinnamon
+
+  license'
+bip_39_word_new_line_12: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn
+
+  decline
+
+  soda
+
+  cinnamon
+
+  license
+
+  alter'
+bip_39_word_new_line_2: 'battle
+
+  craft'
+bip_39_word_new_line_3: 'battle
+
+  craft
+
+  duck'
+bip_39_word_new_line_4: 'battle
+
+  craft
+
+  duck
+
+  theory'
+bip_39_word_new_line_5: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle'
+bip_39_word_new_line_6: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy'
+bip_39_word_new_line_7: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn'
+bip_39_word_new_line_8: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn
+
+  decline'
+bip_39_word_new_line_9: 'battle
+
+  craft
+
+  duck
+
+  theory
+
+  bicycle
+
+  joy
+
+  horn
+
+  decline
+
+  soda'
+bip_39_word_no_space_1: battle
+bip_39_word_no_space_10: battlecraftducktheorybicyclejoyhorndeclinesodacinnamon
+bip_39_word_no_space_11: battlecraftducktheorybicyclejoyhorndeclinesodacinnamonlicense
+bip_39_word_no_space_12: battlecraftducktheorybicyclejoyhorndeclinesodacinnamonlicensealter
+bip_39_word_no_space_2: battlecraft
+bip_39_word_no_space_3: battlecraftduck
+bip_39_word_no_space_4: battlecraftducktheory
+bip_39_word_no_space_5: battlecraftducktheorybicycle
+bip_39_word_no_space_6: battlecraftducktheorybicyclejoy
+bip_39_word_no_space_7: battlecraftducktheorybicyclejoyhorn
+bip_39_word_no_space_8: battlecraftducktheorybicyclejoyhorndecline
+bip_39_word_no_space_9: battlecraftducktheorybicyclejoyhorndeclinesoda
+bip_39_word_space_0:
+- battle
+- craft
+- duck
+- theory
+- bicycle
+- joy
+- horn
+- decline
+- soda
+- cinnamon
+- license
+- alter
+bip_39_word_space_1: battle
+bip_39_word_space_10: battle craft duck theory bicycle joy horn decline soda cinnamon
+bip_39_word_space_11: battle craft duck theory bicycle joy horn decline soda cinnamon
+  license
+bip_39_word_space_12: battle craft duck theory bicycle joy horn decline soda cinnamon
+  license alter
+bip_39_word_space_2: battle craft
+bip_39_word_space_3: battle craft duck
+bip_39_word_space_4: battle craft duck theory
+bip_39_word_space_5: battle craft duck theory bicycle
+bip_39_word_space_6: battle craft duck theory bicycle joy
+bip_39_word_space_7: battle craft duck theory bicycle joy horn
+bip_39_word_space_8: battle craft duck theory bicycle joy horn decline
+bip_39_word_space_9: battle craft duck theory bicycle joy horn decline soda
+bip_39_word_underscore_1: battle
+bip_39_word_underscore_10: battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon
+bip_39_word_underscore_11: battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon_license
+bip_39_word_underscore_12: battle_craft_duck_theory_bicycle_joy_horn_decline_soda_cinnamon_license_alter
+bip_39_word_underscore_2: battle_craft
+bip_39_word_underscore_3: battle_craft_duck
+bip_39_word_underscore_4: battle_craft_duck_theory
+bip_39_word_underscore_5: battle_craft_duck_theory_bicycle
+bip_39_word_underscore_6: battle_craft_duck_theory_bicycle_joy
+bip_39_word_underscore_7: battle_craft_duck_theory_bicycle_joy_horn
+bip_39_word_underscore_8: battle_craft_duck_theory_bicycle_joy_horn_decline
+bip_39_word_underscore_9: battle_craft_duck_theory_bicycle_joy_horn_decline_soda
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
 id_no_color: 40_mm_id_68_mm_od_15_mm_depth
 id_no_size: 6008_size_40_mm_id_68_mm_od_15_mm_depth
 id_no_type: 6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204n616
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204n616
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204n616
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 40 mm ID 68 mm OD 15 mm Depth
 name_no_size: 6008 Size 40 mm ID 68 mm OD 15 mm Depth
 name_no_size_short: 6008 Size 40 Mm Id 68 Mm Od 15 Mm Depth
 name_no_type: 6000 Series 6008 Size 40 mm ID 68 mm OD 15 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6008
+oomlout_short_code_upper: BR6008
 oomp_key: oomp_hardware_bearing_6000_series_6008_size_40_mm_id_68_mm_od_15_mm_depth
 oomp_word: gift blush chicken
 oomp_word_emoji: ':gift: :blush: :chicken:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: blind
+bip_39_word_dash_10: blind-obtain-pizza-service-else-rug-switch-swamp-long-license
+bip_39_word_dash_11: blind-obtain-pizza-service-else-rug-switch-swamp-long-license-blur
+bip_39_word_dash_12: blind-obtain-pizza-service-else-rug-switch-swamp-long-license-blur-antenna
+bip_39_word_dash_2: blind-obtain
+bip_39_word_dash_3: blind-obtain-pizza
+bip_39_word_dash_4: blind-obtain-pizza-service
+bip_39_word_dash_5: blind-obtain-pizza-service-else
+bip_39_word_dash_6: blind-obtain-pizza-service-else-rug
+bip_39_word_dash_7: blind-obtain-pizza-service-else-rug-switch
+bip_39_word_dash_8: blind-obtain-pizza-service-else-rug-switch-swamp
+bip_39_word_dash_9: blind-obtain-pizza-service-else-rug-switch-swamp-long
+bip_39_word_new_br_1: blind
+bip_39_word_new_br_10: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license
+bip_39_word_new_br_11: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur
+bip_39_word_new_br_12: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long<br>license<br>blur<br>antenna
+bip_39_word_new_br_2: blind<br>obtain
+bip_39_word_new_br_3: blind<br>obtain<br>pizza
+bip_39_word_new_br_4: blind<br>obtain<br>pizza<br>service
+bip_39_word_new_br_5: blind<br>obtain<br>pizza<br>service<br>else
+bip_39_word_new_br_6: blind<br>obtain<br>pizza<br>service<br>else<br>rug
+bip_39_word_new_br_7: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch
+bip_39_word_new_br_8: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp
+bip_39_word_new_br_9: blind<br>obtain<br>pizza<br>service<br>else<br>rug<br>switch<br>swamp<br>long
+bip_39_word_new_line_1: blind
+bip_39_word_new_line_10: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch
+
+  swamp
+
+  long
+
+  license'
+bip_39_word_new_line_11: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch
+
+  swamp
+
+  long
+
+  license
+
+  blur'
+bip_39_word_new_line_12: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch
+
+  swamp
+
+  long
+
+  license
+
+  blur
+
+  antenna'
+bip_39_word_new_line_2: 'blind
+
+  obtain'
+bip_39_word_new_line_3: 'blind
+
+  obtain
+
+  pizza'
+bip_39_word_new_line_4: 'blind
+
+  obtain
+
+  pizza
+
+  service'
+bip_39_word_new_line_5: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else'
+bip_39_word_new_line_6: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug'
+bip_39_word_new_line_7: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch'
+bip_39_word_new_line_8: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch
+
+  swamp'
+bip_39_word_new_line_9: 'blind
+
+  obtain
+
+  pizza
+
+  service
+
+  else
+
+  rug
+
+  switch
+
+  swamp
+
+  long'
+bip_39_word_no_space_1: blind
+bip_39_word_no_space_10: blindobtainpizzaserviceelserugswitchswamplonglicense
+bip_39_word_no_space_11: blindobtainpizzaserviceelserugswitchswamplonglicenseblur
+bip_39_word_no_space_12: blindobtainpizzaserviceelserugswitchswamplonglicenseblurantenna
+bip_39_word_no_space_2: blindobtain
+bip_39_word_no_space_3: blindobtainpizza
+bip_39_word_no_space_4: blindobtainpizzaservice
+bip_39_word_no_space_5: blindobtainpizzaserviceelse
+bip_39_word_no_space_6: blindobtainpizzaserviceelserug
+bip_39_word_no_space_7: blindobtainpizzaserviceelserugswitch
+bip_39_word_no_space_8: blindobtainpizzaserviceelserugswitchswamp
+bip_39_word_no_space_9: blindobtainpizzaserviceelserugswitchswamplong
+bip_39_word_space_0:
+- blind
+- obtain
+- pizza
+- service
+- else
+- rug
+- switch
+- swamp
+- long
+- license
+- blur
+- antenna
+bip_39_word_space_1: blind
+bip_39_word_space_10: blind obtain pizza service else rug switch swamp long license
+bip_39_word_space_11: blind obtain pizza service else rug switch swamp long license
+  blur
+bip_39_word_space_12: blind obtain pizza service else rug switch swamp long license
+  blur antenna
+bip_39_word_space_2: blind obtain
+bip_39_word_space_3: blind obtain pizza
+bip_39_word_space_4: blind obtain pizza service
+bip_39_word_space_5: blind obtain pizza service else
+bip_39_word_space_6: blind obtain pizza service else rug
+bip_39_word_space_7: blind obtain pizza service else rug switch
+bip_39_word_space_8: blind obtain pizza service else rug switch swamp
+bip_39_word_space_9: blind obtain pizza service else rug switch swamp long
+bip_39_word_underscore_1: blind
+bip_39_word_underscore_10: blind_obtain_pizza_service_else_rug_switch_swamp_long_license
+bip_39_word_underscore_11: blind_obtain_pizza_service_else_rug_switch_swamp_long_license_blur
+bip_39_word_underscore_12: blind_obtain_pizza_service_else_rug_switch_swamp_long_license_blur_antenna
+bip_39_word_underscore_2: blind_obtain
+bip_39_word_underscore_3: blind_obtain_pizza
+bip_39_word_underscore_4: blind_obtain_pizza_service
+bip_39_word_underscore_5: blind_obtain_pizza_service_else
+bip_39_word_underscore_6: blind_obtain_pizza_service_else_rug
+bip_39_word_underscore_7: blind_obtain_pizza_service_else_rug_switch
+bip_39_word_underscore_8: blind_obtain_pizza_service_else_rug_switch_swamp
+bip_39_word_underscore_9: blind_obtain_pizza_service_else_rug_switch_swamp_long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_12_90
 id_no_color: '131290'
 id_no_size: '13_12_90'
 id_no_type: tray_thin_13_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2063e8w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2063e8w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2063e8w
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '131290'
 name_no_size: 13 12 90
 name_no_size_short: 13 12 90
 name_no_type: Tray Thin 13 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_12_90
 oomp_word: spades foggy ship
 oomp_word_emoji: ':spades: :foggy: :ship:'

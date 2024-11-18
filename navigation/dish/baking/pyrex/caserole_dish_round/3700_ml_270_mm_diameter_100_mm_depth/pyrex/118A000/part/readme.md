@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Caserole Dish Round 3700 Ml 270 mm Diameter 100 mm Depth Pyrex 118A000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ambulance: :bamboo: :snowflake:
 * md5_6_alpha: 9axik
 * md5_6: ee712c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209axik)
+[2x1](http://192.168.1.242:1112/?label=oomp%209axik)
+[6x4](http://192.168.1.55:1112/?label=oomp%209axik)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,8 +307,15 @@ neutral |
 | id_no_color | caseroleround3700ml270mmdiameter100mmdepth118A000 |  
 | id_no_size | caserole_round_3700_ml_270_mm_diameter_100_mm_depth_118A000 |  
 | id_no_type | pyrex_caserole_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
+| link_2_name | github_link |  
 | link_distributor_pyrex | https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=39702806560803 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209axik |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209axik |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209axik |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
 | manufacturer_first_letter | p |  
@@ -331,6 +364,7 @@ neutral |
 | name_no_size | Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth 118A000 |  
 | name_no_size_short | Caserole Round 3700 Ml 270 Mm Diameter 100 Mm Depth 118A000 |  
 | name_no_type | Pyrex Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth Pyrex 118A000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
 | oomp_word | ambulance bamboo snowflake |  
 | oomp_word_emoji | :ambulance: :bamboo: :snowflake: |  

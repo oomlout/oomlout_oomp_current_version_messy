@@ -1,3 +1,222 @@
+bip_39_word_dash_1: never
+bip_39_word_dash_10: never-width-later-neither-brain-junior-best-region-letter-cable
+bip_39_word_dash_11: never-width-later-neither-brain-junior-best-region-letter-cable-dignity
+bip_39_word_dash_12: never-width-later-neither-brain-junior-best-region-letter-cable-dignity-adjust
+bip_39_word_dash_2: never-width
+bip_39_word_dash_3: never-width-later
+bip_39_word_dash_4: never-width-later-neither
+bip_39_word_dash_5: never-width-later-neither-brain
+bip_39_word_dash_6: never-width-later-neither-brain-junior
+bip_39_word_dash_7: never-width-later-neither-brain-junior-best
+bip_39_word_dash_8: never-width-later-neither-brain-junior-best-region
+bip_39_word_dash_9: never-width-later-neither-brain-junior-best-region-letter
+bip_39_word_new_br_1: never
+bip_39_word_new_br_10: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable
+bip_39_word_new_br_11: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity
+bip_39_word_new_br_12: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter<br>cable<br>dignity<br>adjust
+bip_39_word_new_br_2: never<br>width
+bip_39_word_new_br_3: never<br>width<br>later
+bip_39_word_new_br_4: never<br>width<br>later<br>neither
+bip_39_word_new_br_5: never<br>width<br>later<br>neither<br>brain
+bip_39_word_new_br_6: never<br>width<br>later<br>neither<br>brain<br>junior
+bip_39_word_new_br_7: never<br>width<br>later<br>neither<br>brain<br>junior<br>best
+bip_39_word_new_br_8: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region
+bip_39_word_new_br_9: never<br>width<br>later<br>neither<br>brain<br>junior<br>best<br>region<br>letter
+bip_39_word_new_line_1: never
+bip_39_word_new_line_10: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable'
+bip_39_word_new_line_11: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable
+
+  dignity'
+bip_39_word_new_line_12: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter
+
+  cable
+
+  dignity
+
+  adjust'
+bip_39_word_new_line_2: 'never
+
+  width'
+bip_39_word_new_line_3: 'never
+
+  width
+
+  later'
+bip_39_word_new_line_4: 'never
+
+  width
+
+  later
+
+  neither'
+bip_39_word_new_line_5: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain'
+bip_39_word_new_line_6: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior'
+bip_39_word_new_line_7: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best'
+bip_39_word_new_line_8: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region'
+bip_39_word_new_line_9: 'never
+
+  width
+
+  later
+
+  neither
+
+  brain
+
+  junior
+
+  best
+
+  region
+
+  letter'
+bip_39_word_no_space_1: never
+bip_39_word_no_space_10: neverwidthlaterneitherbrainjuniorbestregionlettercable
+bip_39_word_no_space_11: neverwidthlaterneitherbrainjuniorbestregionlettercabledignity
+bip_39_word_no_space_12: neverwidthlaterneitherbrainjuniorbestregionlettercabledignityadjust
+bip_39_word_no_space_2: neverwidth
+bip_39_word_no_space_3: neverwidthlater
+bip_39_word_no_space_4: neverwidthlaterneither
+bip_39_word_no_space_5: neverwidthlaterneitherbrain
+bip_39_word_no_space_6: neverwidthlaterneitherbrainjunior
+bip_39_word_no_space_7: neverwidthlaterneitherbrainjuniorbest
+bip_39_word_no_space_8: neverwidthlaterneitherbrainjuniorbestregion
+bip_39_word_no_space_9: neverwidthlaterneitherbrainjuniorbestregionletter
+bip_39_word_space_0:
+- never
+- width
+- later
+- neither
+- brain
+- junior
+- best
+- region
+- letter
+- cable
+- dignity
+- adjust
+bip_39_word_space_1: never
+bip_39_word_space_10: never width later neither brain junior best region letter cable
+bip_39_word_space_11: never width later neither brain junior best region letter cable
+  dignity
+bip_39_word_space_12: never width later neither brain junior best region letter cable
+  dignity adjust
+bip_39_word_space_2: never width
+bip_39_word_space_3: never width later
+bip_39_word_space_4: never width later neither
+bip_39_word_space_5: never width later neither brain
+bip_39_word_space_6: never width later neither brain junior
+bip_39_word_space_7: never width later neither brain junior best
+bip_39_word_space_8: never width later neither brain junior best region
+bip_39_word_space_9: never width later neither brain junior best region letter
+bip_39_word_underscore_1: never
+bip_39_word_underscore_10: never_width_later_neither_brain_junior_best_region_letter_cable
+bip_39_word_underscore_11: never_width_later_neither_brain_junior_best_region_letter_cable_dignity
+bip_39_word_underscore_12: never_width_later_neither_brain_junior_best_region_letter_cable_dignity_adjust
+bip_39_word_underscore_2: never_width
+bip_39_word_underscore_3: never_width_later
+bip_39_word_underscore_4: never_width_later_neither
+bip_39_word_underscore_5: never_width_later_neither_brain
+bip_39_word_underscore_6: never_width_later_neither_brain_junior
+bip_39_word_underscore_7: never_width_later_neither_brain_junior_best
+bip_39_word_underscore_8: never_width_later_neither_brain_junior_best_region
+bip_39_word_underscore_9: never_width_later_neither_brain_junior_best_region_letter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_12_01_03
 id_no_color: '120103'
 id_no_size: '12_01_03'
 id_no_type: plate_12_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_12_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_12_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_12_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2027cav
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2027cav
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2027cav
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120103'
 name_no_size: 12 01 03
 name_no_size_short: 12 01 03
 name_no_type: Plate 12 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_12_01_03
 oomp_word: frog tv cry
 oomp_word_emoji: ':frog: :tv: :cry:'

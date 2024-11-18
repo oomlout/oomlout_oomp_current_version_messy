@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pattern
+bip_39_word_dash_10: pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution
+bip_39_word_dash_11: pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution-scorpion
+bip_39_word_dash_12: pattern-very-include-sing-sick-suffer-put-captain-kiwi-caution-scorpion-appear
+bip_39_word_dash_2: pattern-very
+bip_39_word_dash_3: pattern-very-include
+bip_39_word_dash_4: pattern-very-include-sing
+bip_39_word_dash_5: pattern-very-include-sing-sick
+bip_39_word_dash_6: pattern-very-include-sing-sick-suffer
+bip_39_word_dash_7: pattern-very-include-sing-sick-suffer-put
+bip_39_word_dash_8: pattern-very-include-sing-sick-suffer-put-captain
+bip_39_word_dash_9: pattern-very-include-sing-sick-suffer-put-captain-kiwi
+bip_39_word_new_br_1: pattern
+bip_39_word_new_br_10: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution
+bip_39_word_new_br_11: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion
+bip_39_word_new_br_12: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi<br>caution<br>scorpion<br>appear
+bip_39_word_new_br_2: pattern<br>very
+bip_39_word_new_br_3: pattern<br>very<br>include
+bip_39_word_new_br_4: pattern<br>very<br>include<br>sing
+bip_39_word_new_br_5: pattern<br>very<br>include<br>sing<br>sick
+bip_39_word_new_br_6: pattern<br>very<br>include<br>sing<br>sick<br>suffer
+bip_39_word_new_br_7: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put
+bip_39_word_new_br_8: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain
+bip_39_word_new_br_9: pattern<br>very<br>include<br>sing<br>sick<br>suffer<br>put<br>captain<br>kiwi
+bip_39_word_new_line_1: pattern
+bip_39_word_new_line_10: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put
+
+  captain
+
+  kiwi
+
+  caution'
+bip_39_word_new_line_11: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put
+
+  captain
+
+  kiwi
+
+  caution
+
+  scorpion'
+bip_39_word_new_line_12: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put
+
+  captain
+
+  kiwi
+
+  caution
+
+  scorpion
+
+  appear'
+bip_39_word_new_line_2: 'pattern
+
+  very'
+bip_39_word_new_line_3: 'pattern
+
+  very
+
+  include'
+bip_39_word_new_line_4: 'pattern
+
+  very
+
+  include
+
+  sing'
+bip_39_word_new_line_5: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick'
+bip_39_word_new_line_6: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer'
+bip_39_word_new_line_7: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put'
+bip_39_word_new_line_8: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put
+
+  captain'
+bip_39_word_new_line_9: 'pattern
+
+  very
+
+  include
+
+  sing
+
+  sick
+
+  suffer
+
+  put
+
+  captain
+
+  kiwi'
+bip_39_word_no_space_1: pattern
+bip_39_word_no_space_10: patternveryincludesingsicksufferputcaptainkiwicaution
+bip_39_word_no_space_11: patternveryincludesingsicksufferputcaptainkiwicautionscorpion
+bip_39_word_no_space_12: patternveryincludesingsicksufferputcaptainkiwicautionscorpionappear
+bip_39_word_no_space_2: patternvery
+bip_39_word_no_space_3: patternveryinclude
+bip_39_word_no_space_4: patternveryincludesing
+bip_39_word_no_space_5: patternveryincludesingsick
+bip_39_word_no_space_6: patternveryincludesingsicksuffer
+bip_39_word_no_space_7: patternveryincludesingsicksufferput
+bip_39_word_no_space_8: patternveryincludesingsicksufferputcaptain
+bip_39_word_no_space_9: patternveryincludesingsicksufferputcaptainkiwi
+bip_39_word_space_0:
+- pattern
+- very
+- include
+- sing
+- sick
+- suffer
+- put
+- captain
+- kiwi
+- caution
+- scorpion
+- appear
+bip_39_word_space_1: pattern
+bip_39_word_space_10: pattern very include sing sick suffer put captain kiwi caution
+bip_39_word_space_11: pattern very include sing sick suffer put captain kiwi caution
+  scorpion
+bip_39_word_space_12: pattern very include sing sick suffer put captain kiwi caution
+  scorpion appear
+bip_39_word_space_2: pattern very
+bip_39_word_space_3: pattern very include
+bip_39_word_space_4: pattern very include sing
+bip_39_word_space_5: pattern very include sing sick
+bip_39_word_space_6: pattern very include sing sick suffer
+bip_39_word_space_7: pattern very include sing sick suffer put
+bip_39_word_space_8: pattern very include sing sick suffer put captain
+bip_39_word_space_9: pattern very include sing sick suffer put captain kiwi
+bip_39_word_underscore_1: pattern
+bip_39_word_underscore_10: pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution
+bip_39_word_underscore_11: pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution_scorpion
+bip_39_word_underscore_12: pattern_very_include_sing_sick_suffer_put_captain_kiwi_caution_scorpion_appear
+bip_39_word_underscore_2: pattern_very
+bip_39_word_underscore_3: pattern_very_include
+bip_39_word_underscore_4: pattern_very_include_sing
+bip_39_word_underscore_5: pattern_very_include_sing_sick
+bip_39_word_underscore_6: pattern_very_include_sing_sick_suffer
+bip_39_word_underscore_7: pattern_very_include_sing_sick_suffer_put
+bip_39_word_underscore_8: pattern_very_include_sing_sick_suffer_put_captain
+bip_39_word_underscore_9: pattern_very_include_sing_sick_suffer_put_captain_kiwi
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_03_01__0
 id_no_color: '03010'
 id_no_size: '03_01__0'
 id_no_type: bunting_alphabet_03_01__0
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__0
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__0
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__0
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206m3pl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206m3pl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206m3pl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '03010'
 name_no_size: 03 01  0
 name_no_size_short: 03 01  0
 name_no_type: Bunting Alphabet 03 01  0
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__0
 oomp_word: sandal radio hatching_chick
 oomp_word_emoji: ':sandal: :radio: :hatching_chick:'

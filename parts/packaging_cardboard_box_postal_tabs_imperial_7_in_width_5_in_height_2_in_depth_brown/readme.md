@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Cardboard Box Postal Tabs Imperial 7 In Width 5 In Height 2 In Depth Brown
+* name_short: 
 ### id
 * oomp_id: packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :cake: :pig: :eyes:
 * md5_6_alpha: 7m8me
 * md5_6: c33c26
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207m8me)
+[2x1](http://192.168.1.242:1112/?label=oomp%207m8me)
+[6x4](http://192.168.1.55:1112/?label=oomp%207m8me)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ bitter |
 | id_no_color | brown |  
 | id_no_size | brown |  
 | id_no_type | imperial_7_in_width_5_in_height_2_in_depth_brown |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207m8me |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207m8me |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207m8me |  
 | link_purchase | ['ebay.co.uk/itm/233048701153?var=532550738565', 'https://www.tinyboxcompany.co.uk/1-piece-a6-mailing-gift-box-kraft-natural-fmkra6'] |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -285,6 +318,7 @@ bitter |
 | name_no_size | Brown |  
 | name_no_size_short | Brown |  
 | name_no_type | Imperial 7 In Width 5 In Height 2 In Depth Brown |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown |  
 | oomp_word | cake pig eyes |  
 | oomp_word_emoji | :cake: :pig: :eyes: |  

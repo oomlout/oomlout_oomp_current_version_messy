@@ -1,3 +1,222 @@
+bip_39_word_dash_1: idea
+bip_39_word_dash_10: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut
+bip_39_word_dash_11: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut-snack
+bip_39_word_dash_12: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle-walnut-snack-alarm
+bip_39_word_dash_2: idea-broom
+bip_39_word_dash_3: idea-broom-hair
+bip_39_word_dash_4: idea-broom-hair-shrimp
+bip_39_word_dash_5: idea-broom-hair-shrimp-weasel
+bip_39_word_dash_6: idea-broom-hair-shrimp-weasel-voyage
+bip_39_word_dash_7: idea-broom-hair-shrimp-weasel-voyage-pole
+bip_39_word_dash_8: idea-broom-hair-shrimp-weasel-voyage-pole-tray
+bip_39_word_dash_9: idea-broom-hair-shrimp-weasel-voyage-pole-tray-angle
+bip_39_word_new_br_1: idea
+bip_39_word_new_br_10: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut
+bip_39_word_new_br_11: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut<br>snack
+bip_39_word_new_br_12: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle<br>walnut<br>snack<br>alarm
+bip_39_word_new_br_2: idea<br>broom
+bip_39_word_new_br_3: idea<br>broom<br>hair
+bip_39_word_new_br_4: idea<br>broom<br>hair<br>shrimp
+bip_39_word_new_br_5: idea<br>broom<br>hair<br>shrimp<br>weasel
+bip_39_word_new_br_6: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage
+bip_39_word_new_br_7: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole
+bip_39_word_new_br_8: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray
+bip_39_word_new_br_9: idea<br>broom<br>hair<br>shrimp<br>weasel<br>voyage<br>pole<br>tray<br>angle
+bip_39_word_new_line_1: idea
+bip_39_word_new_line_10: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole
+
+  tray
+
+  angle
+
+  walnut'
+bip_39_word_new_line_11: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole
+
+  tray
+
+  angle
+
+  walnut
+
+  snack'
+bip_39_word_new_line_12: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole
+
+  tray
+
+  angle
+
+  walnut
+
+  snack
+
+  alarm'
+bip_39_word_new_line_2: 'idea
+
+  broom'
+bip_39_word_new_line_3: 'idea
+
+  broom
+
+  hair'
+bip_39_word_new_line_4: 'idea
+
+  broom
+
+  hair
+
+  shrimp'
+bip_39_word_new_line_5: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel'
+bip_39_word_new_line_6: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage'
+bip_39_word_new_line_7: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole'
+bip_39_word_new_line_8: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole
+
+  tray'
+bip_39_word_new_line_9: 'idea
+
+  broom
+
+  hair
+
+  shrimp
+
+  weasel
+
+  voyage
+
+  pole
+
+  tray
+
+  angle'
+bip_39_word_no_space_1: idea
+bip_39_word_no_space_10: ideabroomhairshrimpweaselvoyagepoletrayanglewalnut
+bip_39_word_no_space_11: ideabroomhairshrimpweaselvoyagepoletrayanglewalnutsnack
+bip_39_word_no_space_12: ideabroomhairshrimpweaselvoyagepoletrayanglewalnutsnackalarm
+bip_39_word_no_space_2: ideabroom
+bip_39_word_no_space_3: ideabroomhair
+bip_39_word_no_space_4: ideabroomhairshrimp
+bip_39_word_no_space_5: ideabroomhairshrimpweasel
+bip_39_word_no_space_6: ideabroomhairshrimpweaselvoyage
+bip_39_word_no_space_7: ideabroomhairshrimpweaselvoyagepole
+bip_39_word_no_space_8: ideabroomhairshrimpweaselvoyagepoletray
+bip_39_word_no_space_9: ideabroomhairshrimpweaselvoyagepoletrayangle
+bip_39_word_space_0:
+- idea
+- broom
+- hair
+- shrimp
+- weasel
+- voyage
+- pole
+- tray
+- angle
+- walnut
+- snack
+- alarm
+bip_39_word_space_1: idea
+bip_39_word_space_10: idea broom hair shrimp weasel voyage pole tray angle walnut
+bip_39_word_space_11: idea broom hair shrimp weasel voyage pole tray angle walnut
+  snack
+bip_39_word_space_12: idea broom hair shrimp weasel voyage pole tray angle walnut
+  snack alarm
+bip_39_word_space_2: idea broom
+bip_39_word_space_3: idea broom hair
+bip_39_word_space_4: idea broom hair shrimp
+bip_39_word_space_5: idea broom hair shrimp weasel
+bip_39_word_space_6: idea broom hair shrimp weasel voyage
+bip_39_word_space_7: idea broom hair shrimp weasel voyage pole
+bip_39_word_space_8: idea broom hair shrimp weasel voyage pole tray
+bip_39_word_space_9: idea broom hair shrimp weasel voyage pole tray angle
+bip_39_word_underscore_1: idea
+bip_39_word_underscore_10: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut
+bip_39_word_underscore_11: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut_snack
+bip_39_word_underscore_12: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle_walnut_snack_alarm
+bip_39_word_underscore_2: idea_broom
+bip_39_word_underscore_3: idea_broom_hair
+bip_39_word_underscore_4: idea_broom_hair_shrimp
+bip_39_word_underscore_5: idea_broom_hair_shrimp_weasel
+bip_39_word_underscore_6: idea_broom_hair_shrimp_weasel_voyage
+bip_39_word_underscore_7: idea_broom_hair_shrimp_weasel_voyage_pole
+bip_39_word_underscore_8: idea_broom_hair_shrimp_weasel_voyage_pole_tray
+bip_39_word_underscore_9: idea_broom_hair_shrimp_weasel_voyage_pole_tray_angle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_04_1d5_18
 id_no_color: 041d518
 id_no_size: 04_1d5_18
 id_no_type: tray_thin_04_1d5_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_1d5_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_1d5_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_1d5_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203nha5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203nha5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203nha5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 041D518
 name_no_size: 04 1D5 18
 name_no_size_short: 04 1D5 18
 name_no_type: Tray Thin 04 1D5 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_1d5_18
 oomp_word: blowfish golf cow
 oomp_word_emoji: ':blowfish: :golf: :cow:'

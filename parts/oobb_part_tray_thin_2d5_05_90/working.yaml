@@ -1,3 +1,221 @@
+bip_39_word_dash_1: stay
+bip_39_word_dash_10: stay-praise-image-minor-task-magic-axis-grass-table-rubber
+bip_39_word_dash_11: stay-praise-image-minor-task-magic-axis-grass-table-rubber-garden
+bip_39_word_dash_12: stay-praise-image-minor-task-magic-axis-grass-table-rubber-garden-accident
+bip_39_word_dash_2: stay-praise
+bip_39_word_dash_3: stay-praise-image
+bip_39_word_dash_4: stay-praise-image-minor
+bip_39_word_dash_5: stay-praise-image-minor-task
+bip_39_word_dash_6: stay-praise-image-minor-task-magic
+bip_39_word_dash_7: stay-praise-image-minor-task-magic-axis
+bip_39_word_dash_8: stay-praise-image-minor-task-magic-axis-grass
+bip_39_word_dash_9: stay-praise-image-minor-task-magic-axis-grass-table
+bip_39_word_new_br_1: stay
+bip_39_word_new_br_10: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber
+bip_39_word_new_br_11: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber<br>garden
+bip_39_word_new_br_12: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table<br>rubber<br>garden<br>accident
+bip_39_word_new_br_2: stay<br>praise
+bip_39_word_new_br_3: stay<br>praise<br>image
+bip_39_word_new_br_4: stay<br>praise<br>image<br>minor
+bip_39_word_new_br_5: stay<br>praise<br>image<br>minor<br>task
+bip_39_word_new_br_6: stay<br>praise<br>image<br>minor<br>task<br>magic
+bip_39_word_new_br_7: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis
+bip_39_word_new_br_8: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass
+bip_39_word_new_br_9: stay<br>praise<br>image<br>minor<br>task<br>magic<br>axis<br>grass<br>table
+bip_39_word_new_line_1: stay
+bip_39_word_new_line_10: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis
+
+  grass
+
+  table
+
+  rubber'
+bip_39_word_new_line_11: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis
+
+  grass
+
+  table
+
+  rubber
+
+  garden'
+bip_39_word_new_line_12: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis
+
+  grass
+
+  table
+
+  rubber
+
+  garden
+
+  accident'
+bip_39_word_new_line_2: 'stay
+
+  praise'
+bip_39_word_new_line_3: 'stay
+
+  praise
+
+  image'
+bip_39_word_new_line_4: 'stay
+
+  praise
+
+  image
+
+  minor'
+bip_39_word_new_line_5: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task'
+bip_39_word_new_line_6: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic'
+bip_39_word_new_line_7: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis'
+bip_39_word_new_line_8: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis
+
+  grass'
+bip_39_word_new_line_9: 'stay
+
+  praise
+
+  image
+
+  minor
+
+  task
+
+  magic
+
+  axis
+
+  grass
+
+  table'
+bip_39_word_no_space_1: stay
+bip_39_word_no_space_10: staypraiseimageminortaskmagicaxisgrasstablerubber
+bip_39_word_no_space_11: staypraiseimageminortaskmagicaxisgrasstablerubbergarden
+bip_39_word_no_space_12: staypraiseimageminortaskmagicaxisgrasstablerubbergardenaccident
+bip_39_word_no_space_2: staypraise
+bip_39_word_no_space_3: staypraiseimage
+bip_39_word_no_space_4: staypraiseimageminor
+bip_39_word_no_space_5: staypraiseimageminortask
+bip_39_word_no_space_6: staypraiseimageminortaskmagic
+bip_39_word_no_space_7: staypraiseimageminortaskmagicaxis
+bip_39_word_no_space_8: staypraiseimageminortaskmagicaxisgrass
+bip_39_word_no_space_9: staypraiseimageminortaskmagicaxisgrasstable
+bip_39_word_space_0:
+- stay
+- praise
+- image
+- minor
+- task
+- magic
+- axis
+- grass
+- table
+- rubber
+- garden
+- accident
+bip_39_word_space_1: stay
+bip_39_word_space_10: stay praise image minor task magic axis grass table rubber
+bip_39_word_space_11: stay praise image minor task magic axis grass table rubber garden
+bip_39_word_space_12: stay praise image minor task magic axis grass table rubber garden
+  accident
+bip_39_word_space_2: stay praise
+bip_39_word_space_3: stay praise image
+bip_39_word_space_4: stay praise image minor
+bip_39_word_space_5: stay praise image minor task
+bip_39_word_space_6: stay praise image minor task magic
+bip_39_word_space_7: stay praise image minor task magic axis
+bip_39_word_space_8: stay praise image minor task magic axis grass
+bip_39_word_space_9: stay praise image minor task magic axis grass table
+bip_39_word_underscore_1: stay
+bip_39_word_underscore_10: stay_praise_image_minor_task_magic_axis_grass_table_rubber
+bip_39_word_underscore_11: stay_praise_image_minor_task_magic_axis_grass_table_rubber_garden
+bip_39_word_underscore_12: stay_praise_image_minor_task_magic_axis_grass_table_rubber_garden_accident
+bip_39_word_underscore_2: stay_praise
+bip_39_word_underscore_3: stay_praise_image
+bip_39_word_underscore_4: stay_praise_image_minor
+bip_39_word_underscore_5: stay_praise_image_minor_task
+bip_39_word_underscore_6: stay_praise_image_minor_task_magic
+bip_39_word_underscore_7: stay_praise_image_minor_task_magic_axis
+bip_39_word_underscore_8: stay_praise_image_minor_task_magic_axis_grass
+bip_39_word_underscore_9: stay_praise_image_minor_task_magic_axis_grass_table
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_2d5_05_90
 id_no_color: 2d50590
 id_no_size: 2d5_05_90
 id_no_type: tray_thin_2d5_05_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_05_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20vyb3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20vyb3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20vyb3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 2D50590
 name_no_size: 2D5 05 90
 name_no_size_short: 2D5 05 90
 name_no_type: Tray Thin 2D5 05 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_05_90
 oomp_word: thumbsup egg moon
 oomp_word_emoji: ':thumbsup: :egg: :moon:'

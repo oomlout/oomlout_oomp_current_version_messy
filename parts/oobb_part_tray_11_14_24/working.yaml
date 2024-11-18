@@ -1,3 +1,222 @@
+bip_39_word_dash_1: coconut
+bip_39_word_dash_10: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine
+bip_39_word_dash_11: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine-price
+bip_39_word_dash_12: coconut-song-forest-girl-fine-squeeze-current-annual-man-combine-price-action
+bip_39_word_dash_2: coconut-song
+bip_39_word_dash_3: coconut-song-forest
+bip_39_word_dash_4: coconut-song-forest-girl
+bip_39_word_dash_5: coconut-song-forest-girl-fine
+bip_39_word_dash_6: coconut-song-forest-girl-fine-squeeze
+bip_39_word_dash_7: coconut-song-forest-girl-fine-squeeze-current
+bip_39_word_dash_8: coconut-song-forest-girl-fine-squeeze-current-annual
+bip_39_word_dash_9: coconut-song-forest-girl-fine-squeeze-current-annual-man
+bip_39_word_new_br_1: coconut
+bip_39_word_new_br_10: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine
+bip_39_word_new_br_11: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine<br>price
+bip_39_word_new_br_12: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man<br>combine<br>price<br>action
+bip_39_word_new_br_2: coconut<br>song
+bip_39_word_new_br_3: coconut<br>song<br>forest
+bip_39_word_new_br_4: coconut<br>song<br>forest<br>girl
+bip_39_word_new_br_5: coconut<br>song<br>forest<br>girl<br>fine
+bip_39_word_new_br_6: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze
+bip_39_word_new_br_7: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current
+bip_39_word_new_br_8: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual
+bip_39_word_new_br_9: coconut<br>song<br>forest<br>girl<br>fine<br>squeeze<br>current<br>annual<br>man
+bip_39_word_new_line_1: coconut
+bip_39_word_new_line_10: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current
+
+  annual
+
+  man
+
+  combine'
+bip_39_word_new_line_11: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current
+
+  annual
+
+  man
+
+  combine
+
+  price'
+bip_39_word_new_line_12: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current
+
+  annual
+
+  man
+
+  combine
+
+  price
+
+  action'
+bip_39_word_new_line_2: 'coconut
+
+  song'
+bip_39_word_new_line_3: 'coconut
+
+  song
+
+  forest'
+bip_39_word_new_line_4: 'coconut
+
+  song
+
+  forest
+
+  girl'
+bip_39_word_new_line_5: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine'
+bip_39_word_new_line_6: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze'
+bip_39_word_new_line_7: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current'
+bip_39_word_new_line_8: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current
+
+  annual'
+bip_39_word_new_line_9: 'coconut
+
+  song
+
+  forest
+
+  girl
+
+  fine
+
+  squeeze
+
+  current
+
+  annual
+
+  man'
+bip_39_word_no_space_1: coconut
+bip_39_word_no_space_10: coconutsongforestgirlfinesqueezecurrentannualmancombine
+bip_39_word_no_space_11: coconutsongforestgirlfinesqueezecurrentannualmancombineprice
+bip_39_word_no_space_12: coconutsongforestgirlfinesqueezecurrentannualmancombinepriceaction
+bip_39_word_no_space_2: coconutsong
+bip_39_word_no_space_3: coconutsongforest
+bip_39_word_no_space_4: coconutsongforestgirl
+bip_39_word_no_space_5: coconutsongforestgirlfine
+bip_39_word_no_space_6: coconutsongforestgirlfinesqueeze
+bip_39_word_no_space_7: coconutsongforestgirlfinesqueezecurrent
+bip_39_word_no_space_8: coconutsongforestgirlfinesqueezecurrentannual
+bip_39_word_no_space_9: coconutsongforestgirlfinesqueezecurrentannualman
+bip_39_word_space_0:
+- coconut
+- song
+- forest
+- girl
+- fine
+- squeeze
+- current
+- annual
+- man
+- combine
+- price
+- action
+bip_39_word_space_1: coconut
+bip_39_word_space_10: coconut song forest girl fine squeeze current annual man combine
+bip_39_word_space_11: coconut song forest girl fine squeeze current annual man combine
+  price
+bip_39_word_space_12: coconut song forest girl fine squeeze current annual man combine
+  price action
+bip_39_word_space_2: coconut song
+bip_39_word_space_3: coconut song forest
+bip_39_word_space_4: coconut song forest girl
+bip_39_word_space_5: coconut song forest girl fine
+bip_39_word_space_6: coconut song forest girl fine squeeze
+bip_39_word_space_7: coconut song forest girl fine squeeze current
+bip_39_word_space_8: coconut song forest girl fine squeeze current annual
+bip_39_word_space_9: coconut song forest girl fine squeeze current annual man
+bip_39_word_underscore_1: coconut
+bip_39_word_underscore_10: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine
+bip_39_word_underscore_11: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine_price
+bip_39_word_underscore_12: coconut_song_forest_girl_fine_squeeze_current_annual_man_combine_price_action
+bip_39_word_underscore_2: coconut_song
+bip_39_word_underscore_3: coconut_song_forest
+bip_39_word_underscore_4: coconut_song_forest_girl
+bip_39_word_underscore_5: coconut_song_forest_girl_fine
+bip_39_word_underscore_6: coconut_song_forest_girl_fine_squeeze
+bip_39_word_underscore_7: coconut_song_forest_girl_fine_squeeze_current
+bip_39_word_underscore_8: coconut_song_forest_girl_fine_squeeze_current_annual
+bip_39_word_underscore_9: coconut_song_forest_girl_fine_squeeze_current_annual_man
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_11_14_24
 id_no_color: '111424'
 id_no_size: '11_14_24'
 id_no_type: tray_11_14_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_14_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_14_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201m217
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201m217
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201m217
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '111424'
 name_no_size: 11 14 24
 name_no_size_short: 11 14 24
 name_no_type: Tray 11 14 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_14_24
 oomp_word: sunny whale grapes
 oomp_word_emoji: ':sunny: :whale: :grapes:'

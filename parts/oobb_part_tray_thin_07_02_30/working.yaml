@@ -1,3 +1,222 @@
+bip_39_word_dash_1: opera
+bip_39_word_dash_10: opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade
+bip_39_word_dash_11: opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade-whisper
+bip_39_word_dash_12: opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle-trade-whisper-alter
+bip_39_word_dash_2: opera-sheriff
+bip_39_word_dash_3: opera-sheriff-brief
+bip_39_word_dash_4: opera-sheriff-brief-snap
+bip_39_word_dash_5: opera-sheriff-brief-snap-cancel
+bip_39_word_dash_6: opera-sheriff-brief-snap-cancel-badge
+bip_39_word_dash_7: opera-sheriff-brief-snap-cancel-badge-custom
+bip_39_word_dash_8: opera-sheriff-brief-snap-cancel-badge-custom-speed
+bip_39_word_dash_9: opera-sheriff-brief-snap-cancel-badge-custom-speed-turtle
+bip_39_word_new_br_1: opera
+bip_39_word_new_br_10: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade
+bip_39_word_new_br_11: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade<br>whisper
+bip_39_word_new_br_12: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle<br>trade<br>whisper<br>alter
+bip_39_word_new_br_2: opera<br>sheriff
+bip_39_word_new_br_3: opera<br>sheriff<br>brief
+bip_39_word_new_br_4: opera<br>sheriff<br>brief<br>snap
+bip_39_word_new_br_5: opera<br>sheriff<br>brief<br>snap<br>cancel
+bip_39_word_new_br_6: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge
+bip_39_word_new_br_7: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom
+bip_39_word_new_br_8: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed
+bip_39_word_new_br_9: opera<br>sheriff<br>brief<br>snap<br>cancel<br>badge<br>custom<br>speed<br>turtle
+bip_39_word_new_line_1: opera
+bip_39_word_new_line_10: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom
+
+  speed
+
+  turtle
+
+  trade'
+bip_39_word_new_line_11: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom
+
+  speed
+
+  turtle
+
+  trade
+
+  whisper'
+bip_39_word_new_line_12: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom
+
+  speed
+
+  turtle
+
+  trade
+
+  whisper
+
+  alter'
+bip_39_word_new_line_2: 'opera
+
+  sheriff'
+bip_39_word_new_line_3: 'opera
+
+  sheriff
+
+  brief'
+bip_39_word_new_line_4: 'opera
+
+  sheriff
+
+  brief
+
+  snap'
+bip_39_word_new_line_5: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel'
+bip_39_word_new_line_6: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge'
+bip_39_word_new_line_7: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom'
+bip_39_word_new_line_8: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom
+
+  speed'
+bip_39_word_new_line_9: 'opera
+
+  sheriff
+
+  brief
+
+  snap
+
+  cancel
+
+  badge
+
+  custom
+
+  speed
+
+  turtle'
+bip_39_word_no_space_1: opera
+bip_39_word_no_space_10: operasheriffbriefsnapcancelbadgecustomspeedturtletrade
+bip_39_word_no_space_11: operasheriffbriefsnapcancelbadgecustomspeedturtletradewhisper
+bip_39_word_no_space_12: operasheriffbriefsnapcancelbadgecustomspeedturtletradewhisperalter
+bip_39_word_no_space_2: operasheriff
+bip_39_word_no_space_3: operasheriffbrief
+bip_39_word_no_space_4: operasheriffbriefsnap
+bip_39_word_no_space_5: operasheriffbriefsnapcancel
+bip_39_word_no_space_6: operasheriffbriefsnapcancelbadge
+bip_39_word_no_space_7: operasheriffbriefsnapcancelbadgecustom
+bip_39_word_no_space_8: operasheriffbriefsnapcancelbadgecustomspeed
+bip_39_word_no_space_9: operasheriffbriefsnapcancelbadgecustomspeedturtle
+bip_39_word_space_0:
+- opera
+- sheriff
+- brief
+- snap
+- cancel
+- badge
+- custom
+- speed
+- turtle
+- trade
+- whisper
+- alter
+bip_39_word_space_1: opera
+bip_39_word_space_10: opera sheriff brief snap cancel badge custom speed turtle trade
+bip_39_word_space_11: opera sheriff brief snap cancel badge custom speed turtle trade
+  whisper
+bip_39_word_space_12: opera sheriff brief snap cancel badge custom speed turtle trade
+  whisper alter
+bip_39_word_space_2: opera sheriff
+bip_39_word_space_3: opera sheriff brief
+bip_39_word_space_4: opera sheriff brief snap
+bip_39_word_space_5: opera sheriff brief snap cancel
+bip_39_word_space_6: opera sheriff brief snap cancel badge
+bip_39_word_space_7: opera sheriff brief snap cancel badge custom
+bip_39_word_space_8: opera sheriff brief snap cancel badge custom speed
+bip_39_word_space_9: opera sheriff brief snap cancel badge custom speed turtle
+bip_39_word_underscore_1: opera
+bip_39_word_underscore_10: opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade
+bip_39_word_underscore_11: opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade_whisper
+bip_39_word_underscore_12: opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle_trade_whisper_alter
+bip_39_word_underscore_2: opera_sheriff
+bip_39_word_underscore_3: opera_sheriff_brief
+bip_39_word_underscore_4: opera_sheriff_brief_snap
+bip_39_word_underscore_5: opera_sheriff_brief_snap_cancel
+bip_39_word_underscore_6: opera_sheriff_brief_snap_cancel_badge
+bip_39_word_underscore_7: opera_sheriff_brief_snap_cancel_badge_custom
+bip_39_word_underscore_8: opera_sheriff_brief_snap_cancel_badge_custom_speed
+bip_39_word_underscore_9: opera_sheriff_brief_snap_cancel_badge_custom_speed_turtle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_07_02_30
 id_no_color: '070230'
 id_no_size: '07_02_30'
 id_no_type: tray_thin_07_02_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_02_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_02_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_02_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204oi0p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204oi0p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204oi0p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070230'
 name_no_size: 07 02 30
 name_no_size_short: 07 02 30
 name_no_type: Tray Thin 07 02 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_02_30
 oomp_word: gift four tiger
 oomp_word_emoji: ':gift: :four: :tiger:'

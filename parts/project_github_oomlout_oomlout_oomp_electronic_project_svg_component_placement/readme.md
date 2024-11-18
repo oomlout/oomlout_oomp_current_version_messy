@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Electronic Project Svg Component Placement
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ram: :pray: :rowboat:
 * md5_6_alpha: 3cxyb
 * md5_6: 5619e3
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203cxyb)
+[2x1](http://192.168.1.242:1112/?label=oomp%203cxyb)
+[6x4](http://192.168.1.55:1112/?label=oomp%203cxyb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ grain |
 | id_no_color | oomp_electronic_svg_component_placement |  
 | id_no_size | oomp_electronic_svg_component_placement |  
 | id_no_type | oomlout_oomlout_oomp_electronic_svg_component_placement |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203cxyb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203cxyb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203cxyb |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_electronic_project_svg_component_placement |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ grain |
 | name_no_size | Oomp Electronic Svg Component Placement |  
 | name_no_size_short | Oomp Electronic Svg Component Placement |  
 | name_no_type | Oomlout Oomlout Oomp Electronic Svg Component Placement |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_electronic_project_svg_component_placement |  
 | oomp_word | ram pray rowboat |  
 | oomp_word_emoji | :ram: :pray: :rowboat: |  

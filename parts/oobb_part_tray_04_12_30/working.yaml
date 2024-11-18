@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lake
+bip_39_word_dash_10: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion
+bip_39_word_dash_11: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion-hold
+bip_39_word_dash_12: lake-curious-device-detect-depend-flock-brand-predict-borrow-lion-hold-ask
+bip_39_word_dash_2: lake-curious
+bip_39_word_dash_3: lake-curious-device
+bip_39_word_dash_4: lake-curious-device-detect
+bip_39_word_dash_5: lake-curious-device-detect-depend
+bip_39_word_dash_6: lake-curious-device-detect-depend-flock
+bip_39_word_dash_7: lake-curious-device-detect-depend-flock-brand
+bip_39_word_dash_8: lake-curious-device-detect-depend-flock-brand-predict
+bip_39_word_dash_9: lake-curious-device-detect-depend-flock-brand-predict-borrow
+bip_39_word_new_br_1: lake
+bip_39_word_new_br_10: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow<br>lion
+bip_39_word_new_br_11: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow<br>lion<br>hold
+bip_39_word_new_br_12: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow<br>lion<br>hold<br>ask
+bip_39_word_new_br_2: lake<br>curious
+bip_39_word_new_br_3: lake<br>curious<br>device
+bip_39_word_new_br_4: lake<br>curious<br>device<br>detect
+bip_39_word_new_br_5: lake<br>curious<br>device<br>detect<br>depend
+bip_39_word_new_br_6: lake<br>curious<br>device<br>detect<br>depend<br>flock
+bip_39_word_new_br_7: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand
+bip_39_word_new_br_8: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict
+bip_39_word_new_br_9: lake<br>curious<br>device<br>detect<br>depend<br>flock<br>brand<br>predict<br>borrow
+bip_39_word_new_line_1: lake
+bip_39_word_new_line_10: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand
+
+  predict
+
+  borrow
+
+  lion'
+bip_39_word_new_line_11: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand
+
+  predict
+
+  borrow
+
+  lion
+
+  hold'
+bip_39_word_new_line_12: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand
+
+  predict
+
+  borrow
+
+  lion
+
+  hold
+
+  ask'
+bip_39_word_new_line_2: 'lake
+
+  curious'
+bip_39_word_new_line_3: 'lake
+
+  curious
+
+  device'
+bip_39_word_new_line_4: 'lake
+
+  curious
+
+  device
+
+  detect'
+bip_39_word_new_line_5: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend'
+bip_39_word_new_line_6: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock'
+bip_39_word_new_line_7: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand'
+bip_39_word_new_line_8: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand
+
+  predict'
+bip_39_word_new_line_9: 'lake
+
+  curious
+
+  device
+
+  detect
+
+  depend
+
+  flock
+
+  brand
+
+  predict
+
+  borrow'
+bip_39_word_no_space_1: lake
+bip_39_word_no_space_10: lakecuriousdevicedetectdependflockbrandpredictborrowlion
+bip_39_word_no_space_11: lakecuriousdevicedetectdependflockbrandpredictborrowlionhold
+bip_39_word_no_space_12: lakecuriousdevicedetectdependflockbrandpredictborrowlionholdask
+bip_39_word_no_space_2: lakecurious
+bip_39_word_no_space_3: lakecuriousdevice
+bip_39_word_no_space_4: lakecuriousdevicedetect
+bip_39_word_no_space_5: lakecuriousdevicedetectdepend
+bip_39_word_no_space_6: lakecuriousdevicedetectdependflock
+bip_39_word_no_space_7: lakecuriousdevicedetectdependflockbrand
+bip_39_word_no_space_8: lakecuriousdevicedetectdependflockbrandpredict
+bip_39_word_no_space_9: lakecuriousdevicedetectdependflockbrandpredictborrow
+bip_39_word_space_0:
+- lake
+- curious
+- device
+- detect
+- depend
+- flock
+- brand
+- predict
+- borrow
+- lion
+- hold
+- ask
+bip_39_word_space_1: lake
+bip_39_word_space_10: lake curious device detect depend flock brand predict borrow
+  lion
+bip_39_word_space_11: lake curious device detect depend flock brand predict borrow
+  lion hold
+bip_39_word_space_12: lake curious device detect depend flock brand predict borrow
+  lion hold ask
+bip_39_word_space_2: lake curious
+bip_39_word_space_3: lake curious device
+bip_39_word_space_4: lake curious device detect
+bip_39_word_space_5: lake curious device detect depend
+bip_39_word_space_6: lake curious device detect depend flock
+bip_39_word_space_7: lake curious device detect depend flock brand
+bip_39_word_space_8: lake curious device detect depend flock brand predict
+bip_39_word_space_9: lake curious device detect depend flock brand predict borrow
+bip_39_word_underscore_1: lake
+bip_39_word_underscore_10: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion
+bip_39_word_underscore_11: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion_hold
+bip_39_word_underscore_12: lake_curious_device_detect_depend_flock_brand_predict_borrow_lion_hold_ask
+bip_39_word_underscore_2: lake_curious
+bip_39_word_underscore_3: lake_curious_device
+bip_39_word_underscore_4: lake_curious_device_detect
+bip_39_word_underscore_5: lake_curious_device_detect_depend
+bip_39_word_underscore_6: lake_curious_device_detect_depend_flock
+bip_39_word_underscore_7: lake_curious_device_detect_depend_flock_brand
+bip_39_word_underscore_8: lake_curious_device_detect_depend_flock_brand_predict
+bip_39_word_underscore_9: lake_curious_device_detect_depend_flock_brand_predict_borrow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_12_30
 id_no_color: '041230'
 id_no_size: '04_12_30'
 id_no_type: tray_04_12_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208aza8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208aza8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208aza8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '041230'
 name_no_size: 04 12 30
 name_no_size_short: 04 12 30
 name_no_type: Tray 04 12 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_12_30
 oomp_word: corn bank skull
 oomp_word_emoji: ':corn: :bank: :skull:'

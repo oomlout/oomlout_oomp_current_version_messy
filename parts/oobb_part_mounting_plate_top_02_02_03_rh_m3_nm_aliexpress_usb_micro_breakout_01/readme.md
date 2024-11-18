@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 02 02 03 Rh M3 Nm Aliexpress USB Micro Breakout 01
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_02_02_03_rh_m3_nm_aliexpress_usb_micro_breakout_01
   * classification: oobb

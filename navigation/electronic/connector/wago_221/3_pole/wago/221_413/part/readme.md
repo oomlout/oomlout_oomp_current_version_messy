@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Connector Wago 221 3 Pole Wago 221 413
+* name_short: 
 ### id
 * oomp_id: electronic_connector_wago_221_3_pole_wago_221_413
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :eight: :snake: :violin:
 * md5_6_alpha: 9q55u
 * md5_6: f945a2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209q55u)
+[2x1](http://192.168.1.242:1112/?label=oomp%209q55u)
+[6x4](http://192.168.1.55:1112/?label=oomp%209q55u)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -260,7 +286,14 @@ exclude |
 | id_no_size | 3_pole_413 |  
 | id_no_type | wago_221_3_pole_wago_221_413 |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209q55u |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209q55u |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209q55u |  
 | manufacturer | wago |  
 | manufacturer_capital | Wago |  
 | manufacturer_first_letter | w |  
@@ -309,6 +342,7 @@ exclude |
 | name_no_size | 3 Pole 413 |  
 | name_no_size_short | 3 Pole 413 |  
 | name_no_type | Wago 221 3 Pole Wago 221 413 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_connector_wago_221_3_pole_wago_221_413 |  
 | oomp_word | eight snake violin |  
 | oomp_word_emoji | :eight: :snake: :violin: |  

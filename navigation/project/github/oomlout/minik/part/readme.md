@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Minik
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_minik
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :whale: :pizza: :skull:
 * md5_6_alpha: 3azvk
 * md5_6: 54b720
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203azvk)
+[2x1](http://192.168.1.242:1112/?label=oomp%203azvk)
+[6x4](http://192.168.1.55:1112/?label=oomp%203azvk)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_minik) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_minik)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ truck |
 | id_no_color | minik |  
 | id_no_size | minik |  
 | id_no_type | oomlout_minik |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_minik |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_minik |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_minik |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203azvk |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203azvk |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203azvk |  
 | link_redirect | https://github.com/oomlout/minik |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ truck |
 | name_no_size | Minik |  
 | name_no_size_short | Minik |  
 | name_no_type | Oomlout Minik |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_minik |  
 | oomp_word | whale pizza skull |  
 | oomp_word_emoji | :whale: :pizza: :skull: |  

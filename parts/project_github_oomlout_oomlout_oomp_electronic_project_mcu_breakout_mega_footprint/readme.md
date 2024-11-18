@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Electronic Project MCU Breakout Mega Footprint
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :egg: :sunny: :book:
 * md5_6_alpha: 7gip0
 * md5_6: bf29a4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207gip0)
+[2x1](http://192.168.1.242:1112/?label=oomp%207gip0)
+[6x4](http://192.168.1.55:1112/?label=oomp%207gip0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ buddy |
 | id_no_color | oomp_electronic_mcu_breakout_mega_footprint |  
 | id_no_size | oomp_electronic_mcu_breakout_mega_footprint |  
 | id_no_type | oomlout_oomlout_oomp_electronic_mcu_breakout_mega_footprint |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207gip0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207gip0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207gip0 |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_electronic_project_mcu_breakout_mega_footprint |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ buddy |
 | name_no_size | Oomp Electronic MCU Breakout Mega Footprint |  
 | name_no_size_short | Oomp Electronic Mcu Breakout Mega Footprint |  
 | name_no_type | Oomlout Oomlout Oomp Electronic MCU Breakout Mega Footprint |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_electronic_project_mcu_breakout_mega_footprint |  
 | oomp_word | egg sunny book |  
 | oomp_word_emoji | :egg: :sunny: :book: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Decorative Lighting Holder Lighting Pendant Ikea Slattbo Copper
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :up: :watch: :spaghetti:
 * md5_6_alpha: 9uoqi
 * md5_6: fc81ba
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209uoqi)
+[2x1](http://192.168.1.242:1112/?label=oomp%209uoqi)
+[6x4](http://192.168.1.55:1112/?label=oomp%209uoqi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ click |
 | id_no_color | decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
 | id_no_size | decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
 | id_no_type | oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209uoqi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209uoqi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209uoqi |  
 | link_redirect | https://github.com/oomlout/oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ click |
 | name_no_size | Decorative Lighting Holder Lighting Pendant Ikea Slattbo Copper |  
 | name_no_size_short | Decorative Lighting Holder Lighting Pendant Ikea Slattbo Copper |  
 | name_no_type | Oomlout Oomlout Decorative Lighting Holder Lighting Pendant Ikea Slattbo Copper |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_decorative_lighting_holder_lighting_pendant_ikea_slattbo_copper |  
 | oomp_word | up watch spaghetti |  
 | oomp_word_emoji | :up: :watch: :spaghetti: |  

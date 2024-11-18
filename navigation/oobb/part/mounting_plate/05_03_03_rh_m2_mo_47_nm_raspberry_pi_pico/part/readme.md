@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 05 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :curry: :nine: :honey_pot:
 * md5_6_alpha: 7c1qf
 * md5_6: bbfac7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207c1qf)
+[2x1](http://192.168.1.242:1112/?label=oomp%207c1qf)
+[6x4](http://192.168.1.55:1112/?label=oomp%207c1qf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ woman |
 | id_no_color | 050303rhm2mo47nmraspberrypipico |  
 | id_no_size | 05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
 | id_no_type | mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207c1qf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207c1qf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207c1qf |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ woman |
 | name_no_size | 05 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico |  
 | name_no_size_short | 05 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico |  
 | name_no_type | Mounting Plate 05 03 03 Rh M2 Mo 47 Nm Raspberry Pi Pico |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_05_03_03_rh_m2_mo_47_nm_raspberry_pi_pico |  
 | oomp_word | curry nine honey_pot |  
 | oomp_word_emoji | :curry: :nine: :honey_pot: |  

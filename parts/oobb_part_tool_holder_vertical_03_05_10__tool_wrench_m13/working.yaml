@@ -1,3 +1,222 @@
+bip_39_word_dash_1: innocent
+bip_39_word_dash_10: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method
+bip_39_word_dash_11: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method-clump
+bip_39_word_dash_12: innocent-swing-eye-cheese-false-stairs-spray-maple-define-method-clump-avocado
+bip_39_word_dash_2: innocent-swing
+bip_39_word_dash_3: innocent-swing-eye
+bip_39_word_dash_4: innocent-swing-eye-cheese
+bip_39_word_dash_5: innocent-swing-eye-cheese-false
+bip_39_word_dash_6: innocent-swing-eye-cheese-false-stairs
+bip_39_word_dash_7: innocent-swing-eye-cheese-false-stairs-spray
+bip_39_word_dash_8: innocent-swing-eye-cheese-false-stairs-spray-maple
+bip_39_word_dash_9: innocent-swing-eye-cheese-false-stairs-spray-maple-define
+bip_39_word_new_br_1: innocent
+bip_39_word_new_br_10: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method
+bip_39_word_new_br_11: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method<br>clump
+bip_39_word_new_br_12: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define<br>method<br>clump<br>avocado
+bip_39_word_new_br_2: innocent<br>swing
+bip_39_word_new_br_3: innocent<br>swing<br>eye
+bip_39_word_new_br_4: innocent<br>swing<br>eye<br>cheese
+bip_39_word_new_br_5: innocent<br>swing<br>eye<br>cheese<br>false
+bip_39_word_new_br_6: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs
+bip_39_word_new_br_7: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray
+bip_39_word_new_br_8: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple
+bip_39_word_new_br_9: innocent<br>swing<br>eye<br>cheese<br>false<br>stairs<br>spray<br>maple<br>define
+bip_39_word_new_line_1: innocent
+bip_39_word_new_line_10: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method'
+bip_39_word_new_line_11: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method
+
+  clump'
+bip_39_word_new_line_12: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define
+
+  method
+
+  clump
+
+  avocado'
+bip_39_word_new_line_2: 'innocent
+
+  swing'
+bip_39_word_new_line_3: 'innocent
+
+  swing
+
+  eye'
+bip_39_word_new_line_4: 'innocent
+
+  swing
+
+  eye
+
+  cheese'
+bip_39_word_new_line_5: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false'
+bip_39_word_new_line_6: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs'
+bip_39_word_new_line_7: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray'
+bip_39_word_new_line_8: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple'
+bip_39_word_new_line_9: 'innocent
+
+  swing
+
+  eye
+
+  cheese
+
+  false
+
+  stairs
+
+  spray
+
+  maple
+
+  define'
+bip_39_word_no_space_1: innocent
+bip_39_word_no_space_10: innocentswingeyecheesefalsestairsspraymapledefinemethod
+bip_39_word_no_space_11: innocentswingeyecheesefalsestairsspraymapledefinemethodclump
+bip_39_word_no_space_12: innocentswingeyecheesefalsestairsspraymapledefinemethodclumpavocado
+bip_39_word_no_space_2: innocentswing
+bip_39_word_no_space_3: innocentswingeye
+bip_39_word_no_space_4: innocentswingeyecheese
+bip_39_word_no_space_5: innocentswingeyecheesefalse
+bip_39_word_no_space_6: innocentswingeyecheesefalsestairs
+bip_39_word_no_space_7: innocentswingeyecheesefalsestairsspray
+bip_39_word_no_space_8: innocentswingeyecheesefalsestairsspraymaple
+bip_39_word_no_space_9: innocentswingeyecheesefalsestairsspraymapledefine
+bip_39_word_space_0:
+- innocent
+- swing
+- eye
+- cheese
+- 'false'
+- stairs
+- spray
+- maple
+- define
+- method
+- clump
+- avocado
+bip_39_word_space_1: innocent
+bip_39_word_space_10: innocent swing eye cheese false stairs spray maple define method
+bip_39_word_space_11: innocent swing eye cheese false stairs spray maple define method
+  clump
+bip_39_word_space_12: innocent swing eye cheese false stairs spray maple define method
+  clump avocado
+bip_39_word_space_2: innocent swing
+bip_39_word_space_3: innocent swing eye
+bip_39_word_space_4: innocent swing eye cheese
+bip_39_word_space_5: innocent swing eye cheese false
+bip_39_word_space_6: innocent swing eye cheese false stairs
+bip_39_word_space_7: innocent swing eye cheese false stairs spray
+bip_39_word_space_8: innocent swing eye cheese false stairs spray maple
+bip_39_word_space_9: innocent swing eye cheese false stairs spray maple define
+bip_39_word_underscore_1: innocent
+bip_39_word_underscore_10: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method
+bip_39_word_underscore_11: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method_clump
+bip_39_word_underscore_12: innocent_swing_eye_cheese_false_stairs_spray_maple_define_method_clump_avocado
+bip_39_word_underscore_2: innocent_swing
+bip_39_word_underscore_3: innocent_swing_eye
+bip_39_word_underscore_4: innocent_swing_eye_cheese
+bip_39_word_underscore_5: innocent_swing_eye_cheese_false
+bip_39_word_underscore_6: innocent_swing_eye_cheese_false_stairs
+bip_39_word_underscore_7: innocent_swing_eye_cheese_false_stairs_spray
+bip_39_word_underscore_8: innocent_swing_eye_cheese_false_stairs_spray_maple
+bip_39_word_underscore_9: innocent_swing_eye_cheese_false_stairs_spray_maple_define
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_03_05_10__tool_wrench_m13
 id_no_color: 030510toolwrenchm13
 id_no_size: 03_05_10__tool_wrench_m13
 id_no_type: tool_holder_vertical_03_05_10__tool_wrench_m13
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_10__tool_wrench_m13
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_10__tool_wrench_m13
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_10__tool_wrench_m13
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209x9r7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209x9r7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209x9r7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030510Toolwrenchm13
 name_no_size: 03 05 10  Tool Wrench M13
 name_no_size_short: 03 05 10  Tool Wrench M13
 name_no_type: Tool Holder Vertical 03 05 10  Tool Wrench M13
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_10__tool_wrench_m13
 oomp_word: recycle water_buffalo pencil
 oomp_word_emoji: ':recycle: :water_buffalo: :pencil:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Three D Printer
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_three_d_printer
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dress: :lemon: :squirrel:
 * md5_6_alpha: 6s41c
 * md5_6: adc970
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206s41c)
+[2x1](http://192.168.1.242:1112/?label=oomp%206s41c)
+[6x4](http://192.168.1.55:1112/?label=oomp%206s41c)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ vapor |
 | id_no_color | oomp_base_three_d_printer |  
 | id_no_size | oomp_base_three_d_printer |  
 | id_no_type | oomlout_oomp_base_three_d_printer |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_three_d_printer |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206s41c |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206s41c |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206s41c |  
 | link_redirect | https://github.com/oomlout/oomp_base_three_d_printer |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ vapor |
 | name_no_size | Oomp Base Three D Printer |  
 | name_no_size_short | Oomp Base Three D Printer |  
 | name_no_type | Oomlout Oomp Base Three D Printer |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_three_d_printer |  
 | oomp_word | dress lemon squirrel |  
 | oomp_word_emoji | :dress: :lemon: :squirrel: |  

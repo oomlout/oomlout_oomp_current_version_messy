@@ -1,3 +1,223 @@
+bip_39_word_dash_1: divide
+bip_39_word_dash_10: divide-situate-trumpet-portion-chaos-audit-obtain-market-one-gap
+bip_39_word_dash_11: divide-situate-trumpet-portion-chaos-audit-obtain-market-one-gap-fence
+bip_39_word_dash_12: divide-situate-trumpet-portion-chaos-audit-obtain-market-one-gap-fence-appear
+bip_39_word_dash_2: divide-situate
+bip_39_word_dash_3: divide-situate-trumpet
+bip_39_word_dash_4: divide-situate-trumpet-portion
+bip_39_word_dash_5: divide-situate-trumpet-portion-chaos
+bip_39_word_dash_6: divide-situate-trumpet-portion-chaos-audit
+bip_39_word_dash_7: divide-situate-trumpet-portion-chaos-audit-obtain
+bip_39_word_dash_8: divide-situate-trumpet-portion-chaos-audit-obtain-market
+bip_39_word_dash_9: divide-situate-trumpet-portion-chaos-audit-obtain-market-one
+bip_39_word_new_br_1: divide
+bip_39_word_new_br_10: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap
+bip_39_word_new_br_11: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap<br>fence
+bip_39_word_new_br_12: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one<br>gap<br>fence<br>appear
+bip_39_word_new_br_2: divide<br>situate
+bip_39_word_new_br_3: divide<br>situate<br>trumpet
+bip_39_word_new_br_4: divide<br>situate<br>trumpet<br>portion
+bip_39_word_new_br_5: divide<br>situate<br>trumpet<br>portion<br>chaos
+bip_39_word_new_br_6: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit
+bip_39_word_new_br_7: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain
+bip_39_word_new_br_8: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market
+bip_39_word_new_br_9: divide<br>situate<br>trumpet<br>portion<br>chaos<br>audit<br>obtain<br>market<br>one
+bip_39_word_new_line_1: divide
+bip_39_word_new_line_10: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain
+
+  market
+
+  one
+
+  gap'
+bip_39_word_new_line_11: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain
+
+  market
+
+  one
+
+  gap
+
+  fence'
+bip_39_word_new_line_12: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain
+
+  market
+
+  one
+
+  gap
+
+  fence
+
+  appear'
+bip_39_word_new_line_2: 'divide
+
+  situate'
+bip_39_word_new_line_3: 'divide
+
+  situate
+
+  trumpet'
+bip_39_word_new_line_4: 'divide
+
+  situate
+
+  trumpet
+
+  portion'
+bip_39_word_new_line_5: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos'
+bip_39_word_new_line_6: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit'
+bip_39_word_new_line_7: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain'
+bip_39_word_new_line_8: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain
+
+  market'
+bip_39_word_new_line_9: 'divide
+
+  situate
+
+  trumpet
+
+  portion
+
+  chaos
+
+  audit
+
+  obtain
+
+  market
+
+  one'
+bip_39_word_no_space_1: divide
+bip_39_word_no_space_10: dividesituatetrumpetportionchaosauditobtainmarketonegap
+bip_39_word_no_space_11: dividesituatetrumpetportionchaosauditobtainmarketonegapfence
+bip_39_word_no_space_12: dividesituatetrumpetportionchaosauditobtainmarketonegapfenceappear
+bip_39_word_no_space_2: dividesituate
+bip_39_word_no_space_3: dividesituatetrumpet
+bip_39_word_no_space_4: dividesituatetrumpetportion
+bip_39_word_no_space_5: dividesituatetrumpetportionchaos
+bip_39_word_no_space_6: dividesituatetrumpetportionchaosaudit
+bip_39_word_no_space_7: dividesituatetrumpetportionchaosauditobtain
+bip_39_word_no_space_8: dividesituatetrumpetportionchaosauditobtainmarket
+bip_39_word_no_space_9: dividesituatetrumpetportionchaosauditobtainmarketone
+bip_39_word_space_0:
+- divide
+- situate
+- trumpet
+- portion
+- chaos
+- audit
+- obtain
+- market
+- one
+- gap
+- fence
+- appear
+bip_39_word_space_1: divide
+bip_39_word_space_10: divide situate trumpet portion chaos audit obtain market one
+  gap
+bip_39_word_space_11: divide situate trumpet portion chaos audit obtain market one
+  gap fence
+bip_39_word_space_12: divide situate trumpet portion chaos audit obtain market one
+  gap fence appear
+bip_39_word_space_2: divide situate
+bip_39_word_space_3: divide situate trumpet
+bip_39_word_space_4: divide situate trumpet portion
+bip_39_word_space_5: divide situate trumpet portion chaos
+bip_39_word_space_6: divide situate trumpet portion chaos audit
+bip_39_word_space_7: divide situate trumpet portion chaos audit obtain
+bip_39_word_space_8: divide situate trumpet portion chaos audit obtain market
+bip_39_word_space_9: divide situate trumpet portion chaos audit obtain market one
+bip_39_word_underscore_1: divide
+bip_39_word_underscore_10: divide_situate_trumpet_portion_chaos_audit_obtain_market_one_gap
+bip_39_word_underscore_11: divide_situate_trumpet_portion_chaos_audit_obtain_market_one_gap_fence
+bip_39_word_underscore_12: divide_situate_trumpet_portion_chaos_audit_obtain_market_one_gap_fence_appear
+bip_39_word_underscore_2: divide_situate
+bip_39_word_underscore_3: divide_situate_trumpet
+bip_39_word_underscore_4: divide_situate_trumpet_portion
+bip_39_word_underscore_5: divide_situate_trumpet_portion_chaos
+bip_39_word_underscore_6: divide_situate_trumpet_portion_chaos_audit
+bip_39_word_underscore_7: divide_situate_trumpet_portion_chaos_audit_obtain
+bip_39_word_underscore_8: divide_situate_trumpet_portion_chaos_audit_obtain_market
+bip_39_word_underscore_9: divide_situate_trumpet_portion_chaos_audit_obtain_market_one
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_03_05_09__tool_wrench_m10
 id_no_color: 030509toolwrenchm10
 id_no_size: 03_05_09__tool_wrench_m10
 id_no_type: tool_holder_vertical_03_05_09__tool_wrench_m10
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_09__tool_wrench_m10
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_09__tool_wrench_m10
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_09__tool_wrench_m10
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206kx07
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206kx07
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206kx07
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030509Toolwrenchm10
 name_no_size: 03 05 09  Tool Wrench M10
 name_no_size_short: 03 05 09  Tool Wrench M10
 name_no_type: Tool Holder Vertical 03 05 09  Tool Wrench M10
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_09__tool_wrench_m10
 oomp_word: shoe lipstick thumbsdown
 oomp_word_emoji: ':shoe: :lipstick: :thumbsdown:'

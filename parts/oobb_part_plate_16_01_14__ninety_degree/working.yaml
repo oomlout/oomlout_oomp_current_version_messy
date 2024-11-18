@@ -1,3 +1,223 @@
+bip_39_word_dash_1: vehicle
+bip_39_word_dash_10: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime
+bip_39_word_dash_11: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime-recycle
+bip_39_word_dash_12: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp-crime-recycle-album
+bip_39_word_dash_2: vehicle-spawn
+bip_39_word_dash_3: vehicle-spawn-snap
+bip_39_word_dash_4: vehicle-spawn-snap-hidden
+bip_39_word_dash_5: vehicle-spawn-snap-hidden-practice
+bip_39_word_dash_6: vehicle-spawn-snap-hidden-practice-traffic
+bip_39_word_dash_7: vehicle-spawn-snap-hidden-practice-traffic-hard
+bip_39_word_dash_8: vehicle-spawn-snap-hidden-practice-traffic-hard-digital
+bip_39_word_dash_9: vehicle-spawn-snap-hidden-practice-traffic-hard-digital-shrimp
+bip_39_word_new_br_1: vehicle
+bip_39_word_new_br_10: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime
+bip_39_word_new_br_11: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime<br>recycle
+bip_39_word_new_br_12: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp<br>crime<br>recycle<br>album
+bip_39_word_new_br_2: vehicle<br>spawn
+bip_39_word_new_br_3: vehicle<br>spawn<br>snap
+bip_39_word_new_br_4: vehicle<br>spawn<br>snap<br>hidden
+bip_39_word_new_br_5: vehicle<br>spawn<br>snap<br>hidden<br>practice
+bip_39_word_new_br_6: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic
+bip_39_word_new_br_7: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard
+bip_39_word_new_br_8: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital
+bip_39_word_new_br_9: vehicle<br>spawn<br>snap<br>hidden<br>practice<br>traffic<br>hard<br>digital<br>shrimp
+bip_39_word_new_line_1: vehicle
+bip_39_word_new_line_10: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard
+
+  digital
+
+  shrimp
+
+  crime'
+bip_39_word_new_line_11: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard
+
+  digital
+
+  shrimp
+
+  crime
+
+  recycle'
+bip_39_word_new_line_12: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard
+
+  digital
+
+  shrimp
+
+  crime
+
+  recycle
+
+  album'
+bip_39_word_new_line_2: 'vehicle
+
+  spawn'
+bip_39_word_new_line_3: 'vehicle
+
+  spawn
+
+  snap'
+bip_39_word_new_line_4: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden'
+bip_39_word_new_line_5: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice'
+bip_39_word_new_line_6: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic'
+bip_39_word_new_line_7: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard'
+bip_39_word_new_line_8: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard
+
+  digital'
+bip_39_word_new_line_9: 'vehicle
+
+  spawn
+
+  snap
+
+  hidden
+
+  practice
+
+  traffic
+
+  hard
+
+  digital
+
+  shrimp'
+bip_39_word_no_space_1: vehicle
+bip_39_word_no_space_10: vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrime
+bip_39_word_no_space_11: vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrimerecycle
+bip_39_word_no_space_12: vehiclespawnsnaphiddenpracticetrafficharddigitalshrimpcrimerecyclealbum
+bip_39_word_no_space_2: vehiclespawn
+bip_39_word_no_space_3: vehiclespawnsnap
+bip_39_word_no_space_4: vehiclespawnsnaphidden
+bip_39_word_no_space_5: vehiclespawnsnaphiddenpractice
+bip_39_word_no_space_6: vehiclespawnsnaphiddenpracticetraffic
+bip_39_word_no_space_7: vehiclespawnsnaphiddenpracticetraffichard
+bip_39_word_no_space_8: vehiclespawnsnaphiddenpracticetrafficharddigital
+bip_39_word_no_space_9: vehiclespawnsnaphiddenpracticetrafficharddigitalshrimp
+bip_39_word_space_0:
+- vehicle
+- spawn
+- snap
+- hidden
+- practice
+- traffic
+- hard
+- digital
+- shrimp
+- crime
+- recycle
+- album
+bip_39_word_space_1: vehicle
+bip_39_word_space_10: vehicle spawn snap hidden practice traffic hard digital shrimp
+  crime
+bip_39_word_space_11: vehicle spawn snap hidden practice traffic hard digital shrimp
+  crime recycle
+bip_39_word_space_12: vehicle spawn snap hidden practice traffic hard digital shrimp
+  crime recycle album
+bip_39_word_space_2: vehicle spawn
+bip_39_word_space_3: vehicle spawn snap
+bip_39_word_space_4: vehicle spawn snap hidden
+bip_39_word_space_5: vehicle spawn snap hidden practice
+bip_39_word_space_6: vehicle spawn snap hidden practice traffic
+bip_39_word_space_7: vehicle spawn snap hidden practice traffic hard
+bip_39_word_space_8: vehicle spawn snap hidden practice traffic hard digital
+bip_39_word_space_9: vehicle spawn snap hidden practice traffic hard digital shrimp
+bip_39_word_underscore_1: vehicle
+bip_39_word_underscore_10: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime
+bip_39_word_underscore_11: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime_recycle
+bip_39_word_underscore_12: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp_crime_recycle_album
+bip_39_word_underscore_2: vehicle_spawn
+bip_39_word_underscore_3: vehicle_spawn_snap
+bip_39_word_underscore_4: vehicle_spawn_snap_hidden
+bip_39_word_underscore_5: vehicle_spawn_snap_hidden_practice
+bip_39_word_underscore_6: vehicle_spawn_snap_hidden_practice_traffic
+bip_39_word_underscore_7: vehicle_spawn_snap_hidden_practice_traffic_hard
+bip_39_word_underscore_8: vehicle_spawn_snap_hidden_practice_traffic_hard_digital
+bip_39_word_underscore_9: vehicle_spawn_snap_hidden_practice_traffic_hard_digital_shrimp
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_plate_16_01_14__ninety_degree
 id_no_color: 160114ninetydegree
 id_no_size: 16_01_14__ninety_degree
 id_no_type: plate_16_01_14__ninety_degree
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_16_01_14__ninety_degree
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_16_01_14__ninety_degree
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_16_01_14__ninety_degree
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203q0gc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203q0gc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203q0gc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 160114Ninetydegree
 name_no_size: 16 01 14  Ninety Degree
 name_no_size_short: 16 01 14  Ninety Degree
 name_no_type: Plate 16 01 14  Ninety Degree
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_16_01_14__ninety_degree
 oomp_word: leopard herb watermelon
 oomp_word_emoji: ':leopard: :herb: :watermelon:'

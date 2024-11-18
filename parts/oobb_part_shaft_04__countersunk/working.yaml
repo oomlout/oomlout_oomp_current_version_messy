@@ -1,3 +1,222 @@
+bip_39_word_dash_1: door
+bip_39_word_dash_10: door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid
+bip_39_word_dash_11: door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid-gauge
+bip_39_word_dash_12: door-unknown-hip-zoo-decorate-athlete-side-damp-regular-avoid-gauge-across
+bip_39_word_dash_2: door-unknown
+bip_39_word_dash_3: door-unknown-hip
+bip_39_word_dash_4: door-unknown-hip-zoo
+bip_39_word_dash_5: door-unknown-hip-zoo-decorate
+bip_39_word_dash_6: door-unknown-hip-zoo-decorate-athlete
+bip_39_word_dash_7: door-unknown-hip-zoo-decorate-athlete-side
+bip_39_word_dash_8: door-unknown-hip-zoo-decorate-athlete-side-damp
+bip_39_word_dash_9: door-unknown-hip-zoo-decorate-athlete-side-damp-regular
+bip_39_word_new_br_1: door
+bip_39_word_new_br_10: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid
+bip_39_word_new_br_11: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge
+bip_39_word_new_br_12: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular<br>avoid<br>gauge<br>across
+bip_39_word_new_br_2: door<br>unknown
+bip_39_word_new_br_3: door<br>unknown<br>hip
+bip_39_word_new_br_4: door<br>unknown<br>hip<br>zoo
+bip_39_word_new_br_5: door<br>unknown<br>hip<br>zoo<br>decorate
+bip_39_word_new_br_6: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete
+bip_39_word_new_br_7: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side
+bip_39_word_new_br_8: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp
+bip_39_word_new_br_9: door<br>unknown<br>hip<br>zoo<br>decorate<br>athlete<br>side<br>damp<br>regular
+bip_39_word_new_line_1: door
+bip_39_word_new_line_10: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side
+
+  damp
+
+  regular
+
+  avoid'
+bip_39_word_new_line_11: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side
+
+  damp
+
+  regular
+
+  avoid
+
+  gauge'
+bip_39_word_new_line_12: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side
+
+  damp
+
+  regular
+
+  avoid
+
+  gauge
+
+  across'
+bip_39_word_new_line_2: 'door
+
+  unknown'
+bip_39_word_new_line_3: 'door
+
+  unknown
+
+  hip'
+bip_39_word_new_line_4: 'door
+
+  unknown
+
+  hip
+
+  zoo'
+bip_39_word_new_line_5: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate'
+bip_39_word_new_line_6: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete'
+bip_39_word_new_line_7: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side'
+bip_39_word_new_line_8: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side
+
+  damp'
+bip_39_word_new_line_9: 'door
+
+  unknown
+
+  hip
+
+  zoo
+
+  decorate
+
+  athlete
+
+  side
+
+  damp
+
+  regular'
+bip_39_word_no_space_1: door
+bip_39_word_no_space_10: doorunknownhipzoodecorateathletesidedampregularavoid
+bip_39_word_no_space_11: doorunknownhipzoodecorateathletesidedampregularavoidgauge
+bip_39_word_no_space_12: doorunknownhipzoodecorateathletesidedampregularavoidgaugeacross
+bip_39_word_no_space_2: doorunknown
+bip_39_word_no_space_3: doorunknownhip
+bip_39_word_no_space_4: doorunknownhipzoo
+bip_39_word_no_space_5: doorunknownhipzoodecorate
+bip_39_word_no_space_6: doorunknownhipzoodecorateathlete
+bip_39_word_no_space_7: doorunknownhipzoodecorateathleteside
+bip_39_word_no_space_8: doorunknownhipzoodecorateathletesidedamp
+bip_39_word_no_space_9: doorunknownhipzoodecorateathletesidedampregular
+bip_39_word_space_0:
+- door
+- unknown
+- hip
+- zoo
+- decorate
+- athlete
+- side
+- damp
+- regular
+- avoid
+- gauge
+- across
+bip_39_word_space_1: door
+bip_39_word_space_10: door unknown hip zoo decorate athlete side damp regular avoid
+bip_39_word_space_11: door unknown hip zoo decorate athlete side damp regular avoid
+  gauge
+bip_39_word_space_12: door unknown hip zoo decorate athlete side damp regular avoid
+  gauge across
+bip_39_word_space_2: door unknown
+bip_39_word_space_3: door unknown hip
+bip_39_word_space_4: door unknown hip zoo
+bip_39_word_space_5: door unknown hip zoo decorate
+bip_39_word_space_6: door unknown hip zoo decorate athlete
+bip_39_word_space_7: door unknown hip zoo decorate athlete side
+bip_39_word_space_8: door unknown hip zoo decorate athlete side damp
+bip_39_word_space_9: door unknown hip zoo decorate athlete side damp regular
+bip_39_word_underscore_1: door
+bip_39_word_underscore_10: door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid
+bip_39_word_underscore_11: door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid_gauge
+bip_39_word_underscore_12: door_unknown_hip_zoo_decorate_athlete_side_damp_regular_avoid_gauge_across
+bip_39_word_underscore_2: door_unknown
+bip_39_word_underscore_3: door_unknown_hip
+bip_39_word_underscore_4: door_unknown_hip_zoo
+bip_39_word_underscore_5: door_unknown_hip_zoo_decorate
+bip_39_word_underscore_6: door_unknown_hip_zoo_decorate_athlete
+bip_39_word_underscore_7: door_unknown_hip_zoo_decorate_athlete_side
+bip_39_word_underscore_8: door_unknown_hip_zoo_decorate_athlete_side_damp
+bip_39_word_underscore_9: door_unknown_hip_zoo_decorate_athlete_side_damp_regular
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_04__countersunk
 id_no_color: 04countersunk
 id_no_size: 04__countersunk
 id_no_type: shaft_04__countersunk
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__countersunk
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_04__countersunk
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_04__countersunk
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201fmkk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201fmkk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201fmkk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 04Countersunk
 name_no_size: 04  Countersunk
 name_no_size_short: 4  Countersunk
 name_no_type: Shaft 04  Countersunk
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_04__countersunk
 oomp_word: droplet doughnut wink
 oomp_word_emoji: ':droplet: :doughnut: :wink:'

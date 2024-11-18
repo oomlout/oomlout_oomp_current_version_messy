@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+* name_short: 
 ### id
 * oomp_id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
   * classification: electronic

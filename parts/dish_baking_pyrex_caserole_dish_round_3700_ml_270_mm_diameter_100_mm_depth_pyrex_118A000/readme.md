@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Caserole Dish Round 3700 Ml 270 mm Diameter 100 mm Depth Pyrex 118A000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000
   * classification: dish

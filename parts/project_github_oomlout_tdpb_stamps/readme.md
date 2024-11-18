@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Tdpb Stamps
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_tdpb_stamps
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :chestnut: :hospital: :tiger:
 * md5_6_alpha: 47hh5
 * md5_6: 6bd839
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2047hh5)
+[2x1](http://192.168.1.242:1112/?label=oomp%2047hh5)
+[6x4](http://192.168.1.55:1112/?label=oomp%2047hh5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_tdpb_stamps)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ bronze |
 | id_no_color | tdpb_stamps |  
 | id_no_size | tdpb_stamps |  
 | id_no_type | oomlout_tdpb_stamps |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_tdpb_stamps |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_tdpb_stamps |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2047hh5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2047hh5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2047hh5 |  
 | link_redirect | https://github.com/oomlout/tdpb_stamps |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ bronze |
 | name_no_size | Tdpb Stamps |  
 | name_no_size_short | Tdpb Stamps |  
 | name_no_type | Oomlout Tdpb Stamps |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_tdpb_stamps |  
 | oomp_word | chestnut hospital tiger |  
 | oomp_word_emoji | :chestnut: :hospital: :tiger: |  

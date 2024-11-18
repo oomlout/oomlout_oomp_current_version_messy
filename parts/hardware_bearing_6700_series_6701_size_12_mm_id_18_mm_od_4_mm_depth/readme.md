@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6700 Series 6701 Size 12 mm ID 18 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6700_series_6701_size_12_mm_id_18_mm_od_4_mm_depth
   * classification: hardware

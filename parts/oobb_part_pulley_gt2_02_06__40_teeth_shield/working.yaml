@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fluid
+bip_39_word_dash_10: fluid-save-soup-weekend-agree-whale-whip-inch-security-lake
+bip_39_word_dash_11: fluid-save-soup-weekend-agree-whale-whip-inch-security-lake-prevent
+bip_39_word_dash_12: fluid-save-soup-weekend-agree-whale-whip-inch-security-lake-prevent-august
+bip_39_word_dash_2: fluid-save
+bip_39_word_dash_3: fluid-save-soup
+bip_39_word_dash_4: fluid-save-soup-weekend
+bip_39_word_dash_5: fluid-save-soup-weekend-agree
+bip_39_word_dash_6: fluid-save-soup-weekend-agree-whale
+bip_39_word_dash_7: fluid-save-soup-weekend-agree-whale-whip
+bip_39_word_dash_8: fluid-save-soup-weekend-agree-whale-whip-inch
+bip_39_word_dash_9: fluid-save-soup-weekend-agree-whale-whip-inch-security
+bip_39_word_new_br_1: fluid
+bip_39_word_new_br_10: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake
+bip_39_word_new_br_11: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake<br>prevent
+bip_39_word_new_br_12: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security<br>lake<br>prevent<br>august
+bip_39_word_new_br_2: fluid<br>save
+bip_39_word_new_br_3: fluid<br>save<br>soup
+bip_39_word_new_br_4: fluid<br>save<br>soup<br>weekend
+bip_39_word_new_br_5: fluid<br>save<br>soup<br>weekend<br>agree
+bip_39_word_new_br_6: fluid<br>save<br>soup<br>weekend<br>agree<br>whale
+bip_39_word_new_br_7: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip
+bip_39_word_new_br_8: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch
+bip_39_word_new_br_9: fluid<br>save<br>soup<br>weekend<br>agree<br>whale<br>whip<br>inch<br>security
+bip_39_word_new_line_1: fluid
+bip_39_word_new_line_10: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip
+
+  inch
+
+  security
+
+  lake'
+bip_39_word_new_line_11: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip
+
+  inch
+
+  security
+
+  lake
+
+  prevent'
+bip_39_word_new_line_12: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip
+
+  inch
+
+  security
+
+  lake
+
+  prevent
+
+  august'
+bip_39_word_new_line_2: 'fluid
+
+  save'
+bip_39_word_new_line_3: 'fluid
+
+  save
+
+  soup'
+bip_39_word_new_line_4: 'fluid
+
+  save
+
+  soup
+
+  weekend'
+bip_39_word_new_line_5: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree'
+bip_39_word_new_line_6: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale'
+bip_39_word_new_line_7: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip'
+bip_39_word_new_line_8: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip
+
+  inch'
+bip_39_word_new_line_9: 'fluid
+
+  save
+
+  soup
+
+  weekend
+
+  agree
+
+  whale
+
+  whip
+
+  inch
+
+  security'
+bip_39_word_no_space_1: fluid
+bip_39_word_no_space_10: fluidsavesoupweekendagreewhalewhipinchsecuritylake
+bip_39_word_no_space_11: fluidsavesoupweekendagreewhalewhipinchsecuritylakeprevent
+bip_39_word_no_space_12: fluidsavesoupweekendagreewhalewhipinchsecuritylakepreventaugust
+bip_39_word_no_space_2: fluidsave
+bip_39_word_no_space_3: fluidsavesoup
+bip_39_word_no_space_4: fluidsavesoupweekend
+bip_39_word_no_space_5: fluidsavesoupweekendagree
+bip_39_word_no_space_6: fluidsavesoupweekendagreewhale
+bip_39_word_no_space_7: fluidsavesoupweekendagreewhalewhip
+bip_39_word_no_space_8: fluidsavesoupweekendagreewhalewhipinch
+bip_39_word_no_space_9: fluidsavesoupweekendagreewhalewhipinchsecurity
+bip_39_word_space_0:
+- fluid
+- save
+- soup
+- weekend
+- agree
+- whale
+- whip
+- inch
+- security
+- lake
+- prevent
+- august
+bip_39_word_space_1: fluid
+bip_39_word_space_10: fluid save soup weekend agree whale whip inch security lake
+bip_39_word_space_11: fluid save soup weekend agree whale whip inch security lake
+  prevent
+bip_39_word_space_12: fluid save soup weekend agree whale whip inch security lake
+  prevent august
+bip_39_word_space_2: fluid save
+bip_39_word_space_3: fluid save soup
+bip_39_word_space_4: fluid save soup weekend
+bip_39_word_space_5: fluid save soup weekend agree
+bip_39_word_space_6: fluid save soup weekend agree whale
+bip_39_word_space_7: fluid save soup weekend agree whale whip
+bip_39_word_space_8: fluid save soup weekend agree whale whip inch
+bip_39_word_space_9: fluid save soup weekend agree whale whip inch security
+bip_39_word_underscore_1: fluid
+bip_39_word_underscore_10: fluid_save_soup_weekend_agree_whale_whip_inch_security_lake
+bip_39_word_underscore_11: fluid_save_soup_weekend_agree_whale_whip_inch_security_lake_prevent
+bip_39_word_underscore_12: fluid_save_soup_weekend_agree_whale_whip_inch_security_lake_prevent_august
+bip_39_word_underscore_2: fluid_save
+bip_39_word_underscore_3: fluid_save_soup
+bip_39_word_underscore_4: fluid_save_soup_weekend
+bip_39_word_underscore_5: fluid_save_soup_weekend_agree
+bip_39_word_underscore_6: fluid_save_soup_weekend_agree_whale
+bip_39_word_underscore_7: fluid_save_soup_weekend_agree_whale_whip
+bip_39_word_underscore_8: fluid_save_soup_weekend_agree_whale_whip_inch
+bip_39_word_underscore_9: fluid_save_soup_weekend_agree_whale_whip_inch_security
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_02_06__40_teeth_shield
 id_no_color: 020640teethshield
 id_no_size: 02_06__40_teeth_shield
 id_no_type: pulley_gt2_02_06__40_teeth_shield
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__40_teeth_shield
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209hspr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209hspr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209hspr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020640Teethshield
 name_no_size: 02 06  40 Teeth Shield
 name_no_size_short: 02 06  40 Teeth Shield
 name_no_type: Pulley Gt2 02 06  40 Teeth Shield
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__40_teeth_shield
 oomp_word: two whale diamonds
 oomp_word_emoji: ':two: :whale: :diamonds:'

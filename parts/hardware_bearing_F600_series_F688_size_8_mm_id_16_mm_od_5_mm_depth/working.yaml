@@ -1,3 +1,222 @@
+bip_39_word_dash_1: select
+bip_39_word_dash_10: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster
+bip_39_word_dash_11: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster-smart
+bip_39_word_dash_12: select-sorry-stadium-seat-seed-brass-diesel-piece-screen-cluster-smart-among
+bip_39_word_dash_2: select-sorry
+bip_39_word_dash_3: select-sorry-stadium
+bip_39_word_dash_4: select-sorry-stadium-seat
+bip_39_word_dash_5: select-sorry-stadium-seat-seed
+bip_39_word_dash_6: select-sorry-stadium-seat-seed-brass
+bip_39_word_dash_7: select-sorry-stadium-seat-seed-brass-diesel
+bip_39_word_dash_8: select-sorry-stadium-seat-seed-brass-diesel-piece
+bip_39_word_dash_9: select-sorry-stadium-seat-seed-brass-diesel-piece-screen
+bip_39_word_new_br_1: select
+bip_39_word_new_br_10: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster
+bip_39_word_new_br_11: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart
+bip_39_word_new_br_12: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen<br>cluster<br>smart<br>among
+bip_39_word_new_br_2: select<br>sorry
+bip_39_word_new_br_3: select<br>sorry<br>stadium
+bip_39_word_new_br_4: select<br>sorry<br>stadium<br>seat
+bip_39_word_new_br_5: select<br>sorry<br>stadium<br>seat<br>seed
+bip_39_word_new_br_6: select<br>sorry<br>stadium<br>seat<br>seed<br>brass
+bip_39_word_new_br_7: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel
+bip_39_word_new_br_8: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece
+bip_39_word_new_br_9: select<br>sorry<br>stadium<br>seat<br>seed<br>brass<br>diesel<br>piece<br>screen
+bip_39_word_new_line_1: select
+bip_39_word_new_line_10: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel
+
+  piece
+
+  screen
+
+  cluster'
+bip_39_word_new_line_11: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel
+
+  piece
+
+  screen
+
+  cluster
+
+  smart'
+bip_39_word_new_line_12: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel
+
+  piece
+
+  screen
+
+  cluster
+
+  smart
+
+  among'
+bip_39_word_new_line_2: 'select
+
+  sorry'
+bip_39_word_new_line_3: 'select
+
+  sorry
+
+  stadium'
+bip_39_word_new_line_4: 'select
+
+  sorry
+
+  stadium
+
+  seat'
+bip_39_word_new_line_5: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed'
+bip_39_word_new_line_6: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass'
+bip_39_word_new_line_7: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel'
+bip_39_word_new_line_8: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel
+
+  piece'
+bip_39_word_new_line_9: 'select
+
+  sorry
+
+  stadium
+
+  seat
+
+  seed
+
+  brass
+
+  diesel
+
+  piece
+
+  screen'
+bip_39_word_no_space_1: select
+bip_39_word_no_space_10: selectsorrystadiumseatseedbrassdieselpiecescreencluster
+bip_39_word_no_space_11: selectsorrystadiumseatseedbrassdieselpiecescreenclustersmart
+bip_39_word_no_space_12: selectsorrystadiumseatseedbrassdieselpiecescreenclustersmartamong
+bip_39_word_no_space_2: selectsorry
+bip_39_word_no_space_3: selectsorrystadium
+bip_39_word_no_space_4: selectsorrystadiumseat
+bip_39_word_no_space_5: selectsorrystadiumseatseed
+bip_39_word_no_space_6: selectsorrystadiumseatseedbrass
+bip_39_word_no_space_7: selectsorrystadiumseatseedbrassdiesel
+bip_39_word_no_space_8: selectsorrystadiumseatseedbrassdieselpiece
+bip_39_word_no_space_9: selectsorrystadiumseatseedbrassdieselpiecescreen
+bip_39_word_space_0:
+- select
+- sorry
+- stadium
+- seat
+- seed
+- brass
+- diesel
+- piece
+- screen
+- cluster
+- smart
+- among
+bip_39_word_space_1: select
+bip_39_word_space_10: select sorry stadium seat seed brass diesel piece screen cluster
+bip_39_word_space_11: select sorry stadium seat seed brass diesel piece screen cluster
+  smart
+bip_39_word_space_12: select sorry stadium seat seed brass diesel piece screen cluster
+  smart among
+bip_39_word_space_2: select sorry
+bip_39_word_space_3: select sorry stadium
+bip_39_word_space_4: select sorry stadium seat
+bip_39_word_space_5: select sorry stadium seat seed
+bip_39_word_space_6: select sorry stadium seat seed brass
+bip_39_word_space_7: select sorry stadium seat seed brass diesel
+bip_39_word_space_8: select sorry stadium seat seed brass diesel piece
+bip_39_word_space_9: select sorry stadium seat seed brass diesel piece screen
+bip_39_word_underscore_1: select
+bip_39_word_underscore_10: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster
+bip_39_word_underscore_11: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster_smart
+bip_39_word_underscore_12: select_sorry_stadium_seat_seed_brass_diesel_piece_screen_cluster_smart_among
+bip_39_word_underscore_2: select_sorry
+bip_39_word_underscore_3: select_sorry_stadium
+bip_39_word_underscore_4: select_sorry_stadium_seat
+bip_39_word_underscore_5: select_sorry_stadium_seat_seed
+bip_39_word_underscore_6: select_sorry_stadium_seat_seed_brass
+bip_39_word_underscore_7: select_sorry_stadium_seat_seed_brass_diesel
+bip_39_word_underscore_8: select_sorry_stadium_seat_seed_brass_diesel_piece
+bip_39_word_underscore_9: select_sorry_stadium_seat_seed_brass_diesel_piece_screen
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
 id_no_color: 8_mm_id_16_mm_od_5_mm_depth
 id_no_size: F688_size_8_mm_id_16_mm_od_5_mm_depth
 id_no_type: F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204z8cr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204z8cr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204z8cr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 8 mm ID 16 mm OD 5 mm Depth
 name_no_size: F688 Size 8 mm ID 16 mm OD 5 mm Depth
 name_no_size_short: F688 Size 8 Mm Id 16 Mm Od 5 Mm Depth
 name_no_type: F600 Series F688 Size 8 mm ID 16 mm OD 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brF688
+oomlout_short_code_upper: BRF688
 oomp_key: oomp_hardware_bearing_F600_series_F688_size_8_mm_id_16_mm_od_5_mm_depth
 oomp_word: speaker bowling sunglasses
 oomp_word_emoji: ':speaker: :bowling: :sunglasses:'

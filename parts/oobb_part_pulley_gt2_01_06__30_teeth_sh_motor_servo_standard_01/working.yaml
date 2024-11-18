@@ -1,3 +1,222 @@
+bip_39_word_dash_1: battle
+bip_39_word_dash_10: battle-frog-trophy-review-fatal-over-burden-sell-space-million
+bip_39_word_dash_11: battle-frog-trophy-review-fatal-over-burden-sell-space-million-sunset
+bip_39_word_dash_12: battle-frog-trophy-review-fatal-over-burden-sell-space-million-sunset-aunt
+bip_39_word_dash_2: battle-frog
+bip_39_word_dash_3: battle-frog-trophy
+bip_39_word_dash_4: battle-frog-trophy-review
+bip_39_word_dash_5: battle-frog-trophy-review-fatal
+bip_39_word_dash_6: battle-frog-trophy-review-fatal-over
+bip_39_word_dash_7: battle-frog-trophy-review-fatal-over-burden
+bip_39_word_dash_8: battle-frog-trophy-review-fatal-over-burden-sell
+bip_39_word_dash_9: battle-frog-trophy-review-fatal-over-burden-sell-space
+bip_39_word_new_br_1: battle
+bip_39_word_new_br_10: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million
+bip_39_word_new_br_11: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million<br>sunset
+bip_39_word_new_br_12: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space<br>million<br>sunset<br>aunt
+bip_39_word_new_br_2: battle<br>frog
+bip_39_word_new_br_3: battle<br>frog<br>trophy
+bip_39_word_new_br_4: battle<br>frog<br>trophy<br>review
+bip_39_word_new_br_5: battle<br>frog<br>trophy<br>review<br>fatal
+bip_39_word_new_br_6: battle<br>frog<br>trophy<br>review<br>fatal<br>over
+bip_39_word_new_br_7: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden
+bip_39_word_new_br_8: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell
+bip_39_word_new_br_9: battle<br>frog<br>trophy<br>review<br>fatal<br>over<br>burden<br>sell<br>space
+bip_39_word_new_line_1: battle
+bip_39_word_new_line_10: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million'
+bip_39_word_new_line_11: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million
+
+  sunset'
+bip_39_word_new_line_12: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space
+
+  million
+
+  sunset
+
+  aunt'
+bip_39_word_new_line_2: 'battle
+
+  frog'
+bip_39_word_new_line_3: 'battle
+
+  frog
+
+  trophy'
+bip_39_word_new_line_4: 'battle
+
+  frog
+
+  trophy
+
+  review'
+bip_39_word_new_line_5: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal'
+bip_39_word_new_line_6: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over'
+bip_39_word_new_line_7: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden'
+bip_39_word_new_line_8: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell'
+bip_39_word_new_line_9: 'battle
+
+  frog
+
+  trophy
+
+  review
+
+  fatal
+
+  over
+
+  burden
+
+  sell
+
+  space'
+bip_39_word_no_space_1: battle
+bip_39_word_no_space_10: battlefrogtrophyreviewfataloverburdensellspacemillion
+bip_39_word_no_space_11: battlefrogtrophyreviewfataloverburdensellspacemillionsunset
+bip_39_word_no_space_12: battlefrogtrophyreviewfataloverburdensellspacemillionsunsetaunt
+bip_39_word_no_space_2: battlefrog
+bip_39_word_no_space_3: battlefrogtrophy
+bip_39_word_no_space_4: battlefrogtrophyreview
+bip_39_word_no_space_5: battlefrogtrophyreviewfatal
+bip_39_word_no_space_6: battlefrogtrophyreviewfatalover
+bip_39_word_no_space_7: battlefrogtrophyreviewfataloverburden
+bip_39_word_no_space_8: battlefrogtrophyreviewfataloverburdensell
+bip_39_word_no_space_9: battlefrogtrophyreviewfataloverburdensellspace
+bip_39_word_space_0:
+- battle
+- frog
+- trophy
+- review
+- fatal
+- over
+- burden
+- sell
+- space
+- million
+- sunset
+- aunt
+bip_39_word_space_1: battle
+bip_39_word_space_10: battle frog trophy review fatal over burden sell space million
+bip_39_word_space_11: battle frog trophy review fatal over burden sell space million
+  sunset
+bip_39_word_space_12: battle frog trophy review fatal over burden sell space million
+  sunset aunt
+bip_39_word_space_2: battle frog
+bip_39_word_space_3: battle frog trophy
+bip_39_word_space_4: battle frog trophy review
+bip_39_word_space_5: battle frog trophy review fatal
+bip_39_word_space_6: battle frog trophy review fatal over
+bip_39_word_space_7: battle frog trophy review fatal over burden
+bip_39_word_space_8: battle frog trophy review fatal over burden sell
+bip_39_word_space_9: battle frog trophy review fatal over burden sell space
+bip_39_word_underscore_1: battle
+bip_39_word_underscore_10: battle_frog_trophy_review_fatal_over_burden_sell_space_million
+bip_39_word_underscore_11: battle_frog_trophy_review_fatal_over_burden_sell_space_million_sunset
+bip_39_word_underscore_12: battle_frog_trophy_review_fatal_over_burden_sell_space_million_sunset_aunt
+bip_39_word_underscore_2: battle_frog
+bip_39_word_underscore_3: battle_frog_trophy
+bip_39_word_underscore_4: battle_frog_trophy_review
+bip_39_word_underscore_5: battle_frog_trophy_review_fatal
+bip_39_word_underscore_6: battle_frog_trophy_review_fatal_over
+bip_39_word_underscore_7: battle_frog_trophy_review_fatal_over_burden
+bip_39_word_underscore_8: battle_frog_trophy_review_fatal_over_burden_sell
+bip_39_word_underscore_9: battle_frog_trophy_review_fatal_over_burden_sell_space
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
 id_no_color: 010630teethshmotorservostandard01
 id_no_size: 01_06__30_teeth_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209l4ir
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209l4ir
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209l4ir
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010630Teethshmotorservostandard01
 name_no_size: 01 06  30 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 01 06  30 Teeth Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 01 06  30 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__30_teeth_sh_motor_servo_standard_01
 oomp_word: four eyeglasses kiss
 oomp_word_emoji: ':four: :eyeglasses: :kiss:'

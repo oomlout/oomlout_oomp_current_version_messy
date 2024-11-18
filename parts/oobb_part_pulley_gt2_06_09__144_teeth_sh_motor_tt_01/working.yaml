@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pony
+bip_39_word_dash_10: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon
+bip_39_word_dash_11: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon-this
+bip_39_word_dash_12: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit-weapon-this-able
+bip_39_word_dash_2: pony-sustain
+bip_39_word_dash_3: pony-sustain-supreme
+bip_39_word_dash_4: pony-sustain-supreme-bubble
+bip_39_word_dash_5: pony-sustain-supreme-bubble-ginger
+bip_39_word_dash_6: pony-sustain-supreme-bubble-ginger-story
+bip_39_word_dash_7: pony-sustain-supreme-bubble-ginger-story-olive
+bip_39_word_dash_8: pony-sustain-supreme-bubble-ginger-story-olive-legend
+bip_39_word_dash_9: pony-sustain-supreme-bubble-ginger-story-olive-legend-exit
+bip_39_word_new_br_1: pony
+bip_39_word_new_br_10: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon
+bip_39_word_new_br_11: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon<br>this
+bip_39_word_new_br_12: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit<br>weapon<br>this<br>able
+bip_39_word_new_br_2: pony<br>sustain
+bip_39_word_new_br_3: pony<br>sustain<br>supreme
+bip_39_word_new_br_4: pony<br>sustain<br>supreme<br>bubble
+bip_39_word_new_br_5: pony<br>sustain<br>supreme<br>bubble<br>ginger
+bip_39_word_new_br_6: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story
+bip_39_word_new_br_7: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive
+bip_39_word_new_br_8: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend
+bip_39_word_new_br_9: pony<br>sustain<br>supreme<br>bubble<br>ginger<br>story<br>olive<br>legend<br>exit
+bip_39_word_new_line_1: pony
+bip_39_word_new_line_10: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive
+
+  legend
+
+  exit
+
+  weapon'
+bip_39_word_new_line_11: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive
+
+  legend
+
+  exit
+
+  weapon
+
+  this'
+bip_39_word_new_line_12: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive
+
+  legend
+
+  exit
+
+  weapon
+
+  this
+
+  able'
+bip_39_word_new_line_2: 'pony
+
+  sustain'
+bip_39_word_new_line_3: 'pony
+
+  sustain
+
+  supreme'
+bip_39_word_new_line_4: 'pony
+
+  sustain
+
+  supreme
+
+  bubble'
+bip_39_word_new_line_5: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger'
+bip_39_word_new_line_6: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story'
+bip_39_word_new_line_7: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive'
+bip_39_word_new_line_8: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive
+
+  legend'
+bip_39_word_new_line_9: 'pony
+
+  sustain
+
+  supreme
+
+  bubble
+
+  ginger
+
+  story
+
+  olive
+
+  legend
+
+  exit'
+bip_39_word_no_space_1: pony
+bip_39_word_no_space_10: ponysustainsupremebubblegingerstoryolivelegendexitweapon
+bip_39_word_no_space_11: ponysustainsupremebubblegingerstoryolivelegendexitweaponthis
+bip_39_word_no_space_12: ponysustainsupremebubblegingerstoryolivelegendexitweaponthisable
+bip_39_word_no_space_2: ponysustain
+bip_39_word_no_space_3: ponysustainsupreme
+bip_39_word_no_space_4: ponysustainsupremebubble
+bip_39_word_no_space_5: ponysustainsupremebubbleginger
+bip_39_word_no_space_6: ponysustainsupremebubblegingerstory
+bip_39_word_no_space_7: ponysustainsupremebubblegingerstoryolive
+bip_39_word_no_space_8: ponysustainsupremebubblegingerstoryolivelegend
+bip_39_word_no_space_9: ponysustainsupremebubblegingerstoryolivelegendexit
+bip_39_word_space_0:
+- pony
+- sustain
+- supreme
+- bubble
+- ginger
+- story
+- olive
+- legend
+- exit
+- weapon
+- this
+- able
+bip_39_word_space_1: pony
+bip_39_word_space_10: pony sustain supreme bubble ginger story olive legend exit weapon
+bip_39_word_space_11: pony sustain supreme bubble ginger story olive legend exit weapon
+  this
+bip_39_word_space_12: pony sustain supreme bubble ginger story olive legend exit weapon
+  this able
+bip_39_word_space_2: pony sustain
+bip_39_word_space_3: pony sustain supreme
+bip_39_word_space_4: pony sustain supreme bubble
+bip_39_word_space_5: pony sustain supreme bubble ginger
+bip_39_word_space_6: pony sustain supreme bubble ginger story
+bip_39_word_space_7: pony sustain supreme bubble ginger story olive
+bip_39_word_space_8: pony sustain supreme bubble ginger story olive legend
+bip_39_word_space_9: pony sustain supreme bubble ginger story olive legend exit
+bip_39_word_underscore_1: pony
+bip_39_word_underscore_10: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon
+bip_39_word_underscore_11: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon_this
+bip_39_word_underscore_12: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit_weapon_this_able
+bip_39_word_underscore_2: pony_sustain
+bip_39_word_underscore_3: pony_sustain_supreme
+bip_39_word_underscore_4: pony_sustain_supreme_bubble
+bip_39_word_underscore_5: pony_sustain_supreme_bubble_ginger
+bip_39_word_underscore_6: pony_sustain_supreme_bubble_ginger_story
+bip_39_word_underscore_7: pony_sustain_supreme_bubble_ginger_story_olive
+bip_39_word_underscore_8: pony_sustain_supreme_bubble_ginger_story_olive_legend
+bip_39_word_underscore_9: pony_sustain_supreme_bubble_ginger_story_olive_legend_exit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01
 id_no_color: 0609144teethshmotortt01
 id_no_size: 06_09__144_teeth_sh_motor_tt_01
 id_no_type: pulley_gt2_06_09__144_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20833y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20833y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20833y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0609144Teethshmotortt01
 name_no_size: 06 09  144 Teeth Sh Motor Tt 01
 name_no_size_short: 06 09  144 Teeth Sh Motor Tt 01
 name_no_type: Pulley Gt2 06 09  144 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_09__144_teeth_sh_motor_tt_01
 oomp_word: kissing doughnut ramen
 oomp_word_emoji: ':kissing: :doughnut: :ramen:'

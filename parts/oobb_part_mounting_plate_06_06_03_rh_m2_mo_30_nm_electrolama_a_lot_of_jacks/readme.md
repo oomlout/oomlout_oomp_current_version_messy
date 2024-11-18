@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks
   * classification: oobb

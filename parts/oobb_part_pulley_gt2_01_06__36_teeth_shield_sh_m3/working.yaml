@@ -1,3 +1,222 @@
+bip_39_word_dash_1: endless
+bip_39_word_dash_10: endless-trip-prosper-remain-much-village-tired-head-slim-cattle
+bip_39_word_dash_11: endless-trip-prosper-remain-much-village-tired-head-slim-cattle-attack
+bip_39_word_dash_12: endless-trip-prosper-remain-much-village-tired-head-slim-cattle-attack-attend
+bip_39_word_dash_2: endless-trip
+bip_39_word_dash_3: endless-trip-prosper
+bip_39_word_dash_4: endless-trip-prosper-remain
+bip_39_word_dash_5: endless-trip-prosper-remain-much
+bip_39_word_dash_6: endless-trip-prosper-remain-much-village
+bip_39_word_dash_7: endless-trip-prosper-remain-much-village-tired
+bip_39_word_dash_8: endless-trip-prosper-remain-much-village-tired-head
+bip_39_word_dash_9: endless-trip-prosper-remain-much-village-tired-head-slim
+bip_39_word_new_br_1: endless
+bip_39_word_new_br_10: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle
+bip_39_word_new_br_11: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack
+bip_39_word_new_br_12: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim<br>cattle<br>attack<br>attend
+bip_39_word_new_br_2: endless<br>trip
+bip_39_word_new_br_3: endless<br>trip<br>prosper
+bip_39_word_new_br_4: endless<br>trip<br>prosper<br>remain
+bip_39_word_new_br_5: endless<br>trip<br>prosper<br>remain<br>much
+bip_39_word_new_br_6: endless<br>trip<br>prosper<br>remain<br>much<br>village
+bip_39_word_new_br_7: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired
+bip_39_word_new_br_8: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head
+bip_39_word_new_br_9: endless<br>trip<br>prosper<br>remain<br>much<br>village<br>tired<br>head<br>slim
+bip_39_word_new_line_1: endless
+bip_39_word_new_line_10: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired
+
+  head
+
+  slim
+
+  cattle'
+bip_39_word_new_line_11: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired
+
+  head
+
+  slim
+
+  cattle
+
+  attack'
+bip_39_word_new_line_12: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired
+
+  head
+
+  slim
+
+  cattle
+
+  attack
+
+  attend'
+bip_39_word_new_line_2: 'endless
+
+  trip'
+bip_39_word_new_line_3: 'endless
+
+  trip
+
+  prosper'
+bip_39_word_new_line_4: 'endless
+
+  trip
+
+  prosper
+
+  remain'
+bip_39_word_new_line_5: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much'
+bip_39_word_new_line_6: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village'
+bip_39_word_new_line_7: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired'
+bip_39_word_new_line_8: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired
+
+  head'
+bip_39_word_new_line_9: 'endless
+
+  trip
+
+  prosper
+
+  remain
+
+  much
+
+  village
+
+  tired
+
+  head
+
+  slim'
+bip_39_word_no_space_1: endless
+bip_39_word_no_space_10: endlesstripprosperremainmuchvillagetiredheadslimcattle
+bip_39_word_no_space_11: endlesstripprosperremainmuchvillagetiredheadslimcattleattack
+bip_39_word_no_space_12: endlesstripprosperremainmuchvillagetiredheadslimcattleattackattend
+bip_39_word_no_space_2: endlesstrip
+bip_39_word_no_space_3: endlesstripprosper
+bip_39_word_no_space_4: endlesstripprosperremain
+bip_39_word_no_space_5: endlesstripprosperremainmuch
+bip_39_word_no_space_6: endlesstripprosperremainmuchvillage
+bip_39_word_no_space_7: endlesstripprosperremainmuchvillagetired
+bip_39_word_no_space_8: endlesstripprosperremainmuchvillagetiredhead
+bip_39_word_no_space_9: endlesstripprosperremainmuchvillagetiredheadslim
+bip_39_word_space_0:
+- endless
+- trip
+- prosper
+- remain
+- much
+- village
+- tired
+- head
+- slim
+- cattle
+- attack
+- attend
+bip_39_word_space_1: endless
+bip_39_word_space_10: endless trip prosper remain much village tired head slim cattle
+bip_39_word_space_11: endless trip prosper remain much village tired head slim cattle
+  attack
+bip_39_word_space_12: endless trip prosper remain much village tired head slim cattle
+  attack attend
+bip_39_word_space_2: endless trip
+bip_39_word_space_3: endless trip prosper
+bip_39_word_space_4: endless trip prosper remain
+bip_39_word_space_5: endless trip prosper remain much
+bip_39_word_space_6: endless trip prosper remain much village
+bip_39_word_space_7: endless trip prosper remain much village tired
+bip_39_word_space_8: endless trip prosper remain much village tired head
+bip_39_word_space_9: endless trip prosper remain much village tired head slim
+bip_39_word_underscore_1: endless
+bip_39_word_underscore_10: endless_trip_prosper_remain_much_village_tired_head_slim_cattle
+bip_39_word_underscore_11: endless_trip_prosper_remain_much_village_tired_head_slim_cattle_attack
+bip_39_word_underscore_12: endless_trip_prosper_remain_much_village_tired_head_slim_cattle_attack_attend
+bip_39_word_underscore_2: endless_trip
+bip_39_word_underscore_3: endless_trip_prosper
+bip_39_word_underscore_4: endless_trip_prosper_remain
+bip_39_word_underscore_5: endless_trip_prosper_remain_much
+bip_39_word_underscore_6: endless_trip_prosper_remain_much_village
+bip_39_word_underscore_7: endless_trip_prosper_remain_much_village_tired
+bip_39_word_underscore_8: endless_trip_prosper_remain_much_village_tired_head
+bip_39_word_underscore_9: endless_trip_prosper_remain_much_village_tired_head_slim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__36_teeth_shield_sh_m3
 id_no_color: 010636teethshieldshm3
 id_no_size: 01_06__36_teeth_shield_sh_m3
 id_no_type: pulley_gt2_01_06__36_teeth_shield_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20921ft
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20921ft
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20921ft
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010636Teethshieldshm3
 name_no_size: 01 06  36 Teeth Shield Sh M3
 name_no_size_short: 01 06  36 Teeth Shield Sh M3
 name_no_type: Pulley Gt2 01 06  36 Teeth Shield Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__36_teeth_shield_sh_m3
 oomp_word: tram dancer lemon
 oomp_word_emoji: ':tram: :dancer: :lemon:'

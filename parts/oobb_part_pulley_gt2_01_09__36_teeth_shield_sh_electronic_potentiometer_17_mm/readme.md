@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 01 09  36 Teeth Shield Sh Electronic Potentiometer 17 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_01_09__36_teeth_shield_sh_electronic_potentiometer_17_mm
   * classification: oobb

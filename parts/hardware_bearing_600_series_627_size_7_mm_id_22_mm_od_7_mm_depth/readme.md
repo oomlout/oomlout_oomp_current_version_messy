@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 600 Series 627 Size 7 mm ID 22 mm OD 7 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_600_series_627_size_7_mm_id_22_mm_od_7_mm_depth
   * classification: hardware

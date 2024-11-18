@@ -1,3 +1,223 @@
+bip_39_word_dash_1: visit
+bip_39_word_dash_10: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease
+bip_39_word_dash_11: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease-venture
+bip_39_word_dash_12: visit-little-steel-today-club-vault-envelope-drift-cinnamon-decrease-venture-argue
+bip_39_word_dash_2: visit-little
+bip_39_word_dash_3: visit-little-steel
+bip_39_word_dash_4: visit-little-steel-today
+bip_39_word_dash_5: visit-little-steel-today-club
+bip_39_word_dash_6: visit-little-steel-today-club-vault
+bip_39_word_dash_7: visit-little-steel-today-club-vault-envelope
+bip_39_word_dash_8: visit-little-steel-today-club-vault-envelope-drift
+bip_39_word_dash_9: visit-little-steel-today-club-vault-envelope-drift-cinnamon
+bip_39_word_new_br_1: visit
+bip_39_word_new_br_10: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease
+bip_39_word_new_br_11: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture
+bip_39_word_new_br_12: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon<br>decrease<br>venture<br>argue
+bip_39_word_new_br_2: visit<br>little
+bip_39_word_new_br_3: visit<br>little<br>steel
+bip_39_word_new_br_4: visit<br>little<br>steel<br>today
+bip_39_word_new_br_5: visit<br>little<br>steel<br>today<br>club
+bip_39_word_new_br_6: visit<br>little<br>steel<br>today<br>club<br>vault
+bip_39_word_new_br_7: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope
+bip_39_word_new_br_8: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift
+bip_39_word_new_br_9: visit<br>little<br>steel<br>today<br>club<br>vault<br>envelope<br>drift<br>cinnamon
+bip_39_word_new_line_1: visit
+bip_39_word_new_line_10: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope
+
+  drift
+
+  cinnamon
+
+  decrease'
+bip_39_word_new_line_11: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope
+
+  drift
+
+  cinnamon
+
+  decrease
+
+  venture'
+bip_39_word_new_line_12: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope
+
+  drift
+
+  cinnamon
+
+  decrease
+
+  venture
+
+  argue'
+bip_39_word_new_line_2: 'visit
+
+  little'
+bip_39_word_new_line_3: 'visit
+
+  little
+
+  steel'
+bip_39_word_new_line_4: 'visit
+
+  little
+
+  steel
+
+  today'
+bip_39_word_new_line_5: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club'
+bip_39_word_new_line_6: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault'
+bip_39_word_new_line_7: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope'
+bip_39_word_new_line_8: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope
+
+  drift'
+bip_39_word_new_line_9: 'visit
+
+  little
+
+  steel
+
+  today
+
+  club
+
+  vault
+
+  envelope
+
+  drift
+
+  cinnamon'
+bip_39_word_no_space_1: visit
+bip_39_word_no_space_10: visitlittlesteeltodayclubvaultenvelopedriftcinnamondecrease
+bip_39_word_no_space_11: visitlittlesteeltodayclubvaultenvelopedriftcinnamondecreaseventure
+bip_39_word_no_space_12: visitlittlesteeltodayclubvaultenvelopedriftcinnamondecreaseventureargue
+bip_39_word_no_space_2: visitlittle
+bip_39_word_no_space_3: visitlittlesteel
+bip_39_word_no_space_4: visitlittlesteeltoday
+bip_39_word_no_space_5: visitlittlesteeltodayclub
+bip_39_word_no_space_6: visitlittlesteeltodayclubvault
+bip_39_word_no_space_7: visitlittlesteeltodayclubvaultenvelope
+bip_39_word_no_space_8: visitlittlesteeltodayclubvaultenvelopedrift
+bip_39_word_no_space_9: visitlittlesteeltodayclubvaultenvelopedriftcinnamon
+bip_39_word_space_0:
+- visit
+- little
+- steel
+- today
+- club
+- vault
+- envelope
+- drift
+- cinnamon
+- decrease
+- venture
+- argue
+bip_39_word_space_1: visit
+bip_39_word_space_10: visit little steel today club vault envelope drift cinnamon
+  decrease
+bip_39_word_space_11: visit little steel today club vault envelope drift cinnamon
+  decrease venture
+bip_39_word_space_12: visit little steel today club vault envelope drift cinnamon
+  decrease venture argue
+bip_39_word_space_2: visit little
+bip_39_word_space_3: visit little steel
+bip_39_word_space_4: visit little steel today
+bip_39_word_space_5: visit little steel today club
+bip_39_word_space_6: visit little steel today club vault
+bip_39_word_space_7: visit little steel today club vault envelope
+bip_39_word_space_8: visit little steel today club vault envelope drift
+bip_39_word_space_9: visit little steel today club vault envelope drift cinnamon
+bip_39_word_underscore_1: visit
+bip_39_word_underscore_10: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease
+bip_39_word_underscore_11: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease_venture
+bip_39_word_underscore_12: visit_little_steel_today_club_vault_envelope_drift_cinnamon_decrease_venture_argue
+bip_39_word_underscore_2: visit_little
+bip_39_word_underscore_3: visit_little_steel
+bip_39_word_underscore_4: visit_little_steel_today
+bip_39_word_underscore_5: visit_little_steel_today_club
+bip_39_word_underscore_6: visit_little_steel_today_club_vault
+bip_39_word_underscore_7: visit_little_steel_today_club_vault_envelope
+bip_39_word_underscore_8: visit_little_steel_today_club_vault_envelope_drift
+bip_39_word_underscore_9: visit_little_steel_today_club_vault_envelope_drift_cinnamon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_11_15_27
 id_no_color: '111527'
 id_no_size: '11_15_27'
 id_no_type: tray_11_15_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_15_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_15_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207947i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207947i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207947i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111527'
 name_no_size: 11 15 27
 name_no_size_short: 11 15 27
 name_no_type: Tray 11 15 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_15_27
 oomp_word: fries anchor clipboard
 oomp_word_emoji: ':fries: :anchor: :clipboard:'

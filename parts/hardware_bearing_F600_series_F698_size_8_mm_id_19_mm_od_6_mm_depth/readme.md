@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing F600 Series F698 Size 8 mm ID 19 mm OD 6 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_F600_series_F698_size_8_mm_id_19_mm_od_6_mm_depth
   * classification: hardware

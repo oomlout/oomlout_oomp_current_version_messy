@@ -1,3 +1,222 @@
+bip_39_word_dash_1: home
+bip_39_word_dash_10: home-quantum-december-oil-noise-alpha-void-clutch-federal-toss
+bip_39_word_dash_11: home-quantum-december-oil-noise-alpha-void-clutch-federal-toss-sport
+bip_39_word_dash_12: home-quantum-december-oil-noise-alpha-void-clutch-federal-toss-sport-agent
+bip_39_word_dash_2: home-quantum
+bip_39_word_dash_3: home-quantum-december
+bip_39_word_dash_4: home-quantum-december-oil
+bip_39_word_dash_5: home-quantum-december-oil-noise
+bip_39_word_dash_6: home-quantum-december-oil-noise-alpha
+bip_39_word_dash_7: home-quantum-december-oil-noise-alpha-void
+bip_39_word_dash_8: home-quantum-december-oil-noise-alpha-void-clutch
+bip_39_word_dash_9: home-quantum-december-oil-noise-alpha-void-clutch-federal
+bip_39_word_new_br_1: home
+bip_39_word_new_br_10: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss
+bip_39_word_new_br_11: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss<br>sport
+bip_39_word_new_br_12: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal<br>toss<br>sport<br>agent
+bip_39_word_new_br_2: home<br>quantum
+bip_39_word_new_br_3: home<br>quantum<br>december
+bip_39_word_new_br_4: home<br>quantum<br>december<br>oil
+bip_39_word_new_br_5: home<br>quantum<br>december<br>oil<br>noise
+bip_39_word_new_br_6: home<br>quantum<br>december<br>oil<br>noise<br>alpha
+bip_39_word_new_br_7: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void
+bip_39_word_new_br_8: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch
+bip_39_word_new_br_9: home<br>quantum<br>december<br>oil<br>noise<br>alpha<br>void<br>clutch<br>federal
+bip_39_word_new_line_1: home
+bip_39_word_new_line_10: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss'
+bip_39_word_new_line_11: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss
+
+  sport'
+bip_39_word_new_line_12: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal
+
+  toss
+
+  sport
+
+  agent'
+bip_39_word_new_line_2: 'home
+
+  quantum'
+bip_39_word_new_line_3: 'home
+
+  quantum
+
+  december'
+bip_39_word_new_line_4: 'home
+
+  quantum
+
+  december
+
+  oil'
+bip_39_word_new_line_5: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise'
+bip_39_word_new_line_6: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha'
+bip_39_word_new_line_7: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void'
+bip_39_word_new_line_8: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch'
+bip_39_word_new_line_9: 'home
+
+  quantum
+
+  december
+
+  oil
+
+  noise
+
+  alpha
+
+  void
+
+  clutch
+
+  federal'
+bip_39_word_no_space_1: home
+bip_39_word_no_space_10: homequantumdecemberoilnoisealphavoidclutchfederaltoss
+bip_39_word_no_space_11: homequantumdecemberoilnoisealphavoidclutchfederaltosssport
+bip_39_word_no_space_12: homequantumdecemberoilnoisealphavoidclutchfederaltosssportagent
+bip_39_word_no_space_2: homequantum
+bip_39_word_no_space_3: homequantumdecember
+bip_39_word_no_space_4: homequantumdecemberoil
+bip_39_word_no_space_5: homequantumdecemberoilnoise
+bip_39_word_no_space_6: homequantumdecemberoilnoisealpha
+bip_39_word_no_space_7: homequantumdecemberoilnoisealphavoid
+bip_39_word_no_space_8: homequantumdecemberoilnoisealphavoidclutch
+bip_39_word_no_space_9: homequantumdecemberoilnoisealphavoidclutchfederal
+bip_39_word_space_0:
+- home
+- quantum
+- december
+- oil
+- noise
+- alpha
+- void
+- clutch
+- federal
+- toss
+- sport
+- agent
+bip_39_word_space_1: home
+bip_39_word_space_10: home quantum december oil noise alpha void clutch federal toss
+bip_39_word_space_11: home quantum december oil noise alpha void clutch federal toss
+  sport
+bip_39_word_space_12: home quantum december oil noise alpha void clutch federal toss
+  sport agent
+bip_39_word_space_2: home quantum
+bip_39_word_space_3: home quantum december
+bip_39_word_space_4: home quantum december oil
+bip_39_word_space_5: home quantum december oil noise
+bip_39_word_space_6: home quantum december oil noise alpha
+bip_39_word_space_7: home quantum december oil noise alpha void
+bip_39_word_space_8: home quantum december oil noise alpha void clutch
+bip_39_word_space_9: home quantum december oil noise alpha void clutch federal
+bip_39_word_underscore_1: home
+bip_39_word_underscore_10: home_quantum_december_oil_noise_alpha_void_clutch_federal_toss
+bip_39_word_underscore_11: home_quantum_december_oil_noise_alpha_void_clutch_federal_toss_sport
+bip_39_word_underscore_12: home_quantum_december_oil_noise_alpha_void_clutch_federal_toss_sport_agent
+bip_39_word_underscore_2: home_quantum
+bip_39_word_underscore_3: home_quantum_december
+bip_39_word_underscore_4: home_quantum_december_oil
+bip_39_word_underscore_5: home_quantum_december_oil_noise
+bip_39_word_underscore_6: home_quantum_december_oil_noise_alpha
+bip_39_word_underscore_7: home_quantum_december_oil_noise_alpha_void
+bip_39_word_underscore_8: home_quantum_december_oil_noise_alpha_void_clutch
+bip_39_word_underscore_9: home_quantum_december_oil_noise_alpha_void_clutch_federal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6808
 id_no_color: hardware6808
 id_no_size: hardware_6808
 id_no_type: bearing_hardware_bearing_6808
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6808
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6808
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6808
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2033vjt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2033vjt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2033vjt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6808
 name_no_size: Hardware 6808
 name_no_size_short: Hardware 6k8
 name_no_type: Bearing Hardware Bearing 6808
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6808
 oomp_word: ant headphones balloon
 oomp_word_emoji: ':ant: :headphones: :balloon:'

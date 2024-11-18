@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Billy White 800 mm Width 2020 mm Height 280 mm Depth Ikea 002 638 50
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_billy_white_800_mm_width_2020_mm_height_280_mm_depth_ikea_002_638_50
   * classification: furniture

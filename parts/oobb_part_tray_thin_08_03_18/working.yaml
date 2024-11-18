@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ozone
+bip_39_word_dash_10: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade
+bip_39_word_dash_11: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade-recycle
+bip_39_word_dash_12: ozone-olympic-student-pair-theme-scout-buzz-receive-cube-blade-recycle-air
+bip_39_word_dash_2: ozone-olympic
+bip_39_word_dash_3: ozone-olympic-student
+bip_39_word_dash_4: ozone-olympic-student-pair
+bip_39_word_dash_5: ozone-olympic-student-pair-theme
+bip_39_word_dash_6: ozone-olympic-student-pair-theme-scout
+bip_39_word_dash_7: ozone-olympic-student-pair-theme-scout-buzz
+bip_39_word_dash_8: ozone-olympic-student-pair-theme-scout-buzz-receive
+bip_39_word_dash_9: ozone-olympic-student-pair-theme-scout-buzz-receive-cube
+bip_39_word_new_br_1: ozone
+bip_39_word_new_br_10: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade
+bip_39_word_new_br_11: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade<br>recycle
+bip_39_word_new_br_12: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube<br>blade<br>recycle<br>air
+bip_39_word_new_br_2: ozone<br>olympic
+bip_39_word_new_br_3: ozone<br>olympic<br>student
+bip_39_word_new_br_4: ozone<br>olympic<br>student<br>pair
+bip_39_word_new_br_5: ozone<br>olympic<br>student<br>pair<br>theme
+bip_39_word_new_br_6: ozone<br>olympic<br>student<br>pair<br>theme<br>scout
+bip_39_word_new_br_7: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz
+bip_39_word_new_br_8: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive
+bip_39_word_new_br_9: ozone<br>olympic<br>student<br>pair<br>theme<br>scout<br>buzz<br>receive<br>cube
+bip_39_word_new_line_1: ozone
+bip_39_word_new_line_10: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz
+
+  receive
+
+  cube
+
+  blade'
+bip_39_word_new_line_11: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz
+
+  receive
+
+  cube
+
+  blade
+
+  recycle'
+bip_39_word_new_line_12: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz
+
+  receive
+
+  cube
+
+  blade
+
+  recycle
+
+  air'
+bip_39_word_new_line_2: 'ozone
+
+  olympic'
+bip_39_word_new_line_3: 'ozone
+
+  olympic
+
+  student'
+bip_39_word_new_line_4: 'ozone
+
+  olympic
+
+  student
+
+  pair'
+bip_39_word_new_line_5: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme'
+bip_39_word_new_line_6: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout'
+bip_39_word_new_line_7: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz'
+bip_39_word_new_line_8: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz
+
+  receive'
+bip_39_word_new_line_9: 'ozone
+
+  olympic
+
+  student
+
+  pair
+
+  theme
+
+  scout
+
+  buzz
+
+  receive
+
+  cube'
+bip_39_word_no_space_1: ozone
+bip_39_word_no_space_10: ozoneolympicstudentpairthemescoutbuzzreceivecubeblade
+bip_39_word_no_space_11: ozoneolympicstudentpairthemescoutbuzzreceivecubebladerecycle
+bip_39_word_no_space_12: ozoneolympicstudentpairthemescoutbuzzreceivecubebladerecycleair
+bip_39_word_no_space_2: ozoneolympic
+bip_39_word_no_space_3: ozoneolympicstudent
+bip_39_word_no_space_4: ozoneolympicstudentpair
+bip_39_word_no_space_5: ozoneolympicstudentpairtheme
+bip_39_word_no_space_6: ozoneolympicstudentpairthemescout
+bip_39_word_no_space_7: ozoneolympicstudentpairthemescoutbuzz
+bip_39_word_no_space_8: ozoneolympicstudentpairthemescoutbuzzreceive
+bip_39_word_no_space_9: ozoneolympicstudentpairthemescoutbuzzreceivecube
+bip_39_word_space_0:
+- ozone
+- olympic
+- student
+- pair
+- theme
+- scout
+- buzz
+- receive
+- cube
+- blade
+- recycle
+- air
+bip_39_word_space_1: ozone
+bip_39_word_space_10: ozone olympic student pair theme scout buzz receive cube blade
+bip_39_word_space_11: ozone olympic student pair theme scout buzz receive cube blade
+  recycle
+bip_39_word_space_12: ozone olympic student pair theme scout buzz receive cube blade
+  recycle air
+bip_39_word_space_2: ozone olympic
+bip_39_word_space_3: ozone olympic student
+bip_39_word_space_4: ozone olympic student pair
+bip_39_word_space_5: ozone olympic student pair theme
+bip_39_word_space_6: ozone olympic student pair theme scout
+bip_39_word_space_7: ozone olympic student pair theme scout buzz
+bip_39_word_space_8: ozone olympic student pair theme scout buzz receive
+bip_39_word_space_9: ozone olympic student pair theme scout buzz receive cube
+bip_39_word_underscore_1: ozone
+bip_39_word_underscore_10: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade
+bip_39_word_underscore_11: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade_recycle
+bip_39_word_underscore_12: ozone_olympic_student_pair_theme_scout_buzz_receive_cube_blade_recycle_air
+bip_39_word_underscore_2: ozone_olympic
+bip_39_word_underscore_3: ozone_olympic_student
+bip_39_word_underscore_4: ozone_olympic_student_pair
+bip_39_word_underscore_5: ozone_olympic_student_pair_theme
+bip_39_word_underscore_6: ozone_olympic_student_pair_theme_scout
+bip_39_word_underscore_7: ozone_olympic_student_pair_theme_scout_buzz
+bip_39_word_underscore_8: ozone_olympic_student_pair_theme_scout_buzz_receive
+bip_39_word_underscore_9: ozone_olympic_student_pair_theme_scout_buzz_receive_cube
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_08_03_18
 id_no_color: 080318
 id_no_size: 08_03_18
 id_no_type: tray_thin_08_03_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_08_03_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_08_03_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203erwl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203erwl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203erwl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080318
 name_no_size: 08 03 18
 name_no_size_short: 08 03 18
 name_no_type: Tray Thin 08 03 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_08_03_18
 oomp_word: rat herb candy
 oomp_word_emoji: ':rat: :herb: :candy:'

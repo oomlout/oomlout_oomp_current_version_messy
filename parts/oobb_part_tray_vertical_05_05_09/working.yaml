@@ -1,3 +1,222 @@
+bip_39_word_dash_1: screen
+bip_39_word_dash_10: screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate
+bip_39_word_dash_11: screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate-van
+bip_39_word_dash_12: screen-mansion-core-nice-gadget-rocket-point-once-gorilla-debate-van-around
+bip_39_word_dash_2: screen-mansion
+bip_39_word_dash_3: screen-mansion-core
+bip_39_word_dash_4: screen-mansion-core-nice
+bip_39_word_dash_5: screen-mansion-core-nice-gadget
+bip_39_word_dash_6: screen-mansion-core-nice-gadget-rocket
+bip_39_word_dash_7: screen-mansion-core-nice-gadget-rocket-point
+bip_39_word_dash_8: screen-mansion-core-nice-gadget-rocket-point-once
+bip_39_word_dash_9: screen-mansion-core-nice-gadget-rocket-point-once-gorilla
+bip_39_word_new_br_1: screen
+bip_39_word_new_br_10: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate
+bip_39_word_new_br_11: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate<br>van
+bip_39_word_new_br_12: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla<br>debate<br>van<br>around
+bip_39_word_new_br_2: screen<br>mansion
+bip_39_word_new_br_3: screen<br>mansion<br>core
+bip_39_word_new_br_4: screen<br>mansion<br>core<br>nice
+bip_39_word_new_br_5: screen<br>mansion<br>core<br>nice<br>gadget
+bip_39_word_new_br_6: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket
+bip_39_word_new_br_7: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point
+bip_39_word_new_br_8: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once
+bip_39_word_new_br_9: screen<br>mansion<br>core<br>nice<br>gadget<br>rocket<br>point<br>once<br>gorilla
+bip_39_word_new_line_1: screen
+bip_39_word_new_line_10: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point
+
+  once
+
+  gorilla
+
+  debate'
+bip_39_word_new_line_11: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point
+
+  once
+
+  gorilla
+
+  debate
+
+  van'
+bip_39_word_new_line_12: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point
+
+  once
+
+  gorilla
+
+  debate
+
+  van
+
+  around'
+bip_39_word_new_line_2: 'screen
+
+  mansion'
+bip_39_word_new_line_3: 'screen
+
+  mansion
+
+  core'
+bip_39_word_new_line_4: 'screen
+
+  mansion
+
+  core
+
+  nice'
+bip_39_word_new_line_5: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget'
+bip_39_word_new_line_6: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket'
+bip_39_word_new_line_7: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point'
+bip_39_word_new_line_8: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point
+
+  once'
+bip_39_word_new_line_9: 'screen
+
+  mansion
+
+  core
+
+  nice
+
+  gadget
+
+  rocket
+
+  point
+
+  once
+
+  gorilla'
+bip_39_word_no_space_1: screen
+bip_39_word_no_space_10: screenmansioncorenicegadgetrocketpointoncegorilladebate
+bip_39_word_no_space_11: screenmansioncorenicegadgetrocketpointoncegorilladebatevan
+bip_39_word_no_space_12: screenmansioncorenicegadgetrocketpointoncegorilladebatevanaround
+bip_39_word_no_space_2: screenmansion
+bip_39_word_no_space_3: screenmansioncore
+bip_39_word_no_space_4: screenmansioncorenice
+bip_39_word_no_space_5: screenmansioncorenicegadget
+bip_39_word_no_space_6: screenmansioncorenicegadgetrocket
+bip_39_word_no_space_7: screenmansioncorenicegadgetrocketpoint
+bip_39_word_no_space_8: screenmansioncorenicegadgetrocketpointonce
+bip_39_word_no_space_9: screenmansioncorenicegadgetrocketpointoncegorilla
+bip_39_word_space_0:
+- screen
+- mansion
+- core
+- nice
+- gadget
+- rocket
+- point
+- once
+- gorilla
+- debate
+- van
+- around
+bip_39_word_space_1: screen
+bip_39_word_space_10: screen mansion core nice gadget rocket point once gorilla debate
+bip_39_word_space_11: screen mansion core nice gadget rocket point once gorilla debate
+  van
+bip_39_word_space_12: screen mansion core nice gadget rocket point once gorilla debate
+  van around
+bip_39_word_space_2: screen mansion
+bip_39_word_space_3: screen mansion core
+bip_39_word_space_4: screen mansion core nice
+bip_39_word_space_5: screen mansion core nice gadget
+bip_39_word_space_6: screen mansion core nice gadget rocket
+bip_39_word_space_7: screen mansion core nice gadget rocket point
+bip_39_word_space_8: screen mansion core nice gadget rocket point once
+bip_39_word_space_9: screen mansion core nice gadget rocket point once gorilla
+bip_39_word_underscore_1: screen
+bip_39_word_underscore_10: screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate
+bip_39_word_underscore_11: screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate_van
+bip_39_word_underscore_12: screen_mansion_core_nice_gadget_rocket_point_once_gorilla_debate_van_around
+bip_39_word_underscore_2: screen_mansion
+bip_39_word_underscore_3: screen_mansion_core
+bip_39_word_underscore_4: screen_mansion_core_nice
+bip_39_word_underscore_5: screen_mansion_core_nice_gadget
+bip_39_word_underscore_6: screen_mansion_core_nice_gadget_rocket
+bip_39_word_underscore_7: screen_mansion_core_nice_gadget_rocket_point
+bip_39_word_underscore_8: screen_mansion_core_nice_gadget_rocket_point_once
+bip_39_word_underscore_9: screen_mansion_core_nice_gadget_rocket_point_once_gorilla
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_05_05_09
 id_no_color: 050509
 id_no_size: 05_05_09
 id_no_type: tray_vertical_05_05_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_05_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_05_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_05_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207n5fy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207n5fy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207n5fy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050509
 name_no_size: 05 05 09
 name_no_size_short: 05 05 09
 name_no_type: Tray Vertical 05 05 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_05_05_09
 oomp_word: cake sailboat honeybee
 oomp_word_emoji: ':cake: :sailboat: :honeybee:'

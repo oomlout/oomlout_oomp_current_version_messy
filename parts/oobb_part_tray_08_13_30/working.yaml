@@ -1,3 +1,223 @@
+bip_39_word_dash_1: final
+bip_39_word_dash_10: final-scan-depend-business-account-omit-silent-wealth-solve-transfer
+bip_39_word_dash_11: final-scan-depend-business-account-omit-silent-wealth-solve-transfer-carpet
+bip_39_word_dash_12: final-scan-depend-business-account-omit-silent-wealth-solve-transfer-carpet-among
+bip_39_word_dash_2: final-scan
+bip_39_word_dash_3: final-scan-depend
+bip_39_word_dash_4: final-scan-depend-business
+bip_39_word_dash_5: final-scan-depend-business-account
+bip_39_word_dash_6: final-scan-depend-business-account-omit
+bip_39_word_dash_7: final-scan-depend-business-account-omit-silent
+bip_39_word_dash_8: final-scan-depend-business-account-omit-silent-wealth
+bip_39_word_dash_9: final-scan-depend-business-account-omit-silent-wealth-solve
+bip_39_word_new_br_1: final
+bip_39_word_new_br_10: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer
+bip_39_word_new_br_11: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet
+bip_39_word_new_br_12: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve<br>transfer<br>carpet<br>among
+bip_39_word_new_br_2: final<br>scan
+bip_39_word_new_br_3: final<br>scan<br>depend
+bip_39_word_new_br_4: final<br>scan<br>depend<br>business
+bip_39_word_new_br_5: final<br>scan<br>depend<br>business<br>account
+bip_39_word_new_br_6: final<br>scan<br>depend<br>business<br>account<br>omit
+bip_39_word_new_br_7: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent
+bip_39_word_new_br_8: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth
+bip_39_word_new_br_9: final<br>scan<br>depend<br>business<br>account<br>omit<br>silent<br>wealth<br>solve
+bip_39_word_new_line_1: final
+bip_39_word_new_line_10: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent
+
+  wealth
+
+  solve
+
+  transfer'
+bip_39_word_new_line_11: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent
+
+  wealth
+
+  solve
+
+  transfer
+
+  carpet'
+bip_39_word_new_line_12: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent
+
+  wealth
+
+  solve
+
+  transfer
+
+  carpet
+
+  among'
+bip_39_word_new_line_2: 'final
+
+  scan'
+bip_39_word_new_line_3: 'final
+
+  scan
+
+  depend'
+bip_39_word_new_line_4: 'final
+
+  scan
+
+  depend
+
+  business'
+bip_39_word_new_line_5: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account'
+bip_39_word_new_line_6: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit'
+bip_39_word_new_line_7: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent'
+bip_39_word_new_line_8: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent
+
+  wealth'
+bip_39_word_new_line_9: 'final
+
+  scan
+
+  depend
+
+  business
+
+  account
+
+  omit
+
+  silent
+
+  wealth
+
+  solve'
+bip_39_word_no_space_1: final
+bip_39_word_no_space_10: finalscandependbusinessaccountomitsilentwealthsolvetransfer
+bip_39_word_no_space_11: finalscandependbusinessaccountomitsilentwealthsolvetransfercarpet
+bip_39_word_no_space_12: finalscandependbusinessaccountomitsilentwealthsolvetransfercarpetamong
+bip_39_word_no_space_2: finalscan
+bip_39_word_no_space_3: finalscandepend
+bip_39_word_no_space_4: finalscandependbusiness
+bip_39_word_no_space_5: finalscandependbusinessaccount
+bip_39_word_no_space_6: finalscandependbusinessaccountomit
+bip_39_word_no_space_7: finalscandependbusinessaccountomitsilent
+bip_39_word_no_space_8: finalscandependbusinessaccountomitsilentwealth
+bip_39_word_no_space_9: finalscandependbusinessaccountomitsilentwealthsolve
+bip_39_word_space_0:
+- final
+- scan
+- depend
+- business
+- account
+- omit
+- silent
+- wealth
+- solve
+- transfer
+- carpet
+- among
+bip_39_word_space_1: final
+bip_39_word_space_10: final scan depend business account omit silent wealth solve
+  transfer
+bip_39_word_space_11: final scan depend business account omit silent wealth solve
+  transfer carpet
+bip_39_word_space_12: final scan depend business account omit silent wealth solve
+  transfer carpet among
+bip_39_word_space_2: final scan
+bip_39_word_space_3: final scan depend
+bip_39_word_space_4: final scan depend business
+bip_39_word_space_5: final scan depend business account
+bip_39_word_space_6: final scan depend business account omit
+bip_39_word_space_7: final scan depend business account omit silent
+bip_39_word_space_8: final scan depend business account omit silent wealth
+bip_39_word_space_9: final scan depend business account omit silent wealth solve
+bip_39_word_underscore_1: final
+bip_39_word_underscore_10: final_scan_depend_business_account_omit_silent_wealth_solve_transfer
+bip_39_word_underscore_11: final_scan_depend_business_account_omit_silent_wealth_solve_transfer_carpet
+bip_39_word_underscore_12: final_scan_depend_business_account_omit_silent_wealth_solve_transfer_carpet_among
+bip_39_word_underscore_2: final_scan
+bip_39_word_underscore_3: final_scan_depend
+bip_39_word_underscore_4: final_scan_depend_business
+bip_39_word_underscore_5: final_scan_depend_business_account
+bip_39_word_underscore_6: final_scan_depend_business_account_omit
+bip_39_word_underscore_7: final_scan_depend_business_account_omit_silent
+bip_39_word_underscore_8: final_scan_depend_business_account_omit_silent_wealth
+bip_39_word_underscore_9: final_scan_depend_business_account_omit_silent_wealth_solve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_08_13_30
 id_no_color: 081330
 id_no_size: 08_13_30
 id_no_type: tray_08_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204xdbt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204xdbt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204xdbt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 081330
 name_no_size: 08 13 30
 name_no_size_short: 08 13 30
 name_no_type: Tray 08 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_13_30
 oomp_word: fax snake fries
 oomp_word_emoji: ':fax: :snake: :fries:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: scheme
+bip_39_word_dash_10: scheme-farm-fit-light-viable-way-jelly-grape-drive-shock
+bip_39_word_dash_11: scheme-farm-fit-light-viable-way-jelly-grape-drive-shock-crumble
+bip_39_word_dash_12: scheme-farm-fit-light-viable-way-jelly-grape-drive-shock-crumble-airport
+bip_39_word_dash_2: scheme-farm
+bip_39_word_dash_3: scheme-farm-fit
+bip_39_word_dash_4: scheme-farm-fit-light
+bip_39_word_dash_5: scheme-farm-fit-light-viable
+bip_39_word_dash_6: scheme-farm-fit-light-viable-way
+bip_39_word_dash_7: scheme-farm-fit-light-viable-way-jelly
+bip_39_word_dash_8: scheme-farm-fit-light-viable-way-jelly-grape
+bip_39_word_dash_9: scheme-farm-fit-light-viable-way-jelly-grape-drive
+bip_39_word_new_br_1: scheme
+bip_39_word_new_br_10: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock
+bip_39_word_new_br_11: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble
+bip_39_word_new_br_12: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive<br>shock<br>crumble<br>airport
+bip_39_word_new_br_2: scheme<br>farm
+bip_39_word_new_br_3: scheme<br>farm<br>fit
+bip_39_word_new_br_4: scheme<br>farm<br>fit<br>light
+bip_39_word_new_br_5: scheme<br>farm<br>fit<br>light<br>viable
+bip_39_word_new_br_6: scheme<br>farm<br>fit<br>light<br>viable<br>way
+bip_39_word_new_br_7: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly
+bip_39_word_new_br_8: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape
+bip_39_word_new_br_9: scheme<br>farm<br>fit<br>light<br>viable<br>way<br>jelly<br>grape<br>drive
+bip_39_word_new_line_1: scheme
+bip_39_word_new_line_10: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly
+
+  grape
+
+  drive
+
+  shock'
+bip_39_word_new_line_11: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly
+
+  grape
+
+  drive
+
+  shock
+
+  crumble'
+bip_39_word_new_line_12: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly
+
+  grape
+
+  drive
+
+  shock
+
+  crumble
+
+  airport'
+bip_39_word_new_line_2: 'scheme
+
+  farm'
+bip_39_word_new_line_3: 'scheme
+
+  farm
+
+  fit'
+bip_39_word_new_line_4: 'scheme
+
+  farm
+
+  fit
+
+  light'
+bip_39_word_new_line_5: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable'
+bip_39_word_new_line_6: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way'
+bip_39_word_new_line_7: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly'
+bip_39_word_new_line_8: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly
+
+  grape'
+bip_39_word_new_line_9: 'scheme
+
+  farm
+
+  fit
+
+  light
+
+  viable
+
+  way
+
+  jelly
+
+  grape
+
+  drive'
+bip_39_word_no_space_1: scheme
+bip_39_word_no_space_10: schemefarmfitlightviablewayjellygrapedriveshock
+bip_39_word_no_space_11: schemefarmfitlightviablewayjellygrapedriveshockcrumble
+bip_39_word_no_space_12: schemefarmfitlightviablewayjellygrapedriveshockcrumbleairport
+bip_39_word_no_space_2: schemefarm
+bip_39_word_no_space_3: schemefarmfit
+bip_39_word_no_space_4: schemefarmfitlight
+bip_39_word_no_space_5: schemefarmfitlightviable
+bip_39_word_no_space_6: schemefarmfitlightviableway
+bip_39_word_no_space_7: schemefarmfitlightviablewayjelly
+bip_39_word_no_space_8: schemefarmfitlightviablewayjellygrape
+bip_39_word_no_space_9: schemefarmfitlightviablewayjellygrapedrive
+bip_39_word_space_0:
+- scheme
+- farm
+- fit
+- light
+- viable
+- way
+- jelly
+- grape
+- drive
+- shock
+- crumble
+- airport
+bip_39_word_space_1: scheme
+bip_39_word_space_10: scheme farm fit light viable way jelly grape drive shock
+bip_39_word_space_11: scheme farm fit light viable way jelly grape drive shock crumble
+bip_39_word_space_12: scheme farm fit light viable way jelly grape drive shock crumble
+  airport
+bip_39_word_space_2: scheme farm
+bip_39_word_space_3: scheme farm fit
+bip_39_word_space_4: scheme farm fit light
+bip_39_word_space_5: scheme farm fit light viable
+bip_39_word_space_6: scheme farm fit light viable way
+bip_39_word_space_7: scheme farm fit light viable way jelly
+bip_39_word_space_8: scheme farm fit light viable way jelly grape
+bip_39_word_space_9: scheme farm fit light viable way jelly grape drive
+bip_39_word_underscore_1: scheme
+bip_39_word_underscore_10: scheme_farm_fit_light_viable_way_jelly_grape_drive_shock
+bip_39_word_underscore_11: scheme_farm_fit_light_viable_way_jelly_grape_drive_shock_crumble
+bip_39_word_underscore_12: scheme_farm_fit_light_viable_way_jelly_grape_drive_shock_crumble_airport
+bip_39_word_underscore_2: scheme_farm
+bip_39_word_underscore_3: scheme_farm_fit
+bip_39_word_underscore_4: scheme_farm_fit_light
+bip_39_word_underscore_5: scheme_farm_fit_light_viable
+bip_39_word_underscore_6: scheme_farm_fit_light_viable_way
+bip_39_word_underscore_7: scheme_farm_fit_light_viable_way_jelly
+bip_39_word_underscore_8: scheme_farm_fit_light_viable_way_jelly_grape
+bip_39_word_underscore_9: scheme_farm_fit_light_viable_way_jelly_grape_drive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_07_15_30
 id_no_color: '071530'
 id_no_size: '07_15_30'
 id_no_type: tray_07_15_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_15_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_15_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_15_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203g6up
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203g6up
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203g6up
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '071530'
 name_no_size: 07 15 30
 name_no_size_short: 07 15 30
 name_no_type: Tray 07 15 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_15_30
 oomp_word: water_buffalo cactus briefcase
 oomp_word_emoji: ':water_buffalo: :cactus: :briefcase:'

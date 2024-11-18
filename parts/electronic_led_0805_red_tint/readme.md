@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 0805 Red Tint
+* name_short: 
 ### id
 * oomp_id: electronic_led_0805_red_tint
   * classification: electronic

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :grapes: :foggy: :golf:
 * md5_6_alpha: 7xevu
 * md5_6: cb309a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207xevu)
+[2x1](http://192.168.1.242:1112/?label=oomp%207xevu)
+[6x4](http://192.168.1.55:1112/?label=oomp%207xevu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ uniform |
 | id_no_color | oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
 | id_no_size | oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
 | id_no_type | oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207xevu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207xevu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207xevu |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ uniform |
 | name_no_size | Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01 |  
 | name_no_size_short | Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01 |  
 | name_no_type | Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01 |  
 | oomp_word | grapes foggy golf |  
 | oomp_word_emoji | :grapes: :foggy: :golf: |  

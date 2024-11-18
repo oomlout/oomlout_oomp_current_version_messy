@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Bowl 1000 Ml 170 mm Diameter Pyrex 179B000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :gift: :cake: :tram:
 * md5_6_alpha: 4o8a0
 * md5_6: 77c3e8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204o8a0)
+[2x1](http://192.168.1.242:1112/?label=oomp%204o8a0)
+[6x4](http://192.168.1.55:1112/?label=oomp%204o8a0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,8 +307,15 @@ myself |
 | id_no_color | bowl1000ml170mmdiameter179B000 |  
 | id_no_size | bowl_1000_ml_170_mm_diameter_179B000 |  
 | id_no_type | pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
+| link_2_name | github_link |  
 | link_distributor_pyrex | https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280665123 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204o8a0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204o8a0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204o8a0 |  
 | manufacturer | pyrex |  
 | manufacturer_capital | Pyrex |  
 | manufacturer_first_letter | p |  
@@ -331,6 +364,7 @@ myself |
 | name_no_size | Bowl 1000 Ml 170 mm Diameter 179B000 |  
 | name_no_size_short | Bowl 1000 Ml 170 Mm Diameter 179B000 |  
 | name_no_type | Pyrex Bowl 1000 Ml 170 mm Diameter Pyrex 179B000 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000 |  
 | oomp_word | gift cake tram |  
 | oomp_word_emoji | :gift: :cake: :tram: |  

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: good
+bip_39_word_dash_10: good-erase-idle-velvet-desk-will-noise-impact-angry-child
+bip_39_word_dash_11: good-erase-idle-velvet-desk-will-noise-impact-angry-child-vacuum
+bip_39_word_dash_12: good-erase-idle-velvet-desk-will-noise-impact-angry-child-vacuum-announce
+bip_39_word_dash_2: good-erase
+bip_39_word_dash_3: good-erase-idle
+bip_39_word_dash_4: good-erase-idle-velvet
+bip_39_word_dash_5: good-erase-idle-velvet-desk
+bip_39_word_dash_6: good-erase-idle-velvet-desk-will
+bip_39_word_dash_7: good-erase-idle-velvet-desk-will-noise
+bip_39_word_dash_8: good-erase-idle-velvet-desk-will-noise-impact
+bip_39_word_dash_9: good-erase-idle-velvet-desk-will-noise-impact-angry
+bip_39_word_new_br_1: good
+bip_39_word_new_br_10: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child
+bip_39_word_new_br_11: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum
+bip_39_word_new_br_12: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry<br>child<br>vacuum<br>announce
+bip_39_word_new_br_2: good<br>erase
+bip_39_word_new_br_3: good<br>erase<br>idle
+bip_39_word_new_br_4: good<br>erase<br>idle<br>velvet
+bip_39_word_new_br_5: good<br>erase<br>idle<br>velvet<br>desk
+bip_39_word_new_br_6: good<br>erase<br>idle<br>velvet<br>desk<br>will
+bip_39_word_new_br_7: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise
+bip_39_word_new_br_8: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact
+bip_39_word_new_br_9: good<br>erase<br>idle<br>velvet<br>desk<br>will<br>noise<br>impact<br>angry
+bip_39_word_new_line_1: good
+bip_39_word_new_line_10: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise
+
+  impact
+
+  angry
+
+  child'
+bip_39_word_new_line_11: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise
+
+  impact
+
+  angry
+
+  child
+
+  vacuum'
+bip_39_word_new_line_12: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise
+
+  impact
+
+  angry
+
+  child
+
+  vacuum
+
+  announce'
+bip_39_word_new_line_2: 'good
+
+  erase'
+bip_39_word_new_line_3: 'good
+
+  erase
+
+  idle'
+bip_39_word_new_line_4: 'good
+
+  erase
+
+  idle
+
+  velvet'
+bip_39_word_new_line_5: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk'
+bip_39_word_new_line_6: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will'
+bip_39_word_new_line_7: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise'
+bip_39_word_new_line_8: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise
+
+  impact'
+bip_39_word_new_line_9: 'good
+
+  erase
+
+  idle
+
+  velvet
+
+  desk
+
+  will
+
+  noise
+
+  impact
+
+  angry'
+bip_39_word_no_space_1: good
+bip_39_word_no_space_10: gooderaseidlevelvetdeskwillnoiseimpactangrychild
+bip_39_word_no_space_11: gooderaseidlevelvetdeskwillnoiseimpactangrychildvacuum
+bip_39_word_no_space_12: gooderaseidlevelvetdeskwillnoiseimpactangrychildvacuumannounce
+bip_39_word_no_space_2: gooderase
+bip_39_word_no_space_3: gooderaseidle
+bip_39_word_no_space_4: gooderaseidlevelvet
+bip_39_word_no_space_5: gooderaseidlevelvetdesk
+bip_39_word_no_space_6: gooderaseidlevelvetdeskwill
+bip_39_word_no_space_7: gooderaseidlevelvetdeskwillnoise
+bip_39_word_no_space_8: gooderaseidlevelvetdeskwillnoiseimpact
+bip_39_word_no_space_9: gooderaseidlevelvetdeskwillnoiseimpactangry
+bip_39_word_space_0:
+- good
+- erase
+- idle
+- velvet
+- desk
+- will
+- noise
+- impact
+- angry
+- child
+- vacuum
+- announce
+bip_39_word_space_1: good
+bip_39_word_space_10: good erase idle velvet desk will noise impact angry child
+bip_39_word_space_11: good erase idle velvet desk will noise impact angry child vacuum
+bip_39_word_space_12: good erase idle velvet desk will noise impact angry child vacuum
+  announce
+bip_39_word_space_2: good erase
+bip_39_word_space_3: good erase idle
+bip_39_word_space_4: good erase idle velvet
+bip_39_word_space_5: good erase idle velvet desk
+bip_39_word_space_6: good erase idle velvet desk will
+bip_39_word_space_7: good erase idle velvet desk will noise
+bip_39_word_space_8: good erase idle velvet desk will noise impact
+bip_39_word_space_9: good erase idle velvet desk will noise impact angry
+bip_39_word_underscore_1: good
+bip_39_word_underscore_10: good_erase_idle_velvet_desk_will_noise_impact_angry_child
+bip_39_word_underscore_11: good_erase_idle_velvet_desk_will_noise_impact_angry_child_vacuum
+bip_39_word_underscore_12: good_erase_idle_velvet_desk_will_noise_impact_angry_child_vacuum_announce
+bip_39_word_underscore_2: good_erase
+bip_39_word_underscore_3: good_erase_idle
+bip_39_word_underscore_4: good_erase_idle_velvet
+bip_39_word_underscore_5: good_erase_idle_velvet_desk
+bip_39_word_underscore_6: good_erase_idle_velvet_desk_will
+bip_39_word_underscore_7: good_erase_idle_velvet_desk_will_noise
+bip_39_word_underscore_8: good_erase_idle_velvet_desk_will_noise_impact
+bip_39_word_underscore_9: good_erase_idle_velvet_desk_will_noise_impact_angry
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_plate_01_01_42
 id_no_color: '010142'
 id_no_size: '01_01_42'
 id_no_type: plate_01_01_42
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_42
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_42
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_42
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205uj2h
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205uj2h
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205uj2h
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '010142'
 name_no_size: 01 01 42
 name_no_size_short: 01 01 42
 name_no_type: Plate 01 01 42
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_42
 oomp_word: telescope boat angry
 oomp_word_emoji: ':telescope: :boat: :angry:'

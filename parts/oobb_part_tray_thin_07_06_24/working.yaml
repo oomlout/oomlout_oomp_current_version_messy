@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fury
+bip_39_word_dash_10: fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter
+bip_39_word_dash_11: fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter-maid
+bip_39_word_dash_12: fury-general-possible-canvas-text-island-false-rapid-nuclear-scatter-maid-aspect
+bip_39_word_dash_2: fury-general
+bip_39_word_dash_3: fury-general-possible
+bip_39_word_dash_4: fury-general-possible-canvas
+bip_39_word_dash_5: fury-general-possible-canvas-text
+bip_39_word_dash_6: fury-general-possible-canvas-text-island
+bip_39_word_dash_7: fury-general-possible-canvas-text-island-false
+bip_39_word_dash_8: fury-general-possible-canvas-text-island-false-rapid
+bip_39_word_dash_9: fury-general-possible-canvas-text-island-false-rapid-nuclear
+bip_39_word_new_br_1: fury
+bip_39_word_new_br_10: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter
+bip_39_word_new_br_11: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid
+bip_39_word_new_br_12: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear<br>scatter<br>maid<br>aspect
+bip_39_word_new_br_2: fury<br>general
+bip_39_word_new_br_3: fury<br>general<br>possible
+bip_39_word_new_br_4: fury<br>general<br>possible<br>canvas
+bip_39_word_new_br_5: fury<br>general<br>possible<br>canvas<br>text
+bip_39_word_new_br_6: fury<br>general<br>possible<br>canvas<br>text<br>island
+bip_39_word_new_br_7: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false
+bip_39_word_new_br_8: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid
+bip_39_word_new_br_9: fury<br>general<br>possible<br>canvas<br>text<br>island<br>false<br>rapid<br>nuclear
+bip_39_word_new_line_1: fury
+bip_39_word_new_line_10: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false
+
+  rapid
+
+  nuclear
+
+  scatter'
+bip_39_word_new_line_11: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false
+
+  rapid
+
+  nuclear
+
+  scatter
+
+  maid'
+bip_39_word_new_line_12: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false
+
+  rapid
+
+  nuclear
+
+  scatter
+
+  maid
+
+  aspect'
+bip_39_word_new_line_2: 'fury
+
+  general'
+bip_39_word_new_line_3: 'fury
+
+  general
+
+  possible'
+bip_39_word_new_line_4: 'fury
+
+  general
+
+  possible
+
+  canvas'
+bip_39_word_new_line_5: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text'
+bip_39_word_new_line_6: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island'
+bip_39_word_new_line_7: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false'
+bip_39_word_new_line_8: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false
+
+  rapid'
+bip_39_word_new_line_9: 'fury
+
+  general
+
+  possible
+
+  canvas
+
+  text
+
+  island
+
+  false
+
+  rapid
+
+  nuclear'
+bip_39_word_no_space_1: fury
+bip_39_word_no_space_10: furygeneralpossiblecanvastextislandfalserapidnuclearscatter
+bip_39_word_no_space_11: furygeneralpossiblecanvastextislandfalserapidnuclearscattermaid
+bip_39_word_no_space_12: furygeneralpossiblecanvastextislandfalserapidnuclearscattermaidaspect
+bip_39_word_no_space_2: furygeneral
+bip_39_word_no_space_3: furygeneralpossible
+bip_39_word_no_space_4: furygeneralpossiblecanvas
+bip_39_word_no_space_5: furygeneralpossiblecanvastext
+bip_39_word_no_space_6: furygeneralpossiblecanvastextisland
+bip_39_word_no_space_7: furygeneralpossiblecanvastextislandfalse
+bip_39_word_no_space_8: furygeneralpossiblecanvastextislandfalserapid
+bip_39_word_no_space_9: furygeneralpossiblecanvastextislandfalserapidnuclear
+bip_39_word_space_0:
+- fury
+- general
+- possible
+- canvas
+- text
+- island
+- 'false'
+- rapid
+- nuclear
+- scatter
+- maid
+- aspect
+bip_39_word_space_1: fury
+bip_39_word_space_10: fury general possible canvas text island false rapid nuclear
+  scatter
+bip_39_word_space_11: fury general possible canvas text island false rapid nuclear
+  scatter maid
+bip_39_word_space_12: fury general possible canvas text island false rapid nuclear
+  scatter maid aspect
+bip_39_word_space_2: fury general
+bip_39_word_space_3: fury general possible
+bip_39_word_space_4: fury general possible canvas
+bip_39_word_space_5: fury general possible canvas text
+bip_39_word_space_6: fury general possible canvas text island
+bip_39_word_space_7: fury general possible canvas text island false
+bip_39_word_space_8: fury general possible canvas text island false rapid
+bip_39_word_space_9: fury general possible canvas text island false rapid nuclear
+bip_39_word_underscore_1: fury
+bip_39_word_underscore_10: fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter
+bip_39_word_underscore_11: fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter_maid
+bip_39_word_underscore_12: fury_general_possible_canvas_text_island_false_rapid_nuclear_scatter_maid_aspect
+bip_39_word_underscore_2: fury_general
+bip_39_word_underscore_3: fury_general_possible
+bip_39_word_underscore_4: fury_general_possible_canvas
+bip_39_word_underscore_5: fury_general_possible_canvas_text
+bip_39_word_underscore_6: fury_general_possible_canvas_text_island
+bip_39_word_underscore_7: fury_general_possible_canvas_text_island_false
+bip_39_word_underscore_8: fury_general_possible_canvas_text_island_false_rapid
+bip_39_word_underscore_9: fury_general_possible_canvas_text_island_false_rapid_nuclear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_07_06_24
 id_no_color: '070624'
 id_no_size: '07_06_24'
 id_no_type: tray_thin_07_06_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_06_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208e2i8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208e2i8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208e2i8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '070624'
 name_no_size: 07 06 24
 name_no_size_short: 07 06 24
 name_no_type: Tray Thin 07 06 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_06_24
 oomp_word: office alien foggy
 oomp_word_emoji: ':office: :alien: :foggy:'

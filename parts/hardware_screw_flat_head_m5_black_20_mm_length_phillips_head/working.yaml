@@ -1,3 +1,223 @@
+bip_39_word_dash_1: skirt
+bip_39_word_dash_10: skirt-decide-mixture-remove-rapid-verify-veteran-involve-connect-chicken
+bip_39_word_dash_11: skirt-decide-mixture-remove-rapid-verify-veteran-involve-connect-chicken-blade
+bip_39_word_dash_12: skirt-decide-mixture-remove-rapid-verify-veteran-involve-connect-chicken-blade-allow
+bip_39_word_dash_2: skirt-decide
+bip_39_word_dash_3: skirt-decide-mixture
+bip_39_word_dash_4: skirt-decide-mixture-remove
+bip_39_word_dash_5: skirt-decide-mixture-remove-rapid
+bip_39_word_dash_6: skirt-decide-mixture-remove-rapid-verify
+bip_39_word_dash_7: skirt-decide-mixture-remove-rapid-verify-veteran
+bip_39_word_dash_8: skirt-decide-mixture-remove-rapid-verify-veteran-involve
+bip_39_word_dash_9: skirt-decide-mixture-remove-rapid-verify-veteran-involve-connect
+bip_39_word_new_br_1: skirt
+bip_39_word_new_br_10: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran<br>involve<br>connect<br>chicken
+bip_39_word_new_br_11: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran<br>involve<br>connect<br>chicken<br>blade
+bip_39_word_new_br_12: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran<br>involve<br>connect<br>chicken<br>blade<br>allow
+bip_39_word_new_br_2: skirt<br>decide
+bip_39_word_new_br_3: skirt<br>decide<br>mixture
+bip_39_word_new_br_4: skirt<br>decide<br>mixture<br>remove
+bip_39_word_new_br_5: skirt<br>decide<br>mixture<br>remove<br>rapid
+bip_39_word_new_br_6: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify
+bip_39_word_new_br_7: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran
+bip_39_word_new_br_8: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran<br>involve
+bip_39_word_new_br_9: skirt<br>decide<br>mixture<br>remove<br>rapid<br>verify<br>veteran<br>involve<br>connect
+bip_39_word_new_line_1: skirt
+bip_39_word_new_line_10: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran
+
+  involve
+
+  connect
+
+  chicken'
+bip_39_word_new_line_11: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran
+
+  involve
+
+  connect
+
+  chicken
+
+  blade'
+bip_39_word_new_line_12: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran
+
+  involve
+
+  connect
+
+  chicken
+
+  blade
+
+  allow'
+bip_39_word_new_line_2: 'skirt
+
+  decide'
+bip_39_word_new_line_3: 'skirt
+
+  decide
+
+  mixture'
+bip_39_word_new_line_4: 'skirt
+
+  decide
+
+  mixture
+
+  remove'
+bip_39_word_new_line_5: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid'
+bip_39_word_new_line_6: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify'
+bip_39_word_new_line_7: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran'
+bip_39_word_new_line_8: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran
+
+  involve'
+bip_39_word_new_line_9: 'skirt
+
+  decide
+
+  mixture
+
+  remove
+
+  rapid
+
+  verify
+
+  veteran
+
+  involve
+
+  connect'
+bip_39_word_no_space_1: skirt
+bip_39_word_no_space_10: skirtdecidemixtureremoverapidverifyveteraninvolveconnectchicken
+bip_39_word_no_space_11: skirtdecidemixtureremoverapidverifyveteraninvolveconnectchickenblade
+bip_39_word_no_space_12: skirtdecidemixtureremoverapidverifyveteraninvolveconnectchickenbladeallow
+bip_39_word_no_space_2: skirtdecide
+bip_39_word_no_space_3: skirtdecidemixture
+bip_39_word_no_space_4: skirtdecidemixtureremove
+bip_39_word_no_space_5: skirtdecidemixtureremoverapid
+bip_39_word_no_space_6: skirtdecidemixtureremoverapidverify
+bip_39_word_no_space_7: skirtdecidemixtureremoverapidverifyveteran
+bip_39_word_no_space_8: skirtdecidemixtureremoverapidverifyveteraninvolve
+bip_39_word_no_space_9: skirtdecidemixtureremoverapidverifyveteraninvolveconnect
+bip_39_word_space_0:
+- skirt
+- decide
+- mixture
+- remove
+- rapid
+- verify
+- veteran
+- involve
+- connect
+- chicken
+- blade
+- allow
+bip_39_word_space_1: skirt
+bip_39_word_space_10: skirt decide mixture remove rapid verify veteran involve connect
+  chicken
+bip_39_word_space_11: skirt decide mixture remove rapid verify veteran involve connect
+  chicken blade
+bip_39_word_space_12: skirt decide mixture remove rapid verify veteran involve connect
+  chicken blade allow
+bip_39_word_space_2: skirt decide
+bip_39_word_space_3: skirt decide mixture
+bip_39_word_space_4: skirt decide mixture remove
+bip_39_word_space_5: skirt decide mixture remove rapid
+bip_39_word_space_6: skirt decide mixture remove rapid verify
+bip_39_word_space_7: skirt decide mixture remove rapid verify veteran
+bip_39_word_space_8: skirt decide mixture remove rapid verify veteran involve
+bip_39_word_space_9: skirt decide mixture remove rapid verify veteran involve connect
+bip_39_word_underscore_1: skirt
+bip_39_word_underscore_10: skirt_decide_mixture_remove_rapid_verify_veteran_involve_connect_chicken
+bip_39_word_underscore_11: skirt_decide_mixture_remove_rapid_verify_veteran_involve_connect_chicken_blade
+bip_39_word_underscore_12: skirt_decide_mixture_remove_rapid_verify_veteran_involve_connect_chicken_blade_allow
+bip_39_word_underscore_2: skirt_decide
+bip_39_word_underscore_3: skirt_decide_mixture
+bip_39_word_underscore_4: skirt_decide_mixture_remove
+bip_39_word_underscore_5: skirt_decide_mixture_remove_rapid
+bip_39_word_underscore_6: skirt_decide_mixture_remove_rapid_verify
+bip_39_word_underscore_7: skirt_decide_mixture_remove_rapid_verify_veteran
+bip_39_word_underscore_8: skirt_decide_mixture_remove_rapid_verify_veteran_involve
+bip_39_word_underscore_9: skirt_decide_mixture_remove_rapid_verify_veteran_involve_connect
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 20_mm_length_phillips_head
 id_no_size: black_20_mm_length_phillips_head
 id_no_type: m5_black_20_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m5_black_20_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20455ah
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20455ah
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20455ah
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 20 mm Length Phillips Head
 name_no_size: Black 20 mm Length Phillips Head
 name_no_size_short: Black 20 Mm Length Phillips Head
 name_no_type: M5 Black 20 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: '455'
+oomlout_bolt_md5_6_alpha_first_3_upper: '455'
+oomlout_bolt_md5_6_alpha_last_3: ah
+oomlout_bolt_md5_6_alpha_last_3_upper: AH
+oomlout_bolt_md5_6_first_3: 6a2
+oomlout_bolt_md5_6_first_3_upper: 6A2
+oomlout_bolt_md5_6_last_3: e09
+oomlout_bolt_md5_6_last_3_upper: E09
+oomlout_bolt_name: Flat Head M5X20 mm Black (Phillips)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh5b20p
+oomlout_short_code_upper: FH5B20P
 oomp_key: oomp_hardware_screw_flat_head_m5_black_20_mm_length_phillips_head
 oomp_word: palm_tree zap angry
 oomp_word_emoji: ':palm_tree: :zap: :angry:'

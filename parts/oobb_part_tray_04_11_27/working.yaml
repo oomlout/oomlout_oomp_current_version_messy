@@ -1,3 +1,223 @@
+bip_39_word_dash_1: danger
+bip_39_word_dash_10: danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach
+bip_39_word_dash_11: danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach-crew
+bip_39_word_dash_12: danger-hole-transfer-jump-addict-jealous-worth-cloud-second-stomach-crew-army
+bip_39_word_dash_2: danger-hole
+bip_39_word_dash_3: danger-hole-transfer
+bip_39_word_dash_4: danger-hole-transfer-jump
+bip_39_word_dash_5: danger-hole-transfer-jump-addict
+bip_39_word_dash_6: danger-hole-transfer-jump-addict-jealous
+bip_39_word_dash_7: danger-hole-transfer-jump-addict-jealous-worth
+bip_39_word_dash_8: danger-hole-transfer-jump-addict-jealous-worth-cloud
+bip_39_word_dash_9: danger-hole-transfer-jump-addict-jealous-worth-cloud-second
+bip_39_word_new_br_1: danger
+bip_39_word_new_br_10: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach
+bip_39_word_new_br_11: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew
+bip_39_word_new_br_12: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second<br>stomach<br>crew<br>army
+bip_39_word_new_br_2: danger<br>hole
+bip_39_word_new_br_3: danger<br>hole<br>transfer
+bip_39_word_new_br_4: danger<br>hole<br>transfer<br>jump
+bip_39_word_new_br_5: danger<br>hole<br>transfer<br>jump<br>addict
+bip_39_word_new_br_6: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous
+bip_39_word_new_br_7: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth
+bip_39_word_new_br_8: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud
+bip_39_word_new_br_9: danger<br>hole<br>transfer<br>jump<br>addict<br>jealous<br>worth<br>cloud<br>second
+bip_39_word_new_line_1: danger
+bip_39_word_new_line_10: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach'
+bip_39_word_new_line_11: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach
+
+  crew'
+bip_39_word_new_line_12: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second
+
+  stomach
+
+  crew
+
+  army'
+bip_39_word_new_line_2: 'danger
+
+  hole'
+bip_39_word_new_line_3: 'danger
+
+  hole
+
+  transfer'
+bip_39_word_new_line_4: 'danger
+
+  hole
+
+  transfer
+
+  jump'
+bip_39_word_new_line_5: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict'
+bip_39_word_new_line_6: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous'
+bip_39_word_new_line_7: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth'
+bip_39_word_new_line_8: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud'
+bip_39_word_new_line_9: 'danger
+
+  hole
+
+  transfer
+
+  jump
+
+  addict
+
+  jealous
+
+  worth
+
+  cloud
+
+  second'
+bip_39_word_no_space_1: danger
+bip_39_word_no_space_10: dangerholetransferjumpaddictjealousworthcloudsecondstomach
+bip_39_word_no_space_11: dangerholetransferjumpaddictjealousworthcloudsecondstomachcrew
+bip_39_word_no_space_12: dangerholetransferjumpaddictjealousworthcloudsecondstomachcrewarmy
+bip_39_word_no_space_2: dangerhole
+bip_39_word_no_space_3: dangerholetransfer
+bip_39_word_no_space_4: dangerholetransferjump
+bip_39_word_no_space_5: dangerholetransferjumpaddict
+bip_39_word_no_space_6: dangerholetransferjumpaddictjealous
+bip_39_word_no_space_7: dangerholetransferjumpaddictjealousworth
+bip_39_word_no_space_8: dangerholetransferjumpaddictjealousworthcloud
+bip_39_word_no_space_9: dangerholetransferjumpaddictjealousworthcloudsecond
+bip_39_word_space_0:
+- danger
+- hole
+- transfer
+- jump
+- addict
+- jealous
+- worth
+- cloud
+- second
+- stomach
+- crew
+- army
+bip_39_word_space_1: danger
+bip_39_word_space_10: danger hole transfer jump addict jealous worth cloud second
+  stomach
+bip_39_word_space_11: danger hole transfer jump addict jealous worth cloud second
+  stomach crew
+bip_39_word_space_12: danger hole transfer jump addict jealous worth cloud second
+  stomach crew army
+bip_39_word_space_2: danger hole
+bip_39_word_space_3: danger hole transfer
+bip_39_word_space_4: danger hole transfer jump
+bip_39_word_space_5: danger hole transfer jump addict
+bip_39_word_space_6: danger hole transfer jump addict jealous
+bip_39_word_space_7: danger hole transfer jump addict jealous worth
+bip_39_word_space_8: danger hole transfer jump addict jealous worth cloud
+bip_39_word_space_9: danger hole transfer jump addict jealous worth cloud second
+bip_39_word_underscore_1: danger
+bip_39_word_underscore_10: danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach
+bip_39_word_underscore_11: danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach_crew
+bip_39_word_underscore_12: danger_hole_transfer_jump_addict_jealous_worth_cloud_second_stomach_crew_army
+bip_39_word_underscore_2: danger_hole
+bip_39_word_underscore_3: danger_hole_transfer
+bip_39_word_underscore_4: danger_hole_transfer_jump
+bip_39_word_underscore_5: danger_hole_transfer_jump_addict
+bip_39_word_underscore_6: danger_hole_transfer_jump_addict_jealous
+bip_39_word_underscore_7: danger_hole_transfer_jump_addict_jealous_worth
+bip_39_word_underscore_8: danger_hole_transfer_jump_addict_jealous_worth_cloud
+bip_39_word_underscore_9: danger_hole_transfer_jump_addict_jealous_worth_cloud_second
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_11_27
 id_no_color: '041127'
 id_no_size: '04_11_27'
 id_no_type: tray_04_11_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_11_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_11_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_11_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207i9bp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207i9bp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207i9bp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '041127'
 name_no_size: 04 11 27
 name_no_size_short: 04 11 27
 name_no_type: Tray 04 11 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_11_27
 oomp_word: bread leaves tea
 oomp_word_emoji: ':bread: :leaves: :tea:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :egg: :hearts: :trident:
 * md5_6_alpha: 7h5of
 * md5_6: bf9dff
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207h5of)
+[2x1](http://192.168.1.242:1112/?label=oomp%207h5of)
+[6x4](http://192.168.1.55:1112/?label=oomp%207h5of)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ assault |
 | id_no_color | other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id_no_size | other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | id_no_type | oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207h5of |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207h5of |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207h5of |  
 | link_redirect | https://github.com/oomlout/other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ assault |
 | name_no_size | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_size_short | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_type | Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | oomp_word | egg hearts trident |  
 | oomp_word_emoji | :egg: :hearts: :trident: |  

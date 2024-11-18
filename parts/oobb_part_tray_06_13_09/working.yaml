@@ -1,3 +1,223 @@
+bip_39_word_dash_1: truck
+bip_39_word_dash_10: truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream
+bip_39_word_dash_11: truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream-stock
+bip_39_word_dash_12: truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison-dream-stock-antenna
+bip_39_word_dash_2: truck-judge
+bip_39_word_dash_3: truck-judge-diary
+bip_39_word_dash_4: truck-judge-diary-tumble
+bip_39_word_dash_5: truck-judge-diary-tumble-disorder
+bip_39_word_dash_6: truck-judge-diary-tumble-disorder-trumpet
+bip_39_word_dash_7: truck-judge-diary-tumble-disorder-trumpet-pony
+bip_39_word_dash_8: truck-judge-diary-tumble-disorder-trumpet-pony-purity
+bip_39_word_dash_9: truck-judge-diary-tumble-disorder-trumpet-pony-purity-prison
+bip_39_word_new_br_1: truck
+bip_39_word_new_br_10: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream
+bip_39_word_new_br_11: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock
+bip_39_word_new_br_12: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison<br>dream<br>stock<br>antenna
+bip_39_word_new_br_2: truck<br>judge
+bip_39_word_new_br_3: truck<br>judge<br>diary
+bip_39_word_new_br_4: truck<br>judge<br>diary<br>tumble
+bip_39_word_new_br_5: truck<br>judge<br>diary<br>tumble<br>disorder
+bip_39_word_new_br_6: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet
+bip_39_word_new_br_7: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony
+bip_39_word_new_br_8: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity
+bip_39_word_new_br_9: truck<br>judge<br>diary<br>tumble<br>disorder<br>trumpet<br>pony<br>purity<br>prison
+bip_39_word_new_line_1: truck
+bip_39_word_new_line_10: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream'
+bip_39_word_new_line_11: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream
+
+  stock'
+bip_39_word_new_line_12: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison
+
+  dream
+
+  stock
+
+  antenna'
+bip_39_word_new_line_2: 'truck
+
+  judge'
+bip_39_word_new_line_3: 'truck
+
+  judge
+
+  diary'
+bip_39_word_new_line_4: 'truck
+
+  judge
+
+  diary
+
+  tumble'
+bip_39_word_new_line_5: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder'
+bip_39_word_new_line_6: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet'
+bip_39_word_new_line_7: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony'
+bip_39_word_new_line_8: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity'
+bip_39_word_new_line_9: 'truck
+
+  judge
+
+  diary
+
+  tumble
+
+  disorder
+
+  trumpet
+
+  pony
+
+  purity
+
+  prison'
+bip_39_word_no_space_1: truck
+bip_39_word_no_space_10: truckjudgediarytumbledisordertrumpetponypurityprisondream
+bip_39_word_no_space_11: truckjudgediarytumbledisordertrumpetponypurityprisondreamstock
+bip_39_word_no_space_12: truckjudgediarytumbledisordertrumpetponypurityprisondreamstockantenna
+bip_39_word_no_space_2: truckjudge
+bip_39_word_no_space_3: truckjudgediary
+bip_39_word_no_space_4: truckjudgediarytumble
+bip_39_word_no_space_5: truckjudgediarytumbledisorder
+bip_39_word_no_space_6: truckjudgediarytumbledisordertrumpet
+bip_39_word_no_space_7: truckjudgediarytumbledisordertrumpetpony
+bip_39_word_no_space_8: truckjudgediarytumbledisordertrumpetponypurity
+bip_39_word_no_space_9: truckjudgediarytumbledisordertrumpetponypurityprison
+bip_39_word_space_0:
+- truck
+- judge
+- diary
+- tumble
+- disorder
+- trumpet
+- pony
+- purity
+- prison
+- dream
+- stock
+- antenna
+bip_39_word_space_1: truck
+bip_39_word_space_10: truck judge diary tumble disorder trumpet pony purity prison
+  dream
+bip_39_word_space_11: truck judge diary tumble disorder trumpet pony purity prison
+  dream stock
+bip_39_word_space_12: truck judge diary tumble disorder trumpet pony purity prison
+  dream stock antenna
+bip_39_word_space_2: truck judge
+bip_39_word_space_3: truck judge diary
+bip_39_word_space_4: truck judge diary tumble
+bip_39_word_space_5: truck judge diary tumble disorder
+bip_39_word_space_6: truck judge diary tumble disorder trumpet
+bip_39_word_space_7: truck judge diary tumble disorder trumpet pony
+bip_39_word_space_8: truck judge diary tumble disorder trumpet pony purity
+bip_39_word_space_9: truck judge diary tumble disorder trumpet pony purity prison
+bip_39_word_underscore_1: truck
+bip_39_word_underscore_10: truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream
+bip_39_word_underscore_11: truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream_stock
+bip_39_word_underscore_12: truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison_dream_stock_antenna
+bip_39_word_underscore_2: truck_judge
+bip_39_word_underscore_3: truck_judge_diary
+bip_39_word_underscore_4: truck_judge_diary_tumble
+bip_39_word_underscore_5: truck_judge_diary_tumble_disorder
+bip_39_word_underscore_6: truck_judge_diary_tumble_disorder_trumpet
+bip_39_word_underscore_7: truck_judge_diary_tumble_disorder_trumpet_pony
+bip_39_word_underscore_8: truck_judge_diary_tumble_disorder_trumpet_pony_purity
+bip_39_word_underscore_9: truck_judge_diary_tumble_disorder_trumpet_pony_purity_prison
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_06_13_09
 id_no_color: 061309
 id_no_size: 06_13_09
 id_no_type: tray_06_13_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_13_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_13_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_13_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2065h5c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2065h5c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2065h5c
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 061309
 name_no_size: 06 13 09
 name_no_size_short: 06 13 09
 name_no_type: Tray 06 13 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_13_09
 oomp_word: hearts shirt star
 oomp_word_emoji: ':hearts: :shirt: :star:'

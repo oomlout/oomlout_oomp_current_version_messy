@@ -1,3 +1,221 @@
+bip_39_word_dash_1: pitch
+bip_39_word_dash_10: pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus
+bip_39_word_dash_11: pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus-claim
+bip_39_word_dash_12: pitch-coin-happy-limb-soccer-tribe-main-skirt-place-virus-claim-actress
+bip_39_word_dash_2: pitch-coin
+bip_39_word_dash_3: pitch-coin-happy
+bip_39_word_dash_4: pitch-coin-happy-limb
+bip_39_word_dash_5: pitch-coin-happy-limb-soccer
+bip_39_word_dash_6: pitch-coin-happy-limb-soccer-tribe
+bip_39_word_dash_7: pitch-coin-happy-limb-soccer-tribe-main
+bip_39_word_dash_8: pitch-coin-happy-limb-soccer-tribe-main-skirt
+bip_39_word_dash_9: pitch-coin-happy-limb-soccer-tribe-main-skirt-place
+bip_39_word_new_br_1: pitch
+bip_39_word_new_br_10: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus
+bip_39_word_new_br_11: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim
+bip_39_word_new_br_12: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place<br>virus<br>claim<br>actress
+bip_39_word_new_br_2: pitch<br>coin
+bip_39_word_new_br_3: pitch<br>coin<br>happy
+bip_39_word_new_br_4: pitch<br>coin<br>happy<br>limb
+bip_39_word_new_br_5: pitch<br>coin<br>happy<br>limb<br>soccer
+bip_39_word_new_br_6: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe
+bip_39_word_new_br_7: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main
+bip_39_word_new_br_8: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt
+bip_39_word_new_br_9: pitch<br>coin<br>happy<br>limb<br>soccer<br>tribe<br>main<br>skirt<br>place
+bip_39_word_new_line_1: pitch
+bip_39_word_new_line_10: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main
+
+  skirt
+
+  place
+
+  virus'
+bip_39_word_new_line_11: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main
+
+  skirt
+
+  place
+
+  virus
+
+  claim'
+bip_39_word_new_line_12: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main
+
+  skirt
+
+  place
+
+  virus
+
+  claim
+
+  actress'
+bip_39_word_new_line_2: 'pitch
+
+  coin'
+bip_39_word_new_line_3: 'pitch
+
+  coin
+
+  happy'
+bip_39_word_new_line_4: 'pitch
+
+  coin
+
+  happy
+
+  limb'
+bip_39_word_new_line_5: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer'
+bip_39_word_new_line_6: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe'
+bip_39_word_new_line_7: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main'
+bip_39_word_new_line_8: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main
+
+  skirt'
+bip_39_word_new_line_9: 'pitch
+
+  coin
+
+  happy
+
+  limb
+
+  soccer
+
+  tribe
+
+  main
+
+  skirt
+
+  place'
+bip_39_word_no_space_1: pitch
+bip_39_word_no_space_10: pitchcoinhappylimbsoccertribemainskirtplacevirus
+bip_39_word_no_space_11: pitchcoinhappylimbsoccertribemainskirtplacevirusclaim
+bip_39_word_no_space_12: pitchcoinhappylimbsoccertribemainskirtplacevirusclaimactress
+bip_39_word_no_space_2: pitchcoin
+bip_39_word_no_space_3: pitchcoinhappy
+bip_39_word_no_space_4: pitchcoinhappylimb
+bip_39_word_no_space_5: pitchcoinhappylimbsoccer
+bip_39_word_no_space_6: pitchcoinhappylimbsoccertribe
+bip_39_word_no_space_7: pitchcoinhappylimbsoccertribemain
+bip_39_word_no_space_8: pitchcoinhappylimbsoccertribemainskirt
+bip_39_word_no_space_9: pitchcoinhappylimbsoccertribemainskirtplace
+bip_39_word_space_0:
+- pitch
+- coin
+- happy
+- limb
+- soccer
+- tribe
+- main
+- skirt
+- place
+- virus
+- claim
+- actress
+bip_39_word_space_1: pitch
+bip_39_word_space_10: pitch coin happy limb soccer tribe main skirt place virus
+bip_39_word_space_11: pitch coin happy limb soccer tribe main skirt place virus claim
+bip_39_word_space_12: pitch coin happy limb soccer tribe main skirt place virus claim
+  actress
+bip_39_word_space_2: pitch coin
+bip_39_word_space_3: pitch coin happy
+bip_39_word_space_4: pitch coin happy limb
+bip_39_word_space_5: pitch coin happy limb soccer
+bip_39_word_space_6: pitch coin happy limb soccer tribe
+bip_39_word_space_7: pitch coin happy limb soccer tribe main
+bip_39_word_space_8: pitch coin happy limb soccer tribe main skirt
+bip_39_word_space_9: pitch coin happy limb soccer tribe main skirt place
+bip_39_word_underscore_1: pitch
+bip_39_word_underscore_10: pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus
+bip_39_word_underscore_11: pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus_claim
+bip_39_word_underscore_12: pitch_coin_happy_limb_soccer_tribe_main_skirt_place_virus_claim_actress
+bip_39_word_underscore_2: pitch_coin
+bip_39_word_underscore_3: pitch_coin_happy
+bip_39_word_underscore_4: pitch_coin_happy_limb
+bip_39_word_underscore_5: pitch_coin_happy_limb_soccer
+bip_39_word_underscore_6: pitch_coin_happy_limb_soccer_tribe
+bip_39_word_underscore_7: pitch_coin_happy_limb_soccer_tribe_main
+bip_39_word_underscore_8: pitch_coin_happy_limb_soccer_tribe_main_skirt
+bip_39_word_underscore_9: pitch_coin_happy_limb_soccer_tribe_main_skirt_place
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_10_06_60
 id_no_color: '100660'
 id_no_size: '10_06_60'
 id_no_type: tray_thin_10_06_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_06_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_06_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201q9h9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201q9h9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201q9h9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '100660'
 name_no_size: 10 06 60
 name_no_size_short: 10 06 60
 name_no_type: Tray Thin 10 06 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_06_60
 oomp_word: snowflake fish phone
 oomp_word_emoji: ':snowflake: :fish: :phone:'

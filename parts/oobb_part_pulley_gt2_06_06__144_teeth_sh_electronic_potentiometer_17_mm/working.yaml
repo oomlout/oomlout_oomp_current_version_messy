@@ -1,3 +1,223 @@
+bip_39_word_dash_1: include
+bip_39_word_dash_10: include-barely-measure-buyer-park-betray-kitchen-track-version-example
+bip_39_word_dash_11: include-barely-measure-buyer-park-betray-kitchen-track-version-example-wall
+bip_39_word_dash_12: include-barely-measure-buyer-park-betray-kitchen-track-version-example-wall-adjust
+bip_39_word_dash_2: include-barely
+bip_39_word_dash_3: include-barely-measure
+bip_39_word_dash_4: include-barely-measure-buyer
+bip_39_word_dash_5: include-barely-measure-buyer-park
+bip_39_word_dash_6: include-barely-measure-buyer-park-betray
+bip_39_word_dash_7: include-barely-measure-buyer-park-betray-kitchen
+bip_39_word_dash_8: include-barely-measure-buyer-park-betray-kitchen-track
+bip_39_word_dash_9: include-barely-measure-buyer-park-betray-kitchen-track-version
+bip_39_word_new_br_1: include
+bip_39_word_new_br_10: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example
+bip_39_word_new_br_11: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example<br>wall
+bip_39_word_new_br_12: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version<br>example<br>wall<br>adjust
+bip_39_word_new_br_2: include<br>barely
+bip_39_word_new_br_3: include<br>barely<br>measure
+bip_39_word_new_br_4: include<br>barely<br>measure<br>buyer
+bip_39_word_new_br_5: include<br>barely<br>measure<br>buyer<br>park
+bip_39_word_new_br_6: include<br>barely<br>measure<br>buyer<br>park<br>betray
+bip_39_word_new_br_7: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen
+bip_39_word_new_br_8: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track
+bip_39_word_new_br_9: include<br>barely<br>measure<br>buyer<br>park<br>betray<br>kitchen<br>track<br>version
+bip_39_word_new_line_1: include
+bip_39_word_new_line_10: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen
+
+  track
+
+  version
+
+  example'
+bip_39_word_new_line_11: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen
+
+  track
+
+  version
+
+  example
+
+  wall'
+bip_39_word_new_line_12: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen
+
+  track
+
+  version
+
+  example
+
+  wall
+
+  adjust'
+bip_39_word_new_line_2: 'include
+
+  barely'
+bip_39_word_new_line_3: 'include
+
+  barely
+
+  measure'
+bip_39_word_new_line_4: 'include
+
+  barely
+
+  measure
+
+  buyer'
+bip_39_word_new_line_5: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park'
+bip_39_word_new_line_6: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray'
+bip_39_word_new_line_7: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen'
+bip_39_word_new_line_8: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen
+
+  track'
+bip_39_word_new_line_9: 'include
+
+  barely
+
+  measure
+
+  buyer
+
+  park
+
+  betray
+
+  kitchen
+
+  track
+
+  version'
+bip_39_word_no_space_1: include
+bip_39_word_no_space_10: includebarelymeasurebuyerparkbetraykitchentrackversionexample
+bip_39_word_no_space_11: includebarelymeasurebuyerparkbetraykitchentrackversionexamplewall
+bip_39_word_no_space_12: includebarelymeasurebuyerparkbetraykitchentrackversionexamplewalladjust
+bip_39_word_no_space_2: includebarely
+bip_39_word_no_space_3: includebarelymeasure
+bip_39_word_no_space_4: includebarelymeasurebuyer
+bip_39_word_no_space_5: includebarelymeasurebuyerpark
+bip_39_word_no_space_6: includebarelymeasurebuyerparkbetray
+bip_39_word_no_space_7: includebarelymeasurebuyerparkbetraykitchen
+bip_39_word_no_space_8: includebarelymeasurebuyerparkbetraykitchentrack
+bip_39_word_no_space_9: includebarelymeasurebuyerparkbetraykitchentrackversion
+bip_39_word_space_0:
+- include
+- barely
+- measure
+- buyer
+- park
+- betray
+- kitchen
+- track
+- version
+- example
+- wall
+- adjust
+bip_39_word_space_1: include
+bip_39_word_space_10: include barely measure buyer park betray kitchen track version
+  example
+bip_39_word_space_11: include barely measure buyer park betray kitchen track version
+  example wall
+bip_39_word_space_12: include barely measure buyer park betray kitchen track version
+  example wall adjust
+bip_39_word_space_2: include barely
+bip_39_word_space_3: include barely measure
+bip_39_word_space_4: include barely measure buyer
+bip_39_word_space_5: include barely measure buyer park
+bip_39_word_space_6: include barely measure buyer park betray
+bip_39_word_space_7: include barely measure buyer park betray kitchen
+bip_39_word_space_8: include barely measure buyer park betray kitchen track
+bip_39_word_space_9: include barely measure buyer park betray kitchen track version
+bip_39_word_underscore_1: include
+bip_39_word_underscore_10: include_barely_measure_buyer_park_betray_kitchen_track_version_example
+bip_39_word_underscore_11: include_barely_measure_buyer_park_betray_kitchen_track_version_example_wall
+bip_39_word_underscore_12: include_barely_measure_buyer_park_betray_kitchen_track_version_example_wall_adjust
+bip_39_word_underscore_2: include_barely
+bip_39_word_underscore_3: include_barely_measure
+bip_39_word_underscore_4: include_barely_measure_buyer
+bip_39_word_underscore_5: include_barely_measure_buyer_park
+bip_39_word_underscore_6: include_barely_measure_buyer_park_betray
+bip_39_word_underscore_7: include_barely_measure_buyer_park_betray_kitchen
+bip_39_word_underscore_8: include_barely_measure_buyer_park_betray_kitchen_track
+bip_39_word_underscore_9: include_barely_measure_buyer_park_betray_kitchen_track_version
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
 id_no_color: 0606144teethshelectronicpotentiometer17mm
 id_no_size: 06_06__144_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029d8z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029d8z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029d8z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0606144Teethshelectronicpotentiometer17mm
 name_no_size: 06 06  144 Teeth Sh Electronic Potentiometer 17 mm
 name_no_size_short: 06 06  144 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Pulley Gt2 06 06  144 Teeth Sh Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_06__144_teeth_sh_electronic_potentiometer_17_mm
 oomp_word: tiger bus fish
 oomp_word_emoji: ':tiger: :bus: :fish:'

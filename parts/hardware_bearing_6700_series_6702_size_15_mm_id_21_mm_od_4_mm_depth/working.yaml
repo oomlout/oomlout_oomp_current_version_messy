@@ -1,3 +1,222 @@
+bip_39_word_dash_1: display
+bip_39_word_dash_10: display-right-chief-easily-garlic-skirt-ginger-poem-bread-shrimp
+bip_39_word_dash_11: display-right-chief-easily-garlic-skirt-ginger-poem-bread-shrimp-jazz
+bip_39_word_dash_12: display-right-chief-easily-garlic-skirt-ginger-poem-bread-shrimp-jazz-action
+bip_39_word_dash_2: display-right
+bip_39_word_dash_3: display-right-chief
+bip_39_word_dash_4: display-right-chief-easily
+bip_39_word_dash_5: display-right-chief-easily-garlic
+bip_39_word_dash_6: display-right-chief-easily-garlic-skirt
+bip_39_word_dash_7: display-right-chief-easily-garlic-skirt-ginger
+bip_39_word_dash_8: display-right-chief-easily-garlic-skirt-ginger-poem
+bip_39_word_dash_9: display-right-chief-easily-garlic-skirt-ginger-poem-bread
+bip_39_word_new_br_1: display
+bip_39_word_new_br_10: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp
+bip_39_word_new_br_11: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp<br>jazz
+bip_39_word_new_br_12: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread<br>shrimp<br>jazz<br>action
+bip_39_word_new_br_2: display<br>right
+bip_39_word_new_br_3: display<br>right<br>chief
+bip_39_word_new_br_4: display<br>right<br>chief<br>easily
+bip_39_word_new_br_5: display<br>right<br>chief<br>easily<br>garlic
+bip_39_word_new_br_6: display<br>right<br>chief<br>easily<br>garlic<br>skirt
+bip_39_word_new_br_7: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger
+bip_39_word_new_br_8: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem
+bip_39_word_new_br_9: display<br>right<br>chief<br>easily<br>garlic<br>skirt<br>ginger<br>poem<br>bread
+bip_39_word_new_line_1: display
+bip_39_word_new_line_10: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger
+
+  poem
+
+  bread
+
+  shrimp'
+bip_39_word_new_line_11: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger
+
+  poem
+
+  bread
+
+  shrimp
+
+  jazz'
+bip_39_word_new_line_12: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger
+
+  poem
+
+  bread
+
+  shrimp
+
+  jazz
+
+  action'
+bip_39_word_new_line_2: 'display
+
+  right'
+bip_39_word_new_line_3: 'display
+
+  right
+
+  chief'
+bip_39_word_new_line_4: 'display
+
+  right
+
+  chief
+
+  easily'
+bip_39_word_new_line_5: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic'
+bip_39_word_new_line_6: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt'
+bip_39_word_new_line_7: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger'
+bip_39_word_new_line_8: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger
+
+  poem'
+bip_39_word_new_line_9: 'display
+
+  right
+
+  chief
+
+  easily
+
+  garlic
+
+  skirt
+
+  ginger
+
+  poem
+
+  bread'
+bip_39_word_no_space_1: display
+bip_39_word_no_space_10: displayrightchiefeasilygarlicskirtgingerpoembreadshrimp
+bip_39_word_no_space_11: displayrightchiefeasilygarlicskirtgingerpoembreadshrimpjazz
+bip_39_word_no_space_12: displayrightchiefeasilygarlicskirtgingerpoembreadshrimpjazzaction
+bip_39_word_no_space_2: displayright
+bip_39_word_no_space_3: displayrightchief
+bip_39_word_no_space_4: displayrightchiefeasily
+bip_39_word_no_space_5: displayrightchiefeasilygarlic
+bip_39_word_no_space_6: displayrightchiefeasilygarlicskirt
+bip_39_word_no_space_7: displayrightchiefeasilygarlicskirtginger
+bip_39_word_no_space_8: displayrightchiefeasilygarlicskirtgingerpoem
+bip_39_word_no_space_9: displayrightchiefeasilygarlicskirtgingerpoembread
+bip_39_word_space_0:
+- display
+- right
+- chief
+- easily
+- garlic
+- skirt
+- ginger
+- poem
+- bread
+- shrimp
+- jazz
+- action
+bip_39_word_space_1: display
+bip_39_word_space_10: display right chief easily garlic skirt ginger poem bread shrimp
+bip_39_word_space_11: display right chief easily garlic skirt ginger poem bread shrimp
+  jazz
+bip_39_word_space_12: display right chief easily garlic skirt ginger poem bread shrimp
+  jazz action
+bip_39_word_space_2: display right
+bip_39_word_space_3: display right chief
+bip_39_word_space_4: display right chief easily
+bip_39_word_space_5: display right chief easily garlic
+bip_39_word_space_6: display right chief easily garlic skirt
+bip_39_word_space_7: display right chief easily garlic skirt ginger
+bip_39_word_space_8: display right chief easily garlic skirt ginger poem
+bip_39_word_space_9: display right chief easily garlic skirt ginger poem bread
+bip_39_word_underscore_1: display
+bip_39_word_underscore_10: display_right_chief_easily_garlic_skirt_ginger_poem_bread_shrimp
+bip_39_word_underscore_11: display_right_chief_easily_garlic_skirt_ginger_poem_bread_shrimp_jazz
+bip_39_word_underscore_12: display_right_chief_easily_garlic_skirt_ginger_poem_bread_shrimp_jazz_action
+bip_39_word_underscore_2: display_right
+bip_39_word_underscore_3: display_right_chief
+bip_39_word_underscore_4: display_right_chief_easily
+bip_39_word_underscore_5: display_right_chief_easily_garlic
+bip_39_word_underscore_6: display_right_chief_easily_garlic_skirt
+bip_39_word_underscore_7: display_right_chief_easily_garlic_skirt_ginger
+bip_39_word_underscore_8: display_right_chief_easily_garlic_skirt_ginger_poem
+bip_39_word_underscore_9: display_right_chief_easily_garlic_skirt_ginger_poem_bread
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 id_no_color: 15_mm_id_21_mm_od_4_mm_depth
 id_no_size: 6702_size_15_mm_id_21_mm_od_4_mm_depth
 id_no_type: 6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201lhwx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201lhwx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201lhwx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 15 mm ID 21 mm OD 4 mm Depth
 name_no_size: 6702 Size 15 mm ID 21 mm OD 4 mm Depth
 name_no_size_short: 6702 Size 15 Mm Id 21 Mm Od 4 Mm Depth
 name_no_type: 6700 Series 6702 Size 15 mm ID 21 mm OD 4 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6702
+oomlout_short_code_upper: BR6702
 oomp_key: oomp_hardware_bearing_6700_series_6702_size_15_mm_id_21_mm_od_4_mm_depth
 oomp_word: tongue ambulance ticket
 oomp_word_emoji: ':tongue: :ambulance: :ticket:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 13 01  U
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_13_01__u
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :umbrella: :phone: :taxi:
 * md5_6_alpha: 1noq4
 * md5_6: 2a7dec
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201noq4)
+[2x1](http://192.168.1.242:1112/?label=oomp%201noq4)
+[6x4](http://192.168.1.55:1112/?label=oomp%201noq4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__u) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ library |
 | id_no_color | 1301u |  
 | id_no_size | 13_01__u |  
 | id_no_type | bunting_alphabet_13_01__u |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__u |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__u |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__u |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201noq4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201noq4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201noq4 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ library |
 | name_no_size | 13 01  U |  
 | name_no_size_short | 13 01  U |  
 | name_no_type | Bunting Alphabet 13 01  U |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__u |  
 | oomp_word | umbrella phone taxi |  
 | oomp_word_emoji | :umbrella: :phone: :taxi: |  

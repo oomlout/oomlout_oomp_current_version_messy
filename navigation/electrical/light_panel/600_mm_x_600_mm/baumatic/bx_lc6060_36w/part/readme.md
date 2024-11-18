@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W
+* name_short: 
 ### id
 * oomp_id: electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
   * classification: electrical
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sparkles: :pizza: :blowfish:
 * md5_6_alpha: m2ql
 * md5_6: 0fb75d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20m2ql)
+[2x1](http://192.168.1.242:1112/?label=oomp%20m2ql)
+[6x4](http://192.168.1.55:1112/?label=oomp%20m2ql)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ whip |
 | id_no_color | baumaticbxlc606036w |  
 | id_no_size | baumatic_bx_lc6060_36w |  
 | id_no_type | 600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20m2ql |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20m2ql |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20m2ql |  
 | manufacturer | baumatic |  
 | manufacturer_capital | Baumatic |  
 | manufacturer_first_letter | b |  
@@ -280,6 +313,7 @@ whip |
 | name_no_size | Baumatic Bx Lc6060 36W |  
 | name_no_size_short | Baumatic Bx Lc6060 36W |  
 | name_no_type | 600 mm X 600 mm Baumatic Bx Lc6060 36W |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | oomp_word | sparkles pizza blowfish |  
 | oomp_word_emoji | :sparkles: :pizza: :blowfish: |  

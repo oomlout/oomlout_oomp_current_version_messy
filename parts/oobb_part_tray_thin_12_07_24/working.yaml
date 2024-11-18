@@ -1,3 +1,222 @@
+bip_39_word_dash_1: math
+bip_39_word_dash_10: math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain
+bip_39_word_dash_11: math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain-mother
+bip_39_word_dash_12: math-spell-pool-seek-luxury-split-cannon-retreat-equal-brain-mother-acquire
+bip_39_word_dash_2: math-spell
+bip_39_word_dash_3: math-spell-pool
+bip_39_word_dash_4: math-spell-pool-seek
+bip_39_word_dash_5: math-spell-pool-seek-luxury
+bip_39_word_dash_6: math-spell-pool-seek-luxury-split
+bip_39_word_dash_7: math-spell-pool-seek-luxury-split-cannon
+bip_39_word_dash_8: math-spell-pool-seek-luxury-split-cannon-retreat
+bip_39_word_dash_9: math-spell-pool-seek-luxury-split-cannon-retreat-equal
+bip_39_word_new_br_1: math
+bip_39_word_new_br_10: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain
+bip_39_word_new_br_11: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother
+bip_39_word_new_br_12: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal<br>brain<br>mother<br>acquire
+bip_39_word_new_br_2: math<br>spell
+bip_39_word_new_br_3: math<br>spell<br>pool
+bip_39_word_new_br_4: math<br>spell<br>pool<br>seek
+bip_39_word_new_br_5: math<br>spell<br>pool<br>seek<br>luxury
+bip_39_word_new_br_6: math<br>spell<br>pool<br>seek<br>luxury<br>split
+bip_39_word_new_br_7: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon
+bip_39_word_new_br_8: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat
+bip_39_word_new_br_9: math<br>spell<br>pool<br>seek<br>luxury<br>split<br>cannon<br>retreat<br>equal
+bip_39_word_new_line_1: math
+bip_39_word_new_line_10: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon
+
+  retreat
+
+  equal
+
+  brain'
+bip_39_word_new_line_11: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon
+
+  retreat
+
+  equal
+
+  brain
+
+  mother'
+bip_39_word_new_line_12: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon
+
+  retreat
+
+  equal
+
+  brain
+
+  mother
+
+  acquire'
+bip_39_word_new_line_2: 'math
+
+  spell'
+bip_39_word_new_line_3: 'math
+
+  spell
+
+  pool'
+bip_39_word_new_line_4: 'math
+
+  spell
+
+  pool
+
+  seek'
+bip_39_word_new_line_5: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury'
+bip_39_word_new_line_6: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split'
+bip_39_word_new_line_7: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon'
+bip_39_word_new_line_8: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon
+
+  retreat'
+bip_39_word_new_line_9: 'math
+
+  spell
+
+  pool
+
+  seek
+
+  luxury
+
+  split
+
+  cannon
+
+  retreat
+
+  equal'
+bip_39_word_no_space_1: math
+bip_39_word_no_space_10: mathspellpoolseekluxurysplitcannonretreatequalbrain
+bip_39_word_no_space_11: mathspellpoolseekluxurysplitcannonretreatequalbrainmother
+bip_39_word_no_space_12: mathspellpoolseekluxurysplitcannonretreatequalbrainmotheracquire
+bip_39_word_no_space_2: mathspell
+bip_39_word_no_space_3: mathspellpool
+bip_39_word_no_space_4: mathspellpoolseek
+bip_39_word_no_space_5: mathspellpoolseekluxury
+bip_39_word_no_space_6: mathspellpoolseekluxurysplit
+bip_39_word_no_space_7: mathspellpoolseekluxurysplitcannon
+bip_39_word_no_space_8: mathspellpoolseekluxurysplitcannonretreat
+bip_39_word_no_space_9: mathspellpoolseekluxurysplitcannonretreatequal
+bip_39_word_space_0:
+- math
+- spell
+- pool
+- seek
+- luxury
+- split
+- cannon
+- retreat
+- equal
+- brain
+- mother
+- acquire
+bip_39_word_space_1: math
+bip_39_word_space_10: math spell pool seek luxury split cannon retreat equal brain
+bip_39_word_space_11: math spell pool seek luxury split cannon retreat equal brain
+  mother
+bip_39_word_space_12: math spell pool seek luxury split cannon retreat equal brain
+  mother acquire
+bip_39_word_space_2: math spell
+bip_39_word_space_3: math spell pool
+bip_39_word_space_4: math spell pool seek
+bip_39_word_space_5: math spell pool seek luxury
+bip_39_word_space_6: math spell pool seek luxury split
+bip_39_word_space_7: math spell pool seek luxury split cannon
+bip_39_word_space_8: math spell pool seek luxury split cannon retreat
+bip_39_word_space_9: math spell pool seek luxury split cannon retreat equal
+bip_39_word_underscore_1: math
+bip_39_word_underscore_10: math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain
+bip_39_word_underscore_11: math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain_mother
+bip_39_word_underscore_12: math_spell_pool_seek_luxury_split_cannon_retreat_equal_brain_mother_acquire
+bip_39_word_underscore_2: math_spell
+bip_39_word_underscore_3: math_spell_pool
+bip_39_word_underscore_4: math_spell_pool_seek
+bip_39_word_underscore_5: math_spell_pool_seek_luxury
+bip_39_word_underscore_6: math_spell_pool_seek_luxury_split
+bip_39_word_underscore_7: math_spell_pool_seek_luxury_split_cannon
+bip_39_word_underscore_8: math_spell_pool_seek_luxury_split_cannon_retreat
+bip_39_word_underscore_9: math_spell_pool_seek_luxury_split_cannon_retreat_equal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_07_24
 id_no_color: '120724'
 id_no_size: '12_07_24'
 id_no_type: tray_thin_12_07_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_07_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_07_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dc92
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dc92
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dc92
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '120724'
 name_no_size: 12 07 24
 name_no_size_short: 12 07 24
 name_no_type: Tray Thin 12 07 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_07_24
 oomp_word: kiss skull bird
 oomp_word_emoji: ':kiss: :skull: :bird:'

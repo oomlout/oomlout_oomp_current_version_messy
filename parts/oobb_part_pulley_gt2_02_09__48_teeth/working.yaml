@@ -1,3 +1,222 @@
+bip_39_word_dash_1: air
+bip_39_word_dash_10: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender
+bip_39_word_dash_11: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender-case
+bip_39_word_dash_12: air-candy-great-rain-crucial-toward-peanut-bread-nasty-slender-case-admit
+bip_39_word_dash_2: air-candy
+bip_39_word_dash_3: air-candy-great
+bip_39_word_dash_4: air-candy-great-rain
+bip_39_word_dash_5: air-candy-great-rain-crucial
+bip_39_word_dash_6: air-candy-great-rain-crucial-toward
+bip_39_word_dash_7: air-candy-great-rain-crucial-toward-peanut
+bip_39_word_dash_8: air-candy-great-rain-crucial-toward-peanut-bread
+bip_39_word_dash_9: air-candy-great-rain-crucial-toward-peanut-bread-nasty
+bip_39_word_new_br_1: air
+bip_39_word_new_br_10: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender
+bip_39_word_new_br_11: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case
+bip_39_word_new_br_12: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty<br>slender<br>case<br>admit
+bip_39_word_new_br_2: air<br>candy
+bip_39_word_new_br_3: air<br>candy<br>great
+bip_39_word_new_br_4: air<br>candy<br>great<br>rain
+bip_39_word_new_br_5: air<br>candy<br>great<br>rain<br>crucial
+bip_39_word_new_br_6: air<br>candy<br>great<br>rain<br>crucial<br>toward
+bip_39_word_new_br_7: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut
+bip_39_word_new_br_8: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread
+bip_39_word_new_br_9: air<br>candy<br>great<br>rain<br>crucial<br>toward<br>peanut<br>bread<br>nasty
+bip_39_word_new_line_1: air
+bip_39_word_new_line_10: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut
+
+  bread
+
+  nasty
+
+  slender'
+bip_39_word_new_line_11: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut
+
+  bread
+
+  nasty
+
+  slender
+
+  case'
+bip_39_word_new_line_12: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut
+
+  bread
+
+  nasty
+
+  slender
+
+  case
+
+  admit'
+bip_39_word_new_line_2: 'air
+
+  candy'
+bip_39_word_new_line_3: 'air
+
+  candy
+
+  great'
+bip_39_word_new_line_4: 'air
+
+  candy
+
+  great
+
+  rain'
+bip_39_word_new_line_5: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial'
+bip_39_word_new_line_6: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward'
+bip_39_word_new_line_7: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut'
+bip_39_word_new_line_8: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut
+
+  bread'
+bip_39_word_new_line_9: 'air
+
+  candy
+
+  great
+
+  rain
+
+  crucial
+
+  toward
+
+  peanut
+
+  bread
+
+  nasty'
+bip_39_word_no_space_1: air
+bip_39_word_no_space_10: aircandygreatraincrucialtowardpeanutbreadnastyslender
+bip_39_word_no_space_11: aircandygreatraincrucialtowardpeanutbreadnastyslendercase
+bip_39_word_no_space_12: aircandygreatraincrucialtowardpeanutbreadnastyslendercaseadmit
+bip_39_word_no_space_2: aircandy
+bip_39_word_no_space_3: aircandygreat
+bip_39_word_no_space_4: aircandygreatrain
+bip_39_word_no_space_5: aircandygreatraincrucial
+bip_39_word_no_space_6: aircandygreatraincrucialtoward
+bip_39_word_no_space_7: aircandygreatraincrucialtowardpeanut
+bip_39_word_no_space_8: aircandygreatraincrucialtowardpeanutbread
+bip_39_word_no_space_9: aircandygreatraincrucialtowardpeanutbreadnasty
+bip_39_word_space_0:
+- air
+- candy
+- great
+- rain
+- crucial
+- toward
+- peanut
+- bread
+- nasty
+- slender
+- case
+- admit
+bip_39_word_space_1: air
+bip_39_word_space_10: air candy great rain crucial toward peanut bread nasty slender
+bip_39_word_space_11: air candy great rain crucial toward peanut bread nasty slender
+  case
+bip_39_word_space_12: air candy great rain crucial toward peanut bread nasty slender
+  case admit
+bip_39_word_space_2: air candy
+bip_39_word_space_3: air candy great
+bip_39_word_space_4: air candy great rain
+bip_39_word_space_5: air candy great rain crucial
+bip_39_word_space_6: air candy great rain crucial toward
+bip_39_word_space_7: air candy great rain crucial toward peanut
+bip_39_word_space_8: air candy great rain crucial toward peanut bread
+bip_39_word_space_9: air candy great rain crucial toward peanut bread nasty
+bip_39_word_underscore_1: air
+bip_39_word_underscore_10: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender
+bip_39_word_underscore_11: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender_case
+bip_39_word_underscore_12: air_candy_great_rain_crucial_toward_peanut_bread_nasty_slender_case_admit
+bip_39_word_underscore_2: air_candy
+bip_39_word_underscore_3: air_candy_great
+bip_39_word_underscore_4: air_candy_great_rain
+bip_39_word_underscore_5: air_candy_great_rain_crucial
+bip_39_word_underscore_6: air_candy_great_rain_crucial_toward
+bip_39_word_underscore_7: air_candy_great_rain_crucial_toward_peanut
+bip_39_word_underscore_8: air_candy_great_rain_crucial_toward_peanut_bread
+bip_39_word_underscore_9: air_candy_great_rain_crucial_toward_peanut_bread_nasty
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_02_09__48_teeth
 id_no_color: 020948teeth
 id_no_size: 02_09__48_teeth
 id_no_type: pulley_gt2_02_09__48_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029uuq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029uuq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029uuq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020948Teeth
 name_no_size: 02 09  48 Teeth
 name_no_size_short: 02 09  48 Teeth
 name_no_type: Pulley Gt2 02 09  48 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__48_teeth
 oomp_word: koala bird dolls
 oomp_word_emoji: ':koala: :bird: :dolls:'

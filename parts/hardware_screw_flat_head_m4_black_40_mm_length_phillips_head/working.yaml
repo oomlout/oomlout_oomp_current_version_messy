@@ -1,3 +1,223 @@
+bip_39_word_dash_1: amused
+bip_39_word_dash_10: amused-behave-depend-repair-patrol-always-shoe-business-culture-kite
+bip_39_word_dash_11: amused-behave-depend-repair-patrol-always-shoe-business-culture-kite-body
+bip_39_word_dash_12: amused-behave-depend-repair-patrol-always-shoe-business-culture-kite-body-acquire
+bip_39_word_dash_2: amused-behave
+bip_39_word_dash_3: amused-behave-depend
+bip_39_word_dash_4: amused-behave-depend-repair
+bip_39_word_dash_5: amused-behave-depend-repair-patrol
+bip_39_word_dash_6: amused-behave-depend-repair-patrol-always
+bip_39_word_dash_7: amused-behave-depend-repair-patrol-always-shoe
+bip_39_word_dash_8: amused-behave-depend-repair-patrol-always-shoe-business
+bip_39_word_dash_9: amused-behave-depend-repair-patrol-always-shoe-business-culture
+bip_39_word_new_br_1: amused
+bip_39_word_new_br_10: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe<br>business<br>culture<br>kite
+bip_39_word_new_br_11: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe<br>business<br>culture<br>kite<br>body
+bip_39_word_new_br_12: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe<br>business<br>culture<br>kite<br>body<br>acquire
+bip_39_word_new_br_2: amused<br>behave
+bip_39_word_new_br_3: amused<br>behave<br>depend
+bip_39_word_new_br_4: amused<br>behave<br>depend<br>repair
+bip_39_word_new_br_5: amused<br>behave<br>depend<br>repair<br>patrol
+bip_39_word_new_br_6: amused<br>behave<br>depend<br>repair<br>patrol<br>always
+bip_39_word_new_br_7: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe
+bip_39_word_new_br_8: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe<br>business
+bip_39_word_new_br_9: amused<br>behave<br>depend<br>repair<br>patrol<br>always<br>shoe<br>business<br>culture
+bip_39_word_new_line_1: amused
+bip_39_word_new_line_10: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe
+
+  business
+
+  culture
+
+  kite'
+bip_39_word_new_line_11: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe
+
+  business
+
+  culture
+
+  kite
+
+  body'
+bip_39_word_new_line_12: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe
+
+  business
+
+  culture
+
+  kite
+
+  body
+
+  acquire'
+bip_39_word_new_line_2: 'amused
+
+  behave'
+bip_39_word_new_line_3: 'amused
+
+  behave
+
+  depend'
+bip_39_word_new_line_4: 'amused
+
+  behave
+
+  depend
+
+  repair'
+bip_39_word_new_line_5: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol'
+bip_39_word_new_line_6: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always'
+bip_39_word_new_line_7: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe'
+bip_39_word_new_line_8: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe
+
+  business'
+bip_39_word_new_line_9: 'amused
+
+  behave
+
+  depend
+
+  repair
+
+  patrol
+
+  always
+
+  shoe
+
+  business
+
+  culture'
+bip_39_word_no_space_1: amused
+bip_39_word_no_space_10: amusedbehavedependrepairpatrolalwaysshoebusinessculturekite
+bip_39_word_no_space_11: amusedbehavedependrepairpatrolalwaysshoebusinessculturekitebody
+bip_39_word_no_space_12: amusedbehavedependrepairpatrolalwaysshoebusinessculturekitebodyacquire
+bip_39_word_no_space_2: amusedbehave
+bip_39_word_no_space_3: amusedbehavedepend
+bip_39_word_no_space_4: amusedbehavedependrepair
+bip_39_word_no_space_5: amusedbehavedependrepairpatrol
+bip_39_word_no_space_6: amusedbehavedependrepairpatrolalways
+bip_39_word_no_space_7: amusedbehavedependrepairpatrolalwaysshoe
+bip_39_word_no_space_8: amusedbehavedependrepairpatrolalwaysshoebusiness
+bip_39_word_no_space_9: amusedbehavedependrepairpatrolalwaysshoebusinessculture
+bip_39_word_space_0:
+- amused
+- behave
+- depend
+- repair
+- patrol
+- always
+- shoe
+- business
+- culture
+- kite
+- body
+- acquire
+bip_39_word_space_1: amused
+bip_39_word_space_10: amused behave depend repair patrol always shoe business culture
+  kite
+bip_39_word_space_11: amused behave depend repair patrol always shoe business culture
+  kite body
+bip_39_word_space_12: amused behave depend repair patrol always shoe business culture
+  kite body acquire
+bip_39_word_space_2: amused behave
+bip_39_word_space_3: amused behave depend
+bip_39_word_space_4: amused behave depend repair
+bip_39_word_space_5: amused behave depend repair patrol
+bip_39_word_space_6: amused behave depend repair patrol always
+bip_39_word_space_7: amused behave depend repair patrol always shoe
+bip_39_word_space_8: amused behave depend repair patrol always shoe business
+bip_39_word_space_9: amused behave depend repair patrol always shoe business culture
+bip_39_word_underscore_1: amused
+bip_39_word_underscore_10: amused_behave_depend_repair_patrol_always_shoe_business_culture_kite
+bip_39_word_underscore_11: amused_behave_depend_repair_patrol_always_shoe_business_culture_kite_body
+bip_39_word_underscore_12: amused_behave_depend_repair_patrol_always_shoe_business_culture_kite_body_acquire
+bip_39_word_underscore_2: amused_behave
+bip_39_word_underscore_3: amused_behave_depend
+bip_39_word_underscore_4: amused_behave_depend_repair
+bip_39_word_underscore_5: amused_behave_depend_repair_patrol
+bip_39_word_underscore_6: amused_behave_depend_repair_patrol_always
+bip_39_word_underscore_7: amused_behave_depend_repair_patrol_always_shoe
+bip_39_word_underscore_8: amused_behave_depend_repair_patrol_always_shoe_business
+bip_39_word_underscore_9: amused_behave_depend_repair_patrol_always_shoe_business_culture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 40_mm_length_phillips_head
 id_no_size: black_40_mm_length_phillips_head
 id_no_type: m4_black_40_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_40_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m4_black_40_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_40_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201c15q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201c15q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201c15q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 40 mm Length Phillips Head
 name_no_size: Black 40 mm Length Phillips Head
 name_no_size_short: Black 40 Mm Length Phillips Head
 name_no_type: M4 Black 40 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 40 mm
+oomlout_bolt_length_no_unit: '40'
+oomlout_bolt_md5_6_alpha_first_3: 1c1
+oomlout_bolt_md5_6_alpha_first_3_upper: 1C1
+oomlout_bolt_md5_6_alpha_last_3: 5q
+oomlout_bolt_md5_6_alpha_last_3_upper: 5Q
+oomlout_bolt_md5_6_first_3: '223'
+oomlout_bolt_md5_6_first_3_upper: '223'
+oomlout_bolt_md5_6_last_3: 1de
+oomlout_bolt_md5_6_last_3_upper: 1DE
+oomlout_bolt_name: Flat Head M4X40 mm Black (Phillips)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh4b40p
+oomlout_short_code_upper: FH4B40P
 oomp_key: oomp_hardware_screw_flat_head_m4_black_40_mm_length_phillips_head
 oomp_word: lips ocean rainbow
 oomp_word_emoji: ':lips: :ocean: :rainbow:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: grocery
+bip_39_word_dash_10: grocery-source-ahead-drum-there-soft-mansion-session-cram-coil
+bip_39_word_dash_11: grocery-source-ahead-drum-there-soft-mansion-session-cram-coil-thrive
+bip_39_word_dash_12: grocery-source-ahead-drum-there-soft-mansion-session-cram-coil-thrive-arrange
+bip_39_word_dash_2: grocery-source
+bip_39_word_dash_3: grocery-source-ahead
+bip_39_word_dash_4: grocery-source-ahead-drum
+bip_39_word_dash_5: grocery-source-ahead-drum-there
+bip_39_word_dash_6: grocery-source-ahead-drum-there-soft
+bip_39_word_dash_7: grocery-source-ahead-drum-there-soft-mansion
+bip_39_word_dash_8: grocery-source-ahead-drum-there-soft-mansion-session
+bip_39_word_dash_9: grocery-source-ahead-drum-there-soft-mansion-session-cram
+bip_39_word_new_br_1: grocery
+bip_39_word_new_br_10: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil
+bip_39_word_new_br_11: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil<br>thrive
+bip_39_word_new_br_12: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram<br>coil<br>thrive<br>arrange
+bip_39_word_new_br_2: grocery<br>source
+bip_39_word_new_br_3: grocery<br>source<br>ahead
+bip_39_word_new_br_4: grocery<br>source<br>ahead<br>drum
+bip_39_word_new_br_5: grocery<br>source<br>ahead<br>drum<br>there
+bip_39_word_new_br_6: grocery<br>source<br>ahead<br>drum<br>there<br>soft
+bip_39_word_new_br_7: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion
+bip_39_word_new_br_8: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session
+bip_39_word_new_br_9: grocery<br>source<br>ahead<br>drum<br>there<br>soft<br>mansion<br>session<br>cram
+bip_39_word_new_line_1: grocery
+bip_39_word_new_line_10: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil'
+bip_39_word_new_line_11: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil
+
+  thrive'
+bip_39_word_new_line_12: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram
+
+  coil
+
+  thrive
+
+  arrange'
+bip_39_word_new_line_2: 'grocery
+
+  source'
+bip_39_word_new_line_3: 'grocery
+
+  source
+
+  ahead'
+bip_39_word_new_line_4: 'grocery
+
+  source
+
+  ahead
+
+  drum'
+bip_39_word_new_line_5: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there'
+bip_39_word_new_line_6: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft'
+bip_39_word_new_line_7: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion'
+bip_39_word_new_line_8: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session'
+bip_39_word_new_line_9: 'grocery
+
+  source
+
+  ahead
+
+  drum
+
+  there
+
+  soft
+
+  mansion
+
+  session
+
+  cram'
+bip_39_word_no_space_1: grocery
+bip_39_word_no_space_10: grocerysourceaheaddrumtheresoftmansionsessioncramcoil
+bip_39_word_no_space_11: grocerysourceaheaddrumtheresoftmansionsessioncramcoilthrive
+bip_39_word_no_space_12: grocerysourceaheaddrumtheresoftmansionsessioncramcoilthrivearrange
+bip_39_word_no_space_2: grocerysource
+bip_39_word_no_space_3: grocerysourceahead
+bip_39_word_no_space_4: grocerysourceaheaddrum
+bip_39_word_no_space_5: grocerysourceaheaddrumthere
+bip_39_word_no_space_6: grocerysourceaheaddrumtheresoft
+bip_39_word_no_space_7: grocerysourceaheaddrumtheresoftmansion
+bip_39_word_no_space_8: grocerysourceaheaddrumtheresoftmansionsession
+bip_39_word_no_space_9: grocerysourceaheaddrumtheresoftmansionsessioncram
+bip_39_word_space_0:
+- grocery
+- source
+- ahead
+- drum
+- there
+- soft
+- mansion
+- session
+- cram
+- coil
+- thrive
+- arrange
+bip_39_word_space_1: grocery
+bip_39_word_space_10: grocery source ahead drum there soft mansion session cram coil
+bip_39_word_space_11: grocery source ahead drum there soft mansion session cram coil
+  thrive
+bip_39_word_space_12: grocery source ahead drum there soft mansion session cram coil
+  thrive arrange
+bip_39_word_space_2: grocery source
+bip_39_word_space_3: grocery source ahead
+bip_39_word_space_4: grocery source ahead drum
+bip_39_word_space_5: grocery source ahead drum there
+bip_39_word_space_6: grocery source ahead drum there soft
+bip_39_word_space_7: grocery source ahead drum there soft mansion
+bip_39_word_space_8: grocery source ahead drum there soft mansion session
+bip_39_word_space_9: grocery source ahead drum there soft mansion session cram
+bip_39_word_underscore_1: grocery
+bip_39_word_underscore_10: grocery_source_ahead_drum_there_soft_mansion_session_cram_coil
+bip_39_word_underscore_11: grocery_source_ahead_drum_there_soft_mansion_session_cram_coil_thrive
+bip_39_word_underscore_12: grocery_source_ahead_drum_there_soft_mansion_session_cram_coil_thrive_arrange
+bip_39_word_underscore_2: grocery_source
+bip_39_word_underscore_3: grocery_source_ahead
+bip_39_word_underscore_4: grocery_source_ahead_drum
+bip_39_word_underscore_5: grocery_source_ahead_drum_there
+bip_39_word_underscore_6: grocery_source_ahead_drum_there_soft
+bip_39_word_underscore_7: grocery_source_ahead_drum_there_soft_mansion
+bip_39_word_underscore_8: grocery_source_ahead_drum_there_soft_mansion_session
+bip_39_word_underscore_9: grocery_source_ahead_drum_there_soft_mansion_session_cram
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 30000_mm_length
 id_no_size: green_30000_mm_length
 id_no_type: 2_4_mm_internal_diameter_green_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_green_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_green_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_green_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ps97
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ps97
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ps97
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 30000 mm Length
 name_no_size: Green 30000 mm Length
 name_no_size_short: Green 30k Mm Length
 name_no_type: 2 4 mm Internal Diameter Green 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_green_30000_mm_length
 oomp_word: candy birthday penguin
 oomp_word_emoji: ':candy: :birthday: :penguin:'

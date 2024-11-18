@@ -1,3 +1,222 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice
+bip_39_word_dash_11: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice-spray
+bip_39_word_dash_12: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove-twice-spray-apology
+bip_39_word_dash_2: citizen-endless
+bip_39_word_dash_3: citizen-endless-lady
+bip_39_word_dash_4: citizen-endless-lady-clay
+bip_39_word_dash_5: citizen-endless-lady-clay-mandate
+bip_39_word_dash_6: citizen-endless-lady-clay-mandate-benefit
+bip_39_word_dash_7: citizen-endless-lady-clay-mandate-benefit-month
+bip_39_word_dash_8: citizen-endless-lady-clay-mandate-benefit-month-spawn
+bip_39_word_dash_9: citizen-endless-lady-clay-mandate-benefit-month-spawn-dove
+bip_39_word_new_br_1: citizen
+bip_39_word_new_br_10: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove<br>twice
+bip_39_word_new_br_11: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove<br>twice<br>spray
+bip_39_word_new_br_12: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove<br>twice<br>spray<br>apology
+bip_39_word_new_br_2: citizen<br>endless
+bip_39_word_new_br_3: citizen<br>endless<br>lady
+bip_39_word_new_br_4: citizen<br>endless<br>lady<br>clay
+bip_39_word_new_br_5: citizen<br>endless<br>lady<br>clay<br>mandate
+bip_39_word_new_br_6: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit
+bip_39_word_new_br_7: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month
+bip_39_word_new_br_8: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn
+bip_39_word_new_br_9: citizen<br>endless<br>lady<br>clay<br>mandate<br>benefit<br>month<br>spawn<br>dove
+bip_39_word_new_line_1: citizen
+bip_39_word_new_line_10: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month
+
+  spawn
+
+  dove
+
+  twice'
+bip_39_word_new_line_11: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month
+
+  spawn
+
+  dove
+
+  twice
+
+  spray'
+bip_39_word_new_line_12: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month
+
+  spawn
+
+  dove
+
+  twice
+
+  spray
+
+  apology'
+bip_39_word_new_line_2: 'citizen
+
+  endless'
+bip_39_word_new_line_3: 'citizen
+
+  endless
+
+  lady'
+bip_39_word_new_line_4: 'citizen
+
+  endless
+
+  lady
+
+  clay'
+bip_39_word_new_line_5: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate'
+bip_39_word_new_line_6: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit'
+bip_39_word_new_line_7: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month'
+bip_39_word_new_line_8: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month
+
+  spawn'
+bip_39_word_new_line_9: 'citizen
+
+  endless
+
+  lady
+
+  clay
+
+  mandate
+
+  benefit
+
+  month
+
+  spawn
+
+  dove'
+bip_39_word_no_space_1: citizen
+bip_39_word_no_space_10: citizenendlessladyclaymandatebenefitmonthspawndovetwice
+bip_39_word_no_space_11: citizenendlessladyclaymandatebenefitmonthspawndovetwicespray
+bip_39_word_no_space_12: citizenendlessladyclaymandatebenefitmonthspawndovetwicesprayapology
+bip_39_word_no_space_2: citizenendless
+bip_39_word_no_space_3: citizenendlesslady
+bip_39_word_no_space_4: citizenendlessladyclay
+bip_39_word_no_space_5: citizenendlessladyclaymandate
+bip_39_word_no_space_6: citizenendlessladyclaymandatebenefit
+bip_39_word_no_space_7: citizenendlessladyclaymandatebenefitmonth
+bip_39_word_no_space_8: citizenendlessladyclaymandatebenefitmonthspawn
+bip_39_word_no_space_9: citizenendlessladyclaymandatebenefitmonthspawndove
+bip_39_word_space_0:
+- citizen
+- endless
+- lady
+- clay
+- mandate
+- benefit
+- month
+- spawn
+- dove
+- twice
+- spray
+- apology
+bip_39_word_space_1: citizen
+bip_39_word_space_10: citizen endless lady clay mandate benefit month spawn dove twice
+bip_39_word_space_11: citizen endless lady clay mandate benefit month spawn dove twice
+  spray
+bip_39_word_space_12: citizen endless lady clay mandate benefit month spawn dove twice
+  spray apology
+bip_39_word_space_2: citizen endless
+bip_39_word_space_3: citizen endless lady
+bip_39_word_space_4: citizen endless lady clay
+bip_39_word_space_5: citizen endless lady clay mandate
+bip_39_word_space_6: citizen endless lady clay mandate benefit
+bip_39_word_space_7: citizen endless lady clay mandate benefit month
+bip_39_word_space_8: citizen endless lady clay mandate benefit month spawn
+bip_39_word_space_9: citizen endless lady clay mandate benefit month spawn dove
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice
+bip_39_word_underscore_11: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice_spray
+bip_39_word_underscore_12: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove_twice_spray_apology
+bip_39_word_underscore_2: citizen_endless
+bip_39_word_underscore_3: citizen_endless_lady
+bip_39_word_underscore_4: citizen_endless_lady_clay
+bip_39_word_underscore_5: citizen_endless_lady_clay_mandate
+bip_39_word_underscore_6: citizen_endless_lady_clay_mandate_benefit
+bip_39_word_underscore_7: citizen_endless_lady_clay_mandate_benefit_month
+bip_39_word_underscore_8: citizen_endless_lady_clay_mandate_benefit_month_spawn
+bip_39_word_underscore_9: citizen_endless_lady_clay_mandate_benefit_month_spawn_dove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout
 id_no_color: 030303rhm3nmaliexpressusbmicrobreakout01clearancehole10mm10mm0mm6mm
 id_no_size: 03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
 id_no_type: mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206jhmi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206jhmi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206jhmi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -138,6 +364,7 @@ name_no_size_short: 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01  Clearanc
   Hole 10 Mm 10 Mm 0 Mm 6 Mm
 name_no_type: Mounting Plate 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance
   Hole 10 mm 10 mm 0 mm 6 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm
 oomp_word: guitar headphones nine
 oomp_word_emoji: ':guitar: :headphones: :nine:'

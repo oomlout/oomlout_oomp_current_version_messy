@@ -1,3 +1,222 @@
+bip_39_word_dash_1: foot
+bip_39_word_dash_10: foot-imitate-model-material-index-stand-pitch-piece-speak-task
+bip_39_word_dash_11: foot-imitate-model-material-index-stand-pitch-piece-speak-task-orchard
+bip_39_word_dash_12: foot-imitate-model-material-index-stand-pitch-piece-speak-task-orchard-abuse
+bip_39_word_dash_2: foot-imitate
+bip_39_word_dash_3: foot-imitate-model
+bip_39_word_dash_4: foot-imitate-model-material
+bip_39_word_dash_5: foot-imitate-model-material-index
+bip_39_word_dash_6: foot-imitate-model-material-index-stand
+bip_39_word_dash_7: foot-imitate-model-material-index-stand-pitch
+bip_39_word_dash_8: foot-imitate-model-material-index-stand-pitch-piece
+bip_39_word_dash_9: foot-imitate-model-material-index-stand-pitch-piece-speak
+bip_39_word_new_br_1: foot
+bip_39_word_new_br_10: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task
+bip_39_word_new_br_11: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task<br>orchard
+bip_39_word_new_br_12: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak<br>task<br>orchard<br>abuse
+bip_39_word_new_br_2: foot<br>imitate
+bip_39_word_new_br_3: foot<br>imitate<br>model
+bip_39_word_new_br_4: foot<br>imitate<br>model<br>material
+bip_39_word_new_br_5: foot<br>imitate<br>model<br>material<br>index
+bip_39_word_new_br_6: foot<br>imitate<br>model<br>material<br>index<br>stand
+bip_39_word_new_br_7: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch
+bip_39_word_new_br_8: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece
+bip_39_word_new_br_9: foot<br>imitate<br>model<br>material<br>index<br>stand<br>pitch<br>piece<br>speak
+bip_39_word_new_line_1: foot
+bip_39_word_new_line_10: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch
+
+  piece
+
+  speak
+
+  task'
+bip_39_word_new_line_11: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch
+
+  piece
+
+  speak
+
+  task
+
+  orchard'
+bip_39_word_new_line_12: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch
+
+  piece
+
+  speak
+
+  task
+
+  orchard
+
+  abuse'
+bip_39_word_new_line_2: 'foot
+
+  imitate'
+bip_39_word_new_line_3: 'foot
+
+  imitate
+
+  model'
+bip_39_word_new_line_4: 'foot
+
+  imitate
+
+  model
+
+  material'
+bip_39_word_new_line_5: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index'
+bip_39_word_new_line_6: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand'
+bip_39_word_new_line_7: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch'
+bip_39_word_new_line_8: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch
+
+  piece'
+bip_39_word_new_line_9: 'foot
+
+  imitate
+
+  model
+
+  material
+
+  index
+
+  stand
+
+  pitch
+
+  piece
+
+  speak'
+bip_39_word_no_space_1: foot
+bip_39_word_no_space_10: footimitatemodelmaterialindexstandpitchpiecespeaktask
+bip_39_word_no_space_11: footimitatemodelmaterialindexstandpitchpiecespeaktaskorchard
+bip_39_word_no_space_12: footimitatemodelmaterialindexstandpitchpiecespeaktaskorchardabuse
+bip_39_word_no_space_2: footimitate
+bip_39_word_no_space_3: footimitatemodel
+bip_39_word_no_space_4: footimitatemodelmaterial
+bip_39_word_no_space_5: footimitatemodelmaterialindex
+bip_39_word_no_space_6: footimitatemodelmaterialindexstand
+bip_39_word_no_space_7: footimitatemodelmaterialindexstandpitch
+bip_39_word_no_space_8: footimitatemodelmaterialindexstandpitchpiece
+bip_39_word_no_space_9: footimitatemodelmaterialindexstandpitchpiecespeak
+bip_39_word_space_0:
+- foot
+- imitate
+- model
+- material
+- index
+- stand
+- pitch
+- piece
+- speak
+- task
+- orchard
+- abuse
+bip_39_word_space_1: foot
+bip_39_word_space_10: foot imitate model material index stand pitch piece speak task
+bip_39_word_space_11: foot imitate model material index stand pitch piece speak task
+  orchard
+bip_39_word_space_12: foot imitate model material index stand pitch piece speak task
+  orchard abuse
+bip_39_word_space_2: foot imitate
+bip_39_word_space_3: foot imitate model
+bip_39_word_space_4: foot imitate model material
+bip_39_word_space_5: foot imitate model material index
+bip_39_word_space_6: foot imitate model material index stand
+bip_39_word_space_7: foot imitate model material index stand pitch
+bip_39_word_space_8: foot imitate model material index stand pitch piece
+bip_39_word_space_9: foot imitate model material index stand pitch piece speak
+bip_39_word_underscore_1: foot
+bip_39_word_underscore_10: foot_imitate_model_material_index_stand_pitch_piece_speak_task
+bip_39_word_underscore_11: foot_imitate_model_material_index_stand_pitch_piece_speak_task_orchard
+bip_39_word_underscore_12: foot_imitate_model_material_index_stand_pitch_piece_speak_task_orchard_abuse
+bip_39_word_underscore_2: foot_imitate
+bip_39_word_underscore_3: foot_imitate_model
+bip_39_word_underscore_4: foot_imitate_model_material
+bip_39_word_underscore_5: foot_imitate_model_material_index
+bip_39_word_underscore_6: foot_imitate_model_material_index_stand
+bip_39_word_underscore_7: foot_imitate_model_material_index_stand_pitch
+bip_39_word_underscore_8: foot_imitate_model_material_index_stand_pitch_piece
+bip_39_word_underscore_9: foot_imitate_model_material_index_stand_pitch_piece_speak
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_shaft_09__nut_small
 id_no_color: 09nutsmall
 id_no_size: 09__nut_small
 id_no_type: shaft_09__nut_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_09__nut_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_09__nut_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_09__nut_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qzw7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qzw7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qzw7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 09Nutsmall
 name_no_size: 09  Nut Small
 name_no_size_short: 9  Nut Small
 name_no_type: Shaft 09  Nut Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_09__nut_small
 oomp_word: question frog wolf
 oomp_word_emoji: ':question: :frog: :wolf:'

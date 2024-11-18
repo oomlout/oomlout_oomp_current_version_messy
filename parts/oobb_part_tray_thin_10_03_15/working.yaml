@@ -1,3 +1,222 @@
+bip_39_word_dash_1: print
+bip_39_word_dash_10: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut
+bip_39_word_dash_11: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut-clog
+bip_39_word_dash_12: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid-peanut-clog-asthma
+bip_39_word_dash_2: print-keep
+bip_39_word_dash_3: print-keep-ivory
+bip_39_word_dash_4: print-keep-ivory-observe
+bip_39_word_dash_5: print-keep-ivory-observe-melody
+bip_39_word_dash_6: print-keep-ivory-observe-melody-guilt
+bip_39_word_dash_7: print-keep-ivory-observe-melody-guilt-bubble
+bip_39_word_dash_8: print-keep-ivory-observe-melody-guilt-bubble-cash
+bip_39_word_dash_9: print-keep-ivory-observe-melody-guilt-bubble-cash-rapid
+bip_39_word_new_br_1: print
+bip_39_word_new_br_10: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut
+bip_39_word_new_br_11: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut<br>clog
+bip_39_word_new_br_12: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid<br>peanut<br>clog<br>asthma
+bip_39_word_new_br_2: print<br>keep
+bip_39_word_new_br_3: print<br>keep<br>ivory
+bip_39_word_new_br_4: print<br>keep<br>ivory<br>observe
+bip_39_word_new_br_5: print<br>keep<br>ivory<br>observe<br>melody
+bip_39_word_new_br_6: print<br>keep<br>ivory<br>observe<br>melody<br>guilt
+bip_39_word_new_br_7: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble
+bip_39_word_new_br_8: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash
+bip_39_word_new_br_9: print<br>keep<br>ivory<br>observe<br>melody<br>guilt<br>bubble<br>cash<br>rapid
+bip_39_word_new_line_1: print
+bip_39_word_new_line_10: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble
+
+  cash
+
+  rapid
+
+  peanut'
+bip_39_word_new_line_11: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble
+
+  cash
+
+  rapid
+
+  peanut
+
+  clog'
+bip_39_word_new_line_12: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble
+
+  cash
+
+  rapid
+
+  peanut
+
+  clog
+
+  asthma'
+bip_39_word_new_line_2: 'print
+
+  keep'
+bip_39_word_new_line_3: 'print
+
+  keep
+
+  ivory'
+bip_39_word_new_line_4: 'print
+
+  keep
+
+  ivory
+
+  observe'
+bip_39_word_new_line_5: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody'
+bip_39_word_new_line_6: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt'
+bip_39_word_new_line_7: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble'
+bip_39_word_new_line_8: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble
+
+  cash'
+bip_39_word_new_line_9: 'print
+
+  keep
+
+  ivory
+
+  observe
+
+  melody
+
+  guilt
+
+  bubble
+
+  cash
+
+  rapid'
+bip_39_word_no_space_1: print
+bip_39_word_no_space_10: printkeepivoryobservemelodyguiltbubblecashrapidpeanut
+bip_39_word_no_space_11: printkeepivoryobservemelodyguiltbubblecashrapidpeanutclog
+bip_39_word_no_space_12: printkeepivoryobservemelodyguiltbubblecashrapidpeanutclogasthma
+bip_39_word_no_space_2: printkeep
+bip_39_word_no_space_3: printkeepivory
+bip_39_word_no_space_4: printkeepivoryobserve
+bip_39_word_no_space_5: printkeepivoryobservemelody
+bip_39_word_no_space_6: printkeepivoryobservemelodyguilt
+bip_39_word_no_space_7: printkeepivoryobservemelodyguiltbubble
+bip_39_word_no_space_8: printkeepivoryobservemelodyguiltbubblecash
+bip_39_word_no_space_9: printkeepivoryobservemelodyguiltbubblecashrapid
+bip_39_word_space_0:
+- print
+- keep
+- ivory
+- observe
+- melody
+- guilt
+- bubble
+- cash
+- rapid
+- peanut
+- clog
+- asthma
+bip_39_word_space_1: print
+bip_39_word_space_10: print keep ivory observe melody guilt bubble cash rapid peanut
+bip_39_word_space_11: print keep ivory observe melody guilt bubble cash rapid peanut
+  clog
+bip_39_word_space_12: print keep ivory observe melody guilt bubble cash rapid peanut
+  clog asthma
+bip_39_word_space_2: print keep
+bip_39_word_space_3: print keep ivory
+bip_39_word_space_4: print keep ivory observe
+bip_39_word_space_5: print keep ivory observe melody
+bip_39_word_space_6: print keep ivory observe melody guilt
+bip_39_word_space_7: print keep ivory observe melody guilt bubble
+bip_39_word_space_8: print keep ivory observe melody guilt bubble cash
+bip_39_word_space_9: print keep ivory observe melody guilt bubble cash rapid
+bip_39_word_underscore_1: print
+bip_39_word_underscore_10: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut
+bip_39_word_underscore_11: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut_clog
+bip_39_word_underscore_12: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid_peanut_clog_asthma
+bip_39_word_underscore_2: print_keep
+bip_39_word_underscore_3: print_keep_ivory
+bip_39_word_underscore_4: print_keep_ivory_observe
+bip_39_word_underscore_5: print_keep_ivory_observe_melody
+bip_39_word_underscore_6: print_keep_ivory_observe_melody_guilt
+bip_39_word_underscore_7: print_keep_ivory_observe_melody_guilt_bubble
+bip_39_word_underscore_8: print_keep_ivory_observe_melody_guilt_bubble_cash
+bip_39_word_underscore_9: print_keep_ivory_observe_melody_guilt_bubble_cash_rapid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_03_15
 id_no_color: '100315'
 id_no_size: '10_03_15'
 id_no_type: tray_thin_10_03_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_03_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_03_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_03_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208r4fc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208r4fc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208r4fc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100315'
 name_no_size: 10 03 15
 name_no_size_short: 10 03 15
 name_no_type: Tray Thin 10 03 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_03_15
 oomp_word: ship rat tongue
 oomp_word_emoji: ':ship: :rat: :tongue:'

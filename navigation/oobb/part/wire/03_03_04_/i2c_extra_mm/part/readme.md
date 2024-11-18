@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Wire 03 03 04  I2C Extra mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_wire_03_03_04__i2c_extra_mm
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :droplet: :hospital: :phone:
 * md5_6_alpha: 1fr7h
 * md5_6: 24d87d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201fr7h)
+[2x1](http://192.168.1.242:1112/?label=oomp%201fr7h)
+[6x4](http://192.168.1.55:1112/?label=oomp%201fr7h)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__i2c_extra_mm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__i2c_extra_mm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ february |
 | id_no_color | 030304i2cextramm |  
 | id_no_size | 03_03_04__i2c_extra_mm |  
 | id_no_type | wire_03_03_04__i2c_extra_mm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__i2c_extra_mm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_04__i2c_extra_mm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_04__i2c_extra_mm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201fr7h |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201fr7h |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201fr7h |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ february |
 | name_no_size | 03 03 04  I2C Extra mm |  
 | name_no_size_short | 03 03 04  I2C Extra Mm |  
 | name_no_type | Wire 03 03 04  I2C Extra mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_04__i2c_extra_mm |  
 | oomp_word | droplet hospital phone |  
 | oomp_word_emoji | :droplet: :hospital: :phone: |  

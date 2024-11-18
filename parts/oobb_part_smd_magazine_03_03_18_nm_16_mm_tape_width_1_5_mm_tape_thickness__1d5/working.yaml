@@ -1,3 +1,223 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super
+bip_39_word_dash_11: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super-demand
+bip_39_word_dash_12: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium-super-demand-angry
+bip_39_word_dash_2: puppy-lemon
+bip_39_word_dash_3: puppy-lemon-unhappy
+bip_39_word_dash_4: puppy-lemon-unhappy-rate
+bip_39_word_dash_5: puppy-lemon-unhappy-rate-sugar
+bip_39_word_dash_6: puppy-lemon-unhappy-rate-sugar-tuition
+bip_39_word_dash_7: puppy-lemon-unhappy-rate-sugar-tuition-rhythm
+bip_39_word_dash_8: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone
+bip_39_word_dash_9: puppy-lemon-unhappy-rate-sugar-tuition-rhythm-stone-stadium
+bip_39_word_new_br_1: puppy
+bip_39_word_new_br_10: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium<br>super
+bip_39_word_new_br_11: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium<br>super<br>demand
+bip_39_word_new_br_12: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium<br>super<br>demand<br>angry
+bip_39_word_new_br_2: puppy<br>lemon
+bip_39_word_new_br_3: puppy<br>lemon<br>unhappy
+bip_39_word_new_br_4: puppy<br>lemon<br>unhappy<br>rate
+bip_39_word_new_br_5: puppy<br>lemon<br>unhappy<br>rate<br>sugar
+bip_39_word_new_br_6: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition
+bip_39_word_new_br_7: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm
+bip_39_word_new_br_8: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone
+bip_39_word_new_br_9: puppy<br>lemon<br>unhappy<br>rate<br>sugar<br>tuition<br>rhythm<br>stone<br>stadium
+bip_39_word_new_line_1: puppy
+bip_39_word_new_line_10: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm
+
+  stone
+
+  stadium
+
+  super'
+bip_39_word_new_line_11: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm
+
+  stone
+
+  stadium
+
+  super
+
+  demand'
+bip_39_word_new_line_12: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm
+
+  stone
+
+  stadium
+
+  super
+
+  demand
+
+  angry'
+bip_39_word_new_line_2: 'puppy
+
+  lemon'
+bip_39_word_new_line_3: 'puppy
+
+  lemon
+
+  unhappy'
+bip_39_word_new_line_4: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate'
+bip_39_word_new_line_5: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar'
+bip_39_word_new_line_6: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition'
+bip_39_word_new_line_7: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm'
+bip_39_word_new_line_8: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm
+
+  stone'
+bip_39_word_new_line_9: 'puppy
+
+  lemon
+
+  unhappy
+
+  rate
+
+  sugar
+
+  tuition
+
+  rhythm
+
+  stone
+
+  stadium'
+bip_39_word_no_space_1: puppy
+bip_39_word_no_space_10: puppylemonunhappyratesugartuitionrhythmstonestadiumsuper
+bip_39_word_no_space_11: puppylemonunhappyratesugartuitionrhythmstonestadiumsuperdemand
+bip_39_word_no_space_12: puppylemonunhappyratesugartuitionrhythmstonestadiumsuperdemandangry
+bip_39_word_no_space_2: puppylemon
+bip_39_word_no_space_3: puppylemonunhappy
+bip_39_word_no_space_4: puppylemonunhappyrate
+bip_39_word_no_space_5: puppylemonunhappyratesugar
+bip_39_word_no_space_6: puppylemonunhappyratesugartuition
+bip_39_word_no_space_7: puppylemonunhappyratesugartuitionrhythm
+bip_39_word_no_space_8: puppylemonunhappyratesugartuitionrhythmstone
+bip_39_word_no_space_9: puppylemonunhappyratesugartuitionrhythmstonestadium
+bip_39_word_space_0:
+- puppy
+- lemon
+- unhappy
+- rate
+- sugar
+- tuition
+- rhythm
+- stone
+- stadium
+- super
+- demand
+- angry
+bip_39_word_space_1: puppy
+bip_39_word_space_10: puppy lemon unhappy rate sugar tuition rhythm stone stadium
+  super
+bip_39_word_space_11: puppy lemon unhappy rate sugar tuition rhythm stone stadium
+  super demand
+bip_39_word_space_12: puppy lemon unhappy rate sugar tuition rhythm stone stadium
+  super demand angry
+bip_39_word_space_2: puppy lemon
+bip_39_word_space_3: puppy lemon unhappy
+bip_39_word_space_4: puppy lemon unhappy rate
+bip_39_word_space_5: puppy lemon unhappy rate sugar
+bip_39_word_space_6: puppy lemon unhappy rate sugar tuition
+bip_39_word_space_7: puppy lemon unhappy rate sugar tuition rhythm
+bip_39_word_space_8: puppy lemon unhappy rate sugar tuition rhythm stone
+bip_39_word_space_9: puppy lemon unhappy rate sugar tuition rhythm stone stadium
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super
+bip_39_word_underscore_11: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super_demand
+bip_39_word_underscore_12: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium_super_demand_angry
+bip_39_word_underscore_2: puppy_lemon
+bip_39_word_underscore_3: puppy_lemon_unhappy
+bip_39_word_underscore_4: puppy_lemon_unhappy_rate
+bip_39_word_underscore_5: puppy_lemon_unhappy_rate_sugar
+bip_39_word_underscore_6: puppy_lemon_unhappy_rate_sugar_tuition
+bip_39_word_underscore_7: puppy_lemon_unhappy_rate_sugar_tuition_rhythm
+bip_39_word_underscore_8: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone
+bip_39_word_underscore_9: puppy_lemon_unhappy_rate_sugar_tuition_rhythm_stone_stadium
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thicknes
 id_no_color: 030318nm16mmtapewidth15mmtapethickness1d5
 id_no_size: 03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
 id_no_type: smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205k3na
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205k3na
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205k3na
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030318Nm16mmtapewidth15mmtapethickness1D5
 name_no_size: 03 03 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5
 name_no_size_short: 03 03 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 03 03 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_03_03_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
 oomp_word: clipboard fireworks santa
 oomp_word_emoji: ':clipboard: :fireworks: :santa:'

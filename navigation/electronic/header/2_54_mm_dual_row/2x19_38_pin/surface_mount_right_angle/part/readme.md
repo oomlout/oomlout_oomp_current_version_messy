@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm Dual Row 2X19 38 Pin Surface Mount Right Angle
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :zap: :spaghetti: :office:
 * md5_6_alpha: 1tn13
 * md5_6: 2ebad7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201tn13)
+[2x1](http://192.168.1.242:1112/?label=oomp%201tn13)
+[6x4](http://192.168.1.55:1112/?label=oomp%201tn13)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ human |
 | id_no_size | 2x19_38_pin_surface_mount_right_angle |  
 | id_no_type | 2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle |  
 | kicad_reference | CONN |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201tn13 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201tn13 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201tn13 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ human |
 | name_no_size | 2X19 38 Pin Surface Mount Right Angle |  
 | name_no_size_short | 2X19 38 Pin Surface Mount Right Angle |  
 | name_no_type | 2 54 mm Dual Row 2X19 38 Pin Surface Mount Right Angle |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_dual_row_2x19_38_pin_surface_mount_right_angle |  
 | oomp_word | zap spaghetti office |  
 | oomp_word_emoji | :zap: :spaghetti: :office: |  

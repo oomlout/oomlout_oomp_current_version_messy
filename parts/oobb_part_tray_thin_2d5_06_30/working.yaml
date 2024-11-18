@@ -1,3 +1,222 @@
+bip_39_word_dash_1: diet
+bip_39_word_dash_10: diet-math-brass-calm-orphan-direct-describe-token-lemon-inflict
+bip_39_word_dash_11: diet-math-brass-calm-orphan-direct-describe-token-lemon-inflict-birth
+bip_39_word_dash_12: diet-math-brass-calm-orphan-direct-describe-token-lemon-inflict-birth-average
+bip_39_word_dash_2: diet-math
+bip_39_word_dash_3: diet-math-brass
+bip_39_word_dash_4: diet-math-brass-calm
+bip_39_word_dash_5: diet-math-brass-calm-orphan
+bip_39_word_dash_6: diet-math-brass-calm-orphan-direct
+bip_39_word_dash_7: diet-math-brass-calm-orphan-direct-describe
+bip_39_word_dash_8: diet-math-brass-calm-orphan-direct-describe-token
+bip_39_word_dash_9: diet-math-brass-calm-orphan-direct-describe-token-lemon
+bip_39_word_new_br_1: diet
+bip_39_word_new_br_10: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict
+bip_39_word_new_br_11: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict<br>birth
+bip_39_word_new_br_12: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon<br>inflict<br>birth<br>average
+bip_39_word_new_br_2: diet<br>math
+bip_39_word_new_br_3: diet<br>math<br>brass
+bip_39_word_new_br_4: diet<br>math<br>brass<br>calm
+bip_39_word_new_br_5: diet<br>math<br>brass<br>calm<br>orphan
+bip_39_word_new_br_6: diet<br>math<br>brass<br>calm<br>orphan<br>direct
+bip_39_word_new_br_7: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe
+bip_39_word_new_br_8: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token
+bip_39_word_new_br_9: diet<br>math<br>brass<br>calm<br>orphan<br>direct<br>describe<br>token<br>lemon
+bip_39_word_new_line_1: diet
+bip_39_word_new_line_10: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe
+
+  token
+
+  lemon
+
+  inflict'
+bip_39_word_new_line_11: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe
+
+  token
+
+  lemon
+
+  inflict
+
+  birth'
+bip_39_word_new_line_12: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe
+
+  token
+
+  lemon
+
+  inflict
+
+  birth
+
+  average'
+bip_39_word_new_line_2: 'diet
+
+  math'
+bip_39_word_new_line_3: 'diet
+
+  math
+
+  brass'
+bip_39_word_new_line_4: 'diet
+
+  math
+
+  brass
+
+  calm'
+bip_39_word_new_line_5: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan'
+bip_39_word_new_line_6: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct'
+bip_39_word_new_line_7: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe'
+bip_39_word_new_line_8: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe
+
+  token'
+bip_39_word_new_line_9: 'diet
+
+  math
+
+  brass
+
+  calm
+
+  orphan
+
+  direct
+
+  describe
+
+  token
+
+  lemon'
+bip_39_word_no_space_1: diet
+bip_39_word_no_space_10: dietmathbrasscalmorphandirectdescribetokenlemoninflict
+bip_39_word_no_space_11: dietmathbrasscalmorphandirectdescribetokenlemoninflictbirth
+bip_39_word_no_space_12: dietmathbrasscalmorphandirectdescribetokenlemoninflictbirthaverage
+bip_39_word_no_space_2: dietmath
+bip_39_word_no_space_3: dietmathbrass
+bip_39_word_no_space_4: dietmathbrasscalm
+bip_39_word_no_space_5: dietmathbrasscalmorphan
+bip_39_word_no_space_6: dietmathbrasscalmorphandirect
+bip_39_word_no_space_7: dietmathbrasscalmorphandirectdescribe
+bip_39_word_no_space_8: dietmathbrasscalmorphandirectdescribetoken
+bip_39_word_no_space_9: dietmathbrasscalmorphandirectdescribetokenlemon
+bip_39_word_space_0:
+- diet
+- math
+- brass
+- calm
+- orphan
+- direct
+- describe
+- token
+- lemon
+- inflict
+- birth
+- average
+bip_39_word_space_1: diet
+bip_39_word_space_10: diet math brass calm orphan direct describe token lemon inflict
+bip_39_word_space_11: diet math brass calm orphan direct describe token lemon inflict
+  birth
+bip_39_word_space_12: diet math brass calm orphan direct describe token lemon inflict
+  birth average
+bip_39_word_space_2: diet math
+bip_39_word_space_3: diet math brass
+bip_39_word_space_4: diet math brass calm
+bip_39_word_space_5: diet math brass calm orphan
+bip_39_word_space_6: diet math brass calm orphan direct
+bip_39_word_space_7: diet math brass calm orphan direct describe
+bip_39_word_space_8: diet math brass calm orphan direct describe token
+bip_39_word_space_9: diet math brass calm orphan direct describe token lemon
+bip_39_word_underscore_1: diet
+bip_39_word_underscore_10: diet_math_brass_calm_orphan_direct_describe_token_lemon_inflict
+bip_39_word_underscore_11: diet_math_brass_calm_orphan_direct_describe_token_lemon_inflict_birth
+bip_39_word_underscore_12: diet_math_brass_calm_orphan_direct_describe_token_lemon_inflict_birth_average
+bip_39_word_underscore_2: diet_math
+bip_39_word_underscore_3: diet_math_brass
+bip_39_word_underscore_4: diet_math_brass_calm
+bip_39_word_underscore_5: diet_math_brass_calm_orphan
+bip_39_word_underscore_6: diet_math_brass_calm_orphan_direct
+bip_39_word_underscore_7: diet_math_brass_calm_orphan_direct_describe
+bip_39_word_underscore_8: diet_math_brass_calm_orphan_direct_describe_token
+bip_39_word_underscore_9: diet_math_brass_calm_orphan_direct_describe_token_lemon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_06_30
 id_no_color: 2d50630
 id_no_size: 2d5_06_30
 id_no_type: tray_thin_2d5_06_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_06_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_06_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209u82k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209u82k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209u82k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50630
 name_no_size: 2D5 06 30
 name_no_size_short: 2D5 06 30
 name_no_type: Tray Thin 2D5 06 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_06_30
 oomp_word: up snowman ox
 oomp_word_emoji: ':up: :snowman: :ox:'

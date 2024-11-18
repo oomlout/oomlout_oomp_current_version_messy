@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Thread Forming M2 6 Black 6 mm Length Phillips Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_thread_forming_m2_6_black_6_mm_length_phillips_head
   * classification: hardware

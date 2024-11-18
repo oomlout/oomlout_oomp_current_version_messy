@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 06 06  144 Teeth
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_06_06__144_teeth
   * classification: oobb

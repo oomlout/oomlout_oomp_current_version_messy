@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 05 01  A
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_05_01__a
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rooster: :rainbow: :camel:
 * md5_6_alpha: 3l1kx
 * md5_6: 5bde41
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203l1kx)
+[2x1](http://192.168.1.242:1112/?label=oomp%203l1kx)
+[6x4](http://192.168.1.55:1112/?label=oomp%203l1kx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__a)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ motor |
 | id_no_color | 0501a |  
 | id_no_size | 05_01__a |  
 | id_no_type | bunting_alphabet_05_01__a |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__a |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203l1kx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203l1kx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203l1kx |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ motor |
 | name_no_size | 05 01  A |  
 | name_no_size_short | 05 01  A |  
 | name_no_type | Bunting Alphabet 05 01  A |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_05_01__a |  
 | oomp_word | rooster rainbow camel |  
 | oomp_word_emoji | :rooster: :rainbow: :camel: |  

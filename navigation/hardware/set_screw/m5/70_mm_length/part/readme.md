@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Set Screw M5 70 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_set_screw_m5_70_mm_length
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :eyeglasses: :skull: :leopard:
 * md5_6_alpha: 6zm1r
 * md5_6: b3205f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206zm1r)
+[2x1](http://192.168.1.242:1112/?label=oomp%206zm1r)
+[6x4](http://192.168.1.55:1112/?label=oomp%206zm1r)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_70_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_70_mm_length) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m5-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated)                            
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.1342 | 0.0745 | 0.0745 | 0.0596 | 0.0596 |
+| orbital_fasteners | 0.1342 | 0.0745 | 0.0745 | 0.0596 | 0.0596 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +301,20 @@ grunt |
 | id_no_size | 70_mm_length |  
 | id_no_type | m5_70_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_70_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m5_70_mm_length |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m5-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m5-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m5-x-70-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m5_70_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206zm1r |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206zm1r |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206zm1r |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -301,6 +356,7 @@ grunt |
 | oomlout_bolt_size | M5 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ss5m70 |  
 | oomlout_short_code_upper | SS5M70 |  
 | oomp_id | hardware_set_screw_m5_70_mm_length |  
@@ -320,12 +376,22 @@ grunt |
 | price_100 | 0.0745 |  
 | price_1000 | 0.0596 |  
 | price_10000 | 0.0596 |  
+| price_10000_distributor_1 | 0.0596 |  
 | price_10000_distributor_orbital_fasteners | 0.0596 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0596 |  
 | price_1000_distributor_orbital_fasteners | 0.0596 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.0745 |  
 | price_100_distributor_orbital_fasteners | 0.0745 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.1342 |  
 | price_1_distributor_orbital_fasteners | 0.1342 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.0745 |  
+| price_200_distributor_1 | 0.0745 |  
 | price_200_distributor_orbital_fasteners | 0.0745 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.0745 |  
 | quantity_current | 200 |  
 | short_code | ss570 |  

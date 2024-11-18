@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W
+* name_short: 
 ### id
 * oomp_id: electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
   * classification: electrical

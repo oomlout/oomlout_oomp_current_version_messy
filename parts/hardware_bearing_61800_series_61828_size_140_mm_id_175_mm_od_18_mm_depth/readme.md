@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61828 Size 140 mm ID 175 mm OD 18 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61828_size_140_mm_id_175_mm_od_18_mm_depth
   * classification: hardware

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr31 Size 1 mm ID 3 mm OD 1 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
   * classification: hardware

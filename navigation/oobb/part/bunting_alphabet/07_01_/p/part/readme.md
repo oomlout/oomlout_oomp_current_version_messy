@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 07 01  P
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_07_01__p
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pencil: :wink: :maple_leaf:
 * md5_6_alpha: 6czfp
 * md5_6: a30465
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206czfp)
+[2x1](http://192.168.1.242:1112/?label=oomp%206czfp)
+[6x4](http://192.168.1.55:1112/?label=oomp%206czfp)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__p) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__p)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ cage |
 | id_no_color | 0701p |  
 | id_no_size | 07_01__p |  
 | id_no_type | bunting_alphabet_07_01__p |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__p |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__p |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__p |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206czfp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206czfp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206czfp |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ cage |
 | name_no_size | 07 01  P |  
 | name_no_size_short | 07 01  P |  
 | name_no_type | Bunting Alphabet 07 01  P |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_07_01__p |  
 | oomp_word | pencil wink maple_leaf |  
 | oomp_word_emoji | :pencil: :wink: :maple_leaf: |  

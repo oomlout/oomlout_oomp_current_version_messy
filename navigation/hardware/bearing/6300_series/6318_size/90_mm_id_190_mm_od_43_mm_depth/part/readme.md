@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6318 Size 90 mm ID 190 mm OD 43 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hospital: :golf: :smile:
 * md5_6_alpha: 8g935
 * md5_6: d89a01
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208g935)
+[2x1](http://192.168.1.242:1112/?label=oomp%208g935)
+[6x4](http://192.168.1.55:1112/?label=oomp%208g935)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ lounge |
 | id_no_color | 90_mm_id_190_mm_od_43_mm_depth |  
 | id_no_size | 6318_size_90_mm_id_190_mm_od_43_mm_depth |  
 | id_no_type | 6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208g935 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208g935 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208g935 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ lounge |
 | name_no_size | 6318 Size 90 mm ID 190 mm OD 43 mm Depth |  
 | name_no_size_short | 6318 Size 90 Mm Id 190 Mm Od 43 Mm Depth |  
 | name_no_type | 6300 Series 6318 Size 90 mm ID 190 mm OD 43 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6318 |  
 | oomlout_short_code_upper | BR6318 |  
 | oomp_key | oomp_hardware_bearing_6300_series_6318_size_90_mm_id_190_mm_od_43_mm_depth |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 600 Series 688 Size 8 mm ID 16 mm OD 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_600_series_688_size_8_mm_id_16_mm_od_5_mm_depth
   * classification: hardware

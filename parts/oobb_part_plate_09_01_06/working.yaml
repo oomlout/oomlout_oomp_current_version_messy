@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boil
+bip_39_word_dash_10: boil-fruit-faculty-drop-test-shock-feature-stem-chief-banner
+bip_39_word_dash_11: boil-fruit-faculty-drop-test-shock-feature-stem-chief-banner-cousin
+bip_39_word_dash_12: boil-fruit-faculty-drop-test-shock-feature-stem-chief-banner-cousin-armor
+bip_39_word_dash_2: boil-fruit
+bip_39_word_dash_3: boil-fruit-faculty
+bip_39_word_dash_4: boil-fruit-faculty-drop
+bip_39_word_dash_5: boil-fruit-faculty-drop-test
+bip_39_word_dash_6: boil-fruit-faculty-drop-test-shock
+bip_39_word_dash_7: boil-fruit-faculty-drop-test-shock-feature
+bip_39_word_dash_8: boil-fruit-faculty-drop-test-shock-feature-stem
+bip_39_word_dash_9: boil-fruit-faculty-drop-test-shock-feature-stem-chief
+bip_39_word_new_br_1: boil
+bip_39_word_new_br_10: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner
+bip_39_word_new_br_11: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin
+bip_39_word_new_br_12: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief<br>banner<br>cousin<br>armor
+bip_39_word_new_br_2: boil<br>fruit
+bip_39_word_new_br_3: boil<br>fruit<br>faculty
+bip_39_word_new_br_4: boil<br>fruit<br>faculty<br>drop
+bip_39_word_new_br_5: boil<br>fruit<br>faculty<br>drop<br>test
+bip_39_word_new_br_6: boil<br>fruit<br>faculty<br>drop<br>test<br>shock
+bip_39_word_new_br_7: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature
+bip_39_word_new_br_8: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem
+bip_39_word_new_br_9: boil<br>fruit<br>faculty<br>drop<br>test<br>shock<br>feature<br>stem<br>chief
+bip_39_word_new_line_1: boil
+bip_39_word_new_line_10: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner'
+bip_39_word_new_line_11: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner
+
+  cousin'
+bip_39_word_new_line_12: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief
+
+  banner
+
+  cousin
+
+  armor'
+bip_39_word_new_line_2: 'boil
+
+  fruit'
+bip_39_word_new_line_3: 'boil
+
+  fruit
+
+  faculty'
+bip_39_word_new_line_4: 'boil
+
+  fruit
+
+  faculty
+
+  drop'
+bip_39_word_new_line_5: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test'
+bip_39_word_new_line_6: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock'
+bip_39_word_new_line_7: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature'
+bip_39_word_new_line_8: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem'
+bip_39_word_new_line_9: 'boil
+
+  fruit
+
+  faculty
+
+  drop
+
+  test
+
+  shock
+
+  feature
+
+  stem
+
+  chief'
+bip_39_word_no_space_1: boil
+bip_39_word_no_space_10: boilfruitfacultydroptestshockfeaturestemchiefbanner
+bip_39_word_no_space_11: boilfruitfacultydroptestshockfeaturestemchiefbannercousin
+bip_39_word_no_space_12: boilfruitfacultydroptestshockfeaturestemchiefbannercousinarmor
+bip_39_word_no_space_2: boilfruit
+bip_39_word_no_space_3: boilfruitfaculty
+bip_39_word_no_space_4: boilfruitfacultydrop
+bip_39_word_no_space_5: boilfruitfacultydroptest
+bip_39_word_no_space_6: boilfruitfacultydroptestshock
+bip_39_word_no_space_7: boilfruitfacultydroptestshockfeature
+bip_39_word_no_space_8: boilfruitfacultydroptestshockfeaturestem
+bip_39_word_no_space_9: boilfruitfacultydroptestshockfeaturestemchief
+bip_39_word_space_0:
+- boil
+- fruit
+- faculty
+- drop
+- test
+- shock
+- feature
+- stem
+- chief
+- banner
+- cousin
+- armor
+bip_39_word_space_1: boil
+bip_39_word_space_10: boil fruit faculty drop test shock feature stem chief banner
+bip_39_word_space_11: boil fruit faculty drop test shock feature stem chief banner
+  cousin
+bip_39_word_space_12: boil fruit faculty drop test shock feature stem chief banner
+  cousin armor
+bip_39_word_space_2: boil fruit
+bip_39_word_space_3: boil fruit faculty
+bip_39_word_space_4: boil fruit faculty drop
+bip_39_word_space_5: boil fruit faculty drop test
+bip_39_word_space_6: boil fruit faculty drop test shock
+bip_39_word_space_7: boil fruit faculty drop test shock feature
+bip_39_word_space_8: boil fruit faculty drop test shock feature stem
+bip_39_word_space_9: boil fruit faculty drop test shock feature stem chief
+bip_39_word_underscore_1: boil
+bip_39_word_underscore_10: boil_fruit_faculty_drop_test_shock_feature_stem_chief_banner
+bip_39_word_underscore_11: boil_fruit_faculty_drop_test_shock_feature_stem_chief_banner_cousin
+bip_39_word_underscore_12: boil_fruit_faculty_drop_test_shock_feature_stem_chief_banner_cousin_armor
+bip_39_word_underscore_2: boil_fruit
+bip_39_word_underscore_3: boil_fruit_faculty
+bip_39_word_underscore_4: boil_fruit_faculty_drop
+bip_39_word_underscore_5: boil_fruit_faculty_drop_test
+bip_39_word_underscore_6: boil_fruit_faculty_drop_test_shock
+bip_39_word_underscore_7: boil_fruit_faculty_drop_test_shock_feature
+bip_39_word_underscore_8: boil_fruit_faculty_drop_test_shock_feature_stem
+bip_39_word_underscore_9: boil_fruit_faculty_drop_test_shock_feature_stem_chief
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_09_01_06
 id_no_color: 090106
 id_no_size: 09_01_06
 id_no_type: plate_09_01_06
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_06
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_01_06
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_01_06
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ffes
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ffes
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ffes
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090106
 name_no_size: 09 01 06
 name_no_size_short: 09 01 06
 name_no_type: Plate 09 01 06
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_01_06
 oomp_word: ramen tulip cookie
 oomp_word_emoji: ':ramen: :tulip: :cookie:'

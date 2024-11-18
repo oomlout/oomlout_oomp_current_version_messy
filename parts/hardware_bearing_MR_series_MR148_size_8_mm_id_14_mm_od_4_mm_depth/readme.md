@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr148 Size 8 mm ID 14 mm OD 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR148_size_8_mm_id_14_mm_od_4_mm_depth
   * classification: hardware

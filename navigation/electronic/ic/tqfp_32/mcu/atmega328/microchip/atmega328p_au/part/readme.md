@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Tqfp 32 MCU Atmega328 Microchip Atmega328P Au
+* name_short: 
 ### id
 * oomp_id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :thumbsup: :thumbsup: :moon:
 * md5_6_alpha: v0xb
 * md5_6: 16166f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20v0xb)
+[2x1](http://192.168.1.242:1112/?label=oomp%20v0xb)
+[6x4](http://192.168.1.55:1112/?label=oomp%20v0xb)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ tool |
 | id_no_color | atmega328_microchip_atmega328p_au |  
 | id_no_size | mcu_atmega328_microchip_atmega328p_au |  
 | id_no_type | tqfp_32_mcu_atmega328_microchip_atmega328p_au |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20v0xb |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20v0xb |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20v0xb |  
 | manufacturer | microchip |  
 | manufacturer_capital | Microchip |  
 | manufacturer_first_letter | m |  
@@ -329,6 +362,7 @@ tool |
 | name_no_size | MCU Atmega328 Microchip Atmega328P Au |  
 | name_no_size_short | Mcu Atmega328 Microchip Atmega328P Au |  
 | name_no_type | Tqfp 32 MCU Atmega328 Microchip Atmega328P Au |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au |  
 | oomp_word | thumbsup thumbsup moon |  
 | oomp_word_emoji | :thumbsup: :thumbsup: :moon: |  

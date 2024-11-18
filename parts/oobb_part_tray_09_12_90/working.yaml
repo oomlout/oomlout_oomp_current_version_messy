@@ -1,3 +1,222 @@
+bip_39_word_dash_1: large
+bip_39_word_dash_10: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil
+bip_39_word_dash_11: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil-card
+bip_39_word_dash_12: large-profit-fat-damp-pudding-produce-gloom-disagree-trim-oil-card-always
+bip_39_word_dash_2: large-profit
+bip_39_word_dash_3: large-profit-fat
+bip_39_word_dash_4: large-profit-fat-damp
+bip_39_word_dash_5: large-profit-fat-damp-pudding
+bip_39_word_dash_6: large-profit-fat-damp-pudding-produce
+bip_39_word_dash_7: large-profit-fat-damp-pudding-produce-gloom
+bip_39_word_dash_8: large-profit-fat-damp-pudding-produce-gloom-disagree
+bip_39_word_dash_9: large-profit-fat-damp-pudding-produce-gloom-disagree-trim
+bip_39_word_new_br_1: large
+bip_39_word_new_br_10: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim<br>oil
+bip_39_word_new_br_11: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim<br>oil<br>card
+bip_39_word_new_br_12: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim<br>oil<br>card<br>always
+bip_39_word_new_br_2: large<br>profit
+bip_39_word_new_br_3: large<br>profit<br>fat
+bip_39_word_new_br_4: large<br>profit<br>fat<br>damp
+bip_39_word_new_br_5: large<br>profit<br>fat<br>damp<br>pudding
+bip_39_word_new_br_6: large<br>profit<br>fat<br>damp<br>pudding<br>produce
+bip_39_word_new_br_7: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom
+bip_39_word_new_br_8: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree
+bip_39_word_new_br_9: large<br>profit<br>fat<br>damp<br>pudding<br>produce<br>gloom<br>disagree<br>trim
+bip_39_word_new_line_1: large
+bip_39_word_new_line_10: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom
+
+  disagree
+
+  trim
+
+  oil'
+bip_39_word_new_line_11: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom
+
+  disagree
+
+  trim
+
+  oil
+
+  card'
+bip_39_word_new_line_12: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom
+
+  disagree
+
+  trim
+
+  oil
+
+  card
+
+  always'
+bip_39_word_new_line_2: 'large
+
+  profit'
+bip_39_word_new_line_3: 'large
+
+  profit
+
+  fat'
+bip_39_word_new_line_4: 'large
+
+  profit
+
+  fat
+
+  damp'
+bip_39_word_new_line_5: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding'
+bip_39_word_new_line_6: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce'
+bip_39_word_new_line_7: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom'
+bip_39_word_new_line_8: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom
+
+  disagree'
+bip_39_word_new_line_9: 'large
+
+  profit
+
+  fat
+
+  damp
+
+  pudding
+
+  produce
+
+  gloom
+
+  disagree
+
+  trim'
+bip_39_word_no_space_1: large
+bip_39_word_no_space_10: largeprofitfatdamppuddingproducegloomdisagreetrimoil
+bip_39_word_no_space_11: largeprofitfatdamppuddingproducegloomdisagreetrimoilcard
+bip_39_word_no_space_12: largeprofitfatdamppuddingproducegloomdisagreetrimoilcardalways
+bip_39_word_no_space_2: largeprofit
+bip_39_word_no_space_3: largeprofitfat
+bip_39_word_no_space_4: largeprofitfatdamp
+bip_39_word_no_space_5: largeprofitfatdamppudding
+bip_39_word_no_space_6: largeprofitfatdamppuddingproduce
+bip_39_word_no_space_7: largeprofitfatdamppuddingproducegloom
+bip_39_word_no_space_8: largeprofitfatdamppuddingproducegloomdisagree
+bip_39_word_no_space_9: largeprofitfatdamppuddingproducegloomdisagreetrim
+bip_39_word_space_0:
+- large
+- profit
+- fat
+- damp
+- pudding
+- produce
+- gloom
+- disagree
+- trim
+- oil
+- card
+- always
+bip_39_word_space_1: large
+bip_39_word_space_10: large profit fat damp pudding produce gloom disagree trim oil
+bip_39_word_space_11: large profit fat damp pudding produce gloom disagree trim oil
+  card
+bip_39_word_space_12: large profit fat damp pudding produce gloom disagree trim oil
+  card always
+bip_39_word_space_2: large profit
+bip_39_word_space_3: large profit fat
+bip_39_word_space_4: large profit fat damp
+bip_39_word_space_5: large profit fat damp pudding
+bip_39_word_space_6: large profit fat damp pudding produce
+bip_39_word_space_7: large profit fat damp pudding produce gloom
+bip_39_word_space_8: large profit fat damp pudding produce gloom disagree
+bip_39_word_space_9: large profit fat damp pudding produce gloom disagree trim
+bip_39_word_underscore_1: large
+bip_39_word_underscore_10: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil
+bip_39_word_underscore_11: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil_card
+bip_39_word_underscore_12: large_profit_fat_damp_pudding_produce_gloom_disagree_trim_oil_card_always
+bip_39_word_underscore_2: large_profit
+bip_39_word_underscore_3: large_profit_fat
+bip_39_word_underscore_4: large_profit_fat_damp
+bip_39_word_underscore_5: large_profit_fat_damp_pudding
+bip_39_word_underscore_6: large_profit_fat_damp_pudding_produce
+bip_39_word_underscore_7: large_profit_fat_damp_pudding_produce_gloom
+bip_39_word_underscore_8: large_profit_fat_damp_pudding_produce_gloom_disagree
+bip_39_word_underscore_9: large_profit_fat_damp_pudding_produce_gloom_disagree_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_12_90
 id_no_color: 091290
 id_no_size: 09_12_90
 id_no_type: tray_09_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204oxt2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204oxt2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204oxt2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091290
 name_no_size: 09 12 90
 name_no_size_short: 09 12 90
 name_no_type: Tray 09 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_12_90
 oomp_word: bell snake eyes
 oomp_word_emoji: ':bell: :snake: :eyes:'

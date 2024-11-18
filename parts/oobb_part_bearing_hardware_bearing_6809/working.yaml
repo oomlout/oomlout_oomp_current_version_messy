@@ -1,3 +1,222 @@
+bip_39_word_dash_1: crystal
+bip_39_word_dash_10: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion
+bip_39_word_dash_11: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion-shrug
+bip_39_word_dash_12: crystal-prize-copy-pitch-win-moment-fury-garden-section-mansion-shrug-address
+bip_39_word_dash_2: crystal-prize
+bip_39_word_dash_3: crystal-prize-copy
+bip_39_word_dash_4: crystal-prize-copy-pitch
+bip_39_word_dash_5: crystal-prize-copy-pitch-win
+bip_39_word_dash_6: crystal-prize-copy-pitch-win-moment
+bip_39_word_dash_7: crystal-prize-copy-pitch-win-moment-fury
+bip_39_word_dash_8: crystal-prize-copy-pitch-win-moment-fury-garden
+bip_39_word_dash_9: crystal-prize-copy-pitch-win-moment-fury-garden-section
+bip_39_word_new_br_1: crystal
+bip_39_word_new_br_10: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion
+bip_39_word_new_br_11: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug
+bip_39_word_new_br_12: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section<br>mansion<br>shrug<br>address
+bip_39_word_new_br_2: crystal<br>prize
+bip_39_word_new_br_3: crystal<br>prize<br>copy
+bip_39_word_new_br_4: crystal<br>prize<br>copy<br>pitch
+bip_39_word_new_br_5: crystal<br>prize<br>copy<br>pitch<br>win
+bip_39_word_new_br_6: crystal<br>prize<br>copy<br>pitch<br>win<br>moment
+bip_39_word_new_br_7: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury
+bip_39_word_new_br_8: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden
+bip_39_word_new_br_9: crystal<br>prize<br>copy<br>pitch<br>win<br>moment<br>fury<br>garden<br>section
+bip_39_word_new_line_1: crystal
+bip_39_word_new_line_10: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury
+
+  garden
+
+  section
+
+  mansion'
+bip_39_word_new_line_11: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury
+
+  garden
+
+  section
+
+  mansion
+
+  shrug'
+bip_39_word_new_line_12: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury
+
+  garden
+
+  section
+
+  mansion
+
+  shrug
+
+  address'
+bip_39_word_new_line_2: 'crystal
+
+  prize'
+bip_39_word_new_line_3: 'crystal
+
+  prize
+
+  copy'
+bip_39_word_new_line_4: 'crystal
+
+  prize
+
+  copy
+
+  pitch'
+bip_39_word_new_line_5: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win'
+bip_39_word_new_line_6: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment'
+bip_39_word_new_line_7: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury'
+bip_39_word_new_line_8: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury
+
+  garden'
+bip_39_word_new_line_9: 'crystal
+
+  prize
+
+  copy
+
+  pitch
+
+  win
+
+  moment
+
+  fury
+
+  garden
+
+  section'
+bip_39_word_no_space_1: crystal
+bip_39_word_no_space_10: crystalprizecopypitchwinmomentfurygardensectionmansion
+bip_39_word_no_space_11: crystalprizecopypitchwinmomentfurygardensectionmansionshrug
+bip_39_word_no_space_12: crystalprizecopypitchwinmomentfurygardensectionmansionshrugaddress
+bip_39_word_no_space_2: crystalprize
+bip_39_word_no_space_3: crystalprizecopy
+bip_39_word_no_space_4: crystalprizecopypitch
+bip_39_word_no_space_5: crystalprizecopypitchwin
+bip_39_word_no_space_6: crystalprizecopypitchwinmoment
+bip_39_word_no_space_7: crystalprizecopypitchwinmomentfury
+bip_39_word_no_space_8: crystalprizecopypitchwinmomentfurygarden
+bip_39_word_no_space_9: crystalprizecopypitchwinmomentfurygardensection
+bip_39_word_space_0:
+- crystal
+- prize
+- copy
+- pitch
+- win
+- moment
+- fury
+- garden
+- section
+- mansion
+- shrug
+- address
+bip_39_word_space_1: crystal
+bip_39_word_space_10: crystal prize copy pitch win moment fury garden section mansion
+bip_39_word_space_11: crystal prize copy pitch win moment fury garden section mansion
+  shrug
+bip_39_word_space_12: crystal prize copy pitch win moment fury garden section mansion
+  shrug address
+bip_39_word_space_2: crystal prize
+bip_39_word_space_3: crystal prize copy
+bip_39_word_space_4: crystal prize copy pitch
+bip_39_word_space_5: crystal prize copy pitch win
+bip_39_word_space_6: crystal prize copy pitch win moment
+bip_39_word_space_7: crystal prize copy pitch win moment fury
+bip_39_word_space_8: crystal prize copy pitch win moment fury garden
+bip_39_word_space_9: crystal prize copy pitch win moment fury garden section
+bip_39_word_underscore_1: crystal
+bip_39_word_underscore_10: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion
+bip_39_word_underscore_11: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion_shrug
+bip_39_word_underscore_12: crystal_prize_copy_pitch_win_moment_fury_garden_section_mansion_shrug_address
+bip_39_word_underscore_2: crystal_prize
+bip_39_word_underscore_3: crystal_prize_copy
+bip_39_word_underscore_4: crystal_prize_copy_pitch
+bip_39_word_underscore_5: crystal_prize_copy_pitch_win
+bip_39_word_underscore_6: crystal_prize_copy_pitch_win_moment
+bip_39_word_underscore_7: crystal_prize_copy_pitch_win_moment_fury
+bip_39_word_underscore_8: crystal_prize_copy_pitch_win_moment_fury_garden
+bip_39_word_underscore_9: crystal_prize_copy_pitch_win_moment_fury_garden_section
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bearing_hardware_bearing_6809
 id_no_color: hardware6809
 id_no_size: hardware_6809
 id_no_type: bearing_hardware_bearing_6809
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6809
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6809
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6809
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20261ep
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20261ep
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20261ep
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardware6809
 name_no_size: Hardware 6809
 name_no_size_short: Hardware 6k8
 name_no_type: Bearing Hardware Bearing 6809
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6809
 oomp_word: wolf clipboard trophy
 oomp_word_emoji: ':wolf: :clipboard: :trophy:'

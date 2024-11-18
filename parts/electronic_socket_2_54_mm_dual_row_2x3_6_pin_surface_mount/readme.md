@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket 2 54 mm Dual Row 2X3 6 Pin Surface Mount
+* name_short: 
 ### id
 * oomp_id: electronic_socket_2_54_mm_dual_row_2x3_6_pin_surface_mount
   * classification: electronic

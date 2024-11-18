@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dish
+bip_39_word_dash_10: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion
+bip_39_word_dash_11: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion-sort
+bip_39_word_dash_12: dish-moon-comfort-betray-payment-light-few-work-pioneer-motion-sort-army
+bip_39_word_dash_2: dish-moon
+bip_39_word_dash_3: dish-moon-comfort
+bip_39_word_dash_4: dish-moon-comfort-betray
+bip_39_word_dash_5: dish-moon-comfort-betray-payment
+bip_39_word_dash_6: dish-moon-comfort-betray-payment-light
+bip_39_word_dash_7: dish-moon-comfort-betray-payment-light-few
+bip_39_word_dash_8: dish-moon-comfort-betray-payment-light-few-work
+bip_39_word_dash_9: dish-moon-comfort-betray-payment-light-few-work-pioneer
+bip_39_word_new_br_1: dish
+bip_39_word_new_br_10: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion
+bip_39_word_new_br_11: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion<br>sort
+bip_39_word_new_br_12: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer<br>motion<br>sort<br>army
+bip_39_word_new_br_2: dish<br>moon
+bip_39_word_new_br_3: dish<br>moon<br>comfort
+bip_39_word_new_br_4: dish<br>moon<br>comfort<br>betray
+bip_39_word_new_br_5: dish<br>moon<br>comfort<br>betray<br>payment
+bip_39_word_new_br_6: dish<br>moon<br>comfort<br>betray<br>payment<br>light
+bip_39_word_new_br_7: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few
+bip_39_word_new_br_8: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work
+bip_39_word_new_br_9: dish<br>moon<br>comfort<br>betray<br>payment<br>light<br>few<br>work<br>pioneer
+bip_39_word_new_line_1: dish
+bip_39_word_new_line_10: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion'
+bip_39_word_new_line_11: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion
+
+  sort'
+bip_39_word_new_line_12: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer
+
+  motion
+
+  sort
+
+  army'
+bip_39_word_new_line_2: 'dish
+
+  moon'
+bip_39_word_new_line_3: 'dish
+
+  moon
+
+  comfort'
+bip_39_word_new_line_4: 'dish
+
+  moon
+
+  comfort
+
+  betray'
+bip_39_word_new_line_5: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment'
+bip_39_word_new_line_6: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light'
+bip_39_word_new_line_7: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few'
+bip_39_word_new_line_8: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work'
+bip_39_word_new_line_9: 'dish
+
+  moon
+
+  comfort
+
+  betray
+
+  payment
+
+  light
+
+  few
+
+  work
+
+  pioneer'
+bip_39_word_no_space_1: dish
+bip_39_word_no_space_10: dishmooncomfortbetraypaymentlightfewworkpioneermotion
+bip_39_word_no_space_11: dishmooncomfortbetraypaymentlightfewworkpioneermotionsort
+bip_39_word_no_space_12: dishmooncomfortbetraypaymentlightfewworkpioneermotionsortarmy
+bip_39_word_no_space_2: dishmoon
+bip_39_word_no_space_3: dishmooncomfort
+bip_39_word_no_space_4: dishmooncomfortbetray
+bip_39_word_no_space_5: dishmooncomfortbetraypayment
+bip_39_word_no_space_6: dishmooncomfortbetraypaymentlight
+bip_39_word_no_space_7: dishmooncomfortbetraypaymentlightfew
+bip_39_word_no_space_8: dishmooncomfortbetraypaymentlightfewwork
+bip_39_word_no_space_9: dishmooncomfortbetraypaymentlightfewworkpioneer
+bip_39_word_space_0:
+- dish
+- moon
+- comfort
+- betray
+- payment
+- light
+- few
+- work
+- pioneer
+- motion
+- sort
+- army
+bip_39_word_space_1: dish
+bip_39_word_space_10: dish moon comfort betray payment light few work pioneer motion
+bip_39_word_space_11: dish moon comfort betray payment light few work pioneer motion
+  sort
+bip_39_word_space_12: dish moon comfort betray payment light few work pioneer motion
+  sort army
+bip_39_word_space_2: dish moon
+bip_39_word_space_3: dish moon comfort
+bip_39_word_space_4: dish moon comfort betray
+bip_39_word_space_5: dish moon comfort betray payment
+bip_39_word_space_6: dish moon comfort betray payment light
+bip_39_word_space_7: dish moon comfort betray payment light few
+bip_39_word_space_8: dish moon comfort betray payment light few work
+bip_39_word_space_9: dish moon comfort betray payment light few work pioneer
+bip_39_word_underscore_1: dish
+bip_39_word_underscore_10: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion
+bip_39_word_underscore_11: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion_sort
+bip_39_word_underscore_12: dish_moon_comfort_betray_payment_light_few_work_pioneer_motion_sort_army
+bip_39_word_underscore_2: dish_moon
+bip_39_word_underscore_3: dish_moon_comfort
+bip_39_word_underscore_4: dish_moon_comfort_betray
+bip_39_word_underscore_5: dish_moon_comfort_betray_payment
+bip_39_word_underscore_6: dish_moon_comfort_betray_payment_light
+bip_39_word_underscore_7: dish_moon_comfort_betray_payment_light_few
+bip_39_word_underscore_8: dish_moon_comfort_betray_payment_light_few_work
+bip_39_word_underscore_9: dish_moon_comfort_betray_payment_light_few_work_pioneer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_04_01_60
 id_no_color: '040160'
 id_no_size: '04_01_60'
 id_no_type: tray_thin_04_01_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_01_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_01_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_01_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207jz1g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207jz1g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207jz1g
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040160'
 name_no_size: 04 01 60
 name_no_size_short: 04 01 60
 name_no_type: Tray Thin 04 01 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_01_60
 oomp_word: doughnut diamonds droplet
 oomp_word_emoji: ':doughnut: :diamonds: :droplet:'

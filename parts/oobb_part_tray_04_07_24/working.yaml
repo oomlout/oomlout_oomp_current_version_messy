@@ -1,3 +1,222 @@
+bip_39_word_dash_1: news
+bip_39_word_dash_10: news-knock-engine-order-glide-town-behave-bring-alley-arrange
+bip_39_word_dash_11: news-knock-engine-order-glide-town-behave-bring-alley-arrange-like
+bip_39_word_dash_12: news-knock-engine-order-glide-town-behave-bring-alley-arrange-like-account
+bip_39_word_dash_2: news-knock
+bip_39_word_dash_3: news-knock-engine
+bip_39_word_dash_4: news-knock-engine-order
+bip_39_word_dash_5: news-knock-engine-order-glide
+bip_39_word_dash_6: news-knock-engine-order-glide-town
+bip_39_word_dash_7: news-knock-engine-order-glide-town-behave
+bip_39_word_dash_8: news-knock-engine-order-glide-town-behave-bring
+bip_39_word_dash_9: news-knock-engine-order-glide-town-behave-bring-alley
+bip_39_word_new_br_1: news
+bip_39_word_new_br_10: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley<br>arrange
+bip_39_word_new_br_11: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley<br>arrange<br>like
+bip_39_word_new_br_12: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley<br>arrange<br>like<br>account
+bip_39_word_new_br_2: news<br>knock
+bip_39_word_new_br_3: news<br>knock<br>engine
+bip_39_word_new_br_4: news<br>knock<br>engine<br>order
+bip_39_word_new_br_5: news<br>knock<br>engine<br>order<br>glide
+bip_39_word_new_br_6: news<br>knock<br>engine<br>order<br>glide<br>town
+bip_39_word_new_br_7: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave
+bip_39_word_new_br_8: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring
+bip_39_word_new_br_9: news<br>knock<br>engine<br>order<br>glide<br>town<br>behave<br>bring<br>alley
+bip_39_word_new_line_1: news
+bip_39_word_new_line_10: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave
+
+  bring
+
+  alley
+
+  arrange'
+bip_39_word_new_line_11: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave
+
+  bring
+
+  alley
+
+  arrange
+
+  like'
+bip_39_word_new_line_12: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave
+
+  bring
+
+  alley
+
+  arrange
+
+  like
+
+  account'
+bip_39_word_new_line_2: 'news
+
+  knock'
+bip_39_word_new_line_3: 'news
+
+  knock
+
+  engine'
+bip_39_word_new_line_4: 'news
+
+  knock
+
+  engine
+
+  order'
+bip_39_word_new_line_5: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide'
+bip_39_word_new_line_6: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town'
+bip_39_word_new_line_7: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave'
+bip_39_word_new_line_8: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave
+
+  bring'
+bip_39_word_new_line_9: 'news
+
+  knock
+
+  engine
+
+  order
+
+  glide
+
+  town
+
+  behave
+
+  bring
+
+  alley'
+bip_39_word_no_space_1: news
+bip_39_word_no_space_10: newsknockengineorderglidetownbehavebringalleyarrange
+bip_39_word_no_space_11: newsknockengineorderglidetownbehavebringalleyarrangelike
+bip_39_word_no_space_12: newsknockengineorderglidetownbehavebringalleyarrangelikeaccount
+bip_39_word_no_space_2: newsknock
+bip_39_word_no_space_3: newsknockengine
+bip_39_word_no_space_4: newsknockengineorder
+bip_39_word_no_space_5: newsknockengineorderglide
+bip_39_word_no_space_6: newsknockengineorderglidetown
+bip_39_word_no_space_7: newsknockengineorderglidetownbehave
+bip_39_word_no_space_8: newsknockengineorderglidetownbehavebring
+bip_39_word_no_space_9: newsknockengineorderglidetownbehavebringalley
+bip_39_word_space_0:
+- news
+- knock
+- engine
+- order
+- glide
+- town
+- behave
+- bring
+- alley
+- arrange
+- like
+- account
+bip_39_word_space_1: news
+bip_39_word_space_10: news knock engine order glide town behave bring alley arrange
+bip_39_word_space_11: news knock engine order glide town behave bring alley arrange
+  like
+bip_39_word_space_12: news knock engine order glide town behave bring alley arrange
+  like account
+bip_39_word_space_2: news knock
+bip_39_word_space_3: news knock engine
+bip_39_word_space_4: news knock engine order
+bip_39_word_space_5: news knock engine order glide
+bip_39_word_space_6: news knock engine order glide town
+bip_39_word_space_7: news knock engine order glide town behave
+bip_39_word_space_8: news knock engine order glide town behave bring
+bip_39_word_space_9: news knock engine order glide town behave bring alley
+bip_39_word_underscore_1: news
+bip_39_word_underscore_10: news_knock_engine_order_glide_town_behave_bring_alley_arrange
+bip_39_word_underscore_11: news_knock_engine_order_glide_town_behave_bring_alley_arrange_like
+bip_39_word_underscore_12: news_knock_engine_order_glide_town_behave_bring_alley_arrange_like_account
+bip_39_word_underscore_2: news_knock
+bip_39_word_underscore_3: news_knock_engine
+bip_39_word_underscore_4: news_knock_engine_order
+bip_39_word_underscore_5: news_knock_engine_order_glide
+bip_39_word_underscore_6: news_knock_engine_order_glide_town
+bip_39_word_underscore_7: news_knock_engine_order_glide_town_behave
+bip_39_word_underscore_8: news_knock_engine_order_glide_town_behave_bring
+bip_39_word_underscore_9: news_knock_engine_order_glide_town_behave_bring_alley
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_07_24
 id_no_color: '040724'
 id_no_size: '04_07_24'
 id_no_type: tray_04_07_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_07_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_07_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_07_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20z4ub
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20z4ub
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20z4ub
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040724'
 name_no_size: 04 07 24
 name_no_size_short: 04 07 24
 name_no_type: Tray 04 07 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_07_24
 oomp_word: pray grin elephant
 oomp_word_emoji: ':pray: :grin: :elephant:'

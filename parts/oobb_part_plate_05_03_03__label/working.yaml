@@ -1,3 +1,222 @@
+bip_39_word_dash_1: chat
+bip_39_word_dash_10: chat-toe-bean-usage-clever-public-clutch-cotton-figure-original
+bip_39_word_dash_11: chat-toe-bean-usage-clever-public-clutch-cotton-figure-original-bachelor
+bip_39_word_dash_12: chat-toe-bean-usage-clever-public-clutch-cotton-figure-original-bachelor-armed
+bip_39_word_dash_2: chat-toe
+bip_39_word_dash_3: chat-toe-bean
+bip_39_word_dash_4: chat-toe-bean-usage
+bip_39_word_dash_5: chat-toe-bean-usage-clever
+bip_39_word_dash_6: chat-toe-bean-usage-clever-public
+bip_39_word_dash_7: chat-toe-bean-usage-clever-public-clutch
+bip_39_word_dash_8: chat-toe-bean-usage-clever-public-clutch-cotton
+bip_39_word_dash_9: chat-toe-bean-usage-clever-public-clutch-cotton-figure
+bip_39_word_new_br_1: chat
+bip_39_word_new_br_10: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original
+bip_39_word_new_br_11: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor
+bip_39_word_new_br_12: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure<br>original<br>bachelor<br>armed
+bip_39_word_new_br_2: chat<br>toe
+bip_39_word_new_br_3: chat<br>toe<br>bean
+bip_39_word_new_br_4: chat<br>toe<br>bean<br>usage
+bip_39_word_new_br_5: chat<br>toe<br>bean<br>usage<br>clever
+bip_39_word_new_br_6: chat<br>toe<br>bean<br>usage<br>clever<br>public
+bip_39_word_new_br_7: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch
+bip_39_word_new_br_8: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton
+bip_39_word_new_br_9: chat<br>toe<br>bean<br>usage<br>clever<br>public<br>clutch<br>cotton<br>figure
+bip_39_word_new_line_1: chat
+bip_39_word_new_line_10: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch
+
+  cotton
+
+  figure
+
+  original'
+bip_39_word_new_line_11: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch
+
+  cotton
+
+  figure
+
+  original
+
+  bachelor'
+bip_39_word_new_line_12: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch
+
+  cotton
+
+  figure
+
+  original
+
+  bachelor
+
+  armed'
+bip_39_word_new_line_2: 'chat
+
+  toe'
+bip_39_word_new_line_3: 'chat
+
+  toe
+
+  bean'
+bip_39_word_new_line_4: 'chat
+
+  toe
+
+  bean
+
+  usage'
+bip_39_word_new_line_5: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever'
+bip_39_word_new_line_6: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public'
+bip_39_word_new_line_7: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch'
+bip_39_word_new_line_8: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch
+
+  cotton'
+bip_39_word_new_line_9: 'chat
+
+  toe
+
+  bean
+
+  usage
+
+  clever
+
+  public
+
+  clutch
+
+  cotton
+
+  figure'
+bip_39_word_no_space_1: chat
+bip_39_word_no_space_10: chattoebeanusagecleverpublicclutchcottonfigureoriginal
+bip_39_word_no_space_11: chattoebeanusagecleverpublicclutchcottonfigureoriginalbachelor
+bip_39_word_no_space_12: chattoebeanusagecleverpublicclutchcottonfigureoriginalbachelorarmed
+bip_39_word_no_space_2: chattoe
+bip_39_word_no_space_3: chattoebean
+bip_39_word_no_space_4: chattoebeanusage
+bip_39_word_no_space_5: chattoebeanusageclever
+bip_39_word_no_space_6: chattoebeanusagecleverpublic
+bip_39_word_no_space_7: chattoebeanusagecleverpublicclutch
+bip_39_word_no_space_8: chattoebeanusagecleverpublicclutchcotton
+bip_39_word_no_space_9: chattoebeanusagecleverpublicclutchcottonfigure
+bip_39_word_space_0:
+- chat
+- toe
+- bean
+- usage
+- clever
+- public
+- clutch
+- cotton
+- figure
+- original
+- bachelor
+- armed
+bip_39_word_space_1: chat
+bip_39_word_space_10: chat toe bean usage clever public clutch cotton figure original
+bip_39_word_space_11: chat toe bean usage clever public clutch cotton figure original
+  bachelor
+bip_39_word_space_12: chat toe bean usage clever public clutch cotton figure original
+  bachelor armed
+bip_39_word_space_2: chat toe
+bip_39_word_space_3: chat toe bean
+bip_39_word_space_4: chat toe bean usage
+bip_39_word_space_5: chat toe bean usage clever
+bip_39_word_space_6: chat toe bean usage clever public
+bip_39_word_space_7: chat toe bean usage clever public clutch
+bip_39_word_space_8: chat toe bean usage clever public clutch cotton
+bip_39_word_space_9: chat toe bean usage clever public clutch cotton figure
+bip_39_word_underscore_1: chat
+bip_39_word_underscore_10: chat_toe_bean_usage_clever_public_clutch_cotton_figure_original
+bip_39_word_underscore_11: chat_toe_bean_usage_clever_public_clutch_cotton_figure_original_bachelor
+bip_39_word_underscore_12: chat_toe_bean_usage_clever_public_clutch_cotton_figure_original_bachelor_armed
+bip_39_word_underscore_2: chat_toe
+bip_39_word_underscore_3: chat_toe_bean
+bip_39_word_underscore_4: chat_toe_bean_usage
+bip_39_word_underscore_5: chat_toe_bean_usage_clever
+bip_39_word_underscore_6: chat_toe_bean_usage_clever_public
+bip_39_word_underscore_7: chat_toe_bean_usage_clever_public_clutch
+bip_39_word_underscore_8: chat_toe_bean_usage_clever_public_clutch_cotton
+bip_39_word_underscore_9: chat_toe_bean_usage_clever_public_clutch_cotton_figure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_05_03_03__label
 id_no_color: 050303label
 id_no_size: 05_03_03__label
 id_no_type: plate_05_03_03__label
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_03__label
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_03__label
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_03__label
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207c9k7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207c9k7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207c9k7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050303Label
 name_no_size: 05 03 03  Label
 name_no_size_short: 05 03 03  Label
 name_no_type: Plate 05 03 03  Label
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_03_03__label
 oomp_word: sushi lips herb
 oomp_word_emoji: ':sushi: :lips: :herb:'

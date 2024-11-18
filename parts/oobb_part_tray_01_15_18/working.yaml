@@ -1,3 +1,221 @@
+bip_39_word_dash_1: obtain
+bip_39_word_dash_10: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle
+bip_39_word_dash_11: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle-audit
+bip_39_word_dash_12: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon-cycle-audit-answer
+bip_39_word_dash_2: obtain-foil
+bip_39_word_dash_3: obtain-foil-jewel
+bip_39_word_dash_4: obtain-foil-jewel-try
+bip_39_word_dash_5: obtain-foil-jewel-try-predict
+bip_39_word_dash_6: obtain-foil-jewel-try-predict-vendor
+bip_39_word_dash_7: obtain-foil-jewel-try-predict-vendor-dumb
+bip_39_word_dash_8: obtain-foil-jewel-try-predict-vendor-dumb-seek
+bip_39_word_dash_9: obtain-foil-jewel-try-predict-vendor-dumb-seek-upon
+bip_39_word_new_br_1: obtain
+bip_39_word_new_br_10: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle
+bip_39_word_new_br_11: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit
+bip_39_word_new_br_12: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon<br>cycle<br>audit<br>answer
+bip_39_word_new_br_2: obtain<br>foil
+bip_39_word_new_br_3: obtain<br>foil<br>jewel
+bip_39_word_new_br_4: obtain<br>foil<br>jewel<br>try
+bip_39_word_new_br_5: obtain<br>foil<br>jewel<br>try<br>predict
+bip_39_word_new_br_6: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor
+bip_39_word_new_br_7: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb
+bip_39_word_new_br_8: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek
+bip_39_word_new_br_9: obtain<br>foil<br>jewel<br>try<br>predict<br>vendor<br>dumb<br>seek<br>upon
+bip_39_word_new_line_1: obtain
+bip_39_word_new_line_10: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle'
+bip_39_word_new_line_11: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle
+
+  audit'
+bip_39_word_new_line_12: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon
+
+  cycle
+
+  audit
+
+  answer'
+bip_39_word_new_line_2: 'obtain
+
+  foil'
+bip_39_word_new_line_3: 'obtain
+
+  foil
+
+  jewel'
+bip_39_word_new_line_4: 'obtain
+
+  foil
+
+  jewel
+
+  try'
+bip_39_word_new_line_5: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict'
+bip_39_word_new_line_6: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor'
+bip_39_word_new_line_7: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb'
+bip_39_word_new_line_8: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek'
+bip_39_word_new_line_9: 'obtain
+
+  foil
+
+  jewel
+
+  try
+
+  predict
+
+  vendor
+
+  dumb
+
+  seek
+
+  upon'
+bip_39_word_no_space_1: obtain
+bip_39_word_no_space_10: obtainfoiljeweltrypredictvendordumbseekuponcycle
+bip_39_word_no_space_11: obtainfoiljeweltrypredictvendordumbseekuponcycleaudit
+bip_39_word_no_space_12: obtainfoiljeweltrypredictvendordumbseekuponcycleauditanswer
+bip_39_word_no_space_2: obtainfoil
+bip_39_word_no_space_3: obtainfoiljewel
+bip_39_word_no_space_4: obtainfoiljeweltry
+bip_39_word_no_space_5: obtainfoiljeweltrypredict
+bip_39_word_no_space_6: obtainfoiljeweltrypredictvendor
+bip_39_word_no_space_7: obtainfoiljeweltrypredictvendordumb
+bip_39_word_no_space_8: obtainfoiljeweltrypredictvendordumbseek
+bip_39_word_no_space_9: obtainfoiljeweltrypredictvendordumbseekupon
+bip_39_word_space_0:
+- obtain
+- foil
+- jewel
+- try
+- predict
+- vendor
+- dumb
+- seek
+- upon
+- cycle
+- audit
+- answer
+bip_39_word_space_1: obtain
+bip_39_word_space_10: obtain foil jewel try predict vendor dumb seek upon cycle
+bip_39_word_space_11: obtain foil jewel try predict vendor dumb seek upon cycle audit
+bip_39_word_space_12: obtain foil jewel try predict vendor dumb seek upon cycle audit
+  answer
+bip_39_word_space_2: obtain foil
+bip_39_word_space_3: obtain foil jewel
+bip_39_word_space_4: obtain foil jewel try
+bip_39_word_space_5: obtain foil jewel try predict
+bip_39_word_space_6: obtain foil jewel try predict vendor
+bip_39_word_space_7: obtain foil jewel try predict vendor dumb
+bip_39_word_space_8: obtain foil jewel try predict vendor dumb seek
+bip_39_word_space_9: obtain foil jewel try predict vendor dumb seek upon
+bip_39_word_underscore_1: obtain
+bip_39_word_underscore_10: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle
+bip_39_word_underscore_11: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle_audit
+bip_39_word_underscore_12: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon_cycle_audit_answer
+bip_39_word_underscore_2: obtain_foil
+bip_39_word_underscore_3: obtain_foil_jewel
+bip_39_word_underscore_4: obtain_foil_jewel_try
+bip_39_word_underscore_5: obtain_foil_jewel_try_predict
+bip_39_word_underscore_6: obtain_foil_jewel_try_predict_vendor
+bip_39_word_underscore_7: obtain_foil_jewel_try_predict_vendor_dumb
+bip_39_word_underscore_8: obtain_foil_jewel_try_predict_vendor_dumb_seek
+bip_39_word_underscore_9: obtain_foil_jewel_try_predict_vendor_dumb_seek_upon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_01_15_18
 id_no_color: 011518
 id_no_size: 01_15_18
 id_no_type: tray_01_15_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_15_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_15_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_15_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2060he5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2060he5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2060he5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 011518
 name_no_size: 01 15 18
 name_no_size_short: 01 15 18
 name_no_type: Tray 01 15 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_15_18
 oomp_word: golf angel heart
 oomp_word_emoji: ':golf: :angel: :heart:'

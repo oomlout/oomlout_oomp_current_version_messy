@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bearing Hardware Bearing 6705
+* name_short: 
 ### id
 * oomp_id: oobb_part_bearing_hardware_bearing_6705
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :calendar: :hotel: :hammer:
 * md5_6_alpha: 5m2dl
 * md5_6: 8fda89
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205m2dl)
+[2x1](http://192.168.1.242:1112/?label=oomp%205m2dl)
+[6x4](http://192.168.1.55:1112/?label=oomp%205m2dl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ ankle |
 | id_no_color | hardware6705 |  
 | id_no_size | hardware_6705 |  
 | id_no_type | bearing_hardware_bearing_6705 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6705 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6705 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205m2dl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205m2dl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205m2dl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ ankle |
 | name_no_size | Hardware 6705 |  
 | name_no_size_short | Hardware 6k7 |  
 | name_no_type | Bearing Hardware Bearing 6705 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_hardware_bearing_6705 |  
 | oomp_word | calendar hotel hammer |  
 | oomp_word_emoji | :calendar: :hotel: :hammer: |  

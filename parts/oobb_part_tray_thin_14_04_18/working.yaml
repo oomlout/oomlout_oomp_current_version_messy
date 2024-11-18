@@ -1,3 +1,223 @@
+bip_39_word_dash_1: inner
+bip_39_word_dash_10: inner-neutral-despair-neglect-ensure-hard-purchase-lamp-hint-between
+bip_39_word_dash_11: inner-neutral-despair-neglect-ensure-hard-purchase-lamp-hint-between-coconut
+bip_39_word_dash_12: inner-neutral-despair-neglect-ensure-hard-purchase-lamp-hint-between-coconut-apart
+bip_39_word_dash_2: inner-neutral
+bip_39_word_dash_3: inner-neutral-despair
+bip_39_word_dash_4: inner-neutral-despair-neglect
+bip_39_word_dash_5: inner-neutral-despair-neglect-ensure
+bip_39_word_dash_6: inner-neutral-despair-neglect-ensure-hard
+bip_39_word_dash_7: inner-neutral-despair-neglect-ensure-hard-purchase
+bip_39_word_dash_8: inner-neutral-despair-neglect-ensure-hard-purchase-lamp
+bip_39_word_dash_9: inner-neutral-despair-neglect-ensure-hard-purchase-lamp-hint
+bip_39_word_new_br_1: inner
+bip_39_word_new_br_10: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between
+bip_39_word_new_br_11: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between<br>coconut
+bip_39_word_new_br_12: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint<br>between<br>coconut<br>apart
+bip_39_word_new_br_2: inner<br>neutral
+bip_39_word_new_br_3: inner<br>neutral<br>despair
+bip_39_word_new_br_4: inner<br>neutral<br>despair<br>neglect
+bip_39_word_new_br_5: inner<br>neutral<br>despair<br>neglect<br>ensure
+bip_39_word_new_br_6: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard
+bip_39_word_new_br_7: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase
+bip_39_word_new_br_8: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp
+bip_39_word_new_br_9: inner<br>neutral<br>despair<br>neglect<br>ensure<br>hard<br>purchase<br>lamp<br>hint
+bip_39_word_new_line_1: inner
+bip_39_word_new_line_10: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between'
+bip_39_word_new_line_11: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between
+
+  coconut'
+bip_39_word_new_line_12: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint
+
+  between
+
+  coconut
+
+  apart'
+bip_39_word_new_line_2: 'inner
+
+  neutral'
+bip_39_word_new_line_3: 'inner
+
+  neutral
+
+  despair'
+bip_39_word_new_line_4: 'inner
+
+  neutral
+
+  despair
+
+  neglect'
+bip_39_word_new_line_5: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure'
+bip_39_word_new_line_6: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard'
+bip_39_word_new_line_7: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase'
+bip_39_word_new_line_8: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp'
+bip_39_word_new_line_9: 'inner
+
+  neutral
+
+  despair
+
+  neglect
+
+  ensure
+
+  hard
+
+  purchase
+
+  lamp
+
+  hint'
+bip_39_word_no_space_1: inner
+bip_39_word_no_space_10: innerneutraldespairneglectensurehardpurchaselamphintbetween
+bip_39_word_no_space_11: innerneutraldespairneglectensurehardpurchaselamphintbetweencoconut
+bip_39_word_no_space_12: innerneutraldespairneglectensurehardpurchaselamphintbetweencoconutapart
+bip_39_word_no_space_2: innerneutral
+bip_39_word_no_space_3: innerneutraldespair
+bip_39_word_no_space_4: innerneutraldespairneglect
+bip_39_word_no_space_5: innerneutraldespairneglectensure
+bip_39_word_no_space_6: innerneutraldespairneglectensurehard
+bip_39_word_no_space_7: innerneutraldespairneglectensurehardpurchase
+bip_39_word_no_space_8: innerneutraldespairneglectensurehardpurchaselamp
+bip_39_word_no_space_9: innerneutraldespairneglectensurehardpurchaselamphint
+bip_39_word_space_0:
+- inner
+- neutral
+- despair
+- neglect
+- ensure
+- hard
+- purchase
+- lamp
+- hint
+- between
+- coconut
+- apart
+bip_39_word_space_1: inner
+bip_39_word_space_10: inner neutral despair neglect ensure hard purchase lamp hint
+  between
+bip_39_word_space_11: inner neutral despair neglect ensure hard purchase lamp hint
+  between coconut
+bip_39_word_space_12: inner neutral despair neglect ensure hard purchase lamp hint
+  between coconut apart
+bip_39_word_space_2: inner neutral
+bip_39_word_space_3: inner neutral despair
+bip_39_word_space_4: inner neutral despair neglect
+bip_39_word_space_5: inner neutral despair neglect ensure
+bip_39_word_space_6: inner neutral despair neglect ensure hard
+bip_39_word_space_7: inner neutral despair neglect ensure hard purchase
+bip_39_word_space_8: inner neutral despair neglect ensure hard purchase lamp
+bip_39_word_space_9: inner neutral despair neglect ensure hard purchase lamp hint
+bip_39_word_underscore_1: inner
+bip_39_word_underscore_10: inner_neutral_despair_neglect_ensure_hard_purchase_lamp_hint_between
+bip_39_word_underscore_11: inner_neutral_despair_neglect_ensure_hard_purchase_lamp_hint_between_coconut
+bip_39_word_underscore_12: inner_neutral_despair_neglect_ensure_hard_purchase_lamp_hint_between_coconut_apart
+bip_39_word_underscore_2: inner_neutral
+bip_39_word_underscore_3: inner_neutral_despair
+bip_39_word_underscore_4: inner_neutral_despair_neglect
+bip_39_word_underscore_5: inner_neutral_despair_neglect_ensure
+bip_39_word_underscore_6: inner_neutral_despair_neglect_ensure_hard
+bip_39_word_underscore_7: inner_neutral_despair_neglect_ensure_hard_purchase
+bip_39_word_underscore_8: inner_neutral_despair_neglect_ensure_hard_purchase_lamp
+bip_39_word_underscore_9: inner_neutral_despair_neglect_ensure_hard_purchase_lamp_hint
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_04_18
 id_no_color: '140418'
 id_no_size: '14_04_18'
 id_no_type: tray_thin_14_04_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_04_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_04_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_04_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206euv9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206euv9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206euv9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140418'
 name_no_size: 14 04 18
 name_no_size_short: 14 04 18
 name_no_type: Tray Thin 14 04 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_04_18
 oomp_word: book dragon candy
 oomp_word_emoji: ':book: :dragon: :candy:'

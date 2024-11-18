@@ -1,3 +1,223 @@
+bip_39_word_dash_1: puppy
+bip_39_word_dash_10: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent
+bip_39_word_dash_11: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent-today
+bip_39_word_dash_12: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover-parent-today-appear
+bip_39_word_dash_2: puppy-combine
+bip_39_word_dash_3: puppy-combine-member
+bip_39_word_dash_4: puppy-combine-member-morning
+bip_39_word_dash_5: puppy-combine-member-morning-parent
+bip_39_word_dash_6: puppy-combine-member-morning-parent-sorry
+bip_39_word_dash_7: puppy-combine-member-morning-parent-sorry-gossip
+bip_39_word_dash_8: puppy-combine-member-morning-parent-sorry-gossip-menu
+bip_39_word_dash_9: puppy-combine-member-morning-parent-sorry-gossip-menu-uncover
+bip_39_word_new_br_1: puppy
+bip_39_word_new_br_10: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent
+bip_39_word_new_br_11: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent<br>today
+bip_39_word_new_br_12: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover<br>parent<br>today<br>appear
+bip_39_word_new_br_2: puppy<br>combine
+bip_39_word_new_br_3: puppy<br>combine<br>member
+bip_39_word_new_br_4: puppy<br>combine<br>member<br>morning
+bip_39_word_new_br_5: puppy<br>combine<br>member<br>morning<br>parent
+bip_39_word_new_br_6: puppy<br>combine<br>member<br>morning<br>parent<br>sorry
+bip_39_word_new_br_7: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip
+bip_39_word_new_br_8: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu
+bip_39_word_new_br_9: puppy<br>combine<br>member<br>morning<br>parent<br>sorry<br>gossip<br>menu<br>uncover
+bip_39_word_new_line_1: puppy
+bip_39_word_new_line_10: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip
+
+  menu
+
+  uncover
+
+  parent'
+bip_39_word_new_line_11: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip
+
+  menu
+
+  uncover
+
+  parent
+
+  today'
+bip_39_word_new_line_12: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip
+
+  menu
+
+  uncover
+
+  parent
+
+  today
+
+  appear'
+bip_39_word_new_line_2: 'puppy
+
+  combine'
+bip_39_word_new_line_3: 'puppy
+
+  combine
+
+  member'
+bip_39_word_new_line_4: 'puppy
+
+  combine
+
+  member
+
+  morning'
+bip_39_word_new_line_5: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent'
+bip_39_word_new_line_6: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry'
+bip_39_word_new_line_7: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip'
+bip_39_word_new_line_8: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip
+
+  menu'
+bip_39_word_new_line_9: 'puppy
+
+  combine
+
+  member
+
+  morning
+
+  parent
+
+  sorry
+
+  gossip
+
+  menu
+
+  uncover'
+bip_39_word_no_space_1: puppy
+bip_39_word_no_space_10: puppycombinemembermorningparentsorrygossipmenuuncoverparent
+bip_39_word_no_space_11: puppycombinemembermorningparentsorrygossipmenuuncoverparenttoday
+bip_39_word_no_space_12: puppycombinemembermorningparentsorrygossipmenuuncoverparenttodayappear
+bip_39_word_no_space_2: puppycombine
+bip_39_word_no_space_3: puppycombinemember
+bip_39_word_no_space_4: puppycombinemembermorning
+bip_39_word_no_space_5: puppycombinemembermorningparent
+bip_39_word_no_space_6: puppycombinemembermorningparentsorry
+bip_39_word_no_space_7: puppycombinemembermorningparentsorrygossip
+bip_39_word_no_space_8: puppycombinemembermorningparentsorrygossipmenu
+bip_39_word_no_space_9: puppycombinemembermorningparentsorrygossipmenuuncover
+bip_39_word_space_0:
+- puppy
+- combine
+- member
+- morning
+- parent
+- sorry
+- gossip
+- menu
+- uncover
+- parent
+- today
+- appear
+bip_39_word_space_1: puppy
+bip_39_word_space_10: puppy combine member morning parent sorry gossip menu uncover
+  parent
+bip_39_word_space_11: puppy combine member morning parent sorry gossip menu uncover
+  parent today
+bip_39_word_space_12: puppy combine member morning parent sorry gossip menu uncover
+  parent today appear
+bip_39_word_space_2: puppy combine
+bip_39_word_space_3: puppy combine member
+bip_39_word_space_4: puppy combine member morning
+bip_39_word_space_5: puppy combine member morning parent
+bip_39_word_space_6: puppy combine member morning parent sorry
+bip_39_word_space_7: puppy combine member morning parent sorry gossip
+bip_39_word_space_8: puppy combine member morning parent sorry gossip menu
+bip_39_word_space_9: puppy combine member morning parent sorry gossip menu uncover
+bip_39_word_underscore_1: puppy
+bip_39_word_underscore_10: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent
+bip_39_word_underscore_11: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent_today
+bip_39_word_underscore_12: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover_parent_today_appear
+bip_39_word_underscore_2: puppy_combine
+bip_39_word_underscore_3: puppy_combine_member
+bip_39_word_underscore_4: puppy_combine_member_morning
+bip_39_word_underscore_5: puppy_combine_member_morning_parent
+bip_39_word_underscore_6: puppy_combine_member_morning_parent_sorry
+bip_39_word_underscore_7: puppy_combine_member_morning_parent_sorry_gossip
+bip_39_word_underscore_8: puppy_combine_member_morning_parent_sorry_gossip_menu
+bip_39_word_underscore_9: puppy_combine_member_morning_parent_sorry_gossip_menu_uncover
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
 id_no_color: 0609144teethshelectronicpotentiometer17mm
 id_no_size: 06_09__144_teeth_sh_electronic_potentiometer_17_mm
 id_no_type: pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206mh7s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206mh7s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206mh7s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0609144Teethshelectronicpotentiometer17mm
 name_no_size: 06 09  144 Teeth Sh Electronic Potentiometer 17 mm
 name_no_size_short: 06 09  144 Teeth Sh Electronic Potentiometer 17 Mm
 name_no_type: Pulley Gt2 06 09  144 Teeth Sh Electronic Potentiometer 17 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_09__144_teeth_sh_electronic_potentiometer_17_mm
 oomp_word: sandal lollipop shoe
 oomp_word_emoji: ':sandal: :lollipop: :shoe:'

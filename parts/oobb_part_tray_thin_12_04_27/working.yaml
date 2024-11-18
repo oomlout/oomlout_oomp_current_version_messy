@@ -1,3 +1,221 @@
+bip_39_word_dash_1: poverty
+bip_39_word_dash_10: poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest
+bip_39_word_dash_11: poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest-rural
+bip_39_word_dash_12: poverty-shy-plug-butter-city-cup-below-soul-prosper-arrest-rural-ahead
+bip_39_word_dash_2: poverty-shy
+bip_39_word_dash_3: poverty-shy-plug
+bip_39_word_dash_4: poverty-shy-plug-butter
+bip_39_word_dash_5: poverty-shy-plug-butter-city
+bip_39_word_dash_6: poverty-shy-plug-butter-city-cup
+bip_39_word_dash_7: poverty-shy-plug-butter-city-cup-below
+bip_39_word_dash_8: poverty-shy-plug-butter-city-cup-below-soul
+bip_39_word_dash_9: poverty-shy-plug-butter-city-cup-below-soul-prosper
+bip_39_word_new_br_1: poverty
+bip_39_word_new_br_10: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest
+bip_39_word_new_br_11: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest<br>rural
+bip_39_word_new_br_12: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper<br>arrest<br>rural<br>ahead
+bip_39_word_new_br_2: poverty<br>shy
+bip_39_word_new_br_3: poverty<br>shy<br>plug
+bip_39_word_new_br_4: poverty<br>shy<br>plug<br>butter
+bip_39_word_new_br_5: poverty<br>shy<br>plug<br>butter<br>city
+bip_39_word_new_br_6: poverty<br>shy<br>plug<br>butter<br>city<br>cup
+bip_39_word_new_br_7: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below
+bip_39_word_new_br_8: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul
+bip_39_word_new_br_9: poverty<br>shy<br>plug<br>butter<br>city<br>cup<br>below<br>soul<br>prosper
+bip_39_word_new_line_1: poverty
+bip_39_word_new_line_10: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below
+
+  soul
+
+  prosper
+
+  arrest'
+bip_39_word_new_line_11: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below
+
+  soul
+
+  prosper
+
+  arrest
+
+  rural'
+bip_39_word_new_line_12: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below
+
+  soul
+
+  prosper
+
+  arrest
+
+  rural
+
+  ahead'
+bip_39_word_new_line_2: 'poverty
+
+  shy'
+bip_39_word_new_line_3: 'poverty
+
+  shy
+
+  plug'
+bip_39_word_new_line_4: 'poverty
+
+  shy
+
+  plug
+
+  butter'
+bip_39_word_new_line_5: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city'
+bip_39_word_new_line_6: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup'
+bip_39_word_new_line_7: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below'
+bip_39_word_new_line_8: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below
+
+  soul'
+bip_39_word_new_line_9: 'poverty
+
+  shy
+
+  plug
+
+  butter
+
+  city
+
+  cup
+
+  below
+
+  soul
+
+  prosper'
+bip_39_word_no_space_1: poverty
+bip_39_word_no_space_10: povertyshyplugbuttercitycupbelowsoulprosperarrest
+bip_39_word_no_space_11: povertyshyplugbuttercitycupbelowsoulprosperarrestrural
+bip_39_word_no_space_12: povertyshyplugbuttercitycupbelowsoulprosperarrestruralahead
+bip_39_word_no_space_2: povertyshy
+bip_39_word_no_space_3: povertyshyplug
+bip_39_word_no_space_4: povertyshyplugbutter
+bip_39_word_no_space_5: povertyshyplugbuttercity
+bip_39_word_no_space_6: povertyshyplugbuttercitycup
+bip_39_word_no_space_7: povertyshyplugbuttercitycupbelow
+bip_39_word_no_space_8: povertyshyplugbuttercitycupbelowsoul
+bip_39_word_no_space_9: povertyshyplugbuttercitycupbelowsoulprosper
+bip_39_word_space_0:
+- poverty
+- shy
+- plug
+- butter
+- city
+- cup
+- below
+- soul
+- prosper
+- arrest
+- rural
+- ahead
+bip_39_word_space_1: poverty
+bip_39_word_space_10: poverty shy plug butter city cup below soul prosper arrest
+bip_39_word_space_11: poverty shy plug butter city cup below soul prosper arrest rural
+bip_39_word_space_12: poverty shy plug butter city cup below soul prosper arrest rural
+  ahead
+bip_39_word_space_2: poverty shy
+bip_39_word_space_3: poverty shy plug
+bip_39_word_space_4: poverty shy plug butter
+bip_39_word_space_5: poverty shy plug butter city
+bip_39_word_space_6: poverty shy plug butter city cup
+bip_39_word_space_7: poverty shy plug butter city cup below
+bip_39_word_space_8: poverty shy plug butter city cup below soul
+bip_39_word_space_9: poverty shy plug butter city cup below soul prosper
+bip_39_word_underscore_1: poverty
+bip_39_word_underscore_10: poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest
+bip_39_word_underscore_11: poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest_rural
+bip_39_word_underscore_12: poverty_shy_plug_butter_city_cup_below_soul_prosper_arrest_rural_ahead
+bip_39_word_underscore_2: poverty_shy
+bip_39_word_underscore_3: poverty_shy_plug
+bip_39_word_underscore_4: poverty_shy_plug_butter
+bip_39_word_underscore_5: poverty_shy_plug_butter_city
+bip_39_word_underscore_6: poverty_shy_plug_butter_city_cup
+bip_39_word_underscore_7: poverty_shy_plug_butter_city_cup_below
+bip_39_word_underscore_8: poverty_shy_plug_butter_city_cup_below_soul
+bip_39_word_underscore_9: poverty_shy_plug_butter_city_cup_below_soul_prosper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_04_27
 id_no_color: '120427'
 id_no_size: '12_04_27'
 id_no_type: tray_thin_12_04_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_04_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_04_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_04_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20399fn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20399fn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20399fn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120427'
 name_no_size: 12 04 27
 name_no_size_short: 12 04 27
 name_no_type: Tray Thin 12 04 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_04_27
 oomp_word: fish computer grin
 oomp_word_emoji: ':fish: :computer: :grin:'

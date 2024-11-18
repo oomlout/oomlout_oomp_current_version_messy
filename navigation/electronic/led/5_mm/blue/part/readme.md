@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 5 mm Blue
+* name_short: 
 ### id
 * oomp_id: electronic_led_5_mm_blue
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :peach: :mouse: :camel:
 * md5_6_alpha: 81nb5
 * md5_6: ce3441
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2081nb5)
+[2x1](http://192.168.1.242:1112/?label=oomp%2081nb5)
+[6x4](http://192.168.1.55:1112/?label=oomp%2081nb5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ menu |
 | id_no_size | blue |  
 | id_no_type | 5_mm_blue |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5_mm_blue |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_5_mm_blue |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2081nb5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2081nb5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2081nb5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -284,6 +317,7 @@ menu |
 | name_no_size | Blue |  
 | name_no_size_short | Blue |  
 | name_no_type | 5 mm Blue |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_5_mm_blue |  
 | oomp_word | peach mouse camel |  
 | oomp_word_emoji | :peach: :mouse: :camel: |  

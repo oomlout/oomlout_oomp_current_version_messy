@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Rectangle 650 Ml Nisbet Fiesta Medium Dm182
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :poop: :sandal: :fireworks:
 * md5_6_alpha: ufec
 * md5_6: 15a974
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20ufec)
+[2x1](http://192.168.1.242:1112/?label=oomp%20ufec)
+[6x4](http://192.168.1.55:1112/?label=oomp%20ufec)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ mosquito |
 | id_no_color | nisbetfiestamediumdm182 |  
 | id_no_size | nisbet_fiesta_medium_dm182 |  
 | id_no_type | 650_ml_nisbet_fiesta_medium_dm182 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20ufec |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20ufec |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20ufec |  
 | manufacturer | nisbet_fiesta |  
 | manufacturer_capital | Nisbet Fiesta |  
 | manufacturer_first_letter | n |  
@@ -280,6 +313,7 @@ mosquito |
 | name_no_size | Nisbet Fiesta Medium Dm182 |  
 | name_no_size_short | Nisbet Fiesta Medium Dm182 |  
 | name_no_type | 650 Ml Nisbet Fiesta Medium Dm182 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcr650 |  
 | oomlout_short_code_upper | TCR650 |  
 | oomp_key | oomp_packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182 |  

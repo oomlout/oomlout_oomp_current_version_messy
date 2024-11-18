@@ -1,3 +1,222 @@
+bip_39_word_dash_1: label
+bip_39_word_dash_10: label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage
+bip_39_word_dash_11: label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage-someone
+bip_39_word_dash_12: label-super-buzz-boost-urban-choose-decrease-diamond-calm-luggage-someone-arrive
+bip_39_word_dash_2: label-super
+bip_39_word_dash_3: label-super-buzz
+bip_39_word_dash_4: label-super-buzz-boost
+bip_39_word_dash_5: label-super-buzz-boost-urban
+bip_39_word_dash_6: label-super-buzz-boost-urban-choose
+bip_39_word_dash_7: label-super-buzz-boost-urban-choose-decrease
+bip_39_word_dash_8: label-super-buzz-boost-urban-choose-decrease-diamond
+bip_39_word_dash_9: label-super-buzz-boost-urban-choose-decrease-diamond-calm
+bip_39_word_new_br_1: label
+bip_39_word_new_br_10: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage
+bip_39_word_new_br_11: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage<br>someone
+bip_39_word_new_br_12: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm<br>luggage<br>someone<br>arrive
+bip_39_word_new_br_2: label<br>super
+bip_39_word_new_br_3: label<br>super<br>buzz
+bip_39_word_new_br_4: label<br>super<br>buzz<br>boost
+bip_39_word_new_br_5: label<br>super<br>buzz<br>boost<br>urban
+bip_39_word_new_br_6: label<br>super<br>buzz<br>boost<br>urban<br>choose
+bip_39_word_new_br_7: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease
+bip_39_word_new_br_8: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond
+bip_39_word_new_br_9: label<br>super<br>buzz<br>boost<br>urban<br>choose<br>decrease<br>diamond<br>calm
+bip_39_word_new_line_1: label
+bip_39_word_new_line_10: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage'
+bip_39_word_new_line_11: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage
+
+  someone'
+bip_39_word_new_line_12: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm
+
+  luggage
+
+  someone
+
+  arrive'
+bip_39_word_new_line_2: 'label
+
+  super'
+bip_39_word_new_line_3: 'label
+
+  super
+
+  buzz'
+bip_39_word_new_line_4: 'label
+
+  super
+
+  buzz
+
+  boost'
+bip_39_word_new_line_5: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban'
+bip_39_word_new_line_6: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose'
+bip_39_word_new_line_7: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease'
+bip_39_word_new_line_8: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond'
+bip_39_word_new_line_9: 'label
+
+  super
+
+  buzz
+
+  boost
+
+  urban
+
+  choose
+
+  decrease
+
+  diamond
+
+  calm'
+bip_39_word_no_space_1: label
+bip_39_word_no_space_10: labelsuperbuzzboosturbanchoosedecreasediamondcalmluggage
+bip_39_word_no_space_11: labelsuperbuzzboosturbanchoosedecreasediamondcalmluggagesomeone
+bip_39_word_no_space_12: labelsuperbuzzboosturbanchoosedecreasediamondcalmluggagesomeonearrive
+bip_39_word_no_space_2: labelsuper
+bip_39_word_no_space_3: labelsuperbuzz
+bip_39_word_no_space_4: labelsuperbuzzboost
+bip_39_word_no_space_5: labelsuperbuzzboosturban
+bip_39_word_no_space_6: labelsuperbuzzboosturbanchoose
+bip_39_word_no_space_7: labelsuperbuzzboosturbanchoosedecrease
+bip_39_word_no_space_8: labelsuperbuzzboosturbanchoosedecreasediamond
+bip_39_word_no_space_9: labelsuperbuzzboosturbanchoosedecreasediamondcalm
+bip_39_word_space_0:
+- label
+- super
+- buzz
+- boost
+- urban
+- choose
+- decrease
+- diamond
+- calm
+- luggage
+- someone
+- arrive
+bip_39_word_space_1: label
+bip_39_word_space_10: label super buzz boost urban choose decrease diamond calm luggage
+bip_39_word_space_11: label super buzz boost urban choose decrease diamond calm luggage
+  someone
+bip_39_word_space_12: label super buzz boost urban choose decrease diamond calm luggage
+  someone arrive
+bip_39_word_space_2: label super
+bip_39_word_space_3: label super buzz
+bip_39_word_space_4: label super buzz boost
+bip_39_word_space_5: label super buzz boost urban
+bip_39_word_space_6: label super buzz boost urban choose
+bip_39_word_space_7: label super buzz boost urban choose decrease
+bip_39_word_space_8: label super buzz boost urban choose decrease diamond
+bip_39_word_space_9: label super buzz boost urban choose decrease diamond calm
+bip_39_word_underscore_1: label
+bip_39_word_underscore_10: label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage
+bip_39_word_underscore_11: label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage_someone
+bip_39_word_underscore_12: label_super_buzz_boost_urban_choose_decrease_diamond_calm_luggage_someone_arrive
+bip_39_word_underscore_2: label_super
+bip_39_word_underscore_3: label_super_buzz
+bip_39_word_underscore_4: label_super_buzz_boost
+bip_39_word_underscore_5: label_super_buzz_boost_urban
+bip_39_word_underscore_6: label_super_buzz_boost_urban_choose
+bip_39_word_underscore_7: label_super_buzz_boost_urban_choose_decrease
+bip_39_word_underscore_8: label_super_buzz_boost_urban_choose_decrease_diamond
+bip_39_word_underscore_9: label_super_buzz_boost_urban_choose_decrease_diamond_calm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_04_03_09
 id_no_color: 040309
 id_no_size: 04_03_09
 id_no_type: tray_thin_04_03_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_03_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_03_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_03_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207v7dt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207v7dt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207v7dt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040309
 name_no_size: 04 03 09
 name_no_size_short: 04 03 09
 name_no_type: Tray Thin 04 03 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_03_09
 oomp_word: lemon clubs feet
 oomp_word_emoji: ':lemon: :clubs: :feet:'

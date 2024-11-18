@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sting
+bip_39_word_dash_10: sting-flight-quarter-poverty-grunt-stick-slim-inject-coin-patrol
+bip_39_word_dash_11: sting-flight-quarter-poverty-grunt-stick-slim-inject-coin-patrol-combine
+bip_39_word_dash_12: sting-flight-quarter-poverty-grunt-stick-slim-inject-coin-patrol-combine-advice
+bip_39_word_dash_2: sting-flight
+bip_39_word_dash_3: sting-flight-quarter
+bip_39_word_dash_4: sting-flight-quarter-poverty
+bip_39_word_dash_5: sting-flight-quarter-poverty-grunt
+bip_39_word_dash_6: sting-flight-quarter-poverty-grunt-stick
+bip_39_word_dash_7: sting-flight-quarter-poverty-grunt-stick-slim
+bip_39_word_dash_8: sting-flight-quarter-poverty-grunt-stick-slim-inject
+bip_39_word_dash_9: sting-flight-quarter-poverty-grunt-stick-slim-inject-coin
+bip_39_word_new_br_1: sting
+bip_39_word_new_br_10: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol
+bip_39_word_new_br_11: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine
+bip_39_word_new_br_12: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin<br>patrol<br>combine<br>advice
+bip_39_word_new_br_2: sting<br>flight
+bip_39_word_new_br_3: sting<br>flight<br>quarter
+bip_39_word_new_br_4: sting<br>flight<br>quarter<br>poverty
+bip_39_word_new_br_5: sting<br>flight<br>quarter<br>poverty<br>grunt
+bip_39_word_new_br_6: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick
+bip_39_word_new_br_7: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim
+bip_39_word_new_br_8: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject
+bip_39_word_new_br_9: sting<br>flight<br>quarter<br>poverty<br>grunt<br>stick<br>slim<br>inject<br>coin
+bip_39_word_new_line_1: sting
+bip_39_word_new_line_10: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol'
+bip_39_word_new_line_11: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol
+
+  combine'
+bip_39_word_new_line_12: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin
+
+  patrol
+
+  combine
+
+  advice'
+bip_39_word_new_line_2: 'sting
+
+  flight'
+bip_39_word_new_line_3: 'sting
+
+  flight
+
+  quarter'
+bip_39_word_new_line_4: 'sting
+
+  flight
+
+  quarter
+
+  poverty'
+bip_39_word_new_line_5: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt'
+bip_39_word_new_line_6: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick'
+bip_39_word_new_line_7: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim'
+bip_39_word_new_line_8: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject'
+bip_39_word_new_line_9: 'sting
+
+  flight
+
+  quarter
+
+  poverty
+
+  grunt
+
+  stick
+
+  slim
+
+  inject
+
+  coin'
+bip_39_word_no_space_1: sting
+bip_39_word_no_space_10: stingflightquarterpovertygruntsticksliminjectcoinpatrol
+bip_39_word_no_space_11: stingflightquarterpovertygruntsticksliminjectcoinpatrolcombine
+bip_39_word_no_space_12: stingflightquarterpovertygruntsticksliminjectcoinpatrolcombineadvice
+bip_39_word_no_space_2: stingflight
+bip_39_word_no_space_3: stingflightquarter
+bip_39_word_no_space_4: stingflightquarterpoverty
+bip_39_word_no_space_5: stingflightquarterpovertygrunt
+bip_39_word_no_space_6: stingflightquarterpovertygruntstick
+bip_39_word_no_space_7: stingflightquarterpovertygruntstickslim
+bip_39_word_no_space_8: stingflightquarterpovertygruntsticksliminject
+bip_39_word_no_space_9: stingflightquarterpovertygruntsticksliminjectcoin
+bip_39_word_space_0:
+- sting
+- flight
+- quarter
+- poverty
+- grunt
+- stick
+- slim
+- inject
+- coin
+- patrol
+- combine
+- advice
+bip_39_word_space_1: sting
+bip_39_word_space_10: sting flight quarter poverty grunt stick slim inject coin patrol
+bip_39_word_space_11: sting flight quarter poverty grunt stick slim inject coin patrol
+  combine
+bip_39_word_space_12: sting flight quarter poverty grunt stick slim inject coin patrol
+  combine advice
+bip_39_word_space_2: sting flight
+bip_39_word_space_3: sting flight quarter
+bip_39_word_space_4: sting flight quarter poverty
+bip_39_word_space_5: sting flight quarter poverty grunt
+bip_39_word_space_6: sting flight quarter poverty grunt stick
+bip_39_word_space_7: sting flight quarter poverty grunt stick slim
+bip_39_word_space_8: sting flight quarter poverty grunt stick slim inject
+bip_39_word_space_9: sting flight quarter poverty grunt stick slim inject coin
+bip_39_word_underscore_1: sting
+bip_39_word_underscore_10: sting_flight_quarter_poverty_grunt_stick_slim_inject_coin_patrol
+bip_39_word_underscore_11: sting_flight_quarter_poverty_grunt_stick_slim_inject_coin_patrol_combine
+bip_39_word_underscore_12: sting_flight_quarter_poverty_grunt_stick_slim_inject_coin_patrol_combine_advice
+bip_39_word_underscore_2: sting_flight
+bip_39_word_underscore_3: sting_flight_quarter
+bip_39_word_underscore_4: sting_flight_quarter_poverty
+bip_39_word_underscore_5: sting_flight_quarter_poverty_grunt
+bip_39_word_underscore_6: sting_flight_quarter_poverty_grunt_stick
+bip_39_word_underscore_7: sting_flight_quarter_poverty_grunt_stick_slim
+bip_39_word_underscore_8: sting_flight_quarter_poverty_grunt_stick_slim_inject
+bip_39_word_underscore_9: sting_flight_quarter_poverty_grunt_stick_slim_inject_coin
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_1d5_24
 id_no_color: 131d524
 id_no_size: 13_1d5_24
 id_no_type: tray_thin_13_1d5_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_1d5_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_1d5_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_1d5_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202iei0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202iei0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202iei0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 131D524
 name_no_size: 13 1D5 24
 name_no_size_short: 13 1D5 24
 name_no_type: Tray Thin 13 1D5 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_1d5_24
 oomp_word: racehorse rooster tram
 oomp_word_emoji: ':racehorse: :rooster: :tram:'

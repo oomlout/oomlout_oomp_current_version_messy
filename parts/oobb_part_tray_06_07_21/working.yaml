@@ -1,3 +1,223 @@
+bip_39_word_dash_1: unknown
+bip_39_word_dash_10: unknown-rose-science-above-word-census-spin-amazing-bargain-make
+bip_39_word_dash_11: unknown-rose-science-above-word-census-spin-amazing-bargain-make-foster
+bip_39_word_dash_12: unknown-rose-science-above-word-census-spin-amazing-bargain-make-foster-art
+bip_39_word_dash_2: unknown-rose
+bip_39_word_dash_3: unknown-rose-science
+bip_39_word_dash_4: unknown-rose-science-above
+bip_39_word_dash_5: unknown-rose-science-above-word
+bip_39_word_dash_6: unknown-rose-science-above-word-census
+bip_39_word_dash_7: unknown-rose-science-above-word-census-spin
+bip_39_word_dash_8: unknown-rose-science-above-word-census-spin-amazing
+bip_39_word_dash_9: unknown-rose-science-above-word-census-spin-amazing-bargain
+bip_39_word_new_br_1: unknown
+bip_39_word_new_br_10: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make
+bip_39_word_new_br_11: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make<br>foster
+bip_39_word_new_br_12: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain<br>make<br>foster<br>art
+bip_39_word_new_br_2: unknown<br>rose
+bip_39_word_new_br_3: unknown<br>rose<br>science
+bip_39_word_new_br_4: unknown<br>rose<br>science<br>above
+bip_39_word_new_br_5: unknown<br>rose<br>science<br>above<br>word
+bip_39_word_new_br_6: unknown<br>rose<br>science<br>above<br>word<br>census
+bip_39_word_new_br_7: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin
+bip_39_word_new_br_8: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing
+bip_39_word_new_br_9: unknown<br>rose<br>science<br>above<br>word<br>census<br>spin<br>amazing<br>bargain
+bip_39_word_new_line_1: unknown
+bip_39_word_new_line_10: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin
+
+  amazing
+
+  bargain
+
+  make'
+bip_39_word_new_line_11: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin
+
+  amazing
+
+  bargain
+
+  make
+
+  foster'
+bip_39_word_new_line_12: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin
+
+  amazing
+
+  bargain
+
+  make
+
+  foster
+
+  art'
+bip_39_word_new_line_2: 'unknown
+
+  rose'
+bip_39_word_new_line_3: 'unknown
+
+  rose
+
+  science'
+bip_39_word_new_line_4: 'unknown
+
+  rose
+
+  science
+
+  above'
+bip_39_word_new_line_5: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word'
+bip_39_word_new_line_6: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census'
+bip_39_word_new_line_7: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin'
+bip_39_word_new_line_8: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin
+
+  amazing'
+bip_39_word_new_line_9: 'unknown
+
+  rose
+
+  science
+
+  above
+
+  word
+
+  census
+
+  spin
+
+  amazing
+
+  bargain'
+bip_39_word_no_space_1: unknown
+bip_39_word_no_space_10: unknownrosescienceabovewordcensusspinamazingbargainmake
+bip_39_word_no_space_11: unknownrosescienceabovewordcensusspinamazingbargainmakefoster
+bip_39_word_no_space_12: unknownrosescienceabovewordcensusspinamazingbargainmakefosterart
+bip_39_word_no_space_2: unknownrose
+bip_39_word_no_space_3: unknownrosescience
+bip_39_word_no_space_4: unknownrosescienceabove
+bip_39_word_no_space_5: unknownrosescienceaboveword
+bip_39_word_no_space_6: unknownrosescienceabovewordcensus
+bip_39_word_no_space_7: unknownrosescienceabovewordcensusspin
+bip_39_word_no_space_8: unknownrosescienceabovewordcensusspinamazing
+bip_39_word_no_space_9: unknownrosescienceabovewordcensusspinamazingbargain
+bip_39_word_space_0:
+- unknown
+- rose
+- science
+- above
+- word
+- census
+- spin
+- amazing
+- bargain
+- make
+- foster
+- art
+bip_39_word_space_1: unknown
+bip_39_word_space_10: unknown rose science above word census spin amazing bargain
+  make
+bip_39_word_space_11: unknown rose science above word census spin amazing bargain
+  make foster
+bip_39_word_space_12: unknown rose science above word census spin amazing bargain
+  make foster art
+bip_39_word_space_2: unknown rose
+bip_39_word_space_3: unknown rose science
+bip_39_word_space_4: unknown rose science above
+bip_39_word_space_5: unknown rose science above word
+bip_39_word_space_6: unknown rose science above word census
+bip_39_word_space_7: unknown rose science above word census spin
+bip_39_word_space_8: unknown rose science above word census spin amazing
+bip_39_word_space_9: unknown rose science above word census spin amazing bargain
+bip_39_word_underscore_1: unknown
+bip_39_word_underscore_10: unknown_rose_science_above_word_census_spin_amazing_bargain_make
+bip_39_word_underscore_11: unknown_rose_science_above_word_census_spin_amazing_bargain_make_foster
+bip_39_word_underscore_12: unknown_rose_science_above_word_census_spin_amazing_bargain_make_foster_art
+bip_39_word_underscore_2: unknown_rose
+bip_39_word_underscore_3: unknown_rose_science
+bip_39_word_underscore_4: unknown_rose_science_above
+bip_39_word_underscore_5: unknown_rose_science_above_word
+bip_39_word_underscore_6: unknown_rose_science_above_word_census
+bip_39_word_underscore_7: unknown_rose_science_above_word_census_spin
+bip_39_word_underscore_8: unknown_rose_science_above_word_census_spin_amazing
+bip_39_word_underscore_9: unknown_rose_science_above_word_census_spin_amazing_bargain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_06_07_21
 id_no_color: '060721'
 id_no_size: '06_07_21'
 id_no_type: tray_06_07_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_07_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_07_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_07_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207zk81
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207zk81
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207zk81
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '060721'
 name_no_size: 06 07 21
 name_no_size_short: 06 07 21
 name_no_type: Tray 06 07 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_07_21
 oomp_word: watermelon hamburger feet
 oomp_word_emoji: ':watermelon: :hamburger: :feet:'

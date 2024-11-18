@@ -1,3 +1,223 @@
+bip_39_word_dash_1: thunder
+bip_39_word_dash_10: thunder-word-guide-salon-symbol-plastic-pottery-catalog-spoil-napkin
+bip_39_word_dash_11: thunder-word-guide-salon-symbol-plastic-pottery-catalog-spoil-napkin-pledge
+bip_39_word_dash_12: thunder-word-guide-salon-symbol-plastic-pottery-catalog-spoil-napkin-pledge-accident
+bip_39_word_dash_2: thunder-word
+bip_39_word_dash_3: thunder-word-guide
+bip_39_word_dash_4: thunder-word-guide-salon
+bip_39_word_dash_5: thunder-word-guide-salon-symbol
+bip_39_word_dash_6: thunder-word-guide-salon-symbol-plastic
+bip_39_word_dash_7: thunder-word-guide-salon-symbol-plastic-pottery
+bip_39_word_dash_8: thunder-word-guide-salon-symbol-plastic-pottery-catalog
+bip_39_word_dash_9: thunder-word-guide-salon-symbol-plastic-pottery-catalog-spoil
+bip_39_word_new_br_1: thunder
+bip_39_word_new_br_10: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery<br>catalog<br>spoil<br>napkin
+bip_39_word_new_br_11: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery<br>catalog<br>spoil<br>napkin<br>pledge
+bip_39_word_new_br_12: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery<br>catalog<br>spoil<br>napkin<br>pledge<br>accident
+bip_39_word_new_br_2: thunder<br>word
+bip_39_word_new_br_3: thunder<br>word<br>guide
+bip_39_word_new_br_4: thunder<br>word<br>guide<br>salon
+bip_39_word_new_br_5: thunder<br>word<br>guide<br>salon<br>symbol
+bip_39_word_new_br_6: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic
+bip_39_word_new_br_7: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery
+bip_39_word_new_br_8: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery<br>catalog
+bip_39_word_new_br_9: thunder<br>word<br>guide<br>salon<br>symbol<br>plastic<br>pottery<br>catalog<br>spoil
+bip_39_word_new_line_1: thunder
+bip_39_word_new_line_10: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery
+
+  catalog
+
+  spoil
+
+  napkin'
+bip_39_word_new_line_11: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery
+
+  catalog
+
+  spoil
+
+  napkin
+
+  pledge'
+bip_39_word_new_line_12: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery
+
+  catalog
+
+  spoil
+
+  napkin
+
+  pledge
+
+  accident'
+bip_39_word_new_line_2: 'thunder
+
+  word'
+bip_39_word_new_line_3: 'thunder
+
+  word
+
+  guide'
+bip_39_word_new_line_4: 'thunder
+
+  word
+
+  guide
+
+  salon'
+bip_39_word_new_line_5: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol'
+bip_39_word_new_line_6: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic'
+bip_39_word_new_line_7: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery'
+bip_39_word_new_line_8: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery
+
+  catalog'
+bip_39_word_new_line_9: 'thunder
+
+  word
+
+  guide
+
+  salon
+
+  symbol
+
+  plastic
+
+  pottery
+
+  catalog
+
+  spoil'
+bip_39_word_no_space_1: thunder
+bip_39_word_no_space_10: thunderwordguidesalonsymbolplasticpotterycatalogspoilnapkin
+bip_39_word_no_space_11: thunderwordguidesalonsymbolplasticpotterycatalogspoilnapkinpledge
+bip_39_word_no_space_12: thunderwordguidesalonsymbolplasticpotterycatalogspoilnapkinpledgeaccident
+bip_39_word_no_space_2: thunderword
+bip_39_word_no_space_3: thunderwordguide
+bip_39_word_no_space_4: thunderwordguidesalon
+bip_39_word_no_space_5: thunderwordguidesalonsymbol
+bip_39_word_no_space_6: thunderwordguidesalonsymbolplastic
+bip_39_word_no_space_7: thunderwordguidesalonsymbolplasticpottery
+bip_39_word_no_space_8: thunderwordguidesalonsymbolplasticpotterycatalog
+bip_39_word_no_space_9: thunderwordguidesalonsymbolplasticpotterycatalogspoil
+bip_39_word_space_0:
+- thunder
+- word
+- guide
+- salon
+- symbol
+- plastic
+- pottery
+- catalog
+- spoil
+- napkin
+- pledge
+- accident
+bip_39_word_space_1: thunder
+bip_39_word_space_10: thunder word guide salon symbol plastic pottery catalog spoil
+  napkin
+bip_39_word_space_11: thunder word guide salon symbol plastic pottery catalog spoil
+  napkin pledge
+bip_39_word_space_12: thunder word guide salon symbol plastic pottery catalog spoil
+  napkin pledge accident
+bip_39_word_space_2: thunder word
+bip_39_word_space_3: thunder word guide
+bip_39_word_space_4: thunder word guide salon
+bip_39_word_space_5: thunder word guide salon symbol
+bip_39_word_space_6: thunder word guide salon symbol plastic
+bip_39_word_space_7: thunder word guide salon symbol plastic pottery
+bip_39_word_space_8: thunder word guide salon symbol plastic pottery catalog
+bip_39_word_space_9: thunder word guide salon symbol plastic pottery catalog spoil
+bip_39_word_underscore_1: thunder
+bip_39_word_underscore_10: thunder_word_guide_salon_symbol_plastic_pottery_catalog_spoil_napkin
+bip_39_word_underscore_11: thunder_word_guide_salon_symbol_plastic_pottery_catalog_spoil_napkin_pledge
+bip_39_word_underscore_12: thunder_word_guide_salon_symbol_plastic_pottery_catalog_spoil_napkin_pledge_accident
+bip_39_word_underscore_2: thunder_word
+bip_39_word_underscore_3: thunder_word_guide
+bip_39_word_underscore_4: thunder_word_guide_salon
+bip_39_word_underscore_5: thunder_word_guide_salon_symbol
+bip_39_word_underscore_6: thunder_word_guide_salon_symbol_plastic
+bip_39_word_underscore_7: thunder_word_guide_salon_symbol_plastic_pottery
+bip_39_word_underscore_8: thunder_word_guide_salon_symbol_plastic_pottery_catalog
+bip_39_word_underscore_9: thunder_word_guide_salon_symbol_plastic_pottery_catalog_spoil
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 20_mm_length_hex_head
 id_no_size: black_20_mm_length_hex_head
 id_no_type: m2_5_black_20_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_20_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20wqas
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20wqas
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20wqas
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,27 @@ name_no_color: 20 mm Length Hex Head
 name_no_size: Black 20 mm Length Hex Head
 name_no_size_short: Black 20 Mm Length Hex Head
 name_no_type: M2 5 Black 20 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: wqa
+oomlout_bolt_md5_6_alpha_first_3_upper: WQA
+oomlout_bolt_md5_6_alpha_last_3: s
+oomlout_bolt_md5_6_alpha_last_3_upper: S
+oomlout_bolt_md5_6_first_3: '174'
+oomlout_bolt_md5_6_first_3_upper: '174'
+oomlout_bolt_md5_6_last_3: d24
+oomlout_bolt_md5_6_last_3_upper: D24
+oomlout_bolt_name: Flat Head M2_5X20 mm Black (Hex Head)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2d5b20h
+oomlout_short_code_upper: FH2D5B20H
 oomp_key: oomp_hardware_screw_flat_head_m2_5_black_20_mm_length_hex_head
 oomp_word: thumbsdown bug droplet
 oomp_word_emoji: ':thumbsdown: :bug: :droplet:'

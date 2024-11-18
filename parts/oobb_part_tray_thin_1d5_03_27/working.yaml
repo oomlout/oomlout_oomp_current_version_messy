@@ -1,3 +1,222 @@
+bip_39_word_dash_1: expand
+bip_39_word_dash_10: expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit
+bip_39_word_dash_11: expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit-credit
+bip_39_word_dash_12: expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter-unit-credit-actress
+bip_39_word_dash_2: expand-pigeon
+bip_39_word_dash_3: expand-pigeon-list
+bip_39_word_dash_4: expand-pigeon-list-nurse
+bip_39_word_dash_5: expand-pigeon-list-nurse-oblige
+bip_39_word_dash_6: expand-pigeon-list-nurse-oblige-mutual
+bip_39_word_dash_7: expand-pigeon-list-nurse-oblige-mutual-swim
+bip_39_word_dash_8: expand-pigeon-list-nurse-oblige-mutual-swim-spend
+bip_39_word_dash_9: expand-pigeon-list-nurse-oblige-mutual-swim-spend-bitter
+bip_39_word_new_br_1: expand
+bip_39_word_new_br_10: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit
+bip_39_word_new_br_11: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit<br>credit
+bip_39_word_new_br_12: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter<br>unit<br>credit<br>actress
+bip_39_word_new_br_2: expand<br>pigeon
+bip_39_word_new_br_3: expand<br>pigeon<br>list
+bip_39_word_new_br_4: expand<br>pigeon<br>list<br>nurse
+bip_39_word_new_br_5: expand<br>pigeon<br>list<br>nurse<br>oblige
+bip_39_word_new_br_6: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual
+bip_39_word_new_br_7: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim
+bip_39_word_new_br_8: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend
+bip_39_word_new_br_9: expand<br>pigeon<br>list<br>nurse<br>oblige<br>mutual<br>swim<br>spend<br>bitter
+bip_39_word_new_line_1: expand
+bip_39_word_new_line_10: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit'
+bip_39_word_new_line_11: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit
+
+  credit'
+bip_39_word_new_line_12: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter
+
+  unit
+
+  credit
+
+  actress'
+bip_39_word_new_line_2: 'expand
+
+  pigeon'
+bip_39_word_new_line_3: 'expand
+
+  pigeon
+
+  list'
+bip_39_word_new_line_4: 'expand
+
+  pigeon
+
+  list
+
+  nurse'
+bip_39_word_new_line_5: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige'
+bip_39_word_new_line_6: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual'
+bip_39_word_new_line_7: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim'
+bip_39_word_new_line_8: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend'
+bip_39_word_new_line_9: 'expand
+
+  pigeon
+
+  list
+
+  nurse
+
+  oblige
+
+  mutual
+
+  swim
+
+  spend
+
+  bitter'
+bip_39_word_no_space_1: expand
+bip_39_word_no_space_10: expandpigeonlistnurseobligemutualswimspendbitterunit
+bip_39_word_no_space_11: expandpigeonlistnurseobligemutualswimspendbitterunitcredit
+bip_39_word_no_space_12: expandpigeonlistnurseobligemutualswimspendbitterunitcreditactress
+bip_39_word_no_space_2: expandpigeon
+bip_39_word_no_space_3: expandpigeonlist
+bip_39_word_no_space_4: expandpigeonlistnurse
+bip_39_word_no_space_5: expandpigeonlistnurseoblige
+bip_39_word_no_space_6: expandpigeonlistnurseobligemutual
+bip_39_word_no_space_7: expandpigeonlistnurseobligemutualswim
+bip_39_word_no_space_8: expandpigeonlistnurseobligemutualswimspend
+bip_39_word_no_space_9: expandpigeonlistnurseobligemutualswimspendbitter
+bip_39_word_space_0:
+- expand
+- pigeon
+- list
+- nurse
+- oblige
+- mutual
+- swim
+- spend
+- bitter
+- unit
+- credit
+- actress
+bip_39_word_space_1: expand
+bip_39_word_space_10: expand pigeon list nurse oblige mutual swim spend bitter unit
+bip_39_word_space_11: expand pigeon list nurse oblige mutual swim spend bitter unit
+  credit
+bip_39_word_space_12: expand pigeon list nurse oblige mutual swim spend bitter unit
+  credit actress
+bip_39_word_space_2: expand pigeon
+bip_39_word_space_3: expand pigeon list
+bip_39_word_space_4: expand pigeon list nurse
+bip_39_word_space_5: expand pigeon list nurse oblige
+bip_39_word_space_6: expand pigeon list nurse oblige mutual
+bip_39_word_space_7: expand pigeon list nurse oblige mutual swim
+bip_39_word_space_8: expand pigeon list nurse oblige mutual swim spend
+bip_39_word_space_9: expand pigeon list nurse oblige mutual swim spend bitter
+bip_39_word_underscore_1: expand
+bip_39_word_underscore_10: expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit
+bip_39_word_underscore_11: expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit_credit
+bip_39_word_underscore_12: expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter_unit_credit_actress
+bip_39_word_underscore_2: expand_pigeon
+bip_39_word_underscore_3: expand_pigeon_list
+bip_39_word_underscore_4: expand_pigeon_list_nurse
+bip_39_word_underscore_5: expand_pigeon_list_nurse_oblige
+bip_39_word_underscore_6: expand_pigeon_list_nurse_oblige_mutual
+bip_39_word_underscore_7: expand_pigeon_list_nurse_oblige_mutual_swim
+bip_39_word_underscore_8: expand_pigeon_list_nurse_oblige_mutual_swim_spend
+bip_39_word_underscore_9: expand_pigeon_list_nurse_oblige_mutual_swim_spend_bitter
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_1d5_03_27
 id_no_color: 1d50327
 id_no_size: 1d5_03_27
 id_no_type: tray_thin_1d5_03_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_1d5_03_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_1d5_03_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_1d5_03_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201qd6j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201qd6j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201qd6j
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D50327
 name_no_size: 1D5 03 27
 name_no_size_short: 1D5 03 27
 name_no_type: Tray Thin 1D5 03 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_1d5_03_27
 oomp_word: snowflake leaves bear
 oomp_word_emoji: ':snowflake: :leaves: :bear:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: advice
+bip_39_word_dash_10: advice-range-conduct-fun-panel-label-pony-novel-artist-trust
+bip_39_word_dash_11: advice-range-conduct-fun-panel-label-pony-novel-artist-trust-border
+bip_39_word_dash_12: advice-range-conduct-fun-panel-label-pony-novel-artist-trust-border-abuse
+bip_39_word_dash_2: advice-range
+bip_39_word_dash_3: advice-range-conduct
+bip_39_word_dash_4: advice-range-conduct-fun
+bip_39_word_dash_5: advice-range-conduct-fun-panel
+bip_39_word_dash_6: advice-range-conduct-fun-panel-label
+bip_39_word_dash_7: advice-range-conduct-fun-panel-label-pony
+bip_39_word_dash_8: advice-range-conduct-fun-panel-label-pony-novel
+bip_39_word_dash_9: advice-range-conduct-fun-panel-label-pony-novel-artist
+bip_39_word_new_br_1: advice
+bip_39_word_new_br_10: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust
+bip_39_word_new_br_11: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border
+bip_39_word_new_br_12: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist<br>trust<br>border<br>abuse
+bip_39_word_new_br_2: advice<br>range
+bip_39_word_new_br_3: advice<br>range<br>conduct
+bip_39_word_new_br_4: advice<br>range<br>conduct<br>fun
+bip_39_word_new_br_5: advice<br>range<br>conduct<br>fun<br>panel
+bip_39_word_new_br_6: advice<br>range<br>conduct<br>fun<br>panel<br>label
+bip_39_word_new_br_7: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony
+bip_39_word_new_br_8: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel
+bip_39_word_new_br_9: advice<br>range<br>conduct<br>fun<br>panel<br>label<br>pony<br>novel<br>artist
+bip_39_word_new_line_1: advice
+bip_39_word_new_line_10: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony
+
+  novel
+
+  artist
+
+  trust'
+bip_39_word_new_line_11: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony
+
+  novel
+
+  artist
+
+  trust
+
+  border'
+bip_39_word_new_line_12: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony
+
+  novel
+
+  artist
+
+  trust
+
+  border
+
+  abuse'
+bip_39_word_new_line_2: 'advice
+
+  range'
+bip_39_word_new_line_3: 'advice
+
+  range
+
+  conduct'
+bip_39_word_new_line_4: 'advice
+
+  range
+
+  conduct
+
+  fun'
+bip_39_word_new_line_5: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel'
+bip_39_word_new_line_6: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label'
+bip_39_word_new_line_7: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony'
+bip_39_word_new_line_8: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony
+
+  novel'
+bip_39_word_new_line_9: 'advice
+
+  range
+
+  conduct
+
+  fun
+
+  panel
+
+  label
+
+  pony
+
+  novel
+
+  artist'
+bip_39_word_no_space_1: advice
+bip_39_word_no_space_10: advicerangeconductfunpanellabelponynovelartisttrust
+bip_39_word_no_space_11: advicerangeconductfunpanellabelponynovelartisttrustborder
+bip_39_word_no_space_12: advicerangeconductfunpanellabelponynovelartisttrustborderabuse
+bip_39_word_no_space_2: advicerange
+bip_39_word_no_space_3: advicerangeconduct
+bip_39_word_no_space_4: advicerangeconductfun
+bip_39_word_no_space_5: advicerangeconductfunpanel
+bip_39_word_no_space_6: advicerangeconductfunpanellabel
+bip_39_word_no_space_7: advicerangeconductfunpanellabelpony
+bip_39_word_no_space_8: advicerangeconductfunpanellabelponynovel
+bip_39_word_no_space_9: advicerangeconductfunpanellabelponynovelartist
+bip_39_word_space_0:
+- advice
+- range
+- conduct
+- fun
+- panel
+- label
+- pony
+- novel
+- artist
+- trust
+- border
+- abuse
+bip_39_word_space_1: advice
+bip_39_word_space_10: advice range conduct fun panel label pony novel artist trust
+bip_39_word_space_11: advice range conduct fun panel label pony novel artist trust
+  border
+bip_39_word_space_12: advice range conduct fun panel label pony novel artist trust
+  border abuse
+bip_39_word_space_2: advice range
+bip_39_word_space_3: advice range conduct
+bip_39_word_space_4: advice range conduct fun
+bip_39_word_space_5: advice range conduct fun panel
+bip_39_word_space_6: advice range conduct fun panel label
+bip_39_word_space_7: advice range conduct fun panel label pony
+bip_39_word_space_8: advice range conduct fun panel label pony novel
+bip_39_word_space_9: advice range conduct fun panel label pony novel artist
+bip_39_word_underscore_1: advice
+bip_39_word_underscore_10: advice_range_conduct_fun_panel_label_pony_novel_artist_trust
+bip_39_word_underscore_11: advice_range_conduct_fun_panel_label_pony_novel_artist_trust_border
+bip_39_word_underscore_12: advice_range_conduct_fun_panel_label_pony_novel_artist_trust_border_abuse
+bip_39_word_underscore_2: advice_range
+bip_39_word_underscore_3: advice_range_conduct
+bip_39_word_underscore_4: advice_range_conduct_fun
+bip_39_word_underscore_5: advice_range_conduct_fun_panel
+bip_39_word_underscore_6: advice_range_conduct_fun_panel_label
+bip_39_word_underscore_7: advice_range_conduct_fun_panel_label_pony
+bip_39_word_underscore_8: advice_range_conduct_fun_panel_label_pony_novel
+bip_39_word_underscore_9: advice_range_conduct_fun_panel_label_pony_novel_artist
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_07_03__56_teeth_sh_m3
 id_no_color: 070356teethshm3
 id_no_size: 07_03__56_teeth_sh_m3
 id_no_type: gear_07_03__56_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_07_03__56_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20pkfu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20pkfu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20pkfu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 070356Teethshm3
 name_no_size: 07 03  56 Teeth Sh M3
 name_no_size_short: 07 03  56 Teeth Sh M3
 name_no_type: Gear 07 03  56 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_07_03__56_teeth_sh_m3
 oomp_word: anger dog spaghetti
 oomp_word_emoji: ':anger: :dog: :spaghetti:'

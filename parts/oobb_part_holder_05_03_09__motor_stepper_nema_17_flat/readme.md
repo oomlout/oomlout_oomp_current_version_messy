@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 05 03 09  Motor Stepper Nema 17 Flat
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_05_03_09__motor_stepper_nema_17_flat
   * classification: oobb

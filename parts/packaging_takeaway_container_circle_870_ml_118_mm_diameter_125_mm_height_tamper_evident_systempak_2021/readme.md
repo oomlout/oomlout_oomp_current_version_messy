@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Circle 870 Ml 118 mm Diameter 125 mm Height Tamper Evident Systempak 2021
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hatching_chick: :curry: :tophat:
 * md5_6_alpha: 2vkj3
 * md5_6: 49bbaf
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202vkj3)
+[2x1](http://192.168.1.242:1112/?label=oomp%202vkj3)
+[6x4](http://192.168.1.55:1112/?label=oomp%202vkj3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ cat |
 | id_no_color | 118mmdiameter125mmheighttamperevidentsystempak2021 |  
 | id_no_size | 118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  
 | id_no_type | 870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202vkj3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202vkj3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202vkj3 |  
 | link_purchase | ['https://systempak.net/product/870ml-x-118od-round-plastic-tamper-proof-food-containers-and-lids/'] |  
 | manufacturer | systempak |  
 | manufacturer_capital | Systempak |  
@@ -308,6 +341,7 @@ cat |
 | name_no_size_short | 118 Mm Diameter 125 Mm Height Tamper Evident Systempak 2021 |  
 | name_no_type | 870 Ml 118 mm Diameter 125 mm Height Tamper Evident Systempak 2021 |  
 | note | only available by the pallet |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc870 |  
 | oomlout_short_code_upper | TCC870 |  
 | oomp_key | oomp_packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_height_tamper_evident_systempak_2021 |  

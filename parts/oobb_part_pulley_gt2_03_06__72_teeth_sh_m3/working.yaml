@@ -1,3 +1,222 @@
+bip_39_word_dash_1: salt
+bip_39_word_dash_10: salt-dignity-stick-alone-question-mesh-connect-open-trim-other
+bip_39_word_dash_11: salt-dignity-stick-alone-question-mesh-connect-open-trim-other-shove
+bip_39_word_dash_12: salt-dignity-stick-alone-question-mesh-connect-open-trim-other-shove-aisle
+bip_39_word_dash_2: salt-dignity
+bip_39_word_dash_3: salt-dignity-stick
+bip_39_word_dash_4: salt-dignity-stick-alone
+bip_39_word_dash_5: salt-dignity-stick-alone-question
+bip_39_word_dash_6: salt-dignity-stick-alone-question-mesh
+bip_39_word_dash_7: salt-dignity-stick-alone-question-mesh-connect
+bip_39_word_dash_8: salt-dignity-stick-alone-question-mesh-connect-open
+bip_39_word_dash_9: salt-dignity-stick-alone-question-mesh-connect-open-trim
+bip_39_word_new_br_1: salt
+bip_39_word_new_br_10: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other
+bip_39_word_new_br_11: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other<br>shove
+bip_39_word_new_br_12: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim<br>other<br>shove<br>aisle
+bip_39_word_new_br_2: salt<br>dignity
+bip_39_word_new_br_3: salt<br>dignity<br>stick
+bip_39_word_new_br_4: salt<br>dignity<br>stick<br>alone
+bip_39_word_new_br_5: salt<br>dignity<br>stick<br>alone<br>question
+bip_39_word_new_br_6: salt<br>dignity<br>stick<br>alone<br>question<br>mesh
+bip_39_word_new_br_7: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect
+bip_39_word_new_br_8: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open
+bip_39_word_new_br_9: salt<br>dignity<br>stick<br>alone<br>question<br>mesh<br>connect<br>open<br>trim
+bip_39_word_new_line_1: salt
+bip_39_word_new_line_10: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect
+
+  open
+
+  trim
+
+  other'
+bip_39_word_new_line_11: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect
+
+  open
+
+  trim
+
+  other
+
+  shove'
+bip_39_word_new_line_12: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect
+
+  open
+
+  trim
+
+  other
+
+  shove
+
+  aisle'
+bip_39_word_new_line_2: 'salt
+
+  dignity'
+bip_39_word_new_line_3: 'salt
+
+  dignity
+
+  stick'
+bip_39_word_new_line_4: 'salt
+
+  dignity
+
+  stick
+
+  alone'
+bip_39_word_new_line_5: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question'
+bip_39_word_new_line_6: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh'
+bip_39_word_new_line_7: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect'
+bip_39_word_new_line_8: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect
+
+  open'
+bip_39_word_new_line_9: 'salt
+
+  dignity
+
+  stick
+
+  alone
+
+  question
+
+  mesh
+
+  connect
+
+  open
+
+  trim'
+bip_39_word_no_space_1: salt
+bip_39_word_no_space_10: saltdignitystickalonequestionmeshconnectopentrimother
+bip_39_word_no_space_11: saltdignitystickalonequestionmeshconnectopentrimothershove
+bip_39_word_no_space_12: saltdignitystickalonequestionmeshconnectopentrimothershoveaisle
+bip_39_word_no_space_2: saltdignity
+bip_39_word_no_space_3: saltdignitystick
+bip_39_word_no_space_4: saltdignitystickalone
+bip_39_word_no_space_5: saltdignitystickalonequestion
+bip_39_word_no_space_6: saltdignitystickalonequestionmesh
+bip_39_word_no_space_7: saltdignitystickalonequestionmeshconnect
+bip_39_word_no_space_8: saltdignitystickalonequestionmeshconnectopen
+bip_39_word_no_space_9: saltdignitystickalonequestionmeshconnectopentrim
+bip_39_word_space_0:
+- salt
+- dignity
+- stick
+- alone
+- question
+- mesh
+- connect
+- open
+- trim
+- other
+- shove
+- aisle
+bip_39_word_space_1: salt
+bip_39_word_space_10: salt dignity stick alone question mesh connect open trim other
+bip_39_word_space_11: salt dignity stick alone question mesh connect open trim other
+  shove
+bip_39_word_space_12: salt dignity stick alone question mesh connect open trim other
+  shove aisle
+bip_39_word_space_2: salt dignity
+bip_39_word_space_3: salt dignity stick
+bip_39_word_space_4: salt dignity stick alone
+bip_39_word_space_5: salt dignity stick alone question
+bip_39_word_space_6: salt dignity stick alone question mesh
+bip_39_word_space_7: salt dignity stick alone question mesh connect
+bip_39_word_space_8: salt dignity stick alone question mesh connect open
+bip_39_word_space_9: salt dignity stick alone question mesh connect open trim
+bip_39_word_underscore_1: salt
+bip_39_word_underscore_10: salt_dignity_stick_alone_question_mesh_connect_open_trim_other
+bip_39_word_underscore_11: salt_dignity_stick_alone_question_mesh_connect_open_trim_other_shove
+bip_39_word_underscore_12: salt_dignity_stick_alone_question_mesh_connect_open_trim_other_shove_aisle
+bip_39_word_underscore_2: salt_dignity
+bip_39_word_underscore_3: salt_dignity_stick
+bip_39_word_underscore_4: salt_dignity_stick_alone
+bip_39_word_underscore_5: salt_dignity_stick_alone_question
+bip_39_word_underscore_6: salt_dignity_stick_alone_question_mesh
+bip_39_word_underscore_7: salt_dignity_stick_alone_question_mesh_connect
+bip_39_word_underscore_8: salt_dignity_stick_alone_question_mesh_connect_open
+bip_39_word_underscore_9: salt_dignity_stick_alone_question_mesh_connect_open_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_03_06__72_teeth_sh_m3
 id_no_color: 030672teethshm3
 id_no_size: 03_06__72_teeth_sh_m3
 id_no_type: pulley_gt2_03_06__72_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203klrb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203klrb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203klrb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030672Teethshm3
 name_no_size: 03 06  72 Teeth Sh M3
 name_no_size_short: 03 06  72 Teeth Sh M3
 name_no_type: Pulley Gt2 03 06  72 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_03_06__72_teeth_sh_m3
 oomp_word: rooster clipboard nose
 oomp_word_emoji: ':rooster: :clipboard: :nose:'

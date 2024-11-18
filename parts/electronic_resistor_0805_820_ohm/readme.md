@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0805 820 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0805_820_ohm
   * classification: electronic

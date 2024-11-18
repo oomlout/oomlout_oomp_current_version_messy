@@ -1,3 +1,222 @@
+bip_39_word_dash_1: exile
+bip_39_word_dash_10: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair
+bip_39_word_dash_11: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair-ignore
+bip_39_word_dash_12: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip-chair-ignore-aim
+bip_39_word_dash_2: exile-rescue
+bip_39_word_dash_3: exile-rescue-trouble
+bip_39_word_dash_4: exile-rescue-trouble-purse
+bip_39_word_dash_5: exile-rescue-trouble-purse-drop
+bip_39_word_dash_6: exile-rescue-trouble-purse-drop-inmate
+bip_39_word_dash_7: exile-rescue-trouble-purse-drop-inmate-carbon
+bip_39_word_dash_8: exile-rescue-trouble-purse-drop-inmate-carbon-family
+bip_39_word_dash_9: exile-rescue-trouble-purse-drop-inmate-carbon-family-trip
+bip_39_word_new_br_1: exile
+bip_39_word_new_br_10: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair
+bip_39_word_new_br_11: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore
+bip_39_word_new_br_12: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip<br>chair<br>ignore<br>aim
+bip_39_word_new_br_2: exile<br>rescue
+bip_39_word_new_br_3: exile<br>rescue<br>trouble
+bip_39_word_new_br_4: exile<br>rescue<br>trouble<br>purse
+bip_39_word_new_br_5: exile<br>rescue<br>trouble<br>purse<br>drop
+bip_39_word_new_br_6: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate
+bip_39_word_new_br_7: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon
+bip_39_word_new_br_8: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family
+bip_39_word_new_br_9: exile<br>rescue<br>trouble<br>purse<br>drop<br>inmate<br>carbon<br>family<br>trip
+bip_39_word_new_line_1: exile
+bip_39_word_new_line_10: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon
+
+  family
+
+  trip
+
+  chair'
+bip_39_word_new_line_11: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon
+
+  family
+
+  trip
+
+  chair
+
+  ignore'
+bip_39_word_new_line_12: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon
+
+  family
+
+  trip
+
+  chair
+
+  ignore
+
+  aim'
+bip_39_word_new_line_2: 'exile
+
+  rescue'
+bip_39_word_new_line_3: 'exile
+
+  rescue
+
+  trouble'
+bip_39_word_new_line_4: 'exile
+
+  rescue
+
+  trouble
+
+  purse'
+bip_39_word_new_line_5: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop'
+bip_39_word_new_line_6: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate'
+bip_39_word_new_line_7: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon'
+bip_39_word_new_line_8: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon
+
+  family'
+bip_39_word_new_line_9: 'exile
+
+  rescue
+
+  trouble
+
+  purse
+
+  drop
+
+  inmate
+
+  carbon
+
+  family
+
+  trip'
+bip_39_word_no_space_1: exile
+bip_39_word_no_space_10: exilerescuetroublepursedropinmatecarbonfamilytripchair
+bip_39_word_no_space_11: exilerescuetroublepursedropinmatecarbonfamilytripchairignore
+bip_39_word_no_space_12: exilerescuetroublepursedropinmatecarbonfamilytripchairignoreaim
+bip_39_word_no_space_2: exilerescue
+bip_39_word_no_space_3: exilerescuetrouble
+bip_39_word_no_space_4: exilerescuetroublepurse
+bip_39_word_no_space_5: exilerescuetroublepursedrop
+bip_39_word_no_space_6: exilerescuetroublepursedropinmate
+bip_39_word_no_space_7: exilerescuetroublepursedropinmatecarbon
+bip_39_word_no_space_8: exilerescuetroublepursedropinmatecarbonfamily
+bip_39_word_no_space_9: exilerescuetroublepursedropinmatecarbonfamilytrip
+bip_39_word_space_0:
+- exile
+- rescue
+- trouble
+- purse
+- drop
+- inmate
+- carbon
+- family
+- trip
+- chair
+- ignore
+- aim
+bip_39_word_space_1: exile
+bip_39_word_space_10: exile rescue trouble purse drop inmate carbon family trip chair
+bip_39_word_space_11: exile rescue trouble purse drop inmate carbon family trip chair
+  ignore
+bip_39_word_space_12: exile rescue trouble purse drop inmate carbon family trip chair
+  ignore aim
+bip_39_word_space_2: exile rescue
+bip_39_word_space_3: exile rescue trouble
+bip_39_word_space_4: exile rescue trouble purse
+bip_39_word_space_5: exile rescue trouble purse drop
+bip_39_word_space_6: exile rescue trouble purse drop inmate
+bip_39_word_space_7: exile rescue trouble purse drop inmate carbon
+bip_39_word_space_8: exile rescue trouble purse drop inmate carbon family
+bip_39_word_space_9: exile rescue trouble purse drop inmate carbon family trip
+bip_39_word_underscore_1: exile
+bip_39_word_underscore_10: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair
+bip_39_word_underscore_11: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair_ignore
+bip_39_word_underscore_12: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip_chair_ignore_aim
+bip_39_word_underscore_2: exile_rescue
+bip_39_word_underscore_3: exile_rescue_trouble
+bip_39_word_underscore_4: exile_rescue_trouble_purse
+bip_39_word_underscore_5: exile_rescue_trouble_purse_drop
+bip_39_word_underscore_6: exile_rescue_trouble_purse_drop_inmate
+bip_39_word_underscore_7: exile_rescue_trouble_purse_drop_inmate_carbon
+bip_39_word_underscore_8: exile_rescue_trouble_purse_drop_inmate_carbon_family
+bip_39_word_underscore_9: exile_rescue_trouble_purse_drop_inmate_carbon_family_trip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_15_27
 id_no_color: 1d51527
 id_no_size: 1d5_15_27
 id_no_type: tray_1d5_15_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_15_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_15_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_15_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203b895
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203b895
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203b895
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51527
 name_no_size: 1D5 15 27
 name_no_size_short: 1D5 15 27
 name_no_type: Tray 1D5 15 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_15_27
 oomp_word: whale boat hammer
 oomp_word_emoji: ':whale: :boat: :hammer:'

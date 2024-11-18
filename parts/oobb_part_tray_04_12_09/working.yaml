@@ -1,3 +1,222 @@
+bip_39_word_dash_1: either
+bip_39_word_dash_10: either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom
+bip_39_word_dash_11: either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom-receive
+bip_39_word_dash_12: either-verb-estate-burden-laptop-doctor-safe-stone-release-blossom-receive-among
+bip_39_word_dash_2: either-verb
+bip_39_word_dash_3: either-verb-estate
+bip_39_word_dash_4: either-verb-estate-burden
+bip_39_word_dash_5: either-verb-estate-burden-laptop
+bip_39_word_dash_6: either-verb-estate-burden-laptop-doctor
+bip_39_word_dash_7: either-verb-estate-burden-laptop-doctor-safe
+bip_39_word_dash_8: either-verb-estate-burden-laptop-doctor-safe-stone
+bip_39_word_dash_9: either-verb-estate-burden-laptop-doctor-safe-stone-release
+bip_39_word_new_br_1: either
+bip_39_word_new_br_10: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom
+bip_39_word_new_br_11: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom<br>receive
+bip_39_word_new_br_12: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release<br>blossom<br>receive<br>among
+bip_39_word_new_br_2: either<br>verb
+bip_39_word_new_br_3: either<br>verb<br>estate
+bip_39_word_new_br_4: either<br>verb<br>estate<br>burden
+bip_39_word_new_br_5: either<br>verb<br>estate<br>burden<br>laptop
+bip_39_word_new_br_6: either<br>verb<br>estate<br>burden<br>laptop<br>doctor
+bip_39_word_new_br_7: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe
+bip_39_word_new_br_8: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone
+bip_39_word_new_br_9: either<br>verb<br>estate<br>burden<br>laptop<br>doctor<br>safe<br>stone<br>release
+bip_39_word_new_line_1: either
+bip_39_word_new_line_10: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe
+
+  stone
+
+  release
+
+  blossom'
+bip_39_word_new_line_11: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe
+
+  stone
+
+  release
+
+  blossom
+
+  receive'
+bip_39_word_new_line_12: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe
+
+  stone
+
+  release
+
+  blossom
+
+  receive
+
+  among'
+bip_39_word_new_line_2: 'either
+
+  verb'
+bip_39_word_new_line_3: 'either
+
+  verb
+
+  estate'
+bip_39_word_new_line_4: 'either
+
+  verb
+
+  estate
+
+  burden'
+bip_39_word_new_line_5: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop'
+bip_39_word_new_line_6: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor'
+bip_39_word_new_line_7: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe'
+bip_39_word_new_line_8: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe
+
+  stone'
+bip_39_word_new_line_9: 'either
+
+  verb
+
+  estate
+
+  burden
+
+  laptop
+
+  doctor
+
+  safe
+
+  stone
+
+  release'
+bip_39_word_no_space_1: either
+bip_39_word_no_space_10: eitherverbestateburdenlaptopdoctorsafestonereleaseblossom
+bip_39_word_no_space_11: eitherverbestateburdenlaptopdoctorsafestonereleaseblossomreceive
+bip_39_word_no_space_12: eitherverbestateburdenlaptopdoctorsafestonereleaseblossomreceiveamong
+bip_39_word_no_space_2: eitherverb
+bip_39_word_no_space_3: eitherverbestate
+bip_39_word_no_space_4: eitherverbestateburden
+bip_39_word_no_space_5: eitherverbestateburdenlaptop
+bip_39_word_no_space_6: eitherverbestateburdenlaptopdoctor
+bip_39_word_no_space_7: eitherverbestateburdenlaptopdoctorsafe
+bip_39_word_no_space_8: eitherverbestateburdenlaptopdoctorsafestone
+bip_39_word_no_space_9: eitherverbestateburdenlaptopdoctorsafestonerelease
+bip_39_word_space_0:
+- either
+- verb
+- estate
+- burden
+- laptop
+- doctor
+- safe
+- stone
+- release
+- blossom
+- receive
+- among
+bip_39_word_space_1: either
+bip_39_word_space_10: either verb estate burden laptop doctor safe stone release blossom
+bip_39_word_space_11: either verb estate burden laptop doctor safe stone release blossom
+  receive
+bip_39_word_space_12: either verb estate burden laptop doctor safe stone release blossom
+  receive among
+bip_39_word_space_2: either verb
+bip_39_word_space_3: either verb estate
+bip_39_word_space_4: either verb estate burden
+bip_39_word_space_5: either verb estate burden laptop
+bip_39_word_space_6: either verb estate burden laptop doctor
+bip_39_word_space_7: either verb estate burden laptop doctor safe
+bip_39_word_space_8: either verb estate burden laptop doctor safe stone
+bip_39_word_space_9: either verb estate burden laptop doctor safe stone release
+bip_39_word_underscore_1: either
+bip_39_word_underscore_10: either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom
+bip_39_word_underscore_11: either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom_receive
+bip_39_word_underscore_12: either_verb_estate_burden_laptop_doctor_safe_stone_release_blossom_receive_among
+bip_39_word_underscore_2: either_verb
+bip_39_word_underscore_3: either_verb_estate
+bip_39_word_underscore_4: either_verb_estate_burden
+bip_39_word_underscore_5: either_verb_estate_burden_laptop
+bip_39_word_underscore_6: either_verb_estate_burden_laptop_doctor
+bip_39_word_underscore_7: either_verb_estate_burden_laptop_doctor_safe
+bip_39_word_underscore_8: either_verb_estate_burden_laptop_doctor_safe_stone
+bip_39_word_underscore_9: either_verb_estate_burden_laptop_doctor_safe_stone_release
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_12_09
 id_no_color: 041209
 id_no_size: 04_12_09
 id_no_type: tray_04_12_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204yyh2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204yyh2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204yyh2
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 041209
 name_no_size: 04 12 09
 name_no_size_short: 04 12 09
 name_no_type: Tray 04 12 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_12_09
 oomp_word: speaker herb sleeping
 oomp_word_emoji: ':speaker: :herb: :sleeping:'

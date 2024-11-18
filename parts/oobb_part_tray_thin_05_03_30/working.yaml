@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bulk
+bip_39_word_dash_10: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar
+bip_39_word_dash_11: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar-grid
+bip_39_word_dash_12: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit-guitar-grid-above
+bip_39_word_dash_2: bulk-express
+bip_39_word_dash_3: bulk-express-gun
+bip_39_word_dash_4: bulk-express-gun-lizard
+bip_39_word_dash_5: bulk-express-gun-lizard-borrow
+bip_39_word_dash_6: bulk-express-gun-lizard-borrow-three
+bip_39_word_dash_7: bulk-express-gun-lizard-borrow-three-rubber
+bip_39_word_dash_8: bulk-express-gun-lizard-borrow-three-rubber-canoe
+bip_39_word_dash_9: bulk-express-gun-lizard-borrow-three-rubber-canoe-visit
+bip_39_word_new_br_1: bulk
+bip_39_word_new_br_10: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit<br>guitar
+bip_39_word_new_br_11: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit<br>guitar<br>grid
+bip_39_word_new_br_12: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit<br>guitar<br>grid<br>above
+bip_39_word_new_br_2: bulk<br>express
+bip_39_word_new_br_3: bulk<br>express<br>gun
+bip_39_word_new_br_4: bulk<br>express<br>gun<br>lizard
+bip_39_word_new_br_5: bulk<br>express<br>gun<br>lizard<br>borrow
+bip_39_word_new_br_6: bulk<br>express<br>gun<br>lizard<br>borrow<br>three
+bip_39_word_new_br_7: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber
+bip_39_word_new_br_8: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe
+bip_39_word_new_br_9: bulk<br>express<br>gun<br>lizard<br>borrow<br>three<br>rubber<br>canoe<br>visit
+bip_39_word_new_line_1: bulk
+bip_39_word_new_line_10: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber
+
+  canoe
+
+  visit
+
+  guitar'
+bip_39_word_new_line_11: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber
+
+  canoe
+
+  visit
+
+  guitar
+
+  grid'
+bip_39_word_new_line_12: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber
+
+  canoe
+
+  visit
+
+  guitar
+
+  grid
+
+  above'
+bip_39_word_new_line_2: 'bulk
+
+  express'
+bip_39_word_new_line_3: 'bulk
+
+  express
+
+  gun'
+bip_39_word_new_line_4: 'bulk
+
+  express
+
+  gun
+
+  lizard'
+bip_39_word_new_line_5: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow'
+bip_39_word_new_line_6: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three'
+bip_39_word_new_line_7: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber'
+bip_39_word_new_line_8: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber
+
+  canoe'
+bip_39_word_new_line_9: 'bulk
+
+  express
+
+  gun
+
+  lizard
+
+  borrow
+
+  three
+
+  rubber
+
+  canoe
+
+  visit'
+bip_39_word_no_space_1: bulk
+bip_39_word_no_space_10: bulkexpressgunlizardborrowthreerubbercanoevisitguitar
+bip_39_word_no_space_11: bulkexpressgunlizardborrowthreerubbercanoevisitguitargrid
+bip_39_word_no_space_12: bulkexpressgunlizardborrowthreerubbercanoevisitguitargridabove
+bip_39_word_no_space_2: bulkexpress
+bip_39_word_no_space_3: bulkexpressgun
+bip_39_word_no_space_4: bulkexpressgunlizard
+bip_39_word_no_space_5: bulkexpressgunlizardborrow
+bip_39_word_no_space_6: bulkexpressgunlizardborrowthree
+bip_39_word_no_space_7: bulkexpressgunlizardborrowthreerubber
+bip_39_word_no_space_8: bulkexpressgunlizardborrowthreerubbercanoe
+bip_39_word_no_space_9: bulkexpressgunlizardborrowthreerubbercanoevisit
+bip_39_word_space_0:
+- bulk
+- express
+- gun
+- lizard
+- borrow
+- three
+- rubber
+- canoe
+- visit
+- guitar
+- grid
+- above
+bip_39_word_space_1: bulk
+bip_39_word_space_10: bulk express gun lizard borrow three rubber canoe visit guitar
+bip_39_word_space_11: bulk express gun lizard borrow three rubber canoe visit guitar
+  grid
+bip_39_word_space_12: bulk express gun lizard borrow three rubber canoe visit guitar
+  grid above
+bip_39_word_space_2: bulk express
+bip_39_word_space_3: bulk express gun
+bip_39_word_space_4: bulk express gun lizard
+bip_39_word_space_5: bulk express gun lizard borrow
+bip_39_word_space_6: bulk express gun lizard borrow three
+bip_39_word_space_7: bulk express gun lizard borrow three rubber
+bip_39_word_space_8: bulk express gun lizard borrow three rubber canoe
+bip_39_word_space_9: bulk express gun lizard borrow three rubber canoe visit
+bip_39_word_underscore_1: bulk
+bip_39_word_underscore_10: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar
+bip_39_word_underscore_11: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar_grid
+bip_39_word_underscore_12: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit_guitar_grid_above
+bip_39_word_underscore_2: bulk_express
+bip_39_word_underscore_3: bulk_express_gun
+bip_39_word_underscore_4: bulk_express_gun_lizard
+bip_39_word_underscore_5: bulk_express_gun_lizard_borrow
+bip_39_word_underscore_6: bulk_express_gun_lizard_borrow_three
+bip_39_word_underscore_7: bulk_express_gun_lizard_borrow_three_rubber
+bip_39_word_underscore_8: bulk_express_gun_lizard_borrow_three_rubber_canoe
+bip_39_word_underscore_9: bulk_express_gun_lizard_borrow_three_rubber_canoe_visit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_05_03_30
 id_no_color: '050330'
 id_no_size: '05_03_30'
 id_no_type: tray_thin_05_03_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_03_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20cd09
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20cd09
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20cd09
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050330'
 name_no_size: 05 03 30
 name_no_size_short: 05 03 30
 name_no_type: Tray Thin 05 03 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_05_03_30
 oomp_word: scream watermelon bank
 oomp_word_emoji: ':scream: :watermelon: :bank:'

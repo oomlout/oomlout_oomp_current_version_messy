@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6907 Size 35 mm ID 55 mm OD 10 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6907_size_35_mm_id_55_mm_od_10_mm_depth
   * classification: hardware

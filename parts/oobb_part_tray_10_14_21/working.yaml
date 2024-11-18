@@ -1,3 +1,221 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-load-verify-horn-echo-area-glow-chaos-flush-syrup
+bip_39_word_dash_11: federal-load-verify-horn-echo-area-glow-chaos-flush-syrup-grain
+bip_39_word_dash_12: federal-load-verify-horn-echo-area-glow-chaos-flush-syrup-grain-annual
+bip_39_word_dash_2: federal-load
+bip_39_word_dash_3: federal-load-verify
+bip_39_word_dash_4: federal-load-verify-horn
+bip_39_word_dash_5: federal-load-verify-horn-echo
+bip_39_word_dash_6: federal-load-verify-horn-echo-area
+bip_39_word_dash_7: federal-load-verify-horn-echo-area-glow
+bip_39_word_dash_8: federal-load-verify-horn-echo-area-glow-chaos
+bip_39_word_dash_9: federal-load-verify-horn-echo-area-glow-chaos-flush
+bip_39_word_new_br_1: federal
+bip_39_word_new_br_10: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup
+bip_39_word_new_br_11: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain
+bip_39_word_new_br_12: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush<br>syrup<br>grain<br>annual
+bip_39_word_new_br_2: federal<br>load
+bip_39_word_new_br_3: federal<br>load<br>verify
+bip_39_word_new_br_4: federal<br>load<br>verify<br>horn
+bip_39_word_new_br_5: federal<br>load<br>verify<br>horn<br>echo
+bip_39_word_new_br_6: federal<br>load<br>verify<br>horn<br>echo<br>area
+bip_39_word_new_br_7: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow
+bip_39_word_new_br_8: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos
+bip_39_word_new_br_9: federal<br>load<br>verify<br>horn<br>echo<br>area<br>glow<br>chaos<br>flush
+bip_39_word_new_line_1: federal
+bip_39_word_new_line_10: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow
+
+  chaos
+
+  flush
+
+  syrup'
+bip_39_word_new_line_11: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow
+
+  chaos
+
+  flush
+
+  syrup
+
+  grain'
+bip_39_word_new_line_12: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow
+
+  chaos
+
+  flush
+
+  syrup
+
+  grain
+
+  annual'
+bip_39_word_new_line_2: 'federal
+
+  load'
+bip_39_word_new_line_3: 'federal
+
+  load
+
+  verify'
+bip_39_word_new_line_4: 'federal
+
+  load
+
+  verify
+
+  horn'
+bip_39_word_new_line_5: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo'
+bip_39_word_new_line_6: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area'
+bip_39_word_new_line_7: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow'
+bip_39_word_new_line_8: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow
+
+  chaos'
+bip_39_word_new_line_9: 'federal
+
+  load
+
+  verify
+
+  horn
+
+  echo
+
+  area
+
+  glow
+
+  chaos
+
+  flush'
+bip_39_word_no_space_1: federal
+bip_39_word_no_space_10: federalloadverifyhornechoareaglowchaosflushsyrup
+bip_39_word_no_space_11: federalloadverifyhornechoareaglowchaosflushsyrupgrain
+bip_39_word_no_space_12: federalloadverifyhornechoareaglowchaosflushsyrupgrainannual
+bip_39_word_no_space_2: federalload
+bip_39_word_no_space_3: federalloadverify
+bip_39_word_no_space_4: federalloadverifyhorn
+bip_39_word_no_space_5: federalloadverifyhornecho
+bip_39_word_no_space_6: federalloadverifyhornechoarea
+bip_39_word_no_space_7: federalloadverifyhornechoareaglow
+bip_39_word_no_space_8: federalloadverifyhornechoareaglowchaos
+bip_39_word_no_space_9: federalloadverifyhornechoareaglowchaosflush
+bip_39_word_space_0:
+- federal
+- load
+- verify
+- horn
+- echo
+- area
+- glow
+- chaos
+- flush
+- syrup
+- grain
+- annual
+bip_39_word_space_1: federal
+bip_39_word_space_10: federal load verify horn echo area glow chaos flush syrup
+bip_39_word_space_11: federal load verify horn echo area glow chaos flush syrup grain
+bip_39_word_space_12: federal load verify horn echo area glow chaos flush syrup grain
+  annual
+bip_39_word_space_2: federal load
+bip_39_word_space_3: federal load verify
+bip_39_word_space_4: federal load verify horn
+bip_39_word_space_5: federal load verify horn echo
+bip_39_word_space_6: federal load verify horn echo area
+bip_39_word_space_7: federal load verify horn echo area glow
+bip_39_word_space_8: federal load verify horn echo area glow chaos
+bip_39_word_space_9: federal load verify horn echo area glow chaos flush
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_load_verify_horn_echo_area_glow_chaos_flush_syrup
+bip_39_word_underscore_11: federal_load_verify_horn_echo_area_glow_chaos_flush_syrup_grain
+bip_39_word_underscore_12: federal_load_verify_horn_echo_area_glow_chaos_flush_syrup_grain_annual
+bip_39_word_underscore_2: federal_load
+bip_39_word_underscore_3: federal_load_verify
+bip_39_word_underscore_4: federal_load_verify_horn
+bip_39_word_underscore_5: federal_load_verify_horn_echo
+bip_39_word_underscore_6: federal_load_verify_horn_echo_area
+bip_39_word_underscore_7: federal_load_verify_horn_echo_area_glow
+bip_39_word_underscore_8: federal_load_verify_horn_echo_area_glow_chaos
+bip_39_word_underscore_9: federal_load_verify_horn_echo_area_glow_chaos_flush
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_10_14_21
 id_no_color: '101421'
 id_no_size: '10_14_21'
 id_no_type: tray_10_14_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_14_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vtbr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vtbr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vtbr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '101421'
 name_no_size: 10 14 21
 name_no_size_short: 10 14 21
 name_no_type: Tray 10 14 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_14_21
 oomp_word: basketball grapes wolf
 oomp_word_emoji: ':basketball: :grapes: :wolf:'

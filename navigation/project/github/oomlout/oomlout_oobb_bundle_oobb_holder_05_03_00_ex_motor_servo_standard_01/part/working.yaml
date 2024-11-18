@@ -304,7 +304,14 @@ id_no_class: github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_se
 id_no_color: oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 id_no_size: oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 id_no_type: oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xevu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xevu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xevu
 link_redirect: https://github.com/oomlout/oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 manufacturer: ''
 manufacturer_capital: ''
@@ -335,6 +342,7 @@ name_no_size: Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01
 name_no_size_short: Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard 01
 name_no_type: Oomlout Oomlout Oobb Bundle Oobb Holder 05 03 00 Ex Motor Servo Standard
   01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_05_03_00_ex_motor_servo_standard_01
 oomp_word: grapes foggy golf
 oomp_word_emoji: ':grapes: :foggy: :golf:'

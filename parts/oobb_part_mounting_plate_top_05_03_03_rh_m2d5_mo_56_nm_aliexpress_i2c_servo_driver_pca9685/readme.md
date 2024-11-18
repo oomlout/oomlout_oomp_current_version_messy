@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
   * classification: oobb

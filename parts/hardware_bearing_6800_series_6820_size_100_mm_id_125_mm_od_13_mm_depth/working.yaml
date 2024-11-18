@@ -1,3 +1,222 @@
+bip_39_word_dash_1: skirt
+bip_39_word_dash_10: skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar
+bip_39_word_dash_11: skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar-mouse
+bip_39_word_dash_12: skirt-modify-genre-initial-setup-annual-stable-auto-giant-guitar-mouse-among
+bip_39_word_dash_2: skirt-modify
+bip_39_word_dash_3: skirt-modify-genre
+bip_39_word_dash_4: skirt-modify-genre-initial
+bip_39_word_dash_5: skirt-modify-genre-initial-setup
+bip_39_word_dash_6: skirt-modify-genre-initial-setup-annual
+bip_39_word_dash_7: skirt-modify-genre-initial-setup-annual-stable
+bip_39_word_dash_8: skirt-modify-genre-initial-setup-annual-stable-auto
+bip_39_word_dash_9: skirt-modify-genre-initial-setup-annual-stable-auto-giant
+bip_39_word_new_br_1: skirt
+bip_39_word_new_br_10: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar
+bip_39_word_new_br_11: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse
+bip_39_word_new_br_12: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant<br>guitar<br>mouse<br>among
+bip_39_word_new_br_2: skirt<br>modify
+bip_39_word_new_br_3: skirt<br>modify<br>genre
+bip_39_word_new_br_4: skirt<br>modify<br>genre<br>initial
+bip_39_word_new_br_5: skirt<br>modify<br>genre<br>initial<br>setup
+bip_39_word_new_br_6: skirt<br>modify<br>genre<br>initial<br>setup<br>annual
+bip_39_word_new_br_7: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable
+bip_39_word_new_br_8: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto
+bip_39_word_new_br_9: skirt<br>modify<br>genre<br>initial<br>setup<br>annual<br>stable<br>auto<br>giant
+bip_39_word_new_line_1: skirt
+bip_39_word_new_line_10: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable
+
+  auto
+
+  giant
+
+  guitar'
+bip_39_word_new_line_11: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable
+
+  auto
+
+  giant
+
+  guitar
+
+  mouse'
+bip_39_word_new_line_12: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable
+
+  auto
+
+  giant
+
+  guitar
+
+  mouse
+
+  among'
+bip_39_word_new_line_2: 'skirt
+
+  modify'
+bip_39_word_new_line_3: 'skirt
+
+  modify
+
+  genre'
+bip_39_word_new_line_4: 'skirt
+
+  modify
+
+  genre
+
+  initial'
+bip_39_word_new_line_5: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup'
+bip_39_word_new_line_6: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual'
+bip_39_word_new_line_7: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable'
+bip_39_word_new_line_8: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable
+
+  auto'
+bip_39_word_new_line_9: 'skirt
+
+  modify
+
+  genre
+
+  initial
+
+  setup
+
+  annual
+
+  stable
+
+  auto
+
+  giant'
+bip_39_word_no_space_1: skirt
+bip_39_word_no_space_10: skirtmodifygenreinitialsetupannualstableautogiantguitar
+bip_39_word_no_space_11: skirtmodifygenreinitialsetupannualstableautogiantguitarmouse
+bip_39_word_no_space_12: skirtmodifygenreinitialsetupannualstableautogiantguitarmouseamong
+bip_39_word_no_space_2: skirtmodify
+bip_39_word_no_space_3: skirtmodifygenre
+bip_39_word_no_space_4: skirtmodifygenreinitial
+bip_39_word_no_space_5: skirtmodifygenreinitialsetup
+bip_39_word_no_space_6: skirtmodifygenreinitialsetupannual
+bip_39_word_no_space_7: skirtmodifygenreinitialsetupannualstable
+bip_39_word_no_space_8: skirtmodifygenreinitialsetupannualstableauto
+bip_39_word_no_space_9: skirtmodifygenreinitialsetupannualstableautogiant
+bip_39_word_space_0:
+- skirt
+- modify
+- genre
+- initial
+- setup
+- annual
+- stable
+- auto
+- giant
+- guitar
+- mouse
+- among
+bip_39_word_space_1: skirt
+bip_39_word_space_10: skirt modify genre initial setup annual stable auto giant guitar
+bip_39_word_space_11: skirt modify genre initial setup annual stable auto giant guitar
+  mouse
+bip_39_word_space_12: skirt modify genre initial setup annual stable auto giant guitar
+  mouse among
+bip_39_word_space_2: skirt modify
+bip_39_word_space_3: skirt modify genre
+bip_39_word_space_4: skirt modify genre initial
+bip_39_word_space_5: skirt modify genre initial setup
+bip_39_word_space_6: skirt modify genre initial setup annual
+bip_39_word_space_7: skirt modify genre initial setup annual stable
+bip_39_word_space_8: skirt modify genre initial setup annual stable auto
+bip_39_word_space_9: skirt modify genre initial setup annual stable auto giant
+bip_39_word_underscore_1: skirt
+bip_39_word_underscore_10: skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar
+bip_39_word_underscore_11: skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar_mouse
+bip_39_word_underscore_12: skirt_modify_genre_initial_setup_annual_stable_auto_giant_guitar_mouse_among
+bip_39_word_underscore_2: skirt_modify
+bip_39_word_underscore_3: skirt_modify_genre
+bip_39_word_underscore_4: skirt_modify_genre_initial
+bip_39_word_underscore_5: skirt_modify_genre_initial_setup
+bip_39_word_underscore_6: skirt_modify_genre_initial_setup_annual
+bip_39_word_underscore_7: skirt_modify_genre_initial_setup_annual_stable
+bip_39_word_underscore_8: skirt_modify_genre_initial_setup_annual_stable_auto
+bip_39_word_underscore_9: skirt_modify_genre_initial_setup_annual_stable_auto_giant
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
 id_no_color: 100_mm_id_125_mm_od_13_mm_depth
 id_no_size: 6820_size_100_mm_id_125_mm_od_13_mm_depth
 id_no_type: 6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ykpl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ykpl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ykpl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 100 mm ID 125 mm OD 13 mm Depth
 name_no_size: 6820 Size 100 mm ID 125 mm OD 13 mm Depth
 name_no_size_short: 6820 Size 100 Mm Id 125 Mm Od 13 Mm Depth
 name_no_type: 6800 Series 6820 Size 100 mm ID 125 mm OD 13 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6820
+oomlout_short_code_upper: BR6820
 oomp_key: oomp_hardware_bearing_6800_series_6820_size_100_mm_id_125_mm_od_13_mm_depth
 oomp_word: speaker feet dragon
 oomp_word_emoji: ':speaker: :feet: :dragon:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: price
+bip_39_word_dash_10: price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live
+bip_39_word_dash_11: price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live-dune
+bip_39_word_dash_12: price-heavy-desk-venture-direct-angry-weapon-buddy-supreme-live-dune-average
+bip_39_word_dash_2: price-heavy
+bip_39_word_dash_3: price-heavy-desk
+bip_39_word_dash_4: price-heavy-desk-venture
+bip_39_word_dash_5: price-heavy-desk-venture-direct
+bip_39_word_dash_6: price-heavy-desk-venture-direct-angry
+bip_39_word_dash_7: price-heavy-desk-venture-direct-angry-weapon
+bip_39_word_dash_8: price-heavy-desk-venture-direct-angry-weapon-buddy
+bip_39_word_dash_9: price-heavy-desk-venture-direct-angry-weapon-buddy-supreme
+bip_39_word_new_br_1: price
+bip_39_word_new_br_10: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live
+bip_39_word_new_br_11: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune
+bip_39_word_new_br_12: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme<br>live<br>dune<br>average
+bip_39_word_new_br_2: price<br>heavy
+bip_39_word_new_br_3: price<br>heavy<br>desk
+bip_39_word_new_br_4: price<br>heavy<br>desk<br>venture
+bip_39_word_new_br_5: price<br>heavy<br>desk<br>venture<br>direct
+bip_39_word_new_br_6: price<br>heavy<br>desk<br>venture<br>direct<br>angry
+bip_39_word_new_br_7: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon
+bip_39_word_new_br_8: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy
+bip_39_word_new_br_9: price<br>heavy<br>desk<br>venture<br>direct<br>angry<br>weapon<br>buddy<br>supreme
+bip_39_word_new_line_1: price
+bip_39_word_new_line_10: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon
+
+  buddy
+
+  supreme
+
+  live'
+bip_39_word_new_line_11: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon
+
+  buddy
+
+  supreme
+
+  live
+
+  dune'
+bip_39_word_new_line_12: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon
+
+  buddy
+
+  supreme
+
+  live
+
+  dune
+
+  average'
+bip_39_word_new_line_2: 'price
+
+  heavy'
+bip_39_word_new_line_3: 'price
+
+  heavy
+
+  desk'
+bip_39_word_new_line_4: 'price
+
+  heavy
+
+  desk
+
+  venture'
+bip_39_word_new_line_5: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct'
+bip_39_word_new_line_6: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry'
+bip_39_word_new_line_7: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon'
+bip_39_word_new_line_8: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon
+
+  buddy'
+bip_39_word_new_line_9: 'price
+
+  heavy
+
+  desk
+
+  venture
+
+  direct
+
+  angry
+
+  weapon
+
+  buddy
+
+  supreme'
+bip_39_word_no_space_1: price
+bip_39_word_no_space_10: priceheavydeskventuredirectangryweaponbuddysupremelive
+bip_39_word_no_space_11: priceheavydeskventuredirectangryweaponbuddysupremelivedune
+bip_39_word_no_space_12: priceheavydeskventuredirectangryweaponbuddysupremeliveduneaverage
+bip_39_word_no_space_2: priceheavy
+bip_39_word_no_space_3: priceheavydesk
+bip_39_word_no_space_4: priceheavydeskventure
+bip_39_word_no_space_5: priceheavydeskventuredirect
+bip_39_word_no_space_6: priceheavydeskventuredirectangry
+bip_39_word_no_space_7: priceheavydeskventuredirectangryweapon
+bip_39_word_no_space_8: priceheavydeskventuredirectangryweaponbuddy
+bip_39_word_no_space_9: priceheavydeskventuredirectangryweaponbuddysupreme
+bip_39_word_space_0:
+- price
+- heavy
+- desk
+- venture
+- direct
+- angry
+- weapon
+- buddy
+- supreme
+- live
+- dune
+- average
+bip_39_word_space_1: price
+bip_39_word_space_10: price heavy desk venture direct angry weapon buddy supreme live
+bip_39_word_space_11: price heavy desk venture direct angry weapon buddy supreme live
+  dune
+bip_39_word_space_12: price heavy desk venture direct angry weapon buddy supreme live
+  dune average
+bip_39_word_space_2: price heavy
+bip_39_word_space_3: price heavy desk
+bip_39_word_space_4: price heavy desk venture
+bip_39_word_space_5: price heavy desk venture direct
+bip_39_word_space_6: price heavy desk venture direct angry
+bip_39_word_space_7: price heavy desk venture direct angry weapon
+bip_39_word_space_8: price heavy desk venture direct angry weapon buddy
+bip_39_word_space_9: price heavy desk venture direct angry weapon buddy supreme
+bip_39_word_underscore_1: price
+bip_39_word_underscore_10: price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live
+bip_39_word_underscore_11: price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live_dune
+bip_39_word_underscore_12: price_heavy_desk_venture_direct_angry_weapon_buddy_supreme_live_dune_average
+bip_39_word_underscore_2: price_heavy
+bip_39_word_underscore_3: price_heavy_desk
+bip_39_word_underscore_4: price_heavy_desk_venture
+bip_39_word_underscore_5: price_heavy_desk_venture_direct
+bip_39_word_underscore_6: price_heavy_desk_venture_direct_angry
+bip_39_word_underscore_7: price_heavy_desk_venture_direct_angry_weapon
+bip_39_word_underscore_8: price_heavy_desk_venture_direct_angry_weapon_buddy
+bip_39_word_underscore_9: price_heavy_desk_venture_direct_angry_weapon_buddy_supreme
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_09_90
 id_no_color: 090990
 id_no_size: 09_09_90
 id_no_type: tray_09_09_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_09_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_09_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_09_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209uq00
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209uq00
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209uq00
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090990
 name_no_size: 09 09 90
 name_no_size_short: 09 09 90
 name_no_type: Tray 09 09 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_09_90
 oomp_word: up wrench skull
 oomp_word_emoji: ':up: :wrench: :skull:'

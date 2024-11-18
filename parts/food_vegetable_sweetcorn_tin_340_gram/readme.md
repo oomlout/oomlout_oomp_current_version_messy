@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Carrots
 
+### name
+* name: Food Vegetable Sweetcorn Tin 340 Gram
+* name_short: Sweetcorn
 ### id
 * oomp_id: food_vegetable_sweetcorn_tin_340_gram
   * classification: food

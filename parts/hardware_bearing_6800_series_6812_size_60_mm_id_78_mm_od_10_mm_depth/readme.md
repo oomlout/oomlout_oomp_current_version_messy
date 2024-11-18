@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6800 Series 6812 Size 60 mm ID 78 mm OD 10 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6800_series_6812_size_60_mm_id_78_mm_od_10_mm_depth
   * classification: hardware

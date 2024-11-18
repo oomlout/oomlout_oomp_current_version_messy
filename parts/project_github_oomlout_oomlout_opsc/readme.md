@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Opsc
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_opsc
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :wrench: :pear: :panda_face:
 * md5_6_alpha: 5c6kk
 * md5_6: 88d144
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205c6kk)
+[2x1](http://192.168.1.242:1112/?label=oomp%205c6kk)
+[6x4](http://192.168.1.55:1112/?label=oomp%205c6kk)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_opsc)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ digital |
 | id_no_color | opsc |  
 | id_no_size | opsc |  
 | id_no_type | oomlout_oomlout_opsc |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_opsc |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_opsc |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205c6kk |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205c6kk |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205c6kk |  
 | link_redirect | https://github.com/oomlout/oomlout-OPSC |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ digital |
 | name_no_size | Opsc |  
 | name_no_size_short | Opsc |  
 | name_no_type | Oomlout Oomlout Opsc |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_opsc |  
 | oomp_word | wrench pear panda_face |  
 | oomp_word_emoji | :wrench: :pear: :panda_face: |  

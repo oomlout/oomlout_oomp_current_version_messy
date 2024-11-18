@@ -1,3 +1,222 @@
+bip_39_word_dash_1: dream
+bip_39_word_dash_10: dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal
+bip_39_word_dash_11: dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal-chaos
+bip_39_word_dash_12: dream-hub-subway-sibling-caught-pave-produce-cat-keep-eternal-chaos-arch
+bip_39_word_dash_2: dream-hub
+bip_39_word_dash_3: dream-hub-subway
+bip_39_word_dash_4: dream-hub-subway-sibling
+bip_39_word_dash_5: dream-hub-subway-sibling-caught
+bip_39_word_dash_6: dream-hub-subway-sibling-caught-pave
+bip_39_word_dash_7: dream-hub-subway-sibling-caught-pave-produce
+bip_39_word_dash_8: dream-hub-subway-sibling-caught-pave-produce-cat
+bip_39_word_dash_9: dream-hub-subway-sibling-caught-pave-produce-cat-keep
+bip_39_word_new_br_1: dream
+bip_39_word_new_br_10: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal
+bip_39_word_new_br_11: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal<br>chaos
+bip_39_word_new_br_12: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep<br>eternal<br>chaos<br>arch
+bip_39_word_new_br_2: dream<br>hub
+bip_39_word_new_br_3: dream<br>hub<br>subway
+bip_39_word_new_br_4: dream<br>hub<br>subway<br>sibling
+bip_39_word_new_br_5: dream<br>hub<br>subway<br>sibling<br>caught
+bip_39_word_new_br_6: dream<br>hub<br>subway<br>sibling<br>caught<br>pave
+bip_39_word_new_br_7: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce
+bip_39_word_new_br_8: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat
+bip_39_word_new_br_9: dream<br>hub<br>subway<br>sibling<br>caught<br>pave<br>produce<br>cat<br>keep
+bip_39_word_new_line_1: dream
+bip_39_word_new_line_10: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce
+
+  cat
+
+  keep
+
+  eternal'
+bip_39_word_new_line_11: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce
+
+  cat
+
+  keep
+
+  eternal
+
+  chaos'
+bip_39_word_new_line_12: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce
+
+  cat
+
+  keep
+
+  eternal
+
+  chaos
+
+  arch'
+bip_39_word_new_line_2: 'dream
+
+  hub'
+bip_39_word_new_line_3: 'dream
+
+  hub
+
+  subway'
+bip_39_word_new_line_4: 'dream
+
+  hub
+
+  subway
+
+  sibling'
+bip_39_word_new_line_5: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught'
+bip_39_word_new_line_6: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave'
+bip_39_word_new_line_7: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce'
+bip_39_word_new_line_8: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce
+
+  cat'
+bip_39_word_new_line_9: 'dream
+
+  hub
+
+  subway
+
+  sibling
+
+  caught
+
+  pave
+
+  produce
+
+  cat
+
+  keep'
+bip_39_word_no_space_1: dream
+bip_39_word_no_space_10: dreamhubsubwaysiblingcaughtpaveproducecatkeepeternal
+bip_39_word_no_space_11: dreamhubsubwaysiblingcaughtpaveproducecatkeepeternalchaos
+bip_39_word_no_space_12: dreamhubsubwaysiblingcaughtpaveproducecatkeepeternalchaosarch
+bip_39_word_no_space_2: dreamhub
+bip_39_word_no_space_3: dreamhubsubway
+bip_39_word_no_space_4: dreamhubsubwaysibling
+bip_39_word_no_space_5: dreamhubsubwaysiblingcaught
+bip_39_word_no_space_6: dreamhubsubwaysiblingcaughtpave
+bip_39_word_no_space_7: dreamhubsubwaysiblingcaughtpaveproduce
+bip_39_word_no_space_8: dreamhubsubwaysiblingcaughtpaveproducecat
+bip_39_word_no_space_9: dreamhubsubwaysiblingcaughtpaveproducecatkeep
+bip_39_word_space_0:
+- dream
+- hub
+- subway
+- sibling
+- caught
+- pave
+- produce
+- cat
+- keep
+- eternal
+- chaos
+- arch
+bip_39_word_space_1: dream
+bip_39_word_space_10: dream hub subway sibling caught pave produce cat keep eternal
+bip_39_word_space_11: dream hub subway sibling caught pave produce cat keep eternal
+  chaos
+bip_39_word_space_12: dream hub subway sibling caught pave produce cat keep eternal
+  chaos arch
+bip_39_word_space_2: dream hub
+bip_39_word_space_3: dream hub subway
+bip_39_word_space_4: dream hub subway sibling
+bip_39_word_space_5: dream hub subway sibling caught
+bip_39_word_space_6: dream hub subway sibling caught pave
+bip_39_word_space_7: dream hub subway sibling caught pave produce
+bip_39_word_space_8: dream hub subway sibling caught pave produce cat
+bip_39_word_space_9: dream hub subway sibling caught pave produce cat keep
+bip_39_word_underscore_1: dream
+bip_39_word_underscore_10: dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal
+bip_39_word_underscore_11: dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal_chaos
+bip_39_word_underscore_12: dream_hub_subway_sibling_caught_pave_produce_cat_keep_eternal_chaos_arch
+bip_39_word_underscore_2: dream_hub
+bip_39_word_underscore_3: dream_hub_subway
+bip_39_word_underscore_4: dream_hub_subway_sibling
+bip_39_word_underscore_5: dream_hub_subway_sibling_caught
+bip_39_word_underscore_6: dream_hub_subway_sibling_caught_pave
+bip_39_word_underscore_7: dream_hub_subway_sibling_caught_pave_produce
+bip_39_word_underscore_8: dream_hub_subway_sibling_caught_pave_produce_cat
+bip_39_word_underscore_9: dream_hub_subway_sibling_caught_pave_produce_cat_keep
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 10_mm_length
 id_no_size: black_10_mm_length
 id_no_type: 2_4_mm_internal_diameter_black_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_black_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_black_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_black_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206vn2r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206vn2r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206vn2r
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 10 mm Length
 name_no_size: Black 10 mm Length
 name_no_size_short: Black 10 Mm Length
 name_no_type: 2 4 mm Internal Diameter Black 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_2_4_mm_internal_diameter_black_10_mm_length
 oomp_word: crown turtle books
 oomp_word_emoji: ':crown: :turtle: :books:'

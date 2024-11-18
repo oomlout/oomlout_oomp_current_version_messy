@@ -1,3 +1,222 @@
+bip_39_word_dash_1: world
+bip_39_word_dash_10: world-clock-bag-faint-spring-chimney-express-judge-need-iron
+bip_39_word_dash_11: world-clock-bag-faint-spring-chimney-express-judge-need-iron-bench
+bip_39_word_dash_12: world-clock-bag-faint-spring-chimney-express-judge-need-iron-bench-apart
+bip_39_word_dash_2: world-clock
+bip_39_word_dash_3: world-clock-bag
+bip_39_word_dash_4: world-clock-bag-faint
+bip_39_word_dash_5: world-clock-bag-faint-spring
+bip_39_word_dash_6: world-clock-bag-faint-spring-chimney
+bip_39_word_dash_7: world-clock-bag-faint-spring-chimney-express
+bip_39_word_dash_8: world-clock-bag-faint-spring-chimney-express-judge
+bip_39_word_dash_9: world-clock-bag-faint-spring-chimney-express-judge-need
+bip_39_word_new_br_1: world
+bip_39_word_new_br_10: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron
+bip_39_word_new_br_11: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron<br>bench
+bip_39_word_new_br_12: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need<br>iron<br>bench<br>apart
+bip_39_word_new_br_2: world<br>clock
+bip_39_word_new_br_3: world<br>clock<br>bag
+bip_39_word_new_br_4: world<br>clock<br>bag<br>faint
+bip_39_word_new_br_5: world<br>clock<br>bag<br>faint<br>spring
+bip_39_word_new_br_6: world<br>clock<br>bag<br>faint<br>spring<br>chimney
+bip_39_word_new_br_7: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express
+bip_39_word_new_br_8: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge
+bip_39_word_new_br_9: world<br>clock<br>bag<br>faint<br>spring<br>chimney<br>express<br>judge<br>need
+bip_39_word_new_line_1: world
+bip_39_word_new_line_10: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express
+
+  judge
+
+  need
+
+  iron'
+bip_39_word_new_line_11: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express
+
+  judge
+
+  need
+
+  iron
+
+  bench'
+bip_39_word_new_line_12: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express
+
+  judge
+
+  need
+
+  iron
+
+  bench
+
+  apart'
+bip_39_word_new_line_2: 'world
+
+  clock'
+bip_39_word_new_line_3: 'world
+
+  clock
+
+  bag'
+bip_39_word_new_line_4: 'world
+
+  clock
+
+  bag
+
+  faint'
+bip_39_word_new_line_5: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring'
+bip_39_word_new_line_6: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney'
+bip_39_word_new_line_7: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express'
+bip_39_word_new_line_8: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express
+
+  judge'
+bip_39_word_new_line_9: 'world
+
+  clock
+
+  bag
+
+  faint
+
+  spring
+
+  chimney
+
+  express
+
+  judge
+
+  need'
+bip_39_word_no_space_1: world
+bip_39_word_no_space_10: worldclockbagfaintspringchimneyexpressjudgeneediron
+bip_39_word_no_space_11: worldclockbagfaintspringchimneyexpressjudgeneedironbench
+bip_39_word_no_space_12: worldclockbagfaintspringchimneyexpressjudgeneedironbenchapart
+bip_39_word_no_space_2: worldclock
+bip_39_word_no_space_3: worldclockbag
+bip_39_word_no_space_4: worldclockbagfaint
+bip_39_word_no_space_5: worldclockbagfaintspring
+bip_39_word_no_space_6: worldclockbagfaintspringchimney
+bip_39_word_no_space_7: worldclockbagfaintspringchimneyexpress
+bip_39_word_no_space_8: worldclockbagfaintspringchimneyexpressjudge
+bip_39_word_no_space_9: worldclockbagfaintspringchimneyexpressjudgeneed
+bip_39_word_space_0:
+- world
+- clock
+- bag
+- faint
+- spring
+- chimney
+- express
+- judge
+- need
+- iron
+- bench
+- apart
+bip_39_word_space_1: world
+bip_39_word_space_10: world clock bag faint spring chimney express judge need iron
+bip_39_word_space_11: world clock bag faint spring chimney express judge need iron
+  bench
+bip_39_word_space_12: world clock bag faint spring chimney express judge need iron
+  bench apart
+bip_39_word_space_2: world clock
+bip_39_word_space_3: world clock bag
+bip_39_word_space_4: world clock bag faint
+bip_39_word_space_5: world clock bag faint spring
+bip_39_word_space_6: world clock bag faint spring chimney
+bip_39_word_space_7: world clock bag faint spring chimney express
+bip_39_word_space_8: world clock bag faint spring chimney express judge
+bip_39_word_space_9: world clock bag faint spring chimney express judge need
+bip_39_word_underscore_1: world
+bip_39_word_underscore_10: world_clock_bag_faint_spring_chimney_express_judge_need_iron
+bip_39_word_underscore_11: world_clock_bag_faint_spring_chimney_express_judge_need_iron_bench
+bip_39_word_underscore_12: world_clock_bag_faint_spring_chimney_express_judge_need_iron_bench_apart
+bip_39_word_underscore_2: world_clock
+bip_39_word_underscore_3: world_clock_bag
+bip_39_word_underscore_4: world_clock_bag_faint
+bip_39_word_underscore_5: world_clock_bag_faint_spring
+bip_39_word_underscore_6: world_clock_bag_faint_spring_chimney
+bip_39_word_underscore_7: world_clock_bag_faint_spring_chimney_express
+bip_39_word_underscore_8: world_clock_bag_faint_spring_chimney_express_judge
+bip_39_word_underscore_9: world_clock_bag_faint_spring_chimney_express_judge_need
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bearing_plate_03_04_12_606__shifted
 id_no_color: 030412606shifted
 id_no_size: 03_04_12_606__shifted
 id_no_type: bearing_plate_03_04_12_606__shifted
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_plate_03_04_12_606__shifted
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206elgd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206elgd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206elgd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030412606Shifted
 name_no_size: 03 04 12 606  Shifted
 name_no_size_short: 03 04 12 606  Shifted
 name_no_type: Bearing Plate 03 04 12 606  Shifted
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_plate_03_04_12_606__shifted
 oomp_word: book umbrella baby
 oomp_word_emoji: ':book: :umbrella: :baby:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Project Bot
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_project_bot
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :kiss: :ocean: :nine:
 * md5_6_alpha: 1dfqy
 * md5_6: 2331fa
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201dfqy)
+[2x1](http://192.168.1.242:1112/?label=oomp%201dfqy)
+[6x4](http://192.168.1.55:1112/?label=oomp%201dfqy)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ save |
 | id_no_color | oomp_bot |  
 | id_no_size | oomp_bot |  
 | id_no_type | oomlout_oomlout_oomp_bot |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_project_bot |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201dfqy |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201dfqy |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201dfqy |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_project_bot |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ save |
 | name_no_size | Oomp Bot |  
 | name_no_size_short | Oomp Bot |  
 | name_no_type | Oomlout Oomlout Oomp Bot |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_project_bot |  
 | oomp_word | kiss ocean nine |  
 | oomp_word_emoji | :kiss: :ocean: :nine: |  

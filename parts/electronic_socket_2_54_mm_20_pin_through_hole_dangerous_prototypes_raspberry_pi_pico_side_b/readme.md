@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket 2 54 mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side B
+* name_short: 
 ### id
 * oomp_id: electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_b
   * classification: electronic

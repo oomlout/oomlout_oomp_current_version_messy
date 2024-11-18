@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 rice_dong_bei
 
+### name
+* name: Food Starch Rice Dong Bei
+* name_short: Rice Dong Bei
 ### id
 * oomp_id: food_starch_rice_dong_bei
   * classification: food

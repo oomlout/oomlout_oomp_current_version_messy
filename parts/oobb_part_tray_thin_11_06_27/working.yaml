@@ -1,3 +1,223 @@
+bip_39_word_dash_1: trophy
+bip_39_word_dash_10: trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix
+bip_39_word_dash_11: trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix-main
+bip_39_word_dash_12: trophy-seat-ketchup-blur-senior-company-swarm-century-cigar-fix-main-attack
+bip_39_word_dash_2: trophy-seat
+bip_39_word_dash_3: trophy-seat-ketchup
+bip_39_word_dash_4: trophy-seat-ketchup-blur
+bip_39_word_dash_5: trophy-seat-ketchup-blur-senior
+bip_39_word_dash_6: trophy-seat-ketchup-blur-senior-company
+bip_39_word_dash_7: trophy-seat-ketchup-blur-senior-company-swarm
+bip_39_word_dash_8: trophy-seat-ketchup-blur-senior-company-swarm-century
+bip_39_word_dash_9: trophy-seat-ketchup-blur-senior-company-swarm-century-cigar
+bip_39_word_new_br_1: trophy
+bip_39_word_new_br_10: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix
+bip_39_word_new_br_11: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix<br>main
+bip_39_word_new_br_12: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar<br>fix<br>main<br>attack
+bip_39_word_new_br_2: trophy<br>seat
+bip_39_word_new_br_3: trophy<br>seat<br>ketchup
+bip_39_word_new_br_4: trophy<br>seat<br>ketchup<br>blur
+bip_39_word_new_br_5: trophy<br>seat<br>ketchup<br>blur<br>senior
+bip_39_word_new_br_6: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company
+bip_39_word_new_br_7: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm
+bip_39_word_new_br_8: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century
+bip_39_word_new_br_9: trophy<br>seat<br>ketchup<br>blur<br>senior<br>company<br>swarm<br>century<br>cigar
+bip_39_word_new_line_1: trophy
+bip_39_word_new_line_10: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm
+
+  century
+
+  cigar
+
+  fix'
+bip_39_word_new_line_11: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm
+
+  century
+
+  cigar
+
+  fix
+
+  main'
+bip_39_word_new_line_12: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm
+
+  century
+
+  cigar
+
+  fix
+
+  main
+
+  attack'
+bip_39_word_new_line_2: 'trophy
+
+  seat'
+bip_39_word_new_line_3: 'trophy
+
+  seat
+
+  ketchup'
+bip_39_word_new_line_4: 'trophy
+
+  seat
+
+  ketchup
+
+  blur'
+bip_39_word_new_line_5: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior'
+bip_39_word_new_line_6: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company'
+bip_39_word_new_line_7: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm'
+bip_39_word_new_line_8: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm
+
+  century'
+bip_39_word_new_line_9: 'trophy
+
+  seat
+
+  ketchup
+
+  blur
+
+  senior
+
+  company
+
+  swarm
+
+  century
+
+  cigar'
+bip_39_word_no_space_1: trophy
+bip_39_word_no_space_10: trophyseatketchupblurseniorcompanyswarmcenturycigarfix
+bip_39_word_no_space_11: trophyseatketchupblurseniorcompanyswarmcenturycigarfixmain
+bip_39_word_no_space_12: trophyseatketchupblurseniorcompanyswarmcenturycigarfixmainattack
+bip_39_word_no_space_2: trophyseat
+bip_39_word_no_space_3: trophyseatketchup
+bip_39_word_no_space_4: trophyseatketchupblur
+bip_39_word_no_space_5: trophyseatketchupblursenior
+bip_39_word_no_space_6: trophyseatketchupblurseniorcompany
+bip_39_word_no_space_7: trophyseatketchupblurseniorcompanyswarm
+bip_39_word_no_space_8: trophyseatketchupblurseniorcompanyswarmcentury
+bip_39_word_no_space_9: trophyseatketchupblurseniorcompanyswarmcenturycigar
+bip_39_word_space_0:
+- trophy
+- seat
+- ketchup
+- blur
+- senior
+- company
+- swarm
+- century
+- cigar
+- fix
+- main
+- attack
+bip_39_word_space_1: trophy
+bip_39_word_space_10: trophy seat ketchup blur senior company swarm century cigar
+  fix
+bip_39_word_space_11: trophy seat ketchup blur senior company swarm century cigar
+  fix main
+bip_39_word_space_12: trophy seat ketchup blur senior company swarm century cigar
+  fix main attack
+bip_39_word_space_2: trophy seat
+bip_39_word_space_3: trophy seat ketchup
+bip_39_word_space_4: trophy seat ketchup blur
+bip_39_word_space_5: trophy seat ketchup blur senior
+bip_39_word_space_6: trophy seat ketchup blur senior company
+bip_39_word_space_7: trophy seat ketchup blur senior company swarm
+bip_39_word_space_8: trophy seat ketchup blur senior company swarm century
+bip_39_word_space_9: trophy seat ketchup blur senior company swarm century cigar
+bip_39_word_underscore_1: trophy
+bip_39_word_underscore_10: trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix
+bip_39_word_underscore_11: trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix_main
+bip_39_word_underscore_12: trophy_seat_ketchup_blur_senior_company_swarm_century_cigar_fix_main_attack
+bip_39_word_underscore_2: trophy_seat
+bip_39_word_underscore_3: trophy_seat_ketchup
+bip_39_word_underscore_4: trophy_seat_ketchup_blur
+bip_39_word_underscore_5: trophy_seat_ketchup_blur_senior
+bip_39_word_underscore_6: trophy_seat_ketchup_blur_senior_company
+bip_39_word_underscore_7: trophy_seat_ketchup_blur_senior_company_swarm
+bip_39_word_underscore_8: trophy_seat_ketchup_blur_senior_company_swarm_century
+bip_39_word_underscore_9: trophy_seat_ketchup_blur_senior_company_swarm_century_cigar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_11_06_27
 id_no_color: '110627'
 id_no_size: '11_06_27'
 id_no_type: tray_thin_11_06_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_06_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_06_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2090jo6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2090jo6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2090jo6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '110627'
 name_no_size: 11 06 27
 name_no_size_short: 11 06 27
 name_no_type: Tray Thin 11 06 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_06_27
 oomp_word: helicopter alien basketball
 oomp_word_emoji: ':helicopter: :alien: :basketball:'

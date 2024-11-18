@@ -1,3 +1,223 @@
+bip_39_word_dash_1: boil
+bip_39_word_dash_10: boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower
+bip_39_word_dash_11: boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower-reject
+bip_39_word_dash_12: boil-mean-afford-mule-remember-interest-afford-duck-benefit-empower-reject-arch
+bip_39_word_dash_2: boil-mean
+bip_39_word_dash_3: boil-mean-afford
+bip_39_word_dash_4: boil-mean-afford-mule
+bip_39_word_dash_5: boil-mean-afford-mule-remember
+bip_39_word_dash_6: boil-mean-afford-mule-remember-interest
+bip_39_word_dash_7: boil-mean-afford-mule-remember-interest-afford
+bip_39_word_dash_8: boil-mean-afford-mule-remember-interest-afford-duck
+bip_39_word_dash_9: boil-mean-afford-mule-remember-interest-afford-duck-benefit
+bip_39_word_new_br_1: boil
+bip_39_word_new_br_10: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower
+bip_39_word_new_br_11: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject
+bip_39_word_new_br_12: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit<br>empower<br>reject<br>arch
+bip_39_word_new_br_2: boil<br>mean
+bip_39_word_new_br_3: boil<br>mean<br>afford
+bip_39_word_new_br_4: boil<br>mean<br>afford<br>mule
+bip_39_word_new_br_5: boil<br>mean<br>afford<br>mule<br>remember
+bip_39_word_new_br_6: boil<br>mean<br>afford<br>mule<br>remember<br>interest
+bip_39_word_new_br_7: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford
+bip_39_word_new_br_8: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck
+bip_39_word_new_br_9: boil<br>mean<br>afford<br>mule<br>remember<br>interest<br>afford<br>duck<br>benefit
+bip_39_word_new_line_1: boil
+bip_39_word_new_line_10: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford
+
+  duck
+
+  benefit
+
+  empower'
+bip_39_word_new_line_11: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford
+
+  duck
+
+  benefit
+
+  empower
+
+  reject'
+bip_39_word_new_line_12: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford
+
+  duck
+
+  benefit
+
+  empower
+
+  reject
+
+  arch'
+bip_39_word_new_line_2: 'boil
+
+  mean'
+bip_39_word_new_line_3: 'boil
+
+  mean
+
+  afford'
+bip_39_word_new_line_4: 'boil
+
+  mean
+
+  afford
+
+  mule'
+bip_39_word_new_line_5: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember'
+bip_39_word_new_line_6: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest'
+bip_39_word_new_line_7: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford'
+bip_39_word_new_line_8: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford
+
+  duck'
+bip_39_word_new_line_9: 'boil
+
+  mean
+
+  afford
+
+  mule
+
+  remember
+
+  interest
+
+  afford
+
+  duck
+
+  benefit'
+bip_39_word_no_space_1: boil
+bip_39_word_no_space_10: boilmeanaffordmulerememberinterestaffordduckbenefitempower
+bip_39_word_no_space_11: boilmeanaffordmulerememberinterestaffordduckbenefitempowerreject
+bip_39_word_no_space_12: boilmeanaffordmulerememberinterestaffordduckbenefitempowerrejectarch
+bip_39_word_no_space_2: boilmean
+bip_39_word_no_space_3: boilmeanafford
+bip_39_word_no_space_4: boilmeanaffordmule
+bip_39_word_no_space_5: boilmeanaffordmuleremember
+bip_39_word_no_space_6: boilmeanaffordmulerememberinterest
+bip_39_word_no_space_7: boilmeanaffordmulerememberinterestafford
+bip_39_word_no_space_8: boilmeanaffordmulerememberinterestaffordduck
+bip_39_word_no_space_9: boilmeanaffordmulerememberinterestaffordduckbenefit
+bip_39_word_space_0:
+- boil
+- mean
+- afford
+- mule
+- remember
+- interest
+- afford
+- duck
+- benefit
+- empower
+- reject
+- arch
+bip_39_word_space_1: boil
+bip_39_word_space_10: boil mean afford mule remember interest afford duck benefit
+  empower
+bip_39_word_space_11: boil mean afford mule remember interest afford duck benefit
+  empower reject
+bip_39_word_space_12: boil mean afford mule remember interest afford duck benefit
+  empower reject arch
+bip_39_word_space_2: boil mean
+bip_39_word_space_3: boil mean afford
+bip_39_word_space_4: boil mean afford mule
+bip_39_word_space_5: boil mean afford mule remember
+bip_39_word_space_6: boil mean afford mule remember interest
+bip_39_word_space_7: boil mean afford mule remember interest afford
+bip_39_word_space_8: boil mean afford mule remember interest afford duck
+bip_39_word_space_9: boil mean afford mule remember interest afford duck benefit
+bip_39_word_underscore_1: boil
+bip_39_word_underscore_10: boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower
+bip_39_word_underscore_11: boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower_reject
+bip_39_word_underscore_12: boil_mean_afford_mule_remember_interest_afford_duck_benefit_empower_reject_arch
+bip_39_word_underscore_2: boil_mean
+bip_39_word_underscore_3: boil_mean_afford
+bip_39_word_underscore_4: boil_mean_afford_mule
+bip_39_word_underscore_5: boil_mean_afford_mule_remember
+bip_39_word_underscore_6: boil_mean_afford_mule_remember_interest
+bip_39_word_underscore_7: boil_mean_afford_mule_remember_interest_afford
+bip_39_word_underscore_8: boil_mean_afford_mule_remember_interest_afford_duck
+bip_39_word_underscore_9: boil_mean_afford_mule_remember_interest_afford_duck_benefit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_03_01_15
 id_no_color: '030115'
 id_no_size: '03_01_15'
 id_no_type: plate_03_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206x7f6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206x7f6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206x7f6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '030115'
 name_no_size: 03 01 15
 name_no_size_short: 03 01 15
 name_no_type: Plate 03 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_01_15
 oomp_word: briefcase cactus pineapple
 oomp_word_emoji: ':briefcase: :cactus: :pineapple:'

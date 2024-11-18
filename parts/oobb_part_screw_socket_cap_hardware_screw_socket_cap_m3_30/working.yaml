@@ -1,3 +1,223 @@
+bip_39_word_dash_1: until
+bip_39_word_dash_10: until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case
+bip_39_word_dash_11: until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case-rent
+bip_39_word_dash_12: until-uniform-master-clog-uphold-dinosaur-swift-play-favorite-case-rent-among
+bip_39_word_dash_2: until-uniform
+bip_39_word_dash_3: until-uniform-master
+bip_39_word_dash_4: until-uniform-master-clog
+bip_39_word_dash_5: until-uniform-master-clog-uphold
+bip_39_word_dash_6: until-uniform-master-clog-uphold-dinosaur
+bip_39_word_dash_7: until-uniform-master-clog-uphold-dinosaur-swift
+bip_39_word_dash_8: until-uniform-master-clog-uphold-dinosaur-swift-play
+bip_39_word_dash_9: until-uniform-master-clog-uphold-dinosaur-swift-play-favorite
+bip_39_word_new_br_1: until
+bip_39_word_new_br_10: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case
+bip_39_word_new_br_11: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent
+bip_39_word_new_br_12: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite<br>case<br>rent<br>among
+bip_39_word_new_br_2: until<br>uniform
+bip_39_word_new_br_3: until<br>uniform<br>master
+bip_39_word_new_br_4: until<br>uniform<br>master<br>clog
+bip_39_word_new_br_5: until<br>uniform<br>master<br>clog<br>uphold
+bip_39_word_new_br_6: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur
+bip_39_word_new_br_7: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift
+bip_39_word_new_br_8: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play
+bip_39_word_new_br_9: until<br>uniform<br>master<br>clog<br>uphold<br>dinosaur<br>swift<br>play<br>favorite
+bip_39_word_new_line_1: until
+bip_39_word_new_line_10: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift
+
+  play
+
+  favorite
+
+  case'
+bip_39_word_new_line_11: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift
+
+  play
+
+  favorite
+
+  case
+
+  rent'
+bip_39_word_new_line_12: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift
+
+  play
+
+  favorite
+
+  case
+
+  rent
+
+  among'
+bip_39_word_new_line_2: 'until
+
+  uniform'
+bip_39_word_new_line_3: 'until
+
+  uniform
+
+  master'
+bip_39_word_new_line_4: 'until
+
+  uniform
+
+  master
+
+  clog'
+bip_39_word_new_line_5: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold'
+bip_39_word_new_line_6: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur'
+bip_39_word_new_line_7: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift'
+bip_39_word_new_line_8: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift
+
+  play'
+bip_39_word_new_line_9: 'until
+
+  uniform
+
+  master
+
+  clog
+
+  uphold
+
+  dinosaur
+
+  swift
+
+  play
+
+  favorite'
+bip_39_word_no_space_1: until
+bip_39_word_no_space_10: untiluniformmasterclogupholddinosaurswiftplayfavoritecase
+bip_39_word_no_space_11: untiluniformmasterclogupholddinosaurswiftplayfavoritecaserent
+bip_39_word_no_space_12: untiluniformmasterclogupholddinosaurswiftplayfavoritecaserentamong
+bip_39_word_no_space_2: untiluniform
+bip_39_word_no_space_3: untiluniformmaster
+bip_39_word_no_space_4: untiluniformmasterclog
+bip_39_word_no_space_5: untiluniformmastercloguphold
+bip_39_word_no_space_6: untiluniformmasterclogupholddinosaur
+bip_39_word_no_space_7: untiluniformmasterclogupholddinosaurswift
+bip_39_word_no_space_8: untiluniformmasterclogupholddinosaurswiftplay
+bip_39_word_no_space_9: untiluniformmasterclogupholddinosaurswiftplayfavorite
+bip_39_word_space_0:
+- until
+- uniform
+- master
+- clog
+- uphold
+- dinosaur
+- swift
+- play
+- favorite
+- case
+- rent
+- among
+bip_39_word_space_1: until
+bip_39_word_space_10: until uniform master clog uphold dinosaur swift play favorite
+  case
+bip_39_word_space_11: until uniform master clog uphold dinosaur swift play favorite
+  case rent
+bip_39_word_space_12: until uniform master clog uphold dinosaur swift play favorite
+  case rent among
+bip_39_word_space_2: until uniform
+bip_39_word_space_3: until uniform master
+bip_39_word_space_4: until uniform master clog
+bip_39_word_space_5: until uniform master clog uphold
+bip_39_word_space_6: until uniform master clog uphold dinosaur
+bip_39_word_space_7: until uniform master clog uphold dinosaur swift
+bip_39_word_space_8: until uniform master clog uphold dinosaur swift play
+bip_39_word_space_9: until uniform master clog uphold dinosaur swift play favorite
+bip_39_word_underscore_1: until
+bip_39_word_underscore_10: until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case
+bip_39_word_underscore_11: until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case_rent
+bip_39_word_underscore_12: until_uniform_master_clog_uphold_dinosaur_swift_play_favorite_case_rent_among
+bip_39_word_underscore_2: until_uniform
+bip_39_word_underscore_3: until_uniform_master
+bip_39_word_underscore_4: until_uniform_master_clog
+bip_39_word_underscore_5: until_uniform_master_clog_uphold
+bip_39_word_underscore_6: until_uniform_master_clog_uphold_dinosaur
+bip_39_word_underscore_7: until_uniform_master_clog_uphold_dinosaur_swift
+bip_39_word_underscore_8: until_uniform_master_clog_uphold_dinosaur_swift_play
+bip_39_word_underscore_9: until_uniform_master_clog_uphold_dinosaur_swift_play_favorite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_screw_socket_cap_hardware_screw_socket_cap_m3_30
 id_no_color: hardwarem330
 id_no_size: hardware_m3_30
 id_no_type: screw_socket_cap_hardware_screw_socket_cap_m3_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204yzk8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204yzk8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204yzk8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem330
 name_no_size: Hardware M3 30
 name_no_size_short: Hardware M3 30
 name_no_type: Screw Socket Cap Hardware Screw Socket Cap M3 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_30
 oomp_word: speaker blossom wrench
 oomp_word_emoji: ':speaker: :blossom: :wrench:'

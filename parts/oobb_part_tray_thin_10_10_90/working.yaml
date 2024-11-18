@@ -1,3 +1,222 @@
+bip_39_word_dash_1: wage
+bip_39_word_dash_10: wage-away-also-mother-silver-craft-city-coconut-better-broccoli
+bip_39_word_dash_11: wage-away-also-mother-silver-craft-city-coconut-better-broccoli-clinic
+bip_39_word_dash_12: wage-away-also-mother-silver-craft-city-coconut-better-broccoli-clinic-acquire
+bip_39_word_dash_2: wage-away
+bip_39_word_dash_3: wage-away-also
+bip_39_word_dash_4: wage-away-also-mother
+bip_39_word_dash_5: wage-away-also-mother-silver
+bip_39_word_dash_6: wage-away-also-mother-silver-craft
+bip_39_word_dash_7: wage-away-also-mother-silver-craft-city
+bip_39_word_dash_8: wage-away-also-mother-silver-craft-city-coconut
+bip_39_word_dash_9: wage-away-also-mother-silver-craft-city-coconut-better
+bip_39_word_new_br_1: wage
+bip_39_word_new_br_10: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli
+bip_39_word_new_br_11: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic
+bip_39_word_new_br_12: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better<br>broccoli<br>clinic<br>acquire
+bip_39_word_new_br_2: wage<br>away
+bip_39_word_new_br_3: wage<br>away<br>also
+bip_39_word_new_br_4: wage<br>away<br>also<br>mother
+bip_39_word_new_br_5: wage<br>away<br>also<br>mother<br>silver
+bip_39_word_new_br_6: wage<br>away<br>also<br>mother<br>silver<br>craft
+bip_39_word_new_br_7: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city
+bip_39_word_new_br_8: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut
+bip_39_word_new_br_9: wage<br>away<br>also<br>mother<br>silver<br>craft<br>city<br>coconut<br>better
+bip_39_word_new_line_1: wage
+bip_39_word_new_line_10: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city
+
+  coconut
+
+  better
+
+  broccoli'
+bip_39_word_new_line_11: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city
+
+  coconut
+
+  better
+
+  broccoli
+
+  clinic'
+bip_39_word_new_line_12: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city
+
+  coconut
+
+  better
+
+  broccoli
+
+  clinic
+
+  acquire'
+bip_39_word_new_line_2: 'wage
+
+  away'
+bip_39_word_new_line_3: 'wage
+
+  away
+
+  also'
+bip_39_word_new_line_4: 'wage
+
+  away
+
+  also
+
+  mother'
+bip_39_word_new_line_5: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver'
+bip_39_word_new_line_6: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft'
+bip_39_word_new_line_7: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city'
+bip_39_word_new_line_8: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city
+
+  coconut'
+bip_39_word_new_line_9: 'wage
+
+  away
+
+  also
+
+  mother
+
+  silver
+
+  craft
+
+  city
+
+  coconut
+
+  better'
+bip_39_word_no_space_1: wage
+bip_39_word_no_space_10: wageawayalsomothersilvercraftcitycoconutbetterbroccoli
+bip_39_word_no_space_11: wageawayalsomothersilvercraftcitycoconutbetterbroccoliclinic
+bip_39_word_no_space_12: wageawayalsomothersilvercraftcitycoconutbetterbroccoliclinicacquire
+bip_39_word_no_space_2: wageaway
+bip_39_word_no_space_3: wageawayalso
+bip_39_word_no_space_4: wageawayalsomother
+bip_39_word_no_space_5: wageawayalsomothersilver
+bip_39_word_no_space_6: wageawayalsomothersilvercraft
+bip_39_word_no_space_7: wageawayalsomothersilvercraftcity
+bip_39_word_no_space_8: wageawayalsomothersilvercraftcitycoconut
+bip_39_word_no_space_9: wageawayalsomothersilvercraftcitycoconutbetter
+bip_39_word_space_0:
+- wage
+- away
+- also
+- mother
+- silver
+- craft
+- city
+- coconut
+- better
+- broccoli
+- clinic
+- acquire
+bip_39_word_space_1: wage
+bip_39_word_space_10: wage away also mother silver craft city coconut better broccoli
+bip_39_word_space_11: wage away also mother silver craft city coconut better broccoli
+  clinic
+bip_39_word_space_12: wage away also mother silver craft city coconut better broccoli
+  clinic acquire
+bip_39_word_space_2: wage away
+bip_39_word_space_3: wage away also
+bip_39_word_space_4: wage away also mother
+bip_39_word_space_5: wage away also mother silver
+bip_39_word_space_6: wage away also mother silver craft
+bip_39_word_space_7: wage away also mother silver craft city
+bip_39_word_space_8: wage away also mother silver craft city coconut
+bip_39_word_space_9: wage away also mother silver craft city coconut better
+bip_39_word_underscore_1: wage
+bip_39_word_underscore_10: wage_away_also_mother_silver_craft_city_coconut_better_broccoli
+bip_39_word_underscore_11: wage_away_also_mother_silver_craft_city_coconut_better_broccoli_clinic
+bip_39_word_underscore_12: wage_away_also_mother_silver_craft_city_coconut_better_broccoli_clinic_acquire
+bip_39_word_underscore_2: wage_away
+bip_39_word_underscore_3: wage_away_also
+bip_39_word_underscore_4: wage_away_also_mother
+bip_39_word_underscore_5: wage_away_also_mother_silver
+bip_39_word_underscore_6: wage_away_also_mother_silver_craft
+bip_39_word_underscore_7: wage_away_also_mother_silver_craft_city
+bip_39_word_underscore_8: wage_away_also_mother_silver_craft_city_coconut
+bip_39_word_underscore_9: wage_away_also_mother_silver_craft_city_coconut_better
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_10_90
 id_no_color: '101090'
 id_no_size: '10_10_90'
 id_no_type: tray_thin_10_10_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201c8cn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201c8cn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201c8cn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '101090'
 name_no_size: 10 10 90
 name_no_size_short: 10 10 90
 name_no_type: Tray Thin 10 10 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_10_90
 oomp_word: lips ram baby_chick
 oomp_word_emoji: ':lips: :ram: :baby_chick:'

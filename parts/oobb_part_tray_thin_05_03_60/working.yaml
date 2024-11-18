@@ -1,3 +1,224 @@
+bip_39_word_dash_1: welcome
+bip_39_word_dash_10: welcome-inform-access-whisper-priority-address-supply-leisure-response-witness
+bip_39_word_dash_11: welcome-inform-access-whisper-priority-address-supply-leisure-response-witness-crowd
+bip_39_word_dash_12: welcome-inform-access-whisper-priority-address-supply-leisure-response-witness-crowd-alley
+bip_39_word_dash_2: welcome-inform
+bip_39_word_dash_3: welcome-inform-access
+bip_39_word_dash_4: welcome-inform-access-whisper
+bip_39_word_dash_5: welcome-inform-access-whisper-priority
+bip_39_word_dash_6: welcome-inform-access-whisper-priority-address
+bip_39_word_dash_7: welcome-inform-access-whisper-priority-address-supply
+bip_39_word_dash_8: welcome-inform-access-whisper-priority-address-supply-leisure
+bip_39_word_dash_9: welcome-inform-access-whisper-priority-address-supply-leisure-response
+bip_39_word_new_br_1: welcome
+bip_39_word_new_br_10: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness
+bip_39_word_new_br_11: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd
+bip_39_word_new_br_12: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response<br>witness<br>crowd<br>alley
+bip_39_word_new_br_2: welcome<br>inform
+bip_39_word_new_br_3: welcome<br>inform<br>access
+bip_39_word_new_br_4: welcome<br>inform<br>access<br>whisper
+bip_39_word_new_br_5: welcome<br>inform<br>access<br>whisper<br>priority
+bip_39_word_new_br_6: welcome<br>inform<br>access<br>whisper<br>priority<br>address
+bip_39_word_new_br_7: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply
+bip_39_word_new_br_8: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure
+bip_39_word_new_br_9: welcome<br>inform<br>access<br>whisper<br>priority<br>address<br>supply<br>leisure<br>response
+bip_39_word_new_line_1: welcome
+bip_39_word_new_line_10: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply
+
+  leisure
+
+  response
+
+  witness'
+bip_39_word_new_line_11: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply
+
+  leisure
+
+  response
+
+  witness
+
+  crowd'
+bip_39_word_new_line_12: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply
+
+  leisure
+
+  response
+
+  witness
+
+  crowd
+
+  alley'
+bip_39_word_new_line_2: 'welcome
+
+  inform'
+bip_39_word_new_line_3: 'welcome
+
+  inform
+
+  access'
+bip_39_word_new_line_4: 'welcome
+
+  inform
+
+  access
+
+  whisper'
+bip_39_word_new_line_5: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority'
+bip_39_word_new_line_6: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address'
+bip_39_word_new_line_7: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply'
+bip_39_word_new_line_8: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply
+
+  leisure'
+bip_39_word_new_line_9: 'welcome
+
+  inform
+
+  access
+
+  whisper
+
+  priority
+
+  address
+
+  supply
+
+  leisure
+
+  response'
+bip_39_word_no_space_1: welcome
+bip_39_word_no_space_10: welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitness
+bip_39_word_no_space_11: welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitnesscrowd
+bip_39_word_no_space_12: welcomeinformaccesswhisperpriorityaddresssupplyleisureresponsewitnesscrowdalley
+bip_39_word_no_space_2: welcomeinform
+bip_39_word_no_space_3: welcomeinformaccess
+bip_39_word_no_space_4: welcomeinformaccesswhisper
+bip_39_word_no_space_5: welcomeinformaccesswhisperpriority
+bip_39_word_no_space_6: welcomeinformaccesswhisperpriorityaddress
+bip_39_word_no_space_7: welcomeinformaccesswhisperpriorityaddresssupply
+bip_39_word_no_space_8: welcomeinformaccesswhisperpriorityaddresssupplyleisure
+bip_39_word_no_space_9: welcomeinformaccesswhisperpriorityaddresssupplyleisureresponse
+bip_39_word_space_0:
+- welcome
+- inform
+- access
+- whisper
+- priority
+- address
+- supply
+- leisure
+- response
+- witness
+- crowd
+- alley
+bip_39_word_space_1: welcome
+bip_39_word_space_10: welcome inform access whisper priority address supply leisure
+  response witness
+bip_39_word_space_11: welcome inform access whisper priority address supply leisure
+  response witness crowd
+bip_39_word_space_12: welcome inform access whisper priority address supply leisure
+  response witness crowd alley
+bip_39_word_space_2: welcome inform
+bip_39_word_space_3: welcome inform access
+bip_39_word_space_4: welcome inform access whisper
+bip_39_word_space_5: welcome inform access whisper priority
+bip_39_word_space_6: welcome inform access whisper priority address
+bip_39_word_space_7: welcome inform access whisper priority address supply
+bip_39_word_space_8: welcome inform access whisper priority address supply leisure
+bip_39_word_space_9: welcome inform access whisper priority address supply leisure
+  response
+bip_39_word_underscore_1: welcome
+bip_39_word_underscore_10: welcome_inform_access_whisper_priority_address_supply_leisure_response_witness
+bip_39_word_underscore_11: welcome_inform_access_whisper_priority_address_supply_leisure_response_witness_crowd
+bip_39_word_underscore_12: welcome_inform_access_whisper_priority_address_supply_leisure_response_witness_crowd_alley
+bip_39_word_underscore_2: welcome_inform
+bip_39_word_underscore_3: welcome_inform_access
+bip_39_word_underscore_4: welcome_inform_access_whisper
+bip_39_word_underscore_5: welcome_inform_access_whisper_priority
+bip_39_word_underscore_6: welcome_inform_access_whisper_priority_address
+bip_39_word_underscore_7: welcome_inform_access_whisper_priority_address_supply
+bip_39_word_underscore_8: welcome_inform_access_whisper_priority_address_supply_leisure
+bip_39_word_underscore_9: welcome_inform_access_whisper_priority_address_supply_leisure_response
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +303,14 @@ id_no_class: part_tray_thin_05_03_60
 id_no_color: '050360'
 id_no_size: '05_03_60'
 id_no_type: tray_thin_05_03_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_03_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_03_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042nr3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042nr3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042nr3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +336,7 @@ name_no_color: '050360'
 name_no_size: 05 03 60
 name_no_size_short: 05 03 60
 name_no_type: Tray Thin 05 03 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_05_03_60
 oomp_word: mushroom mushroom egg
 oomp_word_emoji: ':mushroom: :mushroom: :egg:'

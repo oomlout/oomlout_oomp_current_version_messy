@@ -1,3 +1,223 @@
+bip_39_word_dash_1: mention
+bip_39_word_dash_10: mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby
+bip_39_word_dash_11: mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby-else
+bip_39_word_dash_12: mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer-baby-else-attitude
+bip_39_word_dash_2: mention-broccoli
+bip_39_word_dash_3: mention-broccoli-shrug
+bip_39_word_dash_4: mention-broccoli-shrug-mix
+bip_39_word_dash_5: mention-broccoli-shrug-mix-napkin
+bip_39_word_dash_6: mention-broccoli-shrug-mix-napkin-master
+bip_39_word_dash_7: mention-broccoli-shrug-mix-napkin-master-smoke
+bip_39_word_dash_8: mention-broccoli-shrug-mix-napkin-master-smoke-sadness
+bip_39_word_dash_9: mention-broccoli-shrug-mix-napkin-master-smoke-sadness-offer
+bip_39_word_new_br_1: mention
+bip_39_word_new_br_10: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby
+bip_39_word_new_br_11: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else
+bip_39_word_new_br_12: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer<br>baby<br>else<br>attitude
+bip_39_word_new_br_2: mention<br>broccoli
+bip_39_word_new_br_3: mention<br>broccoli<br>shrug
+bip_39_word_new_br_4: mention<br>broccoli<br>shrug<br>mix
+bip_39_word_new_br_5: mention<br>broccoli<br>shrug<br>mix<br>napkin
+bip_39_word_new_br_6: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master
+bip_39_word_new_br_7: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke
+bip_39_word_new_br_8: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness
+bip_39_word_new_br_9: mention<br>broccoli<br>shrug<br>mix<br>napkin<br>master<br>smoke<br>sadness<br>offer
+bip_39_word_new_line_1: mention
+bip_39_word_new_line_10: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke
+
+  sadness
+
+  offer
+
+  baby'
+bip_39_word_new_line_11: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke
+
+  sadness
+
+  offer
+
+  baby
+
+  else'
+bip_39_word_new_line_12: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke
+
+  sadness
+
+  offer
+
+  baby
+
+  else
+
+  attitude'
+bip_39_word_new_line_2: 'mention
+
+  broccoli'
+bip_39_word_new_line_3: 'mention
+
+  broccoli
+
+  shrug'
+bip_39_word_new_line_4: 'mention
+
+  broccoli
+
+  shrug
+
+  mix'
+bip_39_word_new_line_5: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin'
+bip_39_word_new_line_6: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master'
+bip_39_word_new_line_7: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke'
+bip_39_word_new_line_8: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke
+
+  sadness'
+bip_39_word_new_line_9: 'mention
+
+  broccoli
+
+  shrug
+
+  mix
+
+  napkin
+
+  master
+
+  smoke
+
+  sadness
+
+  offer'
+bip_39_word_no_space_1: mention
+bip_39_word_no_space_10: mentionbroccolishrugmixnapkinmastersmokesadnessofferbaby
+bip_39_word_no_space_11: mentionbroccolishrugmixnapkinmastersmokesadnessofferbabyelse
+bip_39_word_no_space_12: mentionbroccolishrugmixnapkinmastersmokesadnessofferbabyelseattitude
+bip_39_word_no_space_2: mentionbroccoli
+bip_39_word_no_space_3: mentionbroccolishrug
+bip_39_word_no_space_4: mentionbroccolishrugmix
+bip_39_word_no_space_5: mentionbroccolishrugmixnapkin
+bip_39_word_no_space_6: mentionbroccolishrugmixnapkinmaster
+bip_39_word_no_space_7: mentionbroccolishrugmixnapkinmastersmoke
+bip_39_word_no_space_8: mentionbroccolishrugmixnapkinmastersmokesadness
+bip_39_word_no_space_9: mentionbroccolishrugmixnapkinmastersmokesadnessoffer
+bip_39_word_space_0:
+- mention
+- broccoli
+- shrug
+- mix
+- napkin
+- master
+- smoke
+- sadness
+- offer
+- baby
+- else
+- attitude
+bip_39_word_space_1: mention
+bip_39_word_space_10: mention broccoli shrug mix napkin master smoke sadness offer
+  baby
+bip_39_word_space_11: mention broccoli shrug mix napkin master smoke sadness offer
+  baby else
+bip_39_word_space_12: mention broccoli shrug mix napkin master smoke sadness offer
+  baby else attitude
+bip_39_word_space_2: mention broccoli
+bip_39_word_space_3: mention broccoli shrug
+bip_39_word_space_4: mention broccoli shrug mix
+bip_39_word_space_5: mention broccoli shrug mix napkin
+bip_39_word_space_6: mention broccoli shrug mix napkin master
+bip_39_word_space_7: mention broccoli shrug mix napkin master smoke
+bip_39_word_space_8: mention broccoli shrug mix napkin master smoke sadness
+bip_39_word_space_9: mention broccoli shrug mix napkin master smoke sadness offer
+bip_39_word_underscore_1: mention
+bip_39_word_underscore_10: mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby
+bip_39_word_underscore_11: mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby_else
+bip_39_word_underscore_12: mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer_baby_else_attitude
+bip_39_word_underscore_2: mention_broccoli
+bip_39_word_underscore_3: mention_broccoli_shrug
+bip_39_word_underscore_4: mention_broccoli_shrug_mix
+bip_39_word_underscore_5: mention_broccoli_shrug_mix_napkin
+bip_39_word_underscore_6: mention_broccoli_shrug_mix_napkin_master
+bip_39_word_underscore_7: mention_broccoli_shrug_mix_napkin_master_smoke
+bip_39_word_underscore_8: mention_broccoli_shrug_mix_napkin_master_smoke_sadness
+bip_39_word_underscore_9: mention_broccoli_shrug_mix_napkin_master_smoke_sadness_offer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_08_60
 id_no_color: 040860
 id_no_size: 04_08_60
 id_no_type: tray_04_08_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_08_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_08_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_08_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2095hdw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2095hdw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2095hdw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 040860
 name_no_size: 04 08 60
 name_no_size_short: 04 08 60
 name_no_type: Tray 04 08 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_08_60
 oomp_word: tractor scissors panda_face
 oomp_word_emoji: ':tractor: :scissors: :panda_face:'

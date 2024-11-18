@@ -1,3 +1,222 @@
+bip_39_word_dash_1: steak
+bip_39_word_dash_10: steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old
+bip_39_word_dash_11: steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old-merry
+bip_39_word_dash_12: steak-digital-crater-fit-fatal-host-faculty-blush-suspect-old-merry-ahead
+bip_39_word_dash_2: steak-digital
+bip_39_word_dash_3: steak-digital-crater
+bip_39_word_dash_4: steak-digital-crater-fit
+bip_39_word_dash_5: steak-digital-crater-fit-fatal
+bip_39_word_dash_6: steak-digital-crater-fit-fatal-host
+bip_39_word_dash_7: steak-digital-crater-fit-fatal-host-faculty
+bip_39_word_dash_8: steak-digital-crater-fit-fatal-host-faculty-blush
+bip_39_word_dash_9: steak-digital-crater-fit-fatal-host-faculty-blush-suspect
+bip_39_word_new_br_1: steak
+bip_39_word_new_br_10: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old
+bip_39_word_new_br_11: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry
+bip_39_word_new_br_12: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect<br>old<br>merry<br>ahead
+bip_39_word_new_br_2: steak<br>digital
+bip_39_word_new_br_3: steak<br>digital<br>crater
+bip_39_word_new_br_4: steak<br>digital<br>crater<br>fit
+bip_39_word_new_br_5: steak<br>digital<br>crater<br>fit<br>fatal
+bip_39_word_new_br_6: steak<br>digital<br>crater<br>fit<br>fatal<br>host
+bip_39_word_new_br_7: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty
+bip_39_word_new_br_8: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush
+bip_39_word_new_br_9: steak<br>digital<br>crater<br>fit<br>fatal<br>host<br>faculty<br>blush<br>suspect
+bip_39_word_new_line_1: steak
+bip_39_word_new_line_10: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty
+
+  blush
+
+  suspect
+
+  old'
+bip_39_word_new_line_11: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty
+
+  blush
+
+  suspect
+
+  old
+
+  merry'
+bip_39_word_new_line_12: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty
+
+  blush
+
+  suspect
+
+  old
+
+  merry
+
+  ahead'
+bip_39_word_new_line_2: 'steak
+
+  digital'
+bip_39_word_new_line_3: 'steak
+
+  digital
+
+  crater'
+bip_39_word_new_line_4: 'steak
+
+  digital
+
+  crater
+
+  fit'
+bip_39_word_new_line_5: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal'
+bip_39_word_new_line_6: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host'
+bip_39_word_new_line_7: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty'
+bip_39_word_new_line_8: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty
+
+  blush'
+bip_39_word_new_line_9: 'steak
+
+  digital
+
+  crater
+
+  fit
+
+  fatal
+
+  host
+
+  faculty
+
+  blush
+
+  suspect'
+bip_39_word_no_space_1: steak
+bip_39_word_no_space_10: steakdigitalcraterfitfatalhostfacultyblushsuspectold
+bip_39_word_no_space_11: steakdigitalcraterfitfatalhostfacultyblushsuspectoldmerry
+bip_39_word_no_space_12: steakdigitalcraterfitfatalhostfacultyblushsuspectoldmerryahead
+bip_39_word_no_space_2: steakdigital
+bip_39_word_no_space_3: steakdigitalcrater
+bip_39_word_no_space_4: steakdigitalcraterfit
+bip_39_word_no_space_5: steakdigitalcraterfitfatal
+bip_39_word_no_space_6: steakdigitalcraterfitfatalhost
+bip_39_word_no_space_7: steakdigitalcraterfitfatalhostfaculty
+bip_39_word_no_space_8: steakdigitalcraterfitfatalhostfacultyblush
+bip_39_word_no_space_9: steakdigitalcraterfitfatalhostfacultyblushsuspect
+bip_39_word_space_0:
+- steak
+- digital
+- crater
+- fit
+- fatal
+- host
+- faculty
+- blush
+- suspect
+- old
+- merry
+- ahead
+bip_39_word_space_1: steak
+bip_39_word_space_10: steak digital crater fit fatal host faculty blush suspect old
+bip_39_word_space_11: steak digital crater fit fatal host faculty blush suspect old
+  merry
+bip_39_word_space_12: steak digital crater fit fatal host faculty blush suspect old
+  merry ahead
+bip_39_word_space_2: steak digital
+bip_39_word_space_3: steak digital crater
+bip_39_word_space_4: steak digital crater fit
+bip_39_word_space_5: steak digital crater fit fatal
+bip_39_word_space_6: steak digital crater fit fatal host
+bip_39_word_space_7: steak digital crater fit fatal host faculty
+bip_39_word_space_8: steak digital crater fit fatal host faculty blush
+bip_39_word_space_9: steak digital crater fit fatal host faculty blush suspect
+bip_39_word_underscore_1: steak
+bip_39_word_underscore_10: steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old
+bip_39_word_underscore_11: steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old_merry
+bip_39_word_underscore_12: steak_digital_crater_fit_fatal_host_faculty_blush_suspect_old_merry_ahead
+bip_39_word_underscore_2: steak_digital
+bip_39_word_underscore_3: steak_digital_crater
+bip_39_word_underscore_4: steak_digital_crater_fit
+bip_39_word_underscore_5: steak_digital_crater_fit_fatal
+bip_39_word_underscore_6: steak_digital_crater_fit_fatal_host
+bip_39_word_underscore_7: steak_digital_crater_fit_fatal_host_faculty
+bip_39_word_underscore_8: steak_digital_crater_fit_fatal_host_faculty_blush
+bip_39_word_underscore_9: steak_digital_crater_fit_fatal_host_faculty_blush_suspect
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_06_05_15
 id_no_color: '060515'
 id_no_size: '06_05_15'
 id_no_type: tray_thin_06_05_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_05_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_05_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_05_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2038pra
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2038pra
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2038pra
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060515'
 name_no_size: 06 05 15
 name_no_size_short: 06 05 15
 name_no_type: Tray Thin 06 05 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_05_15
 oomp_word: fish thumbsdown leaves
 oomp_word_emoji: ':fish: :thumbsdown: :leaves:'

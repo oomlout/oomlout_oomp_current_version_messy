@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Three D Printer Printer Wanhao Dupicator I3 Plus
+* name_short: 
 ### id
 * oomp_id: three_d_printer_printer_wanhao_dupicator_i3_plus
   * classification: three_d_printer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :microscope: :golf: :nose:
 * md5_6_alpha: 5sqhz
 * md5_6: 949a27
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205sqhz)
+[2x1](http://192.168.1.242:1112/?label=oomp%205sqhz)
+[6x4](http://192.168.1.55:1112/?label=oomp%205sqhz)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ marriage |
 | id_no_color | wanhaodupicatori3plus |  
 | id_no_size | wanhaodupicatori3plus |  
 | id_no_type | wanhao_dupicator_i3_plus |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205sqhz |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205sqhz |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205sqhz |  
 | manufacturer | wanhao |  
 | manufacturer_capital | Wanhao |  
 | manufacturer_first_letter | w |  
@@ -280,6 +313,7 @@ marriage |
 | name_no_size | Wanhaodupicatori3Plus |  
 | name_no_size_short | Wanhaodupicatori3Plus |  
 | name_no_type | Wanhao Dupicator I3 Plus |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_printer_wanhao_dupicator_i3_plus |  
 | oomp_word | microscope golf nose |  
 | oomp_word_emoji | :microscope: :golf: :nose: |  

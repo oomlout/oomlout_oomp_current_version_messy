@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Pmic Sot 223 Linear 1117 Adj
+* name_short: 
 ### id
 * oomp_id: electronic_pmic_sot_223_linear_1117_adj
   * classification: electronic

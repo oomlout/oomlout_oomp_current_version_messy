@@ -1,3 +1,221 @@
+bip_39_word_dash_1: balance
+bip_39_word_dash_10: balance-wash-core-coil-like-drama-cabin-neutral-shock-hen
+bip_39_word_dash_11: balance-wash-core-coil-like-drama-cabin-neutral-shock-hen-wet
+bip_39_word_dash_12: balance-wash-core-coil-like-drama-cabin-neutral-shock-hen-wet-alien
+bip_39_word_dash_2: balance-wash
+bip_39_word_dash_3: balance-wash-core
+bip_39_word_dash_4: balance-wash-core-coil
+bip_39_word_dash_5: balance-wash-core-coil-like
+bip_39_word_dash_6: balance-wash-core-coil-like-drama
+bip_39_word_dash_7: balance-wash-core-coil-like-drama-cabin
+bip_39_word_dash_8: balance-wash-core-coil-like-drama-cabin-neutral
+bip_39_word_dash_9: balance-wash-core-coil-like-drama-cabin-neutral-shock
+bip_39_word_new_br_1: balance
+bip_39_word_new_br_10: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen
+bip_39_word_new_br_11: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet
+bip_39_word_new_br_12: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock<br>hen<br>wet<br>alien
+bip_39_word_new_br_2: balance<br>wash
+bip_39_word_new_br_3: balance<br>wash<br>core
+bip_39_word_new_br_4: balance<br>wash<br>core<br>coil
+bip_39_word_new_br_5: balance<br>wash<br>core<br>coil<br>like
+bip_39_word_new_br_6: balance<br>wash<br>core<br>coil<br>like<br>drama
+bip_39_word_new_br_7: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin
+bip_39_word_new_br_8: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral
+bip_39_word_new_br_9: balance<br>wash<br>core<br>coil<br>like<br>drama<br>cabin<br>neutral<br>shock
+bip_39_word_new_line_1: balance
+bip_39_word_new_line_10: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin
+
+  neutral
+
+  shock
+
+  hen'
+bip_39_word_new_line_11: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin
+
+  neutral
+
+  shock
+
+  hen
+
+  wet'
+bip_39_word_new_line_12: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin
+
+  neutral
+
+  shock
+
+  hen
+
+  wet
+
+  alien'
+bip_39_word_new_line_2: 'balance
+
+  wash'
+bip_39_word_new_line_3: 'balance
+
+  wash
+
+  core'
+bip_39_word_new_line_4: 'balance
+
+  wash
+
+  core
+
+  coil'
+bip_39_word_new_line_5: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like'
+bip_39_word_new_line_6: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama'
+bip_39_word_new_line_7: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin'
+bip_39_word_new_line_8: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin
+
+  neutral'
+bip_39_word_new_line_9: 'balance
+
+  wash
+
+  core
+
+  coil
+
+  like
+
+  drama
+
+  cabin
+
+  neutral
+
+  shock'
+bip_39_word_no_space_1: balance
+bip_39_word_no_space_10: balancewashcorecoillikedramacabinneutralshockhen
+bip_39_word_no_space_11: balancewashcorecoillikedramacabinneutralshockhenwet
+bip_39_word_no_space_12: balancewashcorecoillikedramacabinneutralshockhenwetalien
+bip_39_word_no_space_2: balancewash
+bip_39_word_no_space_3: balancewashcore
+bip_39_word_no_space_4: balancewashcorecoil
+bip_39_word_no_space_5: balancewashcorecoillike
+bip_39_word_no_space_6: balancewashcorecoillikedrama
+bip_39_word_no_space_7: balancewashcorecoillikedramacabin
+bip_39_word_no_space_8: balancewashcorecoillikedramacabinneutral
+bip_39_word_no_space_9: balancewashcorecoillikedramacabinneutralshock
+bip_39_word_space_0:
+- balance
+- wash
+- core
+- coil
+- like
+- drama
+- cabin
+- neutral
+- shock
+- hen
+- wet
+- alien
+bip_39_word_space_1: balance
+bip_39_word_space_10: balance wash core coil like drama cabin neutral shock hen
+bip_39_word_space_11: balance wash core coil like drama cabin neutral shock hen wet
+bip_39_word_space_12: balance wash core coil like drama cabin neutral shock hen wet
+  alien
+bip_39_word_space_2: balance wash
+bip_39_word_space_3: balance wash core
+bip_39_word_space_4: balance wash core coil
+bip_39_word_space_5: balance wash core coil like
+bip_39_word_space_6: balance wash core coil like drama
+bip_39_word_space_7: balance wash core coil like drama cabin
+bip_39_word_space_8: balance wash core coil like drama cabin neutral
+bip_39_word_space_9: balance wash core coil like drama cabin neutral shock
+bip_39_word_underscore_1: balance
+bip_39_word_underscore_10: balance_wash_core_coil_like_drama_cabin_neutral_shock_hen
+bip_39_word_underscore_11: balance_wash_core_coil_like_drama_cabin_neutral_shock_hen_wet
+bip_39_word_underscore_12: balance_wash_core_coil_like_drama_cabin_neutral_shock_hen_wet_alien
+bip_39_word_underscore_2: balance_wash
+bip_39_word_underscore_3: balance_wash_core
+bip_39_word_underscore_4: balance_wash_core_coil
+bip_39_word_underscore_5: balance_wash_core_coil_like
+bip_39_word_underscore_6: balance_wash_core_coil_like_drama
+bip_39_word_underscore_7: balance_wash_core_coil_like_drama_cabin
+bip_39_word_underscore_8: balance_wash_core_coil_like_drama_cabin_neutral
+bip_39_word_underscore_9: balance_wash_core_coil_like_drama_cabin_neutral_shock
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_circle_11_03__doughnut_5
 id_no_color: 1103doughnut5
 id_no_size: 11_03__doughnut_5
 id_no_type: circle_11_03__doughnut_5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_11_03__doughnut_5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_11_03__doughnut_5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_circle_11_03__doughnut_5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203z7dm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203z7dm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203z7dm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 1103Doughnut5
 name_no_size: 11 03  Doughnut 5
 name_no_size_short: 11 03  Doughnut 5
 name_no_type: Circle 11 03  Doughnut 5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_circle_11_03__doughnut_5
 oomp_word: maple_leaf two clap
 oomp_word_emoji: ':maple_leaf: :two: :clap:'

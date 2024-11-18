@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fiscal
+bip_39_word_dash_10: fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent
+bip_39_word_dash_11: fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent-thing
+bip_39_word_dash_12: fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage-absent-thing-act
+bip_39_word_dash_2: fiscal-distance
+bip_39_word_dash_3: fiscal-distance-odor
+bip_39_word_dash_4: fiscal-distance-odor-silver
+bip_39_word_dash_5: fiscal-distance-odor-silver-inspire
+bip_39_word_dash_6: fiscal-distance-odor-silver-inspire-giggle
+bip_39_word_dash_7: fiscal-distance-odor-silver-inspire-giggle-bracket
+bip_39_word_dash_8: fiscal-distance-odor-silver-inspire-giggle-bracket-decade
+bip_39_word_dash_9: fiscal-distance-odor-silver-inspire-giggle-bracket-decade-engage
+bip_39_word_new_br_1: fiscal
+bip_39_word_new_br_10: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage<br>absent
+bip_39_word_new_br_11: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage<br>absent<br>thing
+bip_39_word_new_br_12: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage<br>absent<br>thing<br>act
+bip_39_word_new_br_2: fiscal<br>distance
+bip_39_word_new_br_3: fiscal<br>distance<br>odor
+bip_39_word_new_br_4: fiscal<br>distance<br>odor<br>silver
+bip_39_word_new_br_5: fiscal<br>distance<br>odor<br>silver<br>inspire
+bip_39_word_new_br_6: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle
+bip_39_word_new_br_7: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket
+bip_39_word_new_br_8: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade
+bip_39_word_new_br_9: fiscal<br>distance<br>odor<br>silver<br>inspire<br>giggle<br>bracket<br>decade<br>engage
+bip_39_word_new_line_1: fiscal
+bip_39_word_new_line_10: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket
+
+  decade
+
+  engage
+
+  absent'
+bip_39_word_new_line_11: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket
+
+  decade
+
+  engage
+
+  absent
+
+  thing'
+bip_39_word_new_line_12: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket
+
+  decade
+
+  engage
+
+  absent
+
+  thing
+
+  act'
+bip_39_word_new_line_2: 'fiscal
+
+  distance'
+bip_39_word_new_line_3: 'fiscal
+
+  distance
+
+  odor'
+bip_39_word_new_line_4: 'fiscal
+
+  distance
+
+  odor
+
+  silver'
+bip_39_word_new_line_5: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire'
+bip_39_word_new_line_6: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle'
+bip_39_word_new_line_7: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket'
+bip_39_word_new_line_8: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket
+
+  decade'
+bip_39_word_new_line_9: 'fiscal
+
+  distance
+
+  odor
+
+  silver
+
+  inspire
+
+  giggle
+
+  bracket
+
+  decade
+
+  engage'
+bip_39_word_no_space_1: fiscal
+bip_39_word_no_space_10: fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsent
+bip_39_word_no_space_11: fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsentthing
+bip_39_word_no_space_12: fiscaldistanceodorsilverinspiregigglebracketdecadeengageabsentthingact
+bip_39_word_no_space_2: fiscaldistance
+bip_39_word_no_space_3: fiscaldistanceodor
+bip_39_word_no_space_4: fiscaldistanceodorsilver
+bip_39_word_no_space_5: fiscaldistanceodorsilverinspire
+bip_39_word_no_space_6: fiscaldistanceodorsilverinspiregiggle
+bip_39_word_no_space_7: fiscaldistanceodorsilverinspiregigglebracket
+bip_39_word_no_space_8: fiscaldistanceodorsilverinspiregigglebracketdecade
+bip_39_word_no_space_9: fiscaldistanceodorsilverinspiregigglebracketdecadeengage
+bip_39_word_space_0:
+- fiscal
+- distance
+- odor
+- silver
+- inspire
+- giggle
+- bracket
+- decade
+- engage
+- absent
+- thing
+- act
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal distance odor silver inspire giggle bracket decade engage
+  absent
+bip_39_word_space_11: fiscal distance odor silver inspire giggle bracket decade engage
+  absent thing
+bip_39_word_space_12: fiscal distance odor silver inspire giggle bracket decade engage
+  absent thing act
+bip_39_word_space_2: fiscal distance
+bip_39_word_space_3: fiscal distance odor
+bip_39_word_space_4: fiscal distance odor silver
+bip_39_word_space_5: fiscal distance odor silver inspire
+bip_39_word_space_6: fiscal distance odor silver inspire giggle
+bip_39_word_space_7: fiscal distance odor silver inspire giggle bracket
+bip_39_word_space_8: fiscal distance odor silver inspire giggle bracket decade
+bip_39_word_space_9: fiscal distance odor silver inspire giggle bracket decade engage
+bip_39_word_underscore_1: fiscal
+bip_39_word_underscore_10: fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent
+bip_39_word_underscore_11: fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent_thing
+bip_39_word_underscore_12: fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage_absent_thing_act
+bip_39_word_underscore_2: fiscal_distance
+bip_39_word_underscore_3: fiscal_distance_odor
+bip_39_word_underscore_4: fiscal_distance_odor_silver
+bip_39_word_underscore_5: fiscal_distance_odor_silver_inspire
+bip_39_word_underscore_6: fiscal_distance_odor_silver_inspire_giggle
+bip_39_word_underscore_7: fiscal_distance_odor_silver_inspire_giggle_bracket
+bip_39_word_underscore_8: fiscal_distance_odor_silver_inspire_giggle_bracket_decade
+bip_39_word_underscore_9: fiscal_distance_odor_silver_inspire_giggle_bracket_decade_engage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_03_13_09
 id_no_color: 031309
 id_no_size: 03_13_09
 id_no_type: tray_03_13_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_13_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201jubk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201jubk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201jubk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 031309
 name_no_size: 03 13 09
 name_no_size_short: 03 13 09
 name_no_type: Tray 03 13 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_13_09
 oomp_word: nose doughnut racehorse
 oomp_word_emoji: ':nose: :doughnut: :racehorse:'

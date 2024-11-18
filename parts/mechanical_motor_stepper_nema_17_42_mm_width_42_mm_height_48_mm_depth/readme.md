@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Mechanical Motor Stepper Nema 17 42 mm Width 42 mm Height 48 mm Depth
+* name_short: 
 ### id
 * oomp_id: mechanical_motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
   * classification: mechanical

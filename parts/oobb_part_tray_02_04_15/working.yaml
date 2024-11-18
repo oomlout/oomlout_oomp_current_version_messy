@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bonus
+bip_39_word_dash_10: bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect
+bip_39_word_dash_11: bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect-odor
+bip_39_word_dash_12: bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill-protect-odor-arctic
+bip_39_word_dash_2: bonus-warfare
+bip_39_word_dash_3: bonus-warfare-erosion
+bip_39_word_dash_4: bonus-warfare-erosion-charge
+bip_39_word_dash_5: bonus-warfare-erosion-charge-blush
+bip_39_word_dash_6: bonus-warfare-erosion-charge-blush-nurse
+bip_39_word_dash_7: bonus-warfare-erosion-charge-blush-nurse-equal
+bip_39_word_dash_8: bonus-warfare-erosion-charge-blush-nurse-equal-limb
+bip_39_word_dash_9: bonus-warfare-erosion-charge-blush-nurse-equal-limb-hill
+bip_39_word_new_br_1: bonus
+bip_39_word_new_br_10: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect
+bip_39_word_new_br_11: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect<br>odor
+bip_39_word_new_br_12: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill<br>protect<br>odor<br>arctic
+bip_39_word_new_br_2: bonus<br>warfare
+bip_39_word_new_br_3: bonus<br>warfare<br>erosion
+bip_39_word_new_br_4: bonus<br>warfare<br>erosion<br>charge
+bip_39_word_new_br_5: bonus<br>warfare<br>erosion<br>charge<br>blush
+bip_39_word_new_br_6: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse
+bip_39_word_new_br_7: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal
+bip_39_word_new_br_8: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb
+bip_39_word_new_br_9: bonus<br>warfare<br>erosion<br>charge<br>blush<br>nurse<br>equal<br>limb<br>hill
+bip_39_word_new_line_1: bonus
+bip_39_word_new_line_10: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal
+
+  limb
+
+  hill
+
+  protect'
+bip_39_word_new_line_11: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal
+
+  limb
+
+  hill
+
+  protect
+
+  odor'
+bip_39_word_new_line_12: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal
+
+  limb
+
+  hill
+
+  protect
+
+  odor
+
+  arctic'
+bip_39_word_new_line_2: 'bonus
+
+  warfare'
+bip_39_word_new_line_3: 'bonus
+
+  warfare
+
+  erosion'
+bip_39_word_new_line_4: 'bonus
+
+  warfare
+
+  erosion
+
+  charge'
+bip_39_word_new_line_5: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush'
+bip_39_word_new_line_6: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse'
+bip_39_word_new_line_7: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal'
+bip_39_word_new_line_8: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal
+
+  limb'
+bip_39_word_new_line_9: 'bonus
+
+  warfare
+
+  erosion
+
+  charge
+
+  blush
+
+  nurse
+
+  equal
+
+  limb
+
+  hill'
+bip_39_word_no_space_1: bonus
+bip_39_word_no_space_10: bonuswarfareerosionchargeblushnurseequallimbhillprotect
+bip_39_word_no_space_11: bonuswarfareerosionchargeblushnurseequallimbhillprotectodor
+bip_39_word_no_space_12: bonuswarfareerosionchargeblushnurseequallimbhillprotectodorarctic
+bip_39_word_no_space_2: bonuswarfare
+bip_39_word_no_space_3: bonuswarfareerosion
+bip_39_word_no_space_4: bonuswarfareerosioncharge
+bip_39_word_no_space_5: bonuswarfareerosionchargeblush
+bip_39_word_no_space_6: bonuswarfareerosionchargeblushnurse
+bip_39_word_no_space_7: bonuswarfareerosionchargeblushnurseequal
+bip_39_word_no_space_8: bonuswarfareerosionchargeblushnurseequallimb
+bip_39_word_no_space_9: bonuswarfareerosionchargeblushnurseequallimbhill
+bip_39_word_space_0:
+- bonus
+- warfare
+- erosion
+- charge
+- blush
+- nurse
+- equal
+- limb
+- hill
+- protect
+- odor
+- arctic
+bip_39_word_space_1: bonus
+bip_39_word_space_10: bonus warfare erosion charge blush nurse equal limb hill protect
+bip_39_word_space_11: bonus warfare erosion charge blush nurse equal limb hill protect
+  odor
+bip_39_word_space_12: bonus warfare erosion charge blush nurse equal limb hill protect
+  odor arctic
+bip_39_word_space_2: bonus warfare
+bip_39_word_space_3: bonus warfare erosion
+bip_39_word_space_4: bonus warfare erosion charge
+bip_39_word_space_5: bonus warfare erosion charge blush
+bip_39_word_space_6: bonus warfare erosion charge blush nurse
+bip_39_word_space_7: bonus warfare erosion charge blush nurse equal
+bip_39_word_space_8: bonus warfare erosion charge blush nurse equal limb
+bip_39_word_space_9: bonus warfare erosion charge blush nurse equal limb hill
+bip_39_word_underscore_1: bonus
+bip_39_word_underscore_10: bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect
+bip_39_word_underscore_11: bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect_odor
+bip_39_word_underscore_12: bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill_protect_odor_arctic
+bip_39_word_underscore_2: bonus_warfare
+bip_39_word_underscore_3: bonus_warfare_erosion
+bip_39_word_underscore_4: bonus_warfare_erosion_charge
+bip_39_word_underscore_5: bonus_warfare_erosion_charge_blush
+bip_39_word_underscore_6: bonus_warfare_erosion_charge_blush_nurse
+bip_39_word_underscore_7: bonus_warfare_erosion_charge_blush_nurse_equal
+bip_39_word_underscore_8: bonus_warfare_erosion_charge_blush_nurse_equal_limb
+bip_39_word_underscore_9: bonus_warfare_erosion_charge_blush_nurse_equal_limb_hill
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_04_15
 id_no_color: '020415'
 id_no_size: '02_04_15'
 id_no_type: tray_02_04_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_04_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_04_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_04_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206zpm3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206zpm3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206zpm3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020415'
 name_no_size: 02 04 15
 name_no_size_short: 02 04 15
 name_no_type: Tray 02 04 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_04_15
 oomp_word: eyeglasses cat chestnut
 oomp_word_emoji: ':eyeglasses: :cat: :chestnut:'

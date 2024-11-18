@@ -1,3 +1,221 @@
+bip_39_word_dash_1: jump
+bip_39_word_dash_10: jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow
+bip_39_word_dash_11: jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow-spoon
+bip_39_word_dash_12: jump-fashion-weekend-trip-maid-pair-pull-onion-plug-borrow-spoon-ahead
+bip_39_word_dash_2: jump-fashion
+bip_39_word_dash_3: jump-fashion-weekend
+bip_39_word_dash_4: jump-fashion-weekend-trip
+bip_39_word_dash_5: jump-fashion-weekend-trip-maid
+bip_39_word_dash_6: jump-fashion-weekend-trip-maid-pair
+bip_39_word_dash_7: jump-fashion-weekend-trip-maid-pair-pull
+bip_39_word_dash_8: jump-fashion-weekend-trip-maid-pair-pull-onion
+bip_39_word_dash_9: jump-fashion-weekend-trip-maid-pair-pull-onion-plug
+bip_39_word_new_br_1: jump
+bip_39_word_new_br_10: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow
+bip_39_word_new_br_11: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow<br>spoon
+bip_39_word_new_br_12: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug<br>borrow<br>spoon<br>ahead
+bip_39_word_new_br_2: jump<br>fashion
+bip_39_word_new_br_3: jump<br>fashion<br>weekend
+bip_39_word_new_br_4: jump<br>fashion<br>weekend<br>trip
+bip_39_word_new_br_5: jump<br>fashion<br>weekend<br>trip<br>maid
+bip_39_word_new_br_6: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair
+bip_39_word_new_br_7: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull
+bip_39_word_new_br_8: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion
+bip_39_word_new_br_9: jump<br>fashion<br>weekend<br>trip<br>maid<br>pair<br>pull<br>onion<br>plug
+bip_39_word_new_line_1: jump
+bip_39_word_new_line_10: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull
+
+  onion
+
+  plug
+
+  borrow'
+bip_39_word_new_line_11: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull
+
+  onion
+
+  plug
+
+  borrow
+
+  spoon'
+bip_39_word_new_line_12: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull
+
+  onion
+
+  plug
+
+  borrow
+
+  spoon
+
+  ahead'
+bip_39_word_new_line_2: 'jump
+
+  fashion'
+bip_39_word_new_line_3: 'jump
+
+  fashion
+
+  weekend'
+bip_39_word_new_line_4: 'jump
+
+  fashion
+
+  weekend
+
+  trip'
+bip_39_word_new_line_5: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid'
+bip_39_word_new_line_6: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair'
+bip_39_word_new_line_7: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull'
+bip_39_word_new_line_8: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull
+
+  onion'
+bip_39_word_new_line_9: 'jump
+
+  fashion
+
+  weekend
+
+  trip
+
+  maid
+
+  pair
+
+  pull
+
+  onion
+
+  plug'
+bip_39_word_no_space_1: jump
+bip_39_word_no_space_10: jumpfashionweekendtripmaidpairpullonionplugborrow
+bip_39_word_no_space_11: jumpfashionweekendtripmaidpairpullonionplugborrowspoon
+bip_39_word_no_space_12: jumpfashionweekendtripmaidpairpullonionplugborrowspoonahead
+bip_39_word_no_space_2: jumpfashion
+bip_39_word_no_space_3: jumpfashionweekend
+bip_39_word_no_space_4: jumpfashionweekendtrip
+bip_39_word_no_space_5: jumpfashionweekendtripmaid
+bip_39_word_no_space_6: jumpfashionweekendtripmaidpair
+bip_39_word_no_space_7: jumpfashionweekendtripmaidpairpull
+bip_39_word_no_space_8: jumpfashionweekendtripmaidpairpullonion
+bip_39_word_no_space_9: jumpfashionweekendtripmaidpairpullonionplug
+bip_39_word_space_0:
+- jump
+- fashion
+- weekend
+- trip
+- maid
+- pair
+- pull
+- onion
+- plug
+- borrow
+- spoon
+- ahead
+bip_39_word_space_1: jump
+bip_39_word_space_10: jump fashion weekend trip maid pair pull onion plug borrow
+bip_39_word_space_11: jump fashion weekend trip maid pair pull onion plug borrow spoon
+bip_39_word_space_12: jump fashion weekend trip maid pair pull onion plug borrow spoon
+  ahead
+bip_39_word_space_2: jump fashion
+bip_39_word_space_3: jump fashion weekend
+bip_39_word_space_4: jump fashion weekend trip
+bip_39_word_space_5: jump fashion weekend trip maid
+bip_39_word_space_6: jump fashion weekend trip maid pair
+bip_39_word_space_7: jump fashion weekend trip maid pair pull
+bip_39_word_space_8: jump fashion weekend trip maid pair pull onion
+bip_39_word_space_9: jump fashion weekend trip maid pair pull onion plug
+bip_39_word_underscore_1: jump
+bip_39_word_underscore_10: jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow
+bip_39_word_underscore_11: jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow_spoon
+bip_39_word_underscore_12: jump_fashion_weekend_trip_maid_pair_pull_onion_plug_borrow_spoon_ahead
+bip_39_word_underscore_2: jump_fashion
+bip_39_word_underscore_3: jump_fashion_weekend
+bip_39_word_underscore_4: jump_fashion_weekend_trip
+bip_39_word_underscore_5: jump_fashion_weekend_trip_maid
+bip_39_word_underscore_6: jump_fashion_weekend_trip_maid_pair
+bip_39_word_underscore_7: jump_fashion_weekend_trip_maid_pair_pull
+bip_39_word_underscore_8: jump_fashion_weekend_trip_maid_pair_pull_onion
+bip_39_word_underscore_9: jump_fashion_weekend_trip_maid_pair_pull_onion_plug
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -121,7 +339,14 @@ id_no_class: ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 id_no_color: accelerometer_sensortek_stk8321
 id_no_size: sensor_accelerometer_sensortek_stk8321
 id_no_type: lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039hqe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039hqe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039hqe
 manufacturer: sensortek
 manufacturer_capital: Sensortek
 manufacturer_first_letter: s
@@ -173,6 +398,7 @@ name_no_color: Accelerometer Sensortek Stk8321
 name_no_size: Sensor Accelerometer Sensortek Stk8321
 name_no_size_short: Sensor Accelerometer Sensortek Stk8321
 name_no_type: Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 oomp_word: fish headphones sleeping
 oomp_word_emoji: ':fish: :headphones: :sleeping:'

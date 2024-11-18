@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6900 Series 6919 Size 95 mm ID 130 mm OD 18 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6900_series_6919_size_95_mm_id_130_mm_od_18_mm_depth
   * classification: hardware

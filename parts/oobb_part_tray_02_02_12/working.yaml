@@ -1,3 +1,223 @@
+bip_39_word_dash_1: energy
+bip_39_word_dash_10: energy-nature-tomorrow-present-blue-argue-twelve-token-drama-cabin
+bip_39_word_dash_11: energy-nature-tomorrow-present-blue-argue-twelve-token-drama-cabin-jazz
+bip_39_word_dash_12: energy-nature-tomorrow-present-blue-argue-twelve-token-drama-cabin-jazz-already
+bip_39_word_dash_2: energy-nature
+bip_39_word_dash_3: energy-nature-tomorrow
+bip_39_word_dash_4: energy-nature-tomorrow-present
+bip_39_word_dash_5: energy-nature-tomorrow-present-blue
+bip_39_word_dash_6: energy-nature-tomorrow-present-blue-argue
+bip_39_word_dash_7: energy-nature-tomorrow-present-blue-argue-twelve
+bip_39_word_dash_8: energy-nature-tomorrow-present-blue-argue-twelve-token
+bip_39_word_dash_9: energy-nature-tomorrow-present-blue-argue-twelve-token-drama
+bip_39_word_new_br_1: energy
+bip_39_word_new_br_10: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve<br>token<br>drama<br>cabin
+bip_39_word_new_br_11: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve<br>token<br>drama<br>cabin<br>jazz
+bip_39_word_new_br_12: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve<br>token<br>drama<br>cabin<br>jazz<br>already
+bip_39_word_new_br_2: energy<br>nature
+bip_39_word_new_br_3: energy<br>nature<br>tomorrow
+bip_39_word_new_br_4: energy<br>nature<br>tomorrow<br>present
+bip_39_word_new_br_5: energy<br>nature<br>tomorrow<br>present<br>blue
+bip_39_word_new_br_6: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue
+bip_39_word_new_br_7: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve
+bip_39_word_new_br_8: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve<br>token
+bip_39_word_new_br_9: energy<br>nature<br>tomorrow<br>present<br>blue<br>argue<br>twelve<br>token<br>drama
+bip_39_word_new_line_1: energy
+bip_39_word_new_line_10: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve
+
+  token
+
+  drama
+
+  cabin'
+bip_39_word_new_line_11: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve
+
+  token
+
+  drama
+
+  cabin
+
+  jazz'
+bip_39_word_new_line_12: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve
+
+  token
+
+  drama
+
+  cabin
+
+  jazz
+
+  already'
+bip_39_word_new_line_2: 'energy
+
+  nature'
+bip_39_word_new_line_3: 'energy
+
+  nature
+
+  tomorrow'
+bip_39_word_new_line_4: 'energy
+
+  nature
+
+  tomorrow
+
+  present'
+bip_39_word_new_line_5: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue'
+bip_39_word_new_line_6: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue'
+bip_39_word_new_line_7: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve'
+bip_39_word_new_line_8: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve
+
+  token'
+bip_39_word_new_line_9: 'energy
+
+  nature
+
+  tomorrow
+
+  present
+
+  blue
+
+  argue
+
+  twelve
+
+  token
+
+  drama'
+bip_39_word_no_space_1: energy
+bip_39_word_no_space_10: energynaturetomorrowpresentbluearguetwelvetokendramacabin
+bip_39_word_no_space_11: energynaturetomorrowpresentbluearguetwelvetokendramacabinjazz
+bip_39_word_no_space_12: energynaturetomorrowpresentbluearguetwelvetokendramacabinjazzalready
+bip_39_word_no_space_2: energynature
+bip_39_word_no_space_3: energynaturetomorrow
+bip_39_word_no_space_4: energynaturetomorrowpresent
+bip_39_word_no_space_5: energynaturetomorrowpresentblue
+bip_39_word_no_space_6: energynaturetomorrowpresentblueargue
+bip_39_word_no_space_7: energynaturetomorrowpresentbluearguetwelve
+bip_39_word_no_space_8: energynaturetomorrowpresentbluearguetwelvetoken
+bip_39_word_no_space_9: energynaturetomorrowpresentbluearguetwelvetokendrama
+bip_39_word_space_0:
+- energy
+- nature
+- tomorrow
+- present
+- blue
+- argue
+- twelve
+- token
+- drama
+- cabin
+- jazz
+- already
+bip_39_word_space_1: energy
+bip_39_word_space_10: energy nature tomorrow present blue argue twelve token drama
+  cabin
+bip_39_word_space_11: energy nature tomorrow present blue argue twelve token drama
+  cabin jazz
+bip_39_word_space_12: energy nature tomorrow present blue argue twelve token drama
+  cabin jazz already
+bip_39_word_space_2: energy nature
+bip_39_word_space_3: energy nature tomorrow
+bip_39_word_space_4: energy nature tomorrow present
+bip_39_word_space_5: energy nature tomorrow present blue
+bip_39_word_space_6: energy nature tomorrow present blue argue
+bip_39_word_space_7: energy nature tomorrow present blue argue twelve
+bip_39_word_space_8: energy nature tomorrow present blue argue twelve token
+bip_39_word_space_9: energy nature tomorrow present blue argue twelve token drama
+bip_39_word_underscore_1: energy
+bip_39_word_underscore_10: energy_nature_tomorrow_present_blue_argue_twelve_token_drama_cabin
+bip_39_word_underscore_11: energy_nature_tomorrow_present_blue_argue_twelve_token_drama_cabin_jazz
+bip_39_word_underscore_12: energy_nature_tomorrow_present_blue_argue_twelve_token_drama_cabin_jazz_already
+bip_39_word_underscore_2: energy_nature
+bip_39_word_underscore_3: energy_nature_tomorrow
+bip_39_word_underscore_4: energy_nature_tomorrow_present
+bip_39_word_underscore_5: energy_nature_tomorrow_present_blue
+bip_39_word_underscore_6: energy_nature_tomorrow_present_blue_argue
+bip_39_word_underscore_7: energy_nature_tomorrow_present_blue_argue_twelve
+bip_39_word_underscore_8: energy_nature_tomorrow_present_blue_argue_twelve_token
+bip_39_word_underscore_9: energy_nature_tomorrow_present_blue_argue_twelve_token_drama
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_02_02_12
 id_no_color: '020212'
 id_no_size: '02_02_12'
 id_no_type: tray_02_02_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_02_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_02_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_02_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204hfwn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204hfwn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204hfwn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '020212'
 name_no_size: 02 02 12
 name_no_size_short: 02 02 12
 name_no_type: Tray 02 02 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_02_12
 oomp_word: dolls ambulance honey_pot
 oomp_word_emoji: ':dolls: :ambulance: :honey_pot:'

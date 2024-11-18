@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Company Oomlout Product Prototyping Tin Electronic Heatshrink 2 To 1 Shrink Ratio Mixed Version 1
+* name_short: 
 ### id
 * oomp_id: company_oomlout_product_prototyping_tin_electronic_heatshrink_2_to_1_shrink_ratio_mixed_version_1
   * classification: company_oomlout

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :diamonds: :smile: :smile:
 * md5_6_alpha: 67cht
 * md5_6: 9f0101
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2067cht)
+[2x1](http://192.168.1.242:1112/?label=oomp%2067cht)
+[6x4](http://192.168.1.55:1112/?label=oomp%2067cht)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ trigger |
 | id_no_color | 040303rhm3nmaliexpressdctodcconverterxl600948mmwidth25mmheight |  
 | id_no_size | 04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
 | id_no_type | mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2067cht |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2067cht |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2067cht |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ trigger |
 | name_no_size | 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height |  
 | name_no_size_short | 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25 Mm Height |  
 | name_no_type | Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
 | oomp_word | diamonds smile smile |  
 | oomp_word_emoji | :diamonds: :smile: :smile: |  

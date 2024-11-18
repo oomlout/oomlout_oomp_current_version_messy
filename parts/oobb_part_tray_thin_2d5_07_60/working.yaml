@@ -1,3 +1,222 @@
+bip_39_word_dash_1: light
+bip_39_word_dash_10: light-price-magic-lunar-mask-absorb-device-island-dance-priority
+bip_39_word_dash_11: light-price-magic-lunar-mask-absorb-device-island-dance-priority-jump
+bip_39_word_dash_12: light-price-magic-lunar-mask-absorb-device-island-dance-priority-jump-acoustic
+bip_39_word_dash_2: light-price
+bip_39_word_dash_3: light-price-magic
+bip_39_word_dash_4: light-price-magic-lunar
+bip_39_word_dash_5: light-price-magic-lunar-mask
+bip_39_word_dash_6: light-price-magic-lunar-mask-absorb
+bip_39_word_dash_7: light-price-magic-lunar-mask-absorb-device
+bip_39_word_dash_8: light-price-magic-lunar-mask-absorb-device-island
+bip_39_word_dash_9: light-price-magic-lunar-mask-absorb-device-island-dance
+bip_39_word_new_br_1: light
+bip_39_word_new_br_10: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority
+bip_39_word_new_br_11: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump
+bip_39_word_new_br_12: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance<br>priority<br>jump<br>acoustic
+bip_39_word_new_br_2: light<br>price
+bip_39_word_new_br_3: light<br>price<br>magic
+bip_39_word_new_br_4: light<br>price<br>magic<br>lunar
+bip_39_word_new_br_5: light<br>price<br>magic<br>lunar<br>mask
+bip_39_word_new_br_6: light<br>price<br>magic<br>lunar<br>mask<br>absorb
+bip_39_word_new_br_7: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device
+bip_39_word_new_br_8: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island
+bip_39_word_new_br_9: light<br>price<br>magic<br>lunar<br>mask<br>absorb<br>device<br>island<br>dance
+bip_39_word_new_line_1: light
+bip_39_word_new_line_10: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device
+
+  island
+
+  dance
+
+  priority'
+bip_39_word_new_line_11: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device
+
+  island
+
+  dance
+
+  priority
+
+  jump'
+bip_39_word_new_line_12: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device
+
+  island
+
+  dance
+
+  priority
+
+  jump
+
+  acoustic'
+bip_39_word_new_line_2: 'light
+
+  price'
+bip_39_word_new_line_3: 'light
+
+  price
+
+  magic'
+bip_39_word_new_line_4: 'light
+
+  price
+
+  magic
+
+  lunar'
+bip_39_word_new_line_5: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask'
+bip_39_word_new_line_6: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb'
+bip_39_word_new_line_7: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device'
+bip_39_word_new_line_8: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device
+
+  island'
+bip_39_word_new_line_9: 'light
+
+  price
+
+  magic
+
+  lunar
+
+  mask
+
+  absorb
+
+  device
+
+  island
+
+  dance'
+bip_39_word_no_space_1: light
+bip_39_word_no_space_10: lightpricemagiclunarmaskabsorbdeviceislanddancepriority
+bip_39_word_no_space_11: lightpricemagiclunarmaskabsorbdeviceislanddancepriorityjump
+bip_39_word_no_space_12: lightpricemagiclunarmaskabsorbdeviceislanddancepriorityjumpacoustic
+bip_39_word_no_space_2: lightprice
+bip_39_word_no_space_3: lightpricemagic
+bip_39_word_no_space_4: lightpricemagiclunar
+bip_39_word_no_space_5: lightpricemagiclunarmask
+bip_39_word_no_space_6: lightpricemagiclunarmaskabsorb
+bip_39_word_no_space_7: lightpricemagiclunarmaskabsorbdevice
+bip_39_word_no_space_8: lightpricemagiclunarmaskabsorbdeviceisland
+bip_39_word_no_space_9: lightpricemagiclunarmaskabsorbdeviceislanddance
+bip_39_word_space_0:
+- light
+- price
+- magic
+- lunar
+- mask
+- absorb
+- device
+- island
+- dance
+- priority
+- jump
+- acoustic
+bip_39_word_space_1: light
+bip_39_word_space_10: light price magic lunar mask absorb device island dance priority
+bip_39_word_space_11: light price magic lunar mask absorb device island dance priority
+  jump
+bip_39_word_space_12: light price magic lunar mask absorb device island dance priority
+  jump acoustic
+bip_39_word_space_2: light price
+bip_39_word_space_3: light price magic
+bip_39_word_space_4: light price magic lunar
+bip_39_word_space_5: light price magic lunar mask
+bip_39_word_space_6: light price magic lunar mask absorb
+bip_39_word_space_7: light price magic lunar mask absorb device
+bip_39_word_space_8: light price magic lunar mask absorb device island
+bip_39_word_space_9: light price magic lunar mask absorb device island dance
+bip_39_word_underscore_1: light
+bip_39_word_underscore_10: light_price_magic_lunar_mask_absorb_device_island_dance_priority
+bip_39_word_underscore_11: light_price_magic_lunar_mask_absorb_device_island_dance_priority_jump
+bip_39_word_underscore_12: light_price_magic_lunar_mask_absorb_device_island_dance_priority_jump_acoustic
+bip_39_word_underscore_2: light_price
+bip_39_word_underscore_3: light_price_magic
+bip_39_word_underscore_4: light_price_magic_lunar
+bip_39_word_underscore_5: light_price_magic_lunar_mask
+bip_39_word_underscore_6: light_price_magic_lunar_mask_absorb
+bip_39_word_underscore_7: light_price_magic_lunar_mask_absorb_device
+bip_39_word_underscore_8: light_price_magic_lunar_mask_absorb_device_island
+bip_39_word_underscore_9: light_price_magic_lunar_mask_absorb_device_island_dance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_07_60
 id_no_color: 2d50760
 id_no_size: 2d5_07_60
 id_no_type: tray_thin_2d5_07_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_07_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_07_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_07_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201a9yi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201a9yi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201a9yi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50760
 name_no_size: 2D5 07 60
 name_no_size_short: 2D5 07 60
 name_no_type: Tray Thin 2D5 07 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_07_60
 oomp_word: skull ticket tractor
 oomp_word_emoji: ':skull: :ticket: :tractor:'

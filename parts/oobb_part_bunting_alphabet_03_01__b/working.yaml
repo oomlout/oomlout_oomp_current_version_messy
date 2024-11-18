@@ -1,3 +1,223 @@
+bip_39_word_dash_1: sadness
+bip_39_word_dash_10: sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail
+bip_39_word_dash_11: sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail-enable
+bip_39_word_dash_12: sadness-include-drama-cheap-immense-suspect-juice-apology-wood-tail-enable-average
+bip_39_word_dash_2: sadness-include
+bip_39_word_dash_3: sadness-include-drama
+bip_39_word_dash_4: sadness-include-drama-cheap
+bip_39_word_dash_5: sadness-include-drama-cheap-immense
+bip_39_word_dash_6: sadness-include-drama-cheap-immense-suspect
+bip_39_word_dash_7: sadness-include-drama-cheap-immense-suspect-juice
+bip_39_word_dash_8: sadness-include-drama-cheap-immense-suspect-juice-apology
+bip_39_word_dash_9: sadness-include-drama-cheap-immense-suspect-juice-apology-wood
+bip_39_word_new_br_1: sadness
+bip_39_word_new_br_10: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail
+bip_39_word_new_br_11: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail<br>enable
+bip_39_word_new_br_12: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood<br>tail<br>enable<br>average
+bip_39_word_new_br_2: sadness<br>include
+bip_39_word_new_br_3: sadness<br>include<br>drama
+bip_39_word_new_br_4: sadness<br>include<br>drama<br>cheap
+bip_39_word_new_br_5: sadness<br>include<br>drama<br>cheap<br>immense
+bip_39_word_new_br_6: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect
+bip_39_word_new_br_7: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice
+bip_39_word_new_br_8: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology
+bip_39_word_new_br_9: sadness<br>include<br>drama<br>cheap<br>immense<br>suspect<br>juice<br>apology<br>wood
+bip_39_word_new_line_1: sadness
+bip_39_word_new_line_10: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice
+
+  apology
+
+  wood
+
+  tail'
+bip_39_word_new_line_11: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice
+
+  apology
+
+  wood
+
+  tail
+
+  enable'
+bip_39_word_new_line_12: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice
+
+  apology
+
+  wood
+
+  tail
+
+  enable
+
+  average'
+bip_39_word_new_line_2: 'sadness
+
+  include'
+bip_39_word_new_line_3: 'sadness
+
+  include
+
+  drama'
+bip_39_word_new_line_4: 'sadness
+
+  include
+
+  drama
+
+  cheap'
+bip_39_word_new_line_5: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense'
+bip_39_word_new_line_6: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect'
+bip_39_word_new_line_7: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice'
+bip_39_word_new_line_8: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice
+
+  apology'
+bip_39_word_new_line_9: 'sadness
+
+  include
+
+  drama
+
+  cheap
+
+  immense
+
+  suspect
+
+  juice
+
+  apology
+
+  wood'
+bip_39_word_no_space_1: sadness
+bip_39_word_no_space_10: sadnessincludedramacheapimmensesuspectjuiceapologywoodtail
+bip_39_word_no_space_11: sadnessincludedramacheapimmensesuspectjuiceapologywoodtailenable
+bip_39_word_no_space_12: sadnessincludedramacheapimmensesuspectjuiceapologywoodtailenableaverage
+bip_39_word_no_space_2: sadnessinclude
+bip_39_word_no_space_3: sadnessincludedrama
+bip_39_word_no_space_4: sadnessincludedramacheap
+bip_39_word_no_space_5: sadnessincludedramacheapimmense
+bip_39_word_no_space_6: sadnessincludedramacheapimmensesuspect
+bip_39_word_no_space_7: sadnessincludedramacheapimmensesuspectjuice
+bip_39_word_no_space_8: sadnessincludedramacheapimmensesuspectjuiceapology
+bip_39_word_no_space_9: sadnessincludedramacheapimmensesuspectjuiceapologywood
+bip_39_word_space_0:
+- sadness
+- include
+- drama
+- cheap
+- immense
+- suspect
+- juice
+- apology
+- wood
+- tail
+- enable
+- average
+bip_39_word_space_1: sadness
+bip_39_word_space_10: sadness include drama cheap immense suspect juice apology wood
+  tail
+bip_39_word_space_11: sadness include drama cheap immense suspect juice apology wood
+  tail enable
+bip_39_word_space_12: sadness include drama cheap immense suspect juice apology wood
+  tail enable average
+bip_39_word_space_2: sadness include
+bip_39_word_space_3: sadness include drama
+bip_39_word_space_4: sadness include drama cheap
+bip_39_word_space_5: sadness include drama cheap immense
+bip_39_word_space_6: sadness include drama cheap immense suspect
+bip_39_word_space_7: sadness include drama cheap immense suspect juice
+bip_39_word_space_8: sadness include drama cheap immense suspect juice apology
+bip_39_word_space_9: sadness include drama cheap immense suspect juice apology wood
+bip_39_word_underscore_1: sadness
+bip_39_word_underscore_10: sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail
+bip_39_word_underscore_11: sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail_enable
+bip_39_word_underscore_12: sadness_include_drama_cheap_immense_suspect_juice_apology_wood_tail_enable_average
+bip_39_word_underscore_2: sadness_include
+bip_39_word_underscore_3: sadness_include_drama
+bip_39_word_underscore_4: sadness_include_drama_cheap
+bip_39_word_underscore_5: sadness_include_drama_cheap_immense
+bip_39_word_underscore_6: sadness_include_drama_cheap_immense_suspect
+bip_39_word_underscore_7: sadness_include_drama_cheap_immense_suspect_juice
+bip_39_word_underscore_8: sadness_include_drama_cheap_immense_suspect_juice_apology
+bip_39_word_underscore_9: sadness_include_drama_cheap_immense_suspect_juice_apology_wood
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_03_01__b
 id_no_color: 0301b
 id_no_size: 03_01__b
 id_no_type: bunting_alphabet_03_01__b
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__b
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__b
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__b
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209us3b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209us3b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209us3b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0301B
 name_no_size: 03 01  B
 name_no_size_short: 03 01  B
 name_no_type: Bunting Alphabet 03 01  B
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__b
 oomp_word: up paperclip pizza
 oomp_word_emoji: ':up: :paperclip: :pizza:'

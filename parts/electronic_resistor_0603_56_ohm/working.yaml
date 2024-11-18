@@ -1,3 +1,221 @@
+bip_39_word_dash_1: radar
+bip_39_word_dash_10: radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry
+bip_39_word_dash_11: radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry-resist
+bip_39_word_dash_12: radar-neutral-tag-wrist-poet-lava-crime-pilot-fix-cherry-resist-abuse
+bip_39_word_dash_2: radar-neutral
+bip_39_word_dash_3: radar-neutral-tag
+bip_39_word_dash_4: radar-neutral-tag-wrist
+bip_39_word_dash_5: radar-neutral-tag-wrist-poet
+bip_39_word_dash_6: radar-neutral-tag-wrist-poet-lava
+bip_39_word_dash_7: radar-neutral-tag-wrist-poet-lava-crime
+bip_39_word_dash_8: radar-neutral-tag-wrist-poet-lava-crime-pilot
+bip_39_word_dash_9: radar-neutral-tag-wrist-poet-lava-crime-pilot-fix
+bip_39_word_new_br_1: radar
+bip_39_word_new_br_10: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry
+bip_39_word_new_br_11: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry<br>resist
+bip_39_word_new_br_12: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix<br>cherry<br>resist<br>abuse
+bip_39_word_new_br_2: radar<br>neutral
+bip_39_word_new_br_3: radar<br>neutral<br>tag
+bip_39_word_new_br_4: radar<br>neutral<br>tag<br>wrist
+bip_39_word_new_br_5: radar<br>neutral<br>tag<br>wrist<br>poet
+bip_39_word_new_br_6: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava
+bip_39_word_new_br_7: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime
+bip_39_word_new_br_8: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot
+bip_39_word_new_br_9: radar<br>neutral<br>tag<br>wrist<br>poet<br>lava<br>crime<br>pilot<br>fix
+bip_39_word_new_line_1: radar
+bip_39_word_new_line_10: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry'
+bip_39_word_new_line_11: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry
+
+  resist'
+bip_39_word_new_line_12: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix
+
+  cherry
+
+  resist
+
+  abuse'
+bip_39_word_new_line_2: 'radar
+
+  neutral'
+bip_39_word_new_line_3: 'radar
+
+  neutral
+
+  tag'
+bip_39_word_new_line_4: 'radar
+
+  neutral
+
+  tag
+
+  wrist'
+bip_39_word_new_line_5: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet'
+bip_39_word_new_line_6: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava'
+bip_39_word_new_line_7: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime'
+bip_39_word_new_line_8: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot'
+bip_39_word_new_line_9: 'radar
+
+  neutral
+
+  tag
+
+  wrist
+
+  poet
+
+  lava
+
+  crime
+
+  pilot
+
+  fix'
+bip_39_word_no_space_1: radar
+bip_39_word_no_space_10: radarneutraltagwristpoetlavacrimepilotfixcherry
+bip_39_word_no_space_11: radarneutraltagwristpoetlavacrimepilotfixcherryresist
+bip_39_word_no_space_12: radarneutraltagwristpoetlavacrimepilotfixcherryresistabuse
+bip_39_word_no_space_2: radarneutral
+bip_39_word_no_space_3: radarneutraltag
+bip_39_word_no_space_4: radarneutraltagwrist
+bip_39_word_no_space_5: radarneutraltagwristpoet
+bip_39_word_no_space_6: radarneutraltagwristpoetlava
+bip_39_word_no_space_7: radarneutraltagwristpoetlavacrime
+bip_39_word_no_space_8: radarneutraltagwristpoetlavacrimepilot
+bip_39_word_no_space_9: radarneutraltagwristpoetlavacrimepilotfix
+bip_39_word_space_0:
+- radar
+- neutral
+- tag
+- wrist
+- poet
+- lava
+- crime
+- pilot
+- fix
+- cherry
+- resist
+- abuse
+bip_39_word_space_1: radar
+bip_39_word_space_10: radar neutral tag wrist poet lava crime pilot fix cherry
+bip_39_word_space_11: radar neutral tag wrist poet lava crime pilot fix cherry resist
+bip_39_word_space_12: radar neutral tag wrist poet lava crime pilot fix cherry resist
+  abuse
+bip_39_word_space_2: radar neutral
+bip_39_word_space_3: radar neutral tag
+bip_39_word_space_4: radar neutral tag wrist
+bip_39_word_space_5: radar neutral tag wrist poet
+bip_39_word_space_6: radar neutral tag wrist poet lava
+bip_39_word_space_7: radar neutral tag wrist poet lava crime
+bip_39_word_space_8: radar neutral tag wrist poet lava crime pilot
+bip_39_word_space_9: radar neutral tag wrist poet lava crime pilot fix
+bip_39_word_underscore_1: radar
+bip_39_word_underscore_10: radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry
+bip_39_word_underscore_11: radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry_resist
+bip_39_word_underscore_12: radar_neutral_tag_wrist_poet_lava_crime_pilot_fix_cherry_resist_abuse
+bip_39_word_underscore_2: radar_neutral
+bip_39_word_underscore_3: radar_neutral_tag
+bip_39_word_underscore_4: radar_neutral_tag_wrist
+bip_39_word_underscore_5: radar_neutral_tag_wrist_poet
+bip_39_word_underscore_6: radar_neutral_tag_wrist_poet_lava
+bip_39_word_underscore_7: radar_neutral_tag_wrist_poet_lava_crime
+bip_39_word_underscore_8: radar_neutral_tag_wrist_poet_lava_crime_pilot
+bip_39_word_underscore_9: radar_neutral_tag_wrist_poet_lava_crime_pilot_fix
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +314,14 @@ id_no_color: 56ohm
 id_no_size: 56_ohm
 id_no_type: 0603_56_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_56_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_56_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_56_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20rao9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20rao9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20rao9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +375,7 @@ name_no_color: 56Ohm
 name_no_size: 56 Ohm
 name_no_size_short: 56 Ohm
 name_no_type: 0603 56 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0603_56_ohm
 oomp_word: question new_moon lemon
 oomp_word_emoji: ':question: :new_moon: :lemon:'

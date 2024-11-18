@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Mechanical Motor With Encoder 30 mm Diameter Cricut Maker Compatible
+* name_short: 
 ### id
 * oomp_id: mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible
   * classification: mechanical

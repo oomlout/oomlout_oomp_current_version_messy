@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Select Farms British 12 Pork Chipolatas
 
+### name
+* name: Food Meat Sausages Pork Chipolatas
+* name_short: 
 ### id
 * oomp_id: food_meat_sausages_pork_chipolatas
   * classification: food

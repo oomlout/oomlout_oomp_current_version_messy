@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 07 09  56 Teeth Sh M6 Grubscrew M3
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_07_09__56_teeth_sh_m6_grubscrew_m3
   * classification: oobb

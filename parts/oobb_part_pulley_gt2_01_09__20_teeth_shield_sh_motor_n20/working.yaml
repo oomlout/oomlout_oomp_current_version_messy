@@ -1,3 +1,223 @@
+bip_39_word_dash_1: endorse
+bip_39_word_dash_10: endorse-ugly-clerk-defense-winter-hedgehog-suspect-dog-pigeon-mirror
+bip_39_word_dash_11: endorse-ugly-clerk-defense-winter-hedgehog-suspect-dog-pigeon-mirror-rabbit
+bip_39_word_dash_12: endorse-ugly-clerk-defense-winter-hedgehog-suspect-dog-pigeon-mirror-rabbit-armor
+bip_39_word_dash_2: endorse-ugly
+bip_39_word_dash_3: endorse-ugly-clerk
+bip_39_word_dash_4: endorse-ugly-clerk-defense
+bip_39_word_dash_5: endorse-ugly-clerk-defense-winter
+bip_39_word_dash_6: endorse-ugly-clerk-defense-winter-hedgehog
+bip_39_word_dash_7: endorse-ugly-clerk-defense-winter-hedgehog-suspect
+bip_39_word_dash_8: endorse-ugly-clerk-defense-winter-hedgehog-suspect-dog
+bip_39_word_dash_9: endorse-ugly-clerk-defense-winter-hedgehog-suspect-dog-pigeon
+bip_39_word_new_br_1: endorse
+bip_39_word_new_br_10: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror
+bip_39_word_new_br_11: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror<br>rabbit
+bip_39_word_new_br_12: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon<br>mirror<br>rabbit<br>armor
+bip_39_word_new_br_2: endorse<br>ugly
+bip_39_word_new_br_3: endorse<br>ugly<br>clerk
+bip_39_word_new_br_4: endorse<br>ugly<br>clerk<br>defense
+bip_39_word_new_br_5: endorse<br>ugly<br>clerk<br>defense<br>winter
+bip_39_word_new_br_6: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog
+bip_39_word_new_br_7: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect
+bip_39_word_new_br_8: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog
+bip_39_word_new_br_9: endorse<br>ugly<br>clerk<br>defense<br>winter<br>hedgehog<br>suspect<br>dog<br>pigeon
+bip_39_word_new_line_1: endorse
+bip_39_word_new_line_10: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect
+
+  dog
+
+  pigeon
+
+  mirror'
+bip_39_word_new_line_11: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect
+
+  dog
+
+  pigeon
+
+  mirror
+
+  rabbit'
+bip_39_word_new_line_12: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect
+
+  dog
+
+  pigeon
+
+  mirror
+
+  rabbit
+
+  armor'
+bip_39_word_new_line_2: 'endorse
+
+  ugly'
+bip_39_word_new_line_3: 'endorse
+
+  ugly
+
+  clerk'
+bip_39_word_new_line_4: 'endorse
+
+  ugly
+
+  clerk
+
+  defense'
+bip_39_word_new_line_5: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter'
+bip_39_word_new_line_6: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog'
+bip_39_word_new_line_7: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect'
+bip_39_word_new_line_8: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect
+
+  dog'
+bip_39_word_new_line_9: 'endorse
+
+  ugly
+
+  clerk
+
+  defense
+
+  winter
+
+  hedgehog
+
+  suspect
+
+  dog
+
+  pigeon'
+bip_39_word_no_space_1: endorse
+bip_39_word_no_space_10: endorseuglyclerkdefensewinterhedgehogsuspectdogpigeonmirror
+bip_39_word_no_space_11: endorseuglyclerkdefensewinterhedgehogsuspectdogpigeonmirrorrabbit
+bip_39_word_no_space_12: endorseuglyclerkdefensewinterhedgehogsuspectdogpigeonmirrorrabbitarmor
+bip_39_word_no_space_2: endorseugly
+bip_39_word_no_space_3: endorseuglyclerk
+bip_39_word_no_space_4: endorseuglyclerkdefense
+bip_39_word_no_space_5: endorseuglyclerkdefensewinter
+bip_39_word_no_space_6: endorseuglyclerkdefensewinterhedgehog
+bip_39_word_no_space_7: endorseuglyclerkdefensewinterhedgehogsuspect
+bip_39_word_no_space_8: endorseuglyclerkdefensewinterhedgehogsuspectdog
+bip_39_word_no_space_9: endorseuglyclerkdefensewinterhedgehogsuspectdogpigeon
+bip_39_word_space_0:
+- endorse
+- ugly
+- clerk
+- defense
+- winter
+- hedgehog
+- suspect
+- dog
+- pigeon
+- mirror
+- rabbit
+- armor
+bip_39_word_space_1: endorse
+bip_39_word_space_10: endorse ugly clerk defense winter hedgehog suspect dog pigeon
+  mirror
+bip_39_word_space_11: endorse ugly clerk defense winter hedgehog suspect dog pigeon
+  mirror rabbit
+bip_39_word_space_12: endorse ugly clerk defense winter hedgehog suspect dog pigeon
+  mirror rabbit armor
+bip_39_word_space_2: endorse ugly
+bip_39_word_space_3: endorse ugly clerk
+bip_39_word_space_4: endorse ugly clerk defense
+bip_39_word_space_5: endorse ugly clerk defense winter
+bip_39_word_space_6: endorse ugly clerk defense winter hedgehog
+bip_39_word_space_7: endorse ugly clerk defense winter hedgehog suspect
+bip_39_word_space_8: endorse ugly clerk defense winter hedgehog suspect dog
+bip_39_word_space_9: endorse ugly clerk defense winter hedgehog suspect dog pigeon
+bip_39_word_underscore_1: endorse
+bip_39_word_underscore_10: endorse_ugly_clerk_defense_winter_hedgehog_suspect_dog_pigeon_mirror
+bip_39_word_underscore_11: endorse_ugly_clerk_defense_winter_hedgehog_suspect_dog_pigeon_mirror_rabbit
+bip_39_word_underscore_12: endorse_ugly_clerk_defense_winter_hedgehog_suspect_dog_pigeon_mirror_rabbit_armor
+bip_39_word_underscore_2: endorse_ugly
+bip_39_word_underscore_3: endorse_ugly_clerk
+bip_39_word_underscore_4: endorse_ugly_clerk_defense
+bip_39_word_underscore_5: endorse_ugly_clerk_defense_winter
+bip_39_word_underscore_6: endorse_ugly_clerk_defense_winter_hedgehog
+bip_39_word_underscore_7: endorse_ugly_clerk_defense_winter_hedgehog_suspect
+bip_39_word_underscore_8: endorse_ugly_clerk_defense_winter_hedgehog_suspect_dog
+bip_39_word_underscore_9: endorse_ugly_clerk_defense_winter_hedgehog_suspect_dog_pigeon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
 id_no_color: 010920teethshieldshmotorn20
 id_no_size: 01_09__20_teeth_shield_sh_motor_n20
 id_no_type: pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207gtib
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207gtib
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207gtib
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010920Teethshieldshmotorn20
 name_no_size: 01 09  20 Teeth Shield Sh Motor N20
 name_no_size_short: 01 09  20 Teeth Shield Sh Motor N20
 name_no_type: Pulley Gt2 01 09  20 Teeth Shield Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_motor_n20
 oomp_word: egg poodle rose
 oomp_word_emoji: ':egg: :poodle: :rose:'

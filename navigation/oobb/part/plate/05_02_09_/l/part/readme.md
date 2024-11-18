@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 05 02 09  L
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_05_02_09__l
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :penguin: :seven: :dolls:
 * md5_6_alpha: 2ypo2
 * md5_6: 4bf872
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202ypo2)
+[2x1](http://192.168.1.242:1112/?label=oomp%202ypo2)
+[6x4](http://192.168.1.55:1112/?label=oomp%202ypo2)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_09__l) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_09__l)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ trouble |
 | id_no_color | 050209l |  
 | id_no_size | 05_02_09__l |  
 | id_no_type | plate_05_02_09__l |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_09__l |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_09__l |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_09__l |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202ypo2 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202ypo2 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202ypo2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ trouble |
 | name_no_size | 05 02 09  L |  
 | name_no_size_short | 05 02 09  L |  
 | name_no_type | Plate 05 02 09  L |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_05_02_09__l |  
 | oomp_word | penguin seven dolls |  
 | oomp_word_emoji | :penguin: :seven: :dolls: |  

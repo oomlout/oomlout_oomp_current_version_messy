@@ -1,3 +1,222 @@
+bip_39_word_dash_1: busy
+bip_39_word_dash_10: busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife
+bip_39_word_dash_11: busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife-distance
+bip_39_word_dash_12: busy-angle-discover-diesel-loan-swallow-fault-quit-tribe-wife-distance-absorb
+bip_39_word_dash_2: busy-angle
+bip_39_word_dash_3: busy-angle-discover
+bip_39_word_dash_4: busy-angle-discover-diesel
+bip_39_word_dash_5: busy-angle-discover-diesel-loan
+bip_39_word_dash_6: busy-angle-discover-diesel-loan-swallow
+bip_39_word_dash_7: busy-angle-discover-diesel-loan-swallow-fault
+bip_39_word_dash_8: busy-angle-discover-diesel-loan-swallow-fault-quit
+bip_39_word_dash_9: busy-angle-discover-diesel-loan-swallow-fault-quit-tribe
+bip_39_word_new_br_1: busy
+bip_39_word_new_br_10: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife
+bip_39_word_new_br_11: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance
+bip_39_word_new_br_12: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe<br>wife<br>distance<br>absorb
+bip_39_word_new_br_2: busy<br>angle
+bip_39_word_new_br_3: busy<br>angle<br>discover
+bip_39_word_new_br_4: busy<br>angle<br>discover<br>diesel
+bip_39_word_new_br_5: busy<br>angle<br>discover<br>diesel<br>loan
+bip_39_word_new_br_6: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow
+bip_39_word_new_br_7: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault
+bip_39_word_new_br_8: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit
+bip_39_word_new_br_9: busy<br>angle<br>discover<br>diesel<br>loan<br>swallow<br>fault<br>quit<br>tribe
+bip_39_word_new_line_1: busy
+bip_39_word_new_line_10: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife'
+bip_39_word_new_line_11: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife
+
+  distance'
+bip_39_word_new_line_12: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe
+
+  wife
+
+  distance
+
+  absorb'
+bip_39_word_new_line_2: 'busy
+
+  angle'
+bip_39_word_new_line_3: 'busy
+
+  angle
+
+  discover'
+bip_39_word_new_line_4: 'busy
+
+  angle
+
+  discover
+
+  diesel'
+bip_39_word_new_line_5: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan'
+bip_39_word_new_line_6: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow'
+bip_39_word_new_line_7: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault'
+bip_39_word_new_line_8: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit'
+bip_39_word_new_line_9: 'busy
+
+  angle
+
+  discover
+
+  diesel
+
+  loan
+
+  swallow
+
+  fault
+
+  quit
+
+  tribe'
+bip_39_word_no_space_1: busy
+bip_39_word_no_space_10: busyanglediscoverdieselloanswallowfaultquittribewife
+bip_39_word_no_space_11: busyanglediscoverdieselloanswallowfaultquittribewifedistance
+bip_39_word_no_space_12: busyanglediscoverdieselloanswallowfaultquittribewifedistanceabsorb
+bip_39_word_no_space_2: busyangle
+bip_39_word_no_space_3: busyanglediscover
+bip_39_word_no_space_4: busyanglediscoverdiesel
+bip_39_word_no_space_5: busyanglediscoverdieselloan
+bip_39_word_no_space_6: busyanglediscoverdieselloanswallow
+bip_39_word_no_space_7: busyanglediscoverdieselloanswallowfault
+bip_39_word_no_space_8: busyanglediscoverdieselloanswallowfaultquit
+bip_39_word_no_space_9: busyanglediscoverdieselloanswallowfaultquittribe
+bip_39_word_space_0:
+- busy
+- angle
+- discover
+- diesel
+- loan
+- swallow
+- fault
+- quit
+- tribe
+- wife
+- distance
+- absorb
+bip_39_word_space_1: busy
+bip_39_word_space_10: busy angle discover diesel loan swallow fault quit tribe wife
+bip_39_word_space_11: busy angle discover diesel loan swallow fault quit tribe wife
+  distance
+bip_39_word_space_12: busy angle discover diesel loan swallow fault quit tribe wife
+  distance absorb
+bip_39_word_space_2: busy angle
+bip_39_word_space_3: busy angle discover
+bip_39_word_space_4: busy angle discover diesel
+bip_39_word_space_5: busy angle discover diesel loan
+bip_39_word_space_6: busy angle discover diesel loan swallow
+bip_39_word_space_7: busy angle discover diesel loan swallow fault
+bip_39_word_space_8: busy angle discover diesel loan swallow fault quit
+bip_39_word_space_9: busy angle discover diesel loan swallow fault quit tribe
+bip_39_word_underscore_1: busy
+bip_39_word_underscore_10: busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife
+bip_39_word_underscore_11: busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife_distance
+bip_39_word_underscore_12: busy_angle_discover_diesel_loan_swallow_fault_quit_tribe_wife_distance_absorb
+bip_39_word_underscore_2: busy_angle
+bip_39_word_underscore_3: busy_angle_discover
+bip_39_word_underscore_4: busy_angle_discover_diesel
+bip_39_word_underscore_5: busy_angle_discover_diesel_loan
+bip_39_word_underscore_6: busy_angle_discover_diesel_loan_swallow
+bip_39_word_underscore_7: busy_angle_discover_diesel_loan_swallow_fault
+bip_39_word_underscore_8: busy_angle_discover_diesel_loan_swallow_fault_quit
+bip_39_word_underscore_9: busy_angle_discover_diesel_loan_swallow_fault_quit_tribe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_07_02_15
 id_no_color: '070215'
 id_no_size: '07_02_15'
 id_no_type: tray_thin_07_02_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_02_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_02_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_02_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20hjzy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20hjzy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20hjzy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070215'
 name_no_size: 07 02 15
 name_no_size_short: 07 02 15
 name_no_type: Tray Thin 07 02 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_02_15
 oomp_word: alien speaker fax
 oomp_word_emoji: ':alien: :speaker: :fax:'

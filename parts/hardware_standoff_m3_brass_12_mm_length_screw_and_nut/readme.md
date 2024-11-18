@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Standoff M3 Brass 12 mm Length Screw And Nut
+* name_short: 
 ### id
 * oomp_id: hardware_standoff_m3_brass_12_mm_length_screw_and_nut
   * classification: hardware

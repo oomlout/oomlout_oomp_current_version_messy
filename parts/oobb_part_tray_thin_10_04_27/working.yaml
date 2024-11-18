@@ -1,3 +1,222 @@
+bip_39_word_dash_1: series
+bip_39_word_dash_10: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit
+bip_39_word_dash_11: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit-useful
+bip_39_word_dash_12: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror-benefit-useful-actress
+bip_39_word_dash_2: series-exclude
+bip_39_word_dash_3: series-exclude-lemon
+bip_39_word_dash_4: series-exclude-lemon-light
+bip_39_word_dash_5: series-exclude-lemon-light-crime
+bip_39_word_dash_6: series-exclude-lemon-light-crime-bulk
+bip_39_word_dash_7: series-exclude-lemon-light-crime-bulk-clerk
+bip_39_word_dash_8: series-exclude-lemon-light-crime-bulk-clerk-jealous
+bip_39_word_dash_9: series-exclude-lemon-light-crime-bulk-clerk-jealous-mirror
+bip_39_word_new_br_1: series
+bip_39_word_new_br_10: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit
+bip_39_word_new_br_11: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful
+bip_39_word_new_br_12: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror<br>benefit<br>useful<br>actress
+bip_39_word_new_br_2: series<br>exclude
+bip_39_word_new_br_3: series<br>exclude<br>lemon
+bip_39_word_new_br_4: series<br>exclude<br>lemon<br>light
+bip_39_word_new_br_5: series<br>exclude<br>lemon<br>light<br>crime
+bip_39_word_new_br_6: series<br>exclude<br>lemon<br>light<br>crime<br>bulk
+bip_39_word_new_br_7: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk
+bip_39_word_new_br_8: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous
+bip_39_word_new_br_9: series<br>exclude<br>lemon<br>light<br>crime<br>bulk<br>clerk<br>jealous<br>mirror
+bip_39_word_new_line_1: series
+bip_39_word_new_line_10: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit'
+bip_39_word_new_line_11: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit
+
+  useful'
+bip_39_word_new_line_12: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror
+
+  benefit
+
+  useful
+
+  actress'
+bip_39_word_new_line_2: 'series
+
+  exclude'
+bip_39_word_new_line_3: 'series
+
+  exclude
+
+  lemon'
+bip_39_word_new_line_4: 'series
+
+  exclude
+
+  lemon
+
+  light'
+bip_39_word_new_line_5: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime'
+bip_39_word_new_line_6: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk'
+bip_39_word_new_line_7: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk'
+bip_39_word_new_line_8: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous'
+bip_39_word_new_line_9: 'series
+
+  exclude
+
+  lemon
+
+  light
+
+  crime
+
+  bulk
+
+  clerk
+
+  jealous
+
+  mirror'
+bip_39_word_no_space_1: series
+bip_39_word_no_space_10: seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefit
+bip_39_word_no_space_11: seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefituseful
+bip_39_word_no_space_12: seriesexcludelemonlightcrimebulkclerkjealousmirrorbenefitusefulactress
+bip_39_word_no_space_2: seriesexclude
+bip_39_word_no_space_3: seriesexcludelemon
+bip_39_word_no_space_4: seriesexcludelemonlight
+bip_39_word_no_space_5: seriesexcludelemonlightcrime
+bip_39_word_no_space_6: seriesexcludelemonlightcrimebulk
+bip_39_word_no_space_7: seriesexcludelemonlightcrimebulkclerk
+bip_39_word_no_space_8: seriesexcludelemonlightcrimebulkclerkjealous
+bip_39_word_no_space_9: seriesexcludelemonlightcrimebulkclerkjealousmirror
+bip_39_word_space_0:
+- series
+- exclude
+- lemon
+- light
+- crime
+- bulk
+- clerk
+- jealous
+- mirror
+- benefit
+- useful
+- actress
+bip_39_word_space_1: series
+bip_39_word_space_10: series exclude lemon light crime bulk clerk jealous mirror benefit
+bip_39_word_space_11: series exclude lemon light crime bulk clerk jealous mirror benefit
+  useful
+bip_39_word_space_12: series exclude lemon light crime bulk clerk jealous mirror benefit
+  useful actress
+bip_39_word_space_2: series exclude
+bip_39_word_space_3: series exclude lemon
+bip_39_word_space_4: series exclude lemon light
+bip_39_word_space_5: series exclude lemon light crime
+bip_39_word_space_6: series exclude lemon light crime bulk
+bip_39_word_space_7: series exclude lemon light crime bulk clerk
+bip_39_word_space_8: series exclude lemon light crime bulk clerk jealous
+bip_39_word_space_9: series exclude lemon light crime bulk clerk jealous mirror
+bip_39_word_underscore_1: series
+bip_39_word_underscore_10: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit
+bip_39_word_underscore_11: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit_useful
+bip_39_word_underscore_12: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror_benefit_useful_actress
+bip_39_word_underscore_2: series_exclude
+bip_39_word_underscore_3: series_exclude_lemon
+bip_39_word_underscore_4: series_exclude_lemon_light
+bip_39_word_underscore_5: series_exclude_lemon_light_crime
+bip_39_word_underscore_6: series_exclude_lemon_light_crime_bulk
+bip_39_word_underscore_7: series_exclude_lemon_light_crime_bulk_clerk
+bip_39_word_underscore_8: series_exclude_lemon_light_crime_bulk_clerk_jealous
+bip_39_word_underscore_9: series_exclude_lemon_light_crime_bulk_clerk_jealous_mirror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_10_04_27
 id_no_color: '100427'
 id_no_size: '10_04_27'
 id_no_type: tray_thin_10_04_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201sfr9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201sfr9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201sfr9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '100427'
 name_no_size: 10 04 27
 name_no_size_short: 10 04 27
 name_no_type: Tray Thin 10 04 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_04_27
 oomp_word: snowman fountain candy
 oomp_word_emoji: ':snowman: :fountain: :candy:'

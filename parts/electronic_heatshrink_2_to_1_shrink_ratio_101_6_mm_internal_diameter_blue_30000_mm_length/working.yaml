@@ -1,3 +1,222 @@
+bip_39_word_dash_1: boring
+bip_39_word_dash_10: boring-develop-demise-age-wash-federal-naive-drum-secret-use
+bip_39_word_dash_11: boring-develop-demise-age-wash-federal-naive-drum-secret-use-wire
+bip_39_word_dash_12: boring-develop-demise-age-wash-federal-naive-drum-secret-use-wire-about
+bip_39_word_dash_2: boring-develop
+bip_39_word_dash_3: boring-develop-demise
+bip_39_word_dash_4: boring-develop-demise-age
+bip_39_word_dash_5: boring-develop-demise-age-wash
+bip_39_word_dash_6: boring-develop-demise-age-wash-federal
+bip_39_word_dash_7: boring-develop-demise-age-wash-federal-naive
+bip_39_word_dash_8: boring-develop-demise-age-wash-federal-naive-drum
+bip_39_word_dash_9: boring-develop-demise-age-wash-federal-naive-drum-secret
+bip_39_word_new_br_1: boring
+bip_39_word_new_br_10: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret<br>use
+bip_39_word_new_br_11: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret<br>use<br>wire
+bip_39_word_new_br_12: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret<br>use<br>wire<br>about
+bip_39_word_new_br_2: boring<br>develop
+bip_39_word_new_br_3: boring<br>develop<br>demise
+bip_39_word_new_br_4: boring<br>develop<br>demise<br>age
+bip_39_word_new_br_5: boring<br>develop<br>demise<br>age<br>wash
+bip_39_word_new_br_6: boring<br>develop<br>demise<br>age<br>wash<br>federal
+bip_39_word_new_br_7: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive
+bip_39_word_new_br_8: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum
+bip_39_word_new_br_9: boring<br>develop<br>demise<br>age<br>wash<br>federal<br>naive<br>drum<br>secret
+bip_39_word_new_line_1: boring
+bip_39_word_new_line_10: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive
+
+  drum
+
+  secret
+
+  use'
+bip_39_word_new_line_11: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive
+
+  drum
+
+  secret
+
+  use
+
+  wire'
+bip_39_word_new_line_12: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive
+
+  drum
+
+  secret
+
+  use
+
+  wire
+
+  about'
+bip_39_word_new_line_2: 'boring
+
+  develop'
+bip_39_word_new_line_3: 'boring
+
+  develop
+
+  demise'
+bip_39_word_new_line_4: 'boring
+
+  develop
+
+  demise
+
+  age'
+bip_39_word_new_line_5: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash'
+bip_39_word_new_line_6: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal'
+bip_39_word_new_line_7: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive'
+bip_39_word_new_line_8: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive
+
+  drum'
+bip_39_word_new_line_9: 'boring
+
+  develop
+
+  demise
+
+  age
+
+  wash
+
+  federal
+
+  naive
+
+  drum
+
+  secret'
+bip_39_word_no_space_1: boring
+bip_39_word_no_space_10: boringdevelopdemiseagewashfederalnaivedrumsecretuse
+bip_39_word_no_space_11: boringdevelopdemiseagewashfederalnaivedrumsecretusewire
+bip_39_word_no_space_12: boringdevelopdemiseagewashfederalnaivedrumsecretusewireabout
+bip_39_word_no_space_2: boringdevelop
+bip_39_word_no_space_3: boringdevelopdemise
+bip_39_word_no_space_4: boringdevelopdemiseage
+bip_39_word_no_space_5: boringdevelopdemiseagewash
+bip_39_word_no_space_6: boringdevelopdemiseagewashfederal
+bip_39_word_no_space_7: boringdevelopdemiseagewashfederalnaive
+bip_39_word_no_space_8: boringdevelopdemiseagewashfederalnaivedrum
+bip_39_word_no_space_9: boringdevelopdemiseagewashfederalnaivedrumsecret
+bip_39_word_space_0:
+- boring
+- develop
+- demise
+- age
+- wash
+- federal
+- naive
+- drum
+- secret
+- use
+- wire
+- about
+bip_39_word_space_1: boring
+bip_39_word_space_10: boring develop demise age wash federal naive drum secret use
+bip_39_word_space_11: boring develop demise age wash federal naive drum secret use
+  wire
+bip_39_word_space_12: boring develop demise age wash federal naive drum secret use
+  wire about
+bip_39_word_space_2: boring develop
+bip_39_word_space_3: boring develop demise
+bip_39_word_space_4: boring develop demise age
+bip_39_word_space_5: boring develop demise age wash
+bip_39_word_space_6: boring develop demise age wash federal
+bip_39_word_space_7: boring develop demise age wash federal naive
+bip_39_word_space_8: boring develop demise age wash federal naive drum
+bip_39_word_space_9: boring develop demise age wash federal naive drum secret
+bip_39_word_underscore_1: boring
+bip_39_word_underscore_10: boring_develop_demise_age_wash_federal_naive_drum_secret_use
+bip_39_word_underscore_11: boring_develop_demise_age_wash_federal_naive_drum_secret_use_wire
+bip_39_word_underscore_12: boring_develop_demise_age_wash_federal_naive_drum_secret_use_wire_about
+bip_39_word_underscore_2: boring_develop
+bip_39_word_underscore_3: boring_develop_demise
+bip_39_word_underscore_4: boring_develop_demise_age
+bip_39_word_underscore_5: boring_develop_demise_age_wash
+bip_39_word_underscore_6: boring_develop_demise_age_wash_federal
+bip_39_word_underscore_7: boring_develop_demise_age_wash_federal_naive
+bip_39_word_underscore_8: boring_develop_demise_age_wash_federal_naive_drum
+bip_39_word_underscore_9: boring_develop_demise_age_wash_federal_naive_drum_secret
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 30000_mm_length
 id_no_size: blue_30000_mm_length
 id_no_type: 101_6_mm_internal_diameter_blue_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_blue_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_blue_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_blue_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20b723
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20b723
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20b723
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 30000 mm Length
 name_no_size: Blue 30000 mm Length
 name_no_size_short: Blue 30k Mm Length
 name_no_type: 101 6 mm Internal Diameter Blue 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_blue_30000_mm_length
 oomp_word: cry seven computer
 oomp_word_emoji: ':cry: :seven: :computer:'

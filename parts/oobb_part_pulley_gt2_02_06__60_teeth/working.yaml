@@ -1,3 +1,222 @@
+bip_39_word_dash_1: want
+bip_39_word_dash_10: want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit
+bip_39_word_dash_11: want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit-knee
+bip_39_word_dash_12: want-swap-key-kitten-include-swear-drink-seek-cabbage-benefit-knee-agent
+bip_39_word_dash_2: want-swap
+bip_39_word_dash_3: want-swap-key
+bip_39_word_dash_4: want-swap-key-kitten
+bip_39_word_dash_5: want-swap-key-kitten-include
+bip_39_word_dash_6: want-swap-key-kitten-include-swear
+bip_39_word_dash_7: want-swap-key-kitten-include-swear-drink
+bip_39_word_dash_8: want-swap-key-kitten-include-swear-drink-seek
+bip_39_word_dash_9: want-swap-key-kitten-include-swear-drink-seek-cabbage
+bip_39_word_new_br_1: want
+bip_39_word_new_br_10: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit
+bip_39_word_new_br_11: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee
+bip_39_word_new_br_12: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage<br>benefit<br>knee<br>agent
+bip_39_word_new_br_2: want<br>swap
+bip_39_word_new_br_3: want<br>swap<br>key
+bip_39_word_new_br_4: want<br>swap<br>key<br>kitten
+bip_39_word_new_br_5: want<br>swap<br>key<br>kitten<br>include
+bip_39_word_new_br_6: want<br>swap<br>key<br>kitten<br>include<br>swear
+bip_39_word_new_br_7: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink
+bip_39_word_new_br_8: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek
+bip_39_word_new_br_9: want<br>swap<br>key<br>kitten<br>include<br>swear<br>drink<br>seek<br>cabbage
+bip_39_word_new_line_1: want
+bip_39_word_new_line_10: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink
+
+  seek
+
+  cabbage
+
+  benefit'
+bip_39_word_new_line_11: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink
+
+  seek
+
+  cabbage
+
+  benefit
+
+  knee'
+bip_39_word_new_line_12: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink
+
+  seek
+
+  cabbage
+
+  benefit
+
+  knee
+
+  agent'
+bip_39_word_new_line_2: 'want
+
+  swap'
+bip_39_word_new_line_3: 'want
+
+  swap
+
+  key'
+bip_39_word_new_line_4: 'want
+
+  swap
+
+  key
+
+  kitten'
+bip_39_word_new_line_5: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include'
+bip_39_word_new_line_6: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear'
+bip_39_word_new_line_7: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink'
+bip_39_word_new_line_8: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink
+
+  seek'
+bip_39_word_new_line_9: 'want
+
+  swap
+
+  key
+
+  kitten
+
+  include
+
+  swear
+
+  drink
+
+  seek
+
+  cabbage'
+bip_39_word_no_space_1: want
+bip_39_word_no_space_10: wantswapkeykittenincludesweardrinkseekcabbagebenefit
+bip_39_word_no_space_11: wantswapkeykittenincludesweardrinkseekcabbagebenefitknee
+bip_39_word_no_space_12: wantswapkeykittenincludesweardrinkseekcabbagebenefitkneeagent
+bip_39_word_no_space_2: wantswap
+bip_39_word_no_space_3: wantswapkey
+bip_39_word_no_space_4: wantswapkeykitten
+bip_39_word_no_space_5: wantswapkeykitteninclude
+bip_39_word_no_space_6: wantswapkeykittenincludeswear
+bip_39_word_no_space_7: wantswapkeykittenincludesweardrink
+bip_39_word_no_space_8: wantswapkeykittenincludesweardrinkseek
+bip_39_word_no_space_9: wantswapkeykittenincludesweardrinkseekcabbage
+bip_39_word_space_0:
+- want
+- swap
+- key
+- kitten
+- include
+- swear
+- drink
+- seek
+- cabbage
+- benefit
+- knee
+- agent
+bip_39_word_space_1: want
+bip_39_word_space_10: want swap key kitten include swear drink seek cabbage benefit
+bip_39_word_space_11: want swap key kitten include swear drink seek cabbage benefit
+  knee
+bip_39_word_space_12: want swap key kitten include swear drink seek cabbage benefit
+  knee agent
+bip_39_word_space_2: want swap
+bip_39_word_space_3: want swap key
+bip_39_word_space_4: want swap key kitten
+bip_39_word_space_5: want swap key kitten include
+bip_39_word_space_6: want swap key kitten include swear
+bip_39_word_space_7: want swap key kitten include swear drink
+bip_39_word_space_8: want swap key kitten include swear drink seek
+bip_39_word_space_9: want swap key kitten include swear drink seek cabbage
+bip_39_word_underscore_1: want
+bip_39_word_underscore_10: want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit
+bip_39_word_underscore_11: want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit_knee
+bip_39_word_underscore_12: want_swap_key_kitten_include_swear_drink_seek_cabbage_benefit_knee_agent
+bip_39_word_underscore_2: want_swap
+bip_39_word_underscore_3: want_swap_key
+bip_39_word_underscore_4: want_swap_key_kitten
+bip_39_word_underscore_5: want_swap_key_kitten_include
+bip_39_word_underscore_6: want_swap_key_kitten_include_swear
+bip_39_word_underscore_7: want_swap_key_kitten_include_swear_drink
+bip_39_word_underscore_8: want_swap_key_kitten_include_swear_drink_seek
+bip_39_word_underscore_9: want_swap_key_kitten_include_swear_drink_seek_cabbage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_02_06__60_teeth
 id_no_color: 020660teeth
 id_no_size: 02_06__60_teeth
 id_no_type: pulley_gt2_02_06__60_teeth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__60_teeth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__60_teeth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__60_teeth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2032x39
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2032x39
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2032x39
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020660Teeth
 name_no_size: 02 06  60 Teeth
 name_no_size_short: 02 06  60 Teeth
 name_no_type: Pulley Gt2 02 06  60 Teeth
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__60_teeth
 oomp_word: honeybee six kissing
 oomp_word_emoji: ':honeybee: :six: :kissing:'

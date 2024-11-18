@@ -1,3 +1,222 @@
+bip_39_word_dash_1: skill
+bip_39_word_dash_10: skill-rebel-nature-topic-middle-teach-chalk-breeze-pull-whale
+bip_39_word_dash_11: skill-rebel-nature-topic-middle-teach-chalk-breeze-pull-whale-cloth
+bip_39_word_dash_12: skill-rebel-nature-topic-middle-teach-chalk-breeze-pull-whale-cloth-argue
+bip_39_word_dash_2: skill-rebel
+bip_39_word_dash_3: skill-rebel-nature
+bip_39_word_dash_4: skill-rebel-nature-topic
+bip_39_word_dash_5: skill-rebel-nature-topic-middle
+bip_39_word_dash_6: skill-rebel-nature-topic-middle-teach
+bip_39_word_dash_7: skill-rebel-nature-topic-middle-teach-chalk
+bip_39_word_dash_8: skill-rebel-nature-topic-middle-teach-chalk-breeze
+bip_39_word_dash_9: skill-rebel-nature-topic-middle-teach-chalk-breeze-pull
+bip_39_word_new_br_1: skill
+bip_39_word_new_br_10: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale
+bip_39_word_new_br_11: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth
+bip_39_word_new_br_12: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull<br>whale<br>cloth<br>argue
+bip_39_word_new_br_2: skill<br>rebel
+bip_39_word_new_br_3: skill<br>rebel<br>nature
+bip_39_word_new_br_4: skill<br>rebel<br>nature<br>topic
+bip_39_word_new_br_5: skill<br>rebel<br>nature<br>topic<br>middle
+bip_39_word_new_br_6: skill<br>rebel<br>nature<br>topic<br>middle<br>teach
+bip_39_word_new_br_7: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk
+bip_39_word_new_br_8: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze
+bip_39_word_new_br_9: skill<br>rebel<br>nature<br>topic<br>middle<br>teach<br>chalk<br>breeze<br>pull
+bip_39_word_new_line_1: skill
+bip_39_word_new_line_10: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk
+
+  breeze
+
+  pull
+
+  whale'
+bip_39_word_new_line_11: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk
+
+  breeze
+
+  pull
+
+  whale
+
+  cloth'
+bip_39_word_new_line_12: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk
+
+  breeze
+
+  pull
+
+  whale
+
+  cloth
+
+  argue'
+bip_39_word_new_line_2: 'skill
+
+  rebel'
+bip_39_word_new_line_3: 'skill
+
+  rebel
+
+  nature'
+bip_39_word_new_line_4: 'skill
+
+  rebel
+
+  nature
+
+  topic'
+bip_39_word_new_line_5: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle'
+bip_39_word_new_line_6: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach'
+bip_39_word_new_line_7: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk'
+bip_39_word_new_line_8: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk
+
+  breeze'
+bip_39_word_new_line_9: 'skill
+
+  rebel
+
+  nature
+
+  topic
+
+  middle
+
+  teach
+
+  chalk
+
+  breeze
+
+  pull'
+bip_39_word_no_space_1: skill
+bip_39_word_no_space_10: skillrebelnaturetopicmiddleteachchalkbreezepullwhale
+bip_39_word_no_space_11: skillrebelnaturetopicmiddleteachchalkbreezepullwhalecloth
+bip_39_word_no_space_12: skillrebelnaturetopicmiddleteachchalkbreezepullwhaleclothargue
+bip_39_word_no_space_2: skillrebel
+bip_39_word_no_space_3: skillrebelnature
+bip_39_word_no_space_4: skillrebelnaturetopic
+bip_39_word_no_space_5: skillrebelnaturetopicmiddle
+bip_39_word_no_space_6: skillrebelnaturetopicmiddleteach
+bip_39_word_no_space_7: skillrebelnaturetopicmiddleteachchalk
+bip_39_word_no_space_8: skillrebelnaturetopicmiddleteachchalkbreeze
+bip_39_word_no_space_9: skillrebelnaturetopicmiddleteachchalkbreezepull
+bip_39_word_space_0:
+- skill
+- rebel
+- nature
+- topic
+- middle
+- teach
+- chalk
+- breeze
+- pull
+- whale
+- cloth
+- argue
+bip_39_word_space_1: skill
+bip_39_word_space_10: skill rebel nature topic middle teach chalk breeze pull whale
+bip_39_word_space_11: skill rebel nature topic middle teach chalk breeze pull whale
+  cloth
+bip_39_word_space_12: skill rebel nature topic middle teach chalk breeze pull whale
+  cloth argue
+bip_39_word_space_2: skill rebel
+bip_39_word_space_3: skill rebel nature
+bip_39_word_space_4: skill rebel nature topic
+bip_39_word_space_5: skill rebel nature topic middle
+bip_39_word_space_6: skill rebel nature topic middle teach
+bip_39_word_space_7: skill rebel nature topic middle teach chalk
+bip_39_word_space_8: skill rebel nature topic middle teach chalk breeze
+bip_39_word_space_9: skill rebel nature topic middle teach chalk breeze pull
+bip_39_word_underscore_1: skill
+bip_39_word_underscore_10: skill_rebel_nature_topic_middle_teach_chalk_breeze_pull_whale
+bip_39_word_underscore_11: skill_rebel_nature_topic_middle_teach_chalk_breeze_pull_whale_cloth
+bip_39_word_underscore_12: skill_rebel_nature_topic_middle_teach_chalk_breeze_pull_whale_cloth_argue
+bip_39_word_underscore_2: skill_rebel
+bip_39_word_underscore_3: skill_rebel_nature
+bip_39_word_underscore_4: skill_rebel_nature_topic
+bip_39_word_underscore_5: skill_rebel_nature_topic_middle
+bip_39_word_underscore_6: skill_rebel_nature_topic_middle_teach
+bip_39_word_underscore_7: skill_rebel_nature_topic_middle_teach_chalk
+bip_39_word_underscore_8: skill_rebel_nature_topic_middle_teach_chalk_breeze
+bip_39_word_underscore_9: skill_rebel_nature_topic_middle_teach_chalk_breeze_pull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_01_06__8_teeth_sh_motor_servo_standard_01
 id_no_color: 01068teethshmotorservostandard01
 id_no_size: 01_06__8_teeth_sh_motor_servo_standard_01
 id_no_type: gear_01_06__8_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2076xtq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2076xtq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2076xtq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 01068Teethshmotorservostandard01
 name_no_size: 01 06  8 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 01 06  8 Teeth Sh Motor Servo Standard 01
 name_no_type: Gear 01 06  8 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_01_06__8_teeth_sh_motor_servo_standard_01
 oomp_word: hamburger rat ramen
 oomp_word_emoji: ':hamburger: :rat: :ramen:'

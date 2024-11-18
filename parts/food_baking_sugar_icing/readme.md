@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_icing
 
+### name
+* name: Food Baking Sugar ICing
+* name_short: Sugar Icing
 ### id
 * oomp_id: food_baking_sugar_icing
   * classification: food

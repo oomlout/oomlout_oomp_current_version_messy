@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Wikb
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_wikb
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lipstick: :dress: :briefcase:
 * md5_6_alpha: 6nqup
 * md5_6: aaadb1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206nqup)
+[2x1](http://192.168.1.242:1112/?label=oomp%206nqup)
+[6x4](http://192.168.1.55:1112/?label=oomp%206nqup)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wikb) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_wikb)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ note |
 | id_no_color | wikb |  
 | id_no_size | wikb |  
 | id_no_type | oomlout_oomlout_wikb |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wikb |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_wikb |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_wikb |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206nqup |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206nqup |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206nqup |  
 | link_redirect | https://github.com/oomlout/oomlout-WIKB |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ note |
 | name_no_size | Wikb |  
 | name_no_size_short | Wikb |  
 | name_no_type | Oomlout Oomlout Wikb |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_wikb |  
 | oomp_word | lipstick dress briefcase |  
 | oomp_word_emoji | :lipstick: :dress: :briefcase: |  

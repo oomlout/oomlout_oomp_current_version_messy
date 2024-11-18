@@ -1,3 +1,222 @@
+bip_39_word_dash_1: brisk
+bip_39_word_dash_10: brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album
+bip_39_word_dash_11: brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album-build
+bip_39_word_dash_12: brisk-love-trust-legal-cactus-wedding-damage-pupil-used-album-build-asset
+bip_39_word_dash_2: brisk-love
+bip_39_word_dash_3: brisk-love-trust
+bip_39_word_dash_4: brisk-love-trust-legal
+bip_39_word_dash_5: brisk-love-trust-legal-cactus
+bip_39_word_dash_6: brisk-love-trust-legal-cactus-wedding
+bip_39_word_dash_7: brisk-love-trust-legal-cactus-wedding-damage
+bip_39_word_dash_8: brisk-love-trust-legal-cactus-wedding-damage-pupil
+bip_39_word_dash_9: brisk-love-trust-legal-cactus-wedding-damage-pupil-used
+bip_39_word_new_br_1: brisk
+bip_39_word_new_br_10: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album
+bip_39_word_new_br_11: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build
+bip_39_word_new_br_12: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used<br>album<br>build<br>asset
+bip_39_word_new_br_2: brisk<br>love
+bip_39_word_new_br_3: brisk<br>love<br>trust
+bip_39_word_new_br_4: brisk<br>love<br>trust<br>legal
+bip_39_word_new_br_5: brisk<br>love<br>trust<br>legal<br>cactus
+bip_39_word_new_br_6: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding
+bip_39_word_new_br_7: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage
+bip_39_word_new_br_8: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil
+bip_39_word_new_br_9: brisk<br>love<br>trust<br>legal<br>cactus<br>wedding<br>damage<br>pupil<br>used
+bip_39_word_new_line_1: brisk
+bip_39_word_new_line_10: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage
+
+  pupil
+
+  used
+
+  album'
+bip_39_word_new_line_11: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage
+
+  pupil
+
+  used
+
+  album
+
+  build'
+bip_39_word_new_line_12: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage
+
+  pupil
+
+  used
+
+  album
+
+  build
+
+  asset'
+bip_39_word_new_line_2: 'brisk
+
+  love'
+bip_39_word_new_line_3: 'brisk
+
+  love
+
+  trust'
+bip_39_word_new_line_4: 'brisk
+
+  love
+
+  trust
+
+  legal'
+bip_39_word_new_line_5: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus'
+bip_39_word_new_line_6: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding'
+bip_39_word_new_line_7: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage'
+bip_39_word_new_line_8: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage
+
+  pupil'
+bip_39_word_new_line_9: 'brisk
+
+  love
+
+  trust
+
+  legal
+
+  cactus
+
+  wedding
+
+  damage
+
+  pupil
+
+  used'
+bip_39_word_no_space_1: brisk
+bip_39_word_no_space_10: brisklovetrustlegalcactusweddingdamagepupilusedalbum
+bip_39_word_no_space_11: brisklovetrustlegalcactusweddingdamagepupilusedalbumbuild
+bip_39_word_no_space_12: brisklovetrustlegalcactusweddingdamagepupilusedalbumbuildasset
+bip_39_word_no_space_2: brisklove
+bip_39_word_no_space_3: brisklovetrust
+bip_39_word_no_space_4: brisklovetrustlegal
+bip_39_word_no_space_5: brisklovetrustlegalcactus
+bip_39_word_no_space_6: brisklovetrustlegalcactuswedding
+bip_39_word_no_space_7: brisklovetrustlegalcactusweddingdamage
+bip_39_word_no_space_8: brisklovetrustlegalcactusweddingdamagepupil
+bip_39_word_no_space_9: brisklovetrustlegalcactusweddingdamagepupilused
+bip_39_word_space_0:
+- brisk
+- love
+- trust
+- legal
+- cactus
+- wedding
+- damage
+- pupil
+- used
+- album
+- build
+- asset
+bip_39_word_space_1: brisk
+bip_39_word_space_10: brisk love trust legal cactus wedding damage pupil used album
+bip_39_word_space_11: brisk love trust legal cactus wedding damage pupil used album
+  build
+bip_39_word_space_12: brisk love trust legal cactus wedding damage pupil used album
+  build asset
+bip_39_word_space_2: brisk love
+bip_39_word_space_3: brisk love trust
+bip_39_word_space_4: brisk love trust legal
+bip_39_word_space_5: brisk love trust legal cactus
+bip_39_word_space_6: brisk love trust legal cactus wedding
+bip_39_word_space_7: brisk love trust legal cactus wedding damage
+bip_39_word_space_8: brisk love trust legal cactus wedding damage pupil
+bip_39_word_space_9: brisk love trust legal cactus wedding damage pupil used
+bip_39_word_underscore_1: brisk
+bip_39_word_underscore_10: brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album
+bip_39_word_underscore_11: brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album_build
+bip_39_word_underscore_12: brisk_love_trust_legal_cactus_wedding_damage_pupil_used_album_build_asset
+bip_39_word_underscore_2: brisk_love
+bip_39_word_underscore_3: brisk_love_trust
+bip_39_word_underscore_4: brisk_love_trust_legal
+bip_39_word_underscore_5: brisk_love_trust_legal_cactus
+bip_39_word_underscore_6: brisk_love_trust_legal_cactus_wedding
+bip_39_word_underscore_7: brisk_love_trust_legal_cactus_wedding_damage
+bip_39_word_underscore_8: brisk_love_trust_legal_cactus_wedding_damage_pupil
+bip_39_word_underscore_9: brisk_love_trust_legal_cactus_wedding_damage_pupil_used
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_11_18
 id_no_color: 031118
 id_no_size: 03_11_18
 id_no_type: tray_03_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ijk1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ijk1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ijk1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 031118
 name_no_size: 03 11 18
 name_no_size_short: 03 11 18
 name_no_type: Tray 03 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_11_18
 oomp_word: hotel bear watch
 oomp_word_emoji: ':hotel: :bear: :watch:'

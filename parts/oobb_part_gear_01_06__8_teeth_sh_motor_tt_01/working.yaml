@@ -1,3 +1,223 @@
+bip_39_word_dash_1: broom
+bip_39_word_dash_10: broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install
+bip_39_word_dash_11: broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install-fall
+bip_39_word_dash_12: broom-grace-topple-gallery-secret-letter-guitar-plastic-wave-install-fall-aim
+bip_39_word_dash_2: broom-grace
+bip_39_word_dash_3: broom-grace-topple
+bip_39_word_dash_4: broom-grace-topple-gallery
+bip_39_word_dash_5: broom-grace-topple-gallery-secret
+bip_39_word_dash_6: broom-grace-topple-gallery-secret-letter
+bip_39_word_dash_7: broom-grace-topple-gallery-secret-letter-guitar
+bip_39_word_dash_8: broom-grace-topple-gallery-secret-letter-guitar-plastic
+bip_39_word_dash_9: broom-grace-topple-gallery-secret-letter-guitar-plastic-wave
+bip_39_word_new_br_1: broom
+bip_39_word_new_br_10: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install
+bip_39_word_new_br_11: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install<br>fall
+bip_39_word_new_br_12: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave<br>install<br>fall<br>aim
+bip_39_word_new_br_2: broom<br>grace
+bip_39_word_new_br_3: broom<br>grace<br>topple
+bip_39_word_new_br_4: broom<br>grace<br>topple<br>gallery
+bip_39_word_new_br_5: broom<br>grace<br>topple<br>gallery<br>secret
+bip_39_word_new_br_6: broom<br>grace<br>topple<br>gallery<br>secret<br>letter
+bip_39_word_new_br_7: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar
+bip_39_word_new_br_8: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic
+bip_39_word_new_br_9: broom<br>grace<br>topple<br>gallery<br>secret<br>letter<br>guitar<br>plastic<br>wave
+bip_39_word_new_line_1: broom
+bip_39_word_new_line_10: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install'
+bip_39_word_new_line_11: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install
+
+  fall'
+bip_39_word_new_line_12: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave
+
+  install
+
+  fall
+
+  aim'
+bip_39_word_new_line_2: 'broom
+
+  grace'
+bip_39_word_new_line_3: 'broom
+
+  grace
+
+  topple'
+bip_39_word_new_line_4: 'broom
+
+  grace
+
+  topple
+
+  gallery'
+bip_39_word_new_line_5: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret'
+bip_39_word_new_line_6: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter'
+bip_39_word_new_line_7: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar'
+bip_39_word_new_line_8: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic'
+bip_39_word_new_line_9: 'broom
+
+  grace
+
+  topple
+
+  gallery
+
+  secret
+
+  letter
+
+  guitar
+
+  plastic
+
+  wave'
+bip_39_word_no_space_1: broom
+bip_39_word_no_space_10: broomgracetopplegallerysecretletterguitarplasticwaveinstall
+bip_39_word_no_space_11: broomgracetopplegallerysecretletterguitarplasticwaveinstallfall
+bip_39_word_no_space_12: broomgracetopplegallerysecretletterguitarplasticwaveinstallfallaim
+bip_39_word_no_space_2: broomgrace
+bip_39_word_no_space_3: broomgracetopple
+bip_39_word_no_space_4: broomgracetopplegallery
+bip_39_word_no_space_5: broomgracetopplegallerysecret
+bip_39_word_no_space_6: broomgracetopplegallerysecretletter
+bip_39_word_no_space_7: broomgracetopplegallerysecretletterguitar
+bip_39_word_no_space_8: broomgracetopplegallerysecretletterguitarplastic
+bip_39_word_no_space_9: broomgracetopplegallerysecretletterguitarplasticwave
+bip_39_word_space_0:
+- broom
+- grace
+- topple
+- gallery
+- secret
+- letter
+- guitar
+- plastic
+- wave
+- install
+- fall
+- aim
+bip_39_word_space_1: broom
+bip_39_word_space_10: broom grace topple gallery secret letter guitar plastic wave
+  install
+bip_39_word_space_11: broom grace topple gallery secret letter guitar plastic wave
+  install fall
+bip_39_word_space_12: broom grace topple gallery secret letter guitar plastic wave
+  install fall aim
+bip_39_word_space_2: broom grace
+bip_39_word_space_3: broom grace topple
+bip_39_word_space_4: broom grace topple gallery
+bip_39_word_space_5: broom grace topple gallery secret
+bip_39_word_space_6: broom grace topple gallery secret letter
+bip_39_word_space_7: broom grace topple gallery secret letter guitar
+bip_39_word_space_8: broom grace topple gallery secret letter guitar plastic
+bip_39_word_space_9: broom grace topple gallery secret letter guitar plastic wave
+bip_39_word_underscore_1: broom
+bip_39_word_underscore_10: broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install
+bip_39_word_underscore_11: broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install_fall
+bip_39_word_underscore_12: broom_grace_topple_gallery_secret_letter_guitar_plastic_wave_install_fall_aim
+bip_39_word_underscore_2: broom_grace
+bip_39_word_underscore_3: broom_grace_topple
+bip_39_word_underscore_4: broom_grace_topple_gallery
+bip_39_word_underscore_5: broom_grace_topple_gallery_secret
+bip_39_word_underscore_6: broom_grace_topple_gallery_secret_letter
+bip_39_word_underscore_7: broom_grace_topple_gallery_secret_letter_guitar
+bip_39_word_underscore_8: broom_grace_topple_gallery_secret_letter_guitar_plastic
+bip_39_word_underscore_9: broom_grace_topple_gallery_secret_letter_guitar_plastic_wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_01_06__8_teeth_sh_motor_tt_01
 id_no_color: 01068teethshmotortt01
 id_no_size: 01_06__8_teeth_sh_motor_tt_01
 id_no_type: gear_01_06__8_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203aw65
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203aw65
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203aw65
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 01068Teethshmotortt01
 name_no_size: 01 06  8 Teeth Sh Motor Tt 01
 name_no_size_short: 01 06  8 Teeth Sh Motor Tt 01
 name_no_type: Gear 01 06  8 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_01_06__8_teeth_sh_motor_tt_01
 oomp_word: whale book blowfish
 oomp_word_emoji: ':whale: :book: :blowfish:'

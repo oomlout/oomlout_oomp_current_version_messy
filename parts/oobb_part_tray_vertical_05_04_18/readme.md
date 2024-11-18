@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 05 04 18
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_05_04_18
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rocket: :kiss: :crown:
 * md5_6_alpha: 8xv3k
 * md5_6: e523b0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208xv3k)
+[2x1](http://192.168.1.242:1112/?label=oomp%208xv3k)
+[6x4](http://192.168.1.55:1112/?label=oomp%208xv3k)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_18) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_18)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ coach |
 | id_no_color | 050418 |  
 | id_no_size | 05_04_18 |  
 | id_no_type | tray_vertical_05_04_18 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_18 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_18 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_18 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208xv3k |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208xv3k |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208xv3k |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ coach |
 | name_no_size | 05 04 18 |  
 | name_no_size_short | 05 04 18 |  
 | name_no_type | Tray Vertical 05 04 18 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_05_04_18 |  
 | oomp_word | rocket kiss crown |  
 | oomp_word_emoji | :rocket: :kiss: :crown: |  

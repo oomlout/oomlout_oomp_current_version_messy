@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ramp
+bip_39_word_dash_10: ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion
+bip_39_word_dash_11: ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion-another
+bip_39_word_dash_12: ramp-uncover-divert-phone-feature-call-couch-list-olympic-motion-another-arm
+bip_39_word_dash_2: ramp-uncover
+bip_39_word_dash_3: ramp-uncover-divert
+bip_39_word_dash_4: ramp-uncover-divert-phone
+bip_39_word_dash_5: ramp-uncover-divert-phone-feature
+bip_39_word_dash_6: ramp-uncover-divert-phone-feature-call
+bip_39_word_dash_7: ramp-uncover-divert-phone-feature-call-couch
+bip_39_word_dash_8: ramp-uncover-divert-phone-feature-call-couch-list
+bip_39_word_dash_9: ramp-uncover-divert-phone-feature-call-couch-list-olympic
+bip_39_word_new_br_1: ramp
+bip_39_word_new_br_10: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion
+bip_39_word_new_br_11: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another
+bip_39_word_new_br_12: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic<br>motion<br>another<br>arm
+bip_39_word_new_br_2: ramp<br>uncover
+bip_39_word_new_br_3: ramp<br>uncover<br>divert
+bip_39_word_new_br_4: ramp<br>uncover<br>divert<br>phone
+bip_39_word_new_br_5: ramp<br>uncover<br>divert<br>phone<br>feature
+bip_39_word_new_br_6: ramp<br>uncover<br>divert<br>phone<br>feature<br>call
+bip_39_word_new_br_7: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch
+bip_39_word_new_br_8: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list
+bip_39_word_new_br_9: ramp<br>uncover<br>divert<br>phone<br>feature<br>call<br>couch<br>list<br>olympic
+bip_39_word_new_line_1: ramp
+bip_39_word_new_line_10: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch
+
+  list
+
+  olympic
+
+  motion'
+bip_39_word_new_line_11: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch
+
+  list
+
+  olympic
+
+  motion
+
+  another'
+bip_39_word_new_line_12: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch
+
+  list
+
+  olympic
+
+  motion
+
+  another
+
+  arm'
+bip_39_word_new_line_2: 'ramp
+
+  uncover'
+bip_39_word_new_line_3: 'ramp
+
+  uncover
+
+  divert'
+bip_39_word_new_line_4: 'ramp
+
+  uncover
+
+  divert
+
+  phone'
+bip_39_word_new_line_5: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature'
+bip_39_word_new_line_6: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call'
+bip_39_word_new_line_7: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch'
+bip_39_word_new_line_8: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch
+
+  list'
+bip_39_word_new_line_9: 'ramp
+
+  uncover
+
+  divert
+
+  phone
+
+  feature
+
+  call
+
+  couch
+
+  list
+
+  olympic'
+bip_39_word_no_space_1: ramp
+bip_39_word_no_space_10: rampuncoverdivertphonefeaturecallcouchlistolympicmotion
+bip_39_word_no_space_11: rampuncoverdivertphonefeaturecallcouchlistolympicmotionanother
+bip_39_word_no_space_12: rampuncoverdivertphonefeaturecallcouchlistolympicmotionanotherarm
+bip_39_word_no_space_2: rampuncover
+bip_39_word_no_space_3: rampuncoverdivert
+bip_39_word_no_space_4: rampuncoverdivertphone
+bip_39_word_no_space_5: rampuncoverdivertphonefeature
+bip_39_word_no_space_6: rampuncoverdivertphonefeaturecall
+bip_39_word_no_space_7: rampuncoverdivertphonefeaturecallcouch
+bip_39_word_no_space_8: rampuncoverdivertphonefeaturecallcouchlist
+bip_39_word_no_space_9: rampuncoverdivertphonefeaturecallcouchlistolympic
+bip_39_word_space_0:
+- ramp
+- uncover
+- divert
+- phone
+- feature
+- call
+- couch
+- list
+- olympic
+- motion
+- another
+- arm
+bip_39_word_space_1: ramp
+bip_39_word_space_10: ramp uncover divert phone feature call couch list olympic motion
+bip_39_word_space_11: ramp uncover divert phone feature call couch list olympic motion
+  another
+bip_39_word_space_12: ramp uncover divert phone feature call couch list olympic motion
+  another arm
+bip_39_word_space_2: ramp uncover
+bip_39_word_space_3: ramp uncover divert
+bip_39_word_space_4: ramp uncover divert phone
+bip_39_word_space_5: ramp uncover divert phone feature
+bip_39_word_space_6: ramp uncover divert phone feature call
+bip_39_word_space_7: ramp uncover divert phone feature call couch
+bip_39_word_space_8: ramp uncover divert phone feature call couch list
+bip_39_word_space_9: ramp uncover divert phone feature call couch list olympic
+bip_39_word_underscore_1: ramp
+bip_39_word_underscore_10: ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion
+bip_39_word_underscore_11: ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion_another
+bip_39_word_underscore_12: ramp_uncover_divert_phone_feature_call_couch_list_olympic_motion_another_arm
+bip_39_word_underscore_2: ramp_uncover
+bip_39_word_underscore_3: ramp_uncover_divert
+bip_39_word_underscore_4: ramp_uncover_divert_phone
+bip_39_word_underscore_5: ramp_uncover_divert_phone_feature
+bip_39_word_underscore_6: ramp_uncover_divert_phone_feature_call
+bip_39_word_underscore_7: ramp_uncover_divert_phone_feature_call_couch
+bip_39_word_underscore_8: ramp_uncover_divert_phone_feature_call_couch_list
+bip_39_word_underscore_9: ramp_uncover_divert_phone_feature_call_couch_list_olympic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_14_30
 id_no_color: '051430'
 id_no_size: '05_14_30'
 id_no_type: tray_05_14_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_14_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_14_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_14_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2079des
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2079des
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2079des
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '051430'
 name_no_size: 05 14 30
 name_no_size_short: 05 14 30
 name_no_type: Tray 05 14 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_14_30
 oomp_word: spaghetti question droplet
 oomp_word_emoji: ':spaghetti: :question: :droplet:'

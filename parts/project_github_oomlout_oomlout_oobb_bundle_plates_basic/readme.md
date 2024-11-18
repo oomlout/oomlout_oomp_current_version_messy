@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Bundle Plates Basic
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_bundle_plates_basic
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :recycle: :tent: :ant:
 * md5_6_alpha: 9xzkf
 * md5_6: fedb4f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209xzkf)
+[2x1](http://192.168.1.242:1112/?label=oomp%209xzkf)
+[6x4](http://192.168.1.55:1112/?label=oomp%209xzkf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_plates_basic) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_plates_basic)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ disorder |
 | id_no_color | oobb_bundle_plates_basic |  
 | id_no_size | oobb_bundle_plates_basic |  
 | id_no_type | oomlout_oomlout_oobb_bundle_plates_basic |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_plates_basic |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_plates_basic |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_bundle_plates_basic |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209xzkf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209xzkf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209xzkf |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_bundle_plates_basic |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ disorder |
 | name_no_size | Oobb Bundle Plates Basic |  
 | name_no_size_short | Oobb Bundle Plates Basic |  
 | name_no_type | Oomlout Oomlout Oobb Bundle Plates Basic |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_bundle_plates_basic |  
 | oomp_word | recycle tent ant |  
 | oomp_word_emoji | :recycle: :tent: :ant: |  

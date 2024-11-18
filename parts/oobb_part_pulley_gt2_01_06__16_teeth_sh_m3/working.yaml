@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hint
+bip_39_word_dash_10: hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic
+bip_39_word_dash_11: hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic-canvas
+bip_39_word_dash_12: hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel-garlic-canvas-abuse
+bip_39_word_dash_2: hint-wisdom
+bip_39_word_dash_3: hint-wisdom-dinosaur
+bip_39_word_dash_4: hint-wisdom-dinosaur-artist
+bip_39_word_dash_5: hint-wisdom-dinosaur-artist-treat
+bip_39_word_dash_6: hint-wisdom-dinosaur-artist-treat-good
+bip_39_word_dash_7: hint-wisdom-dinosaur-artist-treat-good-describe
+bip_39_word_dash_8: hint-wisdom-dinosaur-artist-treat-good-describe-valley
+bip_39_word_dash_9: hint-wisdom-dinosaur-artist-treat-good-describe-valley-weasel
+bip_39_word_new_br_1: hint
+bip_39_word_new_br_10: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic
+bip_39_word_new_br_11: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas
+bip_39_word_new_br_12: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel<br>garlic<br>canvas<br>abuse
+bip_39_word_new_br_2: hint<br>wisdom
+bip_39_word_new_br_3: hint<br>wisdom<br>dinosaur
+bip_39_word_new_br_4: hint<br>wisdom<br>dinosaur<br>artist
+bip_39_word_new_br_5: hint<br>wisdom<br>dinosaur<br>artist<br>treat
+bip_39_word_new_br_6: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good
+bip_39_word_new_br_7: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe
+bip_39_word_new_br_8: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley
+bip_39_word_new_br_9: hint<br>wisdom<br>dinosaur<br>artist<br>treat<br>good<br>describe<br>valley<br>weasel
+bip_39_word_new_line_1: hint
+bip_39_word_new_line_10: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe
+
+  valley
+
+  weasel
+
+  garlic'
+bip_39_word_new_line_11: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe
+
+  valley
+
+  weasel
+
+  garlic
+
+  canvas'
+bip_39_word_new_line_12: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe
+
+  valley
+
+  weasel
+
+  garlic
+
+  canvas
+
+  abuse'
+bip_39_word_new_line_2: 'hint
+
+  wisdom'
+bip_39_word_new_line_3: 'hint
+
+  wisdom
+
+  dinosaur'
+bip_39_word_new_line_4: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist'
+bip_39_word_new_line_5: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat'
+bip_39_word_new_line_6: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good'
+bip_39_word_new_line_7: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe'
+bip_39_word_new_line_8: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe
+
+  valley'
+bip_39_word_new_line_9: 'hint
+
+  wisdom
+
+  dinosaur
+
+  artist
+
+  treat
+
+  good
+
+  describe
+
+  valley
+
+  weasel'
+bip_39_word_no_space_1: hint
+bip_39_word_no_space_10: hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarlic
+bip_39_word_no_space_11: hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarliccanvas
+bip_39_word_no_space_12: hintwisdomdinosaurartisttreatgooddescribevalleyweaselgarliccanvasabuse
+bip_39_word_no_space_2: hintwisdom
+bip_39_word_no_space_3: hintwisdomdinosaur
+bip_39_word_no_space_4: hintwisdomdinosaurartist
+bip_39_word_no_space_5: hintwisdomdinosaurartisttreat
+bip_39_word_no_space_6: hintwisdomdinosaurartisttreatgood
+bip_39_word_no_space_7: hintwisdomdinosaurartisttreatgooddescribe
+bip_39_word_no_space_8: hintwisdomdinosaurartisttreatgooddescribevalley
+bip_39_word_no_space_9: hintwisdomdinosaurartisttreatgooddescribevalleyweasel
+bip_39_word_space_0:
+- hint
+- wisdom
+- dinosaur
+- artist
+- treat
+- good
+- describe
+- valley
+- weasel
+- garlic
+- canvas
+- abuse
+bip_39_word_space_1: hint
+bip_39_word_space_10: hint wisdom dinosaur artist treat good describe valley weasel
+  garlic
+bip_39_word_space_11: hint wisdom dinosaur artist treat good describe valley weasel
+  garlic canvas
+bip_39_word_space_12: hint wisdom dinosaur artist treat good describe valley weasel
+  garlic canvas abuse
+bip_39_word_space_2: hint wisdom
+bip_39_word_space_3: hint wisdom dinosaur
+bip_39_word_space_4: hint wisdom dinosaur artist
+bip_39_word_space_5: hint wisdom dinosaur artist treat
+bip_39_word_space_6: hint wisdom dinosaur artist treat good
+bip_39_word_space_7: hint wisdom dinosaur artist treat good describe
+bip_39_word_space_8: hint wisdom dinosaur artist treat good describe valley
+bip_39_word_space_9: hint wisdom dinosaur artist treat good describe valley weasel
+bip_39_word_underscore_1: hint
+bip_39_word_underscore_10: hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic
+bip_39_word_underscore_11: hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic_canvas
+bip_39_word_underscore_12: hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel_garlic_canvas_abuse
+bip_39_word_underscore_2: hint_wisdom
+bip_39_word_underscore_3: hint_wisdom_dinosaur
+bip_39_word_underscore_4: hint_wisdom_dinosaur_artist
+bip_39_word_underscore_5: hint_wisdom_dinosaur_artist_treat
+bip_39_word_underscore_6: hint_wisdom_dinosaur_artist_treat_good
+bip_39_word_underscore_7: hint_wisdom_dinosaur_artist_treat_good_describe
+bip_39_word_underscore_8: hint_wisdom_dinosaur_artist_treat_good_describe_valley
+bip_39_word_underscore_9: hint_wisdom_dinosaur_artist_treat_good_describe_valley_weasel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_01_06__16_teeth_sh_m3
 id_no_color: 010616teethshm3
 id_no_size: 01_06__16_teeth_sh_m3
 id_no_type: pulley_gt2_01_06__16_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__16_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20pniv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20pniv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20pniv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 010616Teethshm3
 name_no_size: 01 06  16 Teeth Sh M3
 name_no_size_short: 01 06  16 Teeth Sh M3
 name_no_type: Pulley Gt2 01 06  16 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__16_teeth_sh_m3
 oomp_word: anger elephant rat
 oomp_word_emoji: ':anger: :elephant: :rat:'

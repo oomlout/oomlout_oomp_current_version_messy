@@ -1,3 +1,221 @@
+bip_39_word_dash_1: ring
+bip_39_word_dash_10: ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title
+bip_39_word_dash_11: ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title-remain
+bip_39_word_dash_12: ring-tiger-pole-ginger-lawn-night-sting-yard-hip-title-remain-always
+bip_39_word_dash_2: ring-tiger
+bip_39_word_dash_3: ring-tiger-pole
+bip_39_word_dash_4: ring-tiger-pole-ginger
+bip_39_word_dash_5: ring-tiger-pole-ginger-lawn
+bip_39_word_dash_6: ring-tiger-pole-ginger-lawn-night
+bip_39_word_dash_7: ring-tiger-pole-ginger-lawn-night-sting
+bip_39_word_dash_8: ring-tiger-pole-ginger-lawn-night-sting-yard
+bip_39_word_dash_9: ring-tiger-pole-ginger-lawn-night-sting-yard-hip
+bip_39_word_new_br_1: ring
+bip_39_word_new_br_10: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title
+bip_39_word_new_br_11: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain
+bip_39_word_new_br_12: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip<br>title<br>remain<br>always
+bip_39_word_new_br_2: ring<br>tiger
+bip_39_word_new_br_3: ring<br>tiger<br>pole
+bip_39_word_new_br_4: ring<br>tiger<br>pole<br>ginger
+bip_39_word_new_br_5: ring<br>tiger<br>pole<br>ginger<br>lawn
+bip_39_word_new_br_6: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night
+bip_39_word_new_br_7: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting
+bip_39_word_new_br_8: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard
+bip_39_word_new_br_9: ring<br>tiger<br>pole<br>ginger<br>lawn<br>night<br>sting<br>yard<br>hip
+bip_39_word_new_line_1: ring
+bip_39_word_new_line_10: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting
+
+  yard
+
+  hip
+
+  title'
+bip_39_word_new_line_11: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting
+
+  yard
+
+  hip
+
+  title
+
+  remain'
+bip_39_word_new_line_12: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting
+
+  yard
+
+  hip
+
+  title
+
+  remain
+
+  always'
+bip_39_word_new_line_2: 'ring
+
+  tiger'
+bip_39_word_new_line_3: 'ring
+
+  tiger
+
+  pole'
+bip_39_word_new_line_4: 'ring
+
+  tiger
+
+  pole
+
+  ginger'
+bip_39_word_new_line_5: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn'
+bip_39_word_new_line_6: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night'
+bip_39_word_new_line_7: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting'
+bip_39_word_new_line_8: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting
+
+  yard'
+bip_39_word_new_line_9: 'ring
+
+  tiger
+
+  pole
+
+  ginger
+
+  lawn
+
+  night
+
+  sting
+
+  yard
+
+  hip'
+bip_39_word_no_space_1: ring
+bip_39_word_no_space_10: ringtigerpolegingerlawnnightstingyardhiptitle
+bip_39_word_no_space_11: ringtigerpolegingerlawnnightstingyardhiptitleremain
+bip_39_word_no_space_12: ringtigerpolegingerlawnnightstingyardhiptitleremainalways
+bip_39_word_no_space_2: ringtiger
+bip_39_word_no_space_3: ringtigerpole
+bip_39_word_no_space_4: ringtigerpoleginger
+bip_39_word_no_space_5: ringtigerpolegingerlawn
+bip_39_word_no_space_6: ringtigerpolegingerlawnnight
+bip_39_word_no_space_7: ringtigerpolegingerlawnnightsting
+bip_39_word_no_space_8: ringtigerpolegingerlawnnightstingyard
+bip_39_word_no_space_9: ringtigerpolegingerlawnnightstingyardhip
+bip_39_word_space_0:
+- ring
+- tiger
+- pole
+- ginger
+- lawn
+- night
+- sting
+- yard
+- hip
+- title
+- remain
+- always
+bip_39_word_space_1: ring
+bip_39_word_space_10: ring tiger pole ginger lawn night sting yard hip title
+bip_39_word_space_11: ring tiger pole ginger lawn night sting yard hip title remain
+bip_39_word_space_12: ring tiger pole ginger lawn night sting yard hip title remain
+  always
+bip_39_word_space_2: ring tiger
+bip_39_word_space_3: ring tiger pole
+bip_39_word_space_4: ring tiger pole ginger
+bip_39_word_space_5: ring tiger pole ginger lawn
+bip_39_word_space_6: ring tiger pole ginger lawn night
+bip_39_word_space_7: ring tiger pole ginger lawn night sting
+bip_39_word_space_8: ring tiger pole ginger lawn night sting yard
+bip_39_word_space_9: ring tiger pole ginger lawn night sting yard hip
+bip_39_word_underscore_1: ring
+bip_39_word_underscore_10: ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title
+bip_39_word_underscore_11: ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title_remain
+bip_39_word_underscore_12: ring_tiger_pole_ginger_lawn_night_sting_yard_hip_title_remain_always
+bip_39_word_underscore_2: ring_tiger
+bip_39_word_underscore_3: ring_tiger_pole
+bip_39_word_underscore_4: ring_tiger_pole_ginger
+bip_39_word_underscore_5: ring_tiger_pole_ginger_lawn
+bip_39_word_underscore_6: ring_tiger_pole_ginger_lawn_night
+bip_39_word_underscore_7: ring_tiger_pole_ginger_lawn_night_sting
+bip_39_word_underscore_8: ring_tiger_pole_ginger_lawn_night_sting_yard
+bip_39_word_underscore_9: ring_tiger_pole_ginger_lawn_night_sting_yard_hip
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +314,14 @@ id_no_color: 0ohm
 id_no_size: 0_ohm
 id_no_type: quarter_watt_through_hole_0_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_0_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204qjw8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204qjw8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204qjw8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +347,7 @@ name_no_color: 0Ohm
 name_no_size: 0 Ohm
 name_no_size_short: 0 Ohm
 name_no_type: Quarter Watt Through Hole 0 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_0_ohm
 oomp_word: balloon chestnut frog
 oomp_word_emoji: ':balloon: :chestnut: :frog:'

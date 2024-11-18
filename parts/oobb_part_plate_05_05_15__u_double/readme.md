@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 05 05 15  U Double
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_05_05_15__u_double
   * classification: oobb

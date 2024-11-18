@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Bowl 150 mm Diameter Ikea 802 589 15
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
   * classification: dish

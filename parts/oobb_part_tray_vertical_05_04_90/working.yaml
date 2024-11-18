@@ -1,3 +1,222 @@
+bip_39_word_dash_1: emerge
+bip_39_word_dash_10: emerge-able-pony-reform-coffee-neck-hope-isolate-volcano-help
+bip_39_word_dash_11: emerge-able-pony-reform-coffee-neck-hope-isolate-volcano-help-fault
+bip_39_word_dash_12: emerge-able-pony-reform-coffee-neck-hope-isolate-volcano-help-fault-armed
+bip_39_word_dash_2: emerge-able
+bip_39_word_dash_3: emerge-able-pony
+bip_39_word_dash_4: emerge-able-pony-reform
+bip_39_word_dash_5: emerge-able-pony-reform-coffee
+bip_39_word_dash_6: emerge-able-pony-reform-coffee-neck
+bip_39_word_dash_7: emerge-able-pony-reform-coffee-neck-hope
+bip_39_word_dash_8: emerge-able-pony-reform-coffee-neck-hope-isolate
+bip_39_word_dash_9: emerge-able-pony-reform-coffee-neck-hope-isolate-volcano
+bip_39_word_new_br_1: emerge
+bip_39_word_new_br_10: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help
+bip_39_word_new_br_11: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help<br>fault
+bip_39_word_new_br_12: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano<br>help<br>fault<br>armed
+bip_39_word_new_br_2: emerge<br>able
+bip_39_word_new_br_3: emerge<br>able<br>pony
+bip_39_word_new_br_4: emerge<br>able<br>pony<br>reform
+bip_39_word_new_br_5: emerge<br>able<br>pony<br>reform<br>coffee
+bip_39_word_new_br_6: emerge<br>able<br>pony<br>reform<br>coffee<br>neck
+bip_39_word_new_br_7: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope
+bip_39_word_new_br_8: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate
+bip_39_word_new_br_9: emerge<br>able<br>pony<br>reform<br>coffee<br>neck<br>hope<br>isolate<br>volcano
+bip_39_word_new_line_1: emerge
+bip_39_word_new_line_10: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope
+
+  isolate
+
+  volcano
+
+  help'
+bip_39_word_new_line_11: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope
+
+  isolate
+
+  volcano
+
+  help
+
+  fault'
+bip_39_word_new_line_12: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope
+
+  isolate
+
+  volcano
+
+  help
+
+  fault
+
+  armed'
+bip_39_word_new_line_2: 'emerge
+
+  able'
+bip_39_word_new_line_3: 'emerge
+
+  able
+
+  pony'
+bip_39_word_new_line_4: 'emerge
+
+  able
+
+  pony
+
+  reform'
+bip_39_word_new_line_5: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee'
+bip_39_word_new_line_6: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck'
+bip_39_word_new_line_7: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope'
+bip_39_word_new_line_8: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope
+
+  isolate'
+bip_39_word_new_line_9: 'emerge
+
+  able
+
+  pony
+
+  reform
+
+  coffee
+
+  neck
+
+  hope
+
+  isolate
+
+  volcano'
+bip_39_word_no_space_1: emerge
+bip_39_word_no_space_10: emergeableponyreformcoffeeneckhopeisolatevolcanohelp
+bip_39_word_no_space_11: emergeableponyreformcoffeeneckhopeisolatevolcanohelpfault
+bip_39_word_no_space_12: emergeableponyreformcoffeeneckhopeisolatevolcanohelpfaultarmed
+bip_39_word_no_space_2: emergeable
+bip_39_word_no_space_3: emergeablepony
+bip_39_word_no_space_4: emergeableponyreform
+bip_39_word_no_space_5: emergeableponyreformcoffee
+bip_39_word_no_space_6: emergeableponyreformcoffeeneck
+bip_39_word_no_space_7: emergeableponyreformcoffeeneckhope
+bip_39_word_no_space_8: emergeableponyreformcoffeeneckhopeisolate
+bip_39_word_no_space_9: emergeableponyreformcoffeeneckhopeisolatevolcano
+bip_39_word_space_0:
+- emerge
+- able
+- pony
+- reform
+- coffee
+- neck
+- hope
+- isolate
+- volcano
+- help
+- fault
+- armed
+bip_39_word_space_1: emerge
+bip_39_word_space_10: emerge able pony reform coffee neck hope isolate volcano help
+bip_39_word_space_11: emerge able pony reform coffee neck hope isolate volcano help
+  fault
+bip_39_word_space_12: emerge able pony reform coffee neck hope isolate volcano help
+  fault armed
+bip_39_word_space_2: emerge able
+bip_39_word_space_3: emerge able pony
+bip_39_word_space_4: emerge able pony reform
+bip_39_word_space_5: emerge able pony reform coffee
+bip_39_word_space_6: emerge able pony reform coffee neck
+bip_39_word_space_7: emerge able pony reform coffee neck hope
+bip_39_word_space_8: emerge able pony reform coffee neck hope isolate
+bip_39_word_space_9: emerge able pony reform coffee neck hope isolate volcano
+bip_39_word_underscore_1: emerge
+bip_39_word_underscore_10: emerge_able_pony_reform_coffee_neck_hope_isolate_volcano_help
+bip_39_word_underscore_11: emerge_able_pony_reform_coffee_neck_hope_isolate_volcano_help_fault
+bip_39_word_underscore_12: emerge_able_pony_reform_coffee_neck_hope_isolate_volcano_help_fault_armed
+bip_39_word_underscore_2: emerge_able
+bip_39_word_underscore_3: emerge_able_pony
+bip_39_word_underscore_4: emerge_able_pony_reform
+bip_39_word_underscore_5: emerge_able_pony_reform_coffee
+bip_39_word_underscore_6: emerge_able_pony_reform_coffee_neck
+bip_39_word_underscore_7: emerge_able_pony_reform_coffee_neck_hope
+bip_39_word_underscore_8: emerge_able_pony_reform_coffee_neck_hope_isolate
+bip_39_word_underscore_9: emerge_able_pony_reform_coffee_neck_hope_isolate_volcano
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_05_04_90
 id_no_color: 050490
 id_no_size: 05_04_90
 id_no_type: tray_vertical_05_04_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_04_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_04_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207czx6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207czx6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207czx6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050490
 name_no_size: 05 04 90
 name_no_size_short: 05 04 90
 name_no_type: Tray Vertical 05 04 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_05_04_90
 oomp_word: sushi guitar hotel
 oomp_word_emoji: ':sushi: :guitar: :hotel:'

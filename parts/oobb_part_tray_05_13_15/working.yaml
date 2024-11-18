@@ -1,3 +1,223 @@
+bip_39_word_dash_1: display
+bip_39_word_dash_10: display-patient-witness-bracket-original-sugar-army-sick-output-south
+bip_39_word_dash_11: display-patient-witness-bracket-original-sugar-army-sick-output-south-embark
+bip_39_word_dash_12: display-patient-witness-bracket-original-sugar-army-sick-output-south-embark-april
+bip_39_word_dash_2: display-patient
+bip_39_word_dash_3: display-patient-witness
+bip_39_word_dash_4: display-patient-witness-bracket
+bip_39_word_dash_5: display-patient-witness-bracket-original
+bip_39_word_dash_6: display-patient-witness-bracket-original-sugar
+bip_39_word_dash_7: display-patient-witness-bracket-original-sugar-army
+bip_39_word_dash_8: display-patient-witness-bracket-original-sugar-army-sick
+bip_39_word_dash_9: display-patient-witness-bracket-original-sugar-army-sick-output
+bip_39_word_new_br_1: display
+bip_39_word_new_br_10: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south
+bip_39_word_new_br_11: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark
+bip_39_word_new_br_12: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output<br>south<br>embark<br>april
+bip_39_word_new_br_2: display<br>patient
+bip_39_word_new_br_3: display<br>patient<br>witness
+bip_39_word_new_br_4: display<br>patient<br>witness<br>bracket
+bip_39_word_new_br_5: display<br>patient<br>witness<br>bracket<br>original
+bip_39_word_new_br_6: display<br>patient<br>witness<br>bracket<br>original<br>sugar
+bip_39_word_new_br_7: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army
+bip_39_word_new_br_8: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick
+bip_39_word_new_br_9: display<br>patient<br>witness<br>bracket<br>original<br>sugar<br>army<br>sick<br>output
+bip_39_word_new_line_1: display
+bip_39_word_new_line_10: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army
+
+  sick
+
+  output
+
+  south'
+bip_39_word_new_line_11: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army
+
+  sick
+
+  output
+
+  south
+
+  embark'
+bip_39_word_new_line_12: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army
+
+  sick
+
+  output
+
+  south
+
+  embark
+
+  april'
+bip_39_word_new_line_2: 'display
+
+  patient'
+bip_39_word_new_line_3: 'display
+
+  patient
+
+  witness'
+bip_39_word_new_line_4: 'display
+
+  patient
+
+  witness
+
+  bracket'
+bip_39_word_new_line_5: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original'
+bip_39_word_new_line_6: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar'
+bip_39_word_new_line_7: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army'
+bip_39_word_new_line_8: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army
+
+  sick'
+bip_39_word_new_line_9: 'display
+
+  patient
+
+  witness
+
+  bracket
+
+  original
+
+  sugar
+
+  army
+
+  sick
+
+  output'
+bip_39_word_no_space_1: display
+bip_39_word_no_space_10: displaypatientwitnessbracketoriginalsugararmysickoutputsouth
+bip_39_word_no_space_11: displaypatientwitnessbracketoriginalsugararmysickoutputsouthembark
+bip_39_word_no_space_12: displaypatientwitnessbracketoriginalsugararmysickoutputsouthembarkapril
+bip_39_word_no_space_2: displaypatient
+bip_39_word_no_space_3: displaypatientwitness
+bip_39_word_no_space_4: displaypatientwitnessbracket
+bip_39_word_no_space_5: displaypatientwitnessbracketoriginal
+bip_39_word_no_space_6: displaypatientwitnessbracketoriginalsugar
+bip_39_word_no_space_7: displaypatientwitnessbracketoriginalsugararmy
+bip_39_word_no_space_8: displaypatientwitnessbracketoriginalsugararmysick
+bip_39_word_no_space_9: displaypatientwitnessbracketoriginalsugararmysickoutput
+bip_39_word_space_0:
+- display
+- patient
+- witness
+- bracket
+- original
+- sugar
+- army
+- sick
+- output
+- south
+- embark
+- april
+bip_39_word_space_1: display
+bip_39_word_space_10: display patient witness bracket original sugar army sick output
+  south
+bip_39_word_space_11: display patient witness bracket original sugar army sick output
+  south embark
+bip_39_word_space_12: display patient witness bracket original sugar army sick output
+  south embark april
+bip_39_word_space_2: display patient
+bip_39_word_space_3: display patient witness
+bip_39_word_space_4: display patient witness bracket
+bip_39_word_space_5: display patient witness bracket original
+bip_39_word_space_6: display patient witness bracket original sugar
+bip_39_word_space_7: display patient witness bracket original sugar army
+bip_39_word_space_8: display patient witness bracket original sugar army sick
+bip_39_word_space_9: display patient witness bracket original sugar army sick output
+bip_39_word_underscore_1: display
+bip_39_word_underscore_10: display_patient_witness_bracket_original_sugar_army_sick_output_south
+bip_39_word_underscore_11: display_patient_witness_bracket_original_sugar_army_sick_output_south_embark
+bip_39_word_underscore_12: display_patient_witness_bracket_original_sugar_army_sick_output_south_embark_april
+bip_39_word_underscore_2: display_patient
+bip_39_word_underscore_3: display_patient_witness
+bip_39_word_underscore_4: display_patient_witness_bracket
+bip_39_word_underscore_5: display_patient_witness_bracket_original
+bip_39_word_underscore_6: display_patient_witness_bracket_original_sugar
+bip_39_word_underscore_7: display_patient_witness_bracket_original_sugar_army
+bip_39_word_underscore_8: display_patient_witness_bracket_original_sugar_army_sick
+bip_39_word_underscore_9: display_patient_witness_bracket_original_sugar_army_sick_output
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_05_13_15
 id_no_color: '051315'
 id_no_size: '05_13_15'
 id_no_type: tray_05_13_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_13_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_13_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_13_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206t7ec
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206t7ec
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206t7ec
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '051315'
 name_no_size: 05 13 15
 name_no_size_short: 05 13 15
 name_no_type: Tray 05 13 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_13_15
 oomp_word: jeans scissors coffee
 oomp_word_emoji: ':jeans: :scissors: :coffee:'

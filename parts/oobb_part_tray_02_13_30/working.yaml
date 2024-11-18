@@ -1,3 +1,222 @@
+bip_39_word_dash_1: few
+bip_39_word_dash_10: few-what-critic-orange-senior-march-obscure-garbage-churn-rubber
+bip_39_word_dash_11: few-what-critic-orange-senior-march-obscure-garbage-churn-rubber-maze
+bip_39_word_dash_12: few-what-critic-orange-senior-march-obscure-garbage-churn-rubber-maze-absorb
+bip_39_word_dash_2: few-what
+bip_39_word_dash_3: few-what-critic
+bip_39_word_dash_4: few-what-critic-orange
+bip_39_word_dash_5: few-what-critic-orange-senior
+bip_39_word_dash_6: few-what-critic-orange-senior-march
+bip_39_word_dash_7: few-what-critic-orange-senior-march-obscure
+bip_39_word_dash_8: few-what-critic-orange-senior-march-obscure-garbage
+bip_39_word_dash_9: few-what-critic-orange-senior-march-obscure-garbage-churn
+bip_39_word_new_br_1: few
+bip_39_word_new_br_10: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber
+bip_39_word_new_br_11: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber<br>maze
+bip_39_word_new_br_12: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn<br>rubber<br>maze<br>absorb
+bip_39_word_new_br_2: few<br>what
+bip_39_word_new_br_3: few<br>what<br>critic
+bip_39_word_new_br_4: few<br>what<br>critic<br>orange
+bip_39_word_new_br_5: few<br>what<br>critic<br>orange<br>senior
+bip_39_word_new_br_6: few<br>what<br>critic<br>orange<br>senior<br>march
+bip_39_word_new_br_7: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure
+bip_39_word_new_br_8: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage
+bip_39_word_new_br_9: few<br>what<br>critic<br>orange<br>senior<br>march<br>obscure<br>garbage<br>churn
+bip_39_word_new_line_1: few
+bip_39_word_new_line_10: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure
+
+  garbage
+
+  churn
+
+  rubber'
+bip_39_word_new_line_11: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure
+
+  garbage
+
+  churn
+
+  rubber
+
+  maze'
+bip_39_word_new_line_12: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure
+
+  garbage
+
+  churn
+
+  rubber
+
+  maze
+
+  absorb'
+bip_39_word_new_line_2: 'few
+
+  what'
+bip_39_word_new_line_3: 'few
+
+  what
+
+  critic'
+bip_39_word_new_line_4: 'few
+
+  what
+
+  critic
+
+  orange'
+bip_39_word_new_line_5: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior'
+bip_39_word_new_line_6: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march'
+bip_39_word_new_line_7: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure'
+bip_39_word_new_line_8: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure
+
+  garbage'
+bip_39_word_new_line_9: 'few
+
+  what
+
+  critic
+
+  orange
+
+  senior
+
+  march
+
+  obscure
+
+  garbage
+
+  churn'
+bip_39_word_no_space_1: few
+bip_39_word_no_space_10: fewwhatcriticorangeseniormarchobscuregarbagechurnrubber
+bip_39_word_no_space_11: fewwhatcriticorangeseniormarchobscuregarbagechurnrubbermaze
+bip_39_word_no_space_12: fewwhatcriticorangeseniormarchobscuregarbagechurnrubbermazeabsorb
+bip_39_word_no_space_2: fewwhat
+bip_39_word_no_space_3: fewwhatcritic
+bip_39_word_no_space_4: fewwhatcriticorange
+bip_39_word_no_space_5: fewwhatcriticorangesenior
+bip_39_word_no_space_6: fewwhatcriticorangeseniormarch
+bip_39_word_no_space_7: fewwhatcriticorangeseniormarchobscure
+bip_39_word_no_space_8: fewwhatcriticorangeseniormarchobscuregarbage
+bip_39_word_no_space_9: fewwhatcriticorangeseniormarchobscuregarbagechurn
+bip_39_word_space_0:
+- few
+- what
+- critic
+- orange
+- senior
+- march
+- obscure
+- garbage
+- churn
+- rubber
+- maze
+- absorb
+bip_39_word_space_1: few
+bip_39_word_space_10: few what critic orange senior march obscure garbage churn rubber
+bip_39_word_space_11: few what critic orange senior march obscure garbage churn rubber
+  maze
+bip_39_word_space_12: few what critic orange senior march obscure garbage churn rubber
+  maze absorb
+bip_39_word_space_2: few what
+bip_39_word_space_3: few what critic
+bip_39_word_space_4: few what critic orange
+bip_39_word_space_5: few what critic orange senior
+bip_39_word_space_6: few what critic orange senior march
+bip_39_word_space_7: few what critic orange senior march obscure
+bip_39_word_space_8: few what critic orange senior march obscure garbage
+bip_39_word_space_9: few what critic orange senior march obscure garbage churn
+bip_39_word_underscore_1: few
+bip_39_word_underscore_10: few_what_critic_orange_senior_march_obscure_garbage_churn_rubber
+bip_39_word_underscore_11: few_what_critic_orange_senior_march_obscure_garbage_churn_rubber_maze
+bip_39_word_underscore_12: few_what_critic_orange_senior_march_obscure_garbage_churn_rubber_maze_absorb
+bip_39_word_underscore_2: few_what
+bip_39_word_underscore_3: few_what_critic
+bip_39_word_underscore_4: few_what_critic_orange
+bip_39_word_underscore_5: few_what_critic_orange_senior
+bip_39_word_underscore_6: few_what_critic_orange_senior_march
+bip_39_word_underscore_7: few_what_critic_orange_senior_march_obscure
+bip_39_word_underscore_8: few_what_critic_orange_senior_march_obscure_garbage
+bip_39_word_underscore_9: few_what_critic_orange_senior_march_obscure_garbage_churn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_13_30
 id_no_color: '021330'
 id_no_size: '02_13_30'
 id_no_type: tray_02_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20id67
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20id67
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20id67
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '021330'
 name_no_size: 02 13 30
 name_no_size_short: 02 13 30
 name_no_type: Tray 02 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_13_30
 oomp_word: heart question cyclone
 oomp_word_emoji: ':heart: :question: :cyclone:'

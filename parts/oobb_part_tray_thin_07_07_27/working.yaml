@@ -1,3 +1,222 @@
+bip_39_word_dash_1: chunk
+bip_39_word_dash_10: chunk-change-fun-make-awkward-video-alert-please-wisdom-calm
+bip_39_word_dash_11: chunk-change-fun-make-awkward-video-alert-please-wisdom-calm-envelope
+bip_39_word_dash_12: chunk-change-fun-make-awkward-video-alert-please-wisdom-calm-envelope-alcohol
+bip_39_word_dash_2: chunk-change
+bip_39_word_dash_3: chunk-change-fun
+bip_39_word_dash_4: chunk-change-fun-make
+bip_39_word_dash_5: chunk-change-fun-make-awkward
+bip_39_word_dash_6: chunk-change-fun-make-awkward-video
+bip_39_word_dash_7: chunk-change-fun-make-awkward-video-alert
+bip_39_word_dash_8: chunk-change-fun-make-awkward-video-alert-please
+bip_39_word_dash_9: chunk-change-fun-make-awkward-video-alert-please-wisdom
+bip_39_word_new_br_1: chunk
+bip_39_word_new_br_10: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm
+bip_39_word_new_br_11: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm<br>envelope
+bip_39_word_new_br_12: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom<br>calm<br>envelope<br>alcohol
+bip_39_word_new_br_2: chunk<br>change
+bip_39_word_new_br_3: chunk<br>change<br>fun
+bip_39_word_new_br_4: chunk<br>change<br>fun<br>make
+bip_39_word_new_br_5: chunk<br>change<br>fun<br>make<br>awkward
+bip_39_word_new_br_6: chunk<br>change<br>fun<br>make<br>awkward<br>video
+bip_39_word_new_br_7: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert
+bip_39_word_new_br_8: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please
+bip_39_word_new_br_9: chunk<br>change<br>fun<br>make<br>awkward<br>video<br>alert<br>please<br>wisdom
+bip_39_word_new_line_1: chunk
+bip_39_word_new_line_10: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert
+
+  please
+
+  wisdom
+
+  calm'
+bip_39_word_new_line_11: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert
+
+  please
+
+  wisdom
+
+  calm
+
+  envelope'
+bip_39_word_new_line_12: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert
+
+  please
+
+  wisdom
+
+  calm
+
+  envelope
+
+  alcohol'
+bip_39_word_new_line_2: 'chunk
+
+  change'
+bip_39_word_new_line_3: 'chunk
+
+  change
+
+  fun'
+bip_39_word_new_line_4: 'chunk
+
+  change
+
+  fun
+
+  make'
+bip_39_word_new_line_5: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward'
+bip_39_word_new_line_6: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video'
+bip_39_word_new_line_7: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert'
+bip_39_word_new_line_8: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert
+
+  please'
+bip_39_word_new_line_9: 'chunk
+
+  change
+
+  fun
+
+  make
+
+  awkward
+
+  video
+
+  alert
+
+  please
+
+  wisdom'
+bip_39_word_no_space_1: chunk
+bip_39_word_no_space_10: chunkchangefunmakeawkwardvideoalertpleasewisdomcalm
+bip_39_word_no_space_11: chunkchangefunmakeawkwardvideoalertpleasewisdomcalmenvelope
+bip_39_word_no_space_12: chunkchangefunmakeawkwardvideoalertpleasewisdomcalmenvelopealcohol
+bip_39_word_no_space_2: chunkchange
+bip_39_word_no_space_3: chunkchangefun
+bip_39_word_no_space_4: chunkchangefunmake
+bip_39_word_no_space_5: chunkchangefunmakeawkward
+bip_39_word_no_space_6: chunkchangefunmakeawkwardvideo
+bip_39_word_no_space_7: chunkchangefunmakeawkwardvideoalert
+bip_39_word_no_space_8: chunkchangefunmakeawkwardvideoalertplease
+bip_39_word_no_space_9: chunkchangefunmakeawkwardvideoalertpleasewisdom
+bip_39_word_space_0:
+- chunk
+- change
+- fun
+- make
+- awkward
+- video
+- alert
+- please
+- wisdom
+- calm
+- envelope
+- alcohol
+bip_39_word_space_1: chunk
+bip_39_word_space_10: chunk change fun make awkward video alert please wisdom calm
+bip_39_word_space_11: chunk change fun make awkward video alert please wisdom calm
+  envelope
+bip_39_word_space_12: chunk change fun make awkward video alert please wisdom calm
+  envelope alcohol
+bip_39_word_space_2: chunk change
+bip_39_word_space_3: chunk change fun
+bip_39_word_space_4: chunk change fun make
+bip_39_word_space_5: chunk change fun make awkward
+bip_39_word_space_6: chunk change fun make awkward video
+bip_39_word_space_7: chunk change fun make awkward video alert
+bip_39_word_space_8: chunk change fun make awkward video alert please
+bip_39_word_space_9: chunk change fun make awkward video alert please wisdom
+bip_39_word_underscore_1: chunk
+bip_39_word_underscore_10: chunk_change_fun_make_awkward_video_alert_please_wisdom_calm
+bip_39_word_underscore_11: chunk_change_fun_make_awkward_video_alert_please_wisdom_calm_envelope
+bip_39_word_underscore_12: chunk_change_fun_make_awkward_video_alert_please_wisdom_calm_envelope_alcohol
+bip_39_word_underscore_2: chunk_change
+bip_39_word_underscore_3: chunk_change_fun
+bip_39_word_underscore_4: chunk_change_fun_make
+bip_39_word_underscore_5: chunk_change_fun_make_awkward
+bip_39_word_underscore_6: chunk_change_fun_make_awkward_video
+bip_39_word_underscore_7: chunk_change_fun_make_awkward_video_alert
+bip_39_word_underscore_8: chunk_change_fun_make_awkward_video_alert_please
+bip_39_word_underscore_9: chunk_change_fun_make_awkward_video_alert_please_wisdom
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_07_07_27
 id_no_color: '070727'
 id_no_size: '07_07_27'
 id_no_type: tray_thin_07_07_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_07_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_07_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_07_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203rog8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203rog8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203rog8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070727'
 name_no_size: 07 07 27
 name_no_size_short: 07 07 27
 name_no_type: Tray Thin 07 07 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_07_27
 oomp_word: poodle baseball wrench
 oomp_word_emoji: ':poodle: :baseball: :wrench:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988
+* name_short: 
 ### id
 * oomp_id: tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tea: :rowboat: :koala:
 * md5_6_alpha: 73hoa
 * md5_6: b5e33a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2073hoa)
+[2x1](http://192.168.1.242:1112/?label=oomp%2073hoa)
+[6x4](http://192.168.1.55:1112/?label=oomp%2073hoa)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ soft |
 | id_no_color | dewaltdc988 |  
 | id_no_size | dewalt_dc988 |  
 | id_no_type | 18_volt_dewalt_tower_dewalt_dc988 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2073hoa |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2073hoa |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2073hoa |  
 | manufacturer | dewalt |  
 | manufacturer_capital | Dewalt |  
 | manufacturer_first_letter | d |  
@@ -282,6 +315,7 @@ soft |
 | name_no_size | Dewalt Dc988 |  
 | name_no_size_short | Dewalt Dc988 |  
 | name_no_type | 18 Volt Dewalt Tower Dewalt Dc988 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988 |  
 | oomp_word | tea rowboat koala |  
 | oomp_word_emoji | :tea: :rowboat: :koala: |  

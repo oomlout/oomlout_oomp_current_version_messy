@@ -1,3 +1,221 @@
+bip_39_word_dash_1: aisle
+bip_39_word_dash_10: aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce
+bip_39_word_dash_11: aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce-best
+bip_39_word_dash_12: aisle-lawn-burst-portion-cart-aisle-angle-soup-corn-reduce-best-alpha
+bip_39_word_dash_2: aisle-lawn
+bip_39_word_dash_3: aisle-lawn-burst
+bip_39_word_dash_4: aisle-lawn-burst-portion
+bip_39_word_dash_5: aisle-lawn-burst-portion-cart
+bip_39_word_dash_6: aisle-lawn-burst-portion-cart-aisle
+bip_39_word_dash_7: aisle-lawn-burst-portion-cart-aisle-angle
+bip_39_word_dash_8: aisle-lawn-burst-portion-cart-aisle-angle-soup
+bip_39_word_dash_9: aisle-lawn-burst-portion-cart-aisle-angle-soup-corn
+bip_39_word_new_br_1: aisle
+bip_39_word_new_br_10: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce
+bip_39_word_new_br_11: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce<br>best
+bip_39_word_new_br_12: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn<br>reduce<br>best<br>alpha
+bip_39_word_new_br_2: aisle<br>lawn
+bip_39_word_new_br_3: aisle<br>lawn<br>burst
+bip_39_word_new_br_4: aisle<br>lawn<br>burst<br>portion
+bip_39_word_new_br_5: aisle<br>lawn<br>burst<br>portion<br>cart
+bip_39_word_new_br_6: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle
+bip_39_word_new_br_7: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle
+bip_39_word_new_br_8: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup
+bip_39_word_new_br_9: aisle<br>lawn<br>burst<br>portion<br>cart<br>aisle<br>angle<br>soup<br>corn
+bip_39_word_new_line_1: aisle
+bip_39_word_new_line_10: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle
+
+  soup
+
+  corn
+
+  reduce'
+bip_39_word_new_line_11: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle
+
+  soup
+
+  corn
+
+  reduce
+
+  best'
+bip_39_word_new_line_12: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle
+
+  soup
+
+  corn
+
+  reduce
+
+  best
+
+  alpha'
+bip_39_word_new_line_2: 'aisle
+
+  lawn'
+bip_39_word_new_line_3: 'aisle
+
+  lawn
+
+  burst'
+bip_39_word_new_line_4: 'aisle
+
+  lawn
+
+  burst
+
+  portion'
+bip_39_word_new_line_5: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart'
+bip_39_word_new_line_6: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle'
+bip_39_word_new_line_7: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle'
+bip_39_word_new_line_8: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle
+
+  soup'
+bip_39_word_new_line_9: 'aisle
+
+  lawn
+
+  burst
+
+  portion
+
+  cart
+
+  aisle
+
+  angle
+
+  soup
+
+  corn'
+bip_39_word_no_space_1: aisle
+bip_39_word_no_space_10: aislelawnburstportioncartaisleanglesoupcornreduce
+bip_39_word_no_space_11: aislelawnburstportioncartaisleanglesoupcornreducebest
+bip_39_word_no_space_12: aislelawnburstportioncartaisleanglesoupcornreducebestalpha
+bip_39_word_no_space_2: aislelawn
+bip_39_word_no_space_3: aislelawnburst
+bip_39_word_no_space_4: aislelawnburstportion
+bip_39_word_no_space_5: aislelawnburstportioncart
+bip_39_word_no_space_6: aislelawnburstportioncartaisle
+bip_39_word_no_space_7: aislelawnburstportioncartaisleangle
+bip_39_word_no_space_8: aislelawnburstportioncartaisleanglesoup
+bip_39_word_no_space_9: aislelawnburstportioncartaisleanglesoupcorn
+bip_39_word_space_0:
+- aisle
+- lawn
+- burst
+- portion
+- cart
+- aisle
+- angle
+- soup
+- corn
+- reduce
+- best
+- alpha
+bip_39_word_space_1: aisle
+bip_39_word_space_10: aisle lawn burst portion cart aisle angle soup corn reduce
+bip_39_word_space_11: aisle lawn burst portion cart aisle angle soup corn reduce best
+bip_39_word_space_12: aisle lawn burst portion cart aisle angle soup corn reduce best
+  alpha
+bip_39_word_space_2: aisle lawn
+bip_39_word_space_3: aisle lawn burst
+bip_39_word_space_4: aisle lawn burst portion
+bip_39_word_space_5: aisle lawn burst portion cart
+bip_39_word_space_6: aisle lawn burst portion cart aisle
+bip_39_word_space_7: aisle lawn burst portion cart aisle angle
+bip_39_word_space_8: aisle lawn burst portion cart aisle angle soup
+bip_39_word_space_9: aisle lawn burst portion cart aisle angle soup corn
+bip_39_word_underscore_1: aisle
+bip_39_word_underscore_10: aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce
+bip_39_word_underscore_11: aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce_best
+bip_39_word_underscore_12: aisle_lawn_burst_portion_cart_aisle_angle_soup_corn_reduce_best_alpha
+bip_39_word_underscore_2: aisle_lawn
+bip_39_word_underscore_3: aisle_lawn_burst
+bip_39_word_underscore_4: aisle_lawn_burst_portion
+bip_39_word_underscore_5: aisle_lawn_burst_portion_cart
+bip_39_word_underscore_6: aisle_lawn_burst_portion_cart_aisle
+bip_39_word_underscore_7: aisle_lawn_burst_portion_cart_aisle_angle
+bip_39_word_underscore_8: aisle_lawn_burst_portion_cart_aisle_angle_soup
+bip_39_word_underscore_9: aisle_lawn_burst_portion_cart_aisle_angle_soup_corn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_2d5_02_60
 id_no_color: 2d50260
 id_no_size: 2d5_02_60
 id_no_type: tray_thin_2d5_02_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_02_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_02_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_02_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dk19
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dk19
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dk19
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 2D50260
 name_no_size: 2D5 02 60
 name_no_size_short: 2D5 02 60
 name_no_type: Tray Thin 2D5 02 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_02_60
 oomp_word: squirrel umbrella dress
 oomp_word_emoji: ':squirrel: :umbrella: :dress:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: improve
+bip_39_word_dash_10: improve-clarify-tone-bounce-symptom-hazard-inherit-odor-stay-science
+bip_39_word_dash_11: improve-clarify-tone-bounce-symptom-hazard-inherit-odor-stay-science-hunt
+bip_39_word_dash_12: improve-clarify-tone-bounce-symptom-hazard-inherit-odor-stay-science-hunt-across
+bip_39_word_dash_2: improve-clarify
+bip_39_word_dash_3: improve-clarify-tone
+bip_39_word_dash_4: improve-clarify-tone-bounce
+bip_39_word_dash_5: improve-clarify-tone-bounce-symptom
+bip_39_word_dash_6: improve-clarify-tone-bounce-symptom-hazard
+bip_39_word_dash_7: improve-clarify-tone-bounce-symptom-hazard-inherit
+bip_39_word_dash_8: improve-clarify-tone-bounce-symptom-hazard-inherit-odor
+bip_39_word_dash_9: improve-clarify-tone-bounce-symptom-hazard-inherit-odor-stay
+bip_39_word_new_br_1: improve
+bip_39_word_new_br_10: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science
+bip_39_word_new_br_11: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt
+bip_39_word_new_br_12: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay<br>science<br>hunt<br>across
+bip_39_word_new_br_2: improve<br>clarify
+bip_39_word_new_br_3: improve<br>clarify<br>tone
+bip_39_word_new_br_4: improve<br>clarify<br>tone<br>bounce
+bip_39_word_new_br_5: improve<br>clarify<br>tone<br>bounce<br>symptom
+bip_39_word_new_br_6: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard
+bip_39_word_new_br_7: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit
+bip_39_word_new_br_8: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor
+bip_39_word_new_br_9: improve<br>clarify<br>tone<br>bounce<br>symptom<br>hazard<br>inherit<br>odor<br>stay
+bip_39_word_new_line_1: improve
+bip_39_word_new_line_10: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit
+
+  odor
+
+  stay
+
+  science'
+bip_39_word_new_line_11: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit
+
+  odor
+
+  stay
+
+  science
+
+  hunt'
+bip_39_word_new_line_12: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit
+
+  odor
+
+  stay
+
+  science
+
+  hunt
+
+  across'
+bip_39_word_new_line_2: 'improve
+
+  clarify'
+bip_39_word_new_line_3: 'improve
+
+  clarify
+
+  tone'
+bip_39_word_new_line_4: 'improve
+
+  clarify
+
+  tone
+
+  bounce'
+bip_39_word_new_line_5: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom'
+bip_39_word_new_line_6: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard'
+bip_39_word_new_line_7: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit'
+bip_39_word_new_line_8: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit
+
+  odor'
+bip_39_word_new_line_9: 'improve
+
+  clarify
+
+  tone
+
+  bounce
+
+  symptom
+
+  hazard
+
+  inherit
+
+  odor
+
+  stay'
+bip_39_word_no_space_1: improve
+bip_39_word_no_space_10: improveclarifytonebouncesymptomhazardinheritodorstayscience
+bip_39_word_no_space_11: improveclarifytonebouncesymptomhazardinheritodorstaysciencehunt
+bip_39_word_no_space_12: improveclarifytonebouncesymptomhazardinheritodorstaysciencehuntacross
+bip_39_word_no_space_2: improveclarify
+bip_39_word_no_space_3: improveclarifytone
+bip_39_word_no_space_4: improveclarifytonebounce
+bip_39_word_no_space_5: improveclarifytonebouncesymptom
+bip_39_word_no_space_6: improveclarifytonebouncesymptomhazard
+bip_39_word_no_space_7: improveclarifytonebouncesymptomhazardinherit
+bip_39_word_no_space_8: improveclarifytonebouncesymptomhazardinheritodor
+bip_39_word_no_space_9: improveclarifytonebouncesymptomhazardinheritodorstay
+bip_39_word_space_0:
+- improve
+- clarify
+- tone
+- bounce
+- symptom
+- hazard
+- inherit
+- odor
+- stay
+- science
+- hunt
+- across
+bip_39_word_space_1: improve
+bip_39_word_space_10: improve clarify tone bounce symptom hazard inherit odor stay
+  science
+bip_39_word_space_11: improve clarify tone bounce symptom hazard inherit odor stay
+  science hunt
+bip_39_word_space_12: improve clarify tone bounce symptom hazard inherit odor stay
+  science hunt across
+bip_39_word_space_2: improve clarify
+bip_39_word_space_3: improve clarify tone
+bip_39_word_space_4: improve clarify tone bounce
+bip_39_word_space_5: improve clarify tone bounce symptom
+bip_39_word_space_6: improve clarify tone bounce symptom hazard
+bip_39_word_space_7: improve clarify tone bounce symptom hazard inherit
+bip_39_word_space_8: improve clarify tone bounce symptom hazard inherit odor
+bip_39_word_space_9: improve clarify tone bounce symptom hazard inherit odor stay
+bip_39_word_underscore_1: improve
+bip_39_word_underscore_10: improve_clarify_tone_bounce_symptom_hazard_inherit_odor_stay_science
+bip_39_word_underscore_11: improve_clarify_tone_bounce_symptom_hazard_inherit_odor_stay_science_hunt
+bip_39_word_underscore_12: improve_clarify_tone_bounce_symptom_hazard_inherit_odor_stay_science_hunt_across
+bip_39_word_underscore_2: improve_clarify
+bip_39_word_underscore_3: improve_clarify_tone
+bip_39_word_underscore_4: improve_clarify_tone_bounce
+bip_39_word_underscore_5: improve_clarify_tone_bounce_symptom
+bip_39_word_underscore_6: improve_clarify_tone_bounce_symptom_hazard
+bip_39_word_underscore_7: improve_clarify_tone_bounce_symptom_hazard_inherit
+bip_39_word_underscore_8: improve_clarify_tone_bounce_symptom_hazard_inherit_odor
+bip_39_word_underscore_9: improve_clarify_tone_bounce_symptom_hazard_inherit_odor_stay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness_
 id_no_color: 050518nm16mmtapewidth4mmtapethickness4
 id_no_size: 05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
 id_no_type: smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201fshc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201fshc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201fshc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050518Nm16mmtapewidth4mmtapethickness4
 name_no_size: 05 05 18 Nm 16 mm Tape Width 4 mm Tape Thickness  4
 name_no_size_short: 05 05 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness  4
 name_no_type: SMD Magazine 05 05 18 Nm 16 mm Tape Width 4 mm Tape Thickness  4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
 oomp_word: droplet rainbow train
 oomp_word_emoji: ':droplet: :rainbow: :train:'

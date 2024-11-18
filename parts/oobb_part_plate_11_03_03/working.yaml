@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly
+bip_39_word_dash_11: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly-laugh
+bip_39_word_dash_12: pilot-swarm-conduct-patrol-mesh-business-help-sword-force-silly-laugh-average
+bip_39_word_dash_2: pilot-swarm
+bip_39_word_dash_3: pilot-swarm-conduct
+bip_39_word_dash_4: pilot-swarm-conduct-patrol
+bip_39_word_dash_5: pilot-swarm-conduct-patrol-mesh
+bip_39_word_dash_6: pilot-swarm-conduct-patrol-mesh-business
+bip_39_word_dash_7: pilot-swarm-conduct-patrol-mesh-business-help
+bip_39_word_dash_8: pilot-swarm-conduct-patrol-mesh-business-help-sword
+bip_39_word_dash_9: pilot-swarm-conduct-patrol-mesh-business-help-sword-force
+bip_39_word_new_br_1: pilot
+bip_39_word_new_br_10: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly
+bip_39_word_new_br_11: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh
+bip_39_word_new_br_12: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force<br>silly<br>laugh<br>average
+bip_39_word_new_br_2: pilot<br>swarm
+bip_39_word_new_br_3: pilot<br>swarm<br>conduct
+bip_39_word_new_br_4: pilot<br>swarm<br>conduct<br>patrol
+bip_39_word_new_br_5: pilot<br>swarm<br>conduct<br>patrol<br>mesh
+bip_39_word_new_br_6: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business
+bip_39_word_new_br_7: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help
+bip_39_word_new_br_8: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword
+bip_39_word_new_br_9: pilot<br>swarm<br>conduct<br>patrol<br>mesh<br>business<br>help<br>sword<br>force
+bip_39_word_new_line_1: pilot
+bip_39_word_new_line_10: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help
+
+  sword
+
+  force
+
+  silly'
+bip_39_word_new_line_11: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help
+
+  sword
+
+  force
+
+  silly
+
+  laugh'
+bip_39_word_new_line_12: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help
+
+  sword
+
+  force
+
+  silly
+
+  laugh
+
+  average'
+bip_39_word_new_line_2: 'pilot
+
+  swarm'
+bip_39_word_new_line_3: 'pilot
+
+  swarm
+
+  conduct'
+bip_39_word_new_line_4: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol'
+bip_39_word_new_line_5: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh'
+bip_39_word_new_line_6: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business'
+bip_39_word_new_line_7: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help'
+bip_39_word_new_line_8: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help
+
+  sword'
+bip_39_word_new_line_9: 'pilot
+
+  swarm
+
+  conduct
+
+  patrol
+
+  mesh
+
+  business
+
+  help
+
+  sword
+
+  force'
+bip_39_word_no_space_1: pilot
+bip_39_word_no_space_10: pilotswarmconductpatrolmeshbusinesshelpswordforcesilly
+bip_39_word_no_space_11: pilotswarmconductpatrolmeshbusinesshelpswordforcesillylaugh
+bip_39_word_no_space_12: pilotswarmconductpatrolmeshbusinesshelpswordforcesillylaughaverage
+bip_39_word_no_space_2: pilotswarm
+bip_39_word_no_space_3: pilotswarmconduct
+bip_39_word_no_space_4: pilotswarmconductpatrol
+bip_39_word_no_space_5: pilotswarmconductpatrolmesh
+bip_39_word_no_space_6: pilotswarmconductpatrolmeshbusiness
+bip_39_word_no_space_7: pilotswarmconductpatrolmeshbusinesshelp
+bip_39_word_no_space_8: pilotswarmconductpatrolmeshbusinesshelpsword
+bip_39_word_no_space_9: pilotswarmconductpatrolmeshbusinesshelpswordforce
+bip_39_word_space_0:
+- pilot
+- swarm
+- conduct
+- patrol
+- mesh
+- business
+- help
+- sword
+- force
+- silly
+- laugh
+- average
+bip_39_word_space_1: pilot
+bip_39_word_space_10: pilot swarm conduct patrol mesh business help sword force silly
+bip_39_word_space_11: pilot swarm conduct patrol mesh business help sword force silly
+  laugh
+bip_39_word_space_12: pilot swarm conduct patrol mesh business help sword force silly
+  laugh average
+bip_39_word_space_2: pilot swarm
+bip_39_word_space_3: pilot swarm conduct
+bip_39_word_space_4: pilot swarm conduct patrol
+bip_39_word_space_5: pilot swarm conduct patrol mesh
+bip_39_word_space_6: pilot swarm conduct patrol mesh business
+bip_39_word_space_7: pilot swarm conduct patrol mesh business help
+bip_39_word_space_8: pilot swarm conduct patrol mesh business help sword
+bip_39_word_space_9: pilot swarm conduct patrol mesh business help sword force
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly
+bip_39_word_underscore_11: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly_laugh
+bip_39_word_underscore_12: pilot_swarm_conduct_patrol_mesh_business_help_sword_force_silly_laugh_average
+bip_39_word_underscore_2: pilot_swarm
+bip_39_word_underscore_3: pilot_swarm_conduct
+bip_39_word_underscore_4: pilot_swarm_conduct_patrol
+bip_39_word_underscore_5: pilot_swarm_conduct_patrol_mesh
+bip_39_word_underscore_6: pilot_swarm_conduct_patrol_mesh_business
+bip_39_word_underscore_7: pilot_swarm_conduct_patrol_mesh_business_help
+bip_39_word_underscore_8: pilot_swarm_conduct_patrol_mesh_business_help_sword
+bip_39_word_underscore_9: pilot_swarm_conduct_patrol_mesh_business_help_sword_force
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_11_03_03
 id_no_color: '110303'
 id_no_size: '11_03_03'
 id_no_type: plate_11_03_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_03_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_03_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_03_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209vcqa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209vcqa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209vcqa
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110303'
 name_no_size: 11 03 03
 name_no_size_short: 11 03 03
 name_no_type: Plate 11 03 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_11_03_03
 oomp_word: up ok cat
 oomp_word_emoji: ':up: :ok: :cat:'

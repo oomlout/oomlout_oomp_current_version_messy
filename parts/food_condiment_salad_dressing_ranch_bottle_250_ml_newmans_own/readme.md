@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Condiment Salad Dressing Ranch Bottle 250 Ml Newmans Own
+* name_short: Ranch Salad Dressing
 ### id
 * oomp_id: food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own
   * classification: food

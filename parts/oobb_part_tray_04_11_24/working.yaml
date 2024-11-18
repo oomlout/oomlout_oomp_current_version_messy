@@ -1,3 +1,222 @@
+bip_39_word_dash_1: swap
+bip_39_word_dash_10: swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit
+bip_39_word_dash_11: swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit-enforce
+bip_39_word_dash_12: swap-clerk-lab-industry-remain-excess-open-mammal-marine-orbit-enforce-amateur
+bip_39_word_dash_2: swap-clerk
+bip_39_word_dash_3: swap-clerk-lab
+bip_39_word_dash_4: swap-clerk-lab-industry
+bip_39_word_dash_5: swap-clerk-lab-industry-remain
+bip_39_word_dash_6: swap-clerk-lab-industry-remain-excess
+bip_39_word_dash_7: swap-clerk-lab-industry-remain-excess-open
+bip_39_word_dash_8: swap-clerk-lab-industry-remain-excess-open-mammal
+bip_39_word_dash_9: swap-clerk-lab-industry-remain-excess-open-mammal-marine
+bip_39_word_new_br_1: swap
+bip_39_word_new_br_10: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit
+bip_39_word_new_br_11: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce
+bip_39_word_new_br_12: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine<br>orbit<br>enforce<br>amateur
+bip_39_word_new_br_2: swap<br>clerk
+bip_39_word_new_br_3: swap<br>clerk<br>lab
+bip_39_word_new_br_4: swap<br>clerk<br>lab<br>industry
+bip_39_word_new_br_5: swap<br>clerk<br>lab<br>industry<br>remain
+bip_39_word_new_br_6: swap<br>clerk<br>lab<br>industry<br>remain<br>excess
+bip_39_word_new_br_7: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open
+bip_39_word_new_br_8: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal
+bip_39_word_new_br_9: swap<br>clerk<br>lab<br>industry<br>remain<br>excess<br>open<br>mammal<br>marine
+bip_39_word_new_line_1: swap
+bip_39_word_new_line_10: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open
+
+  mammal
+
+  marine
+
+  orbit'
+bip_39_word_new_line_11: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open
+
+  mammal
+
+  marine
+
+  orbit
+
+  enforce'
+bip_39_word_new_line_12: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open
+
+  mammal
+
+  marine
+
+  orbit
+
+  enforce
+
+  amateur'
+bip_39_word_new_line_2: 'swap
+
+  clerk'
+bip_39_word_new_line_3: 'swap
+
+  clerk
+
+  lab'
+bip_39_word_new_line_4: 'swap
+
+  clerk
+
+  lab
+
+  industry'
+bip_39_word_new_line_5: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain'
+bip_39_word_new_line_6: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess'
+bip_39_word_new_line_7: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open'
+bip_39_word_new_line_8: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open
+
+  mammal'
+bip_39_word_new_line_9: 'swap
+
+  clerk
+
+  lab
+
+  industry
+
+  remain
+
+  excess
+
+  open
+
+  mammal
+
+  marine'
+bip_39_word_no_space_1: swap
+bip_39_word_no_space_10: swapclerklabindustryremainexcessopenmammalmarineorbit
+bip_39_word_no_space_11: swapclerklabindustryremainexcessopenmammalmarineorbitenforce
+bip_39_word_no_space_12: swapclerklabindustryremainexcessopenmammalmarineorbitenforceamateur
+bip_39_word_no_space_2: swapclerk
+bip_39_word_no_space_3: swapclerklab
+bip_39_word_no_space_4: swapclerklabindustry
+bip_39_word_no_space_5: swapclerklabindustryremain
+bip_39_word_no_space_6: swapclerklabindustryremainexcess
+bip_39_word_no_space_7: swapclerklabindustryremainexcessopen
+bip_39_word_no_space_8: swapclerklabindustryremainexcessopenmammal
+bip_39_word_no_space_9: swapclerklabindustryremainexcessopenmammalmarine
+bip_39_word_space_0:
+- swap
+- clerk
+- lab
+- industry
+- remain
+- excess
+- open
+- mammal
+- marine
+- orbit
+- enforce
+- amateur
+bip_39_word_space_1: swap
+bip_39_word_space_10: swap clerk lab industry remain excess open mammal marine orbit
+bip_39_word_space_11: swap clerk lab industry remain excess open mammal marine orbit
+  enforce
+bip_39_word_space_12: swap clerk lab industry remain excess open mammal marine orbit
+  enforce amateur
+bip_39_word_space_2: swap clerk
+bip_39_word_space_3: swap clerk lab
+bip_39_word_space_4: swap clerk lab industry
+bip_39_word_space_5: swap clerk lab industry remain
+bip_39_word_space_6: swap clerk lab industry remain excess
+bip_39_word_space_7: swap clerk lab industry remain excess open
+bip_39_word_space_8: swap clerk lab industry remain excess open mammal
+bip_39_word_space_9: swap clerk lab industry remain excess open mammal marine
+bip_39_word_underscore_1: swap
+bip_39_word_underscore_10: swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit
+bip_39_word_underscore_11: swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit_enforce
+bip_39_word_underscore_12: swap_clerk_lab_industry_remain_excess_open_mammal_marine_orbit_enforce_amateur
+bip_39_word_underscore_2: swap_clerk
+bip_39_word_underscore_3: swap_clerk_lab
+bip_39_word_underscore_4: swap_clerk_lab_industry
+bip_39_word_underscore_5: swap_clerk_lab_industry_remain
+bip_39_word_underscore_6: swap_clerk_lab_industry_remain_excess
+bip_39_word_underscore_7: swap_clerk_lab_industry_remain_excess_open
+bip_39_word_underscore_8: swap_clerk_lab_industry_remain_excess_open_mammal
+bip_39_word_underscore_9: swap_clerk_lab_industry_remain_excess_open_mammal_marine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_11_24
 id_no_color: '041124'
 id_no_size: '04_11_24'
 id_no_type: tray_04_11_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_11_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_11_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_11_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204s6li
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204s6li
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204s6li
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '041124'
 name_no_size: 04 11 24
 name_no_size_short: 04 11 24
 name_no_type: Tray 04 11 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_11_24
 oomp_word: camera microscope leaves
 oomp_word_emoji: ':camera: :microscope: :leaves:'

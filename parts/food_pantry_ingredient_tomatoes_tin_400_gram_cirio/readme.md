@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Pantry Ingredient Tomatoes Tin 400 Gram Cirio
+* name_short: Tomatoes Tinned
 ### id
 * oomp_id: food_pantry_ingredient_tomatoes_tin_400_gram_cirio
   * classification: food

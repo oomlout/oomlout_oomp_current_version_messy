@@ -1,3 +1,223 @@
+bip_39_word_dash_1: visual
+bip_39_word_dash_10: visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top
+bip_39_word_dash_11: visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top-feed
+bip_39_word_dash_12: visual-tobacco-journey-outside-summer-flame-funny-depth-salute-top-feed-apple
+bip_39_word_dash_2: visual-tobacco
+bip_39_word_dash_3: visual-tobacco-journey
+bip_39_word_dash_4: visual-tobacco-journey-outside
+bip_39_word_dash_5: visual-tobacco-journey-outside-summer
+bip_39_word_dash_6: visual-tobacco-journey-outside-summer-flame
+bip_39_word_dash_7: visual-tobacco-journey-outside-summer-flame-funny
+bip_39_word_dash_8: visual-tobacco-journey-outside-summer-flame-funny-depth
+bip_39_word_dash_9: visual-tobacco-journey-outside-summer-flame-funny-depth-salute
+bip_39_word_new_br_1: visual
+bip_39_word_new_br_10: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top
+bip_39_word_new_br_11: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed
+bip_39_word_new_br_12: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute<br>top<br>feed<br>apple
+bip_39_word_new_br_2: visual<br>tobacco
+bip_39_word_new_br_3: visual<br>tobacco<br>journey
+bip_39_word_new_br_4: visual<br>tobacco<br>journey<br>outside
+bip_39_word_new_br_5: visual<br>tobacco<br>journey<br>outside<br>summer
+bip_39_word_new_br_6: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame
+bip_39_word_new_br_7: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny
+bip_39_word_new_br_8: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth
+bip_39_word_new_br_9: visual<br>tobacco<br>journey<br>outside<br>summer<br>flame<br>funny<br>depth<br>salute
+bip_39_word_new_line_1: visual
+bip_39_word_new_line_10: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top'
+bip_39_word_new_line_11: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top
+
+  feed'
+bip_39_word_new_line_12: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute
+
+  top
+
+  feed
+
+  apple'
+bip_39_word_new_line_2: 'visual
+
+  tobacco'
+bip_39_word_new_line_3: 'visual
+
+  tobacco
+
+  journey'
+bip_39_word_new_line_4: 'visual
+
+  tobacco
+
+  journey
+
+  outside'
+bip_39_word_new_line_5: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer'
+bip_39_word_new_line_6: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame'
+bip_39_word_new_line_7: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny'
+bip_39_word_new_line_8: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth'
+bip_39_word_new_line_9: 'visual
+
+  tobacco
+
+  journey
+
+  outside
+
+  summer
+
+  flame
+
+  funny
+
+  depth
+
+  salute'
+bip_39_word_no_space_1: visual
+bip_39_word_no_space_10: visualtobaccojourneyoutsidesummerflamefunnydepthsalutetop
+bip_39_word_no_space_11: visualtobaccojourneyoutsidesummerflamefunnydepthsalutetopfeed
+bip_39_word_no_space_12: visualtobaccojourneyoutsidesummerflamefunnydepthsalutetopfeedapple
+bip_39_word_no_space_2: visualtobacco
+bip_39_word_no_space_3: visualtobaccojourney
+bip_39_word_no_space_4: visualtobaccojourneyoutside
+bip_39_word_no_space_5: visualtobaccojourneyoutsidesummer
+bip_39_word_no_space_6: visualtobaccojourneyoutsidesummerflame
+bip_39_word_no_space_7: visualtobaccojourneyoutsidesummerflamefunny
+bip_39_word_no_space_8: visualtobaccojourneyoutsidesummerflamefunnydepth
+bip_39_word_no_space_9: visualtobaccojourneyoutsidesummerflamefunnydepthsalute
+bip_39_word_space_0:
+- visual
+- tobacco
+- journey
+- outside
+- summer
+- flame
+- funny
+- depth
+- salute
+- top
+- feed
+- apple
+bip_39_word_space_1: visual
+bip_39_word_space_10: visual tobacco journey outside summer flame funny depth salute
+  top
+bip_39_word_space_11: visual tobacco journey outside summer flame funny depth salute
+  top feed
+bip_39_word_space_12: visual tobacco journey outside summer flame funny depth salute
+  top feed apple
+bip_39_word_space_2: visual tobacco
+bip_39_word_space_3: visual tobacco journey
+bip_39_word_space_4: visual tobacco journey outside
+bip_39_word_space_5: visual tobacco journey outside summer
+bip_39_word_space_6: visual tobacco journey outside summer flame
+bip_39_word_space_7: visual tobacco journey outside summer flame funny
+bip_39_word_space_8: visual tobacco journey outside summer flame funny depth
+bip_39_word_space_9: visual tobacco journey outside summer flame funny depth salute
+bip_39_word_underscore_1: visual
+bip_39_word_underscore_10: visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top
+bip_39_word_underscore_11: visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top_feed
+bip_39_word_underscore_12: visual_tobacco_journey_outside_summer_flame_funny_depth_salute_top_feed_apple
+bip_39_word_underscore_2: visual_tobacco
+bip_39_word_underscore_3: visual_tobacco_journey
+bip_39_word_underscore_4: visual_tobacco_journey_outside
+bip_39_word_underscore_5: visual_tobacco_journey_outside_summer
+bip_39_word_underscore_6: visual_tobacco_journey_outside_summer_flame
+bip_39_word_underscore_7: visual_tobacco_journey_outside_summer_flame_funny
+bip_39_word_underscore_8: visual_tobacco_journey_outside_summer_flame_funny_depth
+bip_39_word_underscore_9: visual_tobacco_journey_outside_summer_flame_funny_depth_salute
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: white_10_mm_length
 id_no_type: 76_2_mm_internal_diameter_white_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_white_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_white_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_white_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206nq0p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206nq0p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206nq0p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: White 10 mm Length
 name_no_size_short: White 10 Mm Length
 name_no_type: 76 2 mm Internal Diameter White 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_white_10_mm_length
 oomp_word: lipstick sandal balloon
 oomp_word_emoji: ':lipstick: :sandal: :balloon:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: code
+bip_39_word_dash_10: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink
+bip_39_word_dash_11: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink-angry
+bip_39_word_dash_12: code-route-lake-deal-provide-gather-dirt-dolphin-match-wink-angry-absorb
+bip_39_word_dash_2: code-route
+bip_39_word_dash_3: code-route-lake
+bip_39_word_dash_4: code-route-lake-deal
+bip_39_word_dash_5: code-route-lake-deal-provide
+bip_39_word_dash_6: code-route-lake-deal-provide-gather
+bip_39_word_dash_7: code-route-lake-deal-provide-gather-dirt
+bip_39_word_dash_8: code-route-lake-deal-provide-gather-dirt-dolphin
+bip_39_word_dash_9: code-route-lake-deal-provide-gather-dirt-dolphin-match
+bip_39_word_new_br_1: code
+bip_39_word_new_br_10: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink
+bip_39_word_new_br_11: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink<br>angry
+bip_39_word_new_br_12: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match<br>wink<br>angry<br>absorb
+bip_39_word_new_br_2: code<br>route
+bip_39_word_new_br_3: code<br>route<br>lake
+bip_39_word_new_br_4: code<br>route<br>lake<br>deal
+bip_39_word_new_br_5: code<br>route<br>lake<br>deal<br>provide
+bip_39_word_new_br_6: code<br>route<br>lake<br>deal<br>provide<br>gather
+bip_39_word_new_br_7: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt
+bip_39_word_new_br_8: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin
+bip_39_word_new_br_9: code<br>route<br>lake<br>deal<br>provide<br>gather<br>dirt<br>dolphin<br>match
+bip_39_word_new_line_1: code
+bip_39_word_new_line_10: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt
+
+  dolphin
+
+  match
+
+  wink'
+bip_39_word_new_line_11: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt
+
+  dolphin
+
+  match
+
+  wink
+
+  angry'
+bip_39_word_new_line_12: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt
+
+  dolphin
+
+  match
+
+  wink
+
+  angry
+
+  absorb'
+bip_39_word_new_line_2: 'code
+
+  route'
+bip_39_word_new_line_3: 'code
+
+  route
+
+  lake'
+bip_39_word_new_line_4: 'code
+
+  route
+
+  lake
+
+  deal'
+bip_39_word_new_line_5: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide'
+bip_39_word_new_line_6: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather'
+bip_39_word_new_line_7: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt'
+bip_39_word_new_line_8: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt
+
+  dolphin'
+bip_39_word_new_line_9: 'code
+
+  route
+
+  lake
+
+  deal
+
+  provide
+
+  gather
+
+  dirt
+
+  dolphin
+
+  match'
+bip_39_word_no_space_1: code
+bip_39_word_no_space_10: coderoutelakedealprovidegatherdirtdolphinmatchwink
+bip_39_word_no_space_11: coderoutelakedealprovidegatherdirtdolphinmatchwinkangry
+bip_39_word_no_space_12: coderoutelakedealprovidegatherdirtdolphinmatchwinkangryabsorb
+bip_39_word_no_space_2: coderoute
+bip_39_word_no_space_3: coderoutelake
+bip_39_word_no_space_4: coderoutelakedeal
+bip_39_word_no_space_5: coderoutelakedealprovide
+bip_39_word_no_space_6: coderoutelakedealprovidegather
+bip_39_word_no_space_7: coderoutelakedealprovidegatherdirt
+bip_39_word_no_space_8: coderoutelakedealprovidegatherdirtdolphin
+bip_39_word_no_space_9: coderoutelakedealprovidegatherdirtdolphinmatch
+bip_39_word_space_0:
+- code
+- route
+- lake
+- deal
+- provide
+- gather
+- dirt
+- dolphin
+- match
+- wink
+- angry
+- absorb
+bip_39_word_space_1: code
+bip_39_word_space_10: code route lake deal provide gather dirt dolphin match wink
+bip_39_word_space_11: code route lake deal provide gather dirt dolphin match wink
+  angry
+bip_39_word_space_12: code route lake deal provide gather dirt dolphin match wink
+  angry absorb
+bip_39_word_space_2: code route
+bip_39_word_space_3: code route lake
+bip_39_word_space_4: code route lake deal
+bip_39_word_space_5: code route lake deal provide
+bip_39_word_space_6: code route lake deal provide gather
+bip_39_word_space_7: code route lake deal provide gather dirt
+bip_39_word_space_8: code route lake deal provide gather dirt dolphin
+bip_39_word_space_9: code route lake deal provide gather dirt dolphin match
+bip_39_word_underscore_1: code
+bip_39_word_underscore_10: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink
+bip_39_word_underscore_11: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink_angry
+bip_39_word_underscore_12: code_route_lake_deal_provide_gather_dirt_dolphin_match_wink_angry_absorb
+bip_39_word_underscore_2: code_route
+bip_39_word_underscore_3: code_route_lake
+bip_39_word_underscore_4: code_route_lake_deal
+bip_39_word_underscore_5: code_route_lake_deal_provide
+bip_39_word_underscore_6: code_route_lake_deal_provide_gather
+bip_39_word_underscore_7: code_route_lake_deal_provide_gather_dirt
+bip_39_word_underscore_8: code_route_lake_deal_provide_gather_dirt_dolphin
+bip_39_word_underscore_9: code_route_lake_deal_provide_gather_dirt_dolphin_match
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness_
 id_no_color: 040418nm16mmtapewidth4mmtapethickness4
 id_no_size: 04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
 id_no_type: smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20gyda
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20gyda
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20gyda
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 040418Nm16mmtapewidth4mmtapethickness4
 name_no_size: 04 04 18 Nm 16 mm Tape Width 4 mm Tape Thickness  4
 name_no_size_short: 04 04 18 Nm 16 Mm Tape Width 4 Mm Tape Thickness  4
 name_no_type: SMD Magazine 04 04 18 Nm 16 mm Tape Width 4 mm Tape Thickness  4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_04_04_18_nm_16_mm_tape_width_4_mm_tape_thickness__4
 oomp_word: alien dizzy recycle
 oomp_word_emoji: ':alien: :dizzy: :recycle:'

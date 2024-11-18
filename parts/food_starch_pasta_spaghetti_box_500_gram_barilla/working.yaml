@@ -1,3 +1,222 @@
+bip_39_word_dash_1: empty
+bip_39_word_dash_10: empty-unveil-tortoise-female-lawsuit-run-food-clock-rhythm-address
+bip_39_word_dash_11: empty-unveil-tortoise-female-lawsuit-run-food-clock-rhythm-address-possible
+bip_39_word_dash_12: empty-unveil-tortoise-female-lawsuit-run-food-clock-rhythm-address-possible-about
+bip_39_word_dash_2: empty-unveil
+bip_39_word_dash_3: empty-unveil-tortoise
+bip_39_word_dash_4: empty-unveil-tortoise-female
+bip_39_word_dash_5: empty-unveil-tortoise-female-lawsuit
+bip_39_word_dash_6: empty-unveil-tortoise-female-lawsuit-run
+bip_39_word_dash_7: empty-unveil-tortoise-female-lawsuit-run-food
+bip_39_word_dash_8: empty-unveil-tortoise-female-lawsuit-run-food-clock
+bip_39_word_dash_9: empty-unveil-tortoise-female-lawsuit-run-food-clock-rhythm
+bip_39_word_new_br_1: empty
+bip_39_word_new_br_10: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food<br>clock<br>rhythm<br>address
+bip_39_word_new_br_11: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food<br>clock<br>rhythm<br>address<br>possible
+bip_39_word_new_br_12: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food<br>clock<br>rhythm<br>address<br>possible<br>about
+bip_39_word_new_br_2: empty<br>unveil
+bip_39_word_new_br_3: empty<br>unveil<br>tortoise
+bip_39_word_new_br_4: empty<br>unveil<br>tortoise<br>female
+bip_39_word_new_br_5: empty<br>unveil<br>tortoise<br>female<br>lawsuit
+bip_39_word_new_br_6: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run
+bip_39_word_new_br_7: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food
+bip_39_word_new_br_8: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food<br>clock
+bip_39_word_new_br_9: empty<br>unveil<br>tortoise<br>female<br>lawsuit<br>run<br>food<br>clock<br>rhythm
+bip_39_word_new_line_1: empty
+bip_39_word_new_line_10: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food
+
+  clock
+
+  rhythm
+
+  address'
+bip_39_word_new_line_11: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food
+
+  clock
+
+  rhythm
+
+  address
+
+  possible'
+bip_39_word_new_line_12: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food
+
+  clock
+
+  rhythm
+
+  address
+
+  possible
+
+  about'
+bip_39_word_new_line_2: 'empty
+
+  unveil'
+bip_39_word_new_line_3: 'empty
+
+  unveil
+
+  tortoise'
+bip_39_word_new_line_4: 'empty
+
+  unveil
+
+  tortoise
+
+  female'
+bip_39_word_new_line_5: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit'
+bip_39_word_new_line_6: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run'
+bip_39_word_new_line_7: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food'
+bip_39_word_new_line_8: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food
+
+  clock'
+bip_39_word_new_line_9: 'empty
+
+  unveil
+
+  tortoise
+
+  female
+
+  lawsuit
+
+  run
+
+  food
+
+  clock
+
+  rhythm'
+bip_39_word_no_space_1: empty
+bip_39_word_no_space_10: emptyunveiltortoisefemalelawsuitrunfoodclockrhythmaddress
+bip_39_word_no_space_11: emptyunveiltortoisefemalelawsuitrunfoodclockrhythmaddresspossible
+bip_39_word_no_space_12: emptyunveiltortoisefemalelawsuitrunfoodclockrhythmaddresspossibleabout
+bip_39_word_no_space_2: emptyunveil
+bip_39_word_no_space_3: emptyunveiltortoise
+bip_39_word_no_space_4: emptyunveiltortoisefemale
+bip_39_word_no_space_5: emptyunveiltortoisefemalelawsuit
+bip_39_word_no_space_6: emptyunveiltortoisefemalelawsuitrun
+bip_39_word_no_space_7: emptyunveiltortoisefemalelawsuitrunfood
+bip_39_word_no_space_8: emptyunveiltortoisefemalelawsuitrunfoodclock
+bip_39_word_no_space_9: emptyunveiltortoisefemalelawsuitrunfoodclockrhythm
+bip_39_word_space_0:
+- empty
+- unveil
+- tortoise
+- female
+- lawsuit
+- run
+- food
+- clock
+- rhythm
+- address
+- possible
+- about
+bip_39_word_space_1: empty
+bip_39_word_space_10: empty unveil tortoise female lawsuit run food clock rhythm address
+bip_39_word_space_11: empty unveil tortoise female lawsuit run food clock rhythm address
+  possible
+bip_39_word_space_12: empty unveil tortoise female lawsuit run food clock rhythm address
+  possible about
+bip_39_word_space_2: empty unveil
+bip_39_word_space_3: empty unveil tortoise
+bip_39_word_space_4: empty unveil tortoise female
+bip_39_word_space_5: empty unveil tortoise female lawsuit
+bip_39_word_space_6: empty unveil tortoise female lawsuit run
+bip_39_word_space_7: empty unveil tortoise female lawsuit run food
+bip_39_word_space_8: empty unveil tortoise female lawsuit run food clock
+bip_39_word_space_9: empty unveil tortoise female lawsuit run food clock rhythm
+bip_39_word_underscore_1: empty
+bip_39_word_underscore_10: empty_unveil_tortoise_female_lawsuit_run_food_clock_rhythm_address
+bip_39_word_underscore_11: empty_unveil_tortoise_female_lawsuit_run_food_clock_rhythm_address_possible
+bip_39_word_underscore_12: empty_unveil_tortoise_female_lawsuit_run_food_clock_rhythm_address_possible_about
+bip_39_word_underscore_2: empty_unveil
+bip_39_word_underscore_3: empty_unveil_tortoise
+bip_39_word_underscore_4: empty_unveil_tortoise_female
+bip_39_word_underscore_5: empty_unveil_tortoise_female_lawsuit
+bip_39_word_underscore_6: empty_unveil_tortoise_female_lawsuit_run
+bip_39_word_underscore_7: empty_unveil_tortoise_female_lawsuit_run_food
+bip_39_word_underscore_8: empty_unveil_tortoise_female_lawsuit_run_food_clock
+bip_39_word_underscore_9: empty_unveil_tortoise_female_lawsuit_run_food_clock_rhythm
 classification: food
 classification_capital: Food
 classification_first_letter: f
@@ -109,7 +328,14 @@ id_no_class: starch_pasta_spaghetti_box_500_gram_barilla
 id_no_color: box_500_gram_barilla
 id_no_size: spaghetti_box_500_gram_barilla
 id_no_type: pasta_spaghetti_box_500_gram_barilla
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20a9z4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20a9z4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20a9z4
 manufacturer: barilla
 manufacturer_capital: Barilla
 manufacturer_first_letter: b
@@ -160,6 +386,7 @@ name_no_size: Spaghetti Box 500 Gram Barilla
 name_no_size_short: Spaghetti Box 500 Gram Barilla
 name_no_type: Pasta Spaghetti Box 500 Gram Barilla
 name_short: Pasta Spaghetti Box
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_pasta_spaghetti_box_500_gram_barilla
 oomp_word: cry snail bowtie
 oomp_word_emoji: ':cry: :snail: :bowtie:'

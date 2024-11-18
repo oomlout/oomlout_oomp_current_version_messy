@@ -1,3 +1,221 @@
+bip_39_word_dash_1: shy
+bip_39_word_dash_10: shy-traffic-annual-pole-either-speak-pole-any-major-grass
+bip_39_word_dash_11: shy-traffic-annual-pole-either-speak-pole-any-major-grass-raven
+bip_39_word_dash_12: shy-traffic-annual-pole-either-speak-pole-any-major-grass-raven-addict
+bip_39_word_dash_2: shy-traffic
+bip_39_word_dash_3: shy-traffic-annual
+bip_39_word_dash_4: shy-traffic-annual-pole
+bip_39_word_dash_5: shy-traffic-annual-pole-either
+bip_39_word_dash_6: shy-traffic-annual-pole-either-speak
+bip_39_word_dash_7: shy-traffic-annual-pole-either-speak-pole
+bip_39_word_dash_8: shy-traffic-annual-pole-either-speak-pole-any
+bip_39_word_dash_9: shy-traffic-annual-pole-either-speak-pole-any-major
+bip_39_word_new_br_1: shy
+bip_39_word_new_br_10: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass
+bip_39_word_new_br_11: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass<br>raven
+bip_39_word_new_br_12: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major<br>grass<br>raven<br>addict
+bip_39_word_new_br_2: shy<br>traffic
+bip_39_word_new_br_3: shy<br>traffic<br>annual
+bip_39_word_new_br_4: shy<br>traffic<br>annual<br>pole
+bip_39_word_new_br_5: shy<br>traffic<br>annual<br>pole<br>either
+bip_39_word_new_br_6: shy<br>traffic<br>annual<br>pole<br>either<br>speak
+bip_39_word_new_br_7: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole
+bip_39_word_new_br_8: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any
+bip_39_word_new_br_9: shy<br>traffic<br>annual<br>pole<br>either<br>speak<br>pole<br>any<br>major
+bip_39_word_new_line_1: shy
+bip_39_word_new_line_10: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole
+
+  any
+
+  major
+
+  grass'
+bip_39_word_new_line_11: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole
+
+  any
+
+  major
+
+  grass
+
+  raven'
+bip_39_word_new_line_12: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole
+
+  any
+
+  major
+
+  grass
+
+  raven
+
+  addict'
+bip_39_word_new_line_2: 'shy
+
+  traffic'
+bip_39_word_new_line_3: 'shy
+
+  traffic
+
+  annual'
+bip_39_word_new_line_4: 'shy
+
+  traffic
+
+  annual
+
+  pole'
+bip_39_word_new_line_5: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either'
+bip_39_word_new_line_6: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak'
+bip_39_word_new_line_7: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole'
+bip_39_word_new_line_8: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole
+
+  any'
+bip_39_word_new_line_9: 'shy
+
+  traffic
+
+  annual
+
+  pole
+
+  either
+
+  speak
+
+  pole
+
+  any
+
+  major'
+bip_39_word_no_space_1: shy
+bip_39_word_no_space_10: shytrafficannualpoleeitherspeakpoleanymajorgrass
+bip_39_word_no_space_11: shytrafficannualpoleeitherspeakpoleanymajorgrassraven
+bip_39_word_no_space_12: shytrafficannualpoleeitherspeakpoleanymajorgrassravenaddict
+bip_39_word_no_space_2: shytraffic
+bip_39_word_no_space_3: shytrafficannual
+bip_39_word_no_space_4: shytrafficannualpole
+bip_39_word_no_space_5: shytrafficannualpoleeither
+bip_39_word_no_space_6: shytrafficannualpoleeitherspeak
+bip_39_word_no_space_7: shytrafficannualpoleeitherspeakpole
+bip_39_word_no_space_8: shytrafficannualpoleeitherspeakpoleany
+bip_39_word_no_space_9: shytrafficannualpoleeitherspeakpoleanymajor
+bip_39_word_space_0:
+- shy
+- traffic
+- annual
+- pole
+- either
+- speak
+- pole
+- any
+- major
+- grass
+- raven
+- addict
+bip_39_word_space_1: shy
+bip_39_word_space_10: shy traffic annual pole either speak pole any major grass
+bip_39_word_space_11: shy traffic annual pole either speak pole any major grass raven
+bip_39_word_space_12: shy traffic annual pole either speak pole any major grass raven
+  addict
+bip_39_word_space_2: shy traffic
+bip_39_word_space_3: shy traffic annual
+bip_39_word_space_4: shy traffic annual pole
+bip_39_word_space_5: shy traffic annual pole either
+bip_39_word_space_6: shy traffic annual pole either speak
+bip_39_word_space_7: shy traffic annual pole either speak pole
+bip_39_word_space_8: shy traffic annual pole either speak pole any
+bip_39_word_space_9: shy traffic annual pole either speak pole any major
+bip_39_word_underscore_1: shy
+bip_39_word_underscore_10: shy_traffic_annual_pole_either_speak_pole_any_major_grass
+bip_39_word_underscore_11: shy_traffic_annual_pole_either_speak_pole_any_major_grass_raven
+bip_39_word_underscore_12: shy_traffic_annual_pole_either_speak_pole_any_major_grass_raven_addict
+bip_39_word_underscore_2: shy_traffic
+bip_39_word_underscore_3: shy_traffic_annual
+bip_39_word_underscore_4: shy_traffic_annual_pole
+bip_39_word_underscore_5: shy_traffic_annual_pole_either
+bip_39_word_underscore_6: shy_traffic_annual_pole_either_speak
+bip_39_word_underscore_7: shy_traffic_annual_pole_either_speak_pole
+bip_39_word_underscore_8: shy_traffic_annual_pole_either_speak_pole_any
+bip_39_word_underscore_9: shy_traffic_annual_pole_either_speak_pole_any_major
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__
 id_no_color: 070710nm8mmtapewidth2mmtapethickness2
 id_no_size: 07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202300p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202300p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202300p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 070710Nm8mmtapewidth2mmtapethickness2
 name_no_size: 07 07 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 07 07 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 07 07 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_07_07_10_nm_8_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: hamster sunflower bank
 oomp_word_emoji: ':hamster: :sunflower: :bank:'

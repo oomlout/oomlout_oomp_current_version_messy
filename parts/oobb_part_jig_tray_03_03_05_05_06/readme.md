@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Jig Tray 03 03 05 05 06
+* name_short: 
 ### id
 * oomp_id: oobb_part_jig_tray_03_03_05_05_06
   * classification: oobb

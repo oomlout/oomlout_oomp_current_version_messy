@@ -1,3 +1,222 @@
+bip_39_word_dash_1: energy
+bip_39_word_dash_10: energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate
+bip_39_word_dash_11: energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate-recall
+bip_39_word_dash_12: energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh-indicate-recall-arrange
+bip_39_word_dash_2: energy-ripple
+bip_39_word_dash_3: energy-ripple-episode
+bip_39_word_dash_4: energy-ripple-episode-glide
+bip_39_word_dash_5: energy-ripple-episode-glide-moon
+bip_39_word_dash_6: energy-ripple-episode-glide-moon-tag
+bip_39_word_dash_7: energy-ripple-episode-glide-moon-tag-weather
+bip_39_word_dash_8: energy-ripple-episode-glide-moon-tag-weather-pumpkin
+bip_39_word_dash_9: energy-ripple-episode-glide-moon-tag-weather-pumpkin-fresh
+bip_39_word_new_br_1: energy
+bip_39_word_new_br_10: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate
+bip_39_word_new_br_11: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate<br>recall
+bip_39_word_new_br_12: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh<br>indicate<br>recall<br>arrange
+bip_39_word_new_br_2: energy<br>ripple
+bip_39_word_new_br_3: energy<br>ripple<br>episode
+bip_39_word_new_br_4: energy<br>ripple<br>episode<br>glide
+bip_39_word_new_br_5: energy<br>ripple<br>episode<br>glide<br>moon
+bip_39_word_new_br_6: energy<br>ripple<br>episode<br>glide<br>moon<br>tag
+bip_39_word_new_br_7: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather
+bip_39_word_new_br_8: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin
+bip_39_word_new_br_9: energy<br>ripple<br>episode<br>glide<br>moon<br>tag<br>weather<br>pumpkin<br>fresh
+bip_39_word_new_line_1: energy
+bip_39_word_new_line_10: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather
+
+  pumpkin
+
+  fresh
+
+  indicate'
+bip_39_word_new_line_11: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather
+
+  pumpkin
+
+  fresh
+
+  indicate
+
+  recall'
+bip_39_word_new_line_12: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather
+
+  pumpkin
+
+  fresh
+
+  indicate
+
+  recall
+
+  arrange'
+bip_39_word_new_line_2: 'energy
+
+  ripple'
+bip_39_word_new_line_3: 'energy
+
+  ripple
+
+  episode'
+bip_39_word_new_line_4: 'energy
+
+  ripple
+
+  episode
+
+  glide'
+bip_39_word_new_line_5: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon'
+bip_39_word_new_line_6: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag'
+bip_39_word_new_line_7: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather'
+bip_39_word_new_line_8: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather
+
+  pumpkin'
+bip_39_word_new_line_9: 'energy
+
+  ripple
+
+  episode
+
+  glide
+
+  moon
+
+  tag
+
+  weather
+
+  pumpkin
+
+  fresh'
+bip_39_word_no_space_1: energy
+bip_39_word_no_space_10: energyrippleepisodeglidemoontagweatherpumpkinfreshindicate
+bip_39_word_no_space_11: energyrippleepisodeglidemoontagweatherpumpkinfreshindicaterecall
+bip_39_word_no_space_12: energyrippleepisodeglidemoontagweatherpumpkinfreshindicaterecallarrange
+bip_39_word_no_space_2: energyripple
+bip_39_word_no_space_3: energyrippleepisode
+bip_39_word_no_space_4: energyrippleepisodeglide
+bip_39_word_no_space_5: energyrippleepisodeglidemoon
+bip_39_word_no_space_6: energyrippleepisodeglidemoontag
+bip_39_word_no_space_7: energyrippleepisodeglidemoontagweather
+bip_39_word_no_space_8: energyrippleepisodeglidemoontagweatherpumpkin
+bip_39_word_no_space_9: energyrippleepisodeglidemoontagweatherpumpkinfresh
+bip_39_word_space_0:
+- energy
+- ripple
+- episode
+- glide
+- moon
+- tag
+- weather
+- pumpkin
+- fresh
+- indicate
+- recall
+- arrange
+bip_39_word_space_1: energy
+bip_39_word_space_10: energy ripple episode glide moon tag weather pumpkin fresh indicate
+bip_39_word_space_11: energy ripple episode glide moon tag weather pumpkin fresh indicate
+  recall
+bip_39_word_space_12: energy ripple episode glide moon tag weather pumpkin fresh indicate
+  recall arrange
+bip_39_word_space_2: energy ripple
+bip_39_word_space_3: energy ripple episode
+bip_39_word_space_4: energy ripple episode glide
+bip_39_word_space_5: energy ripple episode glide moon
+bip_39_word_space_6: energy ripple episode glide moon tag
+bip_39_word_space_7: energy ripple episode glide moon tag weather
+bip_39_word_space_8: energy ripple episode glide moon tag weather pumpkin
+bip_39_word_space_9: energy ripple episode glide moon tag weather pumpkin fresh
+bip_39_word_underscore_1: energy
+bip_39_word_underscore_10: energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate
+bip_39_word_underscore_11: energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate_recall
+bip_39_word_underscore_12: energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh_indicate_recall_arrange
+bip_39_word_underscore_2: energy_ripple
+bip_39_word_underscore_3: energy_ripple_episode
+bip_39_word_underscore_4: energy_ripple_episode_glide
+bip_39_word_underscore_5: energy_ripple_episode_glide_moon
+bip_39_word_underscore_6: energy_ripple_episode_glide_moon_tag
+bip_39_word_underscore_7: energy_ripple_episode_glide_moon_tag_weather
+bip_39_word_underscore_8: energy_ripple_episode_glide_moon_tag_weather_pumpkin
+bip_39_word_underscore_9: energy_ripple_episode_glide_moon_tag_weather_pumpkin_fresh
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_03_03_03__u
 id_no_color: 030303u
 id_no_size: 03_03_03__u
 id_no_type: plate_03_03_03__u
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_03__u
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_03__u
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_03__u
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207pa70
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207pa70
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207pa70
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030303U
 name_no_size: 03 03 03  U
 name_no_size_short: 03 03 03  U
 name_no_type: Plate 03 03 03  U
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_03_03__u
 oomp_word: candy leaves factory
 oomp_word_emoji: ':candy: :leaves: :factory:'

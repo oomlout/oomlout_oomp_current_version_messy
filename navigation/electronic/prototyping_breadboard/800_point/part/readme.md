@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Prototyping Breadboard 800 Point
+* name_short: 
 ### id
 * oomp_id: electronic_prototyping_breadboard_800_point
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lipstick: :rainbow: :three:
 * md5_6_alpha: 6o0l0
 * md5_6: aadef4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206o0l0)
+[2x1](http://192.168.1.242:1112/?label=oomp%206o0l0)
+[6x4](http://192.168.1.55:1112/?label=oomp%206o0l0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_800_point) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -234,7 +260,14 @@ sister |
 | id_no_size | 800_point |  
 | id_no_type | 800_point |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_800_point |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_prototyping_breadboard_800_point |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_prototyping_breadboard_800_point |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206o0l0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206o0l0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206o0l0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -259,6 +292,7 @@ sister |
 | name_no_size | 800 Point |  
 | name_no_size_short | 800 Point |  
 | name_no_type | 800 Point |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_prototyping_breadboard_800_point |  
 | oomp_word | lipstick rainbow three |  
 | oomp_word_emoji | :lipstick: :rainbow: :three: |  

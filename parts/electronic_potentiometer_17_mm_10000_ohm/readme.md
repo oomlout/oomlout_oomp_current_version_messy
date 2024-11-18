@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Potentiometer 17 mm 10000 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_potentiometer_17_mm_10000_ohm
   * classification: electronic

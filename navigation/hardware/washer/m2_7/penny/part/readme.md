@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Washer M2 7 Penny
+* name_short: 
 ### id
 * oomp_id: hardware_washer_m2_7_penny
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :heart: :dolls: :blossom:
 * md5_6_alpha: ivzg
 * md5_6: 0d726c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20ivzg)
+[2x1](http://192.168.1.242:1112/?label=oomp%20ivzg)
+[6x4](http://192.168.1.55:1112/?label=oomp%20ivzg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ erode |
 | id_no_size | penny |  
 | id_no_type | m2_7_penny |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m2_7_penny |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m2_7_penny |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20ivzg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20ivzg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20ivzg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ erode |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M2 7 Penny |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_washer_m2_7_penny |  
 | oomp_word | heart dolls blossom |  
 | oomp_word_emoji | :heart: :dolls: :blossom: |  

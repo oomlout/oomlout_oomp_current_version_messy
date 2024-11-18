@@ -1,3 +1,222 @@
+bip_39_word_dash_1: ribbon
+bip_39_word_dash_10: ribbon-flash-custom-jacket-run-sustain-raw-lend-spread-idle
+bip_39_word_dash_11: ribbon-flash-custom-jacket-run-sustain-raw-lend-spread-idle-link
+bip_39_word_dash_12: ribbon-flash-custom-jacket-run-sustain-raw-lend-spread-idle-link-attract
+bip_39_word_dash_2: ribbon-flash
+bip_39_word_dash_3: ribbon-flash-custom
+bip_39_word_dash_4: ribbon-flash-custom-jacket
+bip_39_word_dash_5: ribbon-flash-custom-jacket-run
+bip_39_word_dash_6: ribbon-flash-custom-jacket-run-sustain
+bip_39_word_dash_7: ribbon-flash-custom-jacket-run-sustain-raw
+bip_39_word_dash_8: ribbon-flash-custom-jacket-run-sustain-raw-lend
+bip_39_word_dash_9: ribbon-flash-custom-jacket-run-sustain-raw-lend-spread
+bip_39_word_new_br_1: ribbon
+bip_39_word_new_br_10: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle
+bip_39_word_new_br_11: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link
+bip_39_word_new_br_12: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread<br>idle<br>link<br>attract
+bip_39_word_new_br_2: ribbon<br>flash
+bip_39_word_new_br_3: ribbon<br>flash<br>custom
+bip_39_word_new_br_4: ribbon<br>flash<br>custom<br>jacket
+bip_39_word_new_br_5: ribbon<br>flash<br>custom<br>jacket<br>run
+bip_39_word_new_br_6: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain
+bip_39_word_new_br_7: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw
+bip_39_word_new_br_8: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend
+bip_39_word_new_br_9: ribbon<br>flash<br>custom<br>jacket<br>run<br>sustain<br>raw<br>lend<br>spread
+bip_39_word_new_line_1: ribbon
+bip_39_word_new_line_10: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw
+
+  lend
+
+  spread
+
+  idle'
+bip_39_word_new_line_11: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw
+
+  lend
+
+  spread
+
+  idle
+
+  link'
+bip_39_word_new_line_12: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw
+
+  lend
+
+  spread
+
+  idle
+
+  link
+
+  attract'
+bip_39_word_new_line_2: 'ribbon
+
+  flash'
+bip_39_word_new_line_3: 'ribbon
+
+  flash
+
+  custom'
+bip_39_word_new_line_4: 'ribbon
+
+  flash
+
+  custom
+
+  jacket'
+bip_39_word_new_line_5: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run'
+bip_39_word_new_line_6: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain'
+bip_39_word_new_line_7: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw'
+bip_39_word_new_line_8: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw
+
+  lend'
+bip_39_word_new_line_9: 'ribbon
+
+  flash
+
+  custom
+
+  jacket
+
+  run
+
+  sustain
+
+  raw
+
+  lend
+
+  spread'
+bip_39_word_no_space_1: ribbon
+bip_39_word_no_space_10: ribbonflashcustomjacketrunsustainrawlendspreadidle
+bip_39_word_no_space_11: ribbonflashcustomjacketrunsustainrawlendspreadidlelink
+bip_39_word_no_space_12: ribbonflashcustomjacketrunsustainrawlendspreadidlelinkattract
+bip_39_word_no_space_2: ribbonflash
+bip_39_word_no_space_3: ribbonflashcustom
+bip_39_word_no_space_4: ribbonflashcustomjacket
+bip_39_word_no_space_5: ribbonflashcustomjacketrun
+bip_39_word_no_space_6: ribbonflashcustomjacketrunsustain
+bip_39_word_no_space_7: ribbonflashcustomjacketrunsustainraw
+bip_39_word_no_space_8: ribbonflashcustomjacketrunsustainrawlend
+bip_39_word_no_space_9: ribbonflashcustomjacketrunsustainrawlendspread
+bip_39_word_space_0:
+- ribbon
+- flash
+- custom
+- jacket
+- run
+- sustain
+- raw
+- lend
+- spread
+- idle
+- link
+- attract
+bip_39_word_space_1: ribbon
+bip_39_word_space_10: ribbon flash custom jacket run sustain raw lend spread idle
+bip_39_word_space_11: ribbon flash custom jacket run sustain raw lend spread idle
+  link
+bip_39_word_space_12: ribbon flash custom jacket run sustain raw lend spread idle
+  link attract
+bip_39_word_space_2: ribbon flash
+bip_39_word_space_3: ribbon flash custom
+bip_39_word_space_4: ribbon flash custom jacket
+bip_39_word_space_5: ribbon flash custom jacket run
+bip_39_word_space_6: ribbon flash custom jacket run sustain
+bip_39_word_space_7: ribbon flash custom jacket run sustain raw
+bip_39_word_space_8: ribbon flash custom jacket run sustain raw lend
+bip_39_word_space_9: ribbon flash custom jacket run sustain raw lend spread
+bip_39_word_underscore_1: ribbon
+bip_39_word_underscore_10: ribbon_flash_custom_jacket_run_sustain_raw_lend_spread_idle
+bip_39_word_underscore_11: ribbon_flash_custom_jacket_run_sustain_raw_lend_spread_idle_link
+bip_39_word_underscore_12: ribbon_flash_custom_jacket_run_sustain_raw_lend_spread_idle_link_attract
+bip_39_word_underscore_2: ribbon_flash
+bip_39_word_underscore_3: ribbon_flash_custom
+bip_39_word_underscore_4: ribbon_flash_custom_jacket
+bip_39_word_underscore_5: ribbon_flash_custom_jacket_run
+bip_39_word_underscore_6: ribbon_flash_custom_jacket_run_sustain
+bip_39_word_underscore_7: ribbon_flash_custom_jacket_run_sustain_raw
+bip_39_word_underscore_8: ribbon_flash_custom_jacket_run_sustain_raw_lend
+bip_39_word_underscore_9: ribbon_flash_custom_jacket_run_sustain_raw_lend_spread
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_13_18
 id_no_color: '141318'
 id_no_size: '14_13_18'
 id_no_type: tray_thin_14_13_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_13_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_13_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_13_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2098xek
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2098xek
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2098xek
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141318'
 name_no_size: 14 13 18
 name_no_size_short: 14 13 18
 name_no_type: Tray Thin 14 13 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_13_18
 oomp_word: bus wink dancer
 oomp_word_emoji: ':bus: :wink: :dancer:'

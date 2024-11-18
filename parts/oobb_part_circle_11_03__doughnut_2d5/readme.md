@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Circle 11 03  Doughnut 2D5
+* name_short: 
 ### id
 * oomp_id: oobb_part_circle_11_03__doughnut_2d5
   * classification: oobb

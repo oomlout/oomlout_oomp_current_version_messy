@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ocean: :sandal: :birthday:
 * md5_6_alpha: 1xrcy
 * md5_6: 31a9c2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201xrcy)
+[2x1](http://192.168.1.242:1112/?label=oomp%201xrcy)
+[6x4](http://192.168.1.55:1112/?label=oomp%201xrcy)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ absorb |
 | id_no_color | 050303rhm2d5mo56nmaliexpressi2cservodriverpca9685 |  
 | id_no_size | 05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
 | id_no_type | mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201xrcy |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201xrcy |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201xrcy |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ absorb |
 | name_no_size | 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
 | name_no_size_short | 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
 | name_no_type | Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
 | oomp_word | ocean sandal birthday |  
 | oomp_word_emoji | :ocean: :sandal: :birthday: |  

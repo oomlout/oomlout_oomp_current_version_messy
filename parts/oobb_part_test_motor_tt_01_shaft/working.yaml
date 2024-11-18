@@ -1,3 +1,223 @@
+bip_39_word_dash_1: decrease
+bip_39_word_dash_10: decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid
+bip_39_word_dash_11: decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid-clock
+bip_39_word_dash_12: decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link-afraid-clock-arena
+bip_39_word_dash_2: decrease-shrug
+bip_39_word_dash_3: decrease-shrug-tourist
+bip_39_word_dash_4: decrease-shrug-tourist-party
+bip_39_word_dash_5: decrease-shrug-tourist-party-rain
+bip_39_word_dash_6: decrease-shrug-tourist-party-rain-poverty
+bip_39_word_dash_7: decrease-shrug-tourist-party-rain-poverty-unhappy
+bip_39_word_dash_8: decrease-shrug-tourist-party-rain-poverty-unhappy-parade
+bip_39_word_dash_9: decrease-shrug-tourist-party-rain-poverty-unhappy-parade-link
+bip_39_word_new_br_1: decrease
+bip_39_word_new_br_10: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid
+bip_39_word_new_br_11: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid<br>clock
+bip_39_word_new_br_12: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link<br>afraid<br>clock<br>arena
+bip_39_word_new_br_2: decrease<br>shrug
+bip_39_word_new_br_3: decrease<br>shrug<br>tourist
+bip_39_word_new_br_4: decrease<br>shrug<br>tourist<br>party
+bip_39_word_new_br_5: decrease<br>shrug<br>tourist<br>party<br>rain
+bip_39_word_new_br_6: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty
+bip_39_word_new_br_7: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy
+bip_39_word_new_br_8: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade
+bip_39_word_new_br_9: decrease<br>shrug<br>tourist<br>party<br>rain<br>poverty<br>unhappy<br>parade<br>link
+bip_39_word_new_line_1: decrease
+bip_39_word_new_line_10: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy
+
+  parade
+
+  link
+
+  afraid'
+bip_39_word_new_line_11: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy
+
+  parade
+
+  link
+
+  afraid
+
+  clock'
+bip_39_word_new_line_12: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy
+
+  parade
+
+  link
+
+  afraid
+
+  clock
+
+  arena'
+bip_39_word_new_line_2: 'decrease
+
+  shrug'
+bip_39_word_new_line_3: 'decrease
+
+  shrug
+
+  tourist'
+bip_39_word_new_line_4: 'decrease
+
+  shrug
+
+  tourist
+
+  party'
+bip_39_word_new_line_5: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain'
+bip_39_word_new_line_6: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty'
+bip_39_word_new_line_7: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy'
+bip_39_word_new_line_8: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy
+
+  parade'
+bip_39_word_new_line_9: 'decrease
+
+  shrug
+
+  tourist
+
+  party
+
+  rain
+
+  poverty
+
+  unhappy
+
+  parade
+
+  link'
+bip_39_word_no_space_1: decrease
+bip_39_word_no_space_10: decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraid
+bip_39_word_no_space_11: decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraidclock
+bip_39_word_no_space_12: decreaseshrugtouristpartyrainpovertyunhappyparadelinkafraidclockarena
+bip_39_word_no_space_2: decreaseshrug
+bip_39_word_no_space_3: decreaseshrugtourist
+bip_39_word_no_space_4: decreaseshrugtouristparty
+bip_39_word_no_space_5: decreaseshrugtouristpartyrain
+bip_39_word_no_space_6: decreaseshrugtouristpartyrainpoverty
+bip_39_word_no_space_7: decreaseshrugtouristpartyrainpovertyunhappy
+bip_39_word_no_space_8: decreaseshrugtouristpartyrainpovertyunhappyparade
+bip_39_word_no_space_9: decreaseshrugtouristpartyrainpovertyunhappyparadelink
+bip_39_word_space_0:
+- decrease
+- shrug
+- tourist
+- party
+- rain
+- poverty
+- unhappy
+- parade
+- link
+- afraid
+- clock
+- arena
+bip_39_word_space_1: decrease
+bip_39_word_space_10: decrease shrug tourist party rain poverty unhappy parade link
+  afraid
+bip_39_word_space_11: decrease shrug tourist party rain poverty unhappy parade link
+  afraid clock
+bip_39_word_space_12: decrease shrug tourist party rain poverty unhappy parade link
+  afraid clock arena
+bip_39_word_space_2: decrease shrug
+bip_39_word_space_3: decrease shrug tourist
+bip_39_word_space_4: decrease shrug tourist party
+bip_39_word_space_5: decrease shrug tourist party rain
+bip_39_word_space_6: decrease shrug tourist party rain poverty
+bip_39_word_space_7: decrease shrug tourist party rain poverty unhappy
+bip_39_word_space_8: decrease shrug tourist party rain poverty unhappy parade
+bip_39_word_space_9: decrease shrug tourist party rain poverty unhappy parade link
+bip_39_word_underscore_1: decrease
+bip_39_word_underscore_10: decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid
+bip_39_word_underscore_11: decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid_clock
+bip_39_word_underscore_12: decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link_afraid_clock_arena
+bip_39_word_underscore_2: decrease_shrug
+bip_39_word_underscore_3: decrease_shrug_tourist
+bip_39_word_underscore_4: decrease_shrug_tourist_party
+bip_39_word_underscore_5: decrease_shrug_tourist_party_rain
+bip_39_word_underscore_6: decrease_shrug_tourist_party_rain_poverty
+bip_39_word_underscore_7: decrease_shrug_tourist_party_rain_poverty_unhappy
+bip_39_word_underscore_8: decrease_shrug_tourist_party_rain_poverty_unhappy_parade
+bip_39_word_underscore_9: decrease_shrug_tourist_party_rain_poverty_unhappy_parade_link
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_test_motor_tt_01_shaft
 id_no_color: motortt01shaft
 id_no_size: motor_tt_01_shaft
 id_no_type: test_motor_tt_01_shaft
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_motor_tt_01_shaft
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_motor_tt_01_shaft
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20744ht
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20744ht
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20744ht
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Motortt01Shaft
 name_no_size: Motor Tt 01 Shaft
 name_no_size_short: Motor Tt 01 Shaft
 name_no_type: Test Motor Tt 01 Shaft
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_test_motor_tt_01_shaft
 oomp_word: beer ram doughnut
 oomp_word_emoji: ':beer: :ram: :doughnut:'

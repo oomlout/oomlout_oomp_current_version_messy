@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wonder
+bip_39_word_dash_10: wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire
+bip_39_word_dash_11: wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire-ginger
+bip_39_word_dash_12: wonder-innocent-midnight-blast-rich-accident-client-omit-wire-wire-ginger-absent
+bip_39_word_dash_2: wonder-innocent
+bip_39_word_dash_3: wonder-innocent-midnight
+bip_39_word_dash_4: wonder-innocent-midnight-blast
+bip_39_word_dash_5: wonder-innocent-midnight-blast-rich
+bip_39_word_dash_6: wonder-innocent-midnight-blast-rich-accident
+bip_39_word_dash_7: wonder-innocent-midnight-blast-rich-accident-client
+bip_39_word_dash_8: wonder-innocent-midnight-blast-rich-accident-client-omit
+bip_39_word_dash_9: wonder-innocent-midnight-blast-rich-accident-client-omit-wire
+bip_39_word_new_br_1: wonder
+bip_39_word_new_br_10: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire
+bip_39_word_new_br_11: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire<br>ginger
+bip_39_word_new_br_12: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire<br>wire<br>ginger<br>absent
+bip_39_word_new_br_2: wonder<br>innocent
+bip_39_word_new_br_3: wonder<br>innocent<br>midnight
+bip_39_word_new_br_4: wonder<br>innocent<br>midnight<br>blast
+bip_39_word_new_br_5: wonder<br>innocent<br>midnight<br>blast<br>rich
+bip_39_word_new_br_6: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident
+bip_39_word_new_br_7: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client
+bip_39_word_new_br_8: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit
+bip_39_word_new_br_9: wonder<br>innocent<br>midnight<br>blast<br>rich<br>accident<br>client<br>omit<br>wire
+bip_39_word_new_line_1: wonder
+bip_39_word_new_line_10: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client
+
+  omit
+
+  wire
+
+  wire'
+bip_39_word_new_line_11: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client
+
+  omit
+
+  wire
+
+  wire
+
+  ginger'
+bip_39_word_new_line_12: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client
+
+  omit
+
+  wire
+
+  wire
+
+  ginger
+
+  absent'
+bip_39_word_new_line_2: 'wonder
+
+  innocent'
+bip_39_word_new_line_3: 'wonder
+
+  innocent
+
+  midnight'
+bip_39_word_new_line_4: 'wonder
+
+  innocent
+
+  midnight
+
+  blast'
+bip_39_word_new_line_5: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich'
+bip_39_word_new_line_6: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident'
+bip_39_word_new_line_7: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client'
+bip_39_word_new_line_8: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client
+
+  omit'
+bip_39_word_new_line_9: 'wonder
+
+  innocent
+
+  midnight
+
+  blast
+
+  rich
+
+  accident
+
+  client
+
+  omit
+
+  wire'
+bip_39_word_no_space_1: wonder
+bip_39_word_no_space_10: wonderinnocentmidnightblastrichaccidentclientomitwirewire
+bip_39_word_no_space_11: wonderinnocentmidnightblastrichaccidentclientomitwirewireginger
+bip_39_word_no_space_12: wonderinnocentmidnightblastrichaccidentclientomitwirewiregingerabsent
+bip_39_word_no_space_2: wonderinnocent
+bip_39_word_no_space_3: wonderinnocentmidnight
+bip_39_word_no_space_4: wonderinnocentmidnightblast
+bip_39_word_no_space_5: wonderinnocentmidnightblastrich
+bip_39_word_no_space_6: wonderinnocentmidnightblastrichaccident
+bip_39_word_no_space_7: wonderinnocentmidnightblastrichaccidentclient
+bip_39_word_no_space_8: wonderinnocentmidnightblastrichaccidentclientomit
+bip_39_word_no_space_9: wonderinnocentmidnightblastrichaccidentclientomitwire
+bip_39_word_space_0:
+- wonder
+- innocent
+- midnight
+- blast
+- rich
+- accident
+- client
+- omit
+- wire
+- wire
+- ginger
+- absent
+bip_39_word_space_1: wonder
+bip_39_word_space_10: wonder innocent midnight blast rich accident client omit wire
+  wire
+bip_39_word_space_11: wonder innocent midnight blast rich accident client omit wire
+  wire ginger
+bip_39_word_space_12: wonder innocent midnight blast rich accident client omit wire
+  wire ginger absent
+bip_39_word_space_2: wonder innocent
+bip_39_word_space_3: wonder innocent midnight
+bip_39_word_space_4: wonder innocent midnight blast
+bip_39_word_space_5: wonder innocent midnight blast rich
+bip_39_word_space_6: wonder innocent midnight blast rich accident
+bip_39_word_space_7: wonder innocent midnight blast rich accident client
+bip_39_word_space_8: wonder innocent midnight blast rich accident client omit
+bip_39_word_space_9: wonder innocent midnight blast rich accident client omit wire
+bip_39_word_underscore_1: wonder
+bip_39_word_underscore_10: wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire
+bip_39_word_underscore_11: wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire_ginger
+bip_39_word_underscore_12: wonder_innocent_midnight_blast_rich_accident_client_omit_wire_wire_ginger_absent
+bip_39_word_underscore_2: wonder_innocent
+bip_39_word_underscore_3: wonder_innocent_midnight
+bip_39_word_underscore_4: wonder_innocent_midnight_blast
+bip_39_word_underscore_5: wonder_innocent_midnight_blast_rich
+bip_39_word_underscore_6: wonder_innocent_midnight_blast_rich_accident
+bip_39_word_underscore_7: wonder_innocent_midnight_blast_rich_accident_client
+bip_39_word_underscore_8: wonder_innocent_midnight_blast_rich_accident_client_omit
+bip_39_word_underscore_9: wonder_innocent_midnight_blast_rich_accident_client_omit_wire
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_03_06__24_teeth_sh_motor_tt_01
 id_no_color: 030624teethshmotortt01
 id_no_size: 03_06__24_teeth_sh_motor_tt_01
 id_no_type: gear_03_06__24_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_03_06__24_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20f4fz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20f4fz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20f4fz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030624Teethshmotortt01
 name_no_size: 03 06  24 Teeth Sh Motor Tt 01
 name_no_size_short: 03 06  24 Teeth Sh Motor Tt 01
 name_no_type: Gear 03 06  24 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_03_06__24_teeth_sh_motor_tt_01
 oomp_word: sleepy cookie horse
 oomp_word_emoji: ':sleepy: :cookie: :horse:'

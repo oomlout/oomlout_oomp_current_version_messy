@@ -1,3 +1,222 @@
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram
+bip_39_word_dash_11: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram-regret
+bip_39_word_dash_12: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote-cram-regret-air
+bip_39_word_dash_2: rent-whisper
+bip_39_word_dash_3: rent-whisper-ladder
+bip_39_word_dash_4: rent-whisper-ladder-taste
+bip_39_word_dash_5: rent-whisper-ladder-taste-defense
+bip_39_word_dash_6: rent-whisper-ladder-taste-defense-chase
+bip_39_word_dash_7: rent-whisper-ladder-taste-defense-chase-lawn
+bip_39_word_dash_8: rent-whisper-ladder-taste-defense-chase-lawn-fork
+bip_39_word_dash_9: rent-whisper-ladder-taste-defense-chase-lawn-fork-quote
+bip_39_word_new_br_1: rent
+bip_39_word_new_br_10: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram
+bip_39_word_new_br_11: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram<br>regret
+bip_39_word_new_br_12: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote<br>cram<br>regret<br>air
+bip_39_word_new_br_2: rent<br>whisper
+bip_39_word_new_br_3: rent<br>whisper<br>ladder
+bip_39_word_new_br_4: rent<br>whisper<br>ladder<br>taste
+bip_39_word_new_br_5: rent<br>whisper<br>ladder<br>taste<br>defense
+bip_39_word_new_br_6: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase
+bip_39_word_new_br_7: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn
+bip_39_word_new_br_8: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork
+bip_39_word_new_br_9: rent<br>whisper<br>ladder<br>taste<br>defense<br>chase<br>lawn<br>fork<br>quote
+bip_39_word_new_line_1: rent
+bip_39_word_new_line_10: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn
+
+  fork
+
+  quote
+
+  cram'
+bip_39_word_new_line_11: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn
+
+  fork
+
+  quote
+
+  cram
+
+  regret'
+bip_39_word_new_line_12: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn
+
+  fork
+
+  quote
+
+  cram
+
+  regret
+
+  air'
+bip_39_word_new_line_2: 'rent
+
+  whisper'
+bip_39_word_new_line_3: 'rent
+
+  whisper
+
+  ladder'
+bip_39_word_new_line_4: 'rent
+
+  whisper
+
+  ladder
+
+  taste'
+bip_39_word_new_line_5: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense'
+bip_39_word_new_line_6: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase'
+bip_39_word_new_line_7: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn'
+bip_39_word_new_line_8: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn
+
+  fork'
+bip_39_word_new_line_9: 'rent
+
+  whisper
+
+  ladder
+
+  taste
+
+  defense
+
+  chase
+
+  lawn
+
+  fork
+
+  quote'
+bip_39_word_no_space_1: rent
+bip_39_word_no_space_10: rentwhisperladdertastedefensechaselawnforkquotecram
+bip_39_word_no_space_11: rentwhisperladdertastedefensechaselawnforkquotecramregret
+bip_39_word_no_space_12: rentwhisperladdertastedefensechaselawnforkquotecramregretair
+bip_39_word_no_space_2: rentwhisper
+bip_39_word_no_space_3: rentwhisperladder
+bip_39_word_no_space_4: rentwhisperladdertaste
+bip_39_word_no_space_5: rentwhisperladdertastedefense
+bip_39_word_no_space_6: rentwhisperladdertastedefensechase
+bip_39_word_no_space_7: rentwhisperladdertastedefensechaselawn
+bip_39_word_no_space_8: rentwhisperladdertastedefensechaselawnfork
+bip_39_word_no_space_9: rentwhisperladdertastedefensechaselawnforkquote
+bip_39_word_space_0:
+- rent
+- whisper
+- ladder
+- taste
+- defense
+- chase
+- lawn
+- fork
+- quote
+- cram
+- regret
+- air
+bip_39_word_space_1: rent
+bip_39_word_space_10: rent whisper ladder taste defense chase lawn fork quote cram
+bip_39_word_space_11: rent whisper ladder taste defense chase lawn fork quote cram
+  regret
+bip_39_word_space_12: rent whisper ladder taste defense chase lawn fork quote cram
+  regret air
+bip_39_word_space_2: rent whisper
+bip_39_word_space_3: rent whisper ladder
+bip_39_word_space_4: rent whisper ladder taste
+bip_39_word_space_5: rent whisper ladder taste defense
+bip_39_word_space_6: rent whisper ladder taste defense chase
+bip_39_word_space_7: rent whisper ladder taste defense chase lawn
+bip_39_word_space_8: rent whisper ladder taste defense chase lawn fork
+bip_39_word_space_9: rent whisper ladder taste defense chase lawn fork quote
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram
+bip_39_word_underscore_11: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram_regret
+bip_39_word_underscore_12: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote_cram_regret_air
+bip_39_word_underscore_2: rent_whisper
+bip_39_word_underscore_3: rent_whisper_ladder
+bip_39_word_underscore_4: rent_whisper_ladder_taste
+bip_39_word_underscore_5: rent_whisper_ladder_taste_defense
+bip_39_word_underscore_6: rent_whisper_ladder_taste_defense_chase
+bip_39_word_underscore_7: rent_whisper_ladder_taste_defense_chase_lawn
+bip_39_word_underscore_8: rent_whisper_ladder_taste_defense_chase_lawn_fork
+bip_39_word_underscore_9: rent_whisper_ladder_taste_defense_chase_lawn_fork_quote
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_03_01__9
 id_no_color: 03019
 id_no_size: 03_01__9
 id_no_type: bunting_alphabet_03_01__9
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__9
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_03_01__9
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_03_01__9
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203es7g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203es7g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203es7g
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 03019
 name_no_size: 03 01  9
 name_no_size_short: 03 01  9
 name_no_type: Bunting Alphabet 03 01  9
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_03_01__9
 oomp_word: rat cactus turtle
 oomp_word_emoji: ':rat: :cactus: :turtle:'

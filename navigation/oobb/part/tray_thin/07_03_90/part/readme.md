@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Thin 07 03 90
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_thin_07_03_90
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :calendar: :ship: :pineapple:
 * md5_6_alpha: 5m3ma
 * md5_6: 8fe0d2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205m3ma)
+[2x1](http://192.168.1.242:1112/?label=oomp%205m3ma)
+[6x4](http://192.168.1.55:1112/?label=oomp%205m3ma)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_90) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_03_90)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ hundred |
 | id_no_color | 070390 |  
 | id_no_size | 07_03_90 |  
 | id_no_type | tray_thin_07_03_90 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_90 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_03_90 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_90 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205m3ma |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205m3ma |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205m3ma |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ hundred |
 | name_no_size | 07 03 90 |  
 | name_no_size_short | 07 03 90 |  
 | name_no_type | Tray Thin 07 03 90 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_07_03_90 |  
 | oomp_word | calendar ship pineapple |  
 | oomp_word_emoji | :calendar: :ship: :pineapple: |  

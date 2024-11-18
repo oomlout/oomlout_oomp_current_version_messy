@@ -1,3 +1,222 @@
+bip_39_word_dash_1: result
+bip_39_word_dash_10: result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion
+bip_39_word_dash_11: result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion-enhance
+bip_39_word_dash_12: result-gentle-ignore-fiction-toe-fury-tooth-tragic-real-scorpion-enhance-absurd
+bip_39_word_dash_2: result-gentle
+bip_39_word_dash_3: result-gentle-ignore
+bip_39_word_dash_4: result-gentle-ignore-fiction
+bip_39_word_dash_5: result-gentle-ignore-fiction-toe
+bip_39_word_dash_6: result-gentle-ignore-fiction-toe-fury
+bip_39_word_dash_7: result-gentle-ignore-fiction-toe-fury-tooth
+bip_39_word_dash_8: result-gentle-ignore-fiction-toe-fury-tooth-tragic
+bip_39_word_dash_9: result-gentle-ignore-fiction-toe-fury-tooth-tragic-real
+bip_39_word_new_br_1: result
+bip_39_word_new_br_10: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion
+bip_39_word_new_br_11: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion<br>enhance
+bip_39_word_new_br_12: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real<br>scorpion<br>enhance<br>absurd
+bip_39_word_new_br_2: result<br>gentle
+bip_39_word_new_br_3: result<br>gentle<br>ignore
+bip_39_word_new_br_4: result<br>gentle<br>ignore<br>fiction
+bip_39_word_new_br_5: result<br>gentle<br>ignore<br>fiction<br>toe
+bip_39_word_new_br_6: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury
+bip_39_word_new_br_7: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth
+bip_39_word_new_br_8: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic
+bip_39_word_new_br_9: result<br>gentle<br>ignore<br>fiction<br>toe<br>fury<br>tooth<br>tragic<br>real
+bip_39_word_new_line_1: result
+bip_39_word_new_line_10: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth
+
+  tragic
+
+  real
+
+  scorpion'
+bip_39_word_new_line_11: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth
+
+  tragic
+
+  real
+
+  scorpion
+
+  enhance'
+bip_39_word_new_line_12: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth
+
+  tragic
+
+  real
+
+  scorpion
+
+  enhance
+
+  absurd'
+bip_39_word_new_line_2: 'result
+
+  gentle'
+bip_39_word_new_line_3: 'result
+
+  gentle
+
+  ignore'
+bip_39_word_new_line_4: 'result
+
+  gentle
+
+  ignore
+
+  fiction'
+bip_39_word_new_line_5: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe'
+bip_39_word_new_line_6: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury'
+bip_39_word_new_line_7: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth'
+bip_39_word_new_line_8: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth
+
+  tragic'
+bip_39_word_new_line_9: 'result
+
+  gentle
+
+  ignore
+
+  fiction
+
+  toe
+
+  fury
+
+  tooth
+
+  tragic
+
+  real'
+bip_39_word_no_space_1: result
+bip_39_word_no_space_10: resultgentleignorefictiontoefurytoothtragicrealscorpion
+bip_39_word_no_space_11: resultgentleignorefictiontoefurytoothtragicrealscorpionenhance
+bip_39_word_no_space_12: resultgentleignorefictiontoefurytoothtragicrealscorpionenhanceabsurd
+bip_39_word_no_space_2: resultgentle
+bip_39_word_no_space_3: resultgentleignore
+bip_39_word_no_space_4: resultgentleignorefiction
+bip_39_word_no_space_5: resultgentleignorefictiontoe
+bip_39_word_no_space_6: resultgentleignorefictiontoefury
+bip_39_word_no_space_7: resultgentleignorefictiontoefurytooth
+bip_39_word_no_space_8: resultgentleignorefictiontoefurytoothtragic
+bip_39_word_no_space_9: resultgentleignorefictiontoefurytoothtragicreal
+bip_39_word_space_0:
+- result
+- gentle
+- ignore
+- fiction
+- toe
+- fury
+- tooth
+- tragic
+- real
+- scorpion
+- enhance
+- absurd
+bip_39_word_space_1: result
+bip_39_word_space_10: result gentle ignore fiction toe fury tooth tragic real scorpion
+bip_39_word_space_11: result gentle ignore fiction toe fury tooth tragic real scorpion
+  enhance
+bip_39_word_space_12: result gentle ignore fiction toe fury tooth tragic real scorpion
+  enhance absurd
+bip_39_word_space_2: result gentle
+bip_39_word_space_3: result gentle ignore
+bip_39_word_space_4: result gentle ignore fiction
+bip_39_word_space_5: result gentle ignore fiction toe
+bip_39_word_space_6: result gentle ignore fiction toe fury
+bip_39_word_space_7: result gentle ignore fiction toe fury tooth
+bip_39_word_space_8: result gentle ignore fiction toe fury tooth tragic
+bip_39_word_space_9: result gentle ignore fiction toe fury tooth tragic real
+bip_39_word_underscore_1: result
+bip_39_word_underscore_10: result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion
+bip_39_word_underscore_11: result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion_enhance
+bip_39_word_underscore_12: result_gentle_ignore_fiction_toe_fury_tooth_tragic_real_scorpion_enhance_absurd
+bip_39_word_underscore_2: result_gentle
+bip_39_word_underscore_3: result_gentle_ignore
+bip_39_word_underscore_4: result_gentle_ignore_fiction
+bip_39_word_underscore_5: result_gentle_ignore_fiction_toe
+bip_39_word_underscore_6: result_gentle_ignore_fiction_toe_fury
+bip_39_word_underscore_7: result_gentle_ignore_fiction_toe_fury_tooth
+bip_39_word_underscore_8: result_gentle_ignore_fiction_toe_fury_tooth_tragic
+bip_39_word_underscore_9: result_gentle_ignore_fiction_toe_fury_tooth_tragic_real
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_09_07_03
 id_no_color: 090703
 id_no_size: 09_07_03
 id_no_type: plate_09_07_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_07_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_09_07_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_09_07_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20nak0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20nak0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20nak0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090703
 name_no_size: 09 07 03
 name_no_size_short: 09 07 03
 name_no_type: Plate 09 07 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_09_07_03
 oomp_word: star telescope foggy
 oomp_word_emoji: ':star: :telescope: :foggy:'

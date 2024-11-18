@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Tablet Microsoft Surface Pro 3 Microsoft Model 1631
+* name_short: 
 ### id
 * oomp_id: computer_tablet_microsoft_surface_pro_3_microsoft_model_1631
   * classification: computer

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Tdpbmct Twenty Twenty Aluminium Extrusion Slide Module
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :six: :violin: :leaves:
 * md5_6_alpha: 9nucm
 * md5_6: f7a266
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209nucm)
+[2x1](http://192.168.1.242:1112/?label=oomp%209nucm)
+[6x4](http://192.168.1.55:1112/?label=oomp%209nucm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ ring |
 | id_no_color | tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
 | id_no_size | tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
 | id_no_type | oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209nucm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209nucm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209nucm |  
 | link_redirect | https://github.com/oomlout/oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ ring |
 | name_no_size | Tdpbmct Twenty Twenty Aluminium Extrusion Slide Module |  
 | name_no_size_short | Tdpbmct Twenty Twenty Aluminium Extrusion Slide Module |  
 | name_no_type | Oomlout Oomlout Tdpbmct Twenty Twenty Aluminium Extrusion Slide Module |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_tdpbmct_twenty_twenty_aluminium_extrusion_slide_module |  
 | oomp_word | six violin leaves |  
 | oomp_word_emoji | :six: :violin: :leaves: |  

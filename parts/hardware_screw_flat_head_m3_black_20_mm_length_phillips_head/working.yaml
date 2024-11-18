@@ -1,3 +1,222 @@
+bip_39_word_dash_1: alien
+bip_39_word_dash_10: alien-cereal-trouble-smile-print-current-dune-glimpse-bus-follow
+bip_39_word_dash_11: alien-cereal-trouble-smile-print-current-dune-glimpse-bus-follow-sort
+bip_39_word_dash_12: alien-cereal-trouble-smile-print-current-dune-glimpse-bus-follow-sort-alley
+bip_39_word_dash_2: alien-cereal
+bip_39_word_dash_3: alien-cereal-trouble
+bip_39_word_dash_4: alien-cereal-trouble-smile
+bip_39_word_dash_5: alien-cereal-trouble-smile-print
+bip_39_word_dash_6: alien-cereal-trouble-smile-print-current
+bip_39_word_dash_7: alien-cereal-trouble-smile-print-current-dune
+bip_39_word_dash_8: alien-cereal-trouble-smile-print-current-dune-glimpse
+bip_39_word_dash_9: alien-cereal-trouble-smile-print-current-dune-glimpse-bus
+bip_39_word_new_br_1: alien
+bip_39_word_new_br_10: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune<br>glimpse<br>bus<br>follow
+bip_39_word_new_br_11: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune<br>glimpse<br>bus<br>follow<br>sort
+bip_39_word_new_br_12: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune<br>glimpse<br>bus<br>follow<br>sort<br>alley
+bip_39_word_new_br_2: alien<br>cereal
+bip_39_word_new_br_3: alien<br>cereal<br>trouble
+bip_39_word_new_br_4: alien<br>cereal<br>trouble<br>smile
+bip_39_word_new_br_5: alien<br>cereal<br>trouble<br>smile<br>print
+bip_39_word_new_br_6: alien<br>cereal<br>trouble<br>smile<br>print<br>current
+bip_39_word_new_br_7: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune
+bip_39_word_new_br_8: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune<br>glimpse
+bip_39_word_new_br_9: alien<br>cereal<br>trouble<br>smile<br>print<br>current<br>dune<br>glimpse<br>bus
+bip_39_word_new_line_1: alien
+bip_39_word_new_line_10: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune
+
+  glimpse
+
+  bus
+
+  follow'
+bip_39_word_new_line_11: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune
+
+  glimpse
+
+  bus
+
+  follow
+
+  sort'
+bip_39_word_new_line_12: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune
+
+  glimpse
+
+  bus
+
+  follow
+
+  sort
+
+  alley'
+bip_39_word_new_line_2: 'alien
+
+  cereal'
+bip_39_word_new_line_3: 'alien
+
+  cereal
+
+  trouble'
+bip_39_word_new_line_4: 'alien
+
+  cereal
+
+  trouble
+
+  smile'
+bip_39_word_new_line_5: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print'
+bip_39_word_new_line_6: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current'
+bip_39_word_new_line_7: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune'
+bip_39_word_new_line_8: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune
+
+  glimpse'
+bip_39_word_new_line_9: 'alien
+
+  cereal
+
+  trouble
+
+  smile
+
+  print
+
+  current
+
+  dune
+
+  glimpse
+
+  bus'
+bip_39_word_no_space_1: alien
+bip_39_word_no_space_10: aliencerealtroublesmileprintcurrentduneglimpsebusfollow
+bip_39_word_no_space_11: aliencerealtroublesmileprintcurrentduneglimpsebusfollowsort
+bip_39_word_no_space_12: aliencerealtroublesmileprintcurrentduneglimpsebusfollowsortalley
+bip_39_word_no_space_2: aliencereal
+bip_39_word_no_space_3: aliencerealtrouble
+bip_39_word_no_space_4: aliencerealtroublesmile
+bip_39_word_no_space_5: aliencerealtroublesmileprint
+bip_39_word_no_space_6: aliencerealtroublesmileprintcurrent
+bip_39_word_no_space_7: aliencerealtroublesmileprintcurrentdune
+bip_39_word_no_space_8: aliencerealtroublesmileprintcurrentduneglimpse
+bip_39_word_no_space_9: aliencerealtroublesmileprintcurrentduneglimpsebus
+bip_39_word_space_0:
+- alien
+- cereal
+- trouble
+- smile
+- print
+- current
+- dune
+- glimpse
+- bus
+- follow
+- sort
+- alley
+bip_39_word_space_1: alien
+bip_39_word_space_10: alien cereal trouble smile print current dune glimpse bus follow
+bip_39_word_space_11: alien cereal trouble smile print current dune glimpse bus follow
+  sort
+bip_39_word_space_12: alien cereal trouble smile print current dune glimpse bus follow
+  sort alley
+bip_39_word_space_2: alien cereal
+bip_39_word_space_3: alien cereal trouble
+bip_39_word_space_4: alien cereal trouble smile
+bip_39_word_space_5: alien cereal trouble smile print
+bip_39_word_space_6: alien cereal trouble smile print current
+bip_39_word_space_7: alien cereal trouble smile print current dune
+bip_39_word_space_8: alien cereal trouble smile print current dune glimpse
+bip_39_word_space_9: alien cereal trouble smile print current dune glimpse bus
+bip_39_word_underscore_1: alien
+bip_39_word_underscore_10: alien_cereal_trouble_smile_print_current_dune_glimpse_bus_follow
+bip_39_word_underscore_11: alien_cereal_trouble_smile_print_current_dune_glimpse_bus_follow_sort
+bip_39_word_underscore_12: alien_cereal_trouble_smile_print_current_dune_glimpse_bus_follow_sort_alley
+bip_39_word_underscore_2: alien_cereal
+bip_39_word_underscore_3: alien_cereal_trouble
+bip_39_word_underscore_4: alien_cereal_trouble_smile
+bip_39_word_underscore_5: alien_cereal_trouble_smile_print
+bip_39_word_underscore_6: alien_cereal_trouble_smile_print_current
+bip_39_word_underscore_7: alien_cereal_trouble_smile_print_current_dune
+bip_39_word_underscore_8: alien_cereal_trouble_smile_print_current_dune_glimpse
+bip_39_word_underscore_9: alien_cereal_trouble_smile_print_current_dune_glimpse_bus
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 20_mm_length_phillips_head
 id_no_size: black_20_mm_length_phillips_head
 id_no_type: m3_black_20_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_20_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m3_black_20_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_20_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2044d1y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2044d1y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2044d1y
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 20 mm Length Phillips Head
 name_no_size: Black 20 mm Length Phillips Head
 name_no_size_short: Black 20 Mm Length Phillips Head
 name_no_type: M3 Black 20 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 44d
+oomlout_bolt_md5_6_alpha_first_3_upper: 44D
+oomlout_bolt_md5_6_alpha_last_3: 1y
+oomlout_bolt_md5_6_alpha_last_3_upper: 1Y
+oomlout_bolt_md5_6_first_3: '699'
+oomlout_bolt_md5_6_first_3_upper: '699'
+oomlout_bolt_md5_6_last_3: f16
+oomlout_bolt_md5_6_last_3_upper: F16
+oomlout_bolt_name: Flat Head M3X20 mm Black (Phillips)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh3b20p
+oomlout_short_code_upper: FH3B20P
 oomp_key: oomp_hardware_screw_flat_head_m3_black_20_mm_length_phillips_head
 oomp_word: cactus diamonds thumbsup
 oomp_word_emoji: ':cactus: :diamonds: :thumbsup:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 5 mm White
+* name_short: 
 ### id
 * oomp_id: electronic_led_5_mm_white
   * classification: electronic

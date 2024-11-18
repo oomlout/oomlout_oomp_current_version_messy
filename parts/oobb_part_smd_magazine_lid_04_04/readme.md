@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine Lid 04 04
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_lid_04_04
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pig: :koala: :dog:
 * md5_6_alpha: 2clkj
 * md5_6: 3c3a33
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202clkj)
+[2x1](http://192.168.1.242:1112/?label=oomp%202clkj)
+[6x4](http://192.168.1.55:1112/?label=oomp%202clkj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_04_04) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_04_04)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ world |
 | id_no_color | 0404 |  
 | id_no_size | 04_04 |  
 | id_no_type | smd_magazine_lid_04_04 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_04_04 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_04_04 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_04_04 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202clkj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202clkj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202clkj |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ world |
 | name_no_size | 04 04 |  
 | name_no_size_short | 04 04 |  
 | name_no_type | SMD Magazine Lid 04 04 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_lid_04_04 |  
 | oomp_word | pig koala dog |  
 | oomp_word_emoji | :pig: :koala: :dog: |  

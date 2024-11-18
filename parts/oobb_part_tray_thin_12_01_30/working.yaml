@@ -1,3 +1,221 @@
+bip_39_word_dash_1: photo
+bip_39_word_dash_10: photo-tiger-voyage-before-tired-word-roast-crime-magic-lab
+bip_39_word_dash_11: photo-tiger-voyage-before-tired-word-roast-crime-magic-lab-fan
+bip_39_word_dash_12: photo-tiger-voyage-before-tired-word-roast-crime-magic-lab-fan-asthma
+bip_39_word_dash_2: photo-tiger
+bip_39_word_dash_3: photo-tiger-voyage
+bip_39_word_dash_4: photo-tiger-voyage-before
+bip_39_word_dash_5: photo-tiger-voyage-before-tired
+bip_39_word_dash_6: photo-tiger-voyage-before-tired-word
+bip_39_word_dash_7: photo-tiger-voyage-before-tired-word-roast
+bip_39_word_dash_8: photo-tiger-voyage-before-tired-word-roast-crime
+bip_39_word_dash_9: photo-tiger-voyage-before-tired-word-roast-crime-magic
+bip_39_word_new_br_1: photo
+bip_39_word_new_br_10: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic<br>lab
+bip_39_word_new_br_11: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic<br>lab<br>fan
+bip_39_word_new_br_12: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic<br>lab<br>fan<br>asthma
+bip_39_word_new_br_2: photo<br>tiger
+bip_39_word_new_br_3: photo<br>tiger<br>voyage
+bip_39_word_new_br_4: photo<br>tiger<br>voyage<br>before
+bip_39_word_new_br_5: photo<br>tiger<br>voyage<br>before<br>tired
+bip_39_word_new_br_6: photo<br>tiger<br>voyage<br>before<br>tired<br>word
+bip_39_word_new_br_7: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast
+bip_39_word_new_br_8: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime
+bip_39_word_new_br_9: photo<br>tiger<br>voyage<br>before<br>tired<br>word<br>roast<br>crime<br>magic
+bip_39_word_new_line_1: photo
+bip_39_word_new_line_10: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast
+
+  crime
+
+  magic
+
+  lab'
+bip_39_word_new_line_11: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast
+
+  crime
+
+  magic
+
+  lab
+
+  fan'
+bip_39_word_new_line_12: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast
+
+  crime
+
+  magic
+
+  lab
+
+  fan
+
+  asthma'
+bip_39_word_new_line_2: 'photo
+
+  tiger'
+bip_39_word_new_line_3: 'photo
+
+  tiger
+
+  voyage'
+bip_39_word_new_line_4: 'photo
+
+  tiger
+
+  voyage
+
+  before'
+bip_39_word_new_line_5: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired'
+bip_39_word_new_line_6: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word'
+bip_39_word_new_line_7: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast'
+bip_39_word_new_line_8: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast
+
+  crime'
+bip_39_word_new_line_9: 'photo
+
+  tiger
+
+  voyage
+
+  before
+
+  tired
+
+  word
+
+  roast
+
+  crime
+
+  magic'
+bip_39_word_no_space_1: photo
+bip_39_word_no_space_10: phototigervoyagebeforetiredwordroastcrimemagiclab
+bip_39_word_no_space_11: phototigervoyagebeforetiredwordroastcrimemagiclabfan
+bip_39_word_no_space_12: phototigervoyagebeforetiredwordroastcrimemagiclabfanasthma
+bip_39_word_no_space_2: phototiger
+bip_39_word_no_space_3: phototigervoyage
+bip_39_word_no_space_4: phototigervoyagebefore
+bip_39_word_no_space_5: phototigervoyagebeforetired
+bip_39_word_no_space_6: phototigervoyagebeforetiredword
+bip_39_word_no_space_7: phototigervoyagebeforetiredwordroast
+bip_39_word_no_space_8: phototigervoyagebeforetiredwordroastcrime
+bip_39_word_no_space_9: phototigervoyagebeforetiredwordroastcrimemagic
+bip_39_word_space_0:
+- photo
+- tiger
+- voyage
+- before
+- tired
+- word
+- roast
+- crime
+- magic
+- lab
+- fan
+- asthma
+bip_39_word_space_1: photo
+bip_39_word_space_10: photo tiger voyage before tired word roast crime magic lab
+bip_39_word_space_11: photo tiger voyage before tired word roast crime magic lab fan
+bip_39_word_space_12: photo tiger voyage before tired word roast crime magic lab fan
+  asthma
+bip_39_word_space_2: photo tiger
+bip_39_word_space_3: photo tiger voyage
+bip_39_word_space_4: photo tiger voyage before
+bip_39_word_space_5: photo tiger voyage before tired
+bip_39_word_space_6: photo tiger voyage before tired word
+bip_39_word_space_7: photo tiger voyage before tired word roast
+bip_39_word_space_8: photo tiger voyage before tired word roast crime
+bip_39_word_space_9: photo tiger voyage before tired word roast crime magic
+bip_39_word_underscore_1: photo
+bip_39_word_underscore_10: photo_tiger_voyage_before_tired_word_roast_crime_magic_lab
+bip_39_word_underscore_11: photo_tiger_voyage_before_tired_word_roast_crime_magic_lab_fan
+bip_39_word_underscore_12: photo_tiger_voyage_before_tired_word_roast_crime_magic_lab_fan_asthma
+bip_39_word_underscore_2: photo_tiger
+bip_39_word_underscore_3: photo_tiger_voyage
+bip_39_word_underscore_4: photo_tiger_voyage_before
+bip_39_word_underscore_5: photo_tiger_voyage_before_tired
+bip_39_word_underscore_6: photo_tiger_voyage_before_tired_word
+bip_39_word_underscore_7: photo_tiger_voyage_before_tired_word_roast
+bip_39_word_underscore_8: photo_tiger_voyage_before_tired_word_roast_crime
+bip_39_word_underscore_9: photo_tiger_voyage_before_tired_word_roast_crime_magic
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_01_30
 id_no_color: '120130'
 id_no_size: '12_01_30'
 id_no_type: tray_thin_12_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208rjxb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208rjxb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208rjxb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120130'
 name_no_size: 12 01 30
 name_no_size_short: 12 01 30
 name_no_type: Tray Thin 12 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_01_30
 oomp_word: ship headphones diamonds
 oomp_word_emoji: ':ship: :headphones: :diamonds:'

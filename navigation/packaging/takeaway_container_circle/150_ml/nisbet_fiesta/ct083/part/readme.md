@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :trident: :office: :lollipop:
 * md5_6_alpha: 9zdfq
 * md5_6: ffd7c6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209zdfq)
+[2x1](http://192.168.1.242:1112/?label=oomp%209zdfq)
+[6x4](http://192.168.1.55:1112/?label=oomp%209zdfq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -231,7 +257,14 @@ help |
 | id_no_color | nisbetfiestact083 |  
 | id_no_size | nisbet_fiesta_ct083 |  
 | id_no_type | 150_ml_nisbet_fiesta_ct083 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209zdfq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209zdfq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209zdfq |  
 | manufacturer | nisbet_fiesta |  
 | manufacturer_capital | Nisbet Fiesta |  
 | manufacturer_first_letter | n |  
@@ -280,6 +313,7 @@ help |
 | name_no_size | Nisbet Fiesta Ct083 |  
 | name_no_size_short | Nisbet Fiesta Ct083 |  
 | name_no_type | 150 Ml Nisbet Fiesta Ct083 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc150 |  
 | oomlout_short_code_upper | TCC150 |  
 | oomp_key | oomp_packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083 |  

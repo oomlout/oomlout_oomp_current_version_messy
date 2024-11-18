@@ -1,3 +1,223 @@
+bip_39_word_dash_1: brain
+bip_39_word_dash_10: brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused
+bip_39_word_dash_11: brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused-ladder
+bip_39_word_dash_12: brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle-amused-ladder-arctic
+bip_39_word_dash_2: brain-viable
+bip_39_word_dash_3: brain-viable-hair
+bip_39_word_dash_4: brain-viable-hair-ivory
+bip_39_word_dash_5: brain-viable-hair-ivory-toilet
+bip_39_word_dash_6: brain-viable-hair-ivory-toilet-cargo
+bip_39_word_dash_7: brain-viable-hair-ivory-toilet-cargo-alcohol
+bip_39_word_dash_8: brain-viable-hair-ivory-toilet-cargo-alcohol-switch
+bip_39_word_dash_9: brain-viable-hair-ivory-toilet-cargo-alcohol-switch-recycle
+bip_39_word_new_br_1: brain
+bip_39_word_new_br_10: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused
+bip_39_word_new_br_11: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder
+bip_39_word_new_br_12: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle<br>amused<br>ladder<br>arctic
+bip_39_word_new_br_2: brain<br>viable
+bip_39_word_new_br_3: brain<br>viable<br>hair
+bip_39_word_new_br_4: brain<br>viable<br>hair<br>ivory
+bip_39_word_new_br_5: brain<br>viable<br>hair<br>ivory<br>toilet
+bip_39_word_new_br_6: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo
+bip_39_word_new_br_7: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol
+bip_39_word_new_br_8: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch
+bip_39_word_new_br_9: brain<br>viable<br>hair<br>ivory<br>toilet<br>cargo<br>alcohol<br>switch<br>recycle
+bip_39_word_new_line_1: brain
+bip_39_word_new_line_10: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol
+
+  switch
+
+  recycle
+
+  amused'
+bip_39_word_new_line_11: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol
+
+  switch
+
+  recycle
+
+  amused
+
+  ladder'
+bip_39_word_new_line_12: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol
+
+  switch
+
+  recycle
+
+  amused
+
+  ladder
+
+  arctic'
+bip_39_word_new_line_2: 'brain
+
+  viable'
+bip_39_word_new_line_3: 'brain
+
+  viable
+
+  hair'
+bip_39_word_new_line_4: 'brain
+
+  viable
+
+  hair
+
+  ivory'
+bip_39_word_new_line_5: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet'
+bip_39_word_new_line_6: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo'
+bip_39_word_new_line_7: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol'
+bip_39_word_new_line_8: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol
+
+  switch'
+bip_39_word_new_line_9: 'brain
+
+  viable
+
+  hair
+
+  ivory
+
+  toilet
+
+  cargo
+
+  alcohol
+
+  switch
+
+  recycle'
+bip_39_word_no_space_1: brain
+bip_39_word_no_space_10: brainviablehairivorytoiletcargoalcoholswitchrecycleamused
+bip_39_word_no_space_11: brainviablehairivorytoiletcargoalcoholswitchrecycleamusedladder
+bip_39_word_no_space_12: brainviablehairivorytoiletcargoalcoholswitchrecycleamusedladderarctic
+bip_39_word_no_space_2: brainviable
+bip_39_word_no_space_3: brainviablehair
+bip_39_word_no_space_4: brainviablehairivory
+bip_39_word_no_space_5: brainviablehairivorytoilet
+bip_39_word_no_space_6: brainviablehairivorytoiletcargo
+bip_39_word_no_space_7: brainviablehairivorytoiletcargoalcohol
+bip_39_word_no_space_8: brainviablehairivorytoiletcargoalcoholswitch
+bip_39_word_no_space_9: brainviablehairivorytoiletcargoalcoholswitchrecycle
+bip_39_word_space_0:
+- brain
+- viable
+- hair
+- ivory
+- toilet
+- cargo
+- alcohol
+- switch
+- recycle
+- amused
+- ladder
+- arctic
+bip_39_word_space_1: brain
+bip_39_word_space_10: brain viable hair ivory toilet cargo alcohol switch recycle
+  amused
+bip_39_word_space_11: brain viable hair ivory toilet cargo alcohol switch recycle
+  amused ladder
+bip_39_word_space_12: brain viable hair ivory toilet cargo alcohol switch recycle
+  amused ladder arctic
+bip_39_word_space_2: brain viable
+bip_39_word_space_3: brain viable hair
+bip_39_word_space_4: brain viable hair ivory
+bip_39_word_space_5: brain viable hair ivory toilet
+bip_39_word_space_6: brain viable hair ivory toilet cargo
+bip_39_word_space_7: brain viable hair ivory toilet cargo alcohol
+bip_39_word_space_8: brain viable hair ivory toilet cargo alcohol switch
+bip_39_word_space_9: brain viable hair ivory toilet cargo alcohol switch recycle
+bip_39_word_underscore_1: brain
+bip_39_word_underscore_10: brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused
+bip_39_word_underscore_11: brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused_ladder
+bip_39_word_underscore_12: brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle_amused_ladder_arctic
+bip_39_word_underscore_2: brain_viable
+bip_39_word_underscore_3: brain_viable_hair
+bip_39_word_underscore_4: brain_viable_hair_ivory
+bip_39_word_underscore_5: brain_viable_hair_ivory_toilet
+bip_39_word_underscore_6: brain_viable_hair_ivory_toilet_cargo
+bip_39_word_underscore_7: brain_viable_hair_ivory_toilet_cargo_alcohol
+bip_39_word_underscore_8: brain_viable_hair_ivory_toilet_cargo_alcohol_switch
+bip_39_word_underscore_9: brain_viable_hair_ivory_toilet_cargo_alcohol_switch_recycle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_2d5_02_12
 id_no_color: 2d50212
 id_no_size: 2d5_02_12
 id_no_type: tray_thin_2d5_02_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_02_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_02_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_02_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ze82
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ze82
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ze82
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 2D50212
 name_no_size: 2D5 02 12
 name_no_size_short: 2D5 02 12
 name_no_type: Tray Thin 2D5 02 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_02_12
 oomp_word: handbag seven birthday
 oomp_word_emoji: ':handbag: :seven: :birthday:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: rug
+bip_39_word_dash_10: rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet
+bip_39_word_dash_11: rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet-rabbit
+bip_39_word_dash_12: rug-alarm-robust-code-bind-scheme-strike-hero-oppose-pet-rabbit-assist
+bip_39_word_dash_2: rug-alarm
+bip_39_word_dash_3: rug-alarm-robust
+bip_39_word_dash_4: rug-alarm-robust-code
+bip_39_word_dash_5: rug-alarm-robust-code-bind
+bip_39_word_dash_6: rug-alarm-robust-code-bind-scheme
+bip_39_word_dash_7: rug-alarm-robust-code-bind-scheme-strike
+bip_39_word_dash_8: rug-alarm-robust-code-bind-scheme-strike-hero
+bip_39_word_dash_9: rug-alarm-robust-code-bind-scheme-strike-hero-oppose
+bip_39_word_new_br_1: rug
+bip_39_word_new_br_10: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet
+bip_39_word_new_br_11: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit
+bip_39_word_new_br_12: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose<br>pet<br>rabbit<br>assist
+bip_39_word_new_br_2: rug<br>alarm
+bip_39_word_new_br_3: rug<br>alarm<br>robust
+bip_39_word_new_br_4: rug<br>alarm<br>robust<br>code
+bip_39_word_new_br_5: rug<br>alarm<br>robust<br>code<br>bind
+bip_39_word_new_br_6: rug<br>alarm<br>robust<br>code<br>bind<br>scheme
+bip_39_word_new_br_7: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike
+bip_39_word_new_br_8: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero
+bip_39_word_new_br_9: rug<br>alarm<br>robust<br>code<br>bind<br>scheme<br>strike<br>hero<br>oppose
+bip_39_word_new_line_1: rug
+bip_39_word_new_line_10: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike
+
+  hero
+
+  oppose
+
+  pet'
+bip_39_word_new_line_11: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike
+
+  hero
+
+  oppose
+
+  pet
+
+  rabbit'
+bip_39_word_new_line_12: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike
+
+  hero
+
+  oppose
+
+  pet
+
+  rabbit
+
+  assist'
+bip_39_word_new_line_2: 'rug
+
+  alarm'
+bip_39_word_new_line_3: 'rug
+
+  alarm
+
+  robust'
+bip_39_word_new_line_4: 'rug
+
+  alarm
+
+  robust
+
+  code'
+bip_39_word_new_line_5: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind'
+bip_39_word_new_line_6: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme'
+bip_39_word_new_line_7: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike'
+bip_39_word_new_line_8: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike
+
+  hero'
+bip_39_word_new_line_9: 'rug
+
+  alarm
+
+  robust
+
+  code
+
+  bind
+
+  scheme
+
+  strike
+
+  hero
+
+  oppose'
+bip_39_word_no_space_1: rug
+bip_39_word_no_space_10: rugalarmrobustcodebindschemestrikeheroopposepet
+bip_39_word_no_space_11: rugalarmrobustcodebindschemestrikeheroopposepetrabbit
+bip_39_word_no_space_12: rugalarmrobustcodebindschemestrikeheroopposepetrabbitassist
+bip_39_word_no_space_2: rugalarm
+bip_39_word_no_space_3: rugalarmrobust
+bip_39_word_no_space_4: rugalarmrobustcode
+bip_39_word_no_space_5: rugalarmrobustcodebind
+bip_39_word_no_space_6: rugalarmrobustcodebindscheme
+bip_39_word_no_space_7: rugalarmrobustcodebindschemestrike
+bip_39_word_no_space_8: rugalarmrobustcodebindschemestrikehero
+bip_39_word_no_space_9: rugalarmrobustcodebindschemestrikeherooppose
+bip_39_word_space_0:
+- rug
+- alarm
+- robust
+- code
+- bind
+- scheme
+- strike
+- hero
+- oppose
+- pet
+- rabbit
+- assist
+bip_39_word_space_1: rug
+bip_39_word_space_10: rug alarm robust code bind scheme strike hero oppose pet
+bip_39_word_space_11: rug alarm robust code bind scheme strike hero oppose pet rabbit
+bip_39_word_space_12: rug alarm robust code bind scheme strike hero oppose pet rabbit
+  assist
+bip_39_word_space_2: rug alarm
+bip_39_word_space_3: rug alarm robust
+bip_39_word_space_4: rug alarm robust code
+bip_39_word_space_5: rug alarm robust code bind
+bip_39_word_space_6: rug alarm robust code bind scheme
+bip_39_word_space_7: rug alarm robust code bind scheme strike
+bip_39_word_space_8: rug alarm robust code bind scheme strike hero
+bip_39_word_space_9: rug alarm robust code bind scheme strike hero oppose
+bip_39_word_underscore_1: rug
+bip_39_word_underscore_10: rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet
+bip_39_word_underscore_11: rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet_rabbit
+bip_39_word_underscore_12: rug_alarm_robust_code_bind_scheme_strike_hero_oppose_pet_rabbit_assist
+bip_39_word_underscore_2: rug_alarm
+bip_39_word_underscore_3: rug_alarm_robust
+bip_39_word_underscore_4: rug_alarm_robust_code
+bip_39_word_underscore_5: rug_alarm_robust_code_bind
+bip_39_word_underscore_6: rug_alarm_robust_code_bind_scheme
+bip_39_word_underscore_7: rug_alarm_robust_code_bind_scheme_strike
+bip_39_word_underscore_8: rug_alarm_robust_code_bind_scheme_strike_hero
+bip_39_word_underscore_9: rug_alarm_robust_code_bind_scheme_strike_hero_oppose
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_vertical_04_04_15
 id_no_color: '040415'
 id_no_size: '04_04_15'
 id_no_type: tray_vertical_04_04_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208myjs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208myjs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208myjs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '040415'
 name_no_size: 04 04 15
 name_no_size_short: 04 04 15
 name_no_type: Tray Vertical 04 04 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_04_04_15
 oomp_word: stars poodle mushroom
 oomp_word_emoji: ':stars: :poodle: :mushroom:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh
+* name_short: 
 ### id
 * oomp_id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ox: :angel: :tiger:
 * md5_6_alpha: 3le7t
 * md5_6: 5c1e39
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203le7t)
+[2x1](http://192.168.1.242:1112/?label=oomp%203le7t)
+[6x4](http://192.168.1.55:1112/?label=oomp%203le7t)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ advice |
 | id_no_color | atmega328_microchip_atmega328p_mmh |  
 | id_no_size | mcu_atmega328_microchip_atmega328p_mmh |  
 | id_no_type | vqfn_28_mcu_atmega328_microchip_atmega328p_mmh |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203le7t |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203le7t |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203le7t |  
 | manufacturer | microchip |  
 | manufacturer_capital | Microchip |  
 | manufacturer_first_letter | m |  
@@ -329,6 +362,7 @@ advice |
 | name_no_size | MCU Atmega328 Microchip Atmega328P mmh |  
 | name_no_size_short | Mcu Atmega328 Microchip Atmega328P Mmh |  
 | name_no_type | Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh |  
 | oomp_word | ox angel tiger |  
 | oomp_word_emoji | :ox: :angel: :tiger: |  

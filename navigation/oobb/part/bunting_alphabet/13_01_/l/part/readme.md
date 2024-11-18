@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 13 01  L
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_13_01__l
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :car: :dancer: :spades:
 * md5_6_alpha: 9693w
 * md5_6: eb1c9c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209693w)
+[2x1](http://192.168.1.242:1112/?label=oomp%209693w)
+[6x4](http://192.168.1.55:1112/?label=oomp%209693w)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__l) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__l)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ silly |
 | id_no_color | 1301l |  
 | id_no_size | 13_01__l |  
 | id_no_type | bunting_alphabet_13_01__l |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__l |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__l |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__l |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209693w |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209693w |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209693w |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ silly |
 | name_no_size | 13 01  L |  
 | name_no_size_short | 13 01  L |  
 | name_no_type | Bunting Alphabet 13 01  L |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_13_01__l |  
 | oomp_word | car dancer spades |  
 | oomp_word_emoji | :car: :dancer: :spades: |  

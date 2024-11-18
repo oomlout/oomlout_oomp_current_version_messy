@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6322 Size 110 mm ID 240 mm OD 50 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6322_size_110_mm_id_240_mm_od_50_mm_depth
   * classification: hardware

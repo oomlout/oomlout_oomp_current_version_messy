@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420695954'
+bip_39_word_dash_1: humor
+bip_39_word_dash_10: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial
+bip_39_word_dash_11: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife
+bip_39_word_dash_12: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax-spatial-knife-alpha
+bip_39_word_dash_2: humor-kind
+bip_39_word_dash_3: humor-kind-long
+bip_39_word_dash_4: humor-kind-long-picnic
+bip_39_word_dash_5: humor-kind-long-picnic-same
+bip_39_word_dash_6: humor-kind-long-picnic-same-tiger
+bip_39_word_dash_7: humor-kind-long-picnic-same-tiger-bargain
+bip_39_word_dash_8: humor-kind-long-picnic-same-tiger-bargain-tortoise
+bip_39_word_dash_9: humor-kind-long-picnic-same-tiger-bargain-tortoise-relax
+bip_39_word_new_br_1: humor
+bip_39_word_new_br_10: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial
+bip_39_word_new_br_11: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife
+bip_39_word_new_br_12: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax<br>spatial<br>knife<br>alpha
+bip_39_word_new_br_2: humor<br>kind
+bip_39_word_new_br_3: humor<br>kind<br>long
+bip_39_word_new_br_4: humor<br>kind<br>long<br>picnic
+bip_39_word_new_br_5: humor<br>kind<br>long<br>picnic<br>same
+bip_39_word_new_br_6: humor<br>kind<br>long<br>picnic<br>same<br>tiger
+bip_39_word_new_br_7: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain
+bip_39_word_new_br_8: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise
+bip_39_word_new_br_9: humor<br>kind<br>long<br>picnic<br>same<br>tiger<br>bargain<br>tortoise<br>relax
+bip_39_word_new_line_1: humor
+bip_39_word_new_line_10: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain
+
+  tortoise
+
+  relax
+
+  spatial'
+bip_39_word_new_line_11: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain
+
+  tortoise
+
+  relax
+
+  spatial
+
+  knife'
+bip_39_word_new_line_12: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain
+
+  tortoise
+
+  relax
+
+  spatial
+
+  knife
+
+  alpha'
+bip_39_word_new_line_2: 'humor
+
+  kind'
+bip_39_word_new_line_3: 'humor
+
+  kind
+
+  long'
+bip_39_word_new_line_4: 'humor
+
+  kind
+
+  long
+
+  picnic'
+bip_39_word_new_line_5: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same'
+bip_39_word_new_line_6: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger'
+bip_39_word_new_line_7: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain'
+bip_39_word_new_line_8: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain
+
+  tortoise'
+bip_39_word_new_line_9: 'humor
+
+  kind
+
+  long
+
+  picnic
+
+  same
+
+  tiger
+
+  bargain
+
+  tortoise
+
+  relax'
+bip_39_word_no_space_1: humor
+bip_39_word_no_space_10: humorkindlongpicnicsametigerbargaintortoiserelaxspatial
+bip_39_word_no_space_11: humorkindlongpicnicsametigerbargaintortoiserelaxspatialknife
+bip_39_word_no_space_12: humorkindlongpicnicsametigerbargaintortoiserelaxspatialknifealpha
+bip_39_word_no_space_2: humorkind
+bip_39_word_no_space_3: humorkindlong
+bip_39_word_no_space_4: humorkindlongpicnic
+bip_39_word_no_space_5: humorkindlongpicnicsame
+bip_39_word_no_space_6: humorkindlongpicnicsametiger
+bip_39_word_no_space_7: humorkindlongpicnicsametigerbargain
+bip_39_word_no_space_8: humorkindlongpicnicsametigerbargaintortoise
+bip_39_word_no_space_9: humorkindlongpicnicsametigerbargaintortoiserelax
+bip_39_word_space_0:
+- humor
+- kind
+- long
+- picnic
+- same
+- tiger
+- bargain
+- tortoise
+- relax
+- spatial
+- knife
+- alpha
+bip_39_word_space_1: humor
+bip_39_word_space_10: humor kind long picnic same tiger bargain tortoise relax spatial
+bip_39_word_space_11: humor kind long picnic same tiger bargain tortoise relax spatial
+  knife
+bip_39_word_space_12: humor kind long picnic same tiger bargain tortoise relax spatial
+  knife alpha
+bip_39_word_space_2: humor kind
+bip_39_word_space_3: humor kind long
+bip_39_word_space_4: humor kind long picnic
+bip_39_word_space_5: humor kind long picnic same
+bip_39_word_space_6: humor kind long picnic same tiger
+bip_39_word_space_7: humor kind long picnic same tiger bargain
+bip_39_word_space_8: humor kind long picnic same tiger bargain tortoise
+bip_39_word_space_9: humor kind long picnic same tiger bargain tortoise relax
+bip_39_word_underscore_1: humor
+bip_39_word_underscore_10: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial
+bip_39_word_underscore_11: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial_knife
+bip_39_word_underscore_12: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax_spatial_knife_alpha
+bip_39_word_underscore_2: humor_kind
+bip_39_word_underscore_3: humor_kind_long
+bip_39_word_underscore_4: humor_kind_long_picnic
+bip_39_word_underscore_5: humor_kind_long_picnic_same
+bip_39_word_underscore_6: humor_kind_long_picnic_same_tiger
+bip_39_word_underscore_7: humor_kind_long_picnic_same_tiger_bargain
+bip_39_word_underscore_8: humor_kind_long_picnic_same_tiger_bargain_tortoise
+bip_39_word_underscore_9: humor_kind_long_picnic_same_tiger_bargain_tortoise_relax
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +357,22 @@ id_no_color: 16_mm_length_hex_head
 id_no_size: black_16_mm_length_hex_head
 id_no_type: m3_black_16_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m3-x-16-socket-cap-screw-gr12-9-self-colour-din-91-1150m390016
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204eohg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204eohg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204eohg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +399,26 @@ name_no_color: 16 mm Length Hex Head
 name_no_size: Black 16 mm Length Hex Head
 name_no_size_short: Black 16 Mm Length Hex Head
 name_no_type: M3 Black 16 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 4eo
+oomlout_bolt_md5_6_alpha_first_3_upper: 4EO
+oomlout_bolt_md5_6_alpha_last_3: hg
+oomlout_bolt_md5_6_alpha_last_3_upper: HG
+oomlout_bolt_md5_6_first_3: 70f
+oomlout_bolt_md5_6_first_3_upper: 70F
+oomlout_bolt_md5_6_last_3: '774'
+oomlout_bolt_md5_6_last_3_upper: '774'
+oomlout_bolt_name: Socket Cap M3X16 mm Black (Hex Head)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc3b16h
+oomlout_short_code_upper: SC3B16H
 oomp_id: hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m3_black_16_mm_length_hex_head
 oomp_word: squirrel six fireworks
@@ -189,12 +443,22 @@ price_1: '0.0376'
 price_100: '0.0376'
 price_1000: '0.0167'
 price_10000: '0.0167'
+price_10000_distributor_1: '0.0167'
 price_10000_distributor_orbital_fasteners: '0.0167'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0167'
 price_1000_distributor_orbital_fasteners: '0.0167'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0376'
 price_100_distributor_orbital_fasteners: '0.0376'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0376'
 price_1_distributor_orbital_fasteners: '0.0376'
+price_1_name: orbital_fasteners
 price_200: '0.0209'
+price_200_distributor_1: '0.0209'
 price_200_distributor_orbital_fasteners: '0.0209'
+price_200_name: orbital_fasteners
 price_current: '0.0209'
 quantity_current: '200'
 short_code: sc3b16h

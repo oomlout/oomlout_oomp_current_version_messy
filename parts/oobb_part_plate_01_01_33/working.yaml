@@ -1,3 +1,223 @@
+bip_39_word_dash_1: discover
+bip_39_word_dash_10: discover-dilemma-luggage-episode-lucky-ticket-produce-ugly-autumn-dismiss
+bip_39_word_dash_11: discover-dilemma-luggage-episode-lucky-ticket-produce-ugly-autumn-dismiss-wrap
+bip_39_word_dash_12: discover-dilemma-luggage-episode-lucky-ticket-produce-ugly-autumn-dismiss-wrap-agent
+bip_39_word_dash_2: discover-dilemma
+bip_39_word_dash_3: discover-dilemma-luggage
+bip_39_word_dash_4: discover-dilemma-luggage-episode
+bip_39_word_dash_5: discover-dilemma-luggage-episode-lucky
+bip_39_word_dash_6: discover-dilemma-luggage-episode-lucky-ticket
+bip_39_word_dash_7: discover-dilemma-luggage-episode-lucky-ticket-produce
+bip_39_word_dash_8: discover-dilemma-luggage-episode-lucky-ticket-produce-ugly
+bip_39_word_dash_9: discover-dilemma-luggage-episode-lucky-ticket-produce-ugly-autumn
+bip_39_word_new_br_1: discover
+bip_39_word_new_br_10: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss
+bip_39_word_new_br_11: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss<br>wrap
+bip_39_word_new_br_12: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn<br>dismiss<br>wrap<br>agent
+bip_39_word_new_br_2: discover<br>dilemma
+bip_39_word_new_br_3: discover<br>dilemma<br>luggage
+bip_39_word_new_br_4: discover<br>dilemma<br>luggage<br>episode
+bip_39_word_new_br_5: discover<br>dilemma<br>luggage<br>episode<br>lucky
+bip_39_word_new_br_6: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket
+bip_39_word_new_br_7: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce
+bip_39_word_new_br_8: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly
+bip_39_word_new_br_9: discover<br>dilemma<br>luggage<br>episode<br>lucky<br>ticket<br>produce<br>ugly<br>autumn
+bip_39_word_new_line_1: discover
+bip_39_word_new_line_10: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce
+
+  ugly
+
+  autumn
+
+  dismiss'
+bip_39_word_new_line_11: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce
+
+  ugly
+
+  autumn
+
+  dismiss
+
+  wrap'
+bip_39_word_new_line_12: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce
+
+  ugly
+
+  autumn
+
+  dismiss
+
+  wrap
+
+  agent'
+bip_39_word_new_line_2: 'discover
+
+  dilemma'
+bip_39_word_new_line_3: 'discover
+
+  dilemma
+
+  luggage'
+bip_39_word_new_line_4: 'discover
+
+  dilemma
+
+  luggage
+
+  episode'
+bip_39_word_new_line_5: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky'
+bip_39_word_new_line_6: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket'
+bip_39_word_new_line_7: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce'
+bip_39_word_new_line_8: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce
+
+  ugly'
+bip_39_word_new_line_9: 'discover
+
+  dilemma
+
+  luggage
+
+  episode
+
+  lucky
+
+  ticket
+
+  produce
+
+  ugly
+
+  autumn'
+bip_39_word_no_space_1: discover
+bip_39_word_no_space_10: discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismiss
+bip_39_word_no_space_11: discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismisswrap
+bip_39_word_no_space_12: discoverdilemmaluggageepisodeluckyticketproduceuglyautumndismisswrapagent
+bip_39_word_no_space_2: discoverdilemma
+bip_39_word_no_space_3: discoverdilemmaluggage
+bip_39_word_no_space_4: discoverdilemmaluggageepisode
+bip_39_word_no_space_5: discoverdilemmaluggageepisodelucky
+bip_39_word_no_space_6: discoverdilemmaluggageepisodeluckyticket
+bip_39_word_no_space_7: discoverdilemmaluggageepisodeluckyticketproduce
+bip_39_word_no_space_8: discoverdilemmaluggageepisodeluckyticketproduceugly
+bip_39_word_no_space_9: discoverdilemmaluggageepisodeluckyticketproduceuglyautumn
+bip_39_word_space_0:
+- discover
+- dilemma
+- luggage
+- episode
+- lucky
+- ticket
+- produce
+- ugly
+- autumn
+- dismiss
+- wrap
+- agent
+bip_39_word_space_1: discover
+bip_39_word_space_10: discover dilemma luggage episode lucky ticket produce ugly autumn
+  dismiss
+bip_39_word_space_11: discover dilemma luggage episode lucky ticket produce ugly autumn
+  dismiss wrap
+bip_39_word_space_12: discover dilemma luggage episode lucky ticket produce ugly autumn
+  dismiss wrap agent
+bip_39_word_space_2: discover dilemma
+bip_39_word_space_3: discover dilemma luggage
+bip_39_word_space_4: discover dilemma luggage episode
+bip_39_word_space_5: discover dilemma luggage episode lucky
+bip_39_word_space_6: discover dilemma luggage episode lucky ticket
+bip_39_word_space_7: discover dilemma luggage episode lucky ticket produce
+bip_39_word_space_8: discover dilemma luggage episode lucky ticket produce ugly
+bip_39_word_space_9: discover dilemma luggage episode lucky ticket produce ugly autumn
+bip_39_word_underscore_1: discover
+bip_39_word_underscore_10: discover_dilemma_luggage_episode_lucky_ticket_produce_ugly_autumn_dismiss
+bip_39_word_underscore_11: discover_dilemma_luggage_episode_lucky_ticket_produce_ugly_autumn_dismiss_wrap
+bip_39_word_underscore_12: discover_dilemma_luggage_episode_lucky_ticket_produce_ugly_autumn_dismiss_wrap_agent
+bip_39_word_underscore_2: discover_dilemma
+bip_39_word_underscore_3: discover_dilemma_luggage
+bip_39_word_underscore_4: discover_dilemma_luggage_episode
+bip_39_word_underscore_5: discover_dilemma_luggage_episode_lucky
+bip_39_word_underscore_6: discover_dilemma_luggage_episode_lucky_ticket
+bip_39_word_underscore_7: discover_dilemma_luggage_episode_lucky_ticket_produce
+bip_39_word_underscore_8: discover_dilemma_luggage_episode_lucky_ticket_produce_ugly
+bip_39_word_underscore_9: discover_dilemma_luggage_episode_lucky_ticket_produce_ugly_autumn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_01_01_33
 id_no_color: '010133'
 id_no_size: '01_01_33'
 id_no_type: plate_01_01_33
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_33
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_33
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_33
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2034cnj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2034cnj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2034cnj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010133'
 name_no_size: 01 01 33
 name_no_size_short: 01 01 33
 name_no_type: Plate 01 01 33
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_33
 oomp_word: ant up sparkles
 oomp_word_emoji: ':ant: :up: :sparkles:'

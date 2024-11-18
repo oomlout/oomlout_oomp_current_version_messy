@@ -1,3 +1,223 @@
+bip_39_word_dash_1: receive
+bip_39_word_dash_10: receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt
+bip_39_word_dash_11: receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt-cool
+bip_39_word_dash_12: receive-bunker-moon-gentle-throw-false-tuition-century-recipe-salt-cool-album
+bip_39_word_dash_2: receive-bunker
+bip_39_word_dash_3: receive-bunker-moon
+bip_39_word_dash_4: receive-bunker-moon-gentle
+bip_39_word_dash_5: receive-bunker-moon-gentle-throw
+bip_39_word_dash_6: receive-bunker-moon-gentle-throw-false
+bip_39_word_dash_7: receive-bunker-moon-gentle-throw-false-tuition
+bip_39_word_dash_8: receive-bunker-moon-gentle-throw-false-tuition-century
+bip_39_word_dash_9: receive-bunker-moon-gentle-throw-false-tuition-century-recipe
+bip_39_word_new_br_1: receive
+bip_39_word_new_br_10: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt
+bip_39_word_new_br_11: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool
+bip_39_word_new_br_12: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe<br>salt<br>cool<br>album
+bip_39_word_new_br_2: receive<br>bunker
+bip_39_word_new_br_3: receive<br>bunker<br>moon
+bip_39_word_new_br_4: receive<br>bunker<br>moon<br>gentle
+bip_39_word_new_br_5: receive<br>bunker<br>moon<br>gentle<br>throw
+bip_39_word_new_br_6: receive<br>bunker<br>moon<br>gentle<br>throw<br>false
+bip_39_word_new_br_7: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition
+bip_39_word_new_br_8: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century
+bip_39_word_new_br_9: receive<br>bunker<br>moon<br>gentle<br>throw<br>false<br>tuition<br>century<br>recipe
+bip_39_word_new_line_1: receive
+bip_39_word_new_line_10: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition
+
+  century
+
+  recipe
+
+  salt'
+bip_39_word_new_line_11: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition
+
+  century
+
+  recipe
+
+  salt
+
+  cool'
+bip_39_word_new_line_12: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition
+
+  century
+
+  recipe
+
+  salt
+
+  cool
+
+  album'
+bip_39_word_new_line_2: 'receive
+
+  bunker'
+bip_39_word_new_line_3: 'receive
+
+  bunker
+
+  moon'
+bip_39_word_new_line_4: 'receive
+
+  bunker
+
+  moon
+
+  gentle'
+bip_39_word_new_line_5: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw'
+bip_39_word_new_line_6: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false'
+bip_39_word_new_line_7: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition'
+bip_39_word_new_line_8: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition
+
+  century'
+bip_39_word_new_line_9: 'receive
+
+  bunker
+
+  moon
+
+  gentle
+
+  throw
+
+  false
+
+  tuition
+
+  century
+
+  recipe'
+bip_39_word_no_space_1: receive
+bip_39_word_no_space_10: receivebunkermoongentlethrowfalsetuitioncenturyrecipesalt
+bip_39_word_no_space_11: receivebunkermoongentlethrowfalsetuitioncenturyrecipesaltcool
+bip_39_word_no_space_12: receivebunkermoongentlethrowfalsetuitioncenturyrecipesaltcoolalbum
+bip_39_word_no_space_2: receivebunker
+bip_39_word_no_space_3: receivebunkermoon
+bip_39_word_no_space_4: receivebunkermoongentle
+bip_39_word_no_space_5: receivebunkermoongentlethrow
+bip_39_word_no_space_6: receivebunkermoongentlethrowfalse
+bip_39_word_no_space_7: receivebunkermoongentlethrowfalsetuition
+bip_39_word_no_space_8: receivebunkermoongentlethrowfalsetuitioncentury
+bip_39_word_no_space_9: receivebunkermoongentlethrowfalsetuitioncenturyrecipe
+bip_39_word_space_0:
+- receive
+- bunker
+- moon
+- gentle
+- throw
+- 'false'
+- tuition
+- century
+- recipe
+- salt
+- cool
+- album
+bip_39_word_space_1: receive
+bip_39_word_space_10: receive bunker moon gentle throw false tuition century recipe
+  salt
+bip_39_word_space_11: receive bunker moon gentle throw false tuition century recipe
+  salt cool
+bip_39_word_space_12: receive bunker moon gentle throw false tuition century recipe
+  salt cool album
+bip_39_word_space_2: receive bunker
+bip_39_word_space_3: receive bunker moon
+bip_39_word_space_4: receive bunker moon gentle
+bip_39_word_space_5: receive bunker moon gentle throw
+bip_39_word_space_6: receive bunker moon gentle throw false
+bip_39_word_space_7: receive bunker moon gentle throw false tuition
+bip_39_word_space_8: receive bunker moon gentle throw false tuition century
+bip_39_word_space_9: receive bunker moon gentle throw false tuition century recipe
+bip_39_word_underscore_1: receive
+bip_39_word_underscore_10: receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt
+bip_39_word_underscore_11: receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt_cool
+bip_39_word_underscore_12: receive_bunker_moon_gentle_throw_false_tuition_century_recipe_salt_cool_album
+bip_39_word_underscore_2: receive_bunker
+bip_39_word_underscore_3: receive_bunker_moon
+bip_39_word_underscore_4: receive_bunker_moon_gentle
+bip_39_word_underscore_5: receive_bunker_moon_gentle_throw
+bip_39_word_underscore_6: receive_bunker_moon_gentle_throw_false
+bip_39_word_underscore_7: receive_bunker_moon_gentle_throw_false_tuition
+bip_39_word_underscore_8: receive_bunker_moon_gentle_throw_false_tuition_century
+bip_39_word_underscore_9: receive_bunker_moon_gentle_throw_false_tuition_century_recipe
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_09_06__72_teeth_sh_motor_n20
 id_no_color: 090672teethshmotorn20
 id_no_size: 09_06__72_teeth_sh_motor_n20
 id_no_type: gear_09_06__72_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_06__72_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_06__72_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_06__72_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203oka7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203oka7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203oka7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 090672Teethshmotorn20
 name_no_size: 09 06  72 Teeth Sh Motor N20
 name_no_size_short: 09 06  72 Teeth Sh Motor N20
 name_no_type: Gear 09 06  72 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_09_06__72_teeth_sh_motor_n20
 oomp_word: crocodile leopard tophat
 oomp_word_emoji: ':crocodile: :leopard: :tophat:'

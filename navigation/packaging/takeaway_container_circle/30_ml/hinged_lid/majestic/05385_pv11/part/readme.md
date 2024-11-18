@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Takeaway Container Circle 30 Ml Hinged Lid Majestic 05385 Pv11
+* name_short: 
 ### id
 * oomp_id: packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ok: :corn: :stars:
 * md5_6_alpha: 9tql9
 * md5_6: fbd4dd
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209tql9)
+[2x1](http://192.168.1.242:1112/?label=oomp%209tql9)
+[6x4](http://192.168.1.55:1112/?label=oomp%209tql9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -259,7 +285,14 @@ dismiss |
 | id_no_color | hingedlidmajestic05385pv11 |  
 | id_no_size | hinged_lid_majestic_05385_pv11 |  
 | id_no_type | 30_ml_hinged_lid_majestic_05385_pv11 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209tql9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209tql9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209tql9 |  
 | link_purchase | ['https://www.cooksmill.co.uk/hinged-sauce-container-1oz-(pack-50)', 'https://www.ebay.co.uk/itm/175662239573?var=475027888766'] |  
 | manufacturer | majestic |  
 | manufacturer_capital | Majestic |  
@@ -313,6 +346,7 @@ dismiss |
 | oomlout_mechanical_hole_cutout_lip_size | 46 mm |  
 | oomlout_mechanical_hole_cutout_size | 46 mm |  
 | oomlout_mechanical_hole_cutout_top_size | 49 mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc30hl |  
 | oomlout_short_code_upper | TCC30HL |  
 | oomp_key | oomp_packaging_takeaway_container_circle_30_ml_hinged_lid_majestic_05385_pv11 |  

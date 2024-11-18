@@ -1,3 +1,222 @@
+bip_39_word_dash_1: short
+bip_39_word_dash_10: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always
+bip_39_word_dash_11: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always-meadow
+bip_39_word_dash_12: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth-always-meadow-arrange
+bip_39_word_dash_2: short-symbol
+bip_39_word_dash_3: short-symbol-uphold
+bip_39_word_dash_4: short-symbol-uphold-sweet
+bip_39_word_dash_5: short-symbol-uphold-sweet-frog
+bip_39_word_dash_6: short-symbol-uphold-sweet-frog-walk
+bip_39_word_dash_7: short-symbol-uphold-sweet-frog-walk-parrot
+bip_39_word_dash_8: short-symbol-uphold-sweet-frog-walk-parrot-visit
+bip_39_word_dash_9: short-symbol-uphold-sweet-frog-walk-parrot-visit-wealth
+bip_39_word_new_br_1: short
+bip_39_word_new_br_10: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always
+bip_39_word_new_br_11: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow
+bip_39_word_new_br_12: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth<br>always<br>meadow<br>arrange
+bip_39_word_new_br_2: short<br>symbol
+bip_39_word_new_br_3: short<br>symbol<br>uphold
+bip_39_word_new_br_4: short<br>symbol<br>uphold<br>sweet
+bip_39_word_new_br_5: short<br>symbol<br>uphold<br>sweet<br>frog
+bip_39_word_new_br_6: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk
+bip_39_word_new_br_7: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot
+bip_39_word_new_br_8: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit
+bip_39_word_new_br_9: short<br>symbol<br>uphold<br>sweet<br>frog<br>walk<br>parrot<br>visit<br>wealth
+bip_39_word_new_line_1: short
+bip_39_word_new_line_10: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot
+
+  visit
+
+  wealth
+
+  always'
+bip_39_word_new_line_11: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot
+
+  visit
+
+  wealth
+
+  always
+
+  meadow'
+bip_39_word_new_line_12: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot
+
+  visit
+
+  wealth
+
+  always
+
+  meadow
+
+  arrange'
+bip_39_word_new_line_2: 'short
+
+  symbol'
+bip_39_word_new_line_3: 'short
+
+  symbol
+
+  uphold'
+bip_39_word_new_line_4: 'short
+
+  symbol
+
+  uphold
+
+  sweet'
+bip_39_word_new_line_5: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog'
+bip_39_word_new_line_6: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk'
+bip_39_word_new_line_7: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot'
+bip_39_word_new_line_8: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot
+
+  visit'
+bip_39_word_new_line_9: 'short
+
+  symbol
+
+  uphold
+
+  sweet
+
+  frog
+
+  walk
+
+  parrot
+
+  visit
+
+  wealth'
+bip_39_word_no_space_1: short
+bip_39_word_no_space_10: shortsymbolupholdsweetfrogwalkparrotvisitwealthalways
+bip_39_word_no_space_11: shortsymbolupholdsweetfrogwalkparrotvisitwealthalwaysmeadow
+bip_39_word_no_space_12: shortsymbolupholdsweetfrogwalkparrotvisitwealthalwaysmeadowarrange
+bip_39_word_no_space_2: shortsymbol
+bip_39_word_no_space_3: shortsymboluphold
+bip_39_word_no_space_4: shortsymbolupholdsweet
+bip_39_word_no_space_5: shortsymbolupholdsweetfrog
+bip_39_word_no_space_6: shortsymbolupholdsweetfrogwalk
+bip_39_word_no_space_7: shortsymbolupholdsweetfrogwalkparrot
+bip_39_word_no_space_8: shortsymbolupholdsweetfrogwalkparrotvisit
+bip_39_word_no_space_9: shortsymbolupholdsweetfrogwalkparrotvisitwealth
+bip_39_word_space_0:
+- short
+- symbol
+- uphold
+- sweet
+- frog
+- walk
+- parrot
+- visit
+- wealth
+- always
+- meadow
+- arrange
+bip_39_word_space_1: short
+bip_39_word_space_10: short symbol uphold sweet frog walk parrot visit wealth always
+bip_39_word_space_11: short symbol uphold sweet frog walk parrot visit wealth always
+  meadow
+bip_39_word_space_12: short symbol uphold sweet frog walk parrot visit wealth always
+  meadow arrange
+bip_39_word_space_2: short symbol
+bip_39_word_space_3: short symbol uphold
+bip_39_word_space_4: short symbol uphold sweet
+bip_39_word_space_5: short symbol uphold sweet frog
+bip_39_word_space_6: short symbol uphold sweet frog walk
+bip_39_word_space_7: short symbol uphold sweet frog walk parrot
+bip_39_word_space_8: short symbol uphold sweet frog walk parrot visit
+bip_39_word_space_9: short symbol uphold sweet frog walk parrot visit wealth
+bip_39_word_underscore_1: short
+bip_39_word_underscore_10: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always
+bip_39_word_underscore_11: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always_meadow
+bip_39_word_underscore_12: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth_always_meadow_arrange
+bip_39_word_underscore_2: short_symbol
+bip_39_word_underscore_3: short_symbol_uphold
+bip_39_word_underscore_4: short_symbol_uphold_sweet
+bip_39_word_underscore_5: short_symbol_uphold_sweet_frog
+bip_39_word_underscore_6: short_symbol_uphold_sweet_frog_walk
+bip_39_word_underscore_7: short_symbol_uphold_sweet_frog_walk_parrot
+bip_39_word_underscore_8: short_symbol_uphold_sweet_frog_walk_parrot_visit
+bip_39_word_underscore_9: short_symbol_uphold_sweet_frog_walk_parrot_visit_wealth
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_08_12
 id_no_color: '110812'
 id_no_size: '11_08_12'
 id_no_type: tray_thin_11_08_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_08_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_08_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_08_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207otoh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207otoh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207otoh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110812'
 name_no_size: 11 08 12
 name_no_size_short: 11 08 12
 name_no_type: Tray Thin 11 08 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_08_12
 oomp_word: candy question camel
 oomp_word_emoji: ':candy: :question: :camel:'

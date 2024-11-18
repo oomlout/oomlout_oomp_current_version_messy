@@ -1,3 +1,222 @@
+bip_39_word_dash_1: address
+bip_39_word_dash_10: address-east-enact-fun-control-soft-raven-stairs-cool-about
+bip_39_word_dash_11: address-east-enact-fun-control-soft-raven-stairs-cool-about-similar
+bip_39_word_dash_12: address-east-enact-fun-control-soft-raven-stairs-cool-about-similar-afford
+bip_39_word_dash_2: address-east
+bip_39_word_dash_3: address-east-enact
+bip_39_word_dash_4: address-east-enact-fun
+bip_39_word_dash_5: address-east-enact-fun-control
+bip_39_word_dash_6: address-east-enact-fun-control-soft
+bip_39_word_dash_7: address-east-enact-fun-control-soft-raven
+bip_39_word_dash_8: address-east-enact-fun-control-soft-raven-stairs
+bip_39_word_dash_9: address-east-enact-fun-control-soft-raven-stairs-cool
+bip_39_word_new_br_1: address
+bip_39_word_new_br_10: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about
+bip_39_word_new_br_11: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about<br>similar
+bip_39_word_new_br_12: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool<br>about<br>similar<br>afford
+bip_39_word_new_br_2: address<br>east
+bip_39_word_new_br_3: address<br>east<br>enact
+bip_39_word_new_br_4: address<br>east<br>enact<br>fun
+bip_39_word_new_br_5: address<br>east<br>enact<br>fun<br>control
+bip_39_word_new_br_6: address<br>east<br>enact<br>fun<br>control<br>soft
+bip_39_word_new_br_7: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven
+bip_39_word_new_br_8: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs
+bip_39_word_new_br_9: address<br>east<br>enact<br>fun<br>control<br>soft<br>raven<br>stairs<br>cool
+bip_39_word_new_line_1: address
+bip_39_word_new_line_10: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven
+
+  stairs
+
+  cool
+
+  about'
+bip_39_word_new_line_11: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven
+
+  stairs
+
+  cool
+
+  about
+
+  similar'
+bip_39_word_new_line_12: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven
+
+  stairs
+
+  cool
+
+  about
+
+  similar
+
+  afford'
+bip_39_word_new_line_2: 'address
+
+  east'
+bip_39_word_new_line_3: 'address
+
+  east
+
+  enact'
+bip_39_word_new_line_4: 'address
+
+  east
+
+  enact
+
+  fun'
+bip_39_word_new_line_5: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control'
+bip_39_word_new_line_6: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft'
+bip_39_word_new_line_7: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven'
+bip_39_word_new_line_8: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven
+
+  stairs'
+bip_39_word_new_line_9: 'address
+
+  east
+
+  enact
+
+  fun
+
+  control
+
+  soft
+
+  raven
+
+  stairs
+
+  cool'
+bip_39_word_no_space_1: address
+bip_39_word_no_space_10: addresseastenactfuncontrolsoftravenstairscoolabout
+bip_39_word_no_space_11: addresseastenactfuncontrolsoftravenstairscoolaboutsimilar
+bip_39_word_no_space_12: addresseastenactfuncontrolsoftravenstairscoolaboutsimilarafford
+bip_39_word_no_space_2: addresseast
+bip_39_word_no_space_3: addresseastenact
+bip_39_word_no_space_4: addresseastenactfun
+bip_39_word_no_space_5: addresseastenactfuncontrol
+bip_39_word_no_space_6: addresseastenactfuncontrolsoft
+bip_39_word_no_space_7: addresseastenactfuncontrolsoftraven
+bip_39_word_no_space_8: addresseastenactfuncontrolsoftravenstairs
+bip_39_word_no_space_9: addresseastenactfuncontrolsoftravenstairscool
+bip_39_word_space_0:
+- address
+- east
+- enact
+- fun
+- control
+- soft
+- raven
+- stairs
+- cool
+- about
+- similar
+- afford
+bip_39_word_space_1: address
+bip_39_word_space_10: address east enact fun control soft raven stairs cool about
+bip_39_word_space_11: address east enact fun control soft raven stairs cool about
+  similar
+bip_39_word_space_12: address east enact fun control soft raven stairs cool about
+  similar afford
+bip_39_word_space_2: address east
+bip_39_word_space_3: address east enact
+bip_39_word_space_4: address east enact fun
+bip_39_word_space_5: address east enact fun control
+bip_39_word_space_6: address east enact fun control soft
+bip_39_word_space_7: address east enact fun control soft raven
+bip_39_word_space_8: address east enact fun control soft raven stairs
+bip_39_word_space_9: address east enact fun control soft raven stairs cool
+bip_39_word_underscore_1: address
+bip_39_word_underscore_10: address_east_enact_fun_control_soft_raven_stairs_cool_about
+bip_39_word_underscore_11: address_east_enact_fun_control_soft_raven_stairs_cool_about_similar
+bip_39_word_underscore_12: address_east_enact_fun_control_soft_raven_stairs_cool_about_similar_afford
+bip_39_word_underscore_2: address_east
+bip_39_word_underscore_3: address_east_enact
+bip_39_word_underscore_4: address_east_enact_fun
+bip_39_word_underscore_5: address_east_enact_fun_control
+bip_39_word_underscore_6: address_east_enact_fun_control_soft
+bip_39_word_underscore_7: address_east_enact_fun_control_soft_raven
+bip_39_word_underscore_8: address_east_enact_fun_control_soft_raven_stairs
+bip_39_word_underscore_9: address_east_enact_fun_control_soft_raven_stairs_cool
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_09_18
 id_no_color: '110918'
 id_no_size: '11_09_18'
 id_no_type: tray_thin_11_09_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_09_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202sj40
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202sj40
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202sj40
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110918'
 name_no_size: 11 09 18
 name_no_size_short: 11 09 18
 name_no_type: Tray Thin 11 09 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_09_18
 oomp_word: baby_chick pushpin bread
 oomp_word_emoji: ':baby_chick: :pushpin: :bread:'

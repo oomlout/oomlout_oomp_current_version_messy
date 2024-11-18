@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hurt
+bip_39_word_dash_10: hurt-range-zebra-caught-tribe-shrimp-hungry-report-depth-local
+bip_39_word_dash_11: hurt-range-zebra-caught-tribe-shrimp-hungry-report-depth-local-goat
+bip_39_word_dash_12: hurt-range-zebra-caught-tribe-shrimp-hungry-report-depth-local-goat-ask
+bip_39_word_dash_2: hurt-range
+bip_39_word_dash_3: hurt-range-zebra
+bip_39_word_dash_4: hurt-range-zebra-caught
+bip_39_word_dash_5: hurt-range-zebra-caught-tribe
+bip_39_word_dash_6: hurt-range-zebra-caught-tribe-shrimp
+bip_39_word_dash_7: hurt-range-zebra-caught-tribe-shrimp-hungry
+bip_39_word_dash_8: hurt-range-zebra-caught-tribe-shrimp-hungry-report
+bip_39_word_dash_9: hurt-range-zebra-caught-tribe-shrimp-hungry-report-depth
+bip_39_word_new_br_1: hurt
+bip_39_word_new_br_10: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local
+bip_39_word_new_br_11: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local<br>goat
+bip_39_word_new_br_12: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth<br>local<br>goat<br>ask
+bip_39_word_new_br_2: hurt<br>range
+bip_39_word_new_br_3: hurt<br>range<br>zebra
+bip_39_word_new_br_4: hurt<br>range<br>zebra<br>caught
+bip_39_word_new_br_5: hurt<br>range<br>zebra<br>caught<br>tribe
+bip_39_word_new_br_6: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp
+bip_39_word_new_br_7: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry
+bip_39_word_new_br_8: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report
+bip_39_word_new_br_9: hurt<br>range<br>zebra<br>caught<br>tribe<br>shrimp<br>hungry<br>report<br>depth
+bip_39_word_new_line_1: hurt
+bip_39_word_new_line_10: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local'
+bip_39_word_new_line_11: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local
+
+  goat'
+bip_39_word_new_line_12: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth
+
+  local
+
+  goat
+
+  ask'
+bip_39_word_new_line_2: 'hurt
+
+  range'
+bip_39_word_new_line_3: 'hurt
+
+  range
+
+  zebra'
+bip_39_word_new_line_4: 'hurt
+
+  range
+
+  zebra
+
+  caught'
+bip_39_word_new_line_5: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe'
+bip_39_word_new_line_6: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp'
+bip_39_word_new_line_7: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry'
+bip_39_word_new_line_8: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report'
+bip_39_word_new_line_9: 'hurt
+
+  range
+
+  zebra
+
+  caught
+
+  tribe
+
+  shrimp
+
+  hungry
+
+  report
+
+  depth'
+bip_39_word_no_space_1: hurt
+bip_39_word_no_space_10: hurtrangezebracaughttribeshrimphungryreportdepthlocal
+bip_39_word_no_space_11: hurtrangezebracaughttribeshrimphungryreportdepthlocalgoat
+bip_39_word_no_space_12: hurtrangezebracaughttribeshrimphungryreportdepthlocalgoatask
+bip_39_word_no_space_2: hurtrange
+bip_39_word_no_space_3: hurtrangezebra
+bip_39_word_no_space_4: hurtrangezebracaught
+bip_39_word_no_space_5: hurtrangezebracaughttribe
+bip_39_word_no_space_6: hurtrangezebracaughttribeshrimp
+bip_39_word_no_space_7: hurtrangezebracaughttribeshrimphungry
+bip_39_word_no_space_8: hurtrangezebracaughttribeshrimphungryreport
+bip_39_word_no_space_9: hurtrangezebracaughttribeshrimphungryreportdepth
+bip_39_word_space_0:
+- hurt
+- range
+- zebra
+- caught
+- tribe
+- shrimp
+- hungry
+- report
+- depth
+- local
+- goat
+- ask
+bip_39_word_space_1: hurt
+bip_39_word_space_10: hurt range zebra caught tribe shrimp hungry report depth local
+bip_39_word_space_11: hurt range zebra caught tribe shrimp hungry report depth local
+  goat
+bip_39_word_space_12: hurt range zebra caught tribe shrimp hungry report depth local
+  goat ask
+bip_39_word_space_2: hurt range
+bip_39_word_space_3: hurt range zebra
+bip_39_word_space_4: hurt range zebra caught
+bip_39_word_space_5: hurt range zebra caught tribe
+bip_39_word_space_6: hurt range zebra caught tribe shrimp
+bip_39_word_space_7: hurt range zebra caught tribe shrimp hungry
+bip_39_word_space_8: hurt range zebra caught tribe shrimp hungry report
+bip_39_word_space_9: hurt range zebra caught tribe shrimp hungry report depth
+bip_39_word_underscore_1: hurt
+bip_39_word_underscore_10: hurt_range_zebra_caught_tribe_shrimp_hungry_report_depth_local
+bip_39_word_underscore_11: hurt_range_zebra_caught_tribe_shrimp_hungry_report_depth_local_goat
+bip_39_word_underscore_12: hurt_range_zebra_caught_tribe_shrimp_hungry_report_depth_local_goat_ask
+bip_39_word_underscore_2: hurt_range
+bip_39_word_underscore_3: hurt_range_zebra
+bip_39_word_underscore_4: hurt_range_zebra_caught
+bip_39_word_underscore_5: hurt_range_zebra_caught_tribe
+bip_39_word_underscore_6: hurt_range_zebra_caught_tribe_shrimp
+bip_39_word_underscore_7: hurt_range_zebra_caught_tribe_shrimp_hungry
+bip_39_word_underscore_8: hurt_range_zebra_caught_tribe_shrimp_hungry_report
+bip_39_word_underscore_9: hurt_range_zebra_caught_tribe_shrimp_hungry_report_depth
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 9_mm_length_screw_and_screw
 id_no_size: nylon_white_9_mm_length_screw_and_screw
 id_no_type: m3_nylon_white_9_mm_length_screw_and_screw
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_9_mm_length_screw_and_screw
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_9_mm_length_screw_and_screw
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_nylon_white_9_mm_length_screw_and_screw
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208avxc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208avxc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208avxc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,25 @@ name_no_color: 9 mm Length Screw And Screw
 name_no_size: Nylon White 9 mm Length Screw And Screw
 name_no_size_short: Nylon White 9 Mm Length Screw And Screw
 name_no_type: M3 Nylon White 9 mm Length Screw And Screw
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 9 mm
+oomlout_bolt_length_no_unit: '9'
+oomlout_bolt_md5_6_alpha_first_3: 8av
+oomlout_bolt_md5_6_alpha_first_3_upper: 8AV
+oomlout_bolt_md5_6_alpha_last_3: xc
+oomlout_bolt_md5_6_alpha_last_3_upper: XC
+oomlout_bolt_md5_6_first_3: d4c
+oomlout_bolt_md5_6_first_3_upper: D4C
+oomlout_bolt_md5_6_last_3: '820'
+oomlout_bolt_md5_6_last_3_upper: '820'
+oomlout_bolt_name: ' M3X9 mm  (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3nw9ss
+oomlout_short_code_upper: SO3NW9SS
 oomp_key: oomp_hardware_standoff_m3_nylon_white_9_mm_length_screw_and_screw
 oomp_word: corn apple skull
 oomp_word_emoji: ':corn: :apple: :skull:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: robot
+bip_39_word_dash_10: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season
+bip_39_word_dash_11: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season-expand
+bip_39_word_dash_12: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor-season-expand-auction
+bip_39_word_dash_2: robot-mushroom
+bip_39_word_dash_3: robot-mushroom-depart
+bip_39_word_dash_4: robot-mushroom-depart-okay
+bip_39_word_dash_5: robot-mushroom-depart-okay-bench
+bip_39_word_dash_6: robot-mushroom-depart-okay-bench-dumb
+bip_39_word_dash_7: robot-mushroom-depart-okay-bench-dumb-change
+bip_39_word_dash_8: robot-mushroom-depart-okay-bench-dumb-change-tattoo
+bip_39_word_dash_9: robot-mushroom-depart-okay-bench-dumb-change-tattoo-vapor
+bip_39_word_new_br_1: robot
+bip_39_word_new_br_10: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season
+bip_39_word_new_br_11: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season<br>expand
+bip_39_word_new_br_12: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor<br>season<br>expand<br>auction
+bip_39_word_new_br_2: robot<br>mushroom
+bip_39_word_new_br_3: robot<br>mushroom<br>depart
+bip_39_word_new_br_4: robot<br>mushroom<br>depart<br>okay
+bip_39_word_new_br_5: robot<br>mushroom<br>depart<br>okay<br>bench
+bip_39_word_new_br_6: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb
+bip_39_word_new_br_7: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change
+bip_39_word_new_br_8: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo
+bip_39_word_new_br_9: robot<br>mushroom<br>depart<br>okay<br>bench<br>dumb<br>change<br>tattoo<br>vapor
+bip_39_word_new_line_1: robot
+bip_39_word_new_line_10: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change
+
+  tattoo
+
+  vapor
+
+  season'
+bip_39_word_new_line_11: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change
+
+  tattoo
+
+  vapor
+
+  season
+
+  expand'
+bip_39_word_new_line_12: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change
+
+  tattoo
+
+  vapor
+
+  season
+
+  expand
+
+  auction'
+bip_39_word_new_line_2: 'robot
+
+  mushroom'
+bip_39_word_new_line_3: 'robot
+
+  mushroom
+
+  depart'
+bip_39_word_new_line_4: 'robot
+
+  mushroom
+
+  depart
+
+  okay'
+bip_39_word_new_line_5: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench'
+bip_39_word_new_line_6: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb'
+bip_39_word_new_line_7: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change'
+bip_39_word_new_line_8: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change
+
+  tattoo'
+bip_39_word_new_line_9: 'robot
+
+  mushroom
+
+  depart
+
+  okay
+
+  bench
+
+  dumb
+
+  change
+
+  tattoo
+
+  vapor'
+bip_39_word_no_space_1: robot
+bip_39_word_no_space_10: robotmushroomdepartokaybenchdumbchangetattoovaporseason
+bip_39_word_no_space_11: robotmushroomdepartokaybenchdumbchangetattoovaporseasonexpand
+bip_39_word_no_space_12: robotmushroomdepartokaybenchdumbchangetattoovaporseasonexpandauction
+bip_39_word_no_space_2: robotmushroom
+bip_39_word_no_space_3: robotmushroomdepart
+bip_39_word_no_space_4: robotmushroomdepartokay
+bip_39_word_no_space_5: robotmushroomdepartokaybench
+bip_39_word_no_space_6: robotmushroomdepartokaybenchdumb
+bip_39_word_no_space_7: robotmushroomdepartokaybenchdumbchange
+bip_39_word_no_space_8: robotmushroomdepartokaybenchdumbchangetattoo
+bip_39_word_no_space_9: robotmushroomdepartokaybenchdumbchangetattoovapor
+bip_39_word_space_0:
+- robot
+- mushroom
+- depart
+- okay
+- bench
+- dumb
+- change
+- tattoo
+- vapor
+- season
+- expand
+- auction
+bip_39_word_space_1: robot
+bip_39_word_space_10: robot mushroom depart okay bench dumb change tattoo vapor season
+bip_39_word_space_11: robot mushroom depart okay bench dumb change tattoo vapor season
+  expand
+bip_39_word_space_12: robot mushroom depart okay bench dumb change tattoo vapor season
+  expand auction
+bip_39_word_space_2: robot mushroom
+bip_39_word_space_3: robot mushroom depart
+bip_39_word_space_4: robot mushroom depart okay
+bip_39_word_space_5: robot mushroom depart okay bench
+bip_39_word_space_6: robot mushroom depart okay bench dumb
+bip_39_word_space_7: robot mushroom depart okay bench dumb change
+bip_39_word_space_8: robot mushroom depart okay bench dumb change tattoo
+bip_39_word_space_9: robot mushroom depart okay bench dumb change tattoo vapor
+bip_39_word_underscore_1: robot
+bip_39_word_underscore_10: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season
+bip_39_word_underscore_11: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season_expand
+bip_39_word_underscore_12: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor_season_expand_auction
+bip_39_word_underscore_2: robot_mushroom
+bip_39_word_underscore_3: robot_mushroom_depart
+bip_39_word_underscore_4: robot_mushroom_depart_okay
+bip_39_word_underscore_5: robot_mushroom_depart_okay_bench
+bip_39_word_underscore_6: robot_mushroom_depart_okay_bench_dumb
+bip_39_word_underscore_7: robot_mushroom_depart_okay_bench_dumb_change
+bip_39_word_underscore_8: robot_mushroom_depart_okay_bench_dumb_change_tattoo
+bip_39_word_underscore_9: robot_mushroom_depart_okay_bench_dumb_change_tattoo_vapor
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
 id_no_color: 010714ptfetubeholderninetydegreeshm6
 id_no_size: 01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
 id_no_type: other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209b6uo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209b6uo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209b6uo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010714Ptfetubeholderninetydegreeshm6
 name_no_size: 01 07 14  Ptfe Tube Holder Ninety Degree Sh M6
 name_no_size_short: 01 07 14  Ptfe Tube Holder Ninety Degree Sh M6
 name_no_type: Other 01 07 14  Ptfe Tube Holder Ninety Degree Sh M6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_01_07_14__ptfe_tube_holder_ninety_degree_sh_m6
 oomp_word: ambulance ring squirrel
 oomp_word_emoji: ':ambulance: :ring: :squirrel:'

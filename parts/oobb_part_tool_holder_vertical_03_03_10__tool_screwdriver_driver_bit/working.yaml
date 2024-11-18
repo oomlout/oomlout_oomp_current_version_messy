@@ -1,3 +1,222 @@
+bip_39_word_dash_1: engine
+bip_39_word_dash_10: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean
+bip_39_word_dash_11: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean-view
+bip_39_word_dash_12: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong-ocean-view-afraid
+bip_39_word_dash_2: engine-lock
+bip_39_word_dash_3: engine-lock-duck
+bip_39_word_dash_4: engine-lock-duck-omit
+bip_39_word_dash_5: engine-lock-duck-omit-lyrics
+bip_39_word_dash_6: engine-lock-duck-omit-lyrics-select
+bip_39_word_dash_7: engine-lock-duck-omit-lyrics-select-runway
+bip_39_word_dash_8: engine-lock-duck-omit-lyrics-select-runway-warfare
+bip_39_word_dash_9: engine-lock-duck-omit-lyrics-select-runway-warfare-wrong
+bip_39_word_new_br_1: engine
+bip_39_word_new_br_10: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong<br>ocean
+bip_39_word_new_br_11: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong<br>ocean<br>view
+bip_39_word_new_br_12: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong<br>ocean<br>view<br>afraid
+bip_39_word_new_br_2: engine<br>lock
+bip_39_word_new_br_3: engine<br>lock<br>duck
+bip_39_word_new_br_4: engine<br>lock<br>duck<br>omit
+bip_39_word_new_br_5: engine<br>lock<br>duck<br>omit<br>lyrics
+bip_39_word_new_br_6: engine<br>lock<br>duck<br>omit<br>lyrics<br>select
+bip_39_word_new_br_7: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway
+bip_39_word_new_br_8: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare
+bip_39_word_new_br_9: engine<br>lock<br>duck<br>omit<br>lyrics<br>select<br>runway<br>warfare<br>wrong
+bip_39_word_new_line_1: engine
+bip_39_word_new_line_10: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway
+
+  warfare
+
+  wrong
+
+  ocean'
+bip_39_word_new_line_11: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway
+
+  warfare
+
+  wrong
+
+  ocean
+
+  view'
+bip_39_word_new_line_12: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway
+
+  warfare
+
+  wrong
+
+  ocean
+
+  view
+
+  afraid'
+bip_39_word_new_line_2: 'engine
+
+  lock'
+bip_39_word_new_line_3: 'engine
+
+  lock
+
+  duck'
+bip_39_word_new_line_4: 'engine
+
+  lock
+
+  duck
+
+  omit'
+bip_39_word_new_line_5: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics'
+bip_39_word_new_line_6: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select'
+bip_39_word_new_line_7: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway'
+bip_39_word_new_line_8: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway
+
+  warfare'
+bip_39_word_new_line_9: 'engine
+
+  lock
+
+  duck
+
+  omit
+
+  lyrics
+
+  select
+
+  runway
+
+  warfare
+
+  wrong'
+bip_39_word_no_space_1: engine
+bip_39_word_no_space_10: enginelockduckomitlyricsselectrunwaywarfarewrongocean
+bip_39_word_no_space_11: enginelockduckomitlyricsselectrunwaywarfarewrongoceanview
+bip_39_word_no_space_12: enginelockduckomitlyricsselectrunwaywarfarewrongoceanviewafraid
+bip_39_word_no_space_2: enginelock
+bip_39_word_no_space_3: enginelockduck
+bip_39_word_no_space_4: enginelockduckomit
+bip_39_word_no_space_5: enginelockduckomitlyrics
+bip_39_word_no_space_6: enginelockduckomitlyricsselect
+bip_39_word_no_space_7: enginelockduckomitlyricsselectrunway
+bip_39_word_no_space_8: enginelockduckomitlyricsselectrunwaywarfare
+bip_39_word_no_space_9: enginelockduckomitlyricsselectrunwaywarfarewrong
+bip_39_word_space_0:
+- engine
+- lock
+- duck
+- omit
+- lyrics
+- select
+- runway
+- warfare
+- wrong
+- ocean
+- view
+- afraid
+bip_39_word_space_1: engine
+bip_39_word_space_10: engine lock duck omit lyrics select runway warfare wrong ocean
+bip_39_word_space_11: engine lock duck omit lyrics select runway warfare wrong ocean
+  view
+bip_39_word_space_12: engine lock duck omit lyrics select runway warfare wrong ocean
+  view afraid
+bip_39_word_space_2: engine lock
+bip_39_word_space_3: engine lock duck
+bip_39_word_space_4: engine lock duck omit
+bip_39_word_space_5: engine lock duck omit lyrics
+bip_39_word_space_6: engine lock duck omit lyrics select
+bip_39_word_space_7: engine lock duck omit lyrics select runway
+bip_39_word_space_8: engine lock duck omit lyrics select runway warfare
+bip_39_word_space_9: engine lock duck omit lyrics select runway warfare wrong
+bip_39_word_underscore_1: engine
+bip_39_word_underscore_10: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean
+bip_39_word_underscore_11: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean_view
+bip_39_word_underscore_12: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong_ocean_view_afraid
+bip_39_word_underscore_2: engine_lock
+bip_39_word_underscore_3: engine_lock_duck
+bip_39_word_underscore_4: engine_lock_duck_omit
+bip_39_word_underscore_5: engine_lock_duck_omit_lyrics
+bip_39_word_underscore_6: engine_lock_duck_omit_lyrics_select
+bip_39_word_underscore_7: engine_lock_duck_omit_lyrics_select_runway
+bip_39_word_underscore_8: engine_lock_duck_omit_lyrics_select_runway_warfare
+bip_39_word_underscore_9: engine_lock_duck_omit_lyrics_select_runway_warfare_wrong
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
 id_no_color: 030310toolscrewdriverdriverbit
 id_no_size: 03_03_10__tool_screwdriver_driver_bit
 id_no_type: tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202vt9i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202vt9i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202vt9i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030310Toolscrewdriverdriverbit
 name_no_size: 03 03 10  Tool Screwdriver Driver Bit
 name_no_size_short: 03 03 10  Tool Screwdriver Driver Bit
 name_no_type: Tool Holder Vertical 03 03 10  Tool Screwdriver Driver Bit
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_03_10__tool_screwdriver_driver_bit
 oomp_word: hatching_chick helicopter airplane
 oomp_word_emoji: ':hatching_chick: :helicopter: :airplane:'

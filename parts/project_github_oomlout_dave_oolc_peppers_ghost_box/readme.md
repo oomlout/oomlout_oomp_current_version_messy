@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Dave Oolc Peppers Ghost Box
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_dave_oolc_peppers_ghost_box
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :fax: :question: :question:
 * md5_6_alpha: 4x3bn
 * md5_6: 7e1313
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204x3bn)
+[2x1](http://192.168.1.242:1112/?label=oomp%204x3bn)
+[6x4](http://192.168.1.55:1112/?label=oomp%204x3bn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ dry |
 | id_no_color | dave_oolc_peppers_ghost_box |  
 | id_no_size | dave_oolc_peppers_ghost_box |  
 | id_no_type | oomlout_dave_oolc_peppers_ghost_box |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_dave_oolc_peppers_ghost_box |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204x3bn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204x3bn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204x3bn |  
 | link_redirect | https://github.com/oomlout/dave_oolc_peppers_ghost_box |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ dry |
 | name_no_size | Dave Oolc Peppers Ghost Box |  
 | name_no_size_short | Dave Oolc Peppers Ghost Box |  
 | name_no_type | Oomlout Dave Oolc Peppers Ghost Box |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_dave_oolc_peppers_ghost_box |  
 | oomp_word | fax question question |  
 | oomp_word_emoji | :fax: :question: :question: |  

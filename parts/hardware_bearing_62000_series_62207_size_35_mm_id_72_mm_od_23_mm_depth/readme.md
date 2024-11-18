@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 62000 Series 62207 Size 35 mm ID 72 mm OD 23 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_62000_series_62207_size_35_mm_id_72_mm_od_23_mm_depth
   * classification: hardware

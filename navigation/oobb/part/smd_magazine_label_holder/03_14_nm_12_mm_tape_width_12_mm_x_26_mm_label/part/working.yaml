@@ -300,7 +300,14 @@ id_no_class: part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26
 id_no_color: 0314nm12mmtapewidth12mmx26mmlabel
 id_no_size: 03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
 id_no_type: smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208c6ca
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208c6ca
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208c6ca
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -328,6 +335,7 @@ name_no_color: 0314Nm12mmtapewidth12mmx26mmlabel
 name_no_size: 03 14 Nm 12 mm Tape Width 12 mm X 26 mm Label
 name_no_size_short: 03 14 Nm 12 Mm Tape Width 12 Mm X 26 Mm Label
 name_no_type: SMD Magazine Label Holder 03 14 Nm 12 mm Tape Width 12 mm X 26 mm Label
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_label_holder_03_14_nm_12_mm_tape_width_12_mm_x_26_mm_label
 oomp_word: house eyeglasses clap
 oomp_word_emoji: ':house: :eyeglasses: :clap:'

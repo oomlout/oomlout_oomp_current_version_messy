@@ -1,3 +1,223 @@
+bip_39_word_dash_1: minimum
+bip_39_word_dash_10: minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel
+bip_39_word_dash_11: minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel-exercise
+bip_39_word_dash_12: minimum-antique-screen-payment-urban-twin-spend-detail-dance-gospel-exercise-alley
+bip_39_word_dash_2: minimum-antique
+bip_39_word_dash_3: minimum-antique-screen
+bip_39_word_dash_4: minimum-antique-screen-payment
+bip_39_word_dash_5: minimum-antique-screen-payment-urban
+bip_39_word_dash_6: minimum-antique-screen-payment-urban-twin
+bip_39_word_dash_7: minimum-antique-screen-payment-urban-twin-spend
+bip_39_word_dash_8: minimum-antique-screen-payment-urban-twin-spend-detail
+bip_39_word_dash_9: minimum-antique-screen-payment-urban-twin-spend-detail-dance
+bip_39_word_new_br_1: minimum
+bip_39_word_new_br_10: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel
+bip_39_word_new_br_11: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise
+bip_39_word_new_br_12: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance<br>gospel<br>exercise<br>alley
+bip_39_word_new_br_2: minimum<br>antique
+bip_39_word_new_br_3: minimum<br>antique<br>screen
+bip_39_word_new_br_4: minimum<br>antique<br>screen<br>payment
+bip_39_word_new_br_5: minimum<br>antique<br>screen<br>payment<br>urban
+bip_39_word_new_br_6: minimum<br>antique<br>screen<br>payment<br>urban<br>twin
+bip_39_word_new_br_7: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend
+bip_39_word_new_br_8: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail
+bip_39_word_new_br_9: minimum<br>antique<br>screen<br>payment<br>urban<br>twin<br>spend<br>detail<br>dance
+bip_39_word_new_line_1: minimum
+bip_39_word_new_line_10: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel'
+bip_39_word_new_line_11: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel
+
+  exercise'
+bip_39_word_new_line_12: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance
+
+  gospel
+
+  exercise
+
+  alley'
+bip_39_word_new_line_2: 'minimum
+
+  antique'
+bip_39_word_new_line_3: 'minimum
+
+  antique
+
+  screen'
+bip_39_word_new_line_4: 'minimum
+
+  antique
+
+  screen
+
+  payment'
+bip_39_word_new_line_5: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban'
+bip_39_word_new_line_6: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin'
+bip_39_word_new_line_7: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend'
+bip_39_word_new_line_8: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail'
+bip_39_word_new_line_9: 'minimum
+
+  antique
+
+  screen
+
+  payment
+
+  urban
+
+  twin
+
+  spend
+
+  detail
+
+  dance'
+bip_39_word_no_space_1: minimum
+bip_39_word_no_space_10: minimumantiquescreenpaymenturbantwinspenddetaildancegospel
+bip_39_word_no_space_11: minimumantiquescreenpaymenturbantwinspenddetaildancegospelexercise
+bip_39_word_no_space_12: minimumantiquescreenpaymenturbantwinspenddetaildancegospelexercisealley
+bip_39_word_no_space_2: minimumantique
+bip_39_word_no_space_3: minimumantiquescreen
+bip_39_word_no_space_4: minimumantiquescreenpayment
+bip_39_word_no_space_5: minimumantiquescreenpaymenturban
+bip_39_word_no_space_6: minimumantiquescreenpaymenturbantwin
+bip_39_word_no_space_7: minimumantiquescreenpaymenturbantwinspend
+bip_39_word_no_space_8: minimumantiquescreenpaymenturbantwinspenddetail
+bip_39_word_no_space_9: minimumantiquescreenpaymenturbantwinspenddetaildance
+bip_39_word_space_0:
+- minimum
+- antique
+- screen
+- payment
+- urban
+- twin
+- spend
+- detail
+- dance
+- gospel
+- exercise
+- alley
+bip_39_word_space_1: minimum
+bip_39_word_space_10: minimum antique screen payment urban twin spend detail dance
+  gospel
+bip_39_word_space_11: minimum antique screen payment urban twin spend detail dance
+  gospel exercise
+bip_39_word_space_12: minimum antique screen payment urban twin spend detail dance
+  gospel exercise alley
+bip_39_word_space_2: minimum antique
+bip_39_word_space_3: minimum antique screen
+bip_39_word_space_4: minimum antique screen payment
+bip_39_word_space_5: minimum antique screen payment urban
+bip_39_word_space_6: minimum antique screen payment urban twin
+bip_39_word_space_7: minimum antique screen payment urban twin spend
+bip_39_word_space_8: minimum antique screen payment urban twin spend detail
+bip_39_word_space_9: minimum antique screen payment urban twin spend detail dance
+bip_39_word_underscore_1: minimum
+bip_39_word_underscore_10: minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel
+bip_39_word_underscore_11: minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel_exercise
+bip_39_word_underscore_12: minimum_antique_screen_payment_urban_twin_spend_detail_dance_gospel_exercise_alley
+bip_39_word_underscore_2: minimum_antique
+bip_39_word_underscore_3: minimum_antique_screen
+bip_39_word_underscore_4: minimum_antique_screen_payment
+bip_39_word_underscore_5: minimum_antique_screen_payment_urban
+bip_39_word_underscore_6: minimum_antique_screen_payment_urban_twin
+bip_39_word_underscore_7: minimum_antique_screen_payment_urban_twin_spend
+bip_39_word_underscore_8: minimum_antique_screen_payment_urban_twin_spend_detail
+bip_39_word_underscore_9: minimum_antique_screen_payment_urban_twin_spend_detail_dance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_15_24
 id_no_color: '151524'
 id_no_size: '15_15_24'
 id_no_type: tray_thin_15_15_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_15_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_15_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_15_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042ye1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042ye1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042ye1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '151524'
 name_no_size: 15 15 24
 name_no_size_short: 15 15 24
 name_no_type: Tray Thin 15 15 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_15_24
 oomp_word: mushroom clubs bowling
 oomp_word_emoji: ':mushroom: :clubs: :bowling:'

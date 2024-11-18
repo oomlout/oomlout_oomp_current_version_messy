@@ -1,3 +1,223 @@
+bip_39_word_dash_1: infant
+bip_39_word_dash_10: infant-update-faint-soft-illness-antique-napkin-physical-trick-sausage
+bip_39_word_dash_11: infant-update-faint-soft-illness-antique-napkin-physical-trick-sausage-audit
+bip_39_word_dash_12: infant-update-faint-soft-illness-antique-napkin-physical-trick-sausage-audit-apology
+bip_39_word_dash_2: infant-update
+bip_39_word_dash_3: infant-update-faint
+bip_39_word_dash_4: infant-update-faint-soft
+bip_39_word_dash_5: infant-update-faint-soft-illness
+bip_39_word_dash_6: infant-update-faint-soft-illness-antique
+bip_39_word_dash_7: infant-update-faint-soft-illness-antique-napkin
+bip_39_word_dash_8: infant-update-faint-soft-illness-antique-napkin-physical
+bip_39_word_dash_9: infant-update-faint-soft-illness-antique-napkin-physical-trick
+bip_39_word_new_br_1: infant
+bip_39_word_new_br_10: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage
+bip_39_word_new_br_11: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit
+bip_39_word_new_br_12: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick<br>sausage<br>audit<br>apology
+bip_39_word_new_br_2: infant<br>update
+bip_39_word_new_br_3: infant<br>update<br>faint
+bip_39_word_new_br_4: infant<br>update<br>faint<br>soft
+bip_39_word_new_br_5: infant<br>update<br>faint<br>soft<br>illness
+bip_39_word_new_br_6: infant<br>update<br>faint<br>soft<br>illness<br>antique
+bip_39_word_new_br_7: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin
+bip_39_word_new_br_8: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical
+bip_39_word_new_br_9: infant<br>update<br>faint<br>soft<br>illness<br>antique<br>napkin<br>physical<br>trick
+bip_39_word_new_line_1: infant
+bip_39_word_new_line_10: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin
+
+  physical
+
+  trick
+
+  sausage'
+bip_39_word_new_line_11: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin
+
+  physical
+
+  trick
+
+  sausage
+
+  audit'
+bip_39_word_new_line_12: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin
+
+  physical
+
+  trick
+
+  sausage
+
+  audit
+
+  apology'
+bip_39_word_new_line_2: 'infant
+
+  update'
+bip_39_word_new_line_3: 'infant
+
+  update
+
+  faint'
+bip_39_word_new_line_4: 'infant
+
+  update
+
+  faint
+
+  soft'
+bip_39_word_new_line_5: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness'
+bip_39_word_new_line_6: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique'
+bip_39_word_new_line_7: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin'
+bip_39_word_new_line_8: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin
+
+  physical'
+bip_39_word_new_line_9: 'infant
+
+  update
+
+  faint
+
+  soft
+
+  illness
+
+  antique
+
+  napkin
+
+  physical
+
+  trick'
+bip_39_word_no_space_1: infant
+bip_39_word_no_space_10: infantupdatefaintsoftillnessantiquenapkinphysicaltricksausage
+bip_39_word_no_space_11: infantupdatefaintsoftillnessantiquenapkinphysicaltricksausageaudit
+bip_39_word_no_space_12: infantupdatefaintsoftillnessantiquenapkinphysicaltricksausageauditapology
+bip_39_word_no_space_2: infantupdate
+bip_39_word_no_space_3: infantupdatefaint
+bip_39_word_no_space_4: infantupdatefaintsoft
+bip_39_word_no_space_5: infantupdatefaintsoftillness
+bip_39_word_no_space_6: infantupdatefaintsoftillnessantique
+bip_39_word_no_space_7: infantupdatefaintsoftillnessantiquenapkin
+bip_39_word_no_space_8: infantupdatefaintsoftillnessantiquenapkinphysical
+bip_39_word_no_space_9: infantupdatefaintsoftillnessantiquenapkinphysicaltrick
+bip_39_word_space_0:
+- infant
+- update
+- faint
+- soft
+- illness
+- antique
+- napkin
+- physical
+- trick
+- sausage
+- audit
+- apology
+bip_39_word_space_1: infant
+bip_39_word_space_10: infant update faint soft illness antique napkin physical trick
+  sausage
+bip_39_word_space_11: infant update faint soft illness antique napkin physical trick
+  sausage audit
+bip_39_word_space_12: infant update faint soft illness antique napkin physical trick
+  sausage audit apology
+bip_39_word_space_2: infant update
+bip_39_word_space_3: infant update faint
+bip_39_word_space_4: infant update faint soft
+bip_39_word_space_5: infant update faint soft illness
+bip_39_word_space_6: infant update faint soft illness antique
+bip_39_word_space_7: infant update faint soft illness antique napkin
+bip_39_word_space_8: infant update faint soft illness antique napkin physical
+bip_39_word_space_9: infant update faint soft illness antique napkin physical trick
+bip_39_word_underscore_1: infant
+bip_39_word_underscore_10: infant_update_faint_soft_illness_antique_napkin_physical_trick_sausage
+bip_39_word_underscore_11: infant_update_faint_soft_illness_antique_napkin_physical_trick_sausage_audit
+bip_39_word_underscore_12: infant_update_faint_soft_illness_antique_napkin_physical_trick_sausage_audit_apology
+bip_39_word_underscore_2: infant_update
+bip_39_word_underscore_3: infant_update_faint
+bip_39_word_underscore_4: infant_update_faint_soft
+bip_39_word_underscore_5: infant_update_faint_soft_illness
+bip_39_word_underscore_6: infant_update_faint_soft_illness_antique
+bip_39_word_underscore_7: infant_update_faint_soft_illness_antique_napkin
+bip_39_word_underscore_8: infant_update_faint_soft_illness_antique_napkin_physical
+bip_39_word_underscore_9: infant_update_faint_soft_illness_antique_napkin_physical_trick
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
 id_no_color: 030672teethshieldshmotorn20
 id_no_size: 03_06__72_teeth_shield_sh_motor_n20
 id_no_type: pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206hc8f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206hc8f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206hc8f
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 030672Teethshieldshmotorn20
 name_no_size: 03 06  72 Teeth Shield Sh Motor N20
 name_no_size_short: 03 06  72 Teeth Shield Sh Motor N20
 name_no_type: Pulley Gt2 03 06  72 Teeth Shield Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_03_06__72_teeth_shield_sh_motor_n20
 oomp_word: trumpet angel cyclone
 oomp_word_emoji: ':trumpet: :angel: :cyclone:'

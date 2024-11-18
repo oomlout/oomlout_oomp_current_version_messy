@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A servo tester
 
+### name
+* name: Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
   * classification: electronic
@@ -28,6 +31,29 @@ A servo tester
 * oomp_word_emoji :dress: :basketball: :hatching_chick:
 * md5_6_alpha: 6rtxl
 * md5_6: ad9649
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206rtxl)
+[2x1](http://192.168.1.242:1112/?label=oomp%206rtxl)
+[6x4](http://192.168.1.55:1112/?label=oomp%206rtxl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -232,7 +258,14 @@ dial |
 | id_no_color | hw141 |  
 | id_no_size | hw_141 |  
 | id_no_type | 32_mm_width_28_mm_height_hw_141 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206rtxl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206rtxl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206rtxl |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -258,6 +291,7 @@ dial |
 | name_no_size_short | Hw 141 |  
 | name_no_type | 32 mm Width 28 mm Height Hw 141 |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | oomp_word | dress basketball hatching_chick |  
 | oomp_word_emoji | :dress: :basketball: :hatching_chick: |  

@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420696326'
+bip_39_word_dash_1: fence
+bip_39_word_dash_10: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen
+bip_39_word_dash_11: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen-private
+bip_39_word_dash_12: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge-pen-private-anxiety
+bip_39_word_dash_2: fence-wild
+bip_39_word_dash_3: fence-wild-rookie
+bip_39_word_dash_4: fence-wild-rookie-liquid
+bip_39_word_dash_5: fence-wild-rookie-liquid-purse
+bip_39_word_dash_6: fence-wild-rookie-liquid-purse-broccoli
+bip_39_word_dash_7: fence-wild-rookie-liquid-purse-broccoli-pupil
+bip_39_word_dash_8: fence-wild-rookie-liquid-purse-broccoli-pupil-shield
+bip_39_word_dash_9: fence-wild-rookie-liquid-purse-broccoli-pupil-shield-merge
+bip_39_word_new_br_1: fence
+bip_39_word_new_br_10: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen
+bip_39_word_new_br_11: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen<br>private
+bip_39_word_new_br_12: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge<br>pen<br>private<br>anxiety
+bip_39_word_new_br_2: fence<br>wild
+bip_39_word_new_br_3: fence<br>wild<br>rookie
+bip_39_word_new_br_4: fence<br>wild<br>rookie<br>liquid
+bip_39_word_new_br_5: fence<br>wild<br>rookie<br>liquid<br>purse
+bip_39_word_new_br_6: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli
+bip_39_word_new_br_7: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil
+bip_39_word_new_br_8: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield
+bip_39_word_new_br_9: fence<br>wild<br>rookie<br>liquid<br>purse<br>broccoli<br>pupil<br>shield<br>merge
+bip_39_word_new_line_1: fence
+bip_39_word_new_line_10: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen'
+bip_39_word_new_line_11: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen
+
+  private'
+bip_39_word_new_line_12: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge
+
+  pen
+
+  private
+
+  anxiety'
+bip_39_word_new_line_2: 'fence
+
+  wild'
+bip_39_word_new_line_3: 'fence
+
+  wild
+
+  rookie'
+bip_39_word_new_line_4: 'fence
+
+  wild
+
+  rookie
+
+  liquid'
+bip_39_word_new_line_5: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse'
+bip_39_word_new_line_6: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli'
+bip_39_word_new_line_7: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil'
+bip_39_word_new_line_8: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield'
+bip_39_word_new_line_9: 'fence
+
+  wild
+
+  rookie
+
+  liquid
+
+  purse
+
+  broccoli
+
+  pupil
+
+  shield
+
+  merge'
+bip_39_word_no_space_1: fence
+bip_39_word_no_space_10: fencewildrookieliquidpursebroccolipupilshieldmergepen
+bip_39_word_no_space_11: fencewildrookieliquidpursebroccolipupilshieldmergepenprivate
+bip_39_word_no_space_12: fencewildrookieliquidpursebroccolipupilshieldmergepenprivateanxiety
+bip_39_word_no_space_2: fencewild
+bip_39_word_no_space_3: fencewildrookie
+bip_39_word_no_space_4: fencewildrookieliquid
+bip_39_word_no_space_5: fencewildrookieliquidpurse
+bip_39_word_no_space_6: fencewildrookieliquidpursebroccoli
+bip_39_word_no_space_7: fencewildrookieliquidpursebroccolipupil
+bip_39_word_no_space_8: fencewildrookieliquidpursebroccolipupilshield
+bip_39_word_no_space_9: fencewildrookieliquidpursebroccolipupilshieldmerge
+bip_39_word_space_0:
+- fence
+- wild
+- rookie
+- liquid
+- purse
+- broccoli
+- pupil
+- shield
+- merge
+- pen
+- private
+- anxiety
+bip_39_word_space_1: fence
+bip_39_word_space_10: fence wild rookie liquid purse broccoli pupil shield merge pen
+bip_39_word_space_11: fence wild rookie liquid purse broccoli pupil shield merge pen
+  private
+bip_39_word_space_12: fence wild rookie liquid purse broccoli pupil shield merge pen
+  private anxiety
+bip_39_word_space_2: fence wild
+bip_39_word_space_3: fence wild rookie
+bip_39_word_space_4: fence wild rookie liquid
+bip_39_word_space_5: fence wild rookie liquid purse
+bip_39_word_space_6: fence wild rookie liquid purse broccoli
+bip_39_word_space_7: fence wild rookie liquid purse broccoli pupil
+bip_39_word_space_8: fence wild rookie liquid purse broccoli pupil shield
+bip_39_word_space_9: fence wild rookie liquid purse broccoli pupil shield merge
+bip_39_word_underscore_1: fence
+bip_39_word_underscore_10: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen
+bip_39_word_underscore_11: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen_private
+bip_39_word_underscore_12: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge_pen_private_anxiety
+bip_39_word_underscore_2: fence_wild
+bip_39_word_underscore_3: fence_wild_rookie
+bip_39_word_underscore_4: fence_wild_rookie_liquid
+bip_39_word_underscore_5: fence_wild_rookie_liquid_purse
+bip_39_word_underscore_6: fence_wild_rookie_liquid_purse_broccoli
+bip_39_word_underscore_7: fence_wild_rookie_liquid_purse_broccoli_pupil
+bip_39_word_underscore_8: fence_wild_rookie_liquid_purse_broccoli_pupil_shield
+bip_39_word_underscore_9: fence_wild_rookie_liquid_purse_broccoli_pupil_shield_merge
 box_of_box_size_manufacturer_metalmate: '3000'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +357,22 @@ id_no_color: 20_mm_length_hex_head
 id_no_size: black_20_mm_length_hex_head
 id_no_type: m5_black_20_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_20_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_20_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m5-x-20-socket-cap-screw-gr12-9-self-colour-din-91-1150m470020
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-20-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_20_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ami0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ami0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ami0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +399,26 @@ name_no_color: 20 mm Length Hex Head
 name_no_size: Black 20 mm Length Hex Head
 name_no_size_short: Black 20 Mm Length Hex Head
 name_no_type: M5 Black 20 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 6am
+oomlout_bolt_md5_6_alpha_first_3_upper: 6AM
+oomlout_bolt_md5_6_alpha_last_3: i0
+oomlout_bolt_md5_6_alpha_last_3_upper: I0
+oomlout_bolt_md5_6_first_3: a15
+oomlout_bolt_md5_6_first_3_upper: A15
+oomlout_bolt_md5_6_last_3: '668'
+oomlout_bolt_md5_6_last_3_upper: '668'
+oomlout_bolt_name: Socket Cap M5X20 mm Black (Hex Head)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc5b20h
+oomlout_short_code_upper: SC5B20H
 oomp_id: hardware_screw_socket_cap_m5_black_20_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m5_black_20_mm_length_hex_head
 oomp_word: trophy ram mushroom
@@ -189,12 +443,22 @@ price_1: '0.0527'
 price_100: '0.0527'
 price_1000: '0.0264'
 price_10000: '0.0234'
+price_10000_distributor_1: '0.0234'
 price_10000_distributor_orbital_fasteners: '0.0234'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0264'
 price_1000_distributor_orbital_fasteners: '0.0264'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0527'
 price_100_distributor_orbital_fasteners: '0.0527'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0527'
 price_1_distributor_orbital_fasteners: '0.0527'
+price_1_name: orbital_fasteners
 price_200: '0.0293'
+price_200_distributor_1: '0.0293'
 price_200_distributor_orbital_fasteners: '0.0293'
+price_200_name: orbital_fasteners
 price_current: '0.0293'
 quantity_current: '200'
 short_code: sc5b20h

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: charge
+bip_39_word_dash_10: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father
+bip_39_word_dash_11: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father-naive
+bip_39_word_dash_12: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt-father-naive-arrow
+bip_39_word_dash_2: charge-list
+bip_39_word_dash_3: charge-list-economy
+bip_39_word_dash_4: charge-list-economy-cement
+bip_39_word_dash_5: charge-list-economy-cement-weapon
+bip_39_word_dash_6: charge-list-economy-cement-weapon-duck
+bip_39_word_dash_7: charge-list-economy-cement-weapon-duck-pudding
+bip_39_word_dash_8: charge-list-economy-cement-weapon-duck-pudding-repeat
+bip_39_word_dash_9: charge-list-economy-cement-weapon-duck-pudding-repeat-erupt
+bip_39_word_new_br_1: charge
+bip_39_word_new_br_10: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father
+bip_39_word_new_br_11: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive
+bip_39_word_new_br_12: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt<br>father<br>naive<br>arrow
+bip_39_word_new_br_2: charge<br>list
+bip_39_word_new_br_3: charge<br>list<br>economy
+bip_39_word_new_br_4: charge<br>list<br>economy<br>cement
+bip_39_word_new_br_5: charge<br>list<br>economy<br>cement<br>weapon
+bip_39_word_new_br_6: charge<br>list<br>economy<br>cement<br>weapon<br>duck
+bip_39_word_new_br_7: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding
+bip_39_word_new_br_8: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat
+bip_39_word_new_br_9: charge<br>list<br>economy<br>cement<br>weapon<br>duck<br>pudding<br>repeat<br>erupt
+bip_39_word_new_line_1: charge
+bip_39_word_new_line_10: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding
+
+  repeat
+
+  erupt
+
+  father'
+bip_39_word_new_line_11: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding
+
+  repeat
+
+  erupt
+
+  father
+
+  naive'
+bip_39_word_new_line_12: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding
+
+  repeat
+
+  erupt
+
+  father
+
+  naive
+
+  arrow'
+bip_39_word_new_line_2: 'charge
+
+  list'
+bip_39_word_new_line_3: 'charge
+
+  list
+
+  economy'
+bip_39_word_new_line_4: 'charge
+
+  list
+
+  economy
+
+  cement'
+bip_39_word_new_line_5: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon'
+bip_39_word_new_line_6: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck'
+bip_39_word_new_line_7: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding'
+bip_39_word_new_line_8: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding
+
+  repeat'
+bip_39_word_new_line_9: 'charge
+
+  list
+
+  economy
+
+  cement
+
+  weapon
+
+  duck
+
+  pudding
+
+  repeat
+
+  erupt'
+bip_39_word_no_space_1: charge
+bip_39_word_no_space_10: chargelisteconomycementweaponduckpuddingrepeateruptfather
+bip_39_word_no_space_11: chargelisteconomycementweaponduckpuddingrepeateruptfathernaive
+bip_39_word_no_space_12: chargelisteconomycementweaponduckpuddingrepeateruptfathernaivearrow
+bip_39_word_no_space_2: chargelist
+bip_39_word_no_space_3: chargelisteconomy
+bip_39_word_no_space_4: chargelisteconomycement
+bip_39_word_no_space_5: chargelisteconomycementweapon
+bip_39_word_no_space_6: chargelisteconomycementweaponduck
+bip_39_word_no_space_7: chargelisteconomycementweaponduckpudding
+bip_39_word_no_space_8: chargelisteconomycementweaponduckpuddingrepeat
+bip_39_word_no_space_9: chargelisteconomycementweaponduckpuddingrepeaterupt
+bip_39_word_space_0:
+- charge
+- list
+- economy
+- cement
+- weapon
+- duck
+- pudding
+- repeat
+- erupt
+- father
+- naive
+- arrow
+bip_39_word_space_1: charge
+bip_39_word_space_10: charge list economy cement weapon duck pudding repeat erupt
+  father
+bip_39_word_space_11: charge list economy cement weapon duck pudding repeat erupt
+  father naive
+bip_39_word_space_12: charge list economy cement weapon duck pudding repeat erupt
+  father naive arrow
+bip_39_word_space_2: charge list
+bip_39_word_space_3: charge list economy
+bip_39_word_space_4: charge list economy cement
+bip_39_word_space_5: charge list economy cement weapon
+bip_39_word_space_6: charge list economy cement weapon duck
+bip_39_word_space_7: charge list economy cement weapon duck pudding
+bip_39_word_space_8: charge list economy cement weapon duck pudding repeat
+bip_39_word_space_9: charge list economy cement weapon duck pudding repeat erupt
+bip_39_word_underscore_1: charge
+bip_39_word_underscore_10: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father
+bip_39_word_underscore_11: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father_naive
+bip_39_word_underscore_12: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt_father_naive_arrow
+bip_39_word_underscore_2: charge_list
+bip_39_word_underscore_3: charge_list_economy
+bip_39_word_underscore_4: charge_list_economy_cement
+bip_39_word_underscore_5: charge_list_economy_cement_weapon
+bip_39_word_underscore_6: charge_list_economy_cement_weapon_duck
+bip_39_word_underscore_7: charge_list_economy_cement_weapon_duck_pudding
+bip_39_word_underscore_8: charge_list_economy_cement_weapon_duck_pudding_repeat
+bip_39_word_underscore_9: charge_list_economy_cement_weapon_duck_pudding_repeat_erupt
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: blue_10_mm_length
 id_no_type: 1_6_mm_internal_diameter_blue_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_blue_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_blue_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_blue_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xcno
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xcno
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xcno
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: Blue 10 mm Length
 name_no_size_short: Blue 10 Mm Length
 name_no_type: 1 6 mm Internal Diameter Blue 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_blue_10_mm_length
 oomp_word: grapes ear whale
 oomp_word_emoji: ':grapes: :ear: :whale:'

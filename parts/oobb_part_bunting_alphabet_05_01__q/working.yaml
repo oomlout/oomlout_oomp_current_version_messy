@@ -1,3 +1,222 @@
+bip_39_word_dash_1: blossom
+bip_39_word_dash_10: blossom-guitar-ketchup-hurt-city-rose-cart-mechanic-idle-cushion
+bip_39_word_dash_11: blossom-guitar-ketchup-hurt-city-rose-cart-mechanic-idle-cushion-sail
+bip_39_word_dash_12: blossom-guitar-ketchup-hurt-city-rose-cart-mechanic-idle-cushion-sail-absorb
+bip_39_word_dash_2: blossom-guitar
+bip_39_word_dash_3: blossom-guitar-ketchup
+bip_39_word_dash_4: blossom-guitar-ketchup-hurt
+bip_39_word_dash_5: blossom-guitar-ketchup-hurt-city
+bip_39_word_dash_6: blossom-guitar-ketchup-hurt-city-rose
+bip_39_word_dash_7: blossom-guitar-ketchup-hurt-city-rose-cart
+bip_39_word_dash_8: blossom-guitar-ketchup-hurt-city-rose-cart-mechanic
+bip_39_word_dash_9: blossom-guitar-ketchup-hurt-city-rose-cart-mechanic-idle
+bip_39_word_new_br_1: blossom
+bip_39_word_new_br_10: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion
+bip_39_word_new_br_11: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion<br>sail
+bip_39_word_new_br_12: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle<br>cushion<br>sail<br>absorb
+bip_39_word_new_br_2: blossom<br>guitar
+bip_39_word_new_br_3: blossom<br>guitar<br>ketchup
+bip_39_word_new_br_4: blossom<br>guitar<br>ketchup<br>hurt
+bip_39_word_new_br_5: blossom<br>guitar<br>ketchup<br>hurt<br>city
+bip_39_word_new_br_6: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose
+bip_39_word_new_br_7: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart
+bip_39_word_new_br_8: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic
+bip_39_word_new_br_9: blossom<br>guitar<br>ketchup<br>hurt<br>city<br>rose<br>cart<br>mechanic<br>idle
+bip_39_word_new_line_1: blossom
+bip_39_word_new_line_10: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart
+
+  mechanic
+
+  idle
+
+  cushion'
+bip_39_word_new_line_11: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart
+
+  mechanic
+
+  idle
+
+  cushion
+
+  sail'
+bip_39_word_new_line_12: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart
+
+  mechanic
+
+  idle
+
+  cushion
+
+  sail
+
+  absorb'
+bip_39_word_new_line_2: 'blossom
+
+  guitar'
+bip_39_word_new_line_3: 'blossom
+
+  guitar
+
+  ketchup'
+bip_39_word_new_line_4: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt'
+bip_39_word_new_line_5: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city'
+bip_39_word_new_line_6: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose'
+bip_39_word_new_line_7: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart'
+bip_39_word_new_line_8: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart
+
+  mechanic'
+bip_39_word_new_line_9: 'blossom
+
+  guitar
+
+  ketchup
+
+  hurt
+
+  city
+
+  rose
+
+  cart
+
+  mechanic
+
+  idle'
+bip_39_word_no_space_1: blossom
+bip_39_word_no_space_10: blossomguitarketchuphurtcityrosecartmechanicidlecushion
+bip_39_word_no_space_11: blossomguitarketchuphurtcityrosecartmechanicidlecushionsail
+bip_39_word_no_space_12: blossomguitarketchuphurtcityrosecartmechanicidlecushionsailabsorb
+bip_39_word_no_space_2: blossomguitar
+bip_39_word_no_space_3: blossomguitarketchup
+bip_39_word_no_space_4: blossomguitarketchuphurt
+bip_39_word_no_space_5: blossomguitarketchuphurtcity
+bip_39_word_no_space_6: blossomguitarketchuphurtcityrose
+bip_39_word_no_space_7: blossomguitarketchuphurtcityrosecart
+bip_39_word_no_space_8: blossomguitarketchuphurtcityrosecartmechanic
+bip_39_word_no_space_9: blossomguitarketchuphurtcityrosecartmechanicidle
+bip_39_word_space_0:
+- blossom
+- guitar
+- ketchup
+- hurt
+- city
+- rose
+- cart
+- mechanic
+- idle
+- cushion
+- sail
+- absorb
+bip_39_word_space_1: blossom
+bip_39_word_space_10: blossom guitar ketchup hurt city rose cart mechanic idle cushion
+bip_39_word_space_11: blossom guitar ketchup hurt city rose cart mechanic idle cushion
+  sail
+bip_39_word_space_12: blossom guitar ketchup hurt city rose cart mechanic idle cushion
+  sail absorb
+bip_39_word_space_2: blossom guitar
+bip_39_word_space_3: blossom guitar ketchup
+bip_39_word_space_4: blossom guitar ketchup hurt
+bip_39_word_space_5: blossom guitar ketchup hurt city
+bip_39_word_space_6: blossom guitar ketchup hurt city rose
+bip_39_word_space_7: blossom guitar ketchup hurt city rose cart
+bip_39_word_space_8: blossom guitar ketchup hurt city rose cart mechanic
+bip_39_word_space_9: blossom guitar ketchup hurt city rose cart mechanic idle
+bip_39_word_underscore_1: blossom
+bip_39_word_underscore_10: blossom_guitar_ketchup_hurt_city_rose_cart_mechanic_idle_cushion
+bip_39_word_underscore_11: blossom_guitar_ketchup_hurt_city_rose_cart_mechanic_idle_cushion_sail
+bip_39_word_underscore_12: blossom_guitar_ketchup_hurt_city_rose_cart_mechanic_idle_cushion_sail_absorb
+bip_39_word_underscore_2: blossom_guitar
+bip_39_word_underscore_3: blossom_guitar_ketchup
+bip_39_word_underscore_4: blossom_guitar_ketchup_hurt
+bip_39_word_underscore_5: blossom_guitar_ketchup_hurt_city
+bip_39_word_underscore_6: blossom_guitar_ketchup_hurt_city_rose
+bip_39_word_underscore_7: blossom_guitar_ketchup_hurt_city_rose_cart
+bip_39_word_underscore_8: blossom_guitar_ketchup_hurt_city_rose_cart_mechanic
+bip_39_word_underscore_9: blossom_guitar_ketchup_hurt_city_rose_cart_mechanic_idle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_05_01__q
 id_no_color: 0501q
 id_no_size: 05_01__q
 id_no_type: bunting_alphabet_05_01__q
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__q
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__q
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__q
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ixxp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ixxp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ixxp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0501Q
 name_no_size: 05 01  Q
 name_no_size_short: 05 01  Q
 name_no_type: Bunting Alphabet 05 01  Q
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__q
 oomp_word: heart tv bug
 oomp_word_emoji: ':heart: :tv: :bug:'

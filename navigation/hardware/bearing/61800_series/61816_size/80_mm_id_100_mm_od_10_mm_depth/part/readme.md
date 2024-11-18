@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61816 Size 80 mm ID 100 mm OD 10 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :shirt: :door: :honey_pot:
 * md5_6_alpha: 6qdaf
 * md5_6: ac8bc7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206qdaf)
+[2x1](http://192.168.1.242:1112/?label=oomp%206qdaf)
+[6x4](http://192.168.1.55:1112/?label=oomp%206qdaf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ car |
 | id_no_color | 80_mm_id_100_mm_od_10_mm_depth |  
 | id_no_size | 61816_size_80_mm_id_100_mm_od_10_mm_depth |  
 | id_no_type | 61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206qdaf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206qdaf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206qdaf |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ car |
 | name_no_size | 61816 Size 80 mm ID 100 mm OD 10 mm Depth |  
 | name_no_size_short | 61816 Size 80 Mm Id 100 Mm Od 10 Mm Depth |  
 | name_no_type | 61800 Series 61816 Size 80 mm ID 100 mm OD 10 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61816 |  
 | oomlout_short_code_upper | BR61816 |  
 | oomp_key | oomp_hardware_bearing_61800_series_61816_size_80_mm_id_100_mm_od_10_mm_depth |  

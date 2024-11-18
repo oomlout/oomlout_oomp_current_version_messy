@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 An interposer between an i2c chip and a soic_14_wide package. This is the landing side (for an interposer to land on)
 
+### name
+* name: Electronic Interposer Soic 14 Wide I2C Landing
+* name_short: 
 ### id
 * oomp_id: electronic_interposer_soic_14_wide_i2c_landing
   * classification: electronic

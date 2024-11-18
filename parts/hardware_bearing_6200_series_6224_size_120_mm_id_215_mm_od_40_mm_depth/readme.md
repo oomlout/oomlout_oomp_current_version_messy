@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6224 Size 120 mm ID 215 mm OD 40 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6224_size_120_mm_id_215_mm_od_40_mm_depth
   * classification: hardware

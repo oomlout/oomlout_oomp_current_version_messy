@@ -1,3 +1,222 @@
+bip_39_word_dash_1: lounge
+bip_39_word_dash_10: lounge-vapor-stage-rude-drift-wine-flash-universe-tunnel-sad
+bip_39_word_dash_11: lounge-vapor-stage-rude-drift-wine-flash-universe-tunnel-sad-collect
+bip_39_word_dash_12: lounge-vapor-stage-rude-drift-wine-flash-universe-tunnel-sad-collect-alcohol
+bip_39_word_dash_2: lounge-vapor
+bip_39_word_dash_3: lounge-vapor-stage
+bip_39_word_dash_4: lounge-vapor-stage-rude
+bip_39_word_dash_5: lounge-vapor-stage-rude-drift
+bip_39_word_dash_6: lounge-vapor-stage-rude-drift-wine
+bip_39_word_dash_7: lounge-vapor-stage-rude-drift-wine-flash
+bip_39_word_dash_8: lounge-vapor-stage-rude-drift-wine-flash-universe
+bip_39_word_dash_9: lounge-vapor-stage-rude-drift-wine-flash-universe-tunnel
+bip_39_word_new_br_1: lounge
+bip_39_word_new_br_10: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad
+bip_39_word_new_br_11: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad<br>collect
+bip_39_word_new_br_12: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel<br>sad<br>collect<br>alcohol
+bip_39_word_new_br_2: lounge<br>vapor
+bip_39_word_new_br_3: lounge<br>vapor<br>stage
+bip_39_word_new_br_4: lounge<br>vapor<br>stage<br>rude
+bip_39_word_new_br_5: lounge<br>vapor<br>stage<br>rude<br>drift
+bip_39_word_new_br_6: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine
+bip_39_word_new_br_7: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash
+bip_39_word_new_br_8: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe
+bip_39_word_new_br_9: lounge<br>vapor<br>stage<br>rude<br>drift<br>wine<br>flash<br>universe<br>tunnel
+bip_39_word_new_line_1: lounge
+bip_39_word_new_line_10: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash
+
+  universe
+
+  tunnel
+
+  sad'
+bip_39_word_new_line_11: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash
+
+  universe
+
+  tunnel
+
+  sad
+
+  collect'
+bip_39_word_new_line_12: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash
+
+  universe
+
+  tunnel
+
+  sad
+
+  collect
+
+  alcohol'
+bip_39_word_new_line_2: 'lounge
+
+  vapor'
+bip_39_word_new_line_3: 'lounge
+
+  vapor
+
+  stage'
+bip_39_word_new_line_4: 'lounge
+
+  vapor
+
+  stage
+
+  rude'
+bip_39_word_new_line_5: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift'
+bip_39_word_new_line_6: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine'
+bip_39_word_new_line_7: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash'
+bip_39_word_new_line_8: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash
+
+  universe'
+bip_39_word_new_line_9: 'lounge
+
+  vapor
+
+  stage
+
+  rude
+
+  drift
+
+  wine
+
+  flash
+
+  universe
+
+  tunnel'
+bip_39_word_no_space_1: lounge
+bip_39_word_no_space_10: loungevaporstagerudedriftwineflashuniversetunnelsad
+bip_39_word_no_space_11: loungevaporstagerudedriftwineflashuniversetunnelsadcollect
+bip_39_word_no_space_12: loungevaporstagerudedriftwineflashuniversetunnelsadcollectalcohol
+bip_39_word_no_space_2: loungevapor
+bip_39_word_no_space_3: loungevaporstage
+bip_39_word_no_space_4: loungevaporstagerude
+bip_39_word_no_space_5: loungevaporstagerudedrift
+bip_39_word_no_space_6: loungevaporstagerudedriftwine
+bip_39_word_no_space_7: loungevaporstagerudedriftwineflash
+bip_39_word_no_space_8: loungevaporstagerudedriftwineflashuniverse
+bip_39_word_no_space_9: loungevaporstagerudedriftwineflashuniversetunnel
+bip_39_word_space_0:
+- lounge
+- vapor
+- stage
+- rude
+- drift
+- wine
+- flash
+- universe
+- tunnel
+- sad
+- collect
+- alcohol
+bip_39_word_space_1: lounge
+bip_39_word_space_10: lounge vapor stage rude drift wine flash universe tunnel sad
+bip_39_word_space_11: lounge vapor stage rude drift wine flash universe tunnel sad
+  collect
+bip_39_word_space_12: lounge vapor stage rude drift wine flash universe tunnel sad
+  collect alcohol
+bip_39_word_space_2: lounge vapor
+bip_39_word_space_3: lounge vapor stage
+bip_39_word_space_4: lounge vapor stage rude
+bip_39_word_space_5: lounge vapor stage rude drift
+bip_39_word_space_6: lounge vapor stage rude drift wine
+bip_39_word_space_7: lounge vapor stage rude drift wine flash
+bip_39_word_space_8: lounge vapor stage rude drift wine flash universe
+bip_39_word_space_9: lounge vapor stage rude drift wine flash universe tunnel
+bip_39_word_underscore_1: lounge
+bip_39_word_underscore_10: lounge_vapor_stage_rude_drift_wine_flash_universe_tunnel_sad
+bip_39_word_underscore_11: lounge_vapor_stage_rude_drift_wine_flash_universe_tunnel_sad_collect
+bip_39_word_underscore_12: lounge_vapor_stage_rude_drift_wine_flash_universe_tunnel_sad_collect_alcohol
+bip_39_word_underscore_2: lounge_vapor
+bip_39_word_underscore_3: lounge_vapor_stage
+bip_39_word_underscore_4: lounge_vapor_stage_rude
+bip_39_word_underscore_5: lounge_vapor_stage_rude_drift
+bip_39_word_underscore_6: lounge_vapor_stage_rude_drift_wine
+bip_39_word_underscore_7: lounge_vapor_stage_rude_drift_wine_flash
+bip_39_word_underscore_8: lounge_vapor_stage_rude_drift_wine_flash_universe
+bip_39_word_underscore_9: lounge_vapor_stage_rude_drift_wine_flash_universe_tunnel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_03_02_15
 id_no_color: '030215'
 id_no_size: '03_02_15'
 id_no_type: tray_vertical_03_02_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_02_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_02_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_02_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203rcj3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203rcj3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203rcj3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030215'
 name_no_size: 03 02 15
 name_no_size_short: 03 02 15
 name_no_type: Tray Vertical 03 02 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_03_02_15
 oomp_word: poodle rooster cyclone
 oomp_word_emoji: ':poodle: :rooster: :cyclone:'

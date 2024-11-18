@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Nut M4 Locking
+* name_short: 
 ### id
 * oomp_id: hardware_nut_m4_locking
   * classification: hardware
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :horse: :angel: :sandal:
 * md5_6_alpha: 2gnu1
 * md5_6: 3f1ea9
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202gnu1)
+[2x1](http://192.168.1.242:1112/?label=oomp%202gnu1)
+[6x4](http://192.168.1.55:1112/?label=oomp%202gnu1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m4-din-6924-type-p-nylon-insert-nut-class-8-zinc-p-1657m45)                           
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+| orbital_fasteners | 0.015 | 0.015 | 0.015 | 0.0094 | 0.0076 |
+| orbital_fasteners | 0.015 | 0.015 | 0.015 | 0.0094 | 0.0076 | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -263,7 +305,22 @@ human |
 | id_no_size | locking |  
 | id_no_type | m4_locking |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_locking |  
+| link_2_name | github_link |  
+| link_3 | https://www.orbitalfasteners.co.uk/products/m4-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_3_name | webpage_distributor_orbital_fasteners |  
+| link_4 | https://www.harclob2b.com/m4-din-6924-type-p-nylon-insert-nut-class-8-zinc-p-1657m45 |  
+| link_4_name | webpage_manufacturer_metalmate |  
+| link_buy | https://www.orbitalfasteners.co.uk/products/m4-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
+| link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4_locking |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202gnu1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202gnu1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202gnu1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -289,6 +346,7 @@ human |
 | name_no_size | Locking |  
 | name_no_size_short | Locking |  
 | name_no_type | M4 Locking |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n4mlo |  
 | oomlout_short_code_upper | N4MLO |  
 | oomp_id | hardware_nut_m4_locking |  
@@ -309,12 +367,22 @@ human |
 | price_100 | 0.015 |  
 | price_1000 | 0.0094 |  
 | price_10000 | 0.0076 |  
+| price_10000_distributor_1 | 0.0076 |  
 | price_10000_distributor_orbital_fasteners | 0.0076 |  
+| price_10000_name | orbital_fasteners |  
+| price_1000_distributor_1 | 0.0094 |  
 | price_1000_distributor_orbital_fasteners | 0.0094 |  
+| price_1000_name | orbital_fasteners |  
+| price_100_distributor_1 | 0.015 |  
 | price_100_distributor_orbital_fasteners | 0.015 |  
+| price_100_name | orbital_fasteners |  
+| price_1_distributor_1 | 0.015 |  
 | price_1_distributor_orbital_fasteners | 0.015 |  
+| price_1_name | orbital_fasteners |  
 | price_200 | 0.015 |  
+| price_200_distributor_1 | 0.015 |  
 | price_200_distributor_orbital_fasteners | 0.015 |  
+| price_200_name | orbital_fasteners |  
 | price_current | 0.015 |  
 | quantity_current | 200 |  
 | short_code | nu4 |  

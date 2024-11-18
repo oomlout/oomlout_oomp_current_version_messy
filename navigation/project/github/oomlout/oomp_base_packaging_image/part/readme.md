@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Packaging Image
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_packaging_image
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :dancer: :basketball: :bear:
 * md5_6_alpha: 145kr
 * md5_6: 1c963b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20145kr)
+[2x1](http://192.168.1.242:1112/?label=oomp%20145kr)
+[6x4](http://192.168.1.55:1112/?label=oomp%20145kr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_image) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_packaging_image)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ floor |
 | id_no_color | oomp_base_packaging_image |  
 | id_no_size | oomp_base_packaging_image |  
 | id_no_type | oomlout_oomp_base_packaging_image |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_image |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_packaging_image |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_image |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20145kr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20145kr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20145kr |  
 | link_redirect | https://github.com/oomlout/oomp_base_packaging_image |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ floor |
 | name_no_size | Oomp Base Packaging Image |  
 | name_no_size_short | Oomp Base Packaging Image |  
 | name_no_type | Oomlout Oomp Base Packaging Image |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_packaging_image |  
 | oomp_word | dancer basketball bear |  
 | oomp_word_emoji | :dancer: :basketball: :bear: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Box Warehouse Cardboard 51 mm Width 112 mm Height 301 mm Depth Rajapack Rbac11
+* name_short: 
 ### id
 * oomp_id: storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sleeping: :golf: :bug:
 * md5_6_alpha: 99vx
 * md5_6: 069a4d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2099vx)
+[2x1](http://192.168.1.242:1112/?label=oomp%2099vx)
+[6x4](http://192.168.1.55:1112/?label=oomp%2099vx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ connect |
 | id_no_color | cardboard51mmwidth112mmheight301mmdepthrajapackrbac11 |  
 | id_no_size | cardboard51mmwidth112mmheight301mmdepthrajapackrbac11 |  
 | id_no_type | cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2099vx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2099vx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2099vx |  
 | manufacturer | rajapack |  
 | manufacturer_capital | Rajapack |  
 | manufacturer_first_letter | r |  
@@ -328,6 +361,7 @@ connect |
 | name_no_size | Cardboard51mmwidth112mmheight301mmdepthrajapackrbac11 |  
 | name_no_size_short | Cardboard51Mmwidth112Mmheight301Mmdepthrajapackrbac11 |  
 | name_no_type | Cardboard 51 mm Width 112 mm Height 301 mm Depth Rajapack Rbac11 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_cardboard_51_mm_width_112_mm_height_301_mm_depth_rajapack_rbac11 |  
 | oomp_word | sleeping golf bug |  
 | oomp_word_emoji | :sleeping: :golf: :bug: |  

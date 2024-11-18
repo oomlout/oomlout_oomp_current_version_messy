@@ -1,3 +1,222 @@
+bip_39_word_dash_1: provide
+bip_39_word_dash_10: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree
+bip_39_word_dash_11: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree-hazard
+bip_39_word_dash_12: provide-eye-notice-outer-pulp-wing-output-stem-ketchup-disagree-hazard-antenna
+bip_39_word_dash_2: provide-eye
+bip_39_word_dash_3: provide-eye-notice
+bip_39_word_dash_4: provide-eye-notice-outer
+bip_39_word_dash_5: provide-eye-notice-outer-pulp
+bip_39_word_dash_6: provide-eye-notice-outer-pulp-wing
+bip_39_word_dash_7: provide-eye-notice-outer-pulp-wing-output
+bip_39_word_dash_8: provide-eye-notice-outer-pulp-wing-output-stem
+bip_39_word_dash_9: provide-eye-notice-outer-pulp-wing-output-stem-ketchup
+bip_39_word_new_br_1: provide
+bip_39_word_new_br_10: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree
+bip_39_word_new_br_11: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard
+bip_39_word_new_br_12: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup<br>disagree<br>hazard<br>antenna
+bip_39_word_new_br_2: provide<br>eye
+bip_39_word_new_br_3: provide<br>eye<br>notice
+bip_39_word_new_br_4: provide<br>eye<br>notice<br>outer
+bip_39_word_new_br_5: provide<br>eye<br>notice<br>outer<br>pulp
+bip_39_word_new_br_6: provide<br>eye<br>notice<br>outer<br>pulp<br>wing
+bip_39_word_new_br_7: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output
+bip_39_word_new_br_8: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem
+bip_39_word_new_br_9: provide<br>eye<br>notice<br>outer<br>pulp<br>wing<br>output<br>stem<br>ketchup
+bip_39_word_new_line_1: provide
+bip_39_word_new_line_10: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output
+
+  stem
+
+  ketchup
+
+  disagree'
+bip_39_word_new_line_11: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output
+
+  stem
+
+  ketchup
+
+  disagree
+
+  hazard'
+bip_39_word_new_line_12: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output
+
+  stem
+
+  ketchup
+
+  disagree
+
+  hazard
+
+  antenna'
+bip_39_word_new_line_2: 'provide
+
+  eye'
+bip_39_word_new_line_3: 'provide
+
+  eye
+
+  notice'
+bip_39_word_new_line_4: 'provide
+
+  eye
+
+  notice
+
+  outer'
+bip_39_word_new_line_5: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp'
+bip_39_word_new_line_6: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing'
+bip_39_word_new_line_7: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output'
+bip_39_word_new_line_8: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output
+
+  stem'
+bip_39_word_new_line_9: 'provide
+
+  eye
+
+  notice
+
+  outer
+
+  pulp
+
+  wing
+
+  output
+
+  stem
+
+  ketchup'
+bip_39_word_no_space_1: provide
+bip_39_word_no_space_10: provideeyenoticeouterpulpwingoutputstemketchupdisagree
+bip_39_word_no_space_11: provideeyenoticeouterpulpwingoutputstemketchupdisagreehazard
+bip_39_word_no_space_12: provideeyenoticeouterpulpwingoutputstemketchupdisagreehazardantenna
+bip_39_word_no_space_2: provideeye
+bip_39_word_no_space_3: provideeyenotice
+bip_39_word_no_space_4: provideeyenoticeouter
+bip_39_word_no_space_5: provideeyenoticeouterpulp
+bip_39_word_no_space_6: provideeyenoticeouterpulpwing
+bip_39_word_no_space_7: provideeyenoticeouterpulpwingoutput
+bip_39_word_no_space_8: provideeyenoticeouterpulpwingoutputstem
+bip_39_word_no_space_9: provideeyenoticeouterpulpwingoutputstemketchup
+bip_39_word_space_0:
+- provide
+- eye
+- notice
+- outer
+- pulp
+- wing
+- output
+- stem
+- ketchup
+- disagree
+- hazard
+- antenna
+bip_39_word_space_1: provide
+bip_39_word_space_10: provide eye notice outer pulp wing output stem ketchup disagree
+bip_39_word_space_11: provide eye notice outer pulp wing output stem ketchup disagree
+  hazard
+bip_39_word_space_12: provide eye notice outer pulp wing output stem ketchup disagree
+  hazard antenna
+bip_39_word_space_2: provide eye
+bip_39_word_space_3: provide eye notice
+bip_39_word_space_4: provide eye notice outer
+bip_39_word_space_5: provide eye notice outer pulp
+bip_39_word_space_6: provide eye notice outer pulp wing
+bip_39_word_space_7: provide eye notice outer pulp wing output
+bip_39_word_space_8: provide eye notice outer pulp wing output stem
+bip_39_word_space_9: provide eye notice outer pulp wing output stem ketchup
+bip_39_word_underscore_1: provide
+bip_39_word_underscore_10: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree
+bip_39_word_underscore_11: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree_hazard
+bip_39_word_underscore_12: provide_eye_notice_outer_pulp_wing_output_stem_ketchup_disagree_hazard_antenna
+bip_39_word_underscore_2: provide_eye
+bip_39_word_underscore_3: provide_eye_notice
+bip_39_word_underscore_4: provide_eye_notice_outer
+bip_39_word_underscore_5: provide_eye_notice_outer_pulp
+bip_39_word_underscore_6: provide_eye_notice_outer_pulp_wing
+bip_39_word_underscore_7: provide_eye_notice_outer_pulp_wing_output
+bip_39_word_underscore_8: provide_eye_notice_outer_pulp_wing_output_stem
+bip_39_word_underscore_9: provide_eye_notice_outer_pulp_wing_output_stem_ketchup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_2d5_18
 id_no_color: 042d518
 id_no_size: 04_2d5_18
 id_no_type: tray_04_2d5_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_2d5_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_2d5_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_2d5_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2064afj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2064afj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2064afj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 042D518
 name_no_size: 04 2D5 18
 name_no_size_short: 04 2D5 18
 name_no_type: Tray 04 2D5 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_2d5_18
 oomp_word: spades tomato melon
 oomp_word_emoji: ':spades: :tomato: :melon:'

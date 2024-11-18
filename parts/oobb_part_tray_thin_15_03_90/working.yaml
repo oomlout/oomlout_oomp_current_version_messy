@@ -1,3 +1,221 @@
+bip_39_word_dash_1: pet
+bip_39_word_dash_10: pet-desk-north-cluster-zone-plastic-clog-dirt-town-thunder
+bip_39_word_dash_11: pet-desk-north-cluster-zone-plastic-clog-dirt-town-thunder-damp
+bip_39_word_dash_12: pet-desk-north-cluster-zone-plastic-clog-dirt-town-thunder-damp-almost
+bip_39_word_dash_2: pet-desk
+bip_39_word_dash_3: pet-desk-north
+bip_39_word_dash_4: pet-desk-north-cluster
+bip_39_word_dash_5: pet-desk-north-cluster-zone
+bip_39_word_dash_6: pet-desk-north-cluster-zone-plastic
+bip_39_word_dash_7: pet-desk-north-cluster-zone-plastic-clog
+bip_39_word_dash_8: pet-desk-north-cluster-zone-plastic-clog-dirt
+bip_39_word_dash_9: pet-desk-north-cluster-zone-plastic-clog-dirt-town
+bip_39_word_new_br_1: pet
+bip_39_word_new_br_10: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder
+bip_39_word_new_br_11: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder<br>damp
+bip_39_word_new_br_12: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town<br>thunder<br>damp<br>almost
+bip_39_word_new_br_2: pet<br>desk
+bip_39_word_new_br_3: pet<br>desk<br>north
+bip_39_word_new_br_4: pet<br>desk<br>north<br>cluster
+bip_39_word_new_br_5: pet<br>desk<br>north<br>cluster<br>zone
+bip_39_word_new_br_6: pet<br>desk<br>north<br>cluster<br>zone<br>plastic
+bip_39_word_new_br_7: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog
+bip_39_word_new_br_8: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt
+bip_39_word_new_br_9: pet<br>desk<br>north<br>cluster<br>zone<br>plastic<br>clog<br>dirt<br>town
+bip_39_word_new_line_1: pet
+bip_39_word_new_line_10: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog
+
+  dirt
+
+  town
+
+  thunder'
+bip_39_word_new_line_11: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog
+
+  dirt
+
+  town
+
+  thunder
+
+  damp'
+bip_39_word_new_line_12: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog
+
+  dirt
+
+  town
+
+  thunder
+
+  damp
+
+  almost'
+bip_39_word_new_line_2: 'pet
+
+  desk'
+bip_39_word_new_line_3: 'pet
+
+  desk
+
+  north'
+bip_39_word_new_line_4: 'pet
+
+  desk
+
+  north
+
+  cluster'
+bip_39_word_new_line_5: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone'
+bip_39_word_new_line_6: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic'
+bip_39_word_new_line_7: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog'
+bip_39_word_new_line_8: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog
+
+  dirt'
+bip_39_word_new_line_9: 'pet
+
+  desk
+
+  north
+
+  cluster
+
+  zone
+
+  plastic
+
+  clog
+
+  dirt
+
+  town'
+bip_39_word_no_space_1: pet
+bip_39_word_no_space_10: petdesknorthclusterzoneplasticclogdirttownthunder
+bip_39_word_no_space_11: petdesknorthclusterzoneplasticclogdirttownthunderdamp
+bip_39_word_no_space_12: petdesknorthclusterzoneplasticclogdirttownthunderdampalmost
+bip_39_word_no_space_2: petdesk
+bip_39_word_no_space_3: petdesknorth
+bip_39_word_no_space_4: petdesknorthcluster
+bip_39_word_no_space_5: petdesknorthclusterzone
+bip_39_word_no_space_6: petdesknorthclusterzoneplastic
+bip_39_word_no_space_7: petdesknorthclusterzoneplasticclog
+bip_39_word_no_space_8: petdesknorthclusterzoneplasticclogdirt
+bip_39_word_no_space_9: petdesknorthclusterzoneplasticclogdirttown
+bip_39_word_space_0:
+- pet
+- desk
+- north
+- cluster
+- zone
+- plastic
+- clog
+- dirt
+- town
+- thunder
+- damp
+- almost
+bip_39_word_space_1: pet
+bip_39_word_space_10: pet desk north cluster zone plastic clog dirt town thunder
+bip_39_word_space_11: pet desk north cluster zone plastic clog dirt town thunder damp
+bip_39_word_space_12: pet desk north cluster zone plastic clog dirt town thunder damp
+  almost
+bip_39_word_space_2: pet desk
+bip_39_word_space_3: pet desk north
+bip_39_word_space_4: pet desk north cluster
+bip_39_word_space_5: pet desk north cluster zone
+bip_39_word_space_6: pet desk north cluster zone plastic
+bip_39_word_space_7: pet desk north cluster zone plastic clog
+bip_39_word_space_8: pet desk north cluster zone plastic clog dirt
+bip_39_word_space_9: pet desk north cluster zone plastic clog dirt town
+bip_39_word_underscore_1: pet
+bip_39_word_underscore_10: pet_desk_north_cluster_zone_plastic_clog_dirt_town_thunder
+bip_39_word_underscore_11: pet_desk_north_cluster_zone_plastic_clog_dirt_town_thunder_damp
+bip_39_word_underscore_12: pet_desk_north_cluster_zone_plastic_clog_dirt_town_thunder_damp_almost
+bip_39_word_underscore_2: pet_desk
+bip_39_word_underscore_3: pet_desk_north
+bip_39_word_underscore_4: pet_desk_north_cluster
+bip_39_word_underscore_5: pet_desk_north_cluster_zone
+bip_39_word_underscore_6: pet_desk_north_cluster_zone_plastic
+bip_39_word_underscore_7: pet_desk_north_cluster_zone_plastic_clog
+bip_39_word_underscore_8: pet_desk_north_cluster_zone_plastic_clog_dirt
+bip_39_word_underscore_9: pet_desk_north_cluster_zone_plastic_clog_dirt_town
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_15_03_90
 id_no_color: '150390'
 id_no_size: '15_03_90'
 id_no_type: tray_thin_15_03_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_03_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_03_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_03_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2048b5k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2048b5k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2048b5k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '150390'
 name_no_size: 15 03 90
 name_no_size_short: 15 03 90
 name_no_type: Tray Thin 15 03 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_03_90
 oomp_word: blossom new_moon bell
 oomp_word_emoji: ':blossom: :new_moon: :bell:'

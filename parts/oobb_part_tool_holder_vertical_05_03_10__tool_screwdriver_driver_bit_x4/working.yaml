@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rely
+bip_39_word_dash_10: rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum
+bip_39_word_dash_11: rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum-zero
+bip_39_word_dash_12: rely-napkin-today-lounge-afraid-custom-include-barely-hammer-museum-zero-adult
+bip_39_word_dash_2: rely-napkin
+bip_39_word_dash_3: rely-napkin-today
+bip_39_word_dash_4: rely-napkin-today-lounge
+bip_39_word_dash_5: rely-napkin-today-lounge-afraid
+bip_39_word_dash_6: rely-napkin-today-lounge-afraid-custom
+bip_39_word_dash_7: rely-napkin-today-lounge-afraid-custom-include
+bip_39_word_dash_8: rely-napkin-today-lounge-afraid-custom-include-barely
+bip_39_word_dash_9: rely-napkin-today-lounge-afraid-custom-include-barely-hammer
+bip_39_word_new_br_1: rely
+bip_39_word_new_br_10: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum
+bip_39_word_new_br_11: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum<br>zero
+bip_39_word_new_br_12: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer<br>museum<br>zero<br>adult
+bip_39_word_new_br_2: rely<br>napkin
+bip_39_word_new_br_3: rely<br>napkin<br>today
+bip_39_word_new_br_4: rely<br>napkin<br>today<br>lounge
+bip_39_word_new_br_5: rely<br>napkin<br>today<br>lounge<br>afraid
+bip_39_word_new_br_6: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom
+bip_39_word_new_br_7: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include
+bip_39_word_new_br_8: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely
+bip_39_word_new_br_9: rely<br>napkin<br>today<br>lounge<br>afraid<br>custom<br>include<br>barely<br>hammer
+bip_39_word_new_line_1: rely
+bip_39_word_new_line_10: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include
+
+  barely
+
+  hammer
+
+  museum'
+bip_39_word_new_line_11: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include
+
+  barely
+
+  hammer
+
+  museum
+
+  zero'
+bip_39_word_new_line_12: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include
+
+  barely
+
+  hammer
+
+  museum
+
+  zero
+
+  adult'
+bip_39_word_new_line_2: 'rely
+
+  napkin'
+bip_39_word_new_line_3: 'rely
+
+  napkin
+
+  today'
+bip_39_word_new_line_4: 'rely
+
+  napkin
+
+  today
+
+  lounge'
+bip_39_word_new_line_5: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid'
+bip_39_word_new_line_6: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom'
+bip_39_word_new_line_7: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include'
+bip_39_word_new_line_8: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include
+
+  barely'
+bip_39_word_new_line_9: 'rely
+
+  napkin
+
+  today
+
+  lounge
+
+  afraid
+
+  custom
+
+  include
+
+  barely
+
+  hammer'
+bip_39_word_no_space_1: rely
+bip_39_word_no_space_10: relynapkintodayloungeafraidcustomincludebarelyhammermuseum
+bip_39_word_no_space_11: relynapkintodayloungeafraidcustomincludebarelyhammermuseumzero
+bip_39_word_no_space_12: relynapkintodayloungeafraidcustomincludebarelyhammermuseumzeroadult
+bip_39_word_no_space_2: relynapkin
+bip_39_word_no_space_3: relynapkintoday
+bip_39_word_no_space_4: relynapkintodaylounge
+bip_39_word_no_space_5: relynapkintodayloungeafraid
+bip_39_word_no_space_6: relynapkintodayloungeafraidcustom
+bip_39_word_no_space_7: relynapkintodayloungeafraidcustominclude
+bip_39_word_no_space_8: relynapkintodayloungeafraidcustomincludebarely
+bip_39_word_no_space_9: relynapkintodayloungeafraidcustomincludebarelyhammer
+bip_39_word_space_0:
+- rely
+- napkin
+- today
+- lounge
+- afraid
+- custom
+- include
+- barely
+- hammer
+- museum
+- zero
+- adult
+bip_39_word_space_1: rely
+bip_39_word_space_10: rely napkin today lounge afraid custom include barely hammer
+  museum
+bip_39_word_space_11: rely napkin today lounge afraid custom include barely hammer
+  museum zero
+bip_39_word_space_12: rely napkin today lounge afraid custom include barely hammer
+  museum zero adult
+bip_39_word_space_2: rely napkin
+bip_39_word_space_3: rely napkin today
+bip_39_word_space_4: rely napkin today lounge
+bip_39_word_space_5: rely napkin today lounge afraid
+bip_39_word_space_6: rely napkin today lounge afraid custom
+bip_39_word_space_7: rely napkin today lounge afraid custom include
+bip_39_word_space_8: rely napkin today lounge afraid custom include barely
+bip_39_word_space_9: rely napkin today lounge afraid custom include barely hammer
+bip_39_word_underscore_1: rely
+bip_39_word_underscore_10: rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum
+bip_39_word_underscore_11: rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum_zero
+bip_39_word_underscore_12: rely_napkin_today_lounge_afraid_custom_include_barely_hammer_museum_zero_adult
+bip_39_word_underscore_2: rely_napkin
+bip_39_word_underscore_3: rely_napkin_today
+bip_39_word_underscore_4: rely_napkin_today_lounge
+bip_39_word_underscore_5: rely_napkin_today_lounge_afraid
+bip_39_word_underscore_6: rely_napkin_today_lounge_afraid_custom
+bip_39_word_underscore_7: rely_napkin_today_lounge_afraid_custom_include
+bip_39_word_underscore_8: rely_napkin_today_lounge_afraid_custom_include_barely
+bip_39_word_underscore_9: rely_napkin_today_lounge_afraid_custom_include_barely_hammer
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
 id_no_color: 050310toolscrewdriverdriverbitx4
 id_no_size: 05_03_10__tool_screwdriver_driver_bit_x4
 id_no_type: tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202f338
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202f338
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202f338
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050310Toolscrewdriverdriverbitx4
 name_no_size: 05 03 10  Tool Screwdriver Driver Bit X4
 name_no_size_short: 05 03 10  Tool Screwdriver Driver Bit X4
 name_no_type: Tool Holder Vertical 05 03 10  Tool Screwdriver Driver Bit X4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_05_03_10__tool_screwdriver_driver_bit_x4
 oomp_word: cow trident sunflower
 oomp_word_emoji: ':cow: :trident: :sunflower:'

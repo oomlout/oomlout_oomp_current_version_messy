@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Socket 2 54 mm 10 Pin Through Hole
+* name_short: 
 ### id
 * oomp_id: electronic_socket_2_54_mm_10_pin_through_hole
   * classification: electronic

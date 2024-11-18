@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cup
+bip_39_word_dash_10: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east
+bip_39_word_dash_11: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east-picture
+bip_39_word_dash_12: cup-elbow-neglect-tower-rail-crumble-someone-general-zone-east-picture-across
+bip_39_word_dash_2: cup-elbow
+bip_39_word_dash_3: cup-elbow-neglect
+bip_39_word_dash_4: cup-elbow-neglect-tower
+bip_39_word_dash_5: cup-elbow-neglect-tower-rail
+bip_39_word_dash_6: cup-elbow-neglect-tower-rail-crumble
+bip_39_word_dash_7: cup-elbow-neglect-tower-rail-crumble-someone
+bip_39_word_dash_8: cup-elbow-neglect-tower-rail-crumble-someone-general
+bip_39_word_dash_9: cup-elbow-neglect-tower-rail-crumble-someone-general-zone
+bip_39_word_new_br_1: cup
+bip_39_word_new_br_10: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east
+bip_39_word_new_br_11: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east<br>picture
+bip_39_word_new_br_12: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone<br>east<br>picture<br>across
+bip_39_word_new_br_2: cup<br>elbow
+bip_39_word_new_br_3: cup<br>elbow<br>neglect
+bip_39_word_new_br_4: cup<br>elbow<br>neglect<br>tower
+bip_39_word_new_br_5: cup<br>elbow<br>neglect<br>tower<br>rail
+bip_39_word_new_br_6: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble
+bip_39_word_new_br_7: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone
+bip_39_word_new_br_8: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general
+bip_39_word_new_br_9: cup<br>elbow<br>neglect<br>tower<br>rail<br>crumble<br>someone<br>general<br>zone
+bip_39_word_new_line_1: cup
+bip_39_word_new_line_10: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east'
+bip_39_word_new_line_11: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east
+
+  picture'
+bip_39_word_new_line_12: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone
+
+  east
+
+  picture
+
+  across'
+bip_39_word_new_line_2: 'cup
+
+  elbow'
+bip_39_word_new_line_3: 'cup
+
+  elbow
+
+  neglect'
+bip_39_word_new_line_4: 'cup
+
+  elbow
+
+  neglect
+
+  tower'
+bip_39_word_new_line_5: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail'
+bip_39_word_new_line_6: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble'
+bip_39_word_new_line_7: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone'
+bip_39_word_new_line_8: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general'
+bip_39_word_new_line_9: 'cup
+
+  elbow
+
+  neglect
+
+  tower
+
+  rail
+
+  crumble
+
+  someone
+
+  general
+
+  zone'
+bip_39_word_no_space_1: cup
+bip_39_word_no_space_10: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeast
+bip_39_word_no_space_11: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeastpicture
+bip_39_word_no_space_12: cupelbowneglecttowerrailcrumblesomeonegeneralzoneeastpictureacross
+bip_39_word_no_space_2: cupelbow
+bip_39_word_no_space_3: cupelbowneglect
+bip_39_word_no_space_4: cupelbowneglecttower
+bip_39_word_no_space_5: cupelbowneglecttowerrail
+bip_39_word_no_space_6: cupelbowneglecttowerrailcrumble
+bip_39_word_no_space_7: cupelbowneglecttowerrailcrumblesomeone
+bip_39_word_no_space_8: cupelbowneglecttowerrailcrumblesomeonegeneral
+bip_39_word_no_space_9: cupelbowneglecttowerrailcrumblesomeonegeneralzone
+bip_39_word_space_0:
+- cup
+- elbow
+- neglect
+- tower
+- rail
+- crumble
+- someone
+- general
+- zone
+- east
+- picture
+- across
+bip_39_word_space_1: cup
+bip_39_word_space_10: cup elbow neglect tower rail crumble someone general zone east
+bip_39_word_space_11: cup elbow neglect tower rail crumble someone general zone east
+  picture
+bip_39_word_space_12: cup elbow neglect tower rail crumble someone general zone east
+  picture across
+bip_39_word_space_2: cup elbow
+bip_39_word_space_3: cup elbow neglect
+bip_39_word_space_4: cup elbow neglect tower
+bip_39_word_space_5: cup elbow neglect tower rail
+bip_39_word_space_6: cup elbow neglect tower rail crumble
+bip_39_word_space_7: cup elbow neglect tower rail crumble someone
+bip_39_word_space_8: cup elbow neglect tower rail crumble someone general
+bip_39_word_space_9: cup elbow neglect tower rail crumble someone general zone
+bip_39_word_underscore_1: cup
+bip_39_word_underscore_10: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east
+bip_39_word_underscore_11: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east_picture
+bip_39_word_underscore_12: cup_elbow_neglect_tower_rail_crumble_someone_general_zone_east_picture_across
+bip_39_word_underscore_2: cup_elbow
+bip_39_word_underscore_3: cup_elbow_neglect
+bip_39_word_underscore_4: cup_elbow_neglect_tower
+bip_39_word_underscore_5: cup_elbow_neglect_tower_rail
+bip_39_word_underscore_6: cup_elbow_neglect_tower_rail_crumble
+bip_39_word_underscore_7: cup_elbow_neglect_tower_rail_crumble_someone
+bip_39_word_underscore_8: cup_elbow_neglect_tower_rail_crumble_someone_general
+bip_39_word_underscore_9: cup_elbow_neglect_tower_rail_crumble_someone_general_zone
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
 id_no_color: 2_mm_id_6_mm_od_2_5_mm_depth
 id_no_size: MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
 id_no_type: MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201gdch
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201gdch
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201gdch
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 2 mm ID 6 mm OD 2 5 mm Depth
 name_no_size: Mr62 Size 2 mm ID 6 mm OD 2 5 mm Depth
 name_no_size_short: Mr62 Size 2 Mm Id 6 Mm Od 2 5 Mm Depth
 name_no_type: Mr Series Mr62 Size 2 mm ID 6 mm OD 2 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brMR62
+oomlout_short_code_upper: BRMR62
 oomp_key: oomp_hardware_bearing_MR_series_MR62_size_2_mm_id_6_mm_od_2_5_mm_depth
 oomp_word: ear hatched_chick pushpin
 oomp_word_emoji: ':ear: :hatched_chick: :pushpin:'

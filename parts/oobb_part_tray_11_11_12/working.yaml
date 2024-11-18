@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lonely
+bip_39_word_dash_10: lonely-kangaroo-farm-tackle-action-will-jelly-airport-lesson-miracle
+bip_39_word_dash_11: lonely-kangaroo-farm-tackle-action-will-jelly-airport-lesson-miracle-globe
+bip_39_word_dash_12: lonely-kangaroo-farm-tackle-action-will-jelly-airport-lesson-miracle-globe-allow
+bip_39_word_dash_2: lonely-kangaroo
+bip_39_word_dash_3: lonely-kangaroo-farm
+bip_39_word_dash_4: lonely-kangaroo-farm-tackle
+bip_39_word_dash_5: lonely-kangaroo-farm-tackle-action
+bip_39_word_dash_6: lonely-kangaroo-farm-tackle-action-will
+bip_39_word_dash_7: lonely-kangaroo-farm-tackle-action-will-jelly
+bip_39_word_dash_8: lonely-kangaroo-farm-tackle-action-will-jelly-airport
+bip_39_word_dash_9: lonely-kangaroo-farm-tackle-action-will-jelly-airport-lesson
+bip_39_word_new_br_1: lonely
+bip_39_word_new_br_10: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle
+bip_39_word_new_br_11: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe
+bip_39_word_new_br_12: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson<br>miracle<br>globe<br>allow
+bip_39_word_new_br_2: lonely<br>kangaroo
+bip_39_word_new_br_3: lonely<br>kangaroo<br>farm
+bip_39_word_new_br_4: lonely<br>kangaroo<br>farm<br>tackle
+bip_39_word_new_br_5: lonely<br>kangaroo<br>farm<br>tackle<br>action
+bip_39_word_new_br_6: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will
+bip_39_word_new_br_7: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly
+bip_39_word_new_br_8: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport
+bip_39_word_new_br_9: lonely<br>kangaroo<br>farm<br>tackle<br>action<br>will<br>jelly<br>airport<br>lesson
+bip_39_word_new_line_1: lonely
+bip_39_word_new_line_10: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle'
+bip_39_word_new_line_11: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle
+
+  globe'
+bip_39_word_new_line_12: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson
+
+  miracle
+
+  globe
+
+  allow'
+bip_39_word_new_line_2: 'lonely
+
+  kangaroo'
+bip_39_word_new_line_3: 'lonely
+
+  kangaroo
+
+  farm'
+bip_39_word_new_line_4: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle'
+bip_39_word_new_line_5: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action'
+bip_39_word_new_line_6: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will'
+bip_39_word_new_line_7: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly'
+bip_39_word_new_line_8: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport'
+bip_39_word_new_line_9: 'lonely
+
+  kangaroo
+
+  farm
+
+  tackle
+
+  action
+
+  will
+
+  jelly
+
+  airport
+
+  lesson'
+bip_39_word_no_space_1: lonely
+bip_39_word_no_space_10: lonelykangaroofarmtackleactionwilljellyairportlessonmiracle
+bip_39_word_no_space_11: lonelykangaroofarmtackleactionwilljellyairportlessonmiracleglobe
+bip_39_word_no_space_12: lonelykangaroofarmtackleactionwilljellyairportlessonmiracleglobeallow
+bip_39_word_no_space_2: lonelykangaroo
+bip_39_word_no_space_3: lonelykangaroofarm
+bip_39_word_no_space_4: lonelykangaroofarmtackle
+bip_39_word_no_space_5: lonelykangaroofarmtackleaction
+bip_39_word_no_space_6: lonelykangaroofarmtackleactionwill
+bip_39_word_no_space_7: lonelykangaroofarmtackleactionwilljelly
+bip_39_word_no_space_8: lonelykangaroofarmtackleactionwilljellyairport
+bip_39_word_no_space_9: lonelykangaroofarmtackleactionwilljellyairportlesson
+bip_39_word_space_0:
+- lonely
+- kangaroo
+- farm
+- tackle
+- action
+- will
+- jelly
+- airport
+- lesson
+- miracle
+- globe
+- allow
+bip_39_word_space_1: lonely
+bip_39_word_space_10: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle
+bip_39_word_space_11: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle globe
+bip_39_word_space_12: lonely kangaroo farm tackle action will jelly airport lesson
+  miracle globe allow
+bip_39_word_space_2: lonely kangaroo
+bip_39_word_space_3: lonely kangaroo farm
+bip_39_word_space_4: lonely kangaroo farm tackle
+bip_39_word_space_5: lonely kangaroo farm tackle action
+bip_39_word_space_6: lonely kangaroo farm tackle action will
+bip_39_word_space_7: lonely kangaroo farm tackle action will jelly
+bip_39_word_space_8: lonely kangaroo farm tackle action will jelly airport
+bip_39_word_space_9: lonely kangaroo farm tackle action will jelly airport lesson
+bip_39_word_underscore_1: lonely
+bip_39_word_underscore_10: lonely_kangaroo_farm_tackle_action_will_jelly_airport_lesson_miracle
+bip_39_word_underscore_11: lonely_kangaroo_farm_tackle_action_will_jelly_airport_lesson_miracle_globe
+bip_39_word_underscore_12: lonely_kangaroo_farm_tackle_action_will_jelly_airport_lesson_miracle_globe_allow
+bip_39_word_underscore_2: lonely_kangaroo
+bip_39_word_underscore_3: lonely_kangaroo_farm
+bip_39_word_underscore_4: lonely_kangaroo_farm_tackle
+bip_39_word_underscore_5: lonely_kangaroo_farm_tackle_action
+bip_39_word_underscore_6: lonely_kangaroo_farm_tackle_action_will
+bip_39_word_underscore_7: lonely_kangaroo_farm_tackle_action_will_jelly
+bip_39_word_underscore_8: lonely_kangaroo_farm_tackle_action_will_jelly_airport
+bip_39_word_underscore_9: lonely_kangaroo_farm_tackle_action_will_jelly_airport_lesson
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_11_11_12
 id_no_color: '111112'
 id_no_size: '11_11_12'
 id_no_type: tray_11_11_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_11_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_11_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_11_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045zfn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045zfn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045zfn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111112'
 name_no_size: 11 11 12
 name_no_size_short: 11 11 12
 name_no_type: Tray 11 11 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_11_12
 oomp_word: palm_tree lollipop pencil
 oomp_word_emoji: ':palm_tree: :lollipop: :pencil:'

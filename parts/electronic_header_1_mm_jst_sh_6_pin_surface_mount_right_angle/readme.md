@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 1 mm Jst Sh 6 Pin Surface Mount Right Angle
+* name_short: 
 ### id
 * oomp_id: electronic_header_1_mm_jst_sh_6_pin_surface_mount_right_angle
   * classification: electronic

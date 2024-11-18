@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Bean Refried Bean Tin 435 Gram Elpaso
+* name_short: Refried Beans
 ### id
 * oomp_id: food_bean_refried_bean_tin_435_gram_elpaso
   * classification: food

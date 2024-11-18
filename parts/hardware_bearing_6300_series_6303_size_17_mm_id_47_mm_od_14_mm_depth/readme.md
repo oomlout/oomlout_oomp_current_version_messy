@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6303 Size 17 mm ID 47 mm OD 14 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
   * classification: hardware

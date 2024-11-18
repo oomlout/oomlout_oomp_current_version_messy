@@ -1,3 +1,220 @@
+bip_39_word_dash_1: siren
+bip_39_word_dash_10: siren-gap-aware-occur-kit-bag-river-notable-urge-riot
+bip_39_word_dash_11: siren-gap-aware-occur-kit-bag-river-notable-urge-riot-rack
+bip_39_word_dash_12: siren-gap-aware-occur-kit-bag-river-notable-urge-riot-rack-august
+bip_39_word_dash_2: siren-gap
+bip_39_word_dash_3: siren-gap-aware
+bip_39_word_dash_4: siren-gap-aware-occur
+bip_39_word_dash_5: siren-gap-aware-occur-kit
+bip_39_word_dash_6: siren-gap-aware-occur-kit-bag
+bip_39_word_dash_7: siren-gap-aware-occur-kit-bag-river
+bip_39_word_dash_8: siren-gap-aware-occur-kit-bag-river-notable
+bip_39_word_dash_9: siren-gap-aware-occur-kit-bag-river-notable-urge
+bip_39_word_new_br_1: siren
+bip_39_word_new_br_10: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge<br>riot
+bip_39_word_new_br_11: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge<br>riot<br>rack
+bip_39_word_new_br_12: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge<br>riot<br>rack<br>august
+bip_39_word_new_br_2: siren<br>gap
+bip_39_word_new_br_3: siren<br>gap<br>aware
+bip_39_word_new_br_4: siren<br>gap<br>aware<br>occur
+bip_39_word_new_br_5: siren<br>gap<br>aware<br>occur<br>kit
+bip_39_word_new_br_6: siren<br>gap<br>aware<br>occur<br>kit<br>bag
+bip_39_word_new_br_7: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river
+bip_39_word_new_br_8: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable
+bip_39_word_new_br_9: siren<br>gap<br>aware<br>occur<br>kit<br>bag<br>river<br>notable<br>urge
+bip_39_word_new_line_1: siren
+bip_39_word_new_line_10: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river
+
+  notable
+
+  urge
+
+  riot'
+bip_39_word_new_line_11: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river
+
+  notable
+
+  urge
+
+  riot
+
+  rack'
+bip_39_word_new_line_12: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river
+
+  notable
+
+  urge
+
+  riot
+
+  rack
+
+  august'
+bip_39_word_new_line_2: 'siren
+
+  gap'
+bip_39_word_new_line_3: 'siren
+
+  gap
+
+  aware'
+bip_39_word_new_line_4: 'siren
+
+  gap
+
+  aware
+
+  occur'
+bip_39_word_new_line_5: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit'
+bip_39_word_new_line_6: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag'
+bip_39_word_new_line_7: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river'
+bip_39_word_new_line_8: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river
+
+  notable'
+bip_39_word_new_line_9: 'siren
+
+  gap
+
+  aware
+
+  occur
+
+  kit
+
+  bag
+
+  river
+
+  notable
+
+  urge'
+bip_39_word_no_space_1: siren
+bip_39_word_no_space_10: sirengapawareoccurkitbagrivernotableurgeriot
+bip_39_word_no_space_11: sirengapawareoccurkitbagrivernotableurgeriotrack
+bip_39_word_no_space_12: sirengapawareoccurkitbagrivernotableurgeriotrackaugust
+bip_39_word_no_space_2: sirengap
+bip_39_word_no_space_3: sirengapaware
+bip_39_word_no_space_4: sirengapawareoccur
+bip_39_word_no_space_5: sirengapawareoccurkit
+bip_39_word_no_space_6: sirengapawareoccurkitbag
+bip_39_word_no_space_7: sirengapawareoccurkitbagriver
+bip_39_word_no_space_8: sirengapawareoccurkitbagrivernotable
+bip_39_word_no_space_9: sirengapawareoccurkitbagrivernotableurge
+bip_39_word_space_0:
+- siren
+- gap
+- aware
+- occur
+- kit
+- bag
+- river
+- notable
+- urge
+- riot
+- rack
+- august
+bip_39_word_space_1: siren
+bip_39_word_space_10: siren gap aware occur kit bag river notable urge riot
+bip_39_word_space_11: siren gap aware occur kit bag river notable urge riot rack
+bip_39_word_space_12: siren gap aware occur kit bag river notable urge riot rack august
+bip_39_word_space_2: siren gap
+bip_39_word_space_3: siren gap aware
+bip_39_word_space_4: siren gap aware occur
+bip_39_word_space_5: siren gap aware occur kit
+bip_39_word_space_6: siren gap aware occur kit bag
+bip_39_word_space_7: siren gap aware occur kit bag river
+bip_39_word_space_8: siren gap aware occur kit bag river notable
+bip_39_word_space_9: siren gap aware occur kit bag river notable urge
+bip_39_word_underscore_1: siren
+bip_39_word_underscore_10: siren_gap_aware_occur_kit_bag_river_notable_urge_riot
+bip_39_word_underscore_11: siren_gap_aware_occur_kit_bag_river_notable_urge_riot_rack
+bip_39_word_underscore_12: siren_gap_aware_occur_kit_bag_river_notable_urge_riot_rack_august
+bip_39_word_underscore_2: siren_gap
+bip_39_word_underscore_3: siren_gap_aware
+bip_39_word_underscore_4: siren_gap_aware_occur
+bip_39_word_underscore_5: siren_gap_aware_occur_kit
+bip_39_word_underscore_6: siren_gap_aware_occur_kit_bag
+bip_39_word_underscore_7: siren_gap_aware_occur_kit_bag_river
+bip_39_word_underscore_8: siren_gap_aware_occur_kit_bag_river_notable
+bip_39_word_underscore_9: siren_gap_aware_occur_kit_bag_river_notable_urge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +299,14 @@ id_no_class: part_tray_02_11_60
 id_no_color: '021160'
 id_no_size: '02_11_60'
 id_no_type: tray_02_11_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_11_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_11_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209hv72
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209hv72
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209hv72
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +332,7 @@ name_no_color: '021160'
 name_no_size: 02 11 60
 name_no_size_short: 02 11 60
 name_no_type: Tray 02 11 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_11_60
 oomp_word: two bouquet zap
 oomp_word_emoji: ':two: :bouquet: :zap:'

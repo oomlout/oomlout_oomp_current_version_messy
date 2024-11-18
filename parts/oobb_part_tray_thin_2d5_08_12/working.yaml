@@ -1,3 +1,223 @@
+bip_39_word_dash_1: giraffe
+bip_39_word_dash_10: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march
+bip_39_word_dash_11: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march-flower
+bip_39_word_dash_12: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey-march-flower-advance
+bip_39_word_dash_2: giraffe-palace
+bip_39_word_dash_3: giraffe-palace-very
+bip_39_word_dash_4: giraffe-palace-very-bird
+bip_39_word_dash_5: giraffe-palace-very-bird-shuffle
+bip_39_word_dash_6: giraffe-palace-very-bird-shuffle-ketchup
+bip_39_word_dash_7: giraffe-palace-very-bird-shuffle-ketchup-tiger
+bip_39_word_dash_8: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue
+bip_39_word_dash_9: giraffe-palace-very-bird-shuffle-ketchup-tiger-fatigue-obey
+bip_39_word_new_br_1: giraffe
+bip_39_word_new_br_10: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march
+bip_39_word_new_br_11: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower
+bip_39_word_new_br_12: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey<br>march<br>flower<br>advance
+bip_39_word_new_br_2: giraffe<br>palace
+bip_39_word_new_br_3: giraffe<br>palace<br>very
+bip_39_word_new_br_4: giraffe<br>palace<br>very<br>bird
+bip_39_word_new_br_5: giraffe<br>palace<br>very<br>bird<br>shuffle
+bip_39_word_new_br_6: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup
+bip_39_word_new_br_7: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger
+bip_39_word_new_br_8: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue
+bip_39_word_new_br_9: giraffe<br>palace<br>very<br>bird<br>shuffle<br>ketchup<br>tiger<br>fatigue<br>obey
+bip_39_word_new_line_1: giraffe
+bip_39_word_new_line_10: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger
+
+  fatigue
+
+  obey
+
+  march'
+bip_39_word_new_line_11: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger
+
+  fatigue
+
+  obey
+
+  march
+
+  flower'
+bip_39_word_new_line_12: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger
+
+  fatigue
+
+  obey
+
+  march
+
+  flower
+
+  advance'
+bip_39_word_new_line_2: 'giraffe
+
+  palace'
+bip_39_word_new_line_3: 'giraffe
+
+  palace
+
+  very'
+bip_39_word_new_line_4: 'giraffe
+
+  palace
+
+  very
+
+  bird'
+bip_39_word_new_line_5: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle'
+bip_39_word_new_line_6: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup'
+bip_39_word_new_line_7: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger'
+bip_39_word_new_line_8: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger
+
+  fatigue'
+bip_39_word_new_line_9: 'giraffe
+
+  palace
+
+  very
+
+  bird
+
+  shuffle
+
+  ketchup
+
+  tiger
+
+  fatigue
+
+  obey'
+bip_39_word_no_space_1: giraffe
+bip_39_word_no_space_10: giraffepalaceverybirdshuffleketchuptigerfatigueobeymarch
+bip_39_word_no_space_11: giraffepalaceverybirdshuffleketchuptigerfatigueobeymarchflower
+bip_39_word_no_space_12: giraffepalaceverybirdshuffleketchuptigerfatigueobeymarchfloweradvance
+bip_39_word_no_space_2: giraffepalace
+bip_39_word_no_space_3: giraffepalacevery
+bip_39_word_no_space_4: giraffepalaceverybird
+bip_39_word_no_space_5: giraffepalaceverybirdshuffle
+bip_39_word_no_space_6: giraffepalaceverybirdshuffleketchup
+bip_39_word_no_space_7: giraffepalaceverybirdshuffleketchuptiger
+bip_39_word_no_space_8: giraffepalaceverybirdshuffleketchuptigerfatigue
+bip_39_word_no_space_9: giraffepalaceverybirdshuffleketchuptigerfatigueobey
+bip_39_word_space_0:
+- giraffe
+- palace
+- very
+- bird
+- shuffle
+- ketchup
+- tiger
+- fatigue
+- obey
+- march
+- flower
+- advance
+bip_39_word_space_1: giraffe
+bip_39_word_space_10: giraffe palace very bird shuffle ketchup tiger fatigue obey
+  march
+bip_39_word_space_11: giraffe palace very bird shuffle ketchup tiger fatigue obey
+  march flower
+bip_39_word_space_12: giraffe palace very bird shuffle ketchup tiger fatigue obey
+  march flower advance
+bip_39_word_space_2: giraffe palace
+bip_39_word_space_3: giraffe palace very
+bip_39_word_space_4: giraffe palace very bird
+bip_39_word_space_5: giraffe palace very bird shuffle
+bip_39_word_space_6: giraffe palace very bird shuffle ketchup
+bip_39_word_space_7: giraffe palace very bird shuffle ketchup tiger
+bip_39_word_space_8: giraffe palace very bird shuffle ketchup tiger fatigue
+bip_39_word_space_9: giraffe palace very bird shuffle ketchup tiger fatigue obey
+bip_39_word_underscore_1: giraffe
+bip_39_word_underscore_10: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march
+bip_39_word_underscore_11: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march_flower
+bip_39_word_underscore_12: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey_march_flower_advance
+bip_39_word_underscore_2: giraffe_palace
+bip_39_word_underscore_3: giraffe_palace_very
+bip_39_word_underscore_4: giraffe_palace_very_bird
+bip_39_word_underscore_5: giraffe_palace_very_bird_shuffle
+bip_39_word_underscore_6: giraffe_palace_very_bird_shuffle_ketchup
+bip_39_word_underscore_7: giraffe_palace_very_bird_shuffle_ketchup_tiger
+bip_39_word_underscore_8: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue
+bip_39_word_underscore_9: giraffe_palace_very_bird_shuffle_ketchup_tiger_fatigue_obey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_2d5_08_12
 id_no_color: 2d50812
 id_no_size: 2d5_08_12
 id_no_type: tray_thin_2d5_08_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_08_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_08_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_08_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202g2ld
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202g2ld
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202g2ld
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 2D50812
 name_no_size: 2D5 08 12
 name_no_size_short: 2D5 08 12
 name_no_type: Tray Thin 2D5 08 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_08_12
 oomp_word: monkey eyeglasses feet
 oomp_word_emoji: ':monkey: :eyeglasses: :feet:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 05 05 10 Nm 8 mm Tape Width 3 mm Tape Thickness  3
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :blush: :heart: :scroll:
 * md5_6_alpha: 2vt9
 * md5_6: 020d8d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202vt9)
+[2x1](http://192.168.1.242:1112/?label=oomp%202vt9)
+[6x4](http://192.168.1.55:1112/?label=oomp%202vt9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ real |
 | id_no_color | 050510nm8mmtapewidth3mmtapethickness3 |  
 | id_no_size | 05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
 | id_no_type | smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202vt9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202vt9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202vt9 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ real |
 | name_no_size | 05 05 10 Nm 8 mm Tape Width 3 mm Tape Thickness  3 |  
 | name_no_size_short | 05 05 10 Nm 8 Mm Tape Width 3 Mm Tape Thickness  3 |  
 | name_no_type | SMD Magazine 05 05 10 Nm 8 mm Tape Width 3 mm Tape Thickness  3 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_3_mm_tape_thickness__3 |  
 | oomp_word | blush heart scroll |  
 | oomp_word_emoji | :blush: :heart: :scroll: |  

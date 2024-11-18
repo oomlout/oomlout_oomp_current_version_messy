@@ -1,3 +1,223 @@
+bip_39_word_dash_1: panic
+bip_39_word_dash_10: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork
+bip_39_word_dash_11: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork-immense
+bip_39_word_dash_12: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard-artwork-immense-above
+bip_39_word_dash_2: panic-frequent
+bip_39_word_dash_3: panic-frequent-suffer
+bip_39_word_dash_4: panic-frequent-suffer-arrow
+bip_39_word_dash_5: panic-frequent-suffer-arrow-story
+bip_39_word_dash_6: panic-frequent-suffer-arrow-story-brain
+bip_39_word_dash_7: panic-frequent-suffer-arrow-story-brain-tiny
+bip_39_word_dash_8: panic-frequent-suffer-arrow-story-brain-tiny-below
+bip_39_word_dash_9: panic-frequent-suffer-arrow-story-brain-tiny-below-cupboard
+bip_39_word_new_br_1: panic
+bip_39_word_new_br_10: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork
+bip_39_word_new_br_11: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense
+bip_39_word_new_br_12: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard<br>artwork<br>immense<br>above
+bip_39_word_new_br_2: panic<br>frequent
+bip_39_word_new_br_3: panic<br>frequent<br>suffer
+bip_39_word_new_br_4: panic<br>frequent<br>suffer<br>arrow
+bip_39_word_new_br_5: panic<br>frequent<br>suffer<br>arrow<br>story
+bip_39_word_new_br_6: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain
+bip_39_word_new_br_7: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny
+bip_39_word_new_br_8: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below
+bip_39_word_new_br_9: panic<br>frequent<br>suffer<br>arrow<br>story<br>brain<br>tiny<br>below<br>cupboard
+bip_39_word_new_line_1: panic
+bip_39_word_new_line_10: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny
+
+  below
+
+  cupboard
+
+  artwork'
+bip_39_word_new_line_11: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny
+
+  below
+
+  cupboard
+
+  artwork
+
+  immense'
+bip_39_word_new_line_12: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny
+
+  below
+
+  cupboard
+
+  artwork
+
+  immense
+
+  above'
+bip_39_word_new_line_2: 'panic
+
+  frequent'
+bip_39_word_new_line_3: 'panic
+
+  frequent
+
+  suffer'
+bip_39_word_new_line_4: 'panic
+
+  frequent
+
+  suffer
+
+  arrow'
+bip_39_word_new_line_5: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story'
+bip_39_word_new_line_6: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain'
+bip_39_word_new_line_7: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny'
+bip_39_word_new_line_8: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny
+
+  below'
+bip_39_word_new_line_9: 'panic
+
+  frequent
+
+  suffer
+
+  arrow
+
+  story
+
+  brain
+
+  tiny
+
+  below
+
+  cupboard'
+bip_39_word_no_space_1: panic
+bip_39_word_no_space_10: panicfrequentsufferarrowstorybraintinybelowcupboardartwork
+bip_39_word_no_space_11: panicfrequentsufferarrowstorybraintinybelowcupboardartworkimmense
+bip_39_word_no_space_12: panicfrequentsufferarrowstorybraintinybelowcupboardartworkimmenseabove
+bip_39_word_no_space_2: panicfrequent
+bip_39_word_no_space_3: panicfrequentsuffer
+bip_39_word_no_space_4: panicfrequentsufferarrow
+bip_39_word_no_space_5: panicfrequentsufferarrowstory
+bip_39_word_no_space_6: panicfrequentsufferarrowstorybrain
+bip_39_word_no_space_7: panicfrequentsufferarrowstorybraintiny
+bip_39_word_no_space_8: panicfrequentsufferarrowstorybraintinybelow
+bip_39_word_no_space_9: panicfrequentsufferarrowstorybraintinybelowcupboard
+bip_39_word_space_0:
+- panic
+- frequent
+- suffer
+- arrow
+- story
+- brain
+- tiny
+- below
+- cupboard
+- artwork
+- immense
+- above
+bip_39_word_space_1: panic
+bip_39_word_space_10: panic frequent suffer arrow story brain tiny below cupboard
+  artwork
+bip_39_word_space_11: panic frequent suffer arrow story brain tiny below cupboard
+  artwork immense
+bip_39_word_space_12: panic frequent suffer arrow story brain tiny below cupboard
+  artwork immense above
+bip_39_word_space_2: panic frequent
+bip_39_word_space_3: panic frequent suffer
+bip_39_word_space_4: panic frequent suffer arrow
+bip_39_word_space_5: panic frequent suffer arrow story
+bip_39_word_space_6: panic frequent suffer arrow story brain
+bip_39_word_space_7: panic frequent suffer arrow story brain tiny
+bip_39_word_space_8: panic frequent suffer arrow story brain tiny below
+bip_39_word_space_9: panic frequent suffer arrow story brain tiny below cupboard
+bip_39_word_underscore_1: panic
+bip_39_word_underscore_10: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork
+bip_39_word_underscore_11: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork_immense
+bip_39_word_underscore_12: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard_artwork_immense_above
+bip_39_word_underscore_2: panic_frequent
+bip_39_word_underscore_3: panic_frequent_suffer
+bip_39_word_underscore_4: panic_frequent_suffer_arrow
+bip_39_word_underscore_5: panic_frequent_suffer_arrow_story
+bip_39_word_underscore_6: panic_frequent_suffer_arrow_story_brain
+bip_39_word_underscore_7: panic_frequent_suffer_arrow_story_brain_tiny
+bip_39_word_underscore_8: panic_frequent_suffer_arrow_story_brain_tiny_below
+bip_39_word_underscore_9: panic_frequent_suffer_arrow_story_brain_tiny_below_cupboard
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_shaft_0d5__nut_small
 id_no_color: 0d5nutsmall
 id_no_size: 0d5__nut_small
 id_no_type: shaft_0d5__nut_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_0d5__nut_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_0d5__nut_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_0d5__nut_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20chdv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20chdv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20chdv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0D5Nutsmall
 name_no_size: 0D5  Nut Small
 name_no_size_short: 0D5  Nut Small
 name_no_type: Shaft 0D5  Nut Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_0d5__nut_small
 oomp_word: scream rowboat grin
 oomp_word_emoji: ':scream: :rowboat: :grin:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 40
+* name_short: 
 ### id
 * oomp_id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :shirt: :pear: :cow:
 * md5_6_alpha: 6qr0d
 * md5_6: acd13d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206qr0d)
+[2x1](http://192.168.1.242:1112/?label=oomp%206qr0d)
+[6x4](http://192.168.1.55:1112/?label=oomp%206qr0d)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ twice |
 | id_no_color | hardwarem340 |  
 | id_no_size | hardware_m3_40 |  
 | id_no_type | screw_socket_cap_hardware_screw_socket_cap_m3_40 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206qr0d |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206qr0d |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206qr0d |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ twice |
 | name_no_size | Hardware M3 40 |  
 | name_no_size_short | Hardware M3 40 |  
 | name_no_type | Screw Socket Cap Hardware Screw Socket Cap M3 40 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_40 |  
 | oomp_word | shirt pear cow |  
 | oomp_word_emoji | :shirt: :pear: :cow: |  

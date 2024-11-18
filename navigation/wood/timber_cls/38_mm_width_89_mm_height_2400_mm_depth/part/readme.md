@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Wood Timber Cls 38 mm Width 89 mm Height 2400 mm Depth
+* name_short: 
 ### id
 * oomp_id: wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth
   * classification: wood
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ghost: :flags: :rooster:
 * md5_6_alpha: 4kz8b
 * md5_6: 75735b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204kz8b)
+[2x1](http://192.168.1.242:1112/?label=oomp%204kz8b)
+[6x4](http://192.168.1.55:1112/?label=oomp%204kz8b)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ mountain |
 | id_no_color | 38mmwidth89mmheight2400mmdepth |  
 | id_no_size | 38_mm_width_89_mm_height_2400_mm_depth |  
 | id_no_type | 38_mm_width_89_mm_height_2400_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204kz8b |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204kz8b |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204kz8b |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -258,6 +291,7 @@ mountain |
 | name_no_size | 38 mm Width 89 mm Height 2400 mm Depth |  
 | name_no_size_short | 38 Mm Width 89 Mm Height 2400 Mm Depth |  
 | name_no_type | 38 mm Width 89 mm Height 2400 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth |  
 | oomp_word | ghost flags rooster |  
 | oomp_word_emoji | :ghost: :flags: :rooster: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: member
+bip_39_word_dash_10: member-strike-choice-orbit-seminar-until-couple-income-crack-avocado
+bip_39_word_dash_11: member-strike-choice-orbit-seminar-until-couple-income-crack-avocado-exhaust
+bip_39_word_dash_12: member-strike-choice-orbit-seminar-until-couple-income-crack-avocado-exhaust-acoustic
+bip_39_word_dash_2: member-strike
+bip_39_word_dash_3: member-strike-choice
+bip_39_word_dash_4: member-strike-choice-orbit
+bip_39_word_dash_5: member-strike-choice-orbit-seminar
+bip_39_word_dash_6: member-strike-choice-orbit-seminar-until
+bip_39_word_dash_7: member-strike-choice-orbit-seminar-until-couple
+bip_39_word_dash_8: member-strike-choice-orbit-seminar-until-couple-income
+bip_39_word_dash_9: member-strike-choice-orbit-seminar-until-couple-income-crack
+bip_39_word_new_br_1: member
+bip_39_word_new_br_10: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado
+bip_39_word_new_br_11: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust
+bip_39_word_new_br_12: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack<br>avocado<br>exhaust<br>acoustic
+bip_39_word_new_br_2: member<br>strike
+bip_39_word_new_br_3: member<br>strike<br>choice
+bip_39_word_new_br_4: member<br>strike<br>choice<br>orbit
+bip_39_word_new_br_5: member<br>strike<br>choice<br>orbit<br>seminar
+bip_39_word_new_br_6: member<br>strike<br>choice<br>orbit<br>seminar<br>until
+bip_39_word_new_br_7: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple
+bip_39_word_new_br_8: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income
+bip_39_word_new_br_9: member<br>strike<br>choice<br>orbit<br>seminar<br>until<br>couple<br>income<br>crack
+bip_39_word_new_line_1: member
+bip_39_word_new_line_10: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado'
+bip_39_word_new_line_11: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado
+
+  exhaust'
+bip_39_word_new_line_12: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack
+
+  avocado
+
+  exhaust
+
+  acoustic'
+bip_39_word_new_line_2: 'member
+
+  strike'
+bip_39_word_new_line_3: 'member
+
+  strike
+
+  choice'
+bip_39_word_new_line_4: 'member
+
+  strike
+
+  choice
+
+  orbit'
+bip_39_word_new_line_5: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar'
+bip_39_word_new_line_6: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until'
+bip_39_word_new_line_7: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple'
+bip_39_word_new_line_8: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income'
+bip_39_word_new_line_9: 'member
+
+  strike
+
+  choice
+
+  orbit
+
+  seminar
+
+  until
+
+  couple
+
+  income
+
+  crack'
+bip_39_word_no_space_1: member
+bip_39_word_no_space_10: memberstrikechoiceorbitseminaruntilcoupleincomecrackavocado
+bip_39_word_no_space_11: memberstrikechoiceorbitseminaruntilcoupleincomecrackavocadoexhaust
+bip_39_word_no_space_12: memberstrikechoiceorbitseminaruntilcoupleincomecrackavocadoexhaustacoustic
+bip_39_word_no_space_2: memberstrike
+bip_39_word_no_space_3: memberstrikechoice
+bip_39_word_no_space_4: memberstrikechoiceorbit
+bip_39_word_no_space_5: memberstrikechoiceorbitseminar
+bip_39_word_no_space_6: memberstrikechoiceorbitseminaruntil
+bip_39_word_no_space_7: memberstrikechoiceorbitseminaruntilcouple
+bip_39_word_no_space_8: memberstrikechoiceorbitseminaruntilcoupleincome
+bip_39_word_no_space_9: memberstrikechoiceorbitseminaruntilcoupleincomecrack
+bip_39_word_space_0:
+- member
+- strike
+- choice
+- orbit
+- seminar
+- until
+- couple
+- income
+- crack
+- avocado
+- exhaust
+- acoustic
+bip_39_word_space_1: member
+bip_39_word_space_10: member strike choice orbit seminar until couple income crack
+  avocado
+bip_39_word_space_11: member strike choice orbit seminar until couple income crack
+  avocado exhaust
+bip_39_word_space_12: member strike choice orbit seminar until couple income crack
+  avocado exhaust acoustic
+bip_39_word_space_2: member strike
+bip_39_word_space_3: member strike choice
+bip_39_word_space_4: member strike choice orbit
+bip_39_word_space_5: member strike choice orbit seminar
+bip_39_word_space_6: member strike choice orbit seminar until
+bip_39_word_space_7: member strike choice orbit seminar until couple
+bip_39_word_space_8: member strike choice orbit seminar until couple income
+bip_39_word_space_9: member strike choice orbit seminar until couple income crack
+bip_39_word_underscore_1: member
+bip_39_word_underscore_10: member_strike_choice_orbit_seminar_until_couple_income_crack_avocado
+bip_39_word_underscore_11: member_strike_choice_orbit_seminar_until_couple_income_crack_avocado_exhaust
+bip_39_word_underscore_12: member_strike_choice_orbit_seminar_until_couple_income_crack_avocado_exhaust_acoustic
+bip_39_word_underscore_2: member_strike
+bip_39_word_underscore_3: member_strike_choice
+bip_39_word_underscore_4: member_strike_choice_orbit
+bip_39_word_underscore_5: member_strike_choice_orbit_seminar
+bip_39_word_underscore_6: member_strike_choice_orbit_seminar_until
+bip_39_word_underscore_7: member_strike_choice_orbit_seminar_until_couple
+bip_39_word_underscore_8: member_strike_choice_orbit_seminar_until_couple_income
+bip_39_word_underscore_9: member_strike_choice_orbit_seminar_until_couple_income_crack
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_15_01_06
 id_no_color: '150106'
 id_no_size: '15_01_06'
 id_no_type: plate_15_01_06
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_01_06
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_01_06
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_01_06
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019tj7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019tj7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019tj7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150106'
 name_no_size: 15 01 06
 name_no_size_short: 15 01 06
 name_no_type: Plate 15 01 06
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_15_01_06
 oomp_word: skull clubs cake
 oomp_word_emoji: ':skull: :clubs: :cake:'

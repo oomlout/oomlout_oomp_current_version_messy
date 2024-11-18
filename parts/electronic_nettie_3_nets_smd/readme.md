@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Nettie 3 Nets SMD
+* name_short: 
 ### id
 * oomp_id: electronic_nettie_3_nets_smd
   * classification: electronic

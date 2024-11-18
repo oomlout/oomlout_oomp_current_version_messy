@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Plate 250 mm Diameter Ikea 302 589 13
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :truck: :smile: :helicopter:
 * md5_6_alpha: 9bq3r
 * md5_6: ef01e7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209bq3r)
+[2x1](http://192.168.1.242:1112/?label=oomp%209bq3r)
+[6x4](http://192.168.1.55:1112/?label=oomp%209bq3r)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -305,7 +331,14 @@ sphere |
 | id_no_color | ikeaoftastwhiteplate250mmdiameterikea30258913 |  
 | id_no_size | ikeaoftastwhiteplate250mmdiameterikea30258913 |  
 | id_no_type | ikeaoftastwhiteplate250mmdiameterikea30258913 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209bq3r |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209bq3r |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209bq3r |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -354,6 +387,7 @@ sphere |
 | name_no_size | Ikeaoftastwhiteplate250mmdiameterikea30258913 |  
 | name_no_size_short | Ikeaoftastwhiteplate250Mmdiameterikea30258913 |  
 | name_no_type | Ikeaoftastwhiteplate250mmdiameterikea30258913 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13 |  
 | oomp_word | truck smile helicopter |  
 | oomp_word_emoji | :truck: :smile: :helicopter: |  

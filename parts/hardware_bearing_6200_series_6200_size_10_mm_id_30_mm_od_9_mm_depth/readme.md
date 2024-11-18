@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6200 Size 10 mm ID 30 mm OD 9 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6200_size_10_mm_id_30_mm_od_9_mm_depth
   * classification: hardware

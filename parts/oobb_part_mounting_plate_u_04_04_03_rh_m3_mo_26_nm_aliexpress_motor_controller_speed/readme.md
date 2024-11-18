@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate U 04 04 03 Rh M3 Mo 26 Nm Aliexpress Motor Controller Speed
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_u_04_04_03_rh_m3_mo_26_nm_aliexpress_motor_controller_speed
   * classification: oobb

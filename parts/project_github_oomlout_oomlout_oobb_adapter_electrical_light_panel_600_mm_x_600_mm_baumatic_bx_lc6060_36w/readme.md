@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Adapter Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :snowflake: :headphones: :bath:
 * md5_6_alpha: 1qpom
 * md5_6: 2ca586
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201qpom)
+[2x1](http://192.168.1.242:1112/?label=oomp%201qpom)
+[6x4](http://192.168.1.55:1112/?label=oomp%201qpom)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ viable |
 | id_no_color | oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | id_no_size | oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | id_no_type | oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201qpom |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201qpom |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201qpom |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ viable |
 | name_no_size | Oobb Adapter Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W |  
 | name_no_size_short | Oobb Adapter Electrical Light Panel 600 Mm X 600 Mm Baumatic Bx Lc6060 36W |  
 | name_no_type | Oomlout Oomlout Oobb Adapter Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_adapter_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w |  
 | oomp_word | snowflake headphones bath |  
 | oomp_word_emoji | :snowflake: :headphones: :bath: |  

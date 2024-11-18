@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Heatshrink 2 To 1 Shrink Ratio 9 5 mm Internal Diameter Yellow 15 mm Length
+* name_short: 
 ### id
 * oomp_id: electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :cow: :watermelon: :clap:
 * md5_6_alpha: 2esyi
 * md5_6: 3dcc1a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202esyi)
+[2x1](http://192.168.1.242:1112/?label=oomp%202esyi)
+[6x4](http://192.168.1.55:1112/?label=oomp%202esyi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ ugly |
 | id_no_size | yellow_15_mm_length |  
 | id_no_type | 9_5_mm_internal_diameter_yellow_15_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202esyi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202esyi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202esyi |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ ugly |
 | name_no_size | Yellow 15 mm Length |  
 | name_no_size_short | Yellow 15 Mm Length |  
 | name_no_type | 9 5 mm Internal Diameter Yellow 15 mm Length |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_15_mm_length |  
 | oomp_word | cow watermelon clap |  
 | oomp_word_emoji | :cow: :watermelon: :clap: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Crimp Housing 2 54 mm Black 4 Pin Dupont
+* name_short: 
 ### id
 * oomp_id: electronic_crimp_housing_2_54_mm_black_4_pin_dupont
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clap: :hospital: :nose:
 * md5_6_alpha: 11pgn
 * md5_6: 1ad827
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2011pgn)
+[2x1](http://192.168.1.242:1112/?label=oomp%2011pgn)
+[6x4](http://192.168.1.55:1112/?label=oomp%2011pgn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -304,7 +330,14 @@ remember |
 | id_no_size | black_4_pin_dupont |  
 | id_no_type | 2_54_mm_black_4_pin_dupont |  
 | kicad_reference | CRHO |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_4_pin_dupont |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2011pgn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2011pgn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2011pgn |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -329,6 +362,7 @@ remember |
 | name_no_size | Black 4 Pin Dupont |  
 | name_no_size_short | Black 4 Pin Dupont |  
 | name_no_type | 2 54 mm Black 4 Pin Dupont |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_housing_2_54_mm_black_4_pin_dupont |  
 | oomp_word | clap hospital nose |  
 | oomp_word_emoji | :clap: :hospital: :nose: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Tqfp 100 MCU Pic32 Microchip Pic32Mk1024Gpk100
+* name_short: 
 ### id
 * oomp_id: electronic_ic_tqfp_100_mcu_pic32_microchip_pic32mk1024gpk100
   * classification: electronic

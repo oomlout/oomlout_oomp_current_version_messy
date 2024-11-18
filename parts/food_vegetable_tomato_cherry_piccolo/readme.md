@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Piccolo Vine Tomatoes
 
+### name
+* name: Food Vegetable Tomato Cherry Piccolo
+* name_short: 
 ### id
 * oomp_id: food_vegetable_tomato_cherry_piccolo
   * classification: food

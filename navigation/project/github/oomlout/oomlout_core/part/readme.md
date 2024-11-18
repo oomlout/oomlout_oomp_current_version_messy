@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Core
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_core
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :one: :elephant: :blowfish:
 * md5_6_alpha: 9gaql
 * md5_6: f2435d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209gaql)
+[2x1](http://192.168.1.242:1112/?label=oomp%209gaql)
+[6x4](http://192.168.1.55:1112/?label=oomp%209gaql)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_core)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ pistol |
 | id_no_color | core |  
 | id_no_size | core |  
 | id_no_type | oomlout_oomlout_core |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_core |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_core |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209gaql |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209gaql |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209gaql |  
 | link_redirect | https://github.com/oomlout/oomlout-CORE |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ pistol |
 | name_no_size | Core |  
 | name_no_size_short | Core |  
 | name_no_type | Oomlout Oomlout Core |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_core |  
 | oomp_word | one elephant blowfish |  
 | oomp_word_emoji | :one: :elephant: :blowfish: |  

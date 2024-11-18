@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
   * classification: hardware

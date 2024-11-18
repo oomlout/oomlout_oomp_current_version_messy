@@ -1,3 +1,222 @@
+bip_39_word_dash_1: grab
+bip_39_word_dash_10: grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century
+bip_39_word_dash_11: grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century-account
+bip_39_word_dash_12: grab-scout-squeeze-skull-gold-merge-what-gentle-genius-century-account-admit
+bip_39_word_dash_2: grab-scout
+bip_39_word_dash_3: grab-scout-squeeze
+bip_39_word_dash_4: grab-scout-squeeze-skull
+bip_39_word_dash_5: grab-scout-squeeze-skull-gold
+bip_39_word_dash_6: grab-scout-squeeze-skull-gold-merge
+bip_39_word_dash_7: grab-scout-squeeze-skull-gold-merge-what
+bip_39_word_dash_8: grab-scout-squeeze-skull-gold-merge-what-gentle
+bip_39_word_dash_9: grab-scout-squeeze-skull-gold-merge-what-gentle-genius
+bip_39_word_new_br_1: grab
+bip_39_word_new_br_10: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century
+bip_39_word_new_br_11: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account
+bip_39_word_new_br_12: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius<br>century<br>account<br>admit
+bip_39_word_new_br_2: grab<br>scout
+bip_39_word_new_br_3: grab<br>scout<br>squeeze
+bip_39_word_new_br_4: grab<br>scout<br>squeeze<br>skull
+bip_39_word_new_br_5: grab<br>scout<br>squeeze<br>skull<br>gold
+bip_39_word_new_br_6: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge
+bip_39_word_new_br_7: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what
+bip_39_word_new_br_8: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle
+bip_39_word_new_br_9: grab<br>scout<br>squeeze<br>skull<br>gold<br>merge<br>what<br>gentle<br>genius
+bip_39_word_new_line_1: grab
+bip_39_word_new_line_10: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what
+
+  gentle
+
+  genius
+
+  century'
+bip_39_word_new_line_11: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what
+
+  gentle
+
+  genius
+
+  century
+
+  account'
+bip_39_word_new_line_12: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what
+
+  gentle
+
+  genius
+
+  century
+
+  account
+
+  admit'
+bip_39_word_new_line_2: 'grab
+
+  scout'
+bip_39_word_new_line_3: 'grab
+
+  scout
+
+  squeeze'
+bip_39_word_new_line_4: 'grab
+
+  scout
+
+  squeeze
+
+  skull'
+bip_39_word_new_line_5: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold'
+bip_39_word_new_line_6: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge'
+bip_39_word_new_line_7: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what'
+bip_39_word_new_line_8: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what
+
+  gentle'
+bip_39_word_new_line_9: 'grab
+
+  scout
+
+  squeeze
+
+  skull
+
+  gold
+
+  merge
+
+  what
+
+  gentle
+
+  genius'
+bip_39_word_no_space_1: grab
+bip_39_word_no_space_10: grabscoutsqueezeskullgoldmergewhatgentlegeniuscentury
+bip_39_word_no_space_11: grabscoutsqueezeskullgoldmergewhatgentlegeniuscenturyaccount
+bip_39_word_no_space_12: grabscoutsqueezeskullgoldmergewhatgentlegeniuscenturyaccountadmit
+bip_39_word_no_space_2: grabscout
+bip_39_word_no_space_3: grabscoutsqueeze
+bip_39_word_no_space_4: grabscoutsqueezeskull
+bip_39_word_no_space_5: grabscoutsqueezeskullgold
+bip_39_word_no_space_6: grabscoutsqueezeskullgoldmerge
+bip_39_word_no_space_7: grabscoutsqueezeskullgoldmergewhat
+bip_39_word_no_space_8: grabscoutsqueezeskullgoldmergewhatgentle
+bip_39_word_no_space_9: grabscoutsqueezeskullgoldmergewhatgentlegenius
+bip_39_word_space_0:
+- grab
+- scout
+- squeeze
+- skull
+- gold
+- merge
+- what
+- gentle
+- genius
+- century
+- account
+- admit
+bip_39_word_space_1: grab
+bip_39_word_space_10: grab scout squeeze skull gold merge what gentle genius century
+bip_39_word_space_11: grab scout squeeze skull gold merge what gentle genius century
+  account
+bip_39_word_space_12: grab scout squeeze skull gold merge what gentle genius century
+  account admit
+bip_39_word_space_2: grab scout
+bip_39_word_space_3: grab scout squeeze
+bip_39_word_space_4: grab scout squeeze skull
+bip_39_word_space_5: grab scout squeeze skull gold
+bip_39_word_space_6: grab scout squeeze skull gold merge
+bip_39_word_space_7: grab scout squeeze skull gold merge what
+bip_39_word_space_8: grab scout squeeze skull gold merge what gentle
+bip_39_word_space_9: grab scout squeeze skull gold merge what gentle genius
+bip_39_word_underscore_1: grab
+bip_39_word_underscore_10: grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century
+bip_39_word_underscore_11: grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century_account
+bip_39_word_underscore_12: grab_scout_squeeze_skull_gold_merge_what_gentle_genius_century_account_admit
+bip_39_word_underscore_2: grab_scout
+bip_39_word_underscore_3: grab_scout_squeeze
+bip_39_word_underscore_4: grab_scout_squeeze_skull
+bip_39_word_underscore_5: grab_scout_squeeze_skull_gold
+bip_39_word_underscore_6: grab_scout_squeeze_skull_gold_merge
+bip_39_word_underscore_7: grab_scout_squeeze_skull_gold_merge_what
+bip_39_word_underscore_8: grab_scout_squeeze_skull_gold_merge_what_gentle
+bip_39_word_underscore_9: grab_scout_squeeze_skull_gold_merge_what_gentle_genius
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_05_05_24
 id_no_color: '050524'
 id_no_size: '05_05_24'
 id_no_type: tray_thin_05_05_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_05_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_05_05_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_05_05_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029hjd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029hjd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029hjd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050524'
 name_no_size: 05 05 24
 name_no_size_short: 05 05 24
 name_no_type: Tray Thin 05 05 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_05_05_24
 oomp_word: koala grin angry
 oomp_word_emoji: ':koala: :grin: :angry:'

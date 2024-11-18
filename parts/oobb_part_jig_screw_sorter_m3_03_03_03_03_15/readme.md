@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Jig Screw Sorter M3 03 03 03 03 15
+* name_short: 
 ### id
 * oomp_id: oobb_part_jig_screw_sorter_m3_03_03_03_03_15
   * classification: oobb

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: switch
+bip_39_word_dash_10: switch-all-source-culture-prevent-link-town-gossip-cake-shrug
+bip_39_word_dash_11: switch-all-source-culture-prevent-link-town-gossip-cake-shrug-duck
+bip_39_word_dash_12: switch-all-source-culture-prevent-link-town-gossip-cake-shrug-duck-apart
+bip_39_word_dash_2: switch-all
+bip_39_word_dash_3: switch-all-source
+bip_39_word_dash_4: switch-all-source-culture
+bip_39_word_dash_5: switch-all-source-culture-prevent
+bip_39_word_dash_6: switch-all-source-culture-prevent-link
+bip_39_word_dash_7: switch-all-source-culture-prevent-link-town
+bip_39_word_dash_8: switch-all-source-culture-prevent-link-town-gossip
+bip_39_word_dash_9: switch-all-source-culture-prevent-link-town-gossip-cake
+bip_39_word_new_br_1: switch
+bip_39_word_new_br_10: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake<br>shrug
+bip_39_word_new_br_11: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake<br>shrug<br>duck
+bip_39_word_new_br_12: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake<br>shrug<br>duck<br>apart
+bip_39_word_new_br_2: switch<br>all
+bip_39_word_new_br_3: switch<br>all<br>source
+bip_39_word_new_br_4: switch<br>all<br>source<br>culture
+bip_39_word_new_br_5: switch<br>all<br>source<br>culture<br>prevent
+bip_39_word_new_br_6: switch<br>all<br>source<br>culture<br>prevent<br>link
+bip_39_word_new_br_7: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town
+bip_39_word_new_br_8: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip
+bip_39_word_new_br_9: switch<br>all<br>source<br>culture<br>prevent<br>link<br>town<br>gossip<br>cake
+bip_39_word_new_line_1: switch
+bip_39_word_new_line_10: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town
+
+  gossip
+
+  cake
+
+  shrug'
+bip_39_word_new_line_11: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town
+
+  gossip
+
+  cake
+
+  shrug
+
+  duck'
+bip_39_word_new_line_12: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town
+
+  gossip
+
+  cake
+
+  shrug
+
+  duck
+
+  apart'
+bip_39_word_new_line_2: 'switch
+
+  all'
+bip_39_word_new_line_3: 'switch
+
+  all
+
+  source'
+bip_39_word_new_line_4: 'switch
+
+  all
+
+  source
+
+  culture'
+bip_39_word_new_line_5: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent'
+bip_39_word_new_line_6: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link'
+bip_39_word_new_line_7: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town'
+bip_39_word_new_line_8: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town
+
+  gossip'
+bip_39_word_new_line_9: 'switch
+
+  all
+
+  source
+
+  culture
+
+  prevent
+
+  link
+
+  town
+
+  gossip
+
+  cake'
+bip_39_word_no_space_1: switch
+bip_39_word_no_space_10: switchallsourceculturepreventlinktowngossipcakeshrug
+bip_39_word_no_space_11: switchallsourceculturepreventlinktowngossipcakeshrugduck
+bip_39_word_no_space_12: switchallsourceculturepreventlinktowngossipcakeshrugduckapart
+bip_39_word_no_space_2: switchall
+bip_39_word_no_space_3: switchallsource
+bip_39_word_no_space_4: switchallsourceculture
+bip_39_word_no_space_5: switchallsourcecultureprevent
+bip_39_word_no_space_6: switchallsourceculturepreventlink
+bip_39_word_no_space_7: switchallsourceculturepreventlinktown
+bip_39_word_no_space_8: switchallsourceculturepreventlinktowngossip
+bip_39_word_no_space_9: switchallsourceculturepreventlinktowngossipcake
+bip_39_word_space_0:
+- switch
+- all
+- source
+- culture
+- prevent
+- link
+- town
+- gossip
+- cake
+- shrug
+- duck
+- apart
+bip_39_word_space_1: switch
+bip_39_word_space_10: switch all source culture prevent link town gossip cake shrug
+bip_39_word_space_11: switch all source culture prevent link town gossip cake shrug
+  duck
+bip_39_word_space_12: switch all source culture prevent link town gossip cake shrug
+  duck apart
+bip_39_word_space_2: switch all
+bip_39_word_space_3: switch all source
+bip_39_word_space_4: switch all source culture
+bip_39_word_space_5: switch all source culture prevent
+bip_39_word_space_6: switch all source culture prevent link
+bip_39_word_space_7: switch all source culture prevent link town
+bip_39_word_space_8: switch all source culture prevent link town gossip
+bip_39_word_space_9: switch all source culture prevent link town gossip cake
+bip_39_word_underscore_1: switch
+bip_39_word_underscore_10: switch_all_source_culture_prevent_link_town_gossip_cake_shrug
+bip_39_word_underscore_11: switch_all_source_culture_prevent_link_town_gossip_cake_shrug_duck
+bip_39_word_underscore_12: switch_all_source_culture_prevent_link_town_gossip_cake_shrug_duck_apart
+bip_39_word_underscore_2: switch_all
+bip_39_word_underscore_3: switch_all_source
+bip_39_word_underscore_4: switch_all_source_culture
+bip_39_word_underscore_5: switch_all_source_culture_prevent
+bip_39_word_underscore_6: switch_all_source_culture_prevent_link
+bip_39_word_underscore_7: switch_all_source_culture_prevent_link_town
+bip_39_word_underscore_8: switch_all_source_culture_prevent_link_town_gossip
+bip_39_word_underscore_9: switch_all_source_culture_prevent_link_town_gossip_cake
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 39ohm
 id_no_size: 39_ohm
 id_no_type: 0603_39_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_39_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_39_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_39_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206f3xt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206f3xt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206f3xt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +376,7 @@ name_no_color: 39Ohm
 name_no_size: 39 Ohm
 name_no_size_short: 39 Ohm
 name_no_type: 0603 39 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0603_39_ohm
 oomp_word: book toilet briefcase
 oomp_word_emoji: ':book: :toilet: :briefcase:'

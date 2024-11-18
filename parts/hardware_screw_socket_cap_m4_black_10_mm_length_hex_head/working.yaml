@@ -1,3 +1,222 @@
+bip_39_word_dash_1: plunge
+bip_39_word_dash_10: plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit
+bip_39_word_dash_11: plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit-music
+bip_39_word_dash_12: plunge-define-second-arrow-pen-inmate-member-obscure-dawn-unit-music-alley
+bip_39_word_dash_2: plunge-define
+bip_39_word_dash_3: plunge-define-second
+bip_39_word_dash_4: plunge-define-second-arrow
+bip_39_word_dash_5: plunge-define-second-arrow-pen
+bip_39_word_dash_6: plunge-define-second-arrow-pen-inmate
+bip_39_word_dash_7: plunge-define-second-arrow-pen-inmate-member
+bip_39_word_dash_8: plunge-define-second-arrow-pen-inmate-member-obscure
+bip_39_word_dash_9: plunge-define-second-arrow-pen-inmate-member-obscure-dawn
+bip_39_word_new_br_1: plunge
+bip_39_word_new_br_10: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit
+bip_39_word_new_br_11: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit<br>music
+bip_39_word_new_br_12: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn<br>unit<br>music<br>alley
+bip_39_word_new_br_2: plunge<br>define
+bip_39_word_new_br_3: plunge<br>define<br>second
+bip_39_word_new_br_4: plunge<br>define<br>second<br>arrow
+bip_39_word_new_br_5: plunge<br>define<br>second<br>arrow<br>pen
+bip_39_word_new_br_6: plunge<br>define<br>second<br>arrow<br>pen<br>inmate
+bip_39_word_new_br_7: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member
+bip_39_word_new_br_8: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure
+bip_39_word_new_br_9: plunge<br>define<br>second<br>arrow<br>pen<br>inmate<br>member<br>obscure<br>dawn
+bip_39_word_new_line_1: plunge
+bip_39_word_new_line_10: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member
+
+  obscure
+
+  dawn
+
+  unit'
+bip_39_word_new_line_11: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member
+
+  obscure
+
+  dawn
+
+  unit
+
+  music'
+bip_39_word_new_line_12: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member
+
+  obscure
+
+  dawn
+
+  unit
+
+  music
+
+  alley'
+bip_39_word_new_line_2: 'plunge
+
+  define'
+bip_39_word_new_line_3: 'plunge
+
+  define
+
+  second'
+bip_39_word_new_line_4: 'plunge
+
+  define
+
+  second
+
+  arrow'
+bip_39_word_new_line_5: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen'
+bip_39_word_new_line_6: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate'
+bip_39_word_new_line_7: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member'
+bip_39_word_new_line_8: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member
+
+  obscure'
+bip_39_word_new_line_9: 'plunge
+
+  define
+
+  second
+
+  arrow
+
+  pen
+
+  inmate
+
+  member
+
+  obscure
+
+  dawn'
+bip_39_word_no_space_1: plunge
+bip_39_word_no_space_10: plungedefinesecondarrowpeninmatememberobscuredawnunit
+bip_39_word_no_space_11: plungedefinesecondarrowpeninmatememberobscuredawnunitmusic
+bip_39_word_no_space_12: plungedefinesecondarrowpeninmatememberobscuredawnunitmusicalley
+bip_39_word_no_space_2: plungedefine
+bip_39_word_no_space_3: plungedefinesecond
+bip_39_word_no_space_4: plungedefinesecondarrow
+bip_39_word_no_space_5: plungedefinesecondarrowpen
+bip_39_word_no_space_6: plungedefinesecondarrowpeninmate
+bip_39_word_no_space_7: plungedefinesecondarrowpeninmatemember
+bip_39_word_no_space_8: plungedefinesecondarrowpeninmatememberobscure
+bip_39_word_no_space_9: plungedefinesecondarrowpeninmatememberobscuredawn
+bip_39_word_space_0:
+- plunge
+- define
+- second
+- arrow
+- pen
+- inmate
+- member
+- obscure
+- dawn
+- unit
+- music
+- alley
+bip_39_word_space_1: plunge
+bip_39_word_space_10: plunge define second arrow pen inmate member obscure dawn unit
+bip_39_word_space_11: plunge define second arrow pen inmate member obscure dawn unit
+  music
+bip_39_word_space_12: plunge define second arrow pen inmate member obscure dawn unit
+  music alley
+bip_39_word_space_2: plunge define
+bip_39_word_space_3: plunge define second
+bip_39_word_space_4: plunge define second arrow
+bip_39_word_space_5: plunge define second arrow pen
+bip_39_word_space_6: plunge define second arrow pen inmate
+bip_39_word_space_7: plunge define second arrow pen inmate member
+bip_39_word_space_8: plunge define second arrow pen inmate member obscure
+bip_39_word_space_9: plunge define second arrow pen inmate member obscure dawn
+bip_39_word_underscore_1: plunge
+bip_39_word_underscore_10: plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit
+bip_39_word_underscore_11: plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit_music
+bip_39_word_underscore_12: plunge_define_second_arrow_pen_inmate_member_obscure_dawn_unit_music_alley
+bip_39_word_underscore_2: plunge_define
+bip_39_word_underscore_3: plunge_define_second
+bip_39_word_underscore_4: plunge_define_second_arrow
+bip_39_word_underscore_5: plunge_define_second_arrow_pen
+bip_39_word_underscore_6: plunge_define_second_arrow_pen_inmate
+bip_39_word_underscore_7: plunge_define_second_arrow_pen_inmate_member
+bip_39_word_underscore_8: plunge_define_second_arrow_pen_inmate_member_obscure
+bip_39_word_underscore_9: plunge_define_second_arrow_pen_inmate_member_obscure_dawn
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -134,7 +353,20 @@ id_no_color: 10_mm_length_hex_head
 id_no_size: black_10_mm_length_hex_head
 id_no_type: m4_black_10_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_10_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_10_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-10-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_10_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2043oqj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2043oqj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2043oqj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -160,6 +392,26 @@ name_no_color: 10 mm Length Hex Head
 name_no_size: Black 10 mm Length Hex Head
 name_no_size_short: Black 10 Mm Length Hex Head
 name_no_type: M4 Black 10 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 10 mm
+oomlout_bolt_length_no_unit: '10'
+oomlout_bolt_md5_6_alpha_first_3: 43o
+oomlout_bolt_md5_6_alpha_first_3_upper: 43O
+oomlout_bolt_md5_6_alpha_last_3: qj
+oomlout_bolt_md5_6_alpha_last_3_upper: QJ
+oomlout_bolt_md5_6_first_3: '692'
+oomlout_bolt_md5_6_first_3_upper: '692'
+oomlout_bolt_md5_6_last_3: 3fb
+oomlout_bolt_md5_6_last_3_upper: 3FB
+oomlout_bolt_name: Socket Cap M4X10 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc4b10h
+oomlout_short_code_upper: SC4B10H
 oomp_id: hardware_screw_socket_cap_m4_black_10_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m4_black_10_mm_length_hex_head
 oomp_word: cactus kiss ok
@@ -183,12 +435,22 @@ price_1: '0.0332'
 price_100: '0.0332'
 price_1000: '0.0148'
 price_10000: '0.0148'
+price_10000_distributor_1: '0.0148'
 price_10000_distributor_orbital_fasteners: '0.0148'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0148'
 price_1000_distributor_orbital_fasteners: '0.0148'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0332'
 price_100_distributor_orbital_fasteners: '0.0332'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0332'
 price_1_distributor_orbital_fasteners: '0.0332'
+price_1_name: orbital_fasteners
 price_200: '0.0185'
+price_200_distributor_1: '0.0185'
 price_200_distributor_orbital_fasteners: '0.0185'
+price_200_name: orbital_fasteners
 price_current: '0.0185'
 quantity_current: '200'
 short_code: sc4b10h

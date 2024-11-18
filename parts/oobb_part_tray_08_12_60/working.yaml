@@ -1,3 +1,223 @@
+bip_39_word_dash_1: hobby
+bip_39_word_dash_10: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery
+bip_39_word_dash_11: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery-spice
+bip_39_word_dash_12: hobby-prosper-sail-practice-wire-envelope-radio-output-wife-grocery-spice-access
+bip_39_word_dash_2: hobby-prosper
+bip_39_word_dash_3: hobby-prosper-sail
+bip_39_word_dash_4: hobby-prosper-sail-practice
+bip_39_word_dash_5: hobby-prosper-sail-practice-wire
+bip_39_word_dash_6: hobby-prosper-sail-practice-wire-envelope
+bip_39_word_dash_7: hobby-prosper-sail-practice-wire-envelope-radio
+bip_39_word_dash_8: hobby-prosper-sail-practice-wire-envelope-radio-output
+bip_39_word_dash_9: hobby-prosper-sail-practice-wire-envelope-radio-output-wife
+bip_39_word_new_br_1: hobby
+bip_39_word_new_br_10: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery
+bip_39_word_new_br_11: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery<br>spice
+bip_39_word_new_br_12: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife<br>grocery<br>spice<br>access
+bip_39_word_new_br_2: hobby<br>prosper
+bip_39_word_new_br_3: hobby<br>prosper<br>sail
+bip_39_word_new_br_4: hobby<br>prosper<br>sail<br>practice
+bip_39_word_new_br_5: hobby<br>prosper<br>sail<br>practice<br>wire
+bip_39_word_new_br_6: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope
+bip_39_word_new_br_7: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio
+bip_39_word_new_br_8: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output
+bip_39_word_new_br_9: hobby<br>prosper<br>sail<br>practice<br>wire<br>envelope<br>radio<br>output<br>wife
+bip_39_word_new_line_1: hobby
+bip_39_word_new_line_10: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio
+
+  output
+
+  wife
+
+  grocery'
+bip_39_word_new_line_11: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio
+
+  output
+
+  wife
+
+  grocery
+
+  spice'
+bip_39_word_new_line_12: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio
+
+  output
+
+  wife
+
+  grocery
+
+  spice
+
+  access'
+bip_39_word_new_line_2: 'hobby
+
+  prosper'
+bip_39_word_new_line_3: 'hobby
+
+  prosper
+
+  sail'
+bip_39_word_new_line_4: 'hobby
+
+  prosper
+
+  sail
+
+  practice'
+bip_39_word_new_line_5: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire'
+bip_39_word_new_line_6: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope'
+bip_39_word_new_line_7: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio'
+bip_39_word_new_line_8: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio
+
+  output'
+bip_39_word_new_line_9: 'hobby
+
+  prosper
+
+  sail
+
+  practice
+
+  wire
+
+  envelope
+
+  radio
+
+  output
+
+  wife'
+bip_39_word_no_space_1: hobby
+bip_39_word_no_space_10: hobbyprospersailpracticewireenveloperadiooutputwifegrocery
+bip_39_word_no_space_11: hobbyprospersailpracticewireenveloperadiooutputwifegroceryspice
+bip_39_word_no_space_12: hobbyprospersailpracticewireenveloperadiooutputwifegroceryspiceaccess
+bip_39_word_no_space_2: hobbyprosper
+bip_39_word_no_space_3: hobbyprospersail
+bip_39_word_no_space_4: hobbyprospersailpractice
+bip_39_word_no_space_5: hobbyprospersailpracticewire
+bip_39_word_no_space_6: hobbyprospersailpracticewireenvelope
+bip_39_word_no_space_7: hobbyprospersailpracticewireenveloperadio
+bip_39_word_no_space_8: hobbyprospersailpracticewireenveloperadiooutput
+bip_39_word_no_space_9: hobbyprospersailpracticewireenveloperadiooutputwife
+bip_39_word_space_0:
+- hobby
+- prosper
+- sail
+- practice
+- wire
+- envelope
+- radio
+- output
+- wife
+- grocery
+- spice
+- access
+bip_39_word_space_1: hobby
+bip_39_word_space_10: hobby prosper sail practice wire envelope radio output wife
+  grocery
+bip_39_word_space_11: hobby prosper sail practice wire envelope radio output wife
+  grocery spice
+bip_39_word_space_12: hobby prosper sail practice wire envelope radio output wife
+  grocery spice access
+bip_39_word_space_2: hobby prosper
+bip_39_word_space_3: hobby prosper sail
+bip_39_word_space_4: hobby prosper sail practice
+bip_39_word_space_5: hobby prosper sail practice wire
+bip_39_word_space_6: hobby prosper sail practice wire envelope
+bip_39_word_space_7: hobby prosper sail practice wire envelope radio
+bip_39_word_space_8: hobby prosper sail practice wire envelope radio output
+bip_39_word_space_9: hobby prosper sail practice wire envelope radio output wife
+bip_39_word_underscore_1: hobby
+bip_39_word_underscore_10: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery
+bip_39_word_underscore_11: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery_spice
+bip_39_word_underscore_12: hobby_prosper_sail_practice_wire_envelope_radio_output_wife_grocery_spice_access
+bip_39_word_underscore_2: hobby_prosper
+bip_39_word_underscore_3: hobby_prosper_sail
+bip_39_word_underscore_4: hobby_prosper_sail_practice
+bip_39_word_underscore_5: hobby_prosper_sail_practice_wire
+bip_39_word_underscore_6: hobby_prosper_sail_practice_wire_envelope
+bip_39_word_underscore_7: hobby_prosper_sail_practice_wire_envelope_radio
+bip_39_word_underscore_8: hobby_prosper_sail_practice_wire_envelope_radio_output
+bip_39_word_underscore_9: hobby_prosper_sail_practice_wire_envelope_radio_output_wife
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_08_12_60
 id_no_color: 081260
 id_no_size: 08_12_60
 id_no_type: tray_08_12_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_12_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_12_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_12_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ue55
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ue55
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ue55
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 081260
 name_no_size: 08 12 60
 name_no_size_short: 08 12 60
 name_no_type: Tray 08 12 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_12_60
 oomp_word: poop pencil pray
 oomp_word_emoji: ':poop: :pencil: :pray:'

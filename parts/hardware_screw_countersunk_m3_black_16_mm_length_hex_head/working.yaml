@@ -1,3 +1,222 @@
+bip_39_word_dash_1: broken
+bip_39_word_dash_10: broken-fancy-swap-apology-pattern-mention-again-want-jeans-post
+bip_39_word_dash_11: broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery
+bip_39_word_dash_12: broken-fancy-swap-apology-pattern-mention-again-want-jeans-post-mystery-age
+bip_39_word_dash_2: broken-fancy
+bip_39_word_dash_3: broken-fancy-swap
+bip_39_word_dash_4: broken-fancy-swap-apology
+bip_39_word_dash_5: broken-fancy-swap-apology-pattern
+bip_39_word_dash_6: broken-fancy-swap-apology-pattern-mention
+bip_39_word_dash_7: broken-fancy-swap-apology-pattern-mention-again
+bip_39_word_dash_8: broken-fancy-swap-apology-pattern-mention-again-want
+bip_39_word_dash_9: broken-fancy-swap-apology-pattern-mention-again-want-jeans
+bip_39_word_new_br_1: broken
+bip_39_word_new_br_10: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post
+bip_39_word_new_br_11: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post<br>mystery
+bip_39_word_new_br_12: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans<br>post<br>mystery<br>age
+bip_39_word_new_br_2: broken<br>fancy
+bip_39_word_new_br_3: broken<br>fancy<br>swap
+bip_39_word_new_br_4: broken<br>fancy<br>swap<br>apology
+bip_39_word_new_br_5: broken<br>fancy<br>swap<br>apology<br>pattern
+bip_39_word_new_br_6: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention
+bip_39_word_new_br_7: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again
+bip_39_word_new_br_8: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want
+bip_39_word_new_br_9: broken<br>fancy<br>swap<br>apology<br>pattern<br>mention<br>again<br>want<br>jeans
+bip_39_word_new_line_1: broken
+bip_39_word_new_line_10: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again
+
+  want
+
+  jeans
+
+  post'
+bip_39_word_new_line_11: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again
+
+  want
+
+  jeans
+
+  post
+
+  mystery'
+bip_39_word_new_line_12: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again
+
+  want
+
+  jeans
+
+  post
+
+  mystery
+
+  age'
+bip_39_word_new_line_2: 'broken
+
+  fancy'
+bip_39_word_new_line_3: 'broken
+
+  fancy
+
+  swap'
+bip_39_word_new_line_4: 'broken
+
+  fancy
+
+  swap
+
+  apology'
+bip_39_word_new_line_5: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern'
+bip_39_word_new_line_6: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention'
+bip_39_word_new_line_7: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again'
+bip_39_word_new_line_8: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again
+
+  want'
+bip_39_word_new_line_9: 'broken
+
+  fancy
+
+  swap
+
+  apology
+
+  pattern
+
+  mention
+
+  again
+
+  want
+
+  jeans'
+bip_39_word_no_space_1: broken
+bip_39_word_no_space_10: brokenfancyswapapologypatternmentionagainwantjeanspost
+bip_39_word_no_space_11: brokenfancyswapapologypatternmentionagainwantjeanspostmystery
+bip_39_word_no_space_12: brokenfancyswapapologypatternmentionagainwantjeanspostmysteryage
+bip_39_word_no_space_2: brokenfancy
+bip_39_word_no_space_3: brokenfancyswap
+bip_39_word_no_space_4: brokenfancyswapapology
+bip_39_word_no_space_5: brokenfancyswapapologypattern
+bip_39_word_no_space_6: brokenfancyswapapologypatternmention
+bip_39_word_no_space_7: brokenfancyswapapologypatternmentionagain
+bip_39_word_no_space_8: brokenfancyswapapologypatternmentionagainwant
+bip_39_word_no_space_9: brokenfancyswapapologypatternmentionagainwantjeans
+bip_39_word_space_0:
+- broken
+- fancy
+- swap
+- apology
+- pattern
+- mention
+- again
+- want
+- jeans
+- post
+- mystery
+- age
+bip_39_word_space_1: broken
+bip_39_word_space_10: broken fancy swap apology pattern mention again want jeans post
+bip_39_word_space_11: broken fancy swap apology pattern mention again want jeans post
+  mystery
+bip_39_word_space_12: broken fancy swap apology pattern mention again want jeans post
+  mystery age
+bip_39_word_space_2: broken fancy
+bip_39_word_space_3: broken fancy swap
+bip_39_word_space_4: broken fancy swap apology
+bip_39_word_space_5: broken fancy swap apology pattern
+bip_39_word_space_6: broken fancy swap apology pattern mention
+bip_39_word_space_7: broken fancy swap apology pattern mention again
+bip_39_word_space_8: broken fancy swap apology pattern mention again want
+bip_39_word_space_9: broken fancy swap apology pattern mention again want jeans
+bip_39_word_underscore_1: broken
+bip_39_word_underscore_10: broken_fancy_swap_apology_pattern_mention_again_want_jeans_post
+bip_39_word_underscore_11: broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery
+bip_39_word_underscore_12: broken_fancy_swap_apology_pattern_mention_again_want_jeans_post_mystery_age
+bip_39_word_underscore_2: broken_fancy
+bip_39_word_underscore_3: broken_fancy_swap
+bip_39_word_underscore_4: broken_fancy_swap_apology
+bip_39_word_underscore_5: broken_fancy_swap_apology_pattern
+bip_39_word_underscore_6: broken_fancy_swap_apology_pattern_mention
+bip_39_word_underscore_7: broken_fancy_swap_apology_pattern_mention_again
+bip_39_word_underscore_8: broken_fancy_swap_apology_pattern_mention_again_want
+bip_39_word_underscore_9: broken_fancy_swap_apology_pattern_mention_again_want_jeans
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -134,7 +353,20 @@ id_no_color: 16_mm_length_hex_head
 id_no_size: black_16_mm_length_hex_head
 id_no_type: m3_black_16_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_3_name: webpage_distributor_orbital_fasteners
+link_buy: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m3-x-16-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_16_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030d0q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030d0q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030d0q
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -160,6 +392,26 @@ name_no_color: 16 mm Length Hex Head
 name_no_size: Black 16 mm Length Hex Head
 name_no_size_short: Black 16 Mm Length Hex Head
 name_no_type: M3 Black 16 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 30d
+oomlout_bolt_md5_6_alpha_first_3_upper: 30D
+oomlout_bolt_md5_6_alpha_last_3: 0q
+oomlout_bolt_md5_6_alpha_last_3_upper: 0Q
+oomlout_bolt_md5_6_first_3: 4d2
+oomlout_bolt_md5_6_first_3_upper: 4D2
+oomlout_bolt_md5_6_last_3: 4ea
+oomlout_bolt_md5_6_last_3_upper: 4EA
+oomlout_bolt_name: Countersunk M3X16 mm Black (Hex Head)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs3b16h
+oomlout_short_code_upper: CS3B16H
 oomp_id: hardware_screw_countersunk_m3_black_16_mm_length_hex_head
 oomp_key: oomp_hardware_screw_countersunk_m3_black_16_mm_length_hex_head
 oomp_word: bug droplet tractor
@@ -183,12 +435,22 @@ price_1: '0.0359'
 price_100: '0.0359'
 price_1000: '0.016'
 price_10000: '0.016'
+price_10000_distributor_1: '0.016'
 price_10000_distributor_orbital_fasteners: '0.016'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.016'
 price_1000_distributor_orbital_fasteners: '0.016'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0359'
 price_100_distributor_orbital_fasteners: '0.0359'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0359'
 price_1_distributor_orbital_fasteners: '0.0359'
+price_1_name: orbital_fasteners
 price_200: '0.0199'
+price_200_distributor_1: '0.0199'
 price_200_distributor_orbital_fasteners: '0.0199'
+price_200_name: orbital_fasteners
 price_current: '0.0199'
 project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth: '35'
 project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth: '70'

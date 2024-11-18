@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Tablet Microsoft Surface Pro 4 Microsoft Model 1724
+* name_short: 
 ### id
 * oomp_id: computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
   * classification: computer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :truck: :nine: :hammer:
 * md5_6_alpha: 9d37t
 * md5_6: effa89
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209d37t)
+[2x1](http://192.168.1.242:1112/?label=oomp%209d37t)
+[6x4](http://192.168.1.55:1112/?label=oomp%209d37t)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ hurt |
 | id_no_color | pro4microsoftmodel1724 |  
 | id_no_size | pro_4_microsoft_model_1724 |  
 | id_no_type | microsoft_surface_pro_4_microsoft_model_1724 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/computer_tablet_microsoft_surface_pro_4_microsoft_model_1724 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209d37t |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209d37t |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209d37t |  
 | manufacturer | microsoft |  
 | manufacturer_capital | Microsoft |  
 | manufacturer_first_letter | m |  
@@ -306,6 +339,7 @@ hurt |
 | name_no_size | Pro 4 Microsoft Model 1724 |  
 | name_no_size_short | Pro 4 Microsoft Model 1724 |  
 | name_no_type | Microsoft Surface Pro 4 Microsoft Model 1724 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_tablet_microsoft_surface_pro_4_microsoft_model_1724 |  
 | oomp_word | truck nine hammer |  
 | oomp_word_emoji | :truck: :nine: :hammer: |  

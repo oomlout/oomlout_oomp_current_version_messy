@@ -1,3 +1,222 @@
+bip_39_word_dash_1: slab
+bip_39_word_dash_10: slab-save-still-swamp-blast-tourist-cattle-abandon-side-garlic
+bip_39_word_dash_11: slab-save-still-swamp-blast-tourist-cattle-abandon-side-garlic-eye
+bip_39_word_dash_12: slab-save-still-swamp-blast-tourist-cattle-abandon-side-garlic-eye-access
+bip_39_word_dash_2: slab-save
+bip_39_word_dash_3: slab-save-still
+bip_39_word_dash_4: slab-save-still-swamp
+bip_39_word_dash_5: slab-save-still-swamp-blast
+bip_39_word_dash_6: slab-save-still-swamp-blast-tourist
+bip_39_word_dash_7: slab-save-still-swamp-blast-tourist-cattle
+bip_39_word_dash_8: slab-save-still-swamp-blast-tourist-cattle-abandon
+bip_39_word_dash_9: slab-save-still-swamp-blast-tourist-cattle-abandon-side
+bip_39_word_new_br_1: slab
+bip_39_word_new_br_10: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic
+bip_39_word_new_br_11: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic<br>eye
+bip_39_word_new_br_12: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side<br>garlic<br>eye<br>access
+bip_39_word_new_br_2: slab<br>save
+bip_39_word_new_br_3: slab<br>save<br>still
+bip_39_word_new_br_4: slab<br>save<br>still<br>swamp
+bip_39_word_new_br_5: slab<br>save<br>still<br>swamp<br>blast
+bip_39_word_new_br_6: slab<br>save<br>still<br>swamp<br>blast<br>tourist
+bip_39_word_new_br_7: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle
+bip_39_word_new_br_8: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon
+bip_39_word_new_br_9: slab<br>save<br>still<br>swamp<br>blast<br>tourist<br>cattle<br>abandon<br>side
+bip_39_word_new_line_1: slab
+bip_39_word_new_line_10: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle
+
+  abandon
+
+  side
+
+  garlic'
+bip_39_word_new_line_11: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle
+
+  abandon
+
+  side
+
+  garlic
+
+  eye'
+bip_39_word_new_line_12: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle
+
+  abandon
+
+  side
+
+  garlic
+
+  eye
+
+  access'
+bip_39_word_new_line_2: 'slab
+
+  save'
+bip_39_word_new_line_3: 'slab
+
+  save
+
+  still'
+bip_39_word_new_line_4: 'slab
+
+  save
+
+  still
+
+  swamp'
+bip_39_word_new_line_5: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast'
+bip_39_word_new_line_6: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist'
+bip_39_word_new_line_7: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle'
+bip_39_word_new_line_8: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle
+
+  abandon'
+bip_39_word_new_line_9: 'slab
+
+  save
+
+  still
+
+  swamp
+
+  blast
+
+  tourist
+
+  cattle
+
+  abandon
+
+  side'
+bip_39_word_no_space_1: slab
+bip_39_word_no_space_10: slabsavestillswampblasttouristcattleabandonsidegarlic
+bip_39_word_no_space_11: slabsavestillswampblasttouristcattleabandonsidegarliceye
+bip_39_word_no_space_12: slabsavestillswampblasttouristcattleabandonsidegarliceyeaccess
+bip_39_word_no_space_2: slabsave
+bip_39_word_no_space_3: slabsavestill
+bip_39_word_no_space_4: slabsavestillswamp
+bip_39_word_no_space_5: slabsavestillswampblast
+bip_39_word_no_space_6: slabsavestillswampblasttourist
+bip_39_word_no_space_7: slabsavestillswampblasttouristcattle
+bip_39_word_no_space_8: slabsavestillswampblasttouristcattleabandon
+bip_39_word_no_space_9: slabsavestillswampblasttouristcattleabandonside
+bip_39_word_space_0:
+- slab
+- save
+- still
+- swamp
+- blast
+- tourist
+- cattle
+- abandon
+- side
+- garlic
+- eye
+- access
+bip_39_word_space_1: slab
+bip_39_word_space_10: slab save still swamp blast tourist cattle abandon side garlic
+bip_39_word_space_11: slab save still swamp blast tourist cattle abandon side garlic
+  eye
+bip_39_word_space_12: slab save still swamp blast tourist cattle abandon side garlic
+  eye access
+bip_39_word_space_2: slab save
+bip_39_word_space_3: slab save still
+bip_39_word_space_4: slab save still swamp
+bip_39_word_space_5: slab save still swamp blast
+bip_39_word_space_6: slab save still swamp blast tourist
+bip_39_word_space_7: slab save still swamp blast tourist cattle
+bip_39_word_space_8: slab save still swamp blast tourist cattle abandon
+bip_39_word_space_9: slab save still swamp blast tourist cattle abandon side
+bip_39_word_underscore_1: slab
+bip_39_word_underscore_10: slab_save_still_swamp_blast_tourist_cattle_abandon_side_garlic
+bip_39_word_underscore_11: slab_save_still_swamp_blast_tourist_cattle_abandon_side_garlic_eye
+bip_39_word_underscore_12: slab_save_still_swamp_blast_tourist_cattle_abandon_side_garlic_eye_access
+bip_39_word_underscore_2: slab_save
+bip_39_word_underscore_3: slab_save_still
+bip_39_word_underscore_4: slab_save_still_swamp
+bip_39_word_underscore_5: slab_save_still_swamp_blast
+bip_39_word_underscore_6: slab_save_still_swamp_blast_tourist
+bip_39_word_underscore_7: slab_save_still_swamp_blast_tourist_cattle
+bip_39_word_underscore_8: slab_save_still_swamp_blast_tourist_cattle_abandon
+bip_39_word_underscore_9: slab_save_still_swamp_blast_tourist_cattle_abandon_side
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
 id_no_color: 50_mm_id_80_mm_od_16_mm_depth
 id_no_size: 6010_size_50_mm_id_80_mm_od_16_mm_depth
 id_no_type: 6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20szfb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20szfb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20szfb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 50 mm ID 80 mm OD 16 mm Depth
 name_no_size: 6010 Size 50 mm ID 80 mm OD 16 mm Depth
 name_no_size_short: 6010 Size 50 Mm Id 80 Mm Od 16 Mm Depth
 name_no_type: 6000 Series 6010 Size 50 mm ID 80 mm OD 16 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6010
+oomlout_short_code_upper: BR6010
 oomp_key: oomp_hardware_bearing_6000_series_6010_size_50_mm_id_80_mm_od_16_mm_depth
 oomp_word: fire violin rat
 oomp_word_emoji: ':fire: :violin: :rat:'

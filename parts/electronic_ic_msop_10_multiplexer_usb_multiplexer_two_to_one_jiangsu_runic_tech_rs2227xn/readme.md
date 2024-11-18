@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Msop 10 Multiplexer USB Multiplexer Two To One Jiangsu Runic Tech Rs2227Xn
+* name_short: 
 ### id
 * oomp_id: electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
   * classification: electronic

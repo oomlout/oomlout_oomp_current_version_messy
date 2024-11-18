@@ -1,3 +1,222 @@
+bip_39_word_dash_1: arrest
+bip_39_word_dash_10: arrest-steel-half-sound-globe-believe-arena-enrich-private-educate
+bip_39_word_dash_11: arrest-steel-half-sound-globe-believe-arena-enrich-private-educate-panic
+bip_39_word_dash_12: arrest-steel-half-sound-globe-believe-arena-enrich-private-educate-panic-angry
+bip_39_word_dash_2: arrest-steel
+bip_39_word_dash_3: arrest-steel-half
+bip_39_word_dash_4: arrest-steel-half-sound
+bip_39_word_dash_5: arrest-steel-half-sound-globe
+bip_39_word_dash_6: arrest-steel-half-sound-globe-believe
+bip_39_word_dash_7: arrest-steel-half-sound-globe-believe-arena
+bip_39_word_dash_8: arrest-steel-half-sound-globe-believe-arena-enrich
+bip_39_word_dash_9: arrest-steel-half-sound-globe-believe-arena-enrich-private
+bip_39_word_new_br_1: arrest
+bip_39_word_new_br_10: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate
+bip_39_word_new_br_11: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic
+bip_39_word_new_br_12: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private<br>educate<br>panic<br>angry
+bip_39_word_new_br_2: arrest<br>steel
+bip_39_word_new_br_3: arrest<br>steel<br>half
+bip_39_word_new_br_4: arrest<br>steel<br>half<br>sound
+bip_39_word_new_br_5: arrest<br>steel<br>half<br>sound<br>globe
+bip_39_word_new_br_6: arrest<br>steel<br>half<br>sound<br>globe<br>believe
+bip_39_word_new_br_7: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena
+bip_39_word_new_br_8: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich
+bip_39_word_new_br_9: arrest<br>steel<br>half<br>sound<br>globe<br>believe<br>arena<br>enrich<br>private
+bip_39_word_new_line_1: arrest
+bip_39_word_new_line_10: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena
+
+  enrich
+
+  private
+
+  educate'
+bip_39_word_new_line_11: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena
+
+  enrich
+
+  private
+
+  educate
+
+  panic'
+bip_39_word_new_line_12: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena
+
+  enrich
+
+  private
+
+  educate
+
+  panic
+
+  angry'
+bip_39_word_new_line_2: 'arrest
+
+  steel'
+bip_39_word_new_line_3: 'arrest
+
+  steel
+
+  half'
+bip_39_word_new_line_4: 'arrest
+
+  steel
+
+  half
+
+  sound'
+bip_39_word_new_line_5: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe'
+bip_39_word_new_line_6: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe'
+bip_39_word_new_line_7: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena'
+bip_39_word_new_line_8: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena
+
+  enrich'
+bip_39_word_new_line_9: 'arrest
+
+  steel
+
+  half
+
+  sound
+
+  globe
+
+  believe
+
+  arena
+
+  enrich
+
+  private'
+bip_39_word_no_space_1: arrest
+bip_39_word_no_space_10: arreststeelhalfsoundglobebelievearenaenrichprivateeducate
+bip_39_word_no_space_11: arreststeelhalfsoundglobebelievearenaenrichprivateeducatepanic
+bip_39_word_no_space_12: arreststeelhalfsoundglobebelievearenaenrichprivateeducatepanicangry
+bip_39_word_no_space_2: arreststeel
+bip_39_word_no_space_3: arreststeelhalf
+bip_39_word_no_space_4: arreststeelhalfsound
+bip_39_word_no_space_5: arreststeelhalfsoundglobe
+bip_39_word_no_space_6: arreststeelhalfsoundglobebelieve
+bip_39_word_no_space_7: arreststeelhalfsoundglobebelievearena
+bip_39_word_no_space_8: arreststeelhalfsoundglobebelievearenaenrich
+bip_39_word_no_space_9: arreststeelhalfsoundglobebelievearenaenrichprivate
+bip_39_word_space_0:
+- arrest
+- steel
+- half
+- sound
+- globe
+- believe
+- arena
+- enrich
+- private
+- educate
+- panic
+- angry
+bip_39_word_space_1: arrest
+bip_39_word_space_10: arrest steel half sound globe believe arena enrich private educate
+bip_39_word_space_11: arrest steel half sound globe believe arena enrich private educate
+  panic
+bip_39_word_space_12: arrest steel half sound globe believe arena enrich private educate
+  panic angry
+bip_39_word_space_2: arrest steel
+bip_39_word_space_3: arrest steel half
+bip_39_word_space_4: arrest steel half sound
+bip_39_word_space_5: arrest steel half sound globe
+bip_39_word_space_6: arrest steel half sound globe believe
+bip_39_word_space_7: arrest steel half sound globe believe arena
+bip_39_word_space_8: arrest steel half sound globe believe arena enrich
+bip_39_word_space_9: arrest steel half sound globe believe arena enrich private
+bip_39_word_underscore_1: arrest
+bip_39_word_underscore_10: arrest_steel_half_sound_globe_believe_arena_enrich_private_educate
+bip_39_word_underscore_11: arrest_steel_half_sound_globe_believe_arena_enrich_private_educate_panic
+bip_39_word_underscore_12: arrest_steel_half_sound_globe_believe_arena_enrich_private_educate_panic_angry
+bip_39_word_underscore_2: arrest_steel
+bip_39_word_underscore_3: arrest_steel_half
+bip_39_word_underscore_4: arrest_steel_half_sound
+bip_39_word_underscore_5: arrest_steel_half_sound_globe
+bip_39_word_underscore_6: arrest_steel_half_sound_globe_believe
+bip_39_word_underscore_7: arrest_steel_half_sound_globe_believe_arena
+bip_39_word_underscore_8: arrest_steel_half_sound_globe_believe_arena_enrich
+bip_39_word_underscore_9: arrest_steel_half_sound_globe_believe_arena_enrich_private
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_bolt_hardware_bolt_m6_50
 id_no_color: hardwarem650
 id_no_size: hardware_m6_50
 id_no_type: bolt_hardware_bolt_m6_50
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_50
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_50
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m6_50
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205l7pt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205l7pt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205l7pt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Hardwarem650
 name_no_size: Hardware M6 50
 name_no_size_short: Hardware M6 50
 name_no_type: Bolt Hardware Bolt M6 50
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m6_50
 oomp_word: calendar horse snail
 oomp_word_emoji: ':calendar: :horse: :snail:'

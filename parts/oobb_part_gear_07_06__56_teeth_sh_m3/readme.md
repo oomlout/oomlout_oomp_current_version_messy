@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 07 06  56 Teeth Sh M3
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_07_06__56_teeth_sh_m3
   * classification: oobb

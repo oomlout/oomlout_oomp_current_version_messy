@@ -1,3 +1,223 @@
+bip_39_word_dash_1: vault
+bip_39_word_dash_10: vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity
+bip_39_word_dash_11: vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity-hospital
+bip_39_word_dash_12: vault-subject-nurse-labor-media-surface-place-match-ordinary-dignity-hospital-advice
+bip_39_word_dash_2: vault-subject
+bip_39_word_dash_3: vault-subject-nurse
+bip_39_word_dash_4: vault-subject-nurse-labor
+bip_39_word_dash_5: vault-subject-nurse-labor-media
+bip_39_word_dash_6: vault-subject-nurse-labor-media-surface
+bip_39_word_dash_7: vault-subject-nurse-labor-media-surface-place
+bip_39_word_dash_8: vault-subject-nurse-labor-media-surface-place-match
+bip_39_word_dash_9: vault-subject-nurse-labor-media-surface-place-match-ordinary
+bip_39_word_new_br_1: vault
+bip_39_word_new_br_10: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary<br>dignity
+bip_39_word_new_br_11: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary<br>dignity<br>hospital
+bip_39_word_new_br_12: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary<br>dignity<br>hospital<br>advice
+bip_39_word_new_br_2: vault<br>subject
+bip_39_word_new_br_3: vault<br>subject<br>nurse
+bip_39_word_new_br_4: vault<br>subject<br>nurse<br>labor
+bip_39_word_new_br_5: vault<br>subject<br>nurse<br>labor<br>media
+bip_39_word_new_br_6: vault<br>subject<br>nurse<br>labor<br>media<br>surface
+bip_39_word_new_br_7: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place
+bip_39_word_new_br_8: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match
+bip_39_word_new_br_9: vault<br>subject<br>nurse<br>labor<br>media<br>surface<br>place<br>match<br>ordinary
+bip_39_word_new_line_1: vault
+bip_39_word_new_line_10: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place
+
+  match
+
+  ordinary
+
+  dignity'
+bip_39_word_new_line_11: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place
+
+  match
+
+  ordinary
+
+  dignity
+
+  hospital'
+bip_39_word_new_line_12: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place
+
+  match
+
+  ordinary
+
+  dignity
+
+  hospital
+
+  advice'
+bip_39_word_new_line_2: 'vault
+
+  subject'
+bip_39_word_new_line_3: 'vault
+
+  subject
+
+  nurse'
+bip_39_word_new_line_4: 'vault
+
+  subject
+
+  nurse
+
+  labor'
+bip_39_word_new_line_5: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media'
+bip_39_word_new_line_6: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface'
+bip_39_word_new_line_7: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place'
+bip_39_word_new_line_8: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place
+
+  match'
+bip_39_word_new_line_9: 'vault
+
+  subject
+
+  nurse
+
+  labor
+
+  media
+
+  surface
+
+  place
+
+  match
+
+  ordinary'
+bip_39_word_no_space_1: vault
+bip_39_word_no_space_10: vaultsubjectnurselabormediasurfaceplacematchordinarydignity
+bip_39_word_no_space_11: vaultsubjectnurselabormediasurfaceplacematchordinarydignityhospital
+bip_39_word_no_space_12: vaultsubjectnurselabormediasurfaceplacematchordinarydignityhospitaladvice
+bip_39_word_no_space_2: vaultsubject
+bip_39_word_no_space_3: vaultsubjectnurse
+bip_39_word_no_space_4: vaultsubjectnurselabor
+bip_39_word_no_space_5: vaultsubjectnurselabormedia
+bip_39_word_no_space_6: vaultsubjectnurselabormediasurface
+bip_39_word_no_space_7: vaultsubjectnurselabormediasurfaceplace
+bip_39_word_no_space_8: vaultsubjectnurselabormediasurfaceplacematch
+bip_39_word_no_space_9: vaultsubjectnurselabormediasurfaceplacematchordinary
+bip_39_word_space_0:
+- vault
+- subject
+- nurse
+- labor
+- media
+- surface
+- place
+- match
+- ordinary
+- dignity
+- hospital
+- advice
+bip_39_word_space_1: vault
+bip_39_word_space_10: vault subject nurse labor media surface place match ordinary
+  dignity
+bip_39_word_space_11: vault subject nurse labor media surface place match ordinary
+  dignity hospital
+bip_39_word_space_12: vault subject nurse labor media surface place match ordinary
+  dignity hospital advice
+bip_39_word_space_2: vault subject
+bip_39_word_space_3: vault subject nurse
+bip_39_word_space_4: vault subject nurse labor
+bip_39_word_space_5: vault subject nurse labor media
+bip_39_word_space_6: vault subject nurse labor media surface
+bip_39_word_space_7: vault subject nurse labor media surface place
+bip_39_word_space_8: vault subject nurse labor media surface place match
+bip_39_word_space_9: vault subject nurse labor media surface place match ordinary
+bip_39_word_underscore_1: vault
+bip_39_word_underscore_10: vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity
+bip_39_word_underscore_11: vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity_hospital
+bip_39_word_underscore_12: vault_subject_nurse_labor_media_surface_place_match_ordinary_dignity_hospital_advice
+bip_39_word_underscore_2: vault_subject
+bip_39_word_underscore_3: vault_subject_nurse
+bip_39_word_underscore_4: vault_subject_nurse_labor
+bip_39_word_underscore_5: vault_subject_nurse_labor_media
+bip_39_word_underscore_6: vault_subject_nurse_labor_media_surface
+bip_39_word_underscore_7: vault_subject_nurse_labor_media_surface_place
+bip_39_word_underscore_8: vault_subject_nurse_labor_media_surface_place_match
+bip_39_word_underscore_9: vault_subject_nurse_labor_media_surface_place_match_ordinary
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -131,7 +351,14 @@ id_no_color: 1_pin_dupont
 id_no_size: black_1_pin_dupont
 id_no_type: 2_54_mm_black_1_pin_dupont
 kicad_reference: CRHO
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_1_pin_dupont
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_54_mm_black_1_pin_dupont
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_crimp_housing_2_54_mm_black_1_pin_dupont
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202j3rj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202j3rj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202j3rj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -157,6 +384,7 @@ name_no_color: 1 Pin Dupont
 name_no_size: Black 1 Pin Dupont
 name_no_size_short: Black 1 Pin Dupont
 name_no_type: 2 54 mm Black 1 Pin Dupont
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_crimp_housing_2_54_mm_black_1_pin_dupont
 oomp_word: racehorse tent melon
 oomp_word_emoji: ':racehorse: :tent: :melon:'

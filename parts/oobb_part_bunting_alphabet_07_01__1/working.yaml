@@ -1,3 +1,223 @@
+bip_39_word_dash_1: maximum
+bip_39_word_dash_10: maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut
+bip_39_word_dash_11: maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut-wink
+bip_39_word_dash_12: maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude-walnut-wink-action
+bip_39_word_dash_2: maximum-stomach
+bip_39_word_dash_3: maximum-stomach-beef
+bip_39_word_dash_4: maximum-stomach-beef-insect
+bip_39_word_dash_5: maximum-stomach-beef-insect-blanket
+bip_39_word_dash_6: maximum-stomach-beef-insect-blanket-broccoli
+bip_39_word_dash_7: maximum-stomach-beef-insect-blanket-broccoli-shrimp
+bip_39_word_dash_8: maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope
+bip_39_word_dash_9: maximum-stomach-beef-insect-blanket-broccoli-shrimp-hope-rude
+bip_39_word_new_br_1: maximum
+bip_39_word_new_br_10: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut
+bip_39_word_new_br_11: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut<br>wink
+bip_39_word_new_br_12: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude<br>walnut<br>wink<br>action
+bip_39_word_new_br_2: maximum<br>stomach
+bip_39_word_new_br_3: maximum<br>stomach<br>beef
+bip_39_word_new_br_4: maximum<br>stomach<br>beef<br>insect
+bip_39_word_new_br_5: maximum<br>stomach<br>beef<br>insect<br>blanket
+bip_39_word_new_br_6: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli
+bip_39_word_new_br_7: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp
+bip_39_word_new_br_8: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope
+bip_39_word_new_br_9: maximum<br>stomach<br>beef<br>insect<br>blanket<br>broccoli<br>shrimp<br>hope<br>rude
+bip_39_word_new_line_1: maximum
+bip_39_word_new_line_10: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp
+
+  hope
+
+  rude
+
+  walnut'
+bip_39_word_new_line_11: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp
+
+  hope
+
+  rude
+
+  walnut
+
+  wink'
+bip_39_word_new_line_12: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp
+
+  hope
+
+  rude
+
+  walnut
+
+  wink
+
+  action'
+bip_39_word_new_line_2: 'maximum
+
+  stomach'
+bip_39_word_new_line_3: 'maximum
+
+  stomach
+
+  beef'
+bip_39_word_new_line_4: 'maximum
+
+  stomach
+
+  beef
+
+  insect'
+bip_39_word_new_line_5: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket'
+bip_39_word_new_line_6: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli'
+bip_39_word_new_line_7: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp'
+bip_39_word_new_line_8: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp
+
+  hope'
+bip_39_word_new_line_9: 'maximum
+
+  stomach
+
+  beef
+
+  insect
+
+  blanket
+
+  broccoli
+
+  shrimp
+
+  hope
+
+  rude'
+bip_39_word_no_space_1: maximum
+bip_39_word_no_space_10: maximumstomachbeefinsectblanketbroccolishrimphoperudewalnut
+bip_39_word_no_space_11: maximumstomachbeefinsectblanketbroccolishrimphoperudewalnutwink
+bip_39_word_no_space_12: maximumstomachbeefinsectblanketbroccolishrimphoperudewalnutwinkaction
+bip_39_word_no_space_2: maximumstomach
+bip_39_word_no_space_3: maximumstomachbeef
+bip_39_word_no_space_4: maximumstomachbeefinsect
+bip_39_word_no_space_5: maximumstomachbeefinsectblanket
+bip_39_word_no_space_6: maximumstomachbeefinsectblanketbroccoli
+bip_39_word_no_space_7: maximumstomachbeefinsectblanketbroccolishrimp
+bip_39_word_no_space_8: maximumstomachbeefinsectblanketbroccolishrimphope
+bip_39_word_no_space_9: maximumstomachbeefinsectblanketbroccolishrimphoperude
+bip_39_word_space_0:
+- maximum
+- stomach
+- beef
+- insect
+- blanket
+- broccoli
+- shrimp
+- hope
+- rude
+- walnut
+- wink
+- action
+bip_39_word_space_1: maximum
+bip_39_word_space_10: maximum stomach beef insect blanket broccoli shrimp hope rude
+  walnut
+bip_39_word_space_11: maximum stomach beef insect blanket broccoli shrimp hope rude
+  walnut wink
+bip_39_word_space_12: maximum stomach beef insect blanket broccoli shrimp hope rude
+  walnut wink action
+bip_39_word_space_2: maximum stomach
+bip_39_word_space_3: maximum stomach beef
+bip_39_word_space_4: maximum stomach beef insect
+bip_39_word_space_5: maximum stomach beef insect blanket
+bip_39_word_space_6: maximum stomach beef insect blanket broccoli
+bip_39_word_space_7: maximum stomach beef insect blanket broccoli shrimp
+bip_39_word_space_8: maximum stomach beef insect blanket broccoli shrimp hope
+bip_39_word_space_9: maximum stomach beef insect blanket broccoli shrimp hope rude
+bip_39_word_underscore_1: maximum
+bip_39_word_underscore_10: maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut
+bip_39_word_underscore_11: maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut_wink
+bip_39_word_underscore_12: maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude_walnut_wink_action
+bip_39_word_underscore_2: maximum_stomach
+bip_39_word_underscore_3: maximum_stomach_beef
+bip_39_word_underscore_4: maximum_stomach_beef_insect
+bip_39_word_underscore_5: maximum_stomach_beef_insect_blanket
+bip_39_word_underscore_6: maximum_stomach_beef_insect_blanket_broccoli
+bip_39_word_underscore_7: maximum_stomach_beef_insect_blanket_broccoli_shrimp
+bip_39_word_underscore_8: maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope
+bip_39_word_underscore_9: maximum_stomach_beef_insect_blanket_broccoli_shrimp_hope_rude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_07_01__1
 id_no_color: '07011'
 id_no_size: '07_01__1'
 id_no_type: bunting_alphabet_07_01__1
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__1
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__1
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__1
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201my7x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201my7x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201my7x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: '07011'
 name_no_size: 07 01  1
 name_no_size_short: 07 01  1
 name_no_type: Bunting Alphabet 07 01  1
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__1
 oomp_word: sunny six rice
 oomp_word_emoji: ':sunny: :six: :rice:'

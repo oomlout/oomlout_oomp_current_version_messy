@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Packaging Takeaway Container Circle 670 Ml Systempak 254
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :boot: :tv: :whale:
 * md5_6_alpha: 6ovo4
 * md5_6: ab7c54
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206ovo4)
+[2x1](http://192.168.1.242:1112/?label=oomp%206ovo4)
+[6x4](http://192.168.1.55:1112/?label=oomp%206ovo4)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ wet |
 | id_no_color | oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
 | id_no_size | oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
 | id_no_type | oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206ovo4 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206ovo4 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206ovo4 |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ wet |
 | name_no_size | Oobb Packaging Takeaway Container Circle 670 Ml Systempak 254 |  
 | name_no_size_short | Oobb Packaging Takeaway Container Circle 670 Ml Systempak 254 |  
 | name_no_type | Oomlout Oomlout Oobb Packaging Takeaway Container Circle 670 Ml Systempak 254 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_packaging_takeaway_container_circle_670_ml_systempak_254 |  
 | oomp_word | boot tv whale |  
 | oomp_word_emoji | :boot: :tv: :whale: |  

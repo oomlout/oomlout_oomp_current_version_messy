@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Kallax White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14
   * classification: furniture

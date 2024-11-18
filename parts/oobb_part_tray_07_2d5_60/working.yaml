@@ -1,3 +1,223 @@
+bip_39_word_dash_1: either
+bip_39_word_dash_10: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain
+bip_39_word_dash_11: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain-harbor
+bip_39_word_dash_12: either-sleep-mountain-train-sentence-approve-burst-husband-brain-sustain-harbor-aim
+bip_39_word_dash_2: either-sleep
+bip_39_word_dash_3: either-sleep-mountain
+bip_39_word_dash_4: either-sleep-mountain-train
+bip_39_word_dash_5: either-sleep-mountain-train-sentence
+bip_39_word_dash_6: either-sleep-mountain-train-sentence-approve
+bip_39_word_dash_7: either-sleep-mountain-train-sentence-approve-burst
+bip_39_word_dash_8: either-sleep-mountain-train-sentence-approve-burst-husband
+bip_39_word_dash_9: either-sleep-mountain-train-sentence-approve-burst-husband-brain
+bip_39_word_new_br_1: either
+bip_39_word_new_br_10: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain
+bip_39_word_new_br_11: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor
+bip_39_word_new_br_12: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain<br>sustain<br>harbor<br>aim
+bip_39_word_new_br_2: either<br>sleep
+bip_39_word_new_br_3: either<br>sleep<br>mountain
+bip_39_word_new_br_4: either<br>sleep<br>mountain<br>train
+bip_39_word_new_br_5: either<br>sleep<br>mountain<br>train<br>sentence
+bip_39_word_new_br_6: either<br>sleep<br>mountain<br>train<br>sentence<br>approve
+bip_39_word_new_br_7: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst
+bip_39_word_new_br_8: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband
+bip_39_word_new_br_9: either<br>sleep<br>mountain<br>train<br>sentence<br>approve<br>burst<br>husband<br>brain
+bip_39_word_new_line_1: either
+bip_39_word_new_line_10: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst
+
+  husband
+
+  brain
+
+  sustain'
+bip_39_word_new_line_11: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst
+
+  husband
+
+  brain
+
+  sustain
+
+  harbor'
+bip_39_word_new_line_12: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst
+
+  husband
+
+  brain
+
+  sustain
+
+  harbor
+
+  aim'
+bip_39_word_new_line_2: 'either
+
+  sleep'
+bip_39_word_new_line_3: 'either
+
+  sleep
+
+  mountain'
+bip_39_word_new_line_4: 'either
+
+  sleep
+
+  mountain
+
+  train'
+bip_39_word_new_line_5: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence'
+bip_39_word_new_line_6: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve'
+bip_39_word_new_line_7: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst'
+bip_39_word_new_line_8: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst
+
+  husband'
+bip_39_word_new_line_9: 'either
+
+  sleep
+
+  mountain
+
+  train
+
+  sentence
+
+  approve
+
+  burst
+
+  husband
+
+  brain'
+bip_39_word_no_space_1: either
+bip_39_word_no_space_10: eithersleepmountaintrainsentenceapprovebursthusbandbrainsustain
+bip_39_word_no_space_11: eithersleepmountaintrainsentenceapprovebursthusbandbrainsustainharbor
+bip_39_word_no_space_12: eithersleepmountaintrainsentenceapprovebursthusbandbrainsustainharboraim
+bip_39_word_no_space_2: eithersleep
+bip_39_word_no_space_3: eithersleepmountain
+bip_39_word_no_space_4: eithersleepmountaintrain
+bip_39_word_no_space_5: eithersleepmountaintrainsentence
+bip_39_word_no_space_6: eithersleepmountaintrainsentenceapprove
+bip_39_word_no_space_7: eithersleepmountaintrainsentenceapproveburst
+bip_39_word_no_space_8: eithersleepmountaintrainsentenceapprovebursthusband
+bip_39_word_no_space_9: eithersleepmountaintrainsentenceapprovebursthusbandbrain
+bip_39_word_space_0:
+- either
+- sleep
+- mountain
+- train
+- sentence
+- approve
+- burst
+- husband
+- brain
+- sustain
+- harbor
+- aim
+bip_39_word_space_1: either
+bip_39_word_space_10: either sleep mountain train sentence approve burst husband brain
+  sustain
+bip_39_word_space_11: either sleep mountain train sentence approve burst husband brain
+  sustain harbor
+bip_39_word_space_12: either sleep mountain train sentence approve burst husband brain
+  sustain harbor aim
+bip_39_word_space_2: either sleep
+bip_39_word_space_3: either sleep mountain
+bip_39_word_space_4: either sleep mountain train
+bip_39_word_space_5: either sleep mountain train sentence
+bip_39_word_space_6: either sleep mountain train sentence approve
+bip_39_word_space_7: either sleep mountain train sentence approve burst
+bip_39_word_space_8: either sleep mountain train sentence approve burst husband
+bip_39_word_space_9: either sleep mountain train sentence approve burst husband brain
+bip_39_word_underscore_1: either
+bip_39_word_underscore_10: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain
+bip_39_word_underscore_11: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain_harbor
+bip_39_word_underscore_12: either_sleep_mountain_train_sentence_approve_burst_husband_brain_sustain_harbor_aim
+bip_39_word_underscore_2: either_sleep
+bip_39_word_underscore_3: either_sleep_mountain
+bip_39_word_underscore_4: either_sleep_mountain_train
+bip_39_word_underscore_5: either_sleep_mountain_train_sentence
+bip_39_word_underscore_6: either_sleep_mountain_train_sentence_approve
+bip_39_word_underscore_7: either_sleep_mountain_train_sentence_approve_burst
+bip_39_word_underscore_8: either_sleep_mountain_train_sentence_approve_burst_husband
+bip_39_word_underscore_9: either_sleep_mountain_train_sentence_approve_burst_husband_brain
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_07_2d5_60
 id_no_color: 072d560
 id_no_size: 07_2d5_60
 id_no_type: tray_07_2d5_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_2d5_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_2d5_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_2d5_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203b586
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203b586
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203b586
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 072D560
 name_no_size: 07 2D5 60
 name_no_size_short: 07 2D5 60
 name_no_type: Tray 07 2D5 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_2d5_60
 oomp_word: whale pineapple rabbit
 oomp_word_emoji: ':whale: :pineapple: :rabbit:'

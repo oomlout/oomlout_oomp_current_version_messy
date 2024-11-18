@@ -1,3 +1,222 @@
+bip_39_word_dash_1: resist
+bip_39_word_dash_10: resist-frown-hold-hat-misery-diary-recipe-festival-thrive-worth
+bip_39_word_dash_11: resist-frown-hold-hat-misery-diary-recipe-festival-thrive-worth-cage
+bip_39_word_dash_12: resist-frown-hold-hat-misery-diary-recipe-festival-thrive-worth-cage-assault
+bip_39_word_dash_2: resist-frown
+bip_39_word_dash_3: resist-frown-hold
+bip_39_word_dash_4: resist-frown-hold-hat
+bip_39_word_dash_5: resist-frown-hold-hat-misery
+bip_39_word_dash_6: resist-frown-hold-hat-misery-diary
+bip_39_word_dash_7: resist-frown-hold-hat-misery-diary-recipe
+bip_39_word_dash_8: resist-frown-hold-hat-misery-diary-recipe-festival
+bip_39_word_dash_9: resist-frown-hold-hat-misery-diary-recipe-festival-thrive
+bip_39_word_new_br_1: resist
+bip_39_word_new_br_10: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth
+bip_39_word_new_br_11: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage
+bip_39_word_new_br_12: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive<br>worth<br>cage<br>assault
+bip_39_word_new_br_2: resist<br>frown
+bip_39_word_new_br_3: resist<br>frown<br>hold
+bip_39_word_new_br_4: resist<br>frown<br>hold<br>hat
+bip_39_word_new_br_5: resist<br>frown<br>hold<br>hat<br>misery
+bip_39_word_new_br_6: resist<br>frown<br>hold<br>hat<br>misery<br>diary
+bip_39_word_new_br_7: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe
+bip_39_word_new_br_8: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival
+bip_39_word_new_br_9: resist<br>frown<br>hold<br>hat<br>misery<br>diary<br>recipe<br>festival<br>thrive
+bip_39_word_new_line_1: resist
+bip_39_word_new_line_10: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth'
+bip_39_word_new_line_11: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth
+
+  cage'
+bip_39_word_new_line_12: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive
+
+  worth
+
+  cage
+
+  assault'
+bip_39_word_new_line_2: 'resist
+
+  frown'
+bip_39_word_new_line_3: 'resist
+
+  frown
+
+  hold'
+bip_39_word_new_line_4: 'resist
+
+  frown
+
+  hold
+
+  hat'
+bip_39_word_new_line_5: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery'
+bip_39_word_new_line_6: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary'
+bip_39_word_new_line_7: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe'
+bip_39_word_new_line_8: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival'
+bip_39_word_new_line_9: 'resist
+
+  frown
+
+  hold
+
+  hat
+
+  misery
+
+  diary
+
+  recipe
+
+  festival
+
+  thrive'
+bip_39_word_no_space_1: resist
+bip_39_word_no_space_10: resistfrownholdhatmiserydiaryrecipefestivalthriveworth
+bip_39_word_no_space_11: resistfrownholdhatmiserydiaryrecipefestivalthriveworthcage
+bip_39_word_no_space_12: resistfrownholdhatmiserydiaryrecipefestivalthriveworthcageassault
+bip_39_word_no_space_2: resistfrown
+bip_39_word_no_space_3: resistfrownhold
+bip_39_word_no_space_4: resistfrownholdhat
+bip_39_word_no_space_5: resistfrownholdhatmisery
+bip_39_word_no_space_6: resistfrownholdhatmiserydiary
+bip_39_word_no_space_7: resistfrownholdhatmiserydiaryrecipe
+bip_39_word_no_space_8: resistfrownholdhatmiserydiaryrecipefestival
+bip_39_word_no_space_9: resistfrownholdhatmiserydiaryrecipefestivalthrive
+bip_39_word_space_0:
+- resist
+- frown
+- hold
+- hat
+- misery
+- diary
+- recipe
+- festival
+- thrive
+- worth
+- cage
+- assault
+bip_39_word_space_1: resist
+bip_39_word_space_10: resist frown hold hat misery diary recipe festival thrive worth
+bip_39_word_space_11: resist frown hold hat misery diary recipe festival thrive worth
+  cage
+bip_39_word_space_12: resist frown hold hat misery diary recipe festival thrive worth
+  cage assault
+bip_39_word_space_2: resist frown
+bip_39_word_space_3: resist frown hold
+bip_39_word_space_4: resist frown hold hat
+bip_39_word_space_5: resist frown hold hat misery
+bip_39_word_space_6: resist frown hold hat misery diary
+bip_39_word_space_7: resist frown hold hat misery diary recipe
+bip_39_word_space_8: resist frown hold hat misery diary recipe festival
+bip_39_word_space_9: resist frown hold hat misery diary recipe festival thrive
+bip_39_word_underscore_1: resist
+bip_39_word_underscore_10: resist_frown_hold_hat_misery_diary_recipe_festival_thrive_worth
+bip_39_word_underscore_11: resist_frown_hold_hat_misery_diary_recipe_festival_thrive_worth_cage
+bip_39_word_underscore_12: resist_frown_hold_hat_misery_diary_recipe_festival_thrive_worth_cage_assault
+bip_39_word_underscore_2: resist_frown
+bip_39_word_underscore_3: resist_frown_hold
+bip_39_word_underscore_4: resist_frown_hold_hat
+bip_39_word_underscore_5: resist_frown_hold_hat_misery
+bip_39_word_underscore_6: resist_frown_hold_hat_misery_diary
+bip_39_word_underscore_7: resist_frown_hold_hat_misery_diary_recipe
+bip_39_word_underscore_8: resist_frown_hold_hat_misery_diary_recipe_festival
+bip_39_word_underscore_9: resist_frown_hold_hat_misery_diary_recipe_festival_thrive
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 220000ohm
 id_no_size: 220000_ohm
 id_no_type: 0805_220000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_220000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_220000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_220000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208fren
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208fren
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208fren
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 220000Ohm
 name_no_size: 220000 Ohm
 name_no_size_short: 220k Ohm
 name_no_type: 0805 220000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0805_220000_ohm
 oomp_word: hospital racehorse speaker
 oomp_word_emoji: ':hospital: :racehorse: :speaker:'

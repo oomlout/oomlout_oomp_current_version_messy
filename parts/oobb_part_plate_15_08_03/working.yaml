@@ -1,3 +1,222 @@
+bip_39_word_dash_1: decorate
+bip_39_word_dash_10: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp
+bip_39_word_dash_11: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp-squeeze
+bip_39_word_dash_12: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift-crisp-squeeze-abstract
+bip_39_word_dash_2: decorate-layer
+bip_39_word_dash_3: decorate-layer-fog
+bip_39_word_dash_4: decorate-layer-fog-glimpse
+bip_39_word_dash_5: decorate-layer-fog-glimpse-enemy
+bip_39_word_dash_6: decorate-layer-fog-glimpse-enemy-gaze
+bip_39_word_dash_7: decorate-layer-fog-glimpse-enemy-gaze-walk
+bip_39_word_dash_8: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo
+bip_39_word_dash_9: decorate-layer-fog-glimpse-enemy-gaze-walk-tattoo-drift
+bip_39_word_new_br_1: decorate
+bip_39_word_new_br_10: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp
+bip_39_word_new_br_11: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze
+bip_39_word_new_br_12: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift<br>crisp<br>squeeze<br>abstract
+bip_39_word_new_br_2: decorate<br>layer
+bip_39_word_new_br_3: decorate<br>layer<br>fog
+bip_39_word_new_br_4: decorate<br>layer<br>fog<br>glimpse
+bip_39_word_new_br_5: decorate<br>layer<br>fog<br>glimpse<br>enemy
+bip_39_word_new_br_6: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze
+bip_39_word_new_br_7: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk
+bip_39_word_new_br_8: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo
+bip_39_word_new_br_9: decorate<br>layer<br>fog<br>glimpse<br>enemy<br>gaze<br>walk<br>tattoo<br>drift
+bip_39_word_new_line_1: decorate
+bip_39_word_new_line_10: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp'
+bip_39_word_new_line_11: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp
+
+  squeeze'
+bip_39_word_new_line_12: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift
+
+  crisp
+
+  squeeze
+
+  abstract'
+bip_39_word_new_line_2: 'decorate
+
+  layer'
+bip_39_word_new_line_3: 'decorate
+
+  layer
+
+  fog'
+bip_39_word_new_line_4: 'decorate
+
+  layer
+
+  fog
+
+  glimpse'
+bip_39_word_new_line_5: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy'
+bip_39_word_new_line_6: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze'
+bip_39_word_new_line_7: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk'
+bip_39_word_new_line_8: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo'
+bip_39_word_new_line_9: 'decorate
+
+  layer
+
+  fog
+
+  glimpse
+
+  enemy
+
+  gaze
+
+  walk
+
+  tattoo
+
+  drift'
+bip_39_word_no_space_1: decorate
+bip_39_word_no_space_10: decoratelayerfogglimpseenemygazewalktattoodriftcrisp
+bip_39_word_no_space_11: decoratelayerfogglimpseenemygazewalktattoodriftcrispsqueeze
+bip_39_word_no_space_12: decoratelayerfogglimpseenemygazewalktattoodriftcrispsqueezeabstract
+bip_39_word_no_space_2: decoratelayer
+bip_39_word_no_space_3: decoratelayerfog
+bip_39_word_no_space_4: decoratelayerfogglimpse
+bip_39_word_no_space_5: decoratelayerfogglimpseenemy
+bip_39_word_no_space_6: decoratelayerfogglimpseenemygaze
+bip_39_word_no_space_7: decoratelayerfogglimpseenemygazewalk
+bip_39_word_no_space_8: decoratelayerfogglimpseenemygazewalktattoo
+bip_39_word_no_space_9: decoratelayerfogglimpseenemygazewalktattoodrift
+bip_39_word_space_0:
+- decorate
+- layer
+- fog
+- glimpse
+- enemy
+- gaze
+- walk
+- tattoo
+- drift
+- crisp
+- squeeze
+- abstract
+bip_39_word_space_1: decorate
+bip_39_word_space_10: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+bip_39_word_space_11: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+  squeeze
+bip_39_word_space_12: decorate layer fog glimpse enemy gaze walk tattoo drift crisp
+  squeeze abstract
+bip_39_word_space_2: decorate layer
+bip_39_word_space_3: decorate layer fog
+bip_39_word_space_4: decorate layer fog glimpse
+bip_39_word_space_5: decorate layer fog glimpse enemy
+bip_39_word_space_6: decorate layer fog glimpse enemy gaze
+bip_39_word_space_7: decorate layer fog glimpse enemy gaze walk
+bip_39_word_space_8: decorate layer fog glimpse enemy gaze walk tattoo
+bip_39_word_space_9: decorate layer fog glimpse enemy gaze walk tattoo drift
+bip_39_word_underscore_1: decorate
+bip_39_word_underscore_10: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp
+bip_39_word_underscore_11: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp_squeeze
+bip_39_word_underscore_12: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift_crisp_squeeze_abstract
+bip_39_word_underscore_2: decorate_layer
+bip_39_word_underscore_3: decorate_layer_fog
+bip_39_word_underscore_4: decorate_layer_fog_glimpse
+bip_39_word_underscore_5: decorate_layer_fog_glimpse_enemy
+bip_39_word_underscore_6: decorate_layer_fog_glimpse_enemy_gaze
+bip_39_word_underscore_7: decorate_layer_fog_glimpse_enemy_gaze_walk
+bip_39_word_underscore_8: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo
+bip_39_word_underscore_9: decorate_layer_fog_glimpse_enemy_gaze_walk_tattoo_drift
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_15_08_03
 id_no_color: '150803'
 id_no_size: '15_08_03'
 id_no_type: plate_15_08_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_08_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_08_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_08_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20lzik
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20lzik
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20lzik
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150803'
 name_no_size: 15 08 03
 name_no_size_short: 15 08 03
 name_no_type: Plate 15 08 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_15_08_03
 oomp_word: sparkles guitar alien
 oomp_word_emoji: ':sparkles: :guitar: :alien:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cotton
+bip_39_word_dash_10: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike
+bip_39_word_dash_11: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike-cup
+bip_39_word_dash_12: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy-spike-cup-arrow
+bip_39_word_dash_2: cotton-color
+bip_39_word_dash_3: cotton-color-dynamic
+bip_39_word_dash_4: cotton-color-dynamic-relief
+bip_39_word_dash_5: cotton-color-dynamic-relief-ozone
+bip_39_word_dash_6: cotton-color-dynamic-relief-ozone-fade
+bip_39_word_dash_7: cotton-color-dynamic-relief-ozone-fade-caught
+bip_39_word_dash_8: cotton-color-dynamic-relief-ozone-fade-caught-expand
+bip_39_word_dash_9: cotton-color-dynamic-relief-ozone-fade-caught-expand-boy
+bip_39_word_new_br_1: cotton
+bip_39_word_new_br_10: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy<br>spike
+bip_39_word_new_br_11: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy<br>spike<br>cup
+bip_39_word_new_br_12: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy<br>spike<br>cup<br>arrow
+bip_39_word_new_br_2: cotton<br>color
+bip_39_word_new_br_3: cotton<br>color<br>dynamic
+bip_39_word_new_br_4: cotton<br>color<br>dynamic<br>relief
+bip_39_word_new_br_5: cotton<br>color<br>dynamic<br>relief<br>ozone
+bip_39_word_new_br_6: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade
+bip_39_word_new_br_7: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught
+bip_39_word_new_br_8: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand
+bip_39_word_new_br_9: cotton<br>color<br>dynamic<br>relief<br>ozone<br>fade<br>caught<br>expand<br>boy
+bip_39_word_new_line_1: cotton
+bip_39_word_new_line_10: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught
+
+  expand
+
+  boy
+
+  spike'
+bip_39_word_new_line_11: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught
+
+  expand
+
+  boy
+
+  spike
+
+  cup'
+bip_39_word_new_line_12: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught
+
+  expand
+
+  boy
+
+  spike
+
+  cup
+
+  arrow'
+bip_39_word_new_line_2: 'cotton
+
+  color'
+bip_39_word_new_line_3: 'cotton
+
+  color
+
+  dynamic'
+bip_39_word_new_line_4: 'cotton
+
+  color
+
+  dynamic
+
+  relief'
+bip_39_word_new_line_5: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone'
+bip_39_word_new_line_6: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade'
+bip_39_word_new_line_7: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught'
+bip_39_word_new_line_8: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught
+
+  expand'
+bip_39_word_new_line_9: 'cotton
+
+  color
+
+  dynamic
+
+  relief
+
+  ozone
+
+  fade
+
+  caught
+
+  expand
+
+  boy'
+bip_39_word_no_space_1: cotton
+bip_39_word_no_space_10: cottoncolordynamicreliefozonefadecaughtexpandboyspike
+bip_39_word_no_space_11: cottoncolordynamicreliefozonefadecaughtexpandboyspikecup
+bip_39_word_no_space_12: cottoncolordynamicreliefozonefadecaughtexpandboyspikecuparrow
+bip_39_word_no_space_2: cottoncolor
+bip_39_word_no_space_3: cottoncolordynamic
+bip_39_word_no_space_4: cottoncolordynamicrelief
+bip_39_word_no_space_5: cottoncolordynamicreliefozone
+bip_39_word_no_space_6: cottoncolordynamicreliefozonefade
+bip_39_word_no_space_7: cottoncolordynamicreliefozonefadecaught
+bip_39_word_no_space_8: cottoncolordynamicreliefozonefadecaughtexpand
+bip_39_word_no_space_9: cottoncolordynamicreliefozonefadecaughtexpandboy
+bip_39_word_space_0:
+- cotton
+- color
+- dynamic
+- relief
+- ozone
+- fade
+- caught
+- expand
+- boy
+- spike
+- cup
+- arrow
+bip_39_word_space_1: cotton
+bip_39_word_space_10: cotton color dynamic relief ozone fade caught expand boy spike
+bip_39_word_space_11: cotton color dynamic relief ozone fade caught expand boy spike
+  cup
+bip_39_word_space_12: cotton color dynamic relief ozone fade caught expand boy spike
+  cup arrow
+bip_39_word_space_2: cotton color
+bip_39_word_space_3: cotton color dynamic
+bip_39_word_space_4: cotton color dynamic relief
+bip_39_word_space_5: cotton color dynamic relief ozone
+bip_39_word_space_6: cotton color dynamic relief ozone fade
+bip_39_word_space_7: cotton color dynamic relief ozone fade caught
+bip_39_word_space_8: cotton color dynamic relief ozone fade caught expand
+bip_39_word_space_9: cotton color dynamic relief ozone fade caught expand boy
+bip_39_word_underscore_1: cotton
+bip_39_word_underscore_10: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike
+bip_39_word_underscore_11: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike_cup
+bip_39_word_underscore_12: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy_spike_cup_arrow
+bip_39_word_underscore_2: cotton_color
+bip_39_word_underscore_3: cotton_color_dynamic
+bip_39_word_underscore_4: cotton_color_dynamic_relief
+bip_39_word_underscore_5: cotton_color_dynamic_relief_ozone
+bip_39_word_underscore_6: cotton_color_dynamic_relief_ozone_fade
+bip_39_word_underscore_7: cotton_color_dynamic_relief_ozone_fade_caught
+bip_39_word_underscore_8: cotton_color_dynamic_relief_ozone_fade_caught_expand
+bip_39_word_underscore_9: cotton_color_dynamic_relief_ozone_fade_caught_expand_boy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_15_11_03
 id_no_color: '151103'
 id_no_size: '15_11_03'
 id_no_type: plate_15_11_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_11_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_15_11_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_15_11_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207wbxw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207wbxw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207wbxw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '151103'
 name_no_size: 15 11 03
 name_no_size_short: 15 11 03
 name_no_type: Plate 15 11 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_15_11_03
 oomp_word: cherries chestnut fireworks
 oomp_word_emoji: ':cherries: :chestnut: :fireworks:'

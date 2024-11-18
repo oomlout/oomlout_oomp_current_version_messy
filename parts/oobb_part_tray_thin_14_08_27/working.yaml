@@ -1,3 +1,221 @@
+bip_39_word_dash_1: bus
+bip_39_word_dash_10: bus-stock-square-walk-elbow-soup-river-tired-salute-post
+bip_39_word_dash_11: bus-stock-square-walk-elbow-soup-river-tired-salute-post-nose
+bip_39_word_dash_12: bus-stock-square-walk-elbow-soup-river-tired-salute-post-nose-announce
+bip_39_word_dash_2: bus-stock
+bip_39_word_dash_3: bus-stock-square
+bip_39_word_dash_4: bus-stock-square-walk
+bip_39_word_dash_5: bus-stock-square-walk-elbow
+bip_39_word_dash_6: bus-stock-square-walk-elbow-soup
+bip_39_word_dash_7: bus-stock-square-walk-elbow-soup-river
+bip_39_word_dash_8: bus-stock-square-walk-elbow-soup-river-tired
+bip_39_word_dash_9: bus-stock-square-walk-elbow-soup-river-tired-salute
+bip_39_word_new_br_1: bus
+bip_39_word_new_br_10: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post
+bip_39_word_new_br_11: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose
+bip_39_word_new_br_12: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute<br>post<br>nose<br>announce
+bip_39_word_new_br_2: bus<br>stock
+bip_39_word_new_br_3: bus<br>stock<br>square
+bip_39_word_new_br_4: bus<br>stock<br>square<br>walk
+bip_39_word_new_br_5: bus<br>stock<br>square<br>walk<br>elbow
+bip_39_word_new_br_6: bus<br>stock<br>square<br>walk<br>elbow<br>soup
+bip_39_word_new_br_7: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river
+bip_39_word_new_br_8: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired
+bip_39_word_new_br_9: bus<br>stock<br>square<br>walk<br>elbow<br>soup<br>river<br>tired<br>salute
+bip_39_word_new_line_1: bus
+bip_39_word_new_line_10: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river
+
+  tired
+
+  salute
+
+  post'
+bip_39_word_new_line_11: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river
+
+  tired
+
+  salute
+
+  post
+
+  nose'
+bip_39_word_new_line_12: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river
+
+  tired
+
+  salute
+
+  post
+
+  nose
+
+  announce'
+bip_39_word_new_line_2: 'bus
+
+  stock'
+bip_39_word_new_line_3: 'bus
+
+  stock
+
+  square'
+bip_39_word_new_line_4: 'bus
+
+  stock
+
+  square
+
+  walk'
+bip_39_word_new_line_5: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow'
+bip_39_word_new_line_6: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup'
+bip_39_word_new_line_7: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river'
+bip_39_word_new_line_8: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river
+
+  tired'
+bip_39_word_new_line_9: 'bus
+
+  stock
+
+  square
+
+  walk
+
+  elbow
+
+  soup
+
+  river
+
+  tired
+
+  salute'
+bip_39_word_no_space_1: bus
+bip_39_word_no_space_10: busstocksquarewalkelbowsouprivertiredsalutepost
+bip_39_word_no_space_11: busstocksquarewalkelbowsouprivertiredsalutepostnose
+bip_39_word_no_space_12: busstocksquarewalkelbowsouprivertiredsalutepostnoseannounce
+bip_39_word_no_space_2: busstock
+bip_39_word_no_space_3: busstocksquare
+bip_39_word_no_space_4: busstocksquarewalk
+bip_39_word_no_space_5: busstocksquarewalkelbow
+bip_39_word_no_space_6: busstocksquarewalkelbowsoup
+bip_39_word_no_space_7: busstocksquarewalkelbowsoupriver
+bip_39_word_no_space_8: busstocksquarewalkelbowsouprivertired
+bip_39_word_no_space_9: busstocksquarewalkelbowsouprivertiredsalute
+bip_39_word_space_0:
+- bus
+- stock
+- square
+- walk
+- elbow
+- soup
+- river
+- tired
+- salute
+- post
+- nose
+- announce
+bip_39_word_space_1: bus
+bip_39_word_space_10: bus stock square walk elbow soup river tired salute post
+bip_39_word_space_11: bus stock square walk elbow soup river tired salute post nose
+bip_39_word_space_12: bus stock square walk elbow soup river tired salute post nose
+  announce
+bip_39_word_space_2: bus stock
+bip_39_word_space_3: bus stock square
+bip_39_word_space_4: bus stock square walk
+bip_39_word_space_5: bus stock square walk elbow
+bip_39_word_space_6: bus stock square walk elbow soup
+bip_39_word_space_7: bus stock square walk elbow soup river
+bip_39_word_space_8: bus stock square walk elbow soup river tired
+bip_39_word_space_9: bus stock square walk elbow soup river tired salute
+bip_39_word_underscore_1: bus
+bip_39_word_underscore_10: bus_stock_square_walk_elbow_soup_river_tired_salute_post
+bip_39_word_underscore_11: bus_stock_square_walk_elbow_soup_river_tired_salute_post_nose
+bip_39_word_underscore_12: bus_stock_square_walk_elbow_soup_river_tired_salute_post_nose_announce
+bip_39_word_underscore_2: bus_stock
+bip_39_word_underscore_3: bus_stock_square
+bip_39_word_underscore_4: bus_stock_square_walk
+bip_39_word_underscore_5: bus_stock_square_walk_elbow
+bip_39_word_underscore_6: bus_stock_square_walk_elbow_soup
+bip_39_word_underscore_7: bus_stock_square_walk_elbow_soup_river
+bip_39_word_underscore_8: bus_stock_square_walk_elbow_soup_river_tired
+bip_39_word_underscore_9: bus_stock_square_walk_elbow_soup_river_tired_salute
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_14_08_27
 id_no_color: '140827'
 id_no_size: '14_08_27'
 id_no_type: tray_thin_14_08_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_08_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_08_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_08_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tjhm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tjhm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tjhm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '140827'
 name_no_size: 14 08 27
 name_no_size_short: 14 08 27
 name_no_type: Tray Thin 14 08 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_08_27
 oomp_word: telescope snowflake tractor
 oomp_word_emoji: ':telescope: :snowflake: :tractor:'

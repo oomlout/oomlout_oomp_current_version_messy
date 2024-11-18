@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Flat Head M3 Black 14 mm Length Hex Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_flat_head_m3_black_14_mm_length_hex_head
   * classification: hardware

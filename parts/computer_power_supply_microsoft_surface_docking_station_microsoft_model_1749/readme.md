@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Power Supply Microsoft Surface Docking Station Microsoft Model 1749
+* name_short: 
 ### id
 * oomp_id: computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
   * classification: computer

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tool Holder Vertical 07 03 10  Tool Screwdriver Driver Bit X6
+* name_short: 
 ### id
 * oomp_id: oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :honey_pot: :snowflake: :shoe:
 * md5_6_alpha: 7rru0
 * md5_6: c72ca8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207rru0)
+[2x1](http://192.168.1.242:1112/?label=oomp%207rru0)
+[6x4](http://192.168.1.55:1112/?label=oomp%207rru0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ pen |
 | id_no_color | 070310toolscrewdriverdriverbitx6 |  
 | id_no_size | 07_03_10__tool_screwdriver_driver_bit_x6 |  
 | id_no_type | tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207rru0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207rru0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207rru0 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ pen |
 | name_no_size | 07 03 10  Tool Screwdriver Driver Bit X6 |  
 | name_no_size_short | 07 03 10  Tool Screwdriver Driver Bit X6 |  
 | name_no_type | Tool Holder Vertical 07 03 10  Tool Screwdriver Driver Bit X6 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_07_03_10__tool_screwdriver_driver_bit_x6 |  
 | oomp_word | honey_pot snowflake shoe |  
 | oomp_word_emoji | :honey_pot: :snowflake: :shoe: |  

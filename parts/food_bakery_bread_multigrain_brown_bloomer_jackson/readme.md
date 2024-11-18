@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Jackson's Multigrain Brown Bloomer
 
+### name
+* name: Food Bakery Bread Multigrain Brown Bloomer Jackson
+* name_short: 
 ### id
 * oomp_id: food_bakery_bread_multigrain_brown_bloomer_jackson
   * classification: food

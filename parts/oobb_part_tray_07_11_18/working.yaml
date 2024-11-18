@@ -1,3 +1,223 @@
+bip_39_word_dash_1: uncover
+bip_39_word_dash_10: uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef
+bip_39_word_dash_11: uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef-pass
+bip_39_word_dash_12: uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle-beef-pass-adult
+bip_39_word_dash_2: uncover-junior
+bip_39_word_dash_3: uncover-junior-wrist
+bip_39_word_dash_4: uncover-junior-wrist-silver
+bip_39_word_dash_5: uncover-junior-wrist-silver-hotel
+bip_39_word_dash_6: uncover-junior-wrist-silver-hotel-camera
+bip_39_word_dash_7: uncover-junior-wrist-silver-hotel-camera-shoe
+bip_39_word_dash_8: uncover-junior-wrist-silver-hotel-camera-shoe-victory
+bip_39_word_dash_9: uncover-junior-wrist-silver-hotel-camera-shoe-victory-eagle
+bip_39_word_new_br_1: uncover
+bip_39_word_new_br_10: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef
+bip_39_word_new_br_11: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef<br>pass
+bip_39_word_new_br_12: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle<br>beef<br>pass<br>adult
+bip_39_word_new_br_2: uncover<br>junior
+bip_39_word_new_br_3: uncover<br>junior<br>wrist
+bip_39_word_new_br_4: uncover<br>junior<br>wrist<br>silver
+bip_39_word_new_br_5: uncover<br>junior<br>wrist<br>silver<br>hotel
+bip_39_word_new_br_6: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera
+bip_39_word_new_br_7: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe
+bip_39_word_new_br_8: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory
+bip_39_word_new_br_9: uncover<br>junior<br>wrist<br>silver<br>hotel<br>camera<br>shoe<br>victory<br>eagle
+bip_39_word_new_line_1: uncover
+bip_39_word_new_line_10: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe
+
+  victory
+
+  eagle
+
+  beef'
+bip_39_word_new_line_11: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe
+
+  victory
+
+  eagle
+
+  beef
+
+  pass'
+bip_39_word_new_line_12: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe
+
+  victory
+
+  eagle
+
+  beef
+
+  pass
+
+  adult'
+bip_39_word_new_line_2: 'uncover
+
+  junior'
+bip_39_word_new_line_3: 'uncover
+
+  junior
+
+  wrist'
+bip_39_word_new_line_4: 'uncover
+
+  junior
+
+  wrist
+
+  silver'
+bip_39_word_new_line_5: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel'
+bip_39_word_new_line_6: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera'
+bip_39_word_new_line_7: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe'
+bip_39_word_new_line_8: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe
+
+  victory'
+bip_39_word_new_line_9: 'uncover
+
+  junior
+
+  wrist
+
+  silver
+
+  hotel
+
+  camera
+
+  shoe
+
+  victory
+
+  eagle'
+bip_39_word_no_space_1: uncover
+bip_39_word_no_space_10: uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeef
+bip_39_word_no_space_11: uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeefpass
+bip_39_word_no_space_12: uncoverjuniorwristsilverhotelcamerashoevictoryeaglebeefpassadult
+bip_39_word_no_space_2: uncoverjunior
+bip_39_word_no_space_3: uncoverjuniorwrist
+bip_39_word_no_space_4: uncoverjuniorwristsilver
+bip_39_word_no_space_5: uncoverjuniorwristsilverhotel
+bip_39_word_no_space_6: uncoverjuniorwristsilverhotelcamera
+bip_39_word_no_space_7: uncoverjuniorwristsilverhotelcamerashoe
+bip_39_word_no_space_8: uncoverjuniorwristsilverhotelcamerashoevictory
+bip_39_word_no_space_9: uncoverjuniorwristsilverhotelcamerashoevictoryeagle
+bip_39_word_space_0:
+- uncover
+- junior
+- wrist
+- silver
+- hotel
+- camera
+- shoe
+- victory
+- eagle
+- beef
+- pass
+- adult
+bip_39_word_space_1: uncover
+bip_39_word_space_10: uncover junior wrist silver hotel camera shoe victory eagle
+  beef
+bip_39_word_space_11: uncover junior wrist silver hotel camera shoe victory eagle
+  beef pass
+bip_39_word_space_12: uncover junior wrist silver hotel camera shoe victory eagle
+  beef pass adult
+bip_39_word_space_2: uncover junior
+bip_39_word_space_3: uncover junior wrist
+bip_39_word_space_4: uncover junior wrist silver
+bip_39_word_space_5: uncover junior wrist silver hotel
+bip_39_word_space_6: uncover junior wrist silver hotel camera
+bip_39_word_space_7: uncover junior wrist silver hotel camera shoe
+bip_39_word_space_8: uncover junior wrist silver hotel camera shoe victory
+bip_39_word_space_9: uncover junior wrist silver hotel camera shoe victory eagle
+bip_39_word_underscore_1: uncover
+bip_39_word_underscore_10: uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef
+bip_39_word_underscore_11: uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef_pass
+bip_39_word_underscore_12: uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle_beef_pass_adult
+bip_39_word_underscore_2: uncover_junior
+bip_39_word_underscore_3: uncover_junior_wrist
+bip_39_word_underscore_4: uncover_junior_wrist_silver
+bip_39_word_underscore_5: uncover_junior_wrist_silver_hotel
+bip_39_word_underscore_6: uncover_junior_wrist_silver_hotel_camera
+bip_39_word_underscore_7: uncover_junior_wrist_silver_hotel_camera_shoe
+bip_39_word_underscore_8: uncover_junior_wrist_silver_hotel_camera_shoe_victory
+bip_39_word_underscore_9: uncover_junior_wrist_silver_hotel_camera_shoe_victory_eagle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_07_11_18
 id_no_color: 071118
 id_no_size: 07_11_18
 id_no_type: tray_07_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202e1j9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202e1j9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202e1j9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 071118
 name_no_size: 07 11 18
 name_no_size_short: 07 11 18
 name_no_type: Tray 07 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_11_18
 oomp_word: cow camel snake
 oomp_word_emoji: ':cow: :camel: :snake:'

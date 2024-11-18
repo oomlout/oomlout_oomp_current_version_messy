@@ -1,3 +1,221 @@
+bip_39_word_dash_1: fan
+bip_39_word_dash_10: fan-armor-success-man-fame-know-gather-ten-horror-mind
+bip_39_word_dash_11: fan-armor-success-man-fame-know-gather-ten-horror-mind-bind
+bip_39_word_dash_12: fan-armor-success-man-fame-know-gather-ten-horror-mind-bind-alpha
+bip_39_word_dash_2: fan-armor
+bip_39_word_dash_3: fan-armor-success
+bip_39_word_dash_4: fan-armor-success-man
+bip_39_word_dash_5: fan-armor-success-man-fame
+bip_39_word_dash_6: fan-armor-success-man-fame-know
+bip_39_word_dash_7: fan-armor-success-man-fame-know-gather
+bip_39_word_dash_8: fan-armor-success-man-fame-know-gather-ten
+bip_39_word_dash_9: fan-armor-success-man-fame-know-gather-ten-horror
+bip_39_word_new_br_1: fan
+bip_39_word_new_br_10: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind
+bip_39_word_new_br_11: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind
+bip_39_word_new_br_12: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror<br>mind<br>bind<br>alpha
+bip_39_word_new_br_2: fan<br>armor
+bip_39_word_new_br_3: fan<br>armor<br>success
+bip_39_word_new_br_4: fan<br>armor<br>success<br>man
+bip_39_word_new_br_5: fan<br>armor<br>success<br>man<br>fame
+bip_39_word_new_br_6: fan<br>armor<br>success<br>man<br>fame<br>know
+bip_39_word_new_br_7: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather
+bip_39_word_new_br_8: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten
+bip_39_word_new_br_9: fan<br>armor<br>success<br>man<br>fame<br>know<br>gather<br>ten<br>horror
+bip_39_word_new_line_1: fan
+bip_39_word_new_line_10: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind'
+bip_39_word_new_line_11: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind
+
+  bind'
+bip_39_word_new_line_12: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror
+
+  mind
+
+  bind
+
+  alpha'
+bip_39_word_new_line_2: 'fan
+
+  armor'
+bip_39_word_new_line_3: 'fan
+
+  armor
+
+  success'
+bip_39_word_new_line_4: 'fan
+
+  armor
+
+  success
+
+  man'
+bip_39_word_new_line_5: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame'
+bip_39_word_new_line_6: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know'
+bip_39_word_new_line_7: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather'
+bip_39_word_new_line_8: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten'
+bip_39_word_new_line_9: 'fan
+
+  armor
+
+  success
+
+  man
+
+  fame
+
+  know
+
+  gather
+
+  ten
+
+  horror'
+bip_39_word_no_space_1: fan
+bip_39_word_no_space_10: fanarmorsuccessmanfameknowgathertenhorrormind
+bip_39_word_no_space_11: fanarmorsuccessmanfameknowgathertenhorrormindbind
+bip_39_word_no_space_12: fanarmorsuccessmanfameknowgathertenhorrormindbindalpha
+bip_39_word_no_space_2: fanarmor
+bip_39_word_no_space_3: fanarmorsuccess
+bip_39_word_no_space_4: fanarmorsuccessman
+bip_39_word_no_space_5: fanarmorsuccessmanfame
+bip_39_word_no_space_6: fanarmorsuccessmanfameknow
+bip_39_word_no_space_7: fanarmorsuccessmanfameknowgather
+bip_39_word_no_space_8: fanarmorsuccessmanfameknowgatherten
+bip_39_word_no_space_9: fanarmorsuccessmanfameknowgathertenhorror
+bip_39_word_space_0:
+- fan
+- armor
+- success
+- man
+- fame
+- know
+- gather
+- ten
+- horror
+- mind
+- bind
+- alpha
+bip_39_word_space_1: fan
+bip_39_word_space_10: fan armor success man fame know gather ten horror mind
+bip_39_word_space_11: fan armor success man fame know gather ten horror mind bind
+bip_39_word_space_12: fan armor success man fame know gather ten horror mind bind
+  alpha
+bip_39_word_space_2: fan armor
+bip_39_word_space_3: fan armor success
+bip_39_word_space_4: fan armor success man
+bip_39_word_space_5: fan armor success man fame
+bip_39_word_space_6: fan armor success man fame know
+bip_39_word_space_7: fan armor success man fame know gather
+bip_39_word_space_8: fan armor success man fame know gather ten
+bip_39_word_space_9: fan armor success man fame know gather ten horror
+bip_39_word_underscore_1: fan
+bip_39_word_underscore_10: fan_armor_success_man_fame_know_gather_ten_horror_mind
+bip_39_word_underscore_11: fan_armor_success_man_fame_know_gather_ten_horror_mind_bind
+bip_39_word_underscore_12: fan_armor_success_man_fame_know_gather_ten_horror_mind_bind_alpha
+bip_39_word_underscore_2: fan_armor
+bip_39_word_underscore_3: fan_armor_success
+bip_39_word_underscore_4: fan_armor_success_man
+bip_39_word_underscore_5: fan_armor_success_man_fame
+bip_39_word_underscore_6: fan_armor_success_man_fame_know
+bip_39_word_underscore_7: fan_armor_success_man_fame_know_gather
+bip_39_word_underscore_8: fan_armor_success_man_fame_know_gather_ten
+bip_39_word_underscore_9: fan_armor_success_man_fame_know_gather_ten_horror
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_01_27
 id_no_color: '120127'
 id_no_size: '12_01_27'
 id_no_type: tray_thin_12_01_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_01_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_01_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_01_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dkf7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dkf7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dkf7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120127'
 name_no_size: 12 01 27
 name_no_size_short: 12 01 27
 name_no_type: Tray Thin 12 01 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_01_27
 oomp_word: squirrel snowflake pencil
 oomp_word_emoji: ':squirrel: :snowflake: :pencil:'

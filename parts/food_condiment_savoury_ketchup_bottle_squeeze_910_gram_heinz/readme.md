@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz
+* name_short: Ketchup
 ### id
 * oomp_id: food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
   * classification: food

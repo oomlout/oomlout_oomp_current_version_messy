@@ -1,3 +1,222 @@
+bip_39_word_dash_1: omit
+bip_39_word_dash_10: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown
+bip_39_word_dash_11: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown-slab
+bip_39_word_dash_12: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid-frown-slab-address
+bip_39_word_dash_2: omit-sport
+bip_39_word_dash_3: omit-sport-chapter
+bip_39_word_dash_4: omit-sport-chapter-dad
+bip_39_word_dash_5: omit-sport-chapter-dad-account
+bip_39_word_dash_6: omit-sport-chapter-dad-account-myself
+bip_39_word_dash_7: omit-sport-chapter-dad-account-myself-chicken
+bip_39_word_dash_8: omit-sport-chapter-dad-account-myself-chicken-unfair
+bip_39_word_dash_9: omit-sport-chapter-dad-account-myself-chicken-unfair-avoid
+bip_39_word_new_br_1: omit
+bip_39_word_new_br_10: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown
+bip_39_word_new_br_11: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab
+bip_39_word_new_br_12: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid<br>frown<br>slab<br>address
+bip_39_word_new_br_2: omit<br>sport
+bip_39_word_new_br_3: omit<br>sport<br>chapter
+bip_39_word_new_br_4: omit<br>sport<br>chapter<br>dad
+bip_39_word_new_br_5: omit<br>sport<br>chapter<br>dad<br>account
+bip_39_word_new_br_6: omit<br>sport<br>chapter<br>dad<br>account<br>myself
+bip_39_word_new_br_7: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken
+bip_39_word_new_br_8: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair
+bip_39_word_new_br_9: omit<br>sport<br>chapter<br>dad<br>account<br>myself<br>chicken<br>unfair<br>avoid
+bip_39_word_new_line_1: omit
+bip_39_word_new_line_10: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown'
+bip_39_word_new_line_11: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown
+
+  slab'
+bip_39_word_new_line_12: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid
+
+  frown
+
+  slab
+
+  address'
+bip_39_word_new_line_2: 'omit
+
+  sport'
+bip_39_word_new_line_3: 'omit
+
+  sport
+
+  chapter'
+bip_39_word_new_line_4: 'omit
+
+  sport
+
+  chapter
+
+  dad'
+bip_39_word_new_line_5: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account'
+bip_39_word_new_line_6: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself'
+bip_39_word_new_line_7: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken'
+bip_39_word_new_line_8: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair'
+bip_39_word_new_line_9: 'omit
+
+  sport
+
+  chapter
+
+  dad
+
+  account
+
+  myself
+
+  chicken
+
+  unfair
+
+  avoid'
+bip_39_word_no_space_1: omit
+bip_39_word_no_space_10: omitsportchapterdadaccountmyselfchickenunfairavoidfrown
+bip_39_word_no_space_11: omitsportchapterdadaccountmyselfchickenunfairavoidfrownslab
+bip_39_word_no_space_12: omitsportchapterdadaccountmyselfchickenunfairavoidfrownslabaddress
+bip_39_word_no_space_2: omitsport
+bip_39_word_no_space_3: omitsportchapter
+bip_39_word_no_space_4: omitsportchapterdad
+bip_39_word_no_space_5: omitsportchapterdadaccount
+bip_39_word_no_space_6: omitsportchapterdadaccountmyself
+bip_39_word_no_space_7: omitsportchapterdadaccountmyselfchicken
+bip_39_word_no_space_8: omitsportchapterdadaccountmyselfchickenunfair
+bip_39_word_no_space_9: omitsportchapterdadaccountmyselfchickenunfairavoid
+bip_39_word_space_0:
+- omit
+- sport
+- chapter
+- dad
+- account
+- myself
+- chicken
+- unfair
+- avoid
+- frown
+- slab
+- address
+bip_39_word_space_1: omit
+bip_39_word_space_10: omit sport chapter dad account myself chicken unfair avoid frown
+bip_39_word_space_11: omit sport chapter dad account myself chicken unfair avoid frown
+  slab
+bip_39_word_space_12: omit sport chapter dad account myself chicken unfair avoid frown
+  slab address
+bip_39_word_space_2: omit sport
+bip_39_word_space_3: omit sport chapter
+bip_39_word_space_4: omit sport chapter dad
+bip_39_word_space_5: omit sport chapter dad account
+bip_39_word_space_6: omit sport chapter dad account myself
+bip_39_word_space_7: omit sport chapter dad account myself chicken
+bip_39_word_space_8: omit sport chapter dad account myself chicken unfair
+bip_39_word_space_9: omit sport chapter dad account myself chicken unfair avoid
+bip_39_word_underscore_1: omit
+bip_39_word_underscore_10: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown
+bip_39_word_underscore_11: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown_slab
+bip_39_word_underscore_12: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid_frown_slab_address
+bip_39_word_underscore_2: omit_sport
+bip_39_word_underscore_3: omit_sport_chapter
+bip_39_word_underscore_4: omit_sport_chapter_dad
+bip_39_word_underscore_5: omit_sport_chapter_dad_account
+bip_39_word_underscore_6: omit_sport_chapter_dad_account_myself
+bip_39_word_underscore_7: omit_sport_chapter_dad_account_myself_chicken
+bip_39_word_underscore_8: omit_sport_chapter_dad_account_myself_chicken_unfair
+bip_39_word_underscore_9: omit_sport_chapter_dad_account_myself_chicken_unfair_avoid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_03_01_24
 id_no_color: '030124'
 id_no_size: '03_01_24'
 id_no_type: tray_thin_03_01_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_03_01_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_03_01_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_03_01_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20262tz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20262tz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20262tz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030124'
 name_no_size: 03 01 24
 name_no_size_short: 03 01 24
 name_no_type: Tray Thin 03 01 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_03_01_24
 oomp_word: wolf telescope office
 oomp_word_emoji: ':wolf: :telescope: :office:'

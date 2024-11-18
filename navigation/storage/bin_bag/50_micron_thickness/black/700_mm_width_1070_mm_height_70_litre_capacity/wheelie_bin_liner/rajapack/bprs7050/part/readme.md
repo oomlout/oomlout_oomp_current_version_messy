@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Bin Bag 50 Micron Thickness Black 700 mm Width 1070 mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050
+* name_short: 
 ### id
 * oomp_id: storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :boat: :candy: :eyes:
 * md5_6_alpha: 8t4py
 * md5_6: e1c526
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208t4py)
+[2x1](http://192.168.1.242:1112/?label=oomp%208t4py)
+[6x4](http://192.168.1.55:1112/?label=oomp%208t4py)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -303,7 +329,14 @@ during |
 | id_no_color | 700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
 | id_no_size | black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
 | id_no_type | 50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208t4py |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208t4py |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208t4py |  
 | manufacturer | rajapack |  
 | manufacturer_capital | Rajapack |  
 | manufacturer_first_letter | r |  
@@ -352,6 +385,7 @@ during |
 | name_no_size | Black 700 mm Width 1070 mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
 | name_no_size_short | Black 700 Mm Width 1070 Mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
 | name_no_type | 50 Micron Thickness Black 700 mm Width 1070 mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
 | oomp_word | boat candy eyes |  
 | oomp_word_emoji | :boat: :candy: :eyes: |  

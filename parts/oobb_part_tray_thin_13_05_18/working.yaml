@@ -1,3 +1,223 @@
+bip_39_word_dash_1: aspect
+bip_39_word_dash_10: aspect-toward-service-couple-album-chase-december-purity-token-buzz
+bip_39_word_dash_11: aspect-toward-service-couple-album-chase-december-purity-token-buzz-bird
+bip_39_word_dash_12: aspect-toward-service-couple-album-chase-december-purity-token-buzz-bird-artwork
+bip_39_word_dash_2: aspect-toward
+bip_39_word_dash_3: aspect-toward-service
+bip_39_word_dash_4: aspect-toward-service-couple
+bip_39_word_dash_5: aspect-toward-service-couple-album
+bip_39_word_dash_6: aspect-toward-service-couple-album-chase
+bip_39_word_dash_7: aspect-toward-service-couple-album-chase-december
+bip_39_word_dash_8: aspect-toward-service-couple-album-chase-december-purity
+bip_39_word_dash_9: aspect-toward-service-couple-album-chase-december-purity-token
+bip_39_word_new_br_1: aspect
+bip_39_word_new_br_10: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz
+bip_39_word_new_br_11: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird
+bip_39_word_new_br_12: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token<br>buzz<br>bird<br>artwork
+bip_39_word_new_br_2: aspect<br>toward
+bip_39_word_new_br_3: aspect<br>toward<br>service
+bip_39_word_new_br_4: aspect<br>toward<br>service<br>couple
+bip_39_word_new_br_5: aspect<br>toward<br>service<br>couple<br>album
+bip_39_word_new_br_6: aspect<br>toward<br>service<br>couple<br>album<br>chase
+bip_39_word_new_br_7: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december
+bip_39_word_new_br_8: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity
+bip_39_word_new_br_9: aspect<br>toward<br>service<br>couple<br>album<br>chase<br>december<br>purity<br>token
+bip_39_word_new_line_1: aspect
+bip_39_word_new_line_10: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz'
+bip_39_word_new_line_11: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz
+
+  bird'
+bip_39_word_new_line_12: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token
+
+  buzz
+
+  bird
+
+  artwork'
+bip_39_word_new_line_2: 'aspect
+
+  toward'
+bip_39_word_new_line_3: 'aspect
+
+  toward
+
+  service'
+bip_39_word_new_line_4: 'aspect
+
+  toward
+
+  service
+
+  couple'
+bip_39_word_new_line_5: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album'
+bip_39_word_new_line_6: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase'
+bip_39_word_new_line_7: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december'
+bip_39_word_new_line_8: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity'
+bip_39_word_new_line_9: 'aspect
+
+  toward
+
+  service
+
+  couple
+
+  album
+
+  chase
+
+  december
+
+  purity
+
+  token'
+bip_39_word_no_space_1: aspect
+bip_39_word_no_space_10: aspecttowardservicecouplealbumchasedecemberpuritytokenbuzz
+bip_39_word_no_space_11: aspecttowardservicecouplealbumchasedecemberpuritytokenbuzzbird
+bip_39_word_no_space_12: aspecttowardservicecouplealbumchasedecemberpuritytokenbuzzbirdartwork
+bip_39_word_no_space_2: aspecttoward
+bip_39_word_no_space_3: aspecttowardservice
+bip_39_word_no_space_4: aspecttowardservicecouple
+bip_39_word_no_space_5: aspecttowardservicecouplealbum
+bip_39_word_no_space_6: aspecttowardservicecouplealbumchase
+bip_39_word_no_space_7: aspecttowardservicecouplealbumchasedecember
+bip_39_word_no_space_8: aspecttowardservicecouplealbumchasedecemberpurity
+bip_39_word_no_space_9: aspecttowardservicecouplealbumchasedecemberpuritytoken
+bip_39_word_space_0:
+- aspect
+- toward
+- service
+- couple
+- album
+- chase
+- december
+- purity
+- token
+- buzz
+- bird
+- artwork
+bip_39_word_space_1: aspect
+bip_39_word_space_10: aspect toward service couple album chase december purity token
+  buzz
+bip_39_word_space_11: aspect toward service couple album chase december purity token
+  buzz bird
+bip_39_word_space_12: aspect toward service couple album chase december purity token
+  buzz bird artwork
+bip_39_word_space_2: aspect toward
+bip_39_word_space_3: aspect toward service
+bip_39_word_space_4: aspect toward service couple
+bip_39_word_space_5: aspect toward service couple album
+bip_39_word_space_6: aspect toward service couple album chase
+bip_39_word_space_7: aspect toward service couple album chase december
+bip_39_word_space_8: aspect toward service couple album chase december purity
+bip_39_word_space_9: aspect toward service couple album chase december purity token
+bip_39_word_underscore_1: aspect
+bip_39_word_underscore_10: aspect_toward_service_couple_album_chase_december_purity_token_buzz
+bip_39_word_underscore_11: aspect_toward_service_couple_album_chase_december_purity_token_buzz_bird
+bip_39_word_underscore_12: aspect_toward_service_couple_album_chase_december_purity_token_buzz_bird_artwork
+bip_39_word_underscore_2: aspect_toward
+bip_39_word_underscore_3: aspect_toward_service
+bip_39_word_underscore_4: aspect_toward_service_couple
+bip_39_word_underscore_5: aspect_toward_service_couple_album
+bip_39_word_underscore_6: aspect_toward_service_couple_album_chase
+bip_39_word_underscore_7: aspect_toward_service_couple_album_chase_december
+bip_39_word_underscore_8: aspect_toward_service_couple_album_chase_december_purity
+bip_39_word_underscore_9: aspect_toward_service_couple_album_chase_december_purity_token
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_13_05_18
 id_no_color: '130518'
 id_no_size: '13_05_18'
 id_no_type: tray_thin_13_05_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_05_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_05_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_05_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208785j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208785j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208785j
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '130518'
 name_no_size: 13 05 18
 name_no_size_short: 13 05 18
 name_no_type: Tray Thin 13 05 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_05_18
 oomp_word: pineapple snowman cry
 oomp_word_emoji: ':pineapple: :snowman: :cry:'

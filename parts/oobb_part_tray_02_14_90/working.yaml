@@ -1,3 +1,223 @@
+bip_39_word_dash_1: pull
+bip_39_word_dash_10: pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask
+bip_39_word_dash_11: pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask-hobby
+bip_39_word_dash_12: pull-nominee-gesture-spot-impose-city-sentence-sausage-rally-ask-hobby-animal
+bip_39_word_dash_2: pull-nominee
+bip_39_word_dash_3: pull-nominee-gesture
+bip_39_word_dash_4: pull-nominee-gesture-spot
+bip_39_word_dash_5: pull-nominee-gesture-spot-impose
+bip_39_word_dash_6: pull-nominee-gesture-spot-impose-city
+bip_39_word_dash_7: pull-nominee-gesture-spot-impose-city-sentence
+bip_39_word_dash_8: pull-nominee-gesture-spot-impose-city-sentence-sausage
+bip_39_word_dash_9: pull-nominee-gesture-spot-impose-city-sentence-sausage-rally
+bip_39_word_new_br_1: pull
+bip_39_word_new_br_10: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask
+bip_39_word_new_br_11: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby
+bip_39_word_new_br_12: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally<br>ask<br>hobby<br>animal
+bip_39_word_new_br_2: pull<br>nominee
+bip_39_word_new_br_3: pull<br>nominee<br>gesture
+bip_39_word_new_br_4: pull<br>nominee<br>gesture<br>spot
+bip_39_word_new_br_5: pull<br>nominee<br>gesture<br>spot<br>impose
+bip_39_word_new_br_6: pull<br>nominee<br>gesture<br>spot<br>impose<br>city
+bip_39_word_new_br_7: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence
+bip_39_word_new_br_8: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage
+bip_39_word_new_br_9: pull<br>nominee<br>gesture<br>spot<br>impose<br>city<br>sentence<br>sausage<br>rally
+bip_39_word_new_line_1: pull
+bip_39_word_new_line_10: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence
+
+  sausage
+
+  rally
+
+  ask'
+bip_39_word_new_line_11: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence
+
+  sausage
+
+  rally
+
+  ask
+
+  hobby'
+bip_39_word_new_line_12: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence
+
+  sausage
+
+  rally
+
+  ask
+
+  hobby
+
+  animal'
+bip_39_word_new_line_2: 'pull
+
+  nominee'
+bip_39_word_new_line_3: 'pull
+
+  nominee
+
+  gesture'
+bip_39_word_new_line_4: 'pull
+
+  nominee
+
+  gesture
+
+  spot'
+bip_39_word_new_line_5: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose'
+bip_39_word_new_line_6: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city'
+bip_39_word_new_line_7: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence'
+bip_39_word_new_line_8: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence
+
+  sausage'
+bip_39_word_new_line_9: 'pull
+
+  nominee
+
+  gesture
+
+  spot
+
+  impose
+
+  city
+
+  sentence
+
+  sausage
+
+  rally'
+bip_39_word_no_space_1: pull
+bip_39_word_no_space_10: pullnomineegesturespotimposecitysentencesausagerallyask
+bip_39_word_no_space_11: pullnomineegesturespotimposecitysentencesausagerallyaskhobby
+bip_39_word_no_space_12: pullnomineegesturespotimposecitysentencesausagerallyaskhobbyanimal
+bip_39_word_no_space_2: pullnominee
+bip_39_word_no_space_3: pullnomineegesture
+bip_39_word_no_space_4: pullnomineegesturespot
+bip_39_word_no_space_5: pullnomineegesturespotimpose
+bip_39_word_no_space_6: pullnomineegesturespotimposecity
+bip_39_word_no_space_7: pullnomineegesturespotimposecitysentence
+bip_39_word_no_space_8: pullnomineegesturespotimposecitysentencesausage
+bip_39_word_no_space_9: pullnomineegesturespotimposecitysentencesausagerally
+bip_39_word_space_0:
+- pull
+- nominee
+- gesture
+- spot
+- impose
+- city
+- sentence
+- sausage
+- rally
+- ask
+- hobby
+- animal
+bip_39_word_space_1: pull
+bip_39_word_space_10: pull nominee gesture spot impose city sentence sausage rally
+  ask
+bip_39_word_space_11: pull nominee gesture spot impose city sentence sausage rally
+  ask hobby
+bip_39_word_space_12: pull nominee gesture spot impose city sentence sausage rally
+  ask hobby animal
+bip_39_word_space_2: pull nominee
+bip_39_word_space_3: pull nominee gesture
+bip_39_word_space_4: pull nominee gesture spot
+bip_39_word_space_5: pull nominee gesture spot impose
+bip_39_word_space_6: pull nominee gesture spot impose city
+bip_39_word_space_7: pull nominee gesture spot impose city sentence
+bip_39_word_space_8: pull nominee gesture spot impose city sentence sausage
+bip_39_word_space_9: pull nominee gesture spot impose city sentence sausage rally
+bip_39_word_underscore_1: pull
+bip_39_word_underscore_10: pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask
+bip_39_word_underscore_11: pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask_hobby
+bip_39_word_underscore_12: pull_nominee_gesture_spot_impose_city_sentence_sausage_rally_ask_hobby_animal
+bip_39_word_underscore_2: pull_nominee
+bip_39_word_underscore_3: pull_nominee_gesture
+bip_39_word_underscore_4: pull_nominee_gesture_spot
+bip_39_word_underscore_5: pull_nominee_gesture_spot_impose
+bip_39_word_underscore_6: pull_nominee_gesture_spot_impose_city
+bip_39_word_underscore_7: pull_nominee_gesture_spot_impose_city_sentence
+bip_39_word_underscore_8: pull_nominee_gesture_spot_impose_city_sentence_sausage
+bip_39_word_underscore_9: pull_nominee_gesture_spot_impose_city_sentence_sausage_rally
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_02_14_90
 id_no_color: 021490
 id_no_size: 02_14_90
 id_no_type: tray_02_14_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_14_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_14_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_14_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ngjn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ngjn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ngjn
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 021490
 name_no_size: 02 14 90
 name_no_size_short: 02 14 90
 name_no_type: Tray 02 14 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_14_90
 oomp_word: scissors hospital lock
 oomp_word_emoji: ':scissors: :hospital: :lock:'

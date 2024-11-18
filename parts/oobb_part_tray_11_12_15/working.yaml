@@ -1,3 +1,222 @@
+bip_39_word_dash_1: book
+bip_39_word_dash_10: book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century
+bip_39_word_dash_11: book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century-clap
+bip_39_word_dash_12: book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed-century-clap-abuse
+bip_39_word_dash_2: book-pencil
+bip_39_word_dash_3: book-pencil-tackle
+bip_39_word_dash_4: book-pencil-tackle-vapor
+bip_39_word_dash_5: book-pencil-tackle-vapor-garlic
+bip_39_word_dash_6: book-pencil-tackle-vapor-garlic-jazz
+bip_39_word_dash_7: book-pencil-tackle-vapor-garlic-jazz-other
+bip_39_word_dash_8: book-pencil-tackle-vapor-garlic-jazz-other-deputy
+bip_39_word_dash_9: book-pencil-tackle-vapor-garlic-jazz-other-deputy-armed
+bip_39_word_new_br_1: book
+bip_39_word_new_br_10: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed<br>century
+bip_39_word_new_br_11: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed<br>century<br>clap
+bip_39_word_new_br_12: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed<br>century<br>clap<br>abuse
+bip_39_word_new_br_2: book<br>pencil
+bip_39_word_new_br_3: book<br>pencil<br>tackle
+bip_39_word_new_br_4: book<br>pencil<br>tackle<br>vapor
+bip_39_word_new_br_5: book<br>pencil<br>tackle<br>vapor<br>garlic
+bip_39_word_new_br_6: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz
+bip_39_word_new_br_7: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other
+bip_39_word_new_br_8: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy
+bip_39_word_new_br_9: book<br>pencil<br>tackle<br>vapor<br>garlic<br>jazz<br>other<br>deputy<br>armed
+bip_39_word_new_line_1: book
+bip_39_word_new_line_10: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other
+
+  deputy
+
+  armed
+
+  century'
+bip_39_word_new_line_11: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other
+
+  deputy
+
+  armed
+
+  century
+
+  clap'
+bip_39_word_new_line_12: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other
+
+  deputy
+
+  armed
+
+  century
+
+  clap
+
+  abuse'
+bip_39_word_new_line_2: 'book
+
+  pencil'
+bip_39_word_new_line_3: 'book
+
+  pencil
+
+  tackle'
+bip_39_word_new_line_4: 'book
+
+  pencil
+
+  tackle
+
+  vapor'
+bip_39_word_new_line_5: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic'
+bip_39_word_new_line_6: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz'
+bip_39_word_new_line_7: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other'
+bip_39_word_new_line_8: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other
+
+  deputy'
+bip_39_word_new_line_9: 'book
+
+  pencil
+
+  tackle
+
+  vapor
+
+  garlic
+
+  jazz
+
+  other
+
+  deputy
+
+  armed'
+bip_39_word_no_space_1: book
+bip_39_word_no_space_10: bookpenciltacklevaporgarlicjazzotherdeputyarmedcentury
+bip_39_word_no_space_11: bookpenciltacklevaporgarlicjazzotherdeputyarmedcenturyclap
+bip_39_word_no_space_12: bookpenciltacklevaporgarlicjazzotherdeputyarmedcenturyclapabuse
+bip_39_word_no_space_2: bookpencil
+bip_39_word_no_space_3: bookpenciltackle
+bip_39_word_no_space_4: bookpenciltacklevapor
+bip_39_word_no_space_5: bookpenciltacklevaporgarlic
+bip_39_word_no_space_6: bookpenciltacklevaporgarlicjazz
+bip_39_word_no_space_7: bookpenciltacklevaporgarlicjazzother
+bip_39_word_no_space_8: bookpenciltacklevaporgarlicjazzotherdeputy
+bip_39_word_no_space_9: bookpenciltacklevaporgarlicjazzotherdeputyarmed
+bip_39_word_space_0:
+- book
+- pencil
+- tackle
+- vapor
+- garlic
+- jazz
+- other
+- deputy
+- armed
+- century
+- clap
+- abuse
+bip_39_word_space_1: book
+bip_39_word_space_10: book pencil tackle vapor garlic jazz other deputy armed century
+bip_39_word_space_11: book pencil tackle vapor garlic jazz other deputy armed century
+  clap
+bip_39_word_space_12: book pencil tackle vapor garlic jazz other deputy armed century
+  clap abuse
+bip_39_word_space_2: book pencil
+bip_39_word_space_3: book pencil tackle
+bip_39_word_space_4: book pencil tackle vapor
+bip_39_word_space_5: book pencil tackle vapor garlic
+bip_39_word_space_6: book pencil tackle vapor garlic jazz
+bip_39_word_space_7: book pencil tackle vapor garlic jazz other
+bip_39_word_space_8: book pencil tackle vapor garlic jazz other deputy
+bip_39_word_space_9: book pencil tackle vapor garlic jazz other deputy armed
+bip_39_word_underscore_1: book
+bip_39_word_underscore_10: book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century
+bip_39_word_underscore_11: book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century_clap
+bip_39_word_underscore_12: book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed_century_clap_abuse
+bip_39_word_underscore_2: book_pencil
+bip_39_word_underscore_3: book_pencil_tackle
+bip_39_word_underscore_4: book_pencil_tackle_vapor
+bip_39_word_underscore_5: book_pencil_tackle_vapor_garlic
+bip_39_word_underscore_6: book_pencil_tackle_vapor_garlic_jazz
+bip_39_word_underscore_7: book_pencil_tackle_vapor_garlic_jazz_other
+bip_39_word_underscore_8: book_pencil_tackle_vapor_garlic_jazz_other_deputy
+bip_39_word_underscore_9: book_pencil_tackle_vapor_garlic_jazz_other_deputy_armed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_11_12_15
 id_no_color: '111215'
 id_no_size: '11_12_15'
 id_no_type: tray_11_12_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_12_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_12_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20pqq1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20pqq1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20pqq1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '111215'
 name_no_size: 11 12 15
 name_no_size_short: 11 12 15
 name_no_type: Tray 11 12 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_12_15
 oomp_word: anger fish hammer
 oomp_word_emoji: ':anger: :fish: :hammer:'

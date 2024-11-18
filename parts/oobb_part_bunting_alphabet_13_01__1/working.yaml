@@ -1,3 +1,221 @@
+bip_39_word_dash_1: gaze
+bip_39_word_dash_10: gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man
+bip_39_word_dash_11: gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man-popular
+bip_39_word_dash_12: gaze-fabric-hope-soon-castle-you-hybrid-romance-region-man-popular-assist
+bip_39_word_dash_2: gaze-fabric
+bip_39_word_dash_3: gaze-fabric-hope
+bip_39_word_dash_4: gaze-fabric-hope-soon
+bip_39_word_dash_5: gaze-fabric-hope-soon-castle
+bip_39_word_dash_6: gaze-fabric-hope-soon-castle-you
+bip_39_word_dash_7: gaze-fabric-hope-soon-castle-you-hybrid
+bip_39_word_dash_8: gaze-fabric-hope-soon-castle-you-hybrid-romance
+bip_39_word_dash_9: gaze-fabric-hope-soon-castle-you-hybrid-romance-region
+bip_39_word_new_br_1: gaze
+bip_39_word_new_br_10: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man
+bip_39_word_new_br_11: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man<br>popular
+bip_39_word_new_br_12: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region<br>man<br>popular<br>assist
+bip_39_word_new_br_2: gaze<br>fabric
+bip_39_word_new_br_3: gaze<br>fabric<br>hope
+bip_39_word_new_br_4: gaze<br>fabric<br>hope<br>soon
+bip_39_word_new_br_5: gaze<br>fabric<br>hope<br>soon<br>castle
+bip_39_word_new_br_6: gaze<br>fabric<br>hope<br>soon<br>castle<br>you
+bip_39_word_new_br_7: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid
+bip_39_word_new_br_8: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance
+bip_39_word_new_br_9: gaze<br>fabric<br>hope<br>soon<br>castle<br>you<br>hybrid<br>romance<br>region
+bip_39_word_new_line_1: gaze
+bip_39_word_new_line_10: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid
+
+  romance
+
+  region
+
+  man'
+bip_39_word_new_line_11: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid
+
+  romance
+
+  region
+
+  man
+
+  popular'
+bip_39_word_new_line_12: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid
+
+  romance
+
+  region
+
+  man
+
+  popular
+
+  assist'
+bip_39_word_new_line_2: 'gaze
+
+  fabric'
+bip_39_word_new_line_3: 'gaze
+
+  fabric
+
+  hope'
+bip_39_word_new_line_4: 'gaze
+
+  fabric
+
+  hope
+
+  soon'
+bip_39_word_new_line_5: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle'
+bip_39_word_new_line_6: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you'
+bip_39_word_new_line_7: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid'
+bip_39_word_new_line_8: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid
+
+  romance'
+bip_39_word_new_line_9: 'gaze
+
+  fabric
+
+  hope
+
+  soon
+
+  castle
+
+  you
+
+  hybrid
+
+  romance
+
+  region'
+bip_39_word_no_space_1: gaze
+bip_39_word_no_space_10: gazefabrichopesooncastleyouhybridromanceregionman
+bip_39_word_no_space_11: gazefabrichopesooncastleyouhybridromanceregionmanpopular
+bip_39_word_no_space_12: gazefabrichopesooncastleyouhybridromanceregionmanpopularassist
+bip_39_word_no_space_2: gazefabric
+bip_39_word_no_space_3: gazefabrichope
+bip_39_word_no_space_4: gazefabrichopesoon
+bip_39_word_no_space_5: gazefabrichopesooncastle
+bip_39_word_no_space_6: gazefabrichopesooncastleyou
+bip_39_word_no_space_7: gazefabrichopesooncastleyouhybrid
+bip_39_word_no_space_8: gazefabrichopesooncastleyouhybridromance
+bip_39_word_no_space_9: gazefabrichopesooncastleyouhybridromanceregion
+bip_39_word_space_0:
+- gaze
+- fabric
+- hope
+- soon
+- castle
+- you
+- hybrid
+- romance
+- region
+- man
+- popular
+- assist
+bip_39_word_space_1: gaze
+bip_39_word_space_10: gaze fabric hope soon castle you hybrid romance region man
+bip_39_word_space_11: gaze fabric hope soon castle you hybrid romance region man popular
+bip_39_word_space_12: gaze fabric hope soon castle you hybrid romance region man popular
+  assist
+bip_39_word_space_2: gaze fabric
+bip_39_word_space_3: gaze fabric hope
+bip_39_word_space_4: gaze fabric hope soon
+bip_39_word_space_5: gaze fabric hope soon castle
+bip_39_word_space_6: gaze fabric hope soon castle you
+bip_39_word_space_7: gaze fabric hope soon castle you hybrid
+bip_39_word_space_8: gaze fabric hope soon castle you hybrid romance
+bip_39_word_space_9: gaze fabric hope soon castle you hybrid romance region
+bip_39_word_underscore_1: gaze
+bip_39_word_underscore_10: gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man
+bip_39_word_underscore_11: gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man_popular
+bip_39_word_underscore_12: gaze_fabric_hope_soon_castle_you_hybrid_romance_region_man_popular_assist
+bip_39_word_underscore_2: gaze_fabric
+bip_39_word_underscore_3: gaze_fabric_hope
+bip_39_word_underscore_4: gaze_fabric_hope_soon
+bip_39_word_underscore_5: gaze_fabric_hope_soon_castle
+bip_39_word_underscore_6: gaze_fabric_hope_soon_castle_you
+bip_39_word_underscore_7: gaze_fabric_hope_soon_castle_you_hybrid
+bip_39_word_underscore_8: gaze_fabric_hope_soon_castle_you_hybrid_romance
+bip_39_word_underscore_9: gaze_fabric_hope_soon_castle_you_hybrid_romance_region
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_bunting_alphabet_13_01__1
 id_no_color: '13011'
 id_no_size: '13_01__1'
 id_no_type: bunting_alphabet_13_01__1
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__1
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__1
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__1
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208mvdt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208mvdt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208mvdt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: '13011'
 name_no_size: 13 01  1
 name_no_size_short: 13 01  1
 name_no_type: Bunting Alphabet 13 01  1
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__1
 oomp_word: stars beetle bouquet
 oomp_word_emoji: ':stars: :beetle: :bouquet:'

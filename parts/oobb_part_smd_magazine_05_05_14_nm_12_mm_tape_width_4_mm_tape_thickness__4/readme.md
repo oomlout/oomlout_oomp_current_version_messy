@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 05 05 14 Nm 12 mm Tape Width 4 mm Tape Thickness  4
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sushi: :shirt: :lollipop:
 * md5_6_alpha: 7d0w6
 * md5_6: bcacc6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207d0w6)
+[2x1](http://192.168.1.242:1112/?label=oomp%207d0w6)
+[6x4](http://192.168.1.55:1112/?label=oomp%207d0w6)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ settle |
 | id_no_color | 050514nm12mmtapewidth4mmtapethickness4 |  
 | id_no_size | 05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
 | id_no_type | smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207d0w6 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207d0w6 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207d0w6 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ settle |
 | name_no_size | 05 05 14 Nm 12 mm Tape Width 4 mm Tape Thickness  4 |  
 | name_no_size_short | 05 05 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness  4 |  
 | name_no_type | SMD Magazine 05 05 14 Nm 12 mm Tape Width 4 mm Tape Thickness  4 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_05_05_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
 | oomp_word | sushi shirt lollipop |  
 | oomp_word_emoji | :sushi: :shirt: :lollipop: |  

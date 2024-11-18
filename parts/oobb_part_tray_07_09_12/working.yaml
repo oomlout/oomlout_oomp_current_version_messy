@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sample
+bip_39_word_dash_10: sample-merge-fan-adjust-person-tone-night-forward-lava-room
+bip_39_word_dash_11: sample-merge-fan-adjust-person-tone-night-forward-lava-room-sing
+bip_39_word_dash_12: sample-merge-fan-adjust-person-tone-night-forward-lava-room-sing-art
+bip_39_word_dash_2: sample-merge
+bip_39_word_dash_3: sample-merge-fan
+bip_39_word_dash_4: sample-merge-fan-adjust
+bip_39_word_dash_5: sample-merge-fan-adjust-person
+bip_39_word_dash_6: sample-merge-fan-adjust-person-tone
+bip_39_word_dash_7: sample-merge-fan-adjust-person-tone-night
+bip_39_word_dash_8: sample-merge-fan-adjust-person-tone-night-forward
+bip_39_word_dash_9: sample-merge-fan-adjust-person-tone-night-forward-lava
+bip_39_word_new_br_1: sample
+bip_39_word_new_br_10: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night<br>forward<br>lava<br>room
+bip_39_word_new_br_11: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night<br>forward<br>lava<br>room<br>sing
+bip_39_word_new_br_12: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night<br>forward<br>lava<br>room<br>sing<br>art
+bip_39_word_new_br_2: sample<br>merge
+bip_39_word_new_br_3: sample<br>merge<br>fan
+bip_39_word_new_br_4: sample<br>merge<br>fan<br>adjust
+bip_39_word_new_br_5: sample<br>merge<br>fan<br>adjust<br>person
+bip_39_word_new_br_6: sample<br>merge<br>fan<br>adjust<br>person<br>tone
+bip_39_word_new_br_7: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night
+bip_39_word_new_br_8: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night<br>forward
+bip_39_word_new_br_9: sample<br>merge<br>fan<br>adjust<br>person<br>tone<br>night<br>forward<br>lava
+bip_39_word_new_line_1: sample
+bip_39_word_new_line_10: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night
+
+  forward
+
+  lava
+
+  room'
+bip_39_word_new_line_11: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night
+
+  forward
+
+  lava
+
+  room
+
+  sing'
+bip_39_word_new_line_12: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night
+
+  forward
+
+  lava
+
+  room
+
+  sing
+
+  art'
+bip_39_word_new_line_2: 'sample
+
+  merge'
+bip_39_word_new_line_3: 'sample
+
+  merge
+
+  fan'
+bip_39_word_new_line_4: 'sample
+
+  merge
+
+  fan
+
+  adjust'
+bip_39_word_new_line_5: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person'
+bip_39_word_new_line_6: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone'
+bip_39_word_new_line_7: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night'
+bip_39_word_new_line_8: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night
+
+  forward'
+bip_39_word_new_line_9: 'sample
+
+  merge
+
+  fan
+
+  adjust
+
+  person
+
+  tone
+
+  night
+
+  forward
+
+  lava'
+bip_39_word_no_space_1: sample
+bip_39_word_no_space_10: samplemergefanadjustpersontonenightforwardlavaroom
+bip_39_word_no_space_11: samplemergefanadjustpersontonenightforwardlavaroomsing
+bip_39_word_no_space_12: samplemergefanadjustpersontonenightforwardlavaroomsingart
+bip_39_word_no_space_2: samplemerge
+bip_39_word_no_space_3: samplemergefan
+bip_39_word_no_space_4: samplemergefanadjust
+bip_39_word_no_space_5: samplemergefanadjustperson
+bip_39_word_no_space_6: samplemergefanadjustpersontone
+bip_39_word_no_space_7: samplemergefanadjustpersontonenight
+bip_39_word_no_space_8: samplemergefanadjustpersontonenightforward
+bip_39_word_no_space_9: samplemergefanadjustpersontonenightforwardlava
+bip_39_word_space_0:
+- sample
+- merge
+- fan
+- adjust
+- person
+- tone
+- night
+- forward
+- lava
+- room
+- sing
+- art
+bip_39_word_space_1: sample
+bip_39_word_space_10: sample merge fan adjust person tone night forward lava room
+bip_39_word_space_11: sample merge fan adjust person tone night forward lava room
+  sing
+bip_39_word_space_12: sample merge fan adjust person tone night forward lava room
+  sing art
+bip_39_word_space_2: sample merge
+bip_39_word_space_3: sample merge fan
+bip_39_word_space_4: sample merge fan adjust
+bip_39_word_space_5: sample merge fan adjust person
+bip_39_word_space_6: sample merge fan adjust person tone
+bip_39_word_space_7: sample merge fan adjust person tone night
+bip_39_word_space_8: sample merge fan adjust person tone night forward
+bip_39_word_space_9: sample merge fan adjust person tone night forward lava
+bip_39_word_underscore_1: sample
+bip_39_word_underscore_10: sample_merge_fan_adjust_person_tone_night_forward_lava_room
+bip_39_word_underscore_11: sample_merge_fan_adjust_person_tone_night_forward_lava_room_sing
+bip_39_word_underscore_12: sample_merge_fan_adjust_person_tone_night_forward_lava_room_sing_art
+bip_39_word_underscore_2: sample_merge
+bip_39_word_underscore_3: sample_merge_fan
+bip_39_word_underscore_4: sample_merge_fan_adjust
+bip_39_word_underscore_5: sample_merge_fan_adjust_person
+bip_39_word_underscore_6: sample_merge_fan_adjust_person_tone
+bip_39_word_underscore_7: sample_merge_fan_adjust_person_tone_night
+bip_39_word_underscore_8: sample_merge_fan_adjust_person_tone_night_forward
+bip_39_word_underscore_9: sample_merge_fan_adjust_person_tone_night_forward_lava
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_09_12
 id_no_color: 070912
 id_no_size: 07_09_12
 id_no_type: tray_07_09_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_09_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_09_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_09_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2080re6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2080re6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2080re6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 070912
 name_no_size: 07 09 12
 name_no_size_short: 07 09 12
 name_no_type: Tray 07 09 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_09_12
 oomp_word: strawberry paperclip jeans
 oomp_word_emoji: ':strawberry: :paperclip: :jeans:'

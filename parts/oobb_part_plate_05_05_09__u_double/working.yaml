@@ -1,3 +1,222 @@
+bip_39_word_dash_1: define
+bip_39_word_dash_10: define-lunar-helmet-engine-circle-leader-expose-hurt-enact-reform
+bip_39_word_dash_11: define-lunar-helmet-engine-circle-leader-expose-hurt-enact-reform-outside
+bip_39_word_dash_12: define-lunar-helmet-engine-circle-leader-expose-hurt-enact-reform-outside-artefact
+bip_39_word_dash_2: define-lunar
+bip_39_word_dash_3: define-lunar-helmet
+bip_39_word_dash_4: define-lunar-helmet-engine
+bip_39_word_dash_5: define-lunar-helmet-engine-circle
+bip_39_word_dash_6: define-lunar-helmet-engine-circle-leader
+bip_39_word_dash_7: define-lunar-helmet-engine-circle-leader-expose
+bip_39_word_dash_8: define-lunar-helmet-engine-circle-leader-expose-hurt
+bip_39_word_dash_9: define-lunar-helmet-engine-circle-leader-expose-hurt-enact
+bip_39_word_new_br_1: define
+bip_39_word_new_br_10: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose<br>hurt<br>enact<br>reform
+bip_39_word_new_br_11: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose<br>hurt<br>enact<br>reform<br>outside
+bip_39_word_new_br_12: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose<br>hurt<br>enact<br>reform<br>outside<br>artefact
+bip_39_word_new_br_2: define<br>lunar
+bip_39_word_new_br_3: define<br>lunar<br>helmet
+bip_39_word_new_br_4: define<br>lunar<br>helmet<br>engine
+bip_39_word_new_br_5: define<br>lunar<br>helmet<br>engine<br>circle
+bip_39_word_new_br_6: define<br>lunar<br>helmet<br>engine<br>circle<br>leader
+bip_39_word_new_br_7: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose
+bip_39_word_new_br_8: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose<br>hurt
+bip_39_word_new_br_9: define<br>lunar<br>helmet<br>engine<br>circle<br>leader<br>expose<br>hurt<br>enact
+bip_39_word_new_line_1: define
+bip_39_word_new_line_10: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose
+
+  hurt
+
+  enact
+
+  reform'
+bip_39_word_new_line_11: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose
+
+  hurt
+
+  enact
+
+  reform
+
+  outside'
+bip_39_word_new_line_12: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose
+
+  hurt
+
+  enact
+
+  reform
+
+  outside
+
+  artefact'
+bip_39_word_new_line_2: 'define
+
+  lunar'
+bip_39_word_new_line_3: 'define
+
+  lunar
+
+  helmet'
+bip_39_word_new_line_4: 'define
+
+  lunar
+
+  helmet
+
+  engine'
+bip_39_word_new_line_5: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle'
+bip_39_word_new_line_6: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader'
+bip_39_word_new_line_7: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose'
+bip_39_word_new_line_8: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose
+
+  hurt'
+bip_39_word_new_line_9: 'define
+
+  lunar
+
+  helmet
+
+  engine
+
+  circle
+
+  leader
+
+  expose
+
+  hurt
+
+  enact'
+bip_39_word_no_space_1: define
+bip_39_word_no_space_10: definelunarhelmetenginecircleleaderexposehurtenactreform
+bip_39_word_no_space_11: definelunarhelmetenginecircleleaderexposehurtenactreformoutside
+bip_39_word_no_space_12: definelunarhelmetenginecircleleaderexposehurtenactreformoutsideartefact
+bip_39_word_no_space_2: definelunar
+bip_39_word_no_space_3: definelunarhelmet
+bip_39_word_no_space_4: definelunarhelmetengine
+bip_39_word_no_space_5: definelunarhelmetenginecircle
+bip_39_word_no_space_6: definelunarhelmetenginecircleleader
+bip_39_word_no_space_7: definelunarhelmetenginecircleleaderexpose
+bip_39_word_no_space_8: definelunarhelmetenginecircleleaderexposehurt
+bip_39_word_no_space_9: definelunarhelmetenginecircleleaderexposehurtenact
+bip_39_word_space_0:
+- define
+- lunar
+- helmet
+- engine
+- circle
+- leader
+- expose
+- hurt
+- enact
+- reform
+- outside
+- artefact
+bip_39_word_space_1: define
+bip_39_word_space_10: define lunar helmet engine circle leader expose hurt enact reform
+bip_39_word_space_11: define lunar helmet engine circle leader expose hurt enact reform
+  outside
+bip_39_word_space_12: define lunar helmet engine circle leader expose hurt enact reform
+  outside artefact
+bip_39_word_space_2: define lunar
+bip_39_word_space_3: define lunar helmet
+bip_39_word_space_4: define lunar helmet engine
+bip_39_word_space_5: define lunar helmet engine circle
+bip_39_word_space_6: define lunar helmet engine circle leader
+bip_39_word_space_7: define lunar helmet engine circle leader expose
+bip_39_word_space_8: define lunar helmet engine circle leader expose hurt
+bip_39_word_space_9: define lunar helmet engine circle leader expose hurt enact
+bip_39_word_underscore_1: define
+bip_39_word_underscore_10: define_lunar_helmet_engine_circle_leader_expose_hurt_enact_reform
+bip_39_word_underscore_11: define_lunar_helmet_engine_circle_leader_expose_hurt_enact_reform_outside
+bip_39_word_underscore_12: define_lunar_helmet_engine_circle_leader_expose_hurt_enact_reform_outside_artefact
+bip_39_word_underscore_2: define_lunar
+bip_39_word_underscore_3: define_lunar_helmet
+bip_39_word_underscore_4: define_lunar_helmet_engine
+bip_39_word_underscore_5: define_lunar_helmet_engine_circle
+bip_39_word_underscore_6: define_lunar_helmet_engine_circle_leader
+bip_39_word_underscore_7: define_lunar_helmet_engine_circle_leader_expose
+bip_39_word_underscore_8: define_lunar_helmet_engine_circle_leader_expose_hurt
+bip_39_word_underscore_9: define_lunar_helmet_engine_circle_leader_expose_hurt_enact
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_plate_05_05_09__u_double
 id_no_color: 050509udouble
 id_no_size: 05_05_09__u_double
 id_no_type: plate_05_05_09__u_double
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_09__u_double
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_09__u_double
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_09__u_double
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208338t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208338t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208338t
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050509Udouble
 name_no_size: 05 05 09  U Double
 name_no_size_short: 05 05 09  U Double
 name_no_type: Plate 05 05 09  U Double
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_05_09__u_double
 oomp_word: melon bear snowman
 oomp_word_emoji: ':melon: :bear: :snowman:'

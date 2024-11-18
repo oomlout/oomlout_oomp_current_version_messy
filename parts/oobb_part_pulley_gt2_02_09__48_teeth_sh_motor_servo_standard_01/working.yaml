@@ -1,3 +1,191 @@
+bip_39_word_dash_1: ship
+bip_39_word_dash_10: ship-slush-gadget-time-wink-upgrade-nurse-near-exit-couch
+bip_39_word_dash_11: ship-slush-gadget-time-wink-upgrade-nurse-near-exit-couch-vast
+bip_39_word_dash_2: ship-slush
+bip_39_word_dash_3: ship-slush-gadget
+bip_39_word_dash_4: ship-slush-gadget-time
+bip_39_word_dash_5: ship-slush-gadget-time-wink
+bip_39_word_dash_6: ship-slush-gadget-time-wink-upgrade
+bip_39_word_dash_7: ship-slush-gadget-time-wink-upgrade-nurse
+bip_39_word_dash_8: ship-slush-gadget-time-wink-upgrade-nurse-near
+bip_39_word_dash_9: ship-slush-gadget-time-wink-upgrade-nurse-near-exit
+bip_39_word_new_br_1: ship
+bip_39_word_new_br_10: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch
+bip_39_word_new_br_11: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit<br>couch<br>vast
+bip_39_word_new_br_2: ship<br>slush
+bip_39_word_new_br_3: ship<br>slush<br>gadget
+bip_39_word_new_br_4: ship<br>slush<br>gadget<br>time
+bip_39_word_new_br_5: ship<br>slush<br>gadget<br>time<br>wink
+bip_39_word_new_br_6: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade
+bip_39_word_new_br_7: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse
+bip_39_word_new_br_8: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near
+bip_39_word_new_br_9: ship<br>slush<br>gadget<br>time<br>wink<br>upgrade<br>nurse<br>near<br>exit
+bip_39_word_new_line_1: ship
+bip_39_word_new_line_10: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade
+
+  nurse
+
+  near
+
+  exit
+
+  couch'
+bip_39_word_new_line_11: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade
+
+  nurse
+
+  near
+
+  exit
+
+  couch
+
+  vast'
+bip_39_word_new_line_2: 'ship
+
+  slush'
+bip_39_word_new_line_3: 'ship
+
+  slush
+
+  gadget'
+bip_39_word_new_line_4: 'ship
+
+  slush
+
+  gadget
+
+  time'
+bip_39_word_new_line_5: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink'
+bip_39_word_new_line_6: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade'
+bip_39_word_new_line_7: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade
+
+  nurse'
+bip_39_word_new_line_8: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade
+
+  nurse
+
+  near'
+bip_39_word_new_line_9: 'ship
+
+  slush
+
+  gadget
+
+  time
+
+  wink
+
+  upgrade
+
+  nurse
+
+  near
+
+  exit'
+bip_39_word_no_space_1: ship
+bip_39_word_no_space_10: shipslushgadgettimewinkupgradenursenearexitcouch
+bip_39_word_no_space_11: shipslushgadgettimewinkupgradenursenearexitcouchvast
+bip_39_word_no_space_2: shipslush
+bip_39_word_no_space_3: shipslushgadget
+bip_39_word_no_space_4: shipslushgadgettime
+bip_39_word_no_space_5: shipslushgadgettimewink
+bip_39_word_no_space_6: shipslushgadgettimewinkupgrade
+bip_39_word_no_space_7: shipslushgadgettimewinkupgradenurse
+bip_39_word_no_space_8: shipslushgadgettimewinkupgradenursenear
+bip_39_word_no_space_9: shipslushgadgettimewinkupgradenursenearexit
+bip_39_word_space_0:
+- ship
+- slush
+- gadget
+- time
+- wink
+- upgrade
+- nurse
+- near
+- exit
+- couch
+- vast
+bip_39_word_space_1: ship
+bip_39_word_space_10: ship slush gadget time wink upgrade nurse near exit couch
+bip_39_word_space_11: ship slush gadget time wink upgrade nurse near exit couch vast
+bip_39_word_space_2: ship slush
+bip_39_word_space_3: ship slush gadget
+bip_39_word_space_4: ship slush gadget time
+bip_39_word_space_5: ship slush gadget time wink
+bip_39_word_space_6: ship slush gadget time wink upgrade
+bip_39_word_space_7: ship slush gadget time wink upgrade nurse
+bip_39_word_space_8: ship slush gadget time wink upgrade nurse near
+bip_39_word_space_9: ship slush gadget time wink upgrade nurse near exit
+bip_39_word_underscore_1: ship
+bip_39_word_underscore_10: ship_slush_gadget_time_wink_upgrade_nurse_near_exit_couch
+bip_39_word_underscore_11: ship_slush_gadget_time_wink_upgrade_nurse_near_exit_couch_vast
+bip_39_word_underscore_2: ship_slush
+bip_39_word_underscore_3: ship_slush_gadget
+bip_39_word_underscore_4: ship_slush_gadget_time
+bip_39_word_underscore_5: ship_slush_gadget_time_wink
+bip_39_word_underscore_6: ship_slush_gadget_time_wink_upgrade
+bip_39_word_underscore_7: ship_slush_gadget_time_wink_upgrade_nurse
+bip_39_word_underscore_8: ship_slush_gadget_time_wink_upgrade_nurse_near
+bip_39_word_underscore_9: ship_slush_gadget_time_wink_upgrade_nurse_near_exit
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +294,14 @@ id_no_class: part_pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
 id_no_color: 020948teethshmotorservostandard01
 id_no_size: 02_09__48_teeth_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ngs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ngs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ngs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +327,7 @@ name_no_color: 020948Teethshmotorservostandard01
 name_no_size: 02 09  48 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 02 09  48 Teeth Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 02 09  48 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__48_teeth_sh_motor_servo_standard_01
 oomp_word: smile rowboat turtle
 oomp_word_emoji: ':smile: :rowboat: :turtle:'

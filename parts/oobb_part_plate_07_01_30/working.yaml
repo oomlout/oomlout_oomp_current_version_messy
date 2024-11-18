@@ -1,3 +1,222 @@
+bip_39_word_dash_1: nice
+bip_39_word_dash_10: nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden
+bip_39_word_dash_11: nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden-math
+bip_39_word_dash_12: nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal-garden-math-arctic
+bip_39_word_dash_2: nice-culture
+bip_39_word_dash_3: nice-culture-kiwi
+bip_39_word_dash_4: nice-culture-kiwi-swarm
+bip_39_word_dash_5: nice-culture-kiwi-swarm-couch
+bip_39_word_dash_6: nice-culture-kiwi-swarm-couch-evolve
+bip_39_word_dash_7: nice-culture-kiwi-swarm-couch-evolve-corn
+bip_39_word_dash_8: nice-culture-kiwi-swarm-couch-evolve-corn-cost
+bip_39_word_dash_9: nice-culture-kiwi-swarm-couch-evolve-corn-cost-cereal
+bip_39_word_new_br_1: nice
+bip_39_word_new_br_10: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden
+bip_39_word_new_br_11: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden<br>math
+bip_39_word_new_br_12: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal<br>garden<br>math<br>arctic
+bip_39_word_new_br_2: nice<br>culture
+bip_39_word_new_br_3: nice<br>culture<br>kiwi
+bip_39_word_new_br_4: nice<br>culture<br>kiwi<br>swarm
+bip_39_word_new_br_5: nice<br>culture<br>kiwi<br>swarm<br>couch
+bip_39_word_new_br_6: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve
+bip_39_word_new_br_7: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn
+bip_39_word_new_br_8: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost
+bip_39_word_new_br_9: nice<br>culture<br>kiwi<br>swarm<br>couch<br>evolve<br>corn<br>cost<br>cereal
+bip_39_word_new_line_1: nice
+bip_39_word_new_line_10: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn
+
+  cost
+
+  cereal
+
+  garden'
+bip_39_word_new_line_11: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn
+
+  cost
+
+  cereal
+
+  garden
+
+  math'
+bip_39_word_new_line_12: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn
+
+  cost
+
+  cereal
+
+  garden
+
+  math
+
+  arctic'
+bip_39_word_new_line_2: 'nice
+
+  culture'
+bip_39_word_new_line_3: 'nice
+
+  culture
+
+  kiwi'
+bip_39_word_new_line_4: 'nice
+
+  culture
+
+  kiwi
+
+  swarm'
+bip_39_word_new_line_5: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch'
+bip_39_word_new_line_6: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve'
+bip_39_word_new_line_7: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn'
+bip_39_word_new_line_8: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn
+
+  cost'
+bip_39_word_new_line_9: 'nice
+
+  culture
+
+  kiwi
+
+  swarm
+
+  couch
+
+  evolve
+
+  corn
+
+  cost
+
+  cereal'
+bip_39_word_no_space_1: nice
+bip_39_word_no_space_10: niceculturekiwiswarmcouchevolvecorncostcerealgarden
+bip_39_word_no_space_11: niceculturekiwiswarmcouchevolvecorncostcerealgardenmath
+bip_39_word_no_space_12: niceculturekiwiswarmcouchevolvecorncostcerealgardenmatharctic
+bip_39_word_no_space_2: niceculture
+bip_39_word_no_space_3: niceculturekiwi
+bip_39_word_no_space_4: niceculturekiwiswarm
+bip_39_word_no_space_5: niceculturekiwiswarmcouch
+bip_39_word_no_space_6: niceculturekiwiswarmcouchevolve
+bip_39_word_no_space_7: niceculturekiwiswarmcouchevolvecorn
+bip_39_word_no_space_8: niceculturekiwiswarmcouchevolvecorncost
+bip_39_word_no_space_9: niceculturekiwiswarmcouchevolvecorncostcereal
+bip_39_word_space_0:
+- nice
+- culture
+- kiwi
+- swarm
+- couch
+- evolve
+- corn
+- cost
+- cereal
+- garden
+- math
+- arctic
+bip_39_word_space_1: nice
+bip_39_word_space_10: nice culture kiwi swarm couch evolve corn cost cereal garden
+bip_39_word_space_11: nice culture kiwi swarm couch evolve corn cost cereal garden
+  math
+bip_39_word_space_12: nice culture kiwi swarm couch evolve corn cost cereal garden
+  math arctic
+bip_39_word_space_2: nice culture
+bip_39_word_space_3: nice culture kiwi
+bip_39_word_space_4: nice culture kiwi swarm
+bip_39_word_space_5: nice culture kiwi swarm couch
+bip_39_word_space_6: nice culture kiwi swarm couch evolve
+bip_39_word_space_7: nice culture kiwi swarm couch evolve corn
+bip_39_word_space_8: nice culture kiwi swarm couch evolve corn cost
+bip_39_word_space_9: nice culture kiwi swarm couch evolve corn cost cereal
+bip_39_word_underscore_1: nice
+bip_39_word_underscore_10: nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden
+bip_39_word_underscore_11: nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden_math
+bip_39_word_underscore_12: nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal_garden_math_arctic
+bip_39_word_underscore_2: nice_culture
+bip_39_word_underscore_3: nice_culture_kiwi
+bip_39_word_underscore_4: nice_culture_kiwi_swarm
+bip_39_word_underscore_5: nice_culture_kiwi_swarm_couch
+bip_39_word_underscore_6: nice_culture_kiwi_swarm_couch_evolve
+bip_39_word_underscore_7: nice_culture_kiwi_swarm_couch_evolve_corn
+bip_39_word_underscore_8: nice_culture_kiwi_swarm_couch_evolve_corn_cost
+bip_39_word_underscore_9: nice_culture_kiwi_swarm_couch_evolve_corn_cost_cereal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_07_01_30
 id_no_color: '070130'
 id_no_size: '07_01_30'
 id_no_type: plate_07_01_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206zj87
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206zj87
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206zj87
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '070130'
 name_no_size: 07 01 30
 name_no_size_short: 07 01 30
 name_no_type: Plate 07 01 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_07_01_30
 oomp_word: eyeglasses anger thumbsdown
 oomp_word_emoji: ':eyeglasses: :anger: :thumbsdown:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: mammal
+bip_39_word_dash_10: mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half
+bip_39_word_dash_11: mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half-attend
+bip_39_word_dash_12: mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft-half-attend-armed
+bip_39_word_dash_2: mammal-chicken
+bip_39_word_dash_3: mammal-chicken-illness
+bip_39_word_dash_4: mammal-chicken-illness-exhibit
+bip_39_word_dash_5: mammal-chicken-illness-exhibit-bundle
+bip_39_word_dash_6: mammal-chicken-illness-exhibit-bundle-secret
+bip_39_word_dash_7: mammal-chicken-illness-exhibit-bundle-secret-predict
+bip_39_word_dash_8: mammal-chicken-illness-exhibit-bundle-secret-predict-tape
+bip_39_word_dash_9: mammal-chicken-illness-exhibit-bundle-secret-predict-tape-draft
+bip_39_word_new_br_1: mammal
+bip_39_word_new_br_10: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half
+bip_39_word_new_br_11: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half<br>attend
+bip_39_word_new_br_12: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft<br>half<br>attend<br>armed
+bip_39_word_new_br_2: mammal<br>chicken
+bip_39_word_new_br_3: mammal<br>chicken<br>illness
+bip_39_word_new_br_4: mammal<br>chicken<br>illness<br>exhibit
+bip_39_word_new_br_5: mammal<br>chicken<br>illness<br>exhibit<br>bundle
+bip_39_word_new_br_6: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret
+bip_39_word_new_br_7: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict
+bip_39_word_new_br_8: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape
+bip_39_word_new_br_9: mammal<br>chicken<br>illness<br>exhibit<br>bundle<br>secret<br>predict<br>tape<br>draft
+bip_39_word_new_line_1: mammal
+bip_39_word_new_line_10: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict
+
+  tape
+
+  draft
+
+  half'
+bip_39_word_new_line_11: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict
+
+  tape
+
+  draft
+
+  half
+
+  attend'
+bip_39_word_new_line_12: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict
+
+  tape
+
+  draft
+
+  half
+
+  attend
+
+  armed'
+bip_39_word_new_line_2: 'mammal
+
+  chicken'
+bip_39_word_new_line_3: 'mammal
+
+  chicken
+
+  illness'
+bip_39_word_new_line_4: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit'
+bip_39_word_new_line_5: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle'
+bip_39_word_new_line_6: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret'
+bip_39_word_new_line_7: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict'
+bip_39_word_new_line_8: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict
+
+  tape'
+bip_39_word_new_line_9: 'mammal
+
+  chicken
+
+  illness
+
+  exhibit
+
+  bundle
+
+  secret
+
+  predict
+
+  tape
+
+  draft'
+bip_39_word_no_space_1: mammal
+bip_39_word_no_space_10: mammalchickenillnessexhibitbundlesecretpredicttapedrafthalf
+bip_39_word_no_space_11: mammalchickenillnessexhibitbundlesecretpredicttapedrafthalfattend
+bip_39_word_no_space_12: mammalchickenillnessexhibitbundlesecretpredicttapedrafthalfattendarmed
+bip_39_word_no_space_2: mammalchicken
+bip_39_word_no_space_3: mammalchickenillness
+bip_39_word_no_space_4: mammalchickenillnessexhibit
+bip_39_word_no_space_5: mammalchickenillnessexhibitbundle
+bip_39_word_no_space_6: mammalchickenillnessexhibitbundlesecret
+bip_39_word_no_space_7: mammalchickenillnessexhibitbundlesecretpredict
+bip_39_word_no_space_8: mammalchickenillnessexhibitbundlesecretpredicttape
+bip_39_word_no_space_9: mammalchickenillnessexhibitbundlesecretpredicttapedraft
+bip_39_word_space_0:
+- mammal
+- chicken
+- illness
+- exhibit
+- bundle
+- secret
+- predict
+- tape
+- draft
+- half
+- attend
+- armed
+bip_39_word_space_1: mammal
+bip_39_word_space_10: mammal chicken illness exhibit bundle secret predict tape draft
+  half
+bip_39_word_space_11: mammal chicken illness exhibit bundle secret predict tape draft
+  half attend
+bip_39_word_space_12: mammal chicken illness exhibit bundle secret predict tape draft
+  half attend armed
+bip_39_word_space_2: mammal chicken
+bip_39_word_space_3: mammal chicken illness
+bip_39_word_space_4: mammal chicken illness exhibit
+bip_39_word_space_5: mammal chicken illness exhibit bundle
+bip_39_word_space_6: mammal chicken illness exhibit bundle secret
+bip_39_word_space_7: mammal chicken illness exhibit bundle secret predict
+bip_39_word_space_8: mammal chicken illness exhibit bundle secret predict tape
+bip_39_word_space_9: mammal chicken illness exhibit bundle secret predict tape draft
+bip_39_word_underscore_1: mammal
+bip_39_word_underscore_10: mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half
+bip_39_word_underscore_11: mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half_attend
+bip_39_word_underscore_12: mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft_half_attend_armed
+bip_39_word_underscore_2: mammal_chicken
+bip_39_word_underscore_3: mammal_chicken_illness
+bip_39_word_underscore_4: mammal_chicken_illness_exhibit
+bip_39_word_underscore_5: mammal_chicken_illness_exhibit_bundle
+bip_39_word_underscore_6: mammal_chicken_illness_exhibit_bundle_secret
+bip_39_word_underscore_7: mammal_chicken_illness_exhibit_bundle_secret_predict
+bip_39_word_underscore_8: mammal_chicken_illness_exhibit_bundle_secret_predict_tape
+bip_39_word_underscore_9: mammal_chicken_illness_exhibit_bundle_secret_predict_tape_draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_smd_magazine_lid_09_09
 id_no_color: 0909
 id_no_size: 09_09
 id_no_type: smd_magazine_lid_09_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_09_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_lid_09_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_lid_09_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207c8ii
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207c8ii
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207c8ii
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 0909
 name_no_size: 09 09
 name_no_size_short: 09 09
 name_no_type: SMD Magazine Lid 09 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_lid_09_09
 oomp_word: sushi baby clap
 oomp_word_emoji: ':sushi: :baby: :clap:'

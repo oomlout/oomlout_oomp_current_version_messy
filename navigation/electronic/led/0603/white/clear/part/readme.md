@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 0603 White Clear
+* name_short: 
 ### id
 * oomp_id: electronic_led_0603_white_clear
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bread: :fish: :ramen:
 * md5_6_alpha: 7i5ku
 * md5_6: c053be
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207i5ku)
+[2x1](http://192.168.1.242:1112/?label=oomp%207i5ku)
+[6x4](http://192.168.1.55:1112/?label=oomp%207i5ku)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_clear) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white_clear)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -283,7 +309,14 @@ brother |
 | id_no_size | white_clear |  
 | id_no_type | 0603_white_clear |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_clear |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_white_clear |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603_white_clear |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207i5ku |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207i5ku |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207i5ku |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ brother |
 | name_no_size | White Clear |  
 | name_no_size_short | White Clear |  
 | name_no_type | 0603 White Clear |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0603_white_clear |  
 | oomp_word | bread fish ramen |  
 | oomp_word_emoji | :bread: :fish: :ramen: |  

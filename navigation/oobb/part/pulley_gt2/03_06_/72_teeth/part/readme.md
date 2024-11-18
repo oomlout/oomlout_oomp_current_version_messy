@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 03 06  72 Teeth
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_03_06__72_teeth
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :pushpin: :three: :baby:
 * md5_6_alpha: 5p0kd
 * md5_6: 91f41d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205p0kd)
+[2x1](http://192.168.1.242:1112/?label=oomp%205p0kd)
+[6x4](http://192.168.1.55:1112/?label=oomp%205p0kd)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ guess |
 | id_no_color | 030672teeth |  
 | id_no_size | 03_06__72_teeth |  
 | id_no_type | pulley_gt2_03_06__72_teeth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_06__72_teeth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205p0kd |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205p0kd |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205p0kd |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ guess |
 | name_no_size | 03 06  72 Teeth |  
 | name_no_size_short | 03 06  72 Teeth |  
 | name_no_type | Pulley Gt2 03 06  72 Teeth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_03_06__72_teeth |  
 | oomp_word | pushpin three baby |  
 | oomp_word_emoji | :pushpin: :three: :baby: |  

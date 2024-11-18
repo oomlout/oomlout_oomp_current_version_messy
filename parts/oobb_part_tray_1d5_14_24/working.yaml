@@ -1,3 +1,222 @@
+bip_39_word_dash_1: water
+bip_39_word_dash_10: water-cat-rural-entire-blanket-unaware-urban-video-donkey-final
+bip_39_word_dash_11: water-cat-rural-entire-blanket-unaware-urban-video-donkey-final-next
+bip_39_word_dash_12: water-cat-rural-entire-blanket-unaware-urban-video-donkey-final-next-also
+bip_39_word_dash_2: water-cat
+bip_39_word_dash_3: water-cat-rural
+bip_39_word_dash_4: water-cat-rural-entire
+bip_39_word_dash_5: water-cat-rural-entire-blanket
+bip_39_word_dash_6: water-cat-rural-entire-blanket-unaware
+bip_39_word_dash_7: water-cat-rural-entire-blanket-unaware-urban
+bip_39_word_dash_8: water-cat-rural-entire-blanket-unaware-urban-video
+bip_39_word_dash_9: water-cat-rural-entire-blanket-unaware-urban-video-donkey
+bip_39_word_new_br_1: water
+bip_39_word_new_br_10: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey<br>final
+bip_39_word_new_br_11: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey<br>final<br>next
+bip_39_word_new_br_12: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey<br>final<br>next<br>also
+bip_39_word_new_br_2: water<br>cat
+bip_39_word_new_br_3: water<br>cat<br>rural
+bip_39_word_new_br_4: water<br>cat<br>rural<br>entire
+bip_39_word_new_br_5: water<br>cat<br>rural<br>entire<br>blanket
+bip_39_word_new_br_6: water<br>cat<br>rural<br>entire<br>blanket<br>unaware
+bip_39_word_new_br_7: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban
+bip_39_word_new_br_8: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video
+bip_39_word_new_br_9: water<br>cat<br>rural<br>entire<br>blanket<br>unaware<br>urban<br>video<br>donkey
+bip_39_word_new_line_1: water
+bip_39_word_new_line_10: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban
+
+  video
+
+  donkey
+
+  final'
+bip_39_word_new_line_11: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban
+
+  video
+
+  donkey
+
+  final
+
+  next'
+bip_39_word_new_line_12: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban
+
+  video
+
+  donkey
+
+  final
+
+  next
+
+  also'
+bip_39_word_new_line_2: 'water
+
+  cat'
+bip_39_word_new_line_3: 'water
+
+  cat
+
+  rural'
+bip_39_word_new_line_4: 'water
+
+  cat
+
+  rural
+
+  entire'
+bip_39_word_new_line_5: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket'
+bip_39_word_new_line_6: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware'
+bip_39_word_new_line_7: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban'
+bip_39_word_new_line_8: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban
+
+  video'
+bip_39_word_new_line_9: 'water
+
+  cat
+
+  rural
+
+  entire
+
+  blanket
+
+  unaware
+
+  urban
+
+  video
+
+  donkey'
+bip_39_word_no_space_1: water
+bip_39_word_no_space_10: watercatruralentireblanketunawareurbanvideodonkeyfinal
+bip_39_word_no_space_11: watercatruralentireblanketunawareurbanvideodonkeyfinalnext
+bip_39_word_no_space_12: watercatruralentireblanketunawareurbanvideodonkeyfinalnextalso
+bip_39_word_no_space_2: watercat
+bip_39_word_no_space_3: watercatrural
+bip_39_word_no_space_4: watercatruralentire
+bip_39_word_no_space_5: watercatruralentireblanket
+bip_39_word_no_space_6: watercatruralentireblanketunaware
+bip_39_word_no_space_7: watercatruralentireblanketunawareurban
+bip_39_word_no_space_8: watercatruralentireblanketunawareurbanvideo
+bip_39_word_no_space_9: watercatruralentireblanketunawareurbanvideodonkey
+bip_39_word_space_0:
+- water
+- cat
+- rural
+- entire
+- blanket
+- unaware
+- urban
+- video
+- donkey
+- final
+- next
+- also
+bip_39_word_space_1: water
+bip_39_word_space_10: water cat rural entire blanket unaware urban video donkey final
+bip_39_word_space_11: water cat rural entire blanket unaware urban video donkey final
+  next
+bip_39_word_space_12: water cat rural entire blanket unaware urban video donkey final
+  next also
+bip_39_word_space_2: water cat
+bip_39_word_space_3: water cat rural
+bip_39_word_space_4: water cat rural entire
+bip_39_word_space_5: water cat rural entire blanket
+bip_39_word_space_6: water cat rural entire blanket unaware
+bip_39_word_space_7: water cat rural entire blanket unaware urban
+bip_39_word_space_8: water cat rural entire blanket unaware urban video
+bip_39_word_space_9: water cat rural entire blanket unaware urban video donkey
+bip_39_word_underscore_1: water
+bip_39_word_underscore_10: water_cat_rural_entire_blanket_unaware_urban_video_donkey_final
+bip_39_word_underscore_11: water_cat_rural_entire_blanket_unaware_urban_video_donkey_final_next
+bip_39_word_underscore_12: water_cat_rural_entire_blanket_unaware_urban_video_donkey_final_next_also
+bip_39_word_underscore_2: water_cat
+bip_39_word_underscore_3: water_cat_rural
+bip_39_word_underscore_4: water_cat_rural_entire
+bip_39_word_underscore_5: water_cat_rural_entire_blanket
+bip_39_word_underscore_6: water_cat_rural_entire_blanket_unaware
+bip_39_word_underscore_7: water_cat_rural_entire_blanket_unaware_urban
+bip_39_word_underscore_8: water_cat_rural_entire_blanket_unaware_urban_video
+bip_39_word_underscore_9: water_cat_rural_entire_blanket_unaware_urban_video_donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_14_24
 id_no_color: 1d51424
 id_no_size: 1d5_14_24
 id_no_type: tray_1d5_14_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_14_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_14_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_14_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204kkut
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204kkut
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204kkut
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51424
 name_no_size: 1D5 14 24
 name_no_size_short: 1D5 14 24
 name_no_type: Tray 1D5 14 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_14_24
 oomp_word: ghost umbrella telescope
 oomp_word_emoji: ':ghost: :umbrella: :telescope:'

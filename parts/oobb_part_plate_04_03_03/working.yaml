@@ -1,3 +1,222 @@
+bip_39_word_dash_1: crisp
+bip_39_word_dash_10: crisp-admit-student-output-exact-stone-tired-wheat-regular-joke
+bip_39_word_dash_11: crisp-admit-student-output-exact-stone-tired-wheat-regular-joke-cage
+bip_39_word_dash_12: crisp-admit-student-output-exact-stone-tired-wheat-regular-joke-cage-afraid
+bip_39_word_dash_2: crisp-admit
+bip_39_word_dash_3: crisp-admit-student
+bip_39_word_dash_4: crisp-admit-student-output
+bip_39_word_dash_5: crisp-admit-student-output-exact
+bip_39_word_dash_6: crisp-admit-student-output-exact-stone
+bip_39_word_dash_7: crisp-admit-student-output-exact-stone-tired
+bip_39_word_dash_8: crisp-admit-student-output-exact-stone-tired-wheat
+bip_39_word_dash_9: crisp-admit-student-output-exact-stone-tired-wheat-regular
+bip_39_word_new_br_1: crisp
+bip_39_word_new_br_10: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke
+bip_39_word_new_br_11: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage
+bip_39_word_new_br_12: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular<br>joke<br>cage<br>afraid
+bip_39_word_new_br_2: crisp<br>admit
+bip_39_word_new_br_3: crisp<br>admit<br>student
+bip_39_word_new_br_4: crisp<br>admit<br>student<br>output
+bip_39_word_new_br_5: crisp<br>admit<br>student<br>output<br>exact
+bip_39_word_new_br_6: crisp<br>admit<br>student<br>output<br>exact<br>stone
+bip_39_word_new_br_7: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired
+bip_39_word_new_br_8: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat
+bip_39_word_new_br_9: crisp<br>admit<br>student<br>output<br>exact<br>stone<br>tired<br>wheat<br>regular
+bip_39_word_new_line_1: crisp
+bip_39_word_new_line_10: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired
+
+  wheat
+
+  regular
+
+  joke'
+bip_39_word_new_line_11: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired
+
+  wheat
+
+  regular
+
+  joke
+
+  cage'
+bip_39_word_new_line_12: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired
+
+  wheat
+
+  regular
+
+  joke
+
+  cage
+
+  afraid'
+bip_39_word_new_line_2: 'crisp
+
+  admit'
+bip_39_word_new_line_3: 'crisp
+
+  admit
+
+  student'
+bip_39_word_new_line_4: 'crisp
+
+  admit
+
+  student
+
+  output'
+bip_39_word_new_line_5: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact'
+bip_39_word_new_line_6: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone'
+bip_39_word_new_line_7: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired'
+bip_39_word_new_line_8: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired
+
+  wheat'
+bip_39_word_new_line_9: 'crisp
+
+  admit
+
+  student
+
+  output
+
+  exact
+
+  stone
+
+  tired
+
+  wheat
+
+  regular'
+bip_39_word_no_space_1: crisp
+bip_39_word_no_space_10: crispadmitstudentoutputexactstonetiredwheatregularjoke
+bip_39_word_no_space_11: crispadmitstudentoutputexactstonetiredwheatregularjokecage
+bip_39_word_no_space_12: crispadmitstudentoutputexactstonetiredwheatregularjokecageafraid
+bip_39_word_no_space_2: crispadmit
+bip_39_word_no_space_3: crispadmitstudent
+bip_39_word_no_space_4: crispadmitstudentoutput
+bip_39_word_no_space_5: crispadmitstudentoutputexact
+bip_39_word_no_space_6: crispadmitstudentoutputexactstone
+bip_39_word_no_space_7: crispadmitstudentoutputexactstonetired
+bip_39_word_no_space_8: crispadmitstudentoutputexactstonetiredwheat
+bip_39_word_no_space_9: crispadmitstudentoutputexactstonetiredwheatregular
+bip_39_word_space_0:
+- crisp
+- admit
+- student
+- output
+- exact
+- stone
+- tired
+- wheat
+- regular
+- joke
+- cage
+- afraid
+bip_39_word_space_1: crisp
+bip_39_word_space_10: crisp admit student output exact stone tired wheat regular joke
+bip_39_word_space_11: crisp admit student output exact stone tired wheat regular joke
+  cage
+bip_39_word_space_12: crisp admit student output exact stone tired wheat regular joke
+  cage afraid
+bip_39_word_space_2: crisp admit
+bip_39_word_space_3: crisp admit student
+bip_39_word_space_4: crisp admit student output
+bip_39_word_space_5: crisp admit student output exact
+bip_39_word_space_6: crisp admit student output exact stone
+bip_39_word_space_7: crisp admit student output exact stone tired
+bip_39_word_space_8: crisp admit student output exact stone tired wheat
+bip_39_word_space_9: crisp admit student output exact stone tired wheat regular
+bip_39_word_underscore_1: crisp
+bip_39_word_underscore_10: crisp_admit_student_output_exact_stone_tired_wheat_regular_joke
+bip_39_word_underscore_11: crisp_admit_student_output_exact_stone_tired_wheat_regular_joke_cage
+bip_39_word_underscore_12: crisp_admit_student_output_exact_stone_tired_wheat_regular_joke_cage_afraid
+bip_39_word_underscore_2: crisp_admit
+bip_39_word_underscore_3: crisp_admit_student
+bip_39_word_underscore_4: crisp_admit_student_output
+bip_39_word_underscore_5: crisp_admit_student_output_exact
+bip_39_word_underscore_6: crisp_admit_student_output_exact_stone
+bip_39_word_underscore_7: crisp_admit_student_output_exact_stone_tired
+bip_39_word_underscore_8: crisp_admit_student_output_exact_stone_tired_wheat
+bip_39_word_underscore_9: crisp_admit_student_output_exact_stone_tired_wheat_regular
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_04_03_03
 id_no_color: '040303'
 id_no_size: '04_03_03'
 id_no_type: plate_04_03_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_03_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_04_03_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_04_03_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202thlq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202thlq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202thlq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040303'
 name_no_size: 04 03 03
 name_no_size_short: 04 03 03
 name_no_type: Plate 04 03 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_04_03_03
 oomp_word: hatched_chick racehorse crocodile
 oomp_word_emoji: ':hatched_chick: :racehorse: :crocodile:'

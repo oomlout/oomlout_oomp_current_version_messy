@@ -1,3 +1,223 @@
+bip_39_word_dash_1: brown
+bip_39_word_dash_10: brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind
+bip_39_word_dash_11: brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind-wild
+bip_39_word_dash_12: brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend-blind-wild-alter
+bip_39_word_dash_2: brown-gorilla
+bip_39_word_dash_3: brown-gorilla-estate
+bip_39_word_dash_4: brown-gorilla-estate-rhythm
+bip_39_word_dash_5: brown-gorilla-estate-rhythm-tattoo
+bip_39_word_dash_6: brown-gorilla-estate-rhythm-tattoo-quit
+bip_39_word_dash_7: brown-gorilla-estate-rhythm-tattoo-quit-capital
+bip_39_word_dash_8: brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid
+bip_39_word_dash_9: brown-gorilla-estate-rhythm-tattoo-quit-capital-afraid-depend
+bip_39_word_new_br_1: brown
+bip_39_word_new_br_10: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind
+bip_39_word_new_br_11: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind<br>wild
+bip_39_word_new_br_12: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend<br>blind<br>wild<br>alter
+bip_39_word_new_br_2: brown<br>gorilla
+bip_39_word_new_br_3: brown<br>gorilla<br>estate
+bip_39_word_new_br_4: brown<br>gorilla<br>estate<br>rhythm
+bip_39_word_new_br_5: brown<br>gorilla<br>estate<br>rhythm<br>tattoo
+bip_39_word_new_br_6: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit
+bip_39_word_new_br_7: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital
+bip_39_word_new_br_8: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid
+bip_39_word_new_br_9: brown<br>gorilla<br>estate<br>rhythm<br>tattoo<br>quit<br>capital<br>afraid<br>depend
+bip_39_word_new_line_1: brown
+bip_39_word_new_line_10: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital
+
+  afraid
+
+  depend
+
+  blind'
+bip_39_word_new_line_11: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital
+
+  afraid
+
+  depend
+
+  blind
+
+  wild'
+bip_39_word_new_line_12: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital
+
+  afraid
+
+  depend
+
+  blind
+
+  wild
+
+  alter'
+bip_39_word_new_line_2: 'brown
+
+  gorilla'
+bip_39_word_new_line_3: 'brown
+
+  gorilla
+
+  estate'
+bip_39_word_new_line_4: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm'
+bip_39_word_new_line_5: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo'
+bip_39_word_new_line_6: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit'
+bip_39_word_new_line_7: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital'
+bip_39_word_new_line_8: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital
+
+  afraid'
+bip_39_word_new_line_9: 'brown
+
+  gorilla
+
+  estate
+
+  rhythm
+
+  tattoo
+
+  quit
+
+  capital
+
+  afraid
+
+  depend'
+bip_39_word_no_space_1: brown
+bip_39_word_no_space_10: browngorillaestaterhythmtattooquitcapitalafraiddependblind
+bip_39_word_no_space_11: browngorillaestaterhythmtattooquitcapitalafraiddependblindwild
+bip_39_word_no_space_12: browngorillaestaterhythmtattooquitcapitalafraiddependblindwildalter
+bip_39_word_no_space_2: browngorilla
+bip_39_word_no_space_3: browngorillaestate
+bip_39_word_no_space_4: browngorillaestaterhythm
+bip_39_word_no_space_5: browngorillaestaterhythmtattoo
+bip_39_word_no_space_6: browngorillaestaterhythmtattooquit
+bip_39_word_no_space_7: browngorillaestaterhythmtattooquitcapital
+bip_39_word_no_space_8: browngorillaestaterhythmtattooquitcapitalafraid
+bip_39_word_no_space_9: browngorillaestaterhythmtattooquitcapitalafraiddepend
+bip_39_word_space_0:
+- brown
+- gorilla
+- estate
+- rhythm
+- tattoo
+- quit
+- capital
+- afraid
+- depend
+- blind
+- wild
+- alter
+bip_39_word_space_1: brown
+bip_39_word_space_10: brown gorilla estate rhythm tattoo quit capital afraid depend
+  blind
+bip_39_word_space_11: brown gorilla estate rhythm tattoo quit capital afraid depend
+  blind wild
+bip_39_word_space_12: brown gorilla estate rhythm tattoo quit capital afraid depend
+  blind wild alter
+bip_39_word_space_2: brown gorilla
+bip_39_word_space_3: brown gorilla estate
+bip_39_word_space_4: brown gorilla estate rhythm
+bip_39_word_space_5: brown gorilla estate rhythm tattoo
+bip_39_word_space_6: brown gorilla estate rhythm tattoo quit
+bip_39_word_space_7: brown gorilla estate rhythm tattoo quit capital
+bip_39_word_space_8: brown gorilla estate rhythm tattoo quit capital afraid
+bip_39_word_space_9: brown gorilla estate rhythm tattoo quit capital afraid depend
+bip_39_word_underscore_1: brown
+bip_39_word_underscore_10: brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind
+bip_39_word_underscore_11: brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind_wild
+bip_39_word_underscore_12: brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend_blind_wild_alter
+bip_39_word_underscore_2: brown_gorilla
+bip_39_word_underscore_3: brown_gorilla_estate
+bip_39_word_underscore_4: brown_gorilla_estate_rhythm
+bip_39_word_underscore_5: brown_gorilla_estate_rhythm_tattoo
+bip_39_word_underscore_6: brown_gorilla_estate_rhythm_tattoo_quit
+bip_39_word_underscore_7: brown_gorilla_estate_rhythm_tattoo_quit_capital
+bip_39_word_underscore_8: brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid
+bip_39_word_underscore_9: brown_gorilla_estate_rhythm_tattoo_quit_capital_afraid_depend
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_01_1d5_18
 id_no_color: 011d518
 id_no_size: 01_1d5_18
 id_no_type: tray_thin_01_1d5_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_1d5_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_1d5_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_1d5_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204oi6d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204oi6d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204oi6d
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 011D518
 name_no_size: 01 1D5 18
 name_no_size_short: 01 1D5 18
 name_no_type: Tray Thin 01 1D5 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_01_1d5_18
 oomp_word: gift five kissing
 oomp_word_emoji: ':gift: :five: :kissing:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: rigid
+bip_39_word_dash_10: rigid-cupboard-illness-lion-snap-parade-private-craft-enemy-rely
+bip_39_word_dash_11: rigid-cupboard-illness-lion-snap-parade-private-craft-enemy-rely-duck
+bip_39_word_dash_12: rigid-cupboard-illness-lion-snap-parade-private-craft-enemy-rely-duck-alarm
+bip_39_word_dash_2: rigid-cupboard
+bip_39_word_dash_3: rigid-cupboard-illness
+bip_39_word_dash_4: rigid-cupboard-illness-lion
+bip_39_word_dash_5: rigid-cupboard-illness-lion-snap
+bip_39_word_dash_6: rigid-cupboard-illness-lion-snap-parade
+bip_39_word_dash_7: rigid-cupboard-illness-lion-snap-parade-private
+bip_39_word_dash_8: rigid-cupboard-illness-lion-snap-parade-private-craft
+bip_39_word_dash_9: rigid-cupboard-illness-lion-snap-parade-private-craft-enemy
+bip_39_word_new_br_1: rigid
+bip_39_word_new_br_10: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely
+bip_39_word_new_br_11: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck
+bip_39_word_new_br_12: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy<br>rely<br>duck<br>alarm
+bip_39_word_new_br_2: rigid<br>cupboard
+bip_39_word_new_br_3: rigid<br>cupboard<br>illness
+bip_39_word_new_br_4: rigid<br>cupboard<br>illness<br>lion
+bip_39_word_new_br_5: rigid<br>cupboard<br>illness<br>lion<br>snap
+bip_39_word_new_br_6: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade
+bip_39_word_new_br_7: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private
+bip_39_word_new_br_8: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft
+bip_39_word_new_br_9: rigid<br>cupboard<br>illness<br>lion<br>snap<br>parade<br>private<br>craft<br>enemy
+bip_39_word_new_line_1: rigid
+bip_39_word_new_line_10: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private
+
+  craft
+
+  enemy
+
+  rely'
+bip_39_word_new_line_11: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private
+
+  craft
+
+  enemy
+
+  rely
+
+  duck'
+bip_39_word_new_line_12: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private
+
+  craft
+
+  enemy
+
+  rely
+
+  duck
+
+  alarm'
+bip_39_word_new_line_2: 'rigid
+
+  cupboard'
+bip_39_word_new_line_3: 'rigid
+
+  cupboard
+
+  illness'
+bip_39_word_new_line_4: 'rigid
+
+  cupboard
+
+  illness
+
+  lion'
+bip_39_word_new_line_5: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap'
+bip_39_word_new_line_6: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade'
+bip_39_word_new_line_7: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private'
+bip_39_word_new_line_8: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private
+
+  craft'
+bip_39_word_new_line_9: 'rigid
+
+  cupboard
+
+  illness
+
+  lion
+
+  snap
+
+  parade
+
+  private
+
+  craft
+
+  enemy'
+bip_39_word_no_space_1: rigid
+bip_39_word_no_space_10: rigidcupboardillnesslionsnapparadeprivatecraftenemyrely
+bip_39_word_no_space_11: rigidcupboardillnesslionsnapparadeprivatecraftenemyrelyduck
+bip_39_word_no_space_12: rigidcupboardillnesslionsnapparadeprivatecraftenemyrelyduckalarm
+bip_39_word_no_space_2: rigidcupboard
+bip_39_word_no_space_3: rigidcupboardillness
+bip_39_word_no_space_4: rigidcupboardillnesslion
+bip_39_word_no_space_5: rigidcupboardillnesslionsnap
+bip_39_word_no_space_6: rigidcupboardillnesslionsnapparade
+bip_39_word_no_space_7: rigidcupboardillnesslionsnapparadeprivate
+bip_39_word_no_space_8: rigidcupboardillnesslionsnapparadeprivatecraft
+bip_39_word_no_space_9: rigidcupboardillnesslionsnapparadeprivatecraftenemy
+bip_39_word_space_0:
+- rigid
+- cupboard
+- illness
+- lion
+- snap
+- parade
+- private
+- craft
+- enemy
+- rely
+- duck
+- alarm
+bip_39_word_space_1: rigid
+bip_39_word_space_10: rigid cupboard illness lion snap parade private craft enemy
+  rely
+bip_39_word_space_11: rigid cupboard illness lion snap parade private craft enemy
+  rely duck
+bip_39_word_space_12: rigid cupboard illness lion snap parade private craft enemy
+  rely duck alarm
+bip_39_word_space_2: rigid cupboard
+bip_39_word_space_3: rigid cupboard illness
+bip_39_word_space_4: rigid cupboard illness lion
+bip_39_word_space_5: rigid cupboard illness lion snap
+bip_39_word_space_6: rigid cupboard illness lion snap parade
+bip_39_word_space_7: rigid cupboard illness lion snap parade private
+bip_39_word_space_8: rigid cupboard illness lion snap parade private craft
+bip_39_word_space_9: rigid cupboard illness lion snap parade private craft enemy
+bip_39_word_underscore_1: rigid
+bip_39_word_underscore_10: rigid_cupboard_illness_lion_snap_parade_private_craft_enemy_rely
+bip_39_word_underscore_11: rigid_cupboard_illness_lion_snap_parade_private_craft_enemy_rely_duck
+bip_39_word_underscore_12: rigid_cupboard_illness_lion_snap_parade_private_craft_enemy_rely_duck_alarm
+bip_39_word_underscore_2: rigid_cupboard
+bip_39_word_underscore_3: rigid_cupboard_illness
+bip_39_word_underscore_4: rigid_cupboard_illness_lion
+bip_39_word_underscore_5: rigid_cupboard_illness_lion_snap
+bip_39_word_underscore_6: rigid_cupboard_illness_lion_snap_parade
+bip_39_word_underscore_7: rigid_cupboard_illness_lion_snap_parade_private
+bip_39_word_underscore_8: rigid_cupboard_illness_lion_snap_parade_private_craft
+bip_39_word_underscore_9: rigid_cupboard_illness_lion_snap_parade_private_craft_enemy
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +316,14 @@ id_no_color: yellow
 id_no_size: yellow
 id_no_type: 0805_yellow
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0805_yellow
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0805_yellow
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203lz1p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203lz1p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203lz1p
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +349,7 @@ name_no_color: Yellow
 name_no_size: Yellow
 name_no_size_short: Yellow
 name_no_type: 0805 Yellow
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_0805_yellow
 oomp_word: ox toilet dress
 oomp_word_emoji: ':ox: :toilet: :dress:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5214 Size 70 mm ID 125 mm OD 39 6 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5214_size_70_mm_id_125_mm_od_39_6_mm_depth
   * classification: hardware

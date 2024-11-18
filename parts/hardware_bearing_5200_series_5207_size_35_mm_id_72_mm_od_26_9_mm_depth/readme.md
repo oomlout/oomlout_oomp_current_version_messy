@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5207 Size 35 mm ID 72 mm OD 26 9 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5207_size_35_mm_id_72_mm_od_26_9_mm_depth
   * classification: hardware

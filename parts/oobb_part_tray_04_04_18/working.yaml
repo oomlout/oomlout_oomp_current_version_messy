@@ -1,3 +1,222 @@
+bip_39_word_dash_1: patch
+bip_39_word_dash_10: patch-sniff-spare-term-start-neither-write-garment-pitch-post
+bip_39_word_dash_11: patch-sniff-spare-term-start-neither-write-garment-pitch-post-antenna
+bip_39_word_dash_12: patch-sniff-spare-term-start-neither-write-garment-pitch-post-antenna-alcohol
+bip_39_word_dash_2: patch-sniff
+bip_39_word_dash_3: patch-sniff-spare
+bip_39_word_dash_4: patch-sniff-spare-term
+bip_39_word_dash_5: patch-sniff-spare-term-start
+bip_39_word_dash_6: patch-sniff-spare-term-start-neither
+bip_39_word_dash_7: patch-sniff-spare-term-start-neither-write
+bip_39_word_dash_8: patch-sniff-spare-term-start-neither-write-garment
+bip_39_word_dash_9: patch-sniff-spare-term-start-neither-write-garment-pitch
+bip_39_word_new_br_1: patch
+bip_39_word_new_br_10: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post
+bip_39_word_new_br_11: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post<br>antenna
+bip_39_word_new_br_12: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch<br>post<br>antenna<br>alcohol
+bip_39_word_new_br_2: patch<br>sniff
+bip_39_word_new_br_3: patch<br>sniff<br>spare
+bip_39_word_new_br_4: patch<br>sniff<br>spare<br>term
+bip_39_word_new_br_5: patch<br>sniff<br>spare<br>term<br>start
+bip_39_word_new_br_6: patch<br>sniff<br>spare<br>term<br>start<br>neither
+bip_39_word_new_br_7: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write
+bip_39_word_new_br_8: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment
+bip_39_word_new_br_9: patch<br>sniff<br>spare<br>term<br>start<br>neither<br>write<br>garment<br>pitch
+bip_39_word_new_line_1: patch
+bip_39_word_new_line_10: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post'
+bip_39_word_new_line_11: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post
+
+  antenna'
+bip_39_word_new_line_12: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch
+
+  post
+
+  antenna
+
+  alcohol'
+bip_39_word_new_line_2: 'patch
+
+  sniff'
+bip_39_word_new_line_3: 'patch
+
+  sniff
+
+  spare'
+bip_39_word_new_line_4: 'patch
+
+  sniff
+
+  spare
+
+  term'
+bip_39_word_new_line_5: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start'
+bip_39_word_new_line_6: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither'
+bip_39_word_new_line_7: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write'
+bip_39_word_new_line_8: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment'
+bip_39_word_new_line_9: 'patch
+
+  sniff
+
+  spare
+
+  term
+
+  start
+
+  neither
+
+  write
+
+  garment
+
+  pitch'
+bip_39_word_no_space_1: patch
+bip_39_word_no_space_10: patchsniffsparetermstartneitherwritegarmentpitchpost
+bip_39_word_no_space_11: patchsniffsparetermstartneitherwritegarmentpitchpostantenna
+bip_39_word_no_space_12: patchsniffsparetermstartneitherwritegarmentpitchpostantennaalcohol
+bip_39_word_no_space_2: patchsniff
+bip_39_word_no_space_3: patchsniffspare
+bip_39_word_no_space_4: patchsniffspareterm
+bip_39_word_no_space_5: patchsniffsparetermstart
+bip_39_word_no_space_6: patchsniffsparetermstartneither
+bip_39_word_no_space_7: patchsniffsparetermstartneitherwrite
+bip_39_word_no_space_8: patchsniffsparetermstartneitherwritegarment
+bip_39_word_no_space_9: patchsniffsparetermstartneitherwritegarmentpitch
+bip_39_word_space_0:
+- patch
+- sniff
+- spare
+- term
+- start
+- neither
+- write
+- garment
+- pitch
+- post
+- antenna
+- alcohol
+bip_39_word_space_1: patch
+bip_39_word_space_10: patch sniff spare term start neither write garment pitch post
+bip_39_word_space_11: patch sniff spare term start neither write garment pitch post
+  antenna
+bip_39_word_space_12: patch sniff spare term start neither write garment pitch post
+  antenna alcohol
+bip_39_word_space_2: patch sniff
+bip_39_word_space_3: patch sniff spare
+bip_39_word_space_4: patch sniff spare term
+bip_39_word_space_5: patch sniff spare term start
+bip_39_word_space_6: patch sniff spare term start neither
+bip_39_word_space_7: patch sniff spare term start neither write
+bip_39_word_space_8: patch sniff spare term start neither write garment
+bip_39_word_space_9: patch sniff spare term start neither write garment pitch
+bip_39_word_underscore_1: patch
+bip_39_word_underscore_10: patch_sniff_spare_term_start_neither_write_garment_pitch_post
+bip_39_word_underscore_11: patch_sniff_spare_term_start_neither_write_garment_pitch_post_antenna
+bip_39_word_underscore_12: patch_sniff_spare_term_start_neither_write_garment_pitch_post_antenna_alcohol
+bip_39_word_underscore_2: patch_sniff
+bip_39_word_underscore_3: patch_sniff_spare
+bip_39_word_underscore_4: patch_sniff_spare_term
+bip_39_word_underscore_5: patch_sniff_spare_term_start
+bip_39_word_underscore_6: patch_sniff_spare_term_start_neither
+bip_39_word_underscore_7: patch_sniff_spare_term_start_neither_write
+bip_39_word_underscore_8: patch_sniff_spare_term_start_neither_write_garment
+bip_39_word_underscore_9: patch_sniff_spare_term_start_neither_write_garment_pitch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_04_18
 id_no_color: 040418
 id_no_size: 04_04_18
 id_no_type: tray_04_04_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_04_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_04_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_04_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203qyei
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203qyei
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203qyei
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040418
 name_no_size: 04 04 18
 name_no_size_short: 04 04 18
 name_no_type: Tray 04 04 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_04_18
 oomp_word: poodle question lipstick
 oomp_word_emoji: ':poodle: :question: :lipstick:'

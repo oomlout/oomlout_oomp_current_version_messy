@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Dysbat
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_dysbat
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bird: :princess: :dolphin:
 * md5_6_alpha: 2qhxx
 * md5_6: 461f55
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202qhxx)
+[2x1](http://192.168.1.242:1112/?label=oomp%202qhxx)
+[6x4](http://192.168.1.55:1112/?label=oomp%202qhxx)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_dysbat)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ chapter |
 | id_no_color | dysbat |  
 | id_no_size | dysbat |  
 | id_no_type | oomlout_oomlout_dysbat |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_dysbat |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_dysbat |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202qhxx |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202qhxx |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202qhxx |  
 | link_redirect | https://github.com/oomlout/oomlout-DYSBAT |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ chapter |
 | name_no_size | Dysbat |  
 | name_no_size_short | Dysbat |  
 | name_no_type | Oomlout Oomlout Dysbat |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_dysbat |  
 | oomp_word | bird princess dolphin |  
 | oomp_word_emoji | :bird: :princess: :dolphin: |  

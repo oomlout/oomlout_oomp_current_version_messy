@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mobile
+bip_39_word_dash_10: mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift
+bip_39_word_dash_11: mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift-action
+bip_39_word_dash_12: mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop-gift-action-amused
+bip_39_word_dash_2: mobile-argue
+bip_39_word_dash_3: mobile-argue-drift
+bip_39_word_dash_4: mobile-argue-drift-hungry
+bip_39_word_dash_5: mobile-argue-drift-hungry-captain
+bip_39_word_dash_6: mobile-argue-drift-hungry-captain-knife
+bip_39_word_dash_7: mobile-argue-drift-hungry-captain-knife-aerobic
+bip_39_word_dash_8: mobile-argue-drift-hungry-captain-knife-aerobic-fine
+bip_39_word_dash_9: mobile-argue-drift-hungry-captain-knife-aerobic-fine-drop
+bip_39_word_new_br_1: mobile
+bip_39_word_new_br_10: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop<br>gift
+bip_39_word_new_br_11: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop<br>gift<br>action
+bip_39_word_new_br_12: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop<br>gift<br>action<br>amused
+bip_39_word_new_br_2: mobile<br>argue
+bip_39_word_new_br_3: mobile<br>argue<br>drift
+bip_39_word_new_br_4: mobile<br>argue<br>drift<br>hungry
+bip_39_word_new_br_5: mobile<br>argue<br>drift<br>hungry<br>captain
+bip_39_word_new_br_6: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife
+bip_39_word_new_br_7: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic
+bip_39_word_new_br_8: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine
+bip_39_word_new_br_9: mobile<br>argue<br>drift<br>hungry<br>captain<br>knife<br>aerobic<br>fine<br>drop
+bip_39_word_new_line_1: mobile
+bip_39_word_new_line_10: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic
+
+  fine
+
+  drop
+
+  gift'
+bip_39_word_new_line_11: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic
+
+  fine
+
+  drop
+
+  gift
+
+  action'
+bip_39_word_new_line_12: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic
+
+  fine
+
+  drop
+
+  gift
+
+  action
+
+  amused'
+bip_39_word_new_line_2: 'mobile
+
+  argue'
+bip_39_word_new_line_3: 'mobile
+
+  argue
+
+  drift'
+bip_39_word_new_line_4: 'mobile
+
+  argue
+
+  drift
+
+  hungry'
+bip_39_word_new_line_5: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain'
+bip_39_word_new_line_6: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife'
+bip_39_word_new_line_7: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic'
+bip_39_word_new_line_8: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic
+
+  fine'
+bip_39_word_new_line_9: 'mobile
+
+  argue
+
+  drift
+
+  hungry
+
+  captain
+
+  knife
+
+  aerobic
+
+  fine
+
+  drop'
+bip_39_word_no_space_1: mobile
+bip_39_word_no_space_10: mobilearguedrifthungrycaptainknifeaerobicfinedropgift
+bip_39_word_no_space_11: mobilearguedrifthungrycaptainknifeaerobicfinedropgiftaction
+bip_39_word_no_space_12: mobilearguedrifthungrycaptainknifeaerobicfinedropgiftactionamused
+bip_39_word_no_space_2: mobileargue
+bip_39_word_no_space_3: mobilearguedrift
+bip_39_word_no_space_4: mobilearguedrifthungry
+bip_39_word_no_space_5: mobilearguedrifthungrycaptain
+bip_39_word_no_space_6: mobilearguedrifthungrycaptainknife
+bip_39_word_no_space_7: mobilearguedrifthungrycaptainknifeaerobic
+bip_39_word_no_space_8: mobilearguedrifthungrycaptainknifeaerobicfine
+bip_39_word_no_space_9: mobilearguedrifthungrycaptainknifeaerobicfinedrop
+bip_39_word_space_0:
+- mobile
+- argue
+- drift
+- hungry
+- captain
+- knife
+- aerobic
+- fine
+- drop
+- gift
+- action
+- amused
+bip_39_word_space_1: mobile
+bip_39_word_space_10: mobile argue drift hungry captain knife aerobic fine drop gift
+bip_39_word_space_11: mobile argue drift hungry captain knife aerobic fine drop gift
+  action
+bip_39_word_space_12: mobile argue drift hungry captain knife aerobic fine drop gift
+  action amused
+bip_39_word_space_2: mobile argue
+bip_39_word_space_3: mobile argue drift
+bip_39_word_space_4: mobile argue drift hungry
+bip_39_word_space_5: mobile argue drift hungry captain
+bip_39_word_space_6: mobile argue drift hungry captain knife
+bip_39_word_space_7: mobile argue drift hungry captain knife aerobic
+bip_39_word_space_8: mobile argue drift hungry captain knife aerobic fine
+bip_39_word_space_9: mobile argue drift hungry captain knife aerobic fine drop
+bip_39_word_underscore_1: mobile
+bip_39_word_underscore_10: mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift
+bip_39_word_underscore_11: mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift_action
+bip_39_word_underscore_12: mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop_gift_action_amused
+bip_39_word_underscore_2: mobile_argue
+bip_39_word_underscore_3: mobile_argue_drift
+bip_39_word_underscore_4: mobile_argue_drift_hungry
+bip_39_word_underscore_5: mobile_argue_drift_hungry_captain
+bip_39_word_underscore_6: mobile_argue_drift_hungry_captain_knife
+bip_39_word_underscore_7: mobile_argue_drift_hungry_captain_knife_aerobic
+bip_39_word_underscore_8: mobile_argue_drift_hungry_captain_knife_aerobic_fine
+bip_39_word_underscore_9: mobile_argue_drift_hungry_captain_knife_aerobic_fine_drop
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_holder_05_03_06__motor_stepper_nema_17_flat_shifted
 id_no_color: 050306motorsteppernema17flatshifted
 id_no_size: 05_03_06__motor_stepper_nema_17_flat_shifted
 id_no_type: holder_05_03_06__motor_stepper_nema_17_flat_shifted
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_06__motor_stepper_nema_17_flat_shifted
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_holder_05_03_06__motor_stepper_nema_17_flat_shifted
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_holder_05_03_06__motor_stepper_nema_17_flat_shifted
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2052mu0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2052mu0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2052mu0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050306Motorsteppernema17Flatshifted
 name_no_size: 05 03 06  Motor Stepper Nema 17 Flat Shifted
 name_no_size_short: 05 03 06  Motor Stepper Nema 17 Flat Shifted
 name_no_type: Holder 05 03 06  Motor Stepper Nema 17 Flat Shifted
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_05_03_06__motor_stepper_nema_17_flat_shifted
 oomp_word: radio kissing hand
 oomp_word_emoji: ':radio: :kissing: :hand:'

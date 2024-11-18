@@ -1,3 +1,223 @@
+bip_39_word_dash_1: benefit
+bip_39_word_dash_10: benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown
+bip_39_word_dash_11: benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown-decline
+bip_39_word_dash_12: benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric-gown-decline-ability
+bip_39_word_dash_2: benefit-evoke
+bip_39_word_dash_3: benefit-evoke-frozen
+bip_39_word_dash_4: benefit-evoke-frozen-divorce
+bip_39_word_dash_5: benefit-evoke-frozen-divorce-bird
+bip_39_word_dash_6: benefit-evoke-frozen-divorce-bird-middle
+bip_39_word_dash_7: benefit-evoke-frozen-divorce-bird-middle-bottom
+bip_39_word_dash_8: benefit-evoke-frozen-divorce-bird-middle-bottom-cost
+bip_39_word_dash_9: benefit-evoke-frozen-divorce-bird-middle-bottom-cost-fabric
+bip_39_word_new_br_1: benefit
+bip_39_word_new_br_10: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown
+bip_39_word_new_br_11: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline
+bip_39_word_new_br_12: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric<br>gown<br>decline<br>ability
+bip_39_word_new_br_2: benefit<br>evoke
+bip_39_word_new_br_3: benefit<br>evoke<br>frozen
+bip_39_word_new_br_4: benefit<br>evoke<br>frozen<br>divorce
+bip_39_word_new_br_5: benefit<br>evoke<br>frozen<br>divorce<br>bird
+bip_39_word_new_br_6: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle
+bip_39_word_new_br_7: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom
+bip_39_word_new_br_8: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost
+bip_39_word_new_br_9: benefit<br>evoke<br>frozen<br>divorce<br>bird<br>middle<br>bottom<br>cost<br>fabric
+bip_39_word_new_line_1: benefit
+bip_39_word_new_line_10: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom
+
+  cost
+
+  fabric
+
+  gown'
+bip_39_word_new_line_11: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom
+
+  cost
+
+  fabric
+
+  gown
+
+  decline'
+bip_39_word_new_line_12: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom
+
+  cost
+
+  fabric
+
+  gown
+
+  decline
+
+  ability'
+bip_39_word_new_line_2: 'benefit
+
+  evoke'
+bip_39_word_new_line_3: 'benefit
+
+  evoke
+
+  frozen'
+bip_39_word_new_line_4: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce'
+bip_39_word_new_line_5: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird'
+bip_39_word_new_line_6: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle'
+bip_39_word_new_line_7: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom'
+bip_39_word_new_line_8: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom
+
+  cost'
+bip_39_word_new_line_9: 'benefit
+
+  evoke
+
+  frozen
+
+  divorce
+
+  bird
+
+  middle
+
+  bottom
+
+  cost
+
+  fabric'
+bip_39_word_no_space_1: benefit
+bip_39_word_no_space_10: benefitevokefrozendivorcebirdmiddlebottomcostfabricgown
+bip_39_word_no_space_11: benefitevokefrozendivorcebirdmiddlebottomcostfabricgowndecline
+bip_39_word_no_space_12: benefitevokefrozendivorcebirdmiddlebottomcostfabricgowndeclineability
+bip_39_word_no_space_2: benefitevoke
+bip_39_word_no_space_3: benefitevokefrozen
+bip_39_word_no_space_4: benefitevokefrozendivorce
+bip_39_word_no_space_5: benefitevokefrozendivorcebird
+bip_39_word_no_space_6: benefitevokefrozendivorcebirdmiddle
+bip_39_word_no_space_7: benefitevokefrozendivorcebirdmiddlebottom
+bip_39_word_no_space_8: benefitevokefrozendivorcebirdmiddlebottomcost
+bip_39_word_no_space_9: benefitevokefrozendivorcebirdmiddlebottomcostfabric
+bip_39_word_space_0:
+- benefit
+- evoke
+- frozen
+- divorce
+- bird
+- middle
+- bottom
+- cost
+- fabric
+- gown
+- decline
+- ability
+bip_39_word_space_1: benefit
+bip_39_word_space_10: benefit evoke frozen divorce bird middle bottom cost fabric
+  gown
+bip_39_word_space_11: benefit evoke frozen divorce bird middle bottom cost fabric
+  gown decline
+bip_39_word_space_12: benefit evoke frozen divorce bird middle bottom cost fabric
+  gown decline ability
+bip_39_word_space_2: benefit evoke
+bip_39_word_space_3: benefit evoke frozen
+bip_39_word_space_4: benefit evoke frozen divorce
+bip_39_word_space_5: benefit evoke frozen divorce bird
+bip_39_word_space_6: benefit evoke frozen divorce bird middle
+bip_39_word_space_7: benefit evoke frozen divorce bird middle bottom
+bip_39_word_space_8: benefit evoke frozen divorce bird middle bottom cost
+bip_39_word_space_9: benefit evoke frozen divorce bird middle bottom cost fabric
+bip_39_word_underscore_1: benefit
+bip_39_word_underscore_10: benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown
+bip_39_word_underscore_11: benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown_decline
+bip_39_word_underscore_12: benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric_gown_decline_ability
+bip_39_word_underscore_2: benefit_evoke
+bip_39_word_underscore_3: benefit_evoke_frozen
+bip_39_word_underscore_4: benefit_evoke_frozen_divorce
+bip_39_word_underscore_5: benefit_evoke_frozen_divorce_bird
+bip_39_word_underscore_6: benefit_evoke_frozen_divorce_bird_middle
+bip_39_word_underscore_7: benefit_evoke_frozen_divorce_bird_middle_bottom
+bip_39_word_underscore_8: benefit_evoke_frozen_divorce_bird_middle_bottom_cost
+bip_39_word_underscore_9: benefit_evoke_frozen_divorce_bird_middle_bottom_cost_fabric
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_standoff_hardware_standoff_m3_08
 id_no_color: hardwarem308
 id_no_size: hardware_m3_08
 id_no_type: standoff_hardware_standoff_m3_08
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_08
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_08
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_standoff_hardware_standoff_m3_08
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203fmh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203fmh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203fmh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem308
 name_no_size: Hardware M3 08
 name_no_size_short: Hardware M3 08
 name_no_type: Standoff Hardware Standoff M3 08
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_standoff_hardware_standoff_m3_08
 oomp_word: blush bamboo bank
 oomp_word_emoji: ':blush: :bamboo: :bank:'

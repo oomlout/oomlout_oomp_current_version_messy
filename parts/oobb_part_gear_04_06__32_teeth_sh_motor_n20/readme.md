@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 04 06  32 Teeth Sh Motor N20
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_04_06__32_teeth_sh_motor_n20
   * classification: oobb

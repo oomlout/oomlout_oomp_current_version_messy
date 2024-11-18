@@ -1,3 +1,222 @@
+bip_39_word_dash_1: valid
+bip_39_word_dash_10: valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable
+bip_39_word_dash_11: valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable-scan
+bip_39_word_dash_12: valid-stomach-injury-middle-pause-fragile-time-mom-talk-enable-scan-alpha
+bip_39_word_dash_2: valid-stomach
+bip_39_word_dash_3: valid-stomach-injury
+bip_39_word_dash_4: valid-stomach-injury-middle
+bip_39_word_dash_5: valid-stomach-injury-middle-pause
+bip_39_word_dash_6: valid-stomach-injury-middle-pause-fragile
+bip_39_word_dash_7: valid-stomach-injury-middle-pause-fragile-time
+bip_39_word_dash_8: valid-stomach-injury-middle-pause-fragile-time-mom
+bip_39_word_dash_9: valid-stomach-injury-middle-pause-fragile-time-mom-talk
+bip_39_word_new_br_1: valid
+bip_39_word_new_br_10: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable
+bip_39_word_new_br_11: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable<br>scan
+bip_39_word_new_br_12: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk<br>enable<br>scan<br>alpha
+bip_39_word_new_br_2: valid<br>stomach
+bip_39_word_new_br_3: valid<br>stomach<br>injury
+bip_39_word_new_br_4: valid<br>stomach<br>injury<br>middle
+bip_39_word_new_br_5: valid<br>stomach<br>injury<br>middle<br>pause
+bip_39_word_new_br_6: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile
+bip_39_word_new_br_7: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time
+bip_39_word_new_br_8: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom
+bip_39_word_new_br_9: valid<br>stomach<br>injury<br>middle<br>pause<br>fragile<br>time<br>mom<br>talk
+bip_39_word_new_line_1: valid
+bip_39_word_new_line_10: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time
+
+  mom
+
+  talk
+
+  enable'
+bip_39_word_new_line_11: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time
+
+  mom
+
+  talk
+
+  enable
+
+  scan'
+bip_39_word_new_line_12: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time
+
+  mom
+
+  talk
+
+  enable
+
+  scan
+
+  alpha'
+bip_39_word_new_line_2: 'valid
+
+  stomach'
+bip_39_word_new_line_3: 'valid
+
+  stomach
+
+  injury'
+bip_39_word_new_line_4: 'valid
+
+  stomach
+
+  injury
+
+  middle'
+bip_39_word_new_line_5: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause'
+bip_39_word_new_line_6: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile'
+bip_39_word_new_line_7: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time'
+bip_39_word_new_line_8: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time
+
+  mom'
+bip_39_word_new_line_9: 'valid
+
+  stomach
+
+  injury
+
+  middle
+
+  pause
+
+  fragile
+
+  time
+
+  mom
+
+  talk'
+bip_39_word_no_space_1: valid
+bip_39_word_no_space_10: validstomachinjurymiddlepausefragiletimemomtalkenable
+bip_39_word_no_space_11: validstomachinjurymiddlepausefragiletimemomtalkenablescan
+bip_39_word_no_space_12: validstomachinjurymiddlepausefragiletimemomtalkenablescanalpha
+bip_39_word_no_space_2: validstomach
+bip_39_word_no_space_3: validstomachinjury
+bip_39_word_no_space_4: validstomachinjurymiddle
+bip_39_word_no_space_5: validstomachinjurymiddlepause
+bip_39_word_no_space_6: validstomachinjurymiddlepausefragile
+bip_39_word_no_space_7: validstomachinjurymiddlepausefragiletime
+bip_39_word_no_space_8: validstomachinjurymiddlepausefragiletimemom
+bip_39_word_no_space_9: validstomachinjurymiddlepausefragiletimemomtalk
+bip_39_word_space_0:
+- valid
+- stomach
+- injury
+- middle
+- pause
+- fragile
+- time
+- mom
+- talk
+- enable
+- scan
+- alpha
+bip_39_word_space_1: valid
+bip_39_word_space_10: valid stomach injury middle pause fragile time mom talk enable
+bip_39_word_space_11: valid stomach injury middle pause fragile time mom talk enable
+  scan
+bip_39_word_space_12: valid stomach injury middle pause fragile time mom talk enable
+  scan alpha
+bip_39_word_space_2: valid stomach
+bip_39_word_space_3: valid stomach injury
+bip_39_word_space_4: valid stomach injury middle
+bip_39_word_space_5: valid stomach injury middle pause
+bip_39_word_space_6: valid stomach injury middle pause fragile
+bip_39_word_space_7: valid stomach injury middle pause fragile time
+bip_39_word_space_8: valid stomach injury middle pause fragile time mom
+bip_39_word_space_9: valid stomach injury middle pause fragile time mom talk
+bip_39_word_underscore_1: valid
+bip_39_word_underscore_10: valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable
+bip_39_word_underscore_11: valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable_scan
+bip_39_word_underscore_12: valid_stomach_injury_middle_pause_fragile_time_mom_talk_enable_scan_alpha
+bip_39_word_underscore_2: valid_stomach
+bip_39_word_underscore_3: valid_stomach_injury
+bip_39_word_underscore_4: valid_stomach_injury_middle
+bip_39_word_underscore_5: valid_stomach_injury_middle_pause
+bip_39_word_underscore_6: valid_stomach_injury_middle_pause_fragile
+bip_39_word_underscore_7: valid_stomach_injury_middle_pause_fragile_time
+bip_39_word_underscore_8: valid_stomach_injury_middle_pause_fragile_time_mom
+bip_39_word_underscore_9: valid_stomach_injury_middle_pause_fragile_time_mom_talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_13_15
 id_no_color: '031315'
 id_no_size: '03_13_15'
 id_no_type: tray_03_13_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_13_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ffiq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ffiq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ffiq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '031315'
 name_no_size: 03 13 15
 name_no_size_short: 03 13 15
 name_no_type: Tray 03 13 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_13_15
 oomp_word: bamboo hourglass octopus
 oomp_word_emoji: ':bamboo: :hourglass: :octopus:'

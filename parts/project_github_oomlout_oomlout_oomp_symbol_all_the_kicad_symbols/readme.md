@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Symbol All The Kicad Symbols
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :four: :baby: :frog:
 * md5_6_alpha: 9kawo
 * md5_6: f51d38
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209kawo)
+[2x1](http://192.168.1.242:1112/?label=oomp%209kawo)
+[6x4](http://192.168.1.55:1112/?label=oomp%209kawo)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ super |
 | id_no_color | oomp_symbol_all_the_kicad_symbols |  
 | id_no_size | oomp_symbol_all_the_kicad_symbols |  
 | id_no_type | oomlout_oomlout_oomp_symbol_all_the_kicad_symbols |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209kawo |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209kawo |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209kawo |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_symbol_all_the_kicad_symbols |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ super |
 | name_no_size | Oomp Symbol All The Kicad Symbols |  
 | name_no_size_short | Oomp Symbol All The Kicad Symbols |  
 | name_no_type | Oomlout Oomlout Oomp Symbol All The Kicad Symbols |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_symbol_all_the_kicad_symbols |  
 | oomp_word | four baby frog |  
 | oomp_word_emoji | :four: :baby: :frog: |  

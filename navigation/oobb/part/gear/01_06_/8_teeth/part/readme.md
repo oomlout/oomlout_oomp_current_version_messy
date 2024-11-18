@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Gear 01 06  8 Teeth
+* name_short: 
 ### id
 * oomp_id: oobb_part_gear_01_06__8_teeth
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :strawberry: :apple: :koala:
 * md5_6_alpha: 811yy
 * md5_6: cdc83a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20811yy)
+[2x1](http://192.168.1.242:1112/?label=oomp%20811yy)
+[6x4](http://192.168.1.55:1112/?label=oomp%20811yy)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ venue |
 | id_no_color | 01068teeth |  
 | id_no_size | 01_06__8_teeth |  
 | id_no_type | gear_01_06__8_teeth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_01_06__8_teeth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_01_06__8_teeth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20811yy |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20811yy |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20811yy |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ venue |
 | name_no_size | 01 06  8 Teeth |  
 | name_no_size_short | 01 06  8 Teeth |  
 | name_no_type | Gear 01 06  8 Teeth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_01_06__8_teeth |  
 | oomp_word | strawberry apple koala |  
 | oomp_word_emoji | :strawberry: :apple: :koala: |  

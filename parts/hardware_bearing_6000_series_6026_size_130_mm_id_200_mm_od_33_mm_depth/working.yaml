@@ -1,3 +1,222 @@
+bip_39_word_dash_1: face
+bip_39_word_dash_10: face-shine-clump-flee-volume-reason-trash-rotate-merry-camp
+bip_39_word_dash_11: face-shine-clump-flee-volume-reason-trash-rotate-merry-camp-omit
+bip_39_word_dash_12: face-shine-clump-flee-volume-reason-trash-rotate-merry-camp-omit-aspect
+bip_39_word_dash_2: face-shine
+bip_39_word_dash_3: face-shine-clump
+bip_39_word_dash_4: face-shine-clump-flee
+bip_39_word_dash_5: face-shine-clump-flee-volume
+bip_39_word_dash_6: face-shine-clump-flee-volume-reason
+bip_39_word_dash_7: face-shine-clump-flee-volume-reason-trash
+bip_39_word_dash_8: face-shine-clump-flee-volume-reason-trash-rotate
+bip_39_word_dash_9: face-shine-clump-flee-volume-reason-trash-rotate-merry
+bip_39_word_new_br_1: face
+bip_39_word_new_br_10: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry<br>camp
+bip_39_word_new_br_11: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry<br>camp<br>omit
+bip_39_word_new_br_12: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry<br>camp<br>omit<br>aspect
+bip_39_word_new_br_2: face<br>shine
+bip_39_word_new_br_3: face<br>shine<br>clump
+bip_39_word_new_br_4: face<br>shine<br>clump<br>flee
+bip_39_word_new_br_5: face<br>shine<br>clump<br>flee<br>volume
+bip_39_word_new_br_6: face<br>shine<br>clump<br>flee<br>volume<br>reason
+bip_39_word_new_br_7: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash
+bip_39_word_new_br_8: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate
+bip_39_word_new_br_9: face<br>shine<br>clump<br>flee<br>volume<br>reason<br>trash<br>rotate<br>merry
+bip_39_word_new_line_1: face
+bip_39_word_new_line_10: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash
+
+  rotate
+
+  merry
+
+  camp'
+bip_39_word_new_line_11: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash
+
+  rotate
+
+  merry
+
+  camp
+
+  omit'
+bip_39_word_new_line_12: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash
+
+  rotate
+
+  merry
+
+  camp
+
+  omit
+
+  aspect'
+bip_39_word_new_line_2: 'face
+
+  shine'
+bip_39_word_new_line_3: 'face
+
+  shine
+
+  clump'
+bip_39_word_new_line_4: 'face
+
+  shine
+
+  clump
+
+  flee'
+bip_39_word_new_line_5: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume'
+bip_39_word_new_line_6: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason'
+bip_39_word_new_line_7: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash'
+bip_39_word_new_line_8: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash
+
+  rotate'
+bip_39_word_new_line_9: 'face
+
+  shine
+
+  clump
+
+  flee
+
+  volume
+
+  reason
+
+  trash
+
+  rotate
+
+  merry'
+bip_39_word_no_space_1: face
+bip_39_word_no_space_10: faceshineclumpfleevolumereasontrashrotatemerrycamp
+bip_39_word_no_space_11: faceshineclumpfleevolumereasontrashrotatemerrycampomit
+bip_39_word_no_space_12: faceshineclumpfleevolumereasontrashrotatemerrycampomitaspect
+bip_39_word_no_space_2: faceshine
+bip_39_word_no_space_3: faceshineclump
+bip_39_word_no_space_4: faceshineclumpflee
+bip_39_word_no_space_5: faceshineclumpfleevolume
+bip_39_word_no_space_6: faceshineclumpfleevolumereason
+bip_39_word_no_space_7: faceshineclumpfleevolumereasontrash
+bip_39_word_no_space_8: faceshineclumpfleevolumereasontrashrotate
+bip_39_word_no_space_9: faceshineclumpfleevolumereasontrashrotatemerry
+bip_39_word_space_0:
+- face
+- shine
+- clump
+- flee
+- volume
+- reason
+- trash
+- rotate
+- merry
+- camp
+- omit
+- aspect
+bip_39_word_space_1: face
+bip_39_word_space_10: face shine clump flee volume reason trash rotate merry camp
+bip_39_word_space_11: face shine clump flee volume reason trash rotate merry camp
+  omit
+bip_39_word_space_12: face shine clump flee volume reason trash rotate merry camp
+  omit aspect
+bip_39_word_space_2: face shine
+bip_39_word_space_3: face shine clump
+bip_39_word_space_4: face shine clump flee
+bip_39_word_space_5: face shine clump flee volume
+bip_39_word_space_6: face shine clump flee volume reason
+bip_39_word_space_7: face shine clump flee volume reason trash
+bip_39_word_space_8: face shine clump flee volume reason trash rotate
+bip_39_word_space_9: face shine clump flee volume reason trash rotate merry
+bip_39_word_underscore_1: face
+bip_39_word_underscore_10: face_shine_clump_flee_volume_reason_trash_rotate_merry_camp
+bip_39_word_underscore_11: face_shine_clump_flee_volume_reason_trash_rotate_merry_camp_omit
+bip_39_word_underscore_12: face_shine_clump_flee_volume_reason_trash_rotate_merry_camp_omit_aspect
+bip_39_word_underscore_2: face_shine
+bip_39_word_underscore_3: face_shine_clump
+bip_39_word_underscore_4: face_shine_clump_flee
+bip_39_word_underscore_5: face_shine_clump_flee_volume
+bip_39_word_underscore_6: face_shine_clump_flee_volume_reason
+bip_39_word_underscore_7: face_shine_clump_flee_volume_reason_trash
+bip_39_word_underscore_8: face_shine_clump_flee_volume_reason_trash_rotate
+bip_39_word_underscore_9: face_shine_clump_flee_volume_reason_trash_rotate_merry
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
 id_no_color: 130_mm_id_200_mm_od_33_mm_depth
 id_no_size: 6026_size_130_mm_id_200_mm_od_33_mm_depth
 id_no_type: 6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208eaiw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208eaiw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208eaiw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 130 mm ID 200 mm OD 33 mm Depth
 name_no_size: 6026 Size 130 mm ID 200 mm OD 33 mm Depth
 name_no_size_short: 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth
 name_no_type: 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6026
+oomlout_short_code_upper: BR6026
 oomp_key: oomp_hardware_bearing_6000_series_6026_size_130_mm_id_200_mm_od_33_mm_depth
 oomp_word: office mouse apple
 oomp_word_emoji: ':office: :mouse: :apple:'

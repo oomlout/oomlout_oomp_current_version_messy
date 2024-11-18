@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header Oobb I2C Double Through Hole Right Angle
+* name_short: 
 ### id
 * oomp_id: electronic_header_oobb_i2c_double_through_hole_right_angle
   * classification: electronic

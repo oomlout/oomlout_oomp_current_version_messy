@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tail
+bip_39_word_dash_10: tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant
+bip_39_word_dash_11: tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant-truth
+bip_39_word_dash_12: tail-car-glue-enroll-evolve-senior-tuition-blast-brass-vacant-truth-auction
+bip_39_word_dash_2: tail-car
+bip_39_word_dash_3: tail-car-glue
+bip_39_word_dash_4: tail-car-glue-enroll
+bip_39_word_dash_5: tail-car-glue-enroll-evolve
+bip_39_word_dash_6: tail-car-glue-enroll-evolve-senior
+bip_39_word_dash_7: tail-car-glue-enroll-evolve-senior-tuition
+bip_39_word_dash_8: tail-car-glue-enroll-evolve-senior-tuition-blast
+bip_39_word_dash_9: tail-car-glue-enroll-evolve-senior-tuition-blast-brass
+bip_39_word_new_br_1: tail
+bip_39_word_new_br_10: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass<br>vacant
+bip_39_word_new_br_11: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass<br>vacant<br>truth
+bip_39_word_new_br_12: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass<br>vacant<br>truth<br>auction
+bip_39_word_new_br_2: tail<br>car
+bip_39_word_new_br_3: tail<br>car<br>glue
+bip_39_word_new_br_4: tail<br>car<br>glue<br>enroll
+bip_39_word_new_br_5: tail<br>car<br>glue<br>enroll<br>evolve
+bip_39_word_new_br_6: tail<br>car<br>glue<br>enroll<br>evolve<br>senior
+bip_39_word_new_br_7: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition
+bip_39_word_new_br_8: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast
+bip_39_word_new_br_9: tail<br>car<br>glue<br>enroll<br>evolve<br>senior<br>tuition<br>blast<br>brass
+bip_39_word_new_line_1: tail
+bip_39_word_new_line_10: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition
+
+  blast
+
+  brass
+
+  vacant'
+bip_39_word_new_line_11: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition
+
+  blast
+
+  brass
+
+  vacant
+
+  truth'
+bip_39_word_new_line_12: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition
+
+  blast
+
+  brass
+
+  vacant
+
+  truth
+
+  auction'
+bip_39_word_new_line_2: 'tail
+
+  car'
+bip_39_word_new_line_3: 'tail
+
+  car
+
+  glue'
+bip_39_word_new_line_4: 'tail
+
+  car
+
+  glue
+
+  enroll'
+bip_39_word_new_line_5: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve'
+bip_39_word_new_line_6: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior'
+bip_39_word_new_line_7: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition'
+bip_39_word_new_line_8: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition
+
+  blast'
+bip_39_word_new_line_9: 'tail
+
+  car
+
+  glue
+
+  enroll
+
+  evolve
+
+  senior
+
+  tuition
+
+  blast
+
+  brass'
+bip_39_word_no_space_1: tail
+bip_39_word_no_space_10: tailcarglueenrollevolveseniortuitionblastbrassvacant
+bip_39_word_no_space_11: tailcarglueenrollevolveseniortuitionblastbrassvacanttruth
+bip_39_word_no_space_12: tailcarglueenrollevolveseniortuitionblastbrassvacanttruthauction
+bip_39_word_no_space_2: tailcar
+bip_39_word_no_space_3: tailcarglue
+bip_39_word_no_space_4: tailcarglueenroll
+bip_39_word_no_space_5: tailcarglueenrollevolve
+bip_39_word_no_space_6: tailcarglueenrollevolvesenior
+bip_39_word_no_space_7: tailcarglueenrollevolveseniortuition
+bip_39_word_no_space_8: tailcarglueenrollevolveseniortuitionblast
+bip_39_word_no_space_9: tailcarglueenrollevolveseniortuitionblastbrass
+bip_39_word_space_0:
+- tail
+- car
+- glue
+- enroll
+- evolve
+- senior
+- tuition
+- blast
+- brass
+- vacant
+- truth
+- auction
+bip_39_word_space_1: tail
+bip_39_word_space_10: tail car glue enroll evolve senior tuition blast brass vacant
+bip_39_word_space_11: tail car glue enroll evolve senior tuition blast brass vacant
+  truth
+bip_39_word_space_12: tail car glue enroll evolve senior tuition blast brass vacant
+  truth auction
+bip_39_word_space_2: tail car
+bip_39_word_space_3: tail car glue
+bip_39_word_space_4: tail car glue enroll
+bip_39_word_space_5: tail car glue enroll evolve
+bip_39_word_space_6: tail car glue enroll evolve senior
+bip_39_word_space_7: tail car glue enroll evolve senior tuition
+bip_39_word_space_8: tail car glue enroll evolve senior tuition blast
+bip_39_word_space_9: tail car glue enroll evolve senior tuition blast brass
+bip_39_word_underscore_1: tail
+bip_39_word_underscore_10: tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant
+bip_39_word_underscore_11: tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant_truth
+bip_39_word_underscore_12: tail_car_glue_enroll_evolve_senior_tuition_blast_brass_vacant_truth_auction
+bip_39_word_underscore_2: tail_car
+bip_39_word_underscore_3: tail_car_glue
+bip_39_word_underscore_4: tail_car_glue_enroll
+bip_39_word_underscore_5: tail_car_glue_enroll_evolve
+bip_39_word_underscore_6: tail_car_glue_enroll_evolve_senior
+bip_39_word_underscore_7: tail_car_glue_enroll_evolve_senior_tuition
+bip_39_word_underscore_8: tail_car_glue_enroll_evolve_senior_tuition_blast
+bip_39_word_underscore_9: tail_car_glue_enroll_evolve_senior_tuition_blast_brass
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -120,7 +339,14 @@ id_no_color: clear
 id_no_size: blue_clear
 id_no_type: 10_mm_blue_clear
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue_clear
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_10_mm_blue_clear
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209cvjw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209cvjw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209cvjw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -146,6 +372,7 @@ name_no_color: Clear
 name_no_size: Blue Clear
 name_no_size_short: Blue Clear
 name_no_type: 10 mm Blue Clear
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_10_mm_blue_clear
 oomp_word: truck tomato sushi
 oomp_word_emoji: ':truck: :tomato: :sushi:'

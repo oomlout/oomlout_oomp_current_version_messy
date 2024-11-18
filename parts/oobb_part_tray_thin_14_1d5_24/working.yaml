@@ -1,3 +1,222 @@
+bip_39_word_dash_1: grant
+bip_39_word_dash_10: grant-half-property-roast-young-replace-orbit-barrel-area-rabbit
+bip_39_word_dash_11: grant-half-property-roast-young-replace-orbit-barrel-area-rabbit-tragic
+bip_39_word_dash_12: grant-half-property-roast-young-replace-orbit-barrel-area-rabbit-tragic-absorb
+bip_39_word_dash_2: grant-half
+bip_39_word_dash_3: grant-half-property
+bip_39_word_dash_4: grant-half-property-roast
+bip_39_word_dash_5: grant-half-property-roast-young
+bip_39_word_dash_6: grant-half-property-roast-young-replace
+bip_39_word_dash_7: grant-half-property-roast-young-replace-orbit
+bip_39_word_dash_8: grant-half-property-roast-young-replace-orbit-barrel
+bip_39_word_dash_9: grant-half-property-roast-young-replace-orbit-barrel-area
+bip_39_word_new_br_1: grant
+bip_39_word_new_br_10: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit<br>barrel<br>area<br>rabbit
+bip_39_word_new_br_11: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit<br>barrel<br>area<br>rabbit<br>tragic
+bip_39_word_new_br_12: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit<br>barrel<br>area<br>rabbit<br>tragic<br>absorb
+bip_39_word_new_br_2: grant<br>half
+bip_39_word_new_br_3: grant<br>half<br>property
+bip_39_word_new_br_4: grant<br>half<br>property<br>roast
+bip_39_word_new_br_5: grant<br>half<br>property<br>roast<br>young
+bip_39_word_new_br_6: grant<br>half<br>property<br>roast<br>young<br>replace
+bip_39_word_new_br_7: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit
+bip_39_word_new_br_8: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit<br>barrel
+bip_39_word_new_br_9: grant<br>half<br>property<br>roast<br>young<br>replace<br>orbit<br>barrel<br>area
+bip_39_word_new_line_1: grant
+bip_39_word_new_line_10: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit
+
+  barrel
+
+  area
+
+  rabbit'
+bip_39_word_new_line_11: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit
+
+  barrel
+
+  area
+
+  rabbit
+
+  tragic'
+bip_39_word_new_line_12: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit
+
+  barrel
+
+  area
+
+  rabbit
+
+  tragic
+
+  absorb'
+bip_39_word_new_line_2: 'grant
+
+  half'
+bip_39_word_new_line_3: 'grant
+
+  half
+
+  property'
+bip_39_word_new_line_4: 'grant
+
+  half
+
+  property
+
+  roast'
+bip_39_word_new_line_5: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young'
+bip_39_word_new_line_6: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace'
+bip_39_word_new_line_7: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit'
+bip_39_word_new_line_8: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit
+
+  barrel'
+bip_39_word_new_line_9: 'grant
+
+  half
+
+  property
+
+  roast
+
+  young
+
+  replace
+
+  orbit
+
+  barrel
+
+  area'
+bip_39_word_no_space_1: grant
+bip_39_word_no_space_10: granthalfpropertyroastyoungreplaceorbitbarrelarearabbit
+bip_39_word_no_space_11: granthalfpropertyroastyoungreplaceorbitbarrelarearabbittragic
+bip_39_word_no_space_12: granthalfpropertyroastyoungreplaceorbitbarrelarearabbittragicabsorb
+bip_39_word_no_space_2: granthalf
+bip_39_word_no_space_3: granthalfproperty
+bip_39_word_no_space_4: granthalfpropertyroast
+bip_39_word_no_space_5: granthalfpropertyroastyoung
+bip_39_word_no_space_6: granthalfpropertyroastyoungreplace
+bip_39_word_no_space_7: granthalfpropertyroastyoungreplaceorbit
+bip_39_word_no_space_8: granthalfpropertyroastyoungreplaceorbitbarrel
+bip_39_word_no_space_9: granthalfpropertyroastyoungreplaceorbitbarrelarea
+bip_39_word_space_0:
+- grant
+- half
+- property
+- roast
+- young
+- replace
+- orbit
+- barrel
+- area
+- rabbit
+- tragic
+- absorb
+bip_39_word_space_1: grant
+bip_39_word_space_10: grant half property roast young replace orbit barrel area rabbit
+bip_39_word_space_11: grant half property roast young replace orbit barrel area rabbit
+  tragic
+bip_39_word_space_12: grant half property roast young replace orbit barrel area rabbit
+  tragic absorb
+bip_39_word_space_2: grant half
+bip_39_word_space_3: grant half property
+bip_39_word_space_4: grant half property roast
+bip_39_word_space_5: grant half property roast young
+bip_39_word_space_6: grant half property roast young replace
+bip_39_word_space_7: grant half property roast young replace orbit
+bip_39_word_space_8: grant half property roast young replace orbit barrel
+bip_39_word_space_9: grant half property roast young replace orbit barrel area
+bip_39_word_underscore_1: grant
+bip_39_word_underscore_10: grant_half_property_roast_young_replace_orbit_barrel_area_rabbit
+bip_39_word_underscore_11: grant_half_property_roast_young_replace_orbit_barrel_area_rabbit_tragic
+bip_39_word_underscore_12: grant_half_property_roast_young_replace_orbit_barrel_area_rabbit_tragic_absorb
+bip_39_word_underscore_2: grant_half
+bip_39_word_underscore_3: grant_half_property
+bip_39_word_underscore_4: grant_half_property_roast
+bip_39_word_underscore_5: grant_half_property_roast_young
+bip_39_word_underscore_6: grant_half_property_roast_young_replace
+bip_39_word_underscore_7: grant_half_property_roast_young_replace_orbit
+bip_39_word_underscore_8: grant_half_property_roast_young_replace_orbit_barrel
+bip_39_word_underscore_9: grant_half_property_roast_young_replace_orbit_barrel_area
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_1d5_24
 id_no_color: 141d524
 id_no_size: 14_1d5_24
 id_no_type: tray_thin_14_1d5_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_1d5_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_1d5_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20je24
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20je24
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20je24
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 141D524
 name_no_size: 14 1D5 24
 name_no_size_short: 14 1D5 24
 name_no_type: Tray Thin 14 1D5 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_1d5_24
 oomp_word: heart strawberry taxi
 oomp_word_emoji: ':heart: :strawberry: :taxi:'

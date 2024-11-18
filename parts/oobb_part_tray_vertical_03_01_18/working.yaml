@@ -1,3 +1,221 @@
+bip_39_word_dash_1: range
+bip_39_word_dash_10: range-caught-law-subway-feed-bench-boat-nice-pluck-lock
+bip_39_word_dash_11: range-caught-law-subway-feed-bench-boat-nice-pluck-lock-task
+bip_39_word_dash_12: range-caught-law-subway-feed-bench-boat-nice-pluck-lock-task-attend
+bip_39_word_dash_2: range-caught
+bip_39_word_dash_3: range-caught-law
+bip_39_word_dash_4: range-caught-law-subway
+bip_39_word_dash_5: range-caught-law-subway-feed
+bip_39_word_dash_6: range-caught-law-subway-feed-bench
+bip_39_word_dash_7: range-caught-law-subway-feed-bench-boat
+bip_39_word_dash_8: range-caught-law-subway-feed-bench-boat-nice
+bip_39_word_dash_9: range-caught-law-subway-feed-bench-boat-nice-pluck
+bip_39_word_new_br_1: range
+bip_39_word_new_br_10: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock
+bip_39_word_new_br_11: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock<br>task
+bip_39_word_new_br_12: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck<br>lock<br>task<br>attend
+bip_39_word_new_br_2: range<br>caught
+bip_39_word_new_br_3: range<br>caught<br>law
+bip_39_word_new_br_4: range<br>caught<br>law<br>subway
+bip_39_word_new_br_5: range<br>caught<br>law<br>subway<br>feed
+bip_39_word_new_br_6: range<br>caught<br>law<br>subway<br>feed<br>bench
+bip_39_word_new_br_7: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat
+bip_39_word_new_br_8: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice
+bip_39_word_new_br_9: range<br>caught<br>law<br>subway<br>feed<br>bench<br>boat<br>nice<br>pluck
+bip_39_word_new_line_1: range
+bip_39_word_new_line_10: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat
+
+  nice
+
+  pluck
+
+  lock'
+bip_39_word_new_line_11: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat
+
+  nice
+
+  pluck
+
+  lock
+
+  task'
+bip_39_word_new_line_12: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat
+
+  nice
+
+  pluck
+
+  lock
+
+  task
+
+  attend'
+bip_39_word_new_line_2: 'range
+
+  caught'
+bip_39_word_new_line_3: 'range
+
+  caught
+
+  law'
+bip_39_word_new_line_4: 'range
+
+  caught
+
+  law
+
+  subway'
+bip_39_word_new_line_5: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed'
+bip_39_word_new_line_6: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench'
+bip_39_word_new_line_7: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat'
+bip_39_word_new_line_8: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat
+
+  nice'
+bip_39_word_new_line_9: 'range
+
+  caught
+
+  law
+
+  subway
+
+  feed
+
+  bench
+
+  boat
+
+  nice
+
+  pluck'
+bip_39_word_no_space_1: range
+bip_39_word_no_space_10: rangecaughtlawsubwayfeedbenchboatniceplucklock
+bip_39_word_no_space_11: rangecaughtlawsubwayfeedbenchboatniceplucklocktask
+bip_39_word_no_space_12: rangecaughtlawsubwayfeedbenchboatniceplucklocktaskattend
+bip_39_word_no_space_2: rangecaught
+bip_39_word_no_space_3: rangecaughtlaw
+bip_39_word_no_space_4: rangecaughtlawsubway
+bip_39_word_no_space_5: rangecaughtlawsubwayfeed
+bip_39_word_no_space_6: rangecaughtlawsubwayfeedbench
+bip_39_word_no_space_7: rangecaughtlawsubwayfeedbenchboat
+bip_39_word_no_space_8: rangecaughtlawsubwayfeedbenchboatnice
+bip_39_word_no_space_9: rangecaughtlawsubwayfeedbenchboatnicepluck
+bip_39_word_space_0:
+- range
+- caught
+- law
+- subway
+- feed
+- bench
+- boat
+- nice
+- pluck
+- lock
+- task
+- attend
+bip_39_word_space_1: range
+bip_39_word_space_10: range caught law subway feed bench boat nice pluck lock
+bip_39_word_space_11: range caught law subway feed bench boat nice pluck lock task
+bip_39_word_space_12: range caught law subway feed bench boat nice pluck lock task
+  attend
+bip_39_word_space_2: range caught
+bip_39_word_space_3: range caught law
+bip_39_word_space_4: range caught law subway
+bip_39_word_space_5: range caught law subway feed
+bip_39_word_space_6: range caught law subway feed bench
+bip_39_word_space_7: range caught law subway feed bench boat
+bip_39_word_space_8: range caught law subway feed bench boat nice
+bip_39_word_space_9: range caught law subway feed bench boat nice pluck
+bip_39_word_underscore_1: range
+bip_39_word_underscore_10: range_caught_law_subway_feed_bench_boat_nice_pluck_lock
+bip_39_word_underscore_11: range_caught_law_subway_feed_bench_boat_nice_pluck_lock_task
+bip_39_word_underscore_12: range_caught_law_subway_feed_bench_boat_nice_pluck_lock_task_attend
+bip_39_word_underscore_2: range_caught
+bip_39_word_underscore_3: range_caught_law
+bip_39_word_underscore_4: range_caught_law_subway
+bip_39_word_underscore_5: range_caught_law_subway_feed
+bip_39_word_underscore_6: range_caught_law_subway_feed_bench
+bip_39_word_underscore_7: range_caught_law_subway_feed_bench_boat
+bip_39_word_underscore_8: range_caught_law_subway_feed_bench_boat_nice
+bip_39_word_underscore_9: range_caught_law_subway_feed_bench_boat_nice_pluck
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_vertical_03_01_18
 id_no_color: 030118
 id_no_size: 03_01_18
 id_no_type: tray_vertical_03_01_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_01_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_03_01_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_03_01_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2094bhc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2094bhc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2094bhc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 030118
 name_no_size: 03 01 18
 name_no_size_short: 03 01 18
 name_no_type: Tray Vertical 03 01 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_03_01_18
 oomp_word: bike sushi skull
 oomp_word_emoji: ':bike: :sushi: :skull:'

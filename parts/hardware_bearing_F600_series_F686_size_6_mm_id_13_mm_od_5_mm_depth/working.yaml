@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fresh
+bip_39_word_dash_10: fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule
+bip_39_word_dash_11: fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule-cactus
+bip_39_word_dash_12: fresh-tip-recipe-impact-milk-destroy-eight-water-apart-rule-cactus-ability
+bip_39_word_dash_2: fresh-tip
+bip_39_word_dash_3: fresh-tip-recipe
+bip_39_word_dash_4: fresh-tip-recipe-impact
+bip_39_word_dash_5: fresh-tip-recipe-impact-milk
+bip_39_word_dash_6: fresh-tip-recipe-impact-milk-destroy
+bip_39_word_dash_7: fresh-tip-recipe-impact-milk-destroy-eight
+bip_39_word_dash_8: fresh-tip-recipe-impact-milk-destroy-eight-water
+bip_39_word_dash_9: fresh-tip-recipe-impact-milk-destroy-eight-water-apart
+bip_39_word_new_br_1: fresh
+bip_39_word_new_br_10: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule
+bip_39_word_new_br_11: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule<br>cactus
+bip_39_word_new_br_12: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart<br>rule<br>cactus<br>ability
+bip_39_word_new_br_2: fresh<br>tip
+bip_39_word_new_br_3: fresh<br>tip<br>recipe
+bip_39_word_new_br_4: fresh<br>tip<br>recipe<br>impact
+bip_39_word_new_br_5: fresh<br>tip<br>recipe<br>impact<br>milk
+bip_39_word_new_br_6: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy
+bip_39_word_new_br_7: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight
+bip_39_word_new_br_8: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water
+bip_39_word_new_br_9: fresh<br>tip<br>recipe<br>impact<br>milk<br>destroy<br>eight<br>water<br>apart
+bip_39_word_new_line_1: fresh
+bip_39_word_new_line_10: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule'
+bip_39_word_new_line_11: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule
+
+  cactus'
+bip_39_word_new_line_12: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart
+
+  rule
+
+  cactus
+
+  ability'
+bip_39_word_new_line_2: 'fresh
+
+  tip'
+bip_39_word_new_line_3: 'fresh
+
+  tip
+
+  recipe'
+bip_39_word_new_line_4: 'fresh
+
+  tip
+
+  recipe
+
+  impact'
+bip_39_word_new_line_5: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk'
+bip_39_word_new_line_6: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy'
+bip_39_word_new_line_7: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight'
+bip_39_word_new_line_8: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water'
+bip_39_word_new_line_9: 'fresh
+
+  tip
+
+  recipe
+
+  impact
+
+  milk
+
+  destroy
+
+  eight
+
+  water
+
+  apart'
+bip_39_word_no_space_1: fresh
+bip_39_word_no_space_10: freshtiprecipeimpactmilkdestroyeightwaterapartrule
+bip_39_word_no_space_11: freshtiprecipeimpactmilkdestroyeightwaterapartrulecactus
+bip_39_word_no_space_12: freshtiprecipeimpactmilkdestroyeightwaterapartrulecactusability
+bip_39_word_no_space_2: freshtip
+bip_39_word_no_space_3: freshtiprecipe
+bip_39_word_no_space_4: freshtiprecipeimpact
+bip_39_word_no_space_5: freshtiprecipeimpactmilk
+bip_39_word_no_space_6: freshtiprecipeimpactmilkdestroy
+bip_39_word_no_space_7: freshtiprecipeimpactmilkdestroyeight
+bip_39_word_no_space_8: freshtiprecipeimpactmilkdestroyeightwater
+bip_39_word_no_space_9: freshtiprecipeimpactmilkdestroyeightwaterapart
+bip_39_word_space_0:
+- fresh
+- tip
+- recipe
+- impact
+- milk
+- destroy
+- eight
+- water
+- apart
+- rule
+- cactus
+- ability
+bip_39_word_space_1: fresh
+bip_39_word_space_10: fresh tip recipe impact milk destroy eight water apart rule
+bip_39_word_space_11: fresh tip recipe impact milk destroy eight water apart rule
+  cactus
+bip_39_word_space_12: fresh tip recipe impact milk destroy eight water apart rule
+  cactus ability
+bip_39_word_space_2: fresh tip
+bip_39_word_space_3: fresh tip recipe
+bip_39_word_space_4: fresh tip recipe impact
+bip_39_word_space_5: fresh tip recipe impact milk
+bip_39_word_space_6: fresh tip recipe impact milk destroy
+bip_39_word_space_7: fresh tip recipe impact milk destroy eight
+bip_39_word_space_8: fresh tip recipe impact milk destroy eight water
+bip_39_word_space_9: fresh tip recipe impact milk destroy eight water apart
+bip_39_word_underscore_1: fresh
+bip_39_word_underscore_10: fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule
+bip_39_word_underscore_11: fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule_cactus
+bip_39_word_underscore_12: fresh_tip_recipe_impact_milk_destroy_eight_water_apart_rule_cactus_ability
+bip_39_word_underscore_2: fresh_tip
+bip_39_word_underscore_3: fresh_tip_recipe
+bip_39_word_underscore_4: fresh_tip_recipe_impact
+bip_39_word_underscore_5: fresh_tip_recipe_impact_milk
+bip_39_word_underscore_6: fresh_tip_recipe_impact_milk_destroy
+bip_39_word_underscore_7: fresh_tip_recipe_impact_milk_destroy_eight
+bip_39_word_underscore_8: fresh_tip_recipe_impact_milk_destroy_eight_water
+bip_39_word_underscore_9: fresh_tip_recipe_impact_milk_destroy_eight_water_apart
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
 id_no_color: 6_mm_id_13_mm_od_5_mm_depth
 id_no_size: F686_size_6_mm_id_13_mm_od_5_mm_depth
 id_no_type: F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2035tb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2035tb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2035tb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 6 mm ID 13 mm OD 5 mm Depth
 name_no_size: F686 Size 6 mm ID 13 mm OD 5 mm Depth
 name_no_size_short: F686 Size 6 Mm Id 13 Mm Od 5 Mm Depth
 name_no_type: F600 Series F686 Size 6 mm ID 13 mm OD 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brF686
+oomlout_short_code_upper: BRF686
 oomp_key: oomp_hardware_bearing_F600_series_F686_size_6_mm_id_13_mm_od_5_mm_depth
 oomp_word: blush racehorse cyclone
 oomp_word_emoji: ':blush: :racehorse: :cyclone:'

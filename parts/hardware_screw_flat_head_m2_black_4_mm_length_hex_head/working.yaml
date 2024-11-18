@@ -1,3 +1,222 @@
+bip_39_word_dash_1: airport
+bip_39_word_dash_10: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey
+bip_39_word_dash_11: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey-relax
+bip_39_word_dash_12: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop-obey-relax-alone
+bip_39_word_dash_2: airport-deposit
+bip_39_word_dash_3: airport-deposit-cry
+bip_39_word_dash_4: airport-deposit-cry-flame
+bip_39_word_dash_5: airport-deposit-cry-flame-differ
+bip_39_word_dash_6: airport-deposit-cry-flame-differ-shuffle
+bip_39_word_dash_7: airport-deposit-cry-flame-differ-shuffle-cloth
+bip_39_word_dash_8: airport-deposit-cry-flame-differ-shuffle-cloth-huge
+bip_39_word_dash_9: airport-deposit-cry-flame-differ-shuffle-cloth-huge-shop
+bip_39_word_new_br_1: airport
+bip_39_word_new_br_10: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey
+bip_39_word_new_br_11: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey<br>relax
+bip_39_word_new_br_12: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop<br>obey<br>relax<br>alone
+bip_39_word_new_br_2: airport<br>deposit
+bip_39_word_new_br_3: airport<br>deposit<br>cry
+bip_39_word_new_br_4: airport<br>deposit<br>cry<br>flame
+bip_39_word_new_br_5: airport<br>deposit<br>cry<br>flame<br>differ
+bip_39_word_new_br_6: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle
+bip_39_word_new_br_7: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth
+bip_39_word_new_br_8: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge
+bip_39_word_new_br_9: airport<br>deposit<br>cry<br>flame<br>differ<br>shuffle<br>cloth<br>huge<br>shop
+bip_39_word_new_line_1: airport
+bip_39_word_new_line_10: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth
+
+  huge
+
+  shop
+
+  obey'
+bip_39_word_new_line_11: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth
+
+  huge
+
+  shop
+
+  obey
+
+  relax'
+bip_39_word_new_line_12: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth
+
+  huge
+
+  shop
+
+  obey
+
+  relax
+
+  alone'
+bip_39_word_new_line_2: 'airport
+
+  deposit'
+bip_39_word_new_line_3: 'airport
+
+  deposit
+
+  cry'
+bip_39_word_new_line_4: 'airport
+
+  deposit
+
+  cry
+
+  flame'
+bip_39_word_new_line_5: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ'
+bip_39_word_new_line_6: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle'
+bip_39_word_new_line_7: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth'
+bip_39_word_new_line_8: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth
+
+  huge'
+bip_39_word_new_line_9: 'airport
+
+  deposit
+
+  cry
+
+  flame
+
+  differ
+
+  shuffle
+
+  cloth
+
+  huge
+
+  shop'
+bip_39_word_no_space_1: airport
+bip_39_word_no_space_10: airportdepositcryflamediffershuffleclothhugeshopobey
+bip_39_word_no_space_11: airportdepositcryflamediffershuffleclothhugeshopobeyrelax
+bip_39_word_no_space_12: airportdepositcryflamediffershuffleclothhugeshopobeyrelaxalone
+bip_39_word_no_space_2: airportdeposit
+bip_39_word_no_space_3: airportdepositcry
+bip_39_word_no_space_4: airportdepositcryflame
+bip_39_word_no_space_5: airportdepositcryflamediffer
+bip_39_word_no_space_6: airportdepositcryflamediffershuffle
+bip_39_word_no_space_7: airportdepositcryflamediffershufflecloth
+bip_39_word_no_space_8: airportdepositcryflamediffershuffleclothhuge
+bip_39_word_no_space_9: airportdepositcryflamediffershuffleclothhugeshop
+bip_39_word_space_0:
+- airport
+- deposit
+- cry
+- flame
+- differ
+- shuffle
+- cloth
+- huge
+- shop
+- obey
+- relax
+- alone
+bip_39_word_space_1: airport
+bip_39_word_space_10: airport deposit cry flame differ shuffle cloth huge shop obey
+bip_39_word_space_11: airport deposit cry flame differ shuffle cloth huge shop obey
+  relax
+bip_39_word_space_12: airport deposit cry flame differ shuffle cloth huge shop obey
+  relax alone
+bip_39_word_space_2: airport deposit
+bip_39_word_space_3: airport deposit cry
+bip_39_word_space_4: airport deposit cry flame
+bip_39_word_space_5: airport deposit cry flame differ
+bip_39_word_space_6: airport deposit cry flame differ shuffle
+bip_39_word_space_7: airport deposit cry flame differ shuffle cloth
+bip_39_word_space_8: airport deposit cry flame differ shuffle cloth huge
+bip_39_word_space_9: airport deposit cry flame differ shuffle cloth huge shop
+bip_39_word_underscore_1: airport
+bip_39_word_underscore_10: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey
+bip_39_word_underscore_11: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey_relax
+bip_39_word_underscore_12: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop_obey_relax_alone
+bip_39_word_underscore_2: airport_deposit
+bip_39_word_underscore_3: airport_deposit_cry
+bip_39_word_underscore_4: airport_deposit_cry_flame
+bip_39_word_underscore_5: airport_deposit_cry_flame_differ
+bip_39_word_underscore_6: airport_deposit_cry_flame_differ_shuffle
+bip_39_word_underscore_7: airport_deposit_cry_flame_differ_shuffle_cloth
+bip_39_word_underscore_8: airport_deposit_cry_flame_differ_shuffle_cloth_huge
+bip_39_word_underscore_9: airport_deposit_cry_flame_differ_shuffle_cloth_huge_shop
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 4_mm_length_hex_head
 id_no_size: black_4_mm_length_hex_head
 id_no_type: m2_black_4_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_black_4_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_black_4_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_black_4_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ci05
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ci05
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ci05
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 4 mm Length Hex Head
 name_no_size: Black 4 mm Length Hex Head
 name_no_size_short: Black 4 Mm Length Hex Head
 name_no_type: M2 Black 4 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 4 mm
+oomlout_bolt_length_no_unit: '4'
+oomlout_bolt_md5_6_alpha_first_3: 4ci
+oomlout_bolt_md5_6_alpha_first_3_upper: 4CI
+oomlout_bolt_md5_6_alpha_last_3: '05'
+oomlout_bolt_md5_6_alpha_last_3_upper: '05'
+oomlout_bolt_md5_6_first_3: 6f6
+oomlout_bolt_md5_6_first_3_upper: 6F6
+oomlout_bolt_md5_6_last_3: a25
+oomlout_bolt_md5_6_last_3_upper: A25
+oomlout_bolt_name: Flat Head M2X4 mm Black (Hex Head)
+oomlout_bolt_size: M2
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2b4h
+oomlout_short_code_upper: FH2B4H
 oomp_key: oomp_hardware_screw_flat_head_m2_black_4_mm_length_hex_head
 oomp_word: moon palm_tree ear
 oomp_word_emoji: ':moon: :palm_tree: :ear:'

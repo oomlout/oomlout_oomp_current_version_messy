@@ -1,3 +1,223 @@
+bip_39_word_dash_1: oppose
+bip_39_word_dash_10: oppose-crystal-prison-soda-damage-crack-craft-outside-offer-dizzy
+bip_39_word_dash_11: oppose-crystal-prison-soda-damage-crack-craft-outside-offer-dizzy-cradle
+bip_39_word_dash_12: oppose-crystal-prison-soda-damage-crack-craft-outside-offer-dizzy-cradle-artefact
+bip_39_word_dash_2: oppose-crystal
+bip_39_word_dash_3: oppose-crystal-prison
+bip_39_word_dash_4: oppose-crystal-prison-soda
+bip_39_word_dash_5: oppose-crystal-prison-soda-damage
+bip_39_word_dash_6: oppose-crystal-prison-soda-damage-crack
+bip_39_word_dash_7: oppose-crystal-prison-soda-damage-crack-craft
+bip_39_word_dash_8: oppose-crystal-prison-soda-damage-crack-craft-outside
+bip_39_word_dash_9: oppose-crystal-prison-soda-damage-crack-craft-outside-offer
+bip_39_word_new_br_1: oppose
+bip_39_word_new_br_10: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy
+bip_39_word_new_br_11: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy<br>cradle
+bip_39_word_new_br_12: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer<br>dizzy<br>cradle<br>artefact
+bip_39_word_new_br_2: oppose<br>crystal
+bip_39_word_new_br_3: oppose<br>crystal<br>prison
+bip_39_word_new_br_4: oppose<br>crystal<br>prison<br>soda
+bip_39_word_new_br_5: oppose<br>crystal<br>prison<br>soda<br>damage
+bip_39_word_new_br_6: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack
+bip_39_word_new_br_7: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft
+bip_39_word_new_br_8: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside
+bip_39_word_new_br_9: oppose<br>crystal<br>prison<br>soda<br>damage<br>crack<br>craft<br>outside<br>offer
+bip_39_word_new_line_1: oppose
+bip_39_word_new_line_10: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft
+
+  outside
+
+  offer
+
+  dizzy'
+bip_39_word_new_line_11: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft
+
+  outside
+
+  offer
+
+  dizzy
+
+  cradle'
+bip_39_word_new_line_12: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft
+
+  outside
+
+  offer
+
+  dizzy
+
+  cradle
+
+  artefact'
+bip_39_word_new_line_2: 'oppose
+
+  crystal'
+bip_39_word_new_line_3: 'oppose
+
+  crystal
+
+  prison'
+bip_39_word_new_line_4: 'oppose
+
+  crystal
+
+  prison
+
+  soda'
+bip_39_word_new_line_5: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage'
+bip_39_word_new_line_6: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack'
+bip_39_word_new_line_7: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft'
+bip_39_word_new_line_8: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft
+
+  outside'
+bip_39_word_new_line_9: 'oppose
+
+  crystal
+
+  prison
+
+  soda
+
+  damage
+
+  crack
+
+  craft
+
+  outside
+
+  offer'
+bip_39_word_no_space_1: oppose
+bip_39_word_no_space_10: opposecrystalprisonsodadamagecrackcraftoutsideofferdizzy
+bip_39_word_no_space_11: opposecrystalprisonsodadamagecrackcraftoutsideofferdizzycradle
+bip_39_word_no_space_12: opposecrystalprisonsodadamagecrackcraftoutsideofferdizzycradleartefact
+bip_39_word_no_space_2: opposecrystal
+bip_39_word_no_space_3: opposecrystalprison
+bip_39_word_no_space_4: opposecrystalprisonsoda
+bip_39_word_no_space_5: opposecrystalprisonsodadamage
+bip_39_word_no_space_6: opposecrystalprisonsodadamagecrack
+bip_39_word_no_space_7: opposecrystalprisonsodadamagecrackcraft
+bip_39_word_no_space_8: opposecrystalprisonsodadamagecrackcraftoutside
+bip_39_word_no_space_9: opposecrystalprisonsodadamagecrackcraftoutsideoffer
+bip_39_word_space_0:
+- oppose
+- crystal
+- prison
+- soda
+- damage
+- crack
+- craft
+- outside
+- offer
+- dizzy
+- cradle
+- artefact
+bip_39_word_space_1: oppose
+bip_39_word_space_10: oppose crystal prison soda damage crack craft outside offer
+  dizzy
+bip_39_word_space_11: oppose crystal prison soda damage crack craft outside offer
+  dizzy cradle
+bip_39_word_space_12: oppose crystal prison soda damage crack craft outside offer
+  dizzy cradle artefact
+bip_39_word_space_2: oppose crystal
+bip_39_word_space_3: oppose crystal prison
+bip_39_word_space_4: oppose crystal prison soda
+bip_39_word_space_5: oppose crystal prison soda damage
+bip_39_word_space_6: oppose crystal prison soda damage crack
+bip_39_word_space_7: oppose crystal prison soda damage crack craft
+bip_39_word_space_8: oppose crystal prison soda damage crack craft outside
+bip_39_word_space_9: oppose crystal prison soda damage crack craft outside offer
+bip_39_word_underscore_1: oppose
+bip_39_word_underscore_10: oppose_crystal_prison_soda_damage_crack_craft_outside_offer_dizzy
+bip_39_word_underscore_11: oppose_crystal_prison_soda_damage_crack_craft_outside_offer_dizzy_cradle
+bip_39_word_underscore_12: oppose_crystal_prison_soda_damage_crack_craft_outside_offer_dizzy_cradle_artefact
+bip_39_word_underscore_2: oppose_crystal
+bip_39_word_underscore_3: oppose_crystal_prison
+bip_39_word_underscore_4: oppose_crystal_prison_soda
+bip_39_word_underscore_5: oppose_crystal_prison_soda_damage
+bip_39_word_underscore_6: oppose_crystal_prison_soda_damage_crack
+bip_39_word_underscore_7: oppose_crystal_prison_soda_damage_crack_craft
+bip_39_word_underscore_8: oppose_crystal_prison_soda_damage_crack_craft_outside
+bip_39_word_underscore_9: oppose_crystal_prison_soda_damage_crack_craft_outside_offer
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 8_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_8_mm_length_pozidrive_head
 id_no_type: m5_bright_zinc_plated_8_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_8_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_8_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m5_bright_zinc_plated_8_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2081wpc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2081wpc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2081wpc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 8 mm Length Pozidrive Head
 name_no_size: Bright Zinc Plated 8 mm Length Pozidrive Head
 name_no_size_short: Bright Zinc Plated 8 Mm Length Pozidrive Head
 name_no_type: M5 Bright Zinc Plated 8 mm Length Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 8 mm
+oomlout_bolt_length_no_unit: '8'
+oomlout_bolt_md5_6_alpha_first_3: 81w
+oomlout_bolt_md5_6_alpha_first_3_upper: 81W
+oomlout_bolt_md5_6_alpha_last_3: pc
+oomlout_bolt_md5_6_alpha_last_3_upper: PC
+oomlout_bolt_md5_6_first_3: ce6
+oomlout_bolt_md5_6_first_3_upper: CE6
+oomlout_bolt_md5_6_last_3: 3d0
+oomlout_bolt_md5_6_last_3_upper: 3D0
+oomlout_bolt_name: Countersunk M5X8 mm  (Pozidrive)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs5bz8pz
+oomlout_short_code_upper: CS5BZ8PZ
 oomp_key: oomp_hardware_screw_countersunk_m5_bright_zinc_plated_8_mm_length_pozidrive_head
 oomp_word: peach rose banana
 oomp_word_emoji: ':peach: :rose: :banana:'

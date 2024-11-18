@@ -1,3 +1,222 @@
+bip_39_word_dash_1: name
+bip_39_word_dash_10: name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest
+bip_39_word_dash_11: name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest-ready
+bip_39_word_dash_12: name-track-science-sponsor-swing-cousin-math-pair-seminar-arrest-ready-ask
+bip_39_word_dash_2: name-track
+bip_39_word_dash_3: name-track-science
+bip_39_word_dash_4: name-track-science-sponsor
+bip_39_word_dash_5: name-track-science-sponsor-swing
+bip_39_word_dash_6: name-track-science-sponsor-swing-cousin
+bip_39_word_dash_7: name-track-science-sponsor-swing-cousin-math
+bip_39_word_dash_8: name-track-science-sponsor-swing-cousin-math-pair
+bip_39_word_dash_9: name-track-science-sponsor-swing-cousin-math-pair-seminar
+bip_39_word_new_br_1: name
+bip_39_word_new_br_10: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest
+bip_39_word_new_br_11: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest<br>ready
+bip_39_word_new_br_12: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar<br>arrest<br>ready<br>ask
+bip_39_word_new_br_2: name<br>track
+bip_39_word_new_br_3: name<br>track<br>science
+bip_39_word_new_br_4: name<br>track<br>science<br>sponsor
+bip_39_word_new_br_5: name<br>track<br>science<br>sponsor<br>swing
+bip_39_word_new_br_6: name<br>track<br>science<br>sponsor<br>swing<br>cousin
+bip_39_word_new_br_7: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math
+bip_39_word_new_br_8: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair
+bip_39_word_new_br_9: name<br>track<br>science<br>sponsor<br>swing<br>cousin<br>math<br>pair<br>seminar
+bip_39_word_new_line_1: name
+bip_39_word_new_line_10: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math
+
+  pair
+
+  seminar
+
+  arrest'
+bip_39_word_new_line_11: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math
+
+  pair
+
+  seminar
+
+  arrest
+
+  ready'
+bip_39_word_new_line_12: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math
+
+  pair
+
+  seminar
+
+  arrest
+
+  ready
+
+  ask'
+bip_39_word_new_line_2: 'name
+
+  track'
+bip_39_word_new_line_3: 'name
+
+  track
+
+  science'
+bip_39_word_new_line_4: 'name
+
+  track
+
+  science
+
+  sponsor'
+bip_39_word_new_line_5: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing'
+bip_39_word_new_line_6: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin'
+bip_39_word_new_line_7: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math'
+bip_39_word_new_line_8: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math
+
+  pair'
+bip_39_word_new_line_9: 'name
+
+  track
+
+  science
+
+  sponsor
+
+  swing
+
+  cousin
+
+  math
+
+  pair
+
+  seminar'
+bip_39_word_no_space_1: name
+bip_39_word_no_space_10: nametracksciencesponsorswingcousinmathpairseminararrest
+bip_39_word_no_space_11: nametracksciencesponsorswingcousinmathpairseminararrestready
+bip_39_word_no_space_12: nametracksciencesponsorswingcousinmathpairseminararrestreadyask
+bip_39_word_no_space_2: nametrack
+bip_39_word_no_space_3: nametrackscience
+bip_39_word_no_space_4: nametracksciencesponsor
+bip_39_word_no_space_5: nametracksciencesponsorswing
+bip_39_word_no_space_6: nametracksciencesponsorswingcousin
+bip_39_word_no_space_7: nametracksciencesponsorswingcousinmath
+bip_39_word_no_space_8: nametracksciencesponsorswingcousinmathpair
+bip_39_word_no_space_9: nametracksciencesponsorswingcousinmathpairseminar
+bip_39_word_space_0:
+- name
+- track
+- science
+- sponsor
+- swing
+- cousin
+- math
+- pair
+- seminar
+- arrest
+- ready
+- ask
+bip_39_word_space_1: name
+bip_39_word_space_10: name track science sponsor swing cousin math pair seminar arrest
+bip_39_word_space_11: name track science sponsor swing cousin math pair seminar arrest
+  ready
+bip_39_word_space_12: name track science sponsor swing cousin math pair seminar arrest
+  ready ask
+bip_39_word_space_2: name track
+bip_39_word_space_3: name track science
+bip_39_word_space_4: name track science sponsor
+bip_39_word_space_5: name track science sponsor swing
+bip_39_word_space_6: name track science sponsor swing cousin
+bip_39_word_space_7: name track science sponsor swing cousin math
+bip_39_word_space_8: name track science sponsor swing cousin math pair
+bip_39_word_space_9: name track science sponsor swing cousin math pair seminar
+bip_39_word_underscore_1: name
+bip_39_word_underscore_10: name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest
+bip_39_word_underscore_11: name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest_ready
+bip_39_word_underscore_12: name_track_science_sponsor_swing_cousin_math_pair_seminar_arrest_ready_ask
+bip_39_word_underscore_2: name_track
+bip_39_word_underscore_3: name_track_science
+bip_39_word_underscore_4: name_track_science_sponsor
+bip_39_word_underscore_5: name_track_science_sponsor_swing
+bip_39_word_underscore_6: name_track_science_sponsor_swing_cousin
+bip_39_word_underscore_7: name_track_science_sponsor_swing_cousin_math
+bip_39_word_underscore_8: name_track_science_sponsor_swing_cousin_math_pair
+bip_39_word_underscore_9: name_track_science_sponsor_swing_cousin_math_pair_seminar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_10_21
 id_no_color: '141021'
 id_no_size: '14_10_21'
 id_no_type: tray_thin_14_10_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_10_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_10_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_10_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208br0j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208br0j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208br0j
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141021'
 name_no_size: 14 10 21
 name_no_size_short: 14 10 21
 name_no_type: Tray Thin 14 10 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_10_21
 oomp_word: house maple_leaf lock
 oomp_word_emoji: ':house: :maple_leaf: :lock:'

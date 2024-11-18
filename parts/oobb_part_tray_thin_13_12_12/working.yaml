@@ -1,3 +1,223 @@
+bip_39_word_dash_1: capital
+bip_39_word_dash_10: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple
+bip_39_word_dash_11: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple-sword
+bip_39_word_dash_12: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue-simple-sword-army
+bip_39_word_dash_2: capital-tomorrow
+bip_39_word_dash_3: capital-tomorrow-inmate
+bip_39_word_dash_4: capital-tomorrow-inmate-another
+bip_39_word_dash_5: capital-tomorrow-inmate-another-crawl
+bip_39_word_dash_6: capital-tomorrow-inmate-another-crawl-real
+bip_39_word_dash_7: capital-tomorrow-inmate-another-crawl-real-hospital
+bip_39_word_dash_8: capital-tomorrow-inmate-another-crawl-real-hospital-primary
+bip_39_word_dash_9: capital-tomorrow-inmate-another-crawl-real-hospital-primary-fatigue
+bip_39_word_new_br_1: capital
+bip_39_word_new_br_10: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple
+bip_39_word_new_br_11: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword
+bip_39_word_new_br_12: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue<br>simple<br>sword<br>army
+bip_39_word_new_br_2: capital<br>tomorrow
+bip_39_word_new_br_3: capital<br>tomorrow<br>inmate
+bip_39_word_new_br_4: capital<br>tomorrow<br>inmate<br>another
+bip_39_word_new_br_5: capital<br>tomorrow<br>inmate<br>another<br>crawl
+bip_39_word_new_br_6: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real
+bip_39_word_new_br_7: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital
+bip_39_word_new_br_8: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary
+bip_39_word_new_br_9: capital<br>tomorrow<br>inmate<br>another<br>crawl<br>real<br>hospital<br>primary<br>fatigue
+bip_39_word_new_line_1: capital
+bip_39_word_new_line_10: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple'
+bip_39_word_new_line_11: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple
+
+  sword'
+bip_39_word_new_line_12: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue
+
+  simple
+
+  sword
+
+  army'
+bip_39_word_new_line_2: 'capital
+
+  tomorrow'
+bip_39_word_new_line_3: 'capital
+
+  tomorrow
+
+  inmate'
+bip_39_word_new_line_4: 'capital
+
+  tomorrow
+
+  inmate
+
+  another'
+bip_39_word_new_line_5: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl'
+bip_39_word_new_line_6: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real'
+bip_39_word_new_line_7: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital'
+bip_39_word_new_line_8: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary'
+bip_39_word_new_line_9: 'capital
+
+  tomorrow
+
+  inmate
+
+  another
+
+  crawl
+
+  real
+
+  hospital
+
+  primary
+
+  fatigue'
+bip_39_word_no_space_1: capital
+bip_39_word_no_space_10: capitaltomorrowinmateanothercrawlrealhospitalprimaryfatiguesimple
+bip_39_word_no_space_11: capitaltomorrowinmateanothercrawlrealhospitalprimaryfatiguesimplesword
+bip_39_word_no_space_12: capitaltomorrowinmateanothercrawlrealhospitalprimaryfatiguesimpleswordarmy
+bip_39_word_no_space_2: capitaltomorrow
+bip_39_word_no_space_3: capitaltomorrowinmate
+bip_39_word_no_space_4: capitaltomorrowinmateanother
+bip_39_word_no_space_5: capitaltomorrowinmateanothercrawl
+bip_39_word_no_space_6: capitaltomorrowinmateanothercrawlreal
+bip_39_word_no_space_7: capitaltomorrowinmateanothercrawlrealhospital
+bip_39_word_no_space_8: capitaltomorrowinmateanothercrawlrealhospitalprimary
+bip_39_word_no_space_9: capitaltomorrowinmateanothercrawlrealhospitalprimaryfatigue
+bip_39_word_space_0:
+- capital
+- tomorrow
+- inmate
+- another
+- crawl
+- real
+- hospital
+- primary
+- fatigue
+- simple
+- sword
+- army
+bip_39_word_space_1: capital
+bip_39_word_space_10: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple
+bip_39_word_space_11: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple sword
+bip_39_word_space_12: capital tomorrow inmate another crawl real hospital primary
+  fatigue simple sword army
+bip_39_word_space_2: capital tomorrow
+bip_39_word_space_3: capital tomorrow inmate
+bip_39_word_space_4: capital tomorrow inmate another
+bip_39_word_space_5: capital tomorrow inmate another crawl
+bip_39_word_space_6: capital tomorrow inmate another crawl real
+bip_39_word_space_7: capital tomorrow inmate another crawl real hospital
+bip_39_word_space_8: capital tomorrow inmate another crawl real hospital primary
+bip_39_word_space_9: capital tomorrow inmate another crawl real hospital primary fatigue
+bip_39_word_underscore_1: capital
+bip_39_word_underscore_10: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple
+bip_39_word_underscore_11: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple_sword
+bip_39_word_underscore_12: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue_simple_sword_army
+bip_39_word_underscore_2: capital_tomorrow
+bip_39_word_underscore_3: capital_tomorrow_inmate
+bip_39_word_underscore_4: capital_tomorrow_inmate_another
+bip_39_word_underscore_5: capital_tomorrow_inmate_another_crawl
+bip_39_word_underscore_6: capital_tomorrow_inmate_another_crawl_real
+bip_39_word_underscore_7: capital_tomorrow_inmate_another_crawl_real_hospital
+bip_39_word_underscore_8: capital_tomorrow_inmate_another_crawl_real_hospital_primary
+bip_39_word_underscore_9: capital_tomorrow_inmate_another_crawl_real_hospital_primary_fatigue
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_13_12_12
 id_no_color: '131212'
 id_no_size: '13_12_12'
 id_no_type: tray_thin_13_12_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_12_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_12_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207k436
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207k436
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207k436
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '131212'
 name_no_size: 13 12 12
 name_no_size_short: 13 12 12
 name_no_type: Tray Thin 13 12 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_12_12
 oomp_word: doughnut hamburger handbag
 oomp_word_emoji: ':doughnut: :hamburger: :handbag:'

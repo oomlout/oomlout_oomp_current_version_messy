@@ -1,3 +1,221 @@
+bip_39_word_dash_1: hen
+bip_39_word_dash_10: hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase
+bip_39_word_dash_11: hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase-valley
+bip_39_word_dash_12: hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen-purchase-valley-attitude
+bip_39_word_dash_2: hen-purpose
+bip_39_word_dash_3: hen-purpose-dizzy
+bip_39_word_dash_4: hen-purpose-dizzy-raven
+bip_39_word_dash_5: hen-purpose-dizzy-raven-tribe
+bip_39_word_dash_6: hen-purpose-dizzy-raven-tribe-foam
+bip_39_word_dash_7: hen-purpose-dizzy-raven-tribe-foam-answer
+bip_39_word_dash_8: hen-purpose-dizzy-raven-tribe-foam-answer-dog
+bip_39_word_dash_9: hen-purpose-dizzy-raven-tribe-foam-answer-dog-pen
+bip_39_word_new_br_1: hen
+bip_39_word_new_br_10: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen<br>purchase
+bip_39_word_new_br_11: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen<br>purchase<br>valley
+bip_39_word_new_br_12: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen<br>purchase<br>valley<br>attitude
+bip_39_word_new_br_2: hen<br>purpose
+bip_39_word_new_br_3: hen<br>purpose<br>dizzy
+bip_39_word_new_br_4: hen<br>purpose<br>dizzy<br>raven
+bip_39_word_new_br_5: hen<br>purpose<br>dizzy<br>raven<br>tribe
+bip_39_word_new_br_6: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam
+bip_39_word_new_br_7: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer
+bip_39_word_new_br_8: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog
+bip_39_word_new_br_9: hen<br>purpose<br>dizzy<br>raven<br>tribe<br>foam<br>answer<br>dog<br>pen
+bip_39_word_new_line_1: hen
+bip_39_word_new_line_10: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer
+
+  dog
+
+  pen
+
+  purchase'
+bip_39_word_new_line_11: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer
+
+  dog
+
+  pen
+
+  purchase
+
+  valley'
+bip_39_word_new_line_12: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer
+
+  dog
+
+  pen
+
+  purchase
+
+  valley
+
+  attitude'
+bip_39_word_new_line_2: 'hen
+
+  purpose'
+bip_39_word_new_line_3: 'hen
+
+  purpose
+
+  dizzy'
+bip_39_word_new_line_4: 'hen
+
+  purpose
+
+  dizzy
+
+  raven'
+bip_39_word_new_line_5: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe'
+bip_39_word_new_line_6: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam'
+bip_39_word_new_line_7: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer'
+bip_39_word_new_line_8: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer
+
+  dog'
+bip_39_word_new_line_9: 'hen
+
+  purpose
+
+  dizzy
+
+  raven
+
+  tribe
+
+  foam
+
+  answer
+
+  dog
+
+  pen'
+bip_39_word_no_space_1: hen
+bip_39_word_no_space_10: henpurposedizzyraventribefoamanswerdogpenpurchase
+bip_39_word_no_space_11: henpurposedizzyraventribefoamanswerdogpenpurchasevalley
+bip_39_word_no_space_12: henpurposedizzyraventribefoamanswerdogpenpurchasevalleyattitude
+bip_39_word_no_space_2: henpurpose
+bip_39_word_no_space_3: henpurposedizzy
+bip_39_word_no_space_4: henpurposedizzyraven
+bip_39_word_no_space_5: henpurposedizzyraventribe
+bip_39_word_no_space_6: henpurposedizzyraventribefoam
+bip_39_word_no_space_7: henpurposedizzyraventribefoamanswer
+bip_39_word_no_space_8: henpurposedizzyraventribefoamanswerdog
+bip_39_word_no_space_9: henpurposedizzyraventribefoamanswerdogpen
+bip_39_word_space_0:
+- hen
+- purpose
+- dizzy
+- raven
+- tribe
+- foam
+- answer
+- dog
+- pen
+- purchase
+- valley
+- attitude
+bip_39_word_space_1: hen
+bip_39_word_space_10: hen purpose dizzy raven tribe foam answer dog pen purchase
+bip_39_word_space_11: hen purpose dizzy raven tribe foam answer dog pen purchase valley
+bip_39_word_space_12: hen purpose dizzy raven tribe foam answer dog pen purchase valley
+  attitude
+bip_39_word_space_2: hen purpose
+bip_39_word_space_3: hen purpose dizzy
+bip_39_word_space_4: hen purpose dizzy raven
+bip_39_word_space_5: hen purpose dizzy raven tribe
+bip_39_word_space_6: hen purpose dizzy raven tribe foam
+bip_39_word_space_7: hen purpose dizzy raven tribe foam answer
+bip_39_word_space_8: hen purpose dizzy raven tribe foam answer dog
+bip_39_word_space_9: hen purpose dizzy raven tribe foam answer dog pen
+bip_39_word_underscore_1: hen
+bip_39_word_underscore_10: hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase
+bip_39_word_underscore_11: hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase_valley
+bip_39_word_underscore_12: hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen_purchase_valley_attitude
+bip_39_word_underscore_2: hen_purpose
+bip_39_word_underscore_3: hen_purpose_dizzy
+bip_39_word_underscore_4: hen_purpose_dizzy_raven
+bip_39_word_underscore_5: hen_purpose_dizzy_raven_tribe
+bip_39_word_underscore_6: hen_purpose_dizzy_raven_tribe_foam
+bip_39_word_underscore_7: hen_purpose_dizzy_raven_tribe_foam_answer
+bip_39_word_underscore_8: hen_purpose_dizzy_raven_tribe_foam_answer_dog
+bip_39_word_underscore_9: hen_purpose_dizzy_raven_tribe_foam_answer_dog_pen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_shaft_3d5__nut_small
 id_no_color: 3d5nutsmall
 id_no_size: 3d5__nut_small
 id_no_type: shaft_3d5__nut_small
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_3d5__nut_small
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_3d5__nut_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2097c2z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2097c2z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2097c2z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 3D5Nutsmall
 name_no_size: 3D5  Nut Small
 name_no_size_short: 3D5  Nut Small
 name_no_type: Shaft 3D5  Nut Small
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_3d5__nut_small
 oomp_word: car boat car
 oomp_word_emoji: ':car: :boat: :car:'

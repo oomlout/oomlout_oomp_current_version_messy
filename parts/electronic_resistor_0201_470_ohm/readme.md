@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0201 470 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0201_470_ohm
   * classification: electronic

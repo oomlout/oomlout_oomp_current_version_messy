@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
   * classification: hardware

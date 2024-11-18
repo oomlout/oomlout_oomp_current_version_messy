@@ -1,3 +1,222 @@
+bip_39_word_dash_1: notice
+bip_39_word_dash_10: notice-glad-list-demise-glow-dial-void-basket-shallow-later
+bip_39_word_dash_11: notice-glad-list-demise-glow-dial-void-basket-shallow-later-awful
+bip_39_word_dash_12: notice-glad-list-demise-glow-dial-void-basket-shallow-later-awful-agent
+bip_39_word_dash_2: notice-glad
+bip_39_word_dash_3: notice-glad-list
+bip_39_word_dash_4: notice-glad-list-demise
+bip_39_word_dash_5: notice-glad-list-demise-glow
+bip_39_word_dash_6: notice-glad-list-demise-glow-dial
+bip_39_word_dash_7: notice-glad-list-demise-glow-dial-void
+bip_39_word_dash_8: notice-glad-list-demise-glow-dial-void-basket
+bip_39_word_dash_9: notice-glad-list-demise-glow-dial-void-basket-shallow
+bip_39_word_new_br_1: notice
+bip_39_word_new_br_10: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later
+bip_39_word_new_br_11: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful
+bip_39_word_new_br_12: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow<br>later<br>awful<br>agent
+bip_39_word_new_br_2: notice<br>glad
+bip_39_word_new_br_3: notice<br>glad<br>list
+bip_39_word_new_br_4: notice<br>glad<br>list<br>demise
+bip_39_word_new_br_5: notice<br>glad<br>list<br>demise<br>glow
+bip_39_word_new_br_6: notice<br>glad<br>list<br>demise<br>glow<br>dial
+bip_39_word_new_br_7: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void
+bip_39_word_new_br_8: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket
+bip_39_word_new_br_9: notice<br>glad<br>list<br>demise<br>glow<br>dial<br>void<br>basket<br>shallow
+bip_39_word_new_line_1: notice
+bip_39_word_new_line_10: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void
+
+  basket
+
+  shallow
+
+  later'
+bip_39_word_new_line_11: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void
+
+  basket
+
+  shallow
+
+  later
+
+  awful'
+bip_39_word_new_line_12: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void
+
+  basket
+
+  shallow
+
+  later
+
+  awful
+
+  agent'
+bip_39_word_new_line_2: 'notice
+
+  glad'
+bip_39_word_new_line_3: 'notice
+
+  glad
+
+  list'
+bip_39_word_new_line_4: 'notice
+
+  glad
+
+  list
+
+  demise'
+bip_39_word_new_line_5: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow'
+bip_39_word_new_line_6: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial'
+bip_39_word_new_line_7: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void'
+bip_39_word_new_line_8: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void
+
+  basket'
+bip_39_word_new_line_9: 'notice
+
+  glad
+
+  list
+
+  demise
+
+  glow
+
+  dial
+
+  void
+
+  basket
+
+  shallow'
+bip_39_word_no_space_1: notice
+bip_39_word_no_space_10: noticegladlistdemiseglowdialvoidbasketshallowlater
+bip_39_word_no_space_11: noticegladlistdemiseglowdialvoidbasketshallowlaterawful
+bip_39_word_no_space_12: noticegladlistdemiseglowdialvoidbasketshallowlaterawfulagent
+bip_39_word_no_space_2: noticeglad
+bip_39_word_no_space_3: noticegladlist
+bip_39_word_no_space_4: noticegladlistdemise
+bip_39_word_no_space_5: noticegladlistdemiseglow
+bip_39_word_no_space_6: noticegladlistdemiseglowdial
+bip_39_word_no_space_7: noticegladlistdemiseglowdialvoid
+bip_39_word_no_space_8: noticegladlistdemiseglowdialvoidbasket
+bip_39_word_no_space_9: noticegladlistdemiseglowdialvoidbasketshallow
+bip_39_word_space_0:
+- notice
+- glad
+- list
+- demise
+- glow
+- dial
+- void
+- basket
+- shallow
+- later
+- awful
+- agent
+bip_39_word_space_1: notice
+bip_39_word_space_10: notice glad list demise glow dial void basket shallow later
+bip_39_word_space_11: notice glad list demise glow dial void basket shallow later
+  awful
+bip_39_word_space_12: notice glad list demise glow dial void basket shallow later
+  awful agent
+bip_39_word_space_2: notice glad
+bip_39_word_space_3: notice glad list
+bip_39_word_space_4: notice glad list demise
+bip_39_word_space_5: notice glad list demise glow
+bip_39_word_space_6: notice glad list demise glow dial
+bip_39_word_space_7: notice glad list demise glow dial void
+bip_39_word_space_8: notice glad list demise glow dial void basket
+bip_39_word_space_9: notice glad list demise glow dial void basket shallow
+bip_39_word_underscore_1: notice
+bip_39_word_underscore_10: notice_glad_list_demise_glow_dial_void_basket_shallow_later
+bip_39_word_underscore_11: notice_glad_list_demise_glow_dial_void_basket_shallow_later_awful
+bip_39_word_underscore_12: notice_glad_list_demise_glow_dial_void_basket_shallow_later_awful_agent
+bip_39_word_underscore_2: notice_glad
+bip_39_word_underscore_3: notice_glad_list
+bip_39_word_underscore_4: notice_glad_list_demise
+bip_39_word_underscore_5: notice_glad_list_demise_glow
+bip_39_word_underscore_6: notice_glad_list_demise_glow_dial
+bip_39_word_underscore_7: notice_glad_list_demise_glow_dial_void
+bip_39_word_underscore_8: notice_glad_list_demise_glow_dial_void_basket
+bip_39_word_underscore_9: notice_glad_list_demise_glow_dial_void_basket_shallow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_01_01_69
 id_no_color: 010169
 id_no_size: 01_01_69
 id_no_type: plate_01_01_69
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_69
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_69
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_69
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2031qvz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2031qvz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2031qvz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 010169
 name_no_size: 01 01 69
 name_no_size_short: 01 01 69
 name_no_type: Plate 01 01 69
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_69
 oomp_word: honeybee feet leopard
 oomp_word_emoji: ':honeybee: :feet: :leopard:'

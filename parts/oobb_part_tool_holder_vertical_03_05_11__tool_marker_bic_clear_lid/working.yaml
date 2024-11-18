@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fetch
+bip_39_word_dash_10: fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine
+bip_39_word_dash_11: fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine-attend
+bip_39_word_dash_12: fetch-base-tortoise-flight-curious-like-proof-spend-cost-machine-attend-absent
+bip_39_word_dash_2: fetch-base
+bip_39_word_dash_3: fetch-base-tortoise
+bip_39_word_dash_4: fetch-base-tortoise-flight
+bip_39_word_dash_5: fetch-base-tortoise-flight-curious
+bip_39_word_dash_6: fetch-base-tortoise-flight-curious-like
+bip_39_word_dash_7: fetch-base-tortoise-flight-curious-like-proof
+bip_39_word_dash_8: fetch-base-tortoise-flight-curious-like-proof-spend
+bip_39_word_dash_9: fetch-base-tortoise-flight-curious-like-proof-spend-cost
+bip_39_word_new_br_1: fetch
+bip_39_word_new_br_10: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine
+bip_39_word_new_br_11: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine<br>attend
+bip_39_word_new_br_12: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost<br>machine<br>attend<br>absent
+bip_39_word_new_br_2: fetch<br>base
+bip_39_word_new_br_3: fetch<br>base<br>tortoise
+bip_39_word_new_br_4: fetch<br>base<br>tortoise<br>flight
+bip_39_word_new_br_5: fetch<br>base<br>tortoise<br>flight<br>curious
+bip_39_word_new_br_6: fetch<br>base<br>tortoise<br>flight<br>curious<br>like
+bip_39_word_new_br_7: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof
+bip_39_word_new_br_8: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend
+bip_39_word_new_br_9: fetch<br>base<br>tortoise<br>flight<br>curious<br>like<br>proof<br>spend<br>cost
+bip_39_word_new_line_1: fetch
+bip_39_word_new_line_10: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof
+
+  spend
+
+  cost
+
+  machine'
+bip_39_word_new_line_11: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof
+
+  spend
+
+  cost
+
+  machine
+
+  attend'
+bip_39_word_new_line_12: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof
+
+  spend
+
+  cost
+
+  machine
+
+  attend
+
+  absent'
+bip_39_word_new_line_2: 'fetch
+
+  base'
+bip_39_word_new_line_3: 'fetch
+
+  base
+
+  tortoise'
+bip_39_word_new_line_4: 'fetch
+
+  base
+
+  tortoise
+
+  flight'
+bip_39_word_new_line_5: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious'
+bip_39_word_new_line_6: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like'
+bip_39_word_new_line_7: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof'
+bip_39_word_new_line_8: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof
+
+  spend'
+bip_39_word_new_line_9: 'fetch
+
+  base
+
+  tortoise
+
+  flight
+
+  curious
+
+  like
+
+  proof
+
+  spend
+
+  cost'
+bip_39_word_no_space_1: fetch
+bip_39_word_no_space_10: fetchbasetortoiseflightcuriouslikeproofspendcostmachine
+bip_39_word_no_space_11: fetchbasetortoiseflightcuriouslikeproofspendcostmachineattend
+bip_39_word_no_space_12: fetchbasetortoiseflightcuriouslikeproofspendcostmachineattendabsent
+bip_39_word_no_space_2: fetchbase
+bip_39_word_no_space_3: fetchbasetortoise
+bip_39_word_no_space_4: fetchbasetortoiseflight
+bip_39_word_no_space_5: fetchbasetortoiseflightcurious
+bip_39_word_no_space_6: fetchbasetortoiseflightcuriouslike
+bip_39_word_no_space_7: fetchbasetortoiseflightcuriouslikeproof
+bip_39_word_no_space_8: fetchbasetortoiseflightcuriouslikeproofspend
+bip_39_word_no_space_9: fetchbasetortoiseflightcuriouslikeproofspendcost
+bip_39_word_space_0:
+- fetch
+- base
+- tortoise
+- flight
+- curious
+- like
+- proof
+- spend
+- cost
+- machine
+- attend
+- absent
+bip_39_word_space_1: fetch
+bip_39_word_space_10: fetch base tortoise flight curious like proof spend cost machine
+bip_39_word_space_11: fetch base tortoise flight curious like proof spend cost machine
+  attend
+bip_39_word_space_12: fetch base tortoise flight curious like proof spend cost machine
+  attend absent
+bip_39_word_space_2: fetch base
+bip_39_word_space_3: fetch base tortoise
+bip_39_word_space_4: fetch base tortoise flight
+bip_39_word_space_5: fetch base tortoise flight curious
+bip_39_word_space_6: fetch base tortoise flight curious like
+bip_39_word_space_7: fetch base tortoise flight curious like proof
+bip_39_word_space_8: fetch base tortoise flight curious like proof spend
+bip_39_word_space_9: fetch base tortoise flight curious like proof spend cost
+bip_39_word_underscore_1: fetch
+bip_39_word_underscore_10: fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine
+bip_39_word_underscore_11: fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine_attend
+bip_39_word_underscore_12: fetch_base_tortoise_flight_curious_like_proof_spend_cost_machine_attend_absent
+bip_39_word_underscore_2: fetch_base
+bip_39_word_underscore_3: fetch_base_tortoise
+bip_39_word_underscore_4: fetch_base_tortoise_flight
+bip_39_word_underscore_5: fetch_base_tortoise_flight_curious
+bip_39_word_underscore_6: fetch_base_tortoise_flight_curious_like
+bip_39_word_underscore_7: fetch_base_tortoise_flight_curious_like_proof
+bip_39_word_underscore_8: fetch_base_tortoise_flight_curious_like_proof_spend
+bip_39_word_underscore_9: fetch_base_tortoise_flight_curious_like_proof_spend_cost
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
 id_no_color: 030511toolmarkerbicclearlid
 id_no_size: 03_05_11__tool_marker_bic_clear_lid
 id_no_type: tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20e7fl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20e7fl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20e7fl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030511Toolmarkerbicclearlid
 name_no_size: 03 05 11  Tool Marker Bic Clear Lid
 name_no_size_short: 03 05 11  Tool Marker Bic Clear Lid
 name_no_type: Tool Holder Vertical 03 05 11  Tool Marker Bic Clear Lid
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_03_05_11__tool_marker_bic_clear_lid
 oomp_word: sleepy baby feet
 oomp_word_emoji: ':sleepy: :baby: :feet:'

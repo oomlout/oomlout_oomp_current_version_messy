@@ -1,3 +1,222 @@
+bip_39_word_dash_1: metal
+bip_39_word_dash_10: metal-waste-truck-invite-treat-office-will-deliver-behave-valid
+bip_39_word_dash_11: metal-waste-truck-invite-treat-office-will-deliver-behave-valid-quality
+bip_39_word_dash_12: metal-waste-truck-invite-treat-office-will-deliver-behave-valid-quality-amateur
+bip_39_word_dash_2: metal-waste
+bip_39_word_dash_3: metal-waste-truck
+bip_39_word_dash_4: metal-waste-truck-invite
+bip_39_word_dash_5: metal-waste-truck-invite-treat
+bip_39_word_dash_6: metal-waste-truck-invite-treat-office
+bip_39_word_dash_7: metal-waste-truck-invite-treat-office-will
+bip_39_word_dash_8: metal-waste-truck-invite-treat-office-will-deliver
+bip_39_word_dash_9: metal-waste-truck-invite-treat-office-will-deliver-behave
+bip_39_word_new_br_1: metal
+bip_39_word_new_br_10: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid
+bip_39_word_new_br_11: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid<br>quality
+bip_39_word_new_br_12: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave<br>valid<br>quality<br>amateur
+bip_39_word_new_br_2: metal<br>waste
+bip_39_word_new_br_3: metal<br>waste<br>truck
+bip_39_word_new_br_4: metal<br>waste<br>truck<br>invite
+bip_39_word_new_br_5: metal<br>waste<br>truck<br>invite<br>treat
+bip_39_word_new_br_6: metal<br>waste<br>truck<br>invite<br>treat<br>office
+bip_39_word_new_br_7: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will
+bip_39_word_new_br_8: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver
+bip_39_word_new_br_9: metal<br>waste<br>truck<br>invite<br>treat<br>office<br>will<br>deliver<br>behave
+bip_39_word_new_line_1: metal
+bip_39_word_new_line_10: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will
+
+  deliver
+
+  behave
+
+  valid'
+bip_39_word_new_line_11: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will
+
+  deliver
+
+  behave
+
+  valid
+
+  quality'
+bip_39_word_new_line_12: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will
+
+  deliver
+
+  behave
+
+  valid
+
+  quality
+
+  amateur'
+bip_39_word_new_line_2: 'metal
+
+  waste'
+bip_39_word_new_line_3: 'metal
+
+  waste
+
+  truck'
+bip_39_word_new_line_4: 'metal
+
+  waste
+
+  truck
+
+  invite'
+bip_39_word_new_line_5: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat'
+bip_39_word_new_line_6: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office'
+bip_39_word_new_line_7: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will'
+bip_39_word_new_line_8: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will
+
+  deliver'
+bip_39_word_new_line_9: 'metal
+
+  waste
+
+  truck
+
+  invite
+
+  treat
+
+  office
+
+  will
+
+  deliver
+
+  behave'
+bip_39_word_no_space_1: metal
+bip_39_word_no_space_10: metalwastetruckinvitetreatofficewilldeliverbehavevalid
+bip_39_word_no_space_11: metalwastetruckinvitetreatofficewilldeliverbehavevalidquality
+bip_39_word_no_space_12: metalwastetruckinvitetreatofficewilldeliverbehavevalidqualityamateur
+bip_39_word_no_space_2: metalwaste
+bip_39_word_no_space_3: metalwastetruck
+bip_39_word_no_space_4: metalwastetruckinvite
+bip_39_word_no_space_5: metalwastetruckinvitetreat
+bip_39_word_no_space_6: metalwastetruckinvitetreatoffice
+bip_39_word_no_space_7: metalwastetruckinvitetreatofficewill
+bip_39_word_no_space_8: metalwastetruckinvitetreatofficewilldeliver
+bip_39_word_no_space_9: metalwastetruckinvitetreatofficewilldeliverbehave
+bip_39_word_space_0:
+- metal
+- waste
+- truck
+- invite
+- treat
+- office
+- will
+- deliver
+- behave
+- valid
+- quality
+- amateur
+bip_39_word_space_1: metal
+bip_39_word_space_10: metal waste truck invite treat office will deliver behave valid
+bip_39_word_space_11: metal waste truck invite treat office will deliver behave valid
+  quality
+bip_39_word_space_12: metal waste truck invite treat office will deliver behave valid
+  quality amateur
+bip_39_word_space_2: metal waste
+bip_39_word_space_3: metal waste truck
+bip_39_word_space_4: metal waste truck invite
+bip_39_word_space_5: metal waste truck invite treat
+bip_39_word_space_6: metal waste truck invite treat office
+bip_39_word_space_7: metal waste truck invite treat office will
+bip_39_word_space_8: metal waste truck invite treat office will deliver
+bip_39_word_space_9: metal waste truck invite treat office will deliver behave
+bip_39_word_underscore_1: metal
+bip_39_word_underscore_10: metal_waste_truck_invite_treat_office_will_deliver_behave_valid
+bip_39_word_underscore_11: metal_waste_truck_invite_treat_office_will_deliver_behave_valid_quality
+bip_39_word_underscore_12: metal_waste_truck_invite_treat_office_will_deliver_behave_valid_quality_amateur
+bip_39_word_underscore_2: metal_waste
+bip_39_word_underscore_3: metal_waste_truck
+bip_39_word_underscore_4: metal_waste_truck_invite
+bip_39_word_underscore_5: metal_waste_truck_invite_treat
+bip_39_word_underscore_6: metal_waste_truck_invite_treat_office
+bip_39_word_underscore_7: metal_waste_truck_invite_treat_office_will
+bip_39_word_underscore_8: metal_waste_truck_invite_treat_office_will_deliver
+bip_39_word_underscore_9: metal_waste_truck_invite_treat_office_will_deliver_behave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_09_12
 id_no_color: 080912
 id_no_size: 08_09_12
 id_no_type: tray_08_09_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_09_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204taik
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204taik
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204taik
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 080912
 name_no_size: 08 09 12
 name_no_size_short: 08 09 12
 name_no_type: Tray 08 09 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_09_12
 oomp_word: computer crocodile tv
 oomp_word_emoji: ':computer: :crocodile: :tv:'

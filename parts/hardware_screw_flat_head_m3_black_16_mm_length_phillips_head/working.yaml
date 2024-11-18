@@ -1,3 +1,223 @@
+bip_39_word_dash_1: element
+bip_39_word_dash_10: element-enforce-pulse-family-glance-thrive-nasty-film-slush-life
+bip_39_word_dash_11: element-enforce-pulse-family-glance-thrive-nasty-film-slush-life-want
+bip_39_word_dash_12: element-enforce-pulse-family-glance-thrive-nasty-film-slush-life-want-arch
+bip_39_word_dash_2: element-enforce
+bip_39_word_dash_3: element-enforce-pulse
+bip_39_word_dash_4: element-enforce-pulse-family
+bip_39_word_dash_5: element-enforce-pulse-family-glance
+bip_39_word_dash_6: element-enforce-pulse-family-glance-thrive
+bip_39_word_dash_7: element-enforce-pulse-family-glance-thrive-nasty
+bip_39_word_dash_8: element-enforce-pulse-family-glance-thrive-nasty-film
+bip_39_word_dash_9: element-enforce-pulse-family-glance-thrive-nasty-film-slush
+bip_39_word_new_br_1: element
+bip_39_word_new_br_10: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty<br>film<br>slush<br>life
+bip_39_word_new_br_11: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty<br>film<br>slush<br>life<br>want
+bip_39_word_new_br_12: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty<br>film<br>slush<br>life<br>want<br>arch
+bip_39_word_new_br_2: element<br>enforce
+bip_39_word_new_br_3: element<br>enforce<br>pulse
+bip_39_word_new_br_4: element<br>enforce<br>pulse<br>family
+bip_39_word_new_br_5: element<br>enforce<br>pulse<br>family<br>glance
+bip_39_word_new_br_6: element<br>enforce<br>pulse<br>family<br>glance<br>thrive
+bip_39_word_new_br_7: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty
+bip_39_word_new_br_8: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty<br>film
+bip_39_word_new_br_9: element<br>enforce<br>pulse<br>family<br>glance<br>thrive<br>nasty<br>film<br>slush
+bip_39_word_new_line_1: element
+bip_39_word_new_line_10: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty
+
+  film
+
+  slush
+
+  life'
+bip_39_word_new_line_11: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty
+
+  film
+
+  slush
+
+  life
+
+  want'
+bip_39_word_new_line_12: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty
+
+  film
+
+  slush
+
+  life
+
+  want
+
+  arch'
+bip_39_word_new_line_2: 'element
+
+  enforce'
+bip_39_word_new_line_3: 'element
+
+  enforce
+
+  pulse'
+bip_39_word_new_line_4: 'element
+
+  enforce
+
+  pulse
+
+  family'
+bip_39_word_new_line_5: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance'
+bip_39_word_new_line_6: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive'
+bip_39_word_new_line_7: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty'
+bip_39_word_new_line_8: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty
+
+  film'
+bip_39_word_new_line_9: 'element
+
+  enforce
+
+  pulse
+
+  family
+
+  glance
+
+  thrive
+
+  nasty
+
+  film
+
+  slush'
+bip_39_word_no_space_1: element
+bip_39_word_no_space_10: elementenforcepulsefamilyglancethrivenastyfilmslushlife
+bip_39_word_no_space_11: elementenforcepulsefamilyglancethrivenastyfilmslushlifewant
+bip_39_word_no_space_12: elementenforcepulsefamilyglancethrivenastyfilmslushlifewantarch
+bip_39_word_no_space_2: elementenforce
+bip_39_word_no_space_3: elementenforcepulse
+bip_39_word_no_space_4: elementenforcepulsefamily
+bip_39_word_no_space_5: elementenforcepulsefamilyglance
+bip_39_word_no_space_6: elementenforcepulsefamilyglancethrive
+bip_39_word_no_space_7: elementenforcepulsefamilyglancethrivenasty
+bip_39_word_no_space_8: elementenforcepulsefamilyglancethrivenastyfilm
+bip_39_word_no_space_9: elementenforcepulsefamilyglancethrivenastyfilmslush
+bip_39_word_space_0:
+- element
+- enforce
+- pulse
+- family
+- glance
+- thrive
+- nasty
+- film
+- slush
+- life
+- want
+- arch
+bip_39_word_space_1: element
+bip_39_word_space_10: element enforce pulse family glance thrive nasty film slush
+  life
+bip_39_word_space_11: element enforce pulse family glance thrive nasty film slush
+  life want
+bip_39_word_space_12: element enforce pulse family glance thrive nasty film slush
+  life want arch
+bip_39_word_space_2: element enforce
+bip_39_word_space_3: element enforce pulse
+bip_39_word_space_4: element enforce pulse family
+bip_39_word_space_5: element enforce pulse family glance
+bip_39_word_space_6: element enforce pulse family glance thrive
+bip_39_word_space_7: element enforce pulse family glance thrive nasty
+bip_39_word_space_8: element enforce pulse family glance thrive nasty film
+bip_39_word_space_9: element enforce pulse family glance thrive nasty film slush
+bip_39_word_underscore_1: element
+bip_39_word_underscore_10: element_enforce_pulse_family_glance_thrive_nasty_film_slush_life
+bip_39_word_underscore_11: element_enforce_pulse_family_glance_thrive_nasty_film_slush_life_want
+bip_39_word_underscore_12: element_enforce_pulse_family_glance_thrive_nasty_film_slush_life_want_arch
+bip_39_word_underscore_2: element_enforce
+bip_39_word_underscore_3: element_enforce_pulse
+bip_39_word_underscore_4: element_enforce_pulse_family
+bip_39_word_underscore_5: element_enforce_pulse_family_glance
+bip_39_word_underscore_6: element_enforce_pulse_family_glance_thrive
+bip_39_word_underscore_7: element_enforce_pulse_family_glance_thrive_nasty
+bip_39_word_underscore_8: element_enforce_pulse_family_glance_thrive_nasty_film
+bip_39_word_underscore_9: element_enforce_pulse_family_glance_thrive_nasty_film_slush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 16_mm_length_phillips_head
 id_no_size: black_16_mm_length_phillips_head
 id_no_type: m3_black_16_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_16_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m3_black_16_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_16_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206xxi8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206xxi8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206xxi8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 16 mm Length Phillips Head
 name_no_size: Black 16 mm Length Phillips Head
 name_no_size_short: Black 16 Mm Length Phillips Head
 name_no_type: M3 Black 16 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 6xx
+oomlout_bolt_md5_6_alpha_first_3_upper: 6XX
+oomlout_bolt_md5_6_alpha_last_3: i8
+oomlout_bolt_md5_6_alpha_last_3_upper: I8
+oomlout_bolt_md5_6_first_3: b1e
+oomlout_bolt_md5_6_first_3_upper: B1E
+oomlout_bolt_md5_6_last_3: de0
+oomlout_bolt_md5_6_last_3_upper: DE0
+oomlout_bolt_name: Flat Head M3X16 mm Black (Phillips)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh3b16p
+oomlout_short_code_upper: FH3B16P
 oomp_key: oomp_hardware_screw_flat_head_m3_black_16_mm_length_phillips_head
 oomp_word: briefcase bus ship
 oomp_word_emoji: ':briefcase: :bus: :ship:'

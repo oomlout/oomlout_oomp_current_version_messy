@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Plate 250 mm Diameter Ikea 302 589 13
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13
   * classification: dish

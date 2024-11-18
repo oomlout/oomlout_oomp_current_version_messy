@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6000 Series 6020 Size 100 mm ID 150 mm OD 24 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6000_series_6020_size_100_mm_id_150_mm_od_24_mm_depth
   * classification: hardware

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: split
+bip_39_word_dash_10: split-method-almost-spare-party-lounge-describe-rate-strike-scheme
+bip_39_word_dash_11: split-method-almost-spare-party-lounge-describe-rate-strike-scheme-pudding
+bip_39_word_dash_12: split-method-almost-spare-party-lounge-describe-rate-strike-scheme-pudding-alcohol
+bip_39_word_dash_2: split-method
+bip_39_word_dash_3: split-method-almost
+bip_39_word_dash_4: split-method-almost-spare
+bip_39_word_dash_5: split-method-almost-spare-party
+bip_39_word_dash_6: split-method-almost-spare-party-lounge
+bip_39_word_dash_7: split-method-almost-spare-party-lounge-describe
+bip_39_word_dash_8: split-method-almost-spare-party-lounge-describe-rate
+bip_39_word_dash_9: split-method-almost-spare-party-lounge-describe-rate-strike
+bip_39_word_new_br_1: split
+bip_39_word_new_br_10: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme
+bip_39_word_new_br_11: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme<br>pudding
+bip_39_word_new_br_12: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike<br>scheme<br>pudding<br>alcohol
+bip_39_word_new_br_2: split<br>method
+bip_39_word_new_br_3: split<br>method<br>almost
+bip_39_word_new_br_4: split<br>method<br>almost<br>spare
+bip_39_word_new_br_5: split<br>method<br>almost<br>spare<br>party
+bip_39_word_new_br_6: split<br>method<br>almost<br>spare<br>party<br>lounge
+bip_39_word_new_br_7: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe
+bip_39_word_new_br_8: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate
+bip_39_word_new_br_9: split<br>method<br>almost<br>spare<br>party<br>lounge<br>describe<br>rate<br>strike
+bip_39_word_new_line_1: split
+bip_39_word_new_line_10: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe
+
+  rate
+
+  strike
+
+  scheme'
+bip_39_word_new_line_11: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe
+
+  rate
+
+  strike
+
+  scheme
+
+  pudding'
+bip_39_word_new_line_12: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe
+
+  rate
+
+  strike
+
+  scheme
+
+  pudding
+
+  alcohol'
+bip_39_word_new_line_2: 'split
+
+  method'
+bip_39_word_new_line_3: 'split
+
+  method
+
+  almost'
+bip_39_word_new_line_4: 'split
+
+  method
+
+  almost
+
+  spare'
+bip_39_word_new_line_5: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party'
+bip_39_word_new_line_6: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge'
+bip_39_word_new_line_7: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe'
+bip_39_word_new_line_8: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe
+
+  rate'
+bip_39_word_new_line_9: 'split
+
+  method
+
+  almost
+
+  spare
+
+  party
+
+  lounge
+
+  describe
+
+  rate
+
+  strike'
+bip_39_word_no_space_1: split
+bip_39_word_no_space_10: splitmethodalmostsparepartyloungedescriberatestrikescheme
+bip_39_word_no_space_11: splitmethodalmostsparepartyloungedescriberatestrikeschemepudding
+bip_39_word_no_space_12: splitmethodalmostsparepartyloungedescriberatestrikeschemepuddingalcohol
+bip_39_word_no_space_2: splitmethod
+bip_39_word_no_space_3: splitmethodalmost
+bip_39_word_no_space_4: splitmethodalmostspare
+bip_39_word_no_space_5: splitmethodalmostspareparty
+bip_39_word_no_space_6: splitmethodalmostsparepartylounge
+bip_39_word_no_space_7: splitmethodalmostsparepartyloungedescribe
+bip_39_word_no_space_8: splitmethodalmostsparepartyloungedescriberate
+bip_39_word_no_space_9: splitmethodalmostsparepartyloungedescriberatestrike
+bip_39_word_space_0:
+- split
+- method
+- almost
+- spare
+- party
+- lounge
+- describe
+- rate
+- strike
+- scheme
+- pudding
+- alcohol
+bip_39_word_space_1: split
+bip_39_word_space_10: split method almost spare party lounge describe rate strike
+  scheme
+bip_39_word_space_11: split method almost spare party lounge describe rate strike
+  scheme pudding
+bip_39_word_space_12: split method almost spare party lounge describe rate strike
+  scheme pudding alcohol
+bip_39_word_space_2: split method
+bip_39_word_space_3: split method almost
+bip_39_word_space_4: split method almost spare
+bip_39_word_space_5: split method almost spare party
+bip_39_word_space_6: split method almost spare party lounge
+bip_39_word_space_7: split method almost spare party lounge describe
+bip_39_word_space_8: split method almost spare party lounge describe rate
+bip_39_word_space_9: split method almost spare party lounge describe rate strike
+bip_39_word_underscore_1: split
+bip_39_word_underscore_10: split_method_almost_spare_party_lounge_describe_rate_strike_scheme
+bip_39_word_underscore_11: split_method_almost_spare_party_lounge_describe_rate_strike_scheme_pudding
+bip_39_word_underscore_12: split_method_almost_spare_party_lounge_describe_rate_strike_scheme_pudding_alcohol
+bip_39_word_underscore_2: split_method
+bip_39_word_underscore_3: split_method_almost
+bip_39_word_underscore_4: split_method_almost_spare
+bip_39_word_underscore_5: split_method_almost_spare_party
+bip_39_word_underscore_6: split_method_almost_spare_party_lounge
+bip_39_word_underscore_7: split_method_almost_spare_party_lounge_describe
+bip_39_word_underscore_8: split_method_almost_spare_party_lounge_describe_rate
+bip_39_word_underscore_9: split_method_almost_spare_party_lounge_describe_rate_strike
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_10_04_24
 id_no_color: '100424'
 id_no_size: '10_04_24'
 id_no_type: tray_thin_10_04_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_04_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_04_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203sqy8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203sqy8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203sqy8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '100424'
 name_no_size: 10 04 24
 name_no_size_short: 10 04 24
 name_no_type: Tray Thin 10 04 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_04_24
 oomp_word: bouquet goat squirrel
 oomp_word_emoji: ':bouquet: :goat: :squirrel:'

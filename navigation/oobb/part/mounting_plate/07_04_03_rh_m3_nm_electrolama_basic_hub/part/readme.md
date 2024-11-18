@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate 07 04 03 Rh M3 Nm Electrolama Basic Hub
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clubs: :frog: :clubs:
 * md5_6_alpha: 668wu
 * md5_6: 9e389e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20668wu)
+[2x1](http://192.168.1.242:1112/?label=oomp%20668wu)
+[6x4](http://192.168.1.55:1112/?label=oomp%20668wu)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ office |
 | id_no_color | 070403rhm3nmelectrolamabasichub |  
 | id_no_size | 07_04_03_rh_m3_nm_electrolama_basic_hub |  
 | id_no_type | mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20668wu |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20668wu |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20668wu |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ office |
 | name_no_size | 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
 | name_no_size_short | 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
 | name_no_type | Mounting Plate 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
 | oomp_word | clubs frog clubs |  
 | oomp_word_emoji | :clubs: :frog: :clubs: |  

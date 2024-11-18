@@ -1,3 +1,223 @@
+bip_39_word_dash_1: deal
+bip_39_word_dash_10: deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother
+bip_39_word_dash_11: deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother-share
+bip_39_word_dash_12: deal-blouse-orange-provide-talent-truck-cheese-stomach-project-mother-share-alpha
+bip_39_word_dash_2: deal-blouse
+bip_39_word_dash_3: deal-blouse-orange
+bip_39_word_dash_4: deal-blouse-orange-provide
+bip_39_word_dash_5: deal-blouse-orange-provide-talent
+bip_39_word_dash_6: deal-blouse-orange-provide-talent-truck
+bip_39_word_dash_7: deal-blouse-orange-provide-talent-truck-cheese
+bip_39_word_dash_8: deal-blouse-orange-provide-talent-truck-cheese-stomach
+bip_39_word_dash_9: deal-blouse-orange-provide-talent-truck-cheese-stomach-project
+bip_39_word_new_br_1: deal
+bip_39_word_new_br_10: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother
+bip_39_word_new_br_11: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share
+bip_39_word_new_br_12: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project<br>mother<br>share<br>alpha
+bip_39_word_new_br_2: deal<br>blouse
+bip_39_word_new_br_3: deal<br>blouse<br>orange
+bip_39_word_new_br_4: deal<br>blouse<br>orange<br>provide
+bip_39_word_new_br_5: deal<br>blouse<br>orange<br>provide<br>talent
+bip_39_word_new_br_6: deal<br>blouse<br>orange<br>provide<br>talent<br>truck
+bip_39_word_new_br_7: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese
+bip_39_word_new_br_8: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach
+bip_39_word_new_br_9: deal<br>blouse<br>orange<br>provide<br>talent<br>truck<br>cheese<br>stomach<br>project
+bip_39_word_new_line_1: deal
+bip_39_word_new_line_10: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese
+
+  stomach
+
+  project
+
+  mother'
+bip_39_word_new_line_11: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese
+
+  stomach
+
+  project
+
+  mother
+
+  share'
+bip_39_word_new_line_12: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese
+
+  stomach
+
+  project
+
+  mother
+
+  share
+
+  alpha'
+bip_39_word_new_line_2: 'deal
+
+  blouse'
+bip_39_word_new_line_3: 'deal
+
+  blouse
+
+  orange'
+bip_39_word_new_line_4: 'deal
+
+  blouse
+
+  orange
+
+  provide'
+bip_39_word_new_line_5: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent'
+bip_39_word_new_line_6: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck'
+bip_39_word_new_line_7: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese'
+bip_39_word_new_line_8: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese
+
+  stomach'
+bip_39_word_new_line_9: 'deal
+
+  blouse
+
+  orange
+
+  provide
+
+  talent
+
+  truck
+
+  cheese
+
+  stomach
+
+  project'
+bip_39_word_no_space_1: deal
+bip_39_word_no_space_10: dealblouseorangeprovidetalenttruckcheesestomachprojectmother
+bip_39_word_no_space_11: dealblouseorangeprovidetalenttruckcheesestomachprojectmothershare
+bip_39_word_no_space_12: dealblouseorangeprovidetalenttruckcheesestomachprojectmothersharealpha
+bip_39_word_no_space_2: dealblouse
+bip_39_word_no_space_3: dealblouseorange
+bip_39_word_no_space_4: dealblouseorangeprovide
+bip_39_word_no_space_5: dealblouseorangeprovidetalent
+bip_39_word_no_space_6: dealblouseorangeprovidetalenttruck
+bip_39_word_no_space_7: dealblouseorangeprovidetalenttruckcheese
+bip_39_word_no_space_8: dealblouseorangeprovidetalenttruckcheesestomach
+bip_39_word_no_space_9: dealblouseorangeprovidetalenttruckcheesestomachproject
+bip_39_word_space_0:
+- deal
+- blouse
+- orange
+- provide
+- talent
+- truck
+- cheese
+- stomach
+- project
+- mother
+- share
+- alpha
+bip_39_word_space_1: deal
+bip_39_word_space_10: deal blouse orange provide talent truck cheese stomach project
+  mother
+bip_39_word_space_11: deal blouse orange provide talent truck cheese stomach project
+  mother share
+bip_39_word_space_12: deal blouse orange provide talent truck cheese stomach project
+  mother share alpha
+bip_39_word_space_2: deal blouse
+bip_39_word_space_3: deal blouse orange
+bip_39_word_space_4: deal blouse orange provide
+bip_39_word_space_5: deal blouse orange provide talent
+bip_39_word_space_6: deal blouse orange provide talent truck
+bip_39_word_space_7: deal blouse orange provide talent truck cheese
+bip_39_word_space_8: deal blouse orange provide talent truck cheese stomach
+bip_39_word_space_9: deal blouse orange provide talent truck cheese stomach project
+bip_39_word_underscore_1: deal
+bip_39_word_underscore_10: deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother
+bip_39_word_underscore_11: deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother_share
+bip_39_word_underscore_12: deal_blouse_orange_provide_talent_truck_cheese_stomach_project_mother_share_alpha
+bip_39_word_underscore_2: deal_blouse
+bip_39_word_underscore_3: deal_blouse_orange
+bip_39_word_underscore_4: deal_blouse_orange_provide
+bip_39_word_underscore_5: deal_blouse_orange_provide_talent
+bip_39_word_underscore_6: deal_blouse_orange_provide_talent_truck
+bip_39_word_underscore_7: deal_blouse_orange_provide_talent_truck_cheese
+bip_39_word_underscore_8: deal_blouse_orange_provide_talent_truck_cheese_stomach
+bip_39_word_underscore_9: deal_blouse_orange_provide_talent_truck_cheese_stomach_project
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
 id_no_color: 090310toolscrewdriverdriverbitx8
 id_no_size: 09_03_10__tool_screwdriver_driver_bit_x8
 id_no_type: tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204fhic
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204fhic
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204fhic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 090310Toolscrewdriverdriverbitx8
 name_no_size: 09 03 10  Tool Screwdriver Driver Bit X8
 name_no_size_short: 09 03 10  Tool Screwdriver Driver Bit X8
 name_no_type: Tool Holder Vertical 09 03 10  Tool Screwdriver Driver Bit X8
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8
 oomp_word: bamboo envelope sunflower
 oomp_word_emoji: ':bamboo: :envelope: :sunflower:'

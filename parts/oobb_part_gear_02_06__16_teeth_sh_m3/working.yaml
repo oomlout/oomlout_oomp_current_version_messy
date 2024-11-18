@@ -1,3 +1,223 @@
+bip_39_word_dash_1: citizen
+bip_39_word_dash_10: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next
+bip_39_word_dash_11: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next-borrow
+bip_39_word_dash_12: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull-next-borrow-argue
+bip_39_word_dash_2: citizen-chief
+bip_39_word_dash_3: citizen-chief-name
+bip_39_word_dash_4: citizen-chief-name-pioneer
+bip_39_word_dash_5: citizen-chief-name-pioneer-wisdom
+bip_39_word_dash_6: citizen-chief-name-pioneer-wisdom-vintage
+bip_39_word_dash_7: citizen-chief-name-pioneer-wisdom-vintage-dragon
+bip_39_word_dash_8: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune
+bip_39_word_dash_9: citizen-chief-name-pioneer-wisdom-vintage-dragon-fortune-pull
+bip_39_word_new_br_1: citizen
+bip_39_word_new_br_10: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull<br>next
+bip_39_word_new_br_11: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull<br>next<br>borrow
+bip_39_word_new_br_12: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull<br>next<br>borrow<br>argue
+bip_39_word_new_br_2: citizen<br>chief
+bip_39_word_new_br_3: citizen<br>chief<br>name
+bip_39_word_new_br_4: citizen<br>chief<br>name<br>pioneer
+bip_39_word_new_br_5: citizen<br>chief<br>name<br>pioneer<br>wisdom
+bip_39_word_new_br_6: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage
+bip_39_word_new_br_7: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon
+bip_39_word_new_br_8: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune
+bip_39_word_new_br_9: citizen<br>chief<br>name<br>pioneer<br>wisdom<br>vintage<br>dragon<br>fortune<br>pull
+bip_39_word_new_line_1: citizen
+bip_39_word_new_line_10: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon
+
+  fortune
+
+  pull
+
+  next'
+bip_39_word_new_line_11: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon
+
+  fortune
+
+  pull
+
+  next
+
+  borrow'
+bip_39_word_new_line_12: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon
+
+  fortune
+
+  pull
+
+  next
+
+  borrow
+
+  argue'
+bip_39_word_new_line_2: 'citizen
+
+  chief'
+bip_39_word_new_line_3: 'citizen
+
+  chief
+
+  name'
+bip_39_word_new_line_4: 'citizen
+
+  chief
+
+  name
+
+  pioneer'
+bip_39_word_new_line_5: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom'
+bip_39_word_new_line_6: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage'
+bip_39_word_new_line_7: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon'
+bip_39_word_new_line_8: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon
+
+  fortune'
+bip_39_word_new_line_9: 'citizen
+
+  chief
+
+  name
+
+  pioneer
+
+  wisdom
+
+  vintage
+
+  dragon
+
+  fortune
+
+  pull'
+bip_39_word_no_space_1: citizen
+bip_39_word_no_space_10: citizenchiefnamepioneerwisdomvintagedragonfortunepullnext
+bip_39_word_no_space_11: citizenchiefnamepioneerwisdomvintagedragonfortunepullnextborrow
+bip_39_word_no_space_12: citizenchiefnamepioneerwisdomvintagedragonfortunepullnextborrowargue
+bip_39_word_no_space_2: citizenchief
+bip_39_word_no_space_3: citizenchiefname
+bip_39_word_no_space_4: citizenchiefnamepioneer
+bip_39_word_no_space_5: citizenchiefnamepioneerwisdom
+bip_39_word_no_space_6: citizenchiefnamepioneerwisdomvintage
+bip_39_word_no_space_7: citizenchiefnamepioneerwisdomvintagedragon
+bip_39_word_no_space_8: citizenchiefnamepioneerwisdomvintagedragonfortune
+bip_39_word_no_space_9: citizenchiefnamepioneerwisdomvintagedragonfortunepull
+bip_39_word_space_0:
+- citizen
+- chief
+- name
+- pioneer
+- wisdom
+- vintage
+- dragon
+- fortune
+- pull
+- next
+- borrow
+- argue
+bip_39_word_space_1: citizen
+bip_39_word_space_10: citizen chief name pioneer wisdom vintage dragon fortune pull
+  next
+bip_39_word_space_11: citizen chief name pioneer wisdom vintage dragon fortune pull
+  next borrow
+bip_39_word_space_12: citizen chief name pioneer wisdom vintage dragon fortune pull
+  next borrow argue
+bip_39_word_space_2: citizen chief
+bip_39_word_space_3: citizen chief name
+bip_39_word_space_4: citizen chief name pioneer
+bip_39_word_space_5: citizen chief name pioneer wisdom
+bip_39_word_space_6: citizen chief name pioneer wisdom vintage
+bip_39_word_space_7: citizen chief name pioneer wisdom vintage dragon
+bip_39_word_space_8: citizen chief name pioneer wisdom vintage dragon fortune
+bip_39_word_space_9: citizen chief name pioneer wisdom vintage dragon fortune pull
+bip_39_word_underscore_1: citizen
+bip_39_word_underscore_10: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next
+bip_39_word_underscore_11: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next_borrow
+bip_39_word_underscore_12: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull_next_borrow_argue
+bip_39_word_underscore_2: citizen_chief
+bip_39_word_underscore_3: citizen_chief_name
+bip_39_word_underscore_4: citizen_chief_name_pioneer
+bip_39_word_underscore_5: citizen_chief_name_pioneer_wisdom
+bip_39_word_underscore_6: citizen_chief_name_pioneer_wisdom_vintage
+bip_39_word_underscore_7: citizen_chief_name_pioneer_wisdom_vintage_dragon
+bip_39_word_underscore_8: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune
+bip_39_word_underscore_9: citizen_chief_name_pioneer_wisdom_vintage_dragon_fortune_pull
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_02_06__16_teeth_sh_m3
 id_no_color: 020616teethshm3
 id_no_size: 02_06__16_teeth_sh_m3
 id_no_type: gear_02_06__16_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_02_06__16_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2076qsl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2076qsl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2076qsl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 020616Teethshm3
 name_no_size: 02 06  16 Teeth Sh M3
 name_no_size_short: 02 06  16 Teeth Sh M3
 name_no_type: Gear 02 06  16 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_02_06__16_teeth_sh_m3
 oomp_word: hamburger mouse ear
 oomp_word_emoji: ':hamburger: :mouse: :ear:'

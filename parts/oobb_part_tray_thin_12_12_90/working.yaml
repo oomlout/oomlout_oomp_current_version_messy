@@ -1,3 +1,193 @@
+bip_39_word_dash_1: mammal
+bip_39_word_dash_10: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey-forest
+bip_39_word_dash_11: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey-forest-chaos
+bip_39_word_dash_2: mammal-autumn
+bip_39_word_dash_3: mammal-autumn-key
+bip_39_word_dash_4: mammal-autumn-key-burger
+bip_39_word_dash_5: mammal-autumn-key-burger-amateur
+bip_39_word_dash_6: mammal-autumn-key-burger-amateur-eyebrow
+bip_39_word_dash_7: mammal-autumn-key-burger-amateur-eyebrow-journey
+bip_39_word_dash_8: mammal-autumn-key-burger-amateur-eyebrow-journey-human
+bip_39_word_dash_9: mammal-autumn-key-burger-amateur-eyebrow-journey-human-hockey
+bip_39_word_new_br_1: mammal
+bip_39_word_new_br_10: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest
+bip_39_word_new_br_11: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey<br>forest<br>chaos
+bip_39_word_new_br_2: mammal<br>autumn
+bip_39_word_new_br_3: mammal<br>autumn<br>key
+bip_39_word_new_br_4: mammal<br>autumn<br>key<br>burger
+bip_39_word_new_br_5: mammal<br>autumn<br>key<br>burger<br>amateur
+bip_39_word_new_br_6: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow
+bip_39_word_new_br_7: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey
+bip_39_word_new_br_8: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human
+bip_39_word_new_br_9: mammal<br>autumn<br>key<br>burger<br>amateur<br>eyebrow<br>journey<br>human<br>hockey
+bip_39_word_new_line_1: mammal
+bip_39_word_new_line_10: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow
+
+  journey
+
+  human
+
+  hockey
+
+  forest'
+bip_39_word_new_line_11: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow
+
+  journey
+
+  human
+
+  hockey
+
+  forest
+
+  chaos'
+bip_39_word_new_line_2: 'mammal
+
+  autumn'
+bip_39_word_new_line_3: 'mammal
+
+  autumn
+
+  key'
+bip_39_word_new_line_4: 'mammal
+
+  autumn
+
+  key
+
+  burger'
+bip_39_word_new_line_5: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur'
+bip_39_word_new_line_6: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow'
+bip_39_word_new_line_7: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow
+
+  journey'
+bip_39_word_new_line_8: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow
+
+  journey
+
+  human'
+bip_39_word_new_line_9: 'mammal
+
+  autumn
+
+  key
+
+  burger
+
+  amateur
+
+  eyebrow
+
+  journey
+
+  human
+
+  hockey'
+bip_39_word_no_space_1: mammal
+bip_39_word_no_space_10: mammalautumnkeyburgeramateureyebrowjourneyhumanhockeyforest
+bip_39_word_no_space_11: mammalautumnkeyburgeramateureyebrowjourneyhumanhockeyforestchaos
+bip_39_word_no_space_2: mammalautumn
+bip_39_word_no_space_3: mammalautumnkey
+bip_39_word_no_space_4: mammalautumnkeyburger
+bip_39_word_no_space_5: mammalautumnkeyburgeramateur
+bip_39_word_no_space_6: mammalautumnkeyburgeramateureyebrow
+bip_39_word_no_space_7: mammalautumnkeyburgeramateureyebrowjourney
+bip_39_word_no_space_8: mammalautumnkeyburgeramateureyebrowjourneyhuman
+bip_39_word_no_space_9: mammalautumnkeyburgeramateureyebrowjourneyhumanhockey
+bip_39_word_space_0:
+- mammal
+- autumn
+- key
+- burger
+- amateur
+- eyebrow
+- journey
+- human
+- hockey
+- forest
+- chaos
+bip_39_word_space_1: mammal
+bip_39_word_space_10: mammal autumn key burger amateur eyebrow journey human hockey
+  forest
+bip_39_word_space_11: mammal autumn key burger amateur eyebrow journey human hockey
+  forest chaos
+bip_39_word_space_2: mammal autumn
+bip_39_word_space_3: mammal autumn key
+bip_39_word_space_4: mammal autumn key burger
+bip_39_word_space_5: mammal autumn key burger amateur
+bip_39_word_space_6: mammal autumn key burger amateur eyebrow
+bip_39_word_space_7: mammal autumn key burger amateur eyebrow journey
+bip_39_word_space_8: mammal autumn key burger amateur eyebrow journey human
+bip_39_word_space_9: mammal autumn key burger amateur eyebrow journey human hockey
+bip_39_word_underscore_1: mammal
+bip_39_word_underscore_10: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey_forest
+bip_39_word_underscore_11: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey_forest_chaos
+bip_39_word_underscore_2: mammal_autumn
+bip_39_word_underscore_3: mammal_autumn_key
+bip_39_word_underscore_4: mammal_autumn_key_burger
+bip_39_word_underscore_5: mammal_autumn_key_burger_amateur
+bip_39_word_underscore_6: mammal_autumn_key_burger_amateur_eyebrow
+bip_39_word_underscore_7: mammal_autumn_key_burger_amateur_eyebrow_journey
+bip_39_word_underscore_8: mammal_autumn_key_burger_amateur_eyebrow_journey_human
+bip_39_word_underscore_9: mammal_autumn_key_burger_amateur_eyebrow_journey_human_hockey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +272,14 @@ id_no_class: part_tray_thin_12_12_90
 id_no_color: '121290'
 id_no_size: '12_12_90'
 id_no_type: tray_thin_12_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20f4m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20f4m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20f4m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +305,7 @@ name_no_color: '121290'
 name_no_size: 12 12 90
 name_no_size_short: 12 12 90
 name_no_type: Tray Thin 12 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_12_90
 oomp_word: bowtie turtle basketball
 oomp_word_emoji: ':bowtie: :turtle: :basketball:'

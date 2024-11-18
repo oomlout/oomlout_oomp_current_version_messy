@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Bowl 1000 Ml 170 mm Diameter Pyrex 179B000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
   * classification: dish

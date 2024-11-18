@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Flat Head M3 Black 18 mm Length Phillips Head
+* name_short: 
 ### id
 * oomp_id: hardware_screw_flat_head_m3_black_18_mm_length_phillips_head
   * classification: hardware

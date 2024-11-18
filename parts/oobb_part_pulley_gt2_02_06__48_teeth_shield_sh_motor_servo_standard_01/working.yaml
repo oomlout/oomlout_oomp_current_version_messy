@@ -1,3 +1,221 @@
+bip_39_word_dash_1: iron
+bip_39_word_dash_10: iron-build-lock-number-heart-swamp-nerve-move-much-fiber
+bip_39_word_dash_11: iron-build-lock-number-heart-swamp-nerve-move-much-fiber-space
+bip_39_word_dash_12: iron-build-lock-number-heart-swamp-nerve-move-much-fiber-space-alone
+bip_39_word_dash_2: iron-build
+bip_39_word_dash_3: iron-build-lock
+bip_39_word_dash_4: iron-build-lock-number
+bip_39_word_dash_5: iron-build-lock-number-heart
+bip_39_word_dash_6: iron-build-lock-number-heart-swamp
+bip_39_word_dash_7: iron-build-lock-number-heart-swamp-nerve
+bip_39_word_dash_8: iron-build-lock-number-heart-swamp-nerve-move
+bip_39_word_dash_9: iron-build-lock-number-heart-swamp-nerve-move-much
+bip_39_word_new_br_1: iron
+bip_39_word_new_br_10: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber
+bip_39_word_new_br_11: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space
+bip_39_word_new_br_12: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much<br>fiber<br>space<br>alone
+bip_39_word_new_br_2: iron<br>build
+bip_39_word_new_br_3: iron<br>build<br>lock
+bip_39_word_new_br_4: iron<br>build<br>lock<br>number
+bip_39_word_new_br_5: iron<br>build<br>lock<br>number<br>heart
+bip_39_word_new_br_6: iron<br>build<br>lock<br>number<br>heart<br>swamp
+bip_39_word_new_br_7: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve
+bip_39_word_new_br_8: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move
+bip_39_word_new_br_9: iron<br>build<br>lock<br>number<br>heart<br>swamp<br>nerve<br>move<br>much
+bip_39_word_new_line_1: iron
+bip_39_word_new_line_10: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve
+
+  move
+
+  much
+
+  fiber'
+bip_39_word_new_line_11: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve
+
+  move
+
+  much
+
+  fiber
+
+  space'
+bip_39_word_new_line_12: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve
+
+  move
+
+  much
+
+  fiber
+
+  space
+
+  alone'
+bip_39_word_new_line_2: 'iron
+
+  build'
+bip_39_word_new_line_3: 'iron
+
+  build
+
+  lock'
+bip_39_word_new_line_4: 'iron
+
+  build
+
+  lock
+
+  number'
+bip_39_word_new_line_5: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart'
+bip_39_word_new_line_6: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp'
+bip_39_word_new_line_7: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve'
+bip_39_word_new_line_8: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve
+
+  move'
+bip_39_word_new_line_9: 'iron
+
+  build
+
+  lock
+
+  number
+
+  heart
+
+  swamp
+
+  nerve
+
+  move
+
+  much'
+bip_39_word_no_space_1: iron
+bip_39_word_no_space_10: ironbuildlocknumberheartswampnervemovemuchfiber
+bip_39_word_no_space_11: ironbuildlocknumberheartswampnervemovemuchfiberspace
+bip_39_word_no_space_12: ironbuildlocknumberheartswampnervemovemuchfiberspacealone
+bip_39_word_no_space_2: ironbuild
+bip_39_word_no_space_3: ironbuildlock
+bip_39_word_no_space_4: ironbuildlocknumber
+bip_39_word_no_space_5: ironbuildlocknumberheart
+bip_39_word_no_space_6: ironbuildlocknumberheartswamp
+bip_39_word_no_space_7: ironbuildlocknumberheartswampnerve
+bip_39_word_no_space_8: ironbuildlocknumberheartswampnervemove
+bip_39_word_no_space_9: ironbuildlocknumberheartswampnervemovemuch
+bip_39_word_space_0:
+- iron
+- build
+- lock
+- number
+- heart
+- swamp
+- nerve
+- move
+- much
+- fiber
+- space
+- alone
+bip_39_word_space_1: iron
+bip_39_word_space_10: iron build lock number heart swamp nerve move much fiber
+bip_39_word_space_11: iron build lock number heart swamp nerve move much fiber space
+bip_39_word_space_12: iron build lock number heart swamp nerve move much fiber space
+  alone
+bip_39_word_space_2: iron build
+bip_39_word_space_3: iron build lock
+bip_39_word_space_4: iron build lock number
+bip_39_word_space_5: iron build lock number heart
+bip_39_word_space_6: iron build lock number heart swamp
+bip_39_word_space_7: iron build lock number heart swamp nerve
+bip_39_word_space_8: iron build lock number heart swamp nerve move
+bip_39_word_space_9: iron build lock number heart swamp nerve move much
+bip_39_word_underscore_1: iron
+bip_39_word_underscore_10: iron_build_lock_number_heart_swamp_nerve_move_much_fiber
+bip_39_word_underscore_11: iron_build_lock_number_heart_swamp_nerve_move_much_fiber_space
+bip_39_word_underscore_12: iron_build_lock_number_heart_swamp_nerve_move_much_fiber_space_alone
+bip_39_word_underscore_2: iron_build
+bip_39_word_underscore_3: iron_build_lock
+bip_39_word_underscore_4: iron_build_lock_number
+bip_39_word_underscore_5: iron_build_lock_number_heart
+bip_39_word_underscore_6: iron_build_lock_number_heart_swamp
+bip_39_word_underscore_7: iron_build_lock_number_heart_swamp_nerve
+bip_39_word_underscore_8: iron_build_lock_number_heart_swamp_nerve_move
+bip_39_word_underscore_9: iron_build_lock_number_heart_swamp_nerve_move_much
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
 id_no_color: 020648teethshieldshmotorservostandard01
 id_no_size: 02_06__48_teeth_shield_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204csr9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204csr9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204csr9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 020648Teethshieldshmotorservostandard01
 name_no_size: 02 06  48 Teeth Shield Sh Motor Servo Standard 01
 name_no_size_short: 02 06  48 Teeth Shield Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 02 06  48 Teeth Shield Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__48_teeth_shield_sh_motor_servo_standard_01
 oomp_word: moon ring telescope
 oomp_word_emoji: ':moon: :ring: :telescope:'

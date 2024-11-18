@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Wood 3 5 mm Diameter 50 mm Length Pozidrive Head Screw Tite Two 726Fy
+* name_short: 
 ### id
 * oomp_id: hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY
   * classification: hardware

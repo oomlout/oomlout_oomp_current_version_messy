@@ -1,3 +1,221 @@
+bip_39_word_dash_1: iron
+bip_39_word_dash_10: iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop
+bip_39_word_dash_11: iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop-save
+bip_39_word_dash_12: iron-lion-impulse-giggle-hat-save-menu-bird-volume-shop-save-alpha
+bip_39_word_dash_2: iron-lion
+bip_39_word_dash_3: iron-lion-impulse
+bip_39_word_dash_4: iron-lion-impulse-giggle
+bip_39_word_dash_5: iron-lion-impulse-giggle-hat
+bip_39_word_dash_6: iron-lion-impulse-giggle-hat-save
+bip_39_word_dash_7: iron-lion-impulse-giggle-hat-save-menu
+bip_39_word_dash_8: iron-lion-impulse-giggle-hat-save-menu-bird
+bip_39_word_dash_9: iron-lion-impulse-giggle-hat-save-menu-bird-volume
+bip_39_word_new_br_1: iron
+bip_39_word_new_br_10: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop
+bip_39_word_new_br_11: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop<br>save
+bip_39_word_new_br_12: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume<br>shop<br>save<br>alpha
+bip_39_word_new_br_2: iron<br>lion
+bip_39_word_new_br_3: iron<br>lion<br>impulse
+bip_39_word_new_br_4: iron<br>lion<br>impulse<br>giggle
+bip_39_word_new_br_5: iron<br>lion<br>impulse<br>giggle<br>hat
+bip_39_word_new_br_6: iron<br>lion<br>impulse<br>giggle<br>hat<br>save
+bip_39_word_new_br_7: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu
+bip_39_word_new_br_8: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird
+bip_39_word_new_br_9: iron<br>lion<br>impulse<br>giggle<br>hat<br>save<br>menu<br>bird<br>volume
+bip_39_word_new_line_1: iron
+bip_39_word_new_line_10: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop'
+bip_39_word_new_line_11: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop
+
+  save'
+bip_39_word_new_line_12: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume
+
+  shop
+
+  save
+
+  alpha'
+bip_39_word_new_line_2: 'iron
+
+  lion'
+bip_39_word_new_line_3: 'iron
+
+  lion
+
+  impulse'
+bip_39_word_new_line_4: 'iron
+
+  lion
+
+  impulse
+
+  giggle'
+bip_39_word_new_line_5: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat'
+bip_39_word_new_line_6: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save'
+bip_39_word_new_line_7: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu'
+bip_39_word_new_line_8: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird'
+bip_39_word_new_line_9: 'iron
+
+  lion
+
+  impulse
+
+  giggle
+
+  hat
+
+  save
+
+  menu
+
+  bird
+
+  volume'
+bip_39_word_no_space_1: iron
+bip_39_word_no_space_10: ironlionimpulsegigglehatsavemenubirdvolumeshop
+bip_39_word_no_space_11: ironlionimpulsegigglehatsavemenubirdvolumeshopsave
+bip_39_word_no_space_12: ironlionimpulsegigglehatsavemenubirdvolumeshopsavealpha
+bip_39_word_no_space_2: ironlion
+bip_39_word_no_space_3: ironlionimpulse
+bip_39_word_no_space_4: ironlionimpulsegiggle
+bip_39_word_no_space_5: ironlionimpulsegigglehat
+bip_39_word_no_space_6: ironlionimpulsegigglehatsave
+bip_39_word_no_space_7: ironlionimpulsegigglehatsavemenu
+bip_39_word_no_space_8: ironlionimpulsegigglehatsavemenubird
+bip_39_word_no_space_9: ironlionimpulsegigglehatsavemenubirdvolume
+bip_39_word_space_0:
+- iron
+- lion
+- impulse
+- giggle
+- hat
+- save
+- menu
+- bird
+- volume
+- shop
+- save
+- alpha
+bip_39_word_space_1: iron
+bip_39_word_space_10: iron lion impulse giggle hat save menu bird volume shop
+bip_39_word_space_11: iron lion impulse giggle hat save menu bird volume shop save
+bip_39_word_space_12: iron lion impulse giggle hat save menu bird volume shop save
+  alpha
+bip_39_word_space_2: iron lion
+bip_39_word_space_3: iron lion impulse
+bip_39_word_space_4: iron lion impulse giggle
+bip_39_word_space_5: iron lion impulse giggle hat
+bip_39_word_space_6: iron lion impulse giggle hat save
+bip_39_word_space_7: iron lion impulse giggle hat save menu
+bip_39_word_space_8: iron lion impulse giggle hat save menu bird
+bip_39_word_space_9: iron lion impulse giggle hat save menu bird volume
+bip_39_word_underscore_1: iron
+bip_39_word_underscore_10: iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop
+bip_39_word_underscore_11: iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop_save
+bip_39_word_underscore_12: iron_lion_impulse_giggle_hat_save_menu_bird_volume_shop_save_alpha
+bip_39_word_underscore_2: iron_lion
+bip_39_word_underscore_3: iron_lion_impulse
+bip_39_word_underscore_4: iron_lion_impulse_giggle
+bip_39_word_underscore_5: iron_lion_impulse_giggle_hat
+bip_39_word_underscore_6: iron_lion_impulse_giggle_hat_save
+bip_39_word_underscore_7: iron_lion_impulse_giggle_hat_save_menu
+bip_39_word_underscore_8: iron_lion_impulse_giggle_hat_save_menu_bird
+bip_39_word_underscore_9: iron_lion_impulse_giggle_hat_save_menu_bird_volume
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_10_12_21
 id_no_color: '101221'
 id_no_size: '10_12_21'
 id_no_type: tray_10_12_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_12_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_12_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_12_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ffe9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ffe9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ffe9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '101221'
 name_no_size: 10 12 21
 name_no_size_short: 10 12 21
 name_no_type: Tray 10 12 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_12_21
 oomp_word: bamboo speaker briefcase
 oomp_word_emoji: ':bamboo: :speaker: :briefcase:'

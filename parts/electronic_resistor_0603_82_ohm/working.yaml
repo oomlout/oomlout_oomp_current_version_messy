@@ -1,3 +1,222 @@
+bip_39_word_dash_1: evolve
+bip_39_word_dash_10: evolve-stand-evolve-recall-evidence-lift-jump-snap-robust-stomach
+bip_39_word_dash_11: evolve-stand-evolve-recall-evidence-lift-jump-snap-robust-stomach-concert
+bip_39_word_dash_12: evolve-stand-evolve-recall-evidence-lift-jump-snap-robust-stomach-concert-amused
+bip_39_word_dash_2: evolve-stand
+bip_39_word_dash_3: evolve-stand-evolve
+bip_39_word_dash_4: evolve-stand-evolve-recall
+bip_39_word_dash_5: evolve-stand-evolve-recall-evidence
+bip_39_word_dash_6: evolve-stand-evolve-recall-evidence-lift
+bip_39_word_dash_7: evolve-stand-evolve-recall-evidence-lift-jump
+bip_39_word_dash_8: evolve-stand-evolve-recall-evidence-lift-jump-snap
+bip_39_word_dash_9: evolve-stand-evolve-recall-evidence-lift-jump-snap-robust
+bip_39_word_new_br_1: evolve
+bip_39_word_new_br_10: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach
+bip_39_word_new_br_11: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert
+bip_39_word_new_br_12: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust<br>stomach<br>concert<br>amused
+bip_39_word_new_br_2: evolve<br>stand
+bip_39_word_new_br_3: evolve<br>stand<br>evolve
+bip_39_word_new_br_4: evolve<br>stand<br>evolve<br>recall
+bip_39_word_new_br_5: evolve<br>stand<br>evolve<br>recall<br>evidence
+bip_39_word_new_br_6: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift
+bip_39_word_new_br_7: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump
+bip_39_word_new_br_8: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap
+bip_39_word_new_br_9: evolve<br>stand<br>evolve<br>recall<br>evidence<br>lift<br>jump<br>snap<br>robust
+bip_39_word_new_line_1: evolve
+bip_39_word_new_line_10: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump
+
+  snap
+
+  robust
+
+  stomach'
+bip_39_word_new_line_11: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump
+
+  snap
+
+  robust
+
+  stomach
+
+  concert'
+bip_39_word_new_line_12: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump
+
+  snap
+
+  robust
+
+  stomach
+
+  concert
+
+  amused'
+bip_39_word_new_line_2: 'evolve
+
+  stand'
+bip_39_word_new_line_3: 'evolve
+
+  stand
+
+  evolve'
+bip_39_word_new_line_4: 'evolve
+
+  stand
+
+  evolve
+
+  recall'
+bip_39_word_new_line_5: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence'
+bip_39_word_new_line_6: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift'
+bip_39_word_new_line_7: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump'
+bip_39_word_new_line_8: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump
+
+  snap'
+bip_39_word_new_line_9: 'evolve
+
+  stand
+
+  evolve
+
+  recall
+
+  evidence
+
+  lift
+
+  jump
+
+  snap
+
+  robust'
+bip_39_word_no_space_1: evolve
+bip_39_word_no_space_10: evolvestandevolverecallevidenceliftjumpsnaprobuststomach
+bip_39_word_no_space_11: evolvestandevolverecallevidenceliftjumpsnaprobuststomachconcert
+bip_39_word_no_space_12: evolvestandevolverecallevidenceliftjumpsnaprobuststomachconcertamused
+bip_39_word_no_space_2: evolvestand
+bip_39_word_no_space_3: evolvestandevolve
+bip_39_word_no_space_4: evolvestandevolverecall
+bip_39_word_no_space_5: evolvestandevolverecallevidence
+bip_39_word_no_space_6: evolvestandevolverecallevidencelift
+bip_39_word_no_space_7: evolvestandevolverecallevidenceliftjump
+bip_39_word_no_space_8: evolvestandevolverecallevidenceliftjumpsnap
+bip_39_word_no_space_9: evolvestandevolverecallevidenceliftjumpsnaprobust
+bip_39_word_space_0:
+- evolve
+- stand
+- evolve
+- recall
+- evidence
+- lift
+- jump
+- snap
+- robust
+- stomach
+- concert
+- amused
+bip_39_word_space_1: evolve
+bip_39_word_space_10: evolve stand evolve recall evidence lift jump snap robust stomach
+bip_39_word_space_11: evolve stand evolve recall evidence lift jump snap robust stomach
+  concert
+bip_39_word_space_12: evolve stand evolve recall evidence lift jump snap robust stomach
+  concert amused
+bip_39_word_space_2: evolve stand
+bip_39_word_space_3: evolve stand evolve
+bip_39_word_space_4: evolve stand evolve recall
+bip_39_word_space_5: evolve stand evolve recall evidence
+bip_39_word_space_6: evolve stand evolve recall evidence lift
+bip_39_word_space_7: evolve stand evolve recall evidence lift jump
+bip_39_word_space_8: evolve stand evolve recall evidence lift jump snap
+bip_39_word_space_9: evolve stand evolve recall evidence lift jump snap robust
+bip_39_word_underscore_1: evolve
+bip_39_word_underscore_10: evolve_stand_evolve_recall_evidence_lift_jump_snap_robust_stomach
+bip_39_word_underscore_11: evolve_stand_evolve_recall_evidence_lift_jump_snap_robust_stomach_concert
+bip_39_word_underscore_12: evolve_stand_evolve_recall_evidence_lift_jump_snap_robust_stomach_concert_amused
+bip_39_word_underscore_2: evolve_stand
+bip_39_word_underscore_3: evolve_stand_evolve
+bip_39_word_underscore_4: evolve_stand_evolve_recall
+bip_39_word_underscore_5: evolve_stand_evolve_recall_evidence
+bip_39_word_underscore_6: evolve_stand_evolve_recall_evidence_lift
+bip_39_word_underscore_7: evolve_stand_evolve_recall_evidence_lift_jump
+bip_39_word_underscore_8: evolve_stand_evolve_recall_evidence_lift_jump_snap
+bip_39_word_underscore_9: evolve_stand_evolve_recall_evidence_lift_jump_snap_robust
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 82ohm
 id_no_size: 82_ohm
 id_no_type: 0603_82_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_82_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_82_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0603_82_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20534ad
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20534ad
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20534ad
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,6 +376,7 @@ name_no_color: 82Ohm
 name_no_size: 82 Ohm
 name_no_size_short: 82 Ohm
 name_no_type: 0603 82 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0603_82_ohm
 oomp_word: radio blowfish ghost
 oomp_word_emoji: ':radio: :blowfish: :ghost:'

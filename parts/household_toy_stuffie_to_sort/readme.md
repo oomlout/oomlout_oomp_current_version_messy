@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Household Toy Stuffie To Sort
+* name_short: 
 ### id
 * oomp_id: household_toy_stuffie_to_sort
   * classification: household_toy

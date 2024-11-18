@@ -1,3 +1,222 @@
+bip_39_word_dash_1: glimpse
+bip_39_word_dash_10: glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble
+bip_39_word_dash_11: glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble-insect
+bip_39_word_dash_12: glimpse-hood-shoulder-body-critic-upgrade-glove-city-car-resemble-insect-assume
+bip_39_word_dash_2: glimpse-hood
+bip_39_word_dash_3: glimpse-hood-shoulder
+bip_39_word_dash_4: glimpse-hood-shoulder-body
+bip_39_word_dash_5: glimpse-hood-shoulder-body-critic
+bip_39_word_dash_6: glimpse-hood-shoulder-body-critic-upgrade
+bip_39_word_dash_7: glimpse-hood-shoulder-body-critic-upgrade-glove
+bip_39_word_dash_8: glimpse-hood-shoulder-body-critic-upgrade-glove-city
+bip_39_word_dash_9: glimpse-hood-shoulder-body-critic-upgrade-glove-city-car
+bip_39_word_new_br_1: glimpse
+bip_39_word_new_br_10: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble
+bip_39_word_new_br_11: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect
+bip_39_word_new_br_12: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car<br>resemble<br>insect<br>assume
+bip_39_word_new_br_2: glimpse<br>hood
+bip_39_word_new_br_3: glimpse<br>hood<br>shoulder
+bip_39_word_new_br_4: glimpse<br>hood<br>shoulder<br>body
+bip_39_word_new_br_5: glimpse<br>hood<br>shoulder<br>body<br>critic
+bip_39_word_new_br_6: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade
+bip_39_word_new_br_7: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove
+bip_39_word_new_br_8: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city
+bip_39_word_new_br_9: glimpse<br>hood<br>shoulder<br>body<br>critic<br>upgrade<br>glove<br>city<br>car
+bip_39_word_new_line_1: glimpse
+bip_39_word_new_line_10: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove
+
+  city
+
+  car
+
+  resemble'
+bip_39_word_new_line_11: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove
+
+  city
+
+  car
+
+  resemble
+
+  insect'
+bip_39_word_new_line_12: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove
+
+  city
+
+  car
+
+  resemble
+
+  insect
+
+  assume'
+bip_39_word_new_line_2: 'glimpse
+
+  hood'
+bip_39_word_new_line_3: 'glimpse
+
+  hood
+
+  shoulder'
+bip_39_word_new_line_4: 'glimpse
+
+  hood
+
+  shoulder
+
+  body'
+bip_39_word_new_line_5: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic'
+bip_39_word_new_line_6: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade'
+bip_39_word_new_line_7: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove'
+bip_39_word_new_line_8: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove
+
+  city'
+bip_39_word_new_line_9: 'glimpse
+
+  hood
+
+  shoulder
+
+  body
+
+  critic
+
+  upgrade
+
+  glove
+
+  city
+
+  car'
+bip_39_word_no_space_1: glimpse
+bip_39_word_no_space_10: glimpsehoodshoulderbodycriticupgradeglovecitycarresemble
+bip_39_word_no_space_11: glimpsehoodshoulderbodycriticupgradeglovecitycarresembleinsect
+bip_39_word_no_space_12: glimpsehoodshoulderbodycriticupgradeglovecitycarresembleinsectassume
+bip_39_word_no_space_2: glimpsehood
+bip_39_word_no_space_3: glimpsehoodshoulder
+bip_39_word_no_space_4: glimpsehoodshoulderbody
+bip_39_word_no_space_5: glimpsehoodshoulderbodycritic
+bip_39_word_no_space_6: glimpsehoodshoulderbodycriticupgrade
+bip_39_word_no_space_7: glimpsehoodshoulderbodycriticupgradeglove
+bip_39_word_no_space_8: glimpsehoodshoulderbodycriticupgradeglovecity
+bip_39_word_no_space_9: glimpsehoodshoulderbodycriticupgradeglovecitycar
+bip_39_word_space_0:
+- glimpse
+- hood
+- shoulder
+- body
+- critic
+- upgrade
+- glove
+- city
+- car
+- resemble
+- insect
+- assume
+bip_39_word_space_1: glimpse
+bip_39_word_space_10: glimpse hood shoulder body critic upgrade glove city car resemble
+bip_39_word_space_11: glimpse hood shoulder body critic upgrade glove city car resemble
+  insect
+bip_39_word_space_12: glimpse hood shoulder body critic upgrade glove city car resemble
+  insect assume
+bip_39_word_space_2: glimpse hood
+bip_39_word_space_3: glimpse hood shoulder
+bip_39_word_space_4: glimpse hood shoulder body
+bip_39_word_space_5: glimpse hood shoulder body critic
+bip_39_word_space_6: glimpse hood shoulder body critic upgrade
+bip_39_word_space_7: glimpse hood shoulder body critic upgrade glove
+bip_39_word_space_8: glimpse hood shoulder body critic upgrade glove city
+bip_39_word_space_9: glimpse hood shoulder body critic upgrade glove city car
+bip_39_word_underscore_1: glimpse
+bip_39_word_underscore_10: glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble
+bip_39_word_underscore_11: glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble_insect
+bip_39_word_underscore_12: glimpse_hood_shoulder_body_critic_upgrade_glove_city_car_resemble_insect_assume
+bip_39_word_underscore_2: glimpse_hood
+bip_39_word_underscore_3: glimpse_hood_shoulder
+bip_39_word_underscore_4: glimpse_hood_shoulder_body
+bip_39_word_underscore_5: glimpse_hood_shoulder_body_critic
+bip_39_word_underscore_6: glimpse_hood_shoulder_body_critic_upgrade
+bip_39_word_underscore_7: glimpse_hood_shoulder_body_critic_upgrade_glove
+bip_39_word_underscore_8: glimpse_hood_shoulder_body_critic_upgrade_glove_city
+bip_39_word_underscore_9: glimpse_hood_shoulder_body_critic_upgrade_glove_city_car
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_12_12
 id_no_color: '011212'
 id_no_size: '01_12_12'
 id_no_type: tray_01_12_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_12_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_12_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_12_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208p4bx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208p4bx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208p4bx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '011212'
 name_no_size: 01 12 12
 name_no_size_short: 01 12 12
 name_no_type: Tray 01 12 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_12_12
 oomp_word: rainbow tractor snowman
 oomp_word_emoji: ':rainbow: :tractor: :snowman:'

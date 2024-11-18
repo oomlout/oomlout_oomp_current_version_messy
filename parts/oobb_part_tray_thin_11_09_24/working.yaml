@@ -1,3 +1,223 @@
+bip_39_word_dash_1: auction
+bip_39_word_dash_10: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror
+bip_39_word_dash_11: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror-inner
+bip_39_word_dash_12: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove-mirror-inner-aspect
+bip_39_word_dash_2: auction-stadium
+bip_39_word_dash_3: auction-stadium-scheme
+bip_39_word_dash_4: auction-stadium-scheme-sugar
+bip_39_word_dash_5: auction-stadium-scheme-sugar-renew
+bip_39_word_dash_6: auction-stadium-scheme-sugar-renew-advance
+bip_39_word_dash_7: auction-stadium-scheme-sugar-renew-advance-knife
+bip_39_word_dash_8: auction-stadium-scheme-sugar-renew-advance-knife-lunar
+bip_39_word_dash_9: auction-stadium-scheme-sugar-renew-advance-knife-lunar-stove
+bip_39_word_new_br_1: auction
+bip_39_word_new_br_10: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove<br>mirror
+bip_39_word_new_br_11: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove<br>mirror<br>inner
+bip_39_word_new_br_12: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove<br>mirror<br>inner<br>aspect
+bip_39_word_new_br_2: auction<br>stadium
+bip_39_word_new_br_3: auction<br>stadium<br>scheme
+bip_39_word_new_br_4: auction<br>stadium<br>scheme<br>sugar
+bip_39_word_new_br_5: auction<br>stadium<br>scheme<br>sugar<br>renew
+bip_39_word_new_br_6: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance
+bip_39_word_new_br_7: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife
+bip_39_word_new_br_8: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar
+bip_39_word_new_br_9: auction<br>stadium<br>scheme<br>sugar<br>renew<br>advance<br>knife<br>lunar<br>stove
+bip_39_word_new_line_1: auction
+bip_39_word_new_line_10: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife
+
+  lunar
+
+  stove
+
+  mirror'
+bip_39_word_new_line_11: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife
+
+  lunar
+
+  stove
+
+  mirror
+
+  inner'
+bip_39_word_new_line_12: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife
+
+  lunar
+
+  stove
+
+  mirror
+
+  inner
+
+  aspect'
+bip_39_word_new_line_2: 'auction
+
+  stadium'
+bip_39_word_new_line_3: 'auction
+
+  stadium
+
+  scheme'
+bip_39_word_new_line_4: 'auction
+
+  stadium
+
+  scheme
+
+  sugar'
+bip_39_word_new_line_5: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew'
+bip_39_word_new_line_6: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance'
+bip_39_word_new_line_7: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife'
+bip_39_word_new_line_8: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife
+
+  lunar'
+bip_39_word_new_line_9: 'auction
+
+  stadium
+
+  scheme
+
+  sugar
+
+  renew
+
+  advance
+
+  knife
+
+  lunar
+
+  stove'
+bip_39_word_no_space_1: auction
+bip_39_word_no_space_10: auctionstadiumschemesugarrenewadvanceknifelunarstovemirror
+bip_39_word_no_space_11: auctionstadiumschemesugarrenewadvanceknifelunarstovemirrorinner
+bip_39_word_no_space_12: auctionstadiumschemesugarrenewadvanceknifelunarstovemirrorinneraspect
+bip_39_word_no_space_2: auctionstadium
+bip_39_word_no_space_3: auctionstadiumscheme
+bip_39_word_no_space_4: auctionstadiumschemesugar
+bip_39_word_no_space_5: auctionstadiumschemesugarrenew
+bip_39_word_no_space_6: auctionstadiumschemesugarrenewadvance
+bip_39_word_no_space_7: auctionstadiumschemesugarrenewadvanceknife
+bip_39_word_no_space_8: auctionstadiumschemesugarrenewadvanceknifelunar
+bip_39_word_no_space_9: auctionstadiumschemesugarrenewadvanceknifelunarstove
+bip_39_word_space_0:
+- auction
+- stadium
+- scheme
+- sugar
+- renew
+- advance
+- knife
+- lunar
+- stove
+- mirror
+- inner
+- aspect
+bip_39_word_space_1: auction
+bip_39_word_space_10: auction stadium scheme sugar renew advance knife lunar stove
+  mirror
+bip_39_word_space_11: auction stadium scheme sugar renew advance knife lunar stove
+  mirror inner
+bip_39_word_space_12: auction stadium scheme sugar renew advance knife lunar stove
+  mirror inner aspect
+bip_39_word_space_2: auction stadium
+bip_39_word_space_3: auction stadium scheme
+bip_39_word_space_4: auction stadium scheme sugar
+bip_39_word_space_5: auction stadium scheme sugar renew
+bip_39_word_space_6: auction stadium scheme sugar renew advance
+bip_39_word_space_7: auction stadium scheme sugar renew advance knife
+bip_39_word_space_8: auction stadium scheme sugar renew advance knife lunar
+bip_39_word_space_9: auction stadium scheme sugar renew advance knife lunar stove
+bip_39_word_underscore_1: auction
+bip_39_word_underscore_10: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror
+bip_39_word_underscore_11: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror_inner
+bip_39_word_underscore_12: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove_mirror_inner_aspect
+bip_39_word_underscore_2: auction_stadium
+bip_39_word_underscore_3: auction_stadium_scheme
+bip_39_word_underscore_4: auction_stadium_scheme_sugar
+bip_39_word_underscore_5: auction_stadium_scheme_sugar_renew
+bip_39_word_underscore_6: auction_stadium_scheme_sugar_renew_advance
+bip_39_word_underscore_7: auction_stadium_scheme_sugar_renew_advance_knife
+bip_39_word_underscore_8: auction_stadium_scheme_sugar_renew_advance_knife_lunar
+bip_39_word_underscore_9: auction_stadium_scheme_sugar_renew_advance_knife_lunar_stove
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_11_09_24
 id_no_color: '110924'
 id_no_size: '11_09_24'
 id_no_type: tray_thin_11_09_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_09_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208dvj7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208dvj7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208dvj7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '110924'
 name_no_size: 11 09 24
 name_no_size_short: 11 09 24
 name_no_type: Tray Thin 11 09 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_09_24
 oomp_word: school tram rowboat
 oomp_word_emoji: ':school: :tram: :rowboat:'

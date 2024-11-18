@@ -1,3 +1,222 @@
+bip_39_word_dash_1: volcano
+bip_39_word_dash_10: volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun
+bip_39_word_dash_11: volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun-minimum
+bip_39_word_dash_12: volcano-enjoy-walk-immense-together-whip-cool-tobacco-one-fun-minimum-acquire
+bip_39_word_dash_2: volcano-enjoy
+bip_39_word_dash_3: volcano-enjoy-walk
+bip_39_word_dash_4: volcano-enjoy-walk-immense
+bip_39_word_dash_5: volcano-enjoy-walk-immense-together
+bip_39_word_dash_6: volcano-enjoy-walk-immense-together-whip
+bip_39_word_dash_7: volcano-enjoy-walk-immense-together-whip-cool
+bip_39_word_dash_8: volcano-enjoy-walk-immense-together-whip-cool-tobacco
+bip_39_word_dash_9: volcano-enjoy-walk-immense-together-whip-cool-tobacco-one
+bip_39_word_new_br_1: volcano
+bip_39_word_new_br_10: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one<br>fun
+bip_39_word_new_br_11: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one<br>fun<br>minimum
+bip_39_word_new_br_12: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one<br>fun<br>minimum<br>acquire
+bip_39_word_new_br_2: volcano<br>enjoy
+bip_39_word_new_br_3: volcano<br>enjoy<br>walk
+bip_39_word_new_br_4: volcano<br>enjoy<br>walk<br>immense
+bip_39_word_new_br_5: volcano<br>enjoy<br>walk<br>immense<br>together
+bip_39_word_new_br_6: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip
+bip_39_word_new_br_7: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool
+bip_39_word_new_br_8: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco
+bip_39_word_new_br_9: volcano<br>enjoy<br>walk<br>immense<br>together<br>whip<br>cool<br>tobacco<br>one
+bip_39_word_new_line_1: volcano
+bip_39_word_new_line_10: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool
+
+  tobacco
+
+  one
+
+  fun'
+bip_39_word_new_line_11: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool
+
+  tobacco
+
+  one
+
+  fun
+
+  minimum'
+bip_39_word_new_line_12: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool
+
+  tobacco
+
+  one
+
+  fun
+
+  minimum
+
+  acquire'
+bip_39_word_new_line_2: 'volcano
+
+  enjoy'
+bip_39_word_new_line_3: 'volcano
+
+  enjoy
+
+  walk'
+bip_39_word_new_line_4: 'volcano
+
+  enjoy
+
+  walk
+
+  immense'
+bip_39_word_new_line_5: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together'
+bip_39_word_new_line_6: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip'
+bip_39_word_new_line_7: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool'
+bip_39_word_new_line_8: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool
+
+  tobacco'
+bip_39_word_new_line_9: 'volcano
+
+  enjoy
+
+  walk
+
+  immense
+
+  together
+
+  whip
+
+  cool
+
+  tobacco
+
+  one'
+bip_39_word_no_space_1: volcano
+bip_39_word_no_space_10: volcanoenjoywalkimmensetogetherwhipcooltobaccoonefun
+bip_39_word_no_space_11: volcanoenjoywalkimmensetogetherwhipcooltobaccoonefunminimum
+bip_39_word_no_space_12: volcanoenjoywalkimmensetogetherwhipcooltobaccoonefunminimumacquire
+bip_39_word_no_space_2: volcanoenjoy
+bip_39_word_no_space_3: volcanoenjoywalk
+bip_39_word_no_space_4: volcanoenjoywalkimmense
+bip_39_word_no_space_5: volcanoenjoywalkimmensetogether
+bip_39_word_no_space_6: volcanoenjoywalkimmensetogetherwhip
+bip_39_word_no_space_7: volcanoenjoywalkimmensetogetherwhipcool
+bip_39_word_no_space_8: volcanoenjoywalkimmensetogetherwhipcooltobacco
+bip_39_word_no_space_9: volcanoenjoywalkimmensetogetherwhipcooltobaccoone
+bip_39_word_space_0:
+- volcano
+- enjoy
+- walk
+- immense
+- together
+- whip
+- cool
+- tobacco
+- one
+- fun
+- minimum
+- acquire
+bip_39_word_space_1: volcano
+bip_39_word_space_10: volcano enjoy walk immense together whip cool tobacco one fun
+bip_39_word_space_11: volcano enjoy walk immense together whip cool tobacco one fun
+  minimum
+bip_39_word_space_12: volcano enjoy walk immense together whip cool tobacco one fun
+  minimum acquire
+bip_39_word_space_2: volcano enjoy
+bip_39_word_space_3: volcano enjoy walk
+bip_39_word_space_4: volcano enjoy walk immense
+bip_39_word_space_5: volcano enjoy walk immense together
+bip_39_word_space_6: volcano enjoy walk immense together whip
+bip_39_word_space_7: volcano enjoy walk immense together whip cool
+bip_39_word_space_8: volcano enjoy walk immense together whip cool tobacco
+bip_39_word_space_9: volcano enjoy walk immense together whip cool tobacco one
+bip_39_word_underscore_1: volcano
+bip_39_word_underscore_10: volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun
+bip_39_word_underscore_11: volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun_minimum
+bip_39_word_underscore_12: volcano_enjoy_walk_immense_together_whip_cool_tobacco_one_fun_minimum_acquire
+bip_39_word_underscore_2: volcano_enjoy
+bip_39_word_underscore_3: volcano_enjoy_walk
+bip_39_word_underscore_4: volcano_enjoy_walk_immense
+bip_39_word_underscore_5: volcano_enjoy_walk_immense_together
+bip_39_word_underscore_6: volcano_enjoy_walk_immense_together_whip
+bip_39_word_underscore_7: volcano_enjoy_walk_immense_together_whip_cool
+bip_39_word_underscore_8: volcano_enjoy_walk_immense_together_whip_cool_tobacco
+bip_39_word_underscore_9: volcano_enjoy_walk_immense_together_whip_cool_tobacco_one
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -96,7 +315,14 @@ id_no_color: 5600000ohm
 id_no_size: 5600000_ohm
 id_no_type: 0805_5600000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_5600000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_5600000_ohm
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_resistor_0805_5600000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201db13
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201db13
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201db13
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -122,6 +348,7 @@ name_no_color: 5600000Ohm
 name_no_size: 5600000 Ohm
 name_no_size_short: 5M6 Ohm
 name_no_type: 0805 5600000 Ohm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0805_5600000_ohm
 oomp_word: kiss clap thumbsdown
 oomp_word_emoji: ':kiss: :clap: :thumbsdown:'

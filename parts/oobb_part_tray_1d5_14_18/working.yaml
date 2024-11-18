@@ -1,3 +1,222 @@
+bip_39_word_dash_1: soft
+bip_39_word_dash_10: soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty
+bip_39_word_dash_11: soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty-finger
+bip_39_word_dash_12: soft-roast-crucial-embrace-valve-category-grab-cabin-shine-duty-finger-actual
+bip_39_word_dash_2: soft-roast
+bip_39_word_dash_3: soft-roast-crucial
+bip_39_word_dash_4: soft-roast-crucial-embrace
+bip_39_word_dash_5: soft-roast-crucial-embrace-valve
+bip_39_word_dash_6: soft-roast-crucial-embrace-valve-category
+bip_39_word_dash_7: soft-roast-crucial-embrace-valve-category-grab
+bip_39_word_dash_8: soft-roast-crucial-embrace-valve-category-grab-cabin
+bip_39_word_dash_9: soft-roast-crucial-embrace-valve-category-grab-cabin-shine
+bip_39_word_new_br_1: soft
+bip_39_word_new_br_10: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty
+bip_39_word_new_br_11: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger
+bip_39_word_new_br_12: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine<br>duty<br>finger<br>actual
+bip_39_word_new_br_2: soft<br>roast
+bip_39_word_new_br_3: soft<br>roast<br>crucial
+bip_39_word_new_br_4: soft<br>roast<br>crucial<br>embrace
+bip_39_word_new_br_5: soft<br>roast<br>crucial<br>embrace<br>valve
+bip_39_word_new_br_6: soft<br>roast<br>crucial<br>embrace<br>valve<br>category
+bip_39_word_new_br_7: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab
+bip_39_word_new_br_8: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin
+bip_39_word_new_br_9: soft<br>roast<br>crucial<br>embrace<br>valve<br>category<br>grab<br>cabin<br>shine
+bip_39_word_new_line_1: soft
+bip_39_word_new_line_10: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab
+
+  cabin
+
+  shine
+
+  duty'
+bip_39_word_new_line_11: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab
+
+  cabin
+
+  shine
+
+  duty
+
+  finger'
+bip_39_word_new_line_12: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab
+
+  cabin
+
+  shine
+
+  duty
+
+  finger
+
+  actual'
+bip_39_word_new_line_2: 'soft
+
+  roast'
+bip_39_word_new_line_3: 'soft
+
+  roast
+
+  crucial'
+bip_39_word_new_line_4: 'soft
+
+  roast
+
+  crucial
+
+  embrace'
+bip_39_word_new_line_5: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve'
+bip_39_word_new_line_6: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category'
+bip_39_word_new_line_7: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab'
+bip_39_word_new_line_8: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab
+
+  cabin'
+bip_39_word_new_line_9: 'soft
+
+  roast
+
+  crucial
+
+  embrace
+
+  valve
+
+  category
+
+  grab
+
+  cabin
+
+  shine'
+bip_39_word_no_space_1: soft
+bip_39_word_no_space_10: softroastcrucialembracevalvecategorygrabcabinshineduty
+bip_39_word_no_space_11: softroastcrucialembracevalvecategorygrabcabinshinedutyfinger
+bip_39_word_no_space_12: softroastcrucialembracevalvecategorygrabcabinshinedutyfingeractual
+bip_39_word_no_space_2: softroast
+bip_39_word_no_space_3: softroastcrucial
+bip_39_word_no_space_4: softroastcrucialembrace
+bip_39_word_no_space_5: softroastcrucialembracevalve
+bip_39_word_no_space_6: softroastcrucialembracevalvecategory
+bip_39_word_no_space_7: softroastcrucialembracevalvecategorygrab
+bip_39_word_no_space_8: softroastcrucialembracevalvecategorygrabcabin
+bip_39_word_no_space_9: softroastcrucialembracevalvecategorygrabcabinshine
+bip_39_word_space_0:
+- soft
+- roast
+- crucial
+- embrace
+- valve
+- category
+- grab
+- cabin
+- shine
+- duty
+- finger
+- actual
+bip_39_word_space_1: soft
+bip_39_word_space_10: soft roast crucial embrace valve category grab cabin shine duty
+bip_39_word_space_11: soft roast crucial embrace valve category grab cabin shine duty
+  finger
+bip_39_word_space_12: soft roast crucial embrace valve category grab cabin shine duty
+  finger actual
+bip_39_word_space_2: soft roast
+bip_39_word_space_3: soft roast crucial
+bip_39_word_space_4: soft roast crucial embrace
+bip_39_word_space_5: soft roast crucial embrace valve
+bip_39_word_space_6: soft roast crucial embrace valve category
+bip_39_word_space_7: soft roast crucial embrace valve category grab
+bip_39_word_space_8: soft roast crucial embrace valve category grab cabin
+bip_39_word_space_9: soft roast crucial embrace valve category grab cabin shine
+bip_39_word_underscore_1: soft
+bip_39_word_underscore_10: soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty
+bip_39_word_underscore_11: soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty_finger
+bip_39_word_underscore_12: soft_roast_crucial_embrace_valve_category_grab_cabin_shine_duty_finger_actual
+bip_39_word_underscore_2: soft_roast
+bip_39_word_underscore_3: soft_roast_crucial
+bip_39_word_underscore_4: soft_roast_crucial_embrace
+bip_39_word_underscore_5: soft_roast_crucial_embrace_valve
+bip_39_word_underscore_6: soft_roast_crucial_embrace_valve_category
+bip_39_word_underscore_7: soft_roast_crucial_embrace_valve_category_grab
+bip_39_word_underscore_8: soft_roast_crucial_embrace_valve_category_grab_cabin
+bip_39_word_underscore_9: soft_roast_crucial_embrace_valve_category_grab_cabin_shine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_14_18
 id_no_color: 1d51418
 id_no_size: 1d5_14_18
 id_no_type: tray_1d5_14_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_14_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_14_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_14_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201tkgh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201tkgh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201tkgh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51418
 name_no_size: 1D5 14 18
 name_no_size_short: 1D5 14 18
 name_no_type: Tray 1D5 14 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_14_18
 oomp_word: zap dress pear
 oomp_word_emoji: ':zap: :dress: :pear:'

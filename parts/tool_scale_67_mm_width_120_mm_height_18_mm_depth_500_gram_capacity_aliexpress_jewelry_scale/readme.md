@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Jewelry Scale
+* name_short: 
 ### id
 * oomp_id: tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :maple_leaf: :crocodile: :penguin:
 * md5_6_alpha: 3ydzf
 * md5_6: 655e4b
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203ydzf)
+[2x1](http://192.168.1.242:1112/?label=oomp%203ydzf)
+[6x4](http://192.168.1.55:1112/?label=oomp%203ydzf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ wonder |
 | id_no_color | 500gramcapacityaliexpressjewelryscale |  
 | id_no_size | 500_gram_capacity_aliexpress_jewelry_scale |  
 | id_no_type | 67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203ydzf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203ydzf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203ydzf |  
 | manufacturer | aliexpress |  
 | manufacturer_capital | Aliexpress |  
 | manufacturer_first_letter | a |  
@@ -306,6 +339,7 @@ wonder |
 | name_no_size | 500 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_size_short | 500 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_type | 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Jewelry Scale |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale |  
 | oomp_word | maple_leaf crocodile penguin |  
 | oomp_word_emoji | :maple_leaf: :crocodile: :penguin: |  

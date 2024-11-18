@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 10 10 03  Fan 120 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_10_10_03__fan_120_mm
   * classification: oobb

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Sop 16 Converter USB To Serial Converter Wch Ch340B
+* name_short: 
 ### id
 * oomp_id: electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tractor: :tongue: :beer:
 * md5_6_alpha: 94wxi
 * md5_6: ea28b6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2094wxi)
+[2x1](http://192.168.1.242:1112/?label=oomp%2094wxi)
+[6x4](http://192.168.1.55:1112/?label=oomp%2094wxi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ topic |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340b |  
 | id_no_type | sop_16_converter_usb_to_serial_converter_wch_ch340b |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2094wxi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2094wxi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2094wxi |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -331,6 +364,7 @@ topic |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340B |  
 | name_no_type | Sop 16 Converter USB To Serial Converter Wch Ch340B |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340b |  
 | oomp_word | tractor tongue beer |  
 | oomp_word_emoji | :tractor: :tongue: :beer: |  

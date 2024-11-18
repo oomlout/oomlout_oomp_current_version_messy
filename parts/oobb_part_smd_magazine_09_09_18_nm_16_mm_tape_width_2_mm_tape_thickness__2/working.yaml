@@ -1,3 +1,222 @@
+bip_39_word_dash_1: unit
+bip_39_word_dash_10: unit-strategy-pulp-height-lens-spider-option-shock-enough-junk
+bip_39_word_dash_11: unit-strategy-pulp-height-lens-spider-option-shock-enough-junk-material
+bip_39_word_dash_12: unit-strategy-pulp-height-lens-spider-option-shock-enough-junk-material-asset
+bip_39_word_dash_2: unit-strategy
+bip_39_word_dash_3: unit-strategy-pulp
+bip_39_word_dash_4: unit-strategy-pulp-height
+bip_39_word_dash_5: unit-strategy-pulp-height-lens
+bip_39_word_dash_6: unit-strategy-pulp-height-lens-spider
+bip_39_word_dash_7: unit-strategy-pulp-height-lens-spider-option
+bip_39_word_dash_8: unit-strategy-pulp-height-lens-spider-option-shock
+bip_39_word_dash_9: unit-strategy-pulp-height-lens-spider-option-shock-enough
+bip_39_word_new_br_1: unit
+bip_39_word_new_br_10: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk
+bip_39_word_new_br_11: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk<br>material
+bip_39_word_new_br_12: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough<br>junk<br>material<br>asset
+bip_39_word_new_br_2: unit<br>strategy
+bip_39_word_new_br_3: unit<br>strategy<br>pulp
+bip_39_word_new_br_4: unit<br>strategy<br>pulp<br>height
+bip_39_word_new_br_5: unit<br>strategy<br>pulp<br>height<br>lens
+bip_39_word_new_br_6: unit<br>strategy<br>pulp<br>height<br>lens<br>spider
+bip_39_word_new_br_7: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option
+bip_39_word_new_br_8: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock
+bip_39_word_new_br_9: unit<br>strategy<br>pulp<br>height<br>lens<br>spider<br>option<br>shock<br>enough
+bip_39_word_new_line_1: unit
+bip_39_word_new_line_10: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk'
+bip_39_word_new_line_11: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk
+
+  material'
+bip_39_word_new_line_12: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough
+
+  junk
+
+  material
+
+  asset'
+bip_39_word_new_line_2: 'unit
+
+  strategy'
+bip_39_word_new_line_3: 'unit
+
+  strategy
+
+  pulp'
+bip_39_word_new_line_4: 'unit
+
+  strategy
+
+  pulp
+
+  height'
+bip_39_word_new_line_5: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens'
+bip_39_word_new_line_6: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider'
+bip_39_word_new_line_7: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option'
+bip_39_word_new_line_8: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock'
+bip_39_word_new_line_9: 'unit
+
+  strategy
+
+  pulp
+
+  height
+
+  lens
+
+  spider
+
+  option
+
+  shock
+
+  enough'
+bip_39_word_no_space_1: unit
+bip_39_word_no_space_10: unitstrategypulpheightlensspideroptionshockenoughjunk
+bip_39_word_no_space_11: unitstrategypulpheightlensspideroptionshockenoughjunkmaterial
+bip_39_word_no_space_12: unitstrategypulpheightlensspideroptionshockenoughjunkmaterialasset
+bip_39_word_no_space_2: unitstrategy
+bip_39_word_no_space_3: unitstrategypulp
+bip_39_word_no_space_4: unitstrategypulpheight
+bip_39_word_no_space_5: unitstrategypulpheightlens
+bip_39_word_no_space_6: unitstrategypulpheightlensspider
+bip_39_word_no_space_7: unitstrategypulpheightlensspideroption
+bip_39_word_no_space_8: unitstrategypulpheightlensspideroptionshock
+bip_39_word_no_space_9: unitstrategypulpheightlensspideroptionshockenough
+bip_39_word_space_0:
+- unit
+- strategy
+- pulp
+- height
+- lens
+- spider
+- option
+- shock
+- enough
+- junk
+- material
+- asset
+bip_39_word_space_1: unit
+bip_39_word_space_10: unit strategy pulp height lens spider option shock enough junk
+bip_39_word_space_11: unit strategy pulp height lens spider option shock enough junk
+  material
+bip_39_word_space_12: unit strategy pulp height lens spider option shock enough junk
+  material asset
+bip_39_word_space_2: unit strategy
+bip_39_word_space_3: unit strategy pulp
+bip_39_word_space_4: unit strategy pulp height
+bip_39_word_space_5: unit strategy pulp height lens
+bip_39_word_space_6: unit strategy pulp height lens spider
+bip_39_word_space_7: unit strategy pulp height lens spider option
+bip_39_word_space_8: unit strategy pulp height lens spider option shock
+bip_39_word_space_9: unit strategy pulp height lens spider option shock enough
+bip_39_word_underscore_1: unit
+bip_39_word_underscore_10: unit_strategy_pulp_height_lens_spider_option_shock_enough_junk
+bip_39_word_underscore_11: unit_strategy_pulp_height_lens_spider_option_shock_enough_junk_material
+bip_39_word_underscore_12: unit_strategy_pulp_height_lens_spider_option_shock_enough_junk_material_asset
+bip_39_word_underscore_2: unit_strategy
+bip_39_word_underscore_3: unit_strategy_pulp
+bip_39_word_underscore_4: unit_strategy_pulp_height
+bip_39_word_underscore_5: unit_strategy_pulp_height_lens
+bip_39_word_underscore_6: unit_strategy_pulp_height_lens_spider
+bip_39_word_underscore_7: unit_strategy_pulp_height_lens_spider_option
+bip_39_word_underscore_8: unit_strategy_pulp_height_lens_spider_option_shock
+bip_39_word_underscore_9: unit_strategy_pulp_height_lens_spider_option_shock_enough
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 090918nm16mmtapewidth2mmtapethickness2
 id_no_size: 09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208jpwe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208jpwe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208jpwe
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 090918Nm16mmtapewidth2mmtapethickness2
 name_no_size: 09 09 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 09 09 18 Nm 16 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 09 09 18 Nm 16 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_09_09_18_nm_16_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: tent dizzy rainbow
 oomp_word_emoji: ':tent: :dizzy: :rainbow:'

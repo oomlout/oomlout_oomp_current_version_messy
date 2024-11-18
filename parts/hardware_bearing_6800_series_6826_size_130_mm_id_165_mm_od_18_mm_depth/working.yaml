@@ -1,3 +1,222 @@
+bip_39_word_dash_1: motion
+bip_39_word_dash_10: motion-drama-moon-destroy-seven-trim-donkey-race-present-round
+bip_39_word_dash_11: motion-drama-moon-destroy-seven-trim-donkey-race-present-round-radar
+bip_39_word_dash_12: motion-drama-moon-destroy-seven-trim-donkey-race-present-round-radar-around
+bip_39_word_dash_2: motion-drama
+bip_39_word_dash_3: motion-drama-moon
+bip_39_word_dash_4: motion-drama-moon-destroy
+bip_39_word_dash_5: motion-drama-moon-destroy-seven
+bip_39_word_dash_6: motion-drama-moon-destroy-seven-trim
+bip_39_word_dash_7: motion-drama-moon-destroy-seven-trim-donkey
+bip_39_word_dash_8: motion-drama-moon-destroy-seven-trim-donkey-race
+bip_39_word_dash_9: motion-drama-moon-destroy-seven-trim-donkey-race-present
+bip_39_word_new_br_1: motion
+bip_39_word_new_br_10: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present<br>round
+bip_39_word_new_br_11: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present<br>round<br>radar
+bip_39_word_new_br_12: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present<br>round<br>radar<br>around
+bip_39_word_new_br_2: motion<br>drama
+bip_39_word_new_br_3: motion<br>drama<br>moon
+bip_39_word_new_br_4: motion<br>drama<br>moon<br>destroy
+bip_39_word_new_br_5: motion<br>drama<br>moon<br>destroy<br>seven
+bip_39_word_new_br_6: motion<br>drama<br>moon<br>destroy<br>seven<br>trim
+bip_39_word_new_br_7: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey
+bip_39_word_new_br_8: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race
+bip_39_word_new_br_9: motion<br>drama<br>moon<br>destroy<br>seven<br>trim<br>donkey<br>race<br>present
+bip_39_word_new_line_1: motion
+bip_39_word_new_line_10: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey
+
+  race
+
+  present
+
+  round'
+bip_39_word_new_line_11: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey
+
+  race
+
+  present
+
+  round
+
+  radar'
+bip_39_word_new_line_12: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey
+
+  race
+
+  present
+
+  round
+
+  radar
+
+  around'
+bip_39_word_new_line_2: 'motion
+
+  drama'
+bip_39_word_new_line_3: 'motion
+
+  drama
+
+  moon'
+bip_39_word_new_line_4: 'motion
+
+  drama
+
+  moon
+
+  destroy'
+bip_39_word_new_line_5: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven'
+bip_39_word_new_line_6: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim'
+bip_39_word_new_line_7: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey'
+bip_39_word_new_line_8: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey
+
+  race'
+bip_39_word_new_line_9: 'motion
+
+  drama
+
+  moon
+
+  destroy
+
+  seven
+
+  trim
+
+  donkey
+
+  race
+
+  present'
+bip_39_word_no_space_1: motion
+bip_39_word_no_space_10: motiondramamoondestroyseventrimdonkeyracepresentround
+bip_39_word_no_space_11: motiondramamoondestroyseventrimdonkeyracepresentroundradar
+bip_39_word_no_space_12: motiondramamoondestroyseventrimdonkeyracepresentroundradararound
+bip_39_word_no_space_2: motiondrama
+bip_39_word_no_space_3: motiondramamoon
+bip_39_word_no_space_4: motiondramamoondestroy
+bip_39_word_no_space_5: motiondramamoondestroyseven
+bip_39_word_no_space_6: motiondramamoondestroyseventrim
+bip_39_word_no_space_7: motiondramamoondestroyseventrimdonkey
+bip_39_word_no_space_8: motiondramamoondestroyseventrimdonkeyrace
+bip_39_word_no_space_9: motiondramamoondestroyseventrimdonkeyracepresent
+bip_39_word_space_0:
+- motion
+- drama
+- moon
+- destroy
+- seven
+- trim
+- donkey
+- race
+- present
+- round
+- radar
+- around
+bip_39_word_space_1: motion
+bip_39_word_space_10: motion drama moon destroy seven trim donkey race present round
+bip_39_word_space_11: motion drama moon destroy seven trim donkey race present round
+  radar
+bip_39_word_space_12: motion drama moon destroy seven trim donkey race present round
+  radar around
+bip_39_word_space_2: motion drama
+bip_39_word_space_3: motion drama moon
+bip_39_word_space_4: motion drama moon destroy
+bip_39_word_space_5: motion drama moon destroy seven
+bip_39_word_space_6: motion drama moon destroy seven trim
+bip_39_word_space_7: motion drama moon destroy seven trim donkey
+bip_39_word_space_8: motion drama moon destroy seven trim donkey race
+bip_39_word_space_9: motion drama moon destroy seven trim donkey race present
+bip_39_word_underscore_1: motion
+bip_39_word_underscore_10: motion_drama_moon_destroy_seven_trim_donkey_race_present_round
+bip_39_word_underscore_11: motion_drama_moon_destroy_seven_trim_donkey_race_present_round_radar
+bip_39_word_underscore_12: motion_drama_moon_destroy_seven_trim_donkey_race_present_round_radar_around
+bip_39_word_underscore_2: motion_drama
+bip_39_word_underscore_3: motion_drama_moon
+bip_39_word_underscore_4: motion_drama_moon_destroy
+bip_39_word_underscore_5: motion_drama_moon_destroy_seven
+bip_39_word_underscore_6: motion_drama_moon_destroy_seven_trim
+bip_39_word_underscore_7: motion_drama_moon_destroy_seven_trim_donkey
+bip_39_word_underscore_8: motion_drama_moon_destroy_seven_trim_donkey_race
+bip_39_word_underscore_9: motion_drama_moon_destroy_seven_trim_donkey_race_present
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
 id_no_color: 130_mm_id_165_mm_od_18_mm_depth
 id_no_size: 6826_size_130_mm_id_165_mm_od_18_mm_depth
 id_no_type: 6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207mfzj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207mfzj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207mfzj
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 130 mm ID 165 mm OD 18 mm Depth
 name_no_size: 6826 Size 130 mm ID 165 mm OD 18 mm Depth
 name_no_size_short: 6826 Size 130 Mm Id 165 Mm Od 18 Mm Depth
 name_no_type: 6800 Series 6826 Size 130 mm ID 165 mm OD 18 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br6826
+oomlout_short_code_upper: BR6826
 oomp_key: oomp_hardware_bearing_6800_series_6826_size_130_mm_id_165_mm_od_18_mm_depth
 oomp_word: cake bouquet moon
 oomp_word_emoji: ':cake: :bouquet: :moon:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: crucial
+bip_39_word_dash_10: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle
+bip_39_word_dash_11: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle-exhibit
+bip_39_word_dash_12: crucial-miracle-abandon-police-stove-boost-merge-beef-behave-struggle-exhibit-area
+bip_39_word_dash_2: crucial-miracle
+bip_39_word_dash_3: crucial-miracle-abandon
+bip_39_word_dash_4: crucial-miracle-abandon-police
+bip_39_word_dash_5: crucial-miracle-abandon-police-stove
+bip_39_word_dash_6: crucial-miracle-abandon-police-stove-boost
+bip_39_word_dash_7: crucial-miracle-abandon-police-stove-boost-merge
+bip_39_word_dash_8: crucial-miracle-abandon-police-stove-boost-merge-beef
+bip_39_word_dash_9: crucial-miracle-abandon-police-stove-boost-merge-beef-behave
+bip_39_word_new_br_1: crucial
+bip_39_word_new_br_10: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle
+bip_39_word_new_br_11: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit
+bip_39_word_new_br_12: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave<br>struggle<br>exhibit<br>area
+bip_39_word_new_br_2: crucial<br>miracle
+bip_39_word_new_br_3: crucial<br>miracle<br>abandon
+bip_39_word_new_br_4: crucial<br>miracle<br>abandon<br>police
+bip_39_word_new_br_5: crucial<br>miracle<br>abandon<br>police<br>stove
+bip_39_word_new_br_6: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost
+bip_39_word_new_br_7: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge
+bip_39_word_new_br_8: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef
+bip_39_word_new_br_9: crucial<br>miracle<br>abandon<br>police<br>stove<br>boost<br>merge<br>beef<br>behave
+bip_39_word_new_line_1: crucial
+bip_39_word_new_line_10: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge
+
+  beef
+
+  behave
+
+  struggle'
+bip_39_word_new_line_11: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge
+
+  beef
+
+  behave
+
+  struggle
+
+  exhibit'
+bip_39_word_new_line_12: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge
+
+  beef
+
+  behave
+
+  struggle
+
+  exhibit
+
+  area'
+bip_39_word_new_line_2: 'crucial
+
+  miracle'
+bip_39_word_new_line_3: 'crucial
+
+  miracle
+
+  abandon'
+bip_39_word_new_line_4: 'crucial
+
+  miracle
+
+  abandon
+
+  police'
+bip_39_word_new_line_5: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove'
+bip_39_word_new_line_6: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost'
+bip_39_word_new_line_7: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge'
+bip_39_word_new_line_8: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge
+
+  beef'
+bip_39_word_new_line_9: 'crucial
+
+  miracle
+
+  abandon
+
+  police
+
+  stove
+
+  boost
+
+  merge
+
+  beef
+
+  behave'
+bip_39_word_no_space_1: crucial
+bip_39_word_no_space_10: crucialmiracleabandonpolicestoveboostmergebeefbehavestruggle
+bip_39_word_no_space_11: crucialmiracleabandonpolicestoveboostmergebeefbehavestruggleexhibit
+bip_39_word_no_space_12: crucialmiracleabandonpolicestoveboostmergebeefbehavestruggleexhibitarea
+bip_39_word_no_space_2: crucialmiracle
+bip_39_word_no_space_3: crucialmiracleabandon
+bip_39_word_no_space_4: crucialmiracleabandonpolice
+bip_39_word_no_space_5: crucialmiracleabandonpolicestove
+bip_39_word_no_space_6: crucialmiracleabandonpolicestoveboost
+bip_39_word_no_space_7: crucialmiracleabandonpolicestoveboostmerge
+bip_39_word_no_space_8: crucialmiracleabandonpolicestoveboostmergebeef
+bip_39_word_no_space_9: crucialmiracleabandonpolicestoveboostmergebeefbehave
+bip_39_word_space_0:
+- crucial
+- miracle
+- abandon
+- police
+- stove
+- boost
+- merge
+- beef
+- behave
+- struggle
+- exhibit
+- area
+bip_39_word_space_1: crucial
+bip_39_word_space_10: crucial miracle abandon police stove boost merge beef behave
+  struggle
+bip_39_word_space_11: crucial miracle abandon police stove boost merge beef behave
+  struggle exhibit
+bip_39_word_space_12: crucial miracle abandon police stove boost merge beef behave
+  struggle exhibit area
+bip_39_word_space_2: crucial miracle
+bip_39_word_space_3: crucial miracle abandon
+bip_39_word_space_4: crucial miracle abandon police
+bip_39_word_space_5: crucial miracle abandon police stove
+bip_39_word_space_6: crucial miracle abandon police stove boost
+bip_39_word_space_7: crucial miracle abandon police stove boost merge
+bip_39_word_space_8: crucial miracle abandon police stove boost merge beef
+bip_39_word_space_9: crucial miracle abandon police stove boost merge beef behave
+bip_39_word_underscore_1: crucial
+bip_39_word_underscore_10: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle
+bip_39_word_underscore_11: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle_exhibit
+bip_39_word_underscore_12: crucial_miracle_abandon_police_stove_boost_merge_beef_behave_struggle_exhibit_area
+bip_39_word_underscore_2: crucial_miracle
+bip_39_word_underscore_3: crucial_miracle_abandon
+bip_39_word_underscore_4: crucial_miracle_abandon_police
+bip_39_word_underscore_5: crucial_miracle_abandon_police_stove
+bip_39_word_underscore_6: crucial_miracle_abandon_police_stove_boost
+bip_39_word_underscore_7: crucial_miracle_abandon_police_stove_boost_merge
+bip_39_word_underscore_8: crucial_miracle_abandon_police_stove_boost_merge_beef
+bip_39_word_underscore_9: crucial_miracle_abandon_police_stove_boost_merge_beef_behave
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 5_mm_length_phillips_head
 id_no_size: black_5_mm_length_phillips_head
 id_no_type: m1_4_black_5_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_5_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_self_tapping_m1_4_black_5_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_self_tapping_m1_4_black_5_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2071po5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2071po5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2071po5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,27 @@ name_no_color: 5 mm Length Phillips Head
 name_no_size: Black 5 mm Length Phillips Head
 name_no_size_short: Black 5 Mm Length Phillips Head
 name_no_type: M1 4 Black 5 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 5 mm
+oomlout_bolt_length_no_unit: '5'
+oomlout_bolt_md5_6_alpha_first_3: 71p
+oomlout_bolt_md5_6_alpha_first_3_upper: 71P
+oomlout_bolt_md5_6_alpha_last_3: o5
+oomlout_bolt_md5_6_alpha_last_3_upper: O5
+oomlout_bolt_md5_6_first_3: b49
+oomlout_bolt_md5_6_first_3_upper: B49
+oomlout_bolt_md5_6_last_3: f35
+oomlout_bolt_md5_6_last_3_upper: F35
+oomlout_bolt_name: Self Tapping M1_4X5 mm Black (Phillips)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M1.4
+oomlout_bolt_type: Self Tapping
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: st1d4b5p
+oomlout_short_code_upper: ST1D4B5P
 oomp_key: oomp_hardware_screw_self_tapping_m1_4_black_5_mm_length_phillips_head
 oomp_word: coffee diamonds hamster
 oomp_word_emoji: ':coffee: :diamonds: :hamster:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: faith
+bip_39_word_dash_10: faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly
+bip_39_word_dash_11: faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly-artefact
+bip_39_word_dash_12: faith-resource-neither-torch-nerve-collect-wonder-argue-system-silly-artefact-alpha
+bip_39_word_dash_2: faith-resource
+bip_39_word_dash_3: faith-resource-neither
+bip_39_word_dash_4: faith-resource-neither-torch
+bip_39_word_dash_5: faith-resource-neither-torch-nerve
+bip_39_word_dash_6: faith-resource-neither-torch-nerve-collect
+bip_39_word_dash_7: faith-resource-neither-torch-nerve-collect-wonder
+bip_39_word_dash_8: faith-resource-neither-torch-nerve-collect-wonder-argue
+bip_39_word_dash_9: faith-resource-neither-torch-nerve-collect-wonder-argue-system
+bip_39_word_new_br_1: faith
+bip_39_word_new_br_10: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system<br>silly
+bip_39_word_new_br_11: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system<br>silly<br>artefact
+bip_39_word_new_br_12: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system<br>silly<br>artefact<br>alpha
+bip_39_word_new_br_2: faith<br>resource
+bip_39_word_new_br_3: faith<br>resource<br>neither
+bip_39_word_new_br_4: faith<br>resource<br>neither<br>torch
+bip_39_word_new_br_5: faith<br>resource<br>neither<br>torch<br>nerve
+bip_39_word_new_br_6: faith<br>resource<br>neither<br>torch<br>nerve<br>collect
+bip_39_word_new_br_7: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder
+bip_39_word_new_br_8: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue
+bip_39_word_new_br_9: faith<br>resource<br>neither<br>torch<br>nerve<br>collect<br>wonder<br>argue<br>system
+bip_39_word_new_line_1: faith
+bip_39_word_new_line_10: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder
+
+  argue
+
+  system
+
+  silly'
+bip_39_word_new_line_11: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder
+
+  argue
+
+  system
+
+  silly
+
+  artefact'
+bip_39_word_new_line_12: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder
+
+  argue
+
+  system
+
+  silly
+
+  artefact
+
+  alpha'
+bip_39_word_new_line_2: 'faith
+
+  resource'
+bip_39_word_new_line_3: 'faith
+
+  resource
+
+  neither'
+bip_39_word_new_line_4: 'faith
+
+  resource
+
+  neither
+
+  torch'
+bip_39_word_new_line_5: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve'
+bip_39_word_new_line_6: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect'
+bip_39_word_new_line_7: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder'
+bip_39_word_new_line_8: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder
+
+  argue'
+bip_39_word_new_line_9: 'faith
+
+  resource
+
+  neither
+
+  torch
+
+  nerve
+
+  collect
+
+  wonder
+
+  argue
+
+  system'
+bip_39_word_no_space_1: faith
+bip_39_word_no_space_10: faithresourceneithertorchnervecollectwonderarguesystemsilly
+bip_39_word_no_space_11: faithresourceneithertorchnervecollectwonderarguesystemsillyartefact
+bip_39_word_no_space_12: faithresourceneithertorchnervecollectwonderarguesystemsillyartefactalpha
+bip_39_word_no_space_2: faithresource
+bip_39_word_no_space_3: faithresourceneither
+bip_39_word_no_space_4: faithresourceneithertorch
+bip_39_word_no_space_5: faithresourceneithertorchnerve
+bip_39_word_no_space_6: faithresourceneithertorchnervecollect
+bip_39_word_no_space_7: faithresourceneithertorchnervecollectwonder
+bip_39_word_no_space_8: faithresourceneithertorchnervecollectwonderargue
+bip_39_word_no_space_9: faithresourceneithertorchnervecollectwonderarguesystem
+bip_39_word_space_0:
+- faith
+- resource
+- neither
+- torch
+- nerve
+- collect
+- wonder
+- argue
+- system
+- silly
+- artefact
+- alpha
+bip_39_word_space_1: faith
+bip_39_word_space_10: faith resource neither torch nerve collect wonder argue system
+  silly
+bip_39_word_space_11: faith resource neither torch nerve collect wonder argue system
+  silly artefact
+bip_39_word_space_12: faith resource neither torch nerve collect wonder argue system
+  silly artefact alpha
+bip_39_word_space_2: faith resource
+bip_39_word_space_3: faith resource neither
+bip_39_word_space_4: faith resource neither torch
+bip_39_word_space_5: faith resource neither torch nerve
+bip_39_word_space_6: faith resource neither torch nerve collect
+bip_39_word_space_7: faith resource neither torch nerve collect wonder
+bip_39_word_space_8: faith resource neither torch nerve collect wonder argue
+bip_39_word_space_9: faith resource neither torch nerve collect wonder argue system
+bip_39_word_underscore_1: faith
+bip_39_word_underscore_10: faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly
+bip_39_word_underscore_11: faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly_artefact
+bip_39_word_underscore_12: faith_resource_neither_torch_nerve_collect_wonder_argue_system_silly_artefact_alpha
+bip_39_word_underscore_2: faith_resource
+bip_39_word_underscore_3: faith_resource_neither
+bip_39_word_underscore_4: faith_resource_neither_torch
+bip_39_word_underscore_5: faith_resource_neither_torch_nerve
+bip_39_word_underscore_6: faith_resource_neither_torch_nerve_collect
+bip_39_word_underscore_7: faith_resource_neither_torch_nerve_collect_wonder
+bip_39_word_underscore_8: faith_resource_neither_torch_nerve_collect_wonder_argue
+bip_39_word_underscore_9: faith_resource_neither_torch_nerve_collect_wonder_argue_system
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_07_04_21
 id_no_color: '070421'
 id_no_size: '07_04_21'
 id_no_type: tray_thin_07_04_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_04_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_04_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_04_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dgqa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dgqa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dgqa
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '070421'
 name_no_size: 07 04 21
 name_no_size_short: 07 04 21
 name_no_type: Tray Thin 07 04 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_04_21
 oomp_word: squirrel pray one
 oomp_word_emoji: ':squirrel: :pray: :one:'

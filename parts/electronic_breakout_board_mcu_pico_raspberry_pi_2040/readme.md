@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 The official Raspberry Pi breakout for the 2040
 
+### name
+* name: Electronic Breakout Board MCU Pico Raspberry Pi 2040
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_pico_raspberry_pi_2040
   * classification: electronic

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: wink
+bip_39_word_dash_10: wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin
+bip_39_word_dash_11: wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin-trust
+bip_39_word_dash_12: wink-physical-empty-pond-physical-bundle-indoor-velvet-walk-violin-trust-army
+bip_39_word_dash_2: wink-physical
+bip_39_word_dash_3: wink-physical-empty
+bip_39_word_dash_4: wink-physical-empty-pond
+bip_39_word_dash_5: wink-physical-empty-pond-physical
+bip_39_word_dash_6: wink-physical-empty-pond-physical-bundle
+bip_39_word_dash_7: wink-physical-empty-pond-physical-bundle-indoor
+bip_39_word_dash_8: wink-physical-empty-pond-physical-bundle-indoor-velvet
+bip_39_word_dash_9: wink-physical-empty-pond-physical-bundle-indoor-velvet-walk
+bip_39_word_new_br_1: wink
+bip_39_word_new_br_10: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin
+bip_39_word_new_br_11: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin<br>trust
+bip_39_word_new_br_12: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk<br>violin<br>trust<br>army
+bip_39_word_new_br_2: wink<br>physical
+bip_39_word_new_br_3: wink<br>physical<br>empty
+bip_39_word_new_br_4: wink<br>physical<br>empty<br>pond
+bip_39_word_new_br_5: wink<br>physical<br>empty<br>pond<br>physical
+bip_39_word_new_br_6: wink<br>physical<br>empty<br>pond<br>physical<br>bundle
+bip_39_word_new_br_7: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor
+bip_39_word_new_br_8: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet
+bip_39_word_new_br_9: wink<br>physical<br>empty<br>pond<br>physical<br>bundle<br>indoor<br>velvet<br>walk
+bip_39_word_new_line_1: wink
+bip_39_word_new_line_10: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor
+
+  velvet
+
+  walk
+
+  violin'
+bip_39_word_new_line_11: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor
+
+  velvet
+
+  walk
+
+  violin
+
+  trust'
+bip_39_word_new_line_12: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor
+
+  velvet
+
+  walk
+
+  violin
+
+  trust
+
+  army'
+bip_39_word_new_line_2: 'wink
+
+  physical'
+bip_39_word_new_line_3: 'wink
+
+  physical
+
+  empty'
+bip_39_word_new_line_4: 'wink
+
+  physical
+
+  empty
+
+  pond'
+bip_39_word_new_line_5: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical'
+bip_39_word_new_line_6: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle'
+bip_39_word_new_line_7: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor'
+bip_39_word_new_line_8: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor
+
+  velvet'
+bip_39_word_new_line_9: 'wink
+
+  physical
+
+  empty
+
+  pond
+
+  physical
+
+  bundle
+
+  indoor
+
+  velvet
+
+  walk'
+bip_39_word_no_space_1: wink
+bip_39_word_no_space_10: winkphysicalemptypondphysicalbundleindoorvelvetwalkviolin
+bip_39_word_no_space_11: winkphysicalemptypondphysicalbundleindoorvelvetwalkviolintrust
+bip_39_word_no_space_12: winkphysicalemptypondphysicalbundleindoorvelvetwalkviolintrustarmy
+bip_39_word_no_space_2: winkphysical
+bip_39_word_no_space_3: winkphysicalempty
+bip_39_word_no_space_4: winkphysicalemptypond
+bip_39_word_no_space_5: winkphysicalemptypondphysical
+bip_39_word_no_space_6: winkphysicalemptypondphysicalbundle
+bip_39_word_no_space_7: winkphysicalemptypondphysicalbundleindoor
+bip_39_word_no_space_8: winkphysicalemptypondphysicalbundleindoorvelvet
+bip_39_word_no_space_9: winkphysicalemptypondphysicalbundleindoorvelvetwalk
+bip_39_word_space_0:
+- wink
+- physical
+- empty
+- pond
+- physical
+- bundle
+- indoor
+- velvet
+- walk
+- violin
+- trust
+- army
+bip_39_word_space_1: wink
+bip_39_word_space_10: wink physical empty pond physical bundle indoor velvet walk
+  violin
+bip_39_word_space_11: wink physical empty pond physical bundle indoor velvet walk
+  violin trust
+bip_39_word_space_12: wink physical empty pond physical bundle indoor velvet walk
+  violin trust army
+bip_39_word_space_2: wink physical
+bip_39_word_space_3: wink physical empty
+bip_39_word_space_4: wink physical empty pond
+bip_39_word_space_5: wink physical empty pond physical
+bip_39_word_space_6: wink physical empty pond physical bundle
+bip_39_word_space_7: wink physical empty pond physical bundle indoor
+bip_39_word_space_8: wink physical empty pond physical bundle indoor velvet
+bip_39_word_space_9: wink physical empty pond physical bundle indoor velvet walk
+bip_39_word_underscore_1: wink
+bip_39_word_underscore_10: wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin
+bip_39_word_underscore_11: wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin_trust
+bip_39_word_underscore_12: wink_physical_empty_pond_physical_bundle_indoor_velvet_walk_violin_trust_army
+bip_39_word_underscore_2: wink_physical
+bip_39_word_underscore_3: wink_physical_empty
+bip_39_word_underscore_4: wink_physical_empty_pond
+bip_39_word_underscore_5: wink_physical_empty_pond_physical
+bip_39_word_underscore_6: wink_physical_empty_pond_physical_bundle
+bip_39_word_underscore_7: wink_physical_empty_pond_physical_bundle_indoor
+bip_39_word_underscore_8: wink_physical_empty_pond_physical_bundle_indoor_velvet
+bip_39_word_underscore_9: wink_physical_empty_pond_physical_bundle_indoor_velvet_walk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_06_04_30
 id_no_color: '060430'
 id_no_size: '06_04_30'
 id_no_type: tray_thin_06_04_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_04_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_04_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207k9dp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207k9dp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207k9dp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '060430'
 name_no_size: 06 04 30
 name_no_size_short: 06 04 30
 name_no_type: Tray Thin 06 04 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_04_30
 oomp_word: doughnut tomato phone
 oomp_word_emoji: ':doughnut: :tomato: :phone:'

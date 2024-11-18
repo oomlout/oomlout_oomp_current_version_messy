@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Screw Socket Cap Hardware Screw Socket Cap M3 10
+* name_short: 
 ### id
 * oomp_id: oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tent: :cow: :kiss:
 * md5_6_alpha: 8jyg3
 * md5_6: db3d23
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208jyg3)
+[2x1](http://192.168.1.242:1112/?label=oomp%208jyg3)
+[6x4](http://192.168.1.55:1112/?label=oomp%208jyg3)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ enroll |
 | id_no_color | hardwarem310 |  
 | id_no_size | hardware_m3_10 |  
 | id_no_type | screw_socket_cap_hardware_screw_socket_cap_m3_10 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208jyg3 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208jyg3 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208jyg3 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ enroll |
 | name_no_size | Hardware M3 10 |  
 | name_no_size_short | Hardware M3 10 |  
 | name_no_type | Screw Socket Cap Hardware Screw Socket Cap M3 10 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_screw_socket_cap_hardware_screw_socket_cap_m3_10 |  
 | oomp_word | tent cow kiss |  
 | oomp_word_emoji | :tent: :cow: :kiss: |  

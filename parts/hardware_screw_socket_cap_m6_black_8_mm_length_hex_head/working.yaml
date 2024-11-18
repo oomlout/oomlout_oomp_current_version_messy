@@ -1,4 +1,222 @@
 barcode_manufacturer_metalmate: '5050420667326'
+bip_39_word_dash_1: bind
+bip_39_word_dash_10: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law
+bip_39_word_dash_11: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program
+bip_39_word_dash_12: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine-law-program-ankle
+bip_39_word_dash_2: bind-enemy
+bip_39_word_dash_3: bind-enemy-ramp
+bip_39_word_dash_4: bind-enemy-ramp-pumpkin
+bip_39_word_dash_5: bind-enemy-ramp-pumpkin-under
+bip_39_word_dash_6: bind-enemy-ramp-pumpkin-under-black
+bip_39_word_dash_7: bind-enemy-ramp-pumpkin-under-black-picnic
+bip_39_word_dash_8: bind-enemy-ramp-pumpkin-under-black-picnic-oven
+bip_39_word_dash_9: bind-enemy-ramp-pumpkin-under-black-picnic-oven-wine
+bip_39_word_new_br_1: bind
+bip_39_word_new_br_10: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law
+bip_39_word_new_br_11: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program
+bip_39_word_new_br_12: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine<br>law<br>program<br>ankle
+bip_39_word_new_br_2: bind<br>enemy
+bip_39_word_new_br_3: bind<br>enemy<br>ramp
+bip_39_word_new_br_4: bind<br>enemy<br>ramp<br>pumpkin
+bip_39_word_new_br_5: bind<br>enemy<br>ramp<br>pumpkin<br>under
+bip_39_word_new_br_6: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black
+bip_39_word_new_br_7: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic
+bip_39_word_new_br_8: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven
+bip_39_word_new_br_9: bind<br>enemy<br>ramp<br>pumpkin<br>under<br>black<br>picnic<br>oven<br>wine
+bip_39_word_new_line_1: bind
+bip_39_word_new_line_10: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic
+
+  oven
+
+  wine
+
+  law'
+bip_39_word_new_line_11: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic
+
+  oven
+
+  wine
+
+  law
+
+  program'
+bip_39_word_new_line_12: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic
+
+  oven
+
+  wine
+
+  law
+
+  program
+
+  ankle'
+bip_39_word_new_line_2: 'bind
+
+  enemy'
+bip_39_word_new_line_3: 'bind
+
+  enemy
+
+  ramp'
+bip_39_word_new_line_4: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin'
+bip_39_word_new_line_5: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under'
+bip_39_word_new_line_6: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black'
+bip_39_word_new_line_7: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic'
+bip_39_word_new_line_8: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic
+
+  oven'
+bip_39_word_new_line_9: 'bind
+
+  enemy
+
+  ramp
+
+  pumpkin
+
+  under
+
+  black
+
+  picnic
+
+  oven
+
+  wine'
+bip_39_word_no_space_1: bind
+bip_39_word_no_space_10: bindenemyramppumpkinunderblackpicnicovenwinelaw
+bip_39_word_no_space_11: bindenemyramppumpkinunderblackpicnicovenwinelawprogram
+bip_39_word_no_space_12: bindenemyramppumpkinunderblackpicnicovenwinelawprogramankle
+bip_39_word_no_space_2: bindenemy
+bip_39_word_no_space_3: bindenemyramp
+bip_39_word_no_space_4: bindenemyramppumpkin
+bip_39_word_no_space_5: bindenemyramppumpkinunder
+bip_39_word_no_space_6: bindenemyramppumpkinunderblack
+bip_39_word_no_space_7: bindenemyramppumpkinunderblackpicnic
+bip_39_word_no_space_8: bindenemyramppumpkinunderblackpicnicoven
+bip_39_word_no_space_9: bindenemyramppumpkinunderblackpicnicovenwine
+bip_39_word_space_0:
+- bind
+- enemy
+- ramp
+- pumpkin
+- under
+- black
+- picnic
+- oven
+- wine
+- law
+- program
+- ankle
+bip_39_word_space_1: bind
+bip_39_word_space_10: bind enemy ramp pumpkin under black picnic oven wine law
+bip_39_word_space_11: bind enemy ramp pumpkin under black picnic oven wine law program
+bip_39_word_space_12: bind enemy ramp pumpkin under black picnic oven wine law program
+  ankle
+bip_39_word_space_2: bind enemy
+bip_39_word_space_3: bind enemy ramp
+bip_39_word_space_4: bind enemy ramp pumpkin
+bip_39_word_space_5: bind enemy ramp pumpkin under
+bip_39_word_space_6: bind enemy ramp pumpkin under black
+bip_39_word_space_7: bind enemy ramp pumpkin under black picnic
+bip_39_word_space_8: bind enemy ramp pumpkin under black picnic oven
+bip_39_word_space_9: bind enemy ramp pumpkin under black picnic oven wine
+bip_39_word_underscore_1: bind
+bip_39_word_underscore_10: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law
+bip_39_word_underscore_11: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program
+bip_39_word_underscore_12: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine_law_program_ankle
+bip_39_word_underscore_2: bind_enemy
+bip_39_word_underscore_3: bind_enemy_ramp
+bip_39_word_underscore_4: bind_enemy_ramp_pumpkin
+bip_39_word_underscore_5: bind_enemy_ramp_pumpkin_under
+bip_39_word_underscore_6: bind_enemy_ramp_pumpkin_under_black
+bip_39_word_underscore_7: bind_enemy_ramp_pumpkin_under_black_picnic
+bip_39_word_underscore_8: bind_enemy_ramp_pumpkin_under_black_picnic_oven
+bip_39_word_underscore_9: bind_enemy_ramp_pumpkin_under_black_picnic_oven_wine
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +356,22 @@ id_no_color: 8_mm_length_hex_head
 id_no_size: black_8_mm_length_hex_head
 id_no_type: m6_black_8_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205qyu7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205qyu7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205qyu7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +398,26 @@ name_no_color: 8 mm Length Hex Head
 name_no_size: Black 8 mm Length Hex Head
 name_no_size_short: Black 8 Mm Length Hex Head
 name_no_type: M6 Black 8 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 8 mm
+oomlout_bolt_length_no_unit: '8'
+oomlout_bolt_md5_6_alpha_first_3: 5qy
+oomlout_bolt_md5_6_alpha_first_3_upper: 5QY
+oomlout_bolt_md5_6_alpha_last_3: u7
+oomlout_bolt_md5_6_alpha_last_3_upper: U7
+oomlout_bolt_md5_6_first_3: '935'
+oomlout_bolt_md5_6_first_3_upper: '935'
+oomlout_bolt_md5_6_last_3: 7df
+oomlout_bolt_md5_6_last_3_upper: 7DF
+oomlout_bolt_name: Socket Cap M6X8 mm Black (Hex Head)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc6b8h
+oomlout_short_code_upper: SC6B8H
 oomp_id: hardware_screw_socket_cap_m6_black_8_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m6_black_8_mm_length_hex_head
 oomp_word: books rat fountain
@@ -189,12 +442,22 @@ price_1: '0.0596'
 price_100: '0.0596'
 price_1000: '0.0265'
 price_10000: '0.0265'
+price_10000_distributor_1: '0.0265'
 price_10000_distributor_orbital_fasteners: '0.0265'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0265'
 price_1000_distributor_orbital_fasteners: '0.0265'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0596'
 price_100_distributor_orbital_fasteners: '0.0596'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0596'
 price_1_distributor_orbital_fasteners: '0.0596'
+price_1_name: orbital_fasteners
 price_200: '0.0331'
+price_200_distributor_1: '0.0331'
 price_200_distributor_orbital_fasteners: '0.0331'
+price_200_name: orbital_fasteners
 price_current: '0.0331'
 quantity_current: '200'
 short_code: sc6b8h

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: habit
+bip_39_word_dash_10: habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay
+bip_39_word_dash_11: habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay-armor
+bip_39_word_dash_12: habit-bitter-salon-boy-face-audit-bomb-sport-tower-okay-armor-asthma
+bip_39_word_dash_2: habit-bitter
+bip_39_word_dash_3: habit-bitter-salon
+bip_39_word_dash_4: habit-bitter-salon-boy
+bip_39_word_dash_5: habit-bitter-salon-boy-face
+bip_39_word_dash_6: habit-bitter-salon-boy-face-audit
+bip_39_word_dash_7: habit-bitter-salon-boy-face-audit-bomb
+bip_39_word_dash_8: habit-bitter-salon-boy-face-audit-bomb-sport
+bip_39_word_dash_9: habit-bitter-salon-boy-face-audit-bomb-sport-tower
+bip_39_word_new_br_1: habit
+bip_39_word_new_br_10: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower<br>okay
+bip_39_word_new_br_11: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower<br>okay<br>armor
+bip_39_word_new_br_12: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower<br>okay<br>armor<br>asthma
+bip_39_word_new_br_2: habit<br>bitter
+bip_39_word_new_br_3: habit<br>bitter<br>salon
+bip_39_word_new_br_4: habit<br>bitter<br>salon<br>boy
+bip_39_word_new_br_5: habit<br>bitter<br>salon<br>boy<br>face
+bip_39_word_new_br_6: habit<br>bitter<br>salon<br>boy<br>face<br>audit
+bip_39_word_new_br_7: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb
+bip_39_word_new_br_8: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport
+bip_39_word_new_br_9: habit<br>bitter<br>salon<br>boy<br>face<br>audit<br>bomb<br>sport<br>tower
+bip_39_word_new_line_1: habit
+bip_39_word_new_line_10: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb
+
+  sport
+
+  tower
+
+  okay'
+bip_39_word_new_line_11: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb
+
+  sport
+
+  tower
+
+  okay
+
+  armor'
+bip_39_word_new_line_12: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb
+
+  sport
+
+  tower
+
+  okay
+
+  armor
+
+  asthma'
+bip_39_word_new_line_2: 'habit
+
+  bitter'
+bip_39_word_new_line_3: 'habit
+
+  bitter
+
+  salon'
+bip_39_word_new_line_4: 'habit
+
+  bitter
+
+  salon
+
+  boy'
+bip_39_word_new_line_5: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face'
+bip_39_word_new_line_6: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit'
+bip_39_word_new_line_7: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb'
+bip_39_word_new_line_8: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb
+
+  sport'
+bip_39_word_new_line_9: 'habit
+
+  bitter
+
+  salon
+
+  boy
+
+  face
+
+  audit
+
+  bomb
+
+  sport
+
+  tower'
+bip_39_word_no_space_1: habit
+bip_39_word_no_space_10: habitbittersalonboyfaceauditbombsporttowerokay
+bip_39_word_no_space_11: habitbittersalonboyfaceauditbombsporttowerokayarmor
+bip_39_word_no_space_12: habitbittersalonboyfaceauditbombsporttowerokayarmorasthma
+bip_39_word_no_space_2: habitbitter
+bip_39_word_no_space_3: habitbittersalon
+bip_39_word_no_space_4: habitbittersalonboy
+bip_39_word_no_space_5: habitbittersalonboyface
+bip_39_word_no_space_6: habitbittersalonboyfaceaudit
+bip_39_word_no_space_7: habitbittersalonboyfaceauditbomb
+bip_39_word_no_space_8: habitbittersalonboyfaceauditbombsport
+bip_39_word_no_space_9: habitbittersalonboyfaceauditbombsporttower
+bip_39_word_space_0:
+- habit
+- bitter
+- salon
+- boy
+- face
+- audit
+- bomb
+- sport
+- tower
+- okay
+- armor
+- asthma
+bip_39_word_space_1: habit
+bip_39_word_space_10: habit bitter salon boy face audit bomb sport tower okay
+bip_39_word_space_11: habit bitter salon boy face audit bomb sport tower okay armor
+bip_39_word_space_12: habit bitter salon boy face audit bomb sport tower okay armor
+  asthma
+bip_39_word_space_2: habit bitter
+bip_39_word_space_3: habit bitter salon
+bip_39_word_space_4: habit bitter salon boy
+bip_39_word_space_5: habit bitter salon boy face
+bip_39_word_space_6: habit bitter salon boy face audit
+bip_39_word_space_7: habit bitter salon boy face audit bomb
+bip_39_word_space_8: habit bitter salon boy face audit bomb sport
+bip_39_word_space_9: habit bitter salon boy face audit bomb sport tower
+bip_39_word_underscore_1: habit
+bip_39_word_underscore_10: habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay
+bip_39_word_underscore_11: habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay_armor
+bip_39_word_underscore_12: habit_bitter_salon_boy_face_audit_bomb_sport_tower_okay_armor_asthma
+bip_39_word_underscore_2: habit_bitter
+bip_39_word_underscore_3: habit_bitter_salon
+bip_39_word_underscore_4: habit_bitter_salon_boy
+bip_39_word_underscore_5: habit_bitter_salon_boy_face
+bip_39_word_underscore_6: habit_bitter_salon_boy_face_audit
+bip_39_word_underscore_7: habit_bitter_salon_boy_face_audit_bomb
+bip_39_word_underscore_8: habit_bitter_salon_boy_face_audit_bomb_sport
+bip_39_word_underscore_9: habit_bitter_salon_boy_face_audit_bomb_sport_tower
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -109,7 +327,14 @@ id_no_color: 20_mm_length
 id_no_size: nylon_white_20_mm_length
 id_no_type: m3_id_7_mm_od_nylon_white_20_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_20_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_20_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_20_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208qrxi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208qrxi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208qrxi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +360,27 @@ name_no_color: 20 mm Length
 name_no_size: Nylon White 20 mm Length
 name_no_size_short: Nylon White 20 Mm Length
 name_no_type: M3 ID 7 mm OD Nylon White 20 mm Length
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 20 mm
+oomlout_bolt_length_no_unit: '20'
+oomlout_bolt_md5_6_alpha_first_3: 8qr
+oomlout_bolt_md5_6_alpha_first_3_upper: 8QR
+oomlout_bolt_md5_6_alpha_last_3: xi
+oomlout_bolt_md5_6_alpha_last_3_upper: XI
+oomlout_bolt_md5_6_first_3: e01
+oomlout_bolt_md5_6_first_3_upper: E01
+oomlout_bolt_md5_6_last_3: 7e6
+oomlout_bolt_md5_6_last_3_upper: 7E6
+oomlout_bolt_name: Spacer M3X7X20 mm  (Bolt)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M3X7
+oomlout_bolt_type: Spacer
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sp3x7nw20
+oomlout_short_code_upper: SP3X7NW20
 oomp_key: oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_20_mm_length
 oomp_word: ship thumbsdown airplane
 oomp_word_emoji: ':ship: :thumbsdown: :airplane:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 01 06 27
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_01_06_27
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :one: :whale: :scissors:
 * md5_6_alpha: 9ge4w
 * md5_6: f25490
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209ge4w)
+[2x1](http://192.168.1.242:1112/?label=oomp%209ge4w)
+[6x4](http://192.168.1.55:1112/?label=oomp%209ge4w)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_27) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_27)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ wrap |
 | id_no_color | 010627 |  
 | id_no_size | 01_06_27 |  
 | id_no_type | tray_01_06_27 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_27 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_27 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_27 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209ge4w |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209ge4w |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209ge4w |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ wrap |
 | name_no_size | 01 06 27 |  
 | name_no_size_short | 01 06 27 |  
 | name_no_type | Tray 01 06 27 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_01_06_27 |  
 | oomp_word | one whale scissors |  
 | oomp_word_emoji | :one: :whale: :scissors: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 10 mm Green Tint
+* name_short: 
 ### id
 * oomp_id: electronic_led_10_mm_green_tint
   * classification: electronic

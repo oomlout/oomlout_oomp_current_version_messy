@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 0603
+* name_short: 
 ### id
 * oomp_id: electronic_led_0603
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :camel: :sparkles: :cactus:
 * md5_6_alpha: 2jdyh
 * md5_6: 410f69
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202jdyh)
+[2x1](http://192.168.1.242:1112/?label=oomp%202jdyh)
+[6x4](http://192.168.1.55:1112/?label=oomp%202jdyh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -235,7 +261,14 @@ capital |
 | id_no_size | 0603 |  
 | id_no_type | 0603 |  
 | kicad_reference | L |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_led_0603 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202jdyh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202jdyh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202jdyh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -260,6 +293,7 @@ capital |
 | name_no_size | 0603 |  
 | name_no_size_short | 0603 |  
 | name_no_type | 0603 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0603 |  
 | oomp_word | camel sparkles cactus |  
 | oomp_word_emoji | :camel: :sparkles: :cactus: |  

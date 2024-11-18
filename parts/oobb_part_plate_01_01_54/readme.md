@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 01 01 54
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_01_01_54
   * classification: oobb

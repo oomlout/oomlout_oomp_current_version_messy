@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mutual
+bip_39_word_dash_10: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight
+bip_39_word_dash_11: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight-magic
+bip_39_word_dash_12: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat-sight-magic-addict
+bip_39_word_dash_2: mutual-cycle
+bip_39_word_dash_3: mutual-cycle-hollow
+bip_39_word_dash_4: mutual-cycle-hollow-waste
+bip_39_word_dash_5: mutual-cycle-hollow-waste-rural
+bip_39_word_dash_6: mutual-cycle-hollow-waste-rural-cabbage
+bip_39_word_dash_7: mutual-cycle-hollow-waste-rural-cabbage-mesh
+bip_39_word_dash_8: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit
+bip_39_word_dash_9: mutual-cycle-hollow-waste-rural-cabbage-mesh-edit-cat
+bip_39_word_new_br_1: mutual
+bip_39_word_new_br_10: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight
+bip_39_word_new_br_11: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic
+bip_39_word_new_br_12: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat<br>sight<br>magic<br>addict
+bip_39_word_new_br_2: mutual<br>cycle
+bip_39_word_new_br_3: mutual<br>cycle<br>hollow
+bip_39_word_new_br_4: mutual<br>cycle<br>hollow<br>waste
+bip_39_word_new_br_5: mutual<br>cycle<br>hollow<br>waste<br>rural
+bip_39_word_new_br_6: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage
+bip_39_word_new_br_7: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh
+bip_39_word_new_br_8: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit
+bip_39_word_new_br_9: mutual<br>cycle<br>hollow<br>waste<br>rural<br>cabbage<br>mesh<br>edit<br>cat
+bip_39_word_new_line_1: mutual
+bip_39_word_new_line_10: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh
+
+  edit
+
+  cat
+
+  sight'
+bip_39_word_new_line_11: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh
+
+  edit
+
+  cat
+
+  sight
+
+  magic'
+bip_39_word_new_line_12: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh
+
+  edit
+
+  cat
+
+  sight
+
+  magic
+
+  addict'
+bip_39_word_new_line_2: 'mutual
+
+  cycle'
+bip_39_word_new_line_3: 'mutual
+
+  cycle
+
+  hollow'
+bip_39_word_new_line_4: 'mutual
+
+  cycle
+
+  hollow
+
+  waste'
+bip_39_word_new_line_5: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural'
+bip_39_word_new_line_6: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage'
+bip_39_word_new_line_7: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh'
+bip_39_word_new_line_8: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh
+
+  edit'
+bip_39_word_new_line_9: 'mutual
+
+  cycle
+
+  hollow
+
+  waste
+
+  rural
+
+  cabbage
+
+  mesh
+
+  edit
+
+  cat'
+bip_39_word_no_space_1: mutual
+bip_39_word_no_space_10: mutualcyclehollowwasteruralcabbagemesheditcatsight
+bip_39_word_no_space_11: mutualcyclehollowwasteruralcabbagemesheditcatsightmagic
+bip_39_word_no_space_12: mutualcyclehollowwasteruralcabbagemesheditcatsightmagicaddict
+bip_39_word_no_space_2: mutualcycle
+bip_39_word_no_space_3: mutualcyclehollow
+bip_39_word_no_space_4: mutualcyclehollowwaste
+bip_39_word_no_space_5: mutualcyclehollowwasterural
+bip_39_word_no_space_6: mutualcyclehollowwasteruralcabbage
+bip_39_word_no_space_7: mutualcyclehollowwasteruralcabbagemesh
+bip_39_word_no_space_8: mutualcyclehollowwasteruralcabbagemeshedit
+bip_39_word_no_space_9: mutualcyclehollowwasteruralcabbagemesheditcat
+bip_39_word_space_0:
+- mutual
+- cycle
+- hollow
+- waste
+- rural
+- cabbage
+- mesh
+- edit
+- cat
+- sight
+- magic
+- addict
+bip_39_word_space_1: mutual
+bip_39_word_space_10: mutual cycle hollow waste rural cabbage mesh edit cat sight
+bip_39_word_space_11: mutual cycle hollow waste rural cabbage mesh edit cat sight
+  magic
+bip_39_word_space_12: mutual cycle hollow waste rural cabbage mesh edit cat sight
+  magic addict
+bip_39_word_space_2: mutual cycle
+bip_39_word_space_3: mutual cycle hollow
+bip_39_word_space_4: mutual cycle hollow waste
+bip_39_word_space_5: mutual cycle hollow waste rural
+bip_39_word_space_6: mutual cycle hollow waste rural cabbage
+bip_39_word_space_7: mutual cycle hollow waste rural cabbage mesh
+bip_39_word_space_8: mutual cycle hollow waste rural cabbage mesh edit
+bip_39_word_space_9: mutual cycle hollow waste rural cabbage mesh edit cat
+bip_39_word_underscore_1: mutual
+bip_39_word_underscore_10: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight
+bip_39_word_underscore_11: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight_magic
+bip_39_word_underscore_12: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat_sight_magic_addict
+bip_39_word_underscore_2: mutual_cycle
+bip_39_word_underscore_3: mutual_cycle_hollow
+bip_39_word_underscore_4: mutual_cycle_hollow_waste
+bip_39_word_underscore_5: mutual_cycle_hollow_waste_rural
+bip_39_word_underscore_6: mutual_cycle_hollow_waste_rural_cabbage
+bip_39_word_underscore_7: mutual_cycle_hollow_waste_rural_cabbage_mesh
+bip_39_word_underscore_8: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit
+bip_39_word_underscore_9: mutual_cycle_hollow_waste_rural_cabbage_mesh_edit_cat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_11_18
 id_no_color: 051118
 id_no_size: 05_11_18
 id_no_type: tray_05_11_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_11_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_11_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_11_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2022ieq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2022ieq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2022ieq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 051118
 name_no_size: 05 11 18
 name_no_size_short: 05 11 18
 name_no_type: Tray 05 11 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_11_18
 oomp_word: hamster sunglasses handbag
 oomp_word_emoji: ':hamster: :sunglasses: :handbag:'

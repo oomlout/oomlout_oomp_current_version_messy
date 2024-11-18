@@ -1,3 +1,223 @@
+bip_39_word_dash_1: fatigue
+bip_39_word_dash_10: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp
+bip_39_word_dash_11: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp-fuel
+bip_39_word_dash_12: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave-crisp-fuel-acoustic
+bip_39_word_dash_2: fatigue-discover
+bip_39_word_dash_3: fatigue-discover-roof
+bip_39_word_dash_4: fatigue-discover-roof-tiger
+bip_39_word_dash_5: fatigue-discover-roof-tiger-antique
+bip_39_word_dash_6: fatigue-discover-roof-tiger-antique-east
+bip_39_word_dash_7: fatigue-discover-roof-tiger-antique-east-wealth
+bip_39_word_dash_8: fatigue-discover-roof-tiger-antique-east-wealth-amazing
+bip_39_word_dash_9: fatigue-discover-roof-tiger-antique-east-wealth-amazing-wave
+bip_39_word_new_br_1: fatigue
+bip_39_word_new_br_10: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave<br>crisp
+bip_39_word_new_br_11: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave<br>crisp<br>fuel
+bip_39_word_new_br_12: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave<br>crisp<br>fuel<br>acoustic
+bip_39_word_new_br_2: fatigue<br>discover
+bip_39_word_new_br_3: fatigue<br>discover<br>roof
+bip_39_word_new_br_4: fatigue<br>discover<br>roof<br>tiger
+bip_39_word_new_br_5: fatigue<br>discover<br>roof<br>tiger<br>antique
+bip_39_word_new_br_6: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east
+bip_39_word_new_br_7: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth
+bip_39_word_new_br_8: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing
+bip_39_word_new_br_9: fatigue<br>discover<br>roof<br>tiger<br>antique<br>east<br>wealth<br>amazing<br>wave
+bip_39_word_new_line_1: fatigue
+bip_39_word_new_line_10: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth
+
+  amazing
+
+  wave
+
+  crisp'
+bip_39_word_new_line_11: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth
+
+  amazing
+
+  wave
+
+  crisp
+
+  fuel'
+bip_39_word_new_line_12: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth
+
+  amazing
+
+  wave
+
+  crisp
+
+  fuel
+
+  acoustic'
+bip_39_word_new_line_2: 'fatigue
+
+  discover'
+bip_39_word_new_line_3: 'fatigue
+
+  discover
+
+  roof'
+bip_39_word_new_line_4: 'fatigue
+
+  discover
+
+  roof
+
+  tiger'
+bip_39_word_new_line_5: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique'
+bip_39_word_new_line_6: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east'
+bip_39_word_new_line_7: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth'
+bip_39_word_new_line_8: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth
+
+  amazing'
+bip_39_word_new_line_9: 'fatigue
+
+  discover
+
+  roof
+
+  tiger
+
+  antique
+
+  east
+
+  wealth
+
+  amazing
+
+  wave'
+bip_39_word_no_space_1: fatigue
+bip_39_word_no_space_10: fatiguediscoverrooftigerantiqueeastwealthamazingwavecrisp
+bip_39_word_no_space_11: fatiguediscoverrooftigerantiqueeastwealthamazingwavecrispfuel
+bip_39_word_no_space_12: fatiguediscoverrooftigerantiqueeastwealthamazingwavecrispfuelacoustic
+bip_39_word_no_space_2: fatiguediscover
+bip_39_word_no_space_3: fatiguediscoverroof
+bip_39_word_no_space_4: fatiguediscoverrooftiger
+bip_39_word_no_space_5: fatiguediscoverrooftigerantique
+bip_39_word_no_space_6: fatiguediscoverrooftigerantiqueeast
+bip_39_word_no_space_7: fatiguediscoverrooftigerantiqueeastwealth
+bip_39_word_no_space_8: fatiguediscoverrooftigerantiqueeastwealthamazing
+bip_39_word_no_space_9: fatiguediscoverrooftigerantiqueeastwealthamazingwave
+bip_39_word_space_0:
+- fatigue
+- discover
+- roof
+- tiger
+- antique
+- east
+- wealth
+- amazing
+- wave
+- crisp
+- fuel
+- acoustic
+bip_39_word_space_1: fatigue
+bip_39_word_space_10: fatigue discover roof tiger antique east wealth amazing wave
+  crisp
+bip_39_word_space_11: fatigue discover roof tiger antique east wealth amazing wave
+  crisp fuel
+bip_39_word_space_12: fatigue discover roof tiger antique east wealth amazing wave
+  crisp fuel acoustic
+bip_39_word_space_2: fatigue discover
+bip_39_word_space_3: fatigue discover roof
+bip_39_word_space_4: fatigue discover roof tiger
+bip_39_word_space_5: fatigue discover roof tiger antique
+bip_39_word_space_6: fatigue discover roof tiger antique east
+bip_39_word_space_7: fatigue discover roof tiger antique east wealth
+bip_39_word_space_8: fatigue discover roof tiger antique east wealth amazing
+bip_39_word_space_9: fatigue discover roof tiger antique east wealth amazing wave
+bip_39_word_underscore_1: fatigue
+bip_39_word_underscore_10: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp
+bip_39_word_underscore_11: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp_fuel
+bip_39_word_underscore_12: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave_crisp_fuel_acoustic
+bip_39_word_underscore_2: fatigue_discover
+bip_39_word_underscore_3: fatigue_discover_roof
+bip_39_word_underscore_4: fatigue_discover_roof_tiger
+bip_39_word_underscore_5: fatigue_discover_roof_tiger_antique
+bip_39_word_underscore_6: fatigue_discover_roof_tiger_antique_east
+bip_39_word_underscore_7: fatigue_discover_roof_tiger_antique_east_wealth
+bip_39_word_underscore_8: fatigue_discover_roof_tiger_antique_east_wealth_amazing
+bip_39_word_underscore_9: fatigue_discover_roof_tiger_antique_east_wealth_amazing_wave
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_05_01__6
 id_no_color: '05016'
 id_no_size: '05_01__6'
 id_no_type: bunting_alphabet_05_01__6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019z9o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019z9o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019z9o
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: '05016'
 name_no_size: 05 01  6
 name_no_size_short: 05 01  6
 name_no_type: Bunting Alphabet 05 01  6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__6
 oomp_word: skull curry watermelon
 oomp_word_emoji: ':skull: :curry: :watermelon:'

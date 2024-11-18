@@ -1,3 +1,222 @@
+bip_39_word_dash_1: local
+bip_39_word_dash_10: local-sleep-company-sell-actual-snack-hurry-home-trick-cereal
+bip_39_word_dash_11: local-sleep-company-sell-actual-snack-hurry-home-trick-cereal-clinic
+bip_39_word_dash_12: local-sleep-company-sell-actual-snack-hurry-home-trick-cereal-clinic-agent
+bip_39_word_dash_2: local-sleep
+bip_39_word_dash_3: local-sleep-company
+bip_39_word_dash_4: local-sleep-company-sell
+bip_39_word_dash_5: local-sleep-company-sell-actual
+bip_39_word_dash_6: local-sleep-company-sell-actual-snack
+bip_39_word_dash_7: local-sleep-company-sell-actual-snack-hurry
+bip_39_word_dash_8: local-sleep-company-sell-actual-snack-hurry-home
+bip_39_word_dash_9: local-sleep-company-sell-actual-snack-hurry-home-trick
+bip_39_word_new_br_1: local
+bip_39_word_new_br_10: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal
+bip_39_word_new_br_11: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal<br>clinic
+bip_39_word_new_br_12: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick<br>cereal<br>clinic<br>agent
+bip_39_word_new_br_2: local<br>sleep
+bip_39_word_new_br_3: local<br>sleep<br>company
+bip_39_word_new_br_4: local<br>sleep<br>company<br>sell
+bip_39_word_new_br_5: local<br>sleep<br>company<br>sell<br>actual
+bip_39_word_new_br_6: local<br>sleep<br>company<br>sell<br>actual<br>snack
+bip_39_word_new_br_7: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry
+bip_39_word_new_br_8: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home
+bip_39_word_new_br_9: local<br>sleep<br>company<br>sell<br>actual<br>snack<br>hurry<br>home<br>trick
+bip_39_word_new_line_1: local
+bip_39_word_new_line_10: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry
+
+  home
+
+  trick
+
+  cereal'
+bip_39_word_new_line_11: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry
+
+  home
+
+  trick
+
+  cereal
+
+  clinic'
+bip_39_word_new_line_12: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry
+
+  home
+
+  trick
+
+  cereal
+
+  clinic
+
+  agent'
+bip_39_word_new_line_2: 'local
+
+  sleep'
+bip_39_word_new_line_3: 'local
+
+  sleep
+
+  company'
+bip_39_word_new_line_4: 'local
+
+  sleep
+
+  company
+
+  sell'
+bip_39_word_new_line_5: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual'
+bip_39_word_new_line_6: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack'
+bip_39_word_new_line_7: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry'
+bip_39_word_new_line_8: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry
+
+  home'
+bip_39_word_new_line_9: 'local
+
+  sleep
+
+  company
+
+  sell
+
+  actual
+
+  snack
+
+  hurry
+
+  home
+
+  trick'
+bip_39_word_no_space_1: local
+bip_39_word_no_space_10: localsleepcompanysellactualsnackhurryhometrickcereal
+bip_39_word_no_space_11: localsleepcompanysellactualsnackhurryhometrickcerealclinic
+bip_39_word_no_space_12: localsleepcompanysellactualsnackhurryhometrickcerealclinicagent
+bip_39_word_no_space_2: localsleep
+bip_39_word_no_space_3: localsleepcompany
+bip_39_word_no_space_4: localsleepcompanysell
+bip_39_word_no_space_5: localsleepcompanysellactual
+bip_39_word_no_space_6: localsleepcompanysellactualsnack
+bip_39_word_no_space_7: localsleepcompanysellactualsnackhurry
+bip_39_word_no_space_8: localsleepcompanysellactualsnackhurryhome
+bip_39_word_no_space_9: localsleepcompanysellactualsnackhurryhometrick
+bip_39_word_space_0:
+- local
+- sleep
+- company
+- sell
+- actual
+- snack
+- hurry
+- home
+- trick
+- cereal
+- clinic
+- agent
+bip_39_word_space_1: local
+bip_39_word_space_10: local sleep company sell actual snack hurry home trick cereal
+bip_39_word_space_11: local sleep company sell actual snack hurry home trick cereal
+  clinic
+bip_39_word_space_12: local sleep company sell actual snack hurry home trick cereal
+  clinic agent
+bip_39_word_space_2: local sleep
+bip_39_word_space_3: local sleep company
+bip_39_word_space_4: local sleep company sell
+bip_39_word_space_5: local sleep company sell actual
+bip_39_word_space_6: local sleep company sell actual snack
+bip_39_word_space_7: local sleep company sell actual snack hurry
+bip_39_word_space_8: local sleep company sell actual snack hurry home
+bip_39_word_space_9: local sleep company sell actual snack hurry home trick
+bip_39_word_underscore_1: local
+bip_39_word_underscore_10: local_sleep_company_sell_actual_snack_hurry_home_trick_cereal
+bip_39_word_underscore_11: local_sleep_company_sell_actual_snack_hurry_home_trick_cereal_clinic
+bip_39_word_underscore_12: local_sleep_company_sell_actual_snack_hurry_home_trick_cereal_clinic_agent
+bip_39_word_underscore_2: local_sleep
+bip_39_word_underscore_3: local_sleep_company
+bip_39_word_underscore_4: local_sleep_company_sell
+bip_39_word_underscore_5: local_sleep_company_sell_actual
+bip_39_word_underscore_6: local_sleep_company_sell_actual_snack
+bip_39_word_underscore_7: local_sleep_company_sell_actual_snack_hurry
+bip_39_word_underscore_8: local_sleep_company_sell_actual_snack_hurry_home
+bip_39_word_underscore_9: local_sleep_company_sell_actual_snack_hurry_home_trick
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
 id_no_color: 7_mm_id_22_mm_od_7_mm_depth
 id_no_size: F627_size_7_mm_id_22_mm_od_7_mm_depth
 id_no_type: F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20321c9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20321c9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20321c9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 7 mm ID 22 mm OD 7 mm Depth
 name_no_size: F627 Size 7 mm ID 22 mm OD 7 mm Depth
 name_no_size_short: F627 Size 7 Mm Id 22 Mm Od 7 Mm Depth
 name_no_type: F600 Series F627 Size 7 mm ID 22 mm OD 7 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brF627
+oomlout_short_code_upper: BRF627
 oomp_key: oomp_hardware_bearing_F600_series_F627_size_7_mm_id_22_mm_od_7_mm_depth
 oomp_word: honeybee ram hatching_chick
 oomp_word_emoji: ':honeybee: :ram: :hatching_chick:'

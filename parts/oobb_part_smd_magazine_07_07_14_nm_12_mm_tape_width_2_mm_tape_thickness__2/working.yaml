@@ -1,3 +1,223 @@
+bip_39_word_dash_1: federal
+bip_39_word_dash_10: federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen
+bip_39_word_dash_11: federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen-feed
+bip_39_word_dash_12: federal-decline-rigid-moon-utility-illegal-argue-neglect-east-kitchen-feed-arrest
+bip_39_word_dash_2: federal-decline
+bip_39_word_dash_3: federal-decline-rigid
+bip_39_word_dash_4: federal-decline-rigid-moon
+bip_39_word_dash_5: federal-decline-rigid-moon-utility
+bip_39_word_dash_6: federal-decline-rigid-moon-utility-illegal
+bip_39_word_dash_7: federal-decline-rigid-moon-utility-illegal-argue
+bip_39_word_dash_8: federal-decline-rigid-moon-utility-illegal-argue-neglect
+bip_39_word_dash_9: federal-decline-rigid-moon-utility-illegal-argue-neglect-east
+bip_39_word_new_br_1: federal
+bip_39_word_new_br_10: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east<br>kitchen
+bip_39_word_new_br_11: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east<br>kitchen<br>feed
+bip_39_word_new_br_12: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east<br>kitchen<br>feed<br>arrest
+bip_39_word_new_br_2: federal<br>decline
+bip_39_word_new_br_3: federal<br>decline<br>rigid
+bip_39_word_new_br_4: federal<br>decline<br>rigid<br>moon
+bip_39_word_new_br_5: federal<br>decline<br>rigid<br>moon<br>utility
+bip_39_word_new_br_6: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal
+bip_39_word_new_br_7: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue
+bip_39_word_new_br_8: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect
+bip_39_word_new_br_9: federal<br>decline<br>rigid<br>moon<br>utility<br>illegal<br>argue<br>neglect<br>east
+bip_39_word_new_line_1: federal
+bip_39_word_new_line_10: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue
+
+  neglect
+
+  east
+
+  kitchen'
+bip_39_word_new_line_11: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue
+
+  neglect
+
+  east
+
+  kitchen
+
+  feed'
+bip_39_word_new_line_12: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue
+
+  neglect
+
+  east
+
+  kitchen
+
+  feed
+
+  arrest'
+bip_39_word_new_line_2: 'federal
+
+  decline'
+bip_39_word_new_line_3: 'federal
+
+  decline
+
+  rigid'
+bip_39_word_new_line_4: 'federal
+
+  decline
+
+  rigid
+
+  moon'
+bip_39_word_new_line_5: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility'
+bip_39_word_new_line_6: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal'
+bip_39_word_new_line_7: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue'
+bip_39_word_new_line_8: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue
+
+  neglect'
+bip_39_word_new_line_9: 'federal
+
+  decline
+
+  rigid
+
+  moon
+
+  utility
+
+  illegal
+
+  argue
+
+  neglect
+
+  east'
+bip_39_word_no_space_1: federal
+bip_39_word_no_space_10: federaldeclinerigidmoonutilityillegalargueneglecteastkitchen
+bip_39_word_no_space_11: federaldeclinerigidmoonutilityillegalargueneglecteastkitchenfeed
+bip_39_word_no_space_12: federaldeclinerigidmoonutilityillegalargueneglecteastkitchenfeedarrest
+bip_39_word_no_space_2: federaldecline
+bip_39_word_no_space_3: federaldeclinerigid
+bip_39_word_no_space_4: federaldeclinerigidmoon
+bip_39_word_no_space_5: federaldeclinerigidmoonutility
+bip_39_word_no_space_6: federaldeclinerigidmoonutilityillegal
+bip_39_word_no_space_7: federaldeclinerigidmoonutilityillegalargue
+bip_39_word_no_space_8: federaldeclinerigidmoonutilityillegalargueneglect
+bip_39_word_no_space_9: federaldeclinerigidmoonutilityillegalargueneglecteast
+bip_39_word_space_0:
+- federal
+- decline
+- rigid
+- moon
+- utility
+- illegal
+- argue
+- neglect
+- east
+- kitchen
+- feed
+- arrest
+bip_39_word_space_1: federal
+bip_39_word_space_10: federal decline rigid moon utility illegal argue neglect east
+  kitchen
+bip_39_word_space_11: federal decline rigid moon utility illegal argue neglect east
+  kitchen feed
+bip_39_word_space_12: federal decline rigid moon utility illegal argue neglect east
+  kitchen feed arrest
+bip_39_word_space_2: federal decline
+bip_39_word_space_3: federal decline rigid
+bip_39_word_space_4: federal decline rigid moon
+bip_39_word_space_5: federal decline rigid moon utility
+bip_39_word_space_6: federal decline rigid moon utility illegal
+bip_39_word_space_7: federal decline rigid moon utility illegal argue
+bip_39_word_space_8: federal decline rigid moon utility illegal argue neglect
+bip_39_word_space_9: federal decline rigid moon utility illegal argue neglect east
+bip_39_word_underscore_1: federal
+bip_39_word_underscore_10: federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen
+bip_39_word_underscore_11: federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen_feed
+bip_39_word_underscore_12: federal_decline_rigid_moon_utility_illegal_argue_neglect_east_kitchen_feed_arrest
+bip_39_word_underscore_2: federal_decline
+bip_39_word_underscore_3: federal_decline_rigid
+bip_39_word_underscore_4: federal_decline_rigid_moon
+bip_39_word_underscore_5: federal_decline_rigid_moon_utility
+bip_39_word_underscore_6: federal_decline_rigid_moon_utility_illegal
+bip_39_word_underscore_7: federal_decline_rigid_moon_utility_illegal_argue
+bip_39_word_underscore_8: federal_decline_rigid_moon_utility_illegal_argue_neglect
+bip_39_word_underscore_9: federal_decline_rigid_moon_utility_illegal_argue_neglect_east
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness_
 id_no_color: 070714nm12mmtapewidth2mmtapethickness2
 id_no_size: 07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
 id_no_type: smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207r1we
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207r1we
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207r1we
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 070714Nm12mmtapewidth2mmtapethickness2
 name_no_size: 07 07 14 Nm 12 mm Tape Width 2 mm Tape Thickness  2
 name_no_size_short: 07 07 14 Nm 12 Mm Tape Width 2 Mm Tape Thickness  2
 name_no_type: SMD Magazine 07 07 14 Nm 12 mm Tape Width 2 mm Tape Thickness  2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_2_mm_tape_thickness__2
 oomp_word: lollipop sandal crocodile
 oomp_word_emoji: ':lollipop: :sandal: :crocodile:'

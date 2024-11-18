@@ -1,3 +1,223 @@
+bip_39_word_dash_1: reform
+bip_39_word_dash_10: reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk
+bip_39_word_dash_11: reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk-exotic
+bip_39_word_dash_12: reform-garlic-parent-lift-solve-motor-toddler-quick-promote-chalk-exotic-asset
+bip_39_word_dash_2: reform-garlic
+bip_39_word_dash_3: reform-garlic-parent
+bip_39_word_dash_4: reform-garlic-parent-lift
+bip_39_word_dash_5: reform-garlic-parent-lift-solve
+bip_39_word_dash_6: reform-garlic-parent-lift-solve-motor
+bip_39_word_dash_7: reform-garlic-parent-lift-solve-motor-toddler
+bip_39_word_dash_8: reform-garlic-parent-lift-solve-motor-toddler-quick
+bip_39_word_dash_9: reform-garlic-parent-lift-solve-motor-toddler-quick-promote
+bip_39_word_new_br_1: reform
+bip_39_word_new_br_10: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk
+bip_39_word_new_br_11: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk<br>exotic
+bip_39_word_new_br_12: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote<br>chalk<br>exotic<br>asset
+bip_39_word_new_br_2: reform<br>garlic
+bip_39_word_new_br_3: reform<br>garlic<br>parent
+bip_39_word_new_br_4: reform<br>garlic<br>parent<br>lift
+bip_39_word_new_br_5: reform<br>garlic<br>parent<br>lift<br>solve
+bip_39_word_new_br_6: reform<br>garlic<br>parent<br>lift<br>solve<br>motor
+bip_39_word_new_br_7: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler
+bip_39_word_new_br_8: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick
+bip_39_word_new_br_9: reform<br>garlic<br>parent<br>lift<br>solve<br>motor<br>toddler<br>quick<br>promote
+bip_39_word_new_line_1: reform
+bip_39_word_new_line_10: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk'
+bip_39_word_new_line_11: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk
+
+  exotic'
+bip_39_word_new_line_12: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote
+
+  chalk
+
+  exotic
+
+  asset'
+bip_39_word_new_line_2: 'reform
+
+  garlic'
+bip_39_word_new_line_3: 'reform
+
+  garlic
+
+  parent'
+bip_39_word_new_line_4: 'reform
+
+  garlic
+
+  parent
+
+  lift'
+bip_39_word_new_line_5: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve'
+bip_39_word_new_line_6: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor'
+bip_39_word_new_line_7: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler'
+bip_39_word_new_line_8: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick'
+bip_39_word_new_line_9: 'reform
+
+  garlic
+
+  parent
+
+  lift
+
+  solve
+
+  motor
+
+  toddler
+
+  quick
+
+  promote'
+bip_39_word_no_space_1: reform
+bip_39_word_no_space_10: reformgarlicparentliftsolvemotortoddlerquickpromotechalk
+bip_39_word_no_space_11: reformgarlicparentliftsolvemotortoddlerquickpromotechalkexotic
+bip_39_word_no_space_12: reformgarlicparentliftsolvemotortoddlerquickpromotechalkexoticasset
+bip_39_word_no_space_2: reformgarlic
+bip_39_word_no_space_3: reformgarlicparent
+bip_39_word_no_space_4: reformgarlicparentlift
+bip_39_word_no_space_5: reformgarlicparentliftsolve
+bip_39_word_no_space_6: reformgarlicparentliftsolvemotor
+bip_39_word_no_space_7: reformgarlicparentliftsolvemotortoddler
+bip_39_word_no_space_8: reformgarlicparentliftsolvemotortoddlerquick
+bip_39_word_no_space_9: reformgarlicparentliftsolvemotortoddlerquickpromote
+bip_39_word_space_0:
+- reform
+- garlic
+- parent
+- lift
+- solve
+- motor
+- toddler
+- quick
+- promote
+- chalk
+- exotic
+- asset
+bip_39_word_space_1: reform
+bip_39_word_space_10: reform garlic parent lift solve motor toddler quick promote
+  chalk
+bip_39_word_space_11: reform garlic parent lift solve motor toddler quick promote
+  chalk exotic
+bip_39_word_space_12: reform garlic parent lift solve motor toddler quick promote
+  chalk exotic asset
+bip_39_word_space_2: reform garlic
+bip_39_word_space_3: reform garlic parent
+bip_39_word_space_4: reform garlic parent lift
+bip_39_word_space_5: reform garlic parent lift solve
+bip_39_word_space_6: reform garlic parent lift solve motor
+bip_39_word_space_7: reform garlic parent lift solve motor toddler
+bip_39_word_space_8: reform garlic parent lift solve motor toddler quick
+bip_39_word_space_9: reform garlic parent lift solve motor toddler quick promote
+bip_39_word_underscore_1: reform
+bip_39_word_underscore_10: reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk
+bip_39_word_underscore_11: reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk_exotic
+bip_39_word_underscore_12: reform_garlic_parent_lift_solve_motor_toddler_quick_promote_chalk_exotic_asset
+bip_39_word_underscore_2: reform_garlic
+bip_39_word_underscore_3: reform_garlic_parent
+bip_39_word_underscore_4: reform_garlic_parent_lift
+bip_39_word_underscore_5: reform_garlic_parent_lift_solve
+bip_39_word_underscore_6: reform_garlic_parent_lift_solve_motor
+bip_39_word_underscore_7: reform_garlic_parent_lift_solve_motor_toddler
+bip_39_word_underscore_8: reform_garlic_parent_lift_solve_motor_toddler_quick
+bip_39_word_underscore_9: reform_garlic_parent_lift_solve_motor_toddler_quick_promote
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
 id_no_color: 7_mm_id_17_mm_od_5_mm_depth
 id_no_size: 697_size_7_mm_id_17_mm_od_5_mm_depth
 id_no_type: 600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208j3ex
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208j3ex
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208j3ex
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 7 mm ID 17 mm OD 5 mm Depth
 name_no_size: 697 Size 7 mm ID 17 mm OD 5 mm Depth
 name_no_size_short: 697 Size 7 Mm Id 17 Mm Od 5 Mm Depth
 name_no_type: 600 Series 697 Size 7 mm ID 17 mm OD 5 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br697
+oomlout_short_code_upper: BR697
 oomp_key: oomp_hardware_bearing_600_series_697_size_7_mm_id_17_mm_od_5_mm_depth
 oomp_word: hotel ring angry
 oomp_word_emoji: ':hotel: :ring: :angry:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 A popular arduino compatible atmega328 board from aliexpress
 
+### name
+* name: Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible
+* name_short: 
 ### id
 * oomp_id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible
   * classification: electronic
@@ -28,6 +31,29 @@ A popular arduino compatible atmega328 board from aliexpress
 * oomp_word_emoji :taxi: :new_moon: :sunflower:
 * md5_6_alpha: 983tw
 * md5_6: ec6e64
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20983tw)
+[2x1](http://192.168.1.242:1112/?label=oomp%20983tw)
+[6x4](http://192.168.1.55:1112/?label=oomp%20983tw)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,7 +308,14 @@ stem |
 | id_no_size | atmega328p_arduino_compatible |  
 | id_no_type | shennie_atmega328p_arduino_compatible |  
 | kicad_reference | BB |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20983tw |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20983tw |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20983tw |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -308,6 +341,7 @@ stem |
 | name_no_size_short | Atmega328P Arduino Compatible |  
 | name_no_type | Shennie Atmega328P Arduino Compatible |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible |  
 | oomp_word | taxi new_moon sunflower |  
 | oomp_word_emoji | :taxi: :new_moon: :sunflower: |  

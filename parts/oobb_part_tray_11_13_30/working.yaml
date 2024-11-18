@@ -1,3 +1,222 @@
+bip_39_word_dash_1: hand
+bip_39_word_dash_10: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain
+bip_39_word_dash_11: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain-father
+bip_39_word_dash_12: hand-rug-bean-drum-shy-resource-monitor-system-enhance-sustain-father-addict
+bip_39_word_dash_2: hand-rug
+bip_39_word_dash_3: hand-rug-bean
+bip_39_word_dash_4: hand-rug-bean-drum
+bip_39_word_dash_5: hand-rug-bean-drum-shy
+bip_39_word_dash_6: hand-rug-bean-drum-shy-resource
+bip_39_word_dash_7: hand-rug-bean-drum-shy-resource-monitor
+bip_39_word_dash_8: hand-rug-bean-drum-shy-resource-monitor-system
+bip_39_word_dash_9: hand-rug-bean-drum-shy-resource-monitor-system-enhance
+bip_39_word_new_br_1: hand
+bip_39_word_new_br_10: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance<br>sustain
+bip_39_word_new_br_11: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance<br>sustain<br>father
+bip_39_word_new_br_12: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance<br>sustain<br>father<br>addict
+bip_39_word_new_br_2: hand<br>rug
+bip_39_word_new_br_3: hand<br>rug<br>bean
+bip_39_word_new_br_4: hand<br>rug<br>bean<br>drum
+bip_39_word_new_br_5: hand<br>rug<br>bean<br>drum<br>shy
+bip_39_word_new_br_6: hand<br>rug<br>bean<br>drum<br>shy<br>resource
+bip_39_word_new_br_7: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor
+bip_39_word_new_br_8: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system
+bip_39_word_new_br_9: hand<br>rug<br>bean<br>drum<br>shy<br>resource<br>monitor<br>system<br>enhance
+bip_39_word_new_line_1: hand
+bip_39_word_new_line_10: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor
+
+  system
+
+  enhance
+
+  sustain'
+bip_39_word_new_line_11: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor
+
+  system
+
+  enhance
+
+  sustain
+
+  father'
+bip_39_word_new_line_12: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor
+
+  system
+
+  enhance
+
+  sustain
+
+  father
+
+  addict'
+bip_39_word_new_line_2: 'hand
+
+  rug'
+bip_39_word_new_line_3: 'hand
+
+  rug
+
+  bean'
+bip_39_word_new_line_4: 'hand
+
+  rug
+
+  bean
+
+  drum'
+bip_39_word_new_line_5: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy'
+bip_39_word_new_line_6: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource'
+bip_39_word_new_line_7: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor'
+bip_39_word_new_line_8: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor
+
+  system'
+bip_39_word_new_line_9: 'hand
+
+  rug
+
+  bean
+
+  drum
+
+  shy
+
+  resource
+
+  monitor
+
+  system
+
+  enhance'
+bip_39_word_no_space_1: hand
+bip_39_word_no_space_10: handrugbeandrumshyresourcemonitorsystemenhancesustain
+bip_39_word_no_space_11: handrugbeandrumshyresourcemonitorsystemenhancesustainfather
+bip_39_word_no_space_12: handrugbeandrumshyresourcemonitorsystemenhancesustainfatheraddict
+bip_39_word_no_space_2: handrug
+bip_39_word_no_space_3: handrugbean
+bip_39_word_no_space_4: handrugbeandrum
+bip_39_word_no_space_5: handrugbeandrumshy
+bip_39_word_no_space_6: handrugbeandrumshyresource
+bip_39_word_no_space_7: handrugbeandrumshyresourcemonitor
+bip_39_word_no_space_8: handrugbeandrumshyresourcemonitorsystem
+bip_39_word_no_space_9: handrugbeandrumshyresourcemonitorsystemenhance
+bip_39_word_space_0:
+- hand
+- rug
+- bean
+- drum
+- shy
+- resource
+- monitor
+- system
+- enhance
+- sustain
+- father
+- addict
+bip_39_word_space_1: hand
+bip_39_word_space_10: hand rug bean drum shy resource monitor system enhance sustain
+bip_39_word_space_11: hand rug bean drum shy resource monitor system enhance sustain
+  father
+bip_39_word_space_12: hand rug bean drum shy resource monitor system enhance sustain
+  father addict
+bip_39_word_space_2: hand rug
+bip_39_word_space_3: hand rug bean
+bip_39_word_space_4: hand rug bean drum
+bip_39_word_space_5: hand rug bean drum shy
+bip_39_word_space_6: hand rug bean drum shy resource
+bip_39_word_space_7: hand rug bean drum shy resource monitor
+bip_39_word_space_8: hand rug bean drum shy resource monitor system
+bip_39_word_space_9: hand rug bean drum shy resource monitor system enhance
+bip_39_word_underscore_1: hand
+bip_39_word_underscore_10: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain
+bip_39_word_underscore_11: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain_father
+bip_39_word_underscore_12: hand_rug_bean_drum_shy_resource_monitor_system_enhance_sustain_father_addict
+bip_39_word_underscore_2: hand_rug
+bip_39_word_underscore_3: hand_rug_bean
+bip_39_word_underscore_4: hand_rug_bean_drum
+bip_39_word_underscore_5: hand_rug_bean_drum_shy
+bip_39_word_underscore_6: hand_rug_bean_drum_shy_resource
+bip_39_word_underscore_7: hand_rug_bean_drum_shy_resource_monitor
+bip_39_word_underscore_8: hand_rug_bean_drum_shy_resource_monitor_system
+bip_39_word_underscore_9: hand_rug_bean_drum_shy_resource_monitor_system_enhance
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_11_13_30
 id_no_color: '111330'
 id_no_size: '11_13_30'
 id_no_type: tray_11_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_11_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_11_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2021yly
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2021yly
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2021yly
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '111330'
 name_no_size: 11 13 30
 name_no_size_short: 11 13 30
 name_no_type: Tray 11 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_11_13_30
 oomp_word: mouse guitar santa
 oomp_word_emoji: ':mouse: :guitar: :santa:'

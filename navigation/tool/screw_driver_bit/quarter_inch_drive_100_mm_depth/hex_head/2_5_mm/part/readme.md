@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Screw Driver Bit Quarter Inch Drive 100 mm Depth Hex Head 2 5 mm
+* name_short: 
 ### id
 * oomp_id: tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :scroll: :princess: :golf:
 * md5_6_alpha: 5i8be
 * md5_6: 8d1f9a
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205i8be)
+[2x1](http://192.168.1.242:1112/?label=oomp%205i8be)
+[6x4](http://192.168.1.55:1112/?label=oomp%205i8be)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ filter |
 | id_no_color | hexhead25mm |  
 | id_no_size | hex_head_2_5_mm |  
 | id_no_type | quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205i8be |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205i8be |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205i8be |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ filter |
 | name_no_size | Hex Head 2 5 mm |  
 | name_no_size_short | Hex Head 2 5 Mm |  
 | name_no_type | Quarter Inch Drive 100 mm Depth Hex Head 2 5 mm |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth_hex_head_2_5_mm |  
 | oomp_word | scroll princess golf |  
 | oomp_word_emoji | :scroll: :princess: :golf: |  

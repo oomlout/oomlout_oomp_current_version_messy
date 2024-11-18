@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Oobb Image
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_oobb_image
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :monkey: :wrench: :trident:
 * md5_6_alpha: 2fu9r
 * md5_6: 3e88ff
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202fu9r)
+[2x1](http://192.168.1.242:1112/?label=oomp%202fu9r)
+[6x4](http://192.168.1.55:1112/?label=oomp%202fu9r)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_oobb_image) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_oobb_image)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ offer |
 | id_no_color | oomp_base_oobb_image |  
 | id_no_size | oomp_base_oobb_image |  
 | id_no_type | oomlout_oomp_base_oobb_image |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_oobb_image |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_oobb_image |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_oobb_image |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202fu9r |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202fu9r |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202fu9r |  
 | link_redirect | https://github.com/oomlout/oomp_base_oobb_image |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ offer |
 | name_no_size | Oomp Base Oobb Image |  
 | name_no_size_short | Oomp Base Oobb Image |  
 | name_no_type | Oomlout Oomp Base Oobb Image |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_oobb_image |  
 | oomp_word | monkey wrench trident |  
 | oomp_word_emoji | :monkey: :wrench: :trident: |  

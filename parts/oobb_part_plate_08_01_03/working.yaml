@@ -1,3 +1,223 @@
+bip_39_word_dash_1: curious
+bip_39_word_dash_10: curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve
+bip_39_word_dash_11: curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve-lamp
+bip_39_word_dash_12: curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel-nerve-lamp-accident
+bip_39_word_dash_2: curious-pill
+bip_39_word_dash_3: curious-pill-industry
+bip_39_word_dash_4: curious-pill-industry-trophy
+bip_39_word_dash_5: curious-pill-industry-trophy-pizza
+bip_39_word_dash_6: curious-pill-industry-trophy-pizza-elevator
+bip_39_word_dash_7: curious-pill-industry-trophy-pizza-elevator-fabric
+bip_39_word_dash_8: curious-pill-industry-trophy-pizza-elevator-fabric-cushion
+bip_39_word_dash_9: curious-pill-industry-trophy-pizza-elevator-fabric-cushion-wheel
+bip_39_word_new_br_1: curious
+bip_39_word_new_br_10: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve
+bip_39_word_new_br_11: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp
+bip_39_word_new_br_12: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel<br>nerve<br>lamp<br>accident
+bip_39_word_new_br_2: curious<br>pill
+bip_39_word_new_br_3: curious<br>pill<br>industry
+bip_39_word_new_br_4: curious<br>pill<br>industry<br>trophy
+bip_39_word_new_br_5: curious<br>pill<br>industry<br>trophy<br>pizza
+bip_39_word_new_br_6: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator
+bip_39_word_new_br_7: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric
+bip_39_word_new_br_8: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion
+bip_39_word_new_br_9: curious<br>pill<br>industry<br>trophy<br>pizza<br>elevator<br>fabric<br>cushion<br>wheel
+bip_39_word_new_line_1: curious
+bip_39_word_new_line_10: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve'
+bip_39_word_new_line_11: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve
+
+  lamp'
+bip_39_word_new_line_12: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel
+
+  nerve
+
+  lamp
+
+  accident'
+bip_39_word_new_line_2: 'curious
+
+  pill'
+bip_39_word_new_line_3: 'curious
+
+  pill
+
+  industry'
+bip_39_word_new_line_4: 'curious
+
+  pill
+
+  industry
+
+  trophy'
+bip_39_word_new_line_5: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza'
+bip_39_word_new_line_6: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator'
+bip_39_word_new_line_7: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric'
+bip_39_word_new_line_8: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion'
+bip_39_word_new_line_9: 'curious
+
+  pill
+
+  industry
+
+  trophy
+
+  pizza
+
+  elevator
+
+  fabric
+
+  cushion
+
+  wheel'
+bip_39_word_no_space_1: curious
+bip_39_word_no_space_10: curiouspillindustrytrophypizzaelevatorfabriccushionwheelnerve
+bip_39_word_no_space_11: curiouspillindustrytrophypizzaelevatorfabriccushionwheelnervelamp
+bip_39_word_no_space_12: curiouspillindustrytrophypizzaelevatorfabriccushionwheelnervelampaccident
+bip_39_word_no_space_2: curiouspill
+bip_39_word_no_space_3: curiouspillindustry
+bip_39_word_no_space_4: curiouspillindustrytrophy
+bip_39_word_no_space_5: curiouspillindustrytrophypizza
+bip_39_word_no_space_6: curiouspillindustrytrophypizzaelevator
+bip_39_word_no_space_7: curiouspillindustrytrophypizzaelevatorfabric
+bip_39_word_no_space_8: curiouspillindustrytrophypizzaelevatorfabriccushion
+bip_39_word_no_space_9: curiouspillindustrytrophypizzaelevatorfabriccushionwheel
+bip_39_word_space_0:
+- curious
+- pill
+- industry
+- trophy
+- pizza
+- elevator
+- fabric
+- cushion
+- wheel
+- nerve
+- lamp
+- accident
+bip_39_word_space_1: curious
+bip_39_word_space_10: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve
+bip_39_word_space_11: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve lamp
+bip_39_word_space_12: curious pill industry trophy pizza elevator fabric cushion wheel
+  nerve lamp accident
+bip_39_word_space_2: curious pill
+bip_39_word_space_3: curious pill industry
+bip_39_word_space_4: curious pill industry trophy
+bip_39_word_space_5: curious pill industry trophy pizza
+bip_39_word_space_6: curious pill industry trophy pizza elevator
+bip_39_word_space_7: curious pill industry trophy pizza elevator fabric
+bip_39_word_space_8: curious pill industry trophy pizza elevator fabric cushion
+bip_39_word_space_9: curious pill industry trophy pizza elevator fabric cushion wheel
+bip_39_word_underscore_1: curious
+bip_39_word_underscore_10: curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve
+bip_39_word_underscore_11: curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve_lamp
+bip_39_word_underscore_12: curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel_nerve_lamp_accident
+bip_39_word_underscore_2: curious_pill
+bip_39_word_underscore_3: curious_pill_industry
+bip_39_word_underscore_4: curious_pill_industry_trophy
+bip_39_word_underscore_5: curious_pill_industry_trophy_pizza
+bip_39_word_underscore_6: curious_pill_industry_trophy_pizza_elevator
+bip_39_word_underscore_7: curious_pill_industry_trophy_pizza_elevator_fabric
+bip_39_word_underscore_8: curious_pill_industry_trophy_pizza_elevator_fabric_cushion
+bip_39_word_underscore_9: curious_pill_industry_trophy_pizza_elevator_fabric_cushion_wheel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_08_01_03
 id_no_color: 080103
 id_no_size: 08_01_03
 id_no_type: plate_08_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_08_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_08_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_08_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20w9t1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20w9t1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20w9t1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 080103
 name_no_size: 08 01 03
 name_no_size_short: 08 01 03
 name_no_type: Plate 08 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_08_01_03
 oomp_word: thumbsup eight headphones
 oomp_word_emoji: ':thumbsup: :eight: :headphones:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: illness
+bip_39_word_dash_10: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock
+bip_39_word_dash_11: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock-ketchup
+bip_39_word_dash_12: illness-voyage-coast-round-forum-oppose-notice-couch-obey-lock-ketchup-again
+bip_39_word_dash_2: illness-voyage
+bip_39_word_dash_3: illness-voyage-coast
+bip_39_word_dash_4: illness-voyage-coast-round
+bip_39_word_dash_5: illness-voyage-coast-round-forum
+bip_39_word_dash_6: illness-voyage-coast-round-forum-oppose
+bip_39_word_dash_7: illness-voyage-coast-round-forum-oppose-notice
+bip_39_word_dash_8: illness-voyage-coast-round-forum-oppose-notice-couch
+bip_39_word_dash_9: illness-voyage-coast-round-forum-oppose-notice-couch-obey
+bip_39_word_new_br_1: illness
+bip_39_word_new_br_10: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock
+bip_39_word_new_br_11: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock<br>ketchup
+bip_39_word_new_br_12: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey<br>lock<br>ketchup<br>again
+bip_39_word_new_br_2: illness<br>voyage
+bip_39_word_new_br_3: illness<br>voyage<br>coast
+bip_39_word_new_br_4: illness<br>voyage<br>coast<br>round
+bip_39_word_new_br_5: illness<br>voyage<br>coast<br>round<br>forum
+bip_39_word_new_br_6: illness<br>voyage<br>coast<br>round<br>forum<br>oppose
+bip_39_word_new_br_7: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice
+bip_39_word_new_br_8: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch
+bip_39_word_new_br_9: illness<br>voyage<br>coast<br>round<br>forum<br>oppose<br>notice<br>couch<br>obey
+bip_39_word_new_line_1: illness
+bip_39_word_new_line_10: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice
+
+  couch
+
+  obey
+
+  lock'
+bip_39_word_new_line_11: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice
+
+  couch
+
+  obey
+
+  lock
+
+  ketchup'
+bip_39_word_new_line_12: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice
+
+  couch
+
+  obey
+
+  lock
+
+  ketchup
+
+  again'
+bip_39_word_new_line_2: 'illness
+
+  voyage'
+bip_39_word_new_line_3: 'illness
+
+  voyage
+
+  coast'
+bip_39_word_new_line_4: 'illness
+
+  voyage
+
+  coast
+
+  round'
+bip_39_word_new_line_5: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum'
+bip_39_word_new_line_6: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose'
+bip_39_word_new_line_7: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice'
+bip_39_word_new_line_8: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice
+
+  couch'
+bip_39_word_new_line_9: 'illness
+
+  voyage
+
+  coast
+
+  round
+
+  forum
+
+  oppose
+
+  notice
+
+  couch
+
+  obey'
+bip_39_word_no_space_1: illness
+bip_39_word_no_space_10: illnessvoyagecoastroundforumopposenoticecouchobeylock
+bip_39_word_no_space_11: illnessvoyagecoastroundforumopposenoticecouchobeylockketchup
+bip_39_word_no_space_12: illnessvoyagecoastroundforumopposenoticecouchobeylockketchupagain
+bip_39_word_no_space_2: illnessvoyage
+bip_39_word_no_space_3: illnessvoyagecoast
+bip_39_word_no_space_4: illnessvoyagecoastround
+bip_39_word_no_space_5: illnessvoyagecoastroundforum
+bip_39_word_no_space_6: illnessvoyagecoastroundforumoppose
+bip_39_word_no_space_7: illnessvoyagecoastroundforumopposenotice
+bip_39_word_no_space_8: illnessvoyagecoastroundforumopposenoticecouch
+bip_39_word_no_space_9: illnessvoyagecoastroundforumopposenoticecouchobey
+bip_39_word_space_0:
+- illness
+- voyage
+- coast
+- round
+- forum
+- oppose
+- notice
+- couch
+- obey
+- lock
+- ketchup
+- again
+bip_39_word_space_1: illness
+bip_39_word_space_10: illness voyage coast round forum oppose notice couch obey lock
+bip_39_word_space_11: illness voyage coast round forum oppose notice couch obey lock
+  ketchup
+bip_39_word_space_12: illness voyage coast round forum oppose notice couch obey lock
+  ketchup again
+bip_39_word_space_2: illness voyage
+bip_39_word_space_3: illness voyage coast
+bip_39_word_space_4: illness voyage coast round
+bip_39_word_space_5: illness voyage coast round forum
+bip_39_word_space_6: illness voyage coast round forum oppose
+bip_39_word_space_7: illness voyage coast round forum oppose notice
+bip_39_word_space_8: illness voyage coast round forum oppose notice couch
+bip_39_word_space_9: illness voyage coast round forum oppose notice couch obey
+bip_39_word_underscore_1: illness
+bip_39_word_underscore_10: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock
+bip_39_word_underscore_11: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock_ketchup
+bip_39_word_underscore_12: illness_voyage_coast_round_forum_oppose_notice_couch_obey_lock_ketchup_again
+bip_39_word_underscore_2: illness_voyage
+bip_39_word_underscore_3: illness_voyage_coast
+bip_39_word_underscore_4: illness_voyage_coast_round
+bip_39_word_underscore_5: illness_voyage_coast_round_forum
+bip_39_word_underscore_6: illness_voyage_coast_round_forum_oppose
+bip_39_word_underscore_7: illness_voyage_coast_round_forum_oppose_notice
+bip_39_word_underscore_8: illness_voyage_coast_round_forum_oppose_notice_couch
+bip_39_word_underscore_9: illness_voyage_coast_round_forum_oppose_notice_couch_obey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_23_01_03
 id_no_color: '230103'
 id_no_size: '23_01_03'
 id_no_type: plate_23_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_23_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_23_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_23_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xa74
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xa74
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xa74
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '230103'
 name_no_size: 23 01 03
 name_no_size_short: 23 01 03
 name_no_type: Plate 23 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_23_01_03
 oomp_word: chicken two ship
 oomp_word_emoji: ':chicken: :two: :ship:'

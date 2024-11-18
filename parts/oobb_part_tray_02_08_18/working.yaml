@@ -1,3 +1,221 @@
+bip_39_word_dash_1: lounge
+bip_39_word_dash_10: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle
+bip_39_word_dash_11: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle-peace
+bip_39_word_dash_12: lounge-hold-wise-enact-mix-empty-brief-release-lawn-bundle-peace-arrange
+bip_39_word_dash_2: lounge-hold
+bip_39_word_dash_3: lounge-hold-wise
+bip_39_word_dash_4: lounge-hold-wise-enact
+bip_39_word_dash_5: lounge-hold-wise-enact-mix
+bip_39_word_dash_6: lounge-hold-wise-enact-mix-empty
+bip_39_word_dash_7: lounge-hold-wise-enact-mix-empty-brief
+bip_39_word_dash_8: lounge-hold-wise-enact-mix-empty-brief-release
+bip_39_word_dash_9: lounge-hold-wise-enact-mix-empty-brief-release-lawn
+bip_39_word_new_br_1: lounge
+bip_39_word_new_br_10: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle
+bip_39_word_new_br_11: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle<br>peace
+bip_39_word_new_br_12: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn<br>bundle<br>peace<br>arrange
+bip_39_word_new_br_2: lounge<br>hold
+bip_39_word_new_br_3: lounge<br>hold<br>wise
+bip_39_word_new_br_4: lounge<br>hold<br>wise<br>enact
+bip_39_word_new_br_5: lounge<br>hold<br>wise<br>enact<br>mix
+bip_39_word_new_br_6: lounge<br>hold<br>wise<br>enact<br>mix<br>empty
+bip_39_word_new_br_7: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief
+bip_39_word_new_br_8: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release
+bip_39_word_new_br_9: lounge<br>hold<br>wise<br>enact<br>mix<br>empty<br>brief<br>release<br>lawn
+bip_39_word_new_line_1: lounge
+bip_39_word_new_line_10: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle'
+bip_39_word_new_line_11: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle
+
+  peace'
+bip_39_word_new_line_12: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn
+
+  bundle
+
+  peace
+
+  arrange'
+bip_39_word_new_line_2: 'lounge
+
+  hold'
+bip_39_word_new_line_3: 'lounge
+
+  hold
+
+  wise'
+bip_39_word_new_line_4: 'lounge
+
+  hold
+
+  wise
+
+  enact'
+bip_39_word_new_line_5: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix'
+bip_39_word_new_line_6: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty'
+bip_39_word_new_line_7: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief'
+bip_39_word_new_line_8: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release'
+bip_39_word_new_line_9: 'lounge
+
+  hold
+
+  wise
+
+  enact
+
+  mix
+
+  empty
+
+  brief
+
+  release
+
+  lawn'
+bip_39_word_no_space_1: lounge
+bip_39_word_no_space_10: loungeholdwiseenactmixemptybriefreleaselawnbundle
+bip_39_word_no_space_11: loungeholdwiseenactmixemptybriefreleaselawnbundlepeace
+bip_39_word_no_space_12: loungeholdwiseenactmixemptybriefreleaselawnbundlepeacearrange
+bip_39_word_no_space_2: loungehold
+bip_39_word_no_space_3: loungeholdwise
+bip_39_word_no_space_4: loungeholdwiseenact
+bip_39_word_no_space_5: loungeholdwiseenactmix
+bip_39_word_no_space_6: loungeholdwiseenactmixempty
+bip_39_word_no_space_7: loungeholdwiseenactmixemptybrief
+bip_39_word_no_space_8: loungeholdwiseenactmixemptybriefrelease
+bip_39_word_no_space_9: loungeholdwiseenactmixemptybriefreleaselawn
+bip_39_word_space_0:
+- lounge
+- hold
+- wise
+- enact
+- mix
+- empty
+- brief
+- release
+- lawn
+- bundle
+- peace
+- arrange
+bip_39_word_space_1: lounge
+bip_39_word_space_10: lounge hold wise enact mix empty brief release lawn bundle
+bip_39_word_space_11: lounge hold wise enact mix empty brief release lawn bundle peace
+bip_39_word_space_12: lounge hold wise enact mix empty brief release lawn bundle peace
+  arrange
+bip_39_word_space_2: lounge hold
+bip_39_word_space_3: lounge hold wise
+bip_39_word_space_4: lounge hold wise enact
+bip_39_word_space_5: lounge hold wise enact mix
+bip_39_word_space_6: lounge hold wise enact mix empty
+bip_39_word_space_7: lounge hold wise enact mix empty brief
+bip_39_word_space_8: lounge hold wise enact mix empty brief release
+bip_39_word_space_9: lounge hold wise enact mix empty brief release lawn
+bip_39_word_underscore_1: lounge
+bip_39_word_underscore_10: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle
+bip_39_word_underscore_11: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle_peace
+bip_39_word_underscore_12: lounge_hold_wise_enact_mix_empty_brief_release_lawn_bundle_peace_arrange
+bip_39_word_underscore_2: lounge_hold
+bip_39_word_underscore_3: lounge_hold_wise
+bip_39_word_underscore_4: lounge_hold_wise_enact
+bip_39_word_underscore_5: lounge_hold_wise_enact_mix
+bip_39_word_underscore_6: lounge_hold_wise_enact_mix_empty
+bip_39_word_underscore_7: lounge_hold_wise_enact_mix_empty_brief
+bip_39_word_underscore_8: lounge_hold_wise_enact_mix_empty_brief_release
+bip_39_word_underscore_9: lounge_hold_wise_enact_mix_empty_brief_release_lawn
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_02_08_18
 id_no_color: 020818
 id_no_size: 02_08_18
 id_no_type: tray_02_08_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_08_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_08_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_08_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207p37r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207p37r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207p37r
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 020818
 name_no_size: 02 08 18
 name_no_size_short: 02 08 18
 name_no_type: Tray 02 08 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_08_18
 oomp_word: candy elephant toilet
 oomp_word_emoji: ':candy: :elephant: :toilet:'

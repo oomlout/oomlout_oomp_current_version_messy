@@ -1,3 +1,223 @@
+bip_39_word_dash_1: napkin
+bip_39_word_dash_10: napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast
+bip_39_word_dash_11: napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast-myth
+bip_39_word_dash_12: napkin-honey-camp-they-reveal-taste-section-umbrella-bubble-coast-myth-acquire
+bip_39_word_dash_2: napkin-honey
+bip_39_word_dash_3: napkin-honey-camp
+bip_39_word_dash_4: napkin-honey-camp-they
+bip_39_word_dash_5: napkin-honey-camp-they-reveal
+bip_39_word_dash_6: napkin-honey-camp-they-reveal-taste
+bip_39_word_dash_7: napkin-honey-camp-they-reveal-taste-section
+bip_39_word_dash_8: napkin-honey-camp-they-reveal-taste-section-umbrella
+bip_39_word_dash_9: napkin-honey-camp-they-reveal-taste-section-umbrella-bubble
+bip_39_word_new_br_1: napkin
+bip_39_word_new_br_10: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast
+bip_39_word_new_br_11: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast<br>myth
+bip_39_word_new_br_12: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble<br>coast<br>myth<br>acquire
+bip_39_word_new_br_2: napkin<br>honey
+bip_39_word_new_br_3: napkin<br>honey<br>camp
+bip_39_word_new_br_4: napkin<br>honey<br>camp<br>they
+bip_39_word_new_br_5: napkin<br>honey<br>camp<br>they<br>reveal
+bip_39_word_new_br_6: napkin<br>honey<br>camp<br>they<br>reveal<br>taste
+bip_39_word_new_br_7: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section
+bip_39_word_new_br_8: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella
+bip_39_word_new_br_9: napkin<br>honey<br>camp<br>they<br>reveal<br>taste<br>section<br>umbrella<br>bubble
+bip_39_word_new_line_1: napkin
+bip_39_word_new_line_10: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast'
+bip_39_word_new_line_11: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast
+
+  myth'
+bip_39_word_new_line_12: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble
+
+  coast
+
+  myth
+
+  acquire'
+bip_39_word_new_line_2: 'napkin
+
+  honey'
+bip_39_word_new_line_3: 'napkin
+
+  honey
+
+  camp'
+bip_39_word_new_line_4: 'napkin
+
+  honey
+
+  camp
+
+  they'
+bip_39_word_new_line_5: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal'
+bip_39_word_new_line_6: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste'
+bip_39_word_new_line_7: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section'
+bip_39_word_new_line_8: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella'
+bip_39_word_new_line_9: 'napkin
+
+  honey
+
+  camp
+
+  they
+
+  reveal
+
+  taste
+
+  section
+
+  umbrella
+
+  bubble'
+bip_39_word_no_space_1: napkin
+bip_39_word_no_space_10: napkinhoneycamptheyrevealtastesectionumbrellabubblecoast
+bip_39_word_no_space_11: napkinhoneycamptheyrevealtastesectionumbrellabubblecoastmyth
+bip_39_word_no_space_12: napkinhoneycamptheyrevealtastesectionumbrellabubblecoastmythacquire
+bip_39_word_no_space_2: napkinhoney
+bip_39_word_no_space_3: napkinhoneycamp
+bip_39_word_no_space_4: napkinhoneycampthey
+bip_39_word_no_space_5: napkinhoneycamptheyreveal
+bip_39_word_no_space_6: napkinhoneycamptheyrevealtaste
+bip_39_word_no_space_7: napkinhoneycamptheyrevealtastesection
+bip_39_word_no_space_8: napkinhoneycamptheyrevealtastesectionumbrella
+bip_39_word_no_space_9: napkinhoneycamptheyrevealtastesectionumbrellabubble
+bip_39_word_space_0:
+- napkin
+- honey
+- camp
+- they
+- reveal
+- taste
+- section
+- umbrella
+- bubble
+- coast
+- myth
+- acquire
+bip_39_word_space_1: napkin
+bip_39_word_space_10: napkin honey camp they reveal taste section umbrella bubble
+  coast
+bip_39_word_space_11: napkin honey camp they reveal taste section umbrella bubble
+  coast myth
+bip_39_word_space_12: napkin honey camp they reveal taste section umbrella bubble
+  coast myth acquire
+bip_39_word_space_2: napkin honey
+bip_39_word_space_3: napkin honey camp
+bip_39_word_space_4: napkin honey camp they
+bip_39_word_space_5: napkin honey camp they reveal
+bip_39_word_space_6: napkin honey camp they reveal taste
+bip_39_word_space_7: napkin honey camp they reveal taste section
+bip_39_word_space_8: napkin honey camp they reveal taste section umbrella
+bip_39_word_space_9: napkin honey camp they reveal taste section umbrella bubble
+bip_39_word_underscore_1: napkin
+bip_39_word_underscore_10: napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast
+bip_39_word_underscore_11: napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast_myth
+bip_39_word_underscore_12: napkin_honey_camp_they_reveal_taste_section_umbrella_bubble_coast_myth_acquire
+bip_39_word_underscore_2: napkin_honey
+bip_39_word_underscore_3: napkin_honey_camp
+bip_39_word_underscore_4: napkin_honey_camp_they
+bip_39_word_underscore_5: napkin_honey_camp_they_reveal
+bip_39_word_underscore_6: napkin_honey_camp_they_reveal_taste
+bip_39_word_underscore_7: napkin_honey_camp_they_reveal_taste_section
+bip_39_word_underscore_8: napkin_honey_camp_they_reveal_taste_section_umbrella
+bip_39_word_underscore_9: napkin_honey_camp_they_reveal_taste_section_umbrella_bubble
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_09_15_30
 id_no_color: 091530
 id_no_size: 09_15_30
 id_no_type: tray_09_15_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_15_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_15_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_15_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dd6z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dd6z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dd6z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 091530
 name_no_size: 09 15 30
 name_no_size_short: 09 15 30
 name_no_type: Tray 09 15 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_15_30
 oomp_word: kiss ear sunglasses
 oomp_word_emoji: ':kiss: :ear: :sunglasses:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: pair
+bip_39_word_dash_10: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet
+bip_39_word_dash_11: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet-jungle
+bip_39_word_dash_12: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus-diet-jungle-ability
+bip_39_word_dash_2: pair-crane
+bip_39_word_dash_3: pair-crane-vicious
+bip_39_word_dash_4: pair-crane-vicious-thumb
+bip_39_word_dash_5: pair-crane-vicious-thumb-village
+bip_39_word_dash_6: pair-crane-vicious-thumb-village-judge
+bip_39_word_dash_7: pair-crane-vicious-thumb-village-judge-ladder
+bip_39_word_dash_8: pair-crane-vicious-thumb-village-judge-ladder-cupboard
+bip_39_word_dash_9: pair-crane-vicious-thumb-village-judge-ladder-cupboard-focus
+bip_39_word_new_br_1: pair
+bip_39_word_new_br_10: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet
+bip_39_word_new_br_11: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle
+bip_39_word_new_br_12: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus<br>diet<br>jungle<br>ability
+bip_39_word_new_br_2: pair<br>crane
+bip_39_word_new_br_3: pair<br>crane<br>vicious
+bip_39_word_new_br_4: pair<br>crane<br>vicious<br>thumb
+bip_39_word_new_br_5: pair<br>crane<br>vicious<br>thumb<br>village
+bip_39_word_new_br_6: pair<br>crane<br>vicious<br>thumb<br>village<br>judge
+bip_39_word_new_br_7: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder
+bip_39_word_new_br_8: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard
+bip_39_word_new_br_9: pair<br>crane<br>vicious<br>thumb<br>village<br>judge<br>ladder<br>cupboard<br>focus
+bip_39_word_new_line_1: pair
+bip_39_word_new_line_10: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder
+
+  cupboard
+
+  focus
+
+  diet'
+bip_39_word_new_line_11: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder
+
+  cupboard
+
+  focus
+
+  diet
+
+  jungle'
+bip_39_word_new_line_12: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder
+
+  cupboard
+
+  focus
+
+  diet
+
+  jungle
+
+  ability'
+bip_39_word_new_line_2: 'pair
+
+  crane'
+bip_39_word_new_line_3: 'pair
+
+  crane
+
+  vicious'
+bip_39_word_new_line_4: 'pair
+
+  crane
+
+  vicious
+
+  thumb'
+bip_39_word_new_line_5: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village'
+bip_39_word_new_line_6: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge'
+bip_39_word_new_line_7: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder'
+bip_39_word_new_line_8: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder
+
+  cupboard'
+bip_39_word_new_line_9: 'pair
+
+  crane
+
+  vicious
+
+  thumb
+
+  village
+
+  judge
+
+  ladder
+
+  cupboard
+
+  focus'
+bip_39_word_no_space_1: pair
+bip_39_word_no_space_10: paircraneviciousthumbvillagejudgeladdercupboardfocusdiet
+bip_39_word_no_space_11: paircraneviciousthumbvillagejudgeladdercupboardfocusdietjungle
+bip_39_word_no_space_12: paircraneviciousthumbvillagejudgeladdercupboardfocusdietjungleability
+bip_39_word_no_space_2: paircrane
+bip_39_word_no_space_3: paircranevicious
+bip_39_word_no_space_4: paircraneviciousthumb
+bip_39_word_no_space_5: paircraneviciousthumbvillage
+bip_39_word_no_space_6: paircraneviciousthumbvillagejudge
+bip_39_word_no_space_7: paircraneviciousthumbvillagejudgeladder
+bip_39_word_no_space_8: paircraneviciousthumbvillagejudgeladdercupboard
+bip_39_word_no_space_9: paircraneviciousthumbvillagejudgeladdercupboardfocus
+bip_39_word_space_0:
+- pair
+- crane
+- vicious
+- thumb
+- village
+- judge
+- ladder
+- cupboard
+- focus
+- diet
+- jungle
+- ability
+bip_39_word_space_1: pair
+bip_39_word_space_10: pair crane vicious thumb village judge ladder cupboard focus
+  diet
+bip_39_word_space_11: pair crane vicious thumb village judge ladder cupboard focus
+  diet jungle
+bip_39_word_space_12: pair crane vicious thumb village judge ladder cupboard focus
+  diet jungle ability
+bip_39_word_space_2: pair crane
+bip_39_word_space_3: pair crane vicious
+bip_39_word_space_4: pair crane vicious thumb
+bip_39_word_space_5: pair crane vicious thumb village
+bip_39_word_space_6: pair crane vicious thumb village judge
+bip_39_word_space_7: pair crane vicious thumb village judge ladder
+bip_39_word_space_8: pair crane vicious thumb village judge ladder cupboard
+bip_39_word_space_9: pair crane vicious thumb village judge ladder cupboard focus
+bip_39_word_underscore_1: pair
+bip_39_word_underscore_10: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet
+bip_39_word_underscore_11: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet_jungle
+bip_39_word_underscore_12: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus_diet_jungle_ability
+bip_39_word_underscore_2: pair_crane
+bip_39_word_underscore_3: pair_crane_vicious
+bip_39_word_underscore_4: pair_crane_vicious_thumb
+bip_39_word_underscore_5: pair_crane_vicious_thumb_village
+bip_39_word_underscore_6: pair_crane_vicious_thumb_village_judge
+bip_39_word_underscore_7: pair_crane_vicious_thumb_village_judge_ladder
+bip_39_word_underscore_8: pair_crane_vicious_thumb_village_judge_ladder_cupboard
+bip_39_word_underscore_9: pair_crane_vicious_thumb_village_judge_ladder_cupboard_focus
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_10_30
 id_no_color: '011030'
 id_no_size: '01_10_30'
 id_no_type: tray_01_10_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_10_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2044y7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2044y7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2044y7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '011030'
 name_no_size: 01 10 30
 name_no_size_short: 01 10 30
 name_no_type: Tray 01 10 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_10_30
 oomp_word: blush one sparkles
 oomp_word_emoji: ':blush: :one: :sparkles:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Screw Wood 3 5 mm Diameter 50 mm Length Pozidrive Head Screw Tite Two 726Fy
+* name_short: 
 ### id
 * oomp_id: hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :monkey: :rabbit: :moon:
 * md5_6_alpha: 2fdyn
 * md5_6: 3e366f
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%202fdyn)
+[2x1](http://192.168.1.242:1112/?label=oomp%202fdyn)
+[6x4](http://192.168.1.55:1112/?label=oomp%202fdyn)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ erupt |
 | id_no_color | 35mmdiameter50mmlengthpozidriveheadscrewtitetwo726FY |  
 | id_no_size | 35mmdiameter50mmlengthpozidriveheadscrewtitetwo726FY |  
 | id_no_type | 3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202fdyn |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%202fdyn |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%202fdyn |  
 | manufacturer | screw_tite_two |  
 | manufacturer_capital | Screw Tite Two |  
 | manufacturer_first_letter | s |  
@@ -330,6 +363,7 @@ erupt |
 | name_no_size | 35mmdiameter50mmlengthpozidriveheadscrewtitetwo726Fy |  
 | name_no_size_short | 35Mmdiameter50Mmlengthpozidriveheadscrewtitetwo726Fy |  
 | name_no_type | 3 5 mm Diameter 50 mm Length Pozidrive Head Screw Tite Two 726Fy |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY |  
 | oomp_word | monkey rabbit moon |  
 | oomp_word_emoji | :monkey: :rabbit: :moon: |  

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bottom
+bip_39_word_dash_10: bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain
+bip_39_word_dash_11: bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain-dash
+bip_39_word_dash_12: bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast-bargain-dash-assume
+bip_39_word_dash_2: bottom-stamp
+bip_39_word_dash_3: bottom-stamp-cushion
+bip_39_word_dash_4: bottom-stamp-cushion-upset
+bip_39_word_dash_5: bottom-stamp-cushion-upset-need
+bip_39_word_dash_6: bottom-stamp-cushion-upset-need-knife
+bip_39_word_dash_7: bottom-stamp-cushion-upset-need-knife-squeeze
+bip_39_word_dash_8: bottom-stamp-cushion-upset-need-knife-squeeze-castle
+bip_39_word_dash_9: bottom-stamp-cushion-upset-need-knife-squeeze-castle-roast
+bip_39_word_new_br_1: bottom
+bip_39_word_new_br_10: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain
+bip_39_word_new_br_11: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain<br>dash
+bip_39_word_new_br_12: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast<br>bargain<br>dash<br>assume
+bip_39_word_new_br_2: bottom<br>stamp
+bip_39_word_new_br_3: bottom<br>stamp<br>cushion
+bip_39_word_new_br_4: bottom<br>stamp<br>cushion<br>upset
+bip_39_word_new_br_5: bottom<br>stamp<br>cushion<br>upset<br>need
+bip_39_word_new_br_6: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife
+bip_39_word_new_br_7: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze
+bip_39_word_new_br_8: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle
+bip_39_word_new_br_9: bottom<br>stamp<br>cushion<br>upset<br>need<br>knife<br>squeeze<br>castle<br>roast
+bip_39_word_new_line_1: bottom
+bip_39_word_new_line_10: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze
+
+  castle
+
+  roast
+
+  bargain'
+bip_39_word_new_line_11: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze
+
+  castle
+
+  roast
+
+  bargain
+
+  dash'
+bip_39_word_new_line_12: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze
+
+  castle
+
+  roast
+
+  bargain
+
+  dash
+
+  assume'
+bip_39_word_new_line_2: 'bottom
+
+  stamp'
+bip_39_word_new_line_3: 'bottom
+
+  stamp
+
+  cushion'
+bip_39_word_new_line_4: 'bottom
+
+  stamp
+
+  cushion
+
+  upset'
+bip_39_word_new_line_5: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need'
+bip_39_word_new_line_6: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife'
+bip_39_word_new_line_7: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze'
+bip_39_word_new_line_8: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze
+
+  castle'
+bip_39_word_new_line_9: 'bottom
+
+  stamp
+
+  cushion
+
+  upset
+
+  need
+
+  knife
+
+  squeeze
+
+  castle
+
+  roast'
+bip_39_word_no_space_1: bottom
+bip_39_word_no_space_10: bottomstampcushionupsetneedknifesqueezecastleroastbargain
+bip_39_word_no_space_11: bottomstampcushionupsetneedknifesqueezecastleroastbargaindash
+bip_39_word_no_space_12: bottomstampcushionupsetneedknifesqueezecastleroastbargaindashassume
+bip_39_word_no_space_2: bottomstamp
+bip_39_word_no_space_3: bottomstampcushion
+bip_39_word_no_space_4: bottomstampcushionupset
+bip_39_word_no_space_5: bottomstampcushionupsetneed
+bip_39_word_no_space_6: bottomstampcushionupsetneedknife
+bip_39_word_no_space_7: bottomstampcushionupsetneedknifesqueeze
+bip_39_word_no_space_8: bottomstampcushionupsetneedknifesqueezecastle
+bip_39_word_no_space_9: bottomstampcushionupsetneedknifesqueezecastleroast
+bip_39_word_space_0:
+- bottom
+- stamp
+- cushion
+- upset
+- need
+- knife
+- squeeze
+- castle
+- roast
+- bargain
+- dash
+- assume
+bip_39_word_space_1: bottom
+bip_39_word_space_10: bottom stamp cushion upset need knife squeeze castle roast bargain
+bip_39_word_space_11: bottom stamp cushion upset need knife squeeze castle roast bargain
+  dash
+bip_39_word_space_12: bottom stamp cushion upset need knife squeeze castle roast bargain
+  dash assume
+bip_39_word_space_2: bottom stamp
+bip_39_word_space_3: bottom stamp cushion
+bip_39_word_space_4: bottom stamp cushion upset
+bip_39_word_space_5: bottom stamp cushion upset need
+bip_39_word_space_6: bottom stamp cushion upset need knife
+bip_39_word_space_7: bottom stamp cushion upset need knife squeeze
+bip_39_word_space_8: bottom stamp cushion upset need knife squeeze castle
+bip_39_word_space_9: bottom stamp cushion upset need knife squeeze castle roast
+bip_39_word_underscore_1: bottom
+bip_39_word_underscore_10: bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain
+bip_39_word_underscore_11: bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain_dash
+bip_39_word_underscore_12: bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast_bargain_dash_assume
+bip_39_word_underscore_2: bottom_stamp
+bip_39_word_underscore_3: bottom_stamp_cushion
+bip_39_word_underscore_4: bottom_stamp_cushion_upset
+bip_39_word_underscore_5: bottom_stamp_cushion_upset_need
+bip_39_word_underscore_6: bottom_stamp_cushion_upset_need_knife
+bip_39_word_underscore_7: bottom_stamp_cushion_upset_need_knife_squeeze
+bip_39_word_underscore_8: bottom_stamp_cushion_upset_need_knife_squeeze_castle
+bip_39_word_underscore_9: bottom_stamp_cushion_upset_need_knife_squeeze_castle_roast
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_13_01__6
 id_no_color: '13016'
 id_no_size: '13_01__6'
 id_no_type: bunting_alphabet_13_01__6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_01__6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_13_01__6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208og1w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208og1w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208og1w
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: '13016'
 name_no_size: 13 01  6
 name_no_size_short: 13 01  6
 name_no_type: Bunting Alphabet 13 01  6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_13_01__6
 oomp_word: rainbow moon panda_face
 oomp_word_emoji: ':rainbow: :moon: :panda_face:'

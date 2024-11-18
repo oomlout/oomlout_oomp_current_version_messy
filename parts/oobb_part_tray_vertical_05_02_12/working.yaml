@@ -1,3 +1,222 @@
+bip_39_word_dash_1: language
+bip_39_word_dash_10: language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud
+bip_39_word_dash_11: language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud-run
+bip_39_word_dash_12: language-amount-brain-bargain-shy-balcony-lady-fruit-keen-cloud-run-advance
+bip_39_word_dash_2: language-amount
+bip_39_word_dash_3: language-amount-brain
+bip_39_word_dash_4: language-amount-brain-bargain
+bip_39_word_dash_5: language-amount-brain-bargain-shy
+bip_39_word_dash_6: language-amount-brain-bargain-shy-balcony
+bip_39_word_dash_7: language-amount-brain-bargain-shy-balcony-lady
+bip_39_word_dash_8: language-amount-brain-bargain-shy-balcony-lady-fruit
+bip_39_word_dash_9: language-amount-brain-bargain-shy-balcony-lady-fruit-keen
+bip_39_word_new_br_1: language
+bip_39_word_new_br_10: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud
+bip_39_word_new_br_11: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run
+bip_39_word_new_br_12: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen<br>cloud<br>run<br>advance
+bip_39_word_new_br_2: language<br>amount
+bip_39_word_new_br_3: language<br>amount<br>brain
+bip_39_word_new_br_4: language<br>amount<br>brain<br>bargain
+bip_39_word_new_br_5: language<br>amount<br>brain<br>bargain<br>shy
+bip_39_word_new_br_6: language<br>amount<br>brain<br>bargain<br>shy<br>balcony
+bip_39_word_new_br_7: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady
+bip_39_word_new_br_8: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit
+bip_39_word_new_br_9: language<br>amount<br>brain<br>bargain<br>shy<br>balcony<br>lady<br>fruit<br>keen
+bip_39_word_new_line_1: language
+bip_39_word_new_line_10: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady
+
+  fruit
+
+  keen
+
+  cloud'
+bip_39_word_new_line_11: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady
+
+  fruit
+
+  keen
+
+  cloud
+
+  run'
+bip_39_word_new_line_12: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady
+
+  fruit
+
+  keen
+
+  cloud
+
+  run
+
+  advance'
+bip_39_word_new_line_2: 'language
+
+  amount'
+bip_39_word_new_line_3: 'language
+
+  amount
+
+  brain'
+bip_39_word_new_line_4: 'language
+
+  amount
+
+  brain
+
+  bargain'
+bip_39_word_new_line_5: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy'
+bip_39_word_new_line_6: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony'
+bip_39_word_new_line_7: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady'
+bip_39_word_new_line_8: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady
+
+  fruit'
+bip_39_word_new_line_9: 'language
+
+  amount
+
+  brain
+
+  bargain
+
+  shy
+
+  balcony
+
+  lady
+
+  fruit
+
+  keen'
+bip_39_word_no_space_1: language
+bip_39_word_no_space_10: languageamountbrainbargainshybalconyladyfruitkeencloud
+bip_39_word_no_space_11: languageamountbrainbargainshybalconyladyfruitkeencloudrun
+bip_39_word_no_space_12: languageamountbrainbargainshybalconyladyfruitkeencloudrunadvance
+bip_39_word_no_space_2: languageamount
+bip_39_word_no_space_3: languageamountbrain
+bip_39_word_no_space_4: languageamountbrainbargain
+bip_39_word_no_space_5: languageamountbrainbargainshy
+bip_39_word_no_space_6: languageamountbrainbargainshybalcony
+bip_39_word_no_space_7: languageamountbrainbargainshybalconylady
+bip_39_word_no_space_8: languageamountbrainbargainshybalconyladyfruit
+bip_39_word_no_space_9: languageamountbrainbargainshybalconyladyfruitkeen
+bip_39_word_space_0:
+- language
+- amount
+- brain
+- bargain
+- shy
+- balcony
+- lady
+- fruit
+- keen
+- cloud
+- run
+- advance
+bip_39_word_space_1: language
+bip_39_word_space_10: language amount brain bargain shy balcony lady fruit keen cloud
+bip_39_word_space_11: language amount brain bargain shy balcony lady fruit keen cloud
+  run
+bip_39_word_space_12: language amount brain bargain shy balcony lady fruit keen cloud
+  run advance
+bip_39_word_space_2: language amount
+bip_39_word_space_3: language amount brain
+bip_39_word_space_4: language amount brain bargain
+bip_39_word_space_5: language amount brain bargain shy
+bip_39_word_space_6: language amount brain bargain shy balcony
+bip_39_word_space_7: language amount brain bargain shy balcony lady
+bip_39_word_space_8: language amount brain bargain shy balcony lady fruit
+bip_39_word_space_9: language amount brain bargain shy balcony lady fruit keen
+bip_39_word_underscore_1: language
+bip_39_word_underscore_10: language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud
+bip_39_word_underscore_11: language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud_run
+bip_39_word_underscore_12: language_amount_brain_bargain_shy_balcony_lady_fruit_keen_cloud_run_advance
+bip_39_word_underscore_2: language_amount
+bip_39_word_underscore_3: language_amount_brain
+bip_39_word_underscore_4: language_amount_brain_bargain
+bip_39_word_underscore_5: language_amount_brain_bargain_shy
+bip_39_word_underscore_6: language_amount_brain_bargain_shy_balcony
+bip_39_word_underscore_7: language_amount_brain_bargain_shy_balcony_lady
+bip_39_word_underscore_8: language_amount_brain_bargain_shy_balcony_lady_fruit
+bip_39_word_underscore_9: language_amount_brain_bargain_shy_balcony_lady_fruit_keen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_05_02_12
 id_no_color: '050212'
 id_no_size: '05_02_12'
 id_no_type: tray_vertical_05_02_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_02_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_05_02_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_05_02_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202h5ze
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202h5ze
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202h5ze
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050212'
 name_no_size: 05 02 12
 name_no_size_short: 05 02 12
 name_no_type: Tray Vertical 05 02 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_05_02_12
 oomp_word: horse camera envelope
 oomp_word_emoji: ':horse: :camera: :envelope:'

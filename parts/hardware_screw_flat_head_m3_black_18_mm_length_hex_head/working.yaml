@@ -1,3 +1,223 @@
+bip_39_word_dash_1: garment
+bip_39_word_dash_10: garment-burst-setup-upgrade-screen-obey-sport-bottom-system-strategy
+bip_39_word_dash_11: garment-burst-setup-upgrade-screen-obey-sport-bottom-system-strategy-water
+bip_39_word_dash_12: garment-burst-setup-upgrade-screen-obey-sport-bottom-system-strategy-water-always
+bip_39_word_dash_2: garment-burst
+bip_39_word_dash_3: garment-burst-setup
+bip_39_word_dash_4: garment-burst-setup-upgrade
+bip_39_word_dash_5: garment-burst-setup-upgrade-screen
+bip_39_word_dash_6: garment-burst-setup-upgrade-screen-obey
+bip_39_word_dash_7: garment-burst-setup-upgrade-screen-obey-sport
+bip_39_word_dash_8: garment-burst-setup-upgrade-screen-obey-sport-bottom
+bip_39_word_dash_9: garment-burst-setup-upgrade-screen-obey-sport-bottom-system
+bip_39_word_new_br_1: garment
+bip_39_word_new_br_10: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport<br>bottom<br>system<br>strategy
+bip_39_word_new_br_11: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport<br>bottom<br>system<br>strategy<br>water
+bip_39_word_new_br_12: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport<br>bottom<br>system<br>strategy<br>water<br>always
+bip_39_word_new_br_2: garment<br>burst
+bip_39_word_new_br_3: garment<br>burst<br>setup
+bip_39_word_new_br_4: garment<br>burst<br>setup<br>upgrade
+bip_39_word_new_br_5: garment<br>burst<br>setup<br>upgrade<br>screen
+bip_39_word_new_br_6: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey
+bip_39_word_new_br_7: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport
+bip_39_word_new_br_8: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport<br>bottom
+bip_39_word_new_br_9: garment<br>burst<br>setup<br>upgrade<br>screen<br>obey<br>sport<br>bottom<br>system
+bip_39_word_new_line_1: garment
+bip_39_word_new_line_10: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport
+
+  bottom
+
+  system
+
+  strategy'
+bip_39_word_new_line_11: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport
+
+  bottom
+
+  system
+
+  strategy
+
+  water'
+bip_39_word_new_line_12: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport
+
+  bottom
+
+  system
+
+  strategy
+
+  water
+
+  always'
+bip_39_word_new_line_2: 'garment
+
+  burst'
+bip_39_word_new_line_3: 'garment
+
+  burst
+
+  setup'
+bip_39_word_new_line_4: 'garment
+
+  burst
+
+  setup
+
+  upgrade'
+bip_39_word_new_line_5: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen'
+bip_39_word_new_line_6: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey'
+bip_39_word_new_line_7: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport'
+bip_39_word_new_line_8: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport
+
+  bottom'
+bip_39_word_new_line_9: 'garment
+
+  burst
+
+  setup
+
+  upgrade
+
+  screen
+
+  obey
+
+  sport
+
+  bottom
+
+  system'
+bip_39_word_no_space_1: garment
+bip_39_word_no_space_10: garmentburstsetupupgradescreenobeysportbottomsystemstrategy
+bip_39_word_no_space_11: garmentburstsetupupgradescreenobeysportbottomsystemstrategywater
+bip_39_word_no_space_12: garmentburstsetupupgradescreenobeysportbottomsystemstrategywateralways
+bip_39_word_no_space_2: garmentburst
+bip_39_word_no_space_3: garmentburstsetup
+bip_39_word_no_space_4: garmentburstsetupupgrade
+bip_39_word_no_space_5: garmentburstsetupupgradescreen
+bip_39_word_no_space_6: garmentburstsetupupgradescreenobey
+bip_39_word_no_space_7: garmentburstsetupupgradescreenobeysport
+bip_39_word_no_space_8: garmentburstsetupupgradescreenobeysportbottom
+bip_39_word_no_space_9: garmentburstsetupupgradescreenobeysportbottomsystem
+bip_39_word_space_0:
+- garment
+- burst
+- setup
+- upgrade
+- screen
+- obey
+- sport
+- bottom
+- system
+- strategy
+- water
+- always
+bip_39_word_space_1: garment
+bip_39_word_space_10: garment burst setup upgrade screen obey sport bottom system
+  strategy
+bip_39_word_space_11: garment burst setup upgrade screen obey sport bottom system
+  strategy water
+bip_39_word_space_12: garment burst setup upgrade screen obey sport bottom system
+  strategy water always
+bip_39_word_space_2: garment burst
+bip_39_word_space_3: garment burst setup
+bip_39_word_space_4: garment burst setup upgrade
+bip_39_word_space_5: garment burst setup upgrade screen
+bip_39_word_space_6: garment burst setup upgrade screen obey
+bip_39_word_space_7: garment burst setup upgrade screen obey sport
+bip_39_word_space_8: garment burst setup upgrade screen obey sport bottom
+bip_39_word_space_9: garment burst setup upgrade screen obey sport bottom system
+bip_39_word_underscore_1: garment
+bip_39_word_underscore_10: garment_burst_setup_upgrade_screen_obey_sport_bottom_system_strategy
+bip_39_word_underscore_11: garment_burst_setup_upgrade_screen_obey_sport_bottom_system_strategy_water
+bip_39_word_underscore_12: garment_burst_setup_upgrade_screen_obey_sport_bottom_system_strategy_water_always
+bip_39_word_underscore_2: garment_burst
+bip_39_word_underscore_3: garment_burst_setup
+bip_39_word_underscore_4: garment_burst_setup_upgrade
+bip_39_word_underscore_5: garment_burst_setup_upgrade_screen
+bip_39_word_underscore_6: garment_burst_setup_upgrade_screen_obey
+bip_39_word_underscore_7: garment_burst_setup_upgrade_screen_obey_sport
+bip_39_word_underscore_8: garment_burst_setup_upgrade_screen_obey_sport_bottom
+bip_39_word_underscore_9: garment_burst_setup_upgrade_screen_obey_sport_bottom_system
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 18_mm_length_hex_head
 id_no_size: black_18_mm_length_hex_head
 id_no_type: m3_black_18_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_18_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m3_black_18_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m3_black_18_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ra2d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ra2d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ra2d
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 18 mm Length Hex Head
 name_no_size: Black 18 mm Length Hex Head
 name_no_size_short: Black 18 Mm Length Hex Head
 name_no_type: M3 Black 18 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 18 mm
+oomlout_bolt_length_no_unit: '18'
+oomlout_bolt_md5_6_alpha_first_3: 4ra
+oomlout_bolt_md5_6_alpha_first_3_upper: 4RA
+oomlout_bolt_md5_6_alpha_last_3: 2d
+oomlout_bolt_md5_6_alpha_last_3_upper: 2D
+oomlout_bolt_md5_6_first_3: 79e
+oomlout_bolt_md5_6_first_3_upper: 79E
+oomlout_bolt_md5_6_last_3: fb5
+oomlout_bolt_md5_6_last_3_upper: FB5
+oomlout_bolt_name: Flat Head M3X18 mm Black (Hex Head)
+oomlout_bolt_size: M3
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh3b18h
+oomlout_short_code_upper: FH3B18H
 oomp_key: oomp_hardware_screw_flat_head_m3_black_18_mm_length_hex_head
 oomp_word: balloon truck tea
 oomp_word_emoji: ':balloon: :truck: :tea:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Capacitor 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad 10 Volt
+* name_short: 
 ### id
 * oomp_id: electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
   * classification: electronic

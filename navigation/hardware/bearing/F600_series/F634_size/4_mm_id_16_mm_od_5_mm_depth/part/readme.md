@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing F600 Series F634 Size 4 mm ID 16 mm OD 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :fish: :bowtie: :hourglass:
 * md5_6_alpha: 38l8g
 * md5_6: 530080
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2038l8g)
+[2x1](http://192.168.1.242:1112/?label=oomp%2038l8g)
+[6x4](http://192.168.1.55:1112/?label=oomp%2038l8g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ law |
 | id_no_color | 4_mm_id_16_mm_od_5_mm_depth |  
 | id_no_size | F634_size_4_mm_id_16_mm_od_5_mm_depth |  
 | id_no_type | F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2038l8g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2038l8g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2038l8g |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ law |
 | name_no_size | F634 Size 4 mm ID 16 mm OD 5 mm Depth |  
 | name_no_size_short | F634 Size 4 Mm Id 16 Mm Od 5 Mm Depth |  
 | name_no_type | F600 Series F634 Size 4 mm ID 16 mm OD 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brF634 |  
 | oomlout_short_code_upper | BRF634 |  
 | oomp_key | oomp_hardware_bearing_F600_series_F634_size_4_mm_id_16_mm_od_5_mm_depth |  

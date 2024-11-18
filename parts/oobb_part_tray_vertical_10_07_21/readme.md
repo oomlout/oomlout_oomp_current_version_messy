@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 10 07 21
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_10_07_21
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tea: :snowman: :kiss:
 * md5_6_alpha: 72hpf
 * md5_6: b52d23
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2072hpf)
+[2x1](http://192.168.1.242:1112/?label=oomp%2072hpf)
+[6x4](http://192.168.1.55:1112/?label=oomp%2072hpf)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_10_07_21) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_07_21)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ artist |
 | id_no_color | 100721 |  
 | id_no_size | 10_07_21 |  
 | id_no_type | tray_vertical_10_07_21 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_10_07_21 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_10_07_21 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_10_07_21 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2072hpf |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2072hpf |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2072hpf |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ artist |
 | name_no_size | 10 07 21 |  
 | name_no_size_short | 10 07 21 |  
 | name_no_type | Tray Vertical 10 07 21 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_10_07_21 |  
 | oomp_word | tea snowman kiss |  
 | oomp_word_emoji | :tea: :snowman: :kiss: |  

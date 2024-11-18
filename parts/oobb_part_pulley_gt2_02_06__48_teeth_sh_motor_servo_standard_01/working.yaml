@@ -1,3 +1,222 @@
+bip_39_word_dash_1: source
+bip_39_word_dash_10: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol
+bip_39_word_dash_11: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol-travel
+bip_39_word_dash_12: source-faint-elite-surge-legend-gaze-scene-street-saddle-pistol-travel-art
+bip_39_word_dash_2: source-faint
+bip_39_word_dash_3: source-faint-elite
+bip_39_word_dash_4: source-faint-elite-surge
+bip_39_word_dash_5: source-faint-elite-surge-legend
+bip_39_word_dash_6: source-faint-elite-surge-legend-gaze
+bip_39_word_dash_7: source-faint-elite-surge-legend-gaze-scene
+bip_39_word_dash_8: source-faint-elite-surge-legend-gaze-scene-street
+bip_39_word_dash_9: source-faint-elite-surge-legend-gaze-scene-street-saddle
+bip_39_word_new_br_1: source
+bip_39_word_new_br_10: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol
+bip_39_word_new_br_11: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel
+bip_39_word_new_br_12: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle<br>pistol<br>travel<br>art
+bip_39_word_new_br_2: source<br>faint
+bip_39_word_new_br_3: source<br>faint<br>elite
+bip_39_word_new_br_4: source<br>faint<br>elite<br>surge
+bip_39_word_new_br_5: source<br>faint<br>elite<br>surge<br>legend
+bip_39_word_new_br_6: source<br>faint<br>elite<br>surge<br>legend<br>gaze
+bip_39_word_new_br_7: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene
+bip_39_word_new_br_8: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street
+bip_39_word_new_br_9: source<br>faint<br>elite<br>surge<br>legend<br>gaze<br>scene<br>street<br>saddle
+bip_39_word_new_line_1: source
+bip_39_word_new_line_10: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene
+
+  street
+
+  saddle
+
+  pistol'
+bip_39_word_new_line_11: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene
+
+  street
+
+  saddle
+
+  pistol
+
+  travel'
+bip_39_word_new_line_12: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene
+
+  street
+
+  saddle
+
+  pistol
+
+  travel
+
+  art'
+bip_39_word_new_line_2: 'source
+
+  faint'
+bip_39_word_new_line_3: 'source
+
+  faint
+
+  elite'
+bip_39_word_new_line_4: 'source
+
+  faint
+
+  elite
+
+  surge'
+bip_39_word_new_line_5: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend'
+bip_39_word_new_line_6: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze'
+bip_39_word_new_line_7: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene'
+bip_39_word_new_line_8: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene
+
+  street'
+bip_39_word_new_line_9: 'source
+
+  faint
+
+  elite
+
+  surge
+
+  legend
+
+  gaze
+
+  scene
+
+  street
+
+  saddle'
+bip_39_word_no_space_1: source
+bip_39_word_no_space_10: sourcefaintelitesurgelegendgazescenestreetsaddlepistol
+bip_39_word_no_space_11: sourcefaintelitesurgelegendgazescenestreetsaddlepistoltravel
+bip_39_word_no_space_12: sourcefaintelitesurgelegendgazescenestreetsaddlepistoltravelart
+bip_39_word_no_space_2: sourcefaint
+bip_39_word_no_space_3: sourcefaintelite
+bip_39_word_no_space_4: sourcefaintelitesurge
+bip_39_word_no_space_5: sourcefaintelitesurgelegend
+bip_39_word_no_space_6: sourcefaintelitesurgelegendgaze
+bip_39_word_no_space_7: sourcefaintelitesurgelegendgazescene
+bip_39_word_no_space_8: sourcefaintelitesurgelegendgazescenestreet
+bip_39_word_no_space_9: sourcefaintelitesurgelegendgazescenestreetsaddle
+bip_39_word_space_0:
+- source
+- faint
+- elite
+- surge
+- legend
+- gaze
+- scene
+- street
+- saddle
+- pistol
+- travel
+- art
+bip_39_word_space_1: source
+bip_39_word_space_10: source faint elite surge legend gaze scene street saddle pistol
+bip_39_word_space_11: source faint elite surge legend gaze scene street saddle pistol
+  travel
+bip_39_word_space_12: source faint elite surge legend gaze scene street saddle pistol
+  travel art
+bip_39_word_space_2: source faint
+bip_39_word_space_3: source faint elite
+bip_39_word_space_4: source faint elite surge
+bip_39_word_space_5: source faint elite surge legend
+bip_39_word_space_6: source faint elite surge legend gaze
+bip_39_word_space_7: source faint elite surge legend gaze scene
+bip_39_word_space_8: source faint elite surge legend gaze scene street
+bip_39_word_space_9: source faint elite surge legend gaze scene street saddle
+bip_39_word_underscore_1: source
+bip_39_word_underscore_10: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol
+bip_39_word_underscore_11: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol_travel
+bip_39_word_underscore_12: source_faint_elite_surge_legend_gaze_scene_street_saddle_pistol_travel_art
+bip_39_word_underscore_2: source_faint
+bip_39_word_underscore_3: source_faint_elite
+bip_39_word_underscore_4: source_faint_elite_surge
+bip_39_word_underscore_5: source_faint_elite_surge_legend
+bip_39_word_underscore_6: source_faint_elite_surge_legend_gaze
+bip_39_word_underscore_7: source_faint_elite_surge_legend_gaze_scene
+bip_39_word_underscore_8: source_faint_elite_surge_legend_gaze_scene_street
+bip_39_word_underscore_9: source_faint_elite_surge_legend_gaze_scene_street_saddle
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
 id_no_color: 020648teethshmotorservostandard01
 id_no_size: 02_06__48_teeth_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20813c9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20813c9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20813c9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020648Teethshmotorservostandard01
 name_no_size: 02 06  48 Teeth Sh Motor Servo Standard 01
 name_no_size_short: 02 06  48 Teeth Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 02 06  48 Teeth Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_06__48_teeth_sh_motor_servo_standard_01
 oomp_word: strawberry melon sunny
 oomp_word_emoji: ':strawberry: :melon: :sunny:'

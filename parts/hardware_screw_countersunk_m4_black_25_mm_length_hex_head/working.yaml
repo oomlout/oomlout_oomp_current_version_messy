@@ -1,4 +1,222 @@
 barcode_manufacturer_metalmate: '5050420669139'
+bip_39_word_dash_1: poem
+bip_39_word_dash_10: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try
+bip_39_word_dash_11: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito
+bip_39_word_dash_12: poem-maze-indoor-novel-label-dizzy-print-glide-wheel-try-mosquito-artefact
+bip_39_word_dash_2: poem-maze
+bip_39_word_dash_3: poem-maze-indoor
+bip_39_word_dash_4: poem-maze-indoor-novel
+bip_39_word_dash_5: poem-maze-indoor-novel-label
+bip_39_word_dash_6: poem-maze-indoor-novel-label-dizzy
+bip_39_word_dash_7: poem-maze-indoor-novel-label-dizzy-print
+bip_39_word_dash_8: poem-maze-indoor-novel-label-dizzy-print-glide
+bip_39_word_dash_9: poem-maze-indoor-novel-label-dizzy-print-glide-wheel
+bip_39_word_new_br_1: poem
+bip_39_word_new_br_10: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try
+bip_39_word_new_br_11: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito
+bip_39_word_new_br_12: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel<br>try<br>mosquito<br>artefact
+bip_39_word_new_br_2: poem<br>maze
+bip_39_word_new_br_3: poem<br>maze<br>indoor
+bip_39_word_new_br_4: poem<br>maze<br>indoor<br>novel
+bip_39_word_new_br_5: poem<br>maze<br>indoor<br>novel<br>label
+bip_39_word_new_br_6: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy
+bip_39_word_new_br_7: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print
+bip_39_word_new_br_8: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide
+bip_39_word_new_br_9: poem<br>maze<br>indoor<br>novel<br>label<br>dizzy<br>print<br>glide<br>wheel
+bip_39_word_new_line_1: poem
+bip_39_word_new_line_10: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print
+
+  glide
+
+  wheel
+
+  try'
+bip_39_word_new_line_11: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print
+
+  glide
+
+  wheel
+
+  try
+
+  mosquito'
+bip_39_word_new_line_12: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print
+
+  glide
+
+  wheel
+
+  try
+
+  mosquito
+
+  artefact'
+bip_39_word_new_line_2: 'poem
+
+  maze'
+bip_39_word_new_line_3: 'poem
+
+  maze
+
+  indoor'
+bip_39_word_new_line_4: 'poem
+
+  maze
+
+  indoor
+
+  novel'
+bip_39_word_new_line_5: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label'
+bip_39_word_new_line_6: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy'
+bip_39_word_new_line_7: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print'
+bip_39_word_new_line_8: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print
+
+  glide'
+bip_39_word_new_line_9: 'poem
+
+  maze
+
+  indoor
+
+  novel
+
+  label
+
+  dizzy
+
+  print
+
+  glide
+
+  wheel'
+bip_39_word_no_space_1: poem
+bip_39_word_no_space_10: poemmazeindoornovellabeldizzyprintglidewheeltry
+bip_39_word_no_space_11: poemmazeindoornovellabeldizzyprintglidewheeltrymosquito
+bip_39_word_no_space_12: poemmazeindoornovellabeldizzyprintglidewheeltrymosquitoartefact
+bip_39_word_no_space_2: poemmaze
+bip_39_word_no_space_3: poemmazeindoor
+bip_39_word_no_space_4: poemmazeindoornovel
+bip_39_word_no_space_5: poemmazeindoornovellabel
+bip_39_word_no_space_6: poemmazeindoornovellabeldizzy
+bip_39_word_no_space_7: poemmazeindoornovellabeldizzyprint
+bip_39_word_no_space_8: poemmazeindoornovellabeldizzyprintglide
+bip_39_word_no_space_9: poemmazeindoornovellabeldizzyprintglidewheel
+bip_39_word_space_0:
+- poem
+- maze
+- indoor
+- novel
+- label
+- dizzy
+- print
+- glide
+- wheel
+- try
+- mosquito
+- artefact
+bip_39_word_space_1: poem
+bip_39_word_space_10: poem maze indoor novel label dizzy print glide wheel try
+bip_39_word_space_11: poem maze indoor novel label dizzy print glide wheel try mosquito
+bip_39_word_space_12: poem maze indoor novel label dizzy print glide wheel try mosquito
+  artefact
+bip_39_word_space_2: poem maze
+bip_39_word_space_3: poem maze indoor
+bip_39_word_space_4: poem maze indoor novel
+bip_39_word_space_5: poem maze indoor novel label
+bip_39_word_space_6: poem maze indoor novel label dizzy
+bip_39_word_space_7: poem maze indoor novel label dizzy print
+bip_39_word_space_8: poem maze indoor novel label dizzy print glide
+bip_39_word_space_9: poem maze indoor novel label dizzy print glide wheel
+bip_39_word_underscore_1: poem
+bip_39_word_underscore_10: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try
+bip_39_word_underscore_11: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito
+bip_39_word_underscore_12: poem_maze_indoor_novel_label_dizzy_print_glide_wheel_try_mosquito_artefact
+bip_39_word_underscore_2: poem_maze
+bip_39_word_underscore_3: poem_maze_indoor
+bip_39_word_underscore_4: poem_maze_indoor_novel
+bip_39_word_underscore_5: poem_maze_indoor_novel_label
+bip_39_word_underscore_6: poem_maze_indoor_novel_label_dizzy
+bip_39_word_underscore_7: poem_maze_indoor_novel_label_dizzy_print
+bip_39_word_underscore_8: poem_maze_indoor_novel_label_dizzy_print_glide
+bip_39_word_underscore_9: poem_maze_indoor_novel_label_dizzy_print_glide_wheel
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +356,22 @@ id_no_color: 25_mm_length_hex_head
 id_no_size: black_25_mm_length_hex_head
 id_no_type: m4_black_25_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m4-x-25-socket-csk-screw-gr10-9-self-colour-din-79-1151m450025
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m4-x-25-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m4_black_25_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082xx6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082xx6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082xx6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -166,6 +399,26 @@ name_no_color: 25 mm Length Hex Head
 name_no_size: Black 25 mm Length Hex Head
 name_no_size_short: Black 25 Mm Length Hex Head
 name_no_type: M4 Black 25 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 25 mm
+oomlout_bolt_length_no_unit: '25'
+oomlout_bolt_md5_6_alpha_first_3: 82x
+oomlout_bolt_md5_6_alpha_first_3_upper: 82X
+oomlout_bolt_md5_6_alpha_last_3: x6
+oomlout_bolt_md5_6_alpha_last_3_upper: X6
+oomlout_bolt_md5_6_first_3: cf2
+oomlout_bolt_md5_6_first_3_upper: CF2
+oomlout_bolt_md5_6_last_3: 03a
+oomlout_bolt_md5_6_last_3_upper: 03A
+oomlout_bolt_name: Countersunk M4X25 mm Black (Hex Head)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs4b25h
+oomlout_short_code_upper: CS4B25H
 oomp_id: hardware_screw_countersunk_m4_black_25_mm_length_hex_head
 oomp_key: oomp_hardware_screw_countersunk_m4_black_25_mm_length_hex_head
 oomp_word: melon skull koala
@@ -190,12 +443,22 @@ price_1: '0.0329'
 price_100: '0.0329'
 price_1000: '0.0146'
 price_10000: '0.0146'
+price_10000_distributor_1: '0.0146'
 price_10000_distributor_orbital_fasteners: '0.0146'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0146'
 price_1000_distributor_orbital_fasteners: '0.0146'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0329'
 price_100_distributor_orbital_fasteners: '0.0329'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0329'
 price_1_distributor_orbital_fasteners: '0.0329'
+price_1_name: orbital_fasteners
 price_200: '0.0182'
+price_200_distributor_1: '0.0182'
 price_200_distributor_orbital_fasteners: '0.0182'
+price_200_name: orbital_fasteners
 price_current: missing_value
 short_code: cs4b25h
 short_code_upper: CS4B25H

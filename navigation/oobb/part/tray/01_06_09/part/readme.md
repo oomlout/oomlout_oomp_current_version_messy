@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray 01 06 09
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_01_06_09
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :radio: :crown: :anchor:
 * md5_6_alpha: 53kro
 * md5_6: 82b0e4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2053kro)
+[2x1](http://192.168.1.242:1112/?label=oomp%2053kro)
+[6x4](http://192.168.1.55:1112/?label=oomp%2053kro)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_09) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_09)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ clump |
 | id_no_color | 010609 |  
 | id_no_size | 01_06_09 |  
 | id_no_type | tray_01_06_09 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_09 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_06_09 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_06_09 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2053kro |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2053kro |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2053kro |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ clump |
 | name_no_size | 01 06 09 |  
 | name_no_size_short | 01 06 09 |  
 | name_no_type | Tray 01 06 09 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_01_06_09 |  
 | oomp_word | radio crown anchor |  
 | oomp_word_emoji | :radio: :crown: :anchor: |  

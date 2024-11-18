@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 16000 Series 16008 Size 40 mm ID 68 mm OD 9 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_16000_series_16008_size_40_mm_id_68_mm_od_9_mm_depth
   * classification: hardware

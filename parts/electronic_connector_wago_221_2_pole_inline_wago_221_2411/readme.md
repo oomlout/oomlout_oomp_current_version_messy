@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Connector Wago 221 2 Pole Inline Wago 221 2411
+* name_short: 
 ### id
 * oomp_id: electronic_connector_wago_221_2_pole_inline_wago_221_2411
   * classification: electronic

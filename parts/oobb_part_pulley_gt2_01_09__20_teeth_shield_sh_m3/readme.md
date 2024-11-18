@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 01 09  20 Teeth Shield Sh M3
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_01_09__20_teeth_shield_sh_m3
   * classification: oobb

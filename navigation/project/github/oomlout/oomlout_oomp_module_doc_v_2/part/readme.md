@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oomp Module Doc V 2
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oomp_module_doc_v_2
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :tomato: :chicken: :lollipop:
 * md5_6_alpha: 88sli
 * md5_6: d34ac6
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2088sli)
+[2x1](http://192.168.1.242:1112/?label=oomp%2088sli)
+[6x4](http://192.168.1.55:1112/?label=oomp%2088sli)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_module_doc_v_2) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_module_doc_v_2)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ doctor |
 | id_no_color | oomp_module_doc_v_2 |  
 | id_no_size | oomp_module_doc_v_2 |  
 | id_no_type | oomlout_oomlout_oomp_module_doc_v_2 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_module_doc_v_2 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_module_doc_v_2 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_module_doc_v_2 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2088sli |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2088sli |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2088sli |  
 | link_redirect | https://github.com/oomlout/oomlout_oomp_module_doc_v_2 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ doctor |
 | name_no_size | Oomp Module Doc V 2 |  
 | name_no_size_short | Oomp Module Doc V 2 |  
 | name_no_type | Oomlout Oomlout Oomp Module Doc V 2 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_module_doc_v_2 |  
 | oomp_word | tomato chicken lollipop |  
 | oomp_word_emoji | :tomato: :chicken: :lollipop: |  

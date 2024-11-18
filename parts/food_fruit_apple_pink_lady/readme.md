@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Pink Lady Apples
 
+### name
+* name: Food Fruit Apple Pink Lady
+* name_short: 
 ### id
 * oomp_id: food_fruit_apple_pink_lady
   * classification: food

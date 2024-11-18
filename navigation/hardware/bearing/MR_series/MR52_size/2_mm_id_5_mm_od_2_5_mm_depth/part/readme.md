@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing Mr Series Mr52 Size 2 mm ID 5 mm OD 2 5 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :squirrel: :spaghetti: :blush:
 * md5_6_alpha: 4ecci
 * md5_6: 70ba02
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204ecci)
+[2x1](http://192.168.1.242:1112/?label=oomp%204ecci)
+[6x4](http://192.168.1.55:1112/?label=oomp%204ecci)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ spider |
 | id_no_color | 2_mm_id_5_mm_od_2_5_mm_depth |  
 | id_no_size | MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  
 | id_no_type | MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204ecci |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204ecci |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204ecci |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ spider |
 | name_no_size | Mr52 Size 2 mm ID 5 mm OD 2 5 mm Depth |  
 | name_no_size_short | Mr52 Size 2 Mm Id 5 Mm Od 2 5 Mm Depth |  
 | name_no_type | Mr Series Mr52 Size 2 mm ID 5 mm OD 2 5 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brMR52 |  
 | oomlout_short_code_upper | BRMR52 |  
 | oomp_key | oomp_hardware_bearing_MR_series_MR52_size_2_mm_id_5_mm_od_2_5_mm_depth |  

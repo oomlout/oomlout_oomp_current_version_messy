@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420696296'
+bip_39_word_dash_1: target
+bip_39_word_dash_10: target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault
+bip_39_word_dash_11: target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault-gap
+bip_39_word_dash_12: target-anxiety-foot-later-shock-execute-scissors-theme-setup-vault-gap-age
+bip_39_word_dash_2: target-anxiety
+bip_39_word_dash_3: target-anxiety-foot
+bip_39_word_dash_4: target-anxiety-foot-later
+bip_39_word_dash_5: target-anxiety-foot-later-shock
+bip_39_word_dash_6: target-anxiety-foot-later-shock-execute
+bip_39_word_dash_7: target-anxiety-foot-later-shock-execute-scissors
+bip_39_word_dash_8: target-anxiety-foot-later-shock-execute-scissors-theme
+bip_39_word_dash_9: target-anxiety-foot-later-shock-execute-scissors-theme-setup
+bip_39_word_new_br_1: target
+bip_39_word_new_br_10: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup<br>vault
+bip_39_word_new_br_11: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup<br>vault<br>gap
+bip_39_word_new_br_12: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup<br>vault<br>gap<br>age
+bip_39_word_new_br_2: target<br>anxiety
+bip_39_word_new_br_3: target<br>anxiety<br>foot
+bip_39_word_new_br_4: target<br>anxiety<br>foot<br>later
+bip_39_word_new_br_5: target<br>anxiety<br>foot<br>later<br>shock
+bip_39_word_new_br_6: target<br>anxiety<br>foot<br>later<br>shock<br>execute
+bip_39_word_new_br_7: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors
+bip_39_word_new_br_8: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme
+bip_39_word_new_br_9: target<br>anxiety<br>foot<br>later<br>shock<br>execute<br>scissors<br>theme<br>setup
+bip_39_word_new_line_1: target
+bip_39_word_new_line_10: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors
+
+  theme
+
+  setup
+
+  vault'
+bip_39_word_new_line_11: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors
+
+  theme
+
+  setup
+
+  vault
+
+  gap'
+bip_39_word_new_line_12: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors
+
+  theme
+
+  setup
+
+  vault
+
+  gap
+
+  age'
+bip_39_word_new_line_2: 'target
+
+  anxiety'
+bip_39_word_new_line_3: 'target
+
+  anxiety
+
+  foot'
+bip_39_word_new_line_4: 'target
+
+  anxiety
+
+  foot
+
+  later'
+bip_39_word_new_line_5: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock'
+bip_39_word_new_line_6: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute'
+bip_39_word_new_line_7: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors'
+bip_39_word_new_line_8: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors
+
+  theme'
+bip_39_word_new_line_9: 'target
+
+  anxiety
+
+  foot
+
+  later
+
+  shock
+
+  execute
+
+  scissors
+
+  theme
+
+  setup'
+bip_39_word_no_space_1: target
+bip_39_word_no_space_10: targetanxietyfootlatershockexecutescissorsthemesetupvault
+bip_39_word_no_space_11: targetanxietyfootlatershockexecutescissorsthemesetupvaultgap
+bip_39_word_no_space_12: targetanxietyfootlatershockexecutescissorsthemesetupvaultgapage
+bip_39_word_no_space_2: targetanxiety
+bip_39_word_no_space_3: targetanxietyfoot
+bip_39_word_no_space_4: targetanxietyfootlater
+bip_39_word_no_space_5: targetanxietyfootlatershock
+bip_39_word_no_space_6: targetanxietyfootlatershockexecute
+bip_39_word_no_space_7: targetanxietyfootlatershockexecutescissors
+bip_39_word_no_space_8: targetanxietyfootlatershockexecutescissorstheme
+bip_39_word_no_space_9: targetanxietyfootlatershockexecutescissorsthemesetup
+bip_39_word_space_0:
+- target
+- anxiety
+- foot
+- later
+- shock
+- execute
+- scissors
+- theme
+- setup
+- vault
+- gap
+- age
+bip_39_word_space_1: target
+bip_39_word_space_10: target anxiety foot later shock execute scissors theme setup
+  vault
+bip_39_word_space_11: target anxiety foot later shock execute scissors theme setup
+  vault gap
+bip_39_word_space_12: target anxiety foot later shock execute scissors theme setup
+  vault gap age
+bip_39_word_space_2: target anxiety
+bip_39_word_space_3: target anxiety foot
+bip_39_word_space_4: target anxiety foot later
+bip_39_word_space_5: target anxiety foot later shock
+bip_39_word_space_6: target anxiety foot later shock execute
+bip_39_word_space_7: target anxiety foot later shock execute scissors
+bip_39_word_space_8: target anxiety foot later shock execute scissors theme
+bip_39_word_space_9: target anxiety foot later shock execute scissors theme setup
+bip_39_word_underscore_1: target
+bip_39_word_underscore_10: target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault
+bip_39_word_underscore_11: target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault_gap
+bip_39_word_underscore_12: target_anxiety_foot_later_shock_execute_scissors_theme_setup_vault_gap_age
+bip_39_word_underscore_2: target_anxiety
+bip_39_word_underscore_3: target_anxiety_foot
+bip_39_word_underscore_4: target_anxiety_foot_later
+bip_39_word_underscore_5: target_anxiety_foot_later_shock
+bip_39_word_underscore_6: target_anxiety_foot_later_shock_execute
+bip_39_word_underscore_7: target_anxiety_foot_later_shock_execute_scissors
+bip_39_word_underscore_8: target_anxiety_foot_later_shock_execute_scissors_theme
+bip_39_word_underscore_9: target_anxiety_foot_later_shock_execute_scissors_theme_setup
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +358,22 @@ id_no_color: 14_mm_length_hex_head
 id_no_size: black_14_mm_length_hex_head
 id_no_type: m5_black_14_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_14_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_14_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m5-x-14-socket-cap-screw-gr12-9-self-colour-din-91-1150m470014
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_14_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202zsu4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202zsu4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202zsu4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +400,26 @@ name_no_color: 14 mm Length Hex Head
 name_no_size: Black 14 mm Length Hex Head
 name_no_size_short: Black 14 Mm Length Hex Head
 name_no_type: M5 Black 14 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 14 mm
+oomlout_bolt_length_no_unit: '14'
+oomlout_bolt_md5_6_alpha_first_3: 2zs
+oomlout_bolt_md5_6_alpha_first_3_upper: 2ZS
+oomlout_bolt_md5_6_alpha_last_3: u4
+oomlout_bolt_md5_6_alpha_last_3_upper: U4
+oomlout_bolt_md5_6_first_3: 4cb
+oomlout_bolt_md5_6_first_3_upper: 4CB
+oomlout_bolt_md5_6_last_3: ebc
+oomlout_bolt_md5_6_last_3_upper: EBC
+oomlout_bolt_name: Socket Cap M5X14 mm Black (Hex Head)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc5b14h
+oomlout_short_code_upper: SC5B14H
 oomp_id: hardware_screw_socket_cap_m5_black_14_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m5_black_14_mm_length_hex_head
 oomp_word: turtle ramen sushi
@@ -189,12 +444,22 @@ price_1: '0.0445'
 price_100: '0.0445'
 price_1000: '0.0198'
 price_10000: '0.0198'
+price_10000_distributor_1: '0.0198'
 price_10000_distributor_orbital_fasteners: '0.0198'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0198'
 price_1000_distributor_orbital_fasteners: '0.0198'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0445'
 price_100_distributor_orbital_fasteners: '0.0445'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0445'
 price_1_distributor_orbital_fasteners: '0.0445'
+price_1_name: orbital_fasteners
 price_200: '0.0247'
+price_200_distributor_1: '0.0247'
 price_200_distributor_orbital_fasteners: '0.0247'
+price_200_name: orbital_fasteners
 price_current: '0.0247'
 quantity_current: '200'
 short_code: sc5b14h

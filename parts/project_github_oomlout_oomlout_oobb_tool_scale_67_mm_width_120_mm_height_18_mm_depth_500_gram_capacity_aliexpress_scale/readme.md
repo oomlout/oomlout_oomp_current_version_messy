@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rose: :eyeglasses: :ring:
 * md5_6_alpha: 3w1pc
 * md5_6: 63b3a0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203w1pc)
+[2x1](http://192.168.1.242:1112/?label=oomp%203w1pc)
+[6x4](http://192.168.1.55:1112/?label=oomp%203w1pc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ pig |
 | id_no_color | oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id_no_size | oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | id_no_type | oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203w1pc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203w1pc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203w1pc |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ pig |
 | name_no_size | Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_size_short | Oobb Tool Scale 67 Mm Width 120 Mm Height 18 Mm Depth 500 Gram Capacity Aliexpress Scale |  
 | name_no_type | Oomlout Oomlout Oobb Tool Scale 67 mm Width 120 mm Height 18 mm Depth 500 Gram Capacity Aliexpress Scale |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_scale |  
 | oomp_word | rose eyeglasses ring |  
 | oomp_word_emoji | :rose: :eyeglasses: :ring: |  

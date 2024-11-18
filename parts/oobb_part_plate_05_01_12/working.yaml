@@ -1,3 +1,223 @@
+bip_39_word_dash_1: business
+bip_39_word_dash_10: business-orange-olympic-table-amused-early-apology-bench-fetch-rely
+bip_39_word_dash_11: business-orange-olympic-table-amused-early-apology-bench-fetch-rely-cinnamon
+bip_39_word_dash_12: business-orange-olympic-table-amused-early-apology-bench-fetch-rely-cinnamon-acoustic
+bip_39_word_dash_2: business-orange
+bip_39_word_dash_3: business-orange-olympic
+bip_39_word_dash_4: business-orange-olympic-table
+bip_39_word_dash_5: business-orange-olympic-table-amused
+bip_39_word_dash_6: business-orange-olympic-table-amused-early
+bip_39_word_dash_7: business-orange-olympic-table-amused-early-apology
+bip_39_word_dash_8: business-orange-olympic-table-amused-early-apology-bench
+bip_39_word_dash_9: business-orange-olympic-table-amused-early-apology-bench-fetch
+bip_39_word_new_br_1: business
+bip_39_word_new_br_10: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely
+bip_39_word_new_br_11: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely<br>cinnamon
+bip_39_word_new_br_12: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch<br>rely<br>cinnamon<br>acoustic
+bip_39_word_new_br_2: business<br>orange
+bip_39_word_new_br_3: business<br>orange<br>olympic
+bip_39_word_new_br_4: business<br>orange<br>olympic<br>table
+bip_39_word_new_br_5: business<br>orange<br>olympic<br>table<br>amused
+bip_39_word_new_br_6: business<br>orange<br>olympic<br>table<br>amused<br>early
+bip_39_word_new_br_7: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology
+bip_39_word_new_br_8: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench
+bip_39_word_new_br_9: business<br>orange<br>olympic<br>table<br>amused<br>early<br>apology<br>bench<br>fetch
+bip_39_word_new_line_1: business
+bip_39_word_new_line_10: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely'
+bip_39_word_new_line_11: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely
+
+  cinnamon'
+bip_39_word_new_line_12: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch
+
+  rely
+
+  cinnamon
+
+  acoustic'
+bip_39_word_new_line_2: 'business
+
+  orange'
+bip_39_word_new_line_3: 'business
+
+  orange
+
+  olympic'
+bip_39_word_new_line_4: 'business
+
+  orange
+
+  olympic
+
+  table'
+bip_39_word_new_line_5: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused'
+bip_39_word_new_line_6: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early'
+bip_39_word_new_line_7: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology'
+bip_39_word_new_line_8: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench'
+bip_39_word_new_line_9: 'business
+
+  orange
+
+  olympic
+
+  table
+
+  amused
+
+  early
+
+  apology
+
+  bench
+
+  fetch'
+bip_39_word_no_space_1: business
+bip_39_word_no_space_10: businessorangeolympictableamusedearlyapologybenchfetchrely
+bip_39_word_no_space_11: businessorangeolympictableamusedearlyapologybenchfetchrelycinnamon
+bip_39_word_no_space_12: businessorangeolympictableamusedearlyapologybenchfetchrelycinnamonacoustic
+bip_39_word_no_space_2: businessorange
+bip_39_word_no_space_3: businessorangeolympic
+bip_39_word_no_space_4: businessorangeolympictable
+bip_39_word_no_space_5: businessorangeolympictableamused
+bip_39_word_no_space_6: businessorangeolympictableamusedearly
+bip_39_word_no_space_7: businessorangeolympictableamusedearlyapology
+bip_39_word_no_space_8: businessorangeolympictableamusedearlyapologybench
+bip_39_word_no_space_9: businessorangeolympictableamusedearlyapologybenchfetch
+bip_39_word_space_0:
+- business
+- orange
+- olympic
+- table
+- amused
+- early
+- apology
+- bench
+- fetch
+- rely
+- cinnamon
+- acoustic
+bip_39_word_space_1: business
+bip_39_word_space_10: business orange olympic table amused early apology bench fetch
+  rely
+bip_39_word_space_11: business orange olympic table amused early apology bench fetch
+  rely cinnamon
+bip_39_word_space_12: business orange olympic table amused early apology bench fetch
+  rely cinnamon acoustic
+bip_39_word_space_2: business orange
+bip_39_word_space_3: business orange olympic
+bip_39_word_space_4: business orange olympic table
+bip_39_word_space_5: business orange olympic table amused
+bip_39_word_space_6: business orange olympic table amused early
+bip_39_word_space_7: business orange olympic table amused early apology
+bip_39_word_space_8: business orange olympic table amused early apology bench
+bip_39_word_space_9: business orange olympic table amused early apology bench fetch
+bip_39_word_underscore_1: business
+bip_39_word_underscore_10: business_orange_olympic_table_amused_early_apology_bench_fetch_rely
+bip_39_word_underscore_11: business_orange_olympic_table_amused_early_apology_bench_fetch_rely_cinnamon
+bip_39_word_underscore_12: business_orange_olympic_table_amused_early_apology_bench_fetch_rely_cinnamon_acoustic
+bip_39_word_underscore_2: business_orange
+bip_39_word_underscore_3: business_orange_olympic
+bip_39_word_underscore_4: business_orange_olympic_table
+bip_39_word_underscore_5: business_orange_olympic_table_amused
+bip_39_word_underscore_6: business_orange_olympic_table_amused_early
+bip_39_word_underscore_7: business_orange_olympic_table_amused_early_apology
+bip_39_word_underscore_8: business_orange_olympic_table_amused_early_apology_bench
+bip_39_word_underscore_9: business_orange_olympic_table_amused_early_apology_bench_fetch
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_05_01_12
 id_no_color: '050112'
 id_no_size: '05_01_12'
 id_no_type: plate_05_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019eel
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019eel
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019eel
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '050112'
 name_no_size: 05 01 12
 name_no_size_short: 05 01 12
 name_no_type: Plate 05 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_01_12
 oomp_word: skull octopus snowman
 oomp_word_emoji: ':skull: :octopus: :snowman:'

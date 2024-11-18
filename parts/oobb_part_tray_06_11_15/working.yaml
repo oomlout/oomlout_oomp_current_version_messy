@@ -1,3 +1,221 @@
+bip_39_word_dash_1: skull
+bip_39_word_dash_10: skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road
+bip_39_word_dash_11: skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road-stool
+bip_39_word_dash_12: skull-gasp-anger-ignore-wing-poem-shaft-twice-gold-road-stool-attitude
+bip_39_word_dash_2: skull-gasp
+bip_39_word_dash_3: skull-gasp-anger
+bip_39_word_dash_4: skull-gasp-anger-ignore
+bip_39_word_dash_5: skull-gasp-anger-ignore-wing
+bip_39_word_dash_6: skull-gasp-anger-ignore-wing-poem
+bip_39_word_dash_7: skull-gasp-anger-ignore-wing-poem-shaft
+bip_39_word_dash_8: skull-gasp-anger-ignore-wing-poem-shaft-twice
+bip_39_word_dash_9: skull-gasp-anger-ignore-wing-poem-shaft-twice-gold
+bip_39_word_new_br_1: skull
+bip_39_word_new_br_10: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road
+bip_39_word_new_br_11: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool
+bip_39_word_new_br_12: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold<br>road<br>stool<br>attitude
+bip_39_word_new_br_2: skull<br>gasp
+bip_39_word_new_br_3: skull<br>gasp<br>anger
+bip_39_word_new_br_4: skull<br>gasp<br>anger<br>ignore
+bip_39_word_new_br_5: skull<br>gasp<br>anger<br>ignore<br>wing
+bip_39_word_new_br_6: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem
+bip_39_word_new_br_7: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft
+bip_39_word_new_br_8: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice
+bip_39_word_new_br_9: skull<br>gasp<br>anger<br>ignore<br>wing<br>poem<br>shaft<br>twice<br>gold
+bip_39_word_new_line_1: skull
+bip_39_word_new_line_10: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft
+
+  twice
+
+  gold
+
+  road'
+bip_39_word_new_line_11: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft
+
+  twice
+
+  gold
+
+  road
+
+  stool'
+bip_39_word_new_line_12: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft
+
+  twice
+
+  gold
+
+  road
+
+  stool
+
+  attitude'
+bip_39_word_new_line_2: 'skull
+
+  gasp'
+bip_39_word_new_line_3: 'skull
+
+  gasp
+
+  anger'
+bip_39_word_new_line_4: 'skull
+
+  gasp
+
+  anger
+
+  ignore'
+bip_39_word_new_line_5: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing'
+bip_39_word_new_line_6: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem'
+bip_39_word_new_line_7: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft'
+bip_39_word_new_line_8: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft
+
+  twice'
+bip_39_word_new_line_9: 'skull
+
+  gasp
+
+  anger
+
+  ignore
+
+  wing
+
+  poem
+
+  shaft
+
+  twice
+
+  gold'
+bip_39_word_no_space_1: skull
+bip_39_word_no_space_10: skullgaspangerignorewingpoemshafttwicegoldroad
+bip_39_word_no_space_11: skullgaspangerignorewingpoemshafttwicegoldroadstool
+bip_39_word_no_space_12: skullgaspangerignorewingpoemshafttwicegoldroadstoolattitude
+bip_39_word_no_space_2: skullgasp
+bip_39_word_no_space_3: skullgaspanger
+bip_39_word_no_space_4: skullgaspangerignore
+bip_39_word_no_space_5: skullgaspangerignorewing
+bip_39_word_no_space_6: skullgaspangerignorewingpoem
+bip_39_word_no_space_7: skullgaspangerignorewingpoemshaft
+bip_39_word_no_space_8: skullgaspangerignorewingpoemshafttwice
+bip_39_word_no_space_9: skullgaspangerignorewingpoemshafttwicegold
+bip_39_word_space_0:
+- skull
+- gasp
+- anger
+- ignore
+- wing
+- poem
+- shaft
+- twice
+- gold
+- road
+- stool
+- attitude
+bip_39_word_space_1: skull
+bip_39_word_space_10: skull gasp anger ignore wing poem shaft twice gold road
+bip_39_word_space_11: skull gasp anger ignore wing poem shaft twice gold road stool
+bip_39_word_space_12: skull gasp anger ignore wing poem shaft twice gold road stool
+  attitude
+bip_39_word_space_2: skull gasp
+bip_39_word_space_3: skull gasp anger
+bip_39_word_space_4: skull gasp anger ignore
+bip_39_word_space_5: skull gasp anger ignore wing
+bip_39_word_space_6: skull gasp anger ignore wing poem
+bip_39_word_space_7: skull gasp anger ignore wing poem shaft
+bip_39_word_space_8: skull gasp anger ignore wing poem shaft twice
+bip_39_word_space_9: skull gasp anger ignore wing poem shaft twice gold
+bip_39_word_underscore_1: skull
+bip_39_word_underscore_10: skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road
+bip_39_word_underscore_11: skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road_stool
+bip_39_word_underscore_12: skull_gasp_anger_ignore_wing_poem_shaft_twice_gold_road_stool_attitude
+bip_39_word_underscore_2: skull_gasp
+bip_39_word_underscore_3: skull_gasp_anger
+bip_39_word_underscore_4: skull_gasp_anger_ignore
+bip_39_word_underscore_5: skull_gasp_anger_ignore_wing
+bip_39_word_underscore_6: skull_gasp_anger_ignore_wing_poem
+bip_39_word_underscore_7: skull_gasp_anger_ignore_wing_poem_shaft
+bip_39_word_underscore_8: skull_gasp_anger_ignore_wing_poem_shaft_twice
+bip_39_word_underscore_9: skull_gasp_anger_ignore_wing_poem_shaft_twice_gold
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_06_11_15
 id_no_color: '061115'
 id_no_size: '06_11_15'
 id_no_type: tray_06_11_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_11_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_11_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_11_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20971m6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20971m6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20971m6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '061115'
 name_no_size: 06 11 15
 name_no_size_short: 06 11 15
 name_no_type: Tray 06 11 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_11_15
 oomp_word: car shirt ambulance
 oomp_word_emoji: ':car: :shirt: :ambulance:'

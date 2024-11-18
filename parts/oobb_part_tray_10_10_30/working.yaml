@@ -1,3 +1,221 @@
+bip_39_word_dash_1: solid
+bip_39_word_dash_10: solid-unit-cliff-doll-exile-human-mind-picture-drive-next
+bip_39_word_dash_11: solid-unit-cliff-doll-exile-human-mind-picture-drive-next-flag
+bip_39_word_dash_12: solid-unit-cliff-doll-exile-human-mind-picture-drive-next-flag-aim
+bip_39_word_dash_2: solid-unit
+bip_39_word_dash_3: solid-unit-cliff
+bip_39_word_dash_4: solid-unit-cliff-doll
+bip_39_word_dash_5: solid-unit-cliff-doll-exile
+bip_39_word_dash_6: solid-unit-cliff-doll-exile-human
+bip_39_word_dash_7: solid-unit-cliff-doll-exile-human-mind
+bip_39_word_dash_8: solid-unit-cliff-doll-exile-human-mind-picture
+bip_39_word_dash_9: solid-unit-cliff-doll-exile-human-mind-picture-drive
+bip_39_word_new_br_1: solid
+bip_39_word_new_br_10: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next
+bip_39_word_new_br_11: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag
+bip_39_word_new_br_12: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive<br>next<br>flag<br>aim
+bip_39_word_new_br_2: solid<br>unit
+bip_39_word_new_br_3: solid<br>unit<br>cliff
+bip_39_word_new_br_4: solid<br>unit<br>cliff<br>doll
+bip_39_word_new_br_5: solid<br>unit<br>cliff<br>doll<br>exile
+bip_39_word_new_br_6: solid<br>unit<br>cliff<br>doll<br>exile<br>human
+bip_39_word_new_br_7: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind
+bip_39_word_new_br_8: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture
+bip_39_word_new_br_9: solid<br>unit<br>cliff<br>doll<br>exile<br>human<br>mind<br>picture<br>drive
+bip_39_word_new_line_1: solid
+bip_39_word_new_line_10: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next'
+bip_39_word_new_line_11: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next
+
+  flag'
+bip_39_word_new_line_12: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive
+
+  next
+
+  flag
+
+  aim'
+bip_39_word_new_line_2: 'solid
+
+  unit'
+bip_39_word_new_line_3: 'solid
+
+  unit
+
+  cliff'
+bip_39_word_new_line_4: 'solid
+
+  unit
+
+  cliff
+
+  doll'
+bip_39_word_new_line_5: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile'
+bip_39_word_new_line_6: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human'
+bip_39_word_new_line_7: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind'
+bip_39_word_new_line_8: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture'
+bip_39_word_new_line_9: 'solid
+
+  unit
+
+  cliff
+
+  doll
+
+  exile
+
+  human
+
+  mind
+
+  picture
+
+  drive'
+bip_39_word_no_space_1: solid
+bip_39_word_no_space_10: solidunitcliffdollexilehumanmindpicturedrivenext
+bip_39_word_no_space_11: solidunitcliffdollexilehumanmindpicturedrivenextflag
+bip_39_word_no_space_12: solidunitcliffdollexilehumanmindpicturedrivenextflagaim
+bip_39_word_no_space_2: solidunit
+bip_39_word_no_space_3: solidunitcliff
+bip_39_word_no_space_4: solidunitcliffdoll
+bip_39_word_no_space_5: solidunitcliffdollexile
+bip_39_word_no_space_6: solidunitcliffdollexilehuman
+bip_39_word_no_space_7: solidunitcliffdollexilehumanmind
+bip_39_word_no_space_8: solidunitcliffdollexilehumanmindpicture
+bip_39_word_no_space_9: solidunitcliffdollexilehumanmindpicturedrive
+bip_39_word_space_0:
+- solid
+- unit
+- cliff
+- doll
+- exile
+- human
+- mind
+- picture
+- drive
+- next
+- flag
+- aim
+bip_39_word_space_1: solid
+bip_39_word_space_10: solid unit cliff doll exile human mind picture drive next
+bip_39_word_space_11: solid unit cliff doll exile human mind picture drive next flag
+bip_39_word_space_12: solid unit cliff doll exile human mind picture drive next flag
+  aim
+bip_39_word_space_2: solid unit
+bip_39_word_space_3: solid unit cliff
+bip_39_word_space_4: solid unit cliff doll
+bip_39_word_space_5: solid unit cliff doll exile
+bip_39_word_space_6: solid unit cliff doll exile human
+bip_39_word_space_7: solid unit cliff doll exile human mind
+bip_39_word_space_8: solid unit cliff doll exile human mind picture
+bip_39_word_space_9: solid unit cliff doll exile human mind picture drive
+bip_39_word_underscore_1: solid
+bip_39_word_underscore_10: solid_unit_cliff_doll_exile_human_mind_picture_drive_next
+bip_39_word_underscore_11: solid_unit_cliff_doll_exile_human_mind_picture_drive_next_flag
+bip_39_word_underscore_12: solid_unit_cliff_doll_exile_human_mind_picture_drive_next_flag_aim
+bip_39_word_underscore_2: solid_unit
+bip_39_word_underscore_3: solid_unit_cliff
+bip_39_word_underscore_4: solid_unit_cliff_doll
+bip_39_word_underscore_5: solid_unit_cliff_doll_exile
+bip_39_word_underscore_6: solid_unit_cliff_doll_exile_human
+bip_39_word_underscore_7: solid_unit_cliff_doll_exile_human_mind
+bip_39_word_underscore_8: solid_unit_cliff_doll_exile_human_mind_picture
+bip_39_word_underscore_9: solid_unit_cliff_doll_exile_human_mind_picture_drive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_10_10_30
 id_no_color: '101030'
 id_no_size: '10_10_30'
 id_no_type: tray_10_10_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_10_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_10_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_10_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ayjp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ayjp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ayjp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '101030'
 name_no_size: 10 10 30
 name_no_size_short: 10 10 30
 name_no_type: Tray 10 10 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_10_30
 oomp_word: whale crown maple_leaf
 oomp_word_emoji: ':whale: :crown: :maple_leaf:'

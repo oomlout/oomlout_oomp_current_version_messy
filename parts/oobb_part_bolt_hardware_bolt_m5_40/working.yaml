@@ -1,3 +1,221 @@
+bip_39_word_dash_1: venue
+bip_39_word_dash_10: venue-since-avoid-exclude-minute-used-crew-sweet-live-foil
+bip_39_word_dash_11: venue-since-avoid-exclude-minute-used-crew-sweet-live-foil-pool
+bip_39_word_dash_12: venue-since-avoid-exclude-minute-used-crew-sweet-live-foil-pool-arch
+bip_39_word_dash_2: venue-since
+bip_39_word_dash_3: venue-since-avoid
+bip_39_word_dash_4: venue-since-avoid-exclude
+bip_39_word_dash_5: venue-since-avoid-exclude-minute
+bip_39_word_dash_6: venue-since-avoid-exclude-minute-used
+bip_39_word_dash_7: venue-since-avoid-exclude-minute-used-crew
+bip_39_word_dash_8: venue-since-avoid-exclude-minute-used-crew-sweet
+bip_39_word_dash_9: venue-since-avoid-exclude-minute-used-crew-sweet-live
+bip_39_word_new_br_1: venue
+bip_39_word_new_br_10: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil
+bip_39_word_new_br_11: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool
+bip_39_word_new_br_12: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live<br>foil<br>pool<br>arch
+bip_39_word_new_br_2: venue<br>since
+bip_39_word_new_br_3: venue<br>since<br>avoid
+bip_39_word_new_br_4: venue<br>since<br>avoid<br>exclude
+bip_39_word_new_br_5: venue<br>since<br>avoid<br>exclude<br>minute
+bip_39_word_new_br_6: venue<br>since<br>avoid<br>exclude<br>minute<br>used
+bip_39_word_new_br_7: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew
+bip_39_word_new_br_8: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet
+bip_39_word_new_br_9: venue<br>since<br>avoid<br>exclude<br>minute<br>used<br>crew<br>sweet<br>live
+bip_39_word_new_line_1: venue
+bip_39_word_new_line_10: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil'
+bip_39_word_new_line_11: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil
+
+  pool'
+bip_39_word_new_line_12: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live
+
+  foil
+
+  pool
+
+  arch'
+bip_39_word_new_line_2: 'venue
+
+  since'
+bip_39_word_new_line_3: 'venue
+
+  since
+
+  avoid'
+bip_39_word_new_line_4: 'venue
+
+  since
+
+  avoid
+
+  exclude'
+bip_39_word_new_line_5: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute'
+bip_39_word_new_line_6: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used'
+bip_39_word_new_line_7: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew'
+bip_39_word_new_line_8: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet'
+bip_39_word_new_line_9: 'venue
+
+  since
+
+  avoid
+
+  exclude
+
+  minute
+
+  used
+
+  crew
+
+  sweet
+
+  live'
+bip_39_word_no_space_1: venue
+bip_39_word_no_space_10: venuesinceavoidexcludeminuteusedcrewsweetlivefoil
+bip_39_word_no_space_11: venuesinceavoidexcludeminuteusedcrewsweetlivefoilpool
+bip_39_word_no_space_12: venuesinceavoidexcludeminuteusedcrewsweetlivefoilpoolarch
+bip_39_word_no_space_2: venuesince
+bip_39_word_no_space_3: venuesinceavoid
+bip_39_word_no_space_4: venuesinceavoidexclude
+bip_39_word_no_space_5: venuesinceavoidexcludeminute
+bip_39_word_no_space_6: venuesinceavoidexcludeminuteused
+bip_39_word_no_space_7: venuesinceavoidexcludeminuteusedcrew
+bip_39_word_no_space_8: venuesinceavoidexcludeminuteusedcrewsweet
+bip_39_word_no_space_9: venuesinceavoidexcludeminuteusedcrewsweetlive
+bip_39_word_space_0:
+- venue
+- since
+- avoid
+- exclude
+- minute
+- used
+- crew
+- sweet
+- live
+- foil
+- pool
+- arch
+bip_39_word_space_1: venue
+bip_39_word_space_10: venue since avoid exclude minute used crew sweet live foil
+bip_39_word_space_11: venue since avoid exclude minute used crew sweet live foil pool
+bip_39_word_space_12: venue since avoid exclude minute used crew sweet live foil pool
+  arch
+bip_39_word_space_2: venue since
+bip_39_word_space_3: venue since avoid
+bip_39_word_space_4: venue since avoid exclude
+bip_39_word_space_5: venue since avoid exclude minute
+bip_39_word_space_6: venue since avoid exclude minute used
+bip_39_word_space_7: venue since avoid exclude minute used crew
+bip_39_word_space_8: venue since avoid exclude minute used crew sweet
+bip_39_word_space_9: venue since avoid exclude minute used crew sweet live
+bip_39_word_underscore_1: venue
+bip_39_word_underscore_10: venue_since_avoid_exclude_minute_used_crew_sweet_live_foil
+bip_39_word_underscore_11: venue_since_avoid_exclude_minute_used_crew_sweet_live_foil_pool
+bip_39_word_underscore_12: venue_since_avoid_exclude_minute_used_crew_sweet_live_foil_pool_arch
+bip_39_word_underscore_2: venue_since
+bip_39_word_underscore_3: venue_since_avoid
+bip_39_word_underscore_4: venue_since_avoid_exclude
+bip_39_word_underscore_5: venue_since_avoid_exclude_minute
+bip_39_word_underscore_6: venue_since_avoid_exclude_minute_used
+bip_39_word_underscore_7: venue_since_avoid_exclude_minute_used_crew
+bip_39_word_underscore_8: venue_since_avoid_exclude_minute_used_crew_sweet
+bip_39_word_underscore_9: venue_since_avoid_exclude_minute_used_crew_sweet_live
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_bolt_hardware_bolt_m5_40
 id_no_color: hardwarem540
 id_no_size: hardware_m5_40
 id_no_type: bolt_hardware_bolt_m5_40
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bolt_hardware_bolt_m5_40
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206x2c6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206x2c6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206x2c6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: Hardwarem540
 name_no_size: Hardware M5 40
 name_no_size_short: Hardware M5 40
 name_no_type: Bolt Hardware Bolt M5 40
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bolt_hardware_bolt_m5_40
 oomp_word: briefcase beetle thumbsup
 oomp_word_emoji: ':briefcase: :beetle: :thumbsup:'

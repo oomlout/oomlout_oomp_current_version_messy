@@ -1,3 +1,223 @@
+bip_39_word_dash_1: tree
+bip_39_word_dash_10: tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite
+bip_39_word_dash_11: tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite-lounge
+bip_39_word_dash_12: tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper-elite-lounge-auction
+bip_39_word_dash_2: tree-wagon
+bip_39_word_dash_3: tree-wagon-siren
+bip_39_word_dash_4: tree-wagon-siren-observe
+bip_39_word_dash_5: tree-wagon-siren-observe-bicycle
+bip_39_word_dash_6: tree-wagon-siren-observe-bicycle-chapter
+bip_39_word_dash_7: tree-wagon-siren-observe-bicycle-chapter-zebra
+bip_39_word_dash_8: tree-wagon-siren-observe-bicycle-chapter-zebra-sibling
+bip_39_word_dash_9: tree-wagon-siren-observe-bicycle-chapter-zebra-sibling-whisper
+bip_39_word_new_br_1: tree
+bip_39_word_new_br_10: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite
+bip_39_word_new_br_11: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite<br>lounge
+bip_39_word_new_br_12: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper<br>elite<br>lounge<br>auction
+bip_39_word_new_br_2: tree<br>wagon
+bip_39_word_new_br_3: tree<br>wagon<br>siren
+bip_39_word_new_br_4: tree<br>wagon<br>siren<br>observe
+bip_39_word_new_br_5: tree<br>wagon<br>siren<br>observe<br>bicycle
+bip_39_word_new_br_6: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter
+bip_39_word_new_br_7: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra
+bip_39_word_new_br_8: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling
+bip_39_word_new_br_9: tree<br>wagon<br>siren<br>observe<br>bicycle<br>chapter<br>zebra<br>sibling<br>whisper
+bip_39_word_new_line_1: tree
+bip_39_word_new_line_10: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra
+
+  sibling
+
+  whisper
+
+  elite'
+bip_39_word_new_line_11: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra
+
+  sibling
+
+  whisper
+
+  elite
+
+  lounge'
+bip_39_word_new_line_12: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra
+
+  sibling
+
+  whisper
+
+  elite
+
+  lounge
+
+  auction'
+bip_39_word_new_line_2: 'tree
+
+  wagon'
+bip_39_word_new_line_3: 'tree
+
+  wagon
+
+  siren'
+bip_39_word_new_line_4: 'tree
+
+  wagon
+
+  siren
+
+  observe'
+bip_39_word_new_line_5: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle'
+bip_39_word_new_line_6: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter'
+bip_39_word_new_line_7: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra'
+bip_39_word_new_line_8: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra
+
+  sibling'
+bip_39_word_new_line_9: 'tree
+
+  wagon
+
+  siren
+
+  observe
+
+  bicycle
+
+  chapter
+
+  zebra
+
+  sibling
+
+  whisper'
+bip_39_word_no_space_1: tree
+bip_39_word_no_space_10: treewagonsirenobservebicyclechapterzebrasiblingwhisperelite
+bip_39_word_no_space_11: treewagonsirenobservebicyclechapterzebrasiblingwhisperelitelounge
+bip_39_word_no_space_12: treewagonsirenobservebicyclechapterzebrasiblingwhispereliteloungeauction
+bip_39_word_no_space_2: treewagon
+bip_39_word_no_space_3: treewagonsiren
+bip_39_word_no_space_4: treewagonsirenobserve
+bip_39_word_no_space_5: treewagonsirenobservebicycle
+bip_39_word_no_space_6: treewagonsirenobservebicyclechapter
+bip_39_word_no_space_7: treewagonsirenobservebicyclechapterzebra
+bip_39_word_no_space_8: treewagonsirenobservebicyclechapterzebrasibling
+bip_39_word_no_space_9: treewagonsirenobservebicyclechapterzebrasiblingwhisper
+bip_39_word_space_0:
+- tree
+- wagon
+- siren
+- observe
+- bicycle
+- chapter
+- zebra
+- sibling
+- whisper
+- elite
+- lounge
+- auction
+bip_39_word_space_1: tree
+bip_39_word_space_10: tree wagon siren observe bicycle chapter zebra sibling whisper
+  elite
+bip_39_word_space_11: tree wagon siren observe bicycle chapter zebra sibling whisper
+  elite lounge
+bip_39_word_space_12: tree wagon siren observe bicycle chapter zebra sibling whisper
+  elite lounge auction
+bip_39_word_space_2: tree wagon
+bip_39_word_space_3: tree wagon siren
+bip_39_word_space_4: tree wagon siren observe
+bip_39_word_space_5: tree wagon siren observe bicycle
+bip_39_word_space_6: tree wagon siren observe bicycle chapter
+bip_39_word_space_7: tree wagon siren observe bicycle chapter zebra
+bip_39_word_space_8: tree wagon siren observe bicycle chapter zebra sibling
+bip_39_word_space_9: tree wagon siren observe bicycle chapter zebra sibling whisper
+bip_39_word_underscore_1: tree
+bip_39_word_underscore_10: tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite
+bip_39_word_underscore_11: tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite_lounge
+bip_39_word_underscore_12: tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper_elite_lounge_auction
+bip_39_word_underscore_2: tree_wagon
+bip_39_word_underscore_3: tree_wagon_siren
+bip_39_word_underscore_4: tree_wagon_siren_observe
+bip_39_word_underscore_5: tree_wagon_siren_observe_bicycle
+bip_39_word_underscore_6: tree_wagon_siren_observe_bicycle_chapter
+bip_39_word_underscore_7: tree_wagon_siren_observe_bicycle_chapter_zebra
+bip_39_word_underscore_8: tree_wagon_siren_observe_bicycle_chapter_zebra_sibling
+bip_39_word_underscore_9: tree_wagon_siren_observe_bicycle_chapter_zebra_sibling_whisper
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_04_10_18
 id_no_color: 041018
 id_no_size: 04_10_18
 id_no_type: tray_04_10_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_10_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_10_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209brf6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209brf6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209brf6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 041018
 name_no_size: 04 10 18
 name_no_size_short: 04 10 18
 name_no_type: Tray 04 10 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_10_18
 oomp_word: truck scream paperclip
 oomp_word_emoji: ':truck: :scream: :paperclip:'

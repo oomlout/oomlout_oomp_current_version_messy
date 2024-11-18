@@ -1,4 +1,222 @@
 barcode_manufacturer_metalmate: '5050420696456'
+bip_39_word_dash_1: rent
+bip_39_word_dash_10: rent-left-street-crucial-clown-wave-puzzle-engage-join-law
+bip_39_word_dash_11: rent-left-street-crucial-clown-wave-puzzle-engage-join-law-dune
+bip_39_word_dash_12: rent-left-street-crucial-clown-wave-puzzle-engage-join-law-dune-arctic
+bip_39_word_dash_2: rent-left
+bip_39_word_dash_3: rent-left-street
+bip_39_word_dash_4: rent-left-street-crucial
+bip_39_word_dash_5: rent-left-street-crucial-clown
+bip_39_word_dash_6: rent-left-street-crucial-clown-wave
+bip_39_word_dash_7: rent-left-street-crucial-clown-wave-puzzle
+bip_39_word_dash_8: rent-left-street-crucial-clown-wave-puzzle-engage
+bip_39_word_dash_9: rent-left-street-crucial-clown-wave-puzzle-engage-join
+bip_39_word_new_br_1: rent
+bip_39_word_new_br_10: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join<br>law
+bip_39_word_new_br_11: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join<br>law<br>dune
+bip_39_word_new_br_12: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join<br>law<br>dune<br>arctic
+bip_39_word_new_br_2: rent<br>left
+bip_39_word_new_br_3: rent<br>left<br>street
+bip_39_word_new_br_4: rent<br>left<br>street<br>crucial
+bip_39_word_new_br_5: rent<br>left<br>street<br>crucial<br>clown
+bip_39_word_new_br_6: rent<br>left<br>street<br>crucial<br>clown<br>wave
+bip_39_word_new_br_7: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle
+bip_39_word_new_br_8: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage
+bip_39_word_new_br_9: rent<br>left<br>street<br>crucial<br>clown<br>wave<br>puzzle<br>engage<br>join
+bip_39_word_new_line_1: rent
+bip_39_word_new_line_10: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle
+
+  engage
+
+  join
+
+  law'
+bip_39_word_new_line_11: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle
+
+  engage
+
+  join
+
+  law
+
+  dune'
+bip_39_word_new_line_12: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle
+
+  engage
+
+  join
+
+  law
+
+  dune
+
+  arctic'
+bip_39_word_new_line_2: 'rent
+
+  left'
+bip_39_word_new_line_3: 'rent
+
+  left
+
+  street'
+bip_39_word_new_line_4: 'rent
+
+  left
+
+  street
+
+  crucial'
+bip_39_word_new_line_5: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown'
+bip_39_word_new_line_6: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave'
+bip_39_word_new_line_7: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle'
+bip_39_word_new_line_8: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle
+
+  engage'
+bip_39_word_new_line_9: 'rent
+
+  left
+
+  street
+
+  crucial
+
+  clown
+
+  wave
+
+  puzzle
+
+  engage
+
+  join'
+bip_39_word_no_space_1: rent
+bip_39_word_no_space_10: rentleftstreetcrucialclownwavepuzzleengagejoinlaw
+bip_39_word_no_space_11: rentleftstreetcrucialclownwavepuzzleengagejoinlawdune
+bip_39_word_no_space_12: rentleftstreetcrucialclownwavepuzzleengagejoinlawdunearctic
+bip_39_word_no_space_2: rentleft
+bip_39_word_no_space_3: rentleftstreet
+bip_39_word_no_space_4: rentleftstreetcrucial
+bip_39_word_no_space_5: rentleftstreetcrucialclown
+bip_39_word_no_space_6: rentleftstreetcrucialclownwave
+bip_39_word_no_space_7: rentleftstreetcrucialclownwavepuzzle
+bip_39_word_no_space_8: rentleftstreetcrucialclownwavepuzzleengage
+bip_39_word_no_space_9: rentleftstreetcrucialclownwavepuzzleengagejoin
+bip_39_word_space_0:
+- rent
+- left
+- street
+- crucial
+- clown
+- wave
+- puzzle
+- engage
+- join
+- law
+- dune
+- arctic
+bip_39_word_space_1: rent
+bip_39_word_space_10: rent left street crucial clown wave puzzle engage join law
+bip_39_word_space_11: rent left street crucial clown wave puzzle engage join law dune
+bip_39_word_space_12: rent left street crucial clown wave puzzle engage join law dune
+  arctic
+bip_39_word_space_2: rent left
+bip_39_word_space_3: rent left street
+bip_39_word_space_4: rent left street crucial
+bip_39_word_space_5: rent left street crucial clown
+bip_39_word_space_6: rent left street crucial clown wave
+bip_39_word_space_7: rent left street crucial clown wave puzzle
+bip_39_word_space_8: rent left street crucial clown wave puzzle engage
+bip_39_word_space_9: rent left street crucial clown wave puzzle engage join
+bip_39_word_underscore_1: rent
+bip_39_word_underscore_10: rent_left_street_crucial_clown_wave_puzzle_engage_join_law
+bip_39_word_underscore_11: rent_left_street_crucial_clown_wave_puzzle_engage_join_law_dune
+bip_39_word_underscore_12: rent_left_street_crucial_clown_wave_puzzle_engage_join_law_dune_arctic
+bip_39_word_underscore_2: rent_left
+bip_39_word_underscore_3: rent_left_street
+bip_39_word_underscore_4: rent_left_street_crucial
+bip_39_word_underscore_5: rent_left_street_crucial_clown
+bip_39_word_underscore_6: rent_left_street_crucial_clown_wave
+bip_39_word_underscore_7: rent_left_street_crucial_clown_wave_puzzle
+bip_39_word_underscore_8: rent_left_street_crucial_clown_wave_puzzle_engage
+bip_39_word_underscore_9: rent_left_street_crucial_clown_wave_puzzle_engage_join
 box_of_box_size_manufacturer_metalmate: '1200'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +356,22 @@ id_no_color: 90_mm_length_hex_head
 id_no_size: black_90_mm_length_hex_head
 id_no_type: m5_black_90_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_90_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_90_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-90-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m5-x-90-socket-cap-screw-gr12-9-self-colour-din-91-1150m470090
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-90-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-90-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_90_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206yrz3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206yrz3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206yrz3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +398,26 @@ name_no_color: 90 mm Length Hex Head
 name_no_size: Black 90 mm Length Hex Head
 name_no_size_short: Black 90 Mm Length Hex Head
 name_no_type: M5 Black 90 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 90 mm
+oomlout_bolt_length_no_unit: '90'
+oomlout_bolt_md5_6_alpha_first_3: 6yr
+oomlout_bolt_md5_6_alpha_first_3_upper: 6YR
+oomlout_bolt_md5_6_alpha_last_3: z3
+oomlout_bolt_md5_6_alpha_last_3_upper: Z3
+oomlout_bolt_md5_6_first_3: b28
+oomlout_bolt_md5_6_first_3_upper: B28
+oomlout_bolt_md5_6_last_3: 81f
+oomlout_bolt_md5_6_last_3_upper: 81F
+oomlout_bolt_name: Socket Cap M5X90 mm Black (Hex Head)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc5b90h
+oomlout_short_code_upper: SC5B90H
 oomp_id: hardware_screw_socket_cap_m5_black_90_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m5_black_90_mm_length_hex_head
 oomp_word: handbag wrench princess
@@ -189,12 +442,22 @@ price_1: '0.1741'
 price_100: '0.1741'
 price_1000: '0.087'
 price_10000: '0.0774'
+price_10000_distributor_1: '0.0774'
 price_10000_distributor_orbital_fasteners: '0.0774'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.087'
 price_1000_distributor_orbital_fasteners: '0.087'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.1741'
 price_100_distributor_orbital_fasteners: '0.1741'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.1741'
 price_1_distributor_orbital_fasteners: '0.1741'
+price_1_name: orbital_fasteners
 price_200: '0.0967'
+price_200_distributor_1: '0.0967'
 price_200_distributor_orbital_fasteners: '0.0967'
+price_200_name: orbital_fasteners
 price_current: '0.0967'
 quantity_current: '200'
 short_code: sc5b90h

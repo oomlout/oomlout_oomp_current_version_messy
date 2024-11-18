@@ -1,3 +1,222 @@
+bip_39_word_dash_1: defense
+bip_39_word_dash_10: defense-piece-sunny-salon-van-custom-foil-update-since-donkey
+bip_39_word_dash_11: defense-piece-sunny-salon-van-custom-foil-update-since-donkey-remind
+bip_39_word_dash_12: defense-piece-sunny-salon-van-custom-foil-update-since-donkey-remind-ask
+bip_39_word_dash_2: defense-piece
+bip_39_word_dash_3: defense-piece-sunny
+bip_39_word_dash_4: defense-piece-sunny-salon
+bip_39_word_dash_5: defense-piece-sunny-salon-van
+bip_39_word_dash_6: defense-piece-sunny-salon-van-custom
+bip_39_word_dash_7: defense-piece-sunny-salon-van-custom-foil
+bip_39_word_dash_8: defense-piece-sunny-salon-van-custom-foil-update
+bip_39_word_dash_9: defense-piece-sunny-salon-van-custom-foil-update-since
+bip_39_word_new_br_1: defense
+bip_39_word_new_br_10: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey
+bip_39_word_new_br_11: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey<br>remind
+bip_39_word_new_br_12: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since<br>donkey<br>remind<br>ask
+bip_39_word_new_br_2: defense<br>piece
+bip_39_word_new_br_3: defense<br>piece<br>sunny
+bip_39_word_new_br_4: defense<br>piece<br>sunny<br>salon
+bip_39_word_new_br_5: defense<br>piece<br>sunny<br>salon<br>van
+bip_39_word_new_br_6: defense<br>piece<br>sunny<br>salon<br>van<br>custom
+bip_39_word_new_br_7: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil
+bip_39_word_new_br_8: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update
+bip_39_word_new_br_9: defense<br>piece<br>sunny<br>salon<br>van<br>custom<br>foil<br>update<br>since
+bip_39_word_new_line_1: defense
+bip_39_word_new_line_10: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil
+
+  update
+
+  since
+
+  donkey'
+bip_39_word_new_line_11: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil
+
+  update
+
+  since
+
+  donkey
+
+  remind'
+bip_39_word_new_line_12: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil
+
+  update
+
+  since
+
+  donkey
+
+  remind
+
+  ask'
+bip_39_word_new_line_2: 'defense
+
+  piece'
+bip_39_word_new_line_3: 'defense
+
+  piece
+
+  sunny'
+bip_39_word_new_line_4: 'defense
+
+  piece
+
+  sunny
+
+  salon'
+bip_39_word_new_line_5: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van'
+bip_39_word_new_line_6: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom'
+bip_39_word_new_line_7: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil'
+bip_39_word_new_line_8: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil
+
+  update'
+bip_39_word_new_line_9: 'defense
+
+  piece
+
+  sunny
+
+  salon
+
+  van
+
+  custom
+
+  foil
+
+  update
+
+  since'
+bip_39_word_no_space_1: defense
+bip_39_word_no_space_10: defensepiecesunnysalonvancustomfoilupdatesincedonkey
+bip_39_word_no_space_11: defensepiecesunnysalonvancustomfoilupdatesincedonkeyremind
+bip_39_word_no_space_12: defensepiecesunnysalonvancustomfoilupdatesincedonkeyremindask
+bip_39_word_no_space_2: defensepiece
+bip_39_word_no_space_3: defensepiecesunny
+bip_39_word_no_space_4: defensepiecesunnysalon
+bip_39_word_no_space_5: defensepiecesunnysalonvan
+bip_39_word_no_space_6: defensepiecesunnysalonvancustom
+bip_39_word_no_space_7: defensepiecesunnysalonvancustomfoil
+bip_39_word_no_space_8: defensepiecesunnysalonvancustomfoilupdate
+bip_39_word_no_space_9: defensepiecesunnysalonvancustomfoilupdatesince
+bip_39_word_space_0:
+- defense
+- piece
+- sunny
+- salon
+- van
+- custom
+- foil
+- update
+- since
+- donkey
+- remind
+- ask
+bip_39_word_space_1: defense
+bip_39_word_space_10: defense piece sunny salon van custom foil update since donkey
+bip_39_word_space_11: defense piece sunny salon van custom foil update since donkey
+  remind
+bip_39_word_space_12: defense piece sunny salon van custom foil update since donkey
+  remind ask
+bip_39_word_space_2: defense piece
+bip_39_word_space_3: defense piece sunny
+bip_39_word_space_4: defense piece sunny salon
+bip_39_word_space_5: defense piece sunny salon van
+bip_39_word_space_6: defense piece sunny salon van custom
+bip_39_word_space_7: defense piece sunny salon van custom foil
+bip_39_word_space_8: defense piece sunny salon van custom foil update
+bip_39_word_space_9: defense piece sunny salon van custom foil update since
+bip_39_word_underscore_1: defense
+bip_39_word_underscore_10: defense_piece_sunny_salon_van_custom_foil_update_since_donkey
+bip_39_word_underscore_11: defense_piece_sunny_salon_van_custom_foil_update_since_donkey_remind
+bip_39_word_underscore_12: defense_piece_sunny_salon_van_custom_foil_update_since_donkey_remind_ask
+bip_39_word_underscore_2: defense_piece
+bip_39_word_underscore_3: defense_piece_sunny
+bip_39_word_underscore_4: defense_piece_sunny_salon
+bip_39_word_underscore_5: defense_piece_sunny_salon_van
+bip_39_word_underscore_6: defense_piece_sunny_salon_van_custom
+bip_39_word_underscore_7: defense_piece_sunny_salon_van_custom_foil
+bip_39_word_underscore_8: defense_piece_sunny_salon_van_custom_foil_update
+bip_39_word_underscore_9: defense_piece_sunny_salon_van_custom_foil_update_since
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_11_21
 id_no_color: 1d51121
 id_no_size: 1d5_11_21
 id_no_type: tray_1d5_11_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_11_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208bs7k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208bs7k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208bs7k
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D51121
 name_no_size: 1D5 11 21
 name_no_size_short: 1D5 11 21
 name_no_type: Tray 1D5 11 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_11_21
 oomp_word: house chestnut scissors
 oomp_word_emoji: ':house: :chestnut: :scissors:'

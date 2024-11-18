@@ -1,3 +1,222 @@
+bip_39_word_dash_1: leg
+bip_39_word_dash_10: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic
+bip_39_word_dash_11: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic-derive
+bip_39_word_dash_12: leg-host-reopen-kick-bright-lounge-chalk-bullet-become-drastic-derive-aisle
+bip_39_word_dash_2: leg-host
+bip_39_word_dash_3: leg-host-reopen
+bip_39_word_dash_4: leg-host-reopen-kick
+bip_39_word_dash_5: leg-host-reopen-kick-bright
+bip_39_word_dash_6: leg-host-reopen-kick-bright-lounge
+bip_39_word_dash_7: leg-host-reopen-kick-bright-lounge-chalk
+bip_39_word_dash_8: leg-host-reopen-kick-bright-lounge-chalk-bullet
+bip_39_word_dash_9: leg-host-reopen-kick-bright-lounge-chalk-bullet-become
+bip_39_word_new_br_1: leg
+bip_39_word_new_br_10: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic
+bip_39_word_new_br_11: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive
+bip_39_word_new_br_12: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become<br>drastic<br>derive<br>aisle
+bip_39_word_new_br_2: leg<br>host
+bip_39_word_new_br_3: leg<br>host<br>reopen
+bip_39_word_new_br_4: leg<br>host<br>reopen<br>kick
+bip_39_word_new_br_5: leg<br>host<br>reopen<br>kick<br>bright
+bip_39_word_new_br_6: leg<br>host<br>reopen<br>kick<br>bright<br>lounge
+bip_39_word_new_br_7: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk
+bip_39_word_new_br_8: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet
+bip_39_word_new_br_9: leg<br>host<br>reopen<br>kick<br>bright<br>lounge<br>chalk<br>bullet<br>become
+bip_39_word_new_line_1: leg
+bip_39_word_new_line_10: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk
+
+  bullet
+
+  become
+
+  drastic'
+bip_39_word_new_line_11: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk
+
+  bullet
+
+  become
+
+  drastic
+
+  derive'
+bip_39_word_new_line_12: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk
+
+  bullet
+
+  become
+
+  drastic
+
+  derive
+
+  aisle'
+bip_39_word_new_line_2: 'leg
+
+  host'
+bip_39_word_new_line_3: 'leg
+
+  host
+
+  reopen'
+bip_39_word_new_line_4: 'leg
+
+  host
+
+  reopen
+
+  kick'
+bip_39_word_new_line_5: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright'
+bip_39_word_new_line_6: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge'
+bip_39_word_new_line_7: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk'
+bip_39_word_new_line_8: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk
+
+  bullet'
+bip_39_word_new_line_9: 'leg
+
+  host
+
+  reopen
+
+  kick
+
+  bright
+
+  lounge
+
+  chalk
+
+  bullet
+
+  become'
+bip_39_word_no_space_1: leg
+bip_39_word_no_space_10: leghostreopenkickbrightloungechalkbulletbecomedrastic
+bip_39_word_no_space_11: leghostreopenkickbrightloungechalkbulletbecomedrasticderive
+bip_39_word_no_space_12: leghostreopenkickbrightloungechalkbulletbecomedrasticderiveaisle
+bip_39_word_no_space_2: leghost
+bip_39_word_no_space_3: leghostreopen
+bip_39_word_no_space_4: leghostreopenkick
+bip_39_word_no_space_5: leghostreopenkickbright
+bip_39_word_no_space_6: leghostreopenkickbrightlounge
+bip_39_word_no_space_7: leghostreopenkickbrightloungechalk
+bip_39_word_no_space_8: leghostreopenkickbrightloungechalkbullet
+bip_39_word_no_space_9: leghostreopenkickbrightloungechalkbulletbecome
+bip_39_word_space_0:
+- leg
+- host
+- reopen
+- kick
+- bright
+- lounge
+- chalk
+- bullet
+- become
+- drastic
+- derive
+- aisle
+bip_39_word_space_1: leg
+bip_39_word_space_10: leg host reopen kick bright lounge chalk bullet become drastic
+bip_39_word_space_11: leg host reopen kick bright lounge chalk bullet become drastic
+  derive
+bip_39_word_space_12: leg host reopen kick bright lounge chalk bullet become drastic
+  derive aisle
+bip_39_word_space_2: leg host
+bip_39_word_space_3: leg host reopen
+bip_39_word_space_4: leg host reopen kick
+bip_39_word_space_5: leg host reopen kick bright
+bip_39_word_space_6: leg host reopen kick bright lounge
+bip_39_word_space_7: leg host reopen kick bright lounge chalk
+bip_39_word_space_8: leg host reopen kick bright lounge chalk bullet
+bip_39_word_space_9: leg host reopen kick bright lounge chalk bullet become
+bip_39_word_underscore_1: leg
+bip_39_word_underscore_10: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic
+bip_39_word_underscore_11: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic_derive
+bip_39_word_underscore_12: leg_host_reopen_kick_bright_lounge_chalk_bullet_become_drastic_derive_aisle
+bip_39_word_underscore_2: leg_host
+bip_39_word_underscore_3: leg_host_reopen
+bip_39_word_underscore_4: leg_host_reopen_kick
+bip_39_word_underscore_5: leg_host_reopen_kick_bright
+bip_39_word_underscore_6: leg_host_reopen_kick_bright_lounge
+bip_39_word_underscore_7: leg_host_reopen_kick_bright_lounge_chalk
+bip_39_word_underscore_8: leg_host_reopen_kick_bright_lounge_chalk_bullet
+bip_39_word_underscore_9: leg_host_reopen_kick_bright_lounge_chalk_bullet_become
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_19_01_03
 id_no_color: '190103'
 id_no_size: '19_01_03'
 id_no_type: plate_19_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_19_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_19_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_19_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203j2kw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203j2kw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203j2kw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '190103'
 name_no_size: 19 01 03
 name_no_size_short: 19 01 03
 name_no_type: Plate 19 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_19_01_03
 oomp_word: goat santa banana
 oomp_word_emoji: ':goat: :santa: :banana:'

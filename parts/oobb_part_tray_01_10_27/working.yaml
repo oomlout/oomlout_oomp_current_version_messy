@@ -1,3 +1,221 @@
+bip_39_word_dash_1: ball
+bip_39_word_dash_10: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern
+bip_39_word_dash_11: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern-foot
+bip_39_word_dash_12: ball-good-seat-chest-ridge-crack-old-squeeze-inhale-govern-foot-attitude
+bip_39_word_dash_2: ball-good
+bip_39_word_dash_3: ball-good-seat
+bip_39_word_dash_4: ball-good-seat-chest
+bip_39_word_dash_5: ball-good-seat-chest-ridge
+bip_39_word_dash_6: ball-good-seat-chest-ridge-crack
+bip_39_word_dash_7: ball-good-seat-chest-ridge-crack-old
+bip_39_word_dash_8: ball-good-seat-chest-ridge-crack-old-squeeze
+bip_39_word_dash_9: ball-good-seat-chest-ridge-crack-old-squeeze-inhale
+bip_39_word_new_br_1: ball
+bip_39_word_new_br_10: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern
+bip_39_word_new_br_11: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot
+bip_39_word_new_br_12: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale<br>govern<br>foot<br>attitude
+bip_39_word_new_br_2: ball<br>good
+bip_39_word_new_br_3: ball<br>good<br>seat
+bip_39_word_new_br_4: ball<br>good<br>seat<br>chest
+bip_39_word_new_br_5: ball<br>good<br>seat<br>chest<br>ridge
+bip_39_word_new_br_6: ball<br>good<br>seat<br>chest<br>ridge<br>crack
+bip_39_word_new_br_7: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old
+bip_39_word_new_br_8: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze
+bip_39_word_new_br_9: ball<br>good<br>seat<br>chest<br>ridge<br>crack<br>old<br>squeeze<br>inhale
+bip_39_word_new_line_1: ball
+bip_39_word_new_line_10: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old
+
+  squeeze
+
+  inhale
+
+  govern'
+bip_39_word_new_line_11: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old
+
+  squeeze
+
+  inhale
+
+  govern
+
+  foot'
+bip_39_word_new_line_12: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old
+
+  squeeze
+
+  inhale
+
+  govern
+
+  foot
+
+  attitude'
+bip_39_word_new_line_2: 'ball
+
+  good'
+bip_39_word_new_line_3: 'ball
+
+  good
+
+  seat'
+bip_39_word_new_line_4: 'ball
+
+  good
+
+  seat
+
+  chest'
+bip_39_word_new_line_5: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge'
+bip_39_word_new_line_6: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack'
+bip_39_word_new_line_7: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old'
+bip_39_word_new_line_8: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old
+
+  squeeze'
+bip_39_word_new_line_9: 'ball
+
+  good
+
+  seat
+
+  chest
+
+  ridge
+
+  crack
+
+  old
+
+  squeeze
+
+  inhale'
+bip_39_word_no_space_1: ball
+bip_39_word_no_space_10: ballgoodseatchestridgecrackoldsqueezeinhalegovern
+bip_39_word_no_space_11: ballgoodseatchestridgecrackoldsqueezeinhalegovernfoot
+bip_39_word_no_space_12: ballgoodseatchestridgecrackoldsqueezeinhalegovernfootattitude
+bip_39_word_no_space_2: ballgood
+bip_39_word_no_space_3: ballgoodseat
+bip_39_word_no_space_4: ballgoodseatchest
+bip_39_word_no_space_5: ballgoodseatchestridge
+bip_39_word_no_space_6: ballgoodseatchestridgecrack
+bip_39_word_no_space_7: ballgoodseatchestridgecrackold
+bip_39_word_no_space_8: ballgoodseatchestridgecrackoldsqueeze
+bip_39_word_no_space_9: ballgoodseatchestridgecrackoldsqueezeinhale
+bip_39_word_space_0:
+- ball
+- good
+- seat
+- chest
+- ridge
+- crack
+- old
+- squeeze
+- inhale
+- govern
+- foot
+- attitude
+bip_39_word_space_1: ball
+bip_39_word_space_10: ball good seat chest ridge crack old squeeze inhale govern
+bip_39_word_space_11: ball good seat chest ridge crack old squeeze inhale govern foot
+bip_39_word_space_12: ball good seat chest ridge crack old squeeze inhale govern foot
+  attitude
+bip_39_word_space_2: ball good
+bip_39_word_space_3: ball good seat
+bip_39_word_space_4: ball good seat chest
+bip_39_word_space_5: ball good seat chest ridge
+bip_39_word_space_6: ball good seat chest ridge crack
+bip_39_word_space_7: ball good seat chest ridge crack old
+bip_39_word_space_8: ball good seat chest ridge crack old squeeze
+bip_39_word_space_9: ball good seat chest ridge crack old squeeze inhale
+bip_39_word_underscore_1: ball
+bip_39_word_underscore_10: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern
+bip_39_word_underscore_11: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern_foot
+bip_39_word_underscore_12: ball_good_seat_chest_ridge_crack_old_squeeze_inhale_govern_foot_attitude
+bip_39_word_underscore_2: ball_good
+bip_39_word_underscore_3: ball_good_seat
+bip_39_word_underscore_4: ball_good_seat_chest
+bip_39_word_underscore_5: ball_good_seat_chest_ridge
+bip_39_word_underscore_6: ball_good_seat_chest_ridge_crack
+bip_39_word_underscore_7: ball_good_seat_chest_ridge_crack_old
+bip_39_word_underscore_8: ball_good_seat_chest_ridge_crack_old_squeeze
+bip_39_word_underscore_9: ball_good_seat_chest_ridge_crack_old_squeeze_inhale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_01_10_27
 id_no_color: '011027'
 id_no_size: '01_10_27'
 id_no_type: tray_01_10_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_10_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_10_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2095ot5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2095ot5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2095ot5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '011027'
 name_no_size: 01 10 27
 name_no_size_short: 01 10 27
 name_no_type: Tray 01 10 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_10_27
 oomp_word: tractor tea bank
 oomp_word_emoji: ':tractor: :tea: :bank:'

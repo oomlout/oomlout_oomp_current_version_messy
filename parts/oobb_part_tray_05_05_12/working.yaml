@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pole
+bip_39_word_dash_10: pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon
+bip_39_word_dash_11: pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon-leaf
+bip_39_word_dash_12: pole-route-until-grape-basic-wagon-nominee-sand-feed-weapon-leaf-above
+bip_39_word_dash_2: pole-route
+bip_39_word_dash_3: pole-route-until
+bip_39_word_dash_4: pole-route-until-grape
+bip_39_word_dash_5: pole-route-until-grape-basic
+bip_39_word_dash_6: pole-route-until-grape-basic-wagon
+bip_39_word_dash_7: pole-route-until-grape-basic-wagon-nominee
+bip_39_word_dash_8: pole-route-until-grape-basic-wagon-nominee-sand
+bip_39_word_dash_9: pole-route-until-grape-basic-wagon-nominee-sand-feed
+bip_39_word_new_br_1: pole
+bip_39_word_new_br_10: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon
+bip_39_word_new_br_11: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon<br>leaf
+bip_39_word_new_br_12: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed<br>weapon<br>leaf<br>above
+bip_39_word_new_br_2: pole<br>route
+bip_39_word_new_br_3: pole<br>route<br>until
+bip_39_word_new_br_4: pole<br>route<br>until<br>grape
+bip_39_word_new_br_5: pole<br>route<br>until<br>grape<br>basic
+bip_39_word_new_br_6: pole<br>route<br>until<br>grape<br>basic<br>wagon
+bip_39_word_new_br_7: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee
+bip_39_word_new_br_8: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand
+bip_39_word_new_br_9: pole<br>route<br>until<br>grape<br>basic<br>wagon<br>nominee<br>sand<br>feed
+bip_39_word_new_line_1: pole
+bip_39_word_new_line_10: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee
+
+  sand
+
+  feed
+
+  weapon'
+bip_39_word_new_line_11: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee
+
+  sand
+
+  feed
+
+  weapon
+
+  leaf'
+bip_39_word_new_line_12: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee
+
+  sand
+
+  feed
+
+  weapon
+
+  leaf
+
+  above'
+bip_39_word_new_line_2: 'pole
+
+  route'
+bip_39_word_new_line_3: 'pole
+
+  route
+
+  until'
+bip_39_word_new_line_4: 'pole
+
+  route
+
+  until
+
+  grape'
+bip_39_word_new_line_5: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic'
+bip_39_word_new_line_6: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon'
+bip_39_word_new_line_7: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee'
+bip_39_word_new_line_8: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee
+
+  sand'
+bip_39_word_new_line_9: 'pole
+
+  route
+
+  until
+
+  grape
+
+  basic
+
+  wagon
+
+  nominee
+
+  sand
+
+  feed'
+bip_39_word_no_space_1: pole
+bip_39_word_no_space_10: polerouteuntilgrapebasicwagonnomineesandfeedweapon
+bip_39_word_no_space_11: polerouteuntilgrapebasicwagonnomineesandfeedweaponleaf
+bip_39_word_no_space_12: polerouteuntilgrapebasicwagonnomineesandfeedweaponleafabove
+bip_39_word_no_space_2: poleroute
+bip_39_word_no_space_3: polerouteuntil
+bip_39_word_no_space_4: polerouteuntilgrape
+bip_39_word_no_space_5: polerouteuntilgrapebasic
+bip_39_word_no_space_6: polerouteuntilgrapebasicwagon
+bip_39_word_no_space_7: polerouteuntilgrapebasicwagonnominee
+bip_39_word_no_space_8: polerouteuntilgrapebasicwagonnomineesand
+bip_39_word_no_space_9: polerouteuntilgrapebasicwagonnomineesandfeed
+bip_39_word_space_0:
+- pole
+- route
+- until
+- grape
+- basic
+- wagon
+- nominee
+- sand
+- feed
+- weapon
+- leaf
+- above
+bip_39_word_space_1: pole
+bip_39_word_space_10: pole route until grape basic wagon nominee sand feed weapon
+bip_39_word_space_11: pole route until grape basic wagon nominee sand feed weapon
+  leaf
+bip_39_word_space_12: pole route until grape basic wagon nominee sand feed weapon
+  leaf above
+bip_39_word_space_2: pole route
+bip_39_word_space_3: pole route until
+bip_39_word_space_4: pole route until grape
+bip_39_word_space_5: pole route until grape basic
+bip_39_word_space_6: pole route until grape basic wagon
+bip_39_word_space_7: pole route until grape basic wagon nominee
+bip_39_word_space_8: pole route until grape basic wagon nominee sand
+bip_39_word_space_9: pole route until grape basic wagon nominee sand feed
+bip_39_word_underscore_1: pole
+bip_39_word_underscore_10: pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon
+bip_39_word_underscore_11: pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon_leaf
+bip_39_word_underscore_12: pole_route_until_grape_basic_wagon_nominee_sand_feed_weapon_leaf_above
+bip_39_word_underscore_2: pole_route
+bip_39_word_underscore_3: pole_route_until
+bip_39_word_underscore_4: pole_route_until_grape
+bip_39_word_underscore_5: pole_route_until_grape_basic
+bip_39_word_underscore_6: pole_route_until_grape_basic_wagon
+bip_39_word_underscore_7: pole_route_until_grape_basic_wagon_nominee
+bip_39_word_underscore_8: pole_route_until_grape_basic_wagon_nominee_sand
+bip_39_word_underscore_9: pole_route_until_grape_basic_wagon_nominee_sand_feed
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_05_12
 id_no_color: '050512'
 id_no_size: '05_05_12'
 id_no_type: tray_05_05_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_05_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_05_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_05_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20cmm6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20cmm6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20cmm6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050512'
 name_no_size: 05 05 12
 name_no_size_short: 05 05 12
 name_no_type: Tray 05 05 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_05_12
 oomp_word: scream parking fax
 oomp_word_emoji: ':scream: :parking: :fax:'

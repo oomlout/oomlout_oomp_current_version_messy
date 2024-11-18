@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Storage Box Warehouse Cardboard 122 mm Width 110 mm Height 175 mm Depth Oomlout Box 1
+* name_short: 
 ### id
 * oomp_id: storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1
   * classification: storage
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rose: :crocodile: :pill:
 * md5_6_alpha: 3vkwc
 * md5_6: 635e8c
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%203vkwc)
+[2x1](http://192.168.1.242:1112/?label=oomp%203vkwc)
+[6x4](http://192.168.1.55:1112/?label=oomp%203vkwc)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ mom |
 | id_no_color | cardboard122mmwidth110mmheight175mmdepthoomloutbox1 |  
 | id_no_size | cardboard122mmwidth110mmheight175mmdepthoomloutbox1 |  
 | id_no_type | cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203vkwc |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%203vkwc |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%203vkwc |  
 | manufacturer | oomlout |  
 | manufacturer_capital | Oomlout |  
 | manufacturer_first_letter | o |  
@@ -328,6 +361,7 @@ mom |
 | name_no_size | Cardboard122mmwidth110mmheight175mmdepthoomloutbox1 |  
 | name_no_size_short | Cardboard122Mmwidth110Mmheight175Mmdepthoomloutbox1 |  
 | name_no_type | Cardboard 122 mm Width 110 mm Height 175 mm Depth Oomlout Box 1 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
 | oomp_word | rose crocodile pill |  
 | oomp_word_emoji | :rose: :crocodile: :pill: |  

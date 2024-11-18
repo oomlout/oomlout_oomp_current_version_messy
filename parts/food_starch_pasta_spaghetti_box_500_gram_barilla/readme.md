@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 pasta_spaghetti
 
+### name
+* name: Food Starch Pasta Spaghetti Box 500 Gram Barilla
+* name_short: Pasta Spaghetti Box
 ### id
 * oomp_id: food_starch_pasta_spaghetti_box_500_gram_barilla
   * classification: food

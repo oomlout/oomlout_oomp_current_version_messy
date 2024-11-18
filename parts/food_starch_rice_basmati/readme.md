@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 rice_basmati
 
+### name
+* name: Food Starch Rice Basmati
+* name_short: Rice Basmati
 ### id
 * oomp_id: food_starch_rice_basmati
   * classification: food

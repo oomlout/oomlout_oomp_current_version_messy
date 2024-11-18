@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Baking Pyrex Caserole Dish Round 1600 Ml 200 mm Diameter 80 mm Depth Pyrex 204A000
+* name_short: 
 ### id
 * oomp_id: dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
   * classification: dish

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: tumble
+bip_39_word_dash_10: tumble-hill-rich-father-split-smooth-off-key-rude-always
+bip_39_word_dash_11: tumble-hill-rich-father-split-smooth-off-key-rude-always-tennis
+bip_39_word_dash_12: tumble-hill-rich-father-split-smooth-off-key-rude-always-tennis-abuse
+bip_39_word_dash_2: tumble-hill
+bip_39_word_dash_3: tumble-hill-rich
+bip_39_word_dash_4: tumble-hill-rich-father
+bip_39_word_dash_5: tumble-hill-rich-father-split
+bip_39_word_dash_6: tumble-hill-rich-father-split-smooth
+bip_39_word_dash_7: tumble-hill-rich-father-split-smooth-off
+bip_39_word_dash_8: tumble-hill-rich-father-split-smooth-off-key
+bip_39_word_dash_9: tumble-hill-rich-father-split-smooth-off-key-rude
+bip_39_word_new_br_1: tumble
+bip_39_word_new_br_10: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always
+bip_39_word_new_br_11: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis
+bip_39_word_new_br_12: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude<br>always<br>tennis<br>abuse
+bip_39_word_new_br_2: tumble<br>hill
+bip_39_word_new_br_3: tumble<br>hill<br>rich
+bip_39_word_new_br_4: tumble<br>hill<br>rich<br>father
+bip_39_word_new_br_5: tumble<br>hill<br>rich<br>father<br>split
+bip_39_word_new_br_6: tumble<br>hill<br>rich<br>father<br>split<br>smooth
+bip_39_word_new_br_7: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off
+bip_39_word_new_br_8: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key
+bip_39_word_new_br_9: tumble<br>hill<br>rich<br>father<br>split<br>smooth<br>off<br>key<br>rude
+bip_39_word_new_line_1: tumble
+bip_39_word_new_line_10: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always'
+bip_39_word_new_line_11: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always
+
+  tennis'
+bip_39_word_new_line_12: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude
+
+  always
+
+  tennis
+
+  abuse'
+bip_39_word_new_line_2: 'tumble
+
+  hill'
+bip_39_word_new_line_3: 'tumble
+
+  hill
+
+  rich'
+bip_39_word_new_line_4: 'tumble
+
+  hill
+
+  rich
+
+  father'
+bip_39_word_new_line_5: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split'
+bip_39_word_new_line_6: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth'
+bip_39_word_new_line_7: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off'
+bip_39_word_new_line_8: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key'
+bip_39_word_new_line_9: 'tumble
+
+  hill
+
+  rich
+
+  father
+
+  split
+
+  smooth
+
+  off
+
+  key
+
+  rude'
+bip_39_word_no_space_1: tumble
+bip_39_word_no_space_10: tumblehillrichfathersplitsmoothoffkeyrudealways
+bip_39_word_no_space_11: tumblehillrichfathersplitsmoothoffkeyrudealwaystennis
+bip_39_word_no_space_12: tumblehillrichfathersplitsmoothoffkeyrudealwaystennisabuse
+bip_39_word_no_space_2: tumblehill
+bip_39_word_no_space_3: tumblehillrich
+bip_39_word_no_space_4: tumblehillrichfather
+bip_39_word_no_space_5: tumblehillrichfathersplit
+bip_39_word_no_space_6: tumblehillrichfathersplitsmooth
+bip_39_word_no_space_7: tumblehillrichfathersplitsmoothoff
+bip_39_word_no_space_8: tumblehillrichfathersplitsmoothoffkey
+bip_39_word_no_space_9: tumblehillrichfathersplitsmoothoffkeyrude
+bip_39_word_space_0:
+- tumble
+- hill
+- rich
+- father
+- split
+- smooth
+- 'off'
+- key
+- rude
+- always
+- tennis
+- abuse
+bip_39_word_space_1: tumble
+bip_39_word_space_10: tumble hill rich father split smooth off key rude always
+bip_39_word_space_11: tumble hill rich father split smooth off key rude always tennis
+bip_39_word_space_12: tumble hill rich father split smooth off key rude always tennis
+  abuse
+bip_39_word_space_2: tumble hill
+bip_39_word_space_3: tumble hill rich
+bip_39_word_space_4: tumble hill rich father
+bip_39_word_space_5: tumble hill rich father split
+bip_39_word_space_6: tumble hill rich father split smooth
+bip_39_word_space_7: tumble hill rich father split smooth off
+bip_39_word_space_8: tumble hill rich father split smooth off key
+bip_39_word_space_9: tumble hill rich father split smooth off key rude
+bip_39_word_underscore_1: tumble
+bip_39_word_underscore_10: tumble_hill_rich_father_split_smooth_off_key_rude_always
+bip_39_word_underscore_11: tumble_hill_rich_father_split_smooth_off_key_rude_always_tennis
+bip_39_word_underscore_12: tumble_hill_rich_father_split_smooth_off_key_rude_always_tennis_abuse
+bip_39_word_underscore_2: tumble_hill
+bip_39_word_underscore_3: tumble_hill_rich
+bip_39_word_underscore_4: tumble_hill_rich_father
+bip_39_word_underscore_5: tumble_hill_rich_father_split
+bip_39_word_underscore_6: tumble_hill_rich_father_split_smooth
+bip_39_word_underscore_7: tumble_hill_rich_father_split_smooth_off
+bip_39_word_underscore_8: tumble_hill_rich_father_split_smooth_off_key
+bip_39_word_underscore_9: tumble_hill_rich_father_split_smooth_off_key_rude
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
 id_no_color: 020960teethshieldshmotortt01
 id_no_size: 02_09__60_teeth_shield_sh_motor_tt_01
 id_no_type: pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20rqdd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20rqdd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20rqdd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 020960Teethshieldshmotortt01
 name_no_size: 02 09  60 Teeth Shield Sh Motor Tt 01
 name_no_size_short: 02 09  60 Teeth Shield Sh Motor Tt 01
 name_no_type: Pulley Gt2 02 09  60 Teeth Shield Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__60_teeth_shield_sh_motor_tt_01
 oomp_word: question ramen camel
 oomp_word_emoji: ':question: :ramen: :camel:'

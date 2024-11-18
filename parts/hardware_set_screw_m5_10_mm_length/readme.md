@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Set Screw M5 10 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_set_screw_m5_10_mm_length
   * classification: hardware

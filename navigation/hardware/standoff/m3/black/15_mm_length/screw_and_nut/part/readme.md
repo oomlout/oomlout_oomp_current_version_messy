@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Standoff M3 Black 15 mm Length Screw And Nut
+* name_short: 
 ### id
 * oomp_id: hardware_standoff_m3_black_15_mm_length_screw_and_nut
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :door: :crown: :squirrel:
 * md5_6_alpha: 5g7sg
 * md5_6: 8bb070
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205g7sg)
+[2x1](http://192.168.1.242:1112/?label=oomp%205g7sg)
+[6x4](http://192.168.1.55:1112/?label=oomp%205g7sg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -306,7 +332,14 @@ brain |
 | id_no_size | black_15_mm_length_screw_and_nut |  
 | id_no_type | m3_black_15_mm_length_screw_and_nut |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_15_mm_length_screw_and_nut |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205g7sg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205g7sg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205g7sg |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -347,6 +380,7 @@ brain |
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | so3b15sn |  
 | oomlout_short_code_upper | SO3B15SN |  
 | oomp_key | oomp_hardware_standoff_m3_black_15_mm_length_screw_and_nut |  

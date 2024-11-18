@@ -1,3 +1,223 @@
+bip_39_word_dash_1: burst
+bip_39_word_dash_10: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive
+bip_39_word_dash_11: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive-jazz
+bip_39_word_dash_12: burst-shine-empower-exist-habit-second-roast-betray-correct-thrive-jazz-annual
+bip_39_word_dash_2: burst-shine
+bip_39_word_dash_3: burst-shine-empower
+bip_39_word_dash_4: burst-shine-empower-exist
+bip_39_word_dash_5: burst-shine-empower-exist-habit
+bip_39_word_dash_6: burst-shine-empower-exist-habit-second
+bip_39_word_dash_7: burst-shine-empower-exist-habit-second-roast
+bip_39_word_dash_8: burst-shine-empower-exist-habit-second-roast-betray
+bip_39_word_dash_9: burst-shine-empower-exist-habit-second-roast-betray-correct
+bip_39_word_new_br_1: burst
+bip_39_word_new_br_10: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive
+bip_39_word_new_br_11: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz
+bip_39_word_new_br_12: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct<br>thrive<br>jazz<br>annual
+bip_39_word_new_br_2: burst<br>shine
+bip_39_word_new_br_3: burst<br>shine<br>empower
+bip_39_word_new_br_4: burst<br>shine<br>empower<br>exist
+bip_39_word_new_br_5: burst<br>shine<br>empower<br>exist<br>habit
+bip_39_word_new_br_6: burst<br>shine<br>empower<br>exist<br>habit<br>second
+bip_39_word_new_br_7: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast
+bip_39_word_new_br_8: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray
+bip_39_word_new_br_9: burst<br>shine<br>empower<br>exist<br>habit<br>second<br>roast<br>betray<br>correct
+bip_39_word_new_line_1: burst
+bip_39_word_new_line_10: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast
+
+  betray
+
+  correct
+
+  thrive'
+bip_39_word_new_line_11: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast
+
+  betray
+
+  correct
+
+  thrive
+
+  jazz'
+bip_39_word_new_line_12: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast
+
+  betray
+
+  correct
+
+  thrive
+
+  jazz
+
+  annual'
+bip_39_word_new_line_2: 'burst
+
+  shine'
+bip_39_word_new_line_3: 'burst
+
+  shine
+
+  empower'
+bip_39_word_new_line_4: 'burst
+
+  shine
+
+  empower
+
+  exist'
+bip_39_word_new_line_5: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit'
+bip_39_word_new_line_6: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second'
+bip_39_word_new_line_7: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast'
+bip_39_word_new_line_8: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast
+
+  betray'
+bip_39_word_new_line_9: 'burst
+
+  shine
+
+  empower
+
+  exist
+
+  habit
+
+  second
+
+  roast
+
+  betray
+
+  correct'
+bip_39_word_no_space_1: burst
+bip_39_word_no_space_10: burstshineempowerexisthabitsecondroastbetraycorrectthrive
+bip_39_word_no_space_11: burstshineempowerexisthabitsecondroastbetraycorrectthrivejazz
+bip_39_word_no_space_12: burstshineempowerexisthabitsecondroastbetraycorrectthrivejazzannual
+bip_39_word_no_space_2: burstshine
+bip_39_word_no_space_3: burstshineempower
+bip_39_word_no_space_4: burstshineempowerexist
+bip_39_word_no_space_5: burstshineempowerexisthabit
+bip_39_word_no_space_6: burstshineempowerexisthabitsecond
+bip_39_word_no_space_7: burstshineempowerexisthabitsecondroast
+bip_39_word_no_space_8: burstshineempowerexisthabitsecondroastbetray
+bip_39_word_no_space_9: burstshineempowerexisthabitsecondroastbetraycorrect
+bip_39_word_space_0:
+- burst
+- shine
+- empower
+- exist
+- habit
+- second
+- roast
+- betray
+- correct
+- thrive
+- jazz
+- annual
+bip_39_word_space_1: burst
+bip_39_word_space_10: burst shine empower exist habit second roast betray correct
+  thrive
+bip_39_word_space_11: burst shine empower exist habit second roast betray correct
+  thrive jazz
+bip_39_word_space_12: burst shine empower exist habit second roast betray correct
+  thrive jazz annual
+bip_39_word_space_2: burst shine
+bip_39_word_space_3: burst shine empower
+bip_39_word_space_4: burst shine empower exist
+bip_39_word_space_5: burst shine empower exist habit
+bip_39_word_space_6: burst shine empower exist habit second
+bip_39_word_space_7: burst shine empower exist habit second roast
+bip_39_word_space_8: burst shine empower exist habit second roast betray
+bip_39_word_space_9: burst shine empower exist habit second roast betray correct
+bip_39_word_underscore_1: burst
+bip_39_word_underscore_10: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive
+bip_39_word_underscore_11: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive_jazz
+bip_39_word_underscore_12: burst_shine_empower_exist_habit_second_roast_betray_correct_thrive_jazz_annual
+bip_39_word_underscore_2: burst_shine
+bip_39_word_underscore_3: burst_shine_empower
+bip_39_word_underscore_4: burst_shine_empower_exist
+bip_39_word_underscore_5: burst_shine_empower_exist_habit
+bip_39_word_underscore_6: burst_shine_empower_exist_habit_second
+bip_39_word_underscore_7: burst_shine_empower_exist_habit_second_roast
+bip_39_word_underscore_8: burst_shine_empower_exist_habit_second_roast_betray
+bip_39_word_underscore_9: burst_shine_empower_exist_habit_second_roast_betray_correct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_04_21
 id_no_color: '150421'
 id_no_size: '15_04_21'
 id_no_type: tray_thin_15_04_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_04_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_04_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205w0e0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205w0e0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205w0e0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150421'
 name_no_size: 15 04 21
 name_no_size_short: 15 04 21
 name_no_type: Tray Thin 15 04 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_04_21
 oomp_word: basketball ambulance seven
 oomp_word_emoji: ':basketball: :ambulance: :seven:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: habit
+bip_39_word_dash_10: habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable
+bip_39_word_dash_11: habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable-head
+bip_39_word_dash_12: habit-glove-core-aerobic-video-curious-brave-concert-gospel-unable-head-amazing
+bip_39_word_dash_2: habit-glove
+bip_39_word_dash_3: habit-glove-core
+bip_39_word_dash_4: habit-glove-core-aerobic
+bip_39_word_dash_5: habit-glove-core-aerobic-video
+bip_39_word_dash_6: habit-glove-core-aerobic-video-curious
+bip_39_word_dash_7: habit-glove-core-aerobic-video-curious-brave
+bip_39_word_dash_8: habit-glove-core-aerobic-video-curious-brave-concert
+bip_39_word_dash_9: habit-glove-core-aerobic-video-curious-brave-concert-gospel
+bip_39_word_new_br_1: habit
+bip_39_word_new_br_10: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable
+bip_39_word_new_br_11: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head
+bip_39_word_new_br_12: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel<br>unable<br>head<br>amazing
+bip_39_word_new_br_2: habit<br>glove
+bip_39_word_new_br_3: habit<br>glove<br>core
+bip_39_word_new_br_4: habit<br>glove<br>core<br>aerobic
+bip_39_word_new_br_5: habit<br>glove<br>core<br>aerobic<br>video
+bip_39_word_new_br_6: habit<br>glove<br>core<br>aerobic<br>video<br>curious
+bip_39_word_new_br_7: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave
+bip_39_word_new_br_8: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert
+bip_39_word_new_br_9: habit<br>glove<br>core<br>aerobic<br>video<br>curious<br>brave<br>concert<br>gospel
+bip_39_word_new_line_1: habit
+bip_39_word_new_line_10: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave
+
+  concert
+
+  gospel
+
+  unable'
+bip_39_word_new_line_11: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave
+
+  concert
+
+  gospel
+
+  unable
+
+  head'
+bip_39_word_new_line_12: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave
+
+  concert
+
+  gospel
+
+  unable
+
+  head
+
+  amazing'
+bip_39_word_new_line_2: 'habit
+
+  glove'
+bip_39_word_new_line_3: 'habit
+
+  glove
+
+  core'
+bip_39_word_new_line_4: 'habit
+
+  glove
+
+  core
+
+  aerobic'
+bip_39_word_new_line_5: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video'
+bip_39_word_new_line_6: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious'
+bip_39_word_new_line_7: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave'
+bip_39_word_new_line_8: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave
+
+  concert'
+bip_39_word_new_line_9: 'habit
+
+  glove
+
+  core
+
+  aerobic
+
+  video
+
+  curious
+
+  brave
+
+  concert
+
+  gospel'
+bip_39_word_no_space_1: habit
+bip_39_word_no_space_10: habitglovecoreaerobicvideocuriousbraveconcertgospelunable
+bip_39_word_no_space_11: habitglovecoreaerobicvideocuriousbraveconcertgospelunablehead
+bip_39_word_no_space_12: habitglovecoreaerobicvideocuriousbraveconcertgospelunableheadamazing
+bip_39_word_no_space_2: habitglove
+bip_39_word_no_space_3: habitglovecore
+bip_39_word_no_space_4: habitglovecoreaerobic
+bip_39_word_no_space_5: habitglovecoreaerobicvideo
+bip_39_word_no_space_6: habitglovecoreaerobicvideocurious
+bip_39_word_no_space_7: habitglovecoreaerobicvideocuriousbrave
+bip_39_word_no_space_8: habitglovecoreaerobicvideocuriousbraveconcert
+bip_39_word_no_space_9: habitglovecoreaerobicvideocuriousbraveconcertgospel
+bip_39_word_space_0:
+- habit
+- glove
+- core
+- aerobic
+- video
+- curious
+- brave
+- concert
+- gospel
+- unable
+- head
+- amazing
+bip_39_word_space_1: habit
+bip_39_word_space_10: habit glove core aerobic video curious brave concert gospel
+  unable
+bip_39_word_space_11: habit glove core aerobic video curious brave concert gospel
+  unable head
+bip_39_word_space_12: habit glove core aerobic video curious brave concert gospel
+  unable head amazing
+bip_39_word_space_2: habit glove
+bip_39_word_space_3: habit glove core
+bip_39_word_space_4: habit glove core aerobic
+bip_39_word_space_5: habit glove core aerobic video
+bip_39_word_space_6: habit glove core aerobic video curious
+bip_39_word_space_7: habit glove core aerobic video curious brave
+bip_39_word_space_8: habit glove core aerobic video curious brave concert
+bip_39_word_space_9: habit glove core aerobic video curious brave concert gospel
+bip_39_word_underscore_1: habit
+bip_39_word_underscore_10: habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable
+bip_39_word_underscore_11: habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable_head
+bip_39_word_underscore_12: habit_glove_core_aerobic_video_curious_brave_concert_gospel_unable_head_amazing
+bip_39_word_underscore_2: habit_glove
+bip_39_word_underscore_3: habit_glove_core
+bip_39_word_underscore_4: habit_glove_core_aerobic
+bip_39_word_underscore_5: habit_glove_core_aerobic_video
+bip_39_word_underscore_6: habit_glove_core_aerobic_video_curious
+bip_39_word_underscore_7: habit_glove_core_aerobic_video_curious_brave
+bip_39_word_underscore_8: habit_glove_core_aerobic_video_curious_brave_concert
+bip_39_word_underscore_9: habit_glove_core_aerobic_video_curious_brave_concert_gospel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_04_01_12
 id_no_color: '040112'
 id_no_size: '04_01_12'
 id_no_type: tray_thin_04_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204vccb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204vccb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204vccb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '040112'
 name_no_size: 04 01 12
 name_no_size_short: 04 01 12
 name_no_type: Tray Thin 04 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_01_12
 oomp_word: tv corn bear
 oomp_word_emoji: ':tv: :corn: :bear:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor 0603 0 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_0603_0_ohm
   * classification: electronic

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 Cook With M&S Coriander
 
+### name
+* name: Food Vegetable Coriander
+* name_short: 
 ### id
 * oomp_id: food_vegetable_coriander
   * classification: food

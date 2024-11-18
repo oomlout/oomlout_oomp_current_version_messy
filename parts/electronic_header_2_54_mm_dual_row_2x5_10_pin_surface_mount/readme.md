@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 54 mm Dual Row 2X5 10 Pin Surface Mount
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_54_mm_dual_row_2x5_10_pin_surface_mount
   * classification: electronic

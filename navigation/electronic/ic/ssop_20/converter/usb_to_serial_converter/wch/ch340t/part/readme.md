@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Ssop 20 Converter USB To Serial Converter Wch Ch340T
+* name_short: 
 ### id
 * oomp_id: electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t
   * classification: electronic
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ship: :dolls: :kiss:
 * md5_6_alpha: 8r9r7
 * md5_6: e07223
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208r9r7)
+[2x1](http://192.168.1.242:1112/?label=oomp%208r9r7)
+[6x4](http://192.168.1.55:1112/?label=oomp%208r9r7)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -280,7 +306,14 @@ hammer |
 | id_no_size | converter_usb_to_serial_converter_wch_ch340t |  
 | id_no_type | ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | kicad_reference | U |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208r9r7 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208r9r7 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208r9r7 |  
 | manufacturer | wch |  
 | manufacturer_capital | Wch |  
 | manufacturer_first_letter | w |  
@@ -330,6 +363,7 @@ hammer |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340T |  
 | name_no_type | Ssop 20 Converter USB To Serial Converter Wch Ch340T |  
 | notes | [] |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | oomp_word | ship dolls kiss |  
 | oomp_word_emoji | :ship: :dolls: :kiss: |  

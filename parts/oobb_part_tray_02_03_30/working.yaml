@@ -1,3 +1,222 @@
+bip_39_word_dash_1: bamboo
+bip_39_word_dash_10: bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack
+bip_39_word_dash_11: bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack-unfold
+bip_39_word_dash_12: bamboo-coach-upset-team-priority-fashion-weekend-train-can-snack-unfold-alley
+bip_39_word_dash_2: bamboo-coach
+bip_39_word_dash_3: bamboo-coach-upset
+bip_39_word_dash_4: bamboo-coach-upset-team
+bip_39_word_dash_5: bamboo-coach-upset-team-priority
+bip_39_word_dash_6: bamboo-coach-upset-team-priority-fashion
+bip_39_word_dash_7: bamboo-coach-upset-team-priority-fashion-weekend
+bip_39_word_dash_8: bamboo-coach-upset-team-priority-fashion-weekend-train
+bip_39_word_dash_9: bamboo-coach-upset-team-priority-fashion-weekend-train-can
+bip_39_word_new_br_1: bamboo
+bip_39_word_new_br_10: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack
+bip_39_word_new_br_11: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold
+bip_39_word_new_br_12: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can<br>snack<br>unfold<br>alley
+bip_39_word_new_br_2: bamboo<br>coach
+bip_39_word_new_br_3: bamboo<br>coach<br>upset
+bip_39_word_new_br_4: bamboo<br>coach<br>upset<br>team
+bip_39_word_new_br_5: bamboo<br>coach<br>upset<br>team<br>priority
+bip_39_word_new_br_6: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion
+bip_39_word_new_br_7: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend
+bip_39_word_new_br_8: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train
+bip_39_word_new_br_9: bamboo<br>coach<br>upset<br>team<br>priority<br>fashion<br>weekend<br>train<br>can
+bip_39_word_new_line_1: bamboo
+bip_39_word_new_line_10: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend
+
+  train
+
+  can
+
+  snack'
+bip_39_word_new_line_11: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend
+
+  train
+
+  can
+
+  snack
+
+  unfold'
+bip_39_word_new_line_12: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend
+
+  train
+
+  can
+
+  snack
+
+  unfold
+
+  alley'
+bip_39_word_new_line_2: 'bamboo
+
+  coach'
+bip_39_word_new_line_3: 'bamboo
+
+  coach
+
+  upset'
+bip_39_word_new_line_4: 'bamboo
+
+  coach
+
+  upset
+
+  team'
+bip_39_word_new_line_5: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority'
+bip_39_word_new_line_6: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion'
+bip_39_word_new_line_7: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend'
+bip_39_word_new_line_8: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend
+
+  train'
+bip_39_word_new_line_9: 'bamboo
+
+  coach
+
+  upset
+
+  team
+
+  priority
+
+  fashion
+
+  weekend
+
+  train
+
+  can'
+bip_39_word_no_space_1: bamboo
+bip_39_word_no_space_10: bamboocoachupsetteampriorityfashionweekendtraincansnack
+bip_39_word_no_space_11: bamboocoachupsetteampriorityfashionweekendtraincansnackunfold
+bip_39_word_no_space_12: bamboocoachupsetteampriorityfashionweekendtraincansnackunfoldalley
+bip_39_word_no_space_2: bamboocoach
+bip_39_word_no_space_3: bamboocoachupset
+bip_39_word_no_space_4: bamboocoachupsetteam
+bip_39_word_no_space_5: bamboocoachupsetteampriority
+bip_39_word_no_space_6: bamboocoachupsetteampriorityfashion
+bip_39_word_no_space_7: bamboocoachupsetteampriorityfashionweekend
+bip_39_word_no_space_8: bamboocoachupsetteampriorityfashionweekendtrain
+bip_39_word_no_space_9: bamboocoachupsetteampriorityfashionweekendtraincan
+bip_39_word_space_0:
+- bamboo
+- coach
+- upset
+- team
+- priority
+- fashion
+- weekend
+- train
+- can
+- snack
+- unfold
+- alley
+bip_39_word_space_1: bamboo
+bip_39_word_space_10: bamboo coach upset team priority fashion weekend train can snack
+bip_39_word_space_11: bamboo coach upset team priority fashion weekend train can snack
+  unfold
+bip_39_word_space_12: bamboo coach upset team priority fashion weekend train can snack
+  unfold alley
+bip_39_word_space_2: bamboo coach
+bip_39_word_space_3: bamboo coach upset
+bip_39_word_space_4: bamboo coach upset team
+bip_39_word_space_5: bamboo coach upset team priority
+bip_39_word_space_6: bamboo coach upset team priority fashion
+bip_39_word_space_7: bamboo coach upset team priority fashion weekend
+bip_39_word_space_8: bamboo coach upset team priority fashion weekend train
+bip_39_word_space_9: bamboo coach upset team priority fashion weekend train can
+bip_39_word_underscore_1: bamboo
+bip_39_word_underscore_10: bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack
+bip_39_word_underscore_11: bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack_unfold
+bip_39_word_underscore_12: bamboo_coach_upset_team_priority_fashion_weekend_train_can_snack_unfold_alley
+bip_39_word_underscore_2: bamboo_coach
+bip_39_word_underscore_3: bamboo_coach_upset
+bip_39_word_underscore_4: bamboo_coach_upset_team
+bip_39_word_underscore_5: bamboo_coach_upset_team_priority
+bip_39_word_underscore_6: bamboo_coach_upset_team_priority_fashion
+bip_39_word_underscore_7: bamboo_coach_upset_team_priority_fashion_weekend
+bip_39_word_underscore_8: bamboo_coach_upset_team_priority_fashion_weekend_train
+bip_39_word_underscore_9: bamboo_coach_upset_team_priority_fashion_weekend_train_can
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_02_03_30
 id_no_color: '020330'
 id_no_size: '02_03_30'
 id_no_type: tray_02_03_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_03_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_03_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_03_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2044os3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2044os3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2044os3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '020330'
 name_no_size: 02 03 30
 name_no_size_short: 02 03 30
 name_no_type: Tray 02 03 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_03_30
 oomp_word: cactus hotel flags
 oomp_word_emoji: ':cactus: :hotel: :flags:'

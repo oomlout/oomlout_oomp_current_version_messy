@@ -1,3 +1,222 @@
+bip_39_word_dash_1: old
+bip_39_word_dash_10: old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut
+bip_39_word_dash_11: old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut-clever
+bip_39_word_dash_12: old-soldier-either-knock-know-daring-empower-slogan-vessel-walnut-clever-art
+bip_39_word_dash_2: old-soldier
+bip_39_word_dash_3: old-soldier-either
+bip_39_word_dash_4: old-soldier-either-knock
+bip_39_word_dash_5: old-soldier-either-knock-know
+bip_39_word_dash_6: old-soldier-either-knock-know-daring
+bip_39_word_dash_7: old-soldier-either-knock-know-daring-empower
+bip_39_word_dash_8: old-soldier-either-knock-know-daring-empower-slogan
+bip_39_word_dash_9: old-soldier-either-knock-know-daring-empower-slogan-vessel
+bip_39_word_new_br_1: old
+bip_39_word_new_br_10: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut
+bip_39_word_new_br_11: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut<br>clever
+bip_39_word_new_br_12: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel<br>walnut<br>clever<br>art
+bip_39_word_new_br_2: old<br>soldier
+bip_39_word_new_br_3: old<br>soldier<br>either
+bip_39_word_new_br_4: old<br>soldier<br>either<br>knock
+bip_39_word_new_br_5: old<br>soldier<br>either<br>knock<br>know
+bip_39_word_new_br_6: old<br>soldier<br>either<br>knock<br>know<br>daring
+bip_39_word_new_br_7: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower
+bip_39_word_new_br_8: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan
+bip_39_word_new_br_9: old<br>soldier<br>either<br>knock<br>know<br>daring<br>empower<br>slogan<br>vessel
+bip_39_word_new_line_1: old
+bip_39_word_new_line_10: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower
+
+  slogan
+
+  vessel
+
+  walnut'
+bip_39_word_new_line_11: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower
+
+  slogan
+
+  vessel
+
+  walnut
+
+  clever'
+bip_39_word_new_line_12: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower
+
+  slogan
+
+  vessel
+
+  walnut
+
+  clever
+
+  art'
+bip_39_word_new_line_2: 'old
+
+  soldier'
+bip_39_word_new_line_3: 'old
+
+  soldier
+
+  either'
+bip_39_word_new_line_4: 'old
+
+  soldier
+
+  either
+
+  knock'
+bip_39_word_new_line_5: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know'
+bip_39_word_new_line_6: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring'
+bip_39_word_new_line_7: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower'
+bip_39_word_new_line_8: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower
+
+  slogan'
+bip_39_word_new_line_9: 'old
+
+  soldier
+
+  either
+
+  knock
+
+  know
+
+  daring
+
+  empower
+
+  slogan
+
+  vessel'
+bip_39_word_no_space_1: old
+bip_39_word_no_space_10: oldsoldiereitherknockknowdaringempowersloganvesselwalnut
+bip_39_word_no_space_11: oldsoldiereitherknockknowdaringempowersloganvesselwalnutclever
+bip_39_word_no_space_12: oldsoldiereitherknockknowdaringempowersloganvesselwalnutcleverart
+bip_39_word_no_space_2: oldsoldier
+bip_39_word_no_space_3: oldsoldiereither
+bip_39_word_no_space_4: oldsoldiereitherknock
+bip_39_word_no_space_5: oldsoldiereitherknockknow
+bip_39_word_no_space_6: oldsoldiereitherknockknowdaring
+bip_39_word_no_space_7: oldsoldiereitherknockknowdaringempower
+bip_39_word_no_space_8: oldsoldiereitherknockknowdaringempowerslogan
+bip_39_word_no_space_9: oldsoldiereitherknockknowdaringempowersloganvessel
+bip_39_word_space_0:
+- old
+- soldier
+- either
+- knock
+- know
+- daring
+- empower
+- slogan
+- vessel
+- walnut
+- clever
+- art
+bip_39_word_space_1: old
+bip_39_word_space_10: old soldier either knock know daring empower slogan vessel walnut
+bip_39_word_space_11: old soldier either knock know daring empower slogan vessel walnut
+  clever
+bip_39_word_space_12: old soldier either knock know daring empower slogan vessel walnut
+  clever art
+bip_39_word_space_2: old soldier
+bip_39_word_space_3: old soldier either
+bip_39_word_space_4: old soldier either knock
+bip_39_word_space_5: old soldier either knock know
+bip_39_word_space_6: old soldier either knock know daring
+bip_39_word_space_7: old soldier either knock know daring empower
+bip_39_word_space_8: old soldier either knock know daring empower slogan
+bip_39_word_space_9: old soldier either knock know daring empower slogan vessel
+bip_39_word_underscore_1: old
+bip_39_word_underscore_10: old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut
+bip_39_word_underscore_11: old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut_clever
+bip_39_word_underscore_12: old_soldier_either_knock_know_daring_empower_slogan_vessel_walnut_clever_art
+bip_39_word_underscore_2: old_soldier
+bip_39_word_underscore_3: old_soldier_either
+bip_39_word_underscore_4: old_soldier_either_knock
+bip_39_word_underscore_5: old_soldier_either_knock_know
+bip_39_word_underscore_6: old_soldier_either_knock_know_daring
+bip_39_word_underscore_7: old_soldier_either_knock_know_daring_empower
+bip_39_word_underscore_8: old_soldier_either_knock_know_daring_empower_slogan
+bip_39_word_underscore_9: old_soldier_either_knock_know_daring_empower_slogan_vessel
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_2d5_24
 id_no_color: 072d524
 id_no_size: 07_2d5_24
 id_no_type: tray_07_2d5_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_2d5_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_2d5_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_2d5_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207z0ot
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207z0ot
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207z0ot
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 072D524
 name_no_size: 07 2D5 24
 name_no_size_short: 07 2D5 24
 name_no_type: Tray 07 2D5 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_2d5_24
 oomp_word: watermelon dolphin cow
 oomp_word_emoji: ':watermelon: :dolphin: :cow:'

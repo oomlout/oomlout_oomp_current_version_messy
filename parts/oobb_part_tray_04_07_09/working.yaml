@@ -1,3 +1,222 @@
+bip_39_word_dash_1: verb
+bip_39_word_dash_10: verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise
+bip_39_word_dash_11: verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise-door
+bip_39_word_dash_12: verb-ice-primary-cousin-wonder-expand-tube-cheese-great-praise-door-amount
+bip_39_word_dash_2: verb-ice
+bip_39_word_dash_3: verb-ice-primary
+bip_39_word_dash_4: verb-ice-primary-cousin
+bip_39_word_dash_5: verb-ice-primary-cousin-wonder
+bip_39_word_dash_6: verb-ice-primary-cousin-wonder-expand
+bip_39_word_dash_7: verb-ice-primary-cousin-wonder-expand-tube
+bip_39_word_dash_8: verb-ice-primary-cousin-wonder-expand-tube-cheese
+bip_39_word_dash_9: verb-ice-primary-cousin-wonder-expand-tube-cheese-great
+bip_39_word_new_br_1: verb
+bip_39_word_new_br_10: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great<br>praise
+bip_39_word_new_br_11: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great<br>praise<br>door
+bip_39_word_new_br_12: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great<br>praise<br>door<br>amount
+bip_39_word_new_br_2: verb<br>ice
+bip_39_word_new_br_3: verb<br>ice<br>primary
+bip_39_word_new_br_4: verb<br>ice<br>primary<br>cousin
+bip_39_word_new_br_5: verb<br>ice<br>primary<br>cousin<br>wonder
+bip_39_word_new_br_6: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand
+bip_39_word_new_br_7: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube
+bip_39_word_new_br_8: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese
+bip_39_word_new_br_9: verb<br>ice<br>primary<br>cousin<br>wonder<br>expand<br>tube<br>cheese<br>great
+bip_39_word_new_line_1: verb
+bip_39_word_new_line_10: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube
+
+  cheese
+
+  great
+
+  praise'
+bip_39_word_new_line_11: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube
+
+  cheese
+
+  great
+
+  praise
+
+  door'
+bip_39_word_new_line_12: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube
+
+  cheese
+
+  great
+
+  praise
+
+  door
+
+  amount'
+bip_39_word_new_line_2: 'verb
+
+  ice'
+bip_39_word_new_line_3: 'verb
+
+  ice
+
+  primary'
+bip_39_word_new_line_4: 'verb
+
+  ice
+
+  primary
+
+  cousin'
+bip_39_word_new_line_5: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder'
+bip_39_word_new_line_6: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand'
+bip_39_word_new_line_7: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube'
+bip_39_word_new_line_8: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube
+
+  cheese'
+bip_39_word_new_line_9: 'verb
+
+  ice
+
+  primary
+
+  cousin
+
+  wonder
+
+  expand
+
+  tube
+
+  cheese
+
+  great'
+bip_39_word_no_space_1: verb
+bip_39_word_no_space_10: verbiceprimarycousinwonderexpandtubecheesegreatpraise
+bip_39_word_no_space_11: verbiceprimarycousinwonderexpandtubecheesegreatpraisedoor
+bip_39_word_no_space_12: verbiceprimarycousinwonderexpandtubecheesegreatpraisedooramount
+bip_39_word_no_space_2: verbice
+bip_39_word_no_space_3: verbiceprimary
+bip_39_word_no_space_4: verbiceprimarycousin
+bip_39_word_no_space_5: verbiceprimarycousinwonder
+bip_39_word_no_space_6: verbiceprimarycousinwonderexpand
+bip_39_word_no_space_7: verbiceprimarycousinwonderexpandtube
+bip_39_word_no_space_8: verbiceprimarycousinwonderexpandtubecheese
+bip_39_word_no_space_9: verbiceprimarycousinwonderexpandtubecheesegreat
+bip_39_word_space_0:
+- verb
+- ice
+- primary
+- cousin
+- wonder
+- expand
+- tube
+- cheese
+- great
+- praise
+- door
+- amount
+bip_39_word_space_1: verb
+bip_39_word_space_10: verb ice primary cousin wonder expand tube cheese great praise
+bip_39_word_space_11: verb ice primary cousin wonder expand tube cheese great praise
+  door
+bip_39_word_space_12: verb ice primary cousin wonder expand tube cheese great praise
+  door amount
+bip_39_word_space_2: verb ice
+bip_39_word_space_3: verb ice primary
+bip_39_word_space_4: verb ice primary cousin
+bip_39_word_space_5: verb ice primary cousin wonder
+bip_39_word_space_6: verb ice primary cousin wonder expand
+bip_39_word_space_7: verb ice primary cousin wonder expand tube
+bip_39_word_space_8: verb ice primary cousin wonder expand tube cheese
+bip_39_word_space_9: verb ice primary cousin wonder expand tube cheese great
+bip_39_word_underscore_1: verb
+bip_39_word_underscore_10: verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise
+bip_39_word_underscore_11: verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise_door
+bip_39_word_underscore_12: verb_ice_primary_cousin_wonder_expand_tube_cheese_great_praise_door_amount
+bip_39_word_underscore_2: verb_ice
+bip_39_word_underscore_3: verb_ice_primary
+bip_39_word_underscore_4: verb_ice_primary_cousin
+bip_39_word_underscore_5: verb_ice_primary_cousin_wonder
+bip_39_word_underscore_6: verb_ice_primary_cousin_wonder_expand
+bip_39_word_underscore_7: verb_ice_primary_cousin_wonder_expand_tube
+bip_39_word_underscore_8: verb_ice_primary_cousin_wonder_expand_tube_cheese
+bip_39_word_underscore_9: verb_ice_primary_cousin_wonder_expand_tube_cheese_great
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_07_09
 id_no_color: 040709
 id_no_size: 04_07_09
 id_no_type: tray_04_07_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_07_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_07_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_07_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2050iju
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2050iju
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2050iju
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 040709
 name_no_size: 04 07 09
 name_no_size_short: 04 07 09
 name_no_type: Tray 04 07 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_07_09
 oomp_word: hourglass radio tractor
 oomp_word_emoji: ':hourglass: :radio: :tractor:'

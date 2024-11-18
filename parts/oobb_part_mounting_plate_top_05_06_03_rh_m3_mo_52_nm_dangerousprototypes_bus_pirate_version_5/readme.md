@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate Version 5
+* name_short: 
 ### id
 * oomp_id: oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
   * classification: oobb

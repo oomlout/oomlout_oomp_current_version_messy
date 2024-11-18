@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Tin Hinged Lid 169 mm Width 130 mm Height 18 mm Depth 350 Ml Tinware Direct T4066
+* name_short: 
 ### id
 * oomp_id: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
   * classification: packaging
@@ -28,6 +31,45 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :trumpet: :blowfish: :rocket:
 * md5_6_alpha: 6hoth
 * md5_6: a65de5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206hoth)
+[2x1](http://192.168.1.242:1112/?label=oomp%206hoth)
+[6x4](http://192.168.1.55:1112/?label=oomp%206hoth)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066)                             
+
+#### price
+
+#### price table
+| dist | 1 | 100 | 200 | 1000 | 10000 |
+|------|---|-----|-----|------|-------|
+|  | £0.79 |  |  |  |  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +275,14 @@ pumpkin |
 | id_no_color | tinwaredirectt4066 |  
 | id_no_size | tinware_direct_t4066 |  
 | id_no_type | 169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206hoth |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206hoth |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206hoth |  
 | link_purchase | ['https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726837358619'] |  
 | manufacturer | tinware_direct |  
 | manufacturer_capital | Tinware Direct |  
@@ -283,6 +332,7 @@ pumpkin |
 | name_no_size | Tinware Direct T4066 |  
 | name_no_size_short | Tinware Direct T4066 |  
 | name_no_type | 169 mm Width 130 mm Height 18 mm Depth 350 Ml Tinware Direct T4066 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066 |  
 | oomp_word | trumpet blowfish rocket |  
 | oomp_word_emoji | :trumpet: :blowfish: :rocket: |  

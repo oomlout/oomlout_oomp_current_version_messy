@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6320 Size 100 mm ID 215 mm OD 47 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6320_size_100_mm_id_215_mm_od_47_mm_depth
   * classification: hardware

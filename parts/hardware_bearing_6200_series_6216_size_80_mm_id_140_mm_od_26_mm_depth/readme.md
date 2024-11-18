@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6216 Size 80 mm ID 140 mm OD 26 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6216_size_80_mm_id_140_mm_od_26_mm_depth
   * classification: hardware

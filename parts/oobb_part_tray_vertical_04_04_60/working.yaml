@@ -1,3 +1,222 @@
+bip_39_word_dash_1: trade
+bip_39_word_dash_10: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive
+bip_39_word_dash_11: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive-demise
+bip_39_word_dash_12: trade-junior-elephant-lake-fade-satoshi-race-witness-curve-arrive-demise-advance
+bip_39_word_dash_2: trade-junior
+bip_39_word_dash_3: trade-junior-elephant
+bip_39_word_dash_4: trade-junior-elephant-lake
+bip_39_word_dash_5: trade-junior-elephant-lake-fade
+bip_39_word_dash_6: trade-junior-elephant-lake-fade-satoshi
+bip_39_word_dash_7: trade-junior-elephant-lake-fade-satoshi-race
+bip_39_word_dash_8: trade-junior-elephant-lake-fade-satoshi-race-witness
+bip_39_word_dash_9: trade-junior-elephant-lake-fade-satoshi-race-witness-curve
+bip_39_word_new_br_1: trade
+bip_39_word_new_br_10: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive
+bip_39_word_new_br_11: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise
+bip_39_word_new_br_12: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve<br>arrive<br>demise<br>advance
+bip_39_word_new_br_2: trade<br>junior
+bip_39_word_new_br_3: trade<br>junior<br>elephant
+bip_39_word_new_br_4: trade<br>junior<br>elephant<br>lake
+bip_39_word_new_br_5: trade<br>junior<br>elephant<br>lake<br>fade
+bip_39_word_new_br_6: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi
+bip_39_word_new_br_7: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race
+bip_39_word_new_br_8: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness
+bip_39_word_new_br_9: trade<br>junior<br>elephant<br>lake<br>fade<br>satoshi<br>race<br>witness<br>curve
+bip_39_word_new_line_1: trade
+bip_39_word_new_line_10: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive'
+bip_39_word_new_line_11: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive
+
+  demise'
+bip_39_word_new_line_12: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve
+
+  arrive
+
+  demise
+
+  advance'
+bip_39_word_new_line_2: 'trade
+
+  junior'
+bip_39_word_new_line_3: 'trade
+
+  junior
+
+  elephant'
+bip_39_word_new_line_4: 'trade
+
+  junior
+
+  elephant
+
+  lake'
+bip_39_word_new_line_5: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade'
+bip_39_word_new_line_6: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi'
+bip_39_word_new_line_7: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race'
+bip_39_word_new_line_8: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness'
+bip_39_word_new_line_9: 'trade
+
+  junior
+
+  elephant
+
+  lake
+
+  fade
+
+  satoshi
+
+  race
+
+  witness
+
+  curve'
+bip_39_word_no_space_1: trade
+bip_39_word_no_space_10: tradejuniorelephantlakefadesatoshiracewitnesscurvearrive
+bip_39_word_no_space_11: tradejuniorelephantlakefadesatoshiracewitnesscurvearrivedemise
+bip_39_word_no_space_12: tradejuniorelephantlakefadesatoshiracewitnesscurvearrivedemiseadvance
+bip_39_word_no_space_2: tradejunior
+bip_39_word_no_space_3: tradejuniorelephant
+bip_39_word_no_space_4: tradejuniorelephantlake
+bip_39_word_no_space_5: tradejuniorelephantlakefade
+bip_39_word_no_space_6: tradejuniorelephantlakefadesatoshi
+bip_39_word_no_space_7: tradejuniorelephantlakefadesatoshirace
+bip_39_word_no_space_8: tradejuniorelephantlakefadesatoshiracewitness
+bip_39_word_no_space_9: tradejuniorelephantlakefadesatoshiracewitnesscurve
+bip_39_word_space_0:
+- trade
+- junior
+- elephant
+- lake
+- fade
+- satoshi
+- race
+- witness
+- curve
+- arrive
+- demise
+- advance
+bip_39_word_space_1: trade
+bip_39_word_space_10: trade junior elephant lake fade satoshi race witness curve arrive
+bip_39_word_space_11: trade junior elephant lake fade satoshi race witness curve arrive
+  demise
+bip_39_word_space_12: trade junior elephant lake fade satoshi race witness curve arrive
+  demise advance
+bip_39_word_space_2: trade junior
+bip_39_word_space_3: trade junior elephant
+bip_39_word_space_4: trade junior elephant lake
+bip_39_word_space_5: trade junior elephant lake fade
+bip_39_word_space_6: trade junior elephant lake fade satoshi
+bip_39_word_space_7: trade junior elephant lake fade satoshi race
+bip_39_word_space_8: trade junior elephant lake fade satoshi race witness
+bip_39_word_space_9: trade junior elephant lake fade satoshi race witness curve
+bip_39_word_underscore_1: trade
+bip_39_word_underscore_10: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive
+bip_39_word_underscore_11: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive_demise
+bip_39_word_underscore_12: trade_junior_elephant_lake_fade_satoshi_race_witness_curve_arrive_demise_advance
+bip_39_word_underscore_2: trade_junior
+bip_39_word_underscore_3: trade_junior_elephant
+bip_39_word_underscore_4: trade_junior_elephant_lake
+bip_39_word_underscore_5: trade_junior_elephant_lake_fade
+bip_39_word_underscore_6: trade_junior_elephant_lake_fade_satoshi
+bip_39_word_underscore_7: trade_junior_elephant_lake_fade_satoshi_race
+bip_39_word_underscore_8: trade_junior_elephant_lake_fade_satoshi_race_witness
+bip_39_word_underscore_9: trade_junior_elephant_lake_fade_satoshi_race_witness_curve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_vertical_04_04_60
 id_no_color: '040460'
 id_no_size: '04_04_60'
 id_no_type: tray_vertical_04_04_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_04_04_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_04_04_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202fq83
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202fq83
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202fq83
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '040460'
 name_no_size: 04 04 60
 name_no_size_short: 04 04 60
 name_no_type: Tray Vertical 04 04 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_04_04_60
 oomp_word: monkey fireworks lock
 oomp_word_emoji: ':monkey: :fireworks: :lock:'

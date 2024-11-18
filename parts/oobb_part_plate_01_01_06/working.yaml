@@ -1,3 +1,222 @@
+bip_39_word_dash_1: feed
+bip_39_word_dash_10: feed-online-symptom-soon-explain-size-mother-donor-trim-someone
+bip_39_word_dash_11: feed-online-symptom-soon-explain-size-mother-donor-trim-someone-gun
+bip_39_word_dash_12: feed-online-symptom-soon-explain-size-mother-donor-trim-someone-gun-animal
+bip_39_word_dash_2: feed-online
+bip_39_word_dash_3: feed-online-symptom
+bip_39_word_dash_4: feed-online-symptom-soon
+bip_39_word_dash_5: feed-online-symptom-soon-explain
+bip_39_word_dash_6: feed-online-symptom-soon-explain-size
+bip_39_word_dash_7: feed-online-symptom-soon-explain-size-mother
+bip_39_word_dash_8: feed-online-symptom-soon-explain-size-mother-donor
+bip_39_word_dash_9: feed-online-symptom-soon-explain-size-mother-donor-trim
+bip_39_word_new_br_1: feed
+bip_39_word_new_br_10: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim<br>someone
+bip_39_word_new_br_11: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim<br>someone<br>gun
+bip_39_word_new_br_12: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim<br>someone<br>gun<br>animal
+bip_39_word_new_br_2: feed<br>online
+bip_39_word_new_br_3: feed<br>online<br>symptom
+bip_39_word_new_br_4: feed<br>online<br>symptom<br>soon
+bip_39_word_new_br_5: feed<br>online<br>symptom<br>soon<br>explain
+bip_39_word_new_br_6: feed<br>online<br>symptom<br>soon<br>explain<br>size
+bip_39_word_new_br_7: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother
+bip_39_word_new_br_8: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor
+bip_39_word_new_br_9: feed<br>online<br>symptom<br>soon<br>explain<br>size<br>mother<br>donor<br>trim
+bip_39_word_new_line_1: feed
+bip_39_word_new_line_10: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother
+
+  donor
+
+  trim
+
+  someone'
+bip_39_word_new_line_11: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother
+
+  donor
+
+  trim
+
+  someone
+
+  gun'
+bip_39_word_new_line_12: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother
+
+  donor
+
+  trim
+
+  someone
+
+  gun
+
+  animal'
+bip_39_word_new_line_2: 'feed
+
+  online'
+bip_39_word_new_line_3: 'feed
+
+  online
+
+  symptom'
+bip_39_word_new_line_4: 'feed
+
+  online
+
+  symptom
+
+  soon'
+bip_39_word_new_line_5: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain'
+bip_39_word_new_line_6: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size'
+bip_39_word_new_line_7: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother'
+bip_39_word_new_line_8: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother
+
+  donor'
+bip_39_word_new_line_9: 'feed
+
+  online
+
+  symptom
+
+  soon
+
+  explain
+
+  size
+
+  mother
+
+  donor
+
+  trim'
+bip_39_word_no_space_1: feed
+bip_39_word_no_space_10: feedonlinesymptomsoonexplainsizemotherdonortrimsomeone
+bip_39_word_no_space_11: feedonlinesymptomsoonexplainsizemotherdonortrimsomeonegun
+bip_39_word_no_space_12: feedonlinesymptomsoonexplainsizemotherdonortrimsomeonegunanimal
+bip_39_word_no_space_2: feedonline
+bip_39_word_no_space_3: feedonlinesymptom
+bip_39_word_no_space_4: feedonlinesymptomsoon
+bip_39_word_no_space_5: feedonlinesymptomsoonexplain
+bip_39_word_no_space_6: feedonlinesymptomsoonexplainsize
+bip_39_word_no_space_7: feedonlinesymptomsoonexplainsizemother
+bip_39_word_no_space_8: feedonlinesymptomsoonexplainsizemotherdonor
+bip_39_word_no_space_9: feedonlinesymptomsoonexplainsizemotherdonortrim
+bip_39_word_space_0:
+- feed
+- online
+- symptom
+- soon
+- explain
+- size
+- mother
+- donor
+- trim
+- someone
+- gun
+- animal
+bip_39_word_space_1: feed
+bip_39_word_space_10: feed online symptom soon explain size mother donor trim someone
+bip_39_word_space_11: feed online symptom soon explain size mother donor trim someone
+  gun
+bip_39_word_space_12: feed online symptom soon explain size mother donor trim someone
+  gun animal
+bip_39_word_space_2: feed online
+bip_39_word_space_3: feed online symptom
+bip_39_word_space_4: feed online symptom soon
+bip_39_word_space_5: feed online symptom soon explain
+bip_39_word_space_6: feed online symptom soon explain size
+bip_39_word_space_7: feed online symptom soon explain size mother
+bip_39_word_space_8: feed online symptom soon explain size mother donor
+bip_39_word_space_9: feed online symptom soon explain size mother donor trim
+bip_39_word_underscore_1: feed
+bip_39_word_underscore_10: feed_online_symptom_soon_explain_size_mother_donor_trim_someone
+bip_39_word_underscore_11: feed_online_symptom_soon_explain_size_mother_donor_trim_someone_gun
+bip_39_word_underscore_12: feed_online_symptom_soon_explain_size_mother_donor_trim_someone_gun_animal
+bip_39_word_underscore_2: feed_online
+bip_39_word_underscore_3: feed_online_symptom
+bip_39_word_underscore_4: feed_online_symptom_soon
+bip_39_word_underscore_5: feed_online_symptom_soon_explain
+bip_39_word_underscore_6: feed_online_symptom_soon_explain_size
+bip_39_word_underscore_7: feed_online_symptom_soon_explain_size_mother
+bip_39_word_underscore_8: feed_online_symptom_soon_explain_size_mother_donor
+bip_39_word_underscore_9: feed_online_symptom_soon_explain_size_mother_donor_trim
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_01_01_06
 id_no_color: '010106'
 id_no_size: '01_01_06'
 id_no_type: plate_01_01_06
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_06
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_01_01_06
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_01_01_06
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205neur
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205neur
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205neur
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '010106'
 name_no_size: 01 01 06
 name_no_size_short: 01 01 06
 name_no_type: Plate 01 01 06
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_01_01_06
 oomp_word: scissors melon two
 oomp_word_emoji: ':scissors: :melon: :two:'

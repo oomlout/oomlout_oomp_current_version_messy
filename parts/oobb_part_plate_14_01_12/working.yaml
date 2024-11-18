@@ -1,3 +1,222 @@
+bip_39_word_dash_1: awful
+bip_39_word_dash_10: awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack
+bip_39_word_dash_11: awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack-artwork
+bip_39_word_dash_12: awful-bullet-guard-swarm-never-slide-disease-insane-wine-attack-artwork-about
+bip_39_word_dash_2: awful-bullet
+bip_39_word_dash_3: awful-bullet-guard
+bip_39_word_dash_4: awful-bullet-guard-swarm
+bip_39_word_dash_5: awful-bullet-guard-swarm-never
+bip_39_word_dash_6: awful-bullet-guard-swarm-never-slide
+bip_39_word_dash_7: awful-bullet-guard-swarm-never-slide-disease
+bip_39_word_dash_8: awful-bullet-guard-swarm-never-slide-disease-insane
+bip_39_word_dash_9: awful-bullet-guard-swarm-never-slide-disease-insane-wine
+bip_39_word_new_br_1: awful
+bip_39_word_new_br_10: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine<br>attack
+bip_39_word_new_br_11: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine<br>attack<br>artwork
+bip_39_word_new_br_12: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine<br>attack<br>artwork<br>about
+bip_39_word_new_br_2: awful<br>bullet
+bip_39_word_new_br_3: awful<br>bullet<br>guard
+bip_39_word_new_br_4: awful<br>bullet<br>guard<br>swarm
+bip_39_word_new_br_5: awful<br>bullet<br>guard<br>swarm<br>never
+bip_39_word_new_br_6: awful<br>bullet<br>guard<br>swarm<br>never<br>slide
+bip_39_word_new_br_7: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease
+bip_39_word_new_br_8: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane
+bip_39_word_new_br_9: awful<br>bullet<br>guard<br>swarm<br>never<br>slide<br>disease<br>insane<br>wine
+bip_39_word_new_line_1: awful
+bip_39_word_new_line_10: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease
+
+  insane
+
+  wine
+
+  attack'
+bip_39_word_new_line_11: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease
+
+  insane
+
+  wine
+
+  attack
+
+  artwork'
+bip_39_word_new_line_12: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease
+
+  insane
+
+  wine
+
+  attack
+
+  artwork
+
+  about'
+bip_39_word_new_line_2: 'awful
+
+  bullet'
+bip_39_word_new_line_3: 'awful
+
+  bullet
+
+  guard'
+bip_39_word_new_line_4: 'awful
+
+  bullet
+
+  guard
+
+  swarm'
+bip_39_word_new_line_5: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never'
+bip_39_word_new_line_6: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide'
+bip_39_word_new_line_7: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease'
+bip_39_word_new_line_8: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease
+
+  insane'
+bip_39_word_new_line_9: 'awful
+
+  bullet
+
+  guard
+
+  swarm
+
+  never
+
+  slide
+
+  disease
+
+  insane
+
+  wine'
+bip_39_word_no_space_1: awful
+bip_39_word_no_space_10: awfulbulletguardswarmneverslidediseaseinsanewineattack
+bip_39_word_no_space_11: awfulbulletguardswarmneverslidediseaseinsanewineattackartwork
+bip_39_word_no_space_12: awfulbulletguardswarmneverslidediseaseinsanewineattackartworkabout
+bip_39_word_no_space_2: awfulbullet
+bip_39_word_no_space_3: awfulbulletguard
+bip_39_word_no_space_4: awfulbulletguardswarm
+bip_39_word_no_space_5: awfulbulletguardswarmnever
+bip_39_word_no_space_6: awfulbulletguardswarmneverslide
+bip_39_word_no_space_7: awfulbulletguardswarmneverslidedisease
+bip_39_word_no_space_8: awfulbulletguardswarmneverslidediseaseinsane
+bip_39_word_no_space_9: awfulbulletguardswarmneverslidediseaseinsanewine
+bip_39_word_space_0:
+- awful
+- bullet
+- guard
+- swarm
+- never
+- slide
+- disease
+- insane
+- wine
+- attack
+- artwork
+- about
+bip_39_word_space_1: awful
+bip_39_word_space_10: awful bullet guard swarm never slide disease insane wine attack
+bip_39_word_space_11: awful bullet guard swarm never slide disease insane wine attack
+  artwork
+bip_39_word_space_12: awful bullet guard swarm never slide disease insane wine attack
+  artwork about
+bip_39_word_space_2: awful bullet
+bip_39_word_space_3: awful bullet guard
+bip_39_word_space_4: awful bullet guard swarm
+bip_39_word_space_5: awful bullet guard swarm never
+bip_39_word_space_6: awful bullet guard swarm never slide
+bip_39_word_space_7: awful bullet guard swarm never slide disease
+bip_39_word_space_8: awful bullet guard swarm never slide disease insane
+bip_39_word_space_9: awful bullet guard swarm never slide disease insane wine
+bip_39_word_underscore_1: awful
+bip_39_word_underscore_10: awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack
+bip_39_word_underscore_11: awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack_artwork
+bip_39_word_underscore_12: awful_bullet_guard_swarm_never_slide_disease_insane_wine_attack_artwork_about
+bip_39_word_underscore_2: awful_bullet
+bip_39_word_underscore_3: awful_bullet_guard
+bip_39_word_underscore_4: awful_bullet_guard_swarm
+bip_39_word_underscore_5: awful_bullet_guard_swarm_never
+bip_39_word_underscore_6: awful_bullet_guard_swarm_never_slide
+bip_39_word_underscore_7: awful_bullet_guard_swarm_never_slide_disease
+bip_39_word_underscore_8: awful_bullet_guard_swarm_never_slide_disease_insane
+bip_39_word_underscore_9: awful_bullet_guard_swarm_never_slide_disease_insane_wine
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_14_01_12
 id_no_color: '140112'
 id_no_size: '14_01_12'
 id_no_type: plate_14_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_14_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_14_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208klf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208klf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208klf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '140112'
 name_no_size: 14 01 12
 name_no_size_short: 14 01 12
 name_no_type: Plate 14 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_14_01_12
 oomp_word: sleeping clap elephant
 oomp_word_emoji: ':sleeping: :clap: :elephant:'

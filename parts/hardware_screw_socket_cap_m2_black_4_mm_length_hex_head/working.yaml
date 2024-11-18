@@ -1,3 +1,222 @@
+bip_39_word_dash_1: observe
+bip_39_word_dash_10: observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge
+bip_39_word_dash_11: observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge-occur
+bip_39_word_dash_12: observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn-emerge-occur-apology
+bip_39_word_dash_2: observe-unknown
+bip_39_word_dash_3: observe-unknown-liar
+bip_39_word_dash_4: observe-unknown-liar-wrestle
+bip_39_word_dash_5: observe-unknown-liar-wrestle-vote
+bip_39_word_dash_6: observe-unknown-liar-wrestle-vote-sick
+bip_39_word_dash_7: observe-unknown-liar-wrestle-vote-sick-behind
+bip_39_word_dash_8: observe-unknown-liar-wrestle-vote-sick-behind-erosion
+bip_39_word_dash_9: observe-unknown-liar-wrestle-vote-sick-behind-erosion-corn
+bip_39_word_new_br_1: observe
+bip_39_word_new_br_10: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge
+bip_39_word_new_br_11: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur
+bip_39_word_new_br_12: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn<br>emerge<br>occur<br>apology
+bip_39_word_new_br_2: observe<br>unknown
+bip_39_word_new_br_3: observe<br>unknown<br>liar
+bip_39_word_new_br_4: observe<br>unknown<br>liar<br>wrestle
+bip_39_word_new_br_5: observe<br>unknown<br>liar<br>wrestle<br>vote
+bip_39_word_new_br_6: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick
+bip_39_word_new_br_7: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind
+bip_39_word_new_br_8: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion
+bip_39_word_new_br_9: observe<br>unknown<br>liar<br>wrestle<br>vote<br>sick<br>behind<br>erosion<br>corn
+bip_39_word_new_line_1: observe
+bip_39_word_new_line_10: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge'
+bip_39_word_new_line_11: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge
+
+  occur'
+bip_39_word_new_line_12: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn
+
+  emerge
+
+  occur
+
+  apology'
+bip_39_word_new_line_2: 'observe
+
+  unknown'
+bip_39_word_new_line_3: 'observe
+
+  unknown
+
+  liar'
+bip_39_word_new_line_4: 'observe
+
+  unknown
+
+  liar
+
+  wrestle'
+bip_39_word_new_line_5: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote'
+bip_39_word_new_line_6: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick'
+bip_39_word_new_line_7: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind'
+bip_39_word_new_line_8: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion'
+bip_39_word_new_line_9: 'observe
+
+  unknown
+
+  liar
+
+  wrestle
+
+  vote
+
+  sick
+
+  behind
+
+  erosion
+
+  corn'
+bip_39_word_no_space_1: observe
+bip_39_word_no_space_10: observeunknownliarwrestlevotesickbehinderosioncornemerge
+bip_39_word_no_space_11: observeunknownliarwrestlevotesickbehinderosioncornemergeoccur
+bip_39_word_no_space_12: observeunknownliarwrestlevotesickbehinderosioncornemergeoccurapology
+bip_39_word_no_space_2: observeunknown
+bip_39_word_no_space_3: observeunknownliar
+bip_39_word_no_space_4: observeunknownliarwrestle
+bip_39_word_no_space_5: observeunknownliarwrestlevote
+bip_39_word_no_space_6: observeunknownliarwrestlevotesick
+bip_39_word_no_space_7: observeunknownliarwrestlevotesickbehind
+bip_39_word_no_space_8: observeunknownliarwrestlevotesickbehinderosion
+bip_39_word_no_space_9: observeunknownliarwrestlevotesickbehinderosioncorn
+bip_39_word_space_0:
+- observe
+- unknown
+- liar
+- wrestle
+- vote
+- sick
+- behind
+- erosion
+- corn
+- emerge
+- occur
+- apology
+bip_39_word_space_1: observe
+bip_39_word_space_10: observe unknown liar wrestle vote sick behind erosion corn emerge
+bip_39_word_space_11: observe unknown liar wrestle vote sick behind erosion corn emerge
+  occur
+bip_39_word_space_12: observe unknown liar wrestle vote sick behind erosion corn emerge
+  occur apology
+bip_39_word_space_2: observe unknown
+bip_39_word_space_3: observe unknown liar
+bip_39_word_space_4: observe unknown liar wrestle
+bip_39_word_space_5: observe unknown liar wrestle vote
+bip_39_word_space_6: observe unknown liar wrestle vote sick
+bip_39_word_space_7: observe unknown liar wrestle vote sick behind
+bip_39_word_space_8: observe unknown liar wrestle vote sick behind erosion
+bip_39_word_space_9: observe unknown liar wrestle vote sick behind erosion corn
+bip_39_word_underscore_1: observe
+bip_39_word_underscore_10: observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge
+bip_39_word_underscore_11: observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge_occur
+bip_39_word_underscore_12: observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn_emerge_occur_apology
+bip_39_word_underscore_2: observe_unknown
+bip_39_word_underscore_3: observe_unknown_liar
+bip_39_word_underscore_4: observe_unknown_liar_wrestle
+bip_39_word_underscore_5: observe_unknown_liar_wrestle_vote
+bip_39_word_underscore_6: observe_unknown_liar_wrestle_vote_sick
+bip_39_word_underscore_7: observe_unknown_liar_wrestle_vote_sick_behind
+bip_39_word_underscore_8: observe_unknown_liar_wrestle_vote_sick_behind_erosion
+bip_39_word_underscore_9: observe_unknown_liar_wrestle_vote_sick_behind_erosion_corn
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 4_mm_length_hex_head
 id_no_size: black_4_mm_length_hex_head
 id_no_type: m2_black_4_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_black_4_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m2_black_4_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m2_black_4_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206iumq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206iumq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206iumq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 4 mm Length Hex Head
 name_no_size: Black 4 mm Length Hex Head
 name_no_size_short: Black 4 Mm Length Hex Head
 name_no_type: M2 Black 4 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 4 mm
+oomlout_bolt_length_no_unit: '4'
+oomlout_bolt_md5_6_alpha_first_3: 6iu
+oomlout_bolt_md5_6_alpha_first_3_upper: 6IU
+oomlout_bolt_md5_6_alpha_last_3: mq
+oomlout_bolt_md5_6_alpha_last_3_upper: MQ
+oomlout_bolt_md5_6_first_3: a73
+oomlout_bolt_md5_6_first_3_upper: A73
+oomlout_bolt_md5_6_last_3: '192'
+oomlout_bolt_md5_6_last_3_upper: '192'
+oomlout_bolt_name: Socket Cap M2X4 mm Black (Hex Head)
+oomlout_bolt_size: M2
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc2b4h
+oomlout_short_code_upper: SC2B4H
 oomp_key: oomp_hardware_screw_socket_cap_m2_black_4_mm_length_hex_head
 oomp_word: guitar ocean paperclip
 oomp_word_emoji: ':guitar: :ocean: :paperclip:'

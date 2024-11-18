@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sun
+bip_39_word_dash_10: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup
+bip_39_word_dash_11: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup-stairs
+bip_39_word_dash_12: sun-volume-feed-scan-resemble-genius-execute-need-lamp-ketchup-stairs-arrange
+bip_39_word_dash_2: sun-volume
+bip_39_word_dash_3: sun-volume-feed
+bip_39_word_dash_4: sun-volume-feed-scan
+bip_39_word_dash_5: sun-volume-feed-scan-resemble
+bip_39_word_dash_6: sun-volume-feed-scan-resemble-genius
+bip_39_word_dash_7: sun-volume-feed-scan-resemble-genius-execute
+bip_39_word_dash_8: sun-volume-feed-scan-resemble-genius-execute-need
+bip_39_word_dash_9: sun-volume-feed-scan-resemble-genius-execute-need-lamp
+bip_39_word_new_br_1: sun
+bip_39_word_new_br_10: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup
+bip_39_word_new_br_11: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs
+bip_39_word_new_br_12: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp<br>ketchup<br>stairs<br>arrange
+bip_39_word_new_br_2: sun<br>volume
+bip_39_word_new_br_3: sun<br>volume<br>feed
+bip_39_word_new_br_4: sun<br>volume<br>feed<br>scan
+bip_39_word_new_br_5: sun<br>volume<br>feed<br>scan<br>resemble
+bip_39_word_new_br_6: sun<br>volume<br>feed<br>scan<br>resemble<br>genius
+bip_39_word_new_br_7: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute
+bip_39_word_new_br_8: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need
+bip_39_word_new_br_9: sun<br>volume<br>feed<br>scan<br>resemble<br>genius<br>execute<br>need<br>lamp
+bip_39_word_new_line_1: sun
+bip_39_word_new_line_10: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute
+
+  need
+
+  lamp
+
+  ketchup'
+bip_39_word_new_line_11: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute
+
+  need
+
+  lamp
+
+  ketchup
+
+  stairs'
+bip_39_word_new_line_12: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute
+
+  need
+
+  lamp
+
+  ketchup
+
+  stairs
+
+  arrange'
+bip_39_word_new_line_2: 'sun
+
+  volume'
+bip_39_word_new_line_3: 'sun
+
+  volume
+
+  feed'
+bip_39_word_new_line_4: 'sun
+
+  volume
+
+  feed
+
+  scan'
+bip_39_word_new_line_5: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble'
+bip_39_word_new_line_6: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius'
+bip_39_word_new_line_7: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute'
+bip_39_word_new_line_8: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute
+
+  need'
+bip_39_word_new_line_9: 'sun
+
+  volume
+
+  feed
+
+  scan
+
+  resemble
+
+  genius
+
+  execute
+
+  need
+
+  lamp'
+bip_39_word_no_space_1: sun
+bip_39_word_no_space_10: sunvolumefeedscanresemblegeniusexecuteneedlampketchup
+bip_39_word_no_space_11: sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairs
+bip_39_word_no_space_12: sunvolumefeedscanresemblegeniusexecuteneedlampketchupstairsarrange
+bip_39_word_no_space_2: sunvolume
+bip_39_word_no_space_3: sunvolumefeed
+bip_39_word_no_space_4: sunvolumefeedscan
+bip_39_word_no_space_5: sunvolumefeedscanresemble
+bip_39_word_no_space_6: sunvolumefeedscanresemblegenius
+bip_39_word_no_space_7: sunvolumefeedscanresemblegeniusexecute
+bip_39_word_no_space_8: sunvolumefeedscanresemblegeniusexecuteneed
+bip_39_word_no_space_9: sunvolumefeedscanresemblegeniusexecuteneedlamp
+bip_39_word_space_0:
+- sun
+- volume
+- feed
+- scan
+- resemble
+- genius
+- execute
+- need
+- lamp
+- ketchup
+- stairs
+- arrange
+bip_39_word_space_1: sun
+bip_39_word_space_10: sun volume feed scan resemble genius execute need lamp ketchup
+bip_39_word_space_11: sun volume feed scan resemble genius execute need lamp ketchup
+  stairs
+bip_39_word_space_12: sun volume feed scan resemble genius execute need lamp ketchup
+  stairs arrange
+bip_39_word_space_2: sun volume
+bip_39_word_space_3: sun volume feed
+bip_39_word_space_4: sun volume feed scan
+bip_39_word_space_5: sun volume feed scan resemble
+bip_39_word_space_6: sun volume feed scan resemble genius
+bip_39_word_space_7: sun volume feed scan resemble genius execute
+bip_39_word_space_8: sun volume feed scan resemble genius execute need
+bip_39_word_space_9: sun volume feed scan resemble genius execute need lamp
+bip_39_word_underscore_1: sun
+bip_39_word_underscore_10: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup
+bip_39_word_underscore_11: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup_stairs
+bip_39_word_underscore_12: sun_volume_feed_scan_resemble_genius_execute_need_lamp_ketchup_stairs_arrange
+bip_39_word_underscore_2: sun_volume
+bip_39_word_underscore_3: sun_volume_feed
+bip_39_word_underscore_4: sun_volume_feed_scan
+bip_39_word_underscore_5: sun_volume_feed_scan_resemble
+bip_39_word_underscore_6: sun_volume_feed_scan_resemble_genius
+bip_39_word_underscore_7: sun_volume_feed_scan_resemble_genius_execute
+bip_39_word_underscore_8: sun_volume_feed_scan_resemble_genius_execute_need
+bip_39_word_underscore_9: sun_volume_feed_scan_resemble_genius_execute_need_lamp
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 16_mm_length_pozidrive_head
 id_no_size: bright_zinc_plated_16_mm_length_pozidrive_head
 id_no_type: m2_5_bright_zinc_plated_16_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_5_bright_zinc_plated_16_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m2_5_bright_zinc_plated_16_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m2_5_bright_zinc_plated_16_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207pn6m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207pn6m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207pn6m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,27 @@ name_no_color: 16 mm Length Pozidrive Head
 name_no_size: Bright Zinc Plated 16 mm Length Pozidrive Head
 name_no_size_short: Bright Zinc Plated 16 Mm Length Pozidrive Head
 name_no_type: M2 5 Bright Zinc Plated 16 mm Length Pozidrive Head
+oomlout_bolt_color: ''
+oomlout_bolt_head_type: Pozidrive
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 16 mm
+oomlout_bolt_length_no_unit: '16'
+oomlout_bolt_md5_6_alpha_first_3: 7pn
+oomlout_bolt_md5_6_alpha_first_3_upper: 7PN
+oomlout_bolt_md5_6_alpha_last_3: 6m
+oomlout_bolt_md5_6_alpha_last_3_upper: 6M
+oomlout_bolt_md5_6_first_3: c5a
+oomlout_bolt_md5_6_first_3_upper: C5A
+oomlout_bolt_md5_6_last_3: 89e
+oomlout_bolt_md5_6_last_3_upper: 89E
+oomlout_bolt_name: Countersunk M2_5X16 mm  (Pozidrive)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Countersunk
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: cs2d5bz16pz
+oomlout_short_code_upper: CS2D5BZ16PZ
 oomp_key: oomp_hardware_screw_countersunk_m2_5_bright_zinc_plated_16_mm_length_pozidrive_head
 oomp_word: candy shoe clubs
 oomp_word_emoji: ':candy: :shoe: :clubs:'

@@ -338,7 +338,14 @@ id_no_color: 9pinsurfacemountrightangle
 id_no_size: 9_pin_surface_mount_right_angle
 id_no_type: 1_mm_jst_sh_9_pin_surface_mount_right_angle
 kicad_reference: CONN
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2070fzf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2070fzf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2070fzf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -370,6 +377,7 @@ name_no_color: 9Pinsurfacemountrightangle
 name_no_size: 9 Pin Surface Mount Right Angle
 name_no_size_short: 9 Pin Surface Mount Right Angle
 name_no_type: 1 mm Jst Sh 9 Pin Surface Mount Right Angle
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle
 oomp_word: eyeglasses pizza car
 oomp_word_emoji: ':eyeglasses: :pizza: :car:'

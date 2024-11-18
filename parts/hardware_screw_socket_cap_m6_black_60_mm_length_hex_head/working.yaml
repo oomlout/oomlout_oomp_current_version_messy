@@ -1,4 +1,223 @@
 barcode_manufacturer_metalmate: '5050420667463'
+bip_39_word_dash_1: enter
+bip_39_word_dash_10: enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn
+bip_39_word_dash_11: enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn-cinnamon
+bip_39_word_dash_12: enter-case-half-kidney-blanket-liberty-fall-pill-glove-spawn-cinnamon-arena
+bip_39_word_dash_2: enter-case
+bip_39_word_dash_3: enter-case-half
+bip_39_word_dash_4: enter-case-half-kidney
+bip_39_word_dash_5: enter-case-half-kidney-blanket
+bip_39_word_dash_6: enter-case-half-kidney-blanket-liberty
+bip_39_word_dash_7: enter-case-half-kidney-blanket-liberty-fall
+bip_39_word_dash_8: enter-case-half-kidney-blanket-liberty-fall-pill
+bip_39_word_dash_9: enter-case-half-kidney-blanket-liberty-fall-pill-glove
+bip_39_word_new_br_1: enter
+bip_39_word_new_br_10: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn
+bip_39_word_new_br_11: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon
+bip_39_word_new_br_12: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove<br>spawn<br>cinnamon<br>arena
+bip_39_word_new_br_2: enter<br>case
+bip_39_word_new_br_3: enter<br>case<br>half
+bip_39_word_new_br_4: enter<br>case<br>half<br>kidney
+bip_39_word_new_br_5: enter<br>case<br>half<br>kidney<br>blanket
+bip_39_word_new_br_6: enter<br>case<br>half<br>kidney<br>blanket<br>liberty
+bip_39_word_new_br_7: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall
+bip_39_word_new_br_8: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill
+bip_39_word_new_br_9: enter<br>case<br>half<br>kidney<br>blanket<br>liberty<br>fall<br>pill<br>glove
+bip_39_word_new_line_1: enter
+bip_39_word_new_line_10: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn'
+bip_39_word_new_line_11: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn
+
+  cinnamon'
+bip_39_word_new_line_12: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove
+
+  spawn
+
+  cinnamon
+
+  arena'
+bip_39_word_new_line_2: 'enter
+
+  case'
+bip_39_word_new_line_3: 'enter
+
+  case
+
+  half'
+bip_39_word_new_line_4: 'enter
+
+  case
+
+  half
+
+  kidney'
+bip_39_word_new_line_5: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket'
+bip_39_word_new_line_6: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty'
+bip_39_word_new_line_7: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall'
+bip_39_word_new_line_8: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill'
+bip_39_word_new_line_9: 'enter
+
+  case
+
+  half
+
+  kidney
+
+  blanket
+
+  liberty
+
+  fall
+
+  pill
+
+  glove'
+bip_39_word_no_space_1: enter
+bip_39_word_no_space_10: entercasehalfkidneyblanketlibertyfallpillglovespawn
+bip_39_word_no_space_11: entercasehalfkidneyblanketlibertyfallpillglovespawncinnamon
+bip_39_word_no_space_12: entercasehalfkidneyblanketlibertyfallpillglovespawncinnamonarena
+bip_39_word_no_space_2: entercase
+bip_39_word_no_space_3: entercasehalf
+bip_39_word_no_space_4: entercasehalfkidney
+bip_39_word_no_space_5: entercasehalfkidneyblanket
+bip_39_word_no_space_6: entercasehalfkidneyblanketliberty
+bip_39_word_no_space_7: entercasehalfkidneyblanketlibertyfall
+bip_39_word_no_space_8: entercasehalfkidneyblanketlibertyfallpill
+bip_39_word_no_space_9: entercasehalfkidneyblanketlibertyfallpillglove
+bip_39_word_space_0:
+- enter
+- case
+- half
+- kidney
+- blanket
+- liberty
+- fall
+- pill
+- glove
+- spawn
+- cinnamon
+- arena
+bip_39_word_space_1: enter
+bip_39_word_space_10: enter case half kidney blanket liberty fall pill glove spawn
+bip_39_word_space_11: enter case half kidney blanket liberty fall pill glove spawn
+  cinnamon
+bip_39_word_space_12: enter case half kidney blanket liberty fall pill glove spawn
+  cinnamon arena
+bip_39_word_space_2: enter case
+bip_39_word_space_3: enter case half
+bip_39_word_space_4: enter case half kidney
+bip_39_word_space_5: enter case half kidney blanket
+bip_39_word_space_6: enter case half kidney blanket liberty
+bip_39_word_space_7: enter case half kidney blanket liberty fall
+bip_39_word_space_8: enter case half kidney blanket liberty fall pill
+bip_39_word_space_9: enter case half kidney blanket liberty fall pill glove
+bip_39_word_underscore_1: enter
+bip_39_word_underscore_10: enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn
+bip_39_word_underscore_11: enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn_cinnamon
+bip_39_word_underscore_12: enter_case_half_kidney_blanket_liberty_fall_pill_glove_spawn_cinnamon_arena
+bip_39_word_underscore_2: enter_case
+bip_39_word_underscore_3: enter_case_half
+bip_39_word_underscore_4: enter_case_half_kidney
+bip_39_word_underscore_5: enter_case_half_kidney_blanket
+bip_39_word_underscore_6: enter_case_half_kidney_blanket_liberty
+bip_39_word_underscore_7: enter_case_half_kidney_blanket_liberty_fall
+bip_39_word_underscore_8: enter_case_half_kidney_blanket_liberty_fall_pill
+bip_39_word_underscore_9: enter_case_half_kidney_blanket_liberty_fall_pill_glove
 box_of_box_size_manufacturer_metalmate: '1200'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +357,22 @@ id_no_color: 60_mm_length_hex_head
 id_no_size: black_60_mm_length_hex_head
 id_no_type: m6_black_60_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m6-x-60-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m6-x-60-socket-cap-screw-gr12-9-self-colour-din-91-1150m490060
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m6-x-60-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m6-x-60-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20743lg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20743lg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20743lg
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +399,26 @@ name_no_color: 60 mm Length Hex Head
 name_no_size: Black 60 mm Length Hex Head
 name_no_size_short: Black 60 Mm Length Hex Head
 name_no_type: M6 Black 60 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 60 mm
+oomlout_bolt_length_no_unit: '60'
+oomlout_bolt_md5_6_alpha_first_3: '743'
+oomlout_bolt_md5_6_alpha_first_3_upper: '743'
+oomlout_bolt_md5_6_alpha_last_3: lg
+oomlout_bolt_md5_6_alpha_last_3_upper: LG
+oomlout_bolt_md5_6_first_3: b65
+oomlout_bolt_md5_6_first_3_upper: B65
+oomlout_bolt_md5_6_last_3: '234'
+oomlout_bolt_md5_6_last_3_upper: '234'
+oomlout_bolt_name: Socket Cap M6X60 mm Black (Hex Head)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc6b60h
+oomlout_short_code_upper: SC6B60H
 oomp_id: hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m6_black_60_mm_length_hex_head
 oomp_word: beer octopus mouse
@@ -189,12 +443,22 @@ price_1: '0.1283'
 price_100: '0.1283'
 price_1000: '0.0642'
 price_10000: '0.057'
+price_10000_distributor_1: '0.057'
 price_10000_distributor_orbital_fasteners: '0.057'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0642'
 price_1000_distributor_orbital_fasteners: '0.0642'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.1283'
 price_100_distributor_orbital_fasteners: '0.1283'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.1283'
 price_1_distributor_orbital_fasteners: '0.1283'
+price_1_name: orbital_fasteners
 price_200: '0.0713'
+price_200_distributor_1: '0.0713'
 price_200_distributor_orbital_fasteners: '0.0713'
+price_200_name: orbital_fasteners
 price_current: '0.0713'
 quantity_current: '200'
 short_code: sc6b60h

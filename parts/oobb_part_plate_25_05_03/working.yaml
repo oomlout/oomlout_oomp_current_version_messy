@@ -1,3 +1,222 @@
+bip_39_word_dash_1: offer
+bip_39_word_dash_10: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater
+bip_39_word_dash_11: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater-april
+bip_39_word_dash_12: offer-shrimp-gloom-move-together-sweet-drip-village-child-crater-april-age
+bip_39_word_dash_2: offer-shrimp
+bip_39_word_dash_3: offer-shrimp-gloom
+bip_39_word_dash_4: offer-shrimp-gloom-move
+bip_39_word_dash_5: offer-shrimp-gloom-move-together
+bip_39_word_dash_6: offer-shrimp-gloom-move-together-sweet
+bip_39_word_dash_7: offer-shrimp-gloom-move-together-sweet-drip
+bip_39_word_dash_8: offer-shrimp-gloom-move-together-sweet-drip-village
+bip_39_word_dash_9: offer-shrimp-gloom-move-together-sweet-drip-village-child
+bip_39_word_new_br_1: offer
+bip_39_word_new_br_10: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater
+bip_39_word_new_br_11: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater<br>april
+bip_39_word_new_br_12: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child<br>crater<br>april<br>age
+bip_39_word_new_br_2: offer<br>shrimp
+bip_39_word_new_br_3: offer<br>shrimp<br>gloom
+bip_39_word_new_br_4: offer<br>shrimp<br>gloom<br>move
+bip_39_word_new_br_5: offer<br>shrimp<br>gloom<br>move<br>together
+bip_39_word_new_br_6: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet
+bip_39_word_new_br_7: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip
+bip_39_word_new_br_8: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village
+bip_39_word_new_br_9: offer<br>shrimp<br>gloom<br>move<br>together<br>sweet<br>drip<br>village<br>child
+bip_39_word_new_line_1: offer
+bip_39_word_new_line_10: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater'
+bip_39_word_new_line_11: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater
+
+  april'
+bip_39_word_new_line_12: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child
+
+  crater
+
+  april
+
+  age'
+bip_39_word_new_line_2: 'offer
+
+  shrimp'
+bip_39_word_new_line_3: 'offer
+
+  shrimp
+
+  gloom'
+bip_39_word_new_line_4: 'offer
+
+  shrimp
+
+  gloom
+
+  move'
+bip_39_word_new_line_5: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together'
+bip_39_word_new_line_6: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet'
+bip_39_word_new_line_7: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip'
+bip_39_word_new_line_8: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village'
+bip_39_word_new_line_9: 'offer
+
+  shrimp
+
+  gloom
+
+  move
+
+  together
+
+  sweet
+
+  drip
+
+  village
+
+  child'
+bip_39_word_no_space_1: offer
+bip_39_word_no_space_10: offershrimpgloommovetogethersweetdripvillagechildcrater
+bip_39_word_no_space_11: offershrimpgloommovetogethersweetdripvillagechildcraterapril
+bip_39_word_no_space_12: offershrimpgloommovetogethersweetdripvillagechildcrateraprilage
+bip_39_word_no_space_2: offershrimp
+bip_39_word_no_space_3: offershrimpgloom
+bip_39_word_no_space_4: offershrimpgloommove
+bip_39_word_no_space_5: offershrimpgloommovetogether
+bip_39_word_no_space_6: offershrimpgloommovetogethersweet
+bip_39_word_no_space_7: offershrimpgloommovetogethersweetdrip
+bip_39_word_no_space_8: offershrimpgloommovetogethersweetdripvillage
+bip_39_word_no_space_9: offershrimpgloommovetogethersweetdripvillagechild
+bip_39_word_space_0:
+- offer
+- shrimp
+- gloom
+- move
+- together
+- sweet
+- drip
+- village
+- child
+- crater
+- april
+- age
+bip_39_word_space_1: offer
+bip_39_word_space_10: offer shrimp gloom move together sweet drip village child crater
+bip_39_word_space_11: offer shrimp gloom move together sweet drip village child crater
+  april
+bip_39_word_space_12: offer shrimp gloom move together sweet drip village child crater
+  april age
+bip_39_word_space_2: offer shrimp
+bip_39_word_space_3: offer shrimp gloom
+bip_39_word_space_4: offer shrimp gloom move
+bip_39_word_space_5: offer shrimp gloom move together
+bip_39_word_space_6: offer shrimp gloom move together sweet
+bip_39_word_space_7: offer shrimp gloom move together sweet drip
+bip_39_word_space_8: offer shrimp gloom move together sweet drip village
+bip_39_word_space_9: offer shrimp gloom move together sweet drip village child
+bip_39_word_underscore_1: offer
+bip_39_word_underscore_10: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater
+bip_39_word_underscore_11: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater_april
+bip_39_word_underscore_12: offer_shrimp_gloom_move_together_sweet_drip_village_child_crater_april_age
+bip_39_word_underscore_2: offer_shrimp
+bip_39_word_underscore_3: offer_shrimp_gloom
+bip_39_word_underscore_4: offer_shrimp_gloom_move
+bip_39_word_underscore_5: offer_shrimp_gloom_move_together
+bip_39_word_underscore_6: offer_shrimp_gloom_move_together_sweet
+bip_39_word_underscore_7: offer_shrimp_gloom_move_together_sweet_drip
+bip_39_word_underscore_8: offer_shrimp_gloom_move_together_sweet_drip_village
+bip_39_word_underscore_9: offer_shrimp_gloom_move_together_sweet_drip_village_child
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_25_05_03
 id_no_color: '250503'
 id_no_size: '25_05_03'
 id_no_type: plate_25_05_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_25_05_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_25_05_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_25_05_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202yvgs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202yvgs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202yvgs
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '250503'
 name_no_size: 25 05 03
 name_no_size_short: 25 05 03
 name_no_type: Plate 25 05 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_25_05_03
 oomp_word: turtle poop watermelon
 oomp_word_emoji: ':turtle: :poop: :watermelon:'

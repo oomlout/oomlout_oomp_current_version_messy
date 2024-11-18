@@ -1,3 +1,222 @@
+bip_39_word_dash_1: core
+bip_39_word_dash_10: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom
+bip_39_word_dash_11: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom-brand
+bip_39_word_dash_12: core-social-hamster-tuna-piece-fox-scatter-attend-empower-mushroom-brand-airport
+bip_39_word_dash_2: core-social
+bip_39_word_dash_3: core-social-hamster
+bip_39_word_dash_4: core-social-hamster-tuna
+bip_39_word_dash_5: core-social-hamster-tuna-piece
+bip_39_word_dash_6: core-social-hamster-tuna-piece-fox
+bip_39_word_dash_7: core-social-hamster-tuna-piece-fox-scatter
+bip_39_word_dash_8: core-social-hamster-tuna-piece-fox-scatter-attend
+bip_39_word_dash_9: core-social-hamster-tuna-piece-fox-scatter-attend-empower
+bip_39_word_new_br_1: core
+bip_39_word_new_br_10: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom
+bip_39_word_new_br_11: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom<br>brand
+bip_39_word_new_br_12: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower<br>mushroom<br>brand<br>airport
+bip_39_word_new_br_2: core<br>social
+bip_39_word_new_br_3: core<br>social<br>hamster
+bip_39_word_new_br_4: core<br>social<br>hamster<br>tuna
+bip_39_word_new_br_5: core<br>social<br>hamster<br>tuna<br>piece
+bip_39_word_new_br_6: core<br>social<br>hamster<br>tuna<br>piece<br>fox
+bip_39_word_new_br_7: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter
+bip_39_word_new_br_8: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend
+bip_39_word_new_br_9: core<br>social<br>hamster<br>tuna<br>piece<br>fox<br>scatter<br>attend<br>empower
+bip_39_word_new_line_1: core
+bip_39_word_new_line_10: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter
+
+  attend
+
+  empower
+
+  mushroom'
+bip_39_word_new_line_11: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter
+
+  attend
+
+  empower
+
+  mushroom
+
+  brand'
+bip_39_word_new_line_12: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter
+
+  attend
+
+  empower
+
+  mushroom
+
+  brand
+
+  airport'
+bip_39_word_new_line_2: 'core
+
+  social'
+bip_39_word_new_line_3: 'core
+
+  social
+
+  hamster'
+bip_39_word_new_line_4: 'core
+
+  social
+
+  hamster
+
+  tuna'
+bip_39_word_new_line_5: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece'
+bip_39_word_new_line_6: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox'
+bip_39_word_new_line_7: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter'
+bip_39_word_new_line_8: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter
+
+  attend'
+bip_39_word_new_line_9: 'core
+
+  social
+
+  hamster
+
+  tuna
+
+  piece
+
+  fox
+
+  scatter
+
+  attend
+
+  empower'
+bip_39_word_no_space_1: core
+bip_39_word_no_space_10: coresocialhamstertunapiecefoxscatterattendempowermushroom
+bip_39_word_no_space_11: coresocialhamstertunapiecefoxscatterattendempowermushroombrand
+bip_39_word_no_space_12: coresocialhamstertunapiecefoxscatterattendempowermushroombrandairport
+bip_39_word_no_space_2: coresocial
+bip_39_word_no_space_3: coresocialhamster
+bip_39_word_no_space_4: coresocialhamstertuna
+bip_39_word_no_space_5: coresocialhamstertunapiece
+bip_39_word_no_space_6: coresocialhamstertunapiecefox
+bip_39_word_no_space_7: coresocialhamstertunapiecefoxscatter
+bip_39_word_no_space_8: coresocialhamstertunapiecefoxscatterattend
+bip_39_word_no_space_9: coresocialhamstertunapiecefoxscatterattendempower
+bip_39_word_space_0:
+- core
+- social
+- hamster
+- tuna
+- piece
+- fox
+- scatter
+- attend
+- empower
+- mushroom
+- brand
+- airport
+bip_39_word_space_1: core
+bip_39_word_space_10: core social hamster tuna piece fox scatter attend empower mushroom
+bip_39_word_space_11: core social hamster tuna piece fox scatter attend empower mushroom
+  brand
+bip_39_word_space_12: core social hamster tuna piece fox scatter attend empower mushroom
+  brand airport
+bip_39_word_space_2: core social
+bip_39_word_space_3: core social hamster
+bip_39_word_space_4: core social hamster tuna
+bip_39_word_space_5: core social hamster tuna piece
+bip_39_word_space_6: core social hamster tuna piece fox
+bip_39_word_space_7: core social hamster tuna piece fox scatter
+bip_39_word_space_8: core social hamster tuna piece fox scatter attend
+bip_39_word_space_9: core social hamster tuna piece fox scatter attend empower
+bip_39_word_underscore_1: core
+bip_39_word_underscore_10: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom
+bip_39_word_underscore_11: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom_brand
+bip_39_word_underscore_12: core_social_hamster_tuna_piece_fox_scatter_attend_empower_mushroom_brand_airport
+bip_39_word_underscore_2: core_social
+bip_39_word_underscore_3: core_social_hamster
+bip_39_word_underscore_4: core_social_hamster_tuna
+bip_39_word_underscore_5: core_social_hamster_tuna_piece
+bip_39_word_underscore_6: core_social_hamster_tuna_piece_fox
+bip_39_word_underscore_7: core_social_hamster_tuna_piece_fox_scatter
+bip_39_word_underscore_8: core_social_hamster_tuna_piece_fox_scatter_attend
+bip_39_word_underscore_9: core_social_hamster_tuna_piece_fox_scatter_attend_empower
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_13_07_30
 id_no_color: '130730'
 id_no_size: '13_07_30'
 id_no_type: tray_thin_13_07_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_07_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_13_07_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_13_07_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203fwo4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203fwo4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203fwo4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '130730'
 name_no_size: 13 07 30
 name_no_size_short: 13 07 30
 name_no_type: Tray Thin 13 07 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_13_07_30
 oomp_word: water_buffalo rabbit droplet
 oomp_word_emoji: ':water_buffalo: :rabbit: :droplet:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: draw
+bip_39_word_dash_10: draw-nation-another-any-tomorrow-neck-must-glide-soap-ten
+bip_39_word_dash_11: draw-nation-another-any-tomorrow-neck-must-glide-soap-ten-tide
+bip_39_word_dash_12: draw-nation-another-any-tomorrow-neck-must-glide-soap-ten-tide-announce
+bip_39_word_dash_2: draw-nation
+bip_39_word_dash_3: draw-nation-another
+bip_39_word_dash_4: draw-nation-another-any
+bip_39_word_dash_5: draw-nation-another-any-tomorrow
+bip_39_word_dash_6: draw-nation-another-any-tomorrow-neck
+bip_39_word_dash_7: draw-nation-another-any-tomorrow-neck-must
+bip_39_word_dash_8: draw-nation-another-any-tomorrow-neck-must-glide
+bip_39_word_dash_9: draw-nation-another-any-tomorrow-neck-must-glide-soap
+bip_39_word_new_br_1: draw
+bip_39_word_new_br_10: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten
+bip_39_word_new_br_11: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten<br>tide
+bip_39_word_new_br_12: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap<br>ten<br>tide<br>announce
+bip_39_word_new_br_2: draw<br>nation
+bip_39_word_new_br_3: draw<br>nation<br>another
+bip_39_word_new_br_4: draw<br>nation<br>another<br>any
+bip_39_word_new_br_5: draw<br>nation<br>another<br>any<br>tomorrow
+bip_39_word_new_br_6: draw<br>nation<br>another<br>any<br>tomorrow<br>neck
+bip_39_word_new_br_7: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must
+bip_39_word_new_br_8: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide
+bip_39_word_new_br_9: draw<br>nation<br>another<br>any<br>tomorrow<br>neck<br>must<br>glide<br>soap
+bip_39_word_new_line_1: draw
+bip_39_word_new_line_10: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten'
+bip_39_word_new_line_11: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten
+
+  tide'
+bip_39_word_new_line_12: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap
+
+  ten
+
+  tide
+
+  announce'
+bip_39_word_new_line_2: 'draw
+
+  nation'
+bip_39_word_new_line_3: 'draw
+
+  nation
+
+  another'
+bip_39_word_new_line_4: 'draw
+
+  nation
+
+  another
+
+  any'
+bip_39_word_new_line_5: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow'
+bip_39_word_new_line_6: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck'
+bip_39_word_new_line_7: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must'
+bip_39_word_new_line_8: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide'
+bip_39_word_new_line_9: 'draw
+
+  nation
+
+  another
+
+  any
+
+  tomorrow
+
+  neck
+
+  must
+
+  glide
+
+  soap'
+bip_39_word_no_space_1: draw
+bip_39_word_no_space_10: drawnationanotheranytomorrowneckmustglidesoapten
+bip_39_word_no_space_11: drawnationanotheranytomorrowneckmustglidesoaptentide
+bip_39_word_no_space_12: drawnationanotheranytomorrowneckmustglidesoaptentideannounce
+bip_39_word_no_space_2: drawnation
+bip_39_word_no_space_3: drawnationanother
+bip_39_word_no_space_4: drawnationanotherany
+bip_39_word_no_space_5: drawnationanotheranytomorrow
+bip_39_word_no_space_6: drawnationanotheranytomorrowneck
+bip_39_word_no_space_7: drawnationanotheranytomorrowneckmust
+bip_39_word_no_space_8: drawnationanotheranytomorrowneckmustglide
+bip_39_word_no_space_9: drawnationanotheranytomorrowneckmustglidesoap
+bip_39_word_space_0:
+- draw
+- nation
+- another
+- any
+- tomorrow
+- neck
+- must
+- glide
+- soap
+- ten
+- tide
+- announce
+bip_39_word_space_1: draw
+bip_39_word_space_10: draw nation another any tomorrow neck must glide soap ten
+bip_39_word_space_11: draw nation another any tomorrow neck must glide soap ten tide
+bip_39_word_space_12: draw nation another any tomorrow neck must glide soap ten tide
+  announce
+bip_39_word_space_2: draw nation
+bip_39_word_space_3: draw nation another
+bip_39_word_space_4: draw nation another any
+bip_39_word_space_5: draw nation another any tomorrow
+bip_39_word_space_6: draw nation another any tomorrow neck
+bip_39_word_space_7: draw nation another any tomorrow neck must
+bip_39_word_space_8: draw nation another any tomorrow neck must glide
+bip_39_word_space_9: draw nation another any tomorrow neck must glide soap
+bip_39_word_underscore_1: draw
+bip_39_word_underscore_10: draw_nation_another_any_tomorrow_neck_must_glide_soap_ten
+bip_39_word_underscore_11: draw_nation_another_any_tomorrow_neck_must_glide_soap_ten_tide
+bip_39_word_underscore_12: draw_nation_another_any_tomorrow_neck_must_glide_soap_ten_tide_announce
+bip_39_word_underscore_2: draw_nation
+bip_39_word_underscore_3: draw_nation_another
+bip_39_word_underscore_4: draw_nation_another_any
+bip_39_word_underscore_5: draw_nation_another_any_tomorrow
+bip_39_word_underscore_6: draw_nation_another_any_tomorrow_neck
+bip_39_word_underscore_7: draw_nation_another_any_tomorrow_neck_must
+bip_39_word_underscore_8: draw_nation_another_any_tomorrow_neck_must_glide
+bip_39_word_underscore_9: draw_nation_another_any_tomorrow_neck_must_glide_soap
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +326,14 @@ id_no_class: bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
 id_no_color: 60_mm_id_95_mm_od_11_mm_depth
 id_no_size: 16012_size_60_mm_id_95_mm_od_11_mm_depth
 id_no_type: 16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ud9z
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ud9z
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ud9z
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,9 @@ name_no_color: 60 mm ID 95 mm OD 11 mm Depth
 name_no_size: 16012 Size 60 mm ID 95 mm OD 11 mm Depth
 name_no_size_short: 16012 Size 60 Mm Id 95 Mm Od 11 Mm Depth
 name_no_type: 16000 Series 16012 Size 60 mm ID 95 mm OD 11 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br16012
+oomlout_short_code_upper: BR16012
 oomp_key: oomp_hardware_bearing_16000_series_16012_size_60_mm_id_95_mm_od_11_mm_depth
 oomp_word: telescope cake pizza
 oomp_word_emoji: ':telescope: :cake: :pizza:'

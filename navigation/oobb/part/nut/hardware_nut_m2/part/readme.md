@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Nut Hardware Nut M2
+* name_short: 
 ### id
 * oomp_id: oobb_part_nut_hardware_nut_m2
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :banana: :peach: :jeans:
 * md5_6_alpha: 85ay6
 * md5_6: d0ceae
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2085ay6)
+[2x1](http://192.168.1.242:1112/?label=oomp%2085ay6)
+[6x4](http://192.168.1.55:1112/?label=oomp%2085ay6)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ tomato |
 | id_no_color | hardwarem2 |  
 | id_no_size | hardware_m2 |  
 | id_no_type | nut_hardware_nut_m2 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m2 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m2 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2085ay6 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2085ay6 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2085ay6 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ tomato |
 | name_no_size | Hardware M2 |  
 | name_no_size_short | Hardware M2 |  
 | name_no_type | Nut Hardware Nut M2 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_nut_hardware_nut_m2 |  
 | oomp_word | banana peach jeans |  
 | oomp_word_emoji | :banana: :peach: :jeans: |  

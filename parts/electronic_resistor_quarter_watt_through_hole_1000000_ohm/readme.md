@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Resistor Quarter Watt Through Hole 1000000 Ohm
+* name_short: 
 ### id
 * oomp_id: electronic_resistor_quarter_watt_through_hole_1000000_ohm
   * classification: electronic

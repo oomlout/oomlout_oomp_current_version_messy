@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic LED 1010 RGB Ws2812B Xinglight 1010RGBc
+* name_short: 
 ### id
 * oomp_id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
   * classification: electronic

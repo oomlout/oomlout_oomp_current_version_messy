@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete
+* name_short: m3_countersunk_tin_complete
 ### id
 * oomp_id: project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :envelope: :eyes: :camel:
 * md5_6_alpha: 5e1xd
 * md5_6: 8a2641
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205e1xd)
+[2x1](http://192.168.1.242:1112/?label=oomp%205e1xd)
+[6x4](http://192.168.1.55:1112/?label=oomp%205e1xd)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ laundry |
 | id_no_color | bolt_product_countersunk_m3_v_1_complete |  
 | id_no_size | bolt_product_countersunk_m3_v_1_complete |  
 | id_no_type | oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205e1xd |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205e1xd |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205e1xd |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -305,6 +338,7 @@ laundry |
 | name_no_size_short | Bolt Product Countersunk M3 V 1 Complete |  
 | name_no_type | Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete |  
 | name_short | m3_countersunk_tin_complete |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete |  
 | oomp_word | envelope eyes camel |  
 | oomp_word_emoji | :envelope: :eyes: :camel: |  

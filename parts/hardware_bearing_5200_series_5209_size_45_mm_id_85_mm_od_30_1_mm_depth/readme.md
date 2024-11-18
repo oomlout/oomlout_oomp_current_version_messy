@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5200 Series 5209 Size 45 mm ID 85 mm OD 30 1 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5200_series_5209_size_45_mm_id_85_mm_od_30_1_mm_depth
   * classification: hardware

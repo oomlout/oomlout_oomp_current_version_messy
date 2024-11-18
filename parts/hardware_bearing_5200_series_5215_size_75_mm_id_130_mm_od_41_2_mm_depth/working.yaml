@@ -1,3 +1,222 @@
+bip_39_word_dash_1: topple
+bip_39_word_dash_10: topple-grace-domain-helmet-unique-seed-dry-pepper-because-fantasy
+bip_39_word_dash_11: topple-grace-domain-helmet-unique-seed-dry-pepper-because-fantasy-jeans
+bip_39_word_dash_12: topple-grace-domain-helmet-unique-seed-dry-pepper-because-fantasy-jeans-achieve
+bip_39_word_dash_2: topple-grace
+bip_39_word_dash_3: topple-grace-domain
+bip_39_word_dash_4: topple-grace-domain-helmet
+bip_39_word_dash_5: topple-grace-domain-helmet-unique
+bip_39_word_dash_6: topple-grace-domain-helmet-unique-seed
+bip_39_word_dash_7: topple-grace-domain-helmet-unique-seed-dry
+bip_39_word_dash_8: topple-grace-domain-helmet-unique-seed-dry-pepper
+bip_39_word_dash_9: topple-grace-domain-helmet-unique-seed-dry-pepper-because
+bip_39_word_new_br_1: topple
+bip_39_word_new_br_10: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry<br>pepper<br>because<br>fantasy
+bip_39_word_new_br_11: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry<br>pepper<br>because<br>fantasy<br>jeans
+bip_39_word_new_br_12: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry<br>pepper<br>because<br>fantasy<br>jeans<br>achieve
+bip_39_word_new_br_2: topple<br>grace
+bip_39_word_new_br_3: topple<br>grace<br>domain
+bip_39_word_new_br_4: topple<br>grace<br>domain<br>helmet
+bip_39_word_new_br_5: topple<br>grace<br>domain<br>helmet<br>unique
+bip_39_word_new_br_6: topple<br>grace<br>domain<br>helmet<br>unique<br>seed
+bip_39_word_new_br_7: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry
+bip_39_word_new_br_8: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry<br>pepper
+bip_39_word_new_br_9: topple<br>grace<br>domain<br>helmet<br>unique<br>seed<br>dry<br>pepper<br>because
+bip_39_word_new_line_1: topple
+bip_39_word_new_line_10: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry
+
+  pepper
+
+  because
+
+  fantasy'
+bip_39_word_new_line_11: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry
+
+  pepper
+
+  because
+
+  fantasy
+
+  jeans'
+bip_39_word_new_line_12: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry
+
+  pepper
+
+  because
+
+  fantasy
+
+  jeans
+
+  achieve'
+bip_39_word_new_line_2: 'topple
+
+  grace'
+bip_39_word_new_line_3: 'topple
+
+  grace
+
+  domain'
+bip_39_word_new_line_4: 'topple
+
+  grace
+
+  domain
+
+  helmet'
+bip_39_word_new_line_5: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique'
+bip_39_word_new_line_6: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed'
+bip_39_word_new_line_7: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry'
+bip_39_word_new_line_8: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry
+
+  pepper'
+bip_39_word_new_line_9: 'topple
+
+  grace
+
+  domain
+
+  helmet
+
+  unique
+
+  seed
+
+  dry
+
+  pepper
+
+  because'
+bip_39_word_no_space_1: topple
+bip_39_word_no_space_10: topplegracedomainhelmetuniqueseeddrypepperbecausefantasy
+bip_39_word_no_space_11: topplegracedomainhelmetuniqueseeddrypepperbecausefantasyjeans
+bip_39_word_no_space_12: topplegracedomainhelmetuniqueseeddrypepperbecausefantasyjeansachieve
+bip_39_word_no_space_2: topplegrace
+bip_39_word_no_space_3: topplegracedomain
+bip_39_word_no_space_4: topplegracedomainhelmet
+bip_39_word_no_space_5: topplegracedomainhelmetunique
+bip_39_word_no_space_6: topplegracedomainhelmetuniqueseed
+bip_39_word_no_space_7: topplegracedomainhelmetuniqueseeddry
+bip_39_word_no_space_8: topplegracedomainhelmetuniqueseeddrypepper
+bip_39_word_no_space_9: topplegracedomainhelmetuniqueseeddrypepperbecause
+bip_39_word_space_0:
+- topple
+- grace
+- domain
+- helmet
+- unique
+- seed
+- dry
+- pepper
+- because
+- fantasy
+- jeans
+- achieve
+bip_39_word_space_1: topple
+bip_39_word_space_10: topple grace domain helmet unique seed dry pepper because fantasy
+bip_39_word_space_11: topple grace domain helmet unique seed dry pepper because fantasy
+  jeans
+bip_39_word_space_12: topple grace domain helmet unique seed dry pepper because fantasy
+  jeans achieve
+bip_39_word_space_2: topple grace
+bip_39_word_space_3: topple grace domain
+bip_39_word_space_4: topple grace domain helmet
+bip_39_word_space_5: topple grace domain helmet unique
+bip_39_word_space_6: topple grace domain helmet unique seed
+bip_39_word_space_7: topple grace domain helmet unique seed dry
+bip_39_word_space_8: topple grace domain helmet unique seed dry pepper
+bip_39_word_space_9: topple grace domain helmet unique seed dry pepper because
+bip_39_word_underscore_1: topple
+bip_39_word_underscore_10: topple_grace_domain_helmet_unique_seed_dry_pepper_because_fantasy
+bip_39_word_underscore_11: topple_grace_domain_helmet_unique_seed_dry_pepper_because_fantasy_jeans
+bip_39_word_underscore_12: topple_grace_domain_helmet_unique_seed_dry_pepper_because_fantasy_jeans_achieve
+bip_39_word_underscore_2: topple_grace
+bip_39_word_underscore_3: topple_grace_domain
+bip_39_word_underscore_4: topple_grace_domain_helmet
+bip_39_word_underscore_5: topple_grace_domain_helmet_unique
+bip_39_word_underscore_6: topple_grace_domain_helmet_unique_seed
+bip_39_word_underscore_7: topple_grace_domain_helmet_unique_seed_dry
+bip_39_word_underscore_8: topple_grace_domain_helmet_unique_seed_dry_pepper
+bip_39_word_underscore_9: topple_grace_domain_helmet_unique_seed_dry_pepper_because
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +327,14 @@ id_no_class: bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 id_no_color: 75_mm_id_130_mm_od_41_2_mm_depth
 id_no_size: 5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 id_no_type: 5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2014n6c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2014n6c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2014n6c
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +360,9 @@ name_no_color: 75 mm ID 130 mm OD 41 2 mm Depth
 name_no_size: 5215 Size 75 mm ID 130 mm OD 41 2 mm Depth
 name_no_size_short: 5215 Size 75 Mm Id 130 Mm Od 41 2 Mm Depth
 name_no_type: 5200 Series 5215 Size 75 mm ID 130 mm OD 41 2 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br5215
+oomlout_short_code_upper: BR5215
 oomp_key: oomp_hardware_bearing_5200_series_5215_size_75_mm_id_130_mm_od_41_2_mm_depth
 oomp_word: dancer truck whale
 oomp_word_emoji: ':dancer: :truck: :whale:'

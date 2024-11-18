@@ -1,3 +1,222 @@
+bip_39_word_dash_1: special
+bip_39_word_dash_10: special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel
+bip_39_word_dash_11: special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel-behave
+bip_39_word_dash_12: special-deposit-lake-gloom-ivory-crack-leaf-kite-bless-feel-behave-antenna
+bip_39_word_dash_2: special-deposit
+bip_39_word_dash_3: special-deposit-lake
+bip_39_word_dash_4: special-deposit-lake-gloom
+bip_39_word_dash_5: special-deposit-lake-gloom-ivory
+bip_39_word_dash_6: special-deposit-lake-gloom-ivory-crack
+bip_39_word_dash_7: special-deposit-lake-gloom-ivory-crack-leaf
+bip_39_word_dash_8: special-deposit-lake-gloom-ivory-crack-leaf-kite
+bip_39_word_dash_9: special-deposit-lake-gloom-ivory-crack-leaf-kite-bless
+bip_39_word_new_br_1: special
+bip_39_word_new_br_10: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless<br>feel
+bip_39_word_new_br_11: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless<br>feel<br>behave
+bip_39_word_new_br_12: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless<br>feel<br>behave<br>antenna
+bip_39_word_new_br_2: special<br>deposit
+bip_39_word_new_br_3: special<br>deposit<br>lake
+bip_39_word_new_br_4: special<br>deposit<br>lake<br>gloom
+bip_39_word_new_br_5: special<br>deposit<br>lake<br>gloom<br>ivory
+bip_39_word_new_br_6: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack
+bip_39_word_new_br_7: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf
+bip_39_word_new_br_8: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite
+bip_39_word_new_br_9: special<br>deposit<br>lake<br>gloom<br>ivory<br>crack<br>leaf<br>kite<br>bless
+bip_39_word_new_line_1: special
+bip_39_word_new_line_10: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf
+
+  kite
+
+  bless
+
+  feel'
+bip_39_word_new_line_11: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf
+
+  kite
+
+  bless
+
+  feel
+
+  behave'
+bip_39_word_new_line_12: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf
+
+  kite
+
+  bless
+
+  feel
+
+  behave
+
+  antenna'
+bip_39_word_new_line_2: 'special
+
+  deposit'
+bip_39_word_new_line_3: 'special
+
+  deposit
+
+  lake'
+bip_39_word_new_line_4: 'special
+
+  deposit
+
+  lake
+
+  gloom'
+bip_39_word_new_line_5: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory'
+bip_39_word_new_line_6: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack'
+bip_39_word_new_line_7: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf'
+bip_39_word_new_line_8: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf
+
+  kite'
+bip_39_word_new_line_9: 'special
+
+  deposit
+
+  lake
+
+  gloom
+
+  ivory
+
+  crack
+
+  leaf
+
+  kite
+
+  bless'
+bip_39_word_no_space_1: special
+bip_39_word_no_space_10: specialdepositlakegloomivorycrackleafkiteblessfeel
+bip_39_word_no_space_11: specialdepositlakegloomivorycrackleafkiteblessfeelbehave
+bip_39_word_no_space_12: specialdepositlakegloomivorycrackleafkiteblessfeelbehaveantenna
+bip_39_word_no_space_2: specialdeposit
+bip_39_word_no_space_3: specialdepositlake
+bip_39_word_no_space_4: specialdepositlakegloom
+bip_39_word_no_space_5: specialdepositlakegloomivory
+bip_39_word_no_space_6: specialdepositlakegloomivorycrack
+bip_39_word_no_space_7: specialdepositlakegloomivorycrackleaf
+bip_39_word_no_space_8: specialdepositlakegloomivorycrackleafkite
+bip_39_word_no_space_9: specialdepositlakegloomivorycrackleafkitebless
+bip_39_word_space_0:
+- special
+- deposit
+- lake
+- gloom
+- ivory
+- crack
+- leaf
+- kite
+- bless
+- feel
+- behave
+- antenna
+bip_39_word_space_1: special
+bip_39_word_space_10: special deposit lake gloom ivory crack leaf kite bless feel
+bip_39_word_space_11: special deposit lake gloom ivory crack leaf kite bless feel
+  behave
+bip_39_word_space_12: special deposit lake gloom ivory crack leaf kite bless feel
+  behave antenna
+bip_39_word_space_2: special deposit
+bip_39_word_space_3: special deposit lake
+bip_39_word_space_4: special deposit lake gloom
+bip_39_word_space_5: special deposit lake gloom ivory
+bip_39_word_space_6: special deposit lake gloom ivory crack
+bip_39_word_space_7: special deposit lake gloom ivory crack leaf
+bip_39_word_space_8: special deposit lake gloom ivory crack leaf kite
+bip_39_word_space_9: special deposit lake gloom ivory crack leaf kite bless
+bip_39_word_underscore_1: special
+bip_39_word_underscore_10: special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel
+bip_39_word_underscore_11: special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel_behave
+bip_39_word_underscore_12: special_deposit_lake_gloom_ivory_crack_leaf_kite_bless_feel_behave_antenna
+bip_39_word_underscore_2: special_deposit
+bip_39_word_underscore_3: special_deposit_lake
+bip_39_word_underscore_4: special_deposit_lake_gloom
+bip_39_word_underscore_5: special_deposit_lake_gloom_ivory
+bip_39_word_underscore_6: special_deposit_lake_gloom_ivory_crack
+bip_39_word_underscore_7: special_deposit_lake_gloom_ivory_crack_leaf
+bip_39_word_underscore_8: special_deposit_lake_gloom_ivory_crack_leaf_kite
+bip_39_word_underscore_9: special_deposit_lake_gloom_ivory_crack_leaf_kite_bless
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_06_01_27
 id_no_color: '060127'
 id_no_size: '06_01_27'
 id_no_type: tray_thin_06_01_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_01_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_06_01_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_06_01_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2063cnp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2063cnp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2063cnp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '060127'
 name_no_size: 06 01 27
 name_no_size_short: 06 01 27
 name_no_type: Tray Thin 06 01 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_06_01_27
 oomp_word: spades tongue house
 oomp_word_emoji: ':spades: :tongue: :house:'

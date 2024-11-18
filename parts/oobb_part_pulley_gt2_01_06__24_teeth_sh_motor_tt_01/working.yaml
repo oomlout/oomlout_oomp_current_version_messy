@@ -1,3 +1,222 @@
+bip_39_word_dash_1: just
+bip_39_word_dash_10: just-bag-brief-pull-expire-layer-void-toward-solution-portion
+bip_39_word_dash_11: just-bag-brief-pull-expire-layer-void-toward-solution-portion-people
+bip_39_word_dash_12: just-bag-brief-pull-expire-layer-void-toward-solution-portion-people-agree
+bip_39_word_dash_2: just-bag
+bip_39_word_dash_3: just-bag-brief
+bip_39_word_dash_4: just-bag-brief-pull
+bip_39_word_dash_5: just-bag-brief-pull-expire
+bip_39_word_dash_6: just-bag-brief-pull-expire-layer
+bip_39_word_dash_7: just-bag-brief-pull-expire-layer-void
+bip_39_word_dash_8: just-bag-brief-pull-expire-layer-void-toward
+bip_39_word_dash_9: just-bag-brief-pull-expire-layer-void-toward-solution
+bip_39_word_new_br_1: just
+bip_39_word_new_br_10: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution<br>portion
+bip_39_word_new_br_11: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution<br>portion<br>people
+bip_39_word_new_br_12: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution<br>portion<br>people<br>agree
+bip_39_word_new_br_2: just<br>bag
+bip_39_word_new_br_3: just<br>bag<br>brief
+bip_39_word_new_br_4: just<br>bag<br>brief<br>pull
+bip_39_word_new_br_5: just<br>bag<br>brief<br>pull<br>expire
+bip_39_word_new_br_6: just<br>bag<br>brief<br>pull<br>expire<br>layer
+bip_39_word_new_br_7: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void
+bip_39_word_new_br_8: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward
+bip_39_word_new_br_9: just<br>bag<br>brief<br>pull<br>expire<br>layer<br>void<br>toward<br>solution
+bip_39_word_new_line_1: just
+bip_39_word_new_line_10: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void
+
+  toward
+
+  solution
+
+  portion'
+bip_39_word_new_line_11: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void
+
+  toward
+
+  solution
+
+  portion
+
+  people'
+bip_39_word_new_line_12: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void
+
+  toward
+
+  solution
+
+  portion
+
+  people
+
+  agree'
+bip_39_word_new_line_2: 'just
+
+  bag'
+bip_39_word_new_line_3: 'just
+
+  bag
+
+  brief'
+bip_39_word_new_line_4: 'just
+
+  bag
+
+  brief
+
+  pull'
+bip_39_word_new_line_5: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire'
+bip_39_word_new_line_6: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer'
+bip_39_word_new_line_7: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void'
+bip_39_word_new_line_8: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void
+
+  toward'
+bip_39_word_new_line_9: 'just
+
+  bag
+
+  brief
+
+  pull
+
+  expire
+
+  layer
+
+  void
+
+  toward
+
+  solution'
+bip_39_word_no_space_1: just
+bip_39_word_no_space_10: justbagbriefpullexpirelayervoidtowardsolutionportion
+bip_39_word_no_space_11: justbagbriefpullexpirelayervoidtowardsolutionportionpeople
+bip_39_word_no_space_12: justbagbriefpullexpirelayervoidtowardsolutionportionpeopleagree
+bip_39_word_no_space_2: justbag
+bip_39_word_no_space_3: justbagbrief
+bip_39_word_no_space_4: justbagbriefpull
+bip_39_word_no_space_5: justbagbriefpullexpire
+bip_39_word_no_space_6: justbagbriefpullexpirelayer
+bip_39_word_no_space_7: justbagbriefpullexpirelayervoid
+bip_39_word_no_space_8: justbagbriefpullexpirelayervoidtoward
+bip_39_word_no_space_9: justbagbriefpullexpirelayervoidtowardsolution
+bip_39_word_space_0:
+- just
+- bag
+- brief
+- pull
+- expire
+- layer
+- void
+- toward
+- solution
+- portion
+- people
+- agree
+bip_39_word_space_1: just
+bip_39_word_space_10: just bag brief pull expire layer void toward solution portion
+bip_39_word_space_11: just bag brief pull expire layer void toward solution portion
+  people
+bip_39_word_space_12: just bag brief pull expire layer void toward solution portion
+  people agree
+bip_39_word_space_2: just bag
+bip_39_word_space_3: just bag brief
+bip_39_word_space_4: just bag brief pull
+bip_39_word_space_5: just bag brief pull expire
+bip_39_word_space_6: just bag brief pull expire layer
+bip_39_word_space_7: just bag brief pull expire layer void
+bip_39_word_space_8: just bag brief pull expire layer void toward
+bip_39_word_space_9: just bag brief pull expire layer void toward solution
+bip_39_word_underscore_1: just
+bip_39_word_underscore_10: just_bag_brief_pull_expire_layer_void_toward_solution_portion
+bip_39_word_underscore_11: just_bag_brief_pull_expire_layer_void_toward_solution_portion_people
+bip_39_word_underscore_12: just_bag_brief_pull_expire_layer_void_toward_solution_portion_people_agree
+bip_39_word_underscore_2: just_bag
+bip_39_word_underscore_3: just_bag_brief
+bip_39_word_underscore_4: just_bag_brief_pull
+bip_39_word_underscore_5: just_bag_brief_pull_expire
+bip_39_word_underscore_6: just_bag_brief_pull_expire_layer
+bip_39_word_underscore_7: just_bag_brief_pull_expire_layer_void
+bip_39_word_underscore_8: just_bag_brief_pull_expire_layer_void_toward
+bip_39_word_underscore_9: just_bag_brief_pull_expire_layer_void_toward_solution
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_06__24_teeth_sh_motor_tt_01
 id_no_color: 010624teethshmotortt01
 id_no_size: 01_06__24_teeth_sh_motor_tt_01
 id_no_type: pulley_gt2_01_06__24_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_06__24_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20365re
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20365re
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20365re
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010624Teethshmotortt01
 name_no_size: 01 06  24 Teeth Sh Motor Tt 01
 name_no_size_short: 01 06  24 Teeth Sh Motor Tt 01
 name_no_type: Pulley Gt2 01 06  24 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_06__24_teeth_sh_motor_tt_01
 oomp_word: snail snake lipstick
 oomp_word_emoji: ':snail: :snake: :lipstick:'

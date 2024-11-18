@@ -1,3 +1,222 @@
+bip_39_word_dash_1: coffee
+bip_39_word_dash_10: coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect
+bip_39_word_dash_11: coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect-river
+bip_39_word_dash_12: coffee-always-build-chuckle-smooth-menu-rack-demise-memory-neglect-river-attract
+bip_39_word_dash_2: coffee-always
+bip_39_word_dash_3: coffee-always-build
+bip_39_word_dash_4: coffee-always-build-chuckle
+bip_39_word_dash_5: coffee-always-build-chuckle-smooth
+bip_39_word_dash_6: coffee-always-build-chuckle-smooth-menu
+bip_39_word_dash_7: coffee-always-build-chuckle-smooth-menu-rack
+bip_39_word_dash_8: coffee-always-build-chuckle-smooth-menu-rack-demise
+bip_39_word_dash_9: coffee-always-build-chuckle-smooth-menu-rack-demise-memory
+bip_39_word_new_br_1: coffee
+bip_39_word_new_br_10: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect
+bip_39_word_new_br_11: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect<br>river
+bip_39_word_new_br_12: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory<br>neglect<br>river<br>attract
+bip_39_word_new_br_2: coffee<br>always
+bip_39_word_new_br_3: coffee<br>always<br>build
+bip_39_word_new_br_4: coffee<br>always<br>build<br>chuckle
+bip_39_word_new_br_5: coffee<br>always<br>build<br>chuckle<br>smooth
+bip_39_word_new_br_6: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu
+bip_39_word_new_br_7: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack
+bip_39_word_new_br_8: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise
+bip_39_word_new_br_9: coffee<br>always<br>build<br>chuckle<br>smooth<br>menu<br>rack<br>demise<br>memory
+bip_39_word_new_line_1: coffee
+bip_39_word_new_line_10: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect'
+bip_39_word_new_line_11: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect
+
+  river'
+bip_39_word_new_line_12: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory
+
+  neglect
+
+  river
+
+  attract'
+bip_39_word_new_line_2: 'coffee
+
+  always'
+bip_39_word_new_line_3: 'coffee
+
+  always
+
+  build'
+bip_39_word_new_line_4: 'coffee
+
+  always
+
+  build
+
+  chuckle'
+bip_39_word_new_line_5: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth'
+bip_39_word_new_line_6: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu'
+bip_39_word_new_line_7: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack'
+bip_39_word_new_line_8: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise'
+bip_39_word_new_line_9: 'coffee
+
+  always
+
+  build
+
+  chuckle
+
+  smooth
+
+  menu
+
+  rack
+
+  demise
+
+  memory'
+bip_39_word_no_space_1: coffee
+bip_39_word_no_space_10: coffeealwaysbuildchucklesmoothmenurackdemisememoryneglect
+bip_39_word_no_space_11: coffeealwaysbuildchucklesmoothmenurackdemisememoryneglectriver
+bip_39_word_no_space_12: coffeealwaysbuildchucklesmoothmenurackdemisememoryneglectriverattract
+bip_39_word_no_space_2: coffeealways
+bip_39_word_no_space_3: coffeealwaysbuild
+bip_39_word_no_space_4: coffeealwaysbuildchuckle
+bip_39_word_no_space_5: coffeealwaysbuildchucklesmooth
+bip_39_word_no_space_6: coffeealwaysbuildchucklesmoothmenu
+bip_39_word_no_space_7: coffeealwaysbuildchucklesmoothmenurack
+bip_39_word_no_space_8: coffeealwaysbuildchucklesmoothmenurackdemise
+bip_39_word_no_space_9: coffeealwaysbuildchucklesmoothmenurackdemisememory
+bip_39_word_space_0:
+- coffee
+- always
+- build
+- chuckle
+- smooth
+- menu
+- rack
+- demise
+- memory
+- neglect
+- river
+- attract
+bip_39_word_space_1: coffee
+bip_39_word_space_10: coffee always build chuckle smooth menu rack demise memory neglect
+bip_39_word_space_11: coffee always build chuckle smooth menu rack demise memory neglect
+  river
+bip_39_word_space_12: coffee always build chuckle smooth menu rack demise memory neglect
+  river attract
+bip_39_word_space_2: coffee always
+bip_39_word_space_3: coffee always build
+bip_39_word_space_4: coffee always build chuckle
+bip_39_word_space_5: coffee always build chuckle smooth
+bip_39_word_space_6: coffee always build chuckle smooth menu
+bip_39_word_space_7: coffee always build chuckle smooth menu rack
+bip_39_word_space_8: coffee always build chuckle smooth menu rack demise
+bip_39_word_space_9: coffee always build chuckle smooth menu rack demise memory
+bip_39_word_underscore_1: coffee
+bip_39_word_underscore_10: coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect
+bip_39_word_underscore_11: coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect_river
+bip_39_word_underscore_12: coffee_always_build_chuckle_smooth_menu_rack_demise_memory_neglect_river_attract
+bip_39_word_underscore_2: coffee_always
+bip_39_word_underscore_3: coffee_always_build
+bip_39_word_underscore_4: coffee_always_build_chuckle
+bip_39_word_underscore_5: coffee_always_build_chuckle_smooth
+bip_39_word_underscore_6: coffee_always_build_chuckle_smooth_menu
+bip_39_word_underscore_7: coffee_always_build_chuckle_smooth_menu_rack
+bip_39_word_underscore_8: coffee_always_build_chuckle_smooth_menu_rack_demise
+bip_39_word_underscore_9: coffee_always_build_chuckle_smooth_menu_rack_demise_memory
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__16_teeth_sh_motor_n20
 id_no_color: 010916teethshmotorn20
 id_no_size: 01_09__16_teeth_sh_motor_n20
 id_no_type: pulley_gt2_01_09__16_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2099jtx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2099jtx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2099jtx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 010916Teethshmotorn20
 name_no_size: 01 09  16 Teeth Sh Motor N20
 name_no_size_short: 01 09  16 Teeth Sh Motor N20
 name_no_type: Pulley Gt2 01 09  16 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__16_teeth_sh_motor_n20
 oomp_word: bus ghost headphones
 oomp_word_emoji: ':bus: :ghost: :headphones:'

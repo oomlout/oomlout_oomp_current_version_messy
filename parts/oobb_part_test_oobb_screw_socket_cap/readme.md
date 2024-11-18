@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Test Oobb Screw Socket Cap
+* name_short: 
 ### id
 * oomp_id: oobb_part_test_oobb_screw_socket_cap
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :lollipop: :car: :tongue:
 * md5_6_alpha: 7rew8
 * md5_6: c6eb28
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207rew8)
+[2x1](http://192.168.1.242:1112/?label=oomp%207rew8)
+[6x4](http://192.168.1.55:1112/?label=oomp%207rew8)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_socket_cap)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ dragon |
 | id_no_color | screwsocketcap |  
 | id_no_size | screw_socket_cap |  
 | id_no_type | test_screw_socket_cap |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_oobb_screw_socket_cap |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_oobb_screw_socket_cap |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207rew8 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207rew8 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207rew8 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ dragon |
 | name_no_size | Screw Socket Cap |  
 | name_no_size_short | Screw Socket Cap |  
 | name_no_type | Test Screw Socket Cap |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_test_oobb_screw_socket_cap |  
 | oomp_word | lollipop car tongue |  
 | oomp_word_emoji | :lollipop: :car: :tongue: |  

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: follow
+bip_39_word_dash_10: follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february
+bip_39_word_dash_11: follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february-exhibit
+bip_39_word_dash_12: follow-shuffle-tackle-slot-possible-castle-profit-hire-size-february-exhibit-aerobic
+bip_39_word_dash_2: follow-shuffle
+bip_39_word_dash_3: follow-shuffle-tackle
+bip_39_word_dash_4: follow-shuffle-tackle-slot
+bip_39_word_dash_5: follow-shuffle-tackle-slot-possible
+bip_39_word_dash_6: follow-shuffle-tackle-slot-possible-castle
+bip_39_word_dash_7: follow-shuffle-tackle-slot-possible-castle-profit
+bip_39_word_dash_8: follow-shuffle-tackle-slot-possible-castle-profit-hire
+bip_39_word_dash_9: follow-shuffle-tackle-slot-possible-castle-profit-hire-size
+bip_39_word_new_br_1: follow
+bip_39_word_new_br_10: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february
+bip_39_word_new_br_11: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february<br>exhibit
+bip_39_word_new_br_12: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size<br>february<br>exhibit<br>aerobic
+bip_39_word_new_br_2: follow<br>shuffle
+bip_39_word_new_br_3: follow<br>shuffle<br>tackle
+bip_39_word_new_br_4: follow<br>shuffle<br>tackle<br>slot
+bip_39_word_new_br_5: follow<br>shuffle<br>tackle<br>slot<br>possible
+bip_39_word_new_br_6: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle
+bip_39_word_new_br_7: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit
+bip_39_word_new_br_8: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire
+bip_39_word_new_br_9: follow<br>shuffle<br>tackle<br>slot<br>possible<br>castle<br>profit<br>hire<br>size
+bip_39_word_new_line_1: follow
+bip_39_word_new_line_10: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit
+
+  hire
+
+  size
+
+  february'
+bip_39_word_new_line_11: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit
+
+  hire
+
+  size
+
+  february
+
+  exhibit'
+bip_39_word_new_line_12: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit
+
+  hire
+
+  size
+
+  february
+
+  exhibit
+
+  aerobic'
+bip_39_word_new_line_2: 'follow
+
+  shuffle'
+bip_39_word_new_line_3: 'follow
+
+  shuffle
+
+  tackle'
+bip_39_word_new_line_4: 'follow
+
+  shuffle
+
+  tackle
+
+  slot'
+bip_39_word_new_line_5: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible'
+bip_39_word_new_line_6: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle'
+bip_39_word_new_line_7: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit'
+bip_39_word_new_line_8: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit
+
+  hire'
+bip_39_word_new_line_9: 'follow
+
+  shuffle
+
+  tackle
+
+  slot
+
+  possible
+
+  castle
+
+  profit
+
+  hire
+
+  size'
+bip_39_word_no_space_1: follow
+bip_39_word_no_space_10: followshuffletackleslotpossiblecastleprofithiresizefebruary
+bip_39_word_no_space_11: followshuffletackleslotpossiblecastleprofithiresizefebruaryexhibit
+bip_39_word_no_space_12: followshuffletackleslotpossiblecastleprofithiresizefebruaryexhibitaerobic
+bip_39_word_no_space_2: followshuffle
+bip_39_word_no_space_3: followshuffletackle
+bip_39_word_no_space_4: followshuffletackleslot
+bip_39_word_no_space_5: followshuffletackleslotpossible
+bip_39_word_no_space_6: followshuffletackleslotpossiblecastle
+bip_39_word_no_space_7: followshuffletackleslotpossiblecastleprofit
+bip_39_word_no_space_8: followshuffletackleslotpossiblecastleprofithire
+bip_39_word_no_space_9: followshuffletackleslotpossiblecastleprofithiresize
+bip_39_word_space_0:
+- follow
+- shuffle
+- tackle
+- slot
+- possible
+- castle
+- profit
+- hire
+- size
+- february
+- exhibit
+- aerobic
+bip_39_word_space_1: follow
+bip_39_word_space_10: follow shuffle tackle slot possible castle profit hire size
+  february
+bip_39_word_space_11: follow shuffle tackle slot possible castle profit hire size
+  february exhibit
+bip_39_word_space_12: follow shuffle tackle slot possible castle profit hire size
+  february exhibit aerobic
+bip_39_word_space_2: follow shuffle
+bip_39_word_space_3: follow shuffle tackle
+bip_39_word_space_4: follow shuffle tackle slot
+bip_39_word_space_5: follow shuffle tackle slot possible
+bip_39_word_space_6: follow shuffle tackle slot possible castle
+bip_39_word_space_7: follow shuffle tackle slot possible castle profit
+bip_39_word_space_8: follow shuffle tackle slot possible castle profit hire
+bip_39_word_space_9: follow shuffle tackle slot possible castle profit hire size
+bip_39_word_underscore_1: follow
+bip_39_word_underscore_10: follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february
+bip_39_word_underscore_11: follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february_exhibit
+bip_39_word_underscore_12: follow_shuffle_tackle_slot_possible_castle_profit_hire_size_february_exhibit_aerobic
+bip_39_word_underscore_2: follow_shuffle
+bip_39_word_underscore_3: follow_shuffle_tackle
+bip_39_word_underscore_4: follow_shuffle_tackle_slot
+bip_39_word_underscore_5: follow_shuffle_tackle_slot_possible
+bip_39_word_underscore_6: follow_shuffle_tackle_slot_possible_castle
+bip_39_word_underscore_7: follow_shuffle_tackle_slot_possible_castle_profit
+bip_39_word_underscore_8: follow_shuffle_tackle_slot_possible_castle_profit_hire
+bip_39_word_underscore_9: follow_shuffle_tackle_slot_possible_castle_profit_hire_size
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_11_1d5_09
 id_no_color: 111d509
 id_no_size: 11_1d5_09
 id_no_type: tray_thin_11_1d5_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_1d5_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_1d5_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202lkwl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202lkwl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202lkwl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 111D509
 name_no_size: 11 1D5 09
 name_no_size_short: 11 1D5 09
 name_no_type: Tray Thin 11 1D5 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_1d5_09
 oomp_word: sheep diamonds poop
 oomp_word_emoji: ':sheep: :diamonds: :poop:'

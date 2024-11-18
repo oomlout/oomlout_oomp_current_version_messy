@@ -1,3 +1,221 @@
+bip_39_word_dash_1: net
+bip_39_word_dash_10: net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon
+bip_39_word_dash_11: net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon-shoulder
+bip_39_word_dash_12: net-dust-source-twist-supreme-wave-fault-quiz-fall-canyon-shoulder-atom
+bip_39_word_dash_2: net-dust
+bip_39_word_dash_3: net-dust-source
+bip_39_word_dash_4: net-dust-source-twist
+bip_39_word_dash_5: net-dust-source-twist-supreme
+bip_39_word_dash_6: net-dust-source-twist-supreme-wave
+bip_39_word_dash_7: net-dust-source-twist-supreme-wave-fault
+bip_39_word_dash_8: net-dust-source-twist-supreme-wave-fault-quiz
+bip_39_word_dash_9: net-dust-source-twist-supreme-wave-fault-quiz-fall
+bip_39_word_new_br_1: net
+bip_39_word_new_br_10: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon
+bip_39_word_new_br_11: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon<br>shoulder
+bip_39_word_new_br_12: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall<br>canyon<br>shoulder<br>atom
+bip_39_word_new_br_2: net<br>dust
+bip_39_word_new_br_3: net<br>dust<br>source
+bip_39_word_new_br_4: net<br>dust<br>source<br>twist
+bip_39_word_new_br_5: net<br>dust<br>source<br>twist<br>supreme
+bip_39_word_new_br_6: net<br>dust<br>source<br>twist<br>supreme<br>wave
+bip_39_word_new_br_7: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault
+bip_39_word_new_br_8: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz
+bip_39_word_new_br_9: net<br>dust<br>source<br>twist<br>supreme<br>wave<br>fault<br>quiz<br>fall
+bip_39_word_new_line_1: net
+bip_39_word_new_line_10: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault
+
+  quiz
+
+  fall
+
+  canyon'
+bip_39_word_new_line_11: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault
+
+  quiz
+
+  fall
+
+  canyon
+
+  shoulder'
+bip_39_word_new_line_12: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault
+
+  quiz
+
+  fall
+
+  canyon
+
+  shoulder
+
+  atom'
+bip_39_word_new_line_2: 'net
+
+  dust'
+bip_39_word_new_line_3: 'net
+
+  dust
+
+  source'
+bip_39_word_new_line_4: 'net
+
+  dust
+
+  source
+
+  twist'
+bip_39_word_new_line_5: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme'
+bip_39_word_new_line_6: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave'
+bip_39_word_new_line_7: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault'
+bip_39_word_new_line_8: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault
+
+  quiz'
+bip_39_word_new_line_9: 'net
+
+  dust
+
+  source
+
+  twist
+
+  supreme
+
+  wave
+
+  fault
+
+  quiz
+
+  fall'
+bip_39_word_no_space_1: net
+bip_39_word_no_space_10: netdustsourcetwistsupremewavefaultquizfallcanyon
+bip_39_word_no_space_11: netdustsourcetwistsupremewavefaultquizfallcanyonshoulder
+bip_39_word_no_space_12: netdustsourcetwistsupremewavefaultquizfallcanyonshoulderatom
+bip_39_word_no_space_2: netdust
+bip_39_word_no_space_3: netdustsource
+bip_39_word_no_space_4: netdustsourcetwist
+bip_39_word_no_space_5: netdustsourcetwistsupreme
+bip_39_word_no_space_6: netdustsourcetwistsupremewave
+bip_39_word_no_space_7: netdustsourcetwistsupremewavefault
+bip_39_word_no_space_8: netdustsourcetwistsupremewavefaultquiz
+bip_39_word_no_space_9: netdustsourcetwistsupremewavefaultquizfall
+bip_39_word_space_0:
+- net
+- dust
+- source
+- twist
+- supreme
+- wave
+- fault
+- quiz
+- fall
+- canyon
+- shoulder
+- atom
+bip_39_word_space_1: net
+bip_39_word_space_10: net dust source twist supreme wave fault quiz fall canyon
+bip_39_word_space_11: net dust source twist supreme wave fault quiz fall canyon shoulder
+bip_39_word_space_12: net dust source twist supreme wave fault quiz fall canyon shoulder
+  atom
+bip_39_word_space_2: net dust
+bip_39_word_space_3: net dust source
+bip_39_word_space_4: net dust source twist
+bip_39_word_space_5: net dust source twist supreme
+bip_39_word_space_6: net dust source twist supreme wave
+bip_39_word_space_7: net dust source twist supreme wave fault
+bip_39_word_space_8: net dust source twist supreme wave fault quiz
+bip_39_word_space_9: net dust source twist supreme wave fault quiz fall
+bip_39_word_underscore_1: net
+bip_39_word_underscore_10: net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon
+bip_39_word_underscore_11: net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon_shoulder
+bip_39_word_underscore_12: net_dust_source_twist_supreme_wave_fault_quiz_fall_canyon_shoulder_atom
+bip_39_word_underscore_2: net_dust
+bip_39_word_underscore_3: net_dust_source
+bip_39_word_underscore_4: net_dust_source_twist
+bip_39_word_underscore_5: net_dust_source_twist_supreme
+bip_39_word_underscore_6: net_dust_source_twist_supreme_wave
+bip_39_word_underscore_7: net_dust_source_twist_supreme_wave_fault
+bip_39_word_underscore_8: net_dust_source_twist_supreme_wave_fault_quiz
+bip_39_word_underscore_9: net_dust_source_twist_supreme_wave_fault_quiz_fall
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_vertical_02_1d5_30
 id_no_color: 021d530
 id_no_size: 02_1d5_30
 id_no_type: tray_vertical_02_1d5_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_02_1d5_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_02_1d5_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208yg20
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208yg20
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208yg20
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 021D530
 name_no_size: 02 1D5 30
 name_no_size_short: 02 1D5 30
 name_no_type: Tray Vertical 02 1D5 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_02_1d5_30
 oomp_word: rocket scroll apple
 oomp_word_emoji: ':rocket: :scroll: :apple:'

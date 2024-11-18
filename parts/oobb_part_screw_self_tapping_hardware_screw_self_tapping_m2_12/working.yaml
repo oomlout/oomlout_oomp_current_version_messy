@@ -1,3 +1,223 @@
+bip_39_word_dash_1: library
+bip_39_word_dash_10: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather
+bip_39_word_dash_11: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather-maze
+bip_39_word_dash_12: library-desk-ribbon-lecture-version-skill-extend-future-shadow-rather-maze-august
+bip_39_word_dash_2: library-desk
+bip_39_word_dash_3: library-desk-ribbon
+bip_39_word_dash_4: library-desk-ribbon-lecture
+bip_39_word_dash_5: library-desk-ribbon-lecture-version
+bip_39_word_dash_6: library-desk-ribbon-lecture-version-skill
+bip_39_word_dash_7: library-desk-ribbon-lecture-version-skill-extend
+bip_39_word_dash_8: library-desk-ribbon-lecture-version-skill-extend-future
+bip_39_word_dash_9: library-desk-ribbon-lecture-version-skill-extend-future-shadow
+bip_39_word_new_br_1: library
+bip_39_word_new_br_10: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather
+bip_39_word_new_br_11: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather<br>maze
+bip_39_word_new_br_12: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow<br>rather<br>maze<br>august
+bip_39_word_new_br_2: library<br>desk
+bip_39_word_new_br_3: library<br>desk<br>ribbon
+bip_39_word_new_br_4: library<br>desk<br>ribbon<br>lecture
+bip_39_word_new_br_5: library<br>desk<br>ribbon<br>lecture<br>version
+bip_39_word_new_br_6: library<br>desk<br>ribbon<br>lecture<br>version<br>skill
+bip_39_word_new_br_7: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend
+bip_39_word_new_br_8: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future
+bip_39_word_new_br_9: library<br>desk<br>ribbon<br>lecture<br>version<br>skill<br>extend<br>future<br>shadow
+bip_39_word_new_line_1: library
+bip_39_word_new_line_10: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend
+
+  future
+
+  shadow
+
+  rather'
+bip_39_word_new_line_11: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend
+
+  future
+
+  shadow
+
+  rather
+
+  maze'
+bip_39_word_new_line_12: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend
+
+  future
+
+  shadow
+
+  rather
+
+  maze
+
+  august'
+bip_39_word_new_line_2: 'library
+
+  desk'
+bip_39_word_new_line_3: 'library
+
+  desk
+
+  ribbon'
+bip_39_word_new_line_4: 'library
+
+  desk
+
+  ribbon
+
+  lecture'
+bip_39_word_new_line_5: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version'
+bip_39_word_new_line_6: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill'
+bip_39_word_new_line_7: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend'
+bip_39_word_new_line_8: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend
+
+  future'
+bip_39_word_new_line_9: 'library
+
+  desk
+
+  ribbon
+
+  lecture
+
+  version
+
+  skill
+
+  extend
+
+  future
+
+  shadow'
+bip_39_word_no_space_1: library
+bip_39_word_no_space_10: librarydeskribbonlectureversionskillextendfutureshadowrather
+bip_39_word_no_space_11: librarydeskribbonlectureversionskillextendfutureshadowrathermaze
+bip_39_word_no_space_12: librarydeskribbonlectureversionskillextendfutureshadowrathermazeaugust
+bip_39_word_no_space_2: librarydesk
+bip_39_word_no_space_3: librarydeskribbon
+bip_39_word_no_space_4: librarydeskribbonlecture
+bip_39_word_no_space_5: librarydeskribbonlectureversion
+bip_39_word_no_space_6: librarydeskribbonlectureversionskill
+bip_39_word_no_space_7: librarydeskribbonlectureversionskillextend
+bip_39_word_no_space_8: librarydeskribbonlectureversionskillextendfuture
+bip_39_word_no_space_9: librarydeskribbonlectureversionskillextendfutureshadow
+bip_39_word_space_0:
+- library
+- desk
+- ribbon
+- lecture
+- version
+- skill
+- extend
+- future
+- shadow
+- rather
+- maze
+- august
+bip_39_word_space_1: library
+bip_39_word_space_10: library desk ribbon lecture version skill extend future shadow
+  rather
+bip_39_word_space_11: library desk ribbon lecture version skill extend future shadow
+  rather maze
+bip_39_word_space_12: library desk ribbon lecture version skill extend future shadow
+  rather maze august
+bip_39_word_space_2: library desk
+bip_39_word_space_3: library desk ribbon
+bip_39_word_space_4: library desk ribbon lecture
+bip_39_word_space_5: library desk ribbon lecture version
+bip_39_word_space_6: library desk ribbon lecture version skill
+bip_39_word_space_7: library desk ribbon lecture version skill extend
+bip_39_word_space_8: library desk ribbon lecture version skill extend future
+bip_39_word_space_9: library desk ribbon lecture version skill extend future shadow
+bip_39_word_underscore_1: library
+bip_39_word_underscore_10: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather
+bip_39_word_underscore_11: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather_maze
+bip_39_word_underscore_12: library_desk_ribbon_lecture_version_skill_extend_future_shadow_rather_maze_august
+bip_39_word_underscore_2: library_desk
+bip_39_word_underscore_3: library_desk_ribbon
+bip_39_word_underscore_4: library_desk_ribbon_lecture
+bip_39_word_underscore_5: library_desk_ribbon_lecture_version
+bip_39_word_underscore_6: library_desk_ribbon_lecture_version_skill
+bip_39_word_underscore_7: library_desk_ribbon_lecture_version_skill_extend
+bip_39_word_underscore_8: library_desk_ribbon_lecture_version_skill_extend_future
+bip_39_word_underscore_9: library_desk_ribbon_lecture_version_skill_extend_future_shadow
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_screw_self_tapping_hardware_screw_self_tapping_m2_12
 id_no_color: hardwarem212
 id_no_size: hardware_m2_12
 id_no_type: screw_self_tapping_hardware_screw_self_tapping_m2_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209hfsc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209hfsc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209hfsc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem212
 name_no_size: Hardware M2 12
 name_no_size_short: Hardware M2 12
 name_no_type: Screw Self Tapping Hardware Screw Self Tapping M2 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_12
 oomp_word: two question snowflake
 oomp_word_emoji: ':two: :question: :snowflake:'

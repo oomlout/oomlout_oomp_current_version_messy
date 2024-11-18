@@ -1,3 +1,223 @@
+bip_39_word_dash_1: monkey
+bip_39_word_dash_10: monkey-flight-beef-volume-burst-witness-combine-maximum-blame-clip
+bip_39_word_dash_11: monkey-flight-beef-volume-burst-witness-combine-maximum-blame-clip-hole
+bip_39_word_dash_12: monkey-flight-beef-volume-burst-witness-combine-maximum-blame-clip-hole-artefact
+bip_39_word_dash_2: monkey-flight
+bip_39_word_dash_3: monkey-flight-beef
+bip_39_word_dash_4: monkey-flight-beef-volume
+bip_39_word_dash_5: monkey-flight-beef-volume-burst
+bip_39_word_dash_6: monkey-flight-beef-volume-burst-witness
+bip_39_word_dash_7: monkey-flight-beef-volume-burst-witness-combine
+bip_39_word_dash_8: monkey-flight-beef-volume-burst-witness-combine-maximum
+bip_39_word_dash_9: monkey-flight-beef-volume-burst-witness-combine-maximum-blame
+bip_39_word_new_br_1: monkey
+bip_39_word_new_br_10: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip
+bip_39_word_new_br_11: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip<br>hole
+bip_39_word_new_br_12: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame<br>clip<br>hole<br>artefact
+bip_39_word_new_br_2: monkey<br>flight
+bip_39_word_new_br_3: monkey<br>flight<br>beef
+bip_39_word_new_br_4: monkey<br>flight<br>beef<br>volume
+bip_39_word_new_br_5: monkey<br>flight<br>beef<br>volume<br>burst
+bip_39_word_new_br_6: monkey<br>flight<br>beef<br>volume<br>burst<br>witness
+bip_39_word_new_br_7: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine
+bip_39_word_new_br_8: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum
+bip_39_word_new_br_9: monkey<br>flight<br>beef<br>volume<br>burst<br>witness<br>combine<br>maximum<br>blame
+bip_39_word_new_line_1: monkey
+bip_39_word_new_line_10: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine
+
+  maximum
+
+  blame
+
+  clip'
+bip_39_word_new_line_11: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine
+
+  maximum
+
+  blame
+
+  clip
+
+  hole'
+bip_39_word_new_line_12: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine
+
+  maximum
+
+  blame
+
+  clip
+
+  hole
+
+  artefact'
+bip_39_word_new_line_2: 'monkey
+
+  flight'
+bip_39_word_new_line_3: 'monkey
+
+  flight
+
+  beef'
+bip_39_word_new_line_4: 'monkey
+
+  flight
+
+  beef
+
+  volume'
+bip_39_word_new_line_5: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst'
+bip_39_word_new_line_6: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness'
+bip_39_word_new_line_7: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine'
+bip_39_word_new_line_8: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine
+
+  maximum'
+bip_39_word_new_line_9: 'monkey
+
+  flight
+
+  beef
+
+  volume
+
+  burst
+
+  witness
+
+  combine
+
+  maximum
+
+  blame'
+bip_39_word_no_space_1: monkey
+bip_39_word_no_space_10: monkeyflightbeefvolumeburstwitnesscombinemaximumblameclip
+bip_39_word_no_space_11: monkeyflightbeefvolumeburstwitnesscombinemaximumblamecliphole
+bip_39_word_no_space_12: monkeyflightbeefvolumeburstwitnesscombinemaximumblameclipholeartefact
+bip_39_word_no_space_2: monkeyflight
+bip_39_word_no_space_3: monkeyflightbeef
+bip_39_word_no_space_4: monkeyflightbeefvolume
+bip_39_word_no_space_5: monkeyflightbeefvolumeburst
+bip_39_word_no_space_6: monkeyflightbeefvolumeburstwitness
+bip_39_word_no_space_7: monkeyflightbeefvolumeburstwitnesscombine
+bip_39_word_no_space_8: monkeyflightbeefvolumeburstwitnesscombinemaximum
+bip_39_word_no_space_9: monkeyflightbeefvolumeburstwitnesscombinemaximumblame
+bip_39_word_space_0:
+- monkey
+- flight
+- beef
+- volume
+- burst
+- witness
+- combine
+- maximum
+- blame
+- clip
+- hole
+- artefact
+bip_39_word_space_1: monkey
+bip_39_word_space_10: monkey flight beef volume burst witness combine maximum blame
+  clip
+bip_39_word_space_11: monkey flight beef volume burst witness combine maximum blame
+  clip hole
+bip_39_word_space_12: monkey flight beef volume burst witness combine maximum blame
+  clip hole artefact
+bip_39_word_space_2: monkey flight
+bip_39_word_space_3: monkey flight beef
+bip_39_word_space_4: monkey flight beef volume
+bip_39_word_space_5: monkey flight beef volume burst
+bip_39_word_space_6: monkey flight beef volume burst witness
+bip_39_word_space_7: monkey flight beef volume burst witness combine
+bip_39_word_space_8: monkey flight beef volume burst witness combine maximum
+bip_39_word_space_9: monkey flight beef volume burst witness combine maximum blame
+bip_39_word_underscore_1: monkey
+bip_39_word_underscore_10: monkey_flight_beef_volume_burst_witness_combine_maximum_blame_clip
+bip_39_word_underscore_11: monkey_flight_beef_volume_burst_witness_combine_maximum_blame_clip_hole
+bip_39_word_underscore_12: monkey_flight_beef_volume_burst_witness_combine_maximum_blame_clip_hole_artefact
+bip_39_word_underscore_2: monkey_flight
+bip_39_word_underscore_3: monkey_flight_beef
+bip_39_word_underscore_4: monkey_flight_beef_volume
+bip_39_word_underscore_5: monkey_flight_beef_volume_burst
+bip_39_word_underscore_6: monkey_flight_beef_volume_burst_witness
+bip_39_word_underscore_7: monkey_flight_beef_volume_burst_witness_combine
+bip_39_word_underscore_8: monkey_flight_beef_volume_burst_witness_combine_maximum
+bip_39_word_underscore_9: monkey_flight_beef_volume_burst_witness_combine_maximum_blame
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_34_01_03
 id_no_color: '340103'
 id_no_size: '34_01_03'
 id_no_type: plate_34_01_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_34_01_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_34_01_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_34_01_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082jwq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082jwq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082jwq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '340103'
 name_no_size: 34 01 03
 name_no_size_short: 34 01 03
 name_no_type: Plate 34 01 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_34_01_03
 oomp_word: peach bank chicken
 oomp_word_emoji: ':peach: :bank: :chicken:'

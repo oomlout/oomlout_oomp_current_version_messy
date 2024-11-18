@@ -1,3 +1,220 @@
+bip_39_word_dash_1: dune
+bip_39_word_dash_10: dune-random-jeans-art-pink-dash-tower-body-sure-mask
+bip_39_word_dash_11: dune-random-jeans-art-pink-dash-tower-body-sure-mask-hawk
+bip_39_word_dash_12: dune-random-jeans-art-pink-dash-tower-body-sure-mask-hawk-auction
+bip_39_word_dash_2: dune-random
+bip_39_word_dash_3: dune-random-jeans
+bip_39_word_dash_4: dune-random-jeans-art
+bip_39_word_dash_5: dune-random-jeans-art-pink
+bip_39_word_dash_6: dune-random-jeans-art-pink-dash
+bip_39_word_dash_7: dune-random-jeans-art-pink-dash-tower
+bip_39_word_dash_8: dune-random-jeans-art-pink-dash-tower-body
+bip_39_word_dash_9: dune-random-jeans-art-pink-dash-tower-body-sure
+bip_39_word_new_br_1: dune
+bip_39_word_new_br_10: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure<br>mask
+bip_39_word_new_br_11: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure<br>mask<br>hawk
+bip_39_word_new_br_12: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure<br>mask<br>hawk<br>auction
+bip_39_word_new_br_2: dune<br>random
+bip_39_word_new_br_3: dune<br>random<br>jeans
+bip_39_word_new_br_4: dune<br>random<br>jeans<br>art
+bip_39_word_new_br_5: dune<br>random<br>jeans<br>art<br>pink
+bip_39_word_new_br_6: dune<br>random<br>jeans<br>art<br>pink<br>dash
+bip_39_word_new_br_7: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower
+bip_39_word_new_br_8: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body
+bip_39_word_new_br_9: dune<br>random<br>jeans<br>art<br>pink<br>dash<br>tower<br>body<br>sure
+bip_39_word_new_line_1: dune
+bip_39_word_new_line_10: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower
+
+  body
+
+  sure
+
+  mask'
+bip_39_word_new_line_11: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower
+
+  body
+
+  sure
+
+  mask
+
+  hawk'
+bip_39_word_new_line_12: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower
+
+  body
+
+  sure
+
+  mask
+
+  hawk
+
+  auction'
+bip_39_word_new_line_2: 'dune
+
+  random'
+bip_39_word_new_line_3: 'dune
+
+  random
+
+  jeans'
+bip_39_word_new_line_4: 'dune
+
+  random
+
+  jeans
+
+  art'
+bip_39_word_new_line_5: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink'
+bip_39_word_new_line_6: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash'
+bip_39_word_new_line_7: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower'
+bip_39_word_new_line_8: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower
+
+  body'
+bip_39_word_new_line_9: 'dune
+
+  random
+
+  jeans
+
+  art
+
+  pink
+
+  dash
+
+  tower
+
+  body
+
+  sure'
+bip_39_word_no_space_1: dune
+bip_39_word_no_space_10: dunerandomjeansartpinkdashtowerbodysuremask
+bip_39_word_no_space_11: dunerandomjeansartpinkdashtowerbodysuremaskhawk
+bip_39_word_no_space_12: dunerandomjeansartpinkdashtowerbodysuremaskhawkauction
+bip_39_word_no_space_2: dunerandom
+bip_39_word_no_space_3: dunerandomjeans
+bip_39_word_no_space_4: dunerandomjeansart
+bip_39_word_no_space_5: dunerandomjeansartpink
+bip_39_word_no_space_6: dunerandomjeansartpinkdash
+bip_39_word_no_space_7: dunerandomjeansartpinkdashtower
+bip_39_word_no_space_8: dunerandomjeansartpinkdashtowerbody
+bip_39_word_no_space_9: dunerandomjeansartpinkdashtowerbodysure
+bip_39_word_space_0:
+- dune
+- random
+- jeans
+- art
+- pink
+- dash
+- tower
+- body
+- sure
+- mask
+- hawk
+- auction
+bip_39_word_space_1: dune
+bip_39_word_space_10: dune random jeans art pink dash tower body sure mask
+bip_39_word_space_11: dune random jeans art pink dash tower body sure mask hawk
+bip_39_word_space_12: dune random jeans art pink dash tower body sure mask hawk auction
+bip_39_word_space_2: dune random
+bip_39_word_space_3: dune random jeans
+bip_39_word_space_4: dune random jeans art
+bip_39_word_space_5: dune random jeans art pink
+bip_39_word_space_6: dune random jeans art pink dash
+bip_39_word_space_7: dune random jeans art pink dash tower
+bip_39_word_space_8: dune random jeans art pink dash tower body
+bip_39_word_space_9: dune random jeans art pink dash tower body sure
+bip_39_word_underscore_1: dune
+bip_39_word_underscore_10: dune_random_jeans_art_pink_dash_tower_body_sure_mask
+bip_39_word_underscore_11: dune_random_jeans_art_pink_dash_tower_body_sure_mask_hawk
+bip_39_word_underscore_12: dune_random_jeans_art_pink_dash_tower_body_sure_mask_hawk_auction
+bip_39_word_underscore_2: dune_random
+bip_39_word_underscore_3: dune_random_jeans
+bip_39_word_underscore_4: dune_random_jeans_art
+bip_39_word_underscore_5: dune_random_jeans_art_pink
+bip_39_word_underscore_6: dune_random_jeans_art_pink_dash
+bip_39_word_underscore_7: dune_random_jeans_art_pink_dash_tower
+bip_39_word_underscore_8: dune_random_jeans_art_pink_dash_tower_body
+bip_39_word_underscore_9: dune_random_jeans_art_pink_dash_tower_body_sure
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +299,14 @@ id_no_class: part_tray_02_10_30
 id_no_color: '021030'
 id_no_size: '02_10_30'
 id_no_type: tray_02_10_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_10_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_02_10_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_02_10_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209bgyq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209bgyq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209bgyq
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +332,7 @@ name_no_color: '021030'
 name_no_size: 02 10 30
 name_no_size_short: 02 10 30
 name_no_type: Tray 02 10 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_02_10_30
 oomp_word: ambulance tomato violin
 oomp_word_emoji: ':ambulance: :tomato: :violin:'

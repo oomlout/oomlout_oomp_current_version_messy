@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tennis
+bip_39_word_dash_10: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil
+bip_39_word_dash_11: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil-balcony
+bip_39_word_dash_12: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct-fossil-balcony-arch
+bip_39_word_dash_2: tennis-flush
+bip_39_word_dash_3: tennis-flush-lucky
+bip_39_word_dash_4: tennis-flush-lucky-empty
+bip_39_word_dash_5: tennis-flush-lucky-empty-upon
+bip_39_word_dash_6: tennis-flush-lucky-empty-upon-mean
+bip_39_word_dash_7: tennis-flush-lucky-empty-upon-mean-wisdom
+bip_39_word_dash_8: tennis-flush-lucky-empty-upon-mean-wisdom-clock
+bip_39_word_dash_9: tennis-flush-lucky-empty-upon-mean-wisdom-clock-direct
+bip_39_word_new_br_1: tennis
+bip_39_word_new_br_10: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil
+bip_39_word_new_br_11: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil<br>balcony
+bip_39_word_new_br_12: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct<br>fossil<br>balcony<br>arch
+bip_39_word_new_br_2: tennis<br>flush
+bip_39_word_new_br_3: tennis<br>flush<br>lucky
+bip_39_word_new_br_4: tennis<br>flush<br>lucky<br>empty
+bip_39_word_new_br_5: tennis<br>flush<br>lucky<br>empty<br>upon
+bip_39_word_new_br_6: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean
+bip_39_word_new_br_7: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom
+bip_39_word_new_br_8: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock
+bip_39_word_new_br_9: tennis<br>flush<br>lucky<br>empty<br>upon<br>mean<br>wisdom<br>clock<br>direct
+bip_39_word_new_line_1: tennis
+bip_39_word_new_line_10: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom
+
+  clock
+
+  direct
+
+  fossil'
+bip_39_word_new_line_11: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom
+
+  clock
+
+  direct
+
+  fossil
+
+  balcony'
+bip_39_word_new_line_12: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom
+
+  clock
+
+  direct
+
+  fossil
+
+  balcony
+
+  arch'
+bip_39_word_new_line_2: 'tennis
+
+  flush'
+bip_39_word_new_line_3: 'tennis
+
+  flush
+
+  lucky'
+bip_39_word_new_line_4: 'tennis
+
+  flush
+
+  lucky
+
+  empty'
+bip_39_word_new_line_5: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon'
+bip_39_word_new_line_6: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean'
+bip_39_word_new_line_7: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom'
+bip_39_word_new_line_8: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom
+
+  clock'
+bip_39_word_new_line_9: 'tennis
+
+  flush
+
+  lucky
+
+  empty
+
+  upon
+
+  mean
+
+  wisdom
+
+  clock
+
+  direct'
+bip_39_word_no_space_1: tennis
+bip_39_word_no_space_10: tennisflushluckyemptyuponmeanwisdomclockdirectfossil
+bip_39_word_no_space_11: tennisflushluckyemptyuponmeanwisdomclockdirectfossilbalcony
+bip_39_word_no_space_12: tennisflushluckyemptyuponmeanwisdomclockdirectfossilbalconyarch
+bip_39_word_no_space_2: tennisflush
+bip_39_word_no_space_3: tennisflushlucky
+bip_39_word_no_space_4: tennisflushluckyempty
+bip_39_word_no_space_5: tennisflushluckyemptyupon
+bip_39_word_no_space_6: tennisflushluckyemptyuponmean
+bip_39_word_no_space_7: tennisflushluckyemptyuponmeanwisdom
+bip_39_word_no_space_8: tennisflushluckyemptyuponmeanwisdomclock
+bip_39_word_no_space_9: tennisflushluckyemptyuponmeanwisdomclockdirect
+bip_39_word_space_0:
+- tennis
+- flush
+- lucky
+- empty
+- upon
+- mean
+- wisdom
+- clock
+- direct
+- fossil
+- balcony
+- arch
+bip_39_word_space_1: tennis
+bip_39_word_space_10: tennis flush lucky empty upon mean wisdom clock direct fossil
+bip_39_word_space_11: tennis flush lucky empty upon mean wisdom clock direct fossil
+  balcony
+bip_39_word_space_12: tennis flush lucky empty upon mean wisdom clock direct fossil
+  balcony arch
+bip_39_word_space_2: tennis flush
+bip_39_word_space_3: tennis flush lucky
+bip_39_word_space_4: tennis flush lucky empty
+bip_39_word_space_5: tennis flush lucky empty upon
+bip_39_word_space_6: tennis flush lucky empty upon mean
+bip_39_word_space_7: tennis flush lucky empty upon mean wisdom
+bip_39_word_space_8: tennis flush lucky empty upon mean wisdom clock
+bip_39_word_space_9: tennis flush lucky empty upon mean wisdom clock direct
+bip_39_word_underscore_1: tennis
+bip_39_word_underscore_10: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil
+bip_39_word_underscore_11: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil_balcony
+bip_39_word_underscore_12: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct_fossil_balcony_arch
+bip_39_word_underscore_2: tennis_flush
+bip_39_word_underscore_3: tennis_flush_lucky
+bip_39_word_underscore_4: tennis_flush_lucky_empty
+bip_39_word_underscore_5: tennis_flush_lucky_empty_upon
+bip_39_word_underscore_6: tennis_flush_lucky_empty_upon_mean
+bip_39_word_underscore_7: tennis_flush_lucky_empty_upon_mean_wisdom
+bip_39_word_underscore_8: tennis_flush_lucky_empty_upon_mean_wisdom_clock
+bip_39_word_underscore_9: tennis_flush_lucky_empty_upon_mean_wisdom_clock_direct
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_03_03_03
 id_no_color: '030303'
 id_no_size: '03_03_03'
 id_no_type: plate_03_03_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_03_03_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_03_03_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206veza
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206veza
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206veza
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '030303'
 name_no_size: 03 03 03
 name_no_size_short: 03 03 03
 name_no_type: Plate 03 03 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_03_03_03
 oomp_word: crown kiss basketball
 oomp_word_emoji: ':crown: :kiss: :basketball:'

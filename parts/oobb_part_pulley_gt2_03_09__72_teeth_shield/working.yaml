@@ -1,3 +1,222 @@
+bip_39_word_dash_1: prepare
+bip_39_word_dash_10: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly
+bip_39_word_dash_11: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly-half
+bip_39_word_dash_12: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet-ugly-half-assume
+bip_39_word_dash_2: prepare-rice
+bip_39_word_dash_3: prepare-rice-human
+bip_39_word_dash_4: prepare-rice-human-lizard
+bip_39_word_dash_5: prepare-rice-human-lizard-eight
+bip_39_word_dash_6: prepare-rice-human-lizard-eight-spend
+bip_39_word_dash_7: prepare-rice-human-lizard-eight-spend-rhythm
+bip_39_word_dash_8: prepare-rice-human-lizard-eight-spend-rhythm-oven
+bip_39_word_dash_9: prepare-rice-human-lizard-eight-spend-rhythm-oven-poet
+bip_39_word_new_br_1: prepare
+bip_39_word_new_br_10: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly
+bip_39_word_new_br_11: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly<br>half
+bip_39_word_new_br_12: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet<br>ugly<br>half<br>assume
+bip_39_word_new_br_2: prepare<br>rice
+bip_39_word_new_br_3: prepare<br>rice<br>human
+bip_39_word_new_br_4: prepare<br>rice<br>human<br>lizard
+bip_39_word_new_br_5: prepare<br>rice<br>human<br>lizard<br>eight
+bip_39_word_new_br_6: prepare<br>rice<br>human<br>lizard<br>eight<br>spend
+bip_39_word_new_br_7: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm
+bip_39_word_new_br_8: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven
+bip_39_word_new_br_9: prepare<br>rice<br>human<br>lizard<br>eight<br>spend<br>rhythm<br>oven<br>poet
+bip_39_word_new_line_1: prepare
+bip_39_word_new_line_10: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm
+
+  oven
+
+  poet
+
+  ugly'
+bip_39_word_new_line_11: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm
+
+  oven
+
+  poet
+
+  ugly
+
+  half'
+bip_39_word_new_line_12: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm
+
+  oven
+
+  poet
+
+  ugly
+
+  half
+
+  assume'
+bip_39_word_new_line_2: 'prepare
+
+  rice'
+bip_39_word_new_line_3: 'prepare
+
+  rice
+
+  human'
+bip_39_word_new_line_4: 'prepare
+
+  rice
+
+  human
+
+  lizard'
+bip_39_word_new_line_5: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight'
+bip_39_word_new_line_6: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend'
+bip_39_word_new_line_7: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm'
+bip_39_word_new_line_8: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm
+
+  oven'
+bip_39_word_new_line_9: 'prepare
+
+  rice
+
+  human
+
+  lizard
+
+  eight
+
+  spend
+
+  rhythm
+
+  oven
+
+  poet'
+bip_39_word_no_space_1: prepare
+bip_39_word_no_space_10: preparericehumanlizardeightspendrhythmovenpoetugly
+bip_39_word_no_space_11: preparericehumanlizardeightspendrhythmovenpoetuglyhalf
+bip_39_word_no_space_12: preparericehumanlizardeightspendrhythmovenpoetuglyhalfassume
+bip_39_word_no_space_2: preparerice
+bip_39_word_no_space_3: preparericehuman
+bip_39_word_no_space_4: preparericehumanlizard
+bip_39_word_no_space_5: preparericehumanlizardeight
+bip_39_word_no_space_6: preparericehumanlizardeightspend
+bip_39_word_no_space_7: preparericehumanlizardeightspendrhythm
+bip_39_word_no_space_8: preparericehumanlizardeightspendrhythmoven
+bip_39_word_no_space_9: preparericehumanlizardeightspendrhythmovenpoet
+bip_39_word_space_0:
+- prepare
+- rice
+- human
+- lizard
+- eight
+- spend
+- rhythm
+- oven
+- poet
+- ugly
+- half
+- assume
+bip_39_word_space_1: prepare
+bip_39_word_space_10: prepare rice human lizard eight spend rhythm oven poet ugly
+bip_39_word_space_11: prepare rice human lizard eight spend rhythm oven poet ugly
+  half
+bip_39_word_space_12: prepare rice human lizard eight spend rhythm oven poet ugly
+  half assume
+bip_39_word_space_2: prepare rice
+bip_39_word_space_3: prepare rice human
+bip_39_word_space_4: prepare rice human lizard
+bip_39_word_space_5: prepare rice human lizard eight
+bip_39_word_space_6: prepare rice human lizard eight spend
+bip_39_word_space_7: prepare rice human lizard eight spend rhythm
+bip_39_word_space_8: prepare rice human lizard eight spend rhythm oven
+bip_39_word_space_9: prepare rice human lizard eight spend rhythm oven poet
+bip_39_word_underscore_1: prepare
+bip_39_word_underscore_10: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly
+bip_39_word_underscore_11: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly_half
+bip_39_word_underscore_12: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet_ugly_half_assume
+bip_39_word_underscore_2: prepare_rice
+bip_39_word_underscore_3: prepare_rice_human
+bip_39_word_underscore_4: prepare_rice_human_lizard
+bip_39_word_underscore_5: prepare_rice_human_lizard_eight
+bip_39_word_underscore_6: prepare_rice_human_lizard_eight_spend
+bip_39_word_underscore_7: prepare_rice_human_lizard_eight_spend_rhythm
+bip_39_word_underscore_8: prepare_rice_human_lizard_eight_spend_rhythm_oven
+bip_39_word_underscore_9: prepare_rice_human_lizard_eight_spend_rhythm_oven_poet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_03_09__72_teeth_shield
 id_no_color: 030972teethshield
 id_no_size: 03_09__72_teeth_shield
 id_no_type: pulley_gt2_03_09__72_teeth_shield
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_03_09__72_teeth_shield
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ozcr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ozcr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ozcr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 030972Teethshield
 name_no_size: 03 09  72 Teeth Shield
 name_no_size_short: 03 09  72 Teeth Shield
 name_no_type: Pulley Gt2 03 09  72 Teeth Shield
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_03_09__72_teeth_shield
 oomp_word: rainbow banana ok
 oomp_word_emoji: ':rainbow: :banana: :ok:'

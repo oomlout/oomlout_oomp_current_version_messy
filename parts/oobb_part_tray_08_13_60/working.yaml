@@ -1,3 +1,222 @@
+bip_39_word_dash_1: radio
+bip_39_word_dash_10: radio-random-letter-web-practice-bone-together-old-liquid-hood
+bip_39_word_dash_11: radio-random-letter-web-practice-bone-together-old-liquid-hood-sun
+bip_39_word_dash_12: radio-random-letter-web-practice-bone-together-old-liquid-hood-sun-already
+bip_39_word_dash_2: radio-random
+bip_39_word_dash_3: radio-random-letter
+bip_39_word_dash_4: radio-random-letter-web
+bip_39_word_dash_5: radio-random-letter-web-practice
+bip_39_word_dash_6: radio-random-letter-web-practice-bone
+bip_39_word_dash_7: radio-random-letter-web-practice-bone-together
+bip_39_word_dash_8: radio-random-letter-web-practice-bone-together-old
+bip_39_word_dash_9: radio-random-letter-web-practice-bone-together-old-liquid
+bip_39_word_new_br_1: radio
+bip_39_word_new_br_10: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood
+bip_39_word_new_br_11: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood<br>sun
+bip_39_word_new_br_12: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid<br>hood<br>sun<br>already
+bip_39_word_new_br_2: radio<br>random
+bip_39_word_new_br_3: radio<br>random<br>letter
+bip_39_word_new_br_4: radio<br>random<br>letter<br>web
+bip_39_word_new_br_5: radio<br>random<br>letter<br>web<br>practice
+bip_39_word_new_br_6: radio<br>random<br>letter<br>web<br>practice<br>bone
+bip_39_word_new_br_7: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together
+bip_39_word_new_br_8: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old
+bip_39_word_new_br_9: radio<br>random<br>letter<br>web<br>practice<br>bone<br>together<br>old<br>liquid
+bip_39_word_new_line_1: radio
+bip_39_word_new_line_10: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together
+
+  old
+
+  liquid
+
+  hood'
+bip_39_word_new_line_11: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together
+
+  old
+
+  liquid
+
+  hood
+
+  sun'
+bip_39_word_new_line_12: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together
+
+  old
+
+  liquid
+
+  hood
+
+  sun
+
+  already'
+bip_39_word_new_line_2: 'radio
+
+  random'
+bip_39_word_new_line_3: 'radio
+
+  random
+
+  letter'
+bip_39_word_new_line_4: 'radio
+
+  random
+
+  letter
+
+  web'
+bip_39_word_new_line_5: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice'
+bip_39_word_new_line_6: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone'
+bip_39_word_new_line_7: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together'
+bip_39_word_new_line_8: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together
+
+  old'
+bip_39_word_new_line_9: 'radio
+
+  random
+
+  letter
+
+  web
+
+  practice
+
+  bone
+
+  together
+
+  old
+
+  liquid'
+bip_39_word_no_space_1: radio
+bip_39_word_no_space_10: radiorandomletterwebpracticebonetogetheroldliquidhood
+bip_39_word_no_space_11: radiorandomletterwebpracticebonetogetheroldliquidhoodsun
+bip_39_word_no_space_12: radiorandomletterwebpracticebonetogetheroldliquidhoodsunalready
+bip_39_word_no_space_2: radiorandom
+bip_39_word_no_space_3: radiorandomletter
+bip_39_word_no_space_4: radiorandomletterweb
+bip_39_word_no_space_5: radiorandomletterwebpractice
+bip_39_word_no_space_6: radiorandomletterwebpracticebone
+bip_39_word_no_space_7: radiorandomletterwebpracticebonetogether
+bip_39_word_no_space_8: radiorandomletterwebpracticebonetogetherold
+bip_39_word_no_space_9: radiorandomletterwebpracticebonetogetheroldliquid
+bip_39_word_space_0:
+- radio
+- random
+- letter
+- web
+- practice
+- bone
+- together
+- old
+- liquid
+- hood
+- sun
+- already
+bip_39_word_space_1: radio
+bip_39_word_space_10: radio random letter web practice bone together old liquid hood
+bip_39_word_space_11: radio random letter web practice bone together old liquid hood
+  sun
+bip_39_word_space_12: radio random letter web practice bone together old liquid hood
+  sun already
+bip_39_word_space_2: radio random
+bip_39_word_space_3: radio random letter
+bip_39_word_space_4: radio random letter web
+bip_39_word_space_5: radio random letter web practice
+bip_39_word_space_6: radio random letter web practice bone
+bip_39_word_space_7: radio random letter web practice bone together
+bip_39_word_space_8: radio random letter web practice bone together old
+bip_39_word_space_9: radio random letter web practice bone together old liquid
+bip_39_word_underscore_1: radio
+bip_39_word_underscore_10: radio_random_letter_web_practice_bone_together_old_liquid_hood
+bip_39_word_underscore_11: radio_random_letter_web_practice_bone_together_old_liquid_hood_sun
+bip_39_word_underscore_12: radio_random_letter_web_practice_bone_together_old_liquid_hood_sun_already
+bip_39_word_underscore_2: radio_random
+bip_39_word_underscore_3: radio_random_letter
+bip_39_word_underscore_4: radio_random_letter_web
+bip_39_word_underscore_5: radio_random_letter_web_practice
+bip_39_word_underscore_6: radio_random_letter_web_practice_bone
+bip_39_word_underscore_7: radio_random_letter_web_practice_bone_together
+bip_39_word_underscore_8: radio_random_letter_web_practice_bone_together_old
+bip_39_word_underscore_9: radio_random_letter_web_practice_bone_together_old_liquid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_13_60
 id_no_color: 081360
 id_no_size: 08_13_60
 id_no_type: tray_08_13_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_13_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_13_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_13_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204iil7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204iil7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204iil7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081360
 name_no_size: 08 13 60
 name_no_size_short: 08 13 60
 name_no_type: Tray 08 13 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_13_60
 oomp_word: flags handbag ski
 oomp_word_emoji: ':flags: :handbag: :ski:'

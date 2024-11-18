@@ -1,3 +1,223 @@
+bip_39_word_dash_1: bubble
+bip_39_word_dash_10: bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van
+bip_39_word_dash_11: bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van-more
+bip_39_word_dash_12: bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral-van-more-alone
+bip_39_word_dash_2: bubble-quarter
+bip_39_word_dash_3: bubble-quarter-reform
+bip_39_word_dash_4: bubble-quarter-reform-sunny
+bip_39_word_dash_5: bubble-quarter-reform-sunny-fatigue
+bip_39_word_dash_6: bubble-quarter-reform-sunny-fatigue-problem
+bip_39_word_dash_7: bubble-quarter-reform-sunny-fatigue-problem-boost
+bip_39_word_dash_8: bubble-quarter-reform-sunny-fatigue-problem-boost-plate
+bip_39_word_dash_9: bubble-quarter-reform-sunny-fatigue-problem-boost-plate-neutral
+bip_39_word_new_br_1: bubble
+bip_39_word_new_br_10: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral<br>van
+bip_39_word_new_br_11: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral<br>van<br>more
+bip_39_word_new_br_12: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral<br>van<br>more<br>alone
+bip_39_word_new_br_2: bubble<br>quarter
+bip_39_word_new_br_3: bubble<br>quarter<br>reform
+bip_39_word_new_br_4: bubble<br>quarter<br>reform<br>sunny
+bip_39_word_new_br_5: bubble<br>quarter<br>reform<br>sunny<br>fatigue
+bip_39_word_new_br_6: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem
+bip_39_word_new_br_7: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost
+bip_39_word_new_br_8: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate
+bip_39_word_new_br_9: bubble<br>quarter<br>reform<br>sunny<br>fatigue<br>problem<br>boost<br>plate<br>neutral
+bip_39_word_new_line_1: bubble
+bip_39_word_new_line_10: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost
+
+  plate
+
+  neutral
+
+  van'
+bip_39_word_new_line_11: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost
+
+  plate
+
+  neutral
+
+  van
+
+  more'
+bip_39_word_new_line_12: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost
+
+  plate
+
+  neutral
+
+  van
+
+  more
+
+  alone'
+bip_39_word_new_line_2: 'bubble
+
+  quarter'
+bip_39_word_new_line_3: 'bubble
+
+  quarter
+
+  reform'
+bip_39_word_new_line_4: 'bubble
+
+  quarter
+
+  reform
+
+  sunny'
+bip_39_word_new_line_5: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue'
+bip_39_word_new_line_6: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem'
+bip_39_word_new_line_7: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost'
+bip_39_word_new_line_8: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost
+
+  plate'
+bip_39_word_new_line_9: 'bubble
+
+  quarter
+
+  reform
+
+  sunny
+
+  fatigue
+
+  problem
+
+  boost
+
+  plate
+
+  neutral'
+bip_39_word_no_space_1: bubble
+bip_39_word_no_space_10: bubblequarterreformsunnyfatigueproblemboostplateneutralvan
+bip_39_word_no_space_11: bubblequarterreformsunnyfatigueproblemboostplateneutralvanmore
+bip_39_word_no_space_12: bubblequarterreformsunnyfatigueproblemboostplateneutralvanmorealone
+bip_39_word_no_space_2: bubblequarter
+bip_39_word_no_space_3: bubblequarterreform
+bip_39_word_no_space_4: bubblequarterreformsunny
+bip_39_word_no_space_5: bubblequarterreformsunnyfatigue
+bip_39_word_no_space_6: bubblequarterreformsunnyfatigueproblem
+bip_39_word_no_space_7: bubblequarterreformsunnyfatigueproblemboost
+bip_39_word_no_space_8: bubblequarterreformsunnyfatigueproblemboostplate
+bip_39_word_no_space_9: bubblequarterreformsunnyfatigueproblemboostplateneutral
+bip_39_word_space_0:
+- bubble
+- quarter
+- reform
+- sunny
+- fatigue
+- problem
+- boost
+- plate
+- neutral
+- van
+- more
+- alone
+bip_39_word_space_1: bubble
+bip_39_word_space_10: bubble quarter reform sunny fatigue problem boost plate neutral
+  van
+bip_39_word_space_11: bubble quarter reform sunny fatigue problem boost plate neutral
+  van more
+bip_39_word_space_12: bubble quarter reform sunny fatigue problem boost plate neutral
+  van more alone
+bip_39_word_space_2: bubble quarter
+bip_39_word_space_3: bubble quarter reform
+bip_39_word_space_4: bubble quarter reform sunny
+bip_39_word_space_5: bubble quarter reform sunny fatigue
+bip_39_word_space_6: bubble quarter reform sunny fatigue problem
+bip_39_word_space_7: bubble quarter reform sunny fatigue problem boost
+bip_39_word_space_8: bubble quarter reform sunny fatigue problem boost plate
+bip_39_word_space_9: bubble quarter reform sunny fatigue problem boost plate neutral
+bip_39_word_underscore_1: bubble
+bip_39_word_underscore_10: bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van
+bip_39_word_underscore_11: bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van_more
+bip_39_word_underscore_12: bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral_van_more_alone
+bip_39_word_underscore_2: bubble_quarter
+bip_39_word_underscore_3: bubble_quarter_reform
+bip_39_word_underscore_4: bubble_quarter_reform_sunny
+bip_39_word_underscore_5: bubble_quarter_reform_sunny_fatigue
+bip_39_word_underscore_6: bubble_quarter_reform_sunny_fatigue_problem
+bip_39_word_underscore_7: bubble_quarter_reform_sunny_fatigue_problem_boost
+bip_39_word_underscore_8: bubble_quarter_reform_sunny_fatigue_problem_boost_plate
+bip_39_word_underscore_9: bubble_quarter_reform_sunny_fatigue_problem_boost_plate_neutral
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_2d5_05_30
 id_no_color: 2d50530
 id_no_size: 2d5_05_30
 id_no_type: tray_thin_2d5_05_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_05_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_05_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204c3b0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204c3b0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204c3b0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 2D50530
 name_no_size: 2D5 05 30
 name_no_size_short: 2D5 05 30
 name_no_type: Tray Thin 2D5 05 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_05_30
 oomp_word: moon princess sushi
 oomp_word_emoji: ':moon: :princess: :sushi:'

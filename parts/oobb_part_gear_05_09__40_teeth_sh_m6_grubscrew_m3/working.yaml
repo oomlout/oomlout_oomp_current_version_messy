@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sibling
+bip_39_word_dash_10: sibling-choice-junior-carbon-client-scan-lava-soap-east-science
+bip_39_word_dash_11: sibling-choice-junior-carbon-client-scan-lava-soap-east-science-veteran
+bip_39_word_dash_12: sibling-choice-junior-carbon-client-scan-lava-soap-east-science-veteran-ask
+bip_39_word_dash_2: sibling-choice
+bip_39_word_dash_3: sibling-choice-junior
+bip_39_word_dash_4: sibling-choice-junior-carbon
+bip_39_word_dash_5: sibling-choice-junior-carbon-client
+bip_39_word_dash_6: sibling-choice-junior-carbon-client-scan
+bip_39_word_dash_7: sibling-choice-junior-carbon-client-scan-lava
+bip_39_word_dash_8: sibling-choice-junior-carbon-client-scan-lava-soap
+bip_39_word_dash_9: sibling-choice-junior-carbon-client-scan-lava-soap-east
+bip_39_word_new_br_1: sibling
+bip_39_word_new_br_10: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science
+bip_39_word_new_br_11: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science<br>veteran
+bip_39_word_new_br_12: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east<br>science<br>veteran<br>ask
+bip_39_word_new_br_2: sibling<br>choice
+bip_39_word_new_br_3: sibling<br>choice<br>junior
+bip_39_word_new_br_4: sibling<br>choice<br>junior<br>carbon
+bip_39_word_new_br_5: sibling<br>choice<br>junior<br>carbon<br>client
+bip_39_word_new_br_6: sibling<br>choice<br>junior<br>carbon<br>client<br>scan
+bip_39_word_new_br_7: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava
+bip_39_word_new_br_8: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap
+bip_39_word_new_br_9: sibling<br>choice<br>junior<br>carbon<br>client<br>scan<br>lava<br>soap<br>east
+bip_39_word_new_line_1: sibling
+bip_39_word_new_line_10: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science'
+bip_39_word_new_line_11: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science
+
+  veteran'
+bip_39_word_new_line_12: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east
+
+  science
+
+  veteran
+
+  ask'
+bip_39_word_new_line_2: 'sibling
+
+  choice'
+bip_39_word_new_line_3: 'sibling
+
+  choice
+
+  junior'
+bip_39_word_new_line_4: 'sibling
+
+  choice
+
+  junior
+
+  carbon'
+bip_39_word_new_line_5: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client'
+bip_39_word_new_line_6: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan'
+bip_39_word_new_line_7: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava'
+bip_39_word_new_line_8: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap'
+bip_39_word_new_line_9: 'sibling
+
+  choice
+
+  junior
+
+  carbon
+
+  client
+
+  scan
+
+  lava
+
+  soap
+
+  east'
+bip_39_word_no_space_1: sibling
+bip_39_word_no_space_10: siblingchoicejuniorcarbonclientscanlavasoapeastscience
+bip_39_word_no_space_11: siblingchoicejuniorcarbonclientscanlavasoapeastscienceveteran
+bip_39_word_no_space_12: siblingchoicejuniorcarbonclientscanlavasoapeastscienceveteranask
+bip_39_word_no_space_2: siblingchoice
+bip_39_word_no_space_3: siblingchoicejunior
+bip_39_word_no_space_4: siblingchoicejuniorcarbon
+bip_39_word_no_space_5: siblingchoicejuniorcarbonclient
+bip_39_word_no_space_6: siblingchoicejuniorcarbonclientscan
+bip_39_word_no_space_7: siblingchoicejuniorcarbonclientscanlava
+bip_39_word_no_space_8: siblingchoicejuniorcarbonclientscanlavasoap
+bip_39_word_no_space_9: siblingchoicejuniorcarbonclientscanlavasoapeast
+bip_39_word_space_0:
+- sibling
+- choice
+- junior
+- carbon
+- client
+- scan
+- lava
+- soap
+- east
+- science
+- veteran
+- ask
+bip_39_word_space_1: sibling
+bip_39_word_space_10: sibling choice junior carbon client scan lava soap east science
+bip_39_word_space_11: sibling choice junior carbon client scan lava soap east science
+  veteran
+bip_39_word_space_12: sibling choice junior carbon client scan lava soap east science
+  veteran ask
+bip_39_word_space_2: sibling choice
+bip_39_word_space_3: sibling choice junior
+bip_39_word_space_4: sibling choice junior carbon
+bip_39_word_space_5: sibling choice junior carbon client
+bip_39_word_space_6: sibling choice junior carbon client scan
+bip_39_word_space_7: sibling choice junior carbon client scan lava
+bip_39_word_space_8: sibling choice junior carbon client scan lava soap
+bip_39_word_space_9: sibling choice junior carbon client scan lava soap east
+bip_39_word_underscore_1: sibling
+bip_39_word_underscore_10: sibling_choice_junior_carbon_client_scan_lava_soap_east_science
+bip_39_word_underscore_11: sibling_choice_junior_carbon_client_scan_lava_soap_east_science_veteran
+bip_39_word_underscore_12: sibling_choice_junior_carbon_client_scan_lava_soap_east_science_veteran_ask
+bip_39_word_underscore_2: sibling_choice
+bip_39_word_underscore_3: sibling_choice_junior
+bip_39_word_underscore_4: sibling_choice_junior_carbon
+bip_39_word_underscore_5: sibling_choice_junior_carbon_client
+bip_39_word_underscore_6: sibling_choice_junior_carbon_client_scan
+bip_39_word_underscore_7: sibling_choice_junior_carbon_client_scan_lava
+bip_39_word_underscore_8: sibling_choice_junior_carbon_client_scan_lava_soap
+bip_39_word_underscore_9: sibling_choice_junior_carbon_client_scan_lava_soap_east
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_gear_05_09__40_teeth_sh_m6_grubscrew_m3
 id_no_color: 050940teethshm6grubscrewm3
 id_no_size: 05_09__40_teeth_sh_m6_grubscrew_m3
 id_no_type: gear_05_09__40_teeth_sh_m6_grubscrew_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_09__40_teeth_sh_m6_grubscrew_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_05_09__40_teeth_sh_m6_grubscrew_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_05_09__40_teeth_sh_m6_grubscrew_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208cghc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208cghc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208cghc
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 050940Teethshm6Grubscrewm3
 name_no_size: 05 09  40 Teeth Sh M6 Grubscrew M3
 name_no_size_short: 05 09  40 Teeth Sh M6 Grubscrew M3
 name_no_type: Gear 05 09  40 Teeth Sh M6 Grubscrew M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_05_09__40_teeth_sh_m6_grubscrew_m3
 oomp_word: house airplane squirrel
 oomp_word_emoji: ':house: :airplane: :squirrel:'

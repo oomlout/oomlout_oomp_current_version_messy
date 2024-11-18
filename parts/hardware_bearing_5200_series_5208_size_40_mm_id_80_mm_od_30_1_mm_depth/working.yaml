@@ -1,3 +1,221 @@
+bip_39_word_dash_1: note
+bip_39_word_dash_10: note-genre-token-cart-wish-mutual-tone-limb-crowd-royal
+bip_39_word_dash_11: note-genre-token-cart-wish-mutual-tone-limb-crowd-royal-wish
+bip_39_word_dash_12: note-genre-token-cart-wish-mutual-tone-limb-crowd-royal-wish-alcohol
+bip_39_word_dash_2: note-genre
+bip_39_word_dash_3: note-genre-token
+bip_39_word_dash_4: note-genre-token-cart
+bip_39_word_dash_5: note-genre-token-cart-wish
+bip_39_word_dash_6: note-genre-token-cart-wish-mutual
+bip_39_word_dash_7: note-genre-token-cart-wish-mutual-tone
+bip_39_word_dash_8: note-genre-token-cart-wish-mutual-tone-limb
+bip_39_word_dash_9: note-genre-token-cart-wish-mutual-tone-limb-crowd
+bip_39_word_new_br_1: note
+bip_39_word_new_br_10: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal
+bip_39_word_new_br_11: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal<br>wish
+bip_39_word_new_br_12: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd<br>royal<br>wish<br>alcohol
+bip_39_word_new_br_2: note<br>genre
+bip_39_word_new_br_3: note<br>genre<br>token
+bip_39_word_new_br_4: note<br>genre<br>token<br>cart
+bip_39_word_new_br_5: note<br>genre<br>token<br>cart<br>wish
+bip_39_word_new_br_6: note<br>genre<br>token<br>cart<br>wish<br>mutual
+bip_39_word_new_br_7: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone
+bip_39_word_new_br_8: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb
+bip_39_word_new_br_9: note<br>genre<br>token<br>cart<br>wish<br>mutual<br>tone<br>limb<br>crowd
+bip_39_word_new_line_1: note
+bip_39_word_new_line_10: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal'
+bip_39_word_new_line_11: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal
+
+  wish'
+bip_39_word_new_line_12: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd
+
+  royal
+
+  wish
+
+  alcohol'
+bip_39_word_new_line_2: 'note
+
+  genre'
+bip_39_word_new_line_3: 'note
+
+  genre
+
+  token'
+bip_39_word_new_line_4: 'note
+
+  genre
+
+  token
+
+  cart'
+bip_39_word_new_line_5: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish'
+bip_39_word_new_line_6: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual'
+bip_39_word_new_line_7: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone'
+bip_39_word_new_line_8: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb'
+bip_39_word_new_line_9: 'note
+
+  genre
+
+  token
+
+  cart
+
+  wish
+
+  mutual
+
+  tone
+
+  limb
+
+  crowd'
+bip_39_word_no_space_1: note
+bip_39_word_no_space_10: notegenretokencartwishmutualtonelimbcrowdroyal
+bip_39_word_no_space_11: notegenretokencartwishmutualtonelimbcrowdroyalwish
+bip_39_word_no_space_12: notegenretokencartwishmutualtonelimbcrowdroyalwishalcohol
+bip_39_word_no_space_2: notegenre
+bip_39_word_no_space_3: notegenretoken
+bip_39_word_no_space_4: notegenretokencart
+bip_39_word_no_space_5: notegenretokencartwish
+bip_39_word_no_space_6: notegenretokencartwishmutual
+bip_39_word_no_space_7: notegenretokencartwishmutualtone
+bip_39_word_no_space_8: notegenretokencartwishmutualtonelimb
+bip_39_word_no_space_9: notegenretokencartwishmutualtonelimbcrowd
+bip_39_word_space_0:
+- note
+- genre
+- token
+- cart
+- wish
+- mutual
+- tone
+- limb
+- crowd
+- royal
+- wish
+- alcohol
+bip_39_word_space_1: note
+bip_39_word_space_10: note genre token cart wish mutual tone limb crowd royal
+bip_39_word_space_11: note genre token cart wish mutual tone limb crowd royal wish
+bip_39_word_space_12: note genre token cart wish mutual tone limb crowd royal wish
+  alcohol
+bip_39_word_space_2: note genre
+bip_39_word_space_3: note genre token
+bip_39_word_space_4: note genre token cart
+bip_39_word_space_5: note genre token cart wish
+bip_39_word_space_6: note genre token cart wish mutual
+bip_39_word_space_7: note genre token cart wish mutual tone
+bip_39_word_space_8: note genre token cart wish mutual tone limb
+bip_39_word_space_9: note genre token cart wish mutual tone limb crowd
+bip_39_word_underscore_1: note
+bip_39_word_underscore_10: note_genre_token_cart_wish_mutual_tone_limb_crowd_royal
+bip_39_word_underscore_11: note_genre_token_cart_wish_mutual_tone_limb_crowd_royal_wish
+bip_39_word_underscore_12: note_genre_token_cart_wish_mutual_tone_limb_crowd_royal_wish_alcohol
+bip_39_word_underscore_2: note_genre
+bip_39_word_underscore_3: note_genre_token
+bip_39_word_underscore_4: note_genre_token_cart
+bip_39_word_underscore_5: note_genre_token_cart_wish
+bip_39_word_underscore_6: note_genre_token_cart_wish_mutual
+bip_39_word_underscore_7: note_genre_token_cart_wish_mutual_tone
+bip_39_word_underscore_8: note_genre_token_cart_wish_mutual_tone_limb
+bip_39_word_underscore_9: note_genre_token_cart_wish_mutual_tone_limb_crowd
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +326,14 @@ id_no_class: bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
 id_no_color: 40_mm_id_80_mm_od_30_1_mm_depth
 id_no_size: 5208_size_40_mm_id_80_mm_od_30_1_mm_depth
 id_no_type: 5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203tmb3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203tmb3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203tmb3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +359,9 @@ name_no_color: 40 mm ID 80 mm OD 30 1 mm Depth
 name_no_size: 5208 Size 40 mm ID 80 mm OD 30 1 mm Depth
 name_no_size_short: 5208 Size 40 Mm Id 80 Mm Od 30 1 Mm Depth
 name_no_type: 5200 Series 5208 Size 40 mm ID 80 mm OD 30 1 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br5208
+oomlout_short_code_upper: BR5208
 oomp_key: oomp_hardware_bearing_5200_series_5208_size_40_mm_id_80_mm_od_30_1_mm_depth
 oomp_word: bouquet eight cyclone
 oomp_word_emoji: ':bouquet: :eight: :cyclone:'

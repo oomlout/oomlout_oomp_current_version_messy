@@ -1,3 +1,222 @@
+bip_39_word_dash_1: satisfy
+bip_39_word_dash_10: satisfy-neglect-enact-twin-cube-random-also-core-sign-youth
+bip_39_word_dash_11: satisfy-neglect-enact-twin-cube-random-also-core-sign-youth-evidence
+bip_39_word_dash_12: satisfy-neglect-enact-twin-cube-random-also-core-sign-youth-evidence-aim
+bip_39_word_dash_2: satisfy-neglect
+bip_39_word_dash_3: satisfy-neglect-enact
+bip_39_word_dash_4: satisfy-neglect-enact-twin
+bip_39_word_dash_5: satisfy-neglect-enact-twin-cube
+bip_39_word_dash_6: satisfy-neglect-enact-twin-cube-random
+bip_39_word_dash_7: satisfy-neglect-enact-twin-cube-random-also
+bip_39_word_dash_8: satisfy-neglect-enact-twin-cube-random-also-core
+bip_39_word_dash_9: satisfy-neglect-enact-twin-cube-random-also-core-sign
+bip_39_word_new_br_1: satisfy
+bip_39_word_new_br_10: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth
+bip_39_word_new_br_11: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence
+bip_39_word_new_br_12: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign<br>youth<br>evidence<br>aim
+bip_39_word_new_br_2: satisfy<br>neglect
+bip_39_word_new_br_3: satisfy<br>neglect<br>enact
+bip_39_word_new_br_4: satisfy<br>neglect<br>enact<br>twin
+bip_39_word_new_br_5: satisfy<br>neglect<br>enact<br>twin<br>cube
+bip_39_word_new_br_6: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random
+bip_39_word_new_br_7: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also
+bip_39_word_new_br_8: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core
+bip_39_word_new_br_9: satisfy<br>neglect<br>enact<br>twin<br>cube<br>random<br>also<br>core<br>sign
+bip_39_word_new_line_1: satisfy
+bip_39_word_new_line_10: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also
+
+  core
+
+  sign
+
+  youth'
+bip_39_word_new_line_11: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also
+
+  core
+
+  sign
+
+  youth
+
+  evidence'
+bip_39_word_new_line_12: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also
+
+  core
+
+  sign
+
+  youth
+
+  evidence
+
+  aim'
+bip_39_word_new_line_2: 'satisfy
+
+  neglect'
+bip_39_word_new_line_3: 'satisfy
+
+  neglect
+
+  enact'
+bip_39_word_new_line_4: 'satisfy
+
+  neglect
+
+  enact
+
+  twin'
+bip_39_word_new_line_5: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube'
+bip_39_word_new_line_6: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random'
+bip_39_word_new_line_7: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also'
+bip_39_word_new_line_8: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also
+
+  core'
+bip_39_word_new_line_9: 'satisfy
+
+  neglect
+
+  enact
+
+  twin
+
+  cube
+
+  random
+
+  also
+
+  core
+
+  sign'
+bip_39_word_no_space_1: satisfy
+bip_39_word_no_space_10: satisfyneglectenacttwincuberandomalsocoresignyouth
+bip_39_word_no_space_11: satisfyneglectenacttwincuberandomalsocoresignyouthevidence
+bip_39_word_no_space_12: satisfyneglectenacttwincuberandomalsocoresignyouthevidenceaim
+bip_39_word_no_space_2: satisfyneglect
+bip_39_word_no_space_3: satisfyneglectenact
+bip_39_word_no_space_4: satisfyneglectenacttwin
+bip_39_word_no_space_5: satisfyneglectenacttwincube
+bip_39_word_no_space_6: satisfyneglectenacttwincuberandom
+bip_39_word_no_space_7: satisfyneglectenacttwincuberandomalso
+bip_39_word_no_space_8: satisfyneglectenacttwincuberandomalsocore
+bip_39_word_no_space_9: satisfyneglectenacttwincuberandomalsocoresign
+bip_39_word_space_0:
+- satisfy
+- neglect
+- enact
+- twin
+- cube
+- random
+- also
+- core
+- sign
+- youth
+- evidence
+- aim
+bip_39_word_space_1: satisfy
+bip_39_word_space_10: satisfy neglect enact twin cube random also core sign youth
+bip_39_word_space_11: satisfy neglect enact twin cube random also core sign youth
+  evidence
+bip_39_word_space_12: satisfy neglect enact twin cube random also core sign youth
+  evidence aim
+bip_39_word_space_2: satisfy neglect
+bip_39_word_space_3: satisfy neglect enact
+bip_39_word_space_4: satisfy neglect enact twin
+bip_39_word_space_5: satisfy neglect enact twin cube
+bip_39_word_space_6: satisfy neglect enact twin cube random
+bip_39_word_space_7: satisfy neglect enact twin cube random also
+bip_39_word_space_8: satisfy neglect enact twin cube random also core
+bip_39_word_space_9: satisfy neglect enact twin cube random also core sign
+bip_39_word_underscore_1: satisfy
+bip_39_word_underscore_10: satisfy_neglect_enact_twin_cube_random_also_core_sign_youth
+bip_39_word_underscore_11: satisfy_neglect_enact_twin_cube_random_also_core_sign_youth_evidence
+bip_39_word_underscore_12: satisfy_neglect_enact_twin_cube_random_also_core_sign_youth_evidence_aim
+bip_39_word_underscore_2: satisfy_neglect
+bip_39_word_underscore_3: satisfy_neglect_enact
+bip_39_word_underscore_4: satisfy_neglect_enact_twin
+bip_39_word_underscore_5: satisfy_neglect_enact_twin_cube
+bip_39_word_underscore_6: satisfy_neglect_enact_twin_cube_random
+bip_39_word_underscore_7: satisfy_neglect_enact_twin_cube_random_also
+bip_39_word_underscore_8: satisfy_neglect_enact_twin_cube_random_also_core
+bip_39_word_underscore_9: satisfy_neglect_enact_twin_cube_random_also_core_sign
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_09_15
 id_no_color: '110915'
 id_no_size: '11_09_15'
 id_no_type: tray_thin_11_09_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_09_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_09_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203augv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203augv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203augv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '110915'
 name_no_size: 11 09 15
 name_no_size_short: 11 09 15
 name_no_type: Tray Thin 11 09 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_09_15
 oomp_word: whale ski egg
 oomp_word_emoji: ':whale: :ski: :egg:'

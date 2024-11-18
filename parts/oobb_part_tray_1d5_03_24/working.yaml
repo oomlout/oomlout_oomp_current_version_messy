@@ -1,3 +1,223 @@
+bip_39_word_dash_1: describe
+bip_39_word_dash_10: describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer
+bip_39_word_dash_11: describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer-hip
+bip_39_word_dash_12: describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid-deer-hip-artwork
+bip_39_word_dash_2: describe-vacuum
+bip_39_word_dash_3: describe-vacuum-grass
+bip_39_word_dash_4: describe-vacuum-grass-insect
+bip_39_word_dash_5: describe-vacuum-grass-insect-copper
+bip_39_word_dash_6: describe-vacuum-grass-insect-copper-tiger
+bip_39_word_dash_7: describe-vacuum-grass-insect-copper-tiger-arrest
+bip_39_word_dash_8: describe-vacuum-grass-insect-copper-tiger-arrest-pill
+bip_39_word_dash_9: describe-vacuum-grass-insect-copper-tiger-arrest-pill-fluid
+bip_39_word_new_br_1: describe
+bip_39_word_new_br_10: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid<br>deer
+bip_39_word_new_br_11: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid<br>deer<br>hip
+bip_39_word_new_br_12: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid<br>deer<br>hip<br>artwork
+bip_39_word_new_br_2: describe<br>vacuum
+bip_39_word_new_br_3: describe<br>vacuum<br>grass
+bip_39_word_new_br_4: describe<br>vacuum<br>grass<br>insect
+bip_39_word_new_br_5: describe<br>vacuum<br>grass<br>insect<br>copper
+bip_39_word_new_br_6: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger
+bip_39_word_new_br_7: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest
+bip_39_word_new_br_8: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill
+bip_39_word_new_br_9: describe<br>vacuum<br>grass<br>insect<br>copper<br>tiger<br>arrest<br>pill<br>fluid
+bip_39_word_new_line_1: describe
+bip_39_word_new_line_10: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest
+
+  pill
+
+  fluid
+
+  deer'
+bip_39_word_new_line_11: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest
+
+  pill
+
+  fluid
+
+  deer
+
+  hip'
+bip_39_word_new_line_12: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest
+
+  pill
+
+  fluid
+
+  deer
+
+  hip
+
+  artwork'
+bip_39_word_new_line_2: 'describe
+
+  vacuum'
+bip_39_word_new_line_3: 'describe
+
+  vacuum
+
+  grass'
+bip_39_word_new_line_4: 'describe
+
+  vacuum
+
+  grass
+
+  insect'
+bip_39_word_new_line_5: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper'
+bip_39_word_new_line_6: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger'
+bip_39_word_new_line_7: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest'
+bip_39_word_new_line_8: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest
+
+  pill'
+bip_39_word_new_line_9: 'describe
+
+  vacuum
+
+  grass
+
+  insect
+
+  copper
+
+  tiger
+
+  arrest
+
+  pill
+
+  fluid'
+bip_39_word_no_space_1: describe
+bip_39_word_no_space_10: describevacuumgrassinsectcoppertigerarrestpillfluiddeer
+bip_39_word_no_space_11: describevacuumgrassinsectcoppertigerarrestpillfluiddeerhip
+bip_39_word_no_space_12: describevacuumgrassinsectcoppertigerarrestpillfluiddeerhipartwork
+bip_39_word_no_space_2: describevacuum
+bip_39_word_no_space_3: describevacuumgrass
+bip_39_word_no_space_4: describevacuumgrassinsect
+bip_39_word_no_space_5: describevacuumgrassinsectcopper
+bip_39_word_no_space_6: describevacuumgrassinsectcoppertiger
+bip_39_word_no_space_7: describevacuumgrassinsectcoppertigerarrest
+bip_39_word_no_space_8: describevacuumgrassinsectcoppertigerarrestpill
+bip_39_word_no_space_9: describevacuumgrassinsectcoppertigerarrestpillfluid
+bip_39_word_space_0:
+- describe
+- vacuum
+- grass
+- insect
+- copper
+- tiger
+- arrest
+- pill
+- fluid
+- deer
+- hip
+- artwork
+bip_39_word_space_1: describe
+bip_39_word_space_10: describe vacuum grass insect copper tiger arrest pill fluid
+  deer
+bip_39_word_space_11: describe vacuum grass insect copper tiger arrest pill fluid
+  deer hip
+bip_39_word_space_12: describe vacuum grass insect copper tiger arrest pill fluid
+  deer hip artwork
+bip_39_word_space_2: describe vacuum
+bip_39_word_space_3: describe vacuum grass
+bip_39_word_space_4: describe vacuum grass insect
+bip_39_word_space_5: describe vacuum grass insect copper
+bip_39_word_space_6: describe vacuum grass insect copper tiger
+bip_39_word_space_7: describe vacuum grass insect copper tiger arrest
+bip_39_word_space_8: describe vacuum grass insect copper tiger arrest pill
+bip_39_word_space_9: describe vacuum grass insect copper tiger arrest pill fluid
+bip_39_word_underscore_1: describe
+bip_39_word_underscore_10: describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer
+bip_39_word_underscore_11: describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer_hip
+bip_39_word_underscore_12: describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid_deer_hip_artwork
+bip_39_word_underscore_2: describe_vacuum
+bip_39_word_underscore_3: describe_vacuum_grass
+bip_39_word_underscore_4: describe_vacuum_grass_insect
+bip_39_word_underscore_5: describe_vacuum_grass_insect_copper
+bip_39_word_underscore_6: describe_vacuum_grass_insect_copper_tiger
+bip_39_word_underscore_7: describe_vacuum_grass_insect_copper_tiger_arrest
+bip_39_word_underscore_8: describe_vacuum_grass_insect_copper_tiger_arrest_pill
+bip_39_word_underscore_9: describe_vacuum_grass_insect_copper_tiger_arrest_pill_fluid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_03_24
 id_no_color: 1d50324
 id_no_size: 1d5_03_24
 id_no_type: tray_1d5_03_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_03_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_03_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_03_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20885vy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20885vy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20885vy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D50324
 name_no_size: 1D5 03 24
 name_no_size_short: 1D5 03 24
 name_no_type: Tray 1D5 03 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_03_24
 oomp_word: pineapple office peach
 oomp_word_emoji: ':pineapple: :office: :peach:'

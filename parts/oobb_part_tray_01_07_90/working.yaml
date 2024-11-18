@@ -1,3 +1,222 @@
+bip_39_word_dash_1: pyramid
+bip_39_word_dash_10: pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube
+bip_39_word_dash_11: pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube-over
+bip_39_word_dash_12: pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just-cube-over-across
+bip_39_word_dash_2: pyramid-horse
+bip_39_word_dash_3: pyramid-horse-amazing
+bip_39_word_dash_4: pyramid-horse-amazing-mask
+bip_39_word_dash_5: pyramid-horse-amazing-mask-inject
+bip_39_word_dash_6: pyramid-horse-amazing-mask-inject-mirror
+bip_39_word_dash_7: pyramid-horse-amazing-mask-inject-mirror-paddle
+bip_39_word_dash_8: pyramid-horse-amazing-mask-inject-mirror-paddle-safe
+bip_39_word_dash_9: pyramid-horse-amazing-mask-inject-mirror-paddle-safe-just
+bip_39_word_new_br_1: pyramid
+bip_39_word_new_br_10: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube
+bip_39_word_new_br_11: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube<br>over
+bip_39_word_new_br_12: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just<br>cube<br>over<br>across
+bip_39_word_new_br_2: pyramid<br>horse
+bip_39_word_new_br_3: pyramid<br>horse<br>amazing
+bip_39_word_new_br_4: pyramid<br>horse<br>amazing<br>mask
+bip_39_word_new_br_5: pyramid<br>horse<br>amazing<br>mask<br>inject
+bip_39_word_new_br_6: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror
+bip_39_word_new_br_7: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle
+bip_39_word_new_br_8: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe
+bip_39_word_new_br_9: pyramid<br>horse<br>amazing<br>mask<br>inject<br>mirror<br>paddle<br>safe<br>just
+bip_39_word_new_line_1: pyramid
+bip_39_word_new_line_10: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle
+
+  safe
+
+  just
+
+  cube'
+bip_39_word_new_line_11: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle
+
+  safe
+
+  just
+
+  cube
+
+  over'
+bip_39_word_new_line_12: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle
+
+  safe
+
+  just
+
+  cube
+
+  over
+
+  across'
+bip_39_word_new_line_2: 'pyramid
+
+  horse'
+bip_39_word_new_line_3: 'pyramid
+
+  horse
+
+  amazing'
+bip_39_word_new_line_4: 'pyramid
+
+  horse
+
+  amazing
+
+  mask'
+bip_39_word_new_line_5: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject'
+bip_39_word_new_line_6: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror'
+bip_39_word_new_line_7: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle'
+bip_39_word_new_line_8: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle
+
+  safe'
+bip_39_word_new_line_9: 'pyramid
+
+  horse
+
+  amazing
+
+  mask
+
+  inject
+
+  mirror
+
+  paddle
+
+  safe
+
+  just'
+bip_39_word_no_space_1: pyramid
+bip_39_word_no_space_10: pyramidhorseamazingmaskinjectmirrorpaddlesafejustcube
+bip_39_word_no_space_11: pyramidhorseamazingmaskinjectmirrorpaddlesafejustcubeover
+bip_39_word_no_space_12: pyramidhorseamazingmaskinjectmirrorpaddlesafejustcubeoveracross
+bip_39_word_no_space_2: pyramidhorse
+bip_39_word_no_space_3: pyramidhorseamazing
+bip_39_word_no_space_4: pyramidhorseamazingmask
+bip_39_word_no_space_5: pyramidhorseamazingmaskinject
+bip_39_word_no_space_6: pyramidhorseamazingmaskinjectmirror
+bip_39_word_no_space_7: pyramidhorseamazingmaskinjectmirrorpaddle
+bip_39_word_no_space_8: pyramidhorseamazingmaskinjectmirrorpaddlesafe
+bip_39_word_no_space_9: pyramidhorseamazingmaskinjectmirrorpaddlesafejust
+bip_39_word_space_0:
+- pyramid
+- horse
+- amazing
+- mask
+- inject
+- mirror
+- paddle
+- safe
+- just
+- cube
+- over
+- across
+bip_39_word_space_1: pyramid
+bip_39_word_space_10: pyramid horse amazing mask inject mirror paddle safe just cube
+bip_39_word_space_11: pyramid horse amazing mask inject mirror paddle safe just cube
+  over
+bip_39_word_space_12: pyramid horse amazing mask inject mirror paddle safe just cube
+  over across
+bip_39_word_space_2: pyramid horse
+bip_39_word_space_3: pyramid horse amazing
+bip_39_word_space_4: pyramid horse amazing mask
+bip_39_word_space_5: pyramid horse amazing mask inject
+bip_39_word_space_6: pyramid horse amazing mask inject mirror
+bip_39_word_space_7: pyramid horse amazing mask inject mirror paddle
+bip_39_word_space_8: pyramid horse amazing mask inject mirror paddle safe
+bip_39_word_space_9: pyramid horse amazing mask inject mirror paddle safe just
+bip_39_word_underscore_1: pyramid
+bip_39_word_underscore_10: pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube
+bip_39_word_underscore_11: pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube_over
+bip_39_word_underscore_12: pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just_cube_over_across
+bip_39_word_underscore_2: pyramid_horse
+bip_39_word_underscore_3: pyramid_horse_amazing
+bip_39_word_underscore_4: pyramid_horse_amazing_mask
+bip_39_word_underscore_5: pyramid_horse_amazing_mask_inject
+bip_39_word_underscore_6: pyramid_horse_amazing_mask_inject_mirror
+bip_39_word_underscore_7: pyramid_horse_amazing_mask_inject_mirror_paddle
+bip_39_word_underscore_8: pyramid_horse_amazing_mask_inject_mirror_paddle_safe
+bip_39_word_underscore_9: pyramid_horse_amazing_mask_inject_mirror_paddle_safe_just
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_07_90
 id_no_color: 010790
 id_no_size: 01_07_90
 id_no_type: tray_01_07_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_07_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_07_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201gatp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201gatp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201gatp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 010790
 name_no_size: 01 07 90
 name_no_size_short: 01 07 90
 name_no_type: Tray 01 07 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_07_90
 oomp_word: ear bear strawberry
 oomp_word_emoji: ':ear: :bear: :strawberry:'

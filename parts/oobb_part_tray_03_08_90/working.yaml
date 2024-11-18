@@ -1,3 +1,221 @@
+bip_39_word_dash_1: top
+bip_39_word_dash_10: top-sense-win-omit-nerve-dentist-bleak-clump-post-couch
+bip_39_word_dash_11: top-sense-win-omit-nerve-dentist-bleak-clump-post-couch-holiday
+bip_39_word_dash_12: top-sense-win-omit-nerve-dentist-bleak-clump-post-couch-holiday-armed
+bip_39_word_dash_2: top-sense
+bip_39_word_dash_3: top-sense-win
+bip_39_word_dash_4: top-sense-win-omit
+bip_39_word_dash_5: top-sense-win-omit-nerve
+bip_39_word_dash_6: top-sense-win-omit-nerve-dentist
+bip_39_word_dash_7: top-sense-win-omit-nerve-dentist-bleak
+bip_39_word_dash_8: top-sense-win-omit-nerve-dentist-bleak-clump
+bip_39_word_dash_9: top-sense-win-omit-nerve-dentist-bleak-clump-post
+bip_39_word_new_br_1: top
+bip_39_word_new_br_10: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch
+bip_39_word_new_br_11: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch<br>holiday
+bip_39_word_new_br_12: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post<br>couch<br>holiday<br>armed
+bip_39_word_new_br_2: top<br>sense
+bip_39_word_new_br_3: top<br>sense<br>win
+bip_39_word_new_br_4: top<br>sense<br>win<br>omit
+bip_39_word_new_br_5: top<br>sense<br>win<br>omit<br>nerve
+bip_39_word_new_br_6: top<br>sense<br>win<br>omit<br>nerve<br>dentist
+bip_39_word_new_br_7: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak
+bip_39_word_new_br_8: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump
+bip_39_word_new_br_9: top<br>sense<br>win<br>omit<br>nerve<br>dentist<br>bleak<br>clump<br>post
+bip_39_word_new_line_1: top
+bip_39_word_new_line_10: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak
+
+  clump
+
+  post
+
+  couch'
+bip_39_word_new_line_11: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak
+
+  clump
+
+  post
+
+  couch
+
+  holiday'
+bip_39_word_new_line_12: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak
+
+  clump
+
+  post
+
+  couch
+
+  holiday
+
+  armed'
+bip_39_word_new_line_2: 'top
+
+  sense'
+bip_39_word_new_line_3: 'top
+
+  sense
+
+  win'
+bip_39_word_new_line_4: 'top
+
+  sense
+
+  win
+
+  omit'
+bip_39_word_new_line_5: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve'
+bip_39_word_new_line_6: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist'
+bip_39_word_new_line_7: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak'
+bip_39_word_new_line_8: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak
+
+  clump'
+bip_39_word_new_line_9: 'top
+
+  sense
+
+  win
+
+  omit
+
+  nerve
+
+  dentist
+
+  bleak
+
+  clump
+
+  post'
+bip_39_word_no_space_1: top
+bip_39_word_no_space_10: topsensewinomitnervedentistbleakclumppostcouch
+bip_39_word_no_space_11: topsensewinomitnervedentistbleakclumppostcouchholiday
+bip_39_word_no_space_12: topsensewinomitnervedentistbleakclumppostcouchholidayarmed
+bip_39_word_no_space_2: topsense
+bip_39_word_no_space_3: topsensewin
+bip_39_word_no_space_4: topsensewinomit
+bip_39_word_no_space_5: topsensewinomitnerve
+bip_39_word_no_space_6: topsensewinomitnervedentist
+bip_39_word_no_space_7: topsensewinomitnervedentistbleak
+bip_39_word_no_space_8: topsensewinomitnervedentistbleakclump
+bip_39_word_no_space_9: topsensewinomitnervedentistbleakclumppost
+bip_39_word_space_0:
+- top
+- sense
+- win
+- omit
+- nerve
+- dentist
+- bleak
+- clump
+- post
+- couch
+- holiday
+- armed
+bip_39_word_space_1: top
+bip_39_word_space_10: top sense win omit nerve dentist bleak clump post couch
+bip_39_word_space_11: top sense win omit nerve dentist bleak clump post couch holiday
+bip_39_word_space_12: top sense win omit nerve dentist bleak clump post couch holiday
+  armed
+bip_39_word_space_2: top sense
+bip_39_word_space_3: top sense win
+bip_39_word_space_4: top sense win omit
+bip_39_word_space_5: top sense win omit nerve
+bip_39_word_space_6: top sense win omit nerve dentist
+bip_39_word_space_7: top sense win omit nerve dentist bleak
+bip_39_word_space_8: top sense win omit nerve dentist bleak clump
+bip_39_word_space_9: top sense win omit nerve dentist bleak clump post
+bip_39_word_underscore_1: top
+bip_39_word_underscore_10: top_sense_win_omit_nerve_dentist_bleak_clump_post_couch
+bip_39_word_underscore_11: top_sense_win_omit_nerve_dentist_bleak_clump_post_couch_holiday
+bip_39_word_underscore_12: top_sense_win_omit_nerve_dentist_bleak_clump_post_couch_holiday_armed
+bip_39_word_underscore_2: top_sense
+bip_39_word_underscore_3: top_sense_win
+bip_39_word_underscore_4: top_sense_win_omit
+bip_39_word_underscore_5: top_sense_win_omit_nerve
+bip_39_word_underscore_6: top_sense_win_omit_nerve_dentist
+bip_39_word_underscore_7: top_sense_win_omit_nerve_dentist_bleak
+bip_39_word_underscore_8: top_sense_win_omit_nerve_dentist_bleak_clump
+bip_39_word_underscore_9: top_sense_win_omit_nerve_dentist_bleak_clump_post
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_03_08_90
 id_no_color: 030890
 id_no_size: 03_08_90
 id_no_type: tray_03_08_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_08_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_08_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207d9qk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207d9qk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207d9qk
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 030890
 name_no_size: 03 08 90
 name_no_size_short: 03 08 90
 name_no_type: Tray 03 08 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_08_90
 oomp_word: sushi bank pill
 oomp_word_emoji: ':sushi: :bank: :pill:'

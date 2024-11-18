@@ -1,3 +1,223 @@
+bip_39_word_dash_1: reward
+bip_39_word_dash_10: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic
+bip_39_word_dash_11: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic-purse
+bip_39_word_dash_12: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish-clinic-purse-atom
+bip_39_word_dash_2: reward-oil
+bip_39_word_dash_3: reward-oil-major
+bip_39_word_dash_4: reward-oil-major-suspect
+bip_39_word_dash_5: reward-oil-major-suspect-evolve
+bip_39_word_dash_6: reward-oil-major-suspect-evolve-pear
+bip_39_word_dash_7: reward-oil-major-suspect-evolve-pear-distance
+bip_39_word_dash_8: reward-oil-major-suspect-evolve-pear-distance-chapter
+bip_39_word_dash_9: reward-oil-major-suspect-evolve-pear-distance-chapter-vanish
+bip_39_word_new_br_1: reward
+bip_39_word_new_br_10: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish<br>clinic
+bip_39_word_new_br_11: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish<br>clinic<br>purse
+bip_39_word_new_br_12: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish<br>clinic<br>purse<br>atom
+bip_39_word_new_br_2: reward<br>oil
+bip_39_word_new_br_3: reward<br>oil<br>major
+bip_39_word_new_br_4: reward<br>oil<br>major<br>suspect
+bip_39_word_new_br_5: reward<br>oil<br>major<br>suspect<br>evolve
+bip_39_word_new_br_6: reward<br>oil<br>major<br>suspect<br>evolve<br>pear
+bip_39_word_new_br_7: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance
+bip_39_word_new_br_8: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter
+bip_39_word_new_br_9: reward<br>oil<br>major<br>suspect<br>evolve<br>pear<br>distance<br>chapter<br>vanish
+bip_39_word_new_line_1: reward
+bip_39_word_new_line_10: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance
+
+  chapter
+
+  vanish
+
+  clinic'
+bip_39_word_new_line_11: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance
+
+  chapter
+
+  vanish
+
+  clinic
+
+  purse'
+bip_39_word_new_line_12: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance
+
+  chapter
+
+  vanish
+
+  clinic
+
+  purse
+
+  atom'
+bip_39_word_new_line_2: 'reward
+
+  oil'
+bip_39_word_new_line_3: 'reward
+
+  oil
+
+  major'
+bip_39_word_new_line_4: 'reward
+
+  oil
+
+  major
+
+  suspect'
+bip_39_word_new_line_5: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve'
+bip_39_word_new_line_6: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear'
+bip_39_word_new_line_7: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance'
+bip_39_word_new_line_8: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance
+
+  chapter'
+bip_39_word_new_line_9: 'reward
+
+  oil
+
+  major
+
+  suspect
+
+  evolve
+
+  pear
+
+  distance
+
+  chapter
+
+  vanish'
+bip_39_word_no_space_1: reward
+bip_39_word_no_space_10: rewardoilmajorsuspectevolvepeardistancechaptervanishclinic
+bip_39_word_no_space_11: rewardoilmajorsuspectevolvepeardistancechaptervanishclinicpurse
+bip_39_word_no_space_12: rewardoilmajorsuspectevolvepeardistancechaptervanishclinicpurseatom
+bip_39_word_no_space_2: rewardoil
+bip_39_word_no_space_3: rewardoilmajor
+bip_39_word_no_space_4: rewardoilmajorsuspect
+bip_39_word_no_space_5: rewardoilmajorsuspectevolve
+bip_39_word_no_space_6: rewardoilmajorsuspectevolvepear
+bip_39_word_no_space_7: rewardoilmajorsuspectevolvepeardistance
+bip_39_word_no_space_8: rewardoilmajorsuspectevolvepeardistancechapter
+bip_39_word_no_space_9: rewardoilmajorsuspectevolvepeardistancechaptervanish
+bip_39_word_space_0:
+- reward
+- oil
+- major
+- suspect
+- evolve
+- pear
+- distance
+- chapter
+- vanish
+- clinic
+- purse
+- atom
+bip_39_word_space_1: reward
+bip_39_word_space_10: reward oil major suspect evolve pear distance chapter vanish
+  clinic
+bip_39_word_space_11: reward oil major suspect evolve pear distance chapter vanish
+  clinic purse
+bip_39_word_space_12: reward oil major suspect evolve pear distance chapter vanish
+  clinic purse atom
+bip_39_word_space_2: reward oil
+bip_39_word_space_3: reward oil major
+bip_39_word_space_4: reward oil major suspect
+bip_39_word_space_5: reward oil major suspect evolve
+bip_39_word_space_6: reward oil major suspect evolve pear
+bip_39_word_space_7: reward oil major suspect evolve pear distance
+bip_39_word_space_8: reward oil major suspect evolve pear distance chapter
+bip_39_word_space_9: reward oil major suspect evolve pear distance chapter vanish
+bip_39_word_underscore_1: reward
+bip_39_word_underscore_10: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic
+bip_39_word_underscore_11: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic_purse
+bip_39_word_underscore_12: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish_clinic_purse_atom
+bip_39_word_underscore_2: reward_oil
+bip_39_word_underscore_3: reward_oil_major
+bip_39_word_underscore_4: reward_oil_major_suspect
+bip_39_word_underscore_5: reward_oil_major_suspect_evolve
+bip_39_word_underscore_6: reward_oil_major_suspect_evolve_pear
+bip_39_word_underscore_7: reward_oil_major_suspect_evolve_pear_distance
+bip_39_word_underscore_8: reward_oil_major_suspect_evolve_pear_distance_chapter
+bip_39_word_underscore_9: reward_oil_major_suspect_evolve_pear_distance_chapter_vanish
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_07_03_21
 id_no_color: '070321'
 id_no_size: '07_03_21'
 id_no_type: tray_thin_07_03_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_03_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208y6fe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208y6fe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208y6fe
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '070321'
 name_no_size: 07 03 21
 name_no_size_short: 07 03 21
 name_no_type: Tray Thin 07 03 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_03_21
 oomp_word: rocket blowfish sleepy
 oomp_word_emoji: ':rocket: :blowfish: :sleepy:'

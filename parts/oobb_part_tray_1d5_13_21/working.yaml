@@ -1,3 +1,223 @@
+bip_39_word_dash_1: office
+bip_39_word_dash_10: office-tired-collect-stable-assist-advice-major-strategy-book-heart
+bip_39_word_dash_11: office-tired-collect-stable-assist-advice-major-strategy-book-heart-noble
+bip_39_word_dash_12: office-tired-collect-stable-assist-advice-major-strategy-book-heart-noble-alien
+bip_39_word_dash_2: office-tired
+bip_39_word_dash_3: office-tired-collect
+bip_39_word_dash_4: office-tired-collect-stable
+bip_39_word_dash_5: office-tired-collect-stable-assist
+bip_39_word_dash_6: office-tired-collect-stable-assist-advice
+bip_39_word_dash_7: office-tired-collect-stable-assist-advice-major
+bip_39_word_dash_8: office-tired-collect-stable-assist-advice-major-strategy
+bip_39_word_dash_9: office-tired-collect-stable-assist-advice-major-strategy-book
+bip_39_word_new_br_1: office
+bip_39_word_new_br_10: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart
+bip_39_word_new_br_11: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart<br>noble
+bip_39_word_new_br_12: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book<br>heart<br>noble<br>alien
+bip_39_word_new_br_2: office<br>tired
+bip_39_word_new_br_3: office<br>tired<br>collect
+bip_39_word_new_br_4: office<br>tired<br>collect<br>stable
+bip_39_word_new_br_5: office<br>tired<br>collect<br>stable<br>assist
+bip_39_word_new_br_6: office<br>tired<br>collect<br>stable<br>assist<br>advice
+bip_39_word_new_br_7: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major
+bip_39_word_new_br_8: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy
+bip_39_word_new_br_9: office<br>tired<br>collect<br>stable<br>assist<br>advice<br>major<br>strategy<br>book
+bip_39_word_new_line_1: office
+bip_39_word_new_line_10: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart'
+bip_39_word_new_line_11: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart
+
+  noble'
+bip_39_word_new_line_12: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book
+
+  heart
+
+  noble
+
+  alien'
+bip_39_word_new_line_2: 'office
+
+  tired'
+bip_39_word_new_line_3: 'office
+
+  tired
+
+  collect'
+bip_39_word_new_line_4: 'office
+
+  tired
+
+  collect
+
+  stable'
+bip_39_word_new_line_5: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist'
+bip_39_word_new_line_6: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice'
+bip_39_word_new_line_7: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major'
+bip_39_word_new_line_8: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy'
+bip_39_word_new_line_9: 'office
+
+  tired
+
+  collect
+
+  stable
+
+  assist
+
+  advice
+
+  major
+
+  strategy
+
+  book'
+bip_39_word_no_space_1: office
+bip_39_word_no_space_10: officetiredcollectstableassistadvicemajorstrategybookheart
+bip_39_word_no_space_11: officetiredcollectstableassistadvicemajorstrategybookheartnoble
+bip_39_word_no_space_12: officetiredcollectstableassistadvicemajorstrategybookheartnoblealien
+bip_39_word_no_space_2: officetired
+bip_39_word_no_space_3: officetiredcollect
+bip_39_word_no_space_4: officetiredcollectstable
+bip_39_word_no_space_5: officetiredcollectstableassist
+bip_39_word_no_space_6: officetiredcollectstableassistadvice
+bip_39_word_no_space_7: officetiredcollectstableassistadvicemajor
+bip_39_word_no_space_8: officetiredcollectstableassistadvicemajorstrategy
+bip_39_word_no_space_9: officetiredcollectstableassistadvicemajorstrategybook
+bip_39_word_space_0:
+- office
+- tired
+- collect
+- stable
+- assist
+- advice
+- major
+- strategy
+- book
+- heart
+- noble
+- alien
+bip_39_word_space_1: office
+bip_39_word_space_10: office tired collect stable assist advice major strategy book
+  heart
+bip_39_word_space_11: office tired collect stable assist advice major strategy book
+  heart noble
+bip_39_word_space_12: office tired collect stable assist advice major strategy book
+  heart noble alien
+bip_39_word_space_2: office tired
+bip_39_word_space_3: office tired collect
+bip_39_word_space_4: office tired collect stable
+bip_39_word_space_5: office tired collect stable assist
+bip_39_word_space_6: office tired collect stable assist advice
+bip_39_word_space_7: office tired collect stable assist advice major
+bip_39_word_space_8: office tired collect stable assist advice major strategy
+bip_39_word_space_9: office tired collect stable assist advice major strategy book
+bip_39_word_underscore_1: office
+bip_39_word_underscore_10: office_tired_collect_stable_assist_advice_major_strategy_book_heart
+bip_39_word_underscore_11: office_tired_collect_stable_assist_advice_major_strategy_book_heart_noble
+bip_39_word_underscore_12: office_tired_collect_stable_assist_advice_major_strategy_book_heart_noble_alien
+bip_39_word_underscore_2: office_tired
+bip_39_word_underscore_3: office_tired_collect
+bip_39_word_underscore_4: office_tired_collect_stable
+bip_39_word_underscore_5: office_tired_collect_stable_assist
+bip_39_word_underscore_6: office_tired_collect_stable_assist_advice
+bip_39_word_underscore_7: office_tired_collect_stable_assist_advice_major
+bip_39_word_underscore_8: office_tired_collect_stable_assist_advice_major_strategy
+bip_39_word_underscore_9: office_tired_collect_stable_assist_advice_major_strategy_book
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_13_21
 id_no_color: 1d51321
 id_no_size: 1d5_13_21
 id_no_type: tray_1d5_13_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_13_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_13_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203y3x6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203y3x6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203y3x6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D51321
 name_no_size: 1D5 13 21
 name_no_size_short: 1D5 13 21
 name_no_type: Tray 1D5 13 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_13_21
 oomp_word: maple_leaf cloud goat
 oomp_word_emoji: ':maple_leaf: :cloud: :goat:'

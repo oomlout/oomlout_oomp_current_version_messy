@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Dish Ikea Oftast White Bowl 110 mm Diameter Ikea 904 671 12
+* name_short: 
 ### id
 * oomp_id: dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
   * classification: dish
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ok: :fireworks: :apple:
 * md5_6_alpha: 9t7m0
 * md5_6: fb74c8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209t7m0)
+[2x1](http://192.168.1.242:1112/?label=oomp%209t7m0)
+[6x4](http://192.168.1.55:1112/?label=oomp%209t7m0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -305,7 +331,14 @@ movie |
 | id_no_color | ikeaoftastwhitebowl110mmdiameterikea90467112 |  
 | id_no_size | ikeaoftastwhitebowl110mmdiameterikea90467112 |  
 | id_no_type | ikeaoftastwhitebowl110mmdiameterikea90467112 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209t7m0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209t7m0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209t7m0 |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -354,6 +387,7 @@ movie |
 | name_no_size | Ikeaoftastwhitebowl110mmdiameterikea90467112 |  
 | name_no_size_short | Ikeaoftastwhitebowl110Mmdiameterikea90467112 |  
 | name_no_type | Ikeaoftastwhitebowl110mmdiameterikea90467112 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12 |  
 | oomp_word | ok fireworks apple |  
 | oomp_word_emoji | :ok: :fireworks: :apple: |  

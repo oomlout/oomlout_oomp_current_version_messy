@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tray Vertical 08 03 09
+* name_short: 
 ### id
 * oomp_id: oobb_part_tray_vertical_08_03_09
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :hamster: :eyeglasses: :rice:
 * md5_6_alpha: 23flp
 * md5_6: 35b3bd
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2023flp)
+[2x1](http://192.168.1.242:1112/?label=oomp%2023flp)
+[6x4](http://192.168.1.55:1112/?label=oomp%2023flp)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_03_09) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_03_09)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ sustain |
 | id_no_color | 080309 |  
 | id_no_size | 08_03_09 |  
 | id_no_type | tray_vertical_08_03_09 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_03_09 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_vertical_08_03_09 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_vertical_08_03_09 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2023flp |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2023flp |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2023flp |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ sustain |
 | name_no_size | 08 03 09 |  
 | name_no_size_short | 08 03 09 |  
 | name_no_type | Tray Vertical 08 03 09 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_08_03_09 |  
 | oomp_word | hamster eyeglasses rice |  
 | oomp_word_emoji | :hamster: :eyeglasses: :rice: |  

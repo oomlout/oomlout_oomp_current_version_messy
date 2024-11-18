@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6303 Size 17 mm ID 47 mm OD 14 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :bamboo: :sailboat: :sunny:
 * md5_6_alpha: 4fyuh
 * md5_6: 71e229
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204fyuh)
+[2x1](http://192.168.1.242:1112/?label=oomp%204fyuh)
+[6x4](http://192.168.1.55:1112/?label=oomp%204fyuh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ net |
 | id_no_color | 17_mm_id_47_mm_od_14_mm_depth |  
 | id_no_size | 6303_size_17_mm_id_47_mm_od_14_mm_depth |  
 | id_no_type | 6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204fyuh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204fyuh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204fyuh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ net |
 | name_no_size | 6303 Size 17 mm ID 47 mm OD 14 mm Depth |  
 | name_no_size_short | 6303 Size 17 Mm Id 47 Mm Od 14 Mm Depth |  
 | name_no_type | 6300 Series 6303 Size 17 mm ID 47 mm OD 14 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6303 |  
 | oomlout_short_code_upper | BR6303 |  
 | oomp_key | oomp_hardware_bearing_6300_series_6303_size_17_mm_id_47_mm_od_14_mm_depth |  

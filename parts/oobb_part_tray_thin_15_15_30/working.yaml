@@ -1,3 +1,223 @@
+bip_39_word_dash_1: swim
+bip_39_word_dash_10: swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early
+bip_39_word_dash_11: swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early-stem
+bip_39_word_dash_12: swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget-early-stem-address
+bip_39_word_dash_2: swim-slot
+bip_39_word_dash_3: swim-slot-stamp
+bip_39_word_dash_4: swim-slot-stamp-danger
+bip_39_word_dash_5: swim-slot-stamp-danger-decorate
+bip_39_word_dash_6: swim-slot-stamp-danger-decorate-tuition
+bip_39_word_dash_7: swim-slot-stamp-danger-decorate-tuition-gold
+bip_39_word_dash_8: swim-slot-stamp-danger-decorate-tuition-gold-priority
+bip_39_word_dash_9: swim-slot-stamp-danger-decorate-tuition-gold-priority-gadget
+bip_39_word_new_br_1: swim
+bip_39_word_new_br_10: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early
+bip_39_word_new_br_11: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem
+bip_39_word_new_br_12: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget<br>early<br>stem<br>address
+bip_39_word_new_br_2: swim<br>slot
+bip_39_word_new_br_3: swim<br>slot<br>stamp
+bip_39_word_new_br_4: swim<br>slot<br>stamp<br>danger
+bip_39_word_new_br_5: swim<br>slot<br>stamp<br>danger<br>decorate
+bip_39_word_new_br_6: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition
+bip_39_word_new_br_7: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold
+bip_39_word_new_br_8: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority
+bip_39_word_new_br_9: swim<br>slot<br>stamp<br>danger<br>decorate<br>tuition<br>gold<br>priority<br>gadget
+bip_39_word_new_line_1: swim
+bip_39_word_new_line_10: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold
+
+  priority
+
+  gadget
+
+  early'
+bip_39_word_new_line_11: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold
+
+  priority
+
+  gadget
+
+  early
+
+  stem'
+bip_39_word_new_line_12: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold
+
+  priority
+
+  gadget
+
+  early
+
+  stem
+
+  address'
+bip_39_word_new_line_2: 'swim
+
+  slot'
+bip_39_word_new_line_3: 'swim
+
+  slot
+
+  stamp'
+bip_39_word_new_line_4: 'swim
+
+  slot
+
+  stamp
+
+  danger'
+bip_39_word_new_line_5: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate'
+bip_39_word_new_line_6: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition'
+bip_39_word_new_line_7: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold'
+bip_39_word_new_line_8: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold
+
+  priority'
+bip_39_word_new_line_9: 'swim
+
+  slot
+
+  stamp
+
+  danger
+
+  decorate
+
+  tuition
+
+  gold
+
+  priority
+
+  gadget'
+bip_39_word_no_space_1: swim
+bip_39_word_no_space_10: swimslotstampdangerdecoratetuitiongoldprioritygadgetearly
+bip_39_word_no_space_11: swimslotstampdangerdecoratetuitiongoldprioritygadgetearlystem
+bip_39_word_no_space_12: swimslotstampdangerdecoratetuitiongoldprioritygadgetearlystemaddress
+bip_39_word_no_space_2: swimslot
+bip_39_word_no_space_3: swimslotstamp
+bip_39_word_no_space_4: swimslotstampdanger
+bip_39_word_no_space_5: swimslotstampdangerdecorate
+bip_39_word_no_space_6: swimslotstampdangerdecoratetuition
+bip_39_word_no_space_7: swimslotstampdangerdecoratetuitiongold
+bip_39_word_no_space_8: swimslotstampdangerdecoratetuitiongoldpriority
+bip_39_word_no_space_9: swimslotstampdangerdecoratetuitiongoldprioritygadget
+bip_39_word_space_0:
+- swim
+- slot
+- stamp
+- danger
+- decorate
+- tuition
+- gold
+- priority
+- gadget
+- early
+- stem
+- address
+bip_39_word_space_1: swim
+bip_39_word_space_10: swim slot stamp danger decorate tuition gold priority gadget
+  early
+bip_39_word_space_11: swim slot stamp danger decorate tuition gold priority gadget
+  early stem
+bip_39_word_space_12: swim slot stamp danger decorate tuition gold priority gadget
+  early stem address
+bip_39_word_space_2: swim slot
+bip_39_word_space_3: swim slot stamp
+bip_39_word_space_4: swim slot stamp danger
+bip_39_word_space_5: swim slot stamp danger decorate
+bip_39_word_space_6: swim slot stamp danger decorate tuition
+bip_39_word_space_7: swim slot stamp danger decorate tuition gold
+bip_39_word_space_8: swim slot stamp danger decorate tuition gold priority
+bip_39_word_space_9: swim slot stamp danger decorate tuition gold priority gadget
+bip_39_word_underscore_1: swim
+bip_39_word_underscore_10: swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early
+bip_39_word_underscore_11: swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early_stem
+bip_39_word_underscore_12: swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget_early_stem_address
+bip_39_word_underscore_2: swim_slot
+bip_39_word_underscore_3: swim_slot_stamp
+bip_39_word_underscore_4: swim_slot_stamp_danger
+bip_39_word_underscore_5: swim_slot_stamp_danger_decorate
+bip_39_word_underscore_6: swim_slot_stamp_danger_decorate_tuition
+bip_39_word_underscore_7: swim_slot_stamp_danger_decorate_tuition_gold
+bip_39_word_underscore_8: swim_slot_stamp_danger_decorate_tuition_gold_priority
+bip_39_word_underscore_9: swim_slot_stamp_danger_decorate_tuition_gold_priority_gadget
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_15_30
 id_no_color: '151530'
 id_no_size: '15_15_30'
 id_no_type: tray_thin_15_15_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_15_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_15_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_15_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20266xd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20266xd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20266xd
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '151530'
 name_no_size: 15 15 30
 name_no_size_short: 15 15 30
 name_no_type: Tray Thin 15 15 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_15_30
 oomp_word: wolf lipstick pushpin
 oomp_word_emoji: ':wolf: :lipstick: :pushpin:'

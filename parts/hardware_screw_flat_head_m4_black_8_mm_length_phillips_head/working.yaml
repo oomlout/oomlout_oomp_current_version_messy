@@ -1,3 +1,222 @@
+bip_39_word_dash_1: enlist
+bip_39_word_dash_10: enlist-casino-end-apple-cabbage-pluck-obtain-erase-error-panel
+bip_39_word_dash_11: enlist-casino-end-apple-cabbage-pluck-obtain-erase-error-panel-alone
+bip_39_word_dash_12: enlist-casino-end-apple-cabbage-pluck-obtain-erase-error-panel-alone-average
+bip_39_word_dash_2: enlist-casino
+bip_39_word_dash_3: enlist-casino-end
+bip_39_word_dash_4: enlist-casino-end-apple
+bip_39_word_dash_5: enlist-casino-end-apple-cabbage
+bip_39_word_dash_6: enlist-casino-end-apple-cabbage-pluck
+bip_39_word_dash_7: enlist-casino-end-apple-cabbage-pluck-obtain
+bip_39_word_dash_8: enlist-casino-end-apple-cabbage-pluck-obtain-erase
+bip_39_word_dash_9: enlist-casino-end-apple-cabbage-pluck-obtain-erase-error
+bip_39_word_new_br_1: enlist
+bip_39_word_new_br_10: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain<br>erase<br>error<br>panel
+bip_39_word_new_br_11: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain<br>erase<br>error<br>panel<br>alone
+bip_39_word_new_br_12: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain<br>erase<br>error<br>panel<br>alone<br>average
+bip_39_word_new_br_2: enlist<br>casino
+bip_39_word_new_br_3: enlist<br>casino<br>end
+bip_39_word_new_br_4: enlist<br>casino<br>end<br>apple
+bip_39_word_new_br_5: enlist<br>casino<br>end<br>apple<br>cabbage
+bip_39_word_new_br_6: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck
+bip_39_word_new_br_7: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain
+bip_39_word_new_br_8: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain<br>erase
+bip_39_word_new_br_9: enlist<br>casino<br>end<br>apple<br>cabbage<br>pluck<br>obtain<br>erase<br>error
+bip_39_word_new_line_1: enlist
+bip_39_word_new_line_10: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain
+
+  erase
+
+  error
+
+  panel'
+bip_39_word_new_line_11: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain
+
+  erase
+
+  error
+
+  panel
+
+  alone'
+bip_39_word_new_line_12: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain
+
+  erase
+
+  error
+
+  panel
+
+  alone
+
+  average'
+bip_39_word_new_line_2: 'enlist
+
+  casino'
+bip_39_word_new_line_3: 'enlist
+
+  casino
+
+  end'
+bip_39_word_new_line_4: 'enlist
+
+  casino
+
+  end
+
+  apple'
+bip_39_word_new_line_5: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage'
+bip_39_word_new_line_6: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck'
+bip_39_word_new_line_7: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain'
+bip_39_word_new_line_8: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain
+
+  erase'
+bip_39_word_new_line_9: 'enlist
+
+  casino
+
+  end
+
+  apple
+
+  cabbage
+
+  pluck
+
+  obtain
+
+  erase
+
+  error'
+bip_39_word_no_space_1: enlist
+bip_39_word_no_space_10: enlistcasinoendapplecabbagepluckobtaineraseerrorpanel
+bip_39_word_no_space_11: enlistcasinoendapplecabbagepluckobtaineraseerrorpanelalone
+bip_39_word_no_space_12: enlistcasinoendapplecabbagepluckobtaineraseerrorpanelaloneaverage
+bip_39_word_no_space_2: enlistcasino
+bip_39_word_no_space_3: enlistcasinoend
+bip_39_word_no_space_4: enlistcasinoendapple
+bip_39_word_no_space_5: enlistcasinoendapplecabbage
+bip_39_word_no_space_6: enlistcasinoendapplecabbagepluck
+bip_39_word_no_space_7: enlistcasinoendapplecabbagepluckobtain
+bip_39_word_no_space_8: enlistcasinoendapplecabbagepluckobtainerase
+bip_39_word_no_space_9: enlistcasinoendapplecabbagepluckobtaineraseerror
+bip_39_word_space_0:
+- enlist
+- casino
+- end
+- apple
+- cabbage
+- pluck
+- obtain
+- erase
+- error
+- panel
+- alone
+- average
+bip_39_word_space_1: enlist
+bip_39_word_space_10: enlist casino end apple cabbage pluck obtain erase error panel
+bip_39_word_space_11: enlist casino end apple cabbage pluck obtain erase error panel
+  alone
+bip_39_word_space_12: enlist casino end apple cabbage pluck obtain erase error panel
+  alone average
+bip_39_word_space_2: enlist casino
+bip_39_word_space_3: enlist casino end
+bip_39_word_space_4: enlist casino end apple
+bip_39_word_space_5: enlist casino end apple cabbage
+bip_39_word_space_6: enlist casino end apple cabbage pluck
+bip_39_word_space_7: enlist casino end apple cabbage pluck obtain
+bip_39_word_space_8: enlist casino end apple cabbage pluck obtain erase
+bip_39_word_space_9: enlist casino end apple cabbage pluck obtain erase error
+bip_39_word_underscore_1: enlist
+bip_39_word_underscore_10: enlist_casino_end_apple_cabbage_pluck_obtain_erase_error_panel
+bip_39_word_underscore_11: enlist_casino_end_apple_cabbage_pluck_obtain_erase_error_panel_alone
+bip_39_word_underscore_12: enlist_casino_end_apple_cabbage_pluck_obtain_erase_error_panel_alone_average
+bip_39_word_underscore_2: enlist_casino
+bip_39_word_underscore_3: enlist_casino_end
+bip_39_word_underscore_4: enlist_casino_end_apple
+bip_39_word_underscore_5: enlist_casino_end_apple_cabbage
+bip_39_word_underscore_6: enlist_casino_end_apple_cabbage_pluck
+bip_39_word_underscore_7: enlist_casino_end_apple_cabbage_pluck_obtain
+bip_39_word_underscore_8: enlist_casino_end_apple_cabbage_pluck_obtain_erase
+bip_39_word_underscore_9: enlist_casino_end_apple_cabbage_pluck_obtain_erase_error
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 8_mm_length_phillips_head
 id_no_size: black_8_mm_length_phillips_head
 id_no_type: m4_black_8_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_8_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m4_black_8_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m4_black_8_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209u1uv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209u1uv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209u1uv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 8 mm Length Phillips Head
 name_no_size: Black 8 mm Length Phillips Head
 name_no_size_short: Black 8 Mm Length Phillips Head
 name_no_type: M4 Black 8 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 8 mm
+oomlout_bolt_length_no_unit: '8'
+oomlout_bolt_md5_6_alpha_first_3: 9u1
+oomlout_bolt_md5_6_alpha_first_3_upper: 9U1
+oomlout_bolt_md5_6_alpha_last_3: uv
+oomlout_bolt_md5_6_alpha_last_3_upper: UV
+oomlout_bolt_md5_6_first_3: fc0
+oomlout_bolt_md5_6_first_3_upper: FC0
+oomlout_bolt_md5_6_last_3: de7
+oomlout_bolt_md5_6_last_3_upper: DE7
+oomlout_bolt_name: Flat Head M4X8 mm Black (Phillips)
+oomlout_bolt_size: M4
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh4b8p
+oomlout_short_code_upper: FH4B8P
 oomp_key: oomp_hardware_screw_flat_head_m4_black_8_mm_length_phillips_head
 oomp_word: up heart helicopter
 oomp_word_emoji: ':up: :heart: :helicopter:'

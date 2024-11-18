@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6300 Series 6313 Size 65 mm ID 140 mm OD 33 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6300_series_6313_size_65_mm_id_140_mm_od_33_mm_depth
   * classification: hardware

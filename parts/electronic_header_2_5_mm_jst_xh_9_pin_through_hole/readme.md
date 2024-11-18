@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Header 2 5 mm Jst Xh 9 Pin Through Hole
+* name_short: 
 ### id
 * oomp_id: electronic_header_2_5_mm_jst_xh_9_pin_through_hole
   * classification: electronic

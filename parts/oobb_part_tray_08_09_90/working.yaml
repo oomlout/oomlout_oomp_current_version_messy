@@ -1,3 +1,221 @@
+bip_39_word_dash_1: digital
+bip_39_word_dash_10: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge
+bip_39_word_dash_11: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge-adjust
+bip_39_word_dash_12: digital-toss-cement-mix-calm-enter-love-napkin-cage-charge-adjust-abstract
+bip_39_word_dash_2: digital-toss
+bip_39_word_dash_3: digital-toss-cement
+bip_39_word_dash_4: digital-toss-cement-mix
+bip_39_word_dash_5: digital-toss-cement-mix-calm
+bip_39_word_dash_6: digital-toss-cement-mix-calm-enter
+bip_39_word_dash_7: digital-toss-cement-mix-calm-enter-love
+bip_39_word_dash_8: digital-toss-cement-mix-calm-enter-love-napkin
+bip_39_word_dash_9: digital-toss-cement-mix-calm-enter-love-napkin-cage
+bip_39_word_new_br_1: digital
+bip_39_word_new_br_10: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge
+bip_39_word_new_br_11: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge<br>adjust
+bip_39_word_new_br_12: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage<br>charge<br>adjust<br>abstract
+bip_39_word_new_br_2: digital<br>toss
+bip_39_word_new_br_3: digital<br>toss<br>cement
+bip_39_word_new_br_4: digital<br>toss<br>cement<br>mix
+bip_39_word_new_br_5: digital<br>toss<br>cement<br>mix<br>calm
+bip_39_word_new_br_6: digital<br>toss<br>cement<br>mix<br>calm<br>enter
+bip_39_word_new_br_7: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love
+bip_39_word_new_br_8: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin
+bip_39_word_new_br_9: digital<br>toss<br>cement<br>mix<br>calm<br>enter<br>love<br>napkin<br>cage
+bip_39_word_new_line_1: digital
+bip_39_word_new_line_10: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love
+
+  napkin
+
+  cage
+
+  charge'
+bip_39_word_new_line_11: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love
+
+  napkin
+
+  cage
+
+  charge
+
+  adjust'
+bip_39_word_new_line_12: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love
+
+  napkin
+
+  cage
+
+  charge
+
+  adjust
+
+  abstract'
+bip_39_word_new_line_2: 'digital
+
+  toss'
+bip_39_word_new_line_3: 'digital
+
+  toss
+
+  cement'
+bip_39_word_new_line_4: 'digital
+
+  toss
+
+  cement
+
+  mix'
+bip_39_word_new_line_5: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm'
+bip_39_word_new_line_6: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter'
+bip_39_word_new_line_7: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love'
+bip_39_word_new_line_8: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love
+
+  napkin'
+bip_39_word_new_line_9: 'digital
+
+  toss
+
+  cement
+
+  mix
+
+  calm
+
+  enter
+
+  love
+
+  napkin
+
+  cage'
+bip_39_word_no_space_1: digital
+bip_39_word_no_space_10: digitaltosscementmixcalmenterlovenapkincagecharge
+bip_39_word_no_space_11: digitaltosscementmixcalmenterlovenapkincagechargeadjust
+bip_39_word_no_space_12: digitaltosscementmixcalmenterlovenapkincagechargeadjustabstract
+bip_39_word_no_space_2: digitaltoss
+bip_39_word_no_space_3: digitaltosscement
+bip_39_word_no_space_4: digitaltosscementmix
+bip_39_word_no_space_5: digitaltosscementmixcalm
+bip_39_word_no_space_6: digitaltosscementmixcalmenter
+bip_39_word_no_space_7: digitaltosscementmixcalmenterlove
+bip_39_word_no_space_8: digitaltosscementmixcalmenterlovenapkin
+bip_39_word_no_space_9: digitaltosscementmixcalmenterlovenapkincage
+bip_39_word_space_0:
+- digital
+- toss
+- cement
+- mix
+- calm
+- enter
+- love
+- napkin
+- cage
+- charge
+- adjust
+- abstract
+bip_39_word_space_1: digital
+bip_39_word_space_10: digital toss cement mix calm enter love napkin cage charge
+bip_39_word_space_11: digital toss cement mix calm enter love napkin cage charge adjust
+bip_39_word_space_12: digital toss cement mix calm enter love napkin cage charge adjust
+  abstract
+bip_39_word_space_2: digital toss
+bip_39_word_space_3: digital toss cement
+bip_39_word_space_4: digital toss cement mix
+bip_39_word_space_5: digital toss cement mix calm
+bip_39_word_space_6: digital toss cement mix calm enter
+bip_39_word_space_7: digital toss cement mix calm enter love
+bip_39_word_space_8: digital toss cement mix calm enter love napkin
+bip_39_word_space_9: digital toss cement mix calm enter love napkin cage
+bip_39_word_underscore_1: digital
+bip_39_word_underscore_10: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge
+bip_39_word_underscore_11: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge_adjust
+bip_39_word_underscore_12: digital_toss_cement_mix_calm_enter_love_napkin_cage_charge_adjust_abstract
+bip_39_word_underscore_2: digital_toss
+bip_39_word_underscore_3: digital_toss_cement
+bip_39_word_underscore_4: digital_toss_cement_mix
+bip_39_word_underscore_5: digital_toss_cement_mix_calm
+bip_39_word_underscore_6: digital_toss_cement_mix_calm_enter
+bip_39_word_underscore_7: digital_toss_cement_mix_calm_enter_love
+bip_39_word_underscore_8: digital_toss_cement_mix_calm_enter_love_napkin
+bip_39_word_underscore_9: digital_toss_cement_mix_calm_enter_love_napkin_cage
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_08_09_90
 id_no_color: 080990
 id_no_size: 08_09_90
 id_no_type: tray_08_09_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_09_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_09_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20jpc9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20jpc9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20jpc9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 080990
 name_no_size: 08 09 90
 name_no_size_short: 08 09 90
 name_no_type: Tray 08 09 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_09_90
 oomp_word: cupid cry angry
 oomp_word_emoji: ':cupid: :cry: :angry:'

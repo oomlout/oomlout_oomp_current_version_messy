@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lunch
+bip_39_word_dash_10: lunch-change-engine-enhance-bronze-employ-drama-coin-second-cook
+bip_39_word_dash_11: lunch-change-engine-enhance-bronze-employ-drama-coin-second-cook-keep
+bip_39_word_dash_12: lunch-change-engine-enhance-bronze-employ-drama-coin-second-cook-keep-alien
+bip_39_word_dash_2: lunch-change
+bip_39_word_dash_3: lunch-change-engine
+bip_39_word_dash_4: lunch-change-engine-enhance
+bip_39_word_dash_5: lunch-change-engine-enhance-bronze
+bip_39_word_dash_6: lunch-change-engine-enhance-bronze-employ
+bip_39_word_dash_7: lunch-change-engine-enhance-bronze-employ-drama
+bip_39_word_dash_8: lunch-change-engine-enhance-bronze-employ-drama-coin
+bip_39_word_dash_9: lunch-change-engine-enhance-bronze-employ-drama-coin-second
+bip_39_word_new_br_1: lunch
+bip_39_word_new_br_10: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama<br>coin<br>second<br>cook
+bip_39_word_new_br_11: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama<br>coin<br>second<br>cook<br>keep
+bip_39_word_new_br_12: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama<br>coin<br>second<br>cook<br>keep<br>alien
+bip_39_word_new_br_2: lunch<br>change
+bip_39_word_new_br_3: lunch<br>change<br>engine
+bip_39_word_new_br_4: lunch<br>change<br>engine<br>enhance
+bip_39_word_new_br_5: lunch<br>change<br>engine<br>enhance<br>bronze
+bip_39_word_new_br_6: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ
+bip_39_word_new_br_7: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama
+bip_39_word_new_br_8: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama<br>coin
+bip_39_word_new_br_9: lunch<br>change<br>engine<br>enhance<br>bronze<br>employ<br>drama<br>coin<br>second
+bip_39_word_new_line_1: lunch
+bip_39_word_new_line_10: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama
+
+  coin
+
+  second
+
+  cook'
+bip_39_word_new_line_11: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama
+
+  coin
+
+  second
+
+  cook
+
+  keep'
+bip_39_word_new_line_12: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama
+
+  coin
+
+  second
+
+  cook
+
+  keep
+
+  alien'
+bip_39_word_new_line_2: 'lunch
+
+  change'
+bip_39_word_new_line_3: 'lunch
+
+  change
+
+  engine'
+bip_39_word_new_line_4: 'lunch
+
+  change
+
+  engine
+
+  enhance'
+bip_39_word_new_line_5: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze'
+bip_39_word_new_line_6: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ'
+bip_39_word_new_line_7: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama'
+bip_39_word_new_line_8: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama
+
+  coin'
+bip_39_word_new_line_9: 'lunch
+
+  change
+
+  engine
+
+  enhance
+
+  bronze
+
+  employ
+
+  drama
+
+  coin
+
+  second'
+bip_39_word_no_space_1: lunch
+bip_39_word_no_space_10: lunchchangeengineenhancebronzeemploydramacoinsecondcook
+bip_39_word_no_space_11: lunchchangeengineenhancebronzeemploydramacoinsecondcookkeep
+bip_39_word_no_space_12: lunchchangeengineenhancebronzeemploydramacoinsecondcookkeepalien
+bip_39_word_no_space_2: lunchchange
+bip_39_word_no_space_3: lunchchangeengine
+bip_39_word_no_space_4: lunchchangeengineenhance
+bip_39_word_no_space_5: lunchchangeengineenhancebronze
+bip_39_word_no_space_6: lunchchangeengineenhancebronzeemploy
+bip_39_word_no_space_7: lunchchangeengineenhancebronzeemploydrama
+bip_39_word_no_space_8: lunchchangeengineenhancebronzeemploydramacoin
+bip_39_word_no_space_9: lunchchangeengineenhancebronzeemploydramacoinsecond
+bip_39_word_space_0:
+- lunch
+- change
+- engine
+- enhance
+- bronze
+- employ
+- drama
+- coin
+- second
+- cook
+- keep
+- alien
+bip_39_word_space_1: lunch
+bip_39_word_space_10: lunch change engine enhance bronze employ drama coin second
+  cook
+bip_39_word_space_11: lunch change engine enhance bronze employ drama coin second
+  cook keep
+bip_39_word_space_12: lunch change engine enhance bronze employ drama coin second
+  cook keep alien
+bip_39_word_space_2: lunch change
+bip_39_word_space_3: lunch change engine
+bip_39_word_space_4: lunch change engine enhance
+bip_39_word_space_5: lunch change engine enhance bronze
+bip_39_word_space_6: lunch change engine enhance bronze employ
+bip_39_word_space_7: lunch change engine enhance bronze employ drama
+bip_39_word_space_8: lunch change engine enhance bronze employ drama coin
+bip_39_word_space_9: lunch change engine enhance bronze employ drama coin second
+bip_39_word_underscore_1: lunch
+bip_39_word_underscore_10: lunch_change_engine_enhance_bronze_employ_drama_coin_second_cook
+bip_39_word_underscore_11: lunch_change_engine_enhance_bronze_employ_drama_coin_second_cook_keep
+bip_39_word_underscore_12: lunch_change_engine_enhance_bronze_employ_drama_coin_second_cook_keep_alien
+bip_39_word_underscore_2: lunch_change
+bip_39_word_underscore_3: lunch_change_engine
+bip_39_word_underscore_4: lunch_change_engine_enhance
+bip_39_word_underscore_5: lunch_change_engine_enhance_bronze
+bip_39_word_underscore_6: lunch_change_engine_enhance_bronze_employ
+bip_39_word_underscore_7: lunch_change_engine_enhance_bronze_employ_drama
+bip_39_word_underscore_8: lunch_change_engine_enhance_bronze_employ_drama_coin
+bip_39_word_underscore_9: lunch_change_engine_enhance_bronze_employ_drama_coin_second
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +353,14 @@ id_no_color: 14_mm_length_hex_head
 id_no_size: black_14_mm_length_hex_head
 id_no_type: m6_black_14_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_14_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m6_black_14_mm_length_hex_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_14_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203xswb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203xswb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203xswb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +386,26 @@ name_no_color: 14 mm Length Hex Head
 name_no_size: Black 14 mm Length Hex Head
 name_no_size_short: Black 14 Mm Length Hex Head
 name_no_type: M6 Black 14 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 14 mm
+oomlout_bolt_length_no_unit: '14'
+oomlout_bolt_md5_6_alpha_first_3: 3xs
+oomlout_bolt_md5_6_alpha_first_3_upper: 3XS
+oomlout_bolt_md5_6_alpha_last_3: wb
+oomlout_bolt_md5_6_alpha_last_3_upper: WB
+oomlout_bolt_md5_6_first_3: 64f
+oomlout_bolt_md5_6_first_3_upper: 64F
+oomlout_bolt_md5_6_last_3: 38b
+oomlout_bolt_md5_6_last_3_upper: 38B
+oomlout_bolt_name: Flat Head M6X14 mm Black (Hex Head)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh6b14h
+oomlout_short_code_upper: FH6B14H
 oomp_key: oomp_hardware_screw_flat_head_m6_black_14_mm_length_hex_head
 oomp_word: sunflower two door
 oomp_word_emoji: ':sunflower: :two: :door:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: armed
+bip_39_word_dash_10: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire
+bip_39_word_dash_11: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire-room
+bip_39_word_dash_12: armed-flavor-brand-humble-drift-mango-ugly-soda-toy-fire-room-account
+bip_39_word_dash_2: armed-flavor
+bip_39_word_dash_3: armed-flavor-brand
+bip_39_word_dash_4: armed-flavor-brand-humble
+bip_39_word_dash_5: armed-flavor-brand-humble-drift
+bip_39_word_dash_6: armed-flavor-brand-humble-drift-mango
+bip_39_word_dash_7: armed-flavor-brand-humble-drift-mango-ugly
+bip_39_word_dash_8: armed-flavor-brand-humble-drift-mango-ugly-soda
+bip_39_word_dash_9: armed-flavor-brand-humble-drift-mango-ugly-soda-toy
+bip_39_word_new_br_1: armed
+bip_39_word_new_br_10: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire
+bip_39_word_new_br_11: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire<br>room
+bip_39_word_new_br_12: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy<br>fire<br>room<br>account
+bip_39_word_new_br_2: armed<br>flavor
+bip_39_word_new_br_3: armed<br>flavor<br>brand
+bip_39_word_new_br_4: armed<br>flavor<br>brand<br>humble
+bip_39_word_new_br_5: armed<br>flavor<br>brand<br>humble<br>drift
+bip_39_word_new_br_6: armed<br>flavor<br>brand<br>humble<br>drift<br>mango
+bip_39_word_new_br_7: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly
+bip_39_word_new_br_8: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda
+bip_39_word_new_br_9: armed<br>flavor<br>brand<br>humble<br>drift<br>mango<br>ugly<br>soda<br>toy
+bip_39_word_new_line_1: armed
+bip_39_word_new_line_10: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly
+
+  soda
+
+  toy
+
+  fire'
+bip_39_word_new_line_11: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly
+
+  soda
+
+  toy
+
+  fire
+
+  room'
+bip_39_word_new_line_12: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly
+
+  soda
+
+  toy
+
+  fire
+
+  room
+
+  account'
+bip_39_word_new_line_2: 'armed
+
+  flavor'
+bip_39_word_new_line_3: 'armed
+
+  flavor
+
+  brand'
+bip_39_word_new_line_4: 'armed
+
+  flavor
+
+  brand
+
+  humble'
+bip_39_word_new_line_5: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift'
+bip_39_word_new_line_6: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango'
+bip_39_word_new_line_7: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly'
+bip_39_word_new_line_8: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly
+
+  soda'
+bip_39_word_new_line_9: 'armed
+
+  flavor
+
+  brand
+
+  humble
+
+  drift
+
+  mango
+
+  ugly
+
+  soda
+
+  toy'
+bip_39_word_no_space_1: armed
+bip_39_word_no_space_10: armedflavorbrandhumbledriftmangouglysodatoyfire
+bip_39_word_no_space_11: armedflavorbrandhumbledriftmangouglysodatoyfireroom
+bip_39_word_no_space_12: armedflavorbrandhumbledriftmangouglysodatoyfireroomaccount
+bip_39_word_no_space_2: armedflavor
+bip_39_word_no_space_3: armedflavorbrand
+bip_39_word_no_space_4: armedflavorbrandhumble
+bip_39_word_no_space_5: armedflavorbrandhumbledrift
+bip_39_word_no_space_6: armedflavorbrandhumbledriftmango
+bip_39_word_no_space_7: armedflavorbrandhumbledriftmangougly
+bip_39_word_no_space_8: armedflavorbrandhumbledriftmangouglysoda
+bip_39_word_no_space_9: armedflavorbrandhumbledriftmangouglysodatoy
+bip_39_word_space_0:
+- armed
+- flavor
+- brand
+- humble
+- drift
+- mango
+- ugly
+- soda
+- toy
+- fire
+- room
+- account
+bip_39_word_space_1: armed
+bip_39_word_space_10: armed flavor brand humble drift mango ugly soda toy fire
+bip_39_word_space_11: armed flavor brand humble drift mango ugly soda toy fire room
+bip_39_word_space_12: armed flavor brand humble drift mango ugly soda toy fire room
+  account
+bip_39_word_space_2: armed flavor
+bip_39_word_space_3: armed flavor brand
+bip_39_word_space_4: armed flavor brand humble
+bip_39_word_space_5: armed flavor brand humble drift
+bip_39_word_space_6: armed flavor brand humble drift mango
+bip_39_word_space_7: armed flavor brand humble drift mango ugly
+bip_39_word_space_8: armed flavor brand humble drift mango ugly soda
+bip_39_word_space_9: armed flavor brand humble drift mango ugly soda toy
+bip_39_word_underscore_1: armed
+bip_39_word_underscore_10: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire
+bip_39_word_underscore_11: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire_room
+bip_39_word_underscore_12: armed_flavor_brand_humble_drift_mango_ugly_soda_toy_fire_room_account
+bip_39_word_underscore_2: armed_flavor
+bip_39_word_underscore_3: armed_flavor_brand
+bip_39_word_underscore_4: armed_flavor_brand_humble
+bip_39_word_underscore_5: armed_flavor_brand_humble_drift
+bip_39_word_underscore_6: armed_flavor_brand_humble_drift_mango
+bip_39_word_underscore_7: armed_flavor_brand_humble_drift_mango_ugly
+bip_39_word_underscore_8: armed_flavor_brand_humble_drift_mango_ugly_soda
+bip_39_word_underscore_9: armed_flavor_brand_humble_drift_mango_ugly_soda_toy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_12_09_90
 id_no_color: '120990'
 id_no_size: '12_09_90'
 id_no_type: tray_thin_12_09_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_09_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_09_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_09_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20zrv9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20zrv9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20zrv9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '120990'
 name_no_size: 12 09 90
 name_no_size_short: 12 09 90
 name_no_type: Tray Thin 12 09 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_09_90
 oomp_word: pray gift house
 oomp_word_emoji: ':pray: :gift: :house:'

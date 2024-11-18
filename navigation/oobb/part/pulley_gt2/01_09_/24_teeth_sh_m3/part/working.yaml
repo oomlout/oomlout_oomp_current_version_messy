@@ -325,7 +325,14 @@ id_no_class: part_pulley_gt2_01_09__24_teeth_sh_m3
 id_no_color: 010924teethshm3
 id_no_size: 01_09__24_teeth_sh_m3
 id_no_type: pulley_gt2_01_09__24_teeth_sh_m3
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__24_teeth_sh_m3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__24_teeth_sh_m3
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__24_teeth_sh_m3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208k88v
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208k88v
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208k88v
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -351,6 +358,7 @@ name_no_color: 010924Teethshm3
 name_no_size: 01 09  24 Teeth Sh M3
 name_no_size_short: 01 09  24 Teeth Sh M3
 name_no_type: Pulley Gt2 01 09  24 Teeth Sh M3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__24_teeth_sh_m3
 oomp_word: tent new_moon egg
 oomp_word_emoji: ':tent: :new_moon: :egg:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: venture
+bip_39_word_dash_10: venture-scatter-donkey-outer-network-piano-document-hello-palm-news
+bip_39_word_dash_11: venture-scatter-donkey-outer-network-piano-document-hello-palm-news-recipe
+bip_39_word_dash_12: venture-scatter-donkey-outer-network-piano-document-hello-palm-news-recipe-angry
+bip_39_word_dash_2: venture-scatter
+bip_39_word_dash_3: venture-scatter-donkey
+bip_39_word_dash_4: venture-scatter-donkey-outer
+bip_39_word_dash_5: venture-scatter-donkey-outer-network
+bip_39_word_dash_6: venture-scatter-donkey-outer-network-piano
+bip_39_word_dash_7: venture-scatter-donkey-outer-network-piano-document
+bip_39_word_dash_8: venture-scatter-donkey-outer-network-piano-document-hello
+bip_39_word_dash_9: venture-scatter-donkey-outer-network-piano-document-hello-palm
+bip_39_word_new_br_1: venture
+bip_39_word_new_br_10: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news
+bip_39_word_new_br_11: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news<br>recipe
+bip_39_word_new_br_12: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm<br>news<br>recipe<br>angry
+bip_39_word_new_br_2: venture<br>scatter
+bip_39_word_new_br_3: venture<br>scatter<br>donkey
+bip_39_word_new_br_4: venture<br>scatter<br>donkey<br>outer
+bip_39_word_new_br_5: venture<br>scatter<br>donkey<br>outer<br>network
+bip_39_word_new_br_6: venture<br>scatter<br>donkey<br>outer<br>network<br>piano
+bip_39_word_new_br_7: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document
+bip_39_word_new_br_8: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello
+bip_39_word_new_br_9: venture<br>scatter<br>donkey<br>outer<br>network<br>piano<br>document<br>hello<br>palm
+bip_39_word_new_line_1: venture
+bip_39_word_new_line_10: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document
+
+  hello
+
+  palm
+
+  news'
+bip_39_word_new_line_11: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document
+
+  hello
+
+  palm
+
+  news
+
+  recipe'
+bip_39_word_new_line_12: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document
+
+  hello
+
+  palm
+
+  news
+
+  recipe
+
+  angry'
+bip_39_word_new_line_2: 'venture
+
+  scatter'
+bip_39_word_new_line_3: 'venture
+
+  scatter
+
+  donkey'
+bip_39_word_new_line_4: 'venture
+
+  scatter
+
+  donkey
+
+  outer'
+bip_39_word_new_line_5: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network'
+bip_39_word_new_line_6: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano'
+bip_39_word_new_line_7: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document'
+bip_39_word_new_line_8: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document
+
+  hello'
+bip_39_word_new_line_9: 'venture
+
+  scatter
+
+  donkey
+
+  outer
+
+  network
+
+  piano
+
+  document
+
+  hello
+
+  palm'
+bip_39_word_no_space_1: venture
+bip_39_word_no_space_10: venturescatterdonkeyouternetworkpianodocumenthellopalmnews
+bip_39_word_no_space_11: venturescatterdonkeyouternetworkpianodocumenthellopalmnewsrecipe
+bip_39_word_no_space_12: venturescatterdonkeyouternetworkpianodocumenthellopalmnewsrecipeangry
+bip_39_word_no_space_2: venturescatter
+bip_39_word_no_space_3: venturescatterdonkey
+bip_39_word_no_space_4: venturescatterdonkeyouter
+bip_39_word_no_space_5: venturescatterdonkeyouternetwork
+bip_39_word_no_space_6: venturescatterdonkeyouternetworkpiano
+bip_39_word_no_space_7: venturescatterdonkeyouternetworkpianodocument
+bip_39_word_no_space_8: venturescatterdonkeyouternetworkpianodocumenthello
+bip_39_word_no_space_9: venturescatterdonkeyouternetworkpianodocumenthellopalm
+bip_39_word_space_0:
+- venture
+- scatter
+- donkey
+- outer
+- network
+- piano
+- document
+- hello
+- palm
+- news
+- recipe
+- angry
+bip_39_word_space_1: venture
+bip_39_word_space_10: venture scatter donkey outer network piano document hello palm
+  news
+bip_39_word_space_11: venture scatter donkey outer network piano document hello palm
+  news recipe
+bip_39_word_space_12: venture scatter donkey outer network piano document hello palm
+  news recipe angry
+bip_39_word_space_2: venture scatter
+bip_39_word_space_3: venture scatter donkey
+bip_39_word_space_4: venture scatter donkey outer
+bip_39_word_space_5: venture scatter donkey outer network
+bip_39_word_space_6: venture scatter donkey outer network piano
+bip_39_word_space_7: venture scatter donkey outer network piano document
+bip_39_word_space_8: venture scatter donkey outer network piano document hello
+bip_39_word_space_9: venture scatter donkey outer network piano document hello palm
+bip_39_word_underscore_1: venture
+bip_39_word_underscore_10: venture_scatter_donkey_outer_network_piano_document_hello_palm_news
+bip_39_word_underscore_11: venture_scatter_donkey_outer_network_piano_document_hello_palm_news_recipe
+bip_39_word_underscore_12: venture_scatter_donkey_outer_network_piano_document_hello_palm_news_recipe_angry
+bip_39_word_underscore_2: venture_scatter
+bip_39_word_underscore_3: venture_scatter_donkey
+bip_39_word_underscore_4: venture_scatter_donkey_outer
+bip_39_word_underscore_5: venture_scatter_donkey_outer_network
+bip_39_word_underscore_6: venture_scatter_donkey_outer_network_piano
+bip_39_word_underscore_7: venture_scatter_donkey_outer_network_piano_document
+bip_39_word_underscore_8: venture_scatter_donkey_outer_network_piano_document_hello
+bip_39_word_underscore_9: venture_scatter_donkey_outer_network_piano_document_hello_palm
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -108,7 +328,14 @@ id_no_class: bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
 id_no_color: 85_mm_id_130_mm_od_14_mm_depth
 id_no_size: 16017_size_85_mm_id_130_mm_od_14_mm_depth
 id_no_type: 16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205lfmt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205lfmt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205lfmt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -134,6 +361,9 @@ name_no_color: 85 mm ID 130 mm OD 14 mm Depth
 name_no_size: 16017 Size 85 mm ID 130 mm OD 14 mm Depth
 name_no_size_short: 16017 Size 85 Mm Id 130 Mm Od 14 Mm Depth
 name_no_type: 16000 Series 16017 Size 85 mm ID 130 mm OD 14 mm Depth
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br16017
+oomlout_short_code_upper: BR16017
 oomp_key: oomp_hardware_bearing_16000_series_16017_size_85_mm_id_130_mm_od_14_mm_depth
 oomp_word: calendar herb maple_leaf
 oomp_word_emoji: ':calendar: :herb: :maple_leaf:'

@@ -1,4 +1,224 @@
 barcode_manufacturer_metalmate: '5050420696258'
+bip_39_word_dash_1: deer
+bip_39_word_dash_10: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm
+bip_39_word_dash_11: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm-tenant
+bip_39_word_dash_12: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach-calm-tenant-atom
+bip_39_word_dash_2: deer-main
+bip_39_word_dash_3: deer-main-mixed
+bip_39_word_dash_4: deer-main-mixed-mansion
+bip_39_word_dash_5: deer-main-mixed-mansion-alien
+bip_39_word_dash_6: deer-main-mixed-mansion-alien-dismiss
+bip_39_word_dash_7: deer-main-mixed-mansion-alien-dismiss-gallery
+bip_39_word_dash_8: deer-main-mixed-mansion-alien-dismiss-gallery-solution
+bip_39_word_dash_9: deer-main-mixed-mansion-alien-dismiss-gallery-solution-beach
+bip_39_word_new_br_1: deer
+bip_39_word_new_br_10: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach<br>calm
+bip_39_word_new_br_11: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach<br>calm<br>tenant
+bip_39_word_new_br_12: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach<br>calm<br>tenant<br>atom
+bip_39_word_new_br_2: deer<br>main
+bip_39_word_new_br_3: deer<br>main<br>mixed
+bip_39_word_new_br_4: deer<br>main<br>mixed<br>mansion
+bip_39_word_new_br_5: deer<br>main<br>mixed<br>mansion<br>alien
+bip_39_word_new_br_6: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss
+bip_39_word_new_br_7: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery
+bip_39_word_new_br_8: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution
+bip_39_word_new_br_9: deer<br>main<br>mixed<br>mansion<br>alien<br>dismiss<br>gallery<br>solution<br>beach
+bip_39_word_new_line_1: deer
+bip_39_word_new_line_10: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery
+
+  solution
+
+  beach
+
+  calm'
+bip_39_word_new_line_11: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery
+
+  solution
+
+  beach
+
+  calm
+
+  tenant'
+bip_39_word_new_line_12: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery
+
+  solution
+
+  beach
+
+  calm
+
+  tenant
+
+  atom'
+bip_39_word_new_line_2: 'deer
+
+  main'
+bip_39_word_new_line_3: 'deer
+
+  main
+
+  mixed'
+bip_39_word_new_line_4: 'deer
+
+  main
+
+  mixed
+
+  mansion'
+bip_39_word_new_line_5: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien'
+bip_39_word_new_line_6: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss'
+bip_39_word_new_line_7: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery'
+bip_39_word_new_line_8: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery
+
+  solution'
+bip_39_word_new_line_9: 'deer
+
+  main
+
+  mixed
+
+  mansion
+
+  alien
+
+  dismiss
+
+  gallery
+
+  solution
+
+  beach'
+bip_39_word_no_space_1: deer
+bip_39_word_no_space_10: deermainmixedmansionaliendismissgallerysolutionbeachcalm
+bip_39_word_no_space_11: deermainmixedmansionaliendismissgallerysolutionbeachcalmtenant
+bip_39_word_no_space_12: deermainmixedmansionaliendismissgallerysolutionbeachcalmtenantatom
+bip_39_word_no_space_2: deermain
+bip_39_word_no_space_3: deermainmixed
+bip_39_word_no_space_4: deermainmixedmansion
+bip_39_word_no_space_5: deermainmixedmansionalien
+bip_39_word_no_space_6: deermainmixedmansionaliendismiss
+bip_39_word_no_space_7: deermainmixedmansionaliendismissgallery
+bip_39_word_no_space_8: deermainmixedmansionaliendismissgallerysolution
+bip_39_word_no_space_9: deermainmixedmansionaliendismissgallerysolutionbeach
+bip_39_word_space_0:
+- deer
+- main
+- mixed
+- mansion
+- alien
+- dismiss
+- gallery
+- solution
+- beach
+- calm
+- tenant
+- atom
+bip_39_word_space_1: deer
+bip_39_word_space_10: deer main mixed mansion alien dismiss gallery solution beach
+  calm
+bip_39_word_space_11: deer main mixed mansion alien dismiss gallery solution beach
+  calm tenant
+bip_39_word_space_12: deer main mixed mansion alien dismiss gallery solution beach
+  calm tenant atom
+bip_39_word_space_2: deer main
+bip_39_word_space_3: deer main mixed
+bip_39_word_space_4: deer main mixed mansion
+bip_39_word_space_5: deer main mixed mansion alien
+bip_39_word_space_6: deer main mixed mansion alien dismiss
+bip_39_word_space_7: deer main mixed mansion alien dismiss gallery
+bip_39_word_space_8: deer main mixed mansion alien dismiss gallery solution
+bip_39_word_space_9: deer main mixed mansion alien dismiss gallery solution beach
+bip_39_word_underscore_1: deer
+bip_39_word_underscore_10: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm
+bip_39_word_underscore_11: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm_tenant
+bip_39_word_underscore_12: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach_calm_tenant_atom
+bip_39_word_underscore_2: deer_main
+bip_39_word_underscore_3: deer_main_mixed
+bip_39_word_underscore_4: deer_main_mixed_mansion
+bip_39_word_underscore_5: deer_main_mixed_mansion_alien
+bip_39_word_underscore_6: deer_main_mixed_mansion_alien_dismiss
+bip_39_word_underscore_7: deer_main_mixed_mansion_alien_dismiss_gallery
+bip_39_word_underscore_8: deer_main_mixed_mansion_alien_dismiss_gallery_solution
+bip_39_word_underscore_9: deer_main_mixed_mansion_alien_dismiss_gallery_solution_beach
 box_of_box_size_manufacturer_metalmate: '4800'
 box_size_manufacturer_metalmate: '200'
 classification: hardware
@@ -138,7 +358,22 @@ id_no_color: 6_mm_length_hex_head
 id_no_size: black_6_mm_length_hex_head
 id_no_type: m5_black_6_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_6_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m5_black_6_mm_length_hex_head
+link_2_name: github_link
+link_3: https://www.orbitalfasteners.co.uk/products/m5-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_3_name: webpage_distributor_orbital_fasteners
+link_4: https://www.harclob2b.com/m5-x-6-socket-cap-screw-gr12-9-self-colour-din-912-1150m470006
+link_4_name: webpage_manufacturer_metalmate
+link_buy: https://www.orbitalfasteners.co.uk/products/m5-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1: https://www.orbitalfasteners.co.uk/products/m5-x-6-socket-cap-screw-high-tensile-grade-12-9-self-colour
+link_buy_1_name: webpage_distributor_orbital_fasteners
+link_buy_name: orbital_fasteners
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m5_black_6_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ypl4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ypl4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ypl4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -165,6 +400,26 @@ name_no_color: 6 mm Length Hex Head
 name_no_size: Black 6 mm Length Hex Head
 name_no_size_short: Black 6 Mm Length Hex Head
 name_no_type: M5 Black 6 mm Length Hex Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Hex Head
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 6 mm
+oomlout_bolt_length_no_unit: '6'
+oomlout_bolt_md5_6_alpha_first_3: 8yp
+oomlout_bolt_md5_6_alpha_first_3_upper: 8YP
+oomlout_bolt_md5_6_alpha_last_3: l4
+oomlout_bolt_md5_6_alpha_last_3_upper: L4
+oomlout_bolt_md5_6_first_3: e5b
+oomlout_bolt_md5_6_first_3_upper: E5B
+oomlout_bolt_md5_6_last_3: e08
+oomlout_bolt_md5_6_last_3_upper: E08
+oomlout_bolt_name: Socket Cap M5X6 mm Black (Hex Head)
+oomlout_bolt_size: M5
+oomlout_bolt_type: Socket Cap
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: sc5b6h
+oomlout_short_code_upper: SC5B6H
 oomp_id: hardware_screw_socket_cap_m5_black_6_mm_length_hex_head
 oomp_key: oomp_hardware_screw_socket_cap_m5_black_6_mm_length_hex_head
 oomp_word: rocket ramen scream
@@ -189,12 +444,22 @@ price_1: '0.0394'
 price_100: '0.0394'
 price_1000: '0.0175'
 price_10000: '0.0175'
+price_10000_distributor_1: '0.0175'
 price_10000_distributor_orbital_fasteners: '0.0175'
+price_10000_name: orbital_fasteners
+price_1000_distributor_1: '0.0175'
 price_1000_distributor_orbital_fasteners: '0.0175'
+price_1000_name: orbital_fasteners
+price_100_distributor_1: '0.0394'
 price_100_distributor_orbital_fasteners: '0.0394'
+price_100_name: orbital_fasteners
+price_1_distributor_1: '0.0394'
 price_1_distributor_orbital_fasteners: '0.0394'
+price_1_name: orbital_fasteners
 price_200: '0.0218'
+price_200_distributor_1: '0.0218'
 price_200_distributor_orbital_fasteners: '0.0218'
+price_200_name: orbital_fasteners
 price_current: '0.0218'
 quantity_current: '200'
 short_code: sc5b6h

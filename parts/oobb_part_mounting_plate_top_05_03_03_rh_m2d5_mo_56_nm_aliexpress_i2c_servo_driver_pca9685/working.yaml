@@ -1,3 +1,222 @@
+bip_39_word_dash_1: buddy
+bip_39_word_dash_10: buddy-soda-mosquito-smile-domain-farm-radio-rookie-absorb-arch
+bip_39_word_dash_11: buddy-soda-mosquito-smile-domain-farm-radio-rookie-absorb-arch-stay
+bip_39_word_dash_12: buddy-soda-mosquito-smile-domain-farm-radio-rookie-absorb-arch-stay-adapt
+bip_39_word_dash_2: buddy-soda
+bip_39_word_dash_3: buddy-soda-mosquito
+bip_39_word_dash_4: buddy-soda-mosquito-smile
+bip_39_word_dash_5: buddy-soda-mosquito-smile-domain
+bip_39_word_dash_6: buddy-soda-mosquito-smile-domain-farm
+bip_39_word_dash_7: buddy-soda-mosquito-smile-domain-farm-radio
+bip_39_word_dash_8: buddy-soda-mosquito-smile-domain-farm-radio-rookie
+bip_39_word_dash_9: buddy-soda-mosquito-smile-domain-farm-radio-rookie-absorb
+bip_39_word_new_br_1: buddy
+bip_39_word_new_br_10: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch
+bip_39_word_new_br_11: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay
+bip_39_word_new_br_12: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb<br>arch<br>stay<br>adapt
+bip_39_word_new_br_2: buddy<br>soda
+bip_39_word_new_br_3: buddy<br>soda<br>mosquito
+bip_39_word_new_br_4: buddy<br>soda<br>mosquito<br>smile
+bip_39_word_new_br_5: buddy<br>soda<br>mosquito<br>smile<br>domain
+bip_39_word_new_br_6: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm
+bip_39_word_new_br_7: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio
+bip_39_word_new_br_8: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie
+bip_39_word_new_br_9: buddy<br>soda<br>mosquito<br>smile<br>domain<br>farm<br>radio<br>rookie<br>absorb
+bip_39_word_new_line_1: buddy
+bip_39_word_new_line_10: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio
+
+  rookie
+
+  absorb
+
+  arch'
+bip_39_word_new_line_11: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio
+
+  rookie
+
+  absorb
+
+  arch
+
+  stay'
+bip_39_word_new_line_12: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio
+
+  rookie
+
+  absorb
+
+  arch
+
+  stay
+
+  adapt'
+bip_39_word_new_line_2: 'buddy
+
+  soda'
+bip_39_word_new_line_3: 'buddy
+
+  soda
+
+  mosquito'
+bip_39_word_new_line_4: 'buddy
+
+  soda
+
+  mosquito
+
+  smile'
+bip_39_word_new_line_5: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain'
+bip_39_word_new_line_6: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm'
+bip_39_word_new_line_7: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio'
+bip_39_word_new_line_8: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio
+
+  rookie'
+bip_39_word_new_line_9: 'buddy
+
+  soda
+
+  mosquito
+
+  smile
+
+  domain
+
+  farm
+
+  radio
+
+  rookie
+
+  absorb'
+bip_39_word_no_space_1: buddy
+bip_39_word_no_space_10: buddysodamosquitosmiledomainfarmradiorookieabsorbarch
+bip_39_word_no_space_11: buddysodamosquitosmiledomainfarmradiorookieabsorbarchstay
+bip_39_word_no_space_12: buddysodamosquitosmiledomainfarmradiorookieabsorbarchstayadapt
+bip_39_word_no_space_2: buddysoda
+bip_39_word_no_space_3: buddysodamosquito
+bip_39_word_no_space_4: buddysodamosquitosmile
+bip_39_word_no_space_5: buddysodamosquitosmiledomain
+bip_39_word_no_space_6: buddysodamosquitosmiledomainfarm
+bip_39_word_no_space_7: buddysodamosquitosmiledomainfarmradio
+bip_39_word_no_space_8: buddysodamosquitosmiledomainfarmradiorookie
+bip_39_word_no_space_9: buddysodamosquitosmiledomainfarmradiorookieabsorb
+bip_39_word_space_0:
+- buddy
+- soda
+- mosquito
+- smile
+- domain
+- farm
+- radio
+- rookie
+- absorb
+- arch
+- stay
+- adapt
+bip_39_word_space_1: buddy
+bip_39_word_space_10: buddy soda mosquito smile domain farm radio rookie absorb arch
+bip_39_word_space_11: buddy soda mosquito smile domain farm radio rookie absorb arch
+  stay
+bip_39_word_space_12: buddy soda mosquito smile domain farm radio rookie absorb arch
+  stay adapt
+bip_39_word_space_2: buddy soda
+bip_39_word_space_3: buddy soda mosquito
+bip_39_word_space_4: buddy soda mosquito smile
+bip_39_word_space_5: buddy soda mosquito smile domain
+bip_39_word_space_6: buddy soda mosquito smile domain farm
+bip_39_word_space_7: buddy soda mosquito smile domain farm radio
+bip_39_word_space_8: buddy soda mosquito smile domain farm radio rookie
+bip_39_word_space_9: buddy soda mosquito smile domain farm radio rookie absorb
+bip_39_word_underscore_1: buddy
+bip_39_word_underscore_10: buddy_soda_mosquito_smile_domain_farm_radio_rookie_absorb_arch
+bip_39_word_underscore_11: buddy_soda_mosquito_smile_domain_farm_radio_rookie_absorb_arch_stay
+bip_39_word_underscore_12: buddy_soda_mosquito_smile_domain_farm_radio_rookie_absorb_arch_stay_adapt
+bip_39_word_underscore_2: buddy_soda
+bip_39_word_underscore_3: buddy_soda_mosquito
+bip_39_word_underscore_4: buddy_soda_mosquito_smile
+bip_39_word_underscore_5: buddy_soda_mosquito_smile_domain
+bip_39_word_underscore_6: buddy_soda_mosquito_smile_domain_farm
+bip_39_word_underscore_7: buddy_soda_mosquito_smile_domain_farm_radio
+bip_39_word_underscore_8: buddy_soda_mosquito_smile_domain_farm_radio_rookie
+bip_39_word_underscore_9: buddy_soda_mosquito_smile_domain_farm_radio_rookie_absorb
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_se
 id_no_color: 050303rhm2d5mo56nmaliexpressi2cservodriverpca9685
 id_no_size: 05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
 id_no_type: mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201xrcy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201xrcy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201xrcy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -111,6 +337,7 @@ name_no_size: 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
 name_no_size_short: 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685
 name_no_type: Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver
   Pca9685
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685
 oomp_word: ocean sandal birthday
 oomp_word_emoji: ':ocean: :sandal: :birthday:'

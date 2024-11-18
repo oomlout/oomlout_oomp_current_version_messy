@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5315 Size 75 mm ID 160 mm OD 68 26 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5315_size_75_mm_id_160_mm_od_68_26_mm_depth
   * classification: hardware

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: grit
+bip_39_word_dash_10: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit
+bip_39_word_dash_11: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit-rack
+bip_39_word_dash_12: grit-cloud-rule-life-ahead-turn-brave-sword-lava-submit-rack-action
+bip_39_word_dash_2: grit-cloud
+bip_39_word_dash_3: grit-cloud-rule
+bip_39_word_dash_4: grit-cloud-rule-life
+bip_39_word_dash_5: grit-cloud-rule-life-ahead
+bip_39_word_dash_6: grit-cloud-rule-life-ahead-turn
+bip_39_word_dash_7: grit-cloud-rule-life-ahead-turn-brave
+bip_39_word_dash_8: grit-cloud-rule-life-ahead-turn-brave-sword
+bip_39_word_dash_9: grit-cloud-rule-life-ahead-turn-brave-sword-lava
+bip_39_word_new_br_1: grit
+bip_39_word_new_br_10: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit
+bip_39_word_new_br_11: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit<br>rack
+bip_39_word_new_br_12: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava<br>submit<br>rack<br>action
+bip_39_word_new_br_2: grit<br>cloud
+bip_39_word_new_br_3: grit<br>cloud<br>rule
+bip_39_word_new_br_4: grit<br>cloud<br>rule<br>life
+bip_39_word_new_br_5: grit<br>cloud<br>rule<br>life<br>ahead
+bip_39_word_new_br_6: grit<br>cloud<br>rule<br>life<br>ahead<br>turn
+bip_39_word_new_br_7: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave
+bip_39_word_new_br_8: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword
+bip_39_word_new_br_9: grit<br>cloud<br>rule<br>life<br>ahead<br>turn<br>brave<br>sword<br>lava
+bip_39_word_new_line_1: grit
+bip_39_word_new_line_10: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave
+
+  sword
+
+  lava
+
+  submit'
+bip_39_word_new_line_11: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave
+
+  sword
+
+  lava
+
+  submit
+
+  rack'
+bip_39_word_new_line_12: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave
+
+  sword
+
+  lava
+
+  submit
+
+  rack
+
+  action'
+bip_39_word_new_line_2: 'grit
+
+  cloud'
+bip_39_word_new_line_3: 'grit
+
+  cloud
+
+  rule'
+bip_39_word_new_line_4: 'grit
+
+  cloud
+
+  rule
+
+  life'
+bip_39_word_new_line_5: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead'
+bip_39_word_new_line_6: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn'
+bip_39_word_new_line_7: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave'
+bip_39_word_new_line_8: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave
+
+  sword'
+bip_39_word_new_line_9: 'grit
+
+  cloud
+
+  rule
+
+  life
+
+  ahead
+
+  turn
+
+  brave
+
+  sword
+
+  lava'
+bip_39_word_no_space_1: grit
+bip_39_word_no_space_10: gritcloudrulelifeaheadturnbraveswordlavasubmit
+bip_39_word_no_space_11: gritcloudrulelifeaheadturnbraveswordlavasubmitrack
+bip_39_word_no_space_12: gritcloudrulelifeaheadturnbraveswordlavasubmitrackaction
+bip_39_word_no_space_2: gritcloud
+bip_39_word_no_space_3: gritcloudrule
+bip_39_word_no_space_4: gritcloudrulelife
+bip_39_word_no_space_5: gritcloudrulelifeahead
+bip_39_word_no_space_6: gritcloudrulelifeaheadturn
+bip_39_word_no_space_7: gritcloudrulelifeaheadturnbrave
+bip_39_word_no_space_8: gritcloudrulelifeaheadturnbravesword
+bip_39_word_no_space_9: gritcloudrulelifeaheadturnbraveswordlava
+bip_39_word_space_0:
+- grit
+- cloud
+- rule
+- life
+- ahead
+- turn
+- brave
+- sword
+- lava
+- submit
+- rack
+- action
+bip_39_word_space_1: grit
+bip_39_word_space_10: grit cloud rule life ahead turn brave sword lava submit
+bip_39_word_space_11: grit cloud rule life ahead turn brave sword lava submit rack
+bip_39_word_space_12: grit cloud rule life ahead turn brave sword lava submit rack
+  action
+bip_39_word_space_2: grit cloud
+bip_39_word_space_3: grit cloud rule
+bip_39_word_space_4: grit cloud rule life
+bip_39_word_space_5: grit cloud rule life ahead
+bip_39_word_space_6: grit cloud rule life ahead turn
+bip_39_word_space_7: grit cloud rule life ahead turn brave
+bip_39_word_space_8: grit cloud rule life ahead turn brave sword
+bip_39_word_space_9: grit cloud rule life ahead turn brave sword lava
+bip_39_word_underscore_1: grit
+bip_39_word_underscore_10: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit
+bip_39_word_underscore_11: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit_rack
+bip_39_word_underscore_12: grit_cloud_rule_life_ahead_turn_brave_sword_lava_submit_rack_action
+bip_39_word_underscore_2: grit_cloud
+bip_39_word_underscore_3: grit_cloud_rule
+bip_39_word_underscore_4: grit_cloud_rule_life
+bip_39_word_underscore_5: grit_cloud_rule_life_ahead
+bip_39_word_underscore_6: grit_cloud_rule_life_ahead_turn
+bip_39_word_underscore_7: grit_cloud_rule_life_ahead_turn_brave
+bip_39_word_underscore_8: grit_cloud_rule_life_ahead_turn_brave_sword
+bip_39_word_underscore_9: grit_cloud_rule_life_ahead_turn_brave_sword_lava
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_test_0d1__hole_sh_9d5
 id_no_color: 0d1holesh9d5
 id_no_size: 0d1__hole_sh_9d5
 id_no_type: test_0d1__hole_sh_9d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_0d1__hole_sh_9d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_test_0d1__hole_sh_9d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_test_0d1__hole_sh_9d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201m4hi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201m4hi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201m4hi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 0D1Holesh9D5
 name_no_size: 0D1  Hole Sh 9D5
 name_no_size_short: 0D1  Hole Sh 9D5
 name_no_type: Test 0D1  Hole Sh 9D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_test_0d1__hole_sh_9d5
 oomp_word: sunny bouquet rabbit
 oomp_word_emoji: ':sunny: :bouquet: :rabbit:'

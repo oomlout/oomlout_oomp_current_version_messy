@@ -1,3 +1,222 @@
+bip_39_word_dash_1: border
+bip_39_word_dash_10: border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar
+bip_39_word_dash_11: border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar-swear
+bip_39_word_dash_12: border-such-cloud-doctor-bench-vintage-clerk-near-wasp-liar-swear-among
+bip_39_word_dash_2: border-such
+bip_39_word_dash_3: border-such-cloud
+bip_39_word_dash_4: border-such-cloud-doctor
+bip_39_word_dash_5: border-such-cloud-doctor-bench
+bip_39_word_dash_6: border-such-cloud-doctor-bench-vintage
+bip_39_word_dash_7: border-such-cloud-doctor-bench-vintage-clerk
+bip_39_word_dash_8: border-such-cloud-doctor-bench-vintage-clerk-near
+bip_39_word_dash_9: border-such-cloud-doctor-bench-vintage-clerk-near-wasp
+bip_39_word_new_br_1: border
+bip_39_word_new_br_10: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar
+bip_39_word_new_br_11: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear
+bip_39_word_new_br_12: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp<br>liar<br>swear<br>among
+bip_39_word_new_br_2: border<br>such
+bip_39_word_new_br_3: border<br>such<br>cloud
+bip_39_word_new_br_4: border<br>such<br>cloud<br>doctor
+bip_39_word_new_br_5: border<br>such<br>cloud<br>doctor<br>bench
+bip_39_word_new_br_6: border<br>such<br>cloud<br>doctor<br>bench<br>vintage
+bip_39_word_new_br_7: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk
+bip_39_word_new_br_8: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near
+bip_39_word_new_br_9: border<br>such<br>cloud<br>doctor<br>bench<br>vintage<br>clerk<br>near<br>wasp
+bip_39_word_new_line_1: border
+bip_39_word_new_line_10: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk
+
+  near
+
+  wasp
+
+  liar'
+bip_39_word_new_line_11: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk
+
+  near
+
+  wasp
+
+  liar
+
+  swear'
+bip_39_word_new_line_12: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk
+
+  near
+
+  wasp
+
+  liar
+
+  swear
+
+  among'
+bip_39_word_new_line_2: 'border
+
+  such'
+bip_39_word_new_line_3: 'border
+
+  such
+
+  cloud'
+bip_39_word_new_line_4: 'border
+
+  such
+
+  cloud
+
+  doctor'
+bip_39_word_new_line_5: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench'
+bip_39_word_new_line_6: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage'
+bip_39_word_new_line_7: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk'
+bip_39_word_new_line_8: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk
+
+  near'
+bip_39_word_new_line_9: 'border
+
+  such
+
+  cloud
+
+  doctor
+
+  bench
+
+  vintage
+
+  clerk
+
+  near
+
+  wasp'
+bip_39_word_no_space_1: border
+bip_39_word_no_space_10: bordersuchclouddoctorbenchvintageclerknearwaspliar
+bip_39_word_no_space_11: bordersuchclouddoctorbenchvintageclerknearwaspliarswear
+bip_39_word_no_space_12: bordersuchclouddoctorbenchvintageclerknearwaspliarswearamong
+bip_39_word_no_space_2: bordersuch
+bip_39_word_no_space_3: bordersuchcloud
+bip_39_word_no_space_4: bordersuchclouddoctor
+bip_39_word_no_space_5: bordersuchclouddoctorbench
+bip_39_word_no_space_6: bordersuchclouddoctorbenchvintage
+bip_39_word_no_space_7: bordersuchclouddoctorbenchvintageclerk
+bip_39_word_no_space_8: bordersuchclouddoctorbenchvintageclerknear
+bip_39_word_no_space_9: bordersuchclouddoctorbenchvintageclerknearwasp
+bip_39_word_space_0:
+- border
+- such
+- cloud
+- doctor
+- bench
+- vintage
+- clerk
+- near
+- wasp
+- liar
+- swear
+- among
+bip_39_word_space_1: border
+bip_39_word_space_10: border such cloud doctor bench vintage clerk near wasp liar
+bip_39_word_space_11: border such cloud doctor bench vintage clerk near wasp liar
+  swear
+bip_39_word_space_12: border such cloud doctor bench vintage clerk near wasp liar
+  swear among
+bip_39_word_space_2: border such
+bip_39_word_space_3: border such cloud
+bip_39_word_space_4: border such cloud doctor
+bip_39_word_space_5: border such cloud doctor bench
+bip_39_word_space_6: border such cloud doctor bench vintage
+bip_39_word_space_7: border such cloud doctor bench vintage clerk
+bip_39_word_space_8: border such cloud doctor bench vintage clerk near
+bip_39_word_space_9: border such cloud doctor bench vintage clerk near wasp
+bip_39_word_underscore_1: border
+bip_39_word_underscore_10: border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar
+bip_39_word_underscore_11: border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar_swear
+bip_39_word_underscore_12: border_such_cloud_doctor_bench_vintage_clerk_near_wasp_liar_swear_among
+bip_39_word_underscore_2: border_such
+bip_39_word_underscore_3: border_such_cloud
+bip_39_word_underscore_4: border_such_cloud_doctor
+bip_39_word_underscore_5: border_such_cloud_doctor_bench
+bip_39_word_underscore_6: border_such_cloud_doctor_bench_vintage
+bip_39_word_underscore_7: border_such_cloud_doctor_bench_vintage_clerk
+bip_39_word_underscore_8: border_such_cloud_doctor_bench_vintage_clerk_near
+bip_39_word_underscore_9: border_such_cloud_doctor_bench_vintage_clerk_near_wasp
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
@@ -82,7 +301,14 @@ id_no_class: motor_geared_tt_standard
 id_no_color: standard
 id_no_size: standard
 id_no_type: tt_standard
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_geared_tt_standard
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_geared_tt_standard
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204zeao
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204zeao
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204zeao
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: Standard
 name_no_size: Standard
 name_no_size_short: Standard
 name_no_type: Tt Standard
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_geared_tt_standard
 oomp_word: speaker pizza skull
 oomp_word_emoji: ':speaker: :pizza: :skull:'

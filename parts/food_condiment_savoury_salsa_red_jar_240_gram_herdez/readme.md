@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Condiment Savoury Salsa Red Jar 240 Gram Herdez
+* name_short: Salsa Red
 ### id
 * oomp_id: food_condiment_savoury_salsa_red_jar_240_gram_herdez
   * classification: food

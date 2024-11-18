@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 03 03 03  Electronic Potentiometer Stick Single Axis 16 mm
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_03_03_03__electronic_potentiometer_stick_single_axis_16_mm
   * classification: oobb

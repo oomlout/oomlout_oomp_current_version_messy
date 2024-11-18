@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 05 01  H
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_05_01__h
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :foggy: :anger: :honeybee:
 * md5_6_alpha: 1vivi
 * md5_6: 30124e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%201vivi)
+[2x1](http://192.168.1.242:1112/?label=oomp%201vivi)
+[6x4](http://192.168.1.55:1112/?label=oomp%201vivi)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__h) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__h)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ abuse |
 | id_no_color | 0501h |  
 | id_no_size | 05_01__h |  
 | id_no_type | bunting_alphabet_05_01__h |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__h |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__h |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__h |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201vivi |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201vivi |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%201vivi |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ abuse |
 | name_no_size | 05 01  H |  
 | name_no_size_short | 05 01  H |  
 | name_no_type | Bunting Alphabet 05 01  H |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_05_01__h |  
 | oomp_word | foggy anger honeybee |  
 | oomp_word_emoji | :foggy: :anger: :honeybee: |  

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: earn
+bip_39_word_dash_10: earn-grass-dizzy-depend-two-cage-enjoy-govern-crazy-tumble
+bip_39_word_dash_11: earn-grass-dizzy-depend-two-cage-enjoy-govern-crazy-tumble-few
+bip_39_word_dash_12: earn-grass-dizzy-depend-two-cage-enjoy-govern-crazy-tumble-few-antenna
+bip_39_word_dash_2: earn-grass
+bip_39_word_dash_3: earn-grass-dizzy
+bip_39_word_dash_4: earn-grass-dizzy-depend
+bip_39_word_dash_5: earn-grass-dizzy-depend-two
+bip_39_word_dash_6: earn-grass-dizzy-depend-two-cage
+bip_39_word_dash_7: earn-grass-dizzy-depend-two-cage-enjoy
+bip_39_word_dash_8: earn-grass-dizzy-depend-two-cage-enjoy-govern
+bip_39_word_dash_9: earn-grass-dizzy-depend-two-cage-enjoy-govern-crazy
+bip_39_word_new_br_1: earn
+bip_39_word_new_br_10: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble
+bip_39_word_new_br_11: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few
+bip_39_word_new_br_12: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy<br>tumble<br>few<br>antenna
+bip_39_word_new_br_2: earn<br>grass
+bip_39_word_new_br_3: earn<br>grass<br>dizzy
+bip_39_word_new_br_4: earn<br>grass<br>dizzy<br>depend
+bip_39_word_new_br_5: earn<br>grass<br>dizzy<br>depend<br>two
+bip_39_word_new_br_6: earn<br>grass<br>dizzy<br>depend<br>two<br>cage
+bip_39_word_new_br_7: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy
+bip_39_word_new_br_8: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern
+bip_39_word_new_br_9: earn<br>grass<br>dizzy<br>depend<br>two<br>cage<br>enjoy<br>govern<br>crazy
+bip_39_word_new_line_1: earn
+bip_39_word_new_line_10: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy
+
+  govern
+
+  crazy
+
+  tumble'
+bip_39_word_new_line_11: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy
+
+  govern
+
+  crazy
+
+  tumble
+
+  few'
+bip_39_word_new_line_12: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy
+
+  govern
+
+  crazy
+
+  tumble
+
+  few
+
+  antenna'
+bip_39_word_new_line_2: 'earn
+
+  grass'
+bip_39_word_new_line_3: 'earn
+
+  grass
+
+  dizzy'
+bip_39_word_new_line_4: 'earn
+
+  grass
+
+  dizzy
+
+  depend'
+bip_39_word_new_line_5: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two'
+bip_39_word_new_line_6: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage'
+bip_39_word_new_line_7: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy'
+bip_39_word_new_line_8: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy
+
+  govern'
+bip_39_word_new_line_9: 'earn
+
+  grass
+
+  dizzy
+
+  depend
+
+  two
+
+  cage
+
+  enjoy
+
+  govern
+
+  crazy'
+bip_39_word_no_space_1: earn
+bip_39_word_no_space_10: earngrassdizzydependtwocageenjoygoverncrazytumble
+bip_39_word_no_space_11: earngrassdizzydependtwocageenjoygoverncrazytumblefew
+bip_39_word_no_space_12: earngrassdizzydependtwocageenjoygoverncrazytumblefewantenna
+bip_39_word_no_space_2: earngrass
+bip_39_word_no_space_3: earngrassdizzy
+bip_39_word_no_space_4: earngrassdizzydepend
+bip_39_word_no_space_5: earngrassdizzydependtwo
+bip_39_word_no_space_6: earngrassdizzydependtwocage
+bip_39_word_no_space_7: earngrassdizzydependtwocageenjoy
+bip_39_word_no_space_8: earngrassdizzydependtwocageenjoygovern
+bip_39_word_no_space_9: earngrassdizzydependtwocageenjoygoverncrazy
+bip_39_word_space_0:
+- earn
+- grass
+- dizzy
+- depend
+- two
+- cage
+- enjoy
+- govern
+- crazy
+- tumble
+- few
+- antenna
+bip_39_word_space_1: earn
+bip_39_word_space_10: earn grass dizzy depend two cage enjoy govern crazy tumble
+bip_39_word_space_11: earn grass dizzy depend two cage enjoy govern crazy tumble few
+bip_39_word_space_12: earn grass dizzy depend two cage enjoy govern crazy tumble few
+  antenna
+bip_39_word_space_2: earn grass
+bip_39_word_space_3: earn grass dizzy
+bip_39_word_space_4: earn grass dizzy depend
+bip_39_word_space_5: earn grass dizzy depend two
+bip_39_word_space_6: earn grass dizzy depend two cage
+bip_39_word_space_7: earn grass dizzy depend two cage enjoy
+bip_39_word_space_8: earn grass dizzy depend two cage enjoy govern
+bip_39_word_space_9: earn grass dizzy depend two cage enjoy govern crazy
+bip_39_word_underscore_1: earn
+bip_39_word_underscore_10: earn_grass_dizzy_depend_two_cage_enjoy_govern_crazy_tumble
+bip_39_word_underscore_11: earn_grass_dizzy_depend_two_cage_enjoy_govern_crazy_tumble_few
+bip_39_word_underscore_12: earn_grass_dizzy_depend_two_cage_enjoy_govern_crazy_tumble_few_antenna
+bip_39_word_underscore_2: earn_grass
+bip_39_word_underscore_3: earn_grass_dizzy
+bip_39_word_underscore_4: earn_grass_dizzy_depend
+bip_39_word_underscore_5: earn_grass_dizzy_depend_two
+bip_39_word_underscore_6: earn_grass_dizzy_depend_two_cage
+bip_39_word_underscore_7: earn_grass_dizzy_depend_two_cage_enjoy
+bip_39_word_underscore_8: earn_grass_dizzy_depend_two_cage_enjoy_govern
+bip_39_word_underscore_9: earn_grass_dizzy_depend_two_cage_enjoy_govern_crazy
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +351,14 @@ id_no_color: 6_mm_length_phillips_head
 id_no_size: black_6_mm_length_phillips_head
 id_no_type: m2_5_black_6_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_6_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m2_5_black_6_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m2_5_black_6_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20642ey
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20642ey
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20642ey
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +384,27 @@ name_no_color: 6 mm Length Phillips Head
 name_no_size: Black 6 mm Length Phillips Head
 name_no_size_short: Black 6 Mm Length Phillips Head
 name_no_type: M2 5 Black 6 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 6 mm
+oomlout_bolt_length_no_unit: '6'
+oomlout_bolt_md5_6_alpha_first_3: '642'
+oomlout_bolt_md5_6_alpha_first_3_upper: '642'
+oomlout_bolt_md5_6_alpha_last_3: ey
+oomlout_bolt_md5_6_alpha_last_3_upper: EY
+oomlout_bolt_md5_6_first_3: 9ca
+oomlout_bolt_md5_6_first_3_upper: 9CA
+oomlout_bolt_md5_6_last_3: b3a
+oomlout_bolt_md5_6_last_3_upper: B3A
+oomlout_bolt_name: Flat Head M2_5X6 mm Black (Phillips)
+oomlout_bolt_size: ''
+oomlout_bolt_size_long: M2.5
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh2d5b6p
+oomlout_short_code_upper: FH2D5B6P
 oomp_key: oomp_hardware_screw_flat_head_m2_5_black_6_mm_length_phillips_head
 oomp_word: spades boot koala
 oomp_word_emoji: ':spades: :boot: :koala:'

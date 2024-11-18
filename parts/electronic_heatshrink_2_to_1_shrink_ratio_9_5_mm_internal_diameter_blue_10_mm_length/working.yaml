@@ -1,3 +1,223 @@
+bip_39_word_dash_1: chest
+bip_39_word_dash_10: chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon
+bip_39_word_dash_11: chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon-eye
+bip_39_word_dash_12: chest-afford-skill-midnight-multiply-bleak-armor-neutral-option-icon-eye-artwork
+bip_39_word_dash_2: chest-afford
+bip_39_word_dash_3: chest-afford-skill
+bip_39_word_dash_4: chest-afford-skill-midnight
+bip_39_word_dash_5: chest-afford-skill-midnight-multiply
+bip_39_word_dash_6: chest-afford-skill-midnight-multiply-bleak
+bip_39_word_dash_7: chest-afford-skill-midnight-multiply-bleak-armor
+bip_39_word_dash_8: chest-afford-skill-midnight-multiply-bleak-armor-neutral
+bip_39_word_dash_9: chest-afford-skill-midnight-multiply-bleak-armor-neutral-option
+bip_39_word_new_br_1: chest
+bip_39_word_new_br_10: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon
+bip_39_word_new_br_11: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon<br>eye
+bip_39_word_new_br_12: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option<br>icon<br>eye<br>artwork
+bip_39_word_new_br_2: chest<br>afford
+bip_39_word_new_br_3: chest<br>afford<br>skill
+bip_39_word_new_br_4: chest<br>afford<br>skill<br>midnight
+bip_39_word_new_br_5: chest<br>afford<br>skill<br>midnight<br>multiply
+bip_39_word_new_br_6: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak
+bip_39_word_new_br_7: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor
+bip_39_word_new_br_8: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral
+bip_39_word_new_br_9: chest<br>afford<br>skill<br>midnight<br>multiply<br>bleak<br>armor<br>neutral<br>option
+bip_39_word_new_line_1: chest
+bip_39_word_new_line_10: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor
+
+  neutral
+
+  option
+
+  icon'
+bip_39_word_new_line_11: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor
+
+  neutral
+
+  option
+
+  icon
+
+  eye'
+bip_39_word_new_line_12: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor
+
+  neutral
+
+  option
+
+  icon
+
+  eye
+
+  artwork'
+bip_39_word_new_line_2: 'chest
+
+  afford'
+bip_39_word_new_line_3: 'chest
+
+  afford
+
+  skill'
+bip_39_word_new_line_4: 'chest
+
+  afford
+
+  skill
+
+  midnight'
+bip_39_word_new_line_5: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply'
+bip_39_word_new_line_6: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak'
+bip_39_word_new_line_7: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor'
+bip_39_word_new_line_8: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor
+
+  neutral'
+bip_39_word_new_line_9: 'chest
+
+  afford
+
+  skill
+
+  midnight
+
+  multiply
+
+  bleak
+
+  armor
+
+  neutral
+
+  option'
+bip_39_word_no_space_1: chest
+bip_39_word_no_space_10: chestaffordskillmidnightmultiplybleakarmorneutraloptionicon
+bip_39_word_no_space_11: chestaffordskillmidnightmultiplybleakarmorneutraloptioniconeye
+bip_39_word_no_space_12: chestaffordskillmidnightmultiplybleakarmorneutraloptioniconeyeartwork
+bip_39_word_no_space_2: chestafford
+bip_39_word_no_space_3: chestaffordskill
+bip_39_word_no_space_4: chestaffordskillmidnight
+bip_39_word_no_space_5: chestaffordskillmidnightmultiply
+bip_39_word_no_space_6: chestaffordskillmidnightmultiplybleak
+bip_39_word_no_space_7: chestaffordskillmidnightmultiplybleakarmor
+bip_39_word_no_space_8: chestaffordskillmidnightmultiplybleakarmorneutral
+bip_39_word_no_space_9: chestaffordskillmidnightmultiplybleakarmorneutraloption
+bip_39_word_space_0:
+- chest
+- afford
+- skill
+- midnight
+- multiply
+- bleak
+- armor
+- neutral
+- option
+- icon
+- eye
+- artwork
+bip_39_word_space_1: chest
+bip_39_word_space_10: chest afford skill midnight multiply bleak armor neutral option
+  icon
+bip_39_word_space_11: chest afford skill midnight multiply bleak armor neutral option
+  icon eye
+bip_39_word_space_12: chest afford skill midnight multiply bleak armor neutral option
+  icon eye artwork
+bip_39_word_space_2: chest afford
+bip_39_word_space_3: chest afford skill
+bip_39_word_space_4: chest afford skill midnight
+bip_39_word_space_5: chest afford skill midnight multiply
+bip_39_word_space_6: chest afford skill midnight multiply bleak
+bip_39_word_space_7: chest afford skill midnight multiply bleak armor
+bip_39_word_space_8: chest afford skill midnight multiply bleak armor neutral
+bip_39_word_space_9: chest afford skill midnight multiply bleak armor neutral option
+bip_39_word_underscore_1: chest
+bip_39_word_underscore_10: chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon
+bip_39_word_underscore_11: chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon_eye
+bip_39_word_underscore_12: chest_afford_skill_midnight_multiply_bleak_armor_neutral_option_icon_eye_artwork
+bip_39_word_underscore_2: chest_afford
+bip_39_word_underscore_3: chest_afford_skill
+bip_39_word_underscore_4: chest_afford_skill_midnight
+bip_39_word_underscore_5: chest_afford_skill_midnight_multiply
+bip_39_word_underscore_6: chest_afford_skill_midnight_multiply_bleak
+bip_39_word_underscore_7: chest_afford_skill_midnight_multiply_bleak_armor
+bip_39_word_underscore_8: chest_afford_skill_midnight_multiply_bleak_armor_neutral
+bip_39_word_underscore_9: chest_afford_skill_midnight_multiply_bleak_armor_neutral_option
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +327,14 @@ id_no_color: 10_mm_length
 id_no_size: blue_10_mm_length
 id_no_type: 9_5_mm_internal_diameter_blue_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_blue_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_blue_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_blue_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087vbw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087vbw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087vbw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +362,7 @@ name_no_color: 10 mm Length
 name_no_size: Blue 10 mm Length
 name_no_size_short: Blue 10 Mm Length
 name_no_type: 9 5 mm Internal Diameter Blue 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_blue_10_mm_length
 oomp_word: pineapple violin ox
 oomp_word_emoji: ':pineapple: :violin: :ox:'

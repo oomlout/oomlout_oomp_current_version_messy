@@ -1,3 +1,223 @@
+bip_39_word_dash_1: midnight
+bip_39_word_dash_10: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy
+bip_39_word_dash_11: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy-indicate
+bip_39_word_dash_12: midnight-glance-denial-brave-brain-waste-mix-account-energy-defy-indicate-aunt
+bip_39_word_dash_2: midnight-glance
+bip_39_word_dash_3: midnight-glance-denial
+bip_39_word_dash_4: midnight-glance-denial-brave
+bip_39_word_dash_5: midnight-glance-denial-brave-brain
+bip_39_word_dash_6: midnight-glance-denial-brave-brain-waste
+bip_39_word_dash_7: midnight-glance-denial-brave-brain-waste-mix
+bip_39_word_dash_8: midnight-glance-denial-brave-brain-waste-mix-account
+bip_39_word_dash_9: midnight-glance-denial-brave-brain-waste-mix-account-energy
+bip_39_word_new_br_1: midnight
+bip_39_word_new_br_10: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy
+bip_39_word_new_br_11: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate
+bip_39_word_new_br_12: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy<br>defy<br>indicate<br>aunt
+bip_39_word_new_br_2: midnight<br>glance
+bip_39_word_new_br_3: midnight<br>glance<br>denial
+bip_39_word_new_br_4: midnight<br>glance<br>denial<br>brave
+bip_39_word_new_br_5: midnight<br>glance<br>denial<br>brave<br>brain
+bip_39_word_new_br_6: midnight<br>glance<br>denial<br>brave<br>brain<br>waste
+bip_39_word_new_br_7: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix
+bip_39_word_new_br_8: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account
+bip_39_word_new_br_9: midnight<br>glance<br>denial<br>brave<br>brain<br>waste<br>mix<br>account<br>energy
+bip_39_word_new_line_1: midnight
+bip_39_word_new_line_10: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix
+
+  account
+
+  energy
+
+  defy'
+bip_39_word_new_line_11: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix
+
+  account
+
+  energy
+
+  defy
+
+  indicate'
+bip_39_word_new_line_12: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix
+
+  account
+
+  energy
+
+  defy
+
+  indicate
+
+  aunt'
+bip_39_word_new_line_2: 'midnight
+
+  glance'
+bip_39_word_new_line_3: 'midnight
+
+  glance
+
+  denial'
+bip_39_word_new_line_4: 'midnight
+
+  glance
+
+  denial
+
+  brave'
+bip_39_word_new_line_5: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain'
+bip_39_word_new_line_6: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste'
+bip_39_word_new_line_7: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix'
+bip_39_word_new_line_8: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix
+
+  account'
+bip_39_word_new_line_9: 'midnight
+
+  glance
+
+  denial
+
+  brave
+
+  brain
+
+  waste
+
+  mix
+
+  account
+
+  energy'
+bip_39_word_no_space_1: midnight
+bip_39_word_no_space_10: midnightglancedenialbravebrainwastemixaccountenergydefy
+bip_39_word_no_space_11: midnightglancedenialbravebrainwastemixaccountenergydefyindicate
+bip_39_word_no_space_12: midnightglancedenialbravebrainwastemixaccountenergydefyindicateaunt
+bip_39_word_no_space_2: midnightglance
+bip_39_word_no_space_3: midnightglancedenial
+bip_39_word_no_space_4: midnightglancedenialbrave
+bip_39_word_no_space_5: midnightglancedenialbravebrain
+bip_39_word_no_space_6: midnightglancedenialbravebrainwaste
+bip_39_word_no_space_7: midnightglancedenialbravebrainwastemix
+bip_39_word_no_space_8: midnightglancedenialbravebrainwastemixaccount
+bip_39_word_no_space_9: midnightglancedenialbravebrainwastemixaccountenergy
+bip_39_word_space_0:
+- midnight
+- glance
+- denial
+- brave
+- brain
+- waste
+- mix
+- account
+- energy
+- defy
+- indicate
+- aunt
+bip_39_word_space_1: midnight
+bip_39_word_space_10: midnight glance denial brave brain waste mix account energy
+  defy
+bip_39_word_space_11: midnight glance denial brave brain waste mix account energy
+  defy indicate
+bip_39_word_space_12: midnight glance denial brave brain waste mix account energy
+  defy indicate aunt
+bip_39_word_space_2: midnight glance
+bip_39_word_space_3: midnight glance denial
+bip_39_word_space_4: midnight glance denial brave
+bip_39_word_space_5: midnight glance denial brave brain
+bip_39_word_space_6: midnight glance denial brave brain waste
+bip_39_word_space_7: midnight glance denial brave brain waste mix
+bip_39_word_space_8: midnight glance denial brave brain waste mix account
+bip_39_word_space_9: midnight glance denial brave brain waste mix account energy
+bip_39_word_underscore_1: midnight
+bip_39_word_underscore_10: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy
+bip_39_word_underscore_11: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy_indicate
+bip_39_word_underscore_12: midnight_glance_denial_brave_brain_waste_mix_account_energy_defy_indicate_aunt
+bip_39_word_underscore_2: midnight_glance
+bip_39_word_underscore_3: midnight_glance_denial
+bip_39_word_underscore_4: midnight_glance_denial_brave
+bip_39_word_underscore_5: midnight_glance_denial_brave_brain
+bip_39_word_underscore_6: midnight_glance_denial_brave_brain_waste
+bip_39_word_underscore_7: midnight_glance_denial_brave_brain_waste_mix
+bip_39_word_underscore_8: midnight_glance_denial_brave_brain_waste_mix_account
+bip_39_word_underscore_9: midnight_glance_denial_brave_brain_waste_mix_account_energy
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
 id_no_color: 0609144teethshieldshmotortt01
 id_no_size: 06_09__144_teeth_shield_sh_motor_tt_01
 id_no_type: pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209jzym
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209jzym
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209jzym
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0609144Teethshieldshmotortt01
 name_no_size: 06 09  144 Teeth Shield Sh Motor Tt 01
 name_no_size_short: 06 09  144 Teeth Shield Sh Motor Tt 01
 name_no_type: Pulley Gt2 06 09  144 Teeth Shield Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_06_09__144_teeth_shield_sh_motor_tt_01
 oomp_word: three rocket peach
 oomp_word_emoji: ':three: :rocket: :peach:'

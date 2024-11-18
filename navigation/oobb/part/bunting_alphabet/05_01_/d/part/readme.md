@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Bunting Alphabet 05 01  D
+* name_short: 
 ### id
 * oomp_id: oobb_part_bunting_alphabet_05_01__d
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :basketball: :truck: :car:
 * md5_6_alpha: 5w0kr
 * md5_6: 96efeb
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205w0kr)
+[2x1](http://192.168.1.242:1112/?label=oomp%205w0kr)
+[6x4](http://192.168.1.55:1112/?label=oomp%205w0kr)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__d) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__d)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ worry |
 | id_no_color | 0501d |  
 | id_no_size | 05_01__d |  
 | id_no_type | bunting_alphabet_05_01__d |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__d |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__d |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__d |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205w0kr |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205w0kr |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205w0kr |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ worry |
 | name_no_size | 05 01  D |  
 | name_no_size_short | 05 01  D |  
 | name_no_type | Bunting Alphabet 05 01  D |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_05_01__d |  
 | oomp_word | basketball truck car |  
 | oomp_word_emoji | :basketball: :truck: :car: |  

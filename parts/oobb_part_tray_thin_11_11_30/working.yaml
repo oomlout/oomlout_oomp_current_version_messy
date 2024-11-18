@@ -1,3 +1,222 @@
+bip_39_word_dash_1: angle
+bip_39_word_dash_10: angle-seminar-whip-range-canal-illness-joy-main-beef-patrol
+bip_39_word_dash_11: angle-seminar-whip-range-canal-illness-joy-main-beef-patrol-dilemma
+bip_39_word_dash_12: angle-seminar-whip-range-canal-illness-joy-main-beef-patrol-dilemma-aim
+bip_39_word_dash_2: angle-seminar
+bip_39_word_dash_3: angle-seminar-whip
+bip_39_word_dash_4: angle-seminar-whip-range
+bip_39_word_dash_5: angle-seminar-whip-range-canal
+bip_39_word_dash_6: angle-seminar-whip-range-canal-illness
+bip_39_word_dash_7: angle-seminar-whip-range-canal-illness-joy
+bip_39_word_dash_8: angle-seminar-whip-range-canal-illness-joy-main
+bip_39_word_dash_9: angle-seminar-whip-range-canal-illness-joy-main-beef
+bip_39_word_new_br_1: angle
+bip_39_word_new_br_10: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol
+bip_39_word_new_br_11: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol<br>dilemma
+bip_39_word_new_br_12: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef<br>patrol<br>dilemma<br>aim
+bip_39_word_new_br_2: angle<br>seminar
+bip_39_word_new_br_3: angle<br>seminar<br>whip
+bip_39_word_new_br_4: angle<br>seminar<br>whip<br>range
+bip_39_word_new_br_5: angle<br>seminar<br>whip<br>range<br>canal
+bip_39_word_new_br_6: angle<br>seminar<br>whip<br>range<br>canal<br>illness
+bip_39_word_new_br_7: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy
+bip_39_word_new_br_8: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main
+bip_39_word_new_br_9: angle<br>seminar<br>whip<br>range<br>canal<br>illness<br>joy<br>main<br>beef
+bip_39_word_new_line_1: angle
+bip_39_word_new_line_10: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy
+
+  main
+
+  beef
+
+  patrol'
+bip_39_word_new_line_11: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy
+
+  main
+
+  beef
+
+  patrol
+
+  dilemma'
+bip_39_word_new_line_12: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy
+
+  main
+
+  beef
+
+  patrol
+
+  dilemma
+
+  aim'
+bip_39_word_new_line_2: 'angle
+
+  seminar'
+bip_39_word_new_line_3: 'angle
+
+  seminar
+
+  whip'
+bip_39_word_new_line_4: 'angle
+
+  seminar
+
+  whip
+
+  range'
+bip_39_word_new_line_5: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal'
+bip_39_word_new_line_6: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness'
+bip_39_word_new_line_7: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy'
+bip_39_word_new_line_8: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy
+
+  main'
+bip_39_word_new_line_9: 'angle
+
+  seminar
+
+  whip
+
+  range
+
+  canal
+
+  illness
+
+  joy
+
+  main
+
+  beef'
+bip_39_word_no_space_1: angle
+bip_39_word_no_space_10: angleseminarwhiprangecanalillnessjoymainbeefpatrol
+bip_39_word_no_space_11: angleseminarwhiprangecanalillnessjoymainbeefpatroldilemma
+bip_39_word_no_space_12: angleseminarwhiprangecanalillnessjoymainbeefpatroldilemmaaim
+bip_39_word_no_space_2: angleseminar
+bip_39_word_no_space_3: angleseminarwhip
+bip_39_word_no_space_4: angleseminarwhiprange
+bip_39_word_no_space_5: angleseminarwhiprangecanal
+bip_39_word_no_space_6: angleseminarwhiprangecanalillness
+bip_39_word_no_space_7: angleseminarwhiprangecanalillnessjoy
+bip_39_word_no_space_8: angleseminarwhiprangecanalillnessjoymain
+bip_39_word_no_space_9: angleseminarwhiprangecanalillnessjoymainbeef
+bip_39_word_space_0:
+- angle
+- seminar
+- whip
+- range
+- canal
+- illness
+- joy
+- main
+- beef
+- patrol
+- dilemma
+- aim
+bip_39_word_space_1: angle
+bip_39_word_space_10: angle seminar whip range canal illness joy main beef patrol
+bip_39_word_space_11: angle seminar whip range canal illness joy main beef patrol
+  dilemma
+bip_39_word_space_12: angle seminar whip range canal illness joy main beef patrol
+  dilemma aim
+bip_39_word_space_2: angle seminar
+bip_39_word_space_3: angle seminar whip
+bip_39_word_space_4: angle seminar whip range
+bip_39_word_space_5: angle seminar whip range canal
+bip_39_word_space_6: angle seminar whip range canal illness
+bip_39_word_space_7: angle seminar whip range canal illness joy
+bip_39_word_space_8: angle seminar whip range canal illness joy main
+bip_39_word_space_9: angle seminar whip range canal illness joy main beef
+bip_39_word_underscore_1: angle
+bip_39_word_underscore_10: angle_seminar_whip_range_canal_illness_joy_main_beef_patrol
+bip_39_word_underscore_11: angle_seminar_whip_range_canal_illness_joy_main_beef_patrol_dilemma
+bip_39_word_underscore_12: angle_seminar_whip_range_canal_illness_joy_main_beef_patrol_dilemma_aim
+bip_39_word_underscore_2: angle_seminar
+bip_39_word_underscore_3: angle_seminar_whip
+bip_39_word_underscore_4: angle_seminar_whip_range
+bip_39_word_underscore_5: angle_seminar_whip_range_canal
+bip_39_word_underscore_6: angle_seminar_whip_range_canal_illness
+bip_39_word_underscore_7: angle_seminar_whip_range_canal_illness_joy
+bip_39_word_underscore_8: angle_seminar_whip_range_canal_illness_joy_main
+bip_39_word_underscore_9: angle_seminar_whip_range_canal_illness_joy_main_beef
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_11_11_30
 id_no_color: '111130'
 id_no_size: '11_11_30'
 id_no_type: tray_thin_11_11_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_11_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_11_11_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203aoa0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203aoa0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203aoa0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '111130'
 name_no_size: 11 11 30
 name_no_size_short: 11 11 30
 name_no_type: Tray Thin 11 11 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_11_11_30
 oomp_word: whale tv mushroom
 oomp_word_emoji: ':whale: :tv: :mushroom:'

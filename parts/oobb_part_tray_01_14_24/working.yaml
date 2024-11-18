@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fluid
+bip_39_word_dash_10: fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade
+bip_39_word_dash_11: fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade-fetch
+bip_39_word_dash_12: fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen-upgrade-fetch-apple
+bip_39_word_dash_2: fluid-tribe
+bip_39_word_dash_3: fluid-tribe-prize
+bip_39_word_dash_4: fluid-tribe-prize-joke
+bip_39_word_dash_5: fluid-tribe-prize-joke-soft
+bip_39_word_dash_6: fluid-tribe-prize-joke-soft-mosquito
+bip_39_word_dash_7: fluid-tribe-prize-joke-soft-mosquito-solar
+bip_39_word_dash_8: fluid-tribe-prize-joke-soft-mosquito-solar-install
+bip_39_word_dash_9: fluid-tribe-prize-joke-soft-mosquito-solar-install-kitchen
+bip_39_word_new_br_1: fluid
+bip_39_word_new_br_10: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade
+bip_39_word_new_br_11: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch
+bip_39_word_new_br_12: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen<br>upgrade<br>fetch<br>apple
+bip_39_word_new_br_2: fluid<br>tribe
+bip_39_word_new_br_3: fluid<br>tribe<br>prize
+bip_39_word_new_br_4: fluid<br>tribe<br>prize<br>joke
+bip_39_word_new_br_5: fluid<br>tribe<br>prize<br>joke<br>soft
+bip_39_word_new_br_6: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito
+bip_39_word_new_br_7: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar
+bip_39_word_new_br_8: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install
+bip_39_word_new_br_9: fluid<br>tribe<br>prize<br>joke<br>soft<br>mosquito<br>solar<br>install<br>kitchen
+bip_39_word_new_line_1: fluid
+bip_39_word_new_line_10: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar
+
+  install
+
+  kitchen
+
+  upgrade'
+bip_39_word_new_line_11: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar
+
+  install
+
+  kitchen
+
+  upgrade
+
+  fetch'
+bip_39_word_new_line_12: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar
+
+  install
+
+  kitchen
+
+  upgrade
+
+  fetch
+
+  apple'
+bip_39_word_new_line_2: 'fluid
+
+  tribe'
+bip_39_word_new_line_3: 'fluid
+
+  tribe
+
+  prize'
+bip_39_word_new_line_4: 'fluid
+
+  tribe
+
+  prize
+
+  joke'
+bip_39_word_new_line_5: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft'
+bip_39_word_new_line_6: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito'
+bip_39_word_new_line_7: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar'
+bip_39_word_new_line_8: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar
+
+  install'
+bip_39_word_new_line_9: 'fluid
+
+  tribe
+
+  prize
+
+  joke
+
+  soft
+
+  mosquito
+
+  solar
+
+  install
+
+  kitchen'
+bip_39_word_no_space_1: fluid
+bip_39_word_no_space_10: fluidtribeprizejokesoftmosquitosolarinstallkitchenupgrade
+bip_39_word_no_space_11: fluidtribeprizejokesoftmosquitosolarinstallkitchenupgradefetch
+bip_39_word_no_space_12: fluidtribeprizejokesoftmosquitosolarinstallkitchenupgradefetchapple
+bip_39_word_no_space_2: fluidtribe
+bip_39_word_no_space_3: fluidtribeprize
+bip_39_word_no_space_4: fluidtribeprizejoke
+bip_39_word_no_space_5: fluidtribeprizejokesoft
+bip_39_word_no_space_6: fluidtribeprizejokesoftmosquito
+bip_39_word_no_space_7: fluidtribeprizejokesoftmosquitosolar
+bip_39_word_no_space_8: fluidtribeprizejokesoftmosquitosolarinstall
+bip_39_word_no_space_9: fluidtribeprizejokesoftmosquitosolarinstallkitchen
+bip_39_word_space_0:
+- fluid
+- tribe
+- prize
+- joke
+- soft
+- mosquito
+- solar
+- install
+- kitchen
+- upgrade
+- fetch
+- apple
+bip_39_word_space_1: fluid
+bip_39_word_space_10: fluid tribe prize joke soft mosquito solar install kitchen upgrade
+bip_39_word_space_11: fluid tribe prize joke soft mosquito solar install kitchen upgrade
+  fetch
+bip_39_word_space_12: fluid tribe prize joke soft mosquito solar install kitchen upgrade
+  fetch apple
+bip_39_word_space_2: fluid tribe
+bip_39_word_space_3: fluid tribe prize
+bip_39_word_space_4: fluid tribe prize joke
+bip_39_word_space_5: fluid tribe prize joke soft
+bip_39_word_space_6: fluid tribe prize joke soft mosquito
+bip_39_word_space_7: fluid tribe prize joke soft mosquito solar
+bip_39_word_space_8: fluid tribe prize joke soft mosquito solar install
+bip_39_word_space_9: fluid tribe prize joke soft mosquito solar install kitchen
+bip_39_word_underscore_1: fluid
+bip_39_word_underscore_10: fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade
+bip_39_word_underscore_11: fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade_fetch
+bip_39_word_underscore_12: fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen_upgrade_fetch_apple
+bip_39_word_underscore_2: fluid_tribe
+bip_39_word_underscore_3: fluid_tribe_prize
+bip_39_word_underscore_4: fluid_tribe_prize_joke
+bip_39_word_underscore_5: fluid_tribe_prize_joke_soft
+bip_39_word_underscore_6: fluid_tribe_prize_joke_soft_mosquito
+bip_39_word_underscore_7: fluid_tribe_prize_joke_soft_mosquito_solar
+bip_39_word_underscore_8: fluid_tribe_prize_joke_soft_mosquito_solar_install
+bip_39_word_underscore_9: fluid_tribe_prize_joke_soft_mosquito_solar_install_kitchen
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_14_24
 id_no_color: '011424'
 id_no_size: '01_14_24'
 id_no_type: tray_01_14_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_14_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_14_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_14_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206nq9n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206nq9n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206nq9n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '011424'
 name_no_size: 01 14 24
 name_no_size_short: 01 14 24
 name_no_type: Tray 01 14 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_14_24
 oomp_word: lipstick lipstick curry
 oomp_word_emoji: ':lipstick: :lipstick: :curry:'

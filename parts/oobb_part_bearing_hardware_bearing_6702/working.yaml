@@ -1,3 +1,221 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-more-dune-riot-empty-panther-march-vessel-boil-roof
+bip_39_word_dash_11: engage-more-dune-riot-empty-panther-march-vessel-boil-roof-case
+bip_39_word_dash_12: engage-more-dune-riot-empty-panther-march-vessel-boil-roof-case-audit
+bip_39_word_dash_2: engage-more
+bip_39_word_dash_3: engage-more-dune
+bip_39_word_dash_4: engage-more-dune-riot
+bip_39_word_dash_5: engage-more-dune-riot-empty
+bip_39_word_dash_6: engage-more-dune-riot-empty-panther
+bip_39_word_dash_7: engage-more-dune-riot-empty-panther-march
+bip_39_word_dash_8: engage-more-dune-riot-empty-panther-march-vessel
+bip_39_word_dash_9: engage-more-dune-riot-empty-panther-march-vessel-boil
+bip_39_word_new_br_1: engage
+bip_39_word_new_br_10: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil<br>roof
+bip_39_word_new_br_11: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil<br>roof<br>case
+bip_39_word_new_br_12: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil<br>roof<br>case<br>audit
+bip_39_word_new_br_2: engage<br>more
+bip_39_word_new_br_3: engage<br>more<br>dune
+bip_39_word_new_br_4: engage<br>more<br>dune<br>riot
+bip_39_word_new_br_5: engage<br>more<br>dune<br>riot<br>empty
+bip_39_word_new_br_6: engage<br>more<br>dune<br>riot<br>empty<br>panther
+bip_39_word_new_br_7: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march
+bip_39_word_new_br_8: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel
+bip_39_word_new_br_9: engage<br>more<br>dune<br>riot<br>empty<br>panther<br>march<br>vessel<br>boil
+bip_39_word_new_line_1: engage
+bip_39_word_new_line_10: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march
+
+  vessel
+
+  boil
+
+  roof'
+bip_39_word_new_line_11: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march
+
+  vessel
+
+  boil
+
+  roof
+
+  case'
+bip_39_word_new_line_12: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march
+
+  vessel
+
+  boil
+
+  roof
+
+  case
+
+  audit'
+bip_39_word_new_line_2: 'engage
+
+  more'
+bip_39_word_new_line_3: 'engage
+
+  more
+
+  dune'
+bip_39_word_new_line_4: 'engage
+
+  more
+
+  dune
+
+  riot'
+bip_39_word_new_line_5: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty'
+bip_39_word_new_line_6: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther'
+bip_39_word_new_line_7: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march'
+bip_39_word_new_line_8: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march
+
+  vessel'
+bip_39_word_new_line_9: 'engage
+
+  more
+
+  dune
+
+  riot
+
+  empty
+
+  panther
+
+  march
+
+  vessel
+
+  boil'
+bip_39_word_no_space_1: engage
+bip_39_word_no_space_10: engagemoreduneriotemptypanthermarchvesselboilroof
+bip_39_word_no_space_11: engagemoreduneriotemptypanthermarchvesselboilroofcase
+bip_39_word_no_space_12: engagemoreduneriotemptypanthermarchvesselboilroofcaseaudit
+bip_39_word_no_space_2: engagemore
+bip_39_word_no_space_3: engagemoredune
+bip_39_word_no_space_4: engagemoreduneriot
+bip_39_word_no_space_5: engagemoreduneriotempty
+bip_39_word_no_space_6: engagemoreduneriotemptypanther
+bip_39_word_no_space_7: engagemoreduneriotemptypanthermarch
+bip_39_word_no_space_8: engagemoreduneriotemptypanthermarchvessel
+bip_39_word_no_space_9: engagemoreduneriotemptypanthermarchvesselboil
+bip_39_word_space_0:
+- engage
+- more
+- dune
+- riot
+- empty
+- panther
+- march
+- vessel
+- boil
+- roof
+- case
+- audit
+bip_39_word_space_1: engage
+bip_39_word_space_10: engage more dune riot empty panther march vessel boil roof
+bip_39_word_space_11: engage more dune riot empty panther march vessel boil roof case
+bip_39_word_space_12: engage more dune riot empty panther march vessel boil roof case
+  audit
+bip_39_word_space_2: engage more
+bip_39_word_space_3: engage more dune
+bip_39_word_space_4: engage more dune riot
+bip_39_word_space_5: engage more dune riot empty
+bip_39_word_space_6: engage more dune riot empty panther
+bip_39_word_space_7: engage more dune riot empty panther march
+bip_39_word_space_8: engage more dune riot empty panther march vessel
+bip_39_word_space_9: engage more dune riot empty panther march vessel boil
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_more_dune_riot_empty_panther_march_vessel_boil_roof
+bip_39_word_underscore_11: engage_more_dune_riot_empty_panther_march_vessel_boil_roof_case
+bip_39_word_underscore_12: engage_more_dune_riot_empty_panther_march_vessel_boil_roof_case_audit
+bip_39_word_underscore_2: engage_more
+bip_39_word_underscore_3: engage_more_dune
+bip_39_word_underscore_4: engage_more_dune_riot
+bip_39_word_underscore_5: engage_more_dune_riot_empty
+bip_39_word_underscore_6: engage_more_dune_riot_empty_panther
+bip_39_word_underscore_7: engage_more_dune_riot_empty_panther_march
+bip_39_word_underscore_8: engage_more_dune_riot_empty_panther_march_vessel
+bip_39_word_underscore_9: engage_more_dune_riot_empty_panther_march_vessel_boil
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_bearing_hardware_bearing_6702
 id_no_color: hardware6702
 id_no_size: hardware_6702
 id_no_type: bearing_hardware_bearing_6702
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6702
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_hardware_bearing_6702
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bearing_hardware_bearing_6702
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209di7i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209di7i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209di7i
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: Hardware6702
 name_no_size: Hardware 6702
 name_no_size_short: Hardware 6k7
 name_no_type: Bearing Hardware Bearing 6702
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_hardware_bearing_6702
 oomp_word: train bird new_moon
 oomp_word_emoji: ':train: :bird: :new_moon:'

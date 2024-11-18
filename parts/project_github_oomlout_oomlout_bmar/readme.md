@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Bmar
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_bmar
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :angel: :panda_face: :factory:
 * md5_6_alpha: 16in0
 * md5_6: 1e44dc
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2016in0)
+[2x1](http://192.168.1.242:1112/?label=oomp%2016in0)
+[6x4](http://192.168.1.55:1112/?label=oomp%2016in0)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bmar) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bmar)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ vanish |
 | id_no_color | bmar |  
 | id_no_size | bmar |  
 | id_no_type | oomlout_oomlout_bmar |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bmar |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bmar |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bmar |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2016in0 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2016in0 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2016in0 |  
 | link_redirect | https://github.com/oomlout/oomlout-BMAR |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ vanish |
 | name_no_size | Bmar |  
 | name_no_size_short | Bmar |  
 | name_no_type | Oomlout Oomlout Bmar |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bmar |  
 | oomp_word | angel panda_face factory |  
 | oomp_word_emoji | :angel: :panda_face: :factory: |  

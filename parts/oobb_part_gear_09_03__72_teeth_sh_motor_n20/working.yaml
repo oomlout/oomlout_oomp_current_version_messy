@@ -1,3 +1,223 @@
+bip_39_word_dash_1: large
+bip_39_word_dash_10: large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float
+bip_39_word_dash_11: large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float-end
+bip_39_word_dash_12: large-toddler-trick-pitch-suspect-angle-above-blouse-donkey-float-end-already
+bip_39_word_dash_2: large-toddler
+bip_39_word_dash_3: large-toddler-trick
+bip_39_word_dash_4: large-toddler-trick-pitch
+bip_39_word_dash_5: large-toddler-trick-pitch-suspect
+bip_39_word_dash_6: large-toddler-trick-pitch-suspect-angle
+bip_39_word_dash_7: large-toddler-trick-pitch-suspect-angle-above
+bip_39_word_dash_8: large-toddler-trick-pitch-suspect-angle-above-blouse
+bip_39_word_dash_9: large-toddler-trick-pitch-suspect-angle-above-blouse-donkey
+bip_39_word_new_br_1: large
+bip_39_word_new_br_10: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float
+bip_39_word_new_br_11: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end
+bip_39_word_new_br_12: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey<br>float<br>end<br>already
+bip_39_word_new_br_2: large<br>toddler
+bip_39_word_new_br_3: large<br>toddler<br>trick
+bip_39_word_new_br_4: large<br>toddler<br>trick<br>pitch
+bip_39_word_new_br_5: large<br>toddler<br>trick<br>pitch<br>suspect
+bip_39_word_new_br_6: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle
+bip_39_word_new_br_7: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above
+bip_39_word_new_br_8: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse
+bip_39_word_new_br_9: large<br>toddler<br>trick<br>pitch<br>suspect<br>angle<br>above<br>blouse<br>donkey
+bip_39_word_new_line_1: large
+bip_39_word_new_line_10: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above
+
+  blouse
+
+  donkey
+
+  float'
+bip_39_word_new_line_11: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above
+
+  blouse
+
+  donkey
+
+  float
+
+  end'
+bip_39_word_new_line_12: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above
+
+  blouse
+
+  donkey
+
+  float
+
+  end
+
+  already'
+bip_39_word_new_line_2: 'large
+
+  toddler'
+bip_39_word_new_line_3: 'large
+
+  toddler
+
+  trick'
+bip_39_word_new_line_4: 'large
+
+  toddler
+
+  trick
+
+  pitch'
+bip_39_word_new_line_5: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect'
+bip_39_word_new_line_6: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle'
+bip_39_word_new_line_7: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above'
+bip_39_word_new_line_8: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above
+
+  blouse'
+bip_39_word_new_line_9: 'large
+
+  toddler
+
+  trick
+
+  pitch
+
+  suspect
+
+  angle
+
+  above
+
+  blouse
+
+  donkey'
+bip_39_word_no_space_1: large
+bip_39_word_no_space_10: largetoddlertrickpitchsuspectangleaboveblousedonkeyfloat
+bip_39_word_no_space_11: largetoddlertrickpitchsuspectangleaboveblousedonkeyfloatend
+bip_39_word_no_space_12: largetoddlertrickpitchsuspectangleaboveblousedonkeyfloatendalready
+bip_39_word_no_space_2: largetoddler
+bip_39_word_no_space_3: largetoddlertrick
+bip_39_word_no_space_4: largetoddlertrickpitch
+bip_39_word_no_space_5: largetoddlertrickpitchsuspect
+bip_39_word_no_space_6: largetoddlertrickpitchsuspectangle
+bip_39_word_no_space_7: largetoddlertrickpitchsuspectangleabove
+bip_39_word_no_space_8: largetoddlertrickpitchsuspectangleaboveblouse
+bip_39_word_no_space_9: largetoddlertrickpitchsuspectangleaboveblousedonkey
+bip_39_word_space_0:
+- large
+- toddler
+- trick
+- pitch
+- suspect
+- angle
+- above
+- blouse
+- donkey
+- float
+- end
+- already
+bip_39_word_space_1: large
+bip_39_word_space_10: large toddler trick pitch suspect angle above blouse donkey
+  float
+bip_39_word_space_11: large toddler trick pitch suspect angle above blouse donkey
+  float end
+bip_39_word_space_12: large toddler trick pitch suspect angle above blouse donkey
+  float end already
+bip_39_word_space_2: large toddler
+bip_39_word_space_3: large toddler trick
+bip_39_word_space_4: large toddler trick pitch
+bip_39_word_space_5: large toddler trick pitch suspect
+bip_39_word_space_6: large toddler trick pitch suspect angle
+bip_39_word_space_7: large toddler trick pitch suspect angle above
+bip_39_word_space_8: large toddler trick pitch suspect angle above blouse
+bip_39_word_space_9: large toddler trick pitch suspect angle above blouse donkey
+bip_39_word_underscore_1: large
+bip_39_word_underscore_10: large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float
+bip_39_word_underscore_11: large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float_end
+bip_39_word_underscore_12: large_toddler_trick_pitch_suspect_angle_above_blouse_donkey_float_end_already
+bip_39_word_underscore_2: large_toddler
+bip_39_word_underscore_3: large_toddler_trick
+bip_39_word_underscore_4: large_toddler_trick_pitch
+bip_39_word_underscore_5: large_toddler_trick_pitch_suspect
+bip_39_word_underscore_6: large_toddler_trick_pitch_suspect_angle
+bip_39_word_underscore_7: large_toddler_trick_pitch_suspect_angle_above
+bip_39_word_underscore_8: large_toddler_trick_pitch_suspect_angle_above_blouse
+bip_39_word_underscore_9: large_toddler_trick_pitch_suspect_angle_above_blouse_donkey
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_gear_09_03__72_teeth_sh_motor_n20
 id_no_color: 090372teethshmotorn20
 id_no_size: 09_03__72_teeth_sh_motor_n20
 id_no_type: gear_09_03__72_teeth_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_03__72_teeth_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_09_03__72_teeth_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_09_03__72_teeth_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204gxsm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204gxsm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204gxsm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 090372Teethshmotorn20
 name_no_size: 09 03  72 Teeth Sh Motor N20
 name_no_size_short: 09 03  72 Teeth Sh Motor N20
 name_no_type: Gear 09 03  72 Teeth Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_09_03__72_teeth_sh_motor_n20
 oomp_word: dolls books thumbsup
 oomp_word_emoji: ':dolls: :books: :thumbsup:'

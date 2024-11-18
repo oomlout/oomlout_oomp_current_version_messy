@@ -1,3 +1,221 @@
+bip_39_word_dash_1: swallow
+bip_39_word_dash_10: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best
+bip_39_word_dash_11: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best-model
+bip_39_word_dash_12: swallow-pet-include-crop-hollow-era-limb-cup-fiscal-best-model-appear
+bip_39_word_dash_2: swallow-pet
+bip_39_word_dash_3: swallow-pet-include
+bip_39_word_dash_4: swallow-pet-include-crop
+bip_39_word_dash_5: swallow-pet-include-crop-hollow
+bip_39_word_dash_6: swallow-pet-include-crop-hollow-era
+bip_39_word_dash_7: swallow-pet-include-crop-hollow-era-limb
+bip_39_word_dash_8: swallow-pet-include-crop-hollow-era-limb-cup
+bip_39_word_dash_9: swallow-pet-include-crop-hollow-era-limb-cup-fiscal
+bip_39_word_new_br_1: swallow
+bip_39_word_new_br_10: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best
+bip_39_word_new_br_11: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best<br>model
+bip_39_word_new_br_12: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal<br>best<br>model<br>appear
+bip_39_word_new_br_2: swallow<br>pet
+bip_39_word_new_br_3: swallow<br>pet<br>include
+bip_39_word_new_br_4: swallow<br>pet<br>include<br>crop
+bip_39_word_new_br_5: swallow<br>pet<br>include<br>crop<br>hollow
+bip_39_word_new_br_6: swallow<br>pet<br>include<br>crop<br>hollow<br>era
+bip_39_word_new_br_7: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb
+bip_39_word_new_br_8: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup
+bip_39_word_new_br_9: swallow<br>pet<br>include<br>crop<br>hollow<br>era<br>limb<br>cup<br>fiscal
+bip_39_word_new_line_1: swallow
+bip_39_word_new_line_10: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb
+
+  cup
+
+  fiscal
+
+  best'
+bip_39_word_new_line_11: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb
+
+  cup
+
+  fiscal
+
+  best
+
+  model'
+bip_39_word_new_line_12: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb
+
+  cup
+
+  fiscal
+
+  best
+
+  model
+
+  appear'
+bip_39_word_new_line_2: 'swallow
+
+  pet'
+bip_39_word_new_line_3: 'swallow
+
+  pet
+
+  include'
+bip_39_word_new_line_4: 'swallow
+
+  pet
+
+  include
+
+  crop'
+bip_39_word_new_line_5: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow'
+bip_39_word_new_line_6: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era'
+bip_39_word_new_line_7: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb'
+bip_39_word_new_line_8: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb
+
+  cup'
+bip_39_word_new_line_9: 'swallow
+
+  pet
+
+  include
+
+  crop
+
+  hollow
+
+  era
+
+  limb
+
+  cup
+
+  fiscal'
+bip_39_word_no_space_1: swallow
+bip_39_word_no_space_10: swallowpetincludecropholloweralimbcupfiscalbest
+bip_39_word_no_space_11: swallowpetincludecropholloweralimbcupfiscalbestmodel
+bip_39_word_no_space_12: swallowpetincludecropholloweralimbcupfiscalbestmodelappear
+bip_39_word_no_space_2: swallowpet
+bip_39_word_no_space_3: swallowpetinclude
+bip_39_word_no_space_4: swallowpetincludecrop
+bip_39_word_no_space_5: swallowpetincludecrophollow
+bip_39_word_no_space_6: swallowpetincludecrophollowera
+bip_39_word_no_space_7: swallowpetincludecropholloweralimb
+bip_39_word_no_space_8: swallowpetincludecropholloweralimbcup
+bip_39_word_no_space_9: swallowpetincludecropholloweralimbcupfiscal
+bip_39_word_space_0:
+- swallow
+- pet
+- include
+- crop
+- hollow
+- era
+- limb
+- cup
+- fiscal
+- best
+- model
+- appear
+bip_39_word_space_1: swallow
+bip_39_word_space_10: swallow pet include crop hollow era limb cup fiscal best
+bip_39_word_space_11: swallow pet include crop hollow era limb cup fiscal best model
+bip_39_word_space_12: swallow pet include crop hollow era limb cup fiscal best model
+  appear
+bip_39_word_space_2: swallow pet
+bip_39_word_space_3: swallow pet include
+bip_39_word_space_4: swallow pet include crop
+bip_39_word_space_5: swallow pet include crop hollow
+bip_39_word_space_6: swallow pet include crop hollow era
+bip_39_word_space_7: swallow pet include crop hollow era limb
+bip_39_word_space_8: swallow pet include crop hollow era limb cup
+bip_39_word_space_9: swallow pet include crop hollow era limb cup fiscal
+bip_39_word_underscore_1: swallow
+bip_39_word_underscore_10: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best
+bip_39_word_underscore_11: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best_model
+bip_39_word_underscore_12: swallow_pet_include_crop_hollow_era_limb_cup_fiscal_best_model_appear
+bip_39_word_underscore_2: swallow_pet
+bip_39_word_underscore_3: swallow_pet_include
+bip_39_word_underscore_4: swallow_pet_include_crop
+bip_39_word_underscore_5: swallow_pet_include_crop_hollow
+bip_39_word_underscore_6: swallow_pet_include_crop_hollow_era
+bip_39_word_underscore_7: swallow_pet_include_crop_hollow_era_limb
+bip_39_word_underscore_8: swallow_pet_include_crop_hollow_era_limb_cup
+bip_39_word_underscore_9: swallow_pet_include_crop_hollow_era_limb_cup_fiscal
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_gear_1d5_03__12d0_teeth_sh_motor_tt_01
 id_no_color: 1d50312d0teethshmotortt01
 id_no_size: 1d5_03__12d0_teeth_sh_motor_tt_01
 id_no_type: gear_1d5_03__12d0_teeth_sh_motor_tt_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ljph
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ljph
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ljph
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 1D50312D0Teethshmotortt01
 name_no_size: 1D5 03  12D0 Teeth Sh Motor Tt 01
 name_no_size_short: 1D5 03  12D0 Teeth Sh Motor Tt 01
 name_no_type: Gear 1D5 03  12D0 Teeth Sh Motor Tt 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_gear_1d5_03__12d0_teeth_sh_motor_tt_01
 oomp_word: sandal baby kissing
 oomp_word_emoji: ':sandal: :baby: :kissing:'

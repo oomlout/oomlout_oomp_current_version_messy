@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 16000 Series 16020 Size 100 mm ID 150 mm OD 16 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ambulance: :whale: :rocket:
 * md5_6_alpha: 9arxh
 * md5_6: ee54e5
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209arxh)
+[2x1](http://192.168.1.242:1112/?label=oomp%209arxh)
+[6x4](http://192.168.1.55:1112/?label=oomp%209arxh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ young |
 | id_no_color | 100_mm_id_150_mm_od_16_mm_depth |  
 | id_no_size | 16020_size_100_mm_id_150_mm_od_16_mm_depth |  
 | id_no_type | 16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209arxh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209arxh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209arxh |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ young |
 | name_no_size | 16020 Size 100 mm ID 150 mm OD 16 mm Depth |  
 | name_no_size_short | 16020 Size 100 Mm Id 150 Mm Od 16 Mm Depth |  
 | name_no_type | 16000 Series 16020 Size 100 mm ID 150 mm OD 16 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br16020 |  
 | oomlout_short_code_upper | BR16020 |  
 | oomp_key | oomp_hardware_bearing_16000_series_16020_size_100_mm_id_150_mm_od_16_mm_depth |  

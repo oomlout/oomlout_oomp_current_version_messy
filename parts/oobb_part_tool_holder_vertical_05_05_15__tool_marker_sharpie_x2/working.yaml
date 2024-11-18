@@ -1,3 +1,223 @@
+bip_39_word_dash_1: opinion
+bip_39_word_dash_10: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble
+bip_39_word_dash_11: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble-limb
+bip_39_word_dash_12: opinion-where-buddy-course-tragic-venue-retire-trigger-secret-noble-limb-amazing
+bip_39_word_dash_2: opinion-where
+bip_39_word_dash_3: opinion-where-buddy
+bip_39_word_dash_4: opinion-where-buddy-course
+bip_39_word_dash_5: opinion-where-buddy-course-tragic
+bip_39_word_dash_6: opinion-where-buddy-course-tragic-venue
+bip_39_word_dash_7: opinion-where-buddy-course-tragic-venue-retire
+bip_39_word_dash_8: opinion-where-buddy-course-tragic-venue-retire-trigger
+bip_39_word_dash_9: opinion-where-buddy-course-tragic-venue-retire-trigger-secret
+bip_39_word_new_br_1: opinion
+bip_39_word_new_br_10: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble
+bip_39_word_new_br_11: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble<br>limb
+bip_39_word_new_br_12: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret<br>noble<br>limb<br>amazing
+bip_39_word_new_br_2: opinion<br>where
+bip_39_word_new_br_3: opinion<br>where<br>buddy
+bip_39_word_new_br_4: opinion<br>where<br>buddy<br>course
+bip_39_word_new_br_5: opinion<br>where<br>buddy<br>course<br>tragic
+bip_39_word_new_br_6: opinion<br>where<br>buddy<br>course<br>tragic<br>venue
+bip_39_word_new_br_7: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire
+bip_39_word_new_br_8: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger
+bip_39_word_new_br_9: opinion<br>where<br>buddy<br>course<br>tragic<br>venue<br>retire<br>trigger<br>secret
+bip_39_word_new_line_1: opinion
+bip_39_word_new_line_10: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble'
+bip_39_word_new_line_11: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble
+
+  limb'
+bip_39_word_new_line_12: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret
+
+  noble
+
+  limb
+
+  amazing'
+bip_39_word_new_line_2: 'opinion
+
+  where'
+bip_39_word_new_line_3: 'opinion
+
+  where
+
+  buddy'
+bip_39_word_new_line_4: 'opinion
+
+  where
+
+  buddy
+
+  course'
+bip_39_word_new_line_5: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic'
+bip_39_word_new_line_6: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue'
+bip_39_word_new_line_7: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire'
+bip_39_word_new_line_8: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger'
+bip_39_word_new_line_9: 'opinion
+
+  where
+
+  buddy
+
+  course
+
+  tragic
+
+  venue
+
+  retire
+
+  trigger
+
+  secret'
+bip_39_word_no_space_1: opinion
+bip_39_word_no_space_10: opinionwherebuddycoursetragicvenueretiretriggersecretnoble
+bip_39_word_no_space_11: opinionwherebuddycoursetragicvenueretiretriggersecretnoblelimb
+bip_39_word_no_space_12: opinionwherebuddycoursetragicvenueretiretriggersecretnoblelimbamazing
+bip_39_word_no_space_2: opinionwhere
+bip_39_word_no_space_3: opinionwherebuddy
+bip_39_word_no_space_4: opinionwherebuddycourse
+bip_39_word_no_space_5: opinionwherebuddycoursetragic
+bip_39_word_no_space_6: opinionwherebuddycoursetragicvenue
+bip_39_word_no_space_7: opinionwherebuddycoursetragicvenueretire
+bip_39_word_no_space_8: opinionwherebuddycoursetragicvenueretiretrigger
+bip_39_word_no_space_9: opinionwherebuddycoursetragicvenueretiretriggersecret
+bip_39_word_space_0:
+- opinion
+- where
+- buddy
+- course
+- tragic
+- venue
+- retire
+- trigger
+- secret
+- noble
+- limb
+- amazing
+bip_39_word_space_1: opinion
+bip_39_word_space_10: opinion where buddy course tragic venue retire trigger secret
+  noble
+bip_39_word_space_11: opinion where buddy course tragic venue retire trigger secret
+  noble limb
+bip_39_word_space_12: opinion where buddy course tragic venue retire trigger secret
+  noble limb amazing
+bip_39_word_space_2: opinion where
+bip_39_word_space_3: opinion where buddy
+bip_39_word_space_4: opinion where buddy course
+bip_39_word_space_5: opinion where buddy course tragic
+bip_39_word_space_6: opinion where buddy course tragic venue
+bip_39_word_space_7: opinion where buddy course tragic venue retire
+bip_39_word_space_8: opinion where buddy course tragic venue retire trigger
+bip_39_word_space_9: opinion where buddy course tragic venue retire trigger secret
+bip_39_word_underscore_1: opinion
+bip_39_word_underscore_10: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble
+bip_39_word_underscore_11: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble_limb
+bip_39_word_underscore_12: opinion_where_buddy_course_tragic_venue_retire_trigger_secret_noble_limb_amazing
+bip_39_word_underscore_2: opinion_where
+bip_39_word_underscore_3: opinion_where_buddy
+bip_39_word_underscore_4: opinion_where_buddy_course
+bip_39_word_underscore_5: opinion_where_buddy_course_tragic
+bip_39_word_underscore_6: opinion_where_buddy_course_tragic_venue
+bip_39_word_underscore_7: opinion_where_buddy_course_tragic_venue_retire
+bip_39_word_underscore_8: opinion_where_buddy_course_tragic_venue_retire_trigger
+bip_39_word_underscore_9: opinion_where_buddy_course_tragic_venue_retire_trigger_secret
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
 id_no_color: 050515toolmarkersharpiex2
 id_no_size: 05_05_15__tool_marker_sharpie_x2
 id_no_type: tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204vlph
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204vlph
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204vlph
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050515Toolmarkersharpiex2
 name_no_size: 05 05 15  Tool Marker Sharpie X2
 name_no_size_short: 05 05 15  Tool Marker Sharpie X2
 name_no_type: Tool Holder Vertical 05 05 15  Tool Marker Sharpie X2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_15__tool_marker_sharpie_x2
 oomp_word: phone grin headphones
 oomp_word_emoji: ':phone: :grin: :headphones:'

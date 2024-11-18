@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Switch Slide 2 54 Header Surface Mount Single Pole Double Throw
+* name_short: 
 ### id
 * oomp_id: electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
   * classification: electronic

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lottery
+bip_39_word_dash_10: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious
+bip_39_word_dash_11: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious-decorate
+bip_39_word_dash_12: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza-curious-decorate-alone
+bip_39_word_dash_2: lottery-visit
+bip_39_word_dash_3: lottery-visit-syrup
+bip_39_word_dash_4: lottery-visit-syrup-direct
+bip_39_word_dash_5: lottery-visit-syrup-direct-civil
+bip_39_word_dash_6: lottery-visit-syrup-direct-civil-toss
+bip_39_word_dash_7: lottery-visit-syrup-direct-civil-toss-imitate
+bip_39_word_dash_8: lottery-visit-syrup-direct-civil-toss-imitate-aerobic
+bip_39_word_dash_9: lottery-visit-syrup-direct-civil-toss-imitate-aerobic-pizza
+bip_39_word_new_br_1: lottery
+bip_39_word_new_br_10: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious
+bip_39_word_new_br_11: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious<br>decorate
+bip_39_word_new_br_12: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza<br>curious<br>decorate<br>alone
+bip_39_word_new_br_2: lottery<br>visit
+bip_39_word_new_br_3: lottery<br>visit<br>syrup
+bip_39_word_new_br_4: lottery<br>visit<br>syrup<br>direct
+bip_39_word_new_br_5: lottery<br>visit<br>syrup<br>direct<br>civil
+bip_39_word_new_br_6: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss
+bip_39_word_new_br_7: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate
+bip_39_word_new_br_8: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic
+bip_39_word_new_br_9: lottery<br>visit<br>syrup<br>direct<br>civil<br>toss<br>imitate<br>aerobic<br>pizza
+bip_39_word_new_line_1: lottery
+bip_39_word_new_line_10: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate
+
+  aerobic
+
+  pizza
+
+  curious'
+bip_39_word_new_line_11: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate
+
+  aerobic
+
+  pizza
+
+  curious
+
+  decorate'
+bip_39_word_new_line_12: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate
+
+  aerobic
+
+  pizza
+
+  curious
+
+  decorate
+
+  alone'
+bip_39_word_new_line_2: 'lottery
+
+  visit'
+bip_39_word_new_line_3: 'lottery
+
+  visit
+
+  syrup'
+bip_39_word_new_line_4: 'lottery
+
+  visit
+
+  syrup
+
+  direct'
+bip_39_word_new_line_5: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil'
+bip_39_word_new_line_6: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss'
+bip_39_word_new_line_7: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate'
+bip_39_word_new_line_8: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate
+
+  aerobic'
+bip_39_word_new_line_9: 'lottery
+
+  visit
+
+  syrup
+
+  direct
+
+  civil
+
+  toss
+
+  imitate
+
+  aerobic
+
+  pizza'
+bip_39_word_no_space_1: lottery
+bip_39_word_no_space_10: lotteryvisitsyrupdirectciviltossimitateaerobicpizzacurious
+bip_39_word_no_space_11: lotteryvisitsyrupdirectciviltossimitateaerobicpizzacuriousdecorate
+bip_39_word_no_space_12: lotteryvisitsyrupdirectciviltossimitateaerobicpizzacuriousdecoratealone
+bip_39_word_no_space_2: lotteryvisit
+bip_39_word_no_space_3: lotteryvisitsyrup
+bip_39_word_no_space_4: lotteryvisitsyrupdirect
+bip_39_word_no_space_5: lotteryvisitsyrupdirectcivil
+bip_39_word_no_space_6: lotteryvisitsyrupdirectciviltoss
+bip_39_word_no_space_7: lotteryvisitsyrupdirectciviltossimitate
+bip_39_word_no_space_8: lotteryvisitsyrupdirectciviltossimitateaerobic
+bip_39_word_no_space_9: lotteryvisitsyrupdirectciviltossimitateaerobicpizza
+bip_39_word_space_0:
+- lottery
+- visit
+- syrup
+- direct
+- civil
+- toss
+- imitate
+- aerobic
+- pizza
+- curious
+- decorate
+- alone
+bip_39_word_space_1: lottery
+bip_39_word_space_10: lottery visit syrup direct civil toss imitate aerobic pizza
+  curious
+bip_39_word_space_11: lottery visit syrup direct civil toss imitate aerobic pizza
+  curious decorate
+bip_39_word_space_12: lottery visit syrup direct civil toss imitate aerobic pizza
+  curious decorate alone
+bip_39_word_space_2: lottery visit
+bip_39_word_space_3: lottery visit syrup
+bip_39_word_space_4: lottery visit syrup direct
+bip_39_word_space_5: lottery visit syrup direct civil
+bip_39_word_space_6: lottery visit syrup direct civil toss
+bip_39_word_space_7: lottery visit syrup direct civil toss imitate
+bip_39_word_space_8: lottery visit syrup direct civil toss imitate aerobic
+bip_39_word_space_9: lottery visit syrup direct civil toss imitate aerobic pizza
+bip_39_word_underscore_1: lottery
+bip_39_word_underscore_10: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious
+bip_39_word_underscore_11: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious_decorate
+bip_39_word_underscore_12: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza_curious_decorate_alone
+bip_39_word_underscore_2: lottery_visit
+bip_39_word_underscore_3: lottery_visit_syrup
+bip_39_word_underscore_4: lottery_visit_syrup_direct
+bip_39_word_underscore_5: lottery_visit_syrup_direct_civil
+bip_39_word_underscore_6: lottery_visit_syrup_direct_civil_toss
+bip_39_word_underscore_7: lottery_visit_syrup_direct_civil_toss_imitate
+bip_39_word_underscore_8: lottery_visit_syrup_direct_civil_toss_imitate_aerobic
+bip_39_word_underscore_9: lottery_visit_syrup_direct_civil_toss_imitate_aerobic_pizza
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_nut_hardware_nut_m1d5
 id_no_color: hardwarem1d5
 id_no_size: hardware_m1d5
 id_no_type: nut_hardware_nut_m1d5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m1d5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_hardware_nut_m1d5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_nut_hardware_nut_m1d5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204b4zx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204b4zx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204b4zx
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: Hardwarem1D5
 name_no_size: Hardware M1D5
 name_no_size_short: Hardware M1D5
 name_no_type: Nut Hardware Nut M1D5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_nut_hardware_nut_m1d5
 oomp_word: new_moon dolls heart
 oomp_word_emoji: ':new_moon: :dolls: :heart:'

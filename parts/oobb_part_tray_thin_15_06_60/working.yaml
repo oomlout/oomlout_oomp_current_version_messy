@@ -1,3 +1,223 @@
+bip_39_word_dash_1: lucky
+bip_39_word_dash_10: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north
+bip_39_word_dash_11: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north-mule
+bip_39_word_dash_12: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge-north-mule-attend
+bip_39_word_dash_2: lucky-indicate
+bip_39_word_dash_3: lucky-indicate-wonder
+bip_39_word_dash_4: lucky-indicate-wonder-version
+bip_39_word_dash_5: lucky-indicate-wonder-version-barely
+bip_39_word_dash_6: lucky-indicate-wonder-version-barely-bargain
+bip_39_word_dash_7: lucky-indicate-wonder-version-barely-bargain-rubber
+bip_39_word_dash_8: lucky-indicate-wonder-version-barely-bargain-rubber-dawn
+bip_39_word_dash_9: lucky-indicate-wonder-version-barely-bargain-rubber-dawn-judge
+bip_39_word_new_br_1: lucky
+bip_39_word_new_br_10: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north
+bip_39_word_new_br_11: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north<br>mule
+bip_39_word_new_br_12: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge<br>north<br>mule<br>attend
+bip_39_word_new_br_2: lucky<br>indicate
+bip_39_word_new_br_3: lucky<br>indicate<br>wonder
+bip_39_word_new_br_4: lucky<br>indicate<br>wonder<br>version
+bip_39_word_new_br_5: lucky<br>indicate<br>wonder<br>version<br>barely
+bip_39_word_new_br_6: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain
+bip_39_word_new_br_7: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber
+bip_39_word_new_br_8: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn
+bip_39_word_new_br_9: lucky<br>indicate<br>wonder<br>version<br>barely<br>bargain<br>rubber<br>dawn<br>judge
+bip_39_word_new_line_1: lucky
+bip_39_word_new_line_10: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber
+
+  dawn
+
+  judge
+
+  north'
+bip_39_word_new_line_11: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber
+
+  dawn
+
+  judge
+
+  north
+
+  mule'
+bip_39_word_new_line_12: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber
+
+  dawn
+
+  judge
+
+  north
+
+  mule
+
+  attend'
+bip_39_word_new_line_2: 'lucky
+
+  indicate'
+bip_39_word_new_line_3: 'lucky
+
+  indicate
+
+  wonder'
+bip_39_word_new_line_4: 'lucky
+
+  indicate
+
+  wonder
+
+  version'
+bip_39_word_new_line_5: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely'
+bip_39_word_new_line_6: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain'
+bip_39_word_new_line_7: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber'
+bip_39_word_new_line_8: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber
+
+  dawn'
+bip_39_word_new_line_9: 'lucky
+
+  indicate
+
+  wonder
+
+  version
+
+  barely
+
+  bargain
+
+  rubber
+
+  dawn
+
+  judge'
+bip_39_word_no_space_1: lucky
+bip_39_word_no_space_10: luckyindicatewonderversionbarelybargainrubberdawnjudgenorth
+bip_39_word_no_space_11: luckyindicatewonderversionbarelybargainrubberdawnjudgenorthmule
+bip_39_word_no_space_12: luckyindicatewonderversionbarelybargainrubberdawnjudgenorthmuleattend
+bip_39_word_no_space_2: luckyindicate
+bip_39_word_no_space_3: luckyindicatewonder
+bip_39_word_no_space_4: luckyindicatewonderversion
+bip_39_word_no_space_5: luckyindicatewonderversionbarely
+bip_39_word_no_space_6: luckyindicatewonderversionbarelybargain
+bip_39_word_no_space_7: luckyindicatewonderversionbarelybargainrubber
+bip_39_word_no_space_8: luckyindicatewonderversionbarelybargainrubberdawn
+bip_39_word_no_space_9: luckyindicatewonderversionbarelybargainrubberdawnjudge
+bip_39_word_space_0:
+- lucky
+- indicate
+- wonder
+- version
+- barely
+- bargain
+- rubber
+- dawn
+- judge
+- north
+- mule
+- attend
+bip_39_word_space_1: lucky
+bip_39_word_space_10: lucky indicate wonder version barely bargain rubber dawn judge
+  north
+bip_39_word_space_11: lucky indicate wonder version barely bargain rubber dawn judge
+  north mule
+bip_39_word_space_12: lucky indicate wonder version barely bargain rubber dawn judge
+  north mule attend
+bip_39_word_space_2: lucky indicate
+bip_39_word_space_3: lucky indicate wonder
+bip_39_word_space_4: lucky indicate wonder version
+bip_39_word_space_5: lucky indicate wonder version barely
+bip_39_word_space_6: lucky indicate wonder version barely bargain
+bip_39_word_space_7: lucky indicate wonder version barely bargain rubber
+bip_39_word_space_8: lucky indicate wonder version barely bargain rubber dawn
+bip_39_word_space_9: lucky indicate wonder version barely bargain rubber dawn judge
+bip_39_word_underscore_1: lucky
+bip_39_word_underscore_10: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north
+bip_39_word_underscore_11: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north_mule
+bip_39_word_underscore_12: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge_north_mule_attend
+bip_39_word_underscore_2: lucky_indicate
+bip_39_word_underscore_3: lucky_indicate_wonder
+bip_39_word_underscore_4: lucky_indicate_wonder_version
+bip_39_word_underscore_5: lucky_indicate_wonder_version_barely
+bip_39_word_underscore_6: lucky_indicate_wonder_version_barely_bargain
+bip_39_word_underscore_7: lucky_indicate_wonder_version_barely_bargain_rubber
+bip_39_word_underscore_8: lucky_indicate_wonder_version_barely_bargain_rubber_dawn
+bip_39_word_underscore_9: lucky_indicate_wonder_version_barely_bargain_rubber_dawn_judge
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_06_60
 id_no_color: '150660'
 id_no_size: '15_06_60'
 id_no_type: tray_thin_15_06_60
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_06_60
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_06_60
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_06_60
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2093h5x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2093h5x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2093h5x
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150660'
 name_no_size: 15 06 60
 name_no_size_short: 15 06 60
 name_no_type: Tray Thin 15 06 60
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_06_60
 oomp_word: bike lips headphones
 oomp_word_emoji: ':bike: :lips: :headphones:'

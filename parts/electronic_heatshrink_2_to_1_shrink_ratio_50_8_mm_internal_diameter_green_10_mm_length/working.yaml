@@ -1,3 +1,222 @@
+bip_39_word_dash_1: flavor
+bip_39_word_dash_10: flavor-home-mixed-exact-luxury-need-say-acoustic-farm-concert
+bip_39_word_dash_11: flavor-home-mixed-exact-luxury-need-say-acoustic-farm-concert-title
+bip_39_word_dash_12: flavor-home-mixed-exact-luxury-need-say-acoustic-farm-concert-title-arctic
+bip_39_word_dash_2: flavor-home
+bip_39_word_dash_3: flavor-home-mixed
+bip_39_word_dash_4: flavor-home-mixed-exact
+bip_39_word_dash_5: flavor-home-mixed-exact-luxury
+bip_39_word_dash_6: flavor-home-mixed-exact-luxury-need
+bip_39_word_dash_7: flavor-home-mixed-exact-luxury-need-say
+bip_39_word_dash_8: flavor-home-mixed-exact-luxury-need-say-acoustic
+bip_39_word_dash_9: flavor-home-mixed-exact-luxury-need-say-acoustic-farm
+bip_39_word_new_br_1: flavor
+bip_39_word_new_br_10: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert
+bip_39_word_new_br_11: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title
+bip_39_word_new_br_12: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm<br>concert<br>title<br>arctic
+bip_39_word_new_br_2: flavor<br>home
+bip_39_word_new_br_3: flavor<br>home<br>mixed
+bip_39_word_new_br_4: flavor<br>home<br>mixed<br>exact
+bip_39_word_new_br_5: flavor<br>home<br>mixed<br>exact<br>luxury
+bip_39_word_new_br_6: flavor<br>home<br>mixed<br>exact<br>luxury<br>need
+bip_39_word_new_br_7: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say
+bip_39_word_new_br_8: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic
+bip_39_word_new_br_9: flavor<br>home<br>mixed<br>exact<br>luxury<br>need<br>say<br>acoustic<br>farm
+bip_39_word_new_line_1: flavor
+bip_39_word_new_line_10: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say
+
+  acoustic
+
+  farm
+
+  concert'
+bip_39_word_new_line_11: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say
+
+  acoustic
+
+  farm
+
+  concert
+
+  title'
+bip_39_word_new_line_12: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say
+
+  acoustic
+
+  farm
+
+  concert
+
+  title
+
+  arctic'
+bip_39_word_new_line_2: 'flavor
+
+  home'
+bip_39_word_new_line_3: 'flavor
+
+  home
+
+  mixed'
+bip_39_word_new_line_4: 'flavor
+
+  home
+
+  mixed
+
+  exact'
+bip_39_word_new_line_5: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury'
+bip_39_word_new_line_6: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need'
+bip_39_word_new_line_7: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say'
+bip_39_word_new_line_8: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say
+
+  acoustic'
+bip_39_word_new_line_9: 'flavor
+
+  home
+
+  mixed
+
+  exact
+
+  luxury
+
+  need
+
+  say
+
+  acoustic
+
+  farm'
+bip_39_word_no_space_1: flavor
+bip_39_word_no_space_10: flavorhomemixedexactluxuryneedsayacousticfarmconcert
+bip_39_word_no_space_11: flavorhomemixedexactluxuryneedsayacousticfarmconcerttitle
+bip_39_word_no_space_12: flavorhomemixedexactluxuryneedsayacousticfarmconcerttitlearctic
+bip_39_word_no_space_2: flavorhome
+bip_39_word_no_space_3: flavorhomemixed
+bip_39_word_no_space_4: flavorhomemixedexact
+bip_39_word_no_space_5: flavorhomemixedexactluxury
+bip_39_word_no_space_6: flavorhomemixedexactluxuryneed
+bip_39_word_no_space_7: flavorhomemixedexactluxuryneedsay
+bip_39_word_no_space_8: flavorhomemixedexactluxuryneedsayacoustic
+bip_39_word_no_space_9: flavorhomemixedexactluxuryneedsayacousticfarm
+bip_39_word_space_0:
+- flavor
+- home
+- mixed
+- exact
+- luxury
+- need
+- say
+- acoustic
+- farm
+- concert
+- title
+- arctic
+bip_39_word_space_1: flavor
+bip_39_word_space_10: flavor home mixed exact luxury need say acoustic farm concert
+bip_39_word_space_11: flavor home mixed exact luxury need say acoustic farm concert
+  title
+bip_39_word_space_12: flavor home mixed exact luxury need say acoustic farm concert
+  title arctic
+bip_39_word_space_2: flavor home
+bip_39_word_space_3: flavor home mixed
+bip_39_word_space_4: flavor home mixed exact
+bip_39_word_space_5: flavor home mixed exact luxury
+bip_39_word_space_6: flavor home mixed exact luxury need
+bip_39_word_space_7: flavor home mixed exact luxury need say
+bip_39_word_space_8: flavor home mixed exact luxury need say acoustic
+bip_39_word_space_9: flavor home mixed exact luxury need say acoustic farm
+bip_39_word_underscore_1: flavor
+bip_39_word_underscore_10: flavor_home_mixed_exact_luxury_need_say_acoustic_farm_concert
+bip_39_word_underscore_11: flavor_home_mixed_exact_luxury_need_say_acoustic_farm_concert_title
+bip_39_word_underscore_12: flavor_home_mixed_exact_luxury_need_say_acoustic_farm_concert_title_arctic
+bip_39_word_underscore_2: flavor_home
+bip_39_word_underscore_3: flavor_home_mixed
+bip_39_word_underscore_4: flavor_home_mixed_exact
+bip_39_word_underscore_5: flavor_home_mixed_exact_luxury
+bip_39_word_underscore_6: flavor_home_mixed_exact_luxury_need
+bip_39_word_underscore_7: flavor_home_mixed_exact_luxury_need_say
+bip_39_word_underscore_8: flavor_home_mixed_exact_luxury_need_say_acoustic
+bip_39_word_underscore_9: flavor_home_mixed_exact_luxury_need_say_acoustic_farm
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 10_mm_length
 id_no_size: green_10_mm_length
 id_no_type: 50_8_mm_internal_diameter_green_10_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_green_10_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_green_10_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_green_10_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2070iq3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2070iq3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2070iq3
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 10 mm Length
 name_no_size: Green 10 mm Length
 name_no_size_short: Green 10 Mm Length
 name_no_type: 50 8 mm Internal Diameter Green 10 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_green_10_mm_length
 oomp_word: eyeglasses candy grapes
 oomp_word_emoji: ':eyeglasses: :candy: :grapes:'

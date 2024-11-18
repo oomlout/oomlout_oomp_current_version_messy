@@ -1,3 +1,222 @@
+bip_39_word_dash_1: layer
+bip_39_word_dash_10: layer-steak-impose-ignore-horn-manage-slot-employ-match-author
+bip_39_word_dash_11: layer-steak-impose-ignore-horn-manage-slot-employ-match-author-category
+bip_39_word_dash_12: layer-steak-impose-ignore-horn-manage-slot-employ-match-author-category-advice
+bip_39_word_dash_2: layer-steak
+bip_39_word_dash_3: layer-steak-impose
+bip_39_word_dash_4: layer-steak-impose-ignore
+bip_39_word_dash_5: layer-steak-impose-ignore-horn
+bip_39_word_dash_6: layer-steak-impose-ignore-horn-manage
+bip_39_word_dash_7: layer-steak-impose-ignore-horn-manage-slot
+bip_39_word_dash_8: layer-steak-impose-ignore-horn-manage-slot-employ
+bip_39_word_dash_9: layer-steak-impose-ignore-horn-manage-slot-employ-match
+bip_39_word_new_br_1: layer
+bip_39_word_new_br_10: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author
+bip_39_word_new_br_11: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author<br>category
+bip_39_word_new_br_12: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match<br>author<br>category<br>advice
+bip_39_word_new_br_2: layer<br>steak
+bip_39_word_new_br_3: layer<br>steak<br>impose
+bip_39_word_new_br_4: layer<br>steak<br>impose<br>ignore
+bip_39_word_new_br_5: layer<br>steak<br>impose<br>ignore<br>horn
+bip_39_word_new_br_6: layer<br>steak<br>impose<br>ignore<br>horn<br>manage
+bip_39_word_new_br_7: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot
+bip_39_word_new_br_8: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ
+bip_39_word_new_br_9: layer<br>steak<br>impose<br>ignore<br>horn<br>manage<br>slot<br>employ<br>match
+bip_39_word_new_line_1: layer
+bip_39_word_new_line_10: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot
+
+  employ
+
+  match
+
+  author'
+bip_39_word_new_line_11: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot
+
+  employ
+
+  match
+
+  author
+
+  category'
+bip_39_word_new_line_12: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot
+
+  employ
+
+  match
+
+  author
+
+  category
+
+  advice'
+bip_39_word_new_line_2: 'layer
+
+  steak'
+bip_39_word_new_line_3: 'layer
+
+  steak
+
+  impose'
+bip_39_word_new_line_4: 'layer
+
+  steak
+
+  impose
+
+  ignore'
+bip_39_word_new_line_5: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn'
+bip_39_word_new_line_6: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage'
+bip_39_word_new_line_7: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot'
+bip_39_word_new_line_8: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot
+
+  employ'
+bip_39_word_new_line_9: 'layer
+
+  steak
+
+  impose
+
+  ignore
+
+  horn
+
+  manage
+
+  slot
+
+  employ
+
+  match'
+bip_39_word_no_space_1: layer
+bip_39_word_no_space_10: layersteakimposeignorehornmanageslotemploymatchauthor
+bip_39_word_no_space_11: layersteakimposeignorehornmanageslotemploymatchauthorcategory
+bip_39_word_no_space_12: layersteakimposeignorehornmanageslotemploymatchauthorcategoryadvice
+bip_39_word_no_space_2: layersteak
+bip_39_word_no_space_3: layersteakimpose
+bip_39_word_no_space_4: layersteakimposeignore
+bip_39_word_no_space_5: layersteakimposeignorehorn
+bip_39_word_no_space_6: layersteakimposeignorehornmanage
+bip_39_word_no_space_7: layersteakimposeignorehornmanageslot
+bip_39_word_no_space_8: layersteakimposeignorehornmanageslotemploy
+bip_39_word_no_space_9: layersteakimposeignorehornmanageslotemploymatch
+bip_39_word_space_0:
+- layer
+- steak
+- impose
+- ignore
+- horn
+- manage
+- slot
+- employ
+- match
+- author
+- category
+- advice
+bip_39_word_space_1: layer
+bip_39_word_space_10: layer steak impose ignore horn manage slot employ match author
+bip_39_word_space_11: layer steak impose ignore horn manage slot employ match author
+  category
+bip_39_word_space_12: layer steak impose ignore horn manage slot employ match author
+  category advice
+bip_39_word_space_2: layer steak
+bip_39_word_space_3: layer steak impose
+bip_39_word_space_4: layer steak impose ignore
+bip_39_word_space_5: layer steak impose ignore horn
+bip_39_word_space_6: layer steak impose ignore horn manage
+bip_39_word_space_7: layer steak impose ignore horn manage slot
+bip_39_word_space_8: layer steak impose ignore horn manage slot employ
+bip_39_word_space_9: layer steak impose ignore horn manage slot employ match
+bip_39_word_underscore_1: layer
+bip_39_word_underscore_10: layer_steak_impose_ignore_horn_manage_slot_employ_match_author
+bip_39_word_underscore_11: layer_steak_impose_ignore_horn_manage_slot_employ_match_author_category
+bip_39_word_underscore_12: layer_steak_impose_ignore_horn_manage_slot_employ_match_author_category_advice
+bip_39_word_underscore_2: layer_steak
+bip_39_word_underscore_3: layer_steak_impose
+bip_39_word_underscore_4: layer_steak_impose_ignore
+bip_39_word_underscore_5: layer_steak_impose_ignore_horn
+bip_39_word_underscore_6: layer_steak_impose_ignore_horn_manage
+bip_39_word_underscore_7: layer_steak_impose_ignore_horn_manage_slot
+bip_39_word_underscore_8: layer_steak_impose_ignore_horn_manage_slot_employ
+bip_39_word_underscore_9: layer_steak_impose_ignore_horn_manage_slot_employ_match
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_11_12
 id_no_color: 091112
 id_no_size: 09_11_12
 id_no_type: tray_09_11_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_11_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_11_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_11_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202iamb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202iamb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202iamb
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091112
 name_no_size: 09 11 12
 name_no_size_short: 09 11 12
 name_no_type: Tray 09 11 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_11_12
 oomp_word: racehorse hatched_chick elephant
 oomp_word_emoji: ':racehorse: :hatched_chick: :elephant:'

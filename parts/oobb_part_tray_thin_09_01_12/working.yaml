@@ -1,3 +1,222 @@
+bip_39_word_dash_1: gold
+bip_39_word_dash_10: gold-portion-brief-want-project-excuse-exist-tongue-proof-include
+bip_39_word_dash_11: gold-portion-brief-want-project-excuse-exist-tongue-proof-include-alert
+bip_39_word_dash_12: gold-portion-brief-want-project-excuse-exist-tongue-proof-include-alert-access
+bip_39_word_dash_2: gold-portion
+bip_39_word_dash_3: gold-portion-brief
+bip_39_word_dash_4: gold-portion-brief-want
+bip_39_word_dash_5: gold-portion-brief-want-project
+bip_39_word_dash_6: gold-portion-brief-want-project-excuse
+bip_39_word_dash_7: gold-portion-brief-want-project-excuse-exist
+bip_39_word_dash_8: gold-portion-brief-want-project-excuse-exist-tongue
+bip_39_word_dash_9: gold-portion-brief-want-project-excuse-exist-tongue-proof
+bip_39_word_new_br_1: gold
+bip_39_word_new_br_10: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof<br>include
+bip_39_word_new_br_11: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof<br>include<br>alert
+bip_39_word_new_br_12: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof<br>include<br>alert<br>access
+bip_39_word_new_br_2: gold<br>portion
+bip_39_word_new_br_3: gold<br>portion<br>brief
+bip_39_word_new_br_4: gold<br>portion<br>brief<br>want
+bip_39_word_new_br_5: gold<br>portion<br>brief<br>want<br>project
+bip_39_word_new_br_6: gold<br>portion<br>brief<br>want<br>project<br>excuse
+bip_39_word_new_br_7: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist
+bip_39_word_new_br_8: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue
+bip_39_word_new_br_9: gold<br>portion<br>brief<br>want<br>project<br>excuse<br>exist<br>tongue<br>proof
+bip_39_word_new_line_1: gold
+bip_39_word_new_line_10: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist
+
+  tongue
+
+  proof
+
+  include'
+bip_39_word_new_line_11: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist
+
+  tongue
+
+  proof
+
+  include
+
+  alert'
+bip_39_word_new_line_12: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist
+
+  tongue
+
+  proof
+
+  include
+
+  alert
+
+  access'
+bip_39_word_new_line_2: 'gold
+
+  portion'
+bip_39_word_new_line_3: 'gold
+
+  portion
+
+  brief'
+bip_39_word_new_line_4: 'gold
+
+  portion
+
+  brief
+
+  want'
+bip_39_word_new_line_5: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project'
+bip_39_word_new_line_6: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse'
+bip_39_word_new_line_7: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist'
+bip_39_word_new_line_8: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist
+
+  tongue'
+bip_39_word_new_line_9: 'gold
+
+  portion
+
+  brief
+
+  want
+
+  project
+
+  excuse
+
+  exist
+
+  tongue
+
+  proof'
+bip_39_word_no_space_1: gold
+bip_39_word_no_space_10: goldportionbriefwantprojectexcuseexisttongueproofinclude
+bip_39_word_no_space_11: goldportionbriefwantprojectexcuseexisttongueproofincludealert
+bip_39_word_no_space_12: goldportionbriefwantprojectexcuseexisttongueproofincludealertaccess
+bip_39_word_no_space_2: goldportion
+bip_39_word_no_space_3: goldportionbrief
+bip_39_word_no_space_4: goldportionbriefwant
+bip_39_word_no_space_5: goldportionbriefwantproject
+bip_39_word_no_space_6: goldportionbriefwantprojectexcuse
+bip_39_word_no_space_7: goldportionbriefwantprojectexcuseexist
+bip_39_word_no_space_8: goldportionbriefwantprojectexcuseexisttongue
+bip_39_word_no_space_9: goldportionbriefwantprojectexcuseexisttongueproof
+bip_39_word_space_0:
+- gold
+- portion
+- brief
+- want
+- project
+- excuse
+- exist
+- tongue
+- proof
+- include
+- alert
+- access
+bip_39_word_space_1: gold
+bip_39_word_space_10: gold portion brief want project excuse exist tongue proof include
+bip_39_word_space_11: gold portion brief want project excuse exist tongue proof include
+  alert
+bip_39_word_space_12: gold portion brief want project excuse exist tongue proof include
+  alert access
+bip_39_word_space_2: gold portion
+bip_39_word_space_3: gold portion brief
+bip_39_word_space_4: gold portion brief want
+bip_39_word_space_5: gold portion brief want project
+bip_39_word_space_6: gold portion brief want project excuse
+bip_39_word_space_7: gold portion brief want project excuse exist
+bip_39_word_space_8: gold portion brief want project excuse exist tongue
+bip_39_word_space_9: gold portion brief want project excuse exist tongue proof
+bip_39_word_underscore_1: gold
+bip_39_word_underscore_10: gold_portion_brief_want_project_excuse_exist_tongue_proof_include
+bip_39_word_underscore_11: gold_portion_brief_want_project_excuse_exist_tongue_proof_include_alert
+bip_39_word_underscore_12: gold_portion_brief_want_project_excuse_exist_tongue_proof_include_alert_access
+bip_39_word_underscore_2: gold_portion
+bip_39_word_underscore_3: gold_portion_brief
+bip_39_word_underscore_4: gold_portion_brief_want
+bip_39_word_underscore_5: gold_portion_brief_want_project
+bip_39_word_underscore_6: gold_portion_brief_want_project_excuse
+bip_39_word_underscore_7: gold_portion_brief_want_project_excuse_exist
+bip_39_word_underscore_8: gold_portion_brief_want_project_excuse_exist_tongue
+bip_39_word_underscore_9: gold_portion_brief_want_project_excuse_exist_tongue_proof
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_01_12
 id_no_color: 090112
 id_no_size: 09_01_12
 id_no_type: tray_thin_09_01_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_01_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20s5ss
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20s5ss
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20s5ss
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090112
 name_no_size: 09 01 12
 name_no_size_short: 09 01 12
 name_no_type: Tray Thin 09 01 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_01_12
 oomp_word: fire alien ox
 oomp_word_emoji: ':fire: :alien: :ox:'

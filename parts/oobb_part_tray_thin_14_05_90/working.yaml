@@ -1,3 +1,223 @@
+bip_39_word_dash_1: feature
+bip_39_word_dash_10: feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe
+bip_39_word_dash_11: feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe-derive
+bip_39_word_dash_12: feature-fork-wing-banner-nothing-village-thrive-reform-derive-toe-derive-adjust
+bip_39_word_dash_2: feature-fork
+bip_39_word_dash_3: feature-fork-wing
+bip_39_word_dash_4: feature-fork-wing-banner
+bip_39_word_dash_5: feature-fork-wing-banner-nothing
+bip_39_word_dash_6: feature-fork-wing-banner-nothing-village
+bip_39_word_dash_7: feature-fork-wing-banner-nothing-village-thrive
+bip_39_word_dash_8: feature-fork-wing-banner-nothing-village-thrive-reform
+bip_39_word_dash_9: feature-fork-wing-banner-nothing-village-thrive-reform-derive
+bip_39_word_new_br_1: feature
+bip_39_word_new_br_10: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe
+bip_39_word_new_br_11: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe<br>derive
+bip_39_word_new_br_12: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive<br>toe<br>derive<br>adjust
+bip_39_word_new_br_2: feature<br>fork
+bip_39_word_new_br_3: feature<br>fork<br>wing
+bip_39_word_new_br_4: feature<br>fork<br>wing<br>banner
+bip_39_word_new_br_5: feature<br>fork<br>wing<br>banner<br>nothing
+bip_39_word_new_br_6: feature<br>fork<br>wing<br>banner<br>nothing<br>village
+bip_39_word_new_br_7: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive
+bip_39_word_new_br_8: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform
+bip_39_word_new_br_9: feature<br>fork<br>wing<br>banner<br>nothing<br>village<br>thrive<br>reform<br>derive
+bip_39_word_new_line_1: feature
+bip_39_word_new_line_10: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive
+
+  reform
+
+  derive
+
+  toe'
+bip_39_word_new_line_11: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive
+
+  reform
+
+  derive
+
+  toe
+
+  derive'
+bip_39_word_new_line_12: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive
+
+  reform
+
+  derive
+
+  toe
+
+  derive
+
+  adjust'
+bip_39_word_new_line_2: 'feature
+
+  fork'
+bip_39_word_new_line_3: 'feature
+
+  fork
+
+  wing'
+bip_39_word_new_line_4: 'feature
+
+  fork
+
+  wing
+
+  banner'
+bip_39_word_new_line_5: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing'
+bip_39_word_new_line_6: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village'
+bip_39_word_new_line_7: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive'
+bip_39_word_new_line_8: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive
+
+  reform'
+bip_39_word_new_line_9: 'feature
+
+  fork
+
+  wing
+
+  banner
+
+  nothing
+
+  village
+
+  thrive
+
+  reform
+
+  derive'
+bip_39_word_no_space_1: feature
+bip_39_word_no_space_10: featureforkwingbannernothingvillagethrivereformderivetoe
+bip_39_word_no_space_11: featureforkwingbannernothingvillagethrivereformderivetoederive
+bip_39_word_no_space_12: featureforkwingbannernothingvillagethrivereformderivetoederiveadjust
+bip_39_word_no_space_2: featurefork
+bip_39_word_no_space_3: featureforkwing
+bip_39_word_no_space_4: featureforkwingbanner
+bip_39_word_no_space_5: featureforkwingbannernothing
+bip_39_word_no_space_6: featureforkwingbannernothingvillage
+bip_39_word_no_space_7: featureforkwingbannernothingvillagethrive
+bip_39_word_no_space_8: featureforkwingbannernothingvillagethrivereform
+bip_39_word_no_space_9: featureforkwingbannernothingvillagethrivereformderive
+bip_39_word_space_0:
+- feature
+- fork
+- wing
+- banner
+- nothing
+- village
+- thrive
+- reform
+- derive
+- toe
+- derive
+- adjust
+bip_39_word_space_1: feature
+bip_39_word_space_10: feature fork wing banner nothing village thrive reform derive
+  toe
+bip_39_word_space_11: feature fork wing banner nothing village thrive reform derive
+  toe derive
+bip_39_word_space_12: feature fork wing banner nothing village thrive reform derive
+  toe derive adjust
+bip_39_word_space_2: feature fork
+bip_39_word_space_3: feature fork wing
+bip_39_word_space_4: feature fork wing banner
+bip_39_word_space_5: feature fork wing banner nothing
+bip_39_word_space_6: feature fork wing banner nothing village
+bip_39_word_space_7: feature fork wing banner nothing village thrive
+bip_39_word_space_8: feature fork wing banner nothing village thrive reform
+bip_39_word_space_9: feature fork wing banner nothing village thrive reform derive
+bip_39_word_underscore_1: feature
+bip_39_word_underscore_10: feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe
+bip_39_word_underscore_11: feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe_derive
+bip_39_word_underscore_12: feature_fork_wing_banner_nothing_village_thrive_reform_derive_toe_derive_adjust
+bip_39_word_underscore_2: feature_fork
+bip_39_word_underscore_3: feature_fork_wing
+bip_39_word_underscore_4: feature_fork_wing_banner
+bip_39_word_underscore_5: feature_fork_wing_banner_nothing
+bip_39_word_underscore_6: feature_fork_wing_banner_nothing_village
+bip_39_word_underscore_7: feature_fork_wing_banner_nothing_village_thrive
+bip_39_word_underscore_8: feature_fork_wing_banner_nothing_village_thrive_reform
+bip_39_word_underscore_9: feature_fork_wing_banner_nothing_village_thrive_reform_derive
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_14_05_90
 id_no_color: '140590'
 id_no_size: '14_05_90'
 id_no_type: tray_thin_14_05_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_05_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_05_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_05_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2027baw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2027baw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2027baw
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '140590'
 name_no_size: 14 05 90
 name_no_size_short: 14 05 90
 name_no_type: Tray Thin 14 05 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_05_90
 oomp_word: frog santa seven
 oomp_word_emoji: ':frog: :santa: :seven:'

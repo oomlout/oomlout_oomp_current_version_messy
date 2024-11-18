@@ -1,3 +1,222 @@
+bip_39_word_dash_1: glue
+bip_39_word_dash_10: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ
+bip_39_word_dash_11: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ-evoke
+bip_39_word_dash_12: glue-brother-ride-kidney-apple-retreat-demand-direct-slot-organ-evoke-assist
+bip_39_word_dash_2: glue-brother
+bip_39_word_dash_3: glue-brother-ride
+bip_39_word_dash_4: glue-brother-ride-kidney
+bip_39_word_dash_5: glue-brother-ride-kidney-apple
+bip_39_word_dash_6: glue-brother-ride-kidney-apple-retreat
+bip_39_word_dash_7: glue-brother-ride-kidney-apple-retreat-demand
+bip_39_word_dash_8: glue-brother-ride-kidney-apple-retreat-demand-direct
+bip_39_word_dash_9: glue-brother-ride-kidney-apple-retreat-demand-direct-slot
+bip_39_word_new_br_1: glue
+bip_39_word_new_br_10: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ
+bip_39_word_new_br_11: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke
+bip_39_word_new_br_12: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot<br>organ<br>evoke<br>assist
+bip_39_word_new_br_2: glue<br>brother
+bip_39_word_new_br_3: glue<br>brother<br>ride
+bip_39_word_new_br_4: glue<br>brother<br>ride<br>kidney
+bip_39_word_new_br_5: glue<br>brother<br>ride<br>kidney<br>apple
+bip_39_word_new_br_6: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat
+bip_39_word_new_br_7: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand
+bip_39_word_new_br_8: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct
+bip_39_word_new_br_9: glue<br>brother<br>ride<br>kidney<br>apple<br>retreat<br>demand<br>direct<br>slot
+bip_39_word_new_line_1: glue
+bip_39_word_new_line_10: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand
+
+  direct
+
+  slot
+
+  organ'
+bip_39_word_new_line_11: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand
+
+  direct
+
+  slot
+
+  organ
+
+  evoke'
+bip_39_word_new_line_12: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand
+
+  direct
+
+  slot
+
+  organ
+
+  evoke
+
+  assist'
+bip_39_word_new_line_2: 'glue
+
+  brother'
+bip_39_word_new_line_3: 'glue
+
+  brother
+
+  ride'
+bip_39_word_new_line_4: 'glue
+
+  brother
+
+  ride
+
+  kidney'
+bip_39_word_new_line_5: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple'
+bip_39_word_new_line_6: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat'
+bip_39_word_new_line_7: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand'
+bip_39_word_new_line_8: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand
+
+  direct'
+bip_39_word_new_line_9: 'glue
+
+  brother
+
+  ride
+
+  kidney
+
+  apple
+
+  retreat
+
+  demand
+
+  direct
+
+  slot'
+bip_39_word_no_space_1: glue
+bip_39_word_no_space_10: gluebrotherridekidneyappleretreatdemanddirectslotorgan
+bip_39_word_no_space_11: gluebrotherridekidneyappleretreatdemanddirectslotorganevoke
+bip_39_word_no_space_12: gluebrotherridekidneyappleretreatdemanddirectslotorganevokeassist
+bip_39_word_no_space_2: gluebrother
+bip_39_word_no_space_3: gluebrotherride
+bip_39_word_no_space_4: gluebrotherridekidney
+bip_39_word_no_space_5: gluebrotherridekidneyapple
+bip_39_word_no_space_6: gluebrotherridekidneyappleretreat
+bip_39_word_no_space_7: gluebrotherridekidneyappleretreatdemand
+bip_39_word_no_space_8: gluebrotherridekidneyappleretreatdemanddirect
+bip_39_word_no_space_9: gluebrotherridekidneyappleretreatdemanddirectslot
+bip_39_word_space_0:
+- glue
+- brother
+- ride
+- kidney
+- apple
+- retreat
+- demand
+- direct
+- slot
+- organ
+- evoke
+- assist
+bip_39_word_space_1: glue
+bip_39_word_space_10: glue brother ride kidney apple retreat demand direct slot organ
+bip_39_word_space_11: glue brother ride kidney apple retreat demand direct slot organ
+  evoke
+bip_39_word_space_12: glue brother ride kidney apple retreat demand direct slot organ
+  evoke assist
+bip_39_word_space_2: glue brother
+bip_39_word_space_3: glue brother ride
+bip_39_word_space_4: glue brother ride kidney
+bip_39_word_space_5: glue brother ride kidney apple
+bip_39_word_space_6: glue brother ride kidney apple retreat
+bip_39_word_space_7: glue brother ride kidney apple retreat demand
+bip_39_word_space_8: glue brother ride kidney apple retreat demand direct
+bip_39_word_space_9: glue brother ride kidney apple retreat demand direct slot
+bip_39_word_underscore_1: glue
+bip_39_word_underscore_10: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ
+bip_39_word_underscore_11: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ_evoke
+bip_39_word_underscore_12: glue_brother_ride_kidney_apple_retreat_demand_direct_slot_organ_evoke_assist
+bip_39_word_underscore_2: glue_brother
+bip_39_word_underscore_3: glue_brother_ride
+bip_39_word_underscore_4: glue_brother_ride_kidney
+bip_39_word_underscore_5: glue_brother_ride_kidney_apple
+bip_39_word_underscore_6: glue_brother_ride_kidney_apple_retreat
+bip_39_word_underscore_7: glue_brother_ride_kidney_apple_retreat_demand
+bip_39_word_underscore_8: glue_brother_ride_kidney_apple_retreat_demand_direct
+bip_39_word_underscore_9: glue_brother_ride_kidney_apple_retreat_demand_direct_slot
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_05_03_12
 id_no_color: '050312'
 id_no_size: '05_03_12'
 id_no_type: plate_05_03_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_03_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_03_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208lvs7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208lvs7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208lvs7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '050312'
 name_no_size: 05 03 12
 name_no_size_short: 05 03 12
 name_no_type: Plate 05 03 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_03_12
 oomp_word: factory spades nose
 oomp_word_emoji: ':factory: :spades: :nose:'

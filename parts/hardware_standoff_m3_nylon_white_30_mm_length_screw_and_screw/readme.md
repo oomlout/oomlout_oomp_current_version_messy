@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Standoff M3 Nylon White 30 mm Length Screw And Screw
+* name_short: 
 ### id
 * oomp_id: hardware_standoff_m3_nylon_white_30_mm_length_screw_and_screw
   * classification: hardware

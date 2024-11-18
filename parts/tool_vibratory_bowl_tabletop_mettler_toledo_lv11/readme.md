@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Tool Vibratory Bowl Tabletop Mettler Toledo Lv11
+* name_short: 
 ### id
 * oomp_id: tool_vibratory_bowl_tabletop_mettler_toledo_lv11
   * classification: tool
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :ramen: :six: :seven:
 * md5_6_alpha: 7g8vs
 * md5_6: bef7f8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207g8vs)
+[2x1](http://192.168.1.242:1112/?label=oomp%207g8vs)
+[6x4](http://192.168.1.55:1112/?label=oomp%207g8vs)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -233,7 +259,14 @@ shoe |
 | id_no_color | mettlertoledolv11 |  
 | id_no_size | mettler_toledo_lv11 |  
 | id_no_type | tabletop_mettler_toledo_lv11 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207g8vs |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207g8vs |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207g8vs |  
 | manufacturer | mettler_toledo |  
 | manufacturer_capital | Mettler Toledo |  
 | manufacturer_first_letter | m |  
@@ -282,6 +315,7 @@ shoe |
 | name_no_size | Mettler Toledo Lv11 |  
 | name_no_size_short | Mettler Toledo Lv11 |  
 | name_no_type | Tabletop Mettler Toledo Lv11 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
 | oomp_word | ramen six seven |  
 | oomp_word_emoji | :ramen: :six: :seven: |  

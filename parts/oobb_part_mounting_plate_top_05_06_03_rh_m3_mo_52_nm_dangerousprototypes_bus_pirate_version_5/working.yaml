@@ -1,3 +1,221 @@
+bip_39_word_dash_1: erupt
+bip_39_word_dash_10: erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim
+bip_39_word_dash_11: erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim-galaxy
+bip_39_word_dash_12: erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon-trim-galaxy-any
+bip_39_word_dash_2: erupt-hope
+bip_39_word_dash_3: erupt-hope-enroll
+bip_39_word_dash_4: erupt-hope-enroll-admit
+bip_39_word_dash_5: erupt-hope-enroll-admit-misery
+bip_39_word_dash_6: erupt-hope-enroll-admit-misery-jeans
+bip_39_word_dash_7: erupt-hope-enroll-admit-misery-jeans-meat
+bip_39_word_dash_8: erupt-hope-enroll-admit-misery-jeans-meat-tooth
+bip_39_word_dash_9: erupt-hope-enroll-admit-misery-jeans-meat-tooth-bacon
+bip_39_word_new_br_1: erupt
+bip_39_word_new_br_10: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon<br>trim
+bip_39_word_new_br_11: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon<br>trim<br>galaxy
+bip_39_word_new_br_12: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon<br>trim<br>galaxy<br>any
+bip_39_word_new_br_2: erupt<br>hope
+bip_39_word_new_br_3: erupt<br>hope<br>enroll
+bip_39_word_new_br_4: erupt<br>hope<br>enroll<br>admit
+bip_39_word_new_br_5: erupt<br>hope<br>enroll<br>admit<br>misery
+bip_39_word_new_br_6: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans
+bip_39_word_new_br_7: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat
+bip_39_word_new_br_8: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth
+bip_39_word_new_br_9: erupt<br>hope<br>enroll<br>admit<br>misery<br>jeans<br>meat<br>tooth<br>bacon
+bip_39_word_new_line_1: erupt
+bip_39_word_new_line_10: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat
+
+  tooth
+
+  bacon
+
+  trim'
+bip_39_word_new_line_11: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat
+
+  tooth
+
+  bacon
+
+  trim
+
+  galaxy'
+bip_39_word_new_line_12: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat
+
+  tooth
+
+  bacon
+
+  trim
+
+  galaxy
+
+  any'
+bip_39_word_new_line_2: 'erupt
+
+  hope'
+bip_39_word_new_line_3: 'erupt
+
+  hope
+
+  enroll'
+bip_39_word_new_line_4: 'erupt
+
+  hope
+
+  enroll
+
+  admit'
+bip_39_word_new_line_5: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery'
+bip_39_word_new_line_6: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans'
+bip_39_word_new_line_7: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat'
+bip_39_word_new_line_8: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat
+
+  tooth'
+bip_39_word_new_line_9: 'erupt
+
+  hope
+
+  enroll
+
+  admit
+
+  misery
+
+  jeans
+
+  meat
+
+  tooth
+
+  bacon'
+bip_39_word_no_space_1: erupt
+bip_39_word_no_space_10: erupthopeenrolladmitmiseryjeansmeattoothbacontrim
+bip_39_word_no_space_11: erupthopeenrolladmitmiseryjeansmeattoothbacontrimgalaxy
+bip_39_word_no_space_12: erupthopeenrolladmitmiseryjeansmeattoothbacontrimgalaxyany
+bip_39_word_no_space_2: erupthope
+bip_39_word_no_space_3: erupthopeenroll
+bip_39_word_no_space_4: erupthopeenrolladmit
+bip_39_word_no_space_5: erupthopeenrolladmitmisery
+bip_39_word_no_space_6: erupthopeenrolladmitmiseryjeans
+bip_39_word_no_space_7: erupthopeenrolladmitmiseryjeansmeat
+bip_39_word_no_space_8: erupthopeenrolladmitmiseryjeansmeattooth
+bip_39_word_no_space_9: erupthopeenrolladmitmiseryjeansmeattoothbacon
+bip_39_word_space_0:
+- erupt
+- hope
+- enroll
+- admit
+- misery
+- jeans
+- meat
+- tooth
+- bacon
+- trim
+- galaxy
+- any
+bip_39_word_space_1: erupt
+bip_39_word_space_10: erupt hope enroll admit misery jeans meat tooth bacon trim
+bip_39_word_space_11: erupt hope enroll admit misery jeans meat tooth bacon trim galaxy
+bip_39_word_space_12: erupt hope enroll admit misery jeans meat tooth bacon trim galaxy
+  any
+bip_39_word_space_2: erupt hope
+bip_39_word_space_3: erupt hope enroll
+bip_39_word_space_4: erupt hope enroll admit
+bip_39_word_space_5: erupt hope enroll admit misery
+bip_39_word_space_6: erupt hope enroll admit misery jeans
+bip_39_word_space_7: erupt hope enroll admit misery jeans meat
+bip_39_word_space_8: erupt hope enroll admit misery jeans meat tooth
+bip_39_word_space_9: erupt hope enroll admit misery jeans meat tooth bacon
+bip_39_word_underscore_1: erupt
+bip_39_word_underscore_10: erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim
+bip_39_word_underscore_11: erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim_galaxy
+bip_39_word_underscore_12: erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon_trim_galaxy_any
+bip_39_word_underscore_2: erupt_hope
+bip_39_word_underscore_3: erupt_hope_enroll
+bip_39_word_underscore_4: erupt_hope_enroll_admit
+bip_39_word_underscore_5: erupt_hope_enroll_admit_misery
+bip_39_word_underscore_6: erupt_hope_enroll_admit_misery_jeans
+bip_39_word_underscore_7: erupt_hope_enroll_admit_misery_jeans_meat
+bip_39_word_underscore_8: erupt_hope_enroll_admit_misery_jeans_meat_tooth
+bip_39_word_underscore_9: erupt_hope_enroll_admit_misery_jeans_meat_tooth_bacon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -84,7 +302,14 @@ id_no_class: part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes
 id_no_color: 050603rhm3mo52nmdangerousprototypesbuspirateversion5
 id_no_size: 05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
 id_no_type: mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206cliy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206cliy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206cliy
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -115,6 +340,7 @@ name_no_size_short: 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate Versi
   5
 name_no_type: Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate
   Version 5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
 oomp_word: violin rice nine
 oomp_word_emoji: ':violin: :rice: :nine:'

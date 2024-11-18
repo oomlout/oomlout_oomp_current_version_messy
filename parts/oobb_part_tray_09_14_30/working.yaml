@@ -1,3 +1,222 @@
+bip_39_word_dash_1: vital
+bip_39_word_dash_10: vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor
+bip_39_word_dash_11: vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor-damage
+bip_39_word_dash_12: vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long-harbor-damage-art
+bip_39_word_dash_2: vital-egg
+bip_39_word_dash_3: vital-egg-disagree
+bip_39_word_dash_4: vital-egg-disagree-bicycle
+bip_39_word_dash_5: vital-egg-disagree-bicycle-sketch
+bip_39_word_dash_6: vital-egg-disagree-bicycle-sketch-bargain
+bip_39_word_dash_7: vital-egg-disagree-bicycle-sketch-bargain-van
+bip_39_word_dash_8: vital-egg-disagree-bicycle-sketch-bargain-van-crouch
+bip_39_word_dash_9: vital-egg-disagree-bicycle-sketch-bargain-van-crouch-long
+bip_39_word_new_br_1: vital
+bip_39_word_new_br_10: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor
+bip_39_word_new_br_11: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage
+bip_39_word_new_br_12: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long<br>harbor<br>damage<br>art
+bip_39_word_new_br_2: vital<br>egg
+bip_39_word_new_br_3: vital<br>egg<br>disagree
+bip_39_word_new_br_4: vital<br>egg<br>disagree<br>bicycle
+bip_39_word_new_br_5: vital<br>egg<br>disagree<br>bicycle<br>sketch
+bip_39_word_new_br_6: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain
+bip_39_word_new_br_7: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van
+bip_39_word_new_br_8: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch
+bip_39_word_new_br_9: vital<br>egg<br>disagree<br>bicycle<br>sketch<br>bargain<br>van<br>crouch<br>long
+bip_39_word_new_line_1: vital
+bip_39_word_new_line_10: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor'
+bip_39_word_new_line_11: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor
+
+  damage'
+bip_39_word_new_line_12: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long
+
+  harbor
+
+  damage
+
+  art'
+bip_39_word_new_line_2: 'vital
+
+  egg'
+bip_39_word_new_line_3: 'vital
+
+  egg
+
+  disagree'
+bip_39_word_new_line_4: 'vital
+
+  egg
+
+  disagree
+
+  bicycle'
+bip_39_word_new_line_5: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch'
+bip_39_word_new_line_6: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain'
+bip_39_word_new_line_7: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van'
+bip_39_word_new_line_8: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch'
+bip_39_word_new_line_9: 'vital
+
+  egg
+
+  disagree
+
+  bicycle
+
+  sketch
+
+  bargain
+
+  van
+
+  crouch
+
+  long'
+bip_39_word_no_space_1: vital
+bip_39_word_no_space_10: vitaleggdisagreebicyclesketchbargainvancrouchlongharbor
+bip_39_word_no_space_11: vitaleggdisagreebicyclesketchbargainvancrouchlongharbordamage
+bip_39_word_no_space_12: vitaleggdisagreebicyclesketchbargainvancrouchlongharbordamageart
+bip_39_word_no_space_2: vitalegg
+bip_39_word_no_space_3: vitaleggdisagree
+bip_39_word_no_space_4: vitaleggdisagreebicycle
+bip_39_word_no_space_5: vitaleggdisagreebicyclesketch
+bip_39_word_no_space_6: vitaleggdisagreebicyclesketchbargain
+bip_39_word_no_space_7: vitaleggdisagreebicyclesketchbargainvan
+bip_39_word_no_space_8: vitaleggdisagreebicyclesketchbargainvancrouch
+bip_39_word_no_space_9: vitaleggdisagreebicyclesketchbargainvancrouchlong
+bip_39_word_space_0:
+- vital
+- egg
+- disagree
+- bicycle
+- sketch
+- bargain
+- van
+- crouch
+- long
+- harbor
+- damage
+- art
+bip_39_word_space_1: vital
+bip_39_word_space_10: vital egg disagree bicycle sketch bargain van crouch long harbor
+bip_39_word_space_11: vital egg disagree bicycle sketch bargain van crouch long harbor
+  damage
+bip_39_word_space_12: vital egg disagree bicycle sketch bargain van crouch long harbor
+  damage art
+bip_39_word_space_2: vital egg
+bip_39_word_space_3: vital egg disagree
+bip_39_word_space_4: vital egg disagree bicycle
+bip_39_word_space_5: vital egg disagree bicycle sketch
+bip_39_word_space_6: vital egg disagree bicycle sketch bargain
+bip_39_word_space_7: vital egg disagree bicycle sketch bargain van
+bip_39_word_space_8: vital egg disagree bicycle sketch bargain van crouch
+bip_39_word_space_9: vital egg disagree bicycle sketch bargain van crouch long
+bip_39_word_underscore_1: vital
+bip_39_word_underscore_10: vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor
+bip_39_word_underscore_11: vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor_damage
+bip_39_word_underscore_12: vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long_harbor_damage_art
+bip_39_word_underscore_2: vital_egg
+bip_39_word_underscore_3: vital_egg_disagree
+bip_39_word_underscore_4: vital_egg_disagree_bicycle
+bip_39_word_underscore_5: vital_egg_disagree_bicycle_sketch
+bip_39_word_underscore_6: vital_egg_disagree_bicycle_sketch_bargain
+bip_39_word_underscore_7: vital_egg_disagree_bicycle_sketch_bargain_van
+bip_39_word_underscore_8: vital_egg_disagree_bicycle_sketch_bargain_van_crouch
+bip_39_word_underscore_9: vital_egg_disagree_bicycle_sketch_bargain_van_crouch_long
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_14_30
 id_no_color: 091430
 id_no_size: 09_14_30
 id_no_type: tray_09_14_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_14_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_14_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_14_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207z5lm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207z5lm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207z5lm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091430
 name_no_size: 09 14 30
 name_no_size_short: 09 14 30
 name_no_type: Tray 09 14 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_14_30
 oomp_word: watermelon new_moon clap
 oomp_word_emoji: ':watermelon: :new_moon: :clap:'

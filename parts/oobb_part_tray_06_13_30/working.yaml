@@ -1,3 +1,223 @@
+bip_39_word_dash_1: above
+bip_39_word_dash_10: above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol
+bip_39_word_dash_11: above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol-brother
+bip_39_word_dash_12: above-relief-motion-across-tortoise-blue-among-oxygen-escape-symbol-brother-acoustic
+bip_39_word_dash_2: above-relief
+bip_39_word_dash_3: above-relief-motion
+bip_39_word_dash_4: above-relief-motion-across
+bip_39_word_dash_5: above-relief-motion-across-tortoise
+bip_39_word_dash_6: above-relief-motion-across-tortoise-blue
+bip_39_word_dash_7: above-relief-motion-across-tortoise-blue-among
+bip_39_word_dash_8: above-relief-motion-across-tortoise-blue-among-oxygen
+bip_39_word_dash_9: above-relief-motion-across-tortoise-blue-among-oxygen-escape
+bip_39_word_new_br_1: above
+bip_39_word_new_br_10: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape<br>symbol
+bip_39_word_new_br_11: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape<br>symbol<br>brother
+bip_39_word_new_br_12: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape<br>symbol<br>brother<br>acoustic
+bip_39_word_new_br_2: above<br>relief
+bip_39_word_new_br_3: above<br>relief<br>motion
+bip_39_word_new_br_4: above<br>relief<br>motion<br>across
+bip_39_word_new_br_5: above<br>relief<br>motion<br>across<br>tortoise
+bip_39_word_new_br_6: above<br>relief<br>motion<br>across<br>tortoise<br>blue
+bip_39_word_new_br_7: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among
+bip_39_word_new_br_8: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen
+bip_39_word_new_br_9: above<br>relief<br>motion<br>across<br>tortoise<br>blue<br>among<br>oxygen<br>escape
+bip_39_word_new_line_1: above
+bip_39_word_new_line_10: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among
+
+  oxygen
+
+  escape
+
+  symbol'
+bip_39_word_new_line_11: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among
+
+  oxygen
+
+  escape
+
+  symbol
+
+  brother'
+bip_39_word_new_line_12: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among
+
+  oxygen
+
+  escape
+
+  symbol
+
+  brother
+
+  acoustic'
+bip_39_word_new_line_2: 'above
+
+  relief'
+bip_39_word_new_line_3: 'above
+
+  relief
+
+  motion'
+bip_39_word_new_line_4: 'above
+
+  relief
+
+  motion
+
+  across'
+bip_39_word_new_line_5: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise'
+bip_39_word_new_line_6: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue'
+bip_39_word_new_line_7: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among'
+bip_39_word_new_line_8: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among
+
+  oxygen'
+bip_39_word_new_line_9: 'above
+
+  relief
+
+  motion
+
+  across
+
+  tortoise
+
+  blue
+
+  among
+
+  oxygen
+
+  escape'
+bip_39_word_no_space_1: above
+bip_39_word_no_space_10: abovereliefmotionacrosstortoiseblueamongoxygenescapesymbol
+bip_39_word_no_space_11: abovereliefmotionacrosstortoiseblueamongoxygenescapesymbolbrother
+bip_39_word_no_space_12: abovereliefmotionacrosstortoiseblueamongoxygenescapesymbolbrotheracoustic
+bip_39_word_no_space_2: aboverelief
+bip_39_word_no_space_3: abovereliefmotion
+bip_39_word_no_space_4: abovereliefmotionacross
+bip_39_word_no_space_5: abovereliefmotionacrosstortoise
+bip_39_word_no_space_6: abovereliefmotionacrosstortoiseblue
+bip_39_word_no_space_7: abovereliefmotionacrosstortoiseblueamong
+bip_39_word_no_space_8: abovereliefmotionacrosstortoiseblueamongoxygen
+bip_39_word_no_space_9: abovereliefmotionacrosstortoiseblueamongoxygenescape
+bip_39_word_space_0:
+- above
+- relief
+- motion
+- across
+- tortoise
+- blue
+- among
+- oxygen
+- escape
+- symbol
+- brother
+- acoustic
+bip_39_word_space_1: above
+bip_39_word_space_10: above relief motion across tortoise blue among oxygen escape
+  symbol
+bip_39_word_space_11: above relief motion across tortoise blue among oxygen escape
+  symbol brother
+bip_39_word_space_12: above relief motion across tortoise blue among oxygen escape
+  symbol brother acoustic
+bip_39_word_space_2: above relief
+bip_39_word_space_3: above relief motion
+bip_39_word_space_4: above relief motion across
+bip_39_word_space_5: above relief motion across tortoise
+bip_39_word_space_6: above relief motion across tortoise blue
+bip_39_word_space_7: above relief motion across tortoise blue among
+bip_39_word_space_8: above relief motion across tortoise blue among oxygen
+bip_39_word_space_9: above relief motion across tortoise blue among oxygen escape
+bip_39_word_underscore_1: above
+bip_39_word_underscore_10: above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol
+bip_39_word_underscore_11: above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol_brother
+bip_39_word_underscore_12: above_relief_motion_across_tortoise_blue_among_oxygen_escape_symbol_brother_acoustic
+bip_39_word_underscore_2: above_relief
+bip_39_word_underscore_3: above_relief_motion
+bip_39_word_underscore_4: above_relief_motion_across
+bip_39_word_underscore_5: above_relief_motion_across_tortoise
+bip_39_word_underscore_6: above_relief_motion_across_tortoise_blue
+bip_39_word_underscore_7: above_relief_motion_across_tortoise_blue_among
+bip_39_word_underscore_8: above_relief_motion_across_tortoise_blue_among_oxygen
+bip_39_word_underscore_9: above_relief_motion_across_tortoise_blue_among_oxygen_escape
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_06_13_30
 id_no_color: '061330'
 id_no_size: '06_13_30'
 id_no_type: tray_06_13_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_13_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_06_13_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_06_13_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20199mf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20199mf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20199mf
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '061330'
 name_no_size: 06 13 30
 name_no_size_short: 06 13 30
 name_no_type: Tray 06 13 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_06_13_30
 oomp_word: skull tiger six
 oomp_word_emoji: ':skull: :tiger: :six:'

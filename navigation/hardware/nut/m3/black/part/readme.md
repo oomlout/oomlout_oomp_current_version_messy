@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Nut M3 Black
+* name_short: 
 ### id
 * oomp_id: hardware_nut_m3_black
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :two: :spades: :maple_leaf:
 * md5_6_alpha: 9i6w5
 * md5_6: f39c65
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209i6w5)
+[2x1](http://192.168.1.242:1112/?label=oomp%209i6w5)
+[6x4](http://192.168.1.55:1112/?label=oomp%209i6w5)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_black) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_black)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -258,7 +284,14 @@ snake |
 | id_no_size | black |  
 | id_no_type | m3_black |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_black |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m3_black |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m3_black |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209i6w5 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209i6w5 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209i6w5 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -283,6 +316,7 @@ snake |
 | name_no_size | Black |  
 | name_no_size_short | Black |  
 | name_no_type | M3 Black |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n3b |  
 | oomlout_short_code_upper | N3B |  
 | oomp_key | oomp_hardware_nut_m3_black |  

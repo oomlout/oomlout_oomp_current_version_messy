@@ -1,3 +1,222 @@
+bip_39_word_dash_1: outside
+bip_39_word_dash_10: outside-torch-weird-stand-razor-design-because-gain-valid-alien
+bip_39_word_dash_11: outside-torch-weird-stand-razor-design-because-gain-valid-alien-rug
+bip_39_word_dash_12: outside-torch-weird-stand-razor-design-because-gain-valid-alien-rug-annual
+bip_39_word_dash_2: outside-torch
+bip_39_word_dash_3: outside-torch-weird
+bip_39_word_dash_4: outside-torch-weird-stand
+bip_39_word_dash_5: outside-torch-weird-stand-razor
+bip_39_word_dash_6: outside-torch-weird-stand-razor-design
+bip_39_word_dash_7: outside-torch-weird-stand-razor-design-because
+bip_39_word_dash_8: outside-torch-weird-stand-razor-design-because-gain
+bip_39_word_dash_9: outside-torch-weird-stand-razor-design-because-gain-valid
+bip_39_word_new_br_1: outside
+bip_39_word_new_br_10: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien
+bip_39_word_new_br_11: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug
+bip_39_word_new_br_12: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid<br>alien<br>rug<br>annual
+bip_39_word_new_br_2: outside<br>torch
+bip_39_word_new_br_3: outside<br>torch<br>weird
+bip_39_word_new_br_4: outside<br>torch<br>weird<br>stand
+bip_39_word_new_br_5: outside<br>torch<br>weird<br>stand<br>razor
+bip_39_word_new_br_6: outside<br>torch<br>weird<br>stand<br>razor<br>design
+bip_39_word_new_br_7: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because
+bip_39_word_new_br_8: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain
+bip_39_word_new_br_9: outside<br>torch<br>weird<br>stand<br>razor<br>design<br>because<br>gain<br>valid
+bip_39_word_new_line_1: outside
+bip_39_word_new_line_10: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because
+
+  gain
+
+  valid
+
+  alien'
+bip_39_word_new_line_11: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because
+
+  gain
+
+  valid
+
+  alien
+
+  rug'
+bip_39_word_new_line_12: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because
+
+  gain
+
+  valid
+
+  alien
+
+  rug
+
+  annual'
+bip_39_word_new_line_2: 'outside
+
+  torch'
+bip_39_word_new_line_3: 'outside
+
+  torch
+
+  weird'
+bip_39_word_new_line_4: 'outside
+
+  torch
+
+  weird
+
+  stand'
+bip_39_word_new_line_5: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor'
+bip_39_word_new_line_6: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design'
+bip_39_word_new_line_7: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because'
+bip_39_word_new_line_8: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because
+
+  gain'
+bip_39_word_new_line_9: 'outside
+
+  torch
+
+  weird
+
+  stand
+
+  razor
+
+  design
+
+  because
+
+  gain
+
+  valid'
+bip_39_word_no_space_1: outside
+bip_39_word_no_space_10: outsidetorchweirdstandrazordesignbecausegainvalidalien
+bip_39_word_no_space_11: outsidetorchweirdstandrazordesignbecausegainvalidalienrug
+bip_39_word_no_space_12: outsidetorchweirdstandrazordesignbecausegainvalidalienrugannual
+bip_39_word_no_space_2: outsidetorch
+bip_39_word_no_space_3: outsidetorchweird
+bip_39_word_no_space_4: outsidetorchweirdstand
+bip_39_word_no_space_5: outsidetorchweirdstandrazor
+bip_39_word_no_space_6: outsidetorchweirdstandrazordesign
+bip_39_word_no_space_7: outsidetorchweirdstandrazordesignbecause
+bip_39_word_no_space_8: outsidetorchweirdstandrazordesignbecausegain
+bip_39_word_no_space_9: outsidetorchweirdstandrazordesignbecausegainvalid
+bip_39_word_space_0:
+- outside
+- torch
+- weird
+- stand
+- razor
+- design
+- because
+- gain
+- valid
+- alien
+- rug
+- annual
+bip_39_word_space_1: outside
+bip_39_word_space_10: outside torch weird stand razor design because gain valid alien
+bip_39_word_space_11: outside torch weird stand razor design because gain valid alien
+  rug
+bip_39_word_space_12: outside torch weird stand razor design because gain valid alien
+  rug annual
+bip_39_word_space_2: outside torch
+bip_39_word_space_3: outside torch weird
+bip_39_word_space_4: outside torch weird stand
+bip_39_word_space_5: outside torch weird stand razor
+bip_39_word_space_6: outside torch weird stand razor design
+bip_39_word_space_7: outside torch weird stand razor design because
+bip_39_word_space_8: outside torch weird stand razor design because gain
+bip_39_word_space_9: outside torch weird stand razor design because gain valid
+bip_39_word_underscore_1: outside
+bip_39_word_underscore_10: outside_torch_weird_stand_razor_design_because_gain_valid_alien
+bip_39_word_underscore_11: outside_torch_weird_stand_razor_design_because_gain_valid_alien_rug
+bip_39_word_underscore_12: outside_torch_weird_stand_razor_design_because_gain_valid_alien_rug_annual
+bip_39_word_underscore_2: outside_torch
+bip_39_word_underscore_3: outside_torch_weird
+bip_39_word_underscore_4: outside_torch_weird_stand
+bip_39_word_underscore_5: outside_torch_weird_stand_razor
+bip_39_word_underscore_6: outside_torch_weird_stand_razor_design
+bip_39_word_underscore_7: outside_torch_weird_stand_razor_design_because
+bip_39_word_underscore_8: outside_torch_weird_stand_razor_design_because_gain
+bip_39_word_underscore_9: outside_torch_weird_stand_razor_design_because_gain_valid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
 id_no_color: 020948teethshieldshmotorservostandard01
 id_no_size: 02_09__48_teeth_shield_sh_motor_servo_standard_01
 id_no_type: pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205wrup
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205wrup
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205wrup
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 020948Teethshieldshmotorservostandard01
 name_no_size: 02 09  48 Teeth Shield Sh Motor Servo Standard 01
 name_no_size_short: 02 09  48 Teeth Shield Sh Motor Servo Standard 01
 name_no_type: Pulley Gt2 02 09  48 Teeth Shield Sh Motor Servo Standard 01
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_02_09__48_teeth_shield_sh_motor_servo_standard_01
 oomp_word: baseball camera smile
 oomp_word_emoji: ':baseball: :camera: :smile:'

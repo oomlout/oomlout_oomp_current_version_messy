@@ -1,3 +1,221 @@
+bip_39_word_dash_1: flavor
+bip_39_word_dash_10: flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule
+bip_39_word_dash_11: flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule-ice
+bip_39_word_dash_12: flavor-begin-alone-clock-key-hunt-observe-fit-velvet-mule-ice-also
+bip_39_word_dash_2: flavor-begin
+bip_39_word_dash_3: flavor-begin-alone
+bip_39_word_dash_4: flavor-begin-alone-clock
+bip_39_word_dash_5: flavor-begin-alone-clock-key
+bip_39_word_dash_6: flavor-begin-alone-clock-key-hunt
+bip_39_word_dash_7: flavor-begin-alone-clock-key-hunt-observe
+bip_39_word_dash_8: flavor-begin-alone-clock-key-hunt-observe-fit
+bip_39_word_dash_9: flavor-begin-alone-clock-key-hunt-observe-fit-velvet
+bip_39_word_new_br_1: flavor
+bip_39_word_new_br_10: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule
+bip_39_word_new_br_11: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice
+bip_39_word_new_br_12: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet<br>mule<br>ice<br>also
+bip_39_word_new_br_2: flavor<br>begin
+bip_39_word_new_br_3: flavor<br>begin<br>alone
+bip_39_word_new_br_4: flavor<br>begin<br>alone<br>clock
+bip_39_word_new_br_5: flavor<br>begin<br>alone<br>clock<br>key
+bip_39_word_new_br_6: flavor<br>begin<br>alone<br>clock<br>key<br>hunt
+bip_39_word_new_br_7: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe
+bip_39_word_new_br_8: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit
+bip_39_word_new_br_9: flavor<br>begin<br>alone<br>clock<br>key<br>hunt<br>observe<br>fit<br>velvet
+bip_39_word_new_line_1: flavor
+bip_39_word_new_line_10: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe
+
+  fit
+
+  velvet
+
+  mule'
+bip_39_word_new_line_11: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe
+
+  fit
+
+  velvet
+
+  mule
+
+  ice'
+bip_39_word_new_line_12: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe
+
+  fit
+
+  velvet
+
+  mule
+
+  ice
+
+  also'
+bip_39_word_new_line_2: 'flavor
+
+  begin'
+bip_39_word_new_line_3: 'flavor
+
+  begin
+
+  alone'
+bip_39_word_new_line_4: 'flavor
+
+  begin
+
+  alone
+
+  clock'
+bip_39_word_new_line_5: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key'
+bip_39_word_new_line_6: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt'
+bip_39_word_new_line_7: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe'
+bip_39_word_new_line_8: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe
+
+  fit'
+bip_39_word_new_line_9: 'flavor
+
+  begin
+
+  alone
+
+  clock
+
+  key
+
+  hunt
+
+  observe
+
+  fit
+
+  velvet'
+bip_39_word_no_space_1: flavor
+bip_39_word_no_space_10: flavorbeginaloneclockkeyhuntobservefitvelvetmule
+bip_39_word_no_space_11: flavorbeginaloneclockkeyhuntobservefitvelvetmuleice
+bip_39_word_no_space_12: flavorbeginaloneclockkeyhuntobservefitvelvetmuleicealso
+bip_39_word_no_space_2: flavorbegin
+bip_39_word_no_space_3: flavorbeginalone
+bip_39_word_no_space_4: flavorbeginaloneclock
+bip_39_word_no_space_5: flavorbeginaloneclockkey
+bip_39_word_no_space_6: flavorbeginaloneclockkeyhunt
+bip_39_word_no_space_7: flavorbeginaloneclockkeyhuntobserve
+bip_39_word_no_space_8: flavorbeginaloneclockkeyhuntobservefit
+bip_39_word_no_space_9: flavorbeginaloneclockkeyhuntobservefitvelvet
+bip_39_word_space_0:
+- flavor
+- begin
+- alone
+- clock
+- key
+- hunt
+- observe
+- fit
+- velvet
+- mule
+- ice
+- also
+bip_39_word_space_1: flavor
+bip_39_word_space_10: flavor begin alone clock key hunt observe fit velvet mule
+bip_39_word_space_11: flavor begin alone clock key hunt observe fit velvet mule ice
+bip_39_word_space_12: flavor begin alone clock key hunt observe fit velvet mule ice
+  also
+bip_39_word_space_2: flavor begin
+bip_39_word_space_3: flavor begin alone
+bip_39_word_space_4: flavor begin alone clock
+bip_39_word_space_5: flavor begin alone clock key
+bip_39_word_space_6: flavor begin alone clock key hunt
+bip_39_word_space_7: flavor begin alone clock key hunt observe
+bip_39_word_space_8: flavor begin alone clock key hunt observe fit
+bip_39_word_space_9: flavor begin alone clock key hunt observe fit velvet
+bip_39_word_underscore_1: flavor
+bip_39_word_underscore_10: flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule
+bip_39_word_underscore_11: flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule_ice
+bip_39_word_underscore_12: flavor_begin_alone_clock_key_hunt_observe_fit_velvet_mule_ice_also
+bip_39_word_underscore_2: flavor_begin
+bip_39_word_underscore_3: flavor_begin_alone
+bip_39_word_underscore_4: flavor_begin_alone_clock
+bip_39_word_underscore_5: flavor_begin_alone_clock_key
+bip_39_word_underscore_6: flavor_begin_alone_clock_key_hunt
+bip_39_word_underscore_7: flavor_begin_alone_clock_key_hunt_observe
+bip_39_word_underscore_8: flavor_begin_alone_clock_key_hunt_observe_fit
+bip_39_word_underscore_9: flavor_begin_alone_clock_key_hunt_observe_fit_velvet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_14_02_12
 id_no_color: '140212'
 id_no_size: '14_02_12'
 id_no_type: tray_thin_14_02_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_02_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_02_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_02_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204k678
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204k678
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204k678
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '140212'
 name_no_size: 14 02 12
 name_no_size_short: 14 02 12
 name_no_type: Tray Thin 14 02 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_02_12
 oomp_word: fireworks ship sunflower
 oomp_word_emoji: ':fireworks: :ship: :sunflower:'

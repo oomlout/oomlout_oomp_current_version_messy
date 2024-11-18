@@ -1,3 +1,222 @@
+bip_39_word_dash_1: now
+bip_39_word_dash_10: now-birth-strike-public-dumb-term-neither-undo-concert-elbow
+bip_39_word_dash_11: now-birth-strike-public-dumb-term-neither-undo-concert-elbow-rude
+bip_39_word_dash_12: now-birth-strike-public-dumb-term-neither-undo-concert-elbow-rude-aim
+bip_39_word_dash_2: now-birth
+bip_39_word_dash_3: now-birth-strike
+bip_39_word_dash_4: now-birth-strike-public
+bip_39_word_dash_5: now-birth-strike-public-dumb
+bip_39_word_dash_6: now-birth-strike-public-dumb-term
+bip_39_word_dash_7: now-birth-strike-public-dumb-term-neither
+bip_39_word_dash_8: now-birth-strike-public-dumb-term-neither-undo
+bip_39_word_dash_9: now-birth-strike-public-dumb-term-neither-undo-concert
+bip_39_word_new_br_1: now
+bip_39_word_new_br_10: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow
+bip_39_word_new_br_11: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude
+bip_39_word_new_br_12: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert<br>elbow<br>rude<br>aim
+bip_39_word_new_br_2: now<br>birth
+bip_39_word_new_br_3: now<br>birth<br>strike
+bip_39_word_new_br_4: now<br>birth<br>strike<br>public
+bip_39_word_new_br_5: now<br>birth<br>strike<br>public<br>dumb
+bip_39_word_new_br_6: now<br>birth<br>strike<br>public<br>dumb<br>term
+bip_39_word_new_br_7: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither
+bip_39_word_new_br_8: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo
+bip_39_word_new_br_9: now<br>birth<br>strike<br>public<br>dumb<br>term<br>neither<br>undo<br>concert
+bip_39_word_new_line_1: now
+bip_39_word_new_line_10: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither
+
+  undo
+
+  concert
+
+  elbow'
+bip_39_word_new_line_11: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither
+
+  undo
+
+  concert
+
+  elbow
+
+  rude'
+bip_39_word_new_line_12: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither
+
+  undo
+
+  concert
+
+  elbow
+
+  rude
+
+  aim'
+bip_39_word_new_line_2: 'now
+
+  birth'
+bip_39_word_new_line_3: 'now
+
+  birth
+
+  strike'
+bip_39_word_new_line_4: 'now
+
+  birth
+
+  strike
+
+  public'
+bip_39_word_new_line_5: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb'
+bip_39_word_new_line_6: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term'
+bip_39_word_new_line_7: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither'
+bip_39_word_new_line_8: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither
+
+  undo'
+bip_39_word_new_line_9: 'now
+
+  birth
+
+  strike
+
+  public
+
+  dumb
+
+  term
+
+  neither
+
+  undo
+
+  concert'
+bip_39_word_no_space_1: now
+bip_39_word_no_space_10: nowbirthstrikepublicdumbtermneitherundoconcertelbow
+bip_39_word_no_space_11: nowbirthstrikepublicdumbtermneitherundoconcertelbowrude
+bip_39_word_no_space_12: nowbirthstrikepublicdumbtermneitherundoconcertelbowrudeaim
+bip_39_word_no_space_2: nowbirth
+bip_39_word_no_space_3: nowbirthstrike
+bip_39_word_no_space_4: nowbirthstrikepublic
+bip_39_word_no_space_5: nowbirthstrikepublicdumb
+bip_39_word_no_space_6: nowbirthstrikepublicdumbterm
+bip_39_word_no_space_7: nowbirthstrikepublicdumbtermneither
+bip_39_word_no_space_8: nowbirthstrikepublicdumbtermneitherundo
+bip_39_word_no_space_9: nowbirthstrikepublicdumbtermneitherundoconcert
+bip_39_word_space_0:
+- now
+- birth
+- strike
+- public
+- dumb
+- term
+- neither
+- undo
+- concert
+- elbow
+- rude
+- aim
+bip_39_word_space_1: now
+bip_39_word_space_10: now birth strike public dumb term neither undo concert elbow
+bip_39_word_space_11: now birth strike public dumb term neither undo concert elbow
+  rude
+bip_39_word_space_12: now birth strike public dumb term neither undo concert elbow
+  rude aim
+bip_39_word_space_2: now birth
+bip_39_word_space_3: now birth strike
+bip_39_word_space_4: now birth strike public
+bip_39_word_space_5: now birth strike public dumb
+bip_39_word_space_6: now birth strike public dumb term
+bip_39_word_space_7: now birth strike public dumb term neither
+bip_39_word_space_8: now birth strike public dumb term neither undo
+bip_39_word_space_9: now birth strike public dumb term neither undo concert
+bip_39_word_underscore_1: now
+bip_39_word_underscore_10: now_birth_strike_public_dumb_term_neither_undo_concert_elbow
+bip_39_word_underscore_11: now_birth_strike_public_dumb_term_neither_undo_concert_elbow_rude
+bip_39_word_underscore_12: now_birth_strike_public_dumb_term_neither_undo_concert_elbow_rude_aim
+bip_39_word_underscore_2: now_birth
+bip_39_word_underscore_3: now_birth_strike
+bip_39_word_underscore_4: now_birth_strike_public
+bip_39_word_underscore_5: now_birth_strike_public_dumb
+bip_39_word_underscore_6: now_birth_strike_public_dumb_term
+bip_39_word_underscore_7: now_birth_strike_public_dumb_term_neither
+bip_39_word_underscore_8: now_birth_strike_public_dumb_term_neither_undo
+bip_39_word_underscore_9: now_birth_strike_public_dumb_term_neither_undo_concert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_12_90
 id_no_color: 041290
 id_no_size: 04_12_90
 id_no_type: tray_04_12_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_12_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_12_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203c2c1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203c2c1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203c2c1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 041290
 name_no_size: 04 12 90
 name_no_size_short: 04 12 90
 name_no_type: Tray 04 12 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_12_90
 oomp_word: dolphin balloon pear
 oomp_word_emoji: ':dolphin: :balloon: :pear:'

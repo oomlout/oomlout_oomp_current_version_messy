@@ -1,3 +1,223 @@
+bip_39_word_dash_1: stand
+bip_39_word_dash_10: stand-audit-dignity-plug-online-nuclear-spice-fragile-country-burger
+bip_39_word_dash_11: stand-audit-dignity-plug-online-nuclear-spice-fragile-country-burger-eagle
+bip_39_word_dash_12: stand-audit-dignity-plug-online-nuclear-spice-fragile-country-burger-eagle-admit
+bip_39_word_dash_2: stand-audit
+bip_39_word_dash_3: stand-audit-dignity
+bip_39_word_dash_4: stand-audit-dignity-plug
+bip_39_word_dash_5: stand-audit-dignity-plug-online
+bip_39_word_dash_6: stand-audit-dignity-plug-online-nuclear
+bip_39_word_dash_7: stand-audit-dignity-plug-online-nuclear-spice
+bip_39_word_dash_8: stand-audit-dignity-plug-online-nuclear-spice-fragile
+bip_39_word_dash_9: stand-audit-dignity-plug-online-nuclear-spice-fragile-country
+bip_39_word_new_br_1: stand
+bip_39_word_new_br_10: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger
+bip_39_word_new_br_11: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle
+bip_39_word_new_br_12: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country<br>burger<br>eagle<br>admit
+bip_39_word_new_br_2: stand<br>audit
+bip_39_word_new_br_3: stand<br>audit<br>dignity
+bip_39_word_new_br_4: stand<br>audit<br>dignity<br>plug
+bip_39_word_new_br_5: stand<br>audit<br>dignity<br>plug<br>online
+bip_39_word_new_br_6: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear
+bip_39_word_new_br_7: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice
+bip_39_word_new_br_8: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile
+bip_39_word_new_br_9: stand<br>audit<br>dignity<br>plug<br>online<br>nuclear<br>spice<br>fragile<br>country
+bip_39_word_new_line_1: stand
+bip_39_word_new_line_10: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice
+
+  fragile
+
+  country
+
+  burger'
+bip_39_word_new_line_11: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice
+
+  fragile
+
+  country
+
+  burger
+
+  eagle'
+bip_39_word_new_line_12: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice
+
+  fragile
+
+  country
+
+  burger
+
+  eagle
+
+  admit'
+bip_39_word_new_line_2: 'stand
+
+  audit'
+bip_39_word_new_line_3: 'stand
+
+  audit
+
+  dignity'
+bip_39_word_new_line_4: 'stand
+
+  audit
+
+  dignity
+
+  plug'
+bip_39_word_new_line_5: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online'
+bip_39_word_new_line_6: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear'
+bip_39_word_new_line_7: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice'
+bip_39_word_new_line_8: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice
+
+  fragile'
+bip_39_word_new_line_9: 'stand
+
+  audit
+
+  dignity
+
+  plug
+
+  online
+
+  nuclear
+
+  spice
+
+  fragile
+
+  country'
+bip_39_word_no_space_1: stand
+bip_39_word_no_space_10: standauditdignityplugonlinenuclearspicefragilecountryburger
+bip_39_word_no_space_11: standauditdignityplugonlinenuclearspicefragilecountryburgereagle
+bip_39_word_no_space_12: standauditdignityplugonlinenuclearspicefragilecountryburgereagleadmit
+bip_39_word_no_space_2: standaudit
+bip_39_word_no_space_3: standauditdignity
+bip_39_word_no_space_4: standauditdignityplug
+bip_39_word_no_space_5: standauditdignityplugonline
+bip_39_word_no_space_6: standauditdignityplugonlinenuclear
+bip_39_word_no_space_7: standauditdignityplugonlinenuclearspice
+bip_39_word_no_space_8: standauditdignityplugonlinenuclearspicefragile
+bip_39_word_no_space_9: standauditdignityplugonlinenuclearspicefragilecountry
+bip_39_word_space_0:
+- stand
+- audit
+- dignity
+- plug
+- online
+- nuclear
+- spice
+- fragile
+- country
+- burger
+- eagle
+- admit
+bip_39_word_space_1: stand
+bip_39_word_space_10: stand audit dignity plug online nuclear spice fragile country
+  burger
+bip_39_word_space_11: stand audit dignity plug online nuclear spice fragile country
+  burger eagle
+bip_39_word_space_12: stand audit dignity plug online nuclear spice fragile country
+  burger eagle admit
+bip_39_word_space_2: stand audit
+bip_39_word_space_3: stand audit dignity
+bip_39_word_space_4: stand audit dignity plug
+bip_39_word_space_5: stand audit dignity plug online
+bip_39_word_space_6: stand audit dignity plug online nuclear
+bip_39_word_space_7: stand audit dignity plug online nuclear spice
+bip_39_word_space_8: stand audit dignity plug online nuclear spice fragile
+bip_39_word_space_9: stand audit dignity plug online nuclear spice fragile country
+bip_39_word_underscore_1: stand
+bip_39_word_underscore_10: stand_audit_dignity_plug_online_nuclear_spice_fragile_country_burger
+bip_39_word_underscore_11: stand_audit_dignity_plug_online_nuclear_spice_fragile_country_burger_eagle
+bip_39_word_underscore_12: stand_audit_dignity_plug_online_nuclear_spice_fragile_country_burger_eagle_admit
+bip_39_word_underscore_2: stand_audit
+bip_39_word_underscore_3: stand_audit_dignity
+bip_39_word_underscore_4: stand_audit_dignity_plug
+bip_39_word_underscore_5: stand_audit_dignity_plug_online
+bip_39_word_underscore_6: stand_audit_dignity_plug_online_nuclear
+bip_39_word_underscore_7: stand_audit_dignity_plug_online_nuclear_spice
+bip_39_word_underscore_8: stand_audit_dignity_plug_online_nuclear_spice_fragile
+bip_39_word_underscore_9: stand_audit_dignity_plug_online_nuclear_spice_fragile_country
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_plate_11_11_03
 id_no_color: '111103'
 id_no_size: '11_11_03'
 id_no_type: plate_11_11_03
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_11_03
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_11_11_03
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_11_11_03
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202a87b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202a87b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202a87b
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '111103'
 name_no_size: 11 11 03
 name_no_size_short: 11 11 03
 name_no_type: Plate 11 11 03
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_11_11_03
 oomp_word: koala envelope cry
 oomp_word_emoji: ':koala: :envelope: :cry:'

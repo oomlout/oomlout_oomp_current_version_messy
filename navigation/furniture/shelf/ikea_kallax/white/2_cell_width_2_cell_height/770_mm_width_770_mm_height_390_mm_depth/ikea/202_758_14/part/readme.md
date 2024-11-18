@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Furniture Shelf Ikea Kallax White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14
+* name_short: 
 ### id
 * oomp_id: furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14
   * classification: furniture
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :guitar: :thumbsup: :six:
 * md5_6_alpha: 6ipdj
 * md5_6: a716f7
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206ipdj)
+[2x1](http://192.168.1.242:1112/?label=oomp%206ipdj)
+[6x4](http://192.168.1.55:1112/?label=oomp%206ipdj)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -307,7 +333,14 @@ eager |
 | id_no_color | 2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
 | id_no_size | white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
 | id_no_type | ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206ipdj |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206ipdj |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206ipdj |  
 | manufacturer | ikea |  
 | manufacturer_capital | Ikea |  
 | manufacturer_first_letter | i |  
@@ -356,6 +389,7 @@ eager |
 | name_no_size | White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14 |  
 | name_no_size_short | White 2 Cell Width 2 Cell Height 770 Mm Width 770 Mm Height 390 Mm Depth Ikea 202 758 14 |  
 | name_no_type | Ikea Kallax White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
 | oomp_word | guitar thumbsup six |  
 | oomp_word_emoji | :guitar: :thumbsup: :six: |  

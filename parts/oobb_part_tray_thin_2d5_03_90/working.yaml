@@ -1,3 +1,222 @@
+bip_39_word_dash_1: upper
+bip_39_word_dash_10: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth
+bip_39_word_dash_11: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth-flag
+bip_39_word_dash_12: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent-depth-flag-approve
+bip_39_word_dash_2: upper-bid
+bip_39_word_dash_3: upper-bid-sort
+bip_39_word_dash_4: upper-bid-sort-relax
+bip_39_word_dash_5: upper-bid-sort-relax-leisure
+bip_39_word_dash_6: upper-bid-sort-relax-leisure-south
+bip_39_word_dash_7: upper-bid-sort-relax-leisure-south-uniform
+bip_39_word_dash_8: upper-bid-sort-relax-leisure-south-uniform-upgrade
+bip_39_word_dash_9: upper-bid-sort-relax-leisure-south-uniform-upgrade-silent
+bip_39_word_new_br_1: upper
+bip_39_word_new_br_10: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth
+bip_39_word_new_br_11: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag
+bip_39_word_new_br_12: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent<br>depth<br>flag<br>approve
+bip_39_word_new_br_2: upper<br>bid
+bip_39_word_new_br_3: upper<br>bid<br>sort
+bip_39_word_new_br_4: upper<br>bid<br>sort<br>relax
+bip_39_word_new_br_5: upper<br>bid<br>sort<br>relax<br>leisure
+bip_39_word_new_br_6: upper<br>bid<br>sort<br>relax<br>leisure<br>south
+bip_39_word_new_br_7: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform
+bip_39_word_new_br_8: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade
+bip_39_word_new_br_9: upper<br>bid<br>sort<br>relax<br>leisure<br>south<br>uniform<br>upgrade<br>silent
+bip_39_word_new_line_1: upper
+bip_39_word_new_line_10: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform
+
+  upgrade
+
+  silent
+
+  depth'
+bip_39_word_new_line_11: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform
+
+  upgrade
+
+  silent
+
+  depth
+
+  flag'
+bip_39_word_new_line_12: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform
+
+  upgrade
+
+  silent
+
+  depth
+
+  flag
+
+  approve'
+bip_39_word_new_line_2: 'upper
+
+  bid'
+bip_39_word_new_line_3: 'upper
+
+  bid
+
+  sort'
+bip_39_word_new_line_4: 'upper
+
+  bid
+
+  sort
+
+  relax'
+bip_39_word_new_line_5: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure'
+bip_39_word_new_line_6: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south'
+bip_39_word_new_line_7: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform'
+bip_39_word_new_line_8: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform
+
+  upgrade'
+bip_39_word_new_line_9: 'upper
+
+  bid
+
+  sort
+
+  relax
+
+  leisure
+
+  south
+
+  uniform
+
+  upgrade
+
+  silent'
+bip_39_word_no_space_1: upper
+bip_39_word_no_space_10: upperbidsortrelaxleisuresouthuniformupgradesilentdepth
+bip_39_word_no_space_11: upperbidsortrelaxleisuresouthuniformupgradesilentdepthflag
+bip_39_word_no_space_12: upperbidsortrelaxleisuresouthuniformupgradesilentdepthflagapprove
+bip_39_word_no_space_2: upperbid
+bip_39_word_no_space_3: upperbidsort
+bip_39_word_no_space_4: upperbidsortrelax
+bip_39_word_no_space_5: upperbidsortrelaxleisure
+bip_39_word_no_space_6: upperbidsortrelaxleisuresouth
+bip_39_word_no_space_7: upperbidsortrelaxleisuresouthuniform
+bip_39_word_no_space_8: upperbidsortrelaxleisuresouthuniformupgrade
+bip_39_word_no_space_9: upperbidsortrelaxleisuresouthuniformupgradesilent
+bip_39_word_space_0:
+- upper
+- bid
+- sort
+- relax
+- leisure
+- south
+- uniform
+- upgrade
+- silent
+- depth
+- flag
+- approve
+bip_39_word_space_1: upper
+bip_39_word_space_10: upper bid sort relax leisure south uniform upgrade silent depth
+bip_39_word_space_11: upper bid sort relax leisure south uniform upgrade silent depth
+  flag
+bip_39_word_space_12: upper bid sort relax leisure south uniform upgrade silent depth
+  flag approve
+bip_39_word_space_2: upper bid
+bip_39_word_space_3: upper bid sort
+bip_39_word_space_4: upper bid sort relax
+bip_39_word_space_5: upper bid sort relax leisure
+bip_39_word_space_6: upper bid sort relax leisure south
+bip_39_word_space_7: upper bid sort relax leisure south uniform
+bip_39_word_space_8: upper bid sort relax leisure south uniform upgrade
+bip_39_word_space_9: upper bid sort relax leisure south uniform upgrade silent
+bip_39_word_underscore_1: upper
+bip_39_word_underscore_10: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth
+bip_39_word_underscore_11: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth_flag
+bip_39_word_underscore_12: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent_depth_flag_approve
+bip_39_word_underscore_2: upper_bid
+bip_39_word_underscore_3: upper_bid_sort
+bip_39_word_underscore_4: upper_bid_sort_relax
+bip_39_word_underscore_5: upper_bid_sort_relax_leisure
+bip_39_word_underscore_6: upper_bid_sort_relax_leisure_south
+bip_39_word_underscore_7: upper_bid_sort_relax_leisure_south_uniform
+bip_39_word_underscore_8: upper_bid_sort_relax_leisure_south_uniform_upgrade
+bip_39_word_underscore_9: upper_bid_sort_relax_leisure_south_uniform_upgrade_silent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_2d5_03_90
 id_no_color: 2d50390
 id_no_size: 2d5_03_90
 id_no_type: tray_thin_2d5_03_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_03_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2d5_03_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_2d5_03_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206qki6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206qki6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206qki6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 2D50390
 name_no_size: 2D5 03 90
 name_no_size_short: 2D5 03 90
 name_no_type: Tray Thin 2D5 03 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_2d5_03_90
 oomp_word: shirt crown honeybee
 oomp_word_emoji: ':shirt: :crown: :honeybee:'

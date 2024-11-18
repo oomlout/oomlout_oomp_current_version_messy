@@ -1,3 +1,222 @@
+bip_39_word_dash_1: strong
+bip_39_word_dash_10: strong-right-ride-tattoo-one-engage-wolf-pottery-okay-arena
+bip_39_word_dash_11: strong-right-ride-tattoo-one-engage-wolf-pottery-okay-arena-carpet
+bip_39_word_dash_12: strong-right-ride-tattoo-one-engage-wolf-pottery-okay-arena-carpet-another
+bip_39_word_dash_2: strong-right
+bip_39_word_dash_3: strong-right-ride
+bip_39_word_dash_4: strong-right-ride-tattoo
+bip_39_word_dash_5: strong-right-ride-tattoo-one
+bip_39_word_dash_6: strong-right-ride-tattoo-one-engage
+bip_39_word_dash_7: strong-right-ride-tattoo-one-engage-wolf
+bip_39_word_dash_8: strong-right-ride-tattoo-one-engage-wolf-pottery
+bip_39_word_dash_9: strong-right-ride-tattoo-one-engage-wolf-pottery-okay
+bip_39_word_new_br_1: strong
+bip_39_word_new_br_10: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena
+bip_39_word_new_br_11: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena<br>carpet
+bip_39_word_new_br_12: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay<br>arena<br>carpet<br>another
+bip_39_word_new_br_2: strong<br>right
+bip_39_word_new_br_3: strong<br>right<br>ride
+bip_39_word_new_br_4: strong<br>right<br>ride<br>tattoo
+bip_39_word_new_br_5: strong<br>right<br>ride<br>tattoo<br>one
+bip_39_word_new_br_6: strong<br>right<br>ride<br>tattoo<br>one<br>engage
+bip_39_word_new_br_7: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf
+bip_39_word_new_br_8: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery
+bip_39_word_new_br_9: strong<br>right<br>ride<br>tattoo<br>one<br>engage<br>wolf<br>pottery<br>okay
+bip_39_word_new_line_1: strong
+bip_39_word_new_line_10: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf
+
+  pottery
+
+  okay
+
+  arena'
+bip_39_word_new_line_11: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf
+
+  pottery
+
+  okay
+
+  arena
+
+  carpet'
+bip_39_word_new_line_12: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf
+
+  pottery
+
+  okay
+
+  arena
+
+  carpet
+
+  another'
+bip_39_word_new_line_2: 'strong
+
+  right'
+bip_39_word_new_line_3: 'strong
+
+  right
+
+  ride'
+bip_39_word_new_line_4: 'strong
+
+  right
+
+  ride
+
+  tattoo'
+bip_39_word_new_line_5: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one'
+bip_39_word_new_line_6: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage'
+bip_39_word_new_line_7: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf'
+bip_39_word_new_line_8: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf
+
+  pottery'
+bip_39_word_new_line_9: 'strong
+
+  right
+
+  ride
+
+  tattoo
+
+  one
+
+  engage
+
+  wolf
+
+  pottery
+
+  okay'
+bip_39_word_no_space_1: strong
+bip_39_word_no_space_10: strongrightridetattoooneengagewolfpotteryokayarena
+bip_39_word_no_space_11: strongrightridetattoooneengagewolfpotteryokayarenacarpet
+bip_39_word_no_space_12: strongrightridetattoooneengagewolfpotteryokayarenacarpetanother
+bip_39_word_no_space_2: strongright
+bip_39_word_no_space_3: strongrightride
+bip_39_word_no_space_4: strongrightridetattoo
+bip_39_word_no_space_5: strongrightridetattooone
+bip_39_word_no_space_6: strongrightridetattoooneengage
+bip_39_word_no_space_7: strongrightridetattoooneengagewolf
+bip_39_word_no_space_8: strongrightridetattoooneengagewolfpottery
+bip_39_word_no_space_9: strongrightridetattoooneengagewolfpotteryokay
+bip_39_word_space_0:
+- strong
+- right
+- ride
+- tattoo
+- one
+- engage
+- wolf
+- pottery
+- okay
+- arena
+- carpet
+- another
+bip_39_word_space_1: strong
+bip_39_word_space_10: strong right ride tattoo one engage wolf pottery okay arena
+bip_39_word_space_11: strong right ride tattoo one engage wolf pottery okay arena
+  carpet
+bip_39_word_space_12: strong right ride tattoo one engage wolf pottery okay arena
+  carpet another
+bip_39_word_space_2: strong right
+bip_39_word_space_3: strong right ride
+bip_39_word_space_4: strong right ride tattoo
+bip_39_word_space_5: strong right ride tattoo one
+bip_39_word_space_6: strong right ride tattoo one engage
+bip_39_word_space_7: strong right ride tattoo one engage wolf
+bip_39_word_space_8: strong right ride tattoo one engage wolf pottery
+bip_39_word_space_9: strong right ride tattoo one engage wolf pottery okay
+bip_39_word_underscore_1: strong
+bip_39_word_underscore_10: strong_right_ride_tattoo_one_engage_wolf_pottery_okay_arena
+bip_39_word_underscore_11: strong_right_ride_tattoo_one_engage_wolf_pottery_okay_arena_carpet
+bip_39_word_underscore_12: strong_right_ride_tattoo_one_engage_wolf_pottery_okay_arena_carpet_another
+bip_39_word_underscore_2: strong_right
+bip_39_word_underscore_3: strong_right_ride
+bip_39_word_underscore_4: strong_right_ride_tattoo
+bip_39_word_underscore_5: strong_right_ride_tattoo_one
+bip_39_word_underscore_6: strong_right_ride_tattoo_one_engage
+bip_39_word_underscore_7: strong_right_ride_tattoo_one_engage_wolf
+bip_39_word_underscore_8: strong_right_ride_tattoo_one_engage_wolf_pottery
+bip_39_word_underscore_9: strong_right_ride_tattoo_one_engage_wolf_pottery_okay
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_15_15
 id_no_color: 081515
 id_no_size: 08_15_15
 id_no_type: tray_08_15_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_15_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_15_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205xw1u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205xw1u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205xw1u
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081515
 name_no_size: 08 15 15
 name_no_size_short: 08 15 15
 name_no_type: Tray 08 15 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_15_15
 oomp_word: tennis snake radio
 oomp_word_emoji: ':tennis: :snake: :radio:'

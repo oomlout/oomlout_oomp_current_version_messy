@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Diode Sod 123 Package Marking T4 1N4148W
+* name_short: 
 ### id
 * oomp_id: electronic_diode_sod_123_package_marking_t4_1n4148w
   * classification: electronic

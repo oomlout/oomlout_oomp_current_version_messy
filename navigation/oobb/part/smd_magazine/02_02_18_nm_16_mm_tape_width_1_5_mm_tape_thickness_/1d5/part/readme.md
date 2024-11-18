@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part SMD Magazine 02 02 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5
+* name_short: 
 ### id
 * oomp_id: oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :speaker: :house: :rose:
 * md5_6_alpha: 4zk9v
 * md5_6: 7fd563
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%204zk9v)
+[2x1](http://192.168.1.242:1112/?label=oomp%204zk9v)
+[6x4](http://192.168.1.55:1112/?label=oomp%204zk9v)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ access |
 | id_no_color | 020218nm16mmtapewidth15mmtapethickness1d5 |  
 | id_no_size | 02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
 | id_no_type | smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204zk9v |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204zk9v |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%204zk9v |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ access |
 | name_no_size | 02 02 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5 |  
 | name_no_size_short | 02 02 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness  1D5 |  
 | name_no_type | SMD Magazine 02 02 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_02_02_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
 | oomp_word | speaker house rose |  
 | oomp_word_emoji | :speaker: :house: :rose: |  

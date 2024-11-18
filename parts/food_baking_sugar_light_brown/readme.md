@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_light_brown
 
+### name
+* name: Food Baking Sugar Light Brown
+* name_short: Sugar Light Brown
 ### id
 * oomp_id: food_baking_sugar_light_brown
   * classification: food

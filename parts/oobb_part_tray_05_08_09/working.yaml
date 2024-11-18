@@ -1,3 +1,222 @@
+bip_39_word_dash_1: little
+bip_39_word_dash_10: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart
+bip_39_word_dash_11: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart-bottom
+bip_39_word_dash_12: little-trust-phrase-index-execute-canvas-fine-supreme-talk-smart-bottom-adjust
+bip_39_word_dash_2: little-trust
+bip_39_word_dash_3: little-trust-phrase
+bip_39_word_dash_4: little-trust-phrase-index
+bip_39_word_dash_5: little-trust-phrase-index-execute
+bip_39_word_dash_6: little-trust-phrase-index-execute-canvas
+bip_39_word_dash_7: little-trust-phrase-index-execute-canvas-fine
+bip_39_word_dash_8: little-trust-phrase-index-execute-canvas-fine-supreme
+bip_39_word_dash_9: little-trust-phrase-index-execute-canvas-fine-supreme-talk
+bip_39_word_new_br_1: little
+bip_39_word_new_br_10: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart
+bip_39_word_new_br_11: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart<br>bottom
+bip_39_word_new_br_12: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk<br>smart<br>bottom<br>adjust
+bip_39_word_new_br_2: little<br>trust
+bip_39_word_new_br_3: little<br>trust<br>phrase
+bip_39_word_new_br_4: little<br>trust<br>phrase<br>index
+bip_39_word_new_br_5: little<br>trust<br>phrase<br>index<br>execute
+bip_39_word_new_br_6: little<br>trust<br>phrase<br>index<br>execute<br>canvas
+bip_39_word_new_br_7: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine
+bip_39_word_new_br_8: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme
+bip_39_word_new_br_9: little<br>trust<br>phrase<br>index<br>execute<br>canvas<br>fine<br>supreme<br>talk
+bip_39_word_new_line_1: little
+bip_39_word_new_line_10: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine
+
+  supreme
+
+  talk
+
+  smart'
+bip_39_word_new_line_11: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine
+
+  supreme
+
+  talk
+
+  smart
+
+  bottom'
+bip_39_word_new_line_12: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine
+
+  supreme
+
+  talk
+
+  smart
+
+  bottom
+
+  adjust'
+bip_39_word_new_line_2: 'little
+
+  trust'
+bip_39_word_new_line_3: 'little
+
+  trust
+
+  phrase'
+bip_39_word_new_line_4: 'little
+
+  trust
+
+  phrase
+
+  index'
+bip_39_word_new_line_5: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute'
+bip_39_word_new_line_6: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas'
+bip_39_word_new_line_7: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine'
+bip_39_word_new_line_8: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine
+
+  supreme'
+bip_39_word_new_line_9: 'little
+
+  trust
+
+  phrase
+
+  index
+
+  execute
+
+  canvas
+
+  fine
+
+  supreme
+
+  talk'
+bip_39_word_no_space_1: little
+bip_39_word_no_space_10: littletrustphraseindexexecutecanvasfinesupremetalksmart
+bip_39_word_no_space_11: littletrustphraseindexexecutecanvasfinesupremetalksmartbottom
+bip_39_word_no_space_12: littletrustphraseindexexecutecanvasfinesupremetalksmartbottomadjust
+bip_39_word_no_space_2: littletrust
+bip_39_word_no_space_3: littletrustphrase
+bip_39_word_no_space_4: littletrustphraseindex
+bip_39_word_no_space_5: littletrustphraseindexexecute
+bip_39_word_no_space_6: littletrustphraseindexexecutecanvas
+bip_39_word_no_space_7: littletrustphraseindexexecutecanvasfine
+bip_39_word_no_space_8: littletrustphraseindexexecutecanvasfinesupreme
+bip_39_word_no_space_9: littletrustphraseindexexecutecanvasfinesupremetalk
+bip_39_word_space_0:
+- little
+- trust
+- phrase
+- index
+- execute
+- canvas
+- fine
+- supreme
+- talk
+- smart
+- bottom
+- adjust
+bip_39_word_space_1: little
+bip_39_word_space_10: little trust phrase index execute canvas fine supreme talk smart
+bip_39_word_space_11: little trust phrase index execute canvas fine supreme talk smart
+  bottom
+bip_39_word_space_12: little trust phrase index execute canvas fine supreme talk smart
+  bottom adjust
+bip_39_word_space_2: little trust
+bip_39_word_space_3: little trust phrase
+bip_39_word_space_4: little trust phrase index
+bip_39_word_space_5: little trust phrase index execute
+bip_39_word_space_6: little trust phrase index execute canvas
+bip_39_word_space_7: little trust phrase index execute canvas fine
+bip_39_word_space_8: little trust phrase index execute canvas fine supreme
+bip_39_word_space_9: little trust phrase index execute canvas fine supreme talk
+bip_39_word_underscore_1: little
+bip_39_word_underscore_10: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart
+bip_39_word_underscore_11: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart_bottom
+bip_39_word_underscore_12: little_trust_phrase_index_execute_canvas_fine_supreme_talk_smart_bottom_adjust
+bip_39_word_underscore_2: little_trust
+bip_39_word_underscore_3: little_trust_phrase
+bip_39_word_underscore_4: little_trust_phrase_index
+bip_39_word_underscore_5: little_trust_phrase_index_execute
+bip_39_word_underscore_6: little_trust_phrase_index_execute_canvas
+bip_39_word_underscore_7: little_trust_phrase_index_execute_canvas_fine
+bip_39_word_underscore_8: little_trust_phrase_index_execute_canvas_fine_supreme
+bip_39_word_underscore_9: little_trust_phrase_index_execute_canvas_fine_supreme_talk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_05_08_09
 id_no_color: 050809
 id_no_size: 05_08_09
 id_no_type: tray_05_08_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_05_08_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_05_08_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2026y7n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2026y7n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2026y7n
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 050809
 name_no_size: 05 08 09
 name_no_size_short: 05 08 09
 name_no_type: Tray 05 08 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_05_08_09
 oomp_word: frog mouse eyeglasses
 oomp_word_emoji: ':frog: :mouse: :eyeglasses:'

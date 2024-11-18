@@ -1,3 +1,221 @@
+bip_39_word_dash_1: awkward
+bip_39_word_dash_10: awkward-access-churn-candy-kiss-play-car-zoo-sniff-shoot
+bip_39_word_dash_11: awkward-access-churn-candy-kiss-play-car-zoo-sniff-shoot-tide
+bip_39_word_dash_12: awkward-access-churn-candy-kiss-play-car-zoo-sniff-shoot-tide-ancient
+bip_39_word_dash_2: awkward-access
+bip_39_word_dash_3: awkward-access-churn
+bip_39_word_dash_4: awkward-access-churn-candy
+bip_39_word_dash_5: awkward-access-churn-candy-kiss
+bip_39_word_dash_6: awkward-access-churn-candy-kiss-play
+bip_39_word_dash_7: awkward-access-churn-candy-kiss-play-car
+bip_39_word_dash_8: awkward-access-churn-candy-kiss-play-car-zoo
+bip_39_word_dash_9: awkward-access-churn-candy-kiss-play-car-zoo-sniff
+bip_39_word_new_br_1: awkward
+bip_39_word_new_br_10: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot
+bip_39_word_new_br_11: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide
+bip_39_word_new_br_12: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff<br>shoot<br>tide<br>ancient
+bip_39_word_new_br_2: awkward<br>access
+bip_39_word_new_br_3: awkward<br>access<br>churn
+bip_39_word_new_br_4: awkward<br>access<br>churn<br>candy
+bip_39_word_new_br_5: awkward<br>access<br>churn<br>candy<br>kiss
+bip_39_word_new_br_6: awkward<br>access<br>churn<br>candy<br>kiss<br>play
+bip_39_word_new_br_7: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car
+bip_39_word_new_br_8: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo
+bip_39_word_new_br_9: awkward<br>access<br>churn<br>candy<br>kiss<br>play<br>car<br>zoo<br>sniff
+bip_39_word_new_line_1: awkward
+bip_39_word_new_line_10: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car
+
+  zoo
+
+  sniff
+
+  shoot'
+bip_39_word_new_line_11: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car
+
+  zoo
+
+  sniff
+
+  shoot
+
+  tide'
+bip_39_word_new_line_12: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car
+
+  zoo
+
+  sniff
+
+  shoot
+
+  tide
+
+  ancient'
+bip_39_word_new_line_2: 'awkward
+
+  access'
+bip_39_word_new_line_3: 'awkward
+
+  access
+
+  churn'
+bip_39_word_new_line_4: 'awkward
+
+  access
+
+  churn
+
+  candy'
+bip_39_word_new_line_5: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss'
+bip_39_word_new_line_6: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play'
+bip_39_word_new_line_7: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car'
+bip_39_word_new_line_8: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car
+
+  zoo'
+bip_39_word_new_line_9: 'awkward
+
+  access
+
+  churn
+
+  candy
+
+  kiss
+
+  play
+
+  car
+
+  zoo
+
+  sniff'
+bip_39_word_no_space_1: awkward
+bip_39_word_no_space_10: awkwardaccesschurncandykissplaycarzoosniffshoot
+bip_39_word_no_space_11: awkwardaccesschurncandykissplaycarzoosniffshoottide
+bip_39_word_no_space_12: awkwardaccesschurncandykissplaycarzoosniffshoottideancient
+bip_39_word_no_space_2: awkwardaccess
+bip_39_word_no_space_3: awkwardaccesschurn
+bip_39_word_no_space_4: awkwardaccesschurncandy
+bip_39_word_no_space_5: awkwardaccesschurncandykiss
+bip_39_word_no_space_6: awkwardaccesschurncandykissplay
+bip_39_word_no_space_7: awkwardaccesschurncandykissplaycar
+bip_39_word_no_space_8: awkwardaccesschurncandykissplaycarzoo
+bip_39_word_no_space_9: awkwardaccesschurncandykissplaycarzoosniff
+bip_39_word_space_0:
+- awkward
+- access
+- churn
+- candy
+- kiss
+- play
+- car
+- zoo
+- sniff
+- shoot
+- tide
+- ancient
+bip_39_word_space_1: awkward
+bip_39_word_space_10: awkward access churn candy kiss play car zoo sniff shoot
+bip_39_word_space_11: awkward access churn candy kiss play car zoo sniff shoot tide
+bip_39_word_space_12: awkward access churn candy kiss play car zoo sniff shoot tide
+  ancient
+bip_39_word_space_2: awkward access
+bip_39_word_space_3: awkward access churn
+bip_39_word_space_4: awkward access churn candy
+bip_39_word_space_5: awkward access churn candy kiss
+bip_39_word_space_6: awkward access churn candy kiss play
+bip_39_word_space_7: awkward access churn candy kiss play car
+bip_39_word_space_8: awkward access churn candy kiss play car zoo
+bip_39_word_space_9: awkward access churn candy kiss play car zoo sniff
+bip_39_word_underscore_1: awkward
+bip_39_word_underscore_10: awkward_access_churn_candy_kiss_play_car_zoo_sniff_shoot
+bip_39_word_underscore_11: awkward_access_churn_candy_kiss_play_car_zoo_sniff_shoot_tide
+bip_39_word_underscore_12: awkward_access_churn_candy_kiss_play_car_zoo_sniff_shoot_tide_ancient
+bip_39_word_underscore_2: awkward_access
+bip_39_word_underscore_3: awkward_access_churn
+bip_39_word_underscore_4: awkward_access_churn_candy
+bip_39_word_underscore_5: awkward_access_churn_candy_kiss
+bip_39_word_underscore_6: awkward_access_churn_candy_kiss_play
+bip_39_word_underscore_7: awkward_access_churn_candy_kiss_play_car
+bip_39_word_underscore_8: awkward_access_churn_candy_kiss_play_car_zoo
+bip_39_word_underscore_9: awkward_access_churn_candy_kiss_play_car_zoo_sniff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_07_06_30
 id_no_color: '070630'
 id_no_size: '07_06_30'
 id_no_type: tray_thin_07_06_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_06_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_06_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205digh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205digh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205digh
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: '070630'
 name_no_size: 07 06 30
 name_no_size_short: 07 06 30
 name_no_type: Tray Thin 07 06 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_06_30
 oomp_word: hammer cake briefcase
 oomp_word_emoji: ':hammer: :cake: :briefcase:'

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: hard
+bip_39_word_dash_10: hard-cactus-spin-siege-joke-renew-churn-balance-note-apart
+bip_39_word_dash_11: hard-cactus-spin-siege-joke-renew-churn-balance-note-apart-current
+bip_39_word_dash_12: hard-cactus-spin-siege-joke-renew-churn-balance-note-apart-current-artefact
+bip_39_word_dash_2: hard-cactus
+bip_39_word_dash_3: hard-cactus-spin
+bip_39_word_dash_4: hard-cactus-spin-siege
+bip_39_word_dash_5: hard-cactus-spin-siege-joke
+bip_39_word_dash_6: hard-cactus-spin-siege-joke-renew
+bip_39_word_dash_7: hard-cactus-spin-siege-joke-renew-churn
+bip_39_word_dash_8: hard-cactus-spin-siege-joke-renew-churn-balance
+bip_39_word_dash_9: hard-cactus-spin-siege-joke-renew-churn-balance-note
+bip_39_word_new_br_1: hard
+bip_39_word_new_br_10: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart
+bip_39_word_new_br_11: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current
+bip_39_word_new_br_12: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note<br>apart<br>current<br>artefact
+bip_39_word_new_br_2: hard<br>cactus
+bip_39_word_new_br_3: hard<br>cactus<br>spin
+bip_39_word_new_br_4: hard<br>cactus<br>spin<br>siege
+bip_39_word_new_br_5: hard<br>cactus<br>spin<br>siege<br>joke
+bip_39_word_new_br_6: hard<br>cactus<br>spin<br>siege<br>joke<br>renew
+bip_39_word_new_br_7: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn
+bip_39_word_new_br_8: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance
+bip_39_word_new_br_9: hard<br>cactus<br>spin<br>siege<br>joke<br>renew<br>churn<br>balance<br>note
+bip_39_word_new_line_1: hard
+bip_39_word_new_line_10: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn
+
+  balance
+
+  note
+
+  apart'
+bip_39_word_new_line_11: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn
+
+  balance
+
+  note
+
+  apart
+
+  current'
+bip_39_word_new_line_12: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn
+
+  balance
+
+  note
+
+  apart
+
+  current
+
+  artefact'
+bip_39_word_new_line_2: 'hard
+
+  cactus'
+bip_39_word_new_line_3: 'hard
+
+  cactus
+
+  spin'
+bip_39_word_new_line_4: 'hard
+
+  cactus
+
+  spin
+
+  siege'
+bip_39_word_new_line_5: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke'
+bip_39_word_new_line_6: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew'
+bip_39_word_new_line_7: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn'
+bip_39_word_new_line_8: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn
+
+  balance'
+bip_39_word_new_line_9: 'hard
+
+  cactus
+
+  spin
+
+  siege
+
+  joke
+
+  renew
+
+  churn
+
+  balance
+
+  note'
+bip_39_word_no_space_1: hard
+bip_39_word_no_space_10: hardcactusspinsiegejokerenewchurnbalancenoteapart
+bip_39_word_no_space_11: hardcactusspinsiegejokerenewchurnbalancenoteapartcurrent
+bip_39_word_no_space_12: hardcactusspinsiegejokerenewchurnbalancenoteapartcurrentartefact
+bip_39_word_no_space_2: hardcactus
+bip_39_word_no_space_3: hardcactusspin
+bip_39_word_no_space_4: hardcactusspinsiege
+bip_39_word_no_space_5: hardcactusspinsiegejoke
+bip_39_word_no_space_6: hardcactusspinsiegejokerenew
+bip_39_word_no_space_7: hardcactusspinsiegejokerenewchurn
+bip_39_word_no_space_8: hardcactusspinsiegejokerenewchurnbalance
+bip_39_word_no_space_9: hardcactusspinsiegejokerenewchurnbalancenote
+bip_39_word_space_0:
+- hard
+- cactus
+- spin
+- siege
+- joke
+- renew
+- churn
+- balance
+- note
+- apart
+- current
+- artefact
+bip_39_word_space_1: hard
+bip_39_word_space_10: hard cactus spin siege joke renew churn balance note apart
+bip_39_word_space_11: hard cactus spin siege joke renew churn balance note apart current
+bip_39_word_space_12: hard cactus spin siege joke renew churn balance note apart current
+  artefact
+bip_39_word_space_2: hard cactus
+bip_39_word_space_3: hard cactus spin
+bip_39_word_space_4: hard cactus spin siege
+bip_39_word_space_5: hard cactus spin siege joke
+bip_39_word_space_6: hard cactus spin siege joke renew
+bip_39_word_space_7: hard cactus spin siege joke renew churn
+bip_39_word_space_8: hard cactus spin siege joke renew churn balance
+bip_39_word_space_9: hard cactus spin siege joke renew churn balance note
+bip_39_word_underscore_1: hard
+bip_39_word_underscore_10: hard_cactus_spin_siege_joke_renew_churn_balance_note_apart
+bip_39_word_underscore_11: hard_cactus_spin_siege_joke_renew_churn_balance_note_apart_current
+bip_39_word_underscore_12: hard_cactus_spin_siege_joke_renew_churn_balance_note_apart_current_artefact
+bip_39_word_underscore_2: hard_cactus
+bip_39_word_underscore_3: hard_cactus_spin
+bip_39_word_underscore_4: hard_cactus_spin_siege
+bip_39_word_underscore_5: hard_cactus_spin_siege_joke
+bip_39_word_underscore_6: hard_cactus_spin_siege_joke_renew
+bip_39_word_underscore_7: hard_cactus_spin_siege_joke_renew_churn
+bip_39_word_underscore_8: hard_cactus_spin_siege_joke_renew_churn_balance
+bip_39_word_underscore_9: hard_cactus_spin_siege_joke_renew_churn_balance_note
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_09_01_09
 id_no_color: 090109
 id_no_size: 09_01_09
 id_no_type: tray_thin_09_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2081ybm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2081ybm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2081ybm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 090109
 name_no_size: 09 01 09
 name_no_size_short: 09 01 09
 name_no_type: Tray Thin 09 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_01_09
 oomp_word: peach blossom blush
 oomp_word_emoji: ':peach: :blossom: :blush:'

@@ -1,3 +1,223 @@
+bip_39_word_dash_1: bronze
+bip_39_word_dash_10: bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose
+bip_39_word_dash_11: bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december
+bip_39_word_dash_12: bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos-dose-december-anxiety
+bip_39_word_dash_2: bronze-destroy
+bip_39_word_dash_3: bronze-destroy-initial
+bip_39_word_dash_4: bronze-destroy-initial-special
+bip_39_word_dash_5: bronze-destroy-initial-special-repeat
+bip_39_word_dash_6: bronze-destroy-initial-special-repeat-soda
+bip_39_word_dash_7: bronze-destroy-initial-special-repeat-soda-relax
+bip_39_word_dash_8: bronze-destroy-initial-special-repeat-soda-relax-bicycle
+bip_39_word_dash_9: bronze-destroy-initial-special-repeat-soda-relax-bicycle-chaos
+bip_39_word_new_br_1: bronze
+bip_39_word_new_br_10: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose
+bip_39_word_new_br_11: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december
+bip_39_word_new_br_12: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos<br>dose<br>december<br>anxiety
+bip_39_word_new_br_2: bronze<br>destroy
+bip_39_word_new_br_3: bronze<br>destroy<br>initial
+bip_39_word_new_br_4: bronze<br>destroy<br>initial<br>special
+bip_39_word_new_br_5: bronze<br>destroy<br>initial<br>special<br>repeat
+bip_39_word_new_br_6: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda
+bip_39_word_new_br_7: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax
+bip_39_word_new_br_8: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle
+bip_39_word_new_br_9: bronze<br>destroy<br>initial<br>special<br>repeat<br>soda<br>relax<br>bicycle<br>chaos
+bip_39_word_new_line_1: bronze
+bip_39_word_new_line_10: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax
+
+  bicycle
+
+  chaos
+
+  dose'
+bip_39_word_new_line_11: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax
+
+  bicycle
+
+  chaos
+
+  dose
+
+  december'
+bip_39_word_new_line_12: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax
+
+  bicycle
+
+  chaos
+
+  dose
+
+  december
+
+  anxiety'
+bip_39_word_new_line_2: 'bronze
+
+  destroy'
+bip_39_word_new_line_3: 'bronze
+
+  destroy
+
+  initial'
+bip_39_word_new_line_4: 'bronze
+
+  destroy
+
+  initial
+
+  special'
+bip_39_word_new_line_5: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat'
+bip_39_word_new_line_6: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda'
+bip_39_word_new_line_7: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax'
+bip_39_word_new_line_8: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax
+
+  bicycle'
+bip_39_word_new_line_9: 'bronze
+
+  destroy
+
+  initial
+
+  special
+
+  repeat
+
+  soda
+
+  relax
+
+  bicycle
+
+  chaos'
+bip_39_word_no_space_1: bronze
+bip_39_word_no_space_10: bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdose
+bip_39_word_no_space_11: bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecember
+bip_39_word_no_space_12: bronzedestroyinitialspecialrepeatsodarelaxbicyclechaosdosedecemberanxiety
+bip_39_word_no_space_2: bronzedestroy
+bip_39_word_no_space_3: bronzedestroyinitial
+bip_39_word_no_space_4: bronzedestroyinitialspecial
+bip_39_word_no_space_5: bronzedestroyinitialspecialrepeat
+bip_39_word_no_space_6: bronzedestroyinitialspecialrepeatsoda
+bip_39_word_no_space_7: bronzedestroyinitialspecialrepeatsodarelax
+bip_39_word_no_space_8: bronzedestroyinitialspecialrepeatsodarelaxbicycle
+bip_39_word_no_space_9: bronzedestroyinitialspecialrepeatsodarelaxbicyclechaos
+bip_39_word_space_0:
+- bronze
+- destroy
+- initial
+- special
+- repeat
+- soda
+- relax
+- bicycle
+- chaos
+- dose
+- december
+- anxiety
+bip_39_word_space_1: bronze
+bip_39_word_space_10: bronze destroy initial special repeat soda relax bicycle chaos
+  dose
+bip_39_word_space_11: bronze destroy initial special repeat soda relax bicycle chaos
+  dose december
+bip_39_word_space_12: bronze destroy initial special repeat soda relax bicycle chaos
+  dose december anxiety
+bip_39_word_space_2: bronze destroy
+bip_39_word_space_3: bronze destroy initial
+bip_39_word_space_4: bronze destroy initial special
+bip_39_word_space_5: bronze destroy initial special repeat
+bip_39_word_space_6: bronze destroy initial special repeat soda
+bip_39_word_space_7: bronze destroy initial special repeat soda relax
+bip_39_word_space_8: bronze destroy initial special repeat soda relax bicycle
+bip_39_word_space_9: bronze destroy initial special repeat soda relax bicycle chaos
+bip_39_word_underscore_1: bronze
+bip_39_word_underscore_10: bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose
+bip_39_word_underscore_11: bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december
+bip_39_word_underscore_12: bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos_dose_december_anxiety
+bip_39_word_underscore_2: bronze_destroy
+bip_39_word_underscore_3: bronze_destroy_initial
+bip_39_word_underscore_4: bronze_destroy_initial_special
+bip_39_word_underscore_5: bronze_destroy_initial_special_repeat
+bip_39_word_underscore_6: bronze_destroy_initial_special_repeat_soda
+bip_39_word_underscore_7: bronze_destroy_initial_special_repeat_soda_relax
+bip_39_word_underscore_8: bronze_destroy_initial_special_repeat_soda_relax_bicycle
+bip_39_word_underscore_9: bronze_destroy_initial_special_repeat_soda_relax_bicycle_chaos
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_plate_05_05_15__u
 id_no_color: 050515u
 id_no_size: 05_05_15__u
 id_no_type: plate_05_05_15__u
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_05_15__u
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_05_15__u
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2069d8w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2069d8w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2069d8w
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 050515U
 name_no_size: 05 05 15  U
 name_no_size_short: 05 05 15  U
 name_no_type: Plate 05 05 15  U
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_05_05_15__u
 oomp_word: ring bamboo beetle
 oomp_word_emoji: ':ring: :bamboo: :beetle:'

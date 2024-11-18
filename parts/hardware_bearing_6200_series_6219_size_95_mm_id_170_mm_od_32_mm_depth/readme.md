@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 6200 Series 6219 Size 95 mm ID 170 mm OD 32 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_6200_series_6219_size_95_mm_id_170_mm_od_32_mm_depth
   * classification: hardware

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Holder 05 05 03  Mechanical Motor With Encoder 30 mm Diameter Cricut Maker Compatible
+* name_short: 
 ### id
 * oomp_id: oobb_part_holder_05_05_03__mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible
   * classification: oobb

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321
+* name_short: 
 ### id
 * oomp_id: electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
   * classification: electronic

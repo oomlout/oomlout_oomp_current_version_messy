@@ -1,3 +1,222 @@
+bip_39_word_dash_1: myself
+bip_39_word_dash_10: myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind
+bip_39_word_dash_11: myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind-twist
+bip_39_word_dash_12: myself-asset-ready-weather-news-jacket-copper-cotton-vague-kind-twist-autumn
+bip_39_word_dash_2: myself-asset
+bip_39_word_dash_3: myself-asset-ready
+bip_39_word_dash_4: myself-asset-ready-weather
+bip_39_word_dash_5: myself-asset-ready-weather-news
+bip_39_word_dash_6: myself-asset-ready-weather-news-jacket
+bip_39_word_dash_7: myself-asset-ready-weather-news-jacket-copper
+bip_39_word_dash_8: myself-asset-ready-weather-news-jacket-copper-cotton
+bip_39_word_dash_9: myself-asset-ready-weather-news-jacket-copper-cotton-vague
+bip_39_word_new_br_1: myself
+bip_39_word_new_br_10: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind
+bip_39_word_new_br_11: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist
+bip_39_word_new_br_12: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague<br>kind<br>twist<br>autumn
+bip_39_word_new_br_2: myself<br>asset
+bip_39_word_new_br_3: myself<br>asset<br>ready
+bip_39_word_new_br_4: myself<br>asset<br>ready<br>weather
+bip_39_word_new_br_5: myself<br>asset<br>ready<br>weather<br>news
+bip_39_word_new_br_6: myself<br>asset<br>ready<br>weather<br>news<br>jacket
+bip_39_word_new_br_7: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper
+bip_39_word_new_br_8: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton
+bip_39_word_new_br_9: myself<br>asset<br>ready<br>weather<br>news<br>jacket<br>copper<br>cotton<br>vague
+bip_39_word_new_line_1: myself
+bip_39_word_new_line_10: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper
+
+  cotton
+
+  vague
+
+  kind'
+bip_39_word_new_line_11: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper
+
+  cotton
+
+  vague
+
+  kind
+
+  twist'
+bip_39_word_new_line_12: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper
+
+  cotton
+
+  vague
+
+  kind
+
+  twist
+
+  autumn'
+bip_39_word_new_line_2: 'myself
+
+  asset'
+bip_39_word_new_line_3: 'myself
+
+  asset
+
+  ready'
+bip_39_word_new_line_4: 'myself
+
+  asset
+
+  ready
+
+  weather'
+bip_39_word_new_line_5: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news'
+bip_39_word_new_line_6: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket'
+bip_39_word_new_line_7: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper'
+bip_39_word_new_line_8: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper
+
+  cotton'
+bip_39_word_new_line_9: 'myself
+
+  asset
+
+  ready
+
+  weather
+
+  news
+
+  jacket
+
+  copper
+
+  cotton
+
+  vague'
+bip_39_word_no_space_1: myself
+bip_39_word_no_space_10: myselfassetreadyweathernewsjacketcoppercottonvaguekind
+bip_39_word_no_space_11: myselfassetreadyweathernewsjacketcoppercottonvaguekindtwist
+bip_39_word_no_space_12: myselfassetreadyweathernewsjacketcoppercottonvaguekindtwistautumn
+bip_39_word_no_space_2: myselfasset
+bip_39_word_no_space_3: myselfassetready
+bip_39_word_no_space_4: myselfassetreadyweather
+bip_39_word_no_space_5: myselfassetreadyweathernews
+bip_39_word_no_space_6: myselfassetreadyweathernewsjacket
+bip_39_word_no_space_7: myselfassetreadyweathernewsjacketcopper
+bip_39_word_no_space_8: myselfassetreadyweathernewsjacketcoppercotton
+bip_39_word_no_space_9: myselfassetreadyweathernewsjacketcoppercottonvague
+bip_39_word_space_0:
+- myself
+- asset
+- ready
+- weather
+- news
+- jacket
+- copper
+- cotton
+- vague
+- kind
+- twist
+- autumn
+bip_39_word_space_1: myself
+bip_39_word_space_10: myself asset ready weather news jacket copper cotton vague kind
+bip_39_word_space_11: myself asset ready weather news jacket copper cotton vague kind
+  twist
+bip_39_word_space_12: myself asset ready weather news jacket copper cotton vague kind
+  twist autumn
+bip_39_word_space_2: myself asset
+bip_39_word_space_3: myself asset ready
+bip_39_word_space_4: myself asset ready weather
+bip_39_word_space_5: myself asset ready weather news
+bip_39_word_space_6: myself asset ready weather news jacket
+bip_39_word_space_7: myself asset ready weather news jacket copper
+bip_39_word_space_8: myself asset ready weather news jacket copper cotton
+bip_39_word_space_9: myself asset ready weather news jacket copper cotton vague
+bip_39_word_underscore_1: myself
+bip_39_word_underscore_10: myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind
+bip_39_word_underscore_11: myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind_twist
+bip_39_word_underscore_12: myself_asset_ready_weather_news_jacket_copper_cotton_vague_kind_twist_autumn
+bip_39_word_underscore_2: myself_asset
+bip_39_word_underscore_3: myself_asset_ready
+bip_39_word_underscore_4: myself_asset_ready_weather
+bip_39_word_underscore_5: myself_asset_ready_weather_news
+bip_39_word_underscore_6: myself_asset_ready_weather_news_jacket
+bip_39_word_underscore_7: myself_asset_ready_weather_news_jacket_copper
+bip_39_word_underscore_8: myself_asset_ready_weather_news_jacket_copper_cotton
+bip_39_word_underscore_9: myself_asset_ready_weather_news_jacket_copper_cotton_vague
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
@@ -107,7 +326,14 @@ id_no_color: 30000_mm_length
 id_no_size: brown_30000_mm_length
 id_no_type: 3_2_mm_internal_diameter_brown_30000_mm_length
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_brown_30000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_brown_30000_mm_length
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_brown_30000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209tr1a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209tr1a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209tr1a
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +361,7 @@ name_no_color: 30000 mm Length
 name_no_size: Brown 30000 mm Length
 name_no_size_short: Brown 30k Mm Length
 name_no_type: 3 2 mm Internal Diameter Brown 30000 mm Length
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_3_2_mm_internal_diameter_brown_30000_mm_length
 oomp_word: ok office angel
 oomp_word_emoji: ':ok: :office: :angel:'

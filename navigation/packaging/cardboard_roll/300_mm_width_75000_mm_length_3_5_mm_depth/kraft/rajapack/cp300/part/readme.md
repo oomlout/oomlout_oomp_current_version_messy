@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Packaging Cardboard Roll 300 mm Width 75000 mm Length 3 5 mm Depth Kraft Rajapack Cp300
+* name_short: 
 ### id
 * oomp_id: packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
   * classification: packaging
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :birthday: :train: :doughnut:
 * md5_6_alpha: 7ltq9
 * md5_6: c2f0c1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%207ltq9)
+[2x1](http://192.168.1.242:1112/?label=oomp%207ltq9)
+[6x4](http://192.168.1.55:1112/?label=oomp%207ltq9)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -256,7 +282,14 @@ nominee |
 | id_no_color | rajapack_cp300 |  
 | id_no_size | kraft_rajapack_cp300 |  
 | id_no_type | 300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207ltq9 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207ltq9 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%207ltq9 |  
 | link_purchase | ['https://www.rajapack.co.uk/protective-packaging/paper-packaging/corrugated-cardboard-rolls_PDT05562.html'] |  
 | manufacturer | rajapack |  
 | manufacturer_capital | Rajapack |  
@@ -306,6 +339,7 @@ nominee |
 | name_no_size | Kraft Rajapack Cp300 |  
 | name_no_size_short | Kraft Rajapack Cp300 |  
 | name_no_type | 300 mm Width 75000 mm Length 3 5 mm Depth Kraft Rajapack Cp300 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
 | oomp_word | birthday train doughnut |  
 | oomp_word_emoji | :birthday: :train: :doughnut: |  

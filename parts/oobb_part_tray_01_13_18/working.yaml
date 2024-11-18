@@ -1,3 +1,222 @@
+bip_39_word_dash_1: total
+bip_39_word_dash_10: total-morning-tomorrow-cement-art-wet-camp-horse-wear-ocean
+bip_39_word_dash_11: total-morning-tomorrow-cement-art-wet-camp-horse-wear-ocean-cheap
+bip_39_word_dash_12: total-morning-tomorrow-cement-art-wet-camp-horse-wear-ocean-cheap-access
+bip_39_word_dash_2: total-morning
+bip_39_word_dash_3: total-morning-tomorrow
+bip_39_word_dash_4: total-morning-tomorrow-cement
+bip_39_word_dash_5: total-morning-tomorrow-cement-art
+bip_39_word_dash_6: total-morning-tomorrow-cement-art-wet
+bip_39_word_dash_7: total-morning-tomorrow-cement-art-wet-camp
+bip_39_word_dash_8: total-morning-tomorrow-cement-art-wet-camp-horse
+bip_39_word_dash_9: total-morning-tomorrow-cement-art-wet-camp-horse-wear
+bip_39_word_new_br_1: total
+bip_39_word_new_br_10: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean
+bip_39_word_new_br_11: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap
+bip_39_word_new_br_12: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear<br>ocean<br>cheap<br>access
+bip_39_word_new_br_2: total<br>morning
+bip_39_word_new_br_3: total<br>morning<br>tomorrow
+bip_39_word_new_br_4: total<br>morning<br>tomorrow<br>cement
+bip_39_word_new_br_5: total<br>morning<br>tomorrow<br>cement<br>art
+bip_39_word_new_br_6: total<br>morning<br>tomorrow<br>cement<br>art<br>wet
+bip_39_word_new_br_7: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp
+bip_39_word_new_br_8: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse
+bip_39_word_new_br_9: total<br>morning<br>tomorrow<br>cement<br>art<br>wet<br>camp<br>horse<br>wear
+bip_39_word_new_line_1: total
+bip_39_word_new_line_10: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp
+
+  horse
+
+  wear
+
+  ocean'
+bip_39_word_new_line_11: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp
+
+  horse
+
+  wear
+
+  ocean
+
+  cheap'
+bip_39_word_new_line_12: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp
+
+  horse
+
+  wear
+
+  ocean
+
+  cheap
+
+  access'
+bip_39_word_new_line_2: 'total
+
+  morning'
+bip_39_word_new_line_3: 'total
+
+  morning
+
+  tomorrow'
+bip_39_word_new_line_4: 'total
+
+  morning
+
+  tomorrow
+
+  cement'
+bip_39_word_new_line_5: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art'
+bip_39_word_new_line_6: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet'
+bip_39_word_new_line_7: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp'
+bip_39_word_new_line_8: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp
+
+  horse'
+bip_39_word_new_line_9: 'total
+
+  morning
+
+  tomorrow
+
+  cement
+
+  art
+
+  wet
+
+  camp
+
+  horse
+
+  wear'
+bip_39_word_no_space_1: total
+bip_39_word_no_space_10: totalmorningtomorrowcementartwetcamphorsewearocean
+bip_39_word_no_space_11: totalmorningtomorrowcementartwetcamphorsewearoceancheap
+bip_39_word_no_space_12: totalmorningtomorrowcementartwetcamphorsewearoceancheapaccess
+bip_39_word_no_space_2: totalmorning
+bip_39_word_no_space_3: totalmorningtomorrow
+bip_39_word_no_space_4: totalmorningtomorrowcement
+bip_39_word_no_space_5: totalmorningtomorrowcementart
+bip_39_word_no_space_6: totalmorningtomorrowcementartwet
+bip_39_word_no_space_7: totalmorningtomorrowcementartwetcamp
+bip_39_word_no_space_8: totalmorningtomorrowcementartwetcamphorse
+bip_39_word_no_space_9: totalmorningtomorrowcementartwetcamphorsewear
+bip_39_word_space_0:
+- total
+- morning
+- tomorrow
+- cement
+- art
+- wet
+- camp
+- horse
+- wear
+- ocean
+- cheap
+- access
+bip_39_word_space_1: total
+bip_39_word_space_10: total morning tomorrow cement art wet camp horse wear ocean
+bip_39_word_space_11: total morning tomorrow cement art wet camp horse wear ocean
+  cheap
+bip_39_word_space_12: total morning tomorrow cement art wet camp horse wear ocean
+  cheap access
+bip_39_word_space_2: total morning
+bip_39_word_space_3: total morning tomorrow
+bip_39_word_space_4: total morning tomorrow cement
+bip_39_word_space_5: total morning tomorrow cement art
+bip_39_word_space_6: total morning tomorrow cement art wet
+bip_39_word_space_7: total morning tomorrow cement art wet camp
+bip_39_word_space_8: total morning tomorrow cement art wet camp horse
+bip_39_word_space_9: total morning tomorrow cement art wet camp horse wear
+bip_39_word_underscore_1: total
+bip_39_word_underscore_10: total_morning_tomorrow_cement_art_wet_camp_horse_wear_ocean
+bip_39_word_underscore_11: total_morning_tomorrow_cement_art_wet_camp_horse_wear_ocean_cheap
+bip_39_word_underscore_12: total_morning_tomorrow_cement_art_wet_camp_horse_wear_ocean_cheap_access
+bip_39_word_underscore_2: total_morning
+bip_39_word_underscore_3: total_morning_tomorrow
+bip_39_word_underscore_4: total_morning_tomorrow_cement
+bip_39_word_underscore_5: total_morning_tomorrow_cement_art
+bip_39_word_underscore_6: total_morning_tomorrow_cement_art_wet
+bip_39_word_underscore_7: total_morning_tomorrow_cement_art_wet_camp
+bip_39_word_underscore_8: total_morning_tomorrow_cement_art_wet_camp_horse
+bip_39_word_underscore_9: total_morning_tomorrow_cement_art_wet_camp_horse_wear
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_01_13_18
 id_no_color: 011318
 id_no_size: 01_13_18
 id_no_type: tray_01_13_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_13_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_13_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_13_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20siqu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20siqu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20siqu
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 011318
 name_no_size: 01 13 18
 name_no_size_short: 01 13 18
 name_no_type: Tray 01 13 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_13_18
 oomp_word: fire bug airplane
 oomp_word_emoji: ':fire: :bug: :airplane:'

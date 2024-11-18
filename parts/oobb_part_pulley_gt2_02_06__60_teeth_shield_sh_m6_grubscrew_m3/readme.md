@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Pulley Gt2 02 06  60 Teeth Shield Sh M6 Grubscrew M3
+* name_short: 
 ### id
 * oomp_id: oobb_part_pulley_gt2_02_06__60_teeth_shield_sh_m6_grubscrew_m3
   * classification: oobb

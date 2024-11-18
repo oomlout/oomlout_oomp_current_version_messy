@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Plate 05 02 03  Label
+* name_short: 
 ### id
 * oomp_id: oobb_part_plate_05_02_03__label
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :seven: :honey_pot: :sailboat:
 * md5_6_alpha: 9pgbm
 * md5_6: f8c7e2
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209pgbm)
+[2x1](http://192.168.1.242:1112/?label=oomp%209pgbm)
+[6x4](http://192.168.1.55:1112/?label=oomp%209pgbm)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__label) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__label)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ clean |
 | id_no_color | 050203label |  
 | id_no_size | 05_02_03__label |  
 | id_no_type | plate_05_02_03__label |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__label |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_05_02_03__label |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_05_02_03__label |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209pgbm |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209pgbm |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209pgbm |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ clean |
 | name_no_size | 05 02 03  Label |  
 | name_no_size_short | 05 02 03  Label |  
 | name_no_type | Plate 05 02 03  Label |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_05_02_03__label |  
 | oomp_word | seven honey_pot sailboat |  
 | oomp_word_emoji | :seven: :honey_pot: :sailboat: |  

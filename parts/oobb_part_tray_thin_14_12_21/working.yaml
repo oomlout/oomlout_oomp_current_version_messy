@@ -1,3 +1,222 @@
+bip_39_word_dash_1: cave
+bip_39_word_dash_10: cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin
+bip_39_word_dash_11: cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin-ramp
+bip_39_word_dash_12: cave-task-zero-patrol-valley-deputy-super-bless-junk-pumpkin-ramp-area
+bip_39_word_dash_2: cave-task
+bip_39_word_dash_3: cave-task-zero
+bip_39_word_dash_4: cave-task-zero-patrol
+bip_39_word_dash_5: cave-task-zero-patrol-valley
+bip_39_word_dash_6: cave-task-zero-patrol-valley-deputy
+bip_39_word_dash_7: cave-task-zero-patrol-valley-deputy-super
+bip_39_word_dash_8: cave-task-zero-patrol-valley-deputy-super-bless
+bip_39_word_dash_9: cave-task-zero-patrol-valley-deputy-super-bless-junk
+bip_39_word_new_br_1: cave
+bip_39_word_new_br_10: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk<br>pumpkin
+bip_39_word_new_br_11: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk<br>pumpkin<br>ramp
+bip_39_word_new_br_12: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk<br>pumpkin<br>ramp<br>area
+bip_39_word_new_br_2: cave<br>task
+bip_39_word_new_br_3: cave<br>task<br>zero
+bip_39_word_new_br_4: cave<br>task<br>zero<br>patrol
+bip_39_word_new_br_5: cave<br>task<br>zero<br>patrol<br>valley
+bip_39_word_new_br_6: cave<br>task<br>zero<br>patrol<br>valley<br>deputy
+bip_39_word_new_br_7: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super
+bip_39_word_new_br_8: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless
+bip_39_word_new_br_9: cave<br>task<br>zero<br>patrol<br>valley<br>deputy<br>super<br>bless<br>junk
+bip_39_word_new_line_1: cave
+bip_39_word_new_line_10: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super
+
+  bless
+
+  junk
+
+  pumpkin'
+bip_39_word_new_line_11: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super
+
+  bless
+
+  junk
+
+  pumpkin
+
+  ramp'
+bip_39_word_new_line_12: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super
+
+  bless
+
+  junk
+
+  pumpkin
+
+  ramp
+
+  area'
+bip_39_word_new_line_2: 'cave
+
+  task'
+bip_39_word_new_line_3: 'cave
+
+  task
+
+  zero'
+bip_39_word_new_line_4: 'cave
+
+  task
+
+  zero
+
+  patrol'
+bip_39_word_new_line_5: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley'
+bip_39_word_new_line_6: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy'
+bip_39_word_new_line_7: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super'
+bip_39_word_new_line_8: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super
+
+  bless'
+bip_39_word_new_line_9: 'cave
+
+  task
+
+  zero
+
+  patrol
+
+  valley
+
+  deputy
+
+  super
+
+  bless
+
+  junk'
+bip_39_word_no_space_1: cave
+bip_39_word_no_space_10: cavetaskzeropatrolvalleydeputysuperblessjunkpumpkin
+bip_39_word_no_space_11: cavetaskzeropatrolvalleydeputysuperblessjunkpumpkinramp
+bip_39_word_no_space_12: cavetaskzeropatrolvalleydeputysuperblessjunkpumpkinramparea
+bip_39_word_no_space_2: cavetask
+bip_39_word_no_space_3: cavetaskzero
+bip_39_word_no_space_4: cavetaskzeropatrol
+bip_39_word_no_space_5: cavetaskzeropatrolvalley
+bip_39_word_no_space_6: cavetaskzeropatrolvalleydeputy
+bip_39_word_no_space_7: cavetaskzeropatrolvalleydeputysuper
+bip_39_word_no_space_8: cavetaskzeropatrolvalleydeputysuperbless
+bip_39_word_no_space_9: cavetaskzeropatrolvalleydeputysuperblessjunk
+bip_39_word_space_0:
+- cave
+- task
+- zero
+- patrol
+- valley
+- deputy
+- super
+- bless
+- junk
+- pumpkin
+- ramp
+- area
+bip_39_word_space_1: cave
+bip_39_word_space_10: cave task zero patrol valley deputy super bless junk pumpkin
+bip_39_word_space_11: cave task zero patrol valley deputy super bless junk pumpkin
+  ramp
+bip_39_word_space_12: cave task zero patrol valley deputy super bless junk pumpkin
+  ramp area
+bip_39_word_space_2: cave task
+bip_39_word_space_3: cave task zero
+bip_39_word_space_4: cave task zero patrol
+bip_39_word_space_5: cave task zero patrol valley
+bip_39_word_space_6: cave task zero patrol valley deputy
+bip_39_word_space_7: cave task zero patrol valley deputy super
+bip_39_word_space_8: cave task zero patrol valley deputy super bless
+bip_39_word_space_9: cave task zero patrol valley deputy super bless junk
+bip_39_word_underscore_1: cave
+bip_39_word_underscore_10: cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin
+bip_39_word_underscore_11: cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin_ramp
+bip_39_word_underscore_12: cave_task_zero_patrol_valley_deputy_super_bless_junk_pumpkin_ramp_area
+bip_39_word_underscore_2: cave_task
+bip_39_word_underscore_3: cave_task_zero
+bip_39_word_underscore_4: cave_task_zero_patrol
+bip_39_word_underscore_5: cave_task_zero_patrol_valley
+bip_39_word_underscore_6: cave_task_zero_patrol_valley_deputy
+bip_39_word_underscore_7: cave_task_zero_patrol_valley_deputy_super
+bip_39_word_underscore_8: cave_task_zero_patrol_valley_deputy_super_bless
+bip_39_word_underscore_9: cave_task_zero_patrol_valley_deputy_super_bless_junk
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_14_12_21
 id_no_color: '141221'
 id_no_size: '14_12_21'
 id_no_type: tray_thin_14_12_21
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_21
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_12_21
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_14_12_21
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2072sbv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2072sbv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2072sbv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '141221'
 name_no_size: 14 12 21
 name_no_size_short: 14 12 21
 name_no_type: Tray Thin 14 12 21
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_14_12_21
 oomp_word: tea tulip car
 oomp_word_emoji: ':tea: :tulip: :car:'

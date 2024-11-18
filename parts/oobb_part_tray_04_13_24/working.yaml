@@ -1,3 +1,222 @@
+bip_39_word_dash_1: mutual
+bip_39_word_dash_10: mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic
+bip_39_word_dash_11: mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic-feed
+bip_39_word_dash_12: mutual-beef-early-fee-escape-scrap-plate-noodle-draft-basic-feed-atom
+bip_39_word_dash_2: mutual-beef
+bip_39_word_dash_3: mutual-beef-early
+bip_39_word_dash_4: mutual-beef-early-fee
+bip_39_word_dash_5: mutual-beef-early-fee-escape
+bip_39_word_dash_6: mutual-beef-early-fee-escape-scrap
+bip_39_word_dash_7: mutual-beef-early-fee-escape-scrap-plate
+bip_39_word_dash_8: mutual-beef-early-fee-escape-scrap-plate-noodle
+bip_39_word_dash_9: mutual-beef-early-fee-escape-scrap-plate-noodle-draft
+bip_39_word_new_br_1: mutual
+bip_39_word_new_br_10: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic
+bip_39_word_new_br_11: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic<br>feed
+bip_39_word_new_br_12: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft<br>basic<br>feed<br>atom
+bip_39_word_new_br_2: mutual<br>beef
+bip_39_word_new_br_3: mutual<br>beef<br>early
+bip_39_word_new_br_4: mutual<br>beef<br>early<br>fee
+bip_39_word_new_br_5: mutual<br>beef<br>early<br>fee<br>escape
+bip_39_word_new_br_6: mutual<br>beef<br>early<br>fee<br>escape<br>scrap
+bip_39_word_new_br_7: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate
+bip_39_word_new_br_8: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle
+bip_39_word_new_br_9: mutual<br>beef<br>early<br>fee<br>escape<br>scrap<br>plate<br>noodle<br>draft
+bip_39_word_new_line_1: mutual
+bip_39_word_new_line_10: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic'
+bip_39_word_new_line_11: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic
+
+  feed'
+bip_39_word_new_line_12: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft
+
+  basic
+
+  feed
+
+  atom'
+bip_39_word_new_line_2: 'mutual
+
+  beef'
+bip_39_word_new_line_3: 'mutual
+
+  beef
+
+  early'
+bip_39_word_new_line_4: 'mutual
+
+  beef
+
+  early
+
+  fee'
+bip_39_word_new_line_5: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape'
+bip_39_word_new_line_6: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap'
+bip_39_word_new_line_7: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate'
+bip_39_word_new_line_8: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle'
+bip_39_word_new_line_9: 'mutual
+
+  beef
+
+  early
+
+  fee
+
+  escape
+
+  scrap
+
+  plate
+
+  noodle
+
+  draft'
+bip_39_word_no_space_1: mutual
+bip_39_word_no_space_10: mutualbeefearlyfeeescapescrapplatenoodledraftbasic
+bip_39_word_no_space_11: mutualbeefearlyfeeescapescrapplatenoodledraftbasicfeed
+bip_39_word_no_space_12: mutualbeefearlyfeeescapescrapplatenoodledraftbasicfeedatom
+bip_39_word_no_space_2: mutualbeef
+bip_39_word_no_space_3: mutualbeefearly
+bip_39_word_no_space_4: mutualbeefearlyfee
+bip_39_word_no_space_5: mutualbeefearlyfeeescape
+bip_39_word_no_space_6: mutualbeefearlyfeeescapescrap
+bip_39_word_no_space_7: mutualbeefearlyfeeescapescrapplate
+bip_39_word_no_space_8: mutualbeefearlyfeeescapescrapplatenoodle
+bip_39_word_no_space_9: mutualbeefearlyfeeescapescrapplatenoodledraft
+bip_39_word_space_0:
+- mutual
+- beef
+- early
+- fee
+- escape
+- scrap
+- plate
+- noodle
+- draft
+- basic
+- feed
+- atom
+bip_39_word_space_1: mutual
+bip_39_word_space_10: mutual beef early fee escape scrap plate noodle draft basic
+bip_39_word_space_11: mutual beef early fee escape scrap plate noodle draft basic
+  feed
+bip_39_word_space_12: mutual beef early fee escape scrap plate noodle draft basic
+  feed atom
+bip_39_word_space_2: mutual beef
+bip_39_word_space_3: mutual beef early
+bip_39_word_space_4: mutual beef early fee
+bip_39_word_space_5: mutual beef early fee escape
+bip_39_word_space_6: mutual beef early fee escape scrap
+bip_39_word_space_7: mutual beef early fee escape scrap plate
+bip_39_word_space_8: mutual beef early fee escape scrap plate noodle
+bip_39_word_space_9: mutual beef early fee escape scrap plate noodle draft
+bip_39_word_underscore_1: mutual
+bip_39_word_underscore_10: mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic
+bip_39_word_underscore_11: mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic_feed
+bip_39_word_underscore_12: mutual_beef_early_fee_escape_scrap_plate_noodle_draft_basic_feed_atom
+bip_39_word_underscore_2: mutual_beef
+bip_39_word_underscore_3: mutual_beef_early
+bip_39_word_underscore_4: mutual_beef_early_fee
+bip_39_word_underscore_5: mutual_beef_early_fee_escape
+bip_39_word_underscore_6: mutual_beef_early_fee_escape_scrap
+bip_39_word_underscore_7: mutual_beef_early_fee_escape_scrap_plate
+bip_39_word_underscore_8: mutual_beef_early_fee_escape_scrap_plate_noodle
+bip_39_word_underscore_9: mutual_beef_early_fee_escape_scrap_plate_noodle_draft
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_04_13_24
 id_no_color: '041324'
 id_no_size: '04_13_24'
 id_no_type: tray_04_13_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_04_13_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_04_13_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208x6x0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208x6x0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208x6x0
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '041324'
 name_no_size: 04 13 24
 name_no_size_short: 04 13 24
 name_no_type: Tray 04 13 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_04_13_24
 oomp_word: anchor sandal panda_face
 oomp_word_emoji: ':anchor: :sandal: :panda_face:'

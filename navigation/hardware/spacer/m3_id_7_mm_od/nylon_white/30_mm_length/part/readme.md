@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Spacer M3 ID 7 mm OD Nylon White 30 mm Length
+* name_short: 
 ### id
 * oomp_id: hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :coffee: :rocket: :lips:
 * md5_6_alpha: 723he
 * md5_6: b4e522
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%20723he)
+[2x1](http://192.168.1.242:1112/?label=oomp%20723he)
+[6x4](http://192.168.1.55:1112/?label=oomp%20723he)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -282,7 +308,14 @@ oxygen |
 | id_no_size | nylon_white_30_mm_length |  
 | id_no_type | m3_id_7_mm_od_nylon_white_30_mm_length |  
 | kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20723he |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20723he |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%20723he |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -325,6 +358,7 @@ oxygen |
 | oomlout_bolt_size_long | M3X7 |  
 | oomlout_bolt_type | Spacer |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | sp3x7nw30 |  
 | oomlout_short_code_upper | SP3X7NW30 |  
 | oomp_key | oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_30_mm_length |  

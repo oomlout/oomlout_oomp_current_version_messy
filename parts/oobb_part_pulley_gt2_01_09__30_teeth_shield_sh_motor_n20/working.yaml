@@ -1,3 +1,221 @@
+bip_39_word_dash_1: chase
+bip_39_word_dash_10: chase-endless-clutch-auto-hand-all-token-found-salt-room
+bip_39_word_dash_11: chase-endless-clutch-auto-hand-all-token-found-salt-room-vivid
+bip_39_word_dash_12: chase-endless-clutch-auto-hand-all-token-found-salt-room-vivid-ability
+bip_39_word_dash_2: chase-endless
+bip_39_word_dash_3: chase-endless-clutch
+bip_39_word_dash_4: chase-endless-clutch-auto
+bip_39_word_dash_5: chase-endless-clutch-auto-hand
+bip_39_word_dash_6: chase-endless-clutch-auto-hand-all
+bip_39_word_dash_7: chase-endless-clutch-auto-hand-all-token
+bip_39_word_dash_8: chase-endless-clutch-auto-hand-all-token-found
+bip_39_word_dash_9: chase-endless-clutch-auto-hand-all-token-found-salt
+bip_39_word_new_br_1: chase
+bip_39_word_new_br_10: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt<br>room
+bip_39_word_new_br_11: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt<br>room<br>vivid
+bip_39_word_new_br_12: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt<br>room<br>vivid<br>ability
+bip_39_word_new_br_2: chase<br>endless
+bip_39_word_new_br_3: chase<br>endless<br>clutch
+bip_39_word_new_br_4: chase<br>endless<br>clutch<br>auto
+bip_39_word_new_br_5: chase<br>endless<br>clutch<br>auto<br>hand
+bip_39_word_new_br_6: chase<br>endless<br>clutch<br>auto<br>hand<br>all
+bip_39_word_new_br_7: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token
+bip_39_word_new_br_8: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found
+bip_39_word_new_br_9: chase<br>endless<br>clutch<br>auto<br>hand<br>all<br>token<br>found<br>salt
+bip_39_word_new_line_1: chase
+bip_39_word_new_line_10: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token
+
+  found
+
+  salt
+
+  room'
+bip_39_word_new_line_11: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token
+
+  found
+
+  salt
+
+  room
+
+  vivid'
+bip_39_word_new_line_12: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token
+
+  found
+
+  salt
+
+  room
+
+  vivid
+
+  ability'
+bip_39_word_new_line_2: 'chase
+
+  endless'
+bip_39_word_new_line_3: 'chase
+
+  endless
+
+  clutch'
+bip_39_word_new_line_4: 'chase
+
+  endless
+
+  clutch
+
+  auto'
+bip_39_word_new_line_5: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand'
+bip_39_word_new_line_6: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all'
+bip_39_word_new_line_7: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token'
+bip_39_word_new_line_8: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token
+
+  found'
+bip_39_word_new_line_9: 'chase
+
+  endless
+
+  clutch
+
+  auto
+
+  hand
+
+  all
+
+  token
+
+  found
+
+  salt'
+bip_39_word_no_space_1: chase
+bip_39_word_no_space_10: chaseendlessclutchautohandalltokenfoundsaltroom
+bip_39_word_no_space_11: chaseendlessclutchautohandalltokenfoundsaltroomvivid
+bip_39_word_no_space_12: chaseendlessclutchautohandalltokenfoundsaltroomvividability
+bip_39_word_no_space_2: chaseendless
+bip_39_word_no_space_3: chaseendlessclutch
+bip_39_word_no_space_4: chaseendlessclutchauto
+bip_39_word_no_space_5: chaseendlessclutchautohand
+bip_39_word_no_space_6: chaseendlessclutchautohandall
+bip_39_word_no_space_7: chaseendlessclutchautohandalltoken
+bip_39_word_no_space_8: chaseendlessclutchautohandalltokenfound
+bip_39_word_no_space_9: chaseendlessclutchautohandalltokenfoundsalt
+bip_39_word_space_0:
+- chase
+- endless
+- clutch
+- auto
+- hand
+- all
+- token
+- found
+- salt
+- room
+- vivid
+- ability
+bip_39_word_space_1: chase
+bip_39_word_space_10: chase endless clutch auto hand all token found salt room
+bip_39_word_space_11: chase endless clutch auto hand all token found salt room vivid
+bip_39_word_space_12: chase endless clutch auto hand all token found salt room vivid
+  ability
+bip_39_word_space_2: chase endless
+bip_39_word_space_3: chase endless clutch
+bip_39_word_space_4: chase endless clutch auto
+bip_39_word_space_5: chase endless clutch auto hand
+bip_39_word_space_6: chase endless clutch auto hand all
+bip_39_word_space_7: chase endless clutch auto hand all token
+bip_39_word_space_8: chase endless clutch auto hand all token found
+bip_39_word_space_9: chase endless clutch auto hand all token found salt
+bip_39_word_underscore_1: chase
+bip_39_word_underscore_10: chase_endless_clutch_auto_hand_all_token_found_salt_room
+bip_39_word_underscore_11: chase_endless_clutch_auto_hand_all_token_found_salt_room_vivid
+bip_39_word_underscore_12: chase_endless_clutch_auto_hand_all_token_found_salt_room_vivid_ability
+bip_39_word_underscore_2: chase_endless
+bip_39_word_underscore_3: chase_endless_clutch
+bip_39_word_underscore_4: chase_endless_clutch_auto
+bip_39_word_underscore_5: chase_endless_clutch_auto_hand
+bip_39_word_underscore_6: chase_endless_clutch_auto_hand_all
+bip_39_word_underscore_7: chase_endless_clutch_auto_hand_all_token
+bip_39_word_underscore_8: chase_endless_clutch_auto_hand_all_token_found
+bip_39_word_underscore_9: chase_endless_clutch_auto_hand_all_token_found_salt
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
 id_no_color: 010930teethshieldshmotorn20
 id_no_size: 01_09__30_teeth_shield_sh_motor_n20
 id_no_type: pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205i0e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205i0e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205i0e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 010930Teethshieldshmotorn20
 name_no_size: 01 09  30 Teeth Shield Sh Motor N20
 name_no_size_short: 01 09  30 Teeth Shield Sh Motor N20
 name_no_type: Pulley Gt2 01 09  30 Teeth Shield Sh Motor N20
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_pulley_gt2_01_09__30_teeth_shield_sh_motor_n20
 oomp_word: grin tractor new_moon
 oomp_word_emoji: ':grin: :tractor: :new_moon:'

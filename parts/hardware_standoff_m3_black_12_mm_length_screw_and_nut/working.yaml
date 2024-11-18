@@ -1,3 +1,222 @@
+bip_39_word_dash_1: start
+bip_39_word_dash_10: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic
+bip_39_word_dash_11: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid
+bip_39_word_dash_12: start-turn-album-charge-side-rebuild-proof-deliver-gym-picnic-bid-assault
+bip_39_word_dash_2: start-turn
+bip_39_word_dash_3: start-turn-album
+bip_39_word_dash_4: start-turn-album-charge
+bip_39_word_dash_5: start-turn-album-charge-side
+bip_39_word_dash_6: start-turn-album-charge-side-rebuild
+bip_39_word_dash_7: start-turn-album-charge-side-rebuild-proof
+bip_39_word_dash_8: start-turn-album-charge-side-rebuild-proof-deliver
+bip_39_word_dash_9: start-turn-album-charge-side-rebuild-proof-deliver-gym
+bip_39_word_new_br_1: start
+bip_39_word_new_br_10: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic
+bip_39_word_new_br_11: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid
+bip_39_word_new_br_12: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym<br>picnic<br>bid<br>assault
+bip_39_word_new_br_2: start<br>turn
+bip_39_word_new_br_3: start<br>turn<br>album
+bip_39_word_new_br_4: start<br>turn<br>album<br>charge
+bip_39_word_new_br_5: start<br>turn<br>album<br>charge<br>side
+bip_39_word_new_br_6: start<br>turn<br>album<br>charge<br>side<br>rebuild
+bip_39_word_new_br_7: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof
+bip_39_word_new_br_8: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver
+bip_39_word_new_br_9: start<br>turn<br>album<br>charge<br>side<br>rebuild<br>proof<br>deliver<br>gym
+bip_39_word_new_line_1: start
+bip_39_word_new_line_10: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic'
+bip_39_word_new_line_11: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic
+
+  bid'
+bip_39_word_new_line_12: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym
+
+  picnic
+
+  bid
+
+  assault'
+bip_39_word_new_line_2: 'start
+
+  turn'
+bip_39_word_new_line_3: 'start
+
+  turn
+
+  album'
+bip_39_word_new_line_4: 'start
+
+  turn
+
+  album
+
+  charge'
+bip_39_word_new_line_5: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side'
+bip_39_word_new_line_6: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild'
+bip_39_word_new_line_7: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof'
+bip_39_word_new_line_8: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver'
+bip_39_word_new_line_9: 'start
+
+  turn
+
+  album
+
+  charge
+
+  side
+
+  rebuild
+
+  proof
+
+  deliver
+
+  gym'
+bip_39_word_no_space_1: start
+bip_39_word_no_space_10: startturnalbumchargesiderebuildproofdelivergympicnic
+bip_39_word_no_space_11: startturnalbumchargesiderebuildproofdelivergympicnicbid
+bip_39_word_no_space_12: startturnalbumchargesiderebuildproofdelivergympicnicbidassault
+bip_39_word_no_space_2: startturn
+bip_39_word_no_space_3: startturnalbum
+bip_39_word_no_space_4: startturnalbumcharge
+bip_39_word_no_space_5: startturnalbumchargeside
+bip_39_word_no_space_6: startturnalbumchargesiderebuild
+bip_39_word_no_space_7: startturnalbumchargesiderebuildproof
+bip_39_word_no_space_8: startturnalbumchargesiderebuildproofdeliver
+bip_39_word_no_space_9: startturnalbumchargesiderebuildproofdelivergym
+bip_39_word_space_0:
+- start
+- turn
+- album
+- charge
+- side
+- rebuild
+- proof
+- deliver
+- gym
+- picnic
+- bid
+- assault
+bip_39_word_space_1: start
+bip_39_word_space_10: start turn album charge side rebuild proof deliver gym picnic
+bip_39_word_space_11: start turn album charge side rebuild proof deliver gym picnic
+  bid
+bip_39_word_space_12: start turn album charge side rebuild proof deliver gym picnic
+  bid assault
+bip_39_word_space_2: start turn
+bip_39_word_space_3: start turn album
+bip_39_word_space_4: start turn album charge
+bip_39_word_space_5: start turn album charge side
+bip_39_word_space_6: start turn album charge side rebuild
+bip_39_word_space_7: start turn album charge side rebuild proof
+bip_39_word_space_8: start turn album charge side rebuild proof deliver
+bip_39_word_space_9: start turn album charge side rebuild proof deliver gym
+bip_39_word_underscore_1: start
+bip_39_word_underscore_10: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic
+bip_39_word_underscore_11: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid
+bip_39_word_underscore_12: start_turn_album_charge_side_rebuild_proof_deliver_gym_picnic_bid_assault
+bip_39_word_underscore_2: start_turn
+bip_39_word_underscore_3: start_turn_album
+bip_39_word_underscore_4: start_turn_album_charge
+bip_39_word_underscore_5: start_turn_album_charge_side
+bip_39_word_underscore_6: start_turn_album_charge_side_rebuild
+bip_39_word_underscore_7: start_turn_album_charge_side_rebuild_proof
+bip_39_word_underscore_8: start_turn_album_charge_side_rebuild_proof_deliver
+bip_39_word_underscore_9: start_turn_album_charge_side_rebuild_proof_deliver_gym
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 12_mm_length_screw_and_nut
 id_no_size: black_12_mm_length_screw_and_nut
 id_no_type: m3_black_12_mm_length_screw_and_nut
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_12_mm_length_screw_and_nut
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_black_12_mm_length_screw_and_nut
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_standoff_m3_black_12_mm_length_screw_and_nut
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208fne1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208fne1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208fne1
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,25 @@ name_no_color: 12 mm Length Screw And Nut
 name_no_size: Black 12 mm Length Screw And Nut
 name_no_size_short: Black 12 Mm Length Screw And Nut
 name_no_type: M3 Black 12 mm Length Screw And Nut
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Bolt
+oomlout_bolt_length: 12 mm
+oomlout_bolt_length_no_unit: '12'
+oomlout_bolt_md5_6_alpha_first_3: 8fn
+oomlout_bolt_md5_6_alpha_first_3_upper: 8FN
+oomlout_bolt_md5_6_alpha_last_3: e1
+oomlout_bolt_md5_6_alpha_last_3_upper: E1
+oomlout_bolt_md5_6_first_3: d82
+oomlout_bolt_md5_6_first_3_upper: D82
+oomlout_bolt_md5_6_last_3: c29
+oomlout_bolt_md5_6_last_3_upper: C29
+oomlout_bolt_name: ' M3X12 mm Black (Bolt)'
+oomlout_bolt_size: M3
+oomlout_bolt_type: ''
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: so3b12sn
+oomlout_short_code_upper: SO3B12SN
 oomp_key: oomp_hardware_standoff_m3_black_12_mm_length_screw_and_nut
 oomp_word: hospital snowflake sunny
 oomp_word_emoji: ':hospital: :snowflake: :sunny:'

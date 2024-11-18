@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Food Dairy 2000 Ml Milk Semi Skim Filtered Cravendale
+* name_short: 
 ### id
 * oomp_id: food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
   * classification: food

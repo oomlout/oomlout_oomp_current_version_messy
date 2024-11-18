@@ -1,3 +1,220 @@
+bip_39_word_dash_1: limit
+bip_39_word_dash_10: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag
+bip_39_word_dash_11: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag-nose
+bip_39_word_dash_12: limit-buzz-depth-only-coffee-claim-wise-fork-van-tag-nose-auction
+bip_39_word_dash_2: limit-buzz
+bip_39_word_dash_3: limit-buzz-depth
+bip_39_word_dash_4: limit-buzz-depth-only
+bip_39_word_dash_5: limit-buzz-depth-only-coffee
+bip_39_word_dash_6: limit-buzz-depth-only-coffee-claim
+bip_39_word_dash_7: limit-buzz-depth-only-coffee-claim-wise
+bip_39_word_dash_8: limit-buzz-depth-only-coffee-claim-wise-fork
+bip_39_word_dash_9: limit-buzz-depth-only-coffee-claim-wise-fork-van
+bip_39_word_new_br_1: limit
+bip_39_word_new_br_10: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag
+bip_39_word_new_br_11: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose
+bip_39_word_new_br_12: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van<br>tag<br>nose<br>auction
+bip_39_word_new_br_2: limit<br>buzz
+bip_39_word_new_br_3: limit<br>buzz<br>depth
+bip_39_word_new_br_4: limit<br>buzz<br>depth<br>only
+bip_39_word_new_br_5: limit<br>buzz<br>depth<br>only<br>coffee
+bip_39_word_new_br_6: limit<br>buzz<br>depth<br>only<br>coffee<br>claim
+bip_39_word_new_br_7: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise
+bip_39_word_new_br_8: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork
+bip_39_word_new_br_9: limit<br>buzz<br>depth<br>only<br>coffee<br>claim<br>wise<br>fork<br>van
+bip_39_word_new_line_1: limit
+bip_39_word_new_line_10: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise
+
+  fork
+
+  van
+
+  tag'
+bip_39_word_new_line_11: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise
+
+  fork
+
+  van
+
+  tag
+
+  nose'
+bip_39_word_new_line_12: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise
+
+  fork
+
+  van
+
+  tag
+
+  nose
+
+  auction'
+bip_39_word_new_line_2: 'limit
+
+  buzz'
+bip_39_word_new_line_3: 'limit
+
+  buzz
+
+  depth'
+bip_39_word_new_line_4: 'limit
+
+  buzz
+
+  depth
+
+  only'
+bip_39_word_new_line_5: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee'
+bip_39_word_new_line_6: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim'
+bip_39_word_new_line_7: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise'
+bip_39_word_new_line_8: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise
+
+  fork'
+bip_39_word_new_line_9: 'limit
+
+  buzz
+
+  depth
+
+  only
+
+  coffee
+
+  claim
+
+  wise
+
+  fork
+
+  van'
+bip_39_word_no_space_1: limit
+bip_39_word_no_space_10: limitbuzzdepthonlycoffeeclaimwiseforkvantag
+bip_39_word_no_space_11: limitbuzzdepthonlycoffeeclaimwiseforkvantagnose
+bip_39_word_no_space_12: limitbuzzdepthonlycoffeeclaimwiseforkvantagnoseauction
+bip_39_word_no_space_2: limitbuzz
+bip_39_word_no_space_3: limitbuzzdepth
+bip_39_word_no_space_4: limitbuzzdepthonly
+bip_39_word_no_space_5: limitbuzzdepthonlycoffee
+bip_39_word_no_space_6: limitbuzzdepthonlycoffeeclaim
+bip_39_word_no_space_7: limitbuzzdepthonlycoffeeclaimwise
+bip_39_word_no_space_8: limitbuzzdepthonlycoffeeclaimwisefork
+bip_39_word_no_space_9: limitbuzzdepthonlycoffeeclaimwiseforkvan
+bip_39_word_space_0:
+- limit
+- buzz
+- depth
+- only
+- coffee
+- claim
+- wise
+- fork
+- van
+- tag
+- nose
+- auction
+bip_39_word_space_1: limit
+bip_39_word_space_10: limit buzz depth only coffee claim wise fork van tag
+bip_39_word_space_11: limit buzz depth only coffee claim wise fork van tag nose
+bip_39_word_space_12: limit buzz depth only coffee claim wise fork van tag nose auction
+bip_39_word_space_2: limit buzz
+bip_39_word_space_3: limit buzz depth
+bip_39_word_space_4: limit buzz depth only
+bip_39_word_space_5: limit buzz depth only coffee
+bip_39_word_space_6: limit buzz depth only coffee claim
+bip_39_word_space_7: limit buzz depth only coffee claim wise
+bip_39_word_space_8: limit buzz depth only coffee claim wise fork
+bip_39_word_space_9: limit buzz depth only coffee claim wise fork van
+bip_39_word_underscore_1: limit
+bip_39_word_underscore_10: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag
+bip_39_word_underscore_11: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag_nose
+bip_39_word_underscore_12: limit_buzz_depth_only_coffee_claim_wise_fork_van_tag_nose_auction
+bip_39_word_underscore_2: limit_buzz
+bip_39_word_underscore_3: limit_buzz_depth
+bip_39_word_underscore_4: limit_buzz_depth_only
+bip_39_word_underscore_5: limit_buzz_depth_only_coffee
+bip_39_word_underscore_6: limit_buzz_depth_only_coffee_claim
+bip_39_word_underscore_7: limit_buzz_depth_only_coffee_claim_wise
+bip_39_word_underscore_8: limit_buzz_depth_only_coffee_claim_wise_fork
+bip_39_word_underscore_9: limit_buzz_depth_only_coffee_claim_wise_fork_van
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +299,14 @@ id_no_class: part_tray_thin_10_10_09
 id_no_color: '101009'
 id_no_size: '10_10_09'
 id_no_type: tray_thin_10_10_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_10_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_10_10_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209bylz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209bylz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209bylz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +332,7 @@ name_no_color: '101009'
 name_no_size: 10 10 09
 name_no_size_short: 10 10 09
 name_no_type: Tray Thin 10 10 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_10_10_09
 oomp_word: truck snowflake six
 oomp_word_emoji: ':truck: :snowflake: :six:'

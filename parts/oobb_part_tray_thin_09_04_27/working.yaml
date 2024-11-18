@@ -1,3 +1,222 @@
+bip_39_word_dash_1: gas
+bip_39_word_dash_10: gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump
+bip_39_word_dash_11: gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump-fatal
+bip_39_word_dash_12: gas-rent-plastic-recipe-swim-police-juice-guitar-simple-clump-fatal-acoustic
+bip_39_word_dash_2: gas-rent
+bip_39_word_dash_3: gas-rent-plastic
+bip_39_word_dash_4: gas-rent-plastic-recipe
+bip_39_word_dash_5: gas-rent-plastic-recipe-swim
+bip_39_word_dash_6: gas-rent-plastic-recipe-swim-police
+bip_39_word_dash_7: gas-rent-plastic-recipe-swim-police-juice
+bip_39_word_dash_8: gas-rent-plastic-recipe-swim-police-juice-guitar
+bip_39_word_dash_9: gas-rent-plastic-recipe-swim-police-juice-guitar-simple
+bip_39_word_new_br_1: gas
+bip_39_word_new_br_10: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple<br>clump
+bip_39_word_new_br_11: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple<br>clump<br>fatal
+bip_39_word_new_br_12: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple<br>clump<br>fatal<br>acoustic
+bip_39_word_new_br_2: gas<br>rent
+bip_39_word_new_br_3: gas<br>rent<br>plastic
+bip_39_word_new_br_4: gas<br>rent<br>plastic<br>recipe
+bip_39_word_new_br_5: gas<br>rent<br>plastic<br>recipe<br>swim
+bip_39_word_new_br_6: gas<br>rent<br>plastic<br>recipe<br>swim<br>police
+bip_39_word_new_br_7: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice
+bip_39_word_new_br_8: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar
+bip_39_word_new_br_9: gas<br>rent<br>plastic<br>recipe<br>swim<br>police<br>juice<br>guitar<br>simple
+bip_39_word_new_line_1: gas
+bip_39_word_new_line_10: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice
+
+  guitar
+
+  simple
+
+  clump'
+bip_39_word_new_line_11: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice
+
+  guitar
+
+  simple
+
+  clump
+
+  fatal'
+bip_39_word_new_line_12: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice
+
+  guitar
+
+  simple
+
+  clump
+
+  fatal
+
+  acoustic'
+bip_39_word_new_line_2: 'gas
+
+  rent'
+bip_39_word_new_line_3: 'gas
+
+  rent
+
+  plastic'
+bip_39_word_new_line_4: 'gas
+
+  rent
+
+  plastic
+
+  recipe'
+bip_39_word_new_line_5: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim'
+bip_39_word_new_line_6: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police'
+bip_39_word_new_line_7: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice'
+bip_39_word_new_line_8: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice
+
+  guitar'
+bip_39_word_new_line_9: 'gas
+
+  rent
+
+  plastic
+
+  recipe
+
+  swim
+
+  police
+
+  juice
+
+  guitar
+
+  simple'
+bip_39_word_no_space_1: gas
+bip_39_word_no_space_10: gasrentplasticrecipeswimpolicejuiceguitarsimpleclump
+bip_39_word_no_space_11: gasrentplasticrecipeswimpolicejuiceguitarsimpleclumpfatal
+bip_39_word_no_space_12: gasrentplasticrecipeswimpolicejuiceguitarsimpleclumpfatalacoustic
+bip_39_word_no_space_2: gasrent
+bip_39_word_no_space_3: gasrentplastic
+bip_39_word_no_space_4: gasrentplasticrecipe
+bip_39_word_no_space_5: gasrentplasticrecipeswim
+bip_39_word_no_space_6: gasrentplasticrecipeswimpolice
+bip_39_word_no_space_7: gasrentplasticrecipeswimpolicejuice
+bip_39_word_no_space_8: gasrentplasticrecipeswimpolicejuiceguitar
+bip_39_word_no_space_9: gasrentplasticrecipeswimpolicejuiceguitarsimple
+bip_39_word_space_0:
+- gas
+- rent
+- plastic
+- recipe
+- swim
+- police
+- juice
+- guitar
+- simple
+- clump
+- fatal
+- acoustic
+bip_39_word_space_1: gas
+bip_39_word_space_10: gas rent plastic recipe swim police juice guitar simple clump
+bip_39_word_space_11: gas rent plastic recipe swim police juice guitar simple clump
+  fatal
+bip_39_word_space_12: gas rent plastic recipe swim police juice guitar simple clump
+  fatal acoustic
+bip_39_word_space_2: gas rent
+bip_39_word_space_3: gas rent plastic
+bip_39_word_space_4: gas rent plastic recipe
+bip_39_word_space_5: gas rent plastic recipe swim
+bip_39_word_space_6: gas rent plastic recipe swim police
+bip_39_word_space_7: gas rent plastic recipe swim police juice
+bip_39_word_space_8: gas rent plastic recipe swim police juice guitar
+bip_39_word_space_9: gas rent plastic recipe swim police juice guitar simple
+bip_39_word_underscore_1: gas
+bip_39_word_underscore_10: gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump
+bip_39_word_underscore_11: gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump_fatal
+bip_39_word_underscore_12: gas_rent_plastic_recipe_swim_police_juice_guitar_simple_clump_fatal_acoustic
+bip_39_word_underscore_2: gas_rent
+bip_39_word_underscore_3: gas_rent_plastic
+bip_39_word_underscore_4: gas_rent_plastic_recipe
+bip_39_word_underscore_5: gas_rent_plastic_recipe_swim
+bip_39_word_underscore_6: gas_rent_plastic_recipe_swim_police
+bip_39_word_underscore_7: gas_rent_plastic_recipe_swim_police_juice
+bip_39_word_underscore_8: gas_rent_plastic_recipe_swim_police_juice_guitar
+bip_39_word_underscore_9: gas_rent_plastic_recipe_swim_police_juice_guitar_simple
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_09_04_27
 id_no_color: 090427
 id_no_size: 09_04_27
 id_no_type: tray_thin_09_04_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_04_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_04_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_04_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019v63
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019v63
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019v63
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090427
 name_no_size: 09 04 27
 name_no_size_short: 09 04 27
 name_no_type: Tray Thin 09 04 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_04_27
 oomp_word: skull guitar sunglasses
 oomp_word_emoji: ':skull: :guitar: :sunglasses:'

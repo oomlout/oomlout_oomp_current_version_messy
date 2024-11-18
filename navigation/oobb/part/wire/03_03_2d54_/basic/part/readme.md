@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Wire 03 03 2D54  Basic
+* name_short: 
 ### id
 * oomp_id: oobb_part_wire_03_03_2d54__basic
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :sailboat: :sunflower: :stars:
 * md5_6_alpha: 8u09p
 * md5_6: e264dd
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208u09p)
+[2x1](http://192.168.1.242:1112/?label=oomp%208u09p)
+[6x4](http://192.168.1.55:1112/?label=oomp%208u09p)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__basic) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__basic)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ dish |
 | id_no_color | 03032d54basic |  
 | id_no_size | 03_03_2d54__basic |  
 | id_no_type | wire_03_03_2d54__basic |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__basic |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_03_03_2d54__basic |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_wire_03_03_2d54__basic |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208u09p |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208u09p |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208u09p |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ dish |
 | name_no_size | 03 03 2D54  Basic |  
 | name_no_size_short | 03 03 2D54  Basic |  
 | name_no_type | Wire 03 03 2D54  Basic |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_2d54__basic |  
 | oomp_word | sailboat sunflower stars |  
 | oomp_word_emoji | :sailboat: :sunflower: :stars: |  

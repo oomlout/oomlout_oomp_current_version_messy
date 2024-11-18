@@ -1,3 +1,222 @@
+bip_39_word_dash_1: math
+bip_39_word_dash_10: math-subway-gap-school-lunar-benefit-jungle-remove-tip-word
+bip_39_word_dash_11: math-subway-gap-school-lunar-benefit-jungle-remove-tip-word-game
+bip_39_word_dash_12: math-subway-gap-school-lunar-benefit-jungle-remove-tip-word-game-animal
+bip_39_word_dash_2: math-subway
+bip_39_word_dash_3: math-subway-gap
+bip_39_word_dash_4: math-subway-gap-school
+bip_39_word_dash_5: math-subway-gap-school-lunar
+bip_39_word_dash_6: math-subway-gap-school-lunar-benefit
+bip_39_word_dash_7: math-subway-gap-school-lunar-benefit-jungle
+bip_39_word_dash_8: math-subway-gap-school-lunar-benefit-jungle-remove
+bip_39_word_dash_9: math-subway-gap-school-lunar-benefit-jungle-remove-tip
+bip_39_word_new_br_1: math
+bip_39_word_new_br_10: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle<br>remove<br>tip<br>word
+bip_39_word_new_br_11: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle<br>remove<br>tip<br>word<br>game
+bip_39_word_new_br_12: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle<br>remove<br>tip<br>word<br>game<br>animal
+bip_39_word_new_br_2: math<br>subway
+bip_39_word_new_br_3: math<br>subway<br>gap
+bip_39_word_new_br_4: math<br>subway<br>gap<br>school
+bip_39_word_new_br_5: math<br>subway<br>gap<br>school<br>lunar
+bip_39_word_new_br_6: math<br>subway<br>gap<br>school<br>lunar<br>benefit
+bip_39_word_new_br_7: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle
+bip_39_word_new_br_8: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle<br>remove
+bip_39_word_new_br_9: math<br>subway<br>gap<br>school<br>lunar<br>benefit<br>jungle<br>remove<br>tip
+bip_39_word_new_line_1: math
+bip_39_word_new_line_10: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle
+
+  remove
+
+  tip
+
+  word'
+bip_39_word_new_line_11: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle
+
+  remove
+
+  tip
+
+  word
+
+  game'
+bip_39_word_new_line_12: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle
+
+  remove
+
+  tip
+
+  word
+
+  game
+
+  animal'
+bip_39_word_new_line_2: 'math
+
+  subway'
+bip_39_word_new_line_3: 'math
+
+  subway
+
+  gap'
+bip_39_word_new_line_4: 'math
+
+  subway
+
+  gap
+
+  school'
+bip_39_word_new_line_5: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar'
+bip_39_word_new_line_6: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit'
+bip_39_word_new_line_7: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle'
+bip_39_word_new_line_8: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle
+
+  remove'
+bip_39_word_new_line_9: 'math
+
+  subway
+
+  gap
+
+  school
+
+  lunar
+
+  benefit
+
+  jungle
+
+  remove
+
+  tip'
+bip_39_word_no_space_1: math
+bip_39_word_no_space_10: mathsubwaygapschoollunarbenefitjungleremovetipword
+bip_39_word_no_space_11: mathsubwaygapschoollunarbenefitjungleremovetipwordgame
+bip_39_word_no_space_12: mathsubwaygapschoollunarbenefitjungleremovetipwordgameanimal
+bip_39_word_no_space_2: mathsubway
+bip_39_word_no_space_3: mathsubwaygap
+bip_39_word_no_space_4: mathsubwaygapschool
+bip_39_word_no_space_5: mathsubwaygapschoollunar
+bip_39_word_no_space_6: mathsubwaygapschoollunarbenefit
+bip_39_word_no_space_7: mathsubwaygapschoollunarbenefitjungle
+bip_39_word_no_space_8: mathsubwaygapschoollunarbenefitjungleremove
+bip_39_word_no_space_9: mathsubwaygapschoollunarbenefitjungleremovetip
+bip_39_word_space_0:
+- math
+- subway
+- gap
+- school
+- lunar
+- benefit
+- jungle
+- remove
+- tip
+- word
+- game
+- animal
+bip_39_word_space_1: math
+bip_39_word_space_10: math subway gap school lunar benefit jungle remove tip word
+bip_39_word_space_11: math subway gap school lunar benefit jungle remove tip word
+  game
+bip_39_word_space_12: math subway gap school lunar benefit jungle remove tip word
+  game animal
+bip_39_word_space_2: math subway
+bip_39_word_space_3: math subway gap
+bip_39_word_space_4: math subway gap school
+bip_39_word_space_5: math subway gap school lunar
+bip_39_word_space_6: math subway gap school lunar benefit
+bip_39_word_space_7: math subway gap school lunar benefit jungle
+bip_39_word_space_8: math subway gap school lunar benefit jungle remove
+bip_39_word_space_9: math subway gap school lunar benefit jungle remove tip
+bip_39_word_underscore_1: math
+bip_39_word_underscore_10: math_subway_gap_school_lunar_benefit_jungle_remove_tip_word
+bip_39_word_underscore_11: math_subway_gap_school_lunar_benefit_jungle_remove_tip_word_game
+bip_39_word_underscore_12: math_subway_gap_school_lunar_benefit_jungle_remove_tip_word_game_animal
+bip_39_word_underscore_2: math_subway
+bip_39_word_underscore_3: math_subway_gap
+bip_39_word_underscore_4: math_subway_gap_school
+bip_39_word_underscore_5: math_subway_gap_school_lunar
+bip_39_word_underscore_6: math_subway_gap_school_lunar_benefit
+bip_39_word_underscore_7: math_subway_gap_school_lunar_benefit_jungle
+bip_39_word_underscore_8: math_subway_gap_school_lunar_benefit_jungle_remove
+bip_39_word_underscore_9: math_subway_gap_school_lunar_benefit_jungle_remove_tip
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_tool_holder_vertical_09_05_20__tool_screwdriver_h
 id_no_color: 090520toolscrewdriverh
 id_no_size: 09_05_20__tool_screwdriver_h
 id_no_type: tool_holder_vertical_09_05_20__tool_screwdriver_h
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_09_05_20__tool_screwdriver_h
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_09_05_20__tool_screwdriver_h
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_09_05_20__tool_screwdriver_h
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205nben
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205nben
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205nben
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 090520Toolscrewdriverh
 name_no_size: 09 05 20  Tool Screwdriver H
 name_no_size_short: 09 05 20  Tool Screwdriver H
 name_no_type: Tool Holder Vertical 09 05 20  Tool Screwdriver H
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_09_05_20__tool_screwdriver_h
 oomp_word: scissors ramen speaker
 oomp_word_emoji: ':scissors: :ramen: :speaker:'

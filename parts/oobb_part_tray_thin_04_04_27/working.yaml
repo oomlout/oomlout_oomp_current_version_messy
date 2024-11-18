@@ -1,3 +1,223 @@
+bip_39_word_dash_1: correct
+bip_39_word_dash_10: correct-thought-blood-front-burden-celery-mansion-portion-cat-curious
+bip_39_word_dash_11: correct-thought-blood-front-burden-celery-mansion-portion-cat-curious-bright
+bip_39_word_dash_12: correct-thought-blood-front-burden-celery-mansion-portion-cat-curious-bright-arrest
+bip_39_word_dash_2: correct-thought
+bip_39_word_dash_3: correct-thought-blood
+bip_39_word_dash_4: correct-thought-blood-front
+bip_39_word_dash_5: correct-thought-blood-front-burden
+bip_39_word_dash_6: correct-thought-blood-front-burden-celery
+bip_39_word_dash_7: correct-thought-blood-front-burden-celery-mansion
+bip_39_word_dash_8: correct-thought-blood-front-burden-celery-mansion-portion
+bip_39_word_dash_9: correct-thought-blood-front-burden-celery-mansion-portion-cat
+bip_39_word_new_br_1: correct
+bip_39_word_new_br_10: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious
+bip_39_word_new_br_11: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright
+bip_39_word_new_br_12: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat<br>curious<br>bright<br>arrest
+bip_39_word_new_br_2: correct<br>thought
+bip_39_word_new_br_3: correct<br>thought<br>blood
+bip_39_word_new_br_4: correct<br>thought<br>blood<br>front
+bip_39_word_new_br_5: correct<br>thought<br>blood<br>front<br>burden
+bip_39_word_new_br_6: correct<br>thought<br>blood<br>front<br>burden<br>celery
+bip_39_word_new_br_7: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion
+bip_39_word_new_br_8: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion
+bip_39_word_new_br_9: correct<br>thought<br>blood<br>front<br>burden<br>celery<br>mansion<br>portion<br>cat
+bip_39_word_new_line_1: correct
+bip_39_word_new_line_10: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion
+
+  portion
+
+  cat
+
+  curious'
+bip_39_word_new_line_11: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion
+
+  portion
+
+  cat
+
+  curious
+
+  bright'
+bip_39_word_new_line_12: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion
+
+  portion
+
+  cat
+
+  curious
+
+  bright
+
+  arrest'
+bip_39_word_new_line_2: 'correct
+
+  thought'
+bip_39_word_new_line_3: 'correct
+
+  thought
+
+  blood'
+bip_39_word_new_line_4: 'correct
+
+  thought
+
+  blood
+
+  front'
+bip_39_word_new_line_5: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden'
+bip_39_word_new_line_6: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery'
+bip_39_word_new_line_7: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion'
+bip_39_word_new_line_8: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion
+
+  portion'
+bip_39_word_new_line_9: 'correct
+
+  thought
+
+  blood
+
+  front
+
+  burden
+
+  celery
+
+  mansion
+
+  portion
+
+  cat'
+bip_39_word_no_space_1: correct
+bip_39_word_no_space_10: correctthoughtbloodfrontburdencelerymansionportioncatcurious
+bip_39_word_no_space_11: correctthoughtbloodfrontburdencelerymansionportioncatcuriousbright
+bip_39_word_no_space_12: correctthoughtbloodfrontburdencelerymansionportioncatcuriousbrightarrest
+bip_39_word_no_space_2: correctthought
+bip_39_word_no_space_3: correctthoughtblood
+bip_39_word_no_space_4: correctthoughtbloodfront
+bip_39_word_no_space_5: correctthoughtbloodfrontburden
+bip_39_word_no_space_6: correctthoughtbloodfrontburdencelery
+bip_39_word_no_space_7: correctthoughtbloodfrontburdencelerymansion
+bip_39_word_no_space_8: correctthoughtbloodfrontburdencelerymansionportion
+bip_39_word_no_space_9: correctthoughtbloodfrontburdencelerymansionportioncat
+bip_39_word_space_0:
+- correct
+- thought
+- blood
+- front
+- burden
+- celery
+- mansion
+- portion
+- cat
+- curious
+- bright
+- arrest
+bip_39_word_space_1: correct
+bip_39_word_space_10: correct thought blood front burden celery mansion portion cat
+  curious
+bip_39_word_space_11: correct thought blood front burden celery mansion portion cat
+  curious bright
+bip_39_word_space_12: correct thought blood front burden celery mansion portion cat
+  curious bright arrest
+bip_39_word_space_2: correct thought
+bip_39_word_space_3: correct thought blood
+bip_39_word_space_4: correct thought blood front
+bip_39_word_space_5: correct thought blood front burden
+bip_39_word_space_6: correct thought blood front burden celery
+bip_39_word_space_7: correct thought blood front burden celery mansion
+bip_39_word_space_8: correct thought blood front burden celery mansion portion
+bip_39_word_space_9: correct thought blood front burden celery mansion portion cat
+bip_39_word_underscore_1: correct
+bip_39_word_underscore_10: correct_thought_blood_front_burden_celery_mansion_portion_cat_curious
+bip_39_word_underscore_11: correct_thought_blood_front_burden_celery_mansion_portion_cat_curious_bright
+bip_39_word_underscore_12: correct_thought_blood_front_burden_celery_mansion_portion_cat_curious_bright_arrest
+bip_39_word_underscore_2: correct_thought
+bip_39_word_underscore_3: correct_thought_blood
+bip_39_word_underscore_4: correct_thought_blood_front
+bip_39_word_underscore_5: correct_thought_blood_front_burden
+bip_39_word_underscore_6: correct_thought_blood_front_burden_celery
+bip_39_word_underscore_7: correct_thought_blood_front_burden_celery_mansion
+bip_39_word_underscore_8: correct_thought_blood_front_burden_celery_mansion_portion
+bip_39_word_underscore_9: correct_thought_blood_front_burden_celery_mansion_portion_cat
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_04_04_27
 id_no_color: '040427'
 id_no_size: '04_04_27'
 id_no_type: tray_thin_04_04_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_04_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_04_04_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_04_04_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207qfil
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207qfil
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207qfil
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '040427'
 name_no_size: 04 04 27
 name_no_size_short: 04 04 27
 name_no_type: Tray Thin 04 04 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_04_04_27
 oomp_word: lollipop frog heart
 oomp_word_emoji: ':lollipop: :frog: :heart:'

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic Prototyping Breadboard 400 Point
+* name_short: 
 ### id
 * oomp_id: electronic_prototyping_breadboard_400_point
   * classification: electronic

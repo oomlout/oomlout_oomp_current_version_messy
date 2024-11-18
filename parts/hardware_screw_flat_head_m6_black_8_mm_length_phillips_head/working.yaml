@@ -1,3 +1,222 @@
+bip_39_word_dash_1: purity
+bip_39_word_dash_10: purity-father-glad-taxi-metal-reward-wrist-dismiss-choose-demise
+bip_39_word_dash_11: purity-father-glad-taxi-metal-reward-wrist-dismiss-choose-demise-load
+bip_39_word_dash_12: purity-father-glad-taxi-metal-reward-wrist-dismiss-choose-demise-load-ahead
+bip_39_word_dash_2: purity-father
+bip_39_word_dash_3: purity-father-glad
+bip_39_word_dash_4: purity-father-glad-taxi
+bip_39_word_dash_5: purity-father-glad-taxi-metal
+bip_39_word_dash_6: purity-father-glad-taxi-metal-reward
+bip_39_word_dash_7: purity-father-glad-taxi-metal-reward-wrist
+bip_39_word_dash_8: purity-father-glad-taxi-metal-reward-wrist-dismiss
+bip_39_word_dash_9: purity-father-glad-taxi-metal-reward-wrist-dismiss-choose
+bip_39_word_new_br_1: purity
+bip_39_word_new_br_10: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist<br>dismiss<br>choose<br>demise
+bip_39_word_new_br_11: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist<br>dismiss<br>choose<br>demise<br>load
+bip_39_word_new_br_12: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist<br>dismiss<br>choose<br>demise<br>load<br>ahead
+bip_39_word_new_br_2: purity<br>father
+bip_39_word_new_br_3: purity<br>father<br>glad
+bip_39_word_new_br_4: purity<br>father<br>glad<br>taxi
+bip_39_word_new_br_5: purity<br>father<br>glad<br>taxi<br>metal
+bip_39_word_new_br_6: purity<br>father<br>glad<br>taxi<br>metal<br>reward
+bip_39_word_new_br_7: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist
+bip_39_word_new_br_8: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist<br>dismiss
+bip_39_word_new_br_9: purity<br>father<br>glad<br>taxi<br>metal<br>reward<br>wrist<br>dismiss<br>choose
+bip_39_word_new_line_1: purity
+bip_39_word_new_line_10: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist
+
+  dismiss
+
+  choose
+
+  demise'
+bip_39_word_new_line_11: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist
+
+  dismiss
+
+  choose
+
+  demise
+
+  load'
+bip_39_word_new_line_12: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist
+
+  dismiss
+
+  choose
+
+  demise
+
+  load
+
+  ahead'
+bip_39_word_new_line_2: 'purity
+
+  father'
+bip_39_word_new_line_3: 'purity
+
+  father
+
+  glad'
+bip_39_word_new_line_4: 'purity
+
+  father
+
+  glad
+
+  taxi'
+bip_39_word_new_line_5: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal'
+bip_39_word_new_line_6: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward'
+bip_39_word_new_line_7: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist'
+bip_39_word_new_line_8: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist
+
+  dismiss'
+bip_39_word_new_line_9: 'purity
+
+  father
+
+  glad
+
+  taxi
+
+  metal
+
+  reward
+
+  wrist
+
+  dismiss
+
+  choose'
+bip_39_word_no_space_1: purity
+bip_39_word_no_space_10: purityfathergladtaximetalrewardwristdismisschoosedemise
+bip_39_word_no_space_11: purityfathergladtaximetalrewardwristdismisschoosedemiseload
+bip_39_word_no_space_12: purityfathergladtaximetalrewardwristdismisschoosedemiseloadahead
+bip_39_word_no_space_2: purityfather
+bip_39_word_no_space_3: purityfatherglad
+bip_39_word_no_space_4: purityfathergladtaxi
+bip_39_word_no_space_5: purityfathergladtaximetal
+bip_39_word_no_space_6: purityfathergladtaximetalreward
+bip_39_word_no_space_7: purityfathergladtaximetalrewardwrist
+bip_39_word_no_space_8: purityfathergladtaximetalrewardwristdismiss
+bip_39_word_no_space_9: purityfathergladtaximetalrewardwristdismisschoose
+bip_39_word_space_0:
+- purity
+- father
+- glad
+- taxi
+- metal
+- reward
+- wrist
+- dismiss
+- choose
+- demise
+- load
+- ahead
+bip_39_word_space_1: purity
+bip_39_word_space_10: purity father glad taxi metal reward wrist dismiss choose demise
+bip_39_word_space_11: purity father glad taxi metal reward wrist dismiss choose demise
+  load
+bip_39_word_space_12: purity father glad taxi metal reward wrist dismiss choose demise
+  load ahead
+bip_39_word_space_2: purity father
+bip_39_word_space_3: purity father glad
+bip_39_word_space_4: purity father glad taxi
+bip_39_word_space_5: purity father glad taxi metal
+bip_39_word_space_6: purity father glad taxi metal reward
+bip_39_word_space_7: purity father glad taxi metal reward wrist
+bip_39_word_space_8: purity father glad taxi metal reward wrist dismiss
+bip_39_word_space_9: purity father glad taxi metal reward wrist dismiss choose
+bip_39_word_underscore_1: purity
+bip_39_word_underscore_10: purity_father_glad_taxi_metal_reward_wrist_dismiss_choose_demise
+bip_39_word_underscore_11: purity_father_glad_taxi_metal_reward_wrist_dismiss_choose_demise_load
+bip_39_word_underscore_12: purity_father_glad_taxi_metal_reward_wrist_dismiss_choose_demise_load_ahead
+bip_39_word_underscore_2: purity_father
+bip_39_word_underscore_3: purity_father_glad
+bip_39_word_underscore_4: purity_father_glad_taxi
+bip_39_word_underscore_5: purity_father_glad_taxi_metal
+bip_39_word_underscore_6: purity_father_glad_taxi_metal_reward
+bip_39_word_underscore_7: purity_father_glad_taxi_metal_reward_wrist
+bip_39_word_underscore_8: purity_father_glad_taxi_metal_reward_wrist_dismiss
+bip_39_word_underscore_9: purity_father_glad_taxi_metal_reward_wrist_dismiss_choose
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -133,7 +352,14 @@ id_no_color: 8_mm_length_phillips_head
 id_no_size: black_8_mm_length_phillips_head
 id_no_type: m6_black_8_mm_length_phillips_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_8_mm_length_phillips_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_flat_head_m6_black_8_mm_length_phillips_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_flat_head_m6_black_8_mm_length_phillips_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2038ma6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2038ma6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2038ma6
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -159,6 +385,26 @@ name_no_color: 8 mm Length Phillips Head
 name_no_size: Black 8 mm Length Phillips Head
 name_no_size_short: Black 8 Mm Length Phillips Head
 name_no_type: M6 Black 8 mm Length Phillips Head
+oomlout_bolt_color: Black
+oomlout_bolt_head_type: Phillips
+oomlout_bolt_head_type_diagram: head_type_diagram.png
+oomlout_bolt_length: 8 mm
+oomlout_bolt_length_no_unit: '8'
+oomlout_bolt_md5_6_alpha_first_3: 38m
+oomlout_bolt_md5_6_alpha_first_3_upper: 38M
+oomlout_bolt_md5_6_alpha_last_3: a6
+oomlout_bolt_md5_6_alpha_last_3_upper: A6
+oomlout_bolt_md5_6_first_3: '530'
+oomlout_bolt_md5_6_first_3_upper: '530'
+oomlout_bolt_md5_6_last_3: 5ce
+oomlout_bolt_md5_6_last_3_upper: 5CE
+oomlout_bolt_name: Flat Head M6X8 mm Black (Phillips)
+oomlout_bolt_size: M6
+oomlout_bolt_type: Flat Head
+oomlout_bolt_type_diagram_diagram: type_diagram.png
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: fh6b8p
+oomlout_short_code_upper: FH6B8P
 oomp_key: oomp_hardware_screw_flat_head_m6_black_8_mm_length_phillips_head
 oomp_word: fish kissing peach
 oomp_word_emoji: ':fish: :kissing: :peach:'

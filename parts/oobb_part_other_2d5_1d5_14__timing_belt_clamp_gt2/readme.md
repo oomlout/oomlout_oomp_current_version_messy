@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Other 2D5 1D5 14  Timing Belt Clamp Gt2
+* name_short: 
 ### id
 * oomp_id: oobb_part_other_2d5_1d5_14__timing_belt_clamp_gt2
   * classification: oobb

@@ -1,3 +1,221 @@
+bip_39_word_dash_1: north
+bip_39_word_dash_10: north-loan-solid-column-purse-oval-help-era-invite-fan
+bip_39_word_dash_11: north-loan-solid-column-purse-oval-help-era-invite-fan-myself
+bip_39_word_dash_12: north-loan-solid-column-purse-oval-help-era-invite-fan-myself-assume
+bip_39_word_dash_2: north-loan
+bip_39_word_dash_3: north-loan-solid
+bip_39_word_dash_4: north-loan-solid-column
+bip_39_word_dash_5: north-loan-solid-column-purse
+bip_39_word_dash_6: north-loan-solid-column-purse-oval
+bip_39_word_dash_7: north-loan-solid-column-purse-oval-help
+bip_39_word_dash_8: north-loan-solid-column-purse-oval-help-era
+bip_39_word_dash_9: north-loan-solid-column-purse-oval-help-era-invite
+bip_39_word_new_br_1: north
+bip_39_word_new_br_10: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan
+bip_39_word_new_br_11: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan<br>myself
+bip_39_word_new_br_12: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite<br>fan<br>myself<br>assume
+bip_39_word_new_br_2: north<br>loan
+bip_39_word_new_br_3: north<br>loan<br>solid
+bip_39_word_new_br_4: north<br>loan<br>solid<br>column
+bip_39_word_new_br_5: north<br>loan<br>solid<br>column<br>purse
+bip_39_word_new_br_6: north<br>loan<br>solid<br>column<br>purse<br>oval
+bip_39_word_new_br_7: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help
+bip_39_word_new_br_8: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era
+bip_39_word_new_br_9: north<br>loan<br>solid<br>column<br>purse<br>oval<br>help<br>era<br>invite
+bip_39_word_new_line_1: north
+bip_39_word_new_line_10: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help
+
+  era
+
+  invite
+
+  fan'
+bip_39_word_new_line_11: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help
+
+  era
+
+  invite
+
+  fan
+
+  myself'
+bip_39_word_new_line_12: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help
+
+  era
+
+  invite
+
+  fan
+
+  myself
+
+  assume'
+bip_39_word_new_line_2: 'north
+
+  loan'
+bip_39_word_new_line_3: 'north
+
+  loan
+
+  solid'
+bip_39_word_new_line_4: 'north
+
+  loan
+
+  solid
+
+  column'
+bip_39_word_new_line_5: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse'
+bip_39_word_new_line_6: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval'
+bip_39_word_new_line_7: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help'
+bip_39_word_new_line_8: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help
+
+  era'
+bip_39_word_new_line_9: 'north
+
+  loan
+
+  solid
+
+  column
+
+  purse
+
+  oval
+
+  help
+
+  era
+
+  invite'
+bip_39_word_no_space_1: north
+bip_39_word_no_space_10: northloansolidcolumnpurseovalhelperainvitefan
+bip_39_word_no_space_11: northloansolidcolumnpurseovalhelperainvitefanmyself
+bip_39_word_no_space_12: northloansolidcolumnpurseovalhelperainvitefanmyselfassume
+bip_39_word_no_space_2: northloan
+bip_39_word_no_space_3: northloansolid
+bip_39_word_no_space_4: northloansolidcolumn
+bip_39_word_no_space_5: northloansolidcolumnpurse
+bip_39_word_no_space_6: northloansolidcolumnpurseoval
+bip_39_word_no_space_7: northloansolidcolumnpurseovalhelp
+bip_39_word_no_space_8: northloansolidcolumnpurseovalhelpera
+bip_39_word_no_space_9: northloansolidcolumnpurseovalhelperainvite
+bip_39_word_space_0:
+- north
+- loan
+- solid
+- column
+- purse
+- oval
+- help
+- era
+- invite
+- fan
+- myself
+- assume
+bip_39_word_space_1: north
+bip_39_word_space_10: north loan solid column purse oval help era invite fan
+bip_39_word_space_11: north loan solid column purse oval help era invite fan myself
+bip_39_word_space_12: north loan solid column purse oval help era invite fan myself
+  assume
+bip_39_word_space_2: north loan
+bip_39_word_space_3: north loan solid
+bip_39_word_space_4: north loan solid column
+bip_39_word_space_5: north loan solid column purse
+bip_39_word_space_6: north loan solid column purse oval
+bip_39_word_space_7: north loan solid column purse oval help
+bip_39_word_space_8: north loan solid column purse oval help era
+bip_39_word_space_9: north loan solid column purse oval help era invite
+bip_39_word_underscore_1: north
+bip_39_word_underscore_10: north_loan_solid_column_purse_oval_help_era_invite_fan
+bip_39_word_underscore_11: north_loan_solid_column_purse_oval_help_era_invite_fan_myself
+bip_39_word_underscore_12: north_loan_solid_column_purse_oval_help_era_invite_fan_myself_assume
+bip_39_word_underscore_2: north_loan
+bip_39_word_underscore_3: north_loan_solid
+bip_39_word_underscore_4: north_loan_solid_column
+bip_39_word_underscore_5: north_loan_solid_column_purse
+bip_39_word_underscore_6: north_loan_solid_column_purse_oval
+bip_39_word_underscore_7: north_loan_solid_column_purse_oval_help
+bip_39_word_underscore_8: north_loan_solid_column_purse_oval_help_era
+bip_39_word_underscore_9: north_loan_solid_column_purse_oval_help_era_invite
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_thin_09_02_30
 id_no_color: 090230
 id_no_size: 09_02_30
 id_no_type: tray_thin_09_02_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_09_02_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_09_02_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208pfv8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208pfv8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208pfv8
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 090230
 name_no_size: 09 02 30
 name_no_size_short: 09 02 30
 name_no_type: Tray Thin 09 02 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_09_02_30
 oomp_word: fountain droplet microscope
 oomp_word_emoji: ':fountain: :droplet: :microscope:'

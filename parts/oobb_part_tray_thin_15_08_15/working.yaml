@@ -1,3 +1,223 @@
+bip_39_word_dash_1: people
+bip_39_word_dash_10: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue
+bip_39_word_dash_11: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue-shrug
+bip_39_word_dash_12: people-fitness-snow-light-ginger-dinosaur-section-memory-kid-blue-shrug-antenna
+bip_39_word_dash_2: people-fitness
+bip_39_word_dash_3: people-fitness-snow
+bip_39_word_dash_4: people-fitness-snow-light
+bip_39_word_dash_5: people-fitness-snow-light-ginger
+bip_39_word_dash_6: people-fitness-snow-light-ginger-dinosaur
+bip_39_word_dash_7: people-fitness-snow-light-ginger-dinosaur-section
+bip_39_word_dash_8: people-fitness-snow-light-ginger-dinosaur-section-memory
+bip_39_word_dash_9: people-fitness-snow-light-ginger-dinosaur-section-memory-kid
+bip_39_word_new_br_1: people
+bip_39_word_new_br_10: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue
+bip_39_word_new_br_11: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue<br>shrug
+bip_39_word_new_br_12: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid<br>blue<br>shrug<br>antenna
+bip_39_word_new_br_2: people<br>fitness
+bip_39_word_new_br_3: people<br>fitness<br>snow
+bip_39_word_new_br_4: people<br>fitness<br>snow<br>light
+bip_39_word_new_br_5: people<br>fitness<br>snow<br>light<br>ginger
+bip_39_word_new_br_6: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur
+bip_39_word_new_br_7: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section
+bip_39_word_new_br_8: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory
+bip_39_word_new_br_9: people<br>fitness<br>snow<br>light<br>ginger<br>dinosaur<br>section<br>memory<br>kid
+bip_39_word_new_line_1: people
+bip_39_word_new_line_10: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section
+
+  memory
+
+  kid
+
+  blue'
+bip_39_word_new_line_11: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section
+
+  memory
+
+  kid
+
+  blue
+
+  shrug'
+bip_39_word_new_line_12: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section
+
+  memory
+
+  kid
+
+  blue
+
+  shrug
+
+  antenna'
+bip_39_word_new_line_2: 'people
+
+  fitness'
+bip_39_word_new_line_3: 'people
+
+  fitness
+
+  snow'
+bip_39_word_new_line_4: 'people
+
+  fitness
+
+  snow
+
+  light'
+bip_39_word_new_line_5: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger'
+bip_39_word_new_line_6: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur'
+bip_39_word_new_line_7: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section'
+bip_39_word_new_line_8: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section
+
+  memory'
+bip_39_word_new_line_9: 'people
+
+  fitness
+
+  snow
+
+  light
+
+  ginger
+
+  dinosaur
+
+  section
+
+  memory
+
+  kid'
+bip_39_word_no_space_1: people
+bip_39_word_no_space_10: peoplefitnesssnowlightgingerdinosaursectionmemorykidblue
+bip_39_word_no_space_11: peoplefitnesssnowlightgingerdinosaursectionmemorykidblueshrug
+bip_39_word_no_space_12: peoplefitnesssnowlightgingerdinosaursectionmemorykidblueshrugantenna
+bip_39_word_no_space_2: peoplefitness
+bip_39_word_no_space_3: peoplefitnesssnow
+bip_39_word_no_space_4: peoplefitnesssnowlight
+bip_39_word_no_space_5: peoplefitnesssnowlightginger
+bip_39_word_no_space_6: peoplefitnesssnowlightgingerdinosaur
+bip_39_word_no_space_7: peoplefitnesssnowlightgingerdinosaursection
+bip_39_word_no_space_8: peoplefitnesssnowlightgingerdinosaursectionmemory
+bip_39_word_no_space_9: peoplefitnesssnowlightgingerdinosaursectionmemorykid
+bip_39_word_space_0:
+- people
+- fitness
+- snow
+- light
+- ginger
+- dinosaur
+- section
+- memory
+- kid
+- blue
+- shrug
+- antenna
+bip_39_word_space_1: people
+bip_39_word_space_10: people fitness snow light ginger dinosaur section memory kid
+  blue
+bip_39_word_space_11: people fitness snow light ginger dinosaur section memory kid
+  blue shrug
+bip_39_word_space_12: people fitness snow light ginger dinosaur section memory kid
+  blue shrug antenna
+bip_39_word_space_2: people fitness
+bip_39_word_space_3: people fitness snow
+bip_39_word_space_4: people fitness snow light
+bip_39_word_space_5: people fitness snow light ginger
+bip_39_word_space_6: people fitness snow light ginger dinosaur
+bip_39_word_space_7: people fitness snow light ginger dinosaur section
+bip_39_word_space_8: people fitness snow light ginger dinosaur section memory
+bip_39_word_space_9: people fitness snow light ginger dinosaur section memory kid
+bip_39_word_underscore_1: people
+bip_39_word_underscore_10: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue
+bip_39_word_underscore_11: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue_shrug
+bip_39_word_underscore_12: people_fitness_snow_light_ginger_dinosaur_section_memory_kid_blue_shrug_antenna
+bip_39_word_underscore_2: people_fitness
+bip_39_word_underscore_3: people_fitness_snow
+bip_39_word_underscore_4: people_fitness_snow_light
+bip_39_word_underscore_5: people_fitness_snow_light_ginger
+bip_39_word_underscore_6: people_fitness_snow_light_ginger_dinosaur
+bip_39_word_underscore_7: people_fitness_snow_light_ginger_dinosaur_section
+bip_39_word_underscore_8: people_fitness_snow_light_ginger_dinosaur_section_memory
+bip_39_word_underscore_9: people_fitness_snow_light_ginger_dinosaur_section_memory_kid
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_15_08_15
 id_no_color: '150815'
 id_no_size: '15_08_15'
 id_no_type: tray_thin_15_08_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_08_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_08_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_08_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2065bba
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2065bba
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2065bba
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '150815'
 name_no_size: 15 08 15
 name_no_size_short: 15 08 15
 name_no_type: Tray Thin 15 08 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_08_15
 oomp_word: hearts clipboard bath
 oomp_word_emoji: ':hearts: :clipboard: :bath:'

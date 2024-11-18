@@ -280,7 +280,14 @@ id_no_class: sheet_a6_105_mm_width_148_mm_height
 id_no_color: a6105mmwidth148mmheight
 id_no_size: a6_105_mm_width_148_mm_height
 id_no_type: a6_105_mm_width_148_mm_height
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a6_105_mm_width_148_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2072mg9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2072mg9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2072mg9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -306,6 +313,7 @@ name_no_color: A6105mmwidth148mmheight
 name_no_size: A6 105 mm Width 148 mm Height
 name_no_size_short: A6 105 Mm Width 148 Mm Height
 name_no_type: A6 105 mm Width 148 mm Height
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a6_105_mm_width_148_mm_height
 oomp_word: tea snake sunny
 oomp_word_emoji: ':tea: :snake: :sunny:'

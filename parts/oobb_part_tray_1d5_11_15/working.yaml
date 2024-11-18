@@ -1,3 +1,223 @@
+bip_39_word_dash_1: brave
+bip_39_word_dash_10: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad
+bip_39_word_dash_11: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad-luxury
+bip_39_word_dash_12: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm-glad-luxury-afford
+bip_39_word_dash_2: brave-trust
+bip_39_word_dash_3: brave-trust-pilot
+bip_39_word_dash_4: brave-trust-pilot-student
+bip_39_word_dash_5: brave-trust-pilot-student-blossom
+bip_39_word_dash_6: brave-trust-pilot-student-blossom-elegant
+bip_39_word_dash_7: brave-trust-pilot-student-blossom-elegant-umbrella
+bip_39_word_dash_8: brave-trust-pilot-student-blossom-elegant-umbrella-develop
+bip_39_word_dash_9: brave-trust-pilot-student-blossom-elegant-umbrella-develop-rhythm
+bip_39_word_new_br_1: brave
+bip_39_word_new_br_10: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad
+bip_39_word_new_br_11: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury
+bip_39_word_new_br_12: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm<br>glad<br>luxury<br>afford
+bip_39_word_new_br_2: brave<br>trust
+bip_39_word_new_br_3: brave<br>trust<br>pilot
+bip_39_word_new_br_4: brave<br>trust<br>pilot<br>student
+bip_39_word_new_br_5: brave<br>trust<br>pilot<br>student<br>blossom
+bip_39_word_new_br_6: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant
+bip_39_word_new_br_7: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella
+bip_39_word_new_br_8: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop
+bip_39_word_new_br_9: brave<br>trust<br>pilot<br>student<br>blossom<br>elegant<br>umbrella<br>develop<br>rhythm
+bip_39_word_new_line_1: brave
+bip_39_word_new_line_10: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad'
+bip_39_word_new_line_11: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad
+
+  luxury'
+bip_39_word_new_line_12: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm
+
+  glad
+
+  luxury
+
+  afford'
+bip_39_word_new_line_2: 'brave
+
+  trust'
+bip_39_word_new_line_3: 'brave
+
+  trust
+
+  pilot'
+bip_39_word_new_line_4: 'brave
+
+  trust
+
+  pilot
+
+  student'
+bip_39_word_new_line_5: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom'
+bip_39_word_new_line_6: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant'
+bip_39_word_new_line_7: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella'
+bip_39_word_new_line_8: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop'
+bip_39_word_new_line_9: 'brave
+
+  trust
+
+  pilot
+
+  student
+
+  blossom
+
+  elegant
+
+  umbrella
+
+  develop
+
+  rhythm'
+bip_39_word_no_space_1: brave
+bip_39_word_no_space_10: bravetrustpilotstudentblossomelegantumbrelladeveloprhythmglad
+bip_39_word_no_space_11: bravetrustpilotstudentblossomelegantumbrelladeveloprhythmgladluxury
+bip_39_word_no_space_12: bravetrustpilotstudentblossomelegantumbrelladeveloprhythmgladluxuryafford
+bip_39_word_no_space_2: bravetrust
+bip_39_word_no_space_3: bravetrustpilot
+bip_39_word_no_space_4: bravetrustpilotstudent
+bip_39_word_no_space_5: bravetrustpilotstudentblossom
+bip_39_word_no_space_6: bravetrustpilotstudentblossomelegant
+bip_39_word_no_space_7: bravetrustpilotstudentblossomelegantumbrella
+bip_39_word_no_space_8: bravetrustpilotstudentblossomelegantumbrelladevelop
+bip_39_word_no_space_9: bravetrustpilotstudentblossomelegantumbrelladeveloprhythm
+bip_39_word_space_0:
+- brave
+- trust
+- pilot
+- student
+- blossom
+- elegant
+- umbrella
+- develop
+- rhythm
+- glad
+- luxury
+- afford
+bip_39_word_space_1: brave
+bip_39_word_space_10: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad
+bip_39_word_space_11: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad luxury
+bip_39_word_space_12: brave trust pilot student blossom elegant umbrella develop rhythm
+  glad luxury afford
+bip_39_word_space_2: brave trust
+bip_39_word_space_3: brave trust pilot
+bip_39_word_space_4: brave trust pilot student
+bip_39_word_space_5: brave trust pilot student blossom
+bip_39_word_space_6: brave trust pilot student blossom elegant
+bip_39_word_space_7: brave trust pilot student blossom elegant umbrella
+bip_39_word_space_8: brave trust pilot student blossom elegant umbrella develop
+bip_39_word_space_9: brave trust pilot student blossom elegant umbrella develop rhythm
+bip_39_word_underscore_1: brave
+bip_39_word_underscore_10: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad
+bip_39_word_underscore_11: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad_luxury
+bip_39_word_underscore_12: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm_glad_luxury_afford
+bip_39_word_underscore_2: brave_trust
+bip_39_word_underscore_3: brave_trust_pilot
+bip_39_word_underscore_4: brave_trust_pilot_student
+bip_39_word_underscore_5: brave_trust_pilot_student_blossom
+bip_39_word_underscore_6: brave_trust_pilot_student_blossom_elegant
+bip_39_word_underscore_7: brave_trust_pilot_student_blossom_elegant_umbrella
+bip_39_word_underscore_8: brave_trust_pilot_student_blossom_elegant_umbrella_develop
+bip_39_word_underscore_9: brave_trust_pilot_student_blossom_elegant_umbrella_develop_rhythm
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_1d5_11_15
 id_no_color: 1d51115
 id_no_size: 1d5_11_15
 id_no_type: tray_1d5_11_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_11_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_11_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202rsew
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202rsew
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202rsew
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 1D51115
 name_no_size: 1D5 11 15
 name_no_size_short: 1D5 11 15
 name_no_type: Tray 1D5 11 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_11_15
 oomp_word: baby_chick sleepy tennis
 oomp_word_emoji: ':baby_chick: :sleepy: :tennis:'

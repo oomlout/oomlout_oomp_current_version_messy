@@ -1,3 +1,222 @@
+bip_39_word_dash_1: robust
+bip_39_word_dash_10: robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork
+bip_39_word_dash_11: robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork-mother
+bip_39_word_dash_12: robust-present-fog-slim-youth-wheat-junior-breeze-trade-artwork-mother-adapt
+bip_39_word_dash_2: robust-present
+bip_39_word_dash_3: robust-present-fog
+bip_39_word_dash_4: robust-present-fog-slim
+bip_39_word_dash_5: robust-present-fog-slim-youth
+bip_39_word_dash_6: robust-present-fog-slim-youth-wheat
+bip_39_word_dash_7: robust-present-fog-slim-youth-wheat-junior
+bip_39_word_dash_8: robust-present-fog-slim-youth-wheat-junior-breeze
+bip_39_word_dash_9: robust-present-fog-slim-youth-wheat-junior-breeze-trade
+bip_39_word_new_br_1: robust
+bip_39_word_new_br_10: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork
+bip_39_word_new_br_11: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother
+bip_39_word_new_br_12: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade<br>artwork<br>mother<br>adapt
+bip_39_word_new_br_2: robust<br>present
+bip_39_word_new_br_3: robust<br>present<br>fog
+bip_39_word_new_br_4: robust<br>present<br>fog<br>slim
+bip_39_word_new_br_5: robust<br>present<br>fog<br>slim<br>youth
+bip_39_word_new_br_6: robust<br>present<br>fog<br>slim<br>youth<br>wheat
+bip_39_word_new_br_7: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior
+bip_39_word_new_br_8: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze
+bip_39_word_new_br_9: robust<br>present<br>fog<br>slim<br>youth<br>wheat<br>junior<br>breeze<br>trade
+bip_39_word_new_line_1: robust
+bip_39_word_new_line_10: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior
+
+  breeze
+
+  trade
+
+  artwork'
+bip_39_word_new_line_11: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior
+
+  breeze
+
+  trade
+
+  artwork
+
+  mother'
+bip_39_word_new_line_12: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior
+
+  breeze
+
+  trade
+
+  artwork
+
+  mother
+
+  adapt'
+bip_39_word_new_line_2: 'robust
+
+  present'
+bip_39_word_new_line_3: 'robust
+
+  present
+
+  fog'
+bip_39_word_new_line_4: 'robust
+
+  present
+
+  fog
+
+  slim'
+bip_39_word_new_line_5: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth'
+bip_39_word_new_line_6: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat'
+bip_39_word_new_line_7: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior'
+bip_39_word_new_line_8: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior
+
+  breeze'
+bip_39_word_new_line_9: 'robust
+
+  present
+
+  fog
+
+  slim
+
+  youth
+
+  wheat
+
+  junior
+
+  breeze
+
+  trade'
+bip_39_word_no_space_1: robust
+bip_39_word_no_space_10: robustpresentfogslimyouthwheatjuniorbreezetradeartwork
+bip_39_word_no_space_11: robustpresentfogslimyouthwheatjuniorbreezetradeartworkmother
+bip_39_word_no_space_12: robustpresentfogslimyouthwheatjuniorbreezetradeartworkmotheradapt
+bip_39_word_no_space_2: robustpresent
+bip_39_word_no_space_3: robustpresentfog
+bip_39_word_no_space_4: robustpresentfogslim
+bip_39_word_no_space_5: robustpresentfogslimyouth
+bip_39_word_no_space_6: robustpresentfogslimyouthwheat
+bip_39_word_no_space_7: robustpresentfogslimyouthwheatjunior
+bip_39_word_no_space_8: robustpresentfogslimyouthwheatjuniorbreeze
+bip_39_word_no_space_9: robustpresentfogslimyouthwheatjuniorbreezetrade
+bip_39_word_space_0:
+- robust
+- present
+- fog
+- slim
+- youth
+- wheat
+- junior
+- breeze
+- trade
+- artwork
+- mother
+- adapt
+bip_39_word_space_1: robust
+bip_39_word_space_10: robust present fog slim youth wheat junior breeze trade artwork
+bip_39_word_space_11: robust present fog slim youth wheat junior breeze trade artwork
+  mother
+bip_39_word_space_12: robust present fog slim youth wheat junior breeze trade artwork
+  mother adapt
+bip_39_word_space_2: robust present
+bip_39_word_space_3: robust present fog
+bip_39_word_space_4: robust present fog slim
+bip_39_word_space_5: robust present fog slim youth
+bip_39_word_space_6: robust present fog slim youth wheat
+bip_39_word_space_7: robust present fog slim youth wheat junior
+bip_39_word_space_8: robust present fog slim youth wheat junior breeze
+bip_39_word_space_9: robust present fog slim youth wheat junior breeze trade
+bip_39_word_underscore_1: robust
+bip_39_word_underscore_10: robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork
+bip_39_word_underscore_11: robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork_mother
+bip_39_word_underscore_12: robust_present_fog_slim_youth_wheat_junior_breeze_trade_artwork_mother_adapt
+bip_39_word_underscore_2: robust_present
+bip_39_word_underscore_3: robust_present_fog
+bip_39_word_underscore_4: robust_present_fog_slim
+bip_39_word_underscore_5: robust_present_fog_slim_youth
+bip_39_word_underscore_6: robust_present_fog_slim_youth_wheat
+bip_39_word_underscore_7: robust_present_fog_slim_youth_wheat_junior
+bip_39_word_underscore_8: robust_present_fog_slim_youth_wheat_junior_breeze
+bip_39_word_underscore_9: robust_present_fog_slim_youth_wheat_junior_breeze_trade
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_14_90
 id_no_color: 081490
 id_no_size: 08_14_90
 id_no_type: tray_08_14_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_14_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_14_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_14_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201x077
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201x077
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201x077
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081490
 name_no_size: 08 14 90
 name_no_size_short: 08 14 90
 name_no_type: Tray 08 14 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_14_90
 oomp_word: ocean skull elephant
 oomp_word_emoji: ':ocean: :skull: :elephant:'

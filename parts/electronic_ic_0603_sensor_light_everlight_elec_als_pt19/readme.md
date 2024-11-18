@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Electronic IC 0603 Sensor Light Everlight Elec Als Pt19
+* name_short: 
 ### id
 * oomp_id: electronic_ic_0603_sensor_light_everlight_elec_als_pt19
   * classification: electronic

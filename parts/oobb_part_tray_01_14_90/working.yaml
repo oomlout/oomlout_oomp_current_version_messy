@@ -1,3 +1,221 @@
+bip_39_word_dash_1: ask
+bip_39_word_dash_10: ask-satoshi-screen-rack-candy-blanket-tired-job-such-page
+bip_39_word_dash_11: ask-satoshi-screen-rack-candy-blanket-tired-job-such-page-two
+bip_39_word_dash_12: ask-satoshi-screen-rack-candy-blanket-tired-job-such-page-two-august
+bip_39_word_dash_2: ask-satoshi
+bip_39_word_dash_3: ask-satoshi-screen
+bip_39_word_dash_4: ask-satoshi-screen-rack
+bip_39_word_dash_5: ask-satoshi-screen-rack-candy
+bip_39_word_dash_6: ask-satoshi-screen-rack-candy-blanket
+bip_39_word_dash_7: ask-satoshi-screen-rack-candy-blanket-tired
+bip_39_word_dash_8: ask-satoshi-screen-rack-candy-blanket-tired-job
+bip_39_word_dash_9: ask-satoshi-screen-rack-candy-blanket-tired-job-such
+bip_39_word_new_br_1: ask
+bip_39_word_new_br_10: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page
+bip_39_word_new_br_11: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two
+bip_39_word_new_br_12: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such<br>page<br>two<br>august
+bip_39_word_new_br_2: ask<br>satoshi
+bip_39_word_new_br_3: ask<br>satoshi<br>screen
+bip_39_word_new_br_4: ask<br>satoshi<br>screen<br>rack
+bip_39_word_new_br_5: ask<br>satoshi<br>screen<br>rack<br>candy
+bip_39_word_new_br_6: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket
+bip_39_word_new_br_7: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired
+bip_39_word_new_br_8: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job
+bip_39_word_new_br_9: ask<br>satoshi<br>screen<br>rack<br>candy<br>blanket<br>tired<br>job<br>such
+bip_39_word_new_line_1: ask
+bip_39_word_new_line_10: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page'
+bip_39_word_new_line_11: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page
+
+  two'
+bip_39_word_new_line_12: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such
+
+  page
+
+  two
+
+  august'
+bip_39_word_new_line_2: 'ask
+
+  satoshi'
+bip_39_word_new_line_3: 'ask
+
+  satoshi
+
+  screen'
+bip_39_word_new_line_4: 'ask
+
+  satoshi
+
+  screen
+
+  rack'
+bip_39_word_new_line_5: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy'
+bip_39_word_new_line_6: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket'
+bip_39_word_new_line_7: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired'
+bip_39_word_new_line_8: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job'
+bip_39_word_new_line_9: 'ask
+
+  satoshi
+
+  screen
+
+  rack
+
+  candy
+
+  blanket
+
+  tired
+
+  job
+
+  such'
+bip_39_word_no_space_1: ask
+bip_39_word_no_space_10: asksatoshiscreenrackcandyblankettiredjobsuchpage
+bip_39_word_no_space_11: asksatoshiscreenrackcandyblankettiredjobsuchpagetwo
+bip_39_word_no_space_12: asksatoshiscreenrackcandyblankettiredjobsuchpagetwoaugust
+bip_39_word_no_space_2: asksatoshi
+bip_39_word_no_space_3: asksatoshiscreen
+bip_39_word_no_space_4: asksatoshiscreenrack
+bip_39_word_no_space_5: asksatoshiscreenrackcandy
+bip_39_word_no_space_6: asksatoshiscreenrackcandyblanket
+bip_39_word_no_space_7: asksatoshiscreenrackcandyblankettired
+bip_39_word_no_space_8: asksatoshiscreenrackcandyblankettiredjob
+bip_39_word_no_space_9: asksatoshiscreenrackcandyblankettiredjobsuch
+bip_39_word_space_0:
+- ask
+- satoshi
+- screen
+- rack
+- candy
+- blanket
+- tired
+- job
+- such
+- page
+- two
+- august
+bip_39_word_space_1: ask
+bip_39_word_space_10: ask satoshi screen rack candy blanket tired job such page
+bip_39_word_space_11: ask satoshi screen rack candy blanket tired job such page two
+bip_39_word_space_12: ask satoshi screen rack candy blanket tired job such page two
+  august
+bip_39_word_space_2: ask satoshi
+bip_39_word_space_3: ask satoshi screen
+bip_39_word_space_4: ask satoshi screen rack
+bip_39_word_space_5: ask satoshi screen rack candy
+bip_39_word_space_6: ask satoshi screen rack candy blanket
+bip_39_word_space_7: ask satoshi screen rack candy blanket tired
+bip_39_word_space_8: ask satoshi screen rack candy blanket tired job
+bip_39_word_space_9: ask satoshi screen rack candy blanket tired job such
+bip_39_word_underscore_1: ask
+bip_39_word_underscore_10: ask_satoshi_screen_rack_candy_blanket_tired_job_such_page
+bip_39_word_underscore_11: ask_satoshi_screen_rack_candy_blanket_tired_job_such_page_two
+bip_39_word_underscore_12: ask_satoshi_screen_rack_candy_blanket_tired_job_such_page_two_august
+bip_39_word_underscore_2: ask_satoshi
+bip_39_word_underscore_3: ask_satoshi_screen
+bip_39_word_underscore_4: ask_satoshi_screen_rack
+bip_39_word_underscore_5: ask_satoshi_screen_rack_candy
+bip_39_word_underscore_6: ask_satoshi_screen_rack_candy_blanket
+bip_39_word_underscore_7: ask_satoshi_screen_rack_candy_blanket_tired
+bip_39_word_underscore_8: ask_satoshi_screen_rack_candy_blanket_tired_job
+bip_39_word_underscore_9: ask_satoshi_screen_rack_candy_blanket_tired_job_such
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +300,14 @@ id_no_class: part_tray_01_14_90
 id_no_color: 011490
 id_no_size: 01_14_90
 id_no_type: tray_01_14_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_14_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_14_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_14_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209iijr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209iijr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209iijr
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +333,7 @@ name_no_color: 011490
 name_no_size: 01 14 90
 name_no_size_short: 01 14 90
 name_no_type: Tray 01 14 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_14_90
 oomp_word: two office herb
 oomp_word_emoji: ':two: :office: :herb:'

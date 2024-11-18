@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Oobb Part Tool Holder Vertical 05 05 30  Tool Tdpb Glue Stick Prit Medium Knife
+* name_short: 
 ### id
 * oomp_id: oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife
   * classification: oobb
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clipboard: :hourglass: :coffee:
 * md5_6_alpha: 5k62c
 * md5_6: 8e80b4
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205k62c)
+[2x1](http://192.168.1.242:1112/?label=oomp%205k62c)
+[6x4](http://192.168.1.55:1112/?label=oomp%205k62c)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -279,7 +305,14 @@ expose |
 | id_no_color | 050530tooltdpbgluestickpritmediumknife |  
 | id_no_size | 05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
 | id_no_type | tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205k62c |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205k62c |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205k62c |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -304,6 +337,7 @@ expose |
 | name_no_size | 05 05 30  Tool Tdpb Glue Stick Prit Medium Knife |  
 | name_no_size_short | 05 05 30  Tool Tdpb Glue Stick Prit Medium Knife |  
 | name_no_type | Tool Holder Vertical 05 05 30  Tool Tdpb Glue Stick Prit Medium Knife |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_05_05_30__tool_tdpb_glue_stick_prit_medium_knife |  
 | oomp_word | clipboard hourglass coffee |  
 | oomp_word_emoji | :clipboard: :hourglass: :coffee: |  

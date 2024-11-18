@@ -1,3 +1,224 @@
+bip_39_word_dash_1: exhibit
+bip_39_word_dash_10: exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need
+bip_39_word_dash_11: exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need-mutual
+bip_39_word_dash_12: exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest-need-mutual-advice
+bip_39_word_dash_2: exhibit-remember
+bip_39_word_dash_3: exhibit-remember-diesel
+bip_39_word_dash_4: exhibit-remember-diesel-nuclear
+bip_39_word_dash_5: exhibit-remember-diesel-nuclear-lizard
+bip_39_word_dash_6: exhibit-remember-diesel-nuclear-lizard-cement
+bip_39_word_dash_7: exhibit-remember-diesel-nuclear-lizard-cement-private
+bip_39_word_dash_8: exhibit-remember-diesel-nuclear-lizard-cement-private-supply
+bip_39_word_dash_9: exhibit-remember-diesel-nuclear-lizard-cement-private-supply-suggest
+bip_39_word_new_br_1: exhibit
+bip_39_word_new_br_10: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need
+bip_39_word_new_br_11: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need<br>mutual
+bip_39_word_new_br_12: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest<br>need<br>mutual<br>advice
+bip_39_word_new_br_2: exhibit<br>remember
+bip_39_word_new_br_3: exhibit<br>remember<br>diesel
+bip_39_word_new_br_4: exhibit<br>remember<br>diesel<br>nuclear
+bip_39_word_new_br_5: exhibit<br>remember<br>diesel<br>nuclear<br>lizard
+bip_39_word_new_br_6: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement
+bip_39_word_new_br_7: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private
+bip_39_word_new_br_8: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply
+bip_39_word_new_br_9: exhibit<br>remember<br>diesel<br>nuclear<br>lizard<br>cement<br>private<br>supply<br>suggest
+bip_39_word_new_line_1: exhibit
+bip_39_word_new_line_10: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private
+
+  supply
+
+  suggest
+
+  need'
+bip_39_word_new_line_11: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private
+
+  supply
+
+  suggest
+
+  need
+
+  mutual'
+bip_39_word_new_line_12: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private
+
+  supply
+
+  suggest
+
+  need
+
+  mutual
+
+  advice'
+bip_39_word_new_line_2: 'exhibit
+
+  remember'
+bip_39_word_new_line_3: 'exhibit
+
+  remember
+
+  diesel'
+bip_39_word_new_line_4: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear'
+bip_39_word_new_line_5: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard'
+bip_39_word_new_line_6: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement'
+bip_39_word_new_line_7: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private'
+bip_39_word_new_line_8: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private
+
+  supply'
+bip_39_word_new_line_9: 'exhibit
+
+  remember
+
+  diesel
+
+  nuclear
+
+  lizard
+
+  cement
+
+  private
+
+  supply
+
+  suggest'
+bip_39_word_no_space_1: exhibit
+bip_39_word_no_space_10: exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneed
+bip_39_word_no_space_11: exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneedmutual
+bip_39_word_no_space_12: exhibitrememberdieselnuclearlizardcementprivatesupplysuggestneedmutualadvice
+bip_39_word_no_space_2: exhibitremember
+bip_39_word_no_space_3: exhibitrememberdiesel
+bip_39_word_no_space_4: exhibitrememberdieselnuclear
+bip_39_word_no_space_5: exhibitrememberdieselnuclearlizard
+bip_39_word_no_space_6: exhibitrememberdieselnuclearlizardcement
+bip_39_word_no_space_7: exhibitrememberdieselnuclearlizardcementprivate
+bip_39_word_no_space_8: exhibitrememberdieselnuclearlizardcementprivatesupply
+bip_39_word_no_space_9: exhibitrememberdieselnuclearlizardcementprivatesupplysuggest
+bip_39_word_space_0:
+- exhibit
+- remember
+- diesel
+- nuclear
+- lizard
+- cement
+- private
+- supply
+- suggest
+- need
+- mutual
+- advice
+bip_39_word_space_1: exhibit
+bip_39_word_space_10: exhibit remember diesel nuclear lizard cement private supply
+  suggest need
+bip_39_word_space_11: exhibit remember diesel nuclear lizard cement private supply
+  suggest need mutual
+bip_39_word_space_12: exhibit remember diesel nuclear lizard cement private supply
+  suggest need mutual advice
+bip_39_word_space_2: exhibit remember
+bip_39_word_space_3: exhibit remember diesel
+bip_39_word_space_4: exhibit remember diesel nuclear
+bip_39_word_space_5: exhibit remember diesel nuclear lizard
+bip_39_word_space_6: exhibit remember diesel nuclear lizard cement
+bip_39_word_space_7: exhibit remember diesel nuclear lizard cement private
+bip_39_word_space_8: exhibit remember diesel nuclear lizard cement private supply
+bip_39_word_space_9: exhibit remember diesel nuclear lizard cement private supply
+  suggest
+bip_39_word_underscore_1: exhibit
+bip_39_word_underscore_10: exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need
+bip_39_word_underscore_11: exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need_mutual
+bip_39_word_underscore_12: exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest_need_mutual_advice
+bip_39_word_underscore_2: exhibit_remember
+bip_39_word_underscore_3: exhibit_remember_diesel
+bip_39_word_underscore_4: exhibit_remember_diesel_nuclear
+bip_39_word_underscore_5: exhibit_remember_diesel_nuclear_lizard
+bip_39_word_underscore_6: exhibit_remember_diesel_nuclear_lizard_cement
+bip_39_word_underscore_7: exhibit_remember_diesel_nuclear_lizard_cement_private
+bip_39_word_underscore_8: exhibit_remember_diesel_nuclear_lizard_cement_private_supply
+bip_39_word_underscore_9: exhibit_remember_diesel_nuclear_lizard_cement_private_supply_suggest
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +303,14 @@ id_no_class: part_tray_07_09_90
 id_no_color: 070990
 id_no_size: 07_09_90
 id_no_type: tray_07_09_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_09_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_09_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_09_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ji3o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ji3o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ji3o
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +336,7 @@ name_no_color: 070990
 name_no_size: 07 09 90
 name_no_size_short: 07 09 90
 name_no_type: Tray 07 09 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_09_90
 oomp_word: camel droplet sunflower
 oomp_word_emoji: ':camel: :droplet: :sunflower:'

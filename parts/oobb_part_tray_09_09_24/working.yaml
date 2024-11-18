@@ -1,3 +1,222 @@
+bip_39_word_dash_1: whale
+bip_39_word_dash_10: whale-tonight-craft-panda-happy-open-rent-trend-more-ecology
+bip_39_word_dash_11: whale-tonight-craft-panda-happy-open-rent-trend-more-ecology-torch
+bip_39_word_dash_12: whale-tonight-craft-panda-happy-open-rent-trend-more-ecology-torch-amused
+bip_39_word_dash_2: whale-tonight
+bip_39_word_dash_3: whale-tonight-craft
+bip_39_word_dash_4: whale-tonight-craft-panda
+bip_39_word_dash_5: whale-tonight-craft-panda-happy
+bip_39_word_dash_6: whale-tonight-craft-panda-happy-open
+bip_39_word_dash_7: whale-tonight-craft-panda-happy-open-rent
+bip_39_word_dash_8: whale-tonight-craft-panda-happy-open-rent-trend
+bip_39_word_dash_9: whale-tonight-craft-panda-happy-open-rent-trend-more
+bip_39_word_new_br_1: whale
+bip_39_word_new_br_10: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more<br>ecology
+bip_39_word_new_br_11: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more<br>ecology<br>torch
+bip_39_word_new_br_12: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more<br>ecology<br>torch<br>amused
+bip_39_word_new_br_2: whale<br>tonight
+bip_39_word_new_br_3: whale<br>tonight<br>craft
+bip_39_word_new_br_4: whale<br>tonight<br>craft<br>panda
+bip_39_word_new_br_5: whale<br>tonight<br>craft<br>panda<br>happy
+bip_39_word_new_br_6: whale<br>tonight<br>craft<br>panda<br>happy<br>open
+bip_39_word_new_br_7: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent
+bip_39_word_new_br_8: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend
+bip_39_word_new_br_9: whale<br>tonight<br>craft<br>panda<br>happy<br>open<br>rent<br>trend<br>more
+bip_39_word_new_line_1: whale
+bip_39_word_new_line_10: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent
+
+  trend
+
+  more
+
+  ecology'
+bip_39_word_new_line_11: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent
+
+  trend
+
+  more
+
+  ecology
+
+  torch'
+bip_39_word_new_line_12: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent
+
+  trend
+
+  more
+
+  ecology
+
+  torch
+
+  amused'
+bip_39_word_new_line_2: 'whale
+
+  tonight'
+bip_39_word_new_line_3: 'whale
+
+  tonight
+
+  craft'
+bip_39_word_new_line_4: 'whale
+
+  tonight
+
+  craft
+
+  panda'
+bip_39_word_new_line_5: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy'
+bip_39_word_new_line_6: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open'
+bip_39_word_new_line_7: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent'
+bip_39_word_new_line_8: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent
+
+  trend'
+bip_39_word_new_line_9: 'whale
+
+  tonight
+
+  craft
+
+  panda
+
+  happy
+
+  open
+
+  rent
+
+  trend
+
+  more'
+bip_39_word_no_space_1: whale
+bip_39_word_no_space_10: whaletonightcraftpandahappyopenrenttrendmoreecology
+bip_39_word_no_space_11: whaletonightcraftpandahappyopenrenttrendmoreecologytorch
+bip_39_word_no_space_12: whaletonightcraftpandahappyopenrenttrendmoreecologytorchamused
+bip_39_word_no_space_2: whaletonight
+bip_39_word_no_space_3: whaletonightcraft
+bip_39_word_no_space_4: whaletonightcraftpanda
+bip_39_word_no_space_5: whaletonightcraftpandahappy
+bip_39_word_no_space_6: whaletonightcraftpandahappyopen
+bip_39_word_no_space_7: whaletonightcraftpandahappyopenrent
+bip_39_word_no_space_8: whaletonightcraftpandahappyopenrenttrend
+bip_39_word_no_space_9: whaletonightcraftpandahappyopenrenttrendmore
+bip_39_word_space_0:
+- whale
+- tonight
+- craft
+- panda
+- happy
+- open
+- rent
+- trend
+- more
+- ecology
+- torch
+- amused
+bip_39_word_space_1: whale
+bip_39_word_space_10: whale tonight craft panda happy open rent trend more ecology
+bip_39_word_space_11: whale tonight craft panda happy open rent trend more ecology
+  torch
+bip_39_word_space_12: whale tonight craft panda happy open rent trend more ecology
+  torch amused
+bip_39_word_space_2: whale tonight
+bip_39_word_space_3: whale tonight craft
+bip_39_word_space_4: whale tonight craft panda
+bip_39_word_space_5: whale tonight craft panda happy
+bip_39_word_space_6: whale tonight craft panda happy open
+bip_39_word_space_7: whale tonight craft panda happy open rent
+bip_39_word_space_8: whale tonight craft panda happy open rent trend
+bip_39_word_space_9: whale tonight craft panda happy open rent trend more
+bip_39_word_underscore_1: whale
+bip_39_word_underscore_10: whale_tonight_craft_panda_happy_open_rent_trend_more_ecology
+bip_39_word_underscore_11: whale_tonight_craft_panda_happy_open_rent_trend_more_ecology_torch
+bip_39_word_underscore_12: whale_tonight_craft_panda_happy_open_rent_trend_more_ecology_torch_amused
+bip_39_word_underscore_2: whale_tonight
+bip_39_word_underscore_3: whale_tonight_craft
+bip_39_word_underscore_4: whale_tonight_craft_panda
+bip_39_word_underscore_5: whale_tonight_craft_panda_happy
+bip_39_word_underscore_6: whale_tonight_craft_panda_happy_open
+bip_39_word_underscore_7: whale_tonight_craft_panda_happy_open_rent
+bip_39_word_underscore_8: whale_tonight_craft_panda_happy_open_rent_trend
+bip_39_word_underscore_9: whale_tonight_craft_panda_happy_open_rent_trend_more
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_09_24
 id_no_color: 090924
 id_no_size: 09_09_24
 id_no_type: tray_09_09_24
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_09_24
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_09_24
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_09_24
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20554ep
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20554ep
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20554ep
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 090924
 name_no_size: 09 09 24
 name_no_size_short: 09 09 24
 name_no_type: Tray 09 09 24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_09_24
 oomp_word: lock cherries pushpin
 oomp_word_emoji: ':lock: :cherries: :pushpin:'

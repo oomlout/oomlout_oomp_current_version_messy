@@ -1,3 +1,222 @@
+bip_39_word_dash_1: exact
+bip_39_word_dash_10: exact-purity-toy-attend-clap-boy-shift-enable-cliff-program
+bip_39_word_dash_11: exact-purity-toy-attend-clap-boy-shift-enable-cliff-program-thrive
+bip_39_word_dash_12: exact-purity-toy-attend-clap-boy-shift-enable-cliff-program-thrive-avocado
+bip_39_word_dash_2: exact-purity
+bip_39_word_dash_3: exact-purity-toy
+bip_39_word_dash_4: exact-purity-toy-attend
+bip_39_word_dash_5: exact-purity-toy-attend-clap
+bip_39_word_dash_6: exact-purity-toy-attend-clap-boy
+bip_39_word_dash_7: exact-purity-toy-attend-clap-boy-shift
+bip_39_word_dash_8: exact-purity-toy-attend-clap-boy-shift-enable
+bip_39_word_dash_9: exact-purity-toy-attend-clap-boy-shift-enable-cliff
+bip_39_word_new_br_1: exact
+bip_39_word_new_br_10: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program
+bip_39_word_new_br_11: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive
+bip_39_word_new_br_12: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff<br>program<br>thrive<br>avocado
+bip_39_word_new_br_2: exact<br>purity
+bip_39_word_new_br_3: exact<br>purity<br>toy
+bip_39_word_new_br_4: exact<br>purity<br>toy<br>attend
+bip_39_word_new_br_5: exact<br>purity<br>toy<br>attend<br>clap
+bip_39_word_new_br_6: exact<br>purity<br>toy<br>attend<br>clap<br>boy
+bip_39_word_new_br_7: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift
+bip_39_word_new_br_8: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable
+bip_39_word_new_br_9: exact<br>purity<br>toy<br>attend<br>clap<br>boy<br>shift<br>enable<br>cliff
+bip_39_word_new_line_1: exact
+bip_39_word_new_line_10: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift
+
+  enable
+
+  cliff
+
+  program'
+bip_39_word_new_line_11: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift
+
+  enable
+
+  cliff
+
+  program
+
+  thrive'
+bip_39_word_new_line_12: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift
+
+  enable
+
+  cliff
+
+  program
+
+  thrive
+
+  avocado'
+bip_39_word_new_line_2: 'exact
+
+  purity'
+bip_39_word_new_line_3: 'exact
+
+  purity
+
+  toy'
+bip_39_word_new_line_4: 'exact
+
+  purity
+
+  toy
+
+  attend'
+bip_39_word_new_line_5: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap'
+bip_39_word_new_line_6: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy'
+bip_39_word_new_line_7: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift'
+bip_39_word_new_line_8: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift
+
+  enable'
+bip_39_word_new_line_9: 'exact
+
+  purity
+
+  toy
+
+  attend
+
+  clap
+
+  boy
+
+  shift
+
+  enable
+
+  cliff'
+bip_39_word_no_space_1: exact
+bip_39_word_no_space_10: exactpuritytoyattendclapboyshiftenablecliffprogram
+bip_39_word_no_space_11: exactpuritytoyattendclapboyshiftenablecliffprogramthrive
+bip_39_word_no_space_12: exactpuritytoyattendclapboyshiftenablecliffprogramthriveavocado
+bip_39_word_no_space_2: exactpurity
+bip_39_word_no_space_3: exactpuritytoy
+bip_39_word_no_space_4: exactpuritytoyattend
+bip_39_word_no_space_5: exactpuritytoyattendclap
+bip_39_word_no_space_6: exactpuritytoyattendclapboy
+bip_39_word_no_space_7: exactpuritytoyattendclapboyshift
+bip_39_word_no_space_8: exactpuritytoyattendclapboyshiftenable
+bip_39_word_no_space_9: exactpuritytoyattendclapboyshiftenablecliff
+bip_39_word_space_0:
+- exact
+- purity
+- toy
+- attend
+- clap
+- boy
+- shift
+- enable
+- cliff
+- program
+- thrive
+- avocado
+bip_39_word_space_1: exact
+bip_39_word_space_10: exact purity toy attend clap boy shift enable cliff program
+bip_39_word_space_11: exact purity toy attend clap boy shift enable cliff program
+  thrive
+bip_39_word_space_12: exact purity toy attend clap boy shift enable cliff program
+  thrive avocado
+bip_39_word_space_2: exact purity
+bip_39_word_space_3: exact purity toy
+bip_39_word_space_4: exact purity toy attend
+bip_39_word_space_5: exact purity toy attend clap
+bip_39_word_space_6: exact purity toy attend clap boy
+bip_39_word_space_7: exact purity toy attend clap boy shift
+bip_39_word_space_8: exact purity toy attend clap boy shift enable
+bip_39_word_space_9: exact purity toy attend clap boy shift enable cliff
+bip_39_word_underscore_1: exact
+bip_39_word_underscore_10: exact_purity_toy_attend_clap_boy_shift_enable_cliff_program
+bip_39_word_underscore_11: exact_purity_toy_attend_clap_boy_shift_enable_cliff_program_thrive
+bip_39_word_underscore_12: exact_purity_toy_attend_clap_boy_shift_enable_cliff_program_thrive_avocado
+bip_39_word_underscore_2: exact_purity
+bip_39_word_underscore_3: exact_purity_toy
+bip_39_word_underscore_4: exact_purity_toy_attend
+bip_39_word_underscore_5: exact_purity_toy_attend_clap
+bip_39_word_underscore_6: exact_purity_toy_attend_clap_boy
+bip_39_word_underscore_7: exact_purity_toy_attend_clap_boy_shift
+bip_39_word_underscore_8: exact_purity_toy_attend_clap_boy_shift_enable
+bip_39_word_underscore_9: exact_purity_toy_attend_clap_boy_shift_enable_cliff
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_10_14_90
 id_no_color: '101490'
 id_no_size: '10_14_90'
 id_no_type: tray_10_14_90
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_90
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_14_90
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_90
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209z97u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209z97u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209z97u
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '101490'
 name_no_size: 10 14 90
 name_no_size_short: 10 14 90
 name_no_type: Tray 10 14 90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_14_90
 oomp_word: trident birthday palm_tree
 oomp_word_emoji: ':trident: :birthday: :palm_tree:'

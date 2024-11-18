@@ -1,3 +1,222 @@
+bip_39_word_dash_1: seek
+bip_39_word_dash_10: seek-size-clay-gravity-educate-space-butter-vague-west-edge
+bip_39_word_dash_11: seek-size-clay-gravity-educate-space-butter-vague-west-edge-clown
+bip_39_word_dash_12: seek-size-clay-gravity-educate-space-butter-vague-west-edge-clown-august
+bip_39_word_dash_2: seek-size
+bip_39_word_dash_3: seek-size-clay
+bip_39_word_dash_4: seek-size-clay-gravity
+bip_39_word_dash_5: seek-size-clay-gravity-educate
+bip_39_word_dash_6: seek-size-clay-gravity-educate-space
+bip_39_word_dash_7: seek-size-clay-gravity-educate-space-butter
+bip_39_word_dash_8: seek-size-clay-gravity-educate-space-butter-vague
+bip_39_word_dash_9: seek-size-clay-gravity-educate-space-butter-vague-west
+bip_39_word_new_br_1: seek
+bip_39_word_new_br_10: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge
+bip_39_word_new_br_11: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge<br>clown
+bip_39_word_new_br_12: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west<br>edge<br>clown<br>august
+bip_39_word_new_br_2: seek<br>size
+bip_39_word_new_br_3: seek<br>size<br>clay
+bip_39_word_new_br_4: seek<br>size<br>clay<br>gravity
+bip_39_word_new_br_5: seek<br>size<br>clay<br>gravity<br>educate
+bip_39_word_new_br_6: seek<br>size<br>clay<br>gravity<br>educate<br>space
+bip_39_word_new_br_7: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter
+bip_39_word_new_br_8: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague
+bip_39_word_new_br_9: seek<br>size<br>clay<br>gravity<br>educate<br>space<br>butter<br>vague<br>west
+bip_39_word_new_line_1: seek
+bip_39_word_new_line_10: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter
+
+  vague
+
+  west
+
+  edge'
+bip_39_word_new_line_11: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter
+
+  vague
+
+  west
+
+  edge
+
+  clown'
+bip_39_word_new_line_12: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter
+
+  vague
+
+  west
+
+  edge
+
+  clown
+
+  august'
+bip_39_word_new_line_2: 'seek
+
+  size'
+bip_39_word_new_line_3: 'seek
+
+  size
+
+  clay'
+bip_39_word_new_line_4: 'seek
+
+  size
+
+  clay
+
+  gravity'
+bip_39_word_new_line_5: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate'
+bip_39_word_new_line_6: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space'
+bip_39_word_new_line_7: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter'
+bip_39_word_new_line_8: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter
+
+  vague'
+bip_39_word_new_line_9: 'seek
+
+  size
+
+  clay
+
+  gravity
+
+  educate
+
+  space
+
+  butter
+
+  vague
+
+  west'
+bip_39_word_no_space_1: seek
+bip_39_word_no_space_10: seeksizeclaygravityeducatespacebuttervaguewestedge
+bip_39_word_no_space_11: seeksizeclaygravityeducatespacebuttervaguewestedgeclown
+bip_39_word_no_space_12: seeksizeclaygravityeducatespacebuttervaguewestedgeclownaugust
+bip_39_word_no_space_2: seeksize
+bip_39_word_no_space_3: seeksizeclay
+bip_39_word_no_space_4: seeksizeclaygravity
+bip_39_word_no_space_5: seeksizeclaygravityeducate
+bip_39_word_no_space_6: seeksizeclaygravityeducatespace
+bip_39_word_no_space_7: seeksizeclaygravityeducatespacebutter
+bip_39_word_no_space_8: seeksizeclaygravityeducatespacebuttervague
+bip_39_word_no_space_9: seeksizeclaygravityeducatespacebuttervaguewest
+bip_39_word_space_0:
+- seek
+- size
+- clay
+- gravity
+- educate
+- space
+- butter
+- vague
+- west
+- edge
+- clown
+- august
+bip_39_word_space_1: seek
+bip_39_word_space_10: seek size clay gravity educate space butter vague west edge
+bip_39_word_space_11: seek size clay gravity educate space butter vague west edge
+  clown
+bip_39_word_space_12: seek size clay gravity educate space butter vague west edge
+  clown august
+bip_39_word_space_2: seek size
+bip_39_word_space_3: seek size clay
+bip_39_word_space_4: seek size clay gravity
+bip_39_word_space_5: seek size clay gravity educate
+bip_39_word_space_6: seek size clay gravity educate space
+bip_39_word_space_7: seek size clay gravity educate space butter
+bip_39_word_space_8: seek size clay gravity educate space butter vague
+bip_39_word_space_9: seek size clay gravity educate space butter vague west
+bip_39_word_underscore_1: seek
+bip_39_word_underscore_10: seek_size_clay_gravity_educate_space_butter_vague_west_edge
+bip_39_word_underscore_11: seek_size_clay_gravity_educate_space_butter_vague_west_edge_clown
+bip_39_word_underscore_12: seek_size_clay_gravity_educate_space_butter_vague_west_edge_clown_august
+bip_39_word_underscore_2: seek_size
+bip_39_word_underscore_3: seek_size_clay
+bip_39_word_underscore_4: seek_size_clay_gravity
+bip_39_word_underscore_5: seek_size_clay_gravity_educate
+bip_39_word_underscore_6: seek_size_clay_gravity_educate_space
+bip_39_word_underscore_7: seek_size_clay_gravity_educate_space_butter
+bip_39_word_underscore_8: seek_size_clay_gravity_educate_space_butter_vague
+bip_39_word_underscore_9: seek_size_clay_gravity_educate_space_butter_vague_west
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_08_11_09
 id_no_color: 081109
 id_no_size: 08_11_09
 id_no_type: tray_08_11_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_08_11_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_08_11_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209gett
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209gett
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209gett
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 081109
 name_no_size: 08 11 09
 name_no_size_short: 08 11 09
 name_no_type: Tray 08 11 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_08_11_09
 oomp_word: one water_buffalo dizzy
 oomp_word_emoji: ':one: :water_buffalo: :dizzy:'

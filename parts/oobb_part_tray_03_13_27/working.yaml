@@ -1,3 +1,222 @@
+bip_39_word_dash_1: school
+bip_39_word_dash_10: school-dragon-north-tornado-child-whale-marine-erode-old-draft
+bip_39_word_dash_11: school-dragon-north-tornado-child-whale-marine-erode-old-draft-meadow
+bip_39_word_dash_12: school-dragon-north-tornado-child-whale-marine-erode-old-draft-meadow-animal
+bip_39_word_dash_2: school-dragon
+bip_39_word_dash_3: school-dragon-north
+bip_39_word_dash_4: school-dragon-north-tornado
+bip_39_word_dash_5: school-dragon-north-tornado-child
+bip_39_word_dash_6: school-dragon-north-tornado-child-whale
+bip_39_word_dash_7: school-dragon-north-tornado-child-whale-marine
+bip_39_word_dash_8: school-dragon-north-tornado-child-whale-marine-erode
+bip_39_word_dash_9: school-dragon-north-tornado-child-whale-marine-erode-old
+bip_39_word_new_br_1: school
+bip_39_word_new_br_10: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft
+bip_39_word_new_br_11: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft<br>meadow
+bip_39_word_new_br_12: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old<br>draft<br>meadow<br>animal
+bip_39_word_new_br_2: school<br>dragon
+bip_39_word_new_br_3: school<br>dragon<br>north
+bip_39_word_new_br_4: school<br>dragon<br>north<br>tornado
+bip_39_word_new_br_5: school<br>dragon<br>north<br>tornado<br>child
+bip_39_word_new_br_6: school<br>dragon<br>north<br>tornado<br>child<br>whale
+bip_39_word_new_br_7: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine
+bip_39_word_new_br_8: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode
+bip_39_word_new_br_9: school<br>dragon<br>north<br>tornado<br>child<br>whale<br>marine<br>erode<br>old
+bip_39_word_new_line_1: school
+bip_39_word_new_line_10: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft'
+bip_39_word_new_line_11: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft
+
+  meadow'
+bip_39_word_new_line_12: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old
+
+  draft
+
+  meadow
+
+  animal'
+bip_39_word_new_line_2: 'school
+
+  dragon'
+bip_39_word_new_line_3: 'school
+
+  dragon
+
+  north'
+bip_39_word_new_line_4: 'school
+
+  dragon
+
+  north
+
+  tornado'
+bip_39_word_new_line_5: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child'
+bip_39_word_new_line_6: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale'
+bip_39_word_new_line_7: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine'
+bip_39_word_new_line_8: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode'
+bip_39_word_new_line_9: 'school
+
+  dragon
+
+  north
+
+  tornado
+
+  child
+
+  whale
+
+  marine
+
+  erode
+
+  old'
+bip_39_word_no_space_1: school
+bip_39_word_no_space_10: schooldragonnorthtornadochildwhalemarineerodeolddraft
+bip_39_word_no_space_11: schooldragonnorthtornadochildwhalemarineerodeolddraftmeadow
+bip_39_word_no_space_12: schooldragonnorthtornadochildwhalemarineerodeolddraftmeadowanimal
+bip_39_word_no_space_2: schooldragon
+bip_39_word_no_space_3: schooldragonnorth
+bip_39_word_no_space_4: schooldragonnorthtornado
+bip_39_word_no_space_5: schooldragonnorthtornadochild
+bip_39_word_no_space_6: schooldragonnorthtornadochildwhale
+bip_39_word_no_space_7: schooldragonnorthtornadochildwhalemarine
+bip_39_word_no_space_8: schooldragonnorthtornadochildwhalemarineerode
+bip_39_word_no_space_9: schooldragonnorthtornadochildwhalemarineerodeold
+bip_39_word_space_0:
+- school
+- dragon
+- north
+- tornado
+- child
+- whale
+- marine
+- erode
+- old
+- draft
+- meadow
+- animal
+bip_39_word_space_1: school
+bip_39_word_space_10: school dragon north tornado child whale marine erode old draft
+bip_39_word_space_11: school dragon north tornado child whale marine erode old draft
+  meadow
+bip_39_word_space_12: school dragon north tornado child whale marine erode old draft
+  meadow animal
+bip_39_word_space_2: school dragon
+bip_39_word_space_3: school dragon north
+bip_39_word_space_4: school dragon north tornado
+bip_39_word_space_5: school dragon north tornado child
+bip_39_word_space_6: school dragon north tornado child whale
+bip_39_word_space_7: school dragon north tornado child whale marine
+bip_39_word_space_8: school dragon north tornado child whale marine erode
+bip_39_word_space_9: school dragon north tornado child whale marine erode old
+bip_39_word_underscore_1: school
+bip_39_word_underscore_10: school_dragon_north_tornado_child_whale_marine_erode_old_draft
+bip_39_word_underscore_11: school_dragon_north_tornado_child_whale_marine_erode_old_draft_meadow
+bip_39_word_underscore_12: school_dragon_north_tornado_child_whale_marine_erode_old_draft_meadow_animal
+bip_39_word_underscore_2: school_dragon
+bip_39_word_underscore_3: school_dragon_north
+bip_39_word_underscore_4: school_dragon_north_tornado
+bip_39_word_underscore_5: school_dragon_north_tornado_child
+bip_39_word_underscore_6: school_dragon_north_tornado_child_whale
+bip_39_word_underscore_7: school_dragon_north_tornado_child_whale_marine
+bip_39_word_underscore_8: school_dragon_north_tornado_child_whale_marine_erode
+bip_39_word_underscore_9: school_dragon_north_tornado_child_whale_marine_erode_old
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_03_13_27
 id_no_color: '031327'
 id_no_size: '03_13_27'
 id_no_type: tray_03_13_27
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_27
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_13_27
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_13_27
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ns5s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ns5s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ns5s
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '031327'
 name_no_size: 03 13 27
 name_no_size_short: 03 13 27
 name_no_type: Tray 03 13 27
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_13_27
 oomp_word: pushpin question beetle
 oomp_word_emoji: ':pushpin: :question: :beetle:'

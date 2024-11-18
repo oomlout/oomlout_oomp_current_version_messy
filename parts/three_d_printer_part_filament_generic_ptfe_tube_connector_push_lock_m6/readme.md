@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Three D Printer Part Filament Generic Ptfe Tube Connector Push Lock M6
+* name_short: 
 ### id
 * oomp_id: three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6
   * classification: three_d_printer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :envelope: :lock: :fire:
 * md5_6_alpha: 5ek9g
 * md5_6: 8a8314
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205ek9g)
+[2x1](http://192.168.1.242:1112/?label=oomp%205ek9g)
+[6x4](http://192.168.1.55:1112/?label=oomp%205ek9g)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -303,7 +329,14 @@ left |
 | id_no_color | ptfe_tube_connector_push_lock_m6 |  
 | id_no_size | generic_ptfe_tube_connector_push_lock_m6 |  
 | id_no_type | filament_generic_ptfe_tube_connector_push_lock_m6 |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6 |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6 |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6 |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205ek9g |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205ek9g |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205ek9g |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -328,6 +361,7 @@ left |
 | name_no_size | Generic Ptfe Tube Connector Push Lock M6 |  
 | name_no_size_short | Generic Ptfe Tube Connector Push Lock M6 |  
 | name_no_type | Filament Generic Ptfe Tube Connector Push Lock M6 |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6 |  
 | oomp_word | envelope lock fire |  
 | oomp_word_emoji | :envelope: :lock: :fire: |  

@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Three D Printer Printing Low Quality Minute
+* name_short: 
 ### id
 * oomp_id: three_d_printer_printing_low_quality_minute
   * classification: three_d_printer
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :clipboard: :beetle: :shoe:
 * md5_6_alpha: 5jwko
 * md5_6: 8e50a8
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205jwko)
+[2x1](http://192.168.1.242:1112/?label=oomp%205jwko)
+[6x4](http://192.168.1.55:1112/?label=oomp%205jwko)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -255,7 +281,14 @@ lawn |
 | id_no_color | minute |  
 | id_no_size | minute |  
 | id_no_type | low_quality_minute |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printing_low_quality_minute |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printing_low_quality_minute |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205jwko |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205jwko |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205jwko |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -280,6 +313,7 @@ lawn |
 | name_no_size | Minute |  
 | name_no_size_short | Minute |  
 | name_no_type | Low Quality Minute |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_printing_low_quality_minute |  
 | oomp_word | clipboard beetle shoe |  
 | oomp_word_emoji | :clipboard: :beetle: :shoe: |  

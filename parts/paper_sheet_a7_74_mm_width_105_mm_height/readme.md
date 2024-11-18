@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Paper Sheet A7 74 mm Width 105 mm Height
+* name_short: 
 ### id
 * oomp_id: paper_sheet_a7_74_mm_width_105_mm_height
   * classification: paper
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :parking: :nose: :boat:
 * md5_6_alpha: 9vlk1
 * md5_6: fd27e1
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209vlk1)
+[2x1](http://192.168.1.242:1112/?label=oomp%209vlk1)
+[6x4](http://192.168.1.55:1112/?label=oomp%209vlk1)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -234,7 +260,14 @@ return |
 | id_no_color | a774mmwidth105mmheight |  
 | id_no_size | a7_74_mm_width_105_mm_height |  
 | id_no_type | a7_74_mm_width_105_mm_height |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a7_74_mm_width_105_mm_height |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209vlk1 |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209vlk1 |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209vlk1 |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -259,6 +292,7 @@ return |
 | name_no_size | A7 74 mm Width 105 mm Height |  
 | name_no_size_short | A7 74 Mm Width 105 Mm Height |  
 | name_no_type | A7 74 mm Width 105 mm Height |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a7_74_mm_width_105_mm_height |  
 | oomp_word | parking nose boat |  
 | oomp_word_emoji | :parking: :nose: :boat: |  

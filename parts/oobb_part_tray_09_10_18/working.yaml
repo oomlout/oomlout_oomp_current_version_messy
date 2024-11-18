@@ -1,3 +1,222 @@
+bip_39_word_dash_1: sad
+bip_39_word_dash_10: sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor
+bip_39_word_dash_11: sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor-taxi
+bip_39_word_dash_12: sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can-indoor-taxi-army
+bip_39_word_dash_2: sad-vehicle
+bip_39_word_dash_3: sad-vehicle-mansion
+bip_39_word_dash_4: sad-vehicle-mansion-pigeon
+bip_39_word_dash_5: sad-vehicle-mansion-pigeon-fruit
+bip_39_word_dash_6: sad-vehicle-mansion-pigeon-fruit-you
+bip_39_word_dash_7: sad-vehicle-mansion-pigeon-fruit-you-quick
+bip_39_word_dash_8: sad-vehicle-mansion-pigeon-fruit-you-quick-sweet
+bip_39_word_dash_9: sad-vehicle-mansion-pigeon-fruit-you-quick-sweet-can
+bip_39_word_new_br_1: sad
+bip_39_word_new_br_10: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor
+bip_39_word_new_br_11: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor<br>taxi
+bip_39_word_new_br_12: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can<br>indoor<br>taxi<br>army
+bip_39_word_new_br_2: sad<br>vehicle
+bip_39_word_new_br_3: sad<br>vehicle<br>mansion
+bip_39_word_new_br_4: sad<br>vehicle<br>mansion<br>pigeon
+bip_39_word_new_br_5: sad<br>vehicle<br>mansion<br>pigeon<br>fruit
+bip_39_word_new_br_6: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you
+bip_39_word_new_br_7: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick
+bip_39_word_new_br_8: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet
+bip_39_word_new_br_9: sad<br>vehicle<br>mansion<br>pigeon<br>fruit<br>you<br>quick<br>sweet<br>can
+bip_39_word_new_line_1: sad
+bip_39_word_new_line_10: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick
+
+  sweet
+
+  can
+
+  indoor'
+bip_39_word_new_line_11: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick
+
+  sweet
+
+  can
+
+  indoor
+
+  taxi'
+bip_39_word_new_line_12: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick
+
+  sweet
+
+  can
+
+  indoor
+
+  taxi
+
+  army'
+bip_39_word_new_line_2: 'sad
+
+  vehicle'
+bip_39_word_new_line_3: 'sad
+
+  vehicle
+
+  mansion'
+bip_39_word_new_line_4: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon'
+bip_39_word_new_line_5: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit'
+bip_39_word_new_line_6: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you'
+bip_39_word_new_line_7: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick'
+bip_39_word_new_line_8: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick
+
+  sweet'
+bip_39_word_new_line_9: 'sad
+
+  vehicle
+
+  mansion
+
+  pigeon
+
+  fruit
+
+  you
+
+  quick
+
+  sweet
+
+  can'
+bip_39_word_no_space_1: sad
+bip_39_word_no_space_10: sadvehiclemansionpigeonfruityouquicksweetcanindoor
+bip_39_word_no_space_11: sadvehiclemansionpigeonfruityouquicksweetcanindoortaxi
+bip_39_word_no_space_12: sadvehiclemansionpigeonfruityouquicksweetcanindoortaxiarmy
+bip_39_word_no_space_2: sadvehicle
+bip_39_word_no_space_3: sadvehiclemansion
+bip_39_word_no_space_4: sadvehiclemansionpigeon
+bip_39_word_no_space_5: sadvehiclemansionpigeonfruit
+bip_39_word_no_space_6: sadvehiclemansionpigeonfruityou
+bip_39_word_no_space_7: sadvehiclemansionpigeonfruityouquick
+bip_39_word_no_space_8: sadvehiclemansionpigeonfruityouquicksweet
+bip_39_word_no_space_9: sadvehiclemansionpigeonfruityouquicksweetcan
+bip_39_word_space_0:
+- sad
+- vehicle
+- mansion
+- pigeon
+- fruit
+- you
+- quick
+- sweet
+- can
+- indoor
+- taxi
+- army
+bip_39_word_space_1: sad
+bip_39_word_space_10: sad vehicle mansion pigeon fruit you quick sweet can indoor
+bip_39_word_space_11: sad vehicle mansion pigeon fruit you quick sweet can indoor
+  taxi
+bip_39_word_space_12: sad vehicle mansion pigeon fruit you quick sweet can indoor
+  taxi army
+bip_39_word_space_2: sad vehicle
+bip_39_word_space_3: sad vehicle mansion
+bip_39_word_space_4: sad vehicle mansion pigeon
+bip_39_word_space_5: sad vehicle mansion pigeon fruit
+bip_39_word_space_6: sad vehicle mansion pigeon fruit you
+bip_39_word_space_7: sad vehicle mansion pigeon fruit you quick
+bip_39_word_space_8: sad vehicle mansion pigeon fruit you quick sweet
+bip_39_word_space_9: sad vehicle mansion pigeon fruit you quick sweet can
+bip_39_word_underscore_1: sad
+bip_39_word_underscore_10: sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor
+bip_39_word_underscore_11: sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor_taxi
+bip_39_word_underscore_12: sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can_indoor_taxi_army
+bip_39_word_underscore_2: sad_vehicle
+bip_39_word_underscore_3: sad_vehicle_mansion
+bip_39_word_underscore_4: sad_vehicle_mansion_pigeon
+bip_39_word_underscore_5: sad_vehicle_mansion_pigeon_fruit
+bip_39_word_underscore_6: sad_vehicle_mansion_pigeon_fruit_you
+bip_39_word_underscore_7: sad_vehicle_mansion_pigeon_fruit_you_quick
+bip_39_word_underscore_8: sad_vehicle_mansion_pigeon_fruit_you_quick_sweet
+bip_39_word_underscore_9: sad_vehicle_mansion_pigeon_fruit_you_quick_sweet_can
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_09_10_18
 id_no_color: 091018
 id_no_size: 09_10_18
 id_no_type: tray_09_10_18
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_10_18
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_09_10_18
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_09_10_18
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207k4ws
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207k4ws
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207k4ws
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 091018
 name_no_size: 09 10 18
 name_no_size_short: 09 10 18
 name_no_type: Tray 09 10 18
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_09_10_18
 oomp_word: doughnut sushi factory
 oomp_word_emoji: ':doughnut: :sushi: :factory:'

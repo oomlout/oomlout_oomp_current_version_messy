@@ -1,3 +1,222 @@
+bip_39_word_dash_1: walnut
+bip_39_word_dash_10: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy
+bip_39_word_dash_11: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy-erupt
+bip_39_word_dash_12: walnut-horse-ocean-year-option-acid-explain-lecture-talent-galaxy-erupt-ask
+bip_39_word_dash_2: walnut-horse
+bip_39_word_dash_3: walnut-horse-ocean
+bip_39_word_dash_4: walnut-horse-ocean-year
+bip_39_word_dash_5: walnut-horse-ocean-year-option
+bip_39_word_dash_6: walnut-horse-ocean-year-option-acid
+bip_39_word_dash_7: walnut-horse-ocean-year-option-acid-explain
+bip_39_word_dash_8: walnut-horse-ocean-year-option-acid-explain-lecture
+bip_39_word_dash_9: walnut-horse-ocean-year-option-acid-explain-lecture-talent
+bip_39_word_new_br_1: walnut
+bip_39_word_new_br_10: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy
+bip_39_word_new_br_11: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt
+bip_39_word_new_br_12: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent<br>galaxy<br>erupt<br>ask
+bip_39_word_new_br_2: walnut<br>horse
+bip_39_word_new_br_3: walnut<br>horse<br>ocean
+bip_39_word_new_br_4: walnut<br>horse<br>ocean<br>year
+bip_39_word_new_br_5: walnut<br>horse<br>ocean<br>year<br>option
+bip_39_word_new_br_6: walnut<br>horse<br>ocean<br>year<br>option<br>acid
+bip_39_word_new_br_7: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain
+bip_39_word_new_br_8: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture
+bip_39_word_new_br_9: walnut<br>horse<br>ocean<br>year<br>option<br>acid<br>explain<br>lecture<br>talent
+bip_39_word_new_line_1: walnut
+bip_39_word_new_line_10: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy'
+bip_39_word_new_line_11: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy
+
+  erupt'
+bip_39_word_new_line_12: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent
+
+  galaxy
+
+  erupt
+
+  ask'
+bip_39_word_new_line_2: 'walnut
+
+  horse'
+bip_39_word_new_line_3: 'walnut
+
+  horse
+
+  ocean'
+bip_39_word_new_line_4: 'walnut
+
+  horse
+
+  ocean
+
+  year'
+bip_39_word_new_line_5: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option'
+bip_39_word_new_line_6: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid'
+bip_39_word_new_line_7: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain'
+bip_39_word_new_line_8: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture'
+bip_39_word_new_line_9: 'walnut
+
+  horse
+
+  ocean
+
+  year
+
+  option
+
+  acid
+
+  explain
+
+  lecture
+
+  talent'
+bip_39_word_no_space_1: walnut
+bip_39_word_no_space_10: walnuthorseoceanyearoptionacidexplainlecturetalentgalaxy
+bip_39_word_no_space_11: walnuthorseoceanyearoptionacidexplainlecturetalentgalaxyerupt
+bip_39_word_no_space_12: walnuthorseoceanyearoptionacidexplainlecturetalentgalaxyeruptask
+bip_39_word_no_space_2: walnuthorse
+bip_39_word_no_space_3: walnuthorseocean
+bip_39_word_no_space_4: walnuthorseoceanyear
+bip_39_word_no_space_5: walnuthorseoceanyearoption
+bip_39_word_no_space_6: walnuthorseoceanyearoptionacid
+bip_39_word_no_space_7: walnuthorseoceanyearoptionacidexplain
+bip_39_word_no_space_8: walnuthorseoceanyearoptionacidexplainlecture
+bip_39_word_no_space_9: walnuthorseoceanyearoptionacidexplainlecturetalent
+bip_39_word_space_0:
+- walnut
+- horse
+- ocean
+- year
+- option
+- acid
+- explain
+- lecture
+- talent
+- galaxy
+- erupt
+- ask
+bip_39_word_space_1: walnut
+bip_39_word_space_10: walnut horse ocean year option acid explain lecture talent galaxy
+bip_39_word_space_11: walnut horse ocean year option acid explain lecture talent galaxy
+  erupt
+bip_39_word_space_12: walnut horse ocean year option acid explain lecture talent galaxy
+  erupt ask
+bip_39_word_space_2: walnut horse
+bip_39_word_space_3: walnut horse ocean
+bip_39_word_space_4: walnut horse ocean year
+bip_39_word_space_5: walnut horse ocean year option
+bip_39_word_space_6: walnut horse ocean year option acid
+bip_39_word_space_7: walnut horse ocean year option acid explain
+bip_39_word_space_8: walnut horse ocean year option acid explain lecture
+bip_39_word_space_9: walnut horse ocean year option acid explain lecture talent
+bip_39_word_underscore_1: walnut
+bip_39_word_underscore_10: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy
+bip_39_word_underscore_11: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy_erupt
+bip_39_word_underscore_12: walnut_horse_ocean_year_option_acid_explain_lecture_talent_galaxy_erupt_ask
+bip_39_word_underscore_2: walnut_horse
+bip_39_word_underscore_3: walnut_horse_ocean
+bip_39_word_underscore_4: walnut_horse_ocean_year
+bip_39_word_underscore_5: walnut_horse_ocean_year_option
+bip_39_word_underscore_6: walnut_horse_ocean_year_option_acid
+bip_39_word_underscore_7: walnut_horse_ocean_year_option_acid_explain
+bip_39_word_underscore_8: walnut_horse_ocean_year_option_acid_explain_lecture
+bip_39_word_underscore_9: walnut_horse_ocean_year_option_acid_explain_lecture_talent
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_15_09_12
 id_no_color: '150912'
 id_no_size: '15_09_12'
 id_no_type: tray_thin_15_09_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_09_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_15_09_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_15_09_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ams7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ams7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ams7
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '150912'
 name_no_size: 15 09 12
 name_no_size_short: 15 09 12
 name_no_type: Tray Thin 15 09 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_15_09_12
 oomp_word: corn bowling office
 oomp_word_emoji: ':corn: :bowling: :office:'

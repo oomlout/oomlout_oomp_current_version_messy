@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomlout Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :school: :scissors: :heart:
 * md5_6_alpha: 8ddzh
 * md5_6: d6900d
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208ddzh)
+[2x1](http://192.168.1.242:1112/?label=oomp%208ddzh)
+[6x4](http://192.168.1.55:1112/?label=oomp%208ddzh)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ summer |
 | id_no_color | oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
 | id_no_size | oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
 | id_no_type | oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208ddzh |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208ddzh |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208ddzh |  
 | link_redirect | https://github.com/oomlout/oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ summer |
 | name_no_size | Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
 | name_no_size_short | Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
 | name_no_type | Oomlout Oomlout Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
 | oomp_word | school scissors heart |  
 | oomp_word_emoji | :school: :scissors: :heart: |  

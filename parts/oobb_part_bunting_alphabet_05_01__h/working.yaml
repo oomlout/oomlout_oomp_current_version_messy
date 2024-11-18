@@ -1,3 +1,222 @@
+bip_39_word_dash_1: measure
+bip_39_word_dash_10: measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand
+bip_39_word_dash_11: measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand-ankle
+bip_39_word_dash_12: measure-wall-critic-harvest-polar-away-quote-sudden-abuse-demand-ankle-adapt
+bip_39_word_dash_2: measure-wall
+bip_39_word_dash_3: measure-wall-critic
+bip_39_word_dash_4: measure-wall-critic-harvest
+bip_39_word_dash_5: measure-wall-critic-harvest-polar
+bip_39_word_dash_6: measure-wall-critic-harvest-polar-away
+bip_39_word_dash_7: measure-wall-critic-harvest-polar-away-quote
+bip_39_word_dash_8: measure-wall-critic-harvest-polar-away-quote-sudden
+bip_39_word_dash_9: measure-wall-critic-harvest-polar-away-quote-sudden-abuse
+bip_39_word_new_br_1: measure
+bip_39_word_new_br_10: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand
+bip_39_word_new_br_11: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle
+bip_39_word_new_br_12: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse<br>demand<br>ankle<br>adapt
+bip_39_word_new_br_2: measure<br>wall
+bip_39_word_new_br_3: measure<br>wall<br>critic
+bip_39_word_new_br_4: measure<br>wall<br>critic<br>harvest
+bip_39_word_new_br_5: measure<br>wall<br>critic<br>harvest<br>polar
+bip_39_word_new_br_6: measure<br>wall<br>critic<br>harvest<br>polar<br>away
+bip_39_word_new_br_7: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote
+bip_39_word_new_br_8: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden
+bip_39_word_new_br_9: measure<br>wall<br>critic<br>harvest<br>polar<br>away<br>quote<br>sudden<br>abuse
+bip_39_word_new_line_1: measure
+bip_39_word_new_line_10: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand'
+bip_39_word_new_line_11: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand
+
+  ankle'
+bip_39_word_new_line_12: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse
+
+  demand
+
+  ankle
+
+  adapt'
+bip_39_word_new_line_2: 'measure
+
+  wall'
+bip_39_word_new_line_3: 'measure
+
+  wall
+
+  critic'
+bip_39_word_new_line_4: 'measure
+
+  wall
+
+  critic
+
+  harvest'
+bip_39_word_new_line_5: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar'
+bip_39_word_new_line_6: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away'
+bip_39_word_new_line_7: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote'
+bip_39_word_new_line_8: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden'
+bip_39_word_new_line_9: 'measure
+
+  wall
+
+  critic
+
+  harvest
+
+  polar
+
+  away
+
+  quote
+
+  sudden
+
+  abuse'
+bip_39_word_no_space_1: measure
+bip_39_word_no_space_10: measurewallcriticharvestpolarawayquotesuddenabusedemand
+bip_39_word_no_space_11: measurewallcriticharvestpolarawayquotesuddenabusedemandankle
+bip_39_word_no_space_12: measurewallcriticharvestpolarawayquotesuddenabusedemandankleadapt
+bip_39_word_no_space_2: measurewall
+bip_39_word_no_space_3: measurewallcritic
+bip_39_word_no_space_4: measurewallcriticharvest
+bip_39_word_no_space_5: measurewallcriticharvestpolar
+bip_39_word_no_space_6: measurewallcriticharvestpolaraway
+bip_39_word_no_space_7: measurewallcriticharvestpolarawayquote
+bip_39_word_no_space_8: measurewallcriticharvestpolarawayquotesudden
+bip_39_word_no_space_9: measurewallcriticharvestpolarawayquotesuddenabuse
+bip_39_word_space_0:
+- measure
+- wall
+- critic
+- harvest
+- polar
+- away
+- quote
+- sudden
+- abuse
+- demand
+- ankle
+- adapt
+bip_39_word_space_1: measure
+bip_39_word_space_10: measure wall critic harvest polar away quote sudden abuse demand
+bip_39_word_space_11: measure wall critic harvest polar away quote sudden abuse demand
+  ankle
+bip_39_word_space_12: measure wall critic harvest polar away quote sudden abuse demand
+  ankle adapt
+bip_39_word_space_2: measure wall
+bip_39_word_space_3: measure wall critic
+bip_39_word_space_4: measure wall critic harvest
+bip_39_word_space_5: measure wall critic harvest polar
+bip_39_word_space_6: measure wall critic harvest polar away
+bip_39_word_space_7: measure wall critic harvest polar away quote
+bip_39_word_space_8: measure wall critic harvest polar away quote sudden
+bip_39_word_space_9: measure wall critic harvest polar away quote sudden abuse
+bip_39_word_underscore_1: measure
+bip_39_word_underscore_10: measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand
+bip_39_word_underscore_11: measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand_ankle
+bip_39_word_underscore_12: measure_wall_critic_harvest_polar_away_quote_sudden_abuse_demand_ankle_adapt
+bip_39_word_underscore_2: measure_wall
+bip_39_word_underscore_3: measure_wall_critic
+bip_39_word_underscore_4: measure_wall_critic_harvest
+bip_39_word_underscore_5: measure_wall_critic_harvest_polar
+bip_39_word_underscore_6: measure_wall_critic_harvest_polar_away
+bip_39_word_underscore_7: measure_wall_critic_harvest_polar_away_quote
+bip_39_word_underscore_8: measure_wall_critic_harvest_polar_away_quote_sudden
+bip_39_word_underscore_9: measure_wall_critic_harvest_polar_away_quote_sudden_abuse
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +325,14 @@ id_no_class: part_bunting_alphabet_05_01__h
 id_no_color: 0501h
 id_no_size: 05_01__h
 id_no_type: bunting_alphabet_05_01__h
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__h
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_05_01__h
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_05_01__h
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201vivi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201vivi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201vivi
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +358,7 @@ name_no_color: 0501H
 name_no_size: 05 01  H
 name_no_size_short: 05 01  H
 name_no_type: Bunting Alphabet 05 01  H
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__h
 oomp_word: foggy anger honeybee
 oomp_word_emoji: ':foggy: :anger: :honeybee:'

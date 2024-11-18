@@ -1,3 +1,222 @@
+bip_39_word_dash_1: tongue
+bip_39_word_dash_10: tongue-quit-vague-bacon-zebra-truth-hire-venture-unfair-deputy
+bip_39_word_dash_11: tongue-quit-vague-bacon-zebra-truth-hire-venture-unfair-deputy-exotic
+bip_39_word_dash_12: tongue-quit-vague-bacon-zebra-truth-hire-venture-unfair-deputy-exotic-alone
+bip_39_word_dash_2: tongue-quit
+bip_39_word_dash_3: tongue-quit-vague
+bip_39_word_dash_4: tongue-quit-vague-bacon
+bip_39_word_dash_5: tongue-quit-vague-bacon-zebra
+bip_39_word_dash_6: tongue-quit-vague-bacon-zebra-truth
+bip_39_word_dash_7: tongue-quit-vague-bacon-zebra-truth-hire
+bip_39_word_dash_8: tongue-quit-vague-bacon-zebra-truth-hire-venture
+bip_39_word_dash_9: tongue-quit-vague-bacon-zebra-truth-hire-venture-unfair
+bip_39_word_new_br_1: tongue
+bip_39_word_new_br_10: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire<br>venture<br>unfair<br>deputy
+bip_39_word_new_br_11: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire<br>venture<br>unfair<br>deputy<br>exotic
+bip_39_word_new_br_12: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire<br>venture<br>unfair<br>deputy<br>exotic<br>alone
+bip_39_word_new_br_2: tongue<br>quit
+bip_39_word_new_br_3: tongue<br>quit<br>vague
+bip_39_word_new_br_4: tongue<br>quit<br>vague<br>bacon
+bip_39_word_new_br_5: tongue<br>quit<br>vague<br>bacon<br>zebra
+bip_39_word_new_br_6: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth
+bip_39_word_new_br_7: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire
+bip_39_word_new_br_8: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire<br>venture
+bip_39_word_new_br_9: tongue<br>quit<br>vague<br>bacon<br>zebra<br>truth<br>hire<br>venture<br>unfair
+bip_39_word_new_line_1: tongue
+bip_39_word_new_line_10: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire
+
+  venture
+
+  unfair
+
+  deputy'
+bip_39_word_new_line_11: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire
+
+  venture
+
+  unfair
+
+  deputy
+
+  exotic'
+bip_39_word_new_line_12: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire
+
+  venture
+
+  unfair
+
+  deputy
+
+  exotic
+
+  alone'
+bip_39_word_new_line_2: 'tongue
+
+  quit'
+bip_39_word_new_line_3: 'tongue
+
+  quit
+
+  vague'
+bip_39_word_new_line_4: 'tongue
+
+  quit
+
+  vague
+
+  bacon'
+bip_39_word_new_line_5: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra'
+bip_39_word_new_line_6: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth'
+bip_39_word_new_line_7: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire'
+bip_39_word_new_line_8: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire
+
+  venture'
+bip_39_word_new_line_9: 'tongue
+
+  quit
+
+  vague
+
+  bacon
+
+  zebra
+
+  truth
+
+  hire
+
+  venture
+
+  unfair'
+bip_39_word_no_space_1: tongue
+bip_39_word_no_space_10: tonguequitvaguebaconzebratruthhireventureunfairdeputy
+bip_39_word_no_space_11: tonguequitvaguebaconzebratruthhireventureunfairdeputyexotic
+bip_39_word_no_space_12: tonguequitvaguebaconzebratruthhireventureunfairdeputyexoticalone
+bip_39_word_no_space_2: tonguequit
+bip_39_word_no_space_3: tonguequitvague
+bip_39_word_no_space_4: tonguequitvaguebacon
+bip_39_word_no_space_5: tonguequitvaguebaconzebra
+bip_39_word_no_space_6: tonguequitvaguebaconzebratruth
+bip_39_word_no_space_7: tonguequitvaguebaconzebratruthhire
+bip_39_word_no_space_8: tonguequitvaguebaconzebratruthhireventure
+bip_39_word_no_space_9: tonguequitvaguebaconzebratruthhireventureunfair
+bip_39_word_space_0:
+- tongue
+- quit
+- vague
+- bacon
+- zebra
+- truth
+- hire
+- venture
+- unfair
+- deputy
+- exotic
+- alone
+bip_39_word_space_1: tongue
+bip_39_word_space_10: tongue quit vague bacon zebra truth hire venture unfair deputy
+bip_39_word_space_11: tongue quit vague bacon zebra truth hire venture unfair deputy
+  exotic
+bip_39_word_space_12: tongue quit vague bacon zebra truth hire venture unfair deputy
+  exotic alone
+bip_39_word_space_2: tongue quit
+bip_39_word_space_3: tongue quit vague
+bip_39_word_space_4: tongue quit vague bacon
+bip_39_word_space_5: tongue quit vague bacon zebra
+bip_39_word_space_6: tongue quit vague bacon zebra truth
+bip_39_word_space_7: tongue quit vague bacon zebra truth hire
+bip_39_word_space_8: tongue quit vague bacon zebra truth hire venture
+bip_39_word_space_9: tongue quit vague bacon zebra truth hire venture unfair
+bip_39_word_underscore_1: tongue
+bip_39_word_underscore_10: tongue_quit_vague_bacon_zebra_truth_hire_venture_unfair_deputy
+bip_39_word_underscore_11: tongue_quit_vague_bacon_zebra_truth_hire_venture_unfair_deputy_exotic
+bip_39_word_underscore_12: tongue_quit_vague_bacon_zebra_truth_hire_venture_unfair_deputy_exotic_alone
+bip_39_word_underscore_2: tongue_quit
+bip_39_word_underscore_3: tongue_quit_vague
+bip_39_word_underscore_4: tongue_quit_vague_bacon
+bip_39_word_underscore_5: tongue_quit_vague_bacon_zebra
+bip_39_word_underscore_6: tongue_quit_vague_bacon_zebra_truth
+bip_39_word_underscore_7: tongue_quit_vague_bacon_zebra_truth_hire
+bip_39_word_underscore_8: tongue_quit_vague_bacon_zebra_truth_hire_venture
+bip_39_word_underscore_9: tongue_quit_vague_bacon_zebra_truth_hire_venture_unfair
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_01_1d5_30
 id_no_color: 011d530
 id_no_size: 01_1d5_30
 id_no_type: tray_thin_01_1d5_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_1d5_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_01_1d5_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_01_1d5_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204be32
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204be32
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204be32
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 011D530
 name_no_size: 01 1D5 30
 name_no_size_short: 01 1D5 30
 name_no_type: Tray Thin 01 1D5 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_01_1d5_30
 oomp_word: new_moon ring cupid
 oomp_word_emoji: ':new_moon: :ring: :cupid:'

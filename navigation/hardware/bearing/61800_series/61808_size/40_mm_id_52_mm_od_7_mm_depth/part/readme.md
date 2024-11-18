@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 61800 Series 61808 Size 40 mm ID 52 mm OD 7 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth
   * classification: hardware
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :rainbow: :watch: :ring:
 * md5_6_alpha: 8ojog
 * md5_6: de81a0
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%208ojog)
+[2x1](http://192.168.1.242:1112/?label=oomp%208ojog)
+[6x4](http://192.168.1.55:1112/?label=oomp%208ojog)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -281,7 +307,14 @@ start |
 | id_no_color | 40_mm_id_52_mm_od_7_mm_depth |  
 | id_no_size | 61808_size_40_mm_id_52_mm_od_7_mm_depth |  
 | id_no_type | 61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208ojog |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%208ojog |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%208ojog |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
 | manufacturer_first_letter |  |  
@@ -306,6 +339,7 @@ start |
 | name_no_size | 61808 Size 40 mm ID 52 mm OD 7 mm Depth |  
 | name_no_size_short | 61808 Size 40 Mm Id 52 Mm Od 7 Mm Depth |  
 | name_no_type | 61800 Series 61808 Size 40 mm ID 52 mm OD 7 mm Depth |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61808 |  
 | oomlout_short_code_upper | BR61808 |  
 | oomp_key | oomp_hardware_bearing_61800_series_61808_size_40_mm_id_52_mm_od_7_mm_depth |  

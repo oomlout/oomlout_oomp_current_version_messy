@@ -1,3 +1,223 @@
+bip_39_word_dash_1: square
+bip_39_word_dash_10: square-claim-capable-always-amused-saddle-resource-city-health-year
+bip_39_word_dash_11: square-claim-capable-always-amused-saddle-resource-city-health-year-insect
+bip_39_word_dash_12: square-claim-capable-always-amused-saddle-resource-city-health-year-insect-antique
+bip_39_word_dash_2: square-claim
+bip_39_word_dash_3: square-claim-capable
+bip_39_word_dash_4: square-claim-capable-always
+bip_39_word_dash_5: square-claim-capable-always-amused
+bip_39_word_dash_6: square-claim-capable-always-amused-saddle
+bip_39_word_dash_7: square-claim-capable-always-amused-saddle-resource
+bip_39_word_dash_8: square-claim-capable-always-amused-saddle-resource-city
+bip_39_word_dash_9: square-claim-capable-always-amused-saddle-resource-city-health
+bip_39_word_new_br_1: square
+bip_39_word_new_br_10: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health<br>year
+bip_39_word_new_br_11: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health<br>year<br>insect
+bip_39_word_new_br_12: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health<br>year<br>insect<br>antique
+bip_39_word_new_br_2: square<br>claim
+bip_39_word_new_br_3: square<br>claim<br>capable
+bip_39_word_new_br_4: square<br>claim<br>capable<br>always
+bip_39_word_new_br_5: square<br>claim<br>capable<br>always<br>amused
+bip_39_word_new_br_6: square<br>claim<br>capable<br>always<br>amused<br>saddle
+bip_39_word_new_br_7: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource
+bip_39_word_new_br_8: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city
+bip_39_word_new_br_9: square<br>claim<br>capable<br>always<br>amused<br>saddle<br>resource<br>city<br>health
+bip_39_word_new_line_1: square
+bip_39_word_new_line_10: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource
+
+  city
+
+  health
+
+  year'
+bip_39_word_new_line_11: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource
+
+  city
+
+  health
+
+  year
+
+  insect'
+bip_39_word_new_line_12: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource
+
+  city
+
+  health
+
+  year
+
+  insect
+
+  antique'
+bip_39_word_new_line_2: 'square
+
+  claim'
+bip_39_word_new_line_3: 'square
+
+  claim
+
+  capable'
+bip_39_word_new_line_4: 'square
+
+  claim
+
+  capable
+
+  always'
+bip_39_word_new_line_5: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused'
+bip_39_word_new_line_6: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle'
+bip_39_word_new_line_7: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource'
+bip_39_word_new_line_8: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource
+
+  city'
+bip_39_word_new_line_9: 'square
+
+  claim
+
+  capable
+
+  always
+
+  amused
+
+  saddle
+
+  resource
+
+  city
+
+  health'
+bip_39_word_no_space_1: square
+bip_39_word_no_space_10: squareclaimcapablealwaysamusedsaddleresourcecityhealthyear
+bip_39_word_no_space_11: squareclaimcapablealwaysamusedsaddleresourcecityhealthyearinsect
+bip_39_word_no_space_12: squareclaimcapablealwaysamusedsaddleresourcecityhealthyearinsectantique
+bip_39_word_no_space_2: squareclaim
+bip_39_word_no_space_3: squareclaimcapable
+bip_39_word_no_space_4: squareclaimcapablealways
+bip_39_word_no_space_5: squareclaimcapablealwaysamused
+bip_39_word_no_space_6: squareclaimcapablealwaysamusedsaddle
+bip_39_word_no_space_7: squareclaimcapablealwaysamusedsaddleresource
+bip_39_word_no_space_8: squareclaimcapablealwaysamusedsaddleresourcecity
+bip_39_word_no_space_9: squareclaimcapablealwaysamusedsaddleresourcecityhealth
+bip_39_word_space_0:
+- square
+- claim
+- capable
+- always
+- amused
+- saddle
+- resource
+- city
+- health
+- year
+- insect
+- antique
+bip_39_word_space_1: square
+bip_39_word_space_10: square claim capable always amused saddle resource city health
+  year
+bip_39_word_space_11: square claim capable always amused saddle resource city health
+  year insect
+bip_39_word_space_12: square claim capable always amused saddle resource city health
+  year insect antique
+bip_39_word_space_2: square claim
+bip_39_word_space_3: square claim capable
+bip_39_word_space_4: square claim capable always
+bip_39_word_space_5: square claim capable always amused
+bip_39_word_space_6: square claim capable always amused saddle
+bip_39_word_space_7: square claim capable always amused saddle resource
+bip_39_word_space_8: square claim capable always amused saddle resource city
+bip_39_word_space_9: square claim capable always amused saddle resource city health
+bip_39_word_underscore_1: square
+bip_39_word_underscore_10: square_claim_capable_always_amused_saddle_resource_city_health_year
+bip_39_word_underscore_11: square_claim_capable_always_amused_saddle_resource_city_health_year_insect
+bip_39_word_underscore_12: square_claim_capable_always_amused_saddle_resource_city_health_year_insect_antique
+bip_39_word_underscore_2: square_claim
+bip_39_word_underscore_3: square_claim_capable
+bip_39_word_underscore_4: square_claim_capable_always
+bip_39_word_underscore_5: square_claim_capable_always_amused
+bip_39_word_underscore_6: square_claim_capable_always_amused_saddle
+bip_39_word_underscore_7: square_claim_capable_always_amused_saddle_resource
+bip_39_word_underscore_8: square_claim_capable_always_amused_saddle_resource_city
+bip_39_word_underscore_9: square_claim_capable_always_amused_saddle_resource_city_health
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +326,14 @@ id_no_class: part_bunting_alphabet_07_01__n
 id_no_color: 0701n
 id_no_size: 07_01__n
 id_no_type: bunting_alphabet_07_01__n
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__n
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_07_01__n
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_bunting_alphabet_07_01__n
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20677zz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20677zz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20677zz
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +359,7 @@ name_no_color: 0701N
 name_no_size: 07 01  N
 name_no_size_short: 07 01  N
 name_no_type: Bunting Alphabet 07 01  N
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_07_01__n
 oomp_word: clubs tractor horse
 oomp_word_emoji: ':clubs: :tractor: :horse:'

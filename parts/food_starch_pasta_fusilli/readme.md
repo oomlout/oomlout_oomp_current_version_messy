@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 pasta_fusilli
 
+### name
+* name: Food Starch Pasta Fusilli
+* name_short: Pasta Fusilli
 ### id
 * oomp_id: food_starch_pasta_fusilli
   * classification: food

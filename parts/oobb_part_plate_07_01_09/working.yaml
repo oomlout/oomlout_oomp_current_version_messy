@@ -1,3 +1,222 @@
+bip_39_word_dash_1: fiscal
+bip_39_word_dash_10: fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit
+bip_39_word_dash_11: fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit-mesh
+bip_39_word_dash_12: fiscal-jealous-heart-radar-tobacco-age-piano-child-address-submit-mesh-another
+bip_39_word_dash_2: fiscal-jealous
+bip_39_word_dash_3: fiscal-jealous-heart
+bip_39_word_dash_4: fiscal-jealous-heart-radar
+bip_39_word_dash_5: fiscal-jealous-heart-radar-tobacco
+bip_39_word_dash_6: fiscal-jealous-heart-radar-tobacco-age
+bip_39_word_dash_7: fiscal-jealous-heart-radar-tobacco-age-piano
+bip_39_word_dash_8: fiscal-jealous-heart-radar-tobacco-age-piano-child
+bip_39_word_dash_9: fiscal-jealous-heart-radar-tobacco-age-piano-child-address
+bip_39_word_new_br_1: fiscal
+bip_39_word_new_br_10: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit
+bip_39_word_new_br_11: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh
+bip_39_word_new_br_12: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address<br>submit<br>mesh<br>another
+bip_39_word_new_br_2: fiscal<br>jealous
+bip_39_word_new_br_3: fiscal<br>jealous<br>heart
+bip_39_word_new_br_4: fiscal<br>jealous<br>heart<br>radar
+bip_39_word_new_br_5: fiscal<br>jealous<br>heart<br>radar<br>tobacco
+bip_39_word_new_br_6: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age
+bip_39_word_new_br_7: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano
+bip_39_word_new_br_8: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child
+bip_39_word_new_br_9: fiscal<br>jealous<br>heart<br>radar<br>tobacco<br>age<br>piano<br>child<br>address
+bip_39_word_new_line_1: fiscal
+bip_39_word_new_line_10: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit'
+bip_39_word_new_line_11: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit
+
+  mesh'
+bip_39_word_new_line_12: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address
+
+  submit
+
+  mesh
+
+  another'
+bip_39_word_new_line_2: 'fiscal
+
+  jealous'
+bip_39_word_new_line_3: 'fiscal
+
+  jealous
+
+  heart'
+bip_39_word_new_line_4: 'fiscal
+
+  jealous
+
+  heart
+
+  radar'
+bip_39_word_new_line_5: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco'
+bip_39_word_new_line_6: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age'
+bip_39_word_new_line_7: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano'
+bip_39_word_new_line_8: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child'
+bip_39_word_new_line_9: 'fiscal
+
+  jealous
+
+  heart
+
+  radar
+
+  tobacco
+
+  age
+
+  piano
+
+  child
+
+  address'
+bip_39_word_no_space_1: fiscal
+bip_39_word_no_space_10: fiscaljealousheartradartobaccoagepianochildaddresssubmit
+bip_39_word_no_space_11: fiscaljealousheartradartobaccoagepianochildaddresssubmitmesh
+bip_39_word_no_space_12: fiscaljealousheartradartobaccoagepianochildaddresssubmitmeshanother
+bip_39_word_no_space_2: fiscaljealous
+bip_39_word_no_space_3: fiscaljealousheart
+bip_39_word_no_space_4: fiscaljealousheartradar
+bip_39_word_no_space_5: fiscaljealousheartradartobacco
+bip_39_word_no_space_6: fiscaljealousheartradartobaccoage
+bip_39_word_no_space_7: fiscaljealousheartradartobaccoagepiano
+bip_39_word_no_space_8: fiscaljealousheartradartobaccoagepianochild
+bip_39_word_no_space_9: fiscaljealousheartradartobaccoagepianochildaddress
+bip_39_word_space_0:
+- fiscal
+- jealous
+- heart
+- radar
+- tobacco
+- age
+- piano
+- child
+- address
+- submit
+- mesh
+- another
+bip_39_word_space_1: fiscal
+bip_39_word_space_10: fiscal jealous heart radar tobacco age piano child address submit
+bip_39_word_space_11: fiscal jealous heart radar tobacco age piano child address submit
+  mesh
+bip_39_word_space_12: fiscal jealous heart radar tobacco age piano child address submit
+  mesh another
+bip_39_word_space_2: fiscal jealous
+bip_39_word_space_3: fiscal jealous heart
+bip_39_word_space_4: fiscal jealous heart radar
+bip_39_word_space_5: fiscal jealous heart radar tobacco
+bip_39_word_space_6: fiscal jealous heart radar tobacco age
+bip_39_word_space_7: fiscal jealous heart radar tobacco age piano
+bip_39_word_space_8: fiscal jealous heart radar tobacco age piano child
+bip_39_word_space_9: fiscal jealous heart radar tobacco age piano child address
+bip_39_word_underscore_1: fiscal
+bip_39_word_underscore_10: fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit
+bip_39_word_underscore_11: fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit_mesh
+bip_39_word_underscore_12: fiscal_jealous_heart_radar_tobacco_age_piano_child_address_submit_mesh_another
+bip_39_word_underscore_2: fiscal_jealous
+bip_39_word_underscore_3: fiscal_jealous_heart
+bip_39_word_underscore_4: fiscal_jealous_heart_radar
+bip_39_word_underscore_5: fiscal_jealous_heart_radar_tobacco
+bip_39_word_underscore_6: fiscal_jealous_heart_radar_tobacco_age
+bip_39_word_underscore_7: fiscal_jealous_heart_radar_tobacco_age_piano
+bip_39_word_underscore_8: fiscal_jealous_heart_radar_tobacco_age_piano_child
+bip_39_word_underscore_9: fiscal_jealous_heart_radar_tobacco_age_piano_child_address
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_plate_07_01_09
 id_no_color: 070109
 id_no_size: 07_01_09
 id_no_type: plate_07_01_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_07_01_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_plate_07_01_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205z1km
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205z1km
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205z1km
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 070109
 name_no_size: 07 01 09
 name_no_size_short: 07 01 09
 name_no_type: Plate 07 01 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_07_01_09
 oomp_word: bowling thumbsdown beer
 oomp_word_emoji: ':bowling: :thumbsdown: :beer:'

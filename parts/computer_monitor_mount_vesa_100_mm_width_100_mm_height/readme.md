@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Computer Monitor Mount Vesa 100 mm Width 100 mm Height
+* name_short: 
 ### id
 * oomp_id: computer_monitor_mount_vesa_100_mm_width_100_mm_height
   * classification: computer

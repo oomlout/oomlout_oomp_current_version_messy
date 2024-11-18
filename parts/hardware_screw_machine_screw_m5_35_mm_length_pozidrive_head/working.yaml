@@ -1,3 +1,221 @@
+bip_39_word_dash_1: they
+bip_39_word_dash_10: they-setup-apple-sting-pen-pact-begin-digital-sign-below
+bip_39_word_dash_11: they-setup-apple-sting-pen-pact-begin-digital-sign-below-question
+bip_39_word_dash_12: they-setup-apple-sting-pen-pact-begin-digital-sign-below-question-alter
+bip_39_word_dash_2: they-setup
+bip_39_word_dash_3: they-setup-apple
+bip_39_word_dash_4: they-setup-apple-sting
+bip_39_word_dash_5: they-setup-apple-sting-pen
+bip_39_word_dash_6: they-setup-apple-sting-pen-pact
+bip_39_word_dash_7: they-setup-apple-sting-pen-pact-begin
+bip_39_word_dash_8: they-setup-apple-sting-pen-pact-begin-digital
+bip_39_word_dash_9: they-setup-apple-sting-pen-pact-begin-digital-sign
+bip_39_word_new_br_1: they
+bip_39_word_new_br_10: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below
+bip_39_word_new_br_11: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question
+bip_39_word_new_br_12: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign<br>below<br>question<br>alter
+bip_39_word_new_br_2: they<br>setup
+bip_39_word_new_br_3: they<br>setup<br>apple
+bip_39_word_new_br_4: they<br>setup<br>apple<br>sting
+bip_39_word_new_br_5: they<br>setup<br>apple<br>sting<br>pen
+bip_39_word_new_br_6: they<br>setup<br>apple<br>sting<br>pen<br>pact
+bip_39_word_new_br_7: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin
+bip_39_word_new_br_8: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital
+bip_39_word_new_br_9: they<br>setup<br>apple<br>sting<br>pen<br>pact<br>begin<br>digital<br>sign
+bip_39_word_new_line_1: they
+bip_39_word_new_line_10: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin
+
+  digital
+
+  sign
+
+  below'
+bip_39_word_new_line_11: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin
+
+  digital
+
+  sign
+
+  below
+
+  question'
+bip_39_word_new_line_12: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin
+
+  digital
+
+  sign
+
+  below
+
+  question
+
+  alter'
+bip_39_word_new_line_2: 'they
+
+  setup'
+bip_39_word_new_line_3: 'they
+
+  setup
+
+  apple'
+bip_39_word_new_line_4: 'they
+
+  setup
+
+  apple
+
+  sting'
+bip_39_word_new_line_5: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen'
+bip_39_word_new_line_6: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact'
+bip_39_word_new_line_7: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin'
+bip_39_word_new_line_8: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin
+
+  digital'
+bip_39_word_new_line_9: 'they
+
+  setup
+
+  apple
+
+  sting
+
+  pen
+
+  pact
+
+  begin
+
+  digital
+
+  sign'
+bip_39_word_no_space_1: they
+bip_39_word_no_space_10: theysetupapplestingpenpactbegindigitalsignbelow
+bip_39_word_no_space_11: theysetupapplestingpenpactbegindigitalsignbelowquestion
+bip_39_word_no_space_12: theysetupapplestingpenpactbegindigitalsignbelowquestionalter
+bip_39_word_no_space_2: theysetup
+bip_39_word_no_space_3: theysetupapple
+bip_39_word_no_space_4: theysetupapplesting
+bip_39_word_no_space_5: theysetupapplestingpen
+bip_39_word_no_space_6: theysetupapplestingpenpact
+bip_39_word_no_space_7: theysetupapplestingpenpactbegin
+bip_39_word_no_space_8: theysetupapplestingpenpactbegindigital
+bip_39_word_no_space_9: theysetupapplestingpenpactbegindigitalsign
+bip_39_word_space_0:
+- they
+- setup
+- apple
+- sting
+- pen
+- pact
+- begin
+- digital
+- sign
+- below
+- question
+- alter
+bip_39_word_space_1: they
+bip_39_word_space_10: they setup apple sting pen pact begin digital sign below
+bip_39_word_space_11: they setup apple sting pen pact begin digital sign below question
+bip_39_word_space_12: they setup apple sting pen pact begin digital sign below question
+  alter
+bip_39_word_space_2: they setup
+bip_39_word_space_3: they setup apple
+bip_39_word_space_4: they setup apple sting
+bip_39_word_space_5: they setup apple sting pen
+bip_39_word_space_6: they setup apple sting pen pact
+bip_39_word_space_7: they setup apple sting pen pact begin
+bip_39_word_space_8: they setup apple sting pen pact begin digital
+bip_39_word_space_9: they setup apple sting pen pact begin digital sign
+bip_39_word_underscore_1: they
+bip_39_word_underscore_10: they_setup_apple_sting_pen_pact_begin_digital_sign_below
+bip_39_word_underscore_11: they_setup_apple_sting_pen_pact_begin_digital_sign_below_question
+bip_39_word_underscore_12: they_setup_apple_sting_pen_pact_begin_digital_sign_below_question_alter
+bip_39_word_underscore_2: they_setup
+bip_39_word_underscore_3: they_setup_apple
+bip_39_word_underscore_4: they_setup_apple_sting
+bip_39_word_underscore_5: they_setup_apple_sting_pen
+bip_39_word_underscore_6: they_setup_apple_sting_pen_pact
+bip_39_word_underscore_7: they_setup_apple_sting_pen_pact_begin
+bip_39_word_underscore_8: they_setup_apple_sting_pen_pact_begin_digital
+bip_39_word_underscore_9: they_setup_apple_sting_pen_pact_begin_digital_sign
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
@@ -109,7 +327,14 @@ id_no_color: 35mmlengthpozidrivehead
 id_no_size: 35_mm_length_pozidrive_head
 id_no_type: m5_35_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m5_35_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_machine_screw_m5_35_mm_length_pozidrive_head
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_machine_screw_m5_35_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204nocl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204nocl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204nocl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -135,6 +360,9 @@ name_no_color: 35mmlengthpozidrivehead
 name_no_size: 35 mm Length Pozidrive Head
 name_no_size_short: 35 Mm Length Pozidrive Head
 name_no_type: M5 35 mm Length Pozidrive Head
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: ms5m35pz
+oomlout_short_code_upper: MS5M35PZ
 oomp_key: oomp_hardware_screw_machine_screw_m5_35_mm_length_pozidrive_head
 oomp_word: gift leopard kissing
 oomp_word_emoji: ':gift: :leopard: :kissing:'

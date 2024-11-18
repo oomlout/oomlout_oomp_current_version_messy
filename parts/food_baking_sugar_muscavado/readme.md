@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 sugar_muscavado
 
+### name
+* name: Food Baking Sugar Muscavado
+* name_short: Sugar Muscavado
 ### id
 * oomp_id: food_baking_sugar_muscavado
   * classification: food

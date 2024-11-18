@@ -1,3 +1,223 @@
+bip_39_word_dash_1: kitten
+bip_39_word_dash_10: kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse
+bip_39_word_dash_11: kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse-census
+bip_39_word_dash_12: kitten-section-seven-omit-advance-globe-ensure-thrive-whale-glimpse-census-antique
+bip_39_word_dash_2: kitten-section
+bip_39_word_dash_3: kitten-section-seven
+bip_39_word_dash_4: kitten-section-seven-omit
+bip_39_word_dash_5: kitten-section-seven-omit-advance
+bip_39_word_dash_6: kitten-section-seven-omit-advance-globe
+bip_39_word_dash_7: kitten-section-seven-omit-advance-globe-ensure
+bip_39_word_dash_8: kitten-section-seven-omit-advance-globe-ensure-thrive
+bip_39_word_dash_9: kitten-section-seven-omit-advance-globe-ensure-thrive-whale
+bip_39_word_new_br_1: kitten
+bip_39_word_new_br_10: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse
+bip_39_word_new_br_11: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse<br>census
+bip_39_word_new_br_12: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale<br>glimpse<br>census<br>antique
+bip_39_word_new_br_2: kitten<br>section
+bip_39_word_new_br_3: kitten<br>section<br>seven
+bip_39_word_new_br_4: kitten<br>section<br>seven<br>omit
+bip_39_word_new_br_5: kitten<br>section<br>seven<br>omit<br>advance
+bip_39_word_new_br_6: kitten<br>section<br>seven<br>omit<br>advance<br>globe
+bip_39_word_new_br_7: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure
+bip_39_word_new_br_8: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive
+bip_39_word_new_br_9: kitten<br>section<br>seven<br>omit<br>advance<br>globe<br>ensure<br>thrive<br>whale
+bip_39_word_new_line_1: kitten
+bip_39_word_new_line_10: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure
+
+  thrive
+
+  whale
+
+  glimpse'
+bip_39_word_new_line_11: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure
+
+  thrive
+
+  whale
+
+  glimpse
+
+  census'
+bip_39_word_new_line_12: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure
+
+  thrive
+
+  whale
+
+  glimpse
+
+  census
+
+  antique'
+bip_39_word_new_line_2: 'kitten
+
+  section'
+bip_39_word_new_line_3: 'kitten
+
+  section
+
+  seven'
+bip_39_word_new_line_4: 'kitten
+
+  section
+
+  seven
+
+  omit'
+bip_39_word_new_line_5: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance'
+bip_39_word_new_line_6: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe'
+bip_39_word_new_line_7: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure'
+bip_39_word_new_line_8: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure
+
+  thrive'
+bip_39_word_new_line_9: 'kitten
+
+  section
+
+  seven
+
+  omit
+
+  advance
+
+  globe
+
+  ensure
+
+  thrive
+
+  whale'
+bip_39_word_no_space_1: kitten
+bip_39_word_no_space_10: kittensectionsevenomitadvanceglobeensurethrivewhaleglimpse
+bip_39_word_no_space_11: kittensectionsevenomitadvanceglobeensurethrivewhaleglimpsecensus
+bip_39_word_no_space_12: kittensectionsevenomitadvanceglobeensurethrivewhaleglimpsecensusantique
+bip_39_word_no_space_2: kittensection
+bip_39_word_no_space_3: kittensectionseven
+bip_39_word_no_space_4: kittensectionsevenomit
+bip_39_word_no_space_5: kittensectionsevenomitadvance
+bip_39_word_no_space_6: kittensectionsevenomitadvanceglobe
+bip_39_word_no_space_7: kittensectionsevenomitadvanceglobeensure
+bip_39_word_no_space_8: kittensectionsevenomitadvanceglobeensurethrive
+bip_39_word_no_space_9: kittensectionsevenomitadvanceglobeensurethrivewhale
+bip_39_word_space_0:
+- kitten
+- section
+- seven
+- omit
+- advance
+- globe
+- ensure
+- thrive
+- whale
+- glimpse
+- census
+- antique
+bip_39_word_space_1: kitten
+bip_39_word_space_10: kitten section seven omit advance globe ensure thrive whale
+  glimpse
+bip_39_word_space_11: kitten section seven omit advance globe ensure thrive whale
+  glimpse census
+bip_39_word_space_12: kitten section seven omit advance globe ensure thrive whale
+  glimpse census antique
+bip_39_word_space_2: kitten section
+bip_39_word_space_3: kitten section seven
+bip_39_word_space_4: kitten section seven omit
+bip_39_word_space_5: kitten section seven omit advance
+bip_39_word_space_6: kitten section seven omit advance globe
+bip_39_word_space_7: kitten section seven omit advance globe ensure
+bip_39_word_space_8: kitten section seven omit advance globe ensure thrive
+bip_39_word_space_9: kitten section seven omit advance globe ensure thrive whale
+bip_39_word_underscore_1: kitten
+bip_39_word_underscore_10: kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse
+bip_39_word_underscore_11: kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse_census
+bip_39_word_underscore_12: kitten_section_seven_omit_advance_globe_ensure_thrive_whale_glimpse_census_antique
+bip_39_word_underscore_2: kitten_section
+bip_39_word_underscore_3: kitten_section_seven
+bip_39_word_underscore_4: kitten_section_seven_omit
+bip_39_word_underscore_5: kitten_section_seven_omit_advance
+bip_39_word_underscore_6: kitten_section_seven_omit_advance_globe
+bip_39_word_underscore_7: kitten_section_seven_omit_advance_globe_ensure
+bip_39_word_underscore_8: kitten_section_seven_omit_advance_globe_ensure_thrive
+bip_39_word_underscore_9: kitten_section_seven_omit_advance_globe_ensure_thrive_whale
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_thin_07_03_09
 id_no_color: 070309
 id_no_size: 07_03_09
 id_no_type: tray_thin_07_03_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_07_03_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_07_03_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2066cgo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2066cgo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2066cgo
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 070309
 name_no_size: 07 03 09
 name_no_size_short: 07 03 09
 name_no_type: Tray Thin 07 03 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_07_03_09
 oomp_word: clubs chicken tennis
 oomp_word_emoji: ':clubs: :chicken: :tennis:'

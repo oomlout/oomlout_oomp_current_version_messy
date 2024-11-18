@@ -1,3 +1,223 @@
+bip_39_word_dash_1: local
+bip_39_word_dash_10: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain
+bip_39_word_dash_11: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain-book
+bip_39_word_dash_12: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet-certain-book-affair
+bip_39_word_dash_2: local-bonus
+bip_39_word_dash_3: local-bonus-problem
+bip_39_word_dash_4: local-bonus-problem-boss
+bip_39_word_dash_5: local-bonus-problem-boss-dismiss
+bip_39_word_dash_6: local-bonus-problem-boss-dismiss-valley
+bip_39_word_dash_7: local-bonus-problem-boss-dismiss-valley-armor
+bip_39_word_dash_8: local-bonus-problem-boss-dismiss-valley-armor-advance
+bip_39_word_dash_9: local-bonus-problem-boss-dismiss-valley-armor-advance-bullet
+bip_39_word_new_br_1: local
+bip_39_word_new_br_10: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain
+bip_39_word_new_br_11: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book
+bip_39_word_new_br_12: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet<br>certain<br>book<br>affair
+bip_39_word_new_br_2: local<br>bonus
+bip_39_word_new_br_3: local<br>bonus<br>problem
+bip_39_word_new_br_4: local<br>bonus<br>problem<br>boss
+bip_39_word_new_br_5: local<br>bonus<br>problem<br>boss<br>dismiss
+bip_39_word_new_br_6: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley
+bip_39_word_new_br_7: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor
+bip_39_word_new_br_8: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance
+bip_39_word_new_br_9: local<br>bonus<br>problem<br>boss<br>dismiss<br>valley<br>armor<br>advance<br>bullet
+bip_39_word_new_line_1: local
+bip_39_word_new_line_10: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor
+
+  advance
+
+  bullet
+
+  certain'
+bip_39_word_new_line_11: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor
+
+  advance
+
+  bullet
+
+  certain
+
+  book'
+bip_39_word_new_line_12: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor
+
+  advance
+
+  bullet
+
+  certain
+
+  book
+
+  affair'
+bip_39_word_new_line_2: 'local
+
+  bonus'
+bip_39_word_new_line_3: 'local
+
+  bonus
+
+  problem'
+bip_39_word_new_line_4: 'local
+
+  bonus
+
+  problem
+
+  boss'
+bip_39_word_new_line_5: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss'
+bip_39_word_new_line_6: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley'
+bip_39_word_new_line_7: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor'
+bip_39_word_new_line_8: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor
+
+  advance'
+bip_39_word_new_line_9: 'local
+
+  bonus
+
+  problem
+
+  boss
+
+  dismiss
+
+  valley
+
+  armor
+
+  advance
+
+  bullet'
+bip_39_word_no_space_1: local
+bip_39_word_no_space_10: localbonusproblembossdismissvalleyarmoradvancebulletcertain
+bip_39_word_no_space_11: localbonusproblembossdismissvalleyarmoradvancebulletcertainbook
+bip_39_word_no_space_12: localbonusproblembossdismissvalleyarmoradvancebulletcertainbookaffair
+bip_39_word_no_space_2: localbonus
+bip_39_word_no_space_3: localbonusproblem
+bip_39_word_no_space_4: localbonusproblemboss
+bip_39_word_no_space_5: localbonusproblembossdismiss
+bip_39_word_no_space_6: localbonusproblembossdismissvalley
+bip_39_word_no_space_7: localbonusproblembossdismissvalleyarmor
+bip_39_word_no_space_8: localbonusproblembossdismissvalleyarmoradvance
+bip_39_word_no_space_9: localbonusproblembossdismissvalleyarmoradvancebullet
+bip_39_word_space_0:
+- local
+- bonus
+- problem
+- boss
+- dismiss
+- valley
+- armor
+- advance
+- bullet
+- certain
+- book
+- affair
+bip_39_word_space_1: local
+bip_39_word_space_10: local bonus problem boss dismiss valley armor advance bullet
+  certain
+bip_39_word_space_11: local bonus problem boss dismiss valley armor advance bullet
+  certain book
+bip_39_word_space_12: local bonus problem boss dismiss valley armor advance bullet
+  certain book affair
+bip_39_word_space_2: local bonus
+bip_39_word_space_3: local bonus problem
+bip_39_word_space_4: local bonus problem boss
+bip_39_word_space_5: local bonus problem boss dismiss
+bip_39_word_space_6: local bonus problem boss dismiss valley
+bip_39_word_space_7: local bonus problem boss dismiss valley armor
+bip_39_word_space_8: local bonus problem boss dismiss valley armor advance
+bip_39_word_space_9: local bonus problem boss dismiss valley armor advance bullet
+bip_39_word_underscore_1: local
+bip_39_word_underscore_10: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain
+bip_39_word_underscore_11: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain_book
+bip_39_word_underscore_12: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet_certain_book_affair
+bip_39_word_underscore_2: local_bonus
+bip_39_word_underscore_3: local_bonus_problem
+bip_39_word_underscore_4: local_bonus_problem_boss
+bip_39_word_underscore_5: local_bonus_problem_boss_dismiss
+bip_39_word_underscore_6: local_bonus_problem_boss_dismiss_valley
+bip_39_word_underscore_7: local_bonus_problem_boss_dismiss_valley_armor
+bip_39_word_underscore_8: local_bonus_problem_boss_dismiss_valley_armor_advance
+bip_39_word_underscore_9: local_bonus_problem_boss_dismiss_valley_armor_advance_bullet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_01_01_15
 id_no_color: '010115'
 id_no_size: '01_01_15'
 id_no_type: tray_01_01_15
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_01_15
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_01_01_15
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_01_01_15
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202nsp5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202nsp5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202nsp5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: '010115'
 name_no_size: 01 01 15
 name_no_size_short: 01 01 15
 name_no_type: Tray 01 01 15
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_01_01_15
 oomp_word: panda_face dog angry
 oomp_word_emoji: ':panda_face: :dog: :angry:'

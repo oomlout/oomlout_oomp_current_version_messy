@@ -1,3 +1,222 @@
+bip_39_word_dash_1: desert
+bip_39_word_dash_10: desert-double-bike-output-stamp-razor-element-giggle-bean-know
+bip_39_word_dash_11: desert-double-bike-output-stamp-razor-element-giggle-bean-know-rough
+bip_39_word_dash_12: desert-double-bike-output-stamp-razor-element-giggle-bean-know-rough-air
+bip_39_word_dash_2: desert-double
+bip_39_word_dash_3: desert-double-bike
+bip_39_word_dash_4: desert-double-bike-output
+bip_39_word_dash_5: desert-double-bike-output-stamp
+bip_39_word_dash_6: desert-double-bike-output-stamp-razor
+bip_39_word_dash_7: desert-double-bike-output-stamp-razor-element
+bip_39_word_dash_8: desert-double-bike-output-stamp-razor-element-giggle
+bip_39_word_dash_9: desert-double-bike-output-stamp-razor-element-giggle-bean
+bip_39_word_new_br_1: desert
+bip_39_word_new_br_10: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know
+bip_39_word_new_br_11: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough
+bip_39_word_new_br_12: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean<br>know<br>rough<br>air
+bip_39_word_new_br_2: desert<br>double
+bip_39_word_new_br_3: desert<br>double<br>bike
+bip_39_word_new_br_4: desert<br>double<br>bike<br>output
+bip_39_word_new_br_5: desert<br>double<br>bike<br>output<br>stamp
+bip_39_word_new_br_6: desert<br>double<br>bike<br>output<br>stamp<br>razor
+bip_39_word_new_br_7: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element
+bip_39_word_new_br_8: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle
+bip_39_word_new_br_9: desert<br>double<br>bike<br>output<br>stamp<br>razor<br>element<br>giggle<br>bean
+bip_39_word_new_line_1: desert
+bip_39_word_new_line_10: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element
+
+  giggle
+
+  bean
+
+  know'
+bip_39_word_new_line_11: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element
+
+  giggle
+
+  bean
+
+  know
+
+  rough'
+bip_39_word_new_line_12: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element
+
+  giggle
+
+  bean
+
+  know
+
+  rough
+
+  air'
+bip_39_word_new_line_2: 'desert
+
+  double'
+bip_39_word_new_line_3: 'desert
+
+  double
+
+  bike'
+bip_39_word_new_line_4: 'desert
+
+  double
+
+  bike
+
+  output'
+bip_39_word_new_line_5: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp'
+bip_39_word_new_line_6: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor'
+bip_39_word_new_line_7: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element'
+bip_39_word_new_line_8: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element
+
+  giggle'
+bip_39_word_new_line_9: 'desert
+
+  double
+
+  bike
+
+  output
+
+  stamp
+
+  razor
+
+  element
+
+  giggle
+
+  bean'
+bip_39_word_no_space_1: desert
+bip_39_word_no_space_10: desertdoublebikeoutputstamprazorelementgigglebeanknow
+bip_39_word_no_space_11: desertdoublebikeoutputstamprazorelementgigglebeanknowrough
+bip_39_word_no_space_12: desertdoublebikeoutputstamprazorelementgigglebeanknowroughair
+bip_39_word_no_space_2: desertdouble
+bip_39_word_no_space_3: desertdoublebike
+bip_39_word_no_space_4: desertdoublebikeoutput
+bip_39_word_no_space_5: desertdoublebikeoutputstamp
+bip_39_word_no_space_6: desertdoublebikeoutputstamprazor
+bip_39_word_no_space_7: desertdoublebikeoutputstamprazorelement
+bip_39_word_no_space_8: desertdoublebikeoutputstamprazorelementgiggle
+bip_39_word_no_space_9: desertdoublebikeoutputstamprazorelementgigglebean
+bip_39_word_space_0:
+- desert
+- double
+- bike
+- output
+- stamp
+- razor
+- element
+- giggle
+- bean
+- know
+- rough
+- air
+bip_39_word_space_1: desert
+bip_39_word_space_10: desert double bike output stamp razor element giggle bean know
+bip_39_word_space_11: desert double bike output stamp razor element giggle bean know
+  rough
+bip_39_word_space_12: desert double bike output stamp razor element giggle bean know
+  rough air
+bip_39_word_space_2: desert double
+bip_39_word_space_3: desert double bike
+bip_39_word_space_4: desert double bike output
+bip_39_word_space_5: desert double bike output stamp
+bip_39_word_space_6: desert double bike output stamp razor
+bip_39_word_space_7: desert double bike output stamp razor element
+bip_39_word_space_8: desert double bike output stamp razor element giggle
+bip_39_word_space_9: desert double bike output stamp razor element giggle bean
+bip_39_word_underscore_1: desert
+bip_39_word_underscore_10: desert_double_bike_output_stamp_razor_element_giggle_bean_know
+bip_39_word_underscore_11: desert_double_bike_output_stamp_razor_element_giggle_bean_know_rough
+bip_39_word_underscore_12: desert_double_bike_output_stamp_razor_element_giggle_bean_know_rough_air
+bip_39_word_underscore_2: desert_double
+bip_39_word_underscore_3: desert_double_bike
+bip_39_word_underscore_4: desert_double_bike_output
+bip_39_word_underscore_5: desert_double_bike_output_stamp
+bip_39_word_underscore_6: desert_double_bike_output_stamp_razor
+bip_39_word_underscore_7: desert_double_bike_output_stamp_razor_element
+bip_39_word_underscore_8: desert_double_bike_output_stamp_razor_element_giggle
+bip_39_word_underscore_9: desert_double_bike_output_stamp_razor_element_giggle_bean
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_10_14_09
 id_no_color: '101409'
 id_no_size: '10_14_09'
 id_no_type: tray_10_14_09
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_09
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_10_14_09
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_10_14_09
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ev8e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ev8e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ev8e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '101409'
 name_no_size: 10 14 09
 name_no_size_short: 10 14 09
 name_no_type: Tray 10 14 09
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_10_14_09
 oomp_word: rat bell clubs
 oomp_word_emoji: ':rat: :bell: :clubs:'

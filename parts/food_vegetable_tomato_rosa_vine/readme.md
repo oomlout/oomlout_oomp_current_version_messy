@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 M&S Rosa Vine Tomatoes
 
+### name
+* name: Food Vegetable Tomato Rosa Vine
+* name_short: 
 ### id
 * oomp_id: food_vegetable_tomato_rosa_vine
   * classification: food

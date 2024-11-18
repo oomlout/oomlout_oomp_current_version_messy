@@ -1,3 +1,222 @@
+bip_39_word_dash_1: magnet
+bip_39_word_dash_10: magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math
+bip_39_word_dash_11: magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math-child
+bip_39_word_dash_12: magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price-math-child-aerobic
+bip_39_word_dash_2: magnet-gentle
+bip_39_word_dash_3: magnet-gentle-critic
+bip_39_word_dash_4: magnet-gentle-critic-praise
+bip_39_word_dash_5: magnet-gentle-critic-praise-arm
+bip_39_word_dash_6: magnet-gentle-critic-praise-arm-cloud
+bip_39_word_dash_7: magnet-gentle-critic-praise-arm-cloud-cloth
+bip_39_word_dash_8: magnet-gentle-critic-praise-arm-cloud-cloth-twenty
+bip_39_word_dash_9: magnet-gentle-critic-praise-arm-cloud-cloth-twenty-price
+bip_39_word_new_br_1: magnet
+bip_39_word_new_br_10: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math
+bip_39_word_new_br_11: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child
+bip_39_word_new_br_12: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price<br>math<br>child<br>aerobic
+bip_39_word_new_br_2: magnet<br>gentle
+bip_39_word_new_br_3: magnet<br>gentle<br>critic
+bip_39_word_new_br_4: magnet<br>gentle<br>critic<br>praise
+bip_39_word_new_br_5: magnet<br>gentle<br>critic<br>praise<br>arm
+bip_39_word_new_br_6: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud
+bip_39_word_new_br_7: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth
+bip_39_word_new_br_8: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty
+bip_39_word_new_br_9: magnet<br>gentle<br>critic<br>praise<br>arm<br>cloud<br>cloth<br>twenty<br>price
+bip_39_word_new_line_1: magnet
+bip_39_word_new_line_10: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth
+
+  twenty
+
+  price
+
+  math'
+bip_39_word_new_line_11: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth
+
+  twenty
+
+  price
+
+  math
+
+  child'
+bip_39_word_new_line_12: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth
+
+  twenty
+
+  price
+
+  math
+
+  child
+
+  aerobic'
+bip_39_word_new_line_2: 'magnet
+
+  gentle'
+bip_39_word_new_line_3: 'magnet
+
+  gentle
+
+  critic'
+bip_39_word_new_line_4: 'magnet
+
+  gentle
+
+  critic
+
+  praise'
+bip_39_word_new_line_5: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm'
+bip_39_word_new_line_6: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud'
+bip_39_word_new_line_7: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth'
+bip_39_word_new_line_8: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth
+
+  twenty'
+bip_39_word_new_line_9: 'magnet
+
+  gentle
+
+  critic
+
+  praise
+
+  arm
+
+  cloud
+
+  cloth
+
+  twenty
+
+  price'
+bip_39_word_no_space_1: magnet
+bip_39_word_no_space_10: magnetgentlecriticpraisearmcloudclothtwentypricemath
+bip_39_word_no_space_11: magnetgentlecriticpraisearmcloudclothtwentypricemathchild
+bip_39_word_no_space_12: magnetgentlecriticpraisearmcloudclothtwentypricemathchildaerobic
+bip_39_word_no_space_2: magnetgentle
+bip_39_word_no_space_3: magnetgentlecritic
+bip_39_word_no_space_4: magnetgentlecriticpraise
+bip_39_word_no_space_5: magnetgentlecriticpraisearm
+bip_39_word_no_space_6: magnetgentlecriticpraisearmcloud
+bip_39_word_no_space_7: magnetgentlecriticpraisearmcloudcloth
+bip_39_word_no_space_8: magnetgentlecriticpraisearmcloudclothtwenty
+bip_39_word_no_space_9: magnetgentlecriticpraisearmcloudclothtwentyprice
+bip_39_word_space_0:
+- magnet
+- gentle
+- critic
+- praise
+- arm
+- cloud
+- cloth
+- twenty
+- price
+- math
+- child
+- aerobic
+bip_39_word_space_1: magnet
+bip_39_word_space_10: magnet gentle critic praise arm cloud cloth twenty price math
+bip_39_word_space_11: magnet gentle critic praise arm cloud cloth twenty price math
+  child
+bip_39_word_space_12: magnet gentle critic praise arm cloud cloth twenty price math
+  child aerobic
+bip_39_word_space_2: magnet gentle
+bip_39_word_space_3: magnet gentle critic
+bip_39_word_space_4: magnet gentle critic praise
+bip_39_word_space_5: magnet gentle critic praise arm
+bip_39_word_space_6: magnet gentle critic praise arm cloud
+bip_39_word_space_7: magnet gentle critic praise arm cloud cloth
+bip_39_word_space_8: magnet gentle critic praise arm cloud cloth twenty
+bip_39_word_space_9: magnet gentle critic praise arm cloud cloth twenty price
+bip_39_word_underscore_1: magnet
+bip_39_word_underscore_10: magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math
+bip_39_word_underscore_11: magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math_child
+bip_39_word_underscore_12: magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price_math_child_aerobic
+bip_39_word_underscore_2: magnet_gentle
+bip_39_word_underscore_3: magnet_gentle_critic
+bip_39_word_underscore_4: magnet_gentle_critic_praise
+bip_39_word_underscore_5: magnet_gentle_critic_praise_arm
+bip_39_word_underscore_6: magnet_gentle_critic_praise_arm_cloud
+bip_39_word_underscore_7: magnet_gentle_critic_praise_arm_cloud_cloth
+bip_39_word_underscore_8: magnet_gentle_critic_praise_arm_cloud_cloth_twenty
+bip_39_word_underscore_9: magnet_gentle_critic_praise_arm_cloud_cloth_twenty_price
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_07_14_12
 id_no_color: '071412'
 id_no_size: '07_14_12'
 id_no_type: tray_07_14_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_14_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_07_14_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_07_14_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202l59e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202l59e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202l59e
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '071412'
 name_no_size: 07 14 12
 name_no_size_short: 07 14 12
 name_no_type: Tray 07 14 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_07_14_12
 oomp_word: sheep ant sailboat
 oomp_word_emoji: ':sheep: :ant: :sailboat:'

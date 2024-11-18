@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Hardware Bearing 5300 Series 5305 Size 25 mm ID 62 mm OD 25 4 mm Depth
+* name_short: 
 ### id
 * oomp_id: hardware_bearing_5300_series_5305_size_25_mm_id_62_mm_od_25_4_mm_depth
   * classification: hardware

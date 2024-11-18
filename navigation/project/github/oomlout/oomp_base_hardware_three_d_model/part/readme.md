@@ -8,6 +8,9 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 
 
+### name
+* name: Project Github Oomlout Oomp Base Hardware Three D Model
+* name_short: 
 ### id
 * oomp_id: project_github_oomlout_oomp_base_hardware_three_d_model
   * classification: project
@@ -28,6 +31,29 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 * oomp_word_emoji :door: :coffee: :camel:
 * md5_6_alpha: 5g8jl
 * md5_6: 8bb441
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%205g8jl)
+[2x1](http://192.168.1.242:1112/?label=oomp%205g8jl)
+[6x4](http://192.168.1.55:1112/?label=oomp%205g8jl)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_hardware_three_d_model) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_hardware_three_d_model)                             
+
+#### price
+
+
+
+
+
+
 
 ### all codes 
 | key | value |  
@@ -257,7 +283,14 @@ heavy |
 | id_no_color | oomp_base_hardware_three_d_model |  
 | id_no_size | oomp_base_hardware_three_d_model |  
 | id_no_type | oomlout_oomp_base_hardware_three_d_model |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_hardware_three_d_model |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_hardware_three_d_model |  
+| link_2_name | github_link |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomp_base_hardware_three_d_model |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205g8jl |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205g8jl |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%205g8jl |  
 | link_redirect | https://github.com/oomlout/oomp_base_hardware_three_d_model |  
 | manufacturer |  |  
 | manufacturer_capital |  |  
@@ -283,6 +316,7 @@ heavy |
 | name_no_size | Oomp Base Hardware Three D Model |  
 | name_no_size_short | Oomp Base Hardware Three D Model |  
 | name_no_type | Oomlout Oomp Base Hardware Three D Model |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_hardware_three_d_model |  
 | oomp_word | door coffee camel |  
 | oomp_word_emoji | :door: :coffee: :camel: |  

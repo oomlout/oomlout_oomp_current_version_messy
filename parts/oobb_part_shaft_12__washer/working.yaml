@@ -1,3 +1,221 @@
+bip_39_word_dash_1: meat
+bip_39_word_dash_10: meat-plate-soon-dice-much-kid-winter-slight-cruise-spread
+bip_39_word_dash_11: meat-plate-soon-dice-much-kid-winter-slight-cruise-spread-bacon
+bip_39_word_dash_12: meat-plate-soon-dice-much-kid-winter-slight-cruise-spread-bacon-ask
+bip_39_word_dash_2: meat-plate
+bip_39_word_dash_3: meat-plate-soon
+bip_39_word_dash_4: meat-plate-soon-dice
+bip_39_word_dash_5: meat-plate-soon-dice-much
+bip_39_word_dash_6: meat-plate-soon-dice-much-kid
+bip_39_word_dash_7: meat-plate-soon-dice-much-kid-winter
+bip_39_word_dash_8: meat-plate-soon-dice-much-kid-winter-slight
+bip_39_word_dash_9: meat-plate-soon-dice-much-kid-winter-slight-cruise
+bip_39_word_new_br_1: meat
+bip_39_word_new_br_10: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread
+bip_39_word_new_br_11: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon
+bip_39_word_new_br_12: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise<br>spread<br>bacon<br>ask
+bip_39_word_new_br_2: meat<br>plate
+bip_39_word_new_br_3: meat<br>plate<br>soon
+bip_39_word_new_br_4: meat<br>plate<br>soon<br>dice
+bip_39_word_new_br_5: meat<br>plate<br>soon<br>dice<br>much
+bip_39_word_new_br_6: meat<br>plate<br>soon<br>dice<br>much<br>kid
+bip_39_word_new_br_7: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter
+bip_39_word_new_br_8: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight
+bip_39_word_new_br_9: meat<br>plate<br>soon<br>dice<br>much<br>kid<br>winter<br>slight<br>cruise
+bip_39_word_new_line_1: meat
+bip_39_word_new_line_10: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter
+
+  slight
+
+  cruise
+
+  spread'
+bip_39_word_new_line_11: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter
+
+  slight
+
+  cruise
+
+  spread
+
+  bacon'
+bip_39_word_new_line_12: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter
+
+  slight
+
+  cruise
+
+  spread
+
+  bacon
+
+  ask'
+bip_39_word_new_line_2: 'meat
+
+  plate'
+bip_39_word_new_line_3: 'meat
+
+  plate
+
+  soon'
+bip_39_word_new_line_4: 'meat
+
+  plate
+
+  soon
+
+  dice'
+bip_39_word_new_line_5: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much'
+bip_39_word_new_line_6: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid'
+bip_39_word_new_line_7: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter'
+bip_39_word_new_line_8: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter
+
+  slight'
+bip_39_word_new_line_9: 'meat
+
+  plate
+
+  soon
+
+  dice
+
+  much
+
+  kid
+
+  winter
+
+  slight
+
+  cruise'
+bip_39_word_no_space_1: meat
+bip_39_word_no_space_10: meatplatesoondicemuchkidwinterslightcruisespread
+bip_39_word_no_space_11: meatplatesoondicemuchkidwinterslightcruisespreadbacon
+bip_39_word_no_space_12: meatplatesoondicemuchkidwinterslightcruisespreadbaconask
+bip_39_word_no_space_2: meatplate
+bip_39_word_no_space_3: meatplatesoon
+bip_39_word_no_space_4: meatplatesoondice
+bip_39_word_no_space_5: meatplatesoondicemuch
+bip_39_word_no_space_6: meatplatesoondicemuchkid
+bip_39_word_no_space_7: meatplatesoondicemuchkidwinter
+bip_39_word_no_space_8: meatplatesoondicemuchkidwinterslight
+bip_39_word_no_space_9: meatplatesoondicemuchkidwinterslightcruise
+bip_39_word_space_0:
+- meat
+- plate
+- soon
+- dice
+- much
+- kid
+- winter
+- slight
+- cruise
+- spread
+- bacon
+- ask
+bip_39_word_space_1: meat
+bip_39_word_space_10: meat plate soon dice much kid winter slight cruise spread
+bip_39_word_space_11: meat plate soon dice much kid winter slight cruise spread bacon
+bip_39_word_space_12: meat plate soon dice much kid winter slight cruise spread bacon
+  ask
+bip_39_word_space_2: meat plate
+bip_39_word_space_3: meat plate soon
+bip_39_word_space_4: meat plate soon dice
+bip_39_word_space_5: meat plate soon dice much
+bip_39_word_space_6: meat plate soon dice much kid
+bip_39_word_space_7: meat plate soon dice much kid winter
+bip_39_word_space_8: meat plate soon dice much kid winter slight
+bip_39_word_space_9: meat plate soon dice much kid winter slight cruise
+bip_39_word_underscore_1: meat
+bip_39_word_underscore_10: meat_plate_soon_dice_much_kid_winter_slight_cruise_spread
+bip_39_word_underscore_11: meat_plate_soon_dice_much_kid_winter_slight_cruise_spread_bacon
+bip_39_word_underscore_12: meat_plate_soon_dice_much_kid_winter_slight_cruise_spread_bacon_ask
+bip_39_word_underscore_2: meat_plate
+bip_39_word_underscore_3: meat_plate_soon
+bip_39_word_underscore_4: meat_plate_soon_dice
+bip_39_word_underscore_5: meat_plate_soon_dice_much
+bip_39_word_underscore_6: meat_plate_soon_dice_much_kid
+bip_39_word_underscore_7: meat_plate_soon_dice_much_kid_winter
+bip_39_word_underscore_8: meat_plate_soon_dice_much_kid_winter_slight
+bip_39_word_underscore_9: meat_plate_soon_dice_much_kid_winter_slight_cruise
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +324,14 @@ id_no_class: part_shaft_12__washer
 id_no_color: 12washer
 id_no_size: 12__washer
 id_no_type: shaft_12__washer
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_shaft_12__washer
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_shaft_12__washer
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2089z90
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2089z90
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2089z90
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +357,7 @@ name_no_color: 12Washer
 name_no_size: 12  Washer
 name_no_size_short: 12  Washer
 name_no_type: Shaft 12  Washer
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_shaft_12__washer
 oomp_word: corn lips coffee
 oomp_word_emoji: ':corn: :lips: :coffee:'

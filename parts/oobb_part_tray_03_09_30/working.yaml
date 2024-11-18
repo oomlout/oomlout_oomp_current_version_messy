@@ -1,3 +1,223 @@
+bip_39_word_dash_1: verify
+bip_39_word_dash_10: verify-piece-business-better-blouse-night-rib-bread-enforce-name
+bip_39_word_dash_11: verify-piece-business-better-blouse-night-rib-bread-enforce-name-index
+bip_39_word_dash_12: verify-piece-business-better-blouse-night-rib-bread-enforce-name-index-arrange
+bip_39_word_dash_2: verify-piece
+bip_39_word_dash_3: verify-piece-business
+bip_39_word_dash_4: verify-piece-business-better
+bip_39_word_dash_5: verify-piece-business-better-blouse
+bip_39_word_dash_6: verify-piece-business-better-blouse-night
+bip_39_word_dash_7: verify-piece-business-better-blouse-night-rib
+bip_39_word_dash_8: verify-piece-business-better-blouse-night-rib-bread
+bip_39_word_dash_9: verify-piece-business-better-blouse-night-rib-bread-enforce
+bip_39_word_new_br_1: verify
+bip_39_word_new_br_10: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name
+bip_39_word_new_br_11: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name<br>index
+bip_39_word_new_br_12: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce<br>name<br>index<br>arrange
+bip_39_word_new_br_2: verify<br>piece
+bip_39_word_new_br_3: verify<br>piece<br>business
+bip_39_word_new_br_4: verify<br>piece<br>business<br>better
+bip_39_word_new_br_5: verify<br>piece<br>business<br>better<br>blouse
+bip_39_word_new_br_6: verify<br>piece<br>business<br>better<br>blouse<br>night
+bip_39_word_new_br_7: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib
+bip_39_word_new_br_8: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread
+bip_39_word_new_br_9: verify<br>piece<br>business<br>better<br>blouse<br>night<br>rib<br>bread<br>enforce
+bip_39_word_new_line_1: verify
+bip_39_word_new_line_10: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib
+
+  bread
+
+  enforce
+
+  name'
+bip_39_word_new_line_11: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib
+
+  bread
+
+  enforce
+
+  name
+
+  index'
+bip_39_word_new_line_12: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib
+
+  bread
+
+  enforce
+
+  name
+
+  index
+
+  arrange'
+bip_39_word_new_line_2: 'verify
+
+  piece'
+bip_39_word_new_line_3: 'verify
+
+  piece
+
+  business'
+bip_39_word_new_line_4: 'verify
+
+  piece
+
+  business
+
+  better'
+bip_39_word_new_line_5: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse'
+bip_39_word_new_line_6: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night'
+bip_39_word_new_line_7: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib'
+bip_39_word_new_line_8: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib
+
+  bread'
+bip_39_word_new_line_9: 'verify
+
+  piece
+
+  business
+
+  better
+
+  blouse
+
+  night
+
+  rib
+
+  bread
+
+  enforce'
+bip_39_word_no_space_1: verify
+bip_39_word_no_space_10: verifypiecebusinessbetterblousenightribbreadenforcename
+bip_39_word_no_space_11: verifypiecebusinessbetterblousenightribbreadenforcenameindex
+bip_39_word_no_space_12: verifypiecebusinessbetterblousenightribbreadenforcenameindexarrange
+bip_39_word_no_space_2: verifypiece
+bip_39_word_no_space_3: verifypiecebusiness
+bip_39_word_no_space_4: verifypiecebusinessbetter
+bip_39_word_no_space_5: verifypiecebusinessbetterblouse
+bip_39_word_no_space_6: verifypiecebusinessbetterblousenight
+bip_39_word_no_space_7: verifypiecebusinessbetterblousenightrib
+bip_39_word_no_space_8: verifypiecebusinessbetterblousenightribbread
+bip_39_word_no_space_9: verifypiecebusinessbetterblousenightribbreadenforce
+bip_39_word_space_0:
+- verify
+- piece
+- business
+- better
+- blouse
+- night
+- rib
+- bread
+- enforce
+- name
+- index
+- arrange
+bip_39_word_space_1: verify
+bip_39_word_space_10: verify piece business better blouse night rib bread enforce
+  name
+bip_39_word_space_11: verify piece business better blouse night rib bread enforce
+  name index
+bip_39_word_space_12: verify piece business better blouse night rib bread enforce
+  name index arrange
+bip_39_word_space_2: verify piece
+bip_39_word_space_3: verify piece business
+bip_39_word_space_4: verify piece business better
+bip_39_word_space_5: verify piece business better blouse
+bip_39_word_space_6: verify piece business better blouse night
+bip_39_word_space_7: verify piece business better blouse night rib
+bip_39_word_space_8: verify piece business better blouse night rib bread
+bip_39_word_space_9: verify piece business better blouse night rib bread enforce
+bip_39_word_underscore_1: verify
+bip_39_word_underscore_10: verify_piece_business_better_blouse_night_rib_bread_enforce_name
+bip_39_word_underscore_11: verify_piece_business_better_blouse_night_rib_bread_enforce_name_index
+bip_39_word_underscore_12: verify_piece_business_better_blouse_night_rib_bread_enforce_name_index_arrange
+bip_39_word_underscore_2: verify_piece
+bip_39_word_underscore_3: verify_piece_business
+bip_39_word_underscore_4: verify_piece_business_better
+bip_39_word_underscore_5: verify_piece_business_better_blouse
+bip_39_word_underscore_6: verify_piece_business_better_blouse_night
+bip_39_word_underscore_7: verify_piece_business_better_blouse_night_rib
+bip_39_word_underscore_8: verify_piece_business_better_blouse_night_rib_bread
+bip_39_word_underscore_9: verify_piece_business_better_blouse_night_rib_bread_enforce
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +302,14 @@ id_no_class: part_tray_03_09_30
 id_no_color: 030930
 id_no_size: 03_09_30
 id_no_type: tray_03_09_30
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_30
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_03_09_30
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_03_09_30
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207oko4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207oko4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207oko4
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +335,7 @@ name_no_color: 030930
 name_no_size: 03 09 30
 name_no_size_short: 03 09 30
 name_no_type: Tray 03 09 30
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_03_09_30
 oomp_word: cookie rocket book
 oomp_word_emoji: ':cookie: :rocket: :book:'

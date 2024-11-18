@@ -1,3 +1,222 @@
+bip_39_word_dash_1: few
+bip_39_word_dash_10: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader
+bip_39_word_dash_11: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader-spike
+bip_39_word_dash_12: few-pencil-health-cook-appear-column-oak-nephew-cinnamon-leader-spike-attract
+bip_39_word_dash_2: few-pencil
+bip_39_word_dash_3: few-pencil-health
+bip_39_word_dash_4: few-pencil-health-cook
+bip_39_word_dash_5: few-pencil-health-cook-appear
+bip_39_word_dash_6: few-pencil-health-cook-appear-column
+bip_39_word_dash_7: few-pencil-health-cook-appear-column-oak
+bip_39_word_dash_8: few-pencil-health-cook-appear-column-oak-nephew
+bip_39_word_dash_9: few-pencil-health-cook-appear-column-oak-nephew-cinnamon
+bip_39_word_new_br_1: few
+bip_39_word_new_br_10: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader
+bip_39_word_new_br_11: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike
+bip_39_word_new_br_12: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon<br>leader<br>spike<br>attract
+bip_39_word_new_br_2: few<br>pencil
+bip_39_word_new_br_3: few<br>pencil<br>health
+bip_39_word_new_br_4: few<br>pencil<br>health<br>cook
+bip_39_word_new_br_5: few<br>pencil<br>health<br>cook<br>appear
+bip_39_word_new_br_6: few<br>pencil<br>health<br>cook<br>appear<br>column
+bip_39_word_new_br_7: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak
+bip_39_word_new_br_8: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew
+bip_39_word_new_br_9: few<br>pencil<br>health<br>cook<br>appear<br>column<br>oak<br>nephew<br>cinnamon
+bip_39_word_new_line_1: few
+bip_39_word_new_line_10: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak
+
+  nephew
+
+  cinnamon
+
+  leader'
+bip_39_word_new_line_11: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak
+
+  nephew
+
+  cinnamon
+
+  leader
+
+  spike'
+bip_39_word_new_line_12: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak
+
+  nephew
+
+  cinnamon
+
+  leader
+
+  spike
+
+  attract'
+bip_39_word_new_line_2: 'few
+
+  pencil'
+bip_39_word_new_line_3: 'few
+
+  pencil
+
+  health'
+bip_39_word_new_line_4: 'few
+
+  pencil
+
+  health
+
+  cook'
+bip_39_word_new_line_5: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear'
+bip_39_word_new_line_6: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column'
+bip_39_word_new_line_7: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak'
+bip_39_word_new_line_8: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak
+
+  nephew'
+bip_39_word_new_line_9: 'few
+
+  pencil
+
+  health
+
+  cook
+
+  appear
+
+  column
+
+  oak
+
+  nephew
+
+  cinnamon'
+bip_39_word_no_space_1: few
+bip_39_word_no_space_10: fewpencilhealthcookappearcolumnoaknephewcinnamonleader
+bip_39_word_no_space_11: fewpencilhealthcookappearcolumnoaknephewcinnamonleaderspike
+bip_39_word_no_space_12: fewpencilhealthcookappearcolumnoaknephewcinnamonleaderspikeattract
+bip_39_word_no_space_2: fewpencil
+bip_39_word_no_space_3: fewpencilhealth
+bip_39_word_no_space_4: fewpencilhealthcook
+bip_39_word_no_space_5: fewpencilhealthcookappear
+bip_39_word_no_space_6: fewpencilhealthcookappearcolumn
+bip_39_word_no_space_7: fewpencilhealthcookappearcolumnoak
+bip_39_word_no_space_8: fewpencilhealthcookappearcolumnoaknephew
+bip_39_word_no_space_9: fewpencilhealthcookappearcolumnoaknephewcinnamon
+bip_39_word_space_0:
+- few
+- pencil
+- health
+- cook
+- appear
+- column
+- oak
+- nephew
+- cinnamon
+- leader
+- spike
+- attract
+bip_39_word_space_1: few
+bip_39_word_space_10: few pencil health cook appear column oak nephew cinnamon leader
+bip_39_word_space_11: few pencil health cook appear column oak nephew cinnamon leader
+  spike
+bip_39_word_space_12: few pencil health cook appear column oak nephew cinnamon leader
+  spike attract
+bip_39_word_space_2: few pencil
+bip_39_word_space_3: few pencil health
+bip_39_word_space_4: few pencil health cook
+bip_39_word_space_5: few pencil health cook appear
+bip_39_word_space_6: few pencil health cook appear column
+bip_39_word_space_7: few pencil health cook appear column oak
+bip_39_word_space_8: few pencil health cook appear column oak nephew
+bip_39_word_space_9: few pencil health cook appear column oak nephew cinnamon
+bip_39_word_underscore_1: few
+bip_39_word_underscore_10: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader
+bip_39_word_underscore_11: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader_spike
+bip_39_word_underscore_12: few_pencil_health_cook_appear_column_oak_nephew_cinnamon_leader_spike_attract
+bip_39_word_underscore_2: few_pencil
+bip_39_word_underscore_3: few_pencil_health
+bip_39_word_underscore_4: few_pencil_health_cook
+bip_39_word_underscore_5: few_pencil_health_cook_appear
+bip_39_word_underscore_6: few_pencil_health_cook_appear_column
+bip_39_word_underscore_7: few_pencil_health_cook_appear_column_oak
+bip_39_word_underscore_8: few_pencil_health_cook_appear_column_oak_nephew
+bip_39_word_underscore_9: few_pencil_health_cook_appear_column_oak_nephew_cinnamon
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_1d5_03_12
 id_no_color: 1d50312
 id_no_size: 1d5_03_12
 id_no_type: tray_1d5_03_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_03_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_1d5_03_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_1d5_03_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2099swv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2099swv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2099swv
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: 1D50312
 name_no_size: 1D5 03 12
 name_no_size_short: 1D5 03 12
 name_no_type: Tray 1D5 03 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_1d5_03_12
 oomp_word: bus pencil diamonds
 oomp_word_emoji: ':bus: :pencil: :diamonds:'

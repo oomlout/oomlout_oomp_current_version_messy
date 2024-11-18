@@ -1,3 +1,224 @@
+bip_39_word_dash_1: mountain
+bip_39_word_dash_10: mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar
+bip_39_word_dash_11: mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar-velvet
+bip_39_word_dash_12: mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar-jaguar-velvet-agent
+bip_39_word_dash_2: mountain-strategy
+bip_39_word_dash_3: mountain-strategy-ostrich
+bip_39_word_dash_4: mountain-strategy-ostrich-admit
+bip_39_word_dash_5: mountain-strategy-ostrich-admit-crouch
+bip_39_word_dash_6: mountain-strategy-ostrich-admit-crouch-enrich
+bip_39_word_dash_7: mountain-strategy-ostrich-admit-crouch-enrich-industry
+bip_39_word_dash_8: mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil
+bip_39_word_dash_9: mountain-strategy-ostrich-admit-crouch-enrich-industry-fossil-liar
+bip_39_word_new_br_1: mountain
+bip_39_word_new_br_10: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar
+bip_39_word_new_br_11: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet
+bip_39_word_new_br_12: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar<br>jaguar<br>velvet<br>agent
+bip_39_word_new_br_2: mountain<br>strategy
+bip_39_word_new_br_3: mountain<br>strategy<br>ostrich
+bip_39_word_new_br_4: mountain<br>strategy<br>ostrich<br>admit
+bip_39_word_new_br_5: mountain<br>strategy<br>ostrich<br>admit<br>crouch
+bip_39_word_new_br_6: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich
+bip_39_word_new_br_7: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry
+bip_39_word_new_br_8: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil
+bip_39_word_new_br_9: mountain<br>strategy<br>ostrich<br>admit<br>crouch<br>enrich<br>industry<br>fossil<br>liar
+bip_39_word_new_line_1: mountain
+bip_39_word_new_line_10: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar'
+bip_39_word_new_line_11: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar
+
+  velvet'
+bip_39_word_new_line_12: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar
+
+  jaguar
+
+  velvet
+
+  agent'
+bip_39_word_new_line_2: 'mountain
+
+  strategy'
+bip_39_word_new_line_3: 'mountain
+
+  strategy
+
+  ostrich'
+bip_39_word_new_line_4: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit'
+bip_39_word_new_line_5: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch'
+bip_39_word_new_line_6: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich'
+bip_39_word_new_line_7: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry'
+bip_39_word_new_line_8: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil'
+bip_39_word_new_line_9: 'mountain
+
+  strategy
+
+  ostrich
+
+  admit
+
+  crouch
+
+  enrich
+
+  industry
+
+  fossil
+
+  liar'
+bip_39_word_no_space_1: mountain
+bip_39_word_no_space_10: mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguar
+bip_39_word_no_space_11: mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguarvelvet
+bip_39_word_no_space_12: mountainstrategyostrichadmitcrouchenrichindustryfossilliarjaguarvelvetagent
+bip_39_word_no_space_2: mountainstrategy
+bip_39_word_no_space_3: mountainstrategyostrich
+bip_39_word_no_space_4: mountainstrategyostrichadmit
+bip_39_word_no_space_5: mountainstrategyostrichadmitcrouch
+bip_39_word_no_space_6: mountainstrategyostrichadmitcrouchenrich
+bip_39_word_no_space_7: mountainstrategyostrichadmitcrouchenrichindustry
+bip_39_word_no_space_8: mountainstrategyostrichadmitcrouchenrichindustryfossil
+bip_39_word_no_space_9: mountainstrategyostrichadmitcrouchenrichindustryfossilliar
+bip_39_word_space_0:
+- mountain
+- strategy
+- ostrich
+- admit
+- crouch
+- enrich
+- industry
+- fossil
+- liar
+- jaguar
+- velvet
+- agent
+bip_39_word_space_1: mountain
+bip_39_word_space_10: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar
+bip_39_word_space_11: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar velvet
+bip_39_word_space_12: mountain strategy ostrich admit crouch enrich industry fossil
+  liar jaguar velvet agent
+bip_39_word_space_2: mountain strategy
+bip_39_word_space_3: mountain strategy ostrich
+bip_39_word_space_4: mountain strategy ostrich admit
+bip_39_word_space_5: mountain strategy ostrich admit crouch
+bip_39_word_space_6: mountain strategy ostrich admit crouch enrich
+bip_39_word_space_7: mountain strategy ostrich admit crouch enrich industry
+bip_39_word_space_8: mountain strategy ostrich admit crouch enrich industry fossil
+bip_39_word_space_9: mountain strategy ostrich admit crouch enrich industry fossil
+  liar
+bip_39_word_underscore_1: mountain
+bip_39_word_underscore_10: mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar
+bip_39_word_underscore_11: mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar_velvet
+bip_39_word_underscore_12: mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar_jaguar_velvet_agent
+bip_39_word_underscore_2: mountain_strategy
+bip_39_word_underscore_3: mountain_strategy_ostrich
+bip_39_word_underscore_4: mountain_strategy_ostrich_admit
+bip_39_word_underscore_5: mountain_strategy_ostrich_admit_crouch
+bip_39_word_underscore_6: mountain_strategy_ostrich_admit_crouch_enrich
+bip_39_word_underscore_7: mountain_strategy_ostrich_admit_crouch_enrich_industry
+bip_39_word_underscore_8: mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil
+bip_39_word_underscore_9: mountain_strategy_ostrich_admit_crouch_enrich_industry_fossil_liar
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -106,7 +327,14 @@ id_no_class: part_other_01_03_14__ptfe_tube_holder_sh_m6
 id_no_color: 010314ptfetubeholdershm6
 id_no_size: 01_03_14__ptfe_tube_holder_sh_m6
 id_no_type: other_01_03_14__ptfe_tube_holder_sh_m6
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_m6
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_m6
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_other_01_03_14__ptfe_tube_holder_sh_m6
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20347x9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20347x9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20347x9
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -132,6 +360,7 @@ name_no_color: 010314Ptfetubeholdershm6
 name_no_size: 01 03 14  Ptfe Tube Holder Sh M6
 name_no_size_short: 01 03 14  Ptfe Tube Holder Sh M6
 name_no_type: Other 01 03 14  Ptfe Tube Holder Sh M6
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_01_03_14__ptfe_tube_holder_sh_m6
 oomp_word: ant anchor baby
 oomp_word_emoji: ':ant: :anchor: :baby:'

@@ -1,3 +1,222 @@
+bip_39_word_dash_1: conduct
+bip_39_word_dash_10: conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive
+bip_39_word_dash_11: conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive-ugly
+bip_39_word_dash_12: conduct-flee-rule-gadget-mother-hip-limb-license-winner-olive-ugly-afford
+bip_39_word_dash_2: conduct-flee
+bip_39_word_dash_3: conduct-flee-rule
+bip_39_word_dash_4: conduct-flee-rule-gadget
+bip_39_word_dash_5: conduct-flee-rule-gadget-mother
+bip_39_word_dash_6: conduct-flee-rule-gadget-mother-hip
+bip_39_word_dash_7: conduct-flee-rule-gadget-mother-hip-limb
+bip_39_word_dash_8: conduct-flee-rule-gadget-mother-hip-limb-license
+bip_39_word_dash_9: conduct-flee-rule-gadget-mother-hip-limb-license-winner
+bip_39_word_new_br_1: conduct
+bip_39_word_new_br_10: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive
+bip_39_word_new_br_11: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive<br>ugly
+bip_39_word_new_br_12: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner<br>olive<br>ugly<br>afford
+bip_39_word_new_br_2: conduct<br>flee
+bip_39_word_new_br_3: conduct<br>flee<br>rule
+bip_39_word_new_br_4: conduct<br>flee<br>rule<br>gadget
+bip_39_word_new_br_5: conduct<br>flee<br>rule<br>gadget<br>mother
+bip_39_word_new_br_6: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip
+bip_39_word_new_br_7: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb
+bip_39_word_new_br_8: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license
+bip_39_word_new_br_9: conduct<br>flee<br>rule<br>gadget<br>mother<br>hip<br>limb<br>license<br>winner
+bip_39_word_new_line_1: conduct
+bip_39_word_new_line_10: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb
+
+  license
+
+  winner
+
+  olive'
+bip_39_word_new_line_11: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb
+
+  license
+
+  winner
+
+  olive
+
+  ugly'
+bip_39_word_new_line_12: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb
+
+  license
+
+  winner
+
+  olive
+
+  ugly
+
+  afford'
+bip_39_word_new_line_2: 'conduct
+
+  flee'
+bip_39_word_new_line_3: 'conduct
+
+  flee
+
+  rule'
+bip_39_word_new_line_4: 'conduct
+
+  flee
+
+  rule
+
+  gadget'
+bip_39_word_new_line_5: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother'
+bip_39_word_new_line_6: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip'
+bip_39_word_new_line_7: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb'
+bip_39_word_new_line_8: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb
+
+  license'
+bip_39_word_new_line_9: 'conduct
+
+  flee
+
+  rule
+
+  gadget
+
+  mother
+
+  hip
+
+  limb
+
+  license
+
+  winner'
+bip_39_word_no_space_1: conduct
+bip_39_word_no_space_10: conductfleerulegadgetmotherhiplimblicensewinnerolive
+bip_39_word_no_space_11: conductfleerulegadgetmotherhiplimblicensewinneroliveugly
+bip_39_word_no_space_12: conductfleerulegadgetmotherhiplimblicensewinneroliveuglyafford
+bip_39_word_no_space_2: conductflee
+bip_39_word_no_space_3: conductfleerule
+bip_39_word_no_space_4: conductfleerulegadget
+bip_39_word_no_space_5: conductfleerulegadgetmother
+bip_39_word_no_space_6: conductfleerulegadgetmotherhip
+bip_39_word_no_space_7: conductfleerulegadgetmotherhiplimb
+bip_39_word_no_space_8: conductfleerulegadgetmotherhiplimblicense
+bip_39_word_no_space_9: conductfleerulegadgetmotherhiplimblicensewinner
+bip_39_word_space_0:
+- conduct
+- flee
+- rule
+- gadget
+- mother
+- hip
+- limb
+- license
+- winner
+- olive
+- ugly
+- afford
+bip_39_word_space_1: conduct
+bip_39_word_space_10: conduct flee rule gadget mother hip limb license winner olive
+bip_39_word_space_11: conduct flee rule gadget mother hip limb license winner olive
+  ugly
+bip_39_word_space_12: conduct flee rule gadget mother hip limb license winner olive
+  ugly afford
+bip_39_word_space_2: conduct flee
+bip_39_word_space_3: conduct flee rule
+bip_39_word_space_4: conduct flee rule gadget
+bip_39_word_space_5: conduct flee rule gadget mother
+bip_39_word_space_6: conduct flee rule gadget mother hip
+bip_39_word_space_7: conduct flee rule gadget mother hip limb
+bip_39_word_space_8: conduct flee rule gadget mother hip limb license
+bip_39_word_space_9: conduct flee rule gadget mother hip limb license winner
+bip_39_word_underscore_1: conduct
+bip_39_word_underscore_10: conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive
+bip_39_word_underscore_11: conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive_ugly
+bip_39_word_underscore_12: conduct_flee_rule_gadget_mother_hip_limb_license_winner_olive_ugly_afford
+bip_39_word_underscore_2: conduct_flee
+bip_39_word_underscore_3: conduct_flee_rule
+bip_39_word_underscore_4: conduct_flee_rule_gadget
+bip_39_word_underscore_5: conduct_flee_rule_gadget_mother
+bip_39_word_underscore_6: conduct_flee_rule_gadget_mother_hip
+bip_39_word_underscore_7: conduct_flee_rule_gadget_mother_hip_limb
+bip_39_word_underscore_8: conduct_flee_rule_gadget_mother_hip_limb_license
+bip_39_word_underscore_9: conduct_flee_rule_gadget_mother_hip_limb_license_winner
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
@@ -82,7 +301,14 @@ id_no_class: part_tray_thin_12_11_12
 id_no_color: '121112'
 id_no_size: '12_11_12'
 id_no_type: tray_thin_12_11_12
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_11_12
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_11_12
+link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/oobb_part_tray_thin_12_11_12
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202sx0m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202sx0m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202sx0m
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -108,6 +334,7 @@ name_no_color: '121112'
 name_no_size: 12 11 12
 name_no_size_short: 12 11 12
 name_no_type: Tray Thin 12 11 12
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_thin_12_11_12
 oomp_word: baby_chick hospital eyes
 oomp_word_emoji: ':baby_chick: :hospital: :eyes:'
