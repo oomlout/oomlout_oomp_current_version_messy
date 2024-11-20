@@ -350,6 +350,8 @@ beef |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | hjsh5psm |  
 | short_code_upper | HJSH5PSM |  
 | short_name | Jst Sh 5 Pin Surface Mount Header 1 Mm Pitch |  

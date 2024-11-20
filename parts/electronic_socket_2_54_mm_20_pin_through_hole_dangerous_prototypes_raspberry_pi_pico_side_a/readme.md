@@ -398,6 +398,8 @@ rocket |
 | part_number_upper_length_4 | RASP |  
 | part_number_upper_length_5 | RASPB |  
 | part_number_upper_length_6 | RASPBE |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | sci120pth |  
 | short_code_upper | SCI120PTH |  
 | size | 2_54_mm |  

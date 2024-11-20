@@ -398,6 +398,8 @@ attract |
 | part_number_upper_length_4 | RS24 |  
 | part_number_upper_length_5 | RS240 |  
 | part_number_upper_length_6 | RS240_ |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | b |  
 | short_code_upper | B |  
 | short_name |  |  

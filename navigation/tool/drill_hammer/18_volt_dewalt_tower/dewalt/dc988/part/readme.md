@@ -351,6 +351,8 @@ soft |
 | part_number_upper_length_4 | DC98 |  
 | part_number_upper_length_5 | DC988 |  
 | part_number_upper_length_6 | DC988 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 18_volt_dewalt_tower |  

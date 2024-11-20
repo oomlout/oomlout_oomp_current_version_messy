@@ -350,6 +350,8 @@ tilt |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | hjsh3psm |  
 | short_code_upper | HJSH3PSM |  
 | short_name | Jst Sh 3 Pin Surface Mount Header 1 Mm Pitch |  

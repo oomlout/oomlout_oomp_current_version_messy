@@ -377,6 +377,8 @@ heavy |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | catuf4d7v16 |  
 | short_code_upper | CATUF4D7V16 |  
 | size | 3216_avx_a |  

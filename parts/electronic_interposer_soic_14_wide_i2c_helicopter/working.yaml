@@ -451,6 +451,8 @@ pins:
     name: address
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: insoic14wi2cheli
 short_code_upper: INSOIC14WI2CHELI
 short_name: ''

@@ -515,6 +515,8 @@ pins:
     name: d6
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: pm328ac
 short_code_upper: PM328AC
 short_name: ''

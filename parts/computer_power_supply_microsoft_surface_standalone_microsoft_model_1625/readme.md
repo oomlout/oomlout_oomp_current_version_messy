@@ -375,6 +375,8 @@ sunset |
 | part_number_upper_length_4 | MODE |  
 | part_number_upper_length_5 | MODEL |  
 | part_number_upper_length_6 | MODEL_ |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | microsoft_surface |  

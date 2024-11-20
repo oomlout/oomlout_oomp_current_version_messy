@@ -395,6 +395,8 @@ army |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | fh5b14h |  
 | short_code_upper | FH5B14H |  
 | size | m5 |  

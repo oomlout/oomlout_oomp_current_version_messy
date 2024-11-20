@@ -465,6 +465,8 @@ pins:
     name: v3
     number: '8'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: isp8
 short_code_upper: ISP8
 short_name: usb to serial converter (ch340n)

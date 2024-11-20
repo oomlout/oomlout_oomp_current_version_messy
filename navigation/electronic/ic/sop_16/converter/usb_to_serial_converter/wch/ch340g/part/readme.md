@@ -401,6 +401,8 @@ siren |
 | part_number_upper_length_5 | CH340 |  
 | part_number_upper_length_6 | CH340G |  
 | pins | {'pin_1': {'name': 'gnd', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'dsr', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': 'ri', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': 'dcd', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': 'dtr', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': 'rts', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'rs232', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'vcc', 'number': '16', 'type': 'signal'}, 'pin_2': {'name': 'txd', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'rxd', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'v3', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'ud_positive', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'ud_negative', 'number': '6', 'type': 'gnd'}, 'pin_7': {'name': 'xi', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'xo', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'cts', 'number': '9', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | isp16ch340g |  
 | short_code_upper | ISP16CH340G |  
 | short_name | usb to serial converter (ch340g) |  

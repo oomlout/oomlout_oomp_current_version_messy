@@ -362,6 +362,8 @@ part_number_upper: ''
 price_1: 0.10858333333333334
 price_1_distributor_amazon: 0.06658333333333334
 price_1_distributor_rapid_online: 0.10858333333333334
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height

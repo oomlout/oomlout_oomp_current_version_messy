@@ -387,6 +387,8 @@ part_number_upper_length_5: T4066
 part_number_upper_length_6: T4066
 price_1: "\xA30.79"
 price_10: "\xA30.79"
+price_1_name: orbital_fasteners
+price_2_name: accu
 price_current: "\xA30.79"
 short_code: ''
 short_code_upper: ''

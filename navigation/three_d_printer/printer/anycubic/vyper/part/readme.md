@@ -349,6 +349,8 @@ pride |
 | part_number_upper_length_4 | VYPE |  
 | part_number_upper_length_5 | VYPER |  
 | part_number_upper_length_6 | VYPER |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

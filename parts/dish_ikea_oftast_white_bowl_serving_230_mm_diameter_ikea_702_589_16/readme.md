@@ -424,6 +424,8 @@ candy |
 | part_number_upper_length_4 | 702_ |  
 | part_number_upper_length_5 | 702_5 |  
 | part_number_upper_length_6 | 702_58 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_oftast |  

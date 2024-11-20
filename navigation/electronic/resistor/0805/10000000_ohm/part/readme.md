@@ -330,6 +330,8 @@ basket |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | r8o106 |  
 | short_code_upper | R8O106 |  
 | size | 0805 |  

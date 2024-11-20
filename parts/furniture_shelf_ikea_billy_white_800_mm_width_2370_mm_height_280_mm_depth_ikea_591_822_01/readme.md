@@ -401,6 +401,8 @@ hello |
 | part_number_upper_length_4 | 591_ |  
 | part_number_upper_length_5 | 591_8 |  
 | part_number_upper_length_6 | 591_82 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_billy |  

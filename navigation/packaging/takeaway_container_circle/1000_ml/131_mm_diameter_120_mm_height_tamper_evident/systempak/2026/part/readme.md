@@ -378,6 +378,8 @@ clean |
 | part_number_upper_length_4 | 2026 |  
 | part_number_upper_length_5 | 2026 |  
 | part_number_upper_length_6 | 2026 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

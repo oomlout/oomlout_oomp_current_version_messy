@@ -421,6 +421,8 @@ during |
 | part_number_upper_length_4 | BPRS |  
 | part_number_upper_length_5 | BPRS7 |  
 | part_number_upper_length_6 | BPRS70 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | b |  
 | short_code_upper | B |  
 | short_name |  |  

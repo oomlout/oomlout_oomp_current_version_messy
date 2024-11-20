@@ -350,6 +350,8 @@ practice |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | hi124pthl |  
 | short_code_upper | HI124PTHL |  
 | size | 2_54_mm |  

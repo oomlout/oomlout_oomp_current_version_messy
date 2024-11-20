@@ -384,6 +384,8 @@ dismiss |
 | part_number_upper_length_4 | 0538 |  
 | part_number_upper_length_5 | 05385 |  
 | part_number_upper_length_6 | 05385_ |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

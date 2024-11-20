@@ -477,6 +477,8 @@ pins:
     name: in1
     number: '8'
     type: power
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: itssp8mpptps2113
 short_code_upper: ITSSP8MPPTPS2113
 short_name: autoswitching power mux (tps2113apw)

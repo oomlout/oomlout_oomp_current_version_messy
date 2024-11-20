@@ -377,6 +377,8 @@ differ |
 | part_number_upper_length_4 | KFSN |  
 | part_number_upper_length_5 | KFSNW |  
 | part_number_upper_length_6 | KFSNWI |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | amazon_fire |  

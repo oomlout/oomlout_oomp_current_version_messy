@@ -399,6 +399,8 @@ judge |
 | part_number_upper_length_4 | MKS_ |  
 | part_number_upper_length_5 | MKS_S |  
 | part_number_upper_length_6 | MKS_SE |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | sm |  
 | short_code_upper | SM |  
 | short_name |  |  

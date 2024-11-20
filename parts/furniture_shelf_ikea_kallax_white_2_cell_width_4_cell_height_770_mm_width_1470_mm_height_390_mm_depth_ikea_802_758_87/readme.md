@@ -425,6 +425,8 @@ virus |
 | part_number_upper_length_4 | 802_ |  
 | part_number_upper_length_5 | 802_7 |  
 | part_number_upper_length_6 | 802_75 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_kallax |  

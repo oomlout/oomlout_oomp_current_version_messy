@@ -354,6 +354,8 @@ muffin |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | 316pz |  
 | short_code_upper | 316PZ |  
 | size | m3 |  

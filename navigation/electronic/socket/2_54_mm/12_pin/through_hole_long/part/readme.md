@@ -350,6 +350,8 @@ secret |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | sci112pthl |  
 | short_code_upper | SCI112PTHL |  
 | size | 2_54_mm |  

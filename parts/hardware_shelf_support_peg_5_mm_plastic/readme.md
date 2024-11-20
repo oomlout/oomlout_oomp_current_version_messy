@@ -330,6 +330,8 @@ suffer |
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1_distributor_amazon | 0.29125000000000006 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | 5 |  
 | short_code_upper | 5 |  
 | size | 5_mm |  

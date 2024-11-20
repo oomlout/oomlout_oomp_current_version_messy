@@ -449,6 +449,8 @@ pins:
     name: pin_9
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: insoic14wi2cland
 short_code_upper: INSOIC14WI2CLAND
 short_name: ''

@@ -397,6 +397,8 @@ damp |
 | part_number_upper_length_4 | RBAC |  
 | part_number_upper_length_5 | RBAC1 |  
 | part_number_upper_length_6 | RBAC12 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

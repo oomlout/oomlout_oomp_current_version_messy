@@ -399,6 +399,8 @@ brown |
 | part_number_upper_length_5 | ALS_P |  
 | part_number_upper_length_6 | ALS_PT |  
 | pins | {'pin_1': {'name': 'collector', 'number': '1', 'type': 'signal'}, 'pin_2': {'name': 'emitter', 'number': '2', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | i6snl |  
 | short_code_upper | I6SNL |  
 | short_name | everlight elec als_pt19_315c_l177_tr8 |  

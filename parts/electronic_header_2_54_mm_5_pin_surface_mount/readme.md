@@ -351,6 +351,8 @@ brown |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | hi15psm |  
 | short_code_upper | HI15PSM |  
 | size | 2_54_mm |  

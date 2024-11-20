@@ -379,6 +379,8 @@ part_number_upper_length_3: '1_3'
 part_number_upper_length_4: '1_30'
 part_number_upper_length_5: '1_30_'
 part_number_upper_length_6: '1_30_6'
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: ''
 short_code_upper: ''
 size: 5000_mm_length

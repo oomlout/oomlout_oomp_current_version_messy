@@ -377,6 +377,8 @@ document |
 | part_number_upper_length_4 | E200 |  
 | part_number_upper_length_5 | E2009 |  
 | part_number_upper_length_6 | E2009W |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 508_mm_screen_diagonal |  

@@ -373,6 +373,8 @@ stomach |
 | part_number_upper_length_4 | BOLT |  
 | part_number_upper_length_5 | BOLT_ |  
 | part_number_upper_length_6 | BOLT_T |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 200_mm_width_344_mm_length_3_5_mm_depth |  

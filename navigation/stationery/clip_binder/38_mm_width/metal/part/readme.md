@@ -328,6 +328,8 @@ bamboo |
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1_distributor_amazon | 0.27708333333333335 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

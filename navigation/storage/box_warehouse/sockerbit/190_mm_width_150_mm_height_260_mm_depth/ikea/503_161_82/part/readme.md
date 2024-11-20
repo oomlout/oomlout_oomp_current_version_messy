@@ -373,6 +373,8 @@ wool |
 | part_number_upper_length_4 | 503_ |  
 | part_number_upper_length_5 | 503_1 |  
 | part_number_upper_length_6 | 503_16 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

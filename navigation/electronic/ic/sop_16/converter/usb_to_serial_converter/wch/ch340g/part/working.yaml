@@ -507,6 +507,8 @@ pins:
     name: cts
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: isp16ch340g
 short_code_upper: ISP16CH340G
 short_name: usb to serial converter (ch340g)

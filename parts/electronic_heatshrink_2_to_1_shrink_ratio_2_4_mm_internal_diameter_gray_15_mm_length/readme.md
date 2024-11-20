@@ -350,6 +350,8 @@ invite |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | gr15 |  
 | short_code_upper | GR15 |  
 | size | 2_4_mm_internal_diameter |  

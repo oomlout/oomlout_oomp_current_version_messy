@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.0034 | 0.0034 | 0.0034 | 0.0022 | 0.0017 |
 | orbital_fasteners | 0.0034 | 0.0034 | 0.0034 | 0.0022 | 0.0017 | 
-
+| accu |  |  |  |  |  | 
 
 
 
@@ -335,20 +335,17 @@ flash |
 | price_10000 | 0.0017 |  
 | price_10000_distributor_1 | 0.0017 |  
 | price_10000_distributor_orbital_fasteners | 0.0017 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0022 |  
 | price_1000_distributor_orbital_fasteners | 0.0022 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.0034 |  
 | price_100_distributor_orbital_fasteners | 0.0034 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.0034 |  
 | price_1_distributor_orbital_fasteners | 0.0034 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0034 |  
 | price_200_distributor_1 | 0.0034 |  
 | price_200_distributor_orbital_fasteners | 0.0034 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.0034 |  
 | quantity_current | 200 |  
 | short_code | w4 |  

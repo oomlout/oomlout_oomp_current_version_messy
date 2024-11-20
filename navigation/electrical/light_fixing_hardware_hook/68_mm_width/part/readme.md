@@ -53,8 +53,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | dist | 1 | 100 | 200 | 1000 | 10000 |
 |------|---|-----|-----|------|-------|
 |  | 1.1650000000000003 |  |  |  |  |
-
-
+| orbital_fasteners |  |  |  |  |  | 
+| accu |  |  |  |  |  | 
 
 
 
@@ -321,6 +321,8 @@ length |
 | part_number_upper |  |  
 | price_1 | 1.1650000000000003 |  
 | price_1_distributor_amazon | 1.1650000000000003 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

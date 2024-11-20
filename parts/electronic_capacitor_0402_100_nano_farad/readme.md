@@ -330,6 +330,8 @@ great |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | c4nf100 |  
 | short_code_upper | C4NF100 |  
 | size | 0402 |  

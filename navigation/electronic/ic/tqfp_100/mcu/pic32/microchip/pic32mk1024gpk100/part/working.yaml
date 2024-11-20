@@ -434,6 +434,8 @@ part_number_upper_length_3: PIC
 part_number_upper_length_4: PIC3
 part_number_upper_length_5: PIC32
 part_number_upper_length_6: PIC32M
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: imcup32mk1024
 short_code_upper: IMCUP32MK1024
 short_name: 'pic32mk1024gpk100 '

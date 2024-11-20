@@ -399,6 +399,8 @@ erupt |
 | part_number_upper_length_4 | 726F |  
 | part_number_upper_length_5 | 726FY |  
 | part_number_upper_length_6 | 726FY |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | pz |  
 | short_code_upper | PZ |  
 | short_name |  |  

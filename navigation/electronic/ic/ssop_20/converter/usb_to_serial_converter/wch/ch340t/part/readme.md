@@ -400,6 +400,8 @@ hammer |
 | part_number_upper_length_5 | CH340 |  
 | part_number_upper_length_6 | CH340T |  
 | pins | {'pin_1': {'name': 'cko', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'xo', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': 'cts', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': 'dsr', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': 'ri', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': 'dcd', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'dtr', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'rts', 'number': '16', 'type': 'signal'}, 'pin_17': {'name': 'tnow', 'number': '16', 'type': 'signal'}, 'pin_18': {'name': 'r232', 'number': '16', 'type': 'signal'}, 'pin_19': {'name': 'vcc', 'number': '16', 'type': 'signal'}, 'pin_2': {'name': 'act', 'number': '2', 'type': 'signal'}, 'pin_20': {'name': 'nos', 'number': '16', 'type': 'signal'}, 'pin_3': {'name': 'txd', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'rxd', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'v3', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'ud_positive', 'number': '6', 'type': 'gnd'}, 'pin_7': {'name': 'ud_negative', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'gnd', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'xi', 'number': '9', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | ich340t |  
 | short_code_upper | ICH340T |  
 | short_name | usb to serial converter (ch340t) |  

@@ -395,6 +395,8 @@ title |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | fh3b8ph |  
 | short_code_upper | FH3B8PH |  
 | size | m3 |  

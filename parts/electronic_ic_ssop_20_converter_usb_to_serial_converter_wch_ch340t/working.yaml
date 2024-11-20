@@ -513,6 +513,8 @@ pins:
     name: xi
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: ich340t
 short_code_upper: ICH340T
 short_name: usb to serial converter (ch340t)

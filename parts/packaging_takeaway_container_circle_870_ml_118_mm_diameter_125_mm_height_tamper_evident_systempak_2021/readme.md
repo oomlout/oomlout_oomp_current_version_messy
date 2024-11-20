@@ -379,6 +379,8 @@ cat |
 | part_number_upper_length_4 | 2021 |  
 | part_number_upper_length_5 | 2021 |  
 | part_number_upper_length_6 | 2021 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

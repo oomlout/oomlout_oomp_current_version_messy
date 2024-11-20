@@ -435,7 +435,9 @@ price_1: missing_value
 price_100: missing_value
 price_1000: missing_value
 price_10000: missing_value
+price_1_name: orbital_fasteners
 price_200: missing_value
+price_2_name: accu
 price_current: missing_value
 short_code: sc3b60h
 short_code_upper: SC3B60H

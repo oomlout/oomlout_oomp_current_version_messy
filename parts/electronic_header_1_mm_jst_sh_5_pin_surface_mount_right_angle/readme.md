@@ -351,6 +351,8 @@ hunt |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | hjsh5psmra |  
 | short_code_upper | HJSH5PSMRA |  
 | short_name | Jst Sh 5 Pin Surface Mount Right Angle Header 1 Mm Pitch |  

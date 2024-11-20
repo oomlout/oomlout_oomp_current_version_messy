@@ -400,6 +400,8 @@ flag |
 | part_number_upper_length_5 | CH340 |  
 | part_number_upper_length_6 | CH340N |  
 | pins | {'pin_1': {'name': 'ud_positive', 'number': '1', 'type': 'signal'}, 'pin_2': {'name': 'ud_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'gnd', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'rts', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'vcc', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'txd', 'number': '6', 'type': 'gnd'}, 'pin_7': {'name': 'rxd', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'v3', 'number': '8', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | isp8 |  
 | short_code_upper | ISP8 |  
 | short_name | usb to serial converter (ch340n) |  

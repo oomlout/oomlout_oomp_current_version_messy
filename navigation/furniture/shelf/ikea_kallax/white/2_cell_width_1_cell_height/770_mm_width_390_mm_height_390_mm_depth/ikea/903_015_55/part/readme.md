@@ -425,6 +425,8 @@ narrow |
 | part_number_upper_length_4 | 903_ |  
 | part_number_upper_length_5 | 903_0 |  
 | part_number_upper_length_6 | 903_01 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_kallax |  

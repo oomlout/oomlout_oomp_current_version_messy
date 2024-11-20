@@ -520,6 +520,8 @@ pins:
     name: io25
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: dce32
 short_code_upper: DCE32
 short_name: ''

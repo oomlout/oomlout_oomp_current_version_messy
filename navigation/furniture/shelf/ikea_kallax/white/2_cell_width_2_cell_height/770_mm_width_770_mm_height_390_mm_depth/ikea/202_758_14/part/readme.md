@@ -425,6 +425,8 @@ eager |
 | part_number_upper_length_4 | 202_ |  
 | part_number_upper_length_5 | 202_7 |  
 | part_number_upper_length_6 | 202_75 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_kallax |  

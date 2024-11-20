@@ -53,8 +53,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | dist | 1 | 100 | 200 | 1000 | 10000 |
 |------|---|-----|-----|------|-------|
 |  | £0.79 |  |  |  |  |
-
-
+| orbital_fasteners |  |  |  |  |  | 
+| accu |  |  |  |  |  | 
 
 
 
@@ -370,6 +370,8 @@ pumpkin |
 | part_number_upper_length_6 | T4066 |  
 | price_1 | £0.79 |  
 | price_10 | £0.79 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | £0.79 |  
 | short_code |  |  
 | short_code_upper |  |  

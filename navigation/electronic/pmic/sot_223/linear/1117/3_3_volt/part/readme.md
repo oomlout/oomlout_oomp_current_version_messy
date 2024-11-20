@@ -375,6 +375,8 @@ mystery |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | pms22311173d3v |  
 | short_code_upper | PMS22311173D3V |  
 | short_name |  |  

@@ -351,6 +351,8 @@ help |
 | part_number_upper_length_4 | CT08 |  
 | part_number_upper_length_5 | CT083 |  
 | part_number_upper_length_6 | CT083 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

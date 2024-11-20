@@ -349,6 +349,8 @@ whip |
 | part_number_upper_length_4 | BX_L |  
 | part_number_upper_length_5 | BX_LC |  
 | part_number_upper_length_6 | BX_LC6 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

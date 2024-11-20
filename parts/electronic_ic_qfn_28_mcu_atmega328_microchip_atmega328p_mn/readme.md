@@ -397,6 +397,8 @@ page |
 | part_number_upper_length_4 | ATME |  
 | part_number_upper_length_5 | ATMEG |  
 | part_number_upper_length_6 | ATMEGA |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | iq28mcuat328 |  
 | short_code_upper | IQ28MCUAT328 |  
 | short_name | atmega328 28 pin qfn |  

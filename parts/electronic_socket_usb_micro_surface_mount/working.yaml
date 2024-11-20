@@ -394,6 +394,8 @@ pins:
     name: shield
     number: '6'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: scumcsm
 short_code_upper: SCUMCSM
 short_name: ''

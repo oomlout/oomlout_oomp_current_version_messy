@@ -350,6 +350,8 @@ journey |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | o |  
 | short_code_upper | O |  
 | size | 12_7_mm_internal_diameter |  

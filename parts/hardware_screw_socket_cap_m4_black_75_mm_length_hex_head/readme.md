@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_75_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_75_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_75_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_75_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour) [webpage_distributor_accu](https://www.accu.co.uk/search-uk)                           
 
 #### price
 
@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.2173 | 0.2173 | 0.1207 | 0.0966 | 0.0966 |
 | orbital_fasteners | 0.2173 | 0.2173 | 0.1207 | 0.0966 | 0.0966 | 
-
+| accu |  |  |  |  |  | 
 
 
 
@@ -355,9 +355,13 @@ inform |
 | link_2_name | github_link |  
 | link_3 | https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour |  
 | link_3_name | webpage_distributor_orbital_fasteners |  
+| link_4 | https://www.accu.co.uk/search-uk |  
+| link_4_name | webpage_distributor_accu |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour |  
 | link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour |  
 | link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_2 | https://www.accu.co.uk/search-uk |  
+| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_75_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203vbdl |  
@@ -415,6 +419,8 @@ inform |
 | oomp_word_list | ['rose', 'zap', 'dragon'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_accu | SSCF-M4-75-12.9 |  
+| part_number_distributor_accu_search | SSCF-M4-75-12.9+-zinc |  
 | part_number_distributor_orbital_fasteners | 1891149 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
@@ -426,20 +432,17 @@ inform |
 | price_10000 | 0.0966 |  
 | price_10000_distributor_1 | 0.0966 |  
 | price_10000_distributor_orbital_fasteners | 0.0966 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0966 |  
 | price_1000_distributor_orbital_fasteners | 0.0966 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.2173 |  
 | price_100_distributor_orbital_fasteners | 0.2173 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.2173 |  
 | price_1_distributor_orbital_fasteners | 0.2173 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.1207 |  
 | price_200_distributor_1 | 0.1207 |  
 | price_200_distributor_orbital_fasteners | 0.1207 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.1207 |  
 | quantity_current | 200 |  
 | short_code | sc4b75h |  
@@ -506,4 +509,5 @@ inform |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_accu | https://www.accu.co.uk/search-uk |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m4-x-75-socket-cap-screw-h-t-grade-12-9-self-colour |  

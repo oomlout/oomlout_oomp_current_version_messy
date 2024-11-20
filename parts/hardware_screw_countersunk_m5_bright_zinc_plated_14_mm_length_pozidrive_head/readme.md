@@ -395,6 +395,8 @@ opinion |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | cs514pz |  
 | short_code_upper | CS514PZ |  
 | size | m5 |  

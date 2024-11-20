@@ -375,6 +375,8 @@ tragic |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | pms2231117 |  
 | short_code_upper | PMS2231117 |  
 | short_name |  |  

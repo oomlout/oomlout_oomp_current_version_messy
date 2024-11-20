@@ -351,6 +351,8 @@ simple |
 | part_number_upper_length_4 | R18P |  
 | part_number_upper_length_5 | R18PD |  
 | part_number_upper_length_6 | R18PD3 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 18_volt_ryobi_one |  

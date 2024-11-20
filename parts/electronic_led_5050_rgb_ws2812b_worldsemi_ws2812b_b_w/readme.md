@@ -402,6 +402,8 @@ roof |
 | part_number_upper_length_5 | WS281 |  
 | part_number_upper_length_6 | WS2812 |  
 | pins | {'pin_1': {'name': 'vdd', 'number': '1', 'type': 'signal'}, 'pin_2': {'name': 'dout', 'number': '2', 'type': 'power'}, 'pin_3': {'name': 'vss', 'number': '3', 'type': 'power'}, 'pin_4': {'name': 'din', 'number': '4', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | l50502812ws2812bbw |  
 | short_code_upper | L50502812WS2812BBW |  
 | short_name | 5050 Rgbws2812B Led |  

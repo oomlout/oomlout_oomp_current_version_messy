@@ -379,6 +379,8 @@ sock |
 | part_number_upper_length_4 | 2030 |  
 | part_number_upper_length_5 | 2030S |  
 | part_number_upper_length_6 | 2030SL |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

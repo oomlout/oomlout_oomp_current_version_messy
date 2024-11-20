@@ -353,6 +353,8 @@ suspect |
 | part_number_upper_length_4 | 1N41 |  
 | part_number_upper_length_5 | 1N414 |  
 | part_number_upper_length_6 | 1N4148 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | dsod123pmt44148 |  
 | short_code_upper | DSOD123PMT44148 |  
 | size | sod_123 |  

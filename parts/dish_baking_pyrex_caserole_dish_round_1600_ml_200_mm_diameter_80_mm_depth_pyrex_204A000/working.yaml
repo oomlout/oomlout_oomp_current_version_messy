@@ -431,6 +431,8 @@ part_number_upper_length_3: '204'
 part_number_upper_length_4: 204A
 part_number_upper_length_5: 204A0
 part_number_upper_length_6: 204A00
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: ''
 short_code_upper: ''
 size: pyrex

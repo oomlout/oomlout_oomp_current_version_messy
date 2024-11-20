@@ -402,6 +402,8 @@ post |
 | part_number_upper_length_4 | PBR3 |  
 | part_number_upper_length_5 | PBR3_ |  
 | part_number_upper_length_6 | PBR3_5 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | c |  
 | short_code_upper | C |  
 | short_name |  |  

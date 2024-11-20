@@ -473,6 +473,8 @@ pins:
     name: vdd
     number: '8'
     type: power
+price_1_name: orbital_fasteners
+price_2_name: accu
 short_code: isnpt280
 short_code_upper: ISNPT280
 short_name: bosch sensortec bme280 pressure and temperature sensor

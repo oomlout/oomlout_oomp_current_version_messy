@@ -351,6 +351,8 @@ impose |
 | part_number_upper_length_4 | 1290 |  
 | part_number_upper_length_5 | 1290 |  
 | part_number_upper_length_6 | 1290 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 1200_mm_width_900_mm_height |  

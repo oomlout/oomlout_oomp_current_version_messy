@@ -375,6 +375,8 @@ topic |
 | part_number_upper_length_4 | JEWE |  
 | part_number_upper_length_5 | JEWEL |  
 | part_number_upper_length_6 | JEWELR |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 76_mm_width_114_mm_height_20_mm_depth |  

@@ -401,6 +401,8 @@ setup |
 | part_number_upper_length_4 | 904_ |  
 | part_number_upper_length_5 | 904_0 |  
 | part_number_upper_length_6 | 904_01 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_billy |  

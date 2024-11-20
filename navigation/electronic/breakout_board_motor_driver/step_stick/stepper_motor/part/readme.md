@@ -330,6 +330,8 @@ cloth |
 | part_number_name |  |  
 | part_number_upper |  |  
 | pins | {'pin_1': {'name': 'en', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'vdd', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': '1b', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': '1a', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': '2a', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': '2b', 'number': '14', 'type': 'signal'}, 'pin_15': {'name': 'gnd', 'number': '15', 'type': 'signal'}, 'pin_16': {'name': 'vmot', 'number': '16', 'type': 'signal'}, 'pin_2': {'name': 'ms1', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'ms2', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'ms3', 'number': '4', 'type': 'power'}, 'pin_5': {'name': 'rst', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'slp', 'number': '6', 'type': 'signal'}, 'pin_7': {'name': 'step', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'dir', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | sssm |  
 | short_code_upper | SSSM |  
 | short_name |  |  

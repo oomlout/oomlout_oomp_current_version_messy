@@ -401,6 +401,8 @@ crystal |
 | part_number_upper_length_4 | 208A |  
 | part_number_upper_length_5 | 208A0 |  
 | part_number_upper_length_6 | 208A00 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | pyrex |  

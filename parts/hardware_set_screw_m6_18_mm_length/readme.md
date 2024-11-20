@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.0551 | 0.0551 | 0.0551 | 0.0306 | 0.0245 |
 | orbital_fasteners | 0.0551 | 0.0551 | 0.0551 | 0.0306 | 0.0245 | 
-
+| accu |  |  |  |  |  | 
 
 
 
@@ -370,6 +370,7 @@ sister |
 | part_number_distributor_orbital_fasteners | 1851178 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
+| part_number_manufacturer_metalmate | Z0318M490018 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.0551 |  
@@ -378,20 +379,17 @@ sister |
 | price_10000 | 0.0245 |  
 | price_10000_distributor_1 | 0.0245 |  
 | price_10000_distributor_orbital_fasteners | 0.0245 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0306 |  
 | price_1000_distributor_orbital_fasteners | 0.0306 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.0551 |  
 | price_100_distributor_orbital_fasteners | 0.0551 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.0551 |  
 | price_1_distributor_orbital_fasteners | 0.0551 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0551 |  
 | price_200_distributor_1 | 0.0551 |  
 | price_200_distributor_orbital_fasteners | 0.0551 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.0551 |  
 | quantity_current | 200 |  
 | short_code | ss618 |  

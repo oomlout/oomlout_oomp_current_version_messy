@@ -351,6 +351,8 @@ crawl |
 | part_number_upper_length_4 | SMAL |  
 | part_number_upper_length_5 | SMALL |  
 | part_number_upper_length_6 | SMALL_ |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

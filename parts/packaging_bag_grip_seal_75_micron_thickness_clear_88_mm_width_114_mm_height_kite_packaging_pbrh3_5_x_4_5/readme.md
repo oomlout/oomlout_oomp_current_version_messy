@@ -402,6 +402,8 @@ approve |
 | part_number_upper_length_4 | PBRH |  
 | part_number_upper_length_5 | PBRH3 |  
 | part_number_upper_length_6 | PBRH3_ |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | c |  
 | short_code_upper | C |  
 | short_name |  |  

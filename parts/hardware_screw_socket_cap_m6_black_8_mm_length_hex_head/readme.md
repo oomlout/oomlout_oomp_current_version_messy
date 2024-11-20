@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_distributor_accu](https://www.accu.co.uk/metric-cap-head-screws/16069-SSCF-M6-8-12-9) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008)                          
 
 #### price
 
@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.0596 | 0.0596 | 0.0331 | 0.0265 | 0.0265 |
 | orbital_fasteners | 0.0596 | 0.0596 | 0.0331 | 0.0265 | 0.0265 | 
-
+| accu | 0.67 | 0.06 | 0.06 | 0.05 | 0.04 | 
 
 
 
@@ -359,11 +359,15 @@ wine |
 | link_2_name | github_link |  
 | link_3 | https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008 |  
-| link_4_name | webpage_manufacturer_metalmate |  
+| link_4 | https://www.accu.co.uk/metric-cap-head-screws/16069-SSCF-M6-8-12-9 |  
+| link_4_name | webpage_distributor_accu |  
+| link_5 | https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008 |  
+| link_5_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_buy_1 | https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_2 | https://www.accu.co.uk/metric-cap-head-screws/16069-SSCF-M6-8-12-9 |  
+| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_8_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205qyu7 |  
@@ -422,6 +426,8 @@ wine |
 | oomp_word_list | ['books', 'rat', 'fountain'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_accu | SSCF-M6-8-12.9 |  
+| part_number_distributor_accu_search | SSCF-M6-8-12.9+-zinc |  
 | part_number_distributor_orbital_fasteners | 1891271 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
@@ -433,21 +439,28 @@ wine |
 | price_1000 | 0.0265 |  
 | price_10000 | 0.0265 |  
 | price_10000_distributor_1 | 0.0265 |  
+| price_10000_distributor_2 | 0.04 |  
+| price_10000_distributor_accu | 0.04 |  
 | price_10000_distributor_orbital_fasteners | 0.0265 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0265 |  
+| price_1000_distributor_2 | 0.05 |  
+| price_1000_distributor_accu | 0.05 |  
 | price_1000_distributor_orbital_fasteners | 0.0265 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.0596 |  
+| price_100_distributor_2 | 0.06 |  
+| price_100_distributor_accu | 0.06 |  
 | price_100_distributor_orbital_fasteners | 0.0596 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.0596 |  
+| price_1_distributor_2 | 0.67 |  
+| price_1_distributor_accu | 0.67 |  
 | price_1_distributor_orbital_fasteners | 0.0596 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0331 |  
 | price_200_distributor_1 | 0.0331 |  
+| price_200_distributor_2 | 0.06 |  
+| price_200_distributor_accu | 0.06 |  
 | price_200_distributor_orbital_fasteners | 0.0331 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.0331 |  
 | quantity_current | 200 |  
 | short_code | sc6b8h |  
@@ -514,5 +527,6 @@ wine |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_accu | https://www.accu.co.uk/metric-cap-head-screws/16069-SSCF-M6-8-12-9 |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-8-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-8-socket-cap-screw-gr12-9-self-colour-din-912-1150m490008 |  

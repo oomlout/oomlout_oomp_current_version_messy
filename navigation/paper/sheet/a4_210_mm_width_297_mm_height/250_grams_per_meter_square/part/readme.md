@@ -53,8 +53,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | dist | 1 | 100 | 200 | 1000 | 10000 |
 |------|---|-----|-----|------|-------|
 |  | 0.10858333333333334 |  |  |  |  |
-
-
+| orbital_fasteners |  |  |  |  |  | 
+| accu |  |  |  |  |  | 
 
 
 
@@ -351,6 +351,8 @@ turtle |
 | price_1 | 0.10858333333333334 |  
 | price_1_distributor_amazon | 0.06658333333333334 |  
 | price_1_distributor_rapid_online | 0.10858333333333334 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a4_210_mm_width_297_mm_height |  

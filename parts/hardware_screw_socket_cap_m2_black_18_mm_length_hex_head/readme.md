@@ -395,6 +395,8 @@ absent |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | sc2b18h |  
 | short_code_upper | SC2B18H |  
 | size | m2 |  

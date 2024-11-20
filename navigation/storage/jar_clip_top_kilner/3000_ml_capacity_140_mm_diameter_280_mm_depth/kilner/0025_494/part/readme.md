@@ -377,6 +377,8 @@ attend |
 | part_number_upper_length_4 | 0025 |  
 | part_number_upper_length_5 | 0025_ |  
 | part_number_upper_length_6 | 0025_4 |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

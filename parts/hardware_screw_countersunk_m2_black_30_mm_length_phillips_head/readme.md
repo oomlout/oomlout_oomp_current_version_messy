@@ -395,6 +395,8 @@ family |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | cs2b30ph |  
 | short_code_upper | CS2B30PH |  
 | size | m2 |  

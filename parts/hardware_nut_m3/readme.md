@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.0038 | 0.0038 | 0.0038 | 0.0038 | 0.0017 |
 | orbital_fasteners | 0.0038 | 0.0038 | 0.0038 | 0.0038 | 0.0017 | 
-
+| accu |  |  |  |  |  | 
 
 
 
@@ -345,20 +345,17 @@ pact |
 | price_10000 | 0.0017 |  
 | price_10000_distributor_1 | 0.0017 |  
 | price_10000_distributor_orbital_fasteners | 0.0017 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0038 |  
 | price_1000_distributor_orbital_fasteners | 0.0038 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.0038 |  
 | price_100_distributor_orbital_fasteners | 0.0038 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.0038 |  
 | price_1_distributor_orbital_fasteners | 0.0038 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0038 |  
 | price_200_distributor_1 | 0.0038 |  
 | price_200_distributor_orbital_fasteners | 0.0038 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.0038 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 125 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 250 |  

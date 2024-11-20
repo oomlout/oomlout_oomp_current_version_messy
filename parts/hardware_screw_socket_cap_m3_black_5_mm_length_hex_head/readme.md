@@ -53,8 +53,8 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | dist | 1 | 100 | 200 | 1000 | 10000 |
 |------|---|-----|-----|------|-------|
 |  | missing_value | missing_value | missing_value | missing_value | missing_value |
-
-
+| orbital_fasteners |  |  |  |  |  | 
+| accu |  |  |  |  |  | 
 
 
 
@@ -424,7 +424,9 @@ obey |
 | price_100 | missing_value |  
 | price_1000 | missing_value |  
 | price_10000 | missing_value |  
+| price_1_name | orbital_fasteners |  
 | price_200 | missing_value |  
+| price_2_name | accu |  
 | price_current | missing_value |  
 | short_code | sc3b5h |  
 | short_code_upper | SC3B5H |  

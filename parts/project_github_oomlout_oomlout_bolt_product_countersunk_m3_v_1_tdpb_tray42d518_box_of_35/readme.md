@@ -403,6 +403,8 @@ funny |
 | part_number_upper_length_4 | BOX_ |  
 | part_number_upper_length_5 | BOX_O |  
 | part_number_upper_length_6 | BOX_OF |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | oomlout |  

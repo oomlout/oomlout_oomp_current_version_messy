@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.0846 | 0.0706 | 0.0706 | 0.0564 | 0.0564 |
 | orbital_fasteners | 0.0846 | 0.0706 | 0.0706 | 0.0564 | 0.0564 | 
-
+| accu |  |  |  |  |  | 
 
 
 
@@ -361,20 +361,17 @@ vast |
 | price_10000 | 0.0564 |  
 | price_10000_distributor_1 | 0.0564 |  
 | price_10000_distributor_orbital_fasteners | 0.0564 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0564 |  
 | price_1000_distributor_orbital_fasteners | 0.0564 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.0706 |  
 | price_100_distributor_orbital_fasteners | 0.0706 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.0846 |  
 | price_1_distributor_orbital_fasteners | 0.0846 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0706 |  
 | price_200_distributor_1 | 0.0706 |  
 | price_200_distributor_orbital_fasteners | 0.0706 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | missing_value |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  

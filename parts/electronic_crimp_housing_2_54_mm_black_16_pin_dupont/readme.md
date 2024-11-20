@@ -374,6 +374,8 @@ hello |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | chi1b16pd |  
 | short_code_upper | CHI1B16PD |  
 | size | 2_54_mm |  

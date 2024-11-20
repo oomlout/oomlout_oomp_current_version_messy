@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-x-70-socket-cap-screw-gr12-9-self-colour-din-91-1150m490070)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_distributor_accu](https://www.accu.co.uk/metric-cap-head-screws/16086-SSC-M6-70-12-9)                           
 
 #### price
 
@@ -54,7 +54,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |------|---|-----|-----|------|-------|
 | orbital_fasteners | 0.1378 | 0.1378 | 0.0766 | 0.0689 | 0.0612 |
 | orbital_fasteners | 0.1378 | 0.1378 | 0.0766 | 0.0689 | 0.0612 | 
-
+| accu | 0.78 | 0.14 | 0.14 | 0.11 | 0.11 | 
 
 
 
@@ -74,7 +74,6 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 ### all codes 
 | key | value |  
 | --- | --- |  
-| barcode_manufacturer_metalmate | 5050420667487 |  
 | bip_39_word_dash_1 | sign |  
 | bip_39_word_dash_10 | sign-grief-erupt-earn-awful-dentist-live-neck-magic-holiday |  
 | bip_39_word_dash_11 | sign-grief-erupt-earn-awful-dentist-live-neck-magic-holiday-logic |  
@@ -214,8 +213,6 @@ magic |
 | bip_39_word_underscore_7 | sign_grief_erupt_earn_awful_dentist_live |  
 | bip_39_word_underscore_8 | sign_grief_erupt_earn_awful_dentist_live_neck |  
 | bip_39_word_underscore_9 | sign_grief_erupt_earn_awful_dentist_live_neck_magic |  
-| box_of_box_size_manufacturer_metalmate | 1200 |  
-| box_size_manufacturer_metalmate | 200 |  
 | classification | hardware |  
 | classification_capital | Hardware |  
 | classification_first_letter | h |  
@@ -276,7 +273,6 @@ magic |
 | color_upper_length_4 | BLAC |  
 | color_upper_length_5 | BLACK |  
 | color_upper_length_6 | BLACK |  
-| commonity_code | 7318156890 |  
 | description_extra | hex_head |  
 | description_extra_capital | Hex Head |  
 | description_extra_first_letter | h |  
@@ -359,11 +355,13 @@ magic |
 | link_2_name | github_link |  
 | link_3 | https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.harclob2b.com/m6-x-70-socket-cap-screw-gr12-9-self-colour-din-91-1150m490070 |  
-| link_4_name | webpage_manufacturer_metalmate |  
+| link_4 | https://www.accu.co.uk/metric-cap-head-screws/16086-SSC-M6-70-12-9 |  
+| link_4_name | webpage_distributor_accu |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_buy_1 | https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
 | link_buy_1_name | webpage_distributor_orbital_fasteners |  
+| link_buy_2 | https://www.accu.co.uk/metric-cap-head-screws/16086-SSC-M6-70-12-9 |  
+| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_70_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205ch7f |  
@@ -388,7 +386,6 @@ magic |
 | md5_6_alpha_upper | 5CH7F |  
 | md5_6_upper | 89071B |  
 | name | Hardware Screw Socket Cap M6 Black 70 mm Length Hex Head |  
-| name_manufacturer_metalmate | M6 x 70 Socket Cap Screw Gr12.9 Self Colour DIN 912 165 |  
 | name_no_class | Screw Socket Cap M6 Black 70 mm Length Hex Head |  
 | name_no_color | 70 mm Length Hex Head |  
 | name_no_size | Black 70 mm Length Hex Head |  
@@ -422,10 +419,12 @@ magic |
 | oomp_word_list | ['hammer', 'cry', 'muscle'] |  
 | part_number |  |  
 | part_number_capital |  |  
+| part_number_distributor_accu | SSCF-M6-70-12.9 |  
+| part_number_distributor_accu_search | SSCF-M6-70-12.9+-zinc |  
 | part_number_distributor_orbital_fasteners | 1891372 |  
 | part_number_first_letter |  |  
 | part_number_first_letter_upper |  |  
-| part_number_manufacturer_metalmate | 1150M490070 |  
+| part_number_manufacturer_metalmate | 1150M4900070 |  
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.1378 |  
@@ -433,21 +432,28 @@ magic |
 | price_1000 | 0.0689 |  
 | price_10000 | 0.0612 |  
 | price_10000_distributor_1 | 0.0612 |  
+| price_10000_distributor_2 | 0.11 |  
+| price_10000_distributor_accu | 0.11 |  
 | price_10000_distributor_orbital_fasteners | 0.0612 |  
-| price_10000_name | orbital_fasteners |  
 | price_1000_distributor_1 | 0.0689 |  
+| price_1000_distributor_2 | 0.11 |  
+| price_1000_distributor_accu | 0.11 |  
 | price_1000_distributor_orbital_fasteners | 0.0689 |  
-| price_1000_name | orbital_fasteners |  
 | price_100_distributor_1 | 0.1378 |  
+| price_100_distributor_2 | 0.14 |  
+| price_100_distributor_accu | 0.14 |  
 | price_100_distributor_orbital_fasteners | 0.1378 |  
-| price_100_name | orbital_fasteners |  
 | price_1_distributor_1 | 0.1378 |  
+| price_1_distributor_2 | 0.78 |  
+| price_1_distributor_accu | 0.78 |  
 | price_1_distributor_orbital_fasteners | 0.1378 |  
 | price_1_name | orbital_fasteners |  
 | price_200 | 0.0766 |  
 | price_200_distributor_1 | 0.0766 |  
+| price_200_distributor_2 | 0.14 |  
+| price_200_distributor_accu | 0.14 |  
 | price_200_distributor_orbital_fasteners | 0.0766 |  
-| price_200_name | orbital_fasteners |  
+| price_2_name | accu |  
 | price_current | 0.0766 |  
 | quantity_current | 200 |  
 | short_code | sc6b70h |  
@@ -514,5 +520,5 @@ magic |
 | type_upper_length_4 | SCRE |  
 | type_upper_length_5 | SCREW |  
 | type_upper_length_6 | SCREW_ |  
+| webpage_distributor_accu | https://www.accu.co.uk/metric-cap-head-screws/16086-SSC-M6-70-12-9 |  
 | webpage_distributor_orbital_fasteners | https://www.orbitalfasteners.co.uk/products/m6-x-70-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
-| webpage_manufacturer_metalmate | https://www.harclob2b.com/m6-x-70-socket-cap-screw-gr12-9-self-colour-din-91-1150m490070 |  

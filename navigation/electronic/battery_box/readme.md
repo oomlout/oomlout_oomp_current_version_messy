@@ -1,2 +1,5 @@
 * [aa_battery](aa_battery)
   * [4_cell](aa_battery/4_cell)
+* [dewalt_xr](dewalt_xr)
+  * [aliexpress](dewalt_xr/aliexpress)
+    * [diy_200](dewalt_xr/aliexpress/diy_200)

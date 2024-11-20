@@ -328,6 +328,8 @@ indoor |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | pot17o103 |  
 | short_code_upper | POT17O103 |  
 | size | 17_mm |  

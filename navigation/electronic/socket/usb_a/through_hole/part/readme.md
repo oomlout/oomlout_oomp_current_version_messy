@@ -327,6 +327,8 @@ pupil |
 | part_number_name |  |  
 | part_number_upper |  |  
 | pins | {'pin_1': {'name': 'vbus', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'usb_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'usb_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'gnd', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'shield', 'number': '6', 'type': 'signal'}} |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | scuath |  
 | short_code_upper | SCUATH |  
 | short_name |  |  

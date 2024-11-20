@@ -395,6 +395,8 @@ detail |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_name | orbital_fasteners |  
+| price_2_name | accu |  
 | short_code | cs2b20h |  
 | short_code_upper | CS2B20H |  
 | size | m2 |  

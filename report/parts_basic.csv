@@ -37,6 +37,7 @@ dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42,w,Dish Ikea Of
 electrical_light_fixing_hardware_hook_68_mm_width,,Electrical Light Fixing Hardware Hook 68 mm Width,electrical,light_fixing_hardware_hook,68_mm_width,,,,,
 electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w,,Electrical Light Panel 600 mm X 600 mm Baumatic Bx Lc6060 36W,electrical,light_panel,600_mm_x_600_mm,,,,baumatic,bx_lc6060_36w
 electronic_battery_box_aa_battery_4_cell,,Electronic Battery Box Aa Battery 4 Cell,electronic,battery_box,aa_battery,,4_cell,,,
+electronic_battery_box_dewalt_xr_aliexpress_diy_200,,Electronic Battery Box Dewalt Xr Aliexpress Diy 200,electronic,battery_box,dewalt_xr,,,,aliexpress,diy_200
 electronic_breakout_board_mcu_devkitc_espressif_esp32,dce32,Electronic Breakout Board MCU Devkitc Espressif Esp32,electronic,breakout_board_mcu,devkitc,,espressif_esp32,,,
 electronic_breakout_board_mcu_pico_raspberry_pi_2040,pcrp2040,Electronic Breakout Board MCU Pico Raspberry Pi 2040,electronic,breakout_board_mcu,pico,,raspberry_pi_2040,,,
 electronic_breakout_board_mcu_pico_raspberry_pi_2350,pc,Electronic Breakout Board MCU Pico Raspberry Pi 2350,electronic,breakout_board_mcu,pico,,raspberry_pi_2350,,,
@@ -98,4 +99,3 @@ electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_red_8_mm_length,r8,Electron
 electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_white_8_mm_length,w8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire White 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,white,8_mm_length,,,
 electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_yellow_8_mm_length,y8,Electronic Crimp Bootlace Ferrule 1 mm Diameter Wire Yellow 8 mm Length,electronic,crimp_bootlace_ferrule,1_mm_diameter_wire,yellow,8_mm_length,,,
 electronic_crimp_housing_2_54_mm_black_10_pin_dupont,chi1b10pd,Electronic Crimp Housing 2 54 mm Black 10 Pin Dupont,electronic,crimp_housing,2_54_mm,black,10_pin,dupont,,
-electronic_crimp_housing_2_54_mm_black_11_pin_dupont,chi1b11pd,Electronic Crimp Housing 2 54 mm Black 11 Pin Dupont,electronic,crimp_housing,2_54_mm,black,11_pin,dupont,,
