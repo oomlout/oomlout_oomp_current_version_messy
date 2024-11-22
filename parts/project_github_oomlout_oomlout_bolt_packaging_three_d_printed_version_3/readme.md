@@ -287,6 +287,7 @@ gadget |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_three_d_printed_version_3 |  
 | link_2_name | github_link |  
+| link_github | https://github.com/oomlout/oomlout_bolt_packaging_three_d_printed_version_3 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_bolt_packaging_three_d_printed_version_3 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20v8il |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%20v8il |  

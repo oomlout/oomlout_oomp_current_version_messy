@@ -287,6 +287,7 @@ flee |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_printer_all_in_one_inkjet_a4_canon_pixma_ts5350 |  
 | link_2_name | github_link |  
+| link_github | https://github.com/oomlout/oomlout_oomp_teardown_printer_all_in_one_inkjet_a4_canon_pixma_ts5350 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_printer_all_in_one_inkjet_a4_canon_pixma_ts5350 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206b93r |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206b93r |  

@@ -287,6 +287,7 @@ weekend |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_old02_oomlout_oomp |  
 | link_2_name | github_link |  
+| link_github | https://github.com/oomlout/OLD02-oomlout-OOMP |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_old02_oomlout_oomp |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204wijn |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204wijn |  

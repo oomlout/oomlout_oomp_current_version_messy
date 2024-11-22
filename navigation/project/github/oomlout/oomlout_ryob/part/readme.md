@@ -287,6 +287,7 @@ enrich |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_ryob |  
 | link_2_name | github_link |  
+| link_github | https://github.com/oomlout/oomlout-RYOB |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/project_github_oomlout_oomlout_ryob |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207q0hd |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207q0hd |  
