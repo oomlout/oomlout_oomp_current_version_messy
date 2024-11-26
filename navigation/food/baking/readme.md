@@ -3,6 +3,7 @@
 * [sugar](sugar)
   * [caster](sugar/caster)
   * [granulated](sugar/granulated)
+  * [granulated_golden](sugar/granulated_golden)
   * [icing](sugar/icing)
   * [light_brown](sugar/light_brown)
   * [muscavado](sugar/muscavado)

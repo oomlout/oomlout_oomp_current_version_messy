@@ -2,6 +2,7 @@
   * [robot_vacuum_roomba_500_series](part/robot_vacuum_roomba_500_series)
     * [motor](part/robot_vacuum_roomba_500_series/motor)
       * [wheel](part/robot_vacuum_roomba_500_series/motor/wheel)
+        * [connector_pcb](part/robot_vacuum_roomba_500_series/motor/wheel/connector_pcb)
         * [left_side](part/robot_vacuum_roomba_500_series/motor/wheel/left_side)
         * [right_side](part/robot_vacuum_roomba_500_series/motor/wheel/right_side)
     * [sub_assembly](part/robot_vacuum_roomba_500_series/sub_assembly)

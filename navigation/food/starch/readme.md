@@ -1,3 +1,7 @@
+* [breadcrumb](breadcrumb)
+  * [panko](breadcrumb/panko)
+* [couscous](couscous)
+  * [giant](couscous/giant)
 * [oats](oats)
   * [porridge](oats/porridge)
 * [pasta](pasta)
