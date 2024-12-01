@@ -1,2 +1,0 @@
-* [breakout_arduino_uno_footprint](breakout_arduino_uno_footprint)
-* [breakout_screw_terminal_3_5_mm_pitch](breakout_screw_terminal_3_5_mm_pitch)

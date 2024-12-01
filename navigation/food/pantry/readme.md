@@ -1,7 +1,0 @@
-* [ingredient](ingredient)
-  * [coconut_milk](ingredient/coconut_milk)
-    * [tin_400_ml](ingredient/coconut_milk/tin_400_ml)
-* [prepared](prepared)
-  * [pasta_sauce_tomato_and_roasted_garlic](prepared/pasta_sauce_tomato_and_roasted_garlic)
-    * [jar_350_gram](prepared/pasta_sauce_tomato_and_roasted_garlic/jar_350_gram)
-      * [loyd_grossman](prepared/pasta_sauce_tomato_and_roasted_garlic/jar_350_gram/loyd_grossman)
