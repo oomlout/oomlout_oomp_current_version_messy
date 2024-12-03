@@ -1,0 +1,447 @@
+bip_39_word_dash_1: will
+bip_39_word_dash_10: will-unaware-century-tornado-practice-grocery-climb-speak-anchor-host
+bip_39_word_dash_11: will-unaware-century-tornado-practice-grocery-climb-speak-anchor-host-tide
+bip_39_word_dash_12: will-unaware-century-tornado-practice-grocery-climb-speak-anchor-host-tide-announce
+bip_39_word_dash_2: will-unaware
+bip_39_word_dash_3: will-unaware-century
+bip_39_word_dash_4: will-unaware-century-tornado
+bip_39_word_dash_5: will-unaware-century-tornado-practice
+bip_39_word_dash_6: will-unaware-century-tornado-practice-grocery
+bip_39_word_dash_7: will-unaware-century-tornado-practice-grocery-climb
+bip_39_word_dash_8: will-unaware-century-tornado-practice-grocery-climb-speak
+bip_39_word_dash_9: will-unaware-century-tornado-practice-grocery-climb-speak-anchor
+bip_39_word_new_br_1: will
+bip_39_word_new_br_10: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb<br>speak<br>anchor<br>host
+bip_39_word_new_br_11: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb<br>speak<br>anchor<br>host<br>tide
+bip_39_word_new_br_12: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb<br>speak<br>anchor<br>host<br>tide<br>announce
+bip_39_word_new_br_2: will<br>unaware
+bip_39_word_new_br_3: will<br>unaware<br>century
+bip_39_word_new_br_4: will<br>unaware<br>century<br>tornado
+bip_39_word_new_br_5: will<br>unaware<br>century<br>tornado<br>practice
+bip_39_word_new_br_6: will<br>unaware<br>century<br>tornado<br>practice<br>grocery
+bip_39_word_new_br_7: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb
+bip_39_word_new_br_8: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb<br>speak
+bip_39_word_new_br_9: will<br>unaware<br>century<br>tornado<br>practice<br>grocery<br>climb<br>speak<br>anchor
+bip_39_word_new_line_1: will
+bip_39_word_new_line_10: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb
+
+  speak
+
+  anchor
+
+  host'
+bip_39_word_new_line_11: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb
+
+  speak
+
+  anchor
+
+  host
+
+  tide'
+bip_39_word_new_line_12: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb
+
+  speak
+
+  anchor
+
+  host
+
+  tide
+
+  announce'
+bip_39_word_new_line_2: 'will
+
+  unaware'
+bip_39_word_new_line_3: 'will
+
+  unaware
+
+  century'
+bip_39_word_new_line_4: 'will
+
+  unaware
+
+  century
+
+  tornado'
+bip_39_word_new_line_5: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice'
+bip_39_word_new_line_6: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery'
+bip_39_word_new_line_7: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb'
+bip_39_word_new_line_8: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb
+
+  speak'
+bip_39_word_new_line_9: 'will
+
+  unaware
+
+  century
+
+  tornado
+
+  practice
+
+  grocery
+
+  climb
+
+  speak
+
+  anchor'
+bip_39_word_no_space_1: will
+bip_39_word_no_space_10: willunawarecenturytornadopracticegroceryclimbspeakanchorhost
+bip_39_word_no_space_11: willunawarecenturytornadopracticegroceryclimbspeakanchorhosttide
+bip_39_word_no_space_12: willunawarecenturytornadopracticegroceryclimbspeakanchorhosttideannounce
+bip_39_word_no_space_2: willunaware
+bip_39_word_no_space_3: willunawarecentury
+bip_39_word_no_space_4: willunawarecenturytornado
+bip_39_word_no_space_5: willunawarecenturytornadopractice
+bip_39_word_no_space_6: willunawarecenturytornadopracticegrocery
+bip_39_word_no_space_7: willunawarecenturytornadopracticegroceryclimb
+bip_39_word_no_space_8: willunawarecenturytornadopracticegroceryclimbspeak
+bip_39_word_no_space_9: willunawarecenturytornadopracticegroceryclimbspeakanchor
+bip_39_word_space_0:
+- will
+- unaware
+- century
+- tornado
+- practice
+- grocery
+- climb
+- speak
+- anchor
+- host
+- tide
+- announce
+bip_39_word_space_1: will
+bip_39_word_space_10: will unaware century tornado practice grocery climb speak anchor
+  host
+bip_39_word_space_11: will unaware century tornado practice grocery climb speak anchor
+  host tide
+bip_39_word_space_12: will unaware century tornado practice grocery climb speak anchor
+  host tide announce
+bip_39_word_space_2: will unaware
+bip_39_word_space_3: will unaware century
+bip_39_word_space_4: will unaware century tornado
+bip_39_word_space_5: will unaware century tornado practice
+bip_39_word_space_6: will unaware century tornado practice grocery
+bip_39_word_space_7: will unaware century tornado practice grocery climb
+bip_39_word_space_8: will unaware century tornado practice grocery climb speak
+bip_39_word_space_9: will unaware century tornado practice grocery climb speak anchor
+bip_39_word_underscore_1: will
+bip_39_word_underscore_10: will_unaware_century_tornado_practice_grocery_climb_speak_anchor_host
+bip_39_word_underscore_11: will_unaware_century_tornado_practice_grocery_climb_speak_anchor_host_tide
+bip_39_word_underscore_12: will_unaware_century_tornado_practice_grocery_climb_speak_anchor_host_tide_announce
+bip_39_word_underscore_2: will_unaware
+bip_39_word_underscore_3: will_unaware_century
+bip_39_word_underscore_4: will_unaware_century_tornado
+bip_39_word_underscore_5: will_unaware_century_tornado_practice
+bip_39_word_underscore_6: will_unaware_century_tornado_practice_grocery
+bip_39_word_underscore_7: will_unaware_century_tornado_practice_grocery_climb
+bip_39_word_underscore_8: will_unaware_century_tornado_practice_grocery_climb_speak
+bip_39_word_underscore_9: will_unaware_century_tornado_practice_grocery_climb_speak_anchor
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_length_1: g
+color_length_2: gr
+color_length_3: gre
+color_length_4: gree
+color_length_5: green
+color_length_6: green
+color_name: Green
+color_no_space_length_1: g
+color_no_space_length_2: gr
+color_no_space_length_3: gre
+color_no_space_length_4: gree
+color_no_space_length_5: green
+color_no_space_length_6: green
+color_no_space_upper_length_1: G
+color_no_space_upper_length_2: GR
+color_no_space_upper_length_3: GRE
+color_no_space_upper_length_4: GREE
+color_no_space_upper_length_5: GREEN
+color_no_space_upper_length_6: GREEN
+color_upper: GREEN
+color_upper_length_1: G
+color_upper_length_2: GR
+color_upper_length_3: GRE
+color_upper_length_4: GREE
+color_upper_length_5: GREEN
+color_upper_length_6: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 3_pin
+description_main_capital: 3 Pin
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_p
+description_main_length_4: 3_pi
+description_main_length_5: 3_pin
+description_main_length_6: 3_pin
+description_main_name: 3 Pin
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3p
+description_main_no_space_length_3: 3pi
+description_main_no_space_length_4: 3pin
+description_main_no_space_length_5: 3pin
+description_main_no_space_length_6: 3pin
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3P
+description_main_no_space_upper_length_3: 3PI
+description_main_no_space_upper_length_4: 3PIN
+description_main_no_space_upper_length_5: 3PIN
+description_main_no_space_upper_length_6: 3PIN
+description_main_upper: 3_PIN
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_P
+description_main_upper_length_4: 3_PI
+description_main_upper_length_5: 3_PIN
+description_main_upper_length_6: 3_PIN
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: G3
+description_or_color_upper: G3
+directory: parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+id: electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+id_no_class: screw_terminal_3_5_mm_pitch_green_3_pin
+id_no_color: 3_pin
+id_no_size: green_3_pin
+id_no_type: 3_5_mm_pitch_green_3_pin
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+link_2_name: github_link
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ud97
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ud97
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ud97
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_screw_terminal_3_5_mm_pitch_green_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin)<br>[g3p](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin)<br>[Electronic
+  Screw Terminal 3 5 Mm Pitch Green 3 Pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin)<br><br>'
+markdown_short: '[electronic_screw_terminal_3_5_mm_pitch_green_3_pin](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_green_3_pin)<br><br>'
+md5: 95c39b8043d0c5619b54be564afb1fd9
+md5_10: 95c39b8043
+md5_10_upper: 95C39B8043
+md5_5: 95c39
+md5_5_upper: 95C39
+md5_6: 95c39b
+md5_6_alpha: 5ud97
+md5_6_alpha_upper: 5UD97
+md5_6_upper: 95C39B
+name: Electronic Screw Terminal 3 5 mm Pitch Green 3 Pin
+name_no_class: Screw Terminal 3 5 mm Pitch Green 3 Pin
+name_no_color: 3 Pin
+name_no_size: Green 3 Pin
+name_no_size_short: Green 3 Pin
+name_no_type: 3 5 mm Pitch Green 3 Pin
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_screw_terminal_3_5_mm_pitch_green_3_pin
+oomp_word: telescope cake ski
+oomp_word_emoji: ':telescope: :cake: :ski:'
+oomp_word_emoji_list:
+- ':telescope:'
+- ':cake:'
+- ':ski:'
+oomp_word_list:
+- telescope
+- cake
+- ski
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+short_code: g3p
+short_code_upper: G3P
+short_name: ''
+size: 3_5_mm_pitch
+size_capital: 3.5 mm Pitch
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: '3_5'
+size_length_4: '3_5_'
+size_length_5: 3_5_m
+size_length_6: 3_5_mm
+size_name: 3 5 mm Pitch
+size_no_space_length_1: '3'
+size_no_space_length_2: '35'
+size_no_space_length_3: 35m
+size_no_space_length_4: 35mm
+size_no_space_length_5: 35mmp
+size_no_space_length_6: 35mmpi
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: '35'
+size_no_space_upper_length_3: 35M
+size_no_space_upper_length_4: 35MM
+size_no_space_upper_length_5: 35MMP
+size_no_space_upper_length_6: 35MMPI
+size_only_numbers: '35'
+size_only_numbers_no_zeros: '35'
+size_upper: 3_5_MM_PITCH
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: '3_5'
+size_upper_length_4: '3_5_'
+size_upper_length_5: 3_5_M
+size_upper_length_6: 3_5_MM
+type: screw_terminal
+type_capital: Screw Terminal
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_name: Screw Terminal
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screwt
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWT
+type_upper: SCREW_TERMINAL
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

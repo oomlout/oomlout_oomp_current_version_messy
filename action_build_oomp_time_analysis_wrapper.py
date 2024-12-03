@@ -20,7 +20,7 @@ def main(**kwargs):
     print(f"Profiling data saved to {stat_file}")
 
     #launch visualizer
-    os.system(f'python -m pstats {stat_file}')
+    os.system(f'snakeviz {stat_file}')
  
 
 
