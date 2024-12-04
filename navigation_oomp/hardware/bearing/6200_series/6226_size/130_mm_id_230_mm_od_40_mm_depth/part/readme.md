@@ -339,6 +339,21 @@ frozen |
 | name_no_size | 6226 Size 130 mm ID 230 mm OD 40 mm Depth |  
 | name_no_size_short | 6226 Size 130 Mm Id 230 Mm Od 40 Mm Depth |  
 | name_no_type | 6200 Series 6226 Size 130 mm ID 230 mm OD 40 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6226_size |  
+| oomlout_detail_hierarchy_4_upper | 6226_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6226 |  
+| oomlout_detail_hierarchy_5 | 40_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 40_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 40DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6226 |  
 | oomlout_short_code_upper | BR6226 |  

@@ -415,6 +415,24 @@ sibling |
 | oomlout_bolt_size | M5 |  
 | oomlout_bolt_type | Socket Cap |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | ssocket_cap |  
+| oomlout_detail_hierarchy_2_upper | SSOCKET_CAP |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SSOC |  
+| oomlout_detail_hierarchy_3 | m5 |  
+| oomlout_detail_hierarchy_3_upper | M5 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M5 |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 80_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 80_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 80LE |  
+| oomlout_detail_hierarchy_6 | hex_head |  
+| oomlout_detail_hierarchy_6_upper | HEX_HEAD |  
+| oomlout_detail_hierarchy_6_upper_length_4 | HEX_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | sc5b80h |  
 | oomlout_short_code_upper | SC5B80H |  

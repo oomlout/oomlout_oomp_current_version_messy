@@ -332,6 +332,27 @@ size |
 | name_no_size | Quality Street 2024 |  
 | name_no_size_short | Quality Street 2024 |  
 | name_no_type | Octagon 225 mm Width 225 mm Height 80 mm Depth 2500 Ml Quality Street 2024 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | tin_plastic |  
+| oomlout_detail_hierarchy_2_upper | TIN_PLASTIC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_3 | 225_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 225_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 225W |  
+| oomlout_detail_hierarchy_4 | 225_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 225_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 225H |  
+| oomlout_detail_hierarchy_5 | 80_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 80_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 80DE |  
+| oomlout_detail_hierarchy_6 | quality_street |  
+| oomlout_detail_hierarchy_6_upper | QUALITY_STREET |  
+| oomlout_detail_hierarchy_6_upper_length_4 | QUAL |  
+| oomlout_detail_hierarchy_7 | 2024 |  
+| oomlout_detail_hierarchy_7_upper | 2024 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 2024 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_quality_street_2024 |  
 | oomp_word | pizza ok umbrella |  

@@ -320,6 +320,27 @@ enlist |
 | name_no_size | 04 04 14 Nm 12 mm Tape Width 4 mm Tape Thickness  4 |  
 | name_no_size_short | 04 04 14 Nm 12 Mm Tape Width 4 Mm Tape Thickness  4 |  
 | name_no_type | SMD Magazine 04 04 14 Nm 12 mm Tape Width 4 mm Tape Thickness  4 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 04_04_14_nm |  
+| oomlout_detail_hierarchy_4_upper | 04_04_14_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 04_0 |  
+| oomlout_detail_hierarchy_5 | 12_mm_tape_width |  
+| oomlout_detail_hierarchy_5_upper | 12_MM_TAPE_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 12TA |  
+| oomlout_detail_hierarchy_6 | 4_mm_tape_thickness_ |  
+| oomlout_detail_hierarchy_6_upper | 4_MM_TAPE_THICKNESS_ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 4TAP |  
+| oomlout_detail_hierarchy_7 | 4 |  
+| oomlout_detail_hierarchy_7_upper | 4 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 4 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_04_04_14_nm_12_mm_tape_width_4_mm_tape_thickness__4 |  
 | oomp_word | bowtie scream angel |  

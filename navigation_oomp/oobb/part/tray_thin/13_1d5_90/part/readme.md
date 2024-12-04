@@ -313,6 +313,18 @@ under |
 | name_no_size | 13 1D5 90 |  
 | name_no_size_short | 13 1D5 90 |  
 | name_no_type | Tray Thin 13 1D5 90 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_thin |  
+| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 13_1d5_90 |  
+| oomlout_detail_hierarchy_4_upper | 13_1D5_90 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 13_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_13_1d5_90 |  
 | oomp_word | seven cactus thumbsup |  

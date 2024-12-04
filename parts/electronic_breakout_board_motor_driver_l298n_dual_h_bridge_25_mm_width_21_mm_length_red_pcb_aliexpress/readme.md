@@ -363,6 +363,27 @@ machine |
 | name_no_size_short | Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb Aliexpress |  
 | name_no_type | L298N Dual H Bridge 25 mm Width 21 mm Length Red PCB Aliexpress |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | breakout_board_motor_driver |  
+| oomlout_detail_hierarchy_2_upper | BREAKOUT_BOARD_MOTOR_DRIVER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_3 | l298n |  
+| oomlout_detail_hierarchy_3_upper | L298N |  
+| oomlout_detail_hierarchy_3_upper_length_4 | L298 |  
+| oomlout_detail_hierarchy_4 | dual_h_bridge |  
+| oomlout_detail_hierarchy_4_upper | DUAL_H_BRIDGE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | DUAL |  
+| oomlout_detail_hierarchy_5 | 25_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 25_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 25WI |  
+| oomlout_detail_hierarchy_6 | 21_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 21_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 21LE |  
+| oomlout_detail_hierarchy_7 | aliexpress |  
+| oomlout_detail_hierarchy_7_upper | ALIEXPRESS |  
+| oomlout_detail_hierarchy_7_upper_length_4 | ALIE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress |  
 | oomp_word | strawberry briefcase diamonds |  

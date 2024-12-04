@@ -347,6 +347,27 @@ name_no_size_short: Electronic Robot Vacuum Part Robot Vacuum Roomba 500 Series 
   Wheel Connector Pcb
 name_no_type: Oomlout Oomlout Electronic Robot Vacuum Part Robot Vacuum Roomba 500
   Series Motor Wheel Connector PCB
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: electronic_robot_vacuum
+oomlout_detail_hierarchy_4_upper: ELECTRONIC_ROBOT_VACUUM
+oomlout_detail_hierarchy_4_upper_length_4: ELEC
+oomlout_detail_hierarchy_5: part_robot_vacuum_roomba
+oomlout_detail_hierarchy_5_upper: PART_ROBOT_VACUUM_ROOMBA
+oomlout_detail_hierarchy_5_upper_length_4: PART
+oomlout_detail_hierarchy_6: 500_series_motor_wheel
+oomlout_detail_hierarchy_6_upper: 500_SERIES_MOTOR_WHEEL
+oomlout_detail_hierarchy_6_upper_length_4: '500_'
+oomlout_detail_hierarchy_7: connector_pcb
+oomlout_detail_hierarchy_7_upper: CONNECTOR_PCB
+oomlout_detail_hierarchy_7_upper_length_4: CONN
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 oomp_word: pig herb two

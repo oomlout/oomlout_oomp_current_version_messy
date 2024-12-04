@@ -317,6 +317,18 @@ grab |
 | name_no_size | 22 Pico Farad |  
 | name_no_size_short | 22pf Pico Farad |  
 | name_no_type | 0402 22 Pico Farad |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | capacitor |  
+| oomlout_detail_hierarchy_2_upper | CAPACITOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CAPA |  
+| oomlout_detail_hierarchy_3 | 0402 |  
+| oomlout_detail_hierarchy_3_upper | 0402 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0402 |  
+| oomlout_detail_hierarchy_4 | 22_pico_farad |  
+| oomlout_detail_hierarchy_4_upper | 22_PICO_FARAD |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 22_P |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_capacitor_0402_22_pico_farad |  
 | oomp_word | hourglass scream eyes |  

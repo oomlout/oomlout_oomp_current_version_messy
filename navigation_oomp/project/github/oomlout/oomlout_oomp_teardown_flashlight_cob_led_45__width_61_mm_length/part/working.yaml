@@ -339,6 +339,24 @@ name_no_color: Oomp Teardown Flashlight Cob LED 45  Width 61 mm Length
 name_no_size: Oomp Teardown Flashlight Cob LED 45  Width 61 mm Length
 name_no_size_short: Oomp Teardown Flashlight Cob Led 45  Width 61 Mm Length
 name_no_type: Oomlout Oomlout Oomp Teardown Flashlight Cob LED 45  Width 61 mm Length
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oomp_teardown
+oomlout_detail_hierarchy_4_upper: OOMP_TEARDOWN
+oomlout_detail_hierarchy_4_upper_length_4: OOMP
+oomlout_detail_hierarchy_5: flashlight_cob_led_45
+oomlout_detail_hierarchy_5_upper: FLASHLIGHT_COB_LED_45
+oomlout_detail_hierarchy_5_upper_length_4: FLAS
+oomlout_detail_hierarchy_6: _width_61_mm_length
+oomlout_detail_hierarchy_6_upper: _WIDTH_61_MM_LENGTH
+oomlout_detail_hierarchy_6_upper_length_4: _WID
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_teardown_flashlight_cob_led_45__width_61_mm_length
 oomp_word: dog maple_leaf whale

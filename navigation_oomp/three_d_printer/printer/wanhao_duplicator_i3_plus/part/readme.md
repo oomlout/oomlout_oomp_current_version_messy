@@ -289,6 +289,15 @@ broom |
 | name_no_size | Wanhao Duplicator I3 Plus |  
 | name_no_size_short | Wanhao Duplicator I3 Plus |  
 | name_no_type | Wanhao Duplicator I3 Plus |  
+| oomlout_detail_hierarchy_1 | three_d_printer |  
+| oomlout_detail_hierarchy_1_upper | THREE_D_PRINTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_2 | printer |  
+| oomlout_detail_hierarchy_2_upper | PRINTER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PRIN |  
+| oomlout_detail_hierarchy_3 | wanhao_duplicator_i3_plus |  
+| oomlout_detail_hierarchy_3_upper | WANHAO_DUPLICATOR_I3_PLUS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WANH |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_printer_wanhao_duplicator_i3_plus |  
 | oomp_word | ocean hatched_chick computer |  

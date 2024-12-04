@@ -317,6 +317,18 @@ reject |
 | name_no_size_short | Granulated Golden |  
 | name_no_type | Sugar Granulated Golden |  
 | name_short | Sugar Golden Granulated Coffee |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | sugar |  
+| oomlout_detail_hierarchy_3_upper | SUGAR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SUGA |  
+| oomlout_detail_hierarchy_4 | granulated_golden |  
+| oomlout_detail_hierarchy_4_upper | GRANULATED_GOLDEN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | GRAN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_sugar_granulated_golden |  
 | oomp_word | star tv hamster |  

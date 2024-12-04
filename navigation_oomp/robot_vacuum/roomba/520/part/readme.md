@@ -313,6 +313,15 @@ tribe |
 | name_no_size | Roomba520 |  
 | name_no_size_short | Roomba520 |  
 | name_no_type | Roomba520 |  
+| oomlout_detail_hierarchy_1 | robot_vacuum |  
+| oomlout_detail_hierarchy_1_upper | ROBOT_VACUUM |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ROBO |  
+| oomlout_detail_hierarchy_2 | roomba |  
+| oomlout_detail_hierarchy_2_upper | ROOMBA |  
+| oomlout_detail_hierarchy_2_upper_length_4 | ROOM |  
+| oomlout_detail_hierarchy_3 | 520 |  
+| oomlout_detail_hierarchy_3_upper | 520 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 520 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_robot_vacuum_roomba_520 |  
 | oomp_word | turtle headphones snowman |  

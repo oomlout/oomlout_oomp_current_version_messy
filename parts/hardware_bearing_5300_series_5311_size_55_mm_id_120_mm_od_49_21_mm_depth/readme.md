@@ -339,6 +339,21 @@ wear |
 | name_no_size | 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth |  
 | name_no_size_short | 5311 Size 55 Mm Id 120 Mm Od 49 21 Mm Depth |  
 | name_no_type | 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 5300_series |  
+| oomlout_detail_hierarchy_3_upper | 5300_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5300 |  
+| oomlout_detail_hierarchy_4 | 5311_size |  
+| oomlout_detail_hierarchy_4_upper | 5311_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5311 |  
+| oomlout_detail_hierarchy_5 | 21_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 21_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 21DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5311 |  
 | oomlout_short_code_upper | BR5311 |  

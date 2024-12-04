@@ -339,6 +339,18 @@ remind |
 | name_no_size | Penny |  
 | name_no_size_short | Penny |  
 | name_no_type | M3 Penny |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | washer |  
+| oomlout_detail_hierarchy_2_upper | WASHER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WASH |  
+| oomlout_detail_hierarchy_3 | m3 |  
+| oomlout_detail_hierarchy_3_upper | M3 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M3 |  
+| oomlout_detail_hierarchy_4 | penny |  
+| oomlout_detail_hierarchy_4_upper | PENNY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PENN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_id | hardware_washer_m3_penny |  
 | oomp_key | oomp_hardware_washer_m3_penny |  

@@ -388,6 +388,24 @@ buzz |
 | name_no_size_short | Savourysalsaredjar240Gramherdez |  
 | name_no_type | Savoury Salsa Red Jar 240 Gram Herdez |  
 | name_short | Salsa Red |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | condiment |  
+| oomlout_detail_hierarchy_2_upper | CONDIMENT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | COND |  
+| oomlout_detail_hierarchy_3 | savoury |  
+| oomlout_detail_hierarchy_3_upper | SAVOURY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SAVO |  
+| oomlout_detail_hierarchy_4 | salsa_red |  
+| oomlout_detail_hierarchy_4_upper | SALSA_RED |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SALS |  
+| oomlout_detail_hierarchy_5 | jar_240_gram |  
+| oomlout_detail_hierarchy_5_upper | JAR_240_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_6 | herdez |  
+| oomlout_detail_hierarchy_6_upper | HERDEZ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | HERD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_savoury_salsa_red_jar_240_gram_herdez |  
 | oomp_word | office eyes lemon |  

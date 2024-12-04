@@ -338,6 +338,24 @@ extend |
 | name_no_size | 10 Pin Socket |  
 | name_no_size_short | 10 Pin Socket |  
 | name_no_type | 2 5 mm Jst Sm Latching 10 Pin Socket |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | crimp_housing |  
+| oomlout_detail_hierarchy_2_upper | CRIMP_HOUSING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CRIM |  
+| oomlout_detail_hierarchy_3 | 2_5_mm_jst |  
+| oomlout_detail_hierarchy_3_upper | 2_5_MM_JST |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_5J |  
+| oomlout_detail_hierarchy_4 | sm_latching |  
+| oomlout_detail_hierarchy_4_upper | SM_LATCHING |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SM_L |  
+| oomlout_detail_hierarchy_5 | 10_pin |  
+| oomlout_detail_hierarchy_5_upper | 10_PIN |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10_P |  
+| oomlout_detail_hierarchy_6 | socket |  
+| oomlout_detail_hierarchy_6_upper | SOCKET |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SOCK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_housing_2_5_mm_jst_sm_latching_10_pin_socket |  
 | oomp_word | tv snowman ship |  

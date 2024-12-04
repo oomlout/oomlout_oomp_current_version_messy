@@ -339,6 +339,21 @@ praise |
 | name_no_size | 61805 Size 25 mm ID 37 mm OD 7 mm Depth |  
 | name_no_size_short | 61805 Size 25 Mm Id 37 Mm Od 7 Mm Depth |  
 | name_no_type | 61800 Series 61805 Size 25 mm ID 37 mm OD 7 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 61800_series |  
+| oomlout_detail_hierarchy_3_upper | 61800_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_4 | 61805_size |  
+| oomlout_detail_hierarchy_4_upper | 61805_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_5 | 7_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 7_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 7DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61805 |  
 | oomlout_short_code_upper | BR61805 |  

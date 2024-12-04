@@ -387,6 +387,27 @@ sphere |
 | name_no_size | Ikeaoftastwhiteplate250mmdiameterikea30258913 |  
 | name_no_size_short | Ikeaoftastwhiteplate250Mmdiameterikea30258913 |  
 | name_no_type | Ikeaoftastwhiteplate250mmdiameterikea30258913 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | ikea_oftast |  
+| oomlout_detail_hierarchy_2_upper | IKEA_OFTAST |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_3 | white |  
+| oomlout_detail_hierarchy_3_upper | WHITE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_4 | plate |  
+| oomlout_detail_hierarchy_4_upper | PLATE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PLAT |  
+| oomlout_detail_hierarchy_5 | 250_mm_diameter |  
+| oomlout_detail_hierarchy_5_upper | 250_MM_DIAMETER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 250D |  
+| oomlout_detail_hierarchy_6 | ikea |  
+| oomlout_detail_hierarchy_6_upper | IKEA |  
+| oomlout_detail_hierarchy_6_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_7 | 302_589_13 |  
+| oomlout_detail_hierarchy_7_upper | 302_589_13 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 302_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_plate_250_mm_diameter_ikea_302_589_13 |  
 | oomp_word | truck smile helicopter |  

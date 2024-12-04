@@ -337,6 +337,21 @@ addict |
 | name_no_size | 06 08 03  Electronic Prototyping Breadboard 400 Point |  
 | name_no_size_short | 06 08 03  Electronic Prototyping Breadboard 400 Point |  
 | name_no_type | Holder 06 08 03  Electronic Prototyping Breadboard 400 Point |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 06_08_03_ |  
+| oomlout_detail_hierarchy_4_upper | 06_08_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 06_0 |  
+| oomlout_detail_hierarchy_5 | electronic_prototyping_breadboard_400_point |  
+| oomlout_detail_hierarchy_5_upper | ELECTRONIC_PROTOTYPING_BREADBOARD_400_POINT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELEC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_06_08_03__electronic_prototyping_breadboard_400_point |  
 | oomp_word | koala lipstick bath |  

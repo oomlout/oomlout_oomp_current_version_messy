@@ -337,6 +337,21 @@ name_no_color: 100mmwidth100mmheight
 name_no_size: 100 mm Width 100 mm Height
 name_no_size_short: 100 Mm Width 100 Mm Height
 name_no_type: Vesa 100 mm Width 100 mm Height
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: monitor_mount
+oomlout_detail_hierarchy_2_upper: MONITOR_MOUNT
+oomlout_detail_hierarchy_2_upper_length_4: MONI
+oomlout_detail_hierarchy_3: vesa
+oomlout_detail_hierarchy_3_upper: VESA
+oomlout_detail_hierarchy_3_upper_length_4: VESA
+oomlout_detail_hierarchy_4: 100_mm_width
+oomlout_detail_hierarchy_4_upper: 100_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 100W
+oomlout_detail_hierarchy_5: 100_mm_height
+oomlout_detail_hierarchy_5_upper: 100_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 100H
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_monitor_mount_vesa_100_mm_width_100_mm_height
 oomp_word: eyeglasses smile hamburger

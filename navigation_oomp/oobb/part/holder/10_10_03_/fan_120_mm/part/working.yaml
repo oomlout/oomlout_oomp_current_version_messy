@@ -358,6 +358,21 @@ name_no_color: 101003Fan120mm
 name_no_size: 10 10 03  Fan 120 mm
 name_no_size_short: 10 10 03  Fan 120 Mm
 name_no_type: Holder 10 10 03  Fan 120 mm
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: '10_10_03_'
+oomlout_detail_hierarchy_4_upper: '10_10_03_'
+oomlout_detail_hierarchy_4_upper_length_4: '10_1'
+oomlout_detail_hierarchy_5: fan_120_mm
+oomlout_detail_hierarchy_5_upper: FAN_120_MM
+oomlout_detail_hierarchy_5_upper_length_4: FAN_
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_10_10_03__fan_120_mm
 oomp_word: book bouquet radio

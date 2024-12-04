@@ -337,6 +337,21 @@ legal |
 | name_no_size | 03 06  24 Teeth |  
 | name_no_size_short | 03 06  24 Teeth |  
 | name_no_type | Gear 03 06  24 Teeth |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | gear |  
+| oomlout_detail_hierarchy_3_upper | GEAR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | GEAR |  
+| oomlout_detail_hierarchy_4 | 03_06_ |  
+| oomlout_detail_hierarchy_4_upper | 03_06_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | 24_teeth |  
+| oomlout_detail_hierarchy_5_upper | 24_TEETH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 24_T |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_03_06__24_teeth |  
 | oomp_word | lemon sleeping pear |  

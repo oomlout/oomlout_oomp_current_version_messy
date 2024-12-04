@@ -365,6 +365,24 @@ front |
 | name_no_size_short | Salt Table 750 Gram 70 Mm Diameter 200 Mm Height Plastic Bottle Saxa |  
 | name_no_type | Salt And Pepper Salt Table 750 Gram 70 mm Diameter 200 mm Height Plastic Bottle Saxa |  
 | name_short | Salt Saxa |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | pantry |  
+| oomlout_detail_hierarchy_2_upper | PANTRY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PANT |  
+| oomlout_detail_hierarchy_3 | salt_and_pepper |  
+| oomlout_detail_hierarchy_3_upper | SALT_AND_PEPPER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SALT |  
+| oomlout_detail_hierarchy_4 | salt_table |  
+| oomlout_detail_hierarchy_4_upper | SALT_TABLE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SALT |  
+| oomlout_detail_hierarchy_5 | 200_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 200_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 200H |  
+| oomlout_detail_hierarchy_6 | saxa |  
+| oomlout_detail_hierarchy_6_upper | SAXA |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SAXA |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_pantry_salt_and_pepper_salt_table_750_gram_70_mm_diameter_200_mm_height_plastic_bottle_saxa |  
 | oomp_word | rooster speaker umbrella |  

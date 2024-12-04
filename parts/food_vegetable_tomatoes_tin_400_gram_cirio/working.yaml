@@ -387,6 +387,21 @@ name_no_size: Tomatoestin400Gramcirio
 name_no_size_short: Tomatoestin400Gramcirio
 name_no_type: Tomatoes Tin 400 Gram Cirio
 name_short: Tomatoes Tinned
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: vegetable
+oomlout_detail_hierarchy_2_upper: VEGETABLE
+oomlout_detail_hierarchy_2_upper_length_4: VEGE
+oomlout_detail_hierarchy_3: tomatoes
+oomlout_detail_hierarchy_3_upper: TOMATOES
+oomlout_detail_hierarchy_3_upper_length_4: TOMA
+oomlout_detail_hierarchy_4: tin_400_gram
+oomlout_detail_hierarchy_4_upper: TIN_400_GRAM
+oomlout_detail_hierarchy_4_upper_length_4: TIN_
+oomlout_detail_hierarchy_5: cirio
+oomlout_detail_hierarchy_5_upper: CIRIO
+oomlout_detail_hierarchy_5_upper_length_4: CIRI
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_vegetable_tomatoes_tin_400_gram_cirio
 oomp_word: zap ram wolf

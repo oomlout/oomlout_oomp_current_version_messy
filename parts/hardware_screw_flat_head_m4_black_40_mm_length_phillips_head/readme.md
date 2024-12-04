@@ -381,6 +381,24 @@ culture |
 | oomlout_bolt_size | M4 |  
 | oomlout_bolt_type | Flat Head |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | sflat_head |  
+| oomlout_detail_hierarchy_2_upper | SFLAT_HEAD |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SFLA |  
+| oomlout_detail_hierarchy_3 | m4 |  
+| oomlout_detail_hierarchy_3_upper | M4 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M4 |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 40_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 40_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 40LE |  
+| oomlout_detail_hierarchy_6 | phillips_head |  
+| oomlout_detail_hierarchy_6_upper | PHILLIPS_HEAD |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PHIL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | fh4b40p |  
 | oomlout_short_code_upper | FH4B40P |  

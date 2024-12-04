@@ -387,6 +387,27 @@ fix |
 | name_no_size | Ikeaoftastwhitebowl150mmdiameterikea80258915 |  
 | name_no_size_short | Ikeaoftastwhitebowl150Mmdiameterikea80258915 |  
 | name_no_type | Ikeaoftastwhitebowl150mmdiameterikea80258915 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | ikea_oftast |  
+| oomlout_detail_hierarchy_2_upper | IKEA_OFTAST |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_3 | white |  
+| oomlout_detail_hierarchy_3_upper | WHITE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_4 | bowl |  
+| oomlout_detail_hierarchy_4_upper | BOWL |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BOWL |  
+| oomlout_detail_hierarchy_5 | 150_mm_diameter |  
+| oomlout_detail_hierarchy_5_upper | 150_MM_DIAMETER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 150D |  
+| oomlout_detail_hierarchy_6 | ikea |  
+| oomlout_detail_hierarchy_6_upper | IKEA |  
+| oomlout_detail_hierarchy_6_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_7 | 802_589_15 |  
+| oomlout_detail_hierarchy_7_upper | 802_589_15 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 802_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15 |  
 | oomp_word | trumpet cherries handbag |  

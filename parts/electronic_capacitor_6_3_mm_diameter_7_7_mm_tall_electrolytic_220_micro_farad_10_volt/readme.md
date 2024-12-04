@@ -365,6 +365,27 @@ art |
 | name_no_size | Electrolytic 220 Micro Farad 10 Volt |  
 | name_no_size_short | Electrolytic 220uf Micro Farad 10 Volt |  
 | name_no_type | 6 3 mm Diameter 7 7 mm Tall Electrolytic 220 Micro Farad 10 Volt |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | capacitor |  
+| oomlout_detail_hierarchy_2_upper | CAPACITOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CAPA |  
+| oomlout_detail_hierarchy_3 | 6_3_mm_diameter |  
+| oomlout_detail_hierarchy_3_upper | 6_3_MM_DIAMETER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6_3D |  
+| oomlout_detail_hierarchy_4 | 7_7_mm_tall |  
+| oomlout_detail_hierarchy_4_upper | 7_7_MM_TALL |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 7_7T |  
+| oomlout_detail_hierarchy_5 | electrolytic |  
+| oomlout_detail_hierarchy_5_upper | ELECTROLYTIC |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_6 | 220_micro_farad |  
+| oomlout_detail_hierarchy_6_upper | 220_MICRO_FARAD |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 220_ |  
+| oomlout_detail_hierarchy_7 | 10_volt |  
+| oomlout_detail_hierarchy_7_upper | 10_VOLT |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 10_V |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt |  
 | oomp_word | parking dolls bread |  

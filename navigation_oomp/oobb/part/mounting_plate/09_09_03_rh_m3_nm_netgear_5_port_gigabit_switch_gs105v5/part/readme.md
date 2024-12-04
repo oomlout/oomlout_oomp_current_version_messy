@@ -313,6 +313,24 @@ stock |
 | name_no_size | 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5 |  
 | name_no_size_short | 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5 |  
 | name_no_type | Mounting Plate 09 09 03 Rh M3 Nm Netgear 5 Port Gigabit Switch Gs105V5 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 09_09_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 09_09_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 09_0 |  
+| oomlout_detail_hierarchy_5 | m3_nm_netgear_5 |  
+| oomlout_detail_hierarchy_5_upper | M3_NM_NETGEAR_5 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M3_N |  
+| oomlout_detail_hierarchy_6 | port_gigabit_switch_gs105v5 |  
+| oomlout_detail_hierarchy_6_upper | PORT_GIGABIT_SWITCH_GS105V5 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PORT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_09_09_03_rh_m3_nm_netgear_5_port_gigabit_switch_gs105v5 |  
 | oomp_word | rooster rooster bell |  

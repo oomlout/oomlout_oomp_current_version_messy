@@ -338,6 +338,24 @@ sure |
 | name_no_size | Yellow 30000 mm Length |  
 | name_no_size_short | Yellow 30k Mm Length |  
 | name_no_type | 1 2 mm Internal Diameter Yellow 30000 mm Length |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | heatshrink_2_to_1 |  
+| oomlout_detail_hierarchy_2_upper | HEATSHRINK_2_TO_1 |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAT |  
+| oomlout_detail_hierarchy_3 | shrink_ratio |  
+| oomlout_detail_hierarchy_3_upper | SHRINK_RATIO |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHRI |  
+| oomlout_detail_hierarchy_4 | 1_2_mm_internal_diameter |  
+| oomlout_detail_hierarchy_4_upper | 1_2_MM_INTERNAL_DIAMETER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1_2I |  
+| oomlout_detail_hierarchy_5 | yellow |  
+| oomlout_detail_hierarchy_5_upper | YELLOW |  
+| oomlout_detail_hierarchy_5_upper_length_4 | YELL |  
+| oomlout_detail_hierarchy_6 | 30000_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 30000_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 3000 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_yellow_30000_mm_length |  
 | oomp_word | three crown door |  

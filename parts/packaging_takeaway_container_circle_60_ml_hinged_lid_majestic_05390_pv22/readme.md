@@ -342,6 +342,24 @@ mango |
 | name_no_size | Hinged Lid Majestic 05390 Pv22 |  
 | name_no_size_short | Hinged Lid Majestic 05390 Pv22 |  
 | name_no_type | 60 Ml Hinged Lid Majestic 05390 Pv22 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | takeaway_container_circle |  
+| oomlout_detail_hierarchy_2_upper | TAKEAWAY_CONTAINER_CIRCLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TAKE |  
+| oomlout_detail_hierarchy_3 | 60_ml |  
+| oomlout_detail_hierarchy_3_upper | 60_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 60_M |  
+| oomlout_detail_hierarchy_4 | hinged_lid |  
+| oomlout_detail_hierarchy_4_upper | HINGED_LID |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HING |  
+| oomlout_detail_hierarchy_5 | majestic |  
+| oomlout_detail_hierarchy_5_upper | MAJESTIC |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MAJE |  
+| oomlout_detail_hierarchy_6 | 05390_pv22 |  
+| oomlout_detail_hierarchy_6_upper | 05390_PV22 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 0539 |  
 | oomlout_mechanical_hole_cutout_12_mm_lift | 55 mm |  
 | oomlout_mechanical_hole_cutout_lip_size | 59 mm |  
 | oomlout_mechanical_hole_cutout_size | 59 mm |  

@@ -339,6 +339,21 @@ car |
 | name_no_size | 61816 Size 80 mm ID 100 mm OD 10 mm Depth |  
 | name_no_size_short | 61816 Size 80 Mm Id 100 Mm Od 10 Mm Depth |  
 | name_no_type | 61800 Series 61816 Size 80 mm ID 100 mm OD 10 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 61800_series |  
+| oomlout_detail_hierarchy_3_upper | 61800_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_4 | 61816_size |  
+| oomlout_detail_hierarchy_4_upper | 61816_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6181 |  
+| oomlout_detail_hierarchy_5 | 10_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 10_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61816 |  
 | oomlout_short_code_upper | BR61816 |  

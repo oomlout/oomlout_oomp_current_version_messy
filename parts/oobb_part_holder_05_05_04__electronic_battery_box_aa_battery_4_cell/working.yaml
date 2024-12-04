@@ -365,6 +365,24 @@ name_no_color: 050504Electronicbatteryboxaabattery4Cell
 name_no_size: 05 05 04  Electronic Battery Box Aa Battery 4 Cell
 name_no_size_short: 05 05 04  Electronic Battery Box Aa Battery 4 Cell
 name_no_type: Holder 05 05 04  Electronic Battery Box Aa Battery 4 Cell
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: '05_05_04_'
+oomlout_detail_hierarchy_4_upper: '05_05_04_'
+oomlout_detail_hierarchy_4_upper_length_4: '05_0'
+oomlout_detail_hierarchy_5: electronic_battery_box_aa
+oomlout_detail_hierarchy_5_upper: ELECTRONIC_BATTERY_BOX_AA
+oomlout_detail_hierarchy_5_upper_length_4: ELEC
+oomlout_detail_hierarchy_6: battery_4_cell
+oomlout_detail_hierarchy_6_upper: BATTERY_4_CELL
+oomlout_detail_hierarchy_6_upper_length_4: BATT
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_05_05_04__electronic_battery_box_aa_battery_4_cell
 oomp_word: elephant sparkles rice

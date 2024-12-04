@@ -342,6 +342,18 @@ army |
 | name_no_size_short | Sweetcorntin198Gram |  
 | name_no_type | Sweetcorn Tin 198 Gram |  
 | name_short | Sweetcorn |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | vegetable |  
+| oomlout_detail_hierarchy_2_upper | VEGETABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VEGE |  
+| oomlout_detail_hierarchy_3 | sweetcorn |  
+| oomlout_detail_hierarchy_3_upper | SWEETCORN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SWEE |  
+| oomlout_detail_hierarchy_4 | tin_198_gram |  
+| oomlout_detail_hierarchy_4_upper | TIN_198_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_sweetcorn_tin_198_gram |  
 | oomp_word | school chestnut phone |  

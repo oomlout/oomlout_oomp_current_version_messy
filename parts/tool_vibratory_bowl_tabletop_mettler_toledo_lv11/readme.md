@@ -315,6 +315,21 @@ shoe |
 | name_no_size | Mettler Toledo Lv11 |  
 | name_no_size_short | Mettler Toledo Lv11 |  
 | name_no_type | Tabletop Mettler Toledo Lv11 |  
+| oomlout_detail_hierarchy_1 | tool |  
+| oomlout_detail_hierarchy_1_upper | TOOL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_2 | vibratory_bowl |  
+| oomlout_detail_hierarchy_2_upper | VIBRATORY_BOWL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VIBR |  
+| oomlout_detail_hierarchy_3 | tabletop |  
+| oomlout_detail_hierarchy_3_upper | TABLETOP |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TABL |  
+| oomlout_detail_hierarchy_4 | mettler_toledo |  
+| oomlout_detail_hierarchy_4_upper | METTLER_TOLEDO |  
+| oomlout_detail_hierarchy_4_upper_length_4 | METT |  
+| oomlout_detail_hierarchy_5 | lv11 |  
+| oomlout_detail_hierarchy_5_upper | LV11 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | LV11 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_vibratory_bowl_tabletop_mettler_toledo_lv11 |  
 | oomp_word | ramen six seven |  

@@ -362,6 +362,18 @@ name_no_size: Kidneytin400Gram
 name_no_size_short: Kidneytin400Gram
 name_no_type: Kidney Tin 400 Gram
 name_short: Kidney Beans
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: bean
+oomlout_detail_hierarchy_2_upper: BEAN
+oomlout_detail_hierarchy_2_upper_length_4: BEAN
+oomlout_detail_hierarchy_3: kidney_bean
+oomlout_detail_hierarchy_3_upper: KIDNEY_BEAN
+oomlout_detail_hierarchy_3_upper_length_4: KIDN
+oomlout_detail_hierarchy_4: tin_400_gram
+oomlout_detail_hierarchy_4_upper: TIN_400_GRAM
+oomlout_detail_hierarchy_4_upper_length_4: TIN_
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_bean_kidney_bean_tin_400_gram
 oomp_word: ocean racehorse fountain

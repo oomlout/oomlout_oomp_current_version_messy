@@ -313,6 +313,27 @@ final |
 | name_no_size | Alkaline 1 5 Volt Non Rechargable |  
 | name_no_size_short | Alkaline 1 5 Volt Non Rechargable |  
 | name_no_type | 9 Volt 15 mm Width 16 mm Height 48 mm Depth Alkaline 1 5 Volt Non Rechargable |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | battery |  
+| oomlout_detail_hierarchy_2_upper | BATTERY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BATT |  
+| oomlout_detail_hierarchy_3 | 15_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 15_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 15WI |  
+| oomlout_detail_hierarchy_4 | 16_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 16_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 16HE |  
+| oomlout_detail_hierarchy_5 | 48_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 48_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 48DE |  
+| oomlout_detail_hierarchy_6 | alkaline_1_5_volt |  
+| oomlout_detail_hierarchy_6_upper | ALKALINE_1_5_VOLT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ALKA |  
+| oomlout_detail_hierarchy_7 | non_rechargable |  
+| oomlout_detail_hierarchy_7_upper | NON_RECHARGABLE |  
+| oomlout_detail_hierarchy_7_upper_length_4 | NON_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_alkaline_1_5_volt_non_rechargable |  
 | oomp_word | phone banana bear |  

@@ -292,6 +292,15 @@ source |
 | name_no_size | M2 |  
 | name_no_size_short | M2 |  
 | name_no_type | M2 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m2 |  
+| oomlout_detail_hierarchy_3_upper | M2 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M2 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n2m |  
 | oomlout_short_code_upper | N2M |  

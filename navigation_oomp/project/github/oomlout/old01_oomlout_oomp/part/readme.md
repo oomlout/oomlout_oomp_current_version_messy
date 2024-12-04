@@ -317,6 +317,18 @@ gift |
 | name_no_size | Old01 Oomp |  
 | name_no_size_short | Old01 Oomp |  
 | name_no_type | Oomlout Old01 Oomlout Oomp |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | old01_oomp |  
+| oomlout_detail_hierarchy_4_upper | OLD01_OOMP |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OLD0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_old01_oomlout_oomp |  
 | oomp_word | shoe coffee hatching_chick |  

@@ -338,6 +338,21 @@ switch |
 | name_no_size | 2X7 14 Pin Surface Mount Right Angle |  
 | name_no_size_short | 2X7 14 Pin Surface Mount Right Angle |  
 | name_no_type | 2 54 mm Dual Row 2X7 14 Pin Surface Mount Right Angle |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm_dual_row |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM_DUAL_ROW |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 2x7_14_pin |  
+| oomlout_detail_hierarchy_4_upper | 2X7_14_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2X7_ |  
+| oomlout_detail_hierarchy_5 | surface_mount_right_angle |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT_RIGHT_ANGLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_dual_row_2x7_14_pin_surface_mount_right_angle |  
 | oomp_word | cloud octopus mushroom |  

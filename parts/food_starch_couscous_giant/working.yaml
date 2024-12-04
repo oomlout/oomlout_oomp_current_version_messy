@@ -339,6 +339,18 @@ name_no_size: Giant
 name_no_size_short: Giant
 name_no_type: Couscous Giant
 name_short: Couscous Giant
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: couscous
+oomlout_detail_hierarchy_3_upper: COUSCOUS
+oomlout_detail_hierarchy_3_upper_length_4: COUS
+oomlout_detail_hierarchy_4: giant
+oomlout_detail_hierarchy_4_upper: GIANT
+oomlout_detail_hierarchy_4_upper_length_4: GIAN
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_couscous_giant
 oomp_word: hotel anchor up

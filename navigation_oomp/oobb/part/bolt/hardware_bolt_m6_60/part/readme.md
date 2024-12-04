@@ -313,6 +313,18 @@ rocket |
 | name_no_size | Hardware M6 60 |  
 | name_no_size_short | Hardware M6 60 |  
 | name_no_type | Bolt Hardware Bolt M6 60 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bolt |  
+| oomlout_detail_hierarchy_3_upper | BOLT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BOLT |  
+| oomlout_detail_hierarchy_4 | hardware_bolt_m6_60 |  
+| oomlout_detail_hierarchy_4_upper | HARDWARE_BOLT_M6_60 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bolt_hardware_bolt_m6_60 |  
 | oomp_word | briefcase rice ocean |  

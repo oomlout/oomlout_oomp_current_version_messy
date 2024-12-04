@@ -343,6 +343,21 @@ name_no_size_short: 04 04 03 Rh M2 5 Nm Electronic Breakout Board Servo Tester 3
   Mm Width 28 Mm Height Hw 141
 name_no_type: Mounting Plate 04 04 03 Rh M2 5 Nm Electronic Breakout Board Servo Tester
   32 mm Width 28 mm Height Hw 141
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: mounting_plate
+oomlout_detail_hierarchy_3_upper: MOUNTING_PLATE
+oomlout_detail_hierarchy_3_upper_length_4: MOUN
+oomlout_detail_hierarchy_4: 32_mm_width
+oomlout_detail_hierarchy_4_upper: 32_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 32WI
+oomlout_detail_hierarchy_5: 28_mm_height
+oomlout_detail_hierarchy_5_upper: 28_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 28HE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_04_04_03_rh_m2_5_nm_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
 oomp_word: wink bulb cloud

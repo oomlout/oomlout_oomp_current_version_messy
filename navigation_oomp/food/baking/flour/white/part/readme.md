@@ -300,6 +300,18 @@ endorse |
 | name_no_size_short | White |  
 | name_no_type | Flour White |  
 | name_short | Flour White |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | flour |  
+| oomlout_detail_hierarchy_3_upper | FLOUR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | FLOU |  
+| oomlout_detail_hierarchy_4 | white |  
+| oomlout_detail_hierarchy_4_upper | WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHIT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_flour_white |  
 | oomp_word | bowtie snake honeybee |  

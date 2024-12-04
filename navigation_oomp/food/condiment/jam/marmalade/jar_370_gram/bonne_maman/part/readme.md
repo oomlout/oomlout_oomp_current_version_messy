@@ -388,6 +388,24 @@ apart |
 | name_no_size_short | Jammarmaladejar370Grambonnemaman |  
 | name_no_type | Jam Marmalade Jar 370 Gram Bonne Maman |  
 | name_short | Marmalade |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | condiment |  
+| oomlout_detail_hierarchy_2_upper | CONDIMENT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | COND |  
+| oomlout_detail_hierarchy_3 | jam |  
+| oomlout_detail_hierarchy_3_upper | JAM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | JAM |  
+| oomlout_detail_hierarchy_4 | marmalade |  
+| oomlout_detail_hierarchy_4_upper | MARMALADE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MARM |  
+| oomlout_detail_hierarchy_5 | jar_370_gram |  
+| oomlout_detail_hierarchy_5_upper | JAR_370_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_6 | bonne_maman |  
+| oomlout_detail_hierarchy_6_upper | BONNE_MAMAN |  
+| oomlout_detail_hierarchy_6_upper_length_4 | BONN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_jam_marmalade_jar_370_gram_bonne_maman |  
 | oomp_word | apple taxi squirrel |  

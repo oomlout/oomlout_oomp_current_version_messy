@@ -318,6 +318,24 @@ bitter |
 | name_no_size | Brown |  
 | name_no_size_short | Brown |  
 | name_no_type | Imperial 7 In Width 5 In Height 2 In Depth Brown |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | cardboard_box_postal_tabs |  
+| oomlout_detail_hierarchy_2_upper | CARDBOARD_BOX_POSTAL_TABS |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CARD |  
+| oomlout_detail_hierarchy_3 | imperial_7_in_width |  
+| oomlout_detail_hierarchy_3_upper | IMPERIAL_7_IN_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IMPE |  
+| oomlout_detail_hierarchy_4 | 5_in_height_2 |  
+| oomlout_detail_hierarchy_4_upper | 5_IN_HEIGHT_2 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5_IN |  
+| oomlout_detail_hierarchy_5 | in_depth |  
+| oomlout_detail_hierarchy_5_upper | IN_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | IN_D |  
+| oomlout_detail_hierarchy_6 | brown |  
+| oomlout_detail_hierarchy_6_upper | BROWN |  
+| oomlout_detail_hierarchy_6_upper_length_4 | BROW |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown |  
 | oomp_word | cake pig eyes |  

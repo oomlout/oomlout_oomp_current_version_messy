@@ -307,6 +307,15 @@ length |
 | name_no_size | 68 mm Width |  
 | name_no_size_short | 68 Mm Width |  
 | name_no_type | 68 mm Width |  
+| oomlout_detail_hierarchy_1 | electrical |  
+| oomlout_detail_hierarchy_1_upper | ELECTRICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | light_fixing_hardware_hook |  
+| oomlout_detail_hierarchy_2_upper | LIGHT_FIXING_HARDWARE_HOOK |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LIGH |  
+| oomlout_detail_hierarchy_3 | 68_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 68_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 68WI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electrical_light_fixing_hardware_hook_68_mm_width |  
 | oomp_word | ring bell spaghetti |  

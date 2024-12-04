@@ -313,6 +313,21 @@ trigger |
 | name_no_size | 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height |  
 | name_no_size_short | 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 Mm Width 25 Mm Height |  
 | name_no_type | Mounting Plate Top 04 03 03 Rh M3 Nm Aliexpress Dc To Dc Converter Xl6009 48 mm Width 25 mm Height |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate_top |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE_TOP |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 48_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 48_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 48WI |  
+| oomlout_detail_hierarchy_5 | 25_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 25_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 25HE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_top_04_03_03_rh_m3_nm_aliexpress_dc_to_dc_converter_xl6009_48_mm_width_25_mm_height |  
 | oomp_word | diamonds smile smile |  

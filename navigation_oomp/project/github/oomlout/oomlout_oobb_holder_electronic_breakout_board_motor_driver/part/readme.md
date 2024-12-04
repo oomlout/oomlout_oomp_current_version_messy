@@ -317,6 +317,21 @@ decorate |
 | name_no_size | Oobb Holder Electronic Breakout Board Motor Driver |  
 | name_no_size_short | Oobb Holder Electronic Breakout Board Motor Driver |  
 | name_no_type | Oomlout Oomlout Oobb Holder Electronic Breakout Board Motor Driver |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_holder |  
+| oomlout_detail_hierarchy_4_upper | OOBB_HOLDER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | electronic_breakout_board_motor_driver |  
+| oomlout_detail_hierarchy_5_upper | ELECTRONIC_BREAKOUT_BOARD_MOTOR_DRIVER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELEC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_holder_electronic_breakout_board_motor_driver |  
 | oomp_word | beer trophy trident |  

@@ -338,6 +338,18 @@ name_no_color: Plastic
 name_no_size: Plastic
 name_no_size_short: Plastic
 name_no_type: 5 mm Plastic
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: shelf_support_peg
+oomlout_detail_hierarchy_2_upper: SHELF_SUPPORT_PEG
+oomlout_detail_hierarchy_2_upper_length_4: SHEL
+oomlout_detail_hierarchy_3: 5_mm
+oomlout_detail_hierarchy_3_upper: 5_MM
+oomlout_detail_hierarchy_3_upper_length_4: 5_MM
+oomlout_detail_hierarchy_4: plastic
+oomlout_detail_hierarchy_4_upper: PLASTIC
+oomlout_detail_hierarchy_4_upper_length_4: PLAS
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_shelf_support_peg_5_mm_plastic
 oomp_word: baseball fountain sleepy

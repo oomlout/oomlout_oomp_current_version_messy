@@ -365,6 +365,27 @@ usual |
 | name_no_size | Brass5mmwidth24mmheight8mmdepth9000Gweightcapacity |  
 | name_no_size_short | Brass5Mmwidth24Mmheight8Mmdepth9000Gweightcapacity |  
 | name_no_type | Brass 5 mm Width 24 mm Height 8 mm Depth 9000 G Weight Capacity |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | hook_picture_hanging |  
+| oomlout_detail_hierarchy_2_upper | HOOK_PICTURE_HANGING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HOOK |  
+| oomlout_detail_hierarchy_3 | brass |  
+| oomlout_detail_hierarchy_3_upper | BRASS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BRAS |  
+| oomlout_detail_hierarchy_4 | 5_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 5_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5WID |  
+| oomlout_detail_hierarchy_5 | 24_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 24_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 24HE |  
+| oomlout_detail_hierarchy_6 | 8_mm_depth |  
+| oomlout_detail_hierarchy_6_upper | 8_MM_DEPTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 8DEP |  
+| oomlout_detail_hierarchy_7 | 9000_g_weight_capacity |  
+| oomlout_detail_hierarchy_7_upper | 9000_G_WEIGHT_CAPACITY |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 9000 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
 | oomp_word | cat cry ghost |  

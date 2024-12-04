@@ -366,6 +366,24 @@ name_no_color: 131mmdiameter120mmheighttamperevidentsystempak2026
 name_no_size: 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026
 name_no_size_short: 131 Mm Diameter 120 Mm Height Tamper Evident Systempak 2026
 name_no_type: 1000 Ml 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 1000_ml
+oomlout_detail_hierarchy_3_upper: 1000_ML
+oomlout_detail_hierarchy_3_upper_length_4: '1000'
+oomlout_detail_hierarchy_4: 120_mm_height
+oomlout_detail_hierarchy_4_upper: 120_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 120H
+oomlout_detail_hierarchy_5: systempak
+oomlout_detail_hierarchy_5_upper: SYSTEMPAK
+oomlout_detail_hierarchy_5_upper_length_4: SYST
+oomlout_detail_hierarchy_6: '2026'
+oomlout_detail_hierarchy_6_upper: '2026'
+oomlout_detail_hierarchy_6_upper_length_4: '2026'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcc1000
 oomlout_short_code_upper: TCC1000

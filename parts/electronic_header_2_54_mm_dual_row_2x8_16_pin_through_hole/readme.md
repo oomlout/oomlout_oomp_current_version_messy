@@ -338,6 +338,21 @@ earth |
 | name_no_size | 2X8 16 Pin Through Hole |  
 | name_no_size_short | 2X8 16 Pin Through Hole |  
 | name_no_type | 2 54 mm Dual Row 2X8 16 Pin Through Hole |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm_dual_row |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM_DUAL_ROW |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 2x8_16_pin |  
+| oomlout_detail_hierarchy_4_upper | 2X8_16_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2X8_ |  
+| oomlout_detail_hierarchy_5 | through_hole |  
+| oomlout_detail_hierarchy_5_upper | THROUGH_HOLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_dual_row_2x8_16_pin_through_hole |  
 | oomp_word | golf peach train |  

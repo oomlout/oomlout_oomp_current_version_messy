@@ -313,6 +313,18 @@ stick |
 | name_no_size | 2D5 04 60 |  
 | name_no_size_short | 2D5 04 60 |  
 | name_no_type | Tray Vertical 2D5 04 60 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_vertical |  
+| oomlout_detail_hierarchy_3_upper | TRAY_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 2d5_04_60 |  
+| oomlout_detail_hierarchy_4_upper | 2D5_04_60 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2D5_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_2d5_04_60 |  
 | oomp_word | snail car bug |  

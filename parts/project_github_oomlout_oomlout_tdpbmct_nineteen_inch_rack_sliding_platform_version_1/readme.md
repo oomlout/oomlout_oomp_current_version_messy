@@ -317,6 +317,21 @@ situate |
 | name_no_size | Tdpbmct Nineteen Inch Rack Sliding Platform Version 1 |  
 | name_no_size_short | Tdpbmct Nineteen Inch Rack Sliding Platform Version 1 |  
 | name_no_type | Oomlout Oomlout Tdpbmct Nineteen Inch Rack Sliding Platform Version 1 |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | tdpbmct_nineteen_inch |  
+| oomlout_detail_hierarchy_4_upper | TDPBMCT_NINETEEN_INCH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | TDPB |  
+| oomlout_detail_hierarchy_5 | rack_sliding_platform_version_1 |  
+| oomlout_detail_hierarchy_5_upper | RACK_SLIDING_PLATFORM_VERSION_1 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | RACK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_tdpbmct_nineteen_inch_rack_sliding_platform_version_1 |  
 | oomp_word | cloud pray ant |  

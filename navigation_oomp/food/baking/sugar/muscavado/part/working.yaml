@@ -338,6 +338,18 @@ name_no_size: Muscavado
 name_no_size_short: Muscavado
 name_no_type: Sugar Muscavado
 name_short: Sugar Muscavado
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: baking
+oomlout_detail_hierarchy_2_upper: BAKING
+oomlout_detail_hierarchy_2_upper_length_4: BAKI
+oomlout_detail_hierarchy_3: sugar
+oomlout_detail_hierarchy_3_upper: SUGAR
+oomlout_detail_hierarchy_3_upper_length_4: SUGA
+oomlout_detail_hierarchy_4: muscavado
+oomlout_detail_hierarchy_4_upper: MUSCAVADO
+oomlout_detail_hierarchy_4_upper_length_4: MUSC
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_baking_sugar_muscavado
 oomp_word: tiger spades school

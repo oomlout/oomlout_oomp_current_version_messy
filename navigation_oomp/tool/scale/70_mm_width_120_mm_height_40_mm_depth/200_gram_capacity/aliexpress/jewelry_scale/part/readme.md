@@ -339,6 +339,30 @@ broken |
 | name_no_size | 200 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_size_short | 200 Gram Capacity Aliexpress Jewelry Scale |  
 | name_no_type | 70 mm Width 120 mm Height 40 mm Depth 200 Gram Capacity Aliexpress Jewelry Scale |  
+| oomlout_detail_hierarchy_1 | tool |  
+| oomlout_detail_hierarchy_1_upper | TOOL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_2 | scale |  
+| oomlout_detail_hierarchy_2_upper | SCALE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SCAL |  
+| oomlout_detail_hierarchy_3 | 70_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 70_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 70WI |  
+| oomlout_detail_hierarchy_4 | 120_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 120_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 120H |  
+| oomlout_detail_hierarchy_5 | 40_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 40_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 40DE |  
+| oomlout_detail_hierarchy_6 | 200_gram_capacity |  
+| oomlout_detail_hierarchy_6_upper | 200_GRAM_CAPACITY |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 200_ |  
+| oomlout_detail_hierarchy_7 | aliexpress |  
+| oomlout_detail_hierarchy_7_upper | ALIEXPRESS |  
+| oomlout_detail_hierarchy_7_upper_length_4 | ALIE |  
+| oomlout_detail_hierarchy_8 | jewelry_scale |  
+| oomlout_detail_hierarchy_8_upper | JEWELRY_SCALE |  
+| oomlout_detail_hierarchy_8_upper_length_4 | JEWE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_scale_70_mm_width_120_mm_height_40_mm_depth_200_gram_capacity_aliexpress_jewelry_scale |  
 | oomp_word | pill camera scroll |  

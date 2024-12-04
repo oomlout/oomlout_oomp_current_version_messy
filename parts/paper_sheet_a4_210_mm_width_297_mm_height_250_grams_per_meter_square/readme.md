@@ -336,6 +336,21 @@ turtle |
 | name_no_size | 250 Grams Per Meter Square |  
 | name_no_size_short | 250 Grams Per Meter Square |  
 | name_no_type | A4 210 mm Width 297 mm Height 250 Grams Per Meter Square |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 210_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 210_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 210W |  
+| oomlout_detail_hierarchy_4 | 297_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 297_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 297H |  
+| oomlout_detail_hierarchy_5 | 250_grams_per_meter_square |  
+| oomlout_detail_hierarchy_5_upper | 250_GRAMS_PER_METER_SQUARE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 250_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
 | oomp_word | bell koala tomato |  

@@ -337,6 +337,24 @@ example |
 | name_no_size | Natural 12 mm Width 100 mm Length |  
 | name_no_size_short | Natural 12 Mm Width 100 Mm Length |  
 | name_no_type | Size 85 Natural 12 mm Width 100 mm Length |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | elastic_band |  
+| oomlout_detail_hierarchy_2_upper | ELASTIC_BAND |  
+| oomlout_detail_hierarchy_2_upper_length_4 | ELAS |  
+| oomlout_detail_hierarchy_3 | size_85 |  
+| oomlout_detail_hierarchy_3_upper | SIZE_85 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SIZE |  
+| oomlout_detail_hierarchy_4 | natural |  
+| oomlout_detail_hierarchy_4_upper | NATURAL |  
+| oomlout_detail_hierarchy_4_upper_length_4 | NATU |  
+| oomlout_detail_hierarchy_5 | 12_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 12_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 12WI |  
+| oomlout_detail_hierarchy_6 | 100_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 100_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 100L |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length |  
 | oomp_word | zap zap grin |  

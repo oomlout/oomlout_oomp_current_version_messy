@@ -322,6 +322,15 @@ pact |
 | name_no_size | M3 |  
 | name_no_size_short | M3 |  
 | name_no_type | M3 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m3 |  
+| oomlout_detail_hierarchy_3_upper | M3 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M3 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n3m |  
 | oomlout_short_code_upper | N3M |  

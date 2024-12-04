@@ -339,6 +339,21 @@ master |
 | name_no_size | 6230 Size 150 mm ID 270 mm OD 45 mm Depth |  
 | name_no_size_short | 6230 Size 150 Mm Id 270 Mm Od 45 Mm Depth |  
 | name_no_type | 6200 Series 6230 Size 150 mm ID 270 mm OD 45 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6230_size |  
+| oomlout_detail_hierarchy_4_upper | 6230_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6230 |  
+| oomlout_detail_hierarchy_5 | 45_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 45_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 45DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6230 |  
 | oomlout_short_code_upper | BR6230 |  

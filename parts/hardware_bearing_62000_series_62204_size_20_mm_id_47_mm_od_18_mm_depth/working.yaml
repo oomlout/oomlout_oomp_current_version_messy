@@ -360,6 +360,21 @@ name_no_color: 20 mm ID 47 mm OD 18 mm Depth
 name_no_size: 62204 Size 20 mm ID 47 mm OD 18 mm Depth
 name_no_size_short: 62204 Size 20 Mm Id 47 Mm Od 18 Mm Depth
 name_no_type: 62000 Series 62204 Size 20 mm ID 47 mm OD 18 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 62000_series
+oomlout_detail_hierarchy_3_upper: 62000_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '6200'
+oomlout_detail_hierarchy_4: 62204_size
+oomlout_detail_hierarchy_4_upper: 62204_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '6220'
+oomlout_detail_hierarchy_5: 18_mm_depth
+oomlout_detail_hierarchy_5_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 18DE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br62204
 oomlout_short_code_upper: BR62204

@@ -364,6 +364,27 @@ usage |
 | name_no_size_short | Multiplexer Power Multiplexer Texas Instruments Tps2113Apw |  
 | name_no_type | Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ic |  
+| oomlout_detail_hierarchy_2_upper | IC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IC |  
+| oomlout_detail_hierarchy_3 | tssop_8 |  
+| oomlout_detail_hierarchy_3_upper | TSSOP_8 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TSSO |  
+| oomlout_detail_hierarchy_4 | multiplexer |  
+| oomlout_detail_hierarchy_4_upper | MULTIPLEXER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MULT |  
+| oomlout_detail_hierarchy_5 | power_multiplexer |  
+| oomlout_detail_hierarchy_5_upper | POWER_MULTIPLEXER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | POWE |  
+| oomlout_detail_hierarchy_6 | texas_instruments |  
+| oomlout_detail_hierarchy_6_upper | TEXAS_INSTRUMENTS |  
+| oomlout_detail_hierarchy_6_upper_length_4 | TEXA |  
+| oomlout_detail_hierarchy_7 | tps2113apw |  
+| oomlout_detail_hierarchy_7_upper | TPS2113APW |  
+| oomlout_detail_hierarchy_7_upper_length_4 | TPS2 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw |  
 | oomp_word | phone books water_buffalo |  

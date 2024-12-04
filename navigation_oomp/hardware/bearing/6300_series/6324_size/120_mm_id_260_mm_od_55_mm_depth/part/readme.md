@@ -339,6 +339,21 @@ rate |
 | name_no_size | 6324 Size 120 mm ID 260 mm OD 55 mm Depth |  
 | name_no_size_short | 6324 Size 120 Mm Id 260 Mm Od 55 Mm Depth |  
 | name_no_type | 6300 Series 6324 Size 120 mm ID 260 mm OD 55 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6300_series |  
+| oomlout_detail_hierarchy_3_upper | 6300_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6300 |  
+| oomlout_detail_hierarchy_4 | 6324_size |  
+| oomlout_detail_hierarchy_4_upper | 6324_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6324 |  
+| oomlout_detail_hierarchy_5 | 55_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 55_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 55DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6324 |  
 | oomlout_short_code_upper | BR6324 |  

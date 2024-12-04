@@ -339,6 +339,21 @@ kitchen |
 | name_no_size | 16021 Size 105 mm ID 160 mm OD 18 mm Depth |  
 | name_no_size_short | 16021 Size 105 Mm Id 160 Mm Od 18 Mm Depth |  
 | name_no_type | 16000 Series 16021 Size 105 mm ID 160 mm OD 18 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 16000_series |  
+| oomlout_detail_hierarchy_3_upper | 16000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1600 |  
+| oomlout_detail_hierarchy_4 | 16021_size |  
+| oomlout_detail_hierarchy_4_upper | 16021_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1602 |  
+| oomlout_detail_hierarchy_5 | 18_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 18_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 18DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br16021 |  
 | oomlout_short_code_upper | BR16021 |  

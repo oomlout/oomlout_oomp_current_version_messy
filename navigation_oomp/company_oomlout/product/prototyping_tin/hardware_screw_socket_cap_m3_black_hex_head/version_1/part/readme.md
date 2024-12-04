@@ -339,6 +339,24 @@ change |
 | name_no_size | Hardware Screw Socket Cap M3 Black Hex Head Version 1 |  
 | name_no_size_short | Hardware Screw Socket Cap M3 Black Hex Head Version 1 |  
 | name_no_type | Prototyping Tin Hardware Screw Socket Cap M3 Black Hex Head Version 1 |  
+| oomlout_detail_hierarchy_1 | company_oomlout |  
+| oomlout_detail_hierarchy_1_upper | COMPANY_OOMLOUT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | product |  
+| oomlout_detail_hierarchy_2_upper | PRODUCT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PROD |  
+| oomlout_detail_hierarchy_3 | prototyping_tin |  
+| oomlout_detail_hierarchy_3_upper | PROTOTYPING_TIN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PROT |  
+| oomlout_detail_hierarchy_4 | hardware_ssocket_cap_m3 |  
+| oomlout_detail_hierarchy_4_upper | HARDWARE_SSOCKET_CAP_M3 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_5 | black_hex_head |  
+| oomlout_detail_hierarchy_5_upper | BLACK_HEX_HEAD |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_6 | version_1 |  
+| oomlout_detail_hierarchy_6_upper | VERSION_1 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | VERS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1 |  
 | oomp_word | book whale gift |  

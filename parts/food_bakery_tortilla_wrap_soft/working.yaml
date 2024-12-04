@@ -362,6 +362,18 @@ name_no_color: Tortillawrapsoft
 name_no_size: Tortillawrapsoft
 name_no_size_short: Tortillawrapsoft
 name_no_type: Tortilla Wrap Soft
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: bakery
+oomlout_detail_hierarchy_2_upper: BAKERY
+oomlout_detail_hierarchy_2_upper_length_4: BAKE
+oomlout_detail_hierarchy_3: tortilla_wrap
+oomlout_detail_hierarchy_3_upper: TORTILLA_WRAP
+oomlout_detail_hierarchy_3_upper_length_4: TORT
+oomlout_detail_hierarchy_4: soft
+oomlout_detail_hierarchy_4_upper: SOFT
+oomlout_detail_hierarchy_4_upper_length_4: SOFT
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_bakery_tortilla_wrap_soft
 oomp_word: shoe hospital watermelon

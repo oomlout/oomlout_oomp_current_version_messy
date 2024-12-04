@@ -339,6 +339,21 @@ deposit |
 | name_no_size | 61813 Size 65 mm ID 85 mm OD 10 mm Depth |  
 | name_no_size_short | 61813 Size 65 Mm Id 85 Mm Od 10 Mm Depth |  
 | name_no_type | 61800 Series 61813 Size 65 mm ID 85 mm OD 10 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 61800_series |  
+| oomlout_detail_hierarchy_3_upper | 61800_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_4 | 61813_size |  
+| oomlout_detail_hierarchy_4_upper | 61813_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6181 |  
+| oomlout_detail_hierarchy_5 | 10_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 10_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61813 |  
 | oomlout_short_code_upper | BR61813 |  

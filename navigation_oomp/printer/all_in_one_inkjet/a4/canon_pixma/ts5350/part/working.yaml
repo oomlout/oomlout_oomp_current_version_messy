@@ -335,6 +335,21 @@ name_no_color: Canonpixmats5350
 name_no_size: Canon Pixma Ts5350
 name_no_size_short: Canon Pixma Ts5350
 name_no_type: A4 Canon Pixma Ts5350
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: all_in_one_inkjet
+oomlout_detail_hierarchy_2_upper: ALL_IN_ONE_INKJET
+oomlout_detail_hierarchy_2_upper_length_4: ALL_
+oomlout_detail_hierarchy_3: a4
+oomlout_detail_hierarchy_3_upper: A4
+oomlout_detail_hierarchy_3_upper_length_4: A4
+oomlout_detail_hierarchy_4: canon_pixma
+oomlout_detail_hierarchy_4_upper: CANON_PIXMA
+oomlout_detail_hierarchy_4_upper_length_4: CANO
+oomlout_detail_hierarchy_5: ts5350
+oomlout_detail_hierarchy_5_upper: TS5350
+oomlout_detail_hierarchy_5_upper_length_4: TS53
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_all_in_one_inkjet_a4_canon_pixma_ts5350
 oomp_word: wrench shirt jeans

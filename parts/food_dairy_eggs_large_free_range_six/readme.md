@@ -341,6 +341,18 @@ improve |
 | name_no_size | Eggslargefreerangesix |  
 | name_no_size_short | Eggslargefreerangesix |  
 | name_no_type | Eggs Large Free Range Six |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | dairy |  
+| oomlout_detail_hierarchy_2_upper | DAIRY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | DAIR |  
+| oomlout_detail_hierarchy_3 | eggs |  
+| oomlout_detail_hierarchy_3_upper | EGGS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | EGGS |  
+| oomlout_detail_hierarchy_4 | large_free_range_six |  
+| oomlout_detail_hierarchy_4_upper | LARGE_FREE_RANGE_SIX |  
+| oomlout_detail_hierarchy_4_upper_length_4 | LARG |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_dairy_eggs_large_free_range_six |  
 | oomp_word | koala water_buffalo speaker |  

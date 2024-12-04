@@ -337,6 +337,21 @@ mass |
 | name_no_size | 01  Washer |  
 | name_no_size_short | 1  Washer |  
 | name_no_type | Shaft 01  Washer |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | shaft |  
+| oomlout_detail_hierarchy_3_upper | SHAFT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHAF |  
+| oomlout_detail_hierarchy_4 | 01_ |  
+| oomlout_detail_hierarchy_4_upper | 01_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 01_ |  
+| oomlout_detail_hierarchy_5 | washer |  
+| oomlout_detail_hierarchy_5_upper | WASHER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | WASH |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_01__washer |  
 | oomp_word | doughnut bird zap |  

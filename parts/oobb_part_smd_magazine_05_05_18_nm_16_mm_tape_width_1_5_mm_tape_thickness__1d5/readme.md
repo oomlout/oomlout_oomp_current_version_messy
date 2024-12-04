@@ -337,6 +337,30 @@ drum |
 | name_no_size | 05 05 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5 |  
 | name_no_size_short | 05 05 18 Nm 16 Mm Tape Width 1 5 Mm Tape Thickness  1D5 |  
 | name_no_type | SMD Magazine 05 05 18 Nm 16 mm Tape Width 1 5 mm Tape Thickness  1D5 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 05_05_18_nm |  
+| oomlout_detail_hierarchy_4_upper | 05_05_18_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | 16_mm_tape_width |  
+| oomlout_detail_hierarchy_5_upper | 16_MM_TAPE_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 16TA |  
+| oomlout_detail_hierarchy_6 | 1_5_mm_tape |  
+| oomlout_detail_hierarchy_6_upper | 1_5_MM_TAPE |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 1_5T |  
+| oomlout_detail_hierarchy_7 | thickness_ |  
+| oomlout_detail_hierarchy_7_upper | THICKNESS_ |  
+| oomlout_detail_hierarchy_7_upper_length_4 | THIC |  
+| oomlout_detail_hierarchy_8 | 1d5 |  
+| oomlout_detail_hierarchy_8_upper | 1D5 |  
+| oomlout_detail_hierarchy_8_upper_length_4 | 1D5 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_05_05_18_nm_16_mm_tape_width_1_5_mm_tape_thickness__1d5 |  
 | oomp_word | bus cry muscle |  

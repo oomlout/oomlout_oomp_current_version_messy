@@ -315,6 +315,27 @@ gate |
 | name_no_size | Hpc Laser Cw4000 |  
 | name_no_size_short | Hpc Laser Cw4000 |  
 | name_no_type | 420 mm Width 350 mm Height 500 mm Depth Hpc Laser Cw4000 |  
+| oomlout_detail_hierarchy_1 | tool |  
+| oomlout_detail_hierarchy_1_upper | TOOL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_2 | water_chiller |  
+| oomlout_detail_hierarchy_2_upper | WATER_CHILLER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WATE |  
+| oomlout_detail_hierarchy_3 | 420_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 420_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 420W |  
+| oomlout_detail_hierarchy_4 | 350_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 350_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 350H |  
+| oomlout_detail_hierarchy_5 | 500_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 500_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 500D |  
+| oomlout_detail_hierarchy_6 | hpc_laser |  
+| oomlout_detail_hierarchy_6_upper | HPC_LASER |  
+| oomlout_detail_hierarchy_6_upper_length_4 | HPC_ |  
+| oomlout_detail_hierarchy_7 | cw4000 |  
+| oomlout_detail_hierarchy_7_upper | CW4000 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | CW40 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000 |  
 | oomp_word | wolf calendar melon |  

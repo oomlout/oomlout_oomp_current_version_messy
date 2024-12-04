@@ -312,6 +312,18 @@ name_no_color: A1594mmwidth841mmheight
 name_no_size: A1 594 mm Width 841 mm Height
 name_no_size_short: A1 594 Mm Width 841 Mm Height
 name_no_type: A1 594 mm Width 841 mm Height
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 594_mm_width
+oomlout_detail_hierarchy_3_upper: 594_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 594W
+oomlout_detail_hierarchy_4: 841_mm_height
+oomlout_detail_hierarchy_4_upper: 841_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 841H
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a1_594_mm_width_841_mm_height
 oomp_word: penguin tulip guitar

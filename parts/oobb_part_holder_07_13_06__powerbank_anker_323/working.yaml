@@ -358,6 +358,21 @@ name_no_color: 071306Powerbankanker323
 name_no_size: 07 13 06  Powerbank Anker 323
 name_no_size_short: 07 13 06  Powerbank Anker 323
 name_no_type: Holder 07 13 06  Powerbank Anker 323
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: '07_13_06_'
+oomlout_detail_hierarchy_4_upper: '07_13_06_'
+oomlout_detail_hierarchy_4_upper_length_4: '07_1'
+oomlout_detail_hierarchy_5: powerbank_anker_323
+oomlout_detail_hierarchy_5_upper: POWERBANK_ANKER_323
+oomlout_detail_hierarchy_5_upper_length_4: POWE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_07_13_06__powerbank_anker_323
 oomp_word: scroll lock herb

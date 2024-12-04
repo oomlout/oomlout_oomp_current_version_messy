@@ -317,6 +317,18 @@ stage |
 | name_no_size | Oomp Base Company Datasheet |  
 | name_no_size_short | Oomp Base Company Datasheet |  
 | name_no_type | Oomlout Oomp Base Company Oomlout Datasheet |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_base_company_datasheet |  
+| oomlout_detail_hierarchy_4_upper | OOMP_BASE_COMPANY_DATASHEET |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_company_oomlout_datasheet |  
 | oomp_word | egg palm_tree cake |  

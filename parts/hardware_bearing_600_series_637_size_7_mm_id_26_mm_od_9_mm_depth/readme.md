@@ -339,6 +339,21 @@ roof |
 | name_no_size | 637 Size 7 mm ID 26 mm OD 9 mm Depth |  
 | name_no_size_short | 637 Size 7 Mm Id 26 Mm Od 9 Mm Depth |  
 | name_no_type | 600 Series 637 Size 7 mm ID 26 mm OD 9 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 600_series |  
+| oomlout_detail_hierarchy_3_upper | 600_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 600_ |  
+| oomlout_detail_hierarchy_4 | 637_size |  
+| oomlout_detail_hierarchy_4_upper | 637_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 637_ |  
+| oomlout_detail_hierarchy_5 | 9_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 9_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 9DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br637 |  
 | oomlout_short_code_upper | BR637 |  

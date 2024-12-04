@@ -336,6 +336,18 @@ name_no_color: Cobled45mmwidth61mmlength
 name_no_size: Cobled45mmwidth61mmlength
 name_no_size_short: Cobled45Mmwidth61Mmlength
 name_no_type: Cobled45mmwidth61mmlength
+oomlout_detail_hierarchy_1: flashlight
+oomlout_detail_hierarchy_1_upper: FLASHLIGHT
+oomlout_detail_hierarchy_1_upper_length_4: FLAS
+oomlout_detail_hierarchy_2: cob_led
+oomlout_detail_hierarchy_2_upper: COB_LED
+oomlout_detail_hierarchy_2_upper_length_4: COB_
+oomlout_detail_hierarchy_3: 45_mm_width
+oomlout_detail_hierarchy_3_upper: 45_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 45WI
+oomlout_detail_hierarchy_4: 61_mm_length
+oomlout_detail_hierarchy_4_upper: 61_MM_LENGTH
+oomlout_detail_hierarchy_4_upper_length_4: 61LE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_flashlight_cob_led_45_mm_width_61_mm_length
 oomp_word: hospital grapes tea

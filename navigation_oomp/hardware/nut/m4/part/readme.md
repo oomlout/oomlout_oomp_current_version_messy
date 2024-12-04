@@ -322,6 +322,15 @@ coral |
 | name_no_size | M4 |  
 | name_no_size_short | M4 |  
 | name_no_type | M4 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m4 |  
+| oomlout_detail_hierarchy_3_upper | M4 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M4 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n4m |  
 | oomlout_short_code_upper | N4M |  

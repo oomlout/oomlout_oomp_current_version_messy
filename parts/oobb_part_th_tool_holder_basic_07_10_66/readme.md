@@ -313,6 +313,18 @@ wagon |
 | name_no_size | 07 10 66 |  
 | name_no_size_short | 07 10 66 |  
 | name_no_type | Th Tool Holder Basic 07 10 66 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | th_tool_holder_basic |  
+| oomlout_detail_hierarchy_3_upper | TH_TOOL_HOLDER_BASIC |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TH_T |  
+| oomlout_detail_hierarchy_4 | 07_10_66 |  
+| oomlout_detail_hierarchy_4_upper | 07_10_66 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_th_tool_holder_basic_07_10_66 |  
 | oomp_word | door mushroom rat |  

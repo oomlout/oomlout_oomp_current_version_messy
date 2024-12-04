@@ -388,6 +388,24 @@ try |
 | name_no_size_short | Saladdressingranchbottle250Mlnewmansown |  
 | name_no_type | Salad Dressing Ranch Bottle 250 Ml Newmans Own |  
 | name_short | Ranch Salad Dressing |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | condiment |  
+| oomlout_detail_hierarchy_2_upper | CONDIMENT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | COND |  
+| oomlout_detail_hierarchy_3 | salad_dressing |  
+| oomlout_detail_hierarchy_3_upper | SALAD_DRESSING |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SALA |  
+| oomlout_detail_hierarchy_4 | ranch |  
+| oomlout_detail_hierarchy_4_upper | RANCH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | RANC |  
+| oomlout_detail_hierarchy_5 | bottle_250_ml |  
+| oomlout_detail_hierarchy_5_upper | BOTTLE_250_ML |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BOTT |  
+| oomlout_detail_hierarchy_6 | newmans_own |  
+| oomlout_detail_hierarchy_6_upper | NEWMANS_OWN |  
+| oomlout_detail_hierarchy_6_upper_length_4 | NEWM |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_condiment_salad_dressing_ranch_bottle_250_ml_newmans_own |  
 | oomp_word | taxi santa rabbit |  

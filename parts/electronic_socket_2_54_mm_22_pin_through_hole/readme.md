@@ -338,6 +338,21 @@ great |
 | name_no_size | 22 Pin Through Hole |  
 | name_no_size_short | 22 Pin Through Hole |  
 | name_no_type | 2 54 mm 22 Pin Through Hole |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | socket |  
+| oomlout_detail_hierarchy_2_upper | SOCKET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SOCK |  
+| oomlout_detail_hierarchy_3 | 2_54_mm |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 22_pin |  
+| oomlout_detail_hierarchy_4_upper | 22_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 22_P |  
+| oomlout_detail_hierarchy_5 | through_hole |  
+| oomlout_detail_hierarchy_5_upper | THROUGH_HOLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_socket_2_54_mm_22_pin_through_hole |  
 | oomp_word | train monkey train |  

@@ -316,6 +316,18 @@ turn |
 | name_no_size | 470000 Ohm |  
 | name_no_size_short | 470k Ohm |  
 | name_no_type | 0201 470000 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0201 |  
+| oomlout_detail_hierarchy_3_upper | 0201 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0201 |  
+| oomlout_detail_hierarchy_4 | 470000_ohm |  
+| oomlout_detail_hierarchy_4_upper | 470000_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 4700 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0201_470000_ohm |  
 | oomp_word | rocket trophy bike |  

@@ -341,6 +341,27 @@ divorce |
 | name_no_size | 780 mm Width 1740 mm Height 350 mm Depth Ikea |  
 | name_no_size_short | 780 Mm Width 1740 Mm Height 350 Mm Depth Ikea |  
 | name_no_type | Ikea Gorm 780 mm Width 1740 mm Height 350 mm Depth Ikea |  
+| oomlout_detail_hierarchy_1 | furniture |  
+| oomlout_detail_hierarchy_1_upper | FURNITURE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FURN |  
+| oomlout_detail_hierarchy_2 | shelf |  
+| oomlout_detail_hierarchy_2_upper | SHELF |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEL |  
+| oomlout_detail_hierarchy_3 | ikea_gorm |  
+| oomlout_detail_hierarchy_3_upper | IKEA_GORM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_4 | 780_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 780_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 780W |  
+| oomlout_detail_hierarchy_5 | 1740_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 1740_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 1740 |  
+| oomlout_detail_hierarchy_6 | 350_mm_depth |  
+| oomlout_detail_hierarchy_6_upper | 350_MM_DEPTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 350D |  
+| oomlout_detail_hierarchy_7 | ikea |  
+| oomlout_detail_hierarchy_7_upper | IKEA |  
+| oomlout_detail_hierarchy_7_upper_length_4 | IKEA |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_gorm_780_mm_width_1740_mm_height_350_mm_depth_ikea |  
 | oomp_word | clipboard apple rocket |  

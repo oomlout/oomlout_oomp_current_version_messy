@@ -340,6 +340,18 @@ boss |
 | name_no_size_short | Tunainsunfloweroiltin125Gram |  
 | name_no_type | Tuna In Sunflower Oil Tin 125 Gram |  
 | name_short | Tuna in Sunflower Oil |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | meat |  
+| oomlout_detail_hierarchy_2_upper | MEAT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MEAT |  
+| oomlout_detail_hierarchy_3 | tuna_in_sunflower_oil |  
+| oomlout_detail_hierarchy_3_upper | TUNA_IN_SUNFLOWER_OIL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TUNA |  
+| oomlout_detail_hierarchy_4 | tin_125_gram |  
+| oomlout_detail_hierarchy_4_upper | TIN_125_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_meat_tuna_in_sunflower_oil_tin_125_gram |  
 | oomp_word | ramen ant candy |  

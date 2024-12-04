@@ -317,6 +317,18 @@ midnight |
 | name_no_size | 6800 Ohm |  
 | name_no_size_short | 6k8 Ohm |  
 | name_no_type | Quarter Watt Through Hole 6800 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | quarter_watt_through_hole |  
+| oomlout_detail_hierarchy_3_upper | QUARTER_WATT_THROUGH_HOLE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | QUAR |  
+| oomlout_detail_hierarchy_4 | 6800_ohm |  
+| oomlout_detail_hierarchy_4_upper | 6800_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6800 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_quarter_watt_through_hole_6800_ohm |  
 | oomp_word | trophy elephant tram |  

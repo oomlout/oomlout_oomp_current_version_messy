@@ -337,6 +337,21 @@ plate |
 | name_no_size | 1D5 24  Bolt Stacker |  
 | name_no_size_short | 1D5 24  Bolt Stacker |  
 | name_no_type | Other 1D5 24  Bolt Stacker |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | other |  
+| oomlout_detail_hierarchy_3_upper | OTHER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OTHE |  
+| oomlout_detail_hierarchy_4 | 1d5_24_ |  
+| oomlout_detail_hierarchy_4_upper | 1D5_24_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1D5_ |  
+| oomlout_detail_hierarchy_5 | bolt_stacker |  
+| oomlout_detail_hierarchy_5_upper | BOLT_STACKER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BOLT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_1d5_24__bolt_stacker |  
 | oomp_word | nose toilet snail |  

@@ -341,6 +341,21 @@ crime |
 | name_no_size_short | Raspberry Pi 2k Header Attached |  
 | name_no_type | Pico Raspberry Pi 2040 Header Attached |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | breakout_board_mcu |  
+| oomlout_detail_hierarchy_2_upper | BREAKOUT_BOARD_MCU |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_3 | pico |  
+| oomlout_detail_hierarchy_3_upper | PICO |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PICO |  
+| oomlout_detail_hierarchy_4 | raspberry_pi_2040 |  
+| oomlout_detail_hierarchy_4_upper | RASPBERRY_PI_2040 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | RASP |  
+| oomlout_detail_hierarchy_5 | header_attached |  
+| oomlout_detail_hierarchy_5_upper | HEADER_ATTACHED |  
+| oomlout_detail_hierarchy_5_upper_length_4 | HEAD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached |  
 | oomp_word | crown panda_face ok |  

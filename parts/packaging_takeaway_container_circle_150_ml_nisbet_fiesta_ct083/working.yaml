@@ -334,6 +334,21 @@ name_no_color: Nisbetfiestact083
 name_no_size: Nisbet Fiesta Ct083
 name_no_size_short: Nisbet Fiesta Ct083
 name_no_type: 150 Ml Nisbet Fiesta Ct083
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 150_ml
+oomlout_detail_hierarchy_3_upper: 150_ML
+oomlout_detail_hierarchy_3_upper_length_4: '150_'
+oomlout_detail_hierarchy_4: nisbet_fiesta
+oomlout_detail_hierarchy_4_upper: NISBET_FIESTA
+oomlout_detail_hierarchy_4_upper_length_4: NISB
+oomlout_detail_hierarchy_5: ct083
+oomlout_detail_hierarchy_5_upper: CT083
+oomlout_detail_hierarchy_5_upper_length_4: CT08
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcc150
 oomlout_short_code_upper: TCC150

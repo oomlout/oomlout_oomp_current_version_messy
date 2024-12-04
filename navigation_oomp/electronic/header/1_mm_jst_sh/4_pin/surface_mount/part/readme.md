@@ -338,6 +338,21 @@ bench |
 | name_no_size | 4 Pin Surface Mount |  
 | name_no_size_short | 4 Pin Surface Mount |  
 | name_no_type | 1 mm Jst Sh 4 Pin Surface Mount |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 1_mm_jst_sh |  
+| oomlout_detail_hierarchy_3_upper | 1_MM_JST_SH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1JST |  
+| oomlout_detail_hierarchy_4 | 4_pin |  
+| oomlout_detail_hierarchy_4_upper | 4_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 4_PI |  
+| oomlout_detail_hierarchy_5 | surface_mount |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount |  
 | oomp_word | trumpet balloon tram |  

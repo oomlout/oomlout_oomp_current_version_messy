@@ -334,6 +334,21 @@ name_no_color: Baumaticbxlc606036W
 name_no_size: Baumatic Bx Lc6060 36W
 name_no_size_short: Baumatic Bx Lc6060 36W
 name_no_type: 600 mm X 600 mm Baumatic Bx Lc6060 36W
+oomlout_detail_hierarchy_1: electrical
+oomlout_detail_hierarchy_1_upper: ELECTRICAL
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: light_panel
+oomlout_detail_hierarchy_2_upper: LIGHT_PANEL
+oomlout_detail_hierarchy_2_upper_length_4: LIGH
+oomlout_detail_hierarchy_3: 600_mm_x_600_mm
+oomlout_detail_hierarchy_3_upper: 600_MM_X_600_MM
+oomlout_detail_hierarchy_3_upper_length_4: 600X
+oomlout_detail_hierarchy_4: baumatic
+oomlout_detail_hierarchy_4_upper: BAUMATIC
+oomlout_detail_hierarchy_4_upper_length_4: BAUM
+oomlout_detail_hierarchy_5: bx_lc6060_36w
+oomlout_detail_hierarchy_5_upper: BX_LC6060_36W
+oomlout_detail_hierarchy_5_upper_length_4: BX_L
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 oomp_word: sparkles pizza blowfish

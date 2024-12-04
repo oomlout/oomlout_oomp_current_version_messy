@@ -339,6 +339,21 @@ city |
 | name_no_size | Electronic Crimp Bootlace Ferrule Mixed Version 1 |  
 | name_no_size_short | Electronic Crimp Bootlace Ferrule Mixed Version 1 |  
 | name_no_type | Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed Version 1 |  
+| oomlout_detail_hierarchy_1 | company_oomlout |  
+| oomlout_detail_hierarchy_1_upper | COMPANY_OOMLOUT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | product |  
+| oomlout_detail_hierarchy_2_upper | PRODUCT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PROD |  
+| oomlout_detail_hierarchy_3 | prototyping_tin |  
+| oomlout_detail_hierarchy_3_upper | PROTOTYPING_TIN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PROT |  
+| oomlout_detail_hierarchy_4 | electronic_crimp_bootlace_ferrule_mixed |  
+| oomlout_detail_hierarchy_4_upper | ELECTRONIC_CRIMP_BOOTLACE_FERRULE_MIXED |  
+| oomlout_detail_hierarchy_4_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_5 | version_1 |  
+| oomlout_detail_hierarchy_5_upper | VERSION_1 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | VERS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1 |  
 | oomp_word | one five headphones |  

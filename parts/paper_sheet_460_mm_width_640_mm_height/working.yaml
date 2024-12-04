@@ -312,6 +312,18 @@ name_no_color: 460mmwidth640mmheight
 name_no_size: 460 mm Width 640 mm Height
 name_no_size_short: 460 Mm Width 640 Mm Height
 name_no_type: 460 mm Width 640 mm Height
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 460_mm_width
+oomlout_detail_hierarchy_3_upper: 460_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 460W
+oomlout_detail_hierarchy_4: 640_mm_height
+oomlout_detail_hierarchy_4_upper: 640_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 640H
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_460_mm_width_640_mm_height
 oomp_word: new_moon car fountain

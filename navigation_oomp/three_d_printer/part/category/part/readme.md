@@ -289,6 +289,15 @@ flock |
 | name_no_size | Category |  
 | name_no_size_short | Category |  
 | name_no_type | Category |  
+| oomlout_detail_hierarchy_1 | three_d_printer |  
+| oomlout_detail_hierarchy_1_upper | THREE_D_PRINTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | category |  
+| oomlout_detail_hierarchy_3_upper | CATEGORY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CATE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_part_category |  
 | oomp_word | heart hatched_chick ambulance |  

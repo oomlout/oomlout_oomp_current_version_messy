@@ -316,6 +316,18 @@ elephant |
 | name_no_size | Coupling |  
 | name_no_size_short | Coupling |  
 | name_no_type | M4 Coupling |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m4 |  
+| oomlout_detail_hierarchy_3_upper | M4 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M4 |  
+| oomlout_detail_hierarchy_4 | coupling |  
+| oomlout_detail_hierarchy_4_upper | COUPLING |  
+| oomlout_detail_hierarchy_4_upper_length_4 | COUP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n4mco |  
 | oomlout_short_code_upper | N4MCO |  

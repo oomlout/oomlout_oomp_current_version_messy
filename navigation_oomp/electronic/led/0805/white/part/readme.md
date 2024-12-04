@@ -317,6 +317,18 @@ mango |
 | name_no_size | White |  
 | name_no_size_short | White |  
 | name_no_type | 0805 White |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | white |  
+| oomlout_detail_hierarchy_4_upper | WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHIT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0805_white |  
 | oomp_word | tulip bowling hourglass |  

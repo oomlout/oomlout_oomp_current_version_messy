@@ -341,6 +341,21 @@ flock |
 | name_no_size | Blue Tint |  
 | name_no_size_short | Blue Tint |  
 | name_no_type | 0402 Blue Tint |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 0402 |  
+| oomlout_detail_hierarchy_3_upper | 0402 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0402 |  
+| oomlout_detail_hierarchy_4 | blue |  
+| oomlout_detail_hierarchy_4_upper | BLUE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLUE |  
+| oomlout_detail_hierarchy_5 | tint |  
+| oomlout_detail_hierarchy_5_upper | TINT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TINT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0402_blue_tint |  
 | oomp_word | egg dog dancer |  

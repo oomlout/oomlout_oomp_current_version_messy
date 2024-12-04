@@ -358,6 +358,21 @@ name_no_color: 0501V
 name_no_size: 05 01  V
 name_no_size_short: 05 01  V
 name_no_type: Bunting Alphabet 05 01  V
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bunting_alphabet
+oomlout_detail_hierarchy_3_upper: BUNTING_ALPHABET
+oomlout_detail_hierarchy_3_upper_length_4: BUNT
+oomlout_detail_hierarchy_4: '05_01_'
+oomlout_detail_hierarchy_4_upper: '05_01_'
+oomlout_detail_hierarchy_4_upper_length_4: '05_0'
+oomlout_detail_hierarchy_5: v
+oomlout_detail_hierarchy_5_upper: V
+oomlout_detail_hierarchy_5_upper_length_4: V
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bunting_alphabet_05_01__v
 oomp_word: seven hearts ambulance

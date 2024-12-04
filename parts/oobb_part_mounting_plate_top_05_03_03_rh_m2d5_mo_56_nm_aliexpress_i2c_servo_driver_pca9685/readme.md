@@ -313,6 +313,24 @@ absorb |
 | name_no_size | 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
 | name_no_size_short | 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
 | name_no_type | Mounting Plate Top 05 03 03 Rh M2D5 Mo 56 Nm Aliexpress I2C Servo Driver Pca9685 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate_top |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE_TOP |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 05_03_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 05_03_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | m2d5_mo_56_nm |  
+| oomlout_detail_hierarchy_5_upper | M2D5_MO_56_NM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M2D5 |  
+| oomlout_detail_hierarchy_6 | aliexpress_i2c_servo_driver_pca9685 |  
+| oomlout_detail_hierarchy_6_upper | ALIEXPRESS_I2C_SERVO_DRIVER_PCA9685 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ALIE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_top_05_03_03_rh_m2d5_mo_56_nm_aliexpress_i2c_servo_driver_pca9685 |  
 | oomp_word | ocean sandal birthday |  

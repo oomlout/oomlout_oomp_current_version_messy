@@ -339,6 +339,21 @@ gorilla |
 | name_no_size | 6301 Size 12 mm ID 37 mm OD 12 mm Depth |  
 | name_no_size_short | 6301 Size 12 Mm Id 37 Mm Od 12 Mm Depth |  
 | name_no_type | 6300 Series 6301 Size 12 mm ID 37 mm OD 12 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6300_series |  
+| oomlout_detail_hierarchy_3_upper | 6300_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6300 |  
+| oomlout_detail_hierarchy_4 | 6301_size |  
+| oomlout_detail_hierarchy_4_upper | 6301_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6301 |  
+| oomlout_detail_hierarchy_5 | 12_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 12_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 12DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6301 |  
 | oomlout_short_code_upper | BR6301 |  

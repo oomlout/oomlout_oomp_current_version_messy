@@ -338,6 +338,21 @@ mass |
 | name_no_size | 4 Pin Through Hole |  
 | name_no_size_short | 4 Pin Through Hole |  
 | name_no_type | 2 5 mm Jst Xh 4 Pin Through Hole |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_5_mm_jst_xh |  
+| oomlout_detail_hierarchy_3_upper | 2_5_MM_JST_XH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_5J |  
+| oomlout_detail_hierarchy_4 | 4_pin |  
+| oomlout_detail_hierarchy_4_upper | 4_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 4_PI |  
+| oomlout_detail_hierarchy_5 | through_hole |  
+| oomlout_detail_hierarchy_5_upper | THROUGH_HOLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_5_mm_jst_xh_4_pin_through_hole |  
 | oomp_word | trumpet alien peach |  

@@ -337,6 +337,21 @@ pumpkin |
 | name_no_size | 07 01  D |  
 | name_no_size_short | 07 01  D |  
 | name_no_type | Bunting Alphabet 07 01  D |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bunting_alphabet |  
+| oomlout_detail_hierarchy_3_upper | BUNTING_ALPHABET |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BUNT |  
+| oomlout_detail_hierarchy_4 | 07_01_ |  
+| oomlout_detail_hierarchy_4_upper | 07_01_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | d |  
+| oomlout_detail_hierarchy_5_upper | D |  
+| oomlout_detail_hierarchy_5_upper_length_4 | D |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bunting_alphabet_07_01__d |  
 | oomp_word | hospital tongue hospital |  

@@ -1,3 +1,7 @@
+* [adzuki_bean](adzuki_bean)
+  * [tin_400_gram](adzuki_bean/tin_400_gram)
+* [black_bean](black_bean)
+  * [tin_400_gram](black_bean/tin_400_gram)
 * [chickpea](chickpea)
   * [tin_400_gram](chickpea/tin_400_gram)
 * [kidney_bean](kidney_bean)

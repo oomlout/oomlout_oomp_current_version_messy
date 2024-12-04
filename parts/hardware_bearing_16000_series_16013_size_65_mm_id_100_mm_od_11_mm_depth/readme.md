@@ -339,6 +339,21 @@ size |
 | name_no_size | 16013 Size 65 mm ID 100 mm OD 11 mm Depth |  
 | name_no_size_short | 16013 Size 65 Mm Id 100 Mm Od 11 Mm Depth |  
 | name_no_type | 16000 Series 16013 Size 65 mm ID 100 mm OD 11 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 16000_series |  
+| oomlout_detail_hierarchy_3_upper | 16000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1600 |  
+| oomlout_detail_hierarchy_4 | 16013_size |  
+| oomlout_detail_hierarchy_4_upper | 16013_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1601 |  
+| oomlout_detail_hierarchy_5 | 11_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 11_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 11DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br16013 |  
 | oomlout_short_code_upper | BR16013 |  

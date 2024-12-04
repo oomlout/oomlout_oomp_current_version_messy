@@ -337,6 +337,24 @@ wage |
 | name_no_size | 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 mm |  
 | name_no_size_short | 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 Mm |  
 | name_no_type | Holder 05 03 09  Motor Stepper Nema 17 Flat Shifted Spacer 10 mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 05_03_09_ |  
+| oomlout_detail_hierarchy_4_upper | 05_03_09_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | motor_stepper_nema_17 |  
+| oomlout_detail_hierarchy_5_upper | MOTOR_STEPPER_NEMA_17 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_6 | flat_shifted_spacer_10_mm |  
+| oomlout_detail_hierarchy_6_upper | FLAT_SHIFTED_SPACER_10_MM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | FLAT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_05_03_09__motor_stepper_nema_17_flat_shifted_spacer_10_mm |  
 | oomp_word | blossom trumpet snail |  

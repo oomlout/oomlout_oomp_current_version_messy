@@ -339,6 +339,21 @@ dial |
 | name_no_size | 5209 Size 45 mm ID 85 mm OD 30 1 mm Depth |  
 | name_no_size_short | 5209 Size 45 Mm Id 85 Mm Od 30 1 Mm Depth |  
 | name_no_type | 5200 Series 5209 Size 45 mm ID 85 mm OD 30 1 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 5200_series |  
+| oomlout_detail_hierarchy_3_upper | 5200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5200 |  
+| oomlout_detail_hierarchy_4 | 5209_size |  
+| oomlout_detail_hierarchy_4_upper | 5209_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5209 |  
+| oomlout_detail_hierarchy_5 | 1_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 1_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 1DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5209 |  
 | oomlout_short_code_upper | BR5209 |  

@@ -339,6 +339,21 @@ pet |
 | name_no_size | 4 Pin Surface Mount Right Angle |  
 | name_no_size_short | 4 Pin Surface Mount Right Angle |  
 | name_no_type | 2 54 mm 4 Pin Surface Mount Right Angle |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 4_pin |  
+| oomlout_detail_hierarchy_4_upper | 4_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 4_PI |  
+| oomlout_detail_hierarchy_5 | surface_mount_right_angle |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT_RIGHT_ANGLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_4_pin_surface_mount_right_angle |  
 | oomp_word | ticket cat telescope |  

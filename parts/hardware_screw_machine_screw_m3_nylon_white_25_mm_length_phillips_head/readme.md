@@ -364,6 +364,24 @@ random |
 | name_no_size | Nylon White 25 mm Length Phillips Head |  
 | name_no_size_short | Nylon White 25 Mm Length Phillips Head |  
 | name_no_type | M3 Nylon White 25 mm Length Phillips Head |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | smachine_screw |  
+| oomlout_detail_hierarchy_2_upper | SMACHINE_SCREW |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SMAC |  
+| oomlout_detail_hierarchy_3 | m3 |  
+| oomlout_detail_hierarchy_3_upper | M3 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M3 |  
+| oomlout_detail_hierarchy_4 | nylon_white |  
+| oomlout_detail_hierarchy_4_upper | NYLON_WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | NYLO |  
+| oomlout_detail_hierarchy_5 | 25_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 25_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 25LE |  
+| oomlout_detail_hierarchy_6 | phillips_head |  
+| oomlout_detail_hierarchy_6_upper | PHILLIPS_HEAD |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PHIL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ms3nw25p |  
 | oomlout_short_code_upper | MS3NW25P |  

@@ -315,6 +315,15 @@ furnace |
 | name_no_size | M5 |  
 | name_no_size_short | M5 |  
 | name_no_type | M5 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | washer |  
+| oomlout_detail_hierarchy_2_upper | WASHER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WASH |  
+| oomlout_detail_hierarchy_3 | m5 |  
+| oomlout_detail_hierarchy_3_upper | M5 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M5 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_id | hardware_washer_m5 |  
 | oomp_key | oomp_hardware_washer_m5 |  

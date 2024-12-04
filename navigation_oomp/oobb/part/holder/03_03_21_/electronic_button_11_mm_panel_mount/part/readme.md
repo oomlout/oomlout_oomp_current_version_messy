@@ -337,6 +337,24 @@ smile |
 | name_no_size | 03 03 21  Electronic Button 11 mm Panel Mount |  
 | name_no_size_short | 03 03 21  Electronic Button 11 Mm Panel Mount |  
 | name_no_type | Holder 03 03 21  Electronic Button 11 mm Panel Mount |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 03_03_21_ |  
+| oomlout_detail_hierarchy_4_upper | 03_03_21_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | electronic_button_11_mm |  
+| oomlout_detail_hierarchy_5_upper | ELECTRONIC_BUTTON_11_MM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_6 | panel_mount |  
+| oomlout_detail_hierarchy_6_upper | PANEL_MOUNT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PANE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_03_03_21__electronic_button_11_mm_panel_mount |  
 | oomp_word | fax briefcase horse |  

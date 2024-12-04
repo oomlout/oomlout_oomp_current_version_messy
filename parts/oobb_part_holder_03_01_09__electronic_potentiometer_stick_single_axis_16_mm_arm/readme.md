@@ -337,6 +337,24 @@ such |
 | name_no_size | 03 01 09  Electronic Potentiometer Stick Single Axis 16 mm Arm |  
 | name_no_size_short | 03 01 09  Electronic Potentiometer Stick Single Axis 16 Mm Arm |  
 | name_no_type | Holder 03 01 09  Electronic Potentiometer Stick Single Axis 16 mm Arm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 03_01_09_ |  
+| oomlout_detail_hierarchy_4_upper | 03_01_09_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | electronic_potentiometer_stick_single |  
+| oomlout_detail_hierarchy_5_upper | ELECTRONIC_POTENTIOMETER_STICK_SINGLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_6 | axis_16_mm_arm |  
+| oomlout_detail_hierarchy_6_upper | AXIS_16_MM_ARM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | AXIS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_03_01_09__electronic_potentiometer_stick_single_axis_16_mm_arm |  
 | oomp_word | rice wrench radio |  

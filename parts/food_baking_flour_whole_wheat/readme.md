@@ -317,6 +317,18 @@ basic |
 | name_no_size_short | Whole Wheat |  
 | name_no_type | Flour Whole Wheat |  
 | name_short | Flour Whole Wheat |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | flour |  
+| oomlout_detail_hierarchy_3_upper | FLOUR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | FLOU |  
+| oomlout_detail_hierarchy_4 | whole_wheat |  
+| oomlout_detail_hierarchy_4_upper | WHOLE_WHEAT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHOL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_flour_whole_wheat |  
 | oomp_word | spaghetti hospital spaghetti |  

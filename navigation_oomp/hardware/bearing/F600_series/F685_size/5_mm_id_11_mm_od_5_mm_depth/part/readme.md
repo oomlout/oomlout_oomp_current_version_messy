@@ -339,6 +339,21 @@ divert |
 | name_no_size | F685 Size 5 mm ID 11 mm OD 5 mm Depth |  
 | name_no_size_short | F685 Size 5 Mm Id 11 Mm Od 5 Mm Depth |  
 | name_no_type | F600 Series F685 Size 5 mm ID 11 mm OD 5 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | F600_series |  
+| oomlout_detail_hierarchy_3_upper | F600_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | F600 |  
+| oomlout_detail_hierarchy_4 | F685_size |  
+| oomlout_detail_hierarchy_4_upper | F685_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | F685 |  
+| oomlout_detail_hierarchy_5 | 5_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 5_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 5DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brF685 |  
 | oomlout_short_code_upper | BRF685 |  

@@ -361,6 +361,21 @@ name_no_color: 45 mm ID 100 mm OD 25 mm Depth
 name_no_size: 6309 Size 45 mm ID 100 mm OD 25 mm Depth
 name_no_size_short: 6309 Size 45 Mm Id 100 Mm Od 25 Mm Depth
 name_no_type: 6300 Series 6309 Size 45 mm ID 100 mm OD 25 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 6300_series
+oomlout_detail_hierarchy_3_upper: 6300_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '6300'
+oomlout_detail_hierarchy_4: 6309_size
+oomlout_detail_hierarchy_4_upper: 6309_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '6309'
+oomlout_detail_hierarchy_5: 25_mm_depth
+oomlout_detail_hierarchy_5_upper: 25_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 25DE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br6309
 oomlout_short_code_upper: BR6309

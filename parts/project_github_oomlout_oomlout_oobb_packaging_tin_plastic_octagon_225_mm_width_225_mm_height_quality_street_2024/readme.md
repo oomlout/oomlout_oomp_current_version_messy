@@ -317,6 +317,27 @@ cart |
 | name_no_size | Oobb Packaging Tin Plastic Octagon 225 mm Width 225 mm Height Quality Street 2024 |  
 | name_no_size_short | Oobb Packaging Tin Plastic Octagon 225 Mm Width 225 Mm Height Quality Street 2024 |  
 | name_no_type | Oomlout Oomlout Oobb Packaging Tin Plastic Octagon 225 mm Width 225 mm Height Quality Street 2024 |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_packaging_tin |  
+| oomlout_detail_hierarchy_4_upper | OOBB_PACKAGING_TIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | plastic_octagon_225_mm |  
+| oomlout_detail_hierarchy_5_upper | PLASTIC_OCTAGON_225_MM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PLAS |  
+| oomlout_detail_hierarchy_6 | width_225_mm_height |  
+| oomlout_detail_hierarchy_6_upper | WIDTH_225_MM_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | WIDT |  
+| oomlout_detail_hierarchy_7 | quality_street_2024 |  
+| oomlout_detail_hierarchy_7_upper | QUALITY_STREET_2024 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | QUAL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_quality_street_2024 |  
 | oomp_word | briefcase pizza tea |  

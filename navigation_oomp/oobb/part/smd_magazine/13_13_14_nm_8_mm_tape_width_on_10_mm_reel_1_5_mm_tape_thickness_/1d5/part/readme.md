@@ -337,6 +337,33 @@ athlete |
 | name_no_size | 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5 |  
 | name_no_size_short | 13 13 14 Nm 8 Mm Tape Width On 10 Mm Reel 1 5 Mm Tape Thickness  1D5 |  
 | name_no_type | SMD Magazine 13 13 14 Nm 8 mm Tape Width On 10 mm Reel 1 5 mm Tape Thickness  1D5 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 13_13_14_nm |  
+| oomlout_detail_hierarchy_4_upper | 13_13_14_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 13_1 |  
+| oomlout_detail_hierarchy_5 | 8_mm_tape_width |  
+| oomlout_detail_hierarchy_5_upper | 8_MM_TAPE_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8TAP |  
+| oomlout_detail_hierarchy_6 | on_10_mm_reel |  
+| oomlout_detail_hierarchy_6_upper | ON_10_MM_REEL |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ON_1 |  
+| oomlout_detail_hierarchy_7 | 1_5_mm_tape |  
+| oomlout_detail_hierarchy_7_upper | 1_5_MM_TAPE |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 1_5T |  
+| oomlout_detail_hierarchy_8 | thickness_ |  
+| oomlout_detail_hierarchy_8_upper | THICKNESS_ |  
+| oomlout_detail_hierarchy_8_upper_length_4 | THIC |  
+| oomlout_detail_hierarchy_9 | 1d5 |  
+| oomlout_detail_hierarchy_9_upper | 1D5 |  
+| oomlout_detail_hierarchy_9_upper_length_4 | 1D5 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_13_13_14_nm_8_mm_tape_width_on_10_mm_reel_1_5_mm_tape_thickness__1d5 |  
 | oomp_word | bowling beetle herb |  

@@ -358,6 +358,21 @@ name_no_color: 03Big
 name_no_size: 03  Big
 name_no_size_short: 3  Big
 name_no_type: SMD Magazine Refiller 03  Big
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine_refiller
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE_REFILLER
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: '03_'
+oomlout_detail_hierarchy_4_upper: '03_'
+oomlout_detail_hierarchy_4_upper_length_4: '03_'
+oomlout_detail_hierarchy_5: big
+oomlout_detail_hierarchy_5_upper: BIG
+oomlout_detail_hierarchy_5_upper_length_4: BIG
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_refiller_03__big
 oomp_word: watermelon koala bear

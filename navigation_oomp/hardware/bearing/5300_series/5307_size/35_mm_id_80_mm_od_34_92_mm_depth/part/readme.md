@@ -339,6 +339,21 @@ humor |
 | name_no_size | 5307 Size 35 mm ID 80 mm OD 34 92 mm Depth |  
 | name_no_size_short | 5307 Size 35 Mm Id 80 Mm Od 34 92 Mm Depth |  
 | name_no_type | 5300 Series 5307 Size 35 mm ID 80 mm OD 34 92 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 5300_series |  
+| oomlout_detail_hierarchy_3_upper | 5300_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5300 |  
+| oomlout_detail_hierarchy_4 | 5307_size |  
+| oomlout_detail_hierarchy_4_upper | 5307_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5307 |  
+| oomlout_detail_hierarchy_5 | 92_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 92_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 92DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5307 |  
 | oomlout_short_code_upper | BR5307 |  

@@ -339,6 +339,21 @@ crunch |
 | name_no_size | 6201 Size 12 mm ID 32 mm OD 10 mm Depth |  
 | name_no_size_short | 6201 Size 12 Mm Id 32 Mm Od 10 Mm Depth |  
 | name_no_type | 6200 Series 6201 Size 12 mm ID 32 mm OD 10 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6201_size |  
+| oomlout_detail_hierarchy_4_upper | 6201_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6201 |  
+| oomlout_detail_hierarchy_5 | 10_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 10_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6201 |  
 | oomlout_short_code_upper | BR6201 |  

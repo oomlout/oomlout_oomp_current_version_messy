@@ -317,6 +317,18 @@ frost |
 | name_no_size | Oobb Version 4 |  
 | name_no_size_short | Oobb Version 4 |  
 | name_no_type | Oomlout Oomlout Oobb Version 4 |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_version_4 |  
+| oomlout_detail_hierarchy_4_upper | OOBB_VERSION_4 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_version_4 |  
 | oomp_word | hamster computer bath |  

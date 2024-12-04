@@ -337,6 +337,24 @@ fat |
 | name_no_size | 01 03  8 Teeth Sh Electronic Potentiometer 17 mm |  
 | name_no_size_short | 01 03  8 Teeth Sh Electronic Potentiometer 17 Mm |  
 | name_no_type | Gear 01 03  8 Teeth Sh Electronic Potentiometer 17 mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | gear |  
+| oomlout_detail_hierarchy_3_upper | GEAR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | GEAR |  
+| oomlout_detail_hierarchy_4 | 01_03_ |  
+| oomlout_detail_hierarchy_4_upper | 01_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 01_0 |  
+| oomlout_detail_hierarchy_5 | 8_teeth_sh_electronic |  
+| oomlout_detail_hierarchy_5_upper | 8_TEETH_SH_ELECTRONIC |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8_TE |  
+| oomlout_detail_hierarchy_6 | potentiometer_17_mm |  
+| oomlout_detail_hierarchy_6_upper | POTENTIOMETER_17_MM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | POTE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_01_03__8_teeth_sh_electronic_potentiometer_17_mm |  
 | oomp_word | eyes blowfish nose |  

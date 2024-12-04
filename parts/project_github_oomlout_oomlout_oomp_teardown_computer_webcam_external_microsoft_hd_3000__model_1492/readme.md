@@ -317,6 +317,24 @@ hammer |
 | name_no_size | Oomp Teardown Computer Webcam External Microsoft Hd 3000  Model 1492 |  
 | name_no_size_short | Oomp Teardown Computer Webcam External Microsoft Hd 3000  Model 1492 |  
 | name_no_type | Oomlout Oomlout Oomp Teardown Computer Webcam External Microsoft Hd 3000  Model 1492 |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_teardown |  
+| oomlout_detail_hierarchy_4_upper | OOMP_TEARDOWN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
+| oomlout_detail_hierarchy_5 | computer_webcam_external_microsoft |  
+| oomlout_detail_hierarchy_5_upper | COMPUTER_WEBCAM_EXTERNAL_MICROSOFT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_6 | hd_3000__model_1492 |  
+| oomlout_detail_hierarchy_6_upper | HD_3000__MODEL_1492 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | HD_3 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_teardown_computer_webcam_external_microsoft_hd_3000__model_1492 |  
 | oomp_word | ox gift ramen |  

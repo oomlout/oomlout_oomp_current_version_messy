@@ -364,6 +364,27 @@ neutral |
 | name_no_size | Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth 118A000 |  
 | name_no_size_short | Caserole Round 3700 Ml 270 Mm Diameter 100 Mm Depth 118A000 |  
 | name_no_type | Pyrex Caserole Round 3700 Ml 270 mm Diameter 100 mm Depth Pyrex 118A000 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | pyrex |  
+| oomlout_detail_hierarchy_3_upper | PYREX |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_4 | caserole_dish_round |  
+| oomlout_detail_hierarchy_4_upper | CASEROLE_DISH_ROUND |  
+| oomlout_detail_hierarchy_4_upper_length_4 | CASE |  
+| oomlout_detail_hierarchy_5 | 100_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 100_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 100D |  
+| oomlout_detail_hierarchy_6 | pyrex |  
+| oomlout_detail_hierarchy_6_upper | PYREX |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_7 | 118A000 |  
+| oomlout_detail_hierarchy_7_upper | 118A000 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 118A |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_caserole_dish_round_3700_ml_270_mm_diameter_100_mm_depth_pyrex_118A000 |  
 | oomp_word | ambulance bamboo snowflake |  

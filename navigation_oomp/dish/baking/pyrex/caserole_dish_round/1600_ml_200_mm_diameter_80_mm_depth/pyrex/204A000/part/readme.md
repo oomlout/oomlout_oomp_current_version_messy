@@ -364,6 +364,27 @@ rent |
 | name_no_size | Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth 204A000 |  
 | name_no_size_short | Caserole Round 1600 Ml 200 Mm Diameter 80 Mm Depth 204A000 |  
 | name_no_type | Pyrex Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth Pyrex 204A000 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | pyrex |  
+| oomlout_detail_hierarchy_3_upper | PYREX |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_4 | caserole_dish_round |  
+| oomlout_detail_hierarchy_4_upper | CASEROLE_DISH_ROUND |  
+| oomlout_detail_hierarchy_4_upper_length_4 | CASE |  
+| oomlout_detail_hierarchy_5 | 80_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 80_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 80DE |  
+| oomlout_detail_hierarchy_6 | pyrex |  
+| oomlout_detail_hierarchy_6_upper | PYREX |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_7 | 204A000 |  
+| oomlout_detail_hierarchy_7_upper | 204A000 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 204A |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000 |  
 | oomp_word | wolf leopard kiss |  

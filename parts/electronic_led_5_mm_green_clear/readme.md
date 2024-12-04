@@ -341,6 +341,21 @@ army |
 | name_no_size | Green Clear |  
 | name_no_size_short | Green Clear |  
 | name_no_type | 5 mm Green Clear |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 5_mm |  
+| oomlout_detail_hierarchy_3_upper | 5_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5_MM |  
+| oomlout_detail_hierarchy_4 | green |  
+| oomlout_detail_hierarchy_4_upper | GREEN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | GREE |  
+| oomlout_detail_hierarchy_5 | clear |  
+| oomlout_detail_hierarchy_5_upper | CLEAR |  
+| oomlout_detail_hierarchy_5_upper_length_4 | CLEA |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_5_mm_green_clear |  
 | oomp_word | poop snake six |  

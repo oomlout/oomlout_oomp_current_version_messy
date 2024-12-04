@@ -317,6 +317,24 @@ summer |
 | name_no_size | Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
 | name_no_size_short | Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
 | name_no_type | Oomlout Oomlout Oobb Tool Precision Screwdriver From Tool Screw Driver Bit Quarter Inch Drive |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_tool_precision |  
+| oomlout_detail_hierarchy_4_upper | OOBB_TOOL_PRECISION |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | screwdriver_from_tool_sdriver |  
+| oomlout_detail_hierarchy_5_upper | SCREWDRIVER_FROM_TOOL_SDRIVER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SCRE |  
+| oomlout_detail_hierarchy_6 | bit_quarter_inch_drive |  
+| oomlout_detail_hierarchy_6_upper | BIT_QUARTER_INCH_DRIVE |  
+| oomlout_detail_hierarchy_6_upper_length_4 | BIT_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_tool_precision_screwdriver_from_tool_screw_driver_bit_quarter_inch_drive |  
 | oomp_word | school scissors heart |  

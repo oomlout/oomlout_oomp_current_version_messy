@@ -339,6 +339,21 @@ name_no_color: Software Tool Ocr Seven Segment Display
 name_no_size: Software Tool Ocr Seven Segment Display
 name_no_size_short: Software Tool Ocr Seven Segment Display
 name_no_type: Oomlout Oomlout Software Tool Ocr Seven Segment Display
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: software_tool_ocr
+oomlout_detail_hierarchy_4_upper: SOFTWARE_TOOL_OCR
+oomlout_detail_hierarchy_4_upper_length_4: SOFT
+oomlout_detail_hierarchy_5: seven_segment_display
+oomlout_detail_hierarchy_5_upper: SEVEN_SEGMENT_DISPLAY
+oomlout_detail_hierarchy_5_upper_length_4: SEVE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_software_tool_ocr_seven_segment_display
 oomp_word: muscle bug tent

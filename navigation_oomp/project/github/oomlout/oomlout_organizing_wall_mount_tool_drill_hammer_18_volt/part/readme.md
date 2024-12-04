@@ -317,6 +317,21 @@ gauge |
 | name_no_size | Organizing Wall Mount Tool Drill Hammer 18 Volt |  
 | name_no_size_short | Organizing Wall Mount Tool Drill Hammer 18 Volt |  
 | name_no_type | Oomlout Oomlout Organizing Wall Mount Tool Drill Hammer 18 Volt |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | organizing_wall_mount |  
+| oomlout_detail_hierarchy_4_upper | ORGANIZING_WALL_MOUNT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | ORGA |  
+| oomlout_detail_hierarchy_5 | tool_drill_hammer_18_volt |  
+| oomlout_detail_hierarchy_5_upper | TOOL_DRILL_HAMMER_18_VOLT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TOOL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_organizing_wall_mount_tool_drill_hammer_18_volt |  
 | oomp_word | bread racehorse baby |  

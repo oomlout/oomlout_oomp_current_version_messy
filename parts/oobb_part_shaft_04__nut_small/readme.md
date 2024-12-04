@@ -337,6 +337,21 @@ physical |
 | name_no_size | 04  Nut Small |  
 | name_no_size_short | 4  Nut Small |  
 | name_no_type | Shaft 04  Nut Small |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | shaft |  
+| oomlout_detail_hierarchy_3_upper | SHAFT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHAF |  
+| oomlout_detail_hierarchy_4 | 04_ |  
+| oomlout_detail_hierarchy_4_upper | 04_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 04_ |  
+| oomlout_detail_hierarchy_5 | nut_small |  
+| oomlout_detail_hierarchy_5_upper | NUT_SMALL |  
+| oomlout_detail_hierarchy_5_upper_length_4 | NUT_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_04__nut_small |  
 | oomp_word | hatched_chick speaker octopus |  

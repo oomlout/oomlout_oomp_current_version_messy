@@ -336,6 +336,21 @@ name_no_color: Dewaltdc988
 name_no_size: Dewalt Dc988
 name_no_size_short: Dewalt Dc988
 name_no_type: 18 Volt Dewalt Tower Dewalt Dc988
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: drill_hammer
+oomlout_detail_hierarchy_2_upper: DRILL_HAMMER
+oomlout_detail_hierarchy_2_upper_length_4: DRIL
+oomlout_detail_hierarchy_3: 18_volt_dewalt_tower
+oomlout_detail_hierarchy_3_upper: 18_VOLT_DEWALT_TOWER
+oomlout_detail_hierarchy_3_upper_length_4: 18_V
+oomlout_detail_hierarchy_4: dewalt
+oomlout_detail_hierarchy_4_upper: DEWALT
+oomlout_detail_hierarchy_4_upper_length_4: DEWA
+oomlout_detail_hierarchy_5: dc988
+oomlout_detail_hierarchy_5_upper: DC988
+oomlout_detail_hierarchy_5_upper_length_4: DC98
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
 oomp_word: tea rowboat koala

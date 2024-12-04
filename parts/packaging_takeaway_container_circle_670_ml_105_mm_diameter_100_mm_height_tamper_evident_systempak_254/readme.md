@@ -340,6 +340,24 @@ village |
 | name_no_size | 105 mm Diameter 100 mm Height Tamper Evident Systempak 254 |  
 | name_no_size_short | 105 Mm Diameter 100 Mm Height Tamper Evident Systempak 254 |  
 | name_no_type | 670 Ml 105 mm Diameter 100 mm Height Tamper Evident Systempak 254 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | takeaway_container_circle |  
+| oomlout_detail_hierarchy_2_upper | TAKEAWAY_CONTAINER_CIRCLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TAKE |  
+| oomlout_detail_hierarchy_3 | 670_ml |  
+| oomlout_detail_hierarchy_3_upper | 670_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 670_ |  
+| oomlout_detail_hierarchy_4 | 100_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 100_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 100H |  
+| oomlout_detail_hierarchy_5 | systempak |  
+| oomlout_detail_hierarchy_5_upper | SYSTEMPAK |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SYST |  
+| oomlout_detail_hierarchy_6 | 254 |  
+| oomlout_detail_hierarchy_6_upper | 254 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 254 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc670 |  
 | oomlout_short_code_upper | TCC670 |  

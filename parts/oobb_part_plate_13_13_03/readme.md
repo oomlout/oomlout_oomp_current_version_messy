@@ -313,6 +313,18 @@ accuse |
 | name_no_size | 13 13 03 |  
 | name_no_size_short | 13 13 03 |  
 | name_no_type | Plate 13 13 03 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | plate |  
+| oomlout_detail_hierarchy_3_upper | PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PLAT |  
+| oomlout_detail_hierarchy_4 | 13_13_03 |  
+| oomlout_detail_hierarchy_4_upper | 13_13_03 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 13_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_13_13_03 |  
 | oomp_word | trident bug poop |  

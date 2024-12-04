@@ -337,6 +337,21 @@ myself |
 | name_no_size | 03 03 2D54  Basic Extra mm |  
 | name_no_size_short | 03 03 2D54  Basic Extra Mm |  
 | name_no_type | Wire 03 03 2D54  Basic Extra mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | wire |  
+| oomlout_detail_hierarchy_3_upper | WIRE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WIRE |  
+| oomlout_detail_hierarchy_4 | 03_03_2d54_ |  
+| oomlout_detail_hierarchy_4_upper | 03_03_2D54_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | basic_extra_mm |  
+| oomlout_detail_hierarchy_5_upper | BASIC_EXTRA_MM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BASI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_03_2d54__basic_extra_mm |  
 | oomp_word | tennis crocodile hearts |  

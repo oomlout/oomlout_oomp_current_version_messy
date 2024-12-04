@@ -317,6 +317,18 @@ protect |
 | name_no_size | Oomp Part Kicad Symbols |  
 | name_no_size_short | Oomp Part Kicad Symbols |  
 | name_no_type | Oomlout Oomlout Oomp Part Kicad Symbols |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_part_kicad_symbols |  
+| oomlout_detail_hierarchy_4_upper | OOMP_PART_KICAD_SYMBOLS |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_part_kicad_symbols |  
 | oomp_word | baseball ox hospital |  

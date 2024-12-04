@@ -291,6 +291,21 @@ mountain |
 | name_no_size | 38 mm Width 89 mm Height 2400 mm Depth |  
 | name_no_size_short | 38 Mm Width 89 Mm Height 2400 Mm Depth |  
 | name_no_type | 38 mm Width 89 mm Height 2400 mm Depth |  
+| oomlout_detail_hierarchy_1 | wood |  
+| oomlout_detail_hierarchy_1_upper | WOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | WOOD |  
+| oomlout_detail_hierarchy_2 | timber_cls |  
+| oomlout_detail_hierarchy_2_upper | TIMBER_CLS |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TIMB |  
+| oomlout_detail_hierarchy_3 | 38_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 38_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 38WI |  
+| oomlout_detail_hierarchy_4 | 89_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 89_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 89HE |  
+| oomlout_detail_hierarchy_5 | 2400_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 2400_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 2400 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_wood_timber_cls_38_mm_width_89_mm_height_2400_mm_depth |  
 | oomp_word | ghost flags rooster |  

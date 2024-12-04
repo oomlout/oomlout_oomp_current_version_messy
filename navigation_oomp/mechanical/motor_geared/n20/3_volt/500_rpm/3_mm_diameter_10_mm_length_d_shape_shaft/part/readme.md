@@ -361,6 +361,24 @@ road |
 | name_no_size | 3 Volt 500 Rpm 3 mm Diameter 10 mm Length D Shape Shaft |  
 | name_no_size_short | 3 Volt 500 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft |  
 | name_no_type | N20 3 Volt 500 Rpm 3 mm Diameter 10 mm Length D Shape Shaft |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | motor_geared |  
+| oomlout_detail_hierarchy_2_upper | MOTOR_GEARED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_3 | n20 |  
+| oomlout_detail_hierarchy_3_upper | N20 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | N20 |  
+| oomlout_detail_hierarchy_4 | 3_volt |  
+| oomlout_detail_hierarchy_4_upper | 3_VOLT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 3_VO |  
+| oomlout_detail_hierarchy_5 | 500_rpm |  
+| oomlout_detail_hierarchy_5_upper | 500_RPM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 500_ |  
+| oomlout_detail_hierarchy_6 | 10_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 10_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 10LE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_motor_geared_n20_3_volt_500_rpm_3_mm_diameter_10_mm_length_d_shape_shaft |  
 | oomp_word | tongue tomato angry |  

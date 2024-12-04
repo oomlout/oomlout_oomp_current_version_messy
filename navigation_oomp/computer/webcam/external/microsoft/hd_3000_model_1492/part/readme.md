@@ -315,6 +315,21 @@ empty |
 | name_no_size | Microsoft Hd 3000 Model 1492 |  
 | name_no_size_short | Microsoft Hd 3000 Model 1492 |  
 | name_no_type | External Microsoft Hd 3000 Model 1492 |  
+| oomlout_detail_hierarchy_1 | computer |  
+| oomlout_detail_hierarchy_1_upper | COMPUTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | webcam |  
+| oomlout_detail_hierarchy_2_upper | WEBCAM |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WEBC |  
+| oomlout_detail_hierarchy_3 | external |  
+| oomlout_detail_hierarchy_3_upper | EXTERNAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | EXTE |  
+| oomlout_detail_hierarchy_4 | microsoft |  
+| oomlout_detail_hierarchy_4_upper | MICROSOFT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_5 | hd_3000_model_1492 |  
+| oomlout_detail_hierarchy_5_upper | HD_3000_MODEL_1492 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | HD_3 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_webcam_external_microsoft_hd_3000_model_1492 |  
 | oomp_word | flags mouse headphones |  

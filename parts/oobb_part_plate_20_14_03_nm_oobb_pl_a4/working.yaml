@@ -335,6 +335,21 @@ name_no_color: 201403Nmpla4
 name_no_size: 20 14 03 Nm Pl A4
 name_no_size_short: 20 14 03 Nm Pl A4
 name_no_type: Plate 20 14 03 Nm Pl A4
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 20_14_03_nm
+oomlout_detail_hierarchy_4_upper: 20_14_03_NM
+oomlout_detail_hierarchy_4_upper_length_4: '20_1'
+oomlout_detail_hierarchy_5: oobb_pl_a4
+oomlout_detail_hierarchy_5_upper: OOBB_PL_A4
+oomlout_detail_hierarchy_5_upper_length_4: OOBB
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_plate_20_14_03_nm_oobb_pl_a4
 oomp_word: poop ear sushi

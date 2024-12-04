@@ -317,6 +317,18 @@ fame |
 | name_no_size | 560 Ohm |  
 | name_no_size_short | 560 Ohm |  
 | name_no_type | 0805 560 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | 560_ohm |  
+| oomlout_detail_hierarchy_4_upper | 560_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 560_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_560_ohm |  
 | oomp_word | snowflake gift dragon |  

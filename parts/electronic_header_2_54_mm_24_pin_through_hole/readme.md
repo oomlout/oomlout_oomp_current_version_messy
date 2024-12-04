@@ -339,6 +339,21 @@ surface |
 | name_no_size | 24 Pin Through Hole |  
 | name_no_size_short | 24 Pin Through Hole |  
 | name_no_type | 2 54 mm 24 Pin Through Hole |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 24_pin |  
+| oomlout_detail_hierarchy_4_upper | 24_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 24_P |  
+| oomlout_detail_hierarchy_5 | through_hole |  
+| oomlout_detail_hierarchy_5_upper | THROUGH_HOLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_24_pin_through_hole |  
 | oomp_word | ok penguin four |  

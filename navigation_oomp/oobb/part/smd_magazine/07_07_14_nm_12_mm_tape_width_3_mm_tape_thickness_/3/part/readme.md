@@ -337,6 +337,27 @@ yard |
 | name_no_size | 07 07 14 Nm 12 mm Tape Width 3 mm Tape Thickness  3 |  
 | name_no_size_short | 07 07 14 Nm 12 Mm Tape Width 3 Mm Tape Thickness  3 |  
 | name_no_type | SMD Magazine 07 07 14 Nm 12 mm Tape Width 3 mm Tape Thickness  3 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 07_07_14_nm |  
+| oomlout_detail_hierarchy_4_upper | 07_07_14_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | 12_mm_tape_width |  
+| oomlout_detail_hierarchy_5_upper | 12_MM_TAPE_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 12TA |  
+| oomlout_detail_hierarchy_6 | 3_mm_tape_thickness_ |  
+| oomlout_detail_hierarchy_6_upper | 3_MM_TAPE_THICKNESS_ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 3TAP |  
+| oomlout_detail_hierarchy_7 | 3 |  
+| oomlout_detail_hierarchy_7_upper | 3 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 3 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_07_07_14_nm_12_mm_tape_width_3_mm_tape_thickness__3 |  
 | oomp_word | sunflower hamburger cyclone |  

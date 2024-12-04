@@ -385,6 +385,27 @@ name_no_color: Bowl3000Ml240mmdiameter181B000
 name_no_size: Bowl 3000 Ml 240 mm Diameter 181B000
 name_no_size_short: Bowl 3000 Ml 240 Mm Diameter 181B000
 name_no_type: Pyrex Bowl 3000 Ml 240 mm Diameter Pyrex 181B000
+oomlout_detail_hierarchy_1: dish
+oomlout_detail_hierarchy_1_upper: DISH
+oomlout_detail_hierarchy_1_upper_length_4: DISH
+oomlout_detail_hierarchy_2: baking
+oomlout_detail_hierarchy_2_upper: BAKING
+oomlout_detail_hierarchy_2_upper_length_4: BAKI
+oomlout_detail_hierarchy_3: pyrex
+oomlout_detail_hierarchy_3_upper: PYREX
+oomlout_detail_hierarchy_3_upper_length_4: PYRE
+oomlout_detail_hierarchy_4: bowl
+oomlout_detail_hierarchy_4_upper: BOWL
+oomlout_detail_hierarchy_4_upper_length_4: BOWL
+oomlout_detail_hierarchy_5: 3000_ml_240_mm_diameter
+oomlout_detail_hierarchy_5_upper: 3000_ML_240_MM_DIAMETER
+oomlout_detail_hierarchy_5_upper_length_4: '3000'
+oomlout_detail_hierarchy_6: pyrex
+oomlout_detail_hierarchy_6_upper: PYREX
+oomlout_detail_hierarchy_6_upper_length_4: PYRE
+oomlout_detail_hierarchy_7: 181B000
+oomlout_detail_hierarchy_7_upper: 181B000
+oomlout_detail_hierarchy_7_upper_length_4: 181B
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_baking_pyrex_bowl_3000_ml_240_mm_diameter_pyrex_181B000
 oomp_word: cyclone ok squirrel

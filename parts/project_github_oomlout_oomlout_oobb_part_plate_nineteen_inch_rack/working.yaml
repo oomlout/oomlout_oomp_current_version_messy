@@ -337,6 +337,21 @@ name_no_color: Oobb Part Plate Nineteen Inch Rack
 name_no_size: Oobb Part Plate Nineteen Inch Rack
 name_no_size_short: Oobb Part Plate Nineteen Inch Rack
 name_no_type: Oomlout Oomlout Oobb Part Plate Nineteen Inch Rack
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oobb_part_plate
+oomlout_detail_hierarchy_4_upper: OOBB_PART_PLATE
+oomlout_detail_hierarchy_4_upper_length_4: OOBB
+oomlout_detail_hierarchy_5: nineteen_inch_rack
+oomlout_detail_hierarchy_5_upper: NINETEEN_INCH_RACK
+oomlout_detail_hierarchy_5_upper_length_4: NINE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_part_plate_nineteen_inch_rack
 oomp_word: frog ant toilet

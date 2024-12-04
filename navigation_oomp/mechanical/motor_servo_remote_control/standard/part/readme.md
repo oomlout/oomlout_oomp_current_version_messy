@@ -313,6 +313,15 @@ boost |
 | name_no_size | Standard |  
 | name_no_size_short | Standard |  
 | name_no_type | Standard |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | motor_servo_remote_control |  
+| oomlout_detail_hierarchy_2_upper | MOTOR_SERVO_REMOTE_CONTROL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_3 | standard |  
+| oomlout_detail_hierarchy_3_upper | STANDARD |  
+| oomlout_detail_hierarchy_3_upper_length_4 | STAN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_motor_servo_remote_control_standard |  
 | oomp_word | one lipstick turtle |  

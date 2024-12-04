@@ -366,6 +366,30 @@ approve |
 | name_no_size | Clear 88 mm Width 114 mm Height Kite Pbrh3 5 X 4 5 |  
 | name_no_size_short | Clear 88 Mm Width 114 Mm Height Kite Pbrh3 5 X 4 5 |  
 | name_no_type | 75 Micron Thickness Clear 88 mm Width 114 mm Height Kite Pbrh3 5 X 4 5 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | bag_grip_seal |  
+| oomlout_detail_hierarchy_2_upper | BAG_GRIP_SEAL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAG_ |  
+| oomlout_detail_hierarchy_3 | 75_micron_thickness |  
+| oomlout_detail_hierarchy_3_upper | 75_MICRON_THICKNESS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 75_M |  
+| oomlout_detail_hierarchy_4 | clear |  
+| oomlout_detail_hierarchy_4_upper | CLEAR |  
+| oomlout_detail_hierarchy_4_upper_length_4 | CLEA |  
+| oomlout_detail_hierarchy_5 | 88_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 88_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 88WI |  
+| oomlout_detail_hierarchy_6 | 114_mm_height |  
+| oomlout_detail_hierarchy_6_upper | 114_MM_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 114H |  
+| oomlout_detail_hierarchy_7 | kite_packaging |  
+| oomlout_detail_hierarchy_7_upper | KITE_PACKAGING |  
+| oomlout_detail_hierarchy_7_upper_length_4 | KITE |  
+| oomlout_detail_hierarchy_8 | pbrh3_5_x_4_5 |  
+| oomlout_detail_hierarchy_8_upper | PBRH3_5_X_4_5 |  
+| oomlout_detail_hierarchy_8_upper_length_4 | PBRH |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_bag_grip_seal_75_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbrh3_5_x_4_5 |  
 | oomp_word | ticket guitar key |  

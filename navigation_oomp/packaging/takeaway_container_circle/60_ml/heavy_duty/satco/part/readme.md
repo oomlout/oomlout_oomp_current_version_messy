@@ -337,6 +337,21 @@ cube |
 | name_no_size | Heavy Duty Satco |  
 | name_no_size_short | Heavy Duty Satco |  
 | name_no_type | 60 Ml Heavy Duty Satco |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | takeaway_container_circle |  
+| oomlout_detail_hierarchy_2_upper | TAKEAWAY_CONTAINER_CIRCLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TAKE |  
+| oomlout_detail_hierarchy_3 | 60_ml |  
+| oomlout_detail_hierarchy_3_upper | 60_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 60_M |  
+| oomlout_detail_hierarchy_4 | heavy_duty |  
+| oomlout_detail_hierarchy_4_upper | HEAVY_DUTY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HEAV |  
+| oomlout_detail_hierarchy_5 | satco |  
+| oomlout_detail_hierarchy_5_upper | SATCO |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SATC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc60 |  
 | oomlout_short_code_upper | TCC60 |  

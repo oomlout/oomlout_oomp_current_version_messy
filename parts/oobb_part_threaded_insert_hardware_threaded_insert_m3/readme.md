@@ -313,6 +313,18 @@ wrong |
 | name_no_size | Hardware M3 |  
 | name_no_size_short | Hardware M3 |  
 | name_no_type | Threaded Insert Hardware Threaded Insert M3 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | threaded_insert |  
+| oomlout_detail_hierarchy_3_upper | THREADED_INSERT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_4 | hardware_threaded_insert_m3 |  
+| oomlout_detail_hierarchy_4_upper | HARDWARE_THREADED_INSERT_M3 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_threaded_insert_hardware_threaded_insert_m3 |  
 | oomp_word | blowfish lemon whale |  

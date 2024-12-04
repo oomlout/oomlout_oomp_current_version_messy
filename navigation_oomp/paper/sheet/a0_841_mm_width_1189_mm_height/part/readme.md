@@ -292,6 +292,18 @@ lift |
 | name_no_size | A0 841 mm Width 1189 mm Height |  
 | name_no_size_short | A0 841 Mm Width 1189 Mm Height |  
 | name_no_type | A0 841 mm Width 1189 mm Height |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 841_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 841_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 841W |  
+| oomlout_detail_hierarchy_4 | 1189_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 1189_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1189 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a0_841_mm_width_1189_mm_height |  
 | oomp_word | alien honey_pot sushi |  

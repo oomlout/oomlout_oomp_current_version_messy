@@ -337,6 +337,21 @@ rigid |
 | name_no_size | 04 03 03  Motor Servo Micro 01 |  
 | name_no_size_short | 04 03 03  Motor Servo Micro 01 |  
 | name_no_type | Holder 04 03 03  Motor Servo Micro 01 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 04_03_03_ |  
+| oomlout_detail_hierarchy_4_upper | 04_03_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 04_0 |  
+| oomlout_detail_hierarchy_5 | motor_servo_micro_01 |  
+| oomlout_detail_hierarchy_5_upper | MOTOR_SERVO_MICRO_01 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MOTO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_04_03_03__motor_servo_micro_01 |  
 | oomp_word | sunglasses pear bowtie |  

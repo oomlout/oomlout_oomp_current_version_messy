@@ -317,6 +317,18 @@ turkey |
 | name_no_size | 27 Ohm |  
 | name_no_size_short | 27 Ohm |  
 | name_no_type | 0805 27 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | 27_ohm |  
+| oomlout_detail_hierarchy_4_upper | 27_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 27_O |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_27_ohm |  
 | oomp_word | seven three tea |  

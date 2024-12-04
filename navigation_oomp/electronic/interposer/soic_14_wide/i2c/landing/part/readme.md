@@ -341,6 +341,21 @@ build |
 | name_no_size_short | I2C Landing |  
 | name_no_type | Soic 14 Wide I2C Landing |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | interposer |  
+| oomlout_detail_hierarchy_2_upper | INTERPOSER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | INTE |  
+| oomlout_detail_hierarchy_3 | soic_14_wide |  
+| oomlout_detail_hierarchy_3_upper | SOIC_14_WIDE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SOIC |  
+| oomlout_detail_hierarchy_4 | i2c |  
+| oomlout_detail_hierarchy_4_upper | I2C |  
+| oomlout_detail_hierarchy_4_upper_length_4 | I2C |  
+| oomlout_detail_hierarchy_5 | landing |  
+| oomlout_detail_hierarchy_5_upper | LANDING |  
+| oomlout_detail_hierarchy_5_upper_length_4 | LAND |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_interposer_soic_14_wide_i2c_landing |  
 | oomp_word | pig five crocodile |  

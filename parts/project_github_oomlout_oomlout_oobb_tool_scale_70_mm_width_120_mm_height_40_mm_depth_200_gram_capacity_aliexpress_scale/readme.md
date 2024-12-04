@@ -317,6 +317,30 @@ february |
 | name_no_size | Oobb Tool Scale 70 mm Width 120 mm Height 40 mm Depth 200 Gram Capacity Aliexpress Scale |  
 | name_no_size_short | Oobb Tool Scale 70 Mm Width 120 Mm Height 40 Mm Depth 200 Gram Capacity Aliexpress Scale |  
 | name_no_type | Oomlout Oomlout Oobb Tool Scale 70 mm Width 120 mm Height 40 mm Depth 200 Gram Capacity Aliexpress Scale |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_tool_scale |  
+| oomlout_detail_hierarchy_4_upper | OOBB_TOOL_SCALE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | 70_mm_width_120 |  
+| oomlout_detail_hierarchy_5_upper | 70_MM_WIDTH_120 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 70WI |  
+| oomlout_detail_hierarchy_6 | mm_height_40_mm |  
+| oomlout_detail_hierarchy_6_upper | MM_HEIGHT_40_MM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MM_H |  
+| oomlout_detail_hierarchy_7 | depth_200_gram_capacity |  
+| oomlout_detail_hierarchy_7_upper | DEPTH_200_GRAM_CAPACITY |  
+| oomlout_detail_hierarchy_7_upper_length_4 | DEPT |  
+| oomlout_detail_hierarchy_8 | aliexpress_scale |  
+| oomlout_detail_hierarchy_8_upper | ALIEXPRESS_SCALE |  
+| oomlout_detail_hierarchy_8_upper_length_4 | ALIE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_tool_scale_70_mm_width_120_mm_height_40_mm_depth_200_gram_capacity_aliexpress_scale |  
 | oomp_word | panda_face ambulance fax |  

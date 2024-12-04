@@ -322,6 +322,15 @@ west |
 | name_no_size | M8 |  
 | name_no_size_short | M8 |  
 | name_no_type | M8 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m8 |  
+| oomlout_detail_hierarchy_3_upper | M8 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M8 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n8m |  
 | oomlout_short_code_upper | N8M |  

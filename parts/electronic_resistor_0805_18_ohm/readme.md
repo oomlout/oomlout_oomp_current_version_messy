@@ -317,6 +317,18 @@ want |
 | name_no_size | 18 Ohm |  
 | name_no_size_short | 18 Ohm |  
 | name_no_type | 0805 18 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | 18_ohm |  
+| oomlout_detail_hierarchy_4_upper | 18_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 18_O |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_18_ohm |  
 | oomp_word | clap droplet grapes |  

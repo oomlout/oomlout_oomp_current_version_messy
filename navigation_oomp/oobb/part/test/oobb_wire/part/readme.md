@@ -313,6 +313,18 @@ fresh |
 | name_no_size | Wire |  
 | name_no_size_short | Wire |  
 | name_no_type | Test Wire |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | test |  
+| oomlout_detail_hierarchy_3_upper | TEST |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TEST |  
+| oomlout_detail_hierarchy_4 | oobb_wire |  
+| oomlout_detail_hierarchy_4_upper | OOBB_WIRE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_test_oobb_wire |  
 | oomp_word | five pushpin grapes |  

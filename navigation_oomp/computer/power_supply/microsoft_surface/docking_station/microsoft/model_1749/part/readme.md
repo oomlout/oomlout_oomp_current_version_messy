@@ -339,6 +339,24 @@ mesh |
 | name_no_size | Docking Station Microsoft Model 1749 |  
 | name_no_size_short | Docking Station Microsoft Model 1749 |  
 | name_no_type | Microsoft Surface Docking Station Microsoft Model 1749 |  
+| oomlout_detail_hierarchy_1 | computer |  
+| oomlout_detail_hierarchy_1_upper | COMPUTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | power_supply |  
+| oomlout_detail_hierarchy_2_upper | POWER_SUPPLY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | POWE |  
+| oomlout_detail_hierarchy_3 | microsoft_surface |  
+| oomlout_detail_hierarchy_3_upper | MICROSOFT_SURFACE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_4 | docking_station |  
+| oomlout_detail_hierarchy_4_upper | DOCKING_STATION |  
+| oomlout_detail_hierarchy_4_upper_length_4 | DOCK |  
+| oomlout_detail_hierarchy_5 | microsoft |  
+| oomlout_detail_hierarchy_5_upper | MICROSOFT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_6 | model_1749 |  
+| oomlout_detail_hierarchy_6_upper | MODEL_1749 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MODE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749 |  
 | oomp_word | calendar lipstick beetle |  

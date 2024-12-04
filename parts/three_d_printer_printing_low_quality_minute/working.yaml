@@ -334,6 +334,18 @@ name_no_color: Minute
 name_no_size: Minute
 name_no_size_short: Minute
 name_no_type: Low Quality Minute
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: printing
+oomlout_detail_hierarchy_2_upper: PRINTING
+oomlout_detail_hierarchy_2_upper_length_4: PRIN
+oomlout_detail_hierarchy_3: low_quality
+oomlout_detail_hierarchy_3_upper: LOW_QUALITY
+oomlout_detail_hierarchy_3_upper_length_4: LOW_
+oomlout_detail_hierarchy_4: minute
+oomlout_detail_hierarchy_4_upper: MINUTE
+oomlout_detail_hierarchy_4_upper_length_4: MINU
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_printing_low_quality_minute
 oomp_word: clipboard beetle shoe

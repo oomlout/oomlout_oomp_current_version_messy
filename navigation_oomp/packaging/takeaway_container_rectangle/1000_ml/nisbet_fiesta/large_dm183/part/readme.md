@@ -313,6 +313,21 @@ cloth |
 | name_no_size | Nisbet Fiesta Large Dm183 |  
 | name_no_size_short | Nisbet Fiesta Large Dm183 |  
 | name_no_type | 1000 Ml Nisbet Fiesta Large Dm183 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | takeaway_container_rectangle |  
+| oomlout_detail_hierarchy_2_upper | TAKEAWAY_CONTAINER_RECTANGLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TAKE |  
+| oomlout_detail_hierarchy_3 | 1000_ml |  
+| oomlout_detail_hierarchy_3_upper | 1000_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1000 |  
+| oomlout_detail_hierarchy_4 | nisbet_fiesta |  
+| oomlout_detail_hierarchy_4_upper | NISBET_FIESTA |  
+| oomlout_detail_hierarchy_4_upper_length_4 | NISB |  
+| oomlout_detail_hierarchy_5 | large_dm183 |  
+| oomlout_detail_hierarchy_5_upper | LARGE_DM183 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | LARG |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcr1000 |  
 | oomlout_short_code_upper | TCR1000 |  

@@ -362,6 +362,27 @@ swear |
 | name_no_size | MCU Atmega328 Microchip Atmega328P Mu |  
 | name_no_size_short | Mcu Atmega328 Microchip Atmega328P Mu |  
 | name_no_type | Mlf 32 MCU Atmega328 Microchip Atmega328P Mu |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ic |  
+| oomlout_detail_hierarchy_2_upper | IC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IC |  
+| oomlout_detail_hierarchy_3 | mlf_32 |  
+| oomlout_detail_hierarchy_3_upper | MLF_32 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MLF_ |  
+| oomlout_detail_hierarchy_4 | mcu |  
+| oomlout_detail_hierarchy_4_upper | MCU |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MCU |  
+| oomlout_detail_hierarchy_5 | atmega328 |  
+| oomlout_detail_hierarchy_5_upper | ATMEGA328 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ATME |  
+| oomlout_detail_hierarchy_6 | microchip |  
+| oomlout_detail_hierarchy_6_upper | MICROCHIP |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_7 | atmega328p_mu |  
+| oomlout_detail_hierarchy_7_upper | ATMEGA328P_MU |  
+| oomlout_detail_hierarchy_7_upper_length_4 | ATME |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_mlf_32_mcu_atmega328_microchip_atmega328p_mu |  
 | oomp_word | school book snake |  

@@ -337,6 +337,21 @@ regret |
 | name_no_size | 15  Small |  
 | name_no_size_short | 15  Small |  
 | name_no_type | Shaft 15  Small |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | shaft |  
+| oomlout_detail_hierarchy_3_upper | SHAFT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHAF |  
+| oomlout_detail_hierarchy_4 | 15_ |  
+| oomlout_detail_hierarchy_4_upper | 15_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 15_ |  
+| oomlout_detail_hierarchy_5 | small |  
+| oomlout_detail_hierarchy_5_upper | SMALL |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SMAL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_15__small |  
 | oomp_word | dolls dolls bear |  

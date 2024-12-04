@@ -317,6 +317,27 @@ soul |
 | name_no_size | Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_size_short | Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
 | name_no_type | Oomlout Oomlout Oobb Bundle Oobb Holder 06 03 06 Ex Motor Tt 01 Servo Control |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_holder |  
+| oomlout_detail_hierarchy_4_upper | OOBB_HOLDER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | oobb_bundle_06_03 |  
+| oomlout_detail_hierarchy_5_upper | OOBB_BUNDLE_06_03 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_6 | 06_ex_motor_tt |  
+| oomlout_detail_hierarchy_6_upper | 06_EX_MOTOR_TT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 06_E |  
+| oomlout_detail_hierarchy_7 | 01_servo_control |  
+| oomlout_detail_hierarchy_7_upper | 01_SERVO_CONTROL |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 01_S |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_bundle_oobb_holder_06_03_06_ex_motor_tt_01_servo_control |  
 | oomp_word | key snail book |  

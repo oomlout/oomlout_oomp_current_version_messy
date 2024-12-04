@@ -339,6 +339,21 @@ bacon |
 | name_no_size | 9 Pin Surface Mount Right Angle |  
 | name_no_size_short | 9 Pin Surface Mount Right Angle |  
 | name_no_type | 1 mm Jst Sh 9 Pin Surface Mount Right Angle |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 1_mm_jst_sh |  
+| oomlout_detail_hierarchy_3_upper | 1_MM_JST_SH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1JST |  
+| oomlout_detail_hierarchy_4 | 9_pin |  
+| oomlout_detail_hierarchy_4_upper | 9_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 9_PI |  
+| oomlout_detail_hierarchy_5 | surface_mount_right_angle |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT_RIGHT_ANGLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_1_mm_jst_sh_9_pin_surface_mount_right_angle |  
 | oomp_word | eyeglasses pizza car |  

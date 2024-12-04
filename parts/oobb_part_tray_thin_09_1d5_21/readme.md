@@ -313,6 +313,18 @@ weekend |
 | name_no_size | 09 1D5 21 |  
 | name_no_size_short | 09 1D5 21 |  
 | name_no_type | Tray Thin 09 1D5 21 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_thin |  
+| oomlout_detail_hierarchy_3_upper | TRAY_THIN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 09_1d5_21 |  
+| oomlout_detail_hierarchy_4_upper | 09_1D5_21 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 09_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_thin_09_1d5_21 |  
 | oomp_word | horse grin dancer |  

@@ -364,6 +364,27 @@ name_no_color: 1920Pixelwidth1080Pixelheightdelle2211Hb
 name_no_size: 1920 Pixel Width 1080 Pixel Height Dell E2211Hb
 name_no_size_short: 1920 Pixel Width 1080 Pixel Height Dell E2211Hb
 name_no_type: 558 8 mm Screen Diagonal 1920 Pixel Width 1080 Pixel Height Dell E2211Hb
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: monitor
+oomlout_detail_hierarchy_2_upper: MONITOR
+oomlout_detail_hierarchy_2_upper_length_4: MONI
+oomlout_detail_hierarchy_3: 558_8_mm_screen_diagonal
+oomlout_detail_hierarchy_3_upper: 558_8_MM_SCREEN_DIAGONAL
+oomlout_detail_hierarchy_3_upper_length_4: '558_'
+oomlout_detail_hierarchy_4: 1920_pixel_width_1080
+oomlout_detail_hierarchy_4_upper: 1920_PIXEL_WIDTH_1080
+oomlout_detail_hierarchy_4_upper_length_4: '1920'
+oomlout_detail_hierarchy_5: pixel_height
+oomlout_detail_hierarchy_5_upper: PIXEL_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: PIXE
+oomlout_detail_hierarchy_6: dell
+oomlout_detail_hierarchy_6_upper: DELL
+oomlout_detail_hierarchy_6_upper_length_4: DELL
+oomlout_detail_hierarchy_7: e2211hb
+oomlout_detail_hierarchy_7_upper: E2211HB
+oomlout_detail_hierarchy_7_upper_length_4: E221
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_monitor_558_8_mm_screen_diagonal_1920_pixel_width_1080_pixel_height_dell_e2211hb
 oomp_word: ram pizza envelope

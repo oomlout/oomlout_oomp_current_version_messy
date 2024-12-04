@@ -334,6 +334,24 @@ name_no_color: 060503Rhm2D5Mo56D5Nmpimoronipim613Servo2040
 name_no_size: 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
 name_no_size_short: 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
 name_no_type: Mounting Plate 06 05 03 Rh M2D5 Mo 56D5 Nm Pimoroni Pim613 Servo 2040
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: mounting_plate
+oomlout_detail_hierarchy_3_upper: MOUNTING_PLATE
+oomlout_detail_hierarchy_3_upper_length_4: MOUN
+oomlout_detail_hierarchy_4: 06_05_03_rh
+oomlout_detail_hierarchy_4_upper: 06_05_03_RH
+oomlout_detail_hierarchy_4_upper_length_4: '06_0'
+oomlout_detail_hierarchy_5: m2d5_mo_56d5_nm
+oomlout_detail_hierarchy_5_upper: M2D5_MO_56D5_NM
+oomlout_detail_hierarchy_5_upper_length_4: M2D5
+oomlout_detail_hierarchy_6: pimoroni_pim613_servo_2040
+oomlout_detail_hierarchy_6_upper: PIMORONI_PIM613_SERVO_2040
+oomlout_detail_hierarchy_6_upper_length_4: PIMO
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_06_05_03_rh_m2d5_mo_56d5_nm_pimoroni_pim613_servo_2040
 oomp_word: trophy rowboat maple_leaf

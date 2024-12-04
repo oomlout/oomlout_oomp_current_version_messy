@@ -317,6 +317,18 @@ stay |
 | name_no_size | 3300 Ohm |  
 | name_no_size_short | 3k3 Ohm |  
 | name_no_type | 1206 3300 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 1206 |  
+| oomlout_detail_hierarchy_3_upper | 1206 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1206 |  
+| oomlout_detail_hierarchy_4 | 3300_ohm |  
+| oomlout_detail_hierarchy_4_upper | 3300_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 3300 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_1206_3300_ohm |  
 | oomp_word | train crocodile hourglass |  

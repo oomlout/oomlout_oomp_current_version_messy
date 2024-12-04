@@ -313,6 +313,18 @@ wasp |
 | name_no_size | Standard |  
 | name_no_size_short | Standard |  
 | name_no_type | Tt Standard |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | motor_geared |  
+| oomlout_detail_hierarchy_2_upper | MOTOR_GEARED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_3 | tt |  
+| oomlout_detail_hierarchy_3_upper | TT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TT |  
+| oomlout_detail_hierarchy_4 | standard |  
+| oomlout_detail_hierarchy_4_upper | STANDARD |  
+| oomlout_detail_hierarchy_4_upper_length_4 | STAN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_motor_geared_tt_standard |  
 | oomp_word | speaker pizza skull |  

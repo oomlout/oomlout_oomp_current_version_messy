@@ -317,6 +317,18 @@ mouse |
 | name_no_size | Red |  
 | name_no_size_short | Red |  
 | name_no_type | 0603 Red |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 0603 |  
+| oomlout_detail_hierarchy_3_upper | 0603 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0603 |  
+| oomlout_detail_hierarchy_4 | red |  
+| oomlout_detail_hierarchy_4_upper | RED |  
+| oomlout_detail_hierarchy_4_upper_length_4 | RED |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0603_red |  
 | oomp_word | ear ram dizzy |  

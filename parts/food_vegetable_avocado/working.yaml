@@ -338,6 +338,15 @@ name_no_color: Avocado
 name_no_size: Avocado
 name_no_size_short: Avocado
 name_no_type: Avocado
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: vegetable
+oomlout_detail_hierarchy_2_upper: VEGETABLE
+oomlout_detail_hierarchy_2_upper_length_4: VEGE
+oomlout_detail_hierarchy_3: avocado
+oomlout_detail_hierarchy_3_upper: AVOCADO
+oomlout_detail_hierarchy_3_upper_length_4: AVOC
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_vegetable_avocado
 oomp_word: factory thumbsdown spaghetti

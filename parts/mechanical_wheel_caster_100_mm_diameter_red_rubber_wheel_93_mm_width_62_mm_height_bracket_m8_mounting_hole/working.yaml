@@ -364,6 +364,27 @@ name_no_size_short: 100 Mm Diameter Red Rubber 93 Mm Width 62 Mm Height Bracket 
   Mounting Hole
 name_no_type: Caster 100 mm Diameter Red Rubber 93 mm Width 62 mm Height Bracket M8
   Mounting Hole
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: wheel
+oomlout_detail_hierarchy_2_upper: WHEEL
+oomlout_detail_hierarchy_2_upper_length_4: WHEE
+oomlout_detail_hierarchy_3: caster
+oomlout_detail_hierarchy_3_upper: CASTER
+oomlout_detail_hierarchy_3_upper_length_4: CAST
+oomlout_detail_hierarchy_4: 100_mm_diameter_red
+oomlout_detail_hierarchy_4_upper: 100_MM_DIAMETER_RED
+oomlout_detail_hierarchy_4_upper_length_4: 100D
+oomlout_detail_hierarchy_5: rubber_wheel
+oomlout_detail_hierarchy_5_upper: RUBBER_WHEEL
+oomlout_detail_hierarchy_5_upper_length_4: RUBB
+oomlout_detail_hierarchy_6: 93_mm_width
+oomlout_detail_hierarchy_6_upper: 93_MM_WIDTH
+oomlout_detail_hierarchy_6_upper_length_4: 93WI
+oomlout_detail_hierarchy_7: 62_mm_height
+oomlout_detail_hierarchy_7_upper: 62_MM_HEIGHT
+oomlout_detail_hierarchy_7_upper_length_4: 62HE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
 oomp_word: princess ocean sunny

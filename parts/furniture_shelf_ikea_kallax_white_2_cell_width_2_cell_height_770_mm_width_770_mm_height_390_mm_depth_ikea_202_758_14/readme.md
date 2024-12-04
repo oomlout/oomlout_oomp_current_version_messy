@@ -389,6 +389,39 @@ eager |
 | name_no_size | White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14 |  
 | name_no_size_short | White 2 Cell Width 2 Cell Height 770 Mm Width 770 Mm Height 390 Mm Depth Ikea 202 758 14 |  
 | name_no_type | Ikea Kallax White 2 Cell Width 2 Cell Height 770 mm Width 770 mm Height 390 mm Depth Ikea 202 758 14 |  
+| oomlout_detail_hierarchy_1 | furniture |  
+| oomlout_detail_hierarchy_10 | ikea |  
+| oomlout_detail_hierarchy_10_upper | IKEA |  
+| oomlout_detail_hierarchy_10_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_11 | 202_758_14 |  
+| oomlout_detail_hierarchy_11_upper | 202_758_14 |  
+| oomlout_detail_hierarchy_11_upper_length_4 | 202_ |  
+| oomlout_detail_hierarchy_1_upper | FURNITURE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FURN |  
+| oomlout_detail_hierarchy_2 | shelf |  
+| oomlout_detail_hierarchy_2_upper | SHELF |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEL |  
+| oomlout_detail_hierarchy_3 | ikea_kallax |  
+| oomlout_detail_hierarchy_3_upper | IKEA_KALLAX |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_4 | white |  
+| oomlout_detail_hierarchy_4_upper | WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_5 | 2_cell_width_2 |  
+| oomlout_detail_hierarchy_5_upper | 2_CELL_WIDTH_2 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 2_CE |  
+| oomlout_detail_hierarchy_6 | cell_height |  
+| oomlout_detail_hierarchy_6_upper | CELL_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | CELL |  
+| oomlout_detail_hierarchy_7 | 770_mm_width |  
+| oomlout_detail_hierarchy_7_upper | 770_MM_WIDTH |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 770W |  
+| oomlout_detail_hierarchy_8 | 770_mm_height |  
+| oomlout_detail_hierarchy_8_upper | 770_MM_HEIGHT |  
+| oomlout_detail_hierarchy_8_upper_length_4 | 770H |  
+| oomlout_detail_hierarchy_9 | 390_mm_depth |  
+| oomlout_detail_hierarchy_9_upper | 390_MM_DEPTH |  
+| oomlout_detail_hierarchy_9_upper_length_4 | 390D |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_kallax_white_2_cell_width_2_cell_height_770_mm_width_770_mm_height_390_mm_depth_ikea_202_758_14 |  
 | oomp_word | guitar thumbsup six |  

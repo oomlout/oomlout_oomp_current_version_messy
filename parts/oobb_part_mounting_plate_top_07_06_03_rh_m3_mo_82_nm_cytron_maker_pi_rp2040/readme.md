@@ -313,6 +313,24 @@ dash |
 | name_no_size | 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040 |  
 | name_no_size_short | 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040 |  
 | name_no_type | Mounting Plate Top 07 06 03 Rh M3 Mo 82 Nm Cytron Maker Pi Rp2040 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate_top |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE_TOP |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 07_06_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 07_06_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | m3_mo_82_nm |  
+| oomlout_detail_hierarchy_5_upper | M3_MO_82_NM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M3_M |  
+| oomlout_detail_hierarchy_6 | cytron_maker_pi_rp2040 |  
+| oomlout_detail_hierarchy_6_upper | CYTRON_MAKER_PI_RP2040 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | CYTR |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_top_07_06_03_rh_m3_mo_82_nm_cytron_maker_pi_rp2040 |  
 | oomp_word | ship smile rose |  

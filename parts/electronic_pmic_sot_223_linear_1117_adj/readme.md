@@ -362,6 +362,24 @@ tragic |
 | name_no_size | Linear 1117 Adj |  
 | name_no_size_short | Linear 1k1 Adj |  
 | name_no_type | Sot 223 Linear 1117 Adj |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | pmic |  
+| oomlout_detail_hierarchy_2_upper | PMIC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PMIC |  
+| oomlout_detail_hierarchy_3 | sot_223 |  
+| oomlout_detail_hierarchy_3_upper | SOT_223 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SOT_ |  
+| oomlout_detail_hierarchy_4 | linear |  
+| oomlout_detail_hierarchy_4_upper | LINEAR |  
+| oomlout_detail_hierarchy_4_upper_length_4 | LINE |  
+| oomlout_detail_hierarchy_5 | 1117 |  
+| oomlout_detail_hierarchy_5_upper | 1117 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 1117 |  
+| oomlout_detail_hierarchy_6 | adj |  
+| oomlout_detail_hierarchy_6_upper | ADJ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ADJ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_pmic_sot_223_linear_1117_adj |  
 | oomp_word | strawberry candy sunflower |  

@@ -337,6 +337,24 @@ moral |
 | name_no_size | 03 03 42  Motor Building Block Large 01 Bottom |  
 | name_no_size_short | 03 03 42  Motor Building Block Large 01 Bottom |  
 | name_no_type | Holder 03 03 42  Motor Building Block Large 01 Bottom |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 03_03_42_ |  
+| oomlout_detail_hierarchy_4_upper | 03_03_42_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | motor_building_block_large |  
+| oomlout_detail_hierarchy_5_upper | MOTOR_BUILDING_BLOCK_LARGE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_6 | 01_bottom |  
+| oomlout_detail_hierarchy_6_upper | 01_BOTTOM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 01_B |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_03_03_42__motor_building_block_large_01_bottom |  
 | oomp_word | zap maple_leaf hospital |  

@@ -292,6 +292,18 @@ return |
 | name_no_size | A7 74 mm Width 105 mm Height |  
 | name_no_size_short | A7 74 Mm Width 105 Mm Height |  
 | name_no_type | A7 74 mm Width 105 mm Height |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 74_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 74_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 74WI |  
+| oomlout_detail_hierarchy_4 | 105_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 105_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 105H |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a7_74_mm_width_105_mm_height |  
 | oomp_word | parking nose boat |  

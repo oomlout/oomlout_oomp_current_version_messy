@@ -338,6 +338,21 @@ lift |
 | name_no_size | Black 8 mm Length |  
 | name_no_size_short | Black 8 Mm Length |  
 | name_no_type | 1 mm Diameter Wire Black 8 mm Length |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | crimp_bootlace_ferrule |  
+| oomlout_detail_hierarchy_2_upper | CRIMP_BOOTLACE_FERRULE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CRIM |  
+| oomlout_detail_hierarchy_3 | 1_mm_diameter_wire |  
+| oomlout_detail_hierarchy_3_upper | 1_MM_DIAMETER_WIRE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1DIA |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 8_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 8_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8LEN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_bootlace_ferrule_1_mm_diameter_wire_black_8_mm_length |  
 | oomp_word | cherries squirrel coffee |  

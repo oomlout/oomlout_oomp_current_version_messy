@@ -341,6 +341,18 @@ legal |
 | name_no_size | Applepinklady |  
 | name_no_size_short | Applepinklady |  
 | name_no_type | Apple Pink Lady |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | fruit |  
+| oomlout_detail_hierarchy_2_upper | FRUIT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | FRUI |  
+| oomlout_detail_hierarchy_3 | apple |  
+| oomlout_detail_hierarchy_3_upper | APPLE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | APPL |  
+| oomlout_detail_hierarchy_4 | pink_lady |  
+| oomlout_detail_hierarchy_4_upper | PINK_LADY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PINK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_fruit_apple_pink_lady |  
 | oomp_word | spaghetti cherries herb |  

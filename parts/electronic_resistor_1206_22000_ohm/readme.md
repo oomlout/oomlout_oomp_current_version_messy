@@ -317,6 +317,18 @@ lady |
 | name_no_size | 22000 Ohm |  
 | name_no_size_short | 22k Ohm |  
 | name_no_type | 1206 22000 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 1206 |  
+| oomlout_detail_hierarchy_3_upper | 1206 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1206 |  
+| oomlout_detail_hierarchy_4 | 22000_ohm |  
+| oomlout_detail_hierarchy_4_upper | 22000_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2200 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_1206_22000_ohm |  
 | oomp_word | dolphin maple_leaf hatching_chick |  

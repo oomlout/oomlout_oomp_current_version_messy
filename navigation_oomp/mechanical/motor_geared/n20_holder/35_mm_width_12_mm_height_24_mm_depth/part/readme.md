@@ -313,6 +313,24 @@ loyal |
 | name_no_size | 35 mm Width 12 mm Height 24 mm Depth |  
 | name_no_size_short | 35 Mm Width 12 Mm Height 24 Mm Depth |  
 | name_no_type | N20 Holder 35 mm Width 12 mm Height 24 mm Depth |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | motor_geared |  
+| oomlout_detail_hierarchy_2_upper | MOTOR_GEARED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_3 | n20_holder |  
+| oomlout_detail_hierarchy_3_upper | N20_HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | N20_ |  
+| oomlout_detail_hierarchy_4 | 35_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 35_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 35WI |  
+| oomlout_detail_hierarchy_5 | 12_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 12_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 12HE |  
+| oomlout_detail_hierarchy_6 | 24_mm_depth |  
+| oomlout_detail_hierarchy_6_upper | 24_MM_DEPTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 24DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_motor_geared_n20_holder_35_mm_width_12_mm_height_24_mm_depth |  
 | oomp_word | alien hearts kissing |  

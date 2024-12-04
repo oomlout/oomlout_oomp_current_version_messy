@@ -339,6 +339,21 @@ rely |
 | name_no_size | 16019 Size 95 mm ID 145 mm OD 16 mm Depth |  
 | name_no_size_short | 16019 Size 95 Mm Id 145 Mm Od 16 Mm Depth |  
 | name_no_type | 16000 Series 16019 Size 95 mm ID 145 mm OD 16 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 16000_series |  
+| oomlout_detail_hierarchy_3_upper | 16000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1600 |  
+| oomlout_detail_hierarchy_4 | 16019_size |  
+| oomlout_detail_hierarchy_4_upper | 16019_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1601 |  
+| oomlout_detail_hierarchy_5 | 16_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 16_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 16DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br16019 |  
 | oomlout_short_code_upper | BR16019 |  

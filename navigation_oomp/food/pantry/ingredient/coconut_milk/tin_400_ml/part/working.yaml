@@ -384,6 +384,21 @@ name_no_color: Ingredientcoconutmilktin400Ml
 name_no_size: Ingredientcoconutmilktin400Ml
 name_no_size_short: Ingredientcoconutmilktin400Ml
 name_no_type: Ingredient Coconut Milk Tin 400 Ml
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: pantry
+oomlout_detail_hierarchy_2_upper: PANTRY
+oomlout_detail_hierarchy_2_upper_length_4: PANT
+oomlout_detail_hierarchy_3: ingredient
+oomlout_detail_hierarchy_3_upper: INGREDIENT
+oomlout_detail_hierarchy_3_upper_length_4: INGR
+oomlout_detail_hierarchy_4: coconut_milk
+oomlout_detail_hierarchy_4_upper: COCONUT_MILK
+oomlout_detail_hierarchy_4_upper_length_4: COCO
+oomlout_detail_hierarchy_5: tin_400_ml
+oomlout_detail_hierarchy_5_upper: TIN_400_ML
+oomlout_detail_hierarchy_5_upper_length_4: TIN_
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_pantry_ingredient_coconut_milk_tin_400_ml
 oomp_word: hammer scroll calendar

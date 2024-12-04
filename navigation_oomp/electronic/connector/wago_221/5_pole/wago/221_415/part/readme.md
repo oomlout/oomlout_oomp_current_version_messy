@@ -342,6 +342,24 @@ much |
 | name_no_size | 5 Pole 415 |  
 | name_no_size_short | 5 Pole 415 |  
 | name_no_type | Wago 221 5 Pole Wago 221 415 |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | connector |  
+| oomlout_detail_hierarchy_2_upper | CONNECTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CONN |  
+| oomlout_detail_hierarchy_3 | wago_221 |  
+| oomlout_detail_hierarchy_3_upper | WAGO_221 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WAGO |  
+| oomlout_detail_hierarchy_4 | 5_pole |  
+| oomlout_detail_hierarchy_4_upper | 5_POLE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5_PO |  
+| oomlout_detail_hierarchy_5 | wago |  
+| oomlout_detail_hierarchy_5_upper | WAGO |  
+| oomlout_detail_hierarchy_5_upper_length_4 | WAGO |  
+| oomlout_detail_hierarchy_6 | 221_415 |  
+| oomlout_detail_hierarchy_6_upper | 221_415 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 221_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_connector_wago_221_5_pole_wago_221_415 |  
 | oomp_word | snowman heart lock |  

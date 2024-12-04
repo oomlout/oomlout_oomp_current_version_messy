@@ -363,6 +363,24 @@ oppose |
 | name_no_size | 5mmdiameter90mmlengthpozidriveheadscrewtitetwo800Fy |  
 | name_no_size_short | 5Mmdiameter90Mmlengthpozidriveheadscrewtitetwo800Fy |  
 | name_no_type | 5 mm Diameter 90 mm Length Pozidrive Head Screw Tite Two 800Fy |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | swood |  
+| oomlout_detail_hierarchy_2_upper | SWOOD |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SWOO |  
+| oomlout_detail_hierarchy_3 | 90_mm_length |  
+| oomlout_detail_hierarchy_3_upper | 90_MM_LENGTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 90LE |  
+| oomlout_detail_hierarchy_4 | pozidrive_head |  
+| oomlout_detail_hierarchy_4_upper | POZIDRIVE_HEAD |  
+| oomlout_detail_hierarchy_4_upper_length_4 | POZI |  
+| oomlout_detail_hierarchy_5 | stite_two |  
+| oomlout_detail_hierarchy_5_upper | STITE_TWO |  
+| oomlout_detail_hierarchy_5_upper_length_4 | STIT |  
+| oomlout_detail_hierarchy_6 | 800FY |  
+| oomlout_detail_hierarchy_6_upper | 800FY |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 800F |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_screw_wood_5_mm_diameter_90_mm_length_pozidrive_head_screw_tite_two_800FY |  
 | oomp_word | pineapple seven recycle |  

@@ -337,6 +337,21 @@ duck |
 | name_no_size | 05 03 03  Motor Stepper Nema 17 Flat |  
 | name_no_size_short | 05 03 03  Motor Stepper Nema 17 Flat |  
 | name_no_type | Holder 05 03 03  Motor Stepper Nema 17 Flat |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 05_03_03_ |  
+| oomlout_detail_hierarchy_4_upper | 05_03_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | motor_stepper_nema_17_flat |  
+| oomlout_detail_hierarchy_5_upper | MOTOR_STEPPER_NEMA_17_FLAT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MOTO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_05_03_03__motor_stepper_nema_17_flat |  
 | oomp_word | penguin hammer dolphin |  

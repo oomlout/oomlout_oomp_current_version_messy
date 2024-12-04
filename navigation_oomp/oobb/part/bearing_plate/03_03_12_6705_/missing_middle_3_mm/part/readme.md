@@ -337,6 +337,21 @@ local |
 | name_no_size | 03 03 12 6705  Missing Middle 3 mm |  
 | name_no_size_short | 03 03 12 6705  Missing Middle 3 Mm |  
 | name_no_type | Bearing Plate 03 03 12 6705  Missing Middle 3 mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bearing_plate |  
+| oomlout_detail_hierarchy_3_upper | BEARING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_4 | 03_03_12_6705_ |  
+| oomlout_detail_hierarchy_4_upper | 03_03_12_6705_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | missing_middle_3_mm |  
+| oomlout_detail_hierarchy_5_upper | MISSING_MIDDLE_3_MM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MISS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_plate_03_03_12_6705__missing_middle_3_mm |  
 | oomp_word | violin computer ring |  

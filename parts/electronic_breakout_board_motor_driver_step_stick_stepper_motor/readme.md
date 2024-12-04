@@ -317,6 +317,18 @@ cloth |
 | name_no_size_short | Stepper Motor |  
 | name_no_type | Step Stick Stepper Motor |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | breakout_board_motor_driver |  
+| oomlout_detail_hierarchy_2_upper | BREAKOUT_BOARD_MOTOR_DRIVER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_3 | step_stick |  
+| oomlout_detail_hierarchy_3_upper | STEP_STICK |  
+| oomlout_detail_hierarchy_3_upper_length_4 | STEP |  
+| oomlout_detail_hierarchy_4 | stepper_motor |  
+| oomlout_detail_hierarchy_4_upper | STEPPER_MOTOR |  
+| oomlout_detail_hierarchy_4_upper_length_4 | STEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_motor_driver_step_stick_stepper_motor |  
 | oomp_word | rowboat penguin squirrel |  

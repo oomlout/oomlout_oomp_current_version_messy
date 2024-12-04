@@ -393,6 +393,24 @@ name_no_color: Double Through Hole Right Angle
 name_no_size: Basic Double Through Hole Right Angle
 name_no_size_short: Basic Double Through Hole Right Angle
 name_no_type: Oobb Basic Double Through Hole Right Angle
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: header
+oomlout_detail_hierarchy_2_upper: HEADER
+oomlout_detail_hierarchy_2_upper_length_4: HEAD
+oomlout_detail_hierarchy_3: oobb
+oomlout_detail_hierarchy_3_upper: OOBB
+oomlout_detail_hierarchy_3_upper_length_4: OOBB
+oomlout_detail_hierarchy_4: basic
+oomlout_detail_hierarchy_4_upper: BASIC
+oomlout_detail_hierarchy_4_upper_length_4: BASI
+oomlout_detail_hierarchy_5: double
+oomlout_detail_hierarchy_5_upper: DOUBLE
+oomlout_detail_hierarchy_5_upper_length_4: DOUB
+oomlout_detail_hierarchy_6: through_hole_right_angle
+oomlout_detail_hierarchy_6_upper: THROUGH_HOLE_RIGHT_ANGLE
+oomlout_detail_hierarchy_6_upper_length_4: THRO
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_oobb_basic_double_through_hole_right_angle
 oomp_word: recycle droplet ghost

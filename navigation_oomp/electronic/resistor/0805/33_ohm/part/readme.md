@@ -317,6 +317,18 @@ disorder |
 | name_no_size | 33 Ohm |  
 | name_no_size_short | 33 Ohm |  
 | name_no_type | 0805 33 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | 33_ohm |  
+| oomlout_detail_hierarchy_4_upper | 33_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 33_O |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_33_ohm |  
 | oomp_word | nose shell bug |  

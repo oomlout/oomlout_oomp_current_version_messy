@@ -340,6 +340,21 @@ relax |
 | name_no_size | 4 mm Length Pozidrive Head |  
 | name_no_size_short | 4 Mm Length Pozidrive Head |  
 | name_no_type | M2 4 mm Length Pozidrive Head |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | smachine_screw |  
+| oomlout_detail_hierarchy_2_upper | SMACHINE_SCREW |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SMAC |  
+| oomlout_detail_hierarchy_3 | m2 |  
+| oomlout_detail_hierarchy_3_upper | M2 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M2 |  
+| oomlout_detail_hierarchy_4 | 4_mm_length |  
+| oomlout_detail_hierarchy_4_upper | 4_MM_LENGTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 4LEN |  
+| oomlout_detail_hierarchy_5 | pozidrive_head |  
+| oomlout_detail_hierarchy_5_upper | POZIDRIVE_HEAD |  
+| oomlout_detail_hierarchy_5_upper_length_4 | POZI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ms2m4pz |  
 | oomlout_short_code_upper | MS2M4PZ |  

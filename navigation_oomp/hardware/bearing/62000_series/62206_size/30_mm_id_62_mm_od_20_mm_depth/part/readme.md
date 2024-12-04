@@ -339,6 +339,21 @@ legend |
 | name_no_size | 62206 Size 30 mm ID 62 mm OD 20 mm Depth |  
 | name_no_size_short | 62206 Size 30 Mm Id 62 Mm Od 20 Mm Depth |  
 | name_no_type | 62000 Series 62206 Size 30 mm ID 62 mm OD 20 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 62000_series |  
+| oomlout_detail_hierarchy_3_upper | 62000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 62206_size |  
+| oomlout_detail_hierarchy_4_upper | 62206_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6220 |  
+| oomlout_detail_hierarchy_5 | 20_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 20_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 20DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br62206 |  
 | oomlout_short_code_upper | BR62206 |  

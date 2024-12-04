@@ -361,6 +361,30 @@ mom |
 | name_no_size | Cardboard122mmwidth110mmheight175mmdepthoomloutbox1 |  
 | name_no_size_short | Cardboard122Mmwidth110Mmheight175Mmdepthoomloutbox1 |  
 | name_no_type | Cardboard 122 mm Width 110 mm Height 175 mm Depth Oomlout Box 1 |  
+| oomlout_detail_hierarchy_1 | storage |  
+| oomlout_detail_hierarchy_1_upper | STORAGE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | STOR |  
+| oomlout_detail_hierarchy_2 | box_warehouse |  
+| oomlout_detail_hierarchy_2_upper | BOX_WAREHOUSE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BOX_ |  
+| oomlout_detail_hierarchy_3 | cardboard |  
+| oomlout_detail_hierarchy_3_upper | CARDBOARD |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CARD |  
+| oomlout_detail_hierarchy_4 | 122_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 122_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 122W |  
+| oomlout_detail_hierarchy_5 | 110_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 110_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 110H |  
+| oomlout_detail_hierarchy_6 | 175_mm_depth |  
+| oomlout_detail_hierarchy_6_upper | 175_MM_DEPTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 175D |  
+| oomlout_detail_hierarchy_7 | oomlout |  
+| oomlout_detail_hierarchy_7_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_7_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_8 | box_1 |  
+| oomlout_detail_hierarchy_8_upper | BOX_1 |  
+| oomlout_detail_hierarchy_8_upper_length_4 | BOX_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_box_warehouse_cardboard_122_mm_width_110_mm_height_175_mm_depth_oomlout_box_1 |  
 | oomp_word | rose crocodile pill |  

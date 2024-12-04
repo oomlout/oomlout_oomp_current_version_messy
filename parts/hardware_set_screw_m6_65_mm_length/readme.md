@@ -363,6 +363,18 @@ stock |
 | oomlout_bolt_size | M6 |  
 | oomlout_bolt_type | Set Screw |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | set_screw |  
+| oomlout_detail_hierarchy_2_upper | SET_SCREW |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SET_ |  
+| oomlout_detail_hierarchy_3 | m6 |  
+| oomlout_detail_hierarchy_3_upper | M6 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M6 |  
+| oomlout_detail_hierarchy_4 | 65_mm_length |  
+| oomlout_detail_hierarchy_4_upper | 65_MM_LENGTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 65LE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ss6m65 |  
 | oomlout_short_code_upper | SS6M65 |  

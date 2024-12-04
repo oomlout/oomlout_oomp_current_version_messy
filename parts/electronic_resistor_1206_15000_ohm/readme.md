@@ -317,6 +317,18 @@ render |
 | name_no_size | 15000 Ohm |  
 | name_no_size_short | 15k Ohm |  
 | name_no_type | 1206 15000 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 1206 |  
+| oomlout_detail_hierarchy_3_upper | 1206 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1206 |  
+| oomlout_detail_hierarchy_4 | 15000_ohm |  
+| oomlout_detail_hierarchy_4_upper | 15000_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1500 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_1206_15000_ohm |  
 | oomp_word | tennis door new_moon |  

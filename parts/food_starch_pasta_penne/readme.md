@@ -317,6 +317,18 @@ sign |
 | name_no_size_short | Penne |  
 | name_no_type | Pasta Penne |  
 | name_short | Pasta Penne |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | starch |  
+| oomlout_detail_hierarchy_2_upper | STARCH |  
+| oomlout_detail_hierarchy_2_upper_length_4 | STAR |  
+| oomlout_detail_hierarchy_3 | pasta |  
+| oomlout_detail_hierarchy_3_upper | PASTA |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PAST |  
+| oomlout_detail_hierarchy_4 | penne |  
+| oomlout_detail_hierarchy_4_upper | PENNE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PENN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_pasta_penne |  
 | oomp_word | hammer spaghetti santa |  

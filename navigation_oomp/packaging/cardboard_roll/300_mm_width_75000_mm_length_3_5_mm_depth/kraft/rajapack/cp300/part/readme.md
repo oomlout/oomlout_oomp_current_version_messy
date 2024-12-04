@@ -339,6 +339,30 @@ nominee |
 | name_no_size | Kraft Rajapack Cp300 |  
 | name_no_size_short | Kraft Rajapack Cp300 |  
 | name_no_type | 300 mm Width 75000 mm Length 3 5 mm Depth Kraft Rajapack Cp300 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | cardboard_roll |  
+| oomlout_detail_hierarchy_2_upper | CARDBOARD_ROLL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CARD |  
+| oomlout_detail_hierarchy_3 | 300_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 300_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 300W |  
+| oomlout_detail_hierarchy_4 | 75000_mm_length |  
+| oomlout_detail_hierarchy_4_upper | 75000_MM_LENGTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 7500 |  
+| oomlout_detail_hierarchy_5 | 5_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 5_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 5DEP |  
+| oomlout_detail_hierarchy_6 | kraft |  
+| oomlout_detail_hierarchy_6_upper | KRAFT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | KRAF |  
+| oomlout_detail_hierarchy_7 | rajapack |  
+| oomlout_detail_hierarchy_7_upper | RAJAPACK |  
+| oomlout_detail_hierarchy_7_upper_length_4 | RAJA |  
+| oomlout_detail_hierarchy_8 | cp300 |  
+| oomlout_detail_hierarchy_8_upper | CP300 |  
+| oomlout_detail_hierarchy_8_upper_length_4 | CP30 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300 |  
 | oomp_word | birthday train doughnut |  

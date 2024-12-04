@@ -364,6 +364,21 @@ depart |
 | name_no_size_short | Refriedtin435Gramelpaso |  
 | name_no_type | Refried Tin 435 Gram Elpaso |  
 | name_short | Refried Beans |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | bean |  
+| oomlout_detail_hierarchy_2_upper | BEAN |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAN |  
+| oomlout_detail_hierarchy_3 | refried_bean |  
+| oomlout_detail_hierarchy_3_upper | REFRIED_BEAN |  
+| oomlout_detail_hierarchy_3_upper_length_4 | REFR |  
+| oomlout_detail_hierarchy_4 | tin_435_gram |  
+| oomlout_detail_hierarchy_4_upper | TIN_435_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_5 | elpaso |  
+| oomlout_detail_hierarchy_5_upper | ELPASO |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ELPA |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_bean_refried_bean_tin_435_gram_elpaso |  
 | oomp_word | leaves corn tomato |  

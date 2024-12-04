@@ -314,6 +314,18 @@ shoe |
 | name_no_size | Surface Mount Only |  
 | name_no_size_short | Surface Mount Only |  
 | name_no_type | USB Mini Surface Mount Only |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | socket |  
+| oomlout_detail_hierarchy_2_upper | SOCKET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SOCK |  
+| oomlout_detail_hierarchy_3 | usb_mini |  
+| oomlout_detail_hierarchy_3_upper | USB_MINI |  
+| oomlout_detail_hierarchy_3_upper_length_4 | USB_ |  
+| oomlout_detail_hierarchy_4 | surface_mount_only |  
+| oomlout_detail_hierarchy_4_upper | SURFACE_MOUNT_ONLY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_socket_usb_mini_surface_mount_only |  
 | oomp_word | mouse candy bread |  

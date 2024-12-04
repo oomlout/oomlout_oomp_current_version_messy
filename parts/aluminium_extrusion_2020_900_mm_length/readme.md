@@ -316,6 +316,15 @@ favorite |
 | name_no_size | 900mmlength |  
 | name_no_size_short | 900Mmlength |  
 | name_no_type | 900 mm Length |  
+| oomlout_detail_hierarchy_1 | aluminium_extrusion |  
+| oomlout_detail_hierarchy_1_upper | ALUMINIUM_EXTRUSION |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ALUM |  
+| oomlout_detail_hierarchy_2 | 2020 |  
+| oomlout_detail_hierarchy_2_upper | 2020 |  
+| oomlout_detail_hierarchy_2_upper_length_4 | 2020 |  
+| oomlout_detail_hierarchy_3 | 900_mm_length |  
+| oomlout_detail_hierarchy_3_upper | 900_MM_LENGTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 900L |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_aluminium_extrusion_2020_900_mm_length |  
 | oomp_word | poop curry crocodile |  

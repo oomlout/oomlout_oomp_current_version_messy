@@ -337,6 +337,24 @@ grow |
 | name_no_size | 01 06  30 Teeth Shield Sh Motor Servo Standard 01 |  
 | name_no_size_short | 01 06  30 Teeth Shield Sh Motor Servo Standard 01 |  
 | name_no_type | Pulley Gt2 01 06  30 Teeth Shield Sh Motor Servo Standard 01 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | pulley_gt2 |  
+| oomlout_detail_hierarchy_3_upper | PULLEY_GT2 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PULL |  
+| oomlout_detail_hierarchy_4 | 01_06_ |  
+| oomlout_detail_hierarchy_4_upper | 01_06_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 01_0 |  
+| oomlout_detail_hierarchy_5 | 30_teeth_shield_sh |  
+| oomlout_detail_hierarchy_5_upper | 30_TEETH_SHIELD_SH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 30_T |  
+| oomlout_detail_hierarchy_6 | motor_servo_standard_01 |  
+| oomlout_detail_hierarchy_6_upper | MOTOR_SERVO_STANDARD_01 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MOTO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_01_06__30_teeth_shield_sh_motor_servo_standard_01 |  
 | oomp_word | helicopter envelope banana |  

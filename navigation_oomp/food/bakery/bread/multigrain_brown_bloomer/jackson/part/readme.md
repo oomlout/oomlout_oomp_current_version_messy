@@ -365,6 +365,21 @@ range |
 | name_no_size | Breadmultigrainbrownbloomerjackson |  
 | name_no_size_short | Breadmultigrainbrownbloomerjackson |  
 | name_no_type | Bread Multigrain Brown Bloomer Jackson |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | bakery |  
+| oomlout_detail_hierarchy_2_upper | BAKERY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKE |  
+| oomlout_detail_hierarchy_3 | bread |  
+| oomlout_detail_hierarchy_3_upper | BREAD |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_4 | multigrain_brown_bloomer |  
+| oomlout_detail_hierarchy_4_upper | MULTIGRAIN_BROWN_BLOOMER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MULT |  
+| oomlout_detail_hierarchy_5 | jackson |  
+| oomlout_detail_hierarchy_5_upper | JACKSON |  
+| oomlout_detail_hierarchy_5_upper_length_4 | JACK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_bakery_bread_multigrain_brown_bloomer_jackson |  
 | oomp_word | leaves diamonds door |  

@@ -337,6 +337,33 @@ dove |
 | name_no_size | 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance Hole 10 mm 10 mm 0 mm 6 mm |  
 | name_no_size_short | 03 03 03 Rh M3 Nm Aliexpress Usb Micro Breakout 01  Clearance Hole 10 Mm 10 Mm 0 Mm 6 Mm |  
 | name_no_type | Mounting Plate 03 03 03 Rh M3 Nm Aliexpress USB Micro Breakout 01  Clearance Hole 10 mm 10 mm 0 mm 6 mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 03_03_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 03_03_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | m3_nm_aliexpress_usb |  
+| oomlout_detail_hierarchy_5_upper | M3_NM_ALIEXPRESS_USB |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M3_N |  
+| oomlout_detail_hierarchy_6 | micro_breakout_01_ |  
+| oomlout_detail_hierarchy_6_upper | MICRO_BREAKOUT_01_ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_7 | clearance_hole_10_mm |  
+| oomlout_detail_hierarchy_7_upper | CLEARANCE_HOLE_10_MM |  
+| oomlout_detail_hierarchy_7_upper_length_4 | CLEA |  
+| oomlout_detail_hierarchy_8 | 10_mm_0_mm |  
+| oomlout_detail_hierarchy_8_upper | 10_MM_0_MM |  
+| oomlout_detail_hierarchy_8_upper_length_4 | 100_ |  
+| oomlout_detail_hierarchy_9 | 6_mm |  
+| oomlout_detail_hierarchy_9_upper | 6_MM |  
+| oomlout_detail_hierarchy_9_upper_length_4 | 6_MM |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_03_03_03_rh_m3_nm_aliexpress_usb_micro_breakout_01__clearance_hole_10_mm_10_mm_0_mm_6_mm |  
 | oomp_word | guitar headphones nine |  

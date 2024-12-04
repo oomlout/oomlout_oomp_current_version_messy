@@ -313,6 +313,18 @@ junior |
 | name_no_size | 03 11 27 |  
 | name_no_size_short | 03 11 27 |  
 | name_no_type | Tray 03 11 27 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray |  
+| oomlout_detail_hierarchy_3_upper | TRAY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 03_11_27 |  
+| oomlout_detail_hierarchy_4_upper | 03_11_27 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_03_11_27 |  
 | oomp_word | ramen lipstick rat |  

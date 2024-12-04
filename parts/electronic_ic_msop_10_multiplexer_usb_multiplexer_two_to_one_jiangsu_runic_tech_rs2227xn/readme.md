@@ -388,6 +388,30 @@ steel |
 | name_no_size_short | Multiplexer Usb Multiplexer Two To One Jiangsu Runtech Rs2227Xn |  
 | name_no_type | Msop 10 Multiplexer USB Multiplexer Two To One Jiangsu Runtech Rs2227Xn |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ic |  
+| oomlout_detail_hierarchy_2_upper | IC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IC |  
+| oomlout_detail_hierarchy_3 | msop_10 |  
+| oomlout_detail_hierarchy_3_upper | MSOP_10 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MSOP |  
+| oomlout_detail_hierarchy_4 | multiplexer |  
+| oomlout_detail_hierarchy_4_upper | MULTIPLEXER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MULT |  
+| oomlout_detail_hierarchy_5 | usb_multiplexer |  
+| oomlout_detail_hierarchy_5_upper | USB_MULTIPLEXER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | USB_ |  
+| oomlout_detail_hierarchy_6 | two_to_one |  
+| oomlout_detail_hierarchy_6_upper | TWO_TO_ONE |  
+| oomlout_detail_hierarchy_6_upper_length_4 | TWO_ |  
+| oomlout_detail_hierarchy_7 | jiangsu_runic_tech |  
+| oomlout_detail_hierarchy_7_upper | JIANGSU_RUNIC_TECH |  
+| oomlout_detail_hierarchy_7_upper_length_4 | JIAN |  
+| oomlout_detail_hierarchy_8 | rs2227xn |  
+| oomlout_detail_hierarchy_8_upper | RS2227XN |  
+| oomlout_detail_hierarchy_8_upper_length_4 | RS22 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn |  
 | oomp_word | koala star blush |  

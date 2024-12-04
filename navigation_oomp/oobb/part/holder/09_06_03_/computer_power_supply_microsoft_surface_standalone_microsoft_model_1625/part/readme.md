@@ -337,6 +337,24 @@ dumb |
 | name_no_size | 09 06 03  Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625 |  
 | name_no_size_short | 09 06 03  Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625 |  
 | name_no_type | Holder 09 06 03  Computer Power Supply Microsoft Surface Standalone Microsoft Model 1625 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 09_06_03_ |  
+| oomlout_detail_hierarchy_4_upper | 09_06_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 09_0 |  
+| oomlout_detail_hierarchy_5 | computer_power_supply_microsoft |  
+| oomlout_detail_hierarchy_5_upper | COMPUTER_POWER_SUPPLY_MICROSOFT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_6 | surface_standalone_microsoft_model_1625 |  
+| oomlout_detail_hierarchy_6_upper | SURFACE_STANDALONE_MICROSOFT_MODEL_1625 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_09_06_03__computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
 | oomp_word | hourglass foggy ant |  

@@ -341,6 +341,18 @@ believe |
 | name_no_size | Lettuceiceberg |  
 | name_no_size_short | Lettuceiceberg |  
 | name_no_type | Lettuce ICeberg |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | vegetable |  
+| oomlout_detail_hierarchy_2_upper | VEGETABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VEGE |  
+| oomlout_detail_hierarchy_3 | lettuce |  
+| oomlout_detail_hierarchy_3_upper | LETTUCE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | LETT |  
+| oomlout_detail_hierarchy_4 | iceberg |  
+| oomlout_detail_hierarchy_4_upper | ICEBERG |  
+| oomlout_detail_hierarchy_4_upper_length_4 | ICEB |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_lettuce_iceberg |  
 | oomp_word | factory ambulance bike |  

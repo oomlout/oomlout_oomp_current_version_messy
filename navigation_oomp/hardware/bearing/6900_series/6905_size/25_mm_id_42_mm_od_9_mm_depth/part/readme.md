@@ -339,6 +339,21 @@ program |
 | name_no_size | 6905 Size 25 mm ID 42 mm OD 9 mm Depth |  
 | name_no_size_short | 6905 Size 25 Mm Id 42 Mm Od 9 Mm Depth |  
 | name_no_type | 6900 Series 6905 Size 25 mm ID 42 mm OD 9 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6900_series |  
+| oomlout_detail_hierarchy_3_upper | 6900_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6900 |  
+| oomlout_detail_hierarchy_4 | 6905_size |  
+| oomlout_detail_hierarchy_4_upper | 6905_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6905 |  
+| oomlout_detail_hierarchy_5 | 9_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 9_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 9DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6905 |  
 | oomlout_short_code_upper | BR6905 |  

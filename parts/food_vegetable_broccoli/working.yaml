@@ -339,6 +339,15 @@ name_no_color: Broccoli
 name_no_size: Broccoli
 name_no_size_short: Broccoli
 name_no_type: Broccoli
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: vegetable
+oomlout_detail_hierarchy_2_upper: VEGETABLE
+oomlout_detail_hierarchy_2_upper_length_4: VEGE
+oomlout_detail_hierarchy_3: broccoli
+oomlout_detail_hierarchy_3_upper: BROCCOLI
+oomlout_detail_hierarchy_3_upper_length_4: BROC
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_vegetable_broccoli
 oomp_word: birthday bank star

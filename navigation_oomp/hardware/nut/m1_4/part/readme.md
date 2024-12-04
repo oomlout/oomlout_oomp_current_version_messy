@@ -292,6 +292,15 @@ matrix |
 | name_no_size | M1 4 |  
 | name_no_size_short | M1 4 |  
 | name_no_type | M1 4 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m1_4 |  
+| oomlout_detail_hierarchy_3_upper | M1_4 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M1_4 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n1d4m |  
 | oomlout_short_code_upper | N1D4M |  

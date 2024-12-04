@@ -339,6 +339,21 @@ merry |
 | name_no_size | 6026 Size 130 mm ID 200 mm OD 33 mm Depth |  
 | name_no_size_short | 6026 Size 130 Mm Id 200 Mm Od 33 Mm Depth |  
 | name_no_type | 6000 Series 6026 Size 130 mm ID 200 mm OD 33 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6000_series |  
+| oomlout_detail_hierarchy_3_upper | 6000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6000 |  
+| oomlout_detail_hierarchy_4 | 6026_size |  
+| oomlout_detail_hierarchy_4_upper | 6026_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6026 |  
+| oomlout_detail_hierarchy_5 | 33_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 33_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 33DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6026 |  
 | oomlout_short_code_upper | BR6026 |  

@@ -337,6 +337,27 @@ public |
 | name_no_size | Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 mm Jst Sm Latching 2 Pin Socket |  
 | name_no_size_short | Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket |  
 | name_no_type | 18650 Size 18 mm Diameter 65 mm Depth Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 mm Jst Sm Latching 2 Pin Socket |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | battery |  
+| oomlout_detail_hierarchy_2_upper | BATTERY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BATT |  
+| oomlout_detail_hierarchy_3 | 65_mm_depth |  
+| oomlout_detail_hierarchy_3_upper | 65_MM_DEPTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 65DE |  
+| oomlout_detail_hierarchy_4 | lithium_3_7_volt_rechargable |  
+| oomlout_detail_hierarchy_4_upper | LITHIUM_3_7_VOLT_RECHARGABLE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | LITH |  
+| oomlout_detail_hierarchy_5 | pigtail_crimp_housing_2 |  
+| oomlout_detail_hierarchy_5_upper | PIGTAIL_CRIMP_HOUSING_2 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PIGT |  
+| oomlout_detail_hierarchy_6 | 5_mm_jst_sm |  
+| oomlout_detail_hierarchy_6_upper | 5_MM_JST_SM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 5JST |  
+| oomlout_detail_hierarchy_7 | latching_2_pin_socket |  
+| oomlout_detail_hierarchy_7_upper | LATCHING_2_PIN_SOCKET |  
+| oomlout_detail_hierarchy_7_upper_length_4 | LATC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket |  
 | oomp_word | baby hatched_chick dolls |  

@@ -340,6 +340,18 @@ limit |
 | name_no_size_short | Chickpeatin400Gram |  
 | name_no_type | Chickpea Tin 400 Gram |  
 | name_short | Chickenpeas |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | bean |  
+| oomlout_detail_hierarchy_2_upper | BEAN |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAN |  
+| oomlout_detail_hierarchy_3 | chickpea |  
+| oomlout_detail_hierarchy_3_upper | CHICKPEA |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CHIC |  
+| oomlout_detail_hierarchy_4 | tin_400_gram |  
+| oomlout_detail_hierarchy_4_upper | TIN_400_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_bean_chickpea_tin_400_gram |  
 | oomp_word | eyes blowfish book |  

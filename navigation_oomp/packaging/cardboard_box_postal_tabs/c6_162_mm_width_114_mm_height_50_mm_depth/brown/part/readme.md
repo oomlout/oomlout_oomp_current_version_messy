@@ -319,6 +319,24 @@ fine |
 | name_no_size | Brown |  
 | name_no_size_short | Brown |  
 | name_no_type | C6 162 mm Width 114 mm Height 50 mm Depth Brown |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | cardboard_box_postal_tabs |  
+| oomlout_detail_hierarchy_2_upper | CARDBOARD_BOX_POSTAL_TABS |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CARD |  
+| oomlout_detail_hierarchy_3 | 162_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 162_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 162W |  
+| oomlout_detail_hierarchy_4 | 114_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 114_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 114H |  
+| oomlout_detail_hierarchy_5 | 50_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 50_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 50DE |  
+| oomlout_detail_hierarchy_6 | brown |  
+| oomlout_detail_hierarchy_6_upper | BROWN |  
+| oomlout_detail_hierarchy_6_upper_length_4 | BROW |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown |  
 | oomp_word | three honeybee skull |  

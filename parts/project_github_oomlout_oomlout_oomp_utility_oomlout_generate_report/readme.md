@@ -317,6 +317,21 @@ air |
 | name_no_size | Oomp Utility Generate Report |  
 | name_no_size_short | Oomp Utility Generate Report |  
 | name_no_type | Oomlout Oomlout Oomp Utility Oomlout Generate Report |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_utility_oomlout |  
+| oomlout_detail_hierarchy_4_upper | OOMP_UTILITY_OOMLOUT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
+| oomlout_detail_hierarchy_5 | generate_report |  
+| oomlout_detail_hierarchy_5_upper | GENERATE_REPORT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | GENE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_utility_oomlout_generate_report |  
 | oomp_word | chicken pear bulb |  

@@ -317,6 +317,18 @@ improve |
 | name_no_size | Svgg |  
 | name_no_size_short | Svgg |  
 | name_no_type | Oomlout Oomlout Svgg |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | svgg |  
+| oomlout_detail_hierarchy_4_upper | SVGG |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SVGG |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_svgg |  
 | oomp_word | tophat pray trident |  

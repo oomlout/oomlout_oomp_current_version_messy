@@ -339,6 +339,18 @@ name_no_color: Banana
 name_no_size: Banana
 name_no_size_short: Banana
 name_no_type: Bunch Banana
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: fruit
+oomlout_detail_hierarchy_2_upper: FRUIT
+oomlout_detail_hierarchy_2_upper_length_4: FRUI
+oomlout_detail_hierarchy_3: bunch
+oomlout_detail_hierarchy_3_upper: BUNCH
+oomlout_detail_hierarchy_3_upper_length_4: BUNC
+oomlout_detail_hierarchy_4: banana
+oomlout_detail_hierarchy_4_upper: BANANA
+oomlout_detail_hierarchy_4_upper_length_4: BANA
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_fruit_bunch_banana
 oomp_word: kissing bowtie frog

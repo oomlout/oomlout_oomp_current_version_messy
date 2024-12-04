@@ -338,6 +338,27 @@ diagram |
 | name_no_size | Surface Mount Single Pole Double Throw |  
 | name_no_size_short | Surface Mount Single Pole Double Throw |  
 | name_no_type | 2 8 mm X 8 mm X 1 4 mm Surface Mount Single Pole Double Throw |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | switch_slide |  
+| oomlout_detail_hierarchy_2_upper | SWITCH_SLIDE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SWIT |  
+| oomlout_detail_hierarchy_3 | 2_8_mm_x |  
+| oomlout_detail_hierarchy_3_upper | 2_8_MM_X |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_8X |  
+| oomlout_detail_hierarchy_4 | 8_mm_x_1 |  
+| oomlout_detail_hierarchy_4_upper | 8_MM_X_1 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 8X_1 |  
+| oomlout_detail_hierarchy_5 | 4_mm |  
+| oomlout_detail_hierarchy_5_upper | 4_MM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 4_MM |  
+| oomlout_detail_hierarchy_6 | surface_mount |  
+| oomlout_detail_hierarchy_6_upper | SURFACE_MOUNT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SURF |  
+| oomlout_detail_hierarchy_7 | single_pole_double_throw |  
+| oomlout_detail_hierarchy_7_upper | SINGLE_POLE_DOUBLE_THROW |  
+| oomlout_detail_hierarchy_7_upper_length_4 | SING |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_switch_slide_2_8_mm_x_8_mm_x_1_4_mm_surface_mount_single_pole_double_throw |  
 | oomp_word | turtle hand eyeglasses |  

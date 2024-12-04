@@ -313,6 +313,18 @@ faculty |
 | name_no_size | 1D5 07 60 |  
 | name_no_size_short | 1D5 07 60 |  
 | name_no_type | Tray 1D5 07 60 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray |  
+| oomlout_detail_hierarchy_3_upper | TRAY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 1d5_07_60 |  
+| oomlout_detail_hierarchy_4_upper | 1D5_07_60 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1D5_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_1d5_07_60 |  
 | oomp_word | blowfish egg rowboat |  

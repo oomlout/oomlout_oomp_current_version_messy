@@ -310,6 +310,15 @@ name_no_color: 25mmx25mm
 name_no_size: 25 mm X 25 mm
 name_no_size_short: 25 Mm X 25 Mm
 name_no_type: 25 mm X 25 mm
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: label
+oomlout_detail_hierarchy_2_upper: LABEL
+oomlout_detail_hierarchy_2_upper_length_4: LABE
+oomlout_detail_hierarchy_3: 25_mm_x_25_mm
+oomlout_detail_hierarchy_3_upper: 25_MM_X_25_MM
+oomlout_detail_hierarchy_3_upper_length_4: 25X_
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_label_25_mm_x_25_mm
 oomp_word: kissing bus bear

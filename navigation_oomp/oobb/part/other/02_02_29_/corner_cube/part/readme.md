@@ -337,6 +337,21 @@ quick |
 | name_no_size | 02 02 29  Corner Cube |  
 | name_no_size_short | 02 02 29  Corner Cube |  
 | name_no_type | Other 02 02 29  Corner Cube |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | other |  
+| oomlout_detail_hierarchy_3_upper | OTHER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OTHE |  
+| oomlout_detail_hierarchy_4 | 02_02_29_ |  
+| oomlout_detail_hierarchy_4_upper | 02_02_29_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_0 |  
+| oomlout_detail_hierarchy_5 | corner_cube |  
+| oomlout_detail_hierarchy_5_upper | CORNER_CUBE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | CORN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_02_02_29__corner_cube |  
 | oomp_word | hammer penguin egg |  

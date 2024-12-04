@@ -337,6 +337,21 @@ syrup |
 | name_no_size | 05 05 12 6810  Three Quarter |  
 | name_no_size_short | 05 05 12 6810  Three Quarter |  
 | name_no_type | Bearing Plate 05 05 12 6810  Three Quarter |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bearing_plate |  
+| oomlout_detail_hierarchy_3_upper | BEARING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_4 | 05_05_12_6810_ |  
+| oomlout_detail_hierarchy_4_upper | 05_05_12_6810_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | three_quarter |  
+| oomlout_detail_hierarchy_5_upper | THREE_QUARTER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_plate_05_05_12_6810__three_quarter |  
 | oomp_word | egg basketball rice |  

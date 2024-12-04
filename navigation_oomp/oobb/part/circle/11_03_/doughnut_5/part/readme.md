@@ -337,6 +337,21 @@ shock |
 | name_no_size | 11 03  Doughnut 5 |  
 | name_no_size_short | 11 03  Doughnut 5 |  
 | name_no_type | Circle 11 03  Doughnut 5 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | circle |  
+| oomlout_detail_hierarchy_3_upper | CIRCLE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CIRC |  
+| oomlout_detail_hierarchy_4 | 11_03_ |  
+| oomlout_detail_hierarchy_4_upper | 11_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 11_0 |  
+| oomlout_detail_hierarchy_5 | doughnut_5 |  
+| oomlout_detail_hierarchy_5_upper | DOUGHNUT_5 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | DOUG |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_circle_11_03__doughnut_5 |  
 | oomp_word | maple_leaf two clap |  

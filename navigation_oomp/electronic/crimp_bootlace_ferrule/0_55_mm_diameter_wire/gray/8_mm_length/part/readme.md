@@ -338,6 +338,21 @@ fashion |
 | name_no_size | Gray 8 mm Length |  
 | name_no_size_short | Gray 8 Mm Length |  
 | name_no_type | 0 55 mm Diameter Wire Gray 8 mm Length |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | crimp_bootlace_ferrule |  
+| oomlout_detail_hierarchy_2_upper | CRIMP_BOOTLACE_FERRULE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CRIM |  
+| oomlout_detail_hierarchy_3 | 0_55_mm_diameter_wire |  
+| oomlout_detail_hierarchy_3_upper | 0_55_MM_DIAMETER_WIRE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0_55 |  
+| oomlout_detail_hierarchy_4 | gray |  
+| oomlout_detail_hierarchy_4_upper | GRAY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | GRAY |  
+| oomlout_detail_hierarchy_5 | 8_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 8_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8LEN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_gray_8_mm_length |  
 | oomp_word | gift thumbsup sushi |  

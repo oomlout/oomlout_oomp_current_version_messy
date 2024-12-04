@@ -381,6 +381,24 @@ service |
 | oomlout_bolt_size | M1 |  
 | oomlout_bolt_type | Self Tapping |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | sself_tapping |  
+| oomlout_detail_hierarchy_2_upper | SSELF_TAPPING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SSEL |  
+| oomlout_detail_hierarchy_3 | m1 |  
+| oomlout_detail_hierarchy_3_upper | M1 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M1 |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 5_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 5_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 5LEN |  
+| oomlout_detail_hierarchy_6 | phillips_head |  
+| oomlout_detail_hierarchy_6_upper | PHILLIPS_HEAD |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PHIL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | st1b5p |  
 | oomlout_short_code_upper | ST1B5P |  

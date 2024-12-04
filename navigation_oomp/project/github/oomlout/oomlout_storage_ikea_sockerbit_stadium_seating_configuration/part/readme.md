@@ -317,6 +317,21 @@ casino |
 | name_no_size | Storage Ikea Sockerbit Stadium Seating Configuration |  
 | name_no_size_short | Storage Ikea Sockerbit Stadium Seating Configuration |  
 | name_no_type | Oomlout Oomlout Storage Ikea Sockerbit Stadium Seating Configuration |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | storage_ikea_sockerbit |  
+| oomlout_detail_hierarchy_4_upper | STORAGE_IKEA_SOCKERBIT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | STOR |  
+| oomlout_detail_hierarchy_5 | stadium_seating_configuration |  
+| oomlout_detail_hierarchy_5_upper | STADIUM_SEATING_CONFIGURATION |  
+| oomlout_detail_hierarchy_5_upper_length_4 | STAD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_storage_ikea_sockerbit_stadium_seating_configuration |  
 | oomp_word | sunflower panda_face tongue |  

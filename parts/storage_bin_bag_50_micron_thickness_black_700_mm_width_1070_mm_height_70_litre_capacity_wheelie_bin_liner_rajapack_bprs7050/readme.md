@@ -385,6 +385,33 @@ during |
 | name_no_size | Black 700 mm Width 1070 mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
 | name_no_size_short | Black 700 Mm Width 1070 Mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
 | name_no_type | 50 Micron Thickness Black 700 mm Width 1070 mm Height 70 Litre Capacity Wheelie Bin Liner Rajapack Bprs7050 |  
+| oomlout_detail_hierarchy_1 | storage |  
+| oomlout_detail_hierarchy_1_upper | STORAGE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | STOR |  
+| oomlout_detail_hierarchy_2 | bin_bag |  
+| oomlout_detail_hierarchy_2_upper | BIN_BAG |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BIN_ |  
+| oomlout_detail_hierarchy_3 | 50_micron_thickness |  
+| oomlout_detail_hierarchy_3_upper | 50_MICRON_THICKNESS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 50_M |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 700_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 700_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 700W |  
+| oomlout_detail_hierarchy_6 | 1070_mm_height |  
+| oomlout_detail_hierarchy_6_upper | 1070_MM_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 1070 |  
+| oomlout_detail_hierarchy_7 | wheelie_bin_liner |  
+| oomlout_detail_hierarchy_7_upper | WHEELIE_BIN_LINER |  
+| oomlout_detail_hierarchy_7_upper_length_4 | WHEE |  
+| oomlout_detail_hierarchy_8 | rajapack |  
+| oomlout_detail_hierarchy_8_upper | RAJAPACK |  
+| oomlout_detail_hierarchy_8_upper_length_4 | RAJA |  
+| oomlout_detail_hierarchy_9 | bprs7050 |  
+| oomlout_detail_hierarchy_9_upper | BPRS7050 |  
+| oomlout_detail_hierarchy_9_upper_length_4 | BPRS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050 |  
 | oomp_word | boat candy eyes |  

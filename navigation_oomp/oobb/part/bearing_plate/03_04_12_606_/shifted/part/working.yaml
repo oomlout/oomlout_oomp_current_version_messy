@@ -358,6 +358,21 @@ name_no_color: 030412606Shifted
 name_no_size: 03 04 12 606  Shifted
 name_no_size_short: 03 04 12 606  Shifted
 name_no_type: Bearing Plate 03 04 12 606  Shifted
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bearing_plate
+oomlout_detail_hierarchy_3_upper: BEARING_PLATE
+oomlout_detail_hierarchy_3_upper_length_4: BEAR
+oomlout_detail_hierarchy_4: '03_04_12_606_'
+oomlout_detail_hierarchy_4_upper: '03_04_12_606_'
+oomlout_detail_hierarchy_4_upper_length_4: '03_0'
+oomlout_detail_hierarchy_5: shifted
+oomlout_detail_hierarchy_5_upper: SHIFTED
+oomlout_detail_hierarchy_5_upper_length_4: SHIF
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_plate_03_04_12_606__shifted
 oomp_word: book umbrella baby

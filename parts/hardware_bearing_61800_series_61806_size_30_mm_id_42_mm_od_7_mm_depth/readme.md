@@ -339,6 +339,21 @@ man |
 | name_no_size | 61806 Size 30 mm ID 42 mm OD 7 mm Depth |  
 | name_no_size_short | 61806 Size 30 Mm Id 42 Mm Od 7 Mm Depth |  
 | name_no_type | 61800 Series 61806 Size 30 mm ID 42 mm OD 7 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 61800_series |  
+| oomlout_detail_hierarchy_3_upper | 61800_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_4 | 61806_size |  
+| oomlout_detail_hierarchy_4_upper | 61806_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6180 |  
+| oomlout_detail_hierarchy_5 | 7_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 7_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 7DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br61806 |  
 | oomlout_short_code_upper | BR61806 |  

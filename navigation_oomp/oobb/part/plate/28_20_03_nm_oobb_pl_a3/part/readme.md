@@ -313,6 +313,21 @@ spawn |
 | name_no_size | 28 20 03 Nm Pl A3 |  
 | name_no_size_short | 28 20 03 Nm Pl A3 |  
 | name_no_type | Plate 28 20 03 Nm Pl A3 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | plate |  
+| oomlout_detail_hierarchy_3_upper | PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PLAT |  
+| oomlout_detail_hierarchy_4 | 28_20_03_nm |  
+| oomlout_detail_hierarchy_4_upper | 28_20_03_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 28_2 |  
+| oomlout_detail_hierarchy_5 | oobb_pl_a3 |  
+| oomlout_detail_hierarchy_5_upper | OOBB_PL_A3 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | OOBB |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_28_20_03_nm_oobb_pl_a3 |  
 | oomp_word | bouquet tractor bread |  

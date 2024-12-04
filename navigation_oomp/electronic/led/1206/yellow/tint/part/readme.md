@@ -341,6 +341,21 @@ rotate |
 | name_no_size | Yellow Tint |  
 | name_no_size_short | Yellow Tint |  
 | name_no_type | 1206 Yellow Tint |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 1206 |  
+| oomlout_detail_hierarchy_3_upper | 1206 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1206 |  
+| oomlout_detail_hierarchy_4 | yellow |  
+| oomlout_detail_hierarchy_4_upper | YELLOW |  
+| oomlout_detail_hierarchy_4_upper_length_4 | YELL |  
+| oomlout_detail_hierarchy_5 | tint |  
+| oomlout_detail_hierarchy_5_upper | TINT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TINT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_1206_yellow_tint |  
 | oomp_word | bus star scissors |  

@@ -337,6 +337,27 @@ depend |
 | name_no_size | 100 mm Diameter White Plastic 105 mm Width 85 mm Height Bracket M8 Mounting Hole |  
 | name_no_size_short | 100 Mm Diameter White Plastic 105 Mm Width 85 Mm Height Bracket M8 Mounting Hole |  
 | name_no_type | Caster 100 mm Diameter White Plastic 105 mm Width 85 mm Height Bracket M8 Mounting Hole |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | wheel |  
+| oomlout_detail_hierarchy_2_upper | WHEEL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WHEE |  
+| oomlout_detail_hierarchy_3 | caster |  
+| oomlout_detail_hierarchy_3_upper | CASTER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CAST |  
+| oomlout_detail_hierarchy_4 | 100_mm_diameter_white |  
+| oomlout_detail_hierarchy_4_upper | 100_MM_DIAMETER_WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 100D |  
+| oomlout_detail_hierarchy_5 | plastic_wheel |  
+| oomlout_detail_hierarchy_5_upper | PLASTIC_WHEEL |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PLAS |  
+| oomlout_detail_hierarchy_6 | 105_mm_width |  
+| oomlout_detail_hierarchy_6_upper | 105_MM_WIDTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 105W |  
+| oomlout_detail_hierarchy_7 | 85_mm_height |  
+| oomlout_detail_hierarchy_7_upper | 85_MM_HEIGHT |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 85HE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_wheel_caster_100_mm_diameter_white_plastic_wheel_105_mm_width_85_mm_height_bracket_m8_mounting_hole |  
 | oomp_word | foggy dragon fireworks |  

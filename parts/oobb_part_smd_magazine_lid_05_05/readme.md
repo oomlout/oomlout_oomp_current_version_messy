@@ -313,6 +313,18 @@ develop |
 | name_no_size | 05 05 |  
 | name_no_size_short | 05 05 |  
 | name_no_type | SMD Magazine Lid 05 05 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine_lid |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE_LID |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 05_05 |  
+| oomlout_detail_hierarchy_4_upper | 05_05 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_lid_05_05 |  
 | oomp_word | mouse diamonds camel |  

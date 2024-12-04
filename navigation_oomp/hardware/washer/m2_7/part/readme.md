@@ -292,6 +292,15 @@ service |
 | name_no_size | M2 7 |  
 | name_no_size_short | M2 7 |  
 | name_no_type | M2 7 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | washer |  
+| oomlout_detail_hierarchy_2_upper | WASHER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WASH |  
+| oomlout_detail_hierarchy_3 | m2_7 |  
+| oomlout_detail_hierarchy_3_upper | M2_7 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M2_7 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_washer_m2_7 |  
 | oomp_word | diamonds baby ramen |  

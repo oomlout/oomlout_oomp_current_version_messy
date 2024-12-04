@@ -313,6 +313,21 @@ pluck |
 | name_no_size | Alkaline 1 5 Volt Non Rechargable |  
 | name_no_size_short | Alkaline 1 5 Volt Non Rechargable |  
 | name_no_type | Aa Size 14 mm Diameter 50 mm Depth Alkaline 1 5 Volt Non Rechargable |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | battery |  
+| oomlout_detail_hierarchy_2_upper | BATTERY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BATT |  
+| oomlout_detail_hierarchy_3 | 50_mm_depth |  
+| oomlout_detail_hierarchy_3_upper | 50_MM_DEPTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 50DE |  
+| oomlout_detail_hierarchy_4 | alkaline_1_5_volt |  
+| oomlout_detail_hierarchy_4_upper | ALKALINE_1_5_VOLT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | ALKA |  
+| oomlout_detail_hierarchy_5 | non_rechargable |  
+| oomlout_detail_hierarchy_5_upper | NON_RECHARGABLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | NON_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable |  
 | oomp_word | melon violin fries |  

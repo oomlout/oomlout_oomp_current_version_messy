@@ -337,6 +337,24 @@ name_no_color: Hpclaser1290
 name_no_size: Hpc Laser 1290
 name_no_size_short: Hpc Laser 1290
 name_no_type: 1200 mm Width 900 mm Height Hpc Laser 1290
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: laser_cutter
+oomlout_detail_hierarchy_2_upper: LASER_CUTTER
+oomlout_detail_hierarchy_2_upper_length_4: LASE
+oomlout_detail_hierarchy_3: 1200_mm_width
+oomlout_detail_hierarchy_3_upper: 1200_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: '1200'
+oomlout_detail_hierarchy_4: 900_mm_height
+oomlout_detail_hierarchy_4_upper: 900_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 900H
+oomlout_detail_hierarchy_5: hpc_laser
+oomlout_detail_hierarchy_5_upper: HPC_LASER
+oomlout_detail_hierarchy_5_upper_length_4: HPC_
+oomlout_detail_hierarchy_6: '1290'
+oomlout_detail_hierarchy_6_upper: '1290'
+oomlout_detail_hierarchy_6_upper_length_4: '1290'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
 oomp_word: feet pushpin guitar

@@ -395,6 +395,27 @@ name_no_color: Light Everlight Elec Als Pt19
 name_no_size: Sensor Light Everlight Elec Als Pt19
 name_no_size_short: Sensor Light Everlight Elec Als Pt19
 name_no_type: 0603 Sensor Light Everlight Elec Als Pt19
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: '0603'
+oomlout_detail_hierarchy_3_upper: '0603'
+oomlout_detail_hierarchy_3_upper_length_4: '0603'
+oomlout_detail_hierarchy_4: sensor
+oomlout_detail_hierarchy_4_upper: SENSOR
+oomlout_detail_hierarchy_4_upper_length_4: SENS
+oomlout_detail_hierarchy_5: light
+oomlout_detail_hierarchy_5_upper: LIGHT
+oomlout_detail_hierarchy_5_upper_length_4: LIGH
+oomlout_detail_hierarchy_6: everlight_elec
+oomlout_detail_hierarchy_6_upper: EVERLIGHT_ELEC
+oomlout_detail_hierarchy_6_upper_length_4: EVER
+oomlout_detail_hierarchy_7: als_pt19
+oomlout_detail_hierarchy_7_upper: ALS_PT19
+oomlout_detail_hierarchy_7_upper_length_4: ALS_
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 oomp_word: shoe bowling nine

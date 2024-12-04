@@ -364,6 +364,24 @@ sunny |
 | name_no_size | Milk Semi Skim Filtered Cravendale |  
 | name_no_size_short | Milk Semi Skim Filtered Cravendale |  
 | name_no_type | 2000 Ml Milk Semi Skim Filtered Cravendale |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | dairy |  
+| oomlout_detail_hierarchy_2_upper | DAIRY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | DAIR |  
+| oomlout_detail_hierarchy_3 | 2000_ml |  
+| oomlout_detail_hierarchy_3_upper | 2000_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2000 |  
+| oomlout_detail_hierarchy_4 | milk_semi_skim |  
+| oomlout_detail_hierarchy_4_upper | MILK_SEMI_SKIM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MILK |  
+| oomlout_detail_hierarchy_5 | filtered |  
+| oomlout_detail_hierarchy_5_upper | FILTERED |  
+| oomlout_detail_hierarchy_5_upper_length_4 | FILT |  
+| oomlout_detail_hierarchy_6 | cravendale |  
+| oomlout_detail_hierarchy_6_upper | CRAVENDALE |  
+| oomlout_detail_hierarchy_6_upper_length_4 | CRAV |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_dairy_2000_ml_milk_semi_skim_filtered_cravendale |  
 | oomp_word | kiss kiss trumpet |  

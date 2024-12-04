@@ -358,6 +358,21 @@ name_no_color: 10mmdiameterrollerplasticdeodorantroller
 name_no_size: 10 mm Diameter Roller Plastic Deodorant Roller
 name_no_size_short: 10 Mm Diameter Roller Plastic Deodorant Roller
 name_no_type: Caster 10 mm Diameter Roller Plastic Deodorant Roller
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: wheel
+oomlout_detail_hierarchy_2_upper: WHEEL
+oomlout_detail_hierarchy_2_upper_length_4: WHEE
+oomlout_detail_hierarchy_3: caster
+oomlout_detail_hierarchy_3_upper: CASTER
+oomlout_detail_hierarchy_3_upper_length_4: CAST
+oomlout_detail_hierarchy_4: 10_mm_diameter_roller_plastic
+oomlout_detail_hierarchy_4_upper: 10_MM_DIAMETER_ROLLER_PLASTIC
+oomlout_detail_hierarchy_4_upper_length_4: 10DI
+oomlout_detail_hierarchy_5: deodorant_roller
+oomlout_detail_hierarchy_5_upper: DEODORANT_ROLLER
+oomlout_detail_hierarchy_5_upper_length_4: DEOD
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
 oomp_word: hand basketball thumbsdown

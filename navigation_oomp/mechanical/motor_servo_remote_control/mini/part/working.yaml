@@ -334,6 +334,15 @@ name_no_color: Mini
 name_no_size: Mini
 name_no_size_short: Mini
 name_no_type: Mini
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_servo_remote_control
+oomlout_detail_hierarchy_2_upper: MOTOR_SERVO_REMOTE_CONTROL
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: mini
+oomlout_detail_hierarchy_3_upper: MINI
+oomlout_detail_hierarchy_3_upper_length_4: MINI
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_servo_remote_control_mini
 oomp_word: tv beer baby_chick

@@ -317,6 +317,18 @@ gift |
 | name_no_size_short | Pasta Double Zero |  
 | name_no_type | Flour Pasta Double Zero |  
 | name_short | Flour Pasta Double Zero |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | flour |  
+| oomlout_detail_hierarchy_3_upper | FLOUR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | FLOU |  
+| oomlout_detail_hierarchy_4 | pasta_double_zero |  
+| oomlout_detail_hierarchy_4_upper | PASTA_DOUBLE_ZERO |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PAST |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_baking_flour_pasta_double_zero |  
 | oomp_word | three hourglass herb |  

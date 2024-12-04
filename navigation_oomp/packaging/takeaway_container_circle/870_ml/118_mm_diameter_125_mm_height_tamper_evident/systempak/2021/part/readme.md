@@ -341,6 +341,24 @@ cat |
 | name_no_size_short | 118 Mm Diameter 125 Mm Height Tamper Evident Systempak 2021 |  
 | name_no_type | 870 Ml 118 mm Diameter 125 mm Height Tamper Evident Systempak 2021 |  
 | note | only available by the pallet |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | takeaway_container_circle |  
+| oomlout_detail_hierarchy_2_upper | TAKEAWAY_CONTAINER_CIRCLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TAKE |  
+| oomlout_detail_hierarchy_3 | 870_ml |  
+| oomlout_detail_hierarchy_3_upper | 870_ML |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 870_ |  
+| oomlout_detail_hierarchy_4 | 125_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 125_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 125H |  
+| oomlout_detail_hierarchy_5 | systempak |  
+| oomlout_detail_hierarchy_5_upper | SYSTEMPAK |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SYST |  
+| oomlout_detail_hierarchy_6 | 2021 |  
+| oomlout_detail_hierarchy_6_upper | 2021 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 2021 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | tcc870 |  
 | oomlout_short_code_upper | TCC870 |  

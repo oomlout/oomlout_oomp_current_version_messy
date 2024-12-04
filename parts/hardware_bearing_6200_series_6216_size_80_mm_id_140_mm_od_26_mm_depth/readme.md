@@ -339,6 +339,21 @@ deposit |
 | name_no_size | 6216 Size 80 mm ID 140 mm OD 26 mm Depth |  
 | name_no_size_short | 6216 Size 80 Mm Id 140 Mm Od 26 Mm Depth |  
 | name_no_type | 6200 Series 6216 Size 80 mm ID 140 mm OD 26 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6216_size |  
+| oomlout_detail_hierarchy_4_upper | 6216_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6216 |  
+| oomlout_detail_hierarchy_5 | 26_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 26_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 26DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6216 |  
 | oomlout_short_code_upper | BR6216 |  

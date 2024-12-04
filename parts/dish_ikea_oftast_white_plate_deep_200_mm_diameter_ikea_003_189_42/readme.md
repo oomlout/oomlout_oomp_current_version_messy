@@ -387,6 +387,27 @@ drastic |
 | name_no_size | Ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
 | name_no_size_short | Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942 |  
 | name_no_type | Ikeaoftastwhiteplatedeep200mmdiameterikea00318942 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | ikea_oftast |  
+| oomlout_detail_hierarchy_2_upper | IKEA_OFTAST |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_3 | white |  
+| oomlout_detail_hierarchy_3_upper | WHITE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_4 | plate_deep |  
+| oomlout_detail_hierarchy_4_upper | PLATE_DEEP |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PLAT |  
+| oomlout_detail_hierarchy_5 | 200_mm_diameter |  
+| oomlout_detail_hierarchy_5_upper | 200_MM_DIAMETER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 200D |  
+| oomlout_detail_hierarchy_6 | ikea |  
+| oomlout_detail_hierarchy_6_upper | IKEA |  
+| oomlout_detail_hierarchy_6_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_7 | 003_189_42 |  
+| oomlout_detail_hierarchy_7_upper | 003_189_42 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 003_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42 |  
 | oomp_word | fries fish three |  

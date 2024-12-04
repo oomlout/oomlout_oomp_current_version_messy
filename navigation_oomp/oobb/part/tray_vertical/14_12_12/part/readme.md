@@ -313,6 +313,18 @@ woman |
 | name_no_size | 14 12 12 |  
 | name_no_size_short | 14 12 12 |  
 | name_no_type | Tray Vertical 14 12 12 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_vertical |  
+| oomlout_detail_hierarchy_3_upper | TRAY_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 14_12_12 |  
+| oomlout_detail_hierarchy_4_upper | 14_12_12 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 14_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_14_12_12 |  
 | oomp_word | stars goat rooster |  

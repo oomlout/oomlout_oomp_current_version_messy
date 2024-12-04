@@ -341,6 +341,24 @@ differ |
 | name_no_size | Max 11 Amazon Kfsnwi |  
 | name_no_size_short | Max 11 Amazon Kfsnwi |  
 | name_no_type | Amazon Fire Max 11 Amazon Kfsnwi |  
+| oomlout_detail_hierarchy_1 | computer |  
+| oomlout_detail_hierarchy_1_upper | COMPUTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | tablet |  
+| oomlout_detail_hierarchy_2_upper | TABLET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TABL |  
+| oomlout_detail_hierarchy_3 | amazon_fire |  
+| oomlout_detail_hierarchy_3_upper | AMAZON_FIRE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | AMAZ |  
+| oomlout_detail_hierarchy_4 | max_11 |  
+| oomlout_detail_hierarchy_4_upper | MAX_11 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MAX_ |  
+| oomlout_detail_hierarchy_5 | amazon |  
+| oomlout_detail_hierarchy_5_upper | AMAZON |  
+| oomlout_detail_hierarchy_5_upper_length_4 | AMAZ |  
+| oomlout_detail_hierarchy_6 | kfsnwi |  
+| oomlout_detail_hierarchy_6_upper | KFSNWI |  
+| oomlout_detail_hierarchy_6_upper_length_4 | KFSN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_tablet_amazon_fire_max_11_amazon_kfsnwi |  
 | oomp_word | racehorse dragon sheep |  

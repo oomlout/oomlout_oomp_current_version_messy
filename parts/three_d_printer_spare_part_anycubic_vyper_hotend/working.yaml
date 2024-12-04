@@ -334,6 +334,18 @@ name_no_color: Hotend
 name_no_size: Hotend
 name_no_size_short: Hotend
 name_no_type: Anycubic Vyper Hotend
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: spare_part
+oomlout_detail_hierarchy_2_upper: SPARE_PART
+oomlout_detail_hierarchy_2_upper_length_4: SPAR
+oomlout_detail_hierarchy_3: anycubic_vyper
+oomlout_detail_hierarchy_3_upper: ANYCUBIC_VYPER
+oomlout_detail_hierarchy_3_upper_length_4: ANYC
+oomlout_detail_hierarchy_4: hotend
+oomlout_detail_hierarchy_4_upper: HOTEND
+oomlout_detail_hierarchy_4_upper_length_4: HOTE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_spare_part_anycubic_vyper_hotend
 oomp_word: truck ticket thumbsdown

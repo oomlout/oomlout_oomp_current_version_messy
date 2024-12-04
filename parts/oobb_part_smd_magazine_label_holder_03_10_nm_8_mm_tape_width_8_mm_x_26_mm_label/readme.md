@@ -313,6 +313,24 @@ amount |
 | name_no_size | 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label |  
 | name_no_size_short | 03 10 Nm 8 Mm Tape Width 8 Mm X 26 Mm Label |  
 | name_no_type | SMD Magazine Label Holder 03 10 Nm 8 mm Tape Width 8 mm X 26 mm Label |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine_label_holder |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE_LABEL_HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 03_10_nm_8 |  
+| oomlout_detail_hierarchy_4_upper | 03_10_NM_8 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_1 |  
+| oomlout_detail_hierarchy_5 | mm_tape_width_8 |  
+| oomlout_detail_hierarchy_5_upper | MM_TAPE_WIDTH_8 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MM_T |  
+| oomlout_detail_hierarchy_6 | mm_x_26_mm_label |  
+| oomlout_detail_hierarchy_6_upper | MM_X_26_MM_LABEL |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MM_X |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_label_holder_03_10_nm_8_mm_tape_width_8_mm_x_26_mm_label |  
 | oomp_word | sleeping ambulance bath |  

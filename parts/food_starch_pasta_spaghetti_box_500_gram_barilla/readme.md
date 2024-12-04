@@ -365,6 +365,24 @@ rhythm |
 | name_no_size_short | Spaghetti Box 500 Gram Barilla |  
 | name_no_type | Pasta Spaghetti Box 500 Gram Barilla |  
 | name_short | Pasta Spaghetti Box |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | starch |  
+| oomlout_detail_hierarchy_2_upper | STARCH |  
+| oomlout_detail_hierarchy_2_upper_length_4 | STAR |  
+| oomlout_detail_hierarchy_3 | pasta |  
+| oomlout_detail_hierarchy_3_upper | PASTA |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PAST |  
+| oomlout_detail_hierarchy_4 | spaghetti |  
+| oomlout_detail_hierarchy_4_upper | SPAGHETTI |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SPAG |  
+| oomlout_detail_hierarchy_5 | box_500_gram |  
+| oomlout_detail_hierarchy_5_upper | BOX_500_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BOX_ |  
+| oomlout_detail_hierarchy_6 | barilla |  
+| oomlout_detail_hierarchy_6_upper | BARILLA |  
+| oomlout_detail_hierarchy_6_upper_length_4 | BARI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_starch_pasta_spaghetti_box_500_gram_barilla |  
 | oomp_word | cry snail bowtie |  

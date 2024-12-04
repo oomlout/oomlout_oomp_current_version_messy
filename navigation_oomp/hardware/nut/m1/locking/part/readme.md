@@ -316,6 +316,18 @@ promote |
 | name_no_size | Locking |  
 | name_no_size_short | Locking |  
 | name_no_type | M1 Locking |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m1 |  
+| oomlout_detail_hierarchy_3_upper | M1 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M1 |  
+| oomlout_detail_hierarchy_4 | locking |  
+| oomlout_detail_hierarchy_4_upper | LOCKING |  
+| oomlout_detail_hierarchy_4_upper_length_4 | LOCK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n1mlo |  
 | oomlout_short_code_upper | N1MLO |  

@@ -315,6 +315,18 @@ this |
 | name_no_size | Olfadc3 |  
 | name_no_size_short | Olfadc3 |  
 | name_no_type | Olfa Dc 3 |  
+| oomlout_detail_hierarchy_1 | tool |  
+| oomlout_detail_hierarchy_1_upper | TOOL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_2 | knife_utility_blade_disposal_can |  
+| oomlout_detail_hierarchy_2_upper | KNIFE_UTILITY_BLADE_DISPOSAL_CAN |  
+| oomlout_detail_hierarchy_2_upper_length_4 | KNIF |  
+| oomlout_detail_hierarchy_3 | olfa |  
+| oomlout_detail_hierarchy_3_upper | OLFA |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OLFA |  
+| oomlout_detail_hierarchy_4 | dc_3 |  
+| oomlout_detail_hierarchy_4_upper | DC_3 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | DC_3 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_tool_knife_utility_blade_disposal_can_olfa_dc_3 |  
 | oomp_word | diamonds clap four |  

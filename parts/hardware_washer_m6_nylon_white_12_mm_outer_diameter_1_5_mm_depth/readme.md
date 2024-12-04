@@ -340,6 +340,21 @@ adapt |
 | name_no_size | Nylon White 12 mm Outer Diameter 1 5 mm Depth |  
 | name_no_size_short | Nylon White 12 Mm Outer Diameter 1 5 Mm Depth |  
 | name_no_type | M6 Nylon White 12 mm Outer Diameter 1 5 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | washer |  
+| oomlout_detail_hierarchy_2_upper | WASHER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | WASH |  
+| oomlout_detail_hierarchy_3 | m6 |  
+| oomlout_detail_hierarchy_3_upper | M6 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M6 |  
+| oomlout_detail_hierarchy_4 | nylon_white |  
+| oomlout_detail_hierarchy_4_upper | NYLON_WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | NYLO |  
+| oomlout_detail_hierarchy_5 | 5_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 5_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 5DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_washer_m6_nylon_white_12_mm_outer_diameter_1_5_mm_depth |  
 | oomp_word | poodle books clipboard |  

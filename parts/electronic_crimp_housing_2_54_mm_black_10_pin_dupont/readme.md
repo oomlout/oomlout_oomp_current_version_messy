@@ -362,6 +362,24 @@ silly |
 | name_no_size | Black 10 Pin Dupont |  
 | name_no_size_short | Black 10 Pin Dupont |  
 | name_no_type | 2 54 mm Black 10 Pin Dupont |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | crimp_housing |  
+| oomlout_detail_hierarchy_2_upper | CRIMP_HOUSING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CRIM |  
+| oomlout_detail_hierarchy_3 | 2_54_mm |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | black |  
+| oomlout_detail_hierarchy_4_upper | BLACK |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_5 | 10_pin |  
+| oomlout_detail_hierarchy_5_upper | 10_PIN |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10_P |  
+| oomlout_detail_hierarchy_6 | dupont |  
+| oomlout_detail_hierarchy_6_upper | DUPONT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | DUPO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_crimp_housing_2_54_mm_black_10_pin_dupont |  
 | oomp_word | rooster whale dizzy |  

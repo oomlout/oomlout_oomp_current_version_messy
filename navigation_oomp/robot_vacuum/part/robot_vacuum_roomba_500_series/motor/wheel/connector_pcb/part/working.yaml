@@ -383,6 +383,24 @@ name_no_color: Roomba 500 Series Wheel Connector PCB
 name_no_size: Roomba 500 Series Motor Wheel Connector PCB
 name_no_size_short: Roomba 500 Series Motor Wheel Connector Pcb
 name_no_type: Roomba 500 Series Motor Wheel Connector PCB
+oomlout_detail_hierarchy_1: robot_vacuum
+oomlout_detail_hierarchy_1_upper: ROBOT_VACUUM
+oomlout_detail_hierarchy_1_upper_length_4: ROBO
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: robot_vacuum_roomba_500_series
+oomlout_detail_hierarchy_3_upper: ROBOT_VACUUM_ROOMBA_500_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: ROBO
+oomlout_detail_hierarchy_4: motor
+oomlout_detail_hierarchy_4_upper: MOTOR
+oomlout_detail_hierarchy_4_upper_length_4: MOTO
+oomlout_detail_hierarchy_5: wheel
+oomlout_detail_hierarchy_5_upper: WHEEL
+oomlout_detail_hierarchy_5_upper_length_4: WHEE
+oomlout_detail_hierarchy_6: connector_pcb
+oomlout_detail_hierarchy_6_upper: CONNECTOR_PCB
+oomlout_detail_hierarchy_6_upper_length_4: CONN
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 oomp_word: telescope rose thumbsup

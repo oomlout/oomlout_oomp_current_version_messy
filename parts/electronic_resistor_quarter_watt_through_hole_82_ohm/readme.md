@@ -317,6 +317,18 @@ kitten |
 | name_no_size | 82 Ohm |  
 | name_no_size_short | 82 Ohm |  
 | name_no_type | Quarter Watt Through Hole 82 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | quarter_watt_through_hole |  
+| oomlout_detail_hierarchy_3_upper | QUARTER_WATT_THROUGH_HOLE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | QUAR |  
+| oomlout_detail_hierarchy_4 | 82_ohm |  
+| oomlout_detail_hierarchy_4_upper | 82_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 82_O |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_quarter_watt_through_hole_82_ohm |  
 | oomp_word | mouse beetle corn |  

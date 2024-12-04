@@ -358,6 +358,21 @@ name_no_color: Packagemarkingt41N4148W
 name_no_size: Package Marking T4 1N4148W
 name_no_size_short: Package Marking T4 1N4148W
 name_no_type: Sod 123 Package Marking T4 1N4148W
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: diode
+oomlout_detail_hierarchy_2_upper: DIODE
+oomlout_detail_hierarchy_2_upper_length_4: DIOD
+oomlout_detail_hierarchy_3: sod_123
+oomlout_detail_hierarchy_3_upper: SOD_123
+oomlout_detail_hierarchy_3_upper_length_4: SOD_
+oomlout_detail_hierarchy_4: package_marking_t4
+oomlout_detail_hierarchy_4_upper: PACKAGE_MARKING_T4
+oomlout_detail_hierarchy_4_upper_length_4: PACK
+oomlout_detail_hierarchy_5: 1n4148w
+oomlout_detail_hierarchy_5_upper: 1N4148W
+oomlout_detail_hierarchy_5_upper_length_4: 1N41
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
 oomp_word: hamster tea snake

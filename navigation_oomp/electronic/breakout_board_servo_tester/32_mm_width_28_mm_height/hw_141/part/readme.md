@@ -291,6 +291,21 @@ dial |
 | name_no_size_short | Hw 141 |  
 | name_no_type | 32 mm Width 28 mm Height Hw 141 |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | breakout_board_servo_tester |  
+| oomlout_detail_hierarchy_2_upper | BREAKOUT_BOARD_SERVO_TESTER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_3 | 32_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 32_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 32WI |  
+| oomlout_detail_hierarchy_4 | 28_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 28_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 28HE |  
+| oomlout_detail_hierarchy_5 | hw_141 |  
+| oomlout_detail_hierarchy_5_upper | HW_141 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | HW_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141 |  
 | oomp_word | dress basketball hatching_chick |  

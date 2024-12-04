@@ -332,6 +332,27 @@ north |
 | name_no_size | Tinware Direct T4005 |  
 | name_no_size_short | Tinware Direct T4005 |  
 | name_no_type | A5 220 mm Width 160 mm Height 25 mm Depth 450 Ml Tinware Direct T4005 |  
+| oomlout_detail_hierarchy_1 | packaging |  
+| oomlout_detail_hierarchy_1_upper | PACKAGING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_2 | tin_hinged_lid |  
+| oomlout_detail_hierarchy_2_upper | TIN_HINGED_LID |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_3 | 220_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 220_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 220W |  
+| oomlout_detail_hierarchy_4 | 160_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 160_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 160H |  
+| oomlout_detail_hierarchy_5 | 25_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 25_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 25DE |  
+| oomlout_detail_hierarchy_6 | tinware_direct |  
+| oomlout_detail_hierarchy_6_upper | TINWARE_DIRECT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | TINW |  
+| oomlout_detail_hierarchy_7 | t4005 |  
+| oomlout_detail_hierarchy_7_upper | T4005 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | T400 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005 |  
 | oomp_word | paperclip truck snowflake |  

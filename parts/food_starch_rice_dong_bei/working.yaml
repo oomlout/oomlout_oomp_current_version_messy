@@ -338,6 +338,18 @@ name_no_size: Dong Bei
 name_no_size_short: Dong Bei
 name_no_type: Rice Dong Bei
 name_short: Rice Dong Bei
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: rice
+oomlout_detail_hierarchy_3_upper: RICE
+oomlout_detail_hierarchy_3_upper_length_4: RICE
+oomlout_detail_hierarchy_4: dong_bei
+oomlout_detail_hierarchy_4_upper: DONG_BEI
+oomlout_detail_hierarchy_4_upper_length_4: DONG
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_rice_dong_bei
 oomp_word: anchor basketball hotel

@@ -364,6 +364,27 @@ seed |
 | name_no_size | Bowl 2000 Ml 210 mm Diameter 180B000 |  
 | name_no_size_short | Bowl 2000 Ml 210 Mm Diameter 180B000 |  
 | name_no_type | Pyrex Bowl 2000 Ml 210 mm Diameter Pyrex 180B000 |  
+| oomlout_detail_hierarchy_1 | dish |  
+| oomlout_detail_hierarchy_1_upper | DISH |  
+| oomlout_detail_hierarchy_1_upper_length_4 | DISH |  
+| oomlout_detail_hierarchy_2 | baking |  
+| oomlout_detail_hierarchy_2_upper | BAKING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BAKI |  
+| oomlout_detail_hierarchy_3 | pyrex |  
+| oomlout_detail_hierarchy_3_upper | PYREX |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_4 | bowl |  
+| oomlout_detail_hierarchy_4_upper | BOWL |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BOWL |  
+| oomlout_detail_hierarchy_5 | 2000_ml_210_mm_diameter |  
+| oomlout_detail_hierarchy_5_upper | 2000_ML_210_MM_DIAMETER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 2000 |  
+| oomlout_detail_hierarchy_6 | pyrex |  
+| oomlout_detail_hierarchy_6_upper | PYREX |  
+| oomlout_detail_hierarchy_6_upper_length_4 | PYRE |  
+| oomlout_detail_hierarchy_7 | 180B000 |  
+| oomlout_detail_hierarchy_7_upper | 180B000 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 180B |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000 |  
 | oomp_word | key goat balloon |  

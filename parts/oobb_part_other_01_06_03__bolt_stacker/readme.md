@@ -337,6 +337,21 @@ patrol |
 | name_no_size | 01 06 03  Bolt Stacker |  
 | name_no_size_short | 01 06 03  Bolt Stacker |  
 | name_no_type | Other 01 06 03  Bolt Stacker |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | other |  
+| oomlout_detail_hierarchy_3_upper | OTHER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OTHE |  
+| oomlout_detail_hierarchy_4 | 01_06_03_ |  
+| oomlout_detail_hierarchy_4_upper | 01_06_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 01_0 |  
+| oomlout_detail_hierarchy_5 | bolt_stacker |  
+| oomlout_detail_hierarchy_5_upper | BOLT_STACKER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BOLT |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_01_06_03__bolt_stacker |  
 | oomp_word | computer trumpet sheep |  

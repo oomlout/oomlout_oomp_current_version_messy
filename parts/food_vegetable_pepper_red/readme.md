@@ -341,6 +341,18 @@ embrace |
 | name_no_size | Pepperred |  
 | name_no_size_short | Pepperred |  
 | name_no_type | Pepper Red |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | vegetable |  
+| oomlout_detail_hierarchy_2_upper | VEGETABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VEGE |  
+| oomlout_detail_hierarchy_3 | pepper |  
+| oomlout_detail_hierarchy_3_upper | PEPPER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PEPP |  
+| oomlout_detail_hierarchy_4 | red |  
+| oomlout_detail_hierarchy_4_upper | RED |  
+| oomlout_detail_hierarchy_4_upper_length_4 | RED |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_pepper_red |  
 | oomp_word | tent herb alien |  

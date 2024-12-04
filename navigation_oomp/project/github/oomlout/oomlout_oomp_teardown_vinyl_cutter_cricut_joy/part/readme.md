@@ -317,6 +317,21 @@ wood |
 | name_no_size | Oomp Teardown Vinyl Cutter Cricut Joy |  
 | name_no_size_short | Oomp Teardown Vinyl Cutter Cricut Joy |  
 | name_no_type | Oomlout Oomlout Oomp Teardown Vinyl Cutter Cricut Joy |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_teardown |  
+| oomlout_detail_hierarchy_4_upper | OOMP_TEARDOWN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
+| oomlout_detail_hierarchy_5 | vinyl_cutter_cricut_joy |  
+| oomlout_detail_hierarchy_5_upper | VINYL_CUTTER_CRICUT_JOY |  
+| oomlout_detail_hierarchy_5_upper_length_4 | VINY |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_teardown_vinyl_cutter_cricut_joy |  
 | oomp_word | cactus computer factory |  

@@ -337,6 +337,27 @@ above |
 | name_no_size | 05 05 03  Mechanical Motor With Encoder 30 mm Diameter Cricut Maker Compatible |  
 | name_no_size_short | 05 05 03  Mechanical Motor With Encoder 30 Mm Diameter Cricut Maker Compatible |  
 | name_no_type | Holder 05 05 03  Mechanical Motor With Encoder 30 mm Diameter Cricut Maker Compatible |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | holder |  
+| oomlout_detail_hierarchy_3_upper | HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HOLD |  
+| oomlout_detail_hierarchy_4 | 05_05_03_ |  
+| oomlout_detail_hierarchy_4_upper | 05_05_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | mechanical_motor_with_encoder |  
+| oomlout_detail_hierarchy_5_upper | MECHANICAL_MOTOR_WITH_ENCODER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_6 | 30_mm_diameter_cricut |  
+| oomlout_detail_hierarchy_6_upper | 30_MM_DIAMETER_CRICUT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 30DI |  
+| oomlout_detail_hierarchy_7 | maker_compatible |  
+| oomlout_detail_hierarchy_7_upper | MAKER_COMPATIBLE |  
+| oomlout_detail_hierarchy_7_upper_length_4 | MAKE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_holder_05_05_03__mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible |  
 | oomp_word | clubs crown cry |  

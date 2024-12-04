@@ -337,6 +337,24 @@ dilemma |
 | name_no_size | 08 05 11  Tool Marker Bic Clear Lid X6 |  
 | name_no_size_short | 08 05 11  Tool Marker Bic Clear Lid X6 |  
 | name_no_type | Tool Holder Vertical 08 05 11  Tool Marker Bic Clear Lid X6 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tool_holder_vertical |  
+| oomlout_detail_hierarchy_3_upper | TOOL_HOLDER_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_4 | 08_05_11_ |  
+| oomlout_detail_hierarchy_4_upper | 08_05_11_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 08_0 |  
+| oomlout_detail_hierarchy_5 | tool_marker_bic_clear |  
+| oomlout_detail_hierarchy_5_upper | TOOL_MARKER_BIC_CLEAR |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_6 | lid_x6 |  
+| oomlout_detail_hierarchy_6_upper | LID_X6 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | LID_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_08_05_11__tool_marker_bic_clear_lid_x6 |  
 | oomp_word | hand dancer lock |  

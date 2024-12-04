@@ -313,6 +313,18 @@ spread |
 | name_no_size | 08 03 18 |  
 | name_no_size_short | 08 03 18 |  
 | name_no_type | Tray Vertical 08 03 18 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_vertical |  
+| oomlout_detail_hierarchy_3_upper | TRAY_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 08_03_18 |  
+| oomlout_detail_hierarchy_4_upper | 08_03_18 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 08_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_08_03_18 |  
 | oomp_word | poop hammer fire |  

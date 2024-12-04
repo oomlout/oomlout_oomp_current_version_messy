@@ -337,6 +337,21 @@ pull |
 | name_no_size | 02 06  16 Teeth Sh M3 |  
 | name_no_size_short | 02 06  16 Teeth Sh M3 |  
 | name_no_type | Gear 02 06  16 Teeth Sh M3 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | gear |  
+| oomlout_detail_hierarchy_3_upper | GEAR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | GEAR |  
+| oomlout_detail_hierarchy_4 | 02_06_ |  
+| oomlout_detail_hierarchy_4_upper | 02_06_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_0 |  
+| oomlout_detail_hierarchy_5 | 16_teeth_sh_m3 |  
+| oomlout_detail_hierarchy_5_upper | 16_TEETH_SH_M3 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 16_T |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_02_06__16_teeth_sh_m3 |  
 | oomp_word | hamburger mouse ear |  

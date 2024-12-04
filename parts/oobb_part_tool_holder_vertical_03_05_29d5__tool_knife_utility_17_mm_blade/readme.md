@@ -337,6 +337,24 @@ intact |
 | name_no_size | 03 05 29D5  Tool Knife Utility 17 mm Blade |  
 | name_no_size_short | 03 05 29D5  Tool Knife Utility 17 Mm Blade |  
 | name_no_type | Tool Holder Vertical 03 05 29D5  Tool Knife Utility 17 mm Blade |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tool_holder_vertical |  
+| oomlout_detail_hierarchy_3_upper | TOOL_HOLDER_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_4 | 03_05_29d5_ |  
+| oomlout_detail_hierarchy_4_upper | 03_05_29D5_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | tool_knife_utility_17 |  
+| oomlout_detail_hierarchy_5_upper | TOOL_KNIFE_UTILITY_17 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_6 | mm_blade |  
+| oomlout_detail_hierarchy_6_upper | MM_BLADE |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MM_B |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_03_05_29d5__tool_knife_utility_17_mm_blade |  
 | oomp_word | ship coffee key |  

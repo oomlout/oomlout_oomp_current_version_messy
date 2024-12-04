@@ -337,6 +337,15 @@ name_no_color: Cucumber
 name_no_size: Cucumber
 name_no_size_short: Cucumber
 name_no_type: Cucumber
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: vegetable
+oomlout_detail_hierarchy_2_upper: VEGETABLE
+oomlout_detail_hierarchy_2_upper_length_4: VEGE
+oomlout_detail_hierarchy_3: cucumber
+oomlout_detail_hierarchy_3_upper: CUCUMBER
+oomlout_detail_hierarchy_3_upper_length_4: CUCU
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_vegetable_cucumber
 oomp_word: handbag eyeglasses banana

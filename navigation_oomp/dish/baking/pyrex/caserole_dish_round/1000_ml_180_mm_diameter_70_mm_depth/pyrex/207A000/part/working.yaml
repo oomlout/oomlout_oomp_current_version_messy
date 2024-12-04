@@ -388,6 +388,27 @@ name_no_color: Caseroleround1000Ml180mmdiameter70mmdepth207A000
 name_no_size: Caserole Round 1000 Ml 180 mm Diameter 70 mm Depth 207A000
 name_no_size_short: Caserole Round 1000 Ml 180 Mm Diameter 70 Mm Depth 207A000
 name_no_type: Pyrex Caserole Round 1000 Ml 180 mm Diameter 70 mm Depth Pyrex 207A000
+oomlout_detail_hierarchy_1: dish
+oomlout_detail_hierarchy_1_upper: DISH
+oomlout_detail_hierarchy_1_upper_length_4: DISH
+oomlout_detail_hierarchy_2: baking
+oomlout_detail_hierarchy_2_upper: BAKING
+oomlout_detail_hierarchy_2_upper_length_4: BAKI
+oomlout_detail_hierarchy_3: pyrex
+oomlout_detail_hierarchy_3_upper: PYREX
+oomlout_detail_hierarchy_3_upper_length_4: PYRE
+oomlout_detail_hierarchy_4: caserole_dish_round
+oomlout_detail_hierarchy_4_upper: CASEROLE_DISH_ROUND
+oomlout_detail_hierarchy_4_upper_length_4: CASE
+oomlout_detail_hierarchy_5: 70_mm_depth
+oomlout_detail_hierarchy_5_upper: 70_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 70DE
+oomlout_detail_hierarchy_6: pyrex
+oomlout_detail_hierarchy_6_upper: PYREX
+oomlout_detail_hierarchy_6_upper_length_4: PYRE
+oomlout_detail_hierarchy_7: 207A000
+oomlout_detail_hierarchy_7_upper: 207A000
+oomlout_detail_hierarchy_7_upper_length_4: 207A
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
 oomp_word: dolls clap muscle

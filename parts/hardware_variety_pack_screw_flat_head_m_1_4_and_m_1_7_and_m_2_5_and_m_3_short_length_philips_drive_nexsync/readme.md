@@ -365,6 +365,33 @@ stand |
 | name_no_size | M 1 4 And M 1 7 And M 2 5 And M 3 Short Length Philips Drive Nexsync |  
 | name_no_size_short | M 1 4 And M 1 7 And M 2 5 And M 3 Short Length Philips Drive Nexsync |  
 | name_no_type | Screw Flat Head M 1 4 And M 1 7 And M 2 5 And M 3 Short Length Philips Drive Nexsync |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | variety_pack |  
+| oomlout_detail_hierarchy_2_upper | VARIETY_PACK |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VARI |  
+| oomlout_detail_hierarchy_3 | sflat_head |  
+| oomlout_detail_hierarchy_3_upper | SFLAT_HEAD |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SFLA |  
+| oomlout_detail_hierarchy_4 | m_1_4_and |  
+| oomlout_detail_hierarchy_4_upper | M_1_4_AND |  
+| oomlout_detail_hierarchy_4_upper_length_4 | M_1_ |  
+| oomlout_detail_hierarchy_5 | m_1_7_and |  
+| oomlout_detail_hierarchy_5_upper | M_1_7_AND |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M_1_ |  
+| oomlout_detail_hierarchy_6 | m_2_5_and |  
+| oomlout_detail_hierarchy_6_upper | M_2_5_AND |  
+| oomlout_detail_hierarchy_6_upper_length_4 | M_2_ |  
+| oomlout_detail_hierarchy_7 | m_3_short_length |  
+| oomlout_detail_hierarchy_7_upper | M_3_SHORT_LENGTH |  
+| oomlout_detail_hierarchy_7_upper_length_4 | M_3_ |  
+| oomlout_detail_hierarchy_8 | philips_drive |  
+| oomlout_detail_hierarchy_8_upper | PHILIPS_DRIVE |  
+| oomlout_detail_hierarchy_8_upper_length_4 | PHIL |  
+| oomlout_detail_hierarchy_9 | nexsync |  
+| oomlout_detail_hierarchy_9_upper | NEXSYNC |  
+| oomlout_detail_hierarchy_9_upper_length_4 | NEXS |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_variety_pack_screw_flat_head_m_1_4_and_m_1_7_and_m_2_5_and_m_3_short_length_philips_drive_nexsync |  
 | oomp_word | tram tent foggy |  

@@ -335,6 +335,15 @@ name_no_color: 17mmblade
 name_no_size: 17mmblade
 name_no_size_short: 17Mmblade
 name_no_type: 17 mm Blade
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: knife_utility
+oomlout_detail_hierarchy_2_upper: KNIFE_UTILITY
+oomlout_detail_hierarchy_2_upper_length_4: KNIF
+oomlout_detail_hierarchy_3: 17_mm_blade
+oomlout_detail_hierarchy_3_upper: 17_MM_BLADE
+oomlout_detail_hierarchy_3_upper_length_4: 17BL
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_knife_utility_17_mm_blade
 oomp_word: anger nine chestnut

@@ -322,6 +322,15 @@ thought |
 | name_no_size | M6 |  
 | name_no_size_short | M6 |  
 | name_no_type | M6 |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m6 |  
+| oomlout_detail_hierarchy_3_upper | M6 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M6 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n6m |  
 | oomlout_short_code_upper | N6M |  

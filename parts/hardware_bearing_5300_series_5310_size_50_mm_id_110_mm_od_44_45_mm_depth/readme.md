@@ -339,6 +339,21 @@ length |
 | name_no_size | 5310 Size 50 mm ID 110 mm OD 44 45 mm Depth |  
 | name_no_size_short | 5310 Size 50 Mm Id 110 Mm Od 44 45 Mm Depth |  
 | name_no_type | 5300 Series 5310 Size 50 mm ID 110 mm OD 44 45 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 5300_series |  
+| oomlout_detail_hierarchy_3_upper | 5300_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5300 |  
+| oomlout_detail_hierarchy_4 | 5310_size |  
+| oomlout_detail_hierarchy_4_upper | 5310_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5310 |  
+| oomlout_detail_hierarchy_5 | 45_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 45_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 45DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5310 |  
 | oomlout_short_code_upper | BR5310 |  

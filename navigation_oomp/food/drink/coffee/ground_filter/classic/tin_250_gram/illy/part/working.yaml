@@ -409,6 +409,27 @@ name_no_size: Ground Filter Classic Tin 250 Gram Illy
 name_no_size_short: Ground Filter Classic Tin 250 Gram Illy
 name_no_type: Coffee Ground Filter Classic Tin 250 Gram Illy
 name_short: Ground Coffee Classic
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: drink
+oomlout_detail_hierarchy_2_upper: DRINK
+oomlout_detail_hierarchy_2_upper_length_4: DRIN
+oomlout_detail_hierarchy_3: coffee
+oomlout_detail_hierarchy_3_upper: COFFEE
+oomlout_detail_hierarchy_3_upper_length_4: COFF
+oomlout_detail_hierarchy_4: ground_filter
+oomlout_detail_hierarchy_4_upper: GROUND_FILTER
+oomlout_detail_hierarchy_4_upper_length_4: GROU
+oomlout_detail_hierarchy_5: classic
+oomlout_detail_hierarchy_5_upper: CLASSIC
+oomlout_detail_hierarchy_5_upper_length_4: CLAS
+oomlout_detail_hierarchy_6: tin_250_gram
+oomlout_detail_hierarchy_6_upper: TIN_250_GRAM
+oomlout_detail_hierarchy_6_upper_length_4: TIN_
+oomlout_detail_hierarchy_7: illy
+oomlout_detail_hierarchy_7_upper: ILLY
+oomlout_detail_hierarchy_7_upper_length_4: ILLY
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_drink_coffee_ground_filter_classic_tin_250_gram_illy
 oomp_word: fish curry school

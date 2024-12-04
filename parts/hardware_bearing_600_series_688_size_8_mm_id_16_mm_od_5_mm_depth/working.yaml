@@ -360,6 +360,21 @@ name_no_color: 8 mm ID 16 mm OD 5 mm Depth
 name_no_size: 688 Size 8 mm ID 16 mm OD 5 mm Depth
 name_no_size_short: 688 Size 8 Mm Id 16 Mm Od 5 Mm Depth
 name_no_type: 600 Series 688 Size 8 mm ID 16 mm OD 5 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 600_series
+oomlout_detail_hierarchy_3_upper: 600_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '600_'
+oomlout_detail_hierarchy_4: 688_size
+oomlout_detail_hierarchy_4_upper: 688_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '688_'
+oomlout_detail_hierarchy_5: 5_mm_depth
+oomlout_detail_hierarchy_5_upper: 5_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 5DEP
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br688
 oomlout_short_code_upper: BR688

@@ -317,6 +317,24 @@ recall |
 | name_no_size | Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
 | name_no_size_short | Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
 | name_no_type | Oomlout Oomlout Oomp Electronic Ibbc Breakout Board Sensor Temperature Pressure Bosch Bme280 |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_electronic_project |  
+| oomlout_detail_hierarchy_4_upper | OOMP_ELECTRONIC_PROJECT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
+| oomlout_detail_hierarchy_5 | ibbc_breakout_board_sensor |  
+| oomlout_detail_hierarchy_5_upper | IBBC_BREAKOUT_BOARD_SENSOR |  
+| oomlout_detail_hierarchy_5_upper_length_4 | IBBC |  
+| oomlout_detail_hierarchy_6 | temperature_pressure_bosch_bme280 |  
+| oomlout_detail_hierarchy_6_upper | TEMPERATURE_PRESSURE_BOSCH_BME280 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | TEMP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oomp_electronic_project_ibbc_breakout_board_sensor_temperature_pressure_bosch_bme280 |  
 | oomp_word | penguin snake heart |  

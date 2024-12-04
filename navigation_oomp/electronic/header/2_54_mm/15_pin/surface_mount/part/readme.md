@@ -339,6 +339,21 @@ kit |
 | name_no_size | 15 Pin Surface Mount |  
 | name_no_size_short | 15 Pin Surface Mount |  
 | name_no_type | 2 54 mm 15 Pin Surface Mount |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 15_pin |  
+| oomlout_detail_hierarchy_4_upper | 15_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 15_P |  
+| oomlout_detail_hierarchy_5 | surface_mount |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_15_pin_surface_mount |  
 | oomp_word | sunny golf rowboat |  

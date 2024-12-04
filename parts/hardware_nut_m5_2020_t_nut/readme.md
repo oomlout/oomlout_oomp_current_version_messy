@@ -339,6 +339,21 @@ december |
 | name_no_size | 2020 T Nut |  
 | name_no_size_short | 2k T Nut |  
 | name_no_type | M5 2020 T Nut |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | nut |  
+| oomlout_detail_hierarchy_2_upper | NUT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NUT |  
+| oomlout_detail_hierarchy_3 | m5 |  
+| oomlout_detail_hierarchy_3_upper | M5 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M5 |  
+| oomlout_detail_hierarchy_4 | 2020 |  
+| oomlout_detail_hierarchy_4_upper | 2020 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2020 |  
+| oomlout_detail_hierarchy_5 | t_nut |  
+| oomlout_detail_hierarchy_5_upper | T_NUT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | T_NU |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | n5m |  
 | oomlout_short_code_upper | N5M |  

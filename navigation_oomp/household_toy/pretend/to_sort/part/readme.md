@@ -315,6 +315,15 @@ scheme |
 | name_no_size | Tosort |  
 | name_no_size_short | Tosort |  
 | name_no_type | To Sort |  
+| oomlout_detail_hierarchy_1 | household_toy |  
+| oomlout_detail_hierarchy_1_upper | HOUSEHOLD_TOY |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HOUS |  
+| oomlout_detail_hierarchy_2 | pretend |  
+| oomlout_detail_hierarchy_2_upper | PRETEND |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PRET |  
+| oomlout_detail_hierarchy_3 | to_sort |  
+| oomlout_detail_hierarchy_3_upper | TO_SORT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TO_S |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_household_toy_pretend_to_sort |  
 | oomp_word | honeybee foggy fries |  

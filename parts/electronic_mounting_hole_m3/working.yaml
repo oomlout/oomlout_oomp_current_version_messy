@@ -323,6 +323,15 @@ name_no_size: M3
 name_no_size_short: M3
 name_no_type: M3
 notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: mounting_hole
+oomlout_detail_hierarchy_2_upper: MOUNTING_HOLE
+oomlout_detail_hierarchy_2_upper_length_4: MOUN
+oomlout_detail_hierarchy_3: m3
+oomlout_detail_hierarchy_3_upper: M3
+oomlout_detail_hierarchy_3_upper_length_4: M3
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_mounting_hole_m3
 oomp_word: toilet cyclone smile

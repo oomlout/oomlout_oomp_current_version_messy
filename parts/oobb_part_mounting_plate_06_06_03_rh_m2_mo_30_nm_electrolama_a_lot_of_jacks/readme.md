@@ -313,6 +313,24 @@ ill |
 | name_no_size | 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks |  
 | name_no_size_short | 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks |  
 | name_no_type | Mounting Plate 06 06 03 Rh M2 Mo 30 Nm Electrolama A Lot Of Jacks |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 06_06_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 06_06_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 06_0 |  
+| oomlout_detail_hierarchy_5 | m2_mo_30_nm |  
+| oomlout_detail_hierarchy_5_upper | M2_MO_30_NM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M2_M |  
+| oomlout_detail_hierarchy_6 | electrolama_a_lot_of_jacks |  
+| oomlout_detail_hierarchy_6_upper | ELECTROLAMA_A_LOT_OF_JACKS |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ELEC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_06_06_03_rh_m2_mo_30_nm_electrolama_a_lot_of_jacks |  
 | oomp_word | mushroom bouquet headphones |  

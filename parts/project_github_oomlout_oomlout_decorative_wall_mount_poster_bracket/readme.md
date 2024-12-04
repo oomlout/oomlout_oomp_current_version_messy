@@ -317,6 +317,21 @@ capable |
 | name_no_size | Decorative Wall Mount Poster Bracket |  
 | name_no_size_short | Decorative Wall Mount Poster Bracket |  
 | name_no_type | Oomlout Oomlout Decorative Wall Mount Poster Bracket |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | decorative_wall_mount |  
+| oomlout_detail_hierarchy_4_upper | DECORATIVE_WALL_MOUNT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | DECO |  
+| oomlout_detail_hierarchy_5 | poster_bracket |  
+| oomlout_detail_hierarchy_5_upper | POSTER_BRACKET |  
+| oomlout_detail_hierarchy_5_upper_length_4 | POST |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_decorative_wall_mount_poster_bracket |  
 | oomp_word | whale fireworks computer |  

@@ -339,6 +339,21 @@ vendor |
 | name_no_size | 5214 Size 70 mm ID 125 mm OD 39 6 mm Depth |  
 | name_no_size_short | 5214 Size 70 Mm Id 125 Mm Od 39 6 Mm Depth |  
 | name_no_type | 5200 Series 5214 Size 70 mm ID 125 mm OD 39 6 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 5200_series |  
+| oomlout_detail_hierarchy_3_upper | 5200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 5200 |  
+| oomlout_detail_hierarchy_4 | 5214_size |  
+| oomlout_detail_hierarchy_4_upper | 5214_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5214 |  
+| oomlout_detail_hierarchy_5 | 6_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 6_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 6DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br5214 |  
 | oomlout_short_code_upper | BR5214 |  

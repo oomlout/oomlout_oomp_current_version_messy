@@ -292,6 +292,18 @@ canyon |
 | name_no_size | A3 297 mm Width 420 mm Height |  
 | name_no_size_short | A3 297 Mm Width 420 Mm Height |  
 | name_no_type | A3 297 mm Width 420 mm Height |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 297_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 297_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 297W |  
+| oomlout_detail_hierarchy_4 | 420_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 420_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 420H |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a3_297_mm_width_420_mm_height |  
 | oomp_word | new_moon hamburger up |  

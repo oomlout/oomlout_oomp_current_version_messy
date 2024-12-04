@@ -337,6 +337,24 @@ sick |
 | name_no_size | 06 09  144 Teeth Shield Sh Electronic Potentiometer 17 mm |  
 | name_no_size_short | 06 09  144 Teeth Shield Sh Electronic Potentiometer 17 Mm |  
 | name_no_type | Pulley Gt2 06 09  144 Teeth Shield Sh Electronic Potentiometer 17 mm |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | pulley_gt2 |  
+| oomlout_detail_hierarchy_3_upper | PULLEY_GT2 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PULL |  
+| oomlout_detail_hierarchy_4 | 06_09_ |  
+| oomlout_detail_hierarchy_4_upper | 06_09_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 06_0 |  
+| oomlout_detail_hierarchy_5 | 144_teeth_shield_sh |  
+| oomlout_detail_hierarchy_5_upper | 144_TEETH_SHIELD_SH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 144_ |  
+| oomlout_detail_hierarchy_6 | electronic_potentiometer_17_mm |  
+| oomlout_detail_hierarchy_6_upper | ELECTRONIC_POTENTIOMETER_17_MM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | ELEC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_06_09__144_teeth_shield_sh_electronic_potentiometer_17_mm |  
 | oomp_word | frog grapes dragon |  

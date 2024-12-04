@@ -317,6 +317,27 @@ volcano |
 | name_no_size | Oobb Holder Robot Vacuum Part Robot Vacuum Roomba 500 Series Sub Assembly Caster Wheel |  
 | name_no_size_short | Oobb Holder Robot Vacuum Part Robot Vacuum Roomba 500 Series Sub Assembly Caster Wheel |  
 | name_no_type | Oomlout Oomlout Oobb Holder Robot Vacuum Part Robot Vacuum Roomba 500 Series Sub Assembly Caster Wheel |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_holder |  
+| oomlout_detail_hierarchy_4_upper | OOBB_HOLDER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | robot_vacuum_part_robot |  
+| oomlout_detail_hierarchy_5_upper | ROBOT_VACUUM_PART_ROBOT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ROBO |  
+| oomlout_detail_hierarchy_6 | vacuum_roomba_500_series |  
+| oomlout_detail_hierarchy_6_upper | VACUUM_ROOMBA_500_SERIES |  
+| oomlout_detail_hierarchy_6_upper_length_4 | VACU |  
+| oomlout_detail_hierarchy_7 | sub_assembly_caster_wheel |  
+| oomlout_detail_hierarchy_7_upper | SUB_ASSEMBLY_CASTER_WHEEL |  
+| oomlout_detail_hierarchy_7_upper_length_4 | SUB_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_holder_robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel |  
 | oomp_word | tomato pray cloud |  

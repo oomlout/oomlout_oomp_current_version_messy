@@ -360,6 +360,24 @@ name_no_color: 115 mm Width 170 mm Height
 name_no_size: Clear Front Silver Back 115 mm Width 170 mm Height
 name_no_size_short: Clear Front Silver Back 115 Mm Width 170 Mm Height
 name_no_type: 100 Micron Thickness Clear Front Silver Back 115 mm Width 170 mm Height
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: bag_grip_seal
+oomlout_detail_hierarchy_2_upper: BAG_GRIP_SEAL
+oomlout_detail_hierarchy_2_upper_length_4: BAG_
+oomlout_detail_hierarchy_3: 100_micron_thickness
+oomlout_detail_hierarchy_3_upper: 100_MICRON_THICKNESS
+oomlout_detail_hierarchy_3_upper_length_4: '100_'
+oomlout_detail_hierarchy_4: clear_front_silver_back
+oomlout_detail_hierarchy_4_upper: CLEAR_FRONT_SILVER_BACK
+oomlout_detail_hierarchy_4_upper_length_4: CLEA
+oomlout_detail_hierarchy_5: 115_mm_width
+oomlout_detail_hierarchy_5_upper: 115_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 115W
+oomlout_detail_hierarchy_6: 170_mm_height
+oomlout_detail_hierarchy_6_upper: 170_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 170H
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
 oomp_word: tophat beetle cherries

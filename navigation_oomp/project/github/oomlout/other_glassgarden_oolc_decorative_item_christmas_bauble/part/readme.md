@@ -317,6 +317,21 @@ assault |
 | name_no_size | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_size_short | Other Glassgarden Oolc Decorative Item Christmas Bauble |  
 | name_no_type | Oomlout Other Glassgarden Oolc Decorative Item Christmas Bauble |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | other_glassgarden_oolc_decorative |  
+| oomlout_detail_hierarchy_4_upper | OTHER_GLASSGARDEN_OOLC_DECORATIVE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OTHE |  
+| oomlout_detail_hierarchy_5 | item_christmas_bauble |  
+| oomlout_detail_hierarchy_5_upper | ITEM_CHRISTMAS_BAUBLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ITEM |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_other_glassgarden_oolc_decorative_item_christmas_bauble |  
 | oomp_word | egg hearts trident |  

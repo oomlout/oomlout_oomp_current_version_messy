@@ -313,6 +313,18 @@ alley |
 | name_no_size | 04 11 90 |  
 | name_no_size_short | 04 11 90 |  
 | name_no_type | Tray 04 11 90 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray |  
+| oomlout_detail_hierarchy_3_upper | TRAY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 04_11_90 |  
+| oomlout_detail_hierarchy_4_upper | 04_11_90 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 04_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_04_11_90 |  
 | oomp_word | rose tomato pill |  

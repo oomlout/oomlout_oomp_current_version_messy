@@ -339,6 +339,21 @@ prison |
 | name_no_size | 608 Size 8 mm ID 22 mm OD 7 mm Depth |  
 | name_no_size_short | 608 Size 8 Mm Id 22 Mm Od 7 Mm Depth |  
 | name_no_type | 600 Series 608 Size 8 mm ID 22 mm OD 7 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 600_series |  
+| oomlout_detail_hierarchy_3_upper | 600_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 600_ |  
+| oomlout_detail_hierarchy_4 | 608_size |  
+| oomlout_detail_hierarchy_4_upper | 608_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 608_ |  
+| oomlout_detail_hierarchy_5 | 7_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 7_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 7DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br608 |  
 | oomlout_short_code_upper | BR608 |  

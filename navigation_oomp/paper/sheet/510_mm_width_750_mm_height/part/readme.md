@@ -292,6 +292,18 @@ chief |
 | name_no_size | 510 mm Width 750 mm Height |  
 | name_no_size_short | 510 Mm Width 750 Mm Height |  
 | name_no_type | 510 mm Width 750 mm Height |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 510_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 510_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 510W |  
+| oomlout_detail_hierarchy_4 | 750_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 750_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 750H |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_510_mm_width_750_mm_height |  
 | oomp_word | heart cake feet |  

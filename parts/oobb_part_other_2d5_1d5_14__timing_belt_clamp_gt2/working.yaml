@@ -359,6 +359,21 @@ name_no_color: 2D51D514Timingbeltclampgt2
 name_no_size: 2D5 1D5 14  Timing Belt Clamp Gt2
 name_no_size_short: 2D5 1D5 14  Timing Belt Clamp Gt2
 name_no_type: Other 2D5 1D5 14  Timing Belt Clamp Gt2
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: other
+oomlout_detail_hierarchy_3_upper: OTHER
+oomlout_detail_hierarchy_3_upper_length_4: OTHE
+oomlout_detail_hierarchy_4: 2d5_1d5_14_
+oomlout_detail_hierarchy_4_upper: 2D5_1D5_14_
+oomlout_detail_hierarchy_4_upper_length_4: 2D5_
+oomlout_detail_hierarchy_5: timing_belt_clamp_gt2
+oomlout_detail_hierarchy_5_upper: TIMING_BELT_CLAMP_GT2
+oomlout_detail_hierarchy_5_upper_length_4: TIMI
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_other_2d5_1d5_14__timing_belt_clamp_gt2
 oomp_word: lemon rocket droplet

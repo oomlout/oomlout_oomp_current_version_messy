@@ -313,6 +313,18 @@ tomorrow |
 | name_no_size | 13 09 |  
 | name_no_size_short | 13 09 |  
 | name_no_type | SMD Magazine Joiner 13 09 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine_joiner |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE_JOINER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 13_09 |  
+| oomlout_detail_hierarchy_4_upper | 13_09 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 13_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_joiner_13_09 |  
 | oomp_word | rainbow rocket baby |  

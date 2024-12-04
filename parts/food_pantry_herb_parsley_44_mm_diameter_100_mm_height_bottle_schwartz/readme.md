@@ -365,6 +365,24 @@ peasant |
 | name_no_size_short | Parsley 44 Mm Diameter 100 Mm Height Bottle Schwartz |  
 | name_no_type | Herb Parsley 44 mm Diameter 100 mm Height Bottle Schwartz |  
 | name_short | Parsley |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | pantry |  
+| oomlout_detail_hierarchy_2_upper | PANTRY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PANT |  
+| oomlout_detail_hierarchy_3 | herb |  
+| oomlout_detail_hierarchy_3_upper | HERB |  
+| oomlout_detail_hierarchy_3_upper_length_4 | HERB |  
+| oomlout_detail_hierarchy_4 | parsley |  
+| oomlout_detail_hierarchy_4_upper | PARSLEY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PARS |  
+| oomlout_detail_hierarchy_5 | 100_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 100_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 100H |  
+| oomlout_detail_hierarchy_6 | schwartz |  
+| oomlout_detail_hierarchy_6_upper | SCHWARTZ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SCHW |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_pantry_herb_parsley_44_mm_diameter_100_mm_height_bottle_schwartz |  
 | oomp_word | leopard trumpet fries |  

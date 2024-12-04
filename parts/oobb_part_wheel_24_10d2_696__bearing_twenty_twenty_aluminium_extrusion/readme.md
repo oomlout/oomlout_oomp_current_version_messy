@@ -337,6 +337,21 @@ diary |
 | name_no_size | 24 10D2 696  Bearing Twenty Twenty Aluminium Extrusion |  
 | name_no_size_short | 24 10D2 696  Bearing Twenty Twenty Aluminium Extrusion |  
 | name_no_type | Wheel 24 10D2 696  Bearing Twenty Twenty Aluminium Extrusion |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | wheel |  
+| oomlout_detail_hierarchy_3_upper | WHEEL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WHEE |  
+| oomlout_detail_hierarchy_4 | 24_10d2_696_ |  
+| oomlout_detail_hierarchy_4_upper | 24_10D2_696_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 24_1 |  
+| oomlout_detail_hierarchy_5 | bearing_twenty_twenty_aluminium_extrusion |  
+| oomlout_detail_hierarchy_5_upper | BEARING_TWENTY_TWENTY_ALUMINIUM_EXTRUSION |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BEAR |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wheel_24_10d2_696__bearing_twenty_twenty_aluminium_extrusion |  
 | oomp_word | factory question tomato |  

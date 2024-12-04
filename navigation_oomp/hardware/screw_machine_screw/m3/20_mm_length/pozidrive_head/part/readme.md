@@ -340,6 +340,21 @@ drama |
 | name_no_size | 20 mm Length Pozidrive Head |  
 | name_no_size_short | 20 Mm Length Pozidrive Head |  
 | name_no_type | M3 20 mm Length Pozidrive Head |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | smachine_screw |  
+| oomlout_detail_hierarchy_2_upper | SMACHINE_SCREW |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SMAC |  
+| oomlout_detail_hierarchy_3 | m3 |  
+| oomlout_detail_hierarchy_3_upper | M3 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M3 |  
+| oomlout_detail_hierarchy_4 | 20_mm_length |  
+| oomlout_detail_hierarchy_4_upper | 20_MM_LENGTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 20LE |  
+| oomlout_detail_hierarchy_5 | pozidrive_head |  
+| oomlout_detail_hierarchy_5_upper | POZIDRIVE_HEAD |  
+| oomlout_detail_hierarchy_5_upper_length_4 | POZI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | ms3m20pz |  
 | oomlout_short_code_upper | MS3M20PZ |  

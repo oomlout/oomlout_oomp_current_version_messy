@@ -337,6 +337,21 @@ obey |
 | name_no_size | 05 03  Doughnut 3 |  
 | name_no_size_short | 05 03  Doughnut 3 |  
 | name_no_type | Circle 05 03  Doughnut 3 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | circle |  
+| oomlout_detail_hierarchy_3_upper | CIRCLE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CIRC |  
+| oomlout_detail_hierarchy_4 | 05_03_ |  
+| oomlout_detail_hierarchy_4_upper | 05_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | doughnut_3 |  
+| oomlout_detail_hierarchy_5_upper | DOUGHNUT_3 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | DOUG |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_circle_05_03__doughnut_3 |  
 | oomp_word | violin books angel |  

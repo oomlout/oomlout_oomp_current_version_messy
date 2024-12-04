@@ -313,6 +313,15 @@ gloom |
 | name_no_size | Roomba540 |  
 | name_no_size_short | Roomba540 |  
 | name_no_type | Roomba540 |  
+| oomlout_detail_hierarchy_1 | robot_vacuum |  
+| oomlout_detail_hierarchy_1_upper | ROBOT_VACUUM |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ROBO |  
+| oomlout_detail_hierarchy_2 | roomba |  
+| oomlout_detail_hierarchy_2_upper | ROOMBA |  
+| oomlout_detail_hierarchy_2_upper_length_4 | ROOM |  
+| oomlout_detail_hierarchy_3 | 540 |  
+| oomlout_detail_hierarchy_3_upper | 540 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 540 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_robot_vacuum_roomba_540 |  
 | oomp_word | star recycle grapes |  

@@ -335,6 +335,18 @@ name_no_color: Anengst180
 name_no_size: Anengst180
 name_no_size_short: Anengst180
 name_no_type: Aneng St180
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: electrical_meter_clamp
+oomlout_detail_hierarchy_2_upper: ELECTRICAL_METER_CLAMP
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: aneng
+oomlout_detail_hierarchy_3_upper: ANENG
+oomlout_detail_hierarchy_3_upper_length_4: ANEN
+oomlout_detail_hierarchy_4: st180
+oomlout_detail_hierarchy_4_upper: ST180
+oomlout_detail_hierarchy_4_upper_length_4: ST18
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_electrical_meter_clamp_aneng_st180
 oomp_word: dolls droplet cupid

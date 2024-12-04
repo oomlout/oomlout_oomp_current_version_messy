@@ -339,6 +339,21 @@ boat |
 | name_no_size | 6006 Size 30 mm ID 55 mm OD 13 mm Depth |  
 | name_no_size_short | 6006 Size 30 Mm Id 55 Mm Od 13 Mm Depth |  
 | name_no_type | 6000 Series 6006 Size 30 mm ID 55 mm OD 13 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6000_series |  
+| oomlout_detail_hierarchy_3_upper | 6000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6000 |  
+| oomlout_detail_hierarchy_4 | 6006_size |  
+| oomlout_detail_hierarchy_4_upper | 6006_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6006 |  
+| oomlout_detail_hierarchy_5 | 13_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 13_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 13DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6006 |  
 | oomlout_short_code_upper | BR6006 |  

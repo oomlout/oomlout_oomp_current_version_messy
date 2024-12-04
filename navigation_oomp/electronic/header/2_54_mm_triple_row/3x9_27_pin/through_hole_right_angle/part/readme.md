@@ -338,6 +338,21 @@ staff |
 | name_no_size | 3X9 27 Pin Through Hole Right Angle |  
 | name_no_size_short | 3X9 27 Pin Through Hole Right Angle |  
 | name_no_type | 2 54 mm Triple Row 3X9 27 Pin Through Hole Right Angle |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_54_mm_triple_row |  
+| oomlout_detail_hierarchy_3_upper | 2_54_MM_TRIPLE_ROW |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | 3x9_27_pin |  
+| oomlout_detail_hierarchy_4_upper | 3X9_27_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 3X9_ |  
+| oomlout_detail_hierarchy_5 | through_hole_right_angle |  
+| oomlout_detail_hierarchy_5_upper | THROUGH_HOLE_RIGHT_ANGLE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_54_mm_triple_row_3x9_27_pin_through_hole_right_angle |  
 | oomp_word | herb two ok |  

@@ -334,6 +334,24 @@ name_no_color: 42mmwidth42mmheight48mmdepth
 name_no_size: 42 mm Width 42 mm Height 48 mm Depth
 name_no_size_short: 42 Mm Width 42 Mm Height 48 Mm Depth
 name_no_type: Nema 17 42 mm Width 42 mm Height 48 mm Depth
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_stepper
+oomlout_detail_hierarchy_2_upper: MOTOR_STEPPER
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: nema_17
+oomlout_detail_hierarchy_3_upper: NEMA_17
+oomlout_detail_hierarchy_3_upper_length_4: NEMA
+oomlout_detail_hierarchy_4: 42_mm_width
+oomlout_detail_hierarchy_4_upper: 42_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 42WI
+oomlout_detail_hierarchy_5: 42_mm_height
+oomlout_detail_hierarchy_5_upper: 42_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 42HE
+oomlout_detail_hierarchy_6: 48_mm_depth
+oomlout_detail_hierarchy_6_upper: 48_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 48DE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
 oomp_word: dancer books heart

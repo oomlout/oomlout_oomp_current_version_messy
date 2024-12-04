@@ -364,6 +364,33 @@ road |
 | name_no_size_short | So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640 |  
 | name_no_type | So28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640 |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ic |  
+| oomlout_detail_hierarchy_2_upper | IC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IC |  
+| oomlout_detail_hierarchy_3 | soic_28_wide |  
+| oomlout_detail_hierarchy_3_upper | SOIC_28_WIDE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SOIC |  
+| oomlout_detail_hierarchy_4 | led_driver |  
+| oomlout_detail_hierarchy_4_upper | LED_DRIVER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | LED_ |  
+| oomlout_detail_hierarchy_5 | led_matrix_driver_16 |  
+| oomlout_detail_hierarchy_5_upper | LED_MATRIX_DRIVER_16 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | LED_ |  
+| oomlout_detail_hierarchy_6 | x_8 |  
+| oomlout_detail_hierarchy_6_upper | X_8 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | X_8 |  
+| oomlout_detail_hierarchy_7 | wuxi_i_core_electronics |  
+| oomlout_detail_hierarchy_7_upper | WUXI_I_CORE_ELECTRONICS |  
+| oomlout_detail_hierarchy_7_upper_length_4 | WUXI |  
+| oomlout_detail_hierarchy_8 | co_ltd |  
+| oomlout_detail_hierarchy_8_upper | CO_LTD |  
+| oomlout_detail_hierarchy_8_upper_length_4 | CO_L |  
+| oomlout_detail_hierarchy_9 | aip1640 |  
+| oomlout_detail_hierarchy_9_upper | AIP1640 |  
+| oomlout_detail_hierarchy_9_upper_length_4 | AIP1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640 |  
 | oomp_word | sparkles wink penguin |  

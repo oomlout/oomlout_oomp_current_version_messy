@@ -358,6 +358,30 @@ name_no_color: 020210Nm8mmtapewidth15mmtapethickness1D5
 name_no_size: 02 02 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
 name_no_size_short: 02 02 10 Nm 8 Mm Tape Width 1 5 Mm Tape Thickness  1D5
 name_no_type: SMD Magazine 02 02 10 Nm 8 mm Tape Width 1 5 mm Tape Thickness  1D5
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 02_02_10_nm
+oomlout_detail_hierarchy_4_upper: 02_02_10_NM
+oomlout_detail_hierarchy_4_upper_length_4: '02_0'
+oomlout_detail_hierarchy_5: 8_mm_tape_width
+oomlout_detail_hierarchy_5_upper: 8_MM_TAPE_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 8TAP
+oomlout_detail_hierarchy_6: 1_5_mm_tape
+oomlout_detail_hierarchy_6_upper: 1_5_MM_TAPE
+oomlout_detail_hierarchy_6_upper_length_4: 1_5T
+oomlout_detail_hierarchy_7: thickness_
+oomlout_detail_hierarchy_7_upper: THICKNESS_
+oomlout_detail_hierarchy_7_upper_length_4: THIC
+oomlout_detail_hierarchy_8: 1d5
+oomlout_detail_hierarchy_8_upper: 1D5
+oomlout_detail_hierarchy_8_upper_length_4: 1D5
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_smd_magazine_02_02_10_nm_8_mm_tape_width_1_5_mm_tape_thickness__1d5
 oomp_word: water_buffalo fax honey_pot

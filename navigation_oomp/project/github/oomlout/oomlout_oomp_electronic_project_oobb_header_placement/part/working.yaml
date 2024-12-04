@@ -337,6 +337,21 @@ name_no_color: Oomp Electronic Oobb Header Placement
 name_no_size: Oomp Electronic Oobb Header Placement
 name_no_size_short: Oomp Electronic Oobb Header Placement
 name_no_type: Oomlout Oomlout Oomp Electronic Oobb Header Placement
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oomp_electronic_project
+oomlout_detail_hierarchy_4_upper: OOMP_ELECTRONIC_PROJECT
+oomlout_detail_hierarchy_4_upper_length_4: OOMP
+oomlout_detail_hierarchy_5: oobb_header_placement
+oomlout_detail_hierarchy_5_upper: OOBB_HEADER_PLACEMENT
+oomlout_detail_hierarchy_5_upper_length_4: OOBB
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_electronic_project_oobb_header_placement
 oomp_word: pray hamster calendar

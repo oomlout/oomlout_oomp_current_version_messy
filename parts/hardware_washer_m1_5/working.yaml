@@ -313,6 +313,15 @@ name_no_color: M15
 name_no_size: M1 5
 name_no_size_short: M1 5
 name_no_type: M1 5
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: washer
+oomlout_detail_hierarchy_2_upper: WASHER
+oomlout_detail_hierarchy_2_upper_length_4: WASH
+oomlout_detail_hierarchy_3: m1_5
+oomlout_detail_hierarchy_3_upper: M1_5
+oomlout_detail_hierarchy_3_upper_length_4: M1_5
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_washer_m1_5
 oomp_word: baby bowling hatching_chick

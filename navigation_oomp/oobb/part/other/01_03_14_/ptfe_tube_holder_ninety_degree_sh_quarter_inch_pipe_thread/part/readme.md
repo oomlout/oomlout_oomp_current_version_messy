@@ -337,6 +337,27 @@ tube |
 | name_no_size | 01 03 14  Ptfe Tube Holder Ninety Degree Sh Quarter Inch Pipe Thread |  
 | name_no_size_short | 01 03 14  Ptfe Tube Holder Ninety Degree Sh Quarter Inch Pipe Thread |  
 | name_no_type | Other 01 03 14  Ptfe Tube Holder Ninety Degree Sh Quarter Inch Pipe Thread |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | other |  
+| oomlout_detail_hierarchy_3_upper | OTHER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OTHE |  
+| oomlout_detail_hierarchy_4 | 01_03_14_ |  
+| oomlout_detail_hierarchy_4_upper | 01_03_14_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 01_0 |  
+| oomlout_detail_hierarchy_5 | ptfe_tube_holder_ninety |  
+| oomlout_detail_hierarchy_5_upper | PTFE_TUBE_HOLDER_NINETY |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PTFE |  
+| oomlout_detail_hierarchy_6 | degree_sh_quarter_inch |  
+| oomlout_detail_hierarchy_6_upper | DEGREE_SH_QUARTER_INCH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | DEGR |  
+| oomlout_detail_hierarchy_7 | pipe_thread |  
+| oomlout_detail_hierarchy_7_upper | PIPE_THREAD |  
+| oomlout_detail_hierarchy_7_upper_length_4 | PIPE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_other_01_03_14__ptfe_tube_holder_ninety_degree_sh_quarter_inch_pipe_thread |  
 | oomp_word | ok shoe hospital |  

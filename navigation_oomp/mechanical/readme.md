@@ -66,6 +66,7 @@
   * [micro](motor_servo_remote_control/micro)
     * [mg90s](motor_servo_remote_control/micro/mg90s)
     * [sg90](motor_servo_remote_control/micro/sg90)
+      * [pcb](motor_servo_remote_control/micro/sg90/pcb)
   * [mini](motor_servo_remote_control/mini)
   * [standard](motor_servo_remote_control/standard)
 * [motor_stepper](motor_stepper)

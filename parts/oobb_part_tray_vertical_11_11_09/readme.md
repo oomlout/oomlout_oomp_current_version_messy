@@ -313,6 +313,18 @@ puppy |
 | name_no_size | 11 11 09 |  
 | name_no_size_short | 11 11 09 |  
 | name_no_type | Tray Vertical 11 11 09 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tray_vertical |  
+| oomlout_detail_hierarchy_3_upper | TRAY_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TRAY |  
+| oomlout_detail_hierarchy_4 | 11_11_09 |  
+| oomlout_detail_hierarchy_4_upper | 11_11_09 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 11_1 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tray_vertical_11_11_09 |  
 | oomp_word | gift camel bread |  

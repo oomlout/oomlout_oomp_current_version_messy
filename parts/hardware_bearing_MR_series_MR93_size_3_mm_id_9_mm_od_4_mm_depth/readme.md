@@ -339,6 +339,21 @@ vibrant |
 | name_no_size | Mr93 Size 3 mm ID 9 mm OD 4 mm Depth |  
 | name_no_size_short | Mr93 Size 3 Mm Id 9 Mm Od 4 Mm Depth |  
 | name_no_type | Mr Series Mr93 Size 3 mm ID 9 mm OD 4 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | MR_series |  
+| oomlout_detail_hierarchy_3_upper | MR_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MR_S |  
+| oomlout_detail_hierarchy_4 | MR93_size |  
+| oomlout_detail_hierarchy_4_upper | MR93_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MR93 |  
+| oomlout_detail_hierarchy_5 | 4_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 4_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 4DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brMR93 |  
 | oomlout_short_code_upper | BRMR93 |  

@@ -418,6 +418,39 @@ name_no_size_short: White 5 Cell Width 5 Cell Height 1820 Mm Width 1820 Mm Heigh
   390 Mm Depth Ikea 703 015 37
 name_no_type: Ikea Kallax White 5 Cell Width 5 Cell Height 1820 mm Width 1820 mm Height
   390 mm Depth Ikea 703 015 37
+oomlout_detail_hierarchy_1: furniture
+oomlout_detail_hierarchy_10: ikea
+oomlout_detail_hierarchy_10_upper: IKEA
+oomlout_detail_hierarchy_10_upper_length_4: IKEA
+oomlout_detail_hierarchy_11: '703_015_37'
+oomlout_detail_hierarchy_11_upper: '703_015_37'
+oomlout_detail_hierarchy_11_upper_length_4: '703_'
+oomlout_detail_hierarchy_1_upper: FURNITURE
+oomlout_detail_hierarchy_1_upper_length_4: FURN
+oomlout_detail_hierarchy_2: shelf
+oomlout_detail_hierarchy_2_upper: SHELF
+oomlout_detail_hierarchy_2_upper_length_4: SHEL
+oomlout_detail_hierarchy_3: ikea_kallax
+oomlout_detail_hierarchy_3_upper: IKEA_KALLAX
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: white
+oomlout_detail_hierarchy_4_upper: WHITE
+oomlout_detail_hierarchy_4_upper_length_4: WHIT
+oomlout_detail_hierarchy_5: 5_cell_width_5
+oomlout_detail_hierarchy_5_upper: 5_CELL_WIDTH_5
+oomlout_detail_hierarchy_5_upper_length_4: 5_CE
+oomlout_detail_hierarchy_6: cell_height
+oomlout_detail_hierarchy_6_upper: CELL_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: CELL
+oomlout_detail_hierarchy_7: 1820_mm_width
+oomlout_detail_hierarchy_7_upper: 1820_MM_WIDTH
+oomlout_detail_hierarchy_7_upper_length_4: '1820'
+oomlout_detail_hierarchy_8: 1820_mm_height
+oomlout_detail_hierarchy_8_upper: 1820_MM_HEIGHT
+oomlout_detail_hierarchy_8_upper_length_4: '1820'
+oomlout_detail_hierarchy_9: 390_mm_depth
+oomlout_detail_hierarchy_9_upper: 390_MM_DEPTH
+oomlout_detail_hierarchy_9_upper_length_4: 390D
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shelf_ikea_kallax_white_5_cell_width_5_cell_height_1820_mm_width_1820_mm_height_390_mm_depth_ikea_703_015_37
 oomp_word: corn baby car

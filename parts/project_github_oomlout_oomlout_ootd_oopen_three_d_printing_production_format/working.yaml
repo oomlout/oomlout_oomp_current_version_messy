@@ -339,6 +339,21 @@ name_no_color: Ootd Oopen Three D Printing Production Format
 name_no_size: Ootd Oopen Three D Printing Production Format
 name_no_size_short: Ootd Oopen Three D Printing Production Format
 name_no_type: Oomlout Oomlout Ootd Oopen Three D Printing Production Format
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: ootd_oopen_three
+oomlout_detail_hierarchy_4_upper: OOTD_OOPEN_THREE
+oomlout_detail_hierarchy_4_upper_length_4: OOTD
+oomlout_detail_hierarchy_5: d_printing_production_format
+oomlout_detail_hierarchy_5_upper: D_PRINTING_PRODUCTION_FORMAT
+oomlout_detail_hierarchy_5_upper_length_4: D_PR
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_ootd_oopen_three_d_printing_production_format
 oomp_word: anger question chicken

@@ -340,6 +340,21 @@ attend |
 | name_no_size | 3000Mlcapacity140mmdiameter280mmdepthkilner0025494 |  
 | name_no_size_short | 3000Mlcapacity140Mmdiameter280Mmdepthkilner0025494 |  
 | name_no_type | 3000 Ml Capacity 140 mm Diameter 280 mm Depth Kilner 0025 494 |  
+| oomlout_detail_hierarchy_1 | storage |  
+| oomlout_detail_hierarchy_1_upper | STORAGE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | STOR |  
+| oomlout_detail_hierarchy_2 | jar_clip_top_kilner |  
+| oomlout_detail_hierarchy_2_upper | JAR_CLIP_TOP_KILNER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_3 | 280_mm_depth |  
+| oomlout_detail_hierarchy_3_upper | 280_MM_DEPTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 280D |  
+| oomlout_detail_hierarchy_4 | kilner |  
+| oomlout_detail_hierarchy_4_upper | KILNER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | KILN |  
+| oomlout_detail_hierarchy_5 | 0025_494 |  
+| oomlout_detail_hierarchy_5_upper | 0025_494 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 0025 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494 |  
 | oomp_word | hatched_chick clipboard pineapple |  

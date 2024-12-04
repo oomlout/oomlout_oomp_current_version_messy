@@ -298,6 +298,18 @@ neck |
 | name_no_size | Copper |  
 | name_no_size_short | Copper |  
 | name_no_type | Ikea Slattbo Copper |  
+| oomlout_detail_hierarchy_1 | lighting |  
+| oomlout_detail_hierarchy_1_upper | LIGHTING |  
+| oomlout_detail_hierarchy_1_upper_length_4 | LIGH |  
+| oomlout_detail_hierarchy_2 | pendant |  
+| oomlout_detail_hierarchy_2_upper | PENDANT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PEND |  
+| oomlout_detail_hierarchy_3 | ikea_slattbo |  
+| oomlout_detail_hierarchy_3_upper | IKEA_SLATTBO |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_4 | copper |  
+| oomlout_detail_hierarchy_4_upper | COPPER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | COPP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_lighting_pendant_ikea_slattbo_copper |  
 | oomp_word | smile dog shirt |  

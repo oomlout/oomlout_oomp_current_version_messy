@@ -317,6 +317,21 @@ shell |
 | name_no_size | Oomp Base Three D Printer Three D Model |  
 | name_no_size_short | Oomp Base Three D Printer Three D Model |  
 | name_no_type | Oomlout Oomp Base Three D Printer Three D Model |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oomp_base_three_d |  
+| oomlout_detail_hierarchy_4_upper | OOMP_BASE_THREE_D |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOMP |  
+| oomlout_detail_hierarchy_5 | printer_three_d_model |  
+| oomlout_detail_hierarchy_5_upper | PRINTER_THREE_D_MODEL |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PRIN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomp_base_three_d_printer_three_d_model |  
 | oomp_word | hospital hatched_chick ear |  

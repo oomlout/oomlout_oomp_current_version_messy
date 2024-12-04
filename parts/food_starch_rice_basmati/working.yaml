@@ -338,6 +338,18 @@ name_no_size: Basmati
 name_no_size_short: Basmati
 name_no_type: Rice Basmati
 name_short: Rice Basmati
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: rice
+oomlout_detail_hierarchy_3_upper: RICE
+oomlout_detail_hierarchy_3_upper_length_4: RICE
+oomlout_detail_hierarchy_4: basmati
+oomlout_detail_hierarchy_4_upper: BASMATI
+oomlout_detail_hierarchy_4_upper_length_4: BASM
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_rice_basmati
 oomp_word: hamster blowfish ghost

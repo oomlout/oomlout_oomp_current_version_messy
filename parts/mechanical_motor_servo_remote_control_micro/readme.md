@@ -313,6 +313,15 @@ bind |
 | name_no_size | Micro |  
 | name_no_size_short | Micro |  
 | name_no_type | Micro |  
+| oomlout_detail_hierarchy_1 | mechanical |  
+| oomlout_detail_hierarchy_1_upper | MECHANICAL |  
+| oomlout_detail_hierarchy_1_upper_length_4 | MECH |  
+| oomlout_detail_hierarchy_2 | motor_servo_remote_control |  
+| oomlout_detail_hierarchy_2_upper | MOTOR_SERVO_REMOTE_CONTROL |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MOTO |  
+| oomlout_detail_hierarchy_3 | micro |  
+| oomlout_detail_hierarchy_3_upper | MICRO |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MICR |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_mechanical_motor_servo_remote_control_micro |  
 | oomp_word | computer melon sunflower |  

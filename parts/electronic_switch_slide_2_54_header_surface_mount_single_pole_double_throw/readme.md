@@ -338,6 +338,21 @@ grief |
 | name_no_size | Surface Mount Single Pole Double Throw |  
 | name_no_size_short | Surface Mount Single Pole Double Throw |  
 | name_no_type | 2 54 Header Surface Mount Single Pole Double Throw |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | switch_slide |  
+| oomlout_detail_hierarchy_2_upper | SWITCH_SLIDE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SWIT |  
+| oomlout_detail_hierarchy_3 | 2_54_header |  
+| oomlout_detail_hierarchy_3_upper | 2_54_HEADER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_54 |  
+| oomlout_detail_hierarchy_4 | surface_mount |  
+| oomlout_detail_hierarchy_4_upper | SURFACE_MOUNT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SURF |  
+| oomlout_detail_hierarchy_5 | single_pole_double_throw |  
+| oomlout_detail_hierarchy_5_upper | SINGLE_POLE_DOUBLE_THROW |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SING |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw |  
 | oomp_word | wink mushroom rose |  

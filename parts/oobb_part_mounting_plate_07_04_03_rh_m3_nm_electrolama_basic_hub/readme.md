@@ -313,6 +313,21 @@ office |
 | name_no_size | 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
 | name_no_size_short | 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
 | name_no_type | Mounting Plate 07 04 03 Rh M3 Nm Electrolama Basic Hub |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | mounting_plate |  
+| oomlout_detail_hierarchy_3_upper | MOUNTING_PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MOUN |  
+| oomlout_detail_hierarchy_4 | 07_04_03_rh |  
+| oomlout_detail_hierarchy_4_upper | 07_04_03_RH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | m3_nm_electrolama_basic_hub |  
+| oomlout_detail_hierarchy_5_upper | M3_NM_ELECTROLAMA_BASIC_HUB |  
+| oomlout_detail_hierarchy_5_upper_length_4 | M3_N |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_mounting_plate_07_04_03_rh_m3_nm_electrolama_basic_hub |  
 | oomp_word | clubs frog clubs |  

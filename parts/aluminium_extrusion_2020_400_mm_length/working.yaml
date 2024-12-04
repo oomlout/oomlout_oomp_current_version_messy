@@ -337,6 +337,15 @@ name_no_color: 400mmlength
 name_no_size: 400mmlength
 name_no_size_short: 400Mmlength
 name_no_type: 400 mm Length
+oomlout_detail_hierarchy_1: aluminium_extrusion
+oomlout_detail_hierarchy_1_upper: ALUMINIUM_EXTRUSION
+oomlout_detail_hierarchy_1_upper_length_4: ALUM
+oomlout_detail_hierarchy_2: '2020'
+oomlout_detail_hierarchy_2_upper: '2020'
+oomlout_detail_hierarchy_2_upper_length_4: '2020'
+oomlout_detail_hierarchy_3: 400_mm_length
+oomlout_detail_hierarchy_3_upper: 400_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 400L
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_aluminium_extrusion_2020_400_mm_length
 oomp_word: skull ambulance hammer

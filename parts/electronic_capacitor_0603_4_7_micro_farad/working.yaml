@@ -348,6 +348,18 @@ name_no_color: 47Microfarad
 name_no_size: 4 7 Micro Farad
 name_no_size_short: 4 7 Micro Farad
 name_no_type: 0603 4 7 Micro Farad
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: capacitor
+oomlout_detail_hierarchy_2_upper: CAPACITOR
+oomlout_detail_hierarchy_2_upper_length_4: CAPA
+oomlout_detail_hierarchy_3: '0603'
+oomlout_detail_hierarchy_3_upper: '0603'
+oomlout_detail_hierarchy_3_upper_length_4: '0603'
+oomlout_detail_hierarchy_4: 4_7_micro_farad
+oomlout_detail_hierarchy_4_upper: 4_7_MICRO_FARAD
+oomlout_detail_hierarchy_4_upper_length_4: '4_7_'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_capacitor_0603_4_7_micro_farad
 oomp_word: palm_tree eyeglasses pill

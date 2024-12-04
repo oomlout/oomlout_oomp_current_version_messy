@@ -389,6 +389,39 @@ club |
 | name_no_size | White 4 Cell Width 4 Cell Height 1470 mm Width 1470 mm Height 390 mm Depth Ikea 302 758 61 |  
 | name_no_size_short | White 4 Cell Width 4 Cell Height 1470 Mm Width 1470 Mm Height 390 Mm Depth Ikea 302 758 61 |  
 | name_no_type | Ikea Kallax White 4 Cell Width 4 Cell Height 1470 mm Width 1470 mm Height 390 mm Depth Ikea 302 758 61 |  
+| oomlout_detail_hierarchy_1 | furniture |  
+| oomlout_detail_hierarchy_10 | ikea |  
+| oomlout_detail_hierarchy_10_upper | IKEA |  
+| oomlout_detail_hierarchy_10_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_11 | 302_758_61 |  
+| oomlout_detail_hierarchy_11_upper | 302_758_61 |  
+| oomlout_detail_hierarchy_11_upper_length_4 | 302_ |  
+| oomlout_detail_hierarchy_1_upper | FURNITURE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FURN |  
+| oomlout_detail_hierarchy_2 | shelf |  
+| oomlout_detail_hierarchy_2_upper | SHELF |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEL |  
+| oomlout_detail_hierarchy_3 | ikea_kallax |  
+| oomlout_detail_hierarchy_3_upper | IKEA_KALLAX |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_4 | white |  
+| oomlout_detail_hierarchy_4_upper | WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_5 | 4_cell_width_4 |  
+| oomlout_detail_hierarchy_5_upper | 4_CELL_WIDTH_4 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 4_CE |  
+| oomlout_detail_hierarchy_6 | cell_height |  
+| oomlout_detail_hierarchy_6_upper | CELL_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | CELL |  
+| oomlout_detail_hierarchy_7 | 1470_mm_width |  
+| oomlout_detail_hierarchy_7_upper | 1470_MM_WIDTH |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 1470 |  
+| oomlout_detail_hierarchy_8 | 1470_mm_height |  
+| oomlout_detail_hierarchy_8_upper | 1470_MM_HEIGHT |  
+| oomlout_detail_hierarchy_8_upper_length_4 | 1470 |  
+| oomlout_detail_hierarchy_9 | 390_mm_depth |  
+| oomlout_detail_hierarchy_9_upper | 390_MM_DEPTH |  
+| oomlout_detail_hierarchy_9_upper_length_4 | 390D |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61 |  
 | oomp_word | hearts anchor blossom |  

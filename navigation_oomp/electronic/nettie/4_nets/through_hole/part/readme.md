@@ -317,6 +317,18 @@ mountain |
 | name_no_size | Through Hole |  
 | name_no_size_short | Through Hole |  
 | name_no_type | 4 Nets Through Hole |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | nettie |  
+| oomlout_detail_hierarchy_2_upper | NETTIE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | NETT |  
+| oomlout_detail_hierarchy_3 | 4_nets |  
+| oomlout_detail_hierarchy_3_upper | 4_NETS |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 4_NE |  
+| oomlout_detail_hierarchy_4 | through_hole |  
+| oomlout_detail_hierarchy_4_upper | THROUGH_HOLE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | THRO |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_nettie_4_nets_through_hole |  
 | oomp_word | shirt octopus boot |  

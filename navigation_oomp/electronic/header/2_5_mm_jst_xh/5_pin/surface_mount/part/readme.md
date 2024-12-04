@@ -338,6 +338,21 @@ hair |
 | name_no_size | 5 Pin Surface Mount |  
 | name_no_size_short | 5 Pin Surface Mount |  
 | name_no_type | 2 5 mm Jst Xh 5 Pin Surface Mount |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | header |  
+| oomlout_detail_hierarchy_2_upper | HEADER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAD |  
+| oomlout_detail_hierarchy_3 | 2_5_mm_jst_xh |  
+| oomlout_detail_hierarchy_3_upper | 2_5_MM_JST_XH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2_5J |  
+| oomlout_detail_hierarchy_4 | 5_pin |  
+| oomlout_detail_hierarchy_4_upper | 5_PIN |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 5_PI |  
+| oomlout_detail_hierarchy_5 | surface_mount |  
+| oomlout_detail_hierarchy_5_upper | SURFACE_MOUNT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SURF |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_header_2_5_mm_jst_xh_5_pin_surface_mount |  
 | oomp_word | hatched_chick koala headphones |  

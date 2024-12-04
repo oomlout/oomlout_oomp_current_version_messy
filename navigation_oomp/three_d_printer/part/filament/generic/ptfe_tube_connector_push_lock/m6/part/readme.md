@@ -361,6 +361,24 @@ left |
 | name_no_size | Generic Ptfe Tube Connector Push Lock M6 |  
 | name_no_size_short | Generic Ptfe Tube Connector Push Lock M6 |  
 | name_no_type | Filament Generic Ptfe Tube Connector Push Lock M6 |  
+| oomlout_detail_hierarchy_1 | three_d_printer |  
+| oomlout_detail_hierarchy_1_upper | THREE_D_PRINTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | filament |  
+| oomlout_detail_hierarchy_3_upper | FILAMENT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | FILA |  
+| oomlout_detail_hierarchy_4 | generic |  
+| oomlout_detail_hierarchy_4_upper | GENERIC |  
+| oomlout_detail_hierarchy_4_upper_length_4 | GENE |  
+| oomlout_detail_hierarchy_5 | ptfe_tube_connector_push_lock |  
+| oomlout_detail_hierarchy_5_upper | PTFE_TUBE_CONNECTOR_PUSH_LOCK |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PTFE |  
+| oomlout_detail_hierarchy_6 | m6 |  
+| oomlout_detail_hierarchy_6_upper | M6 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | M6 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_part_filament_generic_ptfe_tube_connector_push_lock_m6 |  
 | oomp_word | envelope lock fire |  

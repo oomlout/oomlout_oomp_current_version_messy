@@ -337,6 +337,21 @@ wrong |
 | name_no_size | 02 02 29  Ninety Degree |  
 | name_no_size_short | 02 02 29  Ninety Degree |  
 | name_no_type | Plate 02 02 29  Ninety Degree |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | plate |  
+| oomlout_detail_hierarchy_3_upper | PLATE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PLAT |  
+| oomlout_detail_hierarchy_4 | 02_02_29_ |  
+| oomlout_detail_hierarchy_4_upper | 02_02_29_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_0 |  
+| oomlout_detail_hierarchy_5 | ninety_degree |  
+| oomlout_detail_hierarchy_5_upper | NINETY_DEGREE |  
+| oomlout_detail_hierarchy_5_upper_length_4 | NINE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_plate_02_02_29__ninety_degree |  
 | oomp_word | angel clap cupid |  

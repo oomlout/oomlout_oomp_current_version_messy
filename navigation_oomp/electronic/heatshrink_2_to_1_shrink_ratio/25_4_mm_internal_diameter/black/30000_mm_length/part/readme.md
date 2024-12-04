@@ -338,6 +338,24 @@ pretty |
 | name_no_size | Black 30000 mm Length |  
 | name_no_size_short | Black 30k Mm Length |  
 | name_no_type | 25 4 mm Internal Diameter Black 30000 mm Length |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | heatshrink_2_to_1 |  
+| oomlout_detail_hierarchy_2_upper | HEATSHRINK_2_TO_1 |  
+| oomlout_detail_hierarchy_2_upper_length_4 | HEAT |  
+| oomlout_detail_hierarchy_3 | shrink_ratio |  
+| oomlout_detail_hierarchy_3_upper | SHRINK_RATIO |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHRI |  
+| oomlout_detail_hierarchy_4 | 25_4_mm_internal_diameter |  
+| oomlout_detail_hierarchy_4_upper | 25_4_MM_INTERNAL_DIAMETER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 25_4 |  
+| oomlout_detail_hierarchy_5 | black |  
+| oomlout_detail_hierarchy_5_upper | BLACK |  
+| oomlout_detail_hierarchy_5_upper_length_4 | BLAC |  
+| oomlout_detail_hierarchy_6 | 30000_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 30000_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 3000 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_heatshrink_2_to_1_shrink_ratio_25_4_mm_internal_diameter_black_30000_mm_length |  
 | oomp_word | skull tongue sailboat |  

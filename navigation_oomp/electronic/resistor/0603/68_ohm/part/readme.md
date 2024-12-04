@@ -317,6 +317,18 @@ neglect |
 | name_no_size | 68 Ohm |  
 | name_no_size_short | 68 Ohm |  
 | name_no_type | 0603 68 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0603 |  
+| oomlout_detail_hierarchy_3_upper | 0603 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0603 |  
+| oomlout_detail_hierarchy_4 | 68_ohm |  
+| oomlout_detail_hierarchy_4_upper | 68_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 68_O |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0603_68_ohm |  
 | oomp_word | bike office new_moon |  

@@ -341,6 +341,21 @@ random |
 | name_no_size | 3 Pin Ground Pin 2 8 Mega Hertz |  
 | name_no_size_short | 3 Pin Ground Pin 2 8 Mega Hertz |  
 | name_no_type | 3213 3 Pin Ground Pin 2 8 Mega Hertz |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ceramic_resonator |  
+| oomlout_detail_hierarchy_2_upper | CERAMIC_RESONATOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CERA |  
+| oomlout_detail_hierarchy_3 | 3213 |  
+| oomlout_detail_hierarchy_3_upper | 3213 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 3213 |  
+| oomlout_detail_hierarchy_4 | 3_pin_ground_pin_2 |  
+| oomlout_detail_hierarchy_4_upper | 3_PIN_GROUND_PIN_2 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 3_PI |  
+| oomlout_detail_hierarchy_5 | 8_mega_hertz |  
+| oomlout_detail_hierarchy_5_upper | 8_MEGA_HERTZ |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8_ME |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz |  
 | oomp_word | ok three five |  

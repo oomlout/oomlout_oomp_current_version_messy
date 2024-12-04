@@ -339,6 +339,18 @@ name_no_color: Kicad Harvest Footprint
 name_no_size: Kicad Harvest Footprint
 name_no_size_short: Kicad Harvest Footprint
 name_no_type: Oomlout Oomlout Kicad Harvest Footprint
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: kicad_harvest_footprint
+oomlout_detail_hierarchy_4_upper: KICAD_HARVEST_FOOTPRINT
+oomlout_detail_hierarchy_4_upper_length_4: KICA
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_kicad_harvest_footprint
 oomp_word: ant nine tea

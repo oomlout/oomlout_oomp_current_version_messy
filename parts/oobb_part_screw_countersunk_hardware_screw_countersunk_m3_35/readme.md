@@ -313,6 +313,18 @@ clip |
 | name_no_size | Hardware M3 35 |  
 | name_no_size_short | Hardware M3 35 |  
 | name_no_type | Screw Countersunk Hardware Screw Countersunk M3 35 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | scountersunk |  
+| oomlout_detail_hierarchy_3_upper | SCOUNTERSUNK |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SCOU |  
+| oomlout_detail_hierarchy_4 | hardware_scountersunk_m3_35 |  
+| oomlout_detail_hierarchy_4_upper | HARDWARE_SCOUNTERSUNK_M3_35 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_screw_countersunk_hardware_screw_countersunk_m3_35 |  
 | oomp_word | star hearts coffee |  

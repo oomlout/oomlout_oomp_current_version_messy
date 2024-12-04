@@ -337,6 +337,21 @@ act |
 | name_no_size | Roomba 500 Series Sub Assembly Caster Wheel |  
 | name_no_size_short | Roomba 500 Series Sub Assembly Caster Wheel |  
 | name_no_type | Roomba 500 Series Sub Assembly Caster Wheel |  
+| oomlout_detail_hierarchy_1 | robot_vacuum |  
+| oomlout_detail_hierarchy_1_upper | ROBOT_VACUUM |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ROBO |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | robot_vacuum_roomba_500_series |  
+| oomlout_detail_hierarchy_3_upper | ROBOT_VACUUM_ROOMBA_500_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | ROBO |  
+| oomlout_detail_hierarchy_4 | sub_assembly |  
+| oomlout_detail_hierarchy_4_upper | SUB_ASSEMBLY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SUB_ |  
+| oomlout_detail_hierarchy_5 | caster_wheel |  
+| oomlout_detail_hierarchy_5_upper | CASTER_WHEEL |  
+| oomlout_detail_hierarchy_5_upper_length_4 | CAST |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel |  
 | oomp_word | anger hatching_chick tongue |  

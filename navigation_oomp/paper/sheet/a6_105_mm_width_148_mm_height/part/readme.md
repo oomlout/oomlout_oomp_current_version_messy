@@ -292,6 +292,18 @@ creek |
 | name_no_size | A6 105 mm Width 148 mm Height |  
 | name_no_size_short | A6 105 Mm Width 148 Mm Height |  
 | name_no_type | A6 105 mm Width 148 mm Height |  
+| oomlout_detail_hierarchy_1 | paper |  
+| oomlout_detail_hierarchy_1_upper | PAPER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PAPE |  
+| oomlout_detail_hierarchy_2 | sheet |  
+| oomlout_detail_hierarchy_2_upper | SHEET |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEE |  
+| oomlout_detail_hierarchy_3 | 105_mm_width |  
+| oomlout_detail_hierarchy_3_upper | 105_MM_WIDTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 105W |  
+| oomlout_detail_hierarchy_4 | 148_mm_height |  
+| oomlout_detail_hierarchy_4_upper | 148_MM_HEIGHT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 148H |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a6_105_mm_width_148_mm_height |  
 | oomp_word | tea snake sunny |  

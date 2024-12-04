@@ -314,6 +314,15 @@ name_no_color: 800Point
 name_no_size: 800 Point
 name_no_size_short: 800 Point
 name_no_type: 800 Point
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: prototyping_breadboard
+oomlout_detail_hierarchy_2_upper: PROTOTYPING_BREADBOARD
+oomlout_detail_hierarchy_2_upper_length_4: PROT
+oomlout_detail_hierarchy_3: 800_point
+oomlout_detail_hierarchy_3_upper: 800_POINT
+oomlout_detail_hierarchy_3_upper_length_4: '800_'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_prototyping_breadboard_800_point
 oomp_word: lipstick rainbow three

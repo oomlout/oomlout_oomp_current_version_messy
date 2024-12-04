@@ -340,6 +340,21 @@ lens |
 | name_no_size | 1500Mlcapacity110mmdiameter230mmdepthkilner0025492 |  
 | name_no_size_short | 1500Mlcapacity110Mmdiameter230Mmdepthkilner0025492 |  
 | name_no_type | 1500 Ml Capacity 110 mm Diameter 230 mm Depth Kilner 0025 492 |  
+| oomlout_detail_hierarchy_1 | storage |  
+| oomlout_detail_hierarchy_1_upper | STORAGE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | STOR |  
+| oomlout_detail_hierarchy_2 | jar_clip_top_kilner |  
+| oomlout_detail_hierarchy_2_upper | JAR_CLIP_TOP_KILNER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_3 | 230_mm_depth |  
+| oomlout_detail_hierarchy_3_upper | 230_MM_DEPTH |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 230D |  
+| oomlout_detail_hierarchy_4 | kilner |  
+| oomlout_detail_hierarchy_4_upper | KILNER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | KILN |  
+| oomlout_detail_hierarchy_5 | 0025_492 |  
+| oomlout_detail_hierarchy_5_upper | 0025_492 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 0025 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492 |  
 | oomp_word | mushroom dragon racehorse |  

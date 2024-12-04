@@ -359,6 +359,21 @@ name_no_color: 2X4080Pinsurfacemount
 name_no_size: 2X40 80 Pin Surface Mount
 name_no_size_short: 2X40 80 Pin Surface Mount
 name_no_type: 2 54 mm Dual Row 2X40 80 Pin Surface Mount
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: header
+oomlout_detail_hierarchy_2_upper: HEADER
+oomlout_detail_hierarchy_2_upper_length_4: HEAD
+oomlout_detail_hierarchy_3: 2_54_mm_dual_row
+oomlout_detail_hierarchy_3_upper: 2_54_MM_DUAL_ROW
+oomlout_detail_hierarchy_3_upper_length_4: '2_54'
+oomlout_detail_hierarchy_4: 2x40_80_pin
+oomlout_detail_hierarchy_4_upper: 2X40_80_PIN
+oomlout_detail_hierarchy_4_upper_length_4: 2X40
+oomlout_detail_hierarchy_5: surface_mount
+oomlout_detail_hierarchy_5_upper: SURFACE_MOUNT
+oomlout_detail_hierarchy_5_upper_length_4: SURF
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x40_80_pin_surface_mount
 oomp_word: bus grin eyeglasses

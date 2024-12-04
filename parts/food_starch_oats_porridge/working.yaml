@@ -339,6 +339,18 @@ name_no_size: Porridge
 name_no_size_short: Porridge
 name_no_type: Oats Porridge
 name_short: Oats Porridge
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: oats
+oomlout_detail_hierarchy_3_upper: OATS
+oomlout_detail_hierarchy_3_upper_length_4: OATS
+oomlout_detail_hierarchy_4: porridge
+oomlout_detail_hierarchy_4_upper: PORRIDGE
+oomlout_detail_hierarchy_4_upper_length_4: PORR
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_oats_porridge
 oomp_word: ant rowboat taxi

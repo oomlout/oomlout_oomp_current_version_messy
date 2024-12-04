@@ -387,6 +387,27 @@ name_no_size: Bolt Product Countersunk M3 V 1 Complete Ready To Ship
 name_no_size_short: Bolt Product Countersunk M3 V 1 Complete Ready To Ship
 name_no_type: Oomlout Oomlout Bolt Product Countersunk M3 V 1 Complete Ready To Ship
 name_short: m3_countersunk_tin_complete
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: bolt_product_countersunk
+oomlout_detail_hierarchy_4_upper: BOLT_PRODUCT_COUNTERSUNK
+oomlout_detail_hierarchy_4_upper_length_4: BOLT
+oomlout_detail_hierarchy_5: m3_v_1
+oomlout_detail_hierarchy_5_upper: M3_V_1
+oomlout_detail_hierarchy_5_upper_length_4: M3_V
+oomlout_detail_hierarchy_6: complete
+oomlout_detail_hierarchy_6_upper: COMPLETE
+oomlout_detail_hierarchy_6_upper_length_4: COMP
+oomlout_detail_hierarchy_7: ready_to_ship
+oomlout_detail_hierarchy_7_upper: READY_TO_SHIP
+oomlout_detail_hierarchy_7_upper_length_4: READ
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_bolt_product_countersunk_m3_v_1_complete_ready_to_ship
 oomp_word: corn nine horse

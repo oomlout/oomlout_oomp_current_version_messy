@@ -313,6 +313,18 @@ oppose |
 | name_no_size | 02 6704 |  
 | name_no_size_short | 02 6704 |  
 | name_no_type | Bearing Plate Shim 02 6704 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | bearing_plate_shim |  
+| oomlout_detail_hierarchy_3_upper | BEARING_PLATE_SHIM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_4 | 02_6704 |  
+| oomlout_detail_hierarchy_4_upper | 02_6704 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_6 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_bearing_plate_shim_02_6704 |  
 | oomp_word | horse whale skull |  

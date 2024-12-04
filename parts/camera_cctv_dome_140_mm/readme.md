@@ -291,6 +291,15 @@ load |
 | name_no_size | 140 mm |  
 | name_no_size_short | 140 Mm |  
 | name_no_type | 140 mm |  
+| oomlout_detail_hierarchy_1 | camera |  
+| oomlout_detail_hierarchy_1_upper | CAMERA |  
+| oomlout_detail_hierarchy_1_upper_length_4 | CAME |  
+| oomlout_detail_hierarchy_2 | cctv_dome |  
+| oomlout_detail_hierarchy_2_upper | CCTV_DOME |  
+| oomlout_detail_hierarchy_2_upper_length_4 | CCTV |  
+| oomlout_detail_hierarchy_3 | 140_mm |  
+| oomlout_detail_hierarchy_3_upper | 140_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 140_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_camera_cctv_dome_140_mm |  
 | oomp_word | panda_face honey_pot truck |  

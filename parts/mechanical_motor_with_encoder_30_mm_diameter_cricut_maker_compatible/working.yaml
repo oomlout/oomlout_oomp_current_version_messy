@@ -335,6 +335,18 @@ name_no_color: Cricutmakercompatible
 name_no_size: Cricut Maker Compatible
 name_no_size_short: Cricut Maker Compatible
 name_no_type: 30 mm Diameter Cricut Maker Compatible
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_with_encoder
+oomlout_detail_hierarchy_2_upper: MOTOR_WITH_ENCODER
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: 30_mm_diameter
+oomlout_detail_hierarchy_3_upper: 30_MM_DIAMETER
+oomlout_detail_hierarchy_3_upper_length_4: 30DI
+oomlout_detail_hierarchy_4: cricut_maker_compatible
+oomlout_detail_hierarchy_4_upper: CRICUT_MAKER_COMPATIBLE
+oomlout_detail_hierarchy_4_upper_length_4: CRIC
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible
 oomp_word: corn angel tiger

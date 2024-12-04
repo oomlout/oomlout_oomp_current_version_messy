@@ -317,6 +317,21 @@ device |
 | name_no_size | Bolt Tool Tray Caddy Transport Tray |  
 | name_no_size_short | Bolt Tool Tray Caddy Transport Tray |  
 | name_no_type | Oomlout Oomlout Bolt Tool Tray Caddy Transport Tray |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | bolt_tool_tray |  
+| oomlout_detail_hierarchy_4_upper | BOLT_TOOL_TRAY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BOLT |  
+| oomlout_detail_hierarchy_5 | caddy_transport_tray |  
+| oomlout_detail_hierarchy_5_upper | CADDY_TRANSPORT_TRAY |  
+| oomlout_detail_hierarchy_5_upper_length_4 | CADD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_bolt_tool_tray_caddy_transport_tray |  
 | oomp_word | ramen cry baby |  

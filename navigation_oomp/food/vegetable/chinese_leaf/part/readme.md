@@ -317,6 +317,15 @@ assault |
 | name_no_size | Chineseleaf |  
 | name_no_size_short | Chineseleaf |  
 | name_no_type | Chinese Leaf |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | vegetable |  
+| oomlout_detail_hierarchy_2_upper | VEGETABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VEGE |  
+| oomlout_detail_hierarchy_3 | chinese_leaf |  
+| oomlout_detail_hierarchy_3_upper | CHINESE_LEAF |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CHIN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_chinese_leaf |  
 | oomp_word | strawberry fish pushpin |  

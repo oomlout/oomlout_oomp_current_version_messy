@@ -337,6 +337,21 @@ develop |
 | name_no_size | 07 03  56 Teeth |  
 | name_no_size_short | 07 03  56 Teeth |  
 | name_no_type | Gear 07 03  56 Teeth |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | gear |  
+| oomlout_detail_hierarchy_3_upper | GEAR |  
+| oomlout_detail_hierarchy_3_upper_length_4 | GEAR |  
+| oomlout_detail_hierarchy_4 | 07_03_ |  
+| oomlout_detail_hierarchy_4_upper | 07_03_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | 56_teeth |  
+| oomlout_detail_hierarchy_5_upper | 56_TEETH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 56_T |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_gear_07_03__56_teeth |  
 | oomp_word | skull beer anchor |  

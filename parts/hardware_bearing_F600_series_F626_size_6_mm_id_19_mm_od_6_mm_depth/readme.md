@@ -339,6 +339,21 @@ hair |
 | name_no_size | F626 Size 6 mm ID 19 mm OD 6 mm Depth |  
 | name_no_size_short | F626 Size 6 Mm Id 19 Mm Od 6 Mm Depth |  
 | name_no_type | F600 Series F626 Size 6 mm ID 19 mm OD 6 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | F600_series |  
+| oomlout_detail_hierarchy_3_upper | F600_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | F600 |  
+| oomlout_detail_hierarchy_4 | F626_size |  
+| oomlout_detail_hierarchy_4_upper | F626_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | F626 |  
+| oomlout_detail_hierarchy_5 | 6_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 6_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 6DEP |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | brF626 |  
 | oomlout_short_code_upper | BRF626 |  

@@ -289,6 +289,15 @@ finger |
 | name_no_size | Bambu Lab P1S |  
 | name_no_size_short | Bambu Lab P1S |  
 | name_no_type | Bambu Lab P1S |  
+| oomlout_detail_hierarchy_1 | three_d_printer |  
+| oomlout_detail_hierarchy_1_upper | THREE_D_PRINTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_2 | printer |  
+| oomlout_detail_hierarchy_2_upper | PRINTER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PRIN |  
+| oomlout_detail_hierarchy_3 | bambu_lab_p1s |  
+| oomlout_detail_hierarchy_3_upper | BAMBU_LAB_P1S |  
+| oomlout_detail_hierarchy_3_upper_length_4 | BAMB |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_three_d_printer_printer_bambu_lab_p1s |  
 | oomp_word | grapes ocean pig |  

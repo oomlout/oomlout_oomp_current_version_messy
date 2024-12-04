@@ -339,6 +339,21 @@ receive |
 | name_no_size | 6220 Size 100 mm ID 180 mm OD 34 mm Depth |  
 | name_no_size_short | 6220 Size 100 Mm Id 180 Mm Od 34 Mm Depth |  
 | name_no_type | 6200 Series 6220 Size 100 mm ID 180 mm OD 34 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6220_size |  
+| oomlout_detail_hierarchy_4_upper | 6220_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6220 |  
+| oomlout_detail_hierarchy_5 | 34_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 34_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 34DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6220 |  
 | oomlout_short_code_upper | BR6220 |  

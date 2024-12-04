@@ -380,6 +380,24 @@ problem |
 | oomlout_bolt_size | M3 |  
 | oomlout_bolt_type |  |  
 | oomlout_bolt_type_diagram_diagram | type_diagram.png |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | standoff |  
+| oomlout_detail_hierarchy_2_upper | STANDOFF |  
+| oomlout_detail_hierarchy_2_upper_length_4 | STAN |  
+| oomlout_detail_hierarchy_3 | m3 |  
+| oomlout_detail_hierarchy_3_upper | M3 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | M3 |  
+| oomlout_detail_hierarchy_4 | brass |  
+| oomlout_detail_hierarchy_4_upper | BRASS |  
+| oomlout_detail_hierarchy_4_upper_length_4 | BRAS |  
+| oomlout_detail_hierarchy_5 | 6_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 6_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 6LEN |  
+| oomlout_detail_hierarchy_6 | sand_nut |  
+| oomlout_detail_hierarchy_6_upper | SAND_NUT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | SAND |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | so3br6sn |  
 | oomlout_short_code_upper | SO3BR6SN |  

@@ -317,6 +317,18 @@ special |
 | name_no_size | Mom Ceramic Slip Casting Frame |  
 | name_no_size_short | Mom Ceramic Slip Casting Frame |  
 | name_no_type | Oomlout Mom Ceramic Slip Casting Frame |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | mom_ceramic_slip_casting_frame |  
+| oomlout_detail_hierarchy_4_upper | MOM_CERAMIC_SLIP_CASTING_FRAME |  
+| oomlout_detail_hierarchy_4_upper_length_4 | MOM_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_mom_ceramic_slip_casting_frame |  
 | oomp_word | bell whale wink |  

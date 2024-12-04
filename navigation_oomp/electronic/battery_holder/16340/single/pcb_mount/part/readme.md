@@ -337,6 +337,21 @@ book |
 | name_no_size | Single PCB Mount |  
 | name_no_size_short | Single Pcb Mount |  
 | name_no_type | 16340 Single PCB Mount |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | battery_holder |  
+| oomlout_detail_hierarchy_2_upper | BATTERY_HOLDER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BATT |  
+| oomlout_detail_hierarchy_3 | 16340 |  
+| oomlout_detail_hierarchy_3_upper | 16340 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1634 |  
+| oomlout_detail_hierarchy_4 | single |  
+| oomlout_detail_hierarchy_4_upper | SINGLE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | SING |  
+| oomlout_detail_hierarchy_5 | pcb_mount |  
+| oomlout_detail_hierarchy_5_upper | PCB_MOUNT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | PCB_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_battery_holder_16340_single_pcb_mount |  
 | oomp_word | thumbsup wink grapes |  

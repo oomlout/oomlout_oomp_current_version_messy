@@ -317,6 +317,21 @@ animal |
 | name_no_size | Three D Printing Utility Gcode Repeater |  
 | name_no_size_short | Three D Printing Utility Gcode Repeater |  
 | name_no_type | Oomlout Oomlout Three D Printing Utility Gcode Repeater |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | three_d_printing |  
+| oomlout_detail_hierarchy_4_upper | THREE_D_PRINTING |  
+| oomlout_detail_hierarchy_4_upper_length_4 | THRE |  
+| oomlout_detail_hierarchy_5 | utility_gcode_repeater |  
+| oomlout_detail_hierarchy_5_upper | UTILITY_GCODE_REPEATER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | UTIL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_three_d_printing_utility_gcode_repeater |  
 | oomp_word | kiss horse egg |  

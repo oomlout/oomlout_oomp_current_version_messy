@@ -359,6 +359,24 @@ name_no_color: Pro4Microsoftmodel1724
 name_no_size: Pro 4 Microsoft Model 1724
 name_no_size_short: Pro 4 Microsoft Model 1724
 name_no_type: Microsoft Surface Pro 4 Microsoft Model 1724
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: tablet
+oomlout_detail_hierarchy_2_upper: TABLET
+oomlout_detail_hierarchy_2_upper_length_4: TABL
+oomlout_detail_hierarchy_3: microsoft_surface
+oomlout_detail_hierarchy_3_upper: MICROSOFT_SURFACE
+oomlout_detail_hierarchy_3_upper_length_4: MICR
+oomlout_detail_hierarchy_4: pro_4
+oomlout_detail_hierarchy_4_upper: PRO_4
+oomlout_detail_hierarchy_4_upper_length_4: PRO_
+oomlout_detail_hierarchy_5: microsoft
+oomlout_detail_hierarchy_5_upper: MICROSOFT
+oomlout_detail_hierarchy_5_upper_length_4: MICR
+oomlout_detail_hierarchy_6: model_1724
+oomlout_detail_hierarchy_6_upper: MODEL_1724
+oomlout_detail_hierarchy_6_upper_length_4: MODE
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_tablet_microsoft_surface_pro_4_microsoft_model_1724
 oomp_word: truck nine hammer

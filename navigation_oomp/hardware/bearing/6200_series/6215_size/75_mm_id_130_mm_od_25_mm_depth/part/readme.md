@@ -339,6 +339,21 @@ swing |
 | name_no_size | 6215 Size 75 mm ID 130 mm OD 25 mm Depth |  
 | name_no_size_short | 6215 Size 75 Mm Id 130 Mm Od 25 Mm Depth |  
 | name_no_type | 6200 Series 6215 Size 75 mm ID 130 mm OD 25 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 6200_series |  
+| oomlout_detail_hierarchy_3_upper | 6200_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 6200 |  
+| oomlout_detail_hierarchy_4 | 6215_size |  
+| oomlout_detail_hierarchy_4_upper | 6215_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 6215 |  
+| oomlout_detail_hierarchy_5 | 25_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 25_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 25DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br6215 |  
 | oomlout_short_code_upper | BR6215 |  

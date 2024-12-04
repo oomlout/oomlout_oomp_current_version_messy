@@ -317,6 +317,21 @@ clap |
 | name_no_size | Packaging Takeaway Container Circle Oobb Carrying Tray |  
 | name_no_size_short | Packaging Takeaway Container Circle Oobb Carrying Tray |  
 | name_no_type | Oomlout Oomlout Packaging Takeaway Container Circle Oobb Carrying Tray |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | packaging_takeaway_container |  
+| oomlout_detail_hierarchy_4_upper | PACKAGING_TAKEAWAY_CONTAINER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PACK |  
+| oomlout_detail_hierarchy_5 | circle_oobb_carrying_tray |  
+| oomlout_detail_hierarchy_5_upper | CIRCLE_OOBB_CARRYING_TRAY |  
+| oomlout_detail_hierarchy_5_upper_length_4 | CIRC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_packaging_takeaway_container_circle_oobb_carrying_tray |  
 | oomp_word | corn headphones five |  

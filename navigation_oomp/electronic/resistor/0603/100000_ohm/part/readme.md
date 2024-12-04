@@ -317,6 +317,18 @@ brother |
 | name_no_size | 100000 Ohm |  
 | name_no_size_short | 100k Ohm |  
 | name_no_type | 0603 100000 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0603 |  
+| oomlout_detail_hierarchy_3_upper | 0603 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0603 |  
+| oomlout_detail_hierarchy_4 | 100000_ohm |  
+| oomlout_detail_hierarchy_4_upper | 100000_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1000 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0603_100000_ohm |  
 | oomp_word | hearts egg sunflower |  

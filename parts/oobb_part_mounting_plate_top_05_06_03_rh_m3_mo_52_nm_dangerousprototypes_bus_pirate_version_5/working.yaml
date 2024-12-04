@@ -340,6 +340,24 @@ name_no_size_short: 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate Versi
   5
 name_no_type: Mounting Plate Top 05 06 03 Rh M3 Mo 52 Nm Dangerousprototypes Bus Pirate
   Version 5
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: mounting_plate_top
+oomlout_detail_hierarchy_3_upper: MOUNTING_PLATE_TOP
+oomlout_detail_hierarchy_3_upper_length_4: MOUN
+oomlout_detail_hierarchy_4: 05_06_03_rh
+oomlout_detail_hierarchy_4_upper: 05_06_03_RH
+oomlout_detail_hierarchy_4_upper_length_4: '05_0'
+oomlout_detail_hierarchy_5: m3_mo_52_nm
+oomlout_detail_hierarchy_5_upper: M3_MO_52_NM
+oomlout_detail_hierarchy_5_upper_length_4: M3_M
+oomlout_detail_hierarchy_6: dangerousprototypes_bus_pirate_version_5
+oomlout_detail_hierarchy_6_upper: DANGEROUSPROTOTYPES_BUS_PIRATE_VERSION_5
+oomlout_detail_hierarchy_6_upper_length_4: DANG
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_mounting_plate_top_05_06_03_rh_m3_mo_52_nm_dangerousprototypes_bus_pirate_version_5
 oomp_word: violin rice nine

@@ -388,6 +388,27 @@ staff |
 | name_no_size_short | Instant Espresso Jar 95 Gram Nescafe |  
 | name_no_type | Coffee Instant Espresso Jar 95 Gram Nescafe |  
 | name_short | Instant Coffee Espresso |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | drink |  
+| oomlout_detail_hierarchy_2_upper | DRINK |  
+| oomlout_detail_hierarchy_2_upper_length_4 | DRIN |  
+| oomlout_detail_hierarchy_3 | coffee |  
+| oomlout_detail_hierarchy_3_upper | COFFEE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | COFF |  
+| oomlout_detail_hierarchy_4 | instant |  
+| oomlout_detail_hierarchy_4_upper | INSTANT |  
+| oomlout_detail_hierarchy_4_upper_length_4 | INST |  
+| oomlout_detail_hierarchy_5 | espresso |  
+| oomlout_detail_hierarchy_5_upper | ESPRESSO |  
+| oomlout_detail_hierarchy_5_upper_length_4 | ESPR |  
+| oomlout_detail_hierarchy_6 | jar_95_gram |  
+| oomlout_detail_hierarchy_6_upper | JAR_95_GRAM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_7 | nescafe |  
+| oomlout_detail_hierarchy_7_upper | NESCAFE |  
+| oomlout_detail_hierarchy_7_upper_length_4 | NESC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_drink_coffee_instant_espresso_jar_95_gram_nescafe |  
 | oomp_word | shoe egg apple |  

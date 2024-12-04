@@ -363,6 +363,27 @@ finish |
 | name_no_size_short | Dual H Bridge 15 Mm Width 15 Mm Length Black Pcb Aliexpress |  
 | name_no_type | Drv8833 Dual H Bridge 15 mm Width 15 mm Length Black PCB Aliexpress |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | breakout_board_motor_driver |  
+| oomlout_detail_hierarchy_2_upper | BREAKOUT_BOARD_MOTOR_DRIVER |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BREA |  
+| oomlout_detail_hierarchy_3 | drv8833 |  
+| oomlout_detail_hierarchy_3_upper | DRV8833 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | DRV8 |  
+| oomlout_detail_hierarchy_4 | dual_h_bridge |  
+| oomlout_detail_hierarchy_4_upper | DUAL_H_BRIDGE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | DUAL |  
+| oomlout_detail_hierarchy_5 | 15_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 15_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 15WI |  
+| oomlout_detail_hierarchy_6 | 15_mm_length |  
+| oomlout_detail_hierarchy_6_upper | 15_MM_LENGTH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 15LE |  
+| oomlout_detail_hierarchy_7 | aliexpress |  
+| oomlout_detail_hierarchy_7_upper | ALIEXPRESS |  
+| oomlout_detail_hierarchy_7_upper_length_4 | ALIE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_15_mm_width_15_mm_length_black_pcb_aliexpress |  
 | oomp_word | one truck whale |  

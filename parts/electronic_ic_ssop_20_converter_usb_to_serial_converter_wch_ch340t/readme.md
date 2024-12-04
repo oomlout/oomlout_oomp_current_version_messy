@@ -363,6 +363,27 @@ hammer |
 | name_no_size_short | Converter Usb To Serial Converter Wch Ch340T |  
 | name_no_type | Ssop 20 Converter USB To Serial Converter Wch Ch340T |  
 | notes | [] |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | ic |  
+| oomlout_detail_hierarchy_2_upper | IC |  
+| oomlout_detail_hierarchy_2_upper_length_4 | IC |  
+| oomlout_detail_hierarchy_3 | ssop_20 |  
+| oomlout_detail_hierarchy_3_upper | SSOP_20 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SSOP |  
+| oomlout_detail_hierarchy_4 | converter |  
+| oomlout_detail_hierarchy_4_upper | CONVERTER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | CONV |  
+| oomlout_detail_hierarchy_5 | usb_to_serial_converter |  
+| oomlout_detail_hierarchy_5_upper | USB_TO_SERIAL_CONVERTER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | USB_ |  
+| oomlout_detail_hierarchy_6 | wch |  
+| oomlout_detail_hierarchy_6_upper | WCH |  
+| oomlout_detail_hierarchy_6_upper_length_4 | WCH |  
+| oomlout_detail_hierarchy_7 | ch340t |  
+| oomlout_detail_hierarchy_7_upper | CH340T |  
+| oomlout_detail_hierarchy_7_upper_length_4 | CH34 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_ic_ssop_20_converter_usb_to_serial_converter_wch_ch340t |  
 | oomp_word | ship dolls kiss |  

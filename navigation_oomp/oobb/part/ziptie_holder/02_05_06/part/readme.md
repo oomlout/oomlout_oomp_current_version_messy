@@ -313,6 +313,18 @@ index |
 | name_no_size | 02 05 06 |  
 | name_no_size_short | 02 05 06 |  
 | name_no_type | Ziptie Holder 02 05 06 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | ziptie_holder |  
+| oomlout_detail_hierarchy_3_upper | ZIPTIE_HOLDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | ZIPT |  
+| oomlout_detail_hierarchy_4 | 02_05_06 |  
+| oomlout_detail_hierarchy_4_upper | 02_05_06 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_0 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_ziptie_holder_02_05_06 |  
 | oomp_word | eight horse hearts |  

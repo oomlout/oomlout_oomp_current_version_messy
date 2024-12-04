@@ -313,6 +313,18 @@ rubber |
 | name_no_size | Hardware M2 06 |  
 | name_no_size_short | Hardware M2 06 |  
 | name_no_type | Screw Self Tapping Hardware Screw Self Tapping M2 06 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | sself_tapping |  
+| oomlout_detail_hierarchy_3_upper | SSELF_TAPPING |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SSEL |  
+| oomlout_detail_hierarchy_4 | hardware_sself_tapping_m2_06 |  
+| oomlout_detail_hierarchy_4_upper | HARDWARE_SSELF_TAPPING_M2_06 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | HARD |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_screw_self_tapping_hardware_screw_self_tapping_m2_06 |  
 | oomp_word | rose tennis six |  

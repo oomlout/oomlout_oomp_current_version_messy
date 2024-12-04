@@ -315,6 +315,21 @@ sugar |
 | name_no_size | 2440 mm Width 1220 mm Height |  
 | name_no_size_short | 2440 Mm Width 1220 Mm Height |  
 | name_no_type | Oomlout 2440 mm Width 1220 mm Height |  
+| oomlout_detail_hierarchy_1 | furniture |  
+| oomlout_detail_hierarchy_1_upper | FURNITURE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FURN |  
+| oomlout_detail_hierarchy_2 | table |  
+| oomlout_detail_hierarchy_2_upper | TABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | TABL |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | 2440_mm_width |  
+| oomlout_detail_hierarchy_4_upper | 2440_MM_WIDTH |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2440 |  
+| oomlout_detail_hierarchy_5 | 1220_mm_height |  
+| oomlout_detail_hierarchy_5_upper | 1220_MM_HEIGHT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 1220 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_table_oomlout_2440_mm_width_1220_mm_height |  
 | oomp_word | calendar hamster ant |  

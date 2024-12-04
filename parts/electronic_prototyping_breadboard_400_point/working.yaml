@@ -313,6 +313,15 @@ name_no_color: 400Point
 name_no_size: 400 Point
 name_no_size_short: 400 Point
 name_no_type: 400 Point
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: prototyping_breadboard
+oomlout_detail_hierarchy_2_upper: PROTOTYPING_BREADBOARD
+oomlout_detail_hierarchy_2_upper_length_4: PROT
+oomlout_detail_hierarchy_3: 400_point
+oomlout_detail_hierarchy_3_upper: 400_POINT
+oomlout_detail_hierarchy_3_upper_length_4: '400_'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_prototyping_breadboard_400_point
 oomp_word: dancer violin palm_tree

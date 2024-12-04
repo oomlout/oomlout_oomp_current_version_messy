@@ -337,6 +337,21 @@ gallery |
 | name_no_size | 07 03 44  Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696 |  
 | name_no_size_short | 07 03 44  Tool Measure Tape Measure 5000 Mm Length Stanley 1 30 696 |  
 | name_no_type | Tool Holder Vertical 07 03 44  Tool Measure Tape Measure 5000 mm Length Stanley 1 30 696 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tool_holder_vertical |  
+| oomlout_detail_hierarchy_3_upper | TOOL_HOLDER_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_4 | 07_03_44_ |  
+| oomlout_detail_hierarchy_4_upper | 07_03_44_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 07_0 |  
+| oomlout_detail_hierarchy_5 | 5000_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 5000_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 5000 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_07_03_44__tool_measure_tape_measure_5000_mm_length_stanley_1_30_696 |  
 | oomp_word | tomato computer poodle |  

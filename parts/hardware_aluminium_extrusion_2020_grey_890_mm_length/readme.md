@@ -340,6 +340,21 @@ stage |
 | name_no_size | Grey 890 mm Length |  
 | name_no_size_short | Grey 890 Mm Length |  
 | name_no_type | 2020 Grey 890 mm Length |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | aluminium_extrusion |  
+| oomlout_detail_hierarchy_2_upper | ALUMINIUM_EXTRUSION |  
+| oomlout_detail_hierarchy_2_upper_length_4 | ALUM |  
+| oomlout_detail_hierarchy_3 | 2020 |  
+| oomlout_detail_hierarchy_3_upper | 2020 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 2020 |  
+| oomlout_detail_hierarchy_4 | grey |  
+| oomlout_detail_hierarchy_4_upper | GREY |  
+| oomlout_detail_hierarchy_4_upper_length_4 | GREY |  
+| oomlout_detail_hierarchy_5 | 890_mm_length |  
+| oomlout_detail_hierarchy_5_upper | 890_MM_LENGTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 890L |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_hardware_aluminium_extrusion_2020_grey_890_mm_length |  
 | oomp_word | ambulance sparkles wrench |  

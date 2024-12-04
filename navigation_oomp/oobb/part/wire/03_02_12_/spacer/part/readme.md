@@ -337,6 +337,21 @@ this |
 | name_no_size | 03 02 12  Spacer |  
 | name_no_size_short | 03 02 12  Spacer |  
 | name_no_type | Wire 03 02 12  Spacer |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | wire |  
+| oomlout_detail_hierarchy_3_upper | WIRE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | WIRE |  
+| oomlout_detail_hierarchy_4 | 03_02_12_ |  
+| oomlout_detail_hierarchy_4_upper | 03_02_12_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 03_0 |  
+| oomlout_detail_hierarchy_5 | spacer |  
+| oomlout_detail_hierarchy_5_upper | SPACER |  
+| oomlout_detail_hierarchy_5_upper_length_4 | SPAC |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_wire_03_02_12__spacer |  
 | oomp_word | thumbsup melon wrench |  

@@ -317,6 +317,21 @@ zone |
 | name_no_size | Oobb Organizing Corner Mounting Bracket |  
 | name_no_size_short | Oobb Organizing Corner Mounting Bracket |  
 | name_no_type | Oomlout Oomlout Oobb Organizing Corner Mounting Bracket |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_1_upper | PROJECT |  
+| oomlout_detail_hierarchy_1_upper_length_4 | PROJ |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_2_upper | GITHUB |  
+| oomlout_detail_hierarchy_2_upper_length_4 | GITH |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_3_upper | OOMLOUT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | OOML |  
+| oomlout_detail_hierarchy_4 | oobb_organizing_corner |  
+| oomlout_detail_hierarchy_4_upper | OOBB_ORGANIZING_CORNER |  
+| oomlout_detail_hierarchy_4_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_5 | mounting_bracket |  
+| oomlout_detail_hierarchy_5_upper | MOUNTING_BRACKET |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MOUN |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_project_github_oomlout_oomlout_oobb_organizing_corner_mounting_bracket |  
 | oomp_word | penguin boat wrench |  

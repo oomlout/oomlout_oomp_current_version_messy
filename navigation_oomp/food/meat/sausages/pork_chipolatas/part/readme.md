@@ -341,6 +341,18 @@ industry |
 | name_no_size | Sausagesporkchipolatas |  
 | name_no_size_short | Sausagesporkchipolatas |  
 | name_no_type | Sausages Pork Chipolatas |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | meat |  
+| oomlout_detail_hierarchy_2_upper | MEAT |  
+| oomlout_detail_hierarchy_2_upper_length_4 | MEAT |  
+| oomlout_detail_hierarchy_3 | sausages |  
+| oomlout_detail_hierarchy_3_upper | SAUSAGES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SAUS |  
+| oomlout_detail_hierarchy_4 | pork_chipolatas |  
+| oomlout_detail_hierarchy_4_upper | PORK_CHIPOLATAS |  
+| oomlout_detail_hierarchy_4_upper_length_4 | PORK |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_meat_sausages_pork_chipolatas |  
 | oomp_word | watermelon feet factory |  

@@ -337,6 +337,21 @@ ugly |
 | name_no_size | 02 09  40 Teeth |  
 | name_no_size_short | 02 09  40 Teeth |  
 | name_no_type | Pulley Gt2 02 09  40 Teeth |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | pulley_gt2 |  
+| oomlout_detail_hierarchy_3_upper | PULLEY_GT2 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | PULL |  
+| oomlout_detail_hierarchy_4 | 02_09_ |  
+| oomlout_detail_hierarchy_4_upper | 02_09_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 02_0 |  
+| oomlout_detail_hierarchy_5 | 40_teeth |  
+| oomlout_detail_hierarchy_5_upper | 40_TEETH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 40_T |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_pulley_gt2_02_09__40_teeth |  
 | oomp_word | umbrella snowman rooster |  

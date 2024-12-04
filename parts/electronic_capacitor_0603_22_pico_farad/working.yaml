@@ -361,6 +361,18 @@ name_no_color: 22Picofarad
 name_no_size: 22 Pico Farad
 name_no_size_short: 22pf Pico Farad
 name_no_type: 0603 22 Pico Farad
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: capacitor
+oomlout_detail_hierarchy_2_upper: CAPACITOR
+oomlout_detail_hierarchy_2_upper_length_4: CAPA
+oomlout_detail_hierarchy_3: '0603'
+oomlout_detail_hierarchy_3_upper: '0603'
+oomlout_detail_hierarchy_3_upper_length_4: '0603'
+oomlout_detail_hierarchy_4: 22_pico_farad
+oomlout_detail_hierarchy_4_upper: 22_PICO_FARAD
+oomlout_detail_hierarchy_4_upper_length_4: 22_P
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_capacitor_0603_22_pico_farad
 oomp_word: bus elephant up

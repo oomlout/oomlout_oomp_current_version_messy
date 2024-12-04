@@ -352,6 +352,24 @@ name_no_color: Surface Mount
 name_no_size: Surface Mount
 name_no_size_short: Surface Mount
 name_no_type: 3 5 mm X 6 mm X 2 5 mm Surface Mount
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: button
+oomlout_detail_hierarchy_2_upper: BUTTON
+oomlout_detail_hierarchy_2_upper_length_4: BUTT
+oomlout_detail_hierarchy_3: 3_5_mm_x
+oomlout_detail_hierarchy_3_upper: 3_5_MM_X
+oomlout_detail_hierarchy_3_upper_length_4: 3_5X
+oomlout_detail_hierarchy_4: 6_mm_x_2
+oomlout_detail_hierarchy_4_upper: 6_MM_X_2
+oomlout_detail_hierarchy_4_upper_length_4: 6X_2
+oomlout_detail_hierarchy_5: 5_mm
+oomlout_detail_hierarchy_5_upper: 5_MM
+oomlout_detail_hierarchy_5_upper_length_4: 5_MM
+oomlout_detail_hierarchy_6: surface_mount
+oomlout_detail_hierarchy_6_upper: SURFACE_MOUNT
+oomlout_detail_hierarchy_6_upper_length_4: SURF
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount
 oomp_word: hotel shirt fish

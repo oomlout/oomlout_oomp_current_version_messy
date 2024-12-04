@@ -339,6 +339,21 @@ cinnamon |
 | name_no_size | 16010 Size 50 mm ID 80 mm OD 10 mm Depth |  
 | name_no_size_short | 16010 Size 50 Mm Id 80 Mm Od 10 Mm Depth |  
 | name_no_type | 16000 Series 16010 Size 50 mm ID 80 mm OD 10 mm Depth |  
+| oomlout_detail_hierarchy_1 | hardware |  
+| oomlout_detail_hierarchy_1_upper | HARDWARE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | HARD |  
+| oomlout_detail_hierarchy_2 | bearing |  
+| oomlout_detail_hierarchy_2_upper | BEARING |  
+| oomlout_detail_hierarchy_2_upper_length_4 | BEAR |  
+| oomlout_detail_hierarchy_3 | 16000_series |  
+| oomlout_detail_hierarchy_3_upper | 16000_SERIES |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 1600 |  
+| oomlout_detail_hierarchy_4 | 16010_size |  
+| oomlout_detail_hierarchy_4_upper | 16010_SIZE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 1601 |  
+| oomlout_detail_hierarchy_5 | 10_mm_depth |  
+| oomlout_detail_hierarchy_5_upper | 10_MM_DEPTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 10DE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomlout_short_code | br16010 |  
 | oomlout_short_code_upper | BR16010 |  

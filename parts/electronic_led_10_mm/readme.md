@@ -293,6 +293,15 @@ toy |
 | name_no_size | 10 mm |  
 | name_no_size_short | 10 Mm |  
 | name_no_type | 10 mm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 10_mm |  
+| oomlout_detail_hierarchy_3_upper | 10_MM |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 10_M |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_10_mm |  
 | oomp_word | spaghetti coffee guitar |  

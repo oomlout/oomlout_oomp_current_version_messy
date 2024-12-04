@@ -410,6 +410,24 @@ name_no_size: Savouryketchupbottlesqueeze910Gramheinz
 name_no_size_short: Savouryketchupbottlesqueeze910Gramheinz
 name_no_type: Savoury Ketchup Bottle Squeeze 910 Gram Heinz
 name_short: Ketchup
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: condiment
+oomlout_detail_hierarchy_2_upper: CONDIMENT
+oomlout_detail_hierarchy_2_upper_length_4: COND
+oomlout_detail_hierarchy_3: savoury
+oomlout_detail_hierarchy_3_upper: SAVOURY
+oomlout_detail_hierarchy_3_upper_length_4: SAVO
+oomlout_detail_hierarchy_4: ketchup
+oomlout_detail_hierarchy_4_upper: KETCHUP
+oomlout_detail_hierarchy_4_upper_length_4: KETC
+oomlout_detail_hierarchy_5: bottle_squeeze_910_gram
+oomlout_detail_hierarchy_5_upper: BOTTLE_SQUEEZE_910_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: BOTT
+oomlout_detail_hierarchy_6: heinz
+oomlout_detail_hierarchy_6_upper: HEINZ
+oomlout_detail_hierarchy_6_upper_length_4: HEIN
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 oomp_word: poop baby_chick rose

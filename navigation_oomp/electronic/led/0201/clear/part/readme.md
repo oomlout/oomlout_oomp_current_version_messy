@@ -317,6 +317,18 @@ flame |
 | name_no_size | Clear |  
 | name_no_size_short | Clear |  
 | name_no_type | 0201 Clear |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | led |  
+| oomlout_detail_hierarchy_2_upper | LED |  
+| oomlout_detail_hierarchy_2_upper_length_4 | LED |  
+| oomlout_detail_hierarchy_3 | 0201 |  
+| oomlout_detail_hierarchy_3_upper | 0201 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0201 |  
+| oomlout_detail_hierarchy_4 | clear |  
+| oomlout_detail_hierarchy_4_upper | CLEAR |  
+| oomlout_detail_hierarchy_4_upper_length_4 | CLEA |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_led_0201_clear |  
 | oomp_word | pushpin scissors sheep |  

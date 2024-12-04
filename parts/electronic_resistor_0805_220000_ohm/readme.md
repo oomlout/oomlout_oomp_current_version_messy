@@ -317,6 +317,18 @@ thrive |
 | name_no_size | 220000 Ohm |  
 | name_no_size_short | 220k Ohm |  
 | name_no_type | 0805 220000 Ohm |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_1_upper | ELECTRONIC |  
+| oomlout_detail_hierarchy_1_upper_length_4 | ELEC |  
+| oomlout_detail_hierarchy_2 | resistor |  
+| oomlout_detail_hierarchy_2_upper | RESISTOR |  
+| oomlout_detail_hierarchy_2_upper_length_4 | RESI |  
+| oomlout_detail_hierarchy_3 | 0805 |  
+| oomlout_detail_hierarchy_3_upper | 0805 |  
+| oomlout_detail_hierarchy_3_upper_length_4 | 0805 |  
+| oomlout_detail_hierarchy_4 | 220000_ohm |  
+| oomlout_detail_hierarchy_4_upper | 220000_OHM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 2200 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_electronic_resistor_0805_220000_ohm |  
 | oomp_word | hospital racehorse speaker |  

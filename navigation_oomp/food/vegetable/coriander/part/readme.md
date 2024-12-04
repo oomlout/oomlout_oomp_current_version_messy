@@ -317,6 +317,15 @@ slim |
 | name_no_size | Coriander |  
 | name_no_size_short | Coriander |  
 | name_no_type | Coriander |  
+| oomlout_detail_hierarchy_1 | food |  
+| oomlout_detail_hierarchy_1_upper | FOOD |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FOOD |  
+| oomlout_detail_hierarchy_2 | vegetable |  
+| oomlout_detail_hierarchy_2_upper | VEGETABLE |  
+| oomlout_detail_hierarchy_2_upper_length_4 | VEGE |  
+| oomlout_detail_hierarchy_3 | coriander |  
+| oomlout_detail_hierarchy_3_upper | CORIANDER |  
+| oomlout_detail_hierarchy_3_upper_length_4 | CORI |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_coriander |  
 | oomp_word | ring handbag camera |  

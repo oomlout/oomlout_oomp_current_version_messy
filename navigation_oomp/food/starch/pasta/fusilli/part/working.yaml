@@ -339,6 +339,18 @@ name_no_size: Fusilli
 name_no_size_short: Fusilli
 name_no_type: Pasta Fusilli
 name_short: Pasta Fusilli
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: pasta
+oomlout_detail_hierarchy_3_upper: PASTA
+oomlout_detail_hierarchy_3_upper_length_4: PAST
+oomlout_detail_hierarchy_4: fusilli
+oomlout_detail_hierarchy_4_upper: FUSILLI
+oomlout_detail_hierarchy_4_upper_length_4: FUSI
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_pasta_fusilli
 oomp_word: shoe ear sheep

@@ -313,6 +313,18 @@ giraffe |
 | name_no_size | 3D5 |  
 | name_no_size_short | 3D5 |  
 | name_no_type | Shaft 3D5 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | shaft |  
+| oomlout_detail_hierarchy_3_upper | SHAFT |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SHAF |  
+| oomlout_detail_hierarchy_4 | 3d5 |  
+| oomlout_detail_hierarchy_4_upper | 3D5 |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 3D5 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_shaft_3d5 |  
 | oomp_word | question flags apple |  

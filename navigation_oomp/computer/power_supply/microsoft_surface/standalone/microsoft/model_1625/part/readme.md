@@ -339,6 +339,24 @@ sunset |
 | name_no_size | Standalone Microsoft Model 1625 |  
 | name_no_size_short | Standalone Microsoft Model 1625 |  
 | name_no_type | Microsoft Surface Standalone Microsoft Model 1625 |  
+| oomlout_detail_hierarchy_1 | computer |  
+| oomlout_detail_hierarchy_1_upper | COMPUTER |  
+| oomlout_detail_hierarchy_1_upper_length_4 | COMP |  
+| oomlout_detail_hierarchy_2 | power_supply |  
+| oomlout_detail_hierarchy_2_upper | POWER_SUPPLY |  
+| oomlout_detail_hierarchy_2_upper_length_4 | POWE |  
+| oomlout_detail_hierarchy_3 | microsoft_surface |  
+| oomlout_detail_hierarchy_3_upper | MICROSOFT_SURFACE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_4 | standalone |  
+| oomlout_detail_hierarchy_4_upper | STANDALONE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | STAN |  
+| oomlout_detail_hierarchy_5 | microsoft |  
+| oomlout_detail_hierarchy_5_upper | MICROSOFT |  
+| oomlout_detail_hierarchy_5_upper_length_4 | MICR |  
+| oomlout_detail_hierarchy_6 | model_1625 |  
+| oomlout_detail_hierarchy_6_upper | MODEL_1625 |  
+| oomlout_detail_hierarchy_6_upper_length_4 | MODE |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_computer_power_supply_microsoft_surface_standalone_microsoft_model_1625 |  
 | oomp_word | three ring cookie |  

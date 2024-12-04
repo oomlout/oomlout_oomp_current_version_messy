@@ -362,6 +362,24 @@ name_no_size: 05 05 12  Tool Pliers Needlenose Generic 130 mm Blue
 name_no_size_short: 05 05 12  Tool Pliers Needlenose Generic 130 Mm Blue
 name_no_type: Tool Holder Vertical 05 05 12  Tool Pliers Needlenose Generic 130 mm
   Blue
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tool_holder_vertical
+oomlout_detail_hierarchy_3_upper: TOOL_HOLDER_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TOOL
+oomlout_detail_hierarchy_4: '05_05_12_'
+oomlout_detail_hierarchy_4_upper: '05_05_12_'
+oomlout_detail_hierarchy_4_upper_length_4: '05_0'
+oomlout_detail_hierarchy_5: tool_pliers_needlenose_generic
+oomlout_detail_hierarchy_5_upper: TOOL_PLIERS_NEEDLENOSE_GENERIC
+oomlout_detail_hierarchy_5_upper_length_4: TOOL
+oomlout_detail_hierarchy_6: 130_mm_blue
+oomlout_detail_hierarchy_6_upper: 130_MM_BLUE
+oomlout_detail_hierarchy_6_upper_length_4: 130B
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_05_05_12__tool_pliers_needlenose_generic_130_mm_blue
 oomp_word: dancer handbag tram

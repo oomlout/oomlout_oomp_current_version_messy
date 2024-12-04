@@ -337,6 +337,21 @@ project |
 | name_no_size | 09 03 10  Tool Screwdriver Driver Bit X8 |  
 | name_no_size_short | 09 03 10  Tool Screwdriver Driver Bit X8 |  
 | name_no_type | Tool Holder Vertical 09 03 10  Tool Screwdriver Driver Bit X8 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | tool_holder_vertical |  
+| oomlout_detail_hierarchy_3_upper | TOOL_HOLDER_VERTICAL |  
+| oomlout_detail_hierarchy_3_upper_length_4 | TOOL |  
+| oomlout_detail_hierarchy_4 | 09_03_10_ |  
+| oomlout_detail_hierarchy_4_upper | 09_03_10_ |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 09_0 |  
+| oomlout_detail_hierarchy_5 | tool_screwdriver_driver_bit_x8 |  
+| oomlout_detail_hierarchy_5_upper | TOOL_SCREWDRIVER_DRIVER_BIT_X8 |  
+| oomlout_detail_hierarchy_5_upper_length_4 | TOOL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_tool_holder_vertical_09_03_10__tool_screwdriver_driver_bit_x8 |  
 | oomp_word | bamboo envelope sunflower |  

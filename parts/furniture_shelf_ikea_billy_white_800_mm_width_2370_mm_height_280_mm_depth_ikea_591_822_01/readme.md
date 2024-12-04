@@ -365,6 +365,33 @@ hello |
 | name_no_size | White 800 mm Width 2370 mm Height 280 mm Depth Ikea 591 822 01 |  
 | name_no_size_short | White 800 Mm Width 2370 Mm Height 280 Mm Depth Ikea 591 822 01 |  
 | name_no_type | Ikea Billy White 800 mm Width 2370 mm Height 280 mm Depth Ikea 591 822 01 |  
+| oomlout_detail_hierarchy_1 | furniture |  
+| oomlout_detail_hierarchy_1_upper | FURNITURE |  
+| oomlout_detail_hierarchy_1_upper_length_4 | FURN |  
+| oomlout_detail_hierarchy_2 | shelf |  
+| oomlout_detail_hierarchy_2_upper | SHELF |  
+| oomlout_detail_hierarchy_2_upper_length_4 | SHEL |  
+| oomlout_detail_hierarchy_3 | ikea_billy |  
+| oomlout_detail_hierarchy_3_upper | IKEA_BILLY |  
+| oomlout_detail_hierarchy_3_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_4 | white |  
+| oomlout_detail_hierarchy_4_upper | WHITE |  
+| oomlout_detail_hierarchy_4_upper_length_4 | WHIT |  
+| oomlout_detail_hierarchy_5 | 800_mm_width |  
+| oomlout_detail_hierarchy_5_upper | 800_MM_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 800W |  
+| oomlout_detail_hierarchy_6 | 2370_mm_height |  
+| oomlout_detail_hierarchy_6_upper | 2370_MM_HEIGHT |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 2370 |  
+| oomlout_detail_hierarchy_7 | 280_mm_depth |  
+| oomlout_detail_hierarchy_7_upper | 280_MM_DEPTH |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 280D |  
+| oomlout_detail_hierarchy_8 | ikea |  
+| oomlout_detail_hierarchy_8_upper | IKEA |  
+| oomlout_detail_hierarchy_8_upper_length_4 | IKEA |  
+| oomlout_detail_hierarchy_9 | 591_822_01 |  
+| oomlout_detail_hierarchy_9_upper | 591_822_01 |  
+| oomlout_detail_hierarchy_9_upper_length_4 | 591_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_furniture_shelf_ikea_billy_white_800_mm_width_2370_mm_height_280_mm_depth_ikea_591_822_01 |  
 | oomp_word | octopus shoe ghost |  

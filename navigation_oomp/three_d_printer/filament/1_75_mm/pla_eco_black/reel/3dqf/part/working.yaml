@@ -384,6 +384,24 @@ name_no_color: Reel 3Dqf
 name_no_size: Pla Eco Black Reel 3Dqf
 name_no_size_short: Pla Eco Black Reel 3Dqf
 name_no_type: 1 75 mm Pla Eco Black Reel 3Dqf
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: filament
+oomlout_detail_hierarchy_2_upper: FILAMENT
+oomlout_detail_hierarchy_2_upper_length_4: FILA
+oomlout_detail_hierarchy_3: 1_75_mm
+oomlout_detail_hierarchy_3_upper: 1_75_MM
+oomlout_detail_hierarchy_3_upper_length_4: '1_75'
+oomlout_detail_hierarchy_4: pla_eco_black
+oomlout_detail_hierarchy_4_upper: PLA_ECO_BLACK
+oomlout_detail_hierarchy_4_upper_length_4: PLA_
+oomlout_detail_hierarchy_5: reel
+oomlout_detail_hierarchy_5_upper: REEL
+oomlout_detail_hierarchy_5_upper_length_4: REEL
+oomlout_detail_hierarchy_6: 3dqf
+oomlout_detail_hierarchy_6_upper: 3DQF
+oomlout_detail_hierarchy_6_upper_length_4: 3DQF
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_filament_1_75_mm_pla_eco_black_reel_3dqf
 oomp_word: ramen corn office

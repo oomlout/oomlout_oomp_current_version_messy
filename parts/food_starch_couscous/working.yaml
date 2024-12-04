@@ -313,6 +313,15 @@ name_no_size: Couscous
 name_no_size_short: Couscous
 name_no_type: Couscous
 name_short: Couscous
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: couscous
+oomlout_detail_hierarchy_3_upper: COUSCOUS
+oomlout_detail_hierarchy_3_upper_length_4: COUS
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_couscous
 oomp_word: tophat monkey shoe

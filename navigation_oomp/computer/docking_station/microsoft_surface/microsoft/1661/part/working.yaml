@@ -337,6 +337,21 @@ name_no_color: Microsoft1661
 name_no_size: Microsoft 1661
 name_no_size_short: Microsoft 1661
 name_no_type: Microsoft Surface Microsoft 1661
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: docking_station
+oomlout_detail_hierarchy_2_upper: DOCKING_STATION
+oomlout_detail_hierarchy_2_upper_length_4: DOCK
+oomlout_detail_hierarchy_3: microsoft_surface
+oomlout_detail_hierarchy_3_upper: MICROSOFT_SURFACE
+oomlout_detail_hierarchy_3_upper_length_4: MICR
+oomlout_detail_hierarchy_4: microsoft
+oomlout_detail_hierarchy_4_upper: MICROSOFT
+oomlout_detail_hierarchy_4_upper_length_4: MICR
+oomlout_detail_hierarchy_5: '1661'
+oomlout_detail_hierarchy_5_upper: '1661'
+oomlout_detail_hierarchy_5_upper_length_4: '1661'
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_docking_station_microsoft_surface_microsoft_1661
 oomp_word: eyes house wrench

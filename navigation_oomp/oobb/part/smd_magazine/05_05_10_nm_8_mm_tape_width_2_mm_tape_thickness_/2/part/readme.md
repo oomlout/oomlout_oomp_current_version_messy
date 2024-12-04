@@ -337,6 +337,27 @@ panel |
 | name_no_size | 05 05 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2 |  
 | name_no_size_short | 05 05 10 Nm 8 Mm Tape Width 2 Mm Tape Thickness  2 |  
 | name_no_type | SMD Magazine 05 05 10 Nm 8 mm Tape Width 2 mm Tape Thickness  2 |  
+| oomlout_detail_hierarchy_1 | oobb |  
+| oomlout_detail_hierarchy_1_upper | OOBB |  
+| oomlout_detail_hierarchy_1_upper_length_4 | OOBB |  
+| oomlout_detail_hierarchy_2 | part |  
+| oomlout_detail_hierarchy_2_upper | PART |  
+| oomlout_detail_hierarchy_2_upper_length_4 | PART |  
+| oomlout_detail_hierarchy_3 | smd_magazine |  
+| oomlout_detail_hierarchy_3_upper | SMD_MAGAZINE |  
+| oomlout_detail_hierarchy_3_upper_length_4 | SMD_ |  
+| oomlout_detail_hierarchy_4 | 05_05_10_nm |  
+| oomlout_detail_hierarchy_4_upper | 05_05_10_NM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 05_0 |  
+| oomlout_detail_hierarchy_5 | 8_mm_tape_width |  
+| oomlout_detail_hierarchy_5_upper | 8_MM_TAPE_WIDTH |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 8TAP |  
+| oomlout_detail_hierarchy_6 | 2_mm_tape_thickness_ |  
+| oomlout_detail_hierarchy_6_upper | 2_MM_TAPE_THICKNESS_ |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 2TAP |  
+| oomlout_detail_hierarchy_7 | 2 |  
+| oomlout_detail_hierarchy_7_upper | 2 |  
+| oomlout_detail_hierarchy_7_upper_length_4 | 2 |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_oobb_part_smd_magazine_05_05_10_nm_8_mm_tape_width_2_mm_tape_thickness__2 |  
 | oomp_word | pray heart chestnut |  

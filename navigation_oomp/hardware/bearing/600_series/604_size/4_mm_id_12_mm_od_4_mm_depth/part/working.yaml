@@ -360,6 +360,21 @@ name_no_color: 4 mm ID 12 mm OD 4 mm Depth
 name_no_size: 604 Size 4 mm ID 12 mm OD 4 mm Depth
 name_no_size_short: 604 Size 4 Mm Id 12 Mm Od 4 Mm Depth
 name_no_type: 600 Series 604 Size 4 mm ID 12 mm OD 4 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 600_series
+oomlout_detail_hierarchy_3_upper: 600_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '600_'
+oomlout_detail_hierarchy_4: 604_size
+oomlout_detail_hierarchy_4_upper: 604_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '604_'
+oomlout_detail_hierarchy_5: 4_mm_depth
+oomlout_detail_hierarchy_5_upper: 4_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 4DEP
 oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br604
 oomlout_short_code_upper: BR604
