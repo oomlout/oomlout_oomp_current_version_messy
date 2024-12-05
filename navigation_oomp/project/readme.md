@@ -96,6 +96,7 @@
     * [oomlout_oobb_holder_electrical_power_bar_uk](github/oomlout/oomlout_oobb_holder_electrical_power_bar_uk)
     * [oomlout_oobb_holder_electronic_battery](github/oomlout/oomlout_oobb_holder_electronic_battery)
     * [oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200](github/oomlout/oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200)
+    * [oomlout_oobb_holder_electronic_breakout_board_mcu_esp32](github/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_esp32)
     * [oomlout_oobb_holder_electronic_breakout_board_mcu_pico_raspberry_pi](github/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_pico_raspberry_pi)
     * [oomlout_oobb_holder_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible](github/oomlout/oomlout_oobb_holder_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible)
     * [oomlout_oobb_holder_electronic_breakout_board_motor_driver](github/oomlout/oomlout_oobb_holder_electronic_breakout_board_motor_driver)

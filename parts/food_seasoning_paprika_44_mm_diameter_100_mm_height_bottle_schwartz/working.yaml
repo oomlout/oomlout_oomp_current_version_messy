@@ -1,294 +1,23 @@
-bip_39_word_dash_1: feed
-bip_39_word_dash_10: feed-snack-mammal-verify-bachelor-marriage-riot-fiber-nut-bitter
-bip_39_word_dash_11: feed-snack-mammal-verify-bachelor-marriage-riot-fiber-nut-bitter-grit
-bip_39_word_dash_12: feed-snack-mammal-verify-bachelor-marriage-riot-fiber-nut-bitter-grit-adapt
-bip_39_word_dash_2: feed-snack
-bip_39_word_dash_3: feed-snack-mammal
-bip_39_word_dash_4: feed-snack-mammal-verify
-bip_39_word_dash_5: feed-snack-mammal-verify-bachelor
-bip_39_word_dash_6: feed-snack-mammal-verify-bachelor-marriage
-bip_39_word_dash_7: feed-snack-mammal-verify-bachelor-marriage-riot
-bip_39_word_dash_8: feed-snack-mammal-verify-bachelor-marriage-riot-fiber
-bip_39_word_dash_9: feed-snack-mammal-verify-bachelor-marriage-riot-fiber-nut
-bip_39_word_new_br_1: feed
-bip_39_word_new_br_10: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot<br>fiber<br>nut<br>bitter
-bip_39_word_new_br_11: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot<br>fiber<br>nut<br>bitter<br>grit
-bip_39_word_new_br_12: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot<br>fiber<br>nut<br>bitter<br>grit<br>adapt
-bip_39_word_new_br_2: feed<br>snack
-bip_39_word_new_br_3: feed<br>snack<br>mammal
-bip_39_word_new_br_4: feed<br>snack<br>mammal<br>verify
-bip_39_word_new_br_5: feed<br>snack<br>mammal<br>verify<br>bachelor
-bip_39_word_new_br_6: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage
-bip_39_word_new_br_7: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot
-bip_39_word_new_br_8: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot<br>fiber
-bip_39_word_new_br_9: feed<br>snack<br>mammal<br>verify<br>bachelor<br>marriage<br>riot<br>fiber<br>nut
-bip_39_word_new_line_1: feed
-bip_39_word_new_line_10: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot
-
-  fiber
-
-  nut
-
-  bitter'
-bip_39_word_new_line_11: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot
-
-  fiber
-
-  nut
-
-  bitter
-
-  grit'
-bip_39_word_new_line_12: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot
-
-  fiber
-
-  nut
-
-  bitter
-
-  grit
-
-  adapt'
-bip_39_word_new_line_2: 'feed
-
-  snack'
-bip_39_word_new_line_3: 'feed
-
-  snack
-
-  mammal'
-bip_39_word_new_line_4: 'feed
-
-  snack
-
-  mammal
-
-  verify'
-bip_39_word_new_line_5: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor'
-bip_39_word_new_line_6: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage'
-bip_39_word_new_line_7: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot'
-bip_39_word_new_line_8: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot
-
-  fiber'
-bip_39_word_new_line_9: 'feed
-
-  snack
-
-  mammal
-
-  verify
-
-  bachelor
-
-  marriage
-
-  riot
-
-  fiber
-
-  nut'
-bip_39_word_no_space_1: feed
-bip_39_word_no_space_10: feedsnackmammalverifybachelormarriageriotfibernutbitter
-bip_39_word_no_space_11: feedsnackmammalverifybachelormarriageriotfibernutbittergrit
-bip_39_word_no_space_12: feedsnackmammalverifybachelormarriageriotfibernutbittergritadapt
-bip_39_word_no_space_2: feedsnack
-bip_39_word_no_space_3: feedsnackmammal
-bip_39_word_no_space_4: feedsnackmammalverify
-bip_39_word_no_space_5: feedsnackmammalverifybachelor
-bip_39_word_no_space_6: feedsnackmammalverifybachelormarriage
-bip_39_word_no_space_7: feedsnackmammalverifybachelormarriageriot
-bip_39_word_no_space_8: feedsnackmammalverifybachelormarriageriotfiber
-bip_39_word_no_space_9: feedsnackmammalverifybachelormarriageriotfibernut
-bip_39_word_space_0:
-- feed
-- snack
-- mammal
-- verify
-- bachelor
-- marriage
-- riot
-- fiber
-- nut
-- bitter
-- grit
-- adapt
-bip_39_word_space_1: feed
-bip_39_word_space_10: feed snack mammal verify bachelor marriage riot fiber nut bitter
-bip_39_word_space_11: feed snack mammal verify bachelor marriage riot fiber nut bitter
-  grit
-bip_39_word_space_12: feed snack mammal verify bachelor marriage riot fiber nut bitter
-  grit adapt
-bip_39_word_space_2: feed snack
-bip_39_word_space_3: feed snack mammal
-bip_39_word_space_4: feed snack mammal verify
-bip_39_word_space_5: feed snack mammal verify bachelor
-bip_39_word_space_6: feed snack mammal verify bachelor marriage
-bip_39_word_space_7: feed snack mammal verify bachelor marriage riot
-bip_39_word_space_8: feed snack mammal verify bachelor marriage riot fiber
-bip_39_word_space_9: feed snack mammal verify bachelor marriage riot fiber nut
-bip_39_word_underscore_1: feed
-bip_39_word_underscore_10: feed_snack_mammal_verify_bachelor_marriage_riot_fiber_nut_bitter
-bip_39_word_underscore_11: feed_snack_mammal_verify_bachelor_marriage_riot_fiber_nut_bitter_grit
-bip_39_word_underscore_12: feed_snack_mammal_verify_bachelor_marriage_riot_fiber_nut_bitter_grit_adapt
-bip_39_word_underscore_2: feed_snack
-bip_39_word_underscore_3: feed_snack_mammal
-bip_39_word_underscore_4: feed_snack_mammal_verify
-bip_39_word_underscore_5: feed_snack_mammal_verify_bachelor
-bip_39_word_underscore_6: feed_snack_mammal_verify_bachelor_marriage
-bip_39_word_underscore_7: feed_snack_mammal_verify_bachelor_marriage_riot
-bip_39_word_underscore_8: feed_snack_mammal_verify_bachelor_marriage_riot_fiber
-bip_39_word_underscore_9: feed_snack_mammal_verify_bachelor_marriage_riot_fiber_nut
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: paprika
 description_extra: 44_mm_diameter_100_mm_height_bottle
 description_extra_capital: 44 mm Diameter 100 mm Height Bottle
 description_extra_first_letter: '4'
 description_extra_first_letter_upper: '4'
-description_extra_length_1: '4'
-description_extra_length_2: '44'
-description_extra_length_3: '44_'
-description_extra_length_4: 44_m
-description_extra_length_5: 44_mm
-description_extra_length_6: 44_mm_
-description_extra_name: 44 mm Diameter 100 mm Height Bottle
-description_extra_no_space_length_1: '4'
-description_extra_no_space_length_2: '44'
-description_extra_no_space_length_3: 44m
-description_extra_no_space_length_4: 44mm
-description_extra_no_space_length_5: 44mmd
-description_extra_no_space_length_6: 44mmdi
-description_extra_no_space_upper_length_1: '4'
-description_extra_no_space_upper_length_2: '44'
-description_extra_no_space_upper_length_3: 44M
-description_extra_no_space_upper_length_4: 44MM
-description_extra_no_space_upper_length_5: 44MMD
-description_extra_no_space_upper_length_6: 44MMDI
 description_extra_upper: 44_MM_DIAMETER_100_MM_HEIGHT_BOTTLE
-description_extra_upper_length_1: '4'
-description_extra_upper_length_2: '44'
-description_extra_upper_length_3: '44_'
-description_extra_upper_length_4: 44_M
-description_extra_upper_length_5: 44_MM
-description_extra_upper_length_6: 44_MM_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -298,53 +27,20 @@ directory: parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schw
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
 id: food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
 id_no_class: seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
-id_no_color: 44mmdiameter100mmheightbottleschwartz
 id_no_size: 44_mm_diameter_100_mm_height_bottle_schwartz
 id_no_type: paprika_44_mm_diameter_100_mm_height_bottle_schwartz
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
-link_2_name: github_link
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201wjt1
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201wjt1
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201wjt1
 manufacturer: schwartz
 manufacturer_capital: Schwartz
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
-manufacturer_length_1: s
-manufacturer_length_2: sc
-manufacturer_length_3: sch
-manufacturer_length_4: schw
-manufacturer_length_5: schwa
-manufacturer_length_6: schwar
-manufacturer_name: Schwartz
-manufacturer_no_space_length_1: s
-manufacturer_no_space_length_2: sc
-manufacturer_no_space_length_3: sch
-manufacturer_no_space_length_4: schw
-manufacturer_no_space_length_5: schwa
-manufacturer_no_space_length_6: schwar
-manufacturer_no_space_upper_length_1: S
-manufacturer_no_space_upper_length_2: SC
-manufacturer_no_space_upper_length_3: SCH
-manufacturer_no_space_upper_length_4: SCHW
-manufacturer_no_space_upper_length_5: SCHWA
-manufacturer_no_space_upper_length_6: SCHWAR
 manufacturer_upper: SCHWARTZ
-manufacturer_upper_length_1: S
-manufacturer_upper_length_2: SC
-manufacturer_upper_length_3: SCH
-manufacturer_upper_length_4: SCHW
-manufacturer_upper_length_5: SCHWA
-manufacturer_upper_length_6: SCHWAR
 manufacturers: []
 markdown_full: '[food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz)<br>[Food
-  Seasoning Paprika 44 Mm Diameter 100 Mm Height Bottle Schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
+    Seasoning Paprika 44 Mm Diameter 100 Mm Height Bottle Schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
 markdown_short: '[food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz)<br><br>'
 md5: 30cd45b4bd55b74621089f2b0d7342a5
 md5_10: 30cd45b4bd
@@ -355,29 +51,12 @@ md5_6: 30cd45
 md5_6_alpha: 1wjt1
 md5_6_alpha_upper: 1WJT1
 md5_6_upper: 30CD45
-name: Food Seasoning Paprika 44 mm Diameter 100 mm Height Bottle Schwartz
-name_no_class: Seasoning Paprika 44 mm Diameter 100 mm Height Bottle Schwartz
-name_no_color: 44mmdiameter100mmheightbottleschwartz
-name_no_size: 44 mm Diameter 100 mm Height Bottle Schwartz
+name: Food Seasoning Paprika 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_class: Seasoning Paprika 44 Mm Diameter 100 Mm Height Bottle Schwartz
+name_no_size: 44 Mm Diameter 100 Mm Height Bottle Schwartz
 name_no_size_short: 44 Mm Diameter 100 Mm Height Bottle Schwartz
-name_no_type: Paprika 44 mm Diameter 100 mm Height Bottle Schwartz
+name_no_type: Paprika 44 Mm Diameter 100 Mm Height Bottle Schwartz
 name_short: Paprika
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: seasoning
-oomlout_detail_hierarchy_2_upper: SEASONING
-oomlout_detail_hierarchy_2_upper_length_4: SEAS
-oomlout_detail_hierarchy_3: paprika
-oomlout_detail_hierarchy_3_upper: PAPRIKA
-oomlout_detail_hierarchy_3_upper_length_4: PAPR
-oomlout_detail_hierarchy_4: 100_mm_height
-oomlout_detail_hierarchy_4_upper: 100_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 100H
-oomlout_detail_hierarchy_5: schwartz
-oomlout_detail_hierarchy_5_upper: SCHWARTZ
-oomlout_detail_hierarchy_5_upper_length_4: SCHW
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_seasoning_paprika_44_mm_diameter_100_mm_height_bottle_schwartz
 oomp_word: foggy strawberry snake
 oomp_word_emoji: ':foggy: :strawberry: :snake:'
@@ -393,71 +72,18 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
 short_code: ''
 short_code_upper: ''
 size: paprika
 size_capital: Paprika
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: pap
-size_length_4: papr
-size_length_5: papri
-size_length_6: paprik
-size_name: Paprika
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: pap
-size_no_space_length_4: papr
-size_no_space_length_5: papri
-size_no_space_length_6: paprik
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAP
-size_no_space_upper_length_4: PAPR
-size_no_space_upper_length_5: PAPRI
-size_no_space_upper_length_6: PAPRIK
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PAPRIKA
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAP
-size_upper_length_4: PAPR
-size_upper_length_5: PAPRI
-size_upper_length_6: PAPRIK
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON
