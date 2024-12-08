@@ -422,6 +422,7 @@ brown |
 | pins | {'pin_1': {'name': 'collector', 'number': '1', 'type': 'signal'}, 'pin_2': {'name': 'emitter', 'number': '2', 'type': 'signal'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | i6snl |  
 | short_code_upper | I6SNL |  
 | short_name | everlight elec als_pt19_315c_l177_tr8 |  

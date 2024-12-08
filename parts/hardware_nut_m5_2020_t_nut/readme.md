@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: innocent lab firm gadget behind million toilet embody december calm quote assume
 
 ### other_codes
-* short_code: n5m
+* short_code: n5m2t
 * oomp_word: fountain poodle scream
 * oomp_word_emoji :fountain: :poodle: :scream:
 * md5_6_alpha: 8prm0
@@ -355,8 +355,8 @@ december |
 | oomlout_detail_hierarchy_5_upper | T_NUT |  
 | oomlout_detail_hierarchy_5_upper_length_4 | T_NU |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n5m |  
-| oomlout_short_code_upper | N5M |  
+| oomlout_short_code | n5m2t |  
+| oomlout_short_code_upper | N5M2T |  
 | oomp_key | oomp_hardware_nut_m5_2020_t_nut |  
 | oomp_word | fountain poodle scream |  
 | oomp_word_emoji | :fountain: :poodle: :scream: |  
@@ -370,6 +370,7 @@ december |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu5 |  
 | short_code_upper | NU5 |  
 | size | m5 |  

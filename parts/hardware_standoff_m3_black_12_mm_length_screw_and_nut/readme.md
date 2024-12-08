@@ -414,6 +414,7 @@ gym |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | st3b12sn |  
 | short_code_upper | ST3B12SN |  
 | size | m3 |  

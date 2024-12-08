@@ -370,6 +370,7 @@ combine |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l10l |  
 | short_code_upper | L10L |  
 | short_name | 10 Mm Bluetint Led |  

@@ -371,6 +371,7 @@ earth |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 46pz |  
 | short_code_upper | 46PZ |  
 | size | m4 |  

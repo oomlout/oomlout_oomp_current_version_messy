@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square) [link_distributor_amazon](https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |  | 0.10858333333333334 |  |  |  |  |
 | orbital_fasteners |  |  |  |  |  | 
 | accu |  |  |  |  |  | 
-
+| amazon | 0.06658333333333334 |  |  |  |  | 
 
 
 
@@ -291,7 +291,6 @@ turtle |
 | description_or_color_upper | 250 |  
 | directory | parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
 | distributor_amazon | B0CHG4S5G6 |  
-| distributor_amazon_link | https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6 |  
 | distributor_rapid_online | 06-0930 |  
 | distributor_rapid_online_link | https://www.rapidonline.com/rapid-a4-card-white-pack-of-100-06-0930 |  
 | distributors | [] |  
@@ -308,6 +307,11 @@ turtle |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
 | link_2_name | github_link |  
+| link_3 | https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6 |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6 |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.co.uk/A4-100sheet-Cardstock-Invitations-Stationary-Scrapbook/dp/B0CHG4S5G6 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%204ovrn |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%204ovrn |  
@@ -348,8 +352,8 @@ turtle |
 | oomlout_detail_hierarchy_4 | 297_mm_height |  
 | oomlout_detail_hierarchy_4_upper | 297_MM_HEIGHT |  
 | oomlout_detail_hierarchy_4_upper_length_4 | 297H |  
-| oomlout_detail_hierarchy_5 | 250_grams_per_meter_square |  
-| oomlout_detail_hierarchy_5_upper | 250_GRAMS_PER_METER_SQUARE |  
+| oomlout_detail_hierarchy_5 | 250_gram |  
+| oomlout_detail_hierarchy_5_upper | 250_GRAM |  
 | oomlout_detail_hierarchy_5_upper_length_4 | 250_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_paper_sheet_a4_210_mm_width_297_mm_height_250_grams_per_meter_square |  
@@ -364,10 +368,12 @@ turtle |
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 0.10858333333333334 |  
+| price_1_distributor_3 | 0.06658333333333334 |  
 | price_1_distributor_amazon | 0.06658333333333334 |  
 | price_1_distributor_rapid_online | 0.10858333333333334 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a4_210_mm_width_297_mm_height |  

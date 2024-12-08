@@ -342,6 +342,7 @@ helmet |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro180 |  
 | short_code_upper | RO180 |  
 | size | 0201 |  

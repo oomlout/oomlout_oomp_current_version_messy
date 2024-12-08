@@ -315,6 +315,7 @@ raise |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | w2 |  
 | short_code_upper | W2 |  
 | size | m2 |  

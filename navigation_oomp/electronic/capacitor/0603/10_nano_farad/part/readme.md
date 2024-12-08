@@ -344,6 +344,7 @@ genuine |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | c6nf10 |  
 | short_code_upper | C6NF10 |  
 | size | 0603 |  

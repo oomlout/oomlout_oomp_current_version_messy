@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.019 | 0.019 | 0.0119 | 0.0107 | 0.0095 |
 | orbital_fasteners | 0.019 | 0.019 | 0.0119 | 0.0107 | 0.0095 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -309,13 +309,9 @@ main |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_locking |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49 |  
-| link_4_name | webpage_manufacturer_metalmate |  
+| link_3 | https://www.harclob2b.com/m6-din982-type-p-nylon-insert-nut-class-8-zinc-pla-1657m49 |  
+| link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m6-nyloc-nut-steel-bright-zinc-plated-grade-8-din-982-type-p |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_locking |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%203qg8g |  
@@ -392,6 +388,7 @@ main |
 | price_200_distributor_1 | 0.0119 |  
 | price_200_distributor_orbital_fasteners | 0.0119 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0119 |  
 | quantity_current | 200 |  
 | short_code | nu6 |  

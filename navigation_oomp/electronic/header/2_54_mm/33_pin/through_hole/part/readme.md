@@ -368,6 +368,7 @@ under |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi133pth |  
 | short_code_upper | HI133PTH |  
 | size | 2_54_mm |  

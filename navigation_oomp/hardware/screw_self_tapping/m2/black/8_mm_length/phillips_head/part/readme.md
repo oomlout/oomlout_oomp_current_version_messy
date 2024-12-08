@@ -415,6 +415,7 @@ weather |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | st2b8ph |  
 | short_code_upper | ST2B8PH |  
 | size | m2 |  

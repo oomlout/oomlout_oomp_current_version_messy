@@ -400,6 +400,7 @@ save |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | c8d65tuf220v10 |  
 | short_code_upper | C8D65TUF220V10 |  
 | size | 8_mm_diameter_6_5_mm_tall |  

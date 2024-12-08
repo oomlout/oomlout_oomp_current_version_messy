@@ -400,9 +400,9 @@ split |
 | oomlout_detail_hierarchy_4 | ketchup |  
 | oomlout_detail_hierarchy_4_upper | KETCHUP |  
 | oomlout_detail_hierarchy_4_upper_length_4 | KETC |  
-| oomlout_detail_hierarchy_5 | bottle_squeeze_910_gram |  
-| oomlout_detail_hierarchy_5_upper | BOTTLE_SQUEEZE_910_GRAM |  
-| oomlout_detail_hierarchy_5_upper_length_4 | BOTT |  
+| oomlout_detail_hierarchy_5 | 910_gram |  
+| oomlout_detail_hierarchy_5_upper | 910_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 910_ |  
 | oomlout_detail_hierarchy_6 | heinz |  
 | oomlout_detail_hierarchy_6_upper | HEINZ |  
 | oomlout_detail_hierarchy_6_upper_length_4 | HEIN |  
@@ -420,6 +420,7 @@ split |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

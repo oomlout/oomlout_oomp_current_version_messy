@@ -425,6 +425,7 @@ plug |
 | pins | {'pin_1': {'name': 'sa0_sdo', 'number': '1', 'type': 'power'}, 'pin_10': {'name': 'cs', 'number': '10', 'type': 'power'}, 'pin_11': {'name': 'nc', 'number': '11', 'type': 'power'}, 'pin_12': {'name': 'scl_sck', 'number': '12', 'type': 'power'}, 'pin_2': {'name': 'sda_sdi_sdio', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'vddio', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'res', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'int1', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'int2', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'vs', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'gndio', 'number': '8', 'type': 'power'}, 'pin_9': {'name': 'gnd', 'number': '9', 'type': 'power'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | isnastk8321 |  
 | short_code_upper | ISNASTK8321 |  
 | short_name | bosch sensortec bme280 pressure and temperature sensor |  

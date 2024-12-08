@@ -2,6 +2,8 @@
   * [dual_h_bridge](drv8833/dual_h_bridge)
     * [15_mm_width_15_mm_length_black_pcb](drv8833/dual_h_bridge/15_mm_width_15_mm_length_black_pcb)
       * [aliexpress](drv8833/dual_h_bridge/15_mm_width_15_mm_length_black_pcb/aliexpress)
+    * [18_mm_width_16_mm_length_black_pcb](drv8833/dual_h_bridge/18_mm_width_16_mm_length_black_pcb)
+      * [aliexpress](drv8833/dual_h_bridge/18_mm_width_16_mm_length_black_pcb/aliexpress)
 * [l298n](l298n)
   * [dual_h_bridge](l298n/dual_h_bridge)
     * [25_mm_width_21_mm_length_red_pcb](l298n/dual_h_bridge/25_mm_width_21_mm_length_red_pcb)

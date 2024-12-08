@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: fiscal student hero section effort riot kidney later few knock trust arch
 
 ### other_codes
-* short_code: n4m
+* short_code: n4m2w
 * oomp_word: briefcase tomato crocodile
 * oomp_word_emoji :briefcase: :tomato: :crocodile:
 * md5_6_alpha: 6xs9q
@@ -355,8 +355,8 @@ few |
 | oomlout_detail_hierarchy_5_upper | BALL_SPRING |  
 | oomlout_detail_hierarchy_5_upper_length_4 | BALL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n4m |  
-| oomlout_short_code_upper | N4M |  
+| oomlout_short_code | n4m2w |  
+| oomlout_short_code_upper | N4M2W |  
 | oomp_key | oomp_hardware_nut_m4_2020_ball_spring |  
 | oomp_word | briefcase tomato crocodile |  
 | oomp_word_emoji | :briefcase: :tomato: :crocodile: |  
@@ -370,6 +370,7 @@ few |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu4 |  
 | short_code_upper | NU4 |  
 | size | m4 |  

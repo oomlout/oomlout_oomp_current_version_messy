@@ -370,6 +370,7 @@ believe |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | lw |  
 | short_code_upper | LW |  
 | short_name | 0201 Whiteclear Led |  

@@ -415,6 +415,7 @@ enough |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh3b12h |  
 | short_code_upper | FH3B12H |  
 | size | m3 |  

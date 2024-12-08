@@ -344,6 +344,7 @@ exact |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l6y |  
 | short_code_upper | L6Y |  
 | short_name | 0603 Yellow Led |  

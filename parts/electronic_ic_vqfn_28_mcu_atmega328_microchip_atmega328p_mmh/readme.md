@@ -421,6 +421,7 @@ advice |
 | part_number_upper_length_6 | ATMEGA |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ivq28mcuat328 |  
 | short_code_upper | IVQ28MCUAT328 |  
 | short_name | atmega328 28 pin vqfn |  

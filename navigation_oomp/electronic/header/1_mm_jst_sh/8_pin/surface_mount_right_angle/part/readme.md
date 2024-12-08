@@ -368,6 +368,7 @@ advance |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjsh8psmra |  
 | short_code_upper | HJSH8PSMRA |  
 | short_name | Jst Sh 8 Pin Surface Mount Right Angle Header 1 Mm Pitch |  

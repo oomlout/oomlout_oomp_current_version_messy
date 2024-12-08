@@ -416,6 +416,7 @@ pattern |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | stb3ph |  
 | short_code_upper | STB3PH |  
 | size | m1_4 |  

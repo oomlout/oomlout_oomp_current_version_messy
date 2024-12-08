@@ -398,6 +398,7 @@ random |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 325ph |  
 | short_code_upper | 325PH |  
 | size | m3 |  

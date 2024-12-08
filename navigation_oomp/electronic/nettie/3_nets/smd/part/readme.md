@@ -343,6 +343,7 @@ day |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nt3 |  
 | short_code_upper | NT3 |  
 | size | 3_nets |  

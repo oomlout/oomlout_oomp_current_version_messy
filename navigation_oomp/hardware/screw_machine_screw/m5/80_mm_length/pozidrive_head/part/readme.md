@@ -371,6 +371,7 @@ rug |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 580pz |  
 | short_code_upper | 580PZ |  
 | size | m5 |  

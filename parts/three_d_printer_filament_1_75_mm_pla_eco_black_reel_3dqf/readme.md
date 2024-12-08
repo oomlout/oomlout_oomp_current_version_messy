@@ -395,6 +395,7 @@ coyote |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.013325000000000002 |  
 | price_per | 0.008325 |  
 | price_per_1 | 0.013325000000000002 |  

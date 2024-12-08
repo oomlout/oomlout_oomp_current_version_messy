@@ -368,6 +368,7 @@ other |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi115psmra |  
 | short_code_upper | HI115PSMRA |  
 | size | 2_54_mm |  

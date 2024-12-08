@@ -344,6 +344,7 @@ sign |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r12o474 |  
 | short_code_upper | R12O474 |  
 | size | 1206 |  

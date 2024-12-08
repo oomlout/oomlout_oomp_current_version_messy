@@ -343,6 +343,7 @@ cake |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r4o823 |  
 | short_code_upper | R4O823 |  
 | size | 0402 |  

@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: sugar dove picture use marble human tree reopen peasant find stereo agree
 
 ### other_codes
-* short_code: n4m
+* short_code: n4m2t
 * oomp_word: snail boot poop
 * oomp_word_emoji :snail: :boot: :poop:
 * md5_6_alpha: 36psl
@@ -355,8 +355,8 @@ peasant |
 | oomlout_detail_hierarchy_5_upper | T_NUT |  
 | oomlout_detail_hierarchy_5_upper_length_4 | T_NU |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n4m |  
-| oomlout_short_code_upper | N4M |  
+| oomlout_short_code | n4m2t |  
+| oomlout_short_code_upper | N4M2T |  
 | oomp_key | oomp_hardware_nut_m4_2020_t_nut |  
 | oomp_word | snail boot poop |  
 | oomp_word_emoji | :snail: :boot: :poop: |  
@@ -370,6 +370,7 @@ peasant |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu4 |  
 | short_code_upper | NU4 |  
 | size | m4 |  

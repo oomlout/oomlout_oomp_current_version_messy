@@ -415,6 +415,7 @@ snow |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | cs2b12h |  
 | short_code_upper | CS2B12H |  
 | size | m2 |  

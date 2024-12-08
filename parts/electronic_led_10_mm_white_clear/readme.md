@@ -370,6 +370,7 @@ vessel |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l10w |  
 | short_code_upper | L10W |  
 | short_name | 10 Mm Whiteclear Led |  

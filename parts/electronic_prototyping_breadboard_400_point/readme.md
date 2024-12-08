@@ -315,6 +315,7 @@ spring |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 400p |  
 | short_code_upper | 400P |  
 | size | 400_point |  

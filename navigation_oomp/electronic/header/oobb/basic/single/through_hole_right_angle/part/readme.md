@@ -394,6 +394,7 @@ minimum |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hob1thra |  
 | short_code_upper | HOB1THRA |  
 | short_name |  |  

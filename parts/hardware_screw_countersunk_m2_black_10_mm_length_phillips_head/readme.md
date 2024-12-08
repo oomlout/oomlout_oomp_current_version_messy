@@ -415,6 +415,7 @@ raven |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | cs2b10ph |  
 | short_code_upper | CS2B10PH |  
 | size | m2 |  

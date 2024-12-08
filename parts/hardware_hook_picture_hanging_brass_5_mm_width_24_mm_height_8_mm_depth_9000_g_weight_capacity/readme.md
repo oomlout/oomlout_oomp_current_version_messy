@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity) [link_distributor_amazon](https://www.amazon.co.uk/dp/B0CSBNN2R1)                            
 
 #### price
 
@@ -323,7 +323,6 @@ usual |
 | description_or_color_upper | B5K2 |  
 | directory | parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
 | distributor_amazon | B0CSBNN2R1 |  
-| distributor_amazon_link | https://www.amazon.co.uk/dp/B0CSBNN2R1 |  
 | distributors | [] |  
 | filter |  |  
 | from_yaml | False |  
@@ -337,6 +336,11 @@ usual |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
 | link_2_name | github_link |  
+| link_3 | https://www.amazon.co.uk/dp/B0CSBNN2R1 |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.co.uk/dp/B0CSBNN2R1 |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.co.uk/dp/B0CSBNN2R1 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_hook_picture_hanging_brass_5_mm_width_24_mm_height_8_mm_depth_9000_g_weight_capacity |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201y9v9 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%201y9v9 |  
@@ -400,6 +404,7 @@ usual |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

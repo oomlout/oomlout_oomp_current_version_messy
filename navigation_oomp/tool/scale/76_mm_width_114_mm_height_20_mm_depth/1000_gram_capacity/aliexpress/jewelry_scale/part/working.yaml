@@ -380,8 +380,8 @@ oomlout_detail_hierarchy_4_upper_length_4: 114H
 oomlout_detail_hierarchy_5: 20_mm_depth
 oomlout_detail_hierarchy_5_upper: 20_MM_DEPTH
 oomlout_detail_hierarchy_5_upper_length_4: 20DE
-oomlout_detail_hierarchy_6: 1000_gram_capacity
-oomlout_detail_hierarchy_6_upper: 1000_GRAM_CAPACITY
+oomlout_detail_hierarchy_6: 1000_gram
+oomlout_detail_hierarchy_6_upper: 1000_GRAM
 oomlout_detail_hierarchy_6_upper_length_4: '1000'
 oomlout_detail_hierarchy_7: aliexpress
 oomlout_detail_hierarchy_7_upper: ALIEXPRESS
@@ -433,6 +433,7 @@ part_number_upper_length_5: JEWEL
 part_number_upper_length_6: JEWELR
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 short_code: ''
 short_code_upper: ''
 size: 76_mm_width_114_mm_height_20_mm_depth

@@ -451,6 +451,7 @@ steel |
 | pins | {'pin_1': {'name': 'v_positive', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'oe', 'number': '10', 'type': 'signal'}, 'pin_2': {'name': 's', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'd_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'd_negative', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'gnd', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'hsd1_negative', 'number': '6', 'type': 'gnd'}, 'pin_7': {'name': 'hsd1_positive', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'hsd2_negative', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'hsd2_positive', 'number': '9', 'type': 'signal'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | imsp10mpump21rs2227 |  
 | short_code_upper | IMSP10MPUMP21RS2227 |  
 | short_name | usb multiplexer 2 to 1 (rs2227xn) |  

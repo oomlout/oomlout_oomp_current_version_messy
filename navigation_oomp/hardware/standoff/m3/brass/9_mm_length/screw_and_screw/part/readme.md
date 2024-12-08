@@ -414,6 +414,7 @@ banana |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | st39 |  
 | short_code_upper | ST39 |  
 | size | m3 |  

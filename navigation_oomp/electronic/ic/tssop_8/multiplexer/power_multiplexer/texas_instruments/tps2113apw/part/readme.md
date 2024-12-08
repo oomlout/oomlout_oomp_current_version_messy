@@ -424,6 +424,7 @@ usage |
 | pins | {'pin_1': {'name': 'stat', 'number': '1', 'type': 'signal'}, 'pin_2': {'name': 'en', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'vsns', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'ilim', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'gnd', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'in2', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'out', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'in1', 'number': '8', 'type': 'power'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | itssp8mpptps2113 |  
 | short_code_upper | ITSSP8MPPTPS2113 |  
 | short_name | autoswitching power mux (tps2113apw) |  

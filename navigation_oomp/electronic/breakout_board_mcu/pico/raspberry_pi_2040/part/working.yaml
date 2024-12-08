@@ -542,6 +542,7 @@ pins:
     type: signal
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 short_code: pcrp2040
 short_code_upper: PCRP2040
 short_name: ''

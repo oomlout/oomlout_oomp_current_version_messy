@@ -354,8 +354,8 @@ broken |
 | oomlout_detail_hierarchy_5 | 40_mm_depth |  
 | oomlout_detail_hierarchy_5_upper | 40_MM_DEPTH |  
 | oomlout_detail_hierarchy_5_upper_length_4 | 40DE |  
-| oomlout_detail_hierarchy_6 | 200_gram_capacity |  
-| oomlout_detail_hierarchy_6_upper | 200_GRAM_CAPACITY |  
+| oomlout_detail_hierarchy_6 | 200_gram |  
+| oomlout_detail_hierarchy_6_upper | 200_GRAM |  
 | oomlout_detail_hierarchy_6_upper_length_4 | 200_ |  
 | oomlout_detail_hierarchy_7 | aliexpress |  
 | oomlout_detail_hierarchy_7_upper | ALIEXPRESS |  
@@ -401,6 +401,7 @@ broken |
 | part_number_upper_length_6 | JEWELR |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 70_mm_width_120_mm_height_40_mm_depth |  

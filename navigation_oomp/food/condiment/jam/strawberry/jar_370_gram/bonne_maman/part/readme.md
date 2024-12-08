@@ -400,9 +400,9 @@ traffic |
 | oomlout_detail_hierarchy_4 | strawberry |  
 | oomlout_detail_hierarchy_4_upper | STRAWBERRY |  
 | oomlout_detail_hierarchy_4_upper_length_4 | STRA |  
-| oomlout_detail_hierarchy_5 | jar_370_gram |  
-| oomlout_detail_hierarchy_5_upper | JAR_370_GRAM |  
-| oomlout_detail_hierarchy_5_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_5 | 370_gram |  
+| oomlout_detail_hierarchy_5_upper | 370_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 370_ |  
 | oomlout_detail_hierarchy_6 | bonne_maman |  
 | oomlout_detail_hierarchy_6_upper | BONNE_MAMAN |  
 | oomlout_detail_hierarchy_6_upper_length_4 | BONN |  
@@ -420,6 +420,7 @@ traffic |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

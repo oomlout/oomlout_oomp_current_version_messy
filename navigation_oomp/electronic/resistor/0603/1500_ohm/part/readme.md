@@ -344,6 +344,7 @@ patch |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r6o152 |  
 | short_code_upper | R6O152 |  
 | size | 0603 |  

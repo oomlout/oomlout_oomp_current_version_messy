@@ -415,6 +415,7 @@ carpet |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | sc2b3h |  
 | short_code_upper | SC2B3H |  
 | size | m2 |  

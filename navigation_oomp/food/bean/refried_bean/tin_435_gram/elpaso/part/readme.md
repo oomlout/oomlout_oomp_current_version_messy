@@ -373,9 +373,9 @@ depart |
 | oomlout_detail_hierarchy_3 | refried_bean |  
 | oomlout_detail_hierarchy_3_upper | REFRIED_BEAN |  
 | oomlout_detail_hierarchy_3_upper_length_4 | REFR |  
-| oomlout_detail_hierarchy_4 | tin_435_gram |  
-| oomlout_detail_hierarchy_4_upper | TIN_435_GRAM |  
-| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_4 | 435_gram |  
+| oomlout_detail_hierarchy_4_upper | 435_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 435_ |  
 | oomlout_detail_hierarchy_5 | elpaso |  
 | oomlout_detail_hierarchy_5_upper | ELPASO |  
 | oomlout_detail_hierarchy_5_upper_length_4 | ELPA |  
@@ -393,6 +393,7 @@ depart |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

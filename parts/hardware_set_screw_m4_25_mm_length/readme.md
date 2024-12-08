@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_25_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_25_mm_length) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_25_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_25_mm_length)                             
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0379 | 0.0379 | 0.0379 | 0.0211 | 0.0169 |
 | orbital_fasteners | 0.0379 | 0.0379 | 0.0379 | 0.0211 | 0.0169 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -305,11 +305,7 @@ minor |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m4_25_mm_length |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m4-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m4-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m4_25_mm_length |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2012l9w |  
@@ -401,6 +397,7 @@ minor |
 | price_200_distributor_1 | 0.0379 |  
 | price_200_distributor_orbital_fasteners | 0.0379 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0379 |  
 | quantity_current | 200 |  
 | short_code | ss425 |  

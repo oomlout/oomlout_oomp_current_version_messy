@@ -371,6 +371,7 @@ frozen |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 45pz |  
 | short_code_upper | 45PZ |  
 | size | m4 |  

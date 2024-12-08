@@ -264,7 +264,6 @@ caught |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/aluminium_extrusion_2020 |  
 | link_2_name | github_link |  
-| link_buy | https://www.aluminium-profile.co.uk/20x20-aluminium-profile-kjn992888 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/aluminium_extrusion_2020 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207x1cl |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%207x1cl |  
@@ -313,6 +312,7 @@ caught |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

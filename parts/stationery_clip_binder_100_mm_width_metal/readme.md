@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_100_mm_width_metal)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_100_mm_width_metal) [link_distributor_amazon](https://www.amazon.co.uk/dp/B075YQ93CC)                            
 
 #### price
 
@@ -275,7 +275,6 @@ response |
 | description_or_color_upper | M  |  
 | directory | parts/stationery_clip_binder_100_mm_width_metal |  
 | distributor_amazon | B075YQ93CC |  
-| distributor_amazon_link | https://www.amazon.co.uk/dp/B075YQ93CC |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_100_mm_width_metal |  
 | id | stationery_clip_binder_100_mm_width_metal |  
@@ -287,6 +286,11 @@ response |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_clip_binder_100_mm_width_metal |  
 | link_2_name | github_link |  
+| link_3 | https://www.amazon.co.uk/dp/B075YQ93CC |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.co.uk/dp/B075YQ93CC |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.co.uk/dp/B075YQ93CC |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/stationery_clip_binder_100_mm_width_metal |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%205skau |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%205skau |  
@@ -339,9 +343,11 @@ response |
 | part_number_first_letter_upper |  |  
 | part_number_name |  |  
 | part_number_upper |  |  
+| price_1_distributor_3 | 0.8275 |  
 | price_1_distributor_amazon | 0.8275 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

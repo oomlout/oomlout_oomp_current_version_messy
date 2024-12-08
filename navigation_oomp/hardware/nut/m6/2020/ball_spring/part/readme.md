@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: sunset improve tobacco repair capital private vacant absorb clerk scorpion devote arena
 
 ### other_codes
-* short_code: n6m
+* short_code: n6m2w
 * oomp_word: beer balloon crown
 * oomp_word_emoji :beer: :balloon: :crown:
 * md5_6_alpha: 74be8
@@ -355,8 +355,8 @@ clerk |
 | oomlout_detail_hierarchy_5_upper | BALL_SPRING |  
 | oomlout_detail_hierarchy_5_upper_length_4 | BALL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n6m |  
-| oomlout_short_code_upper | N6M |  
+| oomlout_short_code | n6m2w |  
+| oomlout_short_code_upper | N6M2W |  
 | oomp_key | oomp_hardware_nut_m6_2020_ball_spring |  
 | oomp_word | beer balloon crown |  
 | oomp_word_emoji | :beer: :balloon: :crown: |  
@@ -370,6 +370,7 @@ clerk |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  
 | size | m6 |  

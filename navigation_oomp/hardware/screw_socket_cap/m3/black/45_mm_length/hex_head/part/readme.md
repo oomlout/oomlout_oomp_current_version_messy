@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |  | missing_value | missing_value | missing_value | missing_value | missing_value |
 | orbital_fasteners |  |  |  |  |  | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -445,6 +445,7 @@ helmet |
 | price_1_name | orbital_fasteners |  
 | price_200 | missing_value |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | missing_value |  
 | short_code | sc3b45h |  
 | short_code_upper | SC3B45H |  

@@ -371,6 +371,7 @@ build |
 | pins | {'pin_1': {'name': 'gnd', 'number': '1', 'type': 'power'}, 'pin_10': {'name': 'pin_10', 'number': '10', 'type': 'signal'}, 'pin_11': {'name': 'pin_11', 'number': '11', 'type': 'signal'}, 'pin_12': {'name': 'pin_12', 'number': '12', 'type': 'signal'}, 'pin_13': {'name': 'pin_13', 'number': '13', 'type': 'signal'}, 'pin_14': {'name': 'pin_14', 'number': '14', 'type': 'signal'}, 'pin_2': {'name': '3v3', 'number': '2', 'type': 'power'}, 'pin_3': {'name': 'sda_3v3', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'scl_3v3', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'cs', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'address', 'number': '6', 'type': 'signal'}, 'pin_7': {'name': 'pin_7', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'pin_8', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'pin_9', 'number': '9', 'type': 'signal'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | insoic14wi2cland |  
 | short_code_upper | INSOIC14WI2CLAND |  
 | short_name |  |  

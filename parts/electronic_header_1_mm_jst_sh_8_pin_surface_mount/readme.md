@@ -367,6 +367,7 @@ wild |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjsh8psm |  
 | short_code_upper | HJSH8PSM |  
 | short_name | Jst Sh 8 Pin Surface Mount Header 1 Mm Pitch |  

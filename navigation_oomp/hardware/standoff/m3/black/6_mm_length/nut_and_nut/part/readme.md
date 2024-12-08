@@ -414,6 +414,7 @@ code |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | st3b6nn |  
 | short_code_upper | ST3B6NN |  
 | size | m3 |  

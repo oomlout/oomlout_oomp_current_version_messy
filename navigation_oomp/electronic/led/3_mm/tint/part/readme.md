@@ -342,6 +342,7 @@ dutch |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l3 |  
 | short_code_upper | L3 |  
 | short_name | 3 Mm Tint Led |  

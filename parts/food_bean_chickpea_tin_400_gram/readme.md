@@ -349,9 +349,9 @@ limit |
 | oomlout_detail_hierarchy_3 | chickpea |  
 | oomlout_detail_hierarchy_3_upper | CHICKPEA |  
 | oomlout_detail_hierarchy_3_upper_length_4 | CHIC |  
-| oomlout_detail_hierarchy_4 | tin_400_gram |  
-| oomlout_detail_hierarchy_4_upper | TIN_400_GRAM |  
-| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_4 | 400_gram |  
+| oomlout_detail_hierarchy_4_upper | 400_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 400_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_bean_chickpea_tin_400_gram |  
 | oomp_word | eyes blowfish book |  
@@ -366,6 +366,7 @@ limit |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

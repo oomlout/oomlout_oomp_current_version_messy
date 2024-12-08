@@ -414,6 +414,7 @@ reopen |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | st320 |  
 | short_code_upper | ST320 |  
 | size | m3 |  

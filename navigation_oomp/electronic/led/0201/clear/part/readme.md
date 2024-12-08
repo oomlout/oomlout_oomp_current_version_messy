@@ -343,6 +343,7 @@ flame |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l |  
 | short_code_upper | L |  
 | short_name | 0201 Clear Led |  

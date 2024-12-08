@@ -344,6 +344,7 @@ duck |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r6o154 |  
 | short_code_upper | R6O154 |  
 | size | 0603 |  

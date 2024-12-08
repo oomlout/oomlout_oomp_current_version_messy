@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling)                             
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0846 | 0.0706 | 0.0706 | 0.0564 | 0.0564 |
 | orbital_fasteners | 0.0846 | 0.0706 | 0.0706 | 0.0564 | 0.0564 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -305,11 +305,7 @@ vast |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m6_coupling |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334 |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334 |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/studding-connectors-mild-steel-m6x18-bright-zinc-plated-grade-4-din-6334-din-6334 |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m6_coupling |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%201qsz8 |  
@@ -384,6 +380,7 @@ vast |
 | price_200_distributor_1 | 0.0706 |  
 | price_200_distributor_orbital_fasteners | 0.0706 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | missing_value |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  

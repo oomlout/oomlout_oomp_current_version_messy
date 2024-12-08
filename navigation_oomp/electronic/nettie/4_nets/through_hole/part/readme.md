@@ -343,6 +343,7 @@ mountain |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nt4th |  
 | short_code_upper | NT4TH |  
 | size | 4_nets |  

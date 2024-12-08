@@ -415,6 +415,7 @@ start |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh3b10ph |  
 | short_code_upper | FH3B10PH |  
 | size | m3 |  

@@ -325,8 +325,8 @@ chalk |
 | oomlout_detail_hierarchy_3 | spice |  
 | oomlout_detail_hierarchy_3_upper | SPICE |  
 | oomlout_detail_hierarchy_3_upper_length_4 | SPIC |  
-| oomlout_detail_hierarchy_4 | 100_gram_bag |  
-| oomlout_detail_hierarchy_4_upper | 100_GRAM_BAG |  
+| oomlout_detail_hierarchy_4 | 100_gram |  
+| oomlout_detail_hierarchy_4_upper | 100_GRAM |  
 | oomlout_detail_hierarchy_4_upper_length_4 | 100_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_seasoning_spice_100_gram_bag |  
@@ -342,6 +342,7 @@ chalk |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | spice |  

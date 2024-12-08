@@ -344,6 +344,7 @@ enable |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r8o391 |  
 | short_code_upper | R8O391 |  
 | size | 0805 |  

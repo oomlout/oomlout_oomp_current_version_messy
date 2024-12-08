@@ -421,6 +421,7 @@ cliff |
 | part_number_upper_length_6 | PIC32M |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | imcup32mk1024 |  
 | short_code_upper | IMCUP32MK1024 |  
 | short_name | pic32mk1024gpk100  |  

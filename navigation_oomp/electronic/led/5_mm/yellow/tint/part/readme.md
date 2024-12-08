@@ -370,6 +370,7 @@ rotate |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l5y |  
 | short_code_upper | L5Y |  
 | short_name | 5 Mm Yellowtint Led |  

@@ -415,6 +415,7 @@ annual |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | sc2b10h |  
 | short_code_upper | SC2B10H |  
 | size | m2 |  

@@ -370,6 +370,7 @@ random |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | xcr3213mhz8 |  
 | short_code_upper | XCR3213MHZ8 |  
 | size | 3213 |  

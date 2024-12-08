@@ -318,6 +318,7 @@ lift |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | a0_841_mm_width_1189_mm_height |  

@@ -367,6 +367,7 @@ doll |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjxh8pth |  
 | short_code_upper | HJXH8PTH |  
 | size | 2_5_mm_jst_xh |  

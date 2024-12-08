@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: spirit vast major raw release pattern govern leaf help fetch exercise absurd
 
 ### other_codes
-* short_code: n5m
+* short_code: n5m2w
 * oomp_word: star clubs telescope
 * oomp_word_emoji :star: :clubs: :telescope:
 * md5_6_alpha: ncet
@@ -355,8 +355,8 @@ help |
 | oomlout_detail_hierarchy_5_upper | BALL_SPRING |  
 | oomlout_detail_hierarchy_5_upper_length_4 | BALL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n5m |  
-| oomlout_short_code_upper | N5M |  
+| oomlout_short_code | n5m2w |  
+| oomlout_short_code_upper | N5M2W |  
 | oomp_key | oomp_hardware_nut_m5_2020_ball_spring |  
 | oomp_word | star clubs telescope |  
 | oomp_word_emoji | :star: :clubs: :telescope: |  
@@ -370,6 +370,7 @@ help |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu5 |  
 | short_code_upper | NU5 |  
 | size | m5 |  

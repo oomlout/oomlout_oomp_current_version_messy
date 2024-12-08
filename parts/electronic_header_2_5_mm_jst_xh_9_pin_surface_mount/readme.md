@@ -367,6 +367,7 @@ pipe |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjxh9psm |  
 | short_code_upper | HJXH9PSM |  
 | size | 2_5_mm_jst_xh |  

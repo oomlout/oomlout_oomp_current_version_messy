@@ -368,6 +368,7 @@ surface |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi124pth |  
 | short_code_upper | HI124PTH |  
 | size | 2_54_mm |  

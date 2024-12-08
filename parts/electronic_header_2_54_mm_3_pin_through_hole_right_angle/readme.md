@@ -367,6 +367,7 @@ moon |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi13pthra |  
 | short_code_upper | HI13PTHRA |  
 | size | 2_54_mm |  

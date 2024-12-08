@@ -434,6 +434,7 @@ like |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | search_term_aliexpress | 720 PCS Small Computer Screws Assortment Kit, Black Tiny Eyeglass Screws, PC & Laptop SSD Hard Drive CPU Cooler Screw |  
 | short_code |  |  
 | short_code_upper |  |  

@@ -342,6 +342,7 @@ lecture |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro155 |  
 | short_code_upper | RO155 |  
 | size | 0201 |  

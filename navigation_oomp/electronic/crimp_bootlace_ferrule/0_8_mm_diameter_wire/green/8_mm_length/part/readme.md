@@ -367,6 +367,7 @@ impose |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | g8 |  
 | short_code_upper | G8 |  
 | size | 0_8_mm_diameter_wire |  

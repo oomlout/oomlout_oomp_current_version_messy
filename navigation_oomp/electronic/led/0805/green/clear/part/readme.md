@@ -371,6 +371,7 @@ approve |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l8g |  
 | short_code_upper | L8G |  
 | short_name | 0805 Greenclear Led |  

@@ -367,6 +367,7 @@ sudden |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | sci17pthl |  
 | short_code_upper | SCI17PTHL |  
 | size | 2_54_mm |  

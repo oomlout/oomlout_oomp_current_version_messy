@@ -367,6 +367,7 @@ modify |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi12x15pth |  
 | short_code_upper | HI12X15PTH |  
 | size | 2_54_mm_dual_row |  

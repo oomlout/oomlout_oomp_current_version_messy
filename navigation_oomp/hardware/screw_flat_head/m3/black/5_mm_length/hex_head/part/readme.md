@@ -415,6 +415,7 @@ raw |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh3b5h |  
 | short_code_upper | FH3B5H |  
 | size | m3 |  

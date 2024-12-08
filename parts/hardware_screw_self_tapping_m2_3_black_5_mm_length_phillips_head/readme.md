@@ -416,6 +416,7 @@ powder |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | stb5ph |  
 | short_code_upper | STB5PH |  
 | size | m2_3 |  

@@ -410,6 +410,7 @@ price_1: "\xA31.25"
 price_10: "\xA31.25"
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 price_current: "\xA31.25"
 short_code: ''
 short_code_upper: ''

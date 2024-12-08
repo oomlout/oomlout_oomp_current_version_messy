@@ -370,6 +370,7 @@ discover |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | c |  
 | short_code_upper | C |  
 | size | 1_6_mm_internal_diameter |  

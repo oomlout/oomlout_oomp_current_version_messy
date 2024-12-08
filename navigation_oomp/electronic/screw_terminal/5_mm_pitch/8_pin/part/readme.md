@@ -340,6 +340,7 @@ across |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 8p |  
 | short_code_upper | 8P |  
 | short_name |  |  

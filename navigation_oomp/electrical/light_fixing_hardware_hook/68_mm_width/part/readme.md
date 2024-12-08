@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width) [link_distributor_amazon](https://www.amazon.co.uk/dp/B0BLYVQBV7)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |  | 1.1650000000000003 |  |  |  |  |
 | orbital_fasteners |  |  |  |  |  | 
 | accu |  |  |  |  |  | 
-
+| amazon | 1.1650000000000003 |  |  |  |  | 
 
 
 
@@ -267,7 +267,6 @@ length |
 | description_or_color_upper |   |  
 | directory | parts/electrical_light_fixing_hardware_hook_68_mm_width |  
 | distributor_amazon | B0BLYVQBV7 |  
-| distributor_amazon_link | https://www.amazon.co.uk/dp/B0BLYVQBV7 |  
 | distributors | [] |  
 | github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
 | id | electrical_light_fixing_hardware_hook_68_mm_width |  
@@ -279,6 +278,11 @@ length |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
 | link_2_name | github_link |  
+| link_3 | https://www.amazon.co.uk/dp/B0BLYVQBV7 |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.co.uk/dp/B0BLYVQBV7 |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.co.uk/dp/B0BLYVQBV7 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2069epm |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2069epm |  
@@ -329,9 +333,11 @@ length |
 | part_number_name |  |  
 | part_number_upper |  |  
 | price_1 | 1.1650000000000003 |  
+| price_1_distributor_3 | 1.1650000000000003 |  
 | price_1_distributor_amazon | 1.1650000000000003 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

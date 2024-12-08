@@ -370,6 +370,7 @@ solar |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ch7p |  
 | short_code_upper | CH7P |  
 | size | 2_5_mm_jst_sm_latching |  

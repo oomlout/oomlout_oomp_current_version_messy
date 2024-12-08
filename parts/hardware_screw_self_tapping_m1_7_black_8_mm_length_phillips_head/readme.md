@@ -416,6 +416,7 @@ maze |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | stb8ph |  
 | short_code_upper | STB8PH |  
 | size | m1_7 |  

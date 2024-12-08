@@ -367,6 +367,7 @@ thrive |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjsh7psm |  
 | short_code_upper | HJSH7PSM |  
 | short_name | Jst Sh 7 Pin Surface Mount Header 1 Mm Pitch |  

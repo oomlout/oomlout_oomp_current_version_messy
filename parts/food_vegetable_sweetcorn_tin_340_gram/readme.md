@@ -351,9 +351,9 @@ ship |
 | oomlout_detail_hierarchy_3 | sweetcorn |  
 | oomlout_detail_hierarchy_3_upper | SWEETCORN |  
 | oomlout_detail_hierarchy_3_upper_length_4 | SWEE |  
-| oomlout_detail_hierarchy_4 | tin_340_gram |  
-| oomlout_detail_hierarchy_4_upper | TIN_340_GRAM |  
-| oomlout_detail_hierarchy_4_upper_length_4 | TIN_ |  
+| oomlout_detail_hierarchy_4 | 340_gram |  
+| oomlout_detail_hierarchy_4_upper | 340_GRAM |  
+| oomlout_detail_hierarchy_4_upper_length_4 | 340_ |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
 | oomp_key | oomp_food_vegetable_sweetcorn_tin_340_gram |  
 | oomp_word | ant shell koala |  
@@ -369,6 +369,7 @@ ship |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

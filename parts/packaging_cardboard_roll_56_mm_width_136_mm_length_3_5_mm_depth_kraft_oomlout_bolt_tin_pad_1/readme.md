@@ -401,6 +401,7 @@ elder |
 | part_number_upper_length_6 | BOLT_T |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

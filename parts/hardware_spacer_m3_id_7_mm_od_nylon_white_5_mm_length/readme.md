@@ -389,6 +389,7 @@ judge |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 5 |  
 | short_code_upper | 5 |  
 | size | m3_id_7_mm_od |  

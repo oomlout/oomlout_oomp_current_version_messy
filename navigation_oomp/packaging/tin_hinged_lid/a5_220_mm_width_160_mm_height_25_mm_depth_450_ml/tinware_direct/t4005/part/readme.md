@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |  | £1.25 |  |  |  |  |
 | orbital_fasteners |  |  |  |  |  | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -393,6 +393,7 @@ north |
 | price_10 | £1.25 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | £1.25 |  
 | short_code |  |  
 | short_code_upper |  |  

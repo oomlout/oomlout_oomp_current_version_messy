@@ -343,6 +343,7 @@ beef |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r4o104 |  
 | short_code_upper | R4O104 |  
 | size | 0402 |  

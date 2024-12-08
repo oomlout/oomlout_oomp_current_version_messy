@@ -415,6 +415,7 @@ parrot |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh6b20h |  
 | short_code_upper | FH6B20H |  
 | size | m6 |  

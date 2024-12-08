@@ -354,8 +354,8 @@ wonder |
 | oomlout_detail_hierarchy_5 | 18_mm_depth |  
 | oomlout_detail_hierarchy_5_upper | 18_MM_DEPTH |  
 | oomlout_detail_hierarchy_5_upper_length_4 | 18DE |  
-| oomlout_detail_hierarchy_6 | 500_gram_capacity |  
-| oomlout_detail_hierarchy_6_upper | 500_GRAM_CAPACITY |  
+| oomlout_detail_hierarchy_6 | 500_gram |  
+| oomlout_detail_hierarchy_6_upper | 500_GRAM |  
 | oomlout_detail_hierarchy_6_upper_length_4 | 500_ |  
 | oomlout_detail_hierarchy_7 | aliexpress |  
 | oomlout_detail_hierarchy_7_upper | ALIEXPRESS |  
@@ -401,6 +401,7 @@ wonder |
 | part_number_upper_length_6 | JEWELR |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 67_mm_width_120_mm_height_18_mm_depth |  

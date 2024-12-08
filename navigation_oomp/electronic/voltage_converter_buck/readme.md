@@ -1,0 +1,5 @@
+* [variable_output_voltage](variable_output_voltage)
+  * [3_amp_max_output](variable_output_voltage/3_amp_max_output)
+    * [25_mm_width_10_mm_length_green_pcb](variable_output_voltage/3_amp_max_output/25_mm_width_10_mm_length_green_pcb)
+      * [24_volt_max_input](variable_output_voltage/3_amp_max_output/25_mm_width_10_mm_length_green_pcb/24_volt_max_input)
+        * [aliexpress](variable_output_voltage/3_amp_max_output/25_mm_width_10_mm_length_green_pcb/24_volt_max_input/aliexpress)

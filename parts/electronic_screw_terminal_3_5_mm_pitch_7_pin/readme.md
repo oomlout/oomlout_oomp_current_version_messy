@@ -340,6 +340,7 @@ gym |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 7p |  
 | short_code_upper | 7P |  
 | short_name |  |  

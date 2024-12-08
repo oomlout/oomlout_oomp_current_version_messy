@@ -367,6 +367,7 @@ vibrant |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | gr8 |  
 | short_code_upper | GR8 |  
 | size | 0_8_mm_diameter_wire |  

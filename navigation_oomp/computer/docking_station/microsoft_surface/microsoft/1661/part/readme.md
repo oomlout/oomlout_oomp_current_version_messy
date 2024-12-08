@@ -368,6 +368,7 @@ penalty |
 | part_number_upper_length_6 | 1661 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | microsoft_surface |  

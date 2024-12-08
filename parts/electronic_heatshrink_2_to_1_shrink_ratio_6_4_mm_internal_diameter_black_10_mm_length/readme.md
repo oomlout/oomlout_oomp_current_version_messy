@@ -370,6 +370,7 @@ model |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | b10 |  
 | short_code_upper | B10 |  
 | size | 6_4_mm_internal_diameter |  

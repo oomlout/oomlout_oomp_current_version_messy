@@ -395,6 +395,7 @@ drink |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.017491666666666666 |  
 | price_per | 0.017491666666666666 |  
 | price_per_gram | 0.017491666666666666 |  

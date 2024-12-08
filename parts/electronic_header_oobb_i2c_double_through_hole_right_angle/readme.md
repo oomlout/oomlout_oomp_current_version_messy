@@ -394,6 +394,7 @@ upset |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hob2thra |  
 | short_code_upper | HOB2THRA |  
 | short_name |  |  

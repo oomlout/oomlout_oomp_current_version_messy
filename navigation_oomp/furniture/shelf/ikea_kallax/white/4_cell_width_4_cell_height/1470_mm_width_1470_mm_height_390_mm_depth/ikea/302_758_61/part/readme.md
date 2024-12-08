@@ -460,6 +460,7 @@ club |
 | part_number_upper_length_6 | 302_75 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | w |  
 | short_code_upper | W |  
 | size | ikea_kallax |  

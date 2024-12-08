@@ -416,6 +416,7 @@ crazy |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fhb6ph |  
 | short_code_upper | FHB6PH |  
 | size | m2_5 |  

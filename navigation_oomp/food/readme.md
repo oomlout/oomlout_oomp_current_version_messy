@@ -27,6 +27,7 @@
     * [tin_400_gram](bean/chickpea/tin_400_gram)
   * [kidney_bean](bean/kidney_bean)
     * [tin_400_gram](bean/kidney_bean/tin_400_gram)
+  * [lentil_red](bean/lentil_red)
   * [refried_bean](bean/refried_bean)
     * [tin_435_gram](bean/refried_bean/tin_435_gram)
       * [elpaso](bean/refried_bean/tin_435_gram/elpaso)

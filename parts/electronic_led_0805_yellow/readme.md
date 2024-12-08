@@ -344,6 +344,7 @@ enemy |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l8y |  
 | short_code_upper | L8Y |  
 | short_name | 0805 Yellow Led |  

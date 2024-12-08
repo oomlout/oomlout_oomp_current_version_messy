@@ -377,9 +377,9 @@ rhythm |
 | oomlout_detail_hierarchy_4 | spaghetti |  
 | oomlout_detail_hierarchy_4_upper | SPAGHETTI |  
 | oomlout_detail_hierarchy_4_upper_length_4 | SPAG |  
-| oomlout_detail_hierarchy_5 | box_500_gram |  
-| oomlout_detail_hierarchy_5_upper | BOX_500_GRAM |  
-| oomlout_detail_hierarchy_5_upper_length_4 | BOX_ |  
+| oomlout_detail_hierarchy_5 | 500_gram |  
+| oomlout_detail_hierarchy_5_upper | 500_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 500_ |  
 | oomlout_detail_hierarchy_6 | barilla |  
 | oomlout_detail_hierarchy_6_upper | BARILLA |  
 | oomlout_detail_hierarchy_6_upper_length_4 | BARI |  
@@ -397,6 +397,7 @@ rhythm |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | pasta |  

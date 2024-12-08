@@ -282,6 +282,7 @@ link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/
 link_1_name: link_main
 link_2: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200
 link_2_name: github_link
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005005544254172.html
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_battery_box_dewalt_xr_aliexpress_diy_200
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20100fw
 link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20100fw
@@ -364,6 +365,7 @@ oomp_word_list:
 - pig
 part_number: diy_200
 part_number_capital: Diy 200
+part_number_distributor_aliexpress: '1005005544254172'
 part_number_exact: DIY-200
 part_number_first_letter: d
 part_number_first_letter_upper: D
@@ -395,6 +397,7 @@ part_number_upper_length_5: DIY_2
 part_number_upper_length_6: DIY_20
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 short_code: ''
 short_code_upper: ''
 short_name: Dewalt XR Battery Holder

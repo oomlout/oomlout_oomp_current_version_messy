@@ -370,6 +370,7 @@ bacon |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | o15 |  
 | short_code_upper | O15 |  
 | size | 1_6_mm_internal_diameter |  

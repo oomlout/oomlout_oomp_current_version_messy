@@ -370,6 +370,7 @@ gossip |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | br15 |  
 | short_code_upper | BR15 |  
 | size | 101_6_mm_internal_diameter |  

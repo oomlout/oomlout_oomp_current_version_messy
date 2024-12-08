@@ -585,6 +585,7 @@ pins:
     type: signal
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 short_code: isoic28waip1640
 short_code_upper: ISOIC28WAIP1640
 short_name: 16x8 led matrix driver (aip1640)

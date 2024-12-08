@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_25_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_25_mm_length) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m8-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m8-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540025)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_25_mm_length) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_25_mm_length) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m8-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540025)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0601 | 0.0601 | 0.0376 | 0.0301 | 0.0301 |
 | orbital_fasteners | 0.0601 | 0.0601 | 0.0376 | 0.0301 | 0.0301 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -309,13 +309,9 @@ journey |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_set_screw_m8_25_mm_length |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m8-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.harclob2b.com/m8-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540025 |  
-| link_4_name | webpage_manufacturer_metalmate |  
+| link_3 | https://www.harclob2b.com/m8-x-25-high-tensile-set-gr-8-8-zinc-plated-metalm-z0318m540025 |  
+| link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m8-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m8-x-25-hexagon-head-set-screws-high-tensile-grade-8-8-bright-zinc-plated |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_set_screw_m8_25_mm_length |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%202lpuw |  
@@ -409,6 +405,7 @@ journey |
 | price_200_distributor_1 | 0.0376 |  
 | price_200_distributor_orbital_fasteners | 0.0376 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0376 |  
 | quantity_current | 200 |  
 | short_code | ss825 |  

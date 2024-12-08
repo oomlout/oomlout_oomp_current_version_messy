@@ -457,6 +457,7 @@ stereo |
 | part_number_upper_length_6 | 5348 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | pc |  
 | short_code_upper | PC |  
 | short_name |  |  

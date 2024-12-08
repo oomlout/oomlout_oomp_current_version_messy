@@ -415,6 +415,7 @@ van |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh4b12ph |  
 | short_code_upper | FH4B12PH |  
 | size | m4 |  

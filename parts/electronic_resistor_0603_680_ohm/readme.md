@@ -344,6 +344,7 @@ type |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r6o681 |  
 | short_code_upper | R6O681 |  
 | size | 0603 |  

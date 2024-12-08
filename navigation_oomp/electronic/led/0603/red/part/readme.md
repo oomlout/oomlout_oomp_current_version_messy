@@ -344,6 +344,7 @@ mouse |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l6r |  
 | short_code_upper | L6R |  
 | short_name | 0603 Red Led |  

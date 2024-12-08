@@ -370,6 +370,7 @@ desk |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l15 |  
 | short_code_upper | L15 |  
 | size | 3_2_mm_internal_diameter |  

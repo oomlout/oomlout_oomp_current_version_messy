@@ -372,8 +372,8 @@ oomlout_detail_hierarchy_2_upper_length_4: SEAS
 oomlout_detail_hierarchy_3: cumin_ground
 oomlout_detail_hierarchy_3_upper: CUMIN_GROUND
 oomlout_detail_hierarchy_3_upper_length_4: CUMI
-oomlout_detail_hierarchy_4: 100_gram_bag
-oomlout_detail_hierarchy_4_upper: 100_GRAM_BAG
+oomlout_detail_hierarchy_4: 100_gram
+oomlout_detail_hierarchy_4_upper: 100_GRAM
 oomlout_detail_hierarchy_4_upper_length_4: '100_'
 oomlout_detail_hierarchy_5: schwartz
 oomlout_detail_hierarchy_5_upper: SCHWARTZ
@@ -398,6 +398,7 @@ part_number_name: ''
 part_number_upper: ''
 price_1_name: orbital_fasteners
 price_2_name: accu
+price_3_name: amazon
 short_code: ''
 short_code_upper: ''
 size: cumin_ground

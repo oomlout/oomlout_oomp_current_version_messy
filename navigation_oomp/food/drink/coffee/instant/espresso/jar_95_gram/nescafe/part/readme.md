@@ -403,9 +403,9 @@ staff |
 | oomlout_detail_hierarchy_5 | espresso |  
 | oomlout_detail_hierarchy_5_upper | ESPRESSO |  
 | oomlout_detail_hierarchy_5_upper_length_4 | ESPR |  
-| oomlout_detail_hierarchy_6 | jar_95_gram |  
-| oomlout_detail_hierarchy_6_upper | JAR_95_GRAM |  
-| oomlout_detail_hierarchy_6_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_6 | 95_gram |  
+| oomlout_detail_hierarchy_6_upper | 95_GRAM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 95_G |  
 | oomlout_detail_hierarchy_7 | nescafe |  
 | oomlout_detail_hierarchy_7_upper | NESCAFE |  
 | oomlout_detail_hierarchy_7_upper_length_4 | NESC |  
@@ -423,6 +423,7 @@ staff |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | coffee |  

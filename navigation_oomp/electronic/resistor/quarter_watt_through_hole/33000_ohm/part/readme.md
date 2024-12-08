@@ -343,6 +343,7 @@ bunker |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro333 |  
 | short_code_upper | RO333 |  
 | size | quarter_watt_through_hole |  

@@ -395,6 +395,7 @@ business |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | pms22311171d5v |  
 | short_code_upper | PMS22311171D5V |  
 | short_name |  |  

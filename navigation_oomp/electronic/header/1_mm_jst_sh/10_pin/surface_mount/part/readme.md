@@ -367,6 +367,7 @@ slot |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hjsh10psm |  
 | short_code_upper | HJSH10PSM |  
 | short_name | Jst Sh 10 Pin Surface Mount Header 1 Mm Pitch |  

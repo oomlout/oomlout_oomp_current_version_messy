@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912) [webpage_distributor_accu](https://www.accu.co.uk/search-uk)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head)                             
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0341 | 0.0341 | 0.019 | 0.0151 | 0.0151 |
 | orbital_fasteners | 0.0341 | 0.0341 | 0.019 | 0.0151 | 0.0151 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -353,15 +353,7 @@ list |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912 |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.accu.co.uk/search-uk |  
-| link_4_name | webpage_distributor_accu |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912 |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-x-14-socket-cap-screw-high-tensile-grade-12-9-self-colour-din-912 |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
-| link_buy_2 | https://www.accu.co.uk/search-uk |  
-| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m4_black_14_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%20bwyv |  
@@ -461,6 +453,7 @@ list |
 | price_200_distributor_1 | 0.019 |  
 | price_200_distributor_orbital_fasteners | 0.019 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.019 |  
 | quantity_current | 200 |  
 | short_code | sc4b14h |  

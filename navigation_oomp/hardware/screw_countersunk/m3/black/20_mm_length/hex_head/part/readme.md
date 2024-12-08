@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991) [webpage_distributor_accu](https://www.accu.co.uk/countersunk-socket-head-screws/472019-SSK-M3-20-10-9) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020)                          
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0415 | 0.0415 | 0.023 | 0.0185 | 0.0185 |
 | orbital_fasteners | 0.0415 | 0.0415 | 0.023 | 0.0185 | 0.0185 | 
 | accu | 0.65 | 0.04 | 0.04 | 0.04 | 0.04 | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -357,17 +357,9 @@ chalk |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.accu.co.uk/countersunk-socket-head-screws/472019-SSK-M3-20-10-9 |  
-| link_4_name | webpage_distributor_accu |  
-| link_5 | https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020 |  
-| link_5_name | webpage_manufacturer_metalmate |  
+| link_3 | https://www.harclob2b.com/m3-x-20-socket-csk-screw-gr10-9-self-colour-din-79-1151m390020 |  
+| link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m3-x-20-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991 |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
-| link_buy_2 | https://www.accu.co.uk/countersunk-socket-head-screws/472019-SSK-M3-20-10-9 |  
-| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_countersunk_m3_black_20_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%208z25j |  
@@ -479,6 +471,7 @@ chalk |
 | price_200_distributor_accu | 0.04 |  
 | price_200_distributor_orbital_fasteners | 0.023 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.023 |  
 | project_bolt_tray_capacity_oobb_2_5_width_2_length_18_mm_depth | 25 |  
 | project_bolt_tray_capacity_oobb_4_width_2_5_length_18_mm_depth | 50 |  

@@ -320,6 +320,7 @@ magnet |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name | ['three by two', '3x2', 'two by three', '2x3'] |  

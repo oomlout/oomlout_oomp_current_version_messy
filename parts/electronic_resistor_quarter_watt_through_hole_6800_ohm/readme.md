@@ -343,6 +343,7 @@ midnight |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro682 |  
 | short_code_upper | RO682 |  
 | size | quarter_watt_through_hole |  

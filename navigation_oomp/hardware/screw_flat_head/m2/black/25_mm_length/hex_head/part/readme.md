@@ -415,6 +415,7 @@ atom |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh2b25h |  
 | short_code_upper | FH2B25H |  
 | size | m2 |  

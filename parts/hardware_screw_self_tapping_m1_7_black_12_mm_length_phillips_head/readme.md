@@ -416,6 +416,7 @@ round |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | stb12ph |  
 | short_code_upper | STB12PH |  
 | size | m1_7 |  

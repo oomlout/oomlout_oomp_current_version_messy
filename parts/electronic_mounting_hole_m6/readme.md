@@ -315,6 +315,7 @@ novel |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | mh6 |  
 | short_code_upper | MH6 |  
 | short_name | M6 Mounting Hole |  

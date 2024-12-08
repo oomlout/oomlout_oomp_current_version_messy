@@ -415,6 +415,7 @@ west |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh6b14ph |  
 | short_code_upper | FH6B14PH |  
 | size | m6 |  

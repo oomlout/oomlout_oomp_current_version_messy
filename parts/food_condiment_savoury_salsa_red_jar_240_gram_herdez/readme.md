@@ -400,9 +400,9 @@ buzz |
 | oomlout_detail_hierarchy_4 | salsa_red |  
 | oomlout_detail_hierarchy_4_upper | SALSA_RED |  
 | oomlout_detail_hierarchy_4_upper_length_4 | SALS |  
-| oomlout_detail_hierarchy_5 | jar_240_gram |  
-| oomlout_detail_hierarchy_5_upper | JAR_240_GRAM |  
-| oomlout_detail_hierarchy_5_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_5 | 240_gram |  
+| oomlout_detail_hierarchy_5_upper | 240_GRAM |  
+| oomlout_detail_hierarchy_5_upper_length_4 | 240_ |  
 | oomlout_detail_hierarchy_6 | herdez |  
 | oomlout_detail_hierarchy_6_upper | HERDEZ |  
 | oomlout_detail_hierarchy_6_upper_length_4 | HERD |  
@@ -420,6 +420,7 @@ buzz |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

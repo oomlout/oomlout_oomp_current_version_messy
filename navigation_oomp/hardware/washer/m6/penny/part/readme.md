@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-38-x-1-5mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021)                            
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_penny) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny)                             
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0787 | 0.0787 | 0.0492 | 0.0394 | 0.0394 |
 | orbital_fasteners | 0.0787 | 0.0787 | 0.0492 | 0.0394 | 0.0394 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -305,11 +305,7 @@ choice |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_washer_m6_penny |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m6-x-38-x-1-5mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-38-x-1-5mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m6-x-38-x-1-5mm-penny-mudguard-repair-washer-mild-steel-bright-zinc-plated-din-9021 |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_washer_m6_penny |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%207sonu |  
@@ -382,6 +378,7 @@ choice |
 | price_200_distributor_1 | 0.0492 |  
 | price_200_distributor_orbital_fasteners | 0.0492 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0492 |  
 | quantity_current | 200 |  
 | short_code | w6 |  

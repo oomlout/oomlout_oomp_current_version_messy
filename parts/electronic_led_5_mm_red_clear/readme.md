@@ -370,6 +370,7 @@ interest |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l5r |  
 | short_code_upper | L5R |  
 | short_name | 5 Mm Redclear Led |  

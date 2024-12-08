@@ -423,6 +423,7 @@ mom |
 | part_number_upper_length_6 | BOX_1 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | short_name |  |  

@@ -374,6 +374,7 @@ gate |
 | part_number_upper_length_6 | CW4000 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | 420_mm_width_350_mm_height_500_mm_depth |  

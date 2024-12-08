@@ -394,6 +394,7 @@ grunt |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | chi1b5pd |  
 | short_code_upper | CHI1B5PD |  
 | size | 2_54_mm |  

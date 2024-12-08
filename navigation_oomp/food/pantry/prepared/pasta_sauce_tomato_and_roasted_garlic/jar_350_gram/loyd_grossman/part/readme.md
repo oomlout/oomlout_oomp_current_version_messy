@@ -403,9 +403,9 @@ engage |
 | oomlout_detail_hierarchy_5 | roasted_garlic |  
 | oomlout_detail_hierarchy_5_upper | ROASTED_GARLIC |  
 | oomlout_detail_hierarchy_5_upper_length_4 | ROAS |  
-| oomlout_detail_hierarchy_6 | jar_350_gram |  
-| oomlout_detail_hierarchy_6_upper | JAR_350_GRAM |  
-| oomlout_detail_hierarchy_6_upper_length_4 | JAR_ |  
+| oomlout_detail_hierarchy_6 | 350_gram |  
+| oomlout_detail_hierarchy_6_upper | 350_GRAM |  
+| oomlout_detail_hierarchy_6_upper_length_4 | 350_ |  
 | oomlout_detail_hierarchy_7 | loyd_grossman |  
 | oomlout_detail_hierarchy_7_upper | LOYD_GROSSMAN |  
 | oomlout_detail_hierarchy_7_upper_length_4 | LOYD |  
@@ -423,6 +423,7 @@ engage |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size |  |  

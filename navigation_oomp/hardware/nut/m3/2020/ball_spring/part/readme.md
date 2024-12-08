@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: sadness first goat east result update prosper review tree gaze churn accuse
 
 ### other_codes
-* short_code: n3m
+* short_code: n3m2w
 * oomp_word: clap snail tennis
 * oomp_word_emoji :clap: :snail: :tennis:
 * md5_6_alpha: 10yvs
@@ -355,8 +355,8 @@ tree |
 | oomlout_detail_hierarchy_5_upper | BALL_SPRING |  
 | oomlout_detail_hierarchy_5_upper_length_4 | BALL |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n3m |  
-| oomlout_short_code_upper | N3M |  
+| oomlout_short_code | n3m2w |  
+| oomlout_short_code_upper | N3M2W |  
 | oomp_key | oomp_hardware_nut_m3_2020_ball_spring |  
 | oomp_word | clap snail tennis |  
 | oomp_word_emoji | :clap: :snail: :tennis: |  
@@ -370,6 +370,7 @@ tree |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu3 |  
 | short_code_upper | NU3 |  
 | size | m3 |  

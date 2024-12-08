@@ -367,6 +367,7 @@ empty |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | sci117pthl |  
 | short_code_upper | SCI117PTHL |  
 | size | 2_54_mm |  

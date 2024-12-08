@@ -423,6 +423,7 @@ write |
 | pins | {'pin_1': {'name': 'gnd', 'number': '1', 'type': 'signal'}, 'pin_10': {'name': 'v3', 'number': '10', 'type': 'signal'}, 'pin_2': {'name': 'ud_positive', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'ud_negative', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'gnd', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'cts', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'rts', 'number': '6', 'type': 'gnd'}, 'pin_7': {'name': 'vcc', 'number': '7', 'type': 'signal'}, 'pin_8': {'name': 'txd', 'number': '8', 'type': 'signal'}, 'pin_9': {'name': 'rxd', 'number': '9', 'type': 'signal'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | i |  
 | short_code_upper | I |  
 | short_name | usb to serial converter (ch340k) |  

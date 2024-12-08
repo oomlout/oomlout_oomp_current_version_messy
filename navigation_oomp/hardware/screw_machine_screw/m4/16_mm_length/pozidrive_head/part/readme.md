@@ -371,6 +371,7 @@ orchard |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | 416pz |  
 | short_code_upper | 416PZ |  
 | size | m4 |  

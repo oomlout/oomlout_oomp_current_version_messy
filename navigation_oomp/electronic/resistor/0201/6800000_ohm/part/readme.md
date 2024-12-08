@@ -342,6 +342,7 @@ birth |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro685 |  
 | short_code_upper | RO685 |  
 | size | 0201 |  

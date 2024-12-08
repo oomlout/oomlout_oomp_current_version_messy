@@ -428,6 +428,7 @@ else |
 | pins | {'pin_1': {'name': 'gnd', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'csb', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'sdi', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'sck', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'sdo', 'number': '5', 'type': 'signal'}, 'pin_6': {'name': 'vddio', 'number': '6', 'type': 'power'}, 'pin_7': {'name': 'gnd', 'number': '7', 'type': 'power'}, 'pin_8': {'name': 'vdd', 'number': '8', 'type': 'power'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | isnpt280 |  
 | short_code_upper | ISNPT280 |  
 | short_name | bosch sensortec bme280 pressure and temperature sensor |  

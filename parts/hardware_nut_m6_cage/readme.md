@@ -344,6 +344,7 @@ afford |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  
 | size | m6 |  

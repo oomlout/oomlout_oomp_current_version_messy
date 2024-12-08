@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m4-hexagon-mild-steel-full-nuts-bright-zinc-plated) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m4-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m45)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4) [webpage_manufacturer_metalmate](https://www.harclob2b.com/m4-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m45)                            
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.0077 | 0.0077 | 0.0077 | 0.0043 | 0.0035 |
 | orbital_fasteners | 0.0077 | 0.0077 | 0.0077 | 0.0043 | 0.0035 | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -285,13 +285,9 @@ coral |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4 |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m4-hexagon-mild-steel-full-nuts-bright-zinc-plated |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.harclob2b.com/m4-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m45 |  
-| link_4_name | webpage_manufacturer_metalmate |  
+| link_3 | https://www.harclob2b.com/m4-din934-gr-8-din267-full-nut-zinc-plated-boxed-z0322m45 |  
+| link_3_name | webpage_manufacturer_metalmate |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m4-hexagon-mild-steel-full-nuts-bright-zinc-plated |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m4-hexagon-mild-steel-full-nuts-bright-zinc-plated |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_nut_m4 |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209q6j2 |  
@@ -365,6 +361,7 @@ coral |
 | price_200_distributor_1 | 0.0077 |  
 | price_200_distributor_orbital_fasteners | 0.0077 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0077 |  
 | quantity_current | 200 |  
 | short_code | nu4 |  

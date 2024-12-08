@@ -344,6 +344,7 @@ mesh |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | r8o154 |  
 | short_code_upper | R8O154 |  
 | size | 0805 |  

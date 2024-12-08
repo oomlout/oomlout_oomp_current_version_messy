@@ -431,6 +431,7 @@ post |
 | part_number_upper_length_6 | PBR3_5 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | c |  
 | short_code_upper | C |  
 | short_name |  |  

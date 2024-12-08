@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: abstract surround century soft hazard pulp seminar exclude bag dinner rebuild afford
 
 ### other_codes
-* short_code: n6m
+* short_code: n6m2t
 * oomp_word: baby_chick leaves calendar
 * oomp_word_emoji :baby_chick: :leaves: :calendar:
 * md5_6_alpha: 2sakv
@@ -355,8 +355,8 @@ bag |
 | oomlout_detail_hierarchy_5_upper | T_NUT |  
 | oomlout_detail_hierarchy_5_upper_length_4 | T_NU |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n6m |  
-| oomlout_short_code_upper | N6M |  
+| oomlout_short_code | n6m2t |  
+| oomlout_short_code_upper | N6M2T |  
 | oomp_key | oomp_hardware_nut_m6_2020_t_nut |  
 | oomp_word | baby_chick leaves calendar |  
 | oomp_word_emoji | :baby_chick: :leaves: :calendar: |  
@@ -370,6 +370,7 @@ bag |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu6 |  
 | short_code_upper | NU6 |  
 | size | m6 |  

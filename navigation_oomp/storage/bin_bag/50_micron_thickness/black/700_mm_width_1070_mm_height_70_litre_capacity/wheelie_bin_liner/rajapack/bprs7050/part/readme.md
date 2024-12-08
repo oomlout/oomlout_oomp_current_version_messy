@@ -450,6 +450,7 @@ during |
 | part_number_upper_length_6 | BPRS70 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | b |  
 | short_code_upper | B |  
 | short_name |  |  

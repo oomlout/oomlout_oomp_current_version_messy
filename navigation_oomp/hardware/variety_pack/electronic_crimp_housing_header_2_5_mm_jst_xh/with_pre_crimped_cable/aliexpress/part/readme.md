@@ -374,6 +374,7 @@ omit |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | search_term_aliexpress | 2.54mm XH Connector Socket Kit with Pre-Crimped Cable Wire 2/3/4/5/6/7 Pin Housing JST Adapter Cable Male and Female Compatible |  
 | short_code |  |  
 | short_code_upper |  |  

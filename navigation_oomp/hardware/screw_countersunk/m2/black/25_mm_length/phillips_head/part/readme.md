@@ -415,6 +415,7 @@ try |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | cs2b25ph |  
 | short_code_upper | CS2B25PH |  
 | size | m2 |  

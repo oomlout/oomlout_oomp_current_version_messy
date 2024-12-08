@@ -415,6 +415,7 @@ remind |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | cs640pz |  
 | short_code_upper | CS640PZ |  
 | size | m6 |  

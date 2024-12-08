@@ -370,6 +370,7 @@ civil |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | br25 |  
 | short_code_upper | BR25 |  
 | size | 38_1_mm_internal_diameter |  

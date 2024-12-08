@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head) [webpage_distributor_orbital_fasteners](https://www.orbitalfasteners.co.uk/products/m6-x-80-socket-cap-screw-high-tensile-grade-12-9-self-colour) [webpage_distributor_accu](https://www.accu.co.uk/metric-cap-head-screws/16088-SSC-M6-80-12-9)                           
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head)                             
 
 #### price
 
@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 | orbital_fasteners | 0.1442 | 0.1442 | 0.0802 | 0.0641 | 0.0641 |
 | orbital_fasteners | 0.1442 | 0.1442 | 0.0802 | 0.0641 | 0.0641 | 
 | accu | 0.86 | 0.20 | 0.19 | 0.17 | 0.17 | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -353,15 +353,7 @@ bean |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head |  
 | link_2_name | github_link |  
-| link_3 | https://www.orbitalfasteners.co.uk/products/m6-x-80-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
-| link_3_name | webpage_distributor_orbital_fasteners |  
-| link_4 | https://www.accu.co.uk/metric-cap-head-screws/16088-SSC-M6-80-12-9 |  
-| link_4_name | webpage_distributor_accu |  
 | link_buy | https://www.orbitalfasteners.co.uk/products/m6-x-80-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
-| link_buy_1 | https://www.orbitalfasteners.co.uk/products/m6-x-80-socket-cap-screw-high-tensile-grade-12-9-self-colour |  
-| link_buy_1_name | webpage_distributor_orbital_fasteners |  
-| link_buy_2 | https://www.accu.co.uk/metric-cap-head-screws/16088-SSC-M6-80-12-9 |  
-| link_buy_2_name | webpage_distributor_accu |  
 | link_buy_name | orbital_fasteners |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/hardware_screw_socket_cap_m6_black_80_mm_length_hex_head |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2053i9w |  
@@ -472,6 +464,7 @@ bean |
 | price_200_distributor_accu | 0.19 |  
 | price_200_distributor_orbital_fasteners | 0.0802 |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current | 0.0802 |  
 | quantity_current | 200 |  
 | short_code | sc6b80h |  

@@ -368,6 +368,7 @@ twin |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | hi120psm |  
 | short_code_upper | HI120PSM |  
 | size | 2_54_mm |  

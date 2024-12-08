@@ -370,6 +370,7 @@ smart |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | b |  
 | short_code_upper | B |  
 | size | 9_5_mm_internal_diameter |  

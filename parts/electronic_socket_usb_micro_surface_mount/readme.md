@@ -341,6 +341,7 @@ debris |
 | pins | {'pin_1': {'name': 'vbus', 'number': '1', 'type': 'power'}, 'pin_2': {'name': 'usb_negative', 'number': '2', 'type': 'signal'}, 'pin_3': {'name': 'usb_positive', 'number': '3', 'type': 'signal'}, 'pin_4': {'name': 'id', 'number': '4', 'type': 'signal'}, 'pin_5': {'name': 'gnd', 'number': '5', 'type': 'power'}, 'pin_6': {'name': 'shield', 'number': '6', 'type': 'signal'}} |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | scumcsm |  
 | short_code_upper | SCUMCSM |  
 | short_name |  |  

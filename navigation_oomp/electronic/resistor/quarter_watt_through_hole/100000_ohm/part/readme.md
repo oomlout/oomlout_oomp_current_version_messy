@@ -343,6 +343,7 @@ upset |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | ro104 |  
 | short_code_upper | RO104 |  
 | size | quarter_watt_through_hole |  

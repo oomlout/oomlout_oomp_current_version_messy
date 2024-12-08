@@ -416,6 +416,7 @@ huge |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fhb22ph |  
 | short_code_upper | FHB22PH |  
 | size | m2_5 |  

@@ -403,6 +403,7 @@ fitness |
 | part_number_upper_length_6 | 390_31 |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code |  |  
 | short_code_upper |  |  
 | size | ikea_hejne |  

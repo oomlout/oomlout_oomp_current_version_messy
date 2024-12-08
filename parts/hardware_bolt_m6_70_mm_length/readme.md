@@ -361,6 +361,7 @@ crack |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | b670 |  
 | short_code_upper | B670 |  
 | size | m6 |  

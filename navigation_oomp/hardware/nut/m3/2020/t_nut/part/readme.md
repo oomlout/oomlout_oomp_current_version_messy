@@ -26,7 +26,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
   * bip 39 word: river drop cycle often attract rib century rib shock bargain capable actor
 
 ### other_codes
-* short_code: n3m
+* short_code: n3m2t
 * oomp_word: umbrella elephant cookie
 * oomp_word_emoji :umbrella: :elephant: :cookie:
 * md5_6_alpha: 1nd8k
@@ -355,8 +355,8 @@ shock |
 | oomlout_detail_hierarchy_5_upper | T_NUT |  
 | oomlout_detail_hierarchy_5_upper_length_4 | T_NU |  
 | oomlout_oomp_utility_custom_data_manipulation | True |  
-| oomlout_short_code | n3m |  
-| oomlout_short_code_upper | N3M |  
+| oomlout_short_code | n3m2t |  
+| oomlout_short_code_upper | N3M2T |  
 | oomp_key | oomp_hardware_nut_m3_2020_t_nut |  
 | oomp_word | umbrella elephant cookie |  
 | oomp_word_emoji | :umbrella: :elephant: :cookie: |  
@@ -370,6 +370,7 @@ shock |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | nu3 |  
 | short_code_upper | NU3 |  
 | size | m3 |  

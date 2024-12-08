@@ -415,6 +415,7 @@ human |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | fh2b10ph |  
 | short_code_upper | FH2B10PH |  
 | size | m2 |  

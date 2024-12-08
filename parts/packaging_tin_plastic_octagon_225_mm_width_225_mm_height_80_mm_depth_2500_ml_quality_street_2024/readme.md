@@ -55,7 +55,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 |  |  |  |  |  |  |
 | orbital_fasteners |  |  |  |  |  | 
 | accu |  |  |  |  |  | 
-
+| amazon |  |  |  |  |  | 
 
 
 
@@ -393,6 +393,7 @@ size |
 | price_10 |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | price_current |  |  
 | short_code |  |  
 | short_code_upper |  |  

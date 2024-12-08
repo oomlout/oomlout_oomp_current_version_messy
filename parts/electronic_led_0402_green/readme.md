@@ -344,6 +344,7 @@ couch |
 | part_number_upper |  |  
 | price_1_name | orbital_fasteners |  
 | price_2_name | accu |  
+| price_3_name | amazon |  
 | short_code | l4g |  
 | short_code_upper | L4G |  
 | short_name | 0402 Green Led |  
