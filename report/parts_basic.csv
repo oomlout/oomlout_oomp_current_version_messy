@@ -9,6 +9,16 @@ aluminium_extrusion_2020_600_mm_length,,Aluminium Extrusion 2020 600 mm Length,a
 aluminium_extrusion_2020_700_mm_length,,Aluminium Extrusion 2020 700 mm Length,aluminium_extrusion,2020,,,700_mm_length,,,
 aluminium_extrusion_2020_800_mm_length,,Aluminium Extrusion 2020 800 mm Length,aluminium_extrusion,2020,,,800_mm_length,,,
 aluminium_extrusion_2020_900_mm_length,,Aluminium Extrusion 2020 900 mm Length,aluminium_extrusion,2020,,,900_mm_length,,,
+appliance_vacuum_cleaner_dyson_v10_dyson_v10,,Appliance Vacuum Cleaner Dyson V10 Dyson V10,appliance,vacuum_cleaner,dyson_v10,,,,dyson,v10
+appliance_vacuum_cleaner_dyson_v11_dyson_v11,,Appliance Vacuum Cleaner Dyson V11 Dyson V11,appliance,vacuum_cleaner,dyson_v11,,,,dyson,v11
+appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson,,Appliance Vacuum Cleaner Dyson V6 Combination Tool Dyson,appliance,vacuum_cleaner,dyson_v6,,combination_tool,,dyson,
+appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson,,Appliance Vacuum Cleaner Dyson V6 Crevice Tool Dyson,appliance,vacuum_cleaner,dyson_v6,,crevice_tool,,dyson,
+appliance_vacuum_cleaner_dyson_v6_dyson_v6,,Appliance Vacuum Cleaner Dyson V6 Dyson V6,appliance,vacuum_cleaner,dyson_v6,,,,dyson,v6
+appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson,,Appliance Vacuum Cleaner Dyson V6 Mini Motorhead Tool Dyson,appliance,vacuum_cleaner,dyson_v6,,mini_motorhead_tool,,dyson,
+appliance_vacuum_cleaner_dyson_v6_motorhead_tool_dyson,,Appliance Vacuum Cleaner Dyson V6 Motorhead Tool Dyson,appliance,vacuum_cleaner,dyson_v6,,motorhead_tool,,dyson,
+appliance_vacuum_cleaner_dyson_v6_precision_tool_dyson,,Appliance Vacuum Cleaner Dyson V6 Precision Tool Dyson,appliance,vacuum_cleaner,dyson_v6,,precision_tool,,dyson,
+appliance_vacuum_cleaner_dyson_v7_dyson_v7,,Appliance Vacuum Cleaner Dyson V7 Dyson V7,appliance,vacuum_cleaner,dyson_v7,,,,dyson,v7
+appliance_vacuum_cleaner_dyson_v8_dyson_v8,,Appliance Vacuum Cleaner Dyson V8 Dyson V8,appliance,vacuum_cleaner,dyson_v8,,,,dyson,v8
 camera_cctv_dome_140_mm,,Camera Cctv Dome 140 mm,camera,cctv_dome,140_mm,,,,,
 company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_rainbow_8_mm_length_version_1,,Company Oomlout Product Prototyping Tin Electronic Crimp Bootlace Ferrule 0 55 mm Diameter Wire Rainbow 8 mm Length Version 1,company_oomlout,product,prototyping_tin,,electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_rainbow_8_mm_length,version_1,,
 company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1,,Company Oomlout Product Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed Version 1,company_oomlout,product,prototyping_tin,,electronic_crimp_bootlace_ferrule_mixed,version_1,,
@@ -74,7 +84,12 @@ electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purpl
 electronic_breakout_board_mcu_pro_mini_atmega328p_arduino_compatible,pm,Electronic Breakout Board MCU Pro Mini Atmega328P Arduino Compatible,electronic,breakout_board_mcu,pro_mini,,atmega328p_arduino_compatible,,,
 electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible,sh,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible,electronic,breakout_board_mcu,shennie,,atmega328p_arduino_compatible,,,
 electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_footprint,sh,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout Arduino Uno Footprint,electronic,breakout_board_mcu,shennie,,atmega328p_arduino_compatible,breakout_arduino_uno_footprint,,
+electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_arduino_uno_short_footprint,sh,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout Arduino Uno Short Footprint,electronic,breakout_board_mcu,shennie,,atmega328p_arduino_compatible,breakout_arduino_uno_short_footprint,,
+electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield,sh,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout Cnc Shield,electronic,breakout_board_mcu,shennie,,atmega328p_arduino_compatible,breakout_cnc_shield,,
 electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch,sh,Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 mm Pitch,electronic,breakout_board_mcu,shennie,,atmega328p_arduino_compatible,breakout_screw_terminal_3_5_mm_pitch,,
+electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible,,Electronic Breakout Board MCU Uno Rev 1 Atmega328P Arduino Compatible,electronic,breakout_board_mcu,uno_rev_1,,atmega328p_arduino_compatible,,,
+electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible,,Electronic Breakout Board MCU Uno Rev 3 Atmega328P Arduino Compatible,electronic,breakout_board_mcu,uno_rev_3,,atmega328p_arduino_compatible,,,
+electronic_breakout_board_mcu_uno_short_atmega328p_arduino_compatible,,Electronic Breakout Board MCU Uno Short Atmega328P Arduino Compatible,electronic,breakout_board_mcu,uno_short,,atmega328p_arduino_compatible,,,
 electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_15_mm_width_15_mm_length_black_pcb_aliexpress,,Electronic Breakout Board Motor Driver Drv8833 Dual H Bridge 15 mm Width 15 mm Length Black PCB Aliexpress,electronic,breakout_board_motor_driver,drv8833,dual_h_bridge,15_mm_width_15_mm_length_black_pcb,,aliexpress,
 electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress,,Electronic Breakout Board Motor Driver Drv8833 Dual H Bridge 18 mm Width 16 mm Length Black PCB Aliexpress,electronic,breakout_board_motor_driver,drv8833,dual_h_bridge,18_mm_width_16_mm_length_black_pcb,,aliexpress,
 electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress,,Electronic Breakout Board Motor Driver L298N Dual H Bridge 25 mm Width 21 mm Length Red PCB Aliexpress,electronic,breakout_board_motor_driver,l298n,dual_h_bridge,25_mm_width_21_mm_length_red_pcb,,aliexpress,
@@ -84,18 +99,3 @@ electronic_breakout_board_motor_driver_step_stick_stepper_motor,sssm,Electronic 
 electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141,,Electronic Breakout Board Servo Tester 32 mm Width 28 mm Height Hw 141,electronic,breakout_board_servo_tester,32_mm_width_28_mm_height,,,,,hw_141
 electronic_button_11_mm_panel_mount,b11p,Electronic Button 11 mm Panel Mount,electronic,button,11_mm,panel_mount,,,,
 electronic_button_3_5_mm_x_6_mm_x_2_5_mm_surface_mount,b3560s,Electronic Button 3 5 mm X 6 mm X 2 5 mm Surface Mount,electronic,button,3_5_mm_x_6_mm_x_2_5_mm,surface_mount,,,,
-electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10,,Electronic Button Keypad 16 Key 118 5 mm Width 118 5 mm Height 11 mm Depth Storm Interface 2K16T10,electronic,button_keypad,,,16_key_118_5_mm_width_118_5_mm_height_11_mm_depth,,storm_interface,2k16t10
-electronic_capacitor_0402_100_nano_farad,c4nf100,Electronic Capacitor 0402 100 Nano Farad,electronic,capacitor,0402,,100_nano_farad,,,
-electronic_capacitor_0402_10_nano_farad,c4nf10,Electronic Capacitor 0402 10 Nano Farad,electronic,capacitor,0402,,10_nano_farad,,,
-electronic_capacitor_0402_1_micro_farad,c4uf1,Electronic Capacitor 0402 1 Micro Farad,electronic,capacitor,0402,,1_micro_farad,,,
-electronic_capacitor_0402_22_nano_farad,c4nf22,Electronic Capacitor 0402 22 Nano Farad,electronic,capacitor,0402,,22_nano_farad,,,
-electronic_capacitor_0402_22_pico_farad,c4pf22,Electronic Capacitor 0402 22 Pico Farad,electronic,capacitor,0402,,22_pico_farad,,,
-electronic_capacitor_0603_100_nano_farad,c6nf100,Electronic Capacitor 0603 100 Nano Farad,electronic,capacitor,0603,,100_nano_farad,,,
-electronic_capacitor_0603_10_micro_farad,c6uf10,Electronic Capacitor 0603 10 Micro Farad,electronic,capacitor,0603,,10_micro_farad,,,
-electronic_capacitor_0603_10_nano_farad,c6nf10,Electronic Capacitor 0603 10 Nano Farad,electronic,capacitor,0603,,10_nano_farad,,,
-electronic_capacitor_0603_1_micro_farad,c6uf1,Electronic Capacitor 0603 1 Micro Farad,electronic,capacitor,0603,,1_micro_farad,,,
-electronic_capacitor_0603_22_pico_farad,c6pf22,Electronic Capacitor 0603 22 Pico Farad,electronic,capacitor,0603,,22_pico_farad,,,
-electronic_capacitor_0603_4_7_micro_farad,c6uf4d7,Electronic Capacitor 0603 4 7 Micro Farad,electronic,capacitor,0603,,4_7_micro_farad,,,
-electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt,catuf4d7v16,Electronic Capacitor 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt,electronic,capacitor,3216_avx_a,tantalum,4_7_micro_farad,16_volt,,
-electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt,c63d54tuf220v10,Electronic Capacitor 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad 10 Volt,electronic,capacitor,6_3_mm_diameter_5_4_mm_tall,electrolytic,220_micro_farad,10_volt,,
-electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_electrolytic_220_micro_farad_10_volt,c63d77tuf220v10,Electronic Capacitor 6 3 mm Diameter 7 7 mm Tall Electrolytic 220 Micro Farad 10 Volt,electronic,capacitor,6_3_mm_diameter_7_7_mm_tall,electrolytic,220_micro_farad,10_volt,,

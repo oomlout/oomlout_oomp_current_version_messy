@@ -42,6 +42,8 @@
     * [hex_head](screw_driver_bit/quarter_inch_drive_100_mm_depth/hex_head)
       * [2_5_mm](screw_driver_bit/quarter_inch_drive_100_mm_depth/hex_head/2_5_mm)
       * [2_mm](screw_driver_bit/quarter_inch_drive_100_mm_depth/hex_head/2_mm)
+* [timer](timer)
+  * [80_mm_diameter_30_mm_depth_black](timer/80_mm_diameter_30_mm_depth_black)
 * [vibratory_bowl](vibratory_bowl)
   * [tabletop](vibratory_bowl/tabletop)
     * [mettler_toledo](vibratory_bowl/tabletop/mettler_toledo)
