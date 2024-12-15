@@ -1,4 +1,3 @@
-* [100_gram_bag](100_gram_bag)
 * [allspice_ground](allspice_ground)
   * [100_gram_bag](allspice_ground/100_gram_bag)
   * [42_mm_width_42_mm_height_100_mm_depth_bottle](allspice_ground/42_mm_width_42_mm_height_100_mm_depth_bottle)
