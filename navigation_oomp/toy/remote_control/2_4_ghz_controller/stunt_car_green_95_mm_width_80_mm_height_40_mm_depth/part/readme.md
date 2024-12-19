@@ -45,7 +45,7 @@ note: This is part of OOMP the Oopen Organization Method For Parts. For more det
 
 #### link
 
-[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth)                             
+[link_main](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth) [github_link](https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth) [link_distributor_amazon](https://www.amazon.com/dp/B09FSFP7H2)                            
 
 #### price
 
@@ -286,7 +286,11 @@ cook |
 | link_1_name | link_main |  
 | link_2 | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth |  
 | link_2_name | github_link |  
-| link_distributor_amzon | https://www.amazon.com/dp/B09FSFP7H2 |  
+| link_3 | https://www.amazon.com/dp/B09FSFP7H2 |  
+| link_3_name | link_distributor_amazon |  
+| link_buy_1 | https://www.amazon.com/dp/B09FSFP7H2 |  
+| link_buy_1_name | link_distributor_amazon |  
+| link_distributor_amazon | https://www.amazon.com/dp/B09FSFP7H2 |  
 | link_main | https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height_40_mm_depth |  
 | link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209xep6 |  
 | link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209xep6 |  
